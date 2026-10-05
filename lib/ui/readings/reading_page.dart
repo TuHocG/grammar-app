@@ -3,6 +3,8 @@
 /// Xếp từ, Đàm thoại, Nghe viết.
 library;
 
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -10,6 +12,7 @@ import 'package:go_router/go_router.dart';
 import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
+import '../../data/reading_loader.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
 import '../widgets/word_tap_text.dart';
@@ -32,9 +35,9 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   void initState() {
     super.initState();
     final db = ref.read(contentDbProvider);
-    _reading = db.reading(widget.id);
+    _reading = loadReading(ref, widget.id);
     if (_reading != null) {
-      ref.read(userDbProvider).setProgress('reading', 'last_in_${_reading!.sid}', '${_reading!.id}');
+      if (_reading!.sid >= 0) ref.read(userDbProvider).setProgress('reading', 'last_in_${_reading!.sid}', '${_reading!.id}');
       ref.read(userDbProvider).setProgress('reading', 'last_reading', '${_reading!.id}');
       _player = SentencePlayer(
         tts: ref.read(ttsProvider),
@@ -69,7 +72,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
     if (r == null) return const Scaffold(body: Center(child: Text('Không có bài này.')));
     final db = ref.read(contentDbProvider);
     final theme = Theme.of(context);
-    final (prev, next) = db.neighbours(r);
+    final (prev, next) = r.id >= userReadingBase ? (null, null) : db.neighbours(r);
     final src = 'reading:${r.id}';
 
     return Scaffold(
@@ -100,7 +103,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
                 constraints: const BoxConstraints(maxHeight: 280),
                 child: ClipRRect(
                   borderRadius: BorderRadius.circular(12),
-                  child: Image.file(db.mediaFile(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
+                  child: Image.file(r.id >= userReadingBase ? File(r.img!) : db.mediaFile(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
                 ),
               ),
             ),

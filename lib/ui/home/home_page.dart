@@ -11,8 +11,7 @@ class _Item {
   final String title;
   final IconData icon;
   final String? route;
-  final String? note;
-  const _Item(this.title, this.icon, {this.route, this.note});
+  const _Item(this.title, this.icon, {this.route});
 }
 
 const _learn = [
@@ -21,9 +20,11 @@ const _learn = [
   _Item('Từ Vựng Của Bạn', Icons.bookmarks, route: '/words'),
   _Item('Văn Phạm', Icons.account_tree, route: '/grammar'),
   _Item('Luyện Nghe', Icons.headphones, route: '/listening'),
-  _Item('Phân Tích Câu', Icons.manage_search, note: 'M5'),
-  _Item('Từ Vựng (Tranh)', Icons.image_search, note: 'M5'),
+  _Item('Phân Tích Câu', Icons.manage_search, route: '/analysis'),
+  _Item('Từ Vựng (Tranh)', Icons.image_search, route: '/pictures'),
   _Item('Luyện Nói', Icons.record_voice_over, route: '/dialogs'),
+  _Item('Quay Từ', Icons.style, route: '/spin'),
+  _Item('Bài Nhập Của Bạn', Icons.edit_document, route: '/my-readings'),
   _Item('Cài Đặt', Icons.settings, route: '/settings'),
   _Item('Hướng Dẫn Cách Học', Icons.help_outline, route: '/help'),
 ];
@@ -67,7 +68,7 @@ class HomePage extends ConsumerWidget {
                         title: it.title,
                         icon: it.icon,
                         enabled: it.route != null,
-                        badge: it.title == 'Từ Vựng Của Bạn' && nWords > 0 ? '$nWords' : it.note,
+                        badge: it.title == 'Từ Vựng Của Bạn' && nWords > 0 ? '$nWords' : null,
                         onTap: it.route == null ? null : () => context.push(it.route!),
                       ),
                   ],

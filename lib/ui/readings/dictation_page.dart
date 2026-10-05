@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
-import '../../data/content_db.dart';
+import '../../data/reading_loader.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
 import 'reading_page.dart';
@@ -35,7 +35,7 @@ class _DictationPageState extends ConsumerState<DictationPage> {
   void initState() {
     super.initState();
     final db = ref.read(contentDbProvider);
-    _reading = db.reading(widget.id);
+    _reading = loadReading(ref, widget.id);
     if (_reading != null) {
       _items = practiceSentences(_reading!);
       _player = SentencePlayer(tts: ref.read(ttsProvider), reading: _reading!, audioPath: _reading!.hasRealAudio ? db.mediaPath(_reading!.audio!) : null);

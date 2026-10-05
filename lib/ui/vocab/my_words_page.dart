@@ -74,11 +74,16 @@ class _MyWordsPageState extends ConsumerState<MyWordsPage> {
           ),
         ),
       ),
-      floatingActionButton: FloatingActionButton.extended(
+      floatingActionButton: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.end, children: [
+        FloatingActionButton.extended(heroTag: 'spin', icon: const Icon(Icons.style), label: const Text('Quay Từ'), onPressed: () => context.push('/spin')),
+        const SizedBox(height: 10),
+        FloatingActionButton.extended(
+        heroTag: 'add',
         icon: const Icon(Icons.add),
         label: const Text('Từ mới'),
         onPressed: () => showEditWordDialog(context, ref),
       ),
+      ]),
       body: words.isEmpty
           ? Center(
               child: Padding(

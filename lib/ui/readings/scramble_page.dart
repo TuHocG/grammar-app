@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
-import '../../data/content_db.dart';
+import '../../data/reading_loader.dart';
 import '../../data/models.dart';
 import 'reading_page.dart';
 
@@ -37,7 +37,7 @@ class _ScramblePageState extends ConsumerState<ScramblePage> {
   @override
   void initState() {
     super.initState();
-    _reading = ref.read(contentDbProvider).reading(widget.id);
+    _reading = loadReading(ref, widget.id);
     if (_reading != null) {
       _items = practiceSentences(_reading!, minWords: 4);
       _load(0);

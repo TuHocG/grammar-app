@@ -7,7 +7,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
-import '../../data/content_db.dart';
+import '../../data/reading_loader.dart';
 import '../../domain/sentence_player.dart';
 import '../widgets/word_tap_text.dart';
 
@@ -28,7 +28,7 @@ class _ListenPageState extends ConsumerState<ListenPage> {
   void initState() {
     super.initState();
     final db = ref.read(contentDbProvider);
-    final r = db.reading(widget.id);
+    final r = loadReading(ref, widget.id);
     if (r != null) {
       _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: r.hasRealAudio ? db.mediaPath(r.audio!) : null)
         ..addListener(_onChange);

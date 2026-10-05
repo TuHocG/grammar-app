@@ -4,13 +4,17 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
 import 'providers.dart';
-import '../data/content_db.dart';
 import '../data/content_db_more.dart';
 
 import '../ui/dictionary/dictionary_page.dart';
 import '../ui/dictionary/entry_page.dart';
 import '../ui/help/help_page.dart';
+import '../data/reading_loader.dart';
+import '../ui/analysis/analysis_page.dart';
 import '../ui/dialogs/dialog_pages.dart';
+import '../ui/pictures/picture_pages.dart';
+import '../ui/user_readings/user_reading_pages.dart';
+import '../ui/vocab/spin_words_page.dart';
 import '../ui/exercises/exercise_pages.dart';
 import '../ui/listening/listening_page.dart';
 import '../ui/video/video_pages.dart';
@@ -55,7 +59,7 @@ GoRouter buildRouter() => GoRouter(
                 GoRoute(
                   path: 'dialog',
                   builder: (context, s) {
-                    final r = ProviderScope.containerOf(context).read(contentDbProvider).reading(int.parse(s.pathParameters['id']!));
+                    final r = loadReadingFrom(ProviderScope.containerOf(context), int.parse(s.pathParameters['id']!));
                     return r == null ? const ReadingPage(id: -1) : DialogPracticePage.forReading(r);
                   },
                 ),
@@ -126,6 +130,18 @@ GoRouter buildRouter() => GoRouter(
           builder: (_, _) => const VideoListPage(),
           routes: [GoRoute(path: ':id', builder: (_, s) => VideoPlayerPage(id: int.parse(s.pathParameters['id']!)))],
         ),
+        GoRoute(path: '/analysis', builder: (_, _) => const AnalysisListPage(), routes: [
+          GoRoute(path: ':id', builder: (_, s) => AnalysisPage(id: int.parse(s.pathParameters['id']!))),
+        ]),
+        GoRoute(path: '/pictures', builder: (_, _) => const PictureTopicsPage(), routes: [
+          GoRoute(path: ':id', builder: (_, s) => PictureTopicPage(id: int.parse(s.pathParameters['id']!))),
+        ]),
+        GoRoute(path: '/spin', builder: (_, _) => const SpinWordsPage()),
+        GoRoute(path: '/my-readings', builder: (_, _) => const UserReadingsPage(), routes: [
+          GoRoute(path: 'new', builder: (_, _) => const UserReadingEditPage()),
+          GoRoute(path: ':id/edit', builder: (_, s) => UserReadingEditPage(id: int.parse(s.pathParameters['id']!))),
+          GoRoute(path: ':id/grammar', builder: (_, s) => UserGrammarListPage(id: int.parse(s.pathParameters['id']!))),
+        ]),
         GoRoute(path: '/words', builder: (_, _) => const MyWordsPage()),
         GoRoute(path: '/settings', builder: (_, _) => const SettingsPage()),
         GoRoute(
