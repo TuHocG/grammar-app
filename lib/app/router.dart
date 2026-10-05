@@ -5,11 +5,15 @@ import 'package:go_router/go_router.dart';
 
 import 'providers.dart';
 import '../data/content_db.dart';
+import '../data/content_db_more.dart';
 
 import '../ui/dictionary/dictionary_page.dart';
 import '../ui/dictionary/entry_page.dart';
 import '../ui/help/help_page.dart';
+import '../ui/dialogs/dialog_pages.dart';
 import '../ui/exercises/exercise_pages.dart';
+import '../ui/listening/listening_page.dart';
+import '../ui/video/video_pages.dart';
 import '../ui/grammar/grammar_page.dart';
 import '../ui/home/home_page.dart';
 import '../ui/readings/dialog_practice_page.dart';
@@ -78,6 +82,49 @@ GoRouter buildRouter() => GoRouter(
               GoRoute(path: ':positions', builder: (_, s) => WordFormsRunPage(positions: s.pathParameters['positions']!.split(',').map(int.parse).toList())),
             ]),
           ],
+        ),
+        GoRoute(
+          path: '/dialogs',
+          builder: (_, _) => const DialogTopicsPage(),
+          routes: [
+            GoRoute(
+              path: 'topic/:sid',
+              builder: (_, s) => DialogListPage(sid: int.parse(s.pathParameters['sid']!)),
+              routes: [
+                GoRoute(
+                  path: 'review',
+                  builder: (context, s) {
+                    final c = ProviderScope.containerOf(context);
+                    return topicReview(c.read(contentDbProvider), c.read(userDbProvider), int.parse(s.pathParameters['sid']!));
+                  },
+                ),
+              ],
+            ),
+            GoRoute(
+              path: ':id',
+              builder: (_, s) => DialogPage(id: int.parse(s.pathParameters['id']!)),
+              routes: [
+                GoRoute(
+                  path: 'practice',
+                  builder: (context, s) {
+                    final db = ProviderScope.containerOf(context).read(contentDbProvider);
+                    final d = db.dialog(int.parse(s.pathParameters['id']!));
+                    return d == null ? const DialogTopicsPage() : dialogPractice(db, d);
+                  },
+                ),
+              ],
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/listening',
+          builder: (_, _) => const ListeningUnitsPage(),
+          routes: [GoRoute(path: ':unit', builder: (_, s) => ListeningUnitPage(unit: int.parse(s.pathParameters['unit']!)))],
+        ),
+        GoRoute(
+          path: '/video',
+          builder: (_, _) => const VideoListPage(),
+          routes: [GoRoute(path: ':id', builder: (_, s) => VideoPlayerPage(id: int.parse(s.pathParameters['id']!)))],
         ),
         GoRoute(path: '/words', builder: (_, _) => const MyWordsPage()),
         GoRoute(path: '/settings', builder: (_, _) => const SettingsPage()),

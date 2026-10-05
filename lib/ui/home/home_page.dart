@@ -20,10 +20,10 @@ const _learn = [
   _Item('Bài Đọc', Icons.menu_book, route: '/readings'),
   _Item('Từ Vựng Của Bạn', Icons.bookmarks, route: '/words'),
   _Item('Văn Phạm', Icons.account_tree, route: '/grammar'),
-  _Item('Luyện Nghe', Icons.headphones, note: 'M4'),
+  _Item('Luyện Nghe', Icons.headphones, route: '/listening'),
   _Item('Phân Tích Câu', Icons.manage_search, note: 'M5'),
   _Item('Từ Vựng (Tranh)', Icons.image_search, note: 'M5'),
-  _Item('Luyện Nói', Icons.record_voice_over, note: 'M4'),
+  _Item('Luyện Nói', Icons.record_voice_over, route: '/dialogs'),
   _Item('Cài Đặt', Icons.settings, route: '/settings'),
   _Item('Hướng Dẫn Cách Học', Icons.help_outline, route: '/help'),
 ];
