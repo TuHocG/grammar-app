@@ -20,6 +20,8 @@ import '../widgets/shell.dart';
 /// Pic5 pages are 700 px high with varying width (595–1319); hotspot pixels refer to the
 /// native image size, so the page's real size is read from the decoded image.
 const pageH = 700.0;
+/// Half of the old app's circle (255 twips = 17 px): offset from `xy` to the dot centre.
+const spotCentre = 8.5;
 
 class PictureTopicsPage extends ConsumerWidget {
   const PictureTopicsPage({super.key});
@@ -215,9 +217,12 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
                             Image.file(db.mediaFile(t.page!), width: w, height: h, fit: BoxFit.fill),
                             for (var k = 0; k < t.words.length; k++)
                               if (t.words[k].hasSpot)
+                                // `xy` is the top-left of the old app's 17 px circle
+                                // (Shape D, 255 twips; Hinh.bas:ShowAllDiemChon), so the
+                                // white dot printed on the page is centred at xy + 8.5.
                                 Positioned(
-                                  left: t.words[k].x! * scale - 11,
-                                  top: t.words[k].y! * scale - 11,
+                                  left: (t.words[k].x! + spotCentre) * scale - 11,
+                                  top: (t.words[k].y! + spotCentre) * scale - 11,
                                   child: _Spot(
                                     number: k + 1,
                                     picked: _picks.contains(k),
