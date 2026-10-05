@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:go_router/go_router.dart';
 
 import '../ui/dictionary/dictionary_page.dart';
@@ -7,7 +9,11 @@ import '../ui/home/home_page.dart';
 import '../ui/settings/settings_page.dart';
 import '../ui/vocab/my_words_page.dart';
 
+/// Environment variable `GRAMMAR_INITIAL_ROUTE=/dict/word/ball` opens a screen directly (dev/screenshots).
+String get _initialRoute => Platform.environment['GRAMMAR_INITIAL_ROUTE'] ?? '/';
+
 GoRouter buildRouter() => GoRouter(
+      initialLocation: _initialRoute,
       routes: [
         GoRoute(path: '/', builder: (_, _) => const HomePage()),
         GoRoute(

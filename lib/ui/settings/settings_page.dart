@@ -93,8 +93,8 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           ListTile(
             title: const Text('Nội dung'),
             subtitle: Text(
-              'Từ điển ${counts['dict']?['entries']} mục · Bài đọc ${counts['readings']?['readings']} · Luyện nói ${counts['dialogs']?['dialogs']} · '
-              'Văn phạm ${counts['grammar']?['lessons']} · Bài tập ${counts['exercises']?['exercises']} · Phụ đề ${counts['subtitles']?['films']} tập',
+              'Từ điển ${counts['dict_entry']} mục · Bài đọc ${counts['reading']} · Luyện nói ${counts['dialog']} · '
+              'Văn phạm ${counts['grammar_lesson']} · Bài tập ${counts['exercise']} · Phụ đề ${counts['subtitle_film']} tập',
             ),
           ),
           const _Header('Giới thiệu'),

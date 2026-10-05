@@ -1,0 +1,62 @@
+// Runs against the real dist/grammar.db when it exists (skipped otherwise).
+import 'dart:io';
+
+import 'package:flutter_test/flutter_test.dart';
+import 'package:grammar/data/content_db.dart';
+import 'package:grammar/domain/lookup.dart';
+
+void main() {
+  final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
+  final has = File('$dir/grammar.db').existsSync();
+  late ContentDb db;
+  late LookupService lookup;
+
+  setUpAll(() {
+    if (!has) return;
+    db = ContentDb.open(dir);
+    lookup = LookupService(db);
+  });
+  tearDownAll(() {
+    if (has) db.close();
+  });
+
+  test('quick def + full entry for "ball"', () {
+    final r = lookup.lookup('ball.');
+    expect(r.found, isTrue);
+    expect(r.quick?.vi, 'quả bóng');
+    expect(r.quick?.respell, isNotEmpty);
+    expect(r.entries.first.ipa, 'bɒ:l');
+    expect(r.entries.first.segs.first.kind, 'pos');
+  }, skip: !has);
+
+  test('Xem#x# redirect: abaci -> abacus', () {
+    final r = lookup.lookup('abaci');
+    expect(r.redirectedFrom, 'abaci');
+    expect(r.headword, 'abacus');
+  }, skip: !has);
+
+  test('inflected form falls back to the base form', () {
+    final r = lookup.lookup('abandonning');   // not a headword; doubled consonant + -ing
+    expect(r.found, isTrue);
+    expect(r.key, 'abandon');
+  }, skip: !has);
+
+  test('related forms for "unit"', () {
+    final r = lookup.lookup('unit');
+    expect(r.family, isNotNull);
+    expect(r.family!.members.map((m) => m.word), contains('subunit'));
+  }, skip: !has);
+
+  test('prefix search is ordered and fast', () {
+    final sw = Stopwatch()..start();
+    final hits = db.around('aban', before: 3, after: 50);
+    sw.stop();
+    expect(hits.any((h) => h.key == 'abandon'), isTrue);
+    expect(sw.elapsedMilliseconds, lessThan(200));
+  }, skip: !has);
+
+  test('counts match the ETL manifest', () {
+    expect(db.counts['dict_entry'], 544266);
+    expect(db.helpTopics().length, 30);
+  }, skip: !has);
+}
