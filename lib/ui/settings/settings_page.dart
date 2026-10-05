@@ -38,7 +38,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           const _Header('Giọng đọc'),
           ListTile(
             title: const Text('Giọng'),
-            subtitle: Text(s.ttsVoice ?? 'Mặc định của hệ thống'),
+            subtitle: Text(_voices?.where((v) => v.id == s.ttsVoice).firstOrNull?.toString() ?? (s.ttsVoice ?? 'Mặc định của hệ thống')),
             trailing: const Icon(Icons.chevron_right),
             onTap: _voices == null
                 ? null
@@ -49,7 +49,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
                         title: const Text('Chọn giọng tiếng Anh'),
                         children: [
                           SimpleDialogOption(onPressed: () => Navigator.pop(c, ''), child: const Text('Mặc định của hệ thống')),
-                          for (final v in _voices!) SimpleDialogOption(onPressed: () => Navigator.pop(c, v.name), child: Text(v.toString())),
+                          for (final v in _voices!) SimpleDialogOption(onPressed: () => Navigator.pop(c, v.id), child: Text(v.toString())),
                         ],
                       ),
                     );

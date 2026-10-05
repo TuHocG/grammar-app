@@ -17,7 +17,7 @@ class _Item {
 
 const _learn = [
   _Item('Từ điển', Icons.search, route: '/dict'),
-  _Item('Bài Đọc', Icons.menu_book, note: 'M2'),
+  _Item('Bài Đọc', Icons.menu_book, route: '/readings'),
   _Item('Từ Vựng Của Bạn', Icons.bookmarks, route: '/words'),
   _Item('Văn Phạm', Icons.account_tree, note: 'M3'),
   _Item('Luyện Nghe', Icons.headphones, note: 'M4'),

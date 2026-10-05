@@ -1,11 +1,21 @@
 import 'dart:io';
 
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+
+import 'providers.dart';
+import '../data/content_db.dart';
 
 import '../ui/dictionary/dictionary_page.dart';
 import '../ui/dictionary/entry_page.dart';
 import '../ui/help/help_page.dart';
 import '../ui/home/home_page.dart';
+import '../ui/readings/dialog_practice_page.dart';
+import '../ui/readings/dictation_page.dart';
+import '../ui/readings/listen_page.dart';
+import '../ui/readings/reading_page.dart';
+import '../ui/readings/reading_toc_page.dart';
+import '../ui/readings/scramble_page.dart';
 import '../ui/settings/settings_page.dart';
 import '../ui/vocab/my_words_page.dart';
 
@@ -22,6 +32,29 @@ GoRouter buildRouter() => GoRouter(
           routes: [
             GoRoute(path: 'word/:word', builder: (_, s) => EntryPage(word: Uri.decodeComponent(s.pathParameters['word']!))),
             GoRoute(path: ':id', builder: (_, s) => EntryPage(id: int.tryParse(s.pathParameters['id']!))),
+          ],
+        ),
+        GoRoute(
+          path: '/readings',
+          builder: (_, _) => const ReadingTocPage(),
+          routes: [
+            GoRoute(path: 'section/:sid', builder: (_, s) => ReadingListPage(sid: int.parse(s.pathParameters['sid']!))),
+            GoRoute(
+              path: ':id',
+              builder: (_, s) => ReadingPage(id: int.parse(s.pathParameters['id']!)),
+              routes: [
+                GoRoute(path: 'listen', builder: (_, s) => ListenPage(id: int.parse(s.pathParameters['id']!))),
+                GoRoute(path: 'scramble', builder: (_, s) => ScramblePage(id: int.parse(s.pathParameters['id']!))),
+                GoRoute(path: 'dictation', builder: (_, s) => DictationPage(id: int.parse(s.pathParameters['id']!))),
+                GoRoute(
+                  path: 'dialog',
+                  builder: (context, s) {
+                    final r = ProviderScope.containerOf(context).read(contentDbProvider).reading(int.parse(s.pathParameters['id']!));
+                    return r == null ? const ReadingPage(id: -1) : DialogPracticePage.forReading(r);
+                  },
+                ),
+              ],
+            ),
           ],
         ),
         GoRoute(path: '/words', builder: (_, _) => const MyWordsPage()),
