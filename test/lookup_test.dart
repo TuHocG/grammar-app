@@ -35,6 +35,17 @@ void main() {
     expect(r.headword, 'abacus');
   }, skip: !has);
 
+  test('quick meaning of the exact word wins over its Xem#x# redirect: heard', () {
+    final r = lookup.lookup('heard');
+    expect(r.headword, 'heard');
+    expect(r.key, 'heard');
+    expect(r.quick?.vi, 'đã nghe (quá khứ của Hear)');
+    expect(r.ipa, 'hə:d');
+    expect(r.entries.first.headword, 'hear');   // full entry borrowed from the target
+    expect(r.entryHeadword, 'hear');
+    expect(r.redirectedFrom, isNull);
+  }, skip: !has);
+
   test('inflected form falls back to the base form', () {
     final r = lookup.lookup('abandonning');   // not a headword; doubled consonant + -ing
     expect(r.found, isTrue);

@@ -78,6 +78,8 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
             Text('${r.redirectedFrom} → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
           if (r.key != r.query.toLowerCase() && r.redirectedFrom == null && r.found)
             Text('${r.query} → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
+          if (r.entryHeadword != null)
+            Text('Mục đầy đủ: ${r.entryHeadword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
           const SizedBox(height: 10),
           if (userWord?.meaning != null && userWord!.meaning!.isNotEmpty)
             Padding(
