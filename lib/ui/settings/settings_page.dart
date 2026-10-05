@@ -4,7 +4,13 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import 'dart:io';
+
+import 'package:path/path.dart' as p;
+import 'package:path_provider/path_provider.dart';
+
 import '../../app/providers.dart';
+import '../../data/backup.dart';
 import '../../platform/tts.dart';
 
 class SettingsPage extends ConsumerStatefulWidget {
@@ -84,6 +90,43 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
               selected: {s.themeMode},
               onSelectionChanged: (v) => n.setThemeMode(v.first),
             ),
+          ),
+          const _Header('Sao lưu'),
+          ListTile(
+            leading: const Icon(Icons.upload_file),
+            title: const Text('Xuất dữ liệu học tập ra file'),
+            subtitle: const Text('Từ đã lưu, đánh dấu, tiến độ, câu đã chọn, bài tự nhập, cài đặt → một file JSON trong thư mục Documents'),
+            onTap: () async {
+              final dir = await getApplicationDocumentsDirectory();
+              final file = File(p.join(dir.path, 'grammar-backup-${DateTime.now().toIso8601String().substring(0, 10)}.json'));
+              await file.writeAsString(exportBackup(ref.read(userDbProvider)));
+              if (context.mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Đã ghi ${file.path}')));
+            },
+          ),
+          ListTile(
+            leading: const Icon(Icons.download),
+            title: const Text('Khôi phục từ file sao lưu'),
+            subtitle: const Text('Nhập đường dẫn file JSON; dữ liệu hiện tại sẽ bị thay thế'),
+            onTap: () async {
+              final ctl = TextEditingController();
+              final path = await showDialog<String>(
+                context: context,
+                builder: (c) => AlertDialog(
+                  title: const Text('File sao lưu'),
+                  content: TextField(controller: ctl, decoration: const InputDecoration(hintText: 'C:\\...\\grammar-backup-....json')),
+                  actions: [TextButton(onPressed: () => Navigator.pop(c), child: const Text('Huỷ')), FilledButton(onPressed: () => Navigator.pop(c, ctl.text.trim()), child: const Text('Khôi phục'))],
+                ),
+              );
+              if (path == null || path.isEmpty) return;
+              try {
+                final n = importBackup(ref.read(userDbProvider), await File(path).readAsString());
+                ref.invalidate(userWordsProvider);
+                ref.invalidate(settingsProvider);
+                if (context.mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Đã khôi phục $n dòng')));
+              } catch (e) {
+                if (context.mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Không khôi phục được: $e')));
+              }
+            },
           ),
           const _Header('Dữ liệu'),
           ListTile(

@@ -13,9 +13,14 @@ import 'data/content_db.dart';
 import 'data/user_db.dart';
 import 'platform/tts.dart';
 import 'ui/setup/data_dir_page.dart';
+import 'ui/widgets/type_to_search.dart';
 
 /// Development default; override with `--dart-define=GRAMMAR_DATA_DIR=...`.
 const _envDataDir = String.fromEnvironment('GRAMMAR_DATA_DIR');
+
+/// Key of the encrypted content database in release builds (`--dart-define=GRAMMAR_DB_KEY=...`,
+/// build with `--obfuscate`). Empty in development, where the database is plain.
+const _dbKey = String.fromEnvironment('GRAMMAR_DB_KEY');
 
 late UserDb _userDb;
 
@@ -46,7 +51,7 @@ Future<void> _start({String? error}) async {
   }
   final ContentDb content;
   try {
-    content = ContentDb.open(dir);
+    content = ContentDb.open(dir, key: _dbKey);
   } catch (e) {
     await _start(error: 'Không mở được grammar.db: $e');
     return;
@@ -83,7 +88,7 @@ class GrammarApp extends ConsumerWidget {
       routerConfig: _router,
       builder: (context, child) => MediaQuery(
         data: MediaQuery.of(context).copyWith(textScaler: TextScaler.linear(s.fontScale)),
-        child: child!,
+        child: TypeToSearch(router: _router, child: child!),
       ),
     );
   }

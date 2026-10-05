@@ -27,3 +27,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+# package:sqlite3 3.x builds SQLite itself; use the SQLite3MultipleCiphers variant so the
+# content database can be shipped encrypted (docs/07 §11). Plain databases still open.
+hooks:
+  user_defines:
+    sqlite3:
+      source: sqlite3mc
