@@ -20,6 +20,7 @@ import '../../app/providers.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../widgets/word_tap_text.dart';
+import '../widgets/shell.dart';
 
 /// Finds the video file of an episode inside [dir]: "A 01.mp4", then the old "A  1.avi"
 /// spelling, then any file starting with the code (the old app accepted "F  1 Beauty….avi").
@@ -56,7 +57,7 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
     final dir = ref.read(userDbProvider).setting('video_dir') ?? '';
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: const Text('Video'),
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/21'))],
       ),
@@ -209,7 +210,7 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
     if (f == null) return const Scaffold(body: Center(child: Text('Không có tập này.')));
     if (_file == null) {
       return Scaffold(
-        appBar: AppBar(title: Text(f.title)),
+        appBar: GrammarAppBar(title: Text(f.title)),
         body: Center(
           child: Padding(
             padding: const EdgeInsets.all(24),
@@ -223,7 +224,7 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
       autofocus: true,
       onKeyEvent: _onKey,
       child: Scaffold(
-        appBar: AppBar(
+        appBar: GrammarAppBar(
           title: Text('${f.code} · ${f.group == 'F' ? f.title : (f.firstLine ?? '')}', maxLines: 1, overflow: TextOverflow.ellipsis),
           actions: [
             IconButton(tooltip: 'Phụ đề Anh (A)', icon: Icon(Icons.subtitles, color: _showEn ? theme.colorScheme.primary : null), onPressed: () => setState(() => _showEn = !_showEn)),

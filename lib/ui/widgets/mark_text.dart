@@ -42,7 +42,7 @@ class _MarkTextState extends ConsumerState<MarkText> {
     }
     _recs.clear();
     final theme = Theme.of(context);
-    final base = widget.style ?? theme.textTheme.bodyLarge!;
+    final base = widget.style ?? theme.textTheme.bodyLarge!.copyWith(fontSize: 17, height: 1.7);
     final saved = ref.watch(userWordsProvider).savedKeys;
     final lines = widget.text.replaceAll('\r\n', '\n').split('\n');
     final blocks = <Widget>[];
@@ -80,11 +80,12 @@ class _MarkTextState extends ConsumerState<MarkText> {
       Color? bg;
       if (line.startsWith('### ')) {
         content = line.substring(4);
-        style = theme.textTheme.titleMedium!.copyWith(color: theme.colorScheme.primary, fontWeight: FontWeight.w700);
-        pad = const EdgeInsets.only(top: 10, bottom: 2);
+        style = theme.textTheme.titleLarge!.copyWith(color: context.g.ink);
+        pad = const EdgeInsets.only(top: 14, bottom: 4);
       } else if (line.startsWith('> ')) {
         content = line.substring(2);
-        bg = theme.colorScheme.secondaryContainer;
+        bg = context.g.lilac;
+        style = base.copyWith(color: context.g.indigo, fontWeight: FontWeight.w600);
         pad = const EdgeInsets.symmetric(vertical: 4);
       }
       final span = _inline(content, style, theme, saved);
@@ -92,9 +93,9 @@ class _MarkTextState extends ConsumerState<MarkText> {
       if (bg != null) {
         w = Container(
           width: double.infinity,
-          margin: const EdgeInsets.symmetric(vertical: 4),
-          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-          decoration: BoxDecoration(color: bg, borderRadius: BorderRadius.circular(6)),
+          margin: const EdgeInsets.symmetric(vertical: 6),
+          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+          decoration: BoxDecoration(color: bg, borderRadius: BorderRadius.circular(8)),
           child: Text.rich(span),
         );
       }
@@ -113,16 +114,16 @@ class _MarkTextState extends ConsumerState<MarkText> {
     for (final m in _markRe.allMatches(text)) {
       if (m.start > last) spans.addAll(_words(text.substring(last, m.start), style, saved));
       if (m.group(1) != null) {
-        spans.addAll(_words(m.group(1)!, style.copyWith(fontWeight: FontWeight.w700), saved));
+        spans.addAll(_words(m.group(1)!, style.copyWith(fontWeight: FontWeight.w600, color: context.g.iris), saved));
       } else {
         final code = m.group(2)!;
         final n = int.tryParse(code.trim());
         if (n != null && widget.onLessonRef != null) {
           final rec = TapGestureRecognizer()..onTap = () => widget.onLessonRef!(n);
           _recs.add(rec);
-          spans.add(TextSpan(text: ' $code ', style: style.copyWith(color: theme.colorScheme.primary, decoration: TextDecoration.underline), recognizer: rec));
+          spans.add(TextSpan(text: ' $code ', style: style.copyWith(color: context.g.iris, decoration: TextDecoration.underline, decorationColor: context.g.iris), recognizer: rec));
         } else {
-          spans.addAll(_words(code, style.copyWith(backgroundColor: theme.colorScheme.tertiaryContainer, fontWeight: FontWeight.w600), saved));
+          spans.addAll(_words(code, style.copyWith(fontFamily: Tokens.readingFont, color: context.g.indigo, fontWeight: FontWeight.w600), saved));
         }
       }
       last = m.end;
@@ -143,7 +144,7 @@ class _MarkTextState extends ConsumerState<MarkText> {
       final key = searchKey(cleanToken(tok));
       final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: text.trim(), source: widget.source);
       _recs.add(rec);
-      out.add(TextSpan(text: tok, style: saved.contains(key) ? style.copyWith(color: Marks.savedWord) : style, recognizer: rec));
+      out.add(TextSpan(text: tok, style: saved.contains(key) ? style.copyWith(color: context.g.savedWord, fontWeight: FontWeight.w600) : style, recognizer: rec));
     }
     return out;
   }

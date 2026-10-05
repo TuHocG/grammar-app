@@ -15,6 +15,7 @@ import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../data/user_db_more.dart';
 import '../dictionary/quick_def_sheet.dart';
+import '../widgets/shell.dart';
 
 /// Pic5 pages are 700 px high with varying width (595–1319); hotspot pixels refer to the
 /// native image size, so the page's real size is read from the decoded image.
@@ -29,7 +30,7 @@ class PictureTopicsPage extends ConsumerWidget {
     final withPicks = ref.read(userDbProvider).pictureTopicsWithPicks();
     final last = int.tryParse(ref.read(userDbProvider).progress('pictures', 'last') ?? '');
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: const Text('Từ Vựng (Tranh)'),
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/22'))],
       ),
@@ -179,7 +180,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
     final cur = _current == null ? null : t.words[_current!];
 
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text(t.title),
         actions: [
           SegmentedButton<int>(

@@ -14,6 +14,7 @@ import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
 import '../../data/models.dart';
+import '../widgets/shell.dart';
 import 'exercise_runner.dart';
 
 const groupSize = 25;
@@ -25,32 +26,68 @@ class ExerciseGroupsPage extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final db = ref.read(contentDbProvider);
-    final menu = db.exerciseMenus().firstWhere((m) => m.idx == menuIdx);
+    final menus = db.exerciseMenus();
+    final menu = menus.firstWhere((m) => m.idx == menuIdx);
     final n = (menu.count / groupSize).ceil();
     final userDb = ref.read(userDbProvider);
     final theme = Theme.of(context);
+    final g = context.g;
+    final progress = userDb.progressOf('exercise', prefix: 'menu$menuIdx-g');
     return Scaffold(
-      appBar: AppBar(title: Text(menu.name)),
-      body: ListView.builder(
-        itemCount: n,
-        itemBuilder: (context, i) {
-          final start = menu.start + i * groupSize;
-          final end = min(menu.start + (i + 1) * groupSize, menu.end);
-          final saved = userDb.progress('exercise', 'menu$menuIdx-g$i');
-          return ListTile(
-            leading: CircleAvatar(child: Text('${i + 1}')),
-            title: Text('Bài Tập ${i + 1}'),
-            subtitle: Text('${end - start} câu${saved != null ? ' · đã làm: ${_summary(saved)}' : ''}', style: theme.textTheme.bodySmall),
-            onTap: () => context.push('/exercises/menu/$menuIdx/$i'),
-          );
-        },
+      appBar: GrammarAppBar(
+        crumbs: [const Crumb('Bài Tập', '/'), Crumb(menu.name)],
+        actions: [
+          if (context.isWide)
+            PopupMenuButton<int>(
+              tooltip: 'Bộ đề khác',
+              onSelected: (i) => context.pushReplacement('/exercises/menu/$i'),
+              itemBuilder: (_) => [for (final m in menus.where((m) => m.idx != 8)) PopupMenuItem(value: m.idx, child: Text(m.name))],
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                decoration: BoxDecoration(border: Border.all(color: g.border), borderRadius: BorderRadius.circular(100)),
+                child: Row(mainAxisSize: MainAxisSize.min, children: [Icon(Icons.swap_horiz, size: 18, color: g.slate), const SizedBox(width: 8), Text('Bộ đề khác', style: theme.textTheme.labelLarge)]),
+              ),
+            ),
+          const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/8')),
+        ],
+      ),
+      body: RailListView(
+        children: [
+          Text(menu.name, style: theme.textTheme.headlineLarge),
+          Text('$n Bài Tập, mỗi bài tối đa $groupSize câu · ${menu.count} câu · điểm được lưu theo từng bài', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+          const SizedBox(height: 24),
+          AutoGrid(
+            minWidth: 220,
+            children: [
+              for (var i = 0; i < n; i++)
+                Builder(builder: (context) {
+                  final start = menu.start + i * groupSize;
+                  final end = min(menu.start + (i + 1) * groupSize, menu.end);
+                  final st = RegExp(r'"pos":(\d+),"score":(\d+),"done":(\d+)').firstMatch(progress['menu$menuIdx-g$i'] ?? '');
+                  final done = st == null ? 0 : int.parse(st.group(3)!);
+                  final score = st == null ? 0 : int.parse(st.group(2)!);
+                  return Surface(
+                    onTap: () => context.push('/exercises/menu/$menuIdx/$i'),
+                    padding: const EdgeInsets.all(16),
+                    child: Row(children: [
+                      LetterDot('${i + 1}', size: 36, fill: done > 0 ? g.iris : g.lilac, border: done > 0 ? g.iris : g.lilac, color: done > 0 ? theme.colorScheme.onPrimary : g.iris),
+                      const SizedBox(width: 12),
+                      Expanded(
+                        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                          Text('Bài Tập ${i + 1}', style: theme.textTheme.titleMedium),
+                          Text(done > 0 ? 'đúng $score/$done · ${end - start} câu' : '${end - start} câu', style: theme.textTheme.bodySmall),
+                        ]),
+                      ),
+                      Icon(Icons.chevron_right, color: g.fog),
+                    ]),
+                  );
+                }),
+            ],
+          ),
+        ],
       ),
     );
-  }
-
-  String _summary(String json) {
-    final m = RegExp(r'"score":(\d+),"done":(\d+)').firstMatch(json);
-    return m == null ? '' : 'đúng ${m.group(1)}/${m.group(2)}';
   }
 }
 
@@ -70,7 +107,8 @@ class ExerciseGroupRunPage extends ConsumerWidget {
     final groups = (menu.count / groupSize).ceil();
     return ExerciseRunner(
       key: ValueKey('menu$menuIdx-g$group'),
-      title: '${menu.name} · Bài Tập ${group + 1}',
+      title: 'Bài Tập ${group + 1}',
+      crumbs: [const Crumb('Bài Tập', '/'), Crumb(menu.name, '/exercises/menu/$menuIdx')],
       exercises: items,
       progressKey: 'menu$menuIdx-g$group',
       onNextGroup: group + 1 < groups ? () => context.pushReplacement('/exercises/menu/$menuIdx/${group + 1}') : null,
@@ -87,8 +125,15 @@ class LessonExercisesPage extends ConsumerWidget {
     final db = ref.read(contentDbProvider);
     var items = db.exercisesForLessons(refs).where((e) => !e.isEmpty).toList();
     if (refs.length > 1) items = List.of(items)..shuffle(Random(refs.fold<int>(0, (a, b) => a * 31 + b)));
-    final title = refs.length == 1 ? 'Bài tập: ${db.grammarLesson(refs.first)?.title ?? ''}' : 'Bài tập trộn ${refs.length} bài';
-    return ExerciseRunner(key: ValueKey('lessons-${refs.join(',')}'), title: title, exercises: items, lessonContext: true, progressKey: 'lessons-${refs.join(',')}');
+    final title = refs.length == 1 ? (db.grammarLesson(refs.first)?.title ?? 'Bài tập') : 'Bài tập trộn ${refs.length} bài';
+    return ExerciseRunner(
+      key: ValueKey('lessons-${refs.join(',')}'),
+      title: title,
+      crumbs: [const Crumb('Văn Phạm', '/grammar'), if (refs.length == 1) const Crumb('Bài tập')],
+      exercises: items,
+      lessonContext: true,
+      progressKey: 'lessons-${refs.join(',')}',
+    );
   }
 }
 
@@ -140,23 +185,25 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
     final nBright = _marks.values.where((v) => v == 4).length;
     final nDark = _marks.values.where((v) => v == 3).length;
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('WORD FORMS'),
+      appBar: GrammarAppBar(
+        crumbs: const [Crumb('Bài Tập', '/'), Crumb('WORD FORMS')],
         actions: [
-          IconButton(
-            tooltip: 'Xoá mọi đánh dấu',
-            icon: const Icon(Icons.delete_sweep_outlined),
+          OutlinedButton.icon(
             onPressed: _marks.isEmpty ? null : () { ref.read(userDbProvider).clearWordformMarks(); setState(() => _marks.clear()); },
+            icon: const Icon(Icons.delete_sweep_outlined, size: 18),
+            label: const Text('Xoá đánh dấu'),
           ),
-          IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/26')),
+          const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/26')),
         ],
         bottom: PreferredSize(
-          preferredSize: const Size.fromHeight(52),
-          child: Padding(
-            padding: const EdgeInsets.fromLTRB(12, 0, 12, 8),
-            child: TextField(
-              decoration: const InputDecoration(prefixIcon: Icon(Icons.search), hintText: 'Tìm từ gốc', isDense: true, border: OutlineInputBorder()),
-              onChanged: (v) => setState(() => _filter = v.trim()),
+          preferredSize: const Size.fromHeight(60),
+          child: Container(
+            color: context.g.card,
+            padding: const EdgeInsets.fromLTRB(24, 4, 24, 12),
+            child: Align(
+              alignment: Alignment.centerLeft,
+              child: ConstrainedBox(constraints: const BoxConstraints(maxWidth: 480), child: SearchPill(hint: 'Tìm từ gốc', onChanged: (v) => setState(() => _filter = v.trim()))),
             ),
           ),
         ),
@@ -171,35 +218,34 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
           padding: const EdgeInsets.fromLTRB(16, 4, 16, 4),
           child: Text(
             'Chạm từ gốc: lần 1 = học (đỏ sáng), lần 2 = dự trữ (đỏ sẫm), lần 3 = bỏ. Không chọn gì thì làm các từ thông dụng.',
-            style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline),
+            style: theme.textTheme.bodyMedium?.copyWith(color: context.g.slate),
           ),
         ),
         Expanded(
           child: GridView.builder(
-            padding: const EdgeInsets.fromLTRB(12, 4, 12, 90),
+            padding: const EdgeInsets.fromLTRB(16, 8, 16, 90),
             gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(maxCrossAxisExtent: 180, mainAxisExtent: 40, crossAxisSpacing: 6, mainAxisSpacing: 6),
             itemCount: shown.length,
             itemBuilder: (context, i) {
               final r = shown[i];
               final level = _marks[r.position] ?? 0;
-              final color = level == 4 ? Marks.savedWord : (level == 3 ? const Color(0xFF7F1D1D) : null);
-              return InkWell(
-                onTap: () => _cycle(r),
-                borderRadius: BorderRadius.circular(8),
-                child: Container(
-                  alignment: Alignment.centerLeft,
-                  padding: const EdgeInsets.symmetric(horizontal: 10),
-                  decoration: BoxDecoration(
-                    color: color?.withValues(alpha: 0.15) ?? theme.colorScheme.surfaceContainerHighest,
-                    borderRadius: BorderRadius.circular(8),
-                    border: color != null ? Border.all(color: color) : null,
+              final g = context.g;
+              final color = level == 4 ? g.savedWord : (level == 3 ? const Color(0xFF7F1D1D) : null);
+              return Material(
+                color: color != null ? g.savedTint : g.card,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8), side: BorderSide(color: color ?? g.border)),
+                child: InkWell(
+                  onTap: () => _cycle(r),
+                  borderRadius: BorderRadius.circular(8),
+                  child: Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 10),
+                    child: Row(children: [
+                      if (r.common) Icon(Icons.star, size: 12, color: g.fog),
+                      if (r.common) const SizedBox(width: 4),
+                      Expanded(child: Text(r.root, maxLines: 1, overflow: TextOverflow.ellipsis, style: ReadingStyles.line(context).copyWith(fontSize: 15, color: color ?? g.ink, fontWeight: color != null ? FontWeight.w600 : null))),
+                      Text('${r.count}', style: theme.textTheme.labelSmall),
+                    ]),
                   ),
-                  child: Row(children: [
-                    if (r.common) Icon(Icons.star, size: 12, color: theme.colorScheme.outline),
-                    if (r.common) const SizedBox(width: 4),
-                    Expanded(child: Text(r.root, maxLines: 1, overflow: TextOverflow.ellipsis, style: TextStyle(color: color, fontWeight: color != null ? FontWeight.w600 : null))),
-                    Text('${r.count}', style: theme.textTheme.labelSmall?.copyWith(color: theme.colorScheme.outline)),
-                  ]),
                 ),
               );
             },
@@ -230,7 +276,8 @@ class WordFormsRunPage extends ConsumerWidget {
     final names = positions.map((p) => byPos[p]?.root ?? '').where((s) => s.isNotEmpty).take(3).join(', ');
     return ExerciseRunner(
       key: ValueKey('wf-${positions.join(',')}'),
-      title: 'Word Forms · $names${positions.length > 3 ? '…' : ''}',
+      title: '$names${positions.length > 3 ? '…' : ''}',
+      crumbs: const [Crumb('Bài Tập', '/'), Crumb('WORD FORMS', '/exercises/wordforms')],
       exercises: items,
       progressKey: 'wordforms',
     );

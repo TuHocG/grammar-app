@@ -13,6 +13,7 @@ import '../../app/providers.dart';
 import '../../data/content_db.dart';
 import '../../data/reading_loader.dart';
 import '../../data/user_readings.dart';
+import '../widgets/shell.dart';
 
 class UserReadingsPage extends ConsumerStatefulWidget {
   const UserReadingsPage({super.key});
@@ -28,7 +29,7 @@ class _UserReadingsPageState extends ConsumerState<UserReadingsPage> {
     final packages = userDb.userReadingPackages();
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: const Text('Bài Nhập Của Bạn'),
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/25'))],
       ),
@@ -143,7 +144,7 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
     final nEn = en.fold<int>(0, (a, p) => a + p.length);
     final nVi = vi.fold<int>(0, (a, p) => a + p.length);
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text(_existing == null ? 'Tạo bài đọc' : 'Sửa bài đọc'),
         actions: [FilledButton.icon(onPressed: _save, icon: const Icon(Icons.save), label: const Text('Lưu')), const SizedBox(width: 8)],
       ),
@@ -199,7 +200,7 @@ class UserGrammarListPage extends ConsumerWidget {
     final db = ref.read(contentDbProvider);
     if (r == null) return const Scaffold(body: Center(child: Text('Không có bài này.')));
     return Scaffold(
-      appBar: AppBar(title: Text(r.title)),
+      appBar: GrammarAppBar(title: Text(r.title)),
       body: ListView(
         children: [
           for (final ref_ in r.grammarRefs)

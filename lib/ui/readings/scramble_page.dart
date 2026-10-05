@@ -11,6 +11,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../app/providers.dart';
 import '../../data/reading_loader.dart';
 import '../../data/models.dart';
+import '../widgets/shell.dart';
 import 'reading_page.dart';
 
 List<String> scrambleTokens(String en) =>
@@ -72,13 +73,13 @@ class _ScramblePageState extends ConsumerState<ScramblePage> {
   @override
   Widget build(BuildContext context) {
     final r = _reading;
-    if (r == null || _items.isEmpty) return Scaffold(appBar: AppBar(title: const Text('Xếp từ')), body: const Center(child: Text('Bài này không có câu đủ dài để xếp.')));
+    if (r == null || _items.isEmpty) return Scaffold(appBar: GrammarAppBar(title: const Text('Xếp từ')), body: const Center(child: Text('Bài này không có câu đủ dài để xếp.')));
     final theme = Theme.of(context);
     final s = _items[_pos];
     final done = _pool.isEmpty;
 
     return Scaffold(
-      appBar: AppBar(title: Text('Xếp từ · ${_pos + 1}/${_items.length}')),
+      appBar: GrammarAppBar(title: Text('Xếp từ · ${_pos + 1}/${_items.length}')),
       body: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [

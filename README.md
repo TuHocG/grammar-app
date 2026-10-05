@@ -23,6 +23,8 @@ flutter analyze && flutter test
 
 Thư mục dữ liệu chứa `grammar.db` và `dataset/` (ảnh, audio); lần đầu app hỏi nếu không có `--dart-define`. Dữ liệu người dùng ở `user.db` trong thư mục hỗ trợ của ứng dụng (`%APPDATA%\dev.hieu\grammar` trên Windows); Cài Đặt có xuất/khôi phục JSON.
 
+Giao diện (theo `DESIGN.md` ở gốc repo): nền xám lạnh, thẻ trắng viền mảnh, một màu nhấn tím `#4255ff`, nút dạng pill; chữ giao diện **Nunito Sans**, nội dung tiếng Anh cần đọc (bài đọc, mục từ, đề bài) **Literata** — cả hai đóng gói trong `assets/fonts/`. Token màu và theme sáng/tối ở `lib/app/theme.dart` (`context.g` lấy màu theo chế độ; `ReadingStyles` cho chữ serif); thành phần dùng chung (thanh trên có breadcrumb `GrammarAppBar`, `Surface`, `LilacPanel`, `FeatureCard`, `SetCard`, `PrevNextBar`…) ở `lib/ui/widgets/shell.dart`. Hai màu giữ nghĩa của app gốc: từ đã lưu màu đỏ, câu đang đọc nền tím nhạt (thay nền vàng). Chấm bài không dùng xanh/đỏ: đúng = tím + ✓, chọn sai = xám gạch ngang, còn lại mờ (như app gốc làm mờ câu sai).
+
 Ghi chú nền tảng:
 
 - **Windows TTS** dùng SAPI qua kênh `grammar/tts` trong `windows/runner/sapi_tts.cpp` (plugin `flutter_tts` sập trên Windows); các nền tảng khác dùng `flutter_tts`.

@@ -10,6 +10,7 @@ import '../../app/providers.dart';
 import '../../data/reading_loader.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
+import '../widgets/shell.dart';
 import 'reading_page.dart';
 
 String dictationTarget(String en) => en.replaceAll(RegExp(r"[^\w\s'’-]"), '').replaceAll(RegExp(r'\s+'), ' ').trim();
@@ -109,11 +110,11 @@ class _DictationPageState extends ConsumerState<DictationPage> {
 
   @override
   Widget build(BuildContext context) {
-    if (_reading == null || _items.isEmpty) return Scaffold(appBar: AppBar(title: const Text('Nghe viết')), body: const Center(child: Text('Bài này không có câu để nghe viết.')));
+    if (_reading == null || _items.isEmpty) return Scaffold(appBar: GrammarAppBar(title: const Text('Nghe viết')), body: const Center(child: Text('Bài này không có câu để nghe viết.')));
     final theme = Theme.of(context);
     final s = _items[_pos];
     return Scaffold(
-      appBar: AppBar(title: Text('Nghe viết · ${_pos + 1}/${_items.length}')),
+      appBar: GrammarAppBar(title: Text('Nghe viết · ${_pos + 1}/${_items.length}')),
       body: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [

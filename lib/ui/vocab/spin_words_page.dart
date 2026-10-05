@@ -13,6 +13,7 @@ import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/models.dart';
 import '../dictionary/quick_def_sheet.dart';
+import '../widgets/shell.dart';
 
 class SpinWordsPage extends ConsumerStatefulWidget {
   const SpinWordsPage({super.key});
@@ -73,7 +74,7 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
     if (_pos >= words.length) _pos = 0;
     final w = words.isEmpty ? null : words[_pos];
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: const Text('Quay Từ'),
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/20'))],
       ),

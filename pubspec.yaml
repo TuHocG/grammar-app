@@ -27,6 +27,21 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Nunito Sans
+      fonts:
+        - asset: assets/fonts/NunitoSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/NunitoSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/NunitoSans-Bold.ttf
+          weight: 700
+    - family: Literata
+      fonts:
+        - asset: assets/fonts/Literata-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Literata-SemiBold.ttf
+          weight: 600
 
 # package:sqlite3 3.x builds SQLite itself; use the SQLite3MultipleCiphers variant so the
 # content database can be shipped encrypted (docs/07 §11). Plain databases still open.

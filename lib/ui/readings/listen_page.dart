@@ -10,6 +10,7 @@ import '../../app/providers.dart';
 import '../../data/reading_loader.dart';
 import '../../domain/sentence_player.dart';
 import '../widgets/word_tap_text.dart';
+import '../widgets/shell.dart';
 
 class ListenPage extends ConsumerStatefulWidget {
   final int id;
@@ -81,7 +82,7 @@ class _ListenPageState extends ConsumerState<ListenPage> {
       autofocus: true,
       onKeyEvent: _onKey,
       child: Scaffold(
-        appBar: AppBar(
+        appBar: GrammarAppBar(
           title: Text('Nghe: ${r.title}', maxLines: 1, overflow: TextOverflow.ellipsis),
           actions: [
             IconButton(

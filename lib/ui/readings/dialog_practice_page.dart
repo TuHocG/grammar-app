@@ -15,6 +15,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../app/providers.dart';
 import '../../data/models.dart';
 import '../widgets/word_tap_text.dart';
+import '../widgets/shell.dart';
 import 'reading_page.dart';
 
 class PracticeItem {
@@ -171,7 +172,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
     final db = ref.read(contentDbProvider);
 
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text('Đàm thoại · ${widget.title}', maxLines: 1, overflow: TextOverflow.ellipsis),
         actions: [
           IconButton(

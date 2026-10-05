@@ -13,6 +13,8 @@ import '../../app/providers.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../widgets/word_tap_text.dart';
+import '../../app/theme.dart';
+import '../widgets/shell.dart';
 
 class ListeningUnitsPage extends ConsumerWidget {
   const ListeningUnitsPage({super.key});
@@ -22,7 +24,7 @@ class ListeningUnitsPage extends ConsumerWidget {
     final units = db.listeningUnits();
     final userDb = ref.read(userDbProvider);
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: const Text('Luyện Nghe'),
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/13'))],
       ),
@@ -112,11 +114,11 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    if (_items.isEmpty) return Scaffold(appBar: AppBar(title: Text('Unit ${widget.unit}')), body: const Center(child: Text('Không có câu.')));
+    if (_items.isEmpty) return Scaffold(appBar: GrammarAppBar(title: Text('Unit ${widget.unit}')), body: const Center(child: Text('Không có câu.')));
     if (_finished) {
       final pct = _done == 0 ? 0 : (_score * 100 / _done).round();
       return Scaffold(
-        appBar: AppBar(title: Text('Unit ${widget.unit}')),
+        appBar: GrammarAppBar(title: Text('Unit ${widget.unit}')),
         body: Center(
           child: Column(mainAxisSize: MainAxisSize.min, children: [
             Text('$pct %', style: theme.textTheme.displayMedium?.copyWith(color: theme.colorScheme.primary)),
@@ -132,7 +134,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     }
     final it = _items[_pos];
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text('Unit ${widget.unit} · ${_pos + 1}/${_items.length}'),
         actions: [Center(child: Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall)), const SizedBox(width: 16)],
       ),
@@ -167,27 +169,57 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
 
   Widget _option(int shown, int optionIdx, ThemeData theme) {
     final it = _items[_pos];
+    final g = context.g;
     final letter = String.fromCharCode(97 + shown);
-    Color? bg;
-    Color? fg;
+    final isAnswer = optionIdx == 0;
+    Color bg = g.card, border = g.border, fg = g.ink, dotFill = Colors.transparent, dotBorder = g.border, dotColor = g.slate;
+    Widget? dotChild;
+    var weight = FontWeight.w400;
+    var strike = false;
     if (_graded) {
-      if (optionIdx == 0) {
-        bg = Colors.green.withValues(alpha: 0.15);
-        fg = Colors.green.shade800;
+      if (isAnswer) {
+        bg = g.lilac;
+        border = g.iris;
+        weight = FontWeight.w600;
+        dotFill = g.iris;
+        dotBorder = g.iris;
+        dotChild = Icon(Icons.check, size: 16, color: theme.colorScheme.onPrimary);
+      } else if (_picked == optionIdx) {
+        fg = g.slate;
+        strike = true;
+        dotFill = g.slate;
+        dotBorder = g.slate;
+        dotChild = Icon(Icons.close, size: 14, color: theme.colorScheme.onPrimary);
       } else {
-        fg = theme.colorScheme.outline;
+        fg = g.fog;
+        dotColor = g.fog;
       }
     } else if (_picked == optionIdx) {
-      bg = theme.colorScheme.errorContainer;
+      fg = g.slate;
+      strike = true;
+      dotFill = g.slate;
+      dotBorder = g.slate;
+      dotChild = Icon(Icons.close, size: 14, color: theme.colorScheme.onPrimary);
     }
-    return Card(
-      color: bg,
-      margin: const EdgeInsets.symmetric(vertical: 4),
-      child: ListTile(
-        leading: CircleAvatar(radius: 14, child: Text(letter)),
-        title: Text(it.options[optionIdx], style: theme.textTheme.bodyLarge?.copyWith(color: fg)),
-        onTap: _graded ? null : () => _pick(optionIdx),
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 5),
+      child: Material(
+        color: bg,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8), side: BorderSide(color: border)),
+        child: InkWell(
+          onTap: _graded ? null : () => _pick(optionIdx),
+          borderRadius: BorderRadius.circular(8),
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+            child: Row(children: [
+              LetterDot(letter, fill: dotFill, border: dotBorder, color: dotColor, child: dotChild),
+              const SizedBox(width: 14),
+              Expanded(child: Text(it.options[optionIdx], style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17, color: fg, fontWeight: weight, decoration: strike ? TextDecoration.lineThrough : null, decorationColor: g.fog))),
+            ]),
+          ),
+        ),
       ),
     );
   }
+
 }

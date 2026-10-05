@@ -12,6 +12,7 @@ import 'package:path_provider/path_provider.dart';
 import '../../app/providers.dart';
 import '../../data/backup.dart';
 import '../../platform/tts.dart';
+import '../widgets/shell.dart';
 
 class SettingsPage extends ConsumerStatefulWidget {
   const SettingsPage({super.key});
@@ -38,9 +39,15 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
     final counts = ref.read(contentDbProvider).counts;
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Cài Đặt')),
-      body: ListView(
+      appBar: GrammarAppBar(title: const Text('Cài Đặt')),
+      body: RailListView(
+        maxWidth: 880,
         children: [
+          Text('Cài Đặt', style: Theme.of(context).textTheme.headlineLarge),
+          const SizedBox(height: 16),
+          Surface(
+            padding: const EdgeInsets.fromLTRB(8, 4, 8, 12),
+            child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
           const _Header('Giọng đọc'),
           ListTile(
             title: const Text('Giọng'),
@@ -145,6 +152,8 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
             title: Text('Grammar'),
             subtitle: Text('Nội dung: Grammar 3.1 của TuHocTiengAnh.net, dùng với sự cho phép của tác giả. Miễn phí; không được bán hay phân phối lại dữ liệu.'),
           ),
+            ]),
+          ),
         ],
       ),
     );
@@ -157,6 +166,6 @@ class _Header extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Padding(
         padding: const EdgeInsets.fromLTRB(16, 18, 16, 4),
-        child: Text(text, style: Theme.of(context).textTheme.titleSmall?.copyWith(color: Theme.of(context).colorScheme.primary)),
+        child: Text(text.toUpperCase(), style: Theme.of(context).textTheme.labelMedium?.copyWith(color: Theme.of(context).colorScheme.onSurfaceVariant, letterSpacing: 0.6)),
       );
 }

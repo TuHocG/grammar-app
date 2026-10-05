@@ -15,6 +15,7 @@ import '../../data/models.dart';
 import '../../data/search_key.dart';
 import '../dictionary/quick_def_sheet.dart';
 import '../grammar/grammar_page.dart';
+import '../widgets/shell.dart';
 
 /// Reading ids of the analysed units, in analysis-lesson order (section "Những Mẩu Chuyện
 /// Tiếng Anh Tập 1", Unit 1..12).
@@ -32,7 +33,7 @@ class AnalysisListPage extends ConsumerWidget {
     final ids = db.analysisLessonIds();
     final readings = analysisReadingIds(db);
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: const Text('Phân Tích Câu'),
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/5'))],
       ),
@@ -86,7 +87,7 @@ class _AnalysisPageState extends ConsumerState<AnalysisPage> {
     final saved = ref.watch(userWordsProvider).savedKeys;
     var k = 0;   // global token index == analysis word index
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text('Phân tích · $_title'),
         actions: [
           IconButton(tooltip: 'Bản dịch', icon: Icon(_showVi ? Icons.translate : Icons.translate_outlined), onPressed: () => setState(() => _showVi = !_showVi)),

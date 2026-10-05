@@ -16,6 +16,7 @@ import '../../data/user_db.dart';
 import '../../data/user_db_more.dart';
 import '../readings/dialog_practice_page.dart';
 import '../widgets/word_tap_text.dart';
+import '../widgets/shell.dart';
 
 class DialogTopicsPage extends ConsumerWidget {
   const DialogTopicsPage({super.key});
@@ -26,19 +27,28 @@ class DialogTopicsPage extends ConsumerWidget {
     final picks = ref.read(userDbProvider).dialogPickKeys();
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: const Text('Luyện Nói'),
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/6'))],
       ),
-      body: ListView(
+      body: RailListView(
         children: [
-          for (final t in topics)
-            ListTile(
-              title: Text(t.title),
-              subtitle: Text('${db.dialogsInTopic(t.sid).length} bài', style: theme.textTheme.bodySmall),
-              trailing: picks.any((k) => _topicOf(db, k) == t.sid) ? Icon(Icons.bookmark, color: Marks.savedWord, size: 18) : null,
-              onTap: () => context.push('/dialogs/topic/${t.sid}'),
-            ),
+          Text('Luyện Nói', style: theme.textTheme.headlineLarge),
+          Text('${topics.length} chủ đề · chạm từ để tra, chạm dòng để dịch · Chọn câu để ôn tập', style: theme.textTheme.bodyLarge?.copyWith(color: context.g.slate)),
+          const SizedBox(height: 20),
+          AutoGrid(
+            minWidth: 260,
+            children: [
+              for (final t in topics)
+                SetCard(
+                  icon: Icons.record_voice_over_outlined,
+                  title: t.title,
+                  subtitle: '${db.dialogsInTopic(t.sid).length} bài',
+                  badge: picks.any((k) => _topicOf(db, k) == t.sid) ? 'đã chọn câu' : null,
+                  onTap: () => context.push('/dialogs/topic/${t.sid}'),
+                ),
+            ],
+          ),
         ],
       ),
     );
@@ -70,7 +80,7 @@ class _DialogListPageState extends ConsumerState<DialogListPage> {
     userDb.setProgress('dialog', 'last_topic', '${widget.sid}');
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text(topic?.title ?? 'Luyện Nói'),
         actions: [
           FilledButton.tonalIcon(
@@ -159,7 +169,7 @@ class _DialogPageState extends ConsumerState<DialogPage> {
     }
 
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text('${db.dialogTopic(d.sid)?.title ?? ''} · ${d.title}', maxLines: 1, overflow: TextOverflow.ellipsis),
         actions: [
           IconButton(tooltip: 'Bản dịch', icon: Icon(_showVi ? Icons.translate : Icons.translate_outlined), onPressed: () => setState(() => _showVi = !_showVi)),

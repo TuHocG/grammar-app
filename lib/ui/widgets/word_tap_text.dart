@@ -12,6 +12,44 @@ import '../../app/theme.dart';
 import '../../data/search_key.dart';
 import '../dictionary/quick_def_sheet.dart';
 
+final _tokenRe = RegExp(r"[A-Za-zÀ-ɏḀ-ỿ0-9][A-Za-zÀ-ɏḀ-ỿ0-9'’-]*|\s+|[^\sA-Za-zÀ-ɏḀ-ỿ0-9]+");
+final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿ]');
+
+/// Builds the spans of [text]: one tappable span per word, red when saved, underlined when
+/// in a saved word's family. Recognizers are appended to [recognizers]; the caller owns them.
+List<InlineSpan> wordSpans(
+  BuildContext context,
+  WidgetRef ref,
+  String text, {
+  required TextStyle base,
+  required List<GestureRecognizer> recognizers,
+  String? contextSentence,
+  String? source,
+}) {
+  final saved = ref.watch(userWordsProvider).savedKeys;
+  final family = ref.watch(familyKeysProvider);
+  final g = context.g;
+  final spans = <InlineSpan>[];
+  for (final m in _tokenRe.allMatches(text)) {
+    final tok = m.group(0)!;
+    if (!_letterRe.hasMatch(tok)) {
+      spans.add(TextSpan(text: tok, style: base));
+      continue;
+    }
+    final key = searchKey(cleanToken(tok));
+    var style = base;
+    if (saved.contains(key)) {
+      style = style.copyWith(color: g.savedWord, fontWeight: FontWeight.w600);
+    } else if (family.contains(key)) {
+      style = style.copyWith(decoration: TextDecoration.underline, decorationColor: g.fog, decorationThickness: 1);
+    }
+    final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: contextSentence ?? text, source: source);
+    recognizers.add(rec);
+    spans.add(TextSpan(text: tok, style: style, recognizer: rec));
+  }
+  return spans;
+}
+
 class WordTapText extends ConsumerStatefulWidget {
   final String text;
   final TextStyle? style;
@@ -36,7 +74,7 @@ class WordTapText extends ConsumerStatefulWidget {
 }
 
 class _WordTapTextState extends ConsumerState<WordTapText> {
-  final List<TapGestureRecognizer> _recognizers = [];
+  final List<GestureRecognizer> _recognizers = [];
 
   @override
   void dispose() {
@@ -52,36 +90,13 @@ class _WordTapTextState extends ConsumerState<WordTapText> {
       r.dispose();
     }
     _recognizers.clear();
-
-    final saved = ref.watch(userWordsProvider).savedKeys;
-    final family = ref.watch(familyKeysProvider);
     final base = widget.style ?? DefaultTextStyle.of(context).style;
-    final spans = <InlineSpan>[];
-    final tokenRe = RegExp(r"[A-Za-zÀ-ɏḀ-ỿ0-9][A-Za-zÀ-ɏḀ-ỿ0-9'’-]*|\s+|[^\sA-Za-zÀ-ɏḀ-ỿ0-9]+");
-    for (final m in tokenRe.allMatches(widget.text)) {
-      final tok = m.group(0)!;
-      final isWord = RegExp(r'[A-Za-zÀ-ɏḀ-ỿ]').hasMatch(tok);
-      if (!isWord) {
-        spans.add(TextSpan(text: tok, style: base));
-        continue;
-      }
-      final key = searchKey(cleanToken(tok));
-      TextStyle style = base;
-      if (saved.contains(key)) {
-        style = style.copyWith(color: Marks.savedWord, fontWeight: FontWeight.w600);
-      } else if (family.contains(key)) {
-        style = style.copyWith(decoration: TextDecoration.underline, decorationColor: Marks.savedWord);
-      }
-      final rec = TapGestureRecognizer()
-        ..onTap = () => showQuickDef(context, ref, tok, contextSentence: widget.context ?? widget.text, source: widget.source);
-      _recognizers.add(rec);
-      spans.add(TextSpan(text: tok, style: style, recognizer: rec));
-    }
+    final spans = wordSpans(context, ref, widget.text, base: base, recognizers: _recognizers, contextSentence: widget.context, source: widget.source);
     final rich = Text.rich(TextSpan(children: spans), textAlign: widget.textAlign);
     if (!widget.highlighted) return rich;
     return DecoratedBox(
-      decoration: BoxDecoration(color: Marks.highlight.withValues(alpha: 0.6), borderRadius: BorderRadius.circular(4)),
-      child: Padding(padding: const EdgeInsets.symmetric(horizontal: 2), child: rich),
+      decoration: BoxDecoration(color: context.g.lilac, borderRadius: BorderRadius.circular(4)),
+      child: Padding(padding: const EdgeInsets.symmetric(horizontal: 4, vertical: 2), child: rich),
     );
   }
 }

@@ -9,6 +9,7 @@ import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/models.dart';
 import '../widgets/word_tap_text.dart';
+import '../widgets/shell.dart';
 import 'edit_word_dialog.dart';
 
 class MyWordsPage extends ConsumerStatefulWidget {
@@ -35,7 +36,7 @@ class _MyWordsPageState extends ConsumerState<MyWordsPage> {
     }
 
     return Scaffold(
-      appBar: AppBar(
+      appBar: GrammarAppBar(
         title: Text('Từ Vựng Của Bạn (${state.words.length})'),
         actions: [
           IconButton(

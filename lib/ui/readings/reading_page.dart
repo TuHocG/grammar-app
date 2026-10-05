@@ -1,10 +1,12 @@
-/// Trang bài đọc (docs/08 R2–R4): image, title, paragraphs of tappable words; long-press a
-/// sentence (or tap its number) → translation + read aloud; bottom bar → Nghe toàn bài,
-/// Xếp từ, Đàm thoại, Nghe viết.
+/// Trang bài đọc (docs/08 R2–R4): image, title, paragraphs of tappable words with small
+/// sentence numbers; tap a number → the sentence is read aloud and its translation opens in
+/// a lilac panel under the paragraph; "Bản dịch" shows every translation. Toolbar → Nghe toàn
+/// bài, Xếp từ, Đàm thoại, Nghe viết. On wide screens the section's readings sit on the left.
 library;
 
 import 'dart:io';
 
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -15,6 +17,7 @@ import '../../data/content_db.dart';
 import '../../data/reading_loader.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
+import '../widgets/shell.dart';
 import '../widgets/word_tap_text.dart';
 
 class ReadingPage extends ConsumerStatefulWidget {
@@ -66,89 +69,191 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
     await _player?.speakOnce(s.idx);
   }
 
+  static const _scales = [0.9, 1.0, 1.15, 1.3, 1.45];
+
+  void _cycleFontSize() {
+    final s = ref.read(settingsProvider);
+    final i = _scales.indexWhere((x) => (x - s.fontScale).abs() < 0.01);
+    ref.read(settingsProvider.notifier).setFontScale(_scales[(i + 1) % _scales.length]);
+  }
+
   @override
   Widget build(BuildContext context) {
     final r = _reading;
-    if (r == null) return const Scaffold(body: Center(child: Text('Không có bài này.')));
+    if (r == null) return const Scaffold(body: EmptyNote('Không có bài này.'));
     final db = ref.read(contentDbProvider);
     final theme = Theme.of(context);
-    final (prev, next) = r.id >= userReadingBase ? (null, null) : db.neighbours(r);
+    final g = context.g;
+    final wide = context.isWide;
+    final isUser = r.id >= userReadingBase;
+    final (prev, next) = isUser ? (null, null) : db.neighbours(r);
     final src = 'reading:${r.id}';
+    final section = isUser || r.sid < 0 ? null : db.section(r.sid);
+    final siblings = section == null ? const <ReadingSummary>[] : db.readingsInSection(r.sid);
+    final nextTitle = next == null ? null : siblings.where((x) => x.id == next).firstOrNull?.title;
+
+    final article = Surface(
+      padding: EdgeInsets.symmetric(horizontal: wide ? 40 : 20, vertical: wide ? 32 : 20),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        if (r.img != null) ...[
+          Center(
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(Tokens.radiusCard),
+              child: ConstrainedBox(
+                constraints: const BoxConstraints(maxHeight: 300),
+                child: Image.file(isUser ? File(r.img!) : db.mediaFile(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
+              ),
+            ),
+          ),
+          const SizedBox(height: 20),
+        ],
+        Row(crossAxisAlignment: CrossAxisAlignment.center, children: [
+          Expanded(child: WordTapText(r.title, style: ReadingStyles.title(context), source: src)),
+          const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc tựa đề', size: 36, onPressed: () => r.hasRealAudio && r.titleAudio ? _player?.playTitle() : ref.read(ttsProvider).speak(r.title)),
+          if (r.page != null) ...[const SizedBox(width: 12), Text('Trang ${r.page}', style: theme.textTheme.bodySmall?.copyWith(color: g.fog))],
+        ]),
+        const SizedBox(height: 16),
+        for (final para in r.paragraphs) ...[
+          _Paragraph(
+            sentences: para,
+            source: src,
+            speaking: _speaking,
+            onTapNumber: _tapSentence,
+          ),
+          if (_showAllVi && para.any((s) => s.vi.isNotEmpty))
+            Padding(
+              padding: const EdgeInsets.only(top: 6),
+              child: Text(para.map((s) => s.vi).where((v) => v.isNotEmpty).join(' '), style: theme.textTheme.bodyLarge?.copyWith(color: g.slate, height: 1.6)),
+            ),
+          for (final s in para.where((s) => _openVi.contains(s.idx)))
+            Padding(
+              padding: const EdgeInsets.only(top: 10),
+              child: LilacPanel(
+                child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                  Padding(padding: const EdgeInsets.only(top: 3), child: SoftBadge('Câu ${s.idx + 1}', background: g.card)),
+                  const SizedBox(width: 12),
+                  Expanded(
+                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                      Text(s.en, style: ReadingStyles.line(context).copyWith(fontSize: 16)),
+                      if (s.vi.isNotEmpty) Text(s.vi, style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                    ]),
+                  ),
+                  const SizedBox(width: 8),
+                  RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc lại câu', size: 36, onPressed: () => _player?.speakOnce(s.idx)),
+                  RoundIconButton(icon: Icons.close, tooltip: 'Đóng', size: 36, onPressed: () => setState(() => _openVi.remove(s.idx))),
+                ]),
+              ),
+            ),
+          const SizedBox(height: 18),
+        ],
+      ]),
+    );
+
+    final toolbar = Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
+      FilledButton.icon(onPressed: () => context.push('/readings/${r.id}/listen'), icon: const Icon(Icons.play_arrow_rounded, size: 20), label: const Text('Nghe toàn bài')),
+      OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/scramble'), icon: const Icon(Icons.shuffle, size: 18), label: const Text('Xếp từ')),
+      OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/dialog'), icon: const Icon(Icons.forum_outlined, size: 18), label: const Text('Đàm thoại')),
+      OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/dictation'), icon: const Icon(Icons.keyboard_alt_outlined, size: 18), label: const Text('Nghe viết')),
+      if (r.hasRealAudio)
+        Padding(
+          padding: const EdgeInsets.only(left: 8),
+          child: Row(mainAxisSize: MainAxisSize.min, children: [
+            Icon(Icons.graphic_eq, size: 16, color: g.slate),
+            const SizedBox(width: 6),
+            Text('Bài này có giọng đọc thật', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+          ]),
+        ),
+    ]);
+
+    final main = Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [toolbar, const SizedBox(height: 16), article]);
+
+    Widget body;
+    if (wide && siblings.length > 1) {
+      body = Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        SizedBox(
+          width: 280,
+          child: Surface(
+            padding: const EdgeInsets.all(8),
+            child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
+                child: Text(section!.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
+              ),
+              for (final s in siblings)
+                _TocRow(
+                  title: s.title,
+                  selected: s.id == r.id,
+                  audio: s.hasAudio,
+                  onTap: s.id == r.id ? null : () => context.pushReplacement('/readings/${s.id}'),
+                ),
+            ]),
+          ),
+        ),
+        const SizedBox(width: 24),
+        Expanded(child: main),
+      ]);
+    } else {
+      body = main;
+    }
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text(r.title, maxLines: 1, overflow: TextOverflow.ellipsis),
+      appBar: GrammarAppBar(
+        crumbs: [
+          Crumb(isUser ? 'Bài Nhập Của Bạn' : 'Bài Đọc', isUser ? '/my-readings' : '/readings'),
+          if (section != null) Crumb(section.title, '/readings/section/${section.sid}'),
+          Crumb(r.title),
+        ],
         actions: [
-          IconButton(
-            tooltip: _showAllVi ? 'Ẩn bản dịch' : 'Hiện bản dịch',
-            icon: Icon(_showAllVi ? Icons.translate : Icons.translate_outlined, color: _showAllVi ? theme.colorScheme.primary : null),
-            onPressed: () => setState(() => _showAllVi = !_showAllVi),
-          ),
-          if (r.hasRealAudio && r.titleAudio)
-            IconButton(tooltip: 'Nghe tựa đề', icon: const Icon(Icons.record_voice_over), onPressed: () => _player?.playTitle()),
-          PopupMenuButton<String>(
-            onSelected: (v) {
-              if (v == 'help') context.push('/help/3');
-            },
-            itemBuilder: (_) => const [PopupMenuItem(value: 'help', child: Text('Hướng dẫn Bài đọc'))],
-          ),
-        ],
-      ),
-      body: ListView(
-        padding: const EdgeInsets.fromLTRB(20, 8, 20, 24),
-        children: [
-          if (r.img != null)
-            Center(
-              child: ConstrainedBox(
-                constraints: const BoxConstraints(maxHeight: 280),
-                child: ClipRRect(
-                  borderRadius: BorderRadius.circular(12),
-                  child: Image.file(r.id >= userReadingBase ? File(r.img!) : db.mediaFile(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
-                ),
-              ),
-            ),
-          const SizedBox(height: 12),
-          Row(children: [
-            Expanded(child: WordTapText(r.title, style: theme.textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.bold), source: src)),
-            IconButton(tooltip: 'Đọc tựa', icon: const Icon(Icons.volume_up), onPressed: () => ref.read(ttsProvider).speak(r.title)),
-          ]),
-          if (r.page != null) Text('Trang ${r.page}', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
-          const SizedBox(height: 8),
-          for (final para in r.paragraphs)
+          if (wide)
             Padding(
-              padding: const EdgeInsets.only(bottom: 14),
-              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                for (final s in para) _SentenceBlock(
-                  sentence: s,
-                  source: src,
-                  showVi: _showAllVi || _openVi.contains(s.idx),
-                  highlighted: _speaking == s.idx,
-                  onTap: () => _tapSentence(s),
-                ),
+              padding: const EdgeInsets.only(right: 8),
+              child: Row(mainAxisSize: MainAxisSize.min, children: [
+                Switch(value: _showAllVi, onChanged: (v) => setState(() => _showAllVi = v)),
+                const SizedBox(width: 4),
+                Text('Bản dịch', style: theme.textTheme.bodyMedium),
               ]),
-            ),
-          if (r.hasRealAudio)
-            Text('Bài này có giọng đọc thật.', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
+            )
+          else
+            RoundIconButton(icon: Icons.translate, tooltip: _showAllVi ? 'Ẩn bản dịch' : 'Hiện bản dịch', active: _showAllVi, onPressed: () => setState(() => _showAllVi = !_showAllVi)),
+          const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.format_size, tooltip: 'Cỡ chữ', onPressed: _cycleFontSize),
+          const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Bài Đọc', onPressed: () => context.push('/help/3')),
         ],
       ),
-      bottomNavigationBar: SafeArea(
+      body: RailListView(children: [body]),
+      bottomNavigationBar: PrevNextBar(
+        onPrev: prev == null ? null : () => context.pushReplacement('/readings/$prev'),
+        onNext: next == null ? null : () => context.pushReplacement('/readings/$next'),
+        nextLabel: nextTitle == null ? 'Bài kế' : 'Bài kế: $nextTitle',
+        middle: wide ? Text('Chạm từ để tra · chạm số câu để dịch và nghe', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)) : null,
+      ),
+    );
+  }
+}
+
+class _TocRow extends StatelessWidget {
+  final String title;
+  final bool selected;
+  final bool audio;
+  final VoidCallback? onTap;
+  const _TocRow({required this.title, required this.selected, required this.audio, this.onTap});
+  @override
+  Widget build(BuildContext context) {
+    final g = context.g;
+    final theme = Theme.of(context);
+    return Material(
+      color: selected ? g.lilac : Colors.transparent,
+      borderRadius: BorderRadius.circular(4),
+      child: InkWell(
+        onTap: onTap,
+        borderRadius: BorderRadius.circular(4),
         child: Padding(
-          padding: const EdgeInsets.fromLTRB(8, 4, 8, 8),
+          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
           child: Row(children: [
-            IconButton(tooltip: 'Bài trước', icon: const Icon(Icons.chevron_left), onPressed: prev == null ? null : () => context.pushReplacement('/readings/$prev')),
-            Expanded(
-              child: Wrap(
-                alignment: WrapAlignment.center,
-                spacing: 6,
-                children: [
-                  _Act('Nghe toàn bài', Icons.play_circle_outline, () => context.push('/readings/${r.id}/listen')),
-                  _Act('Xếp từ', Icons.shuffle, () => context.push('/readings/${r.id}/scramble')),
-                  _Act('Đàm thoại', Icons.forum_outlined, () => context.push('/readings/${r.id}/dialog')),
-                  _Act('Nghe viết', Icons.keyboard_alt_outlined, () => context.push('/readings/${r.id}/dictation')),
-                ],
-              ),
-            ),
-            IconButton(tooltip: 'Bài kế', icon: const Icon(Icons.chevron_right), onPressed: next == null ? null : () => context.pushReplacement('/readings/$next')),
+            Expanded(child: Text(title, maxLines: 2, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodyMedium?.copyWith(color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400))),
+            if (audio) Icon(Icons.graphic_eq, size: 14, color: selected ? g.iris : g.fog),
           ]),
         ),
       ),
@@ -156,52 +261,57 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   }
 }
 
-class _Act extends StatelessWidget {
-  final String label;
-  final IconData icon;
-  final VoidCallback onTap;
-  const _Act(this.label, this.icon, this.onTap);
+/// One paragraph as flowing text: sentence numbers (tappable) and tappable words; the
+/// sentence being read gets a lilac background.
+class _Paragraph extends ConsumerStatefulWidget {
+  final List<Sentence> sentences;
+  final String source;
+  final int? speaking;
+  final ValueChanged<Sentence> onTapNumber;
+  const _Paragraph({required this.sentences, required this.source, required this.speaking, required this.onTapNumber});
   @override
-  Widget build(BuildContext context) => ActionChip(avatar: Icon(icon, size: 18), label: Text(label), onPressed: onTap);
+  ConsumerState<_Paragraph> createState() => _ParagraphState();
 }
 
-class _SentenceBlock extends StatelessWidget {
-  final Sentence sentence;
-  final String source;
-  final bool showVi;
-  final bool highlighted;
-  final VoidCallback onTap;
-  const _SentenceBlock({required this.sentence, required this.source, required this.showVi, required this.highlighted, required this.onTap});
+class _ParagraphState extends ConsumerState<_Paragraph> {
+  final List<GestureRecognizer> _recs = [];
+
+  @override
+  void dispose() {
+    for (final r in _recs) {
+      r.dispose();
+    }
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 4),
-      child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        InkWell(
-          onTap: onTap,
-          borderRadius: BorderRadius.circular(10),
-          child: Container(
-            width: 28,
-            padding: const EdgeInsets.symmetric(vertical: 3),
-            alignment: Alignment.center,
-            child: Icon(showVi ? Icons.expand_less : Icons.translate_outlined, size: 16, color: highlighted ? theme.colorScheme.primary : theme.colorScheme.outline),
+    for (final r in _recs) {
+      r.dispose();
+    }
+    _recs.clear();
+    final g = context.g;
+    final base = ReadingStyles.passage(context);
+    final spans = <InlineSpan>[];
+    for (var i = 0; i < widget.sentences.length; i++) {
+      final s = widget.sentences[i];
+      final hl = widget.speaking == s.idx;
+      final style = hl ? base.copyWith(backgroundColor: g.lilac) : base;
+      spans.add(WidgetSpan(
+        alignment: PlaceholderAlignment.top,
+        child: GestureDetector(
+          onTap: () => widget.onTapNumber(s),
+          behavior: HitTestBehavior.opaque,
+          child: Padding(
+            padding: const EdgeInsets.only(right: 3, top: 2),
+            child: Text('${s.idx + 1}', style: TextStyle(fontFamily: Tokens.uiFont, fontSize: 11, height: 1, fontWeight: FontWeight.w600, color: hl ? g.iris : g.fog)),
           ),
         ),
-        const SizedBox(width: 4),
-        Expanded(
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            WordTapText(sentence.en, style: theme.textTheme.bodyLarge, context: sentence.en, source: source, highlighted: highlighted),
-            if (showVi && sentence.vi.isNotEmpty)
-              Padding(
-                padding: const EdgeInsets.only(top: 2, bottom: 4),
-                child: Text(sentence.vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-              ),
-          ]),
-        ),
-      ]),
-    );
+      ));
+      spans.addAll(wordSpans(context, ref, s.en, base: style, recognizers: _recs, contextSentence: s.en, source: widget.source));
+      if (i < widget.sentences.length - 1) spans.add(TextSpan(text: ' ', style: style));
+    }
+    return Text.rich(TextSpan(children: spans));
   }
 }
 
