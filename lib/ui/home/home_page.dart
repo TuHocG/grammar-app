@@ -19,7 +19,7 @@ const _learn = [
   _Item('Từ điển', Icons.search, route: '/dict'),
   _Item('Bài Đọc', Icons.menu_book, route: '/readings'),
   _Item('Từ Vựng Của Bạn', Icons.bookmarks, route: '/words'),
-  _Item('Văn Phạm', Icons.account_tree, note: 'M3'),
+  _Item('Văn Phạm', Icons.account_tree, route: '/grammar'),
   _Item('Luyện Nghe', Icons.headphones, note: 'M4'),
   _Item('Phân Tích Câu', Icons.manage_search, note: 'M5'),
   _Item('Từ Vựng (Tranh)', Icons.image_search, note: 'M5'),
@@ -83,7 +83,13 @@ class HomePage extends ConsumerWidget {
                   crossAxisCount: cols,
                   childAspectRatio: 1.9,
                   children: [
-                    for (final name in _exercises) _Tile(title: name, icon: Icons.edit_note, enabled: false, badge: 'M3'),
+                    for (var i = 0; i < _exercises.length; i++)
+                      _Tile(
+                        title: _exercises[i],
+                        icon: i == 8 ? Icons.spellcheck : Icons.edit_note,
+                        enabled: true,
+                        onTap: () => context.push(i == 8 ? '/exercises/wordforms' : '/exercises/menu/$i'),
+                      ),
                   ],
                 ),
               ),

@@ -9,6 +9,8 @@ import '../data/content_db.dart';
 import '../ui/dictionary/dictionary_page.dart';
 import '../ui/dictionary/entry_page.dart';
 import '../ui/help/help_page.dart';
+import '../ui/exercises/exercise_pages.dart';
+import '../ui/grammar/grammar_page.dart';
 import '../ui/home/home_page.dart';
 import '../ui/readings/dialog_practice_page.dart';
 import '../ui/readings/dictation_page.dart';
@@ -55,6 +57,26 @@ GoRouter buildRouter() => GoRouter(
                 ),
               ],
             ),
+          ],
+        ),
+        GoRoute(
+          path: '/grammar',
+          builder: (_, _) => const GrammarPage(),
+          routes: [GoRoute(path: ':ref', builder: (_, s) => GrammarLessonPage(ref: int.parse(s.pathParameters['ref']!)))],
+        ),
+        GoRoute(
+          path: '/exercises',
+          redirect: (_, s) => s.uri.path == '/exercises' ? '/' : null,
+          routes: [
+            GoRoute(
+              path: 'menu/:menu',
+              builder: (_, s) => ExerciseGroupsPage(menuIdx: int.parse(s.pathParameters['menu']!)),
+              routes: [GoRoute(path: ':group', builder: (_, s) => ExerciseGroupRunPage(menuIdx: int.parse(s.pathParameters['menu']!), group: int.parse(s.pathParameters['group']!)))],
+            ),
+            GoRoute(path: 'lessons/:refs', builder: (_, s) => LessonExercisesPage(refs: s.pathParameters['refs']!.split(',').map(int.parse).toList())),
+            GoRoute(path: 'wordforms', builder: (_, _) => const WordFormsPage(), routes: [
+              GoRoute(path: ':positions', builder: (_, s) => WordFormsRunPage(positions: s.pathParameters['positions']!.split(',').map(int.parse).toList())),
+            ]),
           ],
         ),
         GoRoute(path: '/words', builder: (_, _) => const MyWordsPage()),
