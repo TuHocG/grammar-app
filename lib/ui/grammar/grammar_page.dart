@@ -168,7 +168,13 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
 
   void _openLesson(GrammarLesson l) {
     if (context.isWide) {
-      setState(() => _currentRef = l.ref);
+      // Open the lesson's chapter too (the tree keeps the chapter the user expands otherwise).
+      final chapters = _chapters(ref.read(grammarLessonsProvider));
+      final c = _chapterOf(chapters, l.ref);
+      setState(() {
+        _currentRef = l.ref;
+        if (c != null) _chapter = chapters.indexOf(c);
+      });
       ref.read(userDbProvider).setProgress('grammar', 'last_lesson', '${l.ref}');
     } else {
       context.push('/grammar/${l.ref}');
@@ -184,11 +190,6 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
     final g = context.g;
     final wide = context.isWide;
     final db = ref.read(contentDbProvider);
-    if (wide && _currentRef != null && _chapter >= 0 && _chapterOf(chapters, _currentRef!) != chapters[_chapter] && _filter.isEmpty) {
-      // keep the open chapter in sync with the lesson shown
-      final c = _chapterOf(chapters, _currentRef!);
-      if (c != null) _chapter = chapters.indexOf(c);
-    }
 
     final tree = Surface(
       padding: const EdgeInsets.all(8),
@@ -317,19 +318,29 @@ class LessonCard extends StatelessWidget {
     return Surface(
       padding: EdgeInsets.symmetric(horizontal: narrow ? 20 : 40, vertical: narrow ? 24 : 32),
       child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        Wrap(alignment: WrapAlignment.spaceBetween, crossAxisAlignment: WrapCrossAlignment.start, runSpacing: 12, children: [
-          Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        // Title wraps inside its column; the button keeps one place (top right, or under
+        // the title on narrow screens) whatever the title length.
+        Builder(builder: (context) {
+          final head = Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
             Eyebrow(chapter == null || lesson.chapter ? 'Bài ${lesson.ref}' : '${chapter.head.title} · bài $pos/${chapter.lessons.length}'),
             const SizedBox(height: 2),
             Text(lesson.title, style: theme.textTheme.headlineLarge),
-          ]),
-          if (lesson.drills)
-            FilledButton.icon(
-              onPressed: () => context.push('/exercises/lessons/${lesson.ref}'),
-              icon: const Icon(Icons.edit_outlined, size: 18),
-              label: const Text('Làm Bài Tập'),
-            ),
-        ]),
+          ]);
+          final button = lesson.drills
+              ? FilledButton.icon(
+                  onPressed: () => context.push('/exercises/lessons/${lesson.ref}'),
+                  icon: const Icon(Icons.edit_outlined, size: 18),
+                  label: const Text('Làm Bài Tập'),
+                )
+              : null;
+          if (narrow) {
+            return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [head, if (button != null) ...[const SizedBox(height: 12), button]]);
+          }
+          return Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Expanded(child: head),
+            if (button != null) ...[const SizedBox(width: 16), Padding(padding: const EdgeInsets.only(top: 22), child: button)],
+          ]);
+        }),
         const SizedBox(height: 20),
         MarkText(lesson.body, source: 'grammar:${lesson.ref}', onLessonRef: (n) => showLessonSheet(context, n)),
         const SizedBox(height: 24),

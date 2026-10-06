@@ -20,6 +20,7 @@ import '../../data/content_db.dart';
 import '../../data/models.dart';
 import '../grammar/grammar_page.dart';
 import '../widgets/mark_text.dart';
+import '../widgets/scramble_board.dart';
 import '../widgets/shell.dart';
 import '../widgets/word_tap_text.dart';
 
@@ -49,12 +50,35 @@ class _Result {
 
 class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   int _pos = 0;
-  late final List<_Result> _res = List.generate(widget.exercises.length, (_) => _Result());
+  /// Items actually run: a scramble record ("_"-separated sentences) becomes one item per
+  /// sentence, so the map, the score and Next work per sentence.
+  late final List<Exercise> _items = _expand(widget.exercises);
+
+  static List<Exercise> _expand(List<Exercise> src) {
+    final out = <Exercise>[];
+    for (final e in src) {
+      if (e.kind != 'scramble') {
+        out.add(e);
+        continue;
+      }
+      final lines = e.text.split('\n').where((l) => l.trim().isNotEmpty).toList();
+      // The translation record lists the sentences the same way, separated by '_'.
+      final vis = (e.vi ?? '').split('_').map((v) => v.trim()).where((v) => v.isNotEmpty).toList();
+      for (var k = 0; k < lines.length; k++) {
+        out.add(Exercise(
+          id: e.id * 1000 + k, menu: e.menu, lessonRef: e.lessonRef, g: e.g, kind: e.kind, tt: e.tt, text: lines[k].trim(),
+          blanks: e.blanks, given: e.given, choices: e.choices, answer: e.answer, vi: k < vis.length ? vis[k] : null, expl: e.expl, refs: e.refs,
+        ));
+      }
+    }
+    return out;
+  }
+  late final List<_Result> _res = List.generate(_items.length, (_) => _Result());
   final Map<int, List<TextEditingController>> _ctls = {};
   bool _showVi = false;
   bool _finished = false;
 
-  Exercise get _ex => widget.exercises[_pos];
+  Exercise get _ex => _items[_pos];
   _Result get _r => _res[_pos];
   int get _score => _res.where((r) => r.graded && r.correct).length;
   int get _done => _res.where((r) => r.graded).length;
@@ -115,7 +139,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   }
 
   void _go(int pos) {
-    if (pos < 0 || pos >= widget.exercises.length) return;
+    if (pos < 0 || pos >= _items.length) return;
     setState(() {
       _pos = pos;
       _showVi = false;
@@ -124,7 +148,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   }
 
   void _next() {
-    if (_pos < widget.exercises.length - 1) {
+    if (_pos < _items.length - 1) {
       _go(_pos + 1);
     } else {
       setState(() => _finished = true);
@@ -139,7 +163,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final g = context.g;
-    if (widget.exercises.isEmpty) {
+    if (_items.isEmpty) {
       return Scaffold(appBar: GrammarAppBar(crumbs: _crumbs), body: const EmptyNote('Không có bài tập.'));
     }
     if (_finished) return _resultPage(theme);
@@ -147,7 +171,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     final db = ref.read(contentDbProvider);
     final heading = e.tt == null ? null : db.exerciseTitle(e.tt!, lessonContext: widget.lessonContext);
     final wide = context.isWide;
-    final n = widget.exercises.length;
+    final n = _items.length;
 
     final question = Surface(
       padding: EdgeInsets.symmetric(horizontal: wide ? 40 : 20, vertical: wide ? 32 : 20),
@@ -166,6 +190,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
           'fill' => _fillBody(e, theme),
           'choice' => _choiceBody(e, theme),
           'error' => _errorBody(e, theme),
+          'scramble' => _scrambleBody(e, theme),
           _ => _sentencesBody(e, theme),
         },
         if (_showVi && e.vi != null && e.vi!.isNotEmpty)
@@ -184,13 +209,14 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
         const SizedBox(height: 24),
         Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
           OutlinedButton.icon(onPressed: _pos > 0 ? () => _go(_pos - 1) : null, icon: const Icon(Icons.chevron_left, size: 18), label: const Text('Back')),
+          // Same row for every kind: fill adds "Chấm" before grading; Next is always there.
           if (e.kind == 'fill' && !_r.graded)
-            FilledButton.icon(onPressed: _gradeFill, icon: const Icon(Icons.check, size: 18), label: const Text('Chấm (Enter)'))
-          else
-            FilledButton(
-              onPressed: _next,
-              child: Row(mainAxisSize: MainAxisSize.min, children: [Text(_pos == n - 1 ? 'Kết thúc' : 'Next'), const SizedBox(width: 4), const Icon(Icons.chevron_right, size: 18)]),
-            ),
+            FilledButton.icon(onPressed: _gradeFill, icon: const Icon(Icons.check, size: 18), label: const Text('Chấm (Enter)')),
+          FilledButton(
+            style: e.kind == 'fill' && !_r.graded ? FilledButton.styleFrom(backgroundColor: theme.colorScheme.secondaryContainer, foregroundColor: theme.colorScheme.onSecondaryContainer) : null,
+            onPressed: _next,
+            child: Row(mainAxisSize: MainAxisSize.min, children: [Text(_pos == n - 1 ? 'Kết thúc' : 'Next'), const SizedBox(width: 4), const Icon(Icons.chevron_right, size: 18)]),
+          ),
           if (e.vi != null && e.vi!.isNotEmpty)
             OutlinedButton.icon(onPressed: () => setState(() => _showVi = !_showVi), icon: const Icon(Icons.translate, size: 16), label: Text(_showVi ? 'Ẩn dịch' : 'Dịch')),
           if (_r.graded && e.kind == 'fill')
@@ -295,6 +321,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
         'choice' => 'Hãy chọn câu đúng',
         'error' => 'Chọn chỗ sai',
         'fill' => 'Điền vào chỗ trống',
+        'scramble' => 'Xếp từ thành câu',
         _ => 'Đọc và tra từ',
       };
 
@@ -529,6 +556,22 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   /// by [_Result]; the first wrong pick is enough to show the "lost point" state).
   Set<int> get _wrongPicks => _r.picked != null && _r.picked != _ex.answerIndex ? {_r.picked!} : const {};
 
+  /// Type 3 drill (XepTu.bas): put the sentence's words back in order. Correct when solved
+  /// without "Đáp án"; Next is the runner's own button.
+  Widget _scrambleBody(Exercise e, ThemeData theme) => ScrambleBoard(
+        key: ValueKey('scramble-${e.id}'),
+        sentence: e.text,
+        hint: 'Chạm các từ theo đúng thứ tự.',
+        onSolved: (revealed) {
+          if (_r.graded) return;
+          setState(() {
+            _r.graded = true;
+            _r.correct = !revealed;
+          });
+          _save();
+        },
+      );
+
   Widget _sentencesBody(Exercise e, ThemeData theme) => Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
         for (final line in e.text.split('\n').where((l) => l.trim().isNotEmpty))
           Padding(padding: const EdgeInsets.symmetric(vertical: 4), child: WordTapText(line, style: ReadingStyles.prompt(context).copyWith(fontSize: 19), source: 'exercise:${e.id}')),
@@ -654,10 +697,10 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
               const Eyebrow('Kết quả'),
               const SizedBox(height: 8),
               Text('$pct %', style: theme.textTheme.displayLarge?.copyWith(color: g.iris, fontSize: 56)),
-              Text('Đúng $_score / $_done câu đã làm (${widget.exercises.length} câu)', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+              Text('Đúng $_score / $_done câu đã làm (${_items.length} câu)', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
               const SizedBox(height: 20),
               Wrap(spacing: 8, runSpacing: 8, children: [
-                for (var i = 0; i < widget.exercises.length; i++) _dot(i, g, theme),
+                for (var i = 0; i < _items.length; i++) _dot(i, g, theme),
               ]),
               const SizedBox(height: 24),
               Wrap(spacing: 8, runSpacing: 8, children: [

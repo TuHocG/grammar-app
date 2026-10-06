@@ -11,6 +11,26 @@ import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/exercises/exercise_runner.dart';
 
 void main() {
+  group('grammar drills (real DB)', () {
+    final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
+    final has = File('$dir/grammar.db').existsSync();
+    test('drills belong to lessons by data.Muc position; type 3 is scramble', () {
+      final db = ContentDb.open(dir);
+      expect(db.exercisesForLessons([3]).length, 46);     // Chia Ðộng Từ To Be
+      expect(db.exercisesForLessons([48]).length, 54);    // Passive Voice: 0 before the fix
+      final simple = db.exercisesForLessons([37]);       // Câu Ðơn: its single record is a scramble drill
+      expect(simple.length, 1);
+      expect(simple.first.kind, 'scramble');
+      expect(simple.first.text, startsWith('Lan is a pupil.'));
+      expect(db.grammarLesson(48)!.drills, isTrue);
+      expect(db.grammarLesson(37)!.drills, isTrue);
+      expect(db.grammarLesson(2)!.drills, isFalse);        // Chia Ðộng Từ: empty record
+      expect(db.raw.select('SELECT count(*) AS n FROM exercise WHERE menu IS NULL AND lesson_ref IS NULL').first['n'], 0);
+      expect(db.raw.select("SELECT count(*) AS n FROM exercise WHERE kind = 'sentences'").first['n'], 0);
+      db.close();
+    }, skip: !has);
+  });
+
   final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
   final has = File('$dir/grammar.db').existsSync();
   late ContentDb db;
