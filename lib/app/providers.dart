@@ -6,6 +6,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../data/content_db.dart';
 import '../data/models.dart';
+import '../data/search_key.dart';
 import '../data/user_db.dart';
 import '../domain/lookup.dart';
 import '../platform/tts.dart';
@@ -134,19 +135,27 @@ class UserWordsNotifier extends Notifier<UserWordsState> {
 
 final userWordsProvider = NotifierProvider<UserWordsNotifier, UserWordsState>(UserWordsNotifier.new);
 
-/// Keys that should be *underlined* in texts: members of the word families of saved words
-/// (docs/08 G10). Saved words themselves are shown in red.
+/// Keys whose words are *underlined* in texts (docs/08 G10): every saved word and the
+/// members of its Word Forms family. A text word is underlined when it, or its base form
+/// (kicked → kick), is in this set and it is not itself saved (saved words are red).
 final familyKeysProvider = Provider<Set<String>>((ref) {
   final saved = ref.watch(userWordsProvider).savedKeys;
   final db = ref.watch(contentDbProvider);
   final out = <String>{};
   for (final k in saved) {
-    final fam = db.familyOf(k);
-    if (fam != null) {
+    if (k.contains(' ')) continue;
+    out.add(k);
+    // An inflected saved word ("decided") belongs to the family of its base form.
+    for (final cand in [k, ...baseFormCandidates(k)]) {
+      final fam = db.familyOf(cand);
+      if (fam == null) continue;
+      out.add(cand);
       for (final m in fam.members) {
-        final mk = m.word.toLowerCase();
-        if (!saved.contains(mk)) out.add(mk);
+        // Some members carry a part of speech in the word: "outkick (v)".
+        final mk = searchKey(m.word.replaceAll(RegExp(r'\s*\(.*$'), ''));
+        if (mk.isNotEmpty && !mk.contains(' ')) out.add(mk);
       }
+      break;
     }
   }
   return out;

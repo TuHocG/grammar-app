@@ -11,6 +11,7 @@ import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/search_key.dart';
 import '../dictionary/quick_def_sheet.dart';
+import 'word_tap_text.dart' show savedStyle, familyStyle, inSavedFamily;
 
 class MarkText extends ConsumerStatefulWidget {
   final String text;
@@ -26,6 +27,7 @@ class MarkText extends ConsumerStatefulWidget {
 
 class _MarkTextState extends ConsumerState<MarkText> {
   final List<GestureRecognizer> _recs = [];
+  Set<String> _family = const {};
 
   @override
   void dispose() {
@@ -44,6 +46,7 @@ class _MarkTextState extends ConsumerState<MarkText> {
     final theme = Theme.of(context);
     final base = widget.style ?? theme.textTheme.bodyLarge!.copyWith(fontSize: 17, height: 1.7);
     final saved = ref.watch(userWordsProvider).savedKeys;
+    _family = ref.watch(familyKeysProvider);
     final lines = widget.text.replaceAll('\r\n', '\n').split('\n');
     final blocks = <Widget>[];
     var i = 0;
@@ -144,7 +147,7 @@ class _MarkTextState extends ConsumerState<MarkText> {
       final key = searchKey(cleanToken(tok));
       final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: text.trim(), source: widget.source);
       _recs.add(rec);
-      out.add(TextSpan(text: tok, style: saved.contains(key) ? style.copyWith(color: context.g.savedWord, fontWeight: FontWeight.w600) : style, recognizer: rec));
+      out.add(TextSpan(text: tok, style: saved.contains(key) ? savedStyle(context, style) : inSavedFamily(key, _family) ? familyStyle(context, style) : style, recognizer: rec));
     }
     return out;
   }

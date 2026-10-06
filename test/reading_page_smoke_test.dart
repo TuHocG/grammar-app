@@ -17,6 +17,9 @@ import 'package:grammar/ui/home/home_page.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
 import 'package:grammar/ui/readings/ipa_lesson_page.dart';
 import 'package:grammar/ui/readings/reading_page.dart';
+import 'package:grammar/ui/widgets/word_tap_text.dart';
+
+BuildContext context(WidgetTester t) => t.element(find.byType(Scaffold).first);
 
 void main() {
   final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
@@ -167,6 +170,34 @@ void main() {
     await tester.pumpWidget(wrap(const PictureTopicsPage()));
     await tester.pump();
     expect(tester.takeException(), isNull);
+  }, skip: !has);
+
+  testWidgets('G10: saved words red everywhere, their family (and inflections) underlined', (tester) async {
+    for (final w in ['dog', 'kick', 'come through', 'decided']) {
+      user.saveWord(headword: w);
+    }
+    addTearDown(() {
+      for (final w in ['dog', 'kick', 'come through', 'decided']) {
+        user.deleteByKey(w);
+      }
+    });
+    await tester.pumpWidget(wrap(const Scaffold(body: WordTapText(
+        'The dog saw a Dog, dogs and a doglike cat. He kicked it, kicks, outkick. They come through, we come through. A decision, decide.'))));
+    final rich = tester.widget<RichText>(find.byWidgetPredicate((w) => w is RichText && w.text.toPlainText().startsWith('The dog')));
+    final styles = <String, List<TextStyle?>>{};
+    rich.text.visitChildren((sp) {
+      if (sp is TextSpan && sp.text != null) styles.putIfAbsent(sp.text!, () => []).add(sp.style);
+      return true;
+    });
+    final red = context(tester).g.savedWord;
+    bool isRed(String w, [int i = 0]) => styles[w]![i]!.color == red;
+    bool under(String w, [int i = 0]) => styles[w]![i]!.decoration == TextDecoration.underline;
+    expect(isRed('dog') && isRed('Dog'), isTrue);               // identical words, every occurrence
+    expect(under('dogs') && under('doglike'), isTrue);          // inflection, family member
+    expect(under('kicked') && under('kicks') && under('outkick'), isTrue);   // "outkick (v)" in the data
+    expect(isRed('come', 0) && isRed('through', 0) && isRed('come', 1) && isRed('through', 1), isTrue);
+    expect(under('decision') && under('decide'), isTrue);       // saved inflected form -> family of "decide"
+    expect(under('cat') || isRed('cat'), isFalse);
   }, skip: !has);
 
   test('a dialog opens as a reading for the practice pages (A1, B1, A2 …)', () {

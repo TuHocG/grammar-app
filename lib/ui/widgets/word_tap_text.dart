@@ -1,6 +1,8 @@
-/// Text whose every word can be tapped to look it up; saved words are red and members of
-/// their word families are underlined (docs/08 G3, G10). Phrase selection (G7) is done by
-/// the page that hosts the text (e.g. ReadingPage wraps the article in a SelectionArea).
+/// Text whose every word can be tapped to look it up (docs/08 G3, G10): every occurrence
+/// of a saved word or phrase is red; words of the same family as a saved word (Word Forms
+/// families, and inflected forms such as "kicked" for "kick") are underlined. Phrase
+/// selection (G7) is done by the page that hosts the text (e.g. ReadingPage wraps the
+/// article in a SelectionArea).
 library;
 
 import 'package:flutter/gestures.dart';
@@ -17,8 +19,70 @@ import '../dictionary/quick_def_sheet.dart';
 final _tokenRe = RegExp(r"\[[^\[\]\n]{1,48}\]|[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9][A-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9'’-]*|\s+|[^\sA-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9]+");
 final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ]');
 
-/// Builds the spans of [text]: one tappable span per word, red when saved, underlined when
-/// in a saved word's family. Recognizers are appended to [recognizers]; the caller owns them.
+/// Saved key of each token of [toks] (null = not part of a saved word/phrase) and where
+/// each saved occurrence starts. Saved phrases ("come through") match whole word runs
+/// separated by spaces only; the longest phrase wins.
+({List<String?> keys, List<bool> starts}) _savedRuns(List<RegExpMatch> toks, Set<String> saved) {
+  final keys = List<String?>.filled(toks.length, null);
+  final starts = List<bool>.filled(toks.length, false);
+  final wordKey = [
+    for (final m in toks) _letterRe.hasMatch(m.group(0)!) ? searchKey(cleanToken(m.group(0)!)) : null,
+  ];
+  var maxWords = 1;
+  for (final k in saved) {
+    final n = ' '.allMatches(k).length + 1;
+    if (n > maxWords) maxWords = n;
+  }
+  var i = 0;
+  while (i < toks.length) {
+    if (wordKey[i] == null) {
+      i++;
+      continue;
+    }
+    // Word token indexes of the run starting at i (only whitespace between words).
+    final run = <int>[i];
+    var j = i + 1;
+    while (run.length < maxWords && j + 1 < toks.length && toks[j].group(0)!.trim().isEmpty && !toks[j].group(0)!.contains('\n') && wordKey[j + 1] != null) {
+      run.add(j + 1);
+      j += 2;
+    }
+    var matched = 0;
+    String? key;
+    for (var n = run.length; n >= 1; n--) {
+      final k = [for (final t in run.take(n)) wordKey[t]].join(' ');
+      if (saved.contains(k)) {
+        matched = n;
+        key = k;
+        break;
+      }
+    }
+    if (key == null) {
+      i++;
+      continue;
+    }
+    final end = run[matched - 1];
+    for (var t = i; t <= end; t++) {
+      keys[t] = key;
+    }
+    starts[i] = true;
+    i = end + 1;
+  }
+  return (keys: keys, starts: starts);
+}
+
+/// Style of a saved word (red) and of a word of a saved word's family (underlined).
+TextStyle savedStyle(BuildContext context, TextStyle base) =>
+    base.copyWith(color: context.g.savedWord, fontWeight: FontWeight.w600);
+TextStyle familyStyle(BuildContext context, TextStyle base) =>
+    base.copyWith(decoration: TextDecoration.underline, decorationColor: context.g.savedWord, decorationThickness: 1.5);
+
+/// True when [key] (or its base form: kicked → kick, came → come) is in [family].
+bool inSavedFamily(String key, Set<String> family) =>
+    family.contains(key) || baseFormCandidates(key).any(family.contains);
+
+/// Builds the spans of [text]: one tappable span per word; saved words/phrases red, words
+/// of their families underlined. Recognizers are appended to [recognizers]; the caller
+/// owns them.
 List<InlineSpan> wordSpans(
   BuildContext context,
   WidgetRef ref,
@@ -33,21 +97,20 @@ List<InlineSpan> wordSpans(
 }) {
   final saved = ref.watch(userWordsProvider).savedKeys;
   final family = ref.watch(familyKeysProvider);
-  final g = context.g;
+  final toks = _tokenRe.allMatches(text).toList();
+  final runs = _savedRuns(toks, saved);
   final spans = <InlineSpan>[];
-  for (final m in _tokenRe.allMatches(text)) {
-    final tok = m.group(0)!;
+  for (var i = 0; i < toks.length; i++) {
+    final tok = toks[i].group(0)!;
     if (!_letterRe.hasMatch(tok)) {
-      spans.add(TextSpan(text: tok, style: base));
+      spans.add(TextSpan(text: tok, style: runs.keys[i] != null ? savedStyle(context, base) : base));
       continue;
     }
-    final key = searchKey(cleanToken(tok));
-    var style = base;
-    if (saved.contains(key)) {
-      style = style.copyWith(color: g.savedWord, fontWeight: FontWeight.w600);
-    } else if (family.contains(key)) {
-      style = style.copyWith(decoration: TextDecoration.underline, decorationColor: g.fog, decorationThickness: 1);
-    }
+    final style = runs.keys[i] != null
+        ? savedStyle(context, base)
+        : inSavedFamily(searchKey(cleanToken(tok)), family)
+            ? familyStyle(context, base)
+            : base;
     final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: contextSentence ?? text, source: source, fallbackVi: fallbackVi);
     recognizers.add(rec);
     spans.add(TextSpan(text: tok, style: style, recognizer: rec));

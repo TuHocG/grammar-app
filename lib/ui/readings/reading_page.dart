@@ -414,16 +414,18 @@ class _ParagraphState extends ConsumerState<_Paragraph> {
         ),
       ));
       if (widget.onToken != null && s.tokens != null) {
-        // Analysed unit: one span per word group ("to see"), saved words red.
+        // Analysed unit: one span per word group ("to see"); saved words red, family underlined.
         final saved = ref.watch(userWordsProvider).savedKeys;
+        final family = ref.watch(familyKeysProvider);
         final toks = s.tokens!;
         final start = widget.tokenStart[s.idx] ?? 0;
         for (var j = 0; j < toks.length; j++) {
           final tok = toks[j];
           final rec = TapGestureRecognizer()..onTap = () => widget.onToken!(start + j, tok, s);
           _recs.add(rec);
-          final isSaved = saved.contains(searchKey(cleanToken(tok)));
-          spans.add(TextSpan(text: tok, style: isSaved ? style.copyWith(color: g.savedWord, fontWeight: FontWeight.w600) : style, recognizer: rec));
+          final key = searchKey(cleanToken(tok));
+          final st = saved.contains(key) ? savedStyle(context, style) : inSavedFamily(key, family) ? familyStyle(context, style) : style;
+          spans.add(TextSpan(text: tok, style: st, recognizer: rec));
           if (j < toks.length - 1) spans.add(TextSpan(text: ' ', style: style));
         }
       } else {
