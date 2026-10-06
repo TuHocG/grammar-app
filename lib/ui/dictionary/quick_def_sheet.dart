@@ -1,5 +1,6 @@
 /// QuickDefSheet: quick meaning → full entry → save (docs/08 G3, G4, G5, G9). Shown as a
-/// bottom sheet; the header keeps the old app's format `rubber ['rʌbə] ‹ráp bờ›: cao su`.
+/// bottom sheet; the header keeps the old app's order `rubber ['rʌbə] (ráp bờ): cao su`,
+/// with the Vietnamese respelling as a pill.
 library;
 
 import 'package:flutter/material.dart';
@@ -71,7 +72,7 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
           Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 12, runSpacing: 4, children: [
             Text(r.headword, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink)),
             if (r.ipa != null && r.ipa!.isNotEmpty) Text('[${r.ipa}]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
-            if (quick?.respell != null && quick!.respell!.isNotEmpty) Text('‹${quick.respell}›', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+            if (quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
             RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => tts.speak(r.headword)),
           ]),
           if (r.redirectedFrom != null)
@@ -121,7 +122,6 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
               FilledButton.icon(onPressed: toggleSave, icon: const Icon(Icons.bookmark_outline, size: 16), label: const Text('Lưu từ')),
             if (!_full && r.entries.isNotEmpty) OutlinedButton(onPressed: () => setState(() => _full = true), child: const Text('Mục đầy đủ')),
             if (r.found) OutlinedButton(onPressed: () => context.push('/dict/word/${Uri.encodeComponent(r.headword)}'), child: const Text('Mở trang từ điển')),
-            Text('Enter = lưu', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
           ]),
           if (_full) ...[
             const SizedBox(height: 16),

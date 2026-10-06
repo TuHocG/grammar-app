@@ -34,7 +34,7 @@ class EntryPage extends ConsumerWidget {
   }
 }
 
-/// Headword block (Literata, IPA in violet, ‹Vietnamese respelling›), read-aloud and save
+/// Headword block (Literata, IPA in violet, Vietnamese respelling pill), read-aloud and save
 /// buttons, quick meaning, full entries, Related forms.
 class EntryCard extends ConsumerWidget {
   final LookupResult result;
@@ -84,7 +84,7 @@ class EntryCard extends ConsumerWidget {
             const SizedBox(height: 4),
             Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 14, runSpacing: 6, children: [
               if (r.ipa != null && r.ipa!.isNotEmpty) Text('[${r.ipa}]', style: theme.textTheme.titleMedium?.copyWith(color: g.iris, fontWeight: FontWeight.w400, fontSize: 18)),
-              if (quick?.respell != null && quick!.respell!.isNotEmpty) Text('‹${quick.respell}›', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+              if (quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!, fontSize: 16),
               ActionChip(avatar: const Icon(Icons.volume_up_outlined, size: 16), label: const Text('Đọc'), onPressed: () => tts.speak(r.headword)),
             ]),
           ]),

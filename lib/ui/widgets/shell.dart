@@ -183,6 +183,26 @@ class LilacPanel extends StatelessWidget {
 }
 
 /// Small pill badge: "24", "MP3", "BT".
+/// Vietnamese respelling of a headword ("che z" for chairs): a soft pill instead of the
+/// old app's ‹…› brackets, which were hard to read at small sizes.
+class Respell extends StatelessWidget {
+  final String text;
+  final double fontSize;
+  const Respell(this.text, {super.key, this.fontSize = 15});
+  @override
+  Widget build(BuildContext context) {
+    final g = context.g;
+    return Tooltip(
+      message: 'Phiên âm tiếng Việt',
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 3),
+        decoration: BoxDecoration(color: g.lilac, borderRadius: BorderRadius.circular(100)),
+        child: Text(text, style: TextStyle(fontFamily: Tokens.uiFont, fontSize: fontSize, fontWeight: FontWeight.w600, color: g.indigo, height: 1.2)),
+      ),
+    );
+  }
+}
+
 class SoftBadge extends StatelessWidget {
   final String text;
   final Color? color;
