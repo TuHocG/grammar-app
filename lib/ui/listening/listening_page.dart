@@ -1,11 +1,13 @@
 /// Luyện Nghe → Bài tập (docs/08 L1): Unit 1–20; the machine reads the English sentence,
 /// the learner picks one of four Vietnamese sentences (shuffled); a point only when the
-/// first pick is right; the English can be looked up after answering.
+/// first pick is right; the English can be looked up after answering. Same layout as the
+/// exercise runner: progress bar, question card, button row, map of the unit's sentences.
 library;
 
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
@@ -50,6 +52,14 @@ class ListeningUnitsPage extends ConsumerWidget {
   }
 }
 
+class _Result {
+  bool graded = false;
+  bool correct = false;
+  bool lost = false;   // a wrong pick before the right one = no point
+  int? picked;
+  List<int>? order;    // shuffled option order, fixed once the item is shown
+}
+
 class ListeningUnitPage extends ConsumerStatefulWidget {
   final int unit;
   const ListeningUnitPage({super.key, required this.unit});
@@ -59,13 +69,8 @@ class ListeningUnitPage extends ConsumerStatefulWidget {
 
 class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
   late List<ListeningItem> _items;
+  late List<_Result> _res;
   int _pos = 0;
-  late List<int> _order;      // shuffled option order for the current item
-  int? _picked;
-  bool _lost = false;
-  bool _graded = false;
-  int _score = 0;
-  int _done = 0;
   bool _finished = false;
   final _rnd = Random();
 
@@ -73,110 +78,231 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
   void initState() {
     super.initState();
     _items = ref.read(contentDbProvider).listeningItems(widget.unit);
-    _load(0);
+    _res = List.generate(_items.length, (_) => _Result());
+    if (_items.isNotEmpty) _go(0);
   }
 
-  void _load(int pos) {
-    _pos = pos;
-    _order = List.generate(_items[pos].options.length, (i) => i)..shuffle(_rnd);
-    _picked = null;
-    _lost = false;
-    _graded = false;
-    setState(() {});
+  _Result get _r => _res[_pos];
+  int get _score => _res.where((r) => r.graded && r.correct).length;
+  int get _done => _res.where((r) => r.graded).length;
+  List<int> get _order => _r.order ??= (List.generate(_items[_pos].options.length, (i) => i)..shuffle(_rnd));
+
+  void _go(int pos) {
+    if (pos < 0 || pos >= _items.length) return;
+    setState(() {
+      _pos = pos;
+      _finished = false;
+    });
     WidgetsBinding.instance.addPostFrameCallback((_) => _speak());
   }
 
   Future<void> _speak() => ref.read(ttsProvider).speak(_items[_pos].en);
 
   void _pick(int optionIdx) {
-    if (_graded) return;
+    if (_r.graded) return;
     setState(() {
-      _picked = optionIdx;
+      _r.picked = optionIdx;
       if (optionIdx == 0) {
-        _graded = true;
-        _done++;
-        if (!_lost) _score++;
+        _r.graded = true;
+        _r.correct = !_r.lost;
       } else {
-        _lost = true;
+        _r.lost = true;
       }
     });
-    if (_graded) ref.read(userDbProvider).setProgress('listening', 'unit${widget.unit}', 'đúng $_score/$_done');
+    if (_r.graded) ref.read(userDbProvider).setProgress('listening', 'unit${widget.unit}', 'đúng $_score/$_done');
   }
 
   void _next() {
     if (_pos < _items.length - 1) {
-      _load(_pos + 1);
+      _go(_pos + 1);
     } else {
       setState(() => _finished = true);
     }
   }
 
+  void _restart() {
+    setState(() {
+      _res = List.generate(_items.length, (_) => _Result());
+      _finished = false;
+    });
+    _go(0);
+  }
+
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    if (_items.isEmpty) return Scaffold(appBar: GrammarAppBar(title: Text('Unit ${widget.unit}')), body: const Center(child: Text('Không có câu.')));
+    final g = context.g;
+    final wide = context.isWide;
+    final n = _items.length;
+    final units = ref.read(contentDbProvider).listeningUnits();
+    final nextUnit = units.where((u) => u > widget.unit).firstOrNull;
+    final crumbs = [const Crumb('Luyện Nghe', '/listening'), Crumb('Unit ${widget.unit}')];
+    if (n == 0) return Scaffold(appBar: GrammarAppBar(crumbs: crumbs), body: const EmptyNote('Không có câu.'));
+
+    final map = Surface(
+      padding: const EdgeInsets.all(16),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Row(children: [
+          Expanded(child: Text('Unit ${widget.unit}', style: theme.textTheme.titleSmall)),
+          Text('$n câu', style: theme.textTheme.bodySmall),
+        ]),
+        const SizedBox(height: 12),
+        Wrap(spacing: 8, runSpacing: 8, children: [for (var i = 0; i < n; i++) _dot(i, g, theme)]),
+        const SizedBox(height: 12),
+        Wrap(spacing: 12, runSpacing: 4, children: [
+          _legend(g.iris, g.iris, 'đúng', theme),
+          _legend(Colors.transparent, g.slate, 'sai', theme),
+          _legend(Colors.transparent, g.border, 'chưa làm', theme),
+        ]),
+        if (nextUnit != null) ...[
+          const Divider(height: 24),
+          TextButton(onPressed: () => context.pushReplacement('/listening/$nextUnit'), child: Text('Unit $nextUnit →')),
+        ],
+      ]),
+    );
+
+    Widget question;
     if (_finished) {
       final pct = _done == 0 ? 0 : (_score * 100 / _done).round();
-      return Scaffold(
-        appBar: GrammarAppBar(title: Text('Unit ${widget.unit}')),
-        body: Center(
-          child: Column(mainAxisSize: MainAxisSize.min, children: [
-            Text('$pct %', style: theme.textTheme.displayMedium?.copyWith(color: theme.colorScheme.primary)),
-            Text('Đúng $_score / $_done câu'),
-            const SizedBox(height: 16),
-            Wrap(spacing: 8, children: [
-              FilledButton(onPressed: () { _score = 0; _done = 0; _finished = false; _load(0); }, child: const Text('Làm lại')),
-              TextButton(onPressed: () => Navigator.of(context).pop(), child: const Text('Đóng')),
-            ]),
+      question = Surface(
+        padding: const EdgeInsets.all(32),
+        child: Column(children: [
+          Text('$pct %', style: theme.textTheme.displayMedium?.copyWith(color: g.iris)),
+          Text('Đúng $_score / $_done câu đã làm ($n câu)', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+          const SizedBox(height: 16),
+          Wrap(spacing: 8, children: [
+            FilledButton(onPressed: _restart, child: const Text('Làm lại')),
+            if (nextUnit != null) OutlinedButton(onPressed: () => context.pushReplacement('/listening/$nextUnit'), child: Text('Unit $nextUnit')),
+            TextButton(onPressed: () => context.pop(), child: const Text('Đóng')),
           ]),
-        ),
+        ]),
       );
-    }
-    final it = _items[_pos];
-    return Scaffold(
-      appBar: GrammarAppBar(
-        title: Text('Unit ${widget.unit} · ${_pos + 1}/${_items.length}'),
-        actions: [Center(child: Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall)), const SizedBox(width: 16)],
-      ),
-      body: ListView(
-        padding: const EdgeInsets.all(20),
-        children: [
+    } else {
+      final it = _items[_pos];
+      final order = _order;
+      question = Surface(
+        padding: EdgeInsets.all(wide ? 32 : 20),
+        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          const Eyebrow('Nghe câu tiếng Anh rồi chọn câu dịch đúng'),
+          const SizedBox(height: 8),
           Row(children: [
             FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
             const SizedBox(width: 12),
             Expanded(
-              child: _graded
-                  ? WordTapText(it.en, style: theme.textTheme.titleMedium, context: it.en, source: 'listening:${it.id}')
-                  : Text('Nghe câu tiếng Anh rồi chọn câu dịch đúng.', style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.outline)),
+              child: _r.graded
+                  ? WordTapText(it.en, style: ReadingStyles.prompt(context), context: it.en, source: 'listening:${it.id}')
+                  : Text('Câu tiếng Anh hiện ra sau khi bạn chọn đúng.', style: theme.textTheme.bodyMedium?.copyWith(color: g.fog)),
             ),
           ]),
           const SizedBox(height: 16),
-          for (var k = 0; k < _order.length; k++) _option(k, _order[k], theme),
+          for (var k = 0; k < order.length; k++) _option(k, order[k], theme),
+          const SizedBox(height: 20),
+          Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
+            OutlinedButton.icon(onPressed: _pos > 0 ? () => _go(_pos - 1) : null, icon: const Icon(Icons.chevron_left, size: 18), label: const Text('Back')),
+            FilledButton(
+              onPressed: _next,
+              child: Row(mainAxisSize: MainAxisSize.min, children: [Text(_pos == n - 1 ? 'Kết thúc' : 'Next'), const SizedBox(width: 4), const Icon(Icons.chevron_right, size: 18)]),
+            ),
+            if (!_r.graded) Text('Chọn sai lần đầu = không tính điểm, như app gốc', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+          ]),
+        ]),
+      );
+    }
+
+    final main = Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+      Row(children: [
+        Expanded(child: ClipRRect(borderRadius: BorderRadius.circular(3), child: LinearProgressIndicator(value: (_pos + 1) / n))),
+        const SizedBox(width: 16),
+        Text.rich(TextSpan(children: [
+          TextSpan(text: 'Câu ', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+          TextSpan(text: '${_pos + 1}', style: theme.textTheme.titleSmall),
+          TextSpan(text: ' / $n', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+        ])),
+        if (_r.graded) ...[
+          const SizedBox(width: 12),
+          Icon(_r.correct ? Icons.check_circle : Icons.cancel, size: 20, color: _r.correct ? g.iris : g.slate),
+        ],
+      ]),
+      const SizedBox(height: 16),
+      question,
+    ]);
+
+    return Scaffold(
+      appBar: GrammarAppBar(
+        crumbs: crumbs,
+        actions: [
+          Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall),
+          const SizedBox(width: 12),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/13')),
         ],
       ),
-      bottomNavigationBar: SafeArea(
-        child: Padding(
-          padding: const EdgeInsets.fromLTRB(12, 4, 12, 8),
-          child: Row(children: [
-            OutlinedButton(onPressed: _pos > 0 ? () => _load(_pos - 1) : null, child: const Text('Câu trước')),
-            const Spacer(),
-            FilledButton(onPressed: _graded ? _next : null, child: Text(_pos == _items.length - 1 ? 'Kết thúc' : 'Câu kế')),
+      body: CallbackShortcuts(
+        bindings: {
+          const SingleActivator(LogicalKeyboardKey.enter): () { if (_r.graded) _next(); },
+          const SingleActivator(LogicalKeyboardKey.space): _speak,
+        },
+        child: Focus(
+          autofocus: true,
+          child: RailListView(children: [
+            if (wide)
+              Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Expanded(child: main),
+                const SizedBox(width: 24),
+                SizedBox(width: 260, child: map),
+              ])
+            else ...[
+              main,
+              const SizedBox(height: 16),
+              map,
+            ],
           ]),
         ),
       ),
     );
   }
 
+  Widget _dot(int i, GrammarColors g, ThemeData theme) {
+    final r = _res[i];
+    final cur = i == _pos && !_finished;
+    Color fill = Colors.transparent, border = g.border, color = g.slate;
+    if (r.graded && r.correct) {
+      fill = g.iris;
+      border = g.iris;
+      color = theme.colorScheme.onPrimary;
+    } else if (r.graded) {
+      border = g.slate;
+    }
+    if (cur) {
+      border = g.iris;
+      if (!r.graded) color = g.iris;
+    }
+    return InkWell(
+      onTap: () => _go(i),
+      customBorder: const CircleBorder(),
+      child: Container(
+        decoration: cur ? BoxDecoration(shape: BoxShape.circle, boxShadow: [BoxShadow(color: g.lilac, spreadRadius: 3)]) : null,
+        child: LetterDot('${i + 1}', size: 28, fill: fill, border: border, color: color),
+      ),
+    );
+  }
+
+  Widget _legend(Color fill, Color border, String label, ThemeData theme) => Row(mainAxisSize: MainAxisSize.min, children: [
+        Container(width: 12, height: 12, decoration: BoxDecoration(shape: BoxShape.circle, color: fill, border: Border.all(color: border))),
+        const SizedBox(width: 6),
+        Text(label, style: theme.textTheme.bodySmall),
+      ]);
+
   Widget _option(int shown, int optionIdx, ThemeData theme) {
     final it = _items[_pos];
     final g = context.g;
+    final r = _r;
     final letter = String.fromCharCode(97 + shown);
     final isAnswer = optionIdx == 0;
     Color bg = g.card, border = g.border, fg = g.ink, dotFill = Colors.transparent, dotBorder = g.border, dotColor = g.slate;
     Widget? dotChild;
     var weight = FontWeight.w400;
     var strike = false;
-    if (_graded) {
+    if (r.graded) {
       if (isAnswer) {
         bg = g.lilac;
         border = g.iris;
@@ -184,7 +310,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
         dotFill = g.iris;
         dotBorder = g.iris;
         dotChild = Icon(Icons.check, size: 16, color: theme.colorScheme.onPrimary);
-      } else if (_picked == optionIdx) {
+      } else if (r.picked == optionIdx) {
         fg = g.slate;
         strike = true;
         dotFill = g.slate;
@@ -194,7 +320,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
         fg = g.fog;
         dotColor = g.fog;
       }
-    } else if (_picked == optionIdx) {
+    } else if (r.picked == optionIdx) {
       fg = g.slate;
       strike = true;
       dotFill = g.slate;
@@ -207,7 +333,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
         color: bg,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8), side: BorderSide(color: border)),
         child: InkWell(
-          onTap: _graded ? null : () => _pick(optionIdx),
+          onTap: r.graded ? null : () => _pick(optionIdx),
           borderRadius: BorderRadius.circular(8),
           child: Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
@@ -221,5 +347,4 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
       ),
     );
   }
-
 }
