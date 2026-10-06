@@ -13,6 +13,7 @@ import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/search_key.dart';
 import '../dictionary/quick_def_sheet.dart';
+import '../vocab/word_hint.dart';
 
 /// Tokens: a bracketed phonetic group "[ˈbæksifɔ:m]" as one unit, then words (Latin,
 /// Vietnamese, IPA letters U+0250–02AF and θ), whitespace, punctuation runs.
@@ -113,7 +114,17 @@ List<InlineSpan> wordSpans(
             : base;
     final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: contextSentence ?? text, source: source, fallbackVi: fallbackVi);
     recognizers.add(rec);
-    spans.add(TextSpan(text: tok, style: style, recognizer: rec));
+    // The word under the mouse is what F2 pre-fills (docs/08 G11).
+    final hint = (word: cleanToken(tok), context: contextSentence ?? text, source: source);
+    spans.add(TextSpan(
+      text: tok,
+      style: style,
+      recognizer: rec,
+      onEnter: (_) => WordHints.hovered.value = hint,
+      onExit: (_) {
+        if (WordHints.hovered.value == hint) WordHints.hovered.value = null;
+      },
+    ));
   }
   return spans;
 }

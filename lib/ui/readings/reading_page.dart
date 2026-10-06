@@ -27,6 +27,7 @@ import '../analysis/analysis_card.dart';
 import '../analysis/analysis_page.dart';
 import '../dictionary/quick_def_sheet.dart';
 import '../widgets/shell.dart';
+import '../vocab/word_hint.dart';
 import '../widgets/word_tap_text.dart';
 
 class ReadingPage extends ConsumerStatefulWidget {
@@ -83,6 +84,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   void dispose() {
     _player?.dispose();
     _phrase.dispose();
+    WordHints.selected.value = null;
     super.dispose();
   }
 
@@ -93,6 +95,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
     var t = (sel?.plainText ?? '').replaceAll(_ws, ' ').trim();
     t = cleanToken(t);
     _phrase.value = _letter.hasMatch(t) ? t : null;
+    WordHints.selected.value = _phrase.value == null ? null : (word: _phrase.value!, context: null, source: 'reading:${widget.id}');
   }
 
   void _lookupPhrase(String phrase, String src) {

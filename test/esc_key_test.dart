@@ -2,6 +2,7 @@
 // handler to a real GoRouter.
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:go_router/go_router.dart';
 import 'package:grammar/ui/widgets/type_to_search.dart';
@@ -12,9 +13,11 @@ void main() {
       GoRoute(path: '/', builder: (_, _) => const Scaffold(body: Text('home'))),
       GoRoute(path: '/a', builder: (_, _) => const Scaffold(body: Text('page a'))),
     ]);
-    await tester.pumpWidget(MaterialApp.router(
-      routerConfig: router,
-      builder: (context, child) => TypeToSearch(router: router, child: child!),
+    await tester.pumpWidget(ProviderScope(
+      child: MaterialApp.router(
+        routerConfig: router,
+        builder: (context, child) => TypeToSearch(router: router, child: child!),
+      ),
     ));
     router.push('/a');
     await tester.pumpAndSettle();

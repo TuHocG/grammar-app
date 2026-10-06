@@ -200,6 +200,31 @@ void main() {
     expect(under('cat') || isRed('cat'), isFalse);
   }, skip: !has);
 
+  testWidgets('own meaning shows when tapping a word saved with F2 (inflected or not in the dictionary)', (tester) async {
+    tester.view.physicalSize = const Size(1100, 720);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+    user.saveWord(headword: 'rowing', meaning: 'môn chèo thuyền');
+    user.saveWord(headword: 'zzkayak', meaning: 'thuyền kayak riêng');
+    addTearDown(() {
+      user.deleteByKey('rowing');
+      user.deleteByKey('zzkayak');
+    });
+    await tester.pumpWidget(wrap(const Scaffold(body: WordTapText('They like rowing and zzkayak.'))));
+    final rich = find.byWidgetPredicate((w) => w is RichText && w.text.toPlainText().startsWith('They like'));
+    final rp = tester.renderObject<RenderParagraph>(rich);
+    for (final (word, meaning) in [('rowing', 'môn chèo thuyền'), ('zzkayak', 'thuyền kayak riêng')]) {
+      final caret = rp.getOffsetForCaret(TextPosition(offset: rp.text.toPlainText().indexOf(word) + 2), Rect.zero);
+      await tester.tapAt(rp.localToGlobal(caret + const Offset(0, 8)));
+      await tester.pumpAndSettle();
+      expect(find.text(meaning), findsOneWidget, reason: word);
+      expect(find.text('Sửa từ (F2)'), findsOneWidget);
+      Navigator.of(tester.element(find.text(meaning))).pop();
+      await tester.pumpAndSettle();
+    }
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
+
   test('a dialog opens as a reading for the practice pages (A1, B1, A2 …)', () {
     final c = ProviderContainer(overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user)]);
     addTearDown(c.dispose);

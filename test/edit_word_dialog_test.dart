@@ -3,14 +3,18 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:go_router/go_router.dart';
 import 'package:grammar/app/providers.dart';
 import 'package:grammar/app/theme.dart';
 import 'package:grammar/data/content_db.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/vocab/edit_word_dialog.dart';
+import 'package:grammar/ui/vocab/word_hint.dart';
+import 'package:grammar/ui/widgets/type_to_search.dart';
 
 void main() {
   final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
@@ -54,5 +58,38 @@ void main() {
     expect(tester.takeException(), isNull);
     expect(r.read(userWordsProvider).savedKeys, contains('wash'));
     expect(user.wordByKey('wash')?.meaning, isNotEmpty);
+  }, skip: !has);
+
+  testWidgets('F2 in a lesson: editor for the word under the mouse, pre-filled; saved word -> Sửa từ', (tester) async {
+    final router = GoRouter(routes: [GoRoute(path: '/', builder: (_, _) => const Scaffold(body: Text('lesson')))]);
+    await tester.pumpWidget(ProviderScope(
+      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+      child: MaterialApp.router(
+        theme: buildTheme(Brightness.light),
+        routerConfig: router,
+        builder: (context, child) => TypeToSearch(router: router, child: child!),
+      ),
+    ));
+    await tester.pumpAndSettle();
+    WordHints.hovered.value = (word: 'abandon', context: 'They abandon the car.', source: 'reading:1');
+    await tester.sendKeyEvent(LogicalKeyboardKey.f2);
+    await tester.pumpAndSettle();
+    expect(find.text('Từ mới'), findsOneWidget);
+    final fields = tester.widgetList<TextFormField>(find.byType(TextFormField)).toList();
+    expect(fields[0].controller!.text, 'abandon');
+    expect(fields[1].controller!.text, isNotEmpty);   // IPA from the dictionary
+    expect(fields[2].controller!.text, isNotEmpty);   // meaning from the dictionary
+    await tester.enterText(find.byType(TextFormField).at(2), 'bỏ rơi_từ bỏ');
+    await tester.tap(find.text('Lưu'));
+    await tester.pumpAndSettle();
+    expect(user.wordByKey('abandon')!.meaning, 'bỏ rơi_từ bỏ');
+    expect(user.wordByKey('abandon')!.context, 'They abandon the car.');
+
+    await tester.sendKeyEvent(LogicalKeyboardKey.f2);
+    await tester.pumpAndSettle();
+    expect(find.text('Sửa từ'), findsOneWidget);
+    expect(tester.widgetList<TextFormField>(find.byType(TextFormField)).last.controller!.text, 'bỏ rơi_từ bỏ');
+    WordHints.hovered.value = null;
+    expect(tester.takeException(), isNull);
   }, skip: !has);
 }

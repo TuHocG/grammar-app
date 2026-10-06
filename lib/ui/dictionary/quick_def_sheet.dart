@@ -9,13 +9,18 @@ import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
 import '../../app/theme.dart';
+import '../../data/search_key.dart';
 import '../../domain/lookup.dart';
+import '../vocab/edit_word_dialog.dart';
+import '../vocab/word_hint.dart';
 import '../widgets/shell.dart';
 import 'entry_view.dart';
 
 Future<void> showQuickDef(BuildContext context, WidgetRef ref, String word, {String? contextSentence, String? source, String? fallbackVi}) async {
   final result = ref.read(lookupProvider).lookup(word);
-  if (!result.found && fallbackVi != null && fallbackVi.trim().isNotEmpty) {
+  final saved = ref.read(userWordsProvider).savedKeys;
+  final mine = saved.contains(searchKey(result.query)) || saved.contains(result.key);
+  if (!result.found && !mine && fallbackVi != null && fallbackVi.trim().isNotEmpty) {
     // Not a dictionary word (a phonetic symbol, "[ˈbæksifɔ:m]"): show what the reading
     // itself says about it, as the old app does in the IPA lessons.
     await showModalBottomSheet<void>(
@@ -71,6 +76,25 @@ class QuickDefSheet extends ConsumerStatefulWidget {
 
 class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
   bool _full = false;
+  /// F2 edits what was tapped when that is saved or unknown to the dictionary, else the
+  /// dictionary's headword.
+  late final WordHint _hint = (
+    word: !widget.result.found || ref.read(userWordsProvider).savedKeys.contains(searchKey(widget.result.query)) ? widget.result.query : widget.result.headword,
+    context: widget.contextSentence,
+    source: widget.source,
+  );
+
+  @override
+  void initState() {
+    super.initState();
+    WordHints.lookedUp.value = _hint;
+  }
+
+  @override
+  void dispose() {
+    if (WordHints.lookedUp.value == _hint) WordHints.lookedUp.value = null;
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -78,15 +102,20 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
     final theme = Theme.of(context);
     final g = context.g;
     final words = ref.watch(userWordsProvider);
-    final saved = words.savedKeys.contains(r.key);
+    // The user's own entry for exactly what was tapped ("rowing", saved with F2) wins over
+    // the dictionary's base form ("row"); otherwise the entry of the looked-up word.
+    final tappedKey = searchKey(r.query);
+    final uKey = words.savedKeys.contains(tappedKey) ? tappedKey : r.key;
+    final saved = words.savedKeys.contains(uKey);
     final tts = ref.read(ttsProvider);
     final quick = r.quick;
-    final userWord = ref.read(userDbProvider).wordByKey(r.key);
+    final userWord = ref.read(userDbProvider).wordByKey(uKey);
+    final hasOwnMeaning = userWord?.meaning != null && userWord!.meaning!.isNotEmpty;
 
     void toggleSave() {
       final n = ref.read(userWordsProvider.notifier);
       if (saved) {
-        n.removeByKey(r.key);
+        n.removeByKey(uKey);
       } else {
         n.save(headword: r.headword, ipa: r.ipa, context: widget.contextSentence, source: widget.source);
       }
@@ -102,8 +131,8 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
         padding: const EdgeInsets.fromLTRB(24, 0, 24, 24),
         children: [
           Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 12, runSpacing: 4, children: [
-            Text(r.headword, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink)),
-            if (r.ipa != null && r.ipa!.isNotEmpty) Text('[${r.ipa}]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
+            Text(userWord?.headword ?? r.headword, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink)),
+            if ((userWord?.ipa ?? r.ipa) case final ipa? when ipa.isNotEmpty) Text('[$ipa]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
             if (quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
             RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => tts.speak(r.headword)),
           ]),
@@ -114,7 +143,7 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
           if (r.entryHeadword != null)
             Text('Mục đầy đủ: ${r.entryHeadword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
           const SizedBox(height: 10),
-          if (userWord?.meaning != null && userWord!.meaning!.isNotEmpty)
+          if (hasOwnMeaning)
             Padding(
               padding: const EdgeInsets.only(bottom: 8),
               child: Text(userWord.meaning!.replaceAll('_', '\n'), style: theme.textTheme.bodyLarge?.copyWith(color: g.savedWord)),
@@ -126,7 +155,7 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
             ])
           else if (r.entries.isNotEmpty && !_full)
             Text(r.entries.first.preview, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))
-          else if (!r.found)
+          else if (!r.found && !hasOwnMeaning)
             Text('Không có trong từ điển.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
           if (r.family != null && !_full)
             Padding(
@@ -153,6 +182,11 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
             else
               FilledButton.icon(onPressed: toggleSave, icon: const Icon(Icons.bookmark_outline, size: 16), label: const Text('Lưu từ')),
             if (!_full && r.entries.isNotEmpty) OutlinedButton(onPressed: () => setState(() => _full = true), child: const Text('Mục đầy đủ')),
+            OutlinedButton.icon(
+              onPressed: () => openWordEditor(context, ref, userWord?.headword ?? r.headword, contextSentence: widget.contextSentence, source: widget.source),
+              icon: const Icon(Icons.edit_note, size: 18),
+              label: Text(saved ? 'Sửa từ (F2)' : 'Thêm với nghĩa riêng (F2)'),
+            ),
             if (r.found) OutlinedButton(onPressed: () => context.push('/dict/word/${Uri.encodeComponent(r.headword)}'), child: const Text('Mở trang từ điển')),
           ]),
           if (_full) ...[
