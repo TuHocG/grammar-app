@@ -20,6 +20,7 @@ import '../../data/content_db.dart';
 import '../../data/models.dart';
 import '../grammar/grammar_page.dart';
 import '../widgets/mark_text.dart';
+import '../dictionary/quick_def_sheet.dart';
 import '../widgets/scramble_board.dart';
 import '../widgets/shell.dart';
 import '../widgets/word_tap_text.dart';
@@ -413,11 +414,40 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     return Text.rich(TextSpan(children: spans), style: style);
   }
 
+  /// Sentence of a choice exercise; each {n} is the blank's word, underlined and tappable.
+  Widget _choiceStem(Exercise e) {
+    final style = ReadingStyles.prompt(context);
+    final g = context.g;
+    if (!e.text.contains(RegExp(r'\{\d+\}'))) return WordTapText(e.text, style: style, source: 'exercise:${e.id}');
+    final parts = e.text.split(RegExp(r'\{\d+\}'));
+    final idxs = RegExp(r'\{(\d+)\}').allMatches(e.text).map((m) => int.parse(m.group(1)!)).toList();
+    final spans = <InlineSpan>[];
+    for (var i = 0; i < parts.length; i++) {
+      if (parts[i].isNotEmpty) {
+        spans.add(WidgetSpan(alignment: PlaceholderAlignment.baseline, baseline: TextBaseline.alphabetic, child: WordTapText(parts[i], style: style, source: 'exercise:${e.id}')));
+      }
+      if (i < idxs.length) {
+        final word = idxs[i] < e.blanks.length ? e.blanks[idxs[i]].answer : '';
+        spans.add(WidgetSpan(
+          alignment: PlaceholderAlignment.baseline,
+          baseline: TextBaseline.alphabetic,
+          child: InkWell(
+            onTap: word.isEmpty ? null : () => showQuickDef(context, ref, word, contextSentence: e.text.replaceAll(RegExp(r'\{\d+\}'), word), source: 'exercise:${e.id}'),
+            child: Text(word.isEmpty ? '______' : ' $word ', style: style.copyWith(color: g.iris, decoration: TextDecoration.underline, decorationColor: g.iris, decorationThickness: 1.5)),
+          ),
+        ));
+      }
+    }
+    return Text.rich(TextSpan(children: spans), style: style);
+  }
+
   Widget _choiceBody(Exercise e, ThemeData theme) {
     final wide = MediaQuery.sizeOf(context).width >= 700 && e.choices.every((c) => c.length < 40);
     final tiles = [for (var i = 0; i < e.choices.length; i++) _option(e, i, e.choices[i], theme)];
     return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-      WordTapText(e.text, style: ReadingStyles.prompt(context), source: 'exercise:${e.id}'),
+      // Stems with a {n} slot (B+C VOCABULARY, tests): the slot holds the word the options
+      // replace — shown underlined, as the old app does ("A few _specks_ of paint …").
+      _choiceStem(e),
       const SizedBox(height: 20),
       if (wide)
         LayoutBuilder(builder: (context, c) {
