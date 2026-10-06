@@ -2,8 +2,11 @@
 /// the learner picks one of four Vietnamese sentences (shuffled); a point only when the
 /// first pick is right; the English can be looked up after answering. Same layout as the
 /// exercise runner: progress bar, question card, button row, map of the unit's sentences.
+/// The sentence is played from the unit's real recording (`sound/<unit>.*`, shared with
+/// the "Các Bài Âm Thanh Thực" reading; docs/08 L2), TTS only when a unit has none.
 library;
 
+import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -14,6 +17,7 @@ import 'package:go_router/go_router.dart';
 import '../../app/providers.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
+import '../../domain/sentence_player.dart';
 import '../widgets/word_tap_text.dart';
 import '../../app/theme.dart';
 import '../widgets/shell.dart';
@@ -73,13 +77,28 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
   int _pos = 0;
   bool _finished = false;
   final _rnd = Random();
+  /// Player over the unit's recording (null = no recording on disk → TTS).
+  SentencePlayer? _player;
+  Reading? _recording;
 
   @override
   void initState() {
     super.initState();
-    _items = ref.read(contentDbProvider).listeningItems(widget.unit);
+    final db = ref.read(contentDbProvider);
+    _items = db.listeningItems(widget.unit);
     _res = List.generate(_items.length, (_) => _Result());
+    final r = db.listeningReading(widget.unit);
+    if (r != null && r.hasRealAudio && File(db.mediaPath(r.audio!)).existsSync()) {
+      _recording = r;
+      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: db.mediaPath(r.audio!));
+    }
     if (_items.isNotEmpty) _go(0);
+  }
+
+  @override
+  void dispose() {
+    _player?.dispose();
+    super.dispose();
   }
 
   _Result get _r => _res[_pos];
@@ -96,7 +115,18 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     WidgetsBinding.instance.addPostFrameCallback((_) => _speak());
   }
 
-  Future<void> _speak() => ref.read(ttsProvider).speak(_items[_pos].en);
+  /// Sentence n of the unit = sentence n of the recording; TTS when it is out of range.
+  Future<void> _speak() async {
+    final it = _items[_pos];
+    final p = _player;
+    final idx = it.n - 1;
+    if (p != null && idx >= 0 && idx < _recording!.sentences.length) {
+      await p.stop();
+      await p.speakOnce(idx);
+    } else {
+      await ref.read(ttsProvider).speak(it.en);
+    }
+  }
 
   void _pick(int optionIdx) {
     if (_r.graded) return;
@@ -187,6 +217,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
           const SizedBox(height: 8),
           Row(children: [
             FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
+            if (_player != null) ...[const SizedBox(width: 8), SoftBadge('Giọng thật', color: g.slate, background: g.canvas)],
             const SizedBox(width: 12),
             Expanded(
               child: _r.graded

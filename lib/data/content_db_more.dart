@@ -62,6 +62,14 @@ extension ContentDbMore on ContentDb {
     return pool.isEmpty ? null : pool[n % pool.length];
   }
 
+  /// Luyện Nghe unit u plays `sound/u.*`, i.e. the recording of the "Các Bài Âm Thanh
+  /// Thực" reading with that file (READING.bas:TinhTenBaiSoundThuc, Butcu = 4); item n is
+  /// sentence n of that reading (AmthanhThuc.bas:SoundThuc1Cau). Null when no recording.
+  Reading? listeningReading(int unit) {
+    final rows = raw.select("SELECT id FROM reading WHERE audio LIKE ? ORDER BY id LIMIT 1", ['audio/$unit.%']);
+    return rows.isEmpty ? null : reading(rows.first['id'] as int);
+  }
+
   List<int> listeningUnits() => [for (final r in raw.select('SELECT DISTINCT unit FROM listening_item ORDER BY unit')) r['unit'] as int];
 
   int listeningCount(int unit) => raw.select('SELECT COUNT(*) AS n FROM listening_item WHERE unit = ?', [unit]).first['n'] as int;

@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:grammar/data/content_db.dart';
+import 'package:grammar/data/content_db_more.dart';
 import 'package:grammar/data/search_key.dart';
 import 'package:grammar/domain/lookup.dart';
 
@@ -81,6 +82,16 @@ void main() {
     sw.stop();
     expect(hits.any((h) => h.key == 'abandon'), isTrue);
     expect(sw.elapsedMilliseconds, lessThan(200));
+  }, skip: !has);
+
+  test('listening unit reuses the recording of the matching reading', () {
+    final r = db.listeningReading(1);
+    expect(r, isNotNull);
+    expect(r!.audio, 'audio/1.mp3');
+    expect(r.hasRealAudio, isTrue);
+    final first = db.listeningItems(1).firstWhere((i) => i.n == 1);
+    expect(r.sentences[0].en, first.en);
+    expect(db.listeningReading(2)!.audio, 'audio/2.wav');
   }, skip: !has);
 
   test('counts match the ETL manifest', () {
