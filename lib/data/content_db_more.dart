@@ -50,6 +50,18 @@ extension ContentDbMore on ContentDb {
     return rows.isEmpty ? const [] : (jsonDecode(rows.first['value'] as String) as List).cast<String>();
   }
 
+  /// Illustrations of the Luyện Nói pages (Pic2/CANBAN1..24, random in the old app).
+  List<String> dialogPageImages() {
+    final rows = raw.select('SELECT value FROM meta WHERE key = ?', ['dialog_page_images']);
+    return rows.isEmpty ? const [] : (jsonDecode(rows.first['value'] as String) as List).cast<String>();
+  }
+
+  /// One of [dialogPageImages], fixed per number so a topic/dialog keeps its picture.
+  String? dialogPageImage(int n) {
+    final pool = dialogPageImages();
+    return pool.isEmpty ? null : pool[n % pool.length];
+  }
+
   List<int> listeningUnits() => [for (final r in raw.select('SELECT DISTINCT unit FROM listening_item ORDER BY unit')) r['unit'] as int];
 
   int listeningCount(int unit) => raw.select('SELECT COUNT(*) AS n FROM listening_item WHERE unit = ?', [unit]).first['n'] as int;

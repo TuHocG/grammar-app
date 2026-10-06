@@ -302,7 +302,9 @@ class SetCard extends StatelessWidget {
   final String? badge;
   final double? progress;
   final VoidCallback? onTap;
-  const SetCard({super.key, this.icon, required this.title, this.subtitle, this.badge, this.progress, this.onTap});
+  /// Shown in place of the icon tile (e.g. a 56 px thumbnail).
+  final Widget? leading;
+  const SetCard({super.key, this.icon, required this.title, this.subtitle, this.badge, this.progress, this.onTap, this.leading});
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
@@ -312,7 +314,7 @@ class SetCard extends StatelessWidget {
       onTap: onTap,
       padding: const EdgeInsets.all(16),
       child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        if (icon != null) ...[IconTile(icon!), const SizedBox(width: 12)],
+        if (leading != null) ...[leading!, const SizedBox(width: 12)] else if (icon != null) ...[IconTile(icon!), const SizedBox(width: 12)],
         Expanded(
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, mainAxisSize: MainAxisSize.min, children: [
             Text(title, style: theme.textTheme.titleMedium?.copyWith(color: enabled ? g.ink : g.fog), maxLines: 2, overflow: TextOverflow.ellipsis),

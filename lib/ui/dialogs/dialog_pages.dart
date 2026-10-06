@@ -18,6 +18,21 @@ import '../readings/dialog_practice_page.dart';
 import '../widgets/word_tap_text.dart';
 import '../widgets/shell.dart';
 
+/// Thumbnail from the CANBAN pool (the old app shows one at random on each page).
+Widget _thumb(ContentDb db, int n, {double width = 56, double height = 56}) {
+  final img = db.dialogPageImage(n);
+  return ClipRRect(
+    borderRadius: BorderRadius.circular(8),
+    child: SizedBox(
+      width: width,
+      height: height,
+      child: img == null
+          ? IconTile(Icons.record_voice_over_outlined, size: height)
+          : Image.file(db.mediaFile(img), fit: BoxFit.cover, errorBuilder: (_, _, _) => IconTile(Icons.record_voice_over_outlined, size: height)),
+    ),
+  );
+}
+
 class DialogTopicsPage extends ConsumerWidget {
   const DialogTopicsPage({super.key});
   @override
@@ -41,7 +56,7 @@ class DialogTopicsPage extends ConsumerWidget {
             children: [
               for (final t in topics)
                 SetCard(
-                  icon: Icons.record_voice_over_outlined,
+                  leading: _thumb(db, t.sid),
                   title: t.title,
                   subtitle: '${db.dialogsInTopic(t.sid).length} bài',
                   badge: picks.any((k) => _topicOf(db, k) == t.sid) ? 'đã chọn câu' : null,
@@ -97,6 +112,7 @@ class _DialogListPageState extends ConsumerState<DialogListPage> {
           final d = dialogs[i];
           final n = picks.where((k) => k.startsWith('${d.id}:')).length;
           return ListTile(
+            leading: _thumb(db, d.id, width: 64, height: 48),
             title: Text(d.title),
             subtitle: Text(d.pairs.isEmpty ? '' : d.pairs.first.a, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodySmall),
             trailing: n > 0 ? Text('$n ✓', style: TextStyle(color: Marks.savedWord)) : null,
@@ -137,24 +153,35 @@ class _DialogPageState extends ConsumerState<DialogPage> {
     Widget line(String en, String vi, int pairIdx, String who) {
       final key = '${d.id}:$pairIdx';
       final picked = picks.contains(key);
-      final open = _showVi || _openVi.contains(pairIdx * 2 + (who == 'A' ? 0 : 1));
+      final slot = pairIdx * 2 + (who == 'A' ? 0 : 1);
+      final open = _showVi || _openVi.contains(slot);
+      // One tap on the line (outside a word): read it and show its translation, which stays.
+      void speakAndShow() {
+        setState(() => _openVi.add(slot));
+        tts.speak(en);
+      }
       return Padding(
         padding: const EdgeInsets.symmetric(vertical: 3),
         child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
           SizedBox(width: 24, child: Text(who, style: theme.textTheme.labelLarge?.copyWith(color: who == 'A' ? theme.colorScheme.primary : theme.colorScheme.tertiary))),
           Expanded(
             child: InkWell(
-              onLongPress: () {
-                setState(() => _openVi.contains(pairIdx * 2 + (who == 'A' ? 0 : 1)) ? _openVi.remove(pairIdx * 2 + (who == 'A' ? 0 : 1)) : _openVi.add(pairIdx * 2 + (who == 'A' ? 0 : 1)));
-                tts.speak(en);
-              },
-              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                WordTapText(en, style: theme.textTheme.bodyLarge, context: en, source: src),
-                if (open) Text(vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-              ]),
+              onTap: speakAndShow,
+              onLongPress: speakAndShow,
+              borderRadius: BorderRadius.circular(6),
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 4, vertical: 2),
+                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                  Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                    Expanded(child: WordTapText(en, style: theme.textTheme.bodyLarge, context: en, source: src)),
+                    const SizedBox(width: 8),
+                    Icon(Icons.volume_up_outlined, size: 16, color: open ? theme.colorScheme.primary : theme.colorScheme.outlineVariant),
+                  ]),
+                  if (open) Text(vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
+                ]),
+              ),
             ),
           ),
-          IconButton(visualDensity: VisualDensity.compact, tooltip: 'Đọc', icon: const Icon(Icons.volume_up, size: 18), onPressed: () => tts.speak(en)),
           if (who == 'A')
             IconButton(
               visualDensity: VisualDensity.compact,
@@ -179,6 +206,18 @@ class _DialogPageState extends ConsumerState<DialogPage> {
       body: ListView(
         padding: const EdgeInsets.fromLTRB(16, 12, 16, 24),
         children: [
+          if (db.dialogPageImage(d.id) case final img?) ...[
+            Center(
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(Tokens.radiusCard),
+                child: ConstrainedBox(
+                  constraints: const BoxConstraints(maxHeight: 220),
+                  child: Image.file(db.mediaFile(img), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
+                ),
+              ),
+            ),
+            const SizedBox(height: 12),
+          ],
           for (var p = 0; p < d.pairs.length; p++) ...[
             Card(
               child: Padding(
@@ -188,7 +227,7 @@ class _DialogPageState extends ConsumerState<DialogPage> {
             ),
           ],
           const SizedBox(height: 8),
-          Text('Chạm từ để tra; nhấn giữ câu để nghe và xem dịch; đánh dấu câu để ôn tập.', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
+          Text('Chạm từ để tra; chạm vào dòng (ngoài chữ) để nghe và xem dịch; đánh dấu câu để ôn tập.', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
         ],
       ),
       bottomNavigationBar: SafeArea(
