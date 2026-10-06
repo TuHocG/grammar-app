@@ -37,23 +37,45 @@ class ExerciseGroupsPage extends ConsumerWidget {
       appBar: GrammarAppBar(
         crumbs: [const Crumb('Bài Tập', '/'), Crumb(menu.name)],
         actions: [
-          if (context.isWide)
-            PopupMenuButton<int>(
-              tooltip: 'Bộ đề khác',
-              onSelected: (i) => context.pushReplacement('/exercises/menu/$i'),
-              itemBuilder: (_) => [for (final m in menus.where((m) => m.idx != 8)) PopupMenuItem(value: m.idx, child: Text(m.name))],
-              child: Container(
-                padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-                decoration: BoxDecoration(border: Border.all(color: g.border), borderRadius: BorderRadius.circular(100)),
-                child: Row(mainAxisSize: MainAxisSize.min, children: [Icon(Icons.swap_horiz, size: 18, color: g.slate), const SizedBox(width: 8), Text('Bộ đề khác', style: theme.textTheme.labelLarge)]),
-              ),
-            ),
-          const SizedBox(width: 8),
           RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/8')),
         ],
       ),
       body: RailListView(
         children: [
+          if (context.isWide)
+            Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+              // Left nav with the nine sets, like the readings and dialogs pages.
+              SizedBox(
+                width: 280,
+                child: Surface(
+                  padding: const EdgeInsets.all(8),
+                  child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+                    Padding(
+                      padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
+                      child: Text('Bài Tập', style: theme.textTheme.titleSmall),
+                    ),
+                    for (final m in menus)
+                      _MenuRow(
+                        title: m.name,
+                        count: m.count,
+                        selected: m.idx == menuIdx,
+                        onTap: m.idx == menuIdx ? null : () => context.pushReplacement(m.idx == 8 ? '/exercises/wordforms' : '/exercises/menu/${m.idx}'),
+                      ),
+                  ]),
+                ),
+              ),
+              const SizedBox(width: 24),
+              Expanded(child: _groups(context, menu, n, progress, theme, g)),
+            ])
+          else
+            _groups(context, menu, n, progress, theme, g),
+        ],
+      ),
+    );
+  }
+
+  Widget _groups(BuildContext context, ExerciseMenu menu, int n, Map<String, String> progress, ThemeData theme, GrammarColors g) {
+    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
           Text(menu.name, style: theme.textTheme.headlineLarge),
           Text('$n Bài Tập, mỗi bài tối đa $groupSize câu · ${menu.count} câu · điểm được lưu theo từng bài', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
           const SizedBox(height: 24),
@@ -85,7 +107,33 @@ class ExerciseGroupsPage extends ConsumerWidget {
                 }),
             ],
           ),
-        ],
+        ]);
+  }
+}
+
+class _MenuRow extends StatelessWidget {
+  final String title;
+  final int count;
+  final bool selected;
+  final VoidCallback? onTap;
+  const _MenuRow({required this.title, required this.count, required this.selected, this.onTap});
+  @override
+  Widget build(BuildContext context) {
+    final g = context.g;
+    final theme = Theme.of(context);
+    return Material(
+      color: selected ? g.lilac : Colors.transparent,
+      borderRadius: BorderRadius.circular(4),
+      child: InkWell(
+        onTap: onTap,
+        borderRadius: BorderRadius.circular(4),
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+          child: Row(children: [
+            Expanded(child: Text(title, maxLines: 2, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodyMedium?.copyWith(color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400))),
+            Text('$count', style: theme.textTheme.bodySmall?.copyWith(color: selected ? g.iris : g.fog)),
+          ]),
+        ),
       ),
     );
   }
