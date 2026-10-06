@@ -1,5 +1,6 @@
-/// Desktop convenience from the old app (docs/08 G2): typing a letter anywhere that is not
-/// a text field opens the dictionary with that letter.
+/// Desktop conveniences from the old app: typing a letter anywhere that is not a text
+/// field opens the dictionary with that letter (docs/08 G2); Esc closes whatever is on
+/// top — a sheet, a dialog, or the page itself (back), like the old app's Esc.
 library;
 
 import 'package:flutter/material.dart';
@@ -17,6 +18,11 @@ class TypeToSearch extends StatelessWidget {
       canRequestFocus: false,
       onKeyEvent: (node, e) {
         if (e is! KeyDownEvent) return KeyEventResult.ignored;
+        if (e.logicalKey == LogicalKeyboardKey.escape) {
+          if (!router.canPop()) return KeyEventResult.ignored;
+          router.pop();
+          return KeyEventResult.handled;
+        }
         final ch = e.character;
         if (ch == null || ch.length != 1 || !RegExp(r'[A-Za-z]').hasMatch(ch)) return KeyEventResult.ignored;
         if (HardwareKeyboard.instance.isControlPressed || HardwareKeyboard.instance.isAltPressed || HardwareKeyboard.instance.isMetaPressed) {
