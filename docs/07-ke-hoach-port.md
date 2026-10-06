@@ -1,4 +1,6 @@
-# Kế hoạch port Grammar 3.1 sang ứng dụng cross-platform
+# Kế hoạch port Grammar 3.1 sang ứng dụng cross-platform (Grammar 4.0)
+
+> Từ 2026-10-07 mã app nằm ở gốc repo `grammar4` (trước đó là thư mục `app/` của repo `grammar`, nay là `grammar-legacy`); `tools/etl`, `docs/02 03 05 06`, `docs/source` và `legacy/`, `dist/` nhắc trong tài liệu này thuộc repo `grammar-legacy`. Dữ liệu cho app tải riêng vào `data/`.
 
 Bản 1, 2026-10-05. Tài liệu điều phối: quyết định, phạm vi, kiến trúc, lộ trình và cách bảo đảm không bỏ sót chức năng. Chi tiết từng chức năng nằm ở `docs/02` (bảng tính năng), `docs/06` (hướng dẫn gốc), `docs/source/*` (phân tích mã nguồn VB6), `docs/08` (ma trận truy vết, sinh sau khi phân tích mã nguồn xong).
 
