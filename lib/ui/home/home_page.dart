@@ -86,7 +86,7 @@ class HomePage extends ConsumerWidget {
     return Scaffold(
       appBar: GrammarAppBar(
         title: Row(children: [
-          Text('Grammar', style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w700)),
+          Text('Grammar 4.0', style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w700)),
           if (context.isWide) ...[
             const SizedBox(width: 32),
             Expanded(
@@ -312,7 +312,7 @@ class HomePage extends ConsumerWidget {
           const SizedBox(height: 24),
           Center(
             child: Text(
-              'Nội dung: Grammar 3.1 của TuHocTiengAnh.net, dùng với sự cho phép của tác giả.',
+              'Kế thừa Grammar 3.1 của TuHocTiengAnh.net theo uỷ thác của tác giả. Miễn phí.',
               style: theme.textTheme.bodySmall?.copyWith(color: g.fog),
               textAlign: TextAlign.center,
             ),

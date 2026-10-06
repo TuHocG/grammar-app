@@ -18,6 +18,12 @@ import 'ui/widgets/type_to_search.dart';
 /// Development default; override with `--dart-define=GRAMMAR_DATA_DIR=...`.
 const _envDataDir = String.fromEnvironment('GRAMMAR_DATA_DIR');
 
+/// Development fallback: a `data/` folder in the working directory (repo root under `flutter run`).
+String? _localDataDir() {
+  final d = p.join(Directory.current.path, 'data');
+  return File(p.join(d, 'grammar.db')).existsSync() ? d : null;
+}
+
 /// Key of the encrypted content database in release builds (`--dart-define=GRAMMAR_DB_KEY=...`,
 /// build with `--obfuscate`). Empty in development, where the database is plain.
 const _dbKey = String.fromEnvironment('GRAMMAR_DB_KEY');
@@ -33,7 +39,7 @@ Future<void> main() async {
 }
 
 Future<void> _start({String? error}) async {
-  final dir = _userDb.setting('data_dir') ?? (_envDataDir.isNotEmpty ? _envDataDir : null);
+  final dir = _userDb.setting('data_dir') ?? (_envDataDir.isNotEmpty ? _envDataDir : null) ?? _localDataDir();
   if (dir == null || !File(p.join(dir, 'grammar.db')).existsSync()) {
     runApp(MaterialApp(
       theme: buildTheme(Brightness.light),
@@ -81,7 +87,7 @@ class GrammarApp extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final s = ref.watch(settingsProvider);
     return MaterialApp.router(
-      title: 'Grammar',
+      title: 'Grammar 4.0',
       theme: buildTheme(Brightness.light),
       darkTheme: buildTheme(Brightness.dark),
       themeMode: s.themeMode,

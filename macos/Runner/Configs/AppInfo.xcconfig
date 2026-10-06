@@ -5,7 +5,7 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = grammar
+PRODUCT_NAME = Grammar 4.0
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = dev.hieu.grammar

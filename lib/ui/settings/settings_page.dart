@@ -180,8 +180,8 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           ),
           const _Header('Giới thiệu'),
           const ListTile(
-            title: Text('Grammar'),
-            subtitle: Text('Nội dung: Grammar 3.1 của TuHocTiengAnh.net, dùng với sự cho phép của tác giả. Miễn phí; không được bán hay phân phối lại dữ liệu.'),
+            title: Text('Grammar 4.0'),
+            subtitle: Text('Kế thừa và tiếp tục phát triển Grammar 3.1 của TuHocTiengAnh.net theo uỷ thác của tác giả. Miễn phí; không được bán hay phân phối lại dữ liệu.'),
           ),
             ]),
           ),
