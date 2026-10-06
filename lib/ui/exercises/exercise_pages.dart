@@ -158,7 +158,7 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
   }
 
   void _cycle(WordformRoot r) {
-    // 0 → 4 (bright red, to study) → 3 (dark red, reserve) → 0
+    // 0 → 4 (blue, to study) → 3 (red, reserve) → 0  (the old app: bright red / dark red)
     final cur = _marks[r.position] ?? 0;
     final next = cur == 0 ? 4 : (cur == 4 ? 3 : 0);
     ref.read(userDbProvider).setWordformMark(r.position, next);
@@ -217,7 +217,7 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
         Padding(
           padding: const EdgeInsets.fromLTRB(16, 4, 16, 4),
           child: Text(
-            'Chạm từ gốc: lần 1 = học (đỏ sáng), lần 2 = dự trữ (đỏ sẫm), lần 3 = bỏ. Không chọn gì thì làm các từ thông dụng.',
+            'Chạm từ gốc: lần 1 = học (xanh), lần 2 = dự trữ (đỏ), lần 3 = bỏ. Không chọn gì thì làm các từ thông dụng.',
             style: theme.textTheme.bodyMedium?.copyWith(color: context.g.slate),
           ),
         ),
@@ -230,9 +230,9 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
               final r = shown[i];
               final level = _marks[r.position] ?? 0;
               final g = context.g;
-              final color = level == 4 ? g.savedWord : (level == 3 ? const Color(0xFF7F1D1D) : null);
+              final color = level == 4 ? g.iris : (level == 3 ? g.savedWord : null);
               return Material(
-                color: color != null ? g.savedTint : g.card,
+                color: level == 4 ? g.lilac : (level == 3 ? g.savedTint : g.card),
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8), side: BorderSide(color: color ?? g.border)),
                 child: InkWell(
                   onTap: () => _cycle(r),

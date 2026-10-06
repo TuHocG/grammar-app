@@ -7,6 +7,8 @@
 /// at the end a result card. Wide screens show a question map on the right.
 library;
 
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -343,7 +345,11 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
       if (i < idxs.length && idxs[i] < e.blanks.length) {
         final b = idxs[i];
         final ok = _r.graded && b < _r.blankOk.length ? _r.blankOk[b] : null;
-        final width = (e.blanks[b].n * 10.0 + 40).clamp(72.0, 280.0);
+        // Wide enough for the longest accepted answer (plus one letter of slack), never
+        // narrower than 7 letters; the underscore count `n` says nothing about length.
+        final fs = style.fontSize ?? 20;
+        final longest = e.blanks[b].accepted.fold(0, (m, a) => max(m, a.length));
+        final width = ((max(7, longest + 1)) * fs * 0.6 + 16 + 24).clamp(120.0, 360.0);
         spans.add(WidgetSpan(
           alignment: PlaceholderAlignment.baseline,
           baseline: TextBaseline.alphabetic,
