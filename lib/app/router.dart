@@ -10,6 +10,7 @@ import '../ui/dictionary/dictionary_page.dart';
 import '../ui/dictionary/entry_page.dart';
 import '../ui/help/help_page.dart';
 import '../data/reading_loader.dart';
+import '../ui/readings/ipa_lesson_page.dart';
 import '../ui/analysis/analysis_page.dart';
 import '../ui/dialogs/dialog_pages.dart';
 import '../ui/pictures/picture_pages.dart';
@@ -36,6 +37,7 @@ GoRouter buildRouter() => GoRouter(
       initialLocation: _initialRoute,
       routes: [
         GoRoute(path: '/', builder: (_, _) => const HomePage()),
+        GoRoute(path: '/ipa', builder: (_, _) => const IpaLessonPage()),
         GoRoute(
           path: '/dict',
           builder: (_, s) => DictionaryPage(initialQuery: s.uri.queryParameters['q']),
@@ -51,7 +53,12 @@ GoRouter buildRouter() => GoRouter(
             GoRoute(path: 'section/:sid', builder: (_, s) => ReadingListPage(sid: int.parse(s.pathParameters['sid']!))),
             GoRoute(
               path: ':id',
-              builder: (_, s) => ReadingPage(id: int.parse(s.pathParameters['id']!)),
+              builder: (context, s) {
+                final id = int.parse(s.pathParameters['id']!);
+                // Section 0 "Phiên Âm Quốc Tế" is the home-menu lesson at /ipa; old links land there too.
+                final r = loadReadingFrom(ProviderScope.containerOf(context), id);
+                return r != null && r.sid == 0 ? IpaLessonPage(id: id) : ReadingPage(id: id);
+              },
               routes: [
                 GoRoute(path: 'listen', builder: (_, s) => ListenPage(id: int.parse(s.pathParameters['id']!))),
                 GoRoute(path: 'scramble', builder: (_, s) => ScramblePage(id: int.parse(s.pathParameters['id']!))),

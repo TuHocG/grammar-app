@@ -25,6 +25,7 @@ class _Item {
 
 const _learn = [
   _Item('Từ điển', 'Gõ để tìm · phiên âm · họ từ', Icons.search, '/dict'),
+  _Item('Phiên Âm Quốc Tế', 'Ký hiệu IPA và cách đọc tiếng Việt', Icons.spellcheck, '/ipa'),
   _Item('Từ Vựng Của Bạn', 'Từ bạn lưu khi đọc, tô đỏ trong mọi bài', Icons.bookmark_outline, '/words'),
   _Item('Quay Từ', 'Thẻ ghi nhớ từ các từ đã lưu', Icons.style_outlined, '/spin'),
   _Item('Phân Tích Câu', 'Từ loại, chức năng, vì sao phải có từ này', Icons.manage_search, '/analysis'),
@@ -33,7 +34,6 @@ const _learn = [
   _Item('Luyện Nói', 'Đàm thoại A→B · Chọn câu · Ôn tập', Icons.record_voice_over_outlined, '/dialogs'),
   _Item('Video', 'Phụ đề Anh–Việt, lặp câu, tra từ', Icons.movie_outlined, '/video'),
   _Item('Bài Nhập Của Bạn', 'Tự nhập bài, dùng đủ tính năng đọc', Icons.edit_note_outlined, '/my-readings'),
-  _Item('Word Forms', 'Họ từ · bài điền dạng đúng', Icons.text_fields, '/exercises/wordforms'),
   _Item('Cài Đặt', 'Giọng, tốc độ, cỡ chữ, sao lưu', Icons.settings_outlined, '/settings'),
   _Item('Hướng Dẫn Cách Học', 'Cách dùng từng mục', Icons.help_outline, '/help'),
 ];
@@ -67,7 +67,8 @@ class HomePage extends ConsumerWidget {
 
     // "Continue" cards.
     final lastReadingId = int.tryParse(userDb.progress('reading', 'last_reading') ?? '');
-    final lastReading = lastReadingId == null ? null : loadReading(ref, lastReadingId);
+    final lastLoaded = lastReadingId == null ? null : loadReading(ref, lastReadingId);
+    final lastReading = lastLoaded == null || lastLoaded.sid == 0 ? null : lastLoaded;   // the IPA lesson has its own menu item
     final lastEx = userDb.latestProgress('exercise', prefix: 'menu');
     _ExerciseResume? resume;
     if (lastEx != null) {

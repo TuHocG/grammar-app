@@ -368,7 +368,7 @@ class _ParagraphState extends ConsumerState<_Paragraph> {
           child: _SentenceNumber(number: s.idx + 1, highlighted: hl, onTap: () => widget.onTapNumber(s)),
         ),
       ));
-      spans.addAll(wordSpans(context, ref, s.en, base: style, recognizers: _recs, contextSentence: s.en, source: widget.source));
+      spans.addAll(wordSpans(context, ref, s.en, base: style, recognizers: _recs, contextSentence: s.en, source: widget.source, fallbackVi: s.vi.isEmpty ? null : s.vi));
       if (i < widget.sentences.length - 1) spans.add(TextSpan(text: ' ', style: style));
     }
     return Text.rich(TextSpan(children: spans));

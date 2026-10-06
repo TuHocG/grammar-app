@@ -13,8 +13,20 @@ import '../../domain/lookup.dart';
 import '../widgets/shell.dart';
 import 'entry_view.dart';
 
-Future<void> showQuickDef(BuildContext context, WidgetRef ref, String word, {String? contextSentence, String? source}) async {
+Future<void> showQuickDef(BuildContext context, WidgetRef ref, String word, {String? contextSentence, String? source, String? fallbackVi}) async {
   final result = ref.read(lookupProvider).lookup(word);
+  if (!result.found && fallbackVi != null && fallbackVi.trim().isNotEmpty) {
+    // Not a dictionary word (a phonetic symbol, "[ˈbæksifɔ:m]"): show what the reading
+    // itself says about it, as the old app does in the IPA lessons.
+    await showModalBottomSheet<void>(
+      context: context,
+      showDragHandle: true,
+      useSafeArea: true,
+      constraints: const BoxConstraints(maxWidth: 720),
+      builder: (_) => _FallbackSheet(token: word.trim(), vi: fallbackVi.trim()),
+    );
+    return;
+  }
   // Read the word aloud as the old app does on left click.
   ref.read(ttsProvider).speak(result.found ? result.headword : word);
   await showModalBottomSheet<void>(
@@ -25,6 +37,26 @@ Future<void> showQuickDef(BuildContext context, WidgetRef ref, String word, {Str
     constraints: const BoxConstraints(maxWidth: 720),
     builder: (_) => QuickDefSheet(result: result, contextSentence: contextSentence, source: source),
   );
+}
+
+/// Token + the sentence's Vietnamese line, for tokens the dictionary does not know.
+class _FallbackSheet extends StatelessWidget {
+  final String token;
+  final String vi;
+  const _FallbackSheet({required this.token, required this.vi});
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final g = context.g;
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(24, 0, 24, 28),
+      child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Text(token, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: g.ink)),
+        const SizedBox(height: 10),
+        Text(vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 18, color: g.indigo)),
+      ]),
+    );
+  }
 }
 
 class QuickDefSheet extends ConsumerStatefulWidget {

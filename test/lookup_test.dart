@@ -26,7 +26,7 @@ void main() {
     expect(r.found, isTrue);
     expect(r.quick?.vi, 'quả bóng');
     expect(r.quick?.respell, isNotEmpty);
-    expect(r.entries.first.ipa, 'bɒ:l');
+    expect(r.entries.first.ipa, 'bɔ:l');
     expect(r.entries.first.segs.first.kind, 'pos');
   }, skip: !has);
 

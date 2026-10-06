@@ -12,8 +12,10 @@ import '../../app/theme.dart';
 import '../../data/search_key.dart';
 import '../dictionary/quick_def_sheet.dart';
 
-final _tokenRe = RegExp(r"[A-Za-zÀ-ɏḀ-ỿ0-9][A-Za-zÀ-ɏḀ-ỿ0-9'’-]*|\s+|[^\sA-Za-zÀ-ɏḀ-ỿ0-9]+");
-final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿ]');
+/// Tokens: a bracketed phonetic group "[ˈbæksifɔ:m]" as one unit, then words (Latin,
+/// Vietnamese, IPA letters U+0250–02AF and θ), whitespace, punctuation runs.
+final _tokenRe = RegExp(r"\[[^\[\]\n]{1,48}\]|[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9][A-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9'’-]*|\s+|[^\sA-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9]+");
+final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ]');
 
 /// Builds the spans of [text]: one tappable span per word, red when saved, underlined when
 /// in a saved word's family. Recognizers are appended to [recognizers]; the caller owns them.
@@ -25,6 +27,9 @@ List<InlineSpan> wordSpans(
   required List<GestureRecognizer> recognizers,
   String? contextSentence,
   String? source,
+  /// Shown when the dictionary has nothing for the tapped token: the sentence's own
+  /// Vietnamese line (the "Phiên Âm Quốc Tế" readings keep the reading there: "[béc sì phòm]").
+  String? fallbackVi,
 }) {
   final saved = ref.watch(userWordsProvider).savedKeys;
   final family = ref.watch(familyKeysProvider);
@@ -43,7 +48,7 @@ List<InlineSpan> wordSpans(
     } else if (family.contains(key)) {
       style = style.copyWith(decoration: TextDecoration.underline, decorationColor: g.fog, decorationThickness: 1);
     }
-    final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: contextSentence ?? text, source: source);
+    final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: contextSentence ?? text, source: source, fallbackVi: fallbackVi);
     recognizers.add(rec);
     spans.add(TextSpan(text: tok, style: style, recognizer: rec));
   }

@@ -32,7 +32,9 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
     final userDb = ref.read(userDbProvider);
     final lastSid = int.tryParse(userDb.progress('reading', 'last_section') ?? '');
     final lastId = int.tryParse(userDb.progress('reading', 'last_reading') ?? '');
-    final last = lastId == null || lastId < 0 ? null : db.reading(lastId);
+    // Section 0 (Phiên Âm Quốc Tế) is its own menu item, never "continue reading" here.
+    final lastRead = lastId == null || lastId < 0 ? null : db.reading(lastId);
+    final last = lastRead == null || lastRead.sid == 0 ? null : lastRead;
 
     return Scaffold(
       appBar: GrammarAppBar(
@@ -46,7 +48,7 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
             Expanded(
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 Text('Bài Đọc', style: theme.textTheme.headlineLarge),
-                Text('${root.totalReadings} bài trong ${root.children.length} nhóm · chạm từ để tra, chạm câu để dịch', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                Text('${root.children.where((s) => s.sid != 0).fold(0, (a, s) => a + s.totalReadings)} bài trong ${root.children.where((s) => s.sid != 0).length} nhóm · chạm từ để tra, chạm câu để dịch', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
               ]),
             ),
           ]),
@@ -78,7 +80,8 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
             Surface(
               padding: const EdgeInsets.all(8),
               child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-                for (final s in root.children) _SectionTile(section: s, initiallyExpanded: s.sid == lastSid || _containsSid(s, lastSid)),
+                // Section 0 (Phiên Âm Quốc Tế) is its own home-menu item (/ipa).
+                for (final s in root.children.where((s) => s.sid != 0)) _SectionTile(section: s, initiallyExpanded: s.sid == lastSid || _containsSid(s, lastSid)),
               ]),
             ),
           ],

@@ -12,6 +12,7 @@ import 'package:grammar/data/content_db.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/home/home_page.dart';
+import 'package:grammar/ui/readings/ipa_lesson_page.dart';
 import 'package:grammar/ui/readings/reading_page.dart';
 
 void main() {
@@ -79,6 +80,32 @@ void main() {
       expect(tops[i] - tops[i - 1], lessThanOrEqualTo(34));
     }
     expect(find.text('Lưu từ'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
+
+  testWidgets('IPA lesson: symbols reveal "Ðọc là", example words reveal their respelling', (tester) async {
+    tester.view.physicalSize = const Size(1100, 720);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(const IpaLessonPage()));
+    await tester.pump();
+    expect(find.text('ʃ'), findsOneWidget);          // a symbol chip, not "î  ."
+    await tester.scrollUntilVisible(find.text('ʃ'), 200, scrollable: find.byType(Scrollable).first);
+    await tester.tap(find.text('ʃ'));
+    await tester.pumpAndSettle();
+    expect(find.textContaining('sờ (uốn cong lưỡi)'), findsOneWidget);
+    // Symbols whose line is not "Ðọc là:" (j, ":", "'") are chips too, in one Wrap.
+    expect(find.text(':'), findsOneWidget);
+    expect(find.text("'"), findsOneWidget);
+    expect(find.text('j'), findsOneWidget);
+    expect(find.text('Chạm một ký hiệu để xem cách đọc.'), findsOneWidget);
+    // Chips are not stretched to the full width.
+    expect(tester.getSize(find.ancestor(of: find.text('ʃ'), matching: find.byType(InkWell)).first).width, lessThan(120));
+    await tester.scrollUntilVisible(find.text('fruticulum'), 300, scrollable: find.byType(Scrollable).first);
+    await tester.tap(find.text('fruticulum'));
+    await tester.pumpAndSettle();
+    expect(find.text('frù thí kìu lờm'), findsOneWidget);
+    expect(find.text("[fru:'tikjuləm]"), findsOneWidget);
     expect(tester.takeException(), isNull);
   }, skip: !has);
 
