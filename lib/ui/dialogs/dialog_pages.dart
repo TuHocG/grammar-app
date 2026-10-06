@@ -14,7 +14,10 @@ import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../data/user_db.dart';
 import '../../data/user_db_more.dart';
+import '../../data/reading_loader.dart';
+import '../../domain/sentence_player.dart';
 import '../readings/dialog_practice_page.dart';
+import '../readings/reading_page.dart' show TocRow, cycleFontScale;
 import '../widgets/word_tap_text.dart';
 import '../widgets/shell.dart';
 
@@ -43,8 +46,8 @@ class DialogTopicsPage extends ConsumerWidget {
     final theme = Theme.of(context);
     return Scaffold(
       appBar: GrammarAppBar(
-        title: const Text('Luyện Nói'),
-        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/6'))],
+        crumbs: const [Crumb('Luyện Nói')],
+        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/6'))],
       ),
       body: RailListView(
         children: [
@@ -96,11 +99,11 @@ class _DialogListPageState extends ConsumerState<DialogListPage> {
     final theme = Theme.of(context);
     return Scaffold(
       appBar: GrammarAppBar(
-        title: Text(topic?.title ?? 'Luyện Nói'),
+        crumbs: [const Crumb('Luyện Nói', '/dialogs'), Crumb(topic?.title ?? '')],
         actions: [
           FilledButton.tonalIcon(
             icon: const Icon(Icons.replay),
-            label: Text(nPicked >= 4 ? 'Ôn tập ($nPicked câu)' : 'Ôn tập cả chủ đề'),
+            label: Text(nPicked >= 4 ? 'Ôn tập $nPicked cặp đã chọn' : 'Ôn tập cả chủ đề'),
             onPressed: () => context.push('/dialogs/topic/${widget.sid}/review'),
           ),
           const SizedBox(width: 8),
@@ -131,130 +134,217 @@ class DialogPage extends ConsumerStatefulWidget {
   ConsumerState<DialogPage> createState() => _DialogPageState();
 }
 
+/// One dialog laid out like a reading (docs/08 S1): breadcrumb, toolbar (Nghe toàn bài,
+/// Xếp từ, Đàm thoại, Nghe viết, Đổi ảnh, Ôn tập), the topic's dialogs on the left, the
+/// A/B lines in the article, Bài trước / Bài kế below. Practice pages get the dialog as a
+/// reading (`dialogReadingBase + id`).
 class _DialogPageState extends ConsumerState<DialogPage> {
   bool _showVi = false;
   final Set<int> _openVi = {};
+  int _imgShift = 0;
+  SentencePlayer? _player;
+  int? _speaking;
+
+  int get _rid => dialogReadingBase + widget.id;
+
+  @override
+  void initState() {
+    super.initState();
+    final r = loadReading(ref, _rid);
+    if (r != null) {
+      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r)
+        ..addListener(() {
+          if (mounted) setState(() => _speaking = _player!.state == PlayerState.playing ? _player!.index : null);
+        });
+    }
+    final sid = ref.read(contentDbProvider).dialogTopicOf(widget.id);
+    if (sid != null) ref.read(userDbProvider).setProgress('dialog', 'last_topic', '$sid');
+  }
+
+  @override
+  void dispose() {
+    _player?.dispose();
+    super.dispose();
+  }
+
+  /// One tap on a line: read it and show its translation (which stays); tap again while
+  /// it is being read → stop.
+  Future<void> _tapLine(int slot) async {
+    final p = _player;
+    setState(() => _openVi.add(slot));
+    if (p == null) return;
+    if (p.isSpeaking(slot)) {
+      await p.stop();
+    } else {
+      await p.speakOnce(slot);
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
     final db = ref.read(contentDbProvider);
     final userDb = ref.read(userDbProvider);
     final d = db.dialog(widget.id);
-    if (d == null) return const Scaffold(body: Center(child: Text('Không có bài này.')));
+    if (d == null) return const Scaffold(body: EmptyNote('Không có bài này.'));
     final picks = userDb.dialogPickKeys();
-    final tts = ref.read(ttsProvider);
     final theme = Theme.of(context);
+    final g = context.g;
+    final wide = context.isWide;
+    final topic = db.dialogTopic(d.sid);
     final all = db.dialogsInTopic(d.sid);
     final i = all.indexWhere((x) => x.id == d.id);
-    final prev = i > 0 ? all[i - 1].id : null;
-    final next = i < all.length - 1 ? all[i + 1].id : null;
+    final prev = i > 0 ? all[i - 1] : null;
+    final next = i >= 0 && i < all.length - 1 ? all[i + 1] : null;
+    final nTopicPicks = picks.where((k) => all.any((x) => k.startsWith('${x.id}:'))).length;
     final src = 'dialog:${d.id}';
+    final img = db.dialogPageImage(d.id + _imgShift);
 
     Widget line(String en, String vi, int pairIdx, String who) {
-      final key = '${d.id}:$pairIdx';
-      final picked = picks.contains(key);
       final slot = pairIdx * 2 + (who == 'A' ? 0 : 1);
       final open = _showVi || _openVi.contains(slot);
-      // One tap on the line (outside a word): read it and show its translation, which stays.
-      void speakAndShow() {
-        setState(() => _openVi.add(slot));
-        tts.speak(en);
-      }
-      return Padding(
-        padding: const EdgeInsets.symmetric(vertical: 3),
-        child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          SizedBox(width: 24, child: Text(who, style: theme.textTheme.labelLarge?.copyWith(color: who == 'A' ? theme.colorScheme.primary : theme.colorScheme.tertiary))),
-          Expanded(
-            child: InkWell(
-              onTap: speakAndShow,
-              onLongPress: speakAndShow,
-              borderRadius: BorderRadius.circular(6),
-              child: Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 4, vertical: 2),
-                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                    Expanded(child: WordTapText(en, style: theme.textTheme.bodyLarge, context: en, source: src)),
-                    const SizedBox(width: 8),
-                    Icon(Icons.volume_up_outlined, size: 16, color: open ? theme.colorScheme.primary : theme.colorScheme.outlineVariant),
-                  ]),
-                  if (open) Text(vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-                ]),
+      final hl = _speaking == slot;
+      return InkWell(
+        onTap: () => _tapLine(slot),
+        onLongPress: () => _tapLine(slot),
+        borderRadius: BorderRadius.circular(6),
+        child: Container(
+          decoration: BoxDecoration(color: hl ? g.lilac : null, borderRadius: BorderRadius.circular(6)),
+          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 4),
+          child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            SizedBox(
+              width: 32,
+              child: Text('$who:', style: ReadingStyles.passage(context).copyWith(fontWeight: FontWeight.w600, color: who == 'A' ? g.iris : g.slate)),
+            ),
+            Expanded(
+              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                WordTapText(en, style: ReadingStyles.passage(context), context: en, source: src),
+                if (open && vi.isNotEmpty) Text(vi, style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+              ]),
+            ),
+          ]),
+        ),
+      );
+    }
+
+    final article = Surface(
+      padding: EdgeInsets.symmetric(horizontal: wide ? 40 : 20, vertical: wide ? 32 : 20),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        if (img != null) ...[
+          Center(
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(Tokens.radiusCard),
+              child: ConstrainedBox(
+                constraints: const BoxConstraints(maxHeight: 260),
+                child: Image.file(db.mediaFile(img), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
               ),
             ),
           ),
-          if (who == 'A')
-            IconButton(
-              visualDensity: VisualDensity.compact,
-              tooltip: picked ? 'Bỏ chọn câu' : 'Chọn câu để ôn tập',
-              icon: Icon(picked ? Icons.bookmark : Icons.bookmark_border, size: 18, color: picked ? Marks.savedWord : null),
-              onPressed: () { userDb.setDialogPick(d.id, pairIdx, !picked); setState(() {}); },
-            )
-          else
-            const SizedBox(width: 40),
-        ]),
-      );
+          const SizedBox(height: 20),
+        ],
+        Text(d.title, style: ReadingStyles.title(context)),
+        const SizedBox(height: 16),
+        for (var p = 0; p < d.pairs.length; p++) ...[
+          Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Expanded(child: Column(children: [line(d.pairs[p].a, d.pairs[p].avi, p, 'A'), line(d.pairs[p].b, d.pairs[p].bvi, p, 'B')])),
+            Builder(builder: (context) {
+              final picked = picks.contains('${d.id}:$p');
+              return IconButton(
+                tooltip: picked ? 'Bỏ chọn cặp câu này' : 'Chọn cặp câu này để Ôn tập',
+                icon: Icon(picked ? Icons.bookmark : Icons.bookmark_border, color: picked ? g.savedWord : g.fog),
+                onPressed: () => setState(() => userDb.setDialogPick(d.id, p, !picked)),
+              );
+            }),
+          ]),
+          if (p < d.pairs.length - 1) Divider(height: 16, color: g.border),
+        ],
+      ]),
+    );
+
+    final review = nTopicPicks >= 4 ? 'Ôn tập $nTopicPicks cặp đã chọn' : 'Ôn tập cả chủ đề';
+    final toolbar = Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
+      FilledButton.icon(onPressed: () => context.push('/readings/$_rid/listen'), icon: const Icon(Icons.play_arrow_rounded, size: 20), label: const Text('Nghe toàn bài')),
+      OutlinedButton.icon(onPressed: () => context.push('/readings/$_rid/scramble'), icon: const Icon(Icons.shuffle, size: 18), label: const Text('Xếp từ')),
+      OutlinedButton.icon(onPressed: () => context.push('/dialogs/${d.id}/practice'), icon: const Icon(Icons.forum_outlined, size: 18), label: const Text('Đàm thoại')),
+      OutlinedButton.icon(onPressed: () => context.push('/readings/$_rid/dictation'), icon: const Icon(Icons.keyboard_alt_outlined, size: 18), label: const Text('Nghe viết')),
+      OutlinedButton.icon(onPressed: () => setState(() => _imgShift++), icon: const Icon(Icons.image_outlined, size: 18), label: const Text('Đổi ảnh')),
+      FilledButton.tonalIcon(onPressed: () => context.push('/dialogs/topic/${d.sid}/review'), icon: const Icon(Icons.replay, size: 18), label: Text(review)),
+    ]);
+
+    // What the bookmarks are for (docs/08 S3–S4), right under the Ôn tập button.
+    final reviewNote = Text(
+      nTopicPicks == 0
+          ? 'Bấm 🔖 bên phải một cặp câu để chọn nó. Ôn tập: máy đọc câu A, bạn đáp câu B — từ 4 cặp đã chọn trở lên chỉ ôn các cặp đó, chưa đủ thì ôn cả chủ đề.'
+          : nTopicPicks < 4
+              ? 'Đã chọn $nTopicPicks cặp trong chủ đề này; chọn đủ 4 cặp thì Ôn tập chỉ luyện các cặp đã chọn (máy đọc A, bạn đáp B).'
+              : 'Đã chọn $nTopicPicks cặp trong chủ đề này: Ôn tập luyện các cặp đó (máy đọc A, bạn đáp B).',
+      style: theme.textTheme.bodySmall?.copyWith(color: g.slate),
+    );
+
+    final main = Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [toolbar, const SizedBox(height: 8), reviewNote, const SizedBox(height: 16), article]);
+
+    Widget body;
+    if (wide && all.length > 1) {
+      body = Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        SizedBox(
+          width: 280,
+          child: Surface(
+            padding: const EdgeInsets.all(8),
+            child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
+                child: Text(topic?.title ?? '', style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
+              ),
+              for (final x in all)
+                TocRow(
+                  title: x.title,
+                  selected: x.id == d.id,
+                  audio: false,
+                  onTap: x.id == d.id ? null : () => context.pushReplacement('/dialogs/${x.id}'),
+                ),
+            ]),
+          ),
+        ),
+        const SizedBox(width: 24),
+        Expanded(child: main),
+      ]);
+    } else {
+      body = main;
     }
 
     return Scaffold(
       appBar: GrammarAppBar(
-        title: Text('${db.dialogTopic(d.sid)?.title ?? ''} · ${d.title}', maxLines: 1, overflow: TextOverflow.ellipsis),
+        crumbs: [
+          const Crumb('Luyện Nói', '/dialogs'),
+          if (topic != null) Crumb(topic.title, '/dialogs/topic/${topic.sid}'),
+          Crumb(d.title),
+        ],
         actions: [
-          IconButton(tooltip: 'Bản dịch', icon: Icon(_showVi ? Icons.translate : Icons.translate_outlined), onPressed: () => setState(() => _showVi = !_showVi)),
-          IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/24')),
-        ],
-      ),
-      body: ListView(
-        padding: const EdgeInsets.fromLTRB(16, 12, 16, 24),
-        children: [
-          if (db.dialogPageImage(d.id) case final img?) ...[
-            Center(
-              child: ClipRRect(
-                borderRadius: BorderRadius.circular(Tokens.radiusCard),
-                child: ConstrainedBox(
-                  constraints: const BoxConstraints(maxHeight: 220),
-                  child: Image.file(db.mediaFile(img), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
-                ),
-              ),
-            ),
-            const SizedBox(height: 12),
-          ],
-          for (var p = 0; p < d.pairs.length; p++) ...[
-            Card(
-              child: Padding(
-                padding: const EdgeInsets.fromLTRB(8, 6, 4, 6),
-                child: Column(children: [line(d.pairs[p].a, d.pairs[p].avi, p, 'A'), line(d.pairs[p].b, d.pairs[p].bvi, p, 'B')]),
-              ),
-            ),
-          ],
-          const SizedBox(height: 8),
-          Text('Chạm từ để tra; chạm vào dòng (ngoài chữ) để nghe và xem dịch; đánh dấu câu để ôn tập.', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
-        ],
-      ),
-      bottomNavigationBar: SafeArea(
-        child: Padding(
-          padding: const EdgeInsets.fromLTRB(8, 4, 8, 8),
-          child: Row(children: [
-            IconButton(icon: const Icon(Icons.chevron_left), onPressed: prev == null ? null : () => context.pushReplacement('/dialogs/$prev')),
-            Expanded(
-              child: Wrap(alignment: WrapAlignment.center, spacing: 6, children: [
-                ActionChip(avatar: const Icon(Icons.forum_outlined, size: 18), label: const Text('Đàm thoại'), onPressed: () => context.push('/dialogs/${d.id}/practice')),
-                ActionChip(avatar: const Icon(Icons.play_circle_outline, size: 18), label: const Text('Nghe cả bài'), onPressed: () => _playAll(d, tts)),
+          if (wide)
+            Padding(
+              padding: const EdgeInsets.only(right: 8),
+              child: Row(mainAxisSize: MainAxisSize.min, children: [
+                Switch(value: _showVi, onChanged: (v) => setState(() => _showVi = v)),
+                const SizedBox(width: 4),
+                Text('Bản dịch', style: theme.textTheme.bodyMedium),
               ]),
-            ),
-            IconButton(icon: const Icon(Icons.chevron_right), onPressed: next == null ? null : () => context.pushReplacement('/dialogs/$next')),
-          ]),
-        ),
+            )
+          else
+            RoundIconButton(icon: Icons.translate, tooltip: _showVi ? 'Ẩn bản dịch' : 'Hiện bản dịch', active: _showVi, onPressed: () => setState(() => _showVi = !_showVi)),
+          const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.format_size, tooltip: 'Cỡ chữ', onPressed: () => cycleFontScale(ref)),
+          const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Luyện Nói', onPressed: () => context.push('/help/24')),
+        ],
+      ),
+      body: RailListView(children: [body]),
+      bottomNavigationBar: PrevNextBar(
+        onPrev: prev == null ? null : () => context.pushReplacement('/dialogs/${prev.id}'),
+        onNext: next == null ? null : () => context.pushReplacement('/dialogs/${next.id}'),
+        prevLabel: prev == null ? 'Bài trước' : 'Bài trước: ${prev.title}',
+        nextLabel: next == null ? 'Bài kế' : 'Bài kế: ${next.title}',
+        middle: wide ? Text('Chạm từ để tra · chạm vào dòng để nghe và xem dịch', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)) : null,
       ),
     );
-  }
-
-  Future<void> _playAll(Dialog d, dynamic tts) async {
-    for (final p in d.pairs) {
-      if (!mounted) return;
-      await tts.speak(p.a);
-      if (!mounted) return;
-      await tts.speak(p.b);
-    }
   }
 }
 

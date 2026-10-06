@@ -135,13 +135,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
     }
   }
 
-  static const _scales = [0.9, 1.0, 1.15, 1.3, 1.45];
-
-  void _cycleFontSize() {
-    final s = ref.read(settingsProvider);
-    final i = _scales.indexWhere((x) => (x - s.fontScale).abs() < 0.01);
-    ref.read(settingsProvider.notifier).setFontScale(_scales[(i + 1) % _scales.length]);
-  }
+  void _cycleFontSize() => cycleFontScale(ref);
 
   @override
   Widget build(BuildContext context) {
@@ -265,7 +259,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
                 child: Text(section!.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
               ),
               for (final s in siblings)
-                _TocRow(
+                TocRow(
                   title: s.title,
                   selected: s.id == r.id,
                   audio: s.hasAudio,
@@ -332,12 +326,24 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   }
 }
 
-class _TocRow extends StatelessWidget {
+const _scales = [0.9, 1.0, 1.15, 1.3, 1.45];
+
+/// "Cỡ chữ": next text size of the reading pages (shared by Bài Đọc and Luyện Nói).
+void cycleFontScale(WidgetRef ref) {
+  final s = ref.read(settingsProvider);
+  final i = _scales.indexWhere((x) => (x - s.fontScale).abs() < 0.01);
+  ref.read(settingsProvider.notifier).setFontScale(_scales[(i + 1) % _scales.length]);
+}
+
+/// Row of the left nav of a reading-like page (the section's readings, a topic's dialogs).
+class TocRow extends StatelessWidget {
   final String title;
   final bool selected;
   final bool audio;
+  /// Extra mark at the end of the row (e.g. "has picked spots").
+  final Widget? trailing;
   final VoidCallback? onTap;
-  const _TocRow({required this.title, required this.selected, required this.audio, this.onTap});
+  const TocRow({super.key, required this.title, required this.selected, this.audio = false, this.trailing, this.onTap});
   @override
   Widget build(BuildContext context) {
     final g = context.g;
@@ -353,6 +359,7 @@ class _TocRow extends StatelessWidget {
           child: Row(children: [
             Expanded(child: Text(title, maxLines: 2, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodyMedium?.copyWith(color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400))),
             if (audio) Icon(Icons.graphic_eq, size: 14, color: selected ? g.iris : g.fog),
+            ?trailing,
           ]),
         ),
       ),

@@ -15,6 +15,7 @@ import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../data/user_db_more.dart';
 import '../dictionary/quick_def_sheet.dart';
+import '../readings/reading_page.dart' show TocRow;
 import '../widgets/shell.dart';
 
 /// Pic5 pages are 700 px high with varying width (595–1319); hotspot pixels refer to the
@@ -31,29 +32,40 @@ class PictureTopicsPage extends ConsumerWidget {
     final topics = db.pictureTopics();
     final withPicks = ref.read(userDbProvider).pictureTopicsWithPicks();
     final last = int.tryParse(ref.read(userDbProvider).progress('pictures', 'last') ?? '');
+    final theme = Theme.of(context);
     return Scaffold(
       appBar: GrammarAppBar(
-        title: const Text('Từ Vựng (Tranh)'),
-        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/22'))],
+        crumbs: const [Crumb('Từ Vựng (Tranh)')],
+        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/22'))],
       ),
-      body: ListView.builder(
-        itemCount: topics.length,
-        itemBuilder: (context, i) {
-          final t = topics[i];
-          return ListTile(
-            leading: SizedBox(
-              width: 56,
-              height: 48,
-              child: t.page == null
-                  ? const Icon(Icons.image_outlined)
-                  : ClipRRect(borderRadius: BorderRadius.circular(6), child: Image.file(db.mediaFile(t.page!), fit: BoxFit.cover, cacheWidth: 112, errorBuilder: (_, _, _) => const Icon(Icons.image_outlined))),
-            ),
-            title: Text(t.title, style: TextStyle(fontWeight: t.id == last ? FontWeight.w600 : null)),
-            subtitle: Text('${t.words.length} từ'),
-            trailing: withPicks.contains(t.id) ? Icon(Icons.book, color: Marks.savedWord, size: 18) : null,
-            onTap: () => context.push('/pictures/${t.id}'),
-          );
-        },
+      body: RailListView(
+        children: [
+          Text('Từ Vựng (Tranh)', style: theme.textTheme.headlineLarge),
+          Text('${topics.length} tranh · chạm số trên tranh để xem nghĩa và nghe · chọn tiêu điểm để luyện', style: theme.textTheme.bodyLarge?.copyWith(color: context.g.slate)),
+          const SizedBox(height: 20),
+          AutoGrid(
+            minWidth: 260,
+            children: [
+              for (final t in topics)
+                SetCard(
+                  leading: ClipRRect(
+                    borderRadius: BorderRadius.circular(8),
+                    child: SizedBox(
+                      width: 56,
+                      height: 56,
+                      child: t.page == null
+                          ? const IconTile(Icons.image_outlined, size: 56)
+                          : Image.file(db.mediaFile(t.page!), fit: BoxFit.cover, cacheWidth: 112, errorBuilder: (_, _, _) => const IconTile(Icons.image_outlined, size: 56)),
+                    ),
+                  ),
+                  title: t.title,
+                  subtitle: '${t.words.length} từ',
+                  badge: withPicks.contains(t.id) ? 'đã chọn' : (t.id == last ? 'đang xem' : null),
+                  onTap: () => context.push('/pictures/${t.id}'),
+                ),
+            ],
+          ),
+        ],
       ),
     );
   }
@@ -177,13 +189,16 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
     final theme = Theme.of(context);
     final topics = db.pictureTopics();
     final i = topics.indexWhere((x) => x.id == t.id);
-    final prev = i > 0 ? topics[i - 1].id : null;
-    final next = i < topics.length - 1 ? topics[i + 1].id : null;
+    final prev = i > 0 ? topics[i - 1] : null;
+    final next = i >= 0 && i < topics.length - 1 ? topics[i + 1] : null;
     final cur = _current == null ? null : t.words[_current!];
+    final g = context.g;
+    final withPicks = ref.read(userDbProvider).pictureTopicsWithPicks();
 
+    final main = _main(context, t, cur, theme);
     return Scaffold(
       appBar: GrammarAppBar(
-        title: Text(t.title),
+        crumbs: [const Crumb('Từ Vựng (Tranh)', '/pictures'), Crumb(t.title)],
         actions: [
           SegmentedButton<int>(
             showSelectedIcon: false,
@@ -196,9 +211,43 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
             onSelectionChanged: (v) => _setMode(v.first),
           ),
           const SizedBox(width: 8),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/22')),
         ],
       ),
-      body: Column(children: [
+      body: context.isWide
+          ? Row(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+              // Left nav with every picture, like the readings and dialogs pages.
+              Padding(
+                padding: const EdgeInsets.fromLTRB(16, 16, 0, 16),
+                child: SizedBox(
+                  width: 280,
+                  child: Surface(
+                    padding: const EdgeInsets.all(8),
+                    child: _TopicNav(
+                      topics: topics,
+                      current: t.id,
+                      withPicks: withPicks,
+                      onTap: (id) => context.pushReplacement('/pictures/$id'),
+                    ),
+                  ),
+                ),
+              ),
+              Expanded(child: main),
+            ])
+          : main,
+      bottomNavigationBar: PrevNextBar(
+        onPrev: prev == null ? null : () => context.pushReplacement('/pictures/${prev.id}'),
+        onNext: next == null ? null : () => context.pushReplacement('/pictures/${next.id}'),
+        prevLabel: prev == null ? 'Tranh trước' : 'Tranh trước: ${prev.title}',
+        nextLabel: next == null ? 'Tranh kế' : 'Tranh kế: ${next.title}',
+        middle: Text('${i + 1} / ${topics.length}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+      ),
+    );
+  }
+
+  Widget _main(BuildContext context, PictureTopic t, PictureWord? cur, ThemeData theme) {
+    final db = ref.read(contentDbProvider);
+    return Column(children: [
         Expanded(
           child: t.page == null
               ? const Center(child: Text('Chủ đề này không có trang ảnh.'))
@@ -288,18 +337,57 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
             if (_mode > 0) Text('Đúng $_right · sai $_wrong · ${_picks.isEmpty ? 'tất cả' : '${_pool.length} tiêu điểm đã chọn'}', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
           ]),
         ),
-        SafeArea(
-          top: false,
-          child: Row(children: [
-            IconButton(icon: const Icon(Icons.chevron_left), onPressed: prev == null ? null : () => context.pushReplacement('/pictures/$prev')),
-            const Spacer(),
-            Text('${i + 1} / ${topics.length}', style: theme.textTheme.bodySmall),
-            const Spacer(),
-            IconButton(icon: const Icon(Icons.chevron_right), onPressed: next == null ? null : () => context.pushReplacement('/pictures/$next')),
+      ]);
+  }
+}
+
+/// The 155 pictures as a scrolling list; the current one is scrolled into view.
+class _TopicNav extends StatefulWidget {
+  final List<PictureTopic> topics;
+  final int current;
+  final Set<int> withPicks;
+  final ValueChanged<int> onTap;
+  const _TopicNav({required this.topics, required this.current, required this.withPicks, required this.onTap});
+  @override
+  State<_TopicNav> createState() => _TopicNavState();
+}
+
+class _TopicNavState extends State<_TopicNav> {
+  final _currentKey = GlobalKey();
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final c = _currentKey.currentContext;
+      if (c != null) Scrollable.ensureVisible(c, alignment: 0.3);
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final g = context.g;
+    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+      Padding(
+        padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
+        child: Text('Từ Vựng (Tranh)', style: theme.textTheme.titleSmall),
+      ),
+      Expanded(
+        child: SingleChildScrollView(
+          child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+            for (final x in widget.topics)
+              TocRow(
+                key: x.id == widget.current ? _currentKey : null,
+                title: x.title,
+                selected: x.id == widget.current,
+                trailing: widget.withPicks.contains(x.id) ? Icon(Icons.bookmark, size: 14, color: g.savedWord) : null,
+                onTap: x.id == widget.current ? null : () => widget.onTap(x.id),
+              ),
           ]),
         ),
-      ]),
-    );
+      ),
+    ]);
   }
 }
 

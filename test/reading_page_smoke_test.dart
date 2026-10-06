@@ -9,9 +9,12 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:grammar/app/providers.dart';
 import 'package:grammar/app/theme.dart';
 import 'package:grammar/data/content_db.dart';
+import 'package:grammar/data/reading_loader.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
+import 'package:grammar/ui/dialogs/dialog_pages.dart';
 import 'package:grammar/ui/home/home_page.dart';
+import 'package:grammar/ui/pictures/picture_pages.dart';
 import 'package:grammar/ui/readings/ipa_lesson_page.dart';
 import 'package:grammar/ui/readings/reading_page.dart';
 
@@ -133,6 +136,46 @@ void main() {
     expect(find.textContaining('Simple Sentence'), findsOneWidget);
     expect(find.text('Bài 37'), findsOneWidget);
     expect(tester.takeException(), isNull);
+  }, skip: !has);
+
+  testWidgets('Luyện Nói page: reading toolbar, topic nav, bookmark explains Ôn tập', (tester) async {
+    tester.view.physicalSize = const Size(1100, 720);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(const DialogPage(id: 1)));
+    await tester.pump();
+    for (final t in ['Nghe toàn bài', 'Xếp từ', 'Đàm thoại', 'Nghe viết', 'Đổi ảnh', 'Ôn tập cả chủ đề']) {
+      expect(find.text(t), findsOneWidget, reason: t);
+    }
+    expect(find.text('A:'), findsNWidgets(4));
+    await tester.tap(find.byIcon(Icons.bookmark_border).first);
+    await tester.pump();
+    expect(find.textContaining('Đã chọn 1 cặp'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
+
+  testWidgets('Từ Vựng (Tranh): breadcrumb, left nav of all pictures, picture still fills the page', (tester) async {
+    tester.view.physicalSize = const Size(1100, 720);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(const PictureTopicPage(id: 12)));
+    await tester.pumpAndSettle();
+    expect(find.text('Từ Vựng (Tranh)'), findsWidgets);
+    expect(find.byType(TocRow), findsWidgets);
+    expect(find.textContaining('Tranh kế'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+    await tester.pumpWidget(wrap(const PictureTopicsPage()));
+    await tester.pump();
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
+
+  test('a dialog opens as a reading for the practice pages (A1, B1, A2 …)', () {
+    final c = ProviderContainer(overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user)]);
+    addTearDown(c.dispose);
+    final r = loadReadingFrom(c, dialogReadingBase + 1)!;
+    expect(r.sentences.length, 8);
+    expect(r.sentences[0].en, 'What do you buy?');
+    expect(r.sentences[1].en, 'A bar of Chocolate.');
   }, skip: !has);
 
   for (final (name, widget) in [('reading', const ReadingPage(id: 1)), ('home', const HomePage())]) {
