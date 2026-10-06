@@ -81,15 +81,27 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
     showQuickDef(context, ref, phrase, source: src);
   }
 
+  /// Tap a sentence number: one rule only. Closed → open the translation and read the
+  /// sentence. Open → close it and stop the reading if that sentence is being read.
   Future<void> _tapSentence(Sentence s) async {
-    setState(() {
-      if (_openVi.contains(s.idx)) {
-        _openVi.remove(s.idx);
-      } else {
-        _openVi.add(s.idx);
-      }
-    });
-    await _player?.speakOnce(s.idx);
+    final p = _player;
+    if (_openVi.contains(s.idx)) {
+      setState(() => _openVi.remove(s.idx));
+      if (p != null && p.isSpeaking(s.idx)) await p.stop();
+    } else {
+      setState(() => _openVi.add(s.idx));
+      await p?.speakOnce(s.idx);
+    }
+  }
+
+  Future<void> _speakOrStop(int idx) async {
+    final p = _player;
+    if (p == null) return;
+    if (p.isSpeaking(idx)) {
+      await p.stop();
+    } else {
+      await p.speakOnce(idx);
+    }
   }
 
   static const _scales = [0.9, 1.0, 1.15, 1.3, 1.45];
@@ -178,7 +190,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
                     ]),
                   ),
                   const SizedBox(width: 8),
-                  RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc lại câu', size: 36, onPressed: () => _player?.speakOnce(s.idx)),
+                  RoundIconButton(icon: _speaking == s.idx ? Icons.stop_circle_outlined : Icons.volume_up_outlined, tooltip: _speaking == s.idx ? 'Dừng' : 'Đọc lại câu', size: 36, onPressed: () => _speakOrStop(s.idx)),
                   RoundIconButton(icon: Icons.close, tooltip: 'Đóng', size: 36, onPressed: () => setState(() => _openVi.remove(s.idx))),
                 ]),
               ),

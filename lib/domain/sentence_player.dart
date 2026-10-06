@@ -36,7 +36,10 @@ class SentencePlayer extends ChangeNotifier {
   int get count => reading.sentences.length;
   Sentence get current => reading.sentences[index];
 
-  Future<void> play({int? from}) async {
+  /// [continuous] overrides the field for this run only (speakOnce passes false), so a
+  /// second tap while a sentence is being read cannot flip a shared flag and let the
+  /// newer run keep going through the whole reading.
+  Future<void> play({int? from, bool? continuous}) async {
     if (from != null) index = from.clamp(0, count - 1);
     final run = ++_run;
     state = PlayerState.playing;
@@ -44,7 +47,7 @@ class SentencePlayer extends ChangeNotifier {
     while (run == _run && state == PlayerState.playing) {
       await _speakCurrent(run);
       if (run != _run || state != PlayerState.playing) break;
-      if (!continuous || index >= count - 1) {
+      if (!(continuous ?? this.continuous) || index >= count - 1) {
         state = PlayerState.idle;
         notifyListeners();
         break;
@@ -112,12 +115,11 @@ class SentencePlayer extends ChangeNotifier {
     if (index > 0) await play(from: index - 1);
   }
 
-  /// Speak one sentence without changing the player state (used by the reading page).
-  Future<void> speakOnce(int i) async {
-    continuous = false;
-    await play(from: i);
-    continuous = true;
-  }
+  /// Speak one sentence only (reading page, dictation).
+  Future<void> speakOnce(int i) => play(from: i, continuous: false);
+
+  /// True while sentence [i] is being read.
+  bool isSpeaking(int i) => state == PlayerState.playing && index == i;
 
   @override
   void dispose() {
