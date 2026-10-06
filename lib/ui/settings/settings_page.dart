@@ -4,9 +4,10 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'dart:io';
+import 'dart:convert';
+import 'dart:typed_data';
 
-import 'package:path/path.dart' as p;
+import 'package:file_picker/file_picker.dart';
 import 'package:path_provider/path_provider.dart';
 
 import '../../app/providers.dart';
@@ -22,6 +23,60 @@ class SettingsPage extends ConsumerStatefulWidget {
 
 class _SettingsPageState extends ConsumerState<SettingsPage> {
   List<TtsVoice>? _voices;
+
+  void _snack(String text) {
+    if (mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(text)));
+  }
+
+  /// Save dialog of the platform, starting in Documents with a dated file name.
+  Future<void> _export() async {
+    final bytes = Uint8List.fromList(utf8.encode(exportBackup(ref.read(userDbProvider))));
+    String? docs;
+    try {
+      docs = (await getApplicationDocumentsDirectory()).path;
+    } catch (_) {}
+    try {
+      final uri = await FilePicker.saveFile(
+        dialogTitle: 'Xuất dữ liệu học tập',
+        fileName: 'grammar-backup-${DateTime.now().toIso8601String().substring(0, 10)}.json',
+        bytes: bytes,
+        mimeType: 'application/json',
+        type: FileType.custom,
+        allowedExtensions: const ['json'],
+        initialDirectory: docs,
+      );
+      if (uri == null) return;
+      _snack('Đã ghi ${uri.scheme == 'file' ? uri.toFilePath() : uri}');
+    } catch (e) {
+      _snack('Không xuất được: $e');
+    }
+  }
+
+  /// Open dialog of the platform (JSON files), confirm, then replace the user data.
+  Future<void> _restore() async {
+    try {
+      final f = await FilePicker.pickFile(dialogTitle: 'Chọn file sao lưu', type: FileType.custom, allowedExtensions: const ['json']);
+      if (f == null || !mounted) return;
+      final ok = await showDialog<bool>(
+        context: context,
+        builder: (c) => AlertDialog(
+          title: const Text('Khôi phục dữ liệu?'),
+          content: Text('Dữ liệu học tập hiện tại sẽ được thay bằng nội dung của "${f.name}".'),
+          actions: [
+            TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('Huỷ')),
+            FilledButton(onPressed: () => Navigator.pop(c, true), child: const Text('Khôi phục')),
+          ],
+        ),
+      );
+      if (ok != true) return;
+      final n = importBackup(ref.read(userDbProvider), utf8.decode(await f.readAsBytes()));
+      ref.invalidate(userWordsProvider);
+      ref.invalidate(settingsProvider);
+      _snack('Đã khôi phục $n dòng');
+    } catch (e) {
+      _snack('Không khôi phục được: $e');
+    }
+  }
 
   @override
   void initState() {
@@ -102,38 +157,14 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           ListTile(
             leading: const Icon(Icons.upload_file),
             title: const Text('Xuất dữ liệu học tập ra file'),
-            subtitle: const Text('Từ đã lưu, đánh dấu, tiến độ, câu đã chọn, bài tự nhập, cài đặt → một file JSON trong thư mục Documents'),
-            onTap: () async {
-              final dir = await getApplicationDocumentsDirectory();
-              final file = File(p.join(dir.path, 'grammar-backup-${DateTime.now().toIso8601String().substring(0, 10)}.json'));
-              await file.writeAsString(exportBackup(ref.read(userDbProvider)));
-              if (context.mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Đã ghi ${file.path}')));
-            },
+            subtitle: const Text('Từ đã lưu, đánh dấu, tiến độ, câu đã chọn, bài tự nhập, cài đặt → một file JSON; chọn nơi lưu'),
+            onTap: _export,
           ),
           ListTile(
             leading: const Icon(Icons.download),
             title: const Text('Khôi phục từ file sao lưu'),
-            subtitle: const Text('Nhập đường dẫn file JSON; dữ liệu hiện tại sẽ bị thay thế'),
-            onTap: () async {
-              final ctl = TextEditingController();
-              final path = await showDialog<String>(
-                context: context,
-                builder: (c) => AlertDialog(
-                  title: const Text('File sao lưu'),
-                  content: TextField(controller: ctl, decoration: const InputDecoration(hintText: 'C:\\...\\grammar-backup-....json')),
-                  actions: [TextButton(onPressed: () => Navigator.pop(c), child: const Text('Huỷ')), FilledButton(onPressed: () => Navigator.pop(c, ctl.text.trim()), child: const Text('Khôi phục'))],
-                ),
-              );
-              if (path == null || path.isEmpty) return;
-              try {
-                final n = importBackup(ref.read(userDbProvider), await File(path).readAsString());
-                ref.invalidate(userWordsProvider);
-                ref.invalidate(settingsProvider);
-                if (context.mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Đã khôi phục $n dòng')));
-              } catch (e) {
-                if (context.mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Không khôi phục được: $e')));
-              }
-            },
+            subtitle: const Text('Chọn file JSON đã xuất; dữ liệu hiện tại sẽ bị thay thế'),
+            onTap: _restore,
           ),
           const _Header('Dữ liệu'),
           ListTile(
