@@ -2,12 +2,15 @@
 /// sentence numbers; tap a number → the sentence is read aloud and its translation opens in
 /// a lilac panel under the paragraph; "Bản dịch" shows every translation. Toolbar → Nghe toàn
 /// bài, Xếp từ, Đàm thoại, Nghe viết. On wide screens the section's readings sit on the left.
+/// Drag (mouse) or long-press (touch) selects a phrase; a floating "Tra cụm" button and the
+/// selection menu look it up (docs/08 G7).
 library;
 
 import 'dart:io';
 
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart' show SelectedContent;
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
@@ -16,7 +19,9 @@ import '../../app/theme.dart';
 import '../../data/content_db.dart';
 import '../../data/reading_loader.dart';
 import '../../data/models.dart';
+import '../../data/search_key.dart';
 import '../../domain/sentence_player.dart';
+import '../dictionary/quick_def_sheet.dart';
 import '../widgets/shell.dart';
 import '../widgets/word_tap_text.dart';
 
@@ -33,6 +38,9 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   bool _showAllVi = false;
   final Set<int> _openVi = {};
   int? _speaking;
+  /// Phrase currently selected in the article (cleaned), or null. A notifier so the
+  /// floating button updates without rebuilding the selectable text.
+  final ValueNotifier<String?> _phrase = ValueNotifier(null);
 
   @override
   void initState() {
@@ -55,7 +63,22 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   @override
   void dispose() {
     _player?.dispose();
+    _phrase.dispose();
     super.dispose();
+  }
+
+  static final _ws = RegExp(r'\s+');
+  static final _letter = RegExp(r'[A-Za-zÀ-ɏḀ-ỿ]');
+
+  void _selectionChanged(SelectedContent? sel) {
+    var t = (sel?.plainText ?? '').replaceAll(_ws, ' ').trim();
+    t = cleanToken(t);
+    _phrase.value = _letter.hasMatch(t) ? t : null;
+  }
+
+  void _lookupPhrase(String phrase, String src) {
+    ContextMenuController.removeAny();
+    showQuickDef(context, ref, phrase, source: src);
   }
 
   Future<void> _tapSentence(Sentence s) async {
@@ -94,7 +117,22 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
 
     final article = Surface(
       padding: EdgeInsets.symmetric(horizontal: wide ? 40 : 20, vertical: wide ? 32 : 20),
-      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+      child: SelectionArea(
+        onSelectionChanged: _selectionChanged,
+        contextMenuBuilder: (context, state) => AdaptiveTextSelectionToolbar.buttonItems(
+          anchors: state.contextMenuAnchors,
+          buttonItems: [
+            ContextMenuButtonItem(
+              label: 'Tra từ điển',
+              onPressed: () {
+                final p = _phrase.value;
+                if (p != null) _lookupPhrase(p, src);
+              },
+            ),
+            ...state.contextMenuButtonItems,
+          ],
+        ),
+        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
         if (r.img != null) ...[
           Center(
             child: ClipRRect(
@@ -148,6 +186,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
           const SizedBox(height: 18),
         ],
       ]),
+      ),
     );
 
     final toolbar = Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
@@ -223,11 +262,24 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
         ],
       ),
       body: RailListView(children: [body]),
+      floatingActionButton: ValueListenableBuilder<String?>(
+        valueListenable: _phrase,
+        builder: (context, phrase, _) {
+          if (phrase == null) return const SizedBox.shrink();
+          final short = phrase.length > 36 ? '${phrase.substring(0, 34)}…' : phrase;
+          final multi = phrase.contains(' ');
+          return FloatingActionButton.extended(
+            onPressed: () => _lookupPhrase(phrase, src),
+            icon: const Icon(Icons.search),
+            label: Text(multi ? 'Tra cụm “$short”' : 'Tra “$short”'),
+          );
+        },
+      ),
       bottomNavigationBar: PrevNextBar(
         onPrev: prev == null ? null : () => context.pushReplacement('/readings/$prev'),
         onNext: next == null ? null : () => context.pushReplacement('/readings/$next'),
         nextLabel: nextTitle == null ? 'Bài kế' : 'Bài kế: $nextTitle',
-        middle: wide ? Text('Chạm từ để tra · chạm số câu để dịch và nghe', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)) : null,
+        middle: wide ? Text('Chạm từ để tra · chạm số câu để dịch và nghe · bôi đen cụm từ để tra cụm', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)) : null,
       ),
     );
   }
@@ -299,19 +351,53 @@ class _ParagraphState extends ConsumerState<_Paragraph> {
       final style = hl ? base.copyWith(backgroundColor: g.lilac) : base;
       spans.add(WidgetSpan(
         alignment: PlaceholderAlignment.top,
-        child: GestureDetector(
-          onTap: () => widget.onTapNumber(s),
-          behavior: HitTestBehavior.opaque,
-          child: Padding(
-            padding: const EdgeInsets.only(right: 3, top: 2),
-            child: Text('${s.idx + 1}', style: TextStyle(fontFamily: Tokens.uiFont, fontSize: 11, height: 1, fontWeight: FontWeight.w600, color: hl ? g.iris : g.fog)),
-          ),
+        // Not part of a phrase selection (G7), and not read as text.
+        child: SelectionContainer.disabled(
+          child: _SentenceNumber(number: s.idx + 1, highlighted: hl, onTap: () => widget.onTapNumber(s)),
         ),
       ));
       spans.addAll(wordSpans(context, ref, s.en, base: style, recognizers: _recs, contextSentence: s.en, source: widget.source));
       if (i < widget.sentences.length - 1) spans.add(TextSpan(text: ' ', style: style));
     }
     return Text.rich(TextSpan(children: spans));
+  }
+}
+
+/// The small sentence number with a 24 px tap target: the box hangs from the top of the
+/// line, the digit is centred in it (so it reads like a superscript yet the tint is even).
+class _SentenceNumber extends StatelessWidget {
+  final int number;
+  final bool highlighted;
+  final VoidCallback onTap;
+  const _SentenceNumber({required this.number, required this.highlighted, required this.onTap});
+  @override
+  Widget build(BuildContext context) {
+    final g = context.g;
+    return Padding(
+      padding: const EdgeInsets.only(right: 2),
+      child: Material(
+        type: MaterialType.transparency,
+        child: InkWell(
+          onTap: onTap,
+          borderRadius: BorderRadius.circular(6),
+          hoverColor: g.lilac,
+          // ConstrainedBox + Center(widthFactor/heightFactor), not Container(alignment:),
+          // which would grow to the line width. The digit sits in the middle of the box so
+          // the hover/ink tint is even around it.
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(minWidth: 24, minHeight: 24),
+            child: Center(
+              widthFactor: 1,
+              heightFactor: 1,
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 3),
+                child: Text('$number', style: TextStyle(fontFamily: Tokens.uiFont, fontSize: 11, height: 1, fontWeight: FontWeight.w600, color: highlighted ? g.iris : g.fog)),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
   }
 }
 

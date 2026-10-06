@@ -57,9 +57,26 @@ class LookupService {
       r = _direct(query, cand);
       if (r.found) return r;
     }
-    // Multi-word phrase: fall back to the first word.
+    // Multi-word phrase (G7). Like the old app's DoiBienThe, try the phrase with one
+    // word put back to its base form ("came through" -> "come through"); then drop
+    // trailing words ("at the mercy of them" -> "at the mercy of"); the first word is the floor.
     if (key.contains(' ')) {
-      return lookup(key.split(' ').first);
+      final words = key.split(' ');
+      final variants = <List<String>>[words];
+      for (var i = 0; i < words.length; i++) {
+        for (final cand in baseFormCandidates(words[i])) {
+          variants.add([...words]..[i] = cand);
+        }
+      }
+      for (var n = words.length; n >= 2; n--) {
+        for (final v in variants) {
+          final sub = v.take(n).join(' ');
+          if (n == words.length && identical(v, words)) continue;   // already tried above
+          final hit = _direct(query, sub);
+          if (hit.found) return hit;
+        }
+      }
+      return lookup(words.first);
     }
     return LookupResult(query: query, key: key, entries: const []);
   }

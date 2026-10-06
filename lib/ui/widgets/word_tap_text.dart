@@ -1,6 +1,6 @@
 /// Text whose every word can be tapped to look it up; saved words are red and members of
-/// their word families are underlined (docs/08 G3, G10). Long-press selects a phrase for
-/// a multi-word lookup (G7).
+/// their word families are underlined (docs/08 G3, G10). Phrase selection (G7) is done by
+/// the page that hosts the text (e.g. ReadingPage wraps the article in a SelectionArea).
 library;
 
 import 'package:flutter/gestures.dart';

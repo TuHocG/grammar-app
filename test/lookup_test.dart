@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:grammar/data/content_db.dart';
+import 'package:grammar/data/search_key.dart';
 import 'package:grammar/domain/lookup.dart';
 
 void main() {
@@ -50,6 +51,22 @@ void main() {
     final r = lookup.lookup('abandonning');   // not a headword; doubled consonant + -ing
     expect(r.found, isTrue);
     expect(r.key, 'abandon');
+  }, skip: !has);
+
+  test('phrase with an inflected verb: "came through" -> "come through"', () {
+    final r = lookup.lookup('came through');
+    expect(r.headword, 'come through');
+    expect(r.entries.first.key, 'come through');
+  }, skip: !has);
+
+  test('phrase shrinks from the end: "came through them" -> "come through"', () {
+    final r = lookup.lookup('came through them');
+    expect(r.headword, 'come through');
+  }, skip: !has);
+
+  test('irregular single word falls back to its base when it has no entry', () {
+    expect(baseFormCandidates('went').first, 'go');
+    expect(baseFormCandidates('heard').first, 'hear');
   }, skip: !has);
 
   test('related forms for "unit"', () {
