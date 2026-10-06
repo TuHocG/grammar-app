@@ -26,29 +26,41 @@ Future<void> showEditWordDialog(BuildContext context, WidgetRef ref, {UserWord? 
     context: context,
     builder: (c) => AlertDialog(
       title: Text(existing == null ? 'Từ mới' : 'Sửa từ'),
-      content: Form(
-        key: formKey,
-        child: Column(mainAxisSize: MainAxisSize.min, children: [
-          TextFormField(
-            controller: wordCtl,
-            autofocus: existing == null,
-            decoration: const InputDecoration(labelText: 'Từ Anh'),
-            validator: (v) => (v == null || v.trim().isEmpty) ? 'Nhập từ' : null,
-            onEditingComplete: autofill,
-          ),
-          TextFormField(
-            controller: ipaCtl,
-            decoration: InputDecoration(
-              labelText: 'Phiên âm',
-              suffixIcon: IconButton(tooltip: 'Lấy từ từ điển', icon: const Icon(Icons.auto_fix_high), onPressed: autofill),
+      content: SizedBox(
+        width: 420,
+        child: Form(
+          key: formKey,
+          child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+            TextFormField(
+              controller: wordCtl,
+              autofocus: existing == null,
+              decoration: const InputDecoration(labelText: 'Từ Anh', hintText: 'wash'),
+              validator: (v) => (v == null || v.trim().isEmpty) ? 'Nhập từ' : null,
+              onEditingComplete: autofill,
             ),
-          ),
-          TextFormField(
-            controller: meaningCtl,
-            decoration: const InputDecoration(labelText: 'Nghĩa Việt (dấu _ = xuống dòng)'),
-            maxLines: 3,
-          ),
-        ]),
+            const SizedBox(height: 14),
+            TextFormField(
+              controller: ipaCtl,
+              decoration: InputDecoration(
+                labelText: 'Phiên âm',
+                hintText: 'wɔʃ',
+                suffixIcon: IconButton(tooltip: 'Lấy phiên âm và nghĩa từ từ điển', icon: const Icon(Icons.auto_fix_high), onPressed: autofill),
+              ),
+            ),
+            const SizedBox(height: 14),
+            TextFormField(
+              controller: meaningCtl,
+              decoration: const InputDecoration(
+                labelText: 'Nghĩa Việt',
+                hintText: 'rửa, giặt',
+                helperText: 'Dấu _ = xuống dòng',
+                alignLabelWithHint: true,
+              ),
+              minLines: 3,
+              maxLines: 6,
+            ),
+          ]),
+        ),
       ),
       actions: [
         TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('Huỷ')),
