@@ -3,7 +3,8 @@
 /// a lilac panel under the paragraph; "Bản dịch" shows every translation. Toolbar → Nghe toàn
 /// bài, Xếp từ, Đàm thoại, Nghe viết. On wide screens the section's readings sit on the left.
 /// Drag (mouse) or long-press (touch) selects a phrase; a floating "Tra cụm" button and the
-/// selection menu look it up (docs/08 G7).
+/// selection menu look it up (docs/08 G7). An analysed unit (Phân Tích Câu, docs/08 A1–A2)
+/// uses the same page: its words are the '|' groups and a tap opens the analysis card.
 library;
 
 import 'dart:io';
@@ -20,14 +21,19 @@ import '../../data/content_db.dart';
 import '../../data/reading_loader.dart';
 import '../../data/models.dart';
 import '../../data/search_key.dart';
+import '../../data/content_db_more.dart';
 import '../../domain/sentence_player.dart';
+import '../analysis/analysis_card.dart';
+import '../analysis/analysis_page.dart';
 import '../dictionary/quick_def_sheet.dart';
 import '../widgets/shell.dart';
 import '../widgets/word_tap_text.dart';
 
 class ReadingPage extends ConsumerStatefulWidget {
   final int id;
-  const ReadingPage({super.key, required this.id});
+  /// Opened from the Phân Tích Câu list: breadcrumbs lead back there.
+  final bool fromAnalysis;
+  const ReadingPage({super.key, required this.id, this.fromAnalysis = false});
   @override
   ConsumerState<ReadingPage> createState() => _ReadingPageState();
 }
@@ -41,6 +47,10 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   /// Phrase currently selected in the article (cleaned), or null. A notifier so the
   /// floating button updates without rebuilding the selectable text.
   final ValueNotifier<String?> _phrase = ValueNotifier(null);
+  /// Analysis of every '|' token (Phân Tích Câu units), null for ordinary readings.
+  List<AnalysisWord>? _analysis;
+  /// First global token index of each sentence (by idx) in analysis mode.
+  final Map<int, int> _tokenStart = {};
 
   @override
   void initState() {
@@ -48,6 +58,15 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
     final db = ref.read(contentDbProvider);
     _reading = loadReading(ref, widget.id);
     if (_reading != null) {
+      final lesson = analysisLessonOf(db, _reading!.id);
+      if (lesson != null) {
+        _analysis = db.analysisWords(lesson);
+        var k = 0;
+        for (final s in _reading!.sentences) {
+          _tokenStart[s.idx] = k;
+          k += s.tokens?.length ?? 0;
+        }
+      }
       if (_reading!.sid >= 0) ref.read(userDbProvider).setProgress('reading', 'last_in_${_reading!.sid}', '${_reading!.id}');
       ref.read(userDbProvider).setProgress('reading', 'last_reading', '${_reading!.id}');
       _player = SentencePlayer(
@@ -79,6 +98,18 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   void _lookupPhrase(String phrase, String src) {
     ContextMenuController.removeAny();
     showQuickDef(context, ref, phrase, source: src);
+  }
+
+  void _tapToken(int global, String tok, Sentence s) {
+    final a = _analysis;
+    showAnalysisCard(
+      context,
+      ref,
+      word: a != null && global < a.length ? a[global] : null,
+      token: tok,
+      sentence: s.en,
+      source: 'reading:${_reading!.id}',
+    );
   }
 
   /// Tap a sentence number: one rule only. Closed → open the translation and read the
@@ -170,6 +201,8 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
             source: src,
             speaking: _speaking,
             onTapNumber: _tapSentence,
+            onToken: _analysis == null ? null : _tapToken,
+            tokenStart: _tokenStart,
           ),
           if (_showAllVi && para.any((s) => s.vi.isNotEmpty))
             Padding(
@@ -250,11 +283,13 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
 
     return Scaffold(
       appBar: GrammarAppBar(
-        crumbs: [
-          Crumb(isUser ? 'Bài Nhập Của Bạn' : 'Bài Đọc', isUser ? '/my-readings' : '/readings'),
-          if (section != null) Crumb(section.title, '/readings/section/${section.sid}'),
-          Crumb(r.title),
-        ],
+        crumbs: widget.fromAnalysis
+            ? [const Crumb('Phân Tích Câu', '/analysis'), Crumb(r.title)]
+            : [
+                Crumb(isUser ? 'Bài Nhập Của Bạn' : 'Bài Đọc', isUser ? '/my-readings' : '/readings'),
+                if (section != null) Crumb(section.title, '/readings/section/${section.sid}'),
+                Crumb(r.title),
+              ],
         actions: [
           if (wide)
             Padding(
@@ -291,7 +326,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
         onPrev: prev == null ? null : () => context.pushReplacement('/readings/$prev'),
         onNext: next == null ? null : () => context.pushReplacement('/readings/$next'),
         nextLabel: nextTitle == null ? 'Bài kế' : 'Bài kế: $nextTitle',
-        middle: wide ? Text('Chạm từ để tra · chạm số câu để dịch và nghe · bôi đen cụm từ để tra cụm', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)) : null,
+        middle: wide ? Text(_analysis != null ? 'Chạm từ để xem phân tích và nghĩa · chạm số câu để dịch và nghe' : 'Chạm từ để tra · chạm số câu để dịch và nghe · bôi đen cụm từ để tra cụm', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)) : null,
       ),
     );
   }
@@ -332,7 +367,10 @@ class _Paragraph extends ConsumerStatefulWidget {
   final String source;
   final int? speaking;
   final ValueChanged<Sentence> onTapNumber;
-  const _Paragraph({required this.sentences, required this.source, required this.speaking, required this.onTapNumber});
+  /// Analysis mode: tap on a '|' token (global index, token, sentence).
+  final void Function(int global, String tok, Sentence s)? onToken;
+  final Map<int, int> tokenStart;
+  const _Paragraph({required this.sentences, required this.source, required this.speaking, required this.onTapNumber, this.onToken, this.tokenStart = const {}});
   @override
   ConsumerState<_Paragraph> createState() => _ParagraphState();
 }
@@ -368,7 +406,22 @@ class _ParagraphState extends ConsumerState<_Paragraph> {
           child: _SentenceNumber(number: s.idx + 1, highlighted: hl, onTap: () => widget.onTapNumber(s)),
         ),
       ));
-      spans.addAll(wordSpans(context, ref, s.en, base: style, recognizers: _recs, contextSentence: s.en, source: widget.source, fallbackVi: s.vi.isEmpty ? null : s.vi));
+      if (widget.onToken != null && s.tokens != null) {
+        // Analysed unit: one span per word group ("to see"), saved words red.
+        final saved = ref.watch(userWordsProvider).savedKeys;
+        final toks = s.tokens!;
+        final start = widget.tokenStart[s.idx] ?? 0;
+        for (var j = 0; j < toks.length; j++) {
+          final tok = toks[j];
+          final rec = TapGestureRecognizer()..onTap = () => widget.onToken!(start + j, tok, s);
+          _recs.add(rec);
+          final isSaved = saved.contains(searchKey(cleanToken(tok)));
+          spans.add(TextSpan(text: tok, style: isSaved ? style.copyWith(color: g.savedWord, fontWeight: FontWeight.w600) : style, recognizer: rec));
+          if (j < toks.length - 1) spans.add(TextSpan(text: ' ', style: style));
+        }
+      } else {
+        spans.addAll(wordSpans(context, ref, s.en, base: style, recognizers: _recs, contextSentence: s.en, source: widget.source, fallbackVi: s.vi.isEmpty ? null : s.vi));
+      }
       if (i < widget.sentences.length - 1) spans.add(TextSpan(text: ' ', style: style));
     }
     return Text.rich(TextSpan(children: spans));

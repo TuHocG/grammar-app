@@ -138,7 +138,18 @@ GoRouter buildRouter() => GoRouter(
           routes: [GoRoute(path: ':id', builder: (_, s) => VideoPlayerPage(id: int.parse(s.pathParameters['id']!)))],
         ),
         GoRoute(path: '/analysis', builder: (_, _) => const AnalysisListPage(), routes: [
-          GoRoute(path: ':id', builder: (_, s) => AnalysisPage(id: int.parse(s.pathParameters['id']!))),
+          GoRoute(
+            path: ':id',
+            builder: (context, s) {
+              // Lesson id -> its reading, opened in analysis mode.
+              final lesson = int.parse(s.pathParameters['id']!);
+              final db = ProviderScope.containerOf(context).read(contentDbProvider);
+              final ids = db.analysisLessonIds();
+              final readings = analysisReadingIds(db);
+              final i = ids.indexOf(lesson);
+              return i >= 0 && i < readings.length ? ReadingPage(id: readings[i], fromAnalysis: true) : const AnalysisListPage();
+            },
+          ),
         ]),
         GoRoute(path: '/pictures', builder: (_, _) => const PictureTopicsPage(), routes: [
           GoRoute(path: ':id', builder: (_, s) => PictureTopicPage(id: int.parse(s.pathParameters['id']!))),

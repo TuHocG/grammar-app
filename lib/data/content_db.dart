@@ -221,8 +221,8 @@ extension ContentDbReadings on ContentDb {
     final r = rows.first;
     final sentences = [
       for (final s in _db.select('SELECT idx, para, en, vi FROM reading_sentence WHERE reading_id = ? ORDER BY idx', [id]))
-        // The 12 "Phân Tích Câu" readings keep '|' between words (dataPt word boundaries).
-        Sentence(s['idx'] as int, s['para'] as int, (s['en'] as String).replaceAll('|', ' ').replaceAll(RegExp(r' {2,}'), ' '), (s['vi'] ?? '') as String),
+        // The analysed "Phân Tích Câu" readings keep '|' between word groups (dataPt).
+        _sentence(s),
     ];
     List<double>? times;
     if (r['times'] != null) {
@@ -240,6 +240,14 @@ extension ContentDbReadings on ContentDb {
       page: r['page'] as String?,
       sentences: sentences,
     );
+  }
+
+  Sentence _sentence(Row s) {
+    final en = s['en'] as String;
+    final vi = (s['vi'] ?? '') as String;
+    if (!en.contains('|')) return Sentence(s['idx'] as int, s['para'] as int, en, vi);
+    final tokens = en.split('|').map((t) => t.trim()).where((t) => t.isNotEmpty).toList();
+    return Sentence(s['idx'] as int, s['para'] as int, tokens.join(' '), vi, tokens: tokens);
   }
 
   /// Previous / next reading in the same section (null at the ends).

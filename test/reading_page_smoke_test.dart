@@ -109,6 +109,32 @@ void main() {
     expect(tester.takeException(), isNull);
   }, skip: !has);
 
+  testWidgets('analysed unit: tap a word -> analysis card with quick meaning and lesson titles', (tester) async {
+    tester.view.physicalSize = const Size(1100, 720);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(const ReadingPage(id: 365, fromAnalysis: true)));   // Unit 5
+    await tester.pump();
+    expect(find.text('Nghe toàn bài'), findsOneWidget);
+    expect(find.text('Xếp từ'), findsOneWidget);
+    final rich = find.byWidgetPredicate((w) => w is RichText && w.text.toPlainText().contains('swallowed'));
+    expect(rich, findsOneWidget);
+    final rp = tester.renderObject<RenderParagraph>(rich);
+    final plain = rp.text.toPlainText();
+    expect(plain.contains('|'), isFalse);
+    final idx = plain.indexOf('doctor');
+    final caret = rp.getOffsetForCaret(TextPosition(offset: idx + 2), Rect.zero);
+    await tester.tapAt(rp.localToGlobal(caret + const Offset(0, 12)));
+    await tester.pumpAndSettle();
+    expect(find.text('Chức năng'), findsOneWidget);
+    expect(find.text('Lưu từ'), findsOneWidget);
+    // Lesson links sit lower in the card's lazy list: scroll the sheet to them.
+    await tester.scrollUntilVisible(find.textContaining('Simple Sentence'), 150, scrollable: find.byType(Scrollable).last);
+    expect(find.textContaining('Simple Sentence'), findsOneWidget);
+    expect(find.text('Bài 37'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
+
   for (final (name, widget) in [('reading', const ReadingPage(id: 1)), ('home', const HomePage())]) {
     testWidgets('$name page lays out at 1100x720', (tester) async {
       tester.view.physicalSize = const Size(1100, 720);

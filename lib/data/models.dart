@@ -150,7 +150,10 @@ class Sentence {
   final int para;
   final String en;
   final String vi;
-  const Sentence(this.idx, this.para, this.en, this.vi);
+  /// Word groups of an analysed unit (the '|' tokens of dataPt, e.g. "to see"); null
+  /// for ordinary readings.
+  final List<String>? tokens;
+  const Sentence(this.idx, this.para, this.en, this.vi, {this.tokens});
   int get wordCount => en.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).length;
 }
 
