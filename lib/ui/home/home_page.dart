@@ -11,6 +11,7 @@ import 'package:go_router/go_router.dart';
 import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
+import '../../data/content_db_more.dart';
 import '../../data/reading_loader.dart';
 import '../exercises/exercise_pages.dart' show groupSize;
 import '../widgets/shell.dart';
@@ -24,18 +25,18 @@ class _Item {
 }
 
 const _learn = [
-  _Item('Từ điển', 'Gõ để tìm · phiên âm · họ từ', Icons.search, '/dict'),
-  _Item('Phiên Âm Quốc Tế', 'Ký hiệu IPA và cách đọc tiếng Việt', Icons.spellcheck, '/ipa'),
-  _Item('Từ Vựng Của Bạn', 'Từ bạn lưu khi đọc, tô đỏ trong mọi bài', Icons.bookmark_outline, '/words'),
-  _Item('Quay Từ', 'Thẻ ghi nhớ từ các từ đã lưu', Icons.style_outlined, '/spin'),
   _Item('Phân Tích Câu', 'Từ loại, chức năng, vì sao phải có từ này', Icons.manage_search, '/analysis'),
   _Item('Từ Vựng (Tranh)', 'Xem, Luyện 1, Luyện 2 theo trang tranh', Icons.image_outlined, '/pictures'),
-  _Item('Luyện Nghe', 'Unit 1–20 · chọn câu đúng', Icons.headphones_outlined, '/listening'),
-  _Item('Luyện Nói', 'Đàm thoại A→B · Chọn câu · Ôn tập', Icons.record_voice_over_outlined, '/dialogs'),
   _Item('Video', 'Phụ đề Anh–Việt, lặp câu, tra từ', Icons.movie_outlined, '/video'),
+  _Item('Phiên Âm Quốc Tế', 'Ký hiệu IPA và cách đọc tiếng Việt', Icons.spellcheck, '/ipa'),
+  _Item('Từ điển', 'Gõ để tìm · phiên âm · họ từ', Icons.search, '/dict'),
+];
+
+// Cài Đặt and Hướng Dẫn are in the top bar, so they are not repeated here.
+const _personal = [
+  _Item('Từ Vựng Của Bạn', 'Từ bạn lưu khi đọc, tô đỏ trong mọi bài', Icons.bookmark_outline, '/words'),
+  _Item('Quay Từ', 'Thẻ ghi nhớ từ các từ đã lưu', Icons.style_outlined, '/spin'),
   _Item('Bài Nhập Của Bạn', 'Tự nhập bài, dùng đủ tính năng đọc', Icons.edit_note_outlined, '/my-readings'),
-  _Item('Cài Đặt', 'Giọng, tốc độ, cỡ chữ, sao lưu', Icons.settings_outlined, '/settings'),
-  _Item('Hướng Dẫn Cách Học', 'Cách dùng từng mục', Icons.help_outline, '/help'),
 ];
 
 const _menuHints = {
@@ -198,32 +199,43 @@ class HomePage extends ConsumerWidget {
                 ]),
               ),
               FeatureCard(
-                title: 'Nghe & Nói',
+                title: 'Luyện Nghe',
                 icon: Icons.headphones_outlined,
                 tint: Tokens.pastelPeach,
+                onTap: () => context.push('/listening'),
+                caption: 'Unit 1–20 · nghe câu tiếng Anh, chọn câu Việt đúng',
+                preview: Builder(builder: (context) {
+                  final units = db.listeningUnits();
+                  final item = units.isEmpty ? null : db.listeningItems(units.first).firstOrNull;
+                  if (item == null) return const Text('Nghe câu tiếng Anh, chọn câu Việt đúng.');
+                  return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                    Text(item.en, style: TextStyle(color: g.ink), maxLines: 2, overflow: TextOverflow.ellipsis),
+                    const SizedBox(height: 6),
+                    // One distractor ("Steve và Yaser không phải là bạn thân…") then the right answer.
+                    for (final (i, o) in [item.options.length > 3 ? item.options[3] : item.options.last, item.correct].indexed)
+                      Padding(
+                        padding: const EdgeInsets.only(bottom: 2),
+                        child: Text(
+                          '${String.fromCharCode(97 + i)}) $o',
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                          style: TextStyle(fontSize: 13, color: o == item.correct ? g.iris : g.slate, fontWeight: o == item.correct ? FontWeight.w600 : FontWeight.w400),
+                        ),
+                      ),
+                  ]);
+                }),
+              ),
+              FeatureCard(
+                title: 'Luyện Nói',
+                icon: Icons.record_voice_over_outlined,
+                tint: Tokens.pastelPink,
                 onTap: () => context.push('/dialogs'),
-                caption: 'Luyện Nghe 20 unit · Luyện Nói theo chủ đề · Video',
+                caption: 'Đàm thoại A→B theo chủ đề · Chọn câu để ôn tập',
                 preview: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                   Text.rich(TextSpan(children: [TextSpan(text: 'A: ', style: TextStyle(color: g.iris, fontWeight: FontWeight.w600)), TextSpan(text: 'Has she ever been in love?', style: TextStyle(color: g.ink))])),
                   Text.rich(TextSpan(children: [TextSpan(text: 'B: ', style: TextStyle(color: g.iris, fontWeight: FontWeight.w600)), TextSpan(text: 'No, she has never loved anyone.', style: TextStyle(color: g.ink))])),
                   const SizedBox(height: 2),
                   const Text('Cô ấy chưa hề yêu ai.', style: TextStyle(fontSize: 12)),
-                ]),
-              ),
-              FeatureCard(
-                title: 'Bài Tập',
-                icon: Icons.edit_outlined,
-                tint: Tokens.pastelPink,
-                onTap: () => context.push('/exercises/menu/${menus.isEmpty ? 0 : menus.first.idx}'),
-                caption: '${menus.length} bộ đề · giải thích từng phương án',
-                preview: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  const Text('Jim and Betty are going…, so ____ are very excited.', maxLines: 2, overflow: TextOverflow.ellipsis),
-                  const SizedBox(height: 6),
-                  Wrap(spacing: 6, runSpacing: 4, children: [
-                    _MiniChip('their', g: g),
-                    _MiniChip('they', g: g, selected: true),
-                    _MiniChip('them', g: g),
-                  ]),
                 ]),
               ),
             ],
@@ -240,13 +252,8 @@ class HomePage extends ConsumerWidget {
                 SetCard(
                   icon: it.icon,
                   title: it.title,
-                  subtitle: switch (it.title) {
-                    'Từ điển' => '${counts['dict_entry']} mục · phiên âm · họ từ',
-                    'Từ Vựng Của Bạn' => nWords == 0 ? 'Chưa có từ nào; chạm một từ trong bài để lưu' : it.subtitle,
-                    'Luyện Nói' => '${counts['dialog']} bài · Đàm thoại A→B · Chọn câu',
-                    _ => it.subtitle,
-                  },
-                  badge: it.title == 'Từ Vựng Của Bạn' && nWords > 0 ? '$nWords' : null,
+                  subtitle: it.title == 'Từ điển' ? '${counts['dict_entry']} mục · phiên âm · họ từ' : it.subtitle,
+                  subtitleLines: 2,
                   onTap: () => context.push(it.route),
                 ),
             ],
@@ -254,7 +261,7 @@ class HomePage extends ConsumerWidget {
           const SizedBox(height: 40),
 
           // ---- test sets ------------------------------------------------------------
-          const SectionTitle('Bộ đề luyện thi', hint: 'Mỗi bộ là nhiều Bài Tập 25 câu; điểm được lưu lại'),
+          const SectionTitle('Bài tập', hint: 'Mỗi bộ đề gồm nhiều Bài Tập 25 câu; điểm được lưu lại'),
           const SizedBox(height: 16),
           AutoGrid(
             minWidth: 300,
@@ -277,9 +284,29 @@ class HomePage extends ConsumerWidget {
                     title: m.name,
                     subtitle: '${isWordForms ? '${m.count} câu' : '$groups bài'} · ${_menuHints[m.name.trim().toUpperCase()] ?? ''}${done > 0 ? ' · đúng $score/$done' : ''}',
                     progress: m.count == 0 ? 0 : (done / m.count).clamp(0, 1),
+                    subtitleLines: 1,
                     onTap: () => context.push(isWordForms ? '/exercises/wordforms' : '/exercises/menu/${m.idx}'),
                   );
                 }),
+            ],
+          ),
+          const SizedBox(height: 40),
+
+          // ---- personal -------------------------------------------------------------
+          const SectionTitle('Cá nhân'),
+          const SizedBox(height: 16),
+          AutoGrid(
+            minWidth: 250,
+            children: [
+              for (final it in _personal)
+                SetCard(
+                  icon: it.icon,
+                  title: it.title,
+                  subtitle: it.title == 'Từ Vựng Của Bạn' && nWords == 0 ? 'Chưa có từ nào; chạm một từ trong bài để lưu' : it.subtitle,
+                  badge: it.title == 'Từ Vựng Của Bạn' && nWords > 0 ? '$nWords' : null,
+                  subtitleLines: 2,
+                  onTap: () => context.push(it.route),
+                ),
             ],
           ),
           const SizedBox(height: 24),
@@ -315,21 +342,4 @@ class _Thumb extends StatelessWidget {
       child: Image.file(File(path!), width: 64, height: 64, fit: BoxFit.cover, errorBuilder: (_, _, _) => box),
     );
   }
-}
-
-class _MiniChip extends StatelessWidget {
-  final String text;
-  final bool selected;
-  final GrammarColors g;
-  const _MiniChip(this.text, {required this.g, this.selected = false});
-  @override
-  Widget build(BuildContext context) => Container(
-        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 1),
-        decoration: BoxDecoration(
-          color: selected ? g.lilac : Colors.transparent,
-          border: Border.all(color: selected ? g.iris : g.border),
-          borderRadius: BorderRadius.circular(100),
-        ),
-        child: Text(text, style: TextStyle(fontSize: 13, color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400)),
-      );
 }

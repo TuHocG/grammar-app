@@ -304,7 +304,10 @@ class SetCard extends StatelessWidget {
   final VoidCallback? onTap;
   /// Shown in place of the icon tile (e.g. a 56 px thumbnail).
   final Widget? leading;
-  const SetCard({super.key, this.icon, required this.title, this.subtitle, this.badge, this.progress, this.onTap, this.leading});
+  /// When set, the title is one line and the subtitle always takes exactly this many lines
+  /// (shorter text leaves blank space), so every card of a grid has the same height.
+  final int? subtitleLines;
+  const SetCard({super.key, this.icon, required this.title, this.subtitle, this.badge, this.progress, this.onTap, this.leading, this.subtitleLines});
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
@@ -317,8 +320,18 @@ class SetCard extends StatelessWidget {
         if (leading != null) ...[leading!, const SizedBox(width: 12)] else if (icon != null) ...[IconTile(icon!), const SizedBox(width: 12)],
         Expanded(
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, mainAxisSize: MainAxisSize.min, children: [
-            Text(title, style: theme.textTheme.titleMedium?.copyWith(color: enabled ? g.ink : g.fog), maxLines: 2, overflow: TextOverflow.ellipsis),
-            if (subtitle != null) Padding(padding: const EdgeInsets.only(top: 2), child: Text(subtitle!, style: theme.textTheme.bodySmall, maxLines: 2, overflow: TextOverflow.ellipsis)),
+            Text(title, style: theme.textTheme.titleMedium?.copyWith(color: enabled ? g.ink : g.fog), maxLines: subtitleLines == null ? 2 : 1, overflow: TextOverflow.ellipsis),
+            if (subtitleLines != null)
+              Padding(
+                padding: const EdgeInsets.only(top: 2),
+                child: Stack(children: [
+                  // Invisible block of [subtitleLines] lines reserves the height.
+                  Opacity(opacity: 0, child: Text(List.filled(subtitleLines!, ' ').join('\n'), style: theme.textTheme.bodySmall)),
+                  Text(subtitle ?? '', style: theme.textTheme.bodySmall, maxLines: subtitleLines, overflow: TextOverflow.ellipsis),
+                ]),
+              )
+            else if (subtitle != null)
+              Padding(padding: const EdgeInsets.only(top: 2), child: Text(subtitle!, style: theme.textTheme.bodySmall, maxLines: 2, overflow: TextOverflow.ellipsis)),
             if (progress != null)
               Padding(
                 padding: const EdgeInsets.only(top: 10),
