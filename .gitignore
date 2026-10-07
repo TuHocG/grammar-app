@@ -47,5 +47,7 @@ app.*.map.json
 # Widget Preview related
 .widget_preview/
 
-# content data (download separately, see README)
-/data/
+# content: content/dataset is the source (committed); the DB is built from it and audio is downloaded
+/content/grammar.db
+/content/grammar.db-*
+/content/dataset/audio/

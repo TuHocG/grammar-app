@@ -12,7 +12,7 @@ import 'package:grammar/ui/exercises/exercise_runner.dart';
 
 void main() {
   group('grammar drills (real DB)', () {
-    final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
+    final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? 'content';
     final has = File('$dir/grammar.db').existsSync();
     test('drills belong to lessons by data.Muc position; type 3 is scramble', () {
       final db = ContentDb.open(dir);
@@ -31,7 +31,7 @@ void main() {
     }, skip: !has);
   });
 
-  final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
+  final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? 'content';
   final has = File('$dir/grammar.db').existsSync();
   late ContentDb db;
   late UserDb user;

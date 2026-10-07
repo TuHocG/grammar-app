@@ -18,9 +18,10 @@ import 'ui/widgets/type_to_search.dart';
 /// Development default; override with `--dart-define=GRAMMAR_DATA_DIR=...`.
 const _envDataDir = String.fromEnvironment('GRAMMAR_DATA_DIR');
 
-/// Development fallback: a `data/` folder in the working directory (repo root under `flutter run`).
+/// Development fallback: the repo's `content/` folder (cwd is the repo root under `flutter run`),
+/// once `python3 tool/content/pack.py` has built `content/grammar.db`.
 String? _localDataDir() {
-  final d = p.join(Directory.current.path, 'data');
+  final d = p.join(Directory.current.path, 'content');
   return File(p.join(d, 'grammar.db')).existsSync() ? d : null;
 }
 
@@ -60,6 +61,12 @@ Future<void> _start({String? error}) async {
     content = ContentDb.open(dir, key: _dbKey);
   } catch (e) {
     await _start(error: 'Không mở được grammar.db: $e');
+    return;
+  }
+  if (content.schemaVersion > ContentDb.supportedSchema) {
+    final v = content.schemaVersion;
+    content.close();
+    await _start(error: 'Dữ liệu nội dung dùng lược đồ $v, bản app này chỉ đọc được tới lược đồ ${ContentDb.supportedSchema}. Hãy cập nhật app.');
     return;
   }
   final settings = _userDb.allSettings();

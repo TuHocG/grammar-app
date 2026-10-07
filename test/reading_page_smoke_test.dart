@@ -22,7 +22,7 @@ import 'package:grammar/ui/widgets/word_tap_text.dart';
 BuildContext context(WidgetTester t) => t.element(find.byType(Scaffold).first);
 
 void main() {
-  final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
+  final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? 'content';
   final has = File('$dir/grammar.db').existsSync();
   late ContentDb db;
   late UserDb user;

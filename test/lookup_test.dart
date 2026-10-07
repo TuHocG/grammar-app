@@ -8,7 +8,7 @@ import 'package:grammar/data/search_key.dart';
 import 'package:grammar/domain/lookup.dart';
 
 void main() {
-  final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? r'D:\code\personal\grammar\dist';
+  final dir = Platform.environment['GRAMMAR_DATA_DIR'] ?? 'content';
   final has = File('$dir/grammar.db').existsSync();
   late ContentDb db;
   late LookupService lookup;

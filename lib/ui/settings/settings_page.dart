@@ -172,8 +172,9 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
             subtitle: Text(ref.read(contentDbProvider).dataDir),
           ),
           ListTile(
-            title: const Text('Nội dung'),
+            title: Text('Nội dung ${ref.read(contentDbProvider).contentVersion ?? '(chưa ghi phiên bản)'}'),
             subtitle: Text(
+              '${ref.read(contentDbProvider).contentDate != null ? 'Phát hành ${ref.read(contentDbProvider).contentDate} · ' : ''}'
               'Từ điển ${counts['dict_entry']} mục · Bài đọc ${counts['reading']} · Luyện nói ${counts['dialog']} · '
               'Văn phạm ${counts['grammar_lesson']} · Bài tập ${counts['exercise']} · Phụ đề ${counts['subtitle_film']} tập',
             ),

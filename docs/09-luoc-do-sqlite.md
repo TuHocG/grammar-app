@@ -1,12 +1,12 @@
 # Lược đồ SQLite cho app (`dist/grammar.db`)
 
-Sinh bằng `python -m etl pack-sqlite --dataset dist/dataset --out dist/grammar.db` (20 giây, 230 MB). Chỉ chứa **nội dung**; app tự tạo các bảng người dùng (mục 3). Ảnh và âm thanh là file trong `img/`, `audio/` cạnh DB; cột đường dẫn là tương đối. Cột JSON giữ nguyên cấu trúc như trong `dist/dataset` (xem `docs/05` phần B).
+Sinh bằng `python3 tool/content/pack.py` (từ `content/dataset` ra `content/grammar.db`; trước 2026-10-07 là `python -m etl pack-sqlite` của repo `grammar-legacy`) (20 giây, 230 MB). Chỉ chứa **nội dung**; app tự tạo các bảng người dùng (mục 3). Ảnh và âm thanh là file trong `img/`, `audio/` cạnh DB; cột đường dẫn là tương đối. Cột JSON giữ nguyên cấu trúc như trong `dist/dataset` (xem `docs/05` phần B).
 
 ## 1. Bảng nội dung
 
 | Bảng | Khoá | Cột chính | Ghi chú |
 |---|---|---|---|
-| `meta` | key | value | `counts`, `built`, `dialog_images` (JSON 16 ảnh), `media_note` |
+| `meta` | key | value | `content_version`, `content_date`, `schema_version` (từ `content/content.json`), `counts`, `built`, `dialog_images`, `dialog_page_images`, `exercise_group_size`, `media_note` |
 | `dict_entry` | id | headword, key, ipa, segs (JSON), quick (JSON) | 544.266 dòng; `key` = chữ thường bỏ dấu, có index; `dict_fts` (FTS5 trên headword) |
 | `quick_def` | key | word, ipa, respell, pos, vi | 12.787 nghĩa nhanh, tra theo `key` |
 | `reading_section` | sid | parent_sid, title, depth, position | cây mục lục 139 nút lá + nhóm |

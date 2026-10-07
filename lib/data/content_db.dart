@@ -40,6 +40,21 @@ class ContentDb {
   String mediaPath(String rel) => p.join(dataDir, 'dataset', rel);
   File mediaFile(String rel) => File(mediaPath(rel));
 
+  /// Highest `schema_version` of grammar.db this app understands (content/content.json `schema`).
+  static const supportedSchema = 1;
+
+  String? _meta(String key) {
+    final rows = _db.select('SELECT value FROM meta WHERE key = ?', [key]);
+    return rows.isEmpty ? null : rows.first['value'] as String;
+  }
+
+  /// Databases built before content versioning have no schema key: treat them as schema 1.
+  int get schemaVersion => int.tryParse(_meta('schema_version') ?? '') ?? 1;
+
+  /// Content release, e.g. "1.0.0" (content/content.json `version`); null for old databases.
+  String? get contentVersion => _meta('content_version');
+  String? get contentDate => _meta('content_date');
+
   Map<String, dynamic> get counts =>
       jsonDecode(_db.select('SELECT value FROM meta WHERE key = ?', ['counts']).first['value'] as String)
           as Map<String, dynamic>;
