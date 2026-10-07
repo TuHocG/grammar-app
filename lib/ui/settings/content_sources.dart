@@ -51,16 +51,36 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     if (mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(text)));
   }
 
+  /// Nearest existing folder at or above [dir]. The Windows picker throws (and opens nothing)
+  /// when its initial folder is missing, e.g. the default audio/ next to grammar.db before the
+  /// recordings are downloaded.
+  static String? _existingDir(String? dir) {
+    if (dir == null || dir.isEmpty) return null;
+    var d = p.normalize(p.absolute(dir));
+    while (!Directory(d).existsSync()) {
+      final parent = p.dirname(d);
+      if (parent == d) return null;
+      d = parent;
+    }
+    return d;
+  }
+
   // ---- lesson data ----------------------------------------------------------------------
 
   Future<void> _pickDatabase() async {
     final current = ref.read(contentDbProvider).dataDir;
-    final f = await FilePicker.pickFile(
-      dialogTitle: 'Chọn file dữ liệu grammar.db',
-      type: FileType.custom,
-      allowedExtensions: const ['db'],
-      initialDirectory: current,
-    );
+    final PlatformFile? f;
+    try {
+      f = await FilePicker.pickFile(
+        dialogTitle: 'Chọn file dữ liệu grammar.db',
+        type: FileType.custom,
+        allowedExtensions: const ['db'],
+        initialDirectory: _existingDir(current),
+      );
+    } catch (e) {
+      _snack('Không mở được hộp thoại chọn file: $e');
+      return;
+    }
     final path = f?.path;
     if (path == null || !mounted) return;
     if (p.basename(path).toLowerCase() != 'grammar.db') {
@@ -111,8 +131,14 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
   // ---- folders --------------------------------------------------------------------------
 
   Future<void> _pickFolder(String key, String title, String? initial) async {
-    final dir = await FilePicker.getDirectoryPath(dialogTitle: title, initialDirectory: initial);
-    if (dir == null) return;
+    final String? dir;
+    try {
+      dir = await FilePicker.getDirectoryPath(dialogTitle: title, initialDirectory: _existingDir(initial));
+    } catch (e) {
+      _snack('Không mở được hộp thoại chọn thư mục: $e');
+      return;
+    }
+    if (dir == null || !mounted) return;
     ref.read(userDbProvider).setSetting(key, dir);
     _refresh();
   }
