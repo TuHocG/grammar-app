@@ -16,6 +16,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
+import '../../data/media_locations.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
 import '../../data/reading_loader.dart';
@@ -73,7 +74,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
       _player = SentencePlayer(
         tts: ref.read(ttsProvider),
         reading: _reading!,
-        audioPath: _reading!.hasRealAudio ? db.mediaPath(_reading!.audio!) : null,
+        audioPath: _reading!.hasRealAudio ? audioPathFor(ref, _reading!.audio) : null,
       )..addListener(() {
           if (mounted) setState(() => _speaking = _player!.state == PlayerState.playing ? _player!.index : null);
         });

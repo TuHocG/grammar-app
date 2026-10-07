@@ -7,6 +7,7 @@ import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 
 import 'app/providers.dart';
+import 'app/restart.dart';
 import 'app/router.dart';
 import 'app/theme.dart';
 import 'data/content_db.dart';
@@ -31,11 +32,15 @@ const _dbKey = String.fromEnvironment('GRAMMAR_DB_KEY');
 
 late UserDb _userDb;
 
+/// The open lesson database; closed shortly after the bootstrap reopens another one.
+ContentDb? _content;
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   MediaKit.ensureInitialized();
   final support = await getApplicationSupportDirectory();
   _userDb = UserDb.open(p.join(support.path, 'user.db'));
+  restartApp = () => _start();
   await _start();
 }
 
@@ -56,6 +61,12 @@ Future<void> _start({String? error}) async {
     ));
     return;
   }
+  final previous = _content;
+  if (previous != null) {
+    // Pages of the old tree may still read it during the frame that swaps the app.
+    Future.delayed(const Duration(seconds: 2), previous.close);
+    _content = null;
+  }
   final ContentDb content;
   try {
     content = ContentDb.open(dir, key: _dbKey);
@@ -69,6 +80,7 @@ Future<void> _start({String? error}) async {
     await _start(error: 'Dữ liệu nội dung dùng lược đồ $v, bản app này chỉ đọc được tới lược đồ ${ContentDb.supportedSchema}. Hãy cập nhật app.');
     return;
   }
+  _content = content;
   final settings = _userDb.allSettings();
   final tts = TtsService();
   await tts.init(

@@ -22,7 +22,7 @@ Repo này chứa **mã nguồn app và nội dung bài học** (`content/`). Aud
    | `grammar4-audio.zip` (≈ 620 MB) | 119 bài đọc giọng thật (MP3/WAV) | `content/` (tạo ra `content/dataset/audio/`) |
    | Thư mục video (≈ 8,6 GB) | 210 tập MP4 có phụ đề (`A 01.mp4` …) | thư mục bất kỳ, chọn trong trang Video của app |
 
-   Không có audio thì các bài đó đọc bằng giọng máy; không có video thì trang Video báo thiếu file.
+   Không có audio thì các bài đó đọc bằng giọng máy; không có video thì trang Video báo thiếu file. Thư mục audio và thư mục video có thể đặt ở bất kỳ đâu rồi chọn trong **Cài Đặt → Dữ liệu**.
 4. Chạy:
 
    ```sh
@@ -32,6 +32,8 @@ Repo này chứa **mã nguồn app và nội dung bài học** (`content/`). Aud
    ```
 
    App tìm dữ liệu theo thứ tự: thư mục đã lưu trong Cài Đặt → `--dart-define=GRAMMAR_DATA_DIR=...` → `content/` trong thư mục làm việc → hỏi người dùng. Dữ liệu người dùng (từ đã lưu, tiến độ, bài tự nhập) nằm trong `user.db` ở thư mục hỗ trợ của app; Cài Đặt có xuất/khôi phục JSON.
+
+   **Cài Đặt → Dữ liệu** có ba mục, mỗi mục hiện tóm tắt những gì tìm thấy: *Dữ liệu bài học* (chọn file `grammar.db`; ảnh đọc từ `dataset/img` cạnh file; hiện phiên bản, ngày phát hành, số bài), *Âm thanh thực* (chọn thư mục chứa `1.mp3`, `2.wav`…; mặc định `dataset/audio` cạnh `grammar.db`; hiện số bài có file), *Video* (chọn thư mục chứa `A 01.mp4`…; hiện số tập có file).
 
 ## Sửa nội dung bài học
 

@@ -6,7 +6,6 @@
 /// the "Các Bài Âm Thanh Thực" reading; docs/08 L2), TTS only when a unit has none.
 library;
 
-import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -15,6 +14,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
+import '../../data/media_locations.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
@@ -88,9 +88,10 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     _items = db.listeningItems(widget.unit);
     _res = List.generate(_items.length, (_) => _Result());
     final r = db.listeningReading(widget.unit);
-    if (r != null && r.hasRealAudio && File(db.mediaPath(r.audio!)).existsSync()) {
+    final audio = r != null && r.hasRealAudio ? audioPathFor(ref, r.audio) : null;
+    if (r != null && audio != null) {
       _recording = r;
-      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: db.mediaPath(r.audio!));
+      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: audio);
     }
     if (_items.isNotEmpty) _go(0);
   }

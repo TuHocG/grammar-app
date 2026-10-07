@@ -14,6 +14,7 @@ import '../../app/providers.dart';
 import '../../data/backup.dart';
 import '../../platform/tts.dart';
 import '../widgets/shell.dart';
+import 'content_sources.dart';
 
 class SettingsPage extends ConsumerStatefulWidget {
   const SettingsPage({super.key});
@@ -91,7 +92,6 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
     final s = ref.watch(settingsProvider);
     final n = ref.read(settingsProvider.notifier);
     final tts = ref.read(ttsProvider);
-    final counts = ref.read(contentDbProvider).counts;
 
     return Scaffold(
       appBar: GrammarAppBar(title: const Text('Cài Đặt')),
@@ -167,18 +167,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
             onTap: _restore,
           ),
           const _Header('Dữ liệu'),
-          ListTile(
-            title: const Text('Thư mục dữ liệu'),
-            subtitle: Text(ref.read(contentDbProvider).dataDir),
-          ),
-          ListTile(
-            title: Text('Nội dung ${ref.read(contentDbProvider).contentVersion ?? '(chưa ghi phiên bản)'}'),
-            subtitle: Text(
-              '${ref.read(contentDbProvider).contentDate != null ? 'Phát hành ${ref.read(contentDbProvider).contentDate} · ' : ''}'
-              'Từ điển ${counts['dict_entry']} mục · Bài đọc ${counts['reading']} · Luyện nói ${counts['dialog']} · '
-              'Văn phạm ${counts['grammar_lesson']} · Bài tập ${counts['exercise']} · Phụ đề ${counts['subtitle_film']} tập',
-            ),
-          ),
+          const ContentSourcesSection(),
           const _Header('Giới thiệu'),
           const ListTile(
             title: Text('Grammar 4.0'),

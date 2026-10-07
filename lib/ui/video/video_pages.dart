@@ -14,31 +14,13 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:media_kit/media_kit.dart';
 import 'package:media_kit_video/media_kit_video.dart';
-import 'package:path/path.dart' as p;
 
 import '../../app/providers.dart';
 import '../../data/content_db_more.dart';
+import '../../data/media_locations.dart';
 import '../../data/models.dart';
 import '../widgets/word_tap_text.dart';
 import '../widgets/shell.dart';
-
-/// Finds the video file of an episode inside [dir]: "A 01.mp4", then the old "A  1.avi"
-/// spelling, then any file starting with the code (the old app accepted "F  1 Beauty….avi").
-File? findVideoFile(String dir, SubtitleFilm f) {
-  final d = Directory(dir);
-  if (!d.existsSync()) return null;
-  final cands = [f.mp4Name, f.video, f.mp4Name.replaceAll('.mp4', '.avi')];
-  for (final c in cands) {
-    final file = File(p.join(dir, c));
-    if (file.existsSync()) return file;
-  }
-  final parts = f.code.split(' ');
-  final re = RegExp('^${parts[0]}\\s+0*${parts[1]}(\\D|\$)', caseSensitive: false);
-  for (final e in d.listSync()) {
-    if (e is File && re.hasMatch(p.basename(e.path))) return e;
-  }
-  return null;
-}
 
 class VideoListPage extends ConsumerStatefulWidget {
   const VideoListPage({super.key});
@@ -48,13 +30,12 @@ class VideoListPage extends ConsumerStatefulWidget {
 
 class _VideoListPageState extends ConsumerState<VideoListPage> {
   String _group = 'A';
-  late final TextEditingController _dirCtl = TextEditingController(text: ref.read(userDbProvider).setting('video_dir') ?? '');
 
   @override
   Widget build(BuildContext context) {
     final db = ref.read(contentDbProvider);
     final films = db.films().where((f) => f.group == _group).toList();
-    final dir = ref.read(userDbProvider).setting('video_dir') ?? '';
+    final dir = videoDir(ref.read(userDbProvider)) ?? '';
     final theme = Theme.of(context);
     return Scaffold(
       appBar: GrammarAppBar(
@@ -62,22 +43,20 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
         actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/21'))],
       ),
       body: Column(children: [
-        Padding(
-          padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
-          child: TextField(
-            controller: _dirCtl,
-            decoration: InputDecoration(
-              labelText: 'Thư mục chứa video (A 01.mp4 … hoặc A  1.avi …)',
-              border: const OutlineInputBorder(),
-              isDense: true,
-              suffixIcon: IconButton(
-                icon: const Icon(Icons.check),
-                onPressed: () { ref.read(userDbProvider).setSetting('video_dir', _dirCtl.text.trim()); setState(() {}); },
+        if (dir.isEmpty || !Directory(dir).existsSync())
+          Padding(
+            padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
+            child: Material(
+              color: theme.colorScheme.secondaryContainer,
+              borderRadius: BorderRadius.circular(8),
+              child: ListTile(
+                leading: const Icon(Icons.movie_outlined),
+                title: Text(dir.isEmpty ? 'Chưa chọn thư mục video' : 'Không tìm thấy thư mục video'),
+                subtitle: const Text('Chọn thư mục chứa các file A 01.mp4 … trong Cài Đặt → Dữ liệu.'),
+                trailing: TextButton(onPressed: () async { await context.push('/settings'); setState(() {}); }, child: const Text('Mở Cài Đặt')),
               ),
             ),
-            onSubmitted: (v) { ref.read(userDbProvider).setSetting('video_dir', v.trim()); setState(() {}); },
           ),
-        ),
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 6),
           child: SegmentedButton<String>(
@@ -141,8 +120,8 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
     _film = db.film(widget.id);
     if (_film != null) {
       _lines = db.subtitleLines(_film!.id);
-      final dir = ref.read(userDbProvider).setting('video_dir') ?? '';
-      _file = dir.isEmpty ? null : findVideoFile(dir, _film!);
+      final dir = videoDir(ref.read(userDbProvider));
+      _file = dir == null ? null : findVideoFile(dir, _film!);
       _loop = int.tryParse(ref.read(userDbProvider).setting('video_loop') ?? '') ?? 0;
       if (_file != null) {
         _player.open(Media(_file!.path));
@@ -214,7 +193,7 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
         body: Center(
           child: Padding(
             padding: const EdgeInsets.all(24),
-            child: Text('Không tìm thấy file "${f.mp4Name}" (hoặc "${f.video}") trong thư mục video. Hãy chọn thư mục ở trang Video.', textAlign: TextAlign.center),
+            child: Text('Không tìm thấy file "${f.mp4Name}" (hoặc "${f.video}") trong thư mục video. Chọn thư mục video trong Cài Đặt → Dữ liệu.', textAlign: TextAlign.center),
           ),
         ),
       );
