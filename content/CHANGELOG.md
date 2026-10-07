@@ -1,0 +1,14 @@
+# Lịch sử nội dung
+
+Phiên bản nội dung `MAJOR.MINOR.PATCH` nằm trong `content/content.json`, được ghi vào `grammar.db` (bảng `meta`, khoá `content_version`) và hiện trong Cài Đặt của app.
+
+- **PATCH**: sửa chính tả, bản dịch, đáp án, lời giảng; không thêm bớt mục nào.
+- **MINOR**: thêm bài, câu, bài tập, mục từ điển; ID cũ giữ nguyên, ID mới cấp tiếp.
+- **MAJOR**: thay đổi phá vỡ tương thích. Nếu lược đồ DB đổi thì tăng cả `schema`, và app phải được cập nhật cùng lúc (app từ chối DB có `schema` lớn hơn bản nó hỗ trợ).
+
+Trước khi tăng phiên bản: `python3 tool/content/check.py` phải qua (không mất ID cũ).
+
+## 1.0.0 — 2026-10-07
+
+- Bản đầu tiên, chuyển nguyên vẹn từ Grammar 3.1 bằng ETL của repo `grammar-legacy` (giải mã 100 %, đối chiếu mã nguồn VB6).
+- 544.266 mục từ điển, 4.565 bài đọc, 2.641 bài luyện nói, 356 bài văn phạm, 49.557 bài tập, 3.901 từ gốc Word Forms, 1.142 câu luyện nghe, 12 bài phân tích câu, 155 chủ đề từ vựng tranh, 210 tập phụ đề, 30 bài hướng dẫn, 3.315 ảnh. Audio (119 bài) và video (210 tập) phân phối riêng.
