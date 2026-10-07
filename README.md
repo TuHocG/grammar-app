@@ -94,6 +94,29 @@ DESIGN.md                     tham chiếu phong cách giao diện
 - **DB mã hoá** (phát hành): `package:sqlite3` build biến thể SQLite3MultipleCiphers (`hooks` trong `pubspec.yaml`). Tạo DB: `dart run tool/encrypt_db.dart content/grammar.db out/grammar.db <khoá>`; build với `--dart-define=GRAMMAR_DB_KEY=<khoá> --obfuscate --split-debug-info=build/symbols`. Bản phát triển dùng DB thường, không cần khoá.
 - **Chụp màn hình tự động**: biến môi trường `GRAMMAR_INITIAL_ROUTE=/dict/word/ball` mở thẳng một màn hình.
 
+## Phát hành
+
+Bản phát hành gồm Windows, Android, macOS; chưa làm Linux, web và iOS. GitHub Actions (`.github/workflows/release.yml`) chạy khi đẩy tag `vX.Y.Z`. Workflow kiểm tra tag khớp `version:` trong `pubspec.yaml`, chạy check/analyze/test, build có `--obfuscate`, rồi tạo **bản nháp** GitHub Release kèm `Grammar-X.Y.Z-windows-x64.zip`, `-android.apk`/`.aab`, `-macos-universal.zip`. Symbol để giải mã stack trace nằm trong artifact `symbols-*` của lần chạy (giữ 90 ngày). Muốn build mà không tạo release thì chạy tay: Actions → Release → Run workflow, chọn nhánh, chọn `platform` (`all` hoặc một nền tảng, `data` để chỉ đóng gói dữ liệu), tuỳ chọn `skip_check` để bỏ job `check` (kiểm tra nội dung, analyze/test) khi chỉ cần build thử. Gói dữ liệu do job `data` đóng, chạy sau `check`. File build nằm ở mục Artifacts của lần chạy.
+
+Thiết lập một lần, trong GitHub → Settings → Environments → **`Release`** → Environment secrets. Các job của workflow khai báo `environment: Release` nên mới đọc được các secret này. Nếu environment có giới hạn nhánh/tag (Deployment branches and tags), phải cho phép `main` và tag `v*`; nếu bật Required reviewers thì mỗi lần chạy phải duyệt.
+
+| Secret | Giá trị |
+|---|---|
+| `ANDROID_KEYSTORE_BASE64` | keystore ký Android dạng base64 (`base64 -w0 release.jks`) |
+| `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD` | mật khẩu và alias của keystore |
+| `GRAMMAR_DB_KEY` | khoá mã hoá `grammar.db` (tuỳ chọn; app vẫn mở được DB thường) |
+
+Tạo keystore: `keytool -genkey -v -keystore release.jks -keyalg RSA -keysize 2048 -validity 10000 -alias grammar`. Cất keystore ở chỗ an toàn ngoài repo: mất nó thì không phát hành được bản cập nhật cho người đã cài. Muốn build có ký trên máy, tạo `android/key.properties` (đã gitignore) với `storeFile=`, `storePassword=`, `keyAlias=`, `keyPassword=`. Không có file này thì bản release ký bằng khoá debug.
+
+Các bước phát hành:
+
+1. Tăng `version:` trong `pubspec.yaml` (ví dụ `0.2.0+2`; số sau `+` là versionCode Android và phải tăng mỗi lần).
+2. Commit, rồi `git tag v0.2.0 && git push origin v0.2.0`.
+3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` với cùng `GRAMMAR_DB_KEY` và đính `grammar4-data-<phiên bản nội dung>.zip` (grammar.db đã mã hoá, ảnh trang tranh nằm trong DB, ảnh minh hoạ trong `img/`) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng giải nén gói rồi chọn `grammar.db` trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `GRAMMAR_DB_KEY=<khoá> python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive, người dùng chọn thư mục trong Cài Đặt.
+4. Mở bản nháp release, ghi chú gồm: link Drive tới audio và video; danh sách "cố ý khác" ở cuối docs/08; cách mở lần đầu (dưới đây). Sau đó Publish.
+
+Mở lần đầu: **Windows** giải nén rồi chạy `grammar.exe`; SmartScreen cảnh báo vì exe chưa ký, chọn More info → Run anyway. **macOS**: app chưa notarize, nên nhấp phải → Open, hoặc chạy `xattr -cr "Grammar 4.0.app"`. **Android**: cho phép cài từ nguồn không rõ.
+
 ## Tài liệu
 
 - [docs/07-ke-hoach-port.md](docs/07-ke-hoach-port.md) — kế hoạch, kiến trúc, mốc M1–M6, quyết định và cách bảo vệ nội dung.
