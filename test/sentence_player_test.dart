@@ -35,6 +35,9 @@ Reading reading(int n) => Reading(
     );
 
 void main() {
+  // TtsService builds the real backend (FlutterTts off Windows), which needs a binding.
+  TestWidgetsFlutterBinding.ensureInitialized();
+
   test('speakOnce reads one sentence and stops', () async {
     final tts = FakeTts();
     final p = SentencePlayer(tts: tts, reading: reading(5));
