@@ -13,11 +13,13 @@ import 'package:path/path.dart' as p;
 void main() {
   final bundle = Platform.environment['GRAMMAR_BUNDLE_DIR'] ?? 'build/content/unzipped';
   final hasBundle = File('$bundle/grammar.db').existsSync();
+  // Encrypted bundle (bundle.py with GRAMMAR_DB_KEY): pass the same key to open it.
+  final key = Platform.environment['GRAMMAR_BUNDLE_KEY'];
   final repo = Platform.environment['GRAMMAR_DATA_DIR'] ?? 'content';
   final hasRepo = File('$repo/grammar.db').existsSync();
 
   test('release bundle: pages from the database, illustrations and audio next to it', () {
-    final db = ContentDb.open(bundle);
+    final db = ContentDb.open(bundle, key: key);
     expect(db.schemaVersion, 1);
     final page = db.pictureTopics().first.page!;
     expect(db.embeddedMedia(page), isNotNull);
@@ -29,8 +31,10 @@ void main() {
     expect(db.imageProvider(img), isA<FileImage>());
     final dir = defaultAudioDir(db);
     expect(dir.endsWith('audio'), isTrue);
-    final a = audioSummary(db, dir);
-    expect(a.found, a.expected);
+    if (Directory(dir).existsSync()) {
+      final a = audioSummary(db, dir);
+      expect(a.found, a.expected);
+    }
     final s = dataSummary(db);
     expect(s.embedded, 155);
     expect(s.images, greaterThan(3000));

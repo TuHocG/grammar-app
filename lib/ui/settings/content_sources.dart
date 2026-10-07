@@ -9,6 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path/path.dart' as p;
 
+import '../../app/config.dart';
 import '../../app/providers.dart';
 import '../../app/restart.dart';
 import '../../data/content_db.dart';
@@ -71,7 +72,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     int schema;
     Map<String, dynamic> counts;
     try {
-      final probe = ContentDb.open(dir);
+      final probe = ContentDb.open(dir, key: grammarDbKey);
       version = probe.contentVersion;
       schema = probe.schemaVersion;
       counts = probe.counts;

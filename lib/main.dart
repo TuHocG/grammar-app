@@ -6,6 +6,7 @@ import 'package:media_kit/media_kit.dart';
 import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 
+import 'app/config.dart';
 import 'app/providers.dart';
 import 'app/restart.dart';
 import 'app/router.dart';
@@ -26,9 +27,6 @@ String? _localDataDir() {
   return File(p.join(d, 'grammar.db')).existsSync() ? d : null;
 }
 
-/// Key of the encrypted content database in release builds (`--dart-define=GRAMMAR_DB_KEY=...`,
-/// build with `--obfuscate`). Empty in development, where the database is plain.
-const _dbKey = String.fromEnvironment('GRAMMAR_DB_KEY');
 
 late UserDb _userDb;
 
@@ -69,7 +67,7 @@ Future<void> _start({String? error}) async {
   }
   final ContentDb content;
   try {
-    content = ContentDb.open(dir, key: _dbKey);
+    content = ContentDb.open(dir, key: grammarDbKey);
   } catch (e) {
     await _start(error: 'Không mở được grammar.db: $e');
     return;

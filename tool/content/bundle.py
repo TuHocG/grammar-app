@@ -3,6 +3,7 @@
     python3 tool/content/bundle.py                      # pack, then build/content/grammar4-data-<version>.zip
     python3 tool/content/bundle.py --audio DIR          # also grammar4-audio-<version>.zip from DIR (1.mp3 …)
     python3 tool/content/bundle.py --no-pack            # reuse content/grammar.db as is
+    GRAMMAR_DB_KEY=… python3 tool/content/bundle.py     # encrypt grammar.db (same key as the app build)
 
 Layout inside the data zip (unzip anywhere, then pick grammar.db in Cài Đặt → Dữ liệu):
 
@@ -12,7 +13,9 @@ Layout inside the data zip (unzip anywhere, then pick grammar.db in Cài Đặt 
 
 The audio zip holds `audio/<n>.mp3|wav`: unzip it into the same folder, next to grammar.db (or pick
 the folder in Cài Đặt → Dữ liệu → Âm thanh thực). content/dataset/ is the repo's source layout only.
-Outputs also a SHA-256 list (build/content/SHA256SUMS.txt).
+With a key (--key or env GRAMMAR_DB_KEY) the zipped grammar.db is encrypted with SQLite3MultipleCiphers
+(tool/encrypt_db.dart, needs the Dart SDK); only an app built with the same --dart-define=GRAMMAR_DB_KEY
+opens it. Outputs also a SHA-256 list (build/content/SHA256SUMS.txt).
 """
 from __future__ import annotations
 
@@ -43,6 +46,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument('--no-pack', action='store_true', help='do not rebuild content/grammar.db first')
     ap.add_argument('--audio', type=Path, help='folder with the real-voice recordings (1.mp3, 2.wav …)')
+    ap.add_argument('--key', default=os.environ.get('GRAMMAR_DB_KEY', ''), help='encrypt grammar.db (default: env GRAMMAR_DB_KEY)')
     a = ap.parse_args()
 
     if not a.no_pack:
@@ -59,12 +63,20 @@ def main() -> int:
     version = meta.get('content_version') or 'dev'
 
     OUT.mkdir(parents=True, exist_ok=True)
+    shipped_db = db
+    if a.key:
+        shipped_db = OUT / 'grammar.encrypted.db'
+        dart = 'dart.bat' if os.name == 'nt' else 'dart'
+        r = subprocess.run([dart, 'run', 'tool/encrypt_db.dart', str(db), str(shipped_db), a.key], cwd=ROOT)
+        if r.returncode:
+            print('encryption failed')
+            return r.returncode
     outputs: list[Path] = []
     data_zip = OUT / f'grammar4-data-{version}.zip'
     img_root = CONTENT / 'dataset' / 'img'
     n_img = 0
     with zipfile.ZipFile(data_zip, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
-        z.write(db, 'grammar.db')
+        z.write(shipped_db, 'grammar.db')
         for dirpath, _, files in os.walk(img_root):
             for name in sorted(files):
                 full = Path(dirpath) / name
@@ -74,7 +86,9 @@ def main() -> int:
                 z.write(full, rel, compress_type=zipfile.ZIP_STORED)   # WebP is already compressed
                 n_img += 1
     outputs.append(data_zip)
-    print(f'{data_zip.name}: grammar.db (content {version}, schema {meta.get("schema_version")}, '
+    if shipped_db != db:
+        shipped_db.unlink()
+    print(f'{data_zip.name}: grammar.db ({"encrypted, " if a.key else ""}content {version}, schema {meta.get("schema_version")}, '
           f'{len(embedded)} pictures embedded) + {n_img} illustrations in img/')
 
     if a.audio:
@@ -93,6 +107,7 @@ def main() -> int:
         print(f'  {p.stat().st_size / 2**20:7.1f} MB  {line[:16]}…  {p.name}')
     (OUT / 'bundle.json').write_text(json.dumps({
         'content_version': version, 'schema_version': meta.get('schema_version'), 'content_date': meta.get('content_date'),
+        'encrypted': bool(a.key),
         'files': {p.name: {'bytes': p.stat().st_size, 'sha256': l.split()[0]} for p, l in zip(outputs, lines)},
     }, indent=1) + '\n', encoding='utf-8')
     return 0
