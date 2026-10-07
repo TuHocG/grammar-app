@@ -65,7 +65,7 @@ class AnalysisListPage extends ConsumerWidget {
                       width: 72,
                       height: 56,
                       child: r.img != null
-                          ? Image.file(db.mediaFile(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.manage_search, size: 56))
+                          ? Image(image: db.imageProvider(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.manage_search, size: 56))
                           : const IconTile(Icons.manage_search, size: 56),
                     ),
                   ),

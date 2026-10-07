@@ -31,7 +31,7 @@ Widget _thumb(ContentDb db, int n, {double width = 56, double height = 56}) {
       height: height,
       child: img == null
           ? IconTile(Icons.record_voice_over_outlined, size: height)
-          : Image.file(db.mediaFile(img), fit: BoxFit.cover, errorBuilder: (_, _, _) => IconTile(Icons.record_voice_over_outlined, size: height)),
+          : Image(image: db.imageProvider(img), fit: BoxFit.cover, errorBuilder: (_, _, _) => IconTile(Icons.record_voice_over_outlined, size: height)),
     ),
   );
 }
@@ -235,7 +235,7 @@ class _DialogPageState extends ConsumerState<DialogPage> {
               borderRadius: BorderRadius.circular(Tokens.radiusCard),
               child: ConstrainedBox(
                 constraints: const BoxConstraints(maxHeight: 260),
-                child: Image.file(db.mediaFile(img), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
+                child: Image(image: db.imageProvider(img), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
               ),
             ),
           ),

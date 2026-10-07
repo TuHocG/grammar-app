@@ -1,0 +1,102 @@
+"""Package the content for users: one zip with grammar.db and the illustrations folder next to it.
+
+    python3 tool/content/bundle.py                      # pack, then build/content/grammar4-data-<version>.zip
+    python3 tool/content/bundle.py --audio DIR          # also grammar4-audio-<version>.zip from DIR (1.mp3 …)
+    python3 tool/content/bundle.py --no-pack            # reuse content/grammar.db as is
+
+Layout inside the data zip (unzip anywhere, then pick grammar.db in Cài Đặt → Dữ liệu):
+
+    grammar.db          lessons + the required Từ Vựng Tranh pages (table media)
+    img/readings/…      reading illustrations   (optional: lessons work without them)
+    img/dialogs/…       Luyện Nói pictures       (optional)
+
+The audio zip holds `audio/<n>.mp3|wav`: unzip it into the same folder, next to grammar.db (or pick
+the folder in Cài Đặt → Dữ liệu → Âm thanh thực). content/dataset/ is the repo's source layout only.
+Outputs also a SHA-256 list (build/content/SHA256SUMS.txt).
+"""
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import os
+import sqlite3
+import subprocess
+import sys
+import zipfile
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+CONTENT = ROOT / 'content'
+OUT = ROOT / 'build' / 'content'
+
+
+def _sha256(p: Path) -> str:
+    h = hashlib.sha256()
+    with p.open('rb') as f:
+        for chunk in iter(lambda: f.read(1 << 20), b''):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument('--no-pack', action='store_true', help='do not rebuild content/grammar.db first')
+    ap.add_argument('--audio', type=Path, help='folder with the real-voice recordings (1.mp3, 2.wav …)')
+    a = ap.parse_args()
+
+    if not a.no_pack:
+        for tool in ('check.py', 'pack.py'):
+            r = subprocess.run([sys.executable, str(ROOT / 'tool' / 'content' / tool)])
+            if r.returncode:
+                return r.returncode
+    db = CONTENT / 'grammar.db'
+    con = sqlite3.connect(f'file:{db}?mode=ro', uri=True)
+    meta = dict(con.execute('SELECT key, value FROM meta').fetchall())
+    embedded = {p for (p,) in con.execute('SELECT path FROM media')} if con.execute(
+        "SELECT 1 FROM sqlite_master WHERE name = 'media'").fetchone() else set()
+    con.close()
+    version = meta.get('content_version') or 'dev'
+
+    OUT.mkdir(parents=True, exist_ok=True)
+    outputs: list[Path] = []
+    data_zip = OUT / f'grammar4-data-{version}.zip'
+    img_root = CONTENT / 'dataset' / 'img'
+    n_img = 0
+    with zipfile.ZipFile(data_zip, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
+        z.write(db, 'grammar.db')
+        for dirpath, _, files in os.walk(img_root):
+            for name in sorted(files):
+                full = Path(dirpath) / name
+                rel = 'img/' + full.relative_to(img_root).as_posix()
+                if rel in embedded:
+                    continue   # already inside grammar.db
+                z.write(full, rel, compress_type=zipfile.ZIP_STORED)   # WebP is already compressed
+                n_img += 1
+    outputs.append(data_zip)
+    print(f'{data_zip.name}: grammar.db (content {version}, schema {meta.get("schema_version")}, '
+          f'{len(embedded)} pictures embedded) + {n_img} illustrations in img/')
+
+    if a.audio:
+        audio_zip = OUT / f'grammar4-audio-{version}.zip'
+        files = sorted(f for f in a.audio.iterdir() if f.suffix.lower() in ('.mp3', '.wav'))
+        with zipfile.ZipFile(audio_zip, 'w', zipfile.ZIP_STORED) as z:
+            for f in files:
+                z.write(f, f'audio/{f.name}')
+        outputs.append(audio_zip)
+        print(f'{audio_zip.name}: {len(files)} recordings in audio/')
+
+    sums = OUT / 'SHA256SUMS.txt'
+    lines = [f'{_sha256(p)}  {p.name}' for p in outputs]
+    sums.write_text('\n'.join(lines) + '\n', encoding='utf-8')
+    for p, line in zip(outputs, lines):
+        print(f'  {p.stat().st_size / 2**20:7.1f} MB  {line[:16]}…  {p.name}')
+    (OUT / 'bundle.json').write_text(json.dumps({
+        'content_version': version, 'schema_version': meta.get('schema_version'), 'content_date': meta.get('content_date'),
+        'files': {p.name: {'bytes': p.stat().st_size, 'sha256': l.split()[0]} for p, l in zip(outputs, lines)},
+    }, indent=1) + '\n', encoding='utf-8')
+    return 0
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())

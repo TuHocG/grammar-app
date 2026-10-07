@@ -194,7 +194,7 @@ class ReadingListPage extends ConsumerWidget {
                         width: 56,
                         height: 56,
                         child: r.img != null
-                            ? Image.file(db.mediaFile(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.menu_book_outlined, size: 56))
+                            ? Image(image: db.imageProvider(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.menu_book_outlined, size: 56))
                             : const IconTile(Icons.menu_book_outlined, size: 56),
                       ),
                     ),

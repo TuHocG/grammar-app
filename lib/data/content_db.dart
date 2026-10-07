@@ -3,7 +3,9 @@ library;
 
 import 'dart:convert';
 import 'dart:io';
+import 'dart:typed_data';
 
+import 'package:flutter/painting.dart';
 import 'package:path/path.dart' as p;
 import 'package:sqlite3/sqlite3.dart';
 
@@ -37,8 +39,36 @@ class ContentDb {
   /// Raw handle for query extensions in other files (read-only database).
   Database get raw => _db;
 
-  String mediaPath(String rel) => p.join(dataDir, 'dataset', rel);
+  /// File of a relative content path (`img/readings/x.webp`, `audio/1.mp3`): `<dir>/img/…` next to
+  /// grammar.db in a release bundle, `<dir>/dataset/img/…` in the repo's content/ folder.
+  String mediaPath(String rel) {
+    final release = p.join(dataDir, rel);
+    if (File(release).existsSync()) return release;
+    return p.join(dataDir, 'dataset', rel);
+  }
+
   File mediaFile(String rel) => File(mediaPath(rel));
+
+  late final bool _hasMediaTable =
+      _db.select("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'media'").isNotEmpty;
+  final Map<String, Uint8List?> _embedded = {};
+
+  /// Picture stored inside grammar.db (the Từ Vựng Tranh pages), or null.
+  Uint8List? embeddedMedia(String rel) {
+    if (!_hasMediaTable) return null;
+    return _embedded.putIfAbsent(rel, () {
+      final rows = _db.select('SELECT data FROM media WHERE path = ?', [rel]);
+      return rows.isEmpty ? null : rows.first['data'] as Uint8List;
+    });
+  }
+
+  int get embeddedMediaCount => _hasMediaTable ? _db.select('SELECT COUNT(*) AS n FROM media').first['n'] as int : 0;
+
+  /// Image of a relative content path: from the database when embedded, else from the file.
+  ImageProvider imageProvider(String rel) {
+    final bytes = embeddedMedia(rel);
+    return bytes != null ? MemoryImage(bytes) : FileImage(mediaFile(rel));
+  }
 
   /// Highest `schema_version` of grammar.db this app understands (content/content.json `schema`).
   static const supportedSchema = 1;

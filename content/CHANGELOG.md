@@ -12,3 +12,4 @@ Trước khi tăng phiên bản: `python3 tool/content/check.py` phải qua (kh�
 
 - Bản đầu tiên, chuyển nguyên vẹn từ Grammar 3.1 bằng ETL của repo `grammar-legacy` (giải mã 100 %, đối chiếu mã nguồn VB6).
 - 544.266 mục từ điển, 4.565 bài đọc, 2.641 bài luyện nói, 356 bài văn phạm, 49.557 bài tập, 3.901 từ gốc Word Forms, 1.142 câu luyện nghe, 12 bài phân tích câu, 155 chủ đề từ vựng tranh, 210 tập phụ đề, 30 bài hướng dẫn, 3.315 ảnh. Audio (119 bài) và video (210 tập) phân phối riêng.
+- `grammar.db` chứa luôn 155 trang Từ Vựng Tranh (bảng `media`) vì tiêu điểm vẽ trên các trang này; ảnh minh hoạ và ghi âm vẫn là file, được `tool/content/bundle.py` đặt trong `img/` và `audio/` cạnh `grammar.db`.

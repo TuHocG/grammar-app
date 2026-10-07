@@ -5,8 +5,12 @@
 
 Standalone (Python 3.11+, stdlib only). Schema: grammar4/docs/09. The content version and the
 schema version come from content/content.json and are written into the `meta` table, where the app reads
-them (`content_version`, `schema_version`). Media (img/, audio/) stay as files next to the database;
-paths in the DB are relative to content/dataset/.
+them (`content_version`, `schema_version`).
+
+Pictures the lessons cannot work without (the Từ Vựng Tranh pages: hotspots are drawn on them) are
+embedded in the `media` table. Illustrations (readings, dialogs) and recordings stay files;
+the DB keeps their relative paths (`img/readings/x.webp`, `audio/1.mp3`). In a release they sit in
+`img/` and `audio/` next to grammar.db (tool/content/bundle.py); in the repo they are under content/dataset/.
 """
 from __future__ import annotations
 
@@ -30,6 +34,8 @@ def search_key(headword: str) -> str:
 SCHEMA = """
 PRAGMA page_size = 4096;
 CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
+-- Required pictures, stored in the DB; looked up by the same relative path the content uses.
+CREATE TABLE media (path TEXT PRIMARY KEY, mime TEXT NOT NULL, data BLOB NOT NULL);
 
 CREATE TABLE dict_entry (
   id INTEGER PRIMARY KEY,          -- order in datatu.txt
@@ -110,6 +116,27 @@ def _j(obj) -> str:
 
 def _load(path: Path):
     return json.loads(path.read_text(encoding='utf-8'))
+
+
+# Relative path prefixes of pictures that must travel inside grammar.db.
+EMBED_PREFIXES = ('img/pages/',)
+MIME = {'.webp': 'image/webp', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png'}
+
+
+def embed_required_media(cur, dataset: Path) -> tuple[int, int]:
+    """Copy the required pictures referenced by the content into the media table."""
+    paths = sorted({p for (p,) in cur.execute('SELECT page FROM picture_topic WHERE page IS NOT NULL')
+                    if p.startswith(EMBED_PREFIXES)})
+    n = size = 0
+    for rel in paths:
+        f = dataset / rel
+        if not f.is_file():
+            raise SystemExit(f'required picture missing: {f}')
+        data = f.read_bytes()
+        cur.execute('INSERT INTO media VALUES (?,?,?)', (rel, MIME.get(f.suffix.lower(), 'application/octet-stream'), data))
+        n += 1
+        size += len(data)
+    return n, size
 
 
 def pack(dataset: Path, out: Path, content: dict) -> None:
@@ -235,6 +262,9 @@ def pack(dataset: Path, out: Path, content: dict) -> None:
     for tbl in ('listening_item', 'analysis_lesson', 'picture_topic', 'subtitle_film', 'subtitle_line', 'help_topic'):
         counts[tbl] = cur.execute(f'SELECT count(*) FROM {tbl}').fetchone()[0]
 
+    n_media, media_bytes = embed_required_media(cur, dataset)
+    counts['media'] = n_media
+
     # ---- full-text indexes and metadata
     cur.execute("INSERT INTO dict_fts(dict_fts) VALUES ('rebuild')")
     cur.execute("INSERT INTO reading_sentence_fts(reading_sentence_fts) VALUES ('rebuild')")
@@ -245,7 +275,7 @@ def pack(dataset: Path, out: Path, content: dict) -> None:
         ('content_date', content.get('date', '')),
         ('built', time.strftime('%Y-%m-%dT%H:%M:%S')),
         ('counts', _j(counts)),
-        ('media_note', 'img/ and audio/ are files under dataset/ next to this database; paths are relative'),
+        ('media_note', 'img/pages/* embedded in table media; other img/ and audio/ paths are files in img/ and audio/ next to this database (repo: content/dataset/)'),
     ])
     con.commit()
     con.execute('VACUUM')

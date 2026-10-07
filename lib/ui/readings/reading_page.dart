@@ -180,7 +180,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
               borderRadius: BorderRadius.circular(Tokens.radiusCard),
               child: ConstrainedBox(
                 constraints: const BoxConstraints(maxHeight: 300),
-                child: Image.file(isUser ? File(r.img!) : db.mediaFile(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
+                child: Image(image: isUser ? FileImage(File(r.img!)) : db.imageProvider(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
               ),
             ),
           ),

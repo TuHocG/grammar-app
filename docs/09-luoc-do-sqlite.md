@@ -21,12 +21,17 @@ Sinh bằng `python3 tool/content/pack.py` (từ `content/dataset` ra `content/g
 | `wordform_root` | position | root, start, n, common | 3.901 từ gốc; `start` 1-based trong menu WORD FORMS; `common` = có trong danh sách thông dụng |
 | `listening_item` | id | unit, n, en, correct, options (JSON) | 1.142 |
 | `analysis_lesson` | id | words (JSON) | 12 |
-| `picture_topic` | id | title, first, words (JSON có `xy`, `img`), page | 155 |
+| `picture_topic` | id | title, first, words (JSON có `xy`, `img`), page | 155; `page` (`img/pages/<n>.webp`) có ảnh nằm trong bảng `media` |
+| `media` | path | mime, data (BLOB) | Ảnh bắt buộc nhúng trong DB, tra theo đúng đường dẫn tương đối nội dung dùng. Hiện là 155 trang Từ Vựng Tranh (28 MB): tiêu điểm vẽ trên các trang này nên không thể thiếu. |
 | `subtitle_film` | id | code, grp, title, first_line, video, duration, lines | 210 |
 | `subtitle_line` | (film_id, idx) | s, e, en, vi | 34.671 |
 | `help_topic` | id | title, text | 30 |
 
 Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ? AND key < ?` 1,7 ms; `dict_fts MATCH` 2,5 ms.
+
+**File ngoài DB.** Ảnh minh hoạ (`reading.img`, ảnh luyện nói trong `meta`) và ghi âm (`reading.audio`) không nằm trong DB; DB giữ đường dẫn tương đối `img/...`, `audio/...`. App tìm file ở `<thư mục chứa grammar.db>/img/...` (bản phát hành do `tool/content/bundle.py` đóng gói), nếu không có thì ở `<thư mục>/dataset/img/...` (cấu trúc `content/` trong repo). Thiếu ảnh minh hoạ thì bài học vẫn dùng được; thiếu ghi âm thì đọc bằng giọng máy.
+
+**Lược đồ.** 1: bản đầu. App đọc được lược đồ ≤ `ContentDb.supportedSchema` (= 1); DB không có bảng `media` vẫn mở được, khi đó ảnh trang tranh lấy từ file.
 
 ## 2. Quy ước tra từ
 

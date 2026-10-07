@@ -55,7 +55,7 @@ class PictureTopicsPage extends ConsumerWidget {
                       height: 56,
                       child: t.page == null
                           ? const IconTile(Icons.image_outlined, size: 56)
-                          : Image.file(db.mediaFile(t.page!), fit: BoxFit.cover, cacheWidth: 112, errorBuilder: (_, _, _) => const IconTile(Icons.image_outlined, size: 56)),
+                          : Image(image: ResizeImage(db.imageProvider(t.page!), width: 112), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.image_outlined, size: 56)),
                     ),
                   ),
                   title: t.title,
@@ -98,7 +98,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
     ref.read(userDbProvider).setProgress('pictures', 'last', '${widget.id}');
     final page = _topic?.page;
     if (page != null) {
-      final provider = FileImage(ref.read(contentDbProvider).mediaFile(page));
+      final provider = ref.read(contentDbProvider).imageProvider(page);
       provider.resolve(const ImageConfiguration()).addListener(ImageStreamListener((info, _) {
         if (mounted) setState(() => _imgSize = Size(info.image.width.toDouble(), info.image.height.toDouble()));
       }));
@@ -263,7 +263,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
                         child: InteractiveViewer(
                           maxScale: 4,
                           child: Stack(children: [
-                            Image.file(db.mediaFile(t.page!), width: w, height: h, fit: BoxFit.fill),
+                            Image(image: db.imageProvider(t.page!), width: w, height: h, fit: BoxFit.fill),
                             for (var k = 0; k < t.words.length; k++)
                               if (t.words[k].hasSpot)
                                 // `xy` is the top-left of the old app's 17 px circle

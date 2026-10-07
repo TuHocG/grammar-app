@@ -46,6 +46,24 @@ Nguồn nội dung là các file trong `content/dataset/` (JSON có cấu trúc,
 
 Phiên bản nội dung được ghi vào `grammar.db` (bảng `meta`: `content_version`, `content_date`, `schema_version`) và hiện ở Cài Đặt → Dữ liệu. Nếu đổi lược đồ DB thì tăng `schema` trong `content.json` và `ContentDb.supportedSchema` trong app cùng lúc; app từ chối DB có lược đồ mới hơn nó.
 
+## Đóng gói dữ liệu cho người dùng
+
+```sh
+python3 tool/content/bundle.py                         # check + pack + zip -> build/content/
+python3 tool/content/bundle.py --audio <thư mục 1.mp3…>  # kèm gói giọng đọc thật
+```
+
+Kết quả trong `build/content/` (kèm `SHA256SUMS.txt`, `bundle.json`). Người dùng giải nén vào một thư mục bất kỳ rồi chọn `grammar.db` trong Cài Đặt → Dữ liệu:
+
+```
+grammar.db        bài học + 155 trang Từ Vựng Tranh (nhúng trong DB, bảng media)
+img/readings/…    ảnh minh hoạ bài đọc  (tuỳ chọn)
+img/dialogs/…     ảnh luyện nói        (tuỳ chọn)
+audio/…           giọng đọc thật, từ gói audio giải nén vào cùng thư mục (tuỳ chọn)
+```
+
+Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc.
+
 ## Cấu trúc
 
 ```
@@ -61,6 +79,7 @@ windows/runner/sapi_tts.cpp   TTS SAPI cho Windows
 content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); content.json phiên bản; ids.json ID ổn định; CHANGELOG.md
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung
+tool/content/bundle.py        đóng gói bản phát hành: grammar4-data-<phiên bản>.zip (grammar.db + img/), grammar4-audio-<phiên bản>.zip (audio/)
 tool/encrypt_db.dart          mã hoá grammar.db cho bản phát hành
 docs/                         kế hoạch port (07), ma trận truy vết hành vi app gốc (08), lược đồ SQLite (09)
 DESIGN.md                     tham chiếu phong cách giao diện

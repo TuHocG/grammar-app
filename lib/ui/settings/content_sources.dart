@@ -85,7 +85,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
       return;
     }
     if (!mounted) return;
-    final hasImages = Directory(p.join(dir, 'dataset', 'img')).existsSync();
+    final hasImages = Directory(illustrationsDir(dir)).existsSync();
     final ok = await showDialog<bool>(
       context: context,
       builder: (c) => AlertDialog(
@@ -93,7 +93,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
         content: Text(
           '$path\n\n'
           'Bài đọc ${counts['reading']} · Luyện nói ${counts['dialog']} · Bài tập ${counts['exercise']}\n'
-          '${hasImages ? 'Có thư mục ảnh dataset/img cạnh file.' : 'Không thấy thư mục ảnh dataset/img cạnh file: bài học sẽ không có ảnh.'}\n\n'
+          '${hasImages ? 'Có thư mục ảnh minh hoạ img/ cạnh file.' : 'Không thấy thư mục ảnh minh hoạ img/ cạnh file: bài đọc sẽ không có ảnh minh hoạ (ảnh Từ vựng tranh nằm sẵn trong file).'}\n\n'
           'App sẽ mở lại trang chủ với dữ liệu này.',
         ),
         actions: [
@@ -160,7 +160,8 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
                     if (d.date != null && d.date!.isNotEmpty) 'Phát hành ${d.date}',
                     formatBytes(d.dbBytes),
                     'lược đồ ${d.schema}',
-                    '${d.images} ảnh',
+                    if (d.embedded > 0) '${d.embedded} ảnh tranh trong file',
+                    '${d.images} ảnh minh hoạ',
                   ].join(' · '),
                   style: muted,
                 ),

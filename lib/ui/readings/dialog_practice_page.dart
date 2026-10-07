@@ -210,7 +210,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
             Center(
               child: ConstrainedBox(
                 constraints: const BoxConstraints(maxHeight: 200),
-                child: ClipRRect(borderRadius: BorderRadius.circular(12), child: Image.file(db.mediaFile(_image!), errorBuilder: (_, _, _) => const SizedBox.shrink())),
+                child: ClipRRect(borderRadius: BorderRadius.circular(12), child: Image(image: db.imageProvider(_image!), errorBuilder: (_, _, _) => const SizedBox.shrink())),
               ),
             ),
           const SizedBox(height: 16),

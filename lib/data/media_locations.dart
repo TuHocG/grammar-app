@@ -20,7 +20,21 @@ import 'user_db.dart';
 const audioDirKey = 'audio_dir';
 const videoDirKey = 'video_dir';
 
-String defaultAudioDir(ContentDb db) => p.join(db.dataDir, 'dataset', 'audio');
+/// `audio/` next to grammar.db (release bundle), or `dataset/audio/` (repo content/ folder).
+String defaultAudioDir(ContentDb db) {
+  final release = p.join(db.dataDir, 'audio');
+  final repo = p.join(db.dataDir, 'dataset', 'audio');
+  if (!Directory(release).existsSync() && Directory(repo).existsSync()) return repo;
+  return release;
+}
+
+/// Illustrations folder: `img/` next to grammar.db, or `dataset/img/` in the repo.
+String illustrationsDir(String dataDir) {
+  final release = p.join(dataDir, 'img');
+  final repo = p.join(dataDir, 'dataset', 'img');
+  if (!Directory(release).existsSync() && Directory(repo).existsSync()) return repo;
+  return release;
+}
 
 String audioDir(ContentDb db, UserDb user) {
   final s = user.setting(audioDirKey);
@@ -73,14 +87,20 @@ class DataSummary {
   final String? date;
   final int schema;
   final Map<String, dynamic> counts;
-  final int images;          // files under dataset/img
-  const DataSummary({required this.dbPath, required this.dbBytes, this.version, this.date, required this.schema, required this.counts, required this.images});
+  final int images;          // illustration files in img/ (or dataset/img/)
+  final int embedded;        // pictures stored inside grammar.db
+  const DataSummary({required this.dbPath, required this.dbBytes, this.version, this.date, required this.schema, required this.counts, required this.images, required this.embedded});
 }
 
 DataSummary dataSummary(ContentDb db) {
   final file = File(p.join(db.dataDir, 'grammar.db'));
-  final img = Directory(p.join(db.dataDir, 'dataset', 'img'));
-  final images = img.existsSync() ? img.listSync(recursive: true).whereType<File>().length : 0;
+  final img = Directory(illustrationsDir(db.dataDir));
+  final embeddedPaths = <String>{
+    if (db.embeddedMediaCount > 0) for (final r in db.raw.select('SELECT path FROM media')) r['path'] as String,
+  };
+  final images = img.existsSync()
+      ? img.listSync(recursive: true).whereType<File>().where((f) => !embeddedPaths.contains('img/${p.posix.joinAll(p.split(p.relative(f.path, from: img.path)))}')).length
+      : 0;
   return DataSummary(
     dbPath: file.path,
     dbBytes: file.existsSync() ? file.lengthSync() : 0,
@@ -89,6 +109,7 @@ DataSummary dataSummary(ContentDb db) {
     schema: db.schemaVersion,
     counts: db.counts,
     images: images,
+    embedded: embeddedPaths.length,
   );
 }
 
