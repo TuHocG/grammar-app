@@ -6,8 +6,9 @@
 Why: the app's user.db stores the learner's state by content id — saved dialog sentences (dialog
 id + pair index), picked picture hotspots (topic id + word index), Word Forms marks (root
 position), last reading / lesson / topic opened, exercise progress (menu index). An edit may add
-ids; it must never remove an id, renumber, or put a different item behind an existing id. To
-retire an item, keep its id rather than deleting it.
+ids; it must never remove an id, renumber, or put a different item behind an existing id. An item
+that really has to go is listed in content/retired.json: its id is then allowed to disappear and is
+never reused.
 """
 from __future__ import annotations
 
@@ -19,6 +20,8 @@ from pathlib import Path
 CONTENT = Path(__file__).resolve().parents[2] / 'content'
 DS = CONTENT / 'dataset'
 SNAPSHOT = CONTENT / 'ids.json'
+# Ids deliberately retired (never reused): {"readings": [...], "reading_sections": [...], ...}
+RETIRED = CONTENT / 'retired.json'
 
 
 def _j(p: Path):
@@ -70,11 +73,15 @@ def collect() -> tuple[dict, list[str]]:
     return ids, errs
 
 
-def compare(old: dict, new: dict) -> tuple[list[str], list[str]]:
+def compare(old: dict, new: dict, retired: dict | None = None) -> tuple[list[str], list[str]]:
     bad: list[str] = []
     warn: list[str] = []
+    retired = retired or {}
     for key in ('reading_sections', 'readings', 'dialog_topics', 'grammar_lessons', 'listening_units', 'analysis'):
-        gone = sorted(set(old.get(key, [])) - set(new[key]))
+        gone = sorted(set(old.get(key, [])) - set(new[key]) - set(retired.get(key, [])))
+        reused = sorted(set(retired.get(key, [])) & set(new[key]))
+        if reused:
+            bad.append(f'{key}: retired ids reused {reused[:20]}')
         if gone:
             bad.append(f'{key}: removed ids {gone[:20]}{" …" if len(gone) > 20 else ""}')
     for did, n in old.get('dialogs', {}).items():
@@ -119,7 +126,8 @@ def main() -> int:
     except (OSError, ValueError, KeyError) as e:
         print(f'ERROR reading content/dataset: {e}')
         return 1
-    bad, warn = compare(_j(SNAPSHOT), new) if SNAPSHOT.exists() else ([], [])
+    retired = _j(RETIRED) if RETIRED.exists() else {}
+    bad, warn = compare(_j(SNAPSHOT), new, retired) if SNAPSHOT.exists() else ([], [])
     for w in warn:
         print('warning:', w)
     for e in errs + bad:

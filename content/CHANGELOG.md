@@ -8,6 +8,15 @@ Phiên bản nội dung `MAJOR.MINOR.PATCH` nằm trong `content/content.json`, 
 
 Trước khi tăng phiên bản: `python3 tool/content/check.py` phải qua (không mất ID cũ).
 
+## 1.1.0 — 2026-10-13
+
+Bản dữ liệu 2019 của tác giả (thư mục `Data G/Code`, mới hơn bản cài 2018), nhập bằng `tools/content_import.py` của `grammar-legacy`, giữ nguyên mọi ID cũ:
+
+- **Luyện nói**: thêm chủ đề **"Nha Khoa."** với 99 bài (2.641 → 2.740 bài, 19 → 20 chủ đề); bài 2659 được tác giả bổ sung. Bài 100 của chủ đề (3 cặp câu) bị bỏ vì bản 2019 chưa có phần tiếng Việt.
+- **Bài đọc**: 4.565 → 4.661 bài. Thêm 96 bài và 7 nhóm trong "Books. › Stories." (Những cuộc phiêu lưu của Pinocchio, Phù Thủy Xứ OZ, Gulliver Du Ký, Ông già và biển cả, Ba Câu Hỏi của nhà vua, Nhóm Lửa, Thảm kịch ở Styles); 61 bài trong "Books." được tác giả viết lại (Jane Eyre, How Men Think, Four Seconds…) giữ ID cũ; 143 bài đổi tiêu đề (ví dụ "Confidence 1." → "Chapter 1.") giữ ảnh cũ; 1 bài sửa bản dịch. Hai nhóm đổi tên nhẹ ("Raising a Self Reliant Child.", "You can.").
+- Bản 2019 bị hỏng phần tiếng Việt của 7 bài "Truyện Ngắn" (ID 4687–4693: Promotion, River, King Of The Pumpkins, Tommaso Argento In London, The Skier, Scarlett, The Robe Of Peace): giữ bản dịch 2018, phần tiếng Anh giống hệt. Chỉ bài 538 có sửa dịch thật (một câu).
+- Ảnh minh hoạ cho cả 96 bài truyện mới, lấy từ các ấn bản đã hết bản quyền trên Project Gutenberg: Phù Thủy Xứ OZ (W. W. Denslow, 1900, 19 bài), Pinocchio (Carlo Chiostri, 1901, 34/36 bài — chương 5 và 30 của ấn bản không có tranh), Gulliver (ấn bản D.C. Heath 1900, 16 bài). Thêm 27 ảnh chọn riêng từ Wikimedia Commons và Gutenberg cho các bài mà các ấn bản trên không có tranh: Pinocchio chương 5 và 30 (Enrico Mazzanti, 1883), cả 10 chương Ông già và biển cả (tranh Winslow Homer, Rosa Bonheur và hình cá của cơ quan nghề cá Hoa Kỳ), Ba Câu Hỏi của nhà vua (Michel Sevier, 1916), Nhóm Lửa (ảnh Eric A. Hegg trên đèo Chilkoot, 1898), Thảm kịch ở Styles (hai sơ đồ in trong ấn bản 1920 cho chương 3–4; các chương khác là tranh, ảnh cùng thời về bối cảnh của chương: dinh thự Essex, phiên điều tra tử vong, Scotland Yard, người Bỉ tị nạn, nhà bằng quân bài của Chardin…). Nguồn từng ảnh trong `content/IMAGE_CREDITS.md`.
+
 ## 1.0.0 — 2026-10-07
 
 - Bản đầu tiên, chuyển nguyên vẹn từ Grammar 3.1 bằng ETL của repo `grammar-legacy` (giải mã 100 %, đối chiếu mã nguồn VB6).

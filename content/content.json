@@ -3,5 +3,5 @@
  "schema": 1,
  "date": "2026-10-13",
  "title": "Grammar 4.0 content",
- "source": "Converted once from Grammar 3.1 (TuHocTiengAnh.net) by the grammar-legacy ETL; edited in this repo from now on."
+ "source": "Converted from Grammar 3.1 (TuHocTiengAnh.net) by the grammar-legacy ETL: 1.0.0 from the installed 2018 data, 1.1.0 adds the author's 2019 readings/dialogs; edited in this repo from now on."
 }
