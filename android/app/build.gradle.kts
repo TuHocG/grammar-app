@@ -17,7 +17,8 @@ val releaseStoreFile = signingValue("storeFile", "ANDROID_KEYSTORE_PATH")
 
 android {
     namespace = "dev.hieu.grammar"
-    compileSdk = flutter.compileSdkVersion
+    // permission_handler_android 14 needs at least 37; Flutter 3.47 defaults to 36.
+    compileSdk = maxOf(flutter.compileSdkVersion, 37)
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
