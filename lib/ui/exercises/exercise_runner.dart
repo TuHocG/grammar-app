@@ -76,6 +76,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   }
   late final List<_Result> _res = List.generate(_items.length, (_) => _Result());
   final Map<int, List<TextEditingController>> _ctls = {};
+  final Map<int, List<FocusNode>> _focus = {};
   bool _showVi = false;
   bool _finished = false;
 
@@ -87,11 +88,41 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   List<TextEditingController> _controllers(Exercise e) =>
       _ctls.putIfAbsent(e.id, () => List.generate(e.blanks.length, (_) => TextEditingController()));
 
+  List<FocusNode> _focusNodes(Exercise e) => _focus.putIfAbsent(e.id, () => List.generate(e.blanks.length, (_) => FocusNode()));
+
+  /// Puts the cursor in the first blank still to answer, so the learner can type right away
+  /// after moving to another item.
+  void _focusBlank() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted || _finished || _items.isEmpty || _ex.kind != 'fill') return;
+      final e = _ex;
+      final nodes = _focusNodes(e);
+      for (var b = 0; b < nodes.length; b++) {
+        final ok = _r.graded && b < _r.blankOk.length && _r.blankOk[b];
+        if (!ok) {
+          nodes[b].requestFocus();
+          return;
+        }
+      }
+    });
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _focusBlank();
+  }
+
   @override
   void dispose() {
     for (final l in _ctls.values) {
       for (final c in l) {
         c.dispose();
+      }
+    }
+    for (final l in _focus.values) {
+      for (final f in l) {
+        f.dispose();
       }
     }
     super.dispose();
@@ -146,6 +177,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
       _showVi = false;
       _finished = false;
     });
+    _focusBlank();
   }
 
   void _next() {
@@ -362,6 +394,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   Widget _fillBody(Exercise e, ThemeData theme) {
     final g = context.g;
     final ctls = _controllers(e);
+    final nodes = _focusNodes(e);
     final parts = e.text.split(RegExp(r'\{\d+\}'));
     final idxs = RegExp(r'\{(\d+)\}').allMatches(e.text).map((m) => int.parse(m.group(1)!)).toList();
     final spans = <InlineSpan>[];
@@ -385,6 +418,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
             width: width,
             child: TextField(
               controller: ctls[b],
+              focusNode: nodes[b],
               enabled: !_r.graded || !(ok ?? false),
               style: style.copyWith(
                 fontWeight: FontWeight.w600,
