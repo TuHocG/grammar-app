@@ -93,18 +93,15 @@ class GMark extends StatelessWidget {
   const GMark({super.key, this.onTap, this.size = 32});
   @override
   Widget build(BuildContext context) {
-    final g = context.g;
     return Tooltip(
       message: onTap == null ? '' : 'Trang chính',
       child: InkWell(
         onTap: onTap,
         borderRadius: BorderRadius.circular(8),
-        child: Container(
-          width: size,
-          height: size,
-          alignment: Alignment.center,
-          decoration: BoxDecoration(color: g.iris, borderRadius: BorderRadius.circular(8)),
-          child: Text('G', style: TextStyle(fontFamily: Tokens.readingFont, fontWeight: FontWeight.w600, fontSize: size * 0.6, color: Theme.of(context).colorScheme.onPrimary, height: 1)),
+        // The leaf G of Grammar 3.1 on its red tile, same art as the app icon (tool/icon).
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(8),
+          child: Image.asset('assets/brand/g_tile.png', width: size, height: size, filterQuality: FilterQuality.medium),
         ),
       ),
     );
