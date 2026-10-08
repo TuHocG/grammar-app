@@ -38,6 +38,7 @@ App không kèm sẵn bài học. Bạn cần gói dữ liệu **grammar4-data-�
 ## Lần mở đầu tiên
 - Giải nén gói dữ liệu vào một thư mục bất kỳ.
 - Ở màn hình **Thư mục dữ liệu**, bấm **Chọn thư mục dữ liệu…** và chọn thư mục vừa giải nén, hoặc gõ đường dẫn thư mục rồi bấm **Mở**. App tự tìm hai file trong đó: **grammar.db** (bài học) và **grammar-images.zip** (ảnh minh hoạ; không có thì bài đọc không có ảnh). Ảnh Từ Vựng Tranh có sẵn trong grammar.db.
+- Android hỏi quyền truy cập tệp ở lần chọn đầu tiên: hãy cho phép để app đọc được thư mục này.
 
 ## Đổi hoặc thêm dữ liệu
 Vào **Cài Đặt → Dữ liệu** (nút bánh răng trên trang chính). Mỗi mục cho biết app tìm thấy gì:

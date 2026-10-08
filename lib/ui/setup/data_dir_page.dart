@@ -73,8 +73,9 @@ class _DataDirPageState extends State<DataDirPage> {
     _submit();
   }
 
-  void _submit() {
+  Future<void> _submit() async {
     final dir = _ctl.text.trim();
+    if (!await ensureStorageAccess(context) || !mounted) return;
     if (!File(p.join(dir, 'grammar.db')).existsSync()) {
       setState(() => _err = 'Không thấy grammar.db trong thư mục này.');
       return;

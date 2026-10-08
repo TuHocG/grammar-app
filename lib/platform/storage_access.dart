@@ -1,0 +1,46 @@
+/// Read access to the user's own folders on Android (Download/…, SD card), where grammar.db,
+/// img/, audio/ and the videos are read with plain file paths. Android 11+ grants this only
+/// as "all files access" (a system settings page); Android 10 and older use the storage
+/// permission. Other platforms need nothing.
+library;
+
+import 'dart:io';
+
+import 'package:permission_handler/permission_handler.dart';
+
+enum StorageAccess {
+  granted,
+  /// Android 11+: the "all files access" settings page has to be switched on.
+  needsAllFiles,
+  /// Android 10 and older: the runtime storage prompt can still be shown.
+  needsPrompt,
+  /// Android 10 and older, denied for good: only the app's settings page can grant it.
+  blocked,
+}
+
+Future<StorageAccess> storageAccess() async {
+  if (!Platform.isAndroid) return StorageAccess.granted;
+  final all = await Permission.manageExternalStorage.status;
+  if (all.isGranted) return StorageAccess.granted;
+  // Below Android 11 "all files access" does not exist and reports restricted.
+  if (!all.isRestricted) return StorageAccess.needsAllFiles;
+  final legacy = await Permission.storage.status;
+  if (legacy.isGranted) return StorageAccess.granted;
+  return legacy.isPermanentlyDenied ? StorageAccess.blocked : StorageAccess.needsPrompt;
+}
+
+/// Shows the system page or prompt for [state]; true when access is granted afterwards.
+Future<bool> requestStorageAccess(StorageAccess state) async {
+  switch (state) {
+    case StorageAccess.granted:
+      return true;
+    case StorageAccess.needsAllFiles:
+      return (await Permission.manageExternalStorage.request()).isGranted;
+    case StorageAccess.needsPrompt:
+      return (await Permission.storage.request()).isGranted;
+    case StorageAccess.blocked:
+      // The user comes back to the app on their own; the caller asks again next time.
+      await openAppSettings();
+      return false;
+  }
+}

@@ -72,7 +72,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     final current = ref.read(contentDbProvider).dataDir;
     final String? dir;
     try {
-      dir = await pickDataFolder(context, initialDirectory: _existingDir(current));
+      dir = await pickDataFolder(context, initialDirectory: isPickerCopy(current) ? null : _existingDir(current));
     } catch (e) {
       _snack('Không mở được hộp thoại chọn thư mục: $e');
       return;
@@ -183,6 +183,11 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
             ? [Text('Đang đọc…', style: muted)]
             : [
                 SelectableText(p.dirname(d.dbPath), style: muted),
+                if (isPickerCopy(d.dbPath))
+                  Text(
+                    'Đây là bản sao tạm của file nên app không thấy ảnh, âm thanh cạnh nó. Hãy chọn lại thư mục chứa grammar.db.',
+                    style: muted?.copyWith(color: theme.colorScheme.error),
+                  ),
                 fileHeading('grammar.db'),
                 Text(
                   [

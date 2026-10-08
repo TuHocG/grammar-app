@@ -14,6 +14,43 @@ import 'package:path/path.dart' as p;
 
 import '../../data/image_pack.dart';
 import '../../data/media_locations.dart';
+import '../../platform/storage_access.dart';
+
+/// True when [dbPath] is the picker's temporary copy (chosen by an earlier version on Android).
+bool isPickerCopy(String dbPath) => Platform.isAndroid && dbPath.contains('/cache/file_picker/');
+
+/// Explains, then asks for storage access on Android. False when not granted (a message has
+/// been shown). Always true elsewhere.
+Future<bool> ensureStorageAccess(BuildContext context) async {
+  final state = await storageAccess();
+  if (state == StorageAccess.granted) return true;
+  if (!context.mounted) return false;
+  final (next, button) = switch (state) {
+    StorageAccess.needsAllFiles => ('Ở trang tiếp theo, hãy bật "Cho phép quản lý tất cả các tệp" cho Grammar 4.0 rồi quay lại app.', 'Tiếp tục'),
+    StorageAccess.blocked => ('Quyền này đã bị từ chối. Trong trang cài đặt của app, mở Quyền → Bộ nhớ, chọn Cho phép, rồi quay lại app và bấm chọn lần nữa.', 'Mở cài đặt'),
+    _ => ('Hãy chọn Cho phép ở hộp thoại tiếp theo.', 'Tiếp tục'),
+  };
+  final go = await showDialog<bool>(
+    context: context,
+    builder: (c) => AlertDialog(
+      title: const Text('Cho phép đọc thư mục dữ liệu'),
+      content: Text(
+        'App đọc grammar.db, ảnh, âm thanh và video ngay trong thư mục bạn đã tải về (ví dụ Download/grammar4-data-…), '
+        'nên cần quyền truy cập tệp. $next',
+      ),
+      actions: [
+        TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('Để sau')),
+        FilledButton(onPressed: () => Navigator.pop(c, true), child: Text(button)),
+      ],
+    ),
+  );
+  if (go != true) return false;
+  final ok = await requestStorageAccess(state);
+  if (!ok && state != StorageAccess.blocked && context.mounted) {
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Chưa có quyền truy cập tệp: app không đọc được thư mục dữ liệu.')));
+  }
+  return ok;
+}
 
 /// The data folder the user chose, or null when cancelled. It may hold no grammar.db;
 /// callers check.
@@ -21,8 +58,10 @@ Future<String?> pickDataFolder(BuildContext context, {String? initialDirectory})
     pickFolder(context, title: 'Chọn thư mục dữ liệu (chứa grammar.db)', initialDirectory: initialDirectory);
 
 /// A media folder (audio, video); null when cancelled.
-Future<String?> pickFolder(BuildContext context, {required String title, String? initialDirectory}) =>
-    FilePicker.getDirectoryPath(dialogTitle: title, initialDirectory: initialDirectory);
+Future<String?> pickFolder(BuildContext context, {required String title, String? initialDirectory}) async {
+  if (!await ensureStorageAccess(context)) return null;
+  return FilePicker.getDirectoryPath(dialogTitle: title, initialDirectory: initialDirectory);
+}
 
 const pickDataLabel = 'Chọn thư mục dữ liệu…';
 
