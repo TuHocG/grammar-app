@@ -59,6 +59,7 @@ Kết quả trong `build/content/` (kèm `SHA256SUMS.txt`, `bundle.json`). Ngư�
 grammar.db           bài học + 155 trang Từ Vựng Tranh (nhúng trong DB, bảng media)
 grammar-images.zip   ảnh minh hoạ bài đọc và luyện nói, zip không nén, app đọc thẳng (tuỳ chọn)
 audio/…              giọng đọc thật, từ gói audio giải nén vào cùng thư mục (tuỳ chọn)
+video/…              video Luyện Nghe A 01.mp4 … (tuỳ chọn)
 ```
 
 Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc (không có `grammar-images.zip` thì tìm ảnh trong `img/` hoặc `dataset/img/`).
@@ -111,7 +112,7 @@ Các bước phát hành:
 
 1. Tăng `version:` trong `pubspec.yaml` (ví dụ `0.2.0+2`; số sau `+` là versionCode Android và phải tăng mỗi lần).
 2. Commit, rồi `git tag v0.2.0 && git push origin v0.2.0`.
-3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` với cùng `GRAMMAR_DB_KEY` và đính `grammar4-data-<phiên bản nội dung>.zip` (grammar.db đã mã hoá, ảnh trang tranh nằm trong DB, ảnh minh hoạ trong `grammar-images.zip`) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng giải nén gói rồi chọn thư mục đó trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `GRAMMAR_DB_KEY=<khoá> python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive, người dùng chọn thư mục trong Cài Đặt.
+3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` với cùng `GRAMMAR_DB_KEY` và đính `grammar4-data-<phiên bản nội dung>.zip` (grammar.db đã mã hoá, ảnh trang tranh nằm trong DB, ảnh minh hoạ trong `grammar-images.zip`) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng giải nén gói rồi chọn thư mục đó trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `GRAMMAR_DB_KEY=<khoá> python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive; người dùng đặt `audio/`, `video/` cạnh grammar.db (app tự tìm) hoặc chọn thư mục khác trong Cài Đặt.
 4. Mở bản nháp release, ghi chú gồm: link Drive tới audio và video; danh sách "cố ý khác" ở cuối docs/08; cách mở lần đầu (dưới đây). Sau đó Publish.
 
 Mở lần đầu: **Windows** giải nén rồi chạy `grammar.exe`; SmartScreen cảnh báo vì exe chưa ký, chọn More info → Run anyway. **macOS**: app chưa notarize, nên nhấp phải → Open, hoặc chạy `xattr -cr "Grammar 4.0.app"`. **Android**: cho phép cài từ nguồn không rõ.

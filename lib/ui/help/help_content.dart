@@ -44,7 +44,7 @@ App không kèm sẵn bài học. Bạn cần gói dữ liệu **grammar4-data-�
 Vào **Cài Đặt → Dữ liệu** (nút bánh răng trên trang chính). Mỗi mục cho biết app tìm thấy gì:
 - **Dữ liệu bài học**: bấm **Chọn thư mục dữ liệu…** để đổi sang thư mục dữ liệu khác, ví dụ khi có phiên bản nội dung mới. App mở lại trang chính với dữ liệu đó.
 - **Âm thanh thực (giọng đọc thật)**: mặc định app tìm thư mục **audio/** cạnh grammar.db. Để ở chỗ khác thì bấm **Chọn thư mục…** và chọn thư mục chứa 1.mp3, 2.wav…
-- **Video (Luyện Nghe)**: bấm **Chọn thư mục…** và chọn thư mục chứa A 01.mp4…
+- **Video (Luyện Nghe)**: mặc định app tìm thư mục **video/** cạnh grammar.db. Để ở chỗ khác thì bấm **Chọn thư mục…** và chọn thư mục chứa A 01.mp4…
 
 Thiếu âm thanh thực thì bài đó đọc bằng giọng máy. Thiếu video thì trang Video báo không tìm thấy file; các phần khác vẫn dùng bình thường.
 ''',
@@ -240,7 +240,7 @@ Dòng đầu trang Luyện Nghe mở **Video có phụ đề song ngữ**.
     summary: 'Phụ đề Anh–Việt từng câu, lặp câu, tra từ',
     section: 'Học',
     body: r'''
-Trước hết chọn thư mục video trong **Cài Đặt → Dữ liệu** (xem **Cài dữ liệu**). Trang Video chia bốn nhóm: **A**, **B**, **C** (video bài học) và **Phim**.
+Trước hết đặt các file video vào thư mục **video/** cạnh grammar.db, hoặc chọn thư mục khác trong **Cài Đặt → Dữ liệu** (xem **Cài dữ liệu**). Trang Video chia bốn nhóm: **A**, **B**, **C** (video bài học) và **Phim**.
 
 ## Khi xem
 - Phụ đề tiếng Anh và tiếng Việt hiện dưới video theo từng câu. Chạm từ trong phụ đề tiếng Anh để tra và lưu.

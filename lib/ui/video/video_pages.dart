@@ -35,7 +35,7 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
   Widget build(BuildContext context) {
     final db = ref.read(contentDbProvider);
     final films = db.films().where((f) => f.group == _group).toList();
-    final dir = videoDir(ref.read(userDbProvider)) ?? '';
+    final dir = videoDir(db, ref.read(userDbProvider));
     final theme = Theme.of(context);
     return Scaffold(
       appBar: GrammarAppBar(
@@ -43,7 +43,7 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
         helpSlug: 'video',
       ),
       body: Column(children: [
-        if (dir.isEmpty || !Directory(dir).existsSync())
+        if (!Directory(dir).existsSync())
           Padding(
             padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
             child: Material(
@@ -51,8 +51,8 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
               borderRadius: BorderRadius.circular(8),
               child: ListTile(
                 leading: const Icon(Icons.movie_outlined),
-                title: Text(dir.isEmpty ? 'Chưa chọn thư mục video' : 'Không tìm thấy thư mục video'),
-                subtitle: const Text('Chọn thư mục chứa các file A 01.mp4 … trong Cài Đặt → Dữ liệu.'),
+                title: const Text('Không tìm thấy thư mục video'),
+                subtitle: const Text('Đặt các file A 01.mp4 … vào thư mục video cạnh grammar.db, hoặc chọn thư mục khác trong Cài Đặt → Dữ liệu.'),
                 trailing: TextButton(onPressed: () async { await context.push('/settings'); setState(() {}); }, child: const Text('Mở Cài Đặt')),
               ),
             ),
@@ -121,8 +121,7 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
     _film = db.film(widget.id);
     if (_film != null) {
       _lines = db.subtitleLines(_film!.id);
-      final dir = videoDir(ref.read(userDbProvider));
-      _file = dir == null ? null : findVideoFile(dir, _film!);
+      _file = findVideoFile(videoDir(db, ref.read(userDbProvider)), _film!);
       _loop = int.tryParse(ref.read(userDbProvider).setting('video_loop') ?? '') ?? 0;
       if (_file != null) {
         _player.open(Media(_file!.path));

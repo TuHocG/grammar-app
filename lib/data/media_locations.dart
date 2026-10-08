@@ -4,7 +4,8 @@
 ///   `dataset/img/` (repo). The Từ Vựng Tranh pages are inside grammar.db.
 /// - Real-voice recordings (Âm thanh thực): setting `audio_dir`, default `dataset/audio/` next to
 ///   grammar.db. Files are named as in the readings (`1.mp3`, `2.wav` …).
-/// - Videos: setting `video_dir`, files `A 01.mp4` … (or the old `A  1.avi`).
+/// - Videos: setting `video_dir`, default `video/` next to grammar.db. Files `A 01.mp4` … (or the
+///   old `A  1.avi`).
 library;
 
 import 'dart:io';
@@ -22,9 +23,14 @@ const audioDirKey = 'audio_dir';
 const videoDirKey = 'video_dir';
 
 /// `audio/` next to grammar.db (release bundle), or `dataset/audio/` (repo content/ folder).
-String defaultAudioDir(ContentDb db) {
-  final release = p.join(db.dataDir, 'audio');
-  final repo = p.join(db.dataDir, 'dataset', 'audio');
+String defaultAudioDir(ContentDb db) => _besideData(db.dataDir, 'audio');
+
+/// `video/` next to grammar.db, or `dataset/video/` (repo content/ folder).
+String defaultVideoDir(ContentDb db) => _besideData(db.dataDir, 'video');
+
+String _besideData(String dataDir, String name) {
+  final release = p.join(dataDir, name);
+  final repo = p.join(dataDir, 'dataset', name);
   if (!Directory(release).existsSync() && Directory(repo).existsSync()) return repo;
   return release;
 }
@@ -50,9 +56,9 @@ String? audioPathFor(WidgetRef ref, String? rel) {
   return File(path).existsSync() ? path : null;
 }
 
-String? videoDir(UserDb user) {
+String videoDir(ContentDb db, UserDb user) {
   final s = user.setting(videoDirKey);
-  return (s == null || s.isEmpty) ? null : s;
+  return (s == null || s.isEmpty) ? defaultVideoDir(db) : s;
 }
 
 /// Finds the video file of an episode inside [dir]: "A 01.mp4", then the old "A  1.avi"

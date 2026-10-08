@@ -10,6 +10,7 @@ import 'package:grammar/data/content_db.dart';
 import 'package:grammar/data/content_db_more.dart';
 import 'package:grammar/data/image_pack.dart';
 import 'package:grammar/data/media_locations.dart';
+import 'package:path/path.dart' as p;
 
 void main() {
   final bundle = Platform.environment['GRAMMAR_BUNDLE_DIR'] ?? 'build/content/unzipped';
@@ -38,6 +39,7 @@ void main() {
     expect(db.imagePackError, isNull);
     final dir = defaultAudioDir(db);
     expect(dir.endsWith('audio'), isTrue);
+    expect(p.normalize(defaultVideoDir(db)), p.normalize(p.join(bundle, 'video')));
     if (Directory(dir).existsSync()) {
       final a = audioSummary(db, dir);
       expect(a.found, a.expected);

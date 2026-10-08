@@ -42,11 +42,10 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
       if (!mounted) return;
       final db = ref.read(contentDbProvider);
       final user = ref.read(userDbProvider);
-      final v = videoDir(user);
       setState(() {
         _data = dataSummary(db);
         _audio = audioSummary(db, audioDir(db, user));
-        _video = v == null ? null : videoSummary(db, v);
+        _video = videoSummary(db, videoDir(db, user));
       });
     });
   }
@@ -155,6 +154,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     final v = _video;
     final user = ref.read(userDbProvider);
     final customAudio = (user.setting(audioDirKey) ?? '').isNotEmpty;
+    final customVideo = (user.setting(videoDirKey) ?? '').isNotEmpty;
 
     // Name of a file of the data folder, heading the lines about it.
     Widget fileHeading(String name) => Padding(
@@ -233,7 +233,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
         lines: a == null
             ? [Text('Đang đọc…', style: muted)]
             : [
-                SelectableText(a.dir + (customAudio ? '' : '  (mặc định: dataset/audio cạnh grammar.db)'), style: muted),
+                SelectableText(a.dir + (customAudio ? '' : '  (mặc định: thư mục audio cạnh grammar.db)'), style: muted),
                 Text(
                   !a.exists
                       ? 'Chưa có thư mục này: các bài sẽ đọc bằng giọng máy.'
@@ -256,11 +256,13 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
         icon: Icons.movie_outlined,
         title: 'Video (Luyện Nghe)',
         lines: v == null
-            ? [Text('Chưa chọn thư mục video (A 01.mp4 … hoặc A  1.avi …).', style: muted)]
+            ? [Text('Đang đọc…', style: muted)]
             : [
-                SelectableText(v.dir, style: muted),
+                SelectableText(v.dir + (customVideo ? '' : '  (mặc định: thư mục video cạnh grammar.db)'), style: muted),
                 Text(
-                  !v.exists ? 'Không tìm thấy thư mục này.' : '${v.found}/${v.expected} tập có file · ${formatBytes(v.bytes)}',
+                  !v.exists
+                      ? 'Chưa có thư mục này: trang Video không phát được (cần A 01.mp4 … hoặc A  1.avi …).'
+                      : '${v.found}/${v.expected} tập có file · ${formatBytes(v.bytes)}',
                   style: muted,
                 ),
               ],
@@ -270,7 +272,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
             icon: const Icon(Icons.folder_open_outlined),
             label: const Text('Chọn thư mục…'),
           ),
-          if (v != null) TextButton(onPressed: () => _clear(videoDirKey), child: const Text('Bỏ chọn')),
+          if (customVideo) TextButton(onPressed: () => _clear(videoDirKey), child: const Text('Dùng mặc định')),
         ],
       ),
     ]);
