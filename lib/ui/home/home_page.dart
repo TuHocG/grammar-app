@@ -100,7 +100,10 @@ class HomePage extends ConsumerWidget {
         ]),
         actions: [
           if (!context.isWide) IconButton(tooltip: 'Tra từ', icon: const Icon(Icons.search), onPressed: () => context.push('/dict')),
-          if (context.isWide) TextButton(onPressed: () => context.push('/help'), child: const Text('Hướng dẫn cách học')),
+          if (context.isWide)
+            TextButton(onPressed: () => context.push('/help'), child: const Text('Hướng dẫn cách học'))
+          else
+            IconButton(tooltip: 'Hướng dẫn cách học', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help')),
           const SizedBox(width: 4),
           RoundIconButton(icon: Icons.settings_outlined, tooltip: 'Cài đặt', onPressed: () => context.push('/settings')),
         ],
