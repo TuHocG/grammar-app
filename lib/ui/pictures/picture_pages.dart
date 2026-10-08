@@ -196,22 +196,23 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
     final withPicks = ref.read(userDbProvider).pictureTopicsWithPicks();
 
     final main = _main(context, t, cur, theme);
+    final modes = SegmentedButton<int>(
+      showSelectedIcon: false,
+      segments: const [
+        ButtonSegment(value: 0, label: Text('Xem')),
+        ButtonSegment(value: 1, label: Text('Luyện 1')),
+        ButtonSegment(value: 2, label: Text('Luyện 2')),
+      ],
+      selected: {_mode},
+      onSelectionChanged: (v) => _setMode(v.first),
+    );
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: [const Crumb('Từ Vựng (Tranh)', '/pictures'), Crumb(t.title)],
         helpSlug: 'tu-vung-tranh',
-        actions: [
-          SegmentedButton<int>(
-            showSelectedIcon: false,
-            segments: const [
-              ButtonSegment(value: 0, label: Text('Xem')),
-              ButtonSegment(value: 1, label: Text('Luyện 1')),
-              ButtonSegment(value: 2, label: Text('Luyện 2')),
-            ],
-            selected: {_mode},
-            onSelectionChanged: (v) => _setMode(v.first),
-          ),
-        ],
+        // On a phone the modes get their own row so the title keeps its room.
+        actions: [if (context.isWide) modes],
+        bottom: context.isWide ? null : PreferredSize(preferredSize: const Size.fromHeight(52), child: Padding(padding: const EdgeInsets.only(bottom: 8), child: modes)),
       ),
       body: context.isWide
           ? Row(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
