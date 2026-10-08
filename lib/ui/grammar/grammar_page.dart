@@ -181,6 +181,11 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
     }
   }
 
+  void _toggleSelect() => setState(() {
+        _selectMode = !_selectMode;
+        _picked.clear();
+      });
+
   @override
   Widget build(BuildContext context) {
     final all = ref.watch(grammarLessonsProvider);
@@ -213,20 +218,25 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
     );
 
     final lesson = wide && _currentRef != null ? db.grammarLesson(_currentRef!) : null;
+    final mix = FilledButton.icon(
+      onPressed: _picked.isEmpty ? null : () => context.push('/exercises/lessons/${_picked.join(',')}'),
+      icon: const Icon(Icons.play_arrow_rounded, size: 18),
+      label: Text('Làm bài tập trộn (${_picked.length})'),
+    );
 
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Văn Phạm')],
         helpSlug: 'van-pham',
         actions: [
-          OutlinedButton.icon(
-            onPressed: () => setState(() {
-              _selectMode = !_selectMode;
-              _picked.clear();
-            }),
-            icon: Icon(_selectMode ? Icons.close : Icons.checklist, size: 18),
-            label: Text(_selectMode ? 'Thoát chọn' : 'Chọn nhiều bài'),
-          ),
+          if (wide)
+            OutlinedButton.icon(
+              onPressed: _toggleSelect,
+              icon: Icon(_selectMode ? Icons.close : Icons.checklist, size: 18),
+              label: Text(_selectMode ? 'Thoát chọn' : 'Chọn nhiều bài'),
+            )
+          else
+            RoundIconButton(icon: _selectMode ? Icons.close : Icons.checklist, tooltip: _selectMode ? 'Thoát chọn' : 'Chọn nhiều bài', active: _selectMode, onPressed: _toggleSelect),
         ],
       ),
       body: RailListView(
@@ -239,12 +249,8 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
                   Icon(Icons.checklist, color: g.iris),
                   const SizedBox(width: 12),
                   Expanded(child: Text('Chọn các bài có BT rồi bấm "Làm bài tập trộn": câu hỏi của những bài đó được trộn chung.', style: theme.textTheme.bodyMedium?.copyWith(color: g.indigo))),
-                  const SizedBox(width: 12),
-                  FilledButton.icon(
-                    onPressed: _picked.isEmpty ? null : () => context.push('/exercises/lessons/${_picked.join(',')}'),
-                    icon: const Icon(Icons.play_arrow_rounded, size: 18),
-                    label: Text('Làm bài tập trộn (${_picked.length})'),
-                  ),
+                  // On a phone the button sits in the bottom bar instead, in reach while scrolling.
+                  if (wide) ...[const SizedBox(width: 12), mix],
                 ]),
               ),
             ),
@@ -270,6 +276,15 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
             tree,
         ],
       ),
+      bottomNavigationBar: _selectMode && !wide
+          ? SafeArea(
+              child: Container(
+                decoration: BoxDecoration(color: g.card, border: Border(top: BorderSide(color: g.border))),
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                child: mix,
+              ),
+            )
+          : null,
     );
   }
 }

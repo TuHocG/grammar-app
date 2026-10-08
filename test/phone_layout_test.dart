@@ -14,6 +14,7 @@ import 'package:grammar/data/content_db_more.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/dialogs/dialog_pages.dart';
+import 'package:grammar/ui/grammar/grammar_page.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
 import 'package:grammar/ui/video/video_pages.dart';
 
@@ -82,6 +83,7 @@ void main() {
     for (final (name, build) in <(String, Widget Function())>[
       ('Đàm thoại', () => dialogPractice(db, db.dialog(1)!)),
       ('Từ Vựng Tranh', () => const PictureTopicPage(id: 1)),
+      ('Văn Phạm', () => const GrammarPage()),
     ]) {
       testWidgets('$name page fits a phone at $pct text', (tester) async {
         phone(tester);
@@ -104,5 +106,20 @@ void main() {
       expect(tester.takeException(), isNull);
       expect(find.text('Số câu lặp'), findsOneWidget);
     });
+  }
+
+  for (final scale in textScales) {
+    testWidgets('Văn Phạm select mode: hint above, start button in the bottom bar at ${(scale * 100).round()} % text', (tester) async {
+      phone(tester);
+      await tester.pumpWidget(wrap(const GrammarPage(), scale));
+      await tester.pump();
+      await tester.tap(find.byTooltip('Chọn nhiều bài'));
+      await tester.pump();
+      expect(tester.takeException(), isNull);
+      final button = tester.getRect(find.textContaining('Làm bài tập trộn ('));
+      final hint = tester.getRect(find.textContaining('Chọn các bài có BT'));
+      expect(button.top, greaterThan(700));                 // in the bottom bar
+      expect(hint.width, greaterThan(phoneWidth * 0.6));    // the hint gets the panel's width
+    }, skip: !has);
   }
 }
