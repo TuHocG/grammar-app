@@ -47,7 +47,7 @@ class DialogTopicsPage extends ConsumerWidget {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Luyện Nói')],
-        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/luyen-noi'))],
+        helpSlug: 'luyen-noi',
       ),
       body: RailListView(
         children: [
@@ -318,6 +318,7 @@ class _DialogPageState extends ConsumerState<DialogPage> {
           if (topic != null) Crumb(topic.title, '/dialogs/topic/${topic.sid}'),
           Crumb(d.title),
         ],
+        helpSlug: 'luyen-noi',
         actions: [
           if (wide)
             Padding(
@@ -332,8 +333,6 @@ class _DialogPageState extends ConsumerState<DialogPage> {
             RoundIconButton(icon: Icons.translate, tooltip: _showVi ? 'Ẩn bản dịch' : 'Hiện bản dịch', active: _showVi, onPressed: () => setState(() => _showVi = !_showVi)),
           const SizedBox(width: 8),
           RoundIconButton(icon: Icons.format_size, tooltip: 'Cỡ chữ', onPressed: () => cycleFontScale(ref)),
-          const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Luyện Nói', onPressed: () => context.push('/help/luyen-noi')),
         ],
       ),
       body: RailListView(children: [body]),

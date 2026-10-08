@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../app/theme.dart';
+import '../dictionary/lookup_sheet.dart';
 
 /// One step of the breadcrumb; `route` null = current page (not tappable).
 class Crumb {
@@ -16,14 +17,20 @@ class Crumb {
 }
 
 /// App bar: back arrow (when there is a page to pop), the "G" mark that goes home, then
-/// either a breadcrumb (wide screens) or just the current title. Actions on the right.
+/// either a breadcrumb (wide screens) or just the current title. On the right: the page's
+/// own actions, then the same two buttons on every page — 🔍 tra nhanh and ? hướng dẫn.
 class GrammarAppBar extends StatelessWidget implements PreferredSizeWidget {
   final List<Crumb> crumbs;
   final List<Widget> actions;
   final PreferredSizeWidget? bottom;
   /// Optional widget shown in place of the breadcrumb (e.g. the dictionary search field).
   final Widget? title;
-  const GrammarAppBar({super.key, this.crumbs = const [], this.actions = const [], this.bottom, this.title});
+  /// Help topic of the page (`/help/<slug>`); [onHelp] instead for a page's own help.
+  final String? helpSlug;
+  final VoidCallback? onHelp;
+  /// The quick lookup button; off on the dictionary pages themselves.
+  final bool search;
+  const GrammarAppBar({super.key, this.crumbs = const [], this.actions = const [], this.bottom, this.title, this.helpSlug, this.onHelp, this.search = true});
 
   @override
   Size get preferredSize => Size.fromHeight(56 + (bottom?.preferredSize.height ?? 0));
@@ -80,7 +87,19 @@ class GrammarAppBar extends StatelessWidget implements PreferredSizeWidget {
           Expanded(child: crumbWidget),
         ]),
       ),
-      actions: [...actions, const SizedBox(width: 12)],
+      actions: [
+        ...actions,
+        // 8 px between the page's actions and the shared buttons, never after the last one.
+        for (final (i, b) in [
+          if (search) RoundIconButton(icon: Icons.search, tooltip: 'Tra từ', onPressed: () => showLookupSheet(context)),
+          if (helpSlug != null || onHelp != null)
+            RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: onHelp ?? () => context.push('/help/$helpSlug')),
+        ].indexed) ...[
+          if (i > 0 || actions.isNotEmpty) const SizedBox(width: 8),
+          b,
+        ],
+        const SizedBox(width: 12),
+      ],
       bottom: bottom,
     );
   }

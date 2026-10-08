@@ -104,7 +104,7 @@ Muốn đàm thoại được cần ba điều: thuộc nhiều câu nói theo l
 ## Trên điện thoại
 - Trong bài đọc, nhấn giữ một từ để bắt đầu chọn cụm từ, kéo hai đầu để mở rộng, rồi bấm nút **Tra “…”** hiện ở góc dưới.
 - Bảng nghĩa từ trượt lên từ dưới: kéo lên để xem thêm, vuốt xuống để đóng.
-- Nút tra từ (kính lúp) ở góc trên trang chính mở Từ điển.
+- Nút kính lúp ở góc trên các trang mở ô **Tra từ** ngay trên trang đang xem (xem **Từ điển & tra từ**); trang nào có nút **?** cạnh đó thì bấm để mở hướng dẫn của trang.
 ''',
   ),
 
@@ -305,6 +305,12 @@ Chạm một từ tiếng Anh ở bất kỳ đâu (bài đọc, văn phạm, b�
 - **Mục đầy đủ**: xem toàn bộ mục từ.
 - **Thêm với nghĩa riêng (F2)** / **Sửa từ (F2)**: tự ghi nghĩa của bạn. Trong ô nghĩa, dấu _ là xuống dòng.
 - **Mở trang từ điển**: mở mục từ thành trang riêng.
+
+## Tra nhanh ở mọi trang
+Bấm nút kính lúp ở góc trên bên phải (có ở mọi trang trừ trang Từ điển; trên máy tính, trang chính dùng ô **Tra từ nhanh…** thay cho nút). Một ô tra trượt lên từ dưới, trang đang xem vẫn giữ nguyên.
+- Gõ vài chữ cái đầu: danh sách gợi ý hiện từ, phiên âm và nghĩa ngắn.
+- Chạm một từ (hoặc **Enter**) để xem bảng nghĩa; đóng bảng nghĩa là quay lại ô tra để tra từ khác.
+- **Mở Từ điển**: chuyển sang trang Từ điển đầy đủ với chữ đang gõ.
 
 ## Trang Từ điển
 - Gõ vào ô **Gõ từ cần tra…**: danh sách cuộn tới đúng chữ bạn gõ. **Enter** mở mục đầu tiên khớp.

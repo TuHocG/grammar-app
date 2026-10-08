@@ -8,7 +8,6 @@ library;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
 import '../../app/theme.dart';
@@ -119,9 +118,7 @@ class _IpaLessonPageState extends ConsumerState<IpaLessonPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Phiên Âm Quốc Tế')],
-        actions: [
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/phien-am')),
-        ],
+        helpSlug: 'phien-am',
       ),
       body: RailListView(children: [
         Surface(

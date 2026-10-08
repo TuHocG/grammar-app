@@ -12,7 +12,6 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
 import '../../app/theme.dart';
@@ -315,11 +314,8 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: _crumbs,
-        actions: [
-          Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall),
-          const SizedBox(width: 12),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => showLessonHelp(context, e.kind)),
-        ],
+        helpSlug: 'bai-tap',
+        actions: [Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall)],
       ),
       body: CallbackShortcuts(
         bindings: {
@@ -793,9 +789,6 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     );
   }
 }
-
-/// Every exercise kind is covered by the one Bài tập help topic.
-void showLessonHelp(BuildContext context, String kind) => context.push('/help/bai-tap');
 
 /// Marks helper kept for pages that colour saved words.
 Color savedWordColor() => Marks.savedWord;

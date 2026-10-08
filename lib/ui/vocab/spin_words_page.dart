@@ -7,7 +7,6 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
 import '../../app/theme.dart';
@@ -76,7 +75,7 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         title: const Text('Quay Từ'),
-        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/tu-vung-cua-ban'))],
+        helpSlug: 'tu-vung-cua-ban',
       ),
       body: w == null
           ? Center(

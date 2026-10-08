@@ -11,6 +11,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
 import '../../platform/tts.dart';
@@ -178,11 +179,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
     return Scaffold(
       appBar: GrammarAppBar(
         title: Text('Đàm thoại · ${widget.title}', maxLines: 1, overflow: TextOverflow.ellipsis),
-        actions: [
-          IconButton(
-            tooltip: 'Hướng dẫn',
-            icon: const Icon(Icons.help_outline),
-            onPressed: () => showDialog<void>(
+        onHelp: () => showDialog<void>(
               context: context,
               builder: (c) => AlertDialog(
                 title: const Text('Mức độ khó'),
@@ -192,11 +189,18 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
                   'Mức 7–10: chỉ câu đề; máy chấm nhịp rồi đọc nguyên câu. Mức 10 tạo phản xạ.\n\n'
                   'Hãy nói câu Anh trước khi máy gợi ý xong.',
                 ),
-                actions: [TextButton(onPressed: () => Navigator.pop(c), child: const Text('Đóng'))],
+                actions: [
+                  TextButton(
+                    onPressed: () {
+                      Navigator.pop(c);
+                      context.push('/help/luyen-bai-doc');
+                    },
+                    child: const Text('Hướng dẫn đầy đủ'),
+                  ),
+                  TextButton(onPressed: () => Navigator.pop(c), child: const Text('Đóng')),
+                ],
               ),
             ),
-          ),
-        ],
       ),
       body: Padding(
         padding: const EdgeInsets.all(20),

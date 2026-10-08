@@ -43,7 +43,7 @@ class AnalysisListPage extends ConsumerWidget {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Phân Tích Câu')],
-        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/phan-tich-cau'))],
+        helpSlug: 'phan-tich-cau',
       ),
       body: RailListView(children: [
         Text('Phân Tích Câu', style: theme.textTheme.headlineLarge),

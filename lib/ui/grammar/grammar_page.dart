@@ -217,6 +217,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Văn Phạm')],
+        helpSlug: 'van-pham',
         actions: [
           OutlinedButton.icon(
             onPressed: () => setState(() {
@@ -226,8 +227,6 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
             icon: Icon(_selectMode ? Icons.close : Icons.checklist, size: 18),
             label: Text(_selectMode ? 'Thoát chọn' : 'Chọn nhiều bài'),
           ),
-          const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/van-pham')),
         ],
       ),
       body: RailListView(

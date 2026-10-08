@@ -31,7 +31,7 @@ class _UserReadingsPageState extends ConsumerState<UserReadingsPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         title: const Text('Bài Nhập Của Bạn'),
-        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/bai-nhap'))],
+        helpSlug: 'bai-nhap',
       ),
       floatingActionButton: FloatingActionButton.extended(
         icon: const Icon(Icons.add),

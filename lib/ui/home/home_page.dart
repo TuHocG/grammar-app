@@ -98,13 +98,12 @@ class HomePage extends ConsumerWidget {
           ] else
             const Spacer(),
         ]),
+        // Wide: the search pill above replaces the 🔍 button, and help is spelled out.
+        search: !context.isWide,
+        onHelp: context.isWide ? null : () => context.push('/help'),
         actions: [
-          if (!context.isWide) IconButton(tooltip: 'Tra từ', icon: const Icon(Icons.search), onPressed: () => context.push('/dict')),
-          if (context.isWide)
-            TextButton(onPressed: () => context.push('/help'), child: const Text('Hướng dẫn cách học'))
-          else
-            IconButton(tooltip: 'Hướng dẫn cách học', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help')),
-          const SizedBox(width: 4),
+          if (context.isWide) TextButton(onPressed: () => context.push('/help'), child: const Text('Hướng dẫn cách học')),
+          if (context.isWide) const SizedBox(width: 4),
           RoundIconButton(icon: Icons.settings_outlined, tooltip: 'Cài đặt', onPressed: () => context.push('/settings')),
         ],
       ),

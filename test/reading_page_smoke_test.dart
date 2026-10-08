@@ -14,10 +14,12 @@ import 'package:grammar/data/reading_loader.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/dialogs/dialog_pages.dart';
+import 'package:grammar/ui/dictionary/lookup_sheet.dart';
 import 'package:grammar/ui/home/home_page.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
 import 'package:grammar/ui/readings/ipa_lesson_page.dart';
 import 'package:grammar/ui/readings/reading_page.dart';
+import 'package:grammar/ui/widgets/shell.dart';
 import 'package:grammar/ui/widgets/word_tap_text.dart';
 
 BuildContext context(WidgetTester t) => t.element(find.byType(Scaffold).first);
@@ -254,6 +256,22 @@ void main() {
     await tester.pumpWidget(wrap(dialogPractice(db, db.dialog(1)!)));
     await tester.pump();
     await tester.pumpWidget(wrap(const SizedBox()));
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
+
+  testWidgets('lookup sheet fits above the keyboard on a phone held sideways', (tester) async {
+    tester.view.physicalSize = const Size(800, 390);
+    tester.view.devicePixelRatio = 1.0;
+    tester.view.viewInsets = const FakeViewPadding(bottom: 250);
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(const Scaffold(body: SizedBox.expand())));
+    showLookupSheet(context(tester));
+    await tester.pumpAndSettle();
+    expect(tester.takeException(), isNull);
+    expect(find.byType(SearchPill), findsOneWidget);
+    expect(find.text('Mở Từ điển'), findsNothing);   // hidden while the keyboard is up
+    await tester.enterText(find.byType(TextField), 'aban');
+    await tester.pump(const Duration(milliseconds: 200));
     expect(tester.takeException(), isNull);
   }, skip: !has);
 }

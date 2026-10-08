@@ -149,7 +149,7 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
 
     if (!wide) {
       return Scaffold(
-        appBar: GrammarAppBar(title: Padding(padding: const EdgeInsets.only(right: 4), child: field)),
+        appBar: GrammarAppBar(search: false, helpSlug: 'tu-dien', title: Padding(padding: const EdgeInsets.only(right: 4), child: field)),
         body: list,
       );
     }
@@ -163,11 +163,11 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
 
     return Scaffold(
       appBar: GrammarAppBar(
+        search: false,
         crumbs: const [Crumb('Từ điển')],
+        helpSlug: 'tu-dien',
         actions: [
           Text('Gõ ở bất kỳ màn hình nào để tra', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
-          const SizedBox(width: 12),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/tu-dien')),
         ],
       ),
       body: PageRail(

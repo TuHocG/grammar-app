@@ -94,7 +94,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
     final tts = ref.read(ttsProvider);
 
     return Scaffold(
-      appBar: GrammarAppBar(title: const Text('Cài Đặt')),
+      appBar: GrammarAppBar(title: const Text('Cài Đặt'), helpSlug: 'cai-dat'),
       body: RailListView(
         maxWidth: 880,
         children: [

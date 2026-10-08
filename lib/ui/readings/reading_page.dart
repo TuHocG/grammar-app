@@ -288,6 +288,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
                 if (section != null) Crumb(section.title, '/readings/section/${section.sid}'),
                 Crumb(r.title),
               ],
+        helpSlug: 'bai-doc',
         actions: [
           if (wide)
             Padding(
@@ -302,8 +303,6 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
             RoundIconButton(icon: Icons.translate, tooltip: _showAllVi ? 'Ẩn bản dịch' : 'Hiện bản dịch', active: _showAllVi, onPressed: () => setState(() => _showAllVi = !_showAllVi)),
           const SizedBox(width: 8),
           RoundIconButton(icon: Icons.format_size, tooltip: 'Cỡ chữ', onPressed: _cycleFontSize),
-          const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Bài Đọc', onPressed: () => context.push('/help/bai-doc')),
         ],
       ),
       body: RailListView(children: [body]),

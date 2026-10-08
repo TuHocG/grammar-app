@@ -28,7 +28,7 @@ class EntryPage extends ConsumerWidget {
       r = ref.read(lookupProvider).lookup(word ?? '');
     }
     return Scaffold(
-      appBar: GrammarAppBar(crumbs: [const Crumb('Từ điển', '/dict'), Crumb(r.headword)]),
+      appBar: GrammarAppBar(search: false, helpSlug: 'tu-dien', crumbs: [const Crumb('Từ điển', '/dict'), Crumb(r.headword)]),
       body: RailListView(maxWidth: 900, children: [EntryCard(result: r)]),
     );
   }

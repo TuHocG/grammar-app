@@ -32,7 +32,7 @@ class ListeningUnitsPage extends ConsumerWidget {
     return Scaffold(
       appBar: GrammarAppBar(
         title: const Text('Luyện Nghe'),
-        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/luyen-nghe'))],
+        helpSlug: 'luyen-nghe',
       ),
       body: ListView(
         children: [
@@ -262,10 +262,9 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: crumbs,
+        helpSlug: 'luyen-nghe',
         actions: [
           Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall),
-          const SizedBox(width: 12),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/luyen-nghe')),
         ],
       ),
       body: CallbackShortcuts(
