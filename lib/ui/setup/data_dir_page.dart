@@ -1,12 +1,14 @@
-/// First-run screen while the content is not yet downloadable (docs/07 §11): pick `grammar.db`
-/// (pictures are read from `dataset/img` next to it), or type its folder.
+/// First-run screen while the content is not yet downloadable (docs/07 §11): pick or type the
+/// data folder (grammar.db, and grammar-images.zip for the illustrations).
 library;
 
 import 'dart:io';
 
-import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as p;
+
+import '../../data/image_pack.dart';
+import '../settings/data_picker.dart';
 
 class DataDirPage extends StatefulWidget {
   final String? initial;
@@ -35,11 +37,12 @@ class _DataDirPageState extends State<DataDirPage> {
               Text('Thư mục dữ liệu', style: theme.textTheme.headlineSmall),
               const SizedBox(height: 8),
               Text(
-                'Chọn file grammar.db (ảnh bài học nằm trong thư mục dataset/img cạnh file). Khi phát triển, đó là content/grammar.db của repo sau khi chạy tool/content/pack.py.',
+                'Giải nén gói dữ liệu grammar4-data-….zip rồi chọn thư mục vừa giải nén: app tìm grammar.db và $imagePackName (ảnh minh hoạ) trong đó. '
+                'Khi phát triển, đó là content/grammar.db của repo sau khi chạy tool/content/pack.py.',
                 style: theme.textTheme.bodyMedium,
               ),
               const SizedBox(height: 16),
-              FilledButton.icon(onPressed: _browse, icon: const Icon(Icons.file_open_outlined), label: const Text('Chọn file grammar.db…')),
+              FilledButton.icon(onPressed: _browse, icon: const Icon(Icons.folder_open_outlined), label: const Text(pickDataLabel)),
               const SizedBox(height: 16),
               Text('hoặc nhập thư mục chứa grammar.db', style: theme.textTheme.bodySmall),
               const SizedBox(height: 8),
@@ -58,10 +61,15 @@ class _DataDirPageState extends State<DataDirPage> {
   }
 
   Future<void> _browse() async {
-    final f = await FilePicker.pickFile(dialogTitle: 'Chọn file dữ liệu grammar.db', type: FileType.custom, allowedExtensions: const ['db']);
-    final path = f?.path;
-    if (path == null) return;
-    _ctl.text = p.dirname(path);
+    final String? dir;
+    try {
+      dir = await pickDataFolder(context);
+    } catch (e) {
+      if (mounted) setState(() => _err = 'Không mở được hộp thoại chọn thư mục: $e');
+      return;
+    }
+    if (dir == null || !mounted) return;
+    _ctl.text = dir;
     _submit();
   }
 

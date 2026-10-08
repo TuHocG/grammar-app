@@ -1,6 +1,7 @@
 /// Where the app finds its content files, and short summaries of what is there (Cài Đặt).
 ///
-/// - Lesson data: `grammar.db`; pictures in `dataset/img/` next to it.
+/// - Lesson data: `grammar.db`; illustrations in `grammar-images.zip` next to it (release), or
+///   `dataset/img/` (repo). The Từ Vựng Tranh pages are inside grammar.db.
 /// - Real-voice recordings (Âm thanh thực): setting `audio_dir`, default `dataset/audio/` next to
 ///   grammar.db. Files are named as in the readings (`1.mp3`, `2.wav` …).
 /// - Videos: setting `video_dir`, files `A 01.mp4` … (or the old `A  1.avi`).
@@ -87,9 +88,12 @@ class DataSummary {
   final String? date;
   final int schema;
   final Map<String, dynamic> counts;
-  final int images;          // illustration files in img/ (or dataset/img/)
+  final int images;          // illustrations in grammar-images.zip, else files in img/ (or dataset/img/)
+  final bool imagePack;      // the illustrations come from grammar-images.zip
+  final bool imagePackBroken; // grammar-images.zip is there but cannot be read
+  final int imagePackBytes;
   final int embedded;        // pictures stored inside grammar.db
-  const DataSummary({required this.dbPath, required this.dbBytes, this.version, this.date, required this.schema, required this.counts, required this.images, required this.embedded});
+  const DataSummary({required this.dbPath, required this.dbBytes, this.version, this.date, required this.schema, required this.counts, required this.images, required this.imagePack, this.imagePackBroken = false, this.imagePackBytes = 0, required this.embedded});
 }
 
 DataSummary dataSummary(ContentDb db) {
@@ -98,7 +102,10 @@ DataSummary dataSummary(ContentDb db) {
   final embeddedPaths = <String>{
     if (db.embeddedMediaCount > 0) for (final r in db.raw.select('SELECT path FROM media')) r['path'] as String,
   };
-  final images = img.existsSync()
+  final pack = db.images;
+  final images = pack != null
+      ? pack.length
+      : img.existsSync()
       ? img.listSync(recursive: true).whereType<File>().where((f) => !embeddedPaths.contains('img/${p.posix.joinAll(p.split(p.relative(f.path, from: img.path)))}')).length
       : 0;
   return DataSummary(
@@ -109,6 +116,9 @@ DataSummary dataSummary(ContentDb db) {
     schema: db.schemaVersion,
     counts: db.counts,
     images: images,
+    imagePack: pack != null,
+    imagePackBroken: db.imagePackError != null,
+    imagePackBytes: pack == null ? 0 : File(pack.path).lengthSync(),
     embedded: embeddedPaths.length,
   );
 }

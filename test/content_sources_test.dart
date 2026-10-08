@@ -51,7 +51,7 @@ void main() {
     if (db.contentVersion != null) expect(find.textContaining('phiên bản ${db.contentVersion}'), findsOneWidget);
     expect(find.textContaining('119/119 bài có file ghi âm'), findsOneWidget);
     expect(find.textContaining('210/210 tập có file'), findsOneWidget);
-    expect(find.text('Chọn file grammar.db…'), findsOneWidget);
+    expect(find.text('Chọn thư mục dữ liệu…'), findsOneWidget);
     db.close();
     user.close();
     tmp.deleteSync(recursive: true);

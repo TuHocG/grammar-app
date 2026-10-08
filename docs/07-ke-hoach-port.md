@@ -118,5 +118,5 @@ Trạng thái 2026-10-05: M1–M5 đã viết xong và chạy trên Windows (m�
 
 Hiện trạng: `package:sqlite3` 3.x build biến thể SQLite3MultipleCiphers (`hooks.user_defines.sqlite3.source: sqlite3mc` trong `app/pubspec.yaml`); `dart run tool/encrypt_db.dart dist/grammar.db out.db <key>` mã hoá bằng `PRAGMA rekey`; app mở bằng `--dart-define=GRAMMAR_DB_KEY=<key>` (bản phát triển dùng DB thường, không cần khoá). Tải DB từ máy chủ và mã hoá media làm ở bước đóng gói phát hành.
 
-Phát hành (2026-10-07): GitHub Actions (`.github/workflows/release.yml`) build Windows, Android, macOS với `--obfuscate --split-debug-info` và khoá DB lấy từ secret, rồi đưa lên GitHub Releases. Bản đầu chưa làm Linux, web, iOS và tải dữ liệu từ máy chủ: người dùng tải gói `grammar.db` đã mã hoá từ Google Drive rồi chọn file trong app. Windows và macOS chưa ký mã.
+Phát hành (2026-10-07): GitHub Actions (`.github/workflows/release.yml`) build Windows, Android, macOS với `--obfuscate --split-debug-info` và khoá DB lấy từ secret, rồi đưa lên GitHub Releases. Bản đầu chưa làm Linux, web, iOS và tải dữ liệu từ máy chủ: người dùng tải gói dữ liệu (`grammar.db` đã mã hoá và `grammar-images.zip` chứa ảnh minh hoạ) từ Google Drive, giải nén rồi chọn thư mục trong app. Windows và macOS chưa ký mã.
 

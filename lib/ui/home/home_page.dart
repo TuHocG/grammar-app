@@ -129,7 +129,7 @@ class HomePage extends ConsumerWidget {
                     onTap: () => context.push('/readings/${lastReading.id}'),
                     padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
                     child: Row(children: [
-                      _Thumb(path: lastReading.img == null ? null : (lastReading.id >= userReadingBase ? lastReading.img : db.mediaPath(lastReading.img!))),
+                      _Thumb(image: lastReading.img == null ? null : (lastReading.id >= userReadingBase ? FileImage(File(lastReading.img!)) : db.imageProvider(lastReading.img!))),
                       const SizedBox(width: 16),
                       Expanded(
                         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
@@ -330,16 +330,16 @@ class _ExerciseResume {
 }
 
 class _Thumb extends StatelessWidget {
-  final String? path;
-  const _Thumb({this.path});
+  final ImageProvider? image;
+  const _Thumb({this.image});
   @override
   Widget build(BuildContext context) {
     final g = context.g;
     final box = Container(width: 64, height: 64, decoration: BoxDecoration(color: g.lilac, borderRadius: BorderRadius.circular(8)), child: Icon(Icons.menu_book_outlined, color: g.iris));
-    if (path == null) return box;
+    if (image == null) return box;
     return ClipRRect(
       borderRadius: BorderRadius.circular(8),
-      child: Image.file(File(path!), width: 64, height: 64, fit: BoxFit.cover, errorBuilder: (_, _, _) => box),
+      child: Image(image: image!, width: 64, height: 64, fit: BoxFit.cover, errorBuilder: (_, _, _) => box),
     );
   }
 }

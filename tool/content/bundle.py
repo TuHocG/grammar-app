@@ -1,15 +1,18 @@
-"""Package the content for users: one zip with grammar.db and the illustrations folder next to it.
+"""Package the content for users: one zip with grammar.db and grammar-images.zip side by side.
 
     python3 tool/content/bundle.py                      # pack, then build/content/grammar4-data-<version>.zip
     python3 tool/content/bundle.py --audio DIR          # also grammar4-audio-<version>.zip from DIR (1.mp3 …)
     python3 tool/content/bundle.py --no-pack            # reuse content/grammar.db as is
     GRAMMAR_DB_KEY=… python3 tool/content/bundle.py     # encrypt grammar.db (same key as the app build)
 
-Layout inside the data zip (unzip anywhere, then pick grammar.db in Cài Đặt → Dữ liệu):
+Layout inside the data zip (unzip anywhere, then pick that folder in Cài Đặt → Dữ liệu):
 
-    grammar.db          lessons + the required Từ Vựng Tranh pages (table media)
-    img/readings/…      reading illustrations   (optional: lessons work without them)
-    img/dialogs/…       Luyện Nói pictures       (optional)
+    grammar.db            lessons + the required Từ Vựng Tranh pages (table media)
+    grammar-images.zip    reading and Luyện Nói illustrations (optional: lessons work without them)
+
+grammar-images.zip holds `img/readings/…`, `img/dialogs/…` under their content paths, stored
+uncompressed (WebP is already compressed) so the app reads each picture in place
+(lib/data/image_pack.dart): one file to copy instead of thousands.
 
 The audio zip holds `audio/<n>.mp3|wav`: unzip it into the same folder, next to grammar.db (or pick
 the folder in Cài Đặt → Dữ liệu → Âm thanh thực). content/dataset/ is the repo's source layout only.
@@ -26,6 +29,7 @@ import os
 import sqlite3
 import subprocess
 import sys
+import unicodedata
 import zipfile
 from pathlib import Path
 
@@ -74,22 +78,28 @@ def main() -> int:
     outputs: list[Path] = []
     data_zip = OUT / f'grammar4-data-{version}.zip'
     img_root = CONTENT / 'dataset' / 'img'
+    images_zip = OUT / 'grammar-images.zip'
     n_img = 0
-    with zipfile.ZipFile(data_zip, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
-        z.write(shipped_db, 'grammar.db')
-        for dirpath, _, files in os.walk(img_root):
+    with zipfile.ZipFile(images_zip, 'w', zipfile.ZIP_STORED) as z:
+        for dirpath, dirs, files in os.walk(img_root):
+            dirs.sort()
             for name in sorted(files):
                 full = Path(dirpath) / name
-                rel = 'img/' + full.relative_to(img_root).as_posix()
+                # Content paths are NFC; some file systems hand names back decomposed.
+                rel = unicodedata.normalize('NFC', 'img/' + full.relative_to(img_root).as_posix())
                 if rel in embedded:
                     continue   # already inside grammar.db
-                z.write(full, rel, compress_type=zipfile.ZIP_STORED)   # WebP is already compressed
+                z.write(full, rel)
                 n_img += 1
+    with zipfile.ZipFile(data_zip, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
+        z.write(shipped_db, 'grammar.db')
+        z.write(images_zip, images_zip.name, compress_type=zipfile.ZIP_STORED)
     outputs.append(data_zip)
+    images_zip.unlink()
     if shipped_db != db:
         shipped_db.unlink()
     print(f'{data_zip.name}: grammar.db ({"encrypted, " if a.key else ""}content {version}, schema {meta.get("schema_version")}, '
-          f'{len(embedded)} pictures embedded) + {n_img} illustrations in img/')
+          f'{len(embedded)} pictures embedded) + {images_zip.name} ({n_img} illustrations)')
 
     if a.audio:
         audio_zip = OUT / f'grammar4-audio-{version}.zip'

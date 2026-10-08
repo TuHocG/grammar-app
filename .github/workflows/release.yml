@@ -68,7 +68,7 @@ jobs:
       - run: flutter analyze
       - run: flutter test
 
-  # Lesson data for users: grammar.db (+ embedded picture pages) and img/, encrypted with the same key
+  # Lesson data for users: grammar.db (+ embedded picture pages) and grammar-images.zip; grammar.db is encrypted with the same key
   # the apps are built with (tool/encrypt_db.dart, hence Flutter); attached to the draft release.
   data:
     needs: check

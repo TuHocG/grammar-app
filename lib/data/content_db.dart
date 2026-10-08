@@ -9,6 +9,7 @@ import 'package:flutter/painting.dart';
 import 'package:path/path.dart' as p;
 import 'package:sqlite3/sqlite3.dart';
 
+import 'image_pack.dart';
 import 'models.dart';
 
 class ContentDb {
@@ -16,7 +17,8 @@ class ContentDb {
   final String dataDir;
   ContentDb._(this._db, this.dataDir);
 
-  /// [dataDir] holds `grammar.db` and `dataset/img`, `dataset/audio`. A release build ships
+  /// [dataDir] holds `grammar.db` and `grammar-images.zip` (release bundle), or `dataset/img`,
+  /// `dataset/audio` (the repo's content/ folder). A release build ships
   /// the database encrypted with SQLite3MultipleCiphers (docs/07 §11); [key] unlocks it.
   /// A plain database (development) opens with or without a key.
   static ContentDb open(String dataDir, {String? key}) {
@@ -34,7 +36,10 @@ class ContentDb {
     return ContentDb._(db, dataDir);
   }
 
-  void close() => _db.close();
+  void close() {
+    if (_imagesOpened) _images?.close();
+    _db.close();
+  }
 
   /// Raw handle for query extensions in other files (read-only database).
   Database get raw => _db;
@@ -64,10 +69,31 @@ class ContentDb {
 
   int get embeddedMediaCount => _hasMediaTable ? _db.select('SELECT COUNT(*) AS n FROM media').first['n'] as int : 0;
 
-  /// Image of a relative content path: from the database when embedded, else from the file.
+  /// The illustrations zip next to grammar.db, or null (repo layout, not downloaded, or
+  /// unreadable: then [imagePackError] says why). Opened on first use.
+  ImagePack? get images {
+    if (!_imagesOpened) {
+      _imagesOpened = true;
+      try {
+        _images = ImagePack.open(p.join(dataDir, imagePackName));
+      } on FormatException catch (e) {
+        imagePackError = e.message;
+      }
+    }
+    return _images;
+  }
+  ImagePack? _images;
+  bool _imagesOpened = false;
+  String? imagePackError;
+
+  /// Image of a relative content path: the Từ Vựng Tranh pages from the database, the
+  /// illustrations from grammar-images.zip, else a file (`img/…` or the repo's `dataset/img/…`).
   ImageProvider imageProvider(String rel) {
     final bytes = embeddedMedia(rel);
-    return bytes != null ? MemoryImage(bytes) : FileImage(mediaFile(rel));
+    if (bytes != null) return MemoryImage(bytes);
+    final pack = images;
+    if (pack != null && pack.contains(rel)) return PackImage(pack, rel);
+    return FileImage(mediaFile(rel));
   }
 
   /// Highest `schema_version` of grammar.db this app understands (content/content.json `schema`).

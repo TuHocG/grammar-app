@@ -4,7 +4,6 @@ library;
 
 import 'dart:io';
 
-import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path/path.dart' as p;
@@ -13,7 +12,9 @@ import '../../app/config.dart';
 import '../../app/providers.dart';
 import '../../app/restart.dart';
 import '../../data/content_db.dart';
+import '../../data/image_pack.dart';
 import '../../data/media_locations.dart';
+import 'data_picker.dart';
 
 class ContentSourcesSection extends ConsumerStatefulWidget {
   const ContentSourcesSection({super.key});
@@ -69,25 +70,19 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
 
   Future<void> _pickDatabase() async {
     final current = ref.read(contentDbProvider).dataDir;
-    final PlatformFile? f;
+    final String? dir;
     try {
-      f = await FilePicker.pickFile(
-        dialogTitle: 'Chọn file dữ liệu grammar.db',
-        type: FileType.custom,
-        allowedExtensions: const ['db'],
-        initialDirectory: _existingDir(current),
-      );
+      dir = await pickDataFolder(context, initialDirectory: _existingDir(current));
     } catch (e) {
-      _snack('Không mở được hộp thoại chọn file: $e');
+      _snack('Không mở được hộp thoại chọn thư mục: $e');
       return;
     }
-    final path = f?.path;
-    if (path == null || !mounted) return;
-    if (p.basename(path).toLowerCase() != 'grammar.db') {
-      _snack('Hãy chọn file tên grammar.db.');
+    if (dir == null || !mounted) return;
+    final path = p.join(dir, 'grammar.db');
+    if (!File(path).existsSync()) {
+      _snack('Không thấy grammar.db trong thư mục $dir.');
       return;
     }
-    final dir = p.dirname(path);
     String? version;
     int schema;
     Map<String, dynamic> counts;
@@ -106,7 +101,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
       return;
     }
     if (!mounted) return;
-    final hasImages = Directory(illustrationsDir(dir)).existsSync();
+    final images = describeImages(dir);
     final ok = await showDialog<bool>(
       context: context,
       builder: (c) => AlertDialog(
@@ -114,12 +109,12 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
         content: Text(
           '$path\n\n'
           'Bài đọc ${counts['reading']} · Luyện nói ${counts['dialog']} · Bài tập ${counts['exercise']}\n'
-          '${hasImages ? 'Có thư mục ảnh minh hoạ img/ cạnh file.' : 'Không thấy thư mục ảnh minh hoạ img/ cạnh file: bài đọc sẽ không có ảnh minh hoạ (ảnh Từ vựng tranh nằm sẵn trong file).'}\n\n'
+          '$images\n\n'
           'App sẽ mở lại trang chủ với dữ liệu này.',
         ),
         actions: [
           TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('Huỷ')),
-          FilledButton(onPressed: () => Navigator.pop(c, true), child: const Text('Dùng file này')),
+          FilledButton(onPressed: () => Navigator.pop(c, true), child: const Text('Dùng dữ liệu này')),
         ],
       ),
     );
@@ -133,7 +128,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
   Future<void> _pickFolder(String key, String title, String? initial) async {
     final String? dir;
     try {
-      dir = await FilePicker.getDirectoryPath(dialogTitle: title, initialDirectory: _existingDir(initial));
+      dir = await pickFolder(context, title: title, initialDirectory: _existingDir(initial));
     } catch (e) {
       _snack('Không mở được hộp thoại chọn thư mục: $e');
       return;
@@ -158,6 +153,12 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     final user = ref.read(userDbProvider);
     final customAudio = (user.setting(audioDirKey) ?? '').isNotEmpty;
 
+    // Name of a file of the data folder, heading the lines about it.
+    Widget fileHeading(String name) => Padding(
+          padding: const EdgeInsets.only(top: 10, bottom: 2),
+          child: Text(name, style: theme.textTheme.labelLarge),
+        );
+
     Widget card({required IconData icon, required String title, required List<Widget> lines, required List<Widget> actions}) => Padding(
           padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
           child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
@@ -181,24 +182,41 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
         lines: d == null
             ? [Text('Đang đọc…', style: muted)]
             : [
-                SelectableText(d.dbPath, style: muted),
+                SelectableText(p.dirname(d.dbPath), style: muted),
+                fileHeading('grammar.db'),
                 Text(
                   [
                     if (d.date != null && d.date!.isNotEmpty) 'Phát hành ${d.date}',
                     formatBytes(d.dbBytes),
-                    'lược đồ ${d.schema}',
-                    if (d.embedded > 0) '${d.embedded} ảnh tranh trong file',
-                    '${d.images} ảnh minh hoạ',
+                    'schema ${d.schema}',
                   ].join(' · '),
                   style: muted,
                 ),
                 Text(
-                  'Từ điển ${d.counts['dict_entry']} mục · Bài đọc ${d.counts['reading']} · Luyện nói ${d.counts['dialog']} · '
-                  'Văn phạm ${d.counts['grammar_lesson']} · Bài tập ${d.counts['exercise']} · Phụ đề ${d.counts['subtitle_film']} tập',
+                  [
+                    'Từ điển ${d.counts['dict_entry']} mục',
+                    'Bài đọc ${d.counts['reading']}',
+                    'Luyện nói ${d.counts['dialog']}',
+                    'Văn phạm ${d.counts['grammar_lesson']}',
+                    'Bài tập ${d.counts['exercise']}',
+                    'Phụ đề ${d.counts['subtitle_film']} tập',
+                    'Từ vựng tranh ${d.counts['picture_topic']} bài',
+                  ].join(' · '),
                   style: muted,
                 ),
+                fileHeading(imagePackName),
+                Text(
+                  d.imagePackBroken
+                      ? 'File bị hỏng (có thể tải chưa xong), hãy tải lại: bài đọc đang không có ảnh minh hoạ.'
+                      : d.imagePack
+                      ? '${d.images} ảnh minh hoạ · ${formatBytes(d.imagePackBytes)}'
+                      : d.images > 0
+                      ? 'Không có; đang đọc ${d.images} ảnh minh hoạ từ thư mục img/.'
+                      : 'Không có: bài đọc sẽ không có ảnh minh hoạ.',
+                  style: d.imagePackBroken ? muted?.copyWith(color: theme.colorScheme.error) : muted,
+                ),
               ],
-        actions: [OutlinedButton.icon(onPressed: _pickDatabase, icon: const Icon(Icons.file_open_outlined), label: const Text('Chọn file grammar.db…'))],
+        actions: [OutlinedButton.icon(onPressed: _pickDatabase, icon: const Icon(Icons.folder_open_outlined), label: const Text(pickDataLabel))],
       ),
       const Divider(indent: 16, endIndent: 16),
       card(

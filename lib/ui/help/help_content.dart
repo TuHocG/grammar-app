@@ -37,12 +37,11 @@ App không kèm sẵn bài học. Bạn cần gói dữ liệu **grammar4-data-�
 
 ## Lần mở đầu tiên
 - Giải nén gói dữ liệu vào một thư mục bất kỳ.
-- Ở màn hình **Thư mục dữ liệu**, bấm **Chọn file grammar.db…** (Android: **Chọn thư mục chứa grammar.db…**), hoặc gõ đường dẫn thư mục rồi bấm **Mở**.
-- Thư mục ảnh minh hoạ **img/** phải nằm cạnh grammar.db. Ảnh Từ Vựng Tranh có sẵn trong file.
+- Ở màn hình **Thư mục dữ liệu**, bấm **Chọn thư mục dữ liệu…** và chọn thư mục vừa giải nén, hoặc gõ đường dẫn thư mục rồi bấm **Mở**. App tự tìm hai file trong đó: **grammar.db** (bài học) và **grammar-images.zip** (ảnh minh hoạ; không có thì bài đọc không có ảnh). Ảnh Từ Vựng Tranh có sẵn trong grammar.db.
 
 ## Đổi hoặc thêm dữ liệu
 Vào **Cài Đặt → Dữ liệu** (nút bánh răng trên trang chính). Mỗi mục cho biết app tìm thấy gì:
-- **Dữ liệu bài học**: chọn grammar.db khác, ví dụ khi có phiên bản nội dung mới. App mở lại trang chính với dữ liệu đó.
+- **Dữ liệu bài học**: bấm **Chọn thư mục dữ liệu…** để đổi sang thư mục dữ liệu khác, ví dụ khi có phiên bản nội dung mới. App mở lại trang chính với dữ liệu đó.
 - **Âm thanh thực (giọng đọc thật)**: mặc định app tìm thư mục **audio/** cạnh grammar.db. Để ở chỗ khác thì bấm **Chọn thư mục…** và chọn thư mục chứa 1.mp3, 2.wav…
 - **Video (Luyện Nghe)**: bấm **Chọn thư mục…** và chọn thư mục chứa A 01.mp4…
 

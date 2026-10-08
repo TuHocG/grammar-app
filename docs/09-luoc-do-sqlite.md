@@ -29,7 +29,7 @@ Sinh bằng `python3 tool/content/pack.py` (từ `content/dataset` ra `content/g
 
 Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ? AND key < ?` 1,7 ms; `dict_fts MATCH` 2,5 ms.
 
-**File ngoài DB.** Ảnh minh hoạ (`reading.img`, ảnh luyện nói trong `meta`) và ghi âm (`reading.audio`) không nằm trong DB; DB giữ đường dẫn tương đối `img/...`, `audio/...`. App tìm file ở `<thư mục chứa grammar.db>/img/...` (bản phát hành do `tool/content/bundle.py` đóng gói), nếu không có thì ở `<thư mục>/dataset/img/...` (cấu trúc `content/` trong repo). Thiếu ảnh minh hoạ thì bài học vẫn dùng được; thiếu ghi âm thì đọc bằng giọng máy.
+**File ngoài DB.** Ảnh minh hoạ (`reading.img`, ảnh luyện nói trong `meta`) và ghi âm (`reading.audio`) không nằm trong DB; DB giữ đường dẫn tương đối `img/...`, `audio/...`. Bản phát hành (`tool/content/bundle.py`) gom ảnh minh hoạ vào `grammar-images.zip` cạnh grammar.db: zip không nén, mỗi ảnh mang đúng đường dẫn `img/...` của nội dung, app đọc thẳng từ zip (`lib/data/image_pack.dart`). Không có file này thì app tìm `<thư mục chứa grammar.db>/img/...`, rồi `<thư mục>/dataset/img/...` (cấu trúc `content/` trong repo). Ghi âm vẫn là file trong `audio/`. Thiếu ảnh minh hoạ thì bài học vẫn dùng được; thiếu ghi âm thì đọc bằng giọng máy.
 
 **Lược đồ.** 1: bản đầu. App đọc được lược đồ ≤ `ContentDb.supportedSchema` (= 1); DB không có bảng `media` vẫn mở được, khi đó ảnh trang tranh lấy từ file.
 
