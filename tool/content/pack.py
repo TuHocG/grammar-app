@@ -10,7 +10,7 @@ them (`content_version`, `schema_version`).
 Pictures the lessons cannot work without (the Từ Vựng Tranh pages: hotspots are drawn on them) are
 embedded in the `media` table. Illustrations (readings, dialogs) and recordings stay outside;
 the DB keeps their relative paths (`img/readings/x.webp`, `audio/1.mp3`). In a release the illustrations
-are entries of grammar-images.zip and the recordings files in audio/, both next to grammar.db
+are entries of grammar.images and the recordings files in audio/, both next to grammar.db
 (tool/content/bundle.py); in the repo they are under content/dataset/.
 """
 from __future__ import annotations
@@ -276,7 +276,7 @@ def pack(dataset: Path, out: Path, content: dict) -> None:
         ('content_date', content.get('date', '')),
         ('built', time.strftime('%Y-%m-%dT%H:%M:%S')),
         ('counts', _j(counts)),
-        ('media_note', 'img/pages/* embedded in table media; other img/ paths are entries of grammar-images.zip and audio/ paths files in audio/, next to this database (repo: content/dataset/)'),
+        ('media_note', 'img/pages/* embedded in table media; other img/ paths are entries of grammar.images and audio/ paths files in audio/, next to this database (repo: content/dataset/)'),
     ])
     con.commit()
     con.execute('VACUUM')

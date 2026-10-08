@@ -49,20 +49,21 @@ Phiên bản nội dung được ghi vào `grammar.db` (bảng `meta`: `content_
 ## Đóng gói dữ liệu cho người dùng
 
 ```sh
-python3 tool/content/bundle.py                         # check + pack + zip -> build/content/
-python3 tool/content/bundle.py --audio <thư mục 1.mp3…>  # kèm gói giọng đọc thật
+python3 tool/content/bundle.py                         # check + pack -> build/content/grammar.db + grammar.images
+python3 tool/content/bundle.py --zip-data              # kèm grammar4-data-<phiên bản>.zip gộp hai file, để chia sẻ tay
+python3 tool/content/bundle.py --zip-audio <thư mục 1.mp3…>  # kèm gói giọng đọc thật
 ```
 
-Kết quả trong `build/content/` (kèm `SHA256SUMS.txt`, `bundle.json`). Người dùng giải nén vào một thư mục bất kỳ rồi chọn thư mục đó trong Cài Đặt → Dữ liệu (app tự tìm `grammar.db` và `grammar-images.zip`):
+Kết quả là hai file trong `build/content/` (kèm `SHA256SUMS.txt`, `bundle.json` ghi phiên bản nội dung). Pipeline phát hành đính hai file riêng; gói zip (`--zip-data`) tiện gửi tay, người nhận giải nén ra thư mục. Người dùng đặt cả hai file vào một thư mục bất kỳ rồi chọn thư mục đó trong Cài Đặt → Dữ liệu:
 
 ```
-grammar.db           bài học + 155 trang Từ Vựng Tranh (nhúng trong DB, bảng media)
-grammar-images.zip   ảnh minh hoạ bài đọc và luyện nói, zip không nén, app đọc thẳng (tuỳ chọn)
-audio/…              giọng đọc thật, từ gói audio giải nén vào cùng thư mục (tuỳ chọn)
-video/…              video Luyện Nghe A 01.mp4 … (tuỳ chọn)
+grammar.db       bài học + 155 trang Từ Vựng Tranh (nhúng trong DB, bảng media)
+grammar.images   ảnh minh hoạ bài đọc và luyện nói (zip không nén, app đọc thẳng; tuỳ chọn)
+audio/…          giọng đọc thật, từ gói audio giải nén vào cùng thư mục (tuỳ chọn)
+video/…          video Luyện Nghe A 01.mp4 … (tuỳ chọn)
 ```
 
-Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc (không có `grammar-images.zip` thì tìm ảnh trong `img/` hoặc `dataset/img/`).
+Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc (không có `grammar.images` thì tìm ảnh trong `img/` hoặc `dataset/img/`).
 
 ## Cấu trúc
 
@@ -79,7 +80,7 @@ windows/runner/sapi_tts.cpp   TTS SAPI cho Windows
 content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); content.json phiên bản; ids.json ID ổn định; CHANGELOG.md
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung
-tool/content/bundle.py        đóng gói bản phát hành: grammar4-data-<phiên bản>.zip (grammar.db + grammar-images.zip), grammar4-audio-<phiên bản>.zip (audio/)
+tool/content/bundle.py        đóng gói bản phát hành: grammar.db + grammar.images (`--zip-data`: kèm grammar4-data-<phiên bản>.zip), `--zip-audio`: grammar4-audio-<phiên bản>.zip (audio/)
 tool/encrypt_db.dart          mã hoá grammar.db cho bản phát hành
 docs/                         kế hoạch port (07), ma trận truy vết hành vi app gốc (08), lược đồ SQLite (09)
 DESIGN.md                     tham chiếu phong cách giao diện
@@ -112,7 +113,7 @@ Các bước phát hành:
 
 1. Tăng `version:` trong `pubspec.yaml` (ví dụ `0.2.0+2`; số sau `+` là versionCode Android và phải tăng mỗi lần).
 2. Commit, rồi `git tag v0.2.0 && git push origin v0.2.0`.
-3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` với cùng `GRAMMAR_DB_KEY` và đính `grammar4-data-<phiên bản nội dung>.zip` (grammar.db đã mã hoá, ảnh trang tranh nằm trong DB, ảnh minh hoạ trong `grammar-images.zip`) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng giải nén gói rồi chọn thư mục đó trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `GRAMMAR_DB_KEY=<khoá> python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive; người dùng đặt `audio/`, `video/` cạnh grammar.db (app tự tìm) hoặc chọn thư mục khác trong Cài Đặt.
+3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` với cùng `GRAMMAR_DB_KEY` và đính `grammar.db` (đã mã hoá, ảnh trang tranh nằm trong DB) cùng `grammar.images` (ảnh minh hoạ) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng tải hai file vào một thư mục rồi chọn thư mục đó trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `GRAMMAR_DB_KEY=<khoá> python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive; người dùng đặt `audio/`, `video/` cạnh grammar.db (app tự tìm) hoặc chọn thư mục khác trong Cài Đặt.
 4. Mở bản nháp release, ghi chú gồm: link Drive tới audio và video; danh sách "cố ý khác" ở cuối docs/08; cách mở lần đầu (dưới đây). Sau đó Publish.
 
 Mở lần đầu: **Windows** giải nén rồi chạy `grammar.exe`; SmartScreen cảnh báo vì exe chưa ký, chọn More info → Run anyway. **macOS**: app chưa notarize, nên nhấp phải → Open, hoặc chạy `xattr -cr "Grammar 4.0.app"`. **Android**: cho phép cài từ nguồn không rõ.

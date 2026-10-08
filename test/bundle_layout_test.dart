@@ -1,6 +1,6 @@
-// The release layout (grammar.db + grammar-images.zip + audio/ side by side, from tool/content/bundle.py) and the
-// repo layout (content/grammar.db + dataset/) must both work. Run after bundle.py and unzipping into
-// build/content/unzipped (skipped otherwise).
+// The release layout (grammar.db + grammar.images + audio/ side by side, from tool/content/bundle.py) and the
+// repo layout (content/grammar.db + dataset/) must both work. Run after bundle.py, which writes both
+// files into build/content (skipped otherwise).
 import 'dart:async';
 import 'dart:io';
 
@@ -13,14 +13,14 @@ import 'package:grammar/data/media_locations.dart';
 import 'package:path/path.dart' as p;
 
 void main() {
-  final bundle = Platform.environment['GRAMMAR_BUNDLE_DIR'] ?? 'build/content/unzipped';
+  final bundle = Platform.environment['GRAMMAR_BUNDLE_DIR'] ?? 'build/content';
   final hasBundle = File('$bundle/grammar.db').existsSync();
   // Encrypted bundle (bundle.py with GRAMMAR_DB_KEY): pass the same key to open it.
   final key = Platform.environment['GRAMMAR_BUNDLE_KEY'];
   final repo = Platform.environment['GRAMMAR_DATA_DIR'] ?? 'content';
   final hasRepo = File('$repo/grammar.db').existsSync();
 
-  test('release bundle: pages from the database, illustrations from grammar-images.zip, audio next to it', () {
+  test('release bundle: pages from the database, illustrations from grammar.images, audio next to it', () {
     final db = ContentDb.open(bundle, key: key);
     expect(db.schemaVersion, 1);
     final page = db.pictureTopics().first.page!;
@@ -51,7 +51,7 @@ void main() {
     db.close();
   }, skip: !hasBundle);
 
-  testWidgets('an illustration decodes straight from grammar-images.zip', (tester) async {
+  testWidgets('an illustration decodes straight from grammar.images', (tester) async {
     final db = ContentDb.open(bundle, key: key);
     addTearDown(db.close);
     final img = db.raw.select('SELECT img FROM reading WHERE img IS NOT NULL LIMIT 1').first['img'] as String;

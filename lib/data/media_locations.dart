@@ -1,6 +1,6 @@
 /// Where the app finds its content files, and short summaries of what is there (Cài Đặt).
 ///
-/// - Lesson data: `grammar.db`; illustrations in `grammar-images.zip` next to it (release), or
+/// - Lesson data: `grammar.db`; illustrations in `grammar.images` next to it (release), or
 ///   `dataset/img/` (repo). The Từ Vựng Tranh pages are inside grammar.db.
 /// - Real-voice recordings (Âm thanh thực): setting `audio_dir`, default `dataset/audio/` next to
 ///   grammar.db. Files are named as in the readings (`1.mp3`, `2.wav` …).
@@ -94,9 +94,9 @@ class DataSummary {
   final String? date;
   final int schema;
   final Map<String, dynamic> counts;
-  final int images;          // illustrations in grammar-images.zip, else files in img/ (or dataset/img/)
-  final bool imagePack;      // the illustrations come from grammar-images.zip
-  final bool imagePackBroken; // grammar-images.zip is there but cannot be read
+  final int images;          // illustrations in grammar.images, else files in img/ (or dataset/img/)
+  final bool imagePack;      // the illustrations come from grammar.images
+  final bool imagePackBroken; // grammar.images is there but cannot be read
   final int imagePackBytes;
   final int embedded;        // pictures stored inside grammar.db
   const DataSummary({required this.dbPath, required this.dbBytes, this.version, this.date, required this.schema, required this.counts, required this.images, required this.imagePack, this.imagePackBroken = false, this.imagePackBytes = 0, required this.embedded});

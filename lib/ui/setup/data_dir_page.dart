@@ -1,5 +1,5 @@
 /// First-run screen while the content is not yet downloadable (docs/07 §11): pick or type the
-/// data folder (grammar.db, and grammar-images.zip for the illustrations).
+/// data folder (grammar.db, and grammar.images for the illustrations).
 library;
 
 import 'dart:io';
@@ -37,7 +37,7 @@ class _DataDirPageState extends State<DataDirPage> {
               Text('Thư mục dữ liệu', style: theme.textTheme.headlineSmall),
               const SizedBox(height: 8),
               Text(
-                'Giải nén gói dữ liệu grammar4-data-….zip rồi chọn thư mục vừa giải nén: app tìm grammar.db và $imagePackName (ảnh minh hoạ) trong đó. '
+                'Tải grammar.db và $imagePackName (ảnh minh hoạ) vào cùng một thư mục rồi chọn thư mục đó. '
                 'Khi phát triển, đó là content/grammar.db của repo sau khi chạy tool/content/pack.py.',
                 style: theme.textTheme.bodyMedium,
               ),

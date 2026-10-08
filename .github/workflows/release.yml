@@ -68,8 +68,8 @@ jobs:
       - run: flutter analyze
       - run: flutter test
 
-  # Lesson data for users: grammar.db (+ embedded picture pages) and grammar-images.zip; grammar.db is encrypted with the same key
-  # the apps are built with (tool/encrypt_db.dart, hence Flutter); attached to the draft release.
+  # Lesson data for users: grammar.db (+ embedded picture pages) and grammar.images, two files; grammar.db is
+  # encrypted with the same key the apps are built with (tool/encrypt_db.dart, hence Flutter).
   data:
     needs: check
     # Runs when check passed or was skipped (skip_check), not when it failed.
@@ -90,7 +90,9 @@ jobs:
       # Packages are uploaded unzipped (archive: false), one file per artifact named after the file,
       # so each downloads on its own without a zip around it.
       - uses: actions/upload-artifact@v7
-        with: { path: 'build/content/grammar4-data-*.zip', archive: false }
+        with: { path: build/content/grammar.db, archive: false }
+      - uses: actions/upload-artifact@v7
+        with: { path: build/content/grammar.images, archive: false }
 
   desktop:
     needs: [version, check]
@@ -179,7 +181,7 @@ jobs:
       - uses: actions/download-artifact@v8
         with: { path: dist, pattern: 'Grammar-*', merge-multiple: true }
       - uses: actions/download-artifact@v8
-        with: { path: dist, pattern: 'grammar4-data-*', merge-multiple: true }
+        with: { path: dist, pattern: 'grammar.*', merge-multiple: true }
       # Draft: edit the notes (docs/08 "cố ý khác" list, data/audio links) before publishing.
       - uses: softprops/action-gh-release@v2
         with:

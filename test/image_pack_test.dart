@@ -1,4 +1,4 @@
-// grammar-images.zip reader: stored entries (what bundle.py writes) and deflated ones (a folder
+// grammar.images reader: stored entries (what bundle.py writes) and deflated ones (a folder
 // re-zipped with an ordinary tool), names in UTF-8, directories skipped, a broken file ignored.
 import 'dart:convert';
 import 'dart:io';

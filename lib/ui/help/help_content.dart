@@ -33,11 +33,11 @@ const helpTopics = <AppHelpTopic>[
     summary: 'Chọn grammar.db, thêm giọng đọc thật và video',
     section: 'Bắt đầu',
     body: r'''
-App không kèm sẵn bài học. Bạn cần gói dữ liệu **grammar4-data-….zip**. Âm thanh thực (giọng đọc thật) và video là phần thêm, tải riêng.
+App không kèm sẵn bài học. Bạn cần hai file dữ liệu: **grammar.db** và **grammar.images**. Âm thanh thực (giọng đọc thật) và video là phần thêm, tải riêng.
 
 ## Lần mở đầu tiên
-- Giải nén gói dữ liệu vào một thư mục bất kỳ.
-- Ở màn hình **Thư mục dữ liệu**, bấm **Chọn thư mục dữ liệu…** và chọn thư mục vừa giải nén, hoặc gõ đường dẫn thư mục rồi bấm **Mở**. App tự tìm hai file trong đó: **grammar.db** (bài học) và **grammar-images.zip** (ảnh minh hoạ; không có thì bài đọc không có ảnh). Ảnh Từ Vựng Tranh có sẵn trong grammar.db.
+- Tải **grammar.db** và **grammar.images** vào cùng một thư mục bất kỳ.
+- Ở màn hình **Thư mục dữ liệu**, bấm **Chọn thư mục dữ liệu…** và chọn thư mục đó, hoặc gõ đường dẫn thư mục rồi bấm **Mở**. App tự tìm hai file trong đó: **grammar.db** (bài học) và **grammar.images** (ảnh minh hoạ; không có thì bài đọc không có ảnh). Ảnh Từ Vựng Tranh có sẵn trong grammar.db.
 - Android hỏi quyền truy cập tệp ở lần chọn đầu tiên: hãy cho phép để app đọc được thư mục này.
 
 ## Đổi hoặc thêm dữ liệu

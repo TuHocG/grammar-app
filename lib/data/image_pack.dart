@@ -1,4 +1,5 @@
-/// `grammar-images.zip` next to grammar.db: the reading and Luyện Nói illustrations in one file,
+/// `grammar.images` next to grammar.db: a zip (own extension, so users do not unzip it) of the
+/// reading and Luyện Nói illustrations in one file,
 /// so users copy one file instead of thousands. Entries are named by their content path
 /// (`img/readings/x.webp`) and stored uncompressed (WebP is already compressed), so reading
 /// one is a seek and a read. Deflated entries are accepted too, in case someone re-zips the
@@ -13,7 +14,7 @@ import 'dart:ui' as ui;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/painting.dart';
 
-const imagePackName = 'grammar-images.zip';
+const imagePackName = 'grammar.images';
 
 class _Entry {
   final int method, offset, size;

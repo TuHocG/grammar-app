@@ -17,7 +17,7 @@ class ContentDb {
   final String dataDir;
   ContentDb._(this._db, this.dataDir);
 
-  /// [dataDir] holds `grammar.db` and `grammar-images.zip` (release bundle), or `dataset/img`,
+  /// [dataDir] holds `grammar.db` and `grammar.images` (release bundle), or `dataset/img`,
   /// `dataset/audio` (the repo's content/ folder). A release build ships
   /// the database encrypted with SQLite3MultipleCiphers (docs/07 §11); [key] unlocks it.
   /// A plain database (development) opens with or without a key.
@@ -87,7 +87,7 @@ class ContentDb {
   String? imagePackError;
 
   /// Image of a relative content path: the Từ Vựng Tranh pages from the database, the
-  /// illustrations from grammar-images.zip, else a file (`img/…` or the repo's `dataset/img/…`).
+  /// illustrations from grammar.images, else a file (`img/…` or the repo's `dataset/img/…`).
   ImageProvider imageProvider(String rel) {
     final bytes = embeddedMedia(rel);
     if (bytes != null) return MemoryImage(bytes);

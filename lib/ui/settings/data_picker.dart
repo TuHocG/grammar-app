@@ -1,7 +1,7 @@
 /// Choosing where grammar.db and the media folders are, shared by the first-run page and
 /// Cài Đặt → Dữ liệu.
 ///
-/// The user picks the data folder (grammar.db and grammar-images.zip side by side), not the
+/// The user picks the data folder (grammar.db and grammar.images side by side), not the
 /// file: Android's file picker would hand back a temporary copy of the file in the app cache,
 /// without the files around it, that can be cleared at any time.
 library;
@@ -35,7 +35,7 @@ Future<bool> ensureStorageAccess(BuildContext context) async {
     builder: (c) => AlertDialog(
       title: const Text('Cho phép đọc thư mục dữ liệu'),
       content: Text(
-        'App đọc grammar.db, ảnh, âm thanh và video ngay trong thư mục bạn đã tải về (ví dụ Download/grammar4-data-…), '
+        'App đọc grammar.db, ảnh, âm thanh và video ngay trong thư mục bạn đã tải về (ví dụ Download/grammar4), '
         'nên cần quyền truy cập tệp. $next',
       ),
       actions: [
