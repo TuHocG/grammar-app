@@ -206,8 +206,8 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
         appBar: GrammarAppBar(
           title: Text('${f.code} · ${f.group == 'F' ? f.title : (f.firstLine ?? '')}', maxLines: 1, overflow: TextOverflow.ellipsis),
           actions: [
-            IconButton(tooltip: 'Phụ đề Anh (A)', icon: Icon(Icons.subtitles, color: _showEn ? theme.colorScheme.primary : null), onPressed: () => setState(() => _showEn = !_showEn)),
-            IconButton(tooltip: 'Phụ đề Việt (V)', icon: Icon(Icons.translate, color: _showVi ? theme.colorScheme.primary : null), onPressed: () => setState(() => _showVi = !_showVi)),
+            IconButton(tooltip: 'Phụ đề Anh', icon: Icon(Icons.subtitles, color: _showEn ? theme.colorScheme.primary : null), onPressed: () => setState(() => _showEn = !_showEn)),
+            IconButton(tooltip: 'Phụ đề Việt', icon: Icon(Icons.translate, color: _showVi ? theme.colorScheme.primary : null), onPressed: () => setState(() => _showVi = !_showVi)),
           ],
         ),
         body: Column(children: [
