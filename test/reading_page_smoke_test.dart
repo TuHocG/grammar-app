@@ -9,6 +9,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:grammar/app/providers.dart';
 import 'package:grammar/app/theme.dart';
 import 'package:grammar/data/content_db.dart';
+import 'package:grammar/data/content_db_more.dart';
 import 'package:grammar/data/reading_loader.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
@@ -245,4 +246,14 @@ void main() {
       expect(find.byType(Scaffold), findsOneWidget);
     }, skip: !has);
   }
+
+  testWidgets('Đàm thoại can be left without errors (no ref in dispose)', (tester) async {
+    tester.view.physicalSize = const Size(1100, 720);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(dialogPractice(db, db.dialog(1)!)));
+    await tester.pump();
+    await tester.pumpWidget(wrap(const SizedBox()));
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
 }

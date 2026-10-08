@@ -13,6 +13,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
+import '../../platform/tts.dart';
 import '../../data/models.dart';
 import '../widgets/word_tap_text.dart';
 import '../widgets/shell.dart';
@@ -62,12 +63,15 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
   bool _readWhole = false;
   bool _showAnswer = false;
   String? _image;
+  /// Read once: `ref` may not be used in [dispose].
+  late final TtsService _tts;
 
   List<String> get _words => widget.items[_pos].answer.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).toList();
 
   @override
   void initState() {
     super.initState();
+    _tts = ref.read(ttsProvider);
     _level = int.tryParse(ref.read(userDbProvider).setting('dialog_level') ?? '') ?? 4;
     _start();
   }
@@ -75,7 +79,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
   @override
   void dispose() {
     _timer?.cancel();
-    ref.read(ttsProvider).stop();
+    _tts.stop();
     super.dispose();
   }
 
