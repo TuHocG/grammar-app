@@ -60,6 +60,7 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 6),
           child: SegmentedButton<String>(
+            showSelectedIcon: false,
             segments: const [
               ButtonSegment(value: 'A', label: Text('A · 57')),
               ButtonSegment(value: 'B', label: Text('B · 68')),
@@ -228,26 +229,63 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
               if (line == null) Text('…', style: theme.textTheme.titleMedium),
             ]),
           ),
-          SafeArea(
-            top: false,
-            child: Padding(
-              padding: const EdgeInsets.fromLTRB(8, 0, 8, 6),
-              child: Row(children: [
-                Text('Câu ${_idx + 1}/${_lines.length}', style: theme.textTheme.bodySmall),
-                const Spacer(),
-                IconButton(tooltip: 'Câu trước (↑)', icon: const Icon(Icons.skip_previous), onPressed: () => _seekTo(_idx - 1)),
-                IconButton(tooltip: 'Nghe lại câu (←)', icon: const Icon(Icons.replay), onPressed: () => _seekTo(_idx)),
-                IconButton(iconSize: 40, icon: Icon(_playing ? Icons.pause_circle : Icons.play_circle), onPressed: _player.playOrPause),
-                IconButton(tooltip: 'Câu kế (→)', icon: const Icon(Icons.skip_next), onPressed: () => _seekTo(_idx + 1)),
-                const Spacer(),
-                Text('Số câu lặp', style: theme.textTheme.bodySmall),
-                IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.remove), onPressed: _loop > 0 ? () => _setLoop(_loop - 1) : null),
-                Text('$_loop', style: theme.textTheme.titleMedium),
-                IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.add), onPressed: _loop < 10 ? () => _setLoop(_loop + 1) : null),
-              ]),
-            ),
+          VideoControlBar(
+            position: 'Câu ${_idx + 1}/${_lines.length}',
+            playing: _playing,
+            loop: _loop,
+            onPrev: () => _seekTo(_idx - 1),
+            onReplay: () => _seekTo(_idx),
+            onPlayPause: _player.playOrPause,
+            onNext: () => _seekTo(_idx + 1),
+            onLoop: _setLoop,
           ),
         ]),
+      ),
+    );
+  }
+}
+
+/// Under the video: sentence number, previous / replay / play / next, and how many times each
+/// sentence repeats. One row on a wide screen; on a phone the buttons get a row of their own.
+class VideoControlBar extends StatelessWidget {
+  final String position;
+  final bool playing;
+  final int loop;
+  final VoidCallback onPrev, onReplay, onPlayPause, onNext;
+  final ValueChanged<int> onLoop;
+  const VideoControlBar({super.key, required this.position, required this.playing, required this.loop, required this.onPrev, required this.onReplay, required this.onPlayPause, required this.onNext, required this.onLoop});
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final narrow = MediaQuery.sizeOf(context).width < 600;
+    final pos = Text(position, style: theme.textTheme.bodySmall);
+    final transport = Row(mainAxisSize: MainAxisSize.min, children: [
+      IconButton(tooltip: 'Câu trước (↑)', icon: const Icon(Icons.skip_previous), onPressed: onPrev),
+      IconButton(tooltip: 'Nghe lại câu (←)', icon: const Icon(Icons.replay), onPressed: onReplay),
+      IconButton(iconSize: 40, icon: Icon(playing ? Icons.pause_circle : Icons.play_circle), onPressed: onPlayPause),
+      IconButton(tooltip: 'Câu kế (→)', icon: const Icon(Icons.skip_next), onPressed: onNext),
+    ]);
+    final repeat = Row(mainAxisSize: MainAxisSize.min, children: [
+      Text('Số câu lặp', style: theme.textTheme.bodySmall),
+      IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.remove), onPressed: loop > 0 ? () => onLoop(loop - 1) : null),
+      Text('$loop', style: theme.textTheme.titleMedium),
+      IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.add), onPressed: loop < 10 ? () => onLoop(loop + 1) : null),
+    ]);
+    return SafeArea(
+      top: false,
+      child: Padding(
+        padding: const EdgeInsets.fromLTRB(8, 0, 8, 6),
+        child: narrow
+            ? Column(mainAxisSize: MainAxisSize.min, children: [
+                transport,
+                // The sentence number gives way first when the text is large.
+                Padding(
+                  padding: const EdgeInsets.only(left: 8),
+                  child: Row(children: [Expanded(child: Text(position, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodySmall)), repeat]),
+                ),
+              ])
+            : Row(children: [pos, const Spacer(), transport, const Spacer(), repeat]),
       ),
     );
   }

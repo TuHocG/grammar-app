@@ -13,6 +13,7 @@ import 'package:grammar/data/content_db.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
+import 'package:grammar/ui/video/video_pages.dart';
 
 const phoneWidth = 360.0;
 const textScales = [1.0, 1.3];
@@ -88,5 +89,17 @@ void main() {
       }, skip: !has);
     }
 
+    testWidgets('video control bar fits a phone at $pct text', (tester) async {
+      phone(tester);
+      void none() {}
+      await tester.pumpWidget(app(
+        Scaffold(
+          bottomNavigationBar: VideoControlBar(position: 'Câu 1/494', playing: false, loop: 0, onPrev: none, onReplay: none, onPlayPause: none, onNext: none, onLoop: (_) {}),
+        ),
+        scale,
+      ));
+      expect(tester.takeException(), isNull);
+      expect(find.text('Số câu lặp'), findsOneWidget);
+    });
   }
 }
