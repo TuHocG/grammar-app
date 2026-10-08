@@ -19,7 +19,11 @@ dependencies:
   media_kit_video: ^2.0.1
   path: ^1.9.1
   path_provider: ^2.1.6
-  permission_handler: ^13.0.2
+  # Only the Android implementation: the umbrella package also builds permission_handler_windows,
+  # which fails on VS 2026 (Baseflow/flutter-permission-handler#1534), and the app needs no
+  # permissions elsewhere.
+  permission_handler_android: ^14.1.0
+  permission_handler_platform_interface: ^4.4.1
   sqlite3: ^3.7.0
 
 dev_dependencies:

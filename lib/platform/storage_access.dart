@@ -6,7 +6,7 @@ library;
 
 import 'dart:io';
 
-import 'package:permission_handler/permission_handler.dart';
+import 'package:permission_handler_platform_interface/permission_handler_platform_interface.dart';
 
 enum StorageAccess {
   granted,
@@ -18,13 +18,18 @@ enum StorageAccess {
   blocked,
 }
 
+PermissionHandlerPlatform get _handler => PermissionHandlerPlatform.instance;
+
+Future<PermissionStatus> _request(Permission p) async =>
+    (await _handler.requestPermissions([p]))[p] ?? PermissionStatus.denied;
+
 Future<StorageAccess> storageAccess() async {
   if (!Platform.isAndroid) return StorageAccess.granted;
-  final all = await Permission.manageExternalStorage.status;
+  final all = await _handler.checkPermissionStatus(Permission.manageExternalStorage);
   if (all.isGranted) return StorageAccess.granted;
   // Below Android 11 "all files access" does not exist and reports restricted.
   if (!all.isRestricted) return StorageAccess.needsAllFiles;
-  final legacy = await Permission.storage.status;
+  final legacy = await _handler.checkPermissionStatus(Permission.storage);
   if (legacy.isGranted) return StorageAccess.granted;
   return legacy.isPermanentlyDenied ? StorageAccess.blocked : StorageAccess.needsPrompt;
 }
@@ -35,12 +40,12 @@ Future<bool> requestStorageAccess(StorageAccess state) async {
     case StorageAccess.granted:
       return true;
     case StorageAccess.needsAllFiles:
-      return (await Permission.manageExternalStorage.request()).isGranted;
+      return (await _request(Permission.manageExternalStorage)).isGranted;
     case StorageAccess.needsPrompt:
-      return (await Permission.storage.request()).isGranted;
+      return (await _request(Permission.storage)).isGranted;
     case StorageAccess.blocked:
       // The user comes back to the app on their own; the caller asks again next time.
-      await openAppSettings();
+      await _handler.openAppSettings();
       return false;
   }
 }
