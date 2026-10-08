@@ -143,14 +143,22 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           ),
           ListTile(
             title: const Text('Giao diện'),
-            trailing: SegmentedButton<ThemeMode>(
-              segments: const [
-                ButtonSegment(value: ThemeMode.system, label: Text('Hệ thống')),
-                ButtonSegment(value: ThemeMode.light, label: Text('Sáng')),
-                ButtonSegment(value: ThemeMode.dark, label: Text('Tối')),
-              ],
-              selected: {s.themeMode},
-              onSelectionChanged: (v) => n.setThemeMode(v.first),
+            // Below the title, not `trailing`: three labelled segments don't fit beside it on a phone.
+            subtitle: Padding(
+              padding: const EdgeInsets.only(top: 8),
+              child: Align(
+                alignment: Alignment.centerLeft,
+                child: SegmentedButton<ThemeMode>(
+                  showSelectedIcon: false,
+                  segments: const [
+                    ButtonSegment(value: ThemeMode.system, label: Text('Hệ thống', maxLines: 1, softWrap: false)),
+                    ButtonSegment(value: ThemeMode.light, label: Text('Sáng', maxLines: 1, softWrap: false)),
+                    ButtonSegment(value: ThemeMode.dark, label: Text('Tối', maxLines: 1, softWrap: false)),
+                  ],
+                  selected: {s.themeMode},
+                  onSelectionChanged: (v) => n.setThemeMode(v.first),
+                ),
+              ),
             ),
           ),
           const _Header('Sao lưu'),
