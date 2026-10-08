@@ -39,7 +39,7 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Bài Đọc')],
-        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Bài Đọc', onPressed: () => context.push('/help/3'))],
+        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Bài Đọc', onPressed: () => context.push('/help/bai-doc'))],
       ),
       body: RailListView(
         maxWidth: 960,

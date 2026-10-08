@@ -40,7 +40,7 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         title: const Text('Video'),
-        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/21'))],
+        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/video'))],
       ),
       body: Column(children: [
         if (dir.isEmpty || !Directory(dir).existsSync())

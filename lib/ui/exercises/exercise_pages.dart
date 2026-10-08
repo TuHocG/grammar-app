@@ -37,7 +37,7 @@ class ExerciseGroupsPage extends ConsumerWidget {
       appBar: GrammarAppBar(
         crumbs: [const Crumb('Bài Tập', '/'), Crumb(menu.name)],
         actions: [
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/8')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/bai-tap')),
         ],
       ),
       body: RailListView(
@@ -242,7 +242,7 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
             label: const Text('Xoá đánh dấu'),
           ),
           const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/26')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/word-forms')),
         ],
         bottom: PreferredSize(
           preferredSize: const Size.fromHeight(60),

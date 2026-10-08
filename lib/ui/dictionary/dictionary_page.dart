@@ -167,7 +167,7 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
         actions: [
           Text('Gõ ở bất kỳ màn hình nào để tra', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
           const SizedBox(width: 12),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/1')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/tu-dien')),
         ],
       ),
       body: PageRail(

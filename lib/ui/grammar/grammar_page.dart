@@ -227,7 +227,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
             label: Text(_selectMode ? 'Thoát chọn' : 'Chọn nhiều bài'),
           ),
           const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/7')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/van-pham')),
         ],
       ),
       body: RailListView(

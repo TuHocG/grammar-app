@@ -76,7 +76,7 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
     return Scaffold(
       appBar: GrammarAppBar(
         title: const Text('Quay Từ'),
-        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/20'))],
+        actions: [IconButton(tooltip: 'Hướng dẫn', icon: const Icon(Icons.help_outline), onPressed: () => context.push('/help/tu-vung-cua-ban'))],
       ),
       body: w == null
           ? Center(

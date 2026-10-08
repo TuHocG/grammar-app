@@ -30,7 +30,7 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | G18 | Cỡ chữ bài đọc | `F1.frm`, `data.Kcu` slot 34 | `user_setting` | Giữ (cài đặt cỡ chữ toàn app) | M1 | — | ☑ |
 | G19 | Nhiều hồ sơ `user2..5` chọn bằng thư mục làm việc | B §6.3 | thư mục `user*` | Bỏ (một hồ sơ; có xuất/nhập JSON để chuyển máy, chọn nơi lưu / file khôi phục bằng hộp thoại file của hệ điều hành – `file_picker`) | M6 | xuất rồi nhập lại giữ nguyên từ đã lưu | ☑ |
 | G20 | Kiểm tra phiên bản 30 ngày, tự thoát; khoá menu 10 s khi khởi động; chống chạy 2 bản; chống sửa ReadMe | C §8.2–8.3 `MoWeb.bas`, `Delete_WEB.bas`, B §1.3 | — | Bỏ | — | — | ☐ |
-| G21 | Hướng dẫn trong app: nút Hướng Dẫn Cách Học (ReadMe) và 28 chủ đề help gắn với màn hình đang mở | C §8.1 `Help_.bas:TimSoHelp` | `help_topic` | Giữ (nút "?" ở mỗi màn hình mở đúng chủ đề; bảng ánh xạ C §8.1) | M1 | ở màn hình Xếp từ bấm ? → bài [16] | ☑ |
+| G21 | Hướng dẫn trong app: nút Hướng Dẫn Cách Học (ReadMe) và 28 chủ đề help gắn với màn hình đang mở | C §8.1 `Help_.bas:TimSoHelp` | `help_topic` (không còn hiển thị) | Tương đương: nút "?" ở mỗi màn hình mở đúng chủ đề; nội dung hướng dẫn viết lại cho Grammar 4.0 (chuột/phím và chạm), đóng gói trong app (`lib/ui/help/help_content.dart`), không đọc `help_topic` của dữ liệu | M1 | ở màn hình Bài tập bấm ? → `/help/bai-tap` | ☑ |
 | G22 | Lưu vị trí mục đã mở của từng màn hình, bài đọc đang đọc dở, cài đặt | B §6.1 `data.Kcu` 34 slot, `SaveSelStartReading` | `user_progress`, `user_setting` | Giữ (mở lại đúng chỗ) | M1 | đóng mở app vẫn ở bài đang đọc | ☑ |
 | G23 | Tra từ từ clipboard khi chuột vào danh sách headword | B §7, B §9.13 | — | Tương đương: "Chia sẻ văn bản vào app" (mobile) và dán vào ô tìm (desktop) | M6 | — | ☐ |
 
@@ -189,4 +189,4 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | Tương đương | 33 | thao tác chuột phải/rê/phím → chạm, nút, cử chỉ; lưu trữ người dùng chuyển sang SQLite |
 | Bỏ | 12 | trang trí, bộ gõ, kiểm tra phiên bản, hồ sơ theo thư mục, tính năng không có trong mã (karaoke, lưới Pic3, giọng Việt), file âm thanh không có trên đĩa |
 
-Những chỗ bản port **cố ý khác** app gốc (phải nêu trong ghi chú phát hành): W2 cho phép Backspace; E4 chấp nhận mọi phương án thay thế; L6 "nghe lại" là câu hiện tại; V6 đọc từ một lần; S3 danh sách câu đã chọn tách riêng thay vì sắp lại chủ đề; H3 có đếm đúng/sai.
+Những chỗ bản port **cố ý khác** app gốc (phải nêu trong ghi chú phát hành): W2 cho phép Backspace; E4 chấp nhận mọi phương án thay thế; L6 "nghe lại" là câu hiện tại; V6 đọc từ một lần; S3 danh sách câu đã chọn tách riêng thay vì sắp lại chủ đề; H3 có đếm đúng/sai. G21 hướng dẫn trong app viết lại (18 chủ đề theo app mới) thay cho 28 chủ đề help và ReadMe của app gốc; lời khuyên phương pháp học của tác giả giữ trong chủ đề "Cách học hiệu quả".

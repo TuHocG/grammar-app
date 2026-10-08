@@ -36,7 +36,7 @@ class PictureTopicsPage extends ConsumerWidget {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Từ Vựng (Tranh)')],
-        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/22'))],
+        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/tu-vung-tranh'))],
       ),
       body: RailListView(
         children: [
@@ -211,7 +211,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
             onSelectionChanged: (v) => _setMode(v.first),
           ),
           const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/22')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/tu-vung-tranh')),
         ],
       ),
       body: context.isWide

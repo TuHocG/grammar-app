@@ -303,7 +303,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
           const SizedBox(width: 8),
           RoundIconButton(icon: Icons.format_size, tooltip: 'Cỡ chữ', onPressed: _cycleFontSize),
           const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Bài Đọc', onPressed: () => context.push('/help/3')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Bài Đọc', onPressed: () => context.push('/help/bai-doc')),
         ],
       ),
       body: RailListView(children: [body]),

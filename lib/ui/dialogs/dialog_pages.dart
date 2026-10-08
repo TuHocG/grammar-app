@@ -47,7 +47,7 @@ class DialogTopicsPage extends ConsumerWidget {
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Luyện Nói')],
-        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/6'))],
+        actions: [RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/luyen-noi'))],
       ),
       body: RailListView(
         children: [
@@ -333,7 +333,7 @@ class _DialogPageState extends ConsumerState<DialogPage> {
           const SizedBox(width: 8),
           RoundIconButton(icon: Icons.format_size, tooltip: 'Cỡ chữ', onPressed: () => cycleFontScale(ref)),
           const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Luyện Nói', onPressed: () => context.push('/help/24')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn Luyện Nói', onPressed: () => context.push('/help/luyen-noi')),
         ],
       ),
       body: RailListView(children: [body]),

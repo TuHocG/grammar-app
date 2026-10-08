@@ -165,7 +165,7 @@ GoRouter buildRouter() => GoRouter(
         GoRoute(
           path: '/help',
           builder: (_, _) => const HelpListPage(),
-          routes: [GoRoute(path: ':id', builder: (_, s) => HelpTopicPage(id: int.parse(s.pathParameters['id']!)))],
+          routes: [GoRoute(path: ':slug', builder: (_, s) => HelpTopicPage(slug: s.pathParameters['slug']!))],
         ),
       ],
     );

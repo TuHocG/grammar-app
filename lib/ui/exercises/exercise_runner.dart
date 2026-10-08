@@ -760,11 +760,8 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   }
 }
 
-/// Help topic per exercise kind (docs/source/C §8.1 mapping).
-void showLessonHelp(BuildContext context, String kind) {
-  final id = switch (kind) { 'choice' => 8, 'error' => 12, _ => 15 };
-  context.push('/help/$id');
-}
+/// Every exercise kind is covered by the one Bài tập help topic.
+void showLessonHelp(BuildContext context, String kind) => context.push('/help/bai-tap');
 
 /// Marks helper kept for pages that colour saved words.
 Color savedWordColor() => Marks.savedWord;

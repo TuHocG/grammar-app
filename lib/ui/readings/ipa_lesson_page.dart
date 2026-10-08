@@ -120,7 +120,7 @@ class _IpaLessonPageState extends ConsumerState<IpaLessonPage> {
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Phiên Âm Quốc Tế')],
         actions: [
-          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/3')),
+          RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: () => context.push('/help/phien-am')),
         ],
       ),
       body: RailListView(children: [
