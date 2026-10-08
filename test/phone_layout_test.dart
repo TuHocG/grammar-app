@@ -4,6 +4,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -15,7 +16,9 @@ import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/dialogs/dialog_pages.dart';
 import 'package:grammar/ui/grammar/grammar_page.dart';
+import 'package:grammar/ui/home/home_page.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
+import 'package:grammar/ui/readings/reading_page.dart';
 import 'package:grammar/ui/video/video_pages.dart';
 
 const phoneWidth = 360.0;
@@ -81,9 +84,12 @@ void main() {
     final pct = '${(scale * 100).round()} %';
 
     for (final (name, build) in <(String, Widget Function())>[
+      ('reading', () => const ReadingPage(id: 1)),
+      ('Luyện Nói dialog', () => const DialogPage(id: 1)),
       ('Đàm thoại', () => dialogPractice(db, db.dialog(1)!)),
       ('Từ Vựng Tranh', () => const PictureTopicPage(id: 1)),
       ('Văn Phạm', () => const GrammarPage()),
+      ('home', () => const HomePage()),
     ]) {
       testWidgets('$name page fits a phone at $pct text', (tester) async {
         phone(tester);
@@ -122,4 +128,11 @@ void main() {
       expect(hint.width, greaterThan(phoneWidth * 0.6));    // the hint gets the panel's width
     }, skip: !has);
   }
+
+  testWidgets('home title is not shortened when the bar has room for it', (tester) async {
+    phone(tester);
+    await tester.pumpWidget(wrap(const HomePage(), 1.0));
+    await tester.pump();
+    expect(tester.renderObject<RenderParagraph>(find.text('Grammar 4.0')).didExceedMaxLines, isFalse);
+  }, skip: !has);
 }

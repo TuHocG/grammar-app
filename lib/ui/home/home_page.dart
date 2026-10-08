@@ -86,7 +86,7 @@ class HomePage extends ConsumerWidget {
     return Scaffold(
       appBar: GrammarAppBar(
         title: Row(children: [
-          Text('Grammar 4.0', style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w700)),
+          Flexible(child: Text('Grammar 4.0', maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w700))),
           if (context.isWide) ...[
             const SizedBox(width: 32),
             Expanded(
@@ -95,8 +95,7 @@ class HomePage extends ConsumerWidget {
                 child: SearchPill(hint: 'Tra từ nhanh… (gõ ở bất kỳ đâu để tìm)', readOnly: true, onTap: () => context.push('/dict')),
               ),
             ),
-          ] else
-            const Spacer(),
+          ],
         ]),
         // Wide: the search pill above replaces the 🔍 button, and help is spelled out.
         search: !context.isWide,
@@ -118,7 +117,7 @@ class HomePage extends ConsumerWidget {
             Row(mainAxisSize: MainAxisSize.min, children: [
               Icon(Icons.volume_up_outlined, size: 18, color: g.slate),
               const SizedBox(width: 6),
-              Text('Giọng ${s.ttsVoice == null ? 'hệ thống' : 'riêng'} · Tốc độ ${s.ttsSpeed}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+              Flexible(child: Text('Giọng ${s.ttsVoice == null ? 'hệ thống' : 'riêng'} · Tốc độ ${s.ttsSpeed}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate))),
             ]),
           ]),
           if (lastReading != null || resume != null) ...[
