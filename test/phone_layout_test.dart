@@ -10,8 +10,10 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:grammar/app/providers.dart';
 import 'package:grammar/app/theme.dart';
 import 'package:grammar/data/content_db.dart';
+import 'package:grammar/data/content_db_more.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
+import 'package:grammar/ui/dialogs/dialog_pages.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
 import 'package:grammar/ui/video/video_pages.dart';
 
@@ -78,6 +80,7 @@ void main() {
     final pct = '${(scale * 100).round()} %';
 
     for (final (name, build) in <(String, Widget Function())>[
+      ('Đàm thoại', () => dialogPractice(db, db.dialog(1)!)),
       ('Từ Vựng Tranh', () => const PictureTopicPage(id: 1)),
     ]) {
       testWidgets('$name page fits a phone at $pct text', (tester) async {

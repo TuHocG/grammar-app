@@ -15,6 +15,7 @@ import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
 import '../../platform/tts.dart';
+import '../../app/theme.dart';
 import '../../data/models.dart';
 import '../widgets/word_tap_text.dart';
 import '../widgets/shell.dart';
@@ -202,7 +203,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
               ),
             ),
       ),
-      body: Padding(
+      body: SingleChildScrollView(
         padding: const EdgeInsets.all(20),
         child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
           Row(children: [
@@ -248,17 +249,45 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
               padding: const EdgeInsets.only(top: 12),
               child: WordTapText(item.answer, style: theme.textTheme.titleMedium, source: widget.source),
             ),
-          const Spacer(),
-          Row(children: [
-            OutlinedButton(onPressed: _back, child: const Text('Back')),
-            const SizedBox(width: 8),
-            OutlinedButton(onPressed: _skip, child: const Text('Bỏ câu này')),
-            const SizedBox(width: 8),
-            OutlinedButton(onPressed: () => setState(() => _showAnswer = true), child: const Text('Xem câu')),
-            IconButton(tooltip: 'Nghe câu trả lời', icon: const Icon(Icons.volume_up), onPressed: () => ref.read(ttsProvider).speak(item.answer)),
-            const Spacer(),
-            FilledButton(onPressed: _next, child: const Text('Next')),
-          ]),
+        ]),
+      ),
+      bottomNavigationBar: _ActionBar(
+        onBack: _back,
+        onSkip: _skip,
+        onShow: () => setState(() => _showAnswer = true),
+        onListen: () => ref.read(ttsProvider).speak(item.answer),
+        onNext: _next,
+      ),
+    );
+  }
+}
+
+/// Back · Bỏ câu này · Xem câu · nghe · Next. On a phone the three middle actions shrink to
+/// icons so the bar fits one line.
+class _ActionBar extends StatelessWidget {
+  final VoidCallback onBack, onSkip, onShow, onListen, onNext;
+  const _ActionBar({required this.onBack, required this.onSkip, required this.onShow, required this.onListen, required this.onNext});
+
+  @override
+  Widget build(BuildContext context) {
+    final narrow = MediaQuery.sizeOf(context).width < 560;
+    Widget action(IconData icon, String label, VoidCallback onPressed) => narrow
+        ? IconButton(tooltip: label, icon: Icon(icon), onPressed: onPressed)
+        : Padding(padding: const EdgeInsets.only(right: 8), child: OutlinedButton.icon(onPressed: onPressed, icon: Icon(icon, size: 18), label: Text(label)));
+    return SafeArea(
+      child: Container(
+        decoration: BoxDecoration(color: context.g.card, border: Border(top: BorderSide(color: context.g.border))),
+        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+        child: Row(children: [
+          OutlinedButton(onPressed: onBack, child: const Text('Back')),
+          Expanded(
+            child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+              action(Icons.skip_next_outlined, 'Bỏ câu này', onSkip),
+              action(Icons.visibility_outlined, 'Xem câu', onShow),
+              IconButton(tooltip: 'Nghe câu trả lời', icon: const Icon(Icons.volume_up), onPressed: onListen),
+            ]),
+          ),
+          FilledButton(onPressed: onNext, child: const Text('Next')),
         ]),
       ),
     );
