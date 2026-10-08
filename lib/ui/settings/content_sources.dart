@@ -33,8 +33,11 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     _refresh();
   }
 
-  /// Summaries touch the disk (hundreds of files for the videos); compute after the first frame.
+  /// Summaries touch the disk (hundreds of files for the videos); compute after the next frame.
+  /// That frame is asked for explicitly: after a native folder dialog closes nothing else asks
+  /// for one on desktop, and the callback would wait until the mouse hovers something.
   void _refresh() {
+    WidgetsBinding.instance.scheduleFrame();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (!mounted) return;
       final db = ref.read(contentDbProvider);
