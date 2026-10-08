@@ -23,5 +23,5 @@ runs:
           flutter build "$t" --release --obfuscate --split-debug-info=build/symbols \
             --dart-define=GRAMMAR_DB_KEY="$GRAMMAR_DB_KEY"
         done
-    - uses: actions/upload-artifact@v4
+    - uses: actions/upload-artifact@v7
       with: { name: '${{ inputs.symbols }}', path: build/symbols, retention-days: 90 }

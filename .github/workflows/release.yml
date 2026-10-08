@@ -87,8 +87,10 @@ jobs:
       - env:
           GRAMMAR_DB_KEY: ${{ secrets.GRAMMAR_DB_KEY }}
         run: python3 tool/content/bundle.py
-      - uses: actions/upload-artifact@v4
-        with: { name: pkg-data, path: 'build/content/grammar4-data-*.zip' }
+      # Packages are uploaded unzipped (archive: false), one file per artifact named after the file,
+      # so each downloads on its own without a zip around it.
+      - uses: actions/upload-artifact@v7
+        with: { path: 'build/content/grammar4-data-*.zip', archive: false }
 
   desktop:
     needs: [version, check]
@@ -110,6 +112,7 @@ jobs:
           targets: ${{ matrix.os }}
           symbols: symbols-${{ matrix.os }}-${{ matrix.arch }}
       - name: Package
+        id: package
         shell: bash
         run: |
           out=Grammar-${{ needs.version.outputs.version }}-${{ matrix.os }}-${{ matrix.arch }}
@@ -123,8 +126,9 @@ jobs:
               # Ad-hoc signed, not notarized: first launch needs right-click → Open (README "Phát hành").
               ditto -c -k --sequesterRsrc --keepParent "build/macos/Build/Products/Release/Grammar 4.0.app" "$out.zip" ;;
           esac
-      - uses: actions/upload-artifact@v4
-        with: { name: 'pkg-${{ matrix.os }}-${{ matrix.arch }}', path: 'Grammar-*' }
+          echo "file=$(ls Grammar-*)" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v7
+        with: { path: '${{ steps.package.outputs.file }}', archive: false }
 
   android:
     needs: [version, check]
@@ -159,8 +163,10 @@ jobs:
           v=${{ needs.version.outputs.version }}
           cp build/app/outputs/flutter-apk/app-release.apk "Grammar-$v-android.apk"
           cp build/app/outputs/bundle/release/app-release.aab "Grammar-$v-android.aab"
-      - uses: actions/upload-artifact@v4
-        with: { name: pkg-android, path: 'Grammar-*' }
+      - uses: actions/upload-artifact@v7
+        with: { path: 'Grammar-*.apk', archive: false }
+      - uses: actions/upload-artifact@v7
+        with: { path: 'Grammar-*.aab', archive: false }
 
   release:
     if: github.ref_type == 'tag'
@@ -169,8 +175,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/download-artifact@v4
-        with: { path: dist, pattern: 'pkg-*', merge-multiple: true }
+      # v8 leaves unzipped artifacts as they are; symbols-* stay out of the release.
+      - uses: actions/download-artifact@v8
+        with: { path: dist, pattern: 'Grammar-*', merge-multiple: true }
+      - uses: actions/download-artifact@v8
+        with: { path: dist, pattern: 'grammar4-data-*', merge-multiple: true }
       # Draft: edit the notes (docs/08 "cố ý khác" list, data/audio links) before publishing.
       - uses: softprops/action-gh-release@v2
         with:
