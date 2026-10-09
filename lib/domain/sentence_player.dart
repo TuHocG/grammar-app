@@ -29,10 +29,13 @@ class SentencePlayer extends ChangeNotifier {
   StreamSubscription<void>? _doneSub;
   int _run = 0;
   double? _stopAt;
+  /// Set when the platform cannot play the recording (e.g. a codec it lacks); the player
+  /// then reads with TTS for the rest of its life instead of stalling on every sentence.
+  bool _recordingFailed = false;
 
   SentencePlayer({required this.tts, required this.reading, this.audioPath});
 
-  bool get useRecording => audioPath != null && reading.hasRealAudio;
+  bool get useRecording => audioPath != null && reading.hasRealAudio && !_recordingFailed;
   int get count => reading.sentences.length;
   Sentence get current => reading.sentences[index];
 
@@ -59,10 +62,16 @@ class SentencePlayer extends ChangeNotifier {
 
   Future<void> _speakCurrent(int run) async {
     if (useRecording) {
-      await _playSegment(reading.times![index], reading.times![index + 1], run);
-    } else {
-      await tts.speak(current.en);
+      try {
+        await _playSegment(reading.times![index], reading.times![index + 1], run);
+        return;
+      } catch (e) {
+        debugPrint('SentencePlayer: cannot play $audioPath, falling back to TTS: $e');
+        _recordingFailed = true;
+        notifyListeners();
+      }
     }
+    await tts.speak(current.en);
   }
 
   Future<void> _playSegment(double start, double end, int run) async {
@@ -90,7 +99,12 @@ class SentencePlayer extends ChangeNotifier {
     final run = ++_run;
     state = PlayerState.playing;
     notifyListeners();
-    await _playSegment(0, reading.times![0], run);
+    try {
+      await _playSegment(0, reading.times![0], run);
+    } catch (e) {
+      debugPrint('SentencePlayer: cannot play $audioPath: $e');
+      _recordingFailed = true;
+    }
     if (run == _run) {
       state = PlayerState.idle;
       notifyListeners();
