@@ -3,7 +3,7 @@
 /// - Lesson data: `grammar.db`; illustrations in `grammar.images` next to it (release), or
 ///   `dataset/img/` (repo). The Từ Vựng Tranh pages are inside grammar.db.
 /// - Real-voice recordings (Âm thanh thực): setting `audio_dir`, default `dataset/audio/` next to
-///   grammar.db. Files are named as in the readings (`1.mp3`, `2.wav` …).
+///   grammar.db. Files are named as in the readings (`1.mp3`, `2.mp3` …).
 /// - Videos: setting `video_dir`, default `video/` next to grammar.db. Files `A 01.mp4` … (or the
 ///   old `A  1.avi`).
 library;

@@ -244,7 +244,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
               ],
         actions: [
           OutlinedButton.icon(
-            onPressed: () => _pickFolder(audioDirKey, 'Chọn thư mục âm thanh thực (1.mp3, 2.wav …)', a?.dir),
+            onPressed: () => _pickFolder(audioDirKey, 'Chọn thư mục âm thanh thực (1.mp3, 2.mp3 …)', a?.dir),
             icon: const Icon(Icons.folder_open_outlined),
             label: const Text('Chọn thư mục…'),
           ),

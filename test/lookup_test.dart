@@ -91,7 +91,7 @@ void main() {
     expect(r.hasRealAudio, isTrue);
     final first = db.listeningItems(1).firstWhere((i) => i.n == 1);
     expect(r.sentences[0].en, first.en);
-    expect(db.listeningReading(2)!.audio, 'audio/2.wav');
+    expect(db.listeningReading(2)!.audio, 'audio/2.mp3');
   }, skip: !has);
 
   test('counts match the ETL manifest', () {

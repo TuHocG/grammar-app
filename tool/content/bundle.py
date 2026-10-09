@@ -17,7 +17,7 @@ uncompressed (WebP is already compressed) so the app reads each picture in place
 from unzipping it. The release workflow attaches the two files as they are; --zip-data adds one zip with
 both (unzip into a folder, then pick it) for sharing by hand, like the audio zip.
 
-The audio zip holds `audio/<n>.mp3|wav`: unzip it into the same folder, next to grammar.db (or pick
+The audio zip holds `audio/<n>.mp3`: unzip it into the same folder, next to grammar.db (or pick
 the folder in Cài Đặt → Dữ liệu → Âm thanh thực). content/dataset/ is the repo's source layout only.
 With a key (--key or env GRAMMAR_DB_KEY) the shipped grammar.db is encrypted with SQLite3MultipleCiphers
 (tool/encrypt_db.dart, needs the Dart SDK); only an app built with the same --dart-define=GRAMMAR_DB_KEY
@@ -54,7 +54,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument('--no-pack-db', action='store_true', help='do not rebuild content/grammar.db first')
     ap.add_argument('--zip-data', action='store_true', help='also grammar4-data-<version>.zip with grammar.db and grammar.images')
-    ap.add_argument('--zip-audio', type=Path, metavar='DIR', help='folder with the real-voice recordings (1.mp3, 2.wav …)')
+    ap.add_argument('--zip-audio', type=Path, metavar='DIR', help='folder with the real-voice recordings (1.mp3, 2.mp3 …)')
     ap.add_argument('--key', default=os.environ.get('GRAMMAR_DB_KEY', ''), help='encrypt grammar.db (default: env GRAMMAR_DB_KEY)')
     a = ap.parse_args()
 
