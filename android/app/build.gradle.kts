@@ -16,7 +16,7 @@ fun signingValue(prop: String, env: String): String? = keyProps.getProperty(prop
 val releaseStoreFile = signingValue("storeFile", "ANDROID_KEYSTORE_PATH")
 
 android {
-    namespace = "dev.hieu.grammar"
+    namespace = "com.tuhocg.grammar"
     // permission_handler_android 14 needs at least 37; Flutter 3.47 defaults to 36.
     compileSdk = maxOf(flutter.compileSdkVersion, 37)
     ndkVersion = flutter.ndkVersion
@@ -27,7 +27,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "dev.hieu.grammar"
+        applicationId = "com.tuhocg.grammar"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

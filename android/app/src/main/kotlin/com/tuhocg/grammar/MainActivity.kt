@@ -1,4 +1,4 @@
-package dev.hieu.grammar
+package com.tuhocg.grammar
 
 import io.flutter.embedding.android.FlutterActivity
 
