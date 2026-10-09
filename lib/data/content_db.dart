@@ -33,6 +33,14 @@ class ContentDb {
         db = sqlite3.open(file, mode: OpenMode.readOnly);
       }
     }
+    // SQLite reads the file lazily: fail here (encrypted without the key, not a database) so
+    // callers can show the error instead of crashing on the first query.
+    try {
+      db.select('SELECT 1 FROM meta LIMIT 1');
+    } catch (_) {
+      db.close();
+      rethrow;
+    }
     return ContentDb._(db, dataDir);
   }
 

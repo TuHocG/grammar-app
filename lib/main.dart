@@ -44,7 +44,7 @@ Future<void> main() async {
 
 Future<void> _start({String? error}) async {
   final dir = _userDb.setting('data_dir') ?? (_envDataDir.isNotEmpty ? _envDataDir : null) ?? _localDataDir();
-  if (dir == null || !File(p.join(dir, 'grammar.db')).existsSync()) {
+  if (error != null || dir == null || !File(p.join(dir, 'grammar.db')).existsSync()) {
     runApp(MaterialApp(
       theme: buildTheme(Brightness.light),
       darkTheme: buildTheme(Brightness.dark),
@@ -69,7 +69,8 @@ Future<void> _start({String? error}) async {
   try {
     content = ContentDb.open(dir, key: grammarDbKey);
   } catch (e) {
-    await _start(error: 'Không mở được grammar.db: $e');
+    await _start(error: 'Không mở được grammar.db: $e'
+        '${grammarDbKey.isEmpty ? '\nNếu đây là grammar.db của bản phát hành (đã mã hoá), bản app này không có khoá để đọc — chọn thư mục content/ của repo.' : ''}');
     return;
   }
   if (content.schemaVersion > ContentDb.supportedSchema) {
