@@ -1,8 +1,9 @@
 /// Luyện Nghe → Video (docs/08 L3–L10): the user points the app at the folder with the
 /// MP4 (or original AVI) files; episodes are listed by code with their first line; the
 /// player shows the subtitle line for the current time (line i spans [e(i−1), e(i)]; line 1
-/// starts at its own s, after the intro), English and Vietnamese toggles, previous / repeat /
-/// next sentence, loop of n sentences, and every subtitle word can be looked up or saved.
+/// starts at its own s, after the intro), English and Vietnamese toggles, a seek bar (the old
+/// app embedded Windows Media Player with its own), previous / repeat / next sentence, loop of
+/// n sentences, and every subtitle word can be looked up or saved.
 library;
 
 import 'dart:async';
@@ -164,6 +165,20 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
     if (mounted) setState(() {});
   }
 
+  /// From the seek bar: anywhere in the episode. A running loop restarts from the line there,
+  /// instead of pulling the video back to the old loop.
+  Future<void> _seekToTime(Duration d) async {
+    final t = d.inMilliseconds / 1000.0;
+    var i = _lines.length - 1;
+    while (i >= 0 && t < _lines[i].s) {
+      i--;
+    }
+    _idx = i;
+    _loopStart = i < 0 ? 0 : i;
+    await _player.seek(d);
+    if (mounted) setState(() {});
+  }
+
   /// Back to 0:00, e.g. when line 1 starts later than the data says.
   Future<void> _restart() async {
     _idx = -1;
@@ -244,6 +259,14 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
               if (line == null) Text('…', style: theme.textTheme.titleMedium),
             ]),
           ),
+          StreamBuilder<Duration>(
+            stream: _player.stream.position,
+            builder: (context, snap) => VideoSeekBar(
+              position: snap.data ?? _player.state.position,
+              duration: _player.state.duration,
+              onSeek: _seekToTime,
+            ),
+          ),
           VideoControlBar(
             position: _idx < 0 ? 'Đầu video · ${_lines.length} câu' : 'Câu ${_idx + 1}/${_lines.length}',
             playing: _playing,
@@ -257,6 +280,59 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
           ),
         ]),
       ),
+    );
+  }
+}
+
+/// Seek bar under the subtitles: elapsed time, a slider over the whole episode, total time.
+/// While held, a bubble over the thumb shows the time it would seek to; only the thumb and the
+/// clocks follow the finger, and the video seeks on release.
+class VideoSeekBar extends StatefulWidget {
+  final Duration position;
+  final Duration duration;
+  final ValueChanged<Duration> onSeek;
+  const VideoSeekBar({super.key, required this.position, required this.duration, required this.onSeek});
+
+  @override
+  State<VideoSeekBar> createState() => _VideoSeekBarState();
+}
+
+class _VideoSeekBarState extends State<VideoSeekBar> {
+  double? _drag;   // seconds under the thumb while dragging
+
+  static String _clock(double secs) {
+    final s = secs.round();
+    final h = s ~/ 3600, m = (s ~/ 60) % 60, ss = (s % 60).toString().padLeft(2, '0');
+    return h > 0 ? '$h:${m.toString().padLeft(2, '0')}:$ss' : '$m:$ss';
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final total = widget.duration.inMilliseconds / 1000.0;
+    final now = (_drag ?? widget.position.inMilliseconds / 1000.0).clamp(0.0, total > 0 ? total : 0.0);
+    final style = theme.textTheme.bodySmall?.copyWith(fontFeatures: const [FontFeature.tabularFigures()]);
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16),
+      child: Row(children: [
+        Text(_clock(now), style: style),
+        Expanded(
+          child: SliderTheme(
+            data: SliderTheme.of(context).copyWith(showValueIndicator: ShowValueIndicator.onDrag),
+            child: Slider(
+              value: now,
+              max: total > 0 ? total : 1,
+              label: _clock(now),
+              onChanged: total > 0 ? (v) => setState(() => _drag = v) : null,
+              onChangeEnd: (v) {
+                setState(() => _drag = null);
+                widget.onSeek(Duration(milliseconds: (v * 1000).round()));
+              },
+            ),
+          ),
+        ),
+        Text(_clock(total), style: style),
+      ]),
     );
   }
 }

@@ -112,6 +112,34 @@ void main() {
       expect(tester.takeException(), isNull);
       expect(find.text('Số câu lặp'), findsOneWidget);
     });
+
+    testWidgets('video seek bar fits a phone at $pct text and seeks on release', (tester) async {
+      phone(tester);
+      Duration? sought;
+      await tester.pumpWidget(app(
+        Scaffold(
+          body: Center(
+            child: VideoSeekBar(position: const Duration(minutes: 1, seconds: 5), duration: const Duration(hours: 1, minutes: 27, seconds: 27), onSeek: (d) => sought = d),
+          ),
+        ),
+        scale,
+      ));
+      expect(tester.takeException(), isNull);
+      expect(find.text('1:05'), findsOneWidget);
+      expect(find.text('1:27:27'), findsOneWidget);
+      // Drag the thumb to the right end: nothing seeks until the finger lifts.
+      final slider = tester.getRect(find.byType(Slider));
+      final gesture = await tester.startGesture(Offset(slider.left + 30, slider.center.dy));
+      await gesture.moveTo(Offset(slider.right + 50, slider.center.dy));
+      await tester.pump();
+      expect(sought, isNull);
+      // The bubble over the thumb and the elapsed clock show where it would seek.
+      expect(tester.widget<Slider>(find.byType(Slider)).label, '1:27:27');
+      expect(find.text('1:27:27'), findsNWidgets(2));
+      await gesture.up();
+      await tester.pump();
+      expect(sought, const Duration(hours: 1, minutes: 27, seconds: 27));
+    });
   }
 
   for (final scale in textScales) {
