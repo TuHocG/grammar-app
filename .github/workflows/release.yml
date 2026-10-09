@@ -177,11 +177,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      # v8 leaves unzipped artifacts as they are; symbols-* stay out of the release.
+      # skip-decompress: v8 extracts any artifact served as a zip, including the Windows/macOS packages
+      # uploaded with archive: false; every artifact here is a single file, so keep them as they are.
+      # symbols-* stay out of the release.
       - uses: actions/download-artifact@v8
-        with: { path: dist, pattern: 'Grammar-*', merge-multiple: true }
+        with: { path: dist, pattern: 'Grammar-*', merge-multiple: true, skip-decompress: true }
       - uses: actions/download-artifact@v8
-        with: { path: dist, pattern: 'grammar.*', merge-multiple: true }
+        with: { path: dist, pattern: 'grammar.*', merge-multiple: true, skip-decompress: true }
       # Draft: edit the notes (docs/08 "cố ý khác" list, data/audio links) before publishing.
       - uses: softprops/action-gh-release@v2
         with:
