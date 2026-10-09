@@ -92,6 +92,11 @@ void main() {
     final first = db.listeningItems(1).firstWhere((i) => i.n == 1);
     expect(r.sentences[0].en, first.en);
     expect(db.listeningReading(2)!.audio, 'audio/2.mp3');
+    final t = db.listeningReadingTitle(5)!;
+    expect(t.id, db.listeningReading(5)!.id);
+    expect(t.title, 'Learn To Request And Offer.');
+    expect(db.listeningReadingTitle(10)!.title, 'Report 1.');
+    expect(db.listeningReadingTitle(999), isNull);
   }, skip: !has);
 
   test('counts match the ETL manifest', () {

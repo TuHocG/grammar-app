@@ -46,7 +46,7 @@ class ListeningUnitsPage extends ConsumerWidget {
           for (final u in units)
             ListTile(
               leading: CircleAvatar(child: Text('$u')),
-              title: Text('Unit $u'),
+              title: Text(_unitTitle(u, db.listeningReadingTitle(u)?.title)),
               subtitle: Text('${db.listeningCount(u)} câu${userDb.progress('listening', 'unit$u') != null ? ' · ${userDb.progress('listening', 'unit$u')}' : ''}'),
               onTap: () => context.push('/listening/$u'),
             ),
@@ -55,6 +55,9 @@ class ListeningUnitsPage extends ConsumerWidget {
     );
   }
 }
+
+/// "Unit 5 · Learn To Request And Offer." — the reading whose recording the unit plays.
+String _unitTitle(int unit, String? reading) => reading == null ? 'Unit $unit' : 'Unit $unit · $reading';
 
 class _Result {
   bool graded = false;
@@ -80,6 +83,8 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
   /// Player over the unit's recording (null = no recording on disk → TTS).
   SentencePlayer? _player;
   Reading? _recording;
+  /// The reading whose recording this unit plays (shown and linked in the map).
+  ({int id, String title})? _source;
 
   @override
   void initState() {
@@ -87,6 +92,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     final db = ref.read(contentDbProvider);
     _items = db.listeningItems(widget.unit);
     _res = List.generate(_items.length, (_) => _Result());
+    _source = db.listeningReadingTitle(widget.unit);
     final r = db.listeningReading(widget.unit);
     final audio = r != null && r.hasRealAudio ? audioPathFor(ref, r.audio) : null;
     if (r != null && audio != null) {
@@ -177,6 +183,16 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
           Expanded(child: Text('Unit ${widget.unit}', style: theme.textTheme.titleSmall)),
           Text('$n câu', style: theme.textTheme.bodySmall),
         ]),
+        if (_source case final src?)
+          Align(
+            alignment: Alignment.centerLeft,
+            child: TextButton.icon(
+              style: TextButton.styleFrom(padding: EdgeInsets.zero, visualDensity: VisualDensity.compact),
+              onPressed: () => context.push('/readings/${src.id}'),
+              icon: const Icon(Icons.menu_book_outlined, size: 16),
+              label: Text('Bài đọc: ${src.title}', maxLines: 2, overflow: TextOverflow.ellipsis),
+            ),
+          ),
         const SizedBox(height: 12),
         Wrap(spacing: 8, runSpacing: 8, children: [for (var i = 0; i < n; i++) _dot(i, g, theme)]),
         const SizedBox(height: 12),
