@@ -1,8 +1,8 @@
 /// Luyện Nghe → Video (docs/08 L3–L10): the user points the app at the folder with the
 /// MP4 (or original AVI) files; episodes are listed by code with their first line; the
-/// player shows the subtitle line for the current time (line i spans [e(i−1), e(i)]),
-/// English and Vietnamese toggles, previous / repeat / next sentence, loop of n sentences,
-/// and every subtitle word can be looked up or saved.
+/// player shows the subtitle line for the current time (line i spans [e(i−1), e(i)]; line 1
+/// starts at its own s, after the intro), English and Vietnamese toggles, previous / repeat /
+/// next sentence, loop of n sentences, and every subtitle word can be looked up or saved.
 library;
 
 import 'dart:async';
@@ -140,9 +140,14 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
 
   void _onPosition(Duration d) {
     final t = d.inMilliseconds / 1000.0;
+    // The last line already started; −1 during the intro (before line 1's s), so "next" goes to
+    // line 1. Past the last line it stays on the last one.
     var i = _idx;
-    if (i < 0 || i >= _lines.length || t < _lines[i].s || t >= _lines[i].e) {
-      i = _lines.indexWhere((l) => t >= l.s && t < l.e);
+    if (i < 0 || i >= _lines.length || t < _lines[i].s || (t >= _lines[i].e && i < _lines.length - 1)) {
+      i = _lines.length - 1;
+      while (i >= 0 && t < _lines[i].s) {
+        i--;
+      }
     }
     if (_loop > 0 && i >= 0 && i >= _loopStart + _loop) {
       _seekTo(_loopStart);
@@ -159,6 +164,15 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
     if (mounted) setState(() {});
   }
 
+  /// Back to 0:00, e.g. when line 1 starts later than the data says.
+  Future<void> _restart() async {
+    _idx = -1;
+    _loopStart = 0;
+    await _player.seek(Duration.zero);
+    if (!_playing) await _player.play();
+    if (mounted) setState(() {});
+  }
+
   void _setLoop(int n) {
     _loop = n.clamp(0, 10);
     _loopStart = _idx < 0 ? 0 : _idx;
@@ -169,11 +183,13 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
   KeyEventResult _onKey(FocusNode n, KeyEvent e) {
     if (e is! KeyDownEvent) return KeyEventResult.ignored;
     if (e.logicalKey == LogicalKeyboardKey.arrowLeft) {
-      _seekTo(_idx);
+      _seekTo(_idx < 0 ? 0 : _idx);
     } else if (e.logicalKey == LogicalKeyboardKey.arrowUp) {
       _seekTo(_idx - 1);
     } else if (e.logicalKey == LogicalKeyboardKey.arrowRight || e.logicalKey == LogicalKeyboardKey.arrowDown) {
       _seekTo(_idx + 1);
+    } else if (e.logicalKey == LogicalKeyboardKey.home) {
+      _restart();
     } else if (e.logicalKey == LogicalKeyboardKey.space) {
       _player.playOrPause();
     } else {
@@ -229,11 +245,12 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
             ]),
           ),
           VideoControlBar(
-            position: 'Câu ${_idx + 1}/${_lines.length}',
+            position: _idx < 0 ? 'Đầu video · ${_lines.length} câu' : 'Câu ${_idx + 1}/${_lines.length}',
             playing: _playing,
             loop: _loop,
+            onRestart: _restart,
             onPrev: () => _seekTo(_idx - 1),
-            onReplay: () => _seekTo(_idx),
+            onReplay: () => _seekTo(_idx < 0 ? 0 : _idx),
             onPlayPause: _player.playOrPause,
             onNext: () => _seekTo(_idx + 1),
             onLoop: _setLoop,
@@ -244,15 +261,16 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
   }
 }
 
-/// Under the video: sentence number, previous / replay / play / next, and how many times each
-/// sentence repeats. One row on a wide screen; on a phone the buttons get a row of their own.
+/// Under the video: sentence number, from the start / previous / replay / play / next, and how
+/// many times each sentence repeats. One row on a wide screen; on a phone the buttons get a row
+/// of their own.
 class VideoControlBar extends StatelessWidget {
   final String position;
   final bool playing;
   final int loop;
-  final VoidCallback onPrev, onReplay, onPlayPause, onNext;
+  final VoidCallback onRestart, onPrev, onReplay, onPlayPause, onNext;
   final ValueChanged<int> onLoop;
-  const VideoControlBar({super.key, required this.position, required this.playing, required this.loop, required this.onPrev, required this.onReplay, required this.onPlayPause, required this.onNext, required this.onLoop});
+  const VideoControlBar({super.key, required this.position, required this.playing, required this.loop, required this.onRestart, required this.onPrev, required this.onReplay, required this.onPlayPause, required this.onNext, required this.onLoop});
 
   @override
   Widget build(BuildContext context) {
@@ -260,6 +278,7 @@ class VideoControlBar extends StatelessWidget {
     final narrow = MediaQuery.sizeOf(context).width < 600;
     final pos = Text(position, style: theme.textTheme.bodySmall);
     final transport = Row(mainAxisSize: MainAxisSize.min, children: [
+      IconButton(tooltip: 'Phát lại từ đầu (Home)', icon: const Icon(Icons.first_page), onPressed: onRestart),
       IconButton(tooltip: 'Câu trước (↑)', icon: const Icon(Icons.skip_previous), onPressed: onPrev),
       IconButton(tooltip: 'Nghe lại câu (←)', icon: const Icon(Icons.replay), onPressed: onReplay),
       IconButton(iconSize: 40, icon: Icon(playing ? Icons.pause_circle : Icons.play_circle), onPressed: onPlayPause),

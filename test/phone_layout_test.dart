@@ -105,7 +105,7 @@ void main() {
       void none() {}
       await tester.pumpWidget(app(
         Scaffold(
-          bottomNavigationBar: VideoControlBar(position: 'Câu 1/494', playing: false, loop: 0, onPrev: none, onReplay: none, onPlayPause: none, onNext: none, onLoop: (_) {}),
+          bottomNavigationBar: VideoControlBar(position: 'Câu 1/494', playing: false, loop: 0, onRestart: none, onPrev: none, onReplay: none, onPlayPause: none, onNext: none, onLoop: (_) {}),
         ),
         scale,
       ));
