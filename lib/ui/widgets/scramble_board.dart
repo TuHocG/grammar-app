@@ -1,5 +1,5 @@
-/// Word-scramble board (XepTu.bas): the sentence's words are shuffled; tap them in order,
-/// a wrong word just flashes; "Đáp án" lays the rest down (no point). Used by the reading
+/// Word-scramble board (XepTu.bas): the sentence's words are shuffled; tap them in order
+/// (a placed word stays in the pool, greyed out), a wrong word just flashes; "Đáp án" lays the rest down (no point). Used by the reading
 /// page's Xếp từ and by type-3 grammar drills in the exercise runner (docs/08 X1–X3, P3).
 library;
 
@@ -30,6 +30,8 @@ class ScrambleBoard extends ConsumerStatefulWidget {
 class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
   late List<String> _target;
   late List<String> _pool;
+  /// Indices in [_pool] already placed; they stay visible but disabled.
+  final Set<int> _used = {};
   final List<String> _placed = [];
   int? _wrong;
   /// Index in [_placed] from which the words were laid down by "Đáp án" (none = length).
@@ -52,7 +54,7 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
     if (_pool[i].toLowerCase() == want.toLowerCase()) {
       setState(() {
         _placed.add(_pool[i]);
-        _pool = List.of(_pool)..removeAt(i);
+        _used.add(i);
         _wrong = null;
       });
       if (done) _finish();
@@ -65,7 +67,7 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
     setState(() {
       _revealedFrom = _placed.length;
       _placed.addAll(_target.skip(_placed.length));
-      _pool = const [];
+      _used.addAll(Iterable.generate(_pool.length));
     });
     _finish();
   }
@@ -106,7 +108,7 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
           ActionChip(
             label: Text(_pool[i]),
             backgroundColor: _wrong == i ? theme.colorScheme.errorContainer : null,
-            onPressed: () => _tap(i),
+            onPressed: _used.contains(i) ? null : () => _tap(i),
           ),
       ]),
       const SizedBox(height: 12),
