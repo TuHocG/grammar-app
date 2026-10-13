@@ -3222,7 +3222,7 @@
       {
         "head": "Câu D đúng vì:",
         "lines": [
-          "its là Prossessive Adj của comet (sao chổi) và appearance (Noun) làm Object của to predict."
+          "its là Possessive Adj của comet (sao chổi) và appearance (Noun) làm Object của to predict."
         ],
         "refs": []
       }
@@ -8782,7 +8782,7 @@
       },
       {
         "head": "Câu B sai vì:",
-        "lines": ["two lanes: 2 lằn vạch...", "lane không có s la sai."],
+        "lines": ["two lanes: 2 lằn vạch...", "lane không có s là sai."],
         "refs": []
       },
       {"head": "Câu C đúng vì:", "lines": ["Trước số đếm lane two không có the."], "refs": [162]},
@@ -12528,7 +12528,7 @@
       {"a": "going to", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Tháng trước, giá cà phê hạ. Nhưng mọi người dều biết tháng này nó sẽ tăng.",
+    "vi": "Tháng trước, giá cà phê hạ. Nhưng mọi người đều biết tháng này nó sẽ tăng.",
     "expl": [
       {
         "head": "Câu A sai vì: last month (quá khứ) mà Verb is chia ở Present là sai phải là was.",
@@ -13672,7 +13672,7 @@
       {"a": "to", "alt": [], "n": 1}
     ],
     "answer": "c",
-    "vi": "Chẳng có điều nào trong 2 diều đã phác thảo ở hội nghị có thể chấp nhận được đối với ủy ban thi hành.",
+    "vi": "Chẳng có điều nào trong 2 điều đã phác thảo ở hội nghị có thể chấp nhận được đối với ủy ban thi hành.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -16420,7 +16420,7 @@
         "head": "Câu D đúng vì:",
         "lines": [
           "Cấu trúc:",
-          "- the effects on someone on something: ảnh hưởng vào ai, vào cái gì... chứ không đùng in hoặc for."
+          "- the effects on someone on something: ảnh hưởng vào ai, vào cái gì... chứ không dùng in hoặc for."
         ],
         "refs": []
       }
@@ -16763,7 +16763,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "It was it là chủ từ gỉa (Dummy Subject) dùng nói trỏng không thay cho một Noun nào cả."
+          "It was it là chủ từ giả (Dummy Subject) dùng nói trỏng không thay cho một Noun nào cả."
         ],
         "refs": []
       },
@@ -19496,7 +19496,7 @@
         "refs": []
       },
       {
-        "head": "Câu D sai vì: no chance: không có cơ may nào cả... trong khi đự đoán tới 80% sẽ có mưa lớn.",
+        "head": "Câu D sai vì: no chance: không có cơ may nào cả... trong khi dự đoán tới 80% sẽ có mưa lớn.",
         "lines": [],
         "refs": [224, 342]
       }
@@ -19750,7 +19750,7 @@
         "lines": [
           "any: bất cứ cái nào... trong khi đó merchants (số nhiều)",
           "Lưu ý:",
-          "Nếu any đúng trước trog câu phủ định thì danh từ theo sau có thể số nhiều nhưng any không dịch ra tiếng Việt.",
+          "Nếu any đứng trước trong câu phủ định thì danh từ theo sau có thể số nhiều nhưng any không dịch ra tiếng Việt.",
           "Ex: _I don't have any books (không có sách)."
         ],
         "refs": [215]
@@ -20129,7 +20129,7 @@
     "tt": 10,
     "choices": ["or I have", "nor I have", "or me has", "nor me have"],
     "answer": "b",
-    "vi": "Không phải anh tôi, cũng không phải tôi đã thừ ở Texas.",
+    "vi": "Không phải anh tôi, cũng không phải tôi đã từng ở Texas.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -23520,7 +23520,7 @@
       {"a": "into", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Trong khi chúng tôi đang chơi đánh gôn, một con thỏ đã chạy ngang qua ân và đá trái banh vào lỗ.",
+    "vi": "Trong khi chúng tôi đang chơi đánh gôn, một con thỏ đã chạy ngang qua sân và đá trái banh vào lỗ.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -24779,7 +24779,7 @@
       {
         "head": "Câu C đúng vì:",
         "lines": [
-          "say đã có to whom đặt ở dầu câu để tạo câu hỏi, nhưng nếu đầu câu có chữ whom thì sau say phải cộng thêm to."
+          "say đã có to whom đặt ở đầu câu để tạo câu hỏi, nhưng nếu đầu câu có chữ whom thì sau say phải cộng thêm to."
         ],
         "refs": [317]
       },

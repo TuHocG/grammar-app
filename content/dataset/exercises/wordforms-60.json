@@ -197,7 +197,7 @@
     "tt": 1,
     "blanks": [{"a": "purifier", "alt": [], "n": 5}],
     "given": ["pure"],
-    "vi": "điều đặc biệt qua trọng là các buồng máy lọc và khu vực chứa dầu đều phải được duy trì trong tình trạng sạch sẽ."
+    "vi": "điều đặc biệt quan trọng là các buồng máy lọc và khu vực chứa dầu đều phải được duy trì trong tình trạng sạch sẽ."
   },
   {
     "id": 36048,
@@ -1837,7 +1837,7 @@
     "tt": 1,
     "blanks": [{"a": "quench", "alt": [], "n": 5}],
     "given": ["quenchable"],
-    "vi": "Anh ta đi đến bờ sông đề uống nước cho hết khát."
+    "vi": "Anh ta đi đến bờ sông để uống nước cho hết khát."
   },
   {
     "id": 36212,
@@ -2387,7 +2387,7 @@
     "tt": 1,
     "blanks": [{"a": "Quibbler", "alt": [], "n": 5}],
     "given": ["outquibble"],
-    "vi": "và một bài báo viết về ngôn ngữ Rune cổ đại, ít nhất với bài báo này cậu có thể giải thích tai sao Luna lại đọc ngược tờ tạp chí Kẻ ngụy biện."
+    "vi": "và một bài báo viết về ngôn ngữ Rune cổ đại, ít nhất với bài báo này cậu có thể giải thích tại sao Luna lại đọc ngược tờ tạp chí Kẻ ngụy biện."
   },
   {
     "id": 36267,

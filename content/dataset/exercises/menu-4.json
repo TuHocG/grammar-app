@@ -6229,7 +6229,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "in the sky là cụm trạng từ chỉ nới chốn không thể xen vào giữa để cắt đôi động từ There were và túc từ của nó (many rain clouds) mà phải đặt sau many rain clouds."
+          "in the sky là cụm trạng từ chỉ nơi chốn không thể xen vào giữa để cắt đôi động từ There were và túc từ của nó (many rain clouds) mà phải đặt sau many rain clouds."
         ],
         "refs": [41, 171]
       },
@@ -7669,7 +7669,7 @@
     "tt": 11,
     "choices": ["could", "can", "an able to", "should"],
     "answer": "a",
-    "vi": "Nếu tôi có thể nói tiếng Đức, tôi sẽ nộp dơn xin việc làm.",
+    "vi": "Nếu tôi có thể nói tiếng Đức, tôi sẽ nộp đơn xin việc làm.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -9444,7 +9444,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Thông thường, trong Anh ngữ, 1 tính từ đặt trước danh từ, nhưng bắt buộc phải đặt sau những danh tử phiếm định mơ hồ Indefinite Noun, ví dụ: anything, something, anybody, some body v.v...",
+          "Thông thường, trong Anh ngữ, 1 tính từ đặt trước danh từ, nhưng bắt buộc phải đặt sau những danh từ phiếm định mơ hồ Indefinite Noun, ví dụ: anything, something, anybody, some body v.v...",
           "Vì sau anything, phải là tính từ, nhưng education (sự giáo dục) là một danh từ, nên sai."
         ],
         "refs": [160]
@@ -10145,7 +10145,7 @@
           "since là (kể từ), sau nó phải là trạng từ xác định thời gian.",
           "Ví dụ: last month hoặc mệnh đề xác định thời gian.",
           "Ví dụ: Since you left here. (từ khi bạn rời khỏi đây)",
-          "Vậy years là khoảng thời gian không trõ rệt (nhiều năm) nên không thể dùng since years."
+          "Vậy years là khoảng thời gian không rõ rệt (nhiều năm) nên không thể dùng since years."
         ],
         "refs": [202, 201]
       },
@@ -10338,7 +10338,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "she will finishes sai ở từ finishes, trợ từ will đã được chia rồi, thì đông từ chính có es là sai."
+          "she will finishes sai ở từ finishes, trợ từ will đã được chia rồi, thì động từ chính có es là sai."
         ],
         "refs": [27]
       },
@@ -11282,8 +11282,8 @@
         "head": "Câu C sai vì:",
         "lines": [
           "such: như thế...",
-          "Đặt trước một danh từ số ít không điếm được.",
-          "Ví dụ: such water hoặc Such đứng trước danh từ số nhiều điếm được.",
+          "Đặt trước một danh từ số ít không đếm được.",
+          "Ví dụ: such water hoặc Such đứng trước danh từ số nhiều đếm được.",
           "Ví dụ: such books... không bao giờ such a đặt trước một Adj hoặc một Adv."
         ],
         "refs": [347, 297, 155, 168]
@@ -40299,7 +40299,7 @@
     "tt": 11,
     "choices": ["saw", "have been seen", "had been seen", "had seen"],
     "answer": "d",
-    "vi": "Người đàn ông đả bị phát hiện ở một bãi đậu xe. Họ đã nhìn thấy anh ta.",
+    "vi": "Người đàn ông đã bị phát hiện ở một bãi đậu xe. Họ đã nhìn thấy anh ta.",
     "expl": [
       {
         "head": "Câu A sai vì:",

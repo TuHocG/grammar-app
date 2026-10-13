@@ -6542,7 +6542,7 @@
       },
       {
         "head": "Câu D sai vì:",
-        "lines": ["had settled dùng sai thi đối với ý nghĩa của câu mẫu."],
+        "lines": ["had settled dùng sai thì đối với ý nghĩa của câu mẫu."],
         "refs": [25]
       }
     ],
@@ -13820,7 +13820,7 @@
           "(Indirect Speech) She asked me where... hiding (không có?)",
           "(= reported speech) nhớ là không có dấu chấm hỏi (?)",
           "(Cô ta đã hỏi tôi là tôi đã đang ẩn nấp ở đâu). Ta cần nhớ là khi động từ ở câu nói trực tiếp muốn tường thuật lại, phải lui xuống một thì. Câu A đúng vì:",
-          "I had been là đả lui xuống một thì so với câu trực tiếp have you been, và trong câu tường thuật sẽ đặt xuôi",
+          "I had been là đã lui xuống một thì so với câu trực tiếp have you been, và trong câu tường thuật sẽ đặt xuôi",
           "<Chủ từ + Verb> chứ không đặt ngược như câu hỏi trực tiếp:",
           "<Have you been>."
         ],
@@ -18864,7 +18864,7 @@
           "- I bought this book from the bookstore.",
           "Tôi đã mua quyển sách này từ tiệm sách.",
           "Nhưng from + which trở thành một cụm trạng từ liên quan Relative Adverb bổ nghĩa cho một động từ ở mệnh đề sau Ex:",
-          "- Tôi đem nó đên cái tiệm mà từ nơi đó tôi đã mua nó.",
+          "- Tôi đem nó đến cái tiệm mà từ nơi đó tôi đã mua nó.",
           "I took it back to the shop from which I had bought it",
           "(mệnh đề trước) (Relative Adverb) (mệnh đề sau)."
         ],
@@ -19505,7 +19505,7 @@
     "tt": 10,
     "choices": ["for", "to", "that", "so as"],
     "answer": "b",
-    "vi": "Bà ấy đã mướn một thư thư ký để trả lời điện thoại.",
+    "vi": "Bà ấy đã mướn một thư ký để trả lời điện thoại.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -19929,7 +19929,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Động từ to be muốn chia ở thì simle Past/ Passive Voice thì phải nhờ trợ từ have trở thành He had been seen (hắn đã bị nhìn thấy) chứ He was been seen là sai."
+          "Động từ to be muốn chia ở thì simple Past/ Passive Voice thì phải nhờ trợ từ have trở thành He had been seen (hắn đã bị nhìn thấy) chứ He was been seen là sai."
         ],
         "refs": [47, 48, 303]
       },
@@ -22834,7 +22834,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Trong Main Clause, động từ wouldn't have chia ở Present Conditional và trong if Clause động tư chia ở Future if we won't work là sai, vì sau liên từ if không được dùng một chữ nào mang dấu hiệu Future (sẽ): shall/should/will/would ngoại trừ shall/should/will/would là Modal không phải là sẽ."
+          "Trong Main Clause, động từ wouldn't have chia ở Present Conditional và trong if Clause động từ chia ở Future if we won't work là sai, vì sau liên từ if không được dùng một chữ nào mang dấu hiệu Future (sẽ): shall/should/will/would ngoại trừ shall/should/will/would là Modal không phải là sẽ."
         ],
         "refs": [42, 11]
       }
@@ -24270,7 +24270,7 @@
           "sat in the car chữ sat là nội động to sit chia ở Simple Past mà thiếu chủ từ who hoặc that.",
           "Ngoài ra, nếu sat là quá phân (Past Participle). Ví dụ:",
           "She has (trợ từ) sat (PP) thì PP này chỉ dùng chia các thì kép của nội động, không thể dùng làm Adj mở đầu một Adj Phrase.",
-          "Nhưng một PP của ngoại động có hai chứ năng:",
+          "Nhưng một PP của ngoại động có hai chức năng:",
           "1) Tạo thì kép cho động từ:",
           "I have invited (PP) Mr Quang to go to the party tonight.",
           "- PP tạo thì kép cho ngoại động.",
@@ -27727,7 +27727,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Dùng mạo từ the đặt trước one la để xác định người/con vật/ đồ vật đã nói đến...",
+          "Dùng mạo từ the đặt trước one là để xác định người/con vật/ đồ vật đã nói đến...",
           "Nhưng another (Adj) one là: một người nào đó khác, con vật đồ vật nào đó khác... không xác định.",
           "Vậy đặt một tính từ không xác định sau một mạo từ xác định the another one là sai.",
           "(xác định)(không xác định)."
@@ -27764,7 +27764,7 @@
     "tt": 10,
     "choices": ["as I", "than myself", "than I", "as me"],
     "answer": "c",
-    "vi": "Bạn dã được một học bổng bạn may mắn hơn tôi.",
+    "vi": "Bạn đã được một học bổng bạn may mắn hơn tôi.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -30208,7 +30208,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Tuy chia ở Simplel Past, nhưng did + begin dùng cho thể khoa đại, có nghĩa: nhất định bắt đầu... ở đây, sau các thành ngữ It's high time/ It's about time ta dùng Simple Past thay cho Present là theo thể Subjunctive không cần thể khoa đại."
+          "Tuy chia ở Simple Past, nhưng did + begin dùng cho thể khoa đại, có nghĩa: nhất định bắt đầu... ở đây, sau các thành ngữ It's high time/ It's about time ta dùng Simple Past thay cho Present là theo thể Subjunctive không cần thể khoa đại."
         ],
         "refs": [44, 16, 46]
       },
@@ -34354,7 +34354,7 @@
           "Trong mệnh đề động từ think (Vt) đòi hỏi that + Clause (Noun Clause) làm Object.",
           "Trong that Clause có chủ từ It và động từ is đã bị lược bỏ.",
           "- Đáng lẽ: I think that it is John's brother's.",
-          "- Chỉ cò lại: I think that John's brother's.",
+          "- Chỉ còn lại: I think that John's brother's.",
           "Tôi nghĩ là của người anh của John.",
           "= I think that it is the book of the brother of John.",
           "- Vậy that John's brother's là đúng."
@@ -35486,7 +35486,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "ought to: nên... khi đổi sang phủ định, ta đặt trạng từ not trước ought to là sại vị trí."
+          "ought to: nên... khi đổi sang phủ định, ta đặt trạng từ not trước ought to là sai vị trí."
         ],
         "refs": [280]
       },
@@ -44108,7 +44108,7 @@
     "tt": 10,
     "choices": ["like", "the alike", "same", "the same"],
     "answer": "d",
-    "vi": "Những kế hoạch của bạn về ngày nghĩ cuối tuần vẫn như vậy chứ.",
+    "vi": "Những kế hoạch của bạn về ngày nghỉ cuối tuần vẫn như vậy chứ.",
     "expl": [
       {
         "head": "Câu A sai vì:",

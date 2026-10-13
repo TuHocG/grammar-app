@@ -3658,7 +3658,7 @@
         "pos": "động từ to put chia ở mệnh lệnh cách",
         "position": "đứng trước mệnh đề độc lập (put it on)",
         "function": "",
-        "meaning": "1. động từ (put) ở mệnh lệnh cách, nên không bao giờ cỏ chủ từ đứng trước nó.",
+        "meaning": "1. động từ (put) ở mệnh lệnh cách, nên không bao giờ có chủ từ đứng trước nó.",
         "note": "2. động từ (put) là lời nói trực tiếp ra lệnh, nên luôn chia ở thì hiện tại",
         "refs": [2, 9, 11, 72, 86]
       },
@@ -3725,7 +3725,7 @@
       {
         "n": "97",
         "word": "on",
-        "pos": "trạng từ kết hợp vời động từ, để tạo nên cụm động từ (to put on) có nghĩa: mặc cái gì vào đội cái gì lên v.v...",
+        "pos": "trạng từ kết hợp với động từ, để tạo nên cụm động từ (to put on) có nghĩa: mặc cái gì vào đội cái gì lên v.v...",
         "position": "đứng sau danh từ (shirt)",
         "function": "trạng từ (on) kết hợp với động từ (put) đứng phía trước để tạo nên cụm động từ (put on)",
         "meaning": "Lưu ý: khi bắt đầu mặc áo vào hoặc đội mũ lên thì dùng cụm động từ (put on). Nhưng khi đã mặc sẵn áo, đã đội sẵn mũ, thì phải dùng động từ to wear. Dave wore (quá khứ của động từ wear) the shirt, nghĩa là (Dave đã mặc cái áo sơ mi, đã có cái sơ mi mặc ở trên người rồi.",
@@ -4105,7 +4105,7 @@
       {
         "n": "135",
         "word": "It'll = It will",
-        "pos": "đại từ (It) thay cho cái cổ áo + trợ từ (will viết tắt là 'll) trợ giúp chia động từ (get) ở thỉ tương lai",
+        "pos": "đại từ (It) thay cho cái cổ áo + trợ từ (will viết tắt là 'll) trợ giúp chia động từ (get) ở thì tương lai",
         "position": "cụm đại từ (It'll) phải đứng trước động từ (get)",
         "function": "đại từ (It) làm chủ từ của cụm động từ ('ll get = will get)",
         "meaning": "cụm động từ ('ll get) mô tả chủ từ (It) sẽ được hoặc sẽ bị thế nào?",
@@ -5314,7 +5314,7 @@
         "position": "đứng sau danh từ (half)",
         "function": "",
         "meaning": "1. kết hợp với danh từ (half) tạo nên cụm danh từ (half years)",
-        "note": "2. cụm danh từ (half years) là là túc từ của giới từ (for) ở phía trước",
+        "note": "2. cụm danh từ (half years) là túc từ của giới từ (for) ở phía trước",
         "refs": []
       },
       {
@@ -7019,7 +7019,7 @@
         "position": "đứng sau liên từ (But)",
         "function": "(doctor) là tiếng cảm thán, hô hoán không có chức năng văn phạm nào trong mệnh đề",
         "meaning": "thưa bác sĩ",
-        "note": "doctor | danh từ hô hoán (doctor) đứng sau liền từ (But)",
+        "note": "doctor | danh từ hô hoán (doctor) đứng sau liên từ (But)",
         "refs": []
       },
       {
@@ -7067,7 +7067,7 @@
         "word": "and",
         "pos": "liên từ",
         "position": "đứng đầu mệnh đề phụ thứ tư (and this one's brown)",
-        "function": "nối liền mệnh đề phụ thứ tư vào mệnh đề phụ tứ ba (but, Doctor, my horse, was white)",
+        "function": "nối liền mệnh đề phụ thứ tư vào mệnh đề phụ thứ ba (but, Doctor, my horse, was white)",
         "meaning": "và",
         "note": "and | liên từ (and) phải đứng đầu mệnh đề phụ thứ tư",
         "refs": [173, 174, 175, 40, 41]
@@ -8839,7 +8839,7 @@
         "position": "đứng sau mạo từ (the)",
         "function": "",
         "meaning": "1. làm túc từ của giới từ (before) ở phía trước",
-        "note": "2. trong Anh văn, có rất nhiều những từ tân cùng dạng ing- Nếu từ ở dạng ing đó, có mạo từ a,an, the, đứng trước thì đích thị nó là danh từ (noun)- Ví dụ:an eating, a speaking là một sự nói. Vì không có danh từ nào là an eat, a speak, nên phải dùng eating speating làm danh từ - Nếu eating, speaking không có mạo từ a, an, the đứng trước thì nó là danh động từ (gerund) vừa là danh từ vừa là động từ",
+        "note": "2. trong Anh văn, có rất nhiều những từ tận cùng dạng ing- Nếu từ ở dạng ing đó, có mạo từ a,an, the, đứng trước thì đích thị nó là danh từ (noun)- Ví dụ:an eating, a speaking là một sự nói. Vì không có danh từ nào là an eat, a speak, nên phải dùng eating speating làm danh từ - Nếu eating, speaking không có mạo từ a, an, the đứng trước thì nó là danh động từ (gerund) vừa là danh từ vừa là động từ",
         "refs": [37, 137, 138, 141, 142]
       },
       {
@@ -11686,7 +11686,7 @@
         "n": "32",
         "word": "I",
         "pos": "đại từ, thay thế (doctor)",
-        "position": "đứng trước cụmg động từ ('ve got = have got)",
+        "position": "đứng trước cụm động từ ('ve got = have got)",
         "function": "làm chủ từ của cụm động từ ('ve got)",
         "meaning": "Tôi",
         "note": "I | đại từ (I) làm chủ từ, phải đứng trước cụm động từ ('ve got)",

@@ -4,12 +4,12 @@
     "unit": 1,
     "n": 1,
     "en": "Steve and Yaser first met in their chemistry class at American university.",
-    "correct": "Steve và Yaser gặp nhau lần đầu trong lớp hóa ở tường đại học Hoa Kỳ.",
+    "correct": "Steve và Yaser gặp nhau lần đầu trong lớp hóa ở trường đại học Hoa Kỳ.",
     "options": [
-      "Steve và Yaser gặp nhau lần đầu trong lớp hóa ở tường đại học Hoa Kỳ.",
-      "Steven Yaser bị điên ở tường đại học Hoa Kỳ.",
-      "Steve được ưu tiên học trong lớp hóa ở tường đại học Hoa Kỳ.",
-      "Steve và Yaser không phải là bạn thân ở tường đại học Hoa Kỳ."
+      "Steve và Yaser gặp nhau lần đầu trong lớp hóa ở trường đại học Hoa Kỳ.",
+      "Steven Yaser bị điên ở trường đại học Hoa Kỳ.",
+      "Steve được ưu tiên học trong lớp hóa ở trường đại học Hoa Kỳ.",
+      "Steve và Yaser không phải là bạn thân ở trường đại học Hoa Kỳ."
     ]
   },
   {
@@ -9644,12 +9644,12 @@
     "unit": 13,
     "n": 48,
     "en": "The Illinois Senator said he received more votes and delegates than Ms. Clinton.",
-    "correct": "Vị thượng nghĩ sĩ thuộc bang Illinois này nói rằng ông nhận được nhiều phiếu bầu hơn Bà Clinton.",
+    "correct": "Vị thượng nghị sĩ thuộc bang Illinois này nói rằng ông nhận được nhiều phiếu bầu hơn Bà Clinton.",
     "options": [
-      "Vị thượng nghĩ sĩ thuộc bang Illinois này nói rằng ông nhận được nhiều phiếu bầu hơn Bà Clinton.",
-      "Vị thượng nghĩ sĩ thuộc bang Illinois này nói rằng ông sẽ có ít phiếu hơn Bà Clinton.",
-      "Vị thượng nghĩ sĩ thuộc bang Illinois này nói rằng ông sẽ nhường lại nhiều phiếu bầu và cử tri cho Bà Clinton.",
-      "Vị thượng nghĩ sĩ thuộc bang Illinois này yêu cầu cử tri bỏ phiếu cho ông nhiều hơn Bà Clinton."
+      "Vị thượng nghị sĩ thuộc bang Illinois này nói rằng ông nhận được nhiều phiếu bầu hơn Bà Clinton.",
+      "Vị thượng nghị sĩ thuộc bang Illinois này nói rằng ông sẽ có ít phiếu hơn Bà Clinton.",
+      "Vị thượng nghị sĩ thuộc bang Illinois này nói rằng ông sẽ nhường lại nhiều phiếu bầu và cử tri cho Bà Clinton.",
+      "Vị thượng nghị sĩ thuộc bang Illinois này yêu cầu cử tri bỏ phiếu cho ông nhiều hơn Bà Clinton."
     ]
   },
   {
@@ -9725,7 +9725,7 @@
     "correct": "Bài báo nói cuộn băng được làm từ tháng trước trong suốt cuộc điều tra về vụ mại dâm.",
     "options": [
       "Bài báo nói cuộn băng được làm từ tháng trước trong suốt cuộc điều tra về vụ mại dâm.",
-      "Bài báo nói cuộn băng được tạo ra từ tháng trước đế đối phó với cuộc điều tra về vụ mại dâm.",
+      "Bài báo nói cuộn băng được tạo ra từ tháng trước để đối phó với cuộc điều tra về vụ mại dâm.",
       "Bài báo nói họ lấy được cuộn băng từ tháng trước trong một cuộc điều tra về vụ mại dâm.",
       "Bài báo nói cuộn băng được làm từ tháng trước trong suốt cuộc điều tra về ca phẫu thuật."
     ]

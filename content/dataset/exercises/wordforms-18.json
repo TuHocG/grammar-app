@@ -2797,7 +2797,7 @@
     "tt": 1,
     "blanks": [{"a": "deployment", "alt": [], "n": 5}],
     "given": ["deployable"],
-    "vi": "Các quan chức Hoa Kỳ đã chấp thuận triển khai trực thăng quân sự để phân phát thực phẩm và các hàng cứu trợ khác cho nhưng người sống sót."
+    "vi": "Các quan chức Hoa Kỳ đã chấp thuận triển khai trực thăng quân sự để phân phát thực phẩm và các hàng cứu trợ khác cho những người sống sót."
   },
   {
     "id": 15308,
@@ -3437,7 +3437,7 @@
     "tt": 1,
     "blanks": [{"a": "descriptive", "alt": [], "n": 5}],
     "given": ["descriptiveness"],
-    "vi": "Hãy mô tả mộ con sói bằng ngôn ngữ miêu tả."
+    "vi": "Hãy mô tả một con sói bằng ngôn ngữ miêu tả."
   },
   {
     "id": 15372,

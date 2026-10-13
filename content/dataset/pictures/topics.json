@@ -1789,7 +1789,7 @@
       {"en": "paper cups", "vi": "ly giấy", "xy": [164, 389]},
       {"en": "straws", "vi": "ống hút", "xy": [10, 501]},
       {"en": "napkins", "vi": "khăn giấy", "xy": [118, 455]},
-      {"en": "plastic utensils", "vi": "đồ ùng bằng nhựa", "xy": [73, 549]},
+      {"en": "plastic utensils", "vi": "đồ dùng bằng nhựa", "xy": [73, 549]},
       {"en": "ketchup", "vi": "xốt cà chua", "xy": [60, 689]},
       {"en": "mustard", "vi": "mù tạc", "xy": [108, 647]},
       {"en": "mayonnaise", "vi": "xốt mayonnaise", "xy": [143, 608]},
@@ -3381,7 +3381,7 @@
       {"en": "A.V. crew", "vi": "ban âm thanh ánh sáng", "xy": [572, 357]},
       {"en": "debate club", "vi": "câu lạc bộ mạn đàm", "xy": [22, 536]},
       {"en": "computer club", "vi": "câu lạc bộ tin học", "xy": [211, 536]},
-      {"en": "international club", "vi": "câu lạc bộ giao lưu văn hóc quốc tế", "xy": [392, 534]},
+      {"en": "international club", "vi": "câu lạc bộ giao lưu văn hóa quốc tế", "xy": [392, 534]},
       {"en": "chess club", "vi": "câu lạc bộ cờ tướng", "xy": [574, 533]}
     ],
     "page": "img/pages/99.webp"

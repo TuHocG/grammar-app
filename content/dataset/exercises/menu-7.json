@@ -268,7 +268,7 @@
       {"head": "- robust: ngay thẳng", "lines": [], "refs": []},
       {"head": "- legal 'li:g4l: hợp pháp", "lines": [], "refs": []},
       {"head": "- weak: yếu", "lines": [], "refs": []},
-      {"head": "- cardiac: thuộc về tim, thuốc khích thích tim", "lines": [], "refs": []}
+      {"head": "- cardiac: thuộc về tim, thuốc kích thích tim", "lines": [], "refs": []}
     ]
   },
   {
@@ -5532,7 +5532,7 @@
     "expl": [
       {"head": "- joy: vui sướng", "lines": [], "refs": []},
       {"head": "- disorder: mất trật tự, bừa bãi", "lines": [], "refs": []},
-      {"head": "- wonder: kỳ quan, điều ký diệu", "lines": [], "refs": []},
+      {"head": "- wonder: kỳ quan, điều kỳ diệu", "lines": [], "refs": []},
       {"head": "- intensity: cường độ, tính dữ dội", "lines": [], "refs": []}
     ]
   },
@@ -7404,7 +7404,7 @@
     "expl": [
       {"head": "- information: tin tức, thông tin", "lines": [], "refs": []},
       {
-        "head": "- an invitation to come inside the other's house: một lời mời đền thăm ngôi nhà khác",
+        "head": "- an invitation to come inside the other's house: một lời mời đến thăm ngôi nhà khác",
         "lines": [],
         "refs": []
       },
@@ -7589,7 +7589,7 @@
     "vi": "Anh ta nói nhỏ đến nỗi mà giọng nói của anh thực sự nghe không rõ.",
     "expl": [
       {"head": "- fragile: yếu ớt, mảnh dẽ", "lines": [], "refs": []},
-      {"head": "- audible: có thế nghe rõ", "lines": [], "refs": []},
+      {"head": "- audible: có thể nghe rõ", "lines": [], "refs": []},
       {"head": "- brittle: dễ gãy, hay cáu", "lines": [], "refs": []},
       {"head": "- decrepit: già yếu, hom hem", "lines": [], "refs": []}
     ]

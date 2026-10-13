@@ -40,7 +40,7 @@
     "vi": [
       ["Cuộc sống nông thôn và cuộc sống thành thị"],
       ["Nghe và đọc"],
-      ["Chào Na.", "Bạn vừa di xa về phải không?"],
+      ["Chào Na.", "Bạn vừa đi xa về phải không?"],
       ["ừ", "Tôi về quê nghỉ cuối tuần."],
       ["Bạn đã đi đâu vậy?"],
       ["Tôi đến Kim Liên.", "Đó là một ngôi làng.", "Một vài người bà con của tôi sống ở đó."],
@@ -131,7 +131,7 @@
       ["Một số thay đổi mà Hoa đề cập đến là gì?"],
       [
         ". (Nhiều vùng hẻo lảnh đã bắt đầu có điện.",
-        "Những người sống ở những vùng này bây giờ có thề có những thứ như tủ lạnh và tivi.",
+        "Những người sống ở những vùng này bây giờ có thể có những thứ như tủ lạnh và tivi.",
         "Và cơ sở vật chất y tế cũng sử dụng dễ dàng hơn."
       ],
       ["Bạn thích thành phố hơn hay thích nông thôn hơn?", "Tại sao?"],

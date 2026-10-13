@@ -1297,7 +1297,7 @@
     "tt": 1,
     "blanks": [{"a": "farming", "alt": [], "n": 5}],
     "given": ["farm"],
-    "vi": "Tôi có miếng đất cánh tác cần bán."
+    "vi": "Tôi có miếng đất canh tác cần bán."
   },
   {
     "id": 20158,
@@ -1307,7 +1307,7 @@
     "tt": 1,
     "blanks": [{"a": "farming", "alt": [], "n": 5}],
     "given": ["farm"],
-    "vi": "đất cánh tác, phương pháp chế tạo có năng suất."
+    "vi": "đất canh tác, phương pháp chế tạo có năng suất."
   },
   {
     "id": 20159,
@@ -1917,7 +1917,7 @@
     "tt": 1,
     "blanks": [{"a": "fat", "alt": [], "n": 5}],
     "given": ["fatless"],
-    "vi": "Tớ đã dược một điểm F to đùng ở bài thi môn hình học vừa rồi."
+    "vi": "Tớ đã được một điểm F to đùng ở bài thi môn hình học vừa rồi."
   },
   {
     "id": 20220,
@@ -2557,7 +2557,7 @@
     "tt": 1,
     "blanks": [{"a": "favor", "alt": [], "n": 5}],
     "given": ["unfavorably"],
-    "vi": "Tuyệt quá, tôi còn một điều cuối cùng muốn nhơ anh giúp."
+    "vi": "Tuyệt quá, tôi còn một điều cuối cùng muốn nhờ anh giúp."
   },
   {
     "id": 20284,

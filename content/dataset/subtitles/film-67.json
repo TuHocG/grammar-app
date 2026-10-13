@@ -23,7 +23,7 @@
     {
       "e": 26.26,
       "en": "I'd like to speak to Mr Wilson if he's available please?",
-      "vi": "Vui long cho tôi nói chuyện với ông Wilson nếu ông ấy rảnh.",
+      "vi": "Vui lòng cho tôi nói chuyện với ông Wilson nếu ông ấy rảnh.",
       "s": 23.18
     },
     {
@@ -285,7 +285,7 @@
     {
       "e": 221.24,
       "en": "Could I speak to Mr Wilson if he's available?",
-      "vi": "Vui long cho tôi nói chuyện với ông Wilson nếu ông ấy rảnh?",
+      "vi": "Vui lòng cho tôi nói chuyện với ông Wilson nếu ông ấy rảnh?",
       "s": 214.38
     },
     {
@@ -297,7 +297,7 @@
     {
       "e": 230.86,
       "en": "I'd like to speak to Mr Wilson if possible please.",
-      "vi": "Vui long cho tôi nói chuyện với ông Wilson nếu có thể.",
+      "vi": "Vui lòng cho tôi nói chuyện với ông Wilson nếu có thể.",
       "s": 225.91
     },
     {"e": 233.96, "en": "So we can say:", "vi": "Nên chúng ta có thể nói:", "s": 230.86},
@@ -324,7 +324,7 @@
     {
       "e": 251.44,
       "en": "And another phrase is: \"Could you put me through please?\"",
-      "vi": "Và một câu khác là: \"Cô có thể vui lòng nối máy chó tôi được không?\"",
+      "vi": "Và một câu khác là: \"Cô có thể vui lòng nối máy cho tôi được không?\"",
       "s": 247.02
     },
     {
