@@ -6012,16 +6012,16 @@
   {"w": "displeased", "vi": "làm phật ý", "ipa": "dis'pli:zt", "rs": "địt s plí zt"},
   {"w": "displeasure", "vi": "khó chịu, bực mình", "ipa": "dis'pædʒə", "rs": "địt s plé dờ"},
   {"w": "disposal", "vi": "sự vứt bỏ", "ipa": "di'spəʊzl", "rs": "địt s pấu zồ"},
-  {"w": "dispose", "vi": "có khuynh huớng, sắp đặt, bố trí", "ipa": "di'spəʊz", "rs": "địt s pố z"},
+  {"w": "dispose", "vi": "có khuynh hướng, sắp đặt, bố trí", "ipa": "di'spəʊz", "rs": "địt s pố z"},
   {
     "w": "disposed",
-    "vi": "có khuynh huớng, sắp đặt, bố trí",
+    "vi": "có khuynh hướng, sắp đặt, bố trí",
     "ipa": "di'spəʊzd",
     "rs": "địt s pố zđ"
   },
   {
     "w": "disposes",
-    "vi": "có khuynh huớng, sắp đặt, bố trí",
+    "vi": "có khuynh hướng, sắp đặt, bố trí",
     "ipa": "di'spəʊziz",
     "rs": "địt s pố zì z"
   },
@@ -15612,8 +15612,8 @@
     "rs": "rùy đíu st"
   },
   {"w": "reducing", "vi": "giảm, ép buộc, nghiền nát", "ipa": "ri'dju:siŋ", "rs": "rùy đíu sình"},
-  {"w": "redundancy", "vi": "sự thừa thãi, ruờm rà", "ipa": "ri'dʌndnsi", "rs": "rùy đá đần t"},
-  {"w": "redundant", "vi": "thừa thãi, ruờm rà", "ipa": "ri'dʌndnt", "rs": "rùy đá đần t"},
+  {"w": "redundancy", "vi": "sự thừa thãi, rườm rà", "ipa": "ri'dʌndnsi", "rs": "rùy đá đần t"},
+  {"w": "redundant", "vi": "thừa thãi, rườm rà", "ipa": "ri'dʌndnt", "rs": "rùy đá đần t"},
   {"w": "reef", "vi": "cuốn mép, thu ngắn, đá ngầm, mép buồm", "ipa": "ri:f", "rs": "ruýp f"},
   {
     "w": "reefs",

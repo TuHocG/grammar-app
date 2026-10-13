@@ -5229,7 +5229,7 @@
       {"k": "m", "t": "Truyền thông bằng Vi Ba"},
       {
         "k": "m",
-        "t": "Sóng vi ba có dải tần cao hơn 1000 MHz. Trong lò vi ba có một ống điện tử tạo ra sóng 2,45 GHz để làm nóng vỉ lò. Hệ thống truyền thông bằng vi ba có thể truyền dữ liệu qua không khí và những nơi quang đãng, và nó là phương pháp truyền đuờng dài được dùng nhiều nhất ở Mỹ. Tần số truyền từ 2 - 25 GHz, có băng thông lớn khi dùng trong truyền đường ngắn của những mạng cá nhân."
+        "t": "Sóng vi ba có dải tần cao hơn 1000 MHz. Trong lò vi ba có một ống điện tử tạo ra sóng 2,45 GHz để làm nóng vỉ lò. Hệ thống truyền thông bằng vi ba có thể truyền dữ liệu qua không khí và những nơi quang đãng, và nó là phương pháp truyền đường dài được dùng nhiều nhất ở Mỹ. Tần số truyền từ 2 - 25 GHz, có băng thông lớn khi dùng trong truyền đường ngắn của những mạng cá nhân."
       },
       {
         "k": "m",
@@ -29765,7 +29765,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "vòi trộn, van trộn, vòi hòa (dùng cho nước nóng và nuớc lạnh hòa lẫn với nhau)."
+        "t": "vòi trộn, van trộn, vòi hòa (dùng cho nước nóng và nước lạnh hòa lẫn với nhau)."
       }
     ],
     "k": "mixing cock"

@@ -5394,7 +5394,7 @@
     "h": "outgoing circuit",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đuờng ra ngoài"},
+      {"k": "m", "t": "đường ra ngoài"},
       {"k": "m", "t": "mạch đi ra"}
     ],
     "k": "outgoing circuit"
@@ -5443,9 +5443,9 @@
     "h": "outgoing line",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đuờng phát đi"},
-      {"k": "m", "t": "đuờng truyền đi"},
-      {"k": "m", "t": "đuờng đi ra ngoài"},
+      {"k": "m", "t": "đường phát đi"},
+      {"k": "m", "t": "đường truyền đi"},
+      {"k": "m", "t": "đường đi ra ngoài"},
       {"k": "m", "t": "mạch đi ra"}
     ],
     "k": "outgoing line"

@@ -13316,7 +13316,7 @@
     "h": "roomed",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "ex", "t": "a ten roomed house", "vi": "ngôi nhà muời phòng."}
+      {"k": "ex", "t": "a ten roomed house", "vi": "ngôi nhà mười phòng."}
     ],
     "ipa": "ru:md",
     "k": "roomed"
@@ -22033,7 +22033,7 @@
     "ipa": "'raund'aid",
     "k": "round-eyed"
   },
-  {"h": "round-face tool", "segs": [{"k": "m", "t": "dao luỡi tròn."}], "k": "round-face tool"},
+  {"h": "round-face tool", "segs": [{"k": "m", "t": "dao lưỡi tròn."}], "k": "round-face tool"},
   {
     "h": "round-groove assembly",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nối bằng rãnh tròn"}],

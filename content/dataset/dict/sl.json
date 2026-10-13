@@ -6469,7 +6469,7 @@
     ],
     "k": "sliding contacts"
   },
-  {"h": "sliding coupling", "segs": [{"k": "m", "t": "khớp truợt."}], "k": "sliding coupling"},
+  {"h": "sliding coupling", "segs": [{"k": "m", "t": "khớp trượt."}], "k": "sliding coupling"},
   {
     "h": "sliding cylindrical bearing",
     "segs": [

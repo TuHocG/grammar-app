@@ -32637,7 +32637,7 @@
       },
       {
         "k": "m",
-        "t": "FREQUENCY HOPPING SPREAD SPECTRUM Trong kỹ thuật này, dữ liệu ban đầu không được mở rộng, nhưng dữ liệu được truyền qua dải rộng các tần số thay đổi trong các khoảng thời gian chia theo giây. Cả đầu phát lẫn đầu nhận đồng bộ thay đổi tần số trong quá trình truyền để gây khó khăn cho đối tượng làm nhiễu tín hiệu trên đuờng truyền trong việc dò tìm tần số chính xác mà tín hiệu đó đang được truyền đi. Các tần số thay đổi được rút ra từ một bảng mà máy phát lẫn máy nhận điều biết."
+        "t": "FREQUENCY HOPPING SPREAD SPECTRUM Trong kỹ thuật này, dữ liệu ban đầu không được mở rộng, nhưng dữ liệu được truyền qua dải rộng các tần số thay đổi trong các khoảng thời gian chia theo giây. Cả đầu phát lẫn đầu nhận đồng bộ thay đổi tần số trong quá trình truyền để gây khó khăn cho đối tượng làm nhiễu tín hiệu trên đường truyền trong việc dò tìm tần số chính xác mà tín hiệu đó đang được truyền đi. Các tần số thay đổi được rút ra từ một bảng mà máy phát lẫn máy nhận điều biết."
       },
       {
         "k": "m",

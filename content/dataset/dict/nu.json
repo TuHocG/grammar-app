@@ -3601,7 +3601,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "số lượng nguyên công"},
-      {"k": "m", "t": "số luợng thao tác"}
+      {"k": "m", "t": "số lượng thao tác"}
     ],
     "k": "number of passes"
   },
@@ -3614,8 +3614,8 @@
     "h": "number of repeats",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "số luợng rapo"},
-      {"k": "m", "t": "số luợng trùng diễn"}
+      {"k": "m", "t": "số lượng rapo"},
+      {"k": "m", "t": "số lượng trùng diễn"}
     ],
     "k": "number of repeats"
   },
@@ -6327,7 +6327,7 @@
     "h": "nutrient content",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "hàm luợng chất dinh dưỡng"}
+      {"k": "m", "t": "hàm lượng chất dinh dưỡng"}
     ],
     "k": "nutrient content"
   },

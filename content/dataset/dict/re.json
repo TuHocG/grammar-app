@@ -30678,7 +30678,7 @@
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "redundance như redundance", "vi": "."}],
     "ipa": "ri'dʌndənsi",
     "k": "redundancy",
-    "q": {"vi": "sự thừa thãi, ruờm rà", "ipa": "ri'dʌndnsi", "rs": "rùy đá đần t"}
+    "q": {"vi": "sự thừa thãi, rườm rà", "ipa": "ri'dʌndnsi", "rs": "rùy đá đần t"}
   },
   {"h": "redundancy bit", "segs": [{"k": "m", "t": "bit dư."}], "k": "redundancy bit"},
   {
@@ -30773,7 +30773,7 @@
     ],
     "ipa": "ri'dʌndənt",
     "k": "redundant",
-    "q": {"vi": "thừa thãi, ruờm rà", "ipa": "ri'dʌndnt", "rs": "rùy đá đần t"}
+    "q": {"vi": "thừa thãi, rườm rà", "ipa": "ri'dʌndnt", "rs": "rùy đá đần t"}
   },
   {
     "h": "redundant bar",
@@ -34091,7 +34091,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "khoảng cách tham chứng, khoảng cách gốc (đến đường gần nhất của luới tọa độ)."
+        "t": "khoảng cách tham chứng, khoảng cách gốc (đến đường gần nhất của lưới tọa độ)."
       }
     ],
     "k": "reference distance"
@@ -93698,7 +93698,7 @@
   },
   {
     "h": "retractable ramp",
-    "segs": [{"k": "m", "t": "sàn dốc cụp xòe; cầu dốc co duỗi đuợc."}],
+    "segs": [{"k": "m", "t": "sàn dốc cụp xòe; cầu dốc co duỗi được."}],
     "k": "retractable ramp"
   },
   {

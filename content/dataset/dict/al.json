@@ -2788,7 +2788,7 @@
   {"h": "alert type", "segs": [{"k": "m", "t": "kiểu báo lỗi, kiểu báo động."}], "k": "alert type"},
   {
     "h": "alerted crew",
-    "segs": [{"k": "m", "t": "đội thuờng trực; đội ứng trực."}],
+    "segs": [{"k": "m", "t": "đội thường trực; đội ứng trực."}],
     "k": "alerted crew"
   },
   {
@@ -6853,7 +6853,7 @@
       {
         "k": "ex",
         "t": "We used to have wonderful parties, but those days are all gone:",
-        "vi": "Chúng tôi thuờng có những buổi liên hoan tuyệt vời, nhưng những ngày đó đã qua rồi."
+        "vi": "Chúng tôi thường có những buổi liên hoan tuyệt vời, nhưng những ngày đó đã qua rồi."
       }
     ],
     "k": "all gone"
@@ -7341,7 +7341,7 @@
       {
         "k": "ex",
         "t": "Mary is all thumbs when it comes to gardening:",
-        "vi": "Mary rất vụng về khi nói đến làm vuờn."
+        "vi": "Mary rất vụng về khi nói đến làm vườn."
       }
     ],
     "k": "all thumbs"
@@ -10983,7 +10983,7 @@
   },
   {
     "h": "allotment of shares",
-    "segs": [{"k": "m", "t": "1. phân phối cổ phiếu 2. số cổ phiếu đuợc phân phối."}],
+    "segs": [{"k": "m", "t": "1. phân phối cổ phiếu 2. số cổ phiếu được phân phối."}],
     "k": "allotment of shares"
   },
   {"h": "allotoxin", "segs": [{"k": "m", "t": "Dị kháng độc tố."}], "k": "allotoxin"},

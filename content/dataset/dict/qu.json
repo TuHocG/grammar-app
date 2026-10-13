@@ -3071,12 +3071,12 @@
   },
   {
     "h": "quality appraisal",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự đánh giá chất luợng"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự đánh giá chất lượng"}],
     "k": "quality appraisal"
   },
   {
     "h": "quality assessment",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự đánh giá chất luợng"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự đánh giá chất lượng"}],
     "k": "quality assessment"
   },
   {
@@ -3090,7 +3090,7 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "QA"},
       {"k": "m", "t": "sự bảo đảm chất lượng"},
-      {"k": "m", "t": "sự đảm bảo chất luợng"},
+      {"k": "m", "t": "sự đảm bảo chất lượng"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "bảo hiểm chất lượng"}
     ],
@@ -3108,7 +3108,7 @@
     "h": "quality assurance certificate",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "chứng chỉ đảm bảo chất luợng"}
+      {"k": "m", "t": "chứng chỉ đảm bảo chất lượng"}
     ],
     "k": "quality assurance certificate"
   },
@@ -3139,7 +3139,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "quy trình đảm bảo chất lượng"},
-      {"k": "m", "t": "thủ tục đảm bảo chất luợng"}
+      {"k": "m", "t": "thủ tục đảm bảo chất lượng"}
     ],
     "k": "quality assurance procedure"
   },
@@ -3158,7 +3158,7 @@
       {"k": "m", "t": "giám sát, kiểm tra chất lượng"},
       {"k": "m", "t": "kiểm tra chất lượng"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "kiểm tra chất luợng"}
+      {"k": "m", "t": "kiểm tra chất lượng"}
     ],
     "k": "quality audit"
   },

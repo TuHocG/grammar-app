@@ -1164,7 +1164,7 @@
   },
   {
     "h": "gradebuilder",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "máy san nền đuờng."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "máy san nền đường."}],
     "ipa": "'greid,bildə",
     "k": "gradebuilder"
   },
@@ -17630,7 +17630,7 @@
   },
   {
     "h": "grid-plate characteristic",
-    "segs": [{"k": "m", "t": "đặc tuyến luới-a-nốt."}],
+    "segs": [{"k": "m", "t": "đặc tuyến lưới-a-nốt."}],
     "k": "grid-plate characteristic"
   },
   {

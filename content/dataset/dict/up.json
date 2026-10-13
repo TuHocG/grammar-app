@@ -1930,7 +1930,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "chi phí bảo dưỡng"},
-      {"k": "m", "t": "phí tổn bảo duỡng"}
+      {"k": "m", "t": "phí tổn bảo dưỡng"}
     ],
     "k": "upkeep cost"
   },

@@ -6586,7 +6586,7 @@
   },
   {
     "h": "Pelagians",
-    "segs": [{"k": "m", "t": "Người theo tư tuởng Pêlagiô ( ( 422)."}],
+    "segs": [{"k": "m", "t": "Người theo tư tưởng Pêlagiô ( ( 422)."}],
     "k": "pelagians"
   },
   {
@@ -14043,7 +14043,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "mỗi đơn vị khối lượng"},
-      {"k": "m", "t": "trên đơn vị khối luợng"},
+      {"k": "m", "t": "trên đơn vị khối lượng"},
       {"k": "m", "t": "trên khối lượng đơn vị"}
     ],
     "k": "per unit mass"
@@ -16302,7 +16302,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "tinh thể hoàn hảo"},
-      {"k": "m", "t": "tinh thể lý tuởng"}
+      {"k": "m", "t": "tinh thể lý tưởng"}
     ],
     "k": "perfect crystal"
   },
@@ -24405,7 +24405,7 @@
     "h": "permanent threshold shift",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "sự dịch chuyển nguỡng thưòng trực"}
+      {"k": "m", "t": "sự dịch chuyển ngưỡng thưòng trực"}
     ],
     "k": "permanent threshold shift"
   },
@@ -24456,7 +24456,7 @@
     "h": "permanent waste storage",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "khu chứa chất thải thuờng xuyên"}
+      {"k": "m", "t": "khu chứa chất thải thường xuyên"}
     ],
     "k": "permanent waste storage"
   },

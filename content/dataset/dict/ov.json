@@ -2815,7 +2815,7 @@
   },
   {
     "h": "overall travel time",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tổng thời gian đi đuờng"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tổng thời gian đi đường"}],
     "k": "overall travel time"
   },
   {

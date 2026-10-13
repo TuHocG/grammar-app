@@ -38205,7 +38205,7 @@
   },
   {
     "h": "power demand",
-    "segs": [{"k": "m", "t": "nhu cầu năng luợng, nhu cầu điện năng."}],
+    "segs": [{"k": "m", "t": "nhu cầu năng lượng, nhu cầu điện năng."}],
     "k": "power demand"
   },
   {"h": "power density", "segs": [{"k": "m", "t": "mật độ công suất."}], "k": "power density"},

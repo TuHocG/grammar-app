@@ -13754,7 +13754,7 @@
     "segs": [{"k": "m", "t": "thùng rửa ống."}],
     "k": "pipe washing trough"
   },
-  {"h": "pipe way", "segs": [{"k": "m", "t": "đuờng ống."}], "k": "pipe way"},
+  {"h": "pipe way", "segs": [{"k": "m", "t": "đường ống."}], "k": "pipe way"},
   {"h": "pipe welder", "segs": [{"k": "m", "t": "máy hàn ống."}], "k": "pipe welder"},
   {
     "h": "pipe welding yard",

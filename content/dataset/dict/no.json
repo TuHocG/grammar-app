@@ -65193,7 +65193,7 @@
     "h": "normal operating conditions",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "điều kiện làm việc bình thuờng"},
+      {"k": "m", "t": "điều kiện làm việc bình thường"},
       {"k": "m", "t": "điều kiện làm việc chuẩn"}
     ],
     "k": "normal operating conditions"
@@ -68658,7 +68658,7 @@
     "h": "nose circle",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đuờng cong"},
+      {"k": "m", "t": "đường cong"},
       {"k": "m", "t": "vòng đinh"}
     ],
     "k": "nose circle"
@@ -68716,7 +68716,7 @@
   },
   {
     "h": "nose gear steering",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cấu lái càng truớc"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cấu lái càng trước"}],
     "k": "nose gear steering"
   },
   {

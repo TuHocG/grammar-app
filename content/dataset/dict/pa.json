@@ -21779,7 +21779,7 @@
   },
   {
     "h": "parallel guide",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "huớng dẫn song song"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hướng dẫn song song"}],
     "k": "parallel guide"
   },
   {
@@ -34715,7 +34715,7 @@
       {"k": "m", "t": "sự phân chia"},
       {"k": "m", "t": "sự phân tách"},
       {"k": "m", "t": "sự làm vách ngăn"},
-      {"k": "m", "t": "sự ngăn tuờng"}
+      {"k": "m", "t": "sự ngăn tường"}
     ],
     "k": "partitioning"
   },
@@ -36699,7 +36699,7 @@
   {"h": "pass tunnel", "segs": [{"k": "m", "t": "đường hầm lưng núi."}], "k": "pass tunnel"},
   {
     "h": "pass under",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đi chui hầm ngang đuờng"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đi chui hầm ngang đường"}],
     "k": "pass under"
   },
   {"h": "pass up", "segs": [{"k": "m", "t": "bỏ."}], "k": "pass up"},
@@ -37216,7 +37216,7 @@
   },
   {
     "h": "passed for press",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đuợc chuyển sang in"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "được chuyển sang in"}],
     "k": "passed for press"
   },
   {

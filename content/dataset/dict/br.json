@@ -12446,7 +12446,7 @@
       },
       {
         "k": "m",
-        "t": "Cầu nối chuyển dịch có thể được dùng để nối các mạng LAN khác nhau bằng cách phân giải những khác biệt giữa dịnh dạng khung, tốc độ truyền, và mã điều khiển. Tuy nhiên, bộ định tuyến thuờng thích hợp hơn cho công việc này."
+        "t": "Cầu nối chuyển dịch có thể được dùng để nối các mạng LAN khác nhau bằng cách phân giải những khác biệt giữa dịnh dạng khung, tốc độ truyền, và mã điều khiển. Tuy nhiên, bộ định tuyến thường thích hợp hơn cho công việc này."
       },
       {"k": "m", "t": "Chức năng của cầu nối"},
       {

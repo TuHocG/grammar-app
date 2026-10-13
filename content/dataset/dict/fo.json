@@ -869,7 +869,7 @@
   {"h": "foci", "segs": [{"k": "ref", "t": "focus"}], "redirect": "focus", "k": "foci"},
   {
     "h": "Focolare",
-    "segs": [{"k": "m", "t": "Lò lửa, l.suởi; Phong trào Fôcôlarê (n 1943)."}],
+    "segs": [{"k": "m", "t": "Lò lửa, l.sưởi; Phong trào Fôcôlarê (n 1943)."}],
     "k": "focolare"
   },
   {"h": "focometer", "segs": [{"k": "m", "t": "tiêu kế."}], "k": "focometer"},

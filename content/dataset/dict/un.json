@@ -26872,7 +26872,7 @@
   },
   {
     "h": "underdriven",
-    "segs": [{"k": "m", "t": "được truyền động giảm tốc; được dẫn động phía duới."}],
+    "segs": [{"k": "m", "t": "được truyền động giảm tốc; được dẫn động phía dưới."}],
     "k": "underdriven"
   },
   {
@@ -89661,7 +89661,7 @@
       {"k": "pos", "t": "tính từ"},
       {
         "k": "m",
-        "t": "không thể ngăn chặn được, không thể ngăn ngừa đuợc, không thể tránh khỏi được."
+        "t": "không thể ngăn chặn được, không thể ngăn ngừa được, không thể tránh khỏi được."
       }
     ],
     "ipa": ",ʌnpri'ventəbl",
