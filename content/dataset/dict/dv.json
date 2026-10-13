@@ -71,7 +71,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "rewritable DVD: a DVD that can have its contents erased và something else recorded onto it many times. Full form digital video disk rewritable"
+        "t": "rewritable DVD: a DVD that can have its contents erased and something else recorded onto it many times. Full form digital video disk rewritable"
       }
     ],
     "k": "dvd-rw"
@@ -87,7 +87,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in northeastern Europe, comprising the Northern Dvina và the Western Dvina."
+        "t": "river in northeastern Europe, comprising the Northern Dvina and the Western Dvina."
       },
       {"k": "m", "t": "Length: 1,020 km/634 mi"}
     ],
@@ -96,7 +96,10 @@
   {
     "h": "DVLA",
     "segs": [
-      {"k": "m", "t": "Viết tắt của U.K. public administration Driving và Vehicle Licensing Agency"}
+      {
+        "k": "m",
+        "t": "Viết tắt của U.K. public administration Driving and Vehicle Licensing Agency"
+      }
     ],
     "k": "dvla"
   },

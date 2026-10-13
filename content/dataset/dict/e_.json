@@ -200,7 +200,7 @@
       },
       {
         "k": "m",
-        "t": "E-books can be updated either from a book store hoặc a Web site that sells digital texts."
+        "t": "E-books can be updated either from a book store or a Web site that sells digital texts."
       }
     ],
     "k": "e-book"
@@ -237,7 +237,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "working together using electronic means: collaboration among people hoặc organizations made possible by means of electronic technologies such as the Internet, video conferencing, và wireless devices"
+        "t": "working together using electronic means: collaboration among people or organizations made possible by means of electronic technologies such as the Internet, video conferencing, and wireless devices"
       }
     ],
     "k": "e-collaboration"
@@ -249,7 +249,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "consulting for online businesses: the business of providing services such as Web page design và marketing advice to companies doing business on the Internet"
+        "t": "consulting for online businesses: the business of providing services such as Web page design and marketing advice to companies doing business on the Internet"
       },
       {"k": "m", "t": "-e-consultant (danh từ)"}
     ],
@@ -304,7 +304,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "charitable donation using Internet: charitable giving carried out exclusively over the Internet by accessing a particular charity's Web site và using a credit card to make the donation (thông tục)"
+        "t": "charitable donation using Internet: charitable giving carried out exclusively over the Internet by accessing a particular charity's Web site and using a credit card to make the donation (thông tục)"
       }
     ],
     "k": "e-giving"
@@ -332,7 +332,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "learning using electronic means: the acquisition of knowledge và skill using electronic technologies such as computer-và Internet-based courseware và local và wide area networks"
+        "t": "learning using electronic means: the acquisition of knowledge and skill using electronic technologies such as computer-và Internet-based courseware và local và wide area networks"
       }
     ],
     "k": "e-learning"
@@ -376,7 +376,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "abbreviations used in Internet communication: the set of acronyms và abbreviations for common phrases originally used in e-mail và subsequently in chat rooms, instant messaging, và newsgroup postings"
+        "t": "abbreviations used in Internet communication: the set of acronyms and abbreviations for common phrases originally used in e-mail and subsequently in chat rooms, instant messaging, and newsgroup postings"
       }
     ],
     "k": "e-mail shorthand"
@@ -405,7 +405,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "professional online forum: an Internet forum, usually of a professional nature và requiring a subscription to participate"
+        "t": "professional online forum: an Internet forum, usually of a professional nature and requiring a subscription to participate"
       }
     ],
     "k": "e-network"
@@ -421,7 +421,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "film containing electronic information: a thin flexible sheet on which electronic information can be downloaded và read"
+        "t": "film containing electronic information: a thin flexible sheet on which electronic information can be downloaded and read"
       }
     ],
     "k": "e-paper"
@@ -474,7 +474,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Internet seller: a person hoặc organization selling merchandise online, especially on the Internet"
+        "t": "Internet seller: a person or organization selling merchandise online, especially on the Internet"
       }
     ],
     "k": "e-tailer"
@@ -522,7 +522,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bacterium in colon: a bacterium found in the colon of human beings và animals that becomes a serious contaminant when found in the food hoặc water supply"
+        "t": "bacterium in colon: a bacterium found in the colon of human beings and animals that becomes a serious contaminant when found in the food or water supply"
       }
     ],
     "k": "e. coli"
@@ -537,10 +537,10 @@
     "h": "e.g.",
     "segs": [
       {"k": "m", "t": "Viết tắt của for example: for hoặc as an example"},
-      {"k": "m", "t": "e.g. hoặc i.e.?"},
+      {"k": "m", "t": "e.g. or i.e.?"},
       {
         "k": "m",
-        "t": "Do not confuse these two abbreviations, which mean different things và have different origins. The abbreviation e.g., meaning \"for hoặc as an example,\" comes from the Latin expression exempli gratia (\"for example\"). Use it when you want to list a few typical examples of the thing mentioned: I have the laboratory equipment, e.g., beakers, thermometers, và test tubes, that we need. Do not end a list that starts with e.g. with etc. The abbreviation i.e., meaning \"that is, that is to say,\" comes from the Latin expression id est (\"that is\"). Use it when you want to give a more precise description of the thing mentioned: The hearing, i.e., the preliminary hearing, is set for noon Friday. Two periods punctuate e.g. và i.e. in U.S. English, whereas they may be unpunctuated in British English. Surround these abbreviations with commas."
+        "t": "Do not confuse these two abbreviations, which mean different things and have different origins. The abbreviation e.g., meaning \"for or as an example,\" comes from the Latin expression exempli gratia (\"for example\"). Use it when you want to list a few typical examples of the thing mentioned: I have the laboratory equipment, e.g., beakers, thermometers, and test tubes, that we need. Do not end a list that starts with e.g. with etc. The abbreviation i.e., meaning \"that is, that is to say,\" comes from the Latin expression id est (\"that is\"). Use it when you want to give a more precise description of the thing mentioned: The hearing, i.e., the preliminary hearing, is set for noon Friday. Two periods punctuate e.g. and i.e. in U.S. English, whereas they may be unpunctuated in British English. Surround these abbreviations with commas."
       }
     ],
     "k": "e.g."
@@ -550,7 +550,7 @@
   {
     "h": "e.o.m.",
     "segs": [
-      {"k": "m", "t": "Viết tắt của 1. end of message (used in e-mails hoặc text messages)"},
+      {"k": "m", "t": "Viết tắt của 1. end of message (used in e-mails or text messages)"},
       {"k": "m", "t": "2. commerce end of the month"}
     ],
     "k": "e.o.m."

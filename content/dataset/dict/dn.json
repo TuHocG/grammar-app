@@ -24,7 +24,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "identifying somebody from DNA: the analysis và use of DNA patterns from body tissues such as blood, saliva, hoặc semen in order to establish somebody's identity"
+        "t": "identifying somebody from DNA: the analysis and use of DNA patterns from body tissues such as blood, saliva, or semen in order to establish somebody's identity"
       },
       {"k": "m", "t": "-DNA fingerprint (danh từ)"}
     ],
@@ -60,7 +60,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "enzyme reproducing and repairing DNA: an enzyme that uses single-stranded DNA to reproduce và repair DNA"
+        "t": "enzyme reproducing and repairing DNA: an enzyme that uses single-stranded DNA to reproduce and repair DNA"
       }
     ],
     "k": "dna polymerase"
@@ -112,7 +112,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "order of DNA base pairs: the relative order of base pairs in a fragment of DNA, a gene, a chromosome, hoặc an entire genome"
+        "t": "order of DNA base pairs: the relative order of base pairs in a fragment of DNA, a gene, a chromosome, or an entire genome"
       }
     ],
     "k": "dna sequence"
@@ -169,7 +169,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Viết tắt của government Department of National Defence và the Canadian Forces"
+        "t": "Viết tắt của government Department of National Defence and the Canadian Forces"
       }
     ],
     "k": "dnd/cf"
@@ -186,7 +186,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hoặc Dnepr third longest river in Europe after the Volga và Danube. It rises west of Moscow và flows southward và westward through Russia, Belarus, và Ukraine before emptying into the Black Sea."
+        "t": "hoặc Dnepr third longest river in Europe after the Volga and Danube. It rises west of Moscow và flows southward và westward through Russia, Belarus, and Ukraine before emptying into the Black Sea."
       },
       {"k": "m", "t": "Length: 2,290 km/1,420 mi"}
     ],

@@ -109,8 +109,8 @@
     "h": "CBW",
     "segs": [
       {"k": "m", "t": "abbreviationmilitary"},
-      {"k": "m", "t": "1. chemical và biological warfare"},
-      {"k": "m", "t": "2. chemical và biological weapon"}
+      {"k": "m", "t": "1. chemical and biological warfare"},
+      {"k": "m", "t": "2. chemical and biological weapon"}
     ],
     "k": "cbw"
   },

@@ -104,7 +104,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "foreign to body: describes a chemical compound such as a drug hoặc pesticide that is foreign to the body of a living organism"
+        "t": "foreign to body: describes a chemical compound such as a drug or pesticide that is foreign to the body of a living organism"
       },
       {"k": "m", "t": "-xenobiotic (danh từ)"}
     ],
@@ -132,7 +132,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "crystal foreign to rock: a crystal in an igneous rock introduced from an external source và not crystallized from the magma"
+        "t": "crystal foreign to rock: a crystal in an igneous rock introduced from an external source and not crystallized from the magma"
       }
     ],
     "k": "xenocryst"
@@ -156,7 +156,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "derived from another species: coming from hoặc derived from a different species"
+        "t": "derived from another species: coming from or derived from a different species"
       }
     ],
     "k": "xenogeneic"
@@ -333,7 +333,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody who likes foreigners: somebody who likes the people, customs, và culture of other countries, hoặc things from abroad"
+        "t": "somebody who likes foreigners: somebody who likes the people, customs, and culture of other countries, or things from abroad"
       },
       {"k": "m", "t": "-xenophilia, noun"},
       {"k": "m", "t": "-xenophilous (tính từ)"}
@@ -448,20 +448,20 @@
     "segs": [
       {
         "k": "m",
-        "t": "transitive verb (past và past participle xenotransplanted, present participle xenotransplanting, 3rd person present singular xenotransplants)"
+        "t": "transitive verb (past and past participle xenotransplanted, present participle xenotransplanting, 3rd person present singular xenotransplants)"
       },
       {
         "k": "m",
-        "t": "transplant something to different species: to transfer a tissue hoặc organ between members of different species"
+        "t": "transplant something to different species: to transfer a tissue or organ between members of different species"
       },
       {"k": "m", "t": "noun (số nhiều xenotransplants)"},
       {
         "k": "m",
-        "t": "1. operation transplanting tissue to different species: a surgical operation in which a tissue hoặc organ is transferred between members of different species"
+        "t": "1. operation transplanting tissue to different species: a surgical operation in which a tissue or organ is transferred between members of different species"
       },
       {
         "k": "m",
-        "t": "2. something transplanted to different species: a tissue hoặc organ that is transferred between members of different species"
+        "t": "2. something transplanted to different species: a tissue or organ that is transferred between members of different species"
       },
       {"k": "m", "t": "-xenotransplantable, adjective"},
       {"k": "m", "t": "-xenotransplantation (danh từ)"}
@@ -492,7 +492,7 @@
     "h": "xeric",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "relating to dry habitat: relating to hoặc living in a dry habitat"},
+      {"k": "m", "t": "relating to dry habitat: relating to or living in a dry habitat"},
       {"k": "m", "t": "-xerically (trạng từ)"}
     ],
     "k": "xeric"
@@ -593,7 +593,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "adapted to dry conditions: describes plants or plant parts that are adapted for survival in dry conditions, ví dụ: spiny leaves that reduce surface area và therefore water loss"
+        "t": "adapted to dry conditions: describes plants or plant parts that are adapted for survival in dry conditions, ví dụ: spiny leaves that reduce surface area and therefore water loss"
       }
     ],
     "k": "xeromorphic"
@@ -678,7 +678,7 @@
     "h": "xerothermic",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "hot and dry: very hot và having little rainfall"},
+      {"k": "m", "t": "hot and dry: very hot and having little rainfall"},
       {"k": "m", "t": "a xerothermic climate"}
     ],
     "k": "xerothermic"

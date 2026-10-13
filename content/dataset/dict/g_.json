@@ -17,7 +17,7 @@
     "segs": [
       {"k": "m", "t": "hoặc g và t"},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "U.K. gin và tonic"}
+      {"k": "m", "t": "U.K. gin and tonic"}
     ],
     "k": "g & t"
   },
@@ -50,7 +50,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "disease caused by G protein abnormalities: a condition such as high blood pressure, night blindness, hoặc acromegaly arising from the failure of the G proteins that transmit messages from cell membrane receptors to the interior of cells"
+        "t": "disease caused by G protein abnormalities: a condition such as high blood pressure, night blindness, or acromegaly arising from the failure of the G proteins that transmit messages from cell membrane receptors to the interior of cells"
       }
     ],
     "k": "g protein disease"

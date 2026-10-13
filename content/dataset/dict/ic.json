@@ -52,7 +52,9 @@
   },
   {
     "h": "ICAEW",
-    "segs": [{"k": "m", "t": "Viết tắt của Institute of Chartered Accountants in England và Wales"}],
+    "segs": [
+      {"k": "m", "t": "Viết tắt của Institute of Chartered Accountants in England and Wales"}
+    ],
     "k": "icaew"
   },
   {
@@ -79,7 +81,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. character in Greek mythology: in Greek mythology, the son of Daedalus, who drowned in the sea while attempting to escape from Crete after the sun melted his wings of wax và feathers"
+        "t": "1. character in Greek mythology: in Greek mythology, the son of Daedalus, who drowned in the sea while attempting to escape from Crete after the sun melted his wings of wax and feathers"
       },
       {
         "k": "m",
@@ -243,7 +245,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "use of ice ax in fall: in ice climbing, a method of slowing hoặc breaking a fall in which the climber thrusts his hoặc her ice ax into the ice"
+        "t": "use of ice ax in fall: in ice climbing, a method of slowing or breaking a fall in which the climber thrusts his or her ice ax into the ice"
       }
     ],
     "k": "ice ax brake"
@@ -334,7 +336,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "beer frozen during brewing: beer brewed by a process that freezes the beer và removes some of the ice, thus increasing the beer's alcohol content"
+        "t": "beer frozen during brewing: beer brewed by a process that freezes the beer and removes some of the ice, thus increasing the beer's alcohol content"
       }
     ],
     "k": "ice beer"
@@ -412,7 +414,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "trough hacked in ice: in ice climbing, a long narrow U-shaped trough that a climber makes in ice to drape a rope hoặc sling around for use as an anchor for belaying hoặc rappelling"
+        "t": "trough hacked in ice: in ice climbing, a long narrow U-shaped trough that a climber makes in ice to drape a rope or sling around for use as an anchor for belaying or rappelling"
       }
     ],
     "k": "ice bollard"
@@ -619,7 +621,7 @@
     "h": "ice climbing",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "activity of climbing ice: the sport hoặc activity of climbing on ice"}
+      {"k": "m", "t": "activity of climbing ice: the sport or activity of climbing on ice"}
     ],
     "k": "ice climbing"
   },
@@ -715,7 +717,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "headache caused by chilled palate: a common but harmless pain in the forehead hoặc temples caused by the arteries narrowing temporarily as a result of the rapid cooling of the hard palate"
+        "t": "headache caused by chilled palate: a common but harmless pain in the forehead or temples caused by the arteries narrowing temporarily as a result of the rapid cooling of the hard palate"
       }
     ],
     "k": "ice cream headache"
@@ -884,7 +886,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "short sharp climbing hand tool: in ice climbing, a short hand tool with a sharp point for thrusting into ice và using as a handhold (dated)"
+        "t": "short sharp climbing hand tool: in ice climbing, a short hand tool with a sharp point for thrusting into ice and using as a handhold (dated)"
       }
     ],
     "k": "ice dagger"
@@ -895,7 +897,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "use of ice axes for climbing: in ice climbing, a method of climbing quickly by pushing the head of one hoặc two ice axes into ice hoặc snow at waist level"
+        "t": "use of ice axes for climbing: in ice climbing, a method of climbing quickly by pushing the head of one or two ice axes into ice or snow at waist level"
       }
     ],
     "k": "ice dagger technique"
@@ -968,7 +970,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "spiny Antarctic fish: a spiny-finned fish that has a semitransparent scaleless body và a low oxygen requirement, making it well suited to cold waters. Thường thấy ở: Antarctic."
+        "t": "spiny Antarctic fish: a spiny-finned fish that has a semitransparent scaleless body and a low oxygen requirement, making it well suited to cold waters. Thường thấy ở: Antarctic."
       },
       {"k": "m", "t": "Family: Chaenichthyidae"}
     ],
@@ -1462,7 +1464,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "thin ice crystal: a tiny needle-shaped ice crystal that forms in cold moist air và gathers with others into masses resembling clouds, often at high altitudes và in otherwise clear weather"
+        "t": "thin ice crystal: a tiny needle-shaped ice crystal that forms in cold moist air and gathers with others into masses resembling clouds, often at high altitudes and in otherwise clear weather"
       }
     ],
     "k": "ice needle"
@@ -1515,7 +1517,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "piton hammered into ice: in ice climbing, a specially designed piton that climbers hammer into ice và use as an anchor"
+        "t": "piton hammered into ice: in ice climbing, a specially designed piton that climbers hammer into ice and use as an anchor"
       }
     ],
     "k": "ice piton"
@@ -1641,9 +1643,9 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mountaineer's anchor in ice: a short metal rod threaded like a screw và provided with a ring at one end, pushed và twisted into ice to give a climber an anchor point for a rope."
+        "t": "mountaineer's anchor in ice: a short metal rod threaded like a screw and provided with a ring at one end, pushed and twisted into ice to give a climber an anchor point for a rope."
       },
-      {"k": "m", "t": "Ice screws are made of aluminum, stainless steel, hoặc titanium."}
+      {"k": "m", "t": "Ice screws are made of aluminum, stainless steel, or titanium."}
     ],
     "k": "ice screw"
   },
@@ -1663,7 +1665,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ice projecting over sea: a thick mass of ice covering coastal land và extending out over the sea so that the extended portion floats"
+        "t": "ice projecting over sea: a thick mass of ice covering coastal land and extending out over the sea so that the extended portion floats"
       }
     ],
     "k": "ice shelf"
@@ -2043,7 +2045,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "chair without arms: a wire chair with a round seat và without arms, formerly popular in ice-cream parlors và used in a variety of cafés"
+        "t": "chair without arms: a wire chair with a round seat and without arms, formerly popular in ice-cream parlors and used in a variety of cafés"
       }
     ],
     "k": "ice-cream chair"
@@ -2103,7 +2105,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "store selling ice cream: a small store that sells ice cream to be eaten on hoặc off the premises, typically having small tables và chairs for customers"
+        "t": "store selling ice cream: a small store that sells ice cream to be eaten on or off the premises, typically having small tables and chairs for customers"
       }
     ],
     "k": "ice-cream parlor"
@@ -2288,7 +2290,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "thawing of ice on water: a thawing of the ice covering a lake hoặc other body of water"
+        "t": "thawing of ice on water: a thawing of the ice covering a lake or other body of water"
       }
     ],
     "k": "ice-out"
@@ -2788,7 +2790,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada ice rink: an ice rink for winter sports such as skating, ice hockey, và curling"
+        "t": "Canada ice rink: an ice rink for winter sports such as skating, ice hockey, and curling"
       }
     ],
     "k": "icepad"
@@ -3492,7 +3494,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "use of images in memory: a form of memory in which objects are retained briefly but clearly as a visual image after the stimulus has been removed. It develops between the ages of two và six, when a child begins to use images to stand for objects."
+        "t": "use of images in memory: a form of memory in which objects are retained briefly but clearly as a visual image after the stimulus has been removed. It develops between the ages of two and six, when a child begins to use images to stand for objects."
       }
     ],
     "k": "iconic memory"
@@ -3576,7 +3578,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cuộc tranh luận về việc hủy bỏ sự tôn thờ hình tượng. Đây là sự xung đột trong hội thánh đạo Cơ Đốc giáo miền Đông vào thế kỷ 8 và 9 đối với việc tôn thờ các hình tượng (bao gồm các tượng và tranh vẽ). Vua Leo III cấm sự tôn thờ như thế vào năm 726 bất kể những phản đối của dân chúng. Quyết định cấm này lại được vua Constantine V xác nhận vào năm 753. Ở kỳ họp thứ 7 của hội đồng giáo hội thế giới năm 787 ở Nicaca, nữ hoàng Irene lật đổ những sắc lệnh cấm, nhưng việc cấm lại vẫn được tăng cường thêm dưới triều vua Leo V, vua Michael II và vua Theophilus."
+        "t": "cuộc tranh luận về việc hủy bỏ sự tôn thờ hình tượng. Đây là sự xung đột trong hội thánh đạo Cơ Đốc giáo miền Đông vào thế kỷ 8 và 9 đối với việc tôn thờ các hình tượng (bao gồm các tượng và tranh vẽ). Vua Leo III cấm sự tôn thờ như thế vào năm 726 bất kể những phản đối của dân chúng. Quyết định cấm này lại được vua Constantine V xác nhận vào năm 753. Ở kỳ họp thứ 7 của hội đồng giáo hội thế giới năm 787 ở Nicaca, nữ hoàng Irene lật đổ những sắc lệnh cấm, nhưng việc cấm lại vẫn được tăng cường thêm dưới triều vua Leo V, vua Michael II and vua Theophilus."
       },
       {
         "k": "m",
@@ -3831,7 +3833,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "24-sided figure: a three-dimensional geometric figure formed of 24 sides hoặc faces"
+        "t": "24-sided figure: a three-dimensional geometric figure formed of 24 sides or faces"
       }
     ],
     "k": "icositetrahedron"
@@ -4031,7 +4033,9 @@
   },
   {
     "h": "ICWA",
-    "segs": [{"k": "m", "t": "Viết tắt của U.K. accounting Institute of Cost và Works Accountants"}],
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.K. accounting Institute of Cost and Works Accountants"}
+    ],
     "k": "icwa"
   },
   {

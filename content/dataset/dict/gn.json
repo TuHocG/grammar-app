@@ -87,7 +87,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small insect-eating songbird: a small songbird with a long tail và slender beak that feeds on insects. Thường thấy ở: North America."
+        "t": "small insect-eating songbird: a small songbird with a long tail and slender beak that feeds on insects. Thường thấy ở: North America."
       },
       {"k": "m", "t": "Genus: Polioptila"}
     ],
@@ -192,7 +192,7 @@
         "k": "m",
         "t": "animal with backbone and jaws: a vertebrate that has a mouth with jaws, as do all vertebrates except agnathans."
       },
-      {"k": "m", "t": "Lampreys và hagfish are gnathostomes."},
+      {"k": "m", "t": "Lampreys and hagfish are gnathostomes."},
       {"k": "m", "t": "Superclass: Gnathostomata"}
     ],
     "k": "gnathostome"
@@ -363,7 +363,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cone-bearing plant: a cone-bearing plant with naked seeds và features such as rudimentary flower parts that are characteristic of true flowering plants. Gnetophytes include ephedra và welwitschia."
+        "t": "cone-bearing plant: a cone-bearing plant with naked seeds and features such as rudimentary flower parts that are characteristic of true flowering plants. Gnetophytes include ephedra and welwitschia."
       },
       {"k": "m", "t": "Phylum: Gnetophyta"}
     ],
@@ -579,7 +579,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "study of organisms in controlled environment: the scientific study of organisms living either in a germ-free hoặc a controlled environment, as when a known contaminant has been introduced (takes a singular verb)"
+        "t": "study of organisms in controlled environment: the scientific study of organisms living either in a germ-free or a controlled environment, as when a known contaminant has been introduced (takes a singular verb)"
       },
       {"k": "m", "t": "-gnotobiotic, adjective"},
       {"k": "m", "t": "-gnotobiotically (trạng từ)"}
@@ -626,9 +626,9 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. vocational qualification: in the United Kingdom, a qualification designed to provide vocationally oriented skills và knowledge for progression from school to employment hoặc university."
+        "t": "U.K. vocational qualification: in the United Kingdom, a qualification designed to provide vocationally oriented skills and knowledge for progression from school to employment or university."
       },
-      {"k": "m", "t": "They are available at three levels, foundation, intermediate, và advanced."},
+      {"k": "m", "t": "They are available at three levels, foundation, intermediate, and advanced."},
       {"k": "m", "t": "Full form General National Vocational Qualification"}
     ],
     "k": "gnvq"

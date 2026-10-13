@@ -42,7 +42,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "S American sacred spirit: one of the sacred spirits và powers whom Native South American peoples of the Andes believe to live in caves, rocks, và other natural formations"
+        "t": "S American sacred spirit: one of the sacred spirits and powers whom Native South American peoples of the Andes believe to live in caves, rocks, and other natural formations"
       }
     ],
     "k": "huaca"
@@ -53,7 +53,7 @@
       {"k": "m", "t": "interjection"},
       {
         "k": "m",
-        "t": "expressing enthusiasm or aggression: used as a loud expression of great enthusiasm hoặc aggression by members of the U.S. Army (thông tục)"
+        "t": "expressing enthusiasm or aggression: used as a loud expression of great enthusiasm or aggression by members of the U.S. Army (thông tục)"
       }
     ],
     "k": "huah"
@@ -99,7 +99,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hispanic Mexican sandal: a sandal of a type originally worn in Mexico, with the upper part made of woven leather straps và a rubber sole"
+        "t": "Hispanic Mexican sandal: a sandal of a type originally worn in Mexico, with the upper part made of woven leather straps and a rubber sole"
       }
     ],
     "k": "huarache"
@@ -254,7 +254,10 @@
       {"k": "m", "t": "Workgroup hub ầ hub nhóm"},
       {"k": "m", "t": "Enterprise hub ầ hub xí nghiệp"},
       {"k": "m", "t": "WAN and remote links ầ WAN và liên kết từ xa"},
-      {"k": "m", "t": "Hub cũng có thể được phân loại như sau Stand - alone, Stackable và modular:"},
+      {
+        "k": "m",
+        "t": "Hub cũng có thể được phân loại như sau Stand - alone, Stackable and modular:"
+      },
       {
         "k": "m",
         "t": "A stand-alone hub (hub đơn) được dùng cho một nhóm các trạm làm việc ở một vị trí tách biệt với các nhóm khác. Nó sẽ có một bộ nối dây để có thể nối qua lại với các hub khác bằng cáp đồng trục hay cáp quang."
@@ -357,7 +360,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Bridges and bridging; LAN (Local Area Network); Network Concepts; Routers; Switched Networks; và TIA/EIA Structured cabling Standards."
+        "t": "Bridges and bridging; LAN (Local Area Network); Network Concepts; Routers; Switched Networks; and TIA/EIA Structured cabling Standards."
       }
     ],
     "k": "hub/concentrator/mau"
@@ -368,7 +371,7 @@
       {"k": "m", "t": "interjection"},
       {
         "k": "m",
-        "t": "expression of approval: used to express approval, enthusiasm, hoặc pleasure (dated slang)"
+        "t": "expression of approval: used to express approval, enthusiasm, or pleasure (dated slang)"
       }
     ],
     "k": "hubba-hubba"
@@ -403,7 +406,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "telescope on satellite: a telescope mounted on a satellite that orbits the Earth, used to observe distant parts of the universe và photograph them."
+        "t": "telescope on satellite: a telescope mounted on a satellite that orbits the Earth, used to observe distant parts of the universe and photograph them."
       },
       {"k": "m", "t": "It was launched in 1990."}
     ],
@@ -469,7 +472,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "province in central China comprising both mountainous territory và the lake-studded plain of the Yangtze River."
+        "t": "province in central China comprising both mountainous territory and the lake-studded plain of the Yangtze River."
       },
       {"k": "m", "t": "Capital: Wuhan"},
       {"k": "m", "t": "Dân số khoảng: 60,017,000 (thống kê năm 2003)"},
@@ -671,7 +674,7 @@
     "h": "HUD",
     "segs": [
       {"k": "m", "t": "Viết tắt của 1. comput heads-up display"},
-      {"k": "m", "t": "2. (Department of) Housing và Urban Development"}
+      {"k": "m", "t": "2. (Department of) Housing and Urban Development"}
     ],
     "k": "hud"
   },
@@ -682,7 +685,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "description of property closing: a description of all the details of a closing on a property, filed with the Department of Housing và Urban Development"
+        "t": "description of property closing: a description of all the details of a closing on a property, filed with the Department of Housing and Urban Development"
       }
     ],
     "k": "hud one statement"
@@ -781,7 +784,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "mock-heroic: mock-heroic, especially written in the style hoặc meter used by Samuel Butler in his poem Hudibras"
+        "t": "mock-heroic: mock-heroic, especially written in the style or meter used by Samuel Butler in his poem Hudibras"
       }
     ],
     "k": "hudibrastic"
@@ -800,7 +803,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in eastern New York, và the longest in the state, emptying into Upper New York Bay at New York City."
+        "t": "river in eastern New York, and the longest in the state, emptying into Upper New York Bay at New York City."
       },
       {"k": "m", "t": "Length: 492 km/306 mi"}
     ],
@@ -811,7 +814,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "almost landlocked inland sea of east central Canada, rich in wildlife. Native Americans và Inuit are the chief inhabitants of the region."
+        "t": "almost landlocked inland sea of east central Canada, rich in wildlife. Native Americans and Inuit are the chief inhabitants of the region."
       },
       {"k": "m", "t": "Diện tích: 1,230,000 sq km/475,000 sq mi867 m/2,846 ft"}
     ],
@@ -822,7 +825,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "body of water in northeastern Canada connecting Hudson Bay with the Atlantic Ocean và separating Baffin Island from northern Quebec. 867 m/2,846 ft"
+        "t": "body of water in northeastern Canada connecting Hudson Bay with the Atlantic Ocean and separating Baffin Island from northern Quebec. 867 m/2,846 ft"
       },
       {"k": "m", "t": "Length: 720 km/450 mi"}
     ],
@@ -835,7 +838,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada wool blanket: a wool blanket, usually cream-colored with distinctive red, black, yellow, và indigo stripes"
+        "t": "Canada wool blanket: a wool blanket, usually cream-colored with distinctive red, black, yellow, and indigo stripes"
       }
     ],
     "k": "hudson's bay blanket"
@@ -951,7 +954,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "Hispanic Mexican egg dish: a Mexican dish of fried hoặc poached eggs covered with chili, salsa, hoặc tomato sauce và cheese, often served on a corn tortilla và accompanied by refried beans và sour cream"
+        "t": "Hispanic Mexican egg dish: a Mexican dish of fried or poached eggs covered with chili, salsa, hoặc tomato sauce và cheese, often served on a corn tortilla and accompanied by refried beans and sour cream"
       }
     ],
     "k": "huevos rancheros"
@@ -1256,7 +1259,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "potentially serious autoimmune disorder: an autoimmune condition characterized by fetal loss during pregnancy, heart attacks, strokes, và other effects of arterial obstruction"
+        "t": "potentially serious autoimmune disorder: an autoimmune condition characterized by fetal loss during pregnancy, heart attacks, strokes, and other effects of arterial obstruction"
       }
     ],
     "k": "hughes' syndrome"
@@ -1267,7 +1270,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "of Ted Hughes' work: relating to hoặc representative of the works of the 20h-century British poet Ted Hughes"
+        "t": "of Ted Hughes' work: relating to or representative of the works of the 20h-century British poet Ted Hughes"
       },
       {"k": "m", "t": "-Hughesian (danh từ)"}
     ],
@@ -1840,7 +1843,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "study of human behavior: the study of human behavior, especially aggressive và submissive behavior in social contexts"
+        "t": "study of human behavior: the study of human behavior, especially aggressive and submissive behavior in social contexts"
       }
     ],
     "k": "human ethology"
@@ -2000,7 +2003,7 @@
       },
       {
         "k": "m",
-        "t": "2. personnel department: the department of an organization hoặc business that deals with employees' hiring, records, và problems"
+        "t": "2. personnel department: the department of an organization or business that deals with employees' hiring, records, and problems"
       }
     ],
     "k": "human relations"
@@ -2041,13 +2044,13 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "employee recruitment and management: the field of business concerned with recruiting và managing employees (takes a singular verb)"
+        "t": "employee recruitment and management: the field of business concerned with recruiting and managing employees (takes a singular verb)"
       },
       {"k": "m", "t": "a career in human resources"},
       {"k": "m", "t": "plural noun"},
       {
         "k": "m",
-        "t": "personnel: all the people who work in a business hoặc organization, considered as a whole (takes a plural verb)"
+        "t": "personnel: all the people who work in a business or organization, considered as a whole (takes a plural verb)"
       }
     ],
     "k": "human resources"
@@ -2314,7 +2317,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "neutral zone: a neutral và impartially administered zone occupied by international aid agencies in a region in which armed conflict is occurring"
+        "t": "neutral zone: a neutral and impartially administered zone occupied by international aid agencies in a region in which armed conflict is occurring"
       }
     ],
     "k": "humanitarian space"
@@ -2449,7 +2452,7 @@
     "h": "humanmade",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "made by human beings: made by human beings và not occurring naturally"},
+      {"k": "m", "t": "made by human beings: made by human beings and not occurring naturally"},
       {
         "k": "m",
         "t": "\"Humanmade materials gradually deteriorate even when exposed to unpolluted rain, but acid rain accelerates this process.\" (United States Environmental Protection Agency Web site April 1999)"
@@ -2498,7 +2501,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "navigable estuary in northeastern England. The Trent, Yorkshire, Ouse, và Hull rivers flow into it."
+        "t": "navigable estuary in northeastern England. The Trent, Yorkshire, Ouse, and Hull rivers flow into it."
       },
       {"k": "m", "t": "Length: 60 km/40 mi"}
     ],
@@ -2608,7 +2611,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "making somebody less proud: making somebody lose confidence, self-importance, hoặc pride"
+        "t": "making somebody less proud: making somebody lose confidence, self-importance, or pride"
       }
     ],
     "k": "humbling"
@@ -2935,7 +2938,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada index of humidity and heat: an index of the level of discomfort likely to be experienced as a result of the combined effects of humidity và heat"
+        "t": "Canada index of humidity and heat: an index of the level of discomfort likely to be experienced as a result of the combined effects of humidity and heat"
       }
     ],
     "k": "humidex"
@@ -3468,7 +3471,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "information from spies: intelligence information acquired from agents hoặc others in enemy territory. Full form human intelligence"
+        "t": "information from spies: intelligence information acquired from agents or others in enemy territory. Full form human intelligence"
       }
     ],
     "k": "humint"
@@ -3671,7 +3674,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "with particular character or mood: having a particular character hoặc frame of mind (usually used in combination)"
+        "t": "with particular character or mood: having a particular character or frame of mind (usually used in combination)"
       },
       {"k": "m", "t": "good-humored"}
     ],
@@ -3931,7 +3934,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "large dark-colored whale: a large dark-gray hoặc black whale, up to 15.2 m/50 ft long, with a humped back và long white flippers, that feeds by sieving plankton và fish through baleen plates."
+        "t": "large dark-colored whale: a large dark-gray or black whale, up to 15.2 m/50 ft long, with a humped back and long white flippers, that feeds by sieving plankton and fish through baleen plates."
       },
       {
         "k": "m",
@@ -4024,7 +4027,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "mountain in northern Arizona in the San Francisco Mountains, và the highest peak in the state."
+        "t": "mountain in northern Arizona in the San Francisco Mountains, and the highest peak in the state."
       },
       {"k": "m", "t": "Height: 3,851 m/12,633 ft"}
     ],
@@ -4150,7 +4153,7 @@
       {"k": "m", "t": "trademark"},
       {
         "k": "m",
-        "t": "a trademark for a type of military vehicle that combines the features of a light truck và a four-wheel-drive vehicle, used for transporting troops và supplies"
+        "t": "a trademark for a type of military vehicle that combines the features of a light truck and a four-wheel-drive vehicle, used for transporting troops and supplies"
       }
     ],
     "k": "humvee"
@@ -4334,9 +4337,9 @@
     "h": "hundred percent",
     "segs": [
       {"k": "m", "t": "a hoặc one hundred percent (thông tục)"},
-      {"k": "m", "t": "1. in a complete hoặc full way"},
+      {"k": "m", "t": "1. in a complete or full way"},
       {"k": "m", "t": "She is a hundred percent in charge."},
-      {"k": "m", "t": "2. completely fit và healthy"},
+      {"k": "m", "t": "2. completely fit and healthy"},
       {"k": "m", "t": "I'm still not feeling a hundred percent after the accident."}
     ],
     "k": "hundred percent"
@@ -4424,7 +4427,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "lengthy Anglo-French conflict: a series of wars fought between England và France from 1337 to 1453 that resulted in the final expulsion of the English from all French territories except Calais"
+        "t": "lengthy Anglo-French conflict: a series of wars fought between England and France from 1337 to 1453 that resulted in the final expulsion of the English from all French territories except Calais"
       }
     ],
     "k": "hundred years' war"
@@ -4935,7 +4938,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle hunkered, present participle hunkering, 3rd person present singular hunkers)"
+        "t": "(past and past participle hunkered, present participle hunkering, 3rd person present singular hunkers)"
       },
       {"k": "m", "t": "intransitive verb"},
       {"k": "m", "t": "crouch: to squat down close to the ground"}
@@ -4950,7 +4953,7 @@
         "k": "m",
         "t": "1. start serious work on something: to settle down seriously to try to achieve something"
       },
-      {"k": "m", "t": "time to hunker down và start studying"},
+      {"k": "m", "t": "time to hunker down and start studying"},
       {"k": "m", "t": "2. refuse to reconsider: to hold stubbornly to an opinion (thông tục)"}
     ],
     "k": "hunker down"
@@ -4997,7 +5000,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "member of Native N American people: a member of a Native North American people, a branch of the Teton, who now live on both sides of the border between North và South Dakota."
+        "t": "member of Native N American people: a member of a Native North American people, a branch of the Teton, who now live on both sides of the border between North and South Dakota."
       },
       {
         "k": "m",
@@ -5153,7 +5156,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "opponent of foxhunting: somebody who opposes foxhunting và travels to hunts in order to try to prevent hoặc disrupt their occurrence"
+        "t": "opponent of foxhunting: somebody who opposes foxhunting and travels to hunts in order to try to prevent or disrupt their occurrence"
       }
     ],
     "k": "hunt saboteur"
@@ -5195,7 +5198,7 @@
     "h": "hunted",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "full of fear: startled và panic-stricken, as if being pursued"},
+      {"k": "m", "t": "full of fear: startled and panic-stricken, as if being pursued"},
       {"k": "m", "t": "a hunted look"}
     ],
     "k": "hunted",
@@ -5251,7 +5254,7 @@
   {
     "h": "Hunter Valley",
     "segs": [
-      {"k": "m", "t": "agricultural và industrial region in eastern New South Wales, Australia."},
+      {"k": "m", "t": "agricultural and industrial region in eastern New South Wales, Australia."},
       {"k": "m", "t": "Diện tích: 22,000 sq km/8,495 sq mi."}
     ],
     "k": "hunter valley"
@@ -5277,7 +5280,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "forager for sustenance: a member of a society in which people live by hunting game và gathering edible plants only, và grow no crops và raise no livestock"
+        "t": "forager for sustenance: a member of a society in which people live by hunting game and gathering edible plants only, và grow no crops và raise no livestock"
       }
     ],
     "k": "hunter-gatherer"
@@ -5306,7 +5309,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "used against submarines: describes a naval vessel hoặc force equipped with antisubmarine devices và designed to search for và destroy submarines"
+        "t": "used against submarines: describes a naval vessel or force equipped with antisubmarine devices and designed to search for and destroy submarines"
       }
     ],
     "k": "hunter-killer"
@@ -5344,7 +5347,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "seeking of game and edible plants: the seeking of game và edible plants for subsistence, as practiced by preagricultural và nomadic people, instead of raising livestock và growing crops for food"
+        "t": "seeking of game and edible plants: the seeking of game and edible plants for subsistence, as practiced by preagricultural and nomadic people, instead of raising livestock and growing crops for food"
       }
     ],
     "k": "hunting and gathering"
@@ -5362,7 +5365,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều hunting knives)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "game-gutting knife: a broad knife used for killing hoặc gutting game"}
+      {"k": "m", "t": "game-gutting knife: a broad knife used for killing or gutting game"}
     ],
     "k": "hunting knife"
   },
@@ -5539,7 +5542,7 @@
       {"k": "m", "t": "Dân số khoảng: 199,207 (thống kê năm 2004)"},
       {
         "k": "m",
-        "t": "2. city và river port in West Virginia on the Ohio River, near the Kentucky border."
+        "t": "2. city and river port in West Virginia on the Ohio River, near the Kentucky border."
       },
       {"k": "m", "t": "Dân số khoảng: 49,891 (thống kê năm 2004)"}
     ],
@@ -5578,7 +5581,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "neurological disorder: a hereditary disorder of the nervous system that manifests as jerky involuntary movements in early middle age, with behavioral changes và progressive dementia"
+        "t": "neurological disorder: a hereditary disorder of the nervous system that manifests as jerky involuntary movements in early middle age, with behavioral changes and progressive dementia"
       }
     ],
     "k": "huntington's chorea"
@@ -5612,7 +5615,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "hairy spider: a large spider with a light brown hoặc gray hairy body that lives in hot và tropical regions."
+        "t": "hairy spider: a large spider with a light brown or gray hairy body that lives in hot and tropical regions."
       },
       {"k": "m", "t": "Family: Sparassidae"}
     ],
@@ -5639,7 +5642,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in northern Alabama, a major center of aerospace research và manufacture, home to Redstone Arsenal."
+        "t": "city in northern Alabama, a major center of aerospace research and manufacture, home to Redstone Arsenal."
       },
       {"k": "m", "t": "Dân số khoảng: 164,146 (thống kê năm 2004)"}
     ],
@@ -5650,7 +5653,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều huntswomen)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "woman who hunts: a woman who hunts, either for a living hoặc for sport"}
+      {"k": "m", "t": "woman who hunts: a woman who hunts, either for a living or for sport"}
     ],
     "k": "huntswoman"
   },
@@ -5699,7 +5702,7 @@
     "h": "hurdies",
     "segs": [
       {"k": "m", "t": "danh từ số nhiều"},
-      {"k": "m", "t": "Scotland haunches: the buttocks hoặc haunches"}
+      {"k": "m", "t": "Scotland haunches: the buttocks or haunches"}
     ],
     "k": "hurdies"
   },
@@ -5752,7 +5755,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "track-and-field event: a track-and-field event in which runners have to race to clear a series of light barriers (takes a singular hoặc plural verb)"
+        "t": "track-and-field event: a track-and-field event in which runners have to race to clear a series of light barriers (takes a singular or plural verb)"
       }
     ],
     "k": "hurdles",
@@ -5926,7 +5929,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of ancient Syrian people: a member of an ancient people who lived in Syria và Mesopotamia around 1500 bc"
+        "t": "1. member of ancient Syrian people: a member of an ancient people who lived in Syria and Mesopotamia around 1500 bc"
       },
       {"k": "m", "t": "2. language of Hurrian: the unaffiliated language of the Hurrian people"},
       {"k": "m", "t": "-Hurrian (tính từ)"}
@@ -6125,7 +6128,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "modern malady caused by constant rushing: a compulsion to do everything quickly, hoặc a chronic feeling of being short of time, attributed to the fast pace of modern life và causing symptoms such as anxiety và insomnia"
+        "t": "modern malady caused by constant rushing: a compulsion to do everything quickly, or a chronic feeling of being short of time, attributed to the fast pace of modern life and causing symptoms such as anxiety and insomnia"
       }
     ],
     "k": "hurry sickness"
@@ -6455,11 +6458,11 @@
       {"k": "m", "t": "verb"},
       {
         "k": "m",
-        "t": "1. transitive verb keep secret: to prevent something, especially something dishonorable hoặc discreditable, from becoming publicly known (thông tục)"
+        "t": "1. transitive verb keep secret: to prevent something, especially something dishonorable or discreditable, from becoming publicly known (thông tục)"
       },
       {
         "k": "m",
-        "t": "2. intransitive verb request silence: to ask hoặc tell somebody to become silent hoặc quieter"
+        "t": "2. intransitive verb request silence: to ask or tell somebody to become silent or quieter"
       }
     ],
     "k": "hush up"
@@ -6486,7 +6489,7 @@
     "h": "hushed",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "with little or no sound: made quiet, hoặc quieter than usual"},
+      {"k": "m", "t": "with little or no sound: made quiet, or quieter than usual"},
       {"k": "m", "t": "speaking in hushed tones"}
     ],
     "k": "hushed"
@@ -6896,7 +6899,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Moravian Anabaptist: a member of an Anabaptist religious group who immigrated from Moravia mainly to Alberta và Manitoba in Canada, but also to areas of the northwestern United States where they formed farming communities"
+        "t": "Moravian Anabaptist: a member of an Anabaptist religious group who immigrated from Moravia mainly to Alberta and Manitoba in Canada, but also to areas of the northwestern United States where they formed farming communities"
       }
     ],
     "k": "hutterite"
@@ -6913,11 +6916,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Rwandan and Burundian people: a member of a people who are the most populous in Rwanda và Burundi. Xem Tutsi"
+        "t": "1. member of Rwandan and Burundian people: a member of a people who are the most populous in Rwanda and Burundi. Xem Tutsi"
       },
       {
         "k": "m",
-        "t": "2. language of Rwanda and Burundi: a Bantu language spoken in Rwanda và Burundi. 14 million."
+        "t": "2. language of Rwanda and Burundi: a Bantu language spoken in Rwanda and Burundi. 14 million."
       },
       {"k": "m", "t": "-Hutu (tính từ)"}
     ],

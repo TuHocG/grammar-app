@@ -26,7 +26,7 @@
   },
   {
     "h": "TGAT",
-    "segs": [{"k": "m", "t": "Viết tắt của U.K. education Task Group on Assessment và Testing"}],
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. education Task Group on Assessment and Testing"}],
     "k": "tgat"
   },
   {
@@ -39,7 +39,7 @@
     "segs": [
       {"k": "m", "t": "hoặc T.G.I.F."},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "Thank God it's Friday hoặc Thank goodness it's Friday (thông tục)"}
+      {"k": "m", "t": "Thank God it's Friday or Thank goodness it's Friday (thông tục)"}
     ],
     "k": "tgif"
   },
@@ -49,7 +49,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fast French train: in France và some other countries, a very high-speed train"
+        "t": "fast French train: in France and some other countries, a very high-speed train"
       }
     ],
     "k": "tgv"

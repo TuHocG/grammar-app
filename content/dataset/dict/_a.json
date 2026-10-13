@@ -168,7 +168,7 @@
     "h": "-aholic",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "dependent on hoặc with an extreme fondness for"},
+      {"k": "m", "t": "dependent on or with an extreme fondness for"},
       {"k": "m", "t": "workaholic"}
     ],
     "k": "-aholic"
@@ -192,7 +192,7 @@
     "h": "-andry",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "1. the condition of having a particular number of males hoặc husbands"},
+      {"k": "m", "t": "1. the condition of having a particular number of males or husbands"},
       {"k": "m", "t": "polyandry"},
       {"k": "m", "t": "2. the condition of having a particular number of stamens"},
       {"k": "m", "t": "monandry"},
@@ -227,7 +227,7 @@
     "h": "-athon",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "activity hoặc event lasting a long time, especially one done for charity"},
+      {"k": "m", "t": "activity or event lasting a long time, especially one done for charity"},
       {"k": "m", "t": "talkathon"}
     ],
     "k": "-athon"

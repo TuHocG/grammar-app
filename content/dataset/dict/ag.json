@@ -28,7 +28,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Islamic commander: used as a title for a military commander hoặc important official in Islamic countries, especially during the Ottoman Empire"
+        "t": "Islamic commander: used as a title for a military commander or important official in Islamic countries, especially during the Ottoman Empire"
       },
       {"k": "m", "t": "the Aga Khan"}
     ],
@@ -60,7 +60,7 @@
   {
     "h": "Agadir",
     "segs": [
-      {"k": "m", "t": "port và city in Morocco."},
+      {"k": "m", "t": "port and city in Morocco."},
       {"k": "m", "t": "Dân số khoảng: 678,596 (2004)"}
     ],
     "k": "agadir"
@@ -173,7 +173,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "exchange of futures for cash position: commodity và securities market transactions in which futures are exchanged for current tangible assets"
+        "t": "exchange of futures for cash position: commodity and securities market transactions in which futures are exchanged for current tangible assets"
       }
     ],
     "k": "against actuals"
@@ -323,7 +323,7 @@
       },
       {
         "k": "m",
-        "t": "When Agamemnon returned from the war, he was murdered by his wife Clytemnestra và her lover Aegisthus. His death was later avenged by his son Orestes."
+        "t": "When Agamemnon returned from the war, he was murdered by his wife Clytemnestra and her lover Aegisthus. His death was later avenged by his son Orestes."
       }
     ],
     "k": "agamemnon"
@@ -570,7 +570,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "complex carbohydrate: a complex carbohydrate polysaccharide obtained from agar. Dùng để: as a medium in chromatography và electrophoresis."
+        "t": "complex carbohydrate: a complex carbohydrate polysaccharide obtained from agar. Dùng để: as a medium in chromatography and electrophoresis."
       }
     ],
     "k": "agarose"
@@ -699,7 +699,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "application of biotechnology to agriculture: agriculture hoặc an agricultural industry using products và processes developed through biotechnology"
+        "t": "application of biotechnology to agriculture: agriculture or an agricultural industry using products and processes developed through biotechnology"
       }
     ],
     "k": "agbiotech"
@@ -914,7 +914,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "astrological era: an astrological era in which increased spirituality và harmony are said to characterize people's lives"
+        "t": "astrological era: an astrological era in which increased spirituality and harmony are said to characterize people's lives"
       }
     ],
     "k": "age of aquarius"
@@ -979,7 +979,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "period of rationalism: the period from the middle to the end of the 18th century during which there was an emphasis on rationalism in philosophy, religion, và society"
+        "t": "period of rationalism: the period from the middle to the end of the 18th century during which there was an emphasis on rationalism in philosophy, religion, and society"
       }
     ],
     "k": "age of reason"
@@ -1047,11 +1047,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "people of same age and sex: a group of people in a society who are the same sex và approximately the same age."
+        "t": "people of same age and sex: a group of people in a society who are the same sex and approximately the same age."
       },
       {
         "k": "m",
-        "t": "Age-grades và the relationships between them are an important part of the organization of some cultures."
+        "t": "Age-grades and the relationships between them are an important part of the organization of some cultures."
       }
     ],
     "k": "age-grade"
@@ -1081,10 +1081,7 @@
     "h": "age-related",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {
-        "k": "m",
-        "t": "related to age: relating to hoặc typical of the age that somebody has reached"
-      },
+      {"k": "m", "t": "related to age: relating to or typical of the age that somebody has reached"},
       {"k": "m", "t": "a normal age-related risk"}
     ],
     "k": "age-related"
@@ -1465,7 +1462,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance government-guaranteed mortgage pass-through: a mortgage pass-through security with principal và interest payments that are guaranteed by a government agency"
+        "t": "finance government-guaranteed mortgage pass-through: a mortgage pass-through security with principal and interest payments that are guaranteed by a government agency"
       }
     ],
     "k": "agency pass-through"
@@ -1640,7 +1637,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "service that finds distributors abroad: an organization that acts for a company in identifying và employing a suitable representative to promote và distribute its goods và services in another country"
+        "t": "service that finds distributors abroad: an organization that acts for a company in identifying and employing a suitable representative to promote và distribute its goods và services in another country"
       }
     ],
     "k": "agent distributor service"
@@ -1736,7 +1733,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "representative abroad: a representative of a Canadian province hoặc Australian state in a foreign country"
+        "t": "representative abroad: a representative of a Canadian province or Australian state in a foreign country"
       }
     ],
     "k": "agent-general"
@@ -1756,7 +1753,7 @@
     "h": "agentry",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "agent's office: an agent's office hoặc work"}
+      {"k": "m", "t": "agent's office: an agent's office or work"}
     ],
     "k": "agentry"
   },
@@ -1770,7 +1767,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "low-growing flowering plant: a low-growing garden plant. Flowers: blue, white, hoặc purplish, in thick clusters."
+        "t": "low-growing flowering plant: a low-growing garden plant. Flowers: blue, white, or purplish, in thick clusters."
       },
       {"k": "m", "t": "Genus: Ageratum"}
     ],
@@ -2507,7 +2504,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "curve reflecting expenditure and income difference: a curve that shows the relationship between national expenditure và national income in a particular period"
+        "t": "curve reflecting expenditure and income difference: a curve that shows the relationship between national expenditure and national income in a particular period"
       }
     ],
     "k": "aggregate expenditures schedule"
@@ -3542,7 +3539,7 @@
       {"k": "m", "t": "adjective, adverb"},
       {
         "k": "m",
-        "t": "in restless manner: in a restless, tense, hoặc excited manner (used as a musical direction)"
+        "t": "in restless manner: in a restless, tense, or excited manner (used as a musical direction)"
       }
     ],
     "k": "agitato"
@@ -3595,7 +3592,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "one of three Graces: in Greek mythology, one of the three Graces who lived on Mount Olympus và tended the goddess Aphrodite. Aglaia was the daughter of Zeus và Euronyme."
+        "t": "one of three Graces: in Greek mythology, one of the three Graces who lived on Mount Olympus and tended the goddess Aphrodite. Aglaia was the daughter of Zeus and Euronyme."
       }
     ],
     "k": "aglaia"
@@ -3779,7 +3776,7 @@
       },
       {
         "k": "m",
-        "t": "Modern examples have eel-shaped bodies và slimy scaleless skin, but many extinct agnathans were heavily armored with bony plates và scales."
+        "t": "Modern examples have eel-shaped bodies and slimy scaleless skin, but many extinct agnathans were heavily armored with bony plates and scales."
       },
       {"k": "m", "t": "Subphylum: Agnatha"}
     ],
@@ -3974,7 +3971,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "musical accentuation by prolonging notes: the technique hoặc practice of accenting musical notes by increasing their duration (takes a singular verb)"
+        "t": "musical accentuation by prolonging notes: the technique or practice of accenting musical notes by increasing their duration (takes a singular verb)"
       }
     ],
     "k": "agogics"
@@ -4187,7 +4184,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. advice columnist: a man who gives personal advice to readers in a regular column in a newspaper hoặc magazine hoặc to callers on a radio hoặc television program"
+        "t": "U.K. advice columnist: a man who gives personal advice to readers in a regular column in a newspaper hoặc magazine hoặc to callers on a radio or television program"
       }
     ],
     "k": "agony uncle"
@@ -4905,7 +4902,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "relating to food processing industry: describes industries involved in the mass production, processing, và inspection of food products made from agricultural commodities"
+        "t": "relating to food processing industry: describes industries involved in the mass production, processing, and inspection of food products made from agricultural commodities"
       }
     ],
     "k": "agri-food"
@@ -5609,7 +5606,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "terrorist attack on agricultural products: terrorism against a nation that involves the poisoning of agricultural livestock, meats, grains, và vegetables"
+        "t": "terrorist attack on agricultural products: terrorism against a nation that involves the poisoning of agricultural livestock, meats, grains, and vegetables"
       }
     ],
     "k": "agriterrorism"
@@ -5721,7 +5718,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Italian sauce: a sweet-and-sour sauce in Italian cuisine, usually containing vinegar và sugar"
+        "t": "Italian sauce: a sweet-and-sour sauce in Italian cuisine, usually containing vinegar and sugar"
       }
     ],
     "k": "agrodolce"
@@ -5753,7 +5750,7 @@
       },
       {
         "k": "m",
-        "t": "2. of industrial agriculture: used in, produced by, hoặc involved in the industrial processing of agricultural products"
+        "t": "2. of industrial agriculture: used in, produced by, or involved in the industrial processing of agricultural products"
       }
     ],
     "k": "agroindustrial"
@@ -5770,7 +5767,7 @@
       {"k": "m", "t": "1. agriculture như agribusiness"},
       {
         "k": "m",
-        "t": "2. industry involving agricultural products: the operations và businesses that are associated with the industrial processing of agricultural products"
+        "t": "2. industry involving agricultural products: the operations and businesses that are associated with the industrial processing of agricultural products"
       }
     ],
     "k": "agroindustry"
@@ -5889,7 +5886,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hispanic sweetened juice drink: a cold drink that is a mixture of fruit juice, water, và sugar"
+        "t": "Hispanic sweetened juice drink: a cold drink that is a mixture of fruit juice, water, and sugar"
       }
     ],
     "k": "agua fresca"
@@ -5900,7 +5897,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hispanic rough brandy: rough brandy distilled in Spain, Portugal, hoặc Latin America, sometimes flavored with anise"
+        "t": "Hispanic rough brandy: rough brandy distilled in Spain, Portugal, or Latin America, sometimes flavored with anise"
       }
     ],
     "k": "aguardiente"
@@ -5916,7 +5913,7 @@
       {"k": "m", "t": "Diện tích: 5,197 sq km/2,007 sq mi"},
       {
         "k": "m",
-        "t": "2. capital city of Aguascalientes State và a popular health resort in central Mexico."
+        "t": "2. capital city of Aguascalientes State and a popular health resort in central Mexico."
       },
       {"k": "m", "t": "Dân số khoảng: 643,360 (2000)"}
     ],

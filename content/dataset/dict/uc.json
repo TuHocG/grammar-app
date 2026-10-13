@@ -21,7 +21,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. processor of applications for higher education: the central organization that processes applications for full-time undergraduate courses at U.K. universities và colleges. Full form Universities và Colleges Admissions Service"
+        "t": "U.K. processor of applications for higher education: the central organization that processes applications for full-time undergraduate courses at U.K. universities and colleges. Full form Universities and Colleges Admissions Service"
       }
     ],
     "k": "ucas"
@@ -29,7 +29,7 @@
   {
     "h": "UCATT",
     "segs": [
-      {"k": "m", "t": "Viết tắt của U.K. Union of Construction, Allied Trades, và Technicians"}
+      {"k": "m", "t": "Viết tắt của U.K. Union of Construction, Allied Trades, and Technicians"}
     ],
     "k": "ucatt"
   },
@@ -39,7 +39,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "drone attack aircraft: an attack aircraft, typically miniaturized, pilotless, và controlled by targeting và weapons systems based both on the ground và in the air. Full form unmanned combat aerial vehicle"
+        "t": "drone attack aircraft: an attack aircraft, typically miniaturized, pilotless, và controlled by targeting và weapons systems based both on the ground and in the air. Full form unmanned combat aerial vehicle"
       }
     ],
     "k": "ucav"
@@ -103,7 +103,7 @@
   {
     "h": "UCR",
     "segs": [
-      {"k": "m", "t": "Viết tắt của 1. insurance usual, customary, và reasonable"},
+      {"k": "m", "t": "Viết tắt của 1. insurance usual, customary, and reasonable"},
       {"k": "m", "t": "2. crime uniform crime reporting"}
     ],
     "k": "ucr"

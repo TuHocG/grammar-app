@@ -513,10 +513,7 @@
   {"h": "in advance", "segs": [{"k": "m", "t": "trước."}], "k": "in advance"},
   {
     "h": "in aeternum",
-    "segs": [
-      {"k": "m", "t": "trạng từ"},
-      {"k": "m", "t": "forever: eternally hoặc forever (formal)"}
-    ],
+    "segs": [{"k": "m", "t": "trạng từ"}, {"k": "m", "t": "forever: eternally or forever (formal)"}],
     "k": "in aeternum"
   },
   {
@@ -2494,7 +2491,7 @@
       {"k": "m", "t": "adjective, adverb"},
       {
         "k": "m",
-        "t": "directed at somebody: made about hoặc directed at a person rather than at property. Xem in rem"
+        "t": "directed at somebody: made about or directed at a person rather than at property. Xem in rem"
       }
     ],
     "k": "in personam"
@@ -3184,7 +3181,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "genetic probe detecting complementary genetic sequence: the use of a DNA hoặc RNA probe to detect the presence of the complementary DNA sequence in cloned bacterial hoặc cultured eukaryotic cells"
+        "t": "genetic probe detecting complementary genetic sequence: the use of a DNA or RNA probe to detect the presence of the complementary DNA sequence in cloned bacterial or cultured eukaryotic cells"
       }
     ],
     "k": "in situ hybridization"
@@ -4676,7 +4673,7 @@
       {"k": "m", "t": "1. farther inside house: farther in, especially farther inside a house"},
       {
         "k": "m",
-        "t": "2. to farmhouse: to hoặc toward a house, especially the main hoặc only house on a piece of land such as a farm"
+        "t": "2. to farmhouse: to or toward a house, especially the main or only house on a piece of land such as a farm"
       }
     ],
     "k": "in-by"
@@ -4685,7 +4682,7 @@
     "h": "in-car",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "installed inside car: installed hoặc provided inside a car"}
+      {"k": "m", "t": "installed inside car: installed or provided inside a car"}
     ],
     "k": "in-car"
   },
@@ -4940,7 +4937,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "joke shared by small group: a joke that is shared và understood only by a small group of people"
+        "t": "joke shared by small group: a joke that is shared and understood only by a small group of people"
       }
     ],
     "k": "in-joke"
@@ -4973,7 +4970,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "apartment for older parent: a self-contained apartment in hoặc attached to a family home in which a parent of advanced years could independently"
+        "t": "apartment for older parent: a self-contained apartment in or attached to a family home in which a parent of advanced years could independently"
       }
     ],
     "k": "in-law suite"
@@ -5078,7 +5075,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "skate with wheels in single file: a roller skate with a boot that has three hoặc four wheels mounted in a single line"
+        "t": "skate with wheels in single file: a roller skate with a boot that has three or four wheels mounted in a single line"
       },
       {"k": "m", "t": "-in-line skate, intransitive verb"},
       {"k": "m", "t": "-in-line skater (danh từ)"}
@@ -5091,7 +5088,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "skating using in-line skates: a sport hoặc recreational activity in which skaters use in-line skates, often to perform acrobatic tricks"
+        "t": "skating using in-line skates: a sport or recreational activity in which skaters use in-line skates, often to perform acrobatic tricks"
       }
     ],
     "k": "in-line skating"
@@ -5268,7 +5265,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "beginning of video sequence: the beginning, hoặc first frame, of an edited video sequence"
+        "t": "beginning of video sequence: the beginning, or first frame, of an edited video sequence"
       }
     ],
     "k": "in-point"
@@ -5434,7 +5431,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "within large store: happening, available, hoặc situated within a large store such as a supermarket hoặc department store"
+        "t": "within large store: happening, available, or situated within a large store such as a supermarket or department store"
       },
       {"k": "m", "t": "an in-store bakery"}
     ],
@@ -5529,7 +5526,7 @@
       {"k": "m", "t": "Her approach is a little too in-your-face for me."},
       {
         "k": "m",
-        "t": "2. so direct as to be unignorable: direct hoặc provocative in a way that is designed to attract attention"
+        "t": "2. so direct as to be unignorable: direct or provocative in a way that is designed to attract attention"
       },
       {"k": "m", "t": "an in-your-face ad campaign"}
     ],
@@ -6394,7 +6391,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "New Zealand Australasian fish eaten as whitebait: a small Australasian fish whose young are fried và eaten whole."
+        "t": "New Zealand Australasian fish eaten as whitebait: a small Australasian fish whose young are fried and eaten whole."
       },
       {"k": "m", "t": "Tên Latinh: Galaxias maculatus"}
     ],
@@ -6522,7 +6519,7 @@
     "h": "inappellable",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "U.K. not to be challenged: unable to be challenged hoặc appealed (formal)"}
+      {"k": "m", "t": "U.K. not to be challenged: unable to be challenged or appealed (formal)"}
     ],
     "k": "inappellable"
   },
@@ -7685,7 +7682,7 @@
     "h": "incalescent",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "becoming hotter: becoming warmer hoặc hotter than before (technical)"},
+      {"k": "m", "t": "becoming hotter: becoming warmer or hotter than before (technical)"},
       {"k": "m", "t": "-incalescence (danh từ)"}
     ],
     "k": "incalescent"
@@ -7893,7 +7890,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "substance that disables somebody: a substance, ví dụ: tear gas, that can temporarily incapacitate somebody, used especially in riot control và biological warfare"
+        "t": "substance that disables somebody: a substance, ví dụ: tear gas, that can temporarily incapacitate somebody, used especially in riot control and biological warfare"
       }
     ],
     "k": "incapacitant"
@@ -7992,7 +7989,7 @@
   {
     "h": "incapsulate",
     "segs": [
-      {"k": "m", "t": "transitive và intransitive verb"},
+      {"k": "m", "t": "transitive and intransitive verb"},
       {"k": "m", "t": "Another spelling of encapsulate"}
     ],
     "k": "incapsulate"
@@ -8058,7 +8055,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle incardinated, present participle incardinating, 3rd person present singular incardinates)"
+        "t": "(past and past participle incardinated, present participle incardinating, 3rd person present singular incardinates)"
       },
       {"k": "m", "t": "transitive verb"},
       {
@@ -8071,7 +8068,7 @@
       },
       {
         "k": "m",
-        "t": "3. make priest most senior: to promote a Roman Catholic priest to the position of most senior member of the clergy within an individual church hoặc area"
+        "t": "3. make priest most senior: to promote a Roman Catholic priest to the position of most senior member of the clergy within an individual church or area"
       },
       {"k": "m", "t": "-incardination (danh từ)"}
     ],
@@ -8380,7 +8377,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "result of encouragement to work more: the change to somebody's rate of work, saving, hoặc investment caused by the offer of enhanced pay, benefit, hoặc compensation"
+        "t": "result of encouragement to work more: the change to somebody's rate of work, saving, or investment caused by the offer of enhanced pay, benefit, or compensation"
       }
     ],
     "k": "incentive effect"
@@ -8497,7 +8494,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "zoning to encourage development: the offering of incentives to developers to build a desired public improvement hoặc to build in areas that need economic development"
+        "t": "zoning to encourage development: the offering of incentives to developers to build a desired public improvement or to build in areas that need economic development"
       }
     ],
     "k": "incentive zoning"
@@ -8512,7 +8509,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle incentivized, present participle incentivizing, 3rd person present singular incentivizes)"
+        "t": "(past and past participle incentivized, present participle incentivizing, 3rd person present singular incentivizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {
@@ -8564,7 +8561,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gray-brown clay and silt soil: a gray-brown soil consisting mainly of clay và silt loams that is not particularly fertile but can be productive when properly managed"
+        "t": "gray-brown clay and silt soil: a gray-brown soil consisting mainly of clay and silt loams that is not particularly fertile but can be productive when properly managed"
       }
     ],
     "k": "inceptisol"
@@ -11514,7 +11511,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance income divided by interest and dividends: the extent to which the income from a portfolio hoặc business is sufficient to pay the dividend hoặc interest requirements of the portfolio hoặc business"
+        "t": "finance income divided by interest and dividends: the extent to which the income from a portfolio or business is sufficient to pay the dividend or interest requirements of the portfolio or business"
       }
     ],
     "k": "income coverage"
@@ -11585,7 +11582,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. pension income option: a facility that enables personal pension owners to defer buying an annuity up to a given age và instead to take income directly from their pension funds"
+        "t": "U.K. pension income option: a facility that enables personal pension owners to defer buying an annuity up to a given age and instead to take income directly from their pension funds"
       }
     ],
     "k": "income drawdown"
@@ -11643,7 +11640,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mutual fund providing income: a mutual fund where investments are selected by the fund on the basis that they will produce high levels of dividend hoặc interest, rather than increase in value"
+        "t": "mutual fund providing income: a mutual fund where investments are selected by the fund on the basis that they will produce high levels of dividend or interest, rather than increase in value"
       }
     ],
     "k": "income fund"
@@ -11826,7 +11823,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "money received regularly: regular payments received by somebody from an investment hoặc property over time"
+        "t": "money received regularly: regular payments received by somebody from an investment or property over time"
       }
     ],
     "k": "income stream"
@@ -11984,7 +11981,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "public assistance varying with income: a benefit hoặc payment that is available according to the level of somebody's income, hoặc whose value varies with the level of income"
+        "t": "public assistance varying with income: a benefit or payment that is available according to the level of somebody's income, or whose value varies with the level of income"
       }
     ],
     "k": "income-related benefit"
@@ -14734,7 +14731,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "international trade acronym: one of the standardized abbreviated terms established by the International Chamber of Commerce used in export contracts to designate which party should pay costs such as insurance và transport"
+        "t": "international trade acronym: one of the standardized abbreviated terms established by the International Chamber of Commerce used in export contracts to designate which party should pay costs such as insurance and transport"
       }
     ],
     "k": "incoterm"
@@ -14948,7 +14945,7 @@
     "h": "increased",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "larger: larger in number, quantity, hoặc degree"}
+      {"k": "m", "t": "larger: larger in number, quantity, or degree"}
     ],
     "k": "increased",
     "q": {"vi": "tăng trưởng, gia tăng", "ipa": "'inkri:st", "rs": "ín k ruỵt st"}
@@ -15768,7 +15765,7 @@
       {"k": "m", "t": "Danh từ (số nhiều incrosses)"},
       {
         "k": "m",
-        "t": "inbred organism: an organism produced through inbreeding within the same strain hoặc breed"
+        "t": "inbred organism: an organism produced through inbreeding within the same strain or breed"
       },
       {
         "k": "m",
@@ -15982,7 +15979,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "words introducing taped report: the first few words of a taped report hoặc interview, giving an indication of its content"
+        "t": "words introducing taped report: the first few words of a taped report or interview, giving an indication of its content"
       }
     ],
     "k": "incue"
@@ -16262,7 +16259,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "permanent loss in value of asset: a permanent loss in the value of an asset over và above that expected as a result of normal wear"
+        "t": "permanent loss in value of asset: a permanent loss in the value of an asset over and above that expected as a result of normal wear"
       }
     ],
     "k": "incurable depreciation"
@@ -16380,7 +16377,7 @@
         "t": "transitive và intransitive verb (past và past participle incurvated, present participle incurvating, 3rd person present singular incurvates)"
       },
       {"k": "m", "t": "Như incurvev"},
-      {"k": "m", "t": "inwardly curved: curved hoặc bending inward"}
+      {"k": "m", "t": "inwardly curved: curved or bending inward"}
     ],
     "k": "incurvate"
   },
@@ -17918,7 +17915,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "auditor not employed by audited company: a specialist accountant who audits a company, but is not employed by hoặc associated with the company"
+        "t": "auditor not employed by audited company: a specialist accountant who audits a company, but is not employed by or associated with the company"
       }
     ],
     "k": "independent auditor"
@@ -18137,7 +18134,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "goods not requiring others: goods whose supply hoặc demand is not related to any other"
+        "t": "goods not requiring others: goods whose supply or demand is not related to any other"
       }
     ],
     "k": "independent goods"
@@ -18675,7 +18672,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "prison term of variable length: a prison sentence with a date of release that can be varied according to the prisoner's conduct và other factors"
+        "t": "prison term of variable length: a prison sentence with a date of release that can be varied according to the prisoner's conduct and other factors"
       }
     ],
     "k": "indeterminate sentence"
@@ -19019,7 +19016,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Roman Catholic list of forbidden books: a list formerly compiled by the Roman Catholic Church of books và publications that Church members were forbidden to read"
+        "t": "Roman Catholic list of forbidden books: a list formerly compiled by the Roman Catholic Church of books and publications that Church members were forbidden to read"
       }
     ],
     "k": "index librorum prohibitorum"
@@ -19392,7 +19389,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mutual fund matching an index: in Britain, a unit trust hoặc ISA in a mix of investments that exactly follows the performance of a particular index, rather than one that is actively managed"
+        "t": "mutual fund matching an index: in Britain, a unit trust or ISA in a mix of investments that exactly follows the performance of a particular index, rather than one that is actively managed"
       }
     ],
     "k": "index-tracker"
@@ -20046,7 +20043,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "train service crossing Australia: the train service in Australia that runs between Perth, on the shore of the Indian Ocean, và Sydney, on the shore of the Pacific Ocean"
+        "t": "train service crossing Australia: the train service in Australia that runs between Perth, on the shore of the Indian Ocean, and Sydney, on the shore of the Pacific Ocean"
       }
     ],
     "k": "indian pacific"
@@ -20087,7 +20084,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "woodland plant: a perennial woodland plant whose single white stem và nodding flower resembles a tobacco pipe. Thường thấy ở: North America, Asia."
+        "t": "woodland plant: a perennial woodland plant whose single white stem and nodding flower resembles a tobacco pipe. Thường thấy ở: North America, Asia."
       },
       {"k": "m", "t": "Tên Latinh: Monotropa uniflora"}
     ],
@@ -20100,7 +20097,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small, strong horse: a small và rugged horse that is often used in crossbreeding. Thường thấy ở: western North America."
+        "t": "small, strong horse: a small and rugged horse that is often used in crossbreeding. Thường thấy ở: western North America."
       }
     ],
     "k": "indian pony"
@@ -20112,7 +20109,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "baked cornmeal pudding: a baked pudding made of cornmeal, molasses, milk, và spices"
+        "t": "baked cornmeal pudding: a baked pudding made of cornmeal, molasses, milk, and spices"
       }
     ],
     "k": "indian pudding"
@@ -20275,7 +20272,7 @@
       },
       {
         "k": "m",
-        "t": "It gradually diminished in size và was finally incorporated into Oklahoma in 1907."
+        "t": "It gradually diminished in size and was finally incorporated into Oklahoma in 1907."
       }
     ],
     "k": "indian territory"
@@ -20286,7 +20283,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "wild lobelia plant: a very poisonous annual plant of the bluebell family that has oval toothed leaves và swollen seed capsules. Flowers: small, purplish. Thường thấy ở: North America."
+        "t": "wild lobelia plant: a very poisonous annual plant of the bluebell family that has oval toothed leaves and swollen seed capsules. Flowers: small, purplish. Thường thấy ở: North America."
       },
       {"k": "m", "t": "Tên Latinh: Lobelia inflata"}
     ],
@@ -20323,7 +20320,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "state in the north central United States, bordered by Illinois, Kentucky, Michigan, Ohio, và Lake Michigan."
+        "t": "state in the north central United States, bordered by Illinois, Kentucky, Michigan, Ohio, and Lake Michigan."
       },
       {"k": "m", "t": "Capital: Indianapolis"},
       {"k": "m", "t": "Dân số khoảng: 6,271,973 (thống kê năm 2005)"},
@@ -20946,7 +20943,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "organism that signals particular conditions: an organism whose presence hoặc absence in an environment indicates conditions such as its oxygen level hoặc the presence of a contaminating substance"
+        "t": "organism that signals particular conditions: an organism whose presence or absence in an environment indicates conditions such as its oxygen level or the presence of a contaminating substance"
       }
     ],
     "k": "indicator organism"
@@ -21059,11 +21056,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. sign of something: a sign indicating the presence hoặc nature of something such as a medical condition"
+        "t": "1. sign of something: a sign indicating the presence or nature of something such as a medical condition"
       },
       {
         "k": "m",
-        "t": "2. sign on bulk mail: a printed sign on an item of bulk mail showing the postage paid hoặc canceled"
+        "t": "2. sign on bulk mail: a printed sign on an item of bulk mail showing the postage paid or canceled"
       }
     ],
     "k": "indicium"
@@ -21460,7 +21457,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "original inhabitants of region: a people who occupy a region at the time of its contact with colonial powers hoặc the outside world"
+        "t": "original inhabitants of region: a people who occupy a region at the time of its contact with colonial powers or the outside world"
       }
     ],
     "k": "indigenous people"
@@ -21712,7 +21709,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "indigenous person in former colony: a member of an indigenous people in a part of America hoặc East Asia formerly ruled by Spain hoặc Portugal"
+        "t": "indigenous person in former colony: a member of an indigenous people in a part of America or East Asia formerly ruled by Spain or Portugal"
       }
     ],
     "k": "indio (1)"
@@ -22525,7 +22522,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "taxation on goods and services: taxation levied on goods hoặc services, instead of directly on companies và individual people"
+        "t": "taxation on goods and services: taxation levied on goods or services, instead of directly on companies and individual people"
       }
     ],
     "k": "indirect taxation"
@@ -22888,7 +22885,7 @@
     "h": "indiscriminating",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "without discrimination: lacking discrimination hoặc judgment"},
+      {"k": "m", "t": "without discrimination: lacking discrimination or judgment"},
       {"k": "m", "t": "-indiscriminatingly, adverb"},
       {"k": "m", "t": "-indiscriminative (tính từ)"}
     ],
@@ -23090,7 +23087,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "inseparably linked: unable to be separated, disconnected, hoặc considered separately"
+        "t": "inseparably linked: unable to be separated, disconnected, or considered separately"
       }
     ],
     "k": "indissociable"
@@ -24035,7 +24032,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canadian with Indian ancestry: a Canadian who came from India, hoặc whose parents did"
+        "t": "Canadian with Indian ancestry: a Canadian who came from India, or whose parents did"
       },
       {"k": "m", "t": "-Indo-Canadian (tính từ)"}
     ],
@@ -24090,7 +24087,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Indian and SW Asian languages: a group of languages spoken in northern South Asia và in parts of Southwest Asia, forming a branch of Indo-European và dividing into Indic và Iranian subgroups. 800 million."
+        "t": "Indian and SW Asian languages: a group of languages spoken in northern South Asia and in parts of Southwest Asia, forming a branch of Indo-European và dividing into Indic và Iranian subgroups. 800 million."
       },
       {"k": "m", "t": "-Indo-Iranian (tính từ)"}
     ],
@@ -24126,7 +24123,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "peninsula of Southeast Asia that includes Myanmar, Thailand, Cambodia, Vietnam, Laos, và the Malay Peninsula. In a narrower sense it refers only to Cambodia, Laos, và Vietnam."
+        "t": "peninsula of Southeast Asia that includes Myanmar, Thailand, Cambodia, Vietnam, Laos, and the Malay Peninsula. In a narrower sense it refers only to Cambodia, Laos, and Vietnam."
       },
       {"k": "m", "t": "-Indochinese, adjective noun"}
     ],
@@ -24197,7 +24194,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "plant hormone: a plant hormone that stimulates growth và root formation in cuttings"
+        "t": "plant hormone: a plant hormone that stimulates growth and root formation in cuttings"
       }
     ],
     "k": "indoleacetic acid"
@@ -24617,7 +24614,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "for use indoors or outdoors: designed to be used inside hoặc outside a building"
+        "t": "for use indoors or outdoors: designed to be used inside or outside a building"
       }
     ],
     "k": "indoor-outdoor"
@@ -24707,7 +24704,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Vedic god of battle and rain: in Vedic mythology, a powerful warrior god và the ruler of the sky và weather."
+        "t": "Vedic god of battle and rain: in Vedic mythology, a powerful warrior god and the ruler of the sky and weather."
       },
       {"k": "m", "t": "He became a subordinate god in later Hindu mythology."}
     ],
@@ -26206,7 +26203,7 @@
     "h": "indulged",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "coddled: pampered, spoiled, hoặc catered to"}
+      {"k": "m", "t": "coddled: pampered, spoiled, or catered to"}
     ],
     "k": "indulged"
   },
@@ -26309,7 +26306,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "folded inward: describes a bud hoặc leaf that has its edges bent hoặc folded inward, so as to touch but not overlap"
+        "t": "folded inward: describes a bud or leaf that has its edges bent or folded inward, so as to touch but not overlap"
       },
       {"k": "m", "t": "-induplication (danh từ)"}
     ],
@@ -26384,7 +26381,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in Asia. It rises in western Tibet và flows northwest across Jammu và Kashmir và then southwest through Pakistan to the Arabian Sea."
+        "t": "river in Asia. It rises in western Tibet and flows northwest across Jammu và Kashmir và then southwest through Pakistan to the Arabian Sea."
       },
       {"k": "m", "t": "Length: 2,900 km/1,800 mi"}
     ],
@@ -26426,11 +26423,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "earliest South Asian civilization: a Bronze-Age civilization that flourished in the lower Indus River Valley, mainly in present-day Pakistan và northern India, from about 2500 to 1700 bc."
+        "t": "earliest South Asian civilization: a Bronze-Age civilization that flourished in the lower Indus River Valley, mainly in present-day Pakistan and northern India, from about 2500 to 1700 bc."
       },
       {
         "k": "m",
-        "t": "It was the earliest known civilization in South Asia and, with Mesopotamia và Egypt, one of the earliest anywhere in the world."
+        "t": "It was the earliest known civilization in South Asia and, with Mesopotamia and Egypt, one of the earliest anywhere in the world."
       }
     ],
     "k": "indus valley civilization"
@@ -26629,7 +26626,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australia settlement of industrial dispute: a judgment made by an industrial commission hoặc a similar body in settlement of a dispute between employees và employers"
+        "t": "Australia settlement of industrial dispute: a judgment made by an industrial commission or a similar body in settlement of a dispute between employees and employers"
       }
     ],
     "k": "industrial award"
@@ -26778,7 +26775,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "government body for industrial disputes: in Australia, a state government body that rules on disputes between employees và management"
+        "t": "government body for industrial disputes: in Australia, a state government body that rules on disputes between employees and management"
       }
     ],
     "k": "industrial commission"
@@ -27593,7 +27590,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "environmentally-induced dark coloration: the increase in the numbers of animals, especially moths, with dark coloration in places where industries create a lot of black smoke và predators more easily feed on lighter individuals"
+        "t": "environmentally-induced dark coloration: the increase in the numbers of animals, especially moths, with dark coloration in places where industries create a lot of black smoke and predators more easily feed on lighter individuals"
       }
     ],
     "k": "industrial melanism"
@@ -27617,7 +27614,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. wrongdoing by employee: irregular hoặc negligent conduct by an employee in a workplace, which may result in a penalty"
+        "t": "U.K. wrongdoing by employee: irregular or negligent conduct by an employee in a workplace, which may result in a penalty"
       }
     ],
     "k": "industrial misconduct"
@@ -28084,7 +28081,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "study of human interactions in industry: the study of relationships và structures in industrial organizations"
+        "t": "study of human interactions in industry: the study of relationships and structures in industrial organizations"
       }
     ],
     "k": "industrial sociology"
@@ -28364,7 +28361,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "very strong or powerful: describes materials hoặc chemicals that are strong hoặc of a quality suitable for use in industry"
+        "t": "very strong or powerful: describes materials or chemicals that are strong or of a quality suitable for use in industry"
       }
     ],
     "k": "industrial-strength"
@@ -28556,7 +28553,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canadian department of industry and trade: the Canadian government department that is responsible for developing the country's industry và technology, setting telecommunication policy, và promoting investment và trade"
+        "t": "Canadian department of industry and trade: the Canadian government department that is responsible for developing the country's industry and technology, setting telecommunication policy, và promoting investment và trade"
       }
     ],
     "k": "industry canada"
@@ -29443,7 +29440,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "with unequal valves: describes a bivalve mollusk whose valves are unequal in size hoặc form"
+        "t": "with unequal valves: describes a bivalve mollusk whose valves are unequal in size or form"
       }
     ],
     "k": "inequivalve"
@@ -29889,7 +29886,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "type of nuclear fusion: nuclear fusion achieved by firing high-energy lasers hoặc particle beams at small pellets, typically containing deuterium và sometimes also tritium"
+        "t": "type of nuclear fusion: nuclear fusion achieved by firing high-energy lasers or particle beams at small pellets, typically containing deuterium and sometimes also tritium"
       }
     ],
     "k": "inertial confinement fusion"
@@ -30119,7 +30116,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "case of nouns in Finnish: in the grammar of languages such as Finnish, a grammatical form case of nouns và pronouns that indicates the location of something"
+        "t": "case of nouns in Finnish: in the grammar of languages such as Finnish, a grammatical form case of nouns and pronouns that indicates the location of something"
       }
     ],
     "k": "inessive"
@@ -31396,16 +31393,16 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle infantilized, present participle infantilizing, 3rd person present singular infantilizes)"
+        "t": "(past and past participle infantilized, present participle infantilizing, 3rd person present singular infantilizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "1. keep from maturing: to make somebody infantile, hoặc keep somebody in an infantile state"
+        "t": "1. keep from maturing: to make somebody infantile, or keep somebody in an infantile state"
       },
       {
         "k": "m",
-        "t": "2. treat as a baby: to treat somebody as hoặc consider somebody to be infantile"
+        "t": "2. treat as a baby: to treat somebody as or consider somebody to be infantile"
       },
       {"k": "m", "t": "-infantilization (danh từ)"}
     ],
@@ -32647,16 +32644,16 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle infibulated, present participle infibulating, 3rd person present singular infibulates)"
+        "t": "(past and past participle infibulated, present participle infibulating, 3rd person present singular infibulates)"
       },
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "close female genitals by stitching: to close the vagina of a girl hoặc woman partially by stitching it hoặc closing it with a clasp."
+        "t": "close female genitals by stitching: to close the vagina of a girl or woman partially by stitching it or closing it with a clasp."
       },
       {
         "k": "m",
-        "t": "The clitoris is often removed at the same time. The practice is traditional in some northeastern African cultures, but disapproved of và even outlawed in some countries."
+        "t": "The clitoris is often removed at the same time. The practice is traditional in some northeastern African cultures, but disapproved of and even outlawed in some countries."
       },
       {"k": "m", "t": "Xem female circumcision"},
       {"k": "m", "t": "-infibulation (danh từ)"}
@@ -33923,7 +33920,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "inflammation of bowel: a disease causing inflammation of the bowel, typically Crohn's disease hoặc ulcerative colitis"
+        "t": "inflammation of bowel: a disease causing inflammation of the bowel, typically Crohn's disease or ulcerative colitis"
       }
     ],
     "k": "inflammatory bowel disease"
@@ -35094,7 +35091,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "act of folding inward: the condition hoặc act of folding inward, hoặc an instance of it"
+        "t": "act of folding inward: the condition or act of folding inward, or an instance of it"
       }
     ],
     "k": "infolding"
@@ -35127,7 +35124,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Web site providing information: a Web site providing specialist information for both producers of goods và customers"
+        "t": "Web site providing information: a Web site providing specialist information for both producers of goods and customers"
       }
     ],
     "k": "infomediary"
@@ -35139,7 +35136,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "commercial like program: a commercial advertisement on television that is made to appear like a full-length interview hoặc documentary program"
+        "t": "commercial like program: a commercial advertisement on television that is made to appear like a full-length interview or documentary program"
       }
     ],
     "k": "infomercial"
@@ -35155,7 +35152,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "inability to remember location of information: inability to remember an item of information hoặc its location, especially on the Internet (thông tục)"
+        "t": "inability to remember location of information: inability to remember an item of information or its location, especially on the Internet (thông tục)"
       }
     ],
     "k": "infonesia"
@@ -35273,7 +35270,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "unofficial economic activities: economic activities organized without government approval, outside mainstream industry và commerce"
+        "t": "unofficial economic activities: economic activities organized without government approval, outside mainstream industry and commerce"
       }
     ],
     "k": "informal economy"
@@ -35997,7 +35994,7 @@
       },
       {
         "k": "m",
-        "t": "Gần đây, cách thực tế nhất để xuất bản thông tin là dùng công nghệ Web. Internet và intranet cung cấp platform để phổ biến thông tin nội bộ hay ra ngoài. Người dùng có thể viếng các Web site để có các thông tin đã xuất bản hay yêu cầu thông tin tự động chuyển đến, bằng các công nghệ được mô tả trong các phần \"Broadcast New Technology\", \"Marimba Castanet\", \"PointCast\" và \"Push\"."
+        "t": "Gần đây, cách thực tế nhất để xuất bản thông tin là dùng công nghệ Web. Internet và intranet cung cấp platform để phổ biến thông tin nội bộ hay ra ngoài. Người dùng có thể viếng các Web site để có các thông tin đã xuất bản hay yêu cầu thông tin tự động chuyển đến, bằng các công nghệ được mô tả trong các phần \"Broadcast New Technology\", \"Marimba Castanet\", \"PointCast\" and \"Push\"."
       },
       {
         "k": "m",
@@ -36057,7 +36054,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Component Software Technology; Compound Documents; Document Management; Groupware; Imaging; Web Technologies and Concepts; và Workflow Management.."
+        "t": "Component Software Technology; Compound Documents; Document Management; Groupware; Imaging; Web Technologies and Concepts; and Workflow Management.."
       }
     ],
     "k": "information publishing"
@@ -36439,7 +36436,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Database Connectivity; Data Warehousing; DBMS (Database Management System); Distributed Database; Enterprise Networks; IBM (International Business Machines); IBM Mainframe Environment; IBM Open Blueprint; OLAP (Online Analytical Processing) và SQL (Structured Query Language)"
+        "t": "Database Connectivity; Data Warehousing; DBMS (Database Management System); Distributed Database; Enterprise Networks; IBM (International Business Machines); IBM Mainframe Environment; IBM Open Blueprint; OLAP (Online Analytical Processing) and SQL (Structured Query Language)"
       },
       {"k": "m", "t": "Thông tin trên Internet"},
       {"k": "m", "t": "IBM Information Warehouse http://www.software.ibm.com/data/"},
@@ -36476,7 +36473,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "efficiency of information flow to market: the speed và accuracy with which prices in a market reflect new information"
+        "t": "efficiency of information flow to market: the speed and accuracy with which prices in a market reflect new information"
       }
     ],
     "k": "informational efficiency"
@@ -36553,7 +36550,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "permission for operation or treatment: agreement by a patient to undergo an operation hoặc medical treatment hoặc take part in a clinical trial after being informed of và having understood the risks involved"
+        "t": "permission for operation or treatment: agreement by a patient to undergo an operation hoặc medical treatment hoặc take part in a clinical trial after being informed of and having understood the risks involved"
       }
     ],
     "k": "informed consent"
@@ -36631,7 +36628,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "information treated as entertainment: television programs that deal with serious issues hoặc current affairs in an entertaining way"
+        "t": "information treated as entertainment: television programs that deal with serious issues or current affairs in an entertaining way"
       },
       {"k": "m", "t": "-infotainer (danh từ)"}
     ],
@@ -36759,7 +36756,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "category of organisms: a taxonomic category of organisms that is above an order và below a subclass"
+        "t": "category of organisms: a taxonomic category of organisms that is above an order and below a subclass"
       }
     ],
     "k": "infraclass"
@@ -36975,7 +36972,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "subcategory of biological order: a category in the scientific classification of related organisms, comprising one hoặc more families within an order"
+        "t": "subcategory of biological order: a category in the scientific classification of related organisms, comprising one or more families within an order"
       },
       {"k": "m", "t": "-infraordinal (tính từ)"}
     ],
@@ -37043,7 +37040,7 @@
       },
       {
         "k": "m",
-        "t": "Infrared sources within our galaxy include cool gas giants và the galactic center."
+        "t": "Infrared sources within our galaxy include cool gas giants and the galactic center."
       }
     ],
     "k": "infrared astronomy"
@@ -37351,7 +37348,7 @@
       },
       {
         "k": "m",
-        "t": "IrDA đã tạo ra các tiêu chuẩn kết nối dữ liệu SIR (serial infrared) IrDA, IrLAP (Link Access Protocol) và IrLMP (Link Management Protocol). Vào tháng 10 năm 1995, nó đã mở rộng tốc độ truyền dữ liệu của SIR lên đến 4 Mbit/sec với một tiêu chuẩn có tên là Fast IR. Bạn có thể thăm Web site của IrDA ở địa chỉ http://www.irda.org. Xem phần \"IrDA (Infrared Data Association)\" để có mô tả ngắn gọn của IrDA."
+        "t": "IrDA đã tạo ra các tiêu chuẩn kết nối dữ liệu SIR (serial infrared) IrDA, IrLAP (Link Access Protocol) and IrLMP (Link Management Protocol). Vào tháng 10 năm 1995, nó đã mở rộng tốc độ truyền dữ liệu của SIR lên đến 4 Mbit/sec với một tiêu chuẩn có tên là Fast IR. Bạn có thể thăm Web site của IrDA ở địa chỉ http://www.irda.org. Xem phần \"IrDA (Infrared Data Association)\" để có mô tả ngắn gọn của IrDA."
       },
       {"k": "m", "t": "Mạng hồng ngoại"},
       {
@@ -37361,7 +37358,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "IrDA (Infrared Data Association); Mobile Computing; và Wireless Communications."
+        "t": "IrDA (Infrared Data Association); Mobile Computing; and Wireless Communications."
       }
     ],
     "k": "infrared technologies"
@@ -38715,10 +38712,7 @@
     "h": "ings",
     "segs": [
       {"k": "m", "t": "danh từ số nhiều"},
-      {
-        "k": "m",
-        "t": "Northern England low-lying land: land that lies close to hoặc below sea level"
-      }
+      {"k": "m", "t": "Northern England low-lying land: land that lies close to or below sea level"}
     ],
     "k": "ings"
   },
@@ -38795,7 +38789,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Russian ethnic group: a member of a people who live mainly in the Russian provinces of Ingushetia và Chechnya"
+        "t": "1. member of Russian ethnic group: a member of a people who live mainly in the Russian provinces of Ingushetia and Chechnya"
       },
       {
         "k": "m",
@@ -39039,7 +39033,7 @@
     "h": "inharmony",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "lack of harmony: lack of harmony, accord, hoặc agreement"}
+      {"k": "m", "t": "lack of harmony: lack of harmony, accord, or agreement"}
     ],
     "k": "inharmony"
   },
@@ -39048,7 +39042,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều inhauls) hoặc inhauler (số nhiều inhaulers)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "sail rope: a rope used to haul hoặc hold in a sail"}
+      {"k": "m", "t": "sail rope: a rope used to haul or hold in a sail"}
     ],
     "k": "inhaul"
   },
@@ -39416,7 +39410,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Access Control; Access Rights; File Systems; Novell NetWare; Novell NetWare File System; Rights and Permissions; và Users and Groups."
+        "t": "Access Control; Access Rights; File Systems; Novell NetWare; Novell NetWare File System; Rights and Permissions; and Users and Groups."
       }
     ],
     "k": "inherited rights"
@@ -39716,7 +39710,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "property owner in national park: a person who owns private land within the confines of a national park, forest, hoặc refuge, và who is allowed reasonable ingress và egress rights to that property, e.g., in Alaska"
+        "t": "property owner in national park: a person who owns private land within the confines of a national park, forest, hoặc refuge, và who is allowed reasonable ingress and egress rights to that property, e.g., in Alaska"
       }
     ],
     "k": "inholder"
@@ -41304,7 +41298,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "people with special knowledge: those who know about something that seems difficult hoặc complicated, hoặc who know the secrets of a group, organization, hoặc religion"
+        "t": "people with special knowledge: those who know about something that seems difficult hoặc complicated, hoặc who know the secrets of a group, organization, or religion"
       }
     ],
     "k": "initiated"
@@ -42200,7 +42194,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Ethiopian bread: a flat Ethiopian bread resembling a large pancake. Portions of food are often placed on injera và eaten with the fingers."
+        "t": "Ethiopian bread: a flat Ethiopian bread resembling a large pancake. Portions of food are often placed on injera and eaten with the fingers."
       }
     ],
     "k": "injera"
@@ -42563,7 +42557,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "add ink to a drawing: to go over the pencil lines of a drawing hoặc design in ink"
+        "t": "add ink to a drawing: to go over the pencil lines of a drawing or design in ink"
       }
     ],
     "k": "ink in"
@@ -42598,7 +42592,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "octopus and squid gland: a large gland with an opening close to the anus of most cephalopods, including the octopus và squid, from which ink sepia is ejected to distract predators"
+        "t": "octopus and squid gland: a large gland with an opening close to the anus of most cephalopods, including the octopus and squid, from which ink sepia is ejected to distract predators"
       }
     ],
     "k": "ink sac"
@@ -42736,7 +42730,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều inkblots)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "1. ink stain: a stain hoặc spot of spilled ink"},
+      {"k": "m", "t": "1. ink stain: a stain or spot of spilled ink"},
       {
         "k": "m",
         "t": "2. pattern used in the Rorschach test: any of the ten abstract patterns resembling an inkblot used in the Rorschach test"
@@ -43826,7 +43820,7 @@
       },
       {
         "k": "m",
-        "t": "Most new generic drug names are formed by combining the most appropriate stem with a prefix that may hoặc may not have some medical significance."
+        "t": "Most new generic drug names are formed by combining the most appropriate stem with a prefix that may or may not have some medical significance."
       }
     ],
     "k": "inn stem"
@@ -43980,7 +43974,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "high-ranking barristers: in England và Wales, all the barristers that comprise the King's hoặc Queen's Counsel. Xem outer bar"
+        "t": "high-ranking barristers: in England and Wales, all the barristers that comprise the King's or Queen's Counsel. Xem outer bar"
       }
     ],
     "k": "inner bar"
@@ -44042,7 +44036,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "adult's view of his or her childhood: an adult's conception of himself hoặc herself as a child, often used as a tool in therapeutic processes to explore feelings about the person's childhood"
+        "t": "adult's view of his or her childhood: an adult's conception of himself or herself as a child, often used as a tool in therapeutic processes to explore feelings about the person's childhood"
       }
     ],
     "k": "inner child"
@@ -44389,7 +44383,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "very private place: a very private place within a building hoặc organization, to which only a few select hoặc privileged people are admitted (formal)"
+        "t": "very private place: a very private place within a building or organization, to which only a few select or privileged people are admitted (formal)"
       }
     ],
     "k": "inner sanctum"
@@ -45122,7 +45116,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city, tourist center, và capital of the Tirol Province, western Austria, situated on the Inn River approximately 137 km/85 mi southwest of Salzburg."
+        "t": "city, tourist center, and capital of the Tirol Province, western Austria, situated on the Inn River approximately 137 km/85 mi southwest of Salzburg."
       },
       {"k": "m", "t": "Dân số khoảng: 114,561 (thống kê năm 2003)"}
     ],
@@ -45134,7 +45128,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. one of an Algonquian people: a member of an Algonquian people living in northern Quebec và Labrador"
+        "t": "1. one of an Algonquian people: a member of an Algonquian people living in northern Quebec and Labrador"
       },
       {"k": "m", "t": "2. language of the Innu: the Algonquian language of the Innu people"},
       {"k": "m", "t": "3. peoples như Mushuau Innu"},
@@ -45998,7 +45992,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Viết tắt của online in no particular order (used in e-mails hoặc text messages)"
+        "t": "Viết tắt của online in no particular order (used in e-mails or text messages)"
       }
     ],
     "k": "inpo"
@@ -46998,7 +46992,7 @@
         "t": "Chẳng hạn để đổi hướng ra của lệnh DIR nhằm vào cổng LPTI (máy in), bạn đánh vào DIR>LPT 1 rồi nhấn Enter."
       },
       {"k": "m", "t": "Trong DOS, đổi hướng cho dữ liệu vào thì thường dùng các filter (lọc)."},
-      {"k": "m", "t": "Xem filter, MS-DOS, và UNIX."}
+      {"k": "m", "t": "Xem filter, MS-DOS, and UNIX."}
     ],
     "k": "input/output-i/o-redirection"
   },
@@ -47507,7 +47501,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Japanese box: a small ornamented box worn hanging from the sash of a kimono with compartments for holding cosmetics, perfumes, và medicines"
+        "t": "Japanese box: a small ornamented box worn hanging from the sash of a kimono with compartments for holding cosmetics, perfumes, and medicines"
       }
     ],
     "k": "inro"
@@ -48241,7 +48235,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance provision allowing lender to demand payment: a loan provision permitting the lender to demand payment hoặc additional collateral"
+        "t": "finance provision allowing lender to demand payment: a loan provision permitting the lender to demand payment or additional collateral"
       }
     ],
     "k": "insecurity clause"
@@ -48253,7 +48247,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "single hill or mountain: an isolated hill hoặc mountain, often heavily eroded on its lower slopes, rising abruptly from a plain"
+        "t": "single hill or mountain: an isolated hill or mountain, often heavily eroded on its lower slopes, rising abruptly from a plain"
       }
     ],
     "k": "inselberg"
@@ -48711,7 +48705,7 @@
         "k": "m",
         "t": "Trong các bàn phím tương thích IBM PC, Ins là một phím thường có khả năng lập trình (như) g không phải luôn luôn, được dùng để tắt/mở giữa chế độ chèn và chế độ đánh chồng (overtype) khi nhập văn bản vào."
       },
-      {"k": "m", "t": "Xem insert mode, và overtype mode."}
+      {"k": "m", "t": "Xem insert mode, and overtype mode."}
     ],
     "k": "insert-ins-key"
   },
@@ -48940,7 +48934,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "increase of power when components inserted: the increase of power, usually given in decibels hoặc nepers, when a group of linked electronic components is inserted into a circuit"
+        "t": "increase of power when components inserted: the increase of power, usually given in decibels or nepers, when a group of linked electronic components is inserted into a circuit"
       }
     ],
     "k": "insertion gain"
@@ -48994,7 +48988,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "decorative embroidery stitch: an embroidery stitch that joins two pieces of fabric together và decorates the gap between them"
+        "t": "decorative embroidery stitch: an embroidery stitch that joins two pieces of fabric together and decorates the gap between them"
       }
     ],
     "k": "insertion stitch"
@@ -49268,7 +49262,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "address on business letter: the name, title, và street address of the person to whom a business letter is written, as it appears on the letter above the salutation"
+        "t": "address on business letter: the name, title, and street address of the person to whom a business letter is written, as it appears on the letter above the salutation"
       }
     ],
     "k": "inside address"
@@ -49599,7 +49593,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "means of calculating net assets: the highest price at which a buyer is willing to purchase a security và the lowest price at which a seller is willing to sell a security."
+        "t": "means of calculating net assets: the highest price at which a buyer is willing to purchase a security and the lowest price at which a seller is willing to sell a security."
       },
       {
         "k": "m",
@@ -49658,7 +49652,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "difference between bid and ask: the difference between the best bid và the best ask for a security being quoted by any market maker"
+        "t": "difference between bid and ask: the difference between the best bid and the best ask for a security being quoted by any market maker"
       }
     ],
     "k": "inside spread"
@@ -49771,7 +49765,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small Japanese rice round or square: a bite-sized Japanese rice round hoặc square containing seaweed và sometimes filled with fish hoặc vegetables"
+        "t": "small Japanese rice round or square: a bite-sized Japanese rice round hoặc square containing seaweed và sometimes filled with fish or vegetables"
       }
     ],
     "k": "inside-out roll"
@@ -49836,7 +49830,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "theory regarding new workers' wages: the idea that companies are unwilling to pay new workers less than existing workers in case the existing workers fear replacement và will not cooperate with hoặc train newcomers"
+        "t": "theory regarding new workers' wages: the idea that companies are unwilling to pay new workers less than existing workers in case the existing workers fear replacement and will not cooperate with or train newcomers"
       }
     ],
     "k": "insider-outsider theory"
@@ -50334,7 +50328,7 @@
       {"k": "m", "t": "conjunction"},
       {
         "k": "m",
-        "t": "to the extent that: used to introduce a statement that explains hoặc qualifies a previous statement"
+        "t": "to the extent that: used to introduce a statement that explains or qualifies a previous statement"
       }
     ],
     "k": "insofar as"
@@ -50677,7 +50671,7 @@
     "h": "insomuch as",
     "segs": [
       {"k": "m", "t": "conjunction"},
-      {"k": "m", "t": "because: used to introduce an explanation hoặc reason"}
+      {"k": "m", "t": "because: used to introduce an explanation or reason"}
     ],
     "k": "insomuch as"
   },
@@ -50687,7 +50681,7 @@
       {"k": "m", "t": "conjunction"},
       {
         "k": "m",
-        "t": "to such an extent: used to indicate the extent to which something is true hoặc is the case"
+        "t": "to such an extent: used to indicate the extent to which something is true or is the case"
       }
     ],
     "k": "insomuch that"
@@ -50864,7 +50858,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "military drill position: a position in which a rifle is held diagonally in front of the body with the muzzle pointing upward to the left và the rifle chamber open for inspection"
+        "t": "military drill position: a position in which a rifle is held diagonally in front of the body with the muzzle pointing upward to the left and the rifle chamber open for inspection"
       }
     ],
     "k": "inspection arms"
@@ -52916,7 +52910,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "allowing for rapid startup: including a device hoặc technology that allows for a rapid startup, so eliminating the need for a warm-up period"
+        "t": "allowing for rapid startup: including a device or technology that allows for a rapid startup, so eliminating the need for a warm-up period"
       }
     ],
     "k": "instant-on"
@@ -53427,7 +53421,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "theory involving universe before big bang: in theoretical cosmology, a mathematical solution, one form of which implies that the universe began as a pea-sized structure of space, time, matter, và energy before the big bang"
+        "t": "theory involving universe before big bang: in theoretical cosmology, a mathematical solution, one form of which implies that the universe began as a pea-sized structure of space, time, matter, and energy before the big bang"
       }
     ],
     "k": "instanton"
@@ -53951,7 +53945,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada public use of English and French: the policy và practice of providing services in both English và French in Canadian public institutions, especially those of the federal government"
+        "t": "Canada public use of English and French: the policy and practice of providing services in both English and French in Canadian public institutions, especially those of the federal government"
       }
     ],
     "k": "institutional bilingualism"
@@ -53999,7 +53993,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "organization that invests: a financial institution such as an insurance company hoặc pension fund that invests in securities, rather than an individual investor"
+        "t": "organization that invests: a financial institution such as an insurance company or pension fund that invests in securities, rather than an individual investor"
       }
     ],
     "k": "institutional investor"
@@ -54142,7 +54136,7 @@
     "h": "institutive",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "establishing: serving to establish hoặc being established"}
+      {"k": "m", "t": "establishing: serving to establish or being established"}
     ],
     "k": "institutive"
   },
@@ -55195,7 +55189,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "learning based on reward: a form of learning that takes place as a direct consequence of a reward hoặc pleasant outcome for the learner"
+        "t": "learning based on reward: a form of learning that takes place as a direct consequence of a reward or pleasant outcome for the learner"
       }
     ],
     "k": "instrumental learning"
@@ -57240,7 +57234,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "automatic insulin provider: an automated device that assesses the body's insulin requirements by monitoring the blood sugar levels, và provides the necessary doses"
+        "t": "automatic insulin provider: an automated device that assesses the body's insulin requirements by monitoring the blood sugar levels, and provides the necessary doses"
       }
     ],
     "k": "insulin pump"
@@ -60168,7 +60162,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "generalized pollution-contol approach: an approach to licensing potentially polluting activities by which all the emissions và parts of the environment at risk from them are considered together"
+        "t": "generalized pollution-contol approach: an approach to licensing potentially polluting activities by which all the emissions and parts of the environment at risk from them are considered together"
       }
     ],
     "k": "integrated pollution control"
@@ -60650,11 +60644,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. molecule that links cells together: a polypeptide chain that promotes the attachment of cells to other cells, hoặc of cells to extracellular material"
+        "t": "1. molecule that links cells together: a polypeptide chain that promotes the attachment of cells to other cells, or of cells to extracellular material"
       },
       {
         "k": "m",
-        "t": "2. cell protein: a cell-surface receptor that is a glycoprotein involved in homeostasis, wound healing, và immune defense mechanisms"
+        "t": "2. cell protein: a cell-surface receptor that is a glycoprotein involved in homeostasis, wound healing, and immune defense mechanisms"
       }
     ],
     "k": "integrin"
@@ -61490,7 +61484,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. international telecommunications organization: an international organization that owns the communications satellites that orbit Earth và whose members include the telecommunications agencies of most countries. Full form International Telecommunications Satellite Organization"
+        "t": "1. international telecommunications organization: an international organization that owns the communications satellites that orbit Earth and whose members include the telecommunications agencies of most countries. Full form International Telecommunications Satellite Organization"
       },
       {
         "k": "m",
@@ -61942,7 +61936,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "concept, property, or proposition: in logic, a concept, property, hoặc proposition, as opposed to an individual, set, hoặc truth value, which are the extensional counterparts of intensional objects"
+        "t": "concept, property, or proposition: in logic, a concept, property, or proposition, as opposed to an individual, set, or truth value, which are the extensional counterparts of intensional objects"
       }
     ],
     "k": "intensional object"
@@ -63178,7 +63172,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "theory that mind and body interact: in Western metaphysics, the theory that the mind và the body act on each other"
+        "t": "theory that mind and body interact: in Western metaphysics, the theory that the mind and the body act on each other"
       }
     ],
     "k": "interactionism"
@@ -63851,12 +63845,12 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "1. between upper chambers of heart: situated hoặc occurring in the area lying between the right và left upper chambers auricles of the heart"
+        "t": "1. between upper chambers of heart: situated or occurring in the area lying between the right and left upper chambers auricles of the heart"
       },
-      {"k": "m", "t": "2. between ears: situated hoặc occurring in the area lying between the ears"},
+      {"k": "m", "t": "2. between ears: situated or occurring in the area lying between the ears"},
       {
         "k": "m",
-        "t": "3. physiology involving two ears: involving a physiological hoặc acoustic relationship between the two ears"
+        "t": "3. physiology involving two ears: involving a physiological or acoustic relationship between the two ears"
       }
     ],
     "k": "interauricular"
@@ -63888,7 +63882,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "U.K. interchangeable among transportation companies: used to describe a ticket that is available from và valid for different transportation companies"
+        "t": "U.K. interchangeable among transportation companies: used to describe a ticket that is available from and valid for different transportation companies"
       },
       {"k": "m", "t": "-interavailability (danh từ)"}
     ],
@@ -64072,7 +64066,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "occurring between blocks: occurring hoặc located between blocks of data on a magnetic tape"
+        "t": "occurring between blocks: occurring or located between blocks of data on a magnetic tape"
       },
       {"k": "m", "t": "an interblock gap"}
     ],
@@ -64251,7 +64245,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "crystalline compound incorporating another compound: a chemical compound in which a crystalline substance, especially graphite, incorporates molecules, atoms, hoặc ions of another substance in gaps hoặc layers of its crystal lattice"
+        "t": "crystalline compound incorporating another compound: a chemical compound in which a crystalline substance, especially graphite, incorporates molecules, atoms, or ions of another substance in gaps or layers of its crystal lattice"
       }
     ],
     "k": "intercalation compound"
@@ -65999,7 +65993,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "mutually connecting: connecting hoặc capable of connecting with something else hoặc with each other"
+        "t": "mutually connecting: connecting or capable of connecting with something else or with each other"
       },
       {"k": "m", "t": "-interconnectivity (danh từ)"}
     ],
@@ -66374,7 +66368,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "growing different crops together: the growing of two hoặc more crops with different characteristics và requirements at the same time on the same plot of land"
+        "t": "growing different crops together: the growing of two or more crops with different characteristics and requirements at the same time on the same plot of land"
       }
     ],
     "k": "intercropping"
@@ -67034,12 +67028,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle interdined, present participle interdining, 3rd person present singular interdines)"
+        "t": "(past and past participle interdined, present participle interdining, 3rd person present singular interdines)"
       },
       {"k": "m", "t": "intransitive verb"},
       {
         "k": "m",
-        "t": "South Asia eat with somebody from another caste: to eat a meal with somebody belonging to a different religion hoặc caste"
+        "t": "South Asia eat with somebody from another caste: to eat a meal with somebody belonging to a different religion or caste"
       }
     ],
     "k": "interdine"
@@ -67621,7 +67615,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance restriction of interest range: a restriction to a permissible range of the interest rate applicable to a note hoặc bond that has a flexible rate of interest"
+        "t": "finance restriction of interest range: a restriction to a permissible range of the interest rate applicable to a note or bond that has a flexible rate of interest"
       }
     ],
     "k": "interest rate collar"
@@ -70028,7 +70022,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "temporary loans: loans, usually short-term và at relatively high rates of interest, procured while arranging longer-term loans"
+        "t": "temporary loans: loans, usually short-term and at relatively high rates of interest, procured while arranging longer-term loans"
       }
     ],
     "k": "interim financing"
@@ -71495,7 +71489,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. book-borrowing system: a system by which libraries và library users can borrow books from other libraries"
+        "t": "1. book-borrowing system: a system by which libraries and library users can borrow books from other libraries"
       },
       {
         "k": "m",
@@ -72655,9 +72649,9 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "portable container: a portable container for transporting liquids hoặc solids that holds 500 to 1,000 liters/132 to 264 gallons hoặc 500 to 1,500 kg/1,100 to 3,300 lb."
+        "t": "portable container: a portable container for transporting liquids or solids that holds 500 to 1,000 liters/132 to 264 gallons hoặc 500 to 1,500 kg/1,100 to 3,300 lb."
       },
-      {"k": "m", "t": "It is intermediate in size between a drum và a tanker load."}
+      {"k": "m", "t": "It is intermediate in size between a drum and a tanker load."}
     ],
     "k": "intermediate bulk container"
   },
@@ -72955,7 +72949,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "spending on inputs: an amount spent on raw materials và components used in manufacturing"
+        "t": "spending on inputs: an amount spent on raw materials and components used in manufacturing"
       }
     ],
     "k": "intermediate expenditure"
@@ -73827,7 +73821,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "effective for a medium amount of time: having a period of therapeutic activity that is between that of long-acting và short-acting drugs"
+        "t": "effective for a medium amount of time: having a period of therapeutic activity that is between that of long-acting and short-acting drugs"
       }
     ],
     "k": "intermediate-acting"
@@ -73887,7 +73881,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "radioactive waste: radioactive waste from reactors và processing plants that is solidified, mixed with concrete, và stored in drums."
+        "t": "radioactive waste: radioactive waste from reactors and processing plants that is solidified, mixed with concrete, and stored in drums."
       },
       {"k": "m", "t": "These drums are then placed for long-term storage in waste repositories."}
     ],
@@ -74073,12 +74067,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle intermeshed, present participle intermeshing, 3rd person present singular intermeshes)"
+        "t": "(past and past participle intermeshed, present participle intermeshing, 3rd person present singular intermeshes)"
       },
-      {"k": "m", "t": "transitive và intransitive verb"},
+      {"k": "m", "t": "transitive and intransitive verb"},
       {
         "k": "m",
-        "t": "mesh together: to engage hoặc mesh with one another, hoặc cause something such as the teeth of gears to do so"
+        "t": "mesh together: to engage or mesh with one another, or cause something such as the teeth of gears to do so"
       }
     ],
     "k": "intermesh"
@@ -74116,7 +74110,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "containing several metals: consisting of two hoặc more metals in specific proportions"
+        "t": "containing several metals: consisting of two or more metals in specific proportions"
       }
     ],
     "k": "intermetallic"
@@ -75588,7 +75582,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "constraint from within an organization: a limit that is placed on the behavior of an organization by its own rules, regulations, và practices"
+        "t": "constraint from within an organization: a limit that is placed on the behavior of an organization by its own rules, regulations, and practices"
       }
     ],
     "k": "internal constraint"
@@ -76694,7 +76688,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "rhyme within a line: a rhyme in which one of the rhyming words is within the line of poetry và the other is at the end of the same line hoặc within the next line"
+        "t": "rhyme within a line: a rhyme in which one of the rhyming words is within the line of poetry and the other is at the end of the same line or within the next line"
       }
     ],
     "k": "internal rhyme"
@@ -77455,7 +77449,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "qualification exams for college admission: a set of examinations in various subjects taken at the end of secondary education và accepted in many countries as a qualification for admission to a college hoặc university"
+        "t": "qualification exams for college admission: a set of examinations in various subjects taken at the end of secondary education and accepted in many countries as a qualification for admission to a college or university"
       }
     ],
     "k": "international baccalaureate"
@@ -77551,7 +77545,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "force of foreign soldiers in Spain: a Communist và Socialist force of volunteers from different countries that fought on the Republican side during the Spanish Civil War"
+        "t": "force of foreign soldiers in Spain: a Communist and Socialist force of volunteers from different countries that fought on the Republican side during the Spanish Civil War"
       }
     ],
     "k": "international brigade"
@@ -77582,7 +77576,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "company with limited foreign business rights: a foreign company not subject to tax và exempt from some regulations but not allowed to own real estate"
+        "t": "company with limited foreign business rights: a foreign company not subject to tax and exempt from some regulations but not allowed to own real estate"
       }
     ],
     "k": "international business corporation"
@@ -78079,7 +78073,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "European painting style in late 14C: a style of painting và other visual art that emerged in Europe with the increasing exchange of ideas và techniques among European artists toward the end of the 14th century"
+        "t": "European painting style in late 14C: a style of painting and other visual art that emerged in Europe with the increasing exchange of ideas and techniques among European artists toward the end of the 14th century"
       }
     ],
     "k": "international gothic"
@@ -78155,7 +78149,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "UN agency promoting better working conditions: a Geneva-based organization founded in 1919 và a United Nations agency since 1946 that aims to improve working conditions, reduce unemployment, và raise living standards worldwide."
+        "t": "UN agency promoting better working conditions: a Geneva-based organization founded in 1919 và a United Nations agency since 1946 that aims to improve working conditions, reduce unemployment, and raise living standards worldwide."
       },
       {"k": "m", "t": "It won the Nobel Peace Prize in 1969."}
     ],
@@ -78940,7 +78934,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "telephone or telex message sent abroad: a message sent by telephone hoặc telex from the United Kingdom to another country, where it is delivered in written hoặc printed form"
+        "t": "telephone or telex message sent abroad: a message sent by telephone or telex from the United Kingdom to another country, where it is delivered in written or printed form"
       }
     ],
     "k": "international telegram"
@@ -79438,7 +79432,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "inability to remember Internet information: an inability to remember either the location of hoặc information contained in a Web site (thông tục)"
+        "t": "inability to remember Internet information: an inability to remember either the location of or information contained in a Web site (thông tục)"
       }
     ],
     "k": "internesia"
@@ -79490,7 +79484,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "electronic banking via the Internet: a system of banking in which customers can view their account details, pay bills, và transfer money by means of the Internet"
+        "t": "electronic banking via the Internet: a system of banking in which customers can view their account details, pay bills, and transfer money by means of the Internet"
       }
     ],
     "k": "internet banking"
@@ -79567,7 +79561,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "place handling Internet traffic for businesses: a business that provides Internet và server facilities for other businesses"
+        "t": "place handling Internet traffic for businesses: a business that provides Internet and server facilities for other businesses"
       }
     ],
     "k": "internet hotel"
@@ -81884,7 +81878,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "influenced by one another: in a relationship in which each depends on hoặc is affected by the other hoặc others"
+        "t": "influenced by one another: in a relationship in which each depends on or is affected by the other or others"
       }
     ],
     "k": "interrelated"
@@ -82567,7 +82561,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cadence finishing on an unexpected chord: in music, a cadence that does not end with the expected chord of the tonic but moves from the dominant to the submediant hoặc subdominant"
+        "t": "cadence finishing on an unexpected chord: in music, a cadence that does not end with the expected chord of the tonic but moves from the dominant to the submediant or subdominant"
       }
     ],
     "k": "interrupted cadence"
@@ -82624,7 +82618,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "screw with a lengthwise slot: a screw whose thread is broken in one hoặc more places by a lengthwise slot that enables a partial turn to lock hoặc unlock the screw"
+        "t": "screw with a lengthwise slot: a screw whose thread is broken in one or more places by a lengthwise slot that enables a partial turn to lock or unlock the screw"
       }
     ],
     "k": "interrupted screw"
@@ -83696,7 +83690,7 @@
     "h": "interstation",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "between stations: occurring between hoặc connecting stations"}
+      {"k": "m", "t": "between stations: occurring between or connecting stations"}
     ],
     "k": "interstation"
   },
@@ -84391,7 +84385,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "between Hebrew Scriptures and the New Testament: during, from, hoặc relating to the period between the composition of the last books of the Hebrew Scriptures, called the Old Testament by Christians, và the first books of the New Testament of the Bible"
+        "t": "between Hebrew Scriptures and the New Testament: during, from, or relating to the period between the composition of the last books of the Hebrew Scriptures, called the Old Testament by Christians, and the first books of the New Testament of the Bible"
       }
     ],
     "k": "intertestamental"
@@ -84418,7 +84412,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "relationship between texts: the relationship that exists between different texts, especially literary texts, hoặc the reference in one text to others"
+        "t": "relationship between texts: the relationship that exists between different texts, especially literary texts, or the reference in one text to others"
       },
       {"k": "m", "t": "-intertextual, adjective"},
       {"k": "m", "t": "-intertextually (trạng từ)"}
@@ -84437,7 +84431,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. interwoven object or material: an object hoặc material that has been made by interweaving two hoặc more things"
+        "t": "1. interwoven object or material: an object or material that has been made by interweaving two or more things"
       },
       {
         "k": "m",
@@ -85014,7 +85008,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. radio station's identifying signal: a piece of music hoặc other sound that a radio station uses as its unique identifying signal, broadcasting it between và sometimes during programs"
+        "t": "U.K. radio station's identifying signal: a piece of music or other sound that a radio station uses as its unique identifying signal, broadcasting it between and sometimes during programs"
       }
     ],
     "k": "interval signal"
@@ -85032,7 +85026,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mixture of aerobic and nonaerobic exercise: a method of training, especially in athletics, that involves alternating between aerobic và nonaerobic exercise in the same session"
+        "t": "mixture of aerobic and nonaerobic exercise: a method of training, especially in athletics, that involves alternating between aerobic and nonaerobic exercise in the same session"
       }
     ],
     "k": "interval training"
@@ -85210,7 +85204,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "occurring between two things: occurring, coming, hoặc standing between two things"
+        "t": "occurring between two things: occurring, coming, or standing between two things"
       }
     ],
     "k": "intervening"
@@ -86072,7 +86066,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "Aboriginal sacred ceremonies: sacred ceremonies performed by some Australian Aboriginal peoples, directed toward plants, animals, và natural phenomena with totemic significance"
+        "t": "Aboriginal sacred ceremonies: sacred ceremonies performed by some Australian Aboriginal peoples, directed toward plants, animals, and natural phenomena with totemic significance"
       }
     ],
     "k": "intichiuma"
@@ -86536,7 +86530,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "pattern of pitch in speech: the pattern of rising và falling pitch in speech that helps to distinguish between questions, statements, và other types of speech"
+        "t": "pattern of pitch in speech: the pattern of rising and falling pitch in speech that helps to distinguish between questions, statements, and other types of speech"
       }
     ],
     "k": "intonation contour"
@@ -86999,7 +86993,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cancer treatment using a body cavity: a cancer treatment in which radioactive material hoặc anticancer drugs are placed within a body cavity close to a tumor"
+        "t": "cancer treatment using a body cavity: a cancer treatment in which radioactive material or anticancer drugs are placed within a body cavity close to a tumor"
       }
     ],
     "k": "intracavitary therapy"
@@ -87086,7 +87080,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "system of protected waterways, including rivers, bays, coastal sounds, và canals, in the eastern và southeastern United States, made up of the Atlantic Intracoastal Waterway và the Gulf Intracoastal Waterway."
+        "t": "system of protected waterways, including rivers, bays, coastal sounds, and canals, in the eastern and southeastern United States, made up of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway."
       },
       {"k": "m", "t": "Length: 4,000 km/2,485 mi"}
     ],
@@ -87275,7 +87269,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "allergy or immunity test: a test for immunity hoặc allergic sensitivity involving the injection of small amounts of a test material into the skin through a fine needle"
+        "t": "allergy or immunity test: a test for immunity or allergic sensitivity involving the injection of small amounts of a test material into the skin through a fine needle"
       }
     ],
     "k": "intradermal test"
@@ -87357,7 +87351,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "inside uterine tube: situated hoặc occurring inside either of the uterine tubes that connect the cavity of the womb to the ovaries"
+        "t": "inside uterine tube: situated or occurring inside either of the uterine tubes that connect the cavity of the womb to the ovaries"
       }
     ],
     "k": "intrafallopian"
@@ -87417,7 +87411,7 @@
     "h": "intragenic",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "located within same gene: located hoặc occurring within the same gene"}
+      {"k": "m", "t": "located within same gene: located or occurring within the same gene"}
     ],
     "k": "intragenic"
   },
@@ -87647,11 +87641,11 @@
       },
       {
         "k": "m",
-        "t": "Cũng có các bộ sản phẩm cung cấp các dịch vụ intranet từ server. Ví dụ như Netscape's SuiteSpot, bao gồm một Web server tiêu chuẩn, mail server, news server, catalog server, directory server, certificate server và một proxy server. Netscape cũng có một môi trường phát triển Web hoàn chỉnh được gọi là ONE (Open Network Environment). Xem phần \"Netscape\", \"Netscape ONE Development Environment\" và \"Netscape SuiteSpot\". Các môi trướng tương tự được bàn đến trong các mục \"IBM Network Computing Framework\", \"Microsoft BackOffice\" và \"Novell IntranetWare\"."
+        "t": "Cũng có các bộ sản phẩm cung cấp các dịch vụ intranet từ server. Ví dụ như Netscape's SuiteSpot, bao gồm một Web server tiêu chuẩn, mail server, news server, catalog server, directory server, certificate server và một proxy server. Netscape cũng có một môi trường phát triển Web hoàn chỉnh được gọi là ONE (Open Network Environment). Xem phần \"Netscape\", \"Netscape ONE Development Environment\" và \"Netscape SuiteSpot\". Các môi trướng tương tự được bàn đến trong các mục \"IBM Network Computing Framework\", \"Microsoft BackOffice\" and \"Novell IntranetWare\"."
       },
       {
         "k": "m",
-        "t": "Các công nghệ Push có thể phân phối thông tin đến người dùng mà không cần họ phải yêu cầu chúng một cách tường minh. Điều này rất có ích trên môi trường intranet nơi các nhân viên cần được thông báo các sự kiện hay được phân phối phần mềm đến máy của mình. Marimba's Castanet là một phần mềm đáng chú ý, nó là môi trường phân phối thông tin. PointCast là một phần mềm khác. Hãy xem \"Marimba Castanet\", \"PointCast\" và \"Push\"."
+        "t": "Các công nghệ Push có thể phân phối thông tin đến người dùng mà không cần họ phải yêu cầu chúng một cách tường minh. Điều này rất có ích trên môi trường intranet nơi các nhân viên cần được thông báo các sự kiện hay được phân phối phần mềm đến máy của mình. Marimba's Castanet là một phần mềm đáng chú ý, nó là môi trường phân phối thông tin. PointCast là một phần mềm khác. Hãy xem \"Marimba Castanet\", \"PointCast\" and \"Push\"."
       },
       {
         "k": "m",
@@ -87668,7 +87662,7 @@
       },
       {
         "k": "m",
-        "t": "Chủ đề này được mô tả kỹ hơn trong phần \"Extranet\". Cũng nên xem \"EDI (Electronic Data Interchange)\", \"Electronic Commerce\", \"Firewall\" và \"Proxy Server\"."
+        "t": "Chủ đề này được mô tả kỹ hơn trong phần \"Extranet\". Cũng nên xem \"EDI (Electronic Data Interchange)\", \"Electronic Commerce\", \"Firewall\" and \"Proxy Server\"."
       }
     ],
     "k": "intranets and extranets"
@@ -88038,7 +88032,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "1. relating to members of same sex: occurring between members of the same sex, hoặc affecting their relations"
+        "t": "1. relating to members of same sex: occurring between members of the same sex, or affecting their relations"
       },
       {
         "k": "m",
@@ -88111,7 +88105,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "trade within a state: trade hoặc business between companies hoặc individuals in the same state, và therefore, under the Constitution, not a proper subject for federal law"
+        "t": "trade within a state: trade hoặc business between companies hoặc individuals in the same state, and therefore, under the Constitution, not a proper subject for federal law"
       }
     ],
     "k": "intrastate commerce"
@@ -88260,7 +88254,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "clotting of blood in a blood vessel: a potentially dangerous condition in which extensive coagulation of blood occurs in closed arteries hoặc veins"
+        "t": "clotting of blood in a blood vessel: a potentially dangerous condition in which extensive coagulation of blood occurs in closed arteries or veins"
       }
     ],
     "k": "intravascular coagulation"
@@ -88387,7 +88381,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "with differentiated characteristics: describes a soil that has a well-developed và differentiated set of soil characteristics profile, determined by the nature of the parent material và age of the soil"
+        "t": "with differentiated characteristics: describes a soil that has a well-developed and differentiated set of soil characteristics profile, determined by the nature of the parent material and age of the soil"
       }
     ],
     "k": "intrazonal"
@@ -88953,7 +88947,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance accepter of orders but not money: a person hoặc organization taking orders to deal in futures hoặc options without accepting payment from customers"
+        "t": "finance accepter of orders but not money: a person or organization taking orders to deal in futures or options without accepting payment from customers"
       }
     ],
     "k": "introducing broker"
@@ -89346,11 +89340,11 @@
       {"k": "m", "t": "1. shy: tending to be shy và quiet hoặc ill at ease in a group"},
       {
         "k": "m",
-        "t": "2. interested in self: self-absorbed và uninterested in other people và the world around"
+        "t": "2. interested in self: self-absorbed and uninterested in other people and the world around"
       },
       {
         "k": "m",
-        "t": "3. medicine turned into itself: turned into itself hoặc pulled back inside a larger part"
+        "t": "3. medicine turned into itself: turned into itself or pulled back inside a larger part"
       }
     ],
     "k": "introverted"
@@ -89933,7 +89927,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada rock marker used by Inuit: rocks piled up to look like a person from a distance, used as a marker hoặc guidepost by the Inuit"
+        "t": "Canada rock marker used by Inuit: rocks piled up to look like a person from a distance, used as a marker or guidepost by the Inuit"
       }
     ],
     "k": "inukshuk"
@@ -92419,7 +92413,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance futures market with delivery anomaly: a market with trends or relationships that appear unusual, ví dụ: when futures with distant delivery dates have lower hoặc declining prices"
+        "t": "finance futures market with delivery anomaly: a market with trends or relationships that appear unusual, ví dụ: when futures with distant delivery dates have lower or declining prices"
       }
     ],
     "k": "inverted market"
@@ -94528,7 +94522,7 @@
     "segs": [
       {"k": "m", "t": "Tính từ"},
       {"k": "m", "t": "1. open only to those invited: open only to people who have been invited"},
-      {"k": "m", "t": "2. requested: asked for hoặc requested"},
+      {"k": "m", "t": "2. requested: asked for or requested"},
       {"k": "m", "t": "noun (số nhiều invitationals)"},
       {
         "k": "m",
@@ -94835,7 +94829,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "business outside help with company's invoicing: the practice of calling in an external organization, for a fee, to take over the administration of a company's invoicing, collect payments, và chase late payments"
+        "t": "business outside help with company's invoicing: the practice of calling in an external organization, for a fee, to take over the administration of a company's invoicing, collect payments, and chase late payments"
       }
     ],
     "k": "invoice factoring"
@@ -95104,7 +95098,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "accidental killing: the unintentional và unlawful killing of one person by another in an act that the killer knew was dangerous hoặc could be a threat to the lives of others"
+        "t": "accidental killing: the unintentional and unlawful killing of one person by another in an act that the killer knew was dangerous or could be a threat to the lives of others"
       }
     ],
     "k": "involuntary manslaughter"
@@ -95651,7 +95645,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "preoccupied with own concerns: not concerned with other people hoặc with what is happening in the wider world"
+        "t": "preoccupied with own concerns: not concerned with other people or with what is happening in the wider world"
       }
     ],
     "k": "inward-looking"
@@ -95787,7 +95781,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "South Africa traditional healer: a traditional healer hoặc diviner, especially of the Zulu people, who often uses herbal remedies"
+        "t": "South Africa traditional healer: a traditional healer or diviner, especially of the Zulu people, who often uses herbal remedies"
       }
     ],
     "k": "inyanga"

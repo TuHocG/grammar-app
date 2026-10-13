@@ -34,7 +34,7 @@
     "h": "-ein",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "a chemical compound related to one whose name ends in \"-in\" hoặc \"-ine\""},
+      {"k": "m", "t": "a chemical compound related to one whose name ends in \"-in\" or \"-ine\""},
       {"k": "m", "t": "fluorescein"}
     ],
     "k": "-ein"
@@ -98,7 +98,7 @@
     "h": "-escent",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "1. beginning hoặc inclined to be, becoming, slightly"},
+      {"k": "m", "t": "1. beginning or inclined to be, becoming, slightly"},
       {"k": "m", "t": "acquiescent"},
       {"k": "m", "t": "alkalescent"},
       {"k": "m", "t": "2. having a particular kind of luster"},

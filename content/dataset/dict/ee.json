@@ -18,7 +18,7 @@
     "h": "EECA",
     "segs": [
       {"k": "m", "t": "Viết tắt của 1. e-commerce end entity certificate authority"},
-      {"k": "m", "t": "2. international law Eastern Europe và Central Asia"}
+      {"k": "m", "t": "2. international law Eastern Europe and Central Asia"}
     ],
     "k": "eeca"
   },
@@ -39,7 +39,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Ireland Scotland an offensive term that deliberately insults somebody's intelligence hoặc foresight (informal insult)"
+        "t": "Ireland Scotland an offensive term that deliberately insults somebody's intelligence or foresight (informal insult)"
       }
     ],
     "k": "eejit"
@@ -207,7 +207,7 @@
   },
   {
     "h": "EENT",
-    "segs": [{"k": "m", "t": "Viết tắt của medicine eye, ear, nose, và throat"}],
+    "segs": [{"k": "m", "t": "Viết tắt của medicine eye, ear, nose, and throat"}],
     "k": "eent"
   },
   {

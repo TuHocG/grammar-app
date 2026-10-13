@@ -1723,10 +1723,10 @@
     "segs": [
       {"k": "m", "t": "(số nhiều at-bats) hoặc at bat (số nhiều at bats)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "1. player's turn to bat: a baseball hoặc softball player's turn to bat"},
+      {"k": "m", "t": "1. player's turn to bat: a baseball or softball player's turn to bat"},
       {
         "k": "m",
-        "t": "2. batter's statistic based only on hits: an official statistic for a baseball hoặc softball batter based on hits, và excluding walks, sacrifices, và ways of getting on base when the ball is not hit"
+        "t": "2. batter's statistic based only on hits: an official statistic for a baseball or softball batter based on hits, và excluding walks, sacrifices, và ways of getting on base when the ball is not hit"
       }
     ],
     "k": "at-bat"
@@ -1795,7 +1795,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "barren, dry, và sparsely populated plateau in northern Chile known for its once enormously abundant nitrate và copper resources."
+        "t": "barren, dry, and sparsely populated plateau in northern Chile known for its once enormously abundant nitrate and copper resources."
       },
       {"k": "m", "t": "Diện tích: 363,000 sq km/140,000 sq mi"}
     ],
@@ -1840,7 +1840,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. lily with single flower: a plant that grows from a bulb. Flowers: single, usually white hoặc pinkish, on a tall stalk. Thường thấy ở: southeastern United States."
+        "t": "U.S. lily with single flower: a plant that grows from a bulb. Flowers: single, usually white or pinkish, on a tall stalk. Thường thấy ở: southeastern United States."
       },
       {"k": "m", "t": "Tên Latinh: Zephyranthes atamasco"}
     ],
@@ -2155,11 +2155,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. tropical fruit: a cone-shaped hoặc heart-shaped green tropical fruit with sweet white flesh"
+        "t": "1. tropical fruit: a cone-shaped or heart-shaped green tropical fruit with sweet white flesh"
       },
       {
         "k": "m",
-        "t": "2. tropical fruit tree: a tree, a cross between cherimoya và sweetsop, that bears atemoya fruit. Thường thấy ở: Philippines."
+        "t": "2. tropical fruit tree: a tree, a cross between cherimoya and sweetsop, that bears atemoya fruit. Thường thấy ở: Philippines."
       }
     ],
     "k": "atemoya"
@@ -2168,7 +2168,7 @@
     "h": "atemporal",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "independent of time: independent of hoặc unaffected by time"}
+      {"k": "m", "t": "independent of time: independent of or unaffected by time"}
     ],
     "k": "atemporal"
   },
@@ -2211,7 +2211,7 @@
   {
     "h": "ATF",
     "segs": [
-      {"k": "m", "t": "Viết tắt của 1. government (Bureau of) Alcohol, Tobacco, và Firearms"},
+      {"k": "m", "t": "Viết tắt của 1. government (Bureau of) Alcohol, Tobacco, and Firearms"},
       {"k": "m", "t": "2. automotive automatic transmission fluid"}
     ],
     "k": "atf"
@@ -2247,7 +2247,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. group of N American languages: a group of Na-Dene languages spoken in northwestern Canada và parts of Alaska, Oregon, và California. 180,000."
+        "t": "1. group of N American languages: a group of Na-Dene languages spoken in northwestern Canada and parts of Alaska, Oregon, and California. 180,000."
       },
       {
         "k": "m",
@@ -2325,7 +2325,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Anglo-Saxon heir to throne: an Anglo-Saxon nobleman hoặc prince, usually the heir to a throne"
+        "t": "Anglo-Saxon heir to throne: an Anglo-Saxon nobleman or prince, usually the heir to a throne"
       }
     ],
     "k": "atheling"
@@ -2617,7 +2617,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "shoe for athletic activities: a shoe designed to be worn during athletic activities hoặc exercising, but worn with casual clothing for any activity"
+        "t": "shoe for athletic activities: a shoe designed to be worn during athletic activities or exercising, but worn with casual clothing for any activity"
       }
     ],
     "k": "athletic shoe"
@@ -2881,7 +2881,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "capital of Georgia, United States, và its largest city. It was an important Civil War battle site."
+        "t": "capital of Georgia, United States, and its largest city. It was an important Civil War battle site."
       },
       {"k": "m", "t": "Dân số khoảng: 419,122 (thống kê năm 2004)"}
     ],
@@ -2935,7 +2935,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in southeastern New Jersey, on the Atlantic Ocean, noted for its beaches và gambling casinos."
+        "t": "city in southeastern New Jersey, on the Atlantic Ocean, noted for its beaches and gambling casinos."
       },
       {"k": "m", "t": "Dân số khoảng: 40,580 (thống kê năm 2004)"}
     ],
@@ -2990,7 +2990,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Canadian provinces of New Brunswick, Nova Scotia, Prince Edward Island, và Newfoundland"
+        "t": "Canadian provinces of New Brunswick, Nova Scotia, Prince Edward Island, and Newfoundland"
       }
     ],
     "k": "atlantic provinces"
@@ -3013,7 +3013,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. species of salmon: a species of salmon that lives in northern Atlantic waters và swims up rivers in northern America và Europe to spawn."
+        "t": "1. species of salmon: a species of salmon that lives in northern Atlantic waters and swims up rivers in northern America and Europe to spawn."
       },
       {"k": "m", "t": "Tên Latinh: Salmo salar"},
       {"k": "m", "t": "2. Atlantic salmon as food: the flesh of an Atlantic salmon as food"}
@@ -3033,7 +3033,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "regional wild yam: the wild yam, the tuberous roots of which are cooked và eaten as a vegetable like potatoes."
+        "t": "regional wild yam: the wild yam, the tuberous roots of which are cooked and eaten as a vegetable like potatoes."
       },
       {"k": "m", "t": "Genus: Dioscorea"},
       {"k": "m", "t": "Atlantic yam in the sense of \"wild yam\" is recorded only in Kansas."}
@@ -3046,7 +3046,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "doctrine of transatlantic cooperation: a doctrine assuming that both western Europe và the United States can benefit politically và economically from cooperation, especially in military matters"
+        "t": "doctrine of transatlantic cooperation: a doctrine assuming that both western Europe and the United States can benefit politically and economically from cooperation, especially in military matters"
       }
     ],
     "k": "atlanticism"
@@ -3132,7 +3132,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "system of mountain ranges that extends through Morocco, Algeria, và Tunisia. The highest peak is Jebel Toubkal in Morocco."
+        "t": "system of mountain ranges that extends through Morocco, Algeria, and Tunisia. The highest peak is Jebel Toubkal in Morocco."
       },
       {"k": "m", "t": "Height: 4,165 m/13,665 ft."}
     ],
@@ -3177,7 +3177,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "device for throwing spear: a spear-throwing device, usually a stick equipped with a thong hoặc socket, used to steady the butt of the spear during the throwing motion"
+        "t": "device for throwing spear: a spear-throwing device, usually a stick equipped with a thong or socket, used to steady the butt of the spear during the throwing motion"
       }
     ],
     "k": "atlatl"
@@ -3887,7 +3887,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hispanic thick sweet drink: a hot sweet drink thickened with a powder made from corn dough và sometimes flavored with crushed fruit, sugar, hoặc honey"
+        "t": "Hispanic thick sweet drink: a hot sweet drink thickened with a powder made from corn dough and sometimes flavored with crushed fruit, sugar, or honey"
       }
     ],
     "k": "atole"
@@ -4025,7 +4025,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "identification technique using spectrum analysis: a technique used to identify substances, especially metals, by analyzing the spectrum produced when the substance is vaporized và absorbs certain wavelengths of light"
+        "t": "identification technique using spectrum analysis: a technique used to identify substances, especially metals, by analyzing the spectrum produced when the substance is vaporized and absorbs certain wavelengths of light"
       }
     ],
     "k": "atomic absorption spectroscopy"
@@ -4041,7 +4041,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "era of use of nuclear energy: the present era, starting with 1945 và the first use of atomic weaponry, considered in terms of the discovery, uses, và social implications of nuclear energy"
+        "t": "era of use of nuclear energy: the present era, starting with 1945 và the first use of atomic weaponry, considered in terms of the discovery, uses, and social implications of nuclear energy"
       }
     ],
     "k": "atomic age"
@@ -4202,7 +4202,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "identification technique using spectrum stimulation: a technique used to identify substances, especially metals, by analyzing the spectrum produced when the substance is vaporized và excited to emit certain wavelengths of light"
+        "t": "identification technique using spectrum stimulation: a technique used to identify substances, especially metals, by analyzing the spectrum produced when the substance is vaporized and excited to emit certain wavelengths of light"
       }
     ],
     "k": "atomic emission spectroscopy"
@@ -4546,7 +4546,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "veteran exposed to radioactivity: a former member of the armed forces who was exposed to radioactivity during the use hoặc testing of nuclear weapons in hoặc after World War II"
+        "t": "veteran exposed to radioactivity: a former member of the armed forces who was exposed to radioactivity during the use or testing of nuclear weapons in or after World War II"
       }
     ],
     "k": "atomic veteran"
@@ -4870,7 +4870,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "atonal composing of music: the process of composing music in an atonal style hoặc using atonality"
+        "t": "atonal composing of music: the process of composing music in an atonal style or using atonality"
       },
       {"k": "m", "t": "-atonalist, noun adjective"}
     ],
@@ -5015,7 +5015,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "drug that lowers blood cholesterol: a drug that blocks the biosynthesis of cholesterol, reducing the level present in the blood, và is effective in reducing heart attacks và strokes"
+        "t": "drug that lowers blood cholesterol: a drug that blocks the biosynthesis of cholesterol, reducing the level present in the blood, and is effective in reducing heart attacks and strokes"
       }
     ],
     "k": "atorvastatin"
@@ -5546,7 +5546,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "one of three Fates: in Greek mythology, one of the three Fates who influenced human destiny. Atropos was known as the Inexorable, và carried the shears that cut the thread of life. Xem ClothoLachesis"
+        "t": "one of three Fates: in Greek mythology, one of the three Fates who influenced human destiny. Atropos was known as the Inexorable, and carried the shears that cut the thread of life. Xem ClothoLachesis"
       }
     ],
     "k": "atropos"
@@ -6012,7 +6012,7 @@
       },
       {
         "k": "m",
-        "t": "2. aggressive political supporter: an aggressive, often unscrupulous partisan used by a politician hoặc political party to denigrate an opponent hoặc opposing party (lóng)"
+        "t": "2. aggressive political supporter: an aggressive, often unscrupulous partisan used by a politician or political party to denigrate an opponent hoặc opposing party (lóng)"
       }
     ],
     "k": "attack dog"
@@ -6034,7 +6034,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fax of damaging material on opponent: a fax containing damaging stories, allegations, accusations, hoặc other harmful material concerning a political opponent, sent simultaneously to various media outlets và opinion-makers (thông tục)"
+        "t": "fax of damaging material on opponent: a fax containing damaging stories, allegations, accusations, or other harmful material concerning a political opponent, sent simultaneously to various media outlets và opinion-makers (thông tục)"
       }
     ],
     "k": "attack fax"
@@ -6082,7 +6082,7 @@
       {"k": "m", "t": "interjection"},
       {
         "k": "m",
-        "t": "expresses encouragement: used to express enthusiastic encouragement hoặc approval to a woman hoặc girl (lóng)"
+        "t": "expresses encouragement: used to express enthusiastic encouragement or approval to a woman hoặc girl (lóng)"
       }
     ],
     "k": "attagirl"
@@ -6796,7 +6796,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody attending something: somebody attending something, especially a conference, course, hoặc seminar"
+        "t": "somebody attending something: somebody attending something, especially a conference, course, or seminar"
       }
     ],
     "k": "attendee"
@@ -6847,7 +6847,7 @@
       },
       {
         "k": "m",
-        "t": "2. doctor with main responsibility for patient: a physician who is mainly responsible for a patient at a particular time hoặc with regard to a particular therapy hoặc treatment"
+        "t": "2. doctor with main responsibility for patient: a physician who is mainly responsible for a patient at a particular time or with regard to a particular therapy or treatment"
       }
     ],
     "k": "attending physician"
@@ -6963,7 +6963,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "attention to Web sites as commodity: a view of the economy in the late 20th century that suggests that people's attention to websites is a valuable và tradable commodity"
+        "t": "attention to Web sites as commodity: a view of the economy in the late 20th century that suggests that people's attention to websites is a valuable and tradable commodity"
       }
     ],
     "k": "attention economy"
@@ -6986,7 +6986,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "line with recipient's name on it: a line in a formally addressed letter hoặc on an envelope addressed to an organization indicating for whom the letter is intended"
+        "t": "line with recipient's name on it: a line in a formally addressed letter or on an envelope addressed to an organization indicating for whom the letter is intended"
       }
     ],
     "k": "attention line"
@@ -7003,7 +7003,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "limits of concentration: the length of time that somebody can concentrate effectively on a task hoặc activity"
+        "t": "limits of concentration: the length of time that somebody can concentrate effectively on a task or activity"
       }
     ],
     "k": "attention span"
@@ -7023,7 +7023,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "attracting notice: attracting notice hoặc interest, especially by being sensational hoặc lurid"
+        "t": "attracting notice: attracting notice or interest, especially by being sensational or lurid"
       },
       {"k": "m", "t": "attention-grabbing headlines"}
     ],
@@ -7118,7 +7118,7 @@
     "h": "attenuated",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "long and narrow: long, narrow, và sometimes tapering"}
+      {"k": "m", "t": "long and narrow: long, narrow, and sometimes tapering"}
     ],
     "k": "attenuated"
   },
@@ -8436,7 +8436,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "the most western of the Aleutian Islands, Alaska. It is rocky và barren. During World War II it was taken by the Japanese in June 1942 và retaken by U.S. và Canadian forces in June 1943."
+        "t": "the most western of the Aleutian Islands, Alaska. It is rocky and barren. During World War II it was taken by the Japanese in June 1942 và retaken by U.S. và Canadian forces in June 1943."
       },
       {"k": "m", "t": "Diện tích: 1,010 sq km/390 sq mi"}
     ],

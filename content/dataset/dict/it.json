@@ -429,7 +429,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "three-note chord: a three-note chord consisting of an augmented sixth chord và a major third above the root of the chord, used for modulation và for providing color"
+        "t": "three-note chord: a three-note chord consisting of an augmented sixth chord and a major third above the root of the chord, used for modulation and for providing color"
       }
     ],
     "k": "italian sixth"
@@ -587,7 +587,7 @@
     "h": "Italo-",
     "segs": [
       {"k": "m", "t": "prefix"},
-      {"k": "m", "t": "Italy hoặc Italian"},
+      {"k": "m", "t": "Italy or Italian"},
       {"k": "m", "t": "Italo-American"}
     ],
     "k": "italo-"
@@ -599,7 +599,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "lover of all things Italian: somebody who loves Italy và the Italian people, culture, hoặc language"
+        "t": "lover of all things Italian: somebody who loves Italy and the Italian people, culture, or language"
       },
       {"k": "m", "t": "-Italophilia (danh từ)"}
     ],
@@ -610,7 +610,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "country in southern Europe. Its mainland area projects as a peninsula into the Mediterranean Sea, và it includes, among others, the islands of Elba, Sicily, và Sardinia."
+        "t": "country in southern Europe. Its mainland area projects as a peninsula into the Mediterranean Sea, and it includes, among others, the islands of Elba, Sicily, and Sardinia."
       },
       {"k": "m", "t": "Language: Italian"},
       {"k": "m", "t": "Currency: euro"},

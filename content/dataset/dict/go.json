@@ -684,7 +684,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "accept something or obey somebody: to accept something hoặc obey somebody, especially reluctantly hoặc to the surprise of others"
+        "t": "accept something or obey somebody: to accept something or obey somebody, especially reluctantly or to the surprise of others"
       },
       {"k": "m", "t": "You can't go along with it-it's breaking the law."}
     ],
@@ -762,7 +762,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "break previous agreement: to have a change of mind about something previously agreed hoặc promised"
+        "t": "break previous agreement: to have a change of mind about something previously agreed or promised"
       },
       {"k": "m", "t": "You can't go back on your word-a deal's a deal."}
     ],
@@ -1347,7 +1347,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "U.K. start new relationship with somebody: to begin a relationship with somebody, especially abandoning a spouse hoặc partner in order to do this"
+        "t": "U.K. start new relationship with somebody: to begin a relationship with somebody, especially abandoning a spouse or partner in order to do this"
       }
     ],
     "k": "go off with"
@@ -1378,7 +1378,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "U.K. criticize or nag somebody: to criticize hoặc nag another person persistently hoặc at length (thông tục)"
+        "t": "U.K. criticize or nag somebody: to criticize or nag another person persistently hoặc at length (thông tục)"
       },
       {"k": "m", "t": "He's always going on at me about how scruffy I look."}
     ],
@@ -1404,8 +1404,8 @@
     "h": "go out to",
     "segs": [
       {"k": "m", "t": "transitive verb"},
-      {"k": "m", "t": "be extended to somebody: to be offered hoặc extended to a person hoặc group"},
-      {"k": "m", "t": "Our thoughts go out tonight to the friends và relatives of the victims."}
+      {"k": "m", "t": "be extended to somebody: to be offered or extended to a person or group"},
+      {"k": "m", "t": "Our thoughts go out tonight to the friends and relatives of the victims."}
     ],
     "k": "go out to"
   },
@@ -2150,7 +2150,10 @@
   },
   {
     "h": "go-getting",
-    "segs": [{"k": "m", "t": "Tính từ"}, {"k": "m", "t": "enterprising: ambitious và enterprising"}],
+    "segs": [
+      {"k": "m", "t": "Tính từ"},
+      {"k": "m", "t": "enterprising: ambitious and enterprising"}
+    ],
     "k": "go-getting"
   },
   {
@@ -2194,7 +2197,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "proceeding or not on one decision: requiring hoặc involving a definitive decision either to proceed with a course of action hoặc to abandon it"
+        "t": "proceeding or not on one decision: requiring or involving a definitive decision either to proceed with a course of action or to abandon it"
       }
     ],
     "k": "go-no-go"
@@ -2233,7 +2236,7 @@
       },
       {
         "k": "m",
-        "t": "2. valued advisor: somebody who can be trusted to provide a particular service hoặc deal with a particular problem (thông tục)"
+        "t": "2. valued advisor: somebody who can be trusted to provide a particular service or deal with a particular problem (thông tục)"
       },
       {"k": "m", "t": "He's the go-to guy for cars when filmmakers come to town."}
     ],
@@ -2425,7 +2428,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. difference between goals for and against: in soccer và other sports, the difference between the number of goals scored for và against a team in a specific competition."
+        "t": "U.K. difference between goals for and against: in soccer and other sports, the difference between the number of goals scored for and against a team in a specific competition."
       },
       {"k": "m", "t": "It is often used as a decider between teams with equal points."}
     ],
@@ -2490,7 +2493,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "organized to achieve particular goals: strongly motivated và highly organized in achieving tasks that are specified in advance"
+        "t": "organized to achieve particular goals: strongly motivated and highly organized in achieving tasks that are specified in advance"
       }
     ],
     "k": "goal-directed"
@@ -2627,7 +2630,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "area in front of goal: in games such as soccer và hockey, the area directly in front of the goal"
+        "t": "area in front of goal: in games such as soccer and hockey, the area directly in front of the goal"
       }
     ],
     "k": "goalmouth"
@@ -2655,10 +2658,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều goalscorers)"},
       {"k": "pos", "t": "danh từ"},
-      {
-        "k": "m",
-        "t": "U.K. player who scores goal: a player who scores hoặc has just scored a goal"
-      }
+      {"k": "m", "t": "U.K. player who scores goal: a player who scores or has just scored a goal"}
     ],
     "k": "goalscorer"
   },
@@ -2677,7 +2677,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. guarding goal: the act of trying to keep a puck hoặc ball from entering a goal, especially in hockey"
+        "t": "1. guarding goal: the act of trying to keep a puck or ball from entering a goal, especially in hockey"
       },
       {
         "k": "m",
@@ -2728,7 +2728,7 @@
         "k": "m",
         "t": "mammal related to goat: a mammal related to goats that also has features characteristic of antelopes."
       },
-      {"k": "m", "t": "Chamois, goral, và mountain goat are goat antelopes."},
+      {"k": "m", "t": "Chamois, goral, and mountain goat are goat antelopes."},
       {"k": "m", "t": "Subfamily: Caprinae"}
     ],
     "k": "goat antelope"
@@ -2770,7 +2770,7 @@
     "h": "goat's milk",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "milk from goats: milk from a goat, used for drinking và for making cheese"}
+      {"k": "m", "t": "milk from goats: milk from a goat, used for drinking and for making cheese"}
     ],
     "k": "goat's milk"
   },
@@ -2816,7 +2816,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Caribbean goat meat and vegetable stew: a lightly thickened stew made with goat meat và vegetables, often served at weddings và parties"
+        "t": "Caribbean goat meat and vegetable stew: a lightly thickened stew made with goat meat and vegetables, often served at weddings and parties"
       }
     ],
     "k": "goat-water"
@@ -3144,7 +3144,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "South Asia cauliflower or cabbage: in Indian cuisine, cauliflower hoặc cabbage"
+        "t": "South Asia cauliflower or cabbage: in Indian cuisine, cauliflower or cabbage"
       }
     ],
     "k": "gobi"
@@ -3154,7 +3154,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "desert in northern China và southern Mongolia, the coldest và one of the largest deserts in the world."
+        "t": "desert in northern China and southern Mongolia, the coldest and one of the largest deserts in the world."
       },
       {"k": "m", "t": "Diện tích: 1,300,000 sq km/500,000 sq mi"}
     ],
@@ -3196,7 +3196,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Ireland U.K. regional an offensive term for a person who is regarded as contemptible, especially for being unintelligent hoặc incompetent (insult)"
+        "t": "Ireland U.K. regional an offensive term for a person who is regarded as contemptible, especially for being unintelligent or incompetent (insult)"
       }
     ],
     "k": "gobshite"
@@ -3302,7 +3302,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "computer game of territory management: a computer simulation game in which a player is managing a large imaginary territory such as a world hoặc an ecosystem but does not represent a person"
+        "t": "computer game of territory management: a computer simulation game in which a player is managing a large imaginary territory such as a world or an ecosystem but does not represent a person"
       }
     ],
     "k": "god sim"
@@ -3314,7 +3314,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. time for religious program: a scheduled time for religious programs on radio hoặc television (sometimes considered offensive)"
+        "t": "U.K. time for religious program: a scheduled time for religious programs on radio or television (sometimes considered offensive)"
       }
     ],
     "k": "god slot"
@@ -3354,7 +3354,7 @@
     "h": "God's country (1)",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "beloved place: a nation hoặc piece of land that is dearly loved"}
+      {"k": "m", "t": "beloved place: a nation or piece of land that is dearly loved"}
     ],
     "k": "god's country (1)"
   },
@@ -3365,11 +3365,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small woven decoration: a small object in the form of a circle within a rectangle, used as a decoration và symbol of good fortune."
+        "t": "small woven decoration: a small object in the form of a circle within a rectangle, used as a decoration and symbol of good fortune."
       },
       {
         "k": "m",
-        "t": "A god's eye is usually made with colored yarns hoặc thread wound around a framework of sticks."
+        "t": "A god's eye is usually made with colored yarns or thread wound around a framework of sticks."
       }
     ],
     "k": "god's eye"
@@ -3389,7 +3389,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody wonderful: an extremely admirable, valued, hoặc talented person (often used ironically)"
+        "t": "somebody wonderful: an extremely admirable, valued, or talented person (often used ironically)"
       },
       {"k": "m", "t": "He thought he was God's gift to the movie industry."}
     ],
@@ -3401,7 +3401,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australia New Zealand New Zealand or Australia: a country hoặc area warmly regarded by its inhabitants as specially favored, especially Australia hoặc New Zealand (thông tục) (often used ironically)"
+        "t": "Australia New Zealand New Zealand or Australia: a country or area warmly regarded by its inhabitants as specially favored, especially Australia hoặc New Zealand (thông tục) (often used ironically)"
       }
     ],
     "k": "god's own"
@@ -3456,7 +3456,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "basic: existing hoặc applying as part of the natural order of the universe rather than arranged by humanity"
+        "t": "basic: existing or applying as part of the natural order of the universe rather than arranged by humanity"
       },
       {"k": "m", "t": "God-given abilities"}
     ],
@@ -3496,7 +3496,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in central India that is sacred to Hindus. It rises in the Western Ghats và empties into the Bay of Bengal."
+        "t": "river in central India that is sacred to Hindus. It rises in the Western Ghats and empties into the Bay of Bengal."
       },
       {"k": "m", "t": "Length: 1,400 km/900 mi"}
     ],
@@ -4027,7 +4027,7 @@
       },
       {
         "k": "m",
-        "t": "In the book of Ezekiel, Gog is named as the ruler of a land named Magog, while Revelations names Gog và Magog as nations that were under Satan's rule."
+        "t": "In the book of Ezekiel, Gog is named as the ruler of a land named Magog, while Revelations names Gog and Magog as nations that were under Satan's rule."
       }
     ],
     "k": "gog and magog"
@@ -4134,7 +4134,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "N Celtic languages: the northern branch of the Celtic family of languages, comprising Irish Gaelic, Scottish Gaelic, và Manx. 300,000."
+        "t": "N Celtic languages: the northern branch of the Celtic family of languages, comprising Irish Gaelic, Scottish Gaelic, and Manx. 300,000."
       },
       {"k": "m", "t": "-Goidelic (tính từ)"}
     ],
@@ -4521,7 +4521,7 @@
       },
       {
         "k": "m",
-        "t": "2. exclusive office space: the floor hoặc area in an office building where the top management of a company has its offices (lóng)"
+        "t": "2. exclusive office space: the floor or area in an office building where the top management of a company has its offices (lóng)"
       }
     ],
     "k": "gold coast"
@@ -4600,7 +4600,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gold for dollars: a former monetary system in which U.S. currency was directly convertible into gold, và other countries' currencies were indirectly convertible into the gold-backed U.S. dollar at a fixed rate"
+        "t": "gold for dollars: a former monetary system in which U.S. currency was directly convertible into gold, and other countries' currencies were indirectly convertible into the gold-backed U.S. dollar at a fixed rate"
       }
     ],
     "k": "gold exchange"
@@ -4979,7 +4979,7 @@
       {"k": "m", "t": "a gold-rimmed mug"},
       {
         "k": "m",
-        "t": "2. having a gold frame: having a thin frame that is gold-colored hoặc made of gold"
+        "t": "2. having a gold frame: having a thin frame that is gold-colored or made of gold"
       },
       {"k": "m", "t": "gold-rimmed eyeglasses"}
     ],
@@ -5037,7 +5037,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle goldbricked, present participle goldbricking, 3rd person present singular goldbricks)"
+        "t": "(past and past participle goldbricked, present participle goldbricking, 3rd person present singular goldbricks)"
       },
       {"k": "m", "t": "intransitive verb"},
       {"k": "m", "t": "avoid work: to avoid work by making excuses (thông tục) (disapproving)"},
@@ -5228,7 +5228,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "materialistic goal: an unworthy object that is esteemed hoặc worshiped, especially money"
+        "t": "materialistic goal: an unworthy object that is esteemed or worshiped, especially money"
       }
     ],
     "k": "golden calf"
@@ -5251,7 +5251,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "yellow-flowered N American water plant: a water plant with floating leaves và a yellow, club-shaped flower sheath. Thường thấy ở: eastern North America."
+        "t": "yellow-flowered N American water plant: a water plant with floating leaves and a yellow, club-shaped flower sheath. Thường thấy ở: eastern North America."
       },
       {"k": "m", "t": "Tên Latinh: Orontium aquaticum"}
     ],
@@ -5352,7 +5352,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small animal with cheek pouches: a small animal with tan fur, a short tail, và large cheek pouches for storing food, which is often kept as a pet hoặc used as a laboratory animal."
+        "t": "small animal with cheek pouches: a small animal with tan fur, a short tail, and large cheek pouches for storing food, which is often kept as a pet or used as a laboratory animal."
       },
       {
         "k": "m",
@@ -5409,7 +5409,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada prosperous part of S Ontario: the prosperous region of southern Ontario running around the western end of Lake Ontario, including Toronto và Hamilton"
+        "t": "Canada prosperous part of S Ontario: the prosperous region of southern Ontario running around the western end of Lake Ontario, including Toronto and Hamilton"
       }
     ],
     "k": "golden horseshoe"
@@ -5462,7 +5462,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "worm damaging to potatoes: a small worm that can infest potato fields, causing severe damage to crops và loss of productive farm land."
+        "t": "worm damaging to potatoes: a small worm that can infest potato fields, causing severe damage to crops and loss of productive farm land."
       },
       {"k": "m", "t": "Tên Latinh: Heterodera rostochiensis"}
     ],
@@ -5634,7 +5634,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "freshwater or marine alga: a freshwater hoặc marine alga that is yellow to golden brown in color."
+        "t": "freshwater or marine alga: a freshwater or marine alga that is yellow to golden brown in color."
       },
       {"k": "m", "t": "Division: Chrysophyta (often used in the plural)"}
     ],
@@ -5658,7 +5658,7 @@
       {"k": "m", "t": "Tên Latinh: Bucephala clangula, Bucephala islandica"},
       {
         "k": "m",
-        "t": "2. insect with yellow eyes: an insect with yellow eyes và delicate lacy wings."
+        "t": "2. insect with yellow eyes: an insect with yellow eyes and delicate lacy wings."
       },
       {"k": "m", "t": "Family: Chrysopidae"}
     ],
@@ -5704,7 +5704,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small woodland plant: a small perennial woodland plant of the buttercup family that has a thick yellow rootstock used in herbal medicine for its healing và antiseptic properties. Flowers: small, greenish. Thường thấy ở: eastern North America."
+        "t": "small woodland plant: a small perennial woodland plant of the buttercup family that has a thick yellow rootstock used in herbal medicine for its healing and antiseptic properties. Flowers: small, greenish. Thường thấy ở: eastern North America."
       },
       {"k": "m", "t": "Tên Latinh: Hydrastis canadensis"}
     ],
@@ -5770,11 +5770,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. bowl for goldfish: a clear glass hoặc plastic bowl in which to raise và keep goldfish"
+        "t": "1. bowl for goldfish: a clear glass or plastic bowl in which to raise and keep goldfish"
       },
       {
         "k": "m",
-        "t": "2. place without privacy: a situation hoặc place that is always open to public view hoặc scrutiny"
+        "t": "2. place without privacy: a situation or place that is always open to public view or scrutiny"
       }
     ],
     "k": "goldfish bowl"
@@ -5853,7 +5853,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "low-growing evergreen plant: a low-growing evergreen plant found in mossy woods hoặc swamps. Thường thấy ở: North America, northern Asia, và Europe."
+        "t": "low-growing evergreen plant: a low-growing evergreen plant found in mossy woods hoặc swamps. Thường thấy ở: North America, northern Asia, and Europe."
       },
       {"k": "m", "t": "Tên Latinh: Coptis trifolia"}
     ],
@@ -5886,7 +5886,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "magical clay figure: in Jewish legend, an imaginary being made of clay và brought to life by magical incantations."
+        "t": "magical clay figure: in Jewish legend, an imaginary being made of clay and brought to life by magical incantations."
       },
       {
         "k": "m",
@@ -6018,7 +6018,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "South Asia fried potato ball: in Indian cuisine, a ball of mashed potato with spices và tamarind juice, wrapped in puff pastry và fried"
+        "t": "South Asia fried potato ball: in Indian cuisine, a ball of mashed potato with spices and tamarind juice, wrapped in puff pastry and fried"
       }
     ],
     "k": "golgappa"
@@ -6109,7 +6109,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "very large beetle: a very large scarab beetle that can measure up to 15 cm/6 in. in length và has bold black, white, và brown markings. Thường thấy ở: tropical Africa."
+        "t": "very large beetle: a very large scarab beetle that can measure up to 15 cm/6 in. in length and has bold black, white, và brown markings. Thường thấy ở: tropical Africa."
       },
       {"k": "m", "t": "Tên Latinh: Goliathus giganteus"}
     ],
@@ -6206,7 +6206,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "sesame salt: a seasoning mixture made of ground sesame seeds và salt, used especially in Japanese cooking"
+        "t": "sesame salt: a seasoning mixture made of ground sesame seeds and salt, used especially in Japanese cooking"
       }
     ],
     "k": "gomasio"
@@ -6388,7 +6388,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "hormone that causes release of hormones: a hormone released by the hypothalamus that causes the secretion of luteinizing hormone và follicle-stimulating hormone by the pituitary gland"
+        "t": "hormone that causes release of hormones: a hormone released by the hypothalamus that causes the secretion of luteinizing hormone and follicle-stimulating hormone by the pituitary gland"
       }
     ],
     "k": "gonadotropic-releasing hormone"
@@ -6521,7 +6521,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ancient landmass, consisting of the southern part of the supercontinent of Pangea. Comprising South America, Africa, peninsular South Asia, Australia, và Antarctica, it began to break up approximately 200 million years ago. Xem Laurasia"
+        "t": "ancient landmass, consisting of the southern part of the supercontinent of Pangea. Comprising South America, Africa, peninsular South Asia, Australia, and Antarctica, it began to break up approximately 200 million years ago. Xem Laurasia"
       }
     ],
     "k": "gondwanaland"
@@ -6707,7 +6707,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "marine biology extinct sea animal: an extinct sea mollusk with a spirally coiled, partitioned shell, similar to an ammonite và typical of the late Devonian to Permian periods. Xem ceratite"
+        "t": "marine biology extinct sea animal: an extinct sea mollusk with a spirally coiled, partitioned shell, similar to an ammonite and typical of the late Devonian to Permian periods. Xem ceratite"
       }
     ],
     "k": "goniatite"
@@ -7154,7 +7154,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "reproductive pore: an external reproductive pore in some insects và worms through which reproductive cells are secreted"
+        "t": "reproductive pore: an external reproductive pore in some insects and worms through which reproductive cells are secreted"
       }
     ],
     "k": "gonopore"
@@ -7302,10 +7302,10 @@
     "h": "gonzo",
     "segs": [
       {"k": "m", "t": "Tính từ (lóng)"},
-      {"k": "m", "t": "1. unconventional: unusual hoặc strange"},
+      {"k": "m", "t": "1. unconventional: unusual or strange"},
       {
         "k": "m",
-        "t": "2. idiosyncratically subjective: characterized by subjective interpretation và exaggeration"
+        "t": "2. idiosyncratically subjective: characterized by subjective interpretation and exaggeration"
       },
       {"k": "m", "t": "Gonzo journalism is unlike the work of the impartial observer."}
     ],
@@ -7614,8 +7614,8 @@
     "segs": [
       {"k": "m", "t": "(số nhiều good causes)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "1. charity: something hoặc somebody deserving help, especially a charity"},
-      {"k": "m", "t": "2. legal reason: a sufficient legal standard hoặc reason"}
+      {"k": "m", "t": "1. charity: something or somebody deserving help, especially a charity"},
+      {"k": "m", "t": "2. legal reason: a sufficient legal standard or reason"}
     ],
     "k": "good cause"
   },
@@ -7734,7 +7734,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody good: a worthy hoặc law-abiding person, especially in a novel hoặc movie (thông tục)"
+        "t": "somebody good: a worthy or law-abiding person, especially in a novel hoặc movie (thông tục)"
       }
     ],
     "k": "good guy"
@@ -7764,7 +7764,7 @@
     "h": "good life",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "comfortable existence: a life of carefree comfort và luxury"},
+      {"k": "m", "t": "comfortable existence: a life of carefree comfort and luxury"},
       {"k": "m", "t": "living the good life in Palm Springs"}
     ],
     "k": "good life"
@@ -7834,7 +7834,7 @@
     "h": "good name",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "reputation: somebody's reputation for honesty và integrity"}
+      {"k": "m", "t": "reputation: somebody's reputation for honesty and integrity"}
     ],
     "k": "good name"
   },
@@ -7869,7 +7869,7 @@
     "h": "good offices",
     "segs": [
       {"k": "m", "t": "danh từ số nhiều"},
-      {"k": "m", "t": "mediation: help hoặc support, especially help in resolving a dispute"}
+      {"k": "m", "t": "mediation: help or support, especially help in resolving a dispute"}
     ],
     "k": "good offices"
   },
@@ -7892,7 +7892,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "stereotypical Southern man: a stereotype of a man who is part of a peer group và conforms to the behavior characteristic of the group, especially a white man in parts of the rural southern United States (often offensive)"
+        "t": "stereotypical Southern man: a stereotype of a man who is part of a peer group and conforms to the behavior characteristic of the group, especially a white man in parts of the rural southern United States (often offensive)"
       }
     ],
     "k": "good old boy"
@@ -8019,7 +8019,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều good turns)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "helpful act: a friendly act that helps hoặc benefits somebody else"},
+      {"k": "m", "t": "helpful act: a friendly act that helps or benefits somebody else"},
       {"k": "m", "t": "One good turn deserves another."}
     ],
     "k": "good turn"
@@ -8194,7 +8194,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "weed with small green flowers: a weed of the goosefoot family with arrow-shaped leaves và small green flowers."
+        "t": "weed with small green flowers: a weed of the goosefoot family with arrow-shaped leaves and small green flowers."
       },
       {"k": "m", "t": "Tên Latinh: Chenopodium bonus-henricus"}
     ],
@@ -8337,7 +8337,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "valid until withdrawn: used to describe an order to buy hoặc sell securities that remains valid until either executed hoặc withdrawn"
+        "t": "valid until withdrawn: used to describe an order to buy or sell securities that remains valid until either executed or withdrawn"
       }
     ],
     "k": "good-till-canceled"
@@ -8443,11 +8443,11 @@
       {"k": "m", "t": "plural noun (thông tục)"},
       {
         "k": "m",
-        "t": "1. treats: foods such as cakes và chocolates that are regarded as tasty treats"
+        "t": "1. treats: foods such as cakes and chocolates that are regarded as tasty treats"
       },
       {
         "k": "m",
-        "t": "2. small luxurious items: objects that are nice to own hoặc receive, especially small luxuries"
+        "t": "2. small luxurious items: objects that are nice to own or receive, especially small luxuries"
       }
     ],
     "k": "goodies"
@@ -8611,7 +8611,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "movable possessions: items of movable property, as distinct from buildings và land (formal) (often humorous)"
+        "t": "movable possessions: items of movable property, as distinct from buildings and land (formal) (often humorous)"
       }
     ],
     "k": "goods and chattels"
@@ -8944,7 +8944,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "country estate và racecourse in West Sussex, southern England, near Chichester"
+        "t": "country estate and racecourse in West Sussex, southern England, near Chichester"
       }
     ],
     "k": "goodwood"
@@ -9098,7 +9098,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "rider with right foot forward: in skateboarding và similar sports, somebody who rides on the board with his hoặc her right foot nearest to the front end"
+        "t": "rider with right foot forward: in skateboarding and similar sports, somebody who rides on the board with his or her right foot nearest to the front end"
       },
       {"k": "m", "t": "-goofy-foot, adjective"},
       {"k": "m", "t": "-goofy-footed (tính từ)"}
@@ -9192,7 +9192,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "close friend: a close friend hoặc associate, especially an older person acting as somebody's mentor (lóng)"
+        "t": "close friend: a close friend or associate, especially an older person acting as somebody's mentor (lóng)"
       }
     ],
     "k": "goombah"
@@ -9205,7 +9205,7 @@
       {"k": "m", "t": "1. goatskin drum: a goatskin drum beaten with the hands"},
       {
         "k": "m",
-        "t": "2. music or dance: the type of music hoặc dance associated with the playing of goombay drums"
+        "t": "2. music or dance: the type of music or dance associated with the playing of goombay drums"
       }
     ],
     "k": "goombay"
@@ -9237,7 +9237,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều goondas)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "South Asia ruffian: a ruffian hoặc hooligan"},
+      {"k": "m", "t": "South Asia ruffian: a ruffian or hooligan"},
       {"k": "m", "t": "-goondaism (danh từ)"}
     ],
     "k": "goonda"
@@ -9332,7 +9332,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "barnacle attached to wood: a barnacle with a flattened shell, feathery appendages, và a fleshy stalk used to attach itself to surfaces, especially floating wood."
+        "t": "barnacle attached to wood: a barnacle with a flattened shell, feathery appendages, and a fleshy stalk used to attach itself to surfaces, especially floating wood."
       },
       {"k": "m", "t": "Genus: Lepas"}
     ],
@@ -9349,7 +9349,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "town in southeastern South Carolina, directly northwest of Charleston và southeast of Columbia."
+        "t": "town in southeastern South Carolina, directly northwest of Charleston and southeast of Columbia."
       },
       {"k": "m", "t": "Dân số khoảng: 32,250 (thống kê năm 2004)"}
     ],
@@ -9702,7 +9702,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(comparative goosier, superlative goosiest) hoặc goosey (comparative goosier, superlative goosiest)"
+        "t": "(comparative goosier, superlative goosiest) or goosey (comparative goosier, superlative goosiest)"
       },
       {"k": "m", "t": "Tính từ"},
       {"k": "m", "t": "1. resembling goose: similar to a goose"},
@@ -9712,7 +9712,7 @@
       },
       {
         "k": "m",
-        "t": "3. silly: behaving in what is regarded as a silly hoặc scatterbrained way (disapproving)"
+        "t": "3. silly: behaving in what is regarded as a silly or scatterbrained way (disapproving)"
       }
     ],
     "k": "goosy"
@@ -9808,7 +9808,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "wood of Noah's ark: in the Bible, the wood from which Noah's ark was supposed to have been made, hoặc the tree from which it came"
+        "t": "wood of Noah's ark: in the Bible, the wood from which Noah's ark was supposed to have been made, or the tree from which it came"
       }
     ],
     "k": "gopherwood"
@@ -9837,7 +9837,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "industrial city in Uttar Pradesh State, northern India. It is a major railroad hub và trading center."
+        "t": "industrial city in Uttar Pradesh State, northern India. It is a major railroad hub and trading center."
       },
       {"k": "m", "t": "Dân số khoảng: 505,566 (1991)"}
     ],
@@ -9854,7 +9854,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "town in eastern Bosnia và Herzegovina. A predominantly Muslim town, it was one of six \"safe areas\" designated by the UN Security Council during the Bosnian-Croatian-Serbian War."
+        "t": "town in eastern Bosnia and Herzegovina. A predominantly Muslim town, it was one of six \"safe areas\" designated by the UN Security Council during the Bosnian-Croatian-Serbian War."
       },
       {"k": "m", "t": "Dân số khoảng: 37,500 (1991)"}
     ],
@@ -9944,7 +9944,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "the longest river in Tasmania, Australia, rising in the center of the island và flowing west into the southern Indian Ocean."
+        "t": "the longest river in Tasmania, Australia, rising in the center of the island and flowing west into the southern Indian Ocean."
       },
       {"k": "m", "t": "Length: 181 km/112 mi."}
     ],
@@ -10133,7 +10133,7 @@
   {
     "h": "Gorham",
     "segs": [
-      {"k": "m", "t": "town in southwestern Maine, north of Saco và west of Portland."},
+      {"k": "m", "t": "town in southwestern Maine, north of Saco and west of Portland."},
       {"k": "m", "t": "Dân số khoảng: 15,145 (thống kê năm 2004)"}
     ],
     "k": "gorham"
@@ -10245,7 +10245,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "snack food: a snack mixture used especially by hikers và campers, often made of nuts, seeds, dried fruits, và chocolate chips"
+        "t": "snack food: a snack mixture used especially by hikers and campers, often made of nuts, seeds, dried fruits, and chocolate chips"
       }
     ],
     "k": "gorp"
@@ -10330,7 +10330,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in northern Indiana, on the Elkhart River, northwest of Fort Wayne và southeast of Elkhart."
+        "t": "city in northern Indiana, on the Elkhart River, northwest of Fort Wayne and southeast of Elkhart."
       },
       {"k": "m", "t": "Dân số khoảng: 30,555 (thống kê năm 2004)"}
     ],
@@ -10340,7 +10340,7 @@
     "h": "gosht",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "South Asia red meat: red meat such as lamb hoặc beef"}
+      {"k": "m", "t": "South Asia red meat: red meat such as lamb or beef"}
     ],
     "k": "gosht"
   },
@@ -10379,7 +10379,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "religious music: highly emotional evangelical vocal music that originated among African American Christians in the southern United States và was a strong influence in the development of soul music"
+        "t": "religious music: highly emotional evangelical vocal music that originated among African American Christians in the southern United States and was a strong influence in the development of soul music"
       }
     ],
     "k": "gospel music"
@@ -10682,10 +10682,10 @@
       {"k": "m", "t": "interjection"},
       {
         "k": "m",
-        "t": "expressing triumph over another: used to indicate that somebody has been successfully tricked hoặc caught out in some way hoặc to indicate comprehension of something"
+        "t": "expressing triumph over another: used to indicate that somebody has been successfully tricked or caught out in some way or to indicate comprehension of something"
       },
       {"k": "m", "t": "noun (số nhiều gotchas)"},
-      {"k": "m", "t": "1. unexpected problem: an unexpected problem hoặc drawback"},
+      {"k": "m", "t": "1. unexpected problem: an unexpected problem or drawback"},
       {
         "k": "m",
         "t": "2. unforeseen software problem: an unforeseen problem in the way a piece of software works"
@@ -10725,7 +10725,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "seaport và industrial city on the Gọta River estuary in southwestern Sweden. It is the second largest city và principal port of Sweden."
+        "t": "seaport and industrial city on the Gọta River estuary in southwestern Sweden. It is the second largest city and principal port of Sweden."
       },
       {"k": "m", "t": "Dân số khoảng: 478,055 (thống kê năm 2004) Swedish name Gọteborg"}
     ],
@@ -10964,7 +10964,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fried fish or chicken piece: a long strip of fish hoặc chicken coated in egg và breadcrumbs và deep-fried"
+        "t": "fried fish or chicken piece: a long strip of fish or chicken coated in egg và breadcrumbs và deep-fried"
       }
     ],
     "k": "goujon"
@@ -11001,7 +11001,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "popular aquarium fish: a freshwater fish, many species of which are capable of breathing air và are often kept in aquariums. Thường thấy ở: Southeast Asia."
+        "t": "popular aquarium fish: a freshwater fish, many species of which are capable of breathing air and are often kept in aquariums. Thường thấy ở: Southeast Asia."
       },
       {"k": "m", "t": "Family: Anabantidae"}
     ],
@@ -12241,7 +12241,7 @@
       {"k": "m", "t": "Al Qayrawan Governorate"},
       {
         "k": "m",
-        "t": "2. office of governor: the condition of being a governor, hoặc the term of office of a governor"
+        "t": "2. office of governor: the condition of being a governor, or the term of office of a governor"
       }
     ],
     "k": "governorate"
@@ -12278,10 +12278,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều gowans)"},
       {"k": "pos", "t": "danh từ"},
-      {
-        "k": "m",
-        "t": "Scotland field flower: any yellow hoặc white field flower, especially a daisy"
-      }
+      {"k": "m", "t": "Scotland field flower: any yellow or white field flower, especially a daisy"}
     ],
     "k": "gowan"
   },

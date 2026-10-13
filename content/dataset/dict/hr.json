@@ -54,7 +54,10 @@
   {
     "h": "HRSD",
     "segs": [
-      {"k": "m", "t": "Viết tắt của government Department of Human Resources và Skills Development"}
+      {
+        "k": "m",
+        "t": "Viết tắt của government Department of Human Resources and Skills Development"
+      }
     ],
     "k": "hrsd"
   },

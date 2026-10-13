@@ -93,7 +93,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "drug for skin cancer: a dicarboxylic acid that is a yellowish to white powder. Dùng để: treatment of skin cancer và other skin disorders."
+        "t": "drug for skin cancer: a dicarboxylic acid that is a yellowish to white powder. Dùng để: treatment of skin cancer and other skin disorders."
       }
     ],
     "k": "azelaic acid"
@@ -524,7 +524,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "method of map projection: a method of map projection in which a straight line from the center to any given point represents the shortest distance to that point và can be measured to scale"
+        "t": "method of map projection: a method of map projection in which a straight line from the center to any given point represents the shortest distance to that point and can be measured to scale"
       }
     ],
     "k": "azimuthal equidistant projection"
@@ -583,7 +583,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "chemical compound with six-sided ring structure: an organic chemical compound with a six-sided ring structure containing one hoặc more atoms of nitrogen"
+        "t": "chemical compound with six-sided ring structure: an organic chemical compound with a six-sided ring structure containing one or more atoms of nitrogen"
       }
     ],
     "k": "azine"
@@ -797,7 +797,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "language family in Americas: a family of Native North và Central American languages, one of whose main branches is Uto-Aztecan"
+        "t": "language family in Americas: a family of Native North and Central American languages, one of whose main branches is Uto-Aztecan"
       },
       {"k": "m", "t": "-Aztec-Tanoan (tính từ)"}
     ],

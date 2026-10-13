@@ -80,7 +80,7 @@
       },
       {
         "k": "m",
-        "t": "The alto và tenor clefs are the only commonly used C clefs today, và are found mostly in viola, cello, và bassoon music."
+        "t": "The alto and tenor clefs are the only commonly used C clefs today, and are found mostly in viola, cello, and bassoon music."
       }
     ],
     "k": "c clef"
@@ -97,7 +97,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "business taxed as a separate entity: a business taxed under Subchapter C of the Internal Revenue Code và legally distinct from its owners"
+        "t": "business taxed as a separate entity: a business taxed under Subchapter C of the Internal Revenue Code and legally distinct from its owners"
       }
     ],
     "k": "c corporation"
@@ -304,7 +304,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "infection-resisting protein: a protein that appears in large quantities in the blood in the course of infections to assist in the destruction và removal of invading microorganisms"
+        "t": "infection-resisting protein: a protein that appears in large quantities in the blood in the course of infections to assist in the destruction and removal of invading microorganisms"
       }
     ],
     "k": "c-reactive protein"
@@ -456,13 +456,13 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "e-mail or paper document copy: a copy of an e-mail hoặc other document sent to a recipient hoặc recipients"
+        "t": "e-mail or paper document copy: a copy of an e-mail or other document sent to a recipient or recipients"
       },
       {"k": "m", "t": "sent cc's to all concerned committee members"},
       {"k": "m", "t": "verb"},
       {
         "k": "m",
-        "t": "send copy to somebody: to use the cc line in an e-mail in order to send a copy of the message to another recipient hoặc to others, hoặc to photocopy a document và send it to another recipient hoặc to others"
+        "t": "send copy to somebody: to use the cc line in an e-mail in order to send a copy of the message to another recipient hoặc to others, hoặc to photocopy a document and send it to another recipient or to others"
       }
     ],
     "k": "c.c."
@@ -501,7 +501,7 @@
     "segs": [
       {"k": "m", "t": "hoặc C.F."},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "freight cost và freight"}
+      {"k": "m", "t": "freight cost and freight"}
     ],
     "k": "c.f."
   },
@@ -515,7 +515,7 @@
     "segs": [
       {"k": "m", "t": "hoặc C.F.I."},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "shipping cost, freight, và insurance"}
+      {"k": "m", "t": "shipping cost, freight, and insurance"}
     ],
     "k": "c.f.i."
   },
@@ -565,7 +565,7 @@
       {"k": "m", "t": "hoặc c.i.f."},
       {"k": "m", "t": "abbreviation"},
       {"k": "m", "t": "1. central information file"},
-      {"k": "m", "t": "2. cost, insurance, và freight"}
+      {"k": "m", "t": "2. cost, insurance, and freight"}
     ],
     "k": "c.i.f."
   },
@@ -574,7 +574,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Viết tắt của freight cost, insurance, freight, commission, và interest (used in quotes to indicate what is included in the price)"
+        "t": "Viết tắt của freight cost, insurance, freight, commission, and interest (used in quotes to indicate what is included in the price)"
       }
     ],
     "k": "c.i.f.c.i."

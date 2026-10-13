@@ -372,7 +372,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "payment on receipt of goods: payment for goods that is authorized after comparing the goods received with those ordered, without using invoices và thus cutting costs"
+        "t": "payment on receipt of goods: payment for goods that is authorized after comparing the goods received with those ordered, without using invoices and thus cutting costs"
       }
     ],
     "k": "evaluated receipts settlement"
@@ -2511,7 +2511,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều even breaks)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "equal chance of success: an equal opportunity for winning hoặc losing"}
+      {"k": "m", "t": "equal chance of success: an equal opportunity for winning or losing"}
     ],
     "k": "even break"
   },
@@ -2635,14 +2635,14 @@
   {
     "h": "even out",
     "segs": [
-      {"k": "m", "t": "transitive và intransitive verb"},
+      {"k": "m", "t": "transitive and intransitive verb"},
       {
         "k": "m",
-        "t": "1. flatten or level something: to become hoặc make something more flat, smooth, hoặc level"
+        "t": "1. flatten or level something: to become or make something more flat, smooth, or level"
       },
       {
         "k": "m",
-        "t": "2. equalize things: to make two hoặc more different things more equal, hoặc become more equal"
+        "t": "2. equalize things: to make two or more different things more equal, or become more equal"
       }
     ],
     "k": "even out"
@@ -2732,8 +2732,8 @@
   {
     "h": "even up",
     "segs": [
-      {"k": "m", "t": "transitive và intransitive verb"},
-      {"k": "m", "t": "balance: to become hoặc make something more equal, fair, hoặc well-balanced"}
+      {"k": "m", "t": "transitive and intransitive verb"},
+      {"k": "m", "t": "balance: to become or make something more equal, fair, or well-balanced"}
     ],
     "k": "even up"
   },
@@ -2894,9 +2894,9 @@
       {"k": "m", "t": "adjective (thông tục)"},
       {
         "k": "m",
-        "t": "1. settled equally and fairly: with all debts hoặc grievances mutually settled"
+        "t": "1. settled equally and fairly: with all debts or grievances mutually settled"
       },
-      {"k": "m", "t": "2. equal in score: with equal scores hoặc chances of winning"},
+      {"k": "m", "t": "2. equal in score: with equal scores or chances of winning"},
       {"k": "m", "t": "At the end of the first round the two teams were even-steven."}
     ],
     "k": "even-steven"
@@ -2959,7 +2959,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "education session in evening: a course hoặc session of adult education held between approximately 7pm và 10pm, usually once a week throughout the school year"
+        "t": "education session in evening: a course or session of adult education held between approximately 7pm và 10pm, usually once a week throughout the school year"
       }
     ],
     "k": "evening class"
@@ -3066,11 +3066,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Asian ethnic group: a member of an ethnic group that lives mainly in eastern parts of Asia of the former Soviet Union và northwestern China"
+        "t": "1. member of Asian ethnic group: a member of an ethnic group that lives mainly in eastern parts of Asia of the former Soviet Union and northwestern China"
       },
       {
         "k": "m",
-        "t": "2. language spoken in Asia: a Tungusic language spoken in the eastern parts of Asia of the former Soviet Union và northwestern China. It belongs to the Mongolian branch of Altaic. 30,000."
+        "t": "2. language spoken in Asia: a Tungusic language spoken in the eastern parts of Asia of the former Soviet Union and northwestern China. It belongs to the Mongolian branch of Altaic. 30,000."
       },
       {"k": "m", "t": "-Evenki (tính từ)"}
     ],
@@ -3304,7 +3304,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "promotion of event: promotional activities involving an event such as a sporting hoặc social event, designed to bring a product to the attention of the public"
+        "t": "promotion of event: promotional activities involving an event such as a sporting or social event, designed to bring a product to the attention of the public"
       }
     ],
     "k": "event marketing"
@@ -3403,7 +3403,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "commerce study showing effect of event: a statistically based study of the period around a particular event to investigate its causes và consequences. Events are organized chronologically with the event in question at \"time zero.\""
+        "t": "commerce study showing effect of event: a statistically based study of the period around a particular event to investigate its causes and consequences. Events are organized chronologically with the event in question at \"time zero.\""
       }
     ],
     "k": "event study"
@@ -3495,7 +3495,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều eventers)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "riding competitor: a horse hoặc rider that regularly competes at eventing"}
+      {"k": "m", "t": "riding competitor: a horse or rider that regularly competes at eventing"}
     ],
     "k": "eventer"
   },
@@ -3642,7 +3642,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "result in: to cause hoặc result in something, especially after an extended period of time (formal)"
+        "t": "result in: to cause or result in something, especially after an extended period of time (formal)"
       },
       {
         "k": "m",
@@ -3668,7 +3668,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fabric with warp and weft alike: a fabric with warp và weft threads that are equally thick và tense và in equal numbers in any square measurement"
+        "t": "fabric with warp and weft alike: a fabric with warp and weft threads that are equally thick và tense và in equal numbers in any square measurement"
       }
     ],
     "k": "evenweave"
@@ -3895,7 +3895,7 @@
     "h": "ever-present",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "always present: always there và never going away"},
+      {"k": "m", "t": "always present: always there and never going away"},
       {"k": "m", "t": "the ever-present threat of war"}
     ],
     "k": "ever-present"
@@ -3906,7 +3906,7 @@
     "segs": [
       {"k": "m", "t": "1. city in eastern Massachusetts on the Mystic River, near Boston."},
       {"k": "m", "t": "Dân số khoảng: 37,195 (thống kê năm 2004)"},
-      {"k": "m", "t": "2. city và seaport in northwestern Washington, near Seattle."},
+      {"k": "m", "t": "2. city and seaport in northwestern Washington, near Seattle."},
       {"k": "m", "t": "Dân số khoảng: 96,101 (thống kê năm 2004)"}
     ],
     "k": "everett"
@@ -4463,7 +4463,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ordinary woman: a woman considered to be typical hoặc representative of women generally"
+        "t": "ordinary woman: a woman considered to be typical or representative of women generally"
       }
     ],
     "k": "everywoman"
@@ -4674,7 +4674,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "treatment based on reliable evidence: the use of clinical methods và decision-making that have been thoroughly tested by properly controlled, peer-reviewed medical research"
+        "t": "treatment based on reliable evidence: the use of clinical methods and decision-making that have been thoroughly tested by properly controlled, peer-reviewed medical research"
       }
     ],
     "k": "evidence-based medicine"
@@ -4742,7 +4742,7 @@
     "h": "evidentiary",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "U.S. of evidence: relating to, consisting of, hoặc based on evidence"},
+      {"k": "m", "t": "U.S. of evidence: relating to, consisting of, or based on evidence"},
       {"k": "m", "t": "statements with no evidentiary value Canadian term evidential"}
     ],
     "k": "evidentiary"
@@ -5259,7 +5259,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "medical science giving importance to evolutionism: medical theory và practice based on a belief in the clinical importance of an evolutionary view of human characteristics"
+        "t": "medical science giving importance to evolutionism: medical theory and practice based on a belief in the clinical importance of an evolutionary view of human characteristics"
       }
     ],
     "k": "evolutionary medicine"

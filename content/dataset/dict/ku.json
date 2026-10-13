@@ -186,10 +186,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều kugels)"},
       {"k": "pos", "t": "danh từ"},
-      {
-        "k": "m",
-        "t": "casserole: in Jewish cooking, a casserole often made of noodles hoặc potatoes"
-      }
+      {"k": "m", "t": "casserole: in Jewish cooking, a casserole often made of noodles or potatoes"}
     ],
     "k": "kugel"
   },
@@ -208,7 +205,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ring of orbiting celestial bodies: a ring of small astronomical objects orbiting through the outer solar system, beyond the farthest planets, Neptune và Pluto."
+        "t": "ring of orbiting celestial bodies: a ring of small astronomical objects orbiting through the outer solar system, beyond the farthest planets, Neptune and Pluto."
       },
       {"k": "m", "t": "It is believed that the Kuiper belt is a source of comets."}
     ],
@@ -263,7 +260,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Zambian cultural festival: a traditional festival with masks, costumes, music, và dancing celebrated by Chewa speakers in eastern Zambia. August."
+        "t": "Zambian cultural festival: a traditional festival with masks, costumes, music, and dancing celebrated by Chewa speakers in eastern Zambia. August."
       }
     ],
     "k": "kulamba"
@@ -297,7 +294,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "stuffed bread: in South Asian cuisine, bread made with flour, milk, yeast, và butter, baked in small rounds và usually stuffed with meat hoặc vegetables"
+        "t": "stuffed bread: in South Asian cuisine, bread made with flour, milk, yeast, and butter, baked in small rounds and usually stuffed with meat or vegetables"
       }
     ],
     "k": "kulcha"
@@ -418,7 +415,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "South Asia Hindu red circle on forehead: a red round decorative mark worn on the forehead by Hindu women và girls, but traditionally not by widows"
+        "t": "South Asia Hindu red circle on forehead: a red round decorative mark worn on the forehead by Hindu women and girls, but traditionally not by widows"
       }
     ],
     "k": "kumkum"
@@ -511,7 +508,10 @@
     "segs": [
       {"k": "m", "t": "(số nhiều Kung) hoặc !Kung (plural!Kung)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "1. a member of a San people who live in eastern Namibia và western Botswana"},
+      {
+        "k": "m",
+        "t": "1. a member of a San people who live in eastern Namibia and western Botswana"
+      },
       {"k": "m", "t": "2. language spoken by Kung people: the Khoisan language of the Kung people"},
       {"k": "m", "t": "-Kung (tính từ)"}
     ],
@@ -554,7 +554,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "capital city of Yunnan Province, southwestern China, a trade và transportation center."
+        "t": "capital city of Yunnan Province, southwestern China, a trade and transportation center."
       },
       {"k": "m", "t": "Dân số khoảng: 1,701,000 (thống kê năm 2000)"}
     ],
@@ -564,7 +564,7 @@
     "h": "kunu",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "West Africa soft drink: in Nigeria, a soft drink made from millet hoặc corn"}
+      {"k": "m", "t": "West Africa soft drink: in Nigeria, a soft drink made from millet or corn"}
     ],
     "k": "kunu"
   },
@@ -633,7 +633,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cell in liver removing debris: a specialized cell macrophage that lines the minute blood-filled spaces in the liver và removes worn-out red blood cells, bacteria, và other debris from the bloodstream"
+        "t": "cell in liver removing debris: a specialized cell macrophage that lines the minute blood-filled spaces in the liver and removes worn-out red blood cells, bacteria, and other debris from the bloodstream"
       }
     ],
     "k": "kupffer cell"
@@ -782,7 +782,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hoặc Kurile Islands island chain extending from northeastern Hokkaido in Japan to southern Kamchatka Peninsula in Russia. The islands were settled by Russians và Japanese in the 18th century, và are the subject of dispute between the two countries."
+        "t": "hoặc Kurile Islands island chain extending from northeastern Hokkaido in Japan to southern Kamchatka Peninsula in Russia. The islands were settled by Russians and Japanese in the 18th century, and are the subject of dispute between the two countries."
       },
       {"k": "m", "t": "Dân số khoảng: 25,000 (1990)"},
       {"k": "m", "t": "Diện tích: 15,590 sq km/6,020 sq mi."}
@@ -835,7 +835,7 @@
   {
     "h": "Kursk",
     "segs": [
-      {"k": "m", "t": "city in western Russia, the capital of Kursk Oblast, và a mining center."},
+      {"k": "m", "t": "city in western Russia, the capital of Kursk Oblast, and a mining center."},
       {"k": "m", "t": "Dân số khoảng: 412,600 (2002)"}
     ],
     "k": "kursk"
@@ -868,7 +868,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in southwestern Alaska, rising in the Alaska Range và flowing into the Bering Sea."
+        "t": "river in southwestern Alaska, rising in the Alaska Range and flowing into the Bering Sea."
       },
       {"k": "m", "t": "Length: 1,170 km/724 mi"}
     ],
@@ -898,7 +898,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Native N American people: a member of a Native North American people living mainly in Montana, Idaho, và British Columbia"
+        "t": "1. member of Native N American people: a member of a Native North American people living mainly in Montana, Idaho, and British Columbia"
       },
       {
         "k": "m",
@@ -997,7 +997,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Japanese thickener: a white Japanese food thickener that also has medicinal properties, made from kudzu vine root và similar in quality to arrowroot"
+        "t": "Japanese thickener: a white Japanese food thickener that also has medicinal properties, made from kudzu vine root and similar in quality to arrowroot"
       }
     ],
     "k": "kuzu"

@@ -72,7 +72,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "West Africa African soup ingredient: in African cuisine, a plant that must be scraped to remove bitter juice before being sliced, parboiled, và then cooked in stews và soup"
+        "t": "West Africa African soup ingredient: in African cuisine, a plant that must be scraped to remove bitter juice before being sliced, parboiled, and then cooked in stews and soup"
       }
     ],
     "k": "ndole"
@@ -98,7 +98,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều ndugus)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "East Africa friend: a friend hoặc brother"}
+      {"k": "m", "t": "East Africa friend: a friend or brother"}
     ],
     "k": "ndugu"
   }

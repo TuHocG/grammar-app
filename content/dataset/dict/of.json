@@ -975,7 +975,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "done outside campus: done, taking place, hoặc existing outside the area of a university, college, hoặc other campus"
+        "t": "done outside campus: done, taking place, or existing outside the area of a university, college, or other campus"
       },
       {"k": "m", "t": "-off campus (trạng từ)"}
     ],
@@ -986,10 +986,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều off-card rates)"},
       {"k": "pos", "t": "danh từ"},
-      {
-        "k": "m",
-        "t": "advertising discount: a discount rate for selling advertising time hoặc space"
-      }
+      {"k": "m", "t": "advertising discount: a discount rate for selling advertising time or space"}
     ],
     "k": "off-card rate"
   },
@@ -1206,7 +1203,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "happening off of playing field: taking place hoặc situated outside the boundaries of a playing field, though usually involving people who play hoặc are connected with sports"
+        "t": "happening off of playing field: taking place or situated outside the boundaries of a playing field, though usually involving people who play or are connected with sports"
       }
     ],
     "k": "off-field"
@@ -1237,7 +1234,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gliding speech sound: a sound produced by the vocal organs prior to their making another sound hoặc assuming a neutral position"
+        "t": "gliding speech sound: a sound produced by the vocal organs prior to their making another sound or assuming a neutral position"
       }
     ],
     "k": "off-glide"
@@ -1369,7 +1366,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "U.S. not approved: using hoặc involving the use of a prescription drug to treat a condition for which the drug has not been approved by the U.S. Food và Drug Administration"
+        "t": "U.S. not approved: using or involving the use of a prescription drug to treat a condition for which the drug has not been approved by the U.S. Food and Drug Administration"
       }
     ],
     "k": "off-label"
@@ -1393,7 +1390,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "transitive verb (past và past participle off-led, present participle off-leading, 3rd person present singular off-leads)"
+        "t": "transitive verb (past and past participle off-led, present participle off-leading, 3rd person present singular off-leads)"
       },
       {
         "k": "m",
@@ -1612,7 +1609,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "departing from party line: not following the official policy of a political party hoặc other organization"
+        "t": "departing from party line: not following the official policy of a political party or other organization"
       },
       {"k": "m", "t": "off-message position papers"}
     ],
@@ -1625,7 +1622,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fringe theater productions: in New York City, theater productions that are considered to be fringe, experimental, hoặc avant-garde. Xem off-Broadway"
+        "t": "fringe theater productions: in New York City, theater productions that are considered to be fringe, experimental, or avant-garde. Xem off-Broadway"
       }
     ],
     "k": "off-off-broadway"
@@ -1821,7 +1818,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều off-rhymes)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "near rhyme: a partial hoặc near rhyme"}
+      {"k": "m", "t": "near rhyme: a partial or near rhyme"}
     ],
     "k": "off-rhyme"
   },
@@ -1831,7 +1828,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "for use away from public roads: designed, manufactured, hoặc used for travel off public roads, especially over rough terrain"
+        "t": "for use away from public roads: designed, manufactured, or used for travel off public roads, especially over rough terrain"
       }
     ],
     "k": "off-road"
@@ -1848,7 +1845,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "vehicle used away from public roads: a motorized vehicle designed hoặc used for travel away from public roads hoặc on rough terrain"
+        "t": "vehicle used away from public roads: a motorized vehicle designed or used for travel away from public roads or on rough terrain"
       }
     ],
     "k": "off-road vehicle"
@@ -1906,15 +1903,15 @@
     "h": "off-screen",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. not visible on screen: not visible on a television hoặc movie screen"},
+      {"k": "m", "t": "1. not visible on screen: not visible on a television or movie screen"},
       {"k": "m", "t": "an off-screen commentator"},
       {
         "k": "m",
-        "t": "2. occurring in ordinary life: occurring in ordinary life, not as fiction on television hoặc in a movie"
+        "t": "2. occurring in ordinary life: occurring in ordinary life, not as fiction on television or in a movie"
       },
       {"k": "m", "t": "Her off-screen life was just as exciting."},
       {"k": "m", "t": "adverb"},
-      {"k": "m", "t": "in ordinary life: aside from television hoặc movie performances"},
+      {"k": "m", "t": "in ordinary life: aside from television or movie performances"},
       {"k": "m", "t": "Off-screen, he mostly played golf."}
     ],
     "k": "off-screen"
@@ -1960,7 +1957,7 @@
     "h": "off-shears",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "Australia New Zealand just shorn: recently shorn of fleece hoặc wool"}
+      {"k": "m", "t": "Australia New Zealand just shorn: recently shorn of fleece or wool"}
     ],
     "k": "off-shears"
   },
@@ -2044,7 +2041,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "U.S. slower than expected: describes a baseball pitch that is slower than is usual hoặc expected"
+        "t": "U.S. slower than expected: describes a baseball pitch that is slower than is usual or expected"
       }
     ],
     "k": "off-speed"
@@ -2144,7 +2141,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "not tailor-made: ready-made và sold in standard sizes, not tailored for the individual customer"
+        "t": "not tailor-made: ready-made and sold in standard sizes, not tailored for the individual customer"
       },
       {"k": "m", "t": "off-the-rack evening wear"},
       {"k": "m", "t": "-off the rack (trạng từ)"}
@@ -2158,7 +2155,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "revealing woman's shoulders: describes a woman's dress hoặc top with a wide neckline và short hoặc long sleeves designed to reveal one hoặc both shoulders"
+        "t": "revealing woman's shoulders: describes a woman's dress or top with a wide neckline và short hoặc long sleeves designed to reveal one or both shoulders"
       }
     ],
     "k": "off-the-shoulder"
@@ -2210,7 +2207,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "happening away from prepared trail: taking place hoặc situated away from a trail prepared for an activity such as hiking, jogging, hoặc horseback riding"
+        "t": "happening away from prepared trail: taking place or situated away from a trail prepared for an activity such as hiking, jogging, or horseback riding"
       }
     ],
     "k": "off-trail"
@@ -2274,7 +2271,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ancient earthwork: a series of earthworks along the border between England và Wales, constructed by King Offa of Mercia between 784 và 796."
+        "t": "ancient earthwork: a series of earthworks along the border between England and Wales, constructed by King Offa of Mercia between 784 và 796."
       },
       {"k": "m", "t": "It is 240 km/150 mi long."}
     ],
@@ -2379,7 +2376,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "remaining scrap of something: a remnant left after the main pieces of something such as fabric hoặc paper have been cut"
+        "t": "remaining scrap of something: a remnant left after the main pieces of something such as fabric or paper have been cut"
       }
     ],
     "k": "offcut"
@@ -2975,7 +2972,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "asking price: the price at which something, especially a share of a stock hoặc a mutual fund, is offered for sale"
+        "t": "asking price: the price at which something, especially a share of a stock or a mutual fund, is offered for sale"
       }
     ],
     "k": "offering price"
@@ -3612,7 +3609,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "U.S. not needing to work in office: relating to hoặc involving a work force that is not required to work from hoặc at an office"
+        "t": "U.S. not needing to work in office: relating to or involving a work force that is not required to work from or at an office"
       }
     ],
     "k": "office-free"
@@ -3738,7 +3735,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "herald: a herald, especially one who devises, grants, hoặc confirms coats of arms"
+        "t": "herald: a herald, especially one who devises, grants, or confirms coats of arms"
       }
     ],
     "k": "officer of arms"
@@ -3900,7 +3897,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "commerce cheap or free funding: funding offered by governments hoặc aid agencies to disadvantaged countries hoặc regions either free of charge hoặc at rates below the market rate"
+        "t": "commerce cheap or free funding: funding offered by governments or aid agencies to disadvantaged countries or regions either free of charge or at rates below the market rate"
       }
     ],
     "k": "official development assistance"
@@ -4107,7 +4104,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "specialist circuit judge: in England và Wales, a circuit judge with authority from the High Court to try cases involving examination of accounts hoặc other documents"
+        "t": "specialist circuit judge: in England and Wales, a circuit judge with authority from the High Court to try cases involving examination of accounts or other documents"
       }
     ],
     "k": "official referee"
@@ -4161,7 +4158,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "legal protector of physically challenged: in England và Wales, an officer of the Supreme Court of Judicature with special responsibilities for protecting the interests of physically challenged people"
+        "t": "legal protector of physically challenged: in England and Wales, an officer of the Supreme Court of Judicature with special responsibilities for protecting the interests of physically challenged people"
       }
     ],
     "k": "official solicitor"
@@ -5180,7 +5177,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "offshore import-export company: an organization set up in a country with relatively low taxation that imports goods from và exports goods to other foreign countries"
+        "t": "offshore import-export company: an organization set up in a country with relatively low taxation that imports goods from and exports goods to other foreign countries"
       }
     ],
     "k": "offshore trading company"
@@ -5240,7 +5237,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều offsiders)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Australia assistant: an assistant hoặc partner"},
+      {"k": "m", "t": "Australia assistant: an assistant or partner"},
       {"k": "m", "t": "Tony, my offsider, will meet you at the airport."}
     ],
     "k": "offsider"
@@ -5256,7 +5253,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "not on main site: not based hoặc occurring in an organization's principal place of activity"
+        "t": "not on main site: not based or occurring in an organization's principal place of activity"
       },
       {"k": "m", "t": "-offsite (trạng từ)"}
     ],
@@ -5366,7 +5363,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gas industry regulatory body: a regulatory body set up to supervise the gas industry in the United Kingdom after privatization và deregulation. Full form Office of Gas Supply"
+        "t": "gas industry regulatory body: a regulatory body set up to supervise the gas industry in the United Kingdom after privatization and deregulation. Full form Office of Gas Supply"
       }
     ],
     "k": "ofgas"
@@ -5491,7 +5488,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "body regulating water industry: a regulatory body set up to supervise water services in the United Kingdom after privatization và deregulation. Full form Office of Water Services"
+        "t": "body regulating water industry: a regulatory body set up to supervise water services in the United Kingdom after privatization and deregulation. Full form Office of Water Services"
       }
     ],
     "k": "ofwat"

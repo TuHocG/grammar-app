@@ -738,7 +738,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "confusion leading to manual inability: confusion caused by brain damage that results in an inability to perform common manual và other motor functions"
+        "t": "confusion leading to manual inability: confusion caused by brain damage that results in an inability to perform common manual and other motor functions"
       }
     ],
     "k": "ideational apraxia"
@@ -764,7 +764,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều idées reẻues)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "conventional idea: a conventional hoặc commonplace idea"}
+      {"k": "m", "t": "conventional idea: a conventional or commonplace idea"}
     ],
     "k": "idee reeue"
   },
@@ -1472,11 +1472,11 @@
       {"k": "m", "t": "intransitive verb"},
       {
         "k": "m",
-        "t": "1. feel affinity with: to feel a strong sympathetic hoặc imaginative bond with somebody hoặc something và a sense of understanding và sharing his, her, hoặc its nature hoặc concerns"
+        "t": "1. feel affinity with: to feel a strong sympathetic or imaginative bond with somebody hoặc something và a sense of understanding và sharing his, her, hoặc its nature hoặc concerns"
       },
       {
         "k": "m",
-        "t": "2. associate one thing with another: to consider somebody hoặc something as closely linked with somebody hoặc something such as a school of thought hoặc political movement (often passive)"
+        "t": "2. associate one thing with another: to consider somebody or something as closely linked with somebody or something such as a school of thought or political movement (often passive)"
       }
     ],
     "k": "identify with"
@@ -1978,7 +1978,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều idgahs)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "South Asia mosque: a mosque hoặc other place of prayer for Muslims"}
+      {"k": "m", "t": "South Asia mosque: a mosque or other place of prayer for Muslims"}
     ],
     "k": "idgah"
   },
@@ -2494,7 +2494,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "warning light: a warning light on a device hoặc instrument panel, especially in a car (lóng)"
+        "t": "warning light: a warning light on a device or instrument panel, especially in a car (lóng)"
       }
     ],
     "k": "idiot light"
@@ -2542,7 +2542,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "able to withstand misuse: constructed hoặc designed so as not to fail hoặc go wrong even if misused (thông tục)"
+        "t": "able to withstand misuse: constructed or designed so as not to fail or go wrong even if misused (thông tục)"
       }
     ],
     "k": "idiot-proof"
@@ -2643,7 +2643,7 @@
   {"h": "idiozome", "segs": [{"k": "m", "t": "Thể sinh sản."}], "k": "idiozome"},
   {
     "h": "IDK",
-    "segs": [{"k": "m", "t": "Viết tắt của I don't know (used in e-mails hoặc text messages)"}],
+    "segs": [{"k": "m", "t": "Viết tắt của I don't know (used in e-mails or text messages)"}],
     "k": "idk"
   },
   {
@@ -2873,7 +2873,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gear transmitting only motion: a gear placed between two others to transmit motion, but not direction hoặc speed"
+        "t": "gear transmitting only motion: a gear placed between two others to transmit motion, but not direction or speed"
       }
     ],
     "k": "idle gear"
@@ -3546,7 +3546,7 @@
   {
     "h": "IDTS",
     "segs": [
-      {"k": "m", "t": "Viết tắt của online I don't think so (used in e-mails hoặc text messages)"}
+      {"k": "m", "t": "Viết tắt của online I don't think so (used in e-mails or text messages)"}
     ],
     "k": "idts"
   },

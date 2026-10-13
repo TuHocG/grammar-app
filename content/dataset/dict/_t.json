@@ -70,7 +70,7 @@
     "h": "-tion",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "action hoặc process, hoặc the result of an action hoặc process"},
+      {"k": "m", "t": "action hoặc process, hoặc the result of an action or process"},
       {"k": "m", "t": "pollution"}
     ],
     "k": "-tion"
@@ -120,7 +120,7 @@
     "h": "-tropous",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "turning hoặc growing in a particular way"},
+      {"k": "m", "t": "turning or growing in a particular way"},
       {"k": "m", "t": "orthotropous"}
     ],
     "k": "-tropous"

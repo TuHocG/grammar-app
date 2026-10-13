@@ -66,7 +66,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "lymphocyte from thymus: a white blood cell lymphocyte that matures in the thymus và is essential for various aspects of immunity, especially in combating viral infections và cancers. Xem helper T cellsuppressor T cell"
+        "t": "lymphocyte from thymus: a white blood cell lymphocyte that matures in the thymus and is essential for various aspects of immunity, especially in combating viral infections and cancers. Xem helper T cellsuppressor T cell"
       }
     ],
     "k": "t cell"
@@ -242,7 +242,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "football offensive lineup: in football, an offensive formation in which the center, quarterback, và fullback are in a straight line with the halfbacks on either side of và sometimes slightly behind the fullback, roughly forming a T"
+        "t": "football offensive lineup: in football, an offensive formation in which the center, quarterback, and fullback are in a straight line with the halfbacks on either side of and sometimes slightly behind the fullback, roughly forming a T"
       }
     ],
     "k": "t-formation"
@@ -321,7 +321,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều T-joints)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "T-shaped joint: a joint in wood hoặc other material forming the letter T"}
+      {"k": "m", "t": "T-shaped joint: a joint in wood or other material forming the letter T"}
     ],
     "k": "t-joint"
   },
@@ -499,7 +499,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. shoe with T-shaped strap: a style of shoe, usually worn by women hoặc children, with a T-shaped strap cut from the upper part of the shoe"
+        "t": "U.K. shoe with T-shaped strap: a style of shoe, usually worn by women or children, with a T-shaped strap cut from the upper part of the shoe"
       }
     ],
     "k": "t-strap"
@@ -528,7 +528,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "automobile roof: an automobile roof with a T-shaped frame và removable panels"
+        "t": "automobile roof: an automobile roof with a T-shaped frame and removable panels"
       }
     ],
     "k": "t-top"
@@ -567,7 +567,7 @@
       {"k": "m", "t": "4. music tempo"},
       {"k": "m", "t": "5. music tenor"},
       {"k": "m", "t": "6. grammar tense"},
-      {"k": "m", "t": "7. measurements ton hoặc tons"},
+      {"k": "m", "t": "7. measurements ton or tons"},
       {"k": "m", "t": "8. grammar transitive"}
     ],
     "k": "t."

@@ -14,11 +14,11 @@
     "h": "et al. (1)",
     "segs": [
       {"k": "m", "t": "trạng từ"},
-      {"k": "m", "t": "and others: và others (used of joint authors of a book hoặc article)"},
-      {"k": "m", "t": "etc. hoặc et al.?"},
+      {"k": "m", "t": "and others: and others (used of joint authors of a book or article)"},
+      {"k": "m", "t": "etc. or et al.?"},
       {
         "k": "m",
-        "t": "The abbreviation etc. (from the full form et cetera) came into English from the Latin expression et cetera (\"and the rest\"). Do not use etc. as a substitute for the adverb et al., which came into English from another Latin expression, et alii (\"and others\"). Use etc. when you list some, hoặc a few, of many items, as in We will discuss the Plymouth Colony, the Puritans, the witchcraft trials, v.v..., in our early American literature seminar. (Never write \"and etc.\" hoặc \"& etc.\", as these are redundant.) Use et al. when you mention one person or a few people out of several or many, as in bibliographies, footnotes, or textual references: In the October issue of the medical journal, Smith, Jones, Roe, Doe, et al., discuss correct insertion of artificial airways."
+        "t": "The abbreviation etc. (from the full form et cetera) came into English from the Latin expression et cetera (\"and the rest\"). Do not use etc. as a substitute for the adverb et al., which came into English from another Latin expression, et alii (\"and others\"). Use etc. when you list some, or a few, of many items, as in We will discuss the Plymouth Colony, the Puritans, the witchcraft trials, v.v..., in our early American literature seminar. (Never write \"and etc.\" hoặc \"& etc.\", as these are redundant.) Use et al. when you mention one person or a few people out of several or many, as in bibliographies, footnotes, or textual references: In the October issue of the medical journal, Smith, Jones, Roe, Doe, et al., discuss correct insertion of artificial airways."
       }
     ],
     "k": "et al. (1)"
@@ -53,7 +53,7 @@
       {"k": "m", "t": "adverb"},
       {
         "k": "m",
-        "t": "and those that follow: và the others following, especially the next page hoặc pages in a book"
+        "t": "and those that follow: and the others following, especially the next page or pages in a book"
       },
       {"k": "m", "t": "p.20 et seq."}
     ],
@@ -557,7 +557,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "wind from northwest in E Mediterranean: an annual summer wind that blows from the northwest in the Aegean Sea và other parts of the eastern Mediterranean"
+        "t": "wind from northwest in E Mediterranean: an annual summer wind that blows from the northwest in the Aegean Sea and other parts of the eastern Mediterranean"
       }
     ],
     "k": "etesian wind"
@@ -1104,7 +1104,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều ethicists)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "specialist in ethics: a student of ethics, hoặc a devotee of ethical ideals"}
+      {"k": "m", "t": "specialist in ethics: a student of ethics, or a devotee of ethical ideals"}
     ],
     "k": "ethicist"
   },
@@ -1347,7 +1347,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "institutionally recognized ethnic identity group: a category of ethnic identity recognized by the U.S. federal government for the purposes of employment và other statistics. Commonly used categories are white, African American or black, Hispanic, Asian, and Native American or American Indian, with others including, ví dụ: Mexican American hoặc Chicano, Latin American hoặc Latino, và Pacific Islander."
+        "t": "institutionally recognized ethnic identity group: a category of ethnic identity recognized by the U.S. federal government for the purposes of employment and other statistics. Commonly used categories are white, African American or black, Hispanic, Asian, and Native American or American Indian, with others including, ví dụ: Mexican American hoặc Chicano, Latin American hoặc Latino, và Pacific Islander."
       }
     ],
     "k": "ethnic category"
@@ -1365,7 +1365,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "minority cultural population: an ethnic group that is a minority within a nation hoặc society"
+        "t": "minority cultural population: an ethnic group that is a minority within a nation or society"
       }
     ],
     "k": "ethnic minority",
@@ -1607,7 +1607,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "study of culture and language: the scientific study of the relationship between language và culture (takes a singular verb)"
+        "t": "study of culture and language: the scientific study of the relationship between language and culture (takes a singular verb)"
       },
       {"k": "m", "t": "-ethnolinguist, noun"},
       {"k": "m", "t": "-ethnolinguistic, adjective"},
@@ -1684,7 +1684,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "proud of ethnicity and nation: combining ethnic pride và cohesiveness with strong nationalism"
+        "t": "proud of ethnicity and nation: combining ethnic pride and cohesiveness with strong nationalism"
       }
     ],
     "k": "ethnonationalist"
@@ -1922,12 +1922,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle ethylated, present participle ethylating, 3rd person present singular ethylates)"
+        "t": "(past and past participle ethylated, present participle ethylating, 3rd person present singular ethylates)"
       },
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "attach an ethyl group to: to attach an ethyl group to a molecule hoặc to one of the molecules of a compound"
+        "t": "attach an ethyl group to: to attach an ethyl group to a molecule or to one of the molecules of a compound"
       },
       {"k": "m", "t": "-ethylation (danh từ)"}
     ],
@@ -1990,7 +1990,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "colorless gas: a soluble colorless gas. Dùng để: synthesis of ethylene glycol và other chemicals, fumigant, sterilant."
+        "t": "colorless gas: a soluble colorless gas. Dùng để: synthesis of ethylene glycol and other chemicals, fumigant, sterilant."
       },
       {"k": "m", "t": "Công thức: C2H4O"}
     ],

@@ -1003,7 +1003,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "brain disease: a severe, usually fatal, inflammatory disease of the brain, chiefly affecting children và linked to infection from measles"
+        "t": "brain disease: a severe, usually fatal, inflammatory disease of the brain, chiefly affecting children and linked to infection from measles"
       }
     ],
     "k": "subacute sclerosing panencephalitis"
@@ -1378,7 +1378,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "bordering on Antarctic Circle: relating to the area between the Antarctic Circle và the South Pole"
+        "t": "bordering on Antarctic Circle: relating to the area between the Antarctic Circle and the South Pole"
       }
     ],
     "k": "subantarctic"
@@ -2575,7 +2575,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "shunting of the blood supply: partial blockage of an artery with branches to the head và arms. Blockage diverts blood from the head, causing faintness, vertigo, double vision, nausea, headaches, và the risk of a stroke."
+        "t": "shunting of the blood supply: partial blockage of an artery with branches to the head and arms. Blockage diverts blood from the head, causing faintness, vertigo, double vision, nausea, headaches, and the risk of a stroke."
       }
     ],
     "k": "subclavian steal syndrome"
@@ -4751,7 +4751,7 @@
       },
       {
         "k": "m",
-        "t": "2. subdivision of domain name: a subdivision of the two-letter country domain names into two-or three-letter organizational subdomains, ví dụ: \"ac.uk\" for United Kingdom academic sites và \"com.au\" for Australian commercial sites."
+        "t": "2. subdivision of domain name: a subdivision of the two-letter country domain names into two-or three-letter organizational subdomains, ví dụ: \"ac.uk\" for United Kingdom academic sites and \"com.au\" for Australian commercial sites."
       }
     ],
     "k": "subdomain name"
@@ -5331,7 +5331,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle suberized, present participle suberizing, 3rd person present singular suberizes)"
+        "t": "(past and past participle suberized, present participle suberizing, 3rd person present singular suberizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {
@@ -5656,10 +5656,7 @@
     "h": "subflooring",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {
-        "k": "m",
-        "t": "material for subfloor: a subfloor, hoặc the material used to make a subfloor"
-      }
+      {"k": "m", "t": "material for subfloor: a subfloor, or the material used to make a subfloor"}
     ],
     "k": "subflooring"
   },
@@ -6619,7 +6616,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "undeveloped mayfly: a mayfly hoặc related insect in a metamorphic stage in which functional wings are present but not all adult features have developed fully"
+        "t": "undeveloped mayfly: a mayfly or related insect in a metamorphic stage in which functional wings are present but not all adult features have developed fully"
       }
     ],
     "k": "subimago"
@@ -9798,7 +9795,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle subminiaturized, present participle subminiaturizing, 3rd person present singular subminiaturizes)"
+        "t": "(past and past participle subminiaturized, present participle subminiaturizing, 3rd person present singular subminiaturizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {
@@ -10274,7 +10271,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "CIDR (Classless Interdomain Routing); Data Communication Concepts; Internet; IP (Intenet Protocol); Network concepts; Routing Protocols and Algorithms; và TCP/IP (Transmission Control Protocol/Internet Protocol)"
+        "t": "CIDR (Classless Interdomain Routing); Data Communication Concepts; Internet; IP (Intenet Protocol); Network concepts; Routing Protocols and Algorithms; and TCP/IP (Transmission Control Protocol/Internet Protocol)"
       },
       {"k": "m", "t": "THÔNG TIN TRÊN INTERNET"},
       {"k": "m", "t": "3com's IP paper (exellent) http://www.3com.com/nsc/501302s.html"},
@@ -10310,7 +10307,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "IP (Internet Protocol); Network concepts; Routers; Routing Protocols and Algorithms; và TCP/IP (Transmission Control Protocol/Internet Protocol)."
+        "t": "IP (Internet Protocol); Network concepts; Routers; Routing Protocols and Algorithms; and TCP/IP (Transmission Control Protocol/Internet Protocol)."
       }
     ],
     "k": "subnetworks"
@@ -10928,7 +10925,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "minor design on coat of arms: in heraldry, a small shape or design, ví dụ: a lozenge, that can appear on a coat of arms và is smaller than the most prominent shape ordinary"
+        "t": "minor design on coat of arms: in heraldry, a small shape or design, ví dụ: a lozenge, that can appear on a coat of arms and is smaller than the most prominent shape ordinary"
       }
     ],
     "k": "subordinary"
@@ -11005,7 +11002,7 @@
       },
       {
         "k": "m",
-        "t": "It may be either one word such as \"although,\" \"because,\" hoặc \"since,\" hoặc a group of words such as \"in order that\" hoặc \"as long as.\""
+        "t": "It may be either one word such as \"although,\" \"because,\" hoặc \"since,\" hoặc a group of words such as \"in order that\" or \"as long as.\""
       }
     ],
     "k": "subordinate conjunction"
@@ -11217,7 +11214,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "of birds that do not sing: relating to, typical of, hoặc belonging to the large subgroup of passerine birds that are not songbirds và are mainly found in America. Xem oscine"
+        "t": "of birds that do not sing: relating to, typical of, or belonging to the large subgroup of passerine birds that are not songbirds and are mainly found in America. Xem oscine"
       }
     ],
     "k": "suboscine"
@@ -14022,9 +14019,9 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. assignment of power to small units: the principle that political power should be exercised by the smallest hoặc least central unit of government"
+        "t": "1. assignment of power to small units: the principle that political power should be exercised by the smallest or least central unit of government"
       },
-      {"k": "m", "t": "2. quality of being subsidiary: the fact hoặc quality of being subsidiary"}
+      {"k": "m", "t": "2. quality of being subsidiary: the fact or quality of being subsidiary"}
     ],
     "k": "subsidiarity"
   },
@@ -14747,7 +14744,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "associating without organized social structure: describes insects that associate with others but without any fixed hoặc organized social structure"
+        "t": "associating without organized social structure: describes insects that associate with others but without any fixed or organized social structure"
       },
       {"k": "m", "t": "-subsocially (trạng từ)"}
     ],
@@ -14857,7 +14854,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "quiet, low-pitched birdsong: an unstructured song of a bird that is quieter và lower-pitched than full song và is often performed by young adult birds"
+        "t": "quiet, low-pitched birdsong: an unstructured song of a bird that is quieter and lower-pitched than full song and is often performed by young adult birds"
       }
     ],
     "k": "subsong"
@@ -15213,7 +15210,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "excessive consumption or misuse of substance: the excessive consumption hoặc misuse of a substance for the sake of its nontherapeutic effects on the mind hoặc body, especially drugs hoặc alcohol"
+        "t": "excessive consumption or misuse of substance: the excessive consumption or misuse of a substance for the sake of its nontherapeutic effects on the mind hoặc body, especially drugs hoặc alcohol"
       }
     ],
     "k": "substance abuse"
@@ -15234,7 +15231,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "peptide in body tissues: a peptide found in body tissues, especially nervous tissue, that is involved in the transmission of pain và in inflammation"
+        "t": "peptide in body tissues: a peptide found in body tissues, especially nervous tissue, that is involved in the transmission of pain and in inflammation"
       }
     ],
     "k": "substance p"
@@ -15749,7 +15746,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "indispensable human right: a basic human right that is regarded as existing naturally and indispensably, ví dụ: the right to life hoặc liberty"
+        "t": "indispensable human right: a basic human right that is regarded as existing naturally and indispensably, ví dụ: the right to life or liberty"
       }
     ],
     "k": "substantive right"
@@ -16056,7 +16053,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "interchangeable goods: goods that are more hoặc less interchangeable to the consumer, so that an increase in the price of one increases demand for the other"
+        "t": "interchangeable goods: goods that are more or less interchangeable to the consumer, so that an increase in the price of one increases demand for the other"
       }
     ],
     "k": "substitute goods"
@@ -18416,7 +18413,7 @@
       {"k": "m", "t": "1. subsidiary unit: a unit that forms part of a larger unit"},
       {
         "k": "m",
-        "t": "2. separable part of molecule: a part of a large molecule hoặc complex that can be dissociated from the whole without rupture of covalent chemical bonds"
+        "t": "2. separable part of molecule: a part of a large molecule or complex that can be dissociated from the whole without rupture of covalent chemical bonds"
       }
     ],
     "k": "subunit"
@@ -18428,7 +18425,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "vaccine from virus or bacterium: a vaccine that creates a bodily immunity to a virus hoặc bacterium from whose DNA the vaccine is made"
+        "t": "vaccine from virus or bacterium: a vaccine that creates a bodily immunity to a virus or bacterium from whose DNA the vaccine is made"
       }
     ],
     "k": "subunit vaccine"
@@ -19023,7 +19020,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "mouthed but not spoken: mouthed hoặc mentally pictured but not sounded out loud"
+        "t": "mouthed but not spoken: mouthed or mentally pictured but not sounded out loud"
       },
       {"k": "m", "t": "-subvocally (trạng từ)"}
     ],
@@ -19034,12 +19031,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle subvocalized, present participle subvocalizing, 3rd person present singular subvocalizes)"
+        "t": "(past and past participle subvocalized, present participle subvocalizing, 3rd person present singular subvocalizes)"
       },
-      {"k": "m", "t": "transitive và intransitive verb"},
+      {"k": "m", "t": "transitive and intransitive verb"},
       {
         "k": "m",
-        "t": "mouth words soundlessly: to mouth words hoặc other speech sounds without saying them out loud"
+        "t": "mouth words soundlessly: to mouth words or other speech sounds without saying them out loud"
       },
       {"k": "m", "t": "-subvocalization (danh từ)"}
     ],
@@ -19133,7 +19130,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "powerful bass loudspeaker: a loudspeaker used to reproduce very low-frequency sounds with great power và fidelity"
+        "t": "powerful bass loudspeaker: a loudspeaker used to reproduce very low-frequency sounds with great power and fidelity"
       }
     ],
     "k": "subwoofer"
@@ -19468,7 +19465,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều success stories)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "successful person or thing: somebody hoặc something that is very successful"}
+      {"k": "m", "t": "successful person or thing: somebody or something that is very successful"}
     ],
     "k": "success story"
   },
@@ -19586,7 +19583,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "crop planted in sequence: a crop that follows another crop as a successive planting, hoặc a crop of a variety with a different rate of growth"
+        "t": "crop planted in sequence: a crop that follows another crop as a successive planting, or a crop of a variety with a different rate of growth"
       }
     ],
     "k": "succession crop"
@@ -20207,12 +20204,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle succussed, present participle succussing, 3rd person present singular succusses)"
+        "t": "(past and past participle succussed, present participle succussing, 3rd person present singular succusses)"
       },
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "shake patient to detect cavity contents: to shake a patient in order to detect the presence of air hoặc fluid in a body cavity, especially the space between the lungs và the chest wall"
+        "t": "shake patient to detect cavity contents: to shake a patient in order to detect the presence of air or fluid in a body cavity, especially the space between the lungs and the chest wall"
       }
     ],
     "k": "succuss"
@@ -20483,7 +20480,7 @@
     "h": "suchness",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "essential quality: an essential quality hoặc condition"}
+      {"k": "m", "t": "essential quality: an essential quality or condition"}
     ],
     "k": "suchness"
   },
@@ -21060,7 +21057,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "something that adheres by suction: a round, slightly cupped piece of plastic hoặc rubber that when pressed onto a flat surface sticks to it by suction"
+        "t": "something that adheres by suction: a round, slightly cupped piece of plastic or rubber that when pressed onto a flat surface sticks to it by suction"
       }
     ],
     "k": "suction cup"
@@ -21804,7 +21801,7 @@
       },
       {
         "k": "m",
-        "t": "It has led to the death of various species of oak in California và Oregon, although European species appear to be less at risk."
+        "t": "It has led to the death of various species of oak in California and Oregon, although European species appear to be less at risk."
       }
     ],
     "k": "sudden oak death"
@@ -22108,7 +22105,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "port in northeastern Egypt, at the head of the Gulf of Suez và at the southern end of the Suez Canal."
+        "t": "port in northeastern Egypt, at the head of the Gulf of Suez and at the southern end of the Suez Canal."
       },
       {"k": "m", "t": "Dân số khoảng: 417,000 (thống kê năm 1998)"}
     ],
@@ -22446,7 +22443,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "principle that nothing happens by chance: the philosophical principle that nothing happens by chance và that an explanation must be available for everything"
+        "t": "principle that nothing happens by chance: the philosophical principle that nothing happens by chance and that an explanation must be available for everything"
       }
     ],
     "k": "sufficient reason"
@@ -22619,7 +22616,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "short powerful horse: a powerful horse with short legs và a chestnut brown coat, belonging to a breed that originated in England và is used for pulling loads such as plows hoặc carts"
+        "t": "short powerful horse: a powerful horse with short legs and a chestnut brown coat, belonging to a breed that originated in England and is used for pulling loads such as plows or carts"
       }
     ],
     "k": "suffolk punch"
@@ -22707,7 +22704,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "waiter or butler: in an Arabic-speaking country, somebody who serves people food hoặc drink"
+        "t": "waiter or butler: in an Arabic-speaking country, somebody who serves people food or drink"
       }
     ],
     "k": "suffragi"
@@ -22803,7 +22800,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. ranch worker's blanket: a thick blanket hoặc quilt used especially by ranch workers when sleeping outdoors"
+        "t": "1. ranch worker's blanket: a thick blanket or quilt used especially by ranch workers when sleeping outdoors"
       },
       {"k": "m", "t": "2. Ireland straw rope: a rope made of straw"},
       {
@@ -22853,7 +22850,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "group of sugar maples: a wood hoặc group of trees consisting mainly of sugar maples"
+        "t": "group of sugar maples: a wood or group of trees consisting mainly of sugar maples"
       }
     ],
     "k": "sugar bush"
@@ -22932,7 +22929,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "tree with sweet leaves: a small eucalyptus tree with smooth bark, barrel-shaped fruit, và sweet-tasting leaves."
+        "t": "tree with sweet leaves: a small eucalyptus tree with smooth bark, barrel-shaped fruit, and sweet-tasting leaves."
       },
       {"k": "m", "t": "Tên Latinh: Eucalyptus cladocalyx"}
     ],
@@ -22965,7 +22962,7 @@
     "h": "sugar off",
     "segs": [
       {"k": "m", "t": "intransitive verb"},
-      {"k": "m", "t": "make maple syrup: to boil maple sap to make maple syrup và maple sugar"}
+      {"k": "m", "t": "make maple syrup: to boil maple sap to make maple syrup and maple sugar"}
     ],
     "k": "sugar off"
   },
@@ -22977,7 +22974,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "tall evergreen with sugary resin: a tall pine tree that exudes a sugary resin và is also valued for timber. Thường thấy ở: western North American coast."
+        "t": "tall evergreen with sugary resin: a tall pine tree that exudes a sugary resin and is also valued for timber. Thường thấy ở: western North American coast."
       },
       {"k": "m", "t": "Tên Latinh: Pinus lambertiana"}
     ],
@@ -23815,7 +23812,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "agreement to die together: an agreement between two hoặc more people that they will kill themselves at the same time"
+        "t": "agreement to die together: an agreement between two or more people that they will kill themselves at the same time"
       }
     ],
     "k": "suicide pact"
@@ -24054,7 +24051,7 @@
       {"k": "m", "t": "intransitive verb"},
       {
         "k": "m",
-        "t": "put on uniform: to put on a uniform hoặc a special costume in preparation for an activity, especially a sports event"
+        "t": "put on uniform: to put on a uniform or a special costume in preparation for an activity, especially a sports event"
       }
     ],
     "k": "suit up"
@@ -24157,7 +24154,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "snowboarding trick: in snowboarding, a trick resembling a method air except that, once the knees are bent, the rider's front hand reaches under the snowboard's base và grabs the toe edge (lóng)"
+        "t": "snowboarding trick: in snowboarding, a trick resembling a method air except that, once the knees are bent, the rider's front hand reaches under the snowboard's base and grabs the toe edge (lóng)"
       }
     ],
     "k": "suitcase air"
@@ -24312,7 +24309,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Japanese meat and vegetable dish: a Japanese dish consisting of thin slices of meat, vegetables, và noodles, cooked quickly in a sweet soy sauce"
+        "t": "Japanese meat and vegetable dish: a Japanese dish consisting of thin slices of meat, vegetables, and noodles, cooked quickly in a sweet soy sauce"
       }
     ],
     "k": "sukiyaki"
@@ -24324,7 +24321,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "shelter built during Sukkoth: a temporary light shelter with a roof of branches built in Jewish homes, yards, hoặc temples for the festival of Sukkoth"
+        "t": "shelter built during Sukkoth: a temporary light shelter with a roof of branches built in Jewish homes, yards, or temples for the festival of Sukkoth"
       }
     ],
     "k": "sukkah"
@@ -24579,7 +24576,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "solid used in weedkillers: a colorless crystalline solid. Dùng để: manufacture of weedkillers, flame-proofing agents, và artificial sweeteners."
+        "t": "solid used in weedkillers: a colorless crystalline solid. Dùng để: manufacture of weedkillers, flame-proofing agents, and artificial sweeteners."
       },
       {"k": "m", "t": "Công thức: H3NSO3"}
     ],
@@ -24615,7 +24612,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "metal with sulfur and antimony: a complex salt in which a metal is combined with sulfur và antimony"
+        "t": "metal with sulfur and antimony: a complex salt in which a metal is combined with sulfur and antimony"
       }
     ],
     "k": "sulfantimonide"
@@ -24627,7 +24624,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "metal with sulfur and arsenic: a complex salt in which a metal is combined with sulfur và arsenic"
+        "t": "metal with sulfur and arsenic: a complex salt in which a metal is combined with sulfur and arsenic"
       }
     ],
     "k": "sulfarsenate"
@@ -24894,10 +24891,10 @@
     "h": "sulfonate",
     "segs": [
       {"k": "m", "t": "Danh từ (số nhiều sulfonates)"},
-      {"k": "m", "t": "sulfonic acid salt or ester: a salt hoặc ester of sulfonic acid"},
+      {"k": "m", "t": "sulfonic acid salt or ester: a salt or ester of sulfonic acid"},
       {
         "k": "m",
-        "t": "transitive verb (past và past participle sulfonated, present participle sulfonating, 3rd person present singular sulfonates)"
+        "t": "transitive verb (past and past participle sulfonated, present participle sulfonating, 3rd person present singular sulfonates)"
       },
       {"k": "m", "t": "treat with sulfuric acid: to treat an organic substance with sulfuric acid"},
       {"k": "m", "t": "-sulfonation (danh từ)"}
@@ -24962,7 +24959,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "of acid group SO2OH: relating to, containing, hoặc derived from the acid group SO2OH"
+        "t": "of acid group SO2OH: relating to, containing, or derived from the acid group SO2OH"
       }
     ],
     "k": "sulfonic"
@@ -24983,7 +24980,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "sulfur-containing ion or radical: an ion hoặc radical containing sulfur with a valence of three"
+        "t": "sulfur-containing ion or radical: an ion or radical containing sulfur with a valence of three"
       }
     ],
     "k": "sulfonium"
@@ -25039,7 +25036,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "organic chemical compound: an organic chemical compound in which a group consisting of a sulfur và an oxygen atom is bonded to two carbon atoms"
+        "t": "organic chemical compound: an organic chemical compound in which a group consisting of a sulfur and an oxygen atom is bonded to two carbon atoms"
       }
     ],
     "k": "sulfoxide"
@@ -25162,7 +25159,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "very large bacterium: a very large bacterium, typically between 0.1 và 0.3 mm in size but sometimes larger, found in sediments off the coast of western Namibia. It uses nitrates as its source of oxygen in oxidizing và breaking down sulfur compounds."
+        "t": "very large bacterium: a very large bacterium, typically between 0.1 và 0.3 mm in size but sometimes larger, found in sediments off the coast of western Namibia. It uses nitrates as its source of oxygen in oxidizing and breaking down sulfur compounds."
       },
       {"k": "m", "t": "Tên Latinh: Thiomargarita namibiensis"}
     ],
@@ -25216,10 +25213,10 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle sulfurated, present participle sulfurating, 3rd person present singular sulfurates)"
+        "t": "(past and past participle sulfurated, present participle sulfurating, 3rd person present singular sulfurates)"
       },
       {"k": "m", "t": "transitive verb"},
-      {"k": "m", "t": "treat something with sulfur: to treat hoặc combine something with sulfur"},
+      {"k": "m", "t": "treat something with sulfur: to treat or combine something with sulfur"},
       {"k": "m", "t": "-sulfuration (danh từ)"}
     ],
     "k": "sulfurate"
@@ -25337,12 +25334,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle sulfurized, present participle sulfurizing, 3rd person present singular sulfurizes)"
+        "t": "(past and past participle sulfurized, present participle sulfurizing, 3rd person present singular sulfurizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "treat with sulfur: to treat hoặc combine something with sulfur hoặc a sulfur compound"
+        "t": "treat with sulfur: to treat or combine something with sulfur or a sulfur compound"
       },
       {"k": "m", "t": "-sulfurization (danh từ)"}
     ],
@@ -26052,7 +26049,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "yellow-winged butterfly: a butterfly that has yellow hoặc orange wings with black markings."
+        "t": "yellow-winged butterfly: a butterfly that has yellow or orange wings with black markings."
       },
       {"k": "m", "t": "Genus: Colias"}
     ],
@@ -26224,7 +26221,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cockatoo with yellow crest: a large white cockatoo that lives in large noisy flocks và has a distinctive yellow crest. Thường thấy ở: northern và eastern Australia, Tasmania."
+        "t": "cockatoo with yellow crest: a large white cockatoo that lives in large noisy flocks and has a distinctive yellow crest. Thường thấy ở: northern và eastern Australia, Tasmania."
       },
       {"k": "m", "t": "Tên Latinh: Cacatua galerita"}
     ],
@@ -26649,7 +26646,7 @@
   {
     "h": "Sulu Sea",
     "segs": [
-      {"k": "m", "t": "arm of the Pacific Ocean west of the Philippines và northeast of Borneo"}
+      {"k": "m", "t": "arm of the Pacific Ocean west of the Philippines and northeast of Borneo"}
     ],
     "k": "sulu sea"
   },
@@ -26900,7 +26897,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ancient country of southern Mesopotamia, in present-day Iraq. Archaeological discoveries reveal the area to have been first settled in the 5th millennium bc. It became prosperous và powerful from about 3000 bc, và fell into decline from about 1760 bc, when it was absorbed into Babylonia và Assyria."
+        "t": "ancient country of southern Mesopotamia, in present-day Iraq. Archaeological discoveries reveal the area to have been first settled in the 5th millennium bc. It became prosperous and powerful from about 3000 bc, and fell into decline from about 1760 bc, when it was absorbed into Babylonia and Assyria."
       }
     ],
     "k": "sumer"
@@ -26954,7 +26951,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Japanese black ink: solid black ink used in sticks for Japanese painting và writing"
+        "t": "Japanese black ink: solid black ink used in sticks for Japanese painting and writing"
       }
     ],
     "k": "sumi"
@@ -26992,7 +26989,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "summary of all knowledge on subject: a summary of what is known of a subject, especially a medieval treatise on theology, philosophy, canon law, hoặc alchemy"
+        "t": "summary of all knowledge on subject: a summary of what is known of a subject, especially a medieval treatise on theology, philosophy, canon law, or alchemy"
       }
     ],
     "k": "summa"
@@ -27465,7 +27462,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "place of summer recreation for children: a place, usually residential, offering outdoor recreational activities và skill development for children during the summer"
+        "t": "place of summer recreation for children: a place, usually residential, offering outdoor recreational activities and skill development for children during the summer"
       }
     ],
     "k": "summer camp"
@@ -27504,7 +27501,7 @@
         "k": "m",
         "t": "plant with red leaves in fall: a bushy annual plant with narrow light green leaves that turn red in fall."
       },
-      {"k": "m", "t": "It spreads rapidly as a weed và is toxic to grazing animals."},
+      {"k": "m", "t": "It spreads rapidly as a weed and is toxic to grazing animals."},
       {"k": "m", "t": "Thường thấy ở: Europe và western Asia, naturalized elsewhere."},
       {"k": "m", "t": "Tên Latinh: Bassia scoparia"}
     ],
@@ -27535,7 +27532,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "large flounder of W Atlantic ocean: a large flounder of the North American Atlantic coast that can grow to a length of about 1 m/3 ft và is fished commercially for food."
+        "t": "large flounder of W Atlantic ocean: a large flounder of the North American Atlantic coast that can grow to a length of about 1 m/3 ft and is fished commercially for food."
       },
       {"k": "m", "t": "Tên Latinh: Paralichthys dentatus"}
     ],
@@ -27690,7 +27687,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. summer play productions: productions of plays và musicals by stock companies in the summer"
+        "t": "U.S. summer play productions: productions of plays and musicals by stock companies in the summer"
       }
     ],
     "k": "summer stock"
@@ -27849,7 +27846,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "late-season wood growth: wood produced late in a tree's annual growth cycle, which is harder và less porous than early-season growth springwood"
+        "t": "late-season wood growth: wood produced late in a tree's annual growth cycle, which is harder and less porous than early-season growth springwood"
       }
     ],
     "k": "summerwood"
@@ -28048,7 +28045,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. holding of summit conferences: the practice of holding, hoặc deciding matters of international importance through, summit conferences"
+        "t": "U.S. holding of summit conferences: the practice of holding, or deciding matters of international importance through, summit conferences"
       }
     ],
     "k": "summitry"
@@ -28422,7 +28419,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in east central South Carolina, southwest of Florence và east of Columbia."
+        "t": "city in east central South Carolina, southwest of Florence and east of Columbia."
       },
       {"k": "m", "t": "Dân số khoảng: 39,671 (thống kê năm 2004)"}
     ],
@@ -28482,7 +28479,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small forest-dwelling bear: a small bear with sleek black fur, a light-colored muzzle, và a yellowish breast marking. Thường thấy ở: forests of Southeast Asia."
+        "t": "small forest-dwelling bear: a small bear with sleek black fur, a light-colored muzzle, and a yellowish breast marking. Thường thấy ở: forests of Southeast Asia."
       },
       {"k": "m", "t": "Tên Latinh: Helarctos malayanus"}
     ],
@@ -28530,7 +28527,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "symbol of Egyptian Sun god: an ancient Egyptian Sun god symbol, consisting of a disk with wings và two serpents"
+        "t": "symbol of Egyptian Sun god: an ancient Egyptian Sun god symbol, consisting of a disk with wings and two serpents"
       }
     ],
     "k": "sun disk"
@@ -28652,7 +28649,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Java; ONC (Open Network Computing); Sun Microsystems Solaris; và Sun Microsystems Solaris NEO"
+        "t": "Java; ONC (Open Network Computing); Sun Microsystems Solaris; and Sun Microsystems Solaris NEO"
       },
       {"k": "m", "t": "THÔNG TIN TRÊN INTERNET"},
       {"k": "m", "t": "Sun Microsystems, Inc. http://www.sun.com"},
@@ -28682,7 +28679,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Java; ONC (Open Network Computing); Sun Microsystems Solaris; và Sun Microsystems Solaris NEO; và WebNFS (Network File System)"
+        "t": "Java; ONC (Open Network Computing); Sun Microsystems Solaris; and Sun Microsystems Solaris NEO; and WebNFS (Network File System)"
       },
       {"k": "m", "t": "THÔNG TIN TRÊN INTERNET"},
       {"k": "m", "t": "Sun Microsystems' Solaris site http://www.sun.com/solaris"},
@@ -28711,7 +28708,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "sunbathing platform: a special platform hoặc area designed for sunbathing, especially on the deck of a yacht"
+        "t": "sunbathing platform: a special platform or area designed for sunbathing, especially on the deck of a yacht"
       }
     ],
     "k": "sun pad"
@@ -28937,7 +28934,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bird with sunburst wing markings: a solitary water bird with mottled brownish feathers và a chestnut marking like a sunburst when its wings are spread. Thường thấy ở: Central và South America."
+        "t": "bird with sunburst wing markings: a solitary water bird with mottled brownish feathers and a chestnut marking like a sunburst when its wings are spread. Thường thấy ở: Central và South America."
       },
       {"k": "m", "t": "Tên Latinh: Eurypyga helius"}
     ],
@@ -29362,7 +29359,7 @@
     "h": "sunbaked",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. hardened by sun: hard và dry from prolonged exposure to the sun"},
+      {"k": "m", "t": "1. hardened by sun: hard and dry from prolonged exposure to the sun"},
       {"k": "m", "t": "2. baked in sun: baked by a process of exposure to the sun"}
     ],
     "k": "sunbaked"
@@ -29442,7 +29439,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. sunny warm part of United States: the southern và southwestern states of the United States, having a warm sunny climate"
+        "t": "U.S. sunny warm part of United States: the southern and southwestern states of the United States, having a warm sunny climate"
       }
     ],
     "k": "sunbelt"
@@ -29579,7 +29576,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cup-shaped pit in snowfield or glacier: a pit in a snowfield hoặc glacier that resembles a cup và is caused by melting"
+        "t": "cup-shaped pit in snowfield or glacier: a pit in a snowfield or glacier that resembles a cup and is caused by melting"
       }
     ],
     "k": "suncup"
@@ -29595,7 +29592,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "island group of the Malay Archipelago between the South China Sea và the Indian Ocean. It consists of two groups, the Greater Sunda Islands, which include Sumatra, Java và Borneo, và the Lesser Sunda Islands, which include Bali và Timor."
+        "t": "island group of the Malay Archipelago between the South China Sea and the Indian Ocean. It consists of two groups, the Greater Sunda Islands, which include Sumatra, Java và Borneo, và the Lesser Sunda Islands, which include Bali and Timor."
       }
     ],
     "k": "sunda islands"
@@ -29666,7 +29663,7 @@
       },
       {
         "k": "m",
-        "t": "2. effective weapon: an action that comes as a devastating blow to an opponent hoặc rival"
+        "t": "2. effective weapon: an action that comes as a devastating blow to an opponent or rival"
       }
     ],
     "k": "sunday punch"
@@ -29806,7 +29803,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "dress for hot weather: a light sleeveless summer dress with a low bodice that exposes the shoulders, back, và arms to the sun"
+        "t": "dress for hot weather: a light sleeveless summer dress with a low bodice that exposes the shoulders, back, and arms to the sun"
       }
     ],
     "k": "sundress"
@@ -29915,7 +29912,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và port on the Gulf of Bothnia, Sweden, situated about 400 km/250 mi north of Stockholm."
+        "t": "city and port on the Gulf of Bothnia, Sweden, situated about 400 km/250 mi north of Stockholm."
       },
       {"k": "m", "t": "Dân số khoảng: 93,707 (thống kê năm 2004)"}
     ],
@@ -29975,7 +29972,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "S African lizard: a lizard that grows to about 35.6 cm/14 in. long và is known for its habit of basking in the sun. Thường thấy ở: southern Africa."
+        "t": "S African lizard: a lizard that grows to about 35.6 cm/14 in. long and is known for its habit of basking in the sun. Thường thấy ở: southern Africa."
       },
       {"k": "m", "t": "Tên Latinh: Cordylus giganteus"}
     ],
@@ -29992,7 +29989,7 @@
       {"k": "m", "t": "sunglasses, plural noun"},
       {
         "k": "m",
-        "t": "glasses that shield eyes from glare: eyeglasses with tinted hoặc darkened lenses to protect the eyes from sunlight hoặc its glare"
+        "t": "glasses that shield eyes from glare: eyeglasses with tinted or darkened lenses to protect the eyes from sunlight or its glare"
       }
     ],
     "k": "sunglass"
@@ -30014,7 +30011,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "glow from sun below horizon: a pale pink hoặc yellow glow seen in the sky just before sunrise hoặc just after sunset"
+        "t": "glow from sun below horizon: a pale pink or yellow glow seen in the sky just before sunrise or just after sunset"
       }
     ],
     "k": "sunglow"
@@ -30067,7 +30064,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ditch acting as fence: a ditch containing a fence hoặc wall that separates lands without spoiling the appearance of the landscape"
+        "t": "ditch acting as fence: a ditch containing a fence or wall that separates lands without spoiling the appearance of the landscape"
       }
     ],
     "k": "sunk fence"
@@ -30433,7 +30430,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "celebration of Apache girl's becoming adult: a rite of passage into adulthood for Apache girls, a day-long event involving dancing và praying."
+        "t": "celebration of Apache girl's becoming adult: a rite of passage into adulthood for Apache girls, a day-long event involving dancing and praying."
       },
       {
         "k": "m",
@@ -30466,7 +30463,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "opening in roof of car: a small panel in the roof of a car that can be raised hoặc slid back to let in air và light"
+        "t": "opening in roof of car: a small panel in the roof of a car that can be raised or slid back to let in air and light"
       }
     ],
     "k": "sunroof"
@@ -30484,7 +30481,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "substance to prevent sunburn: a substance applied to the skin as a cream, lotion, hoặc oil to protect it from burning without preventing tanning"
+        "t": "substance to prevent sunburn: a substance applied to the skin as a cream, lotion, or oil to protect it from burning without preventing tanning"
       }
     ],
     "k": "sunscreen"
@@ -30567,7 +30564,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "region in southeastern Queensland, Australia, consisting of the 45 km/28 mi stretch of coastline between Noosa Heads và Caloundra. It is a popular tourist destination."
+        "t": "region in southeastern Queensland, Australia, consisting of the 45 km/28 mi stretch of coastline between Noosa Heads and Caloundra. It is a popular tourist destination."
       }
     ],
     "k": "sunshine coast"
@@ -30912,7 +30909,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "service mark for U.S. football game: a service mark for the championship game of the National Football League, played each year between the champions of the National Football Conference và the American Football Conference"
+        "t": "service mark for U.S. football game: a service mark for the championship game of the National Football League, played each year between the champions of the National Football Conference and the American Football Conference"
       }
     ],
     "k": "super bowl"
@@ -31579,7 +31576,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "acid with great proton-donating ability: an acid that has a proton-donating ability greater than hoặc equal to sulfuric acid"
+        "t": "acid with great proton-donating ability: an acid that has a proton-donating ability greater than or equal to sulfuric acid"
       }
     ],
     "k": "superacid"
@@ -31795,7 +31792,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "agency comprising other agencies: a large government agency made up of hoặc controlling other agencies"
+        "t": "agency comprising other agencies: a large government agency made up of or controlling other agencies"
       }
     ],
     "k": "superagency"
@@ -32481,7 +32478,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bubble formation that reduces drag: the formation of a large bubble around a fast-moving underwater object such as a submarine hoặc torpedo that greatly reduces the viscous drag of the water"
+        "t": "bubble formation that reduces drag: the formation of a large bubble around a fast-moving underwater object such as a submarine or torpedo that greatly reduces the viscous drag of the water"
       },
       {"k": "m", "t": "-supercavitating, adjective"},
       {"k": "m", "t": "-supercavity (danh từ)"}
@@ -32514,7 +32511,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. supermarket with other departments: a supermarket with other departments such as a pharmacy, banking center, hoặc clothing department (often used with retail trade names)"
+        "t": "U.S. supermarket with other departments: a supermarket with other departments such as a pharmacy, banking center, or clothing department (often used with retail trade names)"
       }
     ],
     "k": "supercenter"
@@ -32849,7 +32846,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "twisted around itself: used to describe DNA in which the double helix is bent over và twisted around itself to form a tight coil. This is the usual compact form of DNA in chromosomes."
+        "t": "twisted around itself: used to describe DNA in which the double helix is bent over and twisted around itself to form a tight coil. This is the usual compact form of DNA in chromosomes."
       }
     ],
     "k": "supercoiled"
@@ -33391,7 +33388,7 @@
         "k": "m",
         "t": "land mass from which continents formed: one of the large continental masses believed to have broken into several parts that drifted apart to form the present continents."
       },
-      {"k": "m", "t": "These land masses included Pangea, Gondwanaland, và Laurasia."}
+      {"k": "m", "t": "These land masses included Pangea, Gondwanaland, and Laurasia."}
     ],
     "k": "supercontinent"
   },
@@ -33505,7 +33502,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. very active physically challenged person: a physically challenged person who is very fit và takes part in strenuous sports (thông tục) (sometimes offensive)"
+        "t": "U.S. very active physically challenged person: a physically challenged person who is very fit and takes part in strenuous sports (thông tục) (sometimes offensive)"
       }
     ],
     "k": "supercrip"
@@ -34676,12 +34673,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle supererogated, present participle supererogating, 3rd person present singular supererogates)"
+        "t": "(past and past participle supererogated, present participle supererogating, 3rd person present singular supererogates)"
       },
       {"k": "m", "t": "intransitive verb"},
       {
         "k": "m",
-        "t": "act beyond call of duty: to do hoặc perform something beyond what is required hoặc expected (archaic)"
+        "t": "act beyond call of duty: to do or perform something beyond what is required or expected (archaic)"
       },
       {"k": "m", "t": "-supererogator (danh từ)"}
     ],
@@ -36372,7 +36369,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "extra-large graphics: simple brightly colored graphic designs of very large proportions (takes a singular hoặc plural verb)"
+        "t": "extra-large graphics: simple brightly colored graphic designs of very large proportions (takes a singular or plural verb)"
       }
     ],
     "k": "supergraphics"
@@ -36430,7 +36427,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "theory uniting forces in physics: a theory in physics that encompasses all known fundamental interactions và uses hypothetical particles gravitons to carry the gravitational force."
+        "t": "theory uniting forces in physics: a theory in physics that encompasses all known fundamental interactions and uses hypothetical particles gravitons to carry the gravitational force."
       },
       {"k": "m", "t": "It has largely been supplanted by superstring theory."}
     ],
@@ -36811,7 +36808,7 @@
       },
       {
         "k": "m",
-        "t": "3. somebody in heaviest weight division: a sportsperson, especially a wrestler hoặc weightlifter, who competes in the heaviest weight division"
+        "t": "3. somebody in heaviest weight division: a sportsperson, especially a wrestler or weightlifter, who competes in the heaviest weight division"
       },
       {"k": "m", "t": "-superheavyweight (tính từ)"}
     ],
@@ -36858,7 +36855,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "superhuman character: a fictional character, ví dụ: from a cartoon, who has superhuman powers và uses them to fight crime hoặc evil"
+        "t": "superhuman character: a fictional character, ví dụ: from a cartoon, who has superhuman powers and uses them to fight crime or evil"
       }
     ],
     "k": "superhero"
@@ -38376,7 +38373,7 @@
         "k": "m",
         "t": "planet further from Sun than Earth: a planet whose distance from the Sun is greater than that of Earth."
       },
-      {"k": "m", "t": "The superior planets are Mars, Jupiter, Saturn, Uranus, Neptune, và Pluto."}
+      {"k": "m", "t": "The superior planets are Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto."}
     ],
     "k": "superior planet"
   },
@@ -39110,7 +39107,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. with greatest possible security arrangements: describes a prison that is protected hoặc made secure by the most extensive và elaborate security arrangements that are available hoặc in current use"
+        "t": "U.S. with greatest possible security arrangements: describes a prison that is protected or made secure by the most extensive and elaborate security arrangements that are available or in current use"
       }
     ],
     "k": "supermax"
@@ -39272,7 +39269,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "highly paid popular fashion model: a fashion model who is extremely well paid và in very high demand by fashion designers và photographers"
+        "t": "highly paid popular fashion model: a fashion model who is extremely well paid and in very high demand by fashion designers and photographers"
       }
     ],
     "k": "supermodel"
@@ -39317,7 +39314,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "busy mother: a woman who cares for a home và family, is involved in children's và community activities, và often also may be employed full-time (thông tục)"
+        "t": "busy mother: a woman who cares for a home and family, is involved in children's và community activities, và often also may be employed full-time (thông tục)"
       }
     ],
     "k": "supermom"
@@ -40051,7 +40048,7 @@
       },
       {
         "k": "m",
-        "t": "2. somebody or something superior: somebody hoặc something of superior rank, status, hoặc class"
+        "t": "2. somebody or something superior: somebody or something of superior rank, status, or class"
       },
       {"k": "m", "t": "-superordinate (tính từ)"}
     ],
@@ -40349,7 +40346,7 @@
       },
       {
         "k": "m",
-        "t": "2. superhuman person: an imaginary hoặc fictional person with superhuman powers"
+        "t": "2. superhuman person: an imaginary or fictional person with superhuman powers"
       }
     ],
     "k": "superperson"
@@ -40439,7 +40436,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "capable of shaping without fracturing: describes alloys that are capable of being easily shaped và molded at high temperatures without fracturing"
+        "t": "capable of shaping without fracturing: describes alloys that are capable of being easily shaped and molded at high temperatures without fracturing"
       },
       {"k": "m", "t": "-superplasticity (danh từ)"}
     ],
@@ -41517,7 +41514,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cheap travel ticket bought in advance: an airline ticket that is cheaper than the usual price và must usually be bought a specific amount of time before the date of travel"
+        "t": "cheap travel ticket bought in advance: an airline ticket that is cheaper than the usual price and must usually be bought a specific amount of time before the date of travel"
       }
     ],
     "k": "supersaver"
@@ -41744,7 +41741,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "enhanced seniority: an employment seniority system that considers factors over và above length of service, used as a means of retaining key employees who might otherwise be laid off"
+        "t": "enhanced seniority: an employment seniority system that considers factors over and above length of service, used as a means of retaining key employees who might otherwise be laid off"
       }
     ],
     "k": "superseniority"
@@ -41884,7 +41881,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "set having more than one set: in mathematics, a set that contains one hoặc more other sets"
+        "t": "set having more than one set: in mathematics, a set that contains one or more other sets"
       }
     ],
     "k": "superset"
@@ -42041,10 +42038,13 @@
       {"k": "m", "t": "noun (số nhiều supersingles)"},
       {
         "k": "m",
-        "t": "successful single person: a single person who has a successful career và personal life"
+        "t": "successful single person: a single person who has a successful career and personal life"
       },
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "single and successful: single và successful in both career và personal life"}
+      {
+        "k": "m",
+        "t": "single and successful: single and successful in both career and personal life"
+      }
     ],
     "k": "supersingle"
   },
@@ -43240,7 +43240,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. translation projected above stage: a translation of words being spoken hoặc sung in a foreign language during the performance of a play hoặc opera, projected on a screen above the stage. Canadian term surtitle"
+        "t": "U.S. translation projected above stage: a translation of words being spoken or sung in a foreign language during the performance of a play or opera, projected on a screen above the stage. Canadian term surtitle"
       }
     ],
     "k": "supertitle"
@@ -43378,7 +43378,7 @@
       },
       {
         "k": "m",
-        "t": "2. medieval women's overgarment: a loose garment with a border at the neck, sleeves, và hem worn over a tunic by women at European courts in the Middle Ages"
+        "t": "2. medieval women's overgarment: a loose garment with a border at the neck, sleeves, and hem worn over a tunic by women at European courts in the Middle Ages"
       }
     ],
     "k": "supertunic"
@@ -43473,7 +43473,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "higher-octane unleaded gasoline: unleaded gasoline to which aromatic hydrocarbons have been added in order to give it a higher octane rating, và thus better performance, than standard unleaded gasoline"
+        "t": "higher-octane unleaded gasoline: unleaded gasoline to which aromatic hydrocarbons have been added in order to give it a higher octane rating, and thus better performance, than standard unleaded gasoline"
       },
       {"k": "m", "t": "-superunleaded (tính từ)"}
     ],
@@ -43782,7 +43782,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. order for care of child: a court order by which a social worker hoặc probation officer is entrusted with the personal supervision of a child involved in custody proceedings"
+        "t": "U.K. order for care of child: a court order by which a social worker or probation officer is entrusted with the personal supervision of a child involved in custody proceedings"
       }
     ],
     "k": "supervision order"
@@ -44182,7 +44182,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ineradicable weed of future: an indestructible hoặc ineradicable weed that could hypothetically evolve as a hybrid of ordinary weeds và genetically modified plants"
+        "t": "ineradicable weed of future: an indestructible or ineradicable weed that could hypothetically evolve as a hybrid of ordinary weeds and genetically modified plants"
       }
     ],
     "k": "superweed"
@@ -44335,7 +44335,7 @@
     "h": "suppertime",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "time to eat supper: the time at which supper is served hoặc eaten"}
+      {"k": "m", "t": "time to eat supper: the time at which supper is served or eaten"}
     ],
     "k": "suppertime"
   },
@@ -45412,7 +45412,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "suppliers in manufacturing process: all the manufacturers và suppliers who provide the parts that make up a particular product"
+        "t": "suppliers in manufacturing process: all the manufacturers and suppliers who provide the parts that make up a particular product"
       }
     ],
     "k": "supply chain"
@@ -45496,11 +45496,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "factor affecting supply: a fundamental factor influencing sellers' willingness to sell goods và services."
+        "t": "factor affecting supply: a fundamental factor influencing sellers' willingness to sell goods and services."
       },
       {
         "k": "m",
-        "t": "There are commonly believed to be five: resource price, production technology, price of other goods, sellers' expectations, và number of sellers."
+        "t": "There are commonly believed to be five: resource price, production technology, price of other goods, sellers' expectations, and number of sellers."
       }
     ],
     "k": "supply determinant"
@@ -45795,7 +45795,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "area of sellers' willingness: the area on hoặc above a supply curve, correlating with the prices và quantities at which sellers can be found for a particular product hoặc commodity"
+        "t": "area of sellers' willingness: the area on or above a supply curve, correlating with the prices and quantities at which sellers can be found for a particular product or commodity"
       }
     ],
     "k": "supply space"
@@ -46023,7 +46023,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "stores: an area with a supply of military material và personnel standing ready for use"
+        "t": "stores: an area with a supply of military material and personnel standing ready for use"
       }
     ],
     "k": "support area"
@@ -46115,7 +46115,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "common interest group: a group of people with a problem hoặc concern in common who meet regularly to discuss it và support one another"
+        "t": "common interest group: a group of people with a problem or concern in common who meet regularly to discuss it and support one another"
       }
     ],
     "k": "support group"
@@ -46131,7 +46131,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "elasticized stockings: elasticized stockings that support the veins in the lower legs, used by people with varicose veins hoặc bad circulation"
+        "t": "elasticized stockings: elasticized stockings that support the veins in the lower legs, used by people with varicose veins or bad circulation"
       }
     ],
     "k": "support hose"
@@ -46262,7 +46262,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "network of supporters: the group of family, friends, colleagues, hoặc professionals available to help a person hoặc organization when required"
+        "t": "network of supporters: the group of family, friends, colleagues, or professionals available to help a person or organization when required"
       }
     ],
     "k": "support system"
@@ -47465,7 +47465,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "white blood cell limiting immune response: a T cell that diminishes hoặc suppresses the immune response to an antigen of B cells và other T cells"
+        "t": "white blood cell limiting immune response: a T cell that diminishes or suppresses the immune response to an antigen of B cells and other T cells"
       }
     ],
     "k": "suppressor t cell"
@@ -47960,7 +47960,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "transcending the personal: going beyond the level hoặc context of the personal"
+        "t": "transcending the personal: going beyond the level or context of the personal"
       }
     ],
     "k": "suprapersonal"
@@ -48338,7 +48338,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "highest officer: a military commander in charge of all allied forces in a theater of war hoặc in a coalition such as NATO"
+        "t": "highest officer: a military commander in charge of all allied forces in a theater of war or in a coalition such as NATO"
       }
     ],
     "k": "supreme commander"
@@ -48390,7 +48390,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "creamy savory sauce: a rich sauce made of chicken hoặc veal stock with added cream và egg yolks"
+        "t": "creamy savory sauce: a rich sauce made of chicken or veal stock with added cream and egg yolks"
       }
     ],
     "k": "supreme sauce"
@@ -49010,7 +49010,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australian beach sports festival: an Australian sports festival held at a beach và involving surfing, swimming, canoeing, và running events"
+        "t": "Australian beach sports festival: an Australian sports festival held at a beach and involving surfing, swimming, canoeing, and running events"
       }
     ],
     "k": "surf carnival"
@@ -49070,7 +49070,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1960s California rock music: a genre of rock music originating in California in the 1960s that glamorized the lifestyle of surfing và beaches"
+        "t": "1960s California rock music: a genre of rock music originating in California in the 1960s that glamorized the lifestyle of surfing and beaches"
       }
     ],
     "k": "surf rock"
@@ -50556,7 +50556,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "flow of surplus rainwater over ground: the flow of water over the surface of the ground occurring when rainfall is not absorbed into the soil hoặc evaporated"
+        "t": "flow of surplus rainwater over ground: the flow of water over the surface of the ground occurring when rainfall is not absorbed into the soil or evaporated"
       }
     ],
     "k": "surface runoff"
@@ -51358,7 +51358,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "surfing vacation package: a vacation hoặc trip specially organized for surfers"
+        "t": "surfing vacation package: a vacation or trip specially organized for surfers"
       }
     ],
     "k": "surfari"
@@ -51370,7 +51370,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "shore bird: a winter shorebird with dark spotted feathers và a black tail with a white base. Thường thấy ở: Pacific coasts of North và South America."
+        "t": "shore bird: a winter shorebird with dark spotted feathers and a black tail with a white base. Thường thấy ở: Pacific coasts of North and South America."
       },
       {"k": "m", "t": "Tên Latinh: Aphriza virgata"}
     ],
@@ -51394,7 +51394,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fishing method: a method of fishing in which a baited line is tossed into the surf from the shore hoặc a boat"
+        "t": "fishing method: a method of fishing in which a baited line is tossed into the surf from the shore or a boat"
       },
       {"k": "m", "t": "-surfcaster (danh từ)"}
     ],
@@ -51569,7 +51569,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "coastal town in southeastern Queensland, Australia. It is a major tourist resort, và the center of the Gold Coast region."
+        "t": "coastal town in southeastern Queensland, Australia. It is a major tourist resort, and the center of the Gold Coast region."
       },
       {"k": "m", "t": "Dân số khoảng: 30,416 (thống kê năm 2001)"}
     ],
@@ -52668,7 +52668,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "excess of ready workers: a supply of unemployed hoặc underemployed people who are available to potential employers"
+        "t": "excess of ready workers: a supply of unemployed or underemployed people who are available to potential employers"
       }
     ],
     "k": "surplus labor"
@@ -53361,7 +53361,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "indicator of progress of disease: the result of a biochemical hoặc other laboratory pathology test that provides an indication of the stage to which a disease has progressed"
+        "t": "indicator of progress of disease: the result of a biochemical or other laboratory pathology test that provides an indication of the stage to which a disease has progressed"
       }
     ],
     "k": "surrogate marker"
@@ -53502,7 +53502,7 @@
         "k": "m",
         "t": "1. part of Mass: in the Roman Catholic Church, a short sentence versicle spoken by a priest during Mass, just before the preface"
       },
-      {"k": "m", "t": "2. exhortation: a cry hoặc exhortation, especially of hope (literary)"}
+      {"k": "m", "t": "2. exhortation: a cry or exhortation, especially of hope (literary)"}
     ],
     "k": "sursum corda"
   },
@@ -54172,7 +54172,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "protective bag: a protective bag that climbers hoặc hikers get into to protect themselves from exposure"
+        "t": "protective bag: a protective bag that climbers or hikers get into to protect themselves from exposure"
       }
     ],
     "k": "survival bag"
@@ -54194,7 +54194,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "protective suit for sailors: a close-fitting waterproof suit made of insulating và often buoyant material that covers the whole body so that the wearer can survive long periods in cold water"
+        "t": "protective suit for sailors: a close-fitting waterproof suit made of insulating and often buoyant material that covers the whole body so that the wearer can survive long periods in cold water"
       }
     ],
     "k": "survival suit"
@@ -54206,7 +54206,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody determined to survive: somebody who seeks to survive an impending disaster by hoarding weapons và food, often going off to live alone hoặc with a like-minded group"
+        "t": "somebody determined to survive: somebody who seeks to survive an impending disaster by hoarding weapons and food, often going off to live alone or with a like-minded group"
       },
       {"k": "m", "t": "-survivalism (danh từ)"}
     ],
@@ -54444,7 +54444,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "U.K. laws against loitering: laws that permit the arrest và prosecution of people suspected of frequenting hoặc loitering in public places for the purpose of committing a crime (dated informal)"
+        "t": "U.K. laws against loitering: laws that permit the arrest and prosecution of people suspected of frequenting or loitering in public places for the purpose of committing a crime (dated informal)"
       }
     ],
     "k": "sus laws"
@@ -54642,7 +54642,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "squirrel: a ground squirrel with large eyes và small ears that lives in dry open areas. Thường thấy ở: Europe, Asia."
+        "t": "squirrel: a ground squirrel with large eyes and small ears that lives in dry open areas. Thường thấy ở: Europe, Asia."
       },
       {"k": "m", "t": "Tên Latinh: Citellus citellus"}
     ],
@@ -56146,7 +56146,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "member of Native N American people: a member of an extinct Native North American people who lived along the Susquehanna River in New York, Pennsylvania, và Maryland"
+        "t": "member of Native N American people: a member of an extinct Native North American people who lived along the Susquehanna River in New York, Pennsylvania, and Maryland"
       }
     ],
     "k": "susquehannock"
@@ -56163,7 +56163,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "U.K. understand all about something or somebody: to get to the bottom of something, hoặc discover what somebody is up to (lóng)"
+        "t": "U.K. understand all about something or somebody: to get to the bottom of something, or discover what somebody is up to (lóng)"
       }
     ],
     "k": "suss out"
@@ -56199,7 +56199,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "short-legged spaniel: a dog with long ears và a golden silky coat, belonging to a breed of short-legged spaniel"
+        "t": "short-legged spaniel: a dog with long ears and a golden silky coat, belonging to a breed of short-legged spaniel"
       }
     ],
     "k": "sussex spaniel"
@@ -56414,7 +56414,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. radio or television program: a radio hoặc television program that does not have commercials because the station hoặc network on which it is broadcast supports it"
+        "t": "U.S. radio or television program: a radio or television program that does not have commercials because the station or network on which it is broadcast supports it"
       }
     ],
     "k": "sustaining program"
@@ -56550,7 +56550,7 @@
     "h": "sustention",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "sustainment: the act of sustaining somebody hoặc something"}
+      {"k": "m", "t": "sustainment: the act of sustaining somebody or something"}
     ],
     "k": "sustention"
   },
@@ -56589,10 +56589,10 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle susurrated, present participle susurrating, 3rd person present singular susurrates)"
+        "t": "(past and past participle susurrated, present participle susurrating, 3rd person present singular susurrates)"
       },
       {"k": "m", "t": "intransitive verb"},
-      {"k": "m", "t": "murmur: to whisper hoặc rustle softly"},
+      {"k": "m", "t": "murmur: to whisper or rustle softly"},
       {"k": "m", "t": "-susurrant, adjective"},
       {"k": "m", "t": "-susurration (danh từ)"}
     ],
@@ -56636,7 +56636,7 @@
   {
     "h": "Sutlej",
     "segs": [
-      {"k": "m", "t": "river in South Asia, flowing through Tibet, India, và Pakistan."},
+      {"k": "m", "t": "river in South Asia, flowing through Tibet, India, and Pakistan."},
       {"k": "m", "t": "Length: 1,450 km/901 mi"}
     ],
     "k": "sutlej"
@@ -56933,7 +56933,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "capital và largest city of Fiji. Situated on the southeastern coast of Viti Levu Island, it is Fiji's main seaport."
+        "t": "capital and largest city of Fiji. Situated on the southeastern coast of Viti Levu Island, it is Fiji's main seaport."
       },
       {"k": "m", "t": "Dân số khoảng: 77,366 (2000)"}
     ],
@@ -56944,7 +56944,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in the southeastern United States. It rises in southern Georgia và flows 306 km/190 mi through Florida into the Gulf of Mexico."
+        "t": "river in the southeastern United States. It rises in southern Georgia and flows 306 km/190 mi through Florida into the Gulf of Mexico."
       }
     ],
     "k": "suwannee"
@@ -56979,7 +56979,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hoặc Suchow hoặc Xuzhou city on the Grand Canal in southern Jiangsu Province, eastern China. It is an important transportation và industrial center."
+        "t": "hoặc Suchow hoặc Xuzhou city on the Grand Canal in southern Jiangsu Province, eastern China. It is an important transportation and industrial center."
       },
       {"k": "m", "t": "Dân số khoảng: 897,757 (1991)"}
     ],
@@ -56992,7 +56992,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "dance move with arm motion: a dance move in which the hands are clasped in front of the body at knee level. Leaning forward from the waist, the dancer moves sideways with his hoặc her arms swinging in the opposite direction."
+        "t": "dance move with arm motion: a dance move in which the hands are clasped in front of the body at knee level. Leaning forward from the waist, the dancer moves sideways with his or her arms swinging in the opposite direction."
       }
     ],
     "k": "suzy-q"

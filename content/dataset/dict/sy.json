@@ -199,7 +199,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "neurological disease: a neurological disease of children và pregnant women, sometimes following rheumatic fever, in which those affected experience involuntary jerking movements of the body. Former name St. Vitus's dance"
+        "t": "neurological disease: a neurological disease of children and pregnant women, sometimes following rheumatic fever, in which those affected experience involuntary jerking movements of the body. Former name St. Vitus's dance"
       }
     ],
     "k": "sydenham's chorea"
@@ -427,7 +427,7 @@
       },
       {
         "k": "m",
-        "t": "2. division into syllables: the breaking down of words into syllables, in speech hoặc writing"
+        "t": "2. division into syllables: the breaking down of words into syllables, in speech or writing"
       }
     ],
     "k": "syllabism"
@@ -477,7 +477,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "symbol standing for syllable: a written hoặc printed symbol that stands for a single syllable"
+        "t": "symbol standing for syllable: a written or printed symbol that stands for a single syllable"
       }
     ],
     "k": "syllabogram"
@@ -520,7 +520,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. grammatical agreement with only one element: the use of a word that relates to, qualifies, hoặc governs two hoặc more other words but agrees in number, gender, hoặc case with only one of them."
+        "t": "1. grammatical agreement with only one element: the use of a word that relates to, qualifies, hoặc governs two hoặc more other words but agrees in number, gender, or case with only one of them."
       },
       {
         "k": "m",
@@ -528,7 +528,7 @@
       },
       {
         "k": "m",
-        "t": "2. different semantic relationship: the use of a word that relates to, qualifies, hoặc governs two hoặc more other words but has a different meaning in relation to each, as in the example \"He picked up his hat và a taxi\""
+        "t": "2. different semantic relationship: the use of a word that relates to, qualifies, hoặc governs two hoặc more other words but has a different meaning in relation to each, as in the example \"He picked up his hat and a taxi\""
       }
     ],
     "k": "syllepsis"
@@ -742,7 +742,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "supposed evolution process: a hypothetical evolutionary process in which mitochondria và chloroplasts developed from symbiotic organisms within the cell"
+        "t": "supposed evolution process: a hypothetical evolutionary process in which mitochondria and chloroplasts developed from symbiotic organisms within the cell"
       }
     ],
     "k": "symbiogenesis"
@@ -1460,7 +1460,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "matrix symmetrical about diagonal: a square matrix that is identical to the matrix formed by transposing its rows và columns"
+        "t": "matrix symmetrical about diagonal: a square matrix that is identical to the matrix formed by transposing its rows and columns"
       }
     ],
     "k": "symmetric matrix"
@@ -1770,7 +1770,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Asymmetrical Multiprocessing; Clustering; Distributed Processing; MPP(Massively Parallel Processor) Systems; NUMA (Nonuniform Memory Assess); Parallel Processing; và Servers."
+        "t": "Asymmetrical Multiprocessing; Clustering; Distributed Processing; MPP(Massively Parallel Processor) Systems; NUMA (Nonuniform Memory Assess); Parallel Processing; and Servers."
       }
     ],
     "k": "symmetrical multiprocessing"
@@ -2101,7 +2101,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "magic based on connections between things: magic based on the belief that somebody hoặc something can be supernaturally affected by something done to an object representing the person hoặc thing"
+        "t": "magic based on connections between things: magic based on the belief that somebody or something can be supernaturally affected by something done to an object representing the person or thing"
       }
     ],
     "k": "sympathetic magic"
@@ -2146,7 +2146,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "string made to vibrate by others: a string on a musical instrument that vibrates by itself when other strings are bowed hoặc plucked"
+        "t": "string made to vibrate by others: a string on a musical instrument that vibrates by itself when other strings are bowed or plucked"
       }
     ],
     "k": "sympathetic string"
@@ -2508,7 +2508,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "vote given through pity or affection: a vote that people give to somebody for whom they feel pity hoặc affection"
+        "t": "vote given through pity or affection: a vote that people give to somebody for whom they feel pity or affection"
       }
     ],
     "k": "sympathy vote"
@@ -2898,7 +2898,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle symptomized, present participle symptomizing, 3rd person present singular symptomizes)"
+        "t": "(past and past participle symptomized, present participle symptomizing, 3rd person present singular symptomizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {"k": "m", "t": "be symptom of something: to be an indication of the existence of something"}
@@ -3112,7 +3112,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "study of synapses: the study of junctions between nerve cells synapses và synaptic connections in the nervous system"
+        "t": "study of synapses: the study of junctions between nerve cells synapses and synaptic connections in the nervous system"
       }
     ],
     "k": "synaptology"
@@ -3301,7 +3301,7 @@
   {"h": "syncephalus", "segs": [{"k": "m", "t": "Quái thai đôi chung đầu."}], "k": "syncephalus"},
   {
     "h": "synch",
-    "segs": [{"k": "m", "t": "noun, transitive và intransitive verb"}, {"k": "m", "t": "Như sync"}],
+    "segs": [{"k": "m", "t": "noun, transitive and intransitive verb"}, {"k": "m", "t": "Như sync"}],
     "k": "synch"
   },
   {"h": "synchesis", "segs": [{"k": "m", "t": "(sự) nhuyễn thể thủy tinh."}], "k": "synchesis"},
@@ -4643,7 +4643,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "radiation emitted by high-speed particles: short-wave radiation, from infrared to conventional X-rays, produced in a synchrotron. Dùng để: analysis of the structure of proteins, viruses, và inorganic materials such as metals."
+        "t": "radiation emitted by high-speed particles: short-wave radiation, from infrared to conventional X-rays, produced in a synchrotron. Dùng để: analysis of the structure of proteins, viruses, and inorganic materials such as metals."
       }
     ],
     "k": "synchrotron radiation"
@@ -4894,7 +4894,7 @@
       {"k": "m", "t": "hoặc syne Scotland"},
       {
         "k": "m",
-        "t": "transitive verb (past và past participle synded, present participle synding, 3rd person present singular synds) (past và past participle syned, present participle syning, 3rd person present singular synes)"
+        "t": "transitive verb (past and past participle synded, present participle synding, 3rd person present singular synds) (past and past participle syned, present participle syning, 3rd person present singular synes)"
       },
       {"k": "m", "t": "rinse something: to rinse something, usually with water"},
       {"k": "m", "t": "noun (số nhiều synds) (số nhiều synes)"},
@@ -5340,7 +5340,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "with male and female organs together: having male và female organs on the same flower hoặc other structure"
+        "t": "with male and female organs together: having male and female organs on the same flower or other structure"
       }
     ],
     "k": "synecious"
@@ -5382,7 +5382,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "method of solving problems: an approach to solving problems based on the creative thinking of a group of people from different areas of experience và knowledge (takes a singular verb)"
+        "t": "method of solving problems: an approach to solving problems based on the creative thinking of a group of people from different areas of experience and knowledge (takes a singular verb)"
       }
     ],
     "k": "synectics"
@@ -5568,7 +5568,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "genetically compatible for transplant purposes: having an identical hoặc closely similar genetic makeup, especially one that will allow the transplantation of tissue without provoking an immune response"
+        "t": "genetically compatible for transplant purposes: having an identical or closely similar genetic makeup, especially one that will allow the transplantation of tissue without provoking an immune response"
       },
       {"k": "m", "t": "-syngeneically (trạng từ)"}
     ],
@@ -5801,7 +5801,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mutually beneficial signal chemical: a chemical released by members of one species that affects the behavior of another species và benefits both parties"
+        "t": "mutually beneficial signal chemical: a chemical released by members of one species that affects the behavior of another species and benefits both parties"
       }
     ],
     "k": "synomone"
@@ -5955,10 +5955,10 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle synopsized, present participle synopsizing, 3rd person present singular synopsizes)"
+        "t": "(past and past participle synopsized, present participle synopsizing, 3rd person present singular synopsizes)"
       },
       {"k": "m", "t": "transitive verb"},
-      {"k": "m", "t": "summarize something: to summarize hoặc make a synopsis of something"}
+      {"k": "m", "t": "summarize something: to summarize or make a synopsis of something"}
     ],
     "k": "synopsize"
   },
@@ -6164,7 +6164,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fluid lubricating joints: a clear viscous fluid that lubricates the linings of joints và the sheaths of tendons"
+        "t": "fluid lubricating joints: a clear viscous fluid that lubricates the linings of joints and the sheaths of tendons"
       }
     ],
     "k": "synovial fluid"
@@ -6314,7 +6314,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "linguistic unit: a linguistic unit made up of sets of phonemes, words, hoặc phrases that are arranged sequentially"
+        "t": "linguistic unit: a linguistic unit made up of sets of phonemes, words, or phrases that are arranged sequentially"
       }
     ],
     "k": "syntagma"
@@ -6325,7 +6325,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "of syntactic unit: relating to syntactic units, hoặc to the function và behavior of a word hoặc phrase within a syntactic unit"
+        "t": "of syntactic unit: relating to syntactic units, hoặc to the function và behavior of a word or phrase within a syntactic unit"
       }
     ],
     "k": "syntagmatic"
@@ -6420,7 +6420,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "occurrence of multiple genes on chromosome: the occurrence of two hoặc more genes on the same chromosome, whether hoặc not they are linked"
+        "t": "occurrence of multiple genes on chromosome: the occurrence of two or more genes on the same chromosome, whether or not they are linked"
       },
       {"k": "m", "t": "-syntenic (tính từ)"}
     ],
@@ -6584,7 +6584,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "actor used in animation: a digital image of a person created by a precise full-body scan và used by animators to produce animated characters hoặc films"
+        "t": "actor used in animation: a digital image of a person created by a precise full-body scan and used by animators to produce animated characters or films"
       }
     ],
     "k": "synthespian"
@@ -7127,7 +7127,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle syphered, present participle syphering, 3rd person present singular syphers)"
+        "t": "(past and past participle syphered, present participle syphering, 3rd person present singular syphers)"
       },
       {"k": "m", "t": "transitive verb"},
       {
@@ -7314,12 +7314,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "1. capital city và port of Syracuse Province, Sicily, situated about 56 km/35 mi south of Catania."
+        "t": "1. capital city and port of Syracuse Province, Sicily, situated about 56 km/35 mi south of Catania."
       },
       {"k": "m", "t": "Dân số khoảng: 125,673 (thống kê năm 2001)"},
       {
         "k": "m",
-        "t": "2. city in New York beside Onondaga Lake, west of Utica, và east of Rochester."
+        "t": "2. city in New York beside Onondaga Lake, west of Utica, and east of Rochester."
       },
       {"k": "m", "t": "Dân số khoảng: 143,101 (thống kê năm 2004)"}
     ],
@@ -7332,7 +7332,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. syrah wine: a typically strong full-bodied red wine made from a variety of black grape grown mainly in France và the United States"
+        "t": "1. syrah wine: a typically strong full-bodied red wine made from a variety of black grape grown mainly in France and the United States"
       },
       {
         "k": "m",
@@ -7568,7 +7568,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fly that looks like wasp: a dipteran fly that hovers và darts, feeds on nectar và pollen, và has coloration mimicking that of a bee hoặc wasp."
+        "t": "fly that looks like wasp: a dipteran fly that hovers and darts, feeds on nectar và pollen, và has coloration mimicking that of a bee or wasp."
       },
       {"k": "m", "t": "Family: Syrphidae"},
       {"k": "m", "t": "-syrphid (tính từ)"}
@@ -7653,7 +7653,7 @@
   },
   {
     "h": "SYS",
-    "segs": [{"k": "m", "t": "Viết tắt của see you soon (used in e-mails hoặc text messages)"}],
+    "segs": [{"k": "m", "t": "Viết tắt của see you soon (used in e-mails or text messages)"}],
     "k": "sys"
   },
   {
@@ -9427,7 +9427,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "therapy for phobias: a therapy for phobias và other anxiety disorders in which patients are gradually given longer và longer exposures to the object of their fears"
+        "t": "therapy for phobias: a therapy for phobias and other anxiety disorders in which patients are gradually given longer and longer exposures to the object of their fears"
       }
     ],
     "k": "systematic desensitization"

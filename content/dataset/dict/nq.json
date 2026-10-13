@@ -1,9 +1,7 @@
 [
   {
     "h": "NQA",
-    "segs": [
-      {"k": "m", "t": "Viết tắt của no questions asked (used in e-mails hoặc text messages)"}
-    ],
+    "segs": [{"k": "m", "t": "Viết tắt của no questions asked (used in e-mails or text messages)"}],
     "k": "nqa"
   }
 ]

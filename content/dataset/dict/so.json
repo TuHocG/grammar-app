@@ -912,7 +912,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. plant with parts used as soap: a plant with bulbs hoặc other parts used as soap."
+        "t": "U.S. plant with parts used as soap: a plant with bulbs or other parts used as soap."
       },
       {"k": "m", "t": "Genus: Chlorogalum"}
     ],
@@ -1253,7 +1253,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "yucca with greenish white flowers: a tall yucca that is native to the southwestern United States và bears greenish white flowers."
+        "t": "yucca with greenish white flowers: a tall yucca that is native to the southwestern United States and bears greenish white flowers."
       },
       {"k": "m", "t": "Genus: Yucca"}
     ],
@@ -1524,10 +1524,10 @@
   {
     "h": "sober up",
     "segs": [
-      {"k": "m", "t": "transitive và intransitive verb"},
+      {"k": "m", "t": "transitive and intransitive verb"},
       {
         "k": "m",
-        "t": "make or become sober: make somebody sober after being drunk, hoặc become sober"
+        "t": "make or become sober: make somebody sober after being drunk, or become sober"
       }
     ],
     "k": "sober up"
@@ -1631,7 +1631,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều sobersides)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "solemn person: somebody who is solemn và serious"},
+      {"k": "m", "t": "solemn person: somebody who is solemn and serious"},
       {"k": "m", "t": "-sobersided (tính từ)"}
     ],
     "k": "sobersides"
@@ -1669,7 +1669,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hispanic time after meal for socializing: the time after a meal during which participants sit around the table drinking và talking"
+        "t": "Hispanic time after meal for socializing: the time after a meal during which participants sit around the table drinking and talking"
       }
     ],
     "k": "sobremesa"
@@ -1764,7 +1764,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "of southern California: relating to the southern part of California, hoặc to the people living there và their culture (thông tục)"
+        "t": "of southern California: relating to the southern part of California, or to the people living there và their culture (thông tục)"
       },
       {"k": "m", "t": "-SoCal (danh từ)"}
     ],
@@ -2055,7 +2055,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. thought processes for understanding people: thought processes involved in understanding và dealing with other people"
+        "t": "U.S. thought processes for understanding people: thought processes involved in understanding and dealing with other people"
       }
     ],
     "k": "social cognition"
@@ -2216,7 +2216,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "moderate drinker: somebody who only consumes alcoholic beverages in the company of other people và in moderation"
+        "t": "moderate drinker: somebody who only consumes alcoholic beverages in the company of other people and in moderation"
       }
     ],
     "k": "social drinker"
@@ -2251,7 +2251,7 @@
       },
       {
         "k": "m",
-        "t": "2. online comput gaining computer information by deception: the use of fraudulent means to gain access to computer systems that are protected by passwords hoặc user IDs"
+        "t": "2. online comput gaining computer information by deception: the use of fraudulent means to gain access to computer systems that are protected by passwords or user IDs"
       }
     ],
     "k": "social engineering"
@@ -2394,7 +2394,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada unique number for contributor: a unique reference number assigned to a person for the purposes of taxation, employment insurance, và pensions"
+        "t": "Canada unique number for contributor: a unique reference number assigned to a person for the purposes of taxation, employment insurance, and pensions"
       }
     ],
     "k": "social insurance number"
@@ -2427,7 +2427,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cost of production borne by consumers: a cost hoặc effect of production, such as air pollution, that is borne by society rather than the producer"
+        "t": "cost of production borne by consumers: a cost or effect of production, such as air pollution, that is borne by society rather than the producer"
       }
     ],
     "k": "social marginal cost"
@@ -2520,7 +2520,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "insect exploiting other species: an insect that exploits other insect species by using them to forage for food và to raise their young. Some bees và ants are social parasites."
+        "t": "insect exploiting other species: an insect that exploits other insect species by using them to forage for food and to raise their young. Some bees and ants are social parasites."
       }
     ],
     "k": "social parasite"
@@ -2587,7 +2587,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "promotion of failing students: the promotion of students with failing hoặc poor grades from one class year to the next in order to keep them with their social peers"
+        "t": "promotion of failing students: the promotion of students with failing or poor grades from one class year to the next in order to keep them with their social peers"
       }
     ],
     "k": "social promotion"
@@ -3046,7 +3046,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "theory that art should glorify Communism: an artistic doctrine officially sanctioned in many Communist countries, especially during the 1930s-50s, that proposed the idea that art và literature should serve to promote và glorify the ideals of a socialist state"
+        "t": "theory that art should glorify Communism: an artistic doctrine officially sanctioned in many Communist countries, especially during the 1930s-50s, that proposed the idea that art and literature should serve to promote and glorify the ideals of a socialist state"
       }
     ],
     "k": "socialist realism"
@@ -3271,7 +3271,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody who invests ethically: a person, company, hoặc other organization with a policy of ethical investment"
+        "t": "somebody who invests ethically: a person, company, or other organization with a policy of ethical investment"
       }
     ],
     "k": "socially responsible investor"
@@ -3678,7 +3678,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "dialect used by social group: a variety of speech that is used by a particular social class hoặc group"
+        "t": "dialect used by social group: a variety of speech that is used by a particular social class or group"
       }
     ],
     "k": "sociolect"
@@ -3856,7 +3856,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "1. relating to social psychology: relating to hoặc involving social psychology"
+        "t": "1. relating to social psychology: relating to or involving social psychology"
       },
       {
         "k": "m",
@@ -3869,7 +3869,7 @@
     "h": "socioreligious",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "social and religious: having both social và religious aspects"}
+      {"k": "m", "t": "social and religious: having both social and religious aspects"}
     ],
     "k": "socioreligious"
   },
@@ -4206,7 +4206,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "Ports, TCP; TCP/IP (Transmission Control Protocol/Internet Protocol); UNIX; và WinSock"
+        "t": "Ports, TCP; TCP/IP (Transmission Control Protocol/Internet Protocol); UNIX; and WinSock"
       },
       {"k": "m", "t": "THÔNG TIN TRÊN INTERNET"},
       {
@@ -4286,7 +4286,7 @@
         "t": "Như đã nói, SOCKS đánh giá các yêu cầu kết nối đối với người dùng nội bộ, thiết đặt các mạch proxy, và chuyển tải dữ liệu giữa khách và chủ. Phiên bản mới nhất, SOCKS5, cung cấp thêm chức năng kiểm tra tính hợp lí của những ai đăng nhập vào mạng để quản trị mạng có thể kiểm soát truy cập của họ thông qua SOCKS server. Có thể dùng nhiều phương pháp kiểm tra tính hợp lệ người dùng, và phương pháp này có thể thỏa thuận được. SOCKS5 được các nhà tài trợ công nghiệp khởi xướng và được IETF (Internet Engineering Task Force) chuẩn hóa. SOCKS5 được trình bày trong RFC1928, có trong các trang Web dưới đây."
       },
       {"k": "m", "t": "Từ mục liên quan"},
-      {"k": "m", "t": "Firewall; Proxy Server; và Security"},
+      {"k": "m", "t": "Firewall; Proxy Server; and Security"},
       {"k": "m", "t": "THÔNG TIN TRÊN INTERNET"},
       {"k": "m", "t": "SOCKS Protocol Version 5 (RFC 1928) http://www.internic.net/rfc/rfc1928.txt"},
       {"k": "m", "t": "Aventail Corporation http://www.aventail.com"},
@@ -4394,7 +4394,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada member of Social Credit movement: a member hoặc supporter of a Social Credit movement hoặc political party"
+        "t": "Canada member of Social Credit movement: a member or supporter of a Social Credit movement or political party"
       },
       {"k": "m", "t": "-Socred (tính từ)"}
     ],
@@ -4689,7 +4689,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "narrow in view: offering only a very narrow field of view hoặc means of interpreting events (lóng)"
+        "t": "narrow in view: offering only a very narrow field of view or means of interpreting events (lóng)"
       }
     ],
     "k": "soda-straw"
@@ -4725,7 +4725,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "translucent mineral: a blue, grayish, hoặc yellow translucent aluminosilicate mineral containing sodium và chlorine. Source: alkaline igneous rocks."
+        "t": "translucent mineral: a blue, grayish, or yellow translucent aluminosilicate mineral containing sodium and chlorine. Source: alkaline igneous rocks."
       }
     ],
     "k": "sodalite"
@@ -4993,7 +4993,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "oxidizing agent: a red hoặc orange crystalline salt. Dùng để: leather tanning, manufacture of dyes và inks, oxidizing agent, corrosion inhibitor."
+        "t": "oxidizing agent: a red hoặc orange crystalline salt. Dùng để: leather tanning, manufacture of dyes and inks, oxidizing agent, corrosion inhibitor."
       },
       {"k": "m", "t": "Công thức: Na2Cr2O7"}
     ],
@@ -5304,7 +5304,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. city of depravity: in the Bible, a city full of moral corruption và evil that was destroyed along with Gomorrah by God"
+        "t": "1. city of depravity: in the Bible, a city full of moral corruption and evil that was destroyed along with Gomorrah by God"
       },
       {"k": "m", "t": "2. corrupt place: a place that is regarded as corrupt"}
     ],
@@ -5379,7 +5379,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle sodomized, present participle sodomizing, 3rd person present singular sodomizes)"
+        "t": "(past and past participle sodomized, present participle sodomizing, 3rd person present singular sodomizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {"k": "m", "t": "an offensive term meaning to have anal intercourse with somebody"}
@@ -5824,7 +5824,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "blurring of image: a deliberate slight blurring of a photograph hoặc a filmed image, giving it a hazy appearance, in order to achieve a special effect such as romance hoặc nostalgia (hyphenated before a noun)"
+        "t": "blurring of image: a deliberate slight blurring of a photograph or a filmed image, giving it a hazy appearance, in order to achieve a special effect such as romance or nostalgia (hyphenated before a noun)"
       }
     ],
     "k": "soft focus"
@@ -6142,7 +6142,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "melodic rock music: rock music that tends to be slower và more melodic than hard rock, often influenced by folk hoặc country và western music"
+        "t": "melodic rock music: rock music that tends to be slower and more melodic than hard rock, often influenced by folk hoặc country và western music"
       }
     ],
     "k": "soft rock"
@@ -6381,7 +6381,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "type of starchy wheat: wheat with soft kernels và weak gluten that is relatively low in protein. Dùng để: cakes, cookies, pastries, livestock feed."
+        "t": "type of starchy wheat: wheat with soft kernels and weak gluten that is relatively low in protein. Dùng để: cakes, cookies, pastries, livestock feed."
       }
     ],
     "k": "soft wheat"
@@ -6464,7 +6464,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "not explicit sexually: sexually suggestive hoặc provocative without being explicit"
+        "t": "not explicit sexually: sexually suggestive or provocative without being explicit"
       }
     ],
     "k": "soft-core"
@@ -6650,7 +6650,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "freshwater turtle with leathery shell: a freshwater turtle with sharp claws, a pointed snout, và a soft flat shell covered with leathery skin."
+        "t": "freshwater turtle with leathery shell: a freshwater turtle with sharp claws, a pointed snout, and a soft flat shell covered with leathery skin."
       },
       {"k": "m", "t": "Family: Trionychidae"}
     ],
@@ -6938,7 +6938,7 @@
     "h": "softly-softly",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "U.K. cautious: characterized by caution hoặc discretion"}
+      {"k": "m", "t": "U.K. cautious: characterized by caution or discretion"}
     ],
     "k": "softly-softly"
   },
@@ -7541,7 +7541,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "large diverse Japanese company: a large Japanese company that operates internationally và produces a large và diverse range of merchandise và services"
+        "t": "large diverse Japanese company: a large Japanese company that operates internationally và produces a large và diverse range of merchandise and services"
       }
     ],
     "k": "sogo shosha"
@@ -9398,7 +9398,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "heating of water by Sun's light: the use of radiation emitted by the Sun to heat water hoặc air that is passed through heat-absorbing panels"
+        "t": "heating of water by Sun's light: the use of radiation emitted by the Sun to heat water or air that is passed through heat-absorbing panels"
       }
     ],
     "k": "solar heating"
@@ -10390,7 +10390,7 @@
     "h": "soldier on",
     "segs": [
       {"k": "m", "t": "intransitive verb"},
-      {"k": "m", "t": "continue determinedly: to persevere despite difficulties hoặc setbacks"}
+      {"k": "m", "t": "continue determinedly: to persevere despite difficulties or setbacks"}
     ],
     "k": "soldier on"
   },
@@ -10895,10 +10895,10 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle solemnified, present participle solemnifying, 3rd person present singular solemnifies)"
+        "t": "(past and past participle solemnified, present participle solemnifying, 3rd person present singular solemnifies)"
       },
       {"k": "m", "t": "transitive verb"},
-      {"k": "m", "t": "make solemn: to make something solemn hoặc serious"}
+      {"k": "m", "t": "make solemn: to make something solemn or serious"}
     ],
     "k": "solemnify"
   },
@@ -11041,7 +11041,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "nocturnal mammal: a rare nocturnal insect-eating mammal with a long snout và a long scaly tail. Thường thấy ở: Caribbean."
+        "t": "nocturnal mammal: a rare nocturnal insect-eating mammal with a long snout and a long scaly tail. Thường thấy ở: Caribbean."
       },
       {"k": "m", "t": "Family: Solenodontidae"}
     ],
@@ -11054,7 +11054,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "snake with poisonous fangs held flat: a snake in which the poisonous fangs are held flat against the roof of the mouth when not in use. Rattlesnakes và vipers are solenoglyphs."
+        "t": "snake with poisonous fangs held flat: a snake in which the poisonous fangs are held flat against the roof of the mouth when not in use. Rattlesnakes and vipers are solenoglyphs."
       }
     ],
     "k": "solenoglyph"
@@ -13543,7 +13543,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều solitudinarians)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "somebody solitary: somebody who lives hoặc prefers to be alone (literary)"}
+      {"k": "m", "t": "somebody solitary: somebody who lives or prefers to be alone (literary)"}
     ],
     "k": "solitudinarian"
   },
@@ -13703,7 +13703,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "whist with players playing independently: a version of the card game whist in which each of the four players plays on his hoặc her own, instead of in the usual pairs"
+        "t": "whist with players playing independently: a version of the card game whist in which each of the four players plays on his or her own, instead of in the usual pairs"
       }
     ],
     "k": "solo whist"
@@ -13812,7 +13812,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "arm of the western South Pacific Ocean, east of New Guinea và west of the Solomon Islands"
+        "t": "arm of the western South Pacific Ocean, east of New Guinea and west of the Solomon Islands"
       }
     ],
     "k": "solomon sea"
@@ -13833,7 +13833,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "member of Ethiopian dynasty: a member of a dynasty that provided emperors of Ethiopia almost continuously from ancient times until the 1970s và traced its descent from King Solomon và the Queen of Sheba"
+        "t": "member of Ethiopian dynasty: a member of a dynasty that provided emperors of Ethiopia almost continuously from ancient times until the 1970s và traced its descent from King Solomon and the Queen of Sheba"
       }
     ],
     "k": "solomonid"
@@ -13913,7 +13913,7 @@
   {
     "h": "solubilise",
     "segs": [
-      {"k": "m", "t": "transitive và intransitive verb"},
+      {"k": "m", "t": "transitive and intransitive verb"},
       {"k": "m", "t": "chemistry Another spelling of solubilize"}
     ],
     "k": "solubilise"
@@ -14628,11 +14628,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "industrial process for producing sodium carbonate: an industrial process for producing sodium carbonate hoặc washing soda from common salt."
+        "t": "industrial process for producing sodium carbonate: an industrial process for producing sodium carbonate or washing soda from common salt."
       },
       {
         "k": "m",
-        "t": "A solution of salt is saturated with ammonia và carbon dioxide is passed through it, which causes sodium hydrogen carbonate to precipitate. It is then heated to obtain sodium carbonate."
+        "t": "A solution of salt is saturated with ammonia and carbon dioxide is passed through it, which causes sodium hydrogen carbonate to precipitate. It is then heated to obtain sodium carbonate."
       }
     ],
     "k": "solvay process"
@@ -14864,7 +14864,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. inhaling of solvent fumes to produce euphoria: the inhaling of fumes from solvents such as glues và gasoline in order to produce a feeling of euphoria"
+        "t": "U.K. inhaling of solvent fumes to produce euphoria: the inhaling of fumes from solvents such as glues and gasoline in order to produce a feeling of euphoria"
       }
     ],
     "k": "solvent misuse"
@@ -15144,7 +15144,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "1. region in northeastern Africa, comprising Somalia, Djibouti, và part of Ethiopia"
+        "t": "1. region in northeastern Africa, comprising Somalia, Djibouti, and part of Ethiopia"
       },
       {
         "k": "m",
@@ -15235,7 +15235,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "nervous system serving sense organs: the part of the nervous system that serves the sense organs và muscles of the body wall và limbs, và brings about voluntary muscle activity. Xem autonomic nervous system"
+        "t": "nervous system serving sense organs: the part of the nervous system that serves the sense organs and muscles of the body wall và limbs, và brings about voluntary muscle activity. Xem autonomic nervous system"
       }
     ],
     "k": "somatic nervous system"
@@ -15266,9 +15266,9 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle somaticized, present participle somaticizing, 3rd person present singular somaticizes)"
+        "t": "(past and past participle somaticized, present participle somaticizing, 3rd person present singular somaticizes)"
       },
-      {"k": "m", "t": "transitive và intransitive verb"},
+      {"k": "m", "t": "transitive and intransitive verb"},
       {
         "k": "m",
         "t": "mistake emotional pain for physical symptom: to believe mistakenly that an emotional pain is a physical symptom"
@@ -15416,7 +15416,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "hormone stimulating bone and muscle growth: a hormone produced in the liver that stimulates the growth of bone và muscle"
+        "t": "hormone stimulating bone and muscle growth: a hormone produced in the liver that stimulates the growth of bone and muscle"
       }
     ],
     "k": "somatomedin"
@@ -15927,7 +15927,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in eastern Massachusetts, on the Mystic River. It is a northwestern suburb of Boston, và was founded in 1630."
+        "t": "city in eastern Massachusetts, on the Mystic River. It is a northwestern suburb of Boston, and was founded in 1630."
       },
       {"k": "m", "t": "Dân số khoảng: 75,621 (thống kê năm 2004)"}
     ],
@@ -16807,7 +16807,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "three-part musical form: an important musical form developed in the 18th century consisting of three sections, an exposition, development, và recapitulation, và used especially for the first movement of sonatas, concertos, và symphonies"
+        "t": "three-part musical form: an important musical form developed in the 18th century consisting of three sections, an exposition, development, và recapitulation, và used especially for the first movement of sonatas, concertos, and symphonies"
       }
     ],
     "k": "sonata form"
@@ -16899,7 +16899,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "three-part song structure: the three-part structure of a song consisting of a first section that leads to a contrasting section before the original section returns, either identically hoặc with some variation"
+        "t": "three-part song structure: the three-part structure of a song consisting of a first section that leads to a contrasting section before the original section returns, either identically or with some variation"
       }
     ],
     "k": "song form"
@@ -16925,7 +16925,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "book in Bible: a book of the Bible that corresponds to the Song of Solomon, forming part of the Jewish và Roman Catholic scriptures"
+        "t": "book in Bible: a book of the Bible that corresponds to the Song of Solomon, forming part of the Jewish and Roman Catholic scriptures"
       }
     ],
     "k": "song of songs"
@@ -17006,7 +17006,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. gathering with group singing: an informal gathering of people for the purpose of singing folk hoặc popular songs together"
+        "t": "U.S. gathering with group singing: an informal gathering of people for the purpose of singing folk or popular songs together"
       }
     ],
     "k": "songfest"
@@ -17046,11 +17046,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of W African people: a member of a people living in West Africa, mainly in Mali và Niger."
+        "t": "1. member of W African people: a member of a people living in West Africa, mainly in Mali and Niger."
       },
       {
         "k": "m",
-        "t": "The Songhai established a powerful empire in this area during the 7th century ad, và they remained the dominant ethnic group until the 16th century."
+        "t": "The Songhai established a powerful empire in this area during the 7th century ad, and they remained the dominant ethnic group until the 16th century."
       },
       {
         "k": "m",
@@ -17452,7 +17452,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "group of sonnets on single subject: a set of sonnets written by one poet và unified by a single theme hoặc idea"
+        "t": "group of sonnets on single subject: a set of sonnets written by one poet and unified by a single theme or idea"
       }
     ],
     "k": "sonnet sequence"
@@ -17547,7 +17547,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "graphical representation of sound: a graphical representation of sound, especially in the three dimensions of frequency, time, và intensity"
+        "t": "graphical representation of sound: a graphical representation of sound, especially in the three dimensions of frequency, time, and intensity"
       }
     ],
     "k": "sonogram"
@@ -17575,7 +17575,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "region of western California, northeast of San Francisco. Extending northward from the city of Sonoma, it is famous for its wineries và is a major tourist destination."
+        "t": "region of western California, northeast of San Francisco. Extending northward from the city of Sonoma, it is famous for its wineries and is a major tourist destination."
       }
     ],
     "k": "sonoma valley"
@@ -17615,7 +17615,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "one of the largest deserts in North America, situated in southwestern Arizona, southern California, và northwestern Mexico."
+        "t": "one of the largest deserts in North America, situated in southwestern Arizona, southern California, and northwestern Mexico."
       },
       {"k": "m", "t": "Diện tích: 310,799 sq km/120,000 sq mi"}
     ],
@@ -18653,7 +18653,7 @@
     "segs": [
       {"k": "m", "t": "hoặc s.o.r."},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "commerce sale hoặc return"}
+      {"k": "m", "t": "commerce sale or return"}
     ],
     "k": "sor"
   },
@@ -18827,7 +18827,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "part of University of Paris: a part of the University of Paris, founded in 1253, that contains the faculties of science và literature"
+        "t": "part of University of Paris: a part of the University of Paris, founded in 1253, that contains the faculties of science and literature"
       }
     ],
     "k": "sorbonne"
@@ -19224,7 +19224,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "women's organization for public service: an international organization of professional women và businesswomen known as Soroptimists that promotes public service."
+        "t": "women's organization for public service: an international organization of professional women and businesswomen known as Soroptimists that promotes public service."
       },
       {"k": "m", "t": "It was founded in California in 1921."}
     ],
@@ -19386,7 +19386,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "town và resort on the southern shore of the Bay of Naples, in Naples Province, Campania Region, in southern Italy."
+        "t": "town and resort on the southern shore of the Bay of Naples, in Naples Province, Campania Region, in southern Italy."
       },
       {"k": "m", "t": "Dân số khoảng: 16,536 (2001)"}
     ],
@@ -19736,13 +19736,13 @@
       {"k": "m", "t": "I think we've sorted out our difficulties with the printer."},
       {
         "k": "m",
-        "t": "2. separate something: to separate something from the mixture it exists in, hoặc from another group of things"
+        "t": "2. separate something: to separate something from the mixture it exists in, or from another group of things"
       },
-      {"k": "m", "t": "3. put something in order: organize hoặc disentangle something"},
+      {"k": "m", "t": "3. put something in order: organize or disentangle something"},
       {"k": "m", "t": "It took weeks to sort out the cluttered desk."},
       {
         "k": "m",
-        "t": "4. reach conclusion: to think và come to a conclusion about a problem hoặc difficulty"
+        "t": "4. reach conclusion: to think and come to a conclusion about a problem or difficulty"
       }
     ],
     "k": "sort out"
@@ -19837,7 +19837,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "sorting of things: the process of sorting items into categories hoặc into a set order, especially when done by machine hoặc computer"
+        "t": "sorting of things: the process of sorting items into categories or into a set order, especially when done by machine or computer"
       }
     ],
     "k": "sortation"
@@ -19853,7 +19853,7 @@
       {"k": "m", "t": "2. well-adjusted: socially hoặc emotionally well-adjusted (lóng)"},
       {
         "k": "m",
-        "t": "3. well prepared: well prepared for something hoặc well provided with something, especially illegal drugs (lóng)"
+        "t": "3. well prepared: well prepared for something or well provided with something, especially illegal drugs (lóng)"
       }
     ],
     "k": "sorted",
@@ -20015,7 +20015,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "office for sorting mail: a place where letters và packages for delivery are sorted according to their destinations"
+        "t": "office for sorting mail: a place where letters and packages for delivery are sorted according to their destinations"
       }
     ],
     "k": "sorting office"
@@ -20142,7 +20142,7 @@
     "h": "sosatie",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "South Africa kabob: curried hoặc spicy meat grilled on a skewer"}
+      {"k": "m", "t": "South Africa kabob: curried or spicy meat grilled on a skewer"}
     ],
     "k": "sosatie"
   },
@@ -20169,12 +20169,12 @@
       {"k": "m", "t": "trạng từ"},
       {
         "k": "m",
-        "t": "with prolonged notes: with notes sustained to hoặc beyond the notated value (used as a musical direction)"
+        "t": "with prolonged notes: with notes sustained to or beyond the notated value (used as a musical direction)"
       },
       {"k": "m", "t": "noun (số nhiều sostenutos)"},
       {
         "k": "m",
-        "t": "sostenuto piece of music: a piece of music, hoặc a section of a piece, played sostenuto"
+        "t": "sostenuto piece of music: a piece of music, or a section of a piece, played sostenuto"
       },
       {"k": "m", "t": "-sostenuto (tính từ)"}
     ],
@@ -20251,7 +20251,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of S African people: a member of a large group of peoples who live in southern Africa, mainly in Botswana, Lesotho, và South Africa"
+        "t": "1. member of S African people: a member of a large group of peoples who live in southern Africa, mainly in Botswana, Lesotho, and South Africa"
       },
       {"k": "m", "t": "2. Sotho language: the group of Bantu languages of the Sotho people."},
       {
@@ -20337,7 +20337,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Caribbean informal savings plan: an arrangement for saving money whereby participants pay a sum each month for a fixed period of time và take turns borrowing the total amount accumulated"
+        "t": "Caribbean informal savings plan: an arrangement for saving money whereby participants pay a sum each month for a fixed period of time and take turns borrowing the total amount accumulated"
       }
     ],
     "k": "sou-sou"
@@ -20416,7 +20416,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Caribbean blood-sucking witch: somebody, usually a woman, who according to legend sucks people's blood và can shed her skin, change into a ball of fire, và fly around by night."
+        "t": "Caribbean blood-sucking witch: somebody, usually a woman, who according to legend sucks people's blood and can shed her skin, change into a ball of fire, and fly around by night."
       },
       {
         "k": "m",
@@ -20501,7 +20501,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "African dance music: a style of dance music originally from the Democratic Republic of the Congo, combining guitar, drums, và vocals"
+        "t": "African dance music: a style of dance music originally from the Democratic Republic of the Congo, combining guitar, drums, and vocals"
       }
     ],
     "k": "soukous"
@@ -20577,7 +20577,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "foot that slides on skate frame: in in-line skating, either of the skater's feet when sliding on the frame hoặc sole of the skate rather than running on the wheels"
+        "t": "foot that slides on skate frame: in in-line skating, either of the skater's feet when sliding on the frame or sole of the skate rather than running on the wheels"
       }
     ],
     "k": "soul foot"
@@ -20589,7 +20589,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "slide performed off in-line skate wheels: in in-line skating, a slide performed off the wheels grind in which the skater's front foot is turned perpendicular to the rail và the back foot is parallel to it"
+        "t": "slide performed off in-line skate wheels: in in-line skating, a slide performed off the wheels grind in which the skater's front foot is turned perpendicular to the rail and the back foot is parallel to it"
       }
     ],
     "k": "soul grind"
@@ -21976,7 +21976,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "indoor place where movies are shot: a large room hoặc studio, usually soundproof, where movie scenes are shot"
+        "t": "indoor place where movies are shot: a large room or studio, usually soundproof, where movie scenes are shot"
       }
     ],
     "k": "sound stage"
@@ -22011,7 +22011,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "use of chanting to improve consciousness: a technique using rhythmic chanting to improve energy, alertness, và relaxation"
+        "t": "use of chanting to improve consciousness: a technique using rhythmic chanting to improve energy, alertness, and relaxation"
       }
     ],
     "k": "sound therapy"
@@ -22411,7 +22411,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. somebody sounding like another performer: a performer whose voice hoặc musical style closely resembles that of a particular well-known performer"
+        "t": "1. somebody sounding like another performer: a performer whose voice or musical style closely resembles that of a particular well-known performer"
       },
       {
         "k": "m",
@@ -22825,7 +22825,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "piece below instrument's bridge: a small piece of wood inside the body of a stringed instrument that supports the bridge và transmits the vibrations to the back"
+        "t": "piece below instrument's bridge: a small piece of wood inside the body of a stringed instrument that supports the bridge and transmits the vibrations to the back"
       }
     ],
     "k": "soundpost"
@@ -22990,7 +22990,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "modify car for power: to make changes to a car, motorcycle, engine, hoặc similar machine in order to make it more powerful (thông tục)"
+        "t": "modify car for power: to make changes to a car, motorcycle, engine, or similar machine in order to make it more powerful (thông tục)"
       }
     ],
     "k": "soup up"
@@ -23339,7 +23339,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "source documents: a document hoặc collection of documents that is the main source of information about a subject of study"
+        "t": "source documents: a document or collection of documents that is the main source of information about a subject of study"
       }
     ],
     "k": "source book"
@@ -23936,11 +23936,11 @@
       {"k": "m", "t": "nounSouth Africa"},
       {
         "k": "m",
-        "t": "1. geography region of poor pasture: an area of high land with coarse grass và other growing plants that are poor fodder for livestock"
+        "t": "1. geography region of poor pasture: an area of high land with coarse grass and other growing plants that are poor fodder for livestock"
       },
       {
         "k": "m",
-        "t": "2. agriculture poor vegetation for grazing: coarse grass và other growing plants that are poor fodder for livestock"
+        "t": "2. agriculture poor vegetation for grazing: coarse grass and other growing plants that are poor fodder for livestock"
       }
     ],
     "k": "sourveld"
@@ -24023,7 +24023,7 @@
   {
     "h": "Sousse",
     "segs": [
-      {"k": "m", "t": "city và port in east central Tunisia."},
+      {"k": "m", "t": "city and port in east central Tunisia."},
       {"k": "m", "t": "Dân số khoảng: 125,000 (1994)"}
     ],
     "k": "sousse"
@@ -24082,7 +24082,7 @@
       },
       {
         "k": "m",
-        "t": "Kinh tế: Nam Phi có trữ lượng khoáng sản dồi dào gồm có: kim cương, vàng, bạch kim, quặng sắt, đá vôi, Uranium và than. Nó cũng có các mỏ khí gas tự nhiên. Vàng và những sản phẩm kim loại khác là nguồn xuất khẩu chính. Công nghiệp phát triển ở mức độ cao bao gồm luyện kim, hóa chất, cơ khí và ngành chế biến thực phẩm. Việc chế tạo vũ khí cũng quan trọng. Nông nghiệp không bền vững do hạn hán và thiếu nước tưới. Thu hoạch chính là ngũ cốc, đường và trái cây. Ngành chăn nuôi cũng khá quan trọng. Quan hệ mậu dịch quốc tế và việc ủng hộ các hoạt động thể thao không được chú trọng và phát triển bởi chủ nghĩa phân biệt chủng tộc Apartheid ở Nam Phi mãi cho tới năm 1991-1992. Sự suy giảm của nền kinh tế thế giới và hàng hóa giảm giá đã gây nhiều ảnh hưởng bất lợi. Tình trạng đói nghèo và tỉ lệ thất nghiệp cao trong cộng đồng người da đen Nam Phi. Họ bị chế độ Apartheid tước đoạt mọi quyền lợi kể cả những dịch vụ xã hội như chăm sóc sức khỏe và giáo dục. Liên minh thuế quan Nam Phi có hiệu lực với các nước Nam Phi, Botswana, Lesotho và Swaziland."
+        "t": "Kinh tế: Nam Phi có trữ lượng khoáng sản dồi dào gồm có: kim cương, vàng, bạch kim, quặng sắt, đá vôi, Uranium và than. Nó cũng có các mỏ khí gas tự nhiên. Vàng và những sản phẩm kim loại khác là nguồn xuất khẩu chính. Công nghiệp phát triển ở mức độ cao bao gồm luyện kim, hóa chất, cơ khí và ngành chế biến thực phẩm. Việc chế tạo vũ khí cũng quan trọng. Nông nghiệp không bền vững do hạn hán và thiếu nước tưới. Thu hoạch chính là ngũ cốc, đường và trái cây. Ngành chăn nuôi cũng khá quan trọng. Quan hệ mậu dịch quốc tế và việc ủng hộ các hoạt động thể thao không được chú trọng và phát triển bởi chủ nghĩa phân biệt chủng tộc Apartheid ở Nam Phi mãi cho tới năm 1991-1992. Sự suy giảm của nền kinh tế thế giới và hàng hóa giảm giá đã gây nhiều ảnh hưởng bất lợi. Tình trạng đói nghèo và tỉ lệ thất nghiệp cao trong cộng đồng người da đen Nam Phi. Họ bị chế độ Apartheid tước đoạt mọi quyền lợi kể cả những dịch vụ xã hội như chăm sóc sức khỏe và giáo dục. Liên minh thuế quan Nam Phi có hiệu lực với các nước Nam Phi, Botswana, Lesotho and Swaziland."
       },
       {
         "k": "m",
@@ -24149,7 +24149,7 @@
       {"k": "m", "t": "English of South Africa: a variety of English spoken in South Africa"},
       {
         "k": "m",
-        "t": "South African English is the variety of English used in the Republic of South Africa. Since the early 19th century it has been the mother tongue of settlers of British origin và a second language, in varying degrees, of indigenous Afrikaners, Africans, và Asians. Since 1994, the nation has had 11 official languages: English, Afrikaans, Ndebele, Sotho (Northern và Southern), Swati, Tsonga, Tswana, Venda, Xhosa, và Zulu. South African English tends not to pronounce r in words such as art, door, và worker, and, among Africans, generally has full vowels in all syllables (e.g., seven is pronounced \"seh-ven\" not \"sev'n\"). In the speech of middle-class British South Africans distinctive usages are common: e.g., the vowels in park và trap are heard by outsiders as \"pork\" và \"trep,\" và in fair hair as \"fay hay.\" A curiosity of the grammar is the affirmative \"no,\" as in How are you?-No, I'm fine, probably adopted from Afrikaans. With its parent Dutch, this language has provided the bulk of local borrowings: e.g., Afrikaner \"a white South African of Dutch hoặc Huguenot origin,\" apartheid \"former policy of separate racial development,\" bakkie \"pickup truck,\" braai \"barbecue,\" drift \"ford,\" kloof \"ravine,\" the now internationalized trek \"journey,\" và veld, pronounced /felt/, \"open country,\" with its hybrid extensions highveld và backveld. Words from African languages include impala, muti (medicine), sangoma (diviner), và tshwala (sorghum beer). Distinctive English words are the now-archaic bioscope (movie), location (district set aside for a particular group), và robot (traffic light)."
+        "t": "South African English is the variety of English used in the Republic of South Africa. Since the early 19th century it has been the mother tongue of settlers of British origin and a second language, in varying degrees, of indigenous Afrikaners, Africans, and Asians. Since 1994, the nation has had 11 official languages: English, Afrikaans, Ndebele, Sotho (Northern and Southern), Swati, Tsonga, Tswana, Venda, Xhosa, and Zulu. South African English tends not to pronounce r in words such as art, door, and worker, and, among Africans, generally has full vowels in all syllables (e.g., seven is pronounced \"seh-ven\" not \"sev'n\"). In the speech of middle-class British South Africans distinctive usages are common: e.g., the vowels in park and trap are heard by outsiders as \"pork\" và \"trep,\" và in fair hair as \"fay hay.\" A curiosity of the grammar is the affirmative \"no,\" as in How are you?-No, I'm fine, probably adopted from Afrikaans. With its parent Dutch, this language has provided the bulk of local borrowings: e.g., Afrikaner \"a white South African of Dutch or Huguenot origin,\" apartheid \"former policy of separate racial development,\" bakkie \"pickup truck,\" braai \"barbecue,\" drift \"ford,\" kloof \"ravine,\" the now internationalized trek \"journey,\" and veld, pronounced /felt/, \"open country,\" with its hybrid extensions highveld and backveld. Words from African languages include impala, muti (medicine), sangoma (diviner), and tshwala (sorghum beer). Distinctive English words are the now-archaic bioscope (movie), location (district set aside for a particular group), and robot (traffic light)."
       }
     ],
     "k": "south african english"
@@ -24209,7 +24209,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "region comprising the countries of Bangladesh, Bhutan, India, the Maldives, Nepal, Pakistan, và Sri Lanka"
+        "t": "region comprising the countries of Bangladesh, Bhutan, India, the Maldives, Nepal, Pakistan, and Sri Lanka"
       }
     ],
     "k": "south asia"
@@ -24221,11 +24221,11 @@
       {"k": "m", "t": "English of South Asia: a variety of English spoken in South Asia"},
       {
         "k": "m",
-        "t": "South Asian English is the variety of English that has been used since the 17th century in South Asia. Usage varies greatly from area to area, primarily because of the influence of local languages on pronunciation, grammar, và vocabulary, e.g., Bangla (formerly called Bengali) in Bangladesh và the Indian state of Bengal, Hindi in northern India, Tamil in southern India và Sri Lanka, Urdu in Pakistan và India, và Sinhalese in Sri Lanka. At the same time, however, there is considerable uniformity throughout the region as a consequence of British administrative, legal, và commercial usage, the presence of English-language-media schools based on British models, and, more recently, local television."
+        "t": "South Asian English is the variety of English that has been used since the 17th century in South Asia. Usage varies greatly from area to area, primarily because of the influence of local languages on pronunciation, grammar, and vocabulary, e.g., Bangla (formerly called Bengali) in Bangladesh and the Indian state of Bengal, Hindi in northern India, Tamil in southern India and Sri Lanka, Urdu in Pakistan và India, và Sinhalese in Sri Lanka. At the same time, however, there is considerable uniformity throughout the region as a consequence of British administrative, legal, and commercial usage, the presence of English-language-media schools based on British models, and, more recently, local television."
       },
       {
         "k": "m",
-        "t": "South Asian English pronounces r in words such as art, door, và worker. It tends to have full vowels in all syllables (e.g., seven is pronounced \"seh-ven\" not \"sev'n\"), và it is widely considered to have a singsong quality often compared with that of English speakers in Wales. Two widespread grammatical features are, first, questions without word-order inversion, as in What you would like to buy, please? Where you are coming from? Why you are doing this? Second is the end-of-sentence use of only for emphasis: He is coming once a week only for He only comes once a week. Widely used in the region are adopted local expressions such as: gherao (in industrial actions, surrounding people so that they cannot leave a place; also used as a verb, e.g., He was gheraoed yesterday); wallah \"man,\" used in compounds like dhobiwallah meaning \"laundry man\"; và the numbers lakh \"one hundred thousand,\" e.g., a lakh of rupees, và crore \"ten million\" in They have crores of rupees. Hybridization of English with indigenous usages is common, as in policewallah \"policeman,\" và goondaism \"behaving like a goonda hoặc thug,\" itself a South Asian word."
+        "t": "South Asian English pronounces r in words such as art, door, and worker. It tends to have full vowels in all syllables (e.g., seven is pronounced \"seh-ven\" not \"sev'n\"), and it is widely considered to have a singsong quality often compared with that of English speakers in Wales. Two widespread grammatical features are, first, questions without word-order inversion, as in What you would like to buy, please? Where you are coming from? Why you are doing this? Second is the end-of-sentence use of only for emphasis: He is coming once a week only for He only comes once a week. Widely used in the region are adopted local expressions such as: gherao (in industrial actions, surrounding people so that they cannot leave a place; also used as a verb, e.g., He was gheraoed yesterday); wallah \"man,\" used in compounds like dhobiwallah meaning \"laundry man\"; and the numbers lakh \"one hundred thousand,\" e.g., a lakh of rupees, and crore \"ten million\" in They have crores of rupees. Hybridization of English with indigenous usages is common, as in policewallah \"policeman,\" and goondaism \"behaving like a goonda or thug,\" itself a South Asian word."
       }
     ],
     "k": "south asian english"
@@ -24259,7 +24259,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in northern Indiana, on the Kankakee và St. Joseph rivers, southwest of Elkhart. It is home to the University of Notre Dame."
+        "t": "city in northern Indiana, on the Kankakee and St. Joseph rivers, southwest of Elkhart. It is home to the University of Notre Dame."
       },
       {"k": "m", "t": "Dân số khoảng: 105,494 (thống kê năm 2004)"}
     ],
@@ -24312,7 +24312,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "part of the China Sea, bounded by southeastern China, Vietnam, Malaysia, và the Philippines."
+        "t": "part of the China Sea, bounded by southeastern China, Vietnam, Malaysia, and the Philippines."
       },
       {"k": "m", "t": "Diện tích: 2,319,000 sq km/895,400 sq mi"}
     ],
@@ -24328,7 +24328,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "state in the north central United States, bordered by North Dakota, Minnesota, Iowa, Nebraska, Wyoming, và Montana."
+        "t": "state in the north central United States, bordered by North Dakota, Minnesota, Iowa, Nebraska, Wyoming, and Montana."
       },
       {"k": "m", "t": "Capital: Pierre"},
       {"k": "m", "t": "Dân số khoảng: 775,933 (thống kê năm 2005)"},
@@ -24347,7 +24347,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "chalk ridge extending along the southern coast of England, through Hampshire và East Sussex"
+        "t": "chalk ridge extending along the southern coast of England, through Hampshire and East Sussex"
       }
     ],
     "k": "south downs"
@@ -24368,7 +24368,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "town in south central Massachusetts, east of the Connecticut River và northeast of Holyoke. It is home to Mount Holyoke College."
+        "t": "town in south central Massachusetts, east of the Connecticut River and northeast of Holyoke. It is home to Mount Holyoke College."
       },
       {"k": "m", "t": "Dân số khoảng: 17,181 (thống kê năm 2004)"}
     ],
@@ -24389,7 +24389,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "the larger và more southerly of the two main islands of New Zealand, in the southwestern Pacific Ocean."
+        "t": "the larger and more southerly of the two main islands of New Zealand, in the southwestern Pacific Ocean."
       },
       {"k": "m", "t": "Dân số khoảng: 931,566 (1996)"},
       {"k": "m", "t": "Diện tích: 150,460 sq km/58,093 sq mi"}
@@ -24458,7 +24458,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river rising in the Rocky Mountains và flowing north into Lake Winnipeg, Canada."
+        "t": "river rising in the Rocky Mountains and flowing north into Lake Winnipeg, Canada."
       },
       {"k": "m", "t": "Length: 1,390 km/865 mi"}
     ],
@@ -24491,7 +24491,7 @@
   {
     "h": "South Shields",
     "segs": [
-      {"k": "m", "t": "port in Tyne và Wear, northeastern England."},
+      {"k": "m", "t": "port in Tyne and Wear, northeastern England."},
       {"k": "m", "t": "Dân số khoảng: 83,704 (1991)"}
     ],
     "k": "south shields"
@@ -24731,7 +24731,7 @@
   {
     "h": "Southampton Island",
     "segs": [
-      {"k": "m", "t": "island in Nunavut, Canada, between Foxe Basin và Hudson Bay."},
+      {"k": "m", "t": "island in Nunavut, Canada, between Foxe Basin and Hudson Bay."},
       {"k": "m", "t": "Diện tích: 41,214 sq km/15,913 sq mi"}
     ],
     "k": "southampton island"
@@ -24747,7 +24747,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "town in south central Massachusetts, north of the Connecticut border, east of Springfield và southwest of Worcester."
+        "t": "town in south central Massachusetts, north of the Connecticut border, east of Springfield and southwest of Worcester."
       },
       {"k": "m", "t": "Dân số khoảng: 17,314 (thống kê năm 2004)"}
     ],
@@ -24943,7 +24943,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "S American group of countries: a group of countries consisting of Argentina, Brazil, Chile, Paraguay, và Uruguay"
+        "t": "S American group of countries: a group of countries consisting of Argentina, Brazil, Chile, Paraguay, and Uruguay"
       }
     ],
     "k": "southern cone"
@@ -25092,11 +25092,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. expression characteristic of South: an expression hoặc pronunciation that is characteristic of the southern United States"
+        "t": "1. expression characteristic of South: an expression or pronunciation that is characteristic of the southern United States"
       },
       {
         "k": "m",
-        "t": "2. southern belief or practice: an attitude hoặc custom that is characteristic of the South, especially in the United States"
+        "t": "2. southern belief or practice: an attitude or custom that is characteristic of the South, especially in the United States"
       }
     ],
     "k": "southernism"
@@ -25251,7 +25251,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "region comprising Afghanistan, the Arabian Peninsula, và countries bordering the eastern Mediterranean"
+        "t": "region comprising Afghanistan, the Arabian Peninsula, and countries bordering the eastern Mediterranean"
       }
     ],
     "k": "southwest asia"
@@ -25262,7 +25262,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "compass point between SW and SSW: the direction hoặc compass point midway between southwest và south-southwest"
+        "t": "compass point between SW and SSW: the direction or compass point midway between southwest and south-southwest"
       },
       {"k": "m", "t": "-southwest by south, adjective adverb"}
     ],
@@ -25274,7 +25274,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "compass point between SW and WSW: the direction hoặc compass point midway between southwest và west-southwest"
+        "t": "compass point between SW and WSW: the direction or compass point midway between southwest and west-southwest"
       },
       {"k": "m", "t": "-southwest by west, adjective adverb"}
     ],
@@ -25326,9 +25326,9 @@
     "h": "southwestward",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "in southwest: toward hoặc in the southwest"},
+      {"k": "m", "t": "in southwest: toward or in the southwest"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "point in southwest: a direction toward hoặc a point in the southwest"},
+      {"k": "m", "t": "point in southwest: a direction toward or a point in the southwest"},
       {"k": "m", "t": "toward southwest: in a southwesterly direction"},
       {"k": "m", "t": "-southwestwardly, adverb adjective"}
     ],
@@ -25360,7 +25360,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "Greek kabobs: Greek kabobs consisting of pieces of marinated meat, usually lamb, skewered và broiled"
+        "t": "Greek kabobs: Greek kabobs consisting of pieces of marinated meat, usually lamb, skewered and broiled"
       }
     ],
     "k": "souvlakia"
@@ -25471,7 +25471,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada proposed relationship between parts of Canada: a proposed type of economic và political association between a sovereign Quebec và the rest of Canada"
+        "t": "Canada proposed relationship between parts of Canada: a proposed type of economic and political association between a sovereign Quebec and the rest of Canada"
       }
     ],
     "k": "sovereignty association"
@@ -25551,7 +25551,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "expert on Soviet history: a scholar who studies the former Soviet Union, especially its government và political history"
+        "t": "expert on Soviet history: a scholar who studies the former Soviet Union, especially its government and political history"
       }
     ],
     "k": "sovietologist"
@@ -25862,7 +25862,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "soybean drink: a milk substitute made from soybeans, often with vitamins và sugar added"
+        "t": "soybean drink: a milk substitute made from soybeans, often with vitamins and sugar added"
       }
     ],
     "k": "soymilk"

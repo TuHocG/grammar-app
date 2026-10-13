@@ -73,7 +73,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "uncrewed reconnaissance vehicle: an uncrewed aerial vehicle that can fly over combat zones và staging areas, dropping supplies to troops, releasing bombs, và carrying out reconnaissance on enemy forces"
+        "t": "uncrewed reconnaissance vehicle: an uncrewed aerial vehicle that can fly over combat zones and staging areas, dropping supplies to troops, releasing bombs, and carrying out reconnaissance on enemy forces"
       }
     ],
     "k": "uav"
@@ -83,7 +83,7 @@
     "segs": [
       {"k": "m", "t": "hoặc U.A.W."},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "Automobile, Aerospace, và Agricultural Implement Workers of America"}
+      {"k": "m", "t": "Automobile, Aerospace, and Agricultural Implement Workers of America"}
     ],
     "k": "uaw"
   }

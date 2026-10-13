@@ -60,7 +60,7 @@
     "h": "via media",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "middle course: a middle course hoặc choice between extreme possibilities"}
+      {"k": "m", "t": "middle course: a middle course or choice between extreme possibilities"}
     ],
     "k": "via media"
   },
@@ -1616,7 +1616,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "surgical saw for plaster or bone: an electrically driven surgical saw with an oscillating circular blade that cannot cut soft tissue but easily cuts unyielding material such as a plaster cast hoặc bone"
+        "t": "surgical saw for plaster or bone: an electrically driven surgical saw with an oscillating circular blade that cannot cut soft tissue but easily cuts unyielding material such as a plaster cast or bone"
       }
     ],
     "k": "vibratory saw"
@@ -1707,7 +1707,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "infectious disease of animals: an infectious disease, especially of sheep, cattle, và goats, characterized by the death of a developing fetus và caused by a vibrioid bacterium Vibrio fetus"
+        "t": "infectious disease of animals: an infectious disease, especially of sheep, cattle, and goats, characterized by the death of a developing fetus and caused by a vibrioid bacterium Vibrio fetus"
       }
     ],
     "k": "vibriosis"
@@ -1917,7 +1917,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "relating to electronic and vibrational energy: relating to the electronic và vibrational energy states of elementary particles và atoms"
+        "t": "relating to electronic and vibrational energy: relating to the electronic and vibrational energy states of elementary particles and atoms"
       }
     ],
     "k": "vibronic"
@@ -2119,7 +2119,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bishop without diocese: a titular bishop hoặc missionary in the Roman Catholic Church"
+        "t": "bishop without diocese: a titular bishop or missionary in the Roman Catholic Church"
       }
     ],
     "k": "vicar apostolic"
@@ -2136,7 +2136,7 @@
       },
       {
         "k": "m",
-        "t": "2. Anglican Church bishop's assistant: a lay official assisting an Anglican bishop with administrative hoặc judicial duties"
+        "t": "2. Anglican Church bishop's assistant: a lay official assisting an Anglican bishop with administrative or judicial duties"
       }
     ],
     "k": "vicar general"
@@ -2373,7 +2373,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "deputy chair: somebody who takes the place of a chairperson in his hoặc her absence"
+        "t": "deputy chair: somebody who takes the place of a chairperson in his or her absence"
       }
     ],
     "k": "vice chair"
@@ -2390,7 +2390,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "deputy chair: a woman who takes the place of a chairperson, especially a woman, in his hoặc her absence"
+        "t": "deputy chair: a woman who takes the place of a chairperson, especially a woman, in his or her absence"
       }
     ],
     "k": "vice chairwoman"
@@ -3374,7 +3374,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "falls on the Zambezi River in south central Africa, on the border between Zambia và Zimbabwe."
+        "t": "falls on the Zambezi River in south central Africa, on the border between Zambia and Zimbabwe."
       },
       {"k": "m", "t": "Height: 108 m/355 ft."}
     ],
@@ -3385,7 +3385,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "the second largest island in Canada, located in the Arctic Archipelago, divided between Nunavut và the Northwest Territories."
+        "t": "the second largest island in Canada, located in the Arctic Archipelago, divided between Nunavut and the Northwest Territories."
       },
       {"k": "m", "t": "Diện tích: 217,291 sq km/83,897 sq mi"}
     ],
@@ -3393,7 +3393,7 @@
   },
   {
     "h": "Victoria Land",
-    "segs": [{"k": "m", "t": "region of Antarctica, west of Ross Sea và east of Wilkes Land"}],
+    "segs": [{"k": "m", "t": "region of Antarctica, west of Ross Sea and east of Wilkes Land"}],
     "k": "victoria land"
   },
   {
@@ -3409,7 +3409,10 @@
   {
     "h": "Victoria Nile",
     "segs": [
-      {"k": "m", "t": "section of the upper Nile River in Uganda, between lakes Victoria và Albert"}
+      {
+        "k": "m",
+        "t": "section of the upper Nile River in Uganda, between lakes Victoria and Albert"
+      }
     ],
     "k": "victoria nile"
   },
@@ -3526,7 +3529,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. airborne roll performed by plane: an airborne rolling maneuver carried out by a pilot of an aircraft as a sign of victory hoặc celebration"
+        "t": "U.K. airborne roll performed by plane: an airborne rolling maneuver carried out by a pilot of an aircraft as a sign of victory or celebration"
       }
     ],
     "k": "victory roll"
@@ -3583,10 +3586,10 @@
     "h": "victualer",
     "segs": [
       {"k": "m", "t": "(số nhiều victualers) hoặc victualler (số nhiều victuallers)"},
-      {"k": "m", "t": "noun (archaic hoặc formal)"},
-      {"k": "m", "t": "1. supplier of provisions: somebody who supplies food hoặc other provisions"},
+      {"k": "m", "t": "noun (archaic or formal)"},
+      {"k": "m", "t": "1. supplier of provisions: somebody who supplies food or other provisions"},
       {"k": "m", "t": "2. innkeeper: an innkeeper, especially one licensed to sell spirits"},
-      {"k": "m", "t": "3. ship carrying stores: a ship carrying food hoặc other provisions"}
+      {"k": "m", "t": "3. ship carrying stores: a ship carrying food or other provisions"}
     ],
     "k": "victualer"
   },
@@ -3719,7 +3722,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "large sweet onion: a large sweet onion that has a delicate flavor và is grown in Georgia"
+        "t": "large sweet onion: a large sweet onion that has a delicate flavor and is grown in Georgia"
       }
     ],
     "k": "vidalia onion"
@@ -3742,7 +3745,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "short video segment: a short excerpt from a movie hoặc television production, used for news hoặc promotion (thông tục)"
+        "t": "short video segment: a short excerpt from a movie or television production, used for news hoặc promotion (thông tục)"
       }
     ],
     "k": "vidclip"
@@ -4103,7 +4106,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "epilepsy triggered by a video display: epileptic seizures caused by the repetitive changing lights on video hoặc computer game displays. The photic stimulation interacts with brain rhythms to set off the seizure."
+        "t": "epilepsy triggered by a video display: epileptic seizures caused by the repetitive changing lights on video or computer game displays. The photic stimulation interacts with brain rhythms to set off the seizure."
       }
     ],
     "k": "video game epilepsy"
@@ -4230,7 +4233,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "promotion in news format: a short video film in the style of a news report that is prepared by an advertising agency và released to the broadcast media"
+        "t": "promotion in news format: a short video film in the style of a news report that is prepared by an advertising agency and released to the broadcast media"
       }
     ],
     "k": "video news release"
@@ -4280,7 +4283,7 @@
         "k": "m",
         "t": "Các chip nhớ RAM động được thiết kế đặt biệt để nâng hiệu suất của các bộ điều hợp video lên cao nhất. Tương tự bộ nhớ hai cổng, cho chip này cho phép CPU đưa dữ liệu vào một cổng trong khi hệ thống video không bị làm chậm bởi quá trình ghi của CPU. (bộ nhớ hai cổng thực thụ cho phép đọc và ghi đồng thời). Các chip video RAM được dùng trong những board điều hợp video cao cấp."
       },
-      {"k": "m", "t": "Xem random-access memory - RAM, và video adapter."}
+      {"k": "m", "t": "Xem random-access memory - RAM, and video adapter."}
     ],
     "k": "video ram-vram"
   },
@@ -4421,7 +4424,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "realism in video filming: the use in video documentaries of the realistic unrehearsed portrayal of people và situations"
+        "t": "realism in video filming: the use in video documentaries of the realistic unrehearsed portrayal of people and situations"
       }
     ],
     "k": "video verite"
@@ -4433,7 +4436,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "dull television background: a television background hoặc visual effect that is dull và uninteresting (lóng)"
+        "t": "dull television background: a television background or visual effect that is dull và uninteresting (lóng)"
       }
     ],
     "k": "video wallpaper"
@@ -4570,7 +4573,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "art of recording with video camera: the art hoặc practice of using a video camera to make films hoặc programs"
+        "t": "art of recording with video camera: the art or practice of using a video camera to make films or programs"
       },
       {"k": "m", "t": "-videographer (danh từ)"}
     ],
@@ -4594,7 +4597,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody interested in video: somebody who enjoys watching hoặc making video recordings"
+        "t": "somebody interested in video: somebody who enjoys watching or making video recordings"
       }
     ],
     "k": "videophile"
@@ -4910,7 +4913,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody from Vieques, Puerto Rico: somebody who was born in hoặc lives in Vieques, Puerto Rico"
+        "t": "somebody from Vieques, Puerto Rico: somebody who was born in or lives in Vieques, Puerto Rico"
       }
     ],
     "k": "viequense"
@@ -4949,7 +4952,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Southeast Asia somebody Vietnamese who lives outside Vietnam: a Vietnamese person who does not live in Vietnam, especially one born hoặc living in the United States who sometimes returns to Vietnam"
+        "t": "Southeast Asia somebody Vietnamese who lives outside Vietnam: a Vietnamese person who does not live in Vietnam, especially one born or living in the United States who sometimes returns to Vietnam"
       }
     ],
     "k": "viet kieu"
@@ -5603,7 +5606,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "screen for viewing digital camera picture: the screen on a digital camera on which the user can view the image he hoặc she has just recorded"
+        "t": "screen for viewing digital camera picture: the screen on a digital camera on which the user can view the image he or she has just recorded"
       }
     ],
     "k": "viewscreen"
@@ -5872,7 +5875,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và port in the autonomous region of Galicia, northwestern Spain, on the Atlantic Ocean."
+        "t": "city and port in the autonomous region of Galicia, northwestern Spain, on the Atlantic Ocean."
       },
       {"k": "m", "t": "Dân số khoảng: 293,725 (thống kê năm 2005)"}
     ],
@@ -5894,7 +5897,7 @@
       },
       {
         "k": "m",
-        "t": "2. betting charge: a sum of money that a bookmaker hoặc gambling establishment charges a customer for accepting a bet"
+        "t": "2. betting charge: a sum of money that a bookmaker or gambling establishment charges a customer for accepting a bet"
       }
     ],
     "k": "vigorish"
@@ -5914,7 +5917,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australian ball game: an Australian team game with features of cricket và baseball, played with a soft rubber ball và a paddle-shaped bat."
+        "t": "Australian ball game: an Australian team game with features of cricket and baseball, played with a soft rubber ball and a paddle-shaped bat."
       },
       {"k": "m", "t": "It has traditionally been played by women."}
     ],
@@ -6017,7 +6020,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Buddhist monastery: a Buddhist temple, monastery, hoặc other religious building"
+        "t": "Buddhist monastery: a Buddhist temple, monastery, or other religious building"
       }
     ],
     "k": "vihara"
@@ -6224,7 +6227,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australia type of modern suburban house: a modern suburban home built on a small parcel of land và usually separated from a neighboring home by its garage"
+        "t": "Australia type of modern suburban house: a modern suburban home built on a small parcel of land and usually separated from a neighboring home by its garage"
       }
     ],
     "k": "villa home"
@@ -6349,7 +6352,7 @@
   {
     "h": "Villahermosa",
     "segs": [
-      {"k": "m", "t": "city và capital of Tabasco State, southeastern Mexico."},
+      {"k": "m", "t": "city and capital of Tabasco State, southeastern Mexico."},
       {"k": "m", "t": "Dân số khoảng: 536,498 (2000) Former name San Juan Bautista"}
     ],
     "k": "villahermosa"
@@ -6493,11 +6496,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "French poetic form: a 19-line poem, originally French, that uses only two rhymes và consists of five three-line stanzas và a final quatrain."
+        "t": "French poetic form: a 19-line poem, originally French, that uses only two rhymes and consists of five three-line stanzas and a final quatrain."
       },
       {
         "k": "m",
-        "t": "The first và third lines of the first stanza are alternately repeated as a refrain that closes the following stanzas, và are joined as a final couplet of the quatrain."
+        "t": "The first and third lines of the first stanza are alternately repeated as a refrain that closes the following stanzas, and are joined as a final couplet of the quatrain."
       }
     ],
     "k": "villanelle"
@@ -6508,7 +6511,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "belonging to Iron Age culture: belonging to hoặc characteristic of an early Iron Age culture that existed near Bologna, Italy, in which bronze was used và also, in a simple way, iron"
+        "t": "belonging to Iron Age culture: belonging to or characteristic of an early Iron Age culture that existed near Bologna, Italy, in which bronze was used and also, in a simple way, iron"
       },
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "member of Villanovan culture: a member of the Villanovan culture"}
@@ -6623,7 +6626,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "like minute projection: in the form of hoặc resembling a minute projection villus"
+        "t": "like minute projection: in the form of or resembling a minute projection villus"
       }
     ],
     "k": "villiform"
@@ -6842,7 +6845,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "school of Buddhism: a school of Buddhism originating in 7th-century China that emphasizes adherence to ethical principles và discipline, particularly with regard to the ordination of monks"
+        "t": "school of Buddhism: a school of Buddhism originating in 7th-century China that emphasizes adherence to ethical principles and discipline, particularly with regard to the ordination of monks"
       }
     ],
     "k": "vinaya"
@@ -6882,7 +6885,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "inflammation of mouth: a painful mouth inflammation with ulcers và gum damage. Two organisms that are normally present cause the condition only when somebody has a vitamin B deficiency hoặc an immune deficiency."
+        "t": "inflammation of mouth: a painful mouth inflammation with ulcers and gum damage. Two organisms that are normally present cause the condition only when somebody has a vitamin B deficiency or an immune deficiency."
       }
     ],
     "k": "vincent's angina"
@@ -7123,7 +7126,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "destructive flightless weevil: a black flightless weevil that produces adult females only và has creamy-white larvae that destroy the roots of many different plants."
+        "t": "destructive flightless weevil: a black flightless weevil that produces adult females only and has creamy-white larvae that destroy the roots of many different plants."
       },
       {"k": "m", "t": "Tên Latinh: Otiorhycus sulcatus"}
     ],
@@ -7456,12 +7459,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle vinified, present participle vinifying, 3rd person present singular vinifies)"
+        "t": "(past and past participle vinified, present participle vinifying, 3rd person present singular vinifies)"
       },
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "make something into wine: to ferment grape juice, hoặc another liquid, into wine"
+        "t": "make something into wine: to ferment grape juice, or another liquid, into wine"
       },
       {"k": "m", "t": "-vinification (danh từ)"}
     ],
@@ -7550,7 +7553,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "character of wine: the distinctive và essential character of wine, including qualities such as body, color, và taste"
+        "t": "character of wine: the distinctive and essential character of wine, including qualities such as body, color, and taste"
       }
     ],
     "k": "vinosity"
@@ -7663,7 +7666,7 @@
         "k": "m",
         "t": "1. year of good wine: a year in which the wine that is made is of excellent quality"
       },
-      {"k": "m", "t": "2. outstanding year: a year of extraordinary accomplishment hoặc success"}
+      {"k": "m", "t": "2. outstanding year: a year of extraordinary accomplishment or success"}
     ],
     "k": "vintage year"
   },
@@ -7808,7 +7811,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "chemical group: a bivalent chemical group hoặc radical, made when two hydrogen atoms are removed from one carbon atom of ethylene."
+        "t": "chemical group: a bivalent chemical group or radical, made when two hydrogen atoms are removed from one carbon atom of ethylene."
       },
       {"k": "m", "t": "Công thức: CH2:C"}
     ],
@@ -8259,7 +8262,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "double-bass viol: the double-bass viol, larger và with a deeper range than the viola da gamba"
+        "t": "double-bass viol: the double-bass viol, larger and with a deeper range than the viola da gamba"
       }
     ],
     "k": "violone"
@@ -8521,7 +8524,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bird that eats insects: a small songbird with grayish hoặc greenish feathers that eats insects. Thường thấy ở: Americas."
+        "t": "bird that eats insects: a small songbird with grayish or greenish feathers that eats insects. Thường thấy ở: Americas."
       },
       {"k": "m", "t": "Genus: Vireo"}
     ],
@@ -8549,7 +8552,7 @@
     "h": "virescent",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. greenish: being hoặc becoming green"},
+      {"k": "m", "t": "1. greenish: being or becoming green"},
       {
         "k": "m",
         "t": "2. unusually green: used to describe plant parts that are not normally green but are turned green by disease"
@@ -8563,7 +8566,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "wispy precipitation: vertical trails of rain, snow, hoặc ice from the underside of a cloud that evaporate before reaching the ground"
+        "t": "wispy precipitation: vertical trails of rain, snow, or ice from the underside of a cloud that evaporate before reaching the ground"
       }
     ],
     "k": "virga"
@@ -8574,7 +8577,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "long and thin: describes plant parts that are long và thin like a rod (technical)"
+        "t": "long and thin: describes plant parts that are long and thin like a rod (technical)"
       }
     ],
     "k": "virgate"
@@ -8835,7 +8838,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "largest city in Virginia, situated in the southeastern part of the state, on the Atlantic Ocean và the Chesapeake Bay, near the border with North Carolina."
+        "t": "largest city in Virginia, situated in the southeastern part of the state, on the Atlantic Ocean and the Chesapeake Bay, near the border with North Carolina."
       },
       {"k": "m", "t": "Dân số khoảng: 440,098 (thống kê năm 2004)"}
     ],
@@ -9068,7 +9071,7 @@
     "h": "virgo intacta",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "virgin girl or woman: a girl hoặc woman whose hymen remains unbroken"}
+      {"k": "m", "t": "virgin girl or woman: a girl or woman whose hymen remains unbroken"}
     ],
     "k": "virgo intacta"
   },
@@ -9264,7 +9267,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "living with husband's family: describes a form of marriage hoặc the custom where, after the wedding, the bride moves to her new husband's family home"
+        "t": "living with husband's family: describes a form of marriage or the custom where, after the wedding, the bride moves to her new husband's family home"
       }
     ],
     "k": "virilocal"
@@ -9460,7 +9463,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "long-distance assistant: somebody who uses a computer và phone links to work from a distance as a personal assistant to somebody else"
+        "t": "long-distance assistant: somebody who uses a computer and phone links to work from a distance as a personal assistant to somebody else"
       },
       {
         "k": "m",
@@ -9784,7 +9787,7 @@
       {"k": "m", "t": "Mạng ảo"},
       {
         "k": "m",
-        "t": "Mạng ảo là mạng được định nghĩa trong phần mềm hoặc thông qua chuyển mạch cấu hình trên mức cao nhất của mạng khác. Trong mạng công cộng, mạng ảo được định nghĩa bởi mạch ảo. Trong mạng nội bộ, mạng ảo được định nghĩa như là mạng con hoặc VLAN (virtual LAN). Xem \"Virtual Circuit\", \"VLAN\" và \"VPN (Virtual Private Network)\" để biết chi tiết về hai loại mạch ảo.."
+        "t": "Mạng ảo là mạng được định nghĩa trong phần mềm hoặc thông qua chuyển mạch cấu hình trên mức cao nhất của mạng khác. Trong mạng công cộng, mạng ảo được định nghĩa bởi mạch ảo. Trong mạng nội bộ, mạng ảo được định nghĩa như là mạng con hoặc VLAN (virtual LAN). Xem \"Virtual Circuit\", \"VLAN\" and \"VPN (Virtual Private Network)\" để biết chi tiết về hai loại mạch ảo.."
       }
     ],
     "k": "virtual network"
@@ -10281,7 +10284,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "increasingly beneficial chain of events: a chain hoặc cycle of events, the opposite of a vicious circle, in which one event with a beneficial outcome brings about further events with increasingly beneficial outcomes"
+        "t": "increasingly beneficial chain of events: a chain or cycle of events, the opposite of a vicious circle, in which one event with a beneficial outcome brings about further events with increasingly beneficial outcomes"
       }
     ],
     "k": "virtuous circle"
@@ -10386,7 +10389,7 @@
     "h": "viruliferous",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "bearing virus: describes an organism that contains hoặc carries a virus"}
+      {"k": "m", "t": "bearing virus: describes an organism that contains or carries a virus"}
     ],
     "k": "viruliferous"
   },
@@ -10665,7 +10668,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Philippine people: a member of a people of the central và southern islands of the Philippines"
+        "t": "1. member of Philippine people: a member of a people of the central and southern islands of the Philippines"
       },
       {
         "k": "m",
@@ -10707,7 +10710,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "S American rodent: a burrowing gregarious rodent with black và white markings on its face, related to và resembling the chinchilla. Thường thấy ở: South America."
+        "t": "S American rodent: a burrowing gregarious rodent with black and white markings on its face, related to và resembling the chinchilla. Thường thấy ở: South America."
       },
       {"k": "m", "t": "Tên Latinh: Lagostomus maximus"}
     ],
@@ -11018,7 +11021,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "viscous and elastic: describes asphalt và many polymers that exhibit both viscous và elastic properties"
+        "t": "viscous and elastic: describes asphalt and many polymers that exhibit both viscous and elastic properties"
       },
       {"k": "m", "t": "-viscoelasticity (danh từ)"}
     ],
@@ -11701,7 +11704,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và port on the Bay of Bengal, in Andhra Pradesh State, southeastern India."
+        "t": "city and port on the Bay of Bengal, in Andhra Pradesh State, southeastern India."
       },
       {"k": "m", "t": "Dân số khoảng: 1,329,472 (2001)"}
     ],
@@ -11722,7 +11725,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hindu god: in Hinduism, a god called the Preserver, the second member of the triad that includes Brahma the Creator và Shiva the Destroyer"
+        "t": "Hindu god: in Hinduism, a god called the Preserver, the second member of the triad that includes Brahma the Creator and Shiva the Destroyer"
       }
     ],
     "k": "vishnu"
@@ -11943,11 +11946,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. symbols representing mouth position in speech: a set of phonetic symbols intended to represent the position of the lips, tongue, và other speech organs in creating sounds"
+        "t": "1. symbols representing mouth position in speech: a set of phonetic symbols intended to represent the position of the lips, tongue, and other speech organs in creating sounds"
       },
       {
         "k": "m",
-        "t": "2. visual record of speech: a visual representation of speech using a spectrograph that disperses radiation into a spectrum và photographs it"
+        "t": "2. visual record of speech: a visual representation of speech using a spectrograph that disperses radiation into a spectrum and photographs it"
       }
     ],
     "k": "visible speech"
@@ -12018,7 +12021,7 @@
       },
       {
         "k": "m",
-        "t": "They destroyed Rome in 410 và took over parts of Spain và southern France, where they established a powerful kingdom that lasted until the beginning of the 8th century."
+        "t": "They destroyed Rome in 410 và took over parts of Spain and southern France, where they established a powerful kingdom that lasted until the beginning of the 8th century."
       },
       {"k": "m", "t": "Xem Ostrogoth"},
       {"k": "m", "t": "-Visigothic (tính từ)"}
@@ -12147,7 +12150,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Native N American boy's rite of passage: a personal spiritual search undertaken by an adolescent Native North American boy in order to learn by means of a trance hoặc vision the identity of his guardian spirit"
+        "t": "Native N American boy's rite of passage: a personal spiritual search undertaken by an adolescent Native North American boy in order to learn by means of a trance or vision the identity of his guardian spirit"
       }
     ],
     "k": "vision quest"
@@ -12168,7 +12171,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "statement of organization's aspirations: a formal statement that expresses the aspirations và goals of a company hoặc organization"
+        "t": "statement of organization's aspirations: a formal statement that expresses the aspirations and goals of a company or organization"
       }
     ],
     "k": "vision statement"
@@ -12628,7 +12631,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "information center for tourists: a building offering information và services to visitors in a city hoặc at a historical hoặc archaeological site, park, hoặc nature reserve"
+        "t": "information center for tourists: a building offering information and services to visitors in a city hoặc at a historical hoặc archaeological site, park, hoặc nature reserve"
       }
     ],
     "k": "visitor center"
@@ -12716,7 +12719,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "pneumonia of sheep and goats: a chronic progressive pneumonia of sheep và goats"
+        "t": "pneumonia of sheep and goats: a chronic progressive pneumonia of sheep and goats"
       }
     ],
     "k": "visna"
@@ -12865,7 +12868,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "longest river of Poland, flowing northward from the Carpathian Mountains in the southwest of the country, through Cracow, Warsaw, và Torun, before emptying into the Baltic Sea at the Gulf of Gdansk."
+        "t": "longest river of Poland, flowing northward from the Carpathian Mountains in the southwest of the country, through Cracow, Warsaw, and Torun, before emptying into the Baltic Sea at the Gulf of Gdansk."
       },
       {"k": "m", "t": "Length: 1,090 km/675 mi Polish name Wisla"}
     ],
@@ -12967,7 +12970,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "star seen as pair with telescope: a star that can be seen to be a double star either with the naked eye hoặc when viewed through a telescope"
+        "t": "star seen as pair with telescope: a star that can be seen to be a double star either with the naked eye or when viewed through a telescope"
       }
     ],
     "k": "visual binary"
@@ -13056,7 +13059,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "effects of visual stimuli on electroencephalogram: brain activity produced by visual stimuli, ví dụ: a reversing checkerboard pattern, và traced on an electroencephalogram as a test of optic nerves"
+        "t": "effects of visual stimuli on electroencephalogram: brain activity produced by visual stimuli, ví dụ: a reversing checkerboard pattern, and traced on an electroencephalogram as a test of optic nerves"
       }
     ],
     "k": "visual evoked responses"
@@ -13435,7 +13438,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "coordination of visual and motor systems: the coordination of the body's visual và motor systems, as occurs when somebody reaches out for something that is being looked at"
+        "t": "coordination of visual and motor systems: the coordination of the body's visual and motor systems, as occurs when somebody reaches out for something that is being looked at"
       }
     ],
     "k": "visual-motor coordination"
@@ -13728,7 +13731,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "signs of life: the signs that indicate life, ví dụ: pulse, body temperature, breathing, và blood pressure"
+        "t": "signs of life: the signs that indicate life, ví dụ: pulse, body temperature, breathing, and blood pressure"
       }
     ],
     "k": "vital signs"
@@ -14434,7 +14437,7 @@
     "h": "vitric",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "similar to glass: having the characteristics hoặc appearance of glass"}
+      {"k": "m", "t": "similar to glass: having the characteristics or appearance of glass"}
     ],
     "k": "vitric"
   },
@@ -14743,11 +14746,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. oil-containing tube in plant: a tube hoặc cavity containing oil in the carpels of the family of plants that includes carrot, parsley, và celery"
+        "t": "1. oil-containing tube in plant: a tube or cavity containing oil in the carpels of the family of plants that includes carrot, parsley, and celery"
       },
       {
         "k": "m",
-        "t": "2. colored stripe on animal's body: a stripe hoặc band of color on the body of an animal"
+        "t": "2. colored stripe on animal's body: a stripe or band of color on the body of an animal"
       },
       {"k": "m", "t": "-vittate (tính từ)"}
     ],
@@ -15029,7 +15032,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "civet or mongoose: a civet, mongoose, hoặc other similar small carnivorous mammal with a long slender body."
+        "t": "civet or mongoose: a civet, mongoose, or other similar small carnivorous mammal with a long slender body."
       },
       {"k": "m", "t": "Family: Viverridae"},
       {"k": "m", "t": "-viverrid (tính từ)"}

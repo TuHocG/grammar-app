@@ -28,7 +28,7 @@
   {
     "h": "Gdansk",
     "segs": [
-      {"k": "m", "t": "city, seaport, và shipbuilding center in northern Poland."},
+      {"k": "m", "t": "city, seaport, and shipbuilding center in northern Poland."},
       {"k": "m", "t": "It is situated at the mouth of the Vistula River, on the Baltic Sea."},
       {"k": "m", "t": "Dân số khoảng: 457,400 (thống kê năm 2005) German name Danzig"}
     ],
@@ -123,7 +123,7 @@
   {
     "h": "Gdynia",
     "segs": [
-      {"k": "m", "t": "seaport và city on the Gulf of Gdansk, northern Poland."},
+      {"k": "m", "t": "seaport and city on the Gulf of Gdansk, northern Poland."},
       {"k": "m", "t": "Dân số khoảng: 254,500 (thống kê năm 2005)"}
     ],
     "k": "gdynia"

@@ -46,7 +46,7 @@
       {"k": "m", "t": "3. measurements pint"},
       {"k": "m", "t": "4. point"},
       {"k": "m", "t": "5. port"},
-      {"k": "m", "t": "6. grammar preterit hoặc preterite"}
+      {"k": "m", "t": "6. grammar preterit or preterite"}
     ],
     "k": "pt."
   },
@@ -583,7 +583,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "large walled plain on the Moon that is noticeably hexagonal in shape và has a highly cratered floor. Located northeast of Mare Imbrium, it is approximately 140 km/85 mi across."
+        "t": "large walled plain on the Moon that is noticeably hexagonal in shape and has a highly cratered floor. Located northeast of Mare Imbrium, it is approximately 140 km/85 mi across."
       }
     ],
     "k": "ptolemaeus"

@@ -1237,7 +1237,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "geometric figure: a solid figure with a base that is a square và four faces that are triangles meeting at a common point"
+        "t": "geometric figure: a solid figure with a base that is a square and four faces that are triangles meeting at a common point"
       }
     ],
     "k": "square pyramid"
@@ -1399,7 +1399,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "New Zealand business organization: an organization set up to promote discussion between people representing business, community groups, và local government"
+        "t": "New Zealand business organization: an organization set up to promote discussion between people representing business, community groups, and local government"
       }
     ],
     "k": "square table"
@@ -2202,7 +2202,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "racket games racket used in squash: a bat with a long handle và a head framing a mesh of strings, used to hit the ball in squash"
+        "t": "racket games racket used in squash: a bat with a long handle and a head framing a mesh of strings, used to hit the ball in squash"
       }
     ],
     "k": "squash racket"
@@ -2397,7 +2397,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australia class of wealthy landowners: wealthy landowners regarded as a powerful và influential social class (disapproving)"
+        "t": "Australia class of wealthy landowners: wealthy landowners regarded as a powerful and influential social class (disapproving)"
       }
     ],
     "k": "squattocracy"
@@ -2456,7 +2456,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "intercom: a public-address system hoặc one of its speakers, originally box-shaped (dated slang)"
+        "t": "intercom: a public-address system or one of its speakers, originally box-shaped (dated slang)"
       }
     ],
     "k": "squawk box"
@@ -2717,7 +2717,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "street-person windshield washer: a man hoặc youth who enters stopped traffic without invitation, attempting to wash motorists' windshields for money (lóng)"
+        "t": "street-person windshield washer: a man or youth who enters stopped traffic without invitation, attempting to wash motorists' windshields for money (lóng)"
       }
     ],
     "k": "squeegee man"
@@ -2844,7 +2844,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "sacrifice bunt to score third-base runner: in baseball, a sacrifice bunt neatly placed, usually when there are less than two outs, in order to delay a play at the plate và score a runner from third base"
+        "t": "sacrifice bunt to score third-base runner: in baseball, a sacrifice bunt neatly placed, usually when there are less than two outs, in order to delay a play at the plate and score a runner from third base"
       }
     ],
     "k": "squeeze bunt"
@@ -2918,7 +2918,7 @@
       },
       {
         "k": "m",
-        "t": "2. play in game of bridge: in bridge hoặc whist, a play in which an opponent is forced to discard a valuable và potentially winning card"
+        "t": "2. play in game of bridge: in bridge or whist, a play in which an opponent is forced to discard a valuable and potentially winning card"
       }
     ],
     "k": "squeeze play"
@@ -3185,7 +3185,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "kick keeping ball low: in football, a kick of the ball so that it wobbles as it bounces along the ground in order to make it hard to field và return"
+        "t": "kick keeping ball low: in football, a kick of the ball so that it wobbles as it bounces along the ground in order to make it hard to field and return"
       }
     ],
     "k": "squib kick"
@@ -3300,7 +3300,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "burrowing ocean crustacean: a burrowing ocean crustacean that has eyes on stalks và large grasping appendages."
+        "t": "burrowing ocean crustacean: a burrowing ocean crustacean that has eyes on stalks and large grasping appendages."
       },
       {"k": "m", "t": "Genus: Squilla"}
     ],
@@ -3323,7 +3323,7 @@
     "segs": [
       {"k": "m", "t": "(comparative squingier, superlative squingiest)"},
       {"k": "m", "t": "adjectiveCaribbean"},
-      {"k": "m", "t": "1. shriveled: small và dried-up in appearance"},
+      {"k": "m", "t": "1. shriveled: small and dried-up in appearance"},
       {"k": "m", "t": "2. worth nothing: worthless"}
     ],
     "k": "squingy"
@@ -3674,7 +3674,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "wildflower with tubers resembling corn grains: a low-growing wild plant with divided leaves và small tubers resembling grains of corn. Flowers: whitish yellow. Thường thấy ở: eastern United States."
+        "t": "wildflower with tubers resembling corn grains: a low-growing wild plant with divided leaves and small tubers resembling grains of corn. Flowers: whitish yellow. Thường thấy ở: eastern United States."
       },
       {"k": "m", "t": "Tên Latinh: Dicentra canadensis"}
     ],
@@ -3767,11 +3767,8 @@
     "h": "squirrelly",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. U.S. offensive term: an offensive term meaning very irrational hoặc odd"},
-      {
-        "k": "m",
-        "t": "2. characteristic of squirrels: resembling hoặc characteristic of a squirrel"
-      }
+      {"k": "m", "t": "1. U.S. offensive term: an offensive term meaning very irrational or odd"},
+      {"k": "m", "t": "2. characteristic of squirrels: resembling or characteristic of a squirrel"}
     ],
     "k": "squirrelly"
   },

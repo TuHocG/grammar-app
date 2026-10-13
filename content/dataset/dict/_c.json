@@ -50,7 +50,7 @@
     "h": "-cephaly",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "a particular condition of the head hoặc skull"},
+      {"k": "m", "t": "a particular condition of the head or skull"},
       {"k": "m", "t": "microcephaly"}
     ],
     "k": "-cephaly"
@@ -70,7 +70,7 @@
     "h": "-clinous",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "1. having stamens và pistils in a particular number of flowers"},
+      {"k": "m", "t": "1. having stamens and pistils in a particular number of flowers"},
       {"k": "m", "t": "diclinous"},
       {"k": "m", "t": "2. descending from a particular line"},
       {"k": "m", "t": "matriclinous"}

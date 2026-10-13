@@ -61,7 +61,7 @@
     "segs": [
       {"k": "m", "t": "hoặc p. và h. hoặc p&h"},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "U.S. mail postage và handling"}
+      {"k": "m", "t": "U.S. mail postage and handling"}
     ],
     "k": "p and h"
   },
@@ -155,9 +155,9 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "manners: the polite manners và behavior that somebody adopts when eager to make a good impression"
+        "t": "manners: the polite manners and behavior that somebody adopts when eager to make a good impression"
       },
-      {"k": "m", "t": "We'd better mind our p's và q's."}
+      {"k": "m", "t": "We'd better mind our p's and q's."}
     ],
     "k": "p's and q's"
   },

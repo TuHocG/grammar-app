@@ -40,7 +40,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Islamic fundamentalist organization: an international Islamic fundamentalist organization associated with several terrorist incidents, including the attack on the World Trade Center, New York (2001). Al-Qaeda was established by Osama bin Laden in 1989 và was based in Afghanistan until driven out by U.S. và coalition forces in 2001."
+        "t": "Islamic fundamentalist organization: an international Islamic fundamentalist organization associated with several terrorist incidents, including the attack on the World Trade Center, New York (2001). Al-Qaeda was established by Osama bin Laden in 1989 và was based in Afghanistan until driven out by U.S. and coalition forces in 2001."
       }
     ],
     "k": "al qaeda"
@@ -74,7 +74,7 @@
   {
     "h": "Al-Minya",
     "segs": [
-      {"k": "m", "t": "city và trading center in eastern Egypt, in the Nile valley."},
+      {"k": "m", "t": "city and trading center in eastern Egypt, in the Nile valley."},
       {"k": "m", "t": "Dân số khoảng: 208,000 (1992)"}
     ],
     "k": "al-minya"
@@ -135,7 +135,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "1. state in the southeastern United States, bordered by Georgia, the Gulf of Mexico, Mississippi, và Tennessee."
+        "t": "1. state in the southeastern United States, bordered by Georgia, the Gulf of Mexico, Mississippi, and Tennessee."
       },
       {"k": "m", "t": "Capital: Montgomery"},
       {"k": "m", "t": "Dân số khoảng: 4,557,808 (thống kê năm 2005)"},
@@ -241,7 +241,7 @@
       {"k": "m", "t": "interjection"},
       {
         "k": "m",
-        "t": "Singapore expression of surprise: used to express surprise, annoyance, hoặc derision"
+        "t": "Singapore expression of surprise: used to express surprise, annoyance, or derision"
       }
     ],
     "k": "alamak"
@@ -994,7 +994,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "German king of dwarves: in medieval Germanic mythology, king of the dwarves và guardian of the treasures of the Nibelung"
+        "t": "German king of dwarves: in medieval Germanic mythology, king of the dwarves and guardian of the treasures of the Nibelung"
       }
     ],
     "k": "alberich"
@@ -1028,7 +1028,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Canada's westernmost Prairie Province và a leading producer of oil và natural gas."
+        "t": "Canada's westernmost Prairie Province and a leading producer of oil and natural gas."
       },
       {"k": "m", "t": "Capital: Edmonton"},
       {"k": "m", "t": "Dân số khoảng: 3,306,359 (thống kê năm 2006)"},
@@ -1051,7 +1051,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "N American dinosaur: a North American flesh-eating dinosaur that lived about 70 million years ago. It stood on its hind legs, was about 9 m/30 ft long, và weighed around 3,000 kg/3 tons."
+        "t": "N American dinosaur: a North American flesh-eating dinosaur that lived about 70 million years ago. It stood on its hind legs, was about 9 m/30 ft long, and weighed around 3,000 kg/3 tons."
       },
       {"k": "m", "t": "Genus: Albertosaurus"}
     ],
@@ -1191,7 +1191,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hispanic pork and beef meatball: a meatball made of ground pork và beef, usually served with a spicy tomato-serrano chili sauce, hoặc in Mexican cuisine, in a soup (usually used in the plural)"
+        "t": "Hispanic pork and beef meatball: a meatball made of ground pork and beef, usually served with a spicy tomato-serrano chili sauce, or in Mexican cuisine, in a soup (usually used in the plural)"
       }
     ],
     "k": "albondiga"
@@ -1207,7 +1207,7 @@
       {"k": "m", "t": "plural noun"},
       {
         "k": "m",
-        "t": "Southwestern U.S. food Mexican meatballs: in Mexican cuisine, meatballs made of ground pork và beef with a spicy tomato-serrano chili sauce"
+        "t": "Southwestern U.S. food Mexican meatballs: in Mexican cuisine, meatballs made of ground pork and beef with a spicy tomato-serrano chili sauce"
       }
     ],
     "k": "albondigas"
@@ -1446,7 +1446,10 @@
   {
     "h": "Albuquerque",
     "segs": [
-      {"k": "m", "t": "city và tourist resort on the Rio Grande và the largest city in New Mexico."},
+      {
+        "k": "m",
+        "t": "city and tourist resort on the Rio Grande and the largest city in New Mexico."
+      },
       {"k": "m", "t": "Dân số khoảng: 484,246 (thống kê năm 2004)"}
     ],
     "k": "albuquerque"
@@ -1458,7 +1461,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "urban area in southeastern Australia consisting of the cities of Albury in New South Wales và Wodonga in Victoria."
+        "t": "urban area in southeastern Australia consisting of the cities of Albury in New South Wales and Wodonga in Victoria."
       },
       {"k": "m", "t": "Dân số khoảng: 67,316 (1996)"}
     ],
@@ -1592,7 +1595,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "wife of Admetus: in Greek mythology, the daughter of Pelias và wife of Admetus, King of Pherae."
+        "t": "wife of Admetus: in Greek mythology, the daughter of Pelias and wife of Admetus, King of Pherae."
       },
       {
         "k": "m",
@@ -1750,7 +1753,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "metabolic enzyme: an enzyme found in the liver và stomach that promotes the conversion of alcohols to aldehydes"
+        "t": "metabolic enzyme: an enzyme found in the liver and stomach that promotes the conversion of alcohols to aldehydes"
       }
     ],
     "k": "alcohol dehydrogenase"
@@ -1834,7 +1837,7 @@
       },
       {
         "k": "m",
-        "t": "They may include anxiety, shakiness, sweating, loss of appetite, nausea và vomiting, insomnia, disorientation, epileptic seizures, và delirium tremens."
+        "t": "They may include anxiety, shakiness, sweating, loss of appetite, nausea and vomiting, insomnia, disorientation, epileptic seizures, and delirium tremens."
       }
     ],
     "k": "alcohol withdrawal syndrome"
@@ -1903,7 +1906,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "heart disease: a disease of the heart muscle caused by prolonged exposure to the toxic effects of alcohol hoặc its byproduct"
+        "t": "heart disease: a disease of the heart muscle caused by prolonged exposure to the toxic effects of alcohol or its byproduct"
       }
     ],
     "k": "alcoholic cardiomyopathy"
@@ -1951,7 +1954,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "inflammation of liver: inflammation of the liver caused by prolonged exposure to the toxic effects of alcohol hoặc its byproducts, often a precursor to cirrhosis"
+        "t": "inflammation of liver: inflammation of the liver caused by prolonged exposure to the toxic effects of alcohol or its byproducts, often a precursor to cirrhosis"
       }
     ],
     "k": "alcoholic hepatitis"
@@ -2196,7 +2199,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bright star in constellation Taurus: the brightest star in the constellation Taurus và one of the brightest stars in the sky"
+        "t": "bright star in constellation Taurus: the brightest star in the constellation Taurus and one of the brightest stars in the sky"
       }
     ],
     "k": "aldebaran"
@@ -2255,7 +2258,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "flying insect with water-dwelling larvae: a slender-bodied insect with two pairs of prominently veined wings. The eggs are laid near water, và the larvae live in the water và have projecting feathery gills."
+        "t": "flying insect with water-dwelling larvae: a slender-bodied insect with two pairs of prominently veined wings. The eggs are laid near water, and the larvae live in the water and have projecting feathery gills."
       },
       {"k": "m", "t": "Family: Sialidae"}
     ],
@@ -2316,7 +2319,7 @@
   {
     "h": "Alderney (1)",
     "segs": [
-      {"k": "m", "t": "third largest và most northerly of the Channel Islands."},
+      {"k": "m", "t": "third largest and most northerly of the Channel Islands."},
       {"k": "m", "t": "Dân số khoảng: 2,297 (1991)"},
       {"k": "m", "t": "Diện tích: 18 sq km/3 sq mi."}
     ],
@@ -2329,7 +2332,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "member of town legislating body: a member of the legislating body of some towns hoặc cities in the United States và Canada"
+        "t": "member of town legislating body: a member of the legislating body of some towns or cities in the United States and Canada"
       }
     ],
     "k": "alderperson"
@@ -2337,7 +2340,7 @@
   {
     "h": "Aldershot",
     "segs": [
-      {"k": "m", "t": "city và military center in Hampshire, southern England."},
+      {"k": "m", "t": "city and military center in Hampshire, southern England."},
       {"k": "m", "t": "Dân số khoảng: 51,356 (1991)"}
     ],
     "k": "aldershot"
@@ -2349,11 +2352,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. woman member of town legislating body: a woman who is a member of the legislating body of some towns hoặc cities in the United States và Canada"
+        "t": "1. woman member of town legislating body: a woman who is a member of the legislating body of some towns or cities in the United States and Canada"
       },
       {
         "k": "m",
-        "t": "2. woman English senior council member: a woman who was a senior member of an English hoặc Welsh local council before the local government reorganization of 1974"
+        "t": "2. woman English senior council member: a woman who was a senior member of an English or Welsh local council before the local government reorganization of 1974"
       }
     ],
     "k": "alderwoman"
@@ -2382,7 +2385,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "printing of Aldus Manutius: relating to the 16th-century printer và publisher Aldus Manutius, the works printed by him, hoặc the typefaces popularized by his press"
+        "t": "printing of Aldus Manutius: relating to the 16th-century printer and publisher Aldus Manutius, the works printed by him, or the typefaces popularized by his press"
       }
     ],
     "k": "aldine"
@@ -2604,7 +2607,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "Germanic peoples: a group of Germanic peoples who settled in areas around the Rhine, Main, và Danube rivers at the beginning of the 4th century ad"
+        "t": "Germanic peoples: a group of Germanic peoples who settled in areas around the Rhine, Main, and Danube rivers at the beginning of the 4th century ad"
       }
     ],
     "k": "alemanni"
@@ -2615,7 +2618,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. German dialects: a group of High German dialects spoken in Alsace, Switzerland, và southwestern Germany"
+        "t": "1. German dialects: a group of High German dialects spoken in Alsace, Switzerland, and southwestern Germany"
       },
       {"k": "m", "t": "2. ancient Germanic language: the language of the Alemanni"},
       {"k": "m", "t": "Tính từ"},
@@ -2928,11 +2931,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of indigenous Alaskan people: a member of an indigenous people who live in the Aleutian Islands và coastal southwestern Alaska"
+        "t": "1. member of indigenous Alaskan people: a member of an indigenous people who live in the Aleutian Islands and coastal southwestern Alaska"
       },
       {
         "k": "m",
-        "t": "2. Eskimo-Aleut language: an Eskimo-Aleut language spoken in the Aleutian Islands và coastal parts of Alaska. 500."
+        "t": "2. Eskimo-Aleut language: an Eskimo-Aleut language spoken in the Aleutian Islands and coastal parts of Alaska. 500."
       },
       {"k": "m", "t": "-Aleut, adjective"},
       {"k": "m", "t": "-Aleutian (tính từ)"}
@@ -2944,7 +2947,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "chain of islands stretching westward for about 1,800 km/1,100 mi from the tip of the Alaska Peninsula và separating the Pacific Ocean from the Bering Sea to the north"
+        "t": "chain of islands stretching westward for about 1,800 km/1,100 mi from the tip of the Alaska Peninsula and separating the Pacific Ocean from the Bering Sea to the north"
       }
     ],
     "k": "aleutian islands"
@@ -2954,7 +2957,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "mountain range on the eastern coast of the Alaska Peninsula that includes the Katmai National Park và Preserve. The highest peak is Mount Redoubt 3,108 m/10,197 ft."
+        "t": "mountain range on the eastern coast of the Alaska Peninsula that includes the Katmai National Park and Preserve. The highest peak is Mount Redoubt 3,108 m/10,197 ft."
       }
     ],
     "k": "aleutian range"
@@ -3300,7 +3303,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "with cream sauce: served with a rich sauce made from cream, butter, và Parmesan cheese"
+        "t": "with cream sauce: served with a rich sauce made from cream, butter, and Parmesan cheese"
       }
     ],
     "k": "alfredo"
@@ -3384,7 +3387,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "growth of algae covering water: an excessive growth of algae on hoặc near the surface of water, occurring naturally hoặc as a result of an excess of nutrients from organic pollution"
+        "t": "growth of algae covering water: an excessive growth of algae on or near the surface of water, occurring naturally or as a result of an excess of nutrients from organic pollution"
       }
     ],
     "k": "algal bloom"
@@ -3402,7 +3405,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "1. trees như carob"},
       {"k": "m", "t": "2. trees như honey mesquite"},
-      {"k": "m", "t": "3. fruit: the edible fruit of the carob hoặc the mesquite"}
+      {"k": "m", "t": "3. fruit: the edible fruit of the carob or the mesquite"}
     ],
     "k": "algarroba"
   },
@@ -3731,7 +3734,7 @@
   {
     "h": "Algeciras",
     "segs": [
-      {"k": "m", "t": "port và resort near the southern tip of Spain."},
+      {"k": "m", "t": "port and resort near the southern tip of Spain."},
       {"k": "m", "t": "Dân số khoảng: 111,283 (thống kê năm 2005)"}
     ],
     "k": "algeciras"
@@ -3867,7 +3870,7 @@
   {
     "h": "Algiers",
     "segs": [
-      {"k": "m", "t": "capital, chief port, và largest city of Algeria."},
+      {"k": "m", "t": "capital, chief port, and largest city of Algeria."},
       {"k": "m", "t": "Dân số khoảng: 1,519,570 (1998)"}
     ],
     "k": "algiers"
@@ -3879,7 +3882,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "substance used as thickener: a viscous liquid, especially alginic acid hoặc an alginate. Source: seaweed. Dùng để: thickener hoặc emulsifier in plastics hoặc food."
+        "t": "substance used as thickener: a viscous liquid, especially alginic acid or an alginate. Source: seaweed. Dùng để: thickener hoặc emulsifier in plastics hoặc food."
       }
     ],
     "k": "algin"
@@ -4040,11 +4043,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. group of N American languages: a group of Native North American languages that are, hoặc were, spoken in central và eastern Canada và parts of the central và eastern United States."
+        "t": "1. group of N American languages: a group of Native North American languages that are, or were, spoken in central và eastern Canada và parts of the central and eastern United States."
       },
       {
         "k": "m",
-        "t": "Algonquian includes the languages of the Arapaho, Blackfoot, Cheyenne, Delaware, Fox, Ojibwa, Sauk, và Shawnee peoples."
+        "t": "Algonquian includes the languages of the Arapaho, Blackfoot, Cheyenne, Delaware, Fox, Ojibwa, Sauk, and Shawnee peoples."
       },
       {
         "k": "m",
@@ -4061,9 +4064,9 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "family of Native American languages: a family of over 40 Native American languages spoken throughout wide areas of Canada và in the central, eastern, và southern United States."
+        "t": "family of Native American languages: a family of over 40 Native American languages spoken throughout wide areas of Canada and in the central, eastern, and southern United States."
       },
-      {"k": "m", "t": "Its three main branches are Algonquian, Salishan, và Wakashan."},
+      {"k": "m", "t": "Its three main branches are Algonquian, Salishan, and Wakashan."},
       {"k": "m", "t": "-Algonquian-Wakashan (tính từ)"}
     ],
     "k": "algonquian-wakashan"
@@ -4268,7 +4271,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "a citadel và palace in Granada, Spain, built for Moorish kings in the 12th và 13th centuries"
+        "t": "a citadel and palace in Granada, Spain, built for Moorish kings in the 12th và 13th centuries"
       }
     ],
     "k": "alhambra (1)"
@@ -4368,7 +4371,7 @@
   {
     "h": "Alicante",
     "segs": [
-      {"k": "m", "t": "city và port in southeastern Spain."},
+      {"k": "m", "t": "city and port in southeastern Spain."},
       {"k": "m", "t": "Dân số khoảng: 319,380 (thống kê năm 2005)"}
     ],
     "k": "alicante"
@@ -4388,7 +4391,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. hairband of velvet or fabric: a band of velvet hoặc ribbon worn across the top of the head to hold the hair back off the face"
+        "t": "U.K. hairband of velvet or fabric: a band of velvet or ribbon worn across the top of the head to hold the hair back off the face"
       }
     ],
     "k": "alice band"
@@ -4408,7 +4411,7 @@
     "h": "Alice-in-Wonderland",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "unreal: absurd, fantastic, hoặc completely at odds with reality"}
+      {"k": "m", "t": "unreal: absurd, fantastic, or completely at odds with reality"}
     ],
     "k": "alice-in-wonderland"
   },
@@ -4491,7 +4494,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "fugitive illegal visitor: an illegal foreign visitor to the United States who has final orders to leave the country but has not done so, has refused to do so, hoặc has disappeared"
+        "t": "fugitive illegal visitor: an illegal foreign visitor to the United States who has final orders to leave the country but has not done so, has refused to do so, or has disappeared"
       }
     ],
     "k": "alien absconder"
@@ -5430,7 +5433,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody unwilling to read: somebody who, though usually able to read, is completely uninterested in reading hoặc literature"
+        "t": "somebody unwilling to read: somebody who, though usually able to read, is completely uninterested in reading or literature"
       },
       {"k": "m", "t": "-aliteracy, noun"},
       {"k": "m", "t": "-aliterate (tính từ)"}
@@ -6091,7 +6094,7 @@
       },
       {
         "k": "m",
-        "t": "2. genetic disease: a rare genetic disease characterized by arthritis và the destruction of connective tissue và bone"
+        "t": "2. genetic disease: a rare genetic disease characterized by arthritis and the destruction of connective tissue and bone"
       }
     ],
     "k": "alkaptonuria"
@@ -6116,7 +6119,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "an offensive term for somebody who is an alcoholic hoặc who drinks to excess (lóng)"
+        "t": "an offensive term for somebody who is an alcoholic or who drinks to excess (lóng)"
       }
     ],
     "k": "alky"
@@ -7436,7 +7439,7 @@
       {"k": "m", "t": "trạng từ"},
       {
         "k": "m",
-        "t": "played octave higher or lower: to be played an octave higher hoặc lower than written (used as a musical direction)"
+        "t": "played octave higher or lower: to be played an octave higher or lower than written (used as a musical direction)"
       },
       {"k": "m", "t": "-all'ottava (tính từ)"}
     ],
@@ -7499,7 +7502,7 @@
     "h": "all-age",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "for all ages: intended hoặc suitable for all age groups"}
+      {"k": "m", "t": "for all ages: intended or suitable for all age groups"}
     ],
     "k": "all-age"
   },
@@ -7578,7 +7581,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Canada preelection political meeting: a public meeting during which all candidates for an elected office explain their policies và answer questions from the audience"
+        "t": "Canada preelection political meeting: a public meeting during which all candidates for an elected office explain their policies and answer questions from the audience"
       }
     ],
     "k": "all-candidates meeting"
@@ -7626,7 +7629,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "totally engrossing: absorbing somebody's attention, time, hoặc energy to the exclusion of everything else"
+        "t": "totally engrossing: absorbing somebody's attention, time, or energy to the exclusion of everything else"
       }
     ],
     "k": "all-consuming"
@@ -7642,7 +7645,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "involving all-around tennis skills: involving hoặc having the ability to play effective shots from all parts of a tennis court, especially both from the baseline và close to the net"
+        "t": "involving all-around tennis skills: involving or having the ability to play effective shots from all parts of a tennis court, especially both from the baseline and close to the net"
       }
     ],
     "k": "all-court"
@@ -7795,7 +7798,7 @@
   },
   {
     "h": "all-important",
-    "segs": [{"k": "m", "t": "Tính từ"}, {"k": "m", "t": "vital: vitally important hoặc necessary"}],
+    "segs": [{"k": "m", "t": "Tính từ"}, {"k": "m", "t": "vital: vitally important or necessary"}],
     "k": "all-important"
   },
   {
@@ -7847,7 +7850,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "including everything: including hoặc encompassing everything that is expected hoặc appropriate"
+        "t": "including everything: including or encompassing everything that is expected or appropriate"
       },
       {"k": "m", "t": "-all-inclusiveness (danh từ)"}
     ],
@@ -8074,7 +8077,7 @@
     "h": "all-pervading",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "pervading everything: spread hoặc present throughout everything"},
+      {"k": "m", "t": "pervading everything: spread or present throughout everything"},
       {"k": "m", "t": "a sense of all-pervading gloom"}
     ],
     "k": "all-pervading"
@@ -8086,7 +8089,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. urgent police broadcast: a message broadcast to all police in an area, usually containing urgent information hoặc a warning"
+        "t": "U.S. urgent police broadcast: a message broadcast to all police in an area, usually containing urgent information or a warning"
       }
     ],
     "k": "all-points bulletin"
@@ -8265,7 +8268,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "U.K. providing seats for all spectators: providing seats for all spectators và having no standing room"
+        "t": "U.K. providing seats for all spectators: providing seats for all spectators and having no standing room"
       },
       {"k": "m", "t": "an all-seater stadium"}
     ],
@@ -8275,7 +8278,7 @@
     "h": "all-seeing",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "seeing everything: seeing hoặc appearing to see everything"}
+      {"k": "m", "t": "seeing everything: seeing or appearing to see everything"}
     ],
     "k": "all-seeing"
   },
@@ -8331,7 +8334,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "with sitting room and kitchenette: describes a hotel room that has a sitting room và kitchenette as well as the standard features of hotel accommodations"
+        "t": "with sitting room and kitchenette: describes a hotel room that has a sitting room and kitchenette as well as the standard features of hotel accommodations"
       }
     ],
     "k": "all-suite"
@@ -8348,7 +8351,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "off-road bike: a bicycle hoặc motorcycle designed for use in open country as well as on roads"
+        "t": "off-road bike: a bicycle or motorcycle designed for use in open country as well as on roads"
       }
     ],
     "k": "all-terrain bike"
@@ -8372,7 +8375,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "off-road vehicle: a motor vehicle designed for use on rough, sandy, hoặc marshy ground, as well as on roads. It usually has only one seat."
+        "t": "off-road vehicle: a motor vehicle designed for use on rough, sandy, or marshy ground, as well as on roads. It usually has only one seat."
       }
     ],
     "k": "all-terrain vehicle"
@@ -8593,7 +8596,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in northern India in Uttar Pradesh State. Located at the confluence of the Yamuna và Ganges rivers, it is an important pilgrimage destination for Hindus."
+        "t": "city in northern India in Uttar Pradesh State. Located at the confluence of the Yamuna and Ganges rivers, it is an important pilgrimage destination for Hindus."
       },
       {"k": "m", "t": "Dân số khoảng: 858,213 (1991) Former name Prayag"}
     ],
@@ -8860,7 +8863,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in Pennsylvania và New York, flowing north from its headwaters in Pennsylvania into New York before turning south again to join the Monongahela River at Pittsburgh to create the Ohio River."
+        "t": "river in Pennsylvania and New York, flowing north from its headwaters in Pennsylvania into New York before turning south again to join the Monongahela River at Pittsburgh to create the Ohio River."
       },
       {"k": "m", "t": "Length: 523 km/325 mi"}
     ],
@@ -8871,7 +8874,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hoặc Alleghenies western mountain range of the Appalachian Mountains, in Pennsylvania, Maryland, West Virginia, và Virginia. The range is the divide between those rivers emptying into the Gulf of Mexico và those flowing into the Atlantic Ocean. The highest peak is Spruce Knob 1,482 m/4,861ft."
+        "t": "hoặc Alleghenies western mountain range of the Appalachian Mountains, in Pennsylvania, Maryland, West Virginia, and Virginia. The range is the divide between those rivers emptying into the Gulf of Mexico and those flowing into the Atlantic Ocean. The highest peak is Spruce Knob 1,482 m/4,861ft."
       }
     ],
     "k": "allegheny mountains"
@@ -8881,7 +8884,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "high plateau region of the eastern United States, stretching from Mohawk Valley, in New York State, southward through Pennsylvania, Maryland, West Virginia, và Virginia to the Cumberland Plateau"
+        "t": "high plateau region of the eastern United States, stretching from Mohawk Valley, in New York State, southward through Pennsylvania, Maryland, West Virginia, and Virginia to the Cumberland Plateau"
       }
     ],
     "k": "allegheny plateau"
@@ -9580,7 +9583,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. homeless cat: a stray cat, usually in bad condition hoặc half wild, that lives on the streets"
+        "t": "1. homeless cat: a stray cat, usually in bad condition or half wild, that lives on the streets"
       },
       {
         "k": "m",
@@ -9596,12 +9599,12 @@
       {"k": "m", "t": "interjection"},
       {
         "k": "m",
-        "t": "encouragement on getting up: used as a word of encouragement to somebody who is getting up, being helped up, hoặc lifting something (dated)"
+        "t": "encouragement on getting up: used as a word of encouragement to somebody who is getting up, being helped up, or lifting something (dated)"
       },
       {"k": "m", "t": "noun (số nhiều alley-oops)"},
       {
         "k": "m",
-        "t": "1. type of move in basketball: in basketball, a play in which a player jumps up to receive a pass over the basket và immediately puts the ball into the net from above"
+        "t": "1. type of move in basketball: in basketball, a play in which a player jumps up to receive a pass over the basket and immediately puts the ball into the net from above"
       },
       {
         "k": "m",
@@ -9609,7 +9612,7 @@
       },
       {
         "k": "m",
-        "t": "3. snowboarding and surfing maneuver: in snowboarding và surfing, a rotation of 180Ự hoặc more made in the air while moving in an uphill hoặc upward direction (lóng)"
+        "t": "3. snowboarding and surfing maneuver: in snowboarding and surfing, a rotation of 180Ự hoặc more made in the air while moving in an uphill hoặc upward direction (lóng)"
       },
       {
         "k": "m",
@@ -9745,7 +9748,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cooperation for profit and efficiency: the practice of forming a very strong association between a client và a contractor in order to maximize profit và efficiency"
+        "t": "cooperation for profit and efficiency: the practice of forming a very strong association between a client and a contractor in order to maximize profit and efficiency"
       }
     ],
     "k": "alliancing"
@@ -9978,7 +9981,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "homeopathic remedy: a homeopathic remedy prepared from the red onion và used to treat colds, coughs, hay fever, và inflamed eyes"
+        "t": "homeopathic remedy: a homeopathic remedy prepared from the red onion and used to treat colds, coughs, hay fever, and inflamed eyes"
       }
     ],
     "k": "allium cepa"
@@ -10135,7 +10138,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ledger for expenditures: a ledger that is subsidiary to the general ledger và contains details of expenditures in all accounts"
+        "t": "ledger for expenditures: a ledger that is subsidiary to the general ledger and contains details of expenditures in all accounts"
       }
     ],
     "k": "allocation ledger"
@@ -10760,11 +10763,11 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "1. medicine involving implanted inorganic material: consisting of inorganic material implanted in living tissue, hoặc involving the implantation of inorganic material into living tissue"
+        "t": "1. medicine involving implanted inorganic material: consisting of inorganic material implanted in living tissue, or involving the implantation of inorganic material into living tissue"
       },
       {
         "k": "m",
-        "t": "2. psychology involving alteration of environment: intended to bring about a change in a patient's mental condition through changing his hoặc her external circumstances"
+        "t": "2. psychology involving alteration of environment: intended to bring about a change in a patient's mental condition through changing his or her external circumstances"
       }
     ],
     "k": "alloplastic"
@@ -10989,16 +10992,16 @@
     "segs": [
       {
         "k": "m",
-        "t": "transitive verb (past và past participle allotransplanted, present participle allotransplanting, 3rd person present singular allotransplants)"
+        "t": "transitive verb (past and past participle allotransplanted, present participle allotransplanting, 3rd person present singular allotransplants)"
       },
       {
         "k": "m",
-        "t": "transplant between genetically different individuals: to transplant an organ hoặc body tissue from one member of a species to a genetically different member of the same species"
+        "t": "transplant between genetically different individuals: to transplant an organ or body tissue from one member of a species to a genetically different member of the same species"
       },
       {"k": "m", "t": "noun (số nhiều allotransplants)"},
       {
         "k": "m",
-        "t": "something transplanted: an organ hoặc piece of body tissue transplanted from one member of a species to a genetically different member of the same species"
+        "t": "something transplanted: an organ or piece of body tissue transplanted from one member of a species to a genetically different member of the same species"
       }
     ],
     "k": "allotransplant"
@@ -12318,7 +12321,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và former capital of Kazakhstan, in the southeastern part of the country, east of Bishkek in Kyrgyzstan."
+        "t": "city and former capital of Kazakhstan, in the southeastern part of the country, east of Bishkek in Kyrgyzstan."
       },
       {"k": "m", "t": "Dân số khoảng: 1,135,400 (thống kê năm 2000) Former name Alma-AtaVerny"}
     ],
@@ -12369,7 +12372,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều almirahs)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "South Asia wardrobe or chest of drawers: a wardrobe, cabinet, hoặc cupboard"}
+      {"k": "m", "t": "South Asia wardrobe or chest of drawers: a wardrobe, cabinet, or cupboard"}
     ],
     "k": "almirah"
   },
@@ -12704,7 +12707,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "giving to the poor: in former times, the charitable giving of money, food, hoặc goods to people in need"
+        "t": "giving to the poor: in former times, the charitable giving of money, food, or goods to people in need"
       }
     ],
     "k": "almsgiving"
@@ -12869,7 +12872,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "not logical: unable to be dealt with by, hoặc having nothing to do with, logic"
+        "t": "not logical: unable to be dealt with by, or having nothing to do with, logic"
       },
       {"k": "m", "t": "-alogically, adverb"},
       {"k": "m", "t": "-alogicalness (danh từ)"}
@@ -12894,11 +12897,11 @@
       {"k": "m", "t": "nounHawaii"},
       {
         "k": "m",
-        "t": "1. welcome party: a party held to welcome somebody to a place hoặc into a community"
+        "t": "1. welcome party: a party held to welcome somebody to a place or into a community"
       },
       {
         "k": "m",
-        "t": "2. welcoming or farewell party: a party held to welcome somebody who is arriving hoặc to say farewell to somebody who is leaving"
+        "t": "2. welcoming or farewell party: a party held to welcome somebody who is arriving or to say farewell to somebody who is leaving"
       }
     ],
     "k": "aloha party"
@@ -13398,7 +13401,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều alpargats)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Caribbean sandal: a sandal hoặc espadrille"}
+      {"k": "m", "t": "Caribbean sandal: a sandal or espadrille"}
     ],
     "k": "alpargat"
   },
@@ -13515,11 +13518,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. nearest bright star to Earth: the brightest star in the constellation Centaurus và the nearest bright star to Earth. It is a double star và is approximately 4.3 light-years away."
+        "t": "1. nearest bright star to Earth: the brightest star in the constellation Centaurus and the nearest bright star to Earth. It is a double star and is approximately 4.3 light-years away."
       },
       {
         "k": "m",
-        "t": "2. multiple star: a multiple star that is the brightest star in the constellation Centaurus. It consists of two bright stars và a red dwarf in orbit around each other."
+        "t": "2. multiple star: a multiple star that is the brightest star in the constellation Centaurus. It consists of two bright stars and a red dwarf in orbit around each other."
       }
     ],
     "k": "alpha centauri"
@@ -13645,7 +13648,7 @@
       },
       {
         "k": "m",
-        "t": "2. dominant man: a man who controls the activities of a group và to whom others defer (thông tục)"
+        "t": "2. dominant man: a man who controls the activities of a group and to whom others defer (thông tục)"
       }
     ],
     "k": "alpha male"
@@ -13856,11 +13859,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. fetal protein: a protein in the liver of a human fetus, the presence of which in very high hoặc low quantities in the amniotic fluid may indicate spina bifida hoặc Down syndrome"
+        "t": "1. fetal protein: a protein in the liver of a human fetus, the presence of which in very high or low quantities in the amniotic fluid may indicate spina bifida or Down syndrome"
       },
       {
         "k": "m",
-        "t": "2. blood protein: a blood protein produced in the liver, yolk sac, và gastrointestinal tract of a fetus và used as an indicator of cancer và other diseases in adults"
+        "t": "2. blood protein: a blood protein produced in the liver, yolk sac, and gastrointestinal tract of a fetus and used as an indicator of cancer and other diseases in adults"
       }
     ],
     "k": "alpha-fetoprotein"
@@ -13919,7 +13922,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "molecule on cell surface: a protein molecule in the cell membrane that specifically binds epinephrine hoặc norepinephrine, triggering a response in the cell"
+        "t": "molecule on cell surface: a protein molecule in the cell membrane that specifically binds epinephrine or norepinephrine, triggering a response in the cell"
       }
     ],
     "k": "alpha-receptor"
@@ -14426,7 +14429,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mosquito-borne virus: a virus transmitted by mosquitoes that can cause fever, muscle và joint pain, a rash, và occasionally encephalitis"
+        "t": "mosquito-borne virus: a virus transmitted by mosquitoes that can cause fever, muscle and joint pain, a rash, and occasionally encephalitis"
       }
     ],
     "k": "alphavirus"
@@ -14770,7 +14773,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "rock music: rock music played by lesser known performers và considered an alternative to the music promoted by large record companies"
+        "t": "rock music: rock music played by lesser known performers and considered an alternative to the music promoted by large record companies"
       }
     ],
     "k": "alt rock"
@@ -14805,7 +14808,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "mountains in Central Asia, on the Kazakhstan-Mongolia border, south of Russia và north of China. The highest peak is Mount Belukha 4,620 m/15,157 ft."
+        "t": "mountains in Central Asia, on the Kazakhstan-Mongolia border, south of Russia and north of China. The highest peak is Mount Belukha 4,620 m/15,157 ft."
       }
     ],
     "k": "altai mountains"
@@ -14854,7 +14857,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "appeal for profession of faith: an appeal by an evangelist for worshipers to come forward và make a profession of faith"
+        "t": "appeal for profession of faith: an appeal by an evangelist for worshipers to come forward and make a profession of faith"
       }
     ],
     "k": "altar call"
@@ -14948,7 +14951,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. clot-dissolving drug: an enzymatic drug that breaks down blood clots. Dùng để: treatment of heart attacks và pulmonary embolisms."
+        "t": "1. clot-dissolving drug: an enzymatic drug that breaks down blood clots. Dùng để: treatment of heart attacks and pulmonary embolisms."
       },
       {
         "k": "m",
@@ -16224,7 +16227,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "student assessment without standardized tests: any form of measuring a student's knowledge hoặc ability other than the use of standardized tests"
+        "t": "student assessment without standardized tests: any form of measuring a student's knowledge or ability other than the use of standardized tests"
       }
     ],
     "k": "alternative assessment"
@@ -16255,7 +16258,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "comedy outside mainstream: any form of comedy characterized by subject matter và a style of presentation deliberately made different from mainstream comedy"
+        "t": "comedy outside mainstream: any form of comedy characterized by subject matter and a style of presentation deliberately made different from mainstream comedy"
       },
       {"k": "m", "t": "-alternative comedian (danh từ)"}
     ],
@@ -16293,7 +16296,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "course outside National Curriculum: in England và Wales, any available course of study that is not included in the National Curriculum"
+        "t": "course outside National Curriculum: in England and Wales, any available course of study that is not included in the National Curriculum"
       }
     ],
     "k": "alternative curriculum"
@@ -16337,7 +16340,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "out-of-court resolution of disputes: the use of arbitration, negotiation, và out-of-court settlements as opposed to litigation in the resolution of legal disputes, especially those under civil law"
+        "t": "out-of-court resolution of disputes: the use of arbitration, negotiation, and out-of-court settlements as opposed to litigation in the resolution of legal disputes, especially those under civil law"
       }
     ],
     "k": "alternative dispute resolution"
@@ -16356,7 +16359,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "naturally generated energy source: any form of energy obtained from the Sun, wind, waves, hoặc another natural renewable source, in contrast to energy generated from fossil fuels"
+        "t": "naturally generated energy source: any form of energy obtained from the Sun, wind, waves, or another natural renewable source, in contrast to energy generated from fossil fuels"
       }
     ],
     "k": "alternative energy"
@@ -16432,7 +16435,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "London stock market for smaller companies: a stock market, part of the London Stock Exchange, for raising finance for small hoặc new companies"
+        "t": "London stock market for smaller companies: a stock market, part of the London Stock Exchange, for raising finance for small or new companies"
       }
     ],
     "k": "alternative investment market"
@@ -16449,7 +16452,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "unconventional way of life: a way of living adopted by people who reject the prevailing lifestyle, often because they consider it to be too materialistic hoặc too dependent on technology"
+        "t": "unconventional way of life: a way of living adopted by people who reject the prevailing lifestyle, often because they consider it to be too materialistic or too dependent on technology"
       }
     ],
     "k": "alternative lifestyle"
@@ -16465,7 +16468,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "nontraditional remedies: the treatment of illness using remedies such as homeopathy hoặc naturopathy that are not considered part of mainstream medicine"
+        "t": "nontraditional remedies: the treatment of illness using remedies such as homeopathy or naturopathy that are not considered part of mainstream medicine"
       }
     ],
     "k": "alternative medicine"
@@ -16487,7 +16490,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance loan functionally equivalent to a mortgage: a variation of a traditional repayment mortgage, such as adjustable-rate và variable-rate mortgages, graduated-payment mortgages, và reverse-annuity mortgages"
+        "t": "finance loan functionally equivalent to a mortgage: a variation of a traditional repayment mortgage, such as adjustable-rate and variable-rate mortgages, graduated-payment mortgages, and reverse-annuity mortgages"
       }
     ],
     "k": "alternative mortgage instrument"
@@ -16577,7 +16580,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "nontraditional school: an educational establishment with a curriculum và methods that are nontraditional"
+        "t": "nontraditional school: an educational establishment with a curriculum and methods that are nontraditional"
       }
     ],
     "k": "alternative school"
@@ -16671,7 +16674,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "travel without motor vehicle: a means of travel other than the private motor vehicle, ví dụ: walking, cycling, in-line skating, car-pooling, hoặc mass transit"
+        "t": "travel without motor vehicle: a means of travel other than the private motor vehicle, ví dụ: walking, cycling, in-line skating, car-pooling, or mass transit"
       }
     ],
     "k": "alternative transportation"
@@ -16821,7 +16824,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "wind instrument: an alto brass wind instrument of either the saxhorn hoặc the flụgelhorn family, used mainly in brass hoặc military bands"
+        "t": "wind instrument: an alto brass wind instrument of either the saxhorn hoặc the flụgelhorn family, used mainly in brass or military bands"
       }
     ],
     "k": "althorn"
@@ -16927,7 +16930,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Southwestern U.S. area of high land: especially in Mexico hoặc the Andes of South America, a high plateau"
+        "t": "Southwestern U.S. area of high land: especially in Mexico or the Andes of South America, a high plateau"
       }
     ],
     "k": "altiplano"
@@ -17328,7 +17331,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "DNA sequences with undiscovered function: a family of DNA sequences with no apparent genetic purpose that are scattered throughout the chromosomes và constitute about 5 percent of human DNA."
+        "t": "DNA sequences with undiscovered function: a family of DNA sequences with no apparent genetic purpose that are scattered throughout the chromosomes and constitute about 5 percent of human DNA."
       },
       {"k": "m", "t": "Variations in the sequences allow DNA fingerprinting of individuals."}
     ],
@@ -18369,7 +18372,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "1. continuously online: describes a home hoặc business with several computers và mobile phones, in which Internet access is not restricted to specific times"
+        "t": "1. continuously online: describes a home or business with several computers and mobile phones, in which Internet access is not restricted to specific times"
       },
       {
         "k": "m",
@@ -18384,7 +18387,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "forage plant: a low-growing spreading tropical plant grown as a pasture và hay crop in the southern United States."
+        "t": "forage plant: a low-growing spreading tropical plant grown as a pasture and hay crop in the southern United States."
       },
       {"k": "m", "t": "Tên Latinh: Alysicarpus vaginalis"}
     ],

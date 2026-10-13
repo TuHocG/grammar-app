@@ -16,7 +16,7 @@
   },
   {
     "h": "OIC",
-    "segs": [{"k": "m", "t": "Viết tắt của oh, I see (used in e-mails hoặc text messages)"}],
+    "segs": [{"k": "m", "t": "Viết tắt của oh, I see (used in e-mails or text messages)"}],
     "k": "oic"
   },
   {"h": "OID", "segs": [{"k": "m", "t": "Viết tắt của original issue discount"}], "k": "oid"},
@@ -65,7 +65,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. lout: somebody, usually a man, who is considered to be ill-mannered, ignorant, và socially inferior (informal insult)"
+        "t": "U.K. lout: somebody, usually a man, who is considered to be ill-mannered, ignorant, and socially inferior (informal insult)"
       }
     ],
     "k": "oik"
@@ -906,7 +906,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "large storage cylinder: a large metal cylinder designed for transporting và storing oil."
+        "t": "large storage cylinder: a large metal cylinder designed for transporting and storing oil."
       },
       {
         "k": "m",
@@ -3927,7 +3927,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in western Europe, flowing from southern Belgium through France và into the Seine."
+        "t": "river in western Europe, flowing from southern Belgium through France and into the Seine."
       },
       {"k": "m", "t": "Length: 303 km/188 mi"}
     ],
@@ -3939,7 +3939,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và seaport in Japan. It is the capital of Oita prefecture, on northeastern Kyushu Island."
+        "t": "city and seaport in Japan. It is the capital of Oita prefecture, on northeastern Kyushu Island."
       },
       {"k": "m", "t": "Dân số khoảng: 460,849 (2005)"}
     ],

@@ -37,7 +37,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in west central Mexico, capital of Jalisco State, và the country's second largest city. Founded in 1530, it is a resort và commercial center."
+        "t": "city in west central Mexico, capital of Jalisco State, and the country's second largest city. Founded in 1530, it is a resort and commercial center."
       },
       {"k": "m", "t": "Dân số khoảng: 1,646,319 (2000)"}
     ],
@@ -48,7 +48,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "mountainous island in the southwestern Pacific Ocean. It is the largest island of the Solomon Islands. In World War II, heavy fighting took place there between the United States và Japanese forces."
+        "t": "mountainous island in the southwestern Pacific Ocean. It is the largest island of the Solomon Islands. In World War II, heavy fighting took place there between the United States and Japanese forces."
       },
       {"k": "m", "t": "Diện tích: 6,475 sq km/2,500 sq mi"}
     ],
@@ -70,7 +70,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "1. river in southeastern Texas that rises north of Austin và empties into the Gulf of Mexico south of Houston."
+        "t": "1. river in southeastern Texas that rises north of Austin and empties into the Gulf of Mexico south of Houston."
       },
       {"k": "m", "t": "Length: 402 km/250 mi."},
       {"k": "m", "t": "2. island off the Baja California coast of Mexico in the Pacific Ocean."},
@@ -113,7 +113,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river that rises south of Madrid, Spain, và flows westward to Portugal. It forms part of the southern border between the two countries before emptying into the Gulf of Cádiz."
+        "t": "river that rises south of Madrid, Spain, and flows westward to Portugal. It forms part of the southern border between the two countries before emptying into the Gulf of Cádiz."
       },
       {"k": "m", "t": "Length: 818 km/508 mi"}
     ],
@@ -125,7 +125,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều guaguas)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "bus: in Cuba và the Canary Islands, a bus"}
+      {"k": "m", "t": "bus: in Cuba and the Canary Islands, a bus"}
     ],
     "k": "guagua"
   },
@@ -180,7 +180,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Native S American language: a Native South American language of Venezuela và Colombia, belonging to the Arawakan group of languages. 300,000."
+        "t": "Native S American language: a Native South American language of Venezuela and Colombia, belonging to the Arawakan group of languages. 300,000."
       },
       {"k": "m", "t": "-Guajiro (tính từ)"}
     ],
@@ -271,7 +271,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "capital of Guangdong Province và chief port in southeastern China. It lies about 129 km/80 mi northwest of Hong Kong. A major international trade fair is held there twice yearly."
+        "t": "capital of Guangdong Province and chief port in southeastern China. It lies about 129 km/80 mi northwest of Hong Kong. A major international trade fair is held there twice yearly."
       },
       {"k": "m", "t": "Dân số khoảng: 3,893,000 (thống kê năm 2000)"}
     ],
@@ -334,7 +334,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "component of DNA and RNA: a constituent of the nucleic acids DNA và RNA that plays a part in various metabolic reactions và is composed of guanosine linked to a phosphate group"
+        "t": "component of DNA and RNA: a constituent of the nucleic acids DNA and RNA that plays a part in various metabolic reactions and is composed of guanosine linked to a phosphate group"
       }
     ],
     "k": "guanosine monophosphate"
@@ -355,7 +355,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sheltered inlet of the Caribbean Sea, southeastern Cuba. It is the site of a major U.S. naval base và a prison camp for suspected terrorists captured by the United States."
+        "t": "sheltered inlet of the Caribbean Sea, southeastern Cuba. It is the site of a major U.S. naval base and a prison camp for suspected terrorists captured by the United States."
       },
       {"k": "m", "t": "Diện tích: 36 sq km/14 sq mi"}
     ],
@@ -374,7 +374,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in central South America that rises in western Brazil và flows northwest along the Brazil-Bolivia border before joining the Mamoré River."
+        "t": "river in central South America that rises in western Brazil and flows northwest along the Brazil-Bolivia border before joining the Mamoré River."
       },
       {"k": "m", "t": "Length: 1,749 km/1,087 mi"}
     ],
@@ -387,7 +387,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. Indian fodder plant: a plant of dry regions widely grown as fodder và for its seeds, which are used to make gum. Thường thấy ở: South Asia."
+        "t": "1. Indian fodder plant: a plant of dry regions widely grown as fodder and for its seeds, which are used to make gum. Thường thấy ở: South Asia."
       },
       {"k": "m", "t": "Tên Latinh: Cyamopsis tetragonolobus"},
       {"k": "m", "t": "2. industry như guar gum"}
@@ -436,7 +436,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Native S American people: a member of a Native South American people who live in parts of Paraguay, Uruguay, Bolivia, và Brazil"
+        "t": "1. member of Native S American people: a member of a Native South American people who live in parts of Paraguay, Uruguay, Bolivia, and Brazil"
       },
       {
         "k": "m",
@@ -683,7 +683,10 @@
     "h": "guaranteed",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. covered by promise: covered by a formal promise of quality và durability"},
+      {
+        "k": "m",
+        "t": "1. covered by promise: covered by a formal promise of quality and durability"
+      },
       {"k": "m", "t": "a fully guaranteed product"},
       {"k": "m", "t": "2. certain: certain to happen hoặc be done hoặc provided"},
       {"k": "m", "t": "a movie guaranteed to have you in tears"}
@@ -1118,7 +1121,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "take precautions against: to be wary of something hoặc take precautions against it"
+        "t": "take precautions against: to be wary of something or take precautions against it"
       }
     ],
     "k": "guard against"
@@ -1157,7 +1160,7 @@
       },
       {
         "k": "m",
-        "t": "The guard cells và pore are called the stoma, và are situated on the underside, và sometimes the top side, of leaves và on young shoots."
+        "t": "The guard cells and pore are called the stoma, and are situated on the underside, and sometimes the top side, of leaves and on young shoots."
       }
     ],
     "k": "guard cell"
@@ -1187,7 +1190,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều guard dogs)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "dog for protection: a dog used for guarding property hoặc people"}
+      {"k": "m", "t": "dog for protection: a dog used for guarding property or people"}
     ],
     "k": "guard dog"
   },
@@ -1698,7 +1701,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "capital city of Guatemala, located in the south central part of the country. It is the largest city in Central America và the nation's economic center. It was the capital of the United Provinces of Central America between 1823 và 1834."
+        "t": "capital city of Guatemala, located in the south central part of the country. It is the largest city in Central America and the nation's economic center. It was the capital of the United Provinces of Central America between 1823 và 1834."
       },
       {"k": "m", "t": "Dân số khoảng: 942,348 (2002)"}
     ],
@@ -1718,7 +1721,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Hispanic light shirt: a light short-hoặc long-sleeved shirt, often pleated, with large pockets at the waist và usually worn outside the pants instead of a jacket"
+        "t": "Hispanic light shirt: a light short-hoặc long-sleeved shirt, often pleated, with large pockets at the waist and usually worn outside the pants instead of a jacket"
       }
     ],
     "k": "guayabera"
@@ -1728,7 +1731,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "largest city in Ecuador, situated in the west of the country. It is the capital of Guayas Province và Ecuador's main port."
+        "t": "largest city in Ecuador, situated in the west of the country. It is the capital of Guayas Province and Ecuador's main port."
       },
       {"k": "m", "t": "Dân số khoảng: 2,117,553 (2000) Full name Santiago de Guayaquil"}
     ],
@@ -1884,7 +1887,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "medieval supporter of pope: a member of a political party in medieval Italy that supported the authority of the pope và opposed the Ghibellines, who supported the Holy Roman Emperor's claim to rule Italy"
+        "t": "medieval supporter of pope: a member of a political party in medieval Italy that supported the authority of the pope and opposed the Ghibellines, who supported the Holy Roman Emperor's claim to rule Italy"
       },
       {"k": "m", "t": "-Guelphism (danh từ)"}
     ],
@@ -1921,7 +1924,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "small decorative table: a small round ornate table hoặc stand with a central pedestal"
+        "t": "small decorative table: a small round ornate table or stand with a central pedestal"
       }
     ],
     "k": "gueridon"
@@ -1988,7 +1991,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "unconventional selling: the use of unconventional, especially labor-intensive, methods to promote và sell products"
+        "t": "unconventional selling: the use of unconventional, especially labor-intensive, methods to promote and sell products"
       }
     ],
     "k": "guerrilla marketing"
@@ -2041,7 +2044,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. game in which players ask questions: a game in which players must identify an unknown word, person, hoặc object by asking a series of questions to gain information"
+        "t": "1. game in which players ask questions: a game in which players must identify an unknown word, person, or object by asking a series of questions to gain information"
       },
       {
         "k": "m",
@@ -2158,7 +2161,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "important invitee: somebody invited to attend a gathering hoặc event who is seen as highly important hoặc the most important of the invited guests"
+        "t": "important invitee: somebody invited to attend a gathering or event who is seen as highly important or the most important of the invited guests"
       }
     ],
     "k": "guest of honor"
@@ -2170,7 +2173,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "performer making special appearance on show: a well-known performer who makes a single hoặc occasional appearance in a television hoặc radio program"
+        "t": "performer making special appearance on show: a well-known performer who makes a single or occasional appearance in a television or radio program"
       }
     ],
     "k": "guest star"
@@ -2363,7 +2366,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "region of Northeastern South America, bordering the Atlantic Ocean và including Guyana, Suriname, French Guiana, và parts of Venezuela và Brazil."
+        "t": "region of Northeastern South America, bordering the Atlantic Ocean and including Guyana, Suriname, French Guiana, và parts of Venezuela và Brazil."
       },
       {"k": "m", "t": "Diện tích: 690,000 sq mi/1,787,100 sq km."}
     ],
@@ -2430,7 +2433,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "somebody who advises school students: in a high school, somebody who gives students personal, academic, và career counseling"
+        "t": "somebody who advises school students: in a high school, somebody who gives students personal, academic, and career counseling"
       }
     ],
     "k": "guidance counselor"
@@ -3117,7 +3120,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "rail to direct movement: a rail designed to lead somebody in the right direction hoặc help somebody move along, hoặc to control the sideways movement of something"
+        "t": "rail to direct movement: a rail designed to lead somebody in the right direction or help somebody move along, or to control the sideways movement of something"
       }
     ],
     "k": "guiderail"
@@ -3242,7 +3245,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "example and inspiration: somebody hoặc something that is a guide, example, hoặc inspiration"
+        "t": "example and inspiration: somebody or something that is a guide, example, or inspiration"
       }
     ],
     "k": "guiding light"
@@ -3476,7 +3479,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city in northeastern Guangxi Zhuangzu Province, southern China. It is located in a scenic limestone region made famous by Chinese classical painters và poets."
+        "t": "city in northeastern Guangxi Zhuangzu Province, southern China. It is located in a scenic limestone region made famous by Chinese classical painters and poets."
       },
       {"k": "m", "t": "Dân số khoảng: 376,362 (1991)"}
     ],
@@ -3933,7 +3936,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. Caribbean small fruit with edible pulp: a small round fruit, with a hard green casing và slightly astringent edible yellowish pulp covering a large round seed"
+        "t": "1. Caribbean small fruit with edible pulp: a small round fruit, with a hard green casing and slightly astringent edible yellowish pulp covering a large round seed"
       },
       {
         "k": "m",
@@ -3949,7 +3952,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "legendary English queen: in Arthurian legend, the wife of King Arthur và the lover of the knight Sir Lancelot"
+        "t": "legendary English queen: in Arthurian legend, the wife of King Arthur and the lover of the knight Sir Lancelot"
       }
     ],
     "k": "guinevere"
@@ -3978,7 +3981,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gourd scraped to make music: a musical instrument of Central và South America, made from a gourd with grooves cut so that a rasping sound is created when a stick is scraped across it"
+        "t": "gourd scraped to make music: a musical instrument of Central and South America, made from a gourd with grooves cut so that a rasping sound is created when a stick is scraped across it"
       }
     ],
     "k": "guiro"
@@ -4001,7 +4004,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Scotland child performer on Halloween: any of a group of children who go around their neighborhood on Halloween offering to perform something, usually a song, in return for money hoặc food"
+        "t": "Scotland child performer on Halloween: any of a group of children who go around their neighborhood on Halloween offering to perform something, usually a song, in return for money or food"
       },
       {"k": "m", "t": "-guising (danh từ)"}
     ],
@@ -4057,7 +4060,7 @@
   {
     "h": "Guiyang",
     "segs": [
-      {"k": "m", "t": "industrial city in southern China và capital of Guizhou Province."},
+      {"k": "m", "t": "industrial city in southern China and capital of Guizhou Province."},
       {"k": "m", "t": "Dân số khoảng: 2,533,000 (thống kê năm 2000)"}
     ],
     "k": "guiyang"
@@ -4107,7 +4110,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "octagonal rug design: a large octagonal motif used in the patterns on Oriental rugs và resembling a rose with straight-sided petals"
+        "t": "octagonal rug design: a large octagonal motif used in the patterns on Oriental rugs and resembling a rose with straight-sided petals"
       }
     ],
     "k": "gul"
@@ -4136,11 +4139,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. political prison in former USSR: a prison hoặc labor camp in the former Soviet Union, to which opponents of the government were sent"
+        "t": "1. political prison in former USSR: a prison or labor camp in the former Soviet Union, to which opponents of the government were sent"
       },
       {
         "k": "m",
-        "t": "2. prison camp network in former USSR: the network of political prisons và labor camps in the former Soviet Union"
+        "t": "2. prison camp network in former USSR: the network of political prisons and labor camps in the former Soviet Union"
       },
       {
         "k": "m",
@@ -4263,15 +4266,15 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. U.S. states bordering Gulf of Mexico: the states of the southern United States that border the Gulf of Mexico, namely Florida, Alabama, Mississippi, Louisiana, và Texas"
+        "t": "1. U.S. states bordering Gulf of Mexico: the states of the southern United States that border the Gulf of Mexico, namely Florida, Alabama, Mississippi, Louisiana, and Texas"
       },
       {
         "k": "m",
-        "t": "2. oil-producing countries bordering Persian Gulf: the countries that border the Persian Gulf, considered as an economic hoặc geopolitical unit, especially in their role as oil producers."
+        "t": "2. oil-producing countries bordering Persian Gulf: the countries that border the Persian Gulf, considered as an economic or geopolitical unit, especially in their role as oil producers."
       },
       {
         "k": "m",
-        "t": "The Gulf States are Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, the United Arab Emirates, và Oman."
+        "t": "The Gulf States are Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, the United Arab Emirates, and Oman."
       }
     ],
     "k": "gulf states"
@@ -4305,7 +4308,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "illness affecting Gulf War veterans: a group of medical symptoms, including fatigue, skin disorders, và muscle pains, experienced by some soldiers who fought in the Gulf War of 1991."
+        "t": "illness affecting Gulf War veterans: a group of medical symptoms, including fatigue, skin disorders, and muscle pains, experienced by some soldiers who fought in the Gulf War of 1991."
       },
       {
         "k": "m",
@@ -4334,7 +4337,7 @@
       {"k": "m", "t": "Dân số khoảng: 12,740 (thống kê năm 2004)"},
       {
         "k": "m",
-        "t": "2. city và port in Harrison County, southeastern Mississippi, situated on the Gulf of Mexico."
+        "t": "2. city and port in Harrison County, southeastern Mississippi, situated on the Gulf of Mexico."
       },
       {"k": "m", "t": "Dân số khoảng: 71,851 (thống kê năm 2004)"}
     ],
@@ -4476,12 +4479,12 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "upward-opening: describes a type of car door that is hinged at the top và opens upward"
+        "t": "upward-opening: describes a type of car door that is hinged at the top and opens upward"
       },
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "upward-slanting aircraft wing: an aircraft wing in which the section attached to the fuselage slants upward và the outer section is horizontal, hoặc an aircraft with such a wing"
+        "t": "upward-slanting aircraft wing: an aircraft wing in which the section attached to the fuselage slants upward and the outer section is horizontal, or an aircraft with such a wing"
       }
     ],
     "k": "gullwing"
@@ -4625,7 +4628,7 @@
     "h": "gulp back",
     "segs": [
       {"k": "m", "t": "transitive verb"},
-      {"k": "m", "t": "suppress tears or sobs: to attempt to stifle tears hoặc sobs"}
+      {"k": "m", "t": "suppress tears or sobs: to attempt to stifle tears or sobs"}
     ],
     "k": "gulp back"
   },
@@ -4684,7 +4687,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "waterproof boot: a waterproof boot made of rubber hoặc plastic, especially one that comes to just below the knee (dated)"
+        "t": "waterproof boot: a waterproof boot made of rubber or plastic, especially one that comes to just below the knee (dated)"
       }
     ],
     "k": "gum boot"
@@ -4695,7 +4698,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "South Africa miners' dance: a traditional dance, originally created by mineworkers, in which performers wear gum boots và stomp their feet rhythmically"
+        "t": "South Africa miners' dance: a traditional dance, originally created by mineworkers, in which performers wear gum boots and stomp their feet rhythmically"
       }
     ],
     "k": "gum boot dance"
@@ -4828,7 +4831,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "obstruct with sticky substance: to block hoặc immobilize something with a sticky substance that prevents parts from moving"
+        "t": "obstruct with sticky substance: to block or immobilize something with a sticky substance that prevents parts from moving"
       },
       {"k": "m", "t": "eyes all gummed up"},
       {
@@ -5086,7 +5089,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "tree's excessive gum production: the production of too much gum by a tree, especially a fruit tree, as a result of infection, a wound, hoặc adverse weather"
+        "t": "tree's excessive gum production: the production of too much gum by a tree, especially a fruit tree, as a result of infection, a wound, or adverse weather"
       }
     ],
     "k": "gummosis"
@@ -5131,7 +5134,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle gumped, present participle gumping, 3rd person present singular gumps)"
+        "t": "(past and past participle gumped, present participle gumping, 3rd person present singular gumps)"
       },
       {"k": "m", "t": "intransitive verb"},
       {
@@ -5141,7 +5144,7 @@
       {"k": "m", "t": "Forrest Gump, a movie (1994) by Robert Zemeckis."},
       {
         "k": "m",
-        "t": "It is the sentimental tale of a mentally challenged boy who grows up to become a sports star, war hero, và successful business executive thanks to his uncomplicated world-view, traditional moral values, và uncanny ability to be in the right place at the right time."
+        "t": "It is the sentimental tale of a mentally challenged boy who grows up to become a sports star, war hero, and successful business executive thanks to his uncomplicated world-view, traditional moral values, and uncanny ability to be in the right place at the right time."
       }
     ],
     "k": "gump"
@@ -5283,7 +5286,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "law controlling gun ownership: legal measures to license, control, hoặc restrict the ownership of firearms by members of the public"
+        "t": "law controlling gun ownership: legal measures to license, control, or restrict the ownership of firearms by members of the public"
       }
     ],
     "k": "gun control"
@@ -5370,7 +5373,7 @@
         "k": "m",
         "t": "1. intend to harm: to set out to attack hoặc criticize somebody hoặc bring about somebody's downfall"
       },
-      {"k": "m", "t": "2. intend to get: to plan hoặc intend to get something for yourself"},
+      {"k": "m", "t": "2. intend to get: to plan or intend to get something for yourself"},
       {"k": "m", "t": "She's gunning for a position in the Paris office."}
     ],
     "k": "gun for"
@@ -5420,7 +5423,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "supporters of unrestricted gun ownership: lobbyist groups who argue for the right of ordinary members of the public to buy và own guns."
+        "t": "supporters of unrestricted gun ownership: lobbyist groups who argue for the right of ordinary members of the public to buy and own guns."
       },
       {
         "k": "m",
@@ -5601,7 +5604,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gun control area around school: an area, in và around school property, where illegal possession hoặc use of a firearm carries an increased penalty."
+        "t": "gun control area around school: an area, in and around school property, where illegal possession or use of a firearm carries an increased penalty."
       },
       {
         "k": "m",
@@ -6149,7 +6152,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gun rest sewn onto jacket: a piece of leather hoặc other strong material sewn onto the shoulder of a jacket for a shooter to rest the butt of a gun against when firing"
+        "t": "gun rest sewn onto jacket: a piece of leather or other strong material sewn onto the shoulder of a jacket for a shooter to rest the butt of a gun against when firing"
       }
     ],
     "k": "gunpad"
@@ -6267,7 +6270,7 @@
       },
       {
         "k": "m",
-        "t": "2. offensive term: an offensive term for a young gay man living with và supported by an older gay man (slang insult)"
+        "t": "2. offensive term: an offensive term for a young gay man living with and supported by an older gay man (slang insult)"
       }
     ],
     "k": "gunsel"
@@ -6304,7 +6307,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "aiming device on gun: a device on a gun, often a projection on the barrel hoặc a small telescope attached to the gun, used to assist somebody in aiming it"
+        "t": "aiming device on gun: a device on a gun, often a projection on the barrel or a small telescope attached to the gun, used to assist somebody in aiming it"
       }
     ],
     "k": "gunsight"
@@ -6374,7 +6377,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "character in Germanic myth: in medieval Germanic mythology, the king of Burgundy và husband of Brunhild"
+        "t": "character in Germanic myth: in medieval Germanic mythology, the king of Burgundy and husband of Brunhild"
       }
     ],
     "k": "gunther"
@@ -6428,7 +6431,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australia bush hut: a rough hut built in the Australian bush by Aboriginal peoples hoặc later settlers"
+        "t": "Australia bush hut: a rough hut built in the Australian bush by Aboriginal peoples or later settlers"
       }
     ],
     "k": "gunyah"
@@ -6781,7 +6784,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle gussied, present participle gussying, 3rd person present singular gussies)"
+        "t": "(past and past participle gussied, present participle gussying, 3rd person present singular gussies)"
       }
     ],
     "k": "gussy"
@@ -7009,7 +7012,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "vortex resembling tornado: a meteorological phenomenon that combines features of a dust devil và a tornado, being a vortex several hundred feet high that develops on the leading edge of a thunderstorm"
+        "t": "vortex resembling tornado: a meteorological phenomenon that combines features of a dust devil and a tornado, being a vortex several hundred feet high that develops on the leading edge of a thunderstorm"
       }
     ],
     "k": "gustnado"
@@ -7093,7 +7096,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "easy course to pass: a college hoặc university course that is very easy to pass (thông tục)"
+        "t": "easy course to pass: a college or university course that is very easy to pass (thông tục)"
       }
     ],
     "k": "gut course"
@@ -7104,7 +7107,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "loss of absorptive power by intestine: a condition resulting from surgical removal of part of the small intestine hoặc from extensive bowel disease in which the gut cannot process và absorb enough food to provide adequate nutrition"
+        "t": "loss of absorptive power by intestine: a condition resulting from surgical removal of part of the small intestine or from extensive bowel disease in which the gut cannot process and absorb enough food to provide adequate nutrition"
       }
     ],
     "k": "gut failure"
@@ -7129,7 +7132,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "radical alteration to building: the restoration hoặc repair of a building that includes the removal và rebuilding of the interior (thông tục)"
+        "t": "radical alteration to building: the restoration or repair of a building that includes the removal and rebuilding of the interior (thông tục)"
       }
     ],
     "k": "gut job"
@@ -7141,7 +7144,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "instinctive reaction: an immediate và instinctive reaction, rather than a well-thought-out response"
+        "t": "instinctive reaction: an immediate and instinctive reaction, rather than a well-thought-out response"
       },
       {"k": "m", "t": "The boss's gut reaction is to be suspicious."}
     ],
@@ -7176,9 +7179,9 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. homemade bass: a homemade instrument played like a double bass, made by fixing a stick to an upturned basin và stretching a string along its length"
+        "t": "1. homemade bass: a homemade instrument played like a double bass, made by fixing a stick to an upturned basin and stretching a string along its length"
       },
-      {"k": "m", "t": "2. kind of jazz: a simple but highly emotional style of jazz hoặc blues"}
+      {"k": "m", "t": "2. kind of jazz: a simple but highly emotional style of jazz or blues"}
     ],
     "k": "gutbucket"
   },
@@ -7198,7 +7201,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "test on newborn: a test for phenylketonuria done on a newborn baby và requiring only a few drops of blood"
+        "t": "test on newborn: a test for phenylketonuria done on a newborn baby and requiring only a few drops of blood"
       }
     ],
     "k": "guthrie test"
@@ -7347,7 +7350,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bowling ball that rolls into gutter: in bowling, a ball that, when bowled, rolls into the gutter và does not knock over any pins"
+        "t": "bowling ball that rolls into gutter: in bowling, a ball that, when bowled, rolls into the gutter and does not knock over any pins"
       }
     ],
     "k": "gutter ball"
@@ -7874,7 +7877,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "underwater mountain: a flat-topped underwater mountain of a type commonly found in the Pacific Ocean và considered to be an extinct volcano"
+        "t": "underwater mountain: a flat-topped underwater mountain of a type commonly found in the Pacific Ocean and considered to be an extinct volcano"
       }
     ],
     "k": "guyot"
@@ -7890,7 +7893,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Australia New Zealand affectation: an affected hoặc unnatural way of speaking hoặc behaving that is intended to impress other people hoặc to gain somebody's favor (thông tục)"
+        "t": "Australia New Zealand affectation: an affected or unnatural way of speaking or behaving that is intended to impress other people or to gain somebody's favor (thông tục)"
       }
     ],
     "k": "guyver"

@@ -46,7 +46,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "file server with security functions: a computer file server that provides authentication, authorization, và accounting security functions"
+        "t": "file server with security functions: a computer file server that provides authentication, authorization, and accounting security functions"
       }
     ],
     "k": "aaa server"
@@ -58,7 +58,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "very creditworthy tenant: a tenant who has an excellent credit rating và is consequently much sought-after by real estate developers"
+        "t": "very creditworthy tenant: a tenant who has an excellent credit rating and is consequently much sought-after by real estate developers"
       }
     ],
     "k": "aaa tenant"
@@ -74,7 +74,7 @@
   },
   {
     "h": "AAAL",
-    "segs": [{"k": "m", "t": "Viết tắt của U.S. American Academy of Arts và Letters"}],
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. American Academy of Arts and Letters"}],
     "k": "aaal"
   },
   {
@@ -191,7 +191,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "high priest in Bible: in the Bible, the first Jewish high priest và elder brother of Moses."
+        "t": "high priest in Bible: in the Bible, the first Jewish high priest and elder brother of Moses."
       },
       {
         "k": "m",

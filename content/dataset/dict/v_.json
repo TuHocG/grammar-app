@@ -36,7 +36,7 @@
     "segs": [
       {"k": "m", "t": "hoặc V & A"},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "Victoria và Albert Museum"}
+      {"k": "m", "t": "Victoria and Albert Museum"}
     ],
     "k": "v and a"
   },
@@ -166,7 +166,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "protection against television unsuitable for children: an electronic chip in a television that enables parents to block programs with sexual hoặc violent content"
+        "t": "protection against television unsuitable for children: an electronic chip in a television that enables parents to block programs with sexual or violent content"
       }
     ],
     "k": "v-chip"

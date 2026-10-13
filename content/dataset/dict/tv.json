@@ -35,7 +35,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "movie made for TV: a movie that is made to be shown on television và is not usually released in theaters"
+        "t": "movie made for TV: a movie that is made to be shown on television and is not usually released in theaters"
       }
     ],
     "k": "tv movie"
@@ -94,7 +94,7 @@
   {
     "h": "Tver",
     "segs": [
-      {"k": "m", "t": "city in western Russia, at the confluence of the Volga và Tvertsa rivers."},
+      {"k": "m", "t": "city in western Russia, at the confluence of the Volga and Tvertsa rivers."},
       {"k": "m", "t": "Dân số khoảng: 409,400 (2002) Former name Kalinin1933-1990"}
     ],
     "k": "tver"

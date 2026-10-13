@@ -28,11 +28,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Balkan people: a member of a southeastern European people who in the 13th century founded the principalities of Walachia và Moldavia, later merged to become Romania."
+        "t": "1. member of Balkan people: a member of a southeastern European people who in the 13th century founded the principalities of Walachia and Moldavia, later merged to become Romania."
       },
       {
         "k": "m",
-        "t": "Vlachs now live mainly in the mountainous regions of the Balkans, the Former Yugoslav Republic of Macedonia, Albania, hoặc northern Greece."
+        "t": "Vlachs now live mainly in the mountainous regions of the Balkans, the Former Yugoslav Republic of Macedonia, Albania, or northern Greece."
       },
       {
         "k": "m",
@@ -45,7 +45,7 @@
   {
     "h": "Vladimir",
     "segs": [
-      {"k": "m", "t": "city và capital of Vladimir Oblast in western Russia."},
+      {"k": "m", "t": "city and capital of Vladimir Oblast in western Russia."},
       {"k": "m", "t": "Dân số khoảng: 316,300 (2002)"}
     ],
     "k": "vladimir"
@@ -55,7 +55,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và major port in southeastern Russia, on Golden Horn Bay, an inlet of the Sea of Japan. It is the eastern terminus of the Trans-Siberian Railway."
+        "t": "city and major port in southeastern Russia, on Golden Horn Bay, an inlet of the Sea of Japan. It is the eastern terminus of the Trans-Siberian Railway."
       },
       {"k": "m", "t": "Dân số khoảng: 591,800 (2002)"}
     ],
@@ -78,7 +78,7 @@
       },
       {
         "k": "m",
-        "t": "Kỹ thuật này thường được gọi là chuyển mạch tầng 3 hoặc định tuyến tầng 2, tùy theo cách nhìn và bạn đang nói chuyện với nhà cung cấp nào. Nếu IP là giao thức chính, khái niệm chuyển mạch IP được dùng. Có thể biết thêm chi tiết ở các mục \"IP over ATM\", \"IP Switching\", \"NHRP (Next Hop Resolution Protocol)\", và \"Switched Networks\"."
+        "t": "Kỹ thuật này thường được gọi là chuyển mạch tầng 3 hoặc định tuyến tầng 2, tùy theo cách nhìn và bạn đang nói chuyện với nhà cung cấp nào. Nếu IP là giao thức chính, khái niệm chuyển mạch IP được dùng. Có thể biết thêm chi tiết ở các mục \"IP over ATM\", \"IP Switching\", \"NHRP (Next Hop Resolution Protocol)\", and \"Switched Networks\"."
       },
       {"k": "m", "t": "Hình V-4 Các mạng con lôgíc VLAN phủ lên mạng vật lý"},
       {

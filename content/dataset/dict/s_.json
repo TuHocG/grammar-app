@@ -52,7 +52,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "range of wavelengths for satellite communications: a microwave band in the 2655-3353 MHz range, used in radio astronomy và satellite communications"
+        "t": "range of wavelengths for satellite communications: a microwave band in the 2655-3353 MHz range, used in radio astronomy and satellite communications"
       }
     ],
     "k": "s band"
@@ -64,7 +64,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "corporation taxed liked a partnership: a corporation in which five hoặc fewer people own at least half the stock. It enjoys the legal rights of a corporation but is taxed like a partnership."
+        "t": "corporation taxed liked a partnership: a corporation in which five or fewer people own at least half the stock. It enjoys the legal rights of a corporation but is taxed like a partnership."
       }
     ],
     "k": "s corporation"
@@ -84,7 +84,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "secondary school qualification: an advanced qualification, above và in addition to A level, taken in a subject in England và Wales for the General Certificate of Education. Full form special level"
+        "t": "secondary school qualification: an advanced qualification, above and in addition to A level, taken in a subject in England and Wales for the General Certificate of Education. Full form special level"
       }
     ],
     "k": "s level"
@@ -106,7 +106,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "finance index of broad market: an index of 500 major companies based in the U.S. và traded on U.S. exchanges, considered indicative of the state of the market in general. Full form Standard & Poor's 500"
+        "t": "finance index of broad market: an index of 500 major companies based in the U.S. and traded on U.S. exchanges, considered indicative of the state of the market in general. Full form Standard & Poor's 500"
       }
     ],
     "k": "s&p 500"
@@ -201,7 +201,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "connection between stimulus and response: in psychology, the relationship between a stimulus và a response"
+        "t": "connection between stimulus and response: in psychology, the relationship between a stimulus and a response"
       }
     ],
     "k": "s-r connection"
@@ -354,7 +354,7 @@
   },
   {
     "h": "s.l.a.n.",
-    "segs": [{"k": "m", "t": "Viết tắt của publishing without place, year, hoặc name"}],
+    "segs": [{"k": "m", "t": "Viết tắt của publishing without place, year, or name"}],
     "k": "s.l.a.n."
   },
   {
@@ -380,7 +380,7 @@
     "segs": [
       {"k": "m", "t": "hoặc SPQR"},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "the senate và people of Rome"}
+      {"k": "m", "t": "the senate and people of Rome"}
     ],
     "k": "s.p.q.r."
   },
@@ -429,7 +429,7 @@
       {"k": "m", "t": "Từ mục liên quan"},
       {
         "k": "m",
-        "t": "IPSec (IP Security); Security; Tunnels; VPN (Virtual Private Network); và WAN (Wide Area Network)"
+        "t": "IPSec (IP Security); Security; Tunnels; VPN (Virtual Private Network); and WAN (Wide Area Network)"
       },
       {"k": "m", "t": "THÔNG TIN TRÊN INTERNET"},
       {"k": "m", "t": "RSA's S/WAN page http://www.rsa.com/rsa/SWAN"},

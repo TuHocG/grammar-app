@@ -483,7 +483,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "soccer tiebreaking rule: in soccer a ruling that when aggregate scores are level after teams have played each other at home và away, the team scoring more away goals is the winner"
+        "t": "soccer tiebreaking rule: in soccer a ruling that when aggregate scores are level after teams have played each other at home and away, the team scoring more away goals is the winner"
       }
     ],
     "k": "away goals rule"
@@ -502,7 +502,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "team playing at opponent's venue: a team that is playing at an opponent's ground, field, hoặc venue"
+        "t": "team playing at opponent's venue: a team that is playing at an opponent's ground, field, or venue"
       }
     ],
     "k": "away team"
@@ -616,7 +616,7 @@
     "h": "awendaw",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Southern U.S. spoon bread: spoon bread made from hominy hoặc cornmeal"}
+      {"k": "m", "t": "Southern U.S. spoon bread: spoon bread made from hominy or cornmeal"}
     ],
     "k": "awendaw"
   },
@@ -624,7 +624,7 @@
     "h": "awendo",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Southern U.S. corn bread: corn bread made with eggs và milk"}
+      {"k": "m", "t": "Southern U.S. corn bread: corn bread made with eggs and milk"}
     ],
     "k": "awendo"
   },
@@ -718,10 +718,10 @@
     "h": "awhirl",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. in dizzy state: in a dizzy state of excitement hoặc confusion"},
+      {"k": "m", "t": "1. in dizzy state: in a dizzy state of excitement or confusion"},
       {"k": "m", "t": "Her mind was awhirl with new ideas."},
-      {"k": "m", "t": "2. around and around: moving around và around (literary)"},
-      {"k": "m", "t": "red và golden leaves awhirl in the autumn breeze"}
+      {"k": "m", "t": "2. around and around: moving around and around (literary)"},
+      {"k": "m", "t": "red and golden leaves awhirl in the autumn breeze"}
     ],
     "k": "awhirl"
   },

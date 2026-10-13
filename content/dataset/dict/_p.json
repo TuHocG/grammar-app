@@ -29,7 +29,7 @@
     "segs": [
       {"k": "m", "t": "hoặc-phan"},
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "a substance having the appearance hoặc qualities of"},
+      {"k": "m", "t": "a substance having the appearance or qualities of"},
       {"k": "m", "t": "cymophane"}
     ],
     "k": "-phane"
@@ -172,7 +172,7 @@
     "h": "-pterous",
     "segs": [
       {"k": "m", "t": "suffix"},
-      {"k": "m", "t": "having wings of a particular kind hoặc number"},
+      {"k": "m", "t": "having wings of a particular kind or number"},
       {"k": "m", "t": "orthopterous"},
       {"k": "m", "t": "dipterous"}
     ],

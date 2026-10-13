@@ -73,7 +73,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "island in Hawaii, the most populous và third largest of the Hawaiian Islands."
+        "t": "island in Hawaii, the most populous and third largest of the Hawaiian Islands."
       },
       {"k": "m", "t": "Dân số khoảng: 876,677 (2000)"},
       {"k": "m", "t": "Diện tích: 1,546 sq km/597 sq mi"}
@@ -137,7 +137,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "military decoration: a small decoration shaped like a bunch of oak leaves và acorns, added to another military decoration to show that it has been awarded to the wearer more than once"
+        "t": "military decoration: a small decoration shaped like a bunch of oak leaves and acorns, added to another military decoration to show that it has been awarded to the wearer more than once"
       }
     ],
     "k": "oak leaf cluster"
@@ -269,7 +269,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và county seat of Alameda County, western California, situated on the eastern side of San Francisco Bay."
+        "t": "city and county seat of Alameda County, western California, situated on the eastern side of San Francisco Bay."
       },
       {"k": "m", "t": "Dân số khoảng: 397,976 (thống kê năm 2004)"}
     ],
@@ -313,7 +313,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "perfume-making lichen: a lichen that grows on oak trees và produces a resin used in the making of some perfumes. Thường thấy ở: northern hemisphere."
+        "t": "perfume-making lichen: a lichen that grows on oak trees and produces a resin used in the making of some perfumes. Thường thấy ở: northern hemisphere."
       },
       {"k": "m", "t": "Tên Latinh: Evernia prunastri"}
     ],
@@ -382,7 +382,10 @@
   {
     "h": "Oamaru",
     "segs": [
-      {"k": "m", "t": "town và fishing port on the eastern coast of the South Island, New Zealand."},
+      {
+        "k": "m",
+        "t": "town and fishing port on the eastern coast of the South Island, New Zealand."
+      },
       {"k": "m", "t": "Dân số khoảng: 12,650 (thống kê năm 2005)"}
     ],
     "k": "oamaru"
@@ -588,7 +591,7 @@
   {
     "h": "OASDHI",
     "segs": [
-      {"k": "m", "t": "Viết tắt của U.S. Old Age, Survivors, Disability, và Health Insurance"}
+      {"k": "m", "t": "Viết tắt của U.S. Old Age, Survivors, Disability, and Health Insurance"}
     ],
     "k": "oasdhi"
   },
@@ -716,7 +719,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "W movie: a movie about cowboys, Native North Americans, và settlers in the Old West (informal humorous)"
+        "t": "W movie: a movie about cowboys, Native North Americans, and settlers in the Old West (informal humorous)"
       }
     ],
     "k": "oater"

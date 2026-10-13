@@ -359,7 +359,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "emission of X-rays from irradiated sample: the emission of characteristic X-rays from a sample that has been bombarded by high-energy X-rays hoặc gamma rays"
+        "t": "emission of X-rays from irradiated sample: the emission of characteristic X-rays from a sample that has been bombarded by high-energy X-rays or gamma rays"
       }
     ],
     "k": "x-ray fluorescence"
@@ -703,7 +703,7 @@
       },
       {
         "k": "m",
-        "t": "X.500 đã được chứng minh là một hệ thống khá phức tạp so với nhu cầu thực tế của phần lớn các tổ chức. Hơn nữa, X.500 cho rằng các tổ chức muốn mở cấu trúc thư mục cho cả thế giới thấy. Những tay chuyên săn tìm chất xám ở các công ty đối thủ tỏ ra khoái chí với ý tưởng này. Trong khi đó, Internet đã trở thành một sự lựa chọn liên mạng toàn cầu. Vả lại, X.500 không tương thích với các mạng dựa trên chuẩn OSI. Vì thế, X.500 không trở thành chuẩn phổ biến. Không có một nhà chức trách quốc tế nào chịu trách nhiệm đỉnh cây và một số ứng dụng đã từng được đưa ra trực tiếp sử dụng chuẩn này. Tuy nhiên, một số công ty cung cấp linh kiện hệ thống hoạt động mạng như Novell có các dịch vụ thư mục riêng của họ dựa trên X.500. Xem \"Directory Services\" và \"NDS (Novell Directory Services)\" để biết thêm thông tin."
+        "t": "X.500 đã được chứng minh là một hệ thống khá phức tạp so với nhu cầu thực tế của phần lớn các tổ chức. Hơn nữa, X.500 cho rằng các tổ chức muốn mở cấu trúc thư mục cho cả thế giới thấy. Những tay chuyên săn tìm chất xám ở các công ty đối thủ tỏ ra khoái chí với ý tưởng này. Trong khi đó, Internet đã trở thành một sự lựa chọn liên mạng toàn cầu. Vả lại, X.500 không tương thích với các mạng dựa trên chuẩn OSI. Vì thế, X.500 không trở thành chuẩn phổ biến. Không có một nhà chức trách quốc tế nào chịu trách nhiệm đỉnh cây và một số ứng dụng đã từng được đưa ra trực tiếp sử dụng chuẩn này. Tuy nhiên, một số công ty cung cấp linh kiện hệ thống hoạt động mạng như Novell có các dịch vụ thư mục riêng của họ dựa trên X.500. Xem \"Directory Services\" and \"NDS (Novell Directory Services)\" để biết thêm thông tin."
       },
       {
         "k": "m",
@@ -726,7 +726,7 @@
       },
       {
         "k": "m",
-        "t": "Năm 1996, Open Group được thành lập bằng cách sát nhập OSF (Open Software Foundation) và X/Open Company Ltd. Tham khảo Web site của Open Group ở địa chỉ http://www.opengroup.org để biết thêm thông tin."
+        "t": "Năm 1996, Open Group được thành lập bằng cách sát nhập OSF (Open Software Foundation) and X/Open Company Ltd. Tham khảo Web site của Open Group ở địa chỉ http://www.opengroup.org để biết thêm thông tin."
       }
     ],
     "k": "x/open"

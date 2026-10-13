@@ -263,7 +263,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.S. humanitarian agency: a U.S. government agency that provides humanitarian aid và assistance for development to other countries. Full form United States Agency for International Development"
+        "t": "U.S. humanitarian agency: a U.S. government agency that provides humanitarian aid and assistance for development to other countries. Full form United States Agency for International Development"
       }
     ],
     "k": "usaid"
@@ -350,7 +350,7 @@
   },
   {
     "h": "USDAW",
-    "segs": [{"k": "m", "t": "Viết tắt của U.K. Union of Shop, Distributive, và Allied Workers"}],
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Union of Shop, Distributive, and Allied Workers"}],
     "k": "usdaw"
   },
   {
@@ -602,7 +602,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "immunity from prosecution for witness: immunity from prosecution granted to a witness in return for testimony that cannot be used in any manner in any criminal prosecution against him hoặc her"
+        "t": "immunity from prosecution for witness: immunity from prosecution granted to a witness in return for testimony that cannot be used in any manner in any criminal prosecution against him or her"
       }
     ],
     "k": "use immunity"
@@ -698,7 +698,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. latest date for use of something: a date displayed on food và other perishable products, after which they should not be used hoặc consumed"
+        "t": "U.K. latest date for use of something: a date displayed on food and other perishable products, after which they should not be used or consumed"
       }
     ],
     "k": "use-by date"
@@ -1683,7 +1683,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "password: an identification name hoặc password used to allow an individual user access to a computer system"
+        "t": "password: an identification name or password used to allow an individual user access to a computer system"
       }
     ],
     "k": "userid"
@@ -1695,7 +1695,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "initial identifier used to access computer: a unique identifier composed of alphanumeric characters, used as a means of initial identification to gain access to a computer system hoặc Internet Service Provider"
+        "t": "initial identifier used to access computer: a unique identifier composed of alphanumeric characters, used as a means of initial identification to gain access to a computer system or Internet Service Provider"
       }
     ],
     "k": "username"
@@ -1840,7 +1840,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in southeastern Wales. It rises in Brecon Beacons National Park và flows to the Severn Estuary at Newport."
+        "t": "river in southeastern Wales. It rises in Brecon Beacons National Park and flows to the Severn Estuary at Newport."
       },
       {"k": "m", "t": "Length: 97 km/60 mi."}
     ],

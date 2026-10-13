@@ -15,11 +15,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. handwoven Scandinavian rug: a handwoven Scandinavian rug with a deep pile và a colorful pattern"
+        "t": "1. handwoven Scandinavian rug: a handwoven Scandinavian rug with a deep pile and a colorful pattern"
       },
       {
         "k": "m",
-        "t": "2. weaving pattern used for rya: the weaving pattern hoặc style used in making a rya"
+        "t": "2. weaving pattern used for rya: the weaving pattern or style used in making a rya"
       }
     ],
     "k": "rya"
@@ -143,7 +143,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "traditional Japanese hotel: a traditional Japanese establishment providing food và lodging for travelers"
+        "t": "traditional Japanese hotel: a traditional Japanese establishment providing food and lodging for travelers"
       }
     ],
     "k": "ryokan"
@@ -167,7 +167,7 @@
   {
     "h": "RYS",
     "segs": [
-      {"k": "m", "t": "Viết tắt của online read your screen (used in e-mails hoặc text messages)"}
+      {"k": "m", "t": "Viết tắt của online read your screen (used in e-mails or text messages)"}
     ],
     "k": "rys"
   },
@@ -183,7 +183,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Japanese style of practicing art: a style hoặc method of practicing a Japanese art, especially a martial art"
+        "t": "Japanese style of practicing art: a style or method of practicing a Japanese art, especially a martial art"
       }
     ],
     "k": "ryu"
@@ -191,7 +191,7 @@
   {
     "h": "Ryukyu Islands",
     "segs": [
-      {"k": "m", "t": "chain of islands in southwestern Japan, between Kyushu và Taiwan."},
+      {"k": "m", "t": "chain of islands in southwestern Japan, between Kyushu and Taiwan."},
       {"k": "m", "t": "Dân số khoảng: 1,222,458 (1990)"},
       {"k": "m", "t": "Diện tích: 2,260 sq km/873 sq mi"}
     ],

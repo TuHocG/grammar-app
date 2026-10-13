@@ -102,7 +102,7 @@
   },
   {
     "h": "OMB",
-    "segs": [{"k": "m", "t": "Viết tắt của U.S. Office of Management và Budget"}],
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. Office of Management and Budget"}],
     "k": "omb"
   },
   {
@@ -144,7 +144,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "using rainwater: used to describe a peat-forming plant community that derives all its water, và hence dissolved nutrients, from rainfall và other precipitation as opposed to watercourses hoặc below-ground drainage"
+        "t": "using rainwater: used to describe a peat-forming plant community that derives all its water, and hence dissolved nutrients, from rainfall and other precipitation as opposed to watercourses or below-ground drainage"
       }
     ],
     "k": "ombrogenous"
@@ -216,7 +216,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. ombudsman or ombudswoman: somebody responsible for investigating hoặc resolving complaints from consumers hoặc other members of the public against a company, institution, hoặc other organization"
+        "t": "1. ombudsman or ombudswoman: somebody responsible for investigating or resolving complaints from consumers or other members of the public against a company, institution, or other organization"
       },
       {
         "k": "m",
@@ -233,7 +233,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. nongovernmental investigator: a woman responsible for investigating và resolving complaints from consumers hoặc other members of the public against a company, institution, hoặc other organization"
+        "t": "1. nongovernmental investigator: a woman responsible for investigating and resolving complaints from consumers or other members of the public against a company, institution, or other organization"
       },
       {
         "k": "m",
@@ -344,11 +344,11 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. oil in grains: one of a group of beneficial oils found in whole grains, nuts, và seeds, deficiency of which can cause skin problems và hormonal imbalances"
+        "t": "1. oil in grains: one of a group of beneficial oils found in whole grains, nuts, and seeds, deficiency of which can cause skin problems and hormonal imbalances"
       },
       {
         "k": "m",
-        "t": "2. plant oil needed for health: a long-chain polyunsaturated oil with a double bond at the sixth carbon, deficiency of which can cause skin problems và hormonal imbalances. Source: plants, seeds."
+        "t": "2. plant oil needed for health: a long-chain polyunsaturated oil with a double bond at the sixth carbon, deficiency of which can cause skin problems and hormonal imbalances. Source: plants, seeds."
       }
     ],
     "k": "omega-6 oil"
@@ -1110,7 +1110,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "aircraft navigation network: a very-high-frequency radio navigation network that enables aircraft pilots to choose và fly any bearing relative to a transmitter on the ground"
+        "t": "aircraft navigation network: a very-high-frequency radio navigation network that enables aircraft pilots to choose and fly any bearing relative to a transmitter on the ground"
       }
     ],
     "k": "omnirange"
@@ -1469,7 +1469,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "city và capital of Omsk Oblast, southwestern Russia, situated 772 km/480 mi east of Chelyabinsk."
+        "t": "city and capital of Omsk Oblast, southwestern Russia, situated 772 km/480 mi east of Chelyabinsk."
       },
       {"k": "m", "t": "Dân số khoảng: 1,133,900 (2002)"}
     ],

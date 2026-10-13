@@ -11,7 +11,7 @@
   {
     "h": "Ajaccio",
     "segs": [
-      {"k": "m", "t": "main port và capital of Corsica."},
+      {"k": "m", "t": "main port and capital of Corsica."},
       {"k": "m", "t": "Dân số khoảng: 52,880 (1999)"}
     ],
     "k": "ajaccio"
@@ -39,7 +39,7 @@
       },
       {
         "k": "m",
-        "t": "He was stricken by madness by the goddess Athena và killed himself when he was not awarded the armor of the dead Achilles."
+        "t": "He was stricken by madness by the goddess Athena and killed himself when he was not awarded the armor of the dead Achilles."
       }
     ],
     "k": "ajax"
@@ -73,10 +73,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều ajoupas) hoặc ajupa (số nhiều ajupas)"},
       {"k": "pos", "t": "danh từ"},
-      {
-        "k": "m",
-        "t": "Caribbean primitive shelter: a simple shelter hoặc house with a thatched roof"
-      }
+      {"k": "m", "t": "Caribbean primitive shelter: a simple shelter or house with a thatched roof"}
     ],
     "k": "ajoupa"
   },

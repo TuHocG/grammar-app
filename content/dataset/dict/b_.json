@@ -108,7 +108,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "layer of soil: an intermediate layer of soil beneath the A horizon, containing some organic matter và clay"
+        "t": "layer of soil: an intermediate layer of soil beneath the A horizon, containing some organic matter and clay"
       }
     ],
     "k": "b horizon"
@@ -119,7 +119,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "list of fairly popular people: a list of people who are fairly well-known but not as sought after for social functions và other activities as the very famous (hypenated before a noun)"
+        "t": "list of fairly popular people: a list of people who are fairly well-known but not as sought after for social functions and other activities as the very famous (hypenated before a noun)"
       }
     ],
     "k": "b list"
@@ -205,7 +205,7 @@
       },
       {
         "k": "m",
-        "t": "The B vitamins are B1 thiamine, B2 riboflavin, B6 pyridoxine, B12 cobalamin, B5 pantothenic acid, folic acid, và biotin."
+        "t": "The B vitamins are B1 thiamine, B2 riboflavin, B6 pyridoxine, B12 cobalamin, B5 pantothenic acid, folic acid, and biotin."
       }
     ],
     "k": "b vitamin"
@@ -228,7 +228,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "Moroccan pot pie: a Moroccan pot pie with a flaky phyllo crust, filled with shredded pigeon hoặc chicken, và sometimes topped with a dusting of cinnamon và confectioners' sugar"
+        "t": "Moroccan pot pie: a Moroccan pot pie with a flaky phyllo crust, filled with shredded pigeon hoặc chicken, và sometimes topped with a dusting of cinnamon and confectioners' sugar"
       }
     ],
     "k": "b'steeya"
@@ -277,7 +277,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "woman employed by bar: a woman employed by a bar to entertain và encourage customers to spend money freely (slang dated)"
+        "t": "woman employed by bar: a woman employed by a bar to entertain and encourage customers to spend money freely (slang dated)"
       }
     ],
     "k": "b-girl (1)"
@@ -360,7 +360,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "involving commerce between businesses and consumers: relating to Internet transactions between a business và consumers, rather than between businesses"
+        "t": "involving commerce between businesses and consumers: relating to Internet transactions between a business and consumers, rather than between businesses"
       }
     ],
     "k": "b-to-c"
@@ -513,7 +513,7 @@
     "segs": [
       {"k": "m", "t": "hoặc BPOE"},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "Benevolent và Protective Order of Elks"}
+      {"k": "m", "t": "Benevolent and Protective Order of Elks"}
     ],
     "k": "b.p.o.e."
   },

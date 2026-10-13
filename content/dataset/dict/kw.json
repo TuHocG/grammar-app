@@ -46,7 +46,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều kwachas)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "unit of Zambian currency: the main unit of currency in Malawi và Zambia"}
+      {"k": "m", "t": "unit of Zambian currency: the main unit of currency in Malawi and Zambia"}
     ],
     "k": "kwacha"
   },
@@ -77,7 +77,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. member of Native N American people: a member of a Native North American people who live on Vancouver Island và on the adjacent coast of British Columbia"
+        "t": "1. member of Native N American people: a member of a Native North American people who live on Vancouver Island and on the adjacent coast of British Columbia"
       },
       {
         "k": "m",
@@ -123,7 +123,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "African American holiday: a cultural và harvest festival celebrated by African Americans. December 26 to January 1."
+        "t": "African American holiday: a cultural and harvest festival celebrated by African Americans. December 26 to January 1."
       }
     ],
     "k": "kwanzaa"
@@ -214,7 +214,7 @@
   },
   {
     "h": "KWIM",
-    "segs": [{"k": "m", "t": "Viết tắt của know what I mean (used in e-mails hoặc text messages)"}],
+    "segs": [{"k": "m", "t": "Viết tắt của know what I mean (used in e-mails or text messages)"}],
     "k": "kwim"
   },
   {

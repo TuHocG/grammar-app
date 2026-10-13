@@ -112,7 +112,7 @@
   },
   {
     "h": "A & E",
-    "segs": [{"k": "m", "t": "Viết tắt của U.K. health services accident và emergency"}],
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. health services accident and emergency"}],
     "k": "a & e"
   },
   {
@@ -634,7 +634,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "people most in demand: the people most sought after hoặc most in demand for an activity such as a social function hoặc for recruitment to a team hoặc organization (thông tục) (hyphenated when used before a noun)"
+        "t": "people most in demand: the people most sought after or most in demand for an activity such as a social function or for recruitment to a team hoặc organization (thông tục) (hyphenated when used before a noun)"
       }
     ],
     "k": "a list"
@@ -941,7 +941,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. share without voting rights: a share in a company that does not entitle the holder to voting rights và that may carry other restrictions"
+        "t": "U.K. share without voting rights: a share in a company that does not entitle the holder to voting rights and that may carry other restrictions"
       }
     ],
     "k": "a share"
@@ -1104,7 +1104,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "1. collection of street maps: a book containing maps và alphabetical lists of street names và map references for a town hoặc city"
+        "t": "1. collection of street maps: a book containing maps and alphabetical lists of street names and map references for a town or city"
       },
       {"k": "m", "t": "2. alphabetical guide: an alphabetically arranged reference work"},
       {"k": "m", "t": "an A to Z of cooking terms"}
@@ -1197,7 +1197,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "profit and loss management: the management of a company's assets và liabilities. U.K. term P&L management"
+        "t": "profit and loss management: the management of a company's assets and liabilities. U.K. term P&L management"
       }
     ],
     "k": "a&l management"
@@ -1274,7 +1274,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "upper layer of soil: the uppermost layer of soil containing humus, topsoil, và organic debris"
+        "t": "upper layer of soil: the uppermost layer of soil containing humus, topsoil, and organic debris"
       }
     ],
     "k": "a-horizon"
@@ -1410,7 +1410,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "U.K. unnamed person: somebody who has not as yet been named, ví dụ: in an incomplete list of participants hoặc contributors"
+        "t": "U.K. unnamed person: somebody who has not as yet been named, ví dụ: in an incomplete list of participants or contributors"
       }
     ],
     "k": "a. n. other"
@@ -1621,7 +1621,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "individual audio or video entertainment selection: an in-flight entertainment system that enables each passenger to select và play his hoặc her choice of videos và recordings from the stock held on the aircraft. Full form audio và video on demand"
+        "t": "individual audio or video entertainment selection: an in-flight entertainment system that enables each passenger to select và play his hoặc her choice of videos and recordings from the stock held on the aircraft. Full form audio and video on demand"
       }
     ],
     "k": "a/vod"

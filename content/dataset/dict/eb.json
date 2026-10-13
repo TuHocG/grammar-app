@@ -217,7 +217,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "early Christian group member: a member of an early Christian group that rejected the teachings of St. Paul và emphasized the Jewish roots of Christianity."
+        "t": "early Christian group member: a member of an early Christian group that rejected the teachings of St. Paul and emphasized the Jewish roots of Christianity."
       }
     ],
     "k": "ebionite"
@@ -238,7 +238,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "measure of corporation's income: a corporation's profit for a particular period before taking interest và tax payments into account. Full form earnings before interest và taxes"
+        "t": "measure of corporation's income: a corporation's profit for a particular period before taking interest and tax payments into account. Full form earnings before interest and taxes"
       }
     ],
     "k": "ebit"
@@ -249,7 +249,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "measure of corporation's income: a corporation's profit for a particular period before taking into account interest payments on debt, tax, và amounts for depreciation và amortization of assets. Full form earnings before interest, taxes, depreciation và amortization"
+        "t": "measure of corporation's income: a corporation's profit for a particular period before taking into account interest payments on debt, tax, và amounts for depreciation và amortization of assets. Full form earnings before interest, taxes, depreciation and amortization"
       }
     ],
     "k": "ebitda"
@@ -260,7 +260,7 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "peoples language of Ebla in Syria: relating to the ancient city of Ebla in northwestern Syria, which existed in the third millennium bc, hoặc to its people, culture, hoặc language"
+        "t": "peoples language of Ebla in Syria: relating to the ancient city of Ebla in northwestern Syria, which existed in the third millennium bc, or to its people, culture, or language"
       },
       {"k": "pos", "t": "danh từ"},
       {
@@ -283,7 +283,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "lethal virus: a virus transmitted by blood và body fluids that causes the linings of bodily organs và vessels to leak blood và fluids, usually resulting in death"
+        "t": "lethal virus: a virus transmitted by blood and body fluids that causes the linings of bodily organs and vessels to leak blood and fluids, usually resulting in death"
       }
     ],
     "k": "ebola"
@@ -385,7 +385,7 @@
   },
   {
     "h": "EBRD",
-    "segs": [{"k": "m", "t": "Viết tắt của European Bank for Reconstruction và Development"}],
+    "segs": [{"k": "m", "t": "Viết tắt của European Bank for Reconstruction and Development"}],
     "k": "ebrd"
   },
   {"h": "ebrietas", "segs": [{"k": "m", "t": "(sự) say rượu."}], "k": "ebrietas"},
@@ -416,7 +416,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "river in northeastern Spain. It rises in the Cantabrian Mountains near Reinosa và flows to its delta on the Mediterranean coast, south of Tarragona."
+        "t": "river in northeastern Spain. It rises in the Cantabrian Mountains near Reinosa and flows to its delta on the Mediterranean coast, south of Tarragona."
       },
       {"k": "m", "t": "Length: 910 km/565 mi"}
     ],

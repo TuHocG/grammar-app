@@ -3,7 +3,7 @@
     "h": "VO",
     "segs": [
       {"k": "m", "t": "Viết tắt của 1. verbal order"},
-      {"k": "m", "t": "2. very old (used on labels for bottles of brandy, whiskey, hoặc port)"},
+      {"k": "m", "t": "2. very old (used on labels for bottles of brandy, whiskey, or port)"},
       {"k": "m", "t": "3. voiceover"}
     ],
     "k": "vo"
@@ -216,7 +216,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "involuntary noise or shout: a sudden noise hoặc shout produced involuntarily, especially as a symptom of Tourette's syndrome hoặc a similar neurological condition"
+        "t": "involuntary noise or shout: a sudden noise or shout produced involuntarily, especially as a symptom of Tourette's syndrome or a similar neurological condition"
       }
     ],
     "k": "vocal tic"
@@ -636,7 +636,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "vodka cocktail: a cocktail consisting of vodka mixed with dry vermouth và ice, often served in a frosted glass"
+        "t": "vodka cocktail: a cocktail consisting of vodka mixed with dry vermouth and ice, often served in a frosted glass"
       }
     ],
     "k": "vodkatini"
@@ -651,7 +651,7 @@
     "segs": [
       {"k": "m", "t": "(số nhiều voes)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "small bay: in Orkney và Shetland, a small bay"}
+      {"k": "m", "t": "small bay: in Orkney and Shetland, a small bay"}
     ],
     "k": "voe"
   },
@@ -736,8 +736,8 @@
     "h": "voguish",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. stylish: elegantly fashionable và stylish in appearance"},
-      {"k": "m", "t": "2. briefly popular: enjoying brief hoặc sudden popularity"},
+      {"k": "m", "t": "1. stylish: elegantly fashionable and stylish in appearance"},
+      {"k": "m", "t": "2. briefly popular: enjoying brief or sudden popularity"},
       {"k": "m", "t": "-voguishly, adverb"},
       {"k": "m", "t": "-voguishness (danh từ)"}
     ],
@@ -1153,7 +1153,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "vote by voice: a vote taken in a parliament hoặc other legislative body in which voters cry out \"aye\" hoặc \"no,\" hoặc \"yea\" và \"nay,\" with the louder cry winning the vote"
+        "t": "vote by voice: a vote taken in a parliament or other legislative body in which voters cry out \"aye\" hoặc \"no,\" hoặc \"yea\" và \"nay,\" with the louder cry winning the vote"
       }
     ],
     "k": "voice vote"
@@ -1166,7 +1166,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "verbatim reporting: the process of recording proceedings by voice by speaking into a device that silences và records the spoken words for subsequent transcription by hand hoặc voice-recognition software"
+        "t": "verbatim reporting: the process of recording proceedings by voice by speaking into a device that silences and records the spoken words for subsequent transcription by hand or voice-recognition software"
       },
       {"k": "m", "t": "-voicewriter (danh từ)"}
     ],
@@ -1276,7 +1276,7 @@
       },
       {
         "k": "m",
-        "t": "Thuật ngữ CTI (computer-telephony integration) và IVD (integrated voice and data) được dùng để mô tả sự hợp nhất giữa âm thanh và dữ liệu. Sự khác biệt giữa CTI và IVD ở chỗ IVD được làm là tiếp cận tinh vi hơn, là giải pháp một dây duy nhất để tải đồng thời âm và dữ liệu, trong khi CTI đòi hỏi các sơ đồ như TSAPI (Telephony Services API) của Novell và TAPI (Telephony API) của Microsoft, trong đó máy tính được dùng để điều khiển các thiết bị điện thoại kết nối với nhau qua đường dây điện thoại cũ. Để ý rằng điện thoại nói chung liên quan đến tổ hợp các dịch vụ như nhắn thoại, hội nghị, gọi chuyển tiếp, không chỉ là đơn thuần nói chuyện qua điện thoại. Xem \"CTI (computer-telephony integration)\" và \"IVD (integrated voice and data)\" để biết thêm chi tiết."
+        "t": "Thuật ngữ CTI (computer-telephony integration) và IVD (integrated voice and data) được dùng để mô tả sự hợp nhất giữa âm thanh và dữ liệu. Sự khác biệt giữa CTI và IVD ở chỗ IVD được làm là tiếp cận tinh vi hơn, là giải pháp một dây duy nhất để tải đồng thời âm và dữ liệu, trong khi CTI đòi hỏi các sơ đồ như TSAPI (Telephony Services API) của Novell và TAPI (Telephony API) của Microsoft, trong đó máy tính được dùng để điều khiển các thiết bị điện thoại kết nối với nhau qua đường dây điện thoại cũ. Để ý rằng điện thoại nói chung liên quan đến tổ hợp các dịch vụ như nhắn thoại, hội nghị, gọi chuyển tiếp, không chỉ là đơn thuần nói chuyện qua điện thoại. Xem \"CTI (computer-telephony integration)\" and \"IVD (integrated voice and data)\" để biết thêm chi tiết."
       },
       {
         "k": "m",
@@ -1288,7 +1288,7 @@
       },
       {
         "k": "m",
-        "t": "Tuy vậy, phương pháp ưu tiên không bảo đảm việc để dành đủ băng thông nhằm đạt chất lượng cao. Nó chỉ gởi một số dữ liệu đ trước so với dữ liệu khác. Mạng ATM cung cấp dịch vụ QoS (Quality of Service), tiến xa hơn rất nhiều trong việc bảo đảm chất lượng cao các cuộc gọi (và video thời gian thực). Các tế bào ATM kích thước cố định cho phép để dành trước băng thông và người dùng có độ ưu tiên cao được bảo đảm băng thông họ cần, trong khi phần băng thông còn lại được cấp phát cho những người dùng khác trên cơ sở \"khi có thì dùng\". Xem \"Prioritization of Network Traffic\" và \"QoS (Quality of Service)\" để biết thêm chi tiết."
+        "t": "Tuy vậy, phương pháp ưu tiên không bảo đảm việc để dành đủ băng thông nhằm đạt chất lượng cao. Nó chỉ gởi một số dữ liệu đ trước so với dữ liệu khác. Mạng ATM cung cấp dịch vụ QoS (Quality of Service), tiến xa hơn rất nhiều trong việc bảo đảm chất lượng cao các cuộc gọi (và video thời gian thực). Các tế bào ATM kích thước cố định cho phép để dành trước băng thông và người dùng có độ ưu tiên cao được bảo đảm băng thông họ cần, trong khi phần băng thông còn lại được cấp phát cho những người dùng khác trên cơ sở \"khi có thì dùng\". Xem \"Prioritization of Network Traffic\" and \"QoS (Quality of Service)\" để biết thêm chi tiết."
       },
       {
         "k": "m",
@@ -1334,7 +1334,7 @@
     "h": "voiceful",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "having strong voice: having a loud hoặc ringing voice (literary)"}
+      {"k": "m", "t": "having strong voice: having a loud or ringing voice (literary)"}
     ],
     "k": "voiceful"
   },
@@ -1497,7 +1497,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "ground floor of apartment block: in Malaysia và Singapore, the empty ground floor of an apartment block, used for social events by people living in the block"
+        "t": "ground floor of apartment block: in Malaysia and Singapore, the empty ground floor of an apartment block, used for social events by people living in the block"
       }
     ],
     "k": "void deck"
@@ -1810,7 +1810,7 @@
       {"k": "m", "t": "interjection"},
       {
         "k": "m",
-        "t": "there you are: used to bring somebody's attention to something, especially in order to elicit appreciation hoặc approval"
+        "t": "there you are: used to bring somebody's attention to something, especially in order to elicit appreciation or approval"
       }
     ],
     "k": "voila"
@@ -1830,7 +1830,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "voice messaging technology: a technology that enables voice messages to be sent via the Internet, often simultaneously with data in text hoặc other forms. Full form voice over Internet protocol"
+        "t": "voice messaging technology: a technology that enables voice messages to be sent via the Internet, often simultaneously with data in text or other forms. Full form voice over Internet protocol"
       }
     ],
     "k": "voip"
@@ -1841,7 +1841,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "competency examination of witness or juror: the preliminary examination of a witness hoặc juror to determine his hoặc her competency to give hoặc hear evidence"
+        "t": "competency examination of witness or juror: the preliminary examination of a witness or juror to determine his or her competency to give or hear evidence"
       }
     ],
     "k": "voir dire"
@@ -1945,7 +1945,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "artificial language: a synthetic language based on English và German, invented by Johann Martin Schleyer in 1880"
+        "t": "artificial language: a synthetic language based on English and German, invented by Johann Martin Schleyer in 1880"
       },
       {"k": "m", "t": "-Volapụk (tính từ)"}
     ],
@@ -2561,7 +2561,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(past và past participle volcanized, present participle volcanizing, 3rd person present singular volcanizes)"
+        "t": "(past and past participle volcanized, present participle volcanizing, 3rd person present singular volcanizes)"
       },
       {"k": "m", "t": "transitive verb"},
       {
@@ -2657,7 +2657,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "industrial và port city in southwestern Russia on the Volga River. It is an important rail junction và inland port. In World War II, the city was subjected to a long siege by German forces that proved to be one of the turning points of the war."
+        "t": "industrial and port city in southwestern Russia on the Volga River. It is an important rail junction and inland port. In World War II, the city was subjected to a long siege by German forces that proved to be one of the turning points of the war."
       },
       {"k": "m", "t": "Dân số khoảng: 1,012,800 (2002) Former name Stalingrad1925-1961"}
     ],
@@ -2672,8 +2672,8 @@
     "h": "volitant",
     "segs": [
       {"k": "m", "t": "Tính từ"},
-      {"k": "m", "t": "1. able to fly: flying, hoặc capable of flight"},
-      {"k": "m", "t": "2. moving quickly: moving about rapidly hoặc constantly"}
+      {"k": "m", "t": "1. able to fly: flying, or capable of flight"},
+      {"k": "m", "t": "2. moving quickly: moving about rapidly or constantly"}
     ],
     "k": "volitant"
   },
@@ -2877,7 +2877,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "member of an ancient Italian people: a member of an ancient Italian people who were involved in wars against the Romans in the 5th century bc. They were defeated và submitted to Rome in 304 bc."
+        "t": "member of an ancient Italian people: a member of an ancient Italian people who were involved in wars against the Romans in the 5th century bc. They were defeated and submitted to Rome in 304 bc."
       },
       {"k": "m", "t": "-Volscian (tính từ)"}
     ],
@@ -2889,7 +2889,7 @@
       {"k": "m", "t": "danh từ số nhiều"},
       {
         "k": "m",
-        "t": "long grasping instrument with sharp teeth: sharp-toothed forceps used, especially in gynecological surgery, to grasp và pull on various parts"
+        "t": "long grasping instrument with sharp teeth: sharp-toothed forceps used, especially in gynecological surgery, to grasp and pull on various parts"
       }
     ],
     "k": "volsella forceps"
@@ -3860,7 +3860,7 @@
       {"k": "m", "t": "trademark"},
       {
         "k": "m",
-        "t": "a trademark for a nonsteroidal anti-inflammatory drug. Dùng để: relief of strains, sprains, bruises, và minor arthritic pain."
+        "t": "a trademark for a nonsteroidal anti-inflammatory drug. Dùng để: relief of strains, sprains, bruises, and minor arthritic pain."
       }
     ],
     "k": "voltarol"
@@ -4735,10 +4735,10 @@
       {"k": "m", "t": "Tính từ"},
       {
         "k": "m",
-        "t": "1. in set of books: published in a series hoặc set of a number of books (usually used in combination)"
+        "t": "1. in set of books: published in a series or set of a number of books (usually used in combination)"
       },
       {"k": "m", "t": "a three-volumed set"},
-      {"k": "m", "t": "2. in round mass: forming hoặc rolling in a rounded mass (literary)"}
+      {"k": "m", "t": "2. in round mass: forming or rolling in a rounded mass (literary)"}
     ],
     "k": "volumed"
   },
@@ -6057,7 +6057,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "theory of land use: an economic theory that seeks to describe và predict the location of services around an urban center"
+        "t": "theory of land use: an economic theory that seeks to describe and predict the location of services around an urban center"
       }
     ],
     "k": "von thunen theory"
@@ -6177,7 +6177,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "skiing position: a skiing position in which a skier leans forward from the ankle but keeps his hoặc her heels on the skis"
+        "t": "skiing position: a skiing position in which a skier leans forward from the ankle but keeps his or her heels on the skis"
       }
     ],
     "k": "vorlage"
@@ -6185,7 +6185,7 @@
   {
     "h": "Voronezh",
     "segs": [
-      {"k": "m", "t": "city và capital of Voronezh Oblast in western Russia."},
+      {"k": "m", "t": "city and capital of Voronezh Oblast in western Russia."},
       {"k": "m", "t": "Dân số khoảng: 848,700 (2002)"}
     ],
     "k": "voronezh"
@@ -6561,7 +6561,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "British artistic movement: a short-lived early-20th-century British movement in art và literature that used abstract forms to express concern about the future và the machine age"
+        "t": "British artistic movement: a short-lived early-20th-century British movement in art and literature that used abstract forms to express concern about the future and the machine age"
       },
       {"k": "m", "t": "-vorticist (danh từ)"}
     ],
@@ -6835,7 +6835,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "South Asia predictable voting bloc: a group of voters whose votes can be won by offering policies that meet their special interests related to religion hoặc caste"
+        "t": "South Asia predictable voting bloc: a group of voters whose votes can be won by offering policies that meet their special interests related to religion or caste"
       }
     ],
     "k": "vote bank"
@@ -6913,7 +6913,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "South Asia way of getting voter support: the practice of putting forward policies designed to appeal to a specific group of voters in order to gain hoặc keep their support (disapproving)"
+        "t": "South Asia way of getting voter support: the practice of putting forward policies designed to appeal to a specific group of voters in order to gain or keep their support (disapproving)"
       }
     ],
     "k": "vote-bank politics"
@@ -6930,7 +6930,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "policy attractive to voters: a policy hoặc strategy that will attract a high proportion of votes"
+        "t": "policy attractive to voters: a policy or strategy that will attract a high proportion of votes"
       }
     ],
     "k": "vote-winner"
@@ -7209,7 +7209,7 @@
       {"k": "m", "t": "transitive verb"},
       {
         "k": "m",
-        "t": "1. guarantee somebody's behavior: to give an assurance that somebody will behave well hoặc appropriately"
+        "t": "1. guarantee somebody's behavior: to give an assurance that somebody will behave well or appropriately"
       },
       {
         "k": "m",
@@ -7377,10 +7377,7 @@
     "h": "Vouvray",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {
-        "k": "m",
-        "t": "French white wine: a still hoặc sparkling white wine from west central France"
-      }
+      {"k": "m", "t": "French white wine: a still or sparkling white wine from west central France"}
     ],
     "k": "vouvray"
   },
@@ -7439,7 +7436,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "diacritic: a diacritical mark placed above hoặc below a consonant to show a preceding hoặc following vowel, used especially in languages such as Arabic và Hebrew that lack symbols for vowel sounds"
+        "t": "diacritic: a diacritical mark placed above or below a consonant to show a preceding or following vowel, used especially in languages such as Arabic and Hebrew that lack symbols for vowel sounds"
       }
     ],
     "k": "vowel point"

@@ -25,7 +25,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hoặc Ozarks hoặc Ozark Mountains mountainous region in the southern United States, predominantly in Arkansas, Missouri, và Oklahoma."
+        "t": "hoặc Ozarks hoặc Ozark Mountains mountainous region in the southern United States, predominantly in Arkansas, Missouri, and Oklahoma."
       },
       {"k": "m", "t": "Diện tích: 130,000 sq km/50,000 sq mi"}
     ],
@@ -95,7 +95,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "hole in ozone layer: an area of the upper atmosphere where the ozone layer is absent hoặc has become unusually thin"
+        "t": "hole in ozone layer: an area of the upper atmosphere where the ozone layer is absent or has become unusually thin"
       }
     ],
     "k": "ozone hole"
@@ -191,7 +191,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "use of ozone in analysis: the technique of using ozone to oxidize an organic material in the process of identifying double bonds hoặc synthesizing chemicals"
+        "t": "use of ozone in analysis: the technique of using ozone to oxidize an organic material in the process of identifying double bonds or synthesizing chemicals"
       }
     ],
     "k": "ozonolysis"

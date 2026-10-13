@@ -38,7 +38,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": ".30 caliber army rifle: a.30 caliber semiautomatic rifle invented by John C. Garand và adopted by the U.S. Army in 1936."
+        "t": ".30 caliber army rifle: a.30 caliber semiautomatic rifle invented by John C. Garand and adopted by the U.S. Army in 1936."
       }
     ],
     "k": "m-1 rifle"
@@ -127,7 +127,7 @@
       {"k": "m", "t": "4. grammar masculine"},
       {"k": "m", "t": "5. medium"},
       {"k": "m", "t": "6. mile"},
-      {"k": "m", "t": "7. time minute hoặc minutes"},
+      {"k": "m", "t": "7. time minute or minutes"},
       {"k": "m", "t": "8. calendar month"}
     ],
     "k": "m."
@@ -159,7 +159,9 @@
   },
   {
     "h": "M.A.B.E.",
-    "segs": [{"k": "m", "t": "Viết tắt của education Master of Agricultural Business và Economics"}],
+    "segs": [
+      {"k": "m", "t": "Viết tắt của education Master of Agricultural Business and Economics"}
+    ],
     "k": "m.a.b.e."
   },
   {
@@ -380,7 +382,7 @@
     "segs": [
       {"k": "m", "t": "hoặc m/f"},
       {"k": "m", "t": "abbreviation"},
-      {"k": "m", "t": "male hoặc female (in advertisements)"}
+      {"k": "m", "t": "male or female (in advertisements)"}
     ],
     "k": "m/f"
   }
