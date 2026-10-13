@@ -17,7 +17,7 @@
     {
       "e": 12.33,
       "en": "Did you bring the cat in the house last night?",
-      "vi": "Ðêm qua anh có đem con mèo vào nhà không?",
+      "vi": "Đêm qua anh có đem con mèo vào nhà không?",
       "s": 8.72
     },
     {
@@ -57,11 +57,11 @@
       "s": 46.67
     },
     {"e": 54.32, "en": "Maybe it did.", "vi": "Có lẽ vậy.", "s": 50.84},
-    {"e": 58.36, "en": "I will go and check.", "vi": "Ðể em đi kiểm tra xem.", "s": 54.32},
+    {"e": 58.36, "en": "I will go and check.", "vi": "Để em đi kiểm tra xem.", "s": 54.32},
     {
       "e": 64.79,
       "en": "Good idea. Good luck. Good night!",
-      "vi": "Ðược đấy. Chúc may mắn. Ngủ ngon nhé!",
+      "vi": "Được đấy. Chúc may mắn. Ngủ ngon nhé!",
       "s": 58.36
     },
     {"e": 76.06, "en": "...", "vi": "...", "s": 64.79},
@@ -131,7 +131,7 @@
     {
       "e": 124.61,
       "en": "My address is 777 Waterford Street.",
-      "vi": "Ðịa chỉ của tôi ở số 777 đường Waterford.",
+      "vi": "Địa chỉ của tôi ở số 777 đường Waterford.",
       "s": 120.27
     },
     {
@@ -314,7 +314,7 @@
       "s": 291.67
     },
     {"e": 304.75, "en": "...", "vi": "...", "s": 299.35},
-    {"e": 309.53, "en": "Yes! That's him.", "vi": "Ðúng rồi, chính hắn!", "s": 304.75},
+    {"e": 309.53, "en": "Yes! That's him.", "vi": "Đúng rồi, chính hắn!", "s": 304.75},
     {
       "e": 311.76,
       "en": "Did you find our things?",

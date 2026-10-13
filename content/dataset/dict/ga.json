@@ -78,7 +78,7 @@
     "segs": [{"k": "m", "t": "giàn giáo bằng gỗ ván."}],
     "k": "gabbart scaffold"
   },
-  {"h": "Gabbatha", "segs": [{"k": "m", "t": "Gáp-ba-tha (Nền Ðá: Ga 19:13)"}], "k": "gabbatha"},
+  {"h": "Gabbatha", "segs": [{"k": "m", "t": "Gáp-ba-tha (Nền Đá: Ga 19:13)"}], "k": "gabbatha"},
   {
     "h": "gabber",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người hay ba hoa, người hay bẻm mép."}],
@@ -292,11 +292,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nước nằm ở vùng xích đạo thuộc bờ biển Ðại Tây Dương Châu Phi, nó được bao bọc bởi Guiana, Cameroon và Congo."
+        "t": "một nước nằm ở vùng xích đạo thuộc bờ biển Đại Tây Dương Châu Phi, nó được bao bọc bởi Guiana, Cameroon và Congo."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: dọc theo bờ biển Gabon là những đầm đước, vùng dầu mỏ rộng lớn và vùng khí đốt. Thêm vào đó là vùng đồng bằng rộng, bao phủ bởi những cánh rừng dày và mưa nhiều. Thung lũng được bao bọc xung quanh bởi cao nguyên, vùng trung tâm có sông chảy qua đồng cỏ."
+        "t": "Địa hình: dọc theo bờ biển Gabon là những đầm đước, vùng dầu mỏ rộng lớn và vùng khí đốt. Thêm vào đó là vùng đồng bằng rộng, bao phủ bởi những cánh rừng dày và mưa nhiều. Thung lũng được bao bọc xung quanh bởi cao nguyên, vùng trung tâm có sông chảy qua đồng cỏ."
       },
       {
         "k": "m",
@@ -304,15 +304,15 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: năm 1839, Pháp dùng Gabon làm căn cứ Hải quân để đàn áp việc buôn bán nô lệ. Vì vậy, thực dân Pháp khai thác gỗ quý, vàng, kim cương, các khoáng sản khác và dầu mỏ. Gabon trở thành nước tự trị nằm trong cộng đồng Pháp năm 1958 và được hoàn toàn độc lập năm 1960. Sau những năm đầu bị bất ổn chính trị, năm 1967, ông Omar Bongo được bầu làm tổng thống. Ðến tháng 11 năm 1990, đảng dân chủ Gabon thắng lợi trong cuộc tổng tuyển cử, đã quyết định duy trì nền chính trị đa đảng. Ông Bongo tái đắc cử tổng thống năm 1993 và đảng dân chủ Gabon cũng tái đắc cử năm 1996."
+        "t": "Lịch sử: năm 1839, Pháp dùng Gabon làm căn cứ Hải quân để đàn áp việc buôn bán nô lệ. Vì vậy, thực dân Pháp khai thác gỗ quý, vàng, kim cương, các khoáng sản khác và dầu mỏ. Gabon trở thành nước tự trị nằm trong cộng đồng Pháp năm 1958 và được hoàn toàn độc lập năm 1960. Sau những năm đầu bị bất ổn chính trị, năm 1967, ông Omar Bongo được bầu làm tổng thống. Đến tháng 11 năm 1990, đảng dân chủ Gabon thắng lợi trong cuộc tổng tuyển cử, đã quyết định duy trì nền chính trị đa đảng. Ông Bongo tái đắc cử tổng thống năm 1993 và đảng dân chủ Gabon cũng tái đắc cử năm 1996."
       },
       {"k": "m", "t": "Thủ đô: Libreville."},
       {"k": "m", "t": "Diện tích: 267.667 km2"},
       {"k": "m", "t": "Dân số: 1.173.000 người (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Franc CFA."},
+      {"k": "m", "t": "Tiền tệ: Đồng Franc CFA."},
       {
         "k": "m",
-        "t": "Tôn giáo: Thiên Chúa Giáo La Mã 65,2%, Tin Lành 18,8%. Cơ Ðốc, 12,1%, Tín ngưỡng truyền thống 2,9%, Hồi giáo 0,8%."
+        "t": "Tôn giáo: Thiên Chúa Giáo La Mã 65,2%, Tin Lành 18,8%. Cơ Đốc, 12,1%, Tín ngưỡng truyền thống 2,9%, Hồi giáo 0,8%."
       },
       {"k": "m", "t": "Sắc tộc: Người Fang 30%, Eshura 20%, Mbete 15% Kota, 13%, Omyene 15%."},
       {"k": "m", "t": "Ngôn ngữ: Pháp, Fang, Eshura, ngôn ngữ bản địa."},
@@ -1959,7 +1959,7 @@
   {"h": "galactopyra", "segs": [{"k": "m", "t": "Sốt sữa."}], "k": "galactopyra"},
   {
     "h": "galactorrhea",
-    "segs": [{"k": "m", "t": "Ða tiết sữa, tiết nhiều sữa."}],
+    "segs": [{"k": "m", "t": "Đa tiết sữa, tiết nhiều sữa."}],
     "k": "galactorrhea"
   },
   {
@@ -2050,8 +2050,8 @@
     ],
     "k": "galactotherapy"
   },
-  {"h": "galactotoxicon", "segs": [{"k": "m", "t": "Ðộc chất sữa ôi."}], "k": "galactotoxicon"},
-  {"h": "galactotoxin", "segs": [{"k": "m", "t": "Ðộc tố sữa."}], "k": "galactotoxin"},
+  {"h": "galactotoxicon", "segs": [{"k": "m", "t": "Độc chất sữa ôi."}], "k": "galactotoxicon"},
+  {"h": "galactotoxin", "segs": [{"k": "m", "t": "Độc tố sữa."}], "k": "galactotoxin"},
   {"h": "galactotoxism", "segs": [{"k": "m", "t": "Ngộ độc sữa."}], "k": "galactotoxism"},
   {"h": "galactotrophy", "segs": [{"k": "m", "t": "Nuôi bằng sữa."}], "k": "galactotrophy"},
   {"h": "galactoxism", "segs": [{"k": "m", "t": "Ngộ độc sữa."}], "k": "galactoxism"},
@@ -2191,7 +2191,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "vùng đất ở trung tâm khu vực Tiểu Á, do người Gauls chiếm giữ năm 278 trước Công Nguyên. Ðến năm 230 trước Công Nguyên, người Gauls bị vua Attilus I của xứ Pergamum đánh bại. Sau đó La Mã dùng người Gauls để chống lại xứ Pergamum. Người Gauls trung thành với La Mã trong suốt thời gian chiến tranh với Mithridates VI. Ðó là người La Mã thành lập vùng đất Galatia thành một tỉnh của La Mã (năm 25 trước Công Nguyên)."
+        "t": "vùng đất ở trung tâm khu vực Tiểu Á, do người Gauls chiếm giữ năm 278 trước Công Nguyên. Đến năm 230 trước Công Nguyên, người Gauls bị vua Attilus I của xứ Pergamum đánh bại. Sau đó La Mã dùng người Gauls để chống lại xứ Pergamum. Người Gauls trung thành với La Mã trong suốt thời gian chiến tranh với Mithridates VI. Đó là người La Mã thành lập vùng đất Galatia thành một tỉnh của La Mã (năm 25 trước Công Nguyên)."
       }
     ],
     "k": "galatia"
@@ -2529,7 +2529,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hai vương quốc khác nhau (nhưng có cùng một tên) ở miền Trung Châu Âu. Hai vương quốc này đều do người Gauls thành lập. Một vương quốc nằm ở vùng Tây Bắc Tây Ban Nha và trở thành vương quốc của vua Goths vào thế kỷ thứ 6 sau Công Nguyên. Nơi đây đã trở thành trung tâm kháng chiến chống người Moors vào thế kỷ thứ 8, nhưng chuyển giao cho người Castille ở thế kỷ 13. Bây giờ vùng này là xứ tự trị thuộc Tây Ban Nha. Vùng này vẫn còn giữ được ngôn ngữ và văn hóa bản địa. Một vương quốc Galacia khác nằm ở phía Tây của xứ Ukraine và phía Ðông của Hungary, Romania và Bohemia, vào thời trung cổ, vương quốc này là một xứ độc lập dựa vào Kiev. Nó trải rộng đến vùng Tây xa xôi như Cracow ở nước Ba Lan hiện đại. Vương quốc này dưới quyền cai trị của người Ba Lan từ năm 1349, vào thế kỷ 18 nó rơi vào tay người Áo."
+        "t": "hai vương quốc khác nhau (nhưng có cùng một tên) ở miền Trung Châu Âu. Hai vương quốc này đều do người Gauls thành lập. Một vương quốc nằm ở vùng Tây Bắc Tây Ban Nha và trở thành vương quốc của vua Goths vào thế kỷ thứ 6 sau Công Nguyên. Nơi đây đã trở thành trung tâm kháng chiến chống người Moors vào thế kỷ thứ 8, nhưng chuyển giao cho người Castille ở thế kỷ 13. Bây giờ vùng này là xứ tự trị thuộc Tây Ban Nha. Vùng này vẫn còn giữ được ngôn ngữ và văn hóa bản địa. Một vương quốc Galacia khác nằm ở phía Tây của xứ Ukraine và phía Đông của Hungary, Romania và Bohemia, vào thời trung cổ, vương quốc này là một xứ độc lập dựa vào Kiev. Nó trải rộng đến vùng Tây xa xôi như Cracow ở nước Ba Lan hiện đại. Vương quốc này dưới quyền cai trị của người Ba Lan từ năm 1349, vào thế kỷ 18 nó rơi vào tay người Áo."
       }
     ],
     "k": "galicia"
@@ -3026,11 +3026,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "một thuyền chiến, được dùng chủ yếu ở vùng Ðịa Trung hải vào thời thiên niên kỷ thứ hai trước Công Nguyên. Vũ khí chủ yếu của thuyền chiến là một mũi nhọn bằng sắt ở ngang mũi thuyền để đâm thủng hoặc làm vỡ các mái chèo của thuyền địch. Trong chiến đấu, nó được lái bằng các mái chèo và giăng buồm khi có gió. Sự thành công của thuyền chiến nhờ vào tốc độ nhanh và điều khiển bằng tay. Loại thuyền chiến này phát triển nhiều ở thời Hy Lạp có tên là Trireme. Nó có 3 giàn mái chèo. Thuyền chiến Trireme tham gia một trận thủy chiến nổi tiếng ở vùng Salamis năm 480 trước Công Nguyên giữa Hy Lạp và Ba Tư."
+        "t": "một thuyền chiến, được dùng chủ yếu ở vùng Địa Trung hải vào thời thiên niên kỷ thứ hai trước Công Nguyên. Vũ khí chủ yếu của thuyền chiến là một mũi nhọn bằng sắt ở ngang mũi thuyền để đâm thủng hoặc làm vỡ các mái chèo của thuyền địch. Trong chiến đấu, nó được lái bằng các mái chèo và giăng buồm khi có gió. Sự thành công của thuyền chiến nhờ vào tốc độ nhanh và điều khiển bằng tay. Loại thuyền chiến này phát triển nhiều ở thời Hy Lạp có tên là Trireme. Nó có 3 giàn mái chèo. Thuyền chiến Trireme tham gia một trận thủy chiến nổi tiếng ở vùng Salamis năm 480 trước Công Nguyên giữa Hy Lạp và Ba Tư."
       },
       {
         "k": "m",
-        "t": "Loại thuyền chiến Longship của bọn hải tặc thì nhỏ hơn, nhưng tốt hơn. Thuyền chiến tiếp tục phát triển trong các cuộc chiến ở Ðịa Trung Hải thời kỳ đế chế La Mã Trung cổ. Về sau, cung tên và khải mộc trở thành vũ khí quan trọng trong các mũi nhọn của thuyền chiến. Dần dần người ta dùng súng. Xứ Byzantium, Genoa, Venice, và các lực lượng hải hành khác cũng đóng thuyền chiến loại lớn để dùng vào việc buôn bán ở thế kỷ 13. Loại thuyền này thường thấy ở nước Anh và những vùng thuộc Tây Bắc Châu Phi. Thuyền chiến tiếp tục sứ mạng quân sự quan trọng cho tới thế kỷ 16. Năm 1571, thuyền chiến Lepanto là loại sau chót. Sau đó, thuyền chiến còn được dùng cho đến thế kỷ 18."
+        "t": "Loại thuyền chiến Longship của bọn hải tặc thì nhỏ hơn, nhưng tốt hơn. Thuyền chiến tiếp tục phát triển trong các cuộc chiến ở Địa Trung Hải thời kỳ đế chế La Mã Trung cổ. Về sau, cung tên và khải mộc trở thành vũ khí quan trọng trong các mũi nhọn của thuyền chiến. Dần dần người ta dùng súng. Xứ Byzantium, Genoa, Venice, và các lực lượng hải hành khác cũng đóng thuyền chiến loại lớn để dùng vào việc buôn bán ở thế kỷ 13. Loại thuyền này thường thấy ở nước Anh và những vùng thuộc Tây Bắc Châu Phi. Thuyền chiến tiếp tục sứ mạng quân sự quan trọng cho tới thế kỷ 16. Năm 1571, thuyền chiến Lepanto là loại sau chót. Sau đó, thuyền chiến còn được dùng cho đến thế kỷ 18."
       }
     ],
     "k": "galley"
@@ -3146,7 +3146,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những cuộc chiến của dân Gallic (58-51 trước Công Nguyên), Julius Ceasar thành lập luật lệ La Mã khắp miền Trung và Bắc Châu Âu, phía Tây sông Rhine. Ceasar băng vào vùng Transalpine Gaul, trục xuất các bộ tộc Ðức ở phía Nam và phía Ðông, trục xuất Bỉ ở phía Bắc, trục xuất Veneti ở phía Tây. Ceasar băng qua sông Rhine để biểu dương quyền kiểm soát của La Mã ở vùng biên giới. Do sự mất đoàn kết của các bộ lạc, Ceasar đã khuất phục được các lực lượng ở bờ biển phía Bắc và phía Tây. Ceasar xâm lược Anh hai lần (55 và 54 trước Công Nguyên) làm cho dân chúng phải lánh nạn và khiếp sợ quân La Mã. Ðến mùa đông năm 53 và 52 trước Công Nguyên, Vercingetorix tập hợp những bộ lạc Gallic ở trung ương để kháng chiến, nhưng ông bị Ceasar đánh bại và giết chết sau một thời gian dài chiến đấu gian khổ."
+        "t": "những cuộc chiến của dân Gallic (58-51 trước Công Nguyên), Julius Ceasar thành lập luật lệ La Mã khắp miền Trung và Bắc Châu Âu, phía Tây sông Rhine. Ceasar băng vào vùng Transalpine Gaul, trục xuất các bộ tộc Đức ở phía Nam và phía Đông, trục xuất Bỉ ở phía Bắc, trục xuất Veneti ở phía Tây. Ceasar băng qua sông Rhine để biểu dương quyền kiểm soát của La Mã ở vùng biên giới. Do sự mất đoàn kết của các bộ lạc, Ceasar đã khuất phục được các lực lượng ở bờ biển phía Bắc và phía Tây. Ceasar xâm lược Anh hai lần (55 và 54 trước Công Nguyên) làm cho dân chúng phải lánh nạn và khiếp sợ quân La Mã. Đến mùa đông năm 53 và 52 trước Công Nguyên, Vercingetorix tập hợp những bộ lạc Gallic ở trung ương để kháng chiến, nhưng ông bị Ceasar đánh bại và giết chết sau một thời gian dài chiến đấu gian khổ."
       }
     ],
     "k": "gallic wars"
@@ -3837,7 +3837,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1811-1832) nhà toán học Pháp. Ông học tại trường trung học Louis de Grand, gần đến tốt nghiệp, ông đã được thực hiện một công trình sáng tạo về toán học. Năm 1830 ông vào học trường Ðại học sư phạm. Năm 1831 ông bị đuổi học vì lý do chính trị, Trước đó, ông đã bắt đầu tích cực hoạt động chính trị, tham gia vào hội kín cộng hòa \"Những người bạn của dân\". Do công khai phát biểu chống đối nền quân chủ, ông đã bị tù hai lần. Hầu như ngay sau ngày được trả lại tự do, ông đã chết ở tuổi 21 do đấu súng, có lẽ do bị kẻ thù chính trị khiêu khích. Di sản toán học của Galois gồm một số không lớn những công trình viết ra rất ngắn gọn mà người đương thời không hiểu được. Thực ra, Galois đã xây dựng toàn bộ lý thuyết những trường hữu hạn. Công lao chủ yếu của Galois là phát biểu toàn bộ những ý kiến mà ông đã đạt được khi nghiên cứu tuyến tính giải được bằng căn thức của những phương trình đại số. Lý thuyết Galois xây dựng từ đó bằng cách mô tả trường mở rộng theo thuật ngữ nhóm, giống như mô tả tính đối xứng của một đa diện, sẽ chuyển những vấn đề liên quan đến trường thành những vấn đề lý thuyết nhóm (lý thuyết nhóm nảy sinh chính từ đó)."
+        "t": "(1811-1832) nhà toán học Pháp. Ông học tại trường trung học Louis de Grand, gần đến tốt nghiệp, ông đã được thực hiện một công trình sáng tạo về toán học. Năm 1830 ông vào học trường Đại học sư phạm. Năm 1831 ông bị đuổi học vì lý do chính trị, Trước đó, ông đã bắt đầu tích cực hoạt động chính trị, tham gia vào hội kín cộng hòa \"Những người bạn của dân\". Do công khai phát biểu chống đối nền quân chủ, ông đã bị tù hai lần. Hầu như ngay sau ngày được trả lại tự do, ông đã chết ở tuổi 21 do đấu súng, có lẽ do bị kẻ thù chính trị khiêu khích. Di sản toán học của Galois gồm một số không lớn những công trình viết ra rất ngắn gọn mà người đương thời không hiểu được. Thực ra, Galois đã xây dựng toàn bộ lý thuyết những trường hữu hạn. Công lao chủ yếu của Galois là phát biểu toàn bộ những ý kiến mà ông đã đạt được khi nghiên cứu tuyến tính giải được bằng căn thức của những phương trình đại số. Lý thuyết Galois xây dựng từ đó bằng cách mô tả trường mở rộng theo thuật ngữ nhóm, giống như mô tả tính đối xứng của một đa diện, sẽ chuyển những vấn đề liên quan đến trường thành những vấn đề lý thuyết nhóm (lý thuyết nhóm nảy sinh chính từ đó)."
       }
     ],
     "k": "galois evariste"
@@ -3994,7 +3994,7 @@
     ],
     "k": "galvanic binding"
   },
-  {"h": "galvanic cautery", "segs": [{"k": "m", "t": "Ðốt điện."}], "k": "galvanic cautery"},
+  {"h": "galvanic cautery", "segs": [{"k": "m", "t": "Đốt điện."}], "k": "galvanic cautery"},
   {
     "h": "galvanic cell",
     "segs": [{"k": "m", "t": "(kỹ thuật) pin tự phát, pin nguyên."}],
@@ -4026,7 +4026,7 @@
   {"h": "galvanic effect", "segs": [{"k": "m", "t": "hiệu ứng điện hóa."}], "k": "galvanic effect"},
   {
     "h": "galvanic electricity",
-    "segs": [{"k": "m", "t": "Ðiện ganvanic."}],
+    "segs": [{"k": "m", "t": "Điện ganvanic."}],
     "k": "galvanic electricity"
   },
   {
@@ -4387,7 +4387,7 @@
     "segs": [{"k": "m", "t": "(kỹ thuật) phát quang điện lưu."}],
     "k": "galvanoluminescence"
   },
-  {"h": "galvanolysis", "segs": [{"k": "m", "t": "Ðiện phân."}], "k": "galvanolysis"},
+  {"h": "galvanolysis", "segs": [{"k": "m", "t": "Điện phân."}], "k": "galvanolysis"},
   {
     "h": "galvanomagnetic effect",
     "segs": [
@@ -4462,7 +4462,7 @@
     "ipa": ",gævə'nɔmitri",
     "k": "galvanometry"
   },
-  {"h": "galvanomuscular", "segs": [{"k": "m", "t": "Ðiện một chiều-cơ."}], "k": "galvanomuscular"},
+  {"h": "galvanomuscular", "segs": [{"k": "m", "t": "Điện một chiều-cơ."}], "k": "galvanomuscular"},
   {
     "h": "galvanonarcosis",
     "segs": [{"k": "m", "t": "(Phương pháp) gây mê bằng điện."}],
@@ -4470,7 +4470,7 @@
   },
   {
     "h": "galvanonervous",
-    "segs": [{"k": "m", "t": "Ðiện một chiều-thần kinh."}],
+    "segs": [{"k": "m", "t": "Điện một chiều-thần kinh."}],
     "k": "galvanonervous"
   },
   {
@@ -4499,7 +4499,7 @@
     "ipa": "'gælvənə,plæsti",
     "k": "galvanoplasty"
   },
-  {"h": "galvanopuncture", "segs": [{"k": "m", "t": "Ðiện châm."}], "k": "galvanopuncture"},
+  {"h": "galvanopuncture", "segs": [{"k": "m", "t": "Điện châm."}], "k": "galvanopuncture"},
   {
     "h": "galvanoscope",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "điện nghiệm."}],
@@ -4558,7 +4558,7 @@
     "segs": [{"k": "m", "t": "Co cơ do điện."}],
     "k": "galvanotonic contraction"
   },
-  {"h": "galvanotonus", "segs": [{"k": "m", "t": "Ðiện trương lực."}], "k": "galvanotonus"},
+  {"h": "galvanotonus", "segs": [{"k": "m", "t": "Điện trương lực."}], "k": "galvanotonus"},
   {
     "h": "galvanotropism",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "tính hướng điện."}],
@@ -4695,7 +4695,7 @@
       {"k": "m", "t": "một nước ở bờ biển phía Tây Châu Phi."},
       {
         "k": "m",
-        "t": "Ðịa hình: Gambia chạy dài từ Tây sang Ðông dọc theo con sông Gambia dài 320 km, bị bao bọc hoàn toàn bởi lãnh thổ Senegal. Sông Gambia rộng và thuận tiện cho ngành hàng hải, hai bên bờ sông có đầm lầy và thung lũng màu mỡ."
+        "t": "Địa hình: Gambia chạy dài từ Tây sang Đông dọc theo con sông Gambia dài 320 km, bị bao bọc hoàn toàn bởi lãnh thổ Senegal. Sông Gambia rộng và thuận tiện cho ngành hàng hải, hai bên bờ sông có đầm lầy và thung lũng màu mỡ."
       },
       {
         "k": "m",
@@ -4712,8 +4712,8 @@
       {"k": "m", "t": "Thủ đô: Banjul."},
       {"k": "m", "t": "Diện tích: 10.689 km2"},
       {"k": "m", "t": "Dân số: 1.148.000 người (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Dalasi."},
-      {"k": "m", "t": "Tôn giáo: Hồi giáo 95,4%, Cơ Ðốc 3,7%, tín ngưỡng truyền thống 0,9%."},
+      {"k": "m", "t": "Tiền tệ: Đồng Dalasi."},
+      {"k": "m", "t": "Tôn giáo: Hồi giáo 95,4%, Cơ Đốc 3,7%, tín ngưỡng truyền thống 0,9%."},
       {
         "k": "m",
         "t": "Sắc tộc: Mandingo 40,4%, Fulani 18,7%, Wolof 14,6%, Dyola 10,3%, Serahuli 6,5%."
@@ -4926,7 +4926,7 @@
       {
         "k": "ex",
         "t": "Olympic Games",
-        "vi": "Thế vận hội, Ðại hội thể thao thế giới, Ðại hội thể thao Olympich"
+        "vi": "Thế vận hội, Đại hội thể thao thế giới, Đại hội thể thao Olympich"
       },
       {"k": "m", "t": "ván (bài, cờ...)"},
       {"k": "ex", "t": "to win four games in the first set", "vi": "thắng bốn ván trong trận đầu"},
@@ -5328,7 +5328,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "dt 1. dàn nhạc ở Ðông Nam Châu Á gồm chủ yếu các nhạc khí gõ (trống, thanh la...) 2. loại đàn phiến gỗ, mộc cầm (được sử dụng trong dàn nhạc nói trên)."
+        "t": "dt 1. dàn nhạc ở Đông Nam Châu Á gồm chủ yếu các nhạc khí gõ (trống, thanh la...) 2. loại đàn phiến gỗ, mộc cầm (được sử dụng trong dàn nhạc nói trên)."
       }
     ],
     "ipa": "'gæmə,læn",
@@ -6583,7 +6583,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bốn vị lãnh đạo then chốt của Trung Quốc thập niên 1970. Trong số bốn người này, có bà Giang Thanh là vợ thứ 4 của thủ tướng Mao Trạch Ðông. Cả 4 người đều nổi bật trong cuộc cách mạng văn hóa, mà cứ điểm quyền lực là Thượng Hải. Họ giữ chức vụ đầy quyền lực ở ban chính trị, sau hội nghị lần thứ 10 của đảng cộng sản Trung Quốc (1973). Năm 1976, khi Mao Trạch Ðông qua đời, họ bị cho là đặt kế hoạch nắm quyền. Năm 1980, họ bị kết tội là có âm mưu chống lại nhà nước. Họ bị khiển trách là đã quá mức trong cuộc cách mạng văn hóa."
+        "t": "bốn vị lãnh đạo then chốt của Trung Quốc thập niên 1970. Trong số bốn người này, có bà Giang Thanh là vợ thứ 4 của thủ tướng Mao Trạch Đông. Cả 4 người đều nổi bật trong cuộc cách mạng văn hóa, mà cứ điểm quyền lực là Thượng Hải. Họ giữ chức vụ đầy quyền lực ở ban chính trị, sau hội nghị lần thứ 10 của đảng cộng sản Trung Quốc (1973). Năm 1976, khi Mao Trạch Đông qua đời, họ bị cho là đặt kế hoạch nắm quyền. Năm 1980, họ bị kết tội là có âm mưu chống lại nhà nước. Họ bị khiển trách là đã quá mức trong cuộc cách mạng văn hóa."
       }
     ],
     "k": "gang of four"
@@ -6965,7 +6965,7 @@
       {"k": "m", "t": "see under gangliac"},
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": ". Pert, to a ganglion. SYN: ganglionic."},
-      {"k": "m", "t": "Liên quan đến hạch. ÐN: ganglionic."},
+      {"k": "m", "t": "Liên quan đến hạch. ĐN: ganglionic."},
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "(gan-gli-al) pertaining to a ganglion."},
       {"k": "m", "t": "Else:"},
@@ -10262,7 +10262,7 @@
     ],
     "k": "gas catcher"
   },
-  {"h": "gas cautery", "segs": [{"k": "m", "t": "Ðốt bằng khí."}], "k": "gas cautery"},
+  {"h": "gas cautery", "segs": [{"k": "m", "t": "Đốt bằng khí."}], "k": "gas cautery"},
   {
     "h": "gas cavity",
     "segs": [
@@ -12909,7 +12909,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một cựu lãnh đạo Công tước vùng Tây Ban Nha-Pháp. Vào thế kỷ 6, vùng này độc lập. Ðến năm 819, vua Louis The Pious của Pháp cai trị, rồi qua tay vua Henry II của Anh. Sau đó lại qua tay Pháp một lần nữa. Nhưng vua Edward III của Anh lấy lại vùng này do hiệp ước Brétigny năm 1360. Sau cùng, vua Charles II của Pháp đuổi được quân đội Anh ra khỏi vùng này và duy nhất chỉ có chính quyền Hoàng gia Pháp thống trị cho đến tận đời vua Henry IV Pháp."
+        "t": "một cựu lãnh đạo Công tước vùng Tây Ban Nha-Pháp. Vào thế kỷ 6, vùng này độc lập. Đến năm 819, vua Louis The Pious của Pháp cai trị, rồi qua tay vua Henry II của Anh. Sau đó lại qua tay Pháp một lần nữa. Nhưng vua Edward III của Anh lấy lại vùng này do hiệp ước Brétigny năm 1360. Sau cùng, vua Charles II của Pháp đuổi được quân đội Anh ra khỏi vùng này và duy nhất chỉ có chính quyền Hoàng gia Pháp thống trị cho đến tận đời vua Henry IV Pháp."
       }
     ],
     "k": "gascony"
@@ -14191,7 +14191,7 @@
     "k": "gastric digestion"
   },
   {"h": "gastric dilatation", "segs": [{"k": "m", "t": "giãn dạ dầy."}], "k": "gastric dilatation"},
-  {"h": "gastric fistula", "segs": [{"k": "m", "t": "Ðường rò dạ dầy."}], "k": "gastric fistula"},
+  {"h": "gastric fistula", "segs": [{"k": "m", "t": "Đường rò dạ dầy."}], "k": "gastric fistula"},
   {
     "h": "gastric flu",
     "segs": [
@@ -14259,7 +14259,7 @@
     "segs": [{"k": "m", "t": "Khuyết góc của bờ cong bé dạ dầy."}],
     "k": "gastric notch"
   },
-  {"h": "gastric plexus", "segs": [{"k": "m", "t": "Ðám rối vành vị."}], "k": "gastric plexus"},
+  {"h": "gastric plexus", "segs": [{"k": "m", "t": "Đám rối vành vị."}], "k": "gastric plexus"},
   {
     "h": "gastric resection",
     "segs": [{"k": "m", "t": "(thủ thuật) cắt bỏ dạ dầy."}],
@@ -14477,7 +14477,7 @@
     "segs": [{"k": "m", "t": "Bệnh do Gastrodiscoides."}],
     "k": "gastrodisciasis"
   },
-  {"h": "gastrodisk", "segs": [{"k": "m", "t": "Ðĩa phôi."}], "k": "gastrodisk"},
+  {"h": "gastrodisk", "segs": [{"k": "m", "t": "Đĩa phôi."}], "k": "gastrodisk"},
   {
     "h": "gastroduodenal",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc dạ dày ruột kết."}],
@@ -14618,12 +14618,12 @@
   },
   {
     "h": "gastrofaradization",
-    "segs": [{"k": "m", "t": "Ðiều trị điện ứng dạ dầy."}],
+    "segs": [{"k": "m", "t": "Điều trị điện ứng dạ dầy."}],
     "k": "gastrofaradization"
   },
   {
     "h": "gastrogalvanization",
-    "segs": [{"k": "m", "t": "Ðiều trị điện một chiều dạ dầy."}],
+    "segs": [{"k": "m", "t": "Điều trị điện một chiều dạ dầy."}],
     "k": "gastrogalvanization"
   },
   {
@@ -14946,7 +14946,7 @@
   {"h": "gastropathy", "segs": [{"k": "m", "t": "Bệnh dạ dầy."}], "k": "gastropathy"},
   {
     "h": "gastroperiodynia",
-    "segs": [{"k": "m", "t": "Ðau dạ dầy có chu kỳ."}],
+    "segs": [{"k": "m", "t": "Đau dạ dầy có chu kỳ."}],
     "k": "gastroperiodynia"
   },
   {
@@ -15006,7 +15006,7 @@
     "segs": [{"k": "m", "t": "(thuộc) dạ dầy-phổi."}],
     "k": "gastropneumonic"
   },
-  {"h": "gastropod", "segs": [{"k": "m", "t": "Ðộng vật chân bụng."}], "k": "gastropod"},
+  {"h": "gastropod", "segs": [{"k": "m", "t": "Động vật chân bụng."}], "k": "gastropod"},
   {
     "h": "gastropode",
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "gasteropod như gasteropod", "vi": "."}],
@@ -15807,7 +15807,7 @@
   },
   {
     "h": "gated bidirectional switch",
-    "segs": [{"k": "m", "t": "(kỹ thuật) công tắc song hướng chọn qua/tuyển thông (ÐL)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) công tắc song hướng chọn qua/tuyển thông (ĐL)."}],
     "k": "gated bidirectional switch"
   },
   {
@@ -16910,7 +16910,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) 1. Máy đo (sức gió, lượng mưa...) 2. Cái đo cỡ (dây...) 3. Khoảng cách đường ray. 4. Tiêu chuẩn đánh giá, phương tiện đánh giá.-take a gauge of sb: Ðánh giá ai."
+        "t": "(dt) 1. Máy đo (sức gió, lượng mưa...) 2. Cái đo cỡ (dây...) 3. Khoảng cách đường ray. 4. Tiêu chuẩn đánh giá, phương tiện đánh giá.-take a gauge of sb: Đánh giá ai."
       }
     ],
     "ipa": "geidʒ",
@@ -17076,7 +17076,7 @@
     "h": "gauleiter",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "viên sĩ quan cai trị một khu vực theo luật lệ của phát xít Ðức."}
+      {"k": "m", "t": "viên sĩ quan cai trị một khu vực theo luật lệ của phát xít Đức."}
     ],
     "ipa": "'gəʊ,laitə",
     "k": "gauleiter"
@@ -17316,7 +17316,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Gau-xơ, 1777-855) nhà toán học Ðức, có cống hiến lớn lao cả trong thiên văn học và trắc địa học, viện sĩ thông tấn nước ngoài (1802) và viện sĩ danh dự nước ngoài (1824) Viện hàn lâm khoa học Pétersbourg. Ông sinh ra trong một gia đình thợ ống nước. Ông học tại trường Ðại học tổng hợp Go**ttingen (1795-1798). Năm 1799, ông được phong chức vụ phó giáo sư tại Braunschweig (Brunswick). Năm 1807 ông được giao lãnh đạo bộ môn toán học và thiên văn học tại trường Ðại học tổng hợp Go**ttingen, kèm theo chức vụ giám đốc đài thiên văn Go**ttingen. Ông giữ chức vụ này cho đến cuối đời. Nét sáng tạo đặc biệt của Gauss là mối liên hệ hữu cơ sâu sắc giữa toán học lý thuyết và thực hành trong các công trình nghiên cứu của ông và mức độ rộng lớn kỳ lạ của toàn bộ các vấn đề. Các công trình của Gauss có ảnh hưởng lớn đến sự phát triển của đại số, lý thuyết số, hình học vi phân, lý thuyết lực hấp dẫn, lý thuyết cổ điển về điện học và từ học, trắc địa học, toàn bộ các lĩnh vực của thiên văn học lý thuyết. Trong nhiều lĩnh vực của toán học, các công trình của Gauss góp phần nâng cao yêu cầu chứng minh rành mạch logic, tuy nhiên bản thân Gauss dừng lại bên lề các công trình về lập luận chặt chẽ của giải tích toán học. Tác phẩm nổi tiếng đầu tiên của Gauss về số và đại số cao cấp (\"Nghiên cứu số học\" 1801) đã định trước phần lớn sự phát triển sau này của các bộ môn đó. Vào cuối tập sách ông có trình bày lý thuyết phương trình chia đường tròn (tức phương trình xn-1 = 0) mà phần lớn là tạo ảnh của lý thuyết Galois. Ngoài các phương pháp tổng quát giải các phương trình đó ra, Gauss còn thiết lập mối liên hệ giữa chúng với phép dựng những đa giác đều. Sau các nhà bác học cổ Hy Lạp, ông là người đầu tiên đã thực hiện một bước lớn về phía trước trong vấn đề đó, cụ thể là Gauss đã tìm được tất cả giá trị n sao cho hình n-giác đều có thể dựng được bằng thước kẻ và compa, đặc biệt, sau khi giải phương trình x17-1 = 0, ông đã dựng được hình 17-giác đều bằng thước kẻ và compa. Gauss đánh giá rất cao phát minh đó và đã di chúc khắc hình 17-giác đều nội tiếp một đường tròn trên mộ chí của ông, và điều đó đã được thực hiện. Những hứng thú của Gauss về đại số học có liên quan đến một định lý cơ bản của đại số, ông đã cho vài chứng minh-cách thứ nhất vào năm 1799. Những công trình thiên văn của Guass (1800-1820) về cơ bản liên quan đến việc giải bài toán xác định quỹ đạo của những hành tinh nhỏ và việc nghiên cứu sự nhiễu loạn của chúng. Những công trình của Gauss về trắc địa học (1820-giữa 1830) liên quan đến nhiệm vụ dựng họa đồ trắc địa và lập bản đồ chi tiết của vương quốc Hannover (Hanovre), Gauss tổ chức đo cung kinh tuyến Go**ttingen-Altoma, từ kết quả nghiên cứu lý thuyết vấn đề đó ông xây dựng cơ sở cho môn trắc địa học cao cấp. Việc nghiên cứu hình dáng mặt đất đòi hỏi phải có một phương pháp hình học tổng quát sâu sắc để nghiên cứu các mặt cong. Những ý kiến do Gauss nêu lên trong các lĩnh vực đó đã được diễn đạt trong tác phẩm \"Nghiên cứu tổng quát về mặt cong\" (1827). Tư tưởng chủ đạo của tác phẩm đó tựu trung là, trong nghiên cứu một mặt được coi là một màn mềm dẻo mỏng vô hạn, điều đó có ý nghĩa cơ bản không phải là phương trình của mặt trong tọa độ Descartes mà là dạng toàn phương vi phân với 2 đặc điểm: một là, qua đó biểu diễn được bình phương của một yếu tố độ dài, và hai là, những bất biến của nó chính là toàn bộ các tính chất riêng biệt của mặt, mà trước hết là độ cong của mặt tại mỗi điểm. Các công trình nghiên cứu của Gauss về lý thuyết vật lý (1830-1840) phần lớn là kết quả của việc giao tiếp chặt chẽ và công tác khoa học chung với nhà bác học Ðức W.Weber. Cùng với W.Weber, Gauss xây dựng được hệ tuyệt đối các đơn vị điện từ và chế tạo xong vào năm 1833, chiếc máy điện tín điện từ đầu tiên tại Ðức. Rất nhiều công trình của Gauss còn chưa được công bố và những thư từ giao dịch với bạn bè dưới dạng bút ký, công trình chưa hoàn chỉnh, đều là di sản khoa học của ông. Cho đến tận thế chiến thứ 2 (1939-1945) di sản đó còn được các nhà bác học của hiệp hội Go**ttingen nghiên cứu một cách kỹ lưỡng. Hiệp hội này đã xuất bản các sáng tác của Gauss thành 12 tập. Ðiều lý thú nhất trong di sản đó là nhật ký của Gauss và những tư liệu về hình học phi Euclide và lý thuyết các hàm eliptic. Nhật ký chứa 146 bản ghi chép trong thời gian từ 30 tháng 3 năm 1796, khi cậu Guass 19 tuổi ghi lại phát minh xây dựng được hình đa giác 17 cạnh đều, cho đến tận ngày 9 tháng 7 năm 1814. Những bản ghi chép đó đã vẽ nên một bức tranh rõ nét về tính sáng tạo của Guass trong nửa đầu hoạt động khoa học của ông, những bản ghi chép đó rất vắn tắt, viết bằng tiếng La tinh, thường trình bày nội dung cơ bản của những định lý được phát minh, những tư liệu liên quan đến hình học phi Euclide cho thấy rằng Gauss đã đi đến ý nghĩ có khả năng xây dựng một hình học phi Euclide bên cạnh hình học Euclide, vào năm 1818, nhưng ngại rằng những ý nghĩ đó sẽ không được người đời chấp nhận, do đó Guass không tiến hành nghiên cứu xa hơn và không công bố. Hơn thế nữa, ông còn kiên quyết ngăn cấm những ai được ông thổ lộ quan niệm đó được công bố ra. Khi các nhà bác học Nga N.I.Lobachevski xây dựng và công bố một hình học phi Euclide, hoàn toàn độc lập với những suy nghĩ đó của Gauss, thì ông rất quan tâm theo dõi những công bố đó của N.I.Lobachevski và đã đề xướng bầu cử ông ta là ủy viên thông tấn của hiệp hội khoa học nhưng thực tế không hề cho biết sự đánh giá của chính ông về phát minh vĩ đại đó của N.I.Lobachevski."
+        "t": "(Gau-xơ, 1777-855) nhà toán học Đức, có cống hiến lớn lao cả trong thiên văn học và trắc địa học, viện sĩ thông tấn nước ngoài (1802) và viện sĩ danh dự nước ngoài (1824) Viện hàn lâm khoa học Pétersbourg. Ông sinh ra trong một gia đình thợ ống nước. Ông học tại trường Đại học tổng hợp Go**ttingen (1795-1798). Năm 1799, ông được phong chức vụ phó giáo sư tại Braunschweig (Brunswick). Năm 1807 ông được giao lãnh đạo bộ môn toán học và thiên văn học tại trường Đại học tổng hợp Go**ttingen, kèm theo chức vụ giám đốc đài thiên văn Go**ttingen. Ông giữ chức vụ này cho đến cuối đời. Nét sáng tạo đặc biệt của Gauss là mối liên hệ hữu cơ sâu sắc giữa toán học lý thuyết và thực hành trong các công trình nghiên cứu của ông và mức độ rộng lớn kỳ lạ của toàn bộ các vấn đề. Các công trình của Gauss có ảnh hưởng lớn đến sự phát triển của đại số, lý thuyết số, hình học vi phân, lý thuyết lực hấp dẫn, lý thuyết cổ điển về điện học và từ học, trắc địa học, toàn bộ các lĩnh vực của thiên văn học lý thuyết. Trong nhiều lĩnh vực của toán học, các công trình của Gauss góp phần nâng cao yêu cầu chứng minh rành mạch logic, tuy nhiên bản thân Gauss dừng lại bên lề các công trình về lập luận chặt chẽ của giải tích toán học. Tác phẩm nổi tiếng đầu tiên của Gauss về số và đại số cao cấp (\"Nghiên cứu số học\" 1801) đã định trước phần lớn sự phát triển sau này của các bộ môn đó. Vào cuối tập sách ông có trình bày lý thuyết phương trình chia đường tròn (tức phương trình xn-1 = 0) mà phần lớn là tạo ảnh của lý thuyết Galois. Ngoài các phương pháp tổng quát giải các phương trình đó ra, Gauss còn thiết lập mối liên hệ giữa chúng với phép dựng những đa giác đều. Sau các nhà bác học cổ Hy Lạp, ông là người đầu tiên đã thực hiện một bước lớn về phía trước trong vấn đề đó, cụ thể là Gauss đã tìm được tất cả giá trị n sao cho hình n-giác đều có thể dựng được bằng thước kẻ và compa, đặc biệt, sau khi giải phương trình x17-1 = 0, ông đã dựng được hình 17-giác đều bằng thước kẻ và compa. Gauss đánh giá rất cao phát minh đó và đã di chúc khắc hình 17-giác đều nội tiếp một đường tròn trên mộ chí của ông, và điều đó đã được thực hiện. Những hứng thú của Gauss về đại số học có liên quan đến một định lý cơ bản của đại số, ông đã cho vài chứng minh-cách thứ nhất vào năm 1799. Những công trình thiên văn của Guass (1800-1820) về cơ bản liên quan đến việc giải bài toán xác định quỹ đạo của những hành tinh nhỏ và việc nghiên cứu sự nhiễu loạn của chúng. Những công trình của Gauss về trắc địa học (1820-giữa 1830) liên quan đến nhiệm vụ dựng họa đồ trắc địa và lập bản đồ chi tiết của vương quốc Hannover (Hanovre), Gauss tổ chức đo cung kinh tuyến Go**ttingen-Altoma, từ kết quả nghiên cứu lý thuyết vấn đề đó ông xây dựng cơ sở cho môn trắc địa học cao cấp. Việc nghiên cứu hình dáng mặt đất đòi hỏi phải có một phương pháp hình học tổng quát sâu sắc để nghiên cứu các mặt cong. Những ý kiến do Gauss nêu lên trong các lĩnh vực đó đã được diễn đạt trong tác phẩm \"Nghiên cứu tổng quát về mặt cong\" (1827). Tư tưởng chủ đạo của tác phẩm đó tựu trung là, trong nghiên cứu một mặt được coi là một màn mềm dẻo mỏng vô hạn, điều đó có ý nghĩa cơ bản không phải là phương trình của mặt trong tọa độ Descartes mà là dạng toàn phương vi phân với 2 đặc điểm: một là, qua đó biểu diễn được bình phương của một yếu tố độ dài, và hai là, những bất biến của nó chính là toàn bộ các tính chất riêng biệt của mặt, mà trước hết là độ cong của mặt tại mỗi điểm. Các công trình nghiên cứu của Gauss về lý thuyết vật lý (1830-1840) phần lớn là kết quả của việc giao tiếp chặt chẽ và công tác khoa học chung với nhà bác học Đức W.Weber. Cùng với W.Weber, Gauss xây dựng được hệ tuyệt đối các đơn vị điện từ và chế tạo xong vào năm 1833, chiếc máy điện tín điện từ đầu tiên tại Đức. Rất nhiều công trình của Gauss còn chưa được công bố và những thư từ giao dịch với bạn bè dưới dạng bút ký, công trình chưa hoàn chỉnh, đều là di sản khoa học của ông. Cho đến tận thế chiến thứ 2 (1939-1945) di sản đó còn được các nhà bác học của hiệp hội Go**ttingen nghiên cứu một cách kỹ lưỡng. Hiệp hội này đã xuất bản các sáng tác của Gauss thành 12 tập. Điều lý thú nhất trong di sản đó là nhật ký của Gauss và những tư liệu về hình học phi Euclide và lý thuyết các hàm eliptic. Nhật ký chứa 146 bản ghi chép trong thời gian từ 30 tháng 3 năm 1796, khi cậu Guass 19 tuổi ghi lại phát minh xây dựng được hình đa giác 17 cạnh đều, cho đến tận ngày 9 tháng 7 năm 1814. Những bản ghi chép đó đã vẽ nên một bức tranh rõ nét về tính sáng tạo của Guass trong nửa đầu hoạt động khoa học của ông, những bản ghi chép đó rất vắn tắt, viết bằng tiếng La tinh, thường trình bày nội dung cơ bản của những định lý được phát minh, những tư liệu liên quan đến hình học phi Euclide cho thấy rằng Gauss đã đi đến ý nghĩ có khả năng xây dựng một hình học phi Euclide bên cạnh hình học Euclide, vào năm 1818, nhưng ngại rằng những ý nghĩ đó sẽ không được người đời chấp nhận, do đó Guass không tiến hành nghiên cứu xa hơn và không công bố. Hơn thế nữa, ông còn kiên quyết ngăn cấm những ai được ông thổ lộ quan niệm đó được công bố ra. Khi các nhà bác học Nga N.I.Lobachevski xây dựng và công bố một hình học phi Euclide, hoàn toàn độc lập với những suy nghĩ đó của Gauss, thì ông rất quan tâm theo dõi những công bố đó của N.I.Lobachevski và đã đề xướng bầu cử ông ta là ủy viên thông tấn của hiệp hội khoa học nhưng thực tế không hề cho biết sự đánh giá của chính ông về phát minh vĩ đại đó của N.I.Lobachevski."
       }
     ],
     "k": "gauss karl fridrik"
@@ -17376,7 +17376,7 @@
   },
   {
     "h": "Gauss-Markov Theorem",
-    "segs": [{"k": "m", "t": "(kinh tế) Ðịnh lý Gauss-Markov."}],
+    "segs": [{"k": "m", "t": "(kinh tế) Định lý Gauss-Markov."}],
     "k": "gauss-markov theorem"
   },
   {"h": "Gaussian", "segs": [{"k": "m", "t": "(thuộc) Gauss."}], "k": "gaussian"},
@@ -17706,7 +17706,7 @@
   },
   {
     "h": "gavial",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(động vật) cá sấu Ấn Ðộ, mõm dài."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(động vật) cá sấu Ấn Độ, mõm dài."}],
     "ipa": "'geiviəl",
     "k": "gavial"
   },

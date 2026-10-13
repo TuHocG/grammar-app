@@ -51,7 +51,7 @@
       ["- Yes, there are.", "There are two floors."]
     ],
     "vi": [
-      ["Thực hành với một bạn.", "Ðặt những câu hỏi về nhà của người đó."],
+      ["Thực hành với một bạn.", "Đặt những câu hỏi về nhà của người đó."],
       ["Nhà bạn lớn không?"],
       ["Vâng nó lớn."],
       ["Nhà bạn có đẹp không?"],
@@ -95,7 +95,7 @@
         "Sau nhà có một vườn rau.",
         "Bên trái ngôi nhà, có một cái hồ.",
         "Bên phải ngôi nhà, có những cây cao.",
-        "Ðây là ảnh."
+        "Đây là ảnh."
       ],
       ["Sớm viết thư cho mình nhé."],
       ["Thương,"],
@@ -198,8 +198,8 @@
         "Thực hành với một bạn.",
         "Xem tranh",
         "Chọn một trong những ngôi nhà.",
-        "Ðừng nói cho bạn kia biết ngôi nhà bạn chọn.",
-        "Ðặt câu hỏi để tìm ra ngôi nhà bạn kia chọn."
+        "Đừng nói cho bạn kia biết ngôi nhà bạn chọn.",
+        "Đặt câu hỏi để tìm ra ngôi nhà bạn kia chọn."
       ],
       ["Có những cái cây nào không?"],
       ["Chúng ở sau ngôi nhà phải không?"],
@@ -276,7 +276,7 @@
         "ở đây không có cửa hiệu nào cả.",
         "Có cây và hoa, có một con sông, một cái hồ và những cánh đồng lúa.",
         "Rất yên tĩnh.",
-        "Ðây là ảnh."
+        "Đây là ảnh."
       ],
       ["Có phải Ba sống ở thành phố không?", "Vâng phải.", "Không, không phải."],
       ["Có phải anh ấy sống trong một ngôi nhà không?", "Phải", "Không phải"],
@@ -310,7 +310,7 @@
       ["- No. He lives in the country."]
     ],
     "vi": [
-      ["Ðọc về Ba", "Sau đó viết về ngôi nhà của Chi."],
+      ["Đọc về Ba", "Sau đó viết về ngôi nhà của Chi."],
       ["Ba sống trong một căn hộ ở thành phố."],
       ["Gần căn hộ của anh ấy, có một cái chợ."],
       ["Rất ồn ào."],
@@ -412,12 +412,12 @@
       ["Họ đi lại bằng phương tiện gì?", "Bằng xe buýt"],
       ["Ba đi làm bằng xe máy.", "Bằng xe máy"],
       ["Lan thường đi Hà Nội bằng máy bay.", "Bằng máy bay"],
-      ["Ðôi khi Nam xuống phố bằng xe buýt.", "Bằng xe buýt"],
+      ["Đôi khi Nam xuống phố bằng xe buýt.", "Bằng xe buýt"],
       ["Nga đi học bằng xe đạp.", "Bằng xe đạp."],
       ["Tuấn luôn đi học bằng xe buýt.", "Bằng xe buýt"],
       ["Bà Hương đi khắp nơi bằng xe hơi.", "Bằng xe hơi"],
       ["ông Hà đi miền Trung Việt Nam bằng xe lửa.", "Bằng xe lửa"],
-      ["Cô Chi là giáo viên.", "Cô ấy luôn đi bộ đến trường.", "Ði bộ"]
+      ["Cô Chi là giáo viên.", "Cô ấy luôn đi bộ đến trường.", "Đi bộ"]
     ],
     "img": "img/readings/1.6.80a.webp",
     "page": "80"

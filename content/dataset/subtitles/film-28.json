@@ -82,7 +82,7 @@
       "s": 53.99
     },
     {"e": 60.01, "en": "Where're you trying to go?", "vi": "Ông đang muốn đi đâu vậy?", "s": 58.46},
-    {"e": 65.24, "en": "To the police station.", "vi": "Ðến đồn cảnh sát.", "s": 60.01},
+    {"e": 65.24, "en": "To the police station.", "vi": "Đến đồn cảnh sát.", "s": 60.01},
     {"e": 74.33, "en": "...", "vi": "...", "s": 65.24},
     {
       "e": 78.13,
@@ -99,7 +99,7 @@
     {
       "e": 90.93,
       "en": "OK. So that's down here and then turn left on the second block",
-      "vi": "Ðược rồi. Vậy là đi xuống đây, sau đó rẽ trái ở dãy nhà thứ hai",
+      "vi": "Được rồi. Vậy là đi xuống đây, sau đó rẽ trái ở dãy nhà thứ hai",
       "s": 84.62
     },
     {
@@ -108,7 +108,7 @@
       "vi": "rồi đi xuống con đường đó khoảng 1km và nó nắm đối diện cửa hàng Robinson phải không?",
       "s": 90.93
     },
-    {"e": 96.01, "en": "That's it.", "vi": "Ðúng thế.", "s": 94.97},
+    {"e": 96.01, "en": "That's it.", "vi": "Đúng thế.", "s": 94.97},
     {"e": 99.29, "en": "Thanks.", "vi": "Cám ơn.", "s": 96.01},
     {"e": 105.2, "en": "...", "vi": "...", "s": 99.29},
     {
@@ -214,7 +214,7 @@
       "vi": "Vậy tôi rẽ trái ở ngã tư này, chứ không phải ở ngã tư kế tiếp.",
       "s": 216.17
     },
-    {"e": 227.21, "en": "That's right.", "vi": "Ðúng rồi.", "s": 225.37},
+    {"e": 227.21, "en": "That's right.", "vi": "Đúng rồi.", "s": 225.37},
     {"e": 230.96, "en": "Thanks.", "vi": "Cám ơn.", "s": 227.21},
     {"e": 238.82, "en": "...", "vi": "...", "s": 230.96},
     {
@@ -239,10 +239,10 @@
     {
       "e": 265.21,
       "en": "Sure, turn right here and go down about four blocks then turn left.",
-      "vi": "Ðược, rẽ phải ở đây và đi qua khoảng 4 dãy nhà rồi rẽ trái.",
+      "vi": "Được, rẽ phải ở đây và đi qua khoảng 4 dãy nhà rồi rẽ trái.",
       "s": 259.02
     },
-    {"e": 266.68, "en": "That is Warren Road.", "vi": "Ðó là đường Warren.", "s": 265.21},
+    {"e": 266.68, "en": "That is Warren Road.", "vi": "Đó là đường Warren.", "s": 265.21},
     {
       "e": 270.03,
       "en": "Go down there and you will see it on the left side of the street.",
@@ -260,7 +260,7 @@
     {
       "e": 294.86,
       "en": "Walk down Warren Road and the bakery is on the left side of the street.",
-      "vi": "Ði bộ xuống đường Warren và tiệm bánh ở phía bên trái con đường đó.",
+      "vi": "Đi bộ xuống đường Warren và tiệm bánh ở phía bên trái con đường đó.",
       "s": 289.44
     },
     {
@@ -288,7 +288,7 @@
       "vi": "rẽ phải ở đây và đi qua khoảng 4 dãy nhà rồi rẽ trái.",
       "s": 312.95
     },
-    {"e": 319.23, "en": "That is Warren Road.", "vi": "Ðó là đường Warren.", "s": 317.91},
+    {"e": 319.23, "en": "That is Warren Road.", "vi": "Đó là đường Warren.", "s": 317.91},
     {
       "e": 322.67,
       "en": "Go down there and you will see it on the left side of the street.",
@@ -304,7 +304,7 @@
       "vi": "Tìm nhà bạn tôi. Anh ấy sống ở số 3908 đường Randcliff.",
       "s": 336.9
     },
-    {"e": 344.47, "en": "Randcliff. Oh, yes.", "vi": "Ðường Randcliff. Ồ, vâng.", "s": 341.85},
+    {"e": 344.47, "en": "Randcliff. Oh, yes.", "vi": "Đường Randcliff. Ồ, vâng.", "s": 341.85},
     {
       "e": 349.63,
       "en": "Go down this road until you come to the 2nd intersection.",
@@ -321,7 +321,7 @@
     {
       "e": 360.42,
       "en": "Randcliff is your first left.",
-      "vi": "Ðường Randcliff là con đường đầu tiên nằm ở phía bên trái của bà.",
+      "vi": "Đường Randcliff là con đường đầu tiên nằm ở phía bên trái của bà.",
       "s": 357.97
     },
     {
@@ -351,7 +351,7 @@
     {
       "e": 385.26,
       "en": "OK, this has been very helpful. Thank you.",
-      "vi": "Ðược, vậy là tốt rồi. Cám ơn ông.",
+      "vi": "Được, vậy là tốt rồi. Cám ơn ông.",
       "s": 381.07
     },
     {"e": 394.45, "en": "...", "vi": "...", "s": 385.26},
@@ -371,7 +371,7 @@
     {
       "e": 410.81,
       "en": "Randcliff is your first left.",
-      "vi": "Ðường Randcliff là con đường đầu tiên nằm ở phía bên trái của bà.",
+      "vi": "Đường Randcliff là con đường đầu tiên nằm ở phía bên trái của bà.",
       "s": 408.16
     },
     {"e": 422.26, "en": "...", "vi": "...", "s": 410.81},
@@ -397,7 +397,7 @@
     {
       "e": 439.72,
       "en": "That will be Warren Road.",
-      "vi": "Ðó sẽ là đường Warren Road.",
+      "vi": "Đó sẽ là đường Warren Road.",
       "s": 437.81
     },
     {
@@ -427,13 +427,13 @@
     {
       "e": 463.74,
       "en": "The hospital will be down Rushmore about a mile on your left side.",
-      "vi": "Ði xuống đường Rushmore thì bệnh viện đó sẽ nằm ở phía bên trái của ông.",
+      "vi": "Đi xuống đường Rushmore thì bệnh viện đó sẽ nằm ở phía bên trái của ông.",
       "s": 459.13
     },
     {
       "e": 467.68,
       "en": "OK, I think I got it now.",
-      "vi": "Ðược rồi, tôi nghĩ bây giờ thì tôi hiểu rồi.",
+      "vi": "Được rồi, tôi nghĩ bây giờ thì tôi hiểu rồi.",
       "s": 463.74
     },
     {"e": 471.19, "en": "Well, good luck.", "vi": "Vậy thì chúc ông may mắn nhé.", "s": 467.68},
@@ -447,19 +447,19 @@
     {
       "e": 485.49,
       "en": "That will be Warren Road.",
-      "vi": "Ðó sẽ là đường Warren Road.",
+      "vi": "Đó sẽ là đường Warren Road.",
       "s": 483.39
     },
     {
       "e": 492.04,
       "en": "Go down Warren Road for about 4 miles, then hang a right at Rushmore Avenue.",
-      "vi": "Ði xuống đường Warren khoảng 4 dặm, rồi rẽ phải ở đại lộ Rushmore.",
+      "vi": "Đi xuống đường Warren khoảng 4 dặm, rồi rẽ phải ở đại lộ Rushmore.",
       "s": 485.49
     },
     {
       "e": 496.65,
       "en": "The hospital will be down Rushmore about a mile on your left side.",
-      "vi": "Ði xuống đường Rushmore thì bệnh viện đó sẽ nằm ở phía bên trái của ông.",
+      "vi": "Đi xuống đường Rushmore thì bệnh viện đó sẽ nằm ở phía bên trái của ông.",
       "s": 492.04
     },
     {"e": 503.81, "en": "...", "vi": "...", "s": 496.65},
@@ -511,7 +511,7 @@
       "vi": "Và đồn cảnh sát ở kế bên hiệu giặt tự động.",
       "s": 534.49
     },
-    {"e": 540.14, "en": "That's correct.", "vi": "Ðúng rồi.", "s": 537.79},
+    {"e": 540.14, "en": "That's correct.", "vi": "Đúng rồi.", "s": 537.79},
     {
       "e": 543.74,
       "en": "I could probably find it.",
@@ -558,7 +558,7 @@
       "vi": "Xin cô cho tôi biết siêu thị gần nhất ở đâu?",
       "s": 571.93
     },
-    {"e": 577.87, "en": "Sure. It's kind of far.", "vi": "Ðược. Nó tương đối xa.", "s": 575.13},
+    {"e": 577.87, "en": "Sure. It's kind of far.", "vi": "Được. Nó tương đối xa.", "s": 575.13},
     {
       "e": 583.03,
       "en": "Go down this street until you come to the Mayfair intersection, then turn right.",
@@ -568,7 +568,7 @@
     {
       "e": 585.86,
       "en": "Go down that road for about 4 miles,",
-      "vi": "Ði xuống con đường đó khoảng 4 dặm,",
+      "vi": "Đi xuống con đường đó khoảng 4 dặm,",
       "s": 583.03
     },
     {
@@ -594,7 +594,7 @@
     {
       "e": 606.51,
       "en": "Go down that road for about 4 miles, then turn right again on Casper Boulevard.",
-      "vi": "Ði xuống đường đó khoảng 4 dặm rồi lại quẹo phải vào đại lộ Casper.",
+      "vi": "Đi xuống đường đó khoảng 4 dặm rồi lại quẹo phải vào đại lộ Casper.",
       "s": 601.19
     },
     {
@@ -709,11 +709,11 @@
       "vi": "Hãy đi dọc theo con đường này đến khi ông tới đại lộ Swensen.",
       "s": 684.78
     },
-    {"e": 690.85, "en": "Swensen Avenue, okay.", "vi": "Ðại lộ Swensen, được rồi.", "s": 688.58},
+    {"e": 690.85, "en": "Swensen Avenue, okay.", "vi": "Đại lộ Swensen, được rồi.", "s": 688.58},
     {
       "e": 695.14,
       "en": "Yeah, make a right there then walk for about four blocks.",
-      "vi": "Ðúng, rẽ phải ở đó rồi đi bộ khoảng 4 dãy nhà.",
+      "vi": "Đúng, rẽ phải ở đó rồi đi bộ khoảng 4 dãy nhà.",
       "s": 690.85
     },
     {
@@ -728,7 +728,7 @@
       "vi": "Vậy cứ đi đến con đường lớn, rẽ phải rồi đi thẳng khoảng 4 dãy nhà phải không?",
       "s": 699.56
     },
-    {"e": 709.83, "en": "That's it. Good luck.", "vi": "Ðúng vậy. Chúc may mắn.", "s": 707.67},
+    {"e": 709.83, "en": "That's it. Good luck.", "vi": "Đúng vậy. Chúc may mắn.", "s": 707.67},
     {"e": 711.96, "en": "Thanks for your help.", "vi": "Cám ơn bà đã giúp đỡ.", "s": 709.83},
     {
       "e": 720.89,

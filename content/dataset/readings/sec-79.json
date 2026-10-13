@@ -85,7 +85,7 @@
         "Ba, cám ơn bạn đã mời tôi đến dự lễ hội nấu cơm.",
         "Bạn có thể giải thích chuyện gì đang xảy ra không?"
       ],
-      ["Ðược chứ.", "Có ba cuộc thi: lấy nước, nhóm lửa và nấu cơm."],
+      ["Được chứ.", "Có ba cuộc thi: lấy nước, nhóm lửa và nấu cơm."],
       ["Lấy nước ở đâu?"],
       [
         "Có một con sông cách đây khoảng 1 kilômét.",
@@ -143,7 +143,7 @@
     "vi": [
       ["Thực hành bài hội thoại với một bạn."],
       [
-        "Ðúng hay sai?",
+        "Đúng hay sai?",
         "Hãy đánh dấu (V) vào các ô.",
         "Sau đó sửa lại các câu sai rồi viết vào vở bài tập của bạn."
       ],
@@ -194,7 +194,7 @@
       ],
       ["Con đã dọn các phòng ngủ chưa?"],
       ["Dạ rồi", "Mẹ định đi đâu vậy?"],
-      ["Ði chợ.", "Mẹ phải mua một ít cam và vài quả lựu."],
+      ["Đi chợ.", "Mẹ phải mua một ít cam và vài quả lựu."],
       ["Mẹ lấy giúp con chiếc áo dài mới ở tiệm may góc phố được không ạ?"],
       ["Tất nhiên rồi.", "Mẹ sẽ lấy."],
       ["Cám ơn mẹ.", "Có việc gì mẹ muốn con làm trong khi mẹ đi chợ không?"],
@@ -276,7 +276,7 @@
       ["Việc gì vậy mẹ?"],
       ["Con có bận không?"],
       ["Dạ không.", "Mẹ cần gì vậy?"],
-      ["ừ", "Ðến chợ và mua ít kẹo và một gói hạt dưa nhé."],
+      ["ừ", "Đến chợ và mua ít kẹo và một gói hạt dưa nhé."],
       ["Vâng.", "Mẹ sẽ làm gì?"],
       ["Mẹ sẽ đến cửa hàng của bà Nga.", "Bà ấy sẽ chỉ mẹ cách làm chả giò."],
       ["Bà Robinson muốn chồng bà đến chợ hoa."],
@@ -344,7 +344,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       ["Lễ Giáng sinh là một lễ hội quan trọng tại nhiều quốc gia trên khắp thế giới."],
       ["Cây Giáng sinh"],
       [
@@ -516,7 +516,7 @@
         "Người ta biểu diễn múa rồng trong sân chùa Trình và đua thuyền rồng.",
         "Lễ hội được tổ chức ở 3 nơi: Hương Tích, Tuyết sơn, Long vân.",
         "Lễ hội đông nhất là từ ngày 15-20 tháng 2 âm lịch và được xem là thời điểm chính của lễ hội.",
-        "Ðường lên núi từ chùa Ngoài vào chùa Trong đầy khách du lịch lên xuống.",
+        "Đường lên núi từ chùa Ngoài vào chùa Trong đầy khách du lịch lên xuống.",
         "Hành hương đến chùa Hương không chỉ thể hiện đức tin tôn giáo",
         "mà còn cho thấy những loại hình đa dạng về phong cảnh và công trình kiến trúc của quốc gia."
       ]
@@ -561,7 +561,7 @@
       ["Trong lễ hội nấu ăn, lửa được tạo ra theo cách truyền thống."],
       ["Một cuộc thi hùng biện tiếng Anh sẽ được tổ chức ở trường Nguyễn Huệ vào tháng sau."],
       ["Hôm qua, giải đầu tiên được thưởng cho đội Mekong ngay sau trận chung kết."],
-      ["Bài hát mừng Giáng sinh \"Ðêm thánh\" được viết ở úc bởi Franz Gruber vào thế kỷ 19."]
+      ["Bài hát mừng Giáng sinh \"Đêm thánh\" được viết ở úc bởi Franz Gruber vào thế kỷ 19."]
     ],
     "img": "img/readings/1.8.128a.webp",
     "page": "128"
@@ -590,7 +590,7 @@
     "vi": [
       ["Hãy hoàn tất bài hội thoại.", "Dùng các động từ trong khung."],
       ["Hạnh và mẹ vừa từ chợ về nhà."],
-      ["Mẹ ơi! Ðã xảy ra sự cố gì trong bếp kìa."],
+      ["Mẹ ơi! Đã xảy ra sự cố gì trong bếp kìa."],
       ["Cái gì vậy?"],
       ["Mẹ xem này.", "Tủ chạn bị mở và mọi thứ bị rối tung."],
       ["ôi không", "Cái lọ tôi thích đã bể rồi."],
@@ -626,9 +626,9 @@
     "vi": [
       ["Hãy viết lại các câu vào vở bài tập của bạn.", "Sử dụng từ ghép trong câu của bạn."],
       ["Nó là cuộc thi mà trong đó chủ yếu là tạo ra lửa."],
-      ["Ðó là cuộc thi nhóm lửa."],
+      ["Đó là cuộc thi nhóm lửa."],
       ["Nó là cuộc thi mà trong đó người ta cho bò húc nhau."],
-      ["Ðó là lễ hội đấu bò."],
+      ["Đó là lễ hội đấu bò."],
       ["Nước Mỹ có ngành công nghiệp lớn sản xuất xe hơi."],
       ["Nước Mỹ có ngành công nghiệp sản xuất xe hơi lớn mạnh."],
       [
@@ -637,8 +637,8 @@
       ["Tuần trước, trường Trần Hưng đạo đã tổ chức một cuộc thi cắm hoa."],
       ["Việt Nam là một quốc gia mà quốc gia này xuất khẩu nhiều gạo."],
       ["Việt Nam là một quốc gia xuất khẩu gạo."],
-      ["Ðây là máy mà chiếc máy này dùng để giặt quần áo."],
-      ["Ðây là máy giặt quần áo."]
+      ["Đây là máy mà chiếc máy này dùng để giặt quần áo."],
+      ["Đây là máy giặt quần áo."]
     ],
     "img": "img/readings/1.8.130a.webp",
     "page": "130"
@@ -674,7 +674,7 @@
       ["ông ấy nói ông ấy là thợ sửa ống nước."],
       ["Tôi có thể sửa vòi nước."],
       ["ông ấy nói ông ấy có thể sửa vòi nước."],
-      ["Ðường ống bị bể."],
+      ["Đường ống bị bể."],
       ["ông ấy nói đường ống bị bể."],
       ["ống mới rất đắt."],
       ["ông ấy nói ống mới rất đắt."],

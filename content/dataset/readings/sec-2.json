@@ -225,10 +225,10 @@
       ["10 giờ sáng à?"],
       ["Không, vào lúc tối."],
       ["Xin lỗi, trễ quá.", "Tôi thường đi ngủ lúc 10 giờ tối."],
-      ["Ðược rồi, vậy 1 giờ 30 trưa nhé?"],
+      ["Được rồi, vậy 1 giờ 30 trưa nhé?"],
       ["Không, sớm quá.", "Lúc đó tôi vẫn đang làm việc."],
       ["Thế thì 5 giờ chiều được không?"],
-      ["Ðược đấy."],
+      ["Được đấy."],
       ["ừ, hẹn gặp bạn nhé."],
       ["được rồi, chào."]
     ],
@@ -379,7 +379,7 @@
       ["Bây giờ đi tốt hơn."],
       ["ừ, chúng ta đi."],
       ["Chúng ta đi bộ nhé?"],
-      ["Không, xa lắm đó.", "Ðón xe đi."]
+      ["Không, xa lắm đó.", "Đón xe đi."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -418,7 +418,7 @@
       ["25 đô la.", "Như vậy có đủ không?"],
       ["Như vậy đâu có nhiều."],
       ["Tôi nghĩ là được rồi.", "Tôi còn 2 thẻ tín dụng mà."],
-      ["Ðể tôi đưa bạn thêm 10 đô nữa."],
+      ["Để tôi đưa bạn thêm 10 đô nữa."],
       ["Cảm ơn.", "Gặp sau nhé."],
       ["Tạm biệt."]
     ],
@@ -545,7 +545,7 @@
       ["Còn cái ở cạnh cái bao tay đen kia?", "Nó giống cái ông thích."],
       ["Cái đó được.", "Nó bao nhiêu vậy?"],
       ["30 đô la."],
-      ["Ðược đấy."],
+      ["Được đấy."],
       ["Màu này được không hay ông thích màu khác?"],
       ["Cái màu xanh kia được lắm."],
       ["Ông có cần lấy thêm áo loại này nữa không?"],
@@ -580,7 +580,7 @@
       ["Không, nó không xa."],
       ["Nó xa bao nhiêu?"],
       ["Khoảng một dặm rưỡi."],
-      ["Ðến đó mất bao lâu?"],
+      ["Đến đó mất bao lâu?"],
       ["Khoảng 5 phút."],
       ["Nó có ở gần ga tàu điện không?"],
       ["Vâng nó rất gần.", "Ga tàu nằm sát bên khách sạn.", "Bạn có thể đi bộ đến đó."],
@@ -612,7 +612,7 @@
       ["Xin lỗi.", "Bạn biết đường nào đi tới khu mua sắm không?"],
       [
         "Có, tôi làm việc ở đó mà.",
-        "Ði thẳng khoảng một dặm rồi quẹo phải chỗ đèn kia.",
+        "Đi thẳng khoảng một dặm rồi quẹo phải chỗ đèn kia.",
         "Khu mua sắm nằm bên tay phải."
       ],
       ["Bạn biết địa chỉ không?"],
@@ -620,7 +620,7 @@
       ["Xin bạn viết nó vào giấy hộ tôi nhé?"],
       ["không sao."],
       ["Liệu có nhanh hơn nếu tôi đi theo đại lộ Highland không?"],
-      ["Không, đường đó dài hơn đấy.", "Ðường đó có nhiều đèn dừng lắm."],
+      ["Không, đường đó dài hơn đấy.", "Đường đó có nhiều đèn dừng lắm."],
       ["ừ chắc bạn nói đúng.", "Cảm ơn bạn."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -686,7 +686,7 @@
     "vi": [
       ["Người phụ nữ kia là ai vậy?"],
       ["Joseph, người phụ nữ kia là ai vậy?"],
-      ["Ðó là Susan."],
+      ["Đó là Susan."],
       ["Cô ấy làm gì vậy?"],
       ["Cô ấy là luật sư."],
       ["Cô ấy là người Mỹ à?"],
@@ -776,8 +776,8 @@
       ["ồ, Khi nào nó đóng cửa?"],
       ["Nó đóng cửa lúc 7 giờ vào những ngày Chúa nhật."],
       ["Tệ quá nhỉ."],
-      ["Ðừng lo, chúng ta có thể đến vào sáng mai.", "Nó mở cửa lúc 8 giờ."],
-      ["Ðược.", "Giờ bạn muốn làm gì?"],
+      ["Đừng lo, chúng ta có thể đến vào sáng mai.", "Nó mở cửa lúc 8 giờ."],
+      ["Được.", "Giờ bạn muốn làm gì?"],
       [
         "Chúng ta hãy đi bộ nửa tiếng.",
         "Em gái tôi sẽ đến đây lúc 8 giờ 30 và chúng ta sẽ cùng đi ăn tối."
@@ -910,14 +910,14 @@
       ["Không, Tôi nghĩ nó rơi ra khỏi túi khi tôi ở trong taxi."],
       ["Tôi có thể làm gì đây?"],
       ["Tôi có thể mượn ít tiền được không?"],
-      ["Ðược chứ, bạn cần bao nhiêu?"],
+      ["Được chứ, bạn cần bao nhiêu?"],
       ["Khoảng 50 đô la."],
       ["Chuyện nhỏ."],
       ["Cảm ơn.", "Tôi sẽ trả lại bạn vào thứ Sáu."],
-      ["Ðược rồi.", "Ðây."],
+      ["Được rồi.", "Đây."],
       ["Giờ bạn định làm gì?"],
       ["Tôi sẽ mua vài quyển sách và đến trạm xăng."],
-      ["Ðợi tôi một phút nhé, tôi sẽ đi với bạn."],
+      ["Đợi tôi một phút nhé, tôi sẽ đi với bạn."],
       ["ừ.", "Tôi sẽ đợi bạn."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -947,7 +947,7 @@
       ["Bye bye."]
     ],
     "vi": [
-      ["Ðiện thoại khi làm việc"],
+      ["Điện thoại khi làm việc"],
       ["Xin chào, ai vậy?"],
       ["Xin chào, có James ở đó không?"],
       ["Có.", "Ai gọi vậy?"],
@@ -994,7 +994,7 @@
       ["Thanks."]
     ],
     "vi": [
-      ["Ði nghỉ với gia đình"],
+      ["Đi nghỉ với gia đình"],
       ["David, vừa qua bạn làm gì vậy?"],
       ["Tuần qua, tôi đi nghỉ với gia đình."],
       ["Vậy à?", "Ở đâu vậy?"],
@@ -1070,7 +1070,7 @@
       ["Paul, Bạn thích nghe loại nhạc nào?"],
       ["Tất cả các loại, nhưng nhất là Pop, rock và cổ điển.", "Sao?"],
       ["Tôi có vé xem buổi diễn.", "Bạn đi với tôi không?"],
-      ["Ðó là nhạc gì?"],
+      ["Đó là nhạc gì?"],
       ["Nhạc Pop của Mariah Carey."],
       ["Buổi diễn khi nào?"],
       ["Lúc 8 giờ tối mai."],
@@ -1113,14 +1113,14 @@
       ["Chúng ta sẽ đi bộ hay đón xe?"],
       ["Hôm nay trời đẹp chúng ta sẽ đi bộ."],
       ["Bây giờ thì trời đẹp, nhưng tôi nghĩ chắc chiều nay có mưa."],
-      ["Ðược rồi, chúng ta sẽ đem dù theo.", "Em trai bạn có đi với chúng ta không?"],
+      ["Được rồi, chúng ta sẽ đem dù theo.", "Em trai bạn có đi với chúng ta không?"],
       ["Không, nó vẫn đang ngủ."],
-      ["ồ, 10 giờ sáng rồi.", "Ðêm qua chắc nó thức khuya."],
+      ["ồ, 10 giờ sáng rồi.", "Đêm qua chắc nó thức khuya."],
       ["ừ, 12 giờ trưa nó mới về nhà."],
       ["Tôi hi vọng nó sẽ đến sau."],
       ["Tôi cũng mong như thế.", "Tôi sẽ gọi điện cho nó khi chúng ta đến đó."],
-      ["Ði đường nào đến thư viện?"],
-      ["Ði thẳng xuống con đường này, phía bên trái, cạnh bảo tàng viện.", "Mất khoảng 10 phút."]
+      ["Đi đường nào đến thư viện?"],
+      ["Đi thẳng xuống con đường này, phía bên trái, cạnh bảo tàng viện.", "Mất khoảng 10 phút."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -1204,11 +1204,11 @@
       ["Nó dưới cái bàn."],
       ["Cây bút chì của tôi ở đâu?"],
       ["Có cây bút chì đằng trước cái đèn kìa."],
-      ["Ðó không phải bút chì.", "Ðó là bút mực."],
+      ["Đó không phải bút chì.", "Đó là bút mực."],
       ["Ồ, xin lỗi.", "Có cây bút chì sau cái tách kìa."],
       ["Còn cái túi xách của tôi?", "Bạn biết nó ở đâu không?"],
       ["Nó ở giữa bức tường và chiếc giường."],
-      ["Ðôi giày của tôi ở đâu?"],
+      ["Đôi giày của tôi ở đâu?"],
       ["Chúng ở bên trái chiếc tivi."],
       ["Tôi không thấy chúng."],
       ["Xin lỗi, tôi nhầm.", "Chúng ở bên phải chiếc Tivi."],
@@ -1247,7 +1247,7 @@
       ["Vâng, được ạ.", "Vâng đây ạ.", "25 đô."],
       ["Bạn có nhận thẻ tín dụng không?"],
       ["vâng, chúng tôi nhận thẻ Visa và MasterCard."],
-      ["Ðược, vậy nó đây."],
+      ["Được, vậy nó đây."],
       ["cảm ơn.", "Tôi sẽ quay lại ngay."],
       ["ừ."],
       ["Hóa đơn của bạn đây."],
@@ -1305,10 +1305,10 @@
         "Vé cho chuyến bay đó đã bán hết."
       ],
       ["Chuyến tiếp theo được không?"],
-      ["Ðể tôi xem.", "Ðược, chuyến đó vẫn còn vé.", "Bạn có muốn tôi lấy một vé cho bạn không?"],
+      ["Để tôi xem.", "Được, chuyến đó vẫn còn vé.", "Bạn có muốn tôi lấy một vé cho bạn không?"],
       ["Có."],
       ["120 đô la."],
-      ["Ðược."],
+      ["Được."],
       ["Cảm ơn, tiền thừa của bạn đây."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -1340,23 +1340,23 @@
     "vi": [
       ["Sắp xếp mọi thứ"],
       ["Michelle, bạn có thể giúp tôi dọn dẹp mọi thứ trước khi chúng ta đi không?"],
-      ["Ðược chứ.", "Tôi nên đặt cái tách này ở đâu?"],
+      ["Được chứ.", "Tôi nên đặt cái tách này ở đâu?"],
       ["tách nào?"],
       ["cái màu đỏ."],
-      ["Ðặt nó ở đầu bàn."],
+      ["Đặt nó ở đầu bàn."],
       ["Còn những trái cây này?"],
       ["à, cái đó thì để trong tủ lạnh."],
       ["Còn những cây bút chì này?", "Tôi nên làm gì với chúng?"],
-      ["Ðem chúng lên lầu và để chúng trong phòng ngủ."],
+      ["Đem chúng lên lầu và để chúng trong phòng ngủ."],
       ["Còn cây bút mực này?"],
-      ["Ðưa nó cho tôi.", "Tôi cần dùng nó."],
+      ["Đưa nó cho tôi.", "Tôi cần dùng nó."],
       ["Bạn muốn tôi làm gì với tờ báo ở đằng kia?"],
       ["Bạn có thể quẳng nó đi.", "Tôi không cần nó nữa."],
       ["Thùng rác đầy rồi."],
       ["Thôi được, vậy để nó vào bao và mang ra ngoài."],
       ["Xong rồi.", "Bây giờ làm gì?"],
       ["Tôi nghĩ chúng ta đã xong việc.", "Bạn tắt đèn và đóng cửa lại nhé?"],
-      ["Ðược."]
+      ["Được."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -1401,7 +1401,7 @@
       ["Tôi muốn ăn tôm hùm.", "Còn bạn gọi món gì?"],
       ["Tôi chưa thấy đói.", "Tôi chỉ muốn ăn salad."],
       ["Tôi đi vệ sinh.", "Khi nào người phục vụ trở lại thì bạn gọi món hộ tôi nhé?"],
-      ["Ðược rồi.", "Chuyện nhỏ."]
+      ["Được rồi.", "Chuyện nhỏ."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -1436,7 +1436,7 @@
       ["Chào Anna, vào đi."],
       ["ồ, nhà bạn bề bộn quá."],
       ["Tôi biết, tôi không có thời gian dọn dẹp mọi thứ trước khi bạn đến."],
-      ["Nhìn kìa! Ðống quần áo trên ghế dài kia là của bạn phải không?"],
+      ["Nhìn kìa! Đống quần áo trên ghế dài kia là của bạn phải không?"],
       ["ừ."],
       ["Chúng sạch không?"],
       [
@@ -1494,8 +1494,8 @@
       ["Tôi cần mua vài món trước khi tôi đi."],
       ["Ồ, bạn có thể đi xuống đường số 22.", "Có nhiều cửa hàng ở đó mở cửa suốt 24 giờ 1 ngày."],
       ["Tôi có thể đi xe điện ngầm tới đó được không?"],
-      ["Ðược, nhưng như vậy mất khoảng nửa tiếng.", "Bạn nên đi tắc xi."],
-      ["Ði như vậy không đắt sao?"],
+      ["Được, nhưng như vậy mất khoảng nửa tiếng.", "Bạn nên đi tắc xi."],
+      ["Đi như vậy không đắt sao?"],
       ["Không, từ đây tôi nghĩ chỉ tốn khoảng 5 đô."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -1523,11 +1523,11 @@
       ["Las Vegas is in the southwest."]
     ],
     "vi": [
-      ["Ðịa lý và phương hướng"],
+      ["Địa lý và phương hướng"],
       ["Thưa giáo sư, Canada ở đâu?"],
       ["Canada ở phía bắc của nơi này"],
       ["Thầy có thể chỉ cho tôi trên bản đồ được không?"],
-      ["Ðược chứ.", "Xem đây.", "Canada ở phía Bắc của nước Mỹ."],
+      ["Được chứ.", "Xem đây.", "Canada ở phía Bắc của nước Mỹ."],
       ["Ô, tôi thấy rồi.", "Mexico ở đâu?"],
       ["Mexico ở phía nam của nước Mỹ."],
       ["Còn Connecticut?", "Nơi đó ở đâu?"],
@@ -1569,7 +1569,7 @@
       ["Thức ăn không ngon lắm, thực sự là bây giờ tôi không cảm thấy khỏe."],
       ["Tệ quá.", "Bạn muốn nghỉ một lúc không?"],
       ["Không. Tôi sẽ trở lại khách sạn vào giờ ăn trưa để nằm nghỉ."],
-      ["Ðược.", "Lát nữa tôi sẽ đi tới tiệm thuốc tây.", "Tôi có thể mua cho bạn thứ gì không?"],
+      ["Được.", "Lát nữa tôi sẽ đi tới tiệm thuốc tây.", "Tôi có thể mua cho bạn thứ gì không?"],
       ["Không, được thôi.", "Tôi nghĩ là nếu tôi nghỉ một lúc tôi sẽ cảm thấy khỏe hơn."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -1600,7 +1600,7 @@
       ["Yes, I like that place."]
     ],
     "vi": [
-      ["Ði xem phim"],
+      ["Đi xem phim"],
       ["Ann, bạn muốn làm gì tối nay?"],
       ["Tôi muốn đi xem phim."],
       ["Tôi nghe nói phim Titanic đang chiếu ở rạp."],
@@ -1609,7 +1609,7 @@
       ["Bạn sẽ đến đón tôi chứ?"],
       ["Mấy giờ?"],
       ["Tôi nghĩ chúng ta nên đến đó sớm vì họ có thể bán hết vé.", "5 giờ chiều được không?"],
-      ["Ðược, như vậy tốt rồi.", "Tôi sẽ đón bạn ở nhà bạn lúc: 5 giờ chiều."],
+      ["Được, như vậy tốt rồi.", "Tôi sẽ đón bạn ở nhà bạn lúc: 5 giờ chiều."],
       ["Bạn muốn mua đồ ăn trước buổi chiếu phim không?"],
       [
         "Tôi không nghĩ có đủ thời gian cho việc đó.",
@@ -1619,7 +1619,7 @@
       [
         "Thôi được. Tôi sẽ đón bạn sớm hơn một chút và chúng ta có thể đi đến nhà hàng Thái bên cạnh rạp chiếu phim. Như vậy được không?"
       ],
-      ["Ðược, tôi thích nơi đó."]
+      ["Được, tôi thích nơi đó."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -1653,7 +1653,7 @@
       ["ồ.", "Bạn muốn một ít súp thay vào đó không?"],
       ["Súp gì?"],
       ["Cà chua và gạo.", "Bạn đã ăn món đó trước đây chưa?"],
-      ["Chưa.", "Ðây là lần đầu tiên.", "Nó có ngon không?"],
+      ["Chưa.", "Đây là lần đầu tiên.", "Nó có ngon không?"],
       ["Nó ngon lắm, cứ thử đi.", "Bạn thấy sao?"],
       ["Chà, nó ngon lắm.", "Bạn cũng đã làm món đó hả?"],
       ["ừ"],
@@ -1698,18 +1698,18 @@
     "vi": [
       ["Giúp bạn chuyển chỗ ở"],
       ["Kelly, bạn có thể giúp tôi đưa mấy thứ này ra xe được không?"],
-      ["Ðược rồi, bạn muốn tôi đem chúng vào xe nào?"],
-      ["Ðem chúng vào xe của vợ tôi."],
+      ["Được rồi, bạn muốn tôi đem chúng vào xe nào?"],
+      ["Đem chúng vào xe của vợ tôi."],
       ["Xe nào của bà ấy?"],
       ["Chiếc SUV xanh trước chiếc Honda."],
       ["Tôi phải khiêng thứ gì trước?"],
       ["Chiếc ghế ở đằng kia, nhưng làm ơn cẩn thận.", "Nó là một món quà từ mẹ vợ tôi."],
       [
-        "Ðừng lo, tôi không làm rơi nó đâu.",
+        "Đừng lo, tôi không làm rơi nó đâu.",
         "Chà nó nặng thật.",
         "Chắc tôi không khiêng nổi nó đâu."
       ],
-      ["Ðể tôi giúp bạn.", "Tôi không muốn bạn bị đau lưng."],
+      ["Để tôi giúp bạn.", "Tôi không muốn bạn bị đau lưng."],
       ["Bạn mang tất cả mấy thứ này đi đâu?"],
       ["Tôi chưa nói với bạn à?", "Chúng tôi chuyển đi Florida."],
       [
@@ -1818,7 +1818,7 @@
     ],
     "vi": [
       ["Xem ảnh nghỉ mát."],
-      ["Jim, tôi nghe nói bạn có một chuyến đi đến San Diego.", "Ðúng không?"],
+      ["Jim, tôi nghe nói bạn có một chuyến đi đến San Diego.", "Đúng không?"],
       ["ừ, sáng nay tôi vừa về."],
       ["Nghe thú vị đấy.", "Bạn làm gì ở đó?"],
       [
@@ -1829,7 +1829,7 @@
       ["Bạn có chụp tấm hình nào không?"],
       ["Có. Tôi có mang chúng đây.", "Bạn có muốn xem không?"],
       ["Có chứ, tôi thích xem ảnh lắm."],
-      ["Ðây là ảnh vợ và tôi trên bãi biển và đây là ảnh con gái chúng tôi Emily đứng cạnh vợ tôi."],
+      ["Đây là ảnh vợ và tôi trên bãi biển và đây là ảnh con gái chúng tôi Emily đứng cạnh vợ tôi."],
       ["Con gái bạn trông giống mẹ."],
       ["Tôi biết, họ rất giống nhau."],
       ["Tấm ảnh này chụp ở đâu?"],
@@ -1867,7 +1867,7 @@
       ["Alright, they'll be there within 2 hours."]
     ],
     "vi": [
-      ["Ðặt mua hoa."],
+      ["Đặt mua hoa."],
       ["Xin chào, tôi có thể giúp gì cho bạn?"],
       ["Chào, tôi muốn đặt mua vài bông hoa."],
       ["Chúng dành tặng cho ai?"],
@@ -1884,7 +1884,7 @@
       ["Tôi nghĩ màu đỏ sẽ hay."],
       ["Bạn muốn tới lấy hay chúng tôi đưa tới nhà?"],
       ["Bạn có thể giao chúng tới nhà được không?"],
-      ["Ðịa chỉ ở đâu?"],
+      ["Địa chỉ ở đâu?"],
       ["241 phố chính."],
       ["Dạ được, trong vòng 2 giờ đồng hồ chúng sẽ ở đó."]
     ],
@@ -1918,7 +1918,7 @@
       ["OK.", "Thanks.", "Bye bye."]
     ],
     "vi": [
-      ["Ðể lại một tin nhắn"],
+      ["Để lại một tin nhắn"],
       ["Xin chào?"],
       ["Chào, Heacther có đó không?"],
       ["Xin lỗi, tôi nghĩ bạn đã gọi nhầm số."],
@@ -2029,14 +2029,14 @@
       ],
       ["Thứ Sáu không được đâu.", "Tôi nghĩ cửa hàng sẽ rất đông và tôi thì bận việc."],
       [
-        "Ðược, vậy chúng ta sẽ gắng đi cuối tuần tới.",
+        "Được, vậy chúng ta sẽ gắng đi cuối tuần tới.",
         "Vào thứ sáu tôi sẽ biết tôi có thể đi được không.",
         "Tôi gọi điện thoại cho bạn khi đó được không?"
       ],
       ["Vâng, tốt rồi."],
       ["Số máy của bạn bao nhiêu?"],
-      ["233-331-8828.", "Ðể tôi gửi bạn luôn địa chỉ mail.", "Nó là sara.gmail.com"],
-      ["Ðược, tôi sẽ nói chuyện với bạn sau."],
+      ["233-331-8828.", "Để tôi gửi bạn luôn địa chỉ mail.", "Nó là sara.gmail.com"],
+      ["Được, tôi sẽ nói chuyện với bạn sau."],
       ["ừ"]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -2087,7 +2087,7 @@
       ["Không, tôi mới ăn tối no rồi."],
       ["Bây giờ bạn muốn làm gì?"],
       ["Tôi không biết chắc.", "Khi bạn tới đây chúng ta sẽ bàn về việc đó."],
-      ["Ðược, lát gặp nhé."],
+      ["Được, lát gặp nhé."],
       ["Chào"]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -2124,7 +2124,7 @@
       ["Tôi còn là sinh viên"],
       ["bạn học ở trường nào?"],
       ["Trường Boston University."],
-      ["Ðó là một trường tốt.", "Bạn học môn gì?"],
+      ["Đó là một trường tốt.", "Bạn học môn gì?"],
       ["Tôi học tiếng Anh, toán và lịch sử.", "Môn chính của tôi là tiếng Anh."],
       ["Bạn đã học tiếng anh được bao lâu?"],
       ["Hơn 6 năm rồi."],
@@ -2184,7 +2184,7 @@
         "Như vậy thực là tuyệt.",
         "Tôi cũng muốn là dịch giả, nhưng tôi không nghĩ rằng tiếng Anh của tôi đáp ứng được."
       ],
-      ["Ðừng lo.", "Tiếng Anh của bạn khá hơn phần lớn bạn cùng lớp của tôi."],
+      ["Đừng lo.", "Tiếng Anh của bạn khá hơn phần lớn bạn cùng lớp của tôi."],
       ["Cảm ơn.", "Bây giờ bạn đi đâu?"],
       ["Tôi sẽ đi học ở thư viện.", "Ngày mai tôi phải dự một kỳ thi."],
       ["Tôi cũng vậy.", "Thư viện mở cửa đến mấy giờ nhỉ?"],
@@ -2253,7 +2253,7 @@
         "Tôi cũng muốn mời Megan nữa.",
         "Lần tới bạn gặp cô ấy, bạn nhắn với cô ấy giúp tôi được không?"
       ],
-      ["Ðược rồi.", "Cô ấy có quen bạn bè của bạn không?"],
+      ["Được rồi.", "Cô ấy có quen bạn bè của bạn không?"],
       [
         "Có. Tôi nghĩ họ có thể đã đi học cùng trường đại học hoặc đại khái như vậy.",
         "Tôi không chắc họ có biết nhau không."
@@ -2316,7 +2316,7 @@
       ],
       ["Không có vấn đề gì hết."],
       ["Tôi có thể xem thẻ bảo hiểm của ông không?"],
-      ["Ðây."],
+      ["Đây."],
       ["Cảm ơn.", "Phí cho lần khám hôm nay là 25 đô la."],
       ["Vậy sao?", "Tôi đã không nghĩ là nhiều như vậy."],
       ["Tôi biết ông sẽ cảm thấy thế."],
@@ -2325,9 +2325,9 @@
       ["Cô có thể bật máy sưởi được không?", "Trong này lạnh quá."],
       [
         "Trong này lạnh, phải không?",
-        "Ðể tôi giải quyết bây giờ.",
+        "Để tôi giải quyết bây giờ.",
         "Xin mời ông ngồi và điền vào những mẫu đơn này.",
-        "Ðưa chúng cho tôi khi nào ông xong."
+        "Đưa chúng cho tôi khi nào ông xong."
       ]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -2378,7 +2378,7 @@
       [
         "Tôi nghĩ là chúng ta nên đi lấy nó bây giờ.",
         "Tôi sẽ rửa tay rồi chúng ta đi.",
-        "Ðược không?"
+        "Được không?"
       ]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -2412,7 +2412,7 @@
       ["Tôi lạnh"],
       ["Bạn cảm thấy thế nào?"],
       ["Tôi vẫn còn lạnh."],
-      ["Vẫn lạnh sao?", "Ðã hơn một tuần rồi, phải không?"],
+      ["Vẫn lạnh sao?", "Đã hơn một tuần rồi, phải không?"],
       ["Vâng, hơi lâu rồi.", "Tôi bắt đầu cảm thấy như thế này thứ hai tuần trước."],
       ["Bạn có cảm thấy khá hơn chút nào không?"],
       ["Một ít.", "Tôi uống thuốc sáng nay và bây giờ tôi cảm thấy khỏe hơn một chút."],
@@ -2422,10 +2422,10 @@
       ["Chưa, có lẽ mai tôi đi."],
       ["Tôi sẽ đi ra tiệm thuốc tây bây giờ. Tôi có thể mua gì cho bạn không?"],
       ["Vâng, nếu không phiền, bạn có thể mua cho tôi một ít khăn giấy được không?"],
-      ["Ðược chứ.", "Còn gì nữa không?"],
+      ["Được chứ.", "Còn gì nữa không?"],
       ["Không, chỉ vậy thôi."],
       [
-        "Ðược, tôi sẽ trở về trong khoảng một tiếng.",
+        "Được, tôi sẽ trở về trong khoảng một tiếng.",
         "Nếu bạn thấy cần gì thêm, gọi điện thoại cho tôi."
       ],
       ["Cảm ơn."]
@@ -2480,7 +2480,7 @@
         "Bạn cho tôi mượn điện thoại chút nhé?",
         "Tôi để điện thoại của tôi trong xe rồi, tôi muốn gọi để hỏi đường."
       ],
-      ["Ðược chứ. Ðây."]
+      ["Được chứ. Đây."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -2514,11 +2514,11 @@
       ["Khi bạn về tới nhà thì gửi cho tôi tin nhắn chỉ đường tới bữa tiệc tối nay nhé?"],
       ["Tất nhiên, không thành vấn đề."],
       ["Khi nào bạn về tới nhà?"],
-      ["Tôi không biết, có lẽ khoảng nửa tiếng.", "Ðông xe quá."],
+      ["Tôi không biết, có lẽ khoảng nửa tiếng.", "Đông xe quá."],
       ["Tôi phải đi ra ngoài ngay.", "Hay bạn gửi cho tôi tin nhắn ghi địa chỉ vậy."],
-      ["Ðược, tôi sẽ gửi ngay khi về tới nhà."],
+      ["Được, tôi sẽ gửi ngay khi về tới nhà."],
       ["Cảm ơn nhiều.", "Lái xe cẩn thận đấy."],
-      ["Ðược rồi, gặp bạn tối nay nhé."],
+      ["Được rồi, gặp bạn tối nay nhé."],
       ["Tạm biệt."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
@@ -2541,7 +2541,7 @@
       ["OK."]
     ],
     "vi": [
-      ["Ðiện thoại nghe không rõ"],
+      ["Điện thoại nghe không rõ"],
       ["Ai vậy?"],
       ["Chào Sharon, George nè.", "Bạn nghĩ mấy giờ bạn sẽ tới bữa tiệc tối nay?"],
       ["Tôi xin lỗi, bạn nói gì vậy?"],
@@ -2582,7 +2582,7 @@
       ["OK."]
     ],
     "vi": [
-      ["Ðến phòng tập"],
+      ["Đến phòng tập"],
       ["Ed, chúng ta nên làm gì tối nay?"],
       ["Tôi đã học cả tuần.", "Tôi muốn tập thể dục."],
       ["Tôi cũng vậy.", "Chúng ta hãy đến phòng tập."],
@@ -2678,20 +2678,20 @@
       ["Try to get some rest, and be sure to drink lots of water and orange juice."]
     ],
     "vi": [
-      ["Ðến gặp bác sĩ."],
+      ["Đến gặp bác sĩ."],
       ["Chào bà Wilson."],
       ["Chào bác sĩ."],
       ["Bà thấy thế nào?"],
       ["Tôi không cảm thấy khỏe."],
-      ["Ðiều gì làm bà khó ở?"],
+      ["Điều gì làm bà khó ở?"],
       ["Tôi bị đau bụng và nhức đầu."],
-      ["Ðau chỗ nào?"],
+      ["Đau chỗ nào?"],
       ["ở đây"],
       ["Bà có bị sốt không?"],
       ["Không, tôi nghĩ là không."],
       [
-        "Ðược.",
-        "Ðể tôi xem cổ họng của bà.",
+        "Được.",
+        "Để tôi xem cổ họng của bà.",
         "Há miệng ra.",
         "Cổ họng của bà bị đỏ.",
         "Có đau không?"
@@ -2729,7 +2729,7 @@
       ["OK, You're all set.", "We'll see you on the 25th."]
     ],
     "vi": [
-      ["Ðặt chỗ ở khách sạn."],
+      ["Đặt chỗ ở khách sạn."],
       ["Alô, khách sạn Marriott, tôi có thể giúp gì bạn?"],
       ["Xin chào, tôi muốn đặt chỗ trước."],
       ["Xin chờ một chút.", "Dạ, ngày nào ạ?"],
@@ -2746,7 +2746,7 @@
       ["4198 2289 3388 228."],
       ["Hạn chót là ngày nào?"],
       ["Ngày 9 tháng 1 năm 2012"],
-      ["Ðược, mọi việc sắp xếp xong.", "Chúng tôi sẽ gặp bạn vào ngày 25."]
+      ["Được, mọi việc sắp xếp xong.", "Chúng tôi sẽ gặp bạn vào ngày 25."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -2783,7 +2783,7 @@
       ["ừ, bạn có phiền nếu cho tôi mượn điện thoại không?"],
       ["Xin lỗi, tôi không thu được tín hiệu"],
       ["Bạn nói sao vậy?", "Tôi thấy vùng này sóng rất tốt mà."],
-      ["Ðiện thoại tôi quá cũ và hoạt động không tốt."],
+      ["Điện thoại tôi quá cũ và hoạt động không tốt."],
       ["Nếu tôi đem nó ra ngoài thì sao?"],
       ["ừ, hay đấy.", "Ngoài trời thì nó hoạt động tốt."]
     ],
@@ -2813,10 +2813,10 @@
     "vi": [
       ["Bạn có muốn chơi trò chơi không?"],
       ["Andrew, bạn muốn chơi trò chơi không?"],
-      ["Ðược, trò chơi gì vậy?"],
+      ["Được, trò chơi gì vậy?"],
       ["Chúng ta chơi bài.", "Bạn biết chơi bài xì zách không?"],
       ["Có, đó là một trò chơi dễ.", "Tôi không muốn chơi trò đó ngay bây giờ."],
-      ["Ðược, bạn còn nhớ cách chơi xì phé không?"],
+      ["Được, bạn còn nhớ cách chơi xì phé không?"],
       ["Tôi biết, nhưng có lẽ bạn phải chỉ lại cho tôi."],
       ["ừ, xem trong giấy này.", "Nó chỉ tất cả cách chơi."],
       [
@@ -2826,7 +2826,7 @@
       ],
       ["ừ, vui nhỉ."],
       ["Nào bây giờ chúng ta hãy chơi nhưng lần này tôi không muốn chơi ăn tiền."],
-      ["Ðược rồi. Chúng ta sẽ không chơi ăn tiền.", "Chúng ta chỉ chơi cho vui thôi."]
+      ["Được rồi. Chúng ta sẽ không chơi ăn tiền.", "Chúng ta chỉ chơi cho vui thôi."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -2869,7 +2869,7 @@
       ],
       ["Tôi đang đọc quyển sách mà đứa cháu cho tôi vào ngày sinh nhật."],
       [
-        "Ðể xem nào.",
+        "Để xem nào.",
         "Ồ, nhà tôi có quyển sách này.",
         "Tôi cũng muốn tặng bạn một món quà sinh nhật."
       ],
@@ -2877,7 +2877,7 @@
       ["không có chi.", "Bạn biết chơi ghi-ta không?"],
       ["ừ, tôi biết chơi chứ.", "Hồi nhỏ bố dạy tôi chơi."],
       ["Bây giờ bạn chơi được không?", "tôi muốn nghe một bài nhạc."],
-      ["Ðược.", "Bạn biết bài này không?"],
+      ["Được.", "Bạn biết bài này không?"],
       ["à, tôi đã nghe bài này rồi.", "Tôi có thể hát bài đó khi còn ở trung học."],
       [
         "Bài đó xưa rồi.",
@@ -2920,11 +2920,11 @@
       ["Còn.", "Giá là 55 đô."],
       ["Phòng có kết nối internet không?"],
       ["Chúng tôi có wifi.", "Nếu ông có máy tính, ông có thể dùng wifi và trả thêm 5 đô."],
-      ["Ðược. Tôi lấy một phòng."],
+      ["Được. Tôi lấy một phòng."],
       ["Bạn lấy phòng hút thuốc hay không hút thuốc?"],
       ["Không hút thuốc."],
       ["Bạn tính trả tiền phòng như thế nào?"],
-      ["Bằng visa.", "Ðây."],
+      ["Bằng visa.", "Đây."],
       ["Có bao nhiêu người?"],
       ["Hai."],
       ["Bạn muốn một giường lớn hay hai giường đôi?"],
@@ -2968,7 +2968,7 @@
       ["12 đô."],
       ["Tôi muốn nó được gửi đến đó vào ngày mai."],
       ["Làm ơn điền vào mẫu đơn này.", "Khi bạn điền xong, hãy trở lại cửa sổ này."],
-      ["Ðược, tôi nghĩ tôi đã làm xong, như thế này đúng không?"],
+      ["Được, tôi nghĩ tôi đã làm xong, như thế này đúng không?"],
       ["vâng, phải rồi."],
       ["Tôi cũng muốn gửi lá thư này."],
       ["Bạn có cần mua tem không?"],
@@ -3052,20 +3052,20 @@
       ["Chào Josh! Lâu rồi không gặp.", "Dạo này bạn làm việc ở đâu?"],
       ["Tôi làm việc ở khu công ty phần mềm.", "Tôi là kỹ sư."],
       ["Thật là thú vị.", "Bạn viết loại phần mềm gì?"],
-      ["Ðó là cơ sở dữ liệu cho những doanh nghiệp nhỏ."],
+      ["Đó là cơ sở dữ liệu cho những doanh nghiệp nhỏ."],
       ["Công ty của bạn có trang web không?"],
       ["Có."],
-      ["Ðịa chỉ trang web đó là gì?"],
+      ["Địa chỉ trang web đó là gì?"],
       ["http://www.sun.com"],
       ["Làm thế nào để tôi có phần mềm đó?"],
       ["Bạn có thể tải xuống từ trang web đó.", "Nó rất phổ biến và miễn phí."],
-      ["Ðược. Tôi sẽ làm như thế.", "Bây giờ tôi phải đi.", "Mong gặp lại bạn."],
+      ["Được. Tôi sẽ làm như thế.", "Bây giờ tôi phải đi.", "Mong gặp lại bạn."],
       ["Tôi cũng mong gặp lại bạn.", "Tuần tới hãy gửi mail cho tôi, chúng ta sẽ đi uống cà phê."],
       [
         "Máy tính của tôi bị hỏng rồi nên tôi không thể gửi email cho bạn ngay lúc này.",
         "Tôi có thể gọi điện thoại cho bạn được không?"
       ],
-      ["Ðược chứ. Số của tôi là 233-288-2328."]
+      ["Được chứ. Số của tôi là 233-288-2328."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -3096,9 +3096,9 @@
       ["Bạn đang nghe gì vậy?"],
       ["Tôi đang nghe ra-đi-ô."],
       ["Tôi biết rồi.", "Ban nhạc nào đang chơi vậy?"],
-      ["Ðoán xem."],
+      ["Đoán xem."],
       ["Tôi nghĩ là ban the Beatles, đúng không?"],
-      ["Ðúng rồi.", "Làm sao bạn biết?"],
+      ["Đúng rồi.", "Làm sao bạn biết?"],
       ["Ở nước tôi mọi người đều biết họ.", "Họ rất nổi tiếng."],
       ["Thế à?"],
       ["Tất nhiên rồi.", "Ba mẹ tôi đã xem họ biểu diễn lâu lắm rồi."],
@@ -3137,16 +3137,16 @@
       ["OK, then stop at the next intersection.", "I'm gonna get out there and take the subway."]
     ],
     "vi": [
-      ["Ðón taxi"],
+      ["Đón taxi"],
       ["Chào cô, cô cần tắc xi không?"],
       ["Có"],
       ["Cô có hành lý không?"],
       ["Chỉ có hai cái vali thôi."],
-      ["Ðược, tôi sẽ để vào sau xe cho cô.", "Cô đi đâu?"],
+      ["Được, tôi sẽ để vào sau xe cho cô.", "Cô đi đâu?"],
       ["Lữ Quán Comfort."],
       ["Tôi nghĩ có nơi như vậy ở Boston.", "Cô đi nơi nào?"],
       ["Nơi ở ngoài phố."],
-      ["Ðây là lần đầu cô đến Boston phải không?"],
+      ["Đây là lần đầu cô đến Boston phải không?"],
       [
         "Không, tôi đã tới đây vài lần rồi.",
         "Tôi thường tới đây để làm việc.",
@@ -3197,7 +3197,7 @@
       ["Chúng ta không bị lạc đường đâu."],
       ["Trước đây tôi chưa từng đi đường này.", "Bạn biết bạn đang đi đâu không?"],
       ["Biết, đường này đi ngang qua thị trấn.", "Nhanh hơn là xa lộ."],
-      ["Ðược.", "Bạn lái chậm hơn một chút được không?"],
+      ["Được.", "Bạn lái chậm hơn một chút được không?"],
       ["Tất nhiên, không thành vấn đề."],
       ["Bạn có thấy lưng của tấm biển kia không?", "Tôi nghĩ đây là đường một chiều."],
       ["Không, tôi không thấy.", "Tôi sẽ cho xe quay đầu lại."],
@@ -3232,7 +3232,7 @@
     "vi": [
       ["Giúp tôi tìm cái ví."],
       ["Adam, bạn có thể giúp tôi một việc được không?"],
-      ["Ðược chứ."],
+      ["Được chứ."],
       ["Tôi không thể tìm được ví.", "Bạn có thể giúp tôi không?"],
       ["Không sao, tôi sẽ giúp bạn tìm nó."],
       ["Cảm ơn."],
@@ -3246,8 +3246,8 @@
       ["Tôi thấy nó khi tôi bước vào thư viện sáng nay."],
       ["Có lẽ bạn đã bỏ quên nó ở đó chăng?"],
       ["Có thể lắm.", "Tôi sẽ gọi cho thư viện và hỏi xem có ai thấy nó không."],
-      ["Ðợi đã! Phải cái này không?"],
-      ["Ðúng rồi. Nó đó.", "Nó là ví của tôi.", "Cảm ơn bạn đã giúp tôi tìm nó."]
+      ["Đợi đã! Phải cái này không?"],
+      ["Đúng rồi. Nó đó.", "Nó là ví của tôi.", "Cảm ơn bạn đã giúp tôi tìm nó."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -3278,7 +3278,7 @@
     "vi": [
       ["Chụp ảnh"],
       ["Xin lỗi, bạn có thể chụp cho chúng tôi một bức ảnh không?"],
-      ["Ðược chứ.", "Máy ảnh này tốt lắm đấy."],
+      ["Được chứ.", "Máy ảnh này tốt lắm đấy."],
       ["Cảm ơn, bố mẹ đã tặng nó cho tôi đó."],
       ["Bạn sử dụng nó như thế nào?"],
       ["Bạn nhấn vào cái nút ở đây."],
@@ -3287,12 +3287,12 @@
         "Chờ đã, như vậy gần quá.",
         "Chuyển qua bên trái một chút.",
         "Lùi ra sau một chút.",
-        "Ðược rồi, đứng ngay đó."
+        "Được rồi, đứng ngay đó."
       ],
       ["Ý bạn là ngay đây hả?"],
       ["ừ, thế được rồi.", "ồ tôi không biết dùng nó."],
       ["Bạn nhấn cái nút xuống khoảng 3 giây."],
-      ["Ðược, tôi biết rồi, các bạn sẵn sàng chưa?"],
+      ["Được, tôi biết rồi, các bạn sẵn sàng chưa?"],
       ["Rồi"],
       ["Cười lên."]
     ],
@@ -3337,19 +3337,19 @@
       ["Hàng người dài quá.", "Sao bạn không trở lại vào ngày mai?"],
       ["Tôi nghĩ bạn nói đúng.", "Họ sắp đóng cửa rồi."],
       ["Chúng ta đi uống cà phê đi."],
-      ["Ðợi chút.", "Tôi phải lấy một vật ra khỏi ví.", "Bạn giữ hộ tôi cái này nhé?"],
-      ["Ðược rồi.", "Ôi."],
+      ["Đợi chút.", "Tôi phải lấy một vật ra khỏi ví.", "Bạn giữ hộ tôi cái này nhé?"],
+      ["Được rồi.", "Ôi."],
       ["Chuyện gì thế?"],
       ["Tôi đánh rơi cái máy tính bỏ túi của bạn.", "Nó vỡ chưa?"],
       [
         "Tôi không chắc.",
-        "Ðể tôi xem.",
+        "Để tôi xem.",
         "Không, tôi không nghĩ là nó bị vỡ.",
         "Cái nút bị rơi ra.",
         "Tôi có thể sửa được."
       ],
       ["Tôi lấy làm tiếc về chuyện này."],
-      ["Ðừng bận tâm.", "Tôi đánh rơi nó mãi.", "Nếu nó bị vỡ, tôi còn một cái khác ở trong xe."]
+      ["Đừng bận tâm.", "Tôi đánh rơi nó mãi.", "Nếu nó bị vỡ, tôi còn một cái khác ở trong xe."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -3378,7 +3378,7 @@
       ["Này, bạn tới đây bằng gì vậy?"],
       ["Tôi đi xe đạp."],
       ["Bạn nói nghiêm túc không đó?", "Tại sao bạn làm như vậy?", "Tôi có thể đón bạn."],
-      ["Ðược mà. Tôi không thích làm phiền bạn.", "Tôi biết bạn không thích dậy sớm."],
+      ["Được mà. Tôi không thích làm phiền bạn.", "Tôi biết bạn không thích dậy sớm."],
       ["Bạn thật đáng mến.", "Bạn có lạnh không?"],
       ["Không, không lạnh lắm.", "Tôi có mặc áo choàng."],
       ["Có gì trong túi vậy?"],
@@ -3474,7 +3474,7 @@
         "Anh ta và tôi dự tính nói chuyện với vài khách hàng mới hôm nay."
       ],
       ["Thật tiếc khi nghe như thế."],
-      ["Ðược rồi.", "Việc này xảy ra khá đột ngột."],
+      ["Được rồi.", "Việc này xảy ra khá đột ngột."],
       ["Thật bất ngờ.", "Vì sao thế nhỉ?"],
       ["Vợ anh ta bị bệnh, vì vậy thỉnh thoảng anh ta phải về nhà sớm để chăm sóc cô ấy."],
       ["Vậy à.", "Công việc thế nào?"],
@@ -3614,7 +3614,7 @@
       [
         "Bạn đùa sao?",
         "Bộ phim đó không có hài hước.",
-        "Ðó là một phim buồn.",
+        "Đó là một phim buồn.",
         "Cuối phim tôi đã khóc."
       ],
       ["Bạn thực nhạy cảm, đúng không?"],
@@ -3685,7 +3685,7 @@
         "Tôi đoán có thể.",
         "Bây giờ khá trễ rồi, tôi sẽ gọi cho ông ta vào buổi sáng."
       ],
-      ["Ðược, cám ơn rất nhiều."]
+      ["Được, cám ơn rất nhiều."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -3779,18 +3779,18 @@
       ["Ai đó?"],
       ["Chào Sarah, James đây."],
       ["Này James, tôi không thể nói chuyện bây giờ.", "Tôi có thể gọi lại cho bạn sau được không?"],
-      ["Ðược chứ.", "Có chuyện rắc rối hả?"],
+      ["Được chứ.", "Có chuyện rắc rối hả?"],
       ["Tôi trễ giờ làm và xe tôi hỏng, vì vậy tôi cần có người đón tôi đi làm."],
       ["Tôi có thể đón bạn."],
       ["Vậy hả?", "Cảm ơn bạn.", "Thật là quí hóa."],
       ["Bạn có cần tôi rước về sau giờ làm không?"],
       ["Vâng, nếu không phiền."],
       ["Không sao.", "Bây giờ tôi từ nhà đi đây.", "Tôi sẽ đến đó ngay."],
-      ["Ðược.", "Tôi sẽ chờ bạn trước chung cư của tôi."],
+      ["Được.", "Tôi sẽ chờ bạn trước chung cư của tôi."],
       ["Bạn có biết là xe bạn bị trục trặc gì không?"],
       ["Tôi không biết chắc.", "Tôi nghĩ là máy có vấn đề gì đó."],
       [
-        "Ðược. Khi đến đó tôi sẽ xem.",
+        "Được. Khi đến đó tôi sẽ xem.",
         "Tôi rành về xe mà.",
         "Khi còn trẻ, cha và tôi thường sửa chiếc xe cũ."
       ]
@@ -3880,17 +3880,17 @@
         "Thôi được, tôi tính nấu bữa tối trước, nhưng tôi nghĩ tôi không còn đủ thời gian.",
         "Tôi sẽ hâm nóng mấy món thức ăn thừa trong lò vi ba."
       ],
-      ["Ðược rồi."],
+      ["Được rồi."],
       ["Nếu cô ấy gọi lại, bảo cô ấy rằng tôi sẽ đến trễ."],
       ["ừ, không sao."],
-      ["Việc này rất quan trọng.", "Ðừng quên."],
-      ["Ðừng lo.", "Tôi không quên đâu."],
+      ["Việc này rất quan trọng.", "Đừng quên."],
+      ["Đừng lo.", "Tôi không quên đâu."],
       [
         "Xin bạn đưa tôi cái điện thoại của tôi nhé?",
         "Tôi nghĩ là tôi nên gọi cho cô ấy.",
         "Có lẽ bây giờ cô ấy muốn biết tôi đang ở đâu."
       ],
-      ["Ðược rồi. Tôi sẽ lấy nó cho bạn."]
+      ["Được rồi. Tôi sẽ lấy nó cho bạn."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -3943,7 +3943,7 @@
         "Hôm nọ, tôi thấy một cái rất đẹp trong khu mua sắm.",
         "Chúng ta có thể đến đó xem thử."
       ],
-      ["ừ. Ðó là cửa hàng nào?"],
+      ["ừ. Đó là cửa hàng nào?"],
       ["Nó là cửa hàng Macy.", "Tôi nghĩ nó có giảm giá cuối tuần này."],
       ["ừ, đó là cửa hàng rất hay đấy.", "Tôi thích quần áo ở đó."]
     ],
@@ -4005,7 +4005,7 @@
       ["Ngành của bạn là gì?"],
       ["Tâm lý học."],
       [
-        "Ðó là chuyên ngành của tôi khi tôi bắt đầu vào trung cấp, nhưng tôi chuyển qua ngành kỹ sư sau năm đầu tiên."
+        "Đó là chuyên ngành của tôi khi tôi bắt đầu vào trung cấp, nhưng tôi chuyển qua ngành kỹ sư sau năm đầu tiên."
       ],
       ["Tôi nghĩ, kỹ sư dễ tìm việc hơn."],
       [
@@ -4053,7 +4053,7 @@
       ["Căn hộ mới."],
       ["Ai vậy?"],
       ["Chào Gary.", "Có chuyện gì vậy?"],
-      ["Ðã lâu rồi tôi không nói chuyện với bạn, có chuyện gì không?"],
+      ["Đã lâu rồi tôi không nói chuyện với bạn, có chuyện gì không?"],
       ["Ờ, tôi không biết là bạn có nghe nói chưa, tôi vừa chuyển tới căn hộ mới ở Los Angeles."],
       [
         "Không, tôi có nghe là bạn tính chuyển đi nhưng tôi không biết bạn đã tìm được một nơi rồi.",
@@ -4130,7 +4130,7 @@
       ["Cô ấy làm gì?"],
       ["Cô ấy là kế toán."],
       [
-        "Ðó là một việc làm tốt.",
+        "Đó là một việc làm tốt.",
         "Cô ta chắc chắn phải rất thông minh.",
         "Bạn đã mời cô ta đi chơi chưa?"
       ],
@@ -4173,7 +4173,7 @@
     "vi": [
       ["Trục trặc máy tính."],
       ["Chào Jason, xin lỗi làm phiền bạn.", "Tôi có một câu hỏi cho bạn."],
-      ["Ðược, có chuyện gì vậy?"],
+      ["Được, có chuyện gì vậy?"],
       [
         "Tôi gặp vấn đề với cái máy tính.",
         "Tôi biết bạn là kỹ sư vì vậy tôi nghĩ bạn có thể giúp tôi."
@@ -4247,16 +4247,16 @@
       ["ừ, bạn chở tôi nhé?"],
       ["ừ"],
       [
-        "Ði thẳng xuống con đường này.",
+        "Đi thẳng xuống con đường này.",
         "Khi bạn tới đèn giao thông thứ hai, rẽ trái.",
         "Rồi lên xa lộ và ra bằng lối ra 52."
       ],
       ["Rắc rối quá.", "Bạn có thể nói lại được không?", "Tôi đi theo đường nào trước tiên?"],
       [
         "Bạn đi xuống con đường này, rồi rẽ trái tại đèn giao thông thứ hai.",
-        "Ðường tên là đường Main."
+        "Đường tên là đường Main."
       ],
-      ["Ðược rồi, tôi nghĩ là rõ rồi."],
+      ["Được rồi, tôi nghĩ là rõ rồi."],
       ["Nhưng sao bạn lại mua máy tính mới?", "Bạn đã mua một cái cách đây mấy tháng rồi mà?"],
       ["Có, nhưng nó hỏng rồi."],
       ["Bạn mua nó ở đâu?"],
@@ -4269,7 +4269,7 @@
         "Tôi nghĩ bạn nói đúng.",
         "Tôi đã không nghĩ ra.",
         "Tôi nên nói cho họ về nó.",
-        "Ðại lý Wal-Mart gần đây nhất ở đâu nhỉ?"
+        "Đại lý Wal-Mart gần đây nhất ở đâu nhỉ?"
       ],
       [
         "Cách đây khoảng 2 dãy phố.",
@@ -4350,7 +4350,7 @@
       ["Môn thể thao bạn yêu thích là gì?"],
       ["Tôi thích bóng rổ.", "Tôi thường xem những trận đấu trên tivi."],
       ["Bạn thích đội nào?"],
-      ["Ðội Boston Celtics"],
+      ["Đội Boston Celtics"],
       ["Năm nay họ chơi rất khá, phải không?"],
       ["ừ, bạn thích họ không?"],
       ["ừ, mọi người quanh đây đều vậy."],
@@ -4358,10 +4358,10 @@
       ["Có thể lắm.", "Họ có một số người thực sự chơi rất giỏi."],
       ["Bạn có xem trận đấu tối hôm qua không?"],
       ["Một lúc, nhưng không toàn bộ.", "Tôi xem hiệp thứ nhì và một vài pha nổi bật trên mạng."],
-      ["Ðó là một trận đấu hay, phải không?"],
+      ["Đó là một trận đấu hay, phải không?"],
       ["Vâng.", "Bạn có biết họ sẽ đấu với ai tối mai không?"],
       ["Tôi nghĩ họ sẽ chơi với đội Los Angeles."],
-      ["Ðó sẽ là một trận gay go.", "Los Angeles có một đội bóng giỏi."]
+      ["Đó sẽ là một trận gay go.", "Los Angeles có một đội bóng giỏi."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -4389,19 +4389,19 @@
       ["Chào Liz.", "Bạn đang làm việc với trang web của bạn hả?"],
       ["Không, tôi vẫn đợi bạn gửi cho tôi tập tin hình ảnh dành cho trang chủ."],
       ["Ý bạn nói là bạn chưa nhận được à?", "Tôi đã gửi nó cho bạn cách đây hơn một giờ."],
-      ["Ðể tôi kiểm tra.", "Sẽ phải mất vài giây vì tôi phải khởi động máy tính."],
-      ["Ðược rồi.", "Bạn nhận được chưa?"],
+      ["Để tôi kiểm tra.", "Sẽ phải mất vài giây vì tôi phải khởi động máy tính."],
+      ["Được rồi.", "Bạn nhận được chưa?"],
       ["Chờ một chút.", "Tôi vừa mở trình duyệt web và kiểm tra tài khoản hotmail của tôi."],
-      ["Ðược."],
-      ["Ðược rồi, nó đây.", "Tôi đã nhận được nó."],
+      ["Được."],
+      ["Được rồi, nó đây.", "Tôi đã nhận được nó."],
       [
         "Làm sao tôi tìm được trang web đó?",
         "Tôi đã gắng tìm nó trên Yahoo nhưng tôi không tìm được."
       ],
-      ["Ðừng dùng Yahoo, hãy dùng Google."],
+      ["Đừng dùng Yahoo, hãy dùng Google."],
       ["Tôi đã thử nhưng cũng vậy, vẫn không tìm được."],
       ["Nếu bạn mở Google và tìm tên tôi, bạn sẽ thấy nó."],
-      ["Ðược, để tôi thử.", "Bây giờ tôi thấy nó rồi."]
+      ["Được, để tôi thử.", "Bây giờ tôi thấy nó rồi."]
     ],
     "img": "img/readings/VAN_HOA_MY..webp"
   },
@@ -4658,7 +4658,7 @@
       [
         "Tôi nghe nói ông ta muốn giảm thuế.",
         "Thật khó biết đâu là sự thật.",
-        "Ðó là lý do tôi không quan tâm đến chính trị."
+        "Đó là lý do tôi không quan tâm đến chính trị."
       ],
       ["Vâng, nó có thể làm nản lòng, nhưng nó quan trọng và theo dõi nó rất thú vị."]
     ],
@@ -4700,7 +4700,7 @@
     "vi": [
       ["Câu lạc bộ sách"],
       ["Này John, tôi có thể nói chuyện với bạn một chút được không?"],
-      ["Ðược chứ, có chuyện gì vậy?"],
+      ["Được chứ, có chuyện gì vậy?"],
       [
         "Tôi muốn nói cho bạn biết về một câu lạc bộ sách tôi gia nhập cách đây mấy tháng.",
         "Tôi biết bạn đọc rất nhiều sách vì vậy tôi nghĩ bạn nên đi với tôi vào tháng sau."
@@ -4722,7 +4722,7 @@
       ],
       ["Nghe có vẻ thú vị đấy.", "Tôi muốn tới đó."],
       [
-        "Ðược, tuyệt.",
+        "Được, tuyệt.",
         "Còn hai tuần nữa mới tới kỳ họp mặt tiếp theo, vì vậy bạn vẫn còn thời gian để đọc quyển sách."
       ]
     ],

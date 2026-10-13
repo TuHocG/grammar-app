@@ -595,7 +595,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "điều khoản đóng băng. Ðiều khoản của hợp đồng vận tải biển điều tiết quan hệ giữa người thuê tàu với người vận tải trong trường hợp đóng băng ở cảng bốc hoặc cảng dỡ khiến cho tàu không thể vào cảng để bốc hoặc dỡ hàng được. Thông thường, điều khoản này quy định quyền của người chuyên chở, khi xảy ra đóng băng, được miễn chấp hành nghĩa vụ và được hủy hợp đồng. Nhưng trong một vài hợp đồng vận tải biển, điều khoản này lại được quy định một cách khác. Ví dụ: theo hợp đồng thuê tàu Gencon, quyền của hai bên phụ thuộc vào nơi bị đóng băng là cảng bốc hay cảng dỡ. Tại cảng bốc: nếu cảng bốc bị đóng băng, tàu không vào được, hợp đồng sẽ mặc nhiên trở nên vô hiệu. Nếu trong quá trình bốc hàng, có nguy cơ cảng bị đóng băng, thuyền trưởng có quyền cho tàu rời cảng đi nơi khác kể cả cảng đến và thu cước về phần hàng đã bốc. Nếu hợp đồng qui định nhiều cảng bốc nhưng một vài cảng trong số đó bị đóng băng thì thuyền trưởng có quyền hoặc chỉ bốc phần hàng tại cảng nào không bị đóng băng hoặc tuyên bố hợp đồng vô hiệu, trừ trường hợp người thuê tàu đồng ý để tàu được bốc toàn bộ hàng hóa tại cảng không bị đóng băng. Tại cảng dỡ: nếu cảng dỡ bị đóng băng thì trong vòng 48 tiếng đồng hồ sau khi nhận được thông báo của người chuyên chở về việc tàu không thể vào cảng được, người thuê tàu có quyền hoặc lưu tàu và chịu tiền phạt dỡ chậm, hoặc điều tàu đến một cảng khác an toàn. Nếu trong quá trình dỡ hàng, có nguy cơ cảng bị đóng băng, thuyền trưởng có quyền cho tàu rời cảng để đi đến một cảng nào khác gần nhất mà tại đó tàu có thể dỡ hàng một cách an toàn. Trong trường hợp này, tàu cũng chỉ thu cước như đối với trường hợp dỡ tại cảng qui định trong hợp đồng, nhưng nếu khoảng cách giữa hai cảng đó vượt quá 100 hải lý thì cước phí sẽ được tính thêm một cách tương ứng."
+        "t": "điều khoản đóng băng. Điều khoản của hợp đồng vận tải biển điều tiết quan hệ giữa người thuê tàu với người vận tải trong trường hợp đóng băng ở cảng bốc hoặc cảng dỡ khiến cho tàu không thể vào cảng để bốc hoặc dỡ hàng được. Thông thường, điều khoản này quy định quyền của người chuyên chở, khi xảy ra đóng băng, được miễn chấp hành nghĩa vụ và được hủy hợp đồng. Nhưng trong một vài hợp đồng vận tải biển, điều khoản này lại được quy định một cách khác. Ví dụ: theo hợp đồng thuê tàu Gencon, quyền của hai bên phụ thuộc vào nơi bị đóng băng là cảng bốc hay cảng dỡ. Tại cảng bốc: nếu cảng bốc bị đóng băng, tàu không vào được, hợp đồng sẽ mặc nhiên trở nên vô hiệu. Nếu trong quá trình bốc hàng, có nguy cơ cảng bị đóng băng, thuyền trưởng có quyền cho tàu rời cảng đi nơi khác kể cả cảng đến và thu cước về phần hàng đã bốc. Nếu hợp đồng qui định nhiều cảng bốc nhưng một vài cảng trong số đó bị đóng băng thì thuyền trưởng có quyền hoặc chỉ bốc phần hàng tại cảng nào không bị đóng băng hoặc tuyên bố hợp đồng vô hiệu, trừ trường hợp người thuê tàu đồng ý để tàu được bốc toàn bộ hàng hóa tại cảng không bị đóng băng. Tại cảng dỡ: nếu cảng dỡ bị đóng băng thì trong vòng 48 tiếng đồng hồ sau khi nhận được thông báo của người chuyên chở về việc tàu không thể vào cảng được, người thuê tàu có quyền hoặc lưu tàu và chịu tiền phạt dỡ chậm, hoặc điều tàu đến một cảng khác an toàn. Nếu trong quá trình dỡ hàng, có nguy cơ cảng bị đóng băng, thuyền trưởng có quyền cho tàu rời cảng để đi đến một cảng nào khác gần nhất mà tại đó tàu có thể dỡ hàng một cách an toàn. Trong trường hợp này, tàu cũng chỉ thu cước như đối với trường hợp dỡ tại cảng qui định trong hợp đồng, nhưng nếu khoảng cách giữa hai cảng đó vượt quá 100 hải lý thì cước phí sẽ được tính thêm một cách tương ứng."
       }
     ],
     "k": "ice clause"
@@ -2612,15 +2612,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "một đảo quốc, nằm ngay trong vòng Bắc Cực ở phía Ðông Bắc và Bắc Băng Dương."
+        "t": "một đảo quốc, nằm ngay trong vòng Bắc Cực ở phía Đông Bắc và Bắc Băng Dương."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: chỉ có vùng bờ biển Iceland là có thể định cư và trồng trọt, bởi vì phần còn lại là vùng băng tuyết rộng lớn, tro của núi lửa và những dòng nham thạch. Iceland có rất nhiều núi lửa, giếng phun và suối nước nóng."
+        "t": "Địa hình: chỉ có vùng bờ biển Iceland là có thể định cư và trồng trọt, bởi vì phần còn lại là vùng băng tuyết rộng lớn, tro của núi lửa và những dòng nham thạch. Iceland có rất nhiều núi lửa, giếng phun và suối nước nóng."
       },
       {
         "k": "m",
-        "t": "Kinh tế: những trạm thủy điện cung cấp đủ nguồn điện và độ ấm. Ðất đai phần lớn không sản xuất được, ngư nghiệp là nền kinh tế sống còn của đảo."
+        "t": "Kinh tế: những trạm thủy điện cung cấp đủ nguồn điện và độ ấm. Đất đai phần lớn không sản xuất được, ngư nghiệp là nền kinh tế sống còn của đảo."
       },
       {
         "k": "m",
@@ -2628,7 +2628,7 @@
       },
       {
         "k": "m",
-        "t": "Quyền lực do các tu sĩ nắm giữ một thời gian, sau đó chuyển giao cho các thành viên của hội đồng Althing. Năm 1262, Iceland được chuyển giao cho Na Uy cai trị. Năm 1380, từ Na Uy được chuyển qua Ðan Mạch. Sau đó có một phong trào quốc gia Iceland nổi lên phục hồi hội đồng Althing. Vào năm 1845, Iceland đã lấy lại được quyền cai trị nhưng còn hạn chế vào năm 1847 độc lập hoàn toàn vào năm 1918, nhưng phải chia sẻ ngôi vua với Ðan Mạch cho tới năm 1943. Iceland trở thành nước cộng hòa độc lập năm 1944. Trong đệ nhị thế chiến, có một căn cứ của đồng minh ở Iceland và nước này gia nhập Liên Hiệp Quốc và khối Nato năm 1949. Iceland và Anh có những bất đồng dữ dội về vùng ranh giới đánh bắt cá, dẫn đến cuộc chiến Codwar từ năm 1972 đến 1976."
+        "t": "Quyền lực do các tu sĩ nắm giữ một thời gian, sau đó chuyển giao cho các thành viên của hội đồng Althing. Năm 1262, Iceland được chuyển giao cho Na Uy cai trị. Năm 1380, từ Na Uy được chuyển qua Đan Mạch. Sau đó có một phong trào quốc gia Iceland nổi lên phục hồi hội đồng Althing. Vào năm 1845, Iceland đã lấy lại được quyền cai trị nhưng còn hạn chế vào năm 1847 độc lập hoàn toàn vào năm 1918, nhưng phải chia sẻ ngôi vua với Đan Mạch cho tới năm 1943. Iceland trở thành nước cộng hòa độc lập năm 1944. Trong đệ nhị thế chiến, có một căn cứ của đồng minh ở Iceland và nước này gia nhập Liên Hiệp Quốc và khối Nato năm 1949. Iceland và Anh có những bất đồng dữ dội về vùng ranh giới đánh bắt cá, dẫn đến cuộc chiến Codwar từ năm 1972 đến 1976."
       },
       {
         "k": "m",
@@ -2640,27 +2640,27 @@
       },
       {
         "k": "m",
-        "t": "Iceland cũng có mối quan hệ mật thiết với Mỹ, để cho Nato duy trì căn cứ hải quân ở Iceland. Ðến năm 1992, kinh tế Iceland sa sút do thua lỗ trong việc sản xuất cá, nên chính phủ đề xuất những biện pháp khẩn cấp và giảm giá tiền tệ (đồng Krona của Iceland) năm 1993."
+        "t": "Iceland cũng có mối quan hệ mật thiết với Mỹ, để cho Nato duy trì căn cứ hải quân ở Iceland. Đến năm 1992, kinh tế Iceland sa sút do thua lỗ trong việc sản xuất cá, nên chính phủ đề xuất những biện pháp khẩn cấp và giảm giá tiền tệ (đồng Krona của Iceland) năm 1993."
       },
       {
         "k": "m",
-        "t": "Cuối cùng, tổ chức kinh tế khu vực khối Châu Âu (EEA Europian Ecomenic Area) đã đồng ý cho Iceland được làm thành viên của Liên hiệp khối Châu Âu (Europian Union), Giống như Thụy Ðiển và phần Lan."
+        "t": "Cuối cùng, tổ chức kinh tế khu vực khối Châu Âu (EEA Europian Ecomenic Area) đã đồng ý cho Iceland được làm thành viên của Liên hiệp khối Châu Âu (Europian Union), Giống như Thụy Điển và phần Lan."
       },
       {
         "k": "m",
-        "t": "Ðến tháng 4 năm 1995, một chính phủ liên hiệp mới được thành lập do David Oddsson lãnh đạo theo cuộc tổng tuyển cử vào năm 1996. Sau đó ông Olafur Ragnar Grimsson đắc cử tổng thống."
+        "t": "Đến tháng 4 năm 1995, một chính phủ liên hiệp mới được thành lập do David Oddsson lãnh đạo theo cuộc tổng tuyển cử vào năm 1996. Sau đó ông Olafur Ragnar Grimsson đắc cử tổng thống."
       },
       {"k": "m", "t": "Thủ đô: ReyKjavik."},
       {"k": "m", "t": "Diện tích: 103.000 km2"},
       {"k": "m", "t": "Dân số: 270.000 người (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Krona."},
+      {"k": "m", "t": "Tiền tệ: Đồng Krona."},
       {
         "k": "m",
-        "t": "Tôn giáo: Ðạo Tin Lành 92,9%, không tôn giáo 1,3%, Thiên Chúa giáo La Mã 0,9%."
+        "t": "Tôn giáo: Đạo Tin Lành 92,9%, không tôn giáo 1,3%, Thiên Chúa giáo La Mã 0,9%."
       },
       {
         "k": "m",
-        "t": "Sắc tộc: Người Iceland 96,3%, Ðan Mạch 0,9%, Mỹ 0,5%, Thụy Ðiển 0,4%, Ðức 0,3%."
+        "t": "Sắc tộc: Người Iceland 96,3%, Đan Mạch 0,9%, Mỹ 0,5%, Thụy Điển 0,4%, Đức 0,3%."
       },
       {"k": "m", "t": "Ngôn ngữ: Iceland."},
       {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc, EFTA, OECD, NATO, hội đồng Châu Âu, CSCE."}
@@ -2712,7 +2712,7 @@
   },
   {
     "h": "icelander",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người Ai-xơ-len, người Băng Ðảo."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người Ai-xơ-len, người Băng Đảo."}],
     "ipa": "'aislændə",
     "k": "icelander"
   },
@@ -2720,9 +2720,9 @@
     "h": "icelandic",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) Ai-xơ-len, (thuộc) Băng Ðảo"},
+      {"k": "m", "t": "(thuộc) Ai-xơ-len, (thuộc) Băng Đảo"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Ai-xơ-len, tiếng Băng Ðảo."}
+      {"k": "m", "t": "tiếng Ai-xơ-len, tiếng Băng Đảo."}
     ],
     "ipa": "ais'lændik",
     "k": "icelandic"
@@ -2771,7 +2771,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tên của một bộ lạc ở miền Ðông nước Anh. Khi quân La Mã xâm lược vào năm 43 sau công nguyên, thì bộ lạc này là một phần đất nhỏ của người La Mã, được triều đại Cunobelinus cai trị bởi vua La Mã."
+        "t": "tên của một bộ lạc ở miền Đông nước Anh. Khi quân La Mã xâm lược vào năm 43 sau công nguyên, thì bộ lạc này là một phần đất nhỏ của người La Mã, được triều đại Cunobelinus cai trị bởi vua La Mã."
       },
       {
         "k": "m",
@@ -3219,7 +3219,7 @@
   {"h": "ichthyotoxic", "segs": [{"k": "m", "t": "Do độc chất cá."}], "k": "ichthyotoxic"},
   {
     "h": "ichthyotoxicology",
-    "segs": [{"k": "m", "t": "Ðộc chất cá học."}],
+    "segs": [{"k": "m", "t": "Độc chất cá học."}],
     "k": "ichthyotoxicology"
   },
   {"h": "ichthyotoxism", "segs": [{"k": "m", "t": "Ngộ độc độc chất cá."}], "k": "ichthyotoxism"},
@@ -3576,11 +3576,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "cuộc tranh luận về việc hủy bỏ sự tôn thờ hình tượng. Ðây là sự xung đột trong hội thánh đạo Cơ Ðốc giáo miền Ðông vào thế kỷ 8 và 9 đối với việc tôn thờ các hình tượng (bao gồm các tượng và tranh vẽ). Vua Leo III cấm sự tôn thờ như thế vào năm 726 bất kể những phản đối của dân chúng. Quyết định cấm này lại được vua Constantine V xác nhận vào năm 753. Ở kỳ họp thứ 7 của hội đồng giáo hội thế giới năm 787 ở Nicaca, nữ hoàng Irene lật đổ những sắc lệnh cấm, nhưng việc cấm lại vẫn được tăng cường thêm dưới triều vua Leo V, vua Michael II và vua Theophilus."
+        "t": "cuộc tranh luận về việc hủy bỏ sự tôn thờ hình tượng. Đây là sự xung đột trong hội thánh đạo Cơ Đốc giáo miền Đông vào thế kỷ 8 và 9 đối với việc tôn thờ các hình tượng (bao gồm các tượng và tranh vẽ). Vua Leo III cấm sự tôn thờ như thế vào năm 726 bất kể những phản đối của dân chúng. Quyết định cấm này lại được vua Constantine V xác nhận vào năm 753. Ở kỳ họp thứ 7 của hội đồng giáo hội thế giới năm 787 ở Nicaca, nữ hoàng Irene lật đổ những sắc lệnh cấm, nhưng việc cấm lại vẫn được tăng cường thêm dưới triều vua Leo V, vua Michael II và vua Theophilus."
       },
       {
         "k": "m",
-        "t": "Cuối cùng việc tôn thờ hình tượng được phục hồi vào năm 843 trong hội thánh chính thống giáo miền Ðông."
+        "t": "Cuối cùng việc tôn thờ hình tượng được phục hồi vào năm 843 trong hội thánh chính thống giáo miền Đông."
       }
     ],
     "k": "iconoclastis controversy"
@@ -3892,7 +3892,7 @@
   },
   {"h": "icteric index", "segs": [{"k": "m", "t": "Chỉ số vàng da."}], "k": "icteric index"},
   {"h": "icteric necrosis", "segs": [{"k": "m", "t": "Hoại tử vàng da."}], "k": "icteric necrosis"},
-  {"h": "icteric sputum", "segs": [{"k": "m", "t": "Ðờm màu vàng."}], "k": "icteric sputum"},
+  {"h": "icteric sputum", "segs": [{"k": "m", "t": "Đờm màu vàng."}], "k": "icteric sputum"},
   {
     "h": "icterical",
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "icteric ^tt. như icteric", "vi": "."}],
@@ -4000,12 +4000,12 @@
   },
   {
     "h": "ictus paralyticus",
-    "segs": [{"k": "m", "t": "Ðột quy liệt hai chi dưới."}],
+    "segs": [{"k": "m", "t": "Đột quy liệt hai chi dưới."}],
     "k": "ictus paralyticus"
   },
   {
     "h": "ictus sanguinis",
-    "segs": [{"k": "m", "t": "Ðột qụy ngập máu não thất."}],
+    "segs": [{"k": "m", "t": "Đột qụy ngập máu não thất."}],
     "k": "ictus sanguinis"
   },
   {"h": "ictus solis", "segs": [{"k": "m", "t": "Cảm nắng."}], "k": "ictus solis"},

@@ -4,9 +4,9 @@
     "segs": [
       {"k": "m", "t": "HH"},
       {"k": "m", "t": "viết tắt"},
-      {"k": "m", "t": "1. His/Her highness: Ðức ông/Ðức bà"},
-      {"k": "m", "t": "2. His Holiness: Ðức"},
-      {"k": "m", "t": "HH the Pope: Ðức Giáo Hoàng."}
+      {"k": "m", "t": "1. His/Her highness: Đức ông/Đức bà"},
+      {"k": "m", "t": "2. His Holiness: Đức"},
+      {"k": "m", "t": "HH the Pope: Đức Giáo Hoàng."}
     ],
     "k": "hh"
   },

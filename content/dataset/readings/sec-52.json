@@ -49,7 +49,7 @@
       ["Cảm ơn.", "Phòng khách dễ thương quá!", "Chú thím của bạn đâu?"],
       ["Chú mình đi làm còn thím đang đi chợ.", "Bạn uống trà nhé?"],
       ["Không, cảm ơn. Mình thấy thoải mái lắm rồi."],
-      ["Ðược rồi. Ðến xem phòng của mình đi."],
+      ["Được rồi. Đến xem phòng của mình đi."],
       [
         "Căn phòng sáng sủa làm sao!",
         "Và màu sắc thật đẹp! Hồng và trắng.",
@@ -57,7 +57,7 @@
         "Mình xem phần còn lại của ngôi nhà được không?"
       ],
       ["Tất nhiên rồi."],
-      ["Ðây là phòng tắm."],
+      ["Đây là phòng tắm."],
       ["Phòng tắm đẹp thật!", "Có bồn rửa, bồn tắm và vòi sen."],
       ["ừ. Nó rất hiện đại.", "Bây giờ đến xem nhà bếp nhé.", "Bạn sẽ thích nó đấy."],
       [
@@ -354,7 +354,7 @@
       ["He is a journalist.", "He writes for a Ha Noi newspaper."]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       ["Còn gia đình Lan thì sao?"],
       ["Cha mẹ cô ấy làm nghề gì?"],
       [
@@ -494,13 +494,13 @@
       ["Anh Nhật này, có dễ kiếm một căn hộ ở Hà Nội không?"],
       ["à, có một vài căn hộ trống gần đây."],
       ["Vậy à? Chúng có phải là những căn hộ tốt không?"],
-      ["Vâng, có một căn tốt với hai phòng ngủ ở số 27.", "Ðó là một căn hộ đẹp và không đắt lắm."],
+      ["Vâng, có một căn tốt với hai phòng ngủ ở số 27.", "Đó là một căn hộ đẹp và không đắt lắm."],
       ["Còn những căn hộ khác thì sao?"],
       [
         "Căn hộ ở số 40 thì tốt hơn.",
         "Nó có ba phòng ngủ và lớn hơn, nhưng đương nhiên là nó đắt hơn."
       ],
-      ["Ðó có phải là căn hộ tốt nhất không?"],
+      ["Đó có phải là căn hộ tốt nhất không?"],
       [
         "Không. Căn hộ tốt nhất ở số 79.",
         "Nó có bốn phòng ngủ và được trang trí nội thất.",
@@ -540,7 +540,7 @@
       ["Căn hộ nào rẻ nhất?"],
       ["Căn hộ rẻ nhất là căn hộ ở số 27."],
       ["Căn hộ nào đắt nhất?"],
-      ["Ðắt nhất là căn hộ ở số 79."],
+      ["Đắt nhất là căn hộ ở số 79."],
       ["Căn hộ nào tốt nhất?"],
       ["Căn hộ tốt nhất là căn hộ số 79."],
       ["Căn hộ nào thích hợp nhất cho John và gia đình ông ấy?", "Hãy mô tả nó."],
@@ -821,8 +821,8 @@
       ["Tên anh ấy là Phạm Trung Hưng."],
       ["Anh ấy bao nhiêu tuổi?"],
       ["Anh ấy 25."],
-      ["Ðịa chỉ anh ấy số mấy?"],
-      ["Ðịa chỉ của anh ấy là 34 đường Nguyễn Biểu, Hải Phòng."],
+      ["Địa chỉ anh ấy số mấy?"],
+      ["Địa chỉ của anh ấy là 34 đường Nguyễn Biểu, Hải Phòng."],
       ["Anh ấy làm nghề gì?"],
       ["Anh ấy là Trưởng phòng."],
       ["Anh ấy làm nghề gì?"],

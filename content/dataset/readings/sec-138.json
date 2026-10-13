@@ -69,7 +69,7 @@
       ],
       [
         "Sự tuyệt chủng của các loài động thực vật sẽ gây tổn hại đến hệ sinh thái.",
-        "Ðối với chúng ta, việc gìn giữ hệ sinh thái quan trọng về nhiều mặt.",
+        "Đối với chúng ta, việc gìn giữ hệ sinh thái quan trọng về nhiều mặt.",
         "Thí dụ, nhờ sự đa dạng các chủng loài mà con người có thực phẩm, không khí và nước sạch, đất màu mỡ để trồng trọt.",
         "Ngoài ra, chúng ta còn hưởng được nhiều lợi ích từ nhiều loại thuốc và sản phẩm khác mà hệ sinh thái mang lại."
       ],
@@ -166,7 +166,7 @@
       ["8.300"],
       ["1.600"],
       ["15.000 (X)"],
-      ["Ðiều nào sau đây không được coi là nguvên nhân chủ yếu gây ra sự tuyệt chủng của các loài?"],
+      ["Điều nào sau đây không được coi là nguvên nhân chủ yếu gây ra sự tuyệt chủng của các loài?"],
       ["nạn ô nhiễm"],
       ["sự chọn lọc tự nhiên (X)"],
       ["sự hủy hoại môi trường sống"],
@@ -223,7 +223,7 @@
       ["Sự đa dạng chủng loài đã mang lại cho con người nhiều sản phẩm thiết yếu."],
       [
         "Sự tuyệt chủng của các loài động thực vật sẽ gây tổn hại đến hệ sinh thái.",
-        "Ðối với chúng ta, việc gìn giữ hệ sinh thái quan trọng về nhiều mặt.",
+        "Đối với chúng ta, việc gìn giữ hệ sinh thái quan trọng về nhiều mặt.",
         "Thí dụ, nhờ sự đa dạng các chủng loài mà con người có thực phẩm, không khí và nước sạch, đất màu mỡ để trồng trọt.",
         "Ngoài ra, chúng ta còn hưởng được nhiều lợi ích từ nhiều loại thuốc và sản phẩm khác mà hệ sinh thái mang lại."
       ],
@@ -409,7 +409,7 @@
       ],
       ["Ví dụ 1:"],
       ["Chúng ta hãy nói về những động vật đang có nguy cơ hiện nay: gấu trúc, hổ, tê giác và voi."],
-      ["Ðược. Ðầu tiên tôi thấy tê  giác bị liệt kê trong Danh sách đỏ."],
+      ["Được. Đầu tiên tôi thấy tê  giác bị liệt kê trong Danh sách đỏ."],
       ["Bây giờ chúng sống ở đồng cỏ, rừng nhiệt đới và cận nhiệt đới ở Châu Phi và Nam á."],
       ["Số lượng tê giác là khoảng 17000."],
       ["Chúng có chiều cao trung bình từ 1,2 đến 1,8 mét và nặng từ 1.000 đến 3.000 kg."],
@@ -577,10 +577,10 @@
       ["cha của chúng."],
       ["các mẹ và các chị em."],
       ["Tại sao thợ săn lại giết khỉ đột núi?"],
-      ["Ðể lấy da của chúng."],
-      ["Ðể lấy tổ của chúng."],
-      ["Ðể lấy cây mà chúng sống trên đó."],
-      ["Ðể lấy thực phẩm. (X)"],
+      ["Để lấy da của chúng."],
+      ["Để lấy tổ của chúng."],
+      ["Để lấy cây mà chúng sống trên đó."],
+      ["Để lấy thực phẩm. (X)"],
       ["Câu nào sau đây Không đúng?"],
       ["Khỉ đột núi sống ở Châu Phi."],
       ["Các nhà khoa học nghiên cứu khỉ đột và cho thấy một hình ảnh khác nhau của khỉ đột núi."],
@@ -712,7 +712,7 @@
       [
         "Phần 1",
         "Thực hành theo cặp.",
-        "Ðề nghị các biện pháp nên thực hiện để giải quyết các vấn đề sau."
+        "Đề nghị các biện pháp nên thực hiện để giải quyết các vấn đề sau."
       ],
       [
         "Mọi người không biết nhiều về sự cần thiết phải bảo vệ các động vật quí hiếm và đang có nguy cơ tuyệt chủng."
@@ -828,12 +828,12 @@
       ["Cho tôi biết thời gian."],
       ["Chỉ cho tôi cách thức."],
       ["Anh ấy mua một ít cà rốt và cải bắp."],
-      ["Ði bơi."],
+      ["Đi bơi."],
       ["Nhìn vào đồng hồ trên bệ lò sưởi."],
       ["Tôi nghĩ anh ấy muốn đi vào ngày mai."],
-      ["Ðó không phải là cái tôi muốn."],
+      ["Đó không phải là cái tôi muốn."],
       ["Hầu hết trong số họ đã đến bằng xe buýt."],
-      ["Ði bộ xuống con đường đó đến cuối kênh."],
+      ["Đi bộ xuống con đường đó đến cuối kênh."],
       ["Hôm nay tôi sẽ về nhà để mừng lễ Giáng sinh."],
       ["Một con chim trong tay có giá trị bằng hai con trong bụi rậm."],
       ["Nếu bạn không có thứ tốt nhất, thì hãy tận dụng hết những gì bạn có."]
@@ -857,10 +857,10 @@
     "vi": [
       ["Bài tập 1", "Hoàn thành các câu sau, sử dụng may/might với một động từ trong khung."],
       ["Mang theo ô với bạn khi bạn đi ra ngoài.", "Trời có thể mưa."],
-      ["Ðừng gây tiếng ồn quá nhiều.", "Bạn sẽ đánh thức đứa bé."],
+      ["Đừng gây tiếng ồn quá nhiều.", "Bạn sẽ đánh thức đứa bé."],
       ["Hãy cẩn thận với con chó đó.", "Nó có thể cắn bạn."],
       ["Tôi không nghĩ chúng ta nên vứt bỏ lá thư đó.", "Chúng ta có thể cần nó sau này."],
-      ["Hãy cẩn thận.", "Ðường đi nhiều băng tuyết.", "Bạn có thể bị trượt."],
+      ["Hãy cẩn thận.", "Đường đi nhiều băng tuyết.", "Bạn có thể bị trượt."],
       ["Tôi không muốn lũ trẻ chơi trong phòng này.", "Chúng có thể làm vỡ cái gì đó."]
     ],
     "img": "img/readings/1.12.114b.webp",
@@ -914,7 +914,7 @@
       ["Bạn có nhiều thời gian để quyết định.", "Bạn không cần quyết định bây giờ."],
       ["Bạn không cần rửa những trái cà chua đó.", "Chúng đã được rửa sạch."],
       [
-        "Ðây là một cuốn sách có giá trị.",
+        "Đây là một cuốn sách có giá trị.",
         "Bạn phải giữ gìn nó cẩn thận và bạn không được làm mất nó."
       ]
     ],
@@ -950,7 +950,7 @@
       [
         "Trên cao trong các rừng tre dày đặc ở các vùng núi đầy sương mù ở vùng tây nam Trung Quốc có một trong những loài động vật có vú quí hiếm nhất trên thế giới sinh sống: gấu trúc.",
         "Gấu trúc chủ yếu ăn măng và lá tre trúc.",
-        "Ðôi khi chúng cũng ăn các loại thực vật khác, cá và một số động vật nhỏ.",
+        "Đôi khi chúng cũng ăn các loại thực vật khác, cá và một số động vật nhỏ.",
         "Gấu trúc ăn nhanh và ăn rất nhiều.",
         "Chúng dành khoảng 12 giờ mỗi ngày để ăn."
       ],
@@ -1013,7 +1013,7 @@
     ],
     "vi": [
       [
-        "Ðọc đoạn văn và xác định những câu sau là đúng (T), sai (F) hay không được đề cập đến (NM)."
+        "Đọc đoạn văn và xác định những câu sau là đúng (T), sai (F) hay không được đề cập đến (NM)."
       ],
       [
         "Thật là khó mà biết được có bao nhiêu con voi đã từng sống trên lục địa này",
@@ -1046,7 +1046,7 @@
     ],
     "vi": [
       [
-        "Ðọc đoạn văn và xác định những câu sau là đúng (T), sai (F) hay không được đề cập đến (NM)."
+        "Đọc đoạn văn và xác định những câu sau là đúng (T), sai (F) hay không được đề cập đến (NM)."
       ],
       ["Hiện nay có khoảng 3 đến 5 triệu con voi ở châu Phi. (F)"],
       ["Voi bị săn bắt vì chúng không có chỗ nào để ẩn nấp. (NM)"],
@@ -1079,7 +1079,7 @@
       ],
       ["Sở thú thông báo: Du khách không được cho thú ăn."],
       ["Giáo viên: Các em không cần đọc toàn bộ cuốn sách nhưng các em phải đọc bốn chương đầu."],
-      ["Ðường sắt thông báo: Hành khách không được đi trên đường ray tàu."],
+      ["Đường sắt thông báo: Hành khách không được đi trên đường ray tàu."],
       ["Trường học thông báo: Cấm dùng thang máy khi có hỏa hoạn."],
       ["Bác sĩ: ông không được uống hai viên thuốc cùng một lúc.", "Chúng có thể gây tử vong."],
       ["Bác sĩ (nói với vợ của bệnh nhân): Nếu cơn đau đã qua, anh ta không cần uống thuốc nữa."]
@@ -1120,7 +1120,7 @@
         "Hiện nay còn khoảng 17.000 con tê giác trên thế giới.",
         "Tê giác nặng trung bình từ 1000-1300 kí lô.",
         "Thức ăn chính của tê giác là cỏ và cây xanh.",
-        "Ðời sống của nó kéo dài khoảng 40 năm.",
+        "Đời sống của nó kéo dài khoảng 40 năm.",
         "Do môi trường bị hủy hoại và nạn săn bắt trái phép, số lượng tê giác nay đã giảm.",
         "Chúng ta nên mở chiến dịch nêu cao nhận thức bảo vệ tê giác.",
         "Thêm vào đó, con người cần lệp thêm nhiều khu bảo tồn cho loài động vật này."

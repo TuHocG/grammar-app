@@ -789,7 +789,7 @@
       {
         "k": "ex",
         "t": "To race for the prize/to win the prize",
-        "vi": "Ðua lấy giải thưởng/giành giải thưởng"
+        "vi": "Đua lấy giải thưởng/giành giải thưởng"
       },
       {
         "k": "ex",
@@ -797,7 +797,7 @@
         "vi": "Hai xe tải đang đua nhau"
       },
       {"k": "ex", "t": "To race pigeons, dogs", "vi": "Cho chim bồ câu, chó tham dự cuộc đua"},
-      {"k": "m", "t": "Ðua chim bồ câu, chó"},
+      {"k": "m", "t": "Đua chim bồ câu, chó"},
       {
         "k": "ex",
         "t": "The filly has been raced twice this season",
@@ -819,8 +819,8 @@
         "t": "We had to race to catch the train",
         "vi": "Chúng ta phải chạy nhanh cho kịp với xe lửa"
       },
-      {"k": "ex", "t": "Don't race your engine!", "vi": "Ðừng cho máy chạy hết ga!"},
-      {"k": "m", "t": "Ðừng cho máy chạy nhanh khi chưa gài số!"},
+      {"k": "ex", "t": "Don't race your engine!", "vi": "Đừng cho máy chạy hết ga!"},
+      {"k": "m", "t": "Đừng cho máy chạy nhanh khi chưa gài số!"},
       {"k": "m", "t": "lôi"},
       {"k": "m", "t": "kéo"},
       {"k": "m", "t": "đẩy"},
@@ -850,7 +850,7 @@
       {
         "k": "ex",
         "t": "It was a race against time, but we made it:",
-        "vi": "Ðó là một cuộc chạy đua với thời gian, nhưng chúng tôi đã kịp hạn định."
+        "vi": "Đó là một cuộc chạy đua với thời gian, nhưng chúng tôi đã kịp hạn định."
       },
       {"k": "m", "t": "2. Vội vàng bắt kịp thời hạn."},
       {
@@ -1632,7 +1632,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Là niềm tin rằng khả năng cũng như đặc điểm của con người được quyết định do chủng tộc của họ. Niềm tin này thường được thể hiện ở sự khẳng định về sự vượt trội của một dân tộc hay một nhóm người hoặc thành kiến hay sự thù địch đối với một nhóm người đặc biệt. Không có cơ sở khoa học nào về định kiến dân tộc được chấp nhận rộng rãi, không có một dân tộc nào thực sự thuần về gen do sự giao phối và di cư giữa các dân tộc. Thông thường dân tộc bị hiểu nhầm với \"văn hóa\" của họ. Do đó sự khác biệt về văn hóa thường gây ra định kiến về dân tộc. Chủ nghĩa dân tộc thông qua các yếu tố kinh tế chính trị thường dẫn đến chiến tranh và các cuộc xung đột. Nó hiện lên trong các hệ tư tưởng chính trị như chủ nghĩa phát xít. Một ví dụ điển hình của chủ nghĩa dân tộc là chủ nghĩa Ðức Quốc Xã. Những người này tin rằng người Ðức và Bắc Âu tóc vàng luôn vượt trội người Do Thái và những người không thuộc chủng tộc Aryans. Ðiều này đã dẫn tới sự diệt chủng của hàng triệu người Do Thái, Xlavơ... ở Châu Âu trong suốt thời kỳ thống trị của Ðức Quốc Xã (1933-1945). Chủ nghĩa phân biệt chủng tộc cũng tạo ra một hệ thống chính trị, Apartheid ở Châu Phi. Chủ nghĩa Apartheid phân biệt rạch ròi giữa các chủng tộc, hình thành những vị trí xã hội cách biệt. Thậm chí ở những nơi mà chủ nghĩa dân tộc không được thể chế hóa, chúng cũng có ảnh hưởng rất lớn đến nền giáo dục, việc làm. Nhiều cuộc nội chiến như ở Bosnia-Herzegovina, Rwanda và Brundi đã xảy ra trong thập niên 90."
+        "t": "Là niềm tin rằng khả năng cũng như đặc điểm của con người được quyết định do chủng tộc của họ. Niềm tin này thường được thể hiện ở sự khẳng định về sự vượt trội của một dân tộc hay một nhóm người hoặc thành kiến hay sự thù địch đối với một nhóm người đặc biệt. Không có cơ sở khoa học nào về định kiến dân tộc được chấp nhận rộng rãi, không có một dân tộc nào thực sự thuần về gen do sự giao phối và di cư giữa các dân tộc. Thông thường dân tộc bị hiểu nhầm với \"văn hóa\" của họ. Do đó sự khác biệt về văn hóa thường gây ra định kiến về dân tộc. Chủ nghĩa dân tộc thông qua các yếu tố kinh tế chính trị thường dẫn đến chiến tranh và các cuộc xung đột. Nó hiện lên trong các hệ tư tưởng chính trị như chủ nghĩa phát xít. Một ví dụ điển hình của chủ nghĩa dân tộc là chủ nghĩa Đức Quốc Xã. Những người này tin rằng người Đức và Bắc Âu tóc vàng luôn vượt trội người Do Thái và những người không thuộc chủng tộc Aryans. Điều này đã dẫn tới sự diệt chủng của hàng triệu người Do Thái, Xlavơ... ở Châu Âu trong suốt thời kỳ thống trị của Đức Quốc Xã (1933-1945). Chủ nghĩa phân biệt chủng tộc cũng tạo ra một hệ thống chính trị, Apartheid ở Châu Phi. Chủ nghĩa Apartheid phân biệt rạch ròi giữa các chủng tộc, hình thành những vị trí xã hội cách biệt. Thậm chí ở những nơi mà chủ nghĩa dân tộc không được thể chế hóa, chúng cũng có ảnh hưởng rất lớn đến nền giáo dục, việc làm. Nhiều cuộc nội chiến như ở Bosnia-Herzegovina, Rwanda và Brundi đã xảy ra trong thập niên 90."
       }
     ],
     "k": "racism"
@@ -1859,7 +1859,7 @@
       {
         "k": "ex",
         "t": "Don't waste any more time racking your brain. Go borrow the book from the library:",
-        "vi": "Ðừng lãng phí thời gian để nặn óc suy nghĩ nữa. Hãy đi mượn cuốn sách đó ở thư viện."
+        "vi": "Đừng lãng phí thời gian để nặn óc suy nghĩ nữa. Hãy đi mượn cuốn sách đó ở thư viện."
       }
     ],
     "k": "rack one's brain(s)"
@@ -3124,7 +3124,7 @@
     "h": "RADC",
     "segs": [
       {"k": "pos", "t": "ngoại động từ"},
-      {"k": "m", "t": "ROYAL ARMY DEN-TAL CORPS Ðoàn nha khoa quân đội Hoàng gia."}
+      {"k": "m", "t": "ROYAL ARMY DEN-TAL CORPS Đoàn nha khoa quân đội Hoàng gia."}
     ],
     "k": "radc"
   },
@@ -3756,7 +3756,7 @@
   {"h": "radial pulse", "segs": [{"k": "m", "t": "Mạch quay."}], "k": "radial pulse"},
   {
     "h": "radial recurrent artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch quặt ngược quay."}],
+    "segs": [{"k": "m", "t": "Động mạch quặt ngược quay."}],
     "k": "radial recurrent artery"
   },
   {"h": "radial reflex", "segs": [{"k": "m", "t": "Phản xạ xương quay."}], "k": "radial reflex"},
@@ -4784,7 +4784,7 @@
   },
   {
     "h": "radiation cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh bức xạ."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh bức xạ."}],
     "k": "radiation cataract"
   },
   {
@@ -5833,7 +5833,7 @@
   {"h": "radical theory", "segs": [{"k": "m", "t": "lý thuyết cấp tiến."}], "k": "radical theory"},
   {
     "h": "radical treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị tiệt căn."}],
+    "segs": [{"k": "m", "t": "Điều trị tiệt căn."}],
     "k": "radical treatment"
   },
   {
@@ -6038,7 +6038,7 @@
   },
   {
     "h": "radicular artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch rễ thần kinh."}],
+    "segs": [{"k": "m", "t": "Động mạch rễ thần kinh."}],
     "k": "radicular artery"
   },
   {"h": "radicular cyst", "segs": [{"k": "m", "t": "U nang chân răng."}], "k": "radicular cyst"},
@@ -6429,7 +6429,7 @@
     "ipa": "'reidiou'kæb",
     "k": "radio cab"
   },
-  {"h": "radio cabin", "segs": [{"k": "m", "t": "buồng VTÐ."}], "k": "radio cabin"},
+  {"h": "radio cabin", "segs": [{"k": "m", "t": "buồng VTĐ."}], "k": "radio cabin"},
   {
     "h": "radio call",
     "segs": [{"k": "m", "t": "sự điện đàm vô tuyến; tín hiệu vô tuyến."}],
@@ -6580,7 +6580,7 @@
     "segs": [{"k": "m", "t": "sự tìm phương bằng máy vô tuyến."}],
     "k": "radio direction finding"
   },
-  {"h": "radio duty", "segs": [{"k": "m", "t": "chế độ trực ca VTÐ."}], "k": "radio duty"},
+  {"h": "radio duty", "segs": [{"k": "m", "t": "chế độ trực ca VTĐ."}], "k": "radio duty"},
   {
     "h": "radio echo observation",
     "segs": [
@@ -9319,7 +9319,7 @@
   },
   {
     "h": "radiomuscular",
-    "segs": [{"k": "m", "t": "Ðộng mạch quay-cơ, thần kinh quay-cơ."}],
+    "segs": [{"k": "m", "t": "Động mạch quay-cơ, thần kinh quay-cơ."}],
     "k": "radiomuscular"
   },
   {
@@ -9705,7 +9705,7 @@
   {"h": "radiosulfur", "segs": [{"k": "m", "t": "Sunfua phóng xạ."}], "k": "radiosulfur"},
   {
     "h": "radiosurgery",
-    "segs": [{"k": "m", "t": "Ðiều trị ngoại khoa bằng rađi."}],
+    "segs": [{"k": "m", "t": "Điều trị ngoại khoa bằng rađi."}],
     "k": "radiosurgery"
   },
   {
@@ -11048,7 +11048,7 @@
   {"h": "rag-wheet", "segs": [{"k": "m", "t": "bánh xích."}], "k": "rag-wheet"},
   {
     "h": "raga",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "điệu nhạc raga cổ truyền của Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "điệu nhạc raga cổ truyền của Ấn Độ."}],
     "ipa": "'ra:gə",
     "k": "raga"
   },
@@ -11235,7 +11235,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "căn chỉnh nhô trái. Trong xử lý văn bản và ấn loát văn phòng, đây là thao tác hiệu chỉnh văn bản để lề phải thẳng hàng, còn bên trái để nhấp nhô. Ðồng nghĩa với right justification."
+        "t": "căn chỉnh nhô trái. Trong xử lý văn bản và ấn loát văn phòng, đây là thao tác hiệu chỉnh văn bản để lề phải thẳng hàng, còn bên trái để nhấp nhô. Đồng nghĩa với right justification."
       }
     ],
     "k": "ragged-left alignment"
@@ -13586,7 +13586,7 @@
       {"k": "ex", "t": "the rains", "vi": ") mùa mưa"},
       {"k": "ex", "t": "the rains come in September", "vi": "đến tháng chín là bắt đầu mùa mưa"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the Rains", "vi": ") (số nhiều) vùng mưa ở Ðại tây dương (410 độ vĩ bắc)"},
+      {"k": "ex", "t": "the Rains", "vi": ") (số nhiều) vùng mưa ở Đại tây dương (410 độ vĩ bắc)"},
       {
         "k": "ex",
         "t": "after rain comes fair weather (sunshine",
@@ -13910,7 +13910,7 @@
       {
         "k": "ex",
         "t": "Don't worry. I'll be there rain or shine:",
-        "vi": "Ðừng lo tôi sẽ đến đó dù trời mưa hay nắng."
+        "vi": "Đừng lo tôi sẽ đến đó dù trời mưa hay nắng."
       },
       {
         "k": "ex",
@@ -14298,7 +14298,7 @@
       {"k": "m", "t": "Tập tài liệu Rainbow Series"},
       {
         "k": "m",
-        "t": "Rainbow Series là tên của tập tài liệu được xuất bản bởi Trung tâm Bảo mật Máy tính Quốc gia NCSC (National Computer Security Center). Những tài liệu này cung cấp các yêu cầu của Tiêu chuẩn Ðo lường Hệ thống Máy tính đáng Tin cậy TCSEC (Trusted Computer System Evaluation Criteria). TCSEC là một bộ tiêu chuẩn được dùng để xếp loại hoặc đánh giá sự bảo mật cung cấp bởi những hệ thống máy tính. Những tài liệu này được in trên bìa có màu sắc khác nhau giống như tên của chúng, TCSEC và phần lớn các tài liệu khác của Rainbow Series có trên địa chỉ Web dưới đề mục \"Thông tin trên Internet \""
+        "t": "Rainbow Series là tên của tập tài liệu được xuất bản bởi Trung tâm Bảo mật Máy tính Quốc gia NCSC (National Computer Security Center). Những tài liệu này cung cấp các yêu cầu của Tiêu chuẩn Đo lường Hệ thống Máy tính đáng Tin cậy TCSEC (Trusted Computer System Evaluation Criteria). TCSEC là một bộ tiêu chuẩn được dùng để xếp loại hoặc đánh giá sự bảo mật cung cấp bởi những hệ thống máy tính. Những tài liệu này được in trên bìa có màu sắc khác nhau giống như tên của chúng, TCSEC và phần lớn các tài liệu khác của Rainbow Series có trên địa chỉ Web dưới đề mục \"Thông tin trên Internet \""
       },
       {"k": "m", "t": "từ mục liên quan"},
       {
@@ -15211,7 +15211,7 @@
       {
         "k": "ex",
         "t": "What you just said may raise some eyebrows, but it shouldn't make anyone really angry:",
-        "vi": "Ðiều mà bạn vừa nói có thể làm người ta hơi ngạc nhiên, nhưng nó không thể làm cho ai tức giận."
+        "vi": "Điều mà bạn vừa nói có thể làm người ta hơi ngạc nhiên, nhưng nó không thể làm cho ai tức giận."
       },
       {
         "k": "ex",
@@ -15624,12 +15624,12 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the raj, the Raj, the British Raj", "vi": ") sự cai trị của Anh ở Ấn Ðộ"},
-      {"k": "m", "t": "thời kỳ cai trị của Anh ở Ấn Ðộ"},
+      {"k": "ex", "t": "the raj, the Raj, the British Raj", "vi": ") sự cai trị của Anh ở Ấn Độ"},
+      {"k": "m", "t": "thời kỳ cai trị của Anh ở Ấn Độ"},
       {
         "k": "ex",
         "t": "life under the Raj",
-        "vi": "cuộc sống dưới thời kỳ cai trị của Anh ở Ấn Ðộ (trước 1947)."
+        "vi": "cuộc sống dưới thời kỳ cai trị của Anh ở Ấn Độ (trước 1947)."
       }
     ],
     "ipa": "ra:dʒ",
@@ -15670,7 +15670,7 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "raja"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "vương công, tiểu vương (tước hiệu của vua, hoàng tử ở Ấn Ðộ)."}
+      {"k": "m", "t": "vương công, tiểu vương (tước hiệu của vua, hoàng tử ở Ấn Độ)."}
     ],
     "ipa": "'ra:dʒə",
     "k": "rajah"
@@ -16834,7 +16834,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Brahmin, thành viên của giới thầy tu Hindu ở vùng Nam Ấn. Các trường đạo bhakti đều thực hiện theo những lời giáo huấn của họ. Ramanuja đã xem Brahman (một kiểu mẫu hoàn hảo nhất) như thần Vishnu, một biểu tượng được những người mộ đạo thờ cúng trên khắp nước Ấn Ðộ. Theo lý thuyết của ông, thế giới thực sự tồn tại, không có sự hão huyền và thần thánh phải được thờ cúng một cách nhiệt thành. Lý thuyết này là cầu nối giữa triết học và đạo bhakti."
+        "t": "Brahmin, thành viên của giới thầy tu Hindu ở vùng Nam Ấn. Các trường đạo bhakti đều thực hiện theo những lời giáo huấn của họ. Ramanuja đã xem Brahman (một kiểu mẫu hoàn hảo nhất) như thần Vishnu, một biểu tượng được những người mộ đạo thờ cúng trên khắp nước Ấn Độ. Theo lý thuyết của ông, thế giới thực sự tồn tại, không có sự hão huyền và thần thánh phải được thờ cúng một cách nhiệt thành. Lý thuyết này là cầu nối giữa triết học và đạo bhakti."
       }
     ],
     "k": "ramanuja (d.1137)"
@@ -17155,12 +17155,12 @@
   {"h": "rami", "segs": [{"k": "m", "t": "Số nhiều của ramus."}], "k": "rami"},
   {
     "h": "rami dorsales linguae",
-    "segs": [{"k": "m", "t": "Ðộng mạch lưng lỡi."}],
+    "segs": [{"k": "m", "t": "Động mạch lưng lỡi."}],
     "k": "rami dorsales linguae"
   },
   {
     "h": "rami intercostales anteriores",
-    "segs": [{"k": "m", "t": "Ðộng mạch gián sườn trước."}],
+    "segs": [{"k": "m", "t": "Động mạch gián sườn trước."}],
     "k": "rami intercostales anteriores"
   },
   {
@@ -17859,10 +17859,10 @@
   {
     "h": "Ramsey pricing",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðịnh giá Ramsay."},
+      {"k": "m", "t": "(kinh tế) Định giá Ramsay."},
       {
         "k": "m",
-        "t": "Ðã được sử dụng rộng rãi trong thyết ngoại ứng môi trường, một qui tắc có thể cần thiết áp dụng cho mội mức giá trong một nền kinh tế, khi ít nhất có một thứ hàng hóa là hàng công cộng không thể cạn kiệt được."
+        "t": "Đã được sử dụng rộng rãi trong thyết ngoại ứng môi trường, một qui tắc có thể cần thiết áp dụng cho mội mức giá trong một nền kinh tế, khi ít nhất có một thứ hàng hóa là hàng công cộng không thể cạn kiệt được."
       }
     ],
     "k": "ramsey pricing"
@@ -19114,8 +19114,8 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "rani"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "hoàng hậu Ấn Ðộ, công chúa Ấn Ðộ"},
-      {"k": "m", "t": "vợ của tiểu vương Ấn Ðộ, quả phụ của tiểu vương Ấn Ðộ."}
+      {"k": "m", "t": "hoàng hậu Ấn Độ, công chúa Ấn Độ"},
+      {"k": "m", "t": "vợ của tiểu vương Ấn Độ, quả phụ của tiểu vương Ấn Độ."}
     ],
     "ipa": "'ra:ni:",
     "k": "ranee"
@@ -20139,7 +20139,7 @@
     "ipa": "'rænin",
     "k": "ranine"
   },
-  {"h": "ranine artery", "segs": [{"k": "m", "t": "Ðộng mạch nhái."}], "k": "ranine artery"},
+  {"h": "ranine artery", "segs": [{"k": "m", "t": "Động mạch nhái."}], "k": "ranine artery"},
   {"h": "ranine vein", "segs": [{"k": "m", "t": "Tĩnh mạch nhái."}], "k": "ranine vein"},
   {
     "h": "ranitidine",
@@ -20808,7 +20808,7 @@
       {
         "k": "ex",
         "t": "Don't rap my knuckles. I didn't do it:",
-        "vi": "Ðừng phạt con; con không làm điều đó."
+        "vi": "Đừng phạt con; con không làm điều đó."
       }
     ],
     "k": "rap someone's knuckles"
@@ -21071,29 +21071,29 @@
   },
   {
     "h": "raphe medullae oblongatae",
-    "segs": [{"k": "m", "t": "Ðường giữa hành não."}],
+    "segs": [{"k": "m", "t": "Đường giữa hành não."}],
     "k": "raphe medullae oblongatae"
   },
-  {"h": "raphe of pons", "segs": [{"k": "m", "t": "Ðường giữa cầu não."}], "k": "raphe of pons"},
-  {"h": "raphe of scrotum", "segs": [{"k": "m", "t": "Ðường giữa bìu."}], "k": "raphe of scrotum"},
+  {"h": "raphe of pons", "segs": [{"k": "m", "t": "Đường giữa cầu não."}], "k": "raphe of pons"},
+  {"h": "raphe of scrotum", "segs": [{"k": "m", "t": "Đường giữa bìu."}], "k": "raphe of scrotum"},
   {
     "h": "raphe paipebralis lateralis",
-    "segs": [{"k": "m", "t": "Ðường giữa mi mắt ngoài."}],
+    "segs": [{"k": "m", "t": "Đường giữa mi mắt ngoài."}],
     "k": "raphe paipebralis lateralis"
   },
-  {"h": "raphe palati", "segs": [{"k": "m", "t": "Ðường giữa vòm miệng."}], "k": "raphe palati"},
+  {"h": "raphe palati", "segs": [{"k": "m", "t": "Đường giữa vòm miệng."}], "k": "raphe palati"},
   {
     "h": "raphe penis",
-    "segs": [{"k": "m", "t": "Ðường giữa dương vật, đường đan dương vật."}],
+    "segs": [{"k": "m", "t": "Đường giữa dương vật, đường đan dương vật."}],
     "k": "raphe penis"
   },
   {
     "h": "raphe perinei",
-    "segs": [{"k": "m", "t": "Ðường giữa đáy chậu, đường đan đáy chậu."}],
+    "segs": [{"k": "m", "t": "Đường giữa đáy chậu, đường đan đáy chậu."}],
     "k": "raphe perinei"
   },
-  {"h": "raphe pontis", "segs": [{"k": "m", "t": "Ðường giữa cầu não."}], "k": "raphe pontis"},
-  {"h": "raphe scroti", "segs": [{"k": "m", "t": "Ðường giữa bìu."}], "k": "raphe scroti"},
+  {"h": "raphe pontis", "segs": [{"k": "m", "t": "Đường giữa cầu não."}], "k": "raphe pontis"},
+  {"h": "raphe scroti", "segs": [{"k": "m", "t": "Đường giữa bìu."}], "k": "raphe scroti"},
   {
     "h": "raphia",
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "raffia như raffia", "vi": "."}],
@@ -21948,7 +21948,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "người thuộc đẳng cấp quân sự và địa chủ ở Bắc Ấn Ðộ tự cho mình xuất thân từ đẳng cấp võ sĩ."
+        "t": "người thuộc đẳng cấp quân sự và địa chủ ở Bắc Ấn Độ tự cho mình xuất thân từ đẳng cấp võ sĩ."
       }
     ],
     "ipa": "'ra:put",
@@ -22638,7 +22638,7 @@
   },
   {
     "h": "rassagollas",
-    "segs": [{"k": "m", "t": "rassgonlac (món ăn từ sữa và xirô đường Ấn Ðộ)."}],
+    "segs": [{"k": "m", "t": "rassgonlac (món ăn từ sữa và xirô đường Ấn Độ)."}],
     "k": "rassagollas"
   },
   {
@@ -22686,7 +22686,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là một trào lưu chính trị tôn giáo xuất phát từ các tập tục thờ cúng của người Jamaica. Theo đó, Haile Selassie (Ras Tafari, 1892-1975) hoàng đế trước đây của Ethiopia được thờ cúng như một vị thần. Các nhà đấu tranh xã hội da đen trong những năm 1930 đặc biệt là Marcus Garvey (1887-1940) có ảnh hưởng lớn đến trào lưu này. Họ luôn nỗ lực đấu tranh nhằm lấy lại quyền cai trị châu Phi cho người da đen. Rastafarianism là sự kết hợp giữa những tôn giáo truyền thống của Châu Phi, quyền lực tối thượng của người da đen và kinh thánh. Ðặc biệt là cuộc di cư của người Do Thái và chủ nghĩa tự do (Millenarian liberation themes) cùng với nền văn hóa của người Caribê gốc Phi. Những người theo giáo phái này tin rằng người Ethiopia là một bộ lạc người Israel. Họ phải chịu sự cai trị của người da trắng như một sự trừng phạt cho những tội lỗi của mình nhưng cuối cùng họ cũng được trở về Châu Phi và nắm quyền trở lại. Giáo phái này không có giáo sĩ hay nhà thờ. Ngoài ra các trình tự lễ nghi đòi hỏi một sự tự nguyện cao. Những người thuộc giáo phái này thường để tóc thành các lọn dài, dùng các màu của Ethiopia như đỏ, đen, xanh và vàng bạc. Ngoài ra, họ còn kiêng thịt heo và dùng ma túy để dễ tập trung tư tưởng. Bob Marley (1945-1981) một nhạc sĩ đã phổ biến các ý tưởng của giáo phái này."
+        "t": "Đây là một trào lưu chính trị tôn giáo xuất phát từ các tập tục thờ cúng của người Jamaica. Theo đó, Haile Selassie (Ras Tafari, 1892-1975) hoàng đế trước đây của Ethiopia được thờ cúng như một vị thần. Các nhà đấu tranh xã hội da đen trong những năm 1930 đặc biệt là Marcus Garvey (1887-1940) có ảnh hưởng lớn đến trào lưu này. Họ luôn nỗ lực đấu tranh nhằm lấy lại quyền cai trị châu Phi cho người da đen. Rastafarianism là sự kết hợp giữa những tôn giáo truyền thống của Châu Phi, quyền lực tối thượng của người da đen và kinh thánh. Đặc biệt là cuộc di cư của người Do Thái và chủ nghĩa tự do (Millenarian liberation themes) cùng với nền văn hóa của người Caribê gốc Phi. Những người theo giáo phái này tin rằng người Ethiopia là một bộ lạc người Israel. Họ phải chịu sự cai trị của người da trắng như một sự trừng phạt cho những tội lỗi của mình nhưng cuối cùng họ cũng được trở về Châu Phi và nắm quyền trở lại. Giáo phái này không có giáo sĩ hay nhà thờ. Ngoài ra các trình tự lễ nghi đòi hỏi một sự tự nguyện cao. Những người thuộc giáo phái này thường để tóc thành các lọn dài, dùng các màu của Ethiopia như đỏ, đen, xanh và vàng bạc. Ngoài ra, họ còn kiêng thịt heo và dùng ma túy để dễ tập trung tư tưởng. Bob Marley (1945-1981) một nhạc sĩ đã phổ biến các ý tưởng của giáo phái này."
       }
     ],
     "k": "rastafarianism"
@@ -26834,7 +26834,7 @@
   },
   {
     "h": "Rauwolfia serpentina",
-    "segs": [{"k": "m", "t": "Cây Ba gạc Ấn Ðộ, cây ba gạc hoa đỏ ray Tia."}],
+    "segs": [{"k": "m", "t": "Cây Ba gạc Ấn Độ, cây ba gạc hoa đỏ ray Tia."}],
     "k": "rauwolfia serpentina"
   },
   {

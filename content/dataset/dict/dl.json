@@ -54,7 +54,7 @@
   },
   {
     "h": "DLCI/Control (LAPF) (D/C)",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "DLCI/Ðiều khiển (LAPF)"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "DLCI/Điều khiển (LAPF)"}],
     "k": "dlci/control (lapf) (d/c)"
   },
   {"h": "dlclidostosis", "segs": [{"k": "m", "t": "cốt hóa van tĩnh mạch."}], "k": "dlclidostosis"},

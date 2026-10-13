@@ -130,7 +130,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "giao thức CCITT, định ước CCITT. Một tập hợp các tiêu chuẩn trong truyền thông dữ liệu bằng modem, cổng nối tiếp, hoặc mạng máy tính. Những giao thức sau đây thuộc các xê ri V: CCITT V. 21. Xác định tiêu chuẩn đối với việc phát dữ liệu ở tốc độ 300 bít mỗi giây. Ðược sử dụng không thường xuyên ở Mỹ, nơi mà tiêu chuẩn Bell 103 A thông dụng hơn. CCITT V. 22."
+        "t": "giao thức CCITT, định ước CCITT. Một tập hợp các tiêu chuẩn trong truyền thông dữ liệu bằng modem, cổng nối tiếp, hoặc mạng máy tính. Những giao thức sau đây thuộc các xê ri V: CCITT V. 21. Xác định tiêu chuẩn đối với việc phát dữ liệu ở tốc độ 300 bít mỗi giây. Được sử dụng không thường xuyên ở Mỹ, nơi mà tiêu chuẩn Bell 103 A thông dụng hơn. CCITT V. 22."
       }
     ],
     "k": "ccitt protocol"

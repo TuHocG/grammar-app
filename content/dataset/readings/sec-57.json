@@ -52,7 +52,7 @@
       ["Xin lỗi", "Có cửa hàng bán đồ lưu niệm ở gần đây không?"],
       ["Có ạ. Có một cái trên đường Hàng Bài."],
       ["Làm sao để đến đó?"],
-      ["Ði thẳng.", "Rẽ vào con đường thứ hai bên trái."],
+      ["Đi thẳng.", "Rẽ vào con đường thứ hai bên trái."],
       ["Cửa hàng bán đồ lưu niệm ở bên phải, đối diện với bưu điện."],
       ["Cảm ơn em."],
       ["Không có chi."],
@@ -103,8 +103,8 @@
       ["Hỏi và chỉ hướng những nơi này."],
       ["Ngân hàng ở đâu?"],
       ["Ngân hàng ở giữa khách sạn và nhà hàng.", "Nó đối diện bệnh viện."],
-      ["Ðồn công an ở đâu?"],
-      ["Ðồn công an ở giữa bưu điện và viện bảo tàng.", "Nó đối diện sân vận động."],
+      ["Đồn công an ở đâu?"],
+      ["Đồn công an ở giữa bưu điện và viện bảo tàng.", "Nó đối diện sân vận động."],
       ["Hiệu giày ở đâu?"],
       ["Hiệu giày ở giữa nhà hàng và khách sạn.", "Nó đối diện siêu thị."],
       ["Hiệu sách ở đâu?"],
@@ -144,10 +144,10 @@
     ],
     "vi": [
       ["Bây giờ hãy xem lại sơ đồ chỉ đường.", "Nghe và viết các địa điểm."],
-      ["Ði thẳng đến đường thứ hai.", "Quẹo trái.", "Bên phải có gì?"],
-      ["Ði thẳng", "Quẹo phải vào đường thứ nhất.", "Kế bên nhà hàng là gì?"],
+      ["Đi thẳng đến đường thứ hai.", "Quẹo trái.", "Bên phải có gì?"],
+      ["Đi thẳng", "Quẹo phải vào đường thứ nhất.", "Kế bên nhà hàng là gì?"],
       ["Bên trái của bạn là gì?"],
-      ["Ði đến đường thứ hai.", "Quẹo phải", "Ðối diện với khách sạn là gì?"],
+      ["Đi đến đường thứ hai.", "Quẹo phải", "Đối diện với khách sạn là gì?"],
       ["Bên phải của bạn là gì?"],
       ["Trả lời"],
       ["Cửa hàng quà lưu niệm"],
@@ -177,8 +177,8 @@
       ["Quê bạn ở Huế.", "Huế cách Hà Nội bao xa vậy Hoa?"],
       [
         "Mình không biết chắc.",
-        "Ðó là một quãng đường dài.",
-        "Ði bằng xe đò ra Hà Nội mất khoảng 18 giờ."
+        "Đó là một quãng đường dài.",
+        "Đi bằng xe đò ra Hà Nội mất khoảng 18 giờ."
       ],
       ["Hãy ước chừng xem."],
       ["Mình cho là khoảng 680 km."],
@@ -211,7 +211,7 @@
       ["319 km."],
       ["Từ Hà Nội vào Huế bao xa?"],
       ["688 km."],
-      ["Từ Hà Nội vào Ðà Nẵng bao xa?"],
+      ["Từ Hà Nội vào Đà Nẵng bao xa?"],
       ["791 km"],
       ["Từ Hà Nội vào thành phố Hồ Chí Minh bao xa?"],
       ["1.726 km."]
@@ -252,7 +252,7 @@
         "Các phong bì là 2.000",
         "Tổng cộng xin cho 11.500 đồng."
       ],
-      ["Ðây ạ. 15.000 đồng."],
+      ["Đây ạ. 15.000 đồng."],
       ["Và đây là tiền thừa của em.", "Cảm ơn."],
       ["Cảm ơn. Tạm biệt."]
     ],
@@ -333,7 +333,7 @@
       ],
       ["Tại sao bạn cần thẻ điện thoại?"],
       ["Mình gọi điện cho cha mẹ mỗi tuần một lần."],
-      ["Ðược. Bưu điện đây rồi.", "Chúng ta hãy vào mua những thứ mà bạn cần."]
+      ["Được. Bưu điện đây rồi.", "Chúng ta hãy vào mua những thứ mà bạn cần."]
     ],
     "img": "img/readings/1.7.84a.webp",
     "page": "84"
@@ -380,7 +380,7 @@
         "Sau đó soạn những mẩu đối thoại tương tự; dùng các từ trong khung."
       ],
       ["Em muốn mua năm con tem gửi trong nước và hai con tem gửi đi Mỹ."],
-      ["Của em đây.", "Ðủ chưa em?"],
+      ["Của em đây.", "Đủ chưa em?"],
       ["Em còn cần một thẻ điện thoại 50.000 đồng.", "Tổng cộng bao nhiêu tiền ạ?"],
       ["Tổng cộng là 75.000 đồng."],
       ["80.000 đồng đây ạ."],

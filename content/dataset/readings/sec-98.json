@@ -18,7 +18,7 @@
     ],
     "vi": [
       ["Giáo dục đặc biệt"],
-      ["Ðọc"],
+      ["Đọc"],
       ["Trước khi đọc"],
       [
         "Liệt kê các hoạt động bạn thực hiện hàng ngày.",
@@ -159,7 +159,7 @@
     "vi": [
       [
         "Phần 2.",
-        "Ðọc lại đoạn văn và hoàn tất các câu sau bằng cách khoanh tròn kí tự A, B, c, hoặc D."
+        "Đọc lại đoạn văn và hoàn tất các câu sau bằng cách khoanh tròn kí tự A, B, c, hoặc D."
       ],
       ["Lớp học của cô Thủy khác với những lớp học khác vì học sinh bị khuyết tật."],
       ["từ nhiều gia đình đông con"],
@@ -275,7 +275,7 @@
       ["Bạn đã học trường trung học cơ sở nào?"],
       ["Tôi đã học trường trung học cơ sở Long Biên ở Gia Lâm, Hà Nội."],
       ["Bạn học những môn nào?"],
-      ["Tôi học của tôi là Toán, Lý, Hóa, Văn, Sinh, Sử, Ðịa, Anh, Tin học và Thể dục."],
+      ["Tôi học của tôi là Toán, Lý, Hóa, Văn, Sinh, Sử, Địa, Anh, Tin học và Thể dục."],
       ["Lịch sinh hoạt của bạn là gì?"],
       ["à, tôi đến trường vào buổi sáng và thường học 5 tiết."],
       ["Bạn có thể kể về bài kiểm tra và bài thi ở trường không?"],
@@ -327,14 +327,14 @@
       ["Phần 3", "Nói cho cả lớp nghe những gì em biết về người bạn cùng thực hành."],
       ["Ví dụ:"],
       [
-        "Hoa học trường Trung học cơ sở Lê Quý Ðôn.",
+        "Hoa học trường Trung học cơ sở Lê Quý Đôn.",
         "Cô ấy có 11 môn ở trường.",
         "Cô ấy đi học vào buổi sáng và thường có 4, 5 tiết mỗi buổi sáng.",
         "Cô ấy được giao nhiều bài tập về nhà sau buổi học.",
         "Cô ấy có nhiều bài kiểm tra khác nhau như vấn đáp",
         "kiểm tra 15 phút, kiểm tra 45 phút",
         "và kỳ thi cuối học kỳ",
-        "Ðiều ở trường mà cô ấy không thích là những giờ giải lao không đủ dài để thư giãn giữa các tiết.",
+        "Điều ở trường mà cô ấy không thích là những giờ giải lao không đủ dài để thư giãn giữa các tiết.",
         "Tuy nhiên, cô ấy cũng vẫn yêu trường, giáo viên, bạn bè và hoạt động trường lớp."
       ]
     ],
@@ -358,7 +358,7 @@
     ],
     "vi": [
       ["Trước khi nghe"],
-      ["Thực hành theo cặp.", "Ðiền vào mỗi chỗ trống với một từ cho sẵn trong khung."],
+      ["Thực hành theo cặp.", "Điền vào mỗi chỗ trống với một từ cho sẵn trong khung."],
       [
         "Tôi gia nhập câu lạc bộ nhiếp ảnh khi tôi còn ở trung học.",
         "và tôi bị cuốn hút vào nhiếp ảnh kể từ đó.",
@@ -456,8 +456,8 @@
       [
         "Các thành viên của câu lạc bộ sẽ trưng bày các bức ảnh của mình lần đầu tiên tại Hà nội.(T)"
       ],
-      ["Ðề tài của các bức ảnh là nỗi buồn sống trong cảnh khuyết tật.(F)"],
-      ["Ðề tài của các bức ảnh là vẻ đẹp của cuộc sống đời thường."],
+      ["Đề tài của các bức ảnh là nỗi buồn sống trong cảnh khuyết tật.(F)"],
+      ["Đề tài của các bức ảnh là vẻ đẹp của cuộc sống đời thường."],
       ["Niềm say mê chụp ảnh đã giúp bọn trẻ quên đi nỗi buồn.(T)"]
     ],
     "img": "img/readings/1.10.49b.webp",
@@ -582,7 +582,7 @@
       ["Không, chỉ một số thôi.", "Phòng tôi thì không có."],
       ["Bạn không thích cái gì của trung tâm nhất?"],
       [
-        "Ðó là giờ giấc.",
+        "Đó là giờ giấc.",
         "Họ nói lớp học từ 5:30 đến 8:30",
         "nhưng thực tế lớp thường bắt đầu trễ và nghỉ sớm."
       ],
@@ -659,13 +659,13 @@
         "Trong quảng cáo, ông nói chúng tôi có sách và băng miễn phí",
         "nhưng thực tế chúng tôi phải trả phí cho chúng.",
         "vấn đề tệ hơn khi phòng học không có máy điều hòa.",
-        "Ðiều đó hoàn toàn khác với quảng cáo.",
+        "Điều đó hoàn toàn khác với quảng cáo.",
         "Cuối cùng, những gì tôi ghét nhất về trung tâm của ông là thời gian.",
         "Thời lượng học không như quảng cáo nói.",
         "Các tiết học không những bắt đầu trễ mà còn nghỉ sớm."
       ],
       [
-        "Ðể giải quyết vấn đề, tôi yêu cầu ông trả lại tiền cho tôi.",
+        "Để giải quyết vấn đề, tôi yêu cầu ông trả lại tiền cho tôi.",
         "Tôi có đính kèm bản sao biên lai."
       ],
       [
@@ -673,7 +673,7 @@
         "Xin liên hệ với tôi theo địa chỉ trên hoặc điện số (04) 7.222999"
       ],
       ["Kính đơn"],
-      ["Ðỗ ân Duệ"]
+      ["Đỗ ân Duệ"]
     ],
     "img": "img/readings/1.10.51a.webp",
     "page": "51"
@@ -699,7 +699,7 @@
       ["Hãy đặt đôi vớ lên trên cái hộp."],
       ["Anh ấy bị mất việc khi làm bác sĩ trong bệnh viện."],
       ["Chuyện gì với ông vậy, ông chủ?"],
-      ["Ði bộ mà cũng gọi là thể thao à?"],
+      ["Đi bộ mà cũng gọi là thể thao à?"],
       ["Anh ấy không thể nói với cô ấy thêm gì nữa."],
       ["4 chúng tôi vừa đi bộ 14 dặm."]
     ],

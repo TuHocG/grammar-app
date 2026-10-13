@@ -12,7 +12,7 @@
       {
         "k": "ex",
         "t": "Mr . David of London Times",
-        "vi": "ông Ða-vít, phóng viên tờ thời báo Luân Ðôn"
+        "vi": "ông Đa-vít, phóng viên tờ thời báo Luân Đôn"
       },
       {
         "k": "ex",
@@ -320,7 +320,7 @@
       {"k": "ex", "t": "they are off", "vi": "họ đã đi rồi"},
       {"k": "m", "t": "họ đã xuất phát rồi"},
       {"k": "ex", "t": "I must be off soon", "vi": "tôi sắp phải đi rồi"},
-      {"k": "ex", "t": "she's off to London tomorrow", "vi": "ngày mai cô ta sẽ đi Luân Ðôn"},
+      {"k": "ex", "t": "she's off to London tomorrow", "vi": "ngày mai cô ta sẽ đi Luân Đôn"},
       {"k": "ex", "t": "we're off/off we go!", "vi": "chúng ta lên đường thôi!"},
       {"k": "m", "t": "ra khỏi, đứt, rời (nhất là từ thân thể con người)"},
       {"k": "ex", "t": "he's had his beard shaved off", "vi": "nó đã cạo râu"},
@@ -614,7 +614,7 @@
       {
         "k": "ex",
         "t": "Don't go there. It's out of bounds:",
-        "vi": "Ðừng đi tới đó. Nơi đó cấm vào."
+        "vi": "Đừng đi tới đó. Nơi đó cấm vào."
       },
       {
         "k": "ex",
@@ -650,7 +650,7 @@
       {
         "k": "ex",
         "t": "About this time of the day I go off my trolley. I get so tired:",
-        "vi": "Ðộ giờ này trong ngày tôi lại nổi điên lên. Tôi bị quá mệt mỏi."
+        "vi": "Độ giờ này trong ngày tôi lại nổi điên lên. Tôi bị quá mệt mỏi."
       }
     ],
     "k": "off one's rocker"
@@ -2751,7 +2751,7 @@
   {
     "h": "Offer curve",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðường chào hàng."},
+      {"k": "m", "t": "(kinh tế) Đường chào hàng."},
       {
         "k": "m",
         "t": "Là một kỹ thuật đồ thị do Edgeworth tạo ra nhằm minh họa cho những tác nhân của cầu tương hỗ."
@@ -2920,7 +2920,7 @@
       },
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "người chào giá."},
-      {"k": "m", "t": "Xem offer; Ðồng nghĩa: offeror."}
+      {"k": "m", "t": "Xem offer; Đồng nghĩa: offeror."}
     ],
     "ipa": "'ɔfərə(r)",
     "k": "offerer"
@@ -3775,7 +3775,7 @@
   },
   {
     "h": "Offices of Christ",
-    "segs": [{"k": "m", "t": "Các chức năng Ðức Kitô (vua, tiên tri, tư tế)."}],
+    "segs": [{"k": "m", "t": "Các chức năng Đức Kitô (vua, tiên tri, tư tế)."}],
     "k": "offices of christ"
   },
   {
@@ -4222,7 +4222,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nhân viên trạm cân. Ở các trung tâm thương nghiệp và vận tải của các nước tư bản (nhà ga, bến tàu, kho xuất nhập hàng...) chính quyền địa phương hoặc phòng thường mại thường chỉ định người đảm nhiệm việc cân trọng lượng hàng hóa. Ðó là nhân viên cân. Giấy chứng trọng lượng hàng hóa do nhân viên cần lập ra là cơ sở pháp lý để giải quyết mọi tranh chấp về trọng lượng hàng hóa."
+        "t": "nhân viên trạm cân. Ở các trung tâm thương nghiệp và vận tải của các nước tư bản (nhà ga, bến tàu, kho xuất nhập hàng...) chính quyền địa phương hoặc phòng thường mại thường chỉ định người đảm nhiệm việc cân trọng lượng hàng hóa. Đó là nhân viên cân. Giấy chứng trọng lượng hàng hóa do nhân viên cần lập ra là cơ sở pháp lý để giải quyết mọi tranh chấp về trọng lượng hàng hóa."
       }
     ],
     "k": "official weigher"
@@ -5373,7 +5373,7 @@
   },
   {
     "h": "oflag",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "trại giam sĩ quan (Ðức)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "trại giam sĩ quan (Đức)."}],
     "ipa": "'ɔ:flæg",
     "k": "oflag"
   },

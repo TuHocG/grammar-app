@@ -39,7 +39,7 @@
         "Không",
         "Chú ấy bay khắp khu vực.",
         "Chú ấy thường xuyên bay đến Hong Kong cũng như Bangkok.",
-        "Ðôi khi chú ấy bay đến Kuala Lumpur, hoặc Singapore hay Jakarta.",
+        "Đôi khi chú ấy bay đến Kuala Lumpur, hoặc Singapore hay Jakarta.",
         "Thỉnh thoảng chú ấy bay đi Phnom Penh, Vientiane hay Yangon."
       ],
       ["Mình rất muốn tham quan tất cả những nơi đó."],
@@ -152,7 +152,7 @@
       [
         "Hôm thứ Hai, tôi bay đến Bangkok rồi đến Singapore.",
         "Tôi ở lại khách sạn đêm thứ Hai và thứ Ba.",
-        "Ðến thứ Tư, tôi bay đến Jakarta.",
+        "Đến thứ Tư, tôi bay đến Jakarta.",
         "Tôi ở lại qua đêm và đến thứ Năm, tôi bay đến Bali.",
         "Tôi ở lại đó vào hôm thứ Năm và thứ Sáu.",
         "Hôm thứ Sáu, tôi đến dự buổi biểu diễn văn hóa và xem những điệu nhảy Bali.",
@@ -197,9 +197,9 @@
     ],
     "vi": [
       ["Nghe và đọc.", "Sau đó trả lời các câu hỏi."],
-      ["Ðiểm đến"],
+      ["Điểm đến"],
       [
-        "Ðông Nam á có nhiều điểm tham quan hấp dẫn.",
+        "Đông Nam á có nhiều điểm tham quan hấp dẫn.",
         "Nếu bạn quan tâm đến lịch sử, bạn có thể tham quan nhiều di tích cổ.",
         "Các điểm tham quan hấp dẫn đi từ những ngôi đền Khơme xinh đẹp của Angkor Wat đến khu đền tháp Phật giáo đồ sộ Borobudur ở Java."
       ],
@@ -216,7 +216,7 @@
         "Bạn có thể đi thuyền và tận hưởng một cuộc sống ngoài trời có lợi cho sức khỏe."
       ],
       ["Câu hỏi"],
-      ["Ðoạn văn đề cập đến ba loại hình hấp dẫn khách du lịch.", "Ðó là những loại hình nào?"],
+      ["Đoạn văn đề cập đến ba loại hình hấp dẫn khách du lịch.", "Đó là những loại hình nào?"],
       [
         "Ba loại hình hấp dẫn khách du lịch là những di tích cổ, những chương trình biểu diễn và các khu nghỉ mát."
       ],
@@ -262,28 +262,28 @@
       ["Những người nổi tiếng"],
       ["Chào Liz.", "Bạn đang làm gì vậy?"],
       ["Mình đang tìm hiểu một câu đố về lịch sử.", "Bạn có thể giúp mình không?"],
-      ["Ðược chứ.", "Vấn đề gì thế?"],
+      ["Được chứ.", "Vấn đề gì thế?"],
       ["Võ Nguyên Giáp là ai vậy?"],
       ["ông ấy là một vị tướng nổi tiếng."],
       ["ông ấy nổi tiếng về chuyện gì?"],
       [
         "Dễ thôi",
-        "ông ấy nổi tiếng về việc chỉ huy Quân đội Nhân Dân Việt Nam tại Ðiện Biên Phủ.",
+        "ông ấy nổi tiếng về việc chỉ huy Quân đội Nhân Dân Việt Nam tại Điện Biên Phủ.",
         "ông là Tổng tư lệnh của Quân đội Nhân Dân Việt Nam."
       ],
-      ["Chuyện gì đã xảy ra ở Ðiện Biên Phủ?"],
+      ["Chuyện gì đã xảy ra ở Điện Biên Phủ?"],
       ["Lực lượng của tướng Giáp đã đánh bại quân Pháp tại đó vào năm 1954."],
       ["Bạn có biết vị tướng này sinh năm nào không?"],
       [
         "Năm 1920.",
         "Không, tớ nhầm.",
-        "Ðó là năm 1911.",
+        "Đó là năm 1911.",
         "Tớ nhớ là ông 43 tuổi khi Quân đội Nhân Dân Việt Nam thắng trận."
       ],
       ["Cảm ơn Ba.", "Bạn rất giỏi lịch sử."],
       ["à, tớ rất thích lịch sử và tớ có nhiều sách lịch sử ở nhà."],
       ["Mình có thể mượn vài quyển không?"],
-      ["Ðược chứ.", "Chúng ta hãy đi lấy vài quyển ngay bây giờ đi."]
+      ["Được chứ.", "Chúng ta hãy đi lấy vài quyển ngay bây giờ đi."]
     ],
     "img": "img/readings/1.7.157a.webp",
     "page": "157"
@@ -394,7 +394,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc", "Sau đó trả lời các câu hỏi."],
+      ["Đọc", "Sau đó trả lời các câu hỏi."],
       [
         "Trận điện Biên Phủ đã chấm dứt cuộc chiến tranh đông Dương.",
         "Ngày nay điện Biên Phủ là một điểm du lịch.",
@@ -430,16 +430,16 @@
     ],
     "vi": [
       ["Câu hỏi"],
-      ["Người ta có thể tham quan những gì ở Ðiện Biên Phủ?"],
-      ["Người ta có thể tham quan trận địa ở Ðiện Biên Phủ."],
-      ["Khách du lịch còn có thể làm những gì ở Ðiện Biên Phủ?"],
+      ["Người ta có thể tham quan những gì ở Điện Biên Phủ?"],
+      ["Người ta có thể tham quan trận địa ở Điện Biên Phủ."],
+      ["Khách du lịch còn có thể làm những gì ở Điện Biên Phủ?"],
       [
         "Du khách còn có thể thưởng ngoạn cảnh đẹp của thung lũng Mường Thanh",
         "tham quan những ngôi làng lân cận, và chia sẻ lòng mến khách của những người dân địa phương."
       ],
-      ["Tại sao vị trí của Ðiện Biên Phủ quan trọng?"],
+      ["Tại sao vị trí của Điện Biên Phủ quan trọng?"],
       [
-        "Vì Ðiện Biên Phủ chỉ cách biên giới Lào 30 kilômét,",
+        "Vì Điện Biên Phủ chỉ cách biên giới Lào 30 kilômét,",
         "nên nó là một trung tâm thương mại quan trọng."
       ]
     ],
@@ -479,7 +479,7 @@
       ],
       ["Hans Christian Andersen (sinh năm 1805, tại đan Mạch - mất năm 1875)"],
       [
-        "Hans Christian Andersen là một tác giả người Ðan Mạch.",
+        "Hans Christian Andersen là một tác giả người Đan Mạch.",
         "ông lớn lên trong một gia đình nghèo",
         "và ông muốn trở thành diễn viên",
         "về sau, một người bạn đã trả chi phí cho việc học của ông tại đại học Copenhagen.",
@@ -533,7 +533,7 @@
       [
         "Bạn là một phóng viên báo chí.",
         "Hãy tưởng tượng bạn sẽ phỏng vấn Thomas Edison.",
-        "Ðặt càng nhiều câu hỏi càng tốt."
+        "Đặt càng nhiều câu hỏi càng tốt."
       ],
       ["Học sinh B"],
       [
@@ -597,7 +597,7 @@
       ],
       ["Ngài sinh năm nào, thưa ngài Andersen?"],
       ["Tôi sinh năm 1805."],
-      ["Có phải ngài sinh tại Ðan Mạch không?"],
+      ["Có phải ngài sinh tại Đan Mạch không?"],
       ["Vâng, đúng vậy."],
       ["Ngài đã muốn trở thành diễn viên phải không?"],
       ["Vâng, đúng vậy."],
@@ -640,9 +640,9 @@
       [
         "Hồ Chí Minh sinh năm 1890 ở tỉnh Nghệ An, làng Kim Liên.",
         "Năm 21 tuổi, ông rời khỏi Việt Nam đến Châu Phi, Anh và Châu Mỹ.",
-        "Sau đó, ông làm việc ở khách sạn tại Luân Ðôn vào những năm đầu thập niên 1900 và chuyển đến Pari năm 1917.",
+        "Sau đó, ông làm việc ở khách sạn tại Luân Đôn vào những năm đầu thập niên 1900 và chuyển đến Pari năm 1917.",
         "ông ở Pari 6 năm, một năm ở Mócơ và đến tỉnh Giang Châu.",
-        "ông thành lập đảng cộng sản Ðông dương khi ông sống ở Giang Châu.",
+        "ông thành lập đảng cộng sản Đông dương khi ông sống ở Giang Châu.",
         "Trong suốt những năm thập niên 1930 Hồ Chí Minh đi khắp nơi",
         "và sau khi trở về Việt Nam ông thành lập mặt trận Việt Minh năm 1941.",
         "Bốn năm sau, ông trở thành chủ tịch của nước Cộng hòa xã hội chủ nghĩa Việt Nam sau khi Việt Nam tuyên bố độc lập.",
@@ -670,7 +670,7 @@
     "vi": [
       ["Chủ điểm 5"],
       ["Tính từ và trạng từ"],
-      ["Ðánh dấu vào khung đúng."],
+      ["Đánh dấu vào khung đúng."],
       ["Hoàn tất các câu."],
       ["Anh ấy chạy nhanh."],
       ["Bà tôi đi chậm."],
@@ -720,8 +720,8 @@
       ["- Great! Thanks, Mom."]
     ],
     "vi": [
-      ["Ðộng từ tình thái"],
-      ["Làm việc với một bạn.", "Ðọc mẩu đối thoại."],
+      ["Động từ tình thái"],
+      ["Làm việc với một bạn.", "Đọc mẩu đối thoại."],
       ["Mẹ, con có thể đi xem phim được không?"],
       ["Không, con không thể."],
       ["Cho con đi đi mẹ!"],
@@ -938,7 +938,7 @@
     ],
     "vi": [
       ["Thì"],
-      ["Ðọc các câu.", "Ðánh dấu vào cột thích hợp."],
+      ["Đọc các câu.", "Đánh dấu vào cột thích hợp."],
       ["Quá khứ"],
       ["hiện tại"],
       ["Tương lai"],
@@ -947,7 +947,7 @@
       ["Hoa đã đi bác sĩ."],
       ["Trường Quang Trung sẽ tổ chức lễ kỷ niệm hàng năm vào ngày 23 tháng 3."],
       ["Nam đã ăn quá nhiều bánh tại bữa tiệc sinh nhật."],
-      ["Ðó là một ngày đẹp trời."],
+      ["Đó là một ngày đẹp trời."],
       ["Hoa đang đạp xe đến trường."],
       ["Trận đấu bóng rổ đã bắt đầu vào lúc 3 giờ 30 chiều."],
       ["Tôi rất hạnh phúc."],
@@ -1027,7 +1027,7 @@
     ],
     "vi": [
       ["Bởi vì"],
-      ["Ðọc mẩu đối thoại"],
+      ["Đọc mẩu đối thoại"],
       ["Lan, bạn thích màu nào nhất?"],
       ["Màu đỏ"],
       ["Tại sao?"],

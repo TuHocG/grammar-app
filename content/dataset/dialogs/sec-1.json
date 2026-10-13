@@ -49,7 +49,7 @@
         "a": "I'm boiling.",
         "b": "We haven't been going to the beach in a while.",
         "avi": "Tôi đang nóng nực lắm.",
-        "bvi": "Ðã lâu chúng ta chưa đi tắm biển."
+        "bvi": "Đã lâu chúng ta chưa đi tắm biển."
       },
       {
         "a": "What did he do when he saw me?",
@@ -84,8 +84,8 @@
       {
         "a": "Let me tell you something.",
         "b": "That was enough.",
-        "avi": "Ðể tôi kể cho bạn nghe vài chuyện.",
-        "bvi": "Ðủ rồi."
+        "avi": "Để tôi kể cho bạn nghe vài chuyện.",
+        "bvi": "Đủ rồi."
       }
     ]
   },
@@ -96,7 +96,7 @@
       {
         "a": "My phone was out of order.",
         "b": "Buy a new one.",
-        "avi": "Ðiện thoại của tôi bị hỏng.",
+        "avi": "Điện thoại của tôi bị hỏng.",
         "bvi": "Hãy mua một cái mới."
       },
       {
@@ -156,7 +156,7 @@
       {
         "a": "That song is my favorite.",
         "b": "Maybe you should record it.",
-        "avi": "Ðó là bản nhạc mà tôi thích nhất.",
+        "avi": "Đó là bản nhạc mà tôi thích nhất.",
         "bvi": "Bạn có thể thu băng lại."
       },
       {
@@ -174,7 +174,7 @@
       {
         "a": "What can be the meaning of that?",
         "b": "You know what that means.",
-        "avi": "Ðiều đó có nghĩa gì?",
+        "avi": "Điều đó có nghĩa gì?",
         "bvi": "Bạn biết nó có nghĩa gì mà."
       }
     ]
@@ -186,7 +186,7 @@
       {
         "a": "You'd look weird with a beard.",
         "b": "I hate shaving.",
-        "avi": "Ðể râu trông anh sẽ kỳ lắm.",
+        "avi": "Để râu trông anh sẽ kỳ lắm.",
         "bvi": "Tôi ghét cạo râu."
       },
       {
@@ -205,7 +205,7 @@
         "a": "He loves the girls next door.",
         "b": "It doesn't matter.",
         "avi": "Anh ấy yêu cô gái hàng xóm.",
-        "bvi": "Ðiều đó không quan trọng."
+        "bvi": "Điều đó không quan trọng."
       }
     ]
   },
@@ -276,7 +276,7 @@
       {
         "a": "Don't forget I like eggs well cooked.",
         "b": "So do I.",
-        "avi": "Ðừng quên rằng tôi thích trứng thật chín.",
+        "avi": "Đừng quên rằng tôi thích trứng thật chín.",
         "bvi": "Tôi cũng thế."
       },
       {
@@ -325,7 +325,7 @@
         "a": "No one knows for sure.",
         "b": "That's for sure.",
         "avi": "Không ai biết chắc điều đó.",
-        "bvi": "Ðiều đó chắc chắn mà."
+        "bvi": "Điều đó chắc chắn mà."
       }
     ]
   },
@@ -343,7 +343,7 @@
         "a": "I believe in God.",
         "b": "That's what many people believe.",
         "avi": "Tôi tin vào Chúa.",
-        "bvi": "Ðó chính là niềm tin của rất nhiều người."
+        "bvi": "Đó chính là niềm tin của rất nhiều người."
       },
       {
         "a": "Why do you make many charitable benefactions?",
@@ -427,7 +427,7 @@
         "a": "I expected better of him.",
         "b": "That was a mistake.",
         "avi": "Tôi cứ tưởng anh ta đã xử sự tốt hơn.",
-        "bvi": "Ðó là một sai lầm."
+        "bvi": "Đó là một sai lầm."
       },
       {
         "a": "On which floor does he live?",
@@ -475,7 +475,7 @@
         "a": "My parents bolted me in last night.",
         "b": "That's too bad.",
         "avi": "Tối qua ba mẹ tôi đã đóng chốt cửa nhốt tôi.",
-        "bvi": "Ðiều đó thật tồi tệ."
+        "bvi": "Điều đó thật tồi tệ."
       }
     ]
   },
@@ -559,7 +559,7 @@
         "a": "Do they serve drinks?",
         "b": "Yes, they do.",
         "avi": "Họ có phục vụ rượu không?",
-        "bvi": "Ðúng thế."
+        "bvi": "Đúng thế."
       },
       {
         "a": "Computers can never replace human being.",
@@ -817,7 +817,7 @@
       {
         "a": "That's a curio.",
         "b": "Maybe they are worth millions.",
-        "avi": "Ðó là vật quý hiếm.",
+        "avi": "Đó là vật quý hiếm.",
         "bvi": "Có lẽ chúng trị giá hàng triệu đô đấy."
       },
       {
@@ -872,7 +872,7 @@
         "a": "And what's your point of view?",
         "b": "Stop thinking about what the point is.",
         "avi": "Còn quan điểm của bạn thì sao?",
-        "bvi": "Ðừng suy nghĩ về quan điểm sống."
+        "bvi": "Đừng suy nghĩ về quan điểm sống."
       },
       {
         "a": "Who but him would do such a thing?",
@@ -902,7 +902,7 @@
         "a": "You made the choice, okay?",
         "b": "That's a tough one.",
         "avi": "Bạn đã lựa chọn mà, đúng không?",
-        "bvi": "Ðó là một lựa chọn khó khăn."
+        "bvi": "Đó là một lựa chọn khó khăn."
       },
       {
         "a": "This is really hard.",
@@ -992,7 +992,7 @@
         "a": "Poems are a little bit like songs.",
         "b": "Yes, but songs have music.",
         "avi": "Các bài thơ có vẻ giống các bài hát.",
-        "bvi": "Ðúng thế, nhưng các bài hát lại đi kèm với nhạc."
+        "bvi": "Đúng thế, nhưng các bài hát lại đi kèm với nhạc."
       },
       {
         "a": "How does music make you feel?",
@@ -1028,7 +1028,7 @@
         "a": "I've asked for her help.",
         "b": "Don't be ridiculous.",
         "avi": "Tôi đã bảo cô ấy giúp tôi.",
-        "bvi": "Ðừng ngớ ngẩn thế."
+        "bvi": "Đừng ngớ ngẩn thế."
       },
       {
         "a": "My mother's birthday is next week.",
@@ -1088,7 +1088,7 @@
         "a": "Is that it?",
         "b": "Yes. That's all I ever give her.",
         "avi": "Chỉ vậy thôi sao?",
-        "bvi": "Vâng. Ðó là tất cả những gì tôi tặng cho cô ấy."
+        "bvi": "Vâng. Đó là tất cả những gì tôi tặng cho cô ấy."
       },
       {
         "a": "You look very tired today.",
@@ -1201,13 +1201,13 @@
       {
         "a": "My cell phone was missing.",
         "b": "When did you lose it?",
-        "avi": "Ðiện thoại của tôi bị mất.",
+        "avi": "Điện thoại của tôi bị mất.",
         "bvi": "Bạn làm mất nó khi nào?"
       },
       {
         "a": "Where is my cell phone?",
         "b": "Did you check all your pockets?",
-        "avi": "Ðiện thoại của mình đâu rồi nhỉ?",
+        "avi": "Điện thoại của mình đâu rồi nhỉ?",
         "bvi": "Bạn đã kiểm tra mọi túi áo chưa?"
       },
       {
@@ -1358,7 +1358,7 @@
         "a": "I think I'll buy the red one.",
         "b": "That's not a bad idea.",
         "avi": "Tôi nghĩ tôi sẽ mua cái màu đỏ.",
-        "bvi": "Ðó không phải là một ý kiến dở."
+        "bvi": "Đó không phải là một ý kiến dở."
       },
       {
         "a": "There is not enough public parking.",
@@ -1399,7 +1399,7 @@
       {
         "a": "Are they expensive to ride on the bus?",
         "b": "I don't like riding the bus.",
-        "avi": "Ði xe buýt có đắt không?",
+        "avi": "Đi xe buýt có đắt không?",
         "bvi": "Tôi không thích đi xe bus."
       }
     ]
@@ -1442,7 +1442,7 @@
         "a": "I hope everyone will agree with me.",
         "b": "Don't worry about what people think.",
         "avi": "Tôi hy vọng mọi người sẽ đồng tình với tôi.",
-        "bvi": "Ðừng lo mọi người sẽ nghĩ gì."
+        "bvi": "Đừng lo mọi người sẽ nghĩ gì."
       },
       {
         "a": "Let's go there by car.",
@@ -1520,7 +1520,7 @@
         "a": "He treated her unfairly.",
         "b": "Life isn't fair.",
         "avi": "Anh ấy đối xử với cô ấy thật bất công.",
-        "bvi": "Ðời không công bằng."
+        "bvi": "Đời không công bằng."
       }
     ]
   },
@@ -1538,7 +1538,7 @@
         "a": "Aren't you concerned about it?",
         "b": "What for?",
         "avi": "Bạn không quan tâm đến nó sao?",
-        "bvi": "Ðể làm gì?"
+        "bvi": "Để làm gì?"
       },
       {
         "a": "A policeman approached me.",
@@ -1549,7 +1549,7 @@
       {
         "a": "You let it happen. Don't make excuses.",
         "b": "That's not right!",
-        "avi": "Ðó là lỗi do bạn gây ra. Ðừng có ra sức biện minh nữa.",
+        "avi": "Đó là lỗi do bạn gây ra. Đừng có ra sức biện minh nữa.",
         "bvi": "Không đúng!"
       }
     ]
@@ -1664,7 +1664,7 @@
         "a": "He usually drinks a lot of wine.",
         "b": "Oh. That's not good.",
         "avi": "Anh ấy thường uống nhiều rượu.",
-        "bvi": "ồ. Ðiều đó không tốt."
+        "bvi": "ồ. Điều đó không tốt."
       },
       {
         "a": "Do you have a little time?",
@@ -1682,19 +1682,19 @@
         "a": "Can't you work any faster?",
         "b": "Don't ever be in a hurry.",
         "avi": "Bạn không thể làm nhanh hơn sao?",
-        "bvi": "Ðừng bao giờ nóng vội."
+        "bvi": "Đừng bao giờ nóng vội."
       },
       {
         "a": "Maybe it's my fault.",
         "b": "It's not your fault.",
         "avi": "Có lẽ nó là lỗi của tôi.",
-        "bvi": "Ðó không phải là lỗi của bạn."
+        "bvi": "Đó không phải là lỗi của bạn."
       },
       {
         "a": "Why you don't blow you horn?",
         "b": "It's my fault.",
         "avi": "Tại sao bạn không nhấn còi?",
-        "bvi": "Ðó là lỗi của tôi."
+        "bvi": "Đó là lỗi của tôi."
       },
       {
         "a": "You made nothing of buying that car.",
@@ -1748,19 +1748,19 @@
         "a": "Haven't you forgotten something?",
         "b": "Let me get the keys.",
         "avi": "Bạn có quên gì không?",
-        "bvi": "Ðể tôi lấy chùm chìa khóa."
+        "bvi": "Để tôi lấy chùm chìa khóa."
       },
       {
         "a": "Do you need me to do the graphics, too?",
         "b": "Let me get my camera.",
         "avi": "Bạn có cần tôi làm phần hình ảnh không?",
-        "bvi": "Ðể tôi lấy máy chụp ảnh."
+        "bvi": "Để tôi lấy máy chụp ảnh."
       },
       {
         "a": "Would you wait a moment?",
         "b": "Well, hold on a little longer.",
         "avi": "Bạn có thể đợi trong giây lát không?",
-        "bvi": "Ðược, hãy đợi thêm chút nữa."
+        "bvi": "Được, hãy đợi thêm chút nữa."
       }
     ]
   },
@@ -1771,13 +1771,13 @@
       {
         "a": "Don't carry on so.",
         "b": "I think I'm going to explode.",
-        "avi": "Ðừng nóng nảy thế.",
+        "avi": "Đừng nóng nảy thế.",
         "bvi": "Tôi sắp nổi điên đây."
       },
       {
         "a": "Don't keep me waiting long.",
         "b": "Just hold on.",
-        "avi": "Ðừng để tôi phải đợi lâu.",
+        "avi": "Đừng để tôi phải đợi lâu.",
         "bvi": "Hãy đợi đã."
       },
       {
@@ -1897,7 +1897,7 @@
       {
         "a": "Does that help us?",
         "b": "They have to see it happen.",
-        "avi": "Ðiều đó có giúp ích gì không?",
+        "avi": "Điều đó có giúp ích gì không?",
         "bvi": "Họ phải tận mắt chứng kiến cơ."
       },
       {
@@ -1958,7 +1958,7 @@
         "a": "Do you have a problem with that?",
         "b": "Of course. It's not a hard job.",
         "avi": "Liệu bạn có gặp khó khăn gì với việc đó không?",
-        "bvi": "Tất nhiên. Ðó không phải là một công việc khó khăn."
+        "bvi": "Tất nhiên. Đó không phải là một công việc khó khăn."
       },
       {
         "a": "But I may need your help.",
@@ -1970,7 +1970,7 @@
         "a": "Could you get me some water?",
         "b": "Okay, I'll get a bucket.",
         "avi": "Bạn có thể lấy nước cho tôi không?",
-        "bvi": "Ðược, để tôi lấy xô nước."
+        "bvi": "Được, để tôi lấy xô nước."
       }
     ]
   },
@@ -2000,7 +2000,7 @@
         "a": "Did you see that movie?",
         "b": "Yes. It is a great movie.",
         "avi": "Bạn đã xem phim đó chưa?",
-        "bvi": "Rồi. Ðó là một bộ phim hay."
+        "bvi": "Rồi. Đó là một bộ phim hay."
       }
     ]
   },
@@ -2078,7 +2078,7 @@
         "a": "I'll teach you one.",
         "b": "Okay. What will you teach me?",
         "avi": "Tôi sẽ dạy cho bạn một trò.",
-        "bvi": "Ðược. Cậu sẽ dạy tôi trò gì?"
+        "bvi": "Được. Cậu sẽ dạy tôi trò gì?"
       },
       {
         "a": "Okay. what will you teach me?",
@@ -2102,7 +2102,7 @@
         "a": "Let's play cards.",
         "b": "Okay. Teach me how to play.",
         "avi": "Chúng ta chơi bài nào.",
-        "bvi": "Ðược. Hãy dạy tôi cách chơi đi."
+        "bvi": "Được. Hãy dạy tôi cách chơi đi."
       },
       {
         "a": "Teach me how to play.",
@@ -2204,7 +2204,7 @@
         "a": "It has got to be done.",
         "b": "That didn't take long.",
         "avi": "Phải làm việc đó.",
-        "bvi": "Ðây không phải là giải pháp lâu dài."
+        "bvi": "Đây không phải là giải pháp lâu dài."
       },
       {
         "a": "My family can't afford my tuition.",
@@ -2378,12 +2378,12 @@
         "a": "Can I have a dog?",
         "b": "That's your favorite thing to do?",
         "avi": "Tôi nuôi chó được không?",
-        "bvi": "Ðó là công việc yêu thích của bạn à?"
+        "bvi": "Đó là công việc yêu thích của bạn à?"
       },
       {
         "a": "That's your favorite thing to do?",
         "b": "Well, it's one of them.",
-        "avi": "Ðó là công việc yêu thích của bạn à?",
+        "avi": "Đó là công việc yêu thích của bạn à?",
         "bvi": "ừ, là một trong số đó."
       },
       {
@@ -2570,7 +2570,7 @@
         "a": "She and I are very much in love.",
         "b": "It was love at first sight?",
         "avi": "Cô ấy và tôi rất yêu nhau.",
-        "bvi": "Ðó là tình yêu sét đánh ư?"
+        "bvi": "Đó là tình yêu sét đánh ư?"
       }
     ]
   },
@@ -2690,7 +2690,7 @@
         "a": "Why do you ask her out?",
         "b": "To try something new and exciting.",
         "avi": "Tại sao bạn mời cô ấy đi chơi?",
-        "bvi": "Ðể thử nghiệm điều gì đó mới mẻ và thú vị."
+        "bvi": "Để thử nghiệm điều gì đó mới mẻ và thú vị."
       }
     ]
   },
@@ -2702,7 +2702,7 @@
         "a": "For a certainty, she loves you.",
         "b": "What if I don't like her?",
         "avi": "Chắc chắn không còn hồ nghi gì nữa là cô ấy yêu bạn.",
-        "bvi": "Ðiều gì sẽ xảy ra nếu tôi không thích cô ấy?"
+        "bvi": "Điều gì sẽ xảy ra nếu tôi không thích cô ấy?"
       },
       {
         "a": "What if I don't like her?",
@@ -2779,7 +2779,7 @@
       {
         "a": "I didn't come, unfortunately.",
         "b": "Where did you go?",
-        "avi": "Ðáng tiếc là tôi đã không đến được.",
+        "avi": "Đáng tiếc là tôi đã không đến được.",
         "bvi": "Bạn đã đi đâu?"
       }
     ]
@@ -2798,12 +2798,12 @@
         "a": "We went to a nice restaurant.",
         "b": "Anywhere else?",
         "avi": "Chúng tôi đến một nhà hàng đẹp.",
-        "bvi": "Ðâu nữa?"
+        "bvi": "Đâu nữa?"
       },
       {
         "a": "Anywhere else?",
         "b": "Then we went to a jazz club.",
-        "avi": "Ðâu nữa?",
+        "avi": "Đâu nữa?",
         "bvi": "Sau đó đến câu lạc bộ nhạc jazz."
       },
       {
@@ -2870,7 +2870,7 @@
         "a": "I would never go to your restaurant.",
         "b": "What happened at the restaurant?",
         "avi": "Tôi sẽ không bao giờ đến nhà hàng của bạn.",
-        "bvi": "Ðiều gì đã xảy ra ở nhà hàng?"
+        "bvi": "Điều gì đã xảy ra ở nhà hàng?"
       }
     ]
   },
@@ -2881,7 +2881,7 @@
       {
         "a": "What happened at the restaurant?",
         "b": "I don't like that man.",
-        "avi": "Ðiều gì đã xảy ra ở nhà hàng?",
+        "avi": "Điều gì đã xảy ra ở nhà hàng?",
         "bvi": "Tôi không thích người đàn ông đó."
       },
       {
@@ -2911,7 +2911,7 @@
       {
         "a": "Let me try this on?",
         "b": "Just wait until you're 50 years old.",
-        "avi": "Ðể tôi thử cái này xem sao?",
+        "avi": "Để tôi thử cái này xem sao?",
         "bvi": "Hãy đợi cho đến khi bạn 50 tuổi."
       },
       {
@@ -2959,7 +2959,7 @@
       {
         "a": "Yes, I was angry.",
         "b": "What did she say?",
-        "avi": "Ðúng là tôi đã giận dữ.",
+        "avi": "Đúng là tôi đã giận dữ.",
         "bvi": "Vậy cô ấy đã nói gì?"
       }
     ]
@@ -2983,7 +2983,7 @@
       {
         "a": "That is a good nose.",
         "b": "My nose is way too big.",
-        "avi": "Ðó là cái mũi rất đẹp.",
+        "avi": "Đó là cái mũi rất đẹp.",
         "bvi": "Chiếc mũi của tôi quá lớn."
       },
       {
@@ -3128,7 +3128,7 @@
         "a": "Do you want to go fishing?",
         "b": "Yes. That's a good idea.",
         "avi": "Bạn có muốn đi câu cá không?",
-        "bvi": "Có. Ðó là một ý hay."
+        "bvi": "Có. Đó là một ý hay."
       },
       {
         "a": "And where will we go?",
@@ -3320,7 +3320,7 @@
         "a": "There are so many great players.",
         "b": "Yes, but who is the greatest?",
         "avi": "Có quá nhiều cầu thủ lớn.",
-        "bvi": "Ðúng, nhưng ai là người vĩ đại nhất?"
+        "bvi": "Đúng, nhưng ai là người vĩ đại nhất?"
       }
     ]
   },
@@ -3373,7 +3373,7 @@
       {
         "a": "What happened behind the curtain?",
         "b": "Someone punched out someone.",
-        "avi": "Ðã xảy ra chuyện gì ở hậu trường?",
+        "avi": "Đã xảy ra chuyện gì ở hậu trường?",
         "bvi": "Một số người đã xô xát với nhau."
       },
       {
@@ -3494,7 +3494,7 @@
         "a": "Golf is so hard.",
         "b": "What's so hard about golf?",
         "avi": "Golf là một môn khó.",
-        "bvi": "Ðánh golf thì có gì khó nào?"
+        "bvi": "Đánh golf thì có gì khó nào?"
       },
       {
         "a": "Rules are so complicated.",
@@ -3554,7 +3554,7 @@
         "a": "He made a huge mistake.",
         "b": "That will teach him a good lesson.",
         "avi": "Anh ta đã phạm sai lầm to lớn.",
-        "bvi": "Ðiều đó sẽ dạy cho anh ta một bài học nhớ đời."
+        "bvi": "Điều đó sẽ dạy cho anh ta một bài học nhớ đời."
       },
       {
         "a": "Did you hear him promise?",
@@ -3602,12 +3602,12 @@
         "a": "Can't we hire more police?",
         "b": "No. It costs too much money.",
         "avi": "Chúng ta không thể thuê thêm nhiều cảnh sát hơn à?",
-        "bvi": "Không. Ðiều đó sẽ tốn rất nhiều tiền."
+        "bvi": "Không. Điều đó sẽ tốn rất nhiều tiền."
       },
       {
         "a": "No. It costs too much money.",
         "b": "Doesn't crime cost more than police?",
-        "avi": "Không. Ðiều đó sẽ tốn rất nhiều tiền.",
+        "avi": "Không. Điều đó sẽ tốn rất nhiều tiền.",
         "bvi": "Chẳng phải tội phạm làm tốn nhiều tiền hơn cảnh sát sao?"
       },
       {
@@ -3619,7 +3619,7 @@
       {
         "a": "Isn't that a flimsy argument?",
         "b": "Yes, it would.",
-        "avi": "Ðó chẳng phải là một lý lẽ nông cạn sao?",
+        "avi": "Đó chẳng phải là một lý lẽ nông cạn sao?",
         "bvi": "Vâng, có thể như vậy."
       }
     ]
@@ -3632,7 +3632,7 @@
         "a": "He tried to better his record.",
         "b": "Some guy rowed across the Atlantic Ocean.",
         "avi": "Anh ta cố gắng lập kỷ lục cao hơn.",
-        "bvi": "Một số người đã chèo thuyền xuyên qua Ðại Tây Dương."
+        "bvi": "Một số người đã chèo thuyền xuyên qua Đại Tây Dương."
       },
       {
         "a": "Now he has the world record!",
@@ -3644,7 +3644,7 @@
         "a": "Did he set a new record?",
         "b": "Yes, I think he did.",
         "avi": "Có phải anh ta muốn lập một kỷ lục mới hay không?",
-        "bvi": "Ðúng, tôi nghĩ vậy."
+        "bvi": "Đúng, tôi nghĩ vậy."
       },
       {
         "a": "He must be very hardworking.",
@@ -3758,12 +3758,12 @@
         "a": "I was going to be a doctor.",
         "b": "What happened to your plans?",
         "avi": "Tôi đã từng có ý định trở thành một bác sĩ.",
-        "bvi": "Ðiều gì đã xảy ra với kế hoạch của bạn vậy?"
+        "bvi": "Điều gì đã xảy ra với kế hoạch của bạn vậy?"
       },
       {
         "a": "What happened to your plans?",
         "b": "I got a D in college chemistry.",
-        "avi": "Ðiều gì đã xảy ra với kế hoạch của bạn vậy?",
+        "avi": "Điều gì đã xảy ra với kế hoạch của bạn vậy?",
         "bvi": "Tôi nhận điểm D môn hóa ở trường đại học."
       },
       {
@@ -3788,7 +3788,7 @@
         "a": "I was never cut out to be a doctor.",
         "b": "That's the truth.",
         "avi": "Tôi không bao giờ có đủ khả năng trở thành một bác sĩ.",
-        "bvi": "Ðó là sự thật."
+        "bvi": "Đó là sự thật."
       },
       {
         "a": "I've got my hands full.",
@@ -3800,7 +3800,7 @@
         "a": "Are you not satisfied with your work?",
         "b": "I want to move to Da Lat.",
         "avi": "Bạn không hài lòng với công việc của bạn sao?",
-        "bvi": "Tôi muốn chuyển đến Ðà Lạt."
+        "bvi": "Tôi muốn chuyển đến Đà Lạt."
       }
     ]
   },
@@ -3812,12 +3812,12 @@
         "a": "I want to move to the United States.",
         "b": "To the state or the city?",
         "avi": "Tôi muốn chuyển đến Hoa Kỳ.",
-        "bvi": "Ðến tiểu bang hay thành phố?"
+        "bvi": "Đến tiểu bang hay thành phố?"
       },
       {
         "a": "To the state or the city?",
         "b": "To the city, of course.",
-        "avi": "Ðến tiểu bang hay thành phố?",
+        "avi": "Đến tiểu bang hay thành phố?",
         "bvi": "Tất nhiên là đến thành phố."
       },
       {
@@ -3842,12 +3842,12 @@
         "a": "I will bussiness something in future.",
         "b": "That won't make you rich.",
         "avi": "Sau này tôi sẽ kinh doanh một cái gì đó.",
-        "bvi": "Ðiều đó không giúp bạn giàu lên đâu."
+        "bvi": "Điều đó không giúp bạn giàu lên đâu."
       },
       {
         "a": "What will happen if I fail?",
         "b": "Nobody will talk to you.",
-        "avi": "Ðiều gì sẽ xảy ra nếu tôi thất bại?",
+        "avi": "Điều gì sẽ xảy ra nếu tôi thất bại?",
         "bvi": "Chẳng ai thèm nói chuyện với bạn nữa."
       },
       {
@@ -4022,7 +4022,7 @@
         "a": "I started shopping at the dollar store.",
         "b": "That saves a lot of money.",
         "avi": "Tôi bắt đầu mua sắm ở cửa hàng bán những món rẻ tiền.",
-        "bvi": "Ðiều đó giúp tiết kiệm rất nhiều tiền."
+        "bvi": "Điều đó giúp tiết kiệm rất nhiều tiền."
       },
       {
         "a": "Long time no see.",
@@ -4189,7 +4189,7 @@
       {
         "a": "You live in London, don't you?",
         "b": "But I'm having a holiday here.",
-        "avi": "Bạn sống ở Luân Ðôn mà, phải không?",
+        "avi": "Bạn sống ở Luân Đôn mà, phải không?",
         "bvi": "Nhưng tôi nghỉ mát ở đây."
       }
     ]
@@ -4297,7 +4297,7 @@
       {
         "a": "For what?",
         "b": "I'd like to meet him.",
-        "avi": "Ðể làm gì?",
+        "avi": "Để làm gì?",
         "bvi": "Tôi rất muốn gặp anh ấy."
       },
       {
@@ -4508,7 +4508,7 @@
       {
         "a": "I'll tell you something else.",
         "b": "Forgive me for interrupting you.",
-        "avi": "Ðể tôi nói cho bạn hiểu.",
+        "avi": "Để tôi nói cho bạn hiểu.",
         "bvi": "Thứ lỗi cho tôi vì đã ngắt lời bạn."
       },
       {
@@ -4533,7 +4533,7 @@
         "a": "What's that you're holding?",
         "b": "This is for you, Kate!",
         "avi": "Bạn đang cầm cái gì thế?",
-        "bvi": "Ðây là quà tặng cho bạn, Kate!"
+        "bvi": "Đây là quà tặng cho bạn, Kate!"
       },
       {
         "a": "Did you open this?",
@@ -4569,7 +4569,7 @@
         "a": "I'm going to meet her.",
         "b": "Don't be silly.",
         "avi": "Tôi sẽ đi gặp cô ấy.",
-        "bvi": "Ðừng ngớ ngẩn."
+        "bvi": "Đừng ngớ ngẩn."
       },
       {
         "a": "Here's your birthday present.",
@@ -4617,24 +4617,24 @@
         "a": "You're sure you can do this?",
         "b": "I'm doing fine.",
         "avi": "Bạn có chắc là lo liệu được không?",
-        "bvi": "Ðược mà."
+        "bvi": "Được mà."
       },
       {
         "a": "I'm worried about you.",
         "b": "Don't mind me.",
         "avi": "Tôi thấy lo cho bạn.",
-        "bvi": "Ðừng bận tâm đến tôi."
+        "bvi": "Đừng bận tâm đến tôi."
       },
       {
         "a": "Don't worry about what people think.",
         "b": "Everyone is enjoying himself.",
-        "avi": "Ðừng lo mọi người sẽ nghĩ gì.",
+        "avi": "Đừng lo mọi người sẽ nghĩ gì.",
         "bvi": "Mọi người rất vui."
       },
       {
         "a": "Time to open presents.",
         "b": "Thank you again your delightful gift.",
-        "avi": "Ðến lúc mở quà rồi.",
+        "avi": "Đến lúc mở quà rồi.",
         "bvi": "Cảm ơn lần nữa về món quà tuyệt vời của bạn."
       }
     ]
@@ -4647,7 +4647,7 @@
         "a": "Thank you again your delightful gift.",
         "b": "Don't mention it.",
         "avi": "Cảm ơn lần nữa về món quà tuyệt vời của bạn.",
-        "bvi": "Ðừng bận tâm."
+        "bvi": "Đừng bận tâm."
       },
       {
         "a": "Apologizing for being late.",
@@ -4858,7 +4858,7 @@
         "a": "I'll call you.",
         "b": "Don't forget to write!",
         "avi": "Tôi sẽ gọi cho bạn.",
-        "bvi": "Ðừng quên viết thư!"
+        "bvi": "Đừng quên viết thư!"
       },
       {
         "a": "Don't forget to keep in touch.",
@@ -4942,7 +4942,7 @@
       {
         "a": "Haven't seen you for ages.",
         "b": "Have you been well?",
-        "avi": "Ðã lâu không gặp.",
+        "avi": "Đã lâu không gặp.",
         "bvi": "Bạn khỏe không?"
       },
       {
@@ -4967,7 +4967,7 @@
         "a": "Nobody is going to know anything.",
         "b": "Don't be silly!",
         "avi": "Sẽ không ai biết gì cả đâu.",
-        "bvi": "Ðừng ngớ ngẩn!"
+        "bvi": "Đừng ngớ ngẩn!"
       },
       {
         "a": "I'll tell her.",
@@ -4997,18 +4997,18 @@
         "a": "I'll pay your money back next Monday.",
         "b": "Don't worry about that.",
         "avi": "Thứ hai tuần sau tôi sẽ trả cho bạn.",
-        "bvi": "Ðừng lo lắng về chuyện đó."
+        "bvi": "Đừng lo lắng về chuyện đó."
       },
       {
         "a": "I promise I'll give it back.",
         "b": "Never mind.",
         "avi": "Mình hứa sẽ trả lại cho bạn.",
-        "bvi": "Ðừng bận tâm."
+        "bvi": "Đừng bận tâm."
       },
       {
         "a": "It takes much from the pleasure.",
         "b": "It was all my fault.",
-        "avi": "Ðiều đó làm mất cả vui.",
+        "avi": "Điều đó làm mất cả vui.",
         "bvi": "Lỗi tại tôi cả."
       },
       {
@@ -5032,7 +5032,7 @@
       {
         "a": "Have you ever been to Da Lat?",
         "b": "Yes, it's a very comfortable place.",
-        "avi": "Bạn từng đến Ðà Lạt chưa?",
+        "avi": "Bạn từng đến Đà Lạt chưa?",
         "bvi": "Phải, đó là một nơi rất dễ chịu."
       },
       {
@@ -5152,7 +5152,7 @@
       {
         "a": "It isn't the light-headedness.",
         "b": "He's under age.",
-        "avi": "Ðó không phải là sự nông nổi.",
+        "avi": "Đó không phải là sự nông nổi.",
         "bvi": "Cậu ấy chưa đến tuổi trưởng thành."
       },
       {
@@ -5266,7 +5266,7 @@
       {
         "a": "Don't worry, I'm going.",
         "b": "Good luck to his journey.",
-        "avi": "Ðừng lo, tôi đi đây.",
+        "avi": "Đừng lo, tôi đi đây.",
         "bvi": "Thượng lộ bình an."
       },
       {
@@ -5284,7 +5284,7 @@
       {
         "a": "Don't go yet. I like talking to you.",
         "b": "Let's go into the living room.",
-        "avi": "Ðừng đi vội. Tôi muốn nói chuyện với bạn.",
+        "avi": "Đừng đi vội. Tôi muốn nói chuyện với bạn.",
         "bvi": "Chúng ta hãy vào phòng khách đi."
       }
     ]
@@ -5339,7 +5339,7 @@
         "a": "My wife usually cooks dinner at home.",
         "b": "Does she cook dinner every night?",
         "avi": "Vợ tôi thường nấu bữa tối ở nhà.",
-        "bvi": "Ðêm nào cô ấy cũng nấu bữa ăn tối hả?"
+        "bvi": "Đêm nào cô ấy cũng nấu bữa ăn tối hả?"
       },
       {
         "a": "Actually, we usually go twice.",
@@ -5428,7 +5428,7 @@
       {
         "a": "How about going out for a picnic?",
         "b": "Sounds a good idea.",
-        "avi": "Ði dã ngoại được không?",
+        "avi": "Đi dã ngoại được không?",
         "bvi": "Nghe có vẻ hay đấy."
       },
       {
@@ -5446,7 +5446,7 @@
       {
         "a": "Don't overworking yourself.",
         "b": "I've been tied up with my business.",
-        "avi": "Ðừng làm việc quá sức mình.",
+        "avi": "Đừng làm việc quá sức mình.",
         "bvi": "Tôi mệt mỏi với công việc của mình."
       },
       {
@@ -5477,7 +5477,7 @@
         "a": "So I've got to hurry up.",
         "b": "Don't be angry.",
         "avi": "Vậy tôi phải nhanh lên mới được.",
-        "bvi": "Ðừng nóng."
+        "bvi": "Đừng nóng."
       },
       {
         "a": "So why are you talking?",
@@ -5494,7 +5494,7 @@
       {
         "a": "Is your phone out of order?",
         "b": "Any chance of using your telephone?",
-        "avi": "Ðiện thoại của bạn bị hỏng à?",
+        "avi": "Điện thoại của bạn bị hỏng à?",
         "bvi": "Sử dụng điện thoại của bạn được không?"
       }
     ]
@@ -5519,9 +5519,9 @@
         "a": "Do you talk about the trip?",
         "b": "Right.",
         "avi": "Bạn muốn bàn về chuyến đi à?",
-        "bvi": "Ðúng đấy."
+        "bvi": "Đúng đấy."
       },
-      {"a": "Do you agree?", "b": "Fine by me.", "avi": "Bạn có đồng ý không?", "bvi": "Ðược thôi."}
+      {"a": "Do you agree?", "b": "Fine by me.", "avi": "Bạn có đồng ý không?", "bvi": "Được thôi."}
     ]
   },
   {
@@ -5544,13 +5544,13 @@
         "a": "I have a short memory.",
         "b": "Let me repeat that to make sue.",
         "avi": "Tôi có trí nhớ kém.",
-        "bvi": "Ðể tôi nhắc lại cho chắc ăn."
+        "bvi": "Để tôi nhắc lại cho chắc ăn."
       },
       {
         "a": "Let me put it this way.",
         "b": "Wait a moment.",
         "avi": "để tôi làm nó theo cách này.",
-        "bvi": "Ðợi một chút."
+        "bvi": "Đợi một chút."
       }
     ]
   },
@@ -5688,7 +5688,7 @@
         "a": "Thank you for your hospitality. Good luck.",
         "b": "Come and visit us again, will you?",
         "avi": "Cám ơn vì đã tiếp đón. Chúc may mắn.",
-        "bvi": "Ðến thăm chúng tôi lần nữa nhé?"
+        "bvi": "Đến thăm chúng tôi lần nữa nhé?"
       },
       {
         "a": "Can it wait?",
@@ -5754,7 +5754,7 @@
       {
         "a": "Have a good trip.",
         "b": "I'd like to say goodbye to you all.",
-        "avi": "Ði mạnh giỏi nhé.",
+        "avi": "Đi mạnh giỏi nhé.",
         "bvi": "Chào tạm biệt tất cả các bạn."
       }
     ]
@@ -5773,7 +5773,7 @@
         "a": "Same again.",
         "b": "okay, see you!",
         "avi": "Vẫn cứ như vậy nhé.",
-        "bvi": "Ðược rồi, gặp sau nhé!"
+        "bvi": "Được rồi, gặp sau nhé!"
       },
       {"a": "Excuse me?", "b": "Who's that?", "avi": "Xin cho hỏi?", "bvi": "Ai ở đầu dây vậy?"},
       {
@@ -5797,14 +5797,14 @@
       {
         "a": "What a rude man.",
         "b": "There's no reason to get so upset.",
-        "avi": "Ðúng là thằng thô lỗ!",
+        "avi": "Đúng là thằng thô lỗ!",
         "bvi": "Không có lý do gì để bực tức đến vậy."
       },
       {
         "a": "He's become a traitor.",
         "b": "It's not as bad as all that.",
         "avi": "Anh ấy đã trở thành kẻ phản bội.",
-        "bvi": "Ðâu có tệ đến thế!"
+        "bvi": "Đâu có tệ đến thế!"
       },
       {
         "a": "I hope you'll forgive him.",
@@ -5840,7 +5840,7 @@
         "a": "It is an obsession.",
         "b": "Don't let it get to you.",
         "avi": "Nó là nỗi ám ảnh.",
-        "bvi": "Ðừng bận tâm đến nó."
+        "bvi": "Đừng bận tâm đến nó."
       }
     ]
   },
@@ -5893,7 +5893,7 @@
       {
         "a": "Don't start with me right now.",
         "b": "What a bore!",
-        "avi": "Ðừng có kiếm chuyện với tôi.",
+        "avi": "Đừng có kiếm chuyện với tôi.",
         "bvi": "Bực mình ghê!"
       },
       {
@@ -6008,7 +6008,7 @@
         "a": "Nothing is ever given.",
         "b": "How true!",
         "avi": "Chẳng có gì cho không cả.",
-        "bvi": "Ðúng lắm!"
+        "bvi": "Đúng lắm!"
       },
       {
         "a": "Am I right?",
@@ -6031,8 +6031,8 @@
       {
         "a": "That is an imminent result.",
         "b": "That's exactly what I was thinking.",
-        "avi": "Ðó là hậu quả tất yếu.",
-        "bvi": "Ðúng như tôi nghĩ."
+        "avi": "Đó là hậu quả tất yếu.",
+        "bvi": "Đúng như tôi nghĩ."
       },
       {
         "a": "He is indeed a clever man.",
@@ -6068,7 +6068,7 @@
         "a": "then, she was telling the truth.",
         "b": "Right on!",
         "avi": "thì ra, cô ấy đã nói thật.",
-        "bvi": "Ðúng phóc!"
+        "bvi": "Đúng phóc!"
       },
       {
         "a": "They are all in favor of this plan.",
@@ -6080,7 +6080,7 @@
         "a": "That's a terrific idea!",
         "b": "That's a good idea, but...",
         "avi": "ý kiến thật tuyệt!",
-        "bvi": "Ðó là ý kiến hay, nhưng..."
+        "bvi": "Đó là ý kiến hay, nhưng..."
       }
     ]
   },
@@ -6128,7 +6128,7 @@
         "a": "I may take issue with him.",
         "b": "Don't make me laugh!",
         "avi": "Tôi có thể tranh cãi với hắn.",
-        "bvi": "Ðừng làm tôi cười."
+        "bvi": "Đừng làm tôi cười."
       },
       {
         "a": "I was chosen prefect.",
@@ -6177,7 +6177,7 @@
         "a": "You find it a difficult thing.",
         "b": "That's right.",
         "avi": "Bạn cho nó là một việc khó khăn.",
-        "bvi": "Ðúng vậy."
+        "bvi": "Đúng vậy."
       },
       {
         "a": "It was more complicated than I expected.",
@@ -6195,7 +6195,7 @@
         "a": "Explain yourself!",
         "b": "Let me put it another way...",
         "avi": "Bạn hãy nói cho rõ đi nào.",
-        "bvi": "Ðể tôi nói cách khác..."
+        "bvi": "Để tôi nói cách khác..."
       }
     ]
   },
@@ -6213,7 +6213,7 @@
         "a": "The car won't start",
         "b": "Let me try that again...",
         "avi": "Chiếc xe không nổ máy",
-        "bvi": "Ðể tôi thử lại..."
+        "bvi": "Để tôi thử lại..."
       },
       {
         "a": "Nobody gets me.",
@@ -6327,7 +6327,7 @@
         "a": "We don't have much time.",
         "b": "Don't hurry, I have nothing to do.",
         "avi": "Ta không còn nhiều thời gian đâu.",
-        "bvi": "Ðừng vội, tôi không có việc gì làm."
+        "bvi": "Đừng vội, tôi không có việc gì làm."
       },
       {
         "a": "Let's get together sometime.",
@@ -6435,7 +6435,7 @@
         "a": "I'll come get you, okay?",
         "b": "Yes, but when I can expect you?",
         "avi": "Tôi sẽ đến đón bạn, được chứ?",
-        "bvi": "Ðược, nhưng tôi đợi bạn lúc nào?"
+        "bvi": "Được, nhưng tôi đợi bạn lúc nào?"
       }
     ]
   },
@@ -6477,7 +6477,7 @@
         "a": "I'll be right there.",
         "b": "Don't forget to bring your wife with you.",
         "avi": "Tôi sẽ đến đó ngay.",
-        "bvi": "Ðừng quên đem theo bà xã."
+        "bvi": "Đừng quên đem theo bà xã."
       },
       {
         "a": "Maybe he is coming, too.",
@@ -6548,7 +6548,7 @@
       {
         "a": "For real, why my hair turned white.",
         "b": "Why don't you dye your hair?",
-        "avi": "Ðó là lý do tóc tôi bạc trắng.",
+        "avi": "Đó là lý do tóc tôi bạc trắng.",
         "bvi": "Sao bạn không nhuộm tóc?"
       },
       {
@@ -6626,7 +6626,7 @@
       {
         "a": "Christmas shopping just knocked me out.",
         "b": "Merry Christmas to you.",
-        "avi": "Ði mua sắm dịp giáng sinh làm tôi mệt nhoài.",
+        "avi": "Đi mua sắm dịp giáng sinh làm tôi mệt nhoài.",
         "bvi": "Chúc bạn Giáng sinh vui vẻ nhé."
       },
       {
@@ -6700,7 +6700,7 @@
         "a": "How about having dinner with me tonight?",
         "b": "That'd be delightful.",
         "avi": "Thế nào, bạn dùng cơm với chúng tôi tối nay nhé?",
-        "bvi": "Ðiều ấy thật sự vui sướng đối với tôi."
+        "bvi": "Điều ấy thật sự vui sướng đối với tôi."
       }
     ]
   },
@@ -6730,7 +6730,7 @@
         "a": "I think I must be going.",
         "b": "All right, see you.",
         "avi": "Chắc tôi phải đi thôi.",
-        "bvi": "Ðược rồi, gặp sau nhé."
+        "bvi": "Được rồi, gặp sau nhé."
       }
     ]
   },
@@ -6988,7 +6988,7 @@
         "a": "I'm looking forward to his news.",
         "b": "Let me tell you something bad.",
         "avi": "Tôi đang trông chờ tin tức từ anh ấy.",
-        "bvi": "Ðể tôi báo cho bạn một tin xấu."
+        "bvi": "Để tôi báo cho bạn một tin xấu."
       },
       {
         "a": "That didn't go very well at all, did it?",
@@ -7137,20 +7137,20 @@
       {
         "a": "Don't be sad. that's life.",
         "b": "It's no use complaining.",
-        "avi": "Ðừng buồn. Cuộc sống là như thế đấy!",
+        "avi": "Đừng buồn. Cuộc sống là như thế đấy!",
         "bvi": "Than phiền cũng vô ích."
       },
       {
         "a": "You must try one.",
         "b": "All right, I'll try it again.",
         "avi": "Bạn phải thử một cái.",
-        "bvi": "Ðược rồi, tôi sẽ thử lại."
+        "bvi": "Được rồi, tôi sẽ thử lại."
       },
       {
         "a": "I'm most upset to hear that.",
         "b": "Don't feel unhappy.",
         "avi": "Tôi rất buồn khi nghe tin đó.",
-        "bvi": "Ðừng buồn."
+        "bvi": "Đừng buồn."
       }
     ]
   },
@@ -7282,7 +7282,7 @@
         "a": "I'm sorry for what I've done.",
         "b": "Don't think any more about it.",
         "avi": "Tôi xin lỗi về những gì tôi đã làm.",
-        "bvi": "Ðừng nghĩ về nó nữa."
+        "bvi": "Đừng nghĩ về nó nữa."
       },
       {
         "a": "I'll try my best to help you.",
@@ -7294,7 +7294,7 @@
         "a": "Do you remember locking the door?",
         "b": "That's the most important.",
         "avi": "Bạn có nhớ khóa cửa không?",
-        "bvi": "Ðiều đó quan trọng nhất mà."
+        "bvi": "Điều đó quan trọng nhất mà."
       },
       {
         "a": "You lied shamelessly.",
@@ -7318,19 +7318,19 @@
         "a": "Why do you say that?",
         "b": "Don't argue aimlessly.",
         "avi": "Sao bạn lại nói thế?",
-        "bvi": "Ðừng tranh cãi lòng vòng nữa."
+        "bvi": "Đừng tranh cãi lòng vòng nữa."
       },
       {
         "a": "Don't argue aimlessly.",
         "b": "Let's sit down and talk things over.",
-        "avi": "Ðừng tranh cãi lòng vòng nữa.",
+        "avi": "Đừng tranh cãi lòng vòng nữa.",
         "bvi": "Chúng ta hãy ngồi xuống cùng nhau thảo luận mọi chuyện."
       },
       {
         "a": "Let's sit down and talk things over.",
         "b": "That'd be wonderful if we can.",
         "avi": "Chúng ta hãy ngồi xuống cùng nhau thảo luận mọi chuyện.",
-        "bvi": "Ðiều đó thì tuyệt lắm nếu chúng ta có thể."
+        "bvi": "Điều đó thì tuyệt lắm nếu chúng ta có thể."
       }
     ]
   },
@@ -7354,12 +7354,12 @@
         "a": "Is that everything he got?",
         "b": "That's all he has!",
         "avi": "Anh ấy chỉ có thế thôi sao?",
-        "bvi": "Ðó là tất cả những gì anh ta có."
+        "bvi": "Đó là tất cả những gì anh ta có."
       },
       {
         "a": "That's all he has!",
         "b": "It's really a disaster to him.",
-        "avi": "Ðó là tất cả những gì anh ta có.",
+        "avi": "Đó là tất cả những gì anh ta có.",
         "bvi": "Thật là thảm họa đối với anh ta."
       }
     ]
@@ -7419,7 +7419,7 @@
       {
         "a": "Could this be true?",
         "b": "I can easily believe it.",
-        "avi": "Ðiều này là thật ư?",
+        "avi": "Điều này là thật ư?",
         "bvi": "Tôi có thể dễ dàng tin điều đó."
       }
     ]
@@ -7449,7 +7449,7 @@
       {
         "a": "Don't gamble on having his support.",
         "b": "I'm fully convinced of his honesty.",
-        "avi": "Ðừng quá tin vào sự giúp đỡ của anh ta.",
+        "avi": "Đừng quá tin vào sự giúp đỡ của anh ta.",
         "bvi": "Tôi hoàn toàn tin vào sự trung thực của anh ta."
       }
     ]
@@ -7509,7 +7509,7 @@
       {
         "a": "After a while it all got very boring.",
         "b": "You've just started.",
-        "avi": "Ðược một lúc sau, tôi cảm thấy chán ngấy.",
+        "avi": "Được một lúc sau, tôi cảm thấy chán ngấy.",
         "bvi": "Bạn chỉ mới bắt đầu thôi."
       }
     ]
@@ -7563,7 +7563,7 @@
       {
         "a": "Every night I tell them a story.",
         "b": "I love your stories very much.",
-        "avi": "Ðêm nào tôi cũng kể chuyện cho họ nghe.",
+        "avi": "Đêm nào tôi cũng kể chuyện cho họ nghe.",
         "bvi": "Tôi rất thích các câu chuyện của bạn."
       },
       {
@@ -7618,12 +7618,12 @@
         "a": "A fever took me prisoner in my bed.",
         "b": "Let me give you a hand.",
         "avi": "Cơn sốt bắt tôi phải nằm liệt giường.",
-        "bvi": "Ðể tôi giúp bạn một tay."
+        "bvi": "Để tôi giúp bạn một tay."
       },
       {
         "a": "Let me get you a proper drink.",
         "b": "Thank you for your help.",
-        "avi": "Ðể tôi lấy thêm gì cho anh uống.",
+        "avi": "Để tôi lấy thêm gì cho anh uống.",
         "bvi": "Cảm ơn bạn đã giúp."
       },
       {
@@ -7840,7 +7840,7 @@
         "a": "You are a quite a character!",
         "b": "Don't flatter me!",
         "avi": "Bạn quả là người có cá tính!",
-        "bvi": "Ðừng tâng bốc tôi."
+        "bvi": "Đừng tâng bốc tôi."
       }
     ]
   },
@@ -7858,18 +7858,18 @@
         "a": "She did marry him.",
         "b": "It's none of our business, isn't it?",
         "avi": "Cô ấy đã lấy ông ta.",
-        "bvi": "Ðó không phải là chuyện của chúng ta, phải không?"
+        "bvi": "Đó không phải là chuyện của chúng ta, phải không?"
       },
       {
         "a": "She dresses very fashionable.",
         "b": "What a beauty!",
         "avi": "Cô ấy ăn mặc rất hợp thời trang.",
-        "bvi": "Ðẹp quá!"
+        "bvi": "Đẹp quá!"
       },
       {
         "a": "What a beauty!",
         "b": "\"She\" is a young man!",
-        "avi": "Ðẹp quá!",
+        "avi": "Đẹp quá!",
         "bvi": "\"Cô ta\" là một chàng thanh niên đấy."
       }
     ]
@@ -7968,7 +7968,7 @@
         "a": "She'll be here soon.",
         "b": "Don't be nervous.",
         "avi": "Cô ấy sắp đến đây rồi.",
-        "bvi": "Ðừng hồi hộp."
+        "bvi": "Đừng hồi hộp."
       },
       {
         "a": "I must leave tomorrow night.",
@@ -7991,7 +7991,7 @@
       {
         "a": "Let's drink coffee with me.",
         "b": "Thank you very much for your invitation.",
-        "avi": "Ði uống cà phê với tôi đi.",
+        "avi": "Đi uống cà phê với tôi đi.",
         "bvi": "Cảm ơn bạn rất nhiều vì lời mời."
       },
       {
@@ -8004,12 +8004,12 @@
         "a": "Have you bought me a present?",
         "b": "Here's a present for your birthday.",
         "avi": "Bạn mua quà cho tôi đấy à?",
-        "bvi": "Ðây là quà sinh nhật của bạn."
+        "bvi": "Đây là quà sinh nhật của bạn."
       },
       {
         "a": "Is this my gift?",
         "b": "Open it and see if you like it.",
-        "avi": "Ðây là món quà của tôi à?",
+        "avi": "Đây là món quà của tôi à?",
         "bvi": "Nếu thích thì bạn mở xem đi."
       }
     ]
@@ -8022,7 +8022,7 @@
         "a": "Open it and see if you like it.",
         "b": "It's just what I need.",
         "avi": "Nếu thích thì bạn mở xem đi.",
-        "bvi": "Ðúng là thứ tôi cần."
+        "bvi": "Đúng là thứ tôi cần."
       },
       {
         "a": "Don't you buy a new dress?",
@@ -8039,7 +8039,7 @@
       {
         "a": "Let me introduce him to you.",
         "b": "I really can't thank you enough.",
-        "avi": "Ðể tôi giới thiệu anh ấy với bạn.",
+        "avi": "Để tôi giới thiệu anh ấy với bạn.",
         "bvi": "Thật không biết nói sao để cảm ơn bạn."
       }
     ]
@@ -8052,7 +8052,7 @@
         "a": "Can you give me some feedback?",
         "b": "It was the least I could do.",
         "avi": "Bạn có thể cho tôi biết ý kiến phản hồi không?",
-        "bvi": "Ðó là điều tối thiểu mà tôi có thể làm được."
+        "bvi": "Đó là điều tối thiểu mà tôi có thể làm được."
       },
       {
         "a": "I have been trying.",
@@ -8112,7 +8112,7 @@
         "a": "She doesn't like you.",
         "b": "It's none of your business.",
         "avi": "Cô ta không ưa bạn đâu.",
-        "bvi": "Ðó không phải là việc của bạn."
+        "bvi": "Đó không phải là việc của bạn."
       },
       {
         "a": "No one believes you.",
@@ -8129,7 +8129,7 @@
       {
         "a": "This is my favourite pop record.",
         "b": "Disks, extremely cheap!",
-        "avi": "Ðây là đĩa nhạc pop tôi thích nhất.",
+        "avi": "Đây là đĩa nhạc pop tôi thích nhất.",
         "bvi": "Mấy cái đĩa này rẻ cực kỳ!"
       }
     ]
@@ -8148,7 +8148,7 @@
         "a": "I'll go get some more cupcakes.",
         "b": "Don't dawdle about like that.",
         "avi": "Tôi sẽ đi lấy thêm bánh.",
-        "bvi": "Ðừng nhởn nhơ như thế nữa."
+        "bvi": "Đừng nhởn nhơ như thế nữa."
       },
       {
         "a": "Did you go to the interviews?",
@@ -8160,7 +8160,7 @@
         "a": "I don't like what you are saying.",
         "b": "It's your last chance.",
         "avi": "Tôi không thích những gì bạn đang nói.",
-        "bvi": "Ðó là cơ hội cuối cùng của bạn."
+        "bvi": "Đó là cơ hội cuối cùng của bạn."
       }
     ]
   },
@@ -8183,13 +8183,13 @@
       {
         "a": "Let me cut the mango.",
         "b": "Don't cut your fingers!",
-        "avi": "Ðể tôi gọt xoài nhé.",
-        "bvi": "Ðừng để bị đứt tay!"
+        "avi": "Để tôi gọt xoài nhé.",
+        "bvi": "Đừng để bị đứt tay!"
       },
       {
         "a": "Don't cut your fingers!",
         "b": "I know this knife well.",
-        "avi": "Ðừng để bị đứt tay!",
+        "avi": "Đừng để bị đứt tay!",
         "bvi": "Tôi rành con dao này lắm."
       }
     ]
@@ -8280,7 +8280,7 @@
         "a": "What kind of dog do you have?",
         "b": "Leave the dog alone!",
         "avi": "Bạn có con chó loại gì vậy?",
-        "bvi": "Ðừng đến gần con chó!"
+        "bvi": "Đừng đến gần con chó!"
       }
     ]
   },
@@ -8291,7 +8291,7 @@
       {
         "a": "Leave the dog alone!",
         "b": "Is it mad?",
-        "avi": "Ðừng đến gần con chó!",
+        "avi": "Đừng đến gần con chó!",
         "bvi": "Nó bị dại à?"
       },
       {
@@ -8340,7 +8340,7 @@
         "a": "How is your sleep?",
         "b": "I dreamt of God last night.",
         "avi": "Bạn có ngủ được không?",
-        "bvi": "Ðêm qua tôi nằm mơ gặp Thượng Ðế."
+        "bvi": "Đêm qua tôi nằm mơ gặp Thượng Đế."
       }
     ]
   },
@@ -8358,7 +8358,7 @@
         "a": "I think it might be my fault.",
         "b": "Don't worry yourself too much.",
         "avi": "Tôi nghĩ có lẽ là do lỗi tại tôi.",
-        "bvi": "Ðừng tự làm khổ mình."
+        "bvi": "Đừng tự làm khổ mình."
       },
       {
         "a": "Please keep it while I'm away.",
@@ -8412,7 +8412,7 @@
         "a": "Does she sing very well?",
         "b": "It's nothing special.",
         "avi": "Cô ấy hát rất hay phải không?",
-        "bvi": "Ðâu có gì đặc biệt."
+        "bvi": "Đâu có gì đặc biệt."
       },
       {
         "a": "He is really talented.",
@@ -8477,7 +8477,7 @@
       {
         "a": "Let me tell you about her.",
         "b": "Anything special to tell me?",
-        "avi": "Ðể tôi kể cho bạn nghe về cô ấy.",
+        "avi": "Để tôi kể cho bạn nghe về cô ấy.",
         "bvi": "Bạn không có gì đặc biệt để kể cho tôi nghe sao?"
       },
       {
@@ -8538,7 +8538,7 @@
         "a": "Can I take a rain check?",
         "b": "Yes, that'd be all right.",
         "avi": "Tôi có thể nhận lời sau được không?",
-        "bvi": "Ðược rồi."
+        "bvi": "Được rồi."
       },
       {
         "a": "I'll see you at the wedding.",
@@ -8748,7 +8748,7 @@
         "a": "Where are they planning to go?",
         "b": "They are going to Da Lat their honeymoon.",
         "avi": "Họ dự định đi đâu?",
-        "bvi": "Họ sẽ đi Ðà Lạt hưởng tuần trăng mật."
+        "bvi": "Họ sẽ đi Đà Lạt hưởng tuần trăng mật."
       },
       {
         "a": "She loved him so much.",
@@ -8880,7 +8880,7 @@
         "a": "Did they make a love-match?",
         "b": "It is a well matched couple.",
         "avi": "Họ đã lấy nhau vì tình yêu hả?",
-        "bvi": "Ðó là một cặp rất xứng đôi."
+        "bvi": "Đó là một cặp rất xứng đôi."
       }
     ]
   },
@@ -8892,7 +8892,7 @@
         "a": "And so the marriage was celebrated.",
         "b": "Did the marriage take place last week?",
         "avi": "Do đó, lễ cưới đã được tổ chức.",
-        "bvi": "Ðám cưới diễn ra hồi tuần trước phải không?"
+        "bvi": "Đám cưới diễn ra hồi tuần trước phải không?"
       },
       {
         "a": "But He didn't book the restaurant.",
@@ -8904,7 +8904,7 @@
         "a": "Everybody knows they married for love.",
         "b": "That is a love match.",
         "avi": "Ai cũng biết họ lấy nhau vì yêu nhau.",
-        "bvi": "Ðó là một cuộc hôn nhân vì tình."
+        "bvi": "Đó là một cuộc hôn nhân vì tình."
       },
       {
         "a": "I hear they intend marrying.",
@@ -8921,7 +8921,7 @@
       {
         "a": "That is a love match.",
         "b": "They are well matched together.",
-        "avi": "Ðó là một cuộc hôn nhân vì tình.",
+        "avi": "Đó là một cuộc hôn nhân vì tình.",
         "bvi": "Họ rất tâm đầu ý hợp."
       },
       {
@@ -8933,7 +8933,7 @@
       {
         "a": "Unlikely couple.",
         "b": "They don't get on well together.",
-        "avi": "Ðôi vợ chồng không hợp nhau lắm.",
+        "avi": "Đôi vợ chồng không hợp nhau lắm.",
         "bvi": "Họ lục đục với nhau mãi."
       },
       {
@@ -8952,7 +8952,7 @@
         "a": "So did they hit it off?",
         "b": "This is a suitable marriage.",
         "avi": "Vậy họ có hợp nhau không?",
-        "bvi": "Ðây là một cuộc hôn nhân môn đăng hộ đối."
+        "bvi": "Đây là một cuộc hôn nhân môn đăng hộ đối."
       },
       {
         "a": "Were you at their wedding?",
@@ -9000,7 +9000,7 @@
         "a": "Will you introduce him to me?",
         "b": "This is my friend.",
         "avi": "Bạn sẽ giới thiệu anh ấy với tôi chứ?",
-        "bvi": "Ðây là bạn tôi."
+        "bvi": "Đây là bạn tôi."
       }
     ]
   },
@@ -9233,7 +9233,7 @@
       {
         "a": "How is the road?",
         "b": "Several avenues are open to us.",
-        "avi": "Ðường sá ra sao?",
+        "avi": "Đường sá ra sao?",
         "bvi": "Nhiều con đường đã mở ra cho chúng tôi."
       },
       {
@@ -9269,7 +9269,7 @@
       {
         "a": "Don't be shy, everything will be okay!",
         "b": "I'm afraid.",
-        "avi": "Ðừng có ngại mọi chuyện rồi sẽ ổn thôi mà!",
+        "avi": "Đừng có ngại mọi chuyện rồi sẽ ổn thôi mà!",
         "bvi": "Tôi e rằng."
       }
     ]
@@ -9294,7 +9294,7 @@
         "a": "Will you hand her this list?",
         "b": "It's very unlikely.",
         "avi": "Bạn sẽ đưa cô ấy danh sách này chứ?",
-        "bvi": "Ðiều ấy rất khó xảy ra."
+        "bvi": "Điều ấy rất khó xảy ra."
       },
       {
         "a": "I saw her in the bathroom.",
@@ -9342,7 +9342,7 @@
         "a": "Let's celebrate!",
         "b": "How about a drink, you?",
         "avi": "ăn mừng đi!",
-        "bvi": "Ði uống nhé, bạn?"
+        "bvi": "Đi uống nhé, bạn?"
       },
       {
         "a": "Are you ready for love?",
@@ -9474,7 +9474,7 @@
         "a": "Tomorrow I am going shopping.",
         "b": "How thrilling!",
         "avi": "Ngày mai tôi sẽ đi mua sắm.",
-        "bvi": "Ðã quá!"
+        "bvi": "Đã quá!"
       },
       {
         "a": "What're you going to do next month?",
@@ -9685,7 +9685,7 @@
         "a": "Here's how it does not work like that!",
         "b": "It's the most surprised thing.",
         "avi": "Ở đây không giống như thế đâu!",
-        "bvi": "Ðó là điều ngạc nhiên nhất."
+        "bvi": "Đó là điều ngạc nhiên nhất."
       }
     ]
   },
@@ -9756,7 +9756,7 @@
       {
         "a": "That s the latest fashion.",
         "b": "I'm not really interested in fashion.",
-        "avi": "Ðó là thời trang mới nhất.",
+        "avi": "Đó là thời trang mới nhất.",
         "bvi": "Tôi không quan tâm đến thời trang."
       },
       {
@@ -9931,7 +9931,7 @@
       {
         "a": "Don't give her that look.",
         "b": "I'm quite fascinated by her beauty.",
-        "avi": "Ðừng có nhìn cô ta như thế.",
+        "avi": "Đừng có nhìn cô ta như thế.",
         "bvi": "Tôi bị mê hoặc bởi sắc đẹp của cô ta."
       },
       {
@@ -10153,14 +10153,14 @@
       {
         "a": "Let me help you.",
         "b": "Thanks for your concern.",
-        "avi": "Ðể tôi giúp bạn.",
+        "avi": "Để tôi giúp bạn.",
         "bvi": "Cám ơn sự quan tâm của bạn."
       },
       {
         "a": "Could you please just check us in?",
         "b": "This is your key.",
         "avi": "Vui lòng cho tụi này nhận phòng được chứ?",
-        "bvi": "Ðây là chìa khóa của bạn."
+        "bvi": "Đây là chìa khóa của bạn."
       }
     ]
   },
@@ -10369,7 +10369,7 @@
       {
         "a": "Here's a little present for you.",
         "b": "Oh, dear, what a surprise.",
-        "avi": "Ðây là món quà nhỏ cho bạn.",
+        "avi": "Đây là món quà nhỏ cho bạn.",
         "bvi": "Trời ơi, thật là bất ngờ."
       }
     ]
@@ -10447,7 +10447,7 @@
       {
         "a": "It's time to say good bye.",
         "b": "I've brought a souvenir for you.",
-        "avi": "Ðến giờ chia tay rồi.",
+        "avi": "Đến giờ chia tay rồi.",
         "bvi": "Tôi tặng bạn một món quà kỷ niệm."
       },
       {
@@ -10609,7 +10609,7 @@
       {
         "a": "What do the children do first?",
         "b": "They nag all the time.",
-        "avi": "Ðầu tiên bọn trẻ làm cái gì?",
+        "avi": "Đầu tiên bọn trẻ làm cái gì?",
         "bvi": "Chúng làm phiền suốt."
       }
     ]
@@ -10712,7 +10712,7 @@
         "a": "He's always following you around.",
         "b": "It really gets me.",
         "avi": "Anh ấy luôn luôn đi theo bạn khắp nơi.",
-        "bvi": "Ðiều đó làm tôi rất phiền."
+        "bvi": "Điều đó làm tôi rất phiền."
       },
       {
         "a": "Did he want to see me?",
@@ -11012,7 +11012,7 @@
         "a": "We've got to go.",
         "b": "Is it time already?",
         "avi": "Chúng ta phải đến đó thôi.",
-        "bvi": "Ðã đến giờ chưa?"
+        "bvi": "Đã đến giờ chưa?"
       },
       {
         "a": "I need to speak with you in private.",
@@ -11083,7 +11083,7 @@
       {
         "a": "I'm not late.",
         "b": "It's 8:20.",
-        "avi": "Ðâu có trễ.",
+        "avi": "Đâu có trễ.",
         "bvi": "Tám giờ hai mươi rồi."
       },
       {
@@ -11173,7 +11173,7 @@
       {
         "a": "Let me tell the story.",
         "b": "Listen!",
-        "avi": "Ðể tôi kể chuyện này cho.",
+        "avi": "Để tôi kể chuyện này cho.",
         "bvi": "Nghe này!"
       },
       {
@@ -11192,7 +11192,7 @@
         "a": "I will see about that.",
         "b": "That's a wonderful idea.",
         "avi": "Tôi sẽ xem xét lại việc đấy.",
-        "bvi": "Ðó là ý kiến hay."
+        "bvi": "Đó là ý kiến hay."
       },
       {
         "a": "We're going to leave tomorrow.",
@@ -11360,7 +11360,7 @@
         "a": "Hold on a little longer.",
         "b": "It's high time I left.",
         "avi": "Hãy đợi thêm chút nữa.",
-        "bvi": "Ðến lúc tôi phải về."
+        "bvi": "Đến lúc tôi phải về."
       }
     ]
   },
@@ -11378,7 +11378,7 @@
         "a": "Thank you for your coming.",
         "b": "Here's a present for you.",
         "avi": "Cảm ơn bạn đã đến.",
-        "bvi": "Ðây là món quà dành cho bạn."
+        "bvi": "Đây là món quà dành cho bạn."
       },
       {
         "a": "Has anybody come?",
@@ -11402,12 +11402,12 @@
         "a": "You are too good to me.",
         "b": "Here's a little something for you.",
         "avi": "Bạn thật tốt với tôi quá.",
-        "bvi": "Ðây là món quà nhỏ dành cho bạn."
+        "bvi": "Đây là món quà nhỏ dành cho bạn."
       },
       {
         "a": "Here's a little something for you.",
         "b": "May I open it?",
-        "avi": "Ðây là món quà nhỏ dành cho bạn.",
+        "avi": "Đây là món quà nhỏ dành cho bạn.",
         "bvi": "Tôi mở nó ra nhé?"
       },
       {
@@ -11714,7 +11714,7 @@
       {
         "a": "The crowd is going wild!",
         "b": "What's going on?",
-        "avi": "Ðám đông đang cuồng nhiệt!",
+        "avi": "Đám đông đang cuồng nhiệt!",
         "bvi": "Chuyện gì xảy ra vậy?"
       }
     ]
@@ -11798,7 +11798,7 @@
       {
         "a": "Shall I serve you?",
         "b": "Have you got any cups and saucers?",
-        "avi": "Ðể tôi phục vụ bạn nhé?",
+        "avi": "Để tôi phục vụ bạn nhé?",
         "bvi": "Bạn có tách và dĩa đựng tách nào không?"
       },
       {
@@ -11948,14 +11948,14 @@
       {
         "a": "How about visiting a night club?",
         "b": "Call me a taxi, please.",
-        "avi": "Ði hộp đêm nhé?",
+        "avi": "Đi hộp đêm nhé?",
         "bvi": "Làm ơn gọi hộ taxi."
       },
       {
         "a": "Where to?",
         "b": "Take us to a good night club.",
-        "avi": "Ði đâu?",
-        "bvi": "Ðưa chúng tôi tới hộp đêm nào thú vị."
+        "avi": "Đi đâu?",
+        "bvi": "Đưa chúng tôi tới hộp đêm nào thú vị."
       }
     ]
   },
@@ -11997,7 +11997,7 @@
         "a": "You're right. A car is faster.",
         "b": "Especially when you have something urgent to do.",
         "avi": "Bạn nói đúng. Xe hơi đi nhanh hơn.",
-        "bvi": "Ðặc biệt là khi có chuyện gấp."
+        "bvi": "Đặc biệt là khi có chuyện gấp."
       },
       {
         "a": "I won't need to go by bus.",
@@ -12038,7 +12038,7 @@
       {
         "a": "Let me give you a hand with that?",
         "b": "If it's no trouble.",
-        "avi": "Ðể tôi giúp đỡ bạn một tay làm việc đó nhé?",
+        "avi": "Để tôi giúp đỡ bạn một tay làm việc đó nhé?",
         "bvi": "Nếu không phiền."
       },
       {
@@ -12056,7 +12056,7 @@
       {
         "a": "Let me light your cigarette.",
         "b": "I can do it myself.",
-        "avi": "Ðể tôi mồi thuốc cho bạn.",
+        "avi": "Để tôi mồi thuốc cho bạn.",
         "bvi": "Tôi có thể tự làm lấy."
       },
       {
@@ -12105,7 +12105,7 @@
         "a": "You need my hand, don't you?",
         "b": "Yes, but I think I can manage.",
         "avi": "Bạn cần tôi giúp đỡ, phải không?",
-        "bvi": "Ðúng, nhưng tôi nghĩ tôi có thể xoay xở được."
+        "bvi": "Đúng, nhưng tôi nghĩ tôi có thể xoay xở được."
       }
     ]
   },
@@ -12134,7 +12134,7 @@
       {
         "a": "Drive more slowly.",
         "b": "I'm used to waking fast.",
-        "avi": "Ði chậm lại.",
+        "avi": "Đi chậm lại.",
         "bvi": "Tôi đã quen đi nhanh rồi."
       }
     ]
@@ -12152,7 +12152,7 @@
       {
         "a": "Don't drive so quickly!",
         "b": "I'll try to slow down.",
-        "avi": "Ðừng lái xe quá nhanh!",
+        "avi": "Đừng lái xe quá nhanh!",
         "bvi": "Tôi sẽ cố gắng đi chậm lại."
       },
       {
@@ -12272,13 +12272,13 @@
       {
         "a": "I'll take that.",
         "b": "Oh, you're so nice.",
-        "avi": "Ðể tôi xách hộ hành lý cho.",
+        "avi": "Để tôi xách hộ hành lý cho.",
         "bvi": "Bạn thật tốt bụng."
       },
       {
         "a": "I'll show you the way.",
         "b": "Would you like to be my guide?",
-        "avi": "Ðể tôi chỉ đường cho bạn.",
+        "avi": "Để tôi chỉ đường cho bạn.",
         "bvi": "Bạn có muốn làm người hướng dẫn cho tôi không?"
       },
       {
@@ -12326,8 +12326,8 @@
       {
         "a": "Don't worry, I'll be very careful!",
         "b": "This is just what I have in mind.",
-        "avi": "Ðừng lo, tôi sẽ rất cẩn thận!",
-        "bvi": "Ðây đúng là điều tôi nghĩ trong đầu."
+        "avi": "Đừng lo, tôi sẽ rất cẩn thận!",
+        "bvi": "Đây đúng là điều tôi nghĩ trong đầu."
       },
       {
         "a": "We'll have to find a garage.",
@@ -12338,7 +12338,7 @@
       {
         "a": "How about the ChauDoc Mountain?",
         "b": "Good idea!",
-        "avi": "Núi Châu Ðốc được không?",
+        "avi": "Núi Châu Đốc được không?",
         "bvi": "ý kiến hay đấy!"
       },
       {
@@ -12483,7 +12483,7 @@
         "a": "Why didn't you write to me?",
         "b": "Let me explain, you see.",
         "avi": "Tại sao bạn không viết thư cho tôi?",
-        "bvi": "Ðể tôi giải thích, bạn biết không."
+        "bvi": "Để tôi giải thích, bạn biết không."
       },
       {
         "a": "Why don't you come to my house?",
@@ -12513,13 +12513,13 @@
         "a": "I can manage.",
         "b": "Let me give you a hand with that?",
         "avi": "Tôi có thể lo liệu được.",
-        "bvi": "Ðể tôi giúp đỡ bạn một tay làm việc đó?"
+        "bvi": "Để tôi giúp đỡ bạn một tay làm việc đó?"
       },
       {
         "a": "Do you have a light?",
         "b": "Let me light your cigarette.",
         "avi": "Bạn có bật lửa không?",
-        "bvi": "Ðể tôi mồi thuốc cho bạn."
+        "bvi": "Để tôi mồi thuốc cho bạn."
       },
       {
         "a": "Will you pick me up at my place?",
@@ -12543,18 +12543,18 @@
         "a": "She refused his proposal of marriage.",
         "b": "That's clear, isn't it?",
         "avi": "Cô ta đã từ chối lời cầu hôn của anh ấy.",
-        "bvi": "Ðiều ấy rõ ràng rồi phải không?"
+        "bvi": "Điều ấy rõ ràng rồi phải không?"
       },
       {
         "a": "That's clear, isn't it?",
         "b": "Does that seem to make sense?",
-        "avi": "Ðiều ấy rõ ràng rồi phải không?",
-        "bvi": "Ðiều ấy dường như hợp lý chứ?"
+        "avi": "Điều ấy rõ ràng rồi phải không?",
+        "bvi": "Điều ấy dường như hợp lý chứ?"
       },
       {
         "a": "Don't bend people to your will.",
         "b": "Nothing will make me change my mind.",
-        "avi": "Ðừng bắt người khác phải làm theo ý mình.",
+        "avi": "Đừng bắt người khác phải làm theo ý mình.",
         "bvi": "Không có gì làm tôi thay đổi ý kiến được."
       }
     ]
@@ -12578,14 +12578,14 @@
       {
         "a": "That is not a good idea!",
         "b": "Who first thought of the idea?",
-        "avi": "Ðó không phải là ý hay!",
+        "avi": "Đó không phải là ý hay!",
         "bvi": "Ai là người đầu tiên đưa ra ý kiến đó?"
       },
       {
         "a": "I was cheated.",
         "b": "Are you there yet?",
         "avi": "Tôi đã bị lừa.",
-        "bvi": "Ðó, bạn thấy chưa?"
+        "bvi": "Đó, bạn thấy chưa?"
       }
     ]
   },
@@ -12747,7 +12747,7 @@
         "a": "We are going on a two-week beach holiday.",
         "b": "That's going to be an awesome vacation.",
         "avi": "Chúng tôi sẽ đi nghỉ ở biển 2 tuần.",
-        "bvi": "Ðó sẽ là một kỳ nghỉ tuyệt vời."
+        "bvi": "Đó sẽ là một kỳ nghỉ tuyệt vời."
       },
       {
         "a": "My wife is very good at it.",
@@ -12783,7 +12783,7 @@
         "a": "What time is it?",
         "b": "Time for a break.",
         "avi": "Mấy giờ rồi?",
-        "bvi": "Ðến lúc nghỉ giải lao rồi."
+        "bvi": "Đến lúc nghỉ giải lao rồi."
       },
       {
         "a": "I'm so tired.",
@@ -12807,7 +12807,7 @@
         "a": "Most of the young people enjoy it.",
         "b": "Simply because they're too young.",
         "avi": "Hầu hết thanh niên đều yêu thích nó.",
-        "bvi": "Ðơn giản chỉ vì họ còn quá trẻ."
+        "bvi": "Đơn giản chỉ vì họ còn quá trẻ."
       },
       {
         "a": "Where are they?",
@@ -12836,7 +12836,7 @@
       {
         "a": "My cell phone has been repaired.",
         "b": "Does it work well?",
-        "avi": "Ðiện thoại của tôi đã được sửa chữa.",
+        "avi": "Điện thoại của tôi đã được sửa chữa.",
         "bvi": "Xài tốt không?"
       },
       {
@@ -12962,7 +12962,7 @@
       {
         "a": "What's on?",
         "b": "Gone with the Wind.",
-        "avi": "Ðang có phim gì?",
+        "avi": "Đang có phim gì?",
         "bvi": "Cuốn theo chiều gió."
       },
       {
@@ -13004,7 +13004,7 @@
       {
         "a": "What's on?",
         "b": "They're playing Titanic.",
-        "avi": "Ðang có phim gì?",
+        "avi": "Đang có phim gì?",
         "bvi": "Họ đang trình chiếu bộ phim Titanic."
       }
     ]
@@ -13016,7 +13016,7 @@
       {
         "a": "Cable car is fun.",
         "b": "Can we get tickets now?",
-        "avi": "Ði cáp treo thật là vui.",
+        "avi": "Đi cáp treo thật là vui.",
         "bvi": "Bây giờ chúng ta có thể mua vé được chưa?"
       },
       {
@@ -13058,7 +13058,7 @@
       {
         "a": "How about a drink, you?",
         "b": "What a great idea!",
-        "avi": "Ði uống nhé, bạn?",
+        "avi": "Đi uống nhé, bạn?",
         "bvi": "ý kiến hay tuyệt!"
       },
       {
@@ -13119,7 +13119,7 @@
         "a": "I think that quite a good film.",
         "b": "Is it a serious or a comic film?",
         "avi": "Tôi nghĩ bộ phim đó rất hay.",
-        "bvi": "Ðó là phim nghiêm túc hay hài hước?"
+        "bvi": "Đó là phim nghiêm túc hay hài hước?"
       },
       {
         "a": "Are we almost there?",
@@ -13143,18 +13143,18 @@
         "a": "Shall we go to a movie tonight?",
         "b": "Let's go tomorrow.",
         "avi": "Chúng ta sẽ đi xem phim tối nay nhé?",
-        "bvi": "Ðể mai đi."
+        "bvi": "Để mai đi."
       },
       {
         "a": "But it isn't ok.",
         "b": "Have booked?",
         "avi": "Nhưng không thể được.",
-        "bvi": "Ðã lấy vé rồi sao?"
+        "bvi": "Đã lấy vé rồi sao?"
       },
       {
         "a": "How about going to a movie?",
         "b": "What is on this evening?",
-        "avi": "Ði xem phim nhé?",
+        "avi": "Đi xem phim nhé?",
         "bvi": "Tối nay diễn gì?"
       }
     ]
@@ -13167,7 +13167,7 @@
         "a": "Do you have a television guide?",
         "b": "Here's the program.",
         "avi": "Bạn có tờ chương trình tivi không?",
-        "bvi": "Ðây là chương trình."
+        "bvi": "Đây là chương trình."
       },
       {
         "a": "I already bought the tickets.",
@@ -13197,12 +13197,12 @@
         "a": "Let's go in the pit.",
         "b": "There is a full house.",
         "avi": "Chúng ta hãy vào khán trường.",
-        "bvi": "Ðông người quá."
+        "bvi": "Đông người quá."
       },
       {
         "a": "There is a full house.",
         "b": "It's packed.",
-        "avi": "Ðông người quá.",
+        "avi": "Đông người quá.",
         "bvi": "Chật cứng như nêm."
       },
       {
@@ -13232,7 +13232,7 @@
       {
         "a": "Time for a break.",
         "b": "Are the intervals long?",
-        "avi": "Ðến lúc nghỉ giải lao rồi.",
+        "avi": "Đến lúc nghỉ giải lao rồi.",
         "bvi": "Giờ nghỉ giải lao có dài không?"
       },
       {
@@ -13275,7 +13275,7 @@
         "a": "Did you get the tickets?",
         "b": "Here are tickets for the concert.",
         "avi": "Bạn có mua vé được không?",
-        "bvi": "Ðây là vé nghe hòa nhạc."
+        "bvi": "Đây là vé nghe hòa nhạc."
       }
     ]
   },
@@ -13652,7 +13652,7 @@
       {
         "a": "Let me have another look.",
         "b": "Please make up your mind.",
-        "avi": "Ðể tôi xem thêm nữa.",
+        "avi": "Để tôi xem thêm nữa.",
         "bvi": "Xin hãy quyết định đi."
       },
       {
@@ -13689,12 +13689,12 @@
         "a": "He has got a sport car.",
         "b": "Sports cars are fun.",
         "avi": "Anh ấy có chiếc xe thể thao.",
-        "bvi": "Ði xe hơi thể thao vui lắm."
+        "bvi": "Đi xe hơi thể thao vui lắm."
       },
       {
         "a": "It's time for you to buy a new car, man.",
         "b": "The yellow one is cool.",
-        "avi": "Ðến lúc mua xe mới rồi, anh bạn.",
+        "avi": "Đến lúc mua xe mới rồi, anh bạn.",
         "bvi": "Chiếc màu vàng dịu quá."
       }
     ]
@@ -13934,7 +13934,7 @@
       {
         "a": "It was time for his favorite TV show.",
         "b": "Tell me today's TV programs.",
-        "avi": "Ðến giờ tivi chiếu chương trình cậu thích.",
+        "avi": "Đến giờ tivi chiếu chương trình cậu thích.",
         "bvi": "Cho tôi biết chương trình Tivi hôm nay."
       }
     ]
@@ -14181,13 +14181,13 @@
       {
         "a": "That's clear, isn't it?",
         "b": "I'm afraid I have a different opinion.",
-        "avi": "Ðiều ấy rõ ràng rồi phải không?",
+        "avi": "Điều ấy rõ ràng rồi phải không?",
         "bvi": "Tôi e rằng tôi có ý kiến khác."
       },
       {
         "a": "All possible means have been tried.",
         "b": "What's the result of your experiment?",
-        "avi": "Ðã thử hết các biện pháp có thể được.",
+        "avi": "Đã thử hết các biện pháp có thể được.",
         "bvi": "Kết quả thí nghiệm của bạn thế nào?"
       },
       {
@@ -14212,7 +14212,7 @@
         "a": "I definitely put on the plate.",
         "b": "Don't get your hopes too high.",
         "avi": "Tôi chắc chắn sẽ làm được nó.",
-        "bvi": "Ðừng quá hy vọng."
+        "bvi": "Đừng quá hy vọng."
       },
       {
         "a": "Can't you help him?",
@@ -14230,7 +14230,7 @@
         "a": "Are you insinuating that I'm lazy?",
         "b": "You're simply spending most of your time sleeping!",
         "avi": "Bạn đang ám chỉ là tôi lười biếng phải không?",
-        "bvi": "Ðơn giản là bạn đã dành hầu hết thời gian để ngủ!"
+        "bvi": "Đơn giản là bạn đã dành hầu hết thời gian để ngủ!"
       }
     ]
   },
@@ -14248,7 +14248,7 @@
         "a": "Why not get a copy yourself?",
         "b": "It's an original book.",
         "avi": "Sao bạn không mua cho mình một quyển.",
-        "bvi": "Ðây là sách gốc."
+        "bvi": "Đây là sách gốc."
       },
       {
         "a": "You're not an optimist.",
@@ -14290,7 +14290,7 @@
         "a": "I should have been prepared for it.",
         "b": "Don't be upset.",
         "avi": "Lẽ ra tôi nên có sự chuẩn bị trước.",
-        "bvi": "Ðừng chán nản."
+        "bvi": "Đừng chán nản."
       }
     ]
   },
@@ -14349,7 +14349,7 @@
       {
         "a": "That's why you need to save money.",
         "b": "Can you understand it now?",
-        "avi": "Ðó là lý do bạn cần tiết kiệm tiền.",
+        "avi": "Đó là lý do bạn cần tiết kiệm tiền.",
         "bvi": "Bây giờ thì bạn hiểu chưa?"
       }
     ]
@@ -14367,7 +14367,7 @@
       {
         "a": "That's why I moved here.",
         "b": "I also learn something from that.",
-        "avi": "Ðó là lý do tôi dọn đến đây.",
+        "avi": "Đó là lý do tôi dọn đến đây.",
         "bvi": "Tôi cũng học được vài điều từ đó."
       },
       {
@@ -14422,9 +14422,9 @@
         "a": "I'm coming to Lan.",
         "b": "Wait for me.",
         "avi": "Tôi sẽ đến chỗ Lan.",
-        "bvi": "Ðợi tôi với."
+        "bvi": "Đợi tôi với."
       },
-      {"a": "Wait for me.", "b": "In a minute.", "avi": "Ðợi tôi với.", "bvi": "Một phút thôi."},
+      {"a": "Wait for me.", "b": "In a minute.", "avi": "Đợi tôi với.", "bvi": "Một phút thôi."},
       {
         "a": "Can't you just wait?",
         "b": "I am a great hurry.",
@@ -14670,7 +14670,7 @@
         "a": "These bags look very heavy.",
         "b": "Let me help you.",
         "avi": "Những tói xách này trông nặng quá.",
-        "bvi": "Ðể tôi giúp bạn."
+        "bvi": "Để tôi giúp bạn."
       }
     ]
   },
@@ -14939,7 +14939,7 @@
       {
         "a": "What if he knows it?",
         "b": "I'll play it by ear.",
-        "avi": "Ðiều gì sẽ xảy ra nếu anh ấy biết điều đó?",
+        "avi": "Điều gì sẽ xảy ra nếu anh ấy biết điều đó?",
         "bvi": "Tôi sẽ tùy cơ ứng biến."
       }
     ]
@@ -15018,7 +15018,7 @@
         "a": "He looks great.",
         "b": "Let me introduce him to you.",
         "avi": "Anh ấy trông bảnh trai quá!",
-        "bvi": "Ðể tôi giới thiệu anh ấy với bạn."
+        "bvi": "Để tôi giới thiệu anh ấy với bạn."
       },
       {
         "a": "I would like to see you again.",
@@ -15191,7 +15191,7 @@
       {
         "a": "These are your books, aren't they?",
         "b": "He says he's the man who bought these books.",
-        "avi": "Ðây là những cuốn sách của bạn, phải không?",
+        "avi": "Đây là những cuốn sách của bạn, phải không?",
         "bvi": "Anh ta nói anh ta là người mua những cuốn sách này."
       },
       {
@@ -15239,7 +15239,7 @@
       {
         "a": "Approach gently, friend.",
         "b": "I see.",
-        "avi": "Ði tới từ từ anh bạn!",
+        "avi": "Đi tới từ từ anh bạn!",
         "bvi": "Tôi biết rồi."
       }
     ]
@@ -15354,7 +15354,7 @@
         "a": "What a surprise we've met here!",
         "b": "That was a pleasant surprise.",
         "avi": "Thật ngạc nhiên khi chúng ta gặp nhau ở đây.",
-        "bvi": "Ðó là một sự ngạc nhiên thú vị."
+        "bvi": "Đó là một sự ngạc nhiên thú vị."
       },
       {
         "a": "Did you see a man there?",
@@ -15432,19 +15432,19 @@
         "a": "I was sure that it was going to be easy.",
         "b": "Don't be so sure.",
         "avi": "Tôi chắc rằng nó sẽ dễ dàng đây.",
-        "bvi": "Ðừng đoan chắc như thế."
+        "bvi": "Đừng đoan chắc như thế."
       },
       {
         "a": "Must I keep standing?",
         "b": "Don't lean out of the window!",
         "avi": "Tôi phải đứng mãi sao?",
-        "bvi": "Ðừng dựa vào cửa sổ!"
+        "bvi": "Đừng dựa vào cửa sổ!"
       },
       {
         "a": "I wish I could.",
         "b": "Don't trust to chance!",
         "avi": "ước gì tôi có thể.",
-        "bvi": "Ðừng tin vào sự may rủi!"
+        "bvi": "Đừng tin vào sự may rủi!"
       },
       {
         "a": "Where's everybody else?",
@@ -15462,13 +15462,13 @@
         "a": "Where does this belong?",
         "b": "Give it to me.",
         "avi": "Cái này để ở đâu?",
-        "bvi": "Ðưa nó cho tôi."
+        "bvi": "Đưa nó cho tôi."
       },
       {
         "a": "Like to record videos of yourselves?",
         "b": "Guess what?",
         "avi": "Thích quay video về mình không?",
-        "bvi": "Ðoán xem?"
+        "bvi": "Đoán xem?"
       },
       {
         "a": "It was a remarkable production!",
@@ -15504,7 +15504,7 @@
         "a": "Did he speak English?",
         "b": "He spoke German.",
         "avi": "Anh ta có nói tiếng Anh không?",
-        "bvi": "Anh ta nói tiếng Ðức."
+        "bvi": "Anh ta nói tiếng Đức."
       },
       {
         "a": "Guess how old he is.",
@@ -15630,7 +15630,7 @@
         "a": "Jimmy has to go to jail.",
         "b": "That's good news for Jimmy.",
         "avi": "Jimmy sẽ phải đi tù.",
-        "bvi": "Ðó là tin tốt cho Jimmy."
+        "bvi": "Đó là tin tốt cho Jimmy."
       }
     ]
   },
@@ -15720,7 +15720,7 @@
         "a": "Are you going to give me something?",
         "b": "Here's a little present for you.",
         "avi": "Bạn định tặng tôi thứ gì à?",
-        "bvi": "Ðây là món quà nhỏ cho bạn."
+        "bvi": "Đây là món quà nhỏ cho bạn."
       }
     ]
   },
@@ -15870,7 +15870,7 @@
         "a": "This quality is not good enough.",
         "b": "That's the way I look at it, too.",
         "avi": "Hàng này chưa tốt lắm.",
-        "bvi": "Ðó cũng là cách tôi nhìn nhận nó."
+        "bvi": "Đó cũng là cách tôi nhìn nhận nó."
       }
     ]
   },
@@ -15900,7 +15900,7 @@
         "a": "Can't we still be friends?",
         "b": "What makes you say so?",
         "avi": "Chúng ta không thể là bạn sao em?",
-        "bvi": "Ðiều gì khiến anh nói vậy?"
+        "bvi": "Điều gì khiến anh nói vậy?"
       }
     ]
   },
@@ -15972,7 +15972,7 @@
         "a": "Needs your help. Huh?",
         "b": "Don't count on me.",
         "avi": "Cần anh giúp nhỉ?",
-        "bvi": "Ðừng trông mong vào tôi."
+        "bvi": "Đừng trông mong vào tôi."
       },
       {
         "a": "He has bought a new house.",
@@ -16043,7 +16043,7 @@
       {
         "a": "Not with my umbrella, you don't.",
         "b": "Here's your umbrella.",
-        "avi": "Ðừng đụng đến cây dù của tôi.",
+        "avi": "Đừng đụng đến cây dù của tôi.",
         "bvi": "Chiếc dù của bạn đây."
       },
       {
@@ -16212,12 +16212,12 @@
         "a": "He won the first set.",
         "b": "That's just what I was thinking.",
         "avi": "Anh ta đã thắng ván đầu.",
-        "bvi": "Ðúng như tôi nghĩ."
+        "bvi": "Đúng như tôi nghĩ."
       },
       {
         "a": "You look sharp tonight.",
         "b": "The same to you.",
-        "avi": "Ðêm nay bạn trông thật bảnh.",
+        "avi": "Đêm nay bạn trông thật bảnh.",
         "bvi": "Bạn cũng thế."
       },
       {
@@ -16229,7 +16229,7 @@
       {
         "a": "What are they students doing?",
         "b": "They're waiting for a bus.",
-        "avi": "Ðám sinh viên đó đang làm gì vậy?",
+        "avi": "Đám sinh viên đó đang làm gì vậy?",
         "bvi": "Họ đang đợi xe buýt."
       }
     ]
@@ -16319,7 +16319,7 @@
       {
         "a": "This kind of camera is very good.",
         "b": "Could you take a picture for me?",
-        "avi": "Ðây là loại máy ảnh rất tốt.",
+        "avi": "Đây là loại máy ảnh rất tốt.",
         "bvi": "Anh có thể chụp hộ tôi một tấm hình không?"
       }
     ]
@@ -16464,7 +16464,7 @@
         "a": "Why do you ask such a question?",
         "b": "Just to be on the safe side.",
         "avi": "Tại sao bạn lại hỏi như vậy?",
-        "bvi": "Ðể cho chắc."
+        "bvi": "Để cho chắc."
       },
       {
         "a": "There is nothing I can do.",
@@ -16512,13 +16512,13 @@
         "a": "Show me some ladies' hats.",
         "b": "That is a lovely hat!",
         "avi": "Cho tôi xem mấy cái nón nữ.",
-        "bvi": "Ðó là một chiếc nón dễ thương!"
+        "bvi": "Đó là một chiếc nón dễ thương!"
       },
       {
         "a": "I will sit this play out.",
         "b": "That's all I need.",
         "avi": "Tôi sẽ ở lại cho đến cuối vở kịch.",
-        "bvi": "Ðó là tất cả những gì tôi cần."
+        "bvi": "Đó là tất cả những gì tôi cần."
       },
       {
         "a": "I am stumped for an answer.",
@@ -16680,7 +16680,7 @@
         "a": "You've forgotten your key.",
         "b": "Let me get back to you.",
         "avi": "Bạn đã để quên chìa khóa.",
-        "bvi": "Ðể tôi quay lại chỗ bạn."
+        "bvi": "Để tôi quay lại chỗ bạn."
       }
     ]
   },
@@ -16698,7 +16698,7 @@
         "a": "The lesson needs to be rubbed in.",
         "b": "That's very good advice!",
         "avi": "Bài này bắt buộc phải học đi học lại.",
-        "bvi": "Ðó là lời khuyên đúng đắn!"
+        "bvi": "Đó là lời khuyên đúng đắn!"
       },
       {
         "a": "You have to go through the security check.",
@@ -16877,7 +16877,7 @@
       {
         "a": "Don't believe in what people say.",
         "b": "I wasn't born yesterday.",
-        "avi": "Ðừng tin những gì người ta nói.",
+        "avi": "Đừng tin những gì người ta nói.",
         "bvi": "Tôi đâu có ngây thơ."
       },
       {
@@ -16913,7 +16913,7 @@
       {
         "a": "Don't touch it, it could be dangerous!",
         "b": "I'm looking forward to it.",
-        "avi": "Ðừng có mà động vào, sẽ gặp nguy hiểm đó.",
+        "avi": "Đừng có mà động vào, sẽ gặp nguy hiểm đó.",
         "bvi": "Tôi đang mong chờ nó."
       },
       {
@@ -16944,7 +16944,7 @@
         "a": "His wife is coming, isn't she?",
         "b": "Let me guess.",
         "avi": "Vợ anh ta sẽ đến, phải không?",
-        "bvi": "Ðể tôi đoán."
+        "bvi": "Để tôi đoán."
       },
       {
         "a": "I passed the examination easily.",
@@ -17003,7 +17003,7 @@
       {
         "a": "This is a nice house.",
         "b": "This house is my own.",
-        "avi": "Ðây là ngôi nhà đẹp.",
+        "avi": "Đây là ngôi nhà đẹp.",
         "bvi": "Căn nhà này là của tôi."
       },
       {
@@ -17099,8 +17099,8 @@
       {
         "a": "Don't speak ill of others.",
         "b": "Don't get me wrong.",
-        "avi": "Ðừng nói xấu người khác.",
-        "bvi": "Ðừng hiểu lầm tôi."
+        "avi": "Đừng nói xấu người khác.",
+        "bvi": "Đừng hiểu lầm tôi."
       }
     ]
   },
@@ -17112,7 +17112,7 @@
         "a": "Do you know where it is right now?",
         "b": "Follow me.",
         "avi": "Bạn có biết nó đang ở đâu không?",
-        "bvi": "Ði theo tôi."
+        "bvi": "Đi theo tôi."
       },
       {
         "a": "Can you give me a wake-up call?",
@@ -17262,7 +17262,7 @@
       {
         "a": "Is that okay?",
         "b": "Maybe it will work.",
-        "avi": "Ðược không?",
+        "avi": "Được không?",
         "bvi": "Có lẽ nó sẽ hoạt động."
       },
       {
@@ -17322,13 +17322,13 @@
       {
         "a": "How complicated women are!",
         "b": "What do you think?",
-        "avi": "Ðàn bà thật phức tạp!",
+        "avi": "Đàn bà thật phức tạp!",
         "bvi": "Anh nghĩ sao?"
       },
       {
         "a": "Don't take advantage of me.",
         "b": "What's on your mind?",
-        "avi": "Ðừng có lợi dụng tôi.",
+        "avi": "Đừng có lợi dụng tôi.",
         "bvi": "Anh đang nghĩ gì?"
       },
       {
@@ -17365,7 +17365,7 @@
         "a": "Are you sure.",
         "b": "Don't be uneasy about the consequence.",
         "avi": "Có chắc vậy không?",
-        "bvi": "Ðừng băn khoăn về kết quả."
+        "bvi": "Đừng băn khoăn về kết quả."
       }
     ]
   },
@@ -17635,7 +17635,7 @@
         "a": "You're not afraid?",
         "b": "Once you begin, you must continue.",
         "avi": "Bạn không sợ chứ?",
-        "bvi": "Ðã phóng lao thì phải theo lao."
+        "bvi": "Đã phóng lao thì phải theo lao."
       }
     ]
   },
@@ -17713,13 +17713,13 @@
         "a": "We're going to be slaughtered.",
         "b": "This has not been easy.",
         "avi": "Chúng ta sẽ bị đánh bại hoàn toàn.",
-        "bvi": "Ðiều này không dễ dàng."
+        "bvi": "Điều này không dễ dàng."
       },
       {
         "a": "What does it feel like?",
         "b": "This is the sort of thing that Jeremy loves.",
         "avi": "Nó cảm thấy thích gì vậy?",
-        "bvi": "Ðây là thứ mà Jeremy yêu thích."
+        "bvi": "Đây là thứ mà Jeremy yêu thích."
       },
       {
         "a": "I know all about you!",
@@ -17778,13 +17778,13 @@
       {
         "a": "This is my punishment?",
         "b": "You are a chicken.",
-        "avi": "Ðây là sự trừng phạt cho tôi sao?",
+        "avi": "Đây là sự trừng phạt cho tôi sao?",
         "bvi": "Anh là kẻ nhát gan."
       },
       {
         "a": "What makes you say so?",
         "b": "You know what I'm talking about.",
-        "avi": "Ðiều gì khiến anh nói vậy?",
+        "avi": "Điều gì khiến anh nói vậy?",
         "bvi": "Anh biết là tôi đang nói gì."
       }
     ]
@@ -17989,7 +17989,7 @@
         "a": "He was full of lies.",
         "b": "It isn't worth crying about it.",
         "avi": "Anh ấy đã nói dối tôi.",
-        "bvi": "Ðiều đó không đáng để khóc."
+        "bvi": "Điều đó không đáng để khóc."
       },
       {
         "a": "Have you been in contact with them?",
@@ -18006,7 +18006,7 @@
       {
         "a": "Get me Lan.",
         "b": "It's very thoughtful of you.",
-        "avi": "Ðể tôi gặp Lan đã.",
+        "avi": "Để tôi gặp Lan đã.",
         "bvi": "Bạn chu đáo quá."
       },
       {
@@ -18073,7 +18073,7 @@
         "a": "I go to select some furniture, Okay?",
         "b": "The furniture is modern.",
         "avi": "Tôi đi mua mấy món đồ nội thất nhé?",
-        "bvi": "Ðồ nội thất thì hiện đại."
+        "bvi": "Đồ nội thất thì hiện đại."
       },
       {
         "a": "I wish I knew my neighbor.",
@@ -18115,7 +18115,7 @@
         "a": "When highly inspired, he also writes verse.",
         "b": "This is a good example of his poetry.",
         "avi": "Khi cao hứng, anh ấy cũng làm thơ.",
-        "bvi": "Ðây là bài thơ điển hình của anh ấy."
+        "bvi": "Đây là bài thơ điển hình của anh ấy."
       }
     ]
   },
@@ -18126,7 +18126,7 @@
       {
         "a": "Is it important?",
         "b": "This note is only a reminder.",
-        "avi": "Ðiều đó có quan trọng không?",
+        "avi": "Điều đó có quan trọng không?",
         "bvi": "Phần ghi chép này chỉ để nhắc nhở."
       },
       {
@@ -18168,7 +18168,7 @@
       {
         "a": "Reading books is interesting.",
         "b": "What we read influences our thinking.",
-        "avi": "Ðọc sách là việc thú vị.",
+        "avi": "Đọc sách là việc thú vị.",
         "bvi": "Những gì chúng ta đọc đã làm ảnh hưởng suy nghĩ của chúng ta."
       },
       {
@@ -18223,7 +18223,7 @@
         "a": "He left me in the lurch.",
         "b": "Don't cry over spilt milk.",
         "avi": "Anh ấy đã bỏ rơi tôi đang gặp hoạn nạn.",
-        "bvi": "Ðừng đau khổ vì chuyện đã rồi."
+        "bvi": "Đừng đau khổ vì chuyện đã rồi."
       },
       {
         "a": "Most families have arguments over money.",
@@ -18234,7 +18234,7 @@
       {
         "a": "Care to join me?",
         "b": "He always insists on coming with von.",
-        "avi": "Ði với tôi không?",
+        "avi": "Đi với tôi không?",
         "bvi": "Anh ấy cứ nhất định đòi đi chung với bạn."
       }
     ]
@@ -18342,7 +18342,7 @@
       {
         "a": "It's a secret, try no to spill the beans.",
         "b": "I don't know if I'll have the patience.",
-        "avi": "Ðây là một điều bí mật. ráng giữ đừng cho ai biết nhé!",
+        "avi": "Đây là một điều bí mật. ráng giữ đừng cho ai biết nhé!",
         "bvi": "Tôi không biết liệu tôi còn kiên nhẫn không."
       },
       {
@@ -18415,7 +18415,7 @@
         "a": "The Pyramid is very famous in the world.",
         "b": "Its origin is still a mystery now.",
         "avi": "Kim tự tháp rất nổi tiếng trên thế giới.",
-        "bvi": "Ðến nay, nguồn gốc của nó vẫn còn là bí ẩn."
+        "bvi": "Đến nay, nguồn gốc của nó vẫn còn là bí ẩn."
       }
     ]
   },
@@ -18432,8 +18432,8 @@
       {
         "a": "His headlights dazzled me.",
         "b": "Lights were blazing.",
-        "avi": "Ðèn pha của ông ấy làm chói mắt tôi.",
-        "bvi": "Ðèn đang chiếu sáng rực."
+        "avi": "Đèn pha của ông ấy làm chói mắt tôi.",
+        "bvi": "Đèn đang chiếu sáng rực."
       },
       {
         "a": "You couldn't trust me enough?",
@@ -18493,13 +18493,13 @@
         "a": "Can you show me how to use this new CD player?",
         "b": "Stop making such a noise.",
         "avi": "Bạn chỉ tôi sử dụng cái máy hát đĩa mới này được không?",
-        "bvi": "Ðừng làm ồn như thế."
+        "bvi": "Đừng làm ồn như thế."
       },
       {
         "a": "Friends are the sunshine of life.",
         "b": "That is my idea about friendship.",
         "avi": "Bạn bè là niềm vui của cuộc sống.",
-        "bvi": "Ðó là ý kiến của tôi về tình bạn."
+        "bvi": "Đó là ý kiến của tôi về tình bạn."
       },
       {
         "a": "Who is that woman?",
@@ -18577,7 +18577,7 @@
         "a": "Why are you so ceremonious?",
         "b": "This is a little something for you.",
         "avi": "Sao bạn khách sáo thế?",
-        "bvi": "Ðây là chút quà mọn."
+        "bvi": "Đây là chút quà mọn."
       },
       {
         "a": "How's life?",
@@ -18643,7 +18643,7 @@
         "a": "What are we going to do?",
         "b": "A wet road is usually slippery.",
         "avi": "Biết làm thế nào bây giờ?",
-        "bvi": "Ðường ướt thường trơn trượt."
+        "bvi": "Đường ướt thường trơn trượt."
       },
       {
         "a": "Well my birthday is April, the second.",
@@ -18667,7 +18667,7 @@
         "a": "Pursue what you want.",
         "b": "Don't dream away your time.",
         "avi": "Hãy theo đuổi những gì mình muốn.",
-        "bvi": "Ðừng mơ mộng lãng phí thời gian."
+        "bvi": "Đừng mơ mộng lãng phí thời gian."
       },
       {
         "a": "And what about the language?",
@@ -18883,12 +18883,12 @@
         "a": "Good figure only?",
         "b": "It is just what I need.",
         "avi": "Chỉ cần thân hình đẹp thôi sao?",
-        "bvi": "Ðó chính là cái tôi cần."
+        "bvi": "Đó chính là cái tôi cần."
       },
       {
         "a": "That team has won hands down.",
         "b": "It rather surprised me.",
-        "avi": "Ðội bóng đó đã thắng một cách dễ dàng.",
+        "avi": "Đội bóng đó đã thắng một cách dễ dàng.",
         "bvi": "Nó làm tôi hơi ngạc nhiên."
       },
       {
@@ -18913,7 +18913,7 @@
         "a": "What times is it?",
         "b": "My watch is faster than yours.",
         "avi": "Bây giờ là mấy giờ rồi?",
-        "bvi": "Ðồng hồ của tôi chạy nhanh hơn của bạn."
+        "bvi": "Đồng hồ của tôi chạy nhanh hơn của bạn."
       },
       {
         "a": "Are your crazy or what?",
@@ -18943,7 +18943,7 @@
         "a": "What was outstanding in the party?",
         "b": "She sang perfectly in the halt last night.",
         "avi": "Buổi tiệc có gì nổi bật?",
-        "bvi": "Ðêm qua cô ấy đã hát rất tuyệt trong đại sảnh."
+        "bvi": "Đêm qua cô ấy đã hát rất tuyệt trong đại sảnh."
       },
       {
         "a": "What does she worry about at school?",
@@ -18955,7 +18955,7 @@
         "a": "She's the office maid.",
         "b": "That makes no difference.",
         "avi": "Cô ấy là người giúp việc văn phòng.",
-        "bvi": "Ðiều đó không có gì khác biệt."
+        "bvi": "Điều đó không có gì khác biệt."
       }
     ]
   },
@@ -18967,7 +18967,7 @@
         "a": "She gives him a dressing-down.",
         "b": "The child sobbed sadly.",
         "avi": "Bà ấy mắng nó một trận ra trò.",
-        "bvi": "Ðứa trẻ buồn bã khóc thút thít."
+        "bvi": "Đứa trẻ buồn bã khóc thút thít."
       },
       {
         "a": "Do you like to sit on a meadow?",
@@ -19027,7 +19027,7 @@
         "a": "I am not in tune for a talk.",
         "b": "This is a private conversation!",
         "avi": "Tôi không thấy hứng thú với cuộc nói chuyện.",
-        "bvi": "Ðây là cuộc nói chuyện riêng tư."
+        "bvi": "Đây là cuộc nói chuyện riêng tư."
       },
       {
         "a": "Getting up early becomes my habit.",
@@ -19123,7 +19123,7 @@
         "a": "Let me guess; it's sherry, right?",
         "b": "Even a child can answer this question.",
         "avi": "để tôi đoán; cô là sherry, đúng không?",
-        "bvi": "Ðứa con nít cũng có thể trả lời được câu hỏi này."
+        "bvi": "Đứa con nít cũng có thể trả lời được câu hỏi này."
       },
       {
         "a": "Have you given up smoking?",
@@ -19309,13 +19309,13 @@
         "a": "My drawing was more complicated than his.",
         "b": "It's a secret between you and me.",
         "avi": "Chuyện của tôi thì phức tạp hơn chuyện của ông ta.",
-        "bvi": "Ðây là bí mật giữa tôi và bạn."
+        "bvi": "Đây là bí mật giữa tôi và bạn."
       },
       {
         "a": "Can you show me on the map?",
         "b": "Japan is to the east of China.",
         "avi": "Bạn có thể chỉ cho tôi trên bản đồ được không?",
-        "bvi": "Nước Nhật ở phía Ðông Trung quốc."
+        "bvi": "Nước Nhật ở phía Đông Trung quốc."
       }
     ]
   },
@@ -19362,7 +19362,7 @@
       {
         "a": "Where would you like this?",
         "b": "Please push the ladder against the wall.",
-        "avi": "Ðể cái này ở đâu đây?",
+        "avi": "Để cái này ở đâu đây?",
         "bvi": "Xin để cái thang dựa vào tường."
       },
       {
@@ -19549,7 +19549,7 @@
         "a": "I'll do that then.",
         "b": "Don't keep me waiting long.",
         "avi": "Tôi sẽ làm ngay.",
-        "bvi": "Ðừng để tôi phải đợi lâu."
+        "bvi": "Đừng để tôi phải đợi lâu."
       },
       {
         "a": "Now what do you think is wrong with that?",
@@ -19843,7 +19843,7 @@
         "a": "I think the political assassinations are illegal.",
         "b": "There as a murder in London yesterday.",
         "avi": "Tôi nghĩ rằng các vụ ám sát chính trị là vi phạm pháp luật.",
-        "bvi": "Có một vụ ám sát ở Luân Ðôn hôm qua."
+        "bvi": "Có một vụ ám sát ở Luân Đôn hôm qua."
       },
       {
         "a": "What have they decided to do?",
@@ -19957,7 +19957,7 @@
         "a": "How can I say this ticklish question?",
         "b": "Don't keep the truth from me.",
         "avi": "Làm thế nào tôi có thể nói ra vấn đề tế nhị này được đây?",
-        "bvi": "Ðừng giấu tôi sự thật."
+        "bvi": "Đừng giấu tôi sự thật."
       },
       {
         "a": "Please didn't smoke in here.",
@@ -20185,7 +20185,7 @@
         "a": "Did you tell him about school?",
         "b": "Our school is in the east of Beijing.",
         "avi": "Bạn đã kể cho anh ấy nghe về trường học của bạn chưa?",
-        "bvi": "Trường chúng tôi nằm ở phía Ðông của Bắc Kinh."
+        "bvi": "Trường chúng tôi nằm ở phía Đông của Bắc Kinh."
       }
     ]
   },
@@ -20269,7 +20269,7 @@
         "a": "What does he like most?",
         "b": "What he likes best is making jokes.",
         "avi": "Anh ấy thích nhất điều gì?",
-        "bvi": "Ðiều anh ấy thích nhất là đùa giỡn."
+        "bvi": "Điều anh ấy thích nhất là đùa giỡn."
       },
       {
         "a": "What should we do next?",
@@ -20472,7 +20472,7 @@
       {
         "a": "That's why we need to save money.",
         "b": "I understood the problem.",
-        "avi": "Ðó là lý do chúng ta cần tiết kiệm tiền.",
+        "avi": "Đó là lý do chúng ta cần tiết kiệm tiền.",
         "bvi": "Tôi đã hiểu ra vấn đề."
       },
       {
@@ -20515,7 +20515,7 @@
         "a": "He sank her a fact.",
         "b": "It's time to tell her the truth.",
         "avi": "Anh ta đã giấu cô ấy một sự việc.",
-        "bvi": "Ðã đến lúc nói thật với cô ấy."
+        "bvi": "Đã đến lúc nói thật với cô ấy."
       }
     ]
   },
@@ -20593,7 +20593,7 @@
         "a": "What are those?",
         "b": "Those are watermelons.",
         "avi": "Chúng là gì vậy?",
-        "bvi": "Ðó là những trái dưa hấu."
+        "bvi": "Đó là những trái dưa hấu."
       },
       {
         "a": "You realize what'll happen at daybreak?",
@@ -20653,7 +20653,7 @@
         "a": "I just got a slap on the wrist.",
         "b": "Don't let this get you down.",
         "avi": "Tôi chỉ bị phạt nhẹ.",
-        "bvi": "Ðừng để điều này làm bạn buồn bực."
+        "bvi": "Đừng để điều này làm bạn buồn bực."
       },
       {
         "a": "It's your fault, really.",
@@ -20737,7 +20737,7 @@
         "a": "Are you free today?",
         "b": "How about going to a movie?",
         "avi": "Ngày mai bạn có rảnh không?",
-        "bvi": "Ði xem phim nhé?"
+        "bvi": "Đi xem phim nhé?"
       },
       {
         "a": "He won in the lottery.",
@@ -20839,7 +20839,7 @@
         "a": "Did you remember that afternoon?",
         "b": "It was a lazy, breezy autumn afternoon.",
         "avi": "Bạn còn nhớ buổi chiều đó không?",
-        "bvi": "Ðó là một buổi chiều thu gió nhẹ."
+        "bvi": "Đó là một buổi chiều thu gió nhẹ."
       },
       {
         "a": "Why don't you have a haircut?",
@@ -20857,7 +20857,7 @@
         "a": "Do you mind if I sit up?",
         "b": "It's time you went to bed.",
         "avi": "Anh có phiền nếu tôi thức khuya không?",
-        "bvi": "Ðã đến lúc bạn đi ngủ."
+        "bvi": "Đã đến lúc bạn đi ngủ."
       },
       {
         "a": "We leave this afternoon.",
@@ -20916,7 +20916,7 @@
       {
         "a": "What makes you think he's lying?",
         "b": "There is a mark of ink on his shirt.",
-        "avi": "Ðiều gì khiến cho bạn nghĩ rằng anh ta nói dối?",
+        "avi": "Điều gì khiến cho bạn nghĩ rằng anh ta nói dối?",
         "bvi": "Có một vết mực trên áo anh ấy."
       },
       {
@@ -20958,7 +20958,7 @@
       {
         "a": "What happened yesterday?",
         "b": "Yesterday a beggar knocked at my door.",
-        "avi": "Ðã xảy ra chuyện gì hôm qua?",
+        "avi": "Đã xảy ra chuyện gì hôm qua?",
         "bvi": "Hôm qua có gã ăn mày gõ cửa nhà tôi."
       },
       {
@@ -21078,7 +21078,7 @@
       {
         "a": "Put him on the step.",
         "b": "I will arrange everything.",
-        "avi": "Ðể anh ta xuống đây.",
+        "avi": "Để anh ta xuống đây.",
         "bvi": "Tôi sẽ sắp xếp mọi thứ."
       },
       {
@@ -21252,8 +21252,8 @@
       {
         "a": "I settled on an Oriental rug.",
         "b": "This is the prettiest carpet I have ever seen.",
-        "avi": "Tôi đã quyết định mua một tấm thảm phương Ðông.",
-        "bvi": "Ðây là thảm đẹp nhất mà tôi từng thấy."
+        "avi": "Tôi đã quyết định mua một tấm thảm phương Đông.",
+        "bvi": "Đây là thảm đẹp nhất mà tôi từng thấy."
       },
       {
         "a": "You look younger than you actually are.",

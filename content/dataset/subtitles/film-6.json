@@ -35,12 +35,12 @@
     {
       "e": 31.67,
       "en": "Paper? For writing a letter?",
-      "vi": "Giấy à? Ðể viết thư chứ gì?",
+      "vi": "Giấy à? Để viết thư chứ gì?",
       "s": 28.9
     },
-    {"e": 33.02, "en": "Ah... yes. That's right.", "vi": "À... đúng đấy. Ðúng đấy.", "s": 31.67},
+    {"e": 33.02, "en": "Ah... yes. That's right.", "vi": "À... đúng đấy. Đúng đấy.", "s": 31.67},
     {"e": 36.52, "en": "Ah... yes, here is some.", "vi": "À... có, có một ít đây này.", "s": 33.02},
-    {"e": 37.88, "en": "OK. Thank you.", "vi": "Ðược, cảm ơn.", "s": 36.52},
+    {"e": 37.88, "en": "OK. Thank you.", "vi": "Được, cảm ơn.", "s": 36.52},
     {"e": 39.14, "en": "You're welcome.", "vi": "Không có chi.", "s": 37.88},
     {"e": 46.57, "en": "...", "vi": "...", "s": 39.14},
     {
@@ -77,7 +77,7 @@
     {
       "e": 78.13,
       "en": "E-s-c-a-p-e. OK. Thank you.",
-      "vi": "E-s-c-a-p-e. Ðược rồi. Cảm ơn.",
+      "vi": "E-s-c-a-p-e. Được rồi. Cảm ơn.",
       "s": 72.24
     },
     {"e": 79.27, "en": "You're welcome.", "vi": "Không có chi.", "s": 78.13},
@@ -156,7 +156,7 @@
     {
       "e": 149.51,
       "en": "Water. I see. OK. I'll have a glass of water, then.",
-      "vi": "Nước lọc. Ra vậy. Ðược rồi. Vậy cho tôi một ly nước lọc.",
+      "vi": "Nước lọc. Ra vậy. Được rồi. Vậy cho tôi một ly nước lọc.",
       "s": 144.66
     },
     {"e": 150.97, "en": "OK. One water.", "vi": "Vâng. Một nước lọc.", "s": 149.51},
@@ -185,7 +185,7 @@
     {
       "e": 190.56,
       "en": "OK. Umm... do you have a menu?",
-      "vi": "Ðược rồi. Ư... anh có thực đơn đấy chứ?",
+      "vi": "Được rồi. Ư... anh có thực đơn đấy chứ?",
       "s": 186.88
     },
     {"e": 194.72, "en": "Ah... no. We don't.", "vi": "À... không, chúng tôi không có.", "s": 190.56},
@@ -255,7 +255,7 @@
     {
       "e": 260.26,
       "en": "OK. That's OK. I think I have one. OK.",
-      "vi": "Ðược. Không sao. Tôi có một cái rồi. Vâng.",
+      "vi": "Được. Không sao. Tôi có một cái rồi. Vâng.",
       "s": 256.3
     },
     {"e": 296.51, "en": "...", "vi": "...", "s": 260.26},
@@ -488,7 +488,7 @@
     {
       "e": 484.44,
       "en": "Yes, to fix the pipes in the bathroom.",
-      "vi": "Ðúng vậy, để sửa ống nước trong nhà tắm.",
+      "vi": "Đúng vậy, để sửa ống nước trong nhà tắm.",
       "s": 481.72
     },
     {"e": 487.33, "en": "Oh. All right.", "vi": "Ồ vâng.", "s": 484.44},

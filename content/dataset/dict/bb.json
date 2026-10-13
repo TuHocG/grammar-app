@@ -27,11 +27,11 @@
     "segs": [
       {"k": "m", "t": "(tắt) Công ty phát thanh Anh quốc ("},
       {"k": "ex", "t": "British Broadcasting Corporation", "vi": ")"},
-      {"k": "ex", "t": "To listen to BBC", "vi": "Nghe Ðài BBC"},
+      {"k": "ex", "t": "To listen to BBC", "vi": "Nghe Đài BBC"},
       {
         "k": "ex",
         "t": "BBC English",
-        "vi": "tiếng Anh của Ðài BBC (tiếng Anh thật chính xác và chuẩn mực)."
+        "vi": "tiếng Anh của Đài BBC (tiếng Anh thật chính xác và chuẩn mực)."
       }
     ],
     "ipa": "bi:bi:si",

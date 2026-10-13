@@ -768,7 +768,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "gương nứt"}],
     "k": "fracture mirror"
   },
-  {"h": "fracture nail", "segs": [{"k": "m", "t": "Ðinh đóng gẫy xương."}], "k": "fracture nail"},
+  {"h": "fracture nail", "segs": [{"k": "m", "t": "Đinh đóng gẫy xương."}], "k": "fracture nail"},
   {
     "h": "fracture orientation",
     "segs": [{"k": "m", "t": "sự định hướng khe nứt."}],
@@ -2123,7 +2123,7 @@
       },
       {
         "k": "m",
-        "t": "Ðặc tính quan trọng nhất là frame switch phân chia LAN thành nhiều phân đoạn LAN, trong đó mỗi phân đoạn sử dụng trọn vẹn phần băng thông thuộc địa hình phân đoạn. Nếu chỉ có một trạm duy nhất nối vào cổng, nó sẽ chiếm hoàn toàn phần băng thông mà không phải tranh chấp với các trạm khác. Bởi vì không phải máy tính nào cũng yêu cầu toàn bộ băng thông, nên người ta thường sử dụng đến thiết bị hub đa cổng để nhiều người dùng hơn có thể cùng chia sẻ băng thông. Ngay cả khi số người dùng này chia sẻ chung một phân đoạn, thì số trạm chia sẻ cùng phân đoạn vẫn còn ít hơn khi so sánh với hệ thống mạng dùng chung cổ điển mà tại đó tất cả mọi trạm con cùng chia sẻ chung hệ thống. Ðồng thời chuyển mạch còn có thể bảo đảm rằng bất kỳ trạm con nào cũng có thể thiết lập liên kết đến các trạm khác trên hệ thống."
+        "t": "Đặc tính quan trọng nhất là frame switch phân chia LAN thành nhiều phân đoạn LAN, trong đó mỗi phân đoạn sử dụng trọn vẹn phần băng thông thuộc địa hình phân đoạn. Nếu chỉ có một trạm duy nhất nối vào cổng, nó sẽ chiếm hoàn toàn phần băng thông mà không phải tranh chấp với các trạm khác. Bởi vì không phải máy tính nào cũng yêu cầu toàn bộ băng thông, nên người ta thường sử dụng đến thiết bị hub đa cổng để nhiều người dùng hơn có thể cùng chia sẻ băng thông. Ngay cả khi số người dùng này chia sẻ chung một phân đoạn, thì số trạm chia sẻ cùng phân đoạn vẫn còn ít hơn khi so sánh với hệ thống mạng dùng chung cổ điển mà tại đó tất cả mọi trạm con cùng chia sẻ chung hệ thống. Đồng thời chuyển mạch còn có thể bảo đảm rằng bất kỳ trạm con nào cũng có thể thiết lập liên kết đến các trạm khác trên hệ thống."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -2562,7 +2562,7 @@
   },
   {
     "h": "frameshift mutation",
-    "segs": [{"k": "m", "t": "Ðột biến xê dịch khung."}],
+    "segs": [{"k": "m", "t": "Đột biến xê dịch khung."}],
     "k": "frameshift mutation"
   },
   {"h": "frameup", "segs": [{"k": "ref", "t": "như frame-up."}], "ipa": "ˈfreim'ʌp", "k": "frameup"},
@@ -2722,11 +2722,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nước ở miền Tây Châu Âu, phía Bắc là biển Manche, phía Tây là Ðại Tây Dương, phía Nam là dãy núi Pyrenees và Ðịa Trung Hải, phía Ðông là nước Bỉ, Ðức, Luxembourg, Thụy sĩ và Ý."
+        "t": "một nước ở miền Tây Châu Âu, phía Bắc là biển Manche, phía Tây là Đại Tây Dương, phía Nam là dãy núi Pyrenees và Địa Trung Hải, phía Đông là nước Bỉ, Đức, Luxembourg, Thụy sĩ và Ý."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Pháp là nước lớn thứ hai ở Châu Âu (sau Nga). Về phía Tây Bắc là bán đảo Brittany có những đồi thấp đá hoa cương, vùng Normandy với những cao nguyên phì nhiêu, thung lũng Loire rộng lớn, nguồn nước sông Seine, tất cả đều có khí hậu ôn hòa. Về phía Ðông Bắc thì thời tiết lạnh hơn. Ở đây có đất canh tác là đá vôi, cũng có quặng than đá. Hướng về phía Nam, đất đai nhô lên thành những cao nguyên và những vùng rải rác đá nham thạch của núi lửa. Về phía Tây là vùng đất thấp Bordeaux và cửa sông Gironde. Về phía Nam là những cánh đồng Languedoc và ở phía Ðông là thung lũng Rhône. Trải dài từ Bắc tới Nam dọc theo biên giới phía Ðông của Pháp là dãy núi Jura, dãy núi Vosges và dãy núi Alps, chạy theo các triền núi phía Bắc đến tận vùng Alsace-Lorraine."
+        "t": "Địa hình: Pháp là nước lớn thứ hai ở Châu Âu (sau Nga). Về phía Tây Bắc là bán đảo Brittany có những đồi thấp đá hoa cương, vùng Normandy với những cao nguyên phì nhiêu, thung lũng Loire rộng lớn, nguồn nước sông Seine, tất cả đều có khí hậu ôn hòa. Về phía Đông Bắc thì thời tiết lạnh hơn. Ở đây có đất canh tác là đá vôi, cũng có quặng than đá. Hướng về phía Nam, đất đai nhô lên thành những cao nguyên và những vùng rải rác đá nham thạch của núi lửa. Về phía Tây là vùng đất thấp Bordeaux và cửa sông Gironde. Về phía Nam là những cánh đồng Languedoc và ở phía Đông là thung lũng Rhône. Trải dài từ Bắc tới Nam dọc theo biên giới phía Đông của Pháp là dãy núi Jura, dãy núi Vosges và dãy núi Alps, chạy theo các triền núi phía Bắc đến tận vùng Alsace-Lorraine."
       },
       {
         "k": "m",
@@ -2738,7 +2738,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: thời tiền sử vẫn còn lưu lại những bức họa trong hang, những lâu đài thời tiền sử chứng tỏ đã có người dân định cư một thời gian dài. Vùng Gaul của người La Mã bị đội quân của Julius Caesar chiếm đóng, vẫn còn ghi lại dấu tích. Những cư dân địa phương trải qua nhiều thế kỷ bị chiếm đóng đã La Mã hóa. Sau năm 330 sau Công Nguyên, xứ Gaul bị xâm chiếm bởi Goths, Franks, Burgundians, và rồi bị cai trị bởi Clovis (465-511), vua Merovingian. Về sau, xứ này là thành phần của đế chế Charlemagne. Ðế chế này bị Vikings và Saracens tấn công nhiều lần, nhưng cuối cùng, triều đại Capetian nổi lên vào năm 987. Những cuộc tranh đấu cuồng nhiệt với những đối thủ của Brittany, Burgundy, Norman và những vị vua Plantagenet của Anh (1066), kết cuộc dẫn đến chiến tranh kéo dài 100 năm. Pháp không nổi bật như một nước thống nhất âu dài mãi tới khi loại bỏ được Anh và Burgundians vào cuối thời Trung Cổ."
+        "t": "Lịch sử: thời tiền sử vẫn còn lưu lại những bức họa trong hang, những lâu đài thời tiền sử chứng tỏ đã có người dân định cư một thời gian dài. Vùng Gaul của người La Mã bị đội quân của Julius Caesar chiếm đóng, vẫn còn ghi lại dấu tích. Những cư dân địa phương trải qua nhiều thế kỷ bị chiếm đóng đã La Mã hóa. Sau năm 330 sau Công Nguyên, xứ Gaul bị xâm chiếm bởi Goths, Franks, Burgundians, và rồi bị cai trị bởi Clovis (465-511), vua Merovingian. Về sau, xứ này là thành phần của đế chế Charlemagne. Đế chế này bị Vikings và Saracens tấn công nhiều lần, nhưng cuối cùng, triều đại Capetian nổi lên vào năm 987. Những cuộc tranh đấu cuồng nhiệt với những đối thủ của Brittany, Burgundy, Norman và những vị vua Plantagenet của Anh (1066), kết cuộc dẫn đến chiến tranh kéo dài 100 năm. Pháp không nổi bật như một nước thống nhất âu dài mãi tới khi loại bỏ được Anh và Burgundians vào cuối thời Trung Cổ."
       },
       {
         "k": "m",
@@ -2746,15 +2746,15 @@
       },
       {
         "k": "m",
-        "t": "Nền cộng hòa thứ nhất (1792-1804) được thành lập sau khi nền quân chủ Bourbon sụp đổ, kéo dài cho tới khi đế chế Napoleon I (1804-1814), Pháp trở nên quyền lực chính trị chế ngự Châu Âu. Nền quân chủ của Pháp còn tồn tại đến năm 1814, bị gián đoạn năm 1815, và kéo dài cho đến khi vua louis Philippe thoái vị năm 1848. Trong thời kỳ này, Pháp mất ảnh hưởng ở Ấn Ðộ và Canada, nên Pháp tạo ra một đế chế hải ngoại ở Bắc Phi. Nền cộng hòa Pháp thứ hai được thành lập 1848, kéo dài tới năm 1852, khi vua Napoleon III tuyên bố đế chế II (1852-1870) bành trướng đến tận Ðông Nam Á ở Thái Bình Dương. Sau đó, Pháp thua trận Pháp-Phổ (1870), vua Napoleon III bị bắt và đi lưu đày thì nền cộng hòa Pháp thứ ba được thành lập."
+        "t": "Nền cộng hòa thứ nhất (1792-1804) được thành lập sau khi nền quân chủ Bourbon sụp đổ, kéo dài cho tới khi đế chế Napoleon I (1804-1814), Pháp trở nên quyền lực chính trị chế ngự Châu Âu. Nền quân chủ của Pháp còn tồn tại đến năm 1814, bị gián đoạn năm 1815, và kéo dài cho đến khi vua louis Philippe thoái vị năm 1848. Trong thời kỳ này, Pháp mất ảnh hưởng ở Ấn Độ và Canada, nên Pháp tạo ra một đế chế hải ngoại ở Bắc Phi. Nền cộng hòa Pháp thứ hai được thành lập 1848, kéo dài tới năm 1852, khi vua Napoleon III tuyên bố đế chế II (1852-1870) bành trướng đến tận Đông Nam Á ở Thái Bình Dương. Sau đó, Pháp thua trận Pháp-Phổ (1870), vua Napoleon III bị bắt và đi lưu đày thì nền cộng hòa Pháp thứ ba được thành lập."
       },
       {
         "k": "m",
-        "t": "Pháp dự hội nghị Berlin về Châu Phi (1884) và đến năm 1914, Pháp cai trị Morocco, Tunis, Madagascar và những vùng rộng lớn ở Tây Châu Phi và miền nhiệt đới Châu Phi. Nền cộng hòa Pháp thứ 3 sụp đổ năm 1940, tiếp theo là thất bại trước Nazi, Ðức. Người Ðức chiếm đóng miền Bắc nước Pháp, nhưng niềm Nam dưới quyền cai trị của chính phủ Vichy, và một chính phủ Pháp tự do được tuyên bố ở Luân Ðôn."
+        "t": "Pháp dự hội nghị Berlin về Châu Phi (1884) và đến năm 1914, Pháp cai trị Morocco, Tunis, Madagascar và những vùng rộng lớn ở Tây Châu Phi và miền nhiệt đới Châu Phi. Nền cộng hòa Pháp thứ 3 sụp đổ năm 1940, tiếp theo là thất bại trước Nazi, Đức. Người Đức chiếm đóng miền Bắc nước Pháp, nhưng niềm Nam dưới quyền cai trị của chính phủ Vichy, và một chính phủ Pháp tự do được tuyên bố ở Luân Đôn."
       },
       {
         "k": "m",
-        "t": "Nền cộng hòa Pháp thứ 4 (1946-1958) được thay thế bằng nền cộng hòa Pháp thứ 5 (1958) dưới quyền một chính phủ mạnh của tổng thống Charles de Gaulle (1959-1969). Chiến tranh và tổn phí kéo dài dẫn tới việc từ bỏ chủ nghĩa thực dân ở Ðông Dương (1954), ở Algeria (1962) và từ năm 1965, phần còn lại là của đế chế Châu Phi có sự gia tăng độc lập. Sau 1945, Pháp lấy lại được vị thế quyền lực chính ở Châu Âu và là thành viên sáng lập ra cộng đồng kinh tế Châu Âu (1958). Pháp là nước có hạt nhân, nên Pháp không ký vào bản hiệp ước đình chỉ thử nghiệm hạt nhân (1963) và rút lui khỏi khối Nato (1966)."
+        "t": "Nền cộng hòa Pháp thứ 4 (1946-1958) được thay thế bằng nền cộng hòa Pháp thứ 5 (1958) dưới quyền một chính phủ mạnh của tổng thống Charles de Gaulle (1959-1969). Chiến tranh và tổn phí kéo dài dẫn tới việc từ bỏ chủ nghĩa thực dân ở Đông Dương (1954), ở Algeria (1962) và từ năm 1965, phần còn lại là của đế chế Châu Phi có sự gia tăng độc lập. Sau 1945, Pháp lấy lại được vị thế quyền lực chính ở Châu Âu và là thành viên sáng lập ra cộng đồng kinh tế Châu Âu (1958). Pháp là nước có hạt nhân, nên Pháp không ký vào bản hiệp ước đình chỉ thử nghiệm hạt nhân (1963) và rút lui khỏi khối Nato (1966)."
       },
       {
         "k": "m",
@@ -2763,10 +2763,10 @@
       {"k": "m", "t": "Thủ đô: Paris."},
       {"k": "m", "t": "Diện tích: 543.965km2"},
       {"k": "m", "t": "Dân số: 58,392 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Franc."},
+      {"k": "m", "t": "Tiền tệ: Đồng Franc."},
       {
         "k": "m",
-        "t": "Tôn giáo: Thiên Chúa Giáo La Mã 76,4%, Cơ Ðốc giáo 3,7%, Vô thần 3,4% Hồi giáo 3%."
+        "t": "Tôn giáo: Thiên Chúa Giáo La Mã 76,4%, Cơ Đốc giáo 3,7%, Vô thần 3,4% Hồi giáo 3%."
       },
       {
         "k": "m",
@@ -2924,7 +2924,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1768-1835) Ông là vua của vương quốc Holy Roman. Theo sau sự bại trận ở Austerlitz, ông buộc phải thoái vị, mất đất đai cho Nga, Bavaria và Pháp do hiệp ước Sehonbrunn (1809). Ông không có sự lựa chọn nào khác, nhưng ông cho phép vua Napoleon kết hôn cùng cô con gái là Marie-Louise (1810). Ðến năm 1813, ông dự phần vào biến cố sụp đổ của Napoleon. Năm 1815, do hội nghị Vienna, ông lấy lại được nhiều vùng lãnh thổ đã mất trong cuộc chiến, kết quả là do sự ngoại giao tài ba của ông Metternich là người phụ trách về đối ngoại. Sau đó, suốt thời gian 20 năm cầm quyền, ông sử dụng chính sánh kiềm chế."
+        "t": "(1768-1835) Ông là vua của vương quốc Holy Roman. Theo sau sự bại trận ở Austerlitz, ông buộc phải thoái vị, mất đất đai cho Nga, Bavaria và Pháp do hiệp ước Sehonbrunn (1809). Ông không có sự lựa chọn nào khác, nhưng ông cho phép vua Napoleon kết hôn cùng cô con gái là Marie-Louise (1810). Đến năm 1813, ông dự phần vào biến cố sụp đổ của Napoleon. Năm 1815, do hội nghị Vienna, ông lấy lại được nhiều vùng lãnh thổ đã mất trong cuộc chiến, kết quả là do sự ngoại giao tài ba của ông Metternich là người phụ trách về đối ngoại. Sau đó, suốt thời gian 20 năm cầm quyền, ông sử dụng chính sánh kiềm chế."
       }
     ],
     "k": "francis i"
@@ -3381,18 +3381,18 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "frankfurter"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(Mỹ) xúc xích Ðức."}
+      {"k": "m", "t": "(Mỹ) xúc xích Đức."}
     ],
     "ipa": "'fræŋkfət",
     "k": "frankfurt",
-    "q": {"vi": ", xúc xích Ðức", "ipa": "'fræŋkfət", "rs": "f roéng phợt t", "pos": "Tên"}
+    "q": {"vi": ", xúc xích Đức", "ipa": "'fræŋkfət", "rs": "f roéng phợt t", "pos": "Tên"}
   },
   {
     "h": "Frankfurt School",
     "segs": [
       {
         "k": "m",
-        "t": "trường đại học Frankfurt gồm nhiều nhà trí thức thuộc \"Cơ quan nghiên cứu xã hội\" thành lập năm 1923 ở Ðức. Trong thời gian vượt trội của đảng Nazi, nhiều thành viên của trường Frankfurt chạy trốn sang Mỹ và nhà trường phải sáp nhập vào trường đại học Colunbia New York từ năm 1934 đến năm 1949. Trong số những nhà tri thức, có những học giả sáng chói như Theodore Adorno (1903-1969), Herbert Marcuse (1898-1979) và Jurgen Habermas (1929). Nhà trường dự định thống nhất những chủ đề như triết học, tâm lý học, kinh tế học và xây dựng trên tác phẩm của Marx để thiết lập những phê phán mới về chủ nghĩa tư bản. Phát triển cái gọi là \"Lý luận phê bình\", nó sẽ phân tách những vai trò của công ty xuyên quốc gia, kỹ thuật và giao lưu toàn cầu. Những thành viên của trường Frankfurt sợ sự gia tăng kiểm soát của chủ nghĩa tư bản đối với đời sống, cho nên họ ủng hộ chủ nghĩa xã hội."
+        "t": "trường đại học Frankfurt gồm nhiều nhà trí thức thuộc \"Cơ quan nghiên cứu xã hội\" thành lập năm 1923 ở Đức. Trong thời gian vượt trội của đảng Nazi, nhiều thành viên của trường Frankfurt chạy trốn sang Mỹ và nhà trường phải sáp nhập vào trường đại học Colunbia New York từ năm 1934 đến năm 1949. Trong số những nhà tri thức, có những học giả sáng chói như Theodore Adorno (1903-1969), Herbert Marcuse (1898-1979) và Jurgen Habermas (1929). Nhà trường dự định thống nhất những chủ đề như triết học, tâm lý học, kinh tế học và xây dựng trên tác phẩm của Marx để thiết lập những phê phán mới về chủ nghĩa tư bản. Phát triển cái gọi là \"Lý luận phê bình\", nó sẽ phân tách những vai trò của công ty xuyên quốc gia, kỹ thuật và giao lưu toàn cầu. Những thành viên của trường Frankfurt sợ sự gia tăng kiểm soát của chủ nghĩa tư bản đối với đời sống, cho nên họ ủng hộ chủ nghĩa xã hội."
       }
     ],
     "k": "frankfurt school"
@@ -3539,7 +3539,7 @@
   },
   {
     "h": "franklinic electricity",
-    "segs": [{"k": "m", "t": "Ðiện ma sát."}],
+    "segs": [{"k": "m", "t": "Điện ma sát."}],
     "k": "franklinic electricity"
   },
   {
@@ -3776,7 +3776,7 @@
     "h": "frate",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "thầy dòng (dòng Ðô-mi-ních, Fran-xít...)."}
+      {"k": "m", "t": "thầy dòng (dòng Đô-mi-ních, Fran-xít...)."}
     ],
     "ipa": "'fra:tə",
     "k": "frate"
@@ -3914,7 +3914,7 @@
   },
   {
     "h": "frati",
-    "segs": [{"k": "m", "t": "thầy dòng (dòng Ðô-mi-ních, Fran-xít...)."}],
+    "segs": [{"k": "m", "t": "thầy dòng (dòng Đô-mi-ních, Fran-xít...)."}],
     "k": "frati"
   },
   {
@@ -3942,7 +3942,7 @@
     "h": "frau",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "snh Frauen bà; phu nhân (áp dụng cho phụ nữ Ðức)."}
+      {"k": "m", "t": "snh Frauen bà; phu nhân (áp dụng cho phụ nữ Đức)."}
     ],
     "ipa": "fraʊ",
     "k": "frau"
@@ -4189,7 +4189,7 @@
   },
   {
     "h": "fraulein",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "cô gái (chưa chồng, người Ðức)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "cô gái (chưa chồng, người Đức)."}],
     "ipa": "'frɔilain",
     "k": "fraulein"
   },
@@ -4424,8 +4424,8 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "cô"},
-      {"k": "m", "t": "cô gái già Ðức"},
-      {"k": "m", "t": "cô giữ trẻ người Ðức."}
+      {"k": "m", "t": "cô gái già Đức"},
+      {"k": "m", "t": "cô giữ trẻ người Đức."}
     ],
     "k": "frcalein"
   },
@@ -4606,7 +4606,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "I (Barbarossa) (e. 1123-90) Ông là vua nước Ðức và Ý (1152-1190) và là vua La Mã (1155-1190). Ông là con trai của Frederick II, một Hầu tước của xứ Swabia. Ông đè bẹp cuộc nổi loạn của Arnold ở vùng Brescia, miền Bắc của nước Ý (1155) và được Giáo hoàng Adrian IV tặng vương miện. Từ đó về sau, ông ít giao thiệp với Tòa thánh và ông cố gắng tăng cường đế chế của ông ở Ý. Ông bị chống đối bởi một liên minh ở thành phố miền Bắc nước Ý (có tên là liên minh Lombard). Ông hòa giải với Lombard ở hội nghị hòa bình ở Constante năm 1183. Khi ở Ðức, ông phải khẳng định quyền lực của mình đối với kẻ địch là Henry the Lion. Ông trao ngôi vua vào tay người con trai, rồi lên đường gia nhập cuộc thánh chiến. Ông thắng trận hai lần đối với Hồi giáo, nhưng ông lại bị chết đuối khi băng qua sông ở vùng tiểu Á."
+        "t": "I (Barbarossa) (e. 1123-90) Ông là vua nước Đức và Ý (1152-1190) và là vua La Mã (1155-1190). Ông là con trai của Frederick II, một Hầu tước của xứ Swabia. Ông đè bẹp cuộc nổi loạn của Arnold ở vùng Brescia, miền Bắc của nước Ý (1155) và được Giáo hoàng Adrian IV tặng vương miện. Từ đó về sau, ông ít giao thiệp với Tòa thánh và ông cố gắng tăng cường đế chế của ông ở Ý. Ông bị chống đối bởi một liên minh ở thành phố miền Bắc nước Ý (có tên là liên minh Lombard). Ông hòa giải với Lombard ở hội nghị hòa bình ở Constante năm 1183. Khi ở Đức, ông phải khẳng định quyền lực của mình đối với kẻ địch là Henry the Lion. Ông trao ngôi vua vào tay người con trai, rồi lên đường gia nhập cuộc thánh chiến. Ông thắng trận hai lần đối với Hồi giáo, nhưng ông lại bị chết đuối khi băng qua sông ở vùng tiểu Á."
       }
     ],
     "k": "frederick"
@@ -4630,7 +4630,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1415-1493) Ông là vua nước Ðức (1440-1493), vua La Mã (1452-1493). Ông thừa kế vùng Habsburg và là một Hầu tước của Áo (1424). Ông thất bại trong việc khẳng định gia đình ông có quyền lợi ở Hungary. Ông gặp rắc rối trong việc khiếu nại về những khu đất của mình. Ông bị Thổ Nhĩ Kỳ tấn công. Sau khi Constantinople thất thủ (1453), ông càng bị đe dọa thêm. Ông được giáo hội ưu ái, nên Giáo hoàng La Mã phong cho ông là vua cuối cùng ở La Mã. Ông thu xếp được cuộc hôn nhân của con trai tên là Maximilian I, kết hôn với con gái của vua Charles the Bold, cho nên Frederick III đã nới rộng được một triều đại quyền lực ở Habsburgs."
+        "t": "(1415-1493) Ông là vua nước Đức (1440-1493), vua La Mã (1452-1493). Ông thừa kế vùng Habsburg và là một Hầu tước của Áo (1424). Ông thất bại trong việc khẳng định gia đình ông có quyền lợi ở Hungary. Ông gặp rắc rối trong việc khiếu nại về những khu đất của mình. Ông bị Thổ Nhĩ Kỳ tấn công. Sau khi Constantinople thất thủ (1453), ông càng bị đe dọa thêm. Ông được giáo hội ưu ái, nên Giáo hoàng La Mã phong cho ông là vua cuối cùng ở La Mã. Ông thu xếp được cuộc hôn nhân của con trai tên là Maximilian I, kết hôn với con gái của vua Charles the Bold, cho nên Frederick III đã nới rộng được một triều đại quyền lực ở Habsburgs."
       }
     ],
     "k": "frederick iii"
@@ -4640,7 +4640,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ông là người đắc cử ở Brandenburg (1620-1688). Ông phải đối phó với hậu quả do cuộc chiến tranh 30 năm để lại. Nhưng ông là một nhà ngoại giao có tài. Ông cải thiện địa vị rất nhanh chóng. Qua hiệp ước Westphalia, ông đạt được vùng East Pomerania. Năm 1688, quân đội thường trực của ông gồm 30.000 quân, đã trở thành căn cứ có hiệu lực của chính phủ. Giao thông được cải thiện, đất hoang được trồng tỉa. Lãnh thổ của ông ở phía Ðông nước Phổ, thoát khỏi ách đô hộ của Ba Lan. Cuộc chiến thắng của ông đối với vùng Fehrbellin (1675) Thụy Ðiển đã gia tăng uy thế cho ông."
+        "t": "Ông là người đắc cử ở Brandenburg (1620-1688). Ông phải đối phó với hậu quả do cuộc chiến tranh 30 năm để lại. Nhưng ông là một nhà ngoại giao có tài. Ông cải thiện địa vị rất nhanh chóng. Qua hiệp ước Westphalia, ông đạt được vùng East Pomerania. Năm 1688, quân đội thường trực của ông gồm 30.000 quân, đã trở thành căn cứ có hiệu lực của chính phủ. Giao thông được cải thiện, đất hoang được trồng tỉa. Lãnh thổ của ông ở phía Đông nước Phổ, thoát khỏi ách đô hộ của Ba Lan. Cuộc chiến thắng của ông đối với vùng Fehrbellin (1675) Thụy Điển đã gia tăng uy thế cho ông."
       }
     ],
     "k": "frederick william"
@@ -4716,7 +4716,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1866-1927) nhà toán học Thụy Ðiển. Ông tốt nghiệp trường Ðại học tổng hợp Stockholm (1893) và làm giáo sư tại đấy từ 1906. Năm 1900 ông đã trình bày những tính chất và định lý cơ bản của lý thuyết phương trình tích phân, đã soạn thảo những phương pháp giải tổng quát của một số dạng phương trình đó (phương trình Fredholm)."
+        "t": "(1866-1927) nhà toán học Thụy Điển. Ông tốt nghiệp trường Đại học tổng hợp Stockholm (1893) và làm giáo sư tại đấy từ 1906. Năm 1900 ông đã trình bày những tính chất và định lý cơ bản của lý thuyết phương trình tích phân, đã soạn thảo những phương pháp giải tổng quát của một số dạng phương trình đó (phương trình Fredholm)."
       }
     ],
     "k": "fredholm erik ivar"
@@ -5080,7 +5080,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "giao cho người chuyên chở. Ðiều kiện buôn bán quốc tế theo đó người bán chịu mọi trách nhiệm và chi phí về hàng hóa cho đến khi hàng được giao cho người chuyên chở chỉ định. Từ lúc đó trở đi, người bán không chịu trách nhiệm và chi phí gì nữa. Theo điều kiện này, như qui định của Inceterms, hai bên có những nghĩa vụ chính sau đây: bên bán phải giao hàng tại địa điểm qui định, trong thời gian thỏa thuận, cho người chuyên chở mà bên mua đã chỉ định: lấy giấy phép xuất khẩu, nộp thuế và lệ phí xuất khẩu (nếu cần), cung cấp cho bên mua bằng chứng về việc đã giao hàng cho người chuyên chở. Còn bên mua phải chỉ định người chuyên chở, ký hợp đồng chuyên chở hàng hóa và trả cước, chịu mọi rủi ro về hàng hóa kể từ khi hàng đó đã giao cho người chuyên chở được chỉ định."
+        "t": "giao cho người chuyên chở. Điều kiện buôn bán quốc tế theo đó người bán chịu mọi trách nhiệm và chi phí về hàng hóa cho đến khi hàng được giao cho người chuyên chở chỉ định. Từ lúc đó trở đi, người bán không chịu trách nhiệm và chi phí gì nữa. Theo điều kiện này, như qui định của Inceterms, hai bên có những nghĩa vụ chính sau đây: bên bán phải giao hàng tại địa điểm qui định, trong thời gian thỏa thuận, cho người chuyên chở mà bên mua đã chỉ định: lấy giấy phép xuất khẩu, nộp thuế và lệ phí xuất khẩu (nếu cần), cung cấp cho bên mua bằng chứng về việc đã giao hàng cho người chuyên chở. Còn bên mua phải chỉ định người chuyên chở, ký hợp đồng chuyên chở hàng hóa và trả cước, chịu mọi rủi ro về hàng hóa kể từ khi hàng đó đã giao cho người chuyên chở được chỉ định."
       }
     ],
     "k": "free carrier"
@@ -5245,7 +5245,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "miễn thưởng bốc dỡ. Ðiều khoản trong hợp đồng thuê tàu quy định người chuyên chở (chủ tàu) không phải trả tiền thưởng bốc dỡ khi việc bốc dỡ hàng hóa được hoàn thành trước thời hạn bốc dỡ quy định."
+        "t": "miễn thưởng bốc dỡ. Điều khoản trong hợp đồng thuê tàu quy định người chuyên chở (chủ tàu) không phải trả tiền thưởng bốc dỡ khi việc bốc dỡ hàng hóa được hoàn thành trước thời hạn bốc dỡ quy định."
       }
     ],
     "k": "free despatch"
@@ -5258,7 +5258,7 @@
     ],
     "k": "free destination"
   },
-  {"h": "free diffusion", "segs": [{"k": "m", "t": "Ðiện chuyển tự do."}], "k": "free diffusion"},
+  {"h": "free diffusion", "segs": [{"k": "m", "t": "Điện chuyển tự do."}], "k": "free diffusion"},
   {"h": "free diffussion", "segs": [{"k": "m", "t": "điện chuyển tự do."}], "k": "free diffussion"},
   {
     "h": "free dischange valve",
@@ -5717,7 +5717,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "miễn phí bốc. Ðiều kiện của hợp đồng thuê tàu chuyến (voyage charter) theo đó người chuyên chở không chịu chi phí bốc hàng lên tàu ở cảng đi, chi phí này do người thuê tàu phải chịu."
+        "t": "miễn phí bốc. Điều kiện của hợp đồng thuê tàu chuyến (voyage charter) theo đó người chuyên chở không chịu chi phí bốc hàng lên tàu ở cảng đi, chi phí này do người thuê tàu phải chịu."
       }
     ],
     "k": "free in (f.i.)"
@@ -5742,7 +5742,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "giao vào xà lan. Ðiều kiện buôn bán quốc tế theo đó người bán chở hàng tới cảng giao hàng quy định và giao vào xà lan của người mua."
+        "t": "giao vào xà lan. Điều kiện buôn bán quốc tế theo đó người bán chở hàng tới cảng giao hàng quy định và giao vào xà lan của người mua."
       }
     ],
     "k": "free into barge"
@@ -6155,7 +6155,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "miễn phí dỡ. Ðiều kiện của hợp đồng thuê tàu chuyến (voyage charter) theo đó người chuyên chở không chịu chi phí dỡ hàng khỏi tàu ở cảng đến, chi phí này do người thuê tàu phải chịu."
+        "t": "miễn phí dỡ. Điều kiện của hợp đồng thuê tàu chuyến (voyage charter) theo đó người chuyên chở không chịu chi phí dỡ hàng khỏi tàu ở cảng đến, chi phí này do người thuê tàu phải chịu."
       }
     ],
     "k": "free out (f.o)"
@@ -6171,7 +6171,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "giao qua mạn. Ðiều kiện buôn bán quốc tế, theo đó, người bán chịu mọi trách nhiệm và chi phí cho đến khi hàng rời mạn tàu của người bán, tại cảng dỡ quy định."
+        "t": "giao qua mạn. Điều kiện buôn bán quốc tế, theo đó, người bán chịu mọi trách nhiệm và chi phí cho đến khi hàng rời mạn tàu của người bán, tại cảng dỡ quy định."
       }
     ],
     "k": "free overside"
@@ -6519,7 +6519,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đảng đất đai tự do. Năm 1846, ông David Wilmot lãnh đạo một đảng chính trị thiểu số ở bang Pennsylvania nước Mỹ đề nghị với quốc hội một đạo luật. Ðạo luật buộc tệ nạn nô lệ phải bị cấm ở nhiều lãnh thổ rộng lớn do Mexico đã chiếm đóng trong cuộc chiến tranh Mỹ-Mexico. Nhưng ông Wilmot đã thất bại. Tuy nhiên, những người ủng hộ đạo luật đã tổ chức một hội nghị vào năm 1848 để thành lập \"Ðảng đất đai tự do\". Họ đòi hỏi ba điều \"Ðất đai tự do, lao động tự do và người tự do\". Ðảng này được sự ủng hộ của những tiểu nông và nhóm chống nô lệ. Ðến năm 1854, đảng này mới trở thành \"Ðảng cộng hòa\" ở Mỹ."
+        "t": "đảng đất đai tự do. Năm 1846, ông David Wilmot lãnh đạo một đảng chính trị thiểu số ở bang Pennsylvania nước Mỹ đề nghị với quốc hội một đạo luật. Đạo luật buộc tệ nạn nô lệ phải bị cấm ở nhiều lãnh thổ rộng lớn do Mexico đã chiếm đóng trong cuộc chiến tranh Mỹ-Mexico. Nhưng ông Wilmot đã thất bại. Tuy nhiên, những người ủng hộ đạo luật đã tổ chức một hội nghị vào năm 1848 để thành lập \"Đảng đất đai tự do\". Họ đòi hỏi ba điều \"Đất đai tự do, lao động tự do và người tự do\". Đảng này được sự ủng hộ của những tiểu nông và nhóm chống nô lệ. Đến năm 1854, đảng này mới trở thành \"Đảng cộng hòa\" ở Mỹ."
       }
     ],
     "k": "free soil party"
@@ -6763,15 +6763,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "tự do mậu dịch. Một chủ nghĩa chấp nhận, một dòng chảy tự do của hàng hóa giữa các nước để khuyến khích sự phát triển kinh tế hỗ trợ và hài hòa thương mại quốc tế. Chính sách tự do mậu dịch ngăn cấm hai việc. Một là đánh thuế nặng nhập khẩu. Hai là trợ cấp cho xuất khẩu để bảo vệ kỹ nghệ trong nước. Chính sách tự do mậu dịch này do ông Adam Smith đề xuất trong văn kiện \"Thịnh vượng của các nước\" (1776). Lập luận của văn kiện này kêu gọi nhiều công kỹ nghệ gia Anh quốc (được mệnh danh là tầng lớp Manchester) hãy hủy bỏ \"Luật về xuất khẩu ngô\" (1846), hủy bỏ việc đánh thuế nặng hàng nhập khẩu để bảo vệ công kỹ nghệ nội địa, ví dụ ở Mỹ, Ðức, Úc. Năm 1903, Joseph Chamber Lain bắt đầu một chiến dịch ở Anh về sự cải cách thuế quan. Ðó là điểm chính yếu về mặt chính trị của nước Anh (1932). Trong khi đó, một hội nghị ở Ottawa được tổ chức để chấp thuận phương pháp giới hạn thuế quan giữa Anh và lãnh thổ tự trị (thuộc vương quốc Anh) trong 5 năm đầu và để thử nghiệm kết quả. Sau đệ nhị thế chiến, nước Mỹ cố gắng tranh thủ lấy khuynh hướng bảo vệ hàng hóa. Ở hội nghị Geneva năm 1947, một chương trình mậu dịch tự do được đề xuất. Ðó là \"Sự thỏa thuận tổng quát về thuế quan và thương mại\" (Gatt). Sự thỏa thuận này đã được duy trì trên một thập niên. Nó là tiền đề cho hiệp hội thương mại tự do Châu Âu (EFTA 1958). Ðến thập kỷ 1960, nước Anh nảy sinh những điều kiện kinh tế trái ngược với EFTA, nên nước Anh tìm cách gia nhập cộng đồng kinh tế Châu Âu (EEC), này là EU (Europian Union)."
+        "t": "tự do mậu dịch. Một chủ nghĩa chấp nhận, một dòng chảy tự do của hàng hóa giữa các nước để khuyến khích sự phát triển kinh tế hỗ trợ và hài hòa thương mại quốc tế. Chính sách tự do mậu dịch ngăn cấm hai việc. Một là đánh thuế nặng nhập khẩu. Hai là trợ cấp cho xuất khẩu để bảo vệ kỹ nghệ trong nước. Chính sách tự do mậu dịch này do ông Adam Smith đề xuất trong văn kiện \"Thịnh vượng của các nước\" (1776). Lập luận của văn kiện này kêu gọi nhiều công kỹ nghệ gia Anh quốc (được mệnh danh là tầng lớp Manchester) hãy hủy bỏ \"Luật về xuất khẩu ngô\" (1846), hủy bỏ việc đánh thuế nặng hàng nhập khẩu để bảo vệ công kỹ nghệ nội địa, ví dụ ở Mỹ, Đức, Úc. Năm 1903, Joseph Chamber Lain bắt đầu một chiến dịch ở Anh về sự cải cách thuế quan. Đó là điểm chính yếu về mặt chính trị của nước Anh (1932). Trong khi đó, một hội nghị ở Ottawa được tổ chức để chấp thuận phương pháp giới hạn thuế quan giữa Anh và lãnh thổ tự trị (thuộc vương quốc Anh) trong 5 năm đầu và để thử nghiệm kết quả. Sau đệ nhị thế chiến, nước Mỹ cố gắng tranh thủ lấy khuynh hướng bảo vệ hàng hóa. Ở hội nghị Geneva năm 1947, một chương trình mậu dịch tự do được đề xuất. Đó là \"Sự thỏa thuận tổng quát về thuế quan và thương mại\" (Gatt). Sự thỏa thuận này đã được duy trì trên một thập niên. Nó là tiền đề cho hiệp hội thương mại tự do Châu Âu (EFTA 1958). Đến thập kỷ 1960, nước Anh nảy sinh những điều kiện kinh tế trái ngược với EFTA, nên nước Anh tìm cách gia nhập cộng đồng kinh tế Châu Âu (EEC), này là EU (Europian Union)."
       },
       {
         "k": "m",
-        "t": "Ở Ðông Âu, cũng có một cộng đồng tương tự. Ðó là Comecon (1949). Sau năm 1987, Comecon tìm cách hợp tác với những nước EU."
+        "t": "Ở Đông Âu, cũng có một cộng đồng tương tự. Đó là Comecon (1949). Sau năm 1987, Comecon tìm cách hợp tác với những nước EU."
       },
       {
         "k": "m",
-        "t": "Sự tăng trưởng thành công cao độ của kinh tế Nhật sau chiến tranh dẫn đến việc nhiều nước đánh thuế nhập khẩu thật nặng để chống lại Nhật. Ðến thập niên 1990, chính sách kinh tế thế giới rất lộn xộn. Một số ủng hộ tự do thương mại, một số khác lại áp dụng bảo vệ hàng hóa. Ðến năm 1993, hội nghị đàm phán đa phương Uruguay đã có kết luận. Những thành viên của Gatt (thỏa thuận tổng quát về thuế quan và thuế thương mại) lại một lần nữa cắt giảm thuế nhập khẩu và trợ cấp hàng hóa xuất khẩu. Ðồng thời họ thành lập tổ chức thương mại quốc tế (World trade Organisation) (WTO). Tổ chức WTO tăng cường những luật lệ của GATT đặc biệt là những biện pháp nông nghiệp đã được thỏa thuận ở hội nghị Uraguay. WTO giảm trợ cấp hàng hóa xuất khẩu và thuế nhập khẩu từ 20 đến 36%."
+        "t": "Sự tăng trưởng thành công cao độ của kinh tế Nhật sau chiến tranh dẫn đến việc nhiều nước đánh thuế nhập khẩu thật nặng để chống lại Nhật. Đến thập niên 1990, chính sách kinh tế thế giới rất lộn xộn. Một số ủng hộ tự do thương mại, một số khác lại áp dụng bảo vệ hàng hóa. Đến năm 1993, hội nghị đàm phán đa phương Uruguay đã có kết luận. Những thành viên của Gatt (thỏa thuận tổng quát về thuế quan và thuế thương mại) lại một lần nữa cắt giảm thuế nhập khẩu và trợ cấp hàng hóa xuất khẩu. Đồng thời họ thành lập tổ chức thương mại quốc tế (World trade Organisation) (WTO). Tổ chức WTO tăng cường những luật lệ của GATT đặc biệt là những biện pháp nông nghiệp đã được thỏa thuận ở hội nghị Uraguay. WTO giảm trợ cấp hàng hóa xuất khẩu và thuế nhập khẩu từ 20 đến 36%."
       }
     ],
     "k": "free trade"
@@ -7480,7 +7480,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phong trào dùng bạc để đúc tiền ở Mỹ vào thế kỷ 19. Tiếp theo là thời kỳ \"Ðổ xô đi tìm vàng\" trong thập niên 1850 và 1860 ở Mỹ. Người ta đã khám phá ra nhiều quặng bạc ở miền Tây. Những người thợ mỏ ao ước có thể sản xuất thật nhiều bạc, nhưng năm 1873, quốc hội Mỹ không chấp nhận đúc tiền đô la bằng bạc. Do đó, nổi lên một phong trào phản đối vào năm 1890, tiền đô la đúc bằng bạc vẫn cứ hợp pháp. Ngân khố nước Mỹ đành chấp nhận mua bạc để đúc tiền. Sau cuộc bầu cử năm 1900, ông Franklin Delano Roosevelt thông qua luật bảo đảm cho ngân khố Hoa Kỳ được mua bạc để sản xuất tiền xu (10 xu v.v...). nhiều đến năm 1970, ngân khố Hoa Kỳ ngưng không dùng bạc và đem bán số bạc dự trữ dư thừa."
+        "t": "phong trào dùng bạc để đúc tiền ở Mỹ vào thế kỷ 19. Tiếp theo là thời kỳ \"Đổ xô đi tìm vàng\" trong thập niên 1850 và 1860 ở Mỹ. Người ta đã khám phá ra nhiều quặng bạc ở miền Tây. Những người thợ mỏ ao ước có thể sản xuất thật nhiều bạc, nhưng năm 1873, quốc hội Mỹ không chấp nhận đúc tiền đô la bằng bạc. Do đó, nổi lên một phong trào phản đối vào năm 1890, tiền đô la đúc bằng bạc vẫn cứ hợp pháp. Ngân khố nước Mỹ đành chấp nhận mua bạc để đúc tiền. Sau cuộc bầu cử năm 1900, ông Franklin Delano Roosevelt thông qua luật bảo đảm cho ngân khố Hoa Kỳ được mua bạc để sản xuất tiền xu (10 xu v.v...). nhiều đến năm 1970, ngân khố Hoa Kỳ ngưng không dùng bạc và đem bán số bạc dự trữ dư thừa."
       }
     ],
     "k": "free-silver movement"
@@ -7986,7 +7986,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quyền tự do sáng tạo. Quyền của cá nhân được sáng tác văn học, nghệ thuật, nghiên cứu khoa học, kỹ thuật, phát minh, sáng chế, sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất và tham gia các hoạt động văn hóa khác (Ðiều 47 Bộ luật dân sự). Người làm ra các công trình trên đây có quyền sở hữu về các công trình đó gọi chung là quyền sở hữu trí tuệ."
+        "t": "quyền tự do sáng tạo. Quyền của cá nhân được sáng tác văn học, nghệ thuật, nghiên cứu khoa học, kỹ thuật, phát minh, sáng chế, sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất và tham gia các hoạt động văn hóa khác (Điều 47 Bộ luật dân sự). Người làm ra các công trình trên đây có quyền sở hữu về các công trình đó gọi chung là quyền sở hữu trí tuệ."
       }
     ],
     "k": "freedom of creation"
@@ -8094,7 +8094,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những người chạy xe buýt tự do vào đầu thập niên 1960, một nhóm người da đen và da trắng thuộc những bang miền Nam Hoa Kỳ, phản đối sự phân biệt chủng tộc, nhưng không dùng phương pháp bạo động. Ða số họ là những tình nguyện viên ở Bắc Mỹ. Năm 1961, họ bắt đầu thuê mướn xe buýt, chạy xe xuyên qua những tiểu bang Nam Mỹ để thách đố những đạo luật chia rẽ sắc tộc. Nhiều tài xế bị những người gốc da trắng ở miền Nam bắt giữ và bị tấn công tàn bạo. Sau đó, một chiến dịch về quyền dân chủ bùng phát và được đông đảo dân chúng ủng hộ."
+        "t": "những người chạy xe buýt tự do vào đầu thập niên 1960, một nhóm người da đen và da trắng thuộc những bang miền Nam Hoa Kỳ, phản đối sự phân biệt chủng tộc, nhưng không dùng phương pháp bạo động. Đa số họ là những tình nguyện viên ở Bắc Mỹ. Năm 1961, họ bắt đầu thuê mướn xe buýt, chạy xe xuyên qua những tiểu bang Nam Mỹ để thách đố những đạo luật chia rẽ sắc tộc. Nhiều tài xế bị những người gốc da trắng ở miền Nam bắt giữ và bị tấn công tàn bạo. Sau đó, một chiến dịch về quyền dân chủ bùng phát và được đông đảo dân chúng ủng hộ."
       }
     ],
     "k": "freedom riders"
@@ -10221,7 +10221,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1848-1925) nhà toán học và logic học Ðức, giáo sư trường Ðại học tổng hợp Iéna trong những năm (1879-1918). Ông đã đề xuất hệ số học hình thức."
+        "t": "(1848-1925) nhà toán học và logic học Đức, giáo sư trường Đại học tổng hợp Iéna trong những năm (1879-1918). Ông đã đề xuất hệ số học hình thức."
       }
     ],
     "k": "frege fridrick liutvick"
@@ -10460,7 +10460,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "điều khoản cước. Ðiều khoản quan trọng trong hợp đồng vận tải biển quy định những vấn đề có liên quan đến cước hàng chuyên chở như: suất cước, cách tính và thanh toán cước, v.v..."
+        "t": "điều khoản cước. Điều khoản quan trọng trong hợp đồng vận tải biển quy định những vấn đề có liên quan đến cước hàng chuyên chở như: suất cước, cách tính và thanh toán cước, v.v..."
       }
     ],
     "k": "freight clause"
@@ -10484,7 +10484,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hiệp hội tàu chợ. Tổ chức liên hiệp các công ty tàu chợ của các nước tư bản cùng hoạt động kinh doanh trên một tuyến đường hay cùng một khu vực chuyên chở, nhằm hạn chế cạnh tranh giữa các công ty thành viên và tăng cường khả năng cạnh tranh với các công ty ngoài hiệp hội. Hiệp hội tàu chợ định ra các quy chế thống nhất về cước, kế hoạch chạy tàu, mẫu vận đơn đường biển, v.v... buộc các công ty thành viên phải chấp hành. Các hiệp hội quan trọng nhất là: Hiệp hội Hamburg / Prê-men / Luân Ðôn / Cận Ðông (Conference des frets en sortie des ports du Sud de la France sur le Proche Orient), Hiệp hội Anh / Cảng Xa-Ít (U.K / Port Said Freight Conference), Hiệp hội Viễn Ðông (Far-East Freight Conference), Hiệp hội Ban-tích và Quốc tế (Baltic and International Maritime Conference-BIMCO v.v..."
+        "t": "hiệp hội tàu chợ. Tổ chức liên hiệp các công ty tàu chợ của các nước tư bản cùng hoạt động kinh doanh trên một tuyến đường hay cùng một khu vực chuyên chở, nhằm hạn chế cạnh tranh giữa các công ty thành viên và tăng cường khả năng cạnh tranh với các công ty ngoài hiệp hội. Hiệp hội tàu chợ định ra các quy chế thống nhất về cước, kế hoạch chạy tàu, mẫu vận đơn đường biển, v.v... buộc các công ty thành viên phải chấp hành. Các hiệp hội quan trọng nhất là: Hiệp hội Hamburg / Prê-men / Luân Đôn / Cận Đông (Conference des frets en sortie des ports du Sud de la France sur le Proche Orient), Hiệp hội Anh / Cảng Xa-Ít (U.K / Port Said Freight Conference), Hiệp hội Viễn Đông (Far-East Freight Conference), Hiệp hội Ban-tích và Quốc tế (Baltic and International Maritime Conference-BIMCO v.v..."
       }
     ],
     "k": "freight conference (conference)"
@@ -11031,7 +11031,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1964-1975) cuộc chiến giữa mặt trận giải phóng Mozambique và quân đội Bồ Ðào Nha. Năm 1963, những tân binh của Frelimo được gởi đến Algeria và Ai Cập để học chính trị và du kích chiến. Năm 1964, ông Eduardo Mondlane cầm đầu những cuộc hành quân. Quân đội Bồ Ðào Nha thất bại, và năm 1968, ông Samora Machel đòi lại 1/5 đất nước. Chương trình định cư của người Bồ Ðào Nha và những dịch vụ xã hội không làm thỏa mãn được những quân đội du kích Frelimo, vì du kích quân được trang bị vũ khí bởi Trung Quốc, Tiệp Khắc và Liên Xô. Do đó, Bồ Ðào Nha phải công nhận quyền độc lập của nước cộng hòa nhân dân Mozambique."
+        "t": "(1964-1975) cuộc chiến giữa mặt trận giải phóng Mozambique và quân đội Bồ Đào Nha. Năm 1963, những tân binh của Frelimo được gởi đến Algeria và Ai Cập để học chính trị và du kích chiến. Năm 1964, ông Eduardo Mondlane cầm đầu những cuộc hành quân. Quân đội Bồ Đào Nha thất bại, và năm 1968, ông Samora Machel đòi lại 1/5 đất nước. Chương trình định cư của người Bồ Đào Nha và những dịch vụ xã hội không làm thỏa mãn được những quân đội du kích Frelimo, vì du kích quân được trang bị vũ khí bởi Trung Quốc, Tiệp Khắc và Liên Xô. Do đó, Bồ Đào Nha phải công nhận quyền độc lập của nước cộng hòa nhân dân Mozambique."
       }
     ],
     "k": "frelimo war"
@@ -11158,7 +11158,7 @@
       },
       {
         "k": "m",
-        "t": "Hiệp hội thành lập năm 1958, nhằm mục đích liên hiệp giữa những thuộc địa của Pháp. Thành viên của hiệp hội được phép tự trị, nhưng không được kiểm soát giáo dục cao học của chính nước họ, không được kiểm soát tiền tệ, quốc phòng và ngoại giao. Lãnh thổ miền Tây Phi là Guinea lập tức chống lại hiệp hội này của Pháp lập ra, và trở thành Guinea độc lập. Sự cố này dẫn đến việc xem xét lại hiến Pháp 1960. Ðến năm 1961, hiệp hội Pháp sụp đổ và bị bãi bỏ."
+        "t": "Hiệp hội thành lập năm 1958, nhằm mục đích liên hiệp giữa những thuộc địa của Pháp. Thành viên của hiệp hội được phép tự trị, nhưng không được kiểm soát giáo dục cao học của chính nước họ, không được kiểm soát tiền tệ, quốc phòng và ngoại giao. Lãnh thổ miền Tây Phi là Guinea lập tức chống lại hiệp hội này của Pháp lập ra, và trở thành Guinea độc lập. Sự cố này dẫn đến việc xem xét lại hiến Pháp 1960. Đến năm 1961, hiệp hội Pháp sụp đổ và bị bãi bỏ."
       }
     ],
     "k": "french community"
@@ -11243,7 +11243,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đế chế Pháp. Ðây là đế chế thuộc địa của Pháp ở thế kỷ 18. Pháp đã mất Quebec và thừa nhận ưu thế vượt trội của Anh ở Ấn Ðộ. Năm 1815, Pháp chỉ còn giữ được vài quần đảo ở Tây Ấn Ðộ, xứ Guinea, xứ Gabon và xứ Senegal. Thế kỷ 19, đế chế thuộc địa của Pháp lại phát triển nhanh. Pháp chiếm được Algeria (1830), dần dần chiếm miền Viễn đông bao gồm Ðông Dương, Campuchia, Tân Caledoria. Pháp bành trướng thuộc địa, khiến Tunisia trở thành nước do Pháp bảo hộ (1881). Ðến năm 1912, Morocco, Madagascar, Djibouti trở thành những nước Châu Phi thuộc Pháp. Việc này làm cho đế chế thuộc địa Pháp lớn gấp 20 lần nước Pháp. Anh làm cho Pháp thất vọng, vì Anh chiếm Ai Cập, Su Dan. Pháp và Anh tranh giành, Fashoda (1898), suýt nữa gây chiến tranh. Sau đó hai bên cũng đạt được thỏa thuận. Sau thế chiến thứ nhất, xứ Togoland và Cameroons trước kia là thuộc địa của Ðức, nay trở thành những nước ủy trị của Pháp (ủy quyền cho Pháp cai trị). Tiếp theo là hai nước Syria và Lebanon cũng là hai nước ủy trị của Pháp (1923). Pháp bị thất bại trong đệ nhị thế chiến, nên mất luôn đế chế thuộc địa ở Viễn Ðông và Châu Phi. Ở Ðông Dương, ông Hồ Chí Minh lãnh đạo đảng cộng sản thành lập chế độ dân chủ cộng hòa (1945) mặc dù Pháp không thừa nhận. Cuộc chiến Việt-Pháp từ năm 1946-1954 chấm dứt do quân đội Pháp đầu hàng ở Ðiện Biên Phủ. Tiếp theo sau là sự kiện Việt Nam, Lào và Campuchia được độc lập. Ở Algeria, quân đội Pháp bại trận phần lớn trong việc dập tắt sự nổi dậy của Ả Rập (1954). Năm 1958, De Gaulle xác nhận rằng Pháp không thể tránh được việc các thuộc địa lấy lại nền độc lập. Năm 1946, đế chế thuộc địa của Pháp đổi tên thành \"Liên hiệp Pháp\", đến năm 1958, lại đổi thành \"Cộng đồng Pháp\". Pháp vẫn còn bốn bộ phận hải ngoại. Ðó là Guinca, Guadeloupe, Martinique và Réumion, hai lãnh thổ tập quyền là Mayotte và ST Pierre Miquelon, bốn lãnh thổ hải ngoại là Polynesia, Wallis, Futuna Islands, New Caledonia và những lãnh thổ thuộc quyền Pháp ở Nam Cực."
+        "t": "đế chế Pháp. Đây là đế chế thuộc địa của Pháp ở thế kỷ 18. Pháp đã mất Quebec và thừa nhận ưu thế vượt trội của Anh ở Ấn Độ. Năm 1815, Pháp chỉ còn giữ được vài quần đảo ở Tây Ấn Độ, xứ Guinea, xứ Gabon và xứ Senegal. Thế kỷ 19, đế chế thuộc địa của Pháp lại phát triển nhanh. Pháp chiếm được Algeria (1830), dần dần chiếm miền Viễn đông bao gồm Đông Dương, Campuchia, Tân Caledoria. Pháp bành trướng thuộc địa, khiến Tunisia trở thành nước do Pháp bảo hộ (1881). Đến năm 1912, Morocco, Madagascar, Djibouti trở thành những nước Châu Phi thuộc Pháp. Việc này làm cho đế chế thuộc địa Pháp lớn gấp 20 lần nước Pháp. Anh làm cho Pháp thất vọng, vì Anh chiếm Ai Cập, Su Dan. Pháp và Anh tranh giành, Fashoda (1898), suýt nữa gây chiến tranh. Sau đó hai bên cũng đạt được thỏa thuận. Sau thế chiến thứ nhất, xứ Togoland và Cameroons trước kia là thuộc địa của Đức, nay trở thành những nước ủy trị của Pháp (ủy quyền cho Pháp cai trị). Tiếp theo là hai nước Syria và Lebanon cũng là hai nước ủy trị của Pháp (1923). Pháp bị thất bại trong đệ nhị thế chiến, nên mất luôn đế chế thuộc địa ở Viễn Đông và Châu Phi. Ở Đông Dương, ông Hồ Chí Minh lãnh đạo đảng cộng sản thành lập chế độ dân chủ cộng hòa (1945) mặc dù Pháp không thừa nhận. Cuộc chiến Việt-Pháp từ năm 1946-1954 chấm dứt do quân đội Pháp đầu hàng ở Điện Biên Phủ. Tiếp theo sau là sự kiện Việt Nam, Lào và Campuchia được độc lập. Ở Algeria, quân đội Pháp bại trận phần lớn trong việc dập tắt sự nổi dậy của Ả Rập (1954). Năm 1958, De Gaulle xác nhận rằng Pháp không thể tránh được việc các thuộc địa lấy lại nền độc lập. Năm 1946, đế chế thuộc địa của Pháp đổi tên thành \"Liên hiệp Pháp\", đến năm 1958, lại đổi thành \"Cộng đồng Pháp\". Pháp vẫn còn bốn bộ phận hải ngoại. Đó là Guinca, Guadeloupe, Martinique và Réumion, hai lãnh thổ tập quyền là Mayotte và ST Pierre Miquelon, bốn lãnh thổ hải ngoại là Polynesia, Wallis, Futuna Islands, New Caledonia và những lãnh thổ thuộc quyền Pháp ở Nam Cực."
       }
     ],
     "k": "french empire"
@@ -11330,7 +11330,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "xứ Guina thuộc Pháp. Ðây là xứ bị Pháp chiếm hữu ở bờ biển Caribe thuộc Nam Mỹ. Ðoàn người đầu tiên của Pháp định cư ở Cayenne vào thế kỷ 17. Mối thù hận giữa Pháp và ba nước là Anh, Hà Lan, Bồ Ðào Nha ngày càng tăng, nhưng sau cùng Pháp vẫn nắm giữ được Guiana. Kế hoạch nhập cư của Pháp không có hiệu quả vì thuộc địa Guiana dày đặc những cựu tù nhân từ đảo Devil và những người phạm tội ở những nơi khác chạy trốn đến đây. Năm 1946, Guiana trở thành một bộ phận hải ngoại của Pháp. Ðến năm 1968, chi nhánh tìm hiểu không gian của Châu Âu dùng Guiana làm nơi phóng tên lửa và tàu không gian. Xã hội Guiana mất ổn định, bao gồm những cuộc đình công và tấn công chính quyền trong thập niên 1970 và 1980 làm gia tăng nạn thất nghiệp và dấy lên phong trào đòi độc lập."
+        "t": "xứ Guina thuộc Pháp. Đây là xứ bị Pháp chiếm hữu ở bờ biển Caribe thuộc Nam Mỹ. Đoàn người đầu tiên của Pháp định cư ở Cayenne vào thế kỷ 17. Mối thù hận giữa Pháp và ba nước là Anh, Hà Lan, Bồ Đào Nha ngày càng tăng, nhưng sau cùng Pháp vẫn nắm giữ được Guiana. Kế hoạch nhập cư của Pháp không có hiệu quả vì thuộc địa Guiana dày đặc những cựu tù nhân từ đảo Devil và những người phạm tội ở những nơi khác chạy trốn đến đây. Năm 1946, Guiana trở thành một bộ phận hải ngoại của Pháp. Đến năm 1968, chi nhánh tìm hiểu không gian của Châu Âu dùng Guiana làm nơi phóng tên lửa và tàu không gian. Xã hội Guiana mất ổn định, bao gồm những cuộc đình công và tấn công chính quyền trong thập niên 1970 và 1980 làm gia tăng nạn thất nghiệp và dấy lên phong trào đòi độc lập."
       }
     ],
     "k": "french guiana"
@@ -11381,7 +11381,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Pháp đối với Ðông Dương) Ðây là đất cựu thuộc địa của Pháp ở Ðông Nam Á. Người Pháp đã giúp đỡ vua Gia Long thiết lập nước Việt Nam quân chủ ở thế kỷ 19. Nên Pháp đã giành được vùng này. Người Pháp thực dân hóa vùng này cuối thập niên 1850 và 1890, dùng từ ngữ Ðông Dương để chỉ định sự thống nhất sau cùng của những thuộc địa Annam, Campuchia, Nam Kỳ, Lào và Bắc Kỳ. Phong trào quốc gia đặc biệt nhắm vào mục đích thành lập chính quyền đã nổ ra. Ảnh hưởng của Pháp ở vùng này trở nên suy yếu vào đầu thập niên 1940 do sự hợp tác của chính quyền thuộc địa Vichy với nước Nhật. Phong trào kháng chiến Việt-Minh trở thành tích cực trong cuộc chiến. Việt minh đã qui tụ được lực lượng nông dân, và chống lại âm mưu của Pháp định quay lại kiểm soát Việt Nam (1945). Cuộc chiến tranh trường kỳ đã làm cho Pháp phải thất bại ở Ðiện Biên Phủ (1954). Sau đó, hội nghị Geneva đã chấm dứt sự kiểm soát của Pháp, chuyển giao quyền lực cho các chính phủ quốc gia của Campuchia, Lào, Việt Nam và Bắc Việt Nam."
+        "t": "(Pháp đối với Đông Dương) Đây là đất cựu thuộc địa của Pháp ở Đông Nam Á. Người Pháp đã giúp đỡ vua Gia Long thiết lập nước Việt Nam quân chủ ở thế kỷ 19. Nên Pháp đã giành được vùng này. Người Pháp thực dân hóa vùng này cuối thập niên 1850 và 1890, dùng từ ngữ Đông Dương để chỉ định sự thống nhất sau cùng của những thuộc địa Annam, Campuchia, Nam Kỳ, Lào và Bắc Kỳ. Phong trào quốc gia đặc biệt nhắm vào mục đích thành lập chính quyền đã nổ ra. Ảnh hưởng của Pháp ở vùng này trở nên suy yếu vào đầu thập niên 1940 do sự hợp tác của chính quyền thuộc địa Vichy với nước Nhật. Phong trào kháng chiến Việt-Minh trở thành tích cực trong cuộc chiến. Việt minh đã qui tụ được lực lượng nông dân, và chống lại âm mưu của Pháp định quay lại kiểm soát Việt Nam (1945). Cuộc chiến tranh trường kỳ đã làm cho Pháp phải thất bại ở Điện Biên Phủ (1954). Sau đó, hội nghị Geneva đã chấm dứt sự kiểm soát của Pháp, chuyển giao quyền lực cho các chính phủ quốc gia của Campuchia, Lào, Việt Nam và Bắc Việt Nam."
       }
     ],
     "k": "french indo-china"
@@ -11549,7 +11549,7 @@
       },
       {
         "k": "m",
-        "t": "Nhiều nhóm dân trong xã hội Pháp phản đối chế độ cũ là nền quân chủ mang nhiều tai tiếng xấu, những nhà lãnh đạo quần chúng đều bị ảnh hưởng bởi cách mạng Mỹ vào thập niên 1770 và được dân chúng ủng hộ nhiệt tình vào thập niên 1780 và 1790. Kinh tế xã hội bất ổn cùng với cuộc khủng hoảng tài chính đã buộc vua Louis 16 phải triệu tập cuộc họp chính phủ năm 1789. Ðây là một hành động làm dấy lên phong trào cách mạng. Cuộc họp đã làm nổi bật vai trò của nghị viện quốc gia và một hiến pháp mới đã hủy bỏ chế độ cũ. Ðồng thời nó quốc gia hóa những đất đai của nhà thờ và qui định rằng các bộ phận của nhà nước phải được cai quản bởi nghị viện được bầu chọn. Dân chúng hoang mang vì lo sợ phái hoàng gia trả thù, nên đã tràn vào tấn công ngục Bastille và đội vệ binh bắt giữ vua. Trước tình hình đó, nghị viện cố gắng tạo một hệ thống quân chủ, trong đó nhà vua phải chia sẻ quyền lực với nghị viện. Tuy nhiên, sau khi vua thất bất bại trong việc chạy trốn đến Varennes để động viên các phần tử hoàng gia bị trục xuất, các nhà lãnh đạo cách mạng phải đối mặt với nỗi sợ hãi gia tăng từ nước Áo và Phổ về một cuộc chiến tranh bên ngoài cộng với sự khó khăn ở bên trong nội địa. Năm 1792, nền quân chủ Pháp bị bãi bỏ, nền cộng hòa được thành lập và việc xử tử nhà vua kéo theo \"Thời kỳ khủng hoảng\" (từ tháng 9 năm 1793 đến tháng 7 năm 1794). Cuộc cách mạng cũng thất bại trong việc tạo dựng được một hình thức bất ổn định của chính phủ cộng hòa vì có nhiều thành phần khác nhau (Girondins, Jacobins, Cordeliers, Robespierre). Bốn thành phần này đều đấu tranh giành quyền lực."
+        "t": "Nhiều nhóm dân trong xã hội Pháp phản đối chế độ cũ là nền quân chủ mang nhiều tai tiếng xấu, những nhà lãnh đạo quần chúng đều bị ảnh hưởng bởi cách mạng Mỹ vào thập niên 1770 và được dân chúng ủng hộ nhiệt tình vào thập niên 1780 và 1790. Kinh tế xã hội bất ổn cùng với cuộc khủng hoảng tài chính đã buộc vua Louis 16 phải triệu tập cuộc họp chính phủ năm 1789. Đây là một hành động làm dấy lên phong trào cách mạng. Cuộc họp đã làm nổi bật vai trò của nghị viện quốc gia và một hiến pháp mới đã hủy bỏ chế độ cũ. Đồng thời nó quốc gia hóa những đất đai của nhà thờ và qui định rằng các bộ phận của nhà nước phải được cai quản bởi nghị viện được bầu chọn. Dân chúng hoang mang vì lo sợ phái hoàng gia trả thù, nên đã tràn vào tấn công ngục Bastille và đội vệ binh bắt giữ vua. Trước tình hình đó, nghị viện cố gắng tạo một hệ thống quân chủ, trong đó nhà vua phải chia sẻ quyền lực với nghị viện. Tuy nhiên, sau khi vua thất bất bại trong việc chạy trốn đến Varennes để động viên các phần tử hoàng gia bị trục xuất, các nhà lãnh đạo cách mạng phải đối mặt với nỗi sợ hãi gia tăng từ nước Áo và Phổ về một cuộc chiến tranh bên ngoài cộng với sự khó khăn ở bên trong nội địa. Năm 1792, nền quân chủ Pháp bị bãi bỏ, nền cộng hòa được thành lập và việc xử tử nhà vua kéo theo \"Thời kỳ khủng hoảng\" (từ tháng 9 năm 1793 đến tháng 7 năm 1794). Cuộc cách mạng cũng thất bại trong việc tạo dựng được một hình thức bất ổn định của chính phủ cộng hòa vì có nhiều thành phần khác nhau (Girondins, Jacobins, Cordeliers, Robespierre). Bốn thành phần này đều đấu tranh giành quyền lực."
       },
       {
         "k": "m",
@@ -11629,7 +11629,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "xứ Tây Phi thuộc Pháp. Cuối thế kỷ 19, Pháp tìm cách bành trướng những quyền lợi thuộc địa trên bộ bằng cách đặt những cơ sở thương mại ở dọc bờ biển Ðại Tây Dương. Lực lượng quan trọng Pháp phải được sử dụng để chiếm cứ các nước Hồi giáo địa phương. Năm 1895, việc thành lập \"Vùng Tây Phi thuộc Pháp\" được tuyên bố, gồm có xứ cộng hòa Mauritania, Senegal, Mali, Burkina Faso, Guiana, bờ biển ngà, Niger, Bénin. Thuộc địa Togo kế bên đã bị Ðức chiếm đóng trong đệ nhất thế chiến và coi là một xứ sở ủy trị của Liên Hiệp giữa Anh và Pháp. Xứ Tây Phi thuộc Pháp ủng hộ chính phủ Vichy từ năm 1940 đến 1942. Năm 1958, những xứ này trở thành những nước cộng hòa tự trị trong cộng đồng Pháp, ngoại trừ xứ Guiana được một hội nghị cho phép trở thành một xứ độc lập."
+        "t": "xứ Tây Phi thuộc Pháp. Cuối thế kỷ 19, Pháp tìm cách bành trướng những quyền lợi thuộc địa trên bộ bằng cách đặt những cơ sở thương mại ở dọc bờ biển Đại Tây Dương. Lực lượng quan trọng Pháp phải được sử dụng để chiếm cứ các nước Hồi giáo địa phương. Năm 1895, việc thành lập \"Vùng Tây Phi thuộc Pháp\" được tuyên bố, gồm có xứ cộng hòa Mauritania, Senegal, Mali, Burkina Faso, Guiana, bờ biển ngà, Niger, Bénin. Thuộc địa Togo kế bên đã bị Đức chiếm đóng trong đệ nhất thế chiến và coi là một xứ sở ủy trị của Liên Hiệp giữa Anh và Pháp. Xứ Tây Phi thuộc Pháp ủng hộ chính phủ Vichy từ năm 1940 đến 1942. Năm 1958, những xứ này trở thành những nước cộng hòa tự trị trong cộng đồng Pháp, ngoại trừ xứ Guiana được một hội nghị cho phép trở thành một xứ độc lập."
       }
     ],
     "k": "french west africa"
@@ -14229,7 +14229,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hư hại do nước ngọt. Hư hại của hàng chuyên chở do bị nước ngọt ngấm làm mất phẩm chất, hư hỏng. Trong bảo hiểm hàng hóa, người ta quan niệm nước ngọt là nước cung cấp cho tàu dùng để chạy nồi hơi (nếu tàu chạy bằng hơi nước) hoặc dùng vào sinh hoạt của thuyền viên trên tàu (tắm rửa, ăn uống). Nước mưa không phải là nước ngọt. Ðiều khoản FPA và WA của nhiều nước quy định hàng chuyên chở bị hư hại do nước ngọt không được công ty bảo hiểm bồi thường."
+        "t": "hư hại do nước ngọt. Hư hại của hàng chuyên chở do bị nước ngọt ngấm làm mất phẩm chất, hư hỏng. Trong bảo hiểm hàng hóa, người ta quan niệm nước ngọt là nước cung cấp cho tàu dùng để chạy nồi hơi (nếu tàu chạy bằng hơi nước) hoặc dùng vào sinh hoạt của thuyền viên trên tàu (tắm rửa, ăn uống). Nước mưa không phải là nước ngọt. Điều khoản FPA và WA của nhiều nước quy định hàng chuyên chở bị hư hại do nước ngọt không được công ty bảo hiểm bồi thường."
       }
     ],
     "k": "fresh water damage"
@@ -15055,7 +15055,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(do tiếng Pháp là frere, tiếng Anh là ‘brother' có nghĩa là anh em). Ðó là dòng tu \"Sư huynh\", sư huynh cùng với các tu sĩ khác coi như giống nhau, vì cùng theo một nội quy viết thành văn bản, cùng theo một lối sống, cùng thề tự nguyện nghèo khổ, độc thân và tuân theo giáo điều. Không giống với các tu sĩ khác, dòng \"Sư huynh\" tách mình ra khỏi thế tục, nhiệm vụ của họ là làm việc trên khắp thế giới, cầu nguyện và cứu rỗi. Họ hoàn toàn giúp đỡ lẫn nhau bằng những quà tặng mà họ nhận được từ người dân thường, đôi khi được gọi là quà khất thực. Vào thế kỷ 18, dòng sư huynh được biết đến rộng rãi nhờ nếp sống gương mẫu và sự giúp đỡ thiết thực cho người nghèo và người bệnh. Họ dập tắt được những phong trào dị giáo."
+        "t": "(do tiếng Pháp là frere, tiếng Anh là ‘brother' có nghĩa là anh em). Đó là dòng tu \"Sư huynh\", sư huynh cùng với các tu sĩ khác coi như giống nhau, vì cùng theo một nội quy viết thành văn bản, cùng theo một lối sống, cùng thề tự nguyện nghèo khổ, độc thân và tuân theo giáo điều. Không giống với các tu sĩ khác, dòng \"Sư huynh\" tách mình ra khỏi thế tục, nhiệm vụ của họ là làm việc trên khắp thế giới, cầu nguyện và cứu rỗi. Họ hoàn toàn giúp đỡ lẫn nhau bằng những quà tặng mà họ nhận được từ người dân thường, đôi khi được gọi là quà khất thực. Vào thế kỷ 18, dòng sư huynh được biết đến rộng rãi nhờ nếp sống gương mẫu và sự giúp đỡ thiết thực cho người nghèo và người bệnh. Họ dập tắt được những phong trào dị giáo."
       },
       {
         "k": "m",
@@ -15332,7 +15332,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "kéo giấy bằng trục lăn. Một hệ cơ khí đùn giấy của máy in dùng để kéo từng tờ qua máy bằng trục lăn ép mạnh lên tờ giấy. Cơ cấu trục lăn này yêu cầu bạn phải nạp từng tờ giấy bằng tay. Ðối với các tài liệu nhiều trang, việc nạp bằng tay sẽ rất mất công và buồn chán."
+        "t": "kéo giấy bằng trục lăn. Một hệ cơ khí đùn giấy của máy in dùng để kéo từng tờ qua máy bằng trục lăn ép mạnh lên tờ giấy. Cơ cấu trục lăn này yêu cầu bạn phải nạp từng tờ giấy bằng tay. Đối với các tài liệu nhiều trang, việc nạp bằng tay sẽ rất mất công và buồn chán."
       }
     ],
     "k": "friction feed"
@@ -16191,7 +16191,7 @@
       {
         "k": "ex",
         "t": "friendly lead",
-        "vi": "cuộc giải trí có quyên tiền (để giúp người nghèo ở Luân Ðôn)."
+        "vi": "cuộc giải trí có quyên tiền (để giúp người nghèo ở Luân Đôn)."
       }
     ],
     "ipa": "'frendli",
@@ -16227,7 +16227,7 @@
   {"h": "Friendly Islands", "segs": [{"k": "m", "t": "See Tonga2"}], "k": "friendly islands"},
   {
     "h": "friendly lead",
-    "segs": [{"k": "m", "t": "cuộc giải trí có quyên tiền (để giúp người nghèo ở Luân Ðôn)."}],
+    "segs": [{"k": "m", "t": "cuộc giải trí có quyên tiền (để giúp người nghèo ở Luân Đôn)."}],
     "k": "friendly lead"
   },
   {
@@ -17150,7 +17150,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "lính thủy Ðức. Vào thời đại La Mã, họ chiếm đóng miền Bắc, Hà Lan và miền Tây Bắc Ðức. Tiền sử của họ, là những cuộc nổi dậy chống La Mã giữa thế kỷ 12 trước Công Nguyên và năm 69 sau Công Nguyên, rất ít người biết đến họ. Một trong số những người đã từng phục vụ quân đội La Mã ở Anh vào thế kỷ 3. Ðến thế kỷ 4, họ bị dưới quyền cai trị của Saxon. Những người Franks mưu toan dùng vũ lực bắt họ phải theo Cơ Ðốc giáo, nhưng không thành. Chỉ có sự nỗ lực truyền giáo của ST Wilfred từ Anh đến là có kết quả. Họ là những thành phần của đế chế Carolingian và đến thế kỷ 16, là thành phần của vua Philip II. Họ tiếp tục giữ vai trò độc lập trong chính phủ mới và họ tự bầu tổng thống năm 1747."
+        "t": "lính thủy Đức. Vào thời đại La Mã, họ chiếm đóng miền Bắc, Hà Lan và miền Tây Bắc Đức. Tiền sử của họ, là những cuộc nổi dậy chống La Mã giữa thế kỷ 12 trước Công Nguyên và năm 69 sau Công Nguyên, rất ít người biết đến họ. Một trong số những người đã từng phục vụ quân đội La Mã ở Anh vào thế kỷ 3. Đến thế kỷ 4, họ bị dưới quyền cai trị của Saxon. Những người Franks mưu toan dùng vũ lực bắt họ phải theo Cơ Đốc giáo, nhưng không thành. Chỉ có sự nỗ lực truyền giáo của ST Wilfred từ Anh đến là có kết quả. Họ là những thành phần của đế chế Carolingian và đến thế kỷ 16, là thành phần của vua Philip II. Họ tiếp tục giữ vai trò độc lập trong chính phủ mới và họ tự bầu tổng thống năm 1747."
       }
     ],
     "k": "frisians"
@@ -17330,12 +17330,12 @@
       {
         "k": "ex",
         "t": "Don't stand around and fritter the whole day away:",
-        "vi": "Ðừng đứng xớ rớ và bỏ phí thời gian cả ngày."
+        "vi": "Đừng đứng xớ rớ và bỏ phí thời gian cả ngày."
       },
       {
         "k": "ex",
         "t": "Stop frittering away my hard-earned money!:",
-        "vi": "Ðừng phí phạm tiền bạc khó kiếm của tôi nữa!"
+        "vi": "Đừng phí phạm tiền bạc khó kiếm của tôi nữa!"
       }
     ],
     "k": "fritter something away"
@@ -17374,7 +17374,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "ex", "t": "to be on the fritz", "vi": "(Mỹ), (lóng) hỏng, cần phải sửa chữa"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "Fritz", "vi": ") (lóng) người Ðức."}
+      {"k": "ex", "t": "Fritz", "vi": ") (lóng) người Đức."}
     ],
     "ipa": "frits",
     "k": "fritz"
@@ -17634,7 +17634,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1849-1917) nhà toán học Ðức, viện sĩ Viện hàn lâm khoa học Berlin (1893). Ông tốt nghiệp Ðại học tổng hợp Berlin, giáo sư trường chuyên nghiệp bách khoa trung cấp Zurich (1875-1892), giáo sư trường Ðại học tổng hợp Berlin từ 1892. Ông có những công trình cơ bản về đại số, lý thuyết số đại số, chẳng hạn như về lý thuyết ma trận, lý thuyết nhóm hữu hạn và sự biểu diễn của chúng bằng những ma trận."
+        "t": "(1849-1917) nhà toán học Đức, viện sĩ Viện hàn lâm khoa học Berlin (1893). Ông tốt nghiệp Đại học tổng hợp Berlin, giáo sư trường chuyên nghiệp bách khoa trung cấp Zurich (1875-1892), giáo sư trường Đại học tổng hợp Berlin từ 1892. Ông có những công trình cơ bản về đại số, lý thuyết số đại số, chẳng hạn như về lý thuyết ma trận, lý thuyết nhóm hữu hạn và sự biểu diễn của chúng bằng những ma trận."
       }
     ],
     "k": "frobenius ferdinant"
@@ -18084,7 +18084,7 @@
   },
   {
     "h": "frolement",
-    "segs": [{"k": "m", "t": "Tiếng sột soạt"}, {"k": "m", "t": "Ðộng tác xoa nhẹ."}],
+    "segs": [{"k": "m", "t": "Tiếng sột soạt"}, {"k": "m", "t": "Động tác xoa nhẹ."}],
     "k": "frolement"
   },
   {
@@ -18472,7 +18472,7 @@
   {"h": "front 'door", "segs": [{"k": "m", "t": "(dt) Cửa chính, cửa trước."}], "k": "front 'door"},
   {
     "h": "front 'runner",
-    "segs": [{"k": "m", "t": "(dt) Ðấu thủ dẫn đầu, đối thủ đứng đầu."}],
+    "segs": [{"k": "m", "t": "(dt) Đấu thủ dẫn đầu, đối thủ đứng đầu."}],
     "k": "front 'runner"
   },
   {"h": "front axle", "segs": [{"k": "m", "t": "cầu xe phía trước."}], "k": "front axle"},
@@ -19433,7 +19433,7 @@
   {"h": "frontal sinus", "segs": [{"k": "m", "t": "xoang trán."}], "k": "frontal sinus"},
   {"h": "frontal spine", "segs": [{"k": "m", "t": "gai mũi của xương trán."}], "k": "frontal spine"},
   {"h": "frontal squama", "segs": [{"k": "m", "t": "Trai trán."}], "k": "frontal squama"},
-  {"h": "frontal suture", "segs": [{"k": "m", "t": "Ðường khớp trán."}], "k": "frontal suture"},
+  {"h": "frontal suture", "segs": [{"k": "m", "t": "Đường khớp trán."}], "k": "frontal suture"},
   {"h": "frontal tuber", "segs": [{"k": "m", "t": "ụ trán, ụ trán bên."}], "k": "frontal tuber"},
   {"h": "frontal view", "segs": [{"k": "m", "t": "mặt trước, mặt chính."}], "k": "frontal view"},
   {"h": "frontal wave", "segs": [{"k": "m", "t": "sóng trực diện."}], "k": "frontal wave"},
@@ -19727,12 +19727,12 @@
   },
   {
     "h": "fronto-occipital diameter",
-    "segs": [{"k": "m", "t": "Ðường kính trán chẩm."}],
+    "segs": [{"k": "m", "t": "Đường kính trán chẩm."}],
     "k": "fronto-occipital diameter"
   },
   {
     "h": "frontoethmoidal suture",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-sàng."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-sàng."}],
     "k": "frontoethmoidal suture"
   },
   {
@@ -19743,7 +19743,7 @@
   },
   {
     "h": "frontolacrimal suture",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-lệ."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-lệ."}],
     "k": "frontolacrimal suture"
   },
   {
@@ -19765,12 +19765,12 @@
   },
   {
     "h": "frontomaxillary suture",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-hàm."}],
     "k": "frontomaxillary suture"
   },
   {
     "h": "frontomental diameter",
-    "segs": [{"k": "m", "t": "Ðường kính trán cằm."}],
+    "segs": [{"k": "m", "t": "Đường kính trán cằm."}],
     "k": "frontomental diameter"
   },
   {
@@ -19788,7 +19788,7 @@
   {"h": "frontonasal duct", "segs": [{"k": "m", "t": "ống trán-mũi."}], "k": "frontonasal duct"},
   {
     "h": "frontonasal suture",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-mũi."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-mũi."}],
     "k": "frontonasal suture"
   },
   {
@@ -19823,7 +19823,7 @@
   },
   {
     "h": "frontozygomatic suture",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-gò má."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-gò má."}],
     "k": "frontozygomatic suture"
   },
   {"h": "frontpage", "segs": [{"k": "m", "t": "đăng trang đầu."}], "k": "frontpage"},

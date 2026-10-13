@@ -40,7 +40,7 @@
         "Câu hỏi được đặt ra cho các thanh thiếu niên là:",
         "Bạn thích những môn thể thao nào?"
       ],
-      ["Ðây là 10 môn thể thao được ưa thích nhất."],
+      ["Đây là 10 môn thể thao được ưa thích nhất."],
       ["Bóng chày"],
       ["Trượt ván"],
       ["Trượt patanh"],
@@ -159,8 +159,8 @@
       ]
     ],
     "vi": [
-      ["Ðọc", "Sau đó trả lời các câu hỏi."],
-      ["Ði bộ là thú vui"],
+      ["Đọc", "Sau đó trả lời các câu hỏi."],
+      ["Đi bộ là thú vui"],
       [
         "ở trường tôi, có những hoạt động thể thao khác nhau",
         "nhưng tôi chỉ tham gia vào một câu lạc bộ được gọi là \"đi bộ cho vui\" hoặc WFF.",
@@ -170,7 +170,7 @@
         "Hoạt động thường xuyên của câu lạc bộ là một cuộc đi bộ 5 km đến bãi biển vào sáng Chúa nhật.",
         "Một hoạt động khác là ngày đi bộ đến trường (hoặc ngày WTS ).",
         "Mỗi thứ Tư, các hội viên sống gần trường tình nguyện đi bộ thay vì đi xe đạp hoặc xe gắn máy.",
-        "Ði bộ là một hoạt động vui, dễ thực hiện, không tốn kém, và mọi người ở mọi lứa tuổi, mọi năng lực đều có thể thưởng thức nó."
+        "Đi bộ là một hoạt động vui, dễ thực hiện, không tốn kém, và mọi người ở mọi lứa tuổi, mọi năng lực đều có thể thưởng thức nó."
       ]
     ],
     "img": "img/readings/1.7.132a.webp",
@@ -202,8 +202,8 @@
     "vi": [
       ["Câu hỏi"],
       ["Người viết tham gia vào hoạt động thể thao nào?"],
-      ["Người viết tham gia vào \"Ði bộ cho vui\"."],
-      ["Tại sao các học sinh tổ chức câu lạc bộ \"Ði bộ cho vui\"?"],
+      ["Người viết tham gia vào \"Đi bộ cho vui\"."],
+      ["Tại sao các học sinh tổ chức câu lạc bộ \"Đi bộ cho vui\"?"],
       [
         "Vì đội trường họ đã đoạt giải nhất trong một cuộc thi đi bộ cấp quận, và mọi người muốn duy trì hoạt động đi bộ."
       ],
@@ -247,7 +247,7 @@
       ]
     ],
     "vi": [
-      ["Viết", "Ðổi tính từ trong ngoặc thành trạng từ."],
+      ["Viết", "Đổi tính từ trong ngoặc thành trạng từ."],
       [
         "Mùa hè đang đến và các trường học trong thành phố chúng ta bắt đầu lên kế hoạch nâng cao nhận thức an toàn dưới nước cho trẻ em.",
         "Mục đích của chương trình là dạy cho các học sinh cấp I và II về sự an toàn dưới nước.",
@@ -318,7 +318,7 @@
       ["- OK. Let's go."]
     ],
     "vi": [
-      ["Ðến chơi"],
+      ["Đến chơi"],
       ["Nam này, cậu có muốn chơi bóng bàn không?"],
       ["Tớ rất thích, nhưng tớ không thể."],
       ["Tiếc quá nhỉ."],
@@ -329,9 +329,9 @@
       ["Rồi, tớ làm xong rồi.", "ồ, tớ không mang theo vợt bóng bàn.", "Cậu có vợt dư không?"],
       ["Có. Tớ có."],
       ["Tớ mượn được không?"],
-      ["Tất nhiên.", "Ðây này."],
+      ["Tất nhiên.", "Đây này."],
       ["Cảm ơn."],
-      ["Ðược rồi. Chúng ta đi nào."]
+      ["Được rồi. Chúng ta đi nào."]
     ],
     "img": "img/readings/1.7.134a.webp",
     "page": "134"
@@ -413,36 +413,36 @@
         "Sau đó thực hành với một bạn.",
         "Sử dụng những thông tin trong khung để thay đổi những chi tiết được gạch dưới."
       ],
-      ["Ðến chơi bóng rổ đi Nam."],
+      ["Đến chơi bóng rổ đi Nam."],
       ["Xin lỗi.", "Tớ nghĩ là tớ không thể."],
       ["Thật đáng tiếc. Tại sao không thể vậy?"],
       ["à, tớ phải dọn dẹp phòng."],
       ["Bạn có thể chơi vào thứ Sáu không?"],
       ["Vâng, tớ có thể."],
-      ["Ðược rồi. Hẹn gặp bạn lúc 7 giờ nhé."],
+      ["Được rồi. Hẹn gặp bạn lúc 7 giờ nhé."],
       ["ừ. Tạm biệt."],
       ["Tạm biệt."],
-      ["Ðến chơi bóng chuyền đi Nam."],
+      ["Đến chơi bóng chuyền đi Nam."],
       ["Xin lỗi", "Tớ nghĩ là tớ không thể."],
       ["Thật đáng tiếc. Tại sao không thể vậy?"],
       ["à, tớ phải đi thăm bà."],
       ["Bạn có thể chơi vào cuối tuần không?"],
       ["Vâng, tớ có thể."],
-      ["Ðược rồi. Hẹn gặp bạn chiều thứ Bảy nhé."],
-      ["Ðến chơi cờ đi Nam."],
+      ["Được rồi. Hẹn gặp bạn chiều thứ Bảy nhé."],
+      ["Đến chơi cờ đi Nam."],
       ["Xin lỗi", "Tớ nghĩ là tớ không thể."],
       ["Thật đáng tiếc. Tại sao không thể vậy?"],
       ["Tớ phải giúp bố."],
       ["Bạn có thể chơi vào tối thứ Tư không?"],
       ["Vâng, tớ có thể."],
-      ["Ðược rồi. Hẹn gặp bạn lúc 6 giờ nhé."],
-      ["Ðến chơi cầu lông đi Nam."],
+      ["Được rồi. Hẹn gặp bạn lúc 6 giờ nhé."],
+      ["Đến chơi cầu lông đi Nam."],
       ["Xin lỗi", "Tớ nghĩ là tớ không thể."],
       ["Thật đáng tiếc. Tại sao không thể vậy?"],
       ["à tớ phải đi gặp nha sĩ."],
       ["Bạn có thể chơi vào sáng Chúa nhật không?"],
       ["Vâng, tớ có thể."],
-      ["Ðược rồi. Hẹn gặp bạn lúc 10 giờ nhé."],
+      ["Được rồi. Hẹn gặp bạn lúc 10 giờ nhé."],
       ["Bây giờ hãy tự soạn những đoạn đối thoại.", "Dùng các bức tranh này để giúp bạn."]
     ],
     "img": "img/readings/1.7.135a.webp",
@@ -475,7 +475,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc", "rồi trả lời câu hỏi"],
+      ["Đọc", "rồi trả lời câu hỏi"],
       [
         "Phần lớn bề mặt trái đất là nước.",
         "Có thể chúng ta biết rất rõ về đất liền",
@@ -518,7 +518,7 @@
     ],
     "vi": [
       ["Câu hỏi"],
-      ["Ðúng hay sai?", "Ðánh dấu, rồi sau đó sửa lại các câu sai cho đúng."],
+      ["Đúng hay sai?", "Đánh dấu, rồi sau đó sửa lại các câu sai cho đúng."],
       ["Phần lớn bề mặt trái đất là đất.(F)"],
       ["Phần lớn bề mặt trái đất là nước."],
       ["Trước khi phát minh thiết bị thở đặc biệt, con người không thể tự do bơi lội dưới nước.(T)"],
@@ -602,7 +602,7 @@
     "vi": [
       ["Luyện tập từ"],
       ["Hãy đến và thám hiểm"],
-      ["Ðáy đại dương"],
+      ["Đáy đại dương"],
       ["Trong chiếc tàu ngầm dành cho hai người."],
       ["Chúng ta có thể dành cả ngày"],
       ["Ngắm nhìn đàn cá chơi đùa"],
@@ -611,7 +611,7 @@
       ["Khi một con cá mập bơi quanh"],
       ["Chiếc tàu ngầm dành cho hai người của chúng ta."],
       ["ở đây thật đẹp"],
-      ["Ðó là ranh giới cuối cùng"],
+      ["Đó là ranh giới cuối cùng"],
       ["Trong chiếc tàu ngầm dành cho hai người của chúng ta."]
     ],
     "img": "img/readings/1.7.138a.webp",

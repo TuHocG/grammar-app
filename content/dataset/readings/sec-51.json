@@ -26,7 +26,7 @@
       ["Cảm ơn.", "Mình sẽ sớm gọi điện cho bạn."],
       ["Bây giờ hãy hỏi các bạn cùng lớp của bạn và hoàn thành danh mục này."],
       ["Tên bạn là gì?"],
-      ["Ðịa chỉ nhà bạn số mấy?"],
+      ["Địa chỉ nhà bạn số mấy?"],
       ["Số điện thoại của bạn là số mấy?"]
     ],
     "img": "img/readings/1.7.20a.webp",
@@ -51,7 +51,7 @@
     ],
     "vi": [
       ["Nghe và đọc", "Rồi trả lời câu hỏi."],
-      ["Xin chào. Ðây là số 8 537 471."],
+      ["Xin chào. Đây là số 8 537 471."],
       ["Xin chào. Có phải Phong đấy không?"],
       ["Vâng. Ai đấy?"],
       ["Tâm đây.", "Tối mai bạn có rảnh không?"],
@@ -61,7 +61,7 @@
       ["Phim sẽ bắt đầu lúc 7 giờ.", "Chúng ta hãy gặp nhau lúc 6 giờ 45."],
       ["Chúng ta sẽ gặp nhau ở đâu?"],
       ["Chúng ta sẽ gặp nhau trước rạp chiếu bóng."],
-      ["Hay đấy.", "Tớ sẽ gặp bạn vào ngày mai.", "Ðừng đến trễ nhé!"]
+      ["Hay đấy.", "Tớ sẽ gặp bạn vào ngày mai.", "Đừng đến trễ nhé!"]
     ],
     "img": "img/readings/1.7.21a.webp",
     "page": "21"
@@ -117,7 +117,7 @@
     ],
     "vi": [
       ["Nghe", "rồi viết câu trả lời"],
-      ["Xin chào. Ðây là số 8545545."],
+      ["Xin chào. Đây là số 8545545."],
       ["Xin chào. Nga phải không?"],
       ["Vâng. Xin hỏi ai gọi vậy?"],
       ["Lan đây.", "Bạn có muốn đi xem phim không?"],
@@ -125,7 +125,7 @@
       ["ở nhà mình."],
       ["Chúng ta sẽ đi bằng gì?"],
       ["Chúng ta có thể đón xe buýt."],
-      ["Ðược đấy. Tạm biệt nhé."],
+      ["Được đấy. Tạm biệt nhé."],
       ["Tạm biệt."],
       ["Trả lời:"],
       ["Số điện thoại: 8545545"],
@@ -165,15 +165,15 @@
       ["- Phong will call again after six."]
     ],
     "vi": [
-      ["Ðọc rồi trả lời"],
-      ["Xin chào. Ðây là số 8 674 758."],
+      ["Đọc rồi trả lời"],
+      ["Xin chào. Đây là số 8 674 758."],
       ["Xin chào. Có phải Lan đó không?"],
       ["Không. đây là Hân, em của chị ấy.", "Ai đang gọi đấy ạ?"],
       ["Phong đây.", "Anh có thể nói chuyện với Lan được không?"],
       ["Em xin lỗi.", "Bây giờ chị ấy không có nhà."],
       ["Khi nào chị ấy sẽ về?"],
       ["Khoảng 6 giờ chị ấy sẽ về."],
-      ["Ðược rồi.", "Vui lòng nói với chị ấy là anh sẽ gọi lại sau 6 giờ."],
+      ["Được rồi.", "Vui lòng nói với chị ấy là anh sẽ gọi lại sau 6 giờ."],
       ["Vâng ạ. Em sẽ nói với chị ấy. Tạm biệt."],
       ["Tạm biệt."],
       ["Câu hỏi:"],
@@ -411,7 +411,7 @@
       ["Phạm Thị Hoa."],
       ["Em sinh ngày mấy?"],
       ["Ngày 8 tháng 6.", "Sinh nhật tới em sẽ được 14 tuổi."],
-      ["Ðịa chỉ của em số mấy?"],
+      ["Địa chỉ của em số mấy?"],
       ["Số 12 đường Trần Hưng đạo.", "Em sống với chú thím của em."],
       ["Số điện thoại của em là số mấy?"],
       ["8 262 019."],
@@ -422,7 +422,7 @@
         "Em không có người bạn nào cả.",
         "Chắc em sẽ không vui."
       ],
-      ["Ðừng lo.", "Chẳng bao lâu nữa em sẽ có nhiều bạn mới.", "Thầy tin như vậy."]
+      ["Đừng lo.", "Chẳng bao lâu nữa em sẽ có nhiều bạn mới.", "Thầy tin như vậy."]
     ],
     "img": "img/readings/1.7.25a.webp",
     "page": "25"
@@ -467,8 +467,8 @@
       ["Vào sinh nhật tới, tôi sẽ được 14 tuổi."],
       ["Bạn sống với ai?"],
       ["Tôi sống với cha mẹ."],
-      ["Ðịa chỉ của bạn số mấy?"],
-      ["Ðịa chỉ tôi ở số 12 Trần Hưng Ðạo."]
+      ["Địa chỉ của bạn số mấy?"],
+      ["Địa chỉ tôi ở số 12 Trần Hưng Đạo."]
     ],
     "img": "img/readings/1.7.25b.webp",
     "page": "25"
@@ -484,11 +484,11 @@
       ["- Telephone number: 8 262 019"]
     ],
     "vi": [
-      ["Ðọc lại đoạn đối thoại lần nữa.", "Sau đó hoàn tất phiếu này."],
+      ["Đọc lại đoạn đối thoại lần nữa.", "Sau đó hoàn tất phiếu này."],
       ["Tên: Phạm Thị Hoa"],
       ["Ngày sinh: 8 tháng 6"],
-      ["Ðịa chỉ: 12 Trần Hưng Ðạo"],
-      ["Ðiện thoại: 8262019"]
+      ["Địa chỉ: 12 Trần Hưng Đạo"],
+      ["Điện thoại: 8262019"]
     ],
     "img": "img/readings/1.7.26a.webp",
     "page": "26"
@@ -518,7 +518,7 @@
       ["Lan Tel: 8 674 758"]
     ],
     "vi": [
-      ["Ðọc. Sau đó hoàn thành tấm thiếp."],
+      ["Đọc. Sau đó hoàn thành tấm thiếp."],
       [
         "Lan 12 tuổi.",
         "Vào Chủ Nhật, ngày 25 tháng 5, cô ấy sẽ được 13 tuổi.",

@@ -39,10 +39,10 @@
   {
     "h": "Rybczcynski theorem",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðịnh lý Rybczcynski."},
+      {"k": "m", "t": "(kinh tế) Định lý Rybczcynski."},
       {
         "k": "m",
-        "t": "Ðịnh lý, do nhà kinh tế Rybczcynski đưa ra, cho rằng nếu trong mô hình Heckscher-Ohlin, một trong hai yếu tố sản xuất được tăng để duy trì giá cả hàng hóa và các yếu tố sản xuất không đổi thì lượng hàng hóa dùng nhiều yếu tố sản xuất được tăng lên phải mở rộng sản lượng hàng hóa kia, dùng nhiều hơn trong yếu tố sản xuất không đổi phải giảm xuống."
+        "t": "Định lý, do nhà kinh tế Rybczcynski đưa ra, cho rằng nếu trong mô hình Heckscher-Ohlin, một trong hai yếu tố sản xuất được tăng để duy trì giá cả hàng hóa và các yếu tố sản xuất không đổi thì lượng hàng hóa dùng nhiều yếu tố sản xuất được tăng lên phải mở rộng sản lượng hàng hóa kia, dùng nhiều hơn trong yếu tố sản xuất không đổi phải giảm xuống."
       }
     ],
     "k": "rybczcynski theorem"
@@ -150,7 +150,7 @@
   },
   {
     "h": "ryot",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nông dân (Ấn Ðộ)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nông dân (Ấn Độ)."}],
     "ipa": "'raiət",
     "k": "ryot"
   },
@@ -159,7 +159,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hệ thống ryotwari. Hệ thống thuế đất trực thu ở Ấn Ðộ đối với dân định cư giữa chính phủ và nông dân mà không có sự can thiệp của địa chủ. Dưới thời của Tổng thống Madras hệ thống ryotwari được phát minh bởi Thống đốc Thomas Munro năm 1820. Ở những nơi khác trong lãnh thổ Ấn Ðộ, hệ thống thuế được thu thông qua các địa chủ. Hệ thống này thường chống lại quyền lợi của tầng lớp nông dân (tá điền). Pháp luật cho phép lĩnh canh thuê đất đưa vào hệ thống ryotwari cuối cùng được thông qua để bảo vệ lợi ích của nông dân."
+        "t": "Hệ thống ryotwari. Hệ thống thuế đất trực thu ở Ấn Độ đối với dân định cư giữa chính phủ và nông dân mà không có sự can thiệp của địa chủ. Dưới thời của Tổng thống Madras hệ thống ryotwari được phát minh bởi Thống đốc Thomas Munro năm 1820. Ở những nơi khác trong lãnh thổ Ấn Độ, hệ thống thuế được thu thông qua các địa chủ. Hệ thống này thường chống lại quyền lợi của tầng lớp nông dân (tá điền). Pháp luật cho phép lĩnh canh thuê đất đưa vào hệ thống ryotwari cuối cùng được thông qua để bảo vệ lợi ích của nông dân."
       }
     ],
     "k": "ryotwari system"

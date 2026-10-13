@@ -645,15 +645,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "một thành phố xây dựng theo kiểu đồn lũy ngự trị trục giao thông từ Ðịa Trung Hải đến Ðại Tây Dương dài 5km gần phía Cực Nam của Tây Ban Nha."
+        "t": "một thành phố xây dựng theo kiểu đồn lũy ngự trị trục giao thông từ Địa Trung Hải đến Đại Tây Dương dài 5km gần phía Cực Nam của Tây Ban Nha."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: là một thuộc địa của nước Anh, phía Bắc là những vùng đất thấp, phía Nam là núi đá vôi Rock nổi tiếng, chứa đựng nhiều hang hốc. Về phía Tây, có những vùng đồi dốc lan tới một vịnh rất đẹp, vịnh này là một hải cảng thiên nhiên. Eo biển Gibraltar là một dòng sông ở phía Nam rộng 15 đến 37km, dài 50km, nó nối liền Ðại Tây Dương với Ðịa Trung Hải, có dòng chảy trên mặt về phía Ðông và dòng chảy sâu hơn về phía Tây."
+        "t": "Địa hình: là một thuộc địa của nước Anh, phía Bắc là những vùng đất thấp, phía Nam là núi đá vôi Rock nổi tiếng, chứa đựng nhiều hang hốc. Về phía Tây, có những vùng đồi dốc lan tới một vịnh rất đẹp, vịnh này là một hải cảng thiên nhiên. Eo biển Gibraltar là một dòng sông ở phía Nam rộng 15 đến 37km, dài 50km, nó nối liền Đại Tây Dương với Địa Trung Hải, có dòng chảy trên mặt về phía Đông và dòng chảy sâu hơn về phía Tây."
       },
       {
         "k": "m",
-        "t": "Lịch sử: năm 711, người Moors chiếm giữ Gibaltar và xây dựng pháo đài ở đó. Họ đặt tên cho Gibraltar là Jabal Al Tariq (là núi Tariq). Năm 1462, Gibraltar thuộc về Tây Ban Nha. Ðến năm 1704, sau cuộc chiến Tây Ban Nha với Anh, Gibraltar đầu hàng ông George Rooke đang chỉ huy hạm đội Anh. Thế rồi, Anh chiếm đóng Gibraltar do hiệp ước Utrecht. Tây Ban Nha lại mưu toan chiếm Gibraltar, và lực lượng Tây Ban Nha-Pháp bao vây Gibraltar năm 1779. Gibraltar là một căn cứ hải quân quan trọng trong hai cuộc thế chiến. Nó duy trì nền thuộc địa của Anh và sự ủng hộ của những cư dân người Ý, Maltese và Bồ Ðào Nha. Năm 1969, Tây Ban Nha đóng cửa biên giới, đòi lại Gibraltar, nhưng theo thỏa thuận đã ký ở hội nghị Brussels năm 1948, biên giới được mở lại. Năm 1991, lực lượng Anh rút lui ra khỏi Gibraltar."
+        "t": "Lịch sử: năm 711, người Moors chiếm giữ Gibaltar và xây dựng pháo đài ở đó. Họ đặt tên cho Gibraltar là Jabal Al Tariq (là núi Tariq). Năm 1462, Gibraltar thuộc về Tây Ban Nha. Đến năm 1704, sau cuộc chiến Tây Ban Nha với Anh, Gibraltar đầu hàng ông George Rooke đang chỉ huy hạm đội Anh. Thế rồi, Anh chiếm đóng Gibraltar do hiệp ước Utrecht. Tây Ban Nha lại mưu toan chiếm Gibraltar, và lực lượng Tây Ban Nha-Pháp bao vây Gibraltar năm 1779. Gibraltar là một căn cứ hải quân quan trọng trong hai cuộc thế chiến. Nó duy trì nền thuộc địa của Anh và sự ủng hộ của những cư dân người Ý, Maltese và Bồ Đào Nha. Năm 1969, Tây Ban Nha đóng cửa biên giới, đòi lại Gibraltar, nhưng theo thỏa thuận đã ký ở hội nghị Brussels năm 1948, biên giới được mở lại. Năm 1991, lực lượng Anh rút lui ra khỏi Gibraltar."
       }
     ],
     "k": "gibraltar"
@@ -1259,11 +1259,11 @@
       },
       {
         "k": "m",
-        "t": "Gigabit Ethernet cạnh tranh với ATM như một lựa chọn cho đường trục mạng siêu cao tốc độc. ATM được xem là lựa chọn tốt hơn cho những mạng hợp nhất dữ liệu, thoại, hình ảnh và các lưu thông dữ liệu thời gian thực khác nhờ chức năng QoS (Quality of Service) được xây dựng sẵn trong nó. ATM cũng được sử dụng rộng rãi trong các mạng truyền tải mà Gigabit Ethernet không thích hợp. Ðối với một số mạng nội bộ dùng riêng, nhiều người tin rằng Gigabit Ethernet sẽ giải quyết các vấn đề cố hữu của Ethernet một cách đơn giản bởi vì nó cung cấp nhiều băng thông hơn. Ðiều này đúng trong một số môi trường nhưng không phải là tất cả. Nó còn có các đặc tính mở rộng như bảo đảm dịch vụ, cũng rất có ích. RSVP (Resource Reservation Protocol: Giao thức giữ trước tài nguyên) là một ví dụ."
+        "t": "Gigabit Ethernet cạnh tranh với ATM như một lựa chọn cho đường trục mạng siêu cao tốc độc. ATM được xem là lựa chọn tốt hơn cho những mạng hợp nhất dữ liệu, thoại, hình ảnh và các lưu thông dữ liệu thời gian thực khác nhờ chức năng QoS (Quality of Service) được xây dựng sẵn trong nó. ATM cũng được sử dụng rộng rãi trong các mạng truyền tải mà Gigabit Ethernet không thích hợp. Đối với một số mạng nội bộ dùng riêng, nhiều người tin rằng Gigabit Ethernet sẽ giải quyết các vấn đề cố hữu của Ethernet một cách đơn giản bởi vì nó cung cấp nhiều băng thông hơn. Điều này đúng trong một số môi trường nhưng không phải là tất cả. Nó còn có các đặc tính mở rộng như bảo đảm dịch vụ, cũng rất có ích. RSVP (Resource Reservation Protocol: Giao thức giữ trước tài nguyên) là một ví dụ."
       },
       {
         "k": "m",
-        "t": "Công việc của Gigabit Ethernet đang được hoàn thành bởi IEEE 802.3z Task Group và Gigabit Ethernet Alliance (sẽ được bàn đến ở cuối chương này). Task Group 802.3z hoàn thành các bộ kế hoạch cốt lõi vào cuối năm 1996. Người ta dự đoán rằng tiến trình tiêu chuẩn hóa sẽ hoàn thành vào cuối năm 1997. Các nhà cung cấp chính, như Bay, Cabletron, Cisco cũng đã có các sản phẩm của họ. Ðể đẩy nhanh việc tiêu chuẩn hóa, tiêu chuẩn Fibre Channel của ANSI (American National Standards Instritute) đã được quyết định để dùng trong hiện thực truyền tải cao tốc trên cáp quang."
+        "t": "Công việc của Gigabit Ethernet đang được hoàn thành bởi IEEE 802.3z Task Group và Gigabit Ethernet Alliance (sẽ được bàn đến ở cuối chương này). Task Group 802.3z hoàn thành các bộ kế hoạch cốt lõi vào cuối năm 1996. Người ta dự đoán rằng tiến trình tiêu chuẩn hóa sẽ hoàn thành vào cuối năm 1997. Các nhà cung cấp chính, như Bay, Cabletron, Cisco cũng đã có các sản phẩm của họ. Để đẩy nhanh việc tiêu chuẩn hóa, tiêu chuẩn Fibre Channel của ANSI (American National Standards Instritute) đã được quyết định để dùng trong hiện thực truyền tải cao tốc trên cáp quang."
       },
       {"k": "m", "t": "IEEE đã khởi xướng định nghĩa cho các đặc tả sau, gọi chung là 1000Base-X:"},
       {
@@ -1742,7 +1742,7 @@
       {
         "k": "ex",
         "t": "Your house has lovely brickwork. Don't paint it. That would be gilding the lily:",
-        "vi": "Ngôi nhà làm bằng gạch của bạn trông thật dễ thương. Ðừng sơn nó. Việc đó có thể làm cho ngôi nhà trở nên quá lố."
+        "vi": "Ngôi nhà làm bằng gạch của bạn trông thật dễ thương. Đừng sơn nó. Việc đó có thể làm cho ngôi nhà trở nên quá lố."
       },
       {
         "k": "ex",
@@ -2707,12 +2707,12 @@
   {"h": "gingival curettage", "segs": [{"k": "m", "t": "Nạo lợi."}], "k": "gingival curettage"},
   {
     "h": "gingival curvature",
-    "segs": [{"k": "m", "t": "Ðường cong lợi."}],
+    "segs": [{"k": "m", "t": "Đường cong lợi."}],
     "k": "gingival curvature"
   },
   {
     "h": "gingival line",
-    "segs": [{"k": "m", "t": "Ðường lợi"}, {"k": "m", "t": "Ðường viền lợi."}],
+    "segs": [{"k": "m", "t": "Đường lợi"}, {"k": "m", "t": "Đường viền lợi."}],
     "k": "gingival line"
   },
   {"h": "gingival massage", "segs": [{"k": "m", "t": "Xoa lợi."}], "k": "gingival massage"},
@@ -3031,7 +3031,7 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "gypsy"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "dân gípxi (ở Ấn Ðộ)"},
+      {"k": "m", "t": "dân gípxi (ở Ấn Độ)"},
       {"k": "m", "t": "(đùa cợt) người đàn bà da bánh mật"},
       {"k": "m", "t": "(đùa cợt) con mụ tinh quái."}
     ],
@@ -3040,7 +3040,7 @@
   },
   {
     "h": "gipsy (= gypsy)",
-    "segs": [{"k": "m", "t": "(dt) Dân gipxi (ở Ấn Ðộ)."}],
+    "segs": [{"k": "m", "t": "(dt) Dân gipxi (ở Ấn Độ)."}],
     "ipa": "ɛdʒipsi",
     "k": "gipsy (= gypsy)"
   },
@@ -3370,7 +3370,7 @@
     "segs": [{"k": "m", "t": "Mất cảm giác vành đai."}],
     "k": "girdle anesthesia"
   },
-  {"h": "girdle pain", "segs": [{"k": "m", "t": "Ðau ngang thắt lưng."}], "k": "girdle pain"},
+  {"h": "girdle pain", "segs": [{"k": "m", "t": "Đau ngang thắt lưng."}], "k": "girdle pain"},
   {"h": "girdle railway", "segs": [{"k": "m", "t": "đường sắt vành đai."}], "k": "girdle railway"},
   {
     "h": "girdle sensation",
@@ -3638,7 +3638,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nhóm chính trị nổi bật ở Pháp trong cuộc cách mạng Pháp. Sở dĩ gọi họ là Girondins bởi vì nhiều người ủng hộ cho họ đến từ vùng Gironde. Nhóm Girondins liên hiệp chặt chẽ với Jacobins vào những ngày đầu của cuộc cách mạng. Những người lãnh đạo căn cốt của họ là Brissot, Marguerite Guader và Marie. Jeanne Roland nhanh chóng chiếm được ưu thế ở hội đồng lập Pháp, sau khi quyền hành của nhà vua bị bãi bỏ. Nhóm Girondins thống trị chính phủ cộng hòa do hội đồng dựng lên vào tháng 9 năm 1792. Họ nắm quyền hành trong thời gian khủng hoảng và họ chịu trách nhiệm trong việc gây chiến với kẻ thù của Pháp. Sự thất bại của những cuộc chiến này không những làm nhà vua bị hành hình, mà còn làm sụp đổ đảng và phát sinh một triều đại khủng bố. Cuộc khủng hoảng cũng dẫn đến việc ông Charles-Franẻois Dumouriez, tổng tư lệnh quân đội đào thoát sang nước Áo vào tháng 4 năm 1793. Ðảng Girondins cố gắng tự lực, tái tổ chức bằng cách kêu gọi các phần tử ôn hòa và bắt giữ ông Hébert. Nhưng việc này thất bại và một khối quần chúng rộng lớn trục xuất Girondins ra khỏi hội đồng và sau đó hơn 20 bộ trưởng của Girondins bị bắt và đưa lên ghế điện xử tử."
+        "t": "một nhóm chính trị nổi bật ở Pháp trong cuộc cách mạng Pháp. Sở dĩ gọi họ là Girondins bởi vì nhiều người ủng hộ cho họ đến từ vùng Gironde. Nhóm Girondins liên hiệp chặt chẽ với Jacobins vào những ngày đầu của cuộc cách mạng. Những người lãnh đạo căn cốt của họ là Brissot, Marguerite Guader và Marie. Jeanne Roland nhanh chóng chiếm được ưu thế ở hội đồng lập Pháp, sau khi quyền hành của nhà vua bị bãi bỏ. Nhóm Girondins thống trị chính phủ cộng hòa do hội đồng dựng lên vào tháng 9 năm 1792. Họ nắm quyền hành trong thời gian khủng hoảng và họ chịu trách nhiệm trong việc gây chiến với kẻ thù của Pháp. Sự thất bại của những cuộc chiến này không những làm nhà vua bị hành hình, mà còn làm sụp đổ đảng và phát sinh một triều đại khủng bố. Cuộc khủng hoảng cũng dẫn đến việc ông Charles-Franẻois Dumouriez, tổng tư lệnh quân đội đào thoát sang nước Áo vào tháng 4 năm 1793. Đảng Girondins cố gắng tự lực, tái tổ chức bằng cách kêu gọi các phần tử ôn hòa và bắt giữ ông Hébert. Nhưng việc này thất bại và một khối quần chúng rộng lớn trục xuất Girondins ra khỏi hội đồng và sau đó hơn 20 bộ trưởng của Girondins bị bắt và đưa lên ghế điện xử tử."
       }
     ],
     "k": "girondins"
@@ -3807,7 +3807,7 @@
     "ipa": "ʒi:t",
     "k": "gite"
   },
-  {"h": "githagism", "segs": [{"k": "m", "t": "Ðộ độc hại ngũ cốc."}], "k": "githagism"},
+  {"h": "githagism", "segs": [{"k": "m", "t": "Độ độc hại ngũ cốc."}], "k": "githagism"},
   {
     "h": "gittern",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(âm nhạc) đàn xi-ta."}],
@@ -4316,7 +4316,7 @@
       {
         "k": "ex",
         "t": "Don't expect any give-and-take when you are negotiating with Roger:",
-        "vi": "Ðừng trông mong có sự linh động khi bạn thương lượng với Roger."
+        "vi": "Đừng trông mong có sự linh động khi bạn thương lượng với Roger."
       },
       {
         "k": "ex",

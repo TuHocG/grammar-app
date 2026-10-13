@@ -479,7 +479,7 @@
   },
   {"h": "enamel cuticle", "segs": [{"k": "m", "t": "Biểu bì men răng."}], "k": "enamel cuticle"},
   {"h": "enamel dye", "segs": [{"k": "m", "t": "chất nhuộm men."}], "k": "enamel dye"},
-  {"h": "enamel fissure", "segs": [{"k": "m", "t": "Ðường nứt men rang."}], "k": "enamel fissure"},
+  {"h": "enamel fissure", "segs": [{"k": "m", "t": "Đường nứt men rang."}], "k": "enamel fissure"},
   {
     "h": "enamel furnace",
     "segs": [
@@ -2564,7 +2564,7 @@
   },
   {
     "h": "Encolpion",
-    "segs": [{"k": "m", "t": "Ảnh đeo ngực (hình trái xoan của các Giám mục Ðông phương)."}],
+    "segs": [{"k": "m", "t": "Ảnh đeo ngực (hình trái xoan của các Giám mục Đông phương)."}],
     "k": "encolpion"
   },
   {
@@ -3280,7 +3280,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những người làm tự điển bách khoa. Những triết gia và một số người khác đóng góp vào quyển tự điển bách khoa xuất bản ở Pháp gồm 35 tập từ năm 1751 đến 1780. Ðó là một công trình văn chương lớn lao nhất của thế kỷ 18. Nó ghi lại những nghệ thuật, khoa học, vật lý, không gian và triết học. Nó được biên soạn lại bởi ông Diderot và ông d'Alembert, thêm sự đóng góp của ông Voltaire, Montesquieau, Buffon và d'Holbacl. Sắc lệnh năm 1752, cấm xuất bản một tập, nhưng năm 1759 lại cho in vào mục lục cho Thiên Chúa Giáo La Mã, nhưng nó vẫn cứ lưu hành và đóng góp vào cuộc cách mạng Pháp."
+        "t": "những người làm tự điển bách khoa. Những triết gia và một số người khác đóng góp vào quyển tự điển bách khoa xuất bản ở Pháp gồm 35 tập từ năm 1751 đến 1780. Đó là một công trình văn chương lớn lao nhất của thế kỷ 18. Nó ghi lại những nghệ thuật, khoa học, vật lý, không gian và triết học. Nó được biên soạn lại bởi ông Diderot và ông d'Alembert, thêm sự đóng góp của ông Voltaire, Montesquieau, Buffon và d'Holbacl. Sắc lệnh năm 1752, cấm xuất bản một tập, nhưng năm 1759 lại cho in vào mục lục cho Thiên Chúa Giáo La Mã, nhưng nó vẫn cứ lưu hành và đóng góp vào cuộc cách mạng Pháp."
       }
     ],
     "k": "encyclopedists"
@@ -3919,7 +3919,7 @@
       {
         "k": "ex",
         "t": "For Bob, art is an end in itself. He doesn't hope to make any money from it:",
-        "vi": "Ðối với Bob, nghệ thuật vị nghệ thuật. Anh không hy vọng kiếm tiền nhờ nghệ thuật."
+        "vi": "Đối với Bob, nghệ thuật vị nghệ thuật. Anh không hy vọng kiếm tiền nhờ nghệ thuật."
       },
       {
         "k": "ex",
@@ -4991,7 +4991,7 @@
     "segs": [{"k": "m", "t": "sự dịch chuyển vòng."}],
     "k": "end-around shift"
   },
-  {"h": "end-artery", "segs": [{"k": "m", "t": "Ðộng mạch tận."}], "k": "end-artery"},
+  {"h": "end-artery", "segs": [{"k": "m", "t": "Động mạch tận."}], "k": "end-artery"},
   {"h": "end-bearing pile", "segs": [{"k": "m", "t": "cọc chống."}], "k": "end-bearing pile"},
   {
     "h": "end-bed",
@@ -5010,7 +5010,7 @@
     "ipa": ",end'brein",
     "k": "end-brain"
   },
-  {"h": "end-brush", "segs": [{"k": "m", "t": "Ðuôi nheo."}], "k": "end-brush"},
+  {"h": "end-brush", "segs": [{"k": "m", "t": "Đuôi nheo."}], "k": "end-brush"},
   {
     "h": "end-bud",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(thực vật) mầm đuôi."}],
@@ -5061,7 +5061,7 @@
     ],
     "k": "end-fire array"
   },
-  {"h": "end-flake", "segs": [{"k": "m", "t": "Ðĩa cuối."}], "k": "end-flake"},
+  {"h": "end-flake", "segs": [{"k": "m", "t": "Đĩa cuối."}], "k": "end-flake"},
   {"h": "end-forward", "segs": [{"k": "m", "t": "đoạn đầu."}], "k": "end-forward"},
   {"h": "end-game", "segs": [{"k": "m", "t": "(dt) Trận chung kết."}], "k": "end-game"},
   {
@@ -5928,7 +5928,7 @@
   },
   {
     "h": "endermosis",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng bôi, xoa"}, {"k": "m", "t": "écpét niêm mạc."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng bôi, xoa"}, {"k": "m", "t": "écpét niêm mạc."}],
     "k": "endermosis"
   },
   {
@@ -6834,12 +6834,12 @@
   },
   {
     "h": "endofaradism",
-    "segs": [{"k": "m", "t": "Ðiều trị điện farad (điện cảm ứng) nội tạng."}],
+    "segs": [{"k": "m", "t": "Điều trị điện farad (điện cảm ứng) nội tạng."}],
     "k": "endofaradism"
   },
   {
     "h": "endogalvanism",
-    "segs": [{"k": "m", "t": "Ðiều trị điện ganva nội tạng."}],
+    "segs": [{"k": "m", "t": "Điều trị điện ganva nội tạng."}],
     "k": "endogalvanism"
   },
   {
@@ -7321,7 +7321,7 @@
   },
   {
     "h": "endonuclear polyploidy",
-    "segs": [{"k": "m", "t": "Ða bội nội nhân."}],
+    "segs": [{"k": "m", "t": "Đa bội nội nhân."}],
     "k": "endonuclear polyploidy"
   },
   {"h": "endonuclease", "segs": [{"k": "m", "t": "endonucleaza."}], "k": "endonuclease"},
@@ -7887,7 +7887,7 @@
   },
   {
     "h": "endosmotic equivalent",
-    "segs": [{"k": "m", "t": "Ðương lượng nội thẩm."}],
+    "segs": [{"k": "m", "t": "Đương lượng nội thẩm."}],
     "k": "endosmotic equivalent"
   },
   {
@@ -8116,7 +8116,7 @@
     "k": "endotheliomyxoma"
   },
   {"h": "endotheliosis", "segs": [{"k": "m", "t": "Tăng sinh nội mô."}], "k": "endotheliosis"},
-  {"h": "endotheliotoxin", "segs": [{"k": "m", "t": "Ðộc tố nội mô."}], "k": "endotheliotoxin"},
+  {"h": "endotheliotoxin", "segs": [{"k": "m", "t": "Độc tố nội mô."}], "k": "endotheliotoxin"},
   {
     "h": "endothelium",
     "segs": [
@@ -8342,7 +8342,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðài thọ, tài trợ; phú bẩm; quỹ tài trợ, của cúng tặng làm vốn; tài năng thiên phú."
+        "t": "Đài thọ, tài trợ; phú bẩm; quỹ tài trợ, của cúng tặng làm vốn; tài năng thiên phú."
       }
     ],
     "k": "endow(-ment)"
@@ -8744,7 +8744,7 @@
   {
     "h": "enduways",
     "segs": [
-      {"k": "m", "t": "(-wise [waiz]) (pht) Ðầu quay về phía người nhìn, đầu đưa ra đằng trước."}
+      {"k": "m", "t": "(-wise [waiz]) (pht) Đầu quay về phía người nhìn, đầu đưa ra đằng trước."}
     ],
     "ipa": "ɛendweiz",
     "k": "enduways"
@@ -9591,7 +9591,7 @@
   },
   {
     "h": "energy equivalent",
-    "segs": [{"k": "m", "t": "Ðương lượng năng lượng."}],
+    "segs": [{"k": "m", "t": "Đương lượng năng lượng."}],
     "k": "energy equivalent"
   },
   {
@@ -11411,7 +11411,7 @@
   {
     "h": "Engel curve",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðường Engel."},
+      {"k": "m", "t": "(kinh tế) Đường Engel."},
       {
         "k": "m",
         "t": "Một đường biểu thị mối quan hệ giữa thu nhập và tiêu dùng của một cá nhân về một hàng hóa cụ thể."
@@ -13621,11 +13621,11 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: đất đai hình thành tam giác. Bờ biển dài 3200km, bình nguyên rộng tới 560km từ đồi Cheviot phía Bắc giáp South Downs, từ the wash ở bờ biển phía Ðông tới Land's End phía tây Nam. Ðiểm cao nhất 978m nằm ở Sca Fell giữa dãy núi Cumbrian ở hồ Distriet phía tây Bắc, những đỉnh núi cao cũng xuất hiện ở trung tâm dãy núi Pennine."
+        "t": "Địa hình: đất đai hình thành tam giác. Bờ biển dài 3200km, bình nguyên rộng tới 560km từ đồi Cheviot phía Bắc giáp South Downs, từ the wash ở bờ biển phía Đông tới Land's End phía tây Nam. Điểm cao nhất 978m nằm ở Sca Fell giữa dãy núi Cumbrian ở hồ Distriet phía tây Bắc, những đỉnh núi cao cũng xuất hiện ở trung tâm dãy núi Pennine."
       },
       {
         "k": "m",
-        "t": "Lịch sử: đã có sự định cư ở Anh từ thời kỳ đồ đá, tồn tại qua thời kỳ đồ đồng. Nền văn minh của người Calts trải rộng khắp nước. Người La Mã đã đột kích vào miền Nam nước Anh từ năm 55 đến 54 trước Công Nguyên, do Julius Caesar cầm đầu nhưng những cuộc xâm lăng qui mô thì không xảy ra. Quân đội La Mã rút khỏi Anh vào thế kỷ 5 đến thế kỷ 7. Người Angles, Saxons, và Jutes đột kích, định cư hình thành vương quốc. Khi Wessex ngự trị ở thế kỷ 9 thì nước Anh nổi lên như một trung tâm chính trị. Từ năm 1066, nước Anh dưới quyền của Norman và Plantagenet. Xứ Weles là nước láng giềng bị chinh phục vào thời Trung cổ. Vào thời Tudor, Anh nổi lên như một Cơ Ðốc Giáo với nền quân chủ vững mạnh kể cả hải quân. Vào thế kỷ 17, chiến tranh nội bộ xảy ra. Ðây là thời kỳ chính phủ cộng hòa của ông Cromwell. Ông bắt chước đường lối phục hưng của vua Charles II và lối cai trị của vua Scotland William III. Hai vị vua bằng lòng thống nhất và nước Anh ra đời từ đó."
+        "t": "Lịch sử: đã có sự định cư ở Anh từ thời kỳ đồ đá, tồn tại qua thời kỳ đồ đồng. Nền văn minh của người Calts trải rộng khắp nước. Người La Mã đã đột kích vào miền Nam nước Anh từ năm 55 đến 54 trước Công Nguyên, do Julius Caesar cầm đầu nhưng những cuộc xâm lăng qui mô thì không xảy ra. Quân đội La Mã rút khỏi Anh vào thế kỷ 5 đến thế kỷ 7. Người Angles, Saxons, và Jutes đột kích, định cư hình thành vương quốc. Khi Wessex ngự trị ở thế kỷ 9 thì nước Anh nổi lên như một trung tâm chính trị. Từ năm 1066, nước Anh dưới quyền của Norman và Plantagenet. Xứ Weles là nước láng giềng bị chinh phục vào thời Trung cổ. Vào thời Tudor, Anh nổi lên như một Cơ Đốc Giáo với nền quân chủ vững mạnh kể cả hải quân. Vào thế kỷ 17, chiến tranh nội bộ xảy ra. Đây là thời kỳ chính phủ cộng hòa của ông Cromwell. Ông bắt chước đường lối phục hưng của vua Charles II và lối cai trị của vua Scotland William III. Hai vị vua bằng lòng thống nhất và nước Anh ra đời từ đó."
       }
     ],
     "k": "england",
@@ -13972,7 +13972,7 @@
   },
   {
     "h": "English herring",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Cá trích Ðại dương"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Cá trích Đại dương"}],
     "k": "english herring"
   },
   {
@@ -14001,7 +14001,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Dòng Ðức Trinh Nữ Maria (Institute of the Blessed Virgin Mary do M. Ward sáng lập n. 1609.)"
+        "t": "Dòng Đức Trinh Nữ Maria (Institute of the Blessed Virgin Mary do M. Ward sáng lập n. 1609.)"
       }
     ],
     "k": "english ladies"
@@ -14852,7 +14852,7 @@
   },
   {
     "h": "Enhypostasia",
-    "segs": [{"k": "m", "t": "Tại ngôi vị (nhân tính Ðức Kitô hiện hữu trong Ngôi Lời)."}],
+    "segs": [{"k": "m", "t": "Tại ngôi vị (nhân tính Đức Kitô hiện hữu trong Ngôi Lời)."}],
     "k": "enhypostasia"
   },
   {
@@ -15696,7 +15696,7 @@
     "ipa": ",eni'ægənəl",
     "k": "enneagonal"
   },
-  {"h": "Enneagram", "segs": [{"k": "m", "t": "Ðồ hình chín mẫu vẽ."}], "k": "enneagram"},
+  {"h": "Enneagram", "segs": [{"k": "m", "t": "Đồ hình chín mẫu vẽ."}], "k": "enneagram"},
   {
     "h": "enneagynous",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thực) chín nhụy."}],
@@ -16143,12 +16143,12 @@
       {
         "k": "ex",
         "t": "Stop asking for money! Enough is enough!:",
-        "vi": "Ðừng xin tiền nữa! Thế là đủ rồi!"
+        "vi": "Đừng xin tiền nữa! Thế là đủ rồi!"
       },
       {
         "k": "ex",
         "t": "I've heard all the complaining from you that I can take. Stop! Enough is enough!:",
-        "vi": "Tôi đã nghe tất cả những lời phàn nàn của bà mà tôi có thể chấp nhận được. Hãy ngưng lại! Ðủ rồi!"
+        "vi": "Tôi đã nghe tất cả những lời phàn nàn của bà mà tôi có thể chấp nhận được. Hãy ngưng lại! Đủ rồi!"
       }
     ],
     "k": "enough is enough"
@@ -17539,7 +17539,7 @@
     "h": "entellus",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "khỉ đuôi dài ở Ấn Ðộ ((cũng)"},
+      {"k": "m", "t": "khỉ đuôi dài ở Ấn Độ ((cũng)"},
       {"k": "ex", "t": "entellus monkey", "vi": ")."}
     ],
     "ipa": "en'teləs",
@@ -17563,7 +17563,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1904) Một thỏa thuận giữa Anh và Pháp. Nó nhắm tới những cuộc bàn cãi về lãnh thổ và khuyến khích sự hợp tác chống lại áp lực của Ðức. Nước Anh sẽ tự do trong những dịch vụ ở Ai Cập, còn Pháp tự do hành động ở Morocco. Người Ðức quan tâm đến sự thỏa thuận của Anh và Pháp, cho nên người Ðức gây ra những cuộc khủng hoảng ở Morocco năm 1905, dẫn tới hội nghị Algecires (1906). Việc liên kết Anh-Pháp được mở rộng ra năm 1907, bao gồm cả Nga trong đệ nhị thế chiến để chống lại quyền lực trung ương của đế chế Ottoman."
+        "t": "(1904) Một thỏa thuận giữa Anh và Pháp. Nó nhắm tới những cuộc bàn cãi về lãnh thổ và khuyến khích sự hợp tác chống lại áp lực của Đức. Nước Anh sẽ tự do trong những dịch vụ ở Ai Cập, còn Pháp tự do hành động ở Morocco. Người Đức quan tâm đến sự thỏa thuận của Anh và Pháp, cho nên người Đức gây ra những cuộc khủng hoảng ở Morocco năm 1905, dẫn tới hội nghị Algecires (1906). Việc liên kết Anh-Pháp được mở rộng ra năm 1907, bao gồm cả Nga trong đệ nhị thế chiến để chống lại quyền lực trung ương của đế chế Ottoman."
       }
     ],
     "k": "entente cordiale"
@@ -17893,7 +17893,7 @@
   },
   {
     "h": "enteric plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh ruột."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh ruột."}],
     "k": "enteric plexus"
   },
   {"h": "enteric virus", "segs": [{"k": "m", "t": "virút ruột."}], "k": "enteric virus"},
@@ -18518,7 +18518,7 @@
     "ipa": ",entə'rɔtəmi",
     "k": "enterotomy"
   },
-  {"h": "enterotoxemia", "segs": [{"k": "m", "t": "Ðộc tố ruột huyết."}], "k": "enterotoxemia"},
+  {"h": "enterotoxemia", "segs": [{"k": "m", "t": "Độc tố ruột huyết."}], "k": "enterotoxemia"},
   {
     "h": "enterotoxication",
     "segs": [{"k": "m", "t": "(sự) tự nhiễm độc do ruột."}],
@@ -18759,7 +18759,7 @@
       },
       {
         "k": "m",
-        "t": "Cuối cùng, các tổ chức nhìn thấy lợi nhuận trong việc xây dựng những hệ thống mạng doanh nghiệp, nó cho phép người ta làm việc với nhau thông qua hệ thống trao đổi e-mail của tổ chức dựa trên các phần mềm hợp tác. Một hệ thống mạng doanh nghiệp sẽ nối kết tất cả các mạng của phòng ban hay nhóm làm việc độc lập lại thành hệ thống mạng xuyên công ty, có khả năng cho phép tất cả các máy tính của người sử dụng truy cập đến bất cứ dữ liệu hay tài nguyên máy tính nào. Nó cũng cung cấp khả năng tương tác giữa các hệ thống tự trị và hệ thống hỗn hợp, và rốt cục sẽ giảm số giao thức truyền thông đang sử dụng. Ðể vươn tới mục đích này, các tổ chức công nghiệp đã được hình thành để tạo ra các tiêu chuẩn mở, và mỗi nhà cung cấp sẽ phát triển chiến lược riêng của họ."
+        "t": "Cuối cùng, các tổ chức nhìn thấy lợi nhuận trong việc xây dựng những hệ thống mạng doanh nghiệp, nó cho phép người ta làm việc với nhau thông qua hệ thống trao đổi e-mail của tổ chức dựa trên các phần mềm hợp tác. Một hệ thống mạng doanh nghiệp sẽ nối kết tất cả các mạng của phòng ban hay nhóm làm việc độc lập lại thành hệ thống mạng xuyên công ty, có khả năng cho phép tất cả các máy tính của người sử dụng truy cập đến bất cứ dữ liệu hay tài nguyên máy tính nào. Nó cũng cung cấp khả năng tương tác giữa các hệ thống tự trị và hệ thống hỗn hợp, và rốt cục sẽ giảm số giao thức truyền thông đang sử dụng. Để vươn tới mục đích này, các tổ chức công nghiệp đã được hình thành để tạo ra các tiêu chuẩn mở, và mỗi nhà cung cấp sẽ phát triển chiến lược riêng của họ."
       },
       {
         "k": "m",
@@ -18835,7 +18835,7 @@
       },
       {
         "k": "m",
-        "t": "Như vậy, các hệ thống Intranet là kiểu mạng doanh nghiệp mới. Kỹ thuật này đã lớn mạnh mà không cần phải thúc đẩy, mang lại lợi nhuận cho chúng ta trong hầu hết mọi trường hợp. Bản thân tôi nhiều khi tự hỏi phải chăng chúng ta đang tự trói mình vào kỹ thuật này. Ðến một lúc nào đó, thì khuyết điểm của nó sẽ bắt đầu bộc lộ. Chúng ta sẽ tìm kiếm các công nghệ mới để khắc phục các khuyết điểm đó, cũng như hệ thống mạng doanh nghiệp đã xuất hiện để khắc phục các rối rắm do sự manh mún của các bộ phân mạng LAN."
+        "t": "Như vậy, các hệ thống Intranet là kiểu mạng doanh nghiệp mới. Kỹ thuật này đã lớn mạnh mà không cần phải thúc đẩy, mang lại lợi nhuận cho chúng ta trong hầu hết mọi trường hợp. Bản thân tôi nhiều khi tự hỏi phải chăng chúng ta đang tự trói mình vào kỹ thuật này. Đến một lúc nào đó, thì khuyết điểm của nó sẽ bắt đầu bộc lộ. Chúng ta sẽ tìm kiếm các công nghệ mới để khắc phục các khuyết điểm đó, cũng như hệ thống mạng doanh nghiệp đã xuất hiện để khắc phục các rối rắm do sự manh mún của các bộ phân mạng LAN."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -21695,7 +21695,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hệ máy tối thiểu. Một hệ máy tính được coi là hệ tối thiểu, nếu bảo đảm thực hiện được các ứng dụng nghiêm túc bằng máy tính, như sử dụng các chương trình bảng tính điện tử, hoặc xử lý từ. Ðịnh nghĩa về hệ máy tối thiểu thay đổi rất nhanh. Mười năm trước đây, hệ tối thiểu-không có khả năng chạy các phiên bản mới nhất của hầu hết các phần mềm phổ biến hiện nay-có ít nhất một đĩa mềm 360 K, một màn hình đơn sắc, và bộ nhớ chính 256 K RAM. Những yêu cầu của hệ \"tối thiểu\" tăng rất nhanh do sự đóng góp của hai xu hướng: Thứ nhất, máy tính ngày càng rẻ mặc dù ngày càng mạnh hơn. Thứ hai, các nhà lập trình luôn sáng tạo ra những chương trình phức tạp hơn để chạy trên các máy tính mạnh hơn đó. Những máy 80286 của ngày hôm qua vẫn là máy tốt, nếu bạn vẫn còn chạy các phần mềm của ngày hôm qua."
+        "t": "hệ máy tối thiểu. Một hệ máy tính được coi là hệ tối thiểu, nếu bảo đảm thực hiện được các ứng dụng nghiêm túc bằng máy tính, như sử dụng các chương trình bảng tính điện tử, hoặc xử lý từ. Định nghĩa về hệ máy tối thiểu thay đổi rất nhanh. Mười năm trước đây, hệ tối thiểu-không có khả năng chạy các phiên bản mới nhất của hầu hết các phần mềm phổ biến hiện nay-có ít nhất một đĩa mềm 360 K, một màn hình đơn sắc, và bộ nhớ chính 256 K RAM. Những yêu cầu của hệ \"tối thiểu\" tăng rất nhanh do sự đóng góp của hai xu hướng: Thứ nhất, máy tính ngày càng rẻ mặc dù ngày càng mạnh hơn. Thứ hai, các nhà lập trình luôn sáng tạo ra những chương trình phức tạp hơn để chạy trên các máy tính mạnh hơn đó. Những máy 80286 của ngày hôm qua vẫn là máy tốt, nếu bạn vẫn còn chạy các phần mềm của ngày hôm qua."
       }
     ],
     "k": "entry-level system"

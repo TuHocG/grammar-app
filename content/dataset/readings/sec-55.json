@@ -40,9 +40,9 @@
       [
         "Bạn học quá nhiều, Hoa ạ.",
         "Bạn nên nghỉ ngơi đi.",
-        "Ðã 4 giờ rưỡi rồi và ngày mai là Chúa Nhật."
+        "Đã 4 giờ rưỡi rồi và ngày mai là Chúa Nhật."
       ],
-      ["Ðược rồi. Chúng ta nên làm gì?"],
+      ["Được rồi. Chúng ta nên làm gì?"],
       ["Chúng ta hãy đến quán ăn tự phục vụ và uống thứ gì lành lạnh đi."],
       ["ý hay đấy!", "Ba đâu rồi?", "Chúng ta hãy mời cả cậu ấy."],
       [
@@ -115,11 +115,11 @@
     ],
     "vi": [
       ["Thực hành với một bạn."],
-      ["Quan sát các hoạt động này.", "Ðặt tên cho các bức tranh."],
-      ["Ðọc sách / Học trong thư viện."],
+      ["Quan sát các hoạt động này.", "Đặt tên cho các bức tranh."],
+      ["Đọc sách / Học trong thư viện."],
       ["Bơi trong hồ bơi."],
       ["Chơi trò chơi vi tính."],
-      ["Ði xem phim."],
+      ["Đi xem phim."],
       ["Chơi bóng đá."],
       ["Xem tivi."]
     ],
@@ -194,7 +194,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc", "rồi trả lời"],
+      ["Đọc", "rồi trả lời"],
       [
         "Sau những giờ học ở trường, các học sinh của lớp 7A yêu thích các hoạt động khác nhau.",
         "Diễn kịch là thú tiêu khiển ưa thích nhất của Nga.",
@@ -234,8 +234,8 @@
     ],
     "vi": [
       ["Câu hỏi"],
-      ["Ðội kịch của Nga đang làm gì?"],
-      ["Ðội kịch của Nga đang tập một vở kịch cho buổi lễ kỷ niệm hàng năm của trường."],
+      ["Đội kịch của Nga đang làm gì?"],
+      ["Đội kịch của Nga đang tập một vở kịch cho buổi lễ kỷ niệm hàng năm của trường."],
       ["Bằng cách nào Ba có được những con tem Mỹ?"],
       ["Liz, người bạn Mỹ của Ba cho cậu ấy nhiều tem Mỹ."],
       ["Khi nào câu lạc bộ những người sưu tầm tem gặp nhau?"],
@@ -311,7 +311,7 @@
       ["Bạn chán xem tivi phải không?"],
       ["Vậy thì hãy đến với tôi."],
       ["Chúng ta hãy cùng đến thế giới của thể thao và trò vui."],
-      ["Ðể chạy nhảy"],
+      ["Để chạy nhảy"],
       ["Chơi thể thao dưới ánh mặt trời."],
       ["Hỡi mọi người, hãy giữ cho cơ thể khỏe mạnh."],
       ["Rồi bạn sẽ thấy rằng"],
@@ -342,13 +342,13 @@
     "vi": [
       ["Chúng ta hãy đi!"],
       ["Tối nay chúng ta nên làm gì?"],
-      ["Ði xem phim nhé?"],
-      ["Lúc này chẳng có phim nào hay cả.", "Ðến nhà mình đi.", "Chúng mình có thể nghe nhạc."],
+      ["Đi xem phim nhé?"],
+      ["Lúc này chẳng có phim nào hay cả.", "Đến nhà mình đi.", "Chúng mình có thể nghe nhạc."],
       ["Thật tiếc, Lan ạ.", "Mình không thể đến.", "Mình có quá nhiều bài làm."],
       ["Hoa ơi! Ngày mai là Chúa Nhật mà.", "Sao bạn không nghỉ ngơi?"],
       ["Thôi nào.", "Chúng ta hãy đến nhà Lan đi."],
       ["Hoa, bạn sẽ đến chứ?", "Sẽ vui lắm đấy."],
-      ["Ðược rồi. Mình sẽ đến.", "Cảm ơn."],
+      ["Được rồi. Mình sẽ đến.", "Cảm ơn."],
       ["Tuyệt lắm!", "Giờ bạn đang học cách thư giãn đấy."]
     ],
     "img": "img/readings/1.7.64a.webp",
@@ -411,17 +411,17 @@
       ]
     ],
     "vi": [
-      ["Ðọc và thảo luận."],
+      ["Đọc và thảo luận."],
       [
         "Một cụộc điều tra của tạp chí về lứa tuổi 13 cho biết những gì mà thanh thiếu niên Mỹ thích làm trong thời gian rảnh rỗi của họ.",
-        "Ðây là 10 hoạt động phổ biến nhất."
+        "Đây là 10 hoạt động phổ biến nhất."
       ],
       ["ăn tại những nhà hàng bán thức ăn nhanh"],
       ["Tham gia các tổ chức thanh niên."],
       ["Học chơi một nhạc cụ, chẳng hạn như đàn ghi ta."],
-      ["Ði mua sắm"],
+      ["Đi mua sắm"],
       ["Xem truyền hình"],
-      ["Ði xem phim"],
+      ["Đi xem phim"],
       ["Nghe nhạc"],
       ["Sưu tầm những đồ vật như tem hoặc tiền đồng"],
       ["Làm các mô hình đồ vật như ô tô hoặc máy bay"],
@@ -464,7 +464,7 @@
       ["Mình sẽ gặp bạn vào Chúa nhật."],
       ["Sau bữa trưa, bọn mình sẽ xem phim.", "Bạn đi cùng nhé?"],
       ["Mình không chắc.", "Ngày mai mình sẽ gọi điện cho bạn."],
-      ["Ðồng ý."],
+      ["Đồng ý."],
       ["Cảm ơn vì đã mời mình."],
       ["Mình thích vậy mà."],
       ["Hoa này, còn bạn thì sao?", "Bạn cũng đến nhé?"],
@@ -508,7 +508,7 @@
       ["- They help the elderly, people and take part in-social works."]
     ],
     "vi": [
-      ["Ðọc. Sau đó thảo luận"],
+      ["Đọc. Sau đó thảo luận"],
       ["Phục vụ cộng đồng"],
       [
         "Con người ngày càng sống thọ vì vậy có nhiều người già hơn.",
@@ -554,9 +554,9 @@
     ],
     "vi": [
       ["Luyện tập từ"],
-      ["Ði mua sắm vào lúc tám giờ"],
+      ["Đi mua sắm vào lúc tám giờ"],
       ["Gặp tôi tại cổng"],
-      ["Ðừng đến trễ nhé."],
+      ["Đừng đến trễ nhé."],
       ["Nghe tuyệt lắm!"],
       ["Hãy đến chơi nhé."],
       ["Bạn nói gì thế?"],
@@ -621,7 +621,7 @@
       ["Căn phòng này hết sức bừa bộn."],
       ["Xin lỗi mẹ."],
       ["Hãy cất cái túi này đi."],
-      ["Mẹ, đó không phải cái túi của con.", "Ðây là túi của con."],
+      ["Mẹ, đó không phải cái túi của con.", "Đây là túi của con."],
       ["Bỏ những chiếc vớ dơ đó vào giỏ đồ giặt."],
       ["Những chiếc vớ này ạ?"],
       ["Không. Những chiếc trên giường kia."],
@@ -695,7 +695,7 @@
       ["Thể dục"],
       ["Hóa học"],
       ["Toán"],
-      ["Ðịa lý"],
+      ["Địa lý"],
       ["Tiếng Anh"],
       ["Lịch sử"],
       ["Trạng từ chỉ sự thường xuyên"],
@@ -731,16 +731,16 @@
       ["- Yes. I'd love to."]
     ],
     "vi": [
-      ["Ðề nghị"],
+      ["Đề nghị"],
       ["Viết các đoạn đối thoại có thể."],
       ["Chúng ta đi bơi nhé."],
-      ["Ðược đấy."],
+      ["Được đấy."],
       ["Chúng ta chơi bóng bàn nhé?"],
       ["Tôi xin lỗi, tôi không thể."],
       ["Bạn có muốn chơi bóng rổ không?"],
       ["Tôi rất thích."],
       ["Chúng ta chơi bóng chuyền nhé?"],
-      ["Ðược"],
+      ["Được"],
       ["Bạn có thích xem phim không?"],
       ["Tôi rất thích"],
       ["Chúng ta chơi bóng đá nhé?"],

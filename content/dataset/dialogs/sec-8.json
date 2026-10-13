@@ -79,7 +79,7 @@
         "a": "Is it good?",
         "b": "It's worth seeing.",
         "avi": "Nó có hay không?",
-        "bvi": "Ðáng xem lắm."
+        "bvi": "Đáng xem lắm."
       },
       {
         "a": "What are you standing there for?",
@@ -157,7 +157,7 @@
         "a": "Is there any faster way?",
         "b": "First come first served.",
         "avi": "Thế có cách nào nhanh hơn không?",
-        "bvi": "Ðến trước, phục vụ trước."
+        "bvi": "Đến trước, phục vụ trước."
       },
       {
         "a": "I'll just stick with the black.",
@@ -187,7 +187,7 @@
         "a": "Would you like this one?",
         "b": "Let me have another look.",
         "avi": "Bạn thích cái này không?",
-        "bvi": "Ðể tôi xem thêm nữa."
+        "bvi": "Để tôi xem thêm nữa."
       },
       {
         "a": "Can't you make it cheaper?",
@@ -343,12 +343,12 @@
         "a": "I'm lucky this time.",
         "b": "Oh, no. That's bad news.",
         "avi": "Lần này thì tôi may mắn.",
-        "bvi": "ồ không. Ðó là một tin xấu."
+        "bvi": "ồ không. Đó là một tin xấu."
       },
       {
         "a": "Oh, no. That's bad news.",
         "b": "Will you lose all your files?",
-        "avi": "ồ không. Ðó là một tin xấu.",
+        "avi": "ồ không. Đó là một tin xấu.",
         "bvi": "Bạn sẽ bị mất tất cả dữ liệu của mình à?"
       },
       {
@@ -409,13 +409,13 @@
         "a": "I emailed it to you.",
         "b": "What's your email address?",
         "avi": "Tôi đã gửi nó qua mail cho bạn.",
-        "bvi": "Ðịa chỉ email của bạn là gì?"
+        "bvi": "Địa chỉ email của bạn là gì?"
       },
       {
         "a": "Please mail this letter for me.",
         "b": "What's your address?",
         "avi": "Làm ơn gửi thư này cho tôi.",
-        "bvi": "Ðịa chỉ của bạn là gì?"
+        "bvi": "Địa chỉ của bạn là gì?"
       }
     ]
   },
@@ -487,7 +487,7 @@
         "a": "The restaurant is full.",
         "b": "This is a popular restaurant, isn't it?",
         "avi": "Nhà hàng đông đúc.",
-        "bvi": "Ðây là một nhà hàng nổi tiếng mà, phải không?"
+        "bvi": "Đây là một nhà hàng nổi tiếng mà, phải không?"
       },
       {
         "a": "Anything special to tell me?",
@@ -499,7 +499,7 @@
         "a": "That man is served as a king.",
         "b": "Yes, the workers are very polite.",
         "avi": "Người đàn ông đó được phục vụ như vua.",
-        "bvi": "Ðúng, các nhân viên ở đây rất lịch sự."
+        "bvi": "Đúng, các nhân viên ở đây rất lịch sự."
       },
       {
         "a": "I gather you're not from around here?",
@@ -558,7 +558,7 @@
       {
         "a": "This is the latest item.",
         "b": "Have you got the catalogue for this line?",
-        "avi": "Ðây là món hàng mới nhất.",
+        "avi": "Đây là món hàng mới nhất.",
         "bvi": "Ông có danh mục về loại hàng này không?"
       },
       {
@@ -594,7 +594,7 @@
       {
         "a": "This is our best-selling product.",
         "b": "We think we can promise you good results.",
-        "avi": "Ðây là mặt hàng mà chúng tôi bán chạy nhất.",
+        "avi": "Đây là mặt hàng mà chúng tôi bán chạy nhất.",
         "bvi": "Chúng tôi nghĩ ông sẽ có kết quả tốt."
       }
     ]
@@ -679,7 +679,7 @@
         "a": "It doesn't quite work, does it?",
         "b": "What do you mean exactly?",
         "avi": "Nó hoạt động không hoàn hảo phải không?",
-        "bvi": "Ðiều ông nói có chính xác không?"
+        "bvi": "Điều ông nói có chính xác không?"
       },
       {
         "a": "I suppose you handle a wide assortment?",
@@ -733,12 +733,12 @@
         "a": "I love my garden.",
         "b": "How is the soil here?",
         "avi": "Tôi yêu khu vườn.",
-        "bvi": "Ðất ở đây thế nào?"
+        "bvi": "Đất ở đây thế nào?"
       },
       {
         "a": "How is the soil here?",
         "b": "Rather poor.",
-        "avi": "Ðất ở đây thế nào?",
+        "avi": "Đất ở đây thế nào?",
         "bvi": "Hơi xấu."
       },
       {
@@ -823,12 +823,12 @@
         "a": "I must be off now.",
         "b": "Don't forget to close the door, please.",
         "avi": "Tôi phải đi thôi.",
-        "bvi": "Ðừng quên đóng cửa nhé."
+        "bvi": "Đừng quên đóng cửa nhé."
       },
       {
         "a": "Don't forget to close the door, please.",
         "b": "No, I won't.",
-        "avi": "Ðừng quên đóng cửa nhé.",
+        "avi": "Đừng quên đóng cửa nhé.",
         "bvi": "Không, không đâu."
       },
       {
@@ -847,7 +847,7 @@
         "a": "I've given the shop a completely new look.",
         "b": "That's fine!",
         "avi": "Tôi làm cho cửa hiệu trông có vẻ mới hoàn toàn.",
-        "bvi": "Ðẹp lắm!"
+        "bvi": "Đẹp lắm!"
       },
       {
         "a": "You should go to general store.",
@@ -919,7 +919,7 @@
         "a": "I wear size 40.",
         "b": "It's the latest design.",
         "avi": "Tôi mang số 40.",
-        "bvi": "Ðây là mẫu mới nhất đấy."
+        "bvi": "Đây là mẫu mới nhất đấy."
       },
       {
         "a": "What's the colour do you prefer?",
@@ -984,7 +984,7 @@
       {
         "a": "These shoes are not going on your feet.",
         "b": "Give me a size smaller.",
-        "avi": "Ðôi giày này không vừa chân bạn.",
+        "avi": "Đôi giày này không vừa chân bạn.",
         "bvi": "Cho tôi cỡ nhỏ hơn."
       }
     ]
@@ -1039,7 +1039,7 @@
         "a": "They're too tight.",
         "b": "These boots want stretching.",
         "avi": "Nó chật quá.",
-        "bvi": "Ðôi giày ống này cần phải được nong ra."
+        "bvi": "Đôi giày ống này cần phải được nong ra."
       },
       {
         "a": "What kind of shoes is this?",
@@ -1068,13 +1068,13 @@
       {
         "a": "How about this pair?",
         "b": "I'm sure you'll find this pair very comfortable.",
-        "avi": "Ðôi này được không?",
+        "avi": "Đôi này được không?",
         "bvi": "Tôi chắc đôi này bà mang vừa lắm."
       },
       {
         "a": "This pair of shoes was made to order.",
         "b": "Hand-made or machine-made?",
-        "avi": "Ðôi giày này được đặt làm.",
+        "avi": "Đôi giày này được đặt làm.",
         "bvi": "Làm bằng tay hay bằng máy?"
       }
     ]
@@ -1087,7 +1087,7 @@
         "a": "Hand-made or machine-made?",
         "b": "These shoes were by hand.",
         "avi": "Làm bằng tay hay bằng máy?",
-        "bvi": "Ðôi giày này được làm bằng tay."
+        "bvi": "Đôi giày này được làm bằng tay."
       },
       {
         "a": "I want to buy a pair of shiny shoes.",
@@ -1105,7 +1105,7 @@
         "a": "You should give it a try.",
         "b": "These shoes don't fit right.",
         "avi": "Bạn nên thử nó.",
-        "bvi": "Ðôi giày này không vừa."
+        "bvi": "Đôi giày này không vừa."
       }
     ]
   },
@@ -1116,7 +1116,7 @@
       {
         "a": "These shoes don't fit right.",
         "b": "What is your size?",
-        "avi": "Ðôi giày này không vừa.",
+        "avi": "Đôi giày này không vừa.",
         "bvi": "Giày của bà số mấy?"
       },
       {
@@ -1129,7 +1129,7 @@
         "a": "My size is forty three.",
         "b": "How do you like this pair?",
         "avi": "Giày tôi số 43.",
-        "bvi": "Ðôi giày này bà có thích không?"
+        "bvi": "Đôi giày này bà có thích không?"
       },
       {
         "a": "These shoes fit me very well.",
@@ -1207,12 +1207,12 @@
         "a": "He'll pay for the whole expenses.",
         "b": "About ten thousand dong.",
         "avi": "Tiền phí tổn anh ta sẽ chịu cả.",
-        "bvi": "Ðộ mười nghìn đồng ạ."
+        "bvi": "Độ mười nghìn đồng ạ."
       },
       {
         "a": "About ten thousand dong.",
         "b": "Shall I pay you now?",
-        "avi": "Ðộ mười nghìn đồng ạ.",
+        "avi": "Độ mười nghìn đồng ạ.",
         "bvi": "Tôi phải trả tiền ngay bây giờ chứ?"
       },
       {
@@ -1309,7 +1309,7 @@
         "a": "It's not expensive?",
         "b": "This is the best quality.",
         "avi": "Nó không đắt đấy chứ?",
-        "bvi": "Ðây là loại tốt nhất."
+        "bvi": "Đây là loại tốt nhất."
       },
       {
         "a": "But they are a little tight.",
@@ -1404,7 +1404,7 @@
       {
         "a": "That is the real leather!",
         "b": "How much is it?",
-        "avi": "Ðó là da thật đấy!",
+        "avi": "Đó là da thật đấy!",
         "bvi": "Nó giá bao nhiêu?"
       }
     ]
@@ -1422,7 +1422,7 @@
       {
         "a": "That's a red handbag.",
         "b": "I would also like to see some bags.",
-        "avi": "Ðó là túi xách tay màu đỏ.",
+        "avi": "Đó là túi xách tay màu đỏ.",
         "bvi": "Tôi muốn xem vài cái túi xách."
       },
       {
@@ -1554,7 +1554,7 @@
       {
         "a": "It was time to shine your brown shoes.",
         "b": "Quite a bit of mud caked on the soles.",
-        "avi": "Ðã đến lúc đánh bóng đôi giày nâu của bạn.",
+        "avi": "Đã đến lúc đánh bóng đôi giày nâu của bạn.",
         "bvi": "Khá nhiều bùn vón cục dưới đế giày."
       }
     ]
@@ -1585,7 +1585,7 @@
         "a": "And I had them all stacked by subject.",
         "b": "Don't leave shoes lying around.",
         "avi": "Và tôi đã xếp chúng ngăn nắp theo từng loại rồi.",
-        "bvi": "Ðừng để giày lộn xộn nhé."
+        "bvi": "Đừng để giày lộn xộn nhé."
       }
     ]
   },
@@ -1692,13 +1692,13 @@
       {
         "a": "Do these shoes fit you perfectly?",
         "b": "These shoes seem rather tight.",
-        "avi": "Ðôi này vừa khít chân bạn phải không?",
+        "avi": "Đôi này vừa khít chân bạn phải không?",
         "bvi": "Giày này hơi chật."
       },
       {
         "a": "The heels of your shoes are worn down on one side.",
         "b": "I want to have my shoes repaired.",
-        "avi": "Ðôi gót giày của anh bị mòn chỉ mỗi một bên.",
+        "avi": "Đôi gót giày của anh bị mòn chỉ mỗi một bên.",
         "bvi": "Tôi muốn bạn sửa đôi giày này."
       },
       {
@@ -1728,7 +1728,7 @@
       {
         "a": "Don't worry about your glasses.",
         "b": "Can you fix the temples of my glasses?",
-        "avi": "Ðừng lo về cặp kính.",
+        "avi": "Đừng lo về cặp kính.",
         "bvi": "Bạn có thể sửa càng gọng kính tôi không?"
       },
       {
@@ -1806,19 +1806,19 @@
       {
         "a": "Here is a prescription.",
         "b": "How much shall I prepare?",
-        "avi": "Ðây là toa thuốc.",
+        "avi": "Đây là toa thuốc.",
         "bvi": "Tôi phải chuẩn bị bao nhiêu?"
       },
       {
         "a": "Let me write that one down.",
         "b": "When will it be ready?",
-        "avi": "Ðể tôi ghi lại đã.",
+        "avi": "Để tôi ghi lại đã.",
         "bvi": "Khi nào sẽ xong?"
       },
       {
         "a": "That's very good advice!",
         "b": "Is your diet healthy?",
-        "avi": "Ðó là lời khuyên đúng đắn!",
+        "avi": "Đó là lời khuyên đúng đắn!",
         "bvi": "Chế độ ăn của ông có tốt cho sức khỏe không?"
       },
       {
@@ -1939,13 +1939,13 @@
         "a": "Can you tell me the time?",
         "b": "My watch is stopped.",
         "avi": "Ông có thể cho biết mấy giờ?",
-        "bvi": "Ðồng hồ tôi đã chết."
+        "bvi": "Đồng hồ tôi đã chết."
       },
       {
         "a": "Why were you late?",
         "b": "My watch is our of order.",
         "avi": "Sao bạn đến trễ vậy?",
-        "bvi": "Ðồng hồ tôi bị hỏng."
+        "bvi": "Đồng hồ tôi bị hỏng."
       }
     ]
   },
@@ -1957,13 +1957,13 @@
         "a": "Late for a meeting.",
         "b": "My watch does not keep good time.",
         "avi": "Trễ cuộc họp rồi.",
-        "bvi": "Ðồng hồ tôi không chạy đúng giờ."
+        "bvi": "Đồng hồ tôi không chạy đúng giờ."
       },
       {
         "a": "Oh, these are nice.",
         "b": "Let me see it.",
         "avi": "Ồ, những cái này đẹp quá.",
-        "bvi": "Ðể tôi xem nó."
+        "bvi": "Để tôi xem nó."
       },
       {
         "a": "I'd like to look at some sweaters.",
@@ -2017,7 +2017,7 @@
         "a": "This will do.",
         "b": "Is this the only pattern you have?",
         "avi": "Cái này được đấy.",
-        "bvi": "Ðây có phải mẫu duy nhất ông có không?"
+        "bvi": "Đây có phải mẫu duy nhất ông có không?"
       },
       {
         "a": "They are bottom-of-the-range goods.",
@@ -2118,7 +2118,7 @@
       {
         "a": "Let me have the money.",
         "b": "I shall pay on delivery.",
-        "avi": "Ðưa tôi tiền trước nhé.",
+        "avi": "Đưa tôi tiền trước nhé.",
         "bvi": "Tôi sẽ trả khi giao hàng."
       },
       {
@@ -2148,7 +2148,7 @@
       {
         "a": "This is an amazing product!",
         "b": "Is this imported?",
-        "avi": "Ðây là hàng độc!",
+        "avi": "Đây là hàng độc!",
         "bvi": "Cái này là đồ ngoại nhập à?"
       },
       {
@@ -2286,14 +2286,14 @@
       {
         "a": "This is the best quality.",
         "b": "Local dolls or introduced dolls?",
-        "avi": "Ðây là loại tốt nhất.",
+        "avi": "Đây là loại tốt nhất.",
         "bvi": "Búp bê này là hàng nội địa hay hàng nhập?"
       },
       {
         "a": "I don't know what that is.",
         "b": "Here's one along the lines you described.",
         "avi": "Tôi không biết nó là loại gì nữa.",
-        "bvi": "Ðây là một cái trong các loại bà vừa mô tả."
+        "bvi": "Đây là một cái trong các loại bà vừa mô tả."
       },
       {
         "a": "It is a rag doll.",
@@ -2372,7 +2372,7 @@
         "a": "How about some mechanical toys?",
         "b": "All right, give me two of those.",
         "avi": "Các đồ chơi bằng máy bà thấy thế nào ạ?",
-        "bvi": "Ðược rồi, cho tôi hai món đó."
+        "bvi": "Được rồi, cho tôi hai món đó."
       },
       {
         "a": "Will you take all these?",
@@ -2468,7 +2468,7 @@
         "a": "The volume of imports of Vietnam is a lot.",
         "b": "That's right, madam.",
         "avi": "Lượng hàng nhập khẩu của Việt Nam rất nhiều.",
-        "bvi": "Ðúng vậy thưa bà."
+        "bvi": "Đúng vậy thưa bà."
       },
       {
         "a": "Is this right for the book shop?",
@@ -2492,7 +2492,7 @@
         "a": "Can I get cash instead?",
         "b": "Yes, we only sell in cash.",
         "avi": "Tôi có thể lấy tiền mặt thay thế được không?",
-        "bvi": "Ðúng vậy, chúng tôi chỉ bán bằng tiền mặt."
+        "bvi": "Đúng vậy, chúng tôi chỉ bán bằng tiền mặt."
       },
       {
         "a": "Which vegetables would you like?",
@@ -2509,7 +2509,7 @@
       {
         "a": "This is just one of many items.",
         "b": "Do you keep cereal too?",
-        "avi": "Ðây chỉ là một trong nhiều mặt hàng.",
+        "avi": "Đây chỉ là một trong nhiều mặt hàng.",
         "bvi": "Bạn có bán ngũ cốc không?"
       }
     ]
@@ -2540,7 +2540,7 @@
         "a": "You want to get the canned tuna?",
         "b": "Okay, give me two boxes.",
         "avi": "Bà muốn lấy hộp cá ngừ à?",
-        "bvi": "Ðược, cho tôi hai hộp đi."
+        "bvi": "Được, cho tôi hai hộp đi."
       }
     ]
   },
@@ -2557,7 +2557,7 @@
       {
         "a": "Give it to me.",
         "b": "Here's your change, madam.",
-        "avi": "Ðưa nó cho tôi.",
+        "avi": "Đưa nó cho tôi.",
         "bvi": "Tiền thừa của bà đây ạ."
       },
       {
@@ -2588,18 +2588,18 @@
         "a": "They open the door at five.",
         "b": "What is closing time?",
         "avi": "Họ mở cửa lúc 5 giờ.",
-        "bvi": "Ðóng cửa vào mấy giờ."
+        "bvi": "Đóng cửa vào mấy giờ."
       },
       {
         "a": "This is a quiet pet store.",
         "b": "It must be very expensive.",
-        "avi": "Ðây là một cửa hàng thú cưng yên tĩnh.",
+        "avi": "Đây là một cửa hàng thú cưng yên tĩnh.",
         "bvi": "Chắc đắt lắm."
       },
       {
         "a": "It's the lowest price.",
         "b": "Is not that shop selling off?",
-        "avi": "Ðó là giá thấp nhất rồi.",
+        "avi": "Đó là giá thấp nhất rồi.",
         "bvi": "Có phải cửa hàng đó đang bán hạ giá không?"
       }
     ]
@@ -2617,7 +2617,7 @@
       {
         "a": "Is someone looking after you?",
         "b": "No one is attending to me.",
-        "avi": "Ðã có ai phục vụ bạn chưa?",
+        "avi": "Đã có ai phục vụ bạn chưa?",
         "bvi": "Không thấy ai phục vụ tôi cả."
       },
       {
@@ -2702,7 +2702,7 @@
         "a": "Just look at the ticket!",
         "b": "Is that your lowest price?",
         "avi": "Hãy nhìn nhãn xem!",
-        "bvi": "Ðó là giá thấp nhất phải không?"
+        "bvi": "Đó là giá thấp nhất phải không?"
       },
       {
         "a": "These packages are top of the line.",
@@ -2809,7 +2809,7 @@
       {
         "a": "This is called a grocery store.",
         "b": "I want to buy some small wares.",
-        "avi": "Ðây gọi là cửa hàng tạp hóa.",
+        "avi": "Đây gọi là cửa hàng tạp hóa.",
         "bvi": "Tôi cần mua một ít đồ dùng lặt vặt."
       }
     ]
@@ -2822,7 +2822,7 @@
         "a": "Can you hand me that box right there?",
         "b": "Certainly, here you are.",
         "avi": "Bạn có thể đưa cho tôi cái hộp ở ngay đó không?",
-        "bvi": "Ðây thưa bà."
+        "bvi": "Đây thưa bà."
       },
       {
         "a": "Only 100 dollars.",
@@ -2983,7 +2983,7 @@
       {
         "a": "What is wrong with your watch?",
         "b": "I need a new bracelet for my watch.",
-        "avi": "Ðồng hồ của ông bị gì vậy?",
+        "avi": "Đồng hồ của ông bị gì vậy?",
         "bvi": "Tôi cần thay dây đeo đồng hồ mới."
       },
       {
@@ -3163,7 +3163,7 @@
       {
         "a": "It's the latest design.",
         "b": "Oh, it's beautiful.",
-        "avi": "Ðây là mẫu mới nhất đấy.",
+        "avi": "Đây là mẫu mới nhất đấy.",
         "bvi": "ồ, nó đẹp quá."
       },
       {
@@ -3332,18 +3332,18 @@
         "a": "I need some help with those bags.",
         "b": "Let me give you a hand with that.",
         "avi": "Tôi cần người khiêng giúp mấy bao đó.",
-        "bvi": "Ðể tôi giúp ông một tay làm việc đó."
+        "bvi": "Để tôi giúp ông một tay làm việc đó."
       },
       {
         "a": "How many I help you?",
         "b": "Come along with me to the bookstore.",
         "avi": "Tôi có thể giúp bạn cách nào?",
-        "bvi": "Ði với tôi đến cửa hàng sách."
+        "bvi": "Đi với tôi đến cửa hàng sách."
       },
       {
         "a": "This is an adult bookstore.",
         "b": "I want to buy a few novels.",
-        "avi": "Ðây là cửa hàng sách người lớn.",
+        "avi": "Đây là cửa hàng sách người lớn.",
         "bvi": "Tôi muốn mua vài quyển truyện."
       },
       {
@@ -3410,7 +3410,7 @@
         "a": "Is this book really interesting?",
         "b": "Here is a complete edition.",
         "avi": "Quyển sách này có hấp dẫn không?",
-        "bvi": "Ðây là quyển toàn tập."
+        "bvi": "Đây là quyển toàn tập."
       }
     ]
   },
@@ -3440,7 +3440,7 @@
         "a": "What are the latest things out?",
         "b": "This is a new edition.",
         "avi": "Những loại nào mới xuất bản?",
-        "bvi": "Ðây là ấn bản mới."
+        "bvi": "Đây là ấn bản mới."
       }
     ]
   },
@@ -3452,12 +3452,12 @@
         "a": "The book run into five aditions.",
         "b": "This is the first edition.",
         "avi": "Cuốn sách được xuất bản tới năm lần.",
-        "bvi": "Ðây là ấn bản đầu tiên."
+        "bvi": "Đây là ấn bản đầu tiên."
       },
       {
         "a": "Reading novels is my favorite pastime.",
         "b": "Can you recommend any modern novels?",
-        "avi": "Ðọc tiểu thuyết là thú tiêu khiển của tôi.",
+        "avi": "Đọc tiểu thuyết là thú tiêu khiển của tôi.",
         "bvi": "Ông có thể giới thiệu truyện hiện đại nào không?"
       },
       {
@@ -3470,7 +3470,7 @@
         "a": "Have you the latest weekly Times?",
         "b": "These are good weeklies.",
         "avi": "Ông có tờ tuần san Times mới nhất không?",
-        "bvi": "Ðây là những tuần báo hay."
+        "bvi": "Đây là những tuần báo hay."
       }
     ]
   },
@@ -3530,7 +3530,7 @@
         "a": "This is far better.",
         "b": "This is the best you have?",
         "avi": "Cái này tốt hơn nhiều.",
-        "bvi": "Ðây là thứ tốt nhất ông có phải không?"
+        "bvi": "Đây là thứ tốt nhất ông có phải không?"
       }
     ]
   },
@@ -3541,13 +3541,13 @@
       {
         "a": "This is the large-sized trousers.",
         "b": "Give me a larger size.",
-        "avi": "Ðây là cái quần dài cỡ lớn.",
+        "avi": "Đây là cái quần dài cỡ lớn.",
         "bvi": "Cho tôi khổ lớn hơn."
       },
       {
         "a": "Here is my newest pictures.",
         "b": "They are very clear.",
-        "avi": "Ðây là những bức ảnh mới nhất của tôi.",
+        "avi": "Đây là những bức ảnh mới nhất của tôi.",
         "bvi": "Chúng thật rõ."
       },
       {
@@ -3770,7 +3770,7 @@
         "a": "Would you mind if I smoke here?",
         "b": "I'll just go and fetch an astray.",
         "avi": "Bạn có phiền nếu tôi hút thuốc ở đây không?",
-        "bvi": "Ðể tôi đi lấy cái gạt tàn thuốc."
+        "bvi": "Để tôi đi lấy cái gạt tàn thuốc."
       }
     ]
   },
@@ -3788,12 +3788,12 @@
         "a": "Have you got any cheap ones?",
         "b": "Here's one that is very popular.",
         "avi": "Bạn có loại nào rẻ tiền không?",
-        "bvi": "Ðây là loại rất phổ biến."
+        "bvi": "Đây là loại rất phổ biến."
       },
       {
         "a": "Here's one that is very popular.",
         "b": "It's very lovely.",
-        "avi": "Ðây là loại rất phổ biến.",
+        "avi": "Đây là loại rất phổ biến.",
         "bvi": "Cái này dễ thương quá."
       },
       {
@@ -3967,19 +3967,19 @@
       {
         "a": "My watch is stopped.",
         "b": "I want to buy a watch.",
-        "avi": "Ðồng hồ của bạn đã chết.",
+        "avi": "Đồng hồ của bạn đã chết.",
         "bvi": "Tôi muốn mua một cái đồng hồ đeo tay."
       },
       {
         "a": "I want to buy a watch.",
         "b": "This watch is one of the latest models.",
         "avi": "Tôi muốn mua một cái đồng hồ đeo tay.",
-        "bvi": "Ðồng hồ đeo tay này là một trong những kiểu mới nhất."
+        "bvi": "Đồng hồ đeo tay này là một trong những kiểu mới nhất."
       },
       {
         "a": "Your watch is five minutes fast.",
         "b": "I want to have this watch repaired.",
-        "avi": "Ðồng hồ của bạn nhanh năm phút.",
+        "avi": "Đồng hồ của bạn nhanh năm phút.",
         "bvi": "Tôi muốn nhờ bạn sửa giùm cái đồng hồ này."
       }
     ]
@@ -3991,7 +3991,7 @@
       {
         "a": "Your watch is slow.",
         "b": "It loses two minutes a day.",
-        "avi": "Ðồng hồ của bạn chạy chậm.",
+        "avi": "Đồng hồ của bạn chạy chậm.",
         "bvi": "Nó chậm hai phút mỗi ngày."
       },
       {
@@ -4010,7 +4010,7 @@
         "a": "When can I come for my watch?",
         "b": "About four days.",
         "avi": "Khi nào tôi đến lấy đồng hồ được?",
-        "bvi": "Ðộ bốn ngày."
+        "bvi": "Độ bốn ngày."
       }
     ]
   },
@@ -4033,13 +4033,13 @@
       {
         "a": "My watch is faster than yours.",
         "b": "Is this an alarm clock?",
-        "avi": "Ðồng hồ của tôi chạy nhanh hơn của bạn.",
-        "bvi": "Ðây có phải là đồng hồ báo thức không?"
+        "avi": "Đồng hồ của tôi chạy nhanh hơn của bạn.",
+        "bvi": "Đây có phải là đồng hồ báo thức không?"
       },
       {
         "a": "Here's one that is very popular.",
         "b": "I want something in the latest style.",
-        "avi": "Ðây là loại rất phổ biến.",
+        "avi": "Đây là loại rất phổ biến.",
         "bvi": "Tôi muốn cái có kiểu mới nhất."
       }
     ]
@@ -4088,7 +4088,7 @@
         "a": "It endures.",
         "b": "Is this a table clock?",
         "avi": "Nó rất bền.",
-        "bvi": "Ðây có phải là đồng hồ để bàn không?"
+        "bvi": "Đây có phải là đồng hồ để bàn không?"
       },
       {
         "a": "And that's not a pretty sight.",
@@ -4153,14 +4153,14 @@
       {
         "a": "This is a highly esteemed watch.",
         "b": "May I see this wrist-watch?",
-        "avi": "Ðây là loại đồng hồ rất có giá trị.",
+        "avi": "Đây là loại đồng hồ rất có giá trị.",
         "bvi": "Bạn vui lòng cho tôi xem cái đồng hồ đeo tay này."
       },
       {
         "a": "Have a look.",
         "b": "Is this watch a good one?",
         "avi": "Bạn cứ xem đi.",
-        "bvi": "Ðồng hồ đeo tay này có tốt không?"
+        "bvi": "Đồng hồ đeo tay này có tốt không?"
       }
     ]
   },
@@ -4171,7 +4171,7 @@
       {
         "a": "Is this watch a good one?",
         "b": "I guarantee it for two year.",
-        "avi": "Ðồng hồ đeo tay này có tốt không?",
+        "avi": "Đồng hồ đeo tay này có tốt không?",
         "bvi": "Tôi bảo hành nó trong hai năm."
       },
       {
@@ -4231,14 +4231,14 @@
       {
         "a": "Well, what's wrong with it?",
         "b": "Here's a watch that's not working very well.",
-        "avi": "Ðược rồi, nó bị làm sao cơ?",
-        "bvi": "Ðây là cái đồng hồ chạy không được tốt lắm."
+        "avi": "Được rồi, nó bị làm sao cơ?",
+        "bvi": "Đây là cái đồng hồ chạy không được tốt lắm."
       },
       {
         "a": "Is your watch slow?",
         "b": "This watch gains 5 minutes a day.",
-        "avi": "Ðồng hồ bạn chạy chậm à?",
-        "bvi": "Ðồng hồ này chạy nhanh năm phút mỗi ngày."
+        "avi": "Đồng hồ bạn chạy chậm à?",
+        "bvi": "Đồng hồ này chạy nhanh năm phút mỗi ngày."
       },
       {
         "a": "Is it also damaged inside?",
@@ -4339,7 +4339,7 @@
       {
         "a": "This is a highty esteamed handicraft of old.",
         "b": "Have you any lacquerware?",
-        "avi": "Ðây là hàng mỹ nghệ thủ công rất lâu đời.",
+        "avi": "Đây là hàng mỹ nghệ thủ công rất lâu đời.",
         "bvi": "Ông có đồ sơn mài không?"
       }
     ]
@@ -4400,7 +4400,7 @@
         "a": "Prices are far too high.",
         "b": "That's a curio.",
         "avi": "Giá quá cao.",
-        "bvi": "Ðó là vật quý hiếm."
+        "bvi": "Đó là vật quý hiếm."
       }
     ]
   },
@@ -4430,7 +4430,7 @@
         "a": "Have you anything cheaper?",
         "b": "We'll have that article within three days.",
         "avi": "Bạn có bán thứ nào rẻ hơn không?",
-        "bvi": "Ðộ ba hôm nữa chúng tôi mới có loại hàng đó."
+        "bvi": "Độ ba hôm nữa chúng tôi mới có loại hàng đó."
       }
     ]
   },
@@ -4502,7 +4502,7 @@
         "a": "May I have your address?",
         "b": "This is my address.",
         "avi": "Xin ông cho tôi biết địa chỉ?",
-        "bvi": "Ðịa chỉ của tôi đây."
+        "bvi": "Địa chỉ của tôi đây."
       },
       {
         "a": "Please pay before hand.",
@@ -4759,7 +4759,7 @@
       {
         "a": "It's nothing special.",
         "b": "I think it's very unique.",
-        "avi": "Ðâu có gì đặc biệt.",
+        "avi": "Đâu có gì đặc biệt.",
         "bvi": "Tôi thấy nó rất đặc biệt."
       }
     ]
@@ -4940,7 +4940,7 @@
         "a": "I suppose you'll be needing this?",
         "b": "Then it's the very thing I want.",
         "avi": "Tôi nghĩ là bạn cần cái này phải không?",
-        "bvi": "Ðây đúng là thứ tôi cần."
+        "bvi": "Đây đúng là thứ tôi cần."
       }
     ]
   },
@@ -4958,7 +4958,7 @@
         "a": "Show me a better one.",
         "b": "That is the best quality.",
         "avi": "Cho tôi xem cái tốt hơn.",
-        "bvi": "Ðó là loại tốt nhất."
+        "bvi": "Đó là loại tốt nhất."
       },
       {
         "a": "Do you have one like this?",
@@ -4969,7 +4969,7 @@
       {
         "a": "This is a hardware stores.",
         "b": "Give me a box of nails.",
-        "avi": "Ðây là cửa hàng kim khí.",
+        "avi": "Đây là cửa hàng kim khí.",
         "bvi": "Cho tôi xin một cái hộp đinh."
       }
     ]
@@ -4982,12 +4982,12 @@
         "a": "Give me a box of nails.",
         "b": "What size, please?",
         "avi": "Cho tôi xin một cái hộp đinh.",
-        "bvi": "Ðinh cỡ nào ạ?"
+        "bvi": "Đinh cỡ nào ạ?"
       },
       {
         "a": "What size, please?",
         "b": "About two centimetre.",
-        "avi": "Ðinh cỡ nào ạ?",
+        "avi": "Đinh cỡ nào ạ?",
         "bvi": "Khoảng hai phân."
       },
       {
@@ -5109,12 +5109,12 @@
         "a": "I want some perfume.",
         "b": "Here's a perfume very exquisite and refined.",
         "avi": "Tôi muốn mua nước hoa.",
-        "bvi": "Ðây là loại nước hoa rất quý và có mùi dễ chịu."
+        "bvi": "Đây là loại nước hoa rất quý và có mùi dễ chịu."
       },
       {
         "a": "Here's a perfume very exquisite and refined.",
         "b": "Very well, how much is it?",
-        "avi": "Ðây là loại nước hoa rất quý và có mùi dễ chịu.",
+        "avi": "Đây là loại nước hoa rất quý và có mùi dễ chịu.",
         "bvi": "Tốt lắm, giá bao nhiêu vậy?"
       }
     ]
@@ -5138,7 +5138,7 @@
       {
         "a": "This is a spice shop.",
         "b": "Give me five reels of white cotton thread.",
-        "avi": "Ðây là cửa hàng phụ liệu.",
+        "avi": "Đây là cửa hàng phụ liệu.",
         "bvi": "Cho tôi năm ống chỉ trắng."
       },
       {
@@ -5324,7 +5324,7 @@
       {
         "a": "This is the only one we have.",
         "b": "Would you care to sell it to me?",
-        "avi": "Ðây là cái duy nhất mà chúng tôi có.",
+        "avi": "Đây là cái duy nhất mà chúng tôi có.",
         "bvi": "Thế anh có tính bán cho tôi không vậy?"
       }
     ]
@@ -5373,18 +5373,18 @@
         "a": "Have you a pocket-comb about you, sir?",
         "b": "It's just a metal comb.",
         "avi": "Ông có cái lược bỏ túi đấy không?",
-        "bvi": "Ðó chỉ là cái lược kim loại."
+        "bvi": "Đó chỉ là cái lược kim loại."
       },
       {
         "a": "What is this?",
         "b": "a large-toothed comb.",
-        "avi": "Ðây là cái gì?",
+        "avi": "Đây là cái gì?",
         "bvi": "một cái lược thưa."
       },
       {
         "a": "It's just a metal comb.",
         "b": "It's a small-toothed comb.",
-        "avi": "Ðó chỉ là cái lược kim loại.",
+        "avi": "Đó chỉ là cái lược kim loại.",
         "bvi": "Nó là một cái lược dày khít."
       }
     ]
@@ -5396,7 +5396,7 @@
       {
         "a": "This is the very last of the good stuff.",
         "b": "Is this comb imported or domestic?",
-        "avi": "Ðây là chút hàng tốt cuối cùng.",
+        "avi": "Đây là chút hàng tốt cuối cùng.",
         "bvi": "Lược này là hàng ngoại hay nội?"
       },
       {
@@ -5415,7 +5415,7 @@
         "a": "Eighteen thousand dong, madam.",
         "b": "Well, here's twenty thousand dong.",
         "avi": "Mười tám nghìn đồng, thưa bà.",
-        "bvi": "Ðược, cho tôi gửi hai mươi nghìn đồng."
+        "bvi": "Được, cho tôi gửi hai mươi nghìn đồng."
       }
     ]
   },
@@ -5426,7 +5426,7 @@
       {
         "a": "Here is the change.",
         "b": "Please keep the change.",
-        "avi": "Ðây là tiền thừa.",
+        "avi": "Đây là tiền thừa.",
         "bvi": "Cứ giữ lại tiền thừa."
       },
       {
@@ -5474,7 +5474,7 @@
       {
         "a": "This is a best quality.",
         "b": "Where can I get a bottle?",
-        "avi": "Ðây là loại tốt nhất.",
+        "avi": "Đây là loại tốt nhất.",
         "bvi": "Tôi có thể mua chai này ở đâu?"
       }
     ]
@@ -5486,14 +5486,14 @@
       {
         "a": "Is this a department store?",
         "b": "What can we do for you?",
-        "avi": "Ðây là cửa hàng bách hóa phải không?",
+        "avi": "Đây là cửa hàng bách hóa phải không?",
         "bvi": "Bà cần mua gì ạ?"
       },
       {
         "a": "Do you sell flowers here?",
         "b": "Here's a flower shop!",
         "avi": "Ở đây bạn có bán hoa không?",
-        "bvi": "Ðây là tiệm bán hoa tươi!"
+        "bvi": "Đây là tiệm bán hoa tươi!"
       },
       {
         "a": "What kind of flowers do you want?",
@@ -5504,7 +5504,7 @@
       {
         "a": "It's my favorite flower.",
         "b": "You have some very fine roses.",
-        "avi": "Ðó là loại hoa mà tôi rất thích.",
+        "avi": "Đó là loại hoa mà tôi rất thích.",
         "bvi": "Bà có nhiều hoa hồng đẹp quá."
       }
     ]
@@ -5528,7 +5528,7 @@
       {
         "a": "Bring it right to your doorstep?",
         "b": "Have them sent to this address.",
-        "avi": "Ðem nó đến ngay cửa nhà bà?",
+        "avi": "Đem nó đến ngay cửa nhà bà?",
         "bvi": "Làm ơn gởi chúng đến địa chỉ này."
       },
       {
@@ -5696,7 +5696,7 @@
       {
         "a": "Okay, so can I get you anything else, ladies?",
         "b": "a pad of sketching paper.",
-        "avi": "Ðược rồi, tôi còn có thể lấy thêm gì cho các cô nữa không?",
+        "avi": "Được rồi, tôi còn có thể lấy thêm gì cho các cô nữa không?",
         "bvi": "một tập giấy vẽ."
       },
       {
@@ -5738,7 +5738,7 @@
       {
         "a": "Your shoes are too old.",
         "b": "I want to buy a pair of shoes.",
-        "avi": "Ðôi giày của bạn cũ quá rồi.",
+        "avi": "Đôi giày của bạn cũ quá rồi.",
         "bvi": "Tôi muốn mua một đôi giày."
       },
       {
@@ -5787,7 +5787,7 @@
         "a": "Have you got nothing better?",
         "b": "This is a best quality.",
         "avi": "Cô không có hàng nào tốt hơn à?",
-        "bvi": "Ðây là loại tốt nhất."
+        "bvi": "Đây là loại tốt nhất."
       },
       {
         "a": "I'm in tinned goods.",
@@ -5823,12 +5823,12 @@
         "a": "I want the economy size.",
         "b": "This is the largest size we have.",
         "avi": "Tôi muốn loại hộp lớn để giá rẻ bớt.",
-        "bvi": "Ðây là loại lớn nhất."
+        "bvi": "Đây là loại lớn nhất."
       },
       {
         "a": "This is the largest size we have.",
         "b": "All right, give me two boxes.",
-        "avi": "Ðây là loại lớn nhất.",
+        "avi": "Đây là loại lớn nhất.",
         "bvi": "Vậy ông cho tôi hai hộp."
       },
       {
@@ -5846,13 +5846,13 @@
       {
         "a": "Here's a very popular handbag.",
         "b": "Show me a handbag.",
-        "avi": "Ðây là loại bóp rất phổ biến.",
+        "avi": "Đây là loại bóp rất phổ biến.",
         "bvi": "Cho tôi xem một cái bóp cầm tay."
       },
       {
         "a": "Here's an identical one.",
         "b": "What is this made of?",
-        "avi": "Ðây là loại tương tự.",
+        "avi": "Đây là loại tương tự.",
         "bvi": "Cái này làm bằng gì?"
       },
       {
@@ -5888,14 +5888,14 @@
       {
         "a": "That is the best quality.",
         "b": "How much will you charge me?",
-        "avi": "Ðó là loại tốt nhất.",
+        "avi": "Đó là loại tốt nhất.",
         "bvi": "Thế ông lấy bao nhiêu tiền?"
       },
       {
         "a": "How much will you charge me?",
         "b": "About eighty thousand dong.",
         "avi": "Thế ông lấy bao nhiêu tiền?",
-        "bvi": "Ðộ tám mươi nghìn đồng."
+        "bvi": "Độ tám mươi nghìn đồng."
       }
     ]
   },
@@ -6004,7 +6004,7 @@
         "a": "Give me a hat box.",
         "b": "Very good, madam.",
         "avi": "Cho tôi cái hộp đựng nón.",
-        "bvi": "Ðược, thưa bà."
+        "bvi": "Được, thưa bà."
       },
       {
         "a": "I'm paying extra for that?",
@@ -6034,7 +6034,7 @@
         "a": "I want to try something new.",
         "b": "Here's a very popular wallet.",
         "avi": "Tôi muốn thử mặt hàng mới.",
-        "bvi": "Ðây là loại bóp rất phổ biến."
+        "bvi": "Đây là loại bóp rất phổ biến."
       },
       {
         "a": "It's just a lot to take in.",
@@ -6237,13 +6237,13 @@
       {
         "a": "This product is our bestseller.",
         "b": "Oh, this quality is not good enough.",
-        "avi": "Ðây là mặt hàng mà chúng tôi bán chạy nhất.",
+        "avi": "Đây là mặt hàng mà chúng tôi bán chạy nhất.",
         "bvi": "ồ, hàng này chưa tốt lắm."
       },
       {
         "a": "This is the item that we usually use.",
         "b": "Please show me another one.",
-        "avi": "Ðây là mặt hàng mà chúng tôi sử dụng thường xuyên.",
+        "avi": "Đây là mặt hàng mà chúng tôi sử dụng thường xuyên.",
         "bvi": "Làm ơn cho tôi xem cái khác."
       },
       {
@@ -6460,7 +6460,7 @@
         "a": "Can I send it to your house?",
         "b": "Here is my address.",
         "avi": "Tôi có thể gởi nó đến nhà bà không?",
-        "bvi": "Ðây là địa chỉ của tôi."
+        "bvi": "Đây là địa chỉ của tôi."
       }
     ]
   },

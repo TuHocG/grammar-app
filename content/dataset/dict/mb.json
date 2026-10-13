@@ -108,7 +108,7 @@
   {
     "h": "MBone (Multicast Backbone)",
     "segs": [
-      {"k": "m", "t": "Ðường trục Multicast"},
+      {"k": "m", "t": "Đường trục Multicast"},
       {
         "k": "m",
         "t": "MBone là một hệ thống multicast để truyền thông điệp đến nhiều nơi nhận trên Internet. Unicast là phương pháp truyền thống để truyền các gói dữ liệu trên Internet. Với unicast, một gói IP chỉ được truyền đến một đích đến trong khi multicast gởi bản sao của thông điệp đến từng thành viên của nhóm. Multicast hiệu quả hơn unicast trong trường hợp gởi một thông điệp đến nhiều người nhận."
@@ -127,7 +127,7 @@
       },
       {
         "k": "m",
-        "t": "Hiện nay, Internet vẫn ở tình trạng có các \"ốc đảo\" mrouter và urouter, như minh họa trong hình M-6. Việc gởi một gói IP multicast từ một mrouter sang một mrouter khác có thể phải đi qua qua các urouter không quản lý được những gói IP multicast này. Ðể giải quyết vấn đề, các gói multicast bao bọc thành những gói IP unicast khi đi qua urouter."
+        "t": "Hiện nay, Internet vẫn ở tình trạng có các \"ốc đảo\" mrouter và urouter, như minh họa trong hình M-6. Việc gởi một gói IP multicast từ một mrouter sang một mrouter khác có thể phải đi qua qua các urouter không quản lý được những gói IP multicast này. Để giải quyết vấn đề, các gói multicast bao bọc thành những gói IP unicast khi đi qua urouter."
       },
       {"k": "m", "t": "Hình M-6 Hiện nay, Mbone là một mạng ảo trên Internet"},
       {
@@ -136,7 +136,7 @@
       },
       {
         "k": "m",
-        "t": "Ðồ hình của MBone gồm có một hệ thống trục đường hầm tạo thành mạng lưới trong từng quốc gia. Mạng khu vực áp dụng đồ hình sao với các kênh kết nối đến từng thành viên MBone trong vùng. Có các kênh kết nối giữa các quốc gia bao gồm các kênh bắt cầu qua Ðại Tây Dương và Thái Bình Dương. MBone hiện thực một hệ thống định lượng, ấn định trọng số cho từng kênh. Hệ thống định lượng này giúp tối thiểu hóa tình trạng quá tải bằng cách giữ các gói ở phạm vi cục bộ của chúng."
+        "t": "Đồ hình của MBone gồm có một hệ thống trục đường hầm tạo thành mạng lưới trong từng quốc gia. Mạng khu vực áp dụng đồ hình sao với các kênh kết nối đến từng thành viên MBone trong vùng. Có các kênh kết nối giữa các quốc gia bao gồm các kênh bắt cầu qua Đại Tây Dương và Thái Bình Dương. MBone hiện thực một hệ thống định lượng, ấn định trọng số cho từng kênh. Hệ thống định lượng này giúp tối thiểu hóa tình trạng quá tải bằng cách giữ các gói ở phạm vi cục bộ của chúng."
       },
       {
         "k": "m",

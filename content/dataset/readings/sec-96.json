@@ -18,7 +18,7 @@
     ],
     "vi": [
       ["Trò chuyện về trường học"],
-      ["Ðọc"],
+      ["Đọc"],
       ["Trước khi đọc"],
       ["Khi gặp bạn bè, đề tài nào sau đây bạn thường nói đến?"],
       ["Thể thao và trò chơi"],
@@ -84,7 +84,7 @@
         "Xin chào.",
         "Tôi tên là Nguyễn Lan Phương.",
         "Tôi dạy môn Tiếng Anh ở trường THPT Chu Văn An.",
-        "Ðó là một trong những ngôi trường lớn nhất ở Hà Nội.",
+        "Đó là một trong những ngôi trường lớn nhất ở Hà Nội.",
         "Dạy học là một nghề vất vả, nhưng tôi yêu công việc đó",
         "vì tôi thích dạy dỗ học sinh."
       ],
@@ -117,7 +117,7 @@
     ],
     "vi": [
       [
-        "Ðiền vào chỗ trống bằng một trong các từ trong khung bên dưới.",
+        "Điền vào chỗ trống bằng một trong các từ trong khung bên dưới.",
         "Có nhiều từ hơn cần thiết."
       ],
       ["Trẻ con thường thích phụ giúp trong công việc nhà."],
@@ -145,7 +145,7 @@
       ["- worries about someone else's safety"]
     ],
     "vi": [
-      ["Làm việc theo nhóm.", "Ðọc lại các bài nói chuyện và tìm ra ai..."],
+      ["Làm việc theo nhóm.", "Đọc lại các bài nói chuyện và tìm ra ai..."],
       ["thích dạy học"],
       ["phải dậy sớm"],
       ["ở xa trường"],
@@ -182,7 +182,7 @@
       ["Phong học trường nào?"],
       ["Cậu ấy học ở trường Chu Văn An."],
       ["Cậu ấy học những môn gì?"],
-      ["Cậu ấy học nhiều môn như là Toán, Vật lí, Hóa học, Sinh học, Lịch sử, Ðịa lí, v.v..."],
+      ["Cậu ấy học nhiều môn như là Toán, Vật lí, Hóa học, Sinh học, Lịch sử, Địa lí, v.v..."],
       ["Tại sao cậu ấy lại muốn học Tiếng Anh?"],
       ["Bởi vì Tiếng Anh là một ngôn ngữ quốc tế."],
       ["Cô Phương nói gì về nghề dạy học của mình?"],
@@ -304,7 +304,7 @@
     "vi": [
       ["Sắp xếp lại các câu sau để tạo thành một bài hội thoại rồi sau đó thực hành với bạn mình."],
       ["Chào Minh.", "Cuối tuần bạn đã rất vui phải không?"],
-      ["Chào Quân.", "Ðúng vậy.", "Tuyệt lắm."],
+      ["Chào Quân.", "Đúng vậy.", "Tuyệt lắm."],
       ["Bạn đã làm gì?"],
       [
         "Tôi dự đến dự sinh nhật Lan.",
@@ -605,7 +605,7 @@
       ],
       [
         "ồ nhiều học sinh cũng bị như vậy.",
-        "Ðiều quan trọng là bạn phải giữ bình tĩnh",
+        "Điều quan trọng là bạn phải giữ bình tĩnh",
         "và bạn nên năng động hơn khi làm việc với nhóm.",
         "Chẳng bao lâu sau, tôi nghĩ bạn sẽ tự tin thôi."
       ],
@@ -630,7 +630,7 @@
     ],
     "vi": [
       ["Viết"],
-      ["Ðiền vào mẫu đơn"],
+      ["Điền vào mẫu đơn"],
       ["Phần 1", "Thực hành theo cặp.", "Trả lời các câu hỏi sau."],
       ["Trong dịp nào bạn phải điền vào một mẫu đơn?"],
       ["Tôi phải điền vào mẫu đơn khi tôi nộp đơn xin việc/ghi danh."],
@@ -680,7 +680,7 @@
       ["Bạn sinh ngày nào?"],
       ["Nơi sinh"],
       ["Bạn sinh ra ở dâu?"],
-      ["Ðịa chỉ hiện nay"],
+      ["Địa chỉ hiện nay"],
       ["Hiện nay bạn sống ở đâu?"],
       ["Tình trạng hôn nhân"],
       ["Bạn đã có gia đinh hay còn độc thân?"],
@@ -724,18 +724,18 @@
       ["Ký tên."],
       ["Hãy gạch bỏ những phần không thích hợp."],
       ["Tôi là học sinh/công nhân/người chủ"],
-      ["Ðánh một dấu chéo nếu bạn là nam."],
-      ["Ðánh một dấu kiểm nếu bạn là nữ."],
+      ["Đánh một dấu chéo nếu bạn là nam."],
+      ["Đánh một dấu kiểm nếu bạn là nữ."],
       ["Phần 4", "Hãy điền vào mẫu đơn dưới đây."],
       ["Mẫu đơn tham gia trường tiếng Anh Cây sồi"],
       ["Xin viết Hoa"],
       ["ông/bà/cô"],
-      ["Họ: Ðỗ"],
+      ["Họ: Đỗ"],
       ["Tên: Minh Hạnh"],
       ["Ngày sinh: 22 tháng 2 năm 1986"],
       ["Quốc tịch: Việt Nam"],
       ["Ngôn ngữ: Việt Nam, Anh"],
-      ["Ðịa chỉ quê nhà: số 18 đường Ngọc Hà, Hà Nội."],
+      ["Địa chỉ quê nhà: số 18 đường Ngọc Hà, Hà Nội."],
       ["Nghề nghiệp: Học sinh"],
       ["Lý do học tiếng Anh: Kinh doanh/thich/đi thi/khác"],
       ["Nếu là khác thì xin nói rõ"],
@@ -837,7 +837,7 @@
     "vi": [
       [
         "Bài tập 2.",
-        "Ðiền vào chỗ trống với dạng -ing hoặc to + infinitive của động từ trong ngoặc."
+        "Điền vào chỗ trống với dạng -ing hoặc to + infinitive của động từ trong ngoặc."
       ],
       ["Lisa thân mến,"],
       [
@@ -897,7 +897,7 @@
         "Hãy hoàn thành các câu sau, sử dụng dạng -ing hoặc to+infinitive của các động từ trong khung."
       ],
       ["Khi mệt, tôi thích xem Tivi.", "Thật thoải mái."],
-      ["Ðó là một ngày đẹp trời", "vì thế chúng tôi quvết định đi dạo."],
+      ["Đó là một ngày đẹp trời", "vì thế chúng tôi quvết định đi dạo."],
       ["Tôi không vội.", "Tôi không ngại chờ đợi."],
       ["Họ quá đói vì thế cô ấy đề nghị ăn tối sớm."],
       ["Tôi vẫn đang tìm việc làm", "nhưng tôi hi vọng sớm tìm được."],
@@ -905,8 +905,8 @@
       ["Anh có thể bớt làm ồn được không?"],
       ["Hàng xóm dọa gọi cảnh sát nếu chúng tôi không chấm dứt tiếng ồn."],
       ["Lan đang trong tình thế khó khăn", "vì thế tôi cho bạn ấy mượn ít tiền."],
-      ["Ðột nhiên mọi người ngưng nói chuyện."],
-      ["Ðừng quên gửi lá thư tôi đưa cho anh nhé."]
+      ["Đột nhiên mọi người ngưng nói chuyện."],
+      ["Đừng quên gửi lá thư tôi đưa cho anh nhé."]
     ],
     "img": "img/readings/1.10.31a.webp",
     "page": "31"

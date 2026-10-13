@@ -59,7 +59,7 @@
       "vi": "Phải. Bây giờ, anh hãy viết ra để không quên thứ nào cả.",
       "s": 53.38
     },
-    {"e": 63.3, "en": "Okay. What do you want?", "vi": "Ðược rồi. Em muốn mua gì?", "s": 58.4},
+    {"e": 63.3, "en": "Okay. What do you want?", "vi": "Được rồi. Em muốn mua gì?", "s": 58.4},
     {
       "e": 70.21,
       "en": "Get a couple of carrots, some tomatoes and a kilo of potatoes.",
@@ -81,11 +81,11 @@
     {
       "e": 88.39,
       "en": "Okay, I'll get those things for you.",
-      "vi": "Ðược, anh sẽ mua những thứ đó cho em.",
+      "vi": "Được, anh sẽ mua những thứ đó cho em.",
       "s": 83.57
     },
     {"e": 91.12, "en": "Do you have any money?", "vi": "Em có tiền không?", "s": 88.39},
-    {"e": 92.91, "en": "Yes, here you are.", "vi": "Có. Ðây này.", "s": 91.12},
+    {"e": 92.91, "en": "Yes, here you are.", "vi": "Có. Đây này.", "s": 91.12},
     {
       "e": 96.77,
       "en": "Oh, before I forget, do we have any milk?",
@@ -101,7 +101,7 @@
     {
       "e": 103.65,
       "en": "Okay. You may go now.",
-      "vi": "Ðược. Bây giờ anh có thể đi được rồi đó.",
+      "vi": "Được. Bây giờ anh có thể đi được rồi đó.",
       "s": 99.66
     },
     {"e": 119.66, "en": "...", "vi": "...", "s": 103.65},
@@ -142,7 +142,7 @@
     {
       "e": 180.33,
       "en": "Here you are. Anything else?",
-      "vi": "Ðây ạ. Còn gì khác nữa không?",
+      "vi": "Đây ạ. Còn gì khác nữa không?",
       "s": 177.66
     },
     {
@@ -174,7 +174,7 @@
     {
       "e": 216.65,
       "en": "That's OK. I'll get the chilies later.",
-      "vi": "Ðược rồi. Anh sẽ đi mua ớt sau.",
+      "vi": "Được rồi. Anh sẽ đi mua ớt sau.",
       "s": 213.66
     },
     {
@@ -218,7 +218,7 @@
       "vi": "Còn, tôi muốn mua nửa ký phô mai.",
       "s": 247.04
     },
-    {"e": 255.19, "en": "Okay. Anything else?", "vi": "Ðược. Còn gì khác nữa không?", "s": 252.15},
+    {"e": 255.19, "en": "Okay. Anything else?", "vi": "Được. Còn gì khác nữa không?", "s": 252.15},
     {
       "e": 264.04,
       "en": "Yes, I also need a carton of yogurt and a kilo of strawberry ice-cream.",
@@ -241,7 +241,7 @@
     {
       "e": 287.03,
       "en": "Hi, Niel. Urn. Let's see. I need a loaf of French bread and a slice of pizza to go.",
-      "vi": "Chào Niel. Ưm. Ðể xem. Tôi nhân mua một ổ bánh mì Pháp và một miếng bánh pizza mang đi.",
+      "vi": "Chào Niel. Ưm. Để xem. Tôi nhân mua một ổ bánh mì Pháp và một miếng bánh pizza mang đi.",
       "s": 279.3
     },
     {
@@ -277,7 +277,7 @@
     {
       "e": 305.7,
       "en": "Fine. How much do you want?",
-      "vi": "Ðược rồi. Ông muốn mua bao nhiêu?",
+      "vi": "Được rồi. Ông muốn mua bao nhiêu?",
       "s": 302.33
     },
     {
@@ -289,7 +289,7 @@
     {
       "e": 312.92,
       "en": "No problem. Does she want anything else?",
-      "vi": "Ðược. Bà ấy còn muốn mua gì khác nữa không?",
+      "vi": "Được. Bà ấy còn muốn mua gì khác nữa không?",
       "s": 309.01
     },
     {
@@ -321,7 +321,7 @@
     {
       "e": 354.8,
       "en": "OK, I'll do that. Anything else?",
-      "vi": "Ðược, em sẽ mua những thứ đó. Còn gì khác nữa không?",
+      "vi": "Được, em sẽ mua những thứ đó. Còn gì khác nữa không?",
       "s": 349.48
     },
     {
@@ -411,7 +411,7 @@
     {
       "e": 438.44,
       "en": "Sure, we have lots of hotdogs.",
-      "vi": "Ðược đấy, chúng ta có nhiều xúc xích.",
+      "vi": "Được đấy, chúng ta có nhiều xúc xích.",
       "s": 435.27
     },
     {
@@ -425,12 +425,12 @@
     {"e": 452.79, "en": "Carrot", "vi": "Cà rốt", "s": 448.68},
     {"e": 456.22, "en": "Tomato", "vi": "Cà chua", "s": 452.79},
     {"e": 460.02, "en": "Cucumber", "vi": "Dưa leo", "s": 456.22},
-    {"e": 464.06, "en": "Green Beans", "vi": "Ðậu trái", "s": 460.02},
+    {"e": 464.06, "en": "Green Beans", "vi": "Đậu trái", "s": 460.02},
     {"e": 467.61, "en": "Onion", "vi": "Củ hành", "s": 464.06},
     {"e": 471.4, "en": "Lettuce", "vi": "Xà lách", "s": 467.61},
     {"e": 475.47, "en": "Chili", "vi": "Ớt", "s": 471.4},
     {"e": 479.5, "en": "Asparagus", "vi": "Măng tây", "s": 475.47},
-    {"e": 482.99, "en": "Peas", "vi": "Ðậu hạt, đậu Hà Lan", "s": 479.5},
+    {"e": 482.99, "en": "Peas", "vi": "Đậu hạt, đậu Hà Lan", "s": 479.5},
     {"e": 489.34, "en": "Fruits", "vi": "Trái cây", "s": 482.99},
     {"e": 493.53, "en": "Apple", "vi": "Táo", "s": 489.34},
     {"e": 497.29, "en": "Orange", "vi": "Cam", "s": 493.53},
@@ -488,7 +488,7 @@
     {
       "e": 631.33,
       "en": "Okay. Do we have any milk or cheese here?",
-      "vi": "Ðược. Ở đây chúng ta có còn sữa hay phô mai không?",
+      "vi": "Được. Ở đây chúng ta có còn sữa hay phô mai không?",
       "s": 626.69
     },
     {
@@ -500,7 +500,7 @@
     {
       "e": 638.17,
       "en": "Okay. I'll order a liter of milk and a half kilo of cheese.",
-      "vi": "Ðược rồi. Em sẽ đặt mua một lít sữa và nửa ký phô mai.",
+      "vi": "Được rồi. Em sẽ đặt mua một lít sữa và nửa ký phô mai.",
       "s": 633.01
     },
     {
@@ -512,7 +512,7 @@
     {
       "e": 646.36,
       "en": "Okay. Let's see... press enter to send.",
-      "vi": "Ðồng ý. Ðể xem... ấn vào nút \"enter\" để gửi.",
+      "vi": "Đồng ý. Để xem... ấn vào nút \"enter\" để gửi.",
       "s": 640.99
     },
     {"e": 670.34, "en": "...", "vi": "...", "s": 646.36},
@@ -549,7 +549,7 @@
     {
       "e": 695.26,
       "en": "Sure. Can I get you anything else?",
-      "vi": "Ðược. Anh có muốn mua gì nữa không?",
+      "vi": "Được. Anh có muốn mua gì nữa không?",
       "s": 692.38
     },
     {
@@ -583,7 +583,7 @@
     {
       "e": 730.96,
       "en": "Okay. Do you want any peas?",
-      "vi": "Ðược ạ. Bà có muốn mua đậu Hà Lan không?",
+      "vi": "Được ạ. Bà có muốn mua đậu Hà Lan không?",
       "s": 723.5
     },
     {"e": 733.23, "en": "No, thanks.", "vi": "Không. Cám ơn.", "s": 730.96},
@@ -603,7 +603,7 @@
     {
       "e": 758.27,
       "en": "Here you are. Have a great day.",
-      "vi": "Ðây ạ. Chúc một ngày tốt lành.",
+      "vi": "Đây ạ. Chúc một ngày tốt lành.",
       "s": 755.33
     },
     {"e": 759.5, "en": "How much is that?", "vi": "Như vậy là bao nhiêu?", "s": 758.27},
@@ -618,7 +618,7 @@
     {
       "e": 780.49,
       "en": "In this lesson, we are going to do some more shopping. Alright!",
-      "vi": "Trong bài này, chúng ta sẽ đi mua sắm thêm vài thứ nữa. Ðược rồi!",
+      "vi": "Trong bài này, chúng ta sẽ đi mua sắm thêm vài thứ nữa. Được rồi!",
       "s": 775.93
     },
     {
@@ -670,15 +670,15 @@
     {
       "e": 841.17,
       "en": "Right, and do you have anything more casual than these?",
-      "vi": "Ðược rồi, và cô có cái nào xoàng hơn những cái này không?",
+      "vi": "Được rồi, và cô có cái nào xoàng hơn những cái này không?",
       "s": 835.13
     },
     {
       "e": 844.03,
       "en": "I'm sure we do. Let me go check in the back.",
-      "vi": "Chắc chắn là chúng tôi có. Ðể tôi ra sau xem nhé.",
+      "vi": "Chắc chắn là chúng tôi có. Để tôi ra sau xem nhé.",
       "s": 841.17
     },
-    {"e": 846.74, "en": "OK.", "vi": "Ðược.", "s": 844.03}
+    {"e": 846.74, "en": "OK.", "vi": "Được.", "s": 844.03}
   ]
 }

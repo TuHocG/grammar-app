@@ -1197,7 +1197,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "châu"},
-      {"k": "m", "t": "quận (Ấn Ðộ)."}
+      {"k": "m", "t": "quận (Ấn Độ)."}
     ],
     "ipa": "su:ba:",
     "k": "subah"
@@ -2258,7 +2258,7 @@
   {"h": "subcapsular", "segs": [{"k": "m", "t": "dưới bao."}], "k": "subcapsular"},
   {
     "h": "subcapsular cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh dưới bao."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh dưới bao."}],
     "k": "subcapsular cataract"
   },
   {
@@ -2555,7 +2555,7 @@
   },
   {
     "h": "subclavian artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch dứoi đòn."}],
+    "segs": [{"k": "m", "t": "Động mạch dứoi đòn."}],
     "k": "subclavian artery"
   },
   {"h": "subclavian loop", "segs": [{"k": "m", "t": "Cuộn dưới đòn."}], "k": "subclavian loop"},
@@ -2566,7 +2566,7 @@
   },
   {
     "h": "subclavian plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh dưới đòn."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh dưới đòn."}],
     "k": "subclavian plexus"
   },
   {
@@ -2645,7 +2645,7 @@
   },
   {
     "h": "subclinical diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo hạ lâm sàng."}],
+    "segs": [{"k": "m", "t": "Đái tháo hạ lâm sàng."}],
     "k": "subclinical diabetes"
   },
   {
@@ -3662,7 +3662,7 @@
   },
   {
     "h": "subcostal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch dưới sườn."}],
+    "segs": [{"k": "m", "t": "Động mạch dưới sườn."}],
     "k": "subcostal artery"
   },
   {"h": "subcostal muscle", "segs": [{"k": "m", "t": "Cơ dưới sườn."}], "k": "subcostal muscle"},
@@ -8480,7 +8480,7 @@
   },
   {
     "h": "sublingual artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch dưới lưỡi."}],
+    "segs": [{"k": "m", "t": "Động mạch dưới lưỡi."}],
     "k": "sublingual artery"
   },
   {
@@ -9145,7 +9145,7 @@
   },
   {
     "h": "submental artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch dưới cằm."}],
+    "segs": [{"k": "m", "t": "Động mạch dưới cằm."}],
     "k": "submental artery"
   },
   {"h": "submental fistula", "segs": [{"k": "m", "t": "Rò dưới cằm."}], "k": "submental fistula"},
@@ -10073,7 +10073,7 @@
   {"h": "submucosal", "segs": [{"k": "m", "t": "(thuộc) dưới niêm mạc."}], "k": "submucosal"},
   {
     "h": "submucosal plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh dưới niêm mạc ruột."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh dưới niêm mạc ruột."}],
     "k": "submucosal plexus"
   },
   {
@@ -10189,7 +10189,7 @@
     "ipa": "sʌb'neizəl",
     "k": "subnasal"
   },
-  {"h": "subnasal point", "segs": [{"k": "m", "t": "Ðiểm dưới gai mũi."}], "k": "subnasal point"},
+  {"h": "subnasal point", "segs": [{"k": "m", "t": "Điểm dưới gai mũi."}], "k": "subnasal point"},
   {
     "h": "subnatant",
     "segs": [{"k": "m", "t": "1. ở dưới đáy, dưới đáy"}, {"k": "m", "t": "2. dịch dưới chất lắng."}],
@@ -10253,15 +10253,15 @@
       },
       {
         "k": "m",
-        "t": "Ða số các công ty được cung cấp địa chỉ lớp C. Nếu họ có hơn 254 máy chủ, họ có thể nhận thêm địa chỉ lớp C khác."
+        "t": "Đa số các công ty được cung cấp địa chỉ lớp C. Nếu họ có hơn 254 máy chủ, họ có thể nhận thêm địa chỉ lớp C khác."
       },
       {
         "k": "m",
-        "t": "Ðịa chỉ IP thường chứa địa chỉ mạng và địa chỉ máy chủ. Việc lập mạng con dùng sơ đồ địa chỉ ba thành phần. Về cơ bản, công ty lấy địa chỉ hai thành phần được gán và sau đó để dùng nội bộ, họ dùng subnet mask để tạo sơ đồ địa chỉ ba thành phần. Sơ đồ ba thành phần tạo ra một địa chỉ IP, xác định số hiệu mạng (được gán bởi đơn vị phụ trách Internet); một địa chỉ mạng con (biểu diễn các phòng ban hay nhóm làm việc) và địa chỉ máy chủ (biểu diễn máy tính hoặc các thiết bị khác trên mạng con). Subnetting cho phép một tổ chức tạo ra các mạng con nội bộ, rất có lợi về mặt an toàn và quản trị."
+        "t": "Địa chỉ IP thường chứa địa chỉ mạng và địa chỉ máy chủ. Việc lập mạng con dùng sơ đồ địa chỉ ba thành phần. Về cơ bản, công ty lấy địa chỉ hai thành phần được gán và sau đó để dùng nội bộ, họ dùng subnet mask để tạo sơ đồ địa chỉ ba thành phần. Sơ đồ ba thành phần tạo ra một địa chỉ IP, xác định số hiệu mạng (được gán bởi đơn vị phụ trách Internet); một địa chỉ mạng con (biểu diễn các phòng ban hay nhóm làm việc) và địa chỉ máy chủ (biểu diễn máy tính hoặc các thiết bị khác trên mạng con). Subnetting cho phép một tổ chức tạo ra các mạng con nội bộ, rất có lợi về mặt an toàn và quản trị."
       },
       {
         "k": "m",
-        "t": "Về cơ bản, subnet mask được áp dụng vào địa chỉ IP dùng để định nghĩa những bit nào trong địa chỉ IP dùng để xác định mạng con. Dùng càng nhiều bit thì số mạng con càng lớn, nhưng số máy chủ trong mỗi mạng con càng ít. Ðiều này là do khi các bit được dùng để định nghĩa nhiều mạng con, số các bit dùng để định nghĩa máy chủ bị giảm đi. Sơ đồ đánh số mạng con được trình bày trong mục \"IP (Internet Protocol)\"."
+        "t": "Về cơ bản, subnet mask được áp dụng vào địa chỉ IP dùng để định nghĩa những bit nào trong địa chỉ IP dùng để xác định mạng con. Dùng càng nhiều bit thì số mạng con càng lớn, nhưng số máy chủ trong mỗi mạng con càng ít. Điều này là do khi các bit được dùng để định nghĩa nhiều mạng con, số các bit dùng để định nghĩa máy chủ bị giảm đi. Sơ đồ đánh số mạng con được trình bày trong mục \"IP (Internet Protocol)\"."
       },
       {
         "k": "m",
@@ -10657,7 +10657,7 @@
   },
   {
     "h": "suboccipitobregmatic diameter",
-    "segs": [{"k": "m", "t": "Ðường kính dưới chẩm-brecma."}],
+    "segs": [{"k": "m", "t": "Đường kính dưới chẩm-brecma."}],
     "k": "suboccipitobregmatic diameter"
   },
   {
@@ -11684,7 +11684,7 @@
       },
       {
         "k": "m",
-        "t": "Dưới rau thai. Trong khi mang thai, màng trong tử cung lót toàn bộ khoang tử cung ngoại trừ vị trí túi phôi cấy vào. ÐN: decidua parietalia."
+        "t": "Dưới rau thai. Trong khi mang thai, màng trong tử cung lót toàn bộ khoang tử cung ngoại trừ vị trí túi phôi cấy vào. ĐN: decidua parietalia."
       },
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "(sub-pla-cen-ta) the decidua basalis."}
@@ -12920,7 +12920,7 @@
   },
   {
     "h": "subscapular artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch dưới vai."}],
+    "segs": [{"k": "m", "t": "Động mạch dưới vai."}],
     "k": "subscapular artery"
   },
   {"h": "subscapular fossa", "segs": [{"k": "m", "t": "Hố dưới vai."}], "k": "subscapular fossa"},
@@ -13779,7 +13779,7 @@
   {"h": "subserosa", "segs": [{"k": "m", "t": "Lớp dưới thanh mạc."}], "k": "subserosa"},
   {
     "h": "subserosal plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh dưới thanh mạc ruột."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh dưới thanh mạc ruột."}],
     "k": "subserosal plexus"
   },
   {
@@ -14664,7 +14664,7 @@
   },
   {
     "h": "subsistence theory",
-    "segs": [{"k": "m", "t": "học thuyết tồn tại (nhân tính Ðức Kitô tồn tại ở trong Ngôi Lời)."}],
+    "segs": [{"k": "m", "t": "học thuyết tồn tại (nhân tính Đức Kitô tồn tại ở trong Ngôi Lời)."}],
     "k": "subsistence theory"
   },
   {
@@ -16569,7 +16569,7 @@
   {"h": "subsulfate", "segs": [{"k": "m", "t": "Sunfát bazơ."}], "k": "subsulfate"},
   {
     "h": "subsultus",
-    "segs": [{"k": "m", "t": "Ðộng tác xoắn, động tác co giật."}],
+    "segs": [{"k": "m", "t": "Động tác xoắn, động tác co giật."}],
     "k": "subsultus"
   },
   {
@@ -18661,7 +18661,7 @@
   },
   {
     "h": "Suburbicarian dioceses",
-    "segs": [{"k": "m", "t": "Ðịa phận ngoại ô Rôma (có hồng y giám mục làm đầu)."}],
+    "segs": [{"k": "m", "t": "Địa phận ngoại ô Rôma (có hồng y giám mục làm đầu)."}],
     "ipa": "7",
     "k": "suburbicarian dioceses"
   },
@@ -20018,7 +20018,7 @@
     ],
     "k": "succorer"
   },
-  {"h": "succorrhea", "segs": [{"k": "m", "t": "Ða tiết."}], "k": "succorrhea"},
+  {"h": "succorrhea", "segs": [{"k": "m", "t": "Đa tiết."}], "k": "succorrhea"},
   {"h": "succory", "segs": [{"k": "ref", "t": "chicory"}], "redirect": "chicory", "k": "succory"},
   {
     "h": "succose",
@@ -20231,7 +20231,7 @@
       {
         "k": "ex",
         "t": "Cricket was boring . Such was her opinion before meeting Lan",
-        "vi": "chơi cricket chán ngắt. Ðó là ý kiến của cô trước khi gặp Lan"
+        "vi": "chơi cricket chán ngắt. Đó là ý kiến của cô trước khi gặp Lan"
       },
       {
         "k": "ex",
@@ -20313,7 +20313,7 @@
       {
         "k": "ex",
         "t": "This isn't the only story of starving children . Many such cases are reported every day",
-        "vi": "Ðây không phải câu chuyện duy nhất về trẻ em chết đói. Ngày nào cũng có báo cáo về nhiều trường hợp như thế"
+        "vi": "Đây không phải câu chuyện duy nhất về trẻ em chết đói. Ngày nào cũng có báo cáo về nhiều trường hợp như thế"
       },
       {
         "k": "ex",
@@ -20434,11 +20434,11 @@
   {
     "h": "such is life!",
     "segs": [
-      {"k": "m", "t": "Ðó là cách mà mọi sự việc xảy ra."},
+      {"k": "m", "t": "Đó là cách mà mọi sự việc xảy ra."},
       {
         "k": "ex",
         "t": "Oh, well. Everything can't be perfect. Such is life!",
-        "vi": "Ồ, phải. Mọi việc không thể hoàn hảo được. Ðời là thế!"
+        "vi": "Ồ, phải. Mọi việc không thể hoàn hảo được. Đời là thế!"
       },
       {
         "k": "ex",
@@ -21896,13 +21896,13 @@
     "segs": [
       {
         "k": "m",
-        "t": "Vùng biên giới Tây Bắc của nước cộng hòa Czech. Nơi đây đã thu hút rất nhiều những cư dân đến từ Ðức trong hàng thế kỷ, nhưng các yêu sách đòi được công nhận sự có mặt của họ (1918) đã bị từ chối và vùng đất đã được giao cho Czechoslovakia. Các cư dân này đã đôi lần bày tỏ những khiếu kiện chống lại chính phủ Czech nhưng đều bị phớt lờ bởi Konrad Henlein, một lãnh đạo vùng của Ðảng quốc xã. Ông yêu cầu hợp tác với Ðức để cùng với Hitler tạo thành thế đòn bẩy nhằm chiếm ưu thế ở công ước Munich (1938) và đồng ý sáp nhập vùng đất này vào Ðệ tam đế chế Ðức và trục xuất toàn bộ những cư dân người Czech. Năm 1945, Czechoslovakia đã giành lại được lãnh thổ và trong Hiệp định Potsdam cho phép trục xuất hầu hết những người dân cư trú nói tiếng Ðức. Nỗi đau của hai phía vẫn tiếp tục kéo dài cho tới những năm cuối của thập niên 1990, khi chính phủ Czech và Ðức ký hiệp ước mới về vùng đất (1997) và xin lỗi người dân về cách cư xử của họ trong thời gian qua."
+        "t": "Vùng biên giới Tây Bắc của nước cộng hòa Czech. Nơi đây đã thu hút rất nhiều những cư dân đến từ Đức trong hàng thế kỷ, nhưng các yêu sách đòi được công nhận sự có mặt của họ (1918) đã bị từ chối và vùng đất đã được giao cho Czechoslovakia. Các cư dân này đã đôi lần bày tỏ những khiếu kiện chống lại chính phủ Czech nhưng đều bị phớt lờ bởi Konrad Henlein, một lãnh đạo vùng của Đảng quốc xã. Ông yêu cầu hợp tác với Đức để cùng với Hitler tạo thành thế đòn bẩy nhằm chiếm ưu thế ở công ước Munich (1938) và đồng ý sáp nhập vùng đất này vào Đệ tam đế chế Đức và trục xuất toàn bộ những cư dân người Czech. Năm 1945, Czechoslovakia đã giành lại được lãnh thổ và trong Hiệp định Potsdam cho phép trục xuất hầu hết những người dân cư trú nói tiếng Đức. Nỗi đau của hai phía vẫn tiếp tục kéo dài cho tới những năm cuối của thập niên 1990, khi chính phủ Czech và Đức ký hiệp ước mới về vùng đất (1997) và xin lỗi người dân về cách cư xử của họ trong thời gian qua."
       }
     ],
     "k": "sudetenland"
   },
   {"h": "Sudharma", "segs": [{"k": "m", "t": "Diệu pháp."}], "k": "sudharma"},
-  {"h": "sudogram", "segs": [{"k": "m", "t": "Ðồ thị mồ hôi."}], "k": "sudogram"},
+  {"h": "sudogram", "segs": [{"k": "m", "t": "Đồ thị mồ hôi."}], "k": "sudogram"},
   {"h": "sudomotor", "segs": [{"k": "m", "t": "Vận tiết mồ hôi."}], "k": "sudomotor"},
   {"h": "sudor", "segs": [{"k": "m", "t": "Mồ hôi."}], "k": "sudor"},
   {"h": "sudoral", "segs": [{"k": "m", "t": "(thuộc) mồ hôi."}], "k": "sudoral"},
@@ -21945,7 +21945,7 @@
     "h": "sudra",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "đẳng cấp xuđra (đẳng cấp thấp nhất trong bốn đẳng cấp ở Ấn Ðộ)."}
+      {"k": "m", "t": "đẳng cấp xuđra (đẳng cấp thấp nhất trong bốn đẳng cấp ở Ấn Độ)."}
     ],
     "ipa": "'su:drə",
     "k": "sudra"
@@ -22028,7 +22028,7 @@
       {"k": "m", "t": "suède"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "da lộn"},
-      {"k": "m", "t": "da Thụy Ðiển, da đanh (mặt trong có tuyết)."}
+      {"k": "m", "t": "da Thụy Điển, da đanh (mặt trong có tuyết)."}
     ],
     "ipa": "sweid",
     "k": "suede"
@@ -22119,7 +22119,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "kênh đào nối liền Ðịa trung hải (tại cảng Said) và biển Ðỏ (tại vịnh Suez). Nó được xây dựng để rút ngắn lộ trình từ châu Âu tới châu Á mà không cần phải đi vòng quanh châu Phi. Con kênh hiện tại dài 171 km (106 dặm) được xây dựng bởi Ferdinand de Lesseps từ năm 1859 đến năm 1869. Nó không có van khóa bởi mực nước biển của hai bên gần như bằng nhau. Chiều cao tối đa của eo đất chỉ khoảng 11m (36 bộ) trên mực nước biển. Gần 20.000 nhân công đã được sử dụng vào lúc đầu để đào mương cho nước tràn vào. Sau đó, họ nạo vét làm cho con kênh trở nên sâu và rộng hơn. Nó cũng từng được nạo vét mở rộng hơn nữa để phù hợp cho những chiếc tàu chở dầu trọng tải lên tới 250.000 tấn."
+        "t": "kênh đào nối liền Địa trung hải (tại cảng Said) và biển Đỏ (tại vịnh Suez). Nó được xây dựng để rút ngắn lộ trình từ châu Âu tới châu Á mà không cần phải đi vòng quanh châu Phi. Con kênh hiện tại dài 171 km (106 dặm) được xây dựng bởi Ferdinand de Lesseps từ năm 1859 đến năm 1869. Nó không có van khóa bởi mực nước biển của hai bên gần như bằng nhau. Chiều cao tối đa của eo đất chỉ khoảng 11m (36 bộ) trên mực nước biển. Gần 20.000 nhân công đã được sử dụng vào lúc đầu để đào mương cho nước tràn vào. Sau đó, họ nạo vét làm cho con kênh trở nên sâu và rộng hơn. Nó cũng từng được nạo vét mở rộng hơn nữa để phù hợp cho những chiếc tàu chở dầu trọng tải lên tới 250.000 tấn."
       },
       {
         "k": "m",
@@ -22143,7 +22143,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1956). Một cuộc xung đột quân sự bao gồm Anh, Pháp, Israel và Ai Cập. Nó phát sinh do việc Ai Cập quốc hữu hóa Công ty kênh đào Suez năm 1956. Khi những nỗ lực nhằm thiết lập quyền điều hành quốc tế cho kênh đào bị thất bại, Anh và Pháp đã bí mật liên minh quân sự với Israel. Sau đó, nhận thấy số lượng các cuộc tấn công của quân du kích fedayeen ngày một gia tăng, họ cho rằng thời điểm tấn công Ai Cập đã sẵn sàng. Vào ngày 29 tháng 10, Israel bắt đầu bằng một cuộc tấn công bất ngờ vào Sinai. Anh và Pháp đưa ra một tối hậu thư yêu cầu Israel và Ai Cập nên rút lui khỏi kênh đào. Ðiều này đã bị Tổng thống Nasser bác bỏ. Máy bay Anh và Pháp tấn công các căn cứ Ai Cập và quân đội được tập trung tại cảng Said. Do phải chịu đựng nhiều áp lực từ phía Mỹ và những lời chỉ trích từ các quốc gia khác, cùng lúc đó đồng bảng Anh lại bị mất giá, các hoạt động quân sự của liên quân Anh-Pháp bị đình lại và quân đội được rút về. Lực lượng gìn giữ hòa bình Liên Hiệp Quốc đã được cử đến khu vực này. Ngoại trưởng Mỹ, J. F. Dulles đã vận dụng ngay học thuyết Eisenhower (1957) đề nghị viện trợ kinh tế và quân sự cho bất kỳ chính phủ nào tại vùng Trung Ðông có nền độc lập bị đe dọa. Lực lượng Israel rút lui vào tháng ba năm 1957. Tiếp theo đó, một Hiệp định quốc tế đã quyết định đặt lực lượng khẩn cấp Liên Hiệp Quốc ở Sinai và mở eo biển ở Tiran cho tàu thuyền của Israel qua lại."
+        "t": "(1956). Một cuộc xung đột quân sự bao gồm Anh, Pháp, Israel và Ai Cập. Nó phát sinh do việc Ai Cập quốc hữu hóa Công ty kênh đào Suez năm 1956. Khi những nỗ lực nhằm thiết lập quyền điều hành quốc tế cho kênh đào bị thất bại, Anh và Pháp đã bí mật liên minh quân sự với Israel. Sau đó, nhận thấy số lượng các cuộc tấn công của quân du kích fedayeen ngày một gia tăng, họ cho rằng thời điểm tấn công Ai Cập đã sẵn sàng. Vào ngày 29 tháng 10, Israel bắt đầu bằng một cuộc tấn công bất ngờ vào Sinai. Anh và Pháp đưa ra một tối hậu thư yêu cầu Israel và Ai Cập nên rút lui khỏi kênh đào. Điều này đã bị Tổng thống Nasser bác bỏ. Máy bay Anh và Pháp tấn công các căn cứ Ai Cập và quân đội được tập trung tại cảng Said. Do phải chịu đựng nhiều áp lực từ phía Mỹ và những lời chỉ trích từ các quốc gia khác, cùng lúc đó đồng bảng Anh lại bị mất giá, các hoạt động quân sự của liên quân Anh-Pháp bị đình lại và quân đội được rút về. Lực lượng gìn giữ hòa bình Liên Hiệp Quốc đã được cử đến khu vực này. Ngoại trưởng Mỹ, J. F. Dulles đã vận dụng ngay học thuyết Eisenhower (1957) đề nghị viện trợ kinh tế và quân sự cho bất kỳ chính phủ nào tại vùng Trung Đông có nền độc lập bị đe dọa. Lực lượng Israel rút lui vào tháng ba năm 1957. Tiếp theo đó, một Hiệp định quốc tế đã quyết định đặt lực lượng khẩn cấp Liên Hiệp Quốc ở Sinai và mở eo biển ở Tiran cho tàu thuyền của Israel qua lại."
       }
     ],
     "k": "suez war"
@@ -22695,7 +22695,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là tên gọi những thành viên hoạt động trong các chiến dịch đấu tranh đòi quyền bình đẳng cho nữ giới tại Anh. Cụ thể là đòi quyền được tham gia bầu cử cho các phụ nữ đã trưởng thành (xem thêm phần Women's Suffrage). Liên minh chính trị xã hội Phụ nữ (WSPU) đã được thành lập bởi Emmeline Pankhurst vào năm 1903 và nhanh chóng giành được sự ủng hộ. Nó được sử dụng như một vũ khí đấu tranh đòi quyền được sở hữu tài sản, được thể hiện mình và từ chối đóng thuế. Tuy vậy, cũng có những phản đối mạnh mẽ về việc cho phụ nữ được quyền bỏ phiếu vào Ngày độc lập của chính phủ. Một phần là do chưa lường hết được những biến đổi có thể xảy ra khi trao cho phụ nữ quyền này. Thất vọng bởi sự phủ quyết của Quốc hội về việc mở rộng thành phần bỏ phiếu, các cử tri nữ đã chuyển sang phương thức đấu tranh để bày tỏ nguyện vọng của mình. Cuộc họp Quốc hội bị đình chỉ, lệnh tống giam những nữ cử tri tham gia biểu tình được ban bố. Ðáp lại, một phụ nữ đã lao thẳng vào gót ngựa của nhà vua trong giải đua ngựa Derby năm 1913 và đã bị giẫm chết. Những cuộc xung đột này tạm thời lắng dịu khi Anh tuyên chiến với Ðức vào năm 1914. WSPU lại chuyển hoạt động của mình sang hỗ trợ cho cuộc chiến này. Ðến năm 1918, căn cứ vào trình độ học thức và sự cân bằng về tài sản mà giới phụ nữ đang sở hữu, các cử tri nữ trên 30 tuổi đã được quyền bầu cử. (việc giới hạn độ tuổi một phần là để tránh việc vượt trội của phụ nữ trong cuộc bầu cử bởi một lượng lớn cử tri nam đã hy sinh trong chiến tranh). Mãi đến năm 1928, phụ nữ trên 21 tuổi mới được trao cho lá phiếu bầu cử."
+        "t": "Đây là tên gọi những thành viên hoạt động trong các chiến dịch đấu tranh đòi quyền bình đẳng cho nữ giới tại Anh. Cụ thể là đòi quyền được tham gia bầu cử cho các phụ nữ đã trưởng thành (xem thêm phần Women's Suffrage). Liên minh chính trị xã hội Phụ nữ (WSPU) đã được thành lập bởi Emmeline Pankhurst vào năm 1903 và nhanh chóng giành được sự ủng hộ. Nó được sử dụng như một vũ khí đấu tranh đòi quyền được sở hữu tài sản, được thể hiện mình và từ chối đóng thuế. Tuy vậy, cũng có những phản đối mạnh mẽ về việc cho phụ nữ được quyền bỏ phiếu vào Ngày độc lập của chính phủ. Một phần là do chưa lường hết được những biến đổi có thể xảy ra khi trao cho phụ nữ quyền này. Thất vọng bởi sự phủ quyết của Quốc hội về việc mở rộng thành phần bỏ phiếu, các cử tri nữ đã chuyển sang phương thức đấu tranh để bày tỏ nguyện vọng của mình. Cuộc họp Quốc hội bị đình chỉ, lệnh tống giam những nữ cử tri tham gia biểu tình được ban bố. Đáp lại, một phụ nữ đã lao thẳng vào gót ngựa của nhà vua trong giải đua ngựa Derby năm 1913 và đã bị giẫm chết. Những cuộc xung đột này tạm thời lắng dịu khi Anh tuyên chiến với Đức vào năm 1914. WSPU lại chuyển hoạt động của mình sang hỗ trợ cho cuộc chiến này. Đến năm 1918, căn cứ vào trình độ học thức và sự cân bằng về tài sản mà giới phụ nữ đang sở hữu, các cử tri nữ trên 30 tuổi đã được quyền bầu cử. (việc giới hạn độ tuổi một phần là để tránh việc vượt trội của phụ nữ trong cuộc bầu cử bởi một lượng lớn cử tri nam đã hy sinh trong chiến tranh). Mãi đến năm 1928, phụ nữ trên 21 tuổi mới được trao cho lá phiếu bầu cử."
       }
     ],
     "k": "suffragettes"
@@ -23706,7 +23706,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1921-). Một chính khách và là nhà chiến lược của Indonesia. Ông đóng vai trò xuất sắc trong cuộc cách mạng Indonesian và trở thành thủ lĩnh nhân sự của quân đội năm 1965. Ông đã tiêu diệt những phần tử Cộng sản vừa mới nhen nhóm từ sự giúp đỡ của đảng cầm quyền PKI vào năm 1965. Năm 1966, Tổng thống Sukarno, người đã dính líu vào vụ việc trên bị ép buộc phải trao hết quyền lực cho ông. Bằng việc hợp nhất được sinh viên và lực lượng quân đội chống đối sự cai trị của chế độ Sukarno, ông đã nắm quyền Tổng thống vào năm 1967 và được công nhận chính thức vào năm sau. Ông quyết định chấm dứt cuộc binh biến Konfrontasi với Malaysia và mang lại một sức sống mới cho nền kinh tế Indonesian. Ông kiến thiết lại đất nước nhằm biến nơi đây thành điểm đầu tư cho các nhà tư bản phương Tây. Trong suốt hai thập niên 1980-1990, ông dần trở nên độc tài và phải đối diện với những chống đối gay gắt. Ðáng kể nhất là hoạt động của những người theo tư tưởng Hồi giáo chính thống làm tăng tính độc tài vào thập niên 1980 và 1990, ông phải đối phó với sự chống cự có thế lực quan trọng trong nước, đặc biệt nhất là từ cuộc vận động người theo trào lưu chính thống Ðạo hồi. Việc bất ngờ bị sụp đổ của nền kinh tế Indonesia vào tháng giêng năm 1998 đã góp phần đưa đến các cuộc bạo loạn diễn ra khắp nơi và đã bị nhà cầm quyền đàn áp một cách thô bạo."
+        "t": "(1921-). Một chính khách và là nhà chiến lược của Indonesia. Ông đóng vai trò xuất sắc trong cuộc cách mạng Indonesian và trở thành thủ lĩnh nhân sự của quân đội năm 1965. Ông đã tiêu diệt những phần tử Cộng sản vừa mới nhen nhóm từ sự giúp đỡ của đảng cầm quyền PKI vào năm 1965. Năm 1966, Tổng thống Sukarno, người đã dính líu vào vụ việc trên bị ép buộc phải trao hết quyền lực cho ông. Bằng việc hợp nhất được sinh viên và lực lượng quân đội chống đối sự cai trị của chế độ Sukarno, ông đã nắm quyền Tổng thống vào năm 1967 và được công nhận chính thức vào năm sau. Ông quyết định chấm dứt cuộc binh biến Konfrontasi với Malaysia và mang lại một sức sống mới cho nền kinh tế Indonesian. Ông kiến thiết lại đất nước nhằm biến nơi đây thành điểm đầu tư cho các nhà tư bản phương Tây. Trong suốt hai thập niên 1980-1990, ông dần trở nên độc tài và phải đối diện với những chống đối gay gắt. Đáng kể nhất là hoạt động của những người theo tư tưởng Hồi giáo chính thống làm tăng tính độc tài vào thập niên 1980 và 1990, ông phải đối phó với sự chống cự có thế lực quan trọng trong nước, đặc biệt nhất là từ cuộc vận động người theo trào lưu chính thống Đạo hồi. Việc bất ngờ bị sụp đổ của nền kinh tế Indonesia vào tháng giêng năm 1998 đã góp phần đưa đến các cuộc bạo loạn diễn ra khắp nơi và đã bị nhà cầm quyền đàn áp một cách thô bạo."
       }
     ],
     "k": "suharto"
@@ -23716,7 +23716,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(581-618 sau Công Nguyên). Triều đại nhà Tùy đã thống nhất Trung Quốc sau hơn 3 thế kỷ bị chia cắt lãnh thổ. Theo hoàng đế Yang Qien, người đã sáng lập nên triều đại, nhằm ngăn ngừa sự quấy nhiễu của các nước man di như Ðài Loan, Annam, Champa và Srivijana, Vạn lý trường thành của Trung Quốc được xây dựng lại theo một liên kết khác và thêm vào những con kênh đào. Một số đó về sau đã góp phần hình thành nên con kênh đào hùng vĩ. Do bị thua trận ở Triều Tiên và không thể dẹp yên được các cuộc nổi loạn của những người lao động, vị hoàng đế thứ hai nhà Tùy phải lẩn trốn. Cuối cùng, bị phản bội bởi 1 trong số 3.000 tì thiếp của mình, ông đã thắt cổ tự vẫn. Khi Li Yuan một vị quan đầy tham vọng, người sáng lập ra triều đại nhà Ðường, chiếm được Trường An, vị Hoàng đế cuối cùng phải thoái vị. Mặc dù nhà Tùy chỉ cai trị một thời gian ngắn nhưng nó đã thiết lập nên thể chế chính quyền trung ương vững bền giúp ích cho sự phát triển triều đại nhà Ðường."
+        "t": "(581-618 sau Công Nguyên). Triều đại nhà Tùy đã thống nhất Trung Quốc sau hơn 3 thế kỷ bị chia cắt lãnh thổ. Theo hoàng đế Yang Qien, người đã sáng lập nên triều đại, nhằm ngăn ngừa sự quấy nhiễu của các nước man di như Đài Loan, Annam, Champa và Srivijana, Vạn lý trường thành của Trung Quốc được xây dựng lại theo một liên kết khác và thêm vào những con kênh đào. Một số đó về sau đã góp phần hình thành nên con kênh đào hùng vĩ. Do bị thua trận ở Triều Tiên và không thể dẹp yên được các cuộc nổi loạn của những người lao động, vị hoàng đế thứ hai nhà Tùy phải lẩn trốn. Cuối cùng, bị phản bội bởi 1 trong số 3.000 tì thiếp của mình, ông đã thắt cổ tự vẫn. Khi Li Yuan một vị quan đầy tham vọng, người sáng lập ra triều đại nhà Đường, chiếm được Trường An, vị Hoàng đế cuối cùng phải thoái vị. Mặc dù nhà Tùy chỉ cai trị một thời gian ngắn nhưng nó đã thiết lập nên thể chế chính quyền trung ương vững bền giúp ích cho sự phát triển triều đại nhà Đường."
       }
     ],
     "k": "sui"
@@ -23744,7 +23744,7 @@
       {"k": "m", "t": "quần áo phụ hợp với tiết trời lạnh"},
       {"k": "m", "t": "a suitable room"},
       {"k": "m", "t": "một căn phòng thích hợp"},
-      {"k": "m", "t": "Ðúng lúc, đúng trường hợp"},
+      {"k": "m", "t": "Đúng lúc, đúng trường hợp"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật chung"},
       {"k": "m", "t": "thích ứng"},
       {"k": "m", "t": "tiện dụng"}
@@ -24066,7 +24066,7 @@
       {
         "k": "ex",
         "t": "Okay, if you don't want to do it my way, suit yourself:",
-        "vi": "Ðược thôi, nếu bạn không muốn làm theo cách của tôi, thì hãy làm theo cách riêng của bạn."
+        "vi": "Được thôi, nếu bạn không muốn làm theo cách của tôi, thì hãy làm theo cách riêng của bạn."
       },
       {
         "k": "ex",
@@ -24514,7 +24514,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1495-1566). Ông là vị quốc vương Hồi giáo xứ Ottoman (1520-1566). Tại châu Âu, ông được biết đến như một thiên tài từ những vụ xử án tài tình. Với thần dân của mình, họ gọi ông là Qanuni (người lập pháp). Nhiều qui định đã được ban bố dưới triệu đại của ông. Trong ba chiến dịch chống lại Safavid xứ Ba Tư, ông khẳng định chủ quyền của Ottoman tại vùng Ðông Á nhỏ bé và sáp nhập Mesopotamia. Ông đã đánh đuổi Bồ Ðào Nha ra khỏi vùng Biển Ðỏ; chiếm Aiden năm 1538 và liên tục khuấy động họ ở vùng Vịnh. Ông cũng thành lập tiểu bang Corsair ở Bắc Phi nhằm chống lại tham vọng cai trị của đạo Cơ đốc tại đó. Sau khi chiếm được Rhodes vào năm 1522, ông đã duy trì được uy thế của hải quân ở miền Ðông Ðịa Trung Hải và nó chỉ bị suy yếu khi ông đã trả một giá quá đắt để đánh chiếm Malta vào năm 1565. Chiến tích lẫy lừng nhất của ông là tại Mohacs năm 1526, khi ông tiêu diệt Hung-ga-ri và tiến về Vienna cho dù không chiếm được thành phố. Dù vậy, ông đã thiết lập được quyền cai trị của Ottoman tại vùng trung Danube và thành lập nước chư hầu Transylvania. Ông chết khi tham gia chiến trận. Suleiman là một nhà thơ, là người bảo trợ cho nghệ thuật và đã đóng góp rất nhiều công sức cho sự tráng lệ của Constantinople."
+        "t": "(1495-1566). Ông là vị quốc vương Hồi giáo xứ Ottoman (1520-1566). Tại châu Âu, ông được biết đến như một thiên tài từ những vụ xử án tài tình. Với thần dân của mình, họ gọi ông là Qanuni (người lập pháp). Nhiều qui định đã được ban bố dưới triệu đại của ông. Trong ba chiến dịch chống lại Safavid xứ Ba Tư, ông khẳng định chủ quyền của Ottoman tại vùng Đông Á nhỏ bé và sáp nhập Mesopotamia. Ông đã đánh đuổi Bồ Đào Nha ra khỏi vùng Biển Đỏ; chiếm Aiden năm 1538 và liên tục khuấy động họ ở vùng Vịnh. Ông cũng thành lập tiểu bang Corsair ở Bắc Phi nhằm chống lại tham vọng cai trị của đạo Cơ đốc tại đó. Sau khi chiếm được Rhodes vào năm 1522, ông đã duy trì được uy thế của hải quân ở miền Đông Địa Trung Hải và nó chỉ bị suy yếu khi ông đã trả một giá quá đắt để đánh chiếm Malta vào năm 1565. Chiến tích lẫy lừng nhất của ông là tại Mohacs năm 1526, khi ông tiêu diệt Hung-ga-ri và tiến về Vienna cho dù không chiếm được thành phố. Dù vậy, ông đã thiết lập được quyền cai trị của Ottoman tại vùng trung Danube và thành lập nước chư hầu Transylvania. Ông chết khi tham gia chiến trận. Suleiman là một nhà thơ, là người bảo trợ cho nghệ thuật và đã đóng góp rất nhiều công sức cho sự tráng lệ của Constantinople."
       }
     ],
     "k": "suleiman i"
@@ -25234,7 +25234,7 @@
     ],
     "k": "sulfurated hydrogen"
   },
-  {"h": "sulfurated lime", "segs": [{"k": "m", "t": "Ðá vôi sunfua hóa."}], "k": "sulfurated lime"},
+  {"h": "sulfurated lime", "segs": [{"k": "m", "t": "Đá vôi sunfua hóa."}], "k": "sulfurated lime"},
   {
     "h": "sulfuration",
     "segs": [
@@ -26533,7 +26533,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Là vùng lãnh thổ mà tại đó chỉ tồn tại một luật lệ duy nhất và tuyệt đối là Luật Hồi giáo. Từ \"sultan\" được dùng trong kinh Koran và với những tín đồ truyền thống, Muhammad có nghĩa là \"quyền uy\". Mahmud of Ghazna là người thống trị đầu tiên của Hồi giáo và được khoác cho danh từ Sultan bởi những người quanh ông. Danh xưng đó về sau đã trở thành tên gọi phổ biến cho những người nắm được quyền lực thực sự giống như dưới triều đại Seljuk hoặc Mameluke. Ngoài ra, nó còn được dùng như cách gọi để bày tỏ lòng kính trọng với những người trong hoàng tộc chẳng hạn như khi gọi Hoàng tử hoặc Công chúa dưới thời Ottomans. Danh từ \"sultanate\" được dùng để gọi những Thánh địa Hồi giáo như Thánh địa Dehli (1206-1526), trung tâm của đế chế Mogul tại Ấn Ðộ hoặc Thánh địa Sulu, trung tâm mua bán ở phía Nam Philippines, nó rất thịnh vượng trong giai đoạn từ thế kỷ 16 đến thế kỷ 19."
+        "t": "Là vùng lãnh thổ mà tại đó chỉ tồn tại một luật lệ duy nhất và tuyệt đối là Luật Hồi giáo. Từ \"sultan\" được dùng trong kinh Koran và với những tín đồ truyền thống, Muhammad có nghĩa là \"quyền uy\". Mahmud of Ghazna là người thống trị đầu tiên của Hồi giáo và được khoác cho danh từ Sultan bởi những người quanh ông. Danh xưng đó về sau đã trở thành tên gọi phổ biến cho những người nắm được quyền lực thực sự giống như dưới triều đại Seljuk hoặc Mameluke. Ngoài ra, nó còn được dùng như cách gọi để bày tỏ lòng kính trọng với những người trong hoàng tộc chẳng hạn như khi gọi Hoàng tử hoặc Công chúa dưới thời Ottomans. Danh từ \"sultanate\" được dùng để gọi những Thánh địa Hồi giáo như Thánh địa Dehli (1206-1526), trung tâm của đế chế Mogul tại Ấn Độ hoặc Thánh địa Sulu, trung tâm mua bán ở phía Nam Philippines, nó rất thịnh vượng trong giai đoạn từ thế kỷ 16 đến thế kỷ 19."
       }
     ],
     "k": "sultanate"
@@ -26819,7 +26819,7 @@
       {
         "k": "ex",
         "t": "At the end of the lecture, Dr. Williams summed the important points up:",
-        "vi": "Ðến cuối bài giảng, Tiến sĩ Williams tóm tắt lại những điểm quan trọng."
+        "vi": "Đến cuối bài giảng, Tiến sĩ Williams tóm tắt lại những điểm quan trọng."
       },
       {
         "k": "ex",
@@ -26882,15 +26882,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một hòn đảo rất lớn ở phía Ðông Ấn Ðộ Dương là một phần lãnh thổ của Indonesia nhưng nó lại được tách ra từ bán đảo Malay tạo thành eo biển Malacca và eo biển Sunda nếu nhìn từ Java."
+        "t": "Một hòn đảo rất lớn ở phía Đông Ấn Độ Dương là một phần lãnh thổ của Indonesia nhưng nó lại được tách ra từ bán đảo Malay tạo thành eo biển Malacca và eo biển Sunda nếu nhìn từ Java."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: vùng duyên hải phía Tây trải dài 1.770 km (1.100 dặm) tiếp giáp với những dãy núi lửa bao bọc lấy một hồ nước mặn rất lớn về phía Bắc. Từ sườn núi phía Ðông đổ xuống vô số những con sông chảy xuyên qua các cánh rừng rậm nhiệt đới tạo thành những đầm lầy bao la. Ðất đai rất màu mỡ. Các loại cây cao su, lúa, mía đường, bụi long não, trà và cà phê đều sinh trưởng tốt. Về khoáng sản gồm có các mỏ dầu, mỏ than đá, các vỉa quặng vàng, bạc và trên những hòn đảo nhỏ tách rời có quặng Bô xit và thiếc."
+        "t": "Địa hình: vùng duyên hải phía Tây trải dài 1.770 km (1.100 dặm) tiếp giáp với những dãy núi lửa bao bọc lấy một hồ nước mặn rất lớn về phía Bắc. Từ sườn núi phía Đông đổ xuống vô số những con sông chảy xuyên qua các cánh rừng rậm nhiệt đới tạo thành những đầm lầy bao la. Đất đai rất màu mỡ. Các loại cây cao su, lúa, mía đường, bụi long não, trà và cà phê đều sinh trưởng tốt. Về khoáng sản gồm có các mỏ dầu, mỏ than đá, các vỉa quặng vàng, bạc và trên những hòn đảo nhỏ tách rời có quặng Bô xit và thiếc."
       },
       {
         "k": "m",
-        "t": "Lịch sử: những thương nhân người Ấn Ðộ đã mang đến hòn đảo này đạo Phật và đạo Hindu. Vào thế kỷ đầu tiên sau công nguyên, một quốc gia nhỏ bé đã tượng hình. Khi sự thống trị lâu dài của Srivijaya chấm dứt (1300), Majapahit và Bantam lại tiếp tục nắm giữ phần Nam Sumatra. Cùng thời gian này, đạo Hồi đã đặt chân lên vùng Bắc đảo, sau đó lan rộng khắp Sumatra, sang Malaya và cả những vùng đất Ấn. Năm 1613, thánh địa Acheh cho phép người Anh được thành lập cứ điểm giao thương mua bán. Sau đó, người Hà Lan cũng chiếm giữ một căn cứ cho riêng mình tại Padang ở vùng duyên hải phía Tây và tiến hành hợp nhất Sumatra vào các quốc gia Ðông Ấn thuộc Hà Lan. Một tổ chức vũ trang của những người ly khai đã được thành lập và hoạt động, tổ chức Acheh tự do, đặt căn cứ tại phía Bắc Sumatra."
+        "t": "Lịch sử: những thương nhân người Ấn Độ đã mang đến hòn đảo này đạo Phật và đạo Hindu. Vào thế kỷ đầu tiên sau công nguyên, một quốc gia nhỏ bé đã tượng hình. Khi sự thống trị lâu dài của Srivijaya chấm dứt (1300), Majapahit và Bantam lại tiếp tục nắm giữ phần Nam Sumatra. Cùng thời gian này, đạo Hồi đã đặt chân lên vùng Bắc đảo, sau đó lan rộng khắp Sumatra, sang Malaya và cả những vùng đất Ấn. Năm 1613, thánh địa Acheh cho phép người Anh được thành lập cứ điểm giao thương mua bán. Sau đó, người Hà Lan cũng chiếm giữ một căn cứ cho riêng mình tại Padang ở vùng duyên hải phía Tây và tiến hành hợp nhất Sumatra vào các quốc gia Đông Ấn thuộc Hà Lan. Một tổ chức vũ trang của những người ly khai đã được thành lập và hoạt động, tổ chức Acheh tự do, đặt căn cứ tại phía Bắc Sumatra."
       }
     ],
     "k": "sumatra"
@@ -26925,11 +26925,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những người sống ở miền Nam Mesopotamia vào thiên niên kỷ thứ 4 và thứ 3 trước công nguyên. Ðến năm 3000 trước Công Nguyên, lối sống tập trung lại thành đô thị đã phát triển ở rất nhiều nơi thuộc Sumer như Druk, Eridu, và DR. Người Sumerians được công nhận là đã phát minh ra hệ thống chữ viết hình nêm. Lúc đầu là chữ tượng hình nhưng dần dần trở nên cách điệu hóa. Nhiều câu khắc đơn giản còn tồn tại là minh chứng cho điều này. Chúng được áp dụng rộng rãi ngay lập tức và đã góp phần thúc đẩy sự phát triển của các khu đô thị. Tác phẩm của họ bao gồm những chuyện thần thoại, những bài hát nghi thức thánh ca, và những câu thần chú. Kế đó, họ phát triển sang hệ thống luật pháp, hỗ trợ cho các chính sách đa dạng và các tổ chức kinh tế. Những thành tựu kỹ thuật họ đã đạt được như gắn bánh xe cho các phương tiện giao thông; bàn xoay của thợ gốm; cũng như những đặc trưng kiến trúc hình cột trụ, khung vòm và đỉnh tròn."
+        "t": "Những người sống ở miền Nam Mesopotamia vào thiên niên kỷ thứ 4 và thứ 3 trước công nguyên. Đến năm 3000 trước Công Nguyên, lối sống tập trung lại thành đô thị đã phát triển ở rất nhiều nơi thuộc Sumer như Druk, Eridu, và DR. Người Sumerians được công nhận là đã phát minh ra hệ thống chữ viết hình nêm. Lúc đầu là chữ tượng hình nhưng dần dần trở nên cách điệu hóa. Nhiều câu khắc đơn giản còn tồn tại là minh chứng cho điều này. Chúng được áp dụng rộng rãi ngay lập tức và đã góp phần thúc đẩy sự phát triển của các khu đô thị. Tác phẩm của họ bao gồm những chuyện thần thoại, những bài hát nghi thức thánh ca, và những câu thần chú. Kế đó, họ phát triển sang hệ thống luật pháp, hỗ trợ cho các chính sách đa dạng và các tổ chức kinh tế. Những thành tựu kỹ thuật họ đã đạt được như gắn bánh xe cho các phương tiện giao thông; bàn xoay của thợ gốm; cũng như những đặc trưng kiến trúc hình cột trụ, khung vòm và đỉnh tròn."
       },
       {
         "k": "m",
-        "t": "Ðế quốc Sumer vĩ đại đầu tiên được thiết lập bởi những người Akkad, họ là những người đã xâm chiếm vùng đất này vào khoảng năm 2350 dưới sự lãnh đạo của Sargon. Triều đại do ông sáng lập đã bị tiêu diệt vào khoảng năm 2200. Năm mươi năm sau (2150) vị vua của Ur không những thiết lập lại chủ quyền cho Sumerians mà còn chinh phục cả Akkad. Ðế quốc mới kéo dài cho tới năm 2000 khi áp lực từ những người Elami và Amori lên tới cực điểm cùng với việc chiếm đoạt và tàn phá Ur. Kể từ thời điểm này, Sumerians biến mất khỏi lịch sử, nhưng những ảnh hưởng từ nền văn hóa của họ vẫn tác động lâu dài đến nền văn minh sau này của Mesopotamia."
+        "t": "Đế quốc Sumer vĩ đại đầu tiên được thiết lập bởi những người Akkad, họ là những người đã xâm chiếm vùng đất này vào khoảng năm 2350 dưới sự lãnh đạo của Sargon. Triều đại do ông sáng lập đã bị tiêu diệt vào khoảng năm 2200. Năm mươi năm sau (2150) vị vua của Ur không những thiết lập lại chủ quyền cho Sumerians mà còn chinh phục cả Akkad. Đế quốc mới kéo dài cho tới năm 2000 khi áp lực từ những người Elami và Amori lên tới cực điểm cùng với việc chiếm đoạt và tàn phá Ur. Kể từ thời điểm này, Sumerians biến mất khỏi lịch sử, nhưng những ảnh hưởng từ nền văn hóa của họ vẫn tác động lâu dài đến nền văn minh sau này của Mesopotamia."
       }
     ],
     "k": "sumerians"
@@ -28677,7 +28677,7 @@
       },
       {
         "k": "m",
-        "t": "Solaris chạy trên môi trường SPARC và Intel và sẽ chạy được trên PowerPC. Các hệ nhiều bộ xử lý cũng được hỗ trợ, và Solaris dùng các kỹ thuật đa xử lý đối xứng để khai thác ưu điểm của hệ thống này. Ða luồng (multithreading) cũng được hỗ trợ, cho phép các ứng dụng được chia nhỏ thành các phần được thực hiện đồng thời trong mỗi bộ xử lý."
+        "t": "Solaris chạy trên môi trường SPARC và Intel và sẽ chạy được trên PowerPC. Các hệ nhiều bộ xử lý cũng được hỗ trợ, và Solaris dùng các kỹ thuật đa xử lý đối xứng để khai thác ưu điểm của hệ thống này. Đa luồng (multithreading) cũng được hỗ trợ, cho phép các ứng dụng được chia nhỏ thành các phần được thực hiện đồng thời trong mỗi bộ xử lý."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -28879,7 +28879,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1866-1925). Tôn Dật Tiên là nhà cách mạng Trung quốc. Vào năm 1895, ông đã tổ chức một cuộc khởi nghĩa chống lại triều đại nhà Thanh nhưng không thành công và trốn khỏi đất nước. Năm 1896, ông bị bắt giam một thời gian ngắn ở tòa công sứ Trung Quốc tại Luân Ðôn. Việc phóng thích ông đã được điều đình bởi chính phủ Anh. Vào năm 1905, ông đã vận động thành lập một tổ chức cách mạng trong tầng lớp thượng lưu với tên gọi là Ðồng minh hội tại Tokyo. Ðây chính là thành phần hạt nhân của Quốc dân đảng sau này. Khi cuộc cách mạng Trung quốc bùng nổ năm 1911, Tôn quay lại Trung Quốc và tuyên bố là Tổng thống tạm thời của nước Cộng hòa (1912). Sau đó, ông dứt khoát từ chối những lợi lộc của Viên Thế Khải đưa ra. Không chiêu dụ được ông, Viên quay sang đàn áp Quốc dân đảng (1913). Với sự ủng hộ của những quân phiệt, Tôn rút lui về Quảng Châu và thành lập Nhà nước ly khai. Năm 1923, ông chấp nhận sự giúp đỡ của Nga nhằm tái thiết lập Quốc dân đảng. Từ đó bắt đầu một thời kỳ khó khăn trong quan hệ hợp tác với Ðảng cộng sản Trung Quốc. Ông chết ở Bắc Kinh trong lúc đang cố đàm phán để hợp nhất Chính phủ Trung Quốc. Tam dân chủ nghĩa của Tôn (bao gồm Dân tộc, Dân chủ, Dân sinh) được xem là tư tưởng nền tảng tại Ðài Loan. Ông được tôn vinh như nhà sáng lập đất nước Trung Hoa hiện đại đối với những người theo chủ nghĩa dân tộc và cả những người Cộng sản."
+        "t": "(1866-1925). Tôn Dật Tiên là nhà cách mạng Trung quốc. Vào năm 1895, ông đã tổ chức một cuộc khởi nghĩa chống lại triều đại nhà Thanh nhưng không thành công và trốn khỏi đất nước. Năm 1896, ông bị bắt giam một thời gian ngắn ở tòa công sứ Trung Quốc tại Luân Đôn. Việc phóng thích ông đã được điều đình bởi chính phủ Anh. Vào năm 1905, ông đã vận động thành lập một tổ chức cách mạng trong tầng lớp thượng lưu với tên gọi là Đồng minh hội tại Tokyo. Đây chính là thành phần hạt nhân của Quốc dân đảng sau này. Khi cuộc cách mạng Trung quốc bùng nổ năm 1911, Tôn quay lại Trung Quốc và tuyên bố là Tổng thống tạm thời của nước Cộng hòa (1912). Sau đó, ông dứt khoát từ chối những lợi lộc của Viên Thế Khải đưa ra. Không chiêu dụ được ông, Viên quay sang đàn áp Quốc dân đảng (1913). Với sự ủng hộ của những quân phiệt, Tôn rút lui về Quảng Châu và thành lập Nhà nước ly khai. Năm 1923, ông chấp nhận sự giúp đỡ của Nga nhằm tái thiết lập Quốc dân đảng. Từ đó bắt đầu một thời kỳ khó khăn trong quan hệ hợp tác với Đảng cộng sản Trung Quốc. Ông chết ở Bắc Kinh trong lúc đang cố đàm phán để hợp nhất Chính phủ Trung Quốc. Tam dân chủ nghĩa của Tôn (bao gồm Dân tộc, Dân chủ, Dân sinh) được xem là tư tưởng nền tảng tại Đài Loan. Ông được tôn vinh như nhà sáng lập đất nước Trung Hoa hiện đại đối với những người theo chủ nghĩa dân tộc và cả những người Cộng sản."
       }
     ],
     "k": "sun yat-sen"
@@ -29637,7 +29637,7 @@
       {
         "k": "ex",
         "t": "Sun",
-        "vi": "ngày thứ nhất trong tuần, ngày nghỉ ngơi và cầu nguyện của tín đồ Cơ Ðốc"
+        "vi": "ngày thứ nhất trong tuần, ngày nghỉ ngơi và cầu nguyện của tín đồ Cơ Đốc"
       },
       {"k": "m", "t": "(ngày) Chủ nhật"},
       {"k": "ex", "t": "one's Sunday best", "vi": "quần áo diện"},
@@ -29676,7 +29676,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Nơi dạy cho bọn trẻ những kiến thức tổng quát và tôn giáo chỉ hoạt động vào ngày chủ nhật. Ngôi trường đầu tiên với tên gọi như thế đã được thành lập ở Gloucester năm 1780 bởi nhà báo Robert Raikes nhằm dạy cho trẻ em nghèo (chúng thường phải làm việc suốt tuần) học đọc, viết và kiến thức về kinh thánh. Ý tưởng của Raikes nhanh chóng lan rộng. Ðược sự giúp đỡ to lớn, ngôi trường Chủ nhật ở Luân Ðôn thuộc quốc gia đã được thành lập vào năm 1803. Vào đầu thập niên 1800, hàng trăm ngàn trẻ em đã được vào học tại các trường Chủ nhật. Chúng đã đóng góp một phần quan trọng trong việc giáo dục cơ sở trước khi Luật giáo dục của William Forter được ban hành năm 1870. Tại Mỹ, hoạt động của các trường Chủ nhật phát triển một cách nhanh chóng vào thập niên 1790. Ngôi trường Chủ nhật quốc gia ở Mỹ được thành lập năm 1817 khởi đầu cho quá trình thành lập trường học trên khắp đất nước."
+        "t": "Nơi dạy cho bọn trẻ những kiến thức tổng quát và tôn giáo chỉ hoạt động vào ngày chủ nhật. Ngôi trường đầu tiên với tên gọi như thế đã được thành lập ở Gloucester năm 1780 bởi nhà báo Robert Raikes nhằm dạy cho trẻ em nghèo (chúng thường phải làm việc suốt tuần) học đọc, viết và kiến thức về kinh thánh. Ý tưởng của Raikes nhanh chóng lan rộng. Được sự giúp đỡ to lớn, ngôi trường Chủ nhật ở Luân Đôn thuộc quốc gia đã được thành lập vào năm 1803. Vào đầu thập niên 1800, hàng trăm ngàn trẻ em đã được vào học tại các trường Chủ nhật. Chúng đã đóng góp một phần quan trọng trong việc giáo dục cơ sở trước khi Luật giáo dục của William Forter được ban hành năm 1870. Tại Mỹ, hoạt động của các trường Chủ nhật phát triển một cách nhanh chóng vào thập niên 1790. Ngôi trường Chủ nhật quốc gia ở Mỹ được thành lập năm 1817 khởi đầu cho quá trình thành lập trường học trên khắp đất nước."
       }
     ],
     "k": "sunday school"
@@ -29950,7 +29950,7 @@
   {
     "h": "sunflower cataract",
     "segs": [
-      {"k": "m", "t": "Ðục thể thủy tinh hình hoa hướng dương, đục thể thủy tinh hình hoa quỳ."}
+      {"k": "m", "t": "Đục thể thủy tinh hình hoa hướng dương, đục thể thủy tinh hình hoa quỳ."}
     ],
     "k": "sunflower cataract"
   },
@@ -30279,11 +30279,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tiếng Ả Rập là \"sunna\" có nghĩa là tập tục, truyền thống). Biểu thị cho niềm tin và sự tuân phục vào những lời báo mộng. Nó đối lập với từ Shia (xem thêm Shiites). Hơn 80% người Hồi giáo Sunni tin vào tôn giáo và làm theo những điều Thánh dạy. Các quy tắc thực hành căn bản cho những người hành hương đến Sihah Satta đều được trình bày trong Bộ sưu tầm gồm 6 quyển sách truyền thống nói về đức tin qua những lời giáo huấn của Nhà tiên tri Muhammad. Từ \"sunna\" được dịch theo rất nhiều ngữ nghĩa, chẳng hạn như phong tục; nguyên tắc; cách xử thế... Tóm lại là làm theo lời chỉ bảo của Nhà tiên tri thông qua những ví dụ rõ ràng hoặc những lời xác quyết, những câu diễn giải được xem là chuẩn mực hành động mà các tín đồ Hồi giáo phải tuân theo. Ðó cũng là lý do mà người Hồi giáo dùng kinh Koran làm nguồn cội pháp luật và luân thường đạo lý."
+        "t": "(tiếng Ả Rập là \"sunna\" có nghĩa là tập tục, truyền thống). Biểu thị cho niềm tin và sự tuân phục vào những lời báo mộng. Nó đối lập với từ Shia (xem thêm Shiites). Hơn 80% người Hồi giáo Sunni tin vào tôn giáo và làm theo những điều Thánh dạy. Các quy tắc thực hành căn bản cho những người hành hương đến Sihah Satta đều được trình bày trong Bộ sưu tầm gồm 6 quyển sách truyền thống nói về đức tin qua những lời giáo huấn của Nhà tiên tri Muhammad. Từ \"sunna\" được dịch theo rất nhiều ngữ nghĩa, chẳng hạn như phong tục; nguyên tắc; cách xử thế... Tóm lại là làm theo lời chỉ bảo của Nhà tiên tri thông qua những ví dụ rõ ràng hoặc những lời xác quyết, những câu diễn giải được xem là chuẩn mực hành động mà các tín đồ Hồi giáo phải tuân theo. Đó cũng là lý do mà người Hồi giáo dùng kinh Koran làm nguồn cội pháp luật và luân thường đạo lý."
       },
       {
         "k": "m",
-        "t": "Những người Sunni thừa nhận lời răn dạy được lưu truyền từ bốn đời vua Hồi giáo đầu tiên. Trong khi những người Shias chỉ tin vào những luật lệ được ban hành dưới triều đại Ali, vị vua đời thứ tư. Người Sunni theo học tại 4 ngôi trường luật là Hanafi dành cho khu vực Trung Ðông và Pakistan; Malikite dành cho khu vực Tây và Bắc châu Phi; Shafite cho Ai Cập, Ðông Phi, Malaysia, Indonesia; Hanbalite cho Saudi Arabia."
+        "t": "Những người Sunni thừa nhận lời răn dạy được lưu truyền từ bốn đời vua Hồi giáo đầu tiên. Trong khi những người Shias chỉ tin vào những luật lệ được ban hành dưới triều đại Ali, vị vua đời thứ tư. Người Sunni theo học tại 4 ngôi trường luật là Hanafi dành cho khu vực Trung Đông và Pakistan; Malikite dành cho khu vực Tây và Bắc châu Phi; Shafite cho Ai Cập, Đông Phi, Malaysia, Indonesia; Hanbalite cho Saudi Arabia."
       }
     ],
     "k": "sunni"
@@ -35435,7 +35435,7 @@
   },
   {
     "h": "superficial cardiac plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh tim nông."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh tim nông."}],
     "k": "superficial cardiac plexus"
   },
   {
@@ -35578,7 +35578,7 @@
   },
   {
     "h": "superficial temporal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch thái dương nông."}],
+    "segs": [{"k": "m", "t": "Động mạch thái dương nông."}],
     "k": "superficial temporal artery"
   },
   {
@@ -38119,7 +38119,7 @@
       {"k": "m", "t": "trưởng tu viện"},
       {"k": "m", "t": "bề trên"},
       {"k": "ex", "t": "the Father Superior", "vi": "Cha trưởng tu viện"},
-      {"k": "m", "t": "Ðức cha bề trên."}
+      {"k": "m", "t": "Đức cha bề trên."}
     ],
     "ipa": "su:'piəriə",
     "k": "superior",
@@ -38229,7 +38229,7 @@
   },
   {
     "h": "superior gluteal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch mông trên."}],
+    "segs": [{"k": "m", "t": "Động mạch mông trên."}],
     "k": "superior gluteal artery"
   },
   {
@@ -38240,12 +38240,12 @@
   {"h": "superior goods", "segs": [{"k": "m", "t": "hàng cao cấp."}], "k": "superior goods"},
   {
     "h": "superior hemorrhoidal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch trực tràng trên."}],
+    "segs": [{"k": "m", "t": "Động mạch trực tràng trên."}],
     "k": "superior hemorrhoidal artery"
   },
   {
     "h": "superior labial artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch môi trên."}],
+    "segs": [{"k": "m", "t": "Động mạch môi trên."}],
     "k": "superior labial artery"
   },
   {
@@ -38255,7 +38255,7 @@
   },
   {
     "h": "superior laryngeal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch thanh quản trên."}],
+    "segs": [{"k": "m", "t": "Động mạch thanh quản trên."}],
     "k": "superior laryngeal artery"
   },
   {
@@ -38297,7 +38297,7 @@
   },
   {
     "h": "superior mesenteric artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch mạc treo tràng trên."}],
+    "segs": [{"k": "m", "t": "Động mạch mạc treo tràng trên."}],
     "k": "superior mesenteric artery"
   },
   {
@@ -38308,7 +38308,7 @@
   {"h": "superior monk", "segs": [{"k": "m", "t": "thượng tọa."}], "k": "superior monk"},
   {
     "h": "superior nucheal line",
-    "segs": [{"k": "m", "t": "Ðường cong chẩm trên."}],
+    "segs": [{"k": "m", "t": "Đường cong chẩm trên."}],
     "k": "superior nucheal line"
   },
   {
@@ -38339,7 +38339,7 @@
   },
   {
     "h": "superior pancreaticoduodenal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch tá tụy trên."}],
+    "segs": [{"k": "m", "t": "Động mạch tá tụy trên."}],
     "k": "superior pancreaticoduodenal artery"
   },
   {
@@ -38359,7 +38359,7 @@
   },
   {
     "h": "superior phrenic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch hoành trên."}],
+    "segs": [{"k": "m", "t": "Động mạch hoành trên."}],
     "k": "superior phrenic artery"
   },
   {
@@ -38398,12 +38398,12 @@
   },
   {
     "h": "superior rectal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch trực tràng trên."}],
+    "segs": [{"k": "m", "t": "Động mạch trực tràng trên."}],
     "k": "superior rectal artery"
   },
   {
     "h": "superior rectal plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh trực tràng trên."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh trực tràng trên."}],
     "k": "superior rectal plexus"
   },
   {
@@ -38433,7 +38433,7 @@
   },
   {
     "h": "superior suprarenal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch thượng thận trên."}],
+    "segs": [{"k": "m", "t": "Động mạch thượng thận trên."}],
     "k": "superior suprarenal artery"
   },
   {"h": "superior surface", "segs": [{"k": "m", "t": "Mặt tiền."}], "k": "superior surface"},
@@ -38449,7 +38449,7 @@
   },
   {
     "h": "superior thyroid artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch giáp trên."}],
+    "segs": [{"k": "m", "t": "Động mạch giáp trên."}],
     "k": "superior thyroid artery"
   },
   {
@@ -38490,7 +38490,7 @@
   },
   {
     "h": "superior tympanic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch màng nhĩ trên."}],
+    "segs": [{"k": "m", "t": "Động mạch màng nhĩ trên."}],
     "k": "superior tympanic artery"
   },
   {
@@ -38505,7 +38505,7 @@
   },
   {
     "h": "superior vesical artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch bàng quang trên."}],
+    "segs": [{"k": "m", "t": "Động mạch bàng quang trên."}],
     "k": "superior vesical artery"
   },
   {
@@ -45360,12 +45360,12 @@
       {
         "k": "ex",
         "t": "Sometimes you can find what you want by shopping around and other times almost no store carries the items you are looking for. It depends entirely on supply and demand:",
-        "vi": "Ðôi khi bạn có thể tìm thấy cái bạn muốn bằng cách đi mua sắm ở các cửa hiệu quanh đây và có khi hầu như không có cửa hiệu nào có những món hàng mà bạn đang tìm."
+        "vi": "Đôi khi bạn có thể tìm thấy cái bạn muốn bằng cách đi mua sắm ở các cửa hiệu quanh đây và có khi hầu như không có cửa hiệu nào có những món hàng mà bạn đang tìm."
       },
       {
         "k": "ex",
         "t": "Sometimes customers ask for things we do not carry in stock and other times we have things in abundance that no one wants to buy. Whether or not we can make money off of a product depends entirely on supply and demand:",
-        "vi": "Ðôi khi khách hàng yêu cầu những thứ mà chúng tôi không có trong kho và có khi chúng tôi lại có hàng với số lượng quá dư đến nỗi không ai còn muốn mua nữa. Chúng ta có thể kiếm được tiền hay không từ một sản phẩm còn tùy thuộc hoàn toàn vào vấn đề cung cầu."
+        "vi": "Đôi khi khách hàng yêu cầu những thứ mà chúng tôi không có trong kho và có khi chúng tôi lại có hàng với số lượng quá dư đến nỗi không ai còn muốn mua nữa. Chúng ta có thể kiếm được tiền hay không từ một sản phẩm còn tùy thuộc hoàn toàn vào vấn đề cung cầu."
       }
     ],
     "k": "supply and demand"
@@ -46961,7 +46961,7 @@
       },
       {"k": "m", "t": "(ở thể mệnh lệnh) coi như một lời đề nghị"},
       {"k": "ex", "t": "Suppose we go for a swim!", "vi": "Chúng ta đi bơi nhé!"},
-      {"k": "ex", "t": "Suppose we try another", "vi": "Ðề nghị chúng ta cố một keo nữa"},
+      {"k": "ex", "t": "Suppose we try another", "vi": "Đề nghị chúng ta cố một keo nữa"},
       {"k": "m", "t": "Hay là chúng ta thử một lần nữa"},
       {"k": "m", "t": "đòi hỏi"},
       {"k": "m", "t": "cần có (lý thuyết, kết quả...)"},
@@ -47647,7 +47647,7 @@
   {"h": "supra-lumbar", "segs": [{"k": "m", "t": "trên vùng thắt lưng."}], "k": "supra-lumbar"},
   {
     "h": "supra-orbital neuralgia",
-    "segs": [{"k": "m", "t": "Ðau dây thần kinh trên ổ mắt."}],
+    "segs": [{"k": "m", "t": "Đau dây thần kinh trên ổ mắt."}],
     "k": "supra-orbital neuralgia"
   },
   {"h": "supra-umbilical", "segs": [{"k": "m", "t": "Trên rốn."}], "k": "supra-umbilical"},
@@ -47784,7 +47784,7 @@
   {"h": "supramastoid", "segs": [{"k": "m", "t": "Trên mỏm chũm."}], "k": "supramastoid"},
   {
     "h": "supramastoid crest",
-    "segs": [{"k": "m", "t": "Ðường thái dương của xương trán."}],
+    "segs": [{"k": "m", "t": "Đường thái dương của xương trán."}],
     "k": "supramastoid crest"
   },
   {"h": "supramaxilla", "segs": [{"k": "m", "t": "Hàm trên."}], "k": "supramaxilla"},
@@ -47924,7 +47924,7 @@
   },
   {
     "h": "supraorbital artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch trên ổ mắt."}],
+    "segs": [{"k": "m", "t": "Động mạch trên ổ mắt."}],
     "k": "supraorbital artery"
   },
   {
@@ -47985,7 +47985,7 @@
   {"h": "suprapubic", "segs": [{"k": "m", "t": "Trên khớp mu."}], "k": "suprapubic"},
   {
     "h": "suprapubic incision",
-    "segs": [{"k": "m", "t": "Ðường rạch trên mu."}],
+    "segs": [{"k": "m", "t": "Đường rạch trên mu."}],
     "k": "suprapubic incision"
   },
   {
@@ -48058,7 +48058,7 @@
   {"h": "suprascapular", "segs": [{"k": "m", "t": "Xương bả vai."}], "k": "suprascapular"},
   {
     "h": "suprascapular artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch trên vai."}],
+    "segs": [{"k": "m", "t": "Động mạch trên vai."}],
     "k": "suprascapular artery"
   },
   {
@@ -48151,7 +48151,7 @@
   {"h": "supratrochlear", "segs": [{"k": "m", "t": "Trên ròng rọc."}], "k": "supratrochlear"},
   {
     "h": "supratrochlear artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch trán trong."}],
+    "segs": [{"k": "m", "t": "Động mạch trán trong."}],
     "k": "supratrochlear artery"
   },
   {
@@ -48316,7 +48316,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "("},
       {"k": "ex", "t": "the Supreme Being", "vi": ") Chúa"},
-      {"k": "m", "t": "Thượng Ðế."}
+      {"k": "m", "t": "Thượng Đế."}
     ],
     "ipa": "su:'pri:m'bi:iŋ",
     "k": "supreme being"
@@ -48348,7 +48348,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tòa án tối cao Liên bang. Một hình thái cao nhất trong hệ thống luật pháp của nước Mỹ. Ðược thành lập theo điều III của Hiến pháp Mỹ và được xem như một nhánh thứ 3 của Chính phủ. Nó hoàn toàn độc lập với các cơ quan Lập pháp và Hành pháp. Tòa án tối cao liên bang đã trở thành cơ quan duy nhất giải thích và vận dụng Hiến pháp. Các thành viên được bổ nhiệm bởi Tổng thống thông qua sự đề cử và tín nhiệm của Thượng nghị viện. Giai đoạn từ năm 1789 đến năm 1869, số thành viên của Tòa án tối cao thay đổi từ 5 đến 10 người nhưng từ năm 1869, nó được duy trì ở mức 9 thành viên. Vào giai đoạn đầu mới thành lập, Tòa án tối cao có nhiệm vụ xem xét liệu các điều luật thông qua sự phê chuẩn của Quốc hội hoặc do các cơ quan Lập pháp quốc gia ban hành đã tuân thủ đúng theo Hiến pháp hay không. Tuy nhiên, nó cũng chỉ có thể can thiệp khi có những vụ kiện cụ thể rõ ràng phát sinh do mâu thuẫn giữa luật và Hiến pháp. Quyết định của Tòa án tối cao đóng vai trò trung tâm trong việc phát triển hệ thống chính trị ở Mỹ. Nó không chỉ nhằm cân bằng quyền lực cho cả hai cơ quan Lập pháp và Hành pháp; giữa những tiểu bang và chính phủ liên bang mà còn liên quan đến quá trình tiến hóa của xã hội, kinh tế và những chính sách hợp pháp."
+        "t": "Tòa án tối cao Liên bang. Một hình thái cao nhất trong hệ thống luật pháp của nước Mỹ. Được thành lập theo điều III của Hiến pháp Mỹ và được xem như một nhánh thứ 3 của Chính phủ. Nó hoàn toàn độc lập với các cơ quan Lập pháp và Hành pháp. Tòa án tối cao liên bang đã trở thành cơ quan duy nhất giải thích và vận dụng Hiến pháp. Các thành viên được bổ nhiệm bởi Tổng thống thông qua sự đề cử và tín nhiệm của Thượng nghị viện. Giai đoạn từ năm 1789 đến năm 1869, số thành viên của Tòa án tối cao thay đổi từ 5 đến 10 người nhưng từ năm 1869, nó được duy trì ở mức 9 thành viên. Vào giai đoạn đầu mới thành lập, Tòa án tối cao có nhiệm vụ xem xét liệu các điều luật thông qua sự phê chuẩn của Quốc hội hoặc do các cơ quan Lập pháp quốc gia ban hành đã tuân thủ đúng theo Hiến pháp hay không. Tuy nhiên, nó cũng chỉ có thể can thiệp khi có những vụ kiện cụ thể rõ ràng phát sinh do mâu thuẫn giữa luật và Hiến pháp. Quyết định của Tòa án tối cao đóng vai trò trung tâm trong việc phát triển hệ thống chính trị ở Mỹ. Nó không chỉ nhằm cân bằng quyền lực cho cả hai cơ quan Lập pháp và Hành pháp; giữa những tiểu bang và chính phủ liên bang mà còn liên quan đến quá trình tiến hóa của xã hội, kinh tế và những chính sách hợp pháp."
       }
     ],
     "k": "supreme court"
@@ -48523,7 +48523,7 @@
   },
   {
     "h": "surah",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "lụa xura, lụa chéo Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "lụa xura, lụa chéo Ấn Độ."}],
     "ipa": "'sɔ:rə",
     "k": "surah"
   },
@@ -48549,7 +48549,7 @@
     "ipa": "'sɔ:rəl",
     "k": "sural"
   },
-  {"h": "sural artery", "segs": [{"k": "m", "t": "Ðộng mạch bắp chân."}], "k": "sural artery"},
+  {"h": "sural artery", "segs": [{"k": "m", "t": "Động mạch bắp chân."}], "k": "sural artery"},
   {"h": "sural nerve", "segs": [{"k": "m", "t": "Dây thần kinh hiển ngoài."}], "k": "sural nerve"},
   {"h": "suralimentation", "segs": [{"k": "m", "t": "ăn quá mức."}], "k": "suralimentation"},
   {
@@ -48697,7 +48697,7 @@
   },
   {"h": "surd number", "segs": [{"k": "m", "t": "số vô tỉ."}], "k": "surd number"},
   {"h": "surd root", "segs": [{"k": "m", "t": "nghiệm vô tỷ."}], "k": "surd root"},
-  {"h": "surdimute", "segs": [{"k": "m", "t": "Ðiếc câm."}], "k": "surdimute"},
+  {"h": "surdimute", "segs": [{"k": "m", "t": "Điếc câm."}], "k": "surdimute"},
   {"h": "surdimutism", "segs": [{"k": "m", "t": "Tật điếc câm."}], "k": "surdimutism"},
   {"h": "surditas", "segs": [{"k": "m", "t": "(chứng) điếc."}], "k": "surditas"},
   {
@@ -52109,7 +52109,7 @@
   },
   {
     "h": "surgical treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị ngoại khoa."}],
+    "segs": [{"k": "m", "t": "Điều trị ngoại khoa."}],
     "k": "surgical treatment"
   },
   {
@@ -52176,11 +52176,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một quốc gia nằm ở vùng bờ biển Ðông Bắc của Nam Mỹ là lãnh địa của người Hà Lan cho đến năm 1948."
+        "t": "Một quốc gia nằm ở vùng bờ biển Đông Bắc của Nam Mỹ là lãnh địa của người Hà Lan cho đến năm 1948."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Surinam bị kẹp giữa Guyana và lãnh địa của nước Pháp, phía Nam giáp với Brazil. Nó có khí hậu xích đạo, nóng và ẩm ướt. Rừng rậm che phủ gần như toàn bộ lãnh thổ. Phần trung tâm là một cao nguyên. Lúa gạo và mía đường được trồng ở vùng duyên hải."
+        "t": "Địa hình: Surinam bị kẹp giữa Guyana và lãnh địa của nước Pháp, phía Nam giáp với Brazil. Nó có khí hậu xích đạo, nóng và ẩm ướt. Rừng rậm che phủ gần như toàn bộ lãnh thổ. Phần trung tâm là một cao nguyên. Lúa gạo và mía đường được trồng ở vùng duyên hải."
       },
       {
         "k": "m",
@@ -52188,7 +52188,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Surinam xuất phát từ tên của những người dân cư trú đầu tiên tại đây, bộ tộc Surinen. Họ bị xua đuổi ra khỏi đất đai của mình bởi những người Ấn Ðộ ở Nam Mỹ vào thời điểm người Châu Âu xuất hiện. Surinam bị người Tây Ban Nha giành lấy năm 1593. Sau đó, bị Hà Lan chiếm làm thuộc địa từ đầu thế kỷ 17. Lãnh thổ luân phiên bị kiểm soát giữa Anh và Hà Lan cho tới khi Netherlands nhận nó trong Hiệp ước hòa giải năm 1815. Vào thế kỷ 17, những người nô lệ Châu Phi đã bắt đầu được nhập khẩu. Ðến cuối thế kỷ 19, lao động đồn điền được bổ sung từ Ấn Ðộ và Java. Việc đa dạng sắc tộc ở Surinam đã dẫn tới việc gia tăng tính đặc trưng chủng tộc hình thành nên những cuộc xung đột chính trị gay gắt sau chiến tranh thế giới thứ II. Năm 1954, Surinam đã trở thành một đối tác cân bằng trong vương quốc Netherlands, và hoàn toàn độc lập vào năm 1975. Sau nhiều năm tranh chấp giữa các đảng phái, năm 1980, quân đội đã nắm được quyền hành. Vào năm 1986, việc mở rộng chiến tranh du kích được phát động bởi Quân đội giải phóng Surinamese (SLA) với căn cứ được thành lập từ vùng rừng nhiệt đới của nước láng giềng Pháp Guyana. Mặc dù chính quyền dân sự đã được phục hồi bằng cuộc bầu cử năm 1988, quân đội vẫn có ảnh hưởng rất lớn. Năm 1990, một cuộc đảo chính quân sự mới lại tái diễn. Tuy nhiên, các đảng đối lập đã liên minh với nhau năm 1991 thành lập nên New Front vì mục tiêu dân chủ và sự phát triển của đất nước do Ronald Venetiaan dẫn đầu đã thắng cử. Một hiệp ước hòa bình với SLA được ký vào năm 1992. Dù vậy, nạn buôn lậu ma túy, súng đạn và rửa tiền, tất cả vẫn còn là một vấn đề nan giải. Năm 1996, Venetiaan kế nghiệp Jules Wijdenbosch với tư cách là một vị Tổng Thống."
+        "t": "Lịch sử: Surinam xuất phát từ tên của những người dân cư trú đầu tiên tại đây, bộ tộc Surinen. Họ bị xua đuổi ra khỏi đất đai của mình bởi những người Ấn Độ ở Nam Mỹ vào thời điểm người Châu Âu xuất hiện. Surinam bị người Tây Ban Nha giành lấy năm 1593. Sau đó, bị Hà Lan chiếm làm thuộc địa từ đầu thế kỷ 17. Lãnh thổ luân phiên bị kiểm soát giữa Anh và Hà Lan cho tới khi Netherlands nhận nó trong Hiệp ước hòa giải năm 1815. Vào thế kỷ 17, những người nô lệ Châu Phi đã bắt đầu được nhập khẩu. Đến cuối thế kỷ 19, lao động đồn điền được bổ sung từ Ấn Độ và Java. Việc đa dạng sắc tộc ở Surinam đã dẫn tới việc gia tăng tính đặc trưng chủng tộc hình thành nên những cuộc xung đột chính trị gay gắt sau chiến tranh thế giới thứ II. Năm 1954, Surinam đã trở thành một đối tác cân bằng trong vương quốc Netherlands, và hoàn toàn độc lập vào năm 1975. Sau nhiều năm tranh chấp giữa các đảng phái, năm 1980, quân đội đã nắm được quyền hành. Vào năm 1986, việc mở rộng chiến tranh du kích được phát động bởi Quân đội giải phóng Surinamese (SLA) với căn cứ được thành lập từ vùng rừng nhiệt đới của nước láng giềng Pháp Guyana. Mặc dù chính quyền dân sự đã được phục hồi bằng cuộc bầu cử năm 1988, quân đội vẫn có ảnh hưởng rất lớn. Năm 1990, một cuộc đảo chính quân sự mới lại tái diễn. Tuy nhiên, các đảng đối lập đã liên minh với nhau năm 1991 thành lập nên New Front vì mục tiêu dân chủ và sự phát triển của đất nước do Ronald Venetiaan dẫn đầu đã thắng cử. Một hiệp ước hòa bình với SLA được ký vào năm 1992. Dù vậy, nạn buôn lậu ma túy, súng đạn và rửa tiền, tất cả vẫn còn là một vấn đề nan giải. Năm 1996, Venetiaan kế nghiệp Jules Wijdenbosch với tư cách là một vị Tổng Thống."
       },
       {"k": "m", "t": "Thủ đô: Paramaribo."},
       {"k": "m", "t": "Diện tích: 163.820 km2"},
@@ -52196,15 +52196,15 @@
       {"k": "m", "t": "Tiền tệ: 1 đồng gunđơn Surinam = 100 xu."},
       {
         "k": "m",
-        "t": "Tôn giáo: Hindu (Ấn Ðộ) 27%; Thiên Chúa Giáo La Mã 23%, đạo Hồi 20%; Tin Lành (đa số là Moravian) 19%."
+        "t": "Tôn giáo: Hindu (Ấn Độ) 27%; Thiên Chúa Giáo La Mã 23%, đạo Hồi 20%; Tin Lành (đa số là Moravian) 19%."
       },
       {
         "k": "m",
-        "t": "Sắc tộc: Ðông Ấn 35%; lai da đen 32%; Indonesian 15%; Châu Phi (da đen) 10%; Mỹ Ấn 3%; Trung quốc 3%; Châu Âu 1%."
+        "t": "Sắc tộc: Đông Ấn 35%; lai da đen 32%; Indonesian 15%; Châu Phi (da đen) 10%; Mỹ Ấn 3%; Trung quốc 3%; Châu Âu 1%."
       },
       {
         "k": "m",
-        "t": "Ngôn ngữ: Hà Lan (chính); Anh; Sronan Tongo; Tây Ban Nha; tiếng Hin-đi (Ấn Ðộ); Javanese: tiếng Hoa; tiếng Mỹ Ấn địa phương."
+        "t": "Ngôn ngữ: Hà Lan (chính); Anh; Sronan Tongo; Tây Ban Nha; tiếng Hin-đi (Ấn Độ); Javanese: tiếng Hoa; tiếng Mỹ Ấn địa phương."
       },
       {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc, Tổ chức các nước Châu Mỹ."}
     ],
@@ -52771,7 +52771,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đơn vị chi tiêu thặng dư. Một người hay tổ chức có dòng thu nhập tiền mặt nhiều hơn so với chi cho tiêu dùng và cho đầu tư sản xuất kinh doanh trong một thời đoạn. Khi đó, thặng dư được phân bổ vào khu vực tài chính. Các thuật ngữ khác để chỉ đơn vị thặng dư là người tiết kiệm, người cho vay, người mua tài sản tài chính, nhà đầu tư tài chính, người cung ứng vốn vay, người mua chứng khoán. Ðơn vị thặng dư có thể mua tài sản tài chính, giữ nhiều tiền hơn, hoàn trả các nghĩa vụ nợ tài chính trước kia, khi họ từng lâm vào tình trạng thâm hụt."
+        "t": "đơn vị chi tiêu thặng dư. Một người hay tổ chức có dòng thu nhập tiền mặt nhiều hơn so với chi cho tiêu dùng và cho đầu tư sản xuất kinh doanh trong một thời đoạn. Khi đó, thặng dư được phân bổ vào khu vực tài chính. Các thuật ngữ khác để chỉ đơn vị thặng dư là người tiết kiệm, người cho vay, người mua tài sản tài chính, nhà đầu tư tài chính, người cung ứng vốn vay, người mua chứng khoán. Đơn vị thặng dư có thể mua tài sản tài chính, giữ nhiều tiền hơn, hoàn trả các nghĩa vụ nợ tài chính trước kia, khi họ từng lâm vào tình trạng thâm hụt."
       }
     ],
     "k": "surplus spending unit"
@@ -53513,7 +53513,7 @@
   },
   {
     "h": "sursumvergence",
-    "segs": [{"k": "m", "t": "Ðộng tác đưa lên trên."}],
+    "segs": [{"k": "m", "t": "Động tác đưa lên trên."}],
     "k": "sursumvergence"
   },
   {
@@ -54608,7 +54608,7 @@
   {"h": "sushi bond", "segs": [{"k": "m", "t": "trái phiếu suhi."}], "k": "sushi bond"},
   {
     "h": "susi",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "vải sọc (Ấn Ðộ)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "vải sọc (Ấn Độ)."}],
     "ipa": "'su:si",
     "k": "susi"
   },
@@ -55645,7 +55645,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đình chỉ điều tra. Chấm dứt điều tra vụ án hoặc đối với bị can. Trong trường hợp sau đây cơ quan điều tra ra quyết định đình chỉ điều tra.-Có một trong những căn cứ không được khởi tố vụ án hình sự quy định tại Ðiều 89 Bộ luật tố tụng hình sự.-Ðã hết thời hạn điều tra (quy định tại Ðiều 97, Bộ luật tố tụng hình sự) mà không chứng minh được bị can đã thực hiện tội phạm. Trường hợp vụ án có nhiều bị can mà căn cứ đình chỉ điều tra không liên quan đến tất cả bị can thì có thể đình chỉ điều tra với riêng bị can được đình chỉ điều tra."
+        "t": "đình chỉ điều tra. Chấm dứt điều tra vụ án hoặc đối với bị can. Trong trường hợp sau đây cơ quan điều tra ra quyết định đình chỉ điều tra.-Có một trong những căn cứ không được khởi tố vụ án hình sự quy định tại Điều 89 Bộ luật tố tụng hình sự.-Đã hết thời hạn điều tra (quy định tại Điều 97, Bộ luật tố tụng hình sự) mà không chứng minh được bị can đã thực hiện tội phạm. Trường hợp vụ án có nhiều bị can mà căn cứ đình chỉ điều tra không liên quan đến tất cả bị can thì có thể đình chỉ điều tra với riêng bị can được đình chỉ điều tra."
       }
     ],
     "k": "suspension of investigation"
@@ -56630,7 +56630,7 @@
   {"h": "sutho", "segs": [{"k": "m", "t": "Bệnh phong (ở Triều Tiên)."}], "k": "sutho"},
   {
     "h": "sutika",
-    "segs": [{"k": "m", "t": "Bệnh, sutika (bệnh thiếu rnáu của thai phụ Ấn Ðộ)."}],
+    "segs": [{"k": "m", "t": "Bệnh, sutika (bệnh thiếu rnáu của thai phụ Ấn Độ)."}],
     "k": "sutika"
   },
   {
@@ -56662,7 +56662,7 @@
     "h": "suttee",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người đàn bà tự thiêu chết theo chồng (Ấn Ðộ)"},
+      {"k": "m", "t": "người đàn bà tự thiêu chết theo chồng (Ấn Độ)"},
       {"k": "m", "t": "tục tự thiêu chết theo chồng."}
     ],
     "ipa": "'sʌti:",
@@ -56697,81 +56697,81 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một di chỉ khảo cổ quan trọng về người Anglo-Saxon tại Suffolk nước Anh, một nơi bị che khuất ở cửa sông Deben. Năm 1939, một chiếc thuyền an táng nguy nga tráng lệ đã được phát hiện tại đây. Nó có thể là nơi yên nghỉ của vua Raedwald xứ Ðông Anglia (năm 624). Không một thi thể nào được tìm thấy. Ðiều này được giải thích rằng chúng đã bị phá hủy bởi môi trường axit có trong cát. Ngôi mộ là toàn bộ con thuyền có chiều dài 24,3m (80 bộ) và chiều ngang là 4,2m (14 bộ) tại khoang rộng nhất. Nó được đẩy bởi 38 tay chèo. Trên thuyền có các vật dụng như muỗng, chén của La Mã cổ đại; vũ khí của Thụy Ðiển; chén của Ai Cập; ngọc ngà châu báu của xứ Ðông Anglia và một túi có 40 đồng vàng thời Merovingian Gaul. Sự đa dạng trên đã khiến nó trở thành một di chỉ khảo cổ đồ sộ và độc nhất tại Tây Âu."
+        "t": "Một di chỉ khảo cổ quan trọng về người Anglo-Saxon tại Suffolk nước Anh, một nơi bị che khuất ở cửa sông Deben. Năm 1939, một chiếc thuyền an táng nguy nga tráng lệ đã được phát hiện tại đây. Nó có thể là nơi yên nghỉ của vua Raedwald xứ Đông Anglia (năm 624). Không một thi thể nào được tìm thấy. Điều này được giải thích rằng chúng đã bị phá hủy bởi môi trường axit có trong cát. Ngôi mộ là toàn bộ con thuyền có chiều dài 24,3m (80 bộ) và chiều ngang là 4,2m (14 bộ) tại khoang rộng nhất. Nó được đẩy bởi 38 tay chèo. Trên thuyền có các vật dụng như muỗng, chén của La Mã cổ đại; vũ khí của Thụy Điển; chén của Ai Cập; ngọc ngà châu báu của xứ Đông Anglia và một túi có 40 đồng vàng thời Merovingian Gaul. Sự đa dạng trên đã khiến nó trở thành một di chỉ khảo cổ đồ sộ và độc nhất tại Tây Âu."
       }
     ],
     "k": "sutton hoo"
   },
-  {"h": "sutura", "segs": [{"k": "m", "t": "Ðường khớp."}], "k": "sutura"},
+  {"h": "sutura", "segs": [{"k": "m", "t": "Đường khớp."}], "k": "sutura"},
   {
     "h": "sutura coronalis",
-    "segs": [{"k": "m", "t": "Ðường khớp vành, đường khớp trán-đỉnh."}],
+    "segs": [{"k": "m", "t": "Đường khớp vành, đường khớp trán-đỉnh."}],
     "k": "sutura coronalis"
   },
   {
     "h": "sutura ethmoideomaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp sàng-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp sàng-hàm."}],
     "k": "sutura ethmoideomaxillaris"
   },
-  {"h": "sutura frontalis", "segs": [{"k": "m", "t": "Ðường khớp trán."}], "k": "sutura frontalis"},
+  {"h": "sutura frontalis", "segs": [{"k": "m", "t": "Đường khớp trán."}], "k": "sutura frontalis"},
   {
     "h": "sutura frontoethmoidalis",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-sàng."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-sàng."}],
     "k": "sutura frontoethmoidalis"
   },
   {
     "h": "sutura frontolacrimalis",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-lệ."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-lệ."}],
     "k": "sutura frontolacrimalis"
   },
   {
     "h": "sutura frontomaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-hàm."}],
     "k": "sutura frontomaxillaris"
   },
   {
     "h": "sutura frontonasalis",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-mũi."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-mũi."}],
     "k": "sutura frontonasalis"
   },
   {
     "h": "sutura frontozygomatica",
-    "segs": [{"k": "m", "t": "Ðường khớp trán-gò má."}],
+    "segs": [{"k": "m", "t": "Đường khớp trán-gò má."}],
     "k": "sutura frontozygomatica"
   },
   {
     "h": "sutura harmonia",
-    "segs": [{"k": "m", "t": "Ðường khớp nhịp nhàng, đường khớp phẳng."}],
+    "segs": [{"k": "m", "t": "Đường khớp nhịp nhàng, đường khớp phẳng."}],
     "k": "sutura harmonia"
   },
   {
     "h": "sutura incisiva",
-    "segs": [{"k": "m", "t": "Ðường khớp răng cửa."}],
+    "segs": [{"k": "m", "t": "Đường khớp răng cửa."}],
     "k": "sutura incisiva"
   },
   {
     "h": "sutura infraorbitalis",
-    "segs": [{"k": "m", "t": "Ðường khớp dưới ổ mắt, đường khớp dưới hốc mắt."}],
+    "segs": [{"k": "m", "t": "Đường khớp dưới ổ mắt, đường khớp dưới hốc mắt."}],
     "k": "sutura infraorbitalis"
   },
   {
     "h": "sutura intermaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp gian hàm trên."}],
+    "segs": [{"k": "m", "t": "Đường khớp gian hàm trên."}],
     "k": "sutura intermaxillaris"
   },
   {
     "h": "sutura internasalis",
-    "segs": [{"k": "m", "t": "Ðường khớp gian xương mũi."}],
+    "segs": [{"k": "m", "t": "Đường khớp gian xương mũi."}],
     "k": "sutura internasalis"
   },
   {
     "h": "sutura lacrimoconchalis",
-    "segs": [{"k": "m", "t": "Ðường khớp lệ-xoăn."}],
+    "segs": [{"k": "m", "t": "Đường khớp lệ-xoăn."}],
     "k": "sutura lacrimoconchalis"
   },
   {
     "h": "sutura lacrimomaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp lệ-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp lệ-hàm."}],
     "k": "sutura lacrimomaxillaris"
   },
   {
@@ -56781,45 +56781,45 @@
   },
   {
     "h": "sutura nasomaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp mũi-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp mũi-hàm."}],
     "k": "sutura nasomaxillaris"
   },
   {
     "h": "sutura occipitomastoidea",
-    "segs": [{"k": "m", "t": "Ðường khớp chẩm-chũm."}],
+    "segs": [{"k": "m", "t": "Đường khớp chẩm-chũm."}],
     "k": "sutura occipitomastoidea"
   },
   {
     "h": "sutura palatina mediana",
-    "segs": [{"k": "m", "t": "Ðường khớp khẩu cái giữa."}],
+    "segs": [{"k": "m", "t": "Đường khớp khẩu cái giữa."}],
     "k": "sutura palatina mediana"
   },
   {
     "h": "sutura palatoethmoidalis",
-    "segs": [{"k": "m", "t": "Ðường khớp khẩu cái-sàng."}],
+    "segs": [{"k": "m", "t": "Đường khớp khẩu cái-sàng."}],
     "k": "sutura palatoethmoidalis"
   },
   {
     "h": "sutura palatomaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp khẩu cái-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp khẩu cái-hàm."}],
     "k": "sutura palatomaxillaris"
   },
   {
     "h": "sutura parietomastoidea",
-    "segs": [{"k": "m", "t": "Ðường khớp đỉnh-chũm."}],
+    "segs": [{"k": "m", "t": "Đường khớp đỉnh-chũm."}],
     "k": "sutura parietomastoidea"
   },
-  {"h": "sutura plana", "segs": [{"k": "m", "t": "Ðường khớp phẳng."}], "k": "sutura plana"},
-  {"h": "sutura sagittalis", "segs": [{"k": "m", "t": "Ðường khớp dọc."}], "k": "sutura sagittalis"},
+  {"h": "sutura plana", "segs": [{"k": "m", "t": "Đường khớp phẳng."}], "k": "sutura plana"},
+  {"h": "sutura sagittalis", "segs": [{"k": "m", "t": "Đường khớp dọc."}], "k": "sutura sagittalis"},
   {
     "h": "sutura scrirata",
     "segs": [{"k": "m", "t": "đường khớp răng cưa."}],
     "k": "sutura scrirata"
   },
-  {"h": "sutura serrata", "segs": [{"k": "m", "t": "Ðường khớp răng cưa."}], "k": "sutura serrata"},
+  {"h": "sutura serrata", "segs": [{"k": "m", "t": "Đường khớp răng cưa."}], "k": "sutura serrata"},
   {
     "h": "sutura sphenoethmoidalis",
-    "segs": [{"k": "m", "t": "Ðường khớp bướm-sàng."}],
+    "segs": [{"k": "m", "t": "Đường khớp bướm-sàng."}],
     "k": "sutura sphenoethmoidalis"
   },
   {
@@ -56829,17 +56829,17 @@
   },
   {
     "h": "sutura sphenomaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp bướm-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp bướm-hàm."}],
     "k": "sutura sphenomaxillaris"
   },
   {
     "h": "sutura sphenoparietalis",
-    "segs": [{"k": "m", "t": "Ðường khớp bướm-đỉnh."}],
+    "segs": [{"k": "m", "t": "Đường khớp bướm-đỉnh."}],
     "k": "sutura sphenoparietalis"
   },
   {
     "h": "sutura sphenosquamosa",
-    "segs": [{"k": "m", "t": "Ðường khớp bướm-trai."}],
+    "segs": [{"k": "m", "t": "Đường khớp bướm-trai."}],
     "k": "sutura sphenosquamosa"
   },
   {
@@ -56849,26 +56849,26 @@
   },
   {
     "h": "sutura sphenozygomatica",
-    "segs": [{"k": "m", "t": "Ðường khớp bướm-gò má."}],
+    "segs": [{"k": "m", "t": "Đường khớp bướm-gò má."}],
     "k": "sutura sphenozygomatica"
   },
-  {"h": "sutura squamosa", "segs": [{"k": "m", "t": "Ðường khớp trai."}], "k": "sutura squamosa"},
+  {"h": "sutura squamosa", "segs": [{"k": "m", "t": "Đường khớp trai."}], "k": "sutura squamosa"},
   {
     "h": "sutura squamosomastoidea",
-    "segs": [{"k": "m", "t": "Ðường khớp trai chũm."}],
+    "segs": [{"k": "m", "t": "Đường khớp trai chũm."}],
     "k": "sutura squamosomastoidea"
   },
   {
     "h": "sutura temporozygomatica",
-    "segs": [{"k": "m", "t": "Ðường khớp thái dương gò má."}],
+    "segs": [{"k": "m", "t": "Đường khớp thái dương gò má."}],
     "k": "sutura temporozygomatica"
   },
   {
     "h": "sutura zygomaticomaxillaris",
-    "segs": [{"k": "m", "t": "Ðường khớp gò má-hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp gò má-hàm."}],
     "k": "sutura zygomaticomaxillaris"
   },
-  {"h": "suturae crani", "segs": [{"k": "m", "t": "Ðường khớp sọ."}], "k": "suturae crani"},
+  {"h": "suturae crani", "segs": [{"k": "m", "t": "Đường khớp sọ."}], "k": "suturae crani"},
   {
     "h": "sutural",
     "segs": [
@@ -56918,7 +56918,7 @@
   },
   {
     "h": "suture sphenotemporal",
-    "segs": [{"k": "m", "t": "Ðường khớp bướm trai."}],
+    "segs": [{"k": "m", "t": "Đường khớp bướm trai."}],
     "k": "suture sphenotemporal"
   },
   {

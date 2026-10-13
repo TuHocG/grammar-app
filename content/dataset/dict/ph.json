@@ -470,12 +470,12 @@
   },
   {
     "h": "phalanges digitorum manus",
-    "segs": [{"k": "m", "t": "Ðốt ngón tay."}],
+    "segs": [{"k": "m", "t": "Đốt ngón tay."}],
     "k": "phalanges digitorum manus"
   },
   {
     "h": "phalanges digitorum pedis",
-    "segs": [{"k": "m", "t": "Ðốt ngón chân."}],
+    "segs": [{"k": "m", "t": "Đốt ngón chân."}],
     "k": "phalanges digitorum pedis"
   },
   {
@@ -483,7 +483,7 @@
     "segs": [{"k": "m", "t": "thủ thuật cắt bỏ đốt ngón."}],
     "k": "phalangetomy"
   },
-  {"h": "phalangette", "segs": [{"k": "m", "t": "Ðốt cuối của ngón."}], "k": "phalangette"},
+  {"h": "phalangette", "segs": [{"k": "m", "t": "Đốt cuối của ngón."}], "k": "phalangette"},
   {"h": "phalangitis", "segs": [{"k": "m", "t": "Viêm đốt ngón."}], "k": "phalangitis"},
   {
     "h": "phalangization",
@@ -542,7 +542,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một chiến thuật dàn quân của bộ binh vũ trang, trong một đội hình khép kín. Ðội hình phalanx được phát triển ở thời Hy Lạp cổ đại và thường áp dụng đối với bộ binh trang bị vũ khí hạng nặng. Các đội hình phalanx gồm lính bộ binh với vũ khí thương giáo kết hợp thật chặt chẽ là một phần rất quan trọng của quân đội dưới thời vua Philip II và Alexander Ðại đế. Nó được ví như mũi nhọn phòng thủ chống lại sự tấn công của kỵ binh. Giáo được kéo dài từ 4 đến 6.5 m (13 đến 21 feet) vào thế kỷ 2 trước công nguyên. Ðiều này hạn chế tính linh hoạt của đội phalanx. Nó trở nên rất khó để kết hợp các quân đoàn La Mã linh hoạt và Hy Lạp đã bị đánh bại ở Cynoscephalae (196 trước công nguyên), Magnesia (189), and Pydna (168)."
+        "t": "Một chiến thuật dàn quân của bộ binh vũ trang, trong một đội hình khép kín. Đội hình phalanx được phát triển ở thời Hy Lạp cổ đại và thường áp dụng đối với bộ binh trang bị vũ khí hạng nặng. Các đội hình phalanx gồm lính bộ binh với vũ khí thương giáo kết hợp thật chặt chẽ là một phần rất quan trọng của quân đội dưới thời vua Philip II và Alexander Đại đế. Nó được ví như mũi nhọn phòng thủ chống lại sự tấn công của kỵ binh. Giáo được kéo dài từ 4 đến 6.5 m (13 đến 21 feet) vào thế kỷ 2 trước công nguyên. Điều này hạn chế tính linh hoạt của đội phalanx. Nó trở nên rất khó để kết hợp các quân đoàn La Mã linh hoạt và Hy Lạp đã bị đánh bại ở Cynoscephalae (196 trước công nguyên), Magnesia (189), and Pydna (168)."
       }
     ],
     "k": "phalanx"
@@ -1102,7 +1102,7 @@
     "k": "phantom income"
   },
   {"h": "phantom limb", "segs": [{"k": "m", "t": "Chi ảo."}], "k": "phantom limb"},
-  {"h": "phantom limb pain", "segs": [{"k": "m", "t": "Ðau chi ảo."}], "k": "phantom limb pain"},
+  {"h": "phantom limb pain", "segs": [{"k": "m", "t": "Đau chi ảo."}], "k": "phantom limb pain"},
   {
     "h": "phantom lines",
     "segs": [
@@ -1284,7 +1284,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thành viên thuộc đảng phái tôn giáo ở Israel cổ đại. Họ được đánh giá cao bởi sự tuân thủ nghiêm ngặt tất cả các điều luật Do Thái. Họ có xu hướng cách ly với những người Do Thái khác và đối lập với Chúa Jesus. Lòng từ bi của họ lại chênh lệch so với các giới luật nghiêm ngặt. Ðiều này được dẫn chứng rõ ràng trong phúc âm Kinh thánh. Họ liên tục có ảnh hưởng to lớn trên cộng đồng người Do Thái. Họ ngày càng nổi tiếng hơn cả những người Sadducee quý tộc, thủ cựu. Họ cũng có ảnh hưởng đối với sự phát triển của đạo Do Thái sau sự kiện Thánh đường thứ hai của Jerusalem bị hủy diệt năm 70 sau công nguyên."
+        "t": "Một thành viên thuộc đảng phái tôn giáo ở Israel cổ đại. Họ được đánh giá cao bởi sự tuân thủ nghiêm ngặt tất cả các điều luật Do Thái. Họ có xu hướng cách ly với những người Do Thái khác và đối lập với Chúa Jesus. Lòng từ bi của họ lại chênh lệch so với các giới luật nghiêm ngặt. Điều này được dẫn chứng rõ ràng trong phúc âm Kinh thánh. Họ liên tục có ảnh hưởng to lớn trên cộng đồng người Do Thái. Họ ngày càng nổi tiếng hơn cả những người Sadducee quý tộc, thủ cựu. Họ cũng có ảnh hưởng đối với sự phát triển của đạo Do Thái sau sự kiện Thánh đường thứ hai của Jerusalem bị hủy diệt năm 70 sau công nguyên."
       }
     ],
     "k": "pharisee"
@@ -1970,7 +1970,7 @@
   {"h": "pharyngoscopy", "segs": [{"k": "m", "t": "(sự) khám họng."}], "k": "pharyngoscopy"},
   {"h": "pharyngospasm", "segs": [{"k": "m", "t": "(sự) co thắt họng."}], "k": "pharyngospasm"},
   {"h": "pharyngostenosis", "segs": [{"k": "m", "t": "(sự) hẹp họng."}], "k": "pharyngostenosis"},
-  {"h": "pharyngotherapy", "segs": [{"k": "m", "t": "Ðiều trị bệnh họng."}], "k": "pharyngotherapy"},
+  {"h": "pharyngotherapy", "segs": [{"k": "m", "t": "Điều trị bệnh họng."}], "k": "pharyngotherapy"},
   {
     "h": "pharyngotomy",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(y) đèn soi hầu, đèn khám hầu."}],
@@ -2082,7 +2082,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(PAL) đường đổi pha, tuyến đổi pha (hệ thống mã truyền hình màu Châu Âu phát triển đầu tiên ở Ðức)."
+        "t": "(PAL) đường đổi pha, tuyến đổi pha (hệ thống mã truyền hình màu Châu Âu phát triển đầu tiên ở Đức)."
       }
     ],
     "k": "phase alternation line"
@@ -3944,7 +3944,7 @@
     ],
     "k": "phenol process"
   },
-  {"h": "phenol red", "segs": [{"k": "m", "t": "Ðỏ phenol."}], "k": "phenol red"},
+  {"h": "phenol red", "segs": [{"k": "m", "t": "Đỏ phenol."}], "k": "phenol red"},
   {
     "h": "phenol removal",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự chiết tách phenol"}],
@@ -5043,7 +5043,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1504-1567) Hoàng thân Ðức. Ông đóng vai trò chủ chốt trong việc thiết lập đạo Tin lành ở Ðức và xác nhận nền độc lập của Ðức do ông hoàng cai trị chống lại Hoàng đế Charles V. Sau khi cải đạo theo chủ nghĩa Luther (1524), Philip chuyển Hesse thành một bang theo đạo Tin lành. Ông hoạt động với cương vị một nghị viên ở Speyer (1529), một người ký tên trong lễ xưng tội Augsburg (1530). Ông trở thành người sáng lập và là thủ lĩnh Liên đoàn Schmalkaldic, một liên minh các hoàng thân và thành phố theo đạo Tin Lành (1531). Một số người mất đi lòng trung thành khi ông ở tình trạng song hôn. Sau thất bại của ông trong Chiến tranh Schmalkaldic ông bị vua Charles V giam cầm. Ông sống để chứng kiến các tín đồ phái Luther giành được sự bình đẳng với các tín đồ Thiên Chúa giáo theo Hòa ước Augsburg (1555)."
+        "t": "(1504-1567) Hoàng thân Đức. Ông đóng vai trò chủ chốt trong việc thiết lập đạo Tin lành ở Đức và xác nhận nền độc lập của Đức do ông hoàng cai trị chống lại Hoàng đế Charles V. Sau khi cải đạo theo chủ nghĩa Luther (1524), Philip chuyển Hesse thành một bang theo đạo Tin lành. Ông hoạt động với cương vị một nghị viên ở Speyer (1529), một người ký tên trong lễ xưng tội Augsburg (1530). Ông trở thành người sáng lập và là thủ lĩnh Liên đoàn Schmalkaldic, một liên minh các hoàng thân và thành phố theo đạo Tin Lành (1531). Một số người mất đi lòng trung thành khi ông ở tình trạng song hôn. Sau thất bại của ông trong Chiến tranh Schmalkaldic ông bị vua Charles V giam cầm. Ông sống để chứng kiến các tín đồ phái Luther giành được sự bình đẳng với các tín đồ Thiên Chúa giáo theo Hòa ước Augsburg (1555)."
       }
     ],
     "k": "philip of hesse"
@@ -5053,7 +5053,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1342-1404) Công tước xứ Burgundy (1363-1404). Ông là con trai thứ tư của John the Good, Hoàng đế nước Pháp. Ông được phong công tước xứ Burgundy năm 1363. Năm 1369, ông kết hôn với Margaret, người thừa kế dòng họ Bá tước xứ Flanders. Năm 1380, ông giúp ngăn chặn một cuộc nổi dậy của người dân thị trấn thuộc Flanders chống lại gia đình bá tước. Cuộc nổi dậy kết thúc năm 1382, kết quả tàn sát hơn 26.000 người dân. Sau cái chết của bá tước năm 1384 Philip thừa hưởng Flanders và tiến hành khuyến khích phát triển thương mại và nghệ thuật. Trong suốt thời chính phủ thiểu số của vua Charles VI (1380-1388) Philip là người cai trị chính thức nước Pháp. Khi nhà vua trở nên điên loạn (1392), Philip đấu tranh giành quyền lực với Louis d'Orleans, anh trai nhà vua. Ðây là mối tranh chấp dẫn đến cái chết của ông do người con trai John the Fearless gây ra."
+        "t": "(1342-1404) Công tước xứ Burgundy (1363-1404). Ông là con trai thứ tư của John the Good, Hoàng đế nước Pháp. Ông được phong công tước xứ Burgundy năm 1363. Năm 1369, ông kết hôn với Margaret, người thừa kế dòng họ Bá tước xứ Flanders. Năm 1380, ông giúp ngăn chặn một cuộc nổi dậy của người dân thị trấn thuộc Flanders chống lại gia đình bá tước. Cuộc nổi dậy kết thúc năm 1382, kết quả tàn sát hơn 26.000 người dân. Sau cái chết của bá tước năm 1384 Philip thừa hưởng Flanders và tiến hành khuyến khích phát triển thương mại và nghệ thuật. Trong suốt thời chính phủ thiểu số của vua Charles VI (1380-1388) Philip là người cai trị chính thức nước Pháp. Khi nhà vua trở nên điên loạn (1392), Philip đấu tranh giành quyền lực với Louis d'Orleans, anh trai nhà vua. Đây là mối tranh chấp dẫn đến cái chết của ông do người con trai John the Fearless gây ra."
       }
     ],
     "k": "philip the bold"
@@ -5073,7 +5073,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1293-1350) Vua nước Pháp (1328-1350), vị vua đầu tiên của dòng họ Valois. Quyền thừa kế ngai vàng của ông bị ngăn cản bởi Edward III nước England và Chiến tranh 100 năm bắt đầu từ năm 1337. Triều đại bất hạnh của ông cũng chứng kiến cuộc Ðại dịch Cái chết đen (thế kỷ 14) và Chiến tranh với Flanders. Mặc cho những khoản chiến phí nặng nề và các thất bại quân sự thảm khốc, chính phủ vẫn được củng cố trong suốt thời kỳ này và một hệ thống thuế có tổ chức ra đời."
+        "t": "(1293-1350) Vua nước Pháp (1328-1350), vị vua đầu tiên của dòng họ Valois. Quyền thừa kế ngai vàng của ông bị ngăn cản bởi Edward III nước England và Chiến tranh 100 năm bắt đầu từ năm 1337. Triều đại bất hạnh của ông cũng chứng kiến cuộc Đại dịch Cái chết đen (thế kỷ 14) và Chiến tranh với Flanders. Mặc cho những khoản chiến phí nặng nề và các thất bại quân sự thảm khốc, chính phủ vẫn được củng cố trong suốt thời kỳ này và một hệ thống thuế có tổ chức ra đời."
       }
     ],
     "k": "philip vi"
@@ -5784,7 +5784,7 @@
     ],
     "k": "phleb-"
   },
-  {"h": "phlebalgia", "segs": [{"k": "m", "t": "Ðau thần kinh giãn mạch."}], "k": "phlebalgia"},
+  {"h": "phlebalgia", "segs": [{"k": "m", "t": "Đau thần kinh giãn mạch."}], "k": "phlebalgia"},
   {"h": "phlebanesthesia", "segs": [{"k": "m", "t": "Gây mê tĩnh mạch."}], "k": "phlebanesthesia"},
   {"h": "phlebangioma", "segs": [{"k": "m", "t": "Phình tĩnh mạch."}], "k": "phlebangioma"},
   {
@@ -6202,7 +6202,7 @@
   },
   {
     "h": "phlorhizin diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo phlorhizin."}],
+    "segs": [{"k": "m", "t": "Đái tháo phlorhizin."}],
     "k": "phlorhizin diabetes"
   },
   {
@@ -6454,7 +6454,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Dân tộc thuộc hệ ngôn ngữ Semite, bắt nguồn từ người Canaan thiên niên kỷ thứ 2 trước công nguyên. Vào năm 3000 trước công nguyên, họ thành lập một lượng lớn các thành phố thuộc bờ biển vùng Levant (phía đông Ðịa Trung Hải). Nổi bật nhất trong số đó là Byblos, Sidon, và Tyre (nay thuộc phía nam Lebanon). Vào năm 1000 trước công nguyên, họ phát minh ra hệ thống chữ biết. Ðây chính là thủy tổ hệ thống alphabet hiện đại. Tuy họ chỉ có một khúc sông hẹp, đất đai nội địa lại rất màu mỡ phì nhiêu. Họ quay ra biển và trở thành những thương nhân xuất sắc nhất mọi thời đại, thâm nhập sâu vào phía nam Tây Ban Nha. Thậm chí họ có thể đi vòng quanh Châu Phi bằng đường biển vào đầu năm 600 trước công nguyên. Ngành thương mại và công nghiệp bao gồm vải lanh, kim loại, thủy tinh, gỗ, ngà voi, và đá quý. Vào năm 900 trước công nguyên, họ rất nổi tiếng ở phương Tây, nơi họ đã thiết lập nhiều trạm mậu dịch nhỏ. Trong đó có trạm mậu dịch quan trọng nhất Carthage, đã phát triển thành một thành phố chính. Xung đột với Assyria trong thế kỷ thứ 6 trước công nguyên khiến sức mạnh của các thành phố thuộc Phoenicia suy yếu dần và rồi họ nằm dưới các thế lực của người Babylon, người Achaemenid, Alexander Ðại đế, người Seleucid, và La Mã."
+        "t": "Dân tộc thuộc hệ ngôn ngữ Semite, bắt nguồn từ người Canaan thiên niên kỷ thứ 2 trước công nguyên. Vào năm 3000 trước công nguyên, họ thành lập một lượng lớn các thành phố thuộc bờ biển vùng Levant (phía đông Địa Trung Hải). Nổi bật nhất trong số đó là Byblos, Sidon, và Tyre (nay thuộc phía nam Lebanon). Vào năm 1000 trước công nguyên, họ phát minh ra hệ thống chữ biết. Đây chính là thủy tổ hệ thống alphabet hiện đại. Tuy họ chỉ có một khúc sông hẹp, đất đai nội địa lại rất màu mỡ phì nhiêu. Họ quay ra biển và trở thành những thương nhân xuất sắc nhất mọi thời đại, thâm nhập sâu vào phía nam Tây Ban Nha. Thậm chí họ có thể đi vòng quanh Châu Phi bằng đường biển vào đầu năm 600 trước công nguyên. Ngành thương mại và công nghiệp bao gồm vải lanh, kim loại, thủy tinh, gỗ, ngà voi, và đá quý. Vào năm 900 trước công nguyên, họ rất nổi tiếng ở phương Tây, nơi họ đã thiết lập nhiều trạm mậu dịch nhỏ. Trong đó có trạm mậu dịch quan trọng nhất Carthage, đã phát triển thành một thành phố chính. Xung đột với Assyria trong thế kỷ thứ 6 trước công nguyên khiến sức mạnh của các thành phố thuộc Phoenicia suy yếu dần và rồi họ nằm dưới các thế lực của người Babylon, người Achaemenid, Alexander Đại đế, người Seleucid, và La Mã."
       }
     ],
     "k": "phoenicians"
@@ -6486,7 +6486,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1882) Vụ ám sát Thượng nghị sĩ Frederick, Tổng bộ trưởng Ireland của Anh và người trợ lý, T. H. Burke tại công viên Phượng hoàng. Cuộc ám sát do nhóm \"Vô địch\" tiến hành, một nhóm ly khai khủng bố của tổ chức Fenians. Từ kết quả của việc đột ngột chống chủ nghĩa khủng bố, Parnell đã có thể nắm được uy quyền đối với Liên đoàn quốc gia Ireland và củng cố Ðảng Gia quyền ôn hòa."
+        "t": "(1882) Vụ ám sát Thượng nghị sĩ Frederick, Tổng bộ trưởng Ireland của Anh và người trợ lý, T. H. Burke tại công viên Phượng hoàng. Cuộc ám sát do nhóm \"Vô địch\" tiến hành, một nhóm ly khai khủng bố của tổ chức Fenians. Từ kết quả của việc đột ngột chống chủ nghĩa khủng bố, Parnell đã có thể nắm được uy quyền đối với Liên đoàn quốc gia Ireland và củng cố Đảng Gia quyền ôn hòa."
       }
     ],
     "k": "phoenix park murders"
@@ -6962,7 +6962,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "tiền giả"}],
     "k": "phoney money"
   },
-  {"h": "phoniatrics", "segs": [{"k": "m", "t": "Ðiều trị loạn phát âm."}], "k": "phoniatrics"},
+  {"h": "phoniatrics", "segs": [{"k": "m", "t": "Điều trị loạn phát âm."}], "k": "phoniatrics"},
   {
     "h": "phonic",
     "segs": [
@@ -7035,7 +7035,7 @@
       {"k": "m", "t": "chốt cắm phono"},
       {
         "k": "m",
-        "t": "Một loại đầu nối có chân ngắn dùng để nối các thiết bị âm thanh dùng trong gia đình. Trong máy tính, các chốt cắm phono được dùng cho các cổng âm thanh và các cổng lối ra của màn hình tổng hợp. Ðồng nghĩa với RCA plug."
+        "t": "Một loại đầu nối có chân ngắn dùng để nối các thiết bị âm thanh dùng trong gia đình. Trong máy tính, các chốt cắm phono được dùng cho các cổng âm thanh và các cổng lối ra của màn hình tổng hợp. Đồng nghĩa với RCA plug."
       }
     ],
     "k": "phono plug"
@@ -7487,7 +7487,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phođen"}],
     "k": "phordene"
   },
-  {"h": "phoresis", "segs": [{"k": "m", "t": "Ðiện di, điện chuyển."}], "k": "phoresis"},
+  {"h": "phoresis", "segs": [{"k": "m", "t": "Điện di, điện chuyển."}], "k": "phoresis"},
   {
     "h": "phoresy",
     "segs": [
@@ -7717,7 +7717,7 @@
   },
   {
     "h": "phosphatic diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo phốtphát."}],
+    "segs": [{"k": "m", "t": "Đái tháo phốtphát."}],
     "k": "phosphatic diabetes"
   },
   {
@@ -8490,7 +8490,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(810-c. 893) Giáo trưởng của Constantinople và là người bảo vệ nền độc lập của Giáo hội Byzantine chống lại Giáo hoàng. Ông được bầu cử năm 858 để thay thế Giáo trưởng Patriarch, nhưng Giáo hoàng từ chối thừa nhận chức vụ của ông. Do đó ông đã rút phép thông công của Giáo hoàng. Ignatius sau đó được phục chức và Photius được Hoàng đế Leo VI phục chức năm 886. Thời điểm này, Giáo hoàng time Pope John VIII cần sự hỗ trợ khẩn cấp của hải quân Byzantine chống lại người Ma Rốc nên đã thừa nhận chức Giáo trưởng của ông. Cuộc tranh cãi với tên gọi Photian Schism cũng có liên quan đến những nhà truyền giáo Latin ở Bulgaria về các vấn đề học thuyết. Ðặc biệt là việc thêm mệnh đề của La Mã có ý nghĩa \"và từ Chúa con\" (filioque) vào Tín điều Nicene."
+        "t": "(810-c. 893) Giáo trưởng của Constantinople và là người bảo vệ nền độc lập của Giáo hội Byzantine chống lại Giáo hoàng. Ông được bầu cử năm 858 để thay thế Giáo trưởng Patriarch, nhưng Giáo hoàng từ chối thừa nhận chức vụ của ông. Do đó ông đã rút phép thông công của Giáo hoàng. Ignatius sau đó được phục chức và Photius được Hoàng đế Leo VI phục chức năm 886. Thời điểm này, Giáo hoàng time Pope John VIII cần sự hỗ trợ khẩn cấp của hải quân Byzantine chống lại người Ma Rốc nên đã thừa nhận chức Giáo trưởng của ông. Cuộc tranh cãi với tên gọi Photian Schism cũng có liên quan đến những nhà truyền giáo Latin ở Bulgaria về các vấn đề học thuyết. Đặc biệt là việc thêm mệnh đề của La Mã có ý nghĩa \"và từ Chúa con\" (filioque) vào Tín điều Nicene."
       }
     ],
     "k": "photius"
@@ -12172,7 +12172,7 @@
     "segs": [{"k": "m", "t": "máy đo vẽ chụp ảnh lập thể."}],
     "k": "photostereograph"
   },
-  {"h": "photostethoscope", "segs": [{"k": "m", "t": "Ðèn thính chẩn."}], "k": "photostethoscope"},
+  {"h": "photostethoscope", "segs": [{"k": "m", "t": "Đèn thính chẩn."}], "k": "photostethoscope"},
   {
     "h": "photosurface",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "mặt nhạy sáng."}],
@@ -13202,7 +13202,7 @@
   },
   {"h": "phrynin", "segs": [{"k": "m", "t": "Nọc độc da cóc."}], "k": "phrynin"},
   {"h": "phrynoderma", "segs": [{"k": "m", "t": "(chứng) da cóc."}], "k": "phrynoderma"},
-  {"h": "phrynolysine", "segs": [{"k": "m", "t": "Ðộc tố da cóc."}], "k": "phrynolysine"},
+  {"h": "phrynolysine", "segs": [{"k": "m", "t": "Độc tố da cóc."}], "k": "phrynolysine"},
   {"h": "PHS", "segs": [{"k": "m", "t": "Viết tắt của Public Health Service"}], "k": "phs"},
   {
     "h": "pHs pull switch",
@@ -13349,7 +13349,7 @@
     "segs": [{"k": "m", "t": "Bác sĩ điều trị lao."}],
     "k": "phthisiotherapist"
   },
-  {"h": "phthisiotherapy", "segs": [{"k": "m", "t": "Ðiều trị bệnh lao."}], "k": "phthisiotherapy"},
+  {"h": "phthisiotherapy", "segs": [{"k": "m", "t": "Điều trị bệnh lao."}], "k": "phthisiotherapy"},
   {
     "h": "phthisis",
     "segs": [
@@ -14014,11 +14014,11 @@
   {"h": "physiatrician", "segs": [{"k": "m", "t": "Bác sĩ lý liệu pháp."}], "k": "physiatrician"},
   {
     "h": "physiatrics",
-    "segs": [{"k": "m", "t": "Ðiều trị vật lý, lý liệu pháp."}],
+    "segs": [{"k": "m", "t": "Điều trị vật lý, lý liệu pháp."}],
     "k": "physiatrics"
   },
   {"h": "physiatrist", "segs": [{"k": "m", "t": "Bác sĩ lý liệu pháp."}], "k": "physiatrist"},
-  {"h": "physiatry", "segs": [{"k": "m", "t": "Ðiều trị vật lý, lý liệu pháp."}], "k": "physiatry"},
+  {"h": "physiatry", "segs": [{"k": "m", "t": "Điều trị vật lý, lý liệu pháp."}], "k": "physiatry"},
   {
     "h": "physic",
     "segs": [
@@ -15239,7 +15239,7 @@
     "segs": [{"k": "m", "t": "điều trị vật lý."}],
     "k": "physicotherapeutics"
   },
-  {"h": "physicotherapy", "segs": [{"k": "m", "t": "Ðiều trị vật lý."}], "k": "physicotherapy"},
+  {"h": "physicotherapy", "segs": [{"k": "m", "t": "Điều trị vật lý."}], "k": "physicotherapy"},
   {
     "h": "physics",
     "segs": [
@@ -15523,7 +15523,7 @@
   },
   {
     "h": "physiologic epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh sinh lý."}],
+    "segs": [{"k": "m", "t": "Động kinh sinh lý."}],
     "k": "physiologic epilepsy"
   },
   {
@@ -15551,7 +15551,7 @@
     "segs": [{"k": "m", "t": "Tâm lý học sinh lý."}],
     "k": "physiologic psychology"
   },
-  {"h": "physiologic scotoma", "segs": [{"k": "m", "t": "Ðiểm mù."}], "k": "physiologic scotoma"},
+  {"h": "physiologic scotoma", "segs": [{"k": "m", "t": "Điểm mù."}], "k": "physiologic scotoma"},
   {
     "h": "physiologic zero",
     "segs": [{"k": "m", "t": "Số không sinh lý, zêro sinh lý."}],
@@ -15798,7 +15798,7 @@
     "redirect": "physique",
     "k": "physiqued"
   },
-  {"h": "physis", "segs": [{"k": "m", "t": "Ðoạn sinh trưởng của xương."}], "k": "physis"},
+  {"h": "physis", "segs": [{"k": "m", "t": "Đoạn sinh trưởng của xương."}], "k": "physis"},
   {"h": "Physo-", "segs": [{"k": "m", "t": "prefix. chỉ không khí hay hơi."}], "k": "physo-"},
   {
     "h": "physocele",

@@ -17,7 +17,7 @@
     {
       "e": 6.9,
       "en": "Is it heartburn... or something more serious?",
-      "vi": "Ðây là chứng ợ nóng... hay là một bệnh nghiêm trọng hơn?",
+      "vi": "Đây là chứng ợ nóng... hay là một bệnh nghiêm trọng hơn?",
       "s": 3.94
     },
     {
@@ -65,7 +65,7 @@
     {
       "e": 46.29,
       "en": "Occasionally, heartburn may cause chronic cough, a sore throat, or a hoarse voice, particularly at night.",
-      "vi": "Ðôi khi ợ nóng có thể gây ho mãn tính, đau họng, hoặc khan tiếng, nhất là vào ban đêm.",
+      "vi": "Đôi khi ợ nóng có thể gây ho mãn tính, đau họng, hoặc khan tiếng, nhất là vào ban đêm.",
       "s": 38.85
     },
     {
@@ -125,7 +125,7 @@
     {
       "e": 99.3,
       "en": "Sometimes, chest pain is not heartburn or GERD, but a heart attack.",
-      "vi": "Ðôi khi đau ở ngực không phải là ợ nóng hoặc GERD mà là một cơn đau tim.",
+      "vi": "Đôi khi đau ở ngực không phải là ợ nóng hoặc GERD mà là một cơn đau tim.",
       "s": 94.42
     },
     {
@@ -149,7 +149,7 @@
     {
       "e": 120.33,
       "en": "Severe pain in the left arm is a commonly reported symptom.",
-      "vi": "Ðau nghiêm trọng ở cánh tay trái là triệu chứng thường được báo cáo.",
+      "vi": "Đau nghiêm trọng ở cánh tay trái là triệu chứng thường được báo cáo.",
       "s": 116.41
     },
     {
@@ -200,7 +200,7 @@
       "vi": "vì đau ở ngực thường có thể là một trường hợp GERD hoặc tệ hơn nữa, một cơn đau tim.",
       "s": 156.68
     },
-    {"e": 163.53, "en": "The bottom line is,", "vi": "Ðiều quan trọng nhất là", "s": 162.28},
+    {"e": 163.53, "en": "The bottom line is,", "vi": "Điều quan trọng nhất là", "s": 162.28},
     {
       "e": 168.5,
       "en": "it's important to make an appointment with your doctor if you experience heartburn more than several times a month,",

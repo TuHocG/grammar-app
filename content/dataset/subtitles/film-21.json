@@ -50,7 +50,7 @@
     {
       "e": 33.39,
       "en": "Go down Hawthorn and just before you come to the junction, you will see a pizza restaurant.",
-      "vi": "Ði xuống đường Hawthorn và trước khi anh đến giao lộ đó, anh sẽ thấy một nhà hàng bán bánh pizza.",
+      "vi": "Đi xuống đường Hawthorn và trước khi anh đến giao lộ đó, anh sẽ thấy một nhà hàng bán bánh pizza.",
       "s": 28.72
     },
     {
@@ -79,7 +79,7 @@
       "vi": "Có thể lúc 8 giờ tối được không?",
       "s": 44.16
     },
-    {"e": 49.77, "en": "Sure, 8 is fine. Bye.", "vi": "Ðược, 8 giờ tối cũng được ạ.", "s": 45.86},
+    {"e": 49.77, "en": "Sure, 8 is fine. Bye.", "vi": "Được, 8 giờ tối cũng được ạ.", "s": 45.86},
     {"e": 54.44, "en": "Bye.", "vi": "Tạm biệt.", "s": 49.77},
     {"e": 56.59, "en": "It's close to Hawthorn Road.", "vi": "Nó ở gần đường Hawthorn.", "s": 54.44},
     {
@@ -91,7 +91,7 @@
     {
       "e": 63.4,
       "en": "Go down Hawthorn and just before you come to the junction, you will see a pizza restaurant.",
-      "vi": "Ði xuống đường Hawthorn và trước khi anh đến giao lộ đó, anh sẽ thấy một nhà hàng bán bánh pizza.",
+      "vi": "Đi xuống đường Hawthorn và trước khi anh đến giao lộ đó, anh sẽ thấy một nhà hàng bán bánh pizza.",
       "s": 58.72
     },
     {
@@ -224,7 +224,7 @@
     {
       "e": 169.06,
       "en": "Yes, are you interested in renting it?",
-      "vi": "Ðúng vậy, bà muốn thuê nó à?",
+      "vi": "Đúng vậy, bà muốn thuê nó à?",
       "s": 166.38
     },
     {
@@ -242,7 +242,7 @@
     {
       "e": 179.05,
       "en": "Go over the bridge and pass the church.",
-      "vi": "Ði qua cầu và qua nhà thờ.",
+      "vi": "Đi qua cầu và qua nhà thờ.",
       "s": 176.28
     },
     {
@@ -260,7 +260,7 @@
     {
       "e": 190.32,
       "en": "That's right. The number is 823 Patterson Road.",
-      "vi": "Ðúng rồi. Nhà số 823 đường Patterson.",
+      "vi": "Đúng rồi. Nhà số 823 đường Patterson.",
       "s": 186.18
     },
     {
@@ -272,7 +272,7 @@
     {
       "e": 197.01,
       "en": "No problem, look forward to seeing you.",
-      "vi": "Ðược. Rất mong gặp bà.",
+      "vi": "Được. Rất mong gặp bà.",
       "s": 194.24
     },
     {"e": 198.21, "en": "Thanks, bye.", "vi": "Cảm ơn, tạm biệt.", "s": 197.01},
@@ -286,7 +286,7 @@
     {
       "e": 208.25,
       "en": "Go over the bridge and pass the church.",
-      "vi": "Ði qua cầu và qua nhà thờ.",
+      "vi": "Đi qua cầu và qua nhà thờ.",
       "s": 205.67
     },
     {
@@ -350,13 +350,13 @@
     {
       "e": 250.87,
       "en": "Yes, it is also behind a large oak tree.",
-      "vi": "Ðúng vậy, nó cũng nằm phía sau một cây sồi lớn.",
+      "vi": "Đúng vậy, nó cũng nằm phía sau một cây sồi lớn.",
       "s": 246.88
     },
     {
       "e": 253.94,
       "en": "OK, I'll see you shortly then. Bye.",
-      "vi": "Ðược, vậy tôi sẽ đến gặp bà ngay. Tạm biệt.",
+      "vi": "Được, vậy tôi sẽ đến gặp bà ngay. Tạm biệt.",
       "s": 250.87
     },
     {"e": 259.84, "en": "Bye.", "vi": "Tạm biệt.", "s": 253.94},
@@ -381,7 +381,7 @@
     {
       "e": 274.12,
       "en": "Yes, it is also behind a large oak tree.",
-      "vi": "Ðúng vậy, nó cũng nằm phía sau một cây sồi lớn.",
+      "vi": "Đúng vậy, nó cũng nằm phía sau một cây sồi lớn.",
       "s": 269.86
     },
     {"e": 281.82, "en": "...", "vi": "...", "s": 274.12},
@@ -451,7 +451,7 @@
     {
       "e": 320.55,
       "en": "That is fine. See you then. Bye.",
-      "vi": "Ðược rồi. Hẹn anh lúc đó nhé. Xin chào.",
+      "vi": "Được rồi. Hẹn anh lúc đó nhé. Xin chào.",
       "s": 317.64
     },
     {"e": 326.62, "en": "Bye.", "vi": "Xin chào.", "s": 320.55},
@@ -485,7 +485,7 @@
     {
       "e": 357.71,
       "en": "Sure, it is a 3-bedroom condo with a kitchen and a bathroom.",
-      "vi": "Ðược. Nó là căn hộ tập thể có 3 phòng ngủ với một nhà bếp và một phòng tắm.",
+      "vi": "Được. Nó là căn hộ tập thể có 3 phòng ngủ với một nhà bếp và một phòng tắm.",
       "s": 351.93
     },
     {
@@ -498,7 +498,7 @@
     {
       "e": 368.26,
       "en": "Sure! It is located at 9233 Billings Road.",
-      "vi": "Ðược chứ! Nó tọa lạc ở số 9233 đường Billings.",
+      "vi": "Được chứ! Nó tọa lạc ở số 9233 đường Billings.",
       "s": 362.17
     },
     {
@@ -540,7 +540,7 @@
     {
       "e": 394.31,
       "en": "Yes, how about in an hour?",
-      "vi": "Ðược, khoảng 1 tiếng nữa nhé?",
+      "vi": "Được, khoảng 1 tiếng nữa nhé?",
       "s": 391.1
     },
     {"e": 396.62, "en": "Good, see you.", "vi": "Tốt, hẹn gặp ông.", "s": 394.31},
@@ -625,7 +625,7 @@
       "s": 512.68
     },
     {"e": 520.38, "en": "That should be easy to find.", "vi": "Chắc là nó dễ tìm.", "s": 517.71},
-    {"e": 523.13, "en": "Good, see you soon.", "vi": "Ðúng thế, hẹn sớm gặp chị.", "s": 520.38},
+    {"e": 523.13, "en": "Good, see you soon.", "vi": "Đúng thế, hẹn sớm gặp chị.", "s": 520.38},
     {"e": 529.92, "en": "...", "vi": "...", "s": 523.13},
     {
       "e": 532.69,
@@ -643,7 +643,7 @@
     {
       "e": 539.97,
       "en": "Yes, would you like to come and see it?",
-      "vi": "Ðúng, bà có muốn đến xem không?",
+      "vi": "Đúng, bà có muốn đến xem không?",
       "s": 537.78
     },
     {
@@ -657,7 +657,7 @@
     {
       "e": 552.66,
       "en": "Right, go down Grant Avenue, turn left on Washington Road.",
-      "vi": "Ðược rồi, hãy đi xuống đại lộ Grant, quẹo trái ở đường Washington.",
+      "vi": "Được rồi, hãy đi xuống đại lộ Grant, quẹo trái ở đường Washington.",
       "s": 547.32
     },
     {

@@ -40,9 +40,9 @@
       ["Dạ có, thưa mẹ.", "Con đang ở trong phòng khách.", "Chuyện gì vậy mẹ?"],
       ["Hôm nay mẹ đến trường con", "và cô Jackson đã đưa cho mẹ phiếu điểm của con."],
       ["ồ, kết quả học tập có tốt không ạ?"],
-      ["Ðừng lo.", "Rất tốt.", "Con học rất giỏi."],
+      ["Đừng lo.", "Rất tốt.", "Con học rất giỏi."],
       ["Con xem phiếu điểm có được không ạ?"],
-      ["Ðược chứ.", "Tim này, mẹ tự hào về con.", "Mẹ biết học kỳ này con đã học rất chăm chỉ."],
+      ["Được chứ.", "Tim này, mẹ tự hào về con.", "Mẹ biết học kỳ này con đã học rất chăm chỉ."],
       ["Cám ơn mẹ."],
       ["Nhưng có một việc con cần phải trau dồi."],
       ["Việc gì vậy mẹ?"],
@@ -75,7 +75,7 @@
     ],
     "vi": [
       ["Hãy thực hành bài hội thoại với một bạn."],
-      ["Ðúng hay sai?", "Hãy đánh dấu (V) vào các ô."],
+      ["Đúng hay sai?", "Hãy đánh dấu (V) vào các ô."],
       ["Tim không có ở nhà khi mẹ bạn ấy gọi bạn ấy.(F)"],
       ["Mẹ của Tim gặp cô giáo của bạn ấy ở trường.(T)"],
       ["Kết quả học tập của Tim kém.(F)"],
@@ -184,7 +184,7 @@
       ["Sinh vật"],
       ["Vật lý"],
       ["Hóa học"],
-      ["Ðịa lý"],
+      ["Địa lý"],
       ["Bạn làm gì để trau dồi môn tiếng Anh của mình?"],
       ["làm các bài tập văn phạm"],
       ["đọc truyện tiếng Anh"]
@@ -294,7 +294,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Những người học ngôn ngữ học từ vựng theo những cách khác nhau.",
         ". Một số người lập một danh sách các từ mới và ghi vào dó nghĩa của các từ mới bằng tiếng mẹ đẻ, rồi cố học thuộc lòng chúng.",
@@ -302,7 +302,7 @@
         "Thay vào đó, với mỗi từ mới họ viết một hoặc hai câu ví dụ để nhớ cách dùng từ như thế nào cho đúng."
       ],
       [
-        "Ðể nhớ từ vựng tốt hơn,",
+        "Để nhớ từ vựng tốt hơn,",
         "thậm chí một số người còn viết từng từ và cách dùng của nó vào một mảnh giấy nhỏ",
         "rồi dán ở một nơi nào đó trong nhà để có thể học từ đó bất cứ lúc nào."
       ],
@@ -340,7 +340,7 @@
       ["d) Many learners only learn new words that are important."]
     ],
     "vi": [
-      ["Ðúng hay sai?", "Hãy đánh dấu (V) vào các ô."],
+      ["Đúng hay sai?", "Hãy đánh dấu (V) vào các ô."],
       ["Tất cả những người học ngôn ngữ đều viết nghĩa của từ mới bằng tiếng mẹ đẻ.(F)"],
       ["Một số người học viết ví dụ của những từ mà họ cần học.(T)"],
       ["Mỗi người cố học tất cả những từ mới mà họ gặp.(F)"],
@@ -376,15 +376,15 @@
       ["Không.", "Họ học từ vựng theo những cách khác nhau."],
       ["Tại sao một số người học viết các câu ví dụ cho những từ mới?"],
       ["Vì họ muốn nhớ cách dùng từ như thế nào cho đúng."],
-      ["Ðể nhớ từ vựng tốt hơn, một số học viên làm gì?"],
+      ["Để nhớ từ vựng tốt hơn, một số học viên làm gì?"],
       [
-        "Ðể nhớ từ vựng tốt hơn",
+        "Để nhớ từ vựng tốt hơn",
         "một số người học viết từng từ và cách sử dụng nó vào một mảnh giấy nhỏ",
         "rồi dán ở một nơi nào đó trong nhà để học từ đó bất cứ lúc nào."
       ],
       ["Tại sao một số học viên không học tất cả những từ mới mà họ gặp?"],
       ["Vì họ chỉ muốn nhớ những từ quan trọng."],
-      ["Ðiều gì là cần thiết trong việc học từ vựng?"],
+      ["Điều gì là cần thiết trong việc học từ vựng?"],
       ["Sự ôn lại là cần thiết trong việc học từ vựng."],
       ["Bạn nên học từ vựng như thế nào?"]
     ],
@@ -438,7 +438,7 @@
       ["Nội dung của lá thư"],
       ["Tiêu dề - địa chỉ của người viết và ngày tháng"],
       ["Cuối thư", "Thân/ Thương"],
-      ["Ðầu thư..., thân/ thương"],
+      ["Đầu thư..., thân/ thương"],
       ["12 đường Trần Hưng đạo"],
       ["Hà Nội"],
       ["10 tháng 2 năm 200..."],
@@ -453,7 +453,7 @@
       ],
       [
         "Sắp đến Tết rồi.",
-        "Ðó là Tết Nguyên đán ở Việt Nam.",
+        "Đó là Tết Nguyên đán ở Việt Nam.",
         "Tôi nghĩ là tôi đã kể cho bạn nghe về nó trong lá thư trước của tôi.",
         "Tối nay chúng tôi sẽ về Huế để đón tết với ông bà tôi.",
         "Tôi sẽ gởi bưu thiếp cho bạn từ đó."
@@ -508,13 +508,13 @@
       ["Cám ơn bạn về lá thư.", "Tôi rất vui khi nghe tin bạn có một ngày nghỉ lễ mẹ thú vị."],
       [
         "Chúng tôi nhận được bảng điểm học kỳ II vào tháng trước.",
-        "Tôi đạt điểm cao môn Ðịa lý, Vật lý và Toán",
+        "Tôi đạt điểm cao môn Địa lý, Vật lý và Toán",
         "nhưng môn Anh và Sử của tôi thì kém.",
         "Giáo viên khuyên tôi nên trau dồi môn Anh và Sử."
       ],
       [
         "Tết Trung Thu sắp đến trong vài tuần nữa.",
-        "Ðó là lễ hội trăng rằm ở Việt Nam.",
+        "Đó là lễ hội trăng rằm ở Việt Nam.",
         "Tôi nghĩ tôi sẽ kể cho bạn về nó ở thư sau.",
         "Chiều nay, tôi sẽ đi vịnh Hạ Long với dì và cậu bằng xe đò.",
         "Tôi sẽ gửi cho bạn bưu thiếp từ đó."
@@ -549,11 +549,11 @@
       ["Bà Nga có nói tiếng Anh không?"],
       ["ồ, có.", "Bà ấy nói tiếng Anh rất giỏi."],
       ["Ba luôn đạt điểm cao."],
-      ["Ðó là nhờ cậu ấy học rất chăm chỉ."],
+      ["Đó là nhờ cậu ấy học rất chăm chỉ."],
       ["Xe buýt của chúng ta kìa!"],
       ["Chạy nhanh lên, chúng ta có thể bắt kịp nó."],
       ["Tôi rất ân hận.", "Tôi biết tôi đã cư xử thật tệ."],
-      ["Ðược rồi."],
+      ["Được rồi."],
       ["Lan, tôi không nghe được bạn nói."],
       ["Xin lỗi, nhưng tôi nói nhỏ vì tôi bị đau họng."]
     ],

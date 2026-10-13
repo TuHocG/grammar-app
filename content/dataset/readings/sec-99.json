@@ -513,16 +513,16 @@
       ["- To obtain help, dial 116."]
     ],
     "vi": [
-      ["Phần 1", "Ðọc bảng hướng dẫn cách dùng điện thoại công cộng."],
+      ["Phần 1", "Đọc bảng hướng dẫn cách dùng điện thoại công cộng."],
       ["Vui lòng đọc kĩ các hướng dẫn sau"],
-      ["Ðể thực hiện cuộc gọi, bạn phải có thẻ điện thoại."],
+      ["Để thực hiện cuộc gọi, bạn phải có thẻ điện thoại."],
       ["Hãy chắc rằng bạn biết số máy bạn cần gọi."],
-      ["Ðể sử dụng điện thoại"],
+      ["Để sử dụng điện thoại"],
       ["Trước hết, nhấc ống nghe và nghe tín hiệu quay số."],
       ["Tiếp theo, đưa thẻ điện thoại vào khe."],
       ["Sau đó, bấm số cần gọi."],
-      ["Ðợi cho đến khi bạn nghe tiếng bíp dài."],
-      ["Ðiều này có nghĩa là cuộc gọi của bạn đã được kết nối."],
+      ["Đợi cho đến khi bạn nghe tiếng bíp dài."],
+      ["Điều này có nghĩa là cuộc gọi của bạn đã được kết nối."],
       ["Các trường hợp khẩn cấp"],
       ["Công an: bấm số 113."],
       ["Cứu hỏa: bấm số 114."],
@@ -578,7 +578,7 @@
       ],
       ["Trả lời:"],
       ["Liên từ: first, next, then, until"],
-      ["Ðộng từ ở hình thức mệnh lệnh: lift, insert, press, wait"],
+      ["Động từ ở hình thức mệnh lệnh: lift, insert, press, wait"],
       [
         "Phần 3",
         "Làm việc theo nhóm",
@@ -586,15 +586,15 @@
         "rồi trả lời các câu hỏi sau."
       ],
       [
-        "Ðiều gì bạn cần phải kiểm tra lại cho chắc chắn nếu bạn muốn điều khiển tivi bằng thiết bị điều khiển từ xa?"
+        "Điều gì bạn cần phải kiểm tra lại cho chắc chắn nếu bạn muốn điều khiển tivi bằng thiết bị điều khiển từ xa?"
       ],
       [
         "Nếu bạn muốn mở TV bằng thiết bị điều khiển từ xa",
         "bạn phải bảo đảm rằng dây điện đã được cắm và nút nguồn đã được mở."
       ],
       ["Bạn nên làm gì nếu muốn mở hoặc tắt tivi?"],
-      ["Ðể mở TV, nhấn nút POWER."],
-      ["Ðể tắt TV, nhấn lại nút POWER."],
+      ["Để mở TV, nhấn nút POWER."],
+      ["Để tắt TV, nhấn lại nút POWER."],
       ["Bạn nên làm gì nếu muốn chọn một chương trình?"],
       ["Nhấn nút PROGRAMME để chọn chương trình."],
       ["Bạn nên làm gì nếu muốn xem các kênh VTV1, VTV2, VTV3, và VTV4?"],
@@ -645,8 +645,8 @@
         "Nếu bạn muốn mở TV bằng thiết bị điều khiển từ xa",
         "bạn phải bảo đảm rằng dây điện đã được cắm và nút nguồn đã được mở."
       ],
-      ["Ðể mở TV, nhấn nút POWER."],
-      ["Ðể tắt TV, nhấn lại nút POWER."],
+      ["Để mở TV, nhấn nút POWER."],
+      ["Để tắt TV, nhấn lại nút POWER."],
       ["Nhấn nút PROGRAMME để chọn chương trình."],
       ["Nhấn nút số 1 để xem VTV1."],
       ["Nhấn nút số 2 để xem VTV2."],
@@ -791,8 +791,8 @@
       ["10. Can you help me find the man who saved the girl?"]
     ],
     "vi": [
-      ["Bài tập 3", "Ðiền vào chỗ trống với who, which hoặc that."],
-      ["Ðồng hồ là thiết bị báo cho bạn giờ giấc."],
+      ["Bài tập 3", "Điền vào chỗ trống với who, which hoặc that."],
+      ["Đồng hồ là thiết bị báo cho bạn giờ giấc."],
       ["Tủ lạnh là máy dùng để giữ cho thực phẩm tươi."],
       ["Ngày 1 tháng 4 là ngày được dân miền Tây gọi là \"Ngày khùng tháng 4\""],
       ["Y tá là người chăm sóc bệnh nhân."],
@@ -802,7 +802,7 @@
       ["Người mà bạn thăm tháng trước là một nhà khoa học nổi tiếng."],
       ["Hãy nghĩ đến một từ Việt có nguồn gốc nước ngoài."],
       ["Hãy nghĩ đến một từ Việt có nguồn gốc nước ngoài."],
-      ["Ðây là những bức tranh mà con trai tôi vẽ khi nó còn nhỏ."],
+      ["Đây là những bức tranh mà con trai tôi vẽ khi nó còn nhỏ."],
       ["Bạn có thể giúp tôi tìm người đàn ông đã cứu cô gái không?"]
     ],
     "img": "img/readings/1.10.61b.webp",

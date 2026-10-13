@@ -32,13 +32,13 @@
       ["Nhìn những bức ảnh", "Hãy ghép chúng với những cụm từ trong khung."],
       ["Cuộc thi Tiếng Hát Truyền Hình Sao Mai"],
       ["Thế Vận Hội"],
-      ["Cuộc thi \"Ðường lên đỉnh Olympia\""],
+      ["Cuộc thi \"Đường lên đỉnh Olympia\""],
       ["Cuộc thi Ma-ra-tông Luân đôn"],
       ["Thực hành với một bạn", "Trả lời các câu hỏi sau."],
       ["Bạn có bao giờ tham dự cuộc thi như những cuộc thi này chưa?", "Tại sao?"],
       ["không", "Vì tôi không có khả năng cho chúng."],
       [
-        "Có, Tôi muốn tham dự đố vui: Ðường lên đỉnh Olympia.",
+        "Có, Tôi muốn tham dự đố vui: Đường lên đỉnh Olympia.",
         "vì nó là cuộc chơi rất hay, nó giúp tôi mở rộng kiến thức."
       ],
       ["Bạn có hi vọng thắng một cuộc thi không?", "Nếu có, bạn muốn thắng cuộc thi nào?"],
@@ -102,9 +102,9 @@
       [
         "\"... Các em tham gia cuộc thi theo từng nhóm ba người.",
         "Mỗi nhóm phải hoàn tất năm hoạt động cả thảy.",
-        "Ðể hoàn tất mỗi hoạt động, các em sẽ phải trả lời các câu hỏi in trong đề bài trong vòng 2 phút.",
+        "Để hoàn tất mỗi hoạt động, các em sẽ phải trả lời các câu hỏi in trong đề bài trong vòng 2 phút.",
         "Các giám khảo sẽ đánh giá và cho điểm bài làm của các em.",
-        "Ðiểm cao nhất của mỗi hoạt động là 15 điểm.",
+        "Điểm cao nhất của mỗi hoạt động là 15 điểm.",
         "Vào cuối cuộc thi, các giám khảo sẽ loan báo tổng số điểm của mỗi nhóm.",
         "Nhóm nào có số điểm cao nhất sẽ đoạt giải.",
         "Các nhà vô địch sẽ được thưởng một bộ CD học tiếng Anh và một quyển từ điển Oxford Advanced Learner's Dictionary.",
@@ -123,7 +123,7 @@
         "Thu cảm thấy hơi thất vọng.",
         "Hưng xin lỗi vì không thể đọc hết bài thơ.",
         "Nhưng Nga làm mọi người cảm thấy dễ chịu hơn khi nói",
-        "\"Ðối với tôi, điều Quan trọng nhất là chúng ta đã tham gia cuộc thi và có được niềm vui từ cuộc thi này.\""
+        "\"Đối với tôi, điều Quan trọng nhất là chúng ta đã tham gia cuộc thi và có được niềm vui từ cuộc thi này.\""
       ]
     ],
     "img": "img/readings/1.11.67a.webp",
@@ -193,7 +193,7 @@
       ["Phần 2", "Trả lời các câu hỏi sau"],
       ["Ai tham gia vòng chung kết Cuộc thi Tiếng Anh hàng năm vào thứ Bảy tuần trước?"],
       [
-        "Ðại diện 3 lớp của trường đã tham gia vòng chung kết Cuộc thi Tiếng Anh hàng năm vào thứ Bảy tuần trước."
+        "Đại diện 3 lớp của trường đã tham gia vòng chung kết Cuộc thi Tiếng Anh hàng năm vào thứ Bảy tuần trước."
       ],
       ["Mục đích của cuộc thi là gì?"],
       ["Mục đích của nó là kích thích tinh thần học tiếng Anh trong số các học sinh."],
@@ -207,13 +207,13 @@
       ["Ban giám khảo phải làm gì để chọn ra đội thắng cuộc trong cuộc thi?"],
       [
         "Họ phải quan sát và cho điểm phần biểu diễn của các thí sinh.",
-        "Ðiểm tối đa cho mỗi phần là 15.",
+        "Điểm tối đa cho mỗi phần là 15.",
         "Vào cuối cuộc thi họ sẽ loan báo tổng số điểm của mỗi nhóm.",
         "Nhóm có điểm cao nhất sẽ là đội thắng cuộc."
       ],
-      ["Ðội thắng cuộc sẽ được thưởng gì?"],
+      ["Đội thắng cuộc sẽ được thưởng gì?"],
       [
-        "Ðội thắng cuộc sẽ được thưởng một bộ đĩa CD học tiếng Anh và một quyển tự điền Oxford Advanced Learner."
+        "Đội thắng cuộc sẽ được thưởng một bộ đĩa CD học tiếng Anh và một quyển tự điền Oxford Advanced Learner."
       ]
     ],
     "img": "img/readings/1.11.68b.webp",
@@ -233,10 +233,10 @@
       ]
     ],
     "vi": [
-      ["Phần 3", "Ðọc lại đoạn 3 và hoàn thành các câu sau."],
+      ["Phần 3", "Đọc lại đoạn 3 và hoàn thành các câu sau."],
       ["ở phần 5, Hưng không thể đọc câu cuối của bài thơ."],
-      ["Ðạt điểm cao nhất, nhóm B trở thành đội thắng cuộc."],
-      ["Ðội C thua vì họ chỉ có 60 điểm."],
+      ["Đạt điểm cao nhất, nhóm B trở thành đội thắng cuộc."],
+      ["Đội C thua vì họ chỉ có 60 điểm."],
       [
         "Nga cổ vũ đội của cô ấy khi nói:",
         "Với tôi, điều quan trọng nhất là được tham gia cuộc thi và có được niềm vui."
@@ -266,8 +266,8 @@
     "vi": [
       ["Sau khi đọc."],
       [
-        "Ðây là bài thơ Hùng đã đọc trong cuộc thi chung kết tiếng Anh hàng năm.",
-        "Ðọc và dịch sang tiếng Việt."
+        "Đây là bài thơ Hùng đã đọc trong cuộc thi chung kết tiếng Anh hàng năm.",
+        "Đọc và dịch sang tiếng Việt."
       ],
       ["Bạn có thích bầu trời đêm"],
       ["khi các vì sao đang tỏa sáng?"],
@@ -303,7 +303,7 @@
       [
         "Phần 1",
         "Bạn thích hay không thích cuộc thi nào dưới đây?",
-        "Ðánh dấu vào cột đúng.",
+        "Đánh dấu vào cột đúng.",
         "Sau đó so sánh câu trả lời với bạn bên cạnh."
       ],
       ["Loại cuộc thi"],
@@ -374,7 +374,7 @@
       ["khiến tôi buồn ngủ"],
       ["làm tôi thấy vui/ hạnh phúc"],
       ["dịp tốt để rèn luyện thể chất"],
-      ["Ðáp án:"],
+      ["Đáp án:"],
       ["Bạn nghĩ gì về cuộc thi tiếng Anh?"],
       ["ồ nó thật thú vị.", "Nó là dịp tốt để thực hành tiếng Anh của mình."],
       ["Bạn nghĩ gì về cuộc thi nghệ thuật?"],
@@ -426,7 +426,7 @@
         "Sử dụng các gợi ý sau."
       ],
       ["Bạn đã xem hoặc tham gia cuộc thi ở đâu và khi nào?"],
-      ["Ðó là loại cuộc thi gì?"],
+      ["Đó là loại cuộc thi gì?"],
       ["Ai tổ chức?"],
       ["Ai tham gia?"],
       ["Ai chiến thắng trong cuộc thi?"],
@@ -636,8 +636,8 @@
       ],
       ["Ví dụ:"],
       ["Vũ Thị Hương, huy chương vàng (100 mét nữ) trong kì Sea Games thứ 25 năm 2009."],
-      ["Nguyễn Ðình Cương, huy chương vàng (800 mét nam) trong kì Sea Games thứ 25."],
-      ["Ðỗ Thị Bông, huy chương vàng trong kì Asian năm 2005."]
+      ["Nguyễn Đình Cương, huy chương vàng (800 mét nam) trong kì Sea Games thứ 25."],
+      ["Đỗ Thị Bông, huy chương vàng trong kì Asian năm 2005."]
     ],
     "img": "img/readings/1.11.71d.webp",
     "page": "71"
@@ -673,7 +673,7 @@
       ["- date and time"]
     ],
     "vi": [
-      ["Phần 1", "Ðọc lá thư và tìm ra thông tin yêu cầu đối với cuộc thi nói tiếng Anh."],
+      ["Phần 1", "Đọc lá thư và tìm ra thông tin yêu cầu đối với cuộc thi nói tiếng Anh."],
       ["140 phố Khâm Thiên, quận đống đa"],
       ["Hà Nội, Việt nam"],
       ["Ngày 17/10/2006"],
@@ -690,7 +690,7 @@
       ],
       ["Trân trọng kính chào"],
       ["Thu Trang"],
-      ["Ðáp án:"],
+      ["Đáp án:"],
       ["số người tham dự"],
       ["thủ tục đăng kí"],
       ["địa điểm"],
@@ -749,7 +749,7 @@
       ["Thu Trang thân mến"],
       [
         "Cảm ơn về lá thư của bạn và chúc mừng bạn đến với cuộc thi hùng biện tiếng Anh của chúng tôi.",
-        "Ðây là một số chi tiết về cuộc thi."
+        "Đây là một số chi tiết về cuộc thi."
       ],
       [
         "Số thí sinh tham dự giới hạn chỉ 25 người.",
@@ -758,7 +758,7 @@
         "Các thí sinh nên có mặt trước cuộc thi 1 tiếng đồng hồ để đăng ký."
       ],
       [
-        "Ðể biết thêm thông tin xin liên hệ với tôi theo số: (04 ) 9838188 và e-mail: Englishclub06.yahoo.com."
+        "Để biết thêm thông tin xin liên hệ với tôi theo số: (04 ) 9838188 và e-mail: Englishclub06.yahoo.com."
       ],
       ["Chúc bạn những điều tốt đẹp nhất. Thư kí cuộc thi Kate Johnson."]
     ],
@@ -820,7 +820,7 @@
       ["- Miss White thanked Jack for visiting her."]
     ],
     "vi": [
-      ["Bài tập 1", "Ðổi các câu trực tiếp sang gián tiếp.", "Bắt đầu câu theo cách cho sẵn."],
+      ["Bài tập 1", "Đổi các câu trực tiếp sang gián tiếp.", "Bắt đầu câu theo cách cho sẵn."],
       ["John nói với chúng tôi: \"Tôi nghe nói các bạn đã thi đậu. Xin chúc mừng.\""],
       ["John chúc mừng chúng tôi đi đậu."],
       ["Mary nói: \"Tôi xin lỗi, tôi đã không điện sớm cho bạn.\""],
@@ -831,7 +831,7 @@
       ["Thầy giáo kết tội cậu học sinh đã không chú ý những gì ông ấy nói."],
       ["Bob nói: \"Tôi luôn muốn giàu có.\""],
       ["Bob luôn mơ giàu có."],
-      ["Tôi nói với Ann: \"Ðừng ở khách sạn gần sân bay.\""],
+      ["Tôi nói với Ann: \"Đừng ở khách sạn gần sân bay.\""],
       ["Tôi cảnh báo Ann đừng ở khách sạn gần sân bay."],
       ["Mẹ cô ấy nói với Jane: \"ở lại đây! Mẹ không cho phép con ra ngoài tối nay.\""],
       ["Mẹ ngăn Jane ra ngoài tối hôm đó."],
@@ -874,7 +874,7 @@
         "Bài tập 2",
         "Viết lại các đoạn hội thoại sau theo dạng câu gián tiếp, sử dụng danh động từ."
       ],
-      ["Linda: Ðể tôi trả tiền bữa ăn."],
+      ["Linda: Để tôi trả tiền bữa ăn."],
       ["Tom: Không! Tôi sẽ trả."],
       ["Trả lời: Tom xin trả bữa ăn."],
       ["ông Smith: Tôi mong sớm gặp lũ trẻ."],
@@ -995,7 +995,7 @@
       ["Họ thích đánh nhau."],
       ["Họ rất yêu thể thao. (X)"],
       ["Họ thích có nhiều nghi lễ."],
-      ["Họ không biết tính toán. Vì thế họ dùng \"Ðại hội thể thao\" để tính ngày."]
+      ["Họ không biết tính toán. Vì thế họ dùng \"Đại hội thể thao\" để tính ngày."]
     ],
     "img": "img/readings/1.11.76b.webp",
     "page": "76"
@@ -1027,10 +1027,10 @@
       ]
     ],
     "vi": [
-      ["Ðọc đoạn văn và trả lời các câu hỏi."],
+      ["Đọc đoạn văn và trả lời các câu hỏi."],
       [
         "Giải bóng đá nữ quốc tế quan trọng nhất là Giải Vô địch Bóng đá nữ Thế giới.",
-        "Ðược tổ chức bởi FIFA - cơ quan điều hành cao nhất về bóng đá, giải đấu đầu tiên diễn ra năm 1991, sau giải đầu tiên của nam 61 năm."
+        "Được tổ chức bởi FIFA - cơ quan điều hành cao nhất về bóng đá, giải đấu đầu tiên diễn ra năm 1991, sau giải đầu tiên của nam 61 năm."
       ],
       [
         "Mặc dù được thành lập cách đây không lâu nhưng Giải Vô địch Bóng đá nữ Thế giới càng ngày càng trở nên phổ biến.",
@@ -1045,7 +1045,7 @@
         "Thoạt đầu, Trung Quốc đăng cai cho Giải Vô địch Bóng đá nữ Thế giới năm 2003",
         "nhưng do sự bùng phát của dịch SARS (Hội chứng Suy Hô hấp cấp) ở nước này",
         "nên giải đấu đã được chuyển sang Mỹ.",
-        "Ðã từng là chủ nhà cho giải Vô địch năm 1999,",
+        "Đã từng là chủ nhà cho giải Vô địch năm 1999,",
         "Mỹ được xem là quốc gia duy nhất có khả năng tổ chức giải thi đấu trong một thời gian ngắn như thế."
       ]
     ],
@@ -1083,7 +1083,7 @@
       ["D. The 2003 championship finals were hosted by the United States."]
     ],
     "vi": [
-      ["Ðoạn văn chủ yếu nói về điều gì?"],
+      ["Đoạn văn chủ yếu nói về điều gì?"],
       ["Vòng đấu World Cup"],
       ["Sự tổ chức của FIFA"],
       ["Giải Vô địch Bóng đá nữ của FIFA. (X)"],
@@ -1139,13 +1139,13 @@
       ["Khỏe hơn"],
       [
         "Bạn sẽ trông khỏe khoắn nếu quyết định tập thể dục nhiều hơn.",
-        "Ðừng tốn thời gian trò chuyện.",
+        "Đừng tốn thời gian trò chuyện.",
         "Hãy đến nơi tập và nhất định phải đến đó đều đặn."
       ],
       ["Tỉnh táo hơn"],
       [
         "Hãy nghĩ đến số tiền ban sẽ tiết kiệm được nếu bỏ hút thuốc.",
-        "Ðừng nói mãi câu sẽ bỏ thuốc mà hãy thực hiện nó.",
+        "Đừng nói mãi câu sẽ bỏ thuốc mà hãy thực hiện nó.",
         "Sẽ dễ dàng nếu bạn tránh những nơi có người hút thuốc."
       ]
     ],
@@ -1192,8 +1192,8 @@
       ["Ví dụ:"],
       [
         "Tôi thích xem truyền hình và thương dành 1 hoặc 2 giờ xem nó mỗi ngày.",
-        "Ðôi lúc tôi xem nó nhiều hơn vào cuối tuần.",
-        "Một trong những chương trình tôi ưa thích là: \"Ðường lên đỉnh Olymbia\"",
+        "Đôi lúc tôi xem nó nhiều hơn vào cuối tuần.",
+        "Một trong những chương trình tôi ưa thích là: \"Đường lên đỉnh Olymbia\"",
         "Nó luôn có từ 9-11 giờ trên kênh VTV3 vào Chủ nhật.",
         "Tôi thích xem nó vì 3 người chơi trong mỗi chương trình đều rất thông minh.",
         "Họ là những học sinh ưu tú từ các trường khác nhau.",

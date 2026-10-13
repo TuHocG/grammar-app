@@ -27,7 +27,7 @@
     {
       "e": 34.84,
       "en": "OK. Wait a second, then move the cursor up to that icon.",
-      "vi": "Ðược rồi. Chờ một chút, sau đó di chuyển con trỏ lên biểu tượng đó.",
+      "vi": "Được rồi. Chờ một chút, sau đó di chuyển con trỏ lên biểu tượng đó.",
       "s": 28.59
     },
     {"e": 36.75, "en": "What's a cursor?", "vi": "Con trỏ là cái gì?", "s": 34.84},
@@ -37,7 +37,7 @@
       "vi": "Con trỏ là cái mũi tên đó. Anh điều khiển nó ở ngay chỗ đó.",
       "s": 36.75
     },
-    {"e": 45.56, "en": "OK. Then what?", "vi": "Ðược rồi. Rồi làm gì nữa?", "s": 40.81},
+    {"e": 45.56, "en": "OK. Then what?", "vi": "Được rồi. Rồi làm gì nữa?", "s": 40.81},
     {
       "e": 51.09,
       "en": "OK. Now double click on the icon and...",
@@ -103,7 +103,7 @@
     {
       "e": 107.31,
       "en": "Yeah, well, first you have to put this in the microwave safe container.",
-      "vi": "Ðược, nào trước tiên anh phải đặt cái này vào đồ đựng an toàn dành riêng cho lò vi ba.",
+      "vi": "Được, nào trước tiên anh phải đặt cái này vào đồ đựng an toàn dành riêng cho lò vi ba.",
       "s": 102.84
     },
     {
@@ -112,7 +112,7 @@
       "vi": "Chúng ta không thể dùng loại đĩa này bỏ vào lò vi ba.",
       "s": 107.31
     },
-    {"e": 112.73, "en": "OK. Now what?", "vi": "Ðược rồi. Bây giờ làm gì nữa?", "s": 109.88},
+    {"e": 112.73, "en": "OK. Now what?", "vi": "Được rồi. Bây giờ làm gì nữa?", "s": 109.88},
     {
       "e": 116.06,
       "en": "Open the microwave, put the food in,",
@@ -169,14 +169,14 @@
       "vi": "Nào, trước tiên anh đun sôi một ít nước.",
       "s": 162.55
     },
-    {"e": 167.77, "en": "Right, then what?", "vi": "Ðược, sau đó thì làm gì?", "s": 165.85},
+    {"e": 167.77, "en": "Right, then what?", "vi": "Được, sau đó thì làm gì?", "s": 165.85},
     {
       "e": 173.89,
       "en": "While you're waiting for the water to boil, put some tea leaves into a teapot.",
       "vi": "Trong khi đợi nước sôi, anh hãy bỏ một ít lá trà vào ấm trà.",
       "s": 167.77
     },
-    {"e": 178.71, "en": "Yes, and then?", "vi": "Ðược, rồi sau đó làm gì nữa?", "s": 173.89},
+    {"e": 178.71, "en": "Yes, and then?", "vi": "Được, rồi sau đó làm gì nữa?", "s": 173.89},
     {
       "e": 183.0,
       "en": "And then pour the boiling water into the teapot.",
@@ -186,7 +186,7 @@
     {
       "e": 185.27,
       "en": "Wait a few minutes before drinking.",
-      "vi": "Ðợi vài phút rồi mới uống.",
+      "vi": "Đợi vài phút rồi mới uống.",
       "s": 183.0
     },
     {"e": 189.4, "en": "That's it?", "vi": "Chỉ thế thôi sao?", "s": 185.27},
@@ -237,7 +237,7 @@
       "vi": "Bước thứ hai cô đổ một ít nước vào nồi rồi chắt nước ra để loại bỏ bụi dơ trong gạo.",
       "s": 232.47
     },
-    {"e": 241.25, "en": "Yeah, I got that.", "vi": "Ðược, em hiểu việc đó rồi.", "s": 239.18},
+    {"e": 241.25, "en": "Yeah, I got that.", "vi": "Được, em hiểu việc đó rồi.", "s": 239.18},
     {
       "e": 247.81,
       "en": "Third, measure out two cups of clean water and pour it into the pot.",
@@ -313,12 +313,12 @@
     {
       "e": 343.07,
       "en": "Sure. To start, choose a CD that you like.",
-      "vi": "Ðược chứ. Trước hết, hãy chọn đĩa compact cô thích.",
+      "vi": "Được chứ. Trước hết, hãy chọn đĩa compact cô thích.",
       "s": 335.39
     },
     {"e": 346.22, "en": "I know.", "vi": "Tôi biết rồi.", "s": 343.07},
     {"e": 352.2, "en": "Then push the open button.", "vi": "Sau đó ấn nút \"open\".", "s": 346.22},
-    {"e": 354.21, "en": "OK.", "vi": "Ðược.", "s": 352.2},
+    {"e": 354.21, "en": "OK.", "vi": "Được.", "s": 352.2},
     {
       "e": 359.15,
       "en": "Then you put the disc into the tray.",
@@ -341,7 +341,7 @@
       "vi": "Cuối cùng, hãy ngồi xuống và thư giãn.",
       "s": 376.73
     },
-    {"e": 382.87, "en": "OK. Is that it?", "vi": "Ðược, thế thôi sao?", "s": 380.85},
+    {"e": 382.87, "en": "OK. Is that it?", "vi": "Được, thế thôi sao?", "s": 380.85},
     {"e": 385.04, "en": "That's it! Easy, huh!", "vi": "Chỉ có thế! Dễ không nào!", "s": 382.87},
     {"e": 397.17, "en": "...", "vi": "...", "s": 385.04},
     {
@@ -350,7 +350,7 @@
       "vi": "Tôi sử dụng cái máy hát đĩa này như thế nào?",
       "s": 397.17
     },
-    {"e": 403.03, "en": "That's a VCR.", "vi": "Ðó là cái đầu máy video.", "s": 400.88},
+    {"e": 403.03, "en": "That's a VCR.", "vi": "Đó là cái đầu máy video.", "s": 400.88},
     {
       "e": 405.53,
       "en": "It plays videos, not discs.",
@@ -409,7 +409,7 @@
       "vi": "Phiền anh cho tôi mượn nó một lát nhé?",
       "s": 494.44
     },
-    {"e": 501.94, "en": "Sure, go ahead.", "vi": "Ðược, cứ lấy đi.", "s": 497.47},
+    {"e": 501.94, "en": "Sure, go ahead.", "vi": "Được, cứ lấy đi.", "s": 497.47},
     {
       "e": 507.41,
       "en": "How do you make it work?",
@@ -437,11 +437,11 @@
     {
       "e": 517.69,
       "en": "Is this the asterisk?",
-      "vi": "Ðây là phím có hình sao (*) phải không?",
+      "vi": "Đây là phím có hình sao (*) phải không?",
       "s": 516.17
     },
     {"e": 519.55, "en": "No, don't press that button!", "vi": "Không, đừng ấn nút đó!", "s": 517.69},
-    {"e": 521.13, "en": "That's the pound button.", "vi": "Ðó là nút thăng.", "s": 519.55},
+    {"e": 521.13, "en": "That's the pound button.", "vi": "Đó là nút thăng.", "s": 519.55},
     {"e": 524.15, "en": "What do I do next?", "vi": "Kế tiếp tôi làm gì?", "s": 521.13},
     {
       "e": 528.14,
@@ -464,7 +464,7 @@
       "s": 548.63
     },
     {"e": 553.92, "en": "Can I use it?", "vi": "Tôi sử dụng nó được không?", "s": 552.15},
-    {"e": 559.3, "en": "Yes.", "vi": "Ðược.", "s": 553.92},
+    {"e": 559.3, "en": "Yes.", "vi": "Được.", "s": 553.92},
     {"e": 561.26, "en": "How does it work?", "vi": "Sử dụng nó như thế nào?", "s": 559.3},
     {
       "e": 566.63,
@@ -477,7 +477,7 @@
     {
       "e": 579.06,
       "en": "Don't put it in that way, put it face up.",
-      "vi": "Ðừng để bức điện theo cách đó, hãy để nó quay mặt lên.",
+      "vi": "Đừng để bức điện theo cách đó, hãy để nó quay mặt lên.",
       "s": 575.17
     },
     {
@@ -486,7 +486,7 @@
       "vi": "Ồ, được rồi. Tôi ấn nút này phải không?",
       "s": 579.06
     },
-    {"e": 587.53, "en": "Don't push that button!", "vi": "Ðừng ấn nút đó!", "s": 585.61},
+    {"e": 587.53, "en": "Don't push that button!", "vi": "Đừng ấn nút đó!", "s": 585.61},
     {
       "e": 592.16,
       "en": "Dial the number you want to send a fax to.",
@@ -607,7 +607,7 @@
     {
       "e": 831.5,
       "en": "Okay. First, you have to open the laptop.",
-      "vi": "Ðược. Trước tiên, anh phải mở máy ra.",
+      "vi": "Được. Trước tiên, anh phải mở máy ra.",
       "s": 823.24
     },
     {"e": 836.73, "en": "Slide the switch.", "vi": "Trượt nhẹ nút này.", "s": 831.5},
@@ -627,7 +627,7 @@
     {
       "e": 848.38,
       "en": "No! Don't touch that button! Push that one there.",
-      "vi": "Không phải! Ðừng chạm vào cái nút đó! Hãy ấn cái nút ở kia.",
+      "vi": "Không phải! Đừng chạm vào cái nút đó! Hãy ấn cái nút ở kia.",
       "s": 843.88
     },
     {
@@ -682,7 +682,7 @@
     },
     {"e": 932.51, "en": "That one.", "vi": "Nút đó kìa.", "s": 925.81},
     {"e": 934.78, "en": "There is no sound.", "vi": "Không nghe gì cả.", "s": 932.51},
-    {"e": 938.11, "en": "Give me the phone.", "vi": "Ðưa điện thoại cho tôi nào.", "s": 934.78},
+    {"e": 938.11, "en": "Give me the phone.", "vi": "Đưa điện thoại cho tôi nào.", "s": 934.78},
     {
       "e": 943.64,
       "en": "Oh. You can't use the phone now.",

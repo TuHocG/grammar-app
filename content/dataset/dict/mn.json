@@ -166,7 +166,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một giao thức (chuẩn) kiểm lỗi phổ dụng nhất, nó lọc bỏ tạp nhiễu và hạn chế các lỗi có thể xảy ra trong quá trình phát và thu dữ liệu thông qua modem máy tính. Ðể kiểm tra lỗi cho một chức năng, cả hai modem-phát lẫn thu-đều phải có khả năng kiểm lỗi phù hợp với cùng một giao thức kiểm lỗi."
+        "t": "một giao thức (chuẩn) kiểm lỗi phổ dụng nhất, nó lọc bỏ tạp nhiễu và hạn chế các lỗi có thể xảy ra trong quá trình phát và thu dữ liệu thông qua modem máy tính. Để kiểm tra lỗi cho một chức năng, cả hai modem-phát lẫn thu-đều phải có khả năng kiểm lỗi phù hợp với cùng một giao thức kiểm lỗi."
       }
     ],
     "k": "mnp-4"

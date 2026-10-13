@@ -41,7 +41,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bộ nhớ XMS. Trong máy tính dùng vi xử lý 80286 trở lên, đây là bộ nhớ mà chương trình quản lý bộ nhớ đã cấu hình như là bộ nhớ phát triển. Một số chương trình DOS có thể sử dụng bộ nhớ XMS để phá vỡ hàng rào 640K RAM. Ðồng nghĩa với extended memory."
+        "t": "bộ nhớ XMS. Trong máy tính dùng vi xử lý 80286 trở lên, đây là bộ nhớ mà chương trình quản lý bộ nhớ đã cấu hình như là bộ nhớ phát triển. Một số chương trình DOS có thể sử dụng bộ nhớ XMS để phá vỡ hàng rào 640K RAM. Đồng nghĩa với extended memory."
       }
     ],
     "k": "xms memory"

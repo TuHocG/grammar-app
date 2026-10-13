@@ -6,7 +6,7 @@
       "sid": 0,
       "title": "Phiên Âm Quốc Tế.",
       "file": "sec-0.json",
-      "items": [{"id": 1, "title": "Cách Ðọc Phiên Âm Quốc Tế.", "audio": false}]
+      "items": [{"id": 1, "title": "Cách Đọc Phiên Âm Quốc Tế.", "audio": false}]
     },
     {
       "sid": 1,
@@ -574,7 +574,7 @@
     },
     {
       "sid": 7,
-      "title": "Mức Ðộ 2000 Từ.",
+      "title": "Mức Độ 2000 Từ.",
       "file": "sec-7.json",
       "items": [
         {"id": 531, "title": "My School.", "audio": false},
@@ -856,7 +856,7 @@
     },
     {
       "sid": 10,
-      "title": "Trình Ðộ B.",
+      "title": "Trình Độ B.",
       "file": "sec-10.json",
       "items": [
         {"id": 795, "title": "Essay 1.", "audio": false},
@@ -963,7 +963,7 @@
     },
     {
       "sid": 11,
-      "title": "Trình Ðộ C.",
+      "title": "Trình Độ C.",
       "file": "sec-11.json",
       "items": [
         {"id": 896, "title": "Essay  1.", "audio": false},

@@ -99,7 +99,7 @@
       "vi": "Chào Karen. Chào bác sĩ Johnson.",
       "s": 116.54
     },
-    {"e": 120.31, "en": "Is Don in?", "vi": "Ðàn ông có ở đây không?", "s": 118.88},
+    {"e": 120.31, "en": "Is Don in?", "vi": "Đàn ông có ở đây không?", "s": 118.88},
     {
       "e": 123.46,
       "en": "No, he's gone out for lunch.",
@@ -137,7 +137,7 @@
     {
       "e": 155.49,
       "en": "OK. I'll give him the message.",
-      "vi": "Ðược. Tôi sẽ chuyển lời nhắn cho ông ấy.",
+      "vi": "Được. Tôi sẽ chuyển lời nhắn cho ông ấy.",
       "s": 151.65
     },
     {"e": 158.64, "en": "You're welcome. Bye.", "vi": "Không có chi. Tạm biệt.", "s": 155.49},
@@ -152,7 +152,7 @@
     {
       "e": 177.67,
       "en": "Sure. What time will you be back?",
-      "vi": "Ðược chứ. Mấy giờ thì chị trở lại?",
+      "vi": "Được chứ. Mấy giờ thì chị trở lại?",
       "s": 175.32
     },
     {"e": 178.96, "en": "1:30.", "vi": "1 giờ 30", "s": 177.67},
@@ -160,13 +160,13 @@
     {
       "e": 185.67,
       "en": "Right. And Dr. Wilson is out for lunch and he'll be back at one o'clock.",
-      "vi": "Ðúng vậy. Còn bác sĩ Wilson đi ăn trưa và ông ấy sẽ trở lại lúc 1 giờ.",
+      "vi": "Đúng vậy. Còn bác sĩ Wilson đi ăn trưa và ông ấy sẽ trở lại lúc 1 giờ.",
       "s": 179.94
     },
     {
       "e": 188.76,
       "en": "OK. Have a nice lunch. Thanks.",
-      "vi": "Ðược rồi, ăn ngon nhé.",
+      "vi": "Được rồi, ăn ngon nhé.",
       "s": 185.67
     },
     {"e": 197.98, "en": "...", "vi": "...", "s": 188.76},
@@ -199,7 +199,7 @@
     {
       "e": 222.3,
       "en": "OK. Just one second, please. Hold on.",
-      "vi": "Ðược rồi. Chỉ một giây thôi. Xin chờ máy.",
+      "vi": "Được rồi. Chỉ một giây thôi. Xin chờ máy.",
       "s": 219.87
     },
     {"e": 232.28, "en": "Hello? Hello? Oh, no!", "vi": "Alô, alô, ôi trời.", "s": 222.3},
@@ -249,7 +249,7 @@
     {
       "e": 271.92,
       "en": "OK. \"Call Dr. Brown at 3:00.\"",
-      "vi": "Ðược rồi. \"Gọi bác sĩ Brown lúc 3 giờ.\"",
+      "vi": "Được rồi. \"Gọi bác sĩ Brown lúc 3 giờ.\"",
       "s": 265.15
     },
     {

@@ -47,7 +47,7 @@
     "k": "ad balloon"
   },
   {"h": "Ad beneplacitum", "segs": [{"k": "m", "t": "Tùy tôn ý."}], "k": "ad beneplacitum"},
-  {"h": "Ad cautelam", "segs": [{"k": "m", "t": "Ðể dự phòng."}], "k": "ad cautelam"},
+  {"h": "Ad cautelam", "segs": [{"k": "m", "t": "Để dự phòng."}], "k": "ad cautelam"},
   {
     "h": "ad column",
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "cột quảng cáo"}],
@@ -256,7 +256,7 @@
     ],
     "k": "ad publication audit"
   },
-  {"h": "Ad quem", "segs": [{"k": "m", "t": "Ðáo hạn, điểm đến, tiêu đích."}], "k": "ad quem"},
+  {"h": "Ad quem", "segs": [{"k": "m", "t": "Đáo hạn, điểm đến, tiêu đích."}], "k": "ad quem"},
   {"h": "ad referendum", "segs": [{"k": "m", "t": "để phối hợp hơn nữa."}], "k": "ad referendum"},
   {
     "h": "ad referendum contract",
@@ -397,7 +397,7 @@
   },
   {
     "h": "Ad vitanda scandala",
-    "segs": [{"k": "m", "t": "Ðể tránh gương xấu."}],
+    "segs": [{"k": "m", "t": "Để tránh gương xấu."}],
     "k": "ad vitanda scandala"
   },
   {
@@ -1666,7 +1666,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thêm/gỡ bỏ. Ðây là tính năng của Windows 95 trong Control Panel. Tính năng này cho phép gỡ bỏ các chương trình không cần thiết nữa."
+        "t": "thêm/gỡ bỏ. Đây là tính năng của Windows 95 trong Control Panel. Tính năng này cho phép gỡ bỏ các chương trình không cần thiết nữa."
       }
     ],
     "k": "add/remove"
@@ -2010,7 +2010,7 @@
   },
   {
     "h": "addis count",
-    "segs": [{"k": "m", "t": "Ðếm Addis, đếm cặn nước tiểu."}],
+    "segs": [{"k": "m", "t": "Đếm Addis, đếm cặn nước tiểu."}],
     "k": "addis count"
   },
   {
@@ -2175,7 +2175,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phép cộng các xạ ảnh. Giả sử (X, +), (Y, +) là các nửa nhóm cộng aben và f: X ( Y, g: X ( Y là các ánh xạ từ X vào Y. ánh xạ h: X ( Y sao cho h (x) = f (x) + g (x) với mọi x ( X được gọi là tổng của các ánh xạ f và g. Ðể thu được ánh xạ h ta đã thực hiện phép cộng các ánh xạ f và g."
+        "t": "phép cộng các xạ ảnh. Giả sử (X, +), (Y, +) là các nửa nhóm cộng aben và f: X ( Y, g: X ( Y là các ánh xạ từ X vào Y. ánh xạ h: X ( Y sao cho h (x) = f (x) + g (x) với mọi x ( X được gọi là tổng của các ánh xạ f và g. Để thu được ánh xạ h ta đã thực hiện phép cộng các ánh xạ f và g."
       }
     ],
     "k": "addition of mapping"
@@ -3284,7 +3284,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là tên gọi thường dùng để ám chỉ hạ nghị viện Anh. Hội đồng này có thể đưa ý kiến phản đối chính sách, đường lối chính trị của hoàng gia Anh. Vì thế nó ít nhận được sự ủng hộ và giúp đỡ của chính phủ. Về mặt quyền hạn, nó có thể can thiệp và làm thay đổi chính sách của hoàng gia về các mặt đối nội và đối ngoại chẳng hạn như xây dựng nhà thờ, định thuế xuất nhập khẩu, các chính sách, luật về tòa án và bầu cử. Tuy nhiên hoàng gia có thẩm quyền giải thể nghị viện trước khi ban hành các luật định. Vì thế tên gọi của nghị viện nghe có vẻ yếu đuối và thua kém quyền lực. Lúc bấy giờ đức vua có thể ban hành sắc lệnh mà không cần phải thông qua quốc hội cho đến năm 1621."
+        "t": "Đây là tên gọi thường dùng để ám chỉ hạ nghị viện Anh. Hội đồng này có thể đưa ý kiến phản đối chính sách, đường lối chính trị của hoàng gia Anh. Vì thế nó ít nhận được sự ủng hộ và giúp đỡ của chính phủ. Về mặt quyền hạn, nó có thể can thiệp và làm thay đổi chính sách của hoàng gia về các mặt đối nội và đối ngoại chẳng hạn như xây dựng nhà thờ, định thuế xuất nhập khẩu, các chính sách, luật về tòa án và bầu cử. Tuy nhiên hoàng gia có thẩm quyền giải thể nghị viện trước khi ban hành các luật định. Vì thế tên gọi của nghị viện nghe có vẻ yếu đuối và thua kém quyền lực. Lúc bấy giờ đức vua có thể ban hành sắc lệnh mà không cần phải thông qua quốc hội cho đến năm 1621."
       }
     ],
     "k": "addled parliament"
@@ -3306,12 +3306,12 @@
     "segs": [
       {"k": "m", "t": "Administration Directory Management Domain (ADDMD)"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "Vùng Quản Lý Thư Mục Quản Trị-AÐMD"}
+      {"k": "m", "t": "Vùng Quản Lý Thư Mục Quản Trị-AĐMD"}
     ],
     "k": "addmd"
   },
   {"h": "addorsed", "segs": [{"k": "m", "t": "(kiến trúc) đối xứng (trang trí)."}], "k": "addorsed"},
-  {"h": "addr", "segs": [{"k": "m", "t": ".(vt) address: Ðịa chỉ."}], "k": "addr"},
+  {"h": "addr", "segs": [{"k": "m", "t": ".(vt) address: Địa chỉ."}], "k": "addr"},
   {
     "h": "address",
     "segs": [
@@ -3358,7 +3358,7 @@
       {
         "k": "ex",
         "t": "Don't address me as 'Major-general': I'm only a colonel",
-        "vi": "Ðừng gọi tôi là ‘Thiếu tướng': Tôi chỉ mới là đại tá thôi"
+        "vi": "Đừng gọi tôi là ‘Thiếu tướng': Tôi chỉ mới là đại tá thôi"
       },
       {
         "k": "m",
@@ -4301,7 +4301,7 @@
   {"h": "adenocyst", "segs": [{"k": "m", "t": "U nang tuyến."}], "k": "adenocyst"},
   {"h": "adenocystoma", "segs": [{"k": "m", "t": "U nang tuyến."}], "k": "adenocystoma"},
   {"h": "adenocyte", "segs": [{"k": "m", "t": "Tế bào tuyến."}], "k": "adenocyte"},
-  {"h": "adenodynia", "segs": [{"k": "m", "t": "Ðau tuyến."}], "k": "adenodynia"},
+  {"h": "adenodynia", "segs": [{"k": "m", "t": "Đau tuyến."}], "k": "adenodynia"},
   {"h": "adenoepithelioma", "segs": [{"k": "m", "t": "U biểu mô tuyến."}], "k": "adenoepithelioma"},
   {"h": "adenofibroma", "segs": [{"k": "m", "t": "U xơ tuyến."}], "k": "adenofibroma"},
   {"h": "adenogenous", "segs": [{"k": "m", "t": "Phát sinh tứ tuyến."}], "k": "adenogenous"},
@@ -4433,7 +4433,7 @@
   },
   {
     "h": "adenomere",
-    "segs": [{"k": "m", "t": "Ðoạn kết của tuyến, đoạn hoạt động của tuyến."}],
+    "segs": [{"k": "m", "t": "Đoạn kết của tuyến, đoạn hoạt động của tuyến."}],
     "k": "adenomere"
   },
   {"h": "adenomyofibroma", "segs": [{"k": "m", "t": "U xơ cơ tuyến."}], "k": "adenomyofibroma"},
@@ -5932,7 +5932,7 @@
   },
   {
     "h": "aditus laryngis",
-    "segs": [{"k": "m", "t": "Ðường vào thanh quản."}],
+    "segs": [{"k": "m", "t": "Đường vào thanh quản."}],
     "k": "aditus laryngis"
   },
   {"h": "adiusting shim", "segs": [{"k": "m", "t": "miếng nêm điều chỉnh."}], "k": "adiusting shim"},
@@ -6686,12 +6686,12 @@
         "t": "She carefully adjusted her clothes and her hair before going out",
         "vi": "Nàng chỉnh đốn quần áo và tóc tai kỹ lưỡng trước khi đi ra ngoài"
       },
-      {"k": "ex", "t": "To adjust a plan", "vi": "Ðiều chỉnh một kế hoạch"},
+      {"k": "ex", "t": "To adjust a plan", "vi": "Điều chỉnh một kế hoạch"},
       {"k": "ex", "t": "The brakes need adjusting", "vi": "Bộ thắng cần phải chỉnh lại"},
       {
         "k": "ex",
         "t": "To adjust the focus of a camera, the sights of a gun",
-        "vi": "Ðiều chỉnh tiêu cự của máy ảnh, ống ngăm của khẩu súng"
+        "vi": "Điều chỉnh tiêu cự của máy ảnh, ống ngăm của khẩu súng"
       },
       {
         "k": "ex",
@@ -8209,7 +8209,7 @@
       {"k": "m", "t": "sĩ quan quân đội chịu trách nhiệm về quản trị trong một tiểu đoàn"},
       {"k": "m", "t": "(động) như"},
       {"k": "m", "t": "marabou"},
-      {"k": "ex", "t": "adjutant bird", "vi": "(động) cò già (ở Ấn Ðộ)."}
+      {"k": "ex", "t": "adjutant bird", "vi": "(động) cò già (ở Ấn Độ)."}
     ],
     "ipa": "'ædʒutənt",
     "k": "adjutant"
@@ -8906,7 +8906,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đơn vị hành chính. Ðơn vị được phân chia trên lãnh thổ của một quốc gia để quản lý hành chính. Mỗi đơn vị hành chính được phân định theo thế bậc hành chính, đảm bảo sự phối hợp, sự quản lý tập trung thống nhất của nhà nước và quyền tự quản của địa phương. Theo Ðiều 118 Hiến pháp 1992, đơn vị hành chính của Việt Nam được phân như sau: Nước chia thành tỉnh, thành phố trực thuộc trung ương. Tỉnh chia thành huyện, thành phố thuộc tỉnh và thị xã. Thành phố trực thuộc trung ương chia thành quận, huyện và thị xã. Huyện chia thành xã, thị trấn. Thành phố thuộc tỉnh và thị xã chia thành phường và xã. Quận chia thành phường. Tax calculation unit đơn vị tính thuế. Bộ phận được coi là nhỏ nhất của đối tượng chịu thuế để tính thuế."
+        "t": "đơn vị hành chính. Đơn vị được phân chia trên lãnh thổ của một quốc gia để quản lý hành chính. Mỗi đơn vị hành chính được phân định theo thế bậc hành chính, đảm bảo sự phối hợp, sự quản lý tập trung thống nhất của nhà nước và quyền tự quản của địa phương. Theo Điều 118 Hiến pháp 1992, đơn vị hành chính của Việt Nam được phân như sau: Nước chia thành tỉnh, thành phố trực thuộc trung ương. Tỉnh chia thành huyện, thành phố thuộc tỉnh và thị xã. Thành phố trực thuộc trung ương chia thành quận, huyện và thị xã. Huyện chia thành xã, thị trấn. Thành phố thuộc tỉnh và thị xã chia thành phường và xã. Quận chia thành phường. Tax calculation unit đơn vị tính thuế. Bộ phận được coi là nhỏ nhất của đối tượng chịu thuế để tính thuế."
       }
     ],
     "k": "administrative division"
@@ -9266,7 +9266,7 @@
       },
       {
         "k": "m",
-        "t": "Trong NetWare, có một tài khoản giám sát tách biệt để có thể theo dõi các hoạt động của administrator. Ðây là ý tưởng hay. Khi hệ thống được cài lần đầu tiên, administrator tạo ra tài khoản giám sát (auditor account). Một khi giám sát viên (auditor) nào đó được phép sử dụng tài khoản này, anh ta có thể thay đổi mật khẩu để bảo đảm rằng administrator không còn truy cập đến nó nữa. Auditor có thể theo dõi hoạt động của administrator nhưng không thể thực hiện các tác vụ khác như administrator."
+        "t": "Trong NetWare, có một tài khoản giám sát tách biệt để có thể theo dõi các hoạt động của administrator. Đây là ý tưởng hay. Khi hệ thống được cài lần đầu tiên, administrator tạo ra tài khoản giám sát (auditor account). Một khi giám sát viên (auditor) nào đó được phép sử dụng tài khoản này, anh ta có thể thay đổi mật khẩu để bảo đảm rằng administrator không còn truy cập đến nó nữa. Auditor có thể theo dõi hoạt động của administrator nhưng không thể thực hiện các tác vụ khác như administrator."
       },
       {"k": "m", "t": "từ mục liên quan"},
       {"k": "m", "t": "Auditing; Network Management; Rights and Permissions; Users and Groups."}
@@ -10502,7 +10502,7 @@
         "vi": ") chọn ai làm ứng cử viên hoặc đại diện"
       },
       {"k": "ex", "t": "she has been adopted as Labour candidate for", "vi": "York"},
-      {"k": "m", "t": "cô ta được chọn làm đại biểu Công Ðảng cho vùng York"},
+      {"k": "m", "t": "cô ta được chọn làm đại biểu Công Đảng cho vùng York"},
       {"k": "m", "t": "kế tục và có hoặc sử dụng cái gì như của riêng mình"},
       {
         "k": "ex",
@@ -11655,7 +11655,7 @@
   {
     "h": "adt",
     "segs": [
-      {"k": "m", "t": "(tắt) thời gian ban ngày ở Ðại Tây Dương ("},
+      {"k": "m", "t": "(tắt) thời gian ban ngày ở Đại Tây Dương ("},
       {"k": "ex", "t": "Atlantic Daylight Time", "vi": ")."}
     ],
     "ipa": ",ei di: 'ti:",
@@ -12026,7 +12026,7 @@
       {"k": "m", "t": "(kinh tế) Thuế theo giá trị."},
       {
         "k": "m",
-        "t": "Một loại thuế dựa trên giá trị giao dịch. Ðó thường là tỉ lệ phần trăm khi giá bán lẻ, sỉ, hay quá trình sản xuất, và là dạng phổ biến của thuế doanh thu."
+        "t": "Một loại thuế dựa trên giá trị giao dịch. Đó thường là tỉ lệ phần trăm khi giá bán lẻ, sỉ, hay quá trình sản xuất, và là dạng phổ biến của thuế doanh thu."
       }
     ],
     "k": "advalorem tax"

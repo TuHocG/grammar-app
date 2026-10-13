@@ -7,12 +7,12 @@
   },
   {
     "h": "CS (Computer Science)",
-    "segs": [{"k": "m", "t": "(kỹ thuật) Khoa học Ðiện toán, Khoa Vi tính."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) Khoa học Điện toán, Khoa Vi tính."}],
     "k": "cs (computer science)"
   },
   {
     "h": "CS (Computer Simulation)",
-    "segs": [{"k": "m", "t": "(kỹ thuật) Mô phỏng Máy Ðiện toán."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) Mô phỏng Máy Điện toán."}],
     "k": "cs (computer simulation)"
   },
   {

@@ -37,7 +37,7 @@
     "tt": 1,
     "blanks": [{"a": "Grasp", "alt": [], "n": 5}],
     "given": ["grasper"],
-    "vi": "Cẩn thận đấy! Ðừng lấy nhiều quá. Tham thì thâm đó."
+    "vi": "Cẩn thận đấy! Đừng lấy nhiều quá. Tham thì thâm đó."
   },
   {
     "id": 22532,
@@ -657,7 +657,7 @@
     "tt": 1,
     "blanks": [{"a": "Greater", "alt": [], "n": 5}],
     "given": ["overgreat"],
-    "vi": "Hãy nhìn chòm sao Ðại-thiên-lang kìa! Nó thật là đẹp!"
+    "vi": "Hãy nhìn chòm sao Đại-thiên-lang kìa! Nó thật là đẹp!"
   },
   {
     "id": 22594,
@@ -667,7 +667,7 @@
     "tt": 1,
     "blanks": [{"a": "greater", "alt": [], "n": 5}],
     "given": ["overgreat"],
-    "vi": "Mũ Ðông-Tây phải lớn hơn."
+    "vi": "Mũ Đông-Tây phải lớn hơn."
   },
   {
     "id": 22595,
@@ -797,7 +797,7 @@
     "tt": 1,
     "blanks": [{"a": "greedy", "alt": [], "n": 5}],
     "given": ["overgreedily"],
-    "vi": "Ðồ háu ăn. Bạn đã ăn hết thức ăn rồi."
+    "vi": "Đồ háu ăn. Bạn đã ăn hết thức ăn rồi."
   },
   {
     "id": 22608,
@@ -837,7 +837,7 @@
     "tt": 1,
     "blanks": [{"a": "greedy", "alt": [], "n": 5}],
     "given": ["overgreedily"],
-    "vi": "Ðáng đời bạn vì tham lam và ham rẻ."
+    "vi": "Đáng đời bạn vì tham lam và ham rẻ."
   },
   {
     "id": 22612,
@@ -937,7 +937,7 @@
     "tt": 1,
     "blanks": [{"a": "green", "alt": [], "n": 5}],
     "given": ["greenage"],
-    "vi": "Ðó là súp, cải xanh hoặc món xào."
+    "vi": "Đó là súp, cải xanh hoặc món xào."
   },
   {
     "id": 22622,
@@ -1007,7 +1007,7 @@
     "tt": 1,
     "blanks": [{"a": "greenery", "alt": [], "n": 5}],
     "given": ["greenage"],
-    "vi": "Ðá quý và thiết kế theo chủ đề thiên nhiên có nhiều, nhưng mẩu vỏ cây và cỏ xanh hoặc hoa khô thật trong đồ trang sức là chuyện hết sức hiếm hoi."
+    "vi": "Đá quý và thiết kế theo chủ đề thiên nhiên có nhiều, nhưng mẩu vỏ cây và cỏ xanh hoặc hoa khô thật trong đồ trang sức là chuyện hết sức hiếm hoi."
   },
   {
     "id": 22629,
@@ -2017,7 +2017,7 @@
     "tt": 1,
     "blanks": [{"a": "outgrow", "alt": [], "n": 5}],
     "given": ["growable"],
-    "vi": "Ða số trẻ sẽ hết mộng du khi ở tuổi thanh thiếu niên."
+    "vi": "Đa số trẻ sẽ hết mộng du khi ở tuổi thanh thiếu niên."
   },
   {
     "id": 22730,
@@ -2787,7 +2787,7 @@
     "tt": 1,
     "blanks": [{"a": "Guideline", "alt": [], "n": 5}],
     "given": ["guideless"],
-    "vi": "Dựa trên những cuộc họp này, một cuốn cẩm nang Hướng dẫn Lồng ghép Giảm rủi ro thiên tai và thích ứng với BÐKH đã và đang được xây dựng."
+    "vi": "Dựa trên những cuộc họp này, một cuốn cẩm nang Hướng dẫn Lồng ghép Giảm rủi ro thiên tai và thích ứng với BĐKH đã và đang được xây dựng."
   },
   {
     "id": 22807,
@@ -2847,7 +2847,7 @@
     "tt": 1,
     "blanks": [{"a": "guidance", "alt": [], "n": 5}],
     "given": ["guideless"],
-    "vi": "Ðể làm được điều này, họ cần được sự hướng dẫn hệ thống thuế."
+    "vi": "Để làm được điều này, họ cần được sự hướng dẫn hệ thống thuế."
   },
   {
     "id": 22813,
@@ -2977,7 +2977,7 @@
     "tt": 1,
     "blanks": [{"a": "guiltless", "alt": [], "n": 5}],
     "given": ["guiltlessly"],
-    "vi": "(Kinh Thánh) Không được lạm dụng tên của Chúa Hằng Hữu, Thượng Ðế các ngươi. Ai phạm tội này, Ta sẽ không tha."
+    "vi": "(Kinh Thánh) Không được lạm dụng tên của Chúa Hằng Hữu, Thượng Đế các ngươi. Ai phạm tội này, Ta sẽ không tha."
   },
   {
     "id": 22826,
@@ -3077,7 +3077,7 @@
     "tt": 1,
     "blanks": [{"a": "Gynecology", "alt": [], "n": 5}],
     "given": ["gynecology"],
-    "vi": "Khi bé gái phát triển đến tuổi dậy thì, tuổi thanh thiếu niên thì quan trọng là phải được chăm sóc sức khỏe một cách phù hợp. Trường Ðại học Sản Phụ khoa Hoa Kỳ (ACOG) khuyến nghị các phụ nữ trẻ nên đến khám bác sĩ sản phụ khoa lần đầu tiên từ tuổi 13 đến 15 hoặc khi có thể quan hệ tình dục."
+    "vi": "Khi bé gái phát triển đến tuổi dậy thì, tuổi thanh thiếu niên thì quan trọng là phải được chăm sóc sức khỏe một cách phù hợp. Trường Đại học Sản Phụ khoa Hoa Kỳ (ACOG) khuyến nghị các phụ nữ trẻ nên đến khám bác sĩ sản phụ khoa lần đầu tiên từ tuổi 13 đến 15 hoặc khi có thể quan hệ tình dục."
   },
   {
     "id": 22836,
@@ -3097,7 +3097,7 @@
     "tt": 1,
     "blanks": [{"a": "gynecology", "alt": [], "n": 5}],
     "given": ["gynecology"],
-    "vi": "theo bác sĩ Gil Gross, một phó giáo sư sản phụ khoa tại Trường Ðại học Y Washington ở St Louis."
+    "vi": "theo bác sĩ Gil Gross, một phó giáo sư sản phụ khoa tại Trường Đại học Y Washington ở St Louis."
   },
   {
     "id": 22838,
@@ -3107,7 +3107,7 @@
     "tt": 1,
     "blanks": [{"a": "Gynecology", "alt": [], "n": 5}],
     "given": ["gynecology"],
-    "vi": "Trường Ðại học Sản Phụ khoa Hoa Kỳ (ACOG) khuyến nghị các phụ nữ trẻ nên đến khám bác sĩ sản phụ khoa lần đầu tiên từ tuổi 13 đến 15 hoặc khi có thể quan hệ tình dục."
+    "vi": "Trường Đại học Sản Phụ khoa Hoa Kỳ (ACOG) khuyến nghị các phụ nữ trẻ nên đến khám bác sĩ sản phụ khoa lần đầu tiên từ tuổi 13 đến 15 hoặc khi có thể quan hệ tình dục."
   },
   {
     "id": 22839,
@@ -3117,7 +3117,7 @@
     "tt": 1,
     "blanks": [{"a": "gynecologic", "alt": [], "n": 5}],
     "given": ["gynecology"],
-    "vi": "Ðồng thời bác sĩ cũng có thể khám phụ khoa để loại bỏ các nguyên nhân gây nên triệu chứng khả thi khác."
+    "vi": "Đồng thời bác sĩ cũng có thể khám phụ khoa để loại bỏ các nguyên nhân gây nên triệu chứng khả thi khác."
   },
   {
     "id": 22840,
@@ -3287,7 +3287,7 @@
     "tt": 1,
     "blanks": [{"a": "habitually", "alt": [], "n": 5}],
     "given": ["habitualness"],
-    "vi": "Suy cho cùng thì Ðức Phật cũng chỉ là một con người, nhưng là một con người luôn luôn làm chệch hướng sự quan tâm của các đệ tử nhắm vào ông để họ hướng vào trung tâm của nhiệm vụ tâm linh."
+    "vi": "Suy cho cùng thì Đức Phật cũng chỉ là một con người, nhưng là một con người luôn luôn làm chệch hướng sự quan tâm của các đệ tử nhắm vào ông để họ hướng vào trung tâm của nhiệm vụ tâm linh."
   },
   {
     "id": 22857,
@@ -3997,7 +3997,7 @@
     "tt": 1,
     "blanks": [{"a": "unhappy", "alt": [], "n": 5}],
     "given": ["overhappy"],
-    "vi": "\"Ðúng là tôi,\" chàng trai trẻ bất hạnh trả lời."
+    "vi": "\"Đúng là tôi,\" chàng trai trẻ bất hạnh trả lời."
   },
   {
     "id": 22928,
@@ -4147,7 +4147,7 @@
     "tt": 1,
     "blanks": [{"a": "harass", "alt": [], "n": 5}],
     "given": ["harassable"],
-    "vi": "Tháng 3/2009-Ngư dân và tàu Trung Quốc quấy nhiễu một tài hải quân Hoa Kỳ ở Biển Ðông. Theo Lầu Năm Góc, tàu Trung Quốc đã tấn công con tàu Impeccable cách đảo Hải Nam, Nam TQ, 120 ki-lô-mét."
+    "vi": "Tháng 3/2009-Ngư dân và tàu Trung Quốc quấy nhiễu một tài hải quân Hoa Kỳ ở Biển Đông. Theo Lầu Năm Góc, tàu Trung Quốc đã tấn công con tàu Impeccable cách đảo Hải Nam, Nam TQ, 120 ki-lô-mét."
   },
   {
     "id": 22943,
@@ -4447,7 +4447,7 @@
     "tt": 1,
     "blanks": [{"a": "hardness", "alt": [], "n": 5}],
     "given": ["hard"],
-    "vi": "28-Ðộ cứng của bơ tỉ lệ thuận với độ mềm của bánh mỳ."
+    "vi": "28-Độ cứng của bơ tỉ lệ thuận với độ mềm của bánh mỳ."
   },
   {
     "id": 22973,
@@ -4777,7 +4777,7 @@
     "tt": 1,
     "blanks": [{"a": "harmoniously", "alt": [], "n": 5}],
     "given": ["harmoniousness"],
-    "vi": "Là người có óc thực tế, Ðức Phật được cho là đã liệt kê 10 bổn phận dành cho các vị vua, gồm quảng đại, chính trực (được biểu lộ qua việc tuân giữ 5 giới luật căn bản), đặt lợi ích của nhân dân lên hàng đầu, chân thật, nhân từ, tự chủ, không oán ghét, hiếu hòa, kiên nhẫn, và sẵn lòng cai trị một cách hài hòa chứ không chuyên quyền, độc đoán."
+    "vi": "Là người có óc thực tế, Đức Phật được cho là đã liệt kê 10 bổn phận dành cho các vị vua, gồm quảng đại, chính trực (được biểu lộ qua việc tuân giữ 5 giới luật căn bản), đặt lợi ích của nhân dân lên hàng đầu, chân thật, nhân từ, tự chủ, không oán ghét, hiếu hòa, kiên nhẫn, và sẵn lòng cai trị một cách hài hòa chứ không chuyên quyền, độc đoán."
   },
   {
     "id": 23006,
@@ -4907,7 +4907,7 @@
     "tt": 1,
     "blanks": [{"a": "harmonization", "alt": [], "n": 5}],
     "given": ["harmonizable"],
-    "vi": "Hiệp định khung e-ASEAN (4/2000): Ðề ra chính sách thúc đẩy hài hòa các mục tiêu thương mại điện tử và quản lý bằng điện tử để hỗ trợ hoạt động thương mại trong khu vực."
+    "vi": "Hiệp định khung e-ASEAN (4/2000): Đề ra chính sách thúc đẩy hài hòa các mục tiêu thương mại điện tử và quản lý bằng điện tử để hỗ trợ hoạt động thương mại trong khu vực."
   },
   {
     "id": 23019,

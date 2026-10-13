@@ -37,7 +37,7 @@
     {"e": 20.53, "en": "Yes, that will be great.", "vi": "ừ, hay lắm đó.", "s": 18.64},
     {"e": 22.17, "en": "Do you wanna do it now?", "vi": "Bạn đang cần làm gì?", "s": 20.53},
     {"e": 23.94, "en": "Yes, if you are free.", "vi": "ừ nếu bạn rảnh.", "s": 22.17},
-    {"e": 33.13, "en": "Let's go! Thanks.", "vi": "Ði nào! Cảm ơn.", "s": 23.94},
+    {"e": 33.13, "en": "Let's go! Thanks.", "vi": "Đi nào! Cảm ơn.", "s": 23.94},
     {
       "e": 38.09,
       "en": "Hum, this computer that we're putting together is pretty nice.",
@@ -154,7 +154,7 @@
     {
       "e": 122.84,
       "en": "It's where the phone's desk on, so it should go easily there, I think.",
-      "vi": "Ðó là chỗ kê bàn điện thoại, vì vậy mình nghĩ có thể dễ dàng kê nó ở đó.",
+      "vi": "Đó là chỗ kê bàn điện thoại, vì vậy mình nghĩ có thể dễ dàng kê nó ở đó.",
       "s": 117.36
     },
     {
@@ -224,7 +224,7 @@
       "vi": "Cái ghế trong phòng của bạn mình.",
       "s": 185.35
     },
-    {"e": 214.38, "en": "I'll go get it.", "vi": "Ðể mình đi lấy nó.", "s": 187.0},
+    {"e": 214.38, "en": "I'll go get it.", "vi": "Để mình đi lấy nó.", "s": 187.0},
     {
       "e": 217.11,
       "en": "There really is a lot of stuff in here now.",

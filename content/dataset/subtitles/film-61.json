@@ -79,8 +79,8 @@
       "s": 55.66
     },
     {"e": 60.44, "en": "Much earlier.", "vi": "Trước đây rất lâu.", "s": 59.07},
-    {"e": 61.98, "en": "It's a real concern.", "vi": "Ðó là một mối bận tâm thật sự.", "s": 60.44},
-    {"e": 62.87, "en": "Hear hear!", "vi": "Ðúng rồi, đúng rồi!", "s": 61.98},
+    {"e": 61.98, "en": "It's a real concern.", "vi": "Đó là một mối bận tâm thật sự.", "s": 60.44},
+    {"e": 62.87, "en": "Hear hear!", "vi": "Đúng rồi, đúng rồi!", "s": 61.98},
     {
       "e": 67.9,
       "en": "In that case, I agree - we should do something now.",
@@ -128,7 +128,7 @@
       "vi": "À, nếu không còn thảo luận nào nữa - chúng ta sẽ bắt đầu bỏ phiếu.",
       "s": 90.97
     },
-    {"e": 102.2, "en": "Hear hear!", "vi": "Ðúng rồi, đúng rồi!", "s": 95.56},
+    {"e": 102.2, "en": "Hear hear!", "vi": "Đúng rồi, đúng rồi!", "s": 95.56},
     {
       "e": 106.52,
       "en": "Today we're looking again at meetings.",
@@ -233,7 +233,7 @@
       "vi": "À, tôi không cho rằng công việc cũng gấp rút như bản thông báo này, nên có lẽ...",
       "s": 189.9
     },
-    {"e": 196.35, "en": "Don't be ridiculous!", "vi": "Ðừng có lố bịch như thế!", "s": 194.64},
+    {"e": 196.35, "en": "Don't be ridiculous!", "vi": "Đừng có lố bịch như thế!", "s": 194.64},
     {"e": 197.94, "en": "Excuse me?", "vi": "Xin lỗi gì chứ?", "s": 196.35},
     {
       "e": 203.49,
@@ -624,7 +624,7 @@
     {
       "e": 476.37,
       "en": "This is a way of reminding Walter of correct meeting procedure.",
-      "vi": "Ðây là một cách nhắc nhở Walter về quy tắc đúng trong hội họp.",
+      "vi": "Đây là một cách nhắc nhở Walter về quy tắc đúng trong hội họp.",
       "s": 471.57
     },
     {
@@ -676,8 +676,8 @@
       "s": 501.2
     },
     {"e": 505.45, "en": "Much earlier.", "vi": "Trước đây rất lâu.", "s": 503.98},
-    {"e": 506.72, "en": "It's a real concern.", "vi": "Ðó là mối bận tâm thực sự.", "s": 505.45},
-    {"e": 507.71, "en": "Hear hear!", "vi": "Ðùng rồi, đúng rồi!", "s": 506.72},
+    {"e": 506.72, "en": "It's a real concern.", "vi": "Đó là mối bận tâm thực sự.", "s": 505.45},
+    {"e": 507.71, "en": "Hear hear!", "vi": "Đùng rồi, đúng rồi!", "s": 506.72},
     {
       "e": 510.92,
       "en": "Well, in that case, I agree",
@@ -717,7 +717,7 @@
       "vi": "Tôi không thể đồng ý hơn nữa.",
       "s": 531.82
     },
-    {"e": 538.47, "en": "That's right.", "vi": "Ðúng vậy.", "s": 535.47},
+    {"e": 538.47, "en": "That's right.", "vi": "Đúng vậy.", "s": 535.47},
     {"e": 540.83, "en": "I concur.", "vi": "Tôi đồng tình.", "s": 538.47},
     {"e": 543.66, "en": "Absolutely!", "vi": "Chắc chắn rồi!", "s": 540.83},
     {
@@ -783,16 +783,16 @@
     {
       "e": 597.64,
       "en": "This is respectful of other people who may have different views.",
-      "vi": "Ðây là cách tôn trọng những người khác là những người có thể có những quan điểm khác.",
+      "vi": "Đây là cách tôn trọng những người khác là những người có thể có những quan điểm khác.",
       "s": 593.54
     },
     {
       "e": 603.79,
       "en": "But when you strongly agree with something someone else says - you can say \"Hear Hear!\"",
-      "vi": "Nhưng khi bạn tán thành với điều gì đó mà người khác nói - bạn có thể nói \"Ðúng vậy, đúng vậy!\"",
+      "vi": "Nhưng khi bạn tán thành với điều gì đó mà người khác nói - bạn có thể nói \"Đúng vậy, đúng vậy!\"",
       "s": 597.64
     },
-    {"e": 605.97, "en": "That's all for today", "vi": "Ðó là bài học hôm nay", "s": 603.79},
+    {"e": 605.97, "en": "That's all for today", "vi": "Đó là bài học hôm nay", "s": 603.79},
     {
       "e": 608.92,
       "en": "see you next time on The Business of English.",

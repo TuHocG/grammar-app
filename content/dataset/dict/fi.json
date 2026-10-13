@@ -61,7 +61,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đảng chính trị Ai Len. Mục đích chính của đảng là tạo nên một nước cộng hòa Ai Len thống nhất, một nền kinh tế và chính trị độc lập, không phụ thuộc vào Anh. Ông Eamon De Valera sáng lập nên đảng năm 1926. Ðảng kiểm soát chính phủ năm 1932 và chế ngự chính trị của nước Ai Len trong nhiều thập kỷ. Năm 1973, đảng mất sự liên minh của đảng \"Lao động\" và đảng \"Fine Gael\". Ðảng nắm lại quyền lực năm 1977 đến 1997."
+        "t": "đảng chính trị Ai Len. Mục đích chính của đảng là tạo nên một nước cộng hòa Ai Len thống nhất, một nền kinh tế và chính trị độc lập, không phụ thuộc vào Anh. Ông Eamon De Valera sáng lập nên đảng năm 1926. Đảng kiểm soát chính phủ năm 1932 và chế ngự chính trị của nước Ai Len trong nhiều thập kỷ. Năm 1973, đảng mất sự liên minh của đảng \"Lao động\" và đảng \"Fine Gael\". Đảng nắm lại quyền lực năm 1977 đến 1997."
       }
     ],
     "k": "fianna fail"
@@ -1285,7 +1285,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là chuẩn kết nối được thiết kế để kết nối các thiết bị ngoại vi, hệ lưu trữ khổng lồ như RAID (redundant arrays of inexpensive disk), hệ lưu trữ ảnh, máy mainframe và các thiết bị cao tốc khác. Fiber channel có chức năng của một mạng, nhưng không phải là mạng theo nghĩa truyền thống. Thay vào đó, đây là kênh cao tốc dùng cáp quang để kết nối các thiết bị tính toán trong môi trường tương đối cục bộ, như phòng thí nghiệm hoặc khu đại học, xem hình F-9. Tốc độ của Fiber Channel là đặc điểm nổi bật nhất: nó cung cấp băng thông lên đến từ 100 Mbit/s đến 800 Mbit/s qua nhiều loại cáp khác nhau, kể cả cáp quang đa chế độ, cáp đồng trục, cáp xoắn cặp. Một nét nổi bật khác là nó dùng công nghệ chuyển mạch."
+        "t": "Đây là chuẩn kết nối được thiết kế để kết nối các thiết bị ngoại vi, hệ lưu trữ khổng lồ như RAID (redundant arrays of inexpensive disk), hệ lưu trữ ảnh, máy mainframe và các thiết bị cao tốc khác. Fiber channel có chức năng của một mạng, nhưng không phải là mạng theo nghĩa truyền thống. Thay vào đó, đây là kênh cao tốc dùng cáp quang để kết nối các thiết bị tính toán trong môi trường tương đối cục bộ, như phòng thí nghiệm hoặc khu đại học, xem hình F-9. Tốc độ của Fiber Channel là đặc điểm nổi bật nhất: nó cung cấp băng thông lên đến từ 100 Mbit/s đến 800 Mbit/s qua nhiều loại cáp khác nhau, kể cả cáp quang đa chế độ, cáp đồng trục, cáp xoắn cặp. Một nét nổi bật khác là nó dùng công nghệ chuyển mạch."
       },
       {"k": "m", "t": "UÒy ban X3T9 của ANSI phát triển chuẩn Fiber Channel Interconnect."},
       {
@@ -1303,7 +1303,7 @@
       },
       {
         "k": "m",
-        "t": "Kết nối điểm-điểm (point-to-point) với tốc độ cao qua khoảng cách lớn. Ví dụ như kết nối giữa hệ RAID và siêu máy chủ. Ðể ý rằng kết nối điểm-điểm có thể tiến hành qua mạng dùng chung với những người dùng khác, nhưng phải chiếm giữ cáp cho đến khi phiên làm việc kết thúc."
+        "t": "Kết nối điểm-điểm (point-to-point) với tốc độ cao qua khoảng cách lớn. Ví dụ như kết nối giữa hệ RAID và siêu máy chủ. Để ý rằng kết nối điểm-điểm có thể tiến hành qua mạng dùng chung với những người dùng khác, nhưng phải chiếm giữ cáp cho đến khi phiên làm việc kết thúc."
       },
       {"k": "m", "t": "Kết nối theo nhóm (cluster, workgroup) cho các máy trạm tốc độ cao."},
       {
@@ -1331,11 +1331,11 @@
       },
       {
         "k": "m",
-        "t": "Fiber Channel là tương tự như ATM và đang cạnh tranh với nó. Nhưng Fiber Channel dùng công nghệ kết nối ngoại vi tốt hơn, còn ATM sử dụng tốt hơn cho các đường trục, trong môi trường WAN, hoặc cho các ứng dụng hội nghị từ xa (teleconferencing). Ðộ trì hoãn là một yếu tố cần xét. Fiber Channel dùng các khung kích thước 2KB. Chỉ 1.5% của khung này dùng cho tiêu đề. Trong khi các cell của ATM có kích thước 53 byte, và 10% được dùng cho tiêu đề. Ðiều này có nghĩa là Fiber Channel chuyển tải nhiều dữ liệu hơn so với ATM trong những điều kiện tương đồng. Tuy vậy, kích thước cố định của các cell trong ATM cung cấp thông suất tiên đoán được, và đây là yếu tố then chố hỗ trợ cho audio và video trực tiếp."
+        "t": "Fiber Channel là tương tự như ATM và đang cạnh tranh với nó. Nhưng Fiber Channel dùng công nghệ kết nối ngoại vi tốt hơn, còn ATM sử dụng tốt hơn cho các đường trục, trong môi trường WAN, hoặc cho các ứng dụng hội nghị từ xa (teleconferencing). Độ trì hoãn là một yếu tố cần xét. Fiber Channel dùng các khung kích thước 2KB. Chỉ 1.5% của khung này dùng cho tiêu đề. Trong khi các cell của ATM có kích thước 53 byte, và 10% được dùng cho tiêu đề. Điều này có nghĩa là Fiber Channel chuyển tải nhiều dữ liệu hơn so với ATM trong những điều kiện tương đồng. Tuy vậy, kích thước cố định của các cell trong ATM cung cấp thông suất tiên đoán được, và đây là yếu tố then chố hỗ trợ cho audio và video trực tiếp."
       },
       {
         "k": "m",
-        "t": "Người điều hành mạng cần xét khả năng sử dụng Fiber Channel trong môi trường cục bộ cho những người dùng (hoặc thiết bị) yêu cầu băng thông lớn, và dùng ATM cho đường trục và kết nối của WAN. Ðể biết thêm chi tiết về Fiber Channel, xem các website dưới đây. Fiber Channel còn được dùng cho các cấu hình nhóm."
+        "t": "Người điều hành mạng cần xét khả năng sử dụng Fiber Channel trong môi trường cục bộ cho những người dùng (hoặc thiết bị) yêu cầu băng thông lớn, và dùng ATM cho đường trục và kết nối của WAN. Để biết thêm chi tiết về Fiber Channel, xem các website dưới đây. Fiber Channel còn được dùng cho các cấu hình nhóm."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -2136,7 +2136,7 @@
   {"h": "fibrocartilago", "segs": [{"k": "m", "t": "Xơ sụn."}], "k": "fibrocartilago"},
   {
     "h": "fibrocartilago navicularis",
-    "segs": [{"k": "m", "t": "Ðĩa xơ sụn ghe."}],
+    "segs": [{"k": "m", "t": "Đĩa xơ sụn ghe."}],
     "k": "fibrocartilago navicularis"
   },
   {"h": "fibrocaseous", "segs": [{"k": "m", "t": "Xơ-bã đậu."}], "k": "fibrocaseous"},
@@ -2347,7 +2347,7 @@
   },
   {
     "h": "fibromyelinic plaque",
-    "segs": [{"k": "m", "t": "Ðám sợi miêlin (hoại tử não)."}],
+    "segs": [{"k": "m", "t": "Đám sợi miêlin (hoại tử não)."}],
     "k": "fibromyelinic plaque"
   },
   {"h": "Fibromyoma", "segs": [{"k": "m", "t": "u xơ cơ."}], "k": "fibromyoma"},
@@ -3575,7 +3575,7 @@
     "segs": [{"k": "m", "t": "bảo hiểm lòng trung thực."}],
     "k": "fidelity insurance"
   },
-  {"h": "Fides", "segs": [{"k": "m", "t": "Ðức tin."}], "k": "fides"},
+  {"h": "Fides", "segs": [{"k": "m", "t": "Đức tin."}], "k": "fides"},
   {"h": "fides actualis", "segs": [{"k": "m", "t": "đức tin hiện thực."}], "k": "fides actualis"},
   {"h": "fides divina", "segs": [{"k": "m", "t": "đức tin thần khởi."}], "k": "fides divina"},
   {
@@ -3693,7 +3693,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một tập các tiêu chuẩn và thủ tục chuyển đổi dữ liệu, cho phép các hệ thống bảng bulletin (BBS) máy tính hoạt động riêng có thể chuyển đổi dữ liệu, các tệp tin và thư điện tử trên toàn thế giới, bằng hệ thống điện thoại toàn cầu. Tại một thời điểm thỏa thuận trước, khi giá cước điện thoại thấp nhất trong ngày, những BBS thành viên sẽ gởi các thông báo dạng thư điện tử và các tệp tin cho trạm BBS trung tâm của khu vực, để nó sẽ phân bố cho các bảng bulletin khác. Các thư trả lời (gọi là echo-phản hồi), sẽ tìm thấy đường đi để quay về bảng bulletin trung tâm. Một tính năng thông dụng của Fionet là EchoMail. Ðây là một tập rút gọn các tài liệu hội nghị về nhiều chủ đề phổ thông như Star Trek, máy bay kiểu mới, và các vấn đề chính trị."
+        "t": "một tập các tiêu chuẩn và thủ tục chuyển đổi dữ liệu, cho phép các hệ thống bảng bulletin (BBS) máy tính hoạt động riêng có thể chuyển đổi dữ liệu, các tệp tin và thư điện tử trên toàn thế giới, bằng hệ thống điện thoại toàn cầu. Tại một thời điểm thỏa thuận trước, khi giá cước điện thoại thấp nhất trong ngày, những BBS thành viên sẽ gởi các thông báo dạng thư điện tử và các tệp tin cho trạm BBS trung tâm của khu vực, để nó sẽ phân bố cho các bảng bulletin khác. Các thư trả lời (gọi là echo-phản hồi), sẽ tìm thấy đường đi để quay về bảng bulletin trung tâm. Một tính năng thông dụng của Fionet là EchoMail. Đây là một tập rút gọn các tài liệu hội nghị về nhiều chủ đề phổ thông như Star Trek, máy bay kiểu mới, và các vấn đề chính trị."
       }
     ],
     "k": "fidonet"
@@ -3846,7 +3846,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "vùng đất cấp cho các hiệp sĩ quý tộc. Ðó là loại đất dùng để giúp đỡ cho những hiệp sĩ. Dù lớn hay nhỏ, vùng đất này cũng sản xuất những sản phẩm làm giàu cho đất nước. Vào đầu thời Trung cổ, những vùng đất này đều bao phủ bởi rừng hoặc thuộc loại đất rất cằn cỗi."
+        "t": "vùng đất cấp cho các hiệp sĩ quý tộc. Đó là loại đất dùng để giúp đỡ cho những hiệp sĩ. Dù lớn hay nhỏ, vùng đất này cũng sản xuất những sản phẩm làm giàu cho đất nước. Vào đầu thời Trung cổ, những vùng đất này đều bao phủ bởi rừng hoặc thuộc loại đất rất cằn cỗi."
       }
     ],
     "k": "fief"
@@ -6113,7 +6113,7 @@
   },
   {
     "h": "field-gray",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "quân nâu xám (lính Ðức 1914-1918)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "quân nâu xám (lính Đức 1914-1918)."}],
     "ipa": "'fi:ld,grei",
     "k": "field-gray"
   },
@@ -7250,7 +7250,7 @@
       {
         "k": "ex",
         "t": "Britain fought with France against Germany in the last war",
-        "vi": "Anh và Pháp cùng chiến đấu chống Ðức trong cuộc chiến vừa qua"
+        "vi": "Anh và Pháp cùng chiến đấu chống Đức trong cuộc chiến vừa qua"
       },
       {
         "k": "ex",
@@ -7867,7 +7867,7 @@
       {
         "k": "ex",
         "t": "' John isn't here today' . ‘That figures, he looked very unwell yesterday'",
-        "vi": "‘Hôm nay John không có mặt ở đây'. ‘Ðiều đó cũng dễ hiểu, hôm qua anh ấy có vẻ không khỏe lắm'"
+        "vi": "‘Hôm nay John không có mặt ở đây'. ‘Điều đó cũng dễ hiểu, hôm qua anh ấy có vẻ không khỏe lắm'"
       },
       {"k": "m", "t": "hiện ra hoặc được nhắc đến rõ ràng"},
       {
@@ -7965,7 +7965,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tam đoạn luận. Tam đoạn luận là loại suy luận, suy diễn có hai tiên đề dưới dạng phán đoán đơn. Tam đoạn luận dựa trên tiên đề sau: Nếu biết rằng thuộc tính P thuộc về (hay không thuộc về) mỗi đối tượng hợp thành lớp đã cho thì thuộc tính đó cũng sẽ thuộc về (hay không thuộc về) mọi đối tượng cá thể bất kỳ trong lớp đó. Do đó cách suy luận như sau: Tất cả các đối tượng của lớp A có thuộc tính P. Ðối tượng x thuộc lớp A. Do đó, đối tượng x có thuộc tính P. Ví dụ: mọi tam giác đều có các đường cao bằng nhau. ABC là một tam giác đều. Do đó, các đường cao của tam giác ABC bằng nhau."
+        "t": "tam đoạn luận. Tam đoạn luận là loại suy luận, suy diễn có hai tiên đề dưới dạng phán đoán đơn. Tam đoạn luận dựa trên tiên đề sau: Nếu biết rằng thuộc tính P thuộc về (hay không thuộc về) mỗi đối tượng hợp thành lớp đã cho thì thuộc tính đó cũng sẽ thuộc về (hay không thuộc về) mọi đối tượng cá thể bất kỳ trong lớp đó. Do đó cách suy luận như sau: Tất cả các đối tượng của lớp A có thuộc tính P. Đối tượng x thuộc lớp A. Do đó, đối tượng x có thuộc tính P. Ví dụ: mọi tam giác đều có các đường cao bằng nhau. ABC là một tam giác đều. Do đó, các đường cao của tam giác ABC bằng nhau."
       }
     ],
     "k": "figure of syllogism"
@@ -8270,7 +8270,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Fiji bao gồm 2 quần đảo chính, Viti Levu và Vanua Levu, và hơn 800 đảo nhỏ. Fiji có diện tích 400km, bao quanh là tầng lục địa có nhiều núi lửa. Những dãy núi nhô cao 1300 mét, có những cánh rừng dày ở triền núi. Thời tiết nóng, khó chịu. Những quần đảo nằm trên một vành đai bão tố và những cơn lốc xoáy."
+        "t": "Địa hình: Fiji bao gồm 2 quần đảo chính, Viti Levu và Vanua Levu, và hơn 800 đảo nhỏ. Fiji có diện tích 400km, bao quanh là tầng lục địa có nhiều núi lửa. Những dãy núi nhô cao 1300 mét, có những cánh rừng dày ở triền núi. Thời tiết nóng, khó chịu. Những quần đảo nằm trên một vành đai bão tố và những cơn lốc xoáy."
       },
       {
         "k": "m",
@@ -8278,13 +8278,13 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: đầu tiên, ông Tasman đến đảo này năm 1643. Kế đó là đại úy Cook đổ bộ vào đây năm 1774. Vào thế kỷ 19, Fiji nổi tiếng về cuộc nội chiến các bộ tộc và tục lệ ăn thịt người. Các nhà buôn tìm kiếm trầm hương và cá voi. Những hòn đảo này trở thành thuộc địa của người Anh (1874). Ủy ban tối cao Tây Thái Bình Dương được lập nên để bình định và kiểm soát việc buôn bán nô lệ. Năm 1879, những người Ấn Ðộ bắt đầu nhập cư lậu vào Fiji. Ðến thập kỷ 1950, người Ấn vượt trên con số người Fiji và chế ngự việc buôn bán. Người Fiji vẫn làm chủ phần lớn đất đai. Xứ Fiji trở thành độc lập (1970). Năm 1987, đa số người Ấn Ðộ thắng cử và thành lập chính phủ của người Fiji. Mãi đến năm 1992, đảng chính trị Fiji thắng đa số trong tổng tuyển cử và cầm đầu một chính phủ liên hiệp. Sau đó chính phủ này lại bị lật đổ năm 1994 và đảng Rabuka tổ chức bầu cử lại rồi chiếm đa số và nắm quyền từ năm 1997."
+        "t": "Lịch sử: đầu tiên, ông Tasman đến đảo này năm 1643. Kế đó là đại úy Cook đổ bộ vào đây năm 1774. Vào thế kỷ 19, Fiji nổi tiếng về cuộc nội chiến các bộ tộc và tục lệ ăn thịt người. Các nhà buôn tìm kiếm trầm hương và cá voi. Những hòn đảo này trở thành thuộc địa của người Anh (1874). Ủy ban tối cao Tây Thái Bình Dương được lập nên để bình định và kiểm soát việc buôn bán nô lệ. Năm 1879, những người Ấn Độ bắt đầu nhập cư lậu vào Fiji. Đến thập kỷ 1950, người Ấn vượt trên con số người Fiji và chế ngự việc buôn bán. Người Fiji vẫn làm chủ phần lớn đất đai. Xứ Fiji trở thành độc lập (1970). Năm 1987, đa số người Ấn Độ thắng cử và thành lập chính phủ của người Fiji. Mãi đến năm 1992, đảng chính trị Fiji thắng đa số trong tổng tuyển cử và cầm đầu một chính phủ liên hiệp. Sau đó chính phủ này lại bị lật đổ năm 1994 và đảng Rabuka tổ chức bầu cử lại rồi chiếm đa số và nắm quyền từ năm 1997."
       },
       {"k": "m", "t": "Thủ đô: Suva."},
       {"k": "m", "t": "Diện tích: 18.274 km2"},
       {"k": "m", "t": "Dân số: 802.000 người (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðô la Fiji."},
-      {"k": "m", "t": "Tôn giáo: Cơ Ðốc 52,9%, Hindu 38,1%, Hồi giáo 7,8%, đạo Sikh 0,7%."},
+      {"k": "m", "t": "Tiền tệ: Đô la Fiji."},
+      {"k": "m", "t": "Tôn giáo: Cơ Đốc 52,9%, Hindu 38,1%, Hồi giáo 7,8%, đạo Sikh 0,7%."},
       {"k": "m", "t": "Sắc tộc: Indian 48,6%, Fijian 46,3%."},
       {"k": "m", "t": "Ngôn ngữ: Anh (chủ yếu), Fijian, Hindi, Local."},
       {
@@ -10760,12 +10760,12 @@
       {
         "k": "ex",
         "t": "It really fills the bill:",
-        "vi": "A, miếng bíp -tếch này thật tuyệt. Ðúng là thứ mà ta đang cần."
+        "vi": "A, miếng bíp -tếch này thật tuyệt. Đúng là thứ mà ta đang cần."
       },
       {
         "k": "ex",
         "t": "This new pair of shoes fills the bill nicely:",
-        "vi": "Ðôi giày mới này đúng là thứ ta đang rất cần."
+        "vi": "Đôi giày mới này đúng là thứ ta đang rất cần."
       }
     ],
     "k": "fill the bill"
@@ -16491,7 +16491,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "chính sách của Ðức Quốc xã nhằm tiêu diệt người Do Thái ở Châu Âu (1941-1945)."
+        "t": "chính sách của Đức Quốc xã nhằm tiêu diệt người Do Thái ở Châu Âu (1941-1945)."
       }
     ],
     "k": "final solution"
@@ -17086,7 +17086,7 @@
       },
       {
         "k": "m",
-        "t": "Một nhóm Thị trường tiền tệ có liên quan với nhau và xuất hiện ở Luân Ðôn vào những năm 1960."
+        "t": "Một nhóm Thị trường tiền tệ có liên quan với nhau và xuất hiện ở Luân Đôn vào những năm 1960."
       }
     ],
     "k": "finance houses market"
@@ -18035,7 +18035,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hội đồng báo cáo tài chính, được thành lập vào năm 1989 để xem xét và hỗ trợ hoạt động của Ban Tiêu Chuẩn Kế Toán và của tờ Kỷ Yếu Tài Chính, nhằm mục đích cổ vũ sự báo cáo tài chính đúng chuẩn mực. Chủ tịch và 3 đại biểu của hội đồng này được công nhận liên kế nhau do quyết định của Bộ Trưởng Mậu Dịch và Công Nghiệp và Thống Ðốc Ngân Hàng Anh Quốc. Tổ chức này đã họp lần đầu vào tháng 5/1990."
+        "t": "hội đồng báo cáo tài chính, được thành lập vào năm 1989 để xem xét và hỗ trợ hoạt động của Ban Tiêu Chuẩn Kế Toán và của tờ Kỷ Yếu Tài Chính, nhằm mục đích cổ vũ sự báo cáo tài chính đúng chuẩn mực. Chủ tịch và 3 đại biểu của hội đồng này được công nhận liên kế nhau do quyết định của Bộ Trưởng Mậu Dịch và Công Nghiệp và Thống Đốc Ngân Hàng Anh Quốc. Tổ chức này đã họp lần đầu vào tháng 5/1990."
       }
     ],
     "k": "financial reporting council"
@@ -18988,7 +18988,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đảng chính trị Ai Len, thành lập năm 1922, nhưng đổi tên năm 1933 do ông William Cosgrave lãnh đạo. Từ năm 1948 đến năm 1951, đảng này lại do ông John Costello lãnh đạo. Từ năm 1949, chính phủ đã tuyên bố Ireland là nước cộng hòa. Từ đó đảng Fine Gael cầm quyền theo từng thời kỳ (1954-1957, 1973-1977, 1981-1982, 1982-1987, 1994-1997). Ðảng này ủng hộ quan điểm của một nước Do Thái thống nhất, hoàn chỉnh bằng những phương tiện hòa bình."
+        "t": "đảng chính trị Ai Len, thành lập năm 1922, nhưng đổi tên năm 1933 do ông William Cosgrave lãnh đạo. Từ năm 1948 đến năm 1951, đảng này lại do ông John Costello lãnh đạo. Từ năm 1949, chính phủ đã tuyên bố Ireland là nước cộng hòa. Từ đó đảng Fine Gael cầm quyền theo từng thời kỳ (1954-1957, 1973-1977, 1981-1982, 1982-1987, 1994-1997). Đảng này ủng hộ quan điểm của một nước Do Thái thống nhất, hoàn chỉnh bằng những phương tiện hòa bình."
       }
     ],
     "k": "fine gael"
@@ -20876,7 +20876,7 @@
       {"k": "m", "t": "hoàn thành một công việc hoặc hoạt động"},
       {"k": "m", "t": "làm xong"},
       {"k": "m", "t": "về đích"},
-      {"k": "ex", "t": "Wait - I haven't finished yet", "vi": "Ðợi đấy-tôi chưa làm xong"},
+      {"k": "ex", "t": "Wait - I haven't finished yet", "vi": "Đợi đấy-tôi chưa làm xong"},
       {
         "k": "ex",
         "t": "two of the runners failed to finish",
@@ -22381,11 +22381,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nước ở vùng Baltic, đôi khi được coi là một nước ở vùng Scandinavia. Ở phía Bắc là Na Uy, Thụy Ðiển. Vịnh Bothnia ở phía Tây và nước Nga ở phía Ðông."
+        "t": "một nước ở vùng Baltic, đôi khi được coi là một nước ở vùng Scandinavia. Ở phía Bắc là Na Uy, Thụy Điển. Vịnh Bothnia ở phía Tây và nước Nga ở phía Đông."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: bờ biển chạy dài và vòng sang phía Tây và phía Nam với hơn 6.000 đảo thọc sâu vào biển Baltic. Ở vùng nhiều đá tảng, chỉ có 1/10 là trồng tỉa được, 70% là rừng, 11% là cằn cỗi và 9% là hồ. Có 60.000 hồ, nối với nhau bằng những con sông ngắn hoặc kinh đào. 1/3 địa phận Phần Lan nằm ở phía Bắc vòng Bắc Cực và nơi đó là thành phần của người Lapland."
+        "t": "Địa hình: bờ biển chạy dài và vòng sang phía Tây và phía Nam với hơn 6.000 đảo thọc sâu vào biển Baltic. Ở vùng nhiều đá tảng, chỉ có 1/10 là trồng tỉa được, 70% là rừng, 11% là cằn cỗi và 9% là hồ. Có 60.000 hồ, nối với nhau bằng những con sông ngắn hoặc kinh đào. 1/3 địa phận Phần Lan nằm ở phía Bắc vòng Bắc Cực và nơi đó là thành phần của người Lapland."
       },
       {
         "k": "m",
@@ -22393,22 +22393,22 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Phần Lan bị chiếm đóng bởi các bộ lạc Finno Ugrian từ năm 100 sau Công Nguyên đến 800 sau Công Nguyên. Bộ lạc Finno Ugrian đẩy lùi dân Lapp (dân gốc bản xứ) tới tận vùng Cực Bắc. Vào cuối thập niên 1150, ông Eric IX của Thụy Ðiển đã chinh phục được Phần Lan và truyền vào đây đạo Cơ Ðốc. Suốt thời Trung cổ, đây là nơi tranh chấp giữa Thụy Ðiển và Nga. Năm 1568, vua John III của Thụy Ðiển cai trị vùng này, nhưng cho phép Phần Lan hưởng chế độ tự trị. Ðến năm 1807, hiệp ước Tilsit giữa Alexander I và Napoleon đã sáp nhập Phần Lan vào Nga cho đến năm 1917."
+        "t": "Lịch sử: Phần Lan bị chiếm đóng bởi các bộ lạc Finno Ugrian từ năm 100 sau Công Nguyên đến 800 sau Công Nguyên. Bộ lạc Finno Ugrian đẩy lùi dân Lapp (dân gốc bản xứ) tới tận vùng Cực Bắc. Vào cuối thập niên 1150, ông Eric IX của Thụy Điển đã chinh phục được Phần Lan và truyền vào đây đạo Cơ Đốc. Suốt thời Trung cổ, đây là nơi tranh chấp giữa Thụy Điển và Nga. Năm 1568, vua John III của Thụy Điển cai trị vùng này, nhưng cho phép Phần Lan hưởng chế độ tự trị. Đến năm 1807, hiệp ước Tilsit giữa Alexander I và Napoleon đã sáp nhập Phần Lan vào Nga cho đến năm 1917."
       },
       {
         "k": "m",
-        "t": "Cuộc cách mạng tháng 10 năm 1917 của Nga đã đem lại cơ hội độc lập cho Phần Lan (1919) và một hiến pháp dân chủ cộng hòa Phần Lan ra đời năm 1920. Phần Lan gia nhập Liên Hiệp Quốc. Năm 1939, do hiệp ước Nazi-Xô viết, Phần Lan bị xâm lược trong cuộc chiến Phần Lan-Nga (1939-1940). Phần Lan kháng cự, nhưng không được Ai Len giúp đỡ, nên đầu hàng và mất hai vùng đất Kerelia và Petsamo. Khi Ðức xâm lăng Xô Viết năm 1941, Phần Lan đứng về phía Ðức, chiến đấu để đòi lại hai vùng đất, nhưng họ bị thua trận, đầu hàng Xô Viết năm 1944. Sau đệ nhị thế chiến, Phần Lan đứng ở thế Trung lập trong giao dịch Quốc Tế. Tháng giêng năm 1992, kinh tế Phần Lan chịu đựng sự sụp đổ của thị trường Ðông Âu. Do đó nhiều biện pháp kinh tế cứng rắn đã được áp dụng vào tháng 4 năm 1992. Ðến năm 1995, Phần Lan trở thành một thành viên của cộng đồng Châu Âu."
+        "t": "Cuộc cách mạng tháng 10 năm 1917 của Nga đã đem lại cơ hội độc lập cho Phần Lan (1919) và một hiến pháp dân chủ cộng hòa Phần Lan ra đời năm 1920. Phần Lan gia nhập Liên Hiệp Quốc. Năm 1939, do hiệp ước Nazi-Xô viết, Phần Lan bị xâm lược trong cuộc chiến Phần Lan-Nga (1939-1940). Phần Lan kháng cự, nhưng không được Ai Len giúp đỡ, nên đầu hàng và mất hai vùng đất Kerelia và Petsamo. Khi Đức xâm lăng Xô Viết năm 1941, Phần Lan đứng về phía Đức, chiến đấu để đòi lại hai vùng đất, nhưng họ bị thua trận, đầu hàng Xô Viết năm 1944. Sau đệ nhị thế chiến, Phần Lan đứng ở thế Trung lập trong giao dịch Quốc Tế. Tháng giêng năm 1992, kinh tế Phần Lan chịu đựng sự sụp đổ của thị trường Đông Âu. Do đó nhiều biện pháp kinh tế cứng rắn đã được áp dụng vào tháng 4 năm 1992. Đến năm 1995, Phần Lan trở thành một thành viên của cộng đồng Châu Âu."
       },
       {"k": "m", "t": "Thủ đô: Helsinki."},
       {"k": "m", "t": "Diện tích: 338.145 km2"},
       {"k": "m", "t": "Dân số: 5,132 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Markka."},
-      {"k": "m", "t": "Tôn giáo: Ðạo Tin Lành 88.9%."},
+      {"k": "m", "t": "Tiền tệ: Đồng Markka."},
+      {"k": "m", "t": "Tôn giáo: Đạo Tin Lành 88.9%."},
       {
         "k": "m",
-        "t": "Sắc tộc: Người Phần Lan 93,6%, Thụy Ðiển 6,1%, người bản địa Lapp là số rất nhỏ."
+        "t": "Sắc tộc: Người Phần Lan 93,6%, Thụy Điển 6,1%, người bản địa Lapp là số rất nhỏ."
       },
-      {"k": "m", "t": "Ngôn ngữ: Tiếng Phần Lan, tiếng Thụy Ðiển, tiếng Lapp."},
+      {"k": "m", "t": "Ngôn ngữ: Tiếng Phần Lan, tiếng Thụy Điển, tiếng Lapp."},
       {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc, cộng đồng Châu Âu."}
     ],
     "k": "finland"
@@ -22738,11 +22738,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Winter War') (1939-1940) Ðây là cuộc chiến mùa đông giữa Phần Lan và Nga. Tướng Mannerheim của Phần Lan đã bác bỏ những yêu sách của Nga về đường biên giới và những cứ điểm quân sự, chặn quân Nga ở ngoài vịnh Phần Lan, không cho di chuyển vào hồ đóng băng và những cánh rừng trong nội địa."
+        "t": "(Winter War') (1939-1940) Đây là cuộc chiến mùa đông giữa Phần Lan và Nga. Tướng Mannerheim của Phần Lan đã bác bỏ những yêu sách của Nga về đường biên giới và những cứ điểm quân sự, chặn quân Nga ở ngoài vịnh Phần Lan, không cho di chuyển vào hồ đóng băng và những cánh rừng trong nội địa."
       },
       {
         "k": "m",
-        "t": "Sau 15 tuần lễ giao chiến kịch liệt, Phần Lan thua, và phải chấp nhận điều kiện của Stalin, nghĩa là nhường những lãnh thổ phía Ðông và hải cảng Viipuri cho Nga."
+        "t": "Sau 15 tuần lễ giao chiến kịch liệt, Phần Lan thua, và phải chấp nhận điều kiện của Stalin, nghĩa là nhường những lãnh thổ phía Đông và hải cảng Viipuri cho Nga."
       }
     ],
     "k": "finnish-russian war"
@@ -23961,7 +23961,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "vụ cháy lớn ở Luân Ðôn. Vào tháng 9 năm 1666, một vụ cháy lớn tàn phá Luân Ðôn. Lửa bắt đầu từ một tiệm làm bánh, lan tỏa trong bốn ngày, tàn phá 84 nhà thờ (kể cả nhà thờ thánh St Paul) và hơn 13.000 hộ dân đa số làm bằng gỗ. Ngọn lửa chỉ bị chặn lại khi gặp những tòa cao ốc xây bằng bê tông. Sau đó, ông Christopher Wren xây lại nhà thờ thánh St Paul, và xây lại một số nhà thờ khác. Ông cũng xây dựng một số các công sở và thiết kế đài tưởng niệm vụ cháy (1677)."
+        "t": "vụ cháy lớn ở Luân Đôn. Vào tháng 9 năm 1666, một vụ cháy lớn tàn phá Luân Đôn. Lửa bắt đầu từ một tiệm làm bánh, lan tỏa trong bốn ngày, tàn phá 84 nhà thờ (kể cả nhà thờ thánh St Paul) và hơn 13.000 hộ dân đa số làm bằng gỗ. Ngọn lửa chỉ bị chặn lại khi gặp những tòa cao ốc xây bằng bê tông. Sau đó, ông Christopher Wren xây lại nhà thờ thánh St Paul, và xây lại một số nhà thờ khác. Ông cũng xây dựng một số các công sở và thiết kế đài tưởng niệm vụ cháy (1677)."
       }
     ],
     "k": "fire of london"
@@ -27755,7 +27755,7 @@
   },
   {
     "h": "firman",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sắc chỉ (của vua chúa phương Ðông)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sắc chỉ (của vua chúa phương Đông)."}],
     "ipa": "fə:'ma:n",
     "k": "firman"
   },
@@ -27877,7 +27877,7 @@
       {
         "k": "ex",
         "t": "the First World War",
-        "vi": "Chiến tranh thế giới lần thứ nhất, Ðệ nhất thế chiến"
+        "vi": "Chiến tranh thế giới lần thứ nhất, Đệ nhất thế chiến"
       },
       {"k": "m", "t": "đầu tiên"},
       {"k": "m", "t": "quan trọng nhất"},
@@ -28058,7 +28058,7 @@
       {
         "k": "ex",
         "t": "It is first and ten on the forty- yard line, and Army has the ball:",
-        "vi": "Ðây là lần phát bóng đầu tiên trên vạch 40 thước Anh, và đội bóng Army đang có bóng."
+        "vi": "Đây là lần phát bóng đầu tiên trên vạch 40 thước Anh, và đội bóng Army đang có bóng."
       },
       {
         "k": "ex",
@@ -28820,7 +28820,7 @@
       {
         "k": "ex",
         "t": "First of all, we'll try to find a place to live:",
-        "vi": "Ðiều trước tiên chúng tôi cố tìm một nơi để ở."
+        "vi": "Điều trước tiên chúng tôi cố tìm một nơi để ở."
       }
     ],
     "k": "first of all"
@@ -29295,7 +29295,7 @@
       {
         "k": "ex",
         "t": "It's more important to get a job than to buy new clothes: First things first!:",
-        "vi": "Tìm được việc làm quan trọng hơn mua quần áo mới. Ðiều quan trọng nhất phải được quan tâm đến trước nhất."
+        "vi": "Tìm được việc làm quan trọng hơn mua quần áo mới. Điều quan trọng nhất phải được quan tâm đến trước nhất."
       },
       {
         "k": "ex",
@@ -29340,7 +29340,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(5 giáo lý của người Hồi Giáo) Ðây là nhiệm vụ căn bản và qui cách phục vụ của người Hồi Giáo. Giáo lý thứ nhất là lòng trung thành, mô tả những bài học thuộc lòng về nội dung tóm tắt của đức tin là sự thống nhất của trời và quyền lực thiêng liêng của Ðức tiên tri Muhammad. Không có Chúa Trời, mà chỉ có thánh Allah và Muhammad là sứ giả của thánh Allah. Giáo lý thứ hai là sự thờ phụng hàng ngày, phải khấn vái 5 lần vào sáng sớm, trưa, chiều, tối và đêm. Có 3 điều kiện trên quyết mà tín đồ phải nhớ là lương tâm trong sáng, thân thể sạch sẽ và môi trường sạch sẽ. Chiếu hoặc thảm để quỳ gối cầu nguyện phải sạch sẽ. Tín đồ khi cầu nguyện phải theo 5 nghi thức bắt buộc đó là, đứng, cúi đầu, phủ phục thân mình, quỳ gối và cầu nguyện kinh Koran. Giáo lý thứ ba là kiêng cữ thực phẩm, đồ uống và giao hợp vào ban ngày trong dịp Ramadan, nhưng điều này không áp dụng đối với trẻ dưới 12 tuổi, những người tàn tật và các bà mẹ đang cho con bú."
+        "t": "(5 giáo lý của người Hồi Giáo) Đây là nhiệm vụ căn bản và qui cách phục vụ của người Hồi Giáo. Giáo lý thứ nhất là lòng trung thành, mô tả những bài học thuộc lòng về nội dung tóm tắt của đức tin là sự thống nhất của trời và quyền lực thiêng liêng của Đức tiên tri Muhammad. Không có Chúa Trời, mà chỉ có thánh Allah và Muhammad là sứ giả của thánh Allah. Giáo lý thứ hai là sự thờ phụng hàng ngày, phải khấn vái 5 lần vào sáng sớm, trưa, chiều, tối và đêm. Có 3 điều kiện trên quyết mà tín đồ phải nhớ là lương tâm trong sáng, thân thể sạch sẽ và môi trường sạch sẽ. Chiếu hoặc thảm để quỳ gối cầu nguyện phải sạch sẽ. Tín đồ khi cầu nguyện phải theo 5 nghi thức bắt buộc đó là, đứng, cúi đầu, phủ phục thân mình, quỳ gối và cầu nguyện kinh Koran. Giáo lý thứ ba là kiêng cữ thực phẩm, đồ uống và giao hợp vào ban ngày trong dịp Ramadan, nhưng điều này không áp dụng đối với trẻ dưới 12 tuổi, những người tàn tật và các bà mẹ đang cho con bú."
       },
       {
         "k": "m",
@@ -33035,7 +33035,7 @@
       {
         "k": "ex",
         "t": "For some people, keeping fit and trim requires time, effort, and self-discipline:",
-        "vi": "Ðối với một số người, giữ cho thân hình mảnh mai và khỏe mạnh đòi hỏi phải có thời gian; nỗ lực và kỷ luật tự giác."
+        "vi": "Đối với một số người, giữ cho thân hình mảnh mai và khỏe mạnh đòi hỏi phải có thời gian; nỗ lực và kỷ luật tự giác."
       }
     ],
     "k": "fit and trim"
@@ -33241,7 +33241,7 @@
   },
   {
     "h": "fith lumbar artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch thắt lưng thứ năm."}],
+    "segs": [{"k": "m", "t": "Động mạch thắt lưng thứ năm."}],
     "k": "fith lumbar artery"
   },
   {"h": "fith wheel", "segs": [{"k": "m", "t": "mâm móc hậu."}], "k": "fith wheel"},
@@ -34388,7 +34388,7 @@
     "segs": [{"k": "m", "t": "Rung giật nhãn cầu cố định."}],
     "k": "fixation nystagmus"
   },
-  {"h": "fixation point", "segs": [{"k": "m", "t": "Ðiểm cố định."}], "k": "fixation point"},
+  {"h": "fixation point", "segs": [{"k": "m", "t": "Điểm cố định."}], "k": "fixation point"},
   {
     "h": "fixation reflex",
     "segs": [
@@ -35252,7 +35252,7 @@
   },
   {"h": "fixed height", "segs": [{"k": "m", "t": "độ cao mốc thủy chuẩn."}], "k": "fixed height"},
   {"h": "fixed hinge", "segs": [{"k": "m", "t": "khớp cố định."}], "k": "fixed hinge"},
-  {"h": "fixed ictus", "segs": [{"k": "m", "t": "Ðịnh kiến, ý nghĩ ám ảnh."}], "k": "fixed ictus"},
+  {"h": "fixed ictus", "segs": [{"k": "m", "t": "Định kiến, ý nghĩ ám ảnh."}], "k": "fixed ictus"},
   {
     "h": "fixed idea",
     "segs": [
@@ -35478,7 +35478,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quy cách số cố định. Trong chương trình bảng tính, đây là một quy định đối với các số, theo đó các trị số được làm tròn đến vị trí thập phân mà bạn đã định. Ðồng thời các dấu phẩy (tương tự dấu chấm ở VN) cũng không được dùng trong các số lớn hơn 999."
+        "t": "quy cách số cố định. Trong chương trình bảng tính, đây là một quy định đối với các số, theo đó các trị số được làm tròn đến vị trí thập phân mà bạn đã định. Đồng thời các dấu phẩy (tương tự dấu chấm ở VN) cũng không được dùng trong các số lớn hơn 999."
       }
     ],
     "k": "fixed numeric format"
@@ -36967,7 +36967,7 @@
   },
   {
     "h": "fixtures and fittings",
-    "segs": [{"k": "m", "t": "1. Ðồ đạc cố định 2. Tài sản cố định."}],
+    "segs": [{"k": "m", "t": "1. Đồ đạc cố định 2. Tài sản cố định."}],
     "k": "fixtures and fittings"
   },
   {"h": "fixup", "segs": [{"k": "ref", "t": "như fix-up."}], "ipa": "ˈfiks'ʌp", "k": "fixup"},

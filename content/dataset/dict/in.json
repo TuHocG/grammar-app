@@ -101,7 +101,7 @@
       {
         "k": "ex",
         "t": "the Vietnamese Workers' Party is one which is in power",
-        "vi": "Ðảng Lao động Việt nam là đảng nắm chính quyền"
+        "vi": "Đảng Lao động Việt nam là đảng nắm chính quyền"
       },
       {"k": "m", "t": "đang mùa"},
       {"k": "m", "t": "đang thịnh hành, đang là cái mốt"},
@@ -124,7 +124,7 @@
       {"k": "ex", "t": "in with it!", "vi": "để vào!, đem vào!"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(số nhiều) (chính trị) ("},
-      {"k": "ex", "t": "the ins", "vi": ") Ðảng đang nắm chính quyền"},
+      {"k": "ex", "t": "the ins", "vi": ") Đảng đang nắm chính quyền"},
       {
         "k": "ex",
         "t": "the ins and the outs",
@@ -441,7 +441,7 @@
         "t": "Here comes John - in a snit again - as usual:",
         "vi": "John đến kìa lại cáu kỉnh- như thường lệ."
       },
-      {"k": "ex", "t": "Don't get into a smit:", "vi": "Ðừng có nổi cơn giận lên."}
+      {"k": "ex", "t": "Don't get into a smit:", "vi": "Đừng có nổi cơn giận lên."}
     ],
     "k": "in a snit"
   },
@@ -843,7 +843,7 @@
   },
   {
     "h": "In cauda venenum",
-    "segs": [{"k": "m", "t": "Ðộc hại nằm tại đằng đuôi/đoạn chót."}],
+    "segs": [{"k": "m", "t": "Độc hại nằm tại đằng đuôi/đoạn chót."}],
     "k": "in cauda venenum"
   },
   {"h": "In causa", "segs": [{"k": "m", "t": "Tại căn."}], "k": "in causa"},
@@ -1185,7 +1185,7 @@
       {
         "k": "ex",
         "t": "In time, things will improve.",
-        "vi": "Ðúng lúc mọi việc sẽ được cải thiện."
+        "vi": "Đúng lúc mọi việc sẽ được cải thiện."
       }
     ],
     "k": "in due course"
@@ -1282,7 +1282,7 @@
       {
         "k": "ex",
         "t": "This is a very good computer. In fact, it's the best:",
-        "vi": "Ðây là một máy tính rất tốt. Thực tế, đó là loại tốt nhất."
+        "vi": "Đây là một máy tính rất tốt. Thực tế, đó là loại tốt nhất."
       }
     ],
     "k": "in fact"
@@ -1299,7 +1299,7 @@
     "segs": [{"k": "m", "t": "(dt) Phức cảm tự ti."}],
     "k": "in feriority complex"
   },
-  {"h": "In fieri", "segs": [{"k": "m", "t": "Ðang hình thành."}], "k": "in fieri"},
+  {"h": "In fieri", "segs": [{"k": "m", "t": "Đang hình thành."}], "k": "in fieri"},
   {
     "h": "in fine feather",
     "segs": [
@@ -1315,7 +1315,7 @@
       {
         "k": "ex",
         "t": "Of course I'm in fine feather. I get lots of sleep:",
-        "vi": "Ðương nhiên tôi sảng khoái. Tôi ngủ nhiều."
+        "vi": "Đương nhiên tôi sảng khoái. Tôi ngủ nhiều."
       },
       {
         "k": "ex",
@@ -1498,7 +1498,7 @@
       {
         "k": "ex",
         "t": "Don't worry. Your children are in good hands. Sally is a good baby-sitter:",
-        "vi": "Ðừng lo. Các con của bạn được chăm sóc tốt."
+        "vi": "Đừng lo. Các con của bạn được chăm sóc tốt."
       },
       {
         "k": "ex",
@@ -1537,7 +1537,7 @@
       {
         "k": "ex",
         "t": "in good condition",
-        "vi": "lành mạnh và cường tráng về thể chất và chức năng. (Ðược dùng cho cả người và vật. (So sánh với in condition. Từ in có thể được thay thế bằng từ into. Xem in a bind và những ví dụ dưới đây.)"
+        "vi": "lành mạnh và cường tráng về thể chất và chức năng. (Được dùng cho cả người và vật. (So sánh với in condition. Từ in có thể được thay thế bằng từ into. Xem in a bind và những ví dụ dưới đây.)"
       },
       {
         "k": "ex",
@@ -1621,7 +1621,7 @@
       {
         "k": "ex",
         "t": "Why not take time and do it right? Don't do everything in great haste:",
-        "vi": "Tại sao không làm từ từ và làm cho đúng? Ðừng làm mọi việc một cách vội vã."
+        "vi": "Tại sao không làm từ từ và làm cho đúng? Đừng làm mọi việc một cách vội vã."
       }
     ],
     "k": "in great haste"
@@ -1725,7 +1725,7 @@
       {
         "k": "ex",
         "t": "Don't leave now. The party is just now in high gear:",
-        "vi": "Ðừng đi bây giờ. Buổi liên hoan giờ mới sôi động nhất."
+        "vi": "Đừng đi bây giờ. Buổi liên hoan giờ mới sôi động nhất."
       },
       {
         "k": "ex",
@@ -1929,7 +1929,7 @@
       {
         "k": "ex",
         "t": "I had an accident, but I was in luck. It was not serious:",
-        "vi": "Tôi gặp tai nạn; nhưng tôi may mắn. Ðó là một tai nạn không có gì trầm trọng."
+        "vi": "Tôi gặp tai nạn; nhưng tôi may mắn. Đó là một tai nạn không có gì trầm trọng."
       }
     ],
     "k": "in luck"
@@ -2000,7 +2000,7 @@
       {
         "k": "ex",
         "t": "This is a fine car. It runs well and is in mint condition:",
-        "vi": "Ðây là một cái xe hơi đẹp. Nó chạy tốt và còn mới toanh."
+        "vi": "Đây là một cái xe hơi đẹp. Nó chạy tốt và còn mới toanh."
       },
       {
         "k": "ex",
@@ -2360,7 +2360,7 @@
       {
         "k": "ex",
         "t": "Our cash flow is negative, and our assets are worthless. In other words, we are broke:",
-        "vi": "Ðồng tiền mặt của chúng ta là âm, và tài sản của chúng ta chẳng có giá trị gì. Nói đơn giản hơn chúng ta đang phá sản."
+        "vi": "Đồng tiền mặt của chúng ta là âm, và tài sản của chúng ta chẳng có giá trị gì. Nói đơn giản hơn chúng ta đang phá sản."
       }
     ],
     "k": "in other words"
@@ -2485,7 +2485,7 @@
   },
   {
     "h": "In persona Christi",
-    "segs": [{"k": "m", "t": "Trong bản thân Ðức Kitô, thay mặt Ðức Kitô."}],
+    "segs": [{"k": "m", "t": "Trong bản thân Đức Kitô, thay mặt Đức Kitô."}],
     "k": "in persona christi"
   },
   {
@@ -2536,7 +2536,7 @@
         "t": "It's good to see everything in place again:",
         "vi": "Thật hay lại nhìn thấy mọi thứ được ở đúng vị trí của chúng."
       },
-      {"k": "m", "t": "2. Ðúng cách."},
+      {"k": "m", "t": "2. Đúng cách."},
       {
         "k": "ex",
         "t": "Your remark was not in place.",
@@ -2578,7 +2578,7 @@
       {
         "k": "ex",
         "t": "That's too confusing, Please say it again in plain English:",
-        "vi": "Ðiều đó lộn xộn quá. Xin vui lòng nói lại cho thật đơn giản, rõ ràng và dễ hiểu."
+        "vi": "Điều đó lộn xộn quá. Xin vui lòng nói lại cho thật đơn giản, rõ ràng và dễ hiểu."
       },
       {
         "k": "ex",
@@ -2691,7 +2691,7 @@
       {
         "k": "ex",
         "t": "This is the only book in print on this subject:",
-        "vi": "Ðây là loại sách duy nhất về đề tài này có sẵn để bán."
+        "vi": "Đây là loại sách duy nhất về đề tài này có sẵn để bán."
       }
     ],
     "k": "in print"
@@ -2749,7 +2749,7 @@
       {
         "k": "ex",
         "t": "You can't go into that room. There is a meeting in progress:",
-        "vi": "Bạn không thể đi vào phòng đó được: Ðang có một cuộc họp ở đó."
+        "vi": "Bạn không thể đi vào phòng đó được: Đang có một cuộc họp ở đó."
       },
       {
         "k": "ex",
@@ -2978,7 +2978,7 @@
     "k": "in ruins",
     "q": {"vi": "trong tình trạng hư hại, suy sụp"}
   },
-  {"h": "In sacris", "segs": [{"k": "m", "t": "Ðã chịu chức thánh."}], "k": "in sacris"},
+  {"h": "In sacris", "segs": [{"k": "m", "t": "Đã chịu chức thánh."}], "k": "in sacris"},
   {
     "h": "in salute",
     "segs": [
@@ -3214,7 +3214,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "1. ai đó có lợi thế hoặc uy tín. (Ðặc biệt về việc ghi bàn trong thể thao, như trong các ví dụ dưới đây.)"
+        "t": "1. ai đó có lợi thế hoặc uy tín. (Đặc biệt về việc ghi bàn trong thể thao, như trong các ví dụ dưới đây.)"
       },
       {
         "k": "ex",
@@ -3555,7 +3555,7 @@
       {"k": "m", "t": "(kinh tế) tại Ngân hàng."},
       {
         "k": "m",
-        "t": "Thị trường chiết khấu Luân Ðôn được gọi là tại Ngân hàng khi tất cả hay một số trụ sở chiết khấu buộc phải vay hay giảm chiết khấu hối phiếu tại Văn phòng Chiết khấu của Ngân hàng Anh do các ngân hàng rút tiền theo yêu cầu của chúng."
+        "t": "Thị trường chiết khấu Luân Đôn được gọi là tại Ngân hàng khi tất cả hay một số trụ sở chiết khấu buộc phải vay hay giảm chiết khấu hối phiếu tại Văn phòng Chiết khấu của Ngân hàng Anh do các ngân hàng rút tiền theo yêu cầu của chúng."
       }
     ],
     "k": "in the bank"
@@ -3621,12 +3621,12 @@
       {
         "k": "ex",
         "t": "John's a great runner. It's in his blood:",
-        "vi": "John là một người chạy giỏi. Ðó là đặc tính của anh ấy."
+        "vi": "John là một người chạy giỏi. Đó là đặc tính của anh ấy."
       },
       {
         "k": "ex",
         "t": "The whole family is very athletic. It's in the blood:",
-        "vi": "Cả gia đình trông rất thể thao. Ðó là đặc tính của họ."
+        "vi": "Cả gia đình trông rất thể thao. Đó là đặc tính của họ."
       }
     ],
     "k": "in the blood"
@@ -3637,7 +3637,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ðối với một cầu thủ phát, ném bóng trong môn bóng chày) Ở nơi đặc biệt gần sân chơi bóng chày, đang khởi động để ném bóng. (Từ in có thể được thay thế bằng từ into. Xem in a bind và các ví dụ dưới đây.)"
+        "t": "(Đối với một cầu thủ phát, ném bóng trong môn bóng chày) Ở nơi đặc biệt gần sân chơi bóng chày, đang khởi động để ném bóng. (Từ in có thể được thay thế bằng từ into. Xem in a bind và các ví dụ dưới đây.)"
       },
       {
         "k": "ex",
@@ -3712,7 +3712,7 @@
       {
         "k": "ex",
         "t": "Don't worry, Tom. I'm sure you're in the clear:",
-        "vi": "Ðừng lo, Tom tôi tin chắc anh vô tội."
+        "vi": "Đừng lo, Tom tôi tin chắc anh vô tội."
       },
       {
         "k": "ex",
@@ -7540,7 +7540,7 @@
       },
       {
         "k": "m",
-        "t": "Cũng trong năm 1533, Pizarro chiếm giữ vùng Cuzco. Ðến năm 1537, ông Manco Capac thất bại nên đế chế Inca phụ thuộc vào Tây Ban Nha."
+        "t": "Cũng trong năm 1533, Pizarro chiếm giữ vùng Cuzco. Đến năm 1537, ông Manco Capac thất bại nên đế chế Inca phụ thuộc vào Tây Ban Nha."
       },
       {
         "k": "m",
@@ -7563,7 +7563,7 @@
         "k": "m",
         "t": "Về tôn giáo thì tập trung, các vị thần địa phương cũng được kính trọng, nhưng đứng vào hàng thứ 2 sau thần mặt rời, (tổ tiên của các vị thần) và thần Viracocha (đấng tạo hóa)."
       },
-      {"k": "m", "t": "Ðây là lịch sử của đế chế Incas."},
+      {"k": "m", "t": "Đây là lịch sử của đế chế Incas."},
       {
         "k": "m",
         "t": "Năm 1200: Manco Capac vị vua thứ nhất của Inca, cai trị triều đại ở thủ đô Cuzco."
@@ -7602,7 +7602,7 @@
       },
       {
         "k": "m",
-        "t": "Năm 1493: Huayna Capac trở thành vị vua thứ 11 của Inca. Ðô thị Quito được dùng làm thủ đô thứ 2, dẫn đến nội chiến giữa Atahualpa (con trai của Huayna) với Huascar."
+        "t": "Năm 1493: Huayna Capac trở thành vị vua thứ 11 của Inca. Đô thị Quito được dùng làm thủ đô thứ 2, dẫn đến nội chiến giữa Atahualpa (con trai của Huayna) với Huascar."
       },
       {
         "k": "m",
@@ -9680,7 +9680,7 @@
   {"h": "incisive muscle", "segs": [{"k": "m", "t": "Cơ răng cửa dưới."}], "k": "incisive muscle"},
   {
     "h": "incisive suture",
-    "segs": [{"k": "m", "t": "Ðường khớp răng cưa."}],
+    "segs": [{"k": "m", "t": "Đường khớp răng cưa."}],
     "k": "incisive suture"
   },
   {
@@ -10097,12 +10097,12 @@
   },
   {
     "h": "inclinatio",
-    "segs": [{"k": "m", "t": "Ðộ nghiêng"}, {"k": "m", "t": "(sự) nghiêng."}],
+    "segs": [{"k": "m", "t": "Độ nghiêng"}, {"k": "m", "t": "(sự) nghiêng."}],
     "k": "inclinatio"
   },
   {
     "h": "inclinatio pelvis",
-    "segs": [{"k": "m", "t": "Ðộ nghiêng chậu nhỏ."}],
+    "segs": [{"k": "m", "t": "Độ nghiêng chậu nhỏ."}],
     "k": "inclinatio pelvis"
   },
   {
@@ -10147,7 +10147,7 @@
   },
   {
     "h": "inclination of pelvis",
-    "segs": [{"k": "m", "t": "Ðộ nghiêng chậu nhỏ."}],
+    "segs": [{"k": "m", "t": "Độ nghiêng chậu nhỏ."}],
     "k": "inclination of pelvis"
   },
   {
@@ -11852,7 +11852,7 @@
       },
       {
         "k": "m",
-        "t": "Ðến thập niên 1850, ông Gladstone đặt kế hoạch bãi bỏ thuế lợi tức, nhưng rồi bắt buộc phải tăng lên để tài trợ cho cuộc chiến Crimea, và đến thập niên 1860, nó được chấp nhận như sự cần thiết phải thu thuế lợi tức thường xuyên."
+        "t": "Đến thập niên 1850, ông Gladstone đặt kế hoạch bãi bỏ thuế lợi tức, nhưng rồi bắt buộc phải tăng lên để tài trợ cho cuộc chiến Crimea, và đến thập niên 1860, nó được chấp nhận như sự cần thiết phải thu thuế lợi tức thường xuyên."
       },
       {
         "k": "m",
@@ -14053,7 +14053,7 @@
   },
   {
     "h": "incontinence of urine",
-    "segs": [{"k": "m", "t": "Ðái dầm."}],
+    "segs": [{"k": "m", "t": "Đái dầm."}],
     "k": "incontinence of urine"
   },
   {
@@ -15469,7 +15469,7 @@
   },
   {
     "h": "incremental line",
-    "segs": [{"k": "m", "t": "Ðường vóng, đường lớp ngà đường Owen."}],
+    "segs": [{"k": "m", "t": "Đường vóng, đường lớp ngà đường Owen."}],
     "k": "incremental line"
   },
   {
@@ -18104,7 +18104,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tư vấn tài chính độc lập. Theo Ðạo Luật về Dịch Vụ Tài Chính (1986) của Anh, tư vấn tài chính độc lập phải là người không liên quan đến sản phẩm của bất cứ công ty hoặc tổ chức kinh doanh nào. Họ được cấp giấy phép hành nghề bởi Self-Regulating Organizations (Tổ Chức Tự Quản) hoặc Recognized Professional Bodies (Cơ Quan Chuyên Nghiệp Hợp Thức). Chuyên gia tư vấn này chỉ hưởng tiền hoa hồng nơi khách hàng và họ phải đưa ra những đề xuất tối ưu đối với lãnh vực được tham vấn. Hiện nay có 8 loại chuyên gia tư vấn tài chánh độc lập, xếp thành 4 lãnh vực: tư vấn về đầu tư, về cách sắp đặt và giao dịch về hợp đồng bảo hiểm nhân thọ, hưu bổng và ủy thác đầu tư, về các hình thức đầu tư khác và quản lý đầu tư. Mọi chuyên gia tư vấn tài chính độc lập phải đóng góp vào quỹ bồi hoàn nhằm bảo vệ thân chủ."
+        "t": "tư vấn tài chính độc lập. Theo Đạo Luật về Dịch Vụ Tài Chính (1986) của Anh, tư vấn tài chính độc lập phải là người không liên quan đến sản phẩm của bất cứ công ty hoặc tổ chức kinh doanh nào. Họ được cấp giấy phép hành nghề bởi Self-Regulating Organizations (Tổ Chức Tự Quản) hoặc Recognized Professional Bodies (Cơ Quan Chuyên Nghiệp Hợp Thức). Chuyên gia tư vấn này chỉ hưởng tiền hoa hồng nơi khách hàng và họ phải đưa ra những đề xuất tối ưu đối với lãnh vực được tham vấn. Hiện nay có 8 loại chuyên gia tư vấn tài chánh độc lập, xếp thành 4 lãnh vực: tư vấn về đầu tư, về cách sắp đặt và giao dịch về hợp đồng bảo hiểm nhân thọ, hưu bổng và ủy thác đầu tư, về các hình thức đầu tư khác và quản lý đầu tư. Mọi chuyên gia tư vấn tài chính độc lập phải đóng góp vào quỹ bồi hoàn nhằm bảo vệ thân chủ."
       }
     ],
     "k": "independent financial adviser"
@@ -18203,7 +18203,7 @@
       },
       {
         "k": "m",
-        "t": "Ðây là đảng có thế lực nằm trong ủy ban đại diện lao động năm 1900. Ðến năm 1906, ủy ban đại diện lao động lại lấy tên là đảng lao động. (Như vậy, trong một quốc gia có đến 2 đảng lao động). Một là \"đảng lao động độc lập, hai là (đảng lao động)\". Thời gian giữa hai cuộc chiến tranh thế giới, 2 đảng trên bị chia rẽ. Ðảng lao động độc lập thì có tình cảm với chủ nghĩa cộng sản, nhưng từ năm 1939, do ảnh hưởng của đảng này đã suy thoái dần."
+        "t": "Đây là đảng có thế lực nằm trong ủy ban đại diện lao động năm 1900. Đến năm 1906, ủy ban đại diện lao động lại lấy tên là đảng lao động. (Như vậy, trong một quốc gia có đến 2 đảng lao động). Một là \"đảng lao động độc lập, hai là (đảng lao động)\". Thời gian giữa hai cuộc chiến tranh thế giới, 2 đảng trên bị chia rẽ. Đảng lao động độc lập thì có tình cảm với chủ nghĩa cộng sản, nhưng từ năm 1939, do ảnh hưởng của đảng này đã suy thoái dần."
       }
     ],
     "k": "independent labour party"
@@ -19426,7 +19426,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "khoản tiền được trữ đi trong lợi tức thu được do bán tài sản hoặc các khoản đầu tư, nhằm giảm hiệu quả của lạm phát đối với mục đích thu thuế nói trên. Ðiều này được áp dụng ở Anh từ năm 1982 và liên quan đến sự định chỉ số các khoản chi phí được quy định bằng cách đối chiếu với chỉ số giá bán lẻ. Qui tắc về khoản này được ghi trong Ðạo Luật Tài Chính (1982 & 1985)."
+        "t": "khoản tiền được trữ đi trong lợi tức thu được do bán tài sản hoặc các khoản đầu tư, nhằm giảm hiệu quả của lạm phát đối với mục đích thu thuế nói trên. Điều này được áp dụng ở Anh từ năm 1982 và liên quan đến sự định chỉ số các khoản chi phí được quy định bằng cách đối chiếu với chỉ số giá bán lẻ. Qui tắc về khoản này được ghi trong Đạo Luật Tài Chính (1982 & 1985)."
       }
     ],
     "k": "indexation allowance"
@@ -19680,19 +19680,19 @@
     "segs": [
       {
         "k": "m",
-        "t": "nước Ấn Ðộ, được bao bọc bởi nước Pakistan ở phía Tây Bắc, Trung Quốc, Nepal và Bhutan ở phía Bắc, và Myanmar (Miến Ðiện) ở phía Ðông."
+        "t": "nước Ấn Độ, được bao bọc bởi nước Pakistan ở phía Tây Bắc, Trung Quốc, Nepal và Bhutan ở phía Bắc, và Myanmar (Miến Điện) ở phía Đông."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: đất nước Ấn Ðộ có địa hình giống như một tam giác, biên giới phía Bắc phần lớn là núi. Himalayas (là ngọn núi cao nhất thế giới). Hai cạnh phía Nam là bờ biển nằm trên đảo Ả rập, một cạnh giữa nằm trên vịnh Bengal. Sau lưng là những dãy núi, phía tây và phía Ðông của vùng Ghats."
+        "t": "Địa hình: đất nước Ấn Độ có địa hình giống như một tam giác, biên giới phía Bắc phần lớn là núi. Himalayas (là ngọn núi cao nhất thế giới). Hai cạnh phía Nam là bờ biển nằm trên đảo Ả rập, một cạnh giữa nằm trên vịnh Bengal. Sau lưng là những dãy núi, phía tây và phía Đông của vùng Ghats."
       },
       {
         "k": "m",
-        "t": "Kinh tế: Ấn Ðộ là khu vực có diện tích trồng trọt lớn, nên Ấn Ðộ đã phải tự túc về lương thực mặc dù sản lượng nông nghiệp thấp và kém chất lượng."
+        "t": "Kinh tế: Ấn Độ là khu vực có diện tích trồng trọt lớn, nên Ấn Độ đã phải tự túc về lương thực mặc dù sản lượng nông nghiệp thấp và kém chất lượng."
       },
       {
         "k": "m",
-        "t": "Năm 1947, sản xuất kỹ nghệ phát triển từ khi được nước Anh trao trả độc lập. Ấn Ðộ cũng kiểm soát được phần lớn việc khai thác mỏ, những sản phẩm quan trọng là than đá và sắt. Ðiện lực do những nhà máy nhiệt điện, thủy điện và một phần nhỏ năng lượng hạt nhân cung cấp."
+        "t": "Năm 1947, sản xuất kỹ nghệ phát triển từ khi được nước Anh trao trả độc lập. Ấn Độ cũng kiểm soát được phần lớn việc khai thác mỏ, những sản phẩm quan trọng là than đá và sắt. Điện lực do những nhà máy nhiệt điện, thủy điện và một phần nhỏ năng lượng hạt nhân cung cấp."
       },
       {
         "k": "m",
@@ -19700,11 +19700,11 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: người dân Dravidian đến định cư từ khi nào thì không ai rõ, nền văn minh Indus được tính từ năm 2500 trước công nguyên, chứng tỏ Ấn Ðộ có nền văn hóa sớm nhất thế giới."
+        "t": "Lịch sử: người dân Dravidian đến định cư từ khi nào thì không ai rõ, nền văn minh Indus được tính từ năm 2500 trước công nguyên, chứng tỏ Ấn Độ có nền văn hóa sớm nhất thế giới."
       },
       {
         "k": "m",
-        "t": "Nền văn minh Indus bị tiêu diệt khoảng năm 1500 trước công nguyên, có lẽ là do nước Aryan xâm lược. Tiếp theo là 1000 năm thăng tiến tôn giáo và hệ thống xã hội, cho nên duy trì được tính chất đặc thù của giáo Ấn. Những vương quốc nhỏ mọc lên rồi lại tàn. Ðế chế Mauryan (325-185 trước công nguyên) là đế chế của Ấn Ðộ."
+        "t": "Nền văn minh Indus bị tiêu diệt khoảng năm 1500 trước công nguyên, có lẽ là do nước Aryan xâm lược. Tiếp theo là 1000 năm thăng tiến tôn giáo và hệ thống xã hội, cho nên duy trì được tính chất đặc thù của giáo Ấn. Những vương quốc nhỏ mọc lên rồi lại tàn. Đế chế Mauryan (325-185 trước công nguyên) là đế chế của Ấn Độ."
       },
       {
         "k": "m",
@@ -19712,31 +19712,31 @@
       },
       {
         "k": "m",
-        "t": "Từ thế kỷ 11 đến thế kỷ 16, làn sóng xâm lược từ trung tâm Châu Á dẫn đến việc Hồi giáo kiểm soát miền Bắc Ấn Ðộ và cao nguyên Deccan. Do sự nhập cư, những người Hồi giáo trở thành bộ phận tiểu số ở Ấn Ðộ."
+        "t": "Từ thế kỷ 11 đến thế kỷ 16, làn sóng xâm lược từ trung tâm Châu Á dẫn đến việc Hồi giáo kiểm soát miền Bắc Ấn Độ và cao nguyên Deccan. Do sự nhập cư, những người Hồi giáo trở thành bộ phận tiểu số ở Ấn Độ."
       },
       {
         "k": "m",
-        "t": "Mãi đến cuối thế kỷ 19 đầu thế kỷ 20, đảng quốc hội Ấn Ðộ mới được thành lập năm 1885. Ðể điều khiển những chiến dịch chủ yếu cho quyền tự quản độc lập, dưới sự lãnh đạo của M.K.Gandhi. Từ năm 1945 đến 1947, quốc hội Ấn Ðộ điều đình với nước Anh trao trả độc lập vào năm 1947. Nước Anh chuyển quyền lực cho Ấn Ðộ và Pakistan."
+        "t": "Mãi đến cuối thế kỷ 19 đầu thế kỷ 20, đảng quốc hội Ấn Độ mới được thành lập năm 1885. Để điều khiển những chiến dịch chủ yếu cho quyền tự quản độc lập, dưới sự lãnh đạo của M.K.Gandhi. Từ năm 1945 đến 1947, quốc hội Ấn Độ điều đình với nước Anh trao trả độc lập vào năm 1947. Nước Anh chuyển quyền lực cho Ấn Độ và Pakistan."
       },
       {
         "k": "m",
-        "t": "Nước cộng hòa Ấn Ðộ quyết định giữ chân trong khối thịnh vượng chung của Anh. Các bang ở Ấn Ðộ kể cả Kashmit đều muốn thống nhất. Người Pháp từ bỏ quyền lợi của họ ở Ấn Ðộ. Nước Sikkim bán tự trị cũng sáp nhập vào Ấn Ðộ thông qua áp lực chính trị chứ không đổ máu."
+        "t": "Nước cộng hòa Ấn Độ quyết định giữ chân trong khối thịnh vượng chung của Anh. Các bang ở Ấn Độ kể cả Kashmit đều muốn thống nhất. Người Pháp từ bỏ quyền lợi của họ ở Ấn Độ. Nước Sikkim bán tự trị cũng sáp nhập vào Ấn Độ thông qua áp lực chính trị chứ không đổ máu."
       },
       {
         "k": "m",
-        "t": "Sự đòi hỏi của người Pakistan về lãnh thổ Kashmir vẫn tồn tại nguồn gốc cuộc tranh cãi. Ấn Ðộ gồm có 25 bang và 6 lãnh thổ liên hiệp được tổ chức căn cứ vào ngôn ngữ. Từ khi độc lập Ấn Ðộ có 3 cuộc chiến với người Pakistan và một cuộc chiến với Trung Quốc. Sự liên lạc với nước Srilanka bị căng thẳng, vì tổ chức Tamil ở Ấn Ðộ giúp đỡ cho tổ chức Tamil ở Srilanka đòi quyền tự trị. Người Sikh khăng khăng đòi quyền tự trị cho tiểu bang Punjab. Thủ tướng đầu tiên của Ấn Ðộ là ông Jawaharlal Neiiru vào năm 1947-1964, đã khởi đầu chính sách tăng trưởng kinh tế và không liên kết. Con gái Neiiru là bà Indira Gandhi trở thành thủ tướng năm 1966. Bà đã làm rạn nứt đảng Quốc Ðại và thử nghiệm chế độ chuyên chế để cai trị (1975-1977) nên bà bị thất cử. Nhưng sau đó bà lại nắm được quyền lực vào năm 1980, bà áp đặt sự cứng rắn đối với những người muốn chia rẽ Ấn Ðộ năm 1984 bằng cách đàn áp phong trào hiếu chiến người Sikh đòi tự trị cho tiểu bang Punjab. Cũng vào năm 1984, bà đã bị người Sikh ám sát chết. Con trai bà là Rajiv Gandhi (1944-1991) thừa kế bà làm thủ tướng (1984-1989)."
+        "t": "Sự đòi hỏi của người Pakistan về lãnh thổ Kashmir vẫn tồn tại nguồn gốc cuộc tranh cãi. Ấn Độ gồm có 25 bang và 6 lãnh thổ liên hiệp được tổ chức căn cứ vào ngôn ngữ. Từ khi độc lập Ấn Độ có 3 cuộc chiến với người Pakistan và một cuộc chiến với Trung Quốc. Sự liên lạc với nước Srilanka bị căng thẳng, vì tổ chức Tamil ở Ấn Độ giúp đỡ cho tổ chức Tamil ở Srilanka đòi quyền tự trị. Người Sikh khăng khăng đòi quyền tự trị cho tiểu bang Punjab. Thủ tướng đầu tiên của Ấn Độ là ông Jawaharlal Neiiru vào năm 1947-1964, đã khởi đầu chính sách tăng trưởng kinh tế và không liên kết. Con gái Neiiru là bà Indira Gandhi trở thành thủ tướng năm 1966. Bà đã làm rạn nứt đảng Quốc Đại và thử nghiệm chế độ chuyên chế để cai trị (1975-1977) nên bà bị thất cử. Nhưng sau đó bà lại nắm được quyền lực vào năm 1980, bà áp đặt sự cứng rắn đối với những người muốn chia rẽ Ấn Độ năm 1984 bằng cách đàn áp phong trào hiếu chiến người Sikh đòi tự trị cho tiểu bang Punjab. Cũng vào năm 1984, bà đã bị người Sikh ám sát chết. Con trai bà là Rajiv Gandhi (1944-1991) thừa kế bà làm thủ tướng (1984-1989)."
       },
       {
         "k": "m",
-        "t": "Từ năm 1987 đến 1989, Ấn Ðộ can thiệp quân sự vào nước Srilanka để dập tắt phiến loạn Tamil. Thủ tướng Rajiv thất cử năm 1989 và bị tổ chức hiếu chiến Tamil ám sát."
+        "t": "Từ năm 1987 đến 1989, Ấn Độ can thiệp quân sự vào nước Srilanka để dập tắt phiến loạn Tamil. Thủ tướng Rajiv thất cử năm 1989 và bị tổ chức hiếu chiến Tamil ám sát."
       },
       {
         "k": "m",
-        "t": "Ðảng quốc hội dưới quyền Narasimha Rao đòi lấy lại quyền kiểm soát chính trị với các thành phần thiểu số trong chính phủ."
+        "t": "Đảng quốc hội dưới quyền Narasimha Rao đòi lấy lại quyền kiểm soát chính trị với các thành phần thiểu số trong chính phủ."
       },
       {
         "k": "m",
-        "t": "Tháng 12 năm 1992, những người Hindu quá khích đập tan nhà thờ Babri của Hồi giáo ở vùng Ayodhya, Uttar Pradesh, dẫn đến sự xung đột bè phái năm 1993. Ðến năm 1994, quyền hành của ông Narasimha Rao bị suy yếu do sự khủng hoảng lãnh đạo và sự rạn nứt trong đảng Quốc Ðại."
+        "t": "Tháng 12 năm 1992, những người Hindu quá khích đập tan nhà thờ Babri của Hồi giáo ở vùng Ayodhya, Uttar Pradesh, dẫn đến sự xung đột bè phái năm 1993. Đến năm 1994, quyền hành của ông Narasimha Rao bị suy yếu do sự khủng hoảng lãnh đạo và sự rạn nứt trong đảng Quốc Đại."
       },
       {
         "k": "m",
@@ -19744,7 +19744,7 @@
       },
       {
         "k": "m",
-        "t": "Tiếp đến là nạn tham nhũng tràn lan trong chính phủ, làm cho đảng Quốc Ðại của ông Rao bị thất cử trong cuộc tổng tuyển cử vào năm 1996."
+        "t": "Tiếp đến là nạn tham nhũng tràn lan trong chính phủ, làm cho đảng Quốc Đại của ông Rao bị thất cử trong cuộc tổng tuyển cử vào năm 1996."
       },
       {
         "k": "m",
@@ -19752,7 +19752,7 @@
       },
       {
         "k": "m",
-        "t": "Ông I.K.Gujral, thủ tướng thứ 3 của Ấn Ðộ cầm quyền được 18 tháng rồi sau đó thì từ chức."
+        "t": "Ông I.K.Gujral, thủ tướng thứ 3 của Ấn Độ cầm quyền được 18 tháng rồi sau đó thì từ chức."
       },
       {
         "k": "m",
@@ -19761,10 +19761,10 @@
       {"k": "m", "t": "Thủ đô: New Delhi."},
       {"k": "m", "t": "Diện tích: 3.116.414 km2"},
       {"k": "m", "t": "Dân số: 952,969 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng ru-pi."},
+      {"k": "m", "t": "Tiền tệ: Đồng ru-pi."},
       {
         "k": "m",
-        "t": "Tôn giáo: Hindu (Ấn giáo) 82,64%, Hồi giáo 11,35%, đạo Cơ Ðốc giáo 2,43%, Phật giáo 0,71%, đạo Jain 0,48%, đạo Parsee 0,01%."
+        "t": "Tôn giáo: Hindu (Ấn giáo) 82,64%, Hồi giáo 11,35%, đạo Cơ Đốc giáo 2,43%, Phật giáo 0,71%, đạo Jain 0,48%, đạo Parsee 0,01%."
       },
       {
         "k": "m",
@@ -19780,22 +19780,22 @@
       }
     ],
     "k": "india",
-    "q": {"vi": "ấn Ðộ", "ipa": "in'diə", "rs": "ìn đía"}
+    "q": {"vi": "ấn Độ", "ipa": "in'diə", "rs": "ìn đía"}
   },
   {
     "h": "India Acts",
     "segs": [
       {
         "k": "m",
-        "t": "đạo luật của nghị viện Anh Quốc giành cho chính phủ Ấn Ðộ (nước thuộc địa của Anh). Ðạo luật này được thay thế luật do tổ chức Ðông Ấn ban hành trước đây (tổ chức Ðông Ấn là những quan chức của nước Anh được chính phủ Anh bổ nhiệm đến cai trị nước thuộc địa là Ấn Ðộ). Từ năm 1861, có một hội đồng bao gồm những thành viên Châu Âu, để giúp đỡ cho phó vương Ấn Ðộ."
+        "t": "đạo luật của nghị viện Anh Quốc giành cho chính phủ Ấn Độ (nước thuộc địa của Anh). Đạo luật này được thay thế luật do tổ chức Đông Ấn ban hành trước đây (tổ chức Đông Ấn là những quan chức của nước Anh được chính phủ Anh bổ nhiệm đến cai trị nước thuộc địa là Ấn Độ). Từ năm 1861, có một hội đồng bao gồm những thành viên Châu Âu, để giúp đỡ cho phó vương Ấn Độ."
       },
       {
         "k": "m",
-        "t": "Theo đạo luật Ấn Ðộ năm 1909, cho phép người Ấn được chia sẻ công việc của hội đồng lập pháp. Chính phủ Ấn Ðộ phải thành lập 2 viện (Thượng viện và Hạ viện) trong ngành lập pháp, rồi nới rộng luật pháp xuống các tỉnh thành. Riêng chính phủ trung ương thì phó vương giữ quyền hành pháp. Các tỉnh thành dùng biện pháp tự trị (bao gồm lập pháp và hành pháp về một người lãnh đạo tỉnh, không chia ra làm 2 như ở chính phủ trung ương)."
+        "t": "Theo đạo luật Ấn Độ năm 1909, cho phép người Ấn được chia sẻ công việc của hội đồng lập pháp. Chính phủ Ấn Độ phải thành lập 2 viện (Thượng viện và Hạ viện) trong ngành lập pháp, rồi nới rộng luật pháp xuống các tỉnh thành. Riêng chính phủ trung ương thì phó vương giữ quyền hành pháp. Các tỉnh thành dùng biện pháp tự trị (bao gồm lập pháp và hành pháp về một người lãnh đạo tỉnh, không chia ra làm 2 như ở chính phủ trung ương)."
       },
       {
         "k": "m",
-        "t": "Ðến năm 1935, luật Ấn Ðộ tách nước Miến Ðiện (Myanmar) ra khỏi Ấn Ðộ và ấn định quyền tự trị cho các tỉnh của nước thuộc địa Ấn Ðộ."
+        "t": "Đến năm 1935, luật Ấn Độ tách nước Miến Điện (Myanmar) ra khỏi Ấn Độ và ấn định quyền tự trị cho các tỉnh của nước thuộc địa Ấn Độ."
       }
     ],
     "k": "india acts"
@@ -19804,7 +19804,7 @@
     "h": "india civilian",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "công chức trong bộ máy chính quyền Anh ở Ấn Ðộ (trước độc lập)."}
+      {"k": "m", "t": "công chức trong bộ máy chính quyền Anh ở Ấn Độ (trước độc lập)."}
     ],
     "k": "india civilian"
   },
@@ -19828,23 +19828,23 @@
   },
   {
     "h": "India rubber glove",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "găng cao su Ấn Ðộ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "găng cao su Ấn Độ"}],
     "k": "india rubber glove"
   },
   {
     "h": "India rubber hose",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ống mềm cao su Ấn Ðộ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ống mềm cao su Ấn Độ"}],
     "k": "india rubber hose"
   },
   {
     "h": "India rupee",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "đồng ru-bi Ấn Ðộ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "đồng ru-bi Ấn Độ"}],
     "k": "india rupee"
   },
   {"h": "india tint", "segs": [{"k": "m", "t": "màu nâu nhạt."}], "k": "india tint"},
   {
     "h": "Indiaman",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tàu buôn đi lại giữa Anh và Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tàu buôn đi lại giữa Anh và Ấn Độ."}],
     "ipa": "'indjəmæn",
     "k": "indiaman"
   },
@@ -19852,15 +19852,15 @@
     "h": "Indian",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) Ấn Ðộ"},
+      {"k": "m", "t": "(thuộc) Ấn Độ"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người Ấn Ðộ"},
+      {"k": "m", "t": "người Ấn Độ"},
       {"k": "m", "t": "người da đỏ ở Bắc Mỹ"},
       {"k": "m", "t": "người Anh-điêng."}
     ],
     "ipa": "'indjən",
     "k": "indian",
-    "q": {"vi": "người ấn Ðộ", "ipa": "in'diən", "rs": "ìn đía ần"}
+    "q": {"vi": "người ấn Độ", "ipa": "in'diən", "rs": "ìn đía ần"}
   },
   {
     "h": "indian agent",
@@ -19884,7 +19884,7 @@
   },
   {
     "h": "Indian architecture",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kiến trúc Ấn Ðộ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kiến trúc Ấn Độ"}],
     "k": "indian architecture"
   },
   {
@@ -19902,7 +19902,7 @@
     "h": "Indian civilian",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "công chức trong bộ máy chính quyền Anh ở Ấn Ðộ (trước độc lập)."}
+      {"k": "m", "t": "công chức trong bộ máy chính quyền Anh ở Ấn Độ (trước độc lập)."}
     ],
     "ipa": "'indjənsi'viljən",
     "k": "indian civilian"
@@ -19931,7 +19931,7 @@
   },
   {
     "h": "indian elephant",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "voi Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "voi Ấn Độ."}],
     "k": "indian elephant"
   },
   {
@@ -20008,11 +20008,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1857-1858) một cuộc nổi dậy của người dân Ấn Ðộ chống lại quyền cai trị của nước Anh. Cuộc nổi dậy bắt đầu bởi các binh sĩ bản địa phục vụ trong quân đội Anh ở Meerut vào ngày 10 tháng 5 năm 1857, rồi nhanh chóng lan rộng đến thủ đô Delhi. Ðó là các trung đoàn quân đội Bengal cùng với cư dân Ấn Ðộ ở Uttar Pradesh và Madhya Pradesh."
+        "t": "(1857-1858) một cuộc nổi dậy của người dân Ấn Độ chống lại quyền cai trị của nước Anh. Cuộc nổi dậy bắt đầu bởi các binh sĩ bản địa phục vụ trong quân đội Anh ở Meerut vào ngày 10 tháng 5 năm 1857, rồi nhanh chóng lan rộng đến thủ đô Delhi. Đó là các trung đoàn quân đội Bengal cùng với cư dân Ấn Độ ở Uttar Pradesh và Madhya Pradesh."
       },
       {
         "k": "m",
-        "t": "Nguyên nhân cuộc nổi dậy là do các binh sĩ từ chối cầm súng bôi trơn bằng mỡ lợn và mỡ bò (vì đạo Hồi cấm dùng thịt lợn và thịt bò). Ðây là sự lãnh đạo hà khắc của ông Dalhounie và ông Canning người Anh, thi hành chính sách khắc nghiệt về đất đai, làm cho cuộc nổi loạn lan rộng khắp dân chúng Ấn Ðộ."
+        "t": "Nguyên nhân cuộc nổi dậy là do các binh sĩ từ chối cầm súng bôi trơn bằng mỡ lợn và mỡ bò (vì đạo Hồi cấm dùng thịt lợn và thịt bò). Đây là sự lãnh đạo hà khắc của ông Dalhounie và ông Canning người Anh, thi hành chính sách khắc nghiệt về đất đai, làm cho cuộc nổi loạn lan rộng khắp dân chúng Ấn Độ."
       },
       {
         "k": "m",
@@ -20024,14 +20024,14 @@
       },
       {
         "k": "m",
-        "t": "Ông Tantia Topi phải đi lánh nạn, nhưng lại bị tố giác và bị giết chết. Về sau, người Anh phục hồi được quyền kiểm soát, nhưng sự cai trị của tổ chức Ðông Ấn (do người Anh cầm đầu để cai trị Ấn Ðộ) đã bị thay thế bằng sự cai trị của vua nước Ấn Ðộ."
+        "t": "Ông Tantia Topi phải đi lánh nạn, nhưng lại bị tố giác và bị giết chết. Về sau, người Anh phục hồi được quyền kiểm soát, nhưng sự cai trị của tổ chức Đông Ấn (do người Anh cầm đầu để cai trị Ấn Độ) đã bị thay thế bằng sự cai trị của vua nước Ấn Độ."
       }
     ],
     "k": "indian mutiny"
   },
   {
     "h": "Indian Ocean",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(địa lý) Ấn Ðộ Dương."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(địa lý) Ấn Độ Dương."}],
     "ipa": "'indjən'ouʃn",
     "k": "indian ocean"
   },
@@ -20135,7 +20135,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những vùng đất dự trù do chính phủ Mỹ cấp cho dân da đỏ bản địa (ở Mỹ). Ðầu tiên, tổng thống Mỹ Jackson dựa theo đạo luật cung cấp đất đai cho người bản địa da đỏ được quốc hội Mỹ chấp thuận vào năm 1830. đạo luật này di chuyển những bộ lạc da đỏ bản địa là bộ lạc Creek, Seminole, Chickasaw, Choctau và Cherokee đến vùng Oklahoma là nơi dành cho tất cả các bộ lạc da đỏ ở 40 bang của nước Mỹ đến cư trú. Chỉ có một phần rất nhỏ các bộ lạc chứng tỏ không thể thành công về kinh tế, phải bị giữ lại ở địa phương cũ. Mặc dù vậy chính phủ Mỹ cũng đã đẩy lùi được nạn đói cho những bộ lạc da đỏ bản địa."
+        "t": "những vùng đất dự trù do chính phủ Mỹ cấp cho dân da đỏ bản địa (ở Mỹ). Đầu tiên, tổng thống Mỹ Jackson dựa theo đạo luật cung cấp đất đai cho người bản địa da đỏ được quốc hội Mỹ chấp thuận vào năm 1830. đạo luật này di chuyển những bộ lạc da đỏ bản địa là bộ lạc Creek, Seminole, Chickasaw, Choctau và Cherokee đến vùng Oklahoma là nơi dành cho tất cả các bộ lạc da đỏ ở 40 bang của nước Mỹ đến cư trú. Chỉ có một phần rất nhỏ các bộ lạc chứng tỏ không thể thành công về kinh tế, phải bị giữ lại ở địa phương cũ. Mặc dù vậy chính phủ Mỹ cũng đã đẩy lùi được nạn đói cho những bộ lạc da đỏ bản địa."
       }
     ],
     "k": "indian reservations"
@@ -20171,7 +20171,7 @@
   },
   {
     "h": "Indian Standard Time",
-    "segs": [{"k": "m", "t": "giờ chuẩn vùng Ấn Ðộ."}],
+    "segs": [{"k": "m", "t": "giờ chuẩn vùng Ấn Độ."}],
     "k": "indian standard time"
   },
   {
@@ -20179,19 +20179,19 @@
     "segs": [
       {
         "k": "m",
-        "t": "tiểu lục địa Ấn Ðộ. Ðó là một vùng địa lý chính trị, bao gồm Ấn Ðộ, Pakistan, Bangladesh, Nepal, Bhutan, Srilanka."
+        "t": "tiểu lục địa Ấn Độ. Đó là một vùng địa lý chính trị, bao gồm Ấn Độ, Pakistan, Bangladesh, Nepal, Bhutan, Srilanka."
       },
       {
         "k": "m",
-        "t": "Năm 1800, tổ chức Ðông Ấn của nước Anh nổi lên, có thế lực vượt trội ở Ấn Ðộ."
+        "t": "Năm 1800, tổ chức Đông Ấn của nước Anh nổi lên, có thế lực vượt trội ở Ấn Độ."
       },
       {
         "k": "m",
-        "t": "Cuộc chiến Maratha (1803-1818), kèm theo sự sáp nhập đất Punjab (1848-1849) đã làm cho quyền lực ở Anh lan rộng thêm ở thuộc địa Ấn Ðộ."
+        "t": "Cuộc chiến Maratha (1803-1818), kèm theo sự sáp nhập đất Punjab (1848-1849) đã làm cho quyền lực ở Anh lan rộng thêm ở thuộc địa Ấn Độ."
       },
       {
         "k": "m",
-        "t": "Một cuộc nổi dậy của đại hội binh sĩ bản địa Ấn Ðộ, cộng theo với cuộc bạo loạn của cư dân địa phương ở nhiều vùng của người Ấn vào năm 1857, đã làm cho người Anh trực tiếp nắm quyền cai trị, chứ không giao cho chính phủ Ấn Ðộ quản lý đất nước."
+        "t": "Một cuộc nổi dậy của đại hội binh sĩ bản địa Ấn Độ, cộng theo với cuộc bạo loạn của cư dân địa phương ở nhiều vùng của người Ấn vào năm 1857, đã làm cho người Anh trực tiếp nắm quyền cai trị, chứ không giao cho chính phủ Ấn Độ quản lý đất nước."
       },
       {
         "k": "m",
@@ -20199,11 +20199,11 @@
       },
       {
         "k": "m",
-        "t": "Người Anh mở mang nền giáo dục cao hơn cho người dân Ấn Ðộ theo kiểu phương Tây, bắt đầu từ năm 1817 bằng cách thành lập các trường đại học cho dân Ấn ở thành phố Calcutta."
+        "t": "Người Anh mở mang nền giáo dục cao hơn cho người dân Ấn Độ theo kiểu phương Tây, bắt đầu từ năm 1817 bằng cách thành lập các trường đại học cho dân Ấn ở thành phố Calcutta."
       },
       {
         "k": "m",
-        "t": "Những lớp học trung cấp theo kiểu phương Tây đã hấp dẫn tư tưởng dân chủ tự do, khởi đầu là tình cảm nhiệt thành đối với sự cai trị của người Anh, dần dần người Ấn đòi hỏi cải cách xã hội giống như tổ chức Brahmo Samaj và Arya Samaj. Quốc hội Ấn Ðộ được thành lập từ năm 1885 cung cấp diễn đàn cho những hoạt động chính trị."
+        "t": "Những lớp học trung cấp theo kiểu phương Tây đã hấp dẫn tư tưởng dân chủ tự do, khởi đầu là tình cảm nhiệt thành đối với sự cai trị của người Anh, dần dần người Ấn đòi hỏi cải cách xã hội giống như tổ chức Brahmo Samaj và Arya Samaj. Quốc hội Ấn Độ được thành lập từ năm 1885 cung cấp diễn đàn cho những hoạt động chính trị."
       },
       {
         "k": "m",
@@ -20211,11 +20211,11 @@
       },
       {
         "k": "m",
-        "t": "Ông Gandhi tung ra chiến dịch Satiagraha và chiến dịch \"không liên kết\", được sự ủng hộ của phong trào Khilafat, để đấu tranh cho quyền tự trị của Ấn Ðộ (1930-1934), nhưng ông Gandhi và nhiều người khác bị bắt giữ vào năm 1942."
+        "t": "Ông Gandhi tung ra chiến dịch Satiagraha và chiến dịch \"không liên kết\", được sự ủng hộ của phong trào Khilafat, để đấu tranh cho quyền tự trị của Ấn Độ (1930-1934), nhưng ông Gandhi và nhiều người khác bị bắt giữ vào năm 1942."
       },
       {
         "k": "m",
-        "t": "Sau đệ nhị thế chiến, nước Anh mở cuộc điều đình để chuyển giao quyền lực cai trị cho chính phủ Ấn Ðộ. Từ thập niên 1880, những cư dân Hồi giáo phải lo bảo vệ quyền lợi của họ, chống lại sự có thể xâm lấn bởi cư dân Hindu chiếm đa số."
+        "t": "Sau đệ nhị thế chiến, nước Anh mở cuộc điều đình để chuyển giao quyền lực cai trị cho chính phủ Ấn Độ. Từ thập niên 1880, những cư dân Hồi giáo phải lo bảo vệ quyền lợi của họ, chống lại sự có thể xâm lấn bởi cư dân Hindu chiếm đa số."
       },
       {
         "k": "m",
@@ -20223,23 +20223,23 @@
       },
       {
         "k": "m",
-        "t": "Ðến năm 1937, cư dân Hồi giáo khát vọng đòi hỏi một vùng đất dùng làm quê hương riêng rẽ của họ, đó là Pakistan vào năm 1940. Liên đoàn Hồi giáo đạt được sự ủng hộ của đa số cư dân Hồi giáo."
+        "t": "Đến năm 1937, cư dân Hồi giáo khát vọng đòi hỏi một vùng đất dùng làm quê hương riêng rẽ của họ, đó là Pakistan vào năm 1940. Liên đoàn Hồi giáo đạt được sự ủng hộ của đa số cư dân Hồi giáo."
       },
       {
         "k": "m",
-        "t": "Việc đòi hỏi đất Pakistan được chấp nhận, và một đất nước Pakistan riêng rẽ thành lập vào năm 1947, bao gồm những vùng đất có cư dân Hồi giáo chiếm đa số ở phía Tây Bắc và phía Ðông Ấn Ðộ."
+        "t": "Việc đòi hỏi đất Pakistan được chấp nhận, và một đất nước Pakistan riêng rẽ thành lập vào năm 1947, bao gồm những vùng đất có cư dân Hồi giáo chiếm đa số ở phía Tây Bắc và phía Đông Ấn Độ."
       },
       {
         "k": "m",
-        "t": "Hai bang của Ấn Ðộ và Pakistan đã tranh chấp về việc sáp nhập vùng Kashmir vào Ấn Ðộ, đã xảy ra 3 cuộc chiến dẫn đến sự ly khai của miền Ðông Pakistan và Bangladesh năm 1971."
+        "t": "Hai bang của Ấn Độ và Pakistan đã tranh chấp về việc sáp nhập vùng Kashmir vào Ấn Độ, đã xảy ra 3 cuộc chiến dẫn đến sự ly khai của miền Đông Pakistan và Bangladesh năm 1971."
       },
       {
         "k": "m",
-        "t": "Với chính sách ngoại giao, Pakistan liên lạc mật thiết với Mỹ, trong khi Ấn Ðộ lại thân cận với Liên Xô sau cuộc chiến năm 1971 và trở thành nước có quyền lực hạt nhân năm 1974."
+        "t": "Với chính sách ngoại giao, Pakistan liên lạc mật thiết với Mỹ, trong khi Ấn Độ lại thân cận với Liên Xô sau cuộc chiến năm 1971 và trở thành nước có quyền lực hạt nhân năm 1974."
       },
       {
         "k": "m",
-        "t": "Mặc dù kinh tế có tăng trưởng, nhưng cả hai nước Ấn Ðộ và Pakistan vẫn còn nghèo đói, tỷ lệ dân số gia tăng và những nhóm sắc tộc thiểu số ở gần các biên giới muốn tự trị."
+        "t": "Mặc dù kinh tế có tăng trưởng, nhưng cả hai nước Ấn Độ và Pakistan vẫn còn nghèo đói, tỷ lệ dân số gia tăng và những nhóm sắc tộc thiểu số ở gần các biên giới muốn tự trị."
       }
     ],
     "k": "indian subcontinent"
@@ -20259,7 +20259,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "kỹ thuật số ở Ấn. Kỹ thuật bắt nguồn từ nền văn minh cổ của tiểu lục địa Ấn Ðộ. Nền văn minh Harappan nở rộ ở thung lũng Indus vào khoảng 4000 năm trước đây, có thể so sánh với nền văn minh của Ai Cập, Mesopotania và Trung Quốc. Theo dòng lịch sử, khoa học và kỹ thuật Ấn đóng góp quan trọng cho nền văn minh của Ai Cập, Mesopotania và Trung Quốc. Theo dòng lịch sử, khoa học và kỹ thuật Ấn đóng góp quan trọng cho nền văn minh phương Tây. Những nồi nấu (có tên là Wootz) làm bằng thép ở miền Nam Ấn Ðộ, được người La Mã ca ngợi. Những cột sắt cao 8 mét ở Delhi (vào thế kỷ thứ 5) đã chứng minh tài khéo léo của những thợ kim khí Ấn Ðộ. Những y sĩ Ấn Ðộ thời xưa như ông Suscruta đã biết giải phẫu mắt và đường tiết niệu, đã dùng thuốc phòng bệnh đậu mùa để tránh bị mặt rỗ (ngay từ thế kỷ 5). Những triết gia rất giỏi khoa chiêm tinh, toán, đại số và địa lý các công thức vi phân đã được tìm thấy ở phương Tây thông qua thế giới Ả rập."
+        "t": "kỹ thuật số ở Ấn. Kỹ thuật bắt nguồn từ nền văn minh cổ của tiểu lục địa Ấn Độ. Nền văn minh Harappan nở rộ ở thung lũng Indus vào khoảng 4000 năm trước đây, có thể so sánh với nền văn minh của Ai Cập, Mesopotania và Trung Quốc. Theo dòng lịch sử, khoa học và kỹ thuật Ấn đóng góp quan trọng cho nền văn minh của Ai Cập, Mesopotania và Trung Quốc. Theo dòng lịch sử, khoa học và kỹ thuật Ấn đóng góp quan trọng cho nền văn minh phương Tây. Những nồi nấu (có tên là Wootz) làm bằng thép ở miền Nam Ấn Độ, được người La Mã ca ngợi. Những cột sắt cao 8 mét ở Delhi (vào thế kỷ thứ 5) đã chứng minh tài khéo léo của những thợ kim khí Ấn Độ. Những y sĩ Ấn Độ thời xưa như ông Suscruta đã biết giải phẫu mắt và đường tiết niệu, đã dùng thuốc phòng bệnh đậu mùa để tránh bị mặt rỗ (ngay từ thế kỷ 5). Những triết gia rất giỏi khoa chiêm tinh, toán, đại số và địa lý các công thức vi phân đã được tìm thấy ở phương Tây thông qua thế giới Ả rập."
       }
     ],
     "k": "indian technology"
@@ -20309,13 +20309,13 @@
   },
   {
     "h": "Indian wrestling",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "môn võ vật Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "môn võ vật Ấn Độ."}],
     "ipa": "'indjən'resliŋ",
     "k": "indian wrestling"
   },
   {
     "h": "Indian yellow",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "màu vàng Ấn Ðộ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "màu vàng Ấn Độ"}],
     "k": "indian yellow"
   },
   {
@@ -20353,8 +20353,8 @@
     "h": "indic",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "thuộc tiểu địa Ấn Ðộ"},
-      {"k": "m", "t": "thuộc Ấn Ðộ"},
+      {"k": "m", "t": "thuộc tiểu địa Ấn Độ"},
+      {"k": "m", "t": "thuộc Ấn Độ"},
       {"k": "m", "t": "thuộc ngành Ấn của hệ Ấn-Âu"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(ngôn ngữ) ngành Ấn của hệ Ấn-Âu."}
@@ -21008,12 +21008,12 @@
   },
   {
     "h": "indicatrix of Dupin",
-    "segs": [{"k": "m", "t": "chỉ đồ Dupin (Ðuypanh)."}],
+    "segs": [{"k": "m", "t": "chỉ đồ Dupin (Đuypanh)."}],
     "k": "indicatrix of dupin"
   },
   {
     "h": "indicatrix of. Dupin",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chỉ đồ Dupin (Ðuypanh)"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chỉ đồ Dupin (Đuypanh)"}],
     "k": "indicatrix of. dupin"
   },
   {"h": "indices", "segs": [{"k": "ref", "t": "index"}], "redirect": "index", "k": "indices"},
@@ -21150,7 +21150,7 @@
       {
         "k": "ex",
         "t": "To bring in an indictment against somebody",
-        "vi": "Ðưa ra bản cáo trạng kết tội ai"
+        "vi": "Đưa ra bản cáo trạng kết tội ai"
       },
       {"k": "m", "t": "("},
       {"k": "ex", "t": "indictment of somebody/something", "vi": ") lý do lên án ai/cái gì"},
@@ -21199,7 +21199,7 @@
   },
   {
     "h": "indies",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "snh. Ấn Ðộ và những vùng lân cận."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "snh. Ấn Độ và những vùng lân cận."}],
     "ipa": "'indiz",
     "k": "indies"
   },
@@ -21245,7 +21245,7 @@
       {"k": "m", "t": "(kinh tế) Họ đường bàng quan, bản đồ đường đẳng dụng."},
       {
         "k": "m",
-        "t": "Tập hợp các đường bàng quan, trong đó mỗi đường kế tiếp nằm ở phía ngoài đường trước đó theo hướng Ðông Bắc. Các đường bàng quan cao hơn chỉ mức thỏa dụng cao hơn."
+        "t": "Tập hợp các đường bàng quan, trong đó mỗi đường kế tiếp nằm ở phía ngoài đường trước đó theo hướng Đông Bắc. Các đường bàng quan cao hơn chỉ mức thỏa dụng cao hơn."
       }
     ],
     "k": "indifference map"
@@ -21850,7 +21850,7 @@
   },
   {
     "h": "indirect calorimetry",
-    "segs": [{"k": "m", "t": "Ðo nhiệt lượng gián tiếp."}],
+    "segs": [{"k": "m", "t": "Đo nhiệt lượng gián tiếp."}],
     "k": "indirect calorimetry"
   },
   {
@@ -22357,7 +22357,7 @@
   },
   {
     "h": "indirect platelet count",
-    "segs": [{"k": "m", "t": "Ðếm gián tiếp tiểu cầu."}],
+    "segs": [{"k": "m", "t": "Đếm gián tiếp tiểu cầu."}],
     "k": "indirect platelet count"
   },
   {
@@ -24013,17 +24013,17 @@
     "ipa": ",indi'vizəbli",
     "k": "indivisibly"
   },
-  {"h": "Indo", "segs": [{"k": "m", "t": "k.h. Ấn Ðộ."}], "k": "indo"},
+  {"h": "Indo", "segs": [{"k": "m", "t": "k.h. Ấn Độ."}], "k": "indo"},
   {
     "h": "Indo Chinese War",
     "segs": [
       {
         "k": "m",
-        "t": "(từ ngày 20 tháng 10 năm 1962 đến 22 tháng 11 năm 1962) Ðây là một cuộc giao tranh nhỏ giữa người Ấn và người Trung Quốc ở vùng núi Himalaya."
+        "t": "(từ ngày 20 tháng 10 năm 1962 đến 22 tháng 11 năm 1962) Đây là một cuộc giao tranh nhỏ giữa người Ấn và người Trung Quốc ở vùng núi Himalaya."
       },
       {
         "k": "m",
-        "t": "Trung Quốc cho rằng những quyết định năm 1914 ấn định đường phân ranh Mc Mahon giữa Trung Quốc và Ấn Ðộ là sai. Quân đội Trung Quốc mở cuộc tấn công vào Ấn Ðộ xuyên qua đường biên giới Mc Mahon. Quân đội Ấn Ðộ rút lui và sau đó Trung Quốc nhượng bộ ngưng chiến cũng lui về vùng Tibet của đường biên giới, tuy nhiên Trung Quốc vẫn giữ lại vùng Ladakh ở Kashmir, vì vậy lãnh thổ biên giới vẫn còn phải tranh cãi."
+        "t": "Trung Quốc cho rằng những quyết định năm 1914 ấn định đường phân ranh Mc Mahon giữa Trung Quốc và Ấn Độ là sai. Quân đội Trung Quốc mở cuộc tấn công vào Ấn Độ xuyên qua đường biên giới Mc Mahon. Quân đội Ấn Độ rút lui và sau đó Trung Quốc nhượng bộ ngưng chiến cũng lui về vùng Tibet của đường biên giới, tuy nhiên Trung Quốc vẫn giữ lại vùng Ladakh ở Kashmir, vì vậy lãnh thổ biên giới vẫn còn phải tranh cãi."
       }
     ],
     "k": "indo chinese war"
@@ -24043,7 +24043,7 @@
   },
   {
     "h": "indo-chinese",
-    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thuộc) Ðông Dương."}],
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thuộc) Đông Dương."}],
     "ipa": "'indoutʃai'ni:z",
     "k": "indo-chinese"
   },
@@ -24075,11 +24075,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "những triều đại của Ấn Ðộ-Hy Lạp. Ðó là những người cai trị phần đất phía Ðông Bắc Ấn Ðộ từ thế kỷ 3 đến thế kỷ 1 trước công nguyên. Năm 326 trước công nguyên, quân đội của đại đế Alexander đã xâm lược Ấn Ðộ và khai phá vùng Indus. Mới đầu việc khai phá còn sơ sài, nhưng đến thế kỷ sau, những người Hy Lạp lại băng qua vùng Indus để thành lập quyền lực ở Punjab."
+        "t": "những triều đại của Ấn Độ-Hy Lạp. Đó là những người cai trị phần đất phía Đông Bắc Ấn Độ từ thế kỷ 3 đến thế kỷ 1 trước công nguyên. Năm 326 trước công nguyên, quân đội của đại đế Alexander đã xâm lược Ấn Độ và khai phá vùng Indus. Mới đầu việc khai phá còn sơ sài, nhưng đến thế kỷ sau, những người Hy Lạp lại băng qua vùng Indus để thành lập quyền lực ở Punjab."
       },
       {
         "k": "m",
-        "t": "Cho đến 200 năm sau, những người Hy Lạp cai trị Ấn Ðộ, đã có những tiến bộ quan trọng về nghệ thuật và kiến trúc, chiêm tinh, y khoa. Chứng minh về những hoạt động của người Hy Lạp ở Ấn Ðộ đó là nghệ thuật điêu khắc trong việc đúc tiền."
+        "t": "Cho đến 200 năm sau, những người Hy Lạp cai trị Ấn Độ, đã có những tiến bộ quan trọng về nghệ thuật và kiến trúc, chiêm tinh, y khoa. Chứng minh về những hoạt động của người Hy Lạp ở Ấn Độ đó là nghệ thuật điêu khắc trong việc đúc tiền."
       }
     ],
     "k": "indo-greek dynasties"
@@ -24098,7 +24098,7 @@
   },
   {
     "h": "indo-pacific",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ấn Ðộ-Thái Bình Dương."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ấn Độ-Thái Bình Dương."}],
     "ipa": ",indoupə'sifik",
     "k": "indo-pacific"
   },
@@ -24116,7 +24116,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tháng 9 năm 1965) Ðây là cuộc xung đột biên giới giữa Ấn Ðộ và Pakistan, theo sự toan tính của Pakistan giúp đỡ những người Hồi giáo chống lại sự cai trị của Ấn Ðộ ở vùng Kashmir. Cuộc chiến lan tới Punjab, nhưng cuộc đình chiến do Liên Hiệp Quốc bảo trợ được chấp nhận vào ngày 11 tháng 1 năm 1966. Hai bên Ấn Ðộ và Pakistan đều phải rút quân. Nhưng cuộc chiến mới về biên giới lại xảy ra năm 1971. Trong lúc Bangladesh muốn Pakistan phải trao quyền độc lập cho Bangladesh."
+        "t": "(tháng 9 năm 1965) Đây là cuộc xung đột biên giới giữa Ấn Độ và Pakistan, theo sự toan tính của Pakistan giúp đỡ những người Hồi giáo chống lại sự cai trị của Ấn Độ ở vùng Kashmir. Cuộc chiến lan tới Punjab, nhưng cuộc đình chiến do Liên Hiệp Quốc bảo trợ được chấp nhận vào ngày 11 tháng 1 năm 1966. Hai bên Ấn Độ và Pakistan đều phải rút quân. Nhưng cuộc chiến mới về biên giới lại xảy ra năm 1971. Trong lúc Bangladesh muốn Pakistan phải trao quyền độc lập cho Bangladesh."
       }
     ],
     "k": "indo-pakistan war"
@@ -24134,7 +24134,7 @@
   },
   {
     "h": "Indochinese",
-    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thuộc) Ðông Dương."}],
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thuộc) Đông Dương."}],
     "ipa": "'indoutʃai'ni:z",
     "k": "indochinese"
   },
@@ -24239,13 +24239,13 @@
   {"h": "indologenous", "segs": [{"k": "m", "t": "Tạo indol."}], "k": "indologenous"},
   {
     "h": "indologist",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nhà nghiên cứu về Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nhà nghiên cứu về Ấn Độ."}],
     "ipa": "in'dɔlədʒist",
     "k": "indologist"
   },
   {
     "h": "indology",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "khoa nghiên cứu về Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "khoa nghiên cứu về Ấn Độ."}],
     "ipa": "in'dɔlədʒi",
     "k": "indology"
   },
@@ -24292,11 +24292,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nước bao gồm hàng trăm quần đảo, nhiệt đới ở Ðông Nam Châu Á, trong một vùng mà Ấn Ðộ Dương và Thái Bình Dương gặp nhau."
+        "t": "một nước bao gồm hàng trăm quần đảo, nhiệt đới ở Đông Nam Châu Á, trong một vùng mà Ấn Độ Dương và Thái Bình Dương gặp nhau."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: chiều dài của Indonesia từ Ðông đến tây lớn hơn chiều rộng của Úc hoặc của Mỹ. Những quần đảo lớn là Tân Guinea, Borneo, Sumatra, Java và Sulawesi (trước kia gọi là quần đảo Celebes). Những quần đảo nhỏ hơn là Bali, Timor, Flores và Moluccas. Vùng rộng nhất nằm ở bờ của lục địa Âu-Á bao gồm hơn 70 núi lửa (một số đang hoạt động là núi lửa Krakatoa gây nên những vụ động đất mạnh)."
+        "t": "Địa hình: chiều dài của Indonesia từ Đông đến tây lớn hơn chiều rộng của Úc hoặc của Mỹ. Những quần đảo lớn là Tân Guinea, Borneo, Sumatra, Java và Sulawesi (trước kia gọi là quần đảo Celebes). Những quần đảo nhỏ hơn là Bali, Timor, Flores và Moluccas. Vùng rộng nhất nằm ở bờ của lục địa Âu-Á bao gồm hơn 70 núi lửa (một số đang hoạt động là núi lửa Krakatoa gây nên những vụ động đất mạnh)."
       },
       {
         "k": "m",
@@ -24304,11 +24304,11 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: đế chế Hindu Srivijava, nền tảng là vùng Palembang, phát triển từ thế kỷ thứ 7 đến thế kỷ 13. vào cuối thế kỷ 12, vương quốc Majapahit, căn cứ là Java bắt đầu thống trị vùng Indonesia. Vào thế kỷ 16, Indonesia bị chiếm cứ bởi Bồ Ðào Nha, Anh và Hà Lan. Tổ chức Ðông Ấn của Hà Lan (là một tổ chức cai trị thuộc địa của chính phủ Hà Lan, lấy tên tổ chức Ðông Ấn) chiếm được quyền kiểm soát đa số các quần đảo (vào thế kỷ 17), bộ tư lệnh Ðông Ấn (Hà Lan), đặt ở Jakata (về sau di chuyển đến Batavia)."
+        "t": "Lịch sử: đế chế Hindu Srivijava, nền tảng là vùng Palembang, phát triển từ thế kỷ thứ 7 đến thế kỷ 13. vào cuối thế kỷ 12, vương quốc Majapahit, căn cứ là Java bắt đầu thống trị vùng Indonesia. Vào thế kỷ 16, Indonesia bị chiếm cứ bởi Bồ Đào Nha, Anh và Hà Lan. Tổ chức Đông Ấn của Hà Lan (là một tổ chức cai trị thuộc địa của chính phủ Hà Lan, lấy tên tổ chức Đông Ấn) chiếm được quyền kiểm soát đa số các quần đảo (vào thế kỷ 17), bộ tư lệnh Đông Ấn (Hà Lan), đặt ở Jakata (về sau di chuyển đến Batavia)."
       },
       {
         "k": "m",
-        "t": "Quần đảo Indonesia lập thành lãnh thổ của Hà Lan-Ấn Ðộ năm 1914. Ðến thập niên 1920, những phong trào bản xứ đòi độc lập hoàn toàn."
+        "t": "Quần đảo Indonesia lập thành lãnh thổ của Hà Lan-Ấn Độ năm 1914. Đến thập niên 1920, những phong trào bản xứ đòi độc lập hoàn toàn."
       },
       {
         "k": "m",
@@ -24320,7 +24320,7 @@
       },
       {
         "k": "m",
-        "t": "Ðến năm 1957, tổng thống Sukarno thi hành chính sách \"dân chủ có hướng dẫn\" (có nghĩa là dân chủ nửa vời), bao gồm nhiều quyền cai trị đều do quân đội và những quan liêu nắm giữ."
+        "t": "Đến năm 1957, tổng thống Sukarno thi hành chính sách \"dân chủ có hướng dẫn\" (có nghĩa là dân chủ nửa vời), bao gồm nhiều quyền cai trị đều do quân đội và những quan liêu nắm giữ."
       },
       {
         "k": "m",
@@ -24332,15 +24332,15 @@
       },
       {
         "k": "m",
-        "t": "Mặc dù tướng Suharto có công dựng lại nền kinh tế và khôi phục được lòng tin của người phương Tây tư bản ủng hộ, nhưng chế độ Suharto lại rất độc tài, đàn áp thẳng tay đối với các phần tử chống đối trong nước. Chính phủ của ông vi phạm nhân quyền năm 1976, sau đó lại sáp nhập thuộc địa cũ \"Ðông Timor\" của Bồ Ðào Nha vào nước Indonesia, gây ra cuộc chiến làm hàng ngàn dân thường thiệt mạng."
+        "t": "Mặc dù tướng Suharto có công dựng lại nền kinh tế và khôi phục được lòng tin của người phương Tây tư bản ủng hộ, nhưng chế độ Suharto lại rất độc tài, đàn áp thẳng tay đối với các phần tử chống đối trong nước. Chính phủ của ông vi phạm nhân quyền năm 1976, sau đó lại sáp nhập thuộc địa cũ \"Đông Timor\" của Bồ Đào Nha vào nước Indonesia, gây ra cuộc chiến làm hàng ngàn dân thường thiệt mạng."
       },
       {
         "k": "m",
-        "t": "Vào đầu thập niên 1980, Liên Hiệp Quốc phải mở cuộc thảo luận về phong trào độc lập xung đột với chính phủ \"Ðông timor\". Năm 1992, Indonesia và Bồ Ðào Nha đồng ý đàm phán về \"Ðông Timor\" dưới sự bảo trợ của Liên Hiệp Quốc."
+        "t": "Vào đầu thập niên 1980, Liên Hiệp Quốc phải mở cuộc thảo luận về phong trào độc lập xung đột với chính phủ \"Đông timor\". Năm 1992, Indonesia và Bồ Đào Nha đồng ý đàm phán về \"Đông Timor\" dưới sự bảo trợ của Liên Hiệp Quốc."
       },
       {
         "k": "m",
-        "t": "Năm 1993, Suharto tái đắc cử tổng thống nhiệm kỳ thứ 6 và ông Try Sustino đắc cử phó tổng thống, hứa hẹn một nền dân chủ cởi mở hơn, nhưng đến năm 1994, chính phủ thẳng tay đàn áp báo chí. Năm 1995, Liên Hiệp Quốc bảo trợ cuộc đàm phán giữa Bồ Ðào Nha và Indonesia về vấn đề \"Ðông Timor\". Năm 1996, chính phủ Indonesia bắt giữ những người mở chiến dịch đấu tranh cho dân chủ, dẫn đến những cuộc biểu tình và dân chúng bất ổn."
+        "t": "Năm 1993, Suharto tái đắc cử tổng thống nhiệm kỳ thứ 6 và ông Try Sustino đắc cử phó tổng thống, hứa hẹn một nền dân chủ cởi mở hơn, nhưng đến năm 1994, chính phủ thẳng tay đàn áp báo chí. Năm 1995, Liên Hiệp Quốc bảo trợ cuộc đàm phán giữa Bồ Đào Nha và Indonesia về vấn đề \"Đông Timor\". Năm 1996, chính phủ Indonesia bắt giữ những người mở chiến dịch đấu tranh cho dân chủ, dẫn đến những cuộc biểu tình và dân chúng bất ổn."
       },
       {
         "k": "m",
@@ -24349,10 +24349,10 @@
       {"k": "m", "t": "Thủ đô: Jakarta."},
       {"k": "m", "t": "Diện tích: 1.919.443 km2"},
       {"k": "m", "t": "Dân số: 198, 189 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Ru-pi."},
+      {"k": "m", "t": "Tiền tệ: Đồng Ru-pi."},
       {
         "k": "m",
-        "t": "Tôn giáo: Hồi giáo 86,9%, đạo Cơ Ðốc giáo 9,6%, Thiên Chúa giáo La Mã 3,1%, Hindu 1,9%, đạo Phật 1,0%."
+        "t": "Tôn giáo: Hồi giáo 86,9%, đạo Cơ Đốc giáo 9,6%, Thiên Chúa giáo La Mã 3,1%, Hindu 1,9%, đạo Phật 1,0%."
       },
       {
         "k": "m",
@@ -24365,7 +24365,7 @@
       }
     ],
     "k": "indonesia",
-    "q": {"vi": "nước In-Ðô-Nê-Si-A", "ipa": "indou'ni:jiə", "rs": "ìn đồ nía zìa"}
+    "q": {"vi": "nước In-Đô-Nê-Si-A", "ipa": "indou'ni:jiə", "rs": "ìn đồ nía zìa"}
   },
   {
     "h": "indonesian",
@@ -24378,14 +24378,14 @@
     ],
     "ipa": ",indou'ni:zjən",
     "k": "indonesian",
-    "q": {"vi": "người, tiếng In-Ðô-Nê-Si-A", "ipa": "indou'ni:jiə", "rs": "ìn đồ nía zìa"}
+    "q": {"vi": "người, tiếng In-Đô-Nê-Si-A", "ipa": "indou'ni:jiə", "rs": "ìn đồ nía zìa"}
   },
   {
     "h": "Indonesian Revolution",
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là một cuộc đấu tranh của những người theo chủ nghĩa quốc gia để giành độc lập cho người dân Indonesia, thoát khỏi sự cai trị của Hà Lan."
+        "t": "Đây là một cuộc đấu tranh của những người theo chủ nghĩa quốc gia để giành độc lập cho người dân Indonesia, thoát khỏi sự cai trị của Hà Lan."
       },
       {
         "k": "m",
@@ -24401,7 +24401,7 @@
       },
       {
         "k": "m",
-        "t": "Ðến năm 1948, áp lực quốc tế buộc Hà Lan phải triệu tập hội nghị đàm phán ở thủ đô Thehague năm 1949. Kết quả, Hà Lan phải chuyển giao quyền cai trị cho chính phủ Indonesia."
+        "t": "Đến năm 1948, áp lực quốc tế buộc Hà Lan phải triệu tập hội nghị đàm phán ở thủ đô Thehague năm 1949. Kết quả, Hà Lan phải chuyển giao quyền cai trị cho chính phủ Indonesia."
       }
     ],
     "k": "indonesian revolution"
@@ -24926,7 +24926,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sức điện động cảm ứng"}],
     "k": "induced e.m.f"
   },
-  {"h": "induced electricity", "segs": [{"k": "m", "t": "Ðiện ứng."}], "k": "induced electricity"},
+  {"h": "induced electricity", "segs": [{"k": "m", "t": "Điện ứng."}], "k": "induced electricity"},
   {
     "h": "induced electromotive force",
     "segs": [
@@ -25016,7 +25016,7 @@
   {"h": "induced jitter", "segs": [{"k": "m", "t": "sự rung do cảm ứng."}], "k": "induced jitter"},
   {
     "h": "induced labor",
-    "segs": [{"k": "m", "t": "Ðẻ nhân tạo, đẻ phải can thiệp."}],
+    "segs": [{"k": "m", "t": "Đẻ nhân tạo, đẻ phải can thiệp."}],
     "k": "induced labor"
   },
   {
@@ -25049,7 +25049,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mômen cảm ứng"}],
     "k": "induced moment"
   },
-  {"h": "induced mutation", "segs": [{"k": "m", "t": "Ðột biến gây tạo."}], "k": "induced mutation"},
+  {"h": "induced mutation", "segs": [{"k": "m", "t": "Đột biến gây tạo."}], "k": "induced mutation"},
   {
     "h": "induced nuclear reaction",
     "segs": [
@@ -25133,7 +25133,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tô pô cảm sinh. Giả sử (X, () là không gian tô pô, M là tập con của X. Ðặt (M = {V = M(U: U((}. Khi đó (M là một tôpô trên M. Cặp (M, (M) gọi là không gian con của (X, (), (M gọi là tôpô cảm sinh bởi (. (M, (M) gọi là được nhúng trong (X, (). Cụ thể hơn, đối với không gian hình học, những tính chất của một không gian xét trong toàn thể tạo nên những tính chất nào đó trong một không gian con thì việc tạo ra đó gọi là cảm sinh. Ví dụ: mêtric trong toàn thể không gian Ơclit cảm sinh ra trên một mặt cầu của không gian đó một mêtric khác với mêtric cảm sinh ra trên một mặt phẳng khiến cho một tam giác cầu có tổng các góc lớn hơn 1800: mêtric cảm sinh trên mặt phẳng là mêtric của một không gian Ơclit 2 chiều còn mêtric cảm sinh trên mặt cầu là mêtric của không gian cầu 2 chiều. Các không gian Ơclit và cầu hai chiều này gọi là những chìm trong không gian Ơclit 3 chiều."
+        "t": "tô pô cảm sinh. Giả sử (X, () là không gian tô pô, M là tập con của X. Đặt (M = {V = M(U: U((}. Khi đó (M là một tôpô trên M. Cặp (M, (M) gọi là không gian con của (X, (), (M gọi là tôpô cảm sinh bởi (. (M, (M) gọi là được nhúng trong (X, (). Cụ thể hơn, đối với không gian hình học, những tính chất của một không gian xét trong toàn thể tạo nên những tính chất nào đó trong một không gian con thì việc tạo ra đó gọi là cảm sinh. Ví dụ: mêtric trong toàn thể không gian Ơclit cảm sinh ra trên một mặt cầu của không gian đó một mêtric khác với mêtric cảm sinh ra trên một mặt phẳng khiến cho một tam giác cầu có tổng các góc lớn hơn 1800: mêtric cảm sinh trên mặt phẳng là mêtric của một không gian Ơclit 2 chiều còn mêtric cảm sinh trên mặt cầu là mêtric của không gian cầu 2 chiều. Các không gian Ơclit và cầu hai chiều này gọi là những chìm trong không gian Ơclit 3 chiều."
       }
     ],
     "k": "induced topology"
@@ -25371,7 +25371,7 @@
     "h": "Inductance/Capacitance/Resistance (ICR)",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "điện cảm/Ðiện dung/Ðiện trở"}
+      {"k": "m", "t": "điện cảm/Điện dung/Điện trở"}
     ],
     "k": "inductance/capacitance/resistance (icr)"
   },
@@ -26215,11 +26215,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "sự xóa tội. Ðạo Cơ Ðốc giáo xóa tội cho tín đồ, khi người này đã bị trừng phạt thế tục (sau khi đã bị chính quyền bỏ tù vv...), ý kiến này có từ lúc khởi đầu đạo Cơ Ðốc giáo, rồi được áp dụng thành một giáo điều vào thế kỷ 11. Ðặc biệt là xá tội cho những ai tham gia vào cuộc thập tự chinh (đấu tranh tử vì đạo), bao gồm việc cầu nguyện, hoàn thành tốt công việc, giúp đỡ người nghèo khó, tặng tiền bạc cho nhà thờ."
+        "t": "sự xóa tội. Đạo Cơ Đốc giáo xóa tội cho tín đồ, khi người này đã bị trừng phạt thế tục (sau khi đã bị chính quyền bỏ tù vv...), ý kiến này có từ lúc khởi đầu đạo Cơ Đốc giáo, rồi được áp dụng thành một giáo điều vào thế kỷ 11. Đặc biệt là xá tội cho những ai tham gia vào cuộc thập tự chinh (đấu tranh tử vì đạo), bao gồm việc cầu nguyện, hoàn thành tốt công việc, giúp đỡ người nghèo khó, tặng tiền bạc cho nhà thờ."
       },
       {
         "k": "m",
-        "t": "Chính sự tặng tiền bạc đã gây cho người sự lạm dụng để xá tội và đây là mục tiêu của ông Martin Luther chỉ trích trong giai đoạn cải cách đạo Cơ Ðốc."
+        "t": "Chính sự tặng tiền bạc đã gây cho người sự lạm dụng để xá tội và đây là mục tiêu của ông Martin Luther chỉ trích trong giai đoạn cải cách đạo Cơ Đốc."
       }
     ],
     "k": "indulgence"
@@ -26403,7 +26403,7 @@
       },
       {
         "k": "m",
-        "t": "Ðời sống của đô thị Indus hình như chấm dứt đột ngột vào năm 1500 trước công nguyên."
+        "t": "Đời sống của đô thị Indus hình như chấm dứt đột ngột vào năm 1500 trước công nguyên."
       },
       {
         "k": "m",
@@ -26415,7 +26415,7 @@
       },
       {
         "k": "m",
-        "t": "Việc thờ cúng chưa được biết rõ, mặc dù chúng ta có thấy những hình tượng bằng đá và đồ sành sứ. Nền văn minh Indus cung cấp những chứng cứ quan trọng cho một thời kỳ quá khứ của Ấn Ðộ, đó là những cộng đồng đô thị phát triển đầu tiên trên thế giới."
+        "t": "Việc thờ cúng chưa được biết rõ, mặc dù chúng ta có thấy những hình tượng bằng đá và đồ sành sứ. Nền văn minh Indus cung cấp những chứng cứ quan trọng cho một thời kỳ quá khứ của Ấn Độ, đó là những cộng đồng đô thị phát triển đầu tiên trên thế giới."
       }
     ],
     "k": "indus civilization"
@@ -27942,7 +27942,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cuộc cách mạng kỹ nghệ. Ðó là sự chuyển đổi từ nền kinh tế nông thôn sang nền kinh tế đô thị, đầu tiên là ở nước Anh, rồi dần sang đến các nước khác. Những kỹ thuật canh tác tiến bộ đã làm cho nông dân có thể cung cấp đủ thực phẩm cho những người không canh tác."
+        "t": "cuộc cách mạng kỹ nghệ. Đó là sự chuyển đổi từ nền kinh tế nông thôn sang nền kinh tế đô thị, đầu tiên là ở nước Anh, rồi dần sang đến các nước khác. Những kỹ thuật canh tác tiến bộ đã làm cho nông dân có thể cung cấp đủ thực phẩm cho những người không canh tác."
       },
       {"k": "m", "t": "Số lao động dư thừa này di chuyển đến các đô thị ở nước Anh vào năm 1750."},
       {
@@ -27959,7 +27959,7 @@
       },
       {
         "k": "m",
-        "t": "Các nước Châu Âu khác cũng thay đổi tương tự như nước Anh, đó là Mỹ và Nhật ở vào thế kỷ 19. đến thế kỷ 20, các nước Ðông Âu, Trung Quốc Ấn Ðộ và Ðông Nam Á cũng trải qua sự kỹ nghệ hóa tương tự."
+        "t": "Các nước Châu Âu khác cũng thay đổi tương tự như nước Anh, đó là Mỹ và Nhật ở vào thế kỷ 19. đến thế kỷ 20, các nước Đông Âu, Trung Quốc Ấn Độ và Đông Nam Á cũng trải qua sự kỹ nghệ hóa tương tự."
       }
     ],
     "k": "industrial revolution"
@@ -28408,7 +28408,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quá trình chuyển đổi từ nền kinh tế nông nghiệp cơ bản đến một nền kinh tế kỹ nghệ hóa. Ðầu tiên, cuộc cách mạng kỹ nghệ được thử nghiệm ở nước Anh và các bang ở New England ở Hoa Kỳ, rồi trải dài tới bờ biển phía Ðông và sau cuộc nội chiến trải rộng tới các lục địa. Nước Bỉ, là lục địa đầu tiên thử nghiệm việc kỹ nghệ hóa, rồi lan rộng tới miền Ðông Bắc nước Pháp và đặc biệt sau năm 1870, lan sang rộng đến nước Ðức, cho đến năm 1900 thì việc kỹ nghệ hóa của Ðức đã vượt trội hơn nước Anh. Trong vòng 30 năm đó, tất cả các nước kỹ nghệ hóa đã trải qua sự phát triển nhanh chóng về kỹ nghệ nặng như sắt, thép, hóa chất, máy móc và đóng tàu. Nước Nhật (là nước ngoài Châu Âu) là nước đầu tiên trở thành nước kỹ nghệ hóa vào cuối thế kỷ 19. nước Liên Xô cũ đã kỹ hóa dưới thời Stalin."
+        "t": "quá trình chuyển đổi từ nền kinh tế nông nghiệp cơ bản đến một nền kinh tế kỹ nghệ hóa. Đầu tiên, cuộc cách mạng kỹ nghệ được thử nghiệm ở nước Anh và các bang ở New England ở Hoa Kỳ, rồi trải dài tới bờ biển phía Đông và sau cuộc nội chiến trải rộng tới các lục địa. Nước Bỉ, là lục địa đầu tiên thử nghiệm việc kỹ nghệ hóa, rồi lan rộng tới miền Đông Bắc nước Pháp và đặc biệt sau năm 1870, lan sang rộng đến nước Đức, cho đến năm 1900 thì việc kỹ nghệ hóa của Đức đã vượt trội hơn nước Anh. Trong vòng 30 năm đó, tất cả các nước kỹ nghệ hóa đã trải qua sự phát triển nhanh chóng về kỹ nghệ nặng như sắt, thép, hóa chất, máy móc và đóng tàu. Nước Nhật (là nước ngoài Châu Âu) là nước đầu tiên trở thành nước kỹ nghệ hóa vào cuối thế kỷ 19. nước Liên Xô cũ đã kỹ hóa dưới thời Stalin."
       },
       {
         "k": "m",
@@ -28416,7 +28416,7 @@
       },
       {
         "k": "m",
-        "t": "Cuối thế kỷ 20, hiện tượng giảm kỹ nghệ hóa đã là bằng chứng ở nhiều nước phát triển. Ðiều này có nghĩa là tỷ lệ việc làm đã bị giảm bớt."
+        "t": "Cuối thế kỷ 20, hiện tượng giảm kỹ nghệ hóa đã là bằng chứng ở nhiều nước phát triển. Điều này có nghĩa là tỷ lệ việc làm đã bị giảm bớt."
       }
     ],
     "k": "industrialization"
@@ -28431,7 +28431,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "công nghiệp hóa dựa vào xuất khẩu?. Công nghiệp hóa với những ngành giá thành cao thường dẫn đến trì trệ, vậy đâu là giải pháp thay thế? Nhiều nước đã thành công với công nghiệp hóa định hướng xuất khẩu. Trong chiến lược này, cả doanh nghiệp nước ngoài lẫn trong nước tìm trên thị trường thế giới những khu vực đặc thù mà họ có thể cạnh tranh và phát triển. Nhờ xuất khẩu mà họ học được cách đáp ứng với những thay đổi về nhu cầu, công nghệ và chất lượng. Liên tục có những áp lực phải cải thiện và sáng tạo. Vì thị trường toàn cầu rất lớn, doanh nghiệp xuất khẩu có thể đạt được lợi thế theo qui mô, dù họ chỉ ở trong một thị trường nội địa nhỏ. Hãy xét Việt Nam, với GDP hiện nay bằng 1/3 của Singapore, chỉ có thị trường nội địa nhỏ bé cho nhiều sản phẩm công nghiệp. Chẳng hạn, ngành công nghiệp ô tô chỉ bán được 25.000 chiếc mỗi năm, trong khi để đạt được qui mô có lợi thì con số này phải là hàng trăm ngàn chiếc. Các nhà xuất khẩu muốn có các nguồn cung ứng trong nước, do đó các cụm doanh nghiệp nhỏ thường mọc lên để cung cấp đầu vào. Các dịch vụ marketing, sửa chữa và thiết kế cũng phát triển theo. Kết quả là một khu vực công nghiệp năng động, vừa sâu vừa rộng, có thể ứng phó tốt trước những thay đổi ngoài dự kiến. Ðây là điều đã giúp Hàn Quốc và Ðài Loan ứng phó với các cú sốc dầu lửa thế giới hay các cuộc khủng hoảng tài chính gần đây tốt hơn những nước hướng nội ở châu Á hay Mỹ La tinh. Hồng Kông và Singapore cũng theo hướng này và đã rất thành công. Ðiều quan trọng cần thấy là công nghiệp hóa hướng xuất khẩu cũng gồm cả nhiều ngành sản xuất cho thị trường nội địa. Nhưng đó là sản xuất cạnh tranh với nhập khẩu mà không cần nhiều bảo hộ. Ðòi hỏi này là của cả AFTA, BTA và WTO. Nếu Việt Nam thực hiện cam kết trong các hiệp ước, thì phải tìm cách hạ giá thành của nhiều sản phẩm hiện có, đồng thời tránh đầu tư quá mức vào các ngành đòi hỏi bảo hộ cao."
+        "t": "công nghiệp hóa dựa vào xuất khẩu?. Công nghiệp hóa với những ngành giá thành cao thường dẫn đến trì trệ, vậy đâu là giải pháp thay thế? Nhiều nước đã thành công với công nghiệp hóa định hướng xuất khẩu. Trong chiến lược này, cả doanh nghiệp nước ngoài lẫn trong nước tìm trên thị trường thế giới những khu vực đặc thù mà họ có thể cạnh tranh và phát triển. Nhờ xuất khẩu mà họ học được cách đáp ứng với những thay đổi về nhu cầu, công nghệ và chất lượng. Liên tục có những áp lực phải cải thiện và sáng tạo. Vì thị trường toàn cầu rất lớn, doanh nghiệp xuất khẩu có thể đạt được lợi thế theo qui mô, dù họ chỉ ở trong một thị trường nội địa nhỏ. Hãy xét Việt Nam, với GDP hiện nay bằng 1/3 của Singapore, chỉ có thị trường nội địa nhỏ bé cho nhiều sản phẩm công nghiệp. Chẳng hạn, ngành công nghiệp ô tô chỉ bán được 25.000 chiếc mỗi năm, trong khi để đạt được qui mô có lợi thì con số này phải là hàng trăm ngàn chiếc. Các nhà xuất khẩu muốn có các nguồn cung ứng trong nước, do đó các cụm doanh nghiệp nhỏ thường mọc lên để cung cấp đầu vào. Các dịch vụ marketing, sửa chữa và thiết kế cũng phát triển theo. Kết quả là một khu vực công nghiệp năng động, vừa sâu vừa rộng, có thể ứng phó tốt trước những thay đổi ngoài dự kiến. Đây là điều đã giúp Hàn Quốc và Đài Loan ứng phó với các cú sốc dầu lửa thế giới hay các cuộc khủng hoảng tài chính gần đây tốt hơn những nước hướng nội ở châu Á hay Mỹ La tinh. Hồng Kông và Singapore cũng theo hướng này và đã rất thành công. Điều quan trọng cần thấy là công nghiệp hóa hướng xuất khẩu cũng gồm cả nhiều ngành sản xuất cho thị trường nội địa. Nhưng đó là sản xuất cạnh tranh với nhập khẩu mà không cần nhiều bảo hộ. Đòi hỏi này là của cả AFTA, BTA và WTO. Nếu Việt Nam thực hiện cam kết trong các hiệp ước, thì phải tìm cách hạ giá thành của nhiều sản phẩm hiện có, đồng thời tránh đầu tư quá mức vào các ngành đòi hỏi bảo hộ cao."
       }
     ],
     "k": "industrialization through exports?"
@@ -28441,7 +28441,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "có nên công nghiệp hóa dựa vào bảo hộ. Các quốc gia khi giàu lên đều tăng tỉ trọng công nghiệp và giảm tỉ trọng nông nghiệp. Vấn đề là tìm con đường tốt nhất để xây dựng một khu vực công nghiệp có thể tự mình tăng trưởng bền vững? Có hai chiến lược. Thứ nhất là bảo hộ bằng thuế quan, hạn ngạch và cấm nhập khẩu. Ý tưởng ở đây là nâng giá sản phẩm để các doanh nghiệp nội địa có thể học cách trở nên hiệu quả. Về nguyên tắc, bảo hộ sẽ phải giảm dần để người tiêu dùng các sản phẩm này không mãi mãi phải chịu giá cao. Thực ra, khi một ngành đã quen được bảo hộ thì sẽ rất khó chuyển sang cuộc sống không có nó. Một công ty được bảo hộ đạt lợi nhuận cao bằng cách thuyết phục các quan chức chính phủ hay chính trị gia rằng công ty phải được bảo hộ hơn nữa, trong khi chẳng dành nhiều nỗ lực để giảm giá thành hay cải thiện sản phẩm. Ðôi khi một chính phủ mạnh tay và buộc doanh nghiệp phải trở nên cạnh tranh, nhưng điều này rất hiếm. Thông thường, một khi công nghiệp hóa bắt đầu với giá thành cao thì sẽ tiếp tục như vậy. Có phải là quá tệ? Ðúng, vì công nghiệp hóa dựa vào giá thành cao tự mình sẽ chậm lại. Các doanh nghiệp không thể xuất khẩu nên không thể nào đạt được lợi thế kinh tế theo qui mô như, điều mà các nhà xuất khẩu có thể đạt được. Những doanh nghiệp có đầu vào là hàng giá cao cũng khó xuất khẩu sản phẩm. Khi xuất khẩu suy giảm thì không thể nhập khẩu thiết bị hiện đại mà không phải vay mượn. Các khoản nợ này lại đến với những ngành có giá thành cao hơn nhưng ít tạo ra việc làm hoặc xuất khẩu. Thiếu khả năng xuất khẩu trong khi cầu nội địa không tăng, nền kinh tế giá thành cao bị trì trệ. Ðiều này đã xảy ra ở Ấn Ðộ, Braxin và các nước khác có thị trường nội địa còn lớn hơn Việt Nam. Có một con đường khả thi khác để công nghiệp hóa."
+        "t": "có nên công nghiệp hóa dựa vào bảo hộ. Các quốc gia khi giàu lên đều tăng tỉ trọng công nghiệp và giảm tỉ trọng nông nghiệp. Vấn đề là tìm con đường tốt nhất để xây dựng một khu vực công nghiệp có thể tự mình tăng trưởng bền vững? Có hai chiến lược. Thứ nhất là bảo hộ bằng thuế quan, hạn ngạch và cấm nhập khẩu. Ý tưởng ở đây là nâng giá sản phẩm để các doanh nghiệp nội địa có thể học cách trở nên hiệu quả. Về nguyên tắc, bảo hộ sẽ phải giảm dần để người tiêu dùng các sản phẩm này không mãi mãi phải chịu giá cao. Thực ra, khi một ngành đã quen được bảo hộ thì sẽ rất khó chuyển sang cuộc sống không có nó. Một công ty được bảo hộ đạt lợi nhuận cao bằng cách thuyết phục các quan chức chính phủ hay chính trị gia rằng công ty phải được bảo hộ hơn nữa, trong khi chẳng dành nhiều nỗ lực để giảm giá thành hay cải thiện sản phẩm. Đôi khi một chính phủ mạnh tay và buộc doanh nghiệp phải trở nên cạnh tranh, nhưng điều này rất hiếm. Thông thường, một khi công nghiệp hóa bắt đầu với giá thành cao thì sẽ tiếp tục như vậy. Có phải là quá tệ? Đúng, vì công nghiệp hóa dựa vào giá thành cao tự mình sẽ chậm lại. Các doanh nghiệp không thể xuất khẩu nên không thể nào đạt được lợi thế kinh tế theo qui mô như, điều mà các nhà xuất khẩu có thể đạt được. Những doanh nghiệp có đầu vào là hàng giá cao cũng khó xuất khẩu sản phẩm. Khi xuất khẩu suy giảm thì không thể nhập khẩu thiết bị hiện đại mà không phải vay mượn. Các khoản nợ này lại đến với những ngành có giá thành cao hơn nhưng ít tạo ra việc làm hoặc xuất khẩu. Thiếu khả năng xuất khẩu trong khi cầu nội địa không tăng, nền kinh tế giá thành cao bị trì trệ. Điều này đã xảy ra ở Ấn Độ, Braxin và các nước khác có thị trường nội địa còn lớn hơn Việt Nam. Có một con đường khả thi khác để công nghiệp hóa."
       }
     ],
     "k": "industrialization through protection?"
@@ -29847,7 +29847,7 @@
     "k": "inertia tensor"
   },
   {"h": "inertia time", "segs": [{"k": "m", "t": "Thời gian trơ ì."}], "k": "inertia time"},
-  {"h": "inertia uteri", "segs": [{"k": "m", "t": "Ðờ tử cung."}], "k": "inertia uteri"},
+  {"h": "inertia uteri", "segs": [{"k": "m", "t": "Đờ tử cung."}], "k": "inertia uteri"},
   {
     "h": "inertia welding",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hàn quán tính"}],
@@ -30992,7 +30992,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Người thuộc phái bất khả ngộ (trong công đồng Vaticanô I: chủ trương cần phải định tín đặc ân bất khả ngộ của Ðức Giáo hoàng)."
+        "t": "Người thuộc phái bất khả ngộ (trong công đồng Vaticanô I: chủ trương cần phải định tín đặc ân bất khả ngộ của Đức Giáo hoàng)."
       }
     ],
     "k": "infallibilists"
@@ -31132,7 +31132,7 @@
   },
   {
     "h": "infancy narratives/gospels",
-    "segs": [{"k": "m", "t": "trình thuật về thời thơ ấu của Ðức Giêsu, Phúc âm ấu thời."}],
+    "segs": [{"k": "m", "t": "trình thuật về thời thơ ấu của Đức Giêsu, Phúc âm ấu thời."}],
     "k": "infancy narratives/gospels"
   },
   {
@@ -31229,7 +31229,7 @@
     "h": "infanta",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(sử) công chúa cả (không nối ngôi ở Tây Ban Nha, Bồ Ðào Nha)."}
+      {"k": "m", "t": "(sử) công chúa cả (không nối ngôi ở Tây Ban Nha, Bồ Đào Nha)."}
     ],
     "ipa": "in'fæntə",
     "k": "infanta"
@@ -31238,7 +31238,7 @@
     "h": "infante",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "hoàng tử (không nối ngôi ở Tây Ban Nha, Bồ Ðào Nha)."}
+      {"k": "m", "t": "hoàng tử (không nối ngôi ở Tây Ban Nha, Bồ Đào Nha)."}
     ],
     "ipa": "in'fænti",
     "k": "infante"
@@ -32163,12 +32163,12 @@
   },
   {
     "h": "inferior gluteal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch mông dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch mông dưới."}],
     "k": "inferior gluteal artery"
   },
   {
     "h": "inferior gluteal line",
-    "segs": [{"k": "m", "t": "Ðường bán khuyên dưới, đường mông dưới."}],
+    "segs": [{"k": "m", "t": "Đường bán khuyên dưới, đường mông dưới."}],
     "k": "inferior gluteal line"
   },
   {
@@ -32190,7 +32190,7 @@
   {"h": "inferior goods", "segs": [{"k": "m", "t": "hàng hạ cấp."}], "k": "inferior goods"},
   {
     "h": "inferior hemorrhoidal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch trực tràng dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch trực tràng dưới."}],
     "k": "inferior hemorrhoidal artery"
   },
   {
@@ -32220,7 +32220,7 @@
   },
   {
     "h": "inferior labial artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch môi dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch môi dưới."}],
     "k": "inferior labial artery"
   },
   {
@@ -32230,7 +32230,7 @@
   },
   {
     "h": "inferior laryngeal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch thanh quản sau."}],
+    "segs": [{"k": "m", "t": "Động mạch thanh quản sau."}],
     "k": "inferior laryngeal artery"
   },
   {
@@ -32271,7 +32271,7 @@
   },
   {
     "h": "inferior mesenteric artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch mạch treo tràng dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch mạch treo tràng dưới."}],
     "k": "inferior mesenteric artery"
   },
   {
@@ -32291,7 +32291,7 @@
   },
   {
     "h": "inferior nuchal line",
-    "segs": [{"k": "m", "t": "Ðường cong chẩm dưới."}],
+    "segs": [{"k": "m", "t": "Đường cong chẩm dưới."}],
     "k": "inferior nuchal line"
   },
   {"h": "inferior oliva", "segs": [{"k": "m", "t": "Trám hành."}], "k": "inferior oliva"},
@@ -32317,7 +32317,7 @@
   },
   {
     "h": "inferior pancreaticoduodenal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch tá tụy dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch tá tụy dưới."}],
     "k": "inferior pancreaticoduodenal artery"
   },
   {
@@ -32332,7 +32332,7 @@
   },
   {
     "h": "inferior phrenic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch hoành dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch hoành dưới."}],
     "k": "inferior phrenic artery"
   },
   {
@@ -32362,7 +32362,7 @@
   },
   {
     "h": "inferior rectal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch trực tràng dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch trực tràng dưới."}],
     "k": "inferior rectal artery"
   },
   {
@@ -32372,7 +32372,7 @@
   },
   {
     "h": "inferior rectal plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh trực tràng dưới."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh trực tràng dưới."}],
     "k": "inferior rectal plexus"
   },
   {
@@ -32397,7 +32397,7 @@
   },
   {
     "h": "inferior suprarenal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch thượng thận dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch thượng thận dưới."}],
     "k": "inferior suprarenal artery"
   },
   {
@@ -32413,7 +32413,7 @@
   {"h": "inferior tendon", "segs": [{"k": "m", "t": "gân bánh chè."}], "k": "inferior tendon"},
   {
     "h": "inferior thyroid artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch giáp dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch giáp dưới."}],
     "k": "inferior thyroid artery"
   },
   {
@@ -32448,7 +32448,7 @@
   },
   {
     "h": "inferior tympanic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch màng nhĩ dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch màng nhĩ dưới."}],
     "k": "inferior tympanic artery"
   },
   {
@@ -32458,7 +32458,7 @@
   },
   {
     "h": "inferior vesical artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch bàng quang dưới."}],
+    "segs": [{"k": "m", "t": "Động mạch bàng quang dưới."}],
     "k": "inferior vesical artery"
   },
   {
@@ -33097,7 +33097,7 @@
       {"k": "m", "t": "("},
       {"k": "ex", "t": "the infinite", "vi": ") không trung"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the infinite", "vi": ") Thượng Ðế."}
+      {"k": "ex", "t": "the infinite", "vi": ") Thượng Đế."}
     ],
     "ipa": "'infinit",
     "k": "infinite",
@@ -33930,7 +33930,7 @@
   },
   {
     "h": "inflammatory dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh viêm."}],
+    "segs": [{"k": "m", "t": "Đau kinh viêm."}],
     "k": "inflammatory dysmenorrhea"
   },
   {"h": "inflammatory edema", "segs": [{"k": "m", "t": "Phù viêm."}], "k": "inflammatory edema"},
@@ -34061,7 +34061,7 @@
       {
         "k": "ex",
         "t": "With a supply of compressed air, the large balloon inflated in a matter of seconds",
-        "vi": "Ðưa khí nén vào, quả khí cầu lớn phình ra trong chốc lát."
+        "vi": "Đưa khí nén vào, quả khí cầu lớn phình ra trong chốc lát."
       }
     ],
     "ipa": "in'fleit",
@@ -36001,7 +36001,7 @@
       },
       {
         "k": "m",
-        "t": "Xuất bản thông tin không chỉ là vấn đề xây dựng nội dung. Nó còn bao gồm vấn đề bảo mật, định luồng tài liệu, bản quyền và nhiều yếu tố khác. Riêng việc quản lý tài liệu là một khoa học. Xem phần \"Document Management\" trình bày các dịch vụ lưu trữ, theo dõi, phiên bản, chỉ mục và tìm kiếm tài liệu, cũng như cung cấp \"audit trails\" (dấu theo dõi) để tìm ra ai đã đọc và thay đổi tài liệu, nếu cần. Ðiều này thường được hiện thực trên mạng Internet."
+        "t": "Xuất bản thông tin không chỉ là vấn đề xây dựng nội dung. Nó còn bao gồm vấn đề bảo mật, định luồng tài liệu, bản quyền và nhiều yếu tố khác. Riêng việc quản lý tài liệu là một khoa học. Xem phần \"Document Management\" trình bày các dịch vụ lưu trữ, theo dõi, phiên bản, chỉ mục và tìm kiếm tài liệu, cũng như cung cấp \"audit trails\" (dấu theo dõi) để tìm ra ai đã đọc và thay đổi tài liệu, nếu cần. Điều này thường được hiện thực trên mạng Internet."
       },
       {
         "k": "m",
@@ -36037,7 +36037,7 @@
       {"k": "m", "t": "Acrobat, Adobe Systems Inc."},
       {
         "k": "m",
-        "t": "Acrobat của hệ thống Adobe cung cấp khả năng trao đổi tài liệu cho phép người nhận tài liệu xem được theo đúng định dạng nguyên thủy. Nó cũng được dùng rộng rãi như một định dạng tài liệu có thể chuyển qua lại được trên mạng Internet và trên Web. Ðể có thêm thông tin về Adobe Acrobat, hãy xem phần \"Acrobat\". Web site của Adobe ở điạ chỉ http://www.adobe.com"
+        "t": "Acrobat của hệ thống Adobe cung cấp khả năng trao đổi tài liệu cho phép người nhận tài liệu xem được theo đúng định dạng nguyên thủy. Nó cũng được dùng rộng rãi như một định dạng tài liệu có thể chuyển qua lại được trên mạng Internet và trên Web. Để có thêm thông tin về Adobe Acrobat, hãy xem phần \"Acrobat\". Web site của Adobe ở điạ chỉ http://www.adobe.com"
       },
       {"k": "m", "t": "MIME (Multipurpose Internet Mail Extension)"},
       {
@@ -36796,10 +36796,10 @@
   },
   {
     "h": "infracostal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch dưới xương sườ Ðộng mạch gian sườn chính thức."}],
+    "segs": [{"k": "m", "t": "Động mạch dưới xương sườ Động mạch gian sườn chính thức."}],
     "k": "infracostal artery"
   },
-  {"h": "infracostal line", "segs": [{"k": "m", "t": "Ðường dưới sườn."}], "k": "infracostal line"},
+  {"h": "infracostal line", "segs": [{"k": "m", "t": "Đường dưới sườn."}], "k": "infracostal line"},
   {"h": "infracotyloid", "segs": [{"k": "m", "t": "Dưới ổ cối."}], "k": "infracotyloid"},
   {
     "h": "infract",
@@ -36928,7 +36928,7 @@
   {"h": "infranuclear", "segs": [{"k": "m", "t": "Dưới nhân."}], "k": "infranuclear"},
   {
     "h": "infraobital suture",
-    "segs": [{"k": "m", "t": "Ðường khớp dưới ổ mắt, đường khớp dưới hốc mắt."}],
+    "segs": [{"k": "m", "t": "Đường khớp dưới ổ mắt, đường khớp dưới hốc mắt."}],
     "k": "infraobital suture"
   },
   {
@@ -36940,7 +36940,7 @@
   {"h": "infraorbital", "segs": [{"k": "m", "t": "Dưới ổ mắt, dưới hốc mat."}], "k": "infraorbital"},
   {
     "h": "infraorbital artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch dưới hốc mắt."}],
+    "segs": [{"k": "m", "t": "Động mạch dưới hốc mắt."}],
     "k": "infraorbital artery"
   },
   {
@@ -37157,7 +37157,7 @@
     ],
     "k": "infrared interface"
   },
-  {"h": "infrared lamp", "segs": [{"k": "m", "t": "Ðèn hồng ngoại."}], "k": "infrared lamp"},
+  {"h": "infrared lamp", "segs": [{"k": "m", "t": "Đèn hồng ngoại."}], "k": "infrared lamp"},
   {
     "h": "infrared laser",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "laze hồng ngoại"}],
@@ -37455,7 +37455,7 @@
   {"h": "infrascapular", "segs": [{"k": "m", "t": "Dưới xương bả vai."}], "k": "infrascapular"},
   {
     "h": "infrascapular line",
-    "segs": [{"k": "m", "t": "Ðường dưới vai."}],
+    "segs": [{"k": "m", "t": "Đường dưới vai."}],
     "k": "infrascapular line"
   },
   {
@@ -37721,7 +37721,7 @@
   },
   {
     "h": "infundibula of kidney",
-    "segs": [{"k": "m", "t": "Ðài thận."}],
+    "segs": [{"k": "m", "t": "Đài thận."}],
     "k": "infundibula of kidney"
   },
   {
@@ -38049,7 +38049,7 @@
     "ipa": ",infju:'zɔ:riəl",
     "k": "infusorial"
   },
-  {"h": "infusorial earth", "segs": [{"k": "m", "t": "Ðất có tảo silic."}], "k": "infusorial earth"},
+  {"h": "infusorial earth", "segs": [{"k": "m", "t": "Đất có tảo silic."}], "k": "infusorial earth"},
   {
     "h": "infusorian",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(động) trùng lông, mao trùng."}],
@@ -42702,7 +42702,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đảng Inkatha tự do, là tổ chức chính trị (mang tên là Zulu) ở Nam Phi do ông Mangosuthu Buthelezi lãnh đạo. Ðảng được thành lập do phong trào Inkatha do Buthelazi lãnh đạo năm 1975, để chống lại \"quốc hội Châu Phi\" (ANC là African National Congress) do Xhosa thống trị."
+        "t": "đảng Inkatha tự do, là tổ chức chính trị (mang tên là Zulu) ở Nam Phi do ông Mangosuthu Buthelezi lãnh đạo. Đảng được thành lập do phong trào Inkatha do Buthelazi lãnh đạo năm 1975, để chống lại \"quốc hội Châu Phi\" (ANC là African National Congress) do Xhosa thống trị."
       },
       {
         "k": "m",
@@ -43249,7 +43249,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quyền vận chuyển nội địa. Quyền của mỗi quốc gia tham gia ký kết Công ước Chicago 1994 về Hàng không dân dụng quốc tế từ chối cho phép máy bay của các quốc gia ký kết khác lấy hành khách, bưu kiện và hàng vận chuyển đến điểm khác trong lãnh thổ của mình nhằm mục đích kiếm lời (Ðiều 7 Công ước Chicago 1944 về Hàng không dân dụng quốc tế)."
+        "t": "quyền vận chuyển nội địa. Quyền của mỗi quốc gia tham gia ký kết Công ước Chicago 1994 về Hàng không dân dụng quốc tế từ chối cho phép máy bay của các quốc gia ký kết khác lấy hành khách, bưu kiện và hàng vận chuyển đến điểm khác trong lãnh thổ của mình nhằm mục đích kiếm lời (Điều 7 Công ước Chicago 1944 về Hàng không dân dụng quốc tế)."
       }
     ],
     "k": "inland transportation right"
@@ -43756,7 +43756,7 @@
   },
   {
     "h": "inmemoriam",
-    "segs": [{"k": "m", "t": "Ðể tưởng nhớ, để kỷ niệm."}],
+    "segs": [{"k": "m", "t": "Để tưởng nhớ, để kỷ niệm."}],
     "ipa": "in məɛmɔ: riəm",
     "k": "inmemoriam"
   },
@@ -44853,7 +44853,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1160-1216) Ông là một vị giáo hoàng tích cực cải cánh mạnh mẽ giáo hội, và được coi là chúa tể Sicily. Ở Ðức, ông nắm quyền Giáo Hoàng chọn lựa giữa 2 ứng cử viên là đối thủ của vua nước Ðức. Cuối cùng ông ủng hộ Frederick II. Ông can thiệp vào công việc nội bộ nước Anh, rút phép thông công của King John vì không thừa nhận ông Stephen Langton làm Giám mục ở giáo phận Canterbury. Giáo Hoàng Innocent III cũng mưu toan kìm hãm độc lập của vua Philip II ở Pháp."
+        "t": "(1160-1216) Ông là một vị giáo hoàng tích cực cải cánh mạnh mẽ giáo hội, và được coi là chúa tể Sicily. Ở Đức, ông nắm quyền Giáo Hoàng chọn lựa giữa 2 ứng cử viên là đối thủ của vua nước Đức. Cuối cùng ông ủng hộ Frederick II. Ông can thiệp vào công việc nội bộ nước Anh, rút phép thông công của King John vì không thừa nhận ông Stephen Langton làm Giám mục ở giáo phận Canterbury. Giáo Hoàng Innocent III cũng mưu toan kìm hãm độc lập của vua Philip II ở Pháp."
       },
       {
         "k": "m",
@@ -45366,7 +45366,7 @@
       {
         "k": "ex",
         "t": "To have inoculations against cholera",
-        "vi": "Ðược tiêm chủng phòng bệnh dịch tả"
+        "vi": "Được tiêm chủng phòng bệnh dịch tả"
       },
       {"k": "m", "t": "(nông nghiệp) sự ghép (cây)."}
     ],
@@ -45585,7 +45585,7 @@
   {"h": "inopexia", "segs": [{"k": "m", "t": "Xu hướng đông máu tự nhiên."}], "k": "inopexia"},
   {
     "h": "inophragma",
-    "segs": [{"k": "m", "t": "Ðường hình chữ Z (của cơ vân)."}],
+    "segs": [{"k": "m", "t": "Đường hình chữ Z (của cơ vân)."}],
     "k": "inophragma"
   },
   {
@@ -45618,7 +45618,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Người thuộc phái bất thuận thời (hồi công đồng Vaticanô I: cho rằng việc minh định tín điều về đặc ân bất khả ngộ của Ðức Giáo hoàng là không hợp thời)."
+        "t": "Người thuộc phái bất thuận thời (hồi công đồng Vaticanô I: cho rằng việc minh định tín điều về đặc ân bất khả ngộ của Đức Giáo hoàng là không hợp thời)."
       }
     ],
     "k": "inopportunists"
@@ -48353,7 +48353,7 @@
       {
         "k": "ex",
         "t": "I'm not insensible how much I owe to your help",
-        "vi": "Ðâu phải tôi không biết là tôi đã được anh giúp đỡ đến dường nào"
+        "vi": "Đâu phải tôi không biết là tôi đã được anh giúp đỡ đến dường nào"
       },
       {
         "k": "ex",
@@ -50156,7 +50156,7 @@
       {
         "k": "ex",
         "t": "‘You really must go! ' - ‘All right, if you insist'",
-        "vi": "Anh thực sự phải đi thôi!-Ðược, nếu anh khăng khăng muốn vậy"
+        "vi": "Anh thực sự phải đi thôi!-Được, nếu anh khăng khăng muốn vậy"
       },
       {
         "k": "ex",
@@ -51514,7 +51514,7 @@
       {
         "k": "ex",
         "t": "found (his) inspiration in/drew (his) inspiration from the Lake District scenery . It was a great source of inspiration to him",
-        "vi": "Woodsworth tìm cảm hứng/lấy cảm hứng từ cảnh vật vùng Hồ. Ðó là một nguồn cảm hứng lớn đối với ông ta"
+        "vi": "Woodsworth tìm cảm hứng/lấy cảm hứng từ cảnh vật vùng Hồ. Đó là một nguồn cảm hứng lớn đối với ông ta"
       },
       {
         "k": "ex",
@@ -51796,7 +51796,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "nước quả đặc"}],
     "k": "inspissate juice"
   },
-  {"h": "inspissated", "segs": [{"k": "m", "t": "Ðã cô đặc."}], "k": "inspissated"},
+  {"h": "inspissated", "segs": [{"k": "m", "t": "Đã cô đặc."}], "k": "inspissated"},
   {
     "h": "inspissated bile syndrome",
     "segs": [{"k": "m", "t": "Hội chứng cô đặc mật."}],
@@ -52008,7 +52008,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngđ) 1. Ðặt (ai) vào (nơi nào, tình trạng nào...) 2. Ðặt (hệ thống máy móc...) 3. Làm lễ nhậm chức cho (ai)."
+        "t": "(ngđ) 1. Đặt (ai) vào (nơi nào, tình trạng nào...) 2. Đặt (hệ thống máy móc...) 3. Làm lễ nhậm chức cho (ai)."
       }
     ],
     "ipa": "inɛstɔ:l",
@@ -52764,7 +52764,7 @@
       {
         "k": "ex",
         "t": "Just for an instant I thought he was going to refuse",
-        "vi": "Ðúng có một lúc tôi đã tưởng ông ấy sẽ từ chối"
+        "vi": "Đúng có một lúc tôi đã tưởng ông ấy sẽ từ chối"
       },
       {"k": "m", "t": "(Mỹ),"},
       {"k": "pos", "t": "thành ngữ"},
@@ -53529,7 +53529,7 @@
   },
   {
     "h": "instestinal angina",
-    "segs": [{"k": "m", "t": "Ðau thắt ruột."}],
+    "segs": [{"k": "m", "t": "Đau thắt ruột."}],
     "k": "instestinal angina"
   },
   {
@@ -54027,7 +54027,7 @@
   {
     "h": "Institutional training",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðào tạo thể chế."},
+      {"k": "m", "t": "(kinh tế) Đào tạo thể chế."},
       {
         "k": "m",
         "t": "Thường được sử dụng để mô tả sự đào tạo việc làm do chính phủ trực tiếp cung cấp."
@@ -55181,7 +55181,7 @@
   },
   {
     "h": "instrumental labor",
-    "segs": [{"k": "m", "t": "Ðẻ can thiệp bằng dụng cụ."}],
+    "segs": [{"k": "m", "t": "Đẻ can thiệp bằng dụng cụ."}],
     "k": "instrumental labor"
   },
   {
@@ -57264,7 +57264,7 @@
   },
   {
     "h": "insulin-shock treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng insulin."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng insulin."}],
     "k": "insulin-shock treatment"
   },
   {"h": "insulinase", "segs": [{"k": "m", "t": "insulinaza."}], "k": "insulinase"},
@@ -57584,7 +57584,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đơn bảo hiểm. Bằng chứng ký kết hợp đồng bảo hiểm được làm bằng văn bản rõ ràng do doanh nghiệp bảo hiểm cấp theo yêu cầu của người được bảo hiểm. Nội dung đơn bảo hiểm: ngày, tháng, năm lúc được cấp, tên, địa chỉ của doanh nghiệp bảo hiểm, người được bảo hiểm và người được hưởng quyền lợi bảo hiểm, những rủi ro được bảo hiểm, điều kiện bảo hiểm, số tiền bảo hiểm, phí bảo hiểm và cách thức nộp ghi, ngày bắt đầu bảo hiểm và thời hạn bảo hiểm, nơi và cách thức bồi thường hay trả tiền bảo hiểm, những loại trừ (nếu có). Ðơn bảo hiểm có thể ghi tên một hoặc nhiều người được bảo hiểm và ghi riêng tên người sở hữu đơn bảo hiểm, nếu thấy thích hợp. Có thể chuyển nhượng hoặc chuyển giao đơn bảo hiểm theo các điều khoản hoặc điều kiện quy định trong đơn."
+        "t": "đơn bảo hiểm. Bằng chứng ký kết hợp đồng bảo hiểm được làm bằng văn bản rõ ràng do doanh nghiệp bảo hiểm cấp theo yêu cầu của người được bảo hiểm. Nội dung đơn bảo hiểm: ngày, tháng, năm lúc được cấp, tên, địa chỉ của doanh nghiệp bảo hiểm, người được bảo hiểm và người được hưởng quyền lợi bảo hiểm, những rủi ro được bảo hiểm, điều kiện bảo hiểm, số tiền bảo hiểm, phí bảo hiểm và cách thức nộp ghi, ngày bắt đầu bảo hiểm và thời hạn bảo hiểm, nơi và cách thức bồi thường hay trả tiền bảo hiểm, những loại trừ (nếu có). Đơn bảo hiểm có thể ghi tên một hoặc nhiều người được bảo hiểm và ghi riêng tên người sở hữu đơn bảo hiểm, nếu thấy thích hợp. Có thể chuyển nhượng hoặc chuyển giao đơn bảo hiểm theo các điều khoản hoặc điều kiện quy định trong đơn."
       }
     ],
     "k": "insurance application"
@@ -60904,7 +60904,7 @@
   },
   {
     "h": "intellectual life",
-    "segs": [{"k": "m", "t": "Ðời sống trí tuệ."}],
+    "segs": [{"k": "m", "t": "Đời sống trí tuệ."}],
     "k": "intellectual life"
   },
   {
@@ -61557,7 +61557,7 @@
       {
         "k": "ex",
         "t": "It's not what I intended (it to be",
-        "vi": ") Ðó không phải những gì tôi dự định"
+        "vi": ") Đó không phải những gì tôi dự định"
       },
       {"k": "ex", "t": "He intends you no harm", "vi": "Ông ta đâu có ý hại anh"},
       {
@@ -61628,7 +61628,7 @@
       {"k": "m", "t": "văn phòng quản đốc, là cơ quan của vua nước Pháp dưới chế độ ngày xưa."},
       {
         "k": "m",
-        "t": "Ðó là một văn phòng được thành lập dùng biện pháp khẩn cấp để chống lại sự bất tuân thủ trong thập niên 1630."
+        "t": "Đó là một văn phòng được thành lập dùng biện pháp khẩn cấp để chống lại sự bất tuân thủ trong thập niên 1630."
       },
       {
         "k": "m",
@@ -61660,7 +61660,7 @@
       {
         "k": "ex",
         "t": "This is a magazine intended for intellectuals",
-        "vi": "Ðây là tạp chí dành cho giới trí thức"
+        "vi": "Đây là tạp chí dành cho giới trí thức"
       },
       {"k": "ex", "t": "Water (not) intended for drinking", "vi": "Nước (không phải) để uống"},
       {"k": "pos", "t": "danh từ"},
@@ -61683,7 +61683,7 @@
   {
     "h": "Intended inventory investment",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðầu tư vào hàng tồn kho có chủ ý"},
+      {"k": "m", "t": "(kinh tế) Đầu tư vào hàng tồn kho có chủ ý"},
       {"k": "m", "t": "Sự gia tăng dự trữ có chủ tâm. Xem Investories."}
     ],
     "k": "intended inventory investment"
@@ -61985,7 +61985,7 @@
     "k": "intensity",
     "q": {"vi": "sự mãnh liệt, sự dữ dội", "ipa": "in'tensiti", "rs": "ìn thén sì thì"}
   },
-  {"h": "intensity care", "segs": [{"k": "m", "t": "Ðiều trị tập trung."}], "k": "intensity care"},
+  {"h": "intensity care", "segs": [{"k": "m", "t": "Điều trị tập trung."}], "k": "intensity care"},
   {
     "h": "intensity control",
     "segs": [{"k": "m", "t": "sự điều khiển cường độ."}],
@@ -62622,7 +62622,7 @@
       {"k": "m", "t": "(kinh tế) Thị trường Liên ngân hàng."},
       {
         "k": "m",
-        "t": "Một trong các nhóm thị trường tiền tệ có quan hệ lẫn nhau ở Luân Ðôn. Thị trường này phát triển vào những năm 1960 và là một thị trường trong đó các ngân hàng không thanh toán bù trừ cho vay lẫn nhau. Nhưng rồi nó đã trở thành một thị trường tiền lớn được rất nhiều thể chế tài chính sử dụng trong việc cho vay và đi vay."
+        "t": "Một trong các nhóm thị trường tiền tệ có quan hệ lẫn nhau ở Luân Đôn. Thị trường này phát triển vào những năm 1960 và là một thị trường trong đó các ngân hàng không thanh toán bù trừ cho vay lẫn nhau. Nhưng rồi nó đã trở thành một thị trường tiền lớn được rất nhiều thể chế tài chính sử dụng trong việc cho vay và đi vay."
       }
     ],
     "k": "inter-bank market"
@@ -63693,10 +63693,10 @@
     ],
     "k": "interarticular costocentral ligament"
   },
-  {"h": "interarticular disk", "segs": [{"k": "m", "t": "Ðĩa khớp."}], "k": "interarticular disk"},
+  {"h": "interarticular disk", "segs": [{"k": "m", "t": "Đĩa khớp."}], "k": "interarticular disk"},
   {
     "h": "interarticular fibrocartilage",
-    "segs": [{"k": "m", "t": "Ðĩa khớp."}],
+    "segs": [{"k": "m", "t": "Đĩa khớp."}],
     "k": "interarticular fibrocartilage"
   },
   {
@@ -65041,7 +65041,7 @@
       {"k": "m", "t": "Else:"},
       {"k": "ipa", "t": "\" + Gr. chondros, cartilage"},
       {"k": "m", "t": ". Between cartilages. SYN: intercartilaginous."},
-      {"k": "m", "t": "Giữa sụn. ÐN: inter cart illaginous."},
+      {"k": "m", "t": "Giữa sụn. ĐN: inter cart illaginous."},
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "(in-ter-chon-dral) intercartilaginous."},
       {"k": "m", "t": "Else:"},
@@ -66249,7 +66249,7 @@
   },
   {
     "h": "intercostal neuralgia",
-    "segs": [{"k": "m", "t": "Ðau dây thần kinh gian sườn."}],
+    "segs": [{"k": "m", "t": "Đau dây thần kinh gian sườn."}],
     "k": "intercostal neuralgia"
   },
   {
@@ -66349,7 +66349,7 @@
   {"h": "intercristal", "segs": [{"k": "m", "t": "Gian mào."}], "k": "intercristal"},
   {
     "h": "intercristal diameter",
-    "segs": [{"k": "m", "t": "Ðường kính liên mào chậu."}],
+    "segs": [{"k": "m", "t": "Đường kính liên mào chậu."}],
     "k": "intercristal diameter"
   },
   {
@@ -67668,7 +67668,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "biên lãi suất. 1. biên tế lãi suất, là khoản tiền tính cao hơn lãi suất cơ bản đối với người vay. Biên chế lãi suất là lợi tức của ngân hàng khi giao dịch nhưng phải xét đến mức rủi ro bị lỗ hoặc người vay không thanh toán nợ. 2. sự chênh lệch giữa lãi suất ngân hàng tính đối với các khoản cho vay và lãi suất ngân hàng trả cho các tài khoản ký thác. Ðây là chỉ số chính cho biết khả năng sinh lợi của ngân hàng."
+        "t": "biên lãi suất. 1. biên tế lãi suất, là khoản tiền tính cao hơn lãi suất cơ bản đối với người vay. Biên chế lãi suất là lợi tức của ngân hàng khi giao dịch nhưng phải xét đến mức rủi ro bị lỗ hoặc người vay không thanh toán nợ. 2. sự chênh lệch giữa lãi suất ngân hàng tính đối với các khoản cho vay và lãi suất ngân hàng trả cho các tài khoản ký thác. Đây là chỉ số chính cho biết khả năng sinh lợi của ngân hàng."
       }
     ],
     "k": "interest rate margin"
@@ -67731,7 +67731,7 @@
   },
   {
     "h": "Interest sensitivity",
-    "segs": [{"k": "m", "t": "(kinh tế) Ðộ nhạy theo lãi suất."}],
+    "segs": [{"k": "m", "t": "(kinh tế) Độ nhạy theo lãi suất."}],
     "k": "interest sensitivity"
   },
   {
@@ -68464,7 +68464,7 @@
       {
         "k": "ex",
         "t": "Don't interfere with me when I'm consulting a dictionary!",
-        "vi": "Ðừng quấy rầy tôi khi tôi đang tra từ điển!"
+        "vi": "Đừng quấy rầy tôi khi tôi đang tra từ điển!"
       },
       {"k": "m", "t": "("},
       {"k": "ex", "t": "to interfere with somebody", "vi": ") cưỡng dâm"},
@@ -72366,7 +72366,7 @@
   },
   {
     "h": "intermaxillary suture",
-    "segs": [{"k": "m", "t": "Ðường khớp gian hàm."}],
+    "segs": [{"k": "m", "t": "Đường khớp gian hàm."}],
     "k": "intermaxillary suture"
   },
   {"h": "intermaze", "segs": [{"k": "m", "t": "v.t., intermazed, intermazing."}], "k": "intermaze"},
@@ -74027,7 +74027,7 @@
   },
   {
     "h": "intermenstrual pain",
-    "segs": [{"k": "m", "t": "Ðau gian kỳ kinh."}],
+    "segs": [{"k": "m", "t": "Đau gian kỳ kinh."}],
     "k": "intermenstrual pain"
   },
   {"h": "intermenstruum", "segs": [{"k": "m", "t": "Gian kỳ kinh nguyệt."}], "k": "intermenstruum"},
@@ -75387,7 +75387,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cache nội, cache sơ cấp. Một vùng lưu giữ dữ liệu 8K, là một bộ phận bên trong chip vi xử lý 80846 và Pentium. Ðồng nghĩa với primary cache. Cache của chip 486 dùng các vùng liên hợp ghi thẳng (write-through), còn hai cache trong chip Pentium thì dùng các vùng liên hợp ghi lùi (write-back). Mặc dù kích thước bé, nhưng khả năng truy cập \"trúng\" các cache này rất cao đó là số lần mà các dữ liệu cần cho bước kế tiếp được tìm thấy trong cache."
+        "t": "cache nội, cache sơ cấp. Một vùng lưu giữ dữ liệu 8K, là một bộ phận bên trong chip vi xử lý 80846 và Pentium. Đồng nghĩa với primary cache. Cache của chip 486 dùng các vùng liên hợp ghi thẳng (write-through), còn hai cache trong chip Pentium thì dùng các vùng liên hợp ghi lùi (write-back). Mặc dù kích thước bé, nhưng khả năng truy cập \"trúng\" các cache này rất cao đó là số lần mà các dữ liệu cần cho bước kế tiếp được tìm thấy trong cache."
       }
     ],
     "k": "internal cache"
@@ -75573,7 +75573,7 @@
   },
   {
     "h": "internal conjugate diameter",
-    "segs": [{"k": "m", "t": "Ðường kính liên hợp trong."}],
+    "segs": [{"k": "m", "t": "Đường kính liên hợp trong."}],
     "k": "internal conjugate diameter"
   },
   {
@@ -76133,7 +76133,7 @@
   },
   {
     "h": "internal iliac artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch chậu trong."}],
+    "segs": [{"k": "m", "t": "Động mạch chậu trong."}],
     "k": "internal iliac artery"
   },
   {
@@ -76316,7 +76316,7 @@
   },
   {
     "h": "internal maxillary artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch hàm trong."}],
+    "segs": [{"k": "m", "t": "Động mạch hàm trong."}],
     "k": "internal maxillary artery"
   },
   {
@@ -76654,7 +76654,7 @@
   },
   {
     "h": "internal resistance",
-    "segs": [{"k": "m", "t": "Ðiện trở bản thân."}],
+    "segs": [{"k": "m", "t": "Điện trở bản thân."}],
     "k": "internal resistance"
   },
   {
@@ -76806,7 +76806,7 @@
   },
   {
     "h": "internal spermatic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch thừng tinh trong."}],
+    "segs": [{"k": "m", "t": "Động mạch thừng tinh trong."}],
     "k": "internal spermatic artery"
   },
   {
@@ -77189,7 +77189,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "\"nội hóa\" ngoại tác. Khi ngoại tác tiêu cực xảy ra, chi phí toàn bộ của sản xuất không được phản ánh trên thị trường. Ðiều này tạo ra chênh lệch giữa chi phí tư nhân và chi phí xã hội mà kết quả là nguồn lực bị phân bổ quá mức cho ngành liên quan. Một biện pháp phổ biến nhằm hạn chế tiêu dùng một mặt hàng, khi việc tiêu dùng này gây ra ngoại tác tiêu cực, là làm tăng chi phí sản xuất. Mục đích là để toàn bộ chi phí-bao gồm chi phí sản xuất tư nhân cộng với chi phí đối với xã hội do ngoại tác-được phản ánh trên thị trường. Biện pháp này có thể được thực hiện thông qua các chính sách như đánh thuế hoặc hạn chế tiêu dùng. Ðơn cử là một đề nghị gần đây cho rằng nên tăng gấp đôi thuế tiêu thụ xe gắn máy và hạn chế lưu thông xe máy trên một số tuyến đường trung tâm thành phố Hồ Chí Minh. Ðể hiểu rõ hơn tác động của một chính sách thuế, ta xem xét đồ thị bên dưới. Ðường cung Sp thể hiện chi phí sản xuất tư nhân và chưa bao gồm ngoại tác tiêu cực. Ðường Dp là cầu thị trường xe gắn máy. Nếu theo giải pháp thị trường thì lượng xe gắn máy bán ra là Qm tại mức giá Pm. Tuy nhiên, nếu thực hiện chính sách thuế nhằm \"nội hóa\" ngoại tác thì đường cung sẽ dịch sang trái. Vị trí mới của đường cung là St. Kết quả là lượng tiêu thụ xe gắn máy ít hơn dẫn đến mức độ ô nhiễm và tiếng ồn cũng thấp hơn. Số thuế thu được có thể dùng để cải thiện chất lượng không khí hay trang trải cho những phí tổn y tế có liên quan đến việc sử dụng xe gắn máy."
+        "t": "\"nội hóa\" ngoại tác. Khi ngoại tác tiêu cực xảy ra, chi phí toàn bộ của sản xuất không được phản ánh trên thị trường. Điều này tạo ra chênh lệch giữa chi phí tư nhân và chi phí xã hội mà kết quả là nguồn lực bị phân bổ quá mức cho ngành liên quan. Một biện pháp phổ biến nhằm hạn chế tiêu dùng một mặt hàng, khi việc tiêu dùng này gây ra ngoại tác tiêu cực, là làm tăng chi phí sản xuất. Mục đích là để toàn bộ chi phí-bao gồm chi phí sản xuất tư nhân cộng với chi phí đối với xã hội do ngoại tác-được phản ánh trên thị trường. Biện pháp này có thể được thực hiện thông qua các chính sách như đánh thuế hoặc hạn chế tiêu dùng. Đơn cử là một đề nghị gần đây cho rằng nên tăng gấp đôi thuế tiêu thụ xe gắn máy và hạn chế lưu thông xe máy trên một số tuyến đường trung tâm thành phố Hồ Chí Minh. Để hiểu rõ hơn tác động của một chính sách thuế, ta xem xét đồ thị bên dưới. Đường cung Sp thể hiện chi phí sản xuất tư nhân và chưa bao gồm ngoại tác tiêu cực. Đường Dp là cầu thị trường xe gắn máy. Nếu theo giải pháp thị trường thì lượng xe gắn máy bán ra là Qm tại mức giá Pm. Tuy nhiên, nếu thực hiện chính sách thuế nhằm \"nội hóa\" ngoại tác thì đường cung sẽ dịch sang trái. Vị trí mới của đường cung là St. Kết quả là lượng tiêu thụ xe gắn máy ít hơn dẫn đến mức độ ô nhiễm và tiếng ồn cũng thấp hơn. Số thuế thu được có thể dùng để cải thiện chất lượng không khí hay trang trải cho những phí tổn y tế có liên quan đến việc sử dụng xe gắn máy."
       }
     ],
     "k": "internalizing the externality"
@@ -77561,7 +77561,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những lữ đoàn quân quốc tế. Ðây là những đội quân tình nguyện trong cuộc nội chiến Tây Ban Nha. Ða số họ là những người cộng sản đứng về phía chính phủ cộng hòa chống lại ông Franco."
+        "t": "những lữ đoàn quân quốc tế. Đây là những đội quân tình nguyện trong cuộc nội chiến Tây Ban Nha. Đa số họ là những người cộng sản đứng về phía chính phủ cộng hòa chống lại ông Franco."
       },
       {
         "k": "m",
@@ -78127,7 +78127,7 @@
   {
     "h": "International Investment Bank",
     "segs": [
-      {"k": "m", "t": "Ngân hàng Ðầu tư quốc tế (MIB, viết tắt theo tên gọi bằng tiếng Nga)."}
+      {"k": "m", "t": "Ngân hàng Đầu tư quốc tế (MIB, viết tắt theo tên gọi bằng tiếng Nga)."}
     ],
     "k": "international investment bank"
   },
@@ -78170,7 +78170,7 @@
       },
       {
         "k": "m",
-        "t": "Ðầu tiên là việc liên kết các nước lại, cho đến năm 1946 tổ chức lao động quốc tế (ILO) chính thức là thành viên của Liên Hiệp Quốc."
+        "t": "Đầu tiên là việc liên kết các nước lại, cho đến năm 1946 tổ chức lao động quốc tế (ILO) chính thức là thành viên của Liên Hiệp Quốc."
       },
       {
         "k": "m",
@@ -78482,7 +78482,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đàm phán quốc tế. Phương thức giải quyết các vấn đề quốc tế bằng sự tiếp xúc giữa các bên hữu quan chủ thể của luật quốc tế. Ðàm phán quốc tế có các loại hình: tư vấn, tham khảo ý kiến, trao đổi ý kiến, hội nghị. Ðàm phán phải được tiến hành trên cơ sở bình đẳng, tôn trọng lẫn nhau, không dùng vũ lực hay đe dọa dùng vũ lực và không can thiệp vào công việc nội bộ của các bên."
+        "t": "đàm phán quốc tế. Phương thức giải quyết các vấn đề quốc tế bằng sự tiếp xúc giữa các bên hữu quan chủ thể của luật quốc tế. Đàm phán quốc tế có các loại hình: tư vấn, tham khảo ý kiến, trao đổi ý kiến, hội nghị. Đàm phán phải được tiến hành trên cơ sở bình đẳng, tôn trọng lẫn nhau, không dùng vũ lực hay đe dọa dùng vũ lực và không can thiệp vào công việc nội bộ của các bên."
       }
     ],
     "k": "international negociation"
@@ -78899,7 +78899,7 @@
     "h": "International Sugar Agreement",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Hiệp định Ðường cát Quốc tế"}
+      {"k": "m", "t": "Hiệp định Đường cát Quốc tế"}
     ],
     "k": "international sugar agreement"
   },
@@ -79315,7 +79315,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bốn loại chủ nghĩa quốc tế khác nhau. Chủ nghĩa quốc tế thứ nhất (1864) là chủ nghĩa Marx. Chủ nghĩa quốc tế thứ 2 (1889), nhằm làm đoàn kết một số đảng xã hội mới nổi lên ở Châu Âu, có cơ sở chính đặt tại Brussels. Ðến năm 1912, cơ sở này bao gồm đại diện tất cả các nước Châu Âu, Hoa Kỳ, Canada và Nhật. Kế hoạch của họ là ngăn chặn những cuộc chiến bùng phát, từ những cuộc tổng đình công và cuộc cách mạng do làn sóng của chủ nghĩa quốc gia ở tất cả các nước."
+        "t": "bốn loại chủ nghĩa quốc tế khác nhau. Chủ nghĩa quốc tế thứ nhất (1864) là chủ nghĩa Marx. Chủ nghĩa quốc tế thứ 2 (1889), nhằm làm đoàn kết một số đảng xã hội mới nổi lên ở Châu Âu, có cơ sở chính đặt tại Brussels. Đến năm 1912, cơ sở này bao gồm đại diện tất cả các nước Châu Âu, Hoa Kỳ, Canada và Nhật. Kế hoạch của họ là ngăn chặn những cuộc chiến bùng phát, từ những cuộc tổng đình công và cuộc cách mạng do làn sóng của chủ nghĩa quốc gia ở tất cả các nước."
       },
       {
         "k": "m",
@@ -79536,7 +79536,7 @@
       },
       {
         "k": "m",
-        "t": "Ðường vào Web site của bạn phải đủ băng thông để kiểm soát được lưu thông như mong muốn. Một kết nối quay số ở tốc độ 28.8 Kbits/sec chỉ thỏa mãn tức thời cho khách vãng lai. Các kết nối có năng lực truyền cao hơn chẳng hạn như ISDN và T1 cung cấp 128 Kbits/sec và 1.5 Mbits/sec. Ðường T1 có thể cho phép lên đến 100 người dùng đồng thời. Xem phần \"Dedicated Circuits\" để có nhiều thông tin hơn."
+        "t": "Đường vào Web site của bạn phải đủ băng thông để kiểm soát được lưu thông như mong muốn. Một kết nối quay số ở tốc độ 28.8 Kbits/sec chỉ thỏa mãn tức thời cho khách vãng lai. Các kết nối có năng lực truyền cao hơn chẳng hạn như ISDN và T1 cung cấp 128 Kbits/sec và 1.5 Mbits/sec. Đường T1 có thể cho phép lên đến 100 người dùng đồng thời. Xem phần \"Dedicated Circuits\" để có nhiều thông tin hơn."
       },
       {
         "k": "m",
@@ -81624,7 +81624,7 @@
   {"h": "interpubic", "segs": [{"k": "m", "t": "Gian xương mu."}], "k": "interpubic"},
   {
     "h": "interpubic fibrous ring",
-    "segs": [{"k": "m", "t": "Ðĩa gian mu."}],
+    "segs": [{"k": "m", "t": "Đĩa gian mu."}],
     "k": "interpubic fibrous ring"
   },
   {
@@ -82301,7 +82301,7 @@
         "t": "don't interrupt me while I'm busy!",
         "vi": "đừng cản trở tôi khi tôi đang bận!"
       },
-      {"k": "ex", "t": "Don't interrupt the speaker!", "vi": "Ðừng ngắt lời diễn giả!"},
+      {"k": "ex", "t": "Don't interrupt the speaker!", "vi": "Đừng ngắt lời diễn giả!"},
       {
         "k": "ex",
         "t": "Hecklers interrupted her speech with jeering",
@@ -83117,7 +83117,7 @@
   },
   {
     "h": "intersegment",
-    "segs": [{"k": "m", "t": "Ðoạn"}, {"k": "m", "t": "Ðốt, khúc."}],
+    "segs": [{"k": "m", "t": "Đoạn"}, {"k": "m", "t": "Đốt, khúc."}],
     "k": "intersegment"
   },
   {
@@ -83131,7 +83131,7 @@
   },
   {
     "h": "intersegmental artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch liên đoạn (phôi)."}],
+    "segs": [{"k": "m", "t": "Động mạch liên đoạn (phôi)."}],
     "k": "intersegmental artery"
   },
   {
@@ -83505,7 +83505,7 @@
   },
   {
     "h": "interspinal line",
-    "segs": [{"k": "m", "t": "Ðường liên gai chậu trên."}],
+    "segs": [{"k": "m", "t": "Đường liên gai chậu trên."}],
     "k": "interspinal line"
   },
   {
@@ -83651,10 +83651,10 @@
   {
     "h": "Interstate Commerce Act",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðạo luật thương mại giữa các tiểu bang."},
+      {"k": "m", "t": "(kinh tế) Đạo luật thương mại giữa các tiểu bang."},
       {
         "k": "m",
-        "t": "Ðạo luật này thiết lập Ủy ban Thương mại giữa các Bang (ICC) ở Mỹ năm 1887. ICC là tổ chức điều tiết liên bang đầu tiên."
+        "t": "Đạo luật này thiết lập Ủy ban Thương mại giữa các Bang (ICC) ở Mỹ năm 1887. ICC là tổ chức điều tiết liên bang đầu tiên."
       }
     ],
     "k": "interstate commerce act"
@@ -84666,7 +84666,7 @@
   },
   {
     "h": "intertrochanteric line",
-    "segs": [{"k": "m", "t": "Ðường gian mấu chuyển trước."}],
+    "segs": [{"k": "m", "t": "Đường gian mấu chuyển trước."}],
     "k": "intertrochanteric line"
   },
   {
@@ -84704,7 +84704,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tàu hỏa nội thành"}],
     "k": "intertuban train"
   },
-  {"h": "intertuberal line", "segs": [{"k": "m", "t": "Ðường ụ trán."}], "k": "intertuberal line"},
+  {"h": "intertuberal line", "segs": [{"k": "m", "t": "Đường ụ trán."}], "k": "intertuberal line"},
   {"h": "intertubercular", "segs": [{"k": "m", "t": "Gian củ."}], "k": "intertubercular"},
   {
     "h": "intertubular",
@@ -85365,17 +85365,17 @@
   },
   {
     "h": "intervertebral cartilage",
-    "segs": [{"k": "m", "t": "Ðĩa gian đốt sống."}],
+    "segs": [{"k": "m", "t": "Đĩa gian đốt sống."}],
     "k": "intervertebral cartilage"
   },
   {
     "h": "intervertebral disk",
-    "segs": [{"k": "m", "t": "Ðĩa gian đốt sống."}],
+    "segs": [{"k": "m", "t": "Đĩa gian đốt sống."}],
     "k": "intervertebral disk"
   },
   {
     "h": "intervertebral fibrocartilage",
-    "segs": [{"k": "m", "t": "Ðĩa gian đốt sống."}],
+    "segs": [{"k": "m", "t": "Đĩa gian đốt sống."}],
     "k": "intervertebral fibrocartilage"
   },
   {
@@ -85899,7 +85899,7 @@
     "segs": [{"k": "m", "t": "Nối ruột."}],
     "k": "intestinal anastomosis"
   },
-  {"h": "intestinal artery", "segs": [{"k": "m", "t": "Ðộng mạch ruột."}], "k": "intestinal artery"},
+  {"h": "intestinal artery", "segs": [{"k": "m", "t": "Động mạch ruột."}], "k": "intestinal artery"},
   {
     "h": "intestinal bacterium",
     "segs": [{"k": "m", "t": "Vi khuẩn đường ruột."}],
@@ -86039,7 +86039,7 @@
   },
   {
     "h": "intestinum crassum",
-    "segs": [{"k": "m", "t": "Ðại tràng, ruột già."}],
+    "segs": [{"k": "m", "t": "Đại tràng, ruột già."}],
     "k": "intestinum crassum"
   },
   {
@@ -86916,7 +86916,7 @@
   },
   {
     "h": "intra-uterine life",
-    "segs": [{"k": "m", "t": "Ðời sống trong tử cung."}],
+    "segs": [{"k": "m", "t": "Đời sống trong tử cung."}],
     "k": "intra-uterine life"
   },
   {
@@ -87408,7 +87408,7 @@
   },
   {
     "h": "intragalvanization",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng điện một chiều mặt trong cơ quan."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng điện một chiều mặt trong cơ quan."}],
     "k": "intragalvanization"
   },
   {"h": "intragastric", "segs": [{"k": "m", "t": "Trong dạ dầy."}], "k": "intragastric"},
@@ -87500,7 +87500,7 @@
   },
   {
     "h": "intramedullary nailing",
-    "segs": [{"k": "m", "t": "Ðóng đinh nội tủy, đóng đinh tủy."}],
+    "segs": [{"k": "m", "t": "Đóng đinh nội tủy, đóng đinh tủy."}],
     "k": "intramedullary nailing"
   },
   {"h": "intramembranous", "segs": [{"k": "m", "t": "Trong màng."}], "k": "intramembranous"},
@@ -87651,7 +87651,7 @@
       },
       {
         "k": "m",
-        "t": "Các công nghệ Push có thể phân phối thông tin đến người dùng mà không cần họ phải yêu cầu chúng một cách tường minh. Ðiều này rất có ích trên môi trường intranet nơi các nhân viên cần được thông báo các sự kiện hay được phân phối phần mềm đến máy của mình. Marimba's Castanet là một phần mềm đáng chú ý, nó là môi trường phân phối thông tin. PointCast là một phần mềm khác. Hãy xem \"Marimba Castanet\", \"PointCast\" và \"Push\"."
+        "t": "Các công nghệ Push có thể phân phối thông tin đến người dùng mà không cần họ phải yêu cầu chúng một cách tường minh. Điều này rất có ích trên môi trường intranet nơi các nhân viên cần được thông báo các sự kiện hay được phân phối phần mềm đến máy của mình. Marimba's Castanet là một phần mềm đáng chú ý, nó là môi trường phân phối thông tin. PointCast là một phần mềm khác. Hãy xem \"Marimba Castanet\", \"PointCast\" và \"Push\"."
       },
       {
         "k": "m",
@@ -89110,7 +89110,7 @@
     "ipa": "'intrɔit",
     "k": "introit"
   },
-  {"h": "introitus", "segs": [{"k": "m", "t": "Ðường vào, lỗ."}], "k": "introitus"},
+  {"h": "introitus", "segs": [{"k": "m", "t": "Đường vào, lỗ."}], "k": "introitus"},
   {
     "h": "introitus oesophagi",
     "segs": [{"k": "m", "t": "đường vào thực quản."}],
@@ -89803,7 +89803,7 @@
   },
   {
     "h": "intumescent cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh phồng."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh phồng."}],
     "k": "intumescent cataract"
   },
   {
@@ -90136,7 +90136,7 @@
   },
   {
     "h": "inustion",
-    "segs": [{"k": "m", "t": "(sự) đốt cháy sâu"}, {"k": "m", "t": "Ðốt bằng kim loại nóng đỏ."}],
+    "segs": [{"k": "m", "t": "(sự) đốt cháy sâu"}, {"k": "m", "t": "Đốt bằng kim loại nóng đỏ."}],
     "k": "inustion"
   },
   {
@@ -90949,7 +90949,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sáng chế. Giải pháp kỹ thuật mới so với trình độ kỹ thuật trên thế giới, có tính sáng tạo và có khả năng áp dụng trong các lĩnh vực kinh tế-xã hội, chưa được bộc lộ công khai trong nước và nước ngoài dưới bất kỳ một hình thức nào. Ví dụ: nhà máy bóng đèn phích nước Rạng Ðông có sáng chế vít đáy ruột phích (núm chân không) tiến bộ và mới lớn, giá thành rẻ hơn so với kỹ thuật trước đây của Trung Quốc. Sáng chế là đối tượng sở hữu công nghiệp được nhà nước bảo hộ. Chủ sở hữu sáng chế muốn được nhà nước bảo hộ phải nộp đơn đến cơ quan nhà nước có thẩm quyền (Cục sở hữu công nghiệp) xin cấp văn bằng bảo hộ sáng chế. Sáng chế khác với phát minh vì phát minh là cái hoàn toàn mới so với trình độ khao học thế giới (ví dụ: một định luật khoa học)."
+        "t": "sáng chế. Giải pháp kỹ thuật mới so với trình độ kỹ thuật trên thế giới, có tính sáng tạo và có khả năng áp dụng trong các lĩnh vực kinh tế-xã hội, chưa được bộc lộ công khai trong nước và nước ngoài dưới bất kỳ một hình thức nào. Ví dụ: nhà máy bóng đèn phích nước Rạng Đông có sáng chế vít đáy ruột phích (núm chân không) tiến bộ và mới lớn, giá thành rẻ hơn so với kỹ thuật trước đây của Trung Quốc. Sáng chế là đối tượng sở hữu công nghiệp được nhà nước bảo hộ. Chủ sở hữu sáng chế muốn được nhà nước bảo hộ phải nộp đơn đến cơ quan nhà nước có thẩm quyền (Cục sở hữu công nghiệp) xin cấp văn bằng bảo hộ sáng chế. Sáng chế khác với phát minh vì phát minh là cái hoàn toàn mới so với trình độ khao học thế giới (ví dụ: một định luật khoa học)."
       }
     ],
     "k": "inventions-invention"
@@ -91437,7 +91437,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sự chống đối của thủy thủ ở hạm đội Ðại Tây Dương Anh quốc, xảy ra ở hai cảng Cromarty Firt (Ailen). Chính phủ cắt giảm lương, khiến cho các binh sĩ từ chối làm việc, sự cắt giảm lương được duyệt một cách cẩu thả. Một đạo luật đình chỉ việc trả lương theo tiêu chuẩn đồng tiền vàng Sterling, nên giá trị một bảng Anh chỉ còn 25 xu."
+        "t": "sự chống đối của thủy thủ ở hạm đội Đại Tây Dương Anh quốc, xảy ra ở hai cảng Cromarty Firt (Ailen). Chính phủ cắt giảm lương, khiến cho các binh sĩ từ chối làm việc, sự cắt giảm lương được duyệt một cách cẩu thả. Một đạo luật đình chỉ việc trả lương theo tiêu chuẩn đồng tiền vàng Sterling, nên giá trị một bảng Anh chỉ còn 25 xu."
       },
       {
         "k": "m",
@@ -91897,7 +91897,7 @@
     "k": "inverse substitution"
   },
   {"h": "inverse surface", "segs": [{"k": "m", "t": "mặt nghịch đảo."}], "k": "inverse surface"},
-  {"h": "inverse symmetry", "segs": [{"k": "m", "t": "Ðối xứng nghịch."}], "k": "inverse symmetry"},
+  {"h": "inverse symmetry", "segs": [{"k": "m", "t": "Đối xứng nghịch."}], "k": "inverse symmetry"},
   {"h": "inverse system", "segs": [{"k": "m", "t": "hệ nghịch."}], "k": "inverse system"},
   {"h": "inverse theorem", "segs": [{"k": "m", "t": "định lý đảo."}], "k": "inverse theorem"},
   {
@@ -92024,7 +92024,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ma trận khả nghịch. Là ma trận vuông A có ma trận nghịch đảo A-1 sao cho A.A-1 = A-1A = E. Ðiều đó xảy ra khi và chỉ khi A là ma trận vuông không suy biến, tức là (A(= det A ( 0."
+        "t": "ma trận khả nghịch. Là ma trận vuông A có ma trận nghịch đảo A-1 sao cho A.A-1 = A-1A = E. Điều đó xảy ra khi và chỉ khi A là ma trận vuông không suy biến, tức là (A(= det A ( 0."
       }
     ],
     "k": "inversible matrix"
@@ -92127,7 +92127,7 @@
     "ipa": "in'və:siv",
     "k": "inversive"
   },
-  {"h": "inversus", "segs": [{"k": "m", "t": "Ðảo nghịch."}], "k": "inversus"},
+  {"h": "inversus", "segs": [{"k": "m", "t": "Đảo nghịch."}], "k": "inversus"},
   {
     "h": "invert",
     "segs": [
@@ -92750,7 +92750,7 @@
   },
   {"h": "inverting input", "segs": [{"k": "m", "t": "đầu vào đảo ngược."}], "k": "inverting input"},
   {"h": "invertor", "segs": [{"k": "m", "t": "bộ đổi điện; bộ đảo; bộ biến đổi."}], "k": "invertor"},
-  {"h": "invertose", "segs": [{"k": "m", "t": "Ðường nghịch chuyển."}], "k": "invertose"},
+  {"h": "invertose", "segs": [{"k": "m", "t": "Đường nghịch chuyển."}], "k": "invertose"},
   {
     "h": "invest",
     "segs": [
@@ -93103,7 +93103,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sự phong chức các cấp bậc trong giáo hội. Ðó là luật giành cho những chức sắc trong giáo hội khi nhận nhiệm vụ, sẽ có những tài sản và thu nhập. Vào thời Trung cổ, nhà vua phong chức cho các Giám mục. Họ nhận được những quyền lực về tinh thần cùng với tài sản do vua cấp."
+        "t": "sự phong chức các cấp bậc trong giáo hội. Đó là luật giành cho những chức sắc trong giáo hội khi nhận nhiệm vụ, sẽ có những tài sản và thu nhập. Vào thời Trung cổ, nhà vua phong chức cho các Giám mục. Họ nhận được những quyền lực về tinh thần cùng với tài sản do vua cấp."
       },
       {
         "k": "m",
@@ -93115,7 +93115,7 @@
       },
       {
         "k": "m",
-        "t": "Ðặc biệt là sự xung đột gay gắt ở Ðức, khi hoàng đế Henry IV và Giáo hội đều mở chiến dịch tuyên truyền và vận hành lợi thế ngoại giao để hai bên hạ bệ lẫn nhau, do đó nội chiến nước Ðức bùng nổ, cho đến khi có hội nghị hòa giải ở Worms (1122) giữa Giáo hoàng Calixtus II và vua Henry V, thì hòa bình được lập lại. Nhà vua bãi bỏ việc phong chức, nhưng vẫn giữ quyền kiểm soát và quyền bổ nhiệm các Giám mục."
+        "t": "Đặc biệt là sự xung đột gay gắt ở Đức, khi hoàng đế Henry IV và Giáo hội đều mở chiến dịch tuyên truyền và vận hành lợi thế ngoại giao để hai bên hạ bệ lẫn nhau, do đó nội chiến nước Đức bùng nổ, cho đến khi có hội nghị hòa giải ở Worms (1122) giữa Giáo hoàng Calixtus II và vua Henry V, thì hòa bình được lập lại. Nhà vua bãi bỏ việc phong chức, nhưng vẫn giữ quyền kiểm soát và quyền bổ nhiệm các Giám mục."
       },
       {
         "k": "m",
@@ -93127,7 +93127,7 @@
   {
     "h": "investiture controversy",
     "segs": [
-      {"k": "m", "t": "vụ tranh cãi về quyền chỉ định giáo chức (giữa ÐHG và hoàng đế, tk 11-12)."}
+      {"k": "m", "t": "vụ tranh cãi về quyền chỉ định giáo chức (giữa ĐHG và hoàng đế, tk 11-12)."}
     ],
     "k": "investiture controversy"
   },
@@ -94607,7 +94607,7 @@
       {
         "k": "ex",
         "t": "Cover the jam! It's sure to invite the gasps",
-        "vi": "Ðậy mứt lại! Ðể vậy là khêu gợi lũ ong đến đấy!"
+        "vi": "Đậy mứt lại! Để vậy là khêu gợi lũ ong đến đấy!"
       },
       {
         "k": "ex",
@@ -95293,7 +95293,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ánh xạ đối hợp. Một ánh xạ N = F (M) sẽ gọi là đối hợp nếu ánh xạ đảo ngược M = F-1 (N) đồng nhất với F: F-1 ( F. Ví dụ: các phép đối xứng, nghịch đảo là những AXÐH."
+        "t": "ánh xạ đối hợp. Một ánh xạ N = F (M) sẽ gọi là đối hợp nếu ánh xạ đảo ngược M = F-1 (N) đồng nhất với F: F-1 ( F. Ví dụ: các phép đối xứng, nghịch đảo là những AXĐH."
       }
     ],
     "k": "involutive application"

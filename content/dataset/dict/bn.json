@@ -17,24 +17,24 @@
   {
     "h": "BNC Connector",
     "segs": [
-      {"k": "m", "t": "Ðầu nối BNC"},
+      {"k": "m", "t": "Đầu nối BNC"},
       {
         "k": "m",
         "t": "Các đầu nối BNC dùng để kềt nối, mở rộng hay giới hạn các mạng cáp đồng trục như Ethernet hay ARCNET. BNC có nhiều loại đầu nối khác nhau như đầu nối hình chữ T (BNC T-connector), đầu nối thùng tròn (BNC barrel connector) và đầu cuối (BNC terminator)."
       },
       {
         "k": "m",
-        "t": "Ðầu nối BNC gắn trực tiếp vào cáp đồng trục. Nó có một pin trung tâm để gắn vào giữa dây cáp và một vỏ ngoài để gắn vào lớp bảo vệ dây. Các đầu nối BNC được tra vào hai đầu của đầu nối hình chữ T, sau đó vặn 90 độ để khóa cố định chúng lại."
+        "t": "Đầu nối BNC gắn trực tiếp vào cáp đồng trục. Nó có một pin trung tâm để gắn vào giữa dây cáp và một vỏ ngoài để gắn vào lớp bảo vệ dây. Các đầu nối BNC được tra vào hai đầu của đầu nối hình chữ T, sau đó vặn 90 độ để khóa cố định chúng lại."
       },
       {
         "k": "m",
-        "t": "Ðầu nối hình chữ T có một đầu gắn vào cạc giao tiếp mạng. Các nhánh cáp từ hai đầu còn lại của chữ T sẽ đi đến các trạm kế tiếp."
+        "t": "Đầu nối hình chữ T có một đầu gắn vào cạc giao tiếp mạng. Các nhánh cáp từ hai đầu còn lại của chữ T sẽ đi đến các trạm kế tiếp."
       },
       {
         "k": "m",
-        "t": "Ðầu cuối BNC có một điện trở dùng để kết thúc cáp đồng trục. Mỗi đầu cáp đồng trục cần có một đầu cuối, và mỗi đầu cũng cần một viên chì tiếp đất."
+        "t": "Đầu cuối BNC có một điện trở dùng để kết thúc cáp đồng trục. Mỗi đầu cáp đồng trục cần có một đầu cuối, và mỗi đầu cũng cần một viên chì tiếp đất."
       },
-      {"k": "m", "t": "Ðầu nối barrel dùng để gắn hai đoạn cáp lại với nhau."},
+      {"k": "m", "t": "Đầu nối barrel dùng để gắn hai đoạn cáp lại với nhau."},
       {"k": "m", "t": "Xem thêm Ethernet, Transmission Media, Methods, and Equipment."}
     ],
     "k": "bnc connector"

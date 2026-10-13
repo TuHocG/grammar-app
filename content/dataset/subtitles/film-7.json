@@ -27,7 +27,7 @@
     {
       "e": 38.89,
       "en": "Here. Why don't you wear this purple shirt?",
-      "vi": "Ðây. Sao cậu không mặc cái áo sơ mi đỏ tía này?",
+      "vi": "Đây. Sao cậu không mặc cái áo sơ mi đỏ tía này?",
       "s": 35.32
     },
     {
@@ -157,7 +157,7 @@
     {
       "e": 174.46,
       "en": "OK, waiter! We'll have 2 waters.",
-      "vi": "Ðược thôi, này anh phục vụ! Cho chúng tôi hai ly nước lọc.",
+      "vi": "Được thôi, này anh phục vụ! Cho chúng tôi hai ly nước lọc.",
       "s": 171.14
     },
     {
@@ -304,7 +304,7 @@
       "vi": "Sao chúng ta không xem phim \"Kẻ phá hoại\" chứ?",
       "s": 304.8
     },
-    {"e": 329.83, "en": "OK.", "vi": "Ðược đấy.", "s": 309.77},
+    {"e": 329.83, "en": "OK.", "vi": "Được đấy.", "s": 309.77},
     {
       "e": 332.07,
       "en": "Hello, Mr. Brown's office.",
@@ -326,7 +326,7 @@
       "vi": "À... tôi nghĩ ông ấy đang họp.",
       "s": 341.42
     },
-    {"e": 345.19, "en": "In a meeting?", "vi": "Ðang họp à?", "s": 344.21},
+    {"e": 345.19, "en": "In a meeting?", "vi": "Đang họp à?", "s": 344.21},
     {"e": 346.81, "en": "Yes, I think so.", "vi": "Vâng, tôi nghĩ thế.", "s": 345.19},
     {
       "e": 349.22,
@@ -335,7 +335,7 @@
       "s": 346.81
     },
     {"e": 350.69, "en": "Yes, I think so.", "vi": "Vâng, tôi nghĩ thế.", "s": 349.22},
-    {"e": 352.52, "en": "OK. Well, thank you.", "vi": "Ðược rồi, cảm ơn cô nhé.", "s": 350.69},
+    {"e": 352.52, "en": "OK. Well, thank you.", "vi": "Được rồi, cảm ơn cô nhé.", "s": 350.69},
     {"e": 353.42, "en": "You're welcome.", "vi": "Không có chi.", "s": 352.52},
     {"e": 368.01, "en": "...", "vi": "...", "s": 353.42},
     {"e": 369.57, "en": "Come in.", "vi": "Xin mời vào.", "s": 368.01},
@@ -362,12 +362,12 @@
     {"e": 381.66, "en": "Why not?", "vi": "Sao lại không?", "s": 380.63},
     {"e": 383.4, "en": "My nails are wet.", "vi": "Móng tay của tôi còn ướt.", "s": 381.66},
     {"e": 386.43, "en": "Can I check?", "vi": "Tôi có thể kiểm tra được không?", "s": 383.4},
-    {"e": 387.35, "en": "Sure!", "vi": "Ðược chứ!", "s": 386.43},
+    {"e": 387.35, "en": "Sure!", "vi": "Được chứ!", "s": 386.43},
     {"e": 391.78, "en": "Thanks.", "vi": "Cảm ơn cô.", "s": 387.35},
     {
       "e": 396.54,
       "en": "Yes, he does have a meeting tomorrow. Thanks, Sheila.",
-      "vi": "Ðúng rồi, quả thật ngày mai ông ấy có một cuộc họp. Cảm ơn Sheila.",
+      "vi": "Đúng rồi, quả thật ngày mai ông ấy có một cuộc họp. Cảm ơn Sheila.",
       "s": 391.78
     },
     {
@@ -416,7 +416,7 @@
     {
       "e": 468.76,
       "en": "Sure, Mr. Brown. Just a moment.",
-      "vi": "Ðược ạ, thưa ông brown. Chỉ một lát thôi.",
+      "vi": "Được ạ, thưa ông brown. Chỉ một lát thôi.",
       "s": 466.35
     },
     {"e": 476.94, "en": "Hello? Sheila?", "vi": "Xin chào, Sheila đấy à?", "s": 468.76},

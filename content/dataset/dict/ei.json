@@ -9,7 +9,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: là xứ nóng, ẩm ướt, đồng bằng ở bờ biển thì dốc, có những miệng núi lửa và hồ nước, nạn động đất thường xảy ra."
+        "t": "Địa hình: là xứ nóng, ẩm ướt, đồng bằng ở bờ biển thì dốc, có những miệng núi lửa và hồ nước, nạn động đất thường xảy ra."
       },
       {
         "k": "m",
@@ -17,12 +17,12 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: El Salvador được Tây Ban Nha trả lại độc lập năm 1821. Ðến năm 1824, gia nhập vào \"Những tỉnh liên hiệp ở Trung Mỹ\" rồi trở thành nước El Salvador cộng hòa độc lập (1839). Những cuộc đấu tranh nội bộ giữa đảng tự do và đảng cộng hòa và một loạt các vụ xung đột ở biên giới đã làm giảm tốc độ phát triển kinh tế ở thế kỷ 19. Lịch sử thế kỷ 20 của El Salvador là các tổng tư lệnh như Oscar Osorio (1950-1956) và José M. Lemus (1956-1960) tỏ ra yếu kém về cải cách xã hội. Cuộc cách mạng Cu ba của Fidal Castro và hoạt động du kích cánh tả ở vùng Trung Mỹ đã đẩy quân đội Salvadore dần về phía hữu. Những biện pháp nhân quyền của quân đội suốt thập niên 1970 và 1980 làm nảy sinh những người tỵ nạn. Dưới triều đại tổng thống Christiani (1989) đã có những cuộc điều đình với du kích cánh tả. Sau đó, tổng thư ký Liên Hiệp Quốc Pérez de Cuéllar đỡ đầu cho cuộc thương thuyết hòa bình (1991) và đạt được thỏa thuận 1992. Du kích cánh tả thừa nhận đảng chính trị và tham gia vào cuộc bầu cử 1994. Họ đã giành được một ít địa vị. Ðảng cộng hòa của tổng thống Armando Calderon Sol đã chiếm đa số ghế trong quốc hội. Năm 1995, chính phủ tuyên bố kế hoạch cải cách kinh tế."
+        "t": "Lịch sử: El Salvador được Tây Ban Nha trả lại độc lập năm 1821. Đến năm 1824, gia nhập vào \"Những tỉnh liên hiệp ở Trung Mỹ\" rồi trở thành nước El Salvador cộng hòa độc lập (1839). Những cuộc đấu tranh nội bộ giữa đảng tự do và đảng cộng hòa và một loạt các vụ xung đột ở biên giới đã làm giảm tốc độ phát triển kinh tế ở thế kỷ 19. Lịch sử thế kỷ 20 của El Salvador là các tổng tư lệnh như Oscar Osorio (1950-1956) và José M. Lemus (1956-1960) tỏ ra yếu kém về cải cách xã hội. Cuộc cách mạng Cu ba của Fidal Castro và hoạt động du kích cánh tả ở vùng Trung Mỹ đã đẩy quân đội Salvadore dần về phía hữu. Những biện pháp nhân quyền của quân đội suốt thập niên 1970 và 1980 làm nảy sinh những người tỵ nạn. Dưới triều đại tổng thống Christiani (1989) đã có những cuộc điều đình với du kích cánh tả. Sau đó, tổng thư ký Liên Hiệp Quốc Pérez de Cuéllar đỡ đầu cho cuộc thương thuyết hòa bình (1991) và đạt được thỏa thuận 1992. Du kích cánh tả thừa nhận đảng chính trị và tham gia vào cuộc bầu cử 1994. Họ đã giành được một ít địa vị. Đảng cộng hòa của tổng thống Armando Calderon Sol đã chiếm đa số ghế trong quốc hội. Năm 1995, chính phủ tuyên bố kế hoạch cải cách kinh tế."
       },
       {"k": "m", "t": "Thủ đô: San Salvador."},
       {"k": "m", "t": "Diện tích: 21.041km2"},
       {"k": "m", "t": "Dân số: 5,897 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Colon."},
+      {"k": "m", "t": "Tiền tệ: Đồng Colon."},
       {"k": "m", "t": "Tôn giáo: Thiên Chúa giáo La Mã 92,4%."},
       {"k": "m", "t": "Sắc tộc: Mestizo 90%."},
       {"k": "m", "t": "Ngôn ngữ: Tây Ban Nha."},
@@ -42,7 +42,7 @@
   },
   {
     "h": "EIA interface",
-    "segs": [{"k": "m", "t": "(kỹ thuật) giao diện theo tiêu chuẩn EIA (Hội Kỹ nghệ Ðiện tử)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) giao diện theo tiêu chuẩn EIA (Hội Kỹ nghệ Điện tử)."}],
     "k": "eia interface"
   },
   {"h": "EIA unit", "segs": [{"k": "m", "t": "đơn vị EIA (bằng 44, 45 mm)."}], "k": "eia unit"},
@@ -762,7 +762,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1897-1955). Ông sinh ra ở Ðức, là nhà toán học vật lý có liên quan đến không gian, thời gian và thiên nhiên. Ông nghiên cứu ở Thụy Sĩ. Năm 1905, ông tìm ra thuyết lượng tử. Năm 1921, ông được nhận giải Nobel về vật lý. Năm 1905, ông xuất bản tờ báo nói về thuyết tương đối. Ðây là những căn bản cho việc nghiên cứu năng lượng giải phóng phản ứng hạt nhân. Ông mở rộng về lý thuyết tương đối xuất bản năm 1915, có liên quan đến thuyết trọng lực. Năm 1913, ông trở về Ðức và làm giáo sư ở Berlin. Vì là người Do Thái, nên ông bị trục xuất khỏi nước Ðức vào năm 1932. Sau một thời gian ngắn, ông sinh sống ở Anh. Cuối cùng ông định cư ở Mỹ và nhập quốc tịch Mỹ. Năm 1939, ông gửi cho tổng thống Roosevelt một bức thư vô cùng ý nghĩa. Ông phác họa tính ưu việt của hạt nhân và sự nguy hiểm của đảng Nazi trong địa hạt này. Bức thư đã ảnh hưởng lớn đến việc chế tạo bom nguyên tử, nhưng việc dùng nó làm ông hối hận."
+        "t": "(1897-1955). Ông sinh ra ở Đức, là nhà toán học vật lý có liên quan đến không gian, thời gian và thiên nhiên. Ông nghiên cứu ở Thụy Sĩ. Năm 1905, ông tìm ra thuyết lượng tử. Năm 1921, ông được nhận giải Nobel về vật lý. Năm 1905, ông xuất bản tờ báo nói về thuyết tương đối. Đây là những căn bản cho việc nghiên cứu năng lượng giải phóng phản ứng hạt nhân. Ông mở rộng về lý thuyết tương đối xuất bản năm 1915, có liên quan đến thuyết trọng lực. Năm 1913, ông trở về Đức và làm giáo sư ở Berlin. Vì là người Do Thái, nên ông bị trục xuất khỏi nước Đức vào năm 1932. Sau một thời gian ngắn, ông sinh sống ở Anh. Cuối cùng ông định cư ở Mỹ và nhập quốc tịch Mỹ. Năm 1939, ông gửi cho tổng thống Roosevelt một bức thư vô cùng ý nghĩa. Ông phác họa tính ưu việt của hạt nhân và sự nguy hiểm của đảng Nazi trong địa hạt này. Bức thư đã ảnh hưởng lớn đến việc chế tạo bom nguyên tử, nhưng việc dùng nó làm ông hối hận."
       }
     ],
     "k": "einstein albert"
@@ -923,7 +923,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(chủ nghĩa Eisenhower) Một chính sách đối ngoại của Eisenhower (Mỹ). Năm 1957, sau cuộc chiến Suez được quốc hội chấp thuận. Ðó là nguồn viện trợ kinh tế và hỗ trợ quân sự cho các nước Trung Ðông đang bị đe dọa. Năm 1958, Mỹ đã gửi 10.000 quân lính đến Lebanon khi nơi này lo sợ cuộc cách mạng của người Hồi Giáo."
+        "t": "(chủ nghĩa Eisenhower) Một chính sách đối ngoại của Eisenhower (Mỹ). Năm 1957, sau cuộc chiến Suez được quốc hội chấp thuận. Đó là nguồn viện trợ kinh tế và hỗ trợ quân sự cho các nước Trung Đông đang bị đe dọa. Năm 1958, Mỹ đã gửi 10.000 quân lính đến Lebanon khi nơi này lo sợ cuộc cách mạng của người Hồi Giáo."
       }
     ],
     "k": "eisenhower doctrine"
@@ -958,7 +958,7 @@
   {"h": "eisteinium", "segs": [{"k": "m", "t": "ensiteni (Es)."}], "k": "eisteinium"},
   {
     "h": "eiswein",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "rượu nho ngọt của Ðức."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "rượu nho ngọt của Đức."}],
     "ipa": "'aisvain",
     "k": "eiswein"
   },

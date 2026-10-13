@@ -11,13 +11,13 @@
     {
       "e": 13.63,
       "en": "Hello. My name is Paola. I'm Italian, and I'm a student of photography. This is my friend, David.",
-      "vi": "Xin chào. Tôi là Paola. Tôi là người Ý và tôi là sinh viên ngành ảnh. Ðây là bạn tôi, anh David.",
+      "vi": "Xin chào. Tôi là Paola. Tôi là người Ý và tôi là sinh viên ngành ảnh. Đây là bạn tôi, anh David.",
       "s": 5.5
     },
     {
       "e": 18.94,
       "en": "Hi. I'm a journalist. I'm from Bath, but I'm here with Paola in London.",
-      "vi": "Xin chào. Tôi là nhà báo. Tôi ở Bath, nhưng tôi đến đây với Paola ở Luân Ðôn.",
+      "vi": "Xin chào. Tôi là nhà báo. Tôi ở Bath, nhưng tôi đến đây với Paola ở Luân Đôn.",
       "s": 13.63
     },
     {
@@ -26,7 +26,7 @@
       "vi": "Chúng tôi đang ở nóc nhà thờ Thánh Paul giữa trung tâm thành phố.",
       "s": 18.94
     },
-    {"e": 28.45, "en": "Come on.", "vi": "Ði nào.", "s": 22.72},
+    {"e": 28.45, "en": "Come on.", "vi": "Đi nào.", "s": 22.72},
     {
       "e": 30.73,
       "en": "No, Paola, an English one.",
@@ -37,7 +37,7 @@
     {
       "e": 36.76,
       "en": "OK. Italian for you. English for me. OK.",
-      "vi": "Ðược rồi. Bạn xem tiếng Ý, còn tôi tiếng Anh. ừ.",
+      "vi": "Được rồi. Bạn xem tiếng Ý, còn tôi tiếng Anh. ừ.",
       "s": 32.68
     },
     {
@@ -50,7 +50,7 @@
     {
       "e": 47.0,
       "en": "It's a map of London - in a book.",
-      "vi": "Nó là bản đồ Luân Ðôn dạng sách.",
+      "vi": "Nó là bản đồ Luân Đôn dạng sách.",
       "s": 44.63
     },
     {"e": 50.2, "en": "That's four pounds, forty-five, please.", "vi": "Dạ 4,45 Bảng.", "s": 47.0},
@@ -64,15 +64,15 @@
     {"e": 68.55, "en": "...", "vi": "...", "s": 56.97},
     {"e": 69.71, "en": "Adult single.", "vi": "Một người lớn.", "s": 68.55},
     {"e": 72.32, "en": "Please, select the destination.", "vi": "Xin chọn nơi đến.", "s": 69.71},
-    {"e": 73.52, "en": "Tower Hill.", "vi": "Ðồi Tháp", "s": 72.32},
+    {"e": 73.52, "en": "Tower Hill.", "vi": "Đồi Tháp", "s": 72.32},
     {"e": 77.6, "en": "Oh, that's expensive, isn't it?", "vi": "Ồ đắt quá phải không?", "s": 73.52},
-    {"e": 80.41, "en": "Well, this is London.", "vi": "Luân Ðôn mà.", "s": 77.6},
+    {"e": 80.41, "en": "Well, this is London.", "vi": "Luân Đôn mà.", "s": 77.6},
     {"e": 157.87, "en": "...", "vi": "...", "s": 80.41},
-    {"e": 160.75, "en": "Oh, London Bridge!", "vi": "Cầu Luân Ðôn kìa!", "s": 157.87},
+    {"e": 160.75, "en": "Oh, London Bridge!", "vi": "Cầu Luân Đôn kìa!", "s": 157.87},
     {
       "e": 164.13,
       "en": "It isn't London Bridge, it's Tower Bridge!",
-      "vi": "Không phải cầu Lâun Ðôn đâu, Cầu Tháp đó!",
+      "vi": "Không phải cầu Lâun Đôn đâu, Cầu Tháp đó!",
       "s": 160.75
     },
     {
@@ -174,7 +174,7 @@
     {
       "e": 442.08,
       "en": "This is the Bluebell Railway.",
-      "vi": "Ðây là nhà ga Bluebell.",
+      "vi": "Đây là nhà ga Bluebell.",
       "s": 439.62
     },
     {"e": 444.25, "en": "It's a private railway.", "vi": "Nó là ga tư nhân.", "s": 442.08},
@@ -285,7 +285,7 @@
     {
       "e": 541.15,
       "en": "Exactly. Then we drive them.",
-      "vi": "Ðúng. Chúng tôi điều khiển chúng.",
+      "vi": "Đúng. Chúng tôi điều khiển chúng.",
       "s": 539.53
     },
     {"e": 552.68, "en": "...", "vi": "...", "s": 541.15},
@@ -415,13 +415,13 @@
     {
       "e": 772.19,
       "en": "This is Paola, my friend from Italy.",
-      "vi": "Ðây là Paola, bạn tôi, ở Ý.",
+      "vi": "Đây là Paola, bạn tôi, ở Ý.",
       "s": 769.81
     },
     {
       "e": 774.12,
       "en": "This is John, an old schoolfriend.",
-      "vi": "Ðây là John, bạn học cũ.",
+      "vi": "Đây là John, bạn học cũ.",
       "s": 772.19
     },
     {"e": 775.0, "en": "Pleased to meet you.", "vi": "Rất vui được gặp cô.", "s": 774.12},
@@ -437,7 +437,7 @@
     {
       "e": 784.25,
       "en": "Can I get you another drink, Paola?",
-      "vi": "Ðể tôi lấy thức uống cho cô nhé Paola?",
+      "vi": "Để tôi lấy thức uống cho cô nhé Paola?",
       "s": 781.47
     },
     {
@@ -562,7 +562,7 @@
     {
       "e": 955.49,
       "en": "The first people to fly across the Atlantic were Alcock and Brown in 1919.",
-      "vi": "Người đầu tiên bay qua Ðại Tây Dương là Alcock sinh năm 1919.",
+      "vi": "Người đầu tiên bay qua Đại Tây Dương là Alcock sinh năm 1919.",
       "s": 948.32
     },
     {
@@ -586,7 +586,7 @@
     {
       "e": 970.68,
       "en": "By the Second World War planes could fly to any country in the world,",
-      "vi": "Ðến đệ nhị thế chiến, máy bay đã có thể bay đến mọi nơi trên thế giới.",
+      "vi": "Đến đệ nhị thế chiến, máy bay đã có thể bay đến mọi nơi trên thế giới.",
       "s": 965.83
     },
     {
@@ -604,7 +604,7 @@
     {
       "e": 982.81,
       "en": "but only fifteen miles from the centre of London.",
-      "vi": "nhưng chỉ cách Luân Ðôn 15 dặm.",
+      "vi": "nhưng chỉ cách Luân Đôn 15 dặm.",
       "s": 980.02
     },
     {
@@ -634,7 +634,7 @@
     {
       "e": 1007.52,
       "en": "By 1950, Heathrow was the busiest airport in Europe.",
-      "vi": "Ðến năm 1950, Heathrow đã trở thành sân bay lớn nhất châu Âu.",
+      "vi": "Đến năm 1950, Heathrow đã trở thành sân bay lớn nhất châu Âu.",
       "s": 1002.45
     },
     {
@@ -664,13 +664,13 @@
     {
       "e": 1029.58,
       "en": "By 1980, there were twenty-seven million.",
-      "vi": "Ðến năm 1980 là 27 triệu.",
+      "vi": "Đến năm 1980 là 27 triệu.",
       "s": 1025.6
     },
     {
       "e": 1041.43,
       "en": "Now over forty-two million passengers use Heathrow every year.",
-      "vi": "Ðến bây giờ thì mỗi năm có 42 triệu hành khách dùng sân bay Heathrow.",
+      "vi": "Đến bây giờ thì mỗi năm có 42 triệu hành khách dùng sân bay Heathrow.",
       "s": 1029.58
     },
     {
@@ -719,7 +719,7 @@
     {
       "e": 1084.54,
       "en": "This is one of the airport's duty-free shops.",
-      "vi": "Ðây là một trong những cửa hàng miễn thuế của sân bay.",
+      "vi": "Đây là một trong những cửa hàng miễn thuế của sân bay.",
       "s": 1079.84
     },
     {
@@ -787,7 +787,7 @@
     {
       "e": 1141.36,
       "en": "This is the flight deck of a Boeing 747, a jumbo jet.",
-      "vi": "Ðây là buồng lái chiếc Boeing 747, một phản lực cơ.",
+      "vi": "Đây là buồng lái chiếc Boeing 747, một phản lực cơ.",
       "s": 1136.48
     },
     {
@@ -805,10 +805,10 @@
     {
       "e": 1156.88,
       "en": "These planes can fly non-stop from London to Tokyo.",
-      "vi": "Những máy bay này có thể bay không ngừng nghỉ từ Luân Ðôn tới Tokyo.",
+      "vi": "Những máy bay này có thể bay không ngừng nghỉ từ Luân Đôn tới Tokyo.",
       "s": 1152.92
     },
-    {"e": 1158.94, "en": "So, let's go!", "vi": "Ði nào!", "s": 1156.88},
+    {"e": 1158.94, "en": "So, let's go!", "vi": "Đi nào!", "s": 1156.88},
     {"e": 1189.31, "en": "...", "vi": "...", "s": 1158.94},
     {"e": 1191.31, "en": "Well, that was easy!", "vi": "Ồ thật là dễ dàng!", "s": 1189.31},
     {
@@ -846,7 +846,7 @@
     {
       "e": 1230.19,
       "en": "Take the first left, then the second right.",
-      "vi": "Ðầu tiên quẹo trái rồi kế đến quẹo phải.",
+      "vi": "Đầu tiên quẹo trái rồi kế đến quẹo phải.",
       "s": 1226.52
     },
     {
@@ -855,7 +855,7 @@
       "vi": "và nó đối diện với khu cửa hàng à?",
       "s": 1230.19
     },
-    {"e": 1234.36, "en": "That's right.", "vi": "Ðúng vậy.", "s": 1233.27},
+    {"e": 1234.36, "en": "That's right.", "vi": "Đúng vậy.", "s": 1233.27},
     {"e": 1235.5, "en": "Thank you very much.", "vi": "Cảm ơn nhiều nhé.", "s": 1234.36},
     {"e": 1236.39, "en": "Thanks.", "vi": "Cảm ơn.", "s": 1235.5},
     {"e": 1238.17, "en": "Well done!", "vi": "Xong rồi!", "s": 1236.39},
@@ -866,7 +866,7 @@
       "vi": "Tôi có thể lấy tiền trong thẻ không vậy?",
       "s": 1262.12
     },
-    {"e": 1267.0, "en": "Certainly.", "vi": "Ðược chứ.", "s": 1265.18},
+    {"e": 1267.0, "en": "Certainly.", "vi": "Được chứ.", "s": 1265.18},
     {"e": 1271.49, "en": "Oh, please sign them.", "vi": "Xin ký vào đây.", "s": 1267.0},
     {
       "e": 1275.97,
@@ -898,7 +898,7 @@
     {"e": 1321.44, "en": "Check your bag again.", "vi": "Tìm kỹ lại cái túi xem.", "s": 1316.64},
     {"e": 1331.26, "en": "Here it is!", "vi": "Nó đây rồi!", "s": 1321.44},
     {"e": 1333.76, "en": "Come on, Paola, wake up!", "vi": "Tỉnh táo đi, Paola!", "s": 1331.26},
-    {"e": 1337.31, "en": "That's fine,", "vi": "Ðược rồi,", "s": 1333.76},
+    {"e": 1337.31, "en": "That's fine,", "vi": "Được rồi,", "s": 1333.76},
     {"e": 1338.9, "en": "Can I see it?", "vi": "Cho tôi xem được không?", "s": 1337.31},
     {"e": 1340.34, "en": "No, you can't!", "vi": "Không được đâu!", "s": 1338.9},
     {
@@ -948,7 +948,7 @@
       "vi": "Nhưng chính xác William Shakespeare là ai?",
       "s": 1388.79
     },
-    {"e": 1394.57, "en": "That is the question!", "vi": "Ðó là một câu hỏi!", "s": 1392.16},
+    {"e": 1394.57, "en": "That is the question!", "vi": "Đó là một câu hỏi!", "s": 1392.16},
     {
       "e": 1404.39,
       "en": "Shakespeare was born in this house in Stratford-upon-Avon on 23 April, 1564.",
@@ -1080,7 +1080,7 @@
     {
       "e": 1511.53,
       "en": "We don't know why he gave up a good job in his father's business and moved to London.",
-      "vi": "Chúng tôi không biết tại sao ông ta lại bỏ việc kinh doanh ngon lành với cha ông để chuyển đến Luân Ðôn.",
+      "vi": "Chúng tôi không biết tại sao ông ta lại bỏ việc kinh doanh ngon lành với cha ông để chuyển đến Luân Đôn.",
       "s": 1506.81
     },
     {
@@ -1111,19 +1111,19 @@
     {
       "e": 1543.02,
       "en": "The Globe - here in the centre of London.",
-      "vi": "The Globe ở đây giữa Luân Ðôn.",
+      "vi": "The Globe ở đây giữa Luân Đôn.",
       "s": 1540.04
     },
     {
       "e": 1546.0,
       "en": "It was one of London's first theatres.",
-      "vi": "Nó là một trong những rạp hát đầu tiên ở Luân Ðôn.",
+      "vi": "Nó là một trong những rạp hát đầu tiên ở Luân Đôn.",
       "s": 1543.02
     },
     {
       "e": 1548.76,
       "en": "This is the new Globe Theatre.",
-      "vi": "Ðây là rạp Globe mới.",
+      "vi": "Đây là rạp Globe mới.",
       "s": 1546.0
     },
     {
@@ -1141,13 +1141,13 @@
     {
       "e": 1563.0,
       "en": "OK in Rome - not such a good idea in cold, rainy London!",
-      "vi": "ở La Mã thì được chứ lạnh và mưa như Luân Ðôn thì không được.",
+      "vi": "ở La Mã thì được chứ lạnh và mưa như Luân Đôn thì không được.",
       "s": 1557.37
     },
     {
       "e": 1565.99,
       "en": "The people of London loved going to the theatre.",
-      "vi": "Dân Luân Ðôn thích đi xem hát.",
+      "vi": "Dân Luân Đôn thích đi xem hát.",
       "s": 1563.0
     },
     {
@@ -1183,7 +1183,7 @@
     {
       "e": 1589.72,
       "en": "It often rained in London then, too.",
-      "vi": "Luân Ðôn cũng thường có mưa.",
+      "vi": "Luân Đôn cũng thường có mưa.",
       "s": 1586.57
     },
     {
@@ -1196,7 +1196,7 @@
     {
       "e": 1616.16,
       "en": "In 1610, after about twenty- five years in London, Shakespeare came back here to Stratford.",
-      "vi": "Năm 1610, sau khi sống 25 năm ở Luân Ðôn, Shakespeare trở về đây Stratford.",
+      "vi": "Năm 1610, sau khi sống 25 năm ở Luân Đôn, Shakespeare trở về đây Stratford.",
       "s": 1609.33
     },
     {
@@ -1244,7 +1244,7 @@
     {
       "e": 1656.93,
       "en": "This is his house, right here.",
-      "vi": "Ðây là nhà của ông. Chính tại nơi này",
+      "vi": "Đây là nhà của ông. Chính tại nơi này",
       "s": 1654.25
     },
     {
@@ -1288,7 +1288,7 @@
     {
       "e": 1679.13,
       "en": "No I'll take a guess... Guinevere?",
-      "vi": "Không. Ðể tôi đoán thử... Guinevere phải không?",
+      "vi": "Không. Để tôi đoán thử... Guinevere phải không?",
       "s": 1675.49
     },
     {"e": 1680.18, "en": "Nearly.", "vi": "Gần đúng.", "s": 1679.13},
@@ -1329,7 +1329,7 @@
     {
       "e": 1708.67,
       "en": "This is the Swan Theatre, which is like a theatre from Shakespeare's day.",
-      "vi": "Ðây là rạp Thiên Nga. Nó giống rạp thời Shakespeare.",
+      "vi": "Đây là rạp Thiên Nga. Nó giống rạp thời Shakespeare.",
       "s": 1703.2
     },
     {
@@ -1431,7 +1431,7 @@
       "vi": "Các bạn uống gì không?",
       "s": 1816.74
     },
-    {"e": 1818.97, "en": "Let me get them.", "vi": "Ðể tôi hỏi họ xem.", "s": 1818.18},
+    {"e": 1818.97, "en": "Let me get them.", "vi": "Để tôi hỏi họ xem.", "s": 1818.18},
     {
       "e": 1822.12,
       "en": "No, no. Paola? Mm, I don't know. What is there?",
@@ -1441,7 +1441,7 @@
     {
       "e": 1824.39,
       "en": "Come to the bar with me. Then you can choose.",
-      "vi": "Ðến quán với tôi nhé. Tha hồ chọn.",
+      "vi": "Đến quán với tôi nhé. Tha hồ chọn.",
       "s": 1822.12
     },
     {"e": 1825.38, "en": "David?", "vi": "Còn David?", "s": 1824.39},
@@ -1471,7 +1471,7 @@
     },
     {"e": 1833.1, "en": "What flavour?", "vi": "Thêm gì nữa không?", "s": 1832.05},
     {"e": 1834.62, "en": "Cheese and onion.", "vi": "Phô mai và hành.", "s": 1833.1},
-    {"e": 1840.94, "en": "Right. Paola.", "vi": "Ðược rồi, còn Paola.", "s": 1834.62},
+    {"e": 1840.94, "en": "Right. Paola.", "vi": "Được rồi, còn Paola.", "s": 1834.62},
     {
       "e": 1842.28,
       "en": "Soil drinks are there.",
@@ -1487,7 +1487,7 @@
     {
       "e": 1848.32,
       "en": "Lager and bitter, basically.",
-      "vi": "Chủ yếu là bia Ðức và bia đen.",
+      "vi": "Chủ yếu là bia Đức và bia đen.",
       "s": 1846.58
     },
     {"e": 1849.7, "en": "What's bitter?", "vi": "\"bitter\" là sao?", "s": 1848.32},
@@ -1497,13 +1497,13 @@
     {
       "e": 1856.92,
       "en": "It's beer, but not fizzy like lager.",
-      "vi": "Nó là bia nhưng không sủi bọt như bia Ðức.",
+      "vi": "Nó là bia nhưng không sủi bọt như bia Đức.",
       "s": 1854.08
     },
     {
       "e": 1864.08,
       "en": "It's not cold! A lager, please.",
-      "vi": "Nó không lạnh! Cho một ly bia Ðức.",
+      "vi": "Nó không lạnh! Cho một ly bia Đức.",
       "s": 1856.92
     },
     {"e": 1865.2, "en": "Half a pint?", "vi": "Nửa panh nhé?", "s": 1864.08},
@@ -1672,13 +1672,13 @@
     {
       "e": 2019.52,
       "en": "It grows naturally in China and india.",
-      "vi": "Nó mọc tự nhiên ở Trung Hoa và Ấn Ðộ.",
+      "vi": "Nó mọc tự nhiên ở Trung Hoa và Ấn Độ.",
       "s": 2016.81
     },
     {
       "e": 2025.35,
       "en": "The biggest tea exporters are Sri Lanka, India, China and Kenya.",
-      "vi": "Các nước xuất khẩu trà nhiều nhất thế giới là Sri Lanka, Ấn Ðộ, Trung Hoa và Kenya.",
+      "vi": "Các nước xuất khẩu trà nhiều nhất thế giới là Sri Lanka, Ấn Độ, Trung Hoa và Kenya.",
       "s": 2019.52
     },
     {
@@ -1690,7 +1690,7 @@
     {
       "e": 2032.81,
       "en": "But when did tea first come from the East to the West?",
-      "vi": "Nhưng trà từ Ðông phương du nhập vào Tây phương lúc nào vậy?",
+      "vi": "Nhưng trà từ Đông phương du nhập vào Tây phương lúc nào vậy?",
       "s": 2028.77
     },
     {
@@ -1714,7 +1714,7 @@
     {
       "e": 2056.22,
       "en": "Samuel Pepys, who lived in London at that time, wrote in his diary on Sunday, 25 September, 1660.",
-      "vi": "Samuel Pepys, người sống ở Luân Ðôn vào thời đó, đã viết nhật ký hôm thứ bảy 25-9-1660.",
+      "vi": "Samuel Pepys, người sống ở Luân Đôn vào thời đó, đã viết nhật ký hôm thứ bảy 25-9-1660.",
       "s": 2048.05
     },
     {
@@ -1745,7 +1745,7 @@
     {
       "e": 2106.19,
       "en": "This is the Cuity Sark, the most famous British tea clipper.",
-      "vi": "Ðây là Cuity Sark, một tàu trà cao tốc của Anh nổi tiếng nhất.",
+      "vi": "Đây là Cuity Sark, một tàu trà cao tốc của Anh nổi tiếng nhất.",
       "s": 2101.73
     },
     {
@@ -1757,7 +1757,7 @@
     {
       "e": 2114.87,
       "en": "In the early 1800s the Duchess of Bedford started the tradition of afternoon tea.",
-      "vi": "Ðầu thập niên 1800 bà công tước Bedford đã khởi xướng phong trào uống trà vào cữ chiều.",
+      "vi": "Đầu thập niên 1800 bà công tước Bedford đã khởi xướng phong trào uống trà vào cữ chiều.",
       "s": 2108.68
     },
     {
@@ -1926,7 +1926,7 @@
     {
       "e": 2261.93,
       "en": "I'll just look on the computer and see what's available on that day.",
-      "vi": "Ðể tôi kiểm tra trên máy tính xem ngày đó có được không.",
+      "vi": "Để tôi kiểm tra trên máy tính xem ngày đó có được không.",
       "s": 2258.06
     },
     {
@@ -1992,7 +1992,7 @@
     {
       "e": 2319.16,
       "en": "Oh... Calvetti. That's C-A-L-V-E-double T-l.",
-      "vi": "vâng Calvetti. Ðó là C-A-L-V-E- hai chữ T-l.",
+      "vi": "vâng Calvetti. Đó là C-A-L-V-E- hai chữ T-l.",
       "s": 2309.97
     },
     {
@@ -2079,7 +2079,7 @@
     {
       "e": 2418.7,
       "en": "This is Coventry Cathedral.",
-      "vi": "Ðây là nhà thờ Coventry.",
+      "vi": "Đây là nhà thờ Coventry.",
       "s": 2411.52
     },
     {
@@ -2097,7 +2097,7 @@
     {
       "e": 2430.08,
       "en": "That's why Chris and Lucy are here today.",
-      "vi": "Ðó là lý do hôm nay Chris và Lucy có mặt ở đây.",
+      "vi": "Đó là lý do hôm nay Chris và Lucy có mặt ở đây.",
       "s": 2427.5
     },
     {
@@ -2115,7 +2115,7 @@
     {
       "e": 2442.96,
       "en": "That's two hundred and sixty-four square metres of glass to clean - on each side!",
-      "vi": "Ðó là 264 mét vuông kính phải lau trên mỗi mặt.",
+      "vi": "Đó là 264 mét vuông kính phải lau trên mỗi mặt.",
       "s": 2437.36
     },
     {"e": 2445.28, "en": "That's a lot of glass.", "vi": "Có rất nhiều kính.", "s": 2442.96},
@@ -2158,7 +2158,7 @@
     {
       "e": 2471.25,
       "en": "This is a \"jammer\", and we use it to clip into the rope and slide up the rope.",
-      "vi": "Ðây là cái móc treo, và chúng tôi dùng nó để móc kẹp vào dây thừng và trượt.",
+      "vi": "Đây là cái móc treo, và chúng tôi dùng nó để móc kẹp vào dây thừng và trượt.",
       "s": 2464.42
     },
     {
@@ -2176,7 +2176,7 @@
     {
       "e": 2482.82,
       "en": "This is a helmet. I know that much.",
-      "vi": "Ðây là mũ bảo hiểm. Tôi biết nó rất rõ.",
+      "vi": "Đây là mũ bảo hiểm. Tôi biết nó rất rõ.",
       "s": 2481.06
     },
     {
@@ -2188,7 +2188,7 @@
     {
       "e": 2490.18,
       "en": "This is the most important part of the equipment, the window cleaner.",
-      "vi": "Ðây là thiết bị quan trọng nhất, đồ lau kính.",
+      "vi": "Đây là thiết bị quan trọng nhất, đồ lau kính.",
       "s": 2486.65
     },
     {
@@ -2338,13 +2338,13 @@
     {
       "e": 2680.79,
       "en": "This is the dangerous job, I'm holding the ropes.",
-      "vi": "Ðây là công việc nguy hiểm, tôi đang giữ những sợi thừng.",
+      "vi": "Đây là công việc nguy hiểm, tôi đang giữ những sợi thừng.",
       "s": 2674.05
     },
     {
       "e": 2683.81,
       "en": "It's alright. I've got them.",
-      "vi": "Ðược rồi. Tôi nắm được chúng rồi.",
+      "vi": "Được rồi. Tôi nắm được chúng rồi.",
       "s": 2680.79
     },
     {"e": 2689.88, "en": "Thanks, Michael.", "vi": "Cảm ơn Michael", "s": 2683.81},
@@ -2358,7 +2358,7 @@
     {
       "e": 2706.18,
       "en": "Chris and Lucy work for a company called \"Wallwalkers\".",
-      "vi": "Chris và Lucy làm việc cho công ty tên là \"Ði tường\"",
+      "vi": "Chris và Lucy làm việc cho công ty tên là \"Đi tường\"",
       "s": 2701.84
     },
     {
@@ -2423,7 +2423,7 @@
       "vi": "Ông muốn lên đó lau không?",
       "s": 2767.24
     },
-    {"e": 2771.84, "en": "Later.", "vi": "Ðể sau.", "s": 2769.96},
+    {"e": 2771.84, "en": "Later.", "vi": "Để sau.", "s": 2769.96},
     {"e": 2799.26, "en": "...", "vi": "...", "s": 2771.84},
     {
       "e": 2804.84,
@@ -2548,7 +2548,7 @@
     },
     {"e": 2876.32, "en": "Excuse me.", "vi": "Xin lỗi.", "s": 2868.5},
     {"e": 2891.65, "en": "...", "vi": "...", "s": 2876.32},
-    {"e": 2893.28, "en": "Tower of London.", "vi": "Tháp Luân Ðôn.", "s": 2891.65},
+    {"e": 2893.28, "en": "Tower of London.", "vi": "Tháp Luân Đôn.", "s": 2891.65},
     {
       "e": 2894.72,
       "en": "Are you sure we can't help?",
@@ -2620,7 +2620,7 @@
     {
       "e": 2946.47,
       "en": "Don't listen to her, Paola.",
-      "vi": "Ðừng nghe cô ấy, Paola.",
+      "vi": "Đừng nghe cô ấy, Paola.",
       "s": 2944.57
     },
     {
@@ -2719,7 +2719,7 @@
     {
       "e": 3046.41,
       "en": "I've brought the newspapers - The Independent for me, I'll Giornale for you.",
-      "vi": "Tôi mới nua hai tờ báo - tờ Ðộc Lập của tôi, tôi sẽ mua tờ Giornale cho anh.",
+      "vi": "Tôi mới nua hai tờ báo - tờ Độc Lập của tôi, tôi sẽ mua tờ Giornale cho anh.",
       "s": 3040.83
     },
     {
@@ -2731,7 +2731,7 @@
     {
       "e": 3053.11,
       "en": "Yes, but an I make a phone call first? Of course.",
-      "vi": "ừ nhưng tôi phải gọi điện trước đã? Ðược rồi.",
+      "vi": "ừ nhưng tôi phải gọi điện trước đã? Được rồi.",
       "s": 3049.52
     },
     {
@@ -2838,10 +2838,10 @@
     {
       "e": 3167.76,
       "en": "He teaches English at Rome University'.",
-      "vi": "Anh ấy dạy tiếng Anh ở trường Ðại học Rome.",
+      "vi": "Anh ấy dạy tiếng Anh ở trường Đại học Rome.",
       "s": 3163.92
     },
-    {"e": 3178.03, "en": "Come on. Let's go out.", "vi": "Ði nào.", "s": 3167.76},
+    {"e": 3178.03, "en": "Come on. Let's go out.", "vi": "Đi nào.", "s": 3167.76},
     {
       "e": 3181.55,
       "en": "Yes. It is my last day in Bath.",

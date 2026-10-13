@@ -32,7 +32,7 @@
   },
   {
     "h": "De condigno",
-    "segs": [{"k": "m", "t": "Ðúng/phải lẽ, hợp lý, thích/xứng đáng."}],
+    "segs": [{"k": "m", "t": "Đúng/phải lẽ, hợp lý, thích/xứng đáng."}],
     "k": "de condigno"
   },
   {
@@ -1496,7 +1496,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) Ðường cùng, thế bí, tình trạng bế tắc, dead 'heat (dt) Tình trạng cùng về đích bằng nhau (cuộc đua, chạy đua...)"
+        "t": "(dt) Đường cùng, thế bí, tình trạng bế tắc, dead 'heat (dt) Tình trạng cùng về đích bằng nhau (cuộc đua, chạy đua...)"
       }
     ],
     "k": "dead 'end"
@@ -2076,12 +2076,12 @@
       {
         "k": "ex",
         "t": "His point about the need for education reform is a dead letter, it is being done now:",
-        "vi": "Quan điểm của ông ấy về việc cần phải có cải cách giáo dục không còn quan trọng nữa. Ðiểm này bây giờ đang được thực hiện."
+        "vi": "Quan điểm của ông ấy về việc cần phải có cải cách giáo dục không còn quan trọng nữa. Điểm này bây giờ đang được thực hiện."
       },
       {
         "k": "ex",
         "t": "This point of law is a dead letter since the last Supreme Court ruling on this matter:",
-        "vi": "Ðiểm pháp lý này không còn có ý nghĩa nữa kể từ khi tòa án tối cao vừa qua đã có phán quyết về điểm này."
+        "vi": "Điểm pháp lý này không còn có ý nghĩa nữa kể từ khi tòa án tối cao vừa qua đã có phán quyết về điểm này."
       }
     ],
     "k": "dead letter"
@@ -3558,7 +3558,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "không thể nghe hoặc nói được. (Ðược dùng không có gì ác ý, nhưng không còn được coi là lễ phép nữa. Ðôi khi được uyển ngữ hóa như \"Nghe và nói bị suy kém.\" Sử dụng theo thứ tự cố định này.)"
+        "t": "không thể nghe hoặc nói được. (Được dùng không có gì ác ý, nhưng không còn được coi là lễ phép nữa. Đôi khi được uyển ngữ hóa như \"Nghe và nói bị suy kém.\" Sử dụng theo thứ tự cố định này.)"
       },
       {
         "k": "ex",
@@ -3579,7 +3579,7 @@
     "ipa": "'def'mju:t",
     "k": "deaf mute"
   },
-  {"h": "deaf point", "segs": [{"k": "m", "t": "Ðiểm điếc."}], "k": "deaf point"},
+  {"h": "deaf point", "segs": [{"k": "m", "t": "Điểm điếc."}], "k": "deaf point"},
   {
     "h": "deaf without speech",
     "segs": [
@@ -6217,7 +6217,7 @@
     ],
     "k": "deboner"
   },
-  {"h": "Deborah", "segs": [{"k": "m", "t": "Ðơ-bô-ra."}], "k": "deborah"},
+  {"h": "Deborah", "segs": [{"k": "m", "t": "Đơ-bô-ra."}], "k": "deborah"},
   {"h": "debossed character", "segs": [{"k": "m", "t": "ký tự nổi."}], "k": "debossed character"},
   {
     "h": "debottlenecking",
@@ -6272,7 +6272,7 @@
       {"k": "m", "t": "(kinh tế) (1921-)"},
       {
         "k": "m",
-        "t": "Nhà kinh tế toán học người Mỹ gốc, Pháp, người giành giải Nobel về kinh tế học năm 1983 nhờ công trình nghiên cứu về thuyết Cân bằng tổng thể. Debreu đã xem xét chi tiết vấn đề mà Smith và Walras nêu ra, cụ thể là một hệ thống thị trường phi tập trung có thể đem lại sự phối hợp mong muốn của các kế hoạch cá nhân như thếnào. Trong nghiên cứu cùng với Arrow, ông đã chứng minh được sự tồn tại của các giá cả tạo ra cân bằng, bằng cách đó khẳng định lôgíc trong quan điểm của Smith-Walras. Debreu đã trả lýòi được 2 vấn đề tiếp theo trong lĩnh vực này. Thứ nhấtt ông xác định được các điều kiện mà Bàn tay vô hình của nền kinh tế thị trường sẽ đảm bảo hiệu quả phân phối. Thứ hai, ông đã phân tích vấn đề ổn định cân bằng của một nền kinh tế thị trường để chỉ ra rằng trong các nền kinh tế lớn có nhiều tác nhân thị trường thì cân bằng thị trường có thể ổn định được. Cuốn sách chính của ông Học thuyết về giá trị (1959) gây được tiếng vang lớn vì tính toàn thể và cách tiếp cận phân tích vấn đề. Ðối với Debreu, một mô hình cân bằng tổng thể như thế có thể hòa nhập với lý thuyết phân bổ, lý thuyết về vốn và lý thuyết hành vi trong điều kiện không chắc chắn."
+        "t": "Nhà kinh tế toán học người Mỹ gốc, Pháp, người giành giải Nobel về kinh tế học năm 1983 nhờ công trình nghiên cứu về thuyết Cân bằng tổng thể. Debreu đã xem xét chi tiết vấn đề mà Smith và Walras nêu ra, cụ thể là một hệ thống thị trường phi tập trung có thể đem lại sự phối hợp mong muốn của các kế hoạch cá nhân như thếnào. Trong nghiên cứu cùng với Arrow, ông đã chứng minh được sự tồn tại của các giá cả tạo ra cân bằng, bằng cách đó khẳng định lôgíc trong quan điểm của Smith-Walras. Debreu đã trả lýòi được 2 vấn đề tiếp theo trong lĩnh vực này. Thứ nhấtt ông xác định được các điều kiện mà Bàn tay vô hình của nền kinh tế thị trường sẽ đảm bảo hiệu quả phân phối. Thứ hai, ông đã phân tích vấn đề ổn định cân bằng của một nền kinh tế thị trường để chỉ ra rằng trong các nền kinh tế lớn có nhiều tác nhân thị trường thì cân bằng thị trường có thể ổn định được. Cuốn sách chính của ông Học thuyết về giá trị (1959) gây được tiếng vang lớn vì tính toàn thể và cách tiếp cận phân tích vấn đề. Đối với Debreu, một mô hình cân bằng tổng thể như thế có thể hòa nhập với lý thuyết phân bổ, lý thuyết về vốn và lý thuyết hành vi trong điều kiện không chắc chắn."
       }
     ],
     "k": "debreu gerard"
@@ -7580,7 +7580,7 @@
       {"k": "m", "t": "decalogue"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the Decalog", "vi": ") (tôn giáo) mười điều răn của Ðức Chúa Trời."}
+      {"k": "ex", "t": "the Decalog", "vi": ") (tôn giáo) mười điều răn của Đức Chúa Trời."}
     ],
     "ipa": "'dekəlɔg",
     "k": "decalog"
@@ -8390,7 +8390,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bình nguyên hình tam giác bao phủ hầu hết bán đảo Ấn, ở phía nam sông Narbada. Một số đế chế đã kiểm soát vùng này, nổi tiếng là Asoka (C 250 trước Công nguyên), Aurangzeb (cuối thế kỷ 17), và vương quốc Anh (thế kỷ 19). Ðế chế Vijayanagar duy trì quyền lực ở miền Nam Ấn Ðộ (1347 và 1565), những triều đại Hồi Giáo thiết lập vương quốc Bahmani ở miền Bắc (1437). Nhiều thị tộc khác nhau của Maratha đã tái khẳng định sức mạnh của Ấn Ðộ và thế kỷ 18, nhưng sau chiến thắng của Anh (thế kỷ 19) thì các vương quốc Hồi Giáo và Ấn Ðộ bị đồng hóa vào nước Anh."
+        "t": "bình nguyên hình tam giác bao phủ hầu hết bán đảo Ấn, ở phía nam sông Narbada. Một số đế chế đã kiểm soát vùng này, nổi tiếng là Asoka (C 250 trước Công nguyên), Aurangzeb (cuối thế kỷ 17), và vương quốc Anh (thế kỷ 19). Đế chế Vijayanagar duy trì quyền lực ở miền Nam Ấn Độ (1347 và 1565), những triều đại Hồi Giáo thiết lập vương quốc Bahmani ở miền Bắc (1437). Nhiều thị tộc khác nhau của Maratha đã tái khẳng định sức mạnh của Ấn Độ và thế kỷ 18, nhưng sau chiến thắng của Anh (thế kỷ 19) thì các vương quốc Hồi Giáo và Ấn Độ bị đồng hóa vào nước Anh."
       }
     ],
     "k": "deccan"
@@ -11095,7 +11095,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Charles II và James II của Anh mưu toan chấm dứt sự nhượng bộ tôn giáo. Năm 1662 và 1672, Charles II ban hành bản tuyên ngôn nhấn mạnh đến vấn đề trừng phạt theo pháp luật đối với những tín đồ Thiên Chúa Giáo La Mã và tín đồ Cơ Ðốc Giáo. Nhưng nghị viện đã phản đối, vì thế âm mưu bị hủy bỏ. Ðến năm 1687 James II tuyên bố truy tố 7 giám mục ra tòa. Bản tuyên ngôn nêu rõ, các linh mục phải rao giảng bản tuyên ngôn ở tất cả các nhà thờ. Nhưng đức tổng giám mục Saneraft và 6 giám mục khác đã từ chối việc này, nên họ bị đưa ra tòa truy tố về tội vu khống gây bạo loạn. Về sau họ được trắng án. Bản án gây ra sự phản đối và bất tín của dân chúng trong suốt mấy tháng. Cuối cùng một cuộc cách mạng giành độc lập đã bùng nổ vào năm 1688."
+        "t": "Charles II và James II của Anh mưu toan chấm dứt sự nhượng bộ tôn giáo. Năm 1662 và 1672, Charles II ban hành bản tuyên ngôn nhấn mạnh đến vấn đề trừng phạt theo pháp luật đối với những tín đồ Thiên Chúa Giáo La Mã và tín đồ Cơ Đốc Giáo. Nhưng nghị viện đã phản đối, vì thế âm mưu bị hủy bỏ. Đến năm 1687 James II tuyên bố truy tố 7 giám mục ra tòa. Bản tuyên ngôn nêu rõ, các linh mục phải rao giảng bản tuyên ngôn ở tất cả các nhà thờ. Nhưng đức tổng giám mục Saneraft và 6 giám mục khác đã từ chối việc này, nên họ bị đưa ra tòa truy tố về tội vu khống gây bạo loạn. Về sau họ được trắng án. Bản án gây ra sự phản đối và bất tín của dân chúng trong suốt mấy tháng. Cuối cùng một cuộc cách mạng giành độc lập đã bùng nổ vào năm 1688."
       }
     ],
     "k": "declarations of indulgence"
@@ -13516,7 +13516,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "dãy số không tăng. Dãy số {an} được gọi là dãy số không tăng, nếu với mọi số tự nhiên n và m. n < m ( an ( am. Chú ý: Ðôi khi ta gọi dãy số không tăng là dãy số giảm."
+        "t": "dãy số không tăng. Dãy số {an} được gọi là dãy số không tăng, nếu với mọi số tự nhiên n và m. n < m ( an ( am. Chú ý: Đôi khi ta gọi dãy số không tăng là dãy số giảm."
       }
     ],
     "k": "decreasing sequence"
@@ -14336,7 +14336,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "richard Julius Wilheim (Ðê-đơ0 kin, 1831-1916) nhà toán học Ðức viện sĩ viện hàn lâm khoa học Berlin (1880), viện sĩ Viện hàn lâm khoa học Paris (1910), giáo sư trường kỹ thuật cao cấp tại Brunswick (1862-1912). Ông có công trình nghiên cứu cơ bản về lý thuyết số đại số. Ông sáng tạo hàng loạt những khái niệm tổng quát làm cơ sở của đại số học hiện đại. Dedekind là người đầu tiên có lập luận chặt chẽ về lý thuyết số thực."
+        "t": "richard Julius Wilheim (Đê-đơ0 kin, 1831-1916) nhà toán học Đức viện sĩ viện hàn lâm khoa học Berlin (1880), viện sĩ Viện hàn lâm khoa học Paris (1910), giáo sư trường kỹ thuật cao cấp tại Brunswick (1862-1912). Ông có công trình nghiên cứu cơ bản về lý thuyết số đại số. Ông sáng tạo hàng loạt những khái niệm tổng quát làm cơ sở của đại số học hiện đại. Dedekind là người đầu tiên có lập luận chặt chẽ về lý thuyết số thực."
       }
     ],
     "k": "dedekind"
@@ -14346,14 +14346,14 @@
     "segs": [
       {
         "k": "m",
-        "t": "nhát cắt Ðêđơkin. Cho A và B là hai tập số hữu tỉ. Ta gọi hai tập A và B là nhát cắt Ðêđơkin, nếu. (i) A ( ( và B ( (. (ii) A ( B = Q. (iii) (a(A, (b(B: a < b. Ta thường ký hiệu là (A/B) trong đó A gọi là lớp dưới và B gọi là lớp trên của nhát cắt đó."
+        "t": "nhát cắt Đêđơkin. Cho A và B là hai tập số hữu tỉ. Ta gọi hai tập A và B là nhát cắt Đêđơkin, nếu. (i) A ( ( và B ( (. (ii) A ( B = Q. (iii) (a(A, (b(B: a < b. Ta thường ký hiệu là (A/B) trong đó A gọi là lớp dưới và B gọi là lớp trên của nhát cắt đó."
       }
     ],
     "k": "dedekind's cut"
   },
   {
     "h": "dedekingd's cut",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhát cắt Ðêđơkin"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhát cắt Đêđơkin"}],
     "k": "dedekingd's cut"
   },
   {"h": "dedendum", "segs": [{"k": "m", "t": "chiều cao chân răng."}], "k": "dedendum"},
@@ -14490,15 +14490,15 @@
       {"k": "m", "t": "Mạch chuyên dụng"},
       {
         "k": "m",
-        "t": "Mạch chuyên dụng là đường dẫn dữ liệu giữa hai hệ thống liên lạc với nhau. Mạch có thể tồn tại như là đường truyền vật lý giữa hai hệ thống, hoặc tồn tại một cách lôgíc trong các hệ chuyển mạch (switched) hoặc đa hợp (multiplexed). Các mạch chuyên dụng tạo trên mạng điện thoại thường được thuê theo hợp đồng, đòi hỏi phải có modem tại mỗi đầu. Ðường truyền thuê bao là kết nối điểm-điểm thường trực được tính cước theo khoảng cách và thông suất của đường truyền. Mạch chuyên dụng có thể là đường truyền tương tự mức thoại, hoặc là đường truyền số như T1 (tốc độ 1.544 Mbit/s) và T3 (45Mbit/s)."
+        "t": "Mạch chuyên dụng là đường dẫn dữ liệu giữa hai hệ thống liên lạc với nhau. Mạch có thể tồn tại như là đường truyền vật lý giữa hai hệ thống, hoặc tồn tại một cách lôgíc trong các hệ chuyển mạch (switched) hoặc đa hợp (multiplexed). Các mạch chuyên dụng tạo trên mạng điện thoại thường được thuê theo hợp đồng, đòi hỏi phải có modem tại mỗi đầu. Đường truyền thuê bao là kết nối điểm-điểm thường trực được tính cước theo khoảng cách và thông suất của đường truyền. Mạch chuyên dụng có thể là đường truyền tương tự mức thoại, hoặc là đường truyền số như T1 (tốc độ 1.544 Mbit/s) và T3 (45Mbit/s)."
       },
       {
         "k": "m",
-        "t": "Mạch chuyên dụng có thể tồn tại dưới dạng lôgíc (mạch ảo) trong các mạng chuyển mạch như X.25, frame relay và ATM. Ðường dẫn và băng thông dành riêng được xác định trước và bảo đảm bởi nhà cung cấp. Cước phí được tính theo số các gói gởi đi, vì thế chi phí tổng thể thấp hơn so với dùng đường truyền thuê bao."
+        "t": "Mạch chuyên dụng có thể tồn tại dưới dạng lôgíc (mạch ảo) trong các mạng chuyển mạch như X.25, frame relay và ATM. Đường dẫn và băng thông dành riêng được xác định trước và bảo đảm bởi nhà cung cấp. Cước phí được tính theo số các gói gởi đi, vì thế chi phí tổng thể thấp hơn so với dùng đường truyền thuê bao."
       },
       {
         "k": "m",
-        "t": "Người điều hành mạng khi đánh giá mức sử dụng các đường truyền phải cân nhắc đến chi phí đường truyền thuê bao dựa trên lưu lượng truyền và các kết nối có được duy trì liên tục tại mọi thời điểm hay không. Nếu lưu lượng ít, hoặc cao điểm chỉ xảy ra trong một khoảng thời gian trong ngày, đường truyền dial-up có thể thích hợp hơn. Ðường truyền dial-up còn bổ sung cho mạch chuyên dụng, chúng thích hợp đối với truyền không thường xuyên như email. Các đường truyền chuyên dụng phát huy tốt nhất trong trường hợp có lưu lượng cố định và dịch vụ cần được thực hiện ngay tức thì."
+        "t": "Người điều hành mạng khi đánh giá mức sử dụng các đường truyền phải cân nhắc đến chi phí đường truyền thuê bao dựa trên lưu lượng truyền và các kết nối có được duy trì liên tục tại mọi thời điểm hay không. Nếu lưu lượng ít, hoặc cao điểm chỉ xảy ra trong một khoảng thời gian trong ngày, đường truyền dial-up có thể thích hợp hơn. Đường truyền dial-up còn bổ sung cho mạch chuyên dụng, chúng thích hợp đối với truyền không thường xuyên như email. Các đường truyền chuyên dụng phát huy tốt nhất trong trường hợp có lưu lượng cố định và dịch vụ cần được thực hiện ngay tức thì."
       },
       {
         "k": "m",
@@ -15175,7 +15175,7 @@
   },
   {
     "h": "deemeter",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "quan tòa ở Nhân Ðảo (isle of Man)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "quan tòa ở Nhân Đảo (isle of Man)."}],
     "k": "deemeter"
   },
   {"h": "deemphasis", "segs": [{"k": "m", "t": "mạch giảm cường."}], "k": "deemphasis"},
@@ -15615,7 +15615,7 @@
   },
   {
     "h": "deep lingual artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch lưỡi sâu."}],
+    "segs": [{"k": "m", "t": "Động mạch lưỡi sâu."}],
     "k": "deep lingual artery"
   },
   {
@@ -18858,7 +18858,7 @@
   },
   {
     "h": "deferential plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh tinh quản."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh tinh quản."}],
     "k": "deferential plexus"
   },
   {
@@ -19731,7 +19731,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đơn vị chi tiêu thâm hụt. Một người hay tổ chức chi tiêu cho hàng hóa và dịch vụ thực trong khu vực sản xuất kinh doanh nhiều hơn so với thu nhập trong một thời đoạn. Ðơn vị thâm hụt phải tham gia vào khu vực tài chính (tức là đi vay) để cân đối dòng tiền vào và dòng tiền ra. Các thuật ngữ khác chỉ đơn vị chi tiêu thâm hụt là người đi vay, người có nhu cầu về vốn vay, người bán chứng khoán. Ðơn vị chi tiêu thâm hụt có thể phát hành các công cụ vay nợ tài chính, giảm số dư tiền mặt, bán tài sản tài chính đã có trước đây khi ở vào tình trạng thặng dư."
+        "t": "đơn vị chi tiêu thâm hụt. Một người hay tổ chức chi tiêu cho hàng hóa và dịch vụ thực trong khu vực sản xuất kinh doanh nhiều hơn so với thu nhập trong một thời đoạn. Đơn vị thâm hụt phải tham gia vào khu vực tài chính (tức là đi vay) để cân đối dòng tiền vào và dòng tiền ra. Các thuật ngữ khác chỉ đơn vị chi tiêu thâm hụt là người đi vay, người có nhu cầu về vốn vay, người bán chứng khoán. Đơn vị chi tiêu thâm hụt có thể phát hành các công cụ vay nợ tài chính, giảm số dư tiền mặt, bán tài sản tài chính đã có trước đây khi ở vào tình trạng thặng dư."
       }
     ],
     "k": "deficit spending unit"
@@ -20206,7 +20206,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "kinh tế học. \"Kinh tế học là môn học nghiên cứu cách phân bổ một cách hiệu quả nhất những nguồn lực khan hiếm cho những mục tiêu thay thế lẫn nhau\". Khi một nhà kinh tế đề cập đến \"các nguồn lực khan hiếm\", không nhất thiết đó phải là những gì hiếm có chẳng hạn như kim cương, mà là những nguồn lực có số lượng hạn chế và có chi phí. Do đó, nguồn lực khan hiếm bao gồm tất cả những gì được sử dụng để sản xuất ra bất kỳ loại hàng hóa và dịch vụ nào. Các nhà kinh tế thường chia nguồn lực làm ba loại: vốn, lao động và đất đai. Khi nói đến sự phân bổ hiệu quả, nhà kinh tế muốn nói về một số lượng định mức hàng hóa và dịch vụ được sản xuất từ một tập hợp các nhập lượng có chi phí thấp nhất. Sau cùng, \"các mục tiêu thay thế lẫn nhau\" đơn giản là do con người không thể có hàng hóa và dịch vụ với số lượng vô hạn, vì vậy họ phải chọn thứ này hay thứ khác. Vì vậy, kinh tế học đôi khi còn được xem là \"nghiên cứu về sự chọn lựa.\" Nhà kinh tế học nổi tiếng người Anh John Maynard Keynes đã đưa ra một định nghĩa rất xác thực: \"... kinh tế học là một cách tư duy...\" Ðịnh nghĩa này nói lên một thực tế là các nhà kinh tế sử dụng những mô hình đơn giản hóa đời thực một cách hợp lý. Thực tế là rất phức tạp và ta không thể nào xét đến tất cả các mối tương tác kinh tế cùng một lúc. Tùy vào vấn đề được xác định mà các mối tương tác kinh tế có thể quan trọng hay không quan trọng. Việc đơn giản hóa một cách hợp lý giúp các nhà kinh tế tập trung vào những yếu tố quan trọng nhất của vấn đề đó. Nếu những định nghĩa kinh tế học trên là đúng, thì kinh tế học thực sự là một môn học có ảnh hưởng lớn."
+        "t": "kinh tế học. \"Kinh tế học là môn học nghiên cứu cách phân bổ một cách hiệu quả nhất những nguồn lực khan hiếm cho những mục tiêu thay thế lẫn nhau\". Khi một nhà kinh tế đề cập đến \"các nguồn lực khan hiếm\", không nhất thiết đó phải là những gì hiếm có chẳng hạn như kim cương, mà là những nguồn lực có số lượng hạn chế và có chi phí. Do đó, nguồn lực khan hiếm bao gồm tất cả những gì được sử dụng để sản xuất ra bất kỳ loại hàng hóa và dịch vụ nào. Các nhà kinh tế thường chia nguồn lực làm ba loại: vốn, lao động và đất đai. Khi nói đến sự phân bổ hiệu quả, nhà kinh tế muốn nói về một số lượng định mức hàng hóa và dịch vụ được sản xuất từ một tập hợp các nhập lượng có chi phí thấp nhất. Sau cùng, \"các mục tiêu thay thế lẫn nhau\" đơn giản là do con người không thể có hàng hóa và dịch vụ với số lượng vô hạn, vì vậy họ phải chọn thứ này hay thứ khác. Vì vậy, kinh tế học đôi khi còn được xem là \"nghiên cứu về sự chọn lựa.\" Nhà kinh tế học nổi tiếng người Anh John Maynard Keynes đã đưa ra một định nghĩa rất xác thực: \"... kinh tế học là một cách tư duy...\" Định nghĩa này nói lên một thực tế là các nhà kinh tế sử dụng những mô hình đơn giản hóa đời thực một cách hợp lý. Thực tế là rất phức tạp và ta không thể nào xét đến tất cả các mối tương tác kinh tế cùng một lúc. Tùy vào vấn đề được xác định mà các mối tương tác kinh tế có thể quan trọng hay không quan trọng. Việc đơn giản hóa một cách hợp lý giúp các nhà kinh tế tập trung vào những yếu tố quan trọng nhất của vấn đề đó. Nếu những định nghĩa kinh tế học trên là đúng, thì kinh tế học thực sự là một môn học có ảnh hưởng lớn."
       }
     ],
     "k": "definitions of economics"
@@ -20258,7 +20258,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đoạn mại. Mua bán đứt đoạn. Người mua được quyền làm chủ đồ vật ngay sau khi trả tiền cho người bán (Ðiều 354 Bộ luật Hồng Ðức, Ðiều 87 Bộ luật Gia Long). Ðây là một trong những hình thức mua bán thông dụng dưới thời phong kiến."
+        "t": "đoạn mại. Mua bán đứt đoạn. Người mua được quyền làm chủ đồ vật ngay sau khi trả tiền cho người bán (Điều 354 Bộ luật Hồng Đức, Điều 87 Bộ luật Gia Long). Đây là một trong những hình thức mua bán thông dụng dưới thời phong kiến."
       }
     ],
     "k": "definitive sale"
@@ -22746,7 +22746,7 @@
   },
   {
     "h": "deglutible electrode",
-    "segs": [{"k": "m", "t": "Ðiện cực nuốt được."}],
+    "segs": [{"k": "m", "t": "Điện cực nuốt được."}],
     "k": "deglutible electrode"
   },
   {
@@ -23511,7 +23511,7 @@
   },
   {
     "h": "degree of frequency",
-    "segs": [{"k": "m", "t": "Ðộ thường gặp, độ tần số."}],
+    "segs": [{"k": "m", "t": "Độ thường gặp, độ tần số."}],
     "k": "degree of frequency"
   },
   {"h": "degree of frost", "segs": [{"k": "m", "t": "độ đông giá."}], "k": "degree of frost"},
@@ -24741,7 +24741,7 @@
   {
     "h": "Deisis",
     "segs": [
-      {"k": "m", "t": "Kinh (phụng vụ Byzantiô); tranh vẽ Ðức Kitô với ÐM và thánh Gioan Tẩy giả."}
+      {"k": "m", "t": "Kinh (phụng vụ Byzantiô); tranh vẽ Đức Kitô với ĐM và thánh Gioan Tẩy giả."}
     ],
     "k": "deisis"
   },
@@ -24803,7 +24803,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tính cách thần thánh"},
       {"k": "m", "t": "vị thần"},
-      {"k": "ex", "t": "the Deity", "vi": "Chúa Trời, Thượng Ðế."}
+      {"k": "ex", "t": "the Deity", "vi": "Chúa Trời, Thượng Đế."}
     ],
     "ipa": "'di:iti",
     "k": "deity"
@@ -25159,7 +25159,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một tiểu bang của Mỹ, tọa lạc ở vùng biển phía đông giữa New Jersey và Maryland. Henry Hudson đã khám phá ra nơi này, nhưng tên của nó được đặt theo tên của hầu tước \"De la Warr\". Vào năm 1610, De la Warr cai trị bang Virginia. Ðầu tiên bang này có tên gọi là Tân Thụy Ðiển (năm 1638), nhưng nó thuộc quyền kiểm soát của người Anh (năm 1664). Ðây là bang đầu tiên được hiến pháp Hoa Kỳ phê chuẩn vào năm 1787."
+        "t": "một tiểu bang của Mỹ, tọa lạc ở vùng biển phía đông giữa New Jersey và Maryland. Henry Hudson đã khám phá ra nơi này, nhưng tên của nó được đặt theo tên của hầu tước \"De la Warr\". Vào năm 1610, De la Warr cai trị bang Virginia. Đầu tiên bang này có tên gọi là Tân Thụy Điển (năm 1638), nhưng nó thuộc quyền kiểm soát của người Anh (năm 1664). Đây là bang đầu tiên được hiến pháp Hoa Kỳ phê chuẩn vào năm 1787."
       }
     ],
     "k": "delaware"
@@ -26384,7 +26384,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thủ đô của Ấn Ðộ, tọa lạc cạnh con sông Jumna ở phía bắc vùng đồng bằng. Theo truyền thuyết thì thành phố này đã thay đổi vị trí 7 lần và đã có bằng chứng khảo cổ về con số pháo đài xưa. Bằng chứng ban đầu vào thế kỷ thứ 6 trước Công nguyên. Vào thế kỷ thứ nhất trước Công nguyên, \"Raja Dhilu\" đã được đánh dấu trên bản đồ thành phố. Mãi tới thế kỷ 12, khi người Hồi giáo xâm lăng, họ đã chiếm lấy kinh đô khỏi tay vua Hindu Prithviraj III của Ấn Ðộ. Nhưng Tomar Rajputs đã chiếm giữ nơi này vào thế kỷ thứ 8 và nó trở thành thủ đô trong thời đại của Delhi (từ thế kỷ 12 đến thế kỷ 16). Vị trí này liên tục là thủ đô của những triều đại Hồi Giáo (Mameluke, khalji, Tughluq, Sayyid, Lodi). Triều đại Mameluke, thuộc người Hồi Giáo, đầu tiên xây dựng thủ đô và đặt tên Qutb Minar. Yếu tố chiến tranh và thiên nhiên đã lập nên nhiều đô thị mới, nhưng chúng chỉ cách thủ đô cũ có vài dặm. Trong thời đại Mogul, hoàng đế Shah Jahan đã xây dựng một hoàng cung mang tên Red Fort và một nhà thờ Hồi Giáo vẫn còn ngự trị ở thủ đô xưa. Thời đại Mogul suy yếu dẫn đến những cuộc xâm lăng mới. Trong đó đáng kể là Nadir shar vua Ba Tư đã xâm lăng thủ đô này (năm 1739). Nhưng đến năm 1803 thủ đô lại rơi vào tay người Anh."
+        "t": "thủ đô của Ấn Độ, tọa lạc cạnh con sông Jumna ở phía bắc vùng đồng bằng. Theo truyền thuyết thì thành phố này đã thay đổi vị trí 7 lần và đã có bằng chứng khảo cổ về con số pháo đài xưa. Bằng chứng ban đầu vào thế kỷ thứ 6 trước Công nguyên. Vào thế kỷ thứ nhất trước Công nguyên, \"Raja Dhilu\" đã được đánh dấu trên bản đồ thành phố. Mãi tới thế kỷ 12, khi người Hồi giáo xâm lăng, họ đã chiếm lấy kinh đô khỏi tay vua Hindu Prithviraj III của Ấn Độ. Nhưng Tomar Rajputs đã chiếm giữ nơi này vào thế kỷ thứ 8 và nó trở thành thủ đô trong thời đại của Delhi (từ thế kỷ 12 đến thế kỷ 16). Vị trí này liên tục là thủ đô của những triều đại Hồi Giáo (Mameluke, khalji, Tughluq, Sayyid, Lodi). Triều đại Mameluke, thuộc người Hồi Giáo, đầu tiên xây dựng thủ đô và đặt tên Qutb Minar. Yếu tố chiến tranh và thiên nhiên đã lập nên nhiều đô thị mới, nhưng chúng chỉ cách thủ đô cũ có vài dặm. Trong thời đại Mogul, hoàng đế Shah Jahan đã xây dựng một hoàng cung mang tên Red Fort và một nhà thờ Hồi Giáo vẫn còn ngự trị ở thủ đô xưa. Thời đại Mogul suy yếu dẫn đến những cuộc xâm lăng mới. Trong đó đáng kể là Nadir shar vua Ba Tư đã xâm lăng thủ đô này (năm 1739). Nhưng đến năm 1803 thủ đô lại rơi vào tay người Anh."
       }
     ],
     "k": "delhi"
@@ -26411,7 +26411,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "liên minh tình nguyện được thành lập bởi những vùng đô thị Hy Lạp vào năm 478-448 trước Công nguyên. Ðể phục thù những thiệt hại do chiến tranh Hy Lạp gây ra, mọi thành viên của quân liên minh phải mang tàu thuyền hoặc tiền của để cống nạp. Tài sản được cất giữ ở đảo thiêng Delos, đây là căn cứ nổi tiếng của quân liên minh. Trước tiên, dưới sự lãnh đạo của Athens, hoạt động của liên minh nhằm đuổi những tuyến phòng thủ của Ba Tư ra khỏi Châu Âu, và giải phóng những thành phố của Hy Lạp ở khu vực Tiểu Á. Vào khoảng năm 466 ở Eurymedon, hạm đội Ba Tư và quân đội đã bị đánh bại. Tuy nhiên, trong một thời gian dài nữa Athens mới có được đội quân hùng mạnh nhất, nên họ đã biết trước được những yêu cầu của liên minh. Vì vậy, (472) Carystus buộc phải gia nhập liên minh và từ năm 465-462, cuộc khởi nghĩa của Thasos đã bị thất bại, nên Athens đã chiếm lấy việc khai thác mỏ và nguồn lợi thương mại. Sau đó Pericles khuyến khích sự cải tạo trong liên minh để hình thành một đế chế Athens."
+        "t": "liên minh tình nguyện được thành lập bởi những vùng đô thị Hy Lạp vào năm 478-448 trước Công nguyên. Để phục thù những thiệt hại do chiến tranh Hy Lạp gây ra, mọi thành viên của quân liên minh phải mang tàu thuyền hoặc tiền của để cống nạp. Tài sản được cất giữ ở đảo thiêng Delos, đây là căn cứ nổi tiếng của quân liên minh. Trước tiên, dưới sự lãnh đạo của Athens, hoạt động của liên minh nhằm đuổi những tuyến phòng thủ của Ba Tư ra khỏi Châu Âu, và giải phóng những thành phố của Hy Lạp ở khu vực Tiểu Á. Vào khoảng năm 466 ở Eurymedon, hạm đội Ba Tư và quân đội đã bị đánh bại. Tuy nhiên, trong một thời gian dài nữa Athens mới có được đội quân hùng mạnh nhất, nên họ đã biết trước được những yêu cầu của liên minh. Vì vậy, (472) Carystus buộc phải gia nhập liên minh và từ năm 465-462, cuộc khởi nghĩa của Thasos đã bị thất bại, nên Athens đã chiếm lấy việc khai thác mỏ và nguồn lợi thương mại. Sau đó Pericles khuyến khích sự cải tạo trong liên minh để hình thành một đế chế Athens."
       }
     ],
     "k": "delian league"
@@ -26999,7 +26999,7 @@
     "ipa": "di'lini:əb(ə)l",
     "k": "delineable"
   },
-  {"h": "delineascope", "segs": [{"k": "m", "t": "Ðèn chiếu."}], "k": "delineascope"},
+  {"h": "delineascope", "segs": [{"k": "m", "t": "Đèn chiếu."}], "k": "delineascope"},
   {"h": "delineat", "segs": [{"k": "m", "t": "vẽ, mô tả."}], "k": "delineat"},
   {
     "h": "delineate",
@@ -27790,14 +27790,14 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "giao tại sân bay"}],
     "k": "delivery at airport"
   },
-  {"h": "delivery at term", "segs": [{"k": "m", "t": "Ðẻ đủ tháng."}], "k": "delivery at term"},
+  {"h": "delivery at term", "segs": [{"k": "m", "t": "Đẻ đủ tháng."}], "k": "delivery at term"},
   {"h": "delivery book", "segs": [{"k": "m", "t": "sổ giao hàng."}], "k": "delivery book"},
   {
     "h": "delivery by installments",
     "segs": [
       {
         "k": "m",
-        "t": "giao hàng từng đợt. Việc bên bán giao hàng cho bên mua từng đợt một, có khoảng cách thời gian bằng nhau và số lượng hàng bằng nhau. Tuy nhiên, việc giao hàng theo kiểu giao một khối lượng nào đó trong đợt đầu, rồi sau đó giao từng đợt, có khối lượng bằng nhau, cũng vẫn được coi là giao hàng từng đợt. Cần phân biệt thuật ngữ này với thuật ngữ giao hàng từng phần (partial delivery), một phương thức giao hàng không chú trọng về thời gian mà chỉ chú trọng tới khối lượng hàng hóa. Ðương nhiên, giao hàng từng đợt cũng là một kiểu giao hàng từng phần."
+        "t": "giao hàng từng đợt. Việc bên bán giao hàng cho bên mua từng đợt một, có khoảng cách thời gian bằng nhau và số lượng hàng bằng nhau. Tuy nhiên, việc giao hàng theo kiểu giao một khối lượng nào đó trong đợt đầu, rồi sau đó giao từng đợt, có khối lượng bằng nhau, cũng vẫn được coi là giao hàng từng đợt. Cần phân biệt thuật ngữ này với thuật ngữ giao hàng từng phần (partial delivery), một phương thức giao hàng không chú trọng về thời gian mà chỉ chú trọng tới khối lượng hàng hóa. Đương nhiên, giao hàng từng đợt cũng là một kiểu giao hàng từng phần."
       }
     ],
     "k": "delivery by installments"
@@ -28657,7 +28657,7 @@
       {
         "k": "ex",
         "t": "Delphic",
-        "vi": "^tt. (thuộc) Ðen-phi (một thành phố ở Hy Lạp xưa, nơi A-pô-lô đã nói những lời sấm nổi tiếng)"
+        "vi": "^tt. (thuộc) Đen-phi (một thành phố ở Hy Lạp xưa, nơi A-pô-lô đã nói những lời sấm nổi tiếng)"
       },
       {"k": "m", "t": "(nghĩa bóng) không rõ ràng, khó hiểu."}
     ],
@@ -28745,9 +28745,9 @@
     "h": "delta",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Ðenta (chữ cái Hy Lạp)"},
-      {"k": "m", "t": "(vật lý) Ðenta"},
-      {"k": "ex", "t": "delta rays", "vi": "tia Ðenta"},
+      {"k": "m", "t": "Đenta (chữ cái Hy Lạp)"},
+      {"k": "m", "t": "(vật lý) Đenta"},
+      {"k": "ex", "t": "delta rays", "vi": "tia Đenta"},
       {"k": "m", "t": "(địa) vùng châu thổ"},
       {"k": "ex", "t": "the Nile Delta", "vi": "vùng châu thổ sông Nin, vùng đồng bằng"},
       {
@@ -29081,10 +29081,10 @@
     "h": "deltoid",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "hình Ðenta, hình tam giác"},
-      {"k": "ex", "t": "deltoid muscle", "vi": "(giải phẫu) cơ Ðenta (ở khớp xương vai)"},
+      {"k": "m", "t": "hình Đenta, hình tam giác"},
+      {"k": "ex", "t": "deltoid muscle", "vi": "(giải phẫu) cơ Đenta (ở khớp xương vai)"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(giải phẫu) cơ Ðenta."}
+      {"k": "m", "t": "(giải phẫu) cơ Đenta."}
     ],
     "ipa": "'deltɔid",
     "k": "deltoid"
@@ -31324,7 +31324,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "người theo chế độ dân chủ"},
-      {"k": "m", "t": "(Mỹ) đảng viên Ðảng Dân chủ"},
+      {"k": "m", "t": "(Mỹ) đảng viên Đảng Dân chủ"},
       {"k": "m", "t": "(Mỹ) xe ngựa chở hàng không mui ((cũng)"},
       {"k": "ex", "t": "democrat wagon", "vi": ")."}
     ],
@@ -31348,7 +31348,7 @@
     "segs": [
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "dân chủ"},
-      {"k": "ex", "t": "Democratic party", "vi": "(Mỹ) Ðảng Dân Chủ"},
+      {"k": "ex", "t": "Democratic party", "vi": "(Mỹ) Đảng Dân Chủ"},
       {"k": "ex", "t": "democratic regime", "vi": "chế độ dân chủ."}
     ],
     "ipa": ",demə'krætik",
@@ -31385,7 +31385,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đảng dân chủ. Là một đảng chính trị hiếm đa số ở Mỹ. Lúc đảng mới thành lập được gọi là đảng dân chủ cộng hòa. Ðảng này được lãnh đạo bởi ông Thomas Jefferson vào thập niên 1790. Sau này, có một đảng Tân Dân Chủ được thành lập do ông Andrew Jackson và ông John C Calhoun lãnh đạo (1860). Ðầu thế kỷ 20, đảng chấp nhận nhiều chính sách của phong trào tiến bộ và tổ chức bầu tổng thống. Ông Woodrow Wilson được bầu hai nhiệm kỳ (từ năm 1913-1921). Ông Franklin D. Roosevelt là tổng thống duy nhất tái cử ba lần. Từ đó đảng chế ngự Hạ viện và cả thượng viện. Mặc dù vào năm 1968, chiến tranh Việt Nam đã chia rẽ nội bộ đảng này dưới thời tổng thống cộng hòa Nixon. Ðảng dân chủ vẫn duy trì được sự kiểm soát quốc hội (năm 1980). Tuy nhiên, sau đó đảng đã lấy lại được quyền lực (năm 1986). Mặc dù thất bạn trong cuộc bầu cử tổng thống năm 1988, nhưng đảng vẫn giữ được đa số ghế của cả hai nghị viện quốc hội. Ứng viên đảng dân chủ là ông Bill Clinton đã đắc cử tổng thống. Vào cuối năm 1994, đảng dân chủ thất bại đau đớn vì đảng cộng hòa đạt được sự kiểm soát ở cả hai viện quốc hội. Ðó là lần đầu tiên việc này xảy ra kể từ năm 1945. Tuy nhiên năm 1996, ông Bill Clinton trở thành vị tổng thống đầu tiên của đảng dân chủ."
+        "t": "đảng dân chủ. Là một đảng chính trị hiếm đa số ở Mỹ. Lúc đảng mới thành lập được gọi là đảng dân chủ cộng hòa. Đảng này được lãnh đạo bởi ông Thomas Jefferson vào thập niên 1790. Sau này, có một đảng Tân Dân Chủ được thành lập do ông Andrew Jackson và ông John C Calhoun lãnh đạo (1860). Đầu thế kỷ 20, đảng chấp nhận nhiều chính sách của phong trào tiến bộ và tổ chức bầu tổng thống. Ông Woodrow Wilson được bầu hai nhiệm kỳ (từ năm 1913-1921). Ông Franklin D. Roosevelt là tổng thống duy nhất tái cử ba lần. Từ đó đảng chế ngự Hạ viện và cả thượng viện. Mặc dù vào năm 1968, chiến tranh Việt Nam đã chia rẽ nội bộ đảng này dưới thời tổng thống cộng hòa Nixon. Đảng dân chủ vẫn duy trì được sự kiểm soát quốc hội (năm 1980). Tuy nhiên, sau đó đảng đã lấy lại được quyền lực (năm 1986). Mặc dù thất bạn trong cuộc bầu cử tổng thống năm 1988, nhưng đảng vẫn giữ được đa số ghế của cả hai nghị viện quốc hội. Ứng viên đảng dân chủ là ông Bill Clinton đã đắc cử tổng thống. Vào cuối năm 1994, đảng dân chủ thất bại đau đớn vì đảng cộng hòa đạt được sự kiểm soát ở cả hai viện quốc hội. Đó là lần đầu tiên việc này xảy ra kể từ năm 1945. Tuy nhiên năm 1996, ông Bill Clinton trở thành vị tổng thống đầu tiên của đảng dân chủ."
       }
     ],
     "k": "democratic party"
@@ -32453,7 +32453,7 @@
     "h": "demosthenic",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "có tài hùng biện như Ðê-mô-xten (nhà hùng biện nổi tiếng của Hy Lạp)."}
+      {"k": "m", "t": "có tài hùng biện như Đê-mô-xten (nhà hùng biện nổi tiếng của Hy Lạp)."}
     ],
     "ipa": ",deməs'θənik",
     "k": "demosthenic"
@@ -33611,7 +33611,7 @@
       },
       {
         "k": "m",
-        "t": "Ông bị mất uy tín trong cuộc cách mạng văn hóa, và sau khi \"tứ nhân bản\" được phục hồi. Năm 1977, ông lại tái xuất hiện và nắm quyền thực tế đằng sau sự cai trị của Hua Guofeng. Ông trở thành nhà kinh tế lỗi lạc và hoàn thiện công việc ngoại giao với người Phương Tây. Năm 1981, ông làm chủ tịch ủy ban quân sự trung ương. Ông phân chia việc quản lý kinh tế và trừng trị những kẻ tham nhũng. Ðầu thập niên 1990, ông khuyến khích sự phát triển kinh tế nhanh chóng và đề cử ông Jiang zemin là người kế nhiệm. Vào năm 1993, ông Jiang làm chủ tịch nước Trung Quốc."
+        "t": "Ông bị mất uy tín trong cuộc cách mạng văn hóa, và sau khi \"tứ nhân bản\" được phục hồi. Năm 1977, ông lại tái xuất hiện và nắm quyền thực tế đằng sau sự cai trị của Hua Guofeng. Ông trở thành nhà kinh tế lỗi lạc và hoàn thiện công việc ngoại giao với người Phương Tây. Năm 1981, ông làm chủ tịch ủy ban quân sự trung ương. Ông phân chia việc quản lý kinh tế và trừng trị những kẻ tham nhũng. Đầu thập niên 1990, ông khuyến khích sự phát triển kinh tế nhanh chóng và đề cử ông Jiang zemin là người kế nhiệm. Vào năm 1993, ông Jiang làm chủ tịch nước Trung Quốc."
       }
     ],
     "k": "deng xiaoping"
@@ -33920,25 +33920,25 @@
     "segs": [
       {
         "k": "m",
-        "t": "một đất nước ở phía Bắc Châu Âu, giữa miền Bắc và biển Baltic, bao gồm phần lớn bán đảo Jutland và nhiều quần đảo. Nơi đây cũng gồm những đảo lớn như Sjaelland (zealand), Fyn (Funen), Lolland và Bornholm. Từ thế kỷ 14, Greenland và đảo Faeroe là những lãnh địa chính của Ðan Mạch."
+        "t": "một đất nước ở phía Bắc Châu Âu, giữa miền Bắc và biển Baltic, bao gồm phần lớn bán đảo Jutland và nhiều quần đảo. Nơi đây cũng gồm những đảo lớn như Sjaelland (zealand), Fyn (Funen), Lolland và Bornholm. Từ thế kỷ 14, Greenland và đảo Faeroe là những lãnh địa chính của Đan Mạch."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Ðan Mạch là nước bằng phẳng và thấp. Nước biển tràn vào nhiều nơi, cuốn theo đất cát ra biển. Khí hậu ôn hòa và mưa nhiều."
+        "t": "Địa hình: Đan Mạch là nước bằng phẳng và thấp. Nước biển tràn vào nhiều nơi, cuốn theo đất cát ra biển. Khí hậu ôn hòa và mưa nhiều."
       },
       {
         "k": "m",
-        "t": "Kinh tế: cả hai nền công nghiệp và nông nghiệp đều quan trọng cho kinh tế Ðan Mạch. Sản phẩm nông nghiệp đạt một phần tư lượng hàng hóa xuất khẩu. Máy móc và hóa chất chiếm một phần ba xuất khẩu. Kỹ nghệ, đóng tàu, lọc dầu và đồ trang trí là những mặt hàng công nghiệp quan trọng. Ở quần đảo Faeroe và Greenland thì nghề đánh cá là hoạt động kinh tế chính yếu."
+        "t": "Kinh tế: cả hai nền công nghiệp và nông nghiệp đều quan trọng cho kinh tế Đan Mạch. Sản phẩm nông nghiệp đạt một phần tư lượng hàng hóa xuất khẩu. Máy móc và hóa chất chiếm một phần ba xuất khẩu. Kỹ nghệ, đóng tàu, lọc dầu và đồ trang trí là những mặt hàng công nghiệp quan trọng. Ở quần đảo Faeroe và Greenland thì nghề đánh cá là hoạt động kinh tế chính yếu."
       },
       {
         "k": "m",
-        "t": "Lịch sử: có sự tham gia tích cực của người dân Ðan Mạch trong cuộc khám phá của Viking (năm 800). Canute cai trị một đế chế vĩ đại ở thế kỷ 11, bao gồm Ðan Mạch, Anh, Na Uy, miền Nam Thụy Ðiển và một số vùng lãnh thổ của người Phần Lan. Ông là người nổi tiếng về việc mở rộng Cơ Ðốc Giáo, ban đầu được giới thiệu ở thế kỷ thứ 9. Sau một thời kỳ mất đoàn kết nội bộ, Ðan Mạch lại chìm đắm trong sự lãnh đạo của dân tộc Scandinavi và thế kỷ 13. Chiến tranh và những rắc rối về hiến pháp tiếp diễn cho đến đời vua Christopher II (1320-1332), đã có sự nhượng bộ giai cấp quý tộc và tu sĩ tham gia chính quyền hoàng gia. Năm 1340-1375, con trai của ông là Waldemar IV đã thành lập quyền lực hoàng gia, cùng con gái ông là Margaret I."
+        "t": "Lịch sử: có sự tham gia tích cực của người dân Đan Mạch trong cuộc khám phá của Viking (năm 800). Canute cai trị một đế chế vĩ đại ở thế kỷ 11, bao gồm Đan Mạch, Anh, Na Uy, miền Nam Thụy Điển và một số vùng lãnh thổ của người Phần Lan. Ông là người nổi tiếng về việc mở rộng Cơ Đốc Giáo, ban đầu được giới thiệu ở thế kỷ thứ 9. Sau một thời kỳ mất đoàn kết nội bộ, Đan Mạch lại chìm đắm trong sự lãnh đạo của dân tộc Scandinavi và thế kỷ 13. Chiến tranh và những rắc rối về hiến pháp tiếp diễn cho đến đời vua Christopher II (1320-1332), đã có sự nhượng bộ giai cấp quý tộc và tu sĩ tham gia chính quyền hoàng gia. Năm 1340-1375, con trai của ông là Waldemar IV đã thành lập quyền lực hoàng gia, cùng con gái ông là Margaret I."
       },
       {
         "k": "m",
-        "t": "Năm 1387-1412, ông kế thừa việc tạo lập ra một liên bang Pan-Scandinaci ở Kalmar (từ năm 1379-1532). Vào năm 1448, liên bang này trở thành triều đại thống trị. Vào thế kỷ 16, việc tái lập Cơ Ðốc Giáo đã xây dựng nhà thờ Lutheran và Christian IV (1588-1648). Cơ Ðốc Giáo đã can thiệp vào cuộc \"Chiến tranh 30 năm\" được coi như vô địch của chủ nghĩa Cơ Ðốc. Những cuộc chiến tranh với Thụy Ðiển ở thế kỷ 17 đã làm cho Ðan Mạch bị lu mờ và suy yếu. Những tư tưởng \"Khai sáng\" du nhập vào Ðan Mạch ở cuối thế kỷ 18 dẫn tới công cuộc cải cách ruộng đất làm lợi cho nông dân. Ðan Mạch ủng hộ Pháp trong cuộc chiến tranh Napoleon, và năm 1814 Ðan Mạch bị cưỡng bách phải nhường Na Uy cho Thụy Ðiển. Năm 1849, hiến pháp mới chấm dứt chế độ quân chủ chuyên chế và giới thiệu một hình thức đại diện mới là chế độ quân chủ lập hiến. Sau đệ nhị thế chiến Ðan Mạch gia nhập khối Bắc Ðại Tây Dương (Nato). Năm 1960, hiệp hội thương mại tự do Châu Âu được thành lập. Cũng giống như Anh, Ðan Mạch gia nhập khối \"cộng đồng kinh tế Châu Âu\" vào năm 1973."
+        "t": "Năm 1387-1412, ông kế thừa việc tạo lập ra một liên bang Pan-Scandinaci ở Kalmar (từ năm 1379-1532). Vào năm 1448, liên bang này trở thành triều đại thống trị. Vào thế kỷ 16, việc tái lập Cơ Đốc Giáo đã xây dựng nhà thờ Lutheran và Christian IV (1588-1648). Cơ Đốc Giáo đã can thiệp vào cuộc \"Chiến tranh 30 năm\" được coi như vô địch của chủ nghĩa Cơ Đốc. Những cuộc chiến tranh với Thụy Điển ở thế kỷ 17 đã làm cho Đan Mạch bị lu mờ và suy yếu. Những tư tưởng \"Khai sáng\" du nhập vào Đan Mạch ở cuối thế kỷ 18 dẫn tới công cuộc cải cách ruộng đất làm lợi cho nông dân. Đan Mạch ủng hộ Pháp trong cuộc chiến tranh Napoleon, và năm 1814 Đan Mạch bị cưỡng bách phải nhường Na Uy cho Thụy Điển. Năm 1849, hiến pháp mới chấm dứt chế độ quân chủ chuyên chế và giới thiệu một hình thức đại diện mới là chế độ quân chủ lập hiến. Sau đệ nhị thế chiến Đan Mạch gia nhập khối Bắc Đại Tây Dương (Nato). Năm 1960, hiệp hội thương mại tự do Châu Âu được thành lập. Cũng giống như Anh, Đan Mạch gia nhập khối \"cộng đồng kinh tế Châu Âu\" vào năm 1973."
       },
-      {"k": "m", "t": "Năm 1993, Ðan Mạch đã phê chuẩn hiệp ước Maastricht."},
+      {"k": "m", "t": "Năm 1993, Đan Mạch đã phê chuẩn hiệp ước Maastricht."},
       {"k": "m", "t": "Thủ đô: Copenhagen."},
       {"k": "m", "t": "Diện tích: 43.092 km2"},
       {"k": "m", "t": "Dân số: 5,244 triệu (1996)."},
@@ -33951,11 +33951,11 @@
         "k": "m",
         "t": "Sắc tộc: Danish 97,2%; Turkish 0,5%; other Scandinavian 0,4%; British 0,2%; Yugoslav 0,2%."
       },
-      {"k": "m", "t": "Ngôn ngữ: Ðan Mạch (chính thống); Thổ Nhĩ Kỳ."},
+      {"k": "m", "t": "Ngôn ngữ: Đan Mạch (chính thống); Thổ Nhĩ Kỳ."},
       {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc, Khối NATO, EU, Cộng đồng Châu Âu, Oecd, Csce."}
     ],
     "k": "denmark",
-    "q": {"vi": "nước Ðan Mạch", "ipa": "'dema:k", "rs": "đé mạc k"}
+    "q": {"vi": "nước Đan Mạch", "ipa": "'dema:k", "rs": "đé mạc k"}
   },
   {
     "h": "Dennis",
@@ -35066,7 +35066,7 @@
   },
   {
     "h": "dental therapeutics",
-    "segs": [{"k": "m", "t": "Ðiều trị răng."}],
+    "segs": [{"k": "m", "t": "Điều trị răng."}],
     "k": "dental therapeutics"
   },
   {"h": "dental ulcer", "segs": [{"k": "m", "t": "Loét răng."}], "k": "dental ulcer"},
@@ -35118,7 +35118,7 @@
     "segs": [{"k": "m", "t": "through the teeth; according to dentistry"}],
     "k": "dentally"
   },
-  {"h": "dentata", "segs": [{"k": "m", "t": "Ðốt trục."}], "k": "dentata"},
+  {"h": "dentata", "segs": [{"k": "m", "t": "Đốt trục."}], "k": "dentata"},
   {
     "h": "dentate",
     "segs": [
@@ -35135,7 +35135,7 @@
     "segs": [{"k": "m", "t": "Hồi răng"}, {"k": "m", "t": "Hồi lá."}],
     "k": "dentate gyrus"
   },
-  {"h": "dentate suture", "segs": [{"k": "m", "t": "Ðường khớp răng cưa."}], "k": "dentate suture"},
+  {"h": "dentate suture", "segs": [{"k": "m", "t": "Đường khớp răng cưa."}], "k": "dentate suture"},
   {
     "h": "dentately",
     "segs": [{"k": "ref", "t": "dentate"}],
@@ -35340,7 +35340,7 @@
   {"h": "dentinal fibril s", "segs": [{"k": "m", "t": "sợi ngà."}], "k": "dentinal fibril s"},
   {"h": "dentinal papilla", "segs": [{"k": "m", "t": "Nhú răng."}], "k": "dentinal papilla"},
   {"h": "dentinal sheath", "segs": [{"k": "m", "t": "Bao Neumann."}], "k": "dentinal sheath"},
-  {"h": "dentinalgia", "segs": [{"k": "m", "t": "Ðau ngà răng."}], "k": "dentinalgia"},
+  {"h": "dentinalgia", "segs": [{"k": "m", "t": "Đau ngà răng."}], "k": "dentinalgia"},
   {
     "h": "dentine",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(giải phẫu) ngà răng, men răng."}],
@@ -35356,12 +35356,12 @@
   },
   {
     "h": "dentinocemental junction",
-    "segs": [{"k": "m", "t": "Ðường nối ngà-xương răng."}],
+    "segs": [{"k": "m", "t": "Đường nối ngà-xương răng."}],
     "k": "dentinocemental junction"
   },
   {
     "h": "dentinoenamel junction",
-    "segs": [{"k": "m", "t": "Ðường nối ngà -men răng."}],
+    "segs": [{"k": "m", "t": "Đường nối ngà -men răng."}],
     "k": "dentinoenamel junction"
   },
   {"h": "dentinogenesis", "segs": [{"k": "m", "t": "Sự tạo ngà răng."}], "k": "dentinogenesis"},
@@ -35967,12 +35967,12 @@
   {"h": "deorsum", "segs": [{"k": "m", "t": "Về phía dưới."}], "k": "deorsum"},
   {
     "h": "deorsumduction",
-    "segs": [{"k": "m", "t": "Ðưa về phía dưới, đưa xuống."}],
+    "segs": [{"k": "m", "t": "Đưa về phía dưới, đưa xuống."}],
     "k": "deorsumduction"
   },
   {
     "h": "deorsumvergence",
-    "segs": [{"k": "m", "t": "Ðộng tác đưa về phía dưới."}],
+    "segs": [{"k": "m", "t": "Động tác đưa về phía dưới."}],
     "k": "deorsumvergence"
   },
   {
@@ -36275,7 +36275,7 @@
       {
         "k": "ex",
         "t": "Don't ask me about our finances: That's my wife's department",
-        "vi": "Ðừng hỏi tôi về chuyện tài chính: Ðó là lĩnh vực của nhà tôi."
+        "vi": "Đừng hỏi tôi về chuyện tài chính: Đó là lĩnh vực của nhà tôi."
       }
     ],
     "ipa": "di'pa:tmənt",
@@ -37601,7 +37601,7 @@
   },
   {
     "h": "depletion mutation",
-    "segs": [{"k": "m", "t": "Ðột biến suy kiệt."}],
+    "segs": [{"k": "m", "t": "Đột biến suy kiệt."}],
     "k": "depletion mutation"
   },
   {
@@ -38736,7 +38736,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "địa hình (vùng) bồi"}],
     "k": "depositional topography"
   },
-  {"h": "depositive", "segs": [{"k": "m", "t": "Ðọng lại."}], "k": "depositive"},
+  {"h": "depositive", "segs": [{"k": "m", "t": "Đọng lại."}], "k": "depositive"},
   {
     "h": "depositor",
     "segs": [
@@ -39027,7 +39027,7 @@
       {
         "k": "ex",
         "t": "Don't depreciate my efforts to help/what I've done",
-        "vi": "Ðừng chê những cố gắng giúp đỡ của tôi/điều tôi đã làm"
+        "vi": "Đừng chê những cố gắng giúp đỡ của tôi/điều tôi đã làm"
       },
       {"k": "pos", "t": "nội động từ"},
       {"k": "m", "t": "trở nên kém giá trị hơn"},
@@ -40871,7 +40871,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "cuộc đua ngựa ba tuổi (tổ chức ở Êp-xơn gần Luân Ðôn vào ngày thứ Tư đầu tiên tháng 6 hằng năm do Ða-bi đặt ra năm 1780) ((cũng)"
+        "t": "cuộc đua ngựa ba tuổi (tổ chức ở Êp-xơn gần Luân Đôn vào ngày thứ Tư đầu tiên tháng 6 hằng năm do Đa-bi đặt ra năm 1780) ((cũng)"
       },
       {"k": "ex", "t": "derby day", "vi": ")"},
       {"k": "ex", "t": "Derby dog", "vi": "chó chạy lạc qua đường ngựa thi"},
@@ -40985,7 +40985,7 @@
       },
       {
         "k": "m",
-        "t": "Ðầu thập niên 1990, sự bãi bỏ quy định là việc quan trọng đi kèm với quyền tư hữu ở những nước xã hội chủ nghĩa trước đây. Việc này cho phép các hãng có nhiều tự do hơn và cho phép thành lập các hãng mới. Kết quả là đa số các chính phủ cảm thấy cần thiết phải duy trì một mức độ nào đó về quy định đối với các dịch vụ công cộng và kinh doanh."
+        "t": "Đầu thập niên 1990, sự bãi bỏ quy định là việc quan trọng đi kèm với quyền tư hữu ở những nước xã hội chủ nghĩa trước đây. Việc này cho phép các hãng có nhiều tự do hơn và cho phép thành lập các hãng mới. Kết quả là đa số các chính phủ cảm thấy cần thiết phải duy trì một mức độ nào đó về quy định đối với các dịch vụ công cộng và kinh doanh."
       }
     ],
     "k": "deregulation"
@@ -41159,7 +41159,7 @@
   {"h": "derialiration", "segs": [{"k": "m", "t": "sự mất thực thể."}], "k": "derialiration"},
   {
     "h": "Deriaz turbine",
-    "segs": [{"k": "m", "t": "tuốc-bin Ðêria, tuốc-bin có cánh chéo điều chỉnh được."}],
+    "segs": [{"k": "m", "t": "tuốc-bin Đêria, tuốc-bin có cánh chéo điều chỉnh được."}],
     "k": "deriaz turbine"
   },
   {"h": "deric", "segs": [{"k": "m", "t": "(thuộc) bì."}], "k": "deric"},
@@ -41684,7 +41684,7 @@
   },
   {
     "h": "dermagraphy",
-    "segs": [{"k": "m", "t": "Bút vẽ da"}, {"k": "m", "t": "Ðường vẽ nổi trên da."}],
+    "segs": [{"k": "m", "t": "Bút vẽ da"}, {"k": "m", "t": "Đường vẽ nổi trên da."}],
     "k": "dermagraphy"
   },
   {
@@ -42157,7 +42157,7 @@
     "segs": [{"k": "m", "t": "Môn học vân bàn tay, vân bàn chân."}],
     "k": "dermoglyphics"
   },
-  {"h": "dermograph", "segs": [{"k": "m", "t": "Ðường vẽ nổi trên da."}], "k": "dermograph"},
+  {"h": "dermograph", "segs": [{"k": "m", "t": "Đường vẽ nổi trên da."}], "k": "dermograph"},
   {"h": "dermographia", "segs": [{"k": "m", "t": "(chứng) da vẽ nổi."}], "k": "dermographia"},
   {
     "h": "dermographic",
@@ -42186,7 +42186,7 @@
   {"h": "dermomycosis", "segs": [{"k": "m", "t": "Bệnh nấm da."}], "k": "dermomycosis"},
   {
     "h": "dermonecrotic toxin",
-    "segs": [{"k": "m", "t": "Ðộc tố hoại tử da."}],
+    "segs": [{"k": "m", "t": "Độc tố hoại tử da."}],
     "k": "dermonecrotic toxin"
   },
   {"h": "dermopathy", "segs": [{"k": "m", "t": "Bệnh da."}], "k": "dermopathy"},
@@ -42222,7 +42222,7 @@
     "k": "dermot mc murrough"
   },
   {"h": "dermotactile", "segs": [{"k": "m", "t": "Xúc giác da."}], "k": "dermotactile"},
-  {"h": "dermotoxin", "segs": [{"k": "m", "t": "Ðộc tố da."}], "k": "dermotoxin"},
+  {"h": "dermotoxin", "segs": [{"k": "m", "t": "Độc tố da."}], "k": "dermotoxin"},
   {"h": "dermotropic", "segs": [{"k": "m", "t": "Hướng da."}], "k": "dermotropic"},
   {"h": "dermovaccine", "segs": [{"k": "m", "t": "vắc-xin da."}], "k": "dermovaccine"},
   {"h": "dermovascular", "segs": [{"k": "m", "t": "Da mạch máu."}], "k": "dermovascular"},
@@ -43030,7 +43030,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ðề-các, 1596-1650) nhà triết học và toán học Pháp. Ông xuất thân từ một dòng học quý tộc lâu đời. Ông được giáo dục trong nhà trường tu sĩ La Flèche tại Angers. Ông phục vụ trong quân ngũ vào đầu cuộc chiến tranh 13 năm, xuất ngũ năm 1621. Sau một số năm đi du lịch ông di cư sang Hà Lan (1629), ở đó ông tiến hành nghiên cứu khoa học 20 năm biệt lập. Năm 1649, theo lời mời của nữ hoàng Thụy Ðiển, ông chuyển đến Stochkholm và chẳng bao lâu sau mất tại đó. Descartes đặt nền móng cho hình học giải tích, đưa vào nhiều ký hiệu đại số hiện đại. Ông đã phát biểu định luật bảo toàn động lượng. Trong \"Hình học\" (1637) của Descartes khái niệm đại lượng biến thiên được áp dụng rộng rãi. Ðại lượng biến thiên theo ông được phát biểu dưới hai dạng: Một là: một đoạn thẳng có độ dài biến đổi và có hướng không đổi là tốc độ chuyển động của một điểm vạch nên đường cong bởi chuyển động của nó. Hai là: một biến số liên tục, chạy qua tập hợp các số biểu thị đoạn thẳng đó. Ảnh kép đó của biến số có được do sự thâm nhập vào nhau của hình học và đại số. Descartes đã cải tiến đáng kể hệ ký hiệu bằng cách đưa vào những dấu hiệu phổ biến cho các đại lượng biến thiên (x, y, z,...) và các hệ số (a, b, c,...) và cả ký hiệu của lũy thừa (x4, a5,...). Cách ghi công thức của Descartes hầu như chẳng khác gì với cách ghi hiện đại. Descartes đặt cơ sở cho hàng loạt những nghiên cứu các tính chất của phương trình. Trong hình học giải tích, đồng thời với Descartescòn có nhà bác học Pháp P.Fermat nghiên cứu thành quả mà Descartes đạt được là đã xây dựng phương pháp tọa độ (tọa độ Descardes). Sau khi đặt cơ sở cho hình học giải tích, bản thân Descardes không đi xa thêm trong lĩnh vực này-các hoành độ âm không được nghiên cứu, các vấn đề hình học giải tích của không gian ba chiều không được đề cập đến. Tuy vậy, tập \"Hình học\" của ông vẩn có ảnh hưởng lớn đến sự phát triển của toán học."
+        "t": "(Đề-các, 1596-1650) nhà triết học và toán học Pháp. Ông xuất thân từ một dòng học quý tộc lâu đời. Ông được giáo dục trong nhà trường tu sĩ La Flèche tại Angers. Ông phục vụ trong quân ngũ vào đầu cuộc chiến tranh 13 năm, xuất ngũ năm 1621. Sau một số năm đi du lịch ông di cư sang Hà Lan (1629), ở đó ông tiến hành nghiên cứu khoa học 20 năm biệt lập. Năm 1649, theo lời mời của nữ hoàng Thụy Điển, ông chuyển đến Stochkholm và chẳng bao lâu sau mất tại đó. Descartes đặt nền móng cho hình học giải tích, đưa vào nhiều ký hiệu đại số hiện đại. Ông đã phát biểu định luật bảo toàn động lượng. Trong \"Hình học\" (1637) của Descartes khái niệm đại lượng biến thiên được áp dụng rộng rãi. Đại lượng biến thiên theo ông được phát biểu dưới hai dạng: Một là: một đoạn thẳng có độ dài biến đổi và có hướng không đổi là tốc độ chuyển động của một điểm vạch nên đường cong bởi chuyển động của nó. Hai là: một biến số liên tục, chạy qua tập hợp các số biểu thị đoạn thẳng đó. Ảnh kép đó của biến số có được do sự thâm nhập vào nhau của hình học và đại số. Descartes đã cải tiến đáng kể hệ ký hiệu bằng cách đưa vào những dấu hiệu phổ biến cho các đại lượng biến thiên (x, y, z,...) và các hệ số (a, b, c,...) và cả ký hiệu của lũy thừa (x4, a5,...). Cách ghi công thức của Descartes hầu như chẳng khác gì với cách ghi hiện đại. Descartes đặt cơ sở cho hàng loạt những nghiên cứu các tính chất của phương trình. Trong hình học giải tích, đồng thời với Descartescòn có nhà bác học Pháp P.Fermat nghiên cứu thành quả mà Descartes đạt được là đã xây dựng phương pháp tọa độ (tọa độ Descardes). Sau khi đặt cơ sở cho hình học giải tích, bản thân Descardes không đi xa thêm trong lĩnh vực này-các hoành độ âm không được nghiên cứu, các vấn đề hình học giải tích của không gian ba chiều không được đề cập đến. Tuy vậy, tập \"Hình học\" của ông vẩn có ảnh hưởng lớn đến sự phát triển của toán học."
       }
     ],
     "k": "descartes rene\""
@@ -43311,7 +43311,7 @@
   {"h": "descending order", "segs": [{"k": "m", "t": "thứ tự giảm dần."}], "k": "descending order"},
   {
     "h": "descending palatine artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch vòm miệng xuống."}],
+    "segs": [{"k": "m", "t": "Động mạch vòm miệng xuống."}],
     "k": "descending palatine artery"
   },
   {
@@ -43986,7 +43986,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sự chấm dứt nạn phân biệt chủng tộc. Ở Hoa Kỳ, phong trào chấm dứt sự phân biệt đối với người da đen. Nhiều đạo luật về chia rẽ chủng tộc đã được thông qua ở các bang ở phía Nam. Sau cuộc nội chiến, những đạo luật đó được sự ủng hộ của tòa án tối cao quyết định vào năm 1869. Ðạo luật đòi hỏi những tiện nghi bình đẳng cho người da trắng và người da đen khi đi tàu hỏa. 50 năm sau, nhiều bang ở phía Nam tiếp tục sử dụng từ ngữ \"riêng rẽ nhưng bình đẳng\". Ðến năm 1909, \"Hiệp hội quốc gia về những người da màu\" (Naacp) ra đời. Kết quả là người da trắng và người da đen bắt đầu nỗ lực chấm dứt nạn phân biệt. Nhưng họ gặp phải sự chống đối dữ dội từ phía chính quyền và các tổ chức của người da trắng, đặc biệt ở vùng phía Nam. Năm 1948, tổng thống Truman ban hành sắc lệnh kêu gọi chấm dứt nạn phân biệt trong quân ngũ. Sự chấm dứt phân biệt chủng tộc là một phong trào đòi hỏi quyền công dân ở thập niên 1950 và 1960. Những quyết định của tòa án tối cao ban hành năm 1954 chống lại nạn phân biệt trong các trường học là sự kiện quan trọng."
+        "t": "sự chấm dứt nạn phân biệt chủng tộc. Ở Hoa Kỳ, phong trào chấm dứt sự phân biệt đối với người da đen. Nhiều đạo luật về chia rẽ chủng tộc đã được thông qua ở các bang ở phía Nam. Sau cuộc nội chiến, những đạo luật đó được sự ủng hộ của tòa án tối cao quyết định vào năm 1869. Đạo luật đòi hỏi những tiện nghi bình đẳng cho người da trắng và người da đen khi đi tàu hỏa. 50 năm sau, nhiều bang ở phía Nam tiếp tục sử dụng từ ngữ \"riêng rẽ nhưng bình đẳng\". Đến năm 1909, \"Hiệp hội quốc gia về những người da màu\" (Naacp) ra đời. Kết quả là người da trắng và người da đen bắt đầu nỗ lực chấm dứt nạn phân biệt. Nhưng họ gặp phải sự chống đối dữ dội từ phía chính quyền và các tổ chức của người da trắng, đặc biệt ở vùng phía Nam. Năm 1948, tổng thống Truman ban hành sắc lệnh kêu gọi chấm dứt nạn phân biệt trong quân ngũ. Sự chấm dứt phân biệt chủng tộc là một phong trào đòi hỏi quyền công dân ở thập niên 1950 và 1960. Những quyết định của tòa án tối cao ban hành năm 1954 chống lại nạn phân biệt trong các trường học là sự kiện quan trọng."
       },
       {
         "k": "m",
@@ -48600,7 +48600,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1940) Hiệp ước về tàu chiến. Trong chiến tranh thế giới thứ II, bản thỏa thuận giữa tổng thống F.D.Roosevelt và thủ tướng Churchill đã được ký kết. Ðó là bản thỏa thuận về việc chuyển giao những con tàu chiến, để đổi lấy cam kết sử dụng căn cứ. Hoa Kỳ chuyển giao cho Anh 50 con tàu hải quân, để đổi lấy cam kết thuê mướn những căn cứ do Anh sở hữu ở Tây Ấn Ðộ, Newfoundland và xứ Guiana thuộc Anh. Những con tàu này là kiểu mẫu dùng trong thế chiến thứ I, nên nó đã dư thừa đối với nhu cầu của Anh trong cuộc chiến. Nhưng vào thời kỳ đầu đệ nhị thế chiến, thì những con tàu này trở thành quí giá cho việc hộ tống hạm đội hải quân Anh."
+        "t": "(1940) Hiệp ước về tàu chiến. Trong chiến tranh thế giới thứ II, bản thỏa thuận giữa tổng thống F.D.Roosevelt và thủ tướng Churchill đã được ký kết. Đó là bản thỏa thuận về việc chuyển giao những con tàu chiến, để đổi lấy cam kết sử dụng căn cứ. Hoa Kỳ chuyển giao cho Anh 50 con tàu hải quân, để đổi lấy cam kết thuê mướn những căn cứ do Anh sở hữu ở Tây Ấn Độ, Newfoundland và xứ Guiana thuộc Anh. Những con tàu này là kiểu mẫu dùng trong thế chiến thứ I, nên nó đã dư thừa đối với nhu cầu của Anh trong cuộc chiến. Nhưng vào thời kỳ đầu đệ nhị thế chiến, thì những con tàu này trở thành quí giá cho việc hộ tống hạm đội hải quân Anh."
       }
     ],
     "k": "destroyer-bases deal"
@@ -50179,7 +50179,7 @@
       },
       {
         "k": "m",
-        "t": "Việc ký kết hiệp ước Salt I vào năm 1973 (tức là hiệp ước giới hạn vũ khí chiến lược) và sự tiến bộ trong mối giao hảo của Tây Ðức đối với các nước Ðông Âu, đặc biệt là Ðông Ðức. Ðó là những cuộc đàm phán mang tính chất giải tỏa căng thẳng. Trước thời kỳ chấm dứt \"chiến tranh lạnh\", những điểm xung đột vẫn còn tồn tại, thế nên \"thư giãn\" là con đường đúng đắn để các siêu cường quốc kìm hãm khả năng phát triển vũ khí hạt nhân đe dọa hòa bình thế giới."
+        "t": "Việc ký kết hiệp ước Salt I vào năm 1973 (tức là hiệp ước giới hạn vũ khí chiến lược) và sự tiến bộ trong mối giao hảo của Tây Đức đối với các nước Đông Âu, đặc biệt là Đông Đức. Đó là những cuộc đàm phán mang tính chất giải tỏa căng thẳng. Trước thời kỳ chấm dứt \"chiến tranh lạnh\", những điểm xung đột vẫn còn tồn tại, thế nên \"thư giãn\" là con đường đúng đắn để các siêu cường quốc kìm hãm khả năng phát triển vũ khí hạt nhân đe dọa hòa bình thế giới."
       }
     ],
     "k": "detente"
@@ -51473,7 +51473,7 @@
   {"h": "detrimental gene", "segs": [{"k": "m", "t": "gien gây hại."}], "k": "detrimental gene"},
   {
     "h": "detrimental mutation",
-    "segs": [{"k": "m", "t": "Ðột biến có hại."}],
+    "segs": [{"k": "m", "t": "Đột biến có hại."}],
     "k": "detrimental mutation"
   },
   {
@@ -51713,7 +51713,7 @@
     ],
     "k": "detrusive landslide"
   },
-  {"h": "detrusor", "segs": [{"k": "m", "t": "Ðẩy xuống, tống ra."}], "k": "detrusor"},
+  {"h": "detrusor", "segs": [{"k": "m", "t": "Đẩy xuống, tống ra."}], "k": "detrusor"},
   {"h": "detrusor urinae", "segs": [{"k": "m", "t": "Cơ mu-bàng quang."}], "k": "detrusor urinae"},
   {"h": "Dettol", "segs": [{"k": "m", "t": "xem chloroxylenol."}], "k": "dettol"},
   {"h": "detubation", "segs": [{"k": "m", "t": "(sự) rút ống."}], "k": "detubation"},
@@ -52218,17 +52218,17 @@
     ],
     "k": "deutoplasmic"
   },
-  {"h": "deutoscolex", "segs": [{"k": "m", "t": "Ðầu sán thứ sinh."}], "k": "deutoscolex"},
+  {"h": "deutoscolex", "segs": [{"k": "m", "t": "Đầu sán thứ sinh."}], "k": "deutoscolex"},
   {
     "h": "Deutsche Bundesbank",
-    "segs": [{"k": "m", "t": "ngân hàng trung ương Ðức."}],
+    "segs": [{"k": "m", "t": "ngân hàng trung ương Đức."}],
     "k": "deutsche bundesbank"
   },
   {
     "h": "Deutsche industries Norman",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Quy cách Tiêu chuẩn Sản phẩm công nghiệp Ðức"}
+      {"k": "m", "t": "Quy cách Tiêu chuẩn Sản phẩm công nghiệp Đức"}
     ],
     "k": "deutsche industries norman"
   },
@@ -52246,7 +52246,7 @@
   },
   {
     "h": "deutschmark",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đồng Mác của Ðức, Ðức mã."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đồng Mác của Đức, Đức mã."}],
     "ipa": "'dɔitʃma:k",
     "k": "deutschmark"
   },
@@ -53336,7 +53336,7 @@
   },
   {
     "h": "deventer diameter",
-    "segs": [{"k": "m", "t": "Ðường kính Deventer, đường kính chéo eo trên."}],
+    "segs": [{"k": "m", "t": "Đường kính Deventer, đường kính chéo eo trên."}],
     "k": "deventer diameter"
   },
   {
@@ -54075,7 +54075,7 @@
       {
         "k": "ex",
         "t": "I'm going to a party - The devil you are!",
-        "vi": "Tôi sẽ đi dự liên hoan-Ðừng hòng!"
+        "vi": "Tôi sẽ đi dự liên hoan-Đừng hòng!"
       },
       {
         "k": "ex",
@@ -54852,7 +54852,7 @@
   },
   {
     "h": "Devonian period",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kỷ Ðevon"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kỷ Đevon"}],
     "k": "devonian period"
   },
   {
@@ -54876,7 +54876,7 @@
     "segs": [{"k": "m", "t": "xúc xích Devonshire (thịt lợn nghiền được gói thành vòng)."}],
     "k": "devonshire sausage"
   },
-  {"h": "devorative", "segs": [{"k": "m", "t": "Ðể nuốt (không nhai)."}], "k": "devorative"},
+  {"h": "devorative", "segs": [{"k": "m", "t": "Để nuốt (không nhai)."}], "k": "devorative"},
   {
     "h": "devoré",
     "segs": [
@@ -54930,7 +54930,7 @@
   },
   {
     "h": "Devoted thing",
-    "segs": [{"k": "m", "t": "Ðồ thần tru (Gs 6,17-19)."}],
+    "segs": [{"k": "m", "t": "Đồ thần tru (Gs 6,17-19)."}],
     "k": "devoted thing"
   },
   {
@@ -55347,7 +55347,7 @@
   },
   {
     "h": "Dewar flask",
-    "segs": [{"k": "m", "t": "bình Ðê-oa (bình cách nhiệt bằng một lớp chân không)."}],
+    "segs": [{"k": "m", "t": "bình Đê-oa (bình cách nhiệt bằng một lớp chân không)."}],
     "k": "dewar flask"
   },
   {

@@ -266,7 +266,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "doanh nghiệp nhỏ. Nhóm kinh doanh hoặc cá nhân kinh doanh (hay còn gọi là người kinh doanh) có mức vốn thấp hơn mức vốn pháp định được quy định trong danh mục vốn pháp định của chính phủ mà hoạt động kinh doanh có tính chất nghề nghiệp, có các khoản thu nhập mang tính thường xuyên. (Ðược điều chỉnh theo Nghị định số 66-HÐBT ngày 2-3-1992). Theo quy định của pháp luật, những trường hợp sau đây không được coi là doanh nghiệp nhỏ.-Các hộ chuyên sản xuất nông - lâm - ngư - diêm nghiệp có tính chất tự sản tự tiêu.-Những người bán hàng rong, quà vặt và làm nghề dịch vụ có thu nhập thấp.-Những hộ làm kinh tế gia đình."
+        "t": "doanh nghiệp nhỏ. Nhóm kinh doanh hoặc cá nhân kinh doanh (hay còn gọi là người kinh doanh) có mức vốn thấp hơn mức vốn pháp định được quy định trong danh mục vốn pháp định của chính phủ mà hoạt động kinh doanh có tính chất nghề nghiệp, có các khoản thu nhập mang tính thường xuyên. (Được điều chỉnh theo Nghị định số 66-HĐBT ngày 2-3-1992). Theo quy định của pháp luật, những trường hợp sau đây không được coi là doanh nghiệp nhỏ.-Các hộ chuyên sản xuất nông - lâm - ngư - diêm nghiệp có tính chất tự sản tự tiêu.-Những người bán hàng rong, quà vặt và làm nghề dịch vụ có thu nhập thấp.-Những hộ làm kinh tế gia đình."
       }
     ],
     "k": "small (scale) enterprise"
@@ -784,7 +784,7 @@
   {"h": "small icon", "segs": [{"k": "m", "t": "biểu tượng nhỏ."}], "k": "small icon"},
   {
     "h": "small iliac artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch chậu thắt lưng."}],
+    "segs": [{"k": "m", "t": "Động mạch chậu thắt lưng."}],
     "k": "small iliac artery"
   },
   {
@@ -915,7 +915,7 @@
       {
         "k": "ex",
         "t": "You should have read the small print before signing the contract:",
-        "vi": "Ðáng lẽ bạn phải đọc phần in chữ nhỏ trước khi ký vào hợp đồng mới phải."
+        "vi": "Đáng lẽ bạn phải đọc phần in chữ nhỏ trước khi ký vào hợp đồng mới phải."
       },
       {
         "k": "ex",
@@ -1908,7 +1908,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "máy thông minh. Thiết bị bất kỳ có chứa các mạch điện tử dựa trên cơ sở bộ vi xử lý, cho phép thiết bị đó có thể thay đổi các thủ tục điều hành tùy theo các điều kiện ngoài, có thể lặp lại các thao tác cho đến khi nào một điều kiện được thỏa mãn, hoặc có thể thực hiện một loạt các chỉ lệnh lặp đi lặp lại nhiều lần. Các bộ vi xử lý ngày nay giá rẻ đến mức có thể ứng dụng ngay trong những thiết bị thông dụng hàng ngày như lò nướng bánh, máy pha cà phê chẳng hạn. ở một trường Ðại học của Virginia, một sinh viên chưa tốt nghiệp đã chế tạo được chiếc lò điều khiển bằng vi xử lý dùng để quay thịt bò với chế độ nhiệt độ tối ưu. Một cái cảm biến nhiệt độ sẽ báo cho bộ vi xử lý biết lúc nào thịt quá nóng hoặc quá nguội để điều chỉnh bộ phận nung trong lò. Một chương trình phân tích sẽ tính toán thời gian quay tối ưu. Các thử nghiệm viên về khẩu vị đều công nhận thịt quay ra rất ngon."
+        "t": "máy thông minh. Thiết bị bất kỳ có chứa các mạch điện tử dựa trên cơ sở bộ vi xử lý, cho phép thiết bị đó có thể thay đổi các thủ tục điều hành tùy theo các điều kiện ngoài, có thể lặp lại các thao tác cho đến khi nào một điều kiện được thỏa mãn, hoặc có thể thực hiện một loạt các chỉ lệnh lặp đi lặp lại nhiều lần. Các bộ vi xử lý ngày nay giá rẻ đến mức có thể ứng dụng ngay trong những thiết bị thông dụng hàng ngày như lò nướng bánh, máy pha cà phê chẳng hạn. ở một trường Đại học của Virginia, một sinh viên chưa tốt nghiệp đã chế tạo được chiếc lò điều khiển bằng vi xử lý dùng để quay thịt bò với chế độ nhiệt độ tối ưu. Một cái cảm biến nhiệt độ sẽ báo cho bộ vi xử lý biết lúc nào thịt quá nóng hoặc quá nguội để điều chỉnh bộ phận nung trong lò. Một chương trình phân tích sẽ tính toán thời gian quay tối ưu. Các thử nghiệm viên về khẩu vị đều công nhận thịt quay ra rất ngon."
       }
     ],
     "k": "smart machine"
@@ -3192,7 +3192,7 @@
   },
   {
     "h": "smithfield",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chợ bán thịt (ở Luân Ðôn)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chợ bán thịt (ở Luân Đôn)."}],
     "ipa": "'smiθfi:ld",
     "k": "smithfield"
   },
@@ -3393,7 +3393,7 @@
       {"k": "m", "t": "hơi thuốc"},
       {"k": "ex", "t": "I must have a smoke", "vi": "tôi phải rít một hơi thuốc mới được"},
       {"k": "m", "t": "cái để hút (nhất là điếu thuốc lá, điếu xì gà)"},
-      {"k": "ex", "t": "the big smoke", "vi": "(lóng) Luân Ðôn"},
+      {"k": "ex", "t": "the big smoke", "vi": "(lóng) Luân Đôn"},
       {"k": "m", "t": "thành phố công nghiệp lớn"},
       {"k": "ex", "t": "from smoke into smother", "vi": "từ lỗi này sang tội nọ"},
       {"k": "ex", "t": "like smoke", "vi": "^thtục. nhanh chóng, dễ dàng"},
@@ -3456,7 +3456,7 @@
       {
         "k": "ex",
         "t": "Most people know that the politician was just using smoke and mirrors to make things look better than they really were:",
-        "vi": "Ða số người ta biết rằng chính trị gia này chỉ sử dụng thuật hùng biện lừa dối để làm cho mọi việc trông có vẻ tốt hơn tình trạng thực sự của chúng."
+        "vi": "Đa số người ta biết rằng chính trị gia này chỉ sử dụng thuật hùng biện lừa dối để làm cho mọi việc trông có vẻ tốt hơn tình trạng thực sự của chúng."
       },
       {
         "k": "ex",
@@ -5603,7 +5603,7 @@
   },
   {
     "h": "smorrebrod",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "xan-uých Ðan Mạch."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "xan-uých Đan Mạch."}],
     "ipa": "'smɔrəbrɔd",
     "k": "smorrebrod"
   },
@@ -5943,7 +5943,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Dân buôn lậu. Họ là những người mang hàng hóa một cách bất hợp pháp từ một nước này sang nước khác nhằm trốn thuế hoặc né tránh sự ngăn cấm của luật pháp về việc nhập khẩu hàng hóa. Những kẻ buôn lậu đã xuất hiện và tồn tại từ khi có nền văn minh. Vào thời Ai Cập cổ xưa, tội buôn lậu thường khó tránh khỏi án tử hình. Việc buôn lậu có tổ chức bắt đầu xuất hiện từ cuối thế kỷ 17, khi mức thuế cao và việc vận chuyển bằng đường biển phải chịu sự chi phối của luật hàng hải. Tình trạng buôn lậu trở nên phổ biến ở Anh bởi vì họ có thể mua được rượu, trà, vải và nước hoa với giá hợp lý. Ở thuộc địa Mỹ, họ được nhắc đến như những vị anh hùng yêu nước bất chấp sự ngăn cấm của đạo luật hàng hải. Việc giảm thuế vào cuối thế kỷ 18 đã làm cho việc buôn bán tự do lan rộng. Ðồng thời, sự thành lập lực lượng tuần tra bờ biển cũng làm cho việc buôn lậu giảm hẳn."
+        "t": "Dân buôn lậu. Họ là những người mang hàng hóa một cách bất hợp pháp từ một nước này sang nước khác nhằm trốn thuế hoặc né tránh sự ngăn cấm của luật pháp về việc nhập khẩu hàng hóa. Những kẻ buôn lậu đã xuất hiện và tồn tại từ khi có nền văn minh. Vào thời Ai Cập cổ xưa, tội buôn lậu thường khó tránh khỏi án tử hình. Việc buôn lậu có tổ chức bắt đầu xuất hiện từ cuối thế kỷ 17, khi mức thuế cao và việc vận chuyển bằng đường biển phải chịu sự chi phối của luật hàng hải. Tình trạng buôn lậu trở nên phổ biến ở Anh bởi vì họ có thể mua được rượu, trà, vải và nước hoa với giá hợp lý. Ở thuộc địa Mỹ, họ được nhắc đến như những vị anh hùng yêu nước bất chấp sự ngăn cấm của đạo luật hàng hải. Việc giảm thuế vào cuối thế kỷ 18 đã làm cho việc buôn bán tự do lan rộng. Đồng thời, sự thành lập lực lượng tuần tra bờ biển cũng làm cho việc buôn lậu giảm hẳn."
       }
     ],
     "k": "smugglers"

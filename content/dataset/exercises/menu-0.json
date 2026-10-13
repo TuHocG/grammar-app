@@ -10,7 +10,7 @@
     "expl": [
       {
         "head": "Chữ an đúng vì:",
-        "lines": ["- Nghĩa là một...", "- Ðứng trước Count Noun, bắt đầu bằng nguyên âm egg."],
+        "lines": ["- Nghĩa là một...", "- Đứng trước Count Noun, bắt đầu bằng nguyên âm egg."],
         "refs": [207, 210]
       }
     ],
@@ -27,12 +27,12 @@
     "expl": [
       {
         "head": "1)",
-        "lines": ["Chữ a đúng vì:", "- Nghĩa là một.", "- Ðứng trước Count Noun (Reservation)."],
+        "lines": ["Chữ a đúng vì:", "- Nghĩa là một.", "- Đứng trước Count Noun (Reservation)."],
         "refs": [207]
       },
       {
         "head": "2)",
-        "lines": ["Chữ the đúng vì:", "- Ðứng trước tính từ ở cực cấp next (near, nearer, next)."],
+        "lines": ["Chữ the đúng vì:", "- Đứng trước tính từ ở cực cấp next (near, nearer, next)."],
         "refs": [209, 65]
       }
     ],
@@ -292,9 +292,9 @@
         "head": "1)",
         "lines": [
           "Không mạo từ phát biểu sự nói chung chung:",
-          "Ra phố = to town/ Ði học = to school/ Ði chợ = to market",
-          "Ði ngủ = to bed/ Ði lễ chùa, nhà thờ = to church/",
-          "Ði tù = to prison"
+          "Ra phố = to town/ Đi học = to school/ Đi chợ = to market",
+          "Đi ngủ = to bed/ Đi lễ chùa, nhà thờ = to church/",
+          "Đi tù = to prison"
         ],
         "refs": [208, 210]
       },
@@ -502,16 +502,16 @@
       {
         "head": "3)",
         "lines": [
-          "Ðường phố mà có tên riêng đứng trước thì không có the:",
+          "Đường phố mà có tên riêng đứng trước thì không có the:",
           "- Scott street: đường Scott...",
-          "- Trần Hưng Ðạo street: đường Trần Hưng Ðạo..."
+          "- Trần Hưng Đạo street: đường Trần Hưng Đạo..."
         ],
         "refs": [210]
       },
       {
         "head": "4)",
         "lines": [
-          "Ðại lộ mà có tên riêng hoặc số thứ tự đứng trước thì không có the. Ngoại trừ cả thế giới chỉ có một đại lộ ở New York mang tên: The fifth Avenue."
+          "Đại lộ mà có tên riêng hoặc số thứ tự đứng trước thì không có the. Ngoại trừ cả thế giới chỉ có một đại lộ ở New York mang tên: The fifth Avenue."
         ],
         "refs": [210]
       }
@@ -560,7 +560,7 @@
       {"a": "", "alt": [], "n": 6},
       {"a": "the", "alt": [], "n": 2}
     ],
-    "vi": "Hồ Erie thì nhỏ hơn hồ Michigan. Chúng là 2 trong số những Ðại hồ nằm giữa Canada và Hoa Kỳ.",
+    "vi": "Hồ Erie thì nhỏ hơn hồ Michigan. Chúng là 2 trong số những Đại hồ nằm giữa Canada và Hoa Kỳ.",
     "expl": [
       {
         "head": "1)",
@@ -569,7 +569,7 @@
           "Ex:",
           "- Hồ Gươm Lake Sword (hoặc viết thường Lake Sword) không the.",
           "- Hồ Than Thở Lake Than Thở (Lake Than Thở không the Lake).",
-          "Nhưng cả thế giới chỉ có một vùng Ðại Hồ (gồm có 5 hồ nhỏ ở Châu Mỹ) thì có the và viết như sau: The Great Lakes có s."
+          "Nhưng cả thế giới chỉ có một vùng Đại Hồ (gồm có 5 hồ nhỏ ở Châu Mỹ) thì có the và viết như sau: The Great Lakes có s."
         ],
         "refs": [210, 209]
       },
@@ -580,7 +580,7 @@
         ],
         "refs": [210]
       },
-      {"head": "3)", "lines": ["Phải có the vì cả thế giới chỉ có một vùng Ðại Hồ."], "refs": [209]},
+      {"head": "3)", "lines": ["Phải có the vì cả thế giới chỉ có một vùng Đại Hồ."], "refs": [209]},
       {
         "head": "4)",
         "lines": [
@@ -614,7 +614,7 @@
         "lines": [
           "Khi đã có danh từ chỉ chức tước đứng trước tên riêng của người thì không có the. Ex:",
           "- Giáo sư Johnson = Professor Johnson (không the Professor)",
-          "- Ðại úy Brown = Captain Brown (không the Captain..)."
+          "- Đại úy Brown = Captain Brown (không the Captain..)."
         ],
         "refs": [210]
       },
@@ -640,7 +640,7 @@
       {"a": "the", "alt": [], "n": 2},
       {"a": "the", "alt": [], "n": 3}
     ],
-    "vi": "Kênh đào Panama nối liền Ðại Tây Dương và Thái Bình Dương. Nó được hình thành trên đất thuê mướn của chính quyền Panama.",
+    "vi": "Kênh đào Panama nối liền Đại Tây Dương và Thái Bình Dương. Nó được hình thành trên đất thuê mướn của chính quyền Panama.",
     "expl": [
       {
         "head": "1)",
@@ -652,7 +652,7 @@
       {
         "head": "2)",
         "lines": [
-          "Phải có the trước danh từ ocean, tên riêng Atlantic đặt trước Ocean, đôi khi người ta bỏ bớt chữ Ocean mà chỉ nói the Atlantic (Ðại Tây Dương)."
+          "Phải có the trước danh từ ocean, tên riêng Atlantic đặt trước Ocean, đôi khi người ta bỏ bớt chữ Ocean mà chỉ nói the Atlantic (Đại Tây Dương)."
         ],
         "refs": [209]
       },
@@ -922,7 +922,7 @@
     "text": "Mr. Preston collects {0} stamps from {1} oriental countries.",
     "tt": 2,
     "blanks": [{"a": "", "alt": [], "n": 6}, {"a": "the", "alt": [], "n": 3}],
-    "vi": "Ông Preston sưu tập tem thư, từ những nước Ðông Phương.",
+    "vi": "Ông Preston sưu tập tem thư, từ những nước Đông Phương.",
     "expl": [
       {
         "head": "1)",
@@ -935,12 +935,12 @@
         "head": "2)",
         "lines": [
           "Tất cả các danh từ dù số ít hoặc số nhiều thuộc địa lý các vùng mà có tính từ chỉ phương hướng đặt trước thì bắt buộc phải có the. Ex:",
-          "Những nước Ðông Phương = the oriental countries.",
-          "Vùng Trung Ðông = the Middle East.",
-          "Vùng Cận Ðông = the Near East.",
-          "Vùng Viễn Ðông = the Far East.",
-          "- Ngoại trừ: Vùng Ðông Âu = Eastern Europe (không the).",
-          "Vùng Ðông Nam á = South East Asia (không the)."
+          "Những nước Đông Phương = the oriental countries.",
+          "Vùng Trung Đông = the Middle East.",
+          "Vùng Cận Đông = the Near East.",
+          "Vùng Viễn Đông = the Far East.",
+          "- Ngoại trừ: Vùng Đông Âu = Eastern Europe (không the).",
+          "Vùng Đông Nam á = South East Asia (không the)."
         ],
         "refs": [209]
       }
@@ -954,7 +954,7 @@
     "text": "Last night we saw {0} movie that was filmed in {1} Tahiti.",
     "tt": 2,
     "blanks": [{"a": "a", "alt": [], "n": 4}, {"a": "", "alt": [], "n": 5}],
-    "vi": "Ðêm qua, chúng tôi đã coi một cuốn phim được dựng ở Tahiti.",
+    "vi": "Đêm qua, chúng tôi đã coi một cuốn phim được dựng ở Tahiti.",
     "expl": [
       {
         "head": "1)",
@@ -1008,7 +1008,7 @@
         "lines": [
           "Chỉ có 3 cuộc chiến tranh thế giới, 2 cuộc đã xảy ra, và sợ cuộc chiến tranh thứ 3 sẽ xảy ra, thì người ta không dùng mạo từ the World war one/ World war two/ World war three.",
           "- Nhưng tất cả những cuộc chiến tranh cục bộ đều phải có the",
-          "Ex: Cuộc chiến tranh Trung Quốc - Ấn Ðộ đã xảy ra năm 1972.",
+          "Ex: Cuộc chiến tranh Trung Quốc - Ấn Độ đã xảy ra năm 1972.",
           "The war between China and India happened in 1972."
         ],
         "refs": [209]
@@ -1272,19 +1272,19 @@
     "text": "{0} Amazon River originates in the Peruvian Andes and flows east to {1} Atlantic.",
     "tt": 2,
     "blanks": [{"a": "The", "alt": [], "n": 2}, {"a": "the", "alt": [], "n": 2}],
-    "vi": "Sông Amazon bắt nguồn từ dãy núi Andes ở Peru và chảy về hướng Ðông đến Ðại Tây Dương.",
+    "vi": "Sông Amazon bắt nguồn từ dãy núi Andes ở Peru và chảy về hướng Đông đến Đại Tây Dương.",
     "expl": [
       {
         "head": "1)",
         "lines": [
-          "Ðứng trước danh từ river luôn luôn phải có the (the Saigon River /the Ðồng Nai River."
+          "Đứng trước danh từ river luôn luôn phải có the (the Saigon River /the Đồng Nai River."
         ],
         "refs": [209]
       },
       {
         "head": "2)",
         "lines": [
-          "Ðứng trước danh từ ocean dù để nguyên hay lược bỏ đi và hiểu ngầm, cũng vẫn phải có the đứng trước (The Atlantic ocean)",
+          "Đứng trước danh từ ocean dù để nguyên hay lược bỏ đi và hiểu ngầm, cũng vẫn phải có the đứng trước (The Atlantic ocean)",
           "= the Alantic (ocean)."
         ],
         "refs": [209]
@@ -1442,7 +1442,7 @@
       {"a": "", "alt": [], "n": 6},
       {"a": "", "alt": [], "n": 6}
     ],
-    "vi": "Maria muốn học tiếng Pháp trước khi đến Châu Âu năm tới. Cô ta đã nói tiếng Tây Ban Nha và tiếng Ðức lưu loát.",
+    "vi": "Maria muốn học tiếng Pháp trước khi đến Châu Âu năm tới. Cô ta đã nói tiếng Tây Ban Nha và tiếng Đức lưu loát.",
     "expl": [
       {
         "head": "1)",
@@ -1603,7 +1603,7 @@
       {"a": "", "alt": [], "n": 5},
       {"a": "the", "alt": [], "n": 2}
     ],
-    "vi": "Chúng tôi học khóa địa lý rằng thung lũng bao quanh sông Nile là thung lũng phì nhiêu nhất thế giới. Lý do là hàng năm sông Nile mang phù sa đến cho đất. Xưa kia mảnh đất phì nhiêu của Ai Cập đã hấp dẫn nhiều người, vì thế Ai Cập đã trở thành nước văn minh nổi tiếng đầu tiên. Ðôi khi nó được xem là cái nôi của nền văn minh.",
+    "vi": "Chúng tôi học khóa địa lý rằng thung lũng bao quanh sông Nile là thung lũng phì nhiêu nhất thế giới. Lý do là hàng năm sông Nile mang phù sa đến cho đất. Xưa kia mảnh đất phì nhiêu của Ai Cập đã hấp dẫn nhiều người, vì thế Ai Cập đã trở thành nước văn minh nổi tiếng đầu tiên. Đôi khi nó được xem là cái nôi của nền văn minh.",
     "expl": [
       {
         "head": "1)",
@@ -1798,7 +1798,7 @@
       {"a": "the", "alt": [], "n": 1},
       {"a": "the", "alt": [], "n": 2}
     ],
-    "vi": "Ðêm qua tôi coi một cuốn phim nói về một người lính và một cô gái đẹp. Người lính yêu cô gái, nhưng nàng lại yêu một thầy giáo. Vì vậy người lính đã bắn ông thầy và lấy cô gái.",
+    "vi": "Đêm qua tôi coi một cuốn phim nói về một người lính và một cô gái đẹp. Người lính yêu cô gái, nhưng nàng lại yêu một thầy giáo. Vì vậy người lính đã bắn ông thầy và lấy cô gái.",
     "expl": [
       {
         "head": "1)",
@@ -2367,7 +2367,7 @@
       {
         "head": "4)",
         "lines": [
-          "Ðáng lẽ, chữ <nut cutlet> nhắc lại một lần nữa thì phải có mạo từ the đứng trước. Nhưng ở đây người ta muốn nhấn mạnh chỉ ăn có một cái nhân quả hạnh thôi, nên vẫn dùng mạo từ a."
+          "Đáng lẽ, chữ <nut cutlet> nhắc lại một lần nữa thì phải có mạo từ the đứng trước. Nhưng ở đây người ta muốn nhấn mạnh chỉ ăn có một cái nhân quả hạnh thôi, nên vẫn dùng mạo từ a."
         ],
         "refs": [207]
       },
@@ -2440,7 +2440,7 @@
       {
         "head": "1)",
         "lines": [
-          "Ði lại bằng phương tiện gì là by + Noun. Ex: by taxi/car... chứ không có mạo từ a/the vì ta nói đến tổng thể, toàn bộ các phương tiện đó, nó biến thành Mass Noun nên không có mạo từ."
+          "Đi lại bằng phương tiện gì là by + Noun. Ex: by taxi/car... chứ không có mạo từ a/the vì ta nói đến tổng thể, toàn bộ các phương tiện đó, nó biến thành Mass Noun nên không có mạo từ."
         ],
         "refs": []
       },
@@ -2491,7 +2491,7 @@
       {
         "head": "2)",
         "lines": [
-          "claustrophobia là một bệnh thần kinh sợ sự bao vây. Ðối với các bệnh tật, không có a hoặc the đặt trước trừ những bệnh thoáng qua gọi là một cơn, 2 cơn v.v... người ta dùng a đứng trước.",
+          "claustrophobia là một bệnh thần kinh sợ sự bao vây. Đối với các bệnh tật, không có a hoặc the đặt trước trừ những bệnh thoáng qua gọi là một cơn, 2 cơn v.v... người ta dùng a đứng trước.",
           "Ví dụ:",
           "Tôi bị một cơn nhức đầu = I have a headache.",
           "Tôi bị một cơn đau cổ họng = I have a sorethroat."
@@ -2862,7 +2862,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "a", "alt": [], "n": 4}
     ],
-    "vi": "Một người bạn của tôi đang sanh. Nếu là bé gái thì sẽ đặt là Etheldreda. Ðúng là một cái tên nữ.",
+    "vi": "Một người bạn của tôi đang sanh. Nếu là bé gái thì sẽ đặt là Etheldreda. Đúng là một cái tên nữ.",
     "expl": [
       {
         "head": "1)",
@@ -2887,7 +2887,7 @@
       {
         "head": "4)",
         "lines": [
-          "Ðối với câu tán thán (exclamatory sentence). Nếu danh từ bên trong câu, là danh từ số ít đếm được, thì bắt buộc phải có What + a + Singular Noun đứng đầu câu, và cuối câu phải có chấm than (!)"
+          "Đối với câu tán thán (exclamatory sentence). Nếu danh từ bên trong câu, là danh từ số ít đếm được, thì bắt buộc phải có What + a + Singular Noun đứng đầu câu, và cuối câu phải có chấm than (!)"
         ],
         "refs": []
       },
@@ -3196,12 +3196,12 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "the", "alt": [], "n": 2}
     ],
-    "vi": "Nếu bạn đi bằng xe lửa, bạn sẽ có một cuộc hành trình khá tốt. Nhưng chắc ăn là bạn nên đi bằng xe tốc hành. Ðừng đi xe lửa vì nó hay ngừng ở các ga.",
+    "vi": "Nếu bạn đi bằng xe lửa, bạn sẽ có một cuộc hành trình khá tốt. Nhưng chắc ăn là bạn nên đi bằng xe tốc hành. Đừng đi xe lửa vì nó hay ngừng ở các ga.",
     "expl": [
       {
         "head": "1)",
         "lines": [
-          "Ði bằng phương tiện gì, bao giờ cũng dùng giới từ by + bus/train/car v.v.. (không có mạo từ)."
+          "Đi bằng phương tiện gì, bao giờ cũng dùng giới từ by + bus/train/car v.v.. (không có mạo từ)."
         ],
         "refs": [210, 208]
       },
@@ -3320,7 +3320,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "a", "alt": [], "n": 4}
     ],
-    "vi": "Ðã đến lúc bạn nên đi nghỉ. Bạn đã không có đến một ngày nghỉ khoảng một tháng nay.",
+    "vi": "Đã đến lúc bạn nên đi nghỉ. Bạn đã không có đến một ngày nghỉ khoảng một tháng nay.",
     "expl": [
       {
         "head": "1)",
@@ -3546,9 +3546,9 @@
           "Thông thường: đến công viên = to the park.",
           "ở công viên = at the park. trong công viên = in the park.",
           "- Nếu có danh từ riêng đứng trước park thì không có mạo từ the xác định.",
-          "Ex: to Tao Ðàn Park/ at Tao Ðàn Park/ in Tao Ðàn Park.",
-          "Nhưng người nói chỉ nêu <1 cái công viên nào đó>, ở Luân Ðôn.",
-          "(Luân Ðôn có rất nhiều công viên), thì dùng mạo từ a.",
+          "Ex: to Tao Đàn Park/ at Tao Đàn Park/ in Tao Đàn Park.",
+          "Nhưng người nói chỉ nêu <1 cái công viên nào đó>, ở Luân Đôn.",
+          "(Luân Đôn có rất nhiều công viên), thì dùng mạo từ a.",
           "Ex: a London park."
         ],
         "refs": []
@@ -4285,7 +4285,7 @@
       {"a": "", "alt": [], "n": 5},
       {"a": "", "alt": [], "n": 5}
     ],
-    "vi": "Lần đầu tiên anh ấy đi biển trên con tàu Thụy Ðiển. Cũng để học hỏi về hàng hải mà anh ấy đã phải học tiếng Thụy Ðiển.",
+    "vi": "Lần đầu tiên anh ấy đi biển trên con tàu Thụy Điển. Cũng để học hỏi về hàng hải mà anh ấy đã phải học tiếng Thụy Điển.",
     "expl": [
       {
         "head": "1)",
@@ -4374,7 +4374,7 @@
       {
         "head": "2)",
         "lines": [
-          "Ta có cấu trúc: Ði ngủ = to go to bed (không the).",
+          "Ta có cấu trúc: Đi ngủ = to go to bed (không the).",
           "ở trên giường = to stay in bed (không the)."
         ],
         "refs": [210]
@@ -4856,7 +4856,7 @@
       {"a": "the", "alt": [], "n": 2},
       {"a": "the", "alt": [], "n": 2}
     ],
-    "vi": "Những cặp vợ chồng đông con thường thuê những căn lều ở cạnh bờ biển để nghỉ mát. Ðàn ông thì thuê thuyền đi du ngoạn dọc theo bờ biển, trẻ em đi chơi trên bãi biển, những phụ nữ đáng thương thì vùi đầu vào nấu nướng, giặt giũ.",
+    "vi": "Những cặp vợ chồng đông con thường thuê những căn lều ở cạnh bờ biển để nghỉ mát. Đàn ông thì thuê thuyền đi du ngoạn dọc theo bờ biển, trẻ em đi chơi trên bãi biển, những phụ nữ đáng thương thì vùi đầu vào nấu nướng, giặt giũ.",
     "expl": [
       {
         "head": "1)",
@@ -4986,7 +4986,7 @@
       {"a": "the", "alt": [], "n": 2},
       {"a": "", "alt": [], "n": 3}
     ],
-    "vi": "Ði bộ trên cát thường an toàn, nhưng ở đây khi thủy triều dâng lên thì cát sẽ thành nguy hiểm vì người ta có thể bị lún cát.",
+    "vi": "Đi bộ trên cát thường an toàn, nhưng ở đây khi thủy triều dâng lên thì cát sẽ thành nguy hiểm vì người ta có thể bị lún cát.",
     "expl": [
       {
         "head": "1)",
@@ -5033,7 +5033,7 @@
       {"a": "the", "alt": [], "n": 2},
       {"a": "the", "alt": [], "n": 2}
     ],
-    "vi": "Khi tàu Titanic băng qua Ðại Tây Dương, nó đã đụng phải một tảng băng làm toạc một lỗ hổng lớn ở mũi tàu. Thuyền trưởng đã ra lệnh cho thủy thủ giúp hành khách xuống những xuồng cấp cứu.",
+    "vi": "Khi tàu Titanic băng qua Đại Tây Dương, nó đã đụng phải một tảng băng làm toạc một lỗ hổng lớn ở mũi tàu. Thuyền trưởng đã ra lệnh cho thủy thủ giúp hành khách xuống những xuồng cấp cứu.",
     "expl": [
       {
         "head": "1)",
@@ -5328,7 +5328,7 @@
           "light (là ánh sáng) danh từ số ít không đếm được, nhưng ta vẫn để: a light = một ngọn đèn.",
           "a light = một chút lửa.",
           "Ex: Cho tôi xin tí lửa (để mồi thuốc lá) = Give me a light.",
-          "Hoặc: Ðể mạo từ the trong thành ngữ:",
+          "Hoặc: Để mạo từ the trong thành ngữ:",
           "Ngoài ánh sáng = in the light."
         ],
         "refs": [209]
@@ -5882,7 +5882,7 @@
     "text": "To prevent {0} possible repetition of this accident. I lent him {1} torch.",
     "tt": 2,
     "blanks": [{"a": "a", "alt": [], "n": 4}, {"a": "a", "alt": [], "n": 4}],
-    "vi": "Ðể phòng ngừa tai nạn có thể lặp lại, tôi đưa cho hắn mượn một đèn pin.",
+    "vi": "Để phòng ngừa tai nạn có thể lặp lại, tôi đưa cho hắn mượn một đèn pin.",
     "expl": [
       {
         "head": "1)",
@@ -6287,7 +6287,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "a", "alt": [], "n": 4}
     ],
-    "vi": "- Ðã có một vụ án mạng ở đây? Tử thi ở đâu? - Không có tử thi.\n- Vậy sao anh biết đã có một vụ án mạng?",
+    "vi": "- Đã có một vụ án mạng ở đây? Tử thi ở đâu? - Không có tử thi.\n- Vậy sao anh biết đã có một vụ án mạng?",
     "expl": [
       {
         "head": "1)",
@@ -6391,7 +6391,7 @@
         "lines": [
           "park (công viên) danh từ số ít đếm được, nhưng người nói đã biết cái công viên ở chỗ nào rồi, nên dùng mạo từ the park để xác định.",
           "- Ngoài ra: Nếu công viên có tên riêng đứng trước thì bỏ mạo từ a/the. Ex:",
-          "- Tôi đến công viên Tao Ðàn. = I come to Tao Ðan Park."
+          "- Tôi đến công viên Tao Đàn. = I come to Tao Đan Park."
         ],
         "refs": [209]
       }
@@ -7383,8 +7383,8 @@
         "head": "3)",
         "lines": [
           "Ta có cấu trúc: Dong buồm đi đâu = to go for a sail. Có những cấu trúc giống như vậy. Ex:",
-          "- Ði dạo = to go for a walk.",
-          "- Ði picnic = to go for a picnic."
+          "- Đi dạo = to go for a walk.",
+          "- Đi picnic = to go for a picnic."
         ],
         "refs": []
       },
@@ -7577,7 +7577,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "an", "alt": [], "n": 4}
     ],
-    "vi": "Ða số mọi người thích nghỉ ngơi sau một ngày mệt nhọc, nhưng Tom hình như có một nguồn sinh lực không bao giờ cạn.",
+    "vi": "Đa số mọi người thích nghỉ ngơi sau một ngày mệt nhọc, nhưng Tom hình như có một nguồn sinh lực không bao giờ cạn.",
     "expl": [
       {
         "head": "1)",
@@ -7614,7 +7614,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "an", "alt": [], "n": 3}
     ],
-    "vi": "- Ðốt 3 điếu thuốc bằng một que diêm là rất xui! - Ðó chỉ là chuyện dị đoan.\nChỉ có người ngu mới tin vào dị đoan.",
+    "vi": "- Đốt 3 điếu thuốc bằng một que diêm là rất xui! - Đó chỉ là chuyện dị đoan.\nChỉ có người ngu mới tin vào dị đoan.",
     "expl": [
       {
         "head": "1)",
@@ -7736,7 +7736,7 @@
       {
         "head": "5)",
         "lines": [
-          "man: một người đàn ông... danh từ số ít đếm được, không xác định. Ðáng lẽ phải dùng a man (vì a là một), nhưng ý người nói muốn nhấn mạnh, nên dùng one (one là 1 nhưng nghĩa mạnh hơn a)."
+          "man: một người đàn ông... danh từ số ít đếm được, không xác định. Đáng lẽ phải dùng a man (vì a là một), nhưng ý người nói muốn nhấn mạnh, nên dùng one (one là 1 nhưng nghĩa mạnh hơn a)."
         ],
         "refs": []
       }
@@ -7899,7 +7899,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "a", "alt": [], "n": 4}
     ],
-    "vi": "- Ðừng nói lộ ra cho ai biết. Ngay cả chính vợ anh. - Dĩ nhiên là không. Tôi không bao giờ nói điều bí mật cho một người đàn bà.",
+    "vi": "- Đừng nói lộ ra cho ai biết. Ngay cả chính vợ anh. - Dĩ nhiên là không. Tôi không bao giờ nói điều bí mật cho một người đàn bà.",
     "expl": [
       {
         "head": "1)",
@@ -7941,7 +7941,7 @@
       {
         "head": "1)",
         "lines": [
-          "Ðáng lẽ sau chữ only thì người ta dùng one very short time, nhưng a short time là một thành ngữ nên phải để nguyên:",
+          "Đáng lẽ sau chữ only thì người ta dùng one very short time, nhưng a short time là một thành ngữ nên phải để nguyên:",
           "a very short time."
         ],
         "refs": []
@@ -7949,7 +7949,7 @@
       {
         "head": "2)",
         "lines": [
-          "Ðáng lẽ a man had been there, nhưng người nói muốn nhấn mạnh, nên dùng one man thay cho a man."
+          "Đáng lẽ a man had been there, nhưng người nói muốn nhấn mạnh, nên dùng one man thay cho a man."
         ],
         "refs": []
       },
@@ -8003,7 +8003,7 @@
       {
         "head": "1)",
         "lines": [
-          "Ðáng lẽ a shop (là một tiệm) danh từ số ít đếm được, không xác định, nhưng người nói muốn nhấn mạnh nên dùng one shop."
+          "Đáng lẽ a shop (là một tiệm) danh từ số ít đếm được, không xác định, nhưng người nói muốn nhấn mạnh nên dùng one shop."
         ],
         "refs": []
       },
@@ -8039,7 +8039,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "a", "alt": [], "n": 4}
     ],
-    "vi": "Ðại úy nói: \"Tôi cần những người tình nguyện cho một việc nguy hiểm.\"\nCó một sự im lặng. \"Không có lấy một người dám liều lĩnh hay sao?\" Ông ta hỏi thế.\nMột giọng nói vang lên từ phía sau: \"Có thưởng không?\"",
+    "vi": "Đại úy nói: \"Tôi cần những người tình nguyện cho một việc nguy hiểm.\"\nCó một sự im lặng. \"Không có lấy một người dám liều lĩnh hay sao?\" Ông ta hỏi thế.\nMột giọng nói vang lên từ phía sau: \"Có thưởng không?\"",
     "expl": [
       {
         "head": "1)",
@@ -8178,7 +8178,7 @@
       {"a": "a", "alt": [], "n": 4},
       {"a": "an", "alt": [], "n": 4}
     ],
-    "vi": "Ðột nhiên, một viên đạn đã trúng vào đèn đường ở bên trái Bill một chút. Hắn nhìn lên và thấy một người đàn ông cầm khẩu súng đang đứng ở cái cửa sổ mở.",
+    "vi": "Đột nhiên, một viên đạn đã trúng vào đèn đường ở bên trái Bill một chút. Hắn nhìn lên và thấy một người đàn ông cầm khẩu súng đang đứng ở cái cửa sổ mở.",
     "expl": [
       {
         "head": "1)",

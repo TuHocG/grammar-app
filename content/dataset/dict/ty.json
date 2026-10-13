@@ -254,7 +254,7 @@
   },
   {
     "h": "tympanic plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh màng nhĩ."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh màng nhĩ."}],
     "k": "tympanic plexus"
   },
   {
@@ -537,7 +537,7 @@
       {
         "k": "ex",
         "t": "Just the type of situation to avoid . He's true to type",
-        "vi": "Ðúng là loại tình hình nên tránh. Hắn ta vẫn có cái thói đó"
+        "vi": "Đúng là loại tình hình nên tránh. Hắn ta vẫn có cái thói đó"
       },
       {"k": "pos", "t": "thành ngữ"},
       {"k": "m", "t": "loại, típ (người có đặc tính nào đó)"},
@@ -1192,10 +1192,10 @@
     "k": "type-site"
   },
   {"h": "type-writer", "segs": [{"k": "m", "t": "máy đánh chữ."}], "k": "type-writer"},
-  {"h": "type-written", "segs": [{"k": "m", "t": "(tt) (thuộc) Ðánh máy."}], "k": "type-written"},
+  {"h": "type-written", "segs": [{"k": "m", "t": "(tt) (thuộc) Đánh máy."}], "k": "type-written"},
   {
     "h": "Type/Length/Value (ATM) (TLV)",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Kiểu/Ðộ dài/giá trị"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Kiểu/Độ dài/giá trị"}],
     "k": "type/length/value (atm) (tlv)"
   },
   {
@@ -1490,7 +1490,7 @@
     "k": "typhlo-ureterostomy"
   },
   {"h": "typhlocele", "segs": [{"k": "m", "t": "Thoát vị manh tràng."}], "k": "typhlocele"},
-  {"h": "typhlocolitis", "segs": [{"k": "m", "t": "Ðau vùng manh tràng."}], "k": "typhlocolitis"},
+  {"h": "typhlocolitis", "segs": [{"k": "m", "t": "Đau vùng manh tràng."}], "k": "typhlocolitis"},
   {"h": "typhloenteritis", "segs": [{"k": "m", "t": "Viêm manh tràng."}], "k": "typhloenteritis"},
   {
     "h": "typhlolithiasis",
@@ -1656,7 +1656,7 @@
     ],
     "ipa": "tai'fu:n",
     "k": "typhoon",
-    "q": {"vi": "bão nhiệt đới (ở Thái Bình Dương và Ấn Ðộ Dương)", "ipa": "tai'fu:n", "pos": "n"}
+    "q": {"vi": "bão nhiệt đới (ở Thái Bình Dương và Ấn Độ Dương)", "ipa": "tai'fu:n", "pos": "n"}
   },
   {
     "h": "typhoon rain",
@@ -1944,7 +1944,7 @@
     "ipa": "'tipifai",
     "k": "typify"
   },
-  {"h": "Typikon", "segs": [{"k": "m", "t": "Sách nghi thức (Ðông phương)."}], "k": "typikon"},
+  {"h": "Typikon", "segs": [{"k": "m", "t": "Sách nghi thức (Đông phương)."}], "k": "typikon"},
   {
     "h": "typing",
     "segs": [
@@ -2398,7 +2398,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một trong những thành phố chính của xứ Phê-ni-xi (Phoenician), từng rất nổi tiếng trong thời kỳ cũ bởi những nghệ nhân chạm đồng điêu luyện. Thế kỷ thứ 10 trước công nguyên, cuộc thỏa thuận giữa David và Solomon về cuộc tranh chấp giữa Irael và Assyria là một đặc trưng của các thế kỷ tiếp theo. Tilgath-Pileser III đoạt được thành phố và đòi hỏi cống phẩm từ năm 734-732. Năm 668, cuộc tấn công của vua nước Assyrian, Ashurbanipal đã bị dập tắt nhưng thành phố bị rơi vào thời đại Nebuchadnezzar II năm 587. Nó bước vào đế chế của người Achaemenids cuối thế kỷ này. Chỉ còn lại duy nhất thành phố xứ Phoenician kháng cự lại Alexander Ðại đế, nhưng vẫn thuộc về tay ông năm 332. Cho dù bị phá hoại, thành phố vẫn được hồi sinh để trở thành một trung tâm thương mại chính yếu. Hoàng đế La mã cổ đại Severus đã quyết định chọn nó là thủ đô của nước Syrian Phoenicia."
+        "t": "Một trong những thành phố chính của xứ Phê-ni-xi (Phoenician), từng rất nổi tiếng trong thời kỳ cũ bởi những nghệ nhân chạm đồng điêu luyện. Thế kỷ thứ 10 trước công nguyên, cuộc thỏa thuận giữa David và Solomon về cuộc tranh chấp giữa Irael và Assyria là một đặc trưng của các thế kỷ tiếp theo. Tilgath-Pileser III đoạt được thành phố và đòi hỏi cống phẩm từ năm 734-732. Năm 668, cuộc tấn công của vua nước Assyrian, Ashurbanipal đã bị dập tắt nhưng thành phố bị rơi vào thời đại Nebuchadnezzar II năm 587. Nó bước vào đế chế của người Achaemenids cuối thế kỷ này. Chỉ còn lại duy nhất thành phố xứ Phoenician kháng cự lại Alexander Đại đế, nhưng vẫn thuộc về tay ông năm 332. Cho dù bị phá hoại, thành phố vẫn được hồi sinh để trở thành một trung tâm thương mại chính yếu. Hoàng đế La mã cổ đại Severus đã quyết định chọn nó là thủ đô của nước Syrian Phoenicia."
       }
     ],
     "k": "tyre"
@@ -2637,7 +2637,7 @@
       {"k": "m", "t": "Thành phố thuộc dãy núi An-pơ, nước Áo."},
       {
         "k": "m",
-        "t": "Lịch sử. Năm 1803, thành phố được mở rộng do sự sát nhập của thành phố Trentino, nơi ngôn ngữ chính được sử dụng là tiếng Ý. Nhưng chỉ 2 năm sau, Hiệp ước Pressburg đã buộc Áo phải nhượng lại Tyrol cho đồng minh của Pháp là Bavaria. Năm 1809, khi Austria khởi động lại cuộc chiến với Pháp, Andreas Hofer đã chỉ huy thành công cuộc nổi dậy chống lại Bavaria và người Pháp. Hofer sau đó đã được người Áo phong danh là thống đốc của Tyrol. Nước Áo lại bị thua trận tại Wagram và một lần nữa, Hiệp ước Schonbrunn (1809), buộc họ phải nhượng Tyrol cho Napoleon. Sự kháng cự của Hofer đã dẫn đến sự phản bội nước Pháp và án tử hình được thi hành theo lệnh của Napoleon ở Mantua. Tyrol trở thành trung tâm của những người muốn khôi phục lại nước Ý: sau chiến tranh thế giới thứ nhất, toàn bộ miền Nam Tyrol rơi vào tay nước Ý, một thỏa thuận giữa Hitler và Mussolini (1938) cho phép mở rộng số dân di cư nói tiếng Ðức đến từ nước Ðức. Một cuộc hội thảo quốc tế năm 1946 đưa (quyết định) tình trạng của miền Nam Tyrol trở thành một vùng tự trị và quyết định không thay đổi đường biên giới của nó. Tình trạng căng thẳng nghiêm trọng giữa Áo và nước Ý lại tiếp diễn. Năm 1971, một hiệp ước liên quan đến vùng Trentino-Alto-Adige được phê chuẩn, quy định rằng cuộc tranh chấp sẽ được đưa ra trước Tòa án tối cao quốc tế ở Hague. Trong suốt những năm giữa thập niên 1990, sự vận động ủng hộ một nhà nước Tyrol tự trị đã giành được sự ủng hộ của nhiều người."
+        "t": "Lịch sử. Năm 1803, thành phố được mở rộng do sự sát nhập của thành phố Trentino, nơi ngôn ngữ chính được sử dụng là tiếng Ý. Nhưng chỉ 2 năm sau, Hiệp ước Pressburg đã buộc Áo phải nhượng lại Tyrol cho đồng minh của Pháp là Bavaria. Năm 1809, khi Austria khởi động lại cuộc chiến với Pháp, Andreas Hofer đã chỉ huy thành công cuộc nổi dậy chống lại Bavaria và người Pháp. Hofer sau đó đã được người Áo phong danh là thống đốc của Tyrol. Nước Áo lại bị thua trận tại Wagram và một lần nữa, Hiệp ước Schonbrunn (1809), buộc họ phải nhượng Tyrol cho Napoleon. Sự kháng cự của Hofer đã dẫn đến sự phản bội nước Pháp và án tử hình được thi hành theo lệnh của Napoleon ở Mantua. Tyrol trở thành trung tâm của những người muốn khôi phục lại nước Ý: sau chiến tranh thế giới thứ nhất, toàn bộ miền Nam Tyrol rơi vào tay nước Ý, một thỏa thuận giữa Hitler và Mussolini (1938) cho phép mở rộng số dân di cư nói tiếng Đức đến từ nước Đức. Một cuộc hội thảo quốc tế năm 1946 đưa (quyết định) tình trạng của miền Nam Tyrol trở thành một vùng tự trị và quyết định không thay đổi đường biên giới của nó. Tình trạng căng thẳng nghiêm trọng giữa Áo và nước Ý lại tiếp diễn. Năm 1971, một hiệp ước liên quan đến vùng Trentino-Alto-Adige được phê chuẩn, quy định rằng cuộc tranh chấp sẽ được đưa ra trước Tòa án tối cao quốc tế ở Hague. Trong suốt những năm giữa thập niên 1990, sự vận động ủng hộ một nhà nước Tyrol tự trị đã giành được sự ủng hộ của nhiều người."
       }
     ],
     "k": "tyrol"
@@ -2734,7 +2734,7 @@
     "k": "tyrothricin"
   },
   {"h": "tyrotoxicosis", "segs": [{"k": "m", "t": "Ngộ độc tyrotoxicon."}], "k": "tyrotoxicosis"},
-  {"h": "tyrotoxin", "segs": [{"k": "m", "t": "Ðộc tố phó mát, độc tố sữa."}], "k": "tyrotoxin"},
+  {"h": "tyrotoxin", "segs": [{"k": "m", "t": "Độc tố phó mát, độc tố sữa."}], "k": "tyrotoxin"},
   {"h": "tyrotoxism", "segs": [{"k": "m", "t": "(chứng) ngộ độc phó mát."}], "k": "tyrotoxism"},
   {
     "h": "Tyrrhenian Sea",

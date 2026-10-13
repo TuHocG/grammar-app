@@ -195,7 +195,7 @@
   {"h": "ignipuncture", "segs": [{"k": "m", "t": "(phép) hỏa châm."}], "k": "ignipuncture"},
   {
     "h": "ignis",
-    "segs": [{"k": "m", "t": "Lửa"}, {"k": "m", "t": "Ðốt nóng"}, {"k": "m", "t": "Cứu."}],
+    "segs": [{"k": "m", "t": "Lửa"}, {"k": "m", "t": "Đốt nóng"}, {"k": "m", "t": "Cứu."}],
     "k": "ignis"
   },
   {
@@ -802,7 +802,7 @@
   },
   {
     "h": "Ignominy(-ious)",
-    "segs": [{"k": "m", "t": "Ðê tiện, đáng khinh."}],
+    "segs": [{"k": "m", "t": "Đê tiện, đáng khinh."}],
     "k": "ignominy(-ious)"
   },
   {

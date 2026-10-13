@@ -136,7 +136,7 @@
     "h": "skat",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "lối chơi bài xcat (lối chơi bài tay ba phổ biến ở Ðức)."}
+      {"k": "m", "t": "lối chơi bài xcat (lối chơi bài tay ba phổ biến ở Đức)."}
     ],
     "ipa": "ska:t",
     "k": "skat"
@@ -1043,7 +1043,7 @@
     "ipa": "'sketʃi",
     "k": "sketchy"
   },
-  {"h": "Skete", "segs": [{"k": "m", "t": "Ðan viện nhỏ."}], "k": "skete"},
+  {"h": "Skete", "segs": [{"k": "m", "t": "Đan viện nhỏ."}], "k": "skete"},
   {
     "h": "skeuomorph",
     "segs": [
@@ -2846,7 +2846,7 @@
     "segs": [{"k": "m", "t": "độ sâu của lớp bề mặt (lớp ngoài)."}],
     "k": "skin depth"
   },
-  {"h": "skin diabetes", "segs": [{"k": "m", "t": "Ðái tháo da."}], "k": "skin diabetes"},
+  {"h": "skin diabetes", "segs": [{"k": "m", "t": "Đái tháo da."}], "k": "skin diabetes"},
   {
     "h": "skin dissipation",
     "segs": [{"k": "m", "t": "sự tiêu tán trên bề mặt (năng lượng)."}],
@@ -2953,7 +2953,7 @@
   },
   {"h": "skin rolling", "segs": [{"k": "m", "t": "sự cán là, sự dàn phẳng."}], "k": "skin rolling"},
   {"h": "skin scale", "segs": [{"k": "m", "t": "(sinh học) vảy da."}], "k": "skin scale"},
-  {"h": "skin segment", "segs": [{"k": "m", "t": "Ðoạn phôi bì."}], "k": "skin segment"},
+  {"h": "skin segment", "segs": [{"k": "m", "t": "Đoạn phôi bì."}], "k": "skin segment"},
   {
     "h": "skin somebody alive",
     "segs": [
@@ -4583,7 +4583,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mũ chỏm (mũ tròn nhỏ không có lưỡi trai đội trên chỏm đầu, ngày nay nhất là đàn ông Do Thái đội khi cầu kinh và các giám mục đạo Cơ Ðốc đội)"
+        "t": "mũ chỏm (mũ tròn nhỏ không có lưỡi trai đội trên chỏm đầu, ngày nay nhất là đàn ông Do Thái đội khi cầu kinh và các giám mục đạo Cơ Đốc đội)"
       },
       {"k": "m", "t": "(thực) cỏ long ba (họ hoa môi)."}
     ],

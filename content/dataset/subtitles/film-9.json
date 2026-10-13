@@ -35,7 +35,7 @@
     {
       "e": 29.58,
       "en": "By bus? Let me check... OK. By bus it's $14.",
-      "vi": "Xe buýt ả? Ðể tôi xem... à. Ði xe buýt thì giá 14 đô.",
+      "vi": "Xe buýt ả? Để tôi xem... à. Đi xe buýt thì giá 14 đô.",
       "s": 20.88
     },
     {
@@ -51,7 +51,7 @@
       "vi": "Còn đi máy bay thì mất bao lâu?",
       "s": 34.84
     },
-    {"e": 40.21, "en": "It takes one hour by air.", "vi": "Ði máy bay mất 1 giờ.", "s": 38.04},
+    {"e": 40.21, "en": "It takes one hour by air.", "vi": "Đi máy bay mất 1 giờ.", "s": 38.04},
     {
       "e": 43.61,
       "en": "OK, that's fast. Yes, it's very fast.",
@@ -84,7 +84,7 @@
       "s": 52.96
     },
     {"e": 57.27, "en": "14 dollars.", "vi": "Dạ 14 đô.", "s": 56.17},
-    {"e": 60.48, "en": "OK. Just a minute.", "vi": "Ðược, chờ một chút.", "s": 57.27},
+    {"e": 60.48, "en": "OK. Just a minute.", "vi": "Được, chờ một chút.", "s": 57.27},
     {"e": 64.9, "en": "...", "vi": "...", "s": 60.48},
     {"e": 67.4, "en": "There's $14. Thank you", "vi": "14 đô đây. Cảm ơn.", "s": 64.9},
     {"e": 70.71, "en": "and when do you want to go?", "vi": "Vậy ông muốn đi lúc nào?", "s": 67.4},
@@ -211,7 +211,7 @@
       "s": 158.38
     },
     {"e": 168.18, "en": "...", "vi": "...", "s": 162.55},
-    {"e": 170.06, "en": "Yes! What do you think?", "vi": "Ðúng rồi. Anh nghĩ sao?", "s": 168.18},
+    {"e": 170.06, "en": "Yes! What do you think?", "vi": "Đúng rồi. Anh nghĩ sao?", "s": 168.18},
     {
       "e": 172.99,
       "en": "I think you look like a new wife!",
@@ -389,10 +389,10 @@
     {
       "e": 460.24,
       "en": "Oh! It's about half a kilometer... That way.",
-      "vi": "À... chừng nửa cây số. Ði đường kia kìa.",
+      "vi": "À... chừng nửa cây số. Đi đường kia kìa.",
       "s": 455.58
     },
-    {"e": 463.57, "en": "That way?", "vi": "Ðường kia à?", "s": 460.24},
+    {"e": 463.57, "en": "That way?", "vi": "Đường kia à?", "s": 460.24},
     {
       "e": 466.11,
       "en": "Yes, Park Avenue is that way.",

@@ -15,11 +15,11 @@
       "vi": "Helen à? Gì vậy? Cho tôi mượn cây bút nhé?",
       "s": 33.84
     },
-    {"e": 40.14, "en": "Sure. Here you are.", "vi": "Ðược, đây này.", "s": 38.19},
+    {"e": 40.14, "en": "Sure. Here you are.", "vi": "Được, đây này.", "s": 38.19},
     {"e": 41.26, "en": "Thanks.", "vi": "Cảm ơn.", "s": 40.14},
     {"e": 42.48, "en": "Don't mention it.", "vi": "Không có chi.", "s": 41.26},
     {"e": 46.83, "en": "Oh, Helen? What?", "vi": "Này Helen? Gì vậy?", "s": 42.48},
-    {"e": 49.26, "en": "This pen has blue ink.", "vi": "Ðây là viết mực xanh.", "s": 46.83},
+    {"e": 49.26, "en": "This pen has blue ink.", "vi": "Đây là viết mực xanh.", "s": 46.83},
     {
       "e": 52.59,
       "en": "Can I borrow a pen that has black ink?",
@@ -29,7 +29,7 @@
     {
       "e": 57.4,
       "en": "Of course. Here's a pen with black ink.",
-      "vi": "Ðược. Viết mực đen đây.",
+      "vi": "Được. Viết mực đen đây.",
       "s": 52.59
     },
     {"e": 63.86, "en": "Great. Thanks. Sure.", "vi": "Hay quá. Cảm ơn. Không có chi.", "s": 57.4},
@@ -42,8 +42,8 @@
       "vi": "Cho tôi mượn con tem nhé?",
       "s": 80.05
     },
-    {"e": 94.97, "en": "Sure, Jane...", "vi": "Ðược rồi Jane...", "s": 82.65},
-    {"e": 96.32, "en": "Here you are.", "vi": "Ðây.", "s": 94.97},
+    {"e": 94.97, "en": "Sure, Jane...", "vi": "Được rồi Jane...", "s": 82.65},
+    {"e": 96.32, "en": "Here you are.", "vi": "Đây.", "s": 94.97},
     {"e": 97.91, "en": "Thank you so much.", "vi": "Cảm ơn nhiều nhé.", "s": 96.32},
     {
       "e": 102.8,
@@ -65,7 +65,7 @@
     {
       "e": 138.48,
       "en": "Of course, Jane. Here you are.",
-      "vi": "Ừ được rồi Jane. Ðây.",
+      "vi": "Ừ được rồi Jane. Đây.",
       "s": 129.89
     },
     {
@@ -100,7 +100,7 @@
       "vi": "Cho tôi mượn cây bút nhé?",
       "s": 196.57
     },
-    {"e": 199.53, "en": "Certainly, sir.", "vi": "Ðược thưa ông.", "s": 198.54},
+    {"e": 199.53, "en": "Certainly, sir.", "vi": "Được thưa ông.", "s": 198.54},
     {"e": 201.52, "en": "Thank you.", "vi": "Cảm ơn.", "s": 199.53},
     {"e": 202.4, "en": "You're welcome.", "vi": "Không có chi.", "s": 201.52},
     {"e": 215.97, "en": "...", "vi": "...", "s": 202.4},
@@ -119,7 +119,7 @@
     {
       "e": 254.05,
       "en": "May I sit here? Yes.",
-      "vi": "Tôi ngồi đây được không? Ðược ạ.",
+      "vi": "Tôi ngồi đây được không? Được ạ.",
       "s": 252.16
     },
     {"e": 263.18, "en": "Thank you.", "vi": "Cảm ơn.", "s": 254.05},
@@ -166,7 +166,7 @@
     {
       "e": 320.57,
       "en": "I'm angry! That's why I'm shouting.",
-      "vi": "Tôi bực mình. Ðó là lí do tôi la lối.",
+      "vi": "Tôi bực mình. Đó là lí do tôi la lối.",
       "s": 317.04
     },
     {
@@ -185,7 +185,7 @@
     {
       "e": 338.11,
       "en": "He cries when he's sad, OK? Don't shout at him!",
-      "vi": "Anh ấy khóc khi anh ấy buồn, phải không? Ðừng la anh ấy nữa!",
+      "vi": "Anh ấy khóc khi anh ấy buồn, phải không? Đừng la anh ấy nữa!",
       "s": 333.33
     },
     {

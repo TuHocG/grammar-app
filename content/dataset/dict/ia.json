@@ -43,7 +43,7 @@
   },
   {
     "h": "Iacrimoconchal suture",
-    "segs": [{"k": "m", "t": "Ðường khớp lệ-xoăn."}],
+    "segs": [{"k": "m", "t": "Đường khớp lệ-xoăn."}],
     "k": "iacrimoconchal suture"
   },
   {
@@ -73,7 +73,7 @@
     "segs": [{"k": "m", "t": "(intermediate access memory) bộ nhớ truy cập trung gian."}],
     "k": "iam"
   },
-  {"h": "iamatology", "segs": [{"k": "m", "t": "Ðiều trị học."}], "k": "iamatology"},
+  {"h": "iamatology", "segs": [{"k": "m", "t": "Điều trị học."}], "k": "iamatology"},
   {
     "h": "iamb",
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "iambus như iambus", "vi": "."}],
@@ -183,7 +183,7 @@
     "ipa": "ai'a:təi:",
     "k": "iata"
   },
-  {"h": "iateria", "segs": [{"k": "m", "t": "Ðiều trị học."}], "k": "iateria"},
+  {"h": "iateria", "segs": [{"k": "m", "t": "Điều trị học."}], "k": "iateria"},
   {
     "h": "iatra-osseous therapy",
     "segs": [{"k": "m", "t": "Liệu pháp trong xương."}],
@@ -192,8 +192,8 @@
   {"h": "iatraliptic", "segs": [{"k": "m", "t": "(thuộc) xoa xát."}], "k": "iatraliptic"},
   {"h": "iatraliptics", "segs": [{"k": "m", "t": "Môn xoa xát."}], "k": "iatraliptics"},
   {"h": "iatrarchy", "segs": [{"k": "m", "t": "Hệ thống y ngự trị."}], "k": "iatrarchy"},
-  {"h": "iatreusiology", "segs": [{"k": "m", "t": "Ðiều trị học."}], "k": "iatreusiology"},
-  {"h": "iatreusis", "segs": [{"k": "m", "t": "Ðiều trị."}], "k": "iatreusis"},
+  {"h": "iatreusiology", "segs": [{"k": "m", "t": "Điều trị học."}], "k": "iatreusiology"},
+  {"h": "iatreusis", "segs": [{"k": "m", "t": "Điều trị."}], "k": "iatreusis"},
   {"h": "iatric", "segs": [{"k": "m", "t": "(thuộc) y học."}], "k": "iatric"},
   {"h": "iatrochemical", "segs": [{"k": "m", "t": "(thuộc) thuyết y hóa."}], "k": "iatrochemical"},
   {"h": "iatrochemistry", "segs": [{"k": "m", "t": "Thuyết y hóa."}], "k": "iatrochemistry"},

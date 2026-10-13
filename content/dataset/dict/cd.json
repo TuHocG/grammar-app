@@ -116,7 +116,7 @@
   },
   {
     "h": "CD-ROM controllers",
-    "segs": [{"k": "m", "t": "trình Ðiều khiển CD-ROM."}],
+    "segs": [{"k": "m", "t": "trình Điều khiển CD-ROM."}],
     "k": "cd-rom controllers"
   },
   {"h": "CD-ROM density", "segs": [{"k": "m", "t": "mật độ CD-ROM."}], "k": "cd-rom density"},

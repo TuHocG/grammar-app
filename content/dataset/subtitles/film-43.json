@@ -49,7 +49,7 @@
     {
       "e": 44.16,
       "en": "Oh, my God. It is! What... Oh...",
-      "vi": "Ồ, lạy Chúa. Ðúng rồi! Cái gì... Ôi...",
+      "vi": "Ồ, lạy Chúa. Đúng rồi! Cái gì... Ôi...",
       "s": 38.21
     },
     {
@@ -151,7 +151,7 @@
     {
       "e": 120.06,
       "en": "That's right! Two sisters means twice the work!",
-      "vi": "Ðúng vậy! Hai chị em có nghĩa là công việc tăng gấp đôi!",
+      "vi": "Đúng vậy! Hai chị em có nghĩa là công việc tăng gấp đôi!",
       "s": 115.84
     },
     {"e": 126.7, "en": "...", "vi": "...", "s": 120.06},
@@ -418,7 +418,7 @@
     {
       "e": 411.17,
       "en": "I know Bologna well. It's a beautiful city, even if I do prefer Rome.",
-      "vi": "Tôi biết Bologna rất rõ. Ðó là một thành phố đẹp, cho dù tôi thích Rome hơn.",
+      "vi": "Tôi biết Bologna rất rõ. Đó là một thành phố đẹp, cho dù tôi thích Rome hơn.",
       "s": 405.97
     },
     {
@@ -550,7 +550,7 @@
     {
       "e": 503.31,
       "en": "It's been so long since I last came to London!",
-      "vi": "Ðã lâu lắm rồi tôi tôi mới lại đến London!",
+      "vi": "Đã lâu lắm rồi tôi tôi mới lại đến London!",
       "s": 500.64
     },
     {
@@ -791,7 +791,7 @@
     {
       "e": 799.97,
       "en": "Okay, okay, I've finished.",
-      "vi": "Ðược rồi, được rồi, tôi xong rồi.",
+      "vi": "Được rồi, được rồi, tôi xong rồi.",
       "s": 794.54
     },
     {
@@ -845,7 +845,7 @@
     {
       "e": 854.15,
       "en": "Listen, I'll call you later. Okay.",
-      "vi": "Nghe này, tôi sẽ gọi ông sau. Ðược rồi.",
+      "vi": "Nghe này, tôi sẽ gọi ông sau. Được rồi.",
       "s": 850.38
     },
     {
@@ -870,7 +870,7 @@
     {
       "e": 884.33,
       "en": "Okay Jack, it's all yours! I'll use the bathroom later.",
-      "vi": "Ðược rồi Jack, nó là của anh đấy! Tôi sẽ sử dụng phòng tắm sau vậy.",
+      "vi": "Được rồi Jack, nó là của anh đấy! Tôi sẽ sử dụng phòng tắm sau vậy.",
       "s": 878.59
     },
     {
@@ -1251,7 +1251,7 @@
     {
       "e": 1247.15,
       "en": "Oh... Okay, well... Relax a little now...",
-      "vi": "Ồ... Ðược rồi, nào... Thư giãn một chút đi...",
+      "vi": "Ồ... Được rồi, nào... Thư giãn một chút đi...",
       "s": 1243.29
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "e": 1287.11,
       "en": "To Japan?! It's a great country! Have you ever been there?",
-      "vi": "Ðến Nhật ư?! Ðó là một quốc gia tuyệt vời! Anh đã từng đến đó chưa?",
+      "vi": "Đến Nhật ư?! Đó là một quốc gia tuyệt vời! Anh đã từng đến đó chưa?",
       "s": 1283.34
     },
     {
@@ -1445,7 +1445,7 @@
     {
       "e": 1420.7,
       "en": "This one here, England? Used in question... It's \"ever\" ok?",
-      "vi": "Ký tự này thì sao, England? Ðược sử dụng ở thể nghi vấn... Ðó là \"ever,\" được chứ?",
+      "vi": "Ký tự này thì sao, England? Được sử dụng ở thể nghi vấn... Đó là \"ever,\" được chứ?",
       "s": 1412.32
     },
     {
@@ -1578,7 +1578,7 @@
     {
       "e": 1549.71,
       "en": "Notice that \"yet\" is the exception and it comes after the past participle,",
-      "vi": "Ðể ý rằng \"yet\" là ngoại lệ và nó nằm sau quá khứ phân từ,",
+      "vi": "Để ý rằng \"yet\" là ngoại lệ và nó nằm sau quá khứ phân từ,",
       "s": 1542.14
     },
     {
@@ -1737,7 +1737,7 @@
       "vi": "Các bạn biết đấy, có hơn 500 công ty ở khu City.",
       "s": 1664.56
     },
-    {"e": 1670.24, "en": "That's right!", "vi": "Ðúng vậy!", "s": 1668.88},
+    {"e": 1670.24, "en": "That's right!", "vi": "Đúng vậy!", "s": 1668.88},
     {
       "e": 1675.87,
       "en": "And it also has several important commodity markets.",
@@ -1768,7 +1768,7 @@
       "vi": "mua và bán bảo hiểm cho mọi thứ, từ các thùng dầu cho đến các tòa nhà chọc trời!",
       "s": 1695.63
     },
-    {"e": 1704.67, "en": "Exactly Marie!", "vi": "Ðúng vậy, Marie!", "s": 1703.78},
+    {"e": 1704.67, "en": "Exactly Marie!", "vi": "Đúng vậy, Marie!", "s": 1703.78},
     {
       "e": 1711.13,
       "en": "Together with Tokyo and New York the City is one of the world's most important financial centres.",
@@ -1941,13 +1941,13 @@
     {
       "e": 1850.88,
       "en": "These are companies that insure people or property.",
-      "vi": "Ðó là những công ty cung cấp dịch vụ bảo hiểm cho người và tài sản.",
+      "vi": "Đó là những công ty cung cấp dịch vụ bảo hiểm cho người và tài sản.",
       "s": 1847.54
     },
     {
       "e": 1855.49,
       "en": "This means they guarantee against loss or damage.",
-      "vi": "Ðiều này có nghĩa rằng họ đảm bảo bồi thường cho sự mất mát hoặc hư hỏng.",
+      "vi": "Điều này có nghĩa rằng họ đảm bảo bồi thường cho sự mất mát hoặc hư hỏng.",
       "s": 1850.88
     },
     {
@@ -2167,7 +2167,7 @@
     {
       "e": 2023.28,
       "en": "Farmers employ thousands of Eastern European workers to pick their crops",
-      "vi": "Các chủ trang trại thuê hàng ngàn người lao động Ðông Âu để thu hoạch hoa màu",
+      "vi": "Các chủ trang trại thuê hàng ngàn người lao động Đông Âu để thu hoạch hoa màu",
       "s": 2017.79
     },
     {
@@ -2179,7 +2179,7 @@
     {
       "e": 2033.56,
       "en": "That's true. In addition there are low birth rates in most European countries, particularly in Spain and Italy.",
-      "vi": "Ðúng vậy. Ngoài ra, đa số các quốc gia Châu Âu đều có tỉ lệ sinh thấp, nhất là Tây Ban Nha và Ý.",
+      "vi": "Đúng vậy. Ngoài ra, đa số các quốc gia Châu Âu đều có tỉ lệ sinh thấp, nhất là Tây Ban Nha và Ý.",
       "s": 2026.51
     },
     {
@@ -2216,7 +2216,7 @@
     {
       "e": 2071.26,
       "en": "That's why they sometimes get involved in criminal activities.",
-      "vi": "Ðó là lý do họ đôi khi tham gia vào các hoạt động tội ác.",
+      "vi": "Đó là lý do họ đôi khi tham gia vào các hoạt động tội ác.",
       "s": 2066.45
     },
     {
@@ -2252,7 +2252,7 @@
     {
       "e": 2105.46,
       "en": "This would help economic migrants, migrants who come to Europe to work, to stay at home,",
-      "vi": "Ðiều này sẽ giúp các công nhân xuất khẩu lao động, những người di cư phải đến Châu Âu để làm việc, có thể ở nhà,",
+      "vi": "Điều này sẽ giúp các công nhân xuất khẩu lao động, những người di cư phải đến Châu Âu để làm việc, có thể ở nhà,",
       "s": 2098.43
     },
     {
@@ -2288,7 +2288,7 @@
     {
       "e": 2130.88,
       "en": "That's right Tom! Migration is as old as the human race.",
-      "vi": "Ðúng vậy, Tom! Sự di cư cũng có lịch sử lâu đời như loài người.",
+      "vi": "Đúng vậy, Tom! Sự di cư cũng có lịch sử lâu đời như loài người.",
       "s": 2127.23
     },
     {
@@ -2403,7 +2403,7 @@
     {
       "e": 2232.74,
       "en": "This means they help the economy to grow.",
-      "vi": "Ðiều này có nghĩa rằng họ giúp cho nền kinh tế phát triển.",
+      "vi": "Điều này có nghĩa rằng họ giúp cho nền kinh tế phát triển.",
       "s": 2229.02
     },
     {"e": 2234.64, "en": "How do they contribute?", "vi": "Họ đóng góp như thế nào?", "s": 2232.74},
@@ -2422,7 +2422,7 @@
     {
       "e": 2255.36,
       "en": "This means they give jobs to the migrants because there are no local people to do the work.",
-      "vi": "Ðiều này có nghĩa rằng họ tạo việc làm cho người di cư, bởi lẽ không có lao động địa phương để làm việc.",
+      "vi": "Điều này có nghĩa rằng họ tạo việc làm cho người di cư, bởi lẽ không có lao động địa phương để làm việc.",
       "s": 2248.51
     },
     {
@@ -2434,7 +2434,7 @@
     {
       "e": 2268.81,
       "en": "This means they reduce the amount of money that people are paid.",
-      "vi": "Ðiều này có nghĩa rằng họ làm giảm số tiền lương mà mọi người được trả.",
+      "vi": "Điều này có nghĩa rằng họ làm giảm số tiền lương mà mọi người được trả.",
       "s": 2263.66
     },
     {
@@ -2452,7 +2452,7 @@
     {
       "e": 2280.58,
       "en": "This is the lowest legal salary a person can receive.",
-      "vi": "Ðây là mức lương thấp nhất theo pháp luật mà một người có thể nhận được.",
+      "vi": "Đây là mức lương thấp nhất theo pháp luật mà một người có thể nhận được.",
       "s": 2275.79
     },
     {

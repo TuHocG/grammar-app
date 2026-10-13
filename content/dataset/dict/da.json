@@ -379,7 +379,7 @@
   {"h": "dacryoma", "segs": [{"k": "m", "t": "U tuyến lệ, u nang tuyến lệ."}], "k": "dacryoma"},
   {
     "h": "dacryon",
-    "segs": [{"k": "m", "t": "Dacryon"}, {"k": "m", "t": "Ðiểm xương lệ trán hàm."}],
+    "segs": [{"k": "m", "t": "Dacryon"}, {"k": "m", "t": "Điểm xương lệ trán hàm."}],
     "k": "dacryon"
   },
   {
@@ -405,7 +405,7 @@
     "h": "dacryosyrinx",
     "segs": [
       {"k": "m", "t": "ống lệ"},
-      {"k": "m", "t": "Ðường rò lệ"},
+      {"k": "m", "t": "Đường rò lệ"},
       {"k": "m", "t": "Bơm rửa ống lệ."}
     ],
     "k": "dacryosyrinx"
@@ -440,7 +440,7 @@
     "h": "dactyl",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(thơ) Ðác-tin (thể thơ gồm một âm tiết dài và âm tiết ngắn)."}
+      {"k": "m", "t": "(thơ) Đác-tin (thể thơ gồm một âm tiết dài và âm tiết ngắn)."}
     ],
     "ipa": "'dæktil",
     "k": "dactyl"
@@ -1041,7 +1041,7 @@
     "h": "dago",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người có màu da sẫm (chẳng hạn như người Ý, Tây Ban Nha, Bồ Ðào Nha)."}
+      {"k": "m", "t": "người có màu da sẫm (chẳng hạn như người Ý, Tây Ban Nha, Bồ Đào Nha)."}
     ],
     "ipa": "'deigou",
     "k": "dago"
@@ -1245,7 +1245,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "vương quốc ở Tây Phi. Vào thế kỷ thứ 16 Bồ Ðào Nha liên kết thương mại với Vương quốc Allada. Vương quốc Abomey và Adjatche (nay là Porto Novo) (1625). Năm 1645-1685 Abomey và Adjatché thống nhất đổi tên thành Dahomey. Những phong tục đặc biệt của Dahomey làm du khách Châu Âu sửng sốt."
+        "t": "vương quốc ở Tây Phi. Vào thế kỷ thứ 16 Bồ Đào Nha liên kết thương mại với Vương quốc Allada. Vương quốc Abomey và Adjatche (nay là Porto Novo) (1625). Năm 1645-1685 Abomey và Adjatché thống nhất đổi tên thành Dahomey. Những phong tục đặc biệt của Dahomey làm du khách Châu Âu sửng sốt."
       },
       {
         "k": "m",
@@ -1901,7 +1901,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những danh nhân. Họ là những người đứng đầu hoàng tộc. Họ xây dựng đội quân Samurai. Ðội quân Ashikaga xung đột với Daimyo, từ đó nước Nhật trở nên mất đoàn kết nội bộ."
+        "t": "những danh nhân. Họ là những người đứng đầu hoàng tộc. Họ xây dựng đội quân Samurai. Đội quân Ashikaga xung đột với Daimyo, từ đó nước Nhật trở nên mất đoàn kết nội bộ."
       },
       {
         "k": "m",
@@ -2322,7 +2322,7 @@
       },
       {
         "k": "m",
-        "t": "Dakota là bộ lạc du cư, chuyên săn trâu. Mùa hè bộ lạc tập trung lại, nhưng mùa đông họ chia ra thành từng gia đình. Họ săn bắt trâu để kéo xe. Thông thường dân du cư, họ chở đồ trên xe trượt tuyết cho chó kéo, nhưng về sau họ bắt được ngựa để kéo xe thay chó. Vì họ săn bắt ngựa quá nhiều, nên loài ngựa đã cạn kiệt. Ðã thế lại thêm người da trắng di cư đến chỗ các bộ lạc. Người da trắng đã săn bắt ngựa quá nhiều, khiến loài ngựa trở nên tuyệt chủng."
+        "t": "Dakota là bộ lạc du cư, chuyên săn trâu. Mùa hè bộ lạc tập trung lại, nhưng mùa đông họ chia ra thành từng gia đình. Họ săn bắt trâu để kéo xe. Thông thường dân du cư, họ chở đồ trên xe trượt tuyết cho chó kéo, nhưng về sau họ bắt được ngựa để kéo xe thay chó. Vì họ săn bắt ngựa quá nhiều, nên loài ngựa đã cạn kiệt. Đã thế lại thêm người da trắng di cư đến chỗ các bộ lạc. Người da trắng đã săn bắt ngựa quá nhiều, khiến loài ngựa trở nên tuyệt chủng."
       }
     ],
     "k": "dakota"
@@ -2364,7 +2364,7 @@
       },
       {
         "k": "m",
-        "t": "Ðương kim Dalai Lama thứ 14 là Tenzin Gyatso cai trị Tây Tạng từ năm 1935, nhưng sau khi Trung Quốc sáp nhập Tây Tạng năm 1950 thì ông bị đi đày năm 1959. Ảnh hưởng tinh thần và chính trị của Dalai Lama vẫn tồn tại mạnh mẽ ở người dân Tây Tạng, và năm 1989 ông được trao giải Nobel hòa bình."
+        "t": "Đương kim Dalai Lama thứ 14 là Tenzin Gyatso cai trị Tây Tạng từ năm 1935, nhưng sau khi Trung Quốc sáp nhập Tây Tạng năm 1950 thì ông bị đi đày năm 1959. Ảnh hưởng tinh thần và chính trị của Dalai Lama vẫn tồn tại mạnh mẽ ở người dân Tây Tạng, và năm 1989 ông được trao giải Nobel hòa bình."
       }
     ],
     "k": "dalai lama"
@@ -3327,7 +3327,7 @@
     "h": "damascus steel",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "thép cứng làm ở Ða-mát để làm lưỡi kiếm, thép hoa Ða-mát."}
+      {"k": "m", "t": "thép cứng làm ở Đa-mát để làm lưỡi kiếm, thép hoa Đa-mát."}
     ],
     "ipa": "də'mæskə 'sti:l",
     "k": "damascus steel"
@@ -3336,17 +3336,17 @@
     "h": "damask",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tơ lụa Ða-mát"},
-      {"k": "m", "t": "gấm vóc Ða-mát"},
-      {"k": "m", "t": "thép hoa Ða-mát"},
-      {"k": "m", "t": "hoa hồng Ða-mát"},
+      {"k": "m", "t": "tơ lụa Đa-mát"},
+      {"k": "m", "t": "gấm vóc Đa-mát"},
+      {"k": "m", "t": "thép hoa Đa-mát"},
+      {"k": "m", "t": "hoa hồng Đa-mát"},
       {"k": "m", "t": "màu đỏ tươi"},
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "dệt hoa, thêu hoa như gấm vóc Ða-mát"},
-      {"k": "m", "t": "làm bằng thép hoa Ða-mát"},
+      {"k": "m", "t": "dệt hoa, thêu hoa như gấm vóc Đa-mát"},
+      {"k": "m", "t": "làm bằng thép hoa Đa-mát"},
       {"k": "m", "t": "đỏ tươi"},
       {"k": "pos", "t": "ngoại động từ"},
-      {"k": "m", "t": "dệt hoa, thêu hoa (vào vải... như gấm vóc Ða-mát)"},
+      {"k": "m", "t": "dệt hoa, thêu hoa (vào vải... như gấm vóc Đa-mát)"},
       {"k": "m", "t": "(như)"},
       {"k": "ex", "t": "damascene", "vi": "bôi đỏ (má...)."}
     ],
@@ -3355,10 +3355,10 @@
   },
   {
     "h": "damask rose",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hoa hồng Ða-mát (màu tươi rất thơm)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hoa hồng Đa-mát (màu tươi rất thơm)."}],
     "k": "damask rose"
   },
-  {"h": "Damask steel", "segs": [{"k": "m", "t": "thép Ðamát."}], "k": "damask steel"},
+  {"h": "Damask steel", "segs": [{"k": "m", "t": "thép Đamát."}], "k": "damask steel"},
   {
     "h": "Damavand",
     "segs": [
@@ -3720,7 +3720,7 @@
   },
   {
     "h": "damoiseau curve",
-    "segs": [{"k": "m", "t": "Ðường cong Damoiseau."}],
+    "segs": [{"k": "m", "t": "Đường cong Damoiseau."}],
     "k": "damoiseau curve"
   },
   {
@@ -5136,8 +5136,8 @@
     "h": "dane",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người Ðan Mạch"},
-      {"k": "m", "t": "chó Ðan Mạch (một giống chó lông ngắn, rất khỏe)."}
+      {"k": "m", "t": "người Đan Mạch"},
+      {"k": "m", "t": "chó Đan Mạch (một giống chó lông ngắn, rất khỏe)."}
     ],
     "ipa": "dein",
     "k": "dane"
@@ -5147,7 +5147,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðể thoát nạn xâm lược của Ðan Mạch, vua Ethelred II phải đem nhiều vàng bạc đi cống nạp. Lần thứ nhất 10.000 lượng vào năm 991. Lần thứ hai 16.000 lượng (994). Lần thứ ba 24.000 lượng vào năm 1002. Lần thứ tư 36.000 lượng (1007), và một khối lượng khổng lồ 158.000 lượng vào năm 1012. Sau đó, (từ năm 1012 đến 1051) sự cống nạp vẫn tiếp tục để duy trì lực lượng hải quân và đoàn vệ sĩ hoàng gia."
+        "t": "Để thoát nạn xâm lược của Đan Mạch, vua Ethelred II phải đem nhiều vàng bạc đi cống nạp. Lần thứ nhất 10.000 lượng vào năm 991. Lần thứ hai 16.000 lượng (994). Lần thứ ba 24.000 lượng vào năm 1002. Lần thứ tư 36.000 lượng (1007), và một khối lượng khổng lồ 158.000 lượng vào năm 1012. Sau đó, (từ năm 1012 đến 1051) sự cống nạp vẫn tiếp tục để duy trì lực lượng hải quân và đoàn vệ sĩ hoàng gia."
       },
       {"k": "m", "t": "Khi vua Norman thu thuế thì tiền thuế được dùng vào mục đích quân sự."}
     ],
@@ -5158,7 +5158,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "cũng"},
-      {"k": "ex", "t": "danelaw", "vi": "luật Ðan Mạch."}
+      {"k": "ex", "t": "danelaw", "vi": "luật Đan Mạch."}
     ],
     "ipa": "'deinlɔ",
     "k": "danelagh"
@@ -5168,7 +5168,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những phần đất phía Bắc và phía đông của Anh do người Ðan Mạch định cư vào cuối thế kỷ thứ 9 và đầu thế kỷ thứ 10. Vào thời kỳ này, luật pháp và phong tục Ðan Mạch được áp dụng chứ không phải luật pháp của nước Anh. Vào khoảng năm 886, Alfred và Guthrum lãnh đạo Ðan Mạch. Họ phải họp bàn để ấn định đường biên giới giữa những vùng đất này. Luật Ðan Mạch được áp dụng ở phía Bắc và phía Ðông đường biên giới. Kể từ cửa sông thêm (nhưng không bao gồm Luân Ðôn) xuyên qua Hertfordshire và Bedfordshire, dọc theo sông Ouse và thành phố Roman Watling cho đến Chester. Vùng đất của người Ðan Mạch cư ngụ được Edgar coi là vùng tự trị hợp pháp."
+        "t": "những phần đất phía Bắc và phía đông của Anh do người Đan Mạch định cư vào cuối thế kỷ thứ 9 và đầu thế kỷ thứ 10. Vào thời kỳ này, luật pháp và phong tục Đan Mạch được áp dụng chứ không phải luật pháp của nước Anh. Vào khoảng năm 886, Alfred và Guthrum lãnh đạo Đan Mạch. Họ phải họp bàn để ấn định đường biên giới giữa những vùng đất này. Luật Đan Mạch được áp dụng ở phía Bắc và phía Đông đường biên giới. Kể từ cửa sông thêm (nhưng không bao gồm Luân Đôn) xuyên qua Hertfordshire và Bedfordshire, dọc theo sông Ouse và thành phố Roman Watling cho đến Chester. Vùng đất của người Đan Mạch cư ngụ được Edgar coi là vùng tự trị hợp pháp."
       }
     ],
     "k": "danelaw"
@@ -5612,7 +5612,7 @@
   },
   {
     "h": "Daniell cell battery",
-    "segs": [{"k": "m", "t": "(kỹ thuật) pin Daniell (Ðaniên)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) pin Daniell (Đaniên)."}],
     "k": "daniell cell battery"
   },
   {
@@ -5637,9 +5637,9 @@
     "h": "danish",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) Ðan Mạch"},
+      {"k": "m", "t": "(thuộc) Đan Mạch"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Ðan Mạch"},
+      {"k": "m", "t": "tiếng Đan Mạch"},
       {"k": "ex", "t": "Danish blue", "vi": "phó mát mềm có vân xanh"},
       {"k": "ex", "t": "Danish pastry", "vi": "bánh trộn táo và hạnh nhân phết kem."}
     ],
@@ -6016,14 +6016,14 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ðác-bu, 1842-1917) nhà toán học Pháp, viện sĩ thông tấn nước ngoài Viện hàn lâm khoa học Péterbourg (1895), viện sĩ Viện hàn lâm khoa học Paris (1884), hội viên Hội hoàng gia London (1902), giáo sư trường Ðại học tổng hợp Paris từ 1873. Ông có những công trình nghiên cứu cơ bản về hình học vi phân (lý thuyết mặt, lý thuyết tọa độ cong). Từ nghiên cứu hình học ông đã đi đến khảo sát những vấn đề khác nhau của phép lấy tích phân những phương pháp vi phân. Trong cơ học ông chuyên nghiên cứu có kết quả những vấn đề khác nhau của động học, về trạng thái cân bằng và những dao động nhỏ của các hệ điểm v.v..."
+        "t": "(Đác-bu, 1842-1917) nhà toán học Pháp, viện sĩ thông tấn nước ngoài Viện hàn lâm khoa học Péterbourg (1895), viện sĩ Viện hàn lâm khoa học Paris (1884), hội viên Hội hoàng gia London (1902), giáo sư trường Đại học tổng hợp Paris từ 1873. Ông có những công trình nghiên cứu cơ bản về hình học vi phân (lý thuyết mặt, lý thuyết tọa độ cong). Từ nghiên cứu hình học ông đã đi đến khảo sát những vấn đề khác nhau của phép lấy tích phân những phương pháp vi phân. Trong cơ học ông chuyên nghiên cứu có kết quả những vấn đề khác nhau của động học, về trạng thái cân bằng và những dao động nhỏ của các hệ điểm v.v..."
       }
     ],
     "k": "darboux jean gaston"
   },
   {
     "h": "darboux's equation",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương trình Ðacbu"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương trình Đacbu"}],
     "k": "darboux's equation"
   },
   {"h": "darby", "segs": [{"k": "m", "t": "bay dài tô trần nhà."}], "k": "darby"},
@@ -6040,7 +6040,7 @@
   {"h": "darcy", "segs": [{"k": "m", "t": "đacxi (đơn vị đo độ thấm)."}], "k": "darcy"},
   {
     "h": "Darcy law",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "luật Ðacxi"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "luật Đacxi"}],
     "k": "darcy law"
   },
   {
@@ -6081,7 +6081,7 @@
       },
       {
         "k": "m",
-        "t": "Vào năm 1841, theo hiệp ước của Luân Ðôn, trong thời bình tất cả mọi tàu chiến không được phép chạy vào eo biển. Sự suy sụp của đế chế Ottoman năm 1918 đã cho phép thiết lập một hệ thống mới do hiệp ước hòa bình Versailles (1919) Ấn định là eo biển được đặt dưới quyền kiểm soát của ủy ban quốc tế và mở cửa cho tất cả tàu thuyền (kể cả tàu chiến) qua lại bất cứ khi nào. Việc dàn xếp này được điều đình ở Lausanne (1923) cho phép các tàu chiến dưới 10.000 tấn qua lại trong thời bình mà thôi, và giảm bớt quyền hành của ủy ban quốc tế. Năm 1936, do hiệp ước Montreux của ủy ban quốc tế bãi bỏ, việc kiểm soát eo biển được trả lại hoàn toàn cho Thổ Nhĩ Kỳ. Lực lượng kiểm soát eo biển đã không cho tàu chiến qua lại trong thời chiến, nếu Thổ Nhĩ Kỳ là nước trung lập. Hiệp ước duy trì hiệu lực, bỏ qua sự toan tính của Liên Xô (cũ) muốn hiệp ước được xem xét lại. Trận chiến Dardanelles là cảnh tượng của cuộc công kích thất bại vào đế chế Ottoman của quân đội Anh và Pháp năm 1915, mà thành phần chính tham dự là công dân hai nước Úc và Tân Tây Lan (chiến dịch Gallipoli)."
+        "t": "Vào năm 1841, theo hiệp ước của Luân Đôn, trong thời bình tất cả mọi tàu chiến không được phép chạy vào eo biển. Sự suy sụp của đế chế Ottoman năm 1918 đã cho phép thiết lập một hệ thống mới do hiệp ước hòa bình Versailles (1919) Ấn định là eo biển được đặt dưới quyền kiểm soát của ủy ban quốc tế và mở cửa cho tất cả tàu thuyền (kể cả tàu chiến) qua lại bất cứ khi nào. Việc dàn xếp này được điều đình ở Lausanne (1923) cho phép các tàu chiến dưới 10.000 tấn qua lại trong thời bình mà thôi, và giảm bớt quyền hành của ủy ban quốc tế. Năm 1936, do hiệp ước Montreux của ủy ban quốc tế bãi bỏ, việc kiểm soát eo biển được trả lại hoàn toàn cho Thổ Nhĩ Kỳ. Lực lượng kiểm soát eo biển đã không cho tàu chiến qua lại trong thời chiến, nếu Thổ Nhĩ Kỳ là nước trung lập. Hiệp ước duy trì hiệu lực, bỏ qua sự toan tính của Liên Xô (cũ) muốn hiệp ước được xem xét lại. Trận chiến Dardanelles là cảnh tượng của cuộc công kích thất bại vào đế chế Ottoman của quân đội Anh và Pháp năm 1915, mà thành phần chính tham dự là công dân hai nước Úc và Tân Tây Lan (chiến dịch Gallipoli)."
       }
     ],
     "k": "dardanelles"
@@ -6115,7 +6115,7 @@
       {
         "k": "ex",
         "t": "why did you do it? - It was a dare",
-        "vi": "tại sao anh làm như vậy?-Ðó là một thách thức nguy hiểm"
+        "vi": "tại sao anh làm như vậy?-Đó là một thách thức nguy hiểm"
       },
       {
         "k": "ex",
@@ -6309,7 +6309,7 @@
   },
   {
     "h": "darjeeling",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "loại chè dac-gi-linh ở Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "loại chè dac-gi-linh ở Ấn Độ."}],
     "ipa": "da:zi:liŋ",
     "k": "darjeeling"
   },
@@ -6394,11 +6394,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Kỷ nguyên đen) Ðây là biệt danh để mô tả Châu Âu vào thế kỷ 5 và 6 khi đế chế La Mã sụp đổ. Nhiều bộ lạc Ðức tràn qua Ý, Pháp, Tây Ban Nha."
+        "t": "(Kỷ nguyên đen) Đây là biệt danh để mô tả Châu Âu vào thế kỷ 5 và 6 khi đế chế La Mã sụp đổ. Nhiều bộ lạc Đức tràn qua Ý, Pháp, Tây Ban Nha."
       },
       {
         "k": "m",
-        "t": "Bắc Phi, tấn công tiêu diệt các thành phố. La Mã bị cướp phá ba lần liên tiếp. Nhiều bộ lạc hình thành những triều đại riêng biệt, như Vandals ở Bắc Phi, Visigoths ở Tây Ban Nha, Ostrogoths và Lombards ở vùng phía Bắc Ý, Pháp và phía tây Ðức, Anglo-Saxons ở Anh."
+        "t": "Bắc Phi, tấn công tiêu diệt các thành phố. La Mã bị cướp phá ba lần liên tiếp. Nhiều bộ lạc hình thành những triều đại riêng biệt, như Vandals ở Bắc Phi, Visigoths ở Tây Ban Nha, Ostrogoths và Lombards ở vùng phía Bắc Ý, Pháp và phía tây Đức, Anglo-Saxons ở Anh."
       },
       {
         "k": "m",
@@ -6975,28 +6975,28 @@
   },
   {
     "h": "Darlington configuration",
-    "segs": [{"k": "m", "t": "(kỹ thuật) cấu hình Darlington (Ðáclinhtơn)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) cấu hình Darlington (Đáclinhtơn)."}],
     "k": "darlington configuration"
   },
   {
     "h": "Darlington connection",
-    "segs": [{"k": "m", "t": "(kỹ thuật) mạch nối Darlington (Ðáclinhtơn)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) mạch nối Darlington (Đáclinhtơn)."}],
     "k": "darlington connection"
   },
   {
     "h": "Darlington emitter follower",
-    "segs": [{"k": "m", "t": "(kỹ thuật) mạch cặp gánh cực phát, mạch Darlington (Ðáclinhtơn)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) mạch cặp gánh cực phát, mạch Darlington (Đáclinhtơn)."}],
     "k": "darlington emitter follower"
   },
   {"h": "Darlington pair", "segs": [{"k": "m", "t": "cặp Darlington."}], "k": "darlington pair"},
   {
     "h": "Darlington stage",
-    "segs": [{"k": "m", "t": "(kỹ thuật) tầng Darlington (Ðáclinhtơn)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) tầng Darlington (Đáclinhtơn)."}],
     "k": "darlington stage"
   },
   {
     "h": "Darlington(-connected) transistors",
-    "segs": [{"k": "m", "t": "(kỹ thuật) tran(sito nối mạch Darlington (Ðáclinhtơn)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) tran(sito nối mạch Darlington (Đáclinhtơn)."}],
     "k": "darlington(-connected) transistors"
   },
   {
@@ -7269,16 +7269,16 @@
     "h": "darwinian",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) học thuyết Ðác-Uyn"},
+      {"k": "m", "t": "(thuộc) học thuyết Đác-Uyn"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người theo học thuyết Ðác-Uyn."}
+      {"k": "m", "t": "người theo học thuyết Đác-Uyn."}
     ],
     "ipa": "da:'winiən",
     "k": "darwinian"
   },
   {
     "h": "darwinian evolution",
-    "segs": [{"k": "m", "t": "Tiến hóa theo kiểu Ðác-uyn."}],
+    "segs": [{"k": "m", "t": "Tiến hóa theo kiểu Đác-uyn."}],
     "k": "darwinian evolution"
   },
   {
@@ -7294,7 +7294,7 @@
   },
   {
     "h": "darwinism",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "học thuyết Ðác-Uyn."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "học thuyết Đác-Uyn."}],
     "ipa": "'da:winizm",
     "k": "darwinism"
   },
@@ -8209,7 +8209,7 @@
       {"k": "dom", "t": "Phương tiện truyền thông và tín hiệu truyền thông tại lớp vật lý:"},
       {
         "k": "m",
-        "t": "Một hệ thống truyền thông bao gồm một phương tiện truyền thông và các thiết bị kết nối với nó. Ðây có thể là phương tiện hữu tuyến hay vô tuyến. Phương tiện hữu tuyến có thể là cáp kim loại hay cáp quang, còn phương tiện vô tuyến ám chỉ các tín hiện truyền qua không khí hay chân không."
+        "t": "Một hệ thống truyền thông bao gồm một phương tiện truyền thông và các thiết bị kết nối với nó. Đây có thể là phương tiện hữu tuyến hay vô tuyến. Phương tiện hữu tuyến có thể là cáp kim loại hay cáp quang, còn phương tiện vô tuyến ám chỉ các tín hiện truyền qua không khí hay chân không."
       },
       {
         "k": "m",
@@ -8995,7 +8995,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịnh địa chỉ trong môi trường nhiều điểm như LAN (Addressing on a mutipoint medium such as a LAN). Ðịa chỉ của máy tính thường là địa chỉ của card mạng."
+        "t": "Định địa chỉ trong môi trường nhiều điểm như LAN (Addressing on a mutipoint medium such as a LAN). Địa chỉ của máy tính thường là địa chỉ của card mạng."
       },
       {
         "k": "m",
@@ -9007,7 +9007,7 @@
       },
       {
         "k": "m",
-        "t": "Ðiều khiển luồng (Flow control). Ðây là kỹ thuật nhằm tránh việc bên gởi chuyển đi nhiều thông tin hơn khả năng xử lý của bên nhận. Cơ chế điều khiển ngưng-và-chờ (stop-and-wait) thông báo nhận cho mỗi khung. Tương tự, cơ chế điều khiển bằng cửa sổ trượt (sliding window) cho phép bên gởi điều chỉnh số các khung có thể gởi đi mà không thông báo trước, kỹ thuật này rất hiệu quả."
+        "t": "Điều khiển luồng (Flow control). Đây là kỹ thuật nhằm tránh việc bên gởi chuyển đi nhiều thông tin hơn khả năng xử lý của bên nhận. Cơ chế điều khiển ngưng-và-chờ (stop-and-wait) thông báo nhận cho mỗi khung. Tương tự, cơ chế điều khiển bằng cửa sổ trượt (sliding window) cho phép bên gởi điều chỉnh số các khung có thể gởi đi mà không thông báo trước, kỹ thuật này rất hiệu quả."
       },
       {
         "k": "m",
@@ -9872,7 +9872,7 @@
       {"k": "m", "t": "Phân dải Dữ liệu"},
       {
         "k": "m",
-        "t": "Ðây là kỹ thuật được dùng trong các hệ RAID (redundant arrays of inexpensive disks) để ghi dữ liệu phân bố đều vào nhiều đĩa cứng, xem hình D-13. Kỹ thuật này có thể thực hiện theo từng bit hoặc sector (cung). Sector là một khối dữ liệu. Kỹ thuật này làm tăng thông suất và giúp bảo vệ dữ liệu khi một trong các đĩa cứng bị hư."
+        "t": "Đây là kỹ thuật được dùng trong các hệ RAID (redundant arrays of inexpensive disks) để ghi dữ liệu phân bố đều vào nhiều đĩa cứng, xem hình D-13. Kỹ thuật này có thể thực hiện theo từng bit hoặc sector (cung). Sector là một khối dữ liệu. Kỹ thuật này làm tăng thông suất và giúp bảo vệ dữ liệu khi một trong các đĩa cứng bị hư."
       },
       {
         "k": "m",
@@ -10042,14 +10042,14 @@
       {"k": "m", "t": "Liên lạc cá nhân 300 đến 9600 bit/s hoặc cao hơn"},
       {"k": "m", "t": "Gởi email 2400 đến 9600 bit/s hoặc cao hơn"},
       {"k": "m", "t": "Chương trình điều khiển từ xa 9600 bit/s đến 56 Kbit/s"},
-      {"k": "m", "t": "Ðiện thoại số hóa 64000 bit/s"},
-      {"k": "m", "t": "Truy vấn CSDL Ðến 1 Mbit/s"},
+      {"k": "m", "t": "Điện thoại số hóa 64000 bit/s"},
+      {"k": "m", "t": "Truy vấn CSDL Đến 1 Mbit/s"},
       {"k": "m", "t": "Âm thanh số 1 đến 2 Mbit/s"},
       {"k": "m", "t": "Truy cập ảnh 1 đến 8 Mbit/s"},
       {"k": "m", "t": "Video nén 2 đến 10 Mbit/s"},
-      {"k": "m", "t": "Truyền dữ liệu trong y học Ðến 50 Mbit/s"},
+      {"k": "m", "t": "Truyền dữ liệu trong y học Đến 50 Mbit/s"},
       {"k": "m", "t": "Tài liệu ảnh 10 đến 100 Mbit/s"},
-      {"k": "m", "t": "AÒnh khoa học Ðến 1 Gbit/s"},
+      {"k": "m", "t": "AÒnh khoa học Đến 1 Gbit/s"},
       {"k": "m", "t": "Video hoàn hảo 1 đến 2 Gbit/s"},
       {
         "k": "m",
@@ -10440,7 +10440,7 @@
       {"k": "m", "t": "Liên kết cơ sở dữ liệu"},
       {
         "k": "m",
-        "t": "Một tổ chức hợp nhất các mạng phòng ban thành mạng doang nghiệp luôn nhận thấy có nhiều loại DBMS (Database Management System - Hệ quản trị CSDL) khác nhau và được kiến trúc theo những mô hình khác nhau. Ða số là CSDL quan hệ, nhưng cũng có một số là CSDL hướng đối tượng hay phân cấp. Tất cả có thể xuất thân từ những nhà cung cấp khác nhau và có thể có các giao diện không tương thích với nhau."
+        "t": "Một tổ chức hợp nhất các mạng phòng ban thành mạng doang nghiệp luôn nhận thấy có nhiều loại DBMS (Database Management System - Hệ quản trị CSDL) khác nhau và được kiến trúc theo những mô hình khác nhau. Đa số là CSDL quan hệ, nhưng cũng có một số là CSDL hướng đối tượng hay phân cấp. Tất cả có thể xuất thân từ những nhà cung cấp khác nhau và có thể có các giao diện không tương thích với nhau."
       },
       {
         "k": "m",
@@ -10508,7 +10508,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cơ sở dữ liệu Trong Lotus 1-2-3 phiên bản 3.0. Ðây là một chương trình làm cho 1-2-3 có thể trao đổi dữ liệu với các chương trình cơ sở dữ liệu khác như dBASE chẳng hạn."
+        "t": "cơ sở dữ liệu Trong Lotus 1-2-3 phiên bản 3.0. Đây là một chương trình làm cho 1-2-3 có thể trao đổi dữ liệu với các chương trình cơ sở dữ liệu khác như dBASE chẳng hạn."
       }
     ],
     "k": "database driver driver"
@@ -11969,7 +11969,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một tỉnh cũ của miền Ðông Nam nước Pháp. La Mã, Burgundians và Pháp đã chinh phục tỉnh này. Từ năm 1133 tỉnh này đã mang tên Dauphin thuộc nước Áo. Năm 1346, Dauphin được bán cho Pháp. Sau đó những bậc con cháu của chính quyền Pháp chấp nhận tên của tỉnh Dauphin. Vào năm 1457, Dauphin sáp nhập vào Pháp và mất hết quyền ưu tiên riêng của địa phương. Ðặc biệt trong suốt thời gian đó đã xảy ra những cuộc chiến tranh tôn giáo ở Pháp."
+        "t": "một tỉnh cũ của miền Đông Nam nước Pháp. La Mã, Burgundians và Pháp đã chinh phục tỉnh này. Từ năm 1133 tỉnh này đã mang tên Dauphin thuộc nước Áo. Năm 1346, Dauphin được bán cho Pháp. Sau đó những bậc con cháu của chính quyền Pháp chấp nhận tên của tỉnh Dauphin. Vào năm 1457, Dauphin sáp nhập vào Pháp và mất hết quyền ưu tiên riêng của địa phương. Đặc biệt trong suốt thời gian đó đã xảy ra những cuộc chiến tranh tôn giáo ở Pháp."
       }
     ],
     "k": "dauphine"
@@ -12024,7 +12024,7 @@
       }
     ],
     "k": "david",
-    "q": {"vi": "David", "ipa": "'deivid", "rs": "Ðế vịt đ", "pos": "tên"}
+    "q": {"vi": "David", "ipa": "'deivid", "rs": "Đế vịt đ", "pos": "tên"}
   },
   {
     "h": "Davis",
@@ -12036,7 +12036,7 @@
       {"k": "m", "t": "Dân số khoảng: 63,722 (thống kê năm 2004)"}
     ],
     "k": "davis",
-    "q": {"vi": "Davis", "ipa": "'deiviz", "rs": "Ðế vịt z", "pos": "tên"}
+    "q": {"vi": "Davis", "ipa": "'deiviz", "rs": "Đế vịt z", "pos": "tên"}
   },
   {
     "h": "Davis Cup",
@@ -12160,7 +12160,7 @@
   },
   {
     "h": "davy lamp",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đèn Ða-vi (đèn an toàn cho thợ mỏ)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đèn Đa-vi (đèn an toàn cho thợ mỏ)."}],
     "ipa": "'deivi'læmp",
     "k": "davy lamp"
   },
@@ -12217,7 +12217,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1924) Sau thế chiến thứ I, nước Ðức phải bồi thường. Vì sự sụp đổ của đồng Mác, nên ông Charles G Dawes là một nhà tài chính Mỹ, chủ tịch ủy ban bồi thường của đồng minh đặt ra một kế hoạch buộc Ðức phải bồi thường theo khả năng với mức cao. Pháp yêu cầu một khoản bồi thường lớn và đã chiếm đóng vùng Ruhr để bảo đảm được bồi thường theo đúng lịch trình đã sắp đặt hàng năm. Sự thất bại đã khiến nước Ðức phải đổi mới."
+        "t": "(1924) Sau thế chiến thứ I, nước Đức phải bồi thường. Vì sự sụp đổ của đồng Mác, nên ông Charles G Dawes là một nhà tài chính Mỹ, chủ tịch ủy ban bồi thường của đồng minh đặt ra một kế hoạch buộc Đức phải bồi thường theo khả năng với mức cao. Pháp yêu cầu một khoản bồi thường lớn và đã chiếm đóng vùng Ruhr để bảo đảm được bồi thường theo đúng lịch trình đã sắp đặt hàng năm. Sự thất bại đã khiến nước Đức phải đổi mới."
       }
     ],
     "k": "dawes plan"
@@ -12814,7 +12814,7 @@
   },
   {
     "h": "day of indiction",
-    "segs": [{"k": "m", "t": "ngày đầu năm phụng vụ (Ðông phương: 1 thánh 9)."}],
+    "segs": [{"k": "m", "t": "ngày đầu năm phụng vụ (Đông phương: 1 thánh 9)."}],
     "k": "day of indiction"
   },
   {

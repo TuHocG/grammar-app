@@ -69,7 +69,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một môi trường cửa sổ của mạng dùng phổ biến trên các trạm công tác có cỡ UNIX. Ðược xây dựng đầu tiên tại Trường Ðại học kỹ thuật Massachusetts, và được phân phối miễn phí cho cộng đồng các nhà hàn lâm, X Windows là một giao diện chương trình ứng dụng độc lập đối với thiết bị, có thể chạy với các hệ điều hành từ loại hệ điều hành đĩa cho đến hệ điều hành máy tính lớn. Tuy nhiên, nó được dùng hầu như thường xuyên trên các máy UNIX. Khác với Microsoft Windows và các môi trường cửa sổ dùng với PC khác, X Windows được thiết kế để sử dụng trên mạng có cơ sở máy tính mini. Có nhiều phòng thí nghiệm nghiên cứu và các cơ sở khoa học máy tính khác nhau đã chấp nhận làm theo và xây dựng riêng các phiên bản phần mềm tự do của X Windows, nên đã dẫn đến tình trạng tồn tại nhiều phiên bản không tương thích nhau của X Windows. Cuối cùng, một tổ hợp các hãng buôn UNIX đã liên doanh với MIT vào năm 1987 để thiết lập một chuẩn X Windows. Tuy vậy, sự phát triển các trình ứng dụng dùng X Windows là một công việc kinh doanh đầy tốn kém. Vì lý do đó, một số các hãng buôn đã xây dựng các bộ công cụ riêng để phát triển các ứng dụng X Windows, với các trục trặc không thể tránh khỏi về sự tương thích."
+        "t": "một môi trường cửa sổ của mạng dùng phổ biến trên các trạm công tác có cỡ UNIX. Được xây dựng đầu tiên tại Trường Đại học kỹ thuật Massachusetts, và được phân phối miễn phí cho cộng đồng các nhà hàn lâm, X Windows là một giao diện chương trình ứng dụng độc lập đối với thiết bị, có thể chạy với các hệ điều hành từ loại hệ điều hành đĩa cho đến hệ điều hành máy tính lớn. Tuy nhiên, nó được dùng hầu như thường xuyên trên các máy UNIX. Khác với Microsoft Windows và các môi trường cửa sổ dùng với PC khác, X Windows được thiết kế để sử dụng trên mạng có cơ sở máy tính mini. Có nhiều phòng thí nghiệm nghiên cứu và các cơ sở khoa học máy tính khác nhau đã chấp nhận làm theo và xây dựng riêng các phiên bản phần mềm tự do của X Windows, nên đã dẫn đến tình trạng tồn tại nhiều phiên bản không tương thích nhau của X Windows. Cuối cùng, một tổ hợp các hãng buôn UNIX đã liên doanh với MIT vào năm 1987 để thiết lập một chuẩn X Windows. Tuy vậy, sự phát triển các trình ứng dụng dùng X Windows là một công việc kinh doanh đầy tốn kém. Vì lý do đó, một số các hãng buôn đã xây dựng các bộ công cụ riêng để phát triển các ứng dụng X Windows, với các trục trặc không thể tránh khỏi về sự tương thích."
       }
     ],
     "k": "x windows"
@@ -177,7 +177,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "mức sút giảm năng suất của một công ty do nguyên nhân nội tài. Thí dụ: vào năm 1981, hai nhà máy tương tự nhau về mọi mặt thuộc công ty Ford được đem đối chiếu, một tại Ðức và một tài Anh quốc, nhà máy tại Ðức với số công nhân ít hơn 22% nhưng sản xuất số xe hơi nhiều hơn 50%. Như vậy, sự sút giảm năng suất của nhà máy ở Anh có thể do một trong những nguyên do: tính trì trệ, thông tin thiếu sót, tách biệt khỏi môi trường cạnh tranh tự do, quan hệ lao động kém hoặc do thiếu năng lực quản lý."
+        "t": "mức sút giảm năng suất của một công ty do nguyên nhân nội tài. Thí dụ: vào năm 1981, hai nhà máy tương tự nhau về mọi mặt thuộc công ty Ford được đem đối chiếu, một tại Đức và một tài Anh quốc, nhà máy tại Đức với số công nhân ít hơn 22% nhưng sản xuất số xe hơi nhiều hơn 50%. Như vậy, sự sút giảm năng suất của nhà máy ở Anh có thể do một trong những nguyên do: tính trì trệ, thông tin thiếu sót, tách biệt khỏi môi trường cạnh tranh tự do, quan hệ lao động kém hoặc do thiếu năng lực quản lý."
       }
     ],
     "k": "x-inefficiency"
@@ -656,7 +656,7 @@
       },
       {
         "k": "m",
-        "t": "Frame relay cung cấp các dịch vụ hướng kết nối và chuyển mạch gói như X.25 nhưng với chất lượng tốt hơn. X.25 được thiết kế trong giai đoạn chất lượng các mạng vật lý còn thấp, thường xảy ra lỗi. Với X.25, phải có hồi báo cho từng gói dữ liệu tại mỗi liên kết point-to-point trên mạng. Ðiều này ngày nay không còn cần thiết mà chi phí lại quá cao. Frame relay tránh được khuyết điểm này. Các nút của frame relay đơn giản chỉ nhìn vào thông tin đích trên tiêu đề của gói dữ liệu và lập tức chuyển gói đi, thậm chí trước khi nhận xong gói dữ liệu. Frame relay không cần có các bảng trạng thái tại mỗi nút trung gian như trong X.25, dùng để quản lý, điều khiển luồng, và kiểm tra lỗi. Các nút chỉ cần phát hiện các frame thiếu và yêu cầu truyền lại."
+        "t": "Frame relay cung cấp các dịch vụ hướng kết nối và chuyển mạch gói như X.25 nhưng với chất lượng tốt hơn. X.25 được thiết kế trong giai đoạn chất lượng các mạng vật lý còn thấp, thường xảy ra lỗi. Với X.25, phải có hồi báo cho từng gói dữ liệu tại mỗi liên kết point-to-point trên mạng. Điều này ngày nay không còn cần thiết mà chi phí lại quá cao. Frame relay tránh được khuyết điểm này. Các nút của frame relay đơn giản chỉ nhìn vào thông tin đích trên tiêu đề của gói dữ liệu và lập tức chuyển gói đi, thậm chí trước khi nhận xong gói dữ liệu. Frame relay không cần có các bảng trạng thái tại mỗi nút trung gian như trong X.25, dùng để quản lý, điều khiển luồng, và kiểm tra lỗi. Các nút chỉ cần phát hiện các frame thiếu và yêu cầu truyền lại."
       },
       {
         "k": "m",

@@ -466,7 +466,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "định dạng AIFF"}],
     "k": "aiff"
   },
-  {"h": "Aigesic", "segs": [{"k": "m", "t": "Ðau."}], "k": "aigesic"},
+  {"h": "Aigesic", "segs": [{"k": "m", "t": "Đau."}], "k": "aigesic"},
   {
     "h": "aiglet",
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "aglet như aglet", "vi": "."}],
@@ -2427,7 +2427,7 @@
     "k": "air drain valve"
   },
   {"h": "air draught", "segs": [{"k": "m", "t": "Luồng gió."}], "k": "air draught"},
-  {"h": "air dressing", "segs": [{"k": "m", "t": "Ðiều trị để hở."}], "k": "air dressing"},
+  {"h": "air dressing", "segs": [{"k": "m", "t": "Điều trị để hở."}], "k": "air dressing"},
   {"h": "air dried meat", "segs": [{"k": "m", "t": "thịt ôi."}], "k": "air dried meat"},
   {
     "h": "air drier",
@@ -3133,7 +3133,7 @@
   },
   {
     "h": "Air India",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Công ty Hàng không Ấn Ðộ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Công ty Hàng không Ấn Độ"}],
     "k": "air india"
   },
   {"h": "air inductor", "segs": [{"k": "m", "t": "bộ cảm điện trống."}], "k": "air inductor"},
@@ -4982,7 +4982,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Vận tải hàng không. Ở thế kỷ 19, hàng không dân dụng còn rất thô sơ. Các hành khách đi lại chủ yếu dùng khí cầu đốt, tàu lượn, khí cầu. Thời kỳ đầu, người ta sử dụng động cơ chạy bằng hơi nước rồi sau đó cải tiến thành động cơ xăng dầu để vận hành các cánh quạt. Một thời gian sau, ngành hàng không đột ngột phát triển mạnh, đặc biệt là nước Ðức sau đệ nhất thế chiến, kế đến là Anh và Mỹ cho đến khi chiếc Hindenburg chìm vào quên lãng năm 1937. Trong suốt thập niên 1920-1930, hành khách và hàng hóa được vận chuyển phổ biến bằng đường hàng không ngang qua lục địa hoặc đại dương. Thời kỳ này cũng xuất hiện nhiều hãng hàng không nổi tiếng như Air France, Swissair. Cuối thập niên 1950, hàng không dân dụng đã đạt được nhiều tiến bộ đáng kể với sự ra đời của phản lực cơ. Năm 1970, chiếc Boeing 747 ra đời, chuyên chở 500 hành khách và làm giảm giá vé. Trong khi năm 1976 chiếc Concorde của Pháp có thể vượt Ðại Tây Dương chỉ trong 4 giờ bay. Ðối với quân sự, trực thăng được cải tiến không ngừng trong suốt đệ nhị thế chiến và nổi bật nhất là trong chiến tranh Triều Tiên, Việt Nam. Máy bay được dùng thông dụng như một chiếc taxi, dùng để cấp cứu, và do thám. Ngoài ra, cũng có những loại máy bay vận tải quân sự để chuyên chở các đại đội hoặc nhiều loại vũ khí quân trang hạng nặng."
+        "t": "Vận tải hàng không. Ở thế kỷ 19, hàng không dân dụng còn rất thô sơ. Các hành khách đi lại chủ yếu dùng khí cầu đốt, tàu lượn, khí cầu. Thời kỳ đầu, người ta sử dụng động cơ chạy bằng hơi nước rồi sau đó cải tiến thành động cơ xăng dầu để vận hành các cánh quạt. Một thời gian sau, ngành hàng không đột ngột phát triển mạnh, đặc biệt là nước Đức sau đệ nhất thế chiến, kế đến là Anh và Mỹ cho đến khi chiếc Hindenburg chìm vào quên lãng năm 1937. Trong suốt thập niên 1920-1930, hành khách và hàng hóa được vận chuyển phổ biến bằng đường hàng không ngang qua lục địa hoặc đại dương. Thời kỳ này cũng xuất hiện nhiều hãng hàng không nổi tiếng như Air France, Swissair. Cuối thập niên 1950, hàng không dân dụng đã đạt được nhiều tiến bộ đáng kể với sự ra đời của phản lực cơ. Năm 1970, chiếc Boeing 747 ra đời, chuyên chở 500 hành khách và làm giảm giá vé. Trong khi năm 1976 chiếc Concorde của Pháp có thể vượt Đại Tây Dương chỉ trong 4 giờ bay. Đối với quân sự, trực thăng được cải tiến không ngừng trong suốt đệ nhị thế chiến và nổi bật nhất là trong chiến tranh Triều Tiên, Việt Nam. Máy bay được dùng thông dụng như một chiếc taxi, dùng để cấp cứu, và do thám. Ngoài ra, cũng có những loại máy bay vận tải quân sự để chuyên chở các đại đội hoặc nhiều loại vũ khí quân trang hạng nặng."
       }
     ],
     "k": "air transport"
@@ -7931,7 +7931,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Lực lượng không quân. Trong đệ nhất thế chiến, máy bay được dùng vào việc do thám và định vị tọa độ bắn pháo. Nhưng từ năm 1916 trở đi, máy bay còn dùng để ném bom. Chưa kể đến trong cuộc chiến Mesopotamia còn có các trận không chiến xảy ra. Ðặc biệt quân Ðức đã biết cải tiến chiếc Zeppelin chuyên ném bom và chống lại sự rình rập của các mục tiêu bắn pháo. Tuy nhiên, sau thảm họa rớt máy bay vào thập niên 1930, máy bay ít được sử dụng phổ biến. Thế nhưng các nhà sản xuất đã không ngừng cải tiến những chiến đấu cơ để chúng có thể vừa ném bom vừa chiến đấu trong chiến tranh thế giới thứ hai. Chính vì vậy trong thời kỳ chiến tranh, người ta không ngừng nghĩ đến việc trang bị cho máy bay có khả năng mang nhiều loại bom hạng nặng và bay với tốc độ cao để thực hiện cuộc tấn công bất ngờ và tránh né sự phát hiện của dàn ra đa phía dưới. Bên cạnh đó, loại máy bay vận tải cũng được cải tiến cùng với trực thăng. Loại vũ khí này rất thông dụng trong các cuộc chiến tranh ở Hàn Quốc, Việt nam và Afghanistan. Ðối với chiến tranh lạnh, từ sau thập niên 1940-1999, các loại bom nguyên tử và tên lửa được các cường quốc ngấm ngầm cải tiến. Cũng từ sau đệ nhị thế chiến, trong các cuộc đọ sức hiện đại, người ta bằng lòng trả giá đắt cho những chiếc máy bay có khả năng lộn được nhiều vòng để chứng tỏ sức mạnh quân sự của một quốc gia. Các phản lực cơ đã chứng tỏ sức mạnh của nó trong chiến tranh vùng vịnh năm 1991. Ðến giai đoạn này, một phát minh mới ra đời giúp máy bay có khả năng ném bom bằng sự hướng dẫn của tia Laser, còn tên lửa thì được điều khiển bằng máy vi tính. Bằng cách đó, người ta có thể định vị và phá hủy mục tiêu một cách chính xác. Thêm vào đó, chiếc Steath ra đời, nó có khả năng thoát khỏi sự phát hiện của ra đa."
+        "t": "Lực lượng không quân. Trong đệ nhất thế chiến, máy bay được dùng vào việc do thám và định vị tọa độ bắn pháo. Nhưng từ năm 1916 trở đi, máy bay còn dùng để ném bom. Chưa kể đến trong cuộc chiến Mesopotamia còn có các trận không chiến xảy ra. Đặc biệt quân Đức đã biết cải tiến chiếc Zeppelin chuyên ném bom và chống lại sự rình rập của các mục tiêu bắn pháo. Tuy nhiên, sau thảm họa rớt máy bay vào thập niên 1930, máy bay ít được sử dụng phổ biến. Thế nhưng các nhà sản xuất đã không ngừng cải tiến những chiến đấu cơ để chúng có thể vừa ném bom vừa chiến đấu trong chiến tranh thế giới thứ hai. Chính vì vậy trong thời kỳ chiến tranh, người ta không ngừng nghĩ đến việc trang bị cho máy bay có khả năng mang nhiều loại bom hạng nặng và bay với tốc độ cao để thực hiện cuộc tấn công bất ngờ và tránh né sự phát hiện của dàn ra đa phía dưới. Bên cạnh đó, loại máy bay vận tải cũng được cải tiến cùng với trực thăng. Loại vũ khí này rất thông dụng trong các cuộc chiến tranh ở Hàn Quốc, Việt nam và Afghanistan. Đối với chiến tranh lạnh, từ sau thập niên 1940-1999, các loại bom nguyên tử và tên lửa được các cường quốc ngấm ngầm cải tiến. Cũng từ sau đệ nhị thế chiến, trong các cuộc đọ sức hiện đại, người ta bằng lòng trả giá đắt cho những chiếc máy bay có khả năng lộn được nhiều vòng để chứng tỏ sức mạnh quân sự của một quốc gia. Các phản lực cơ đã chứng tỏ sức mạnh của nó trong chiến tranh vùng vịnh năm 1991. Đến giai đoạn này, một phát minh mới ra đời giúp máy bay có khả năng ném bom bằng sự hướng dẫn của tia Laser, còn tên lửa thì được điều khiển bằng máy vi tính. Bằng cách đó, người ta có thể định vị và phá hủy mục tiêu một cách chính xác. Thêm vào đó, chiếc Steath ra đời, nó có khả năng thoát khỏi sự phát hiện của ra đa."
       }
     ],
     "k": "airfore"

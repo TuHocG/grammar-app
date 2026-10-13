@@ -17,7 +17,7 @@
     {
       "e": 10.4,
       "en": "That's a great idea. What's on?",
-      "vi": "Ðó là một ý hay. Ðang chiếu phim gì vậy?",
+      "vi": "Đó là một ý hay. Đang chiếu phim gì vậy?",
       "s": 7.43
     },
     {
@@ -53,7 +53,7 @@
     {
       "e": 31.21,
       "en": "That's not even music... That's simply noise!",
-      "vi": "Ðó thậm chí còn không phải là âm nhạc... Ðó chỉ đơn giản là sự ồn ào!",
+      "vi": "Đó thậm chí còn không phải là âm nhạc... Đó chỉ đơn giản là sự ồn ào!",
       "s": 27.71
     },
     {
@@ -62,7 +62,7 @@
       "vi": "Thôi nào, Peter! Hôm nay là đêm Thứ Bảy, chúng ta phải làm gì đó đặc biệt...",
       "s": 31.21
     },
-    {"e": 38.88, "en": "Something exciting!", "vi": "Ðiều gì đó thật thú vị!", "s": 36.64},
+    {"e": 38.88, "en": "Something exciting!", "vi": "Điều gì đó thật thú vị!", "s": 36.64},
     {
       "e": 43.56,
       "en": "And going dancing is surely more exciting than going to the cinema!",
@@ -97,14 +97,14 @@
     {
       "e": 70.71,
       "en": "Come on guys! Don't argue now, please!",
-      "vi": "Thôi nào, các bạn! Ðừng tranh cãi bây giờ, làm ơn!",
+      "vi": "Thôi nào, các bạn! Đừng tranh cãi bây giờ, làm ơn!",
       "s": 66.97
     },
     {"e": 73.77, "en": "Let's vote on it!", "vi": "Hãy bỏ phiếu đi!", "s": 70.71},
     {
       "e": 79.64,
       "en": "Well, Alice and I want to go dancing. Peter and Anne don't.",
-      "vi": "Ðược, Alice và tôi muốn đi khiêu vũ. Peter và Anne thì không.",
+      "vi": "Được, Alice và tôi muốn đi khiêu vũ. Peter và Anne thì không.",
       "s": 73.77
     },
     {"e": 82.64, "en": "How about you, Sharon?", "vi": "Thế còn cô thì sao, Sharon?", "s": 79.64},
@@ -118,7 +118,7 @@
     {
       "e": 102.08,
       "en": "Great! Okay, guys. Three against two... Let's go dancing!",
-      "vi": "Tuyệt! Ðược rồi, các bạn. Ba so với hai... Chúng ta đi nhảy thôi!",
+      "vi": "Tuyệt! Được rồi, các bạn. Ba so với hai... Chúng ta đi nhảy thôi!",
       "s": 94.79
     },
     {"e": 109.33, "en": "...", "vi": "...", "s": 102.08},
@@ -264,7 +264,7 @@
     {
       "e": 230.57,
       "en": "I think I'll choose this. Alright?",
-      "vi": "Tôi nghĩ tôi sẽ chọn chiếc này. Ðược chứ?",
+      "vi": "Tôi nghĩ tôi sẽ chọn chiếc này. Được chứ?",
       "s": 226.57
     },
     {
@@ -276,7 +276,7 @@
     {
       "e": 245.99,
       "en": "Alright? If you have a one syllable word, you remember one syllable word, like cheap,",
-      "vi": "Ðược chứ? Nếu các bạn có từ một âm tiết, các bạn nhớ từ một âm tiết chứ, giống như \"cheap,\"",
+      "vi": "Được chứ? Nếu các bạn có từ một âm tiết, các bạn nhớ từ một âm tiết chứ, giống như \"cheap,\"",
       "s": 238.85
     },
     {
@@ -397,7 +397,7 @@
     {
       "e": 377.78,
       "en": "if it's three-syllables or more we add \"more\" in front of the adjective like \"more difficult\". Ok?",
-      "vi": "nếu có ba âm tiết hoặc nhiều hơn thì chúng ta cộng thêm \"more\" vào phía trước tính từ, chẳng hạn như \"more difficult.\" Ðược chứ?",
+      "vi": "nếu có ba âm tiết hoặc nhiều hơn thì chúng ta cộng thêm \"more\" vào phía trước tính từ, chẳng hạn như \"more difficult.\" Được chứ?",
       "s": 368.69
     },
     {
@@ -431,7 +431,7 @@
       "s": 390.79
     },
     {"e": 401.88, "en": "...", "vi": "...", "s": 396.22},
-    {"e": 403.67, "en": "Here's my party-hat!", "vi": "Ðây là mũ dự tiệc của tôi!", "s": 401.88},
+    {"e": 403.67, "en": "Here's my party-hat!", "vi": "Đây là mũ dự tiệc của tôi!", "s": 401.88},
     {
       "e": 408.46,
       "en": "How do you like it? - You look great!",
@@ -466,7 +466,7 @@
     {
       "e": 428.15,
       "en": "\"Paradise\". It's a new disco on King's Road... It's very nice!",
-      "vi": "\"Paradise.\" Ðó là một sàn nhảy mới trên đường King's Road... Nó rất đẹp!",
+      "vi": "\"Paradise.\" Đó là một sàn nhảy mới trên đường King's Road... Nó rất đẹp!",
       "s": 422.21
     },
     {
@@ -556,7 +556,7 @@
     {
       "e": 487.92,
       "en": "It's much more interesting to be walking in the countryside.",
-      "vi": "Ðiều đó thú vị hơn đi bộ ở vùng nông thôn.",
+      "vi": "Điều đó thú vị hơn đi bộ ở vùng nông thôn.",
       "s": 484.16
     },
     {
@@ -640,7 +640,7 @@
     {
       "e": 545.39,
       "en": "Hey girls! Okay, are you ready? I need your advice...",
-      "vi": "Này các cô gái! Ðược rồi, các cô sẵn sàng chưa? Tôi cần lời khuyên của các cô...",
+      "vi": "Này các cô gái! Được rồi, các cô sẵn sàng chưa? Tôi cần lời khuyên của các cô...",
       "s": 539.5
     },
     {
@@ -695,7 +695,7 @@
     {
       "e": 586.59,
       "en": "Okay, I'll put on the red shirt!",
-      "vi": "Ðược rồi, tôi sẽ mặc chiếc màu đỏ!",
+      "vi": "Được rồi, tôi sẽ mặc chiếc màu đỏ!",
       "s": 583.46
     },
     {
@@ -810,7 +810,7 @@
     {
       "e": 706.39,
       "en": "\"English is easier than Russian.\" Alright?",
-      "vi": "\"Tiếng Anh dễ hơn tiếng Nga.\" Ðược chứ?",
+      "vi": "\"Tiếng Anh dễ hơn tiếng Nga.\" Được chứ?",
       "s": 700.79
     },
     {
@@ -831,7 +831,7 @@
       "vi": "và đó là những gì tôi muốn các bạn tìm hiểu ngay bây giờ.",
       "s": 720.17
     },
-    {"e": 723.82, "en": "It's very important.", "vi": "Ðiều này rất quan trọng.", "s": 722.35},
+    {"e": 723.82, "en": "It's very important.", "vi": "Điều này rất quan trọng.", "s": 722.35},
     {
       "e": 729.05,
       "en": "The question is: what is the comparative of \"good\"?",
@@ -874,7 +874,7 @@
       "vi": "Thời tiết hôm nay tệ hơn hôm qua.",
       "s": 751.02
     },
-    {"e": 758.58, "en": "Ok? \"Bad\" \"worse\".", "vi": "Ðược chứ? \"Bad\" \"worse.\"", "s": 755.83},
+    {"e": 758.58, "en": "Ok? \"Bad\" \"worse\".", "vi": "Được chứ? \"Bad\" \"worse.\"", "s": 755.83},
     {
       "e": 763.19,
       "en": "And one more example \"far\", which means distant,",
@@ -926,7 +926,7 @@
     {
       "e": 807.13,
       "en": "and \"Southampton is further than Brighton\". Alright?",
-      "vi": "và \"Southampton xa hơn Brighton.\" Ðược chứ?",
+      "vi": "và \"Southampton xa hơn Brighton.\" Được chứ?",
       "s": 800.02
     },
     {
@@ -941,7 +941,7 @@
       "vi": "đừng quên những ngoại lệ, chúng rất, rất phổ biến và cũng rất dễ quên.",
       "s": 812.73
     },
-    {"e": 819.62, "en": "Alright? Great!", "vi": "Ðược chứ? Tuyệt!", "s": 818.16},
+    {"e": 819.62, "en": "Alright? Great!", "vi": "Được chứ? Tuyệt!", "s": 818.16},
     {
       "e": 826.4,
       "en": "So I'll see you next lesson when, no doubt, you'll be speaking English better.",
@@ -951,7 +951,7 @@
     {
       "e": 830.38,
       "en": "Ok? See you then, bye!",
-      "vi": "Ðược chứ? Hẹn gặp lại các bạn lúc đó, tạm biệt!",
+      "vi": "Được chứ? Hẹn gặp lại các bạn lúc đó, tạm biệt!",
       "s": 826.4
     },
     {"e": 835.13, "en": "...", "vi": "...", "s": 830.38},
@@ -982,7 +982,7 @@
     {
       "e": 858.72,
       "en": "It doesn't matter... My father is going to pay for everything!",
-      "vi": "Ðiều đó không quan trọng... Cha tôi sẽ chi trả cho mọi thứ!",
+      "vi": "Điều đó không quan trọng... Cha tôi sẽ chi trả cho mọi thứ!",
       "s": 854.16
     },
     {
@@ -1006,7 +1006,7 @@
     {
       "e": 877.55,
       "en": "That's true, but it's certainly the hottest city.",
-      "vi": "Ðúng thế, nhưng đó chắc chắn là thành phố nóng nhất.",
+      "vi": "Đúng thế, nhưng đó chắc chắn là thành phố nóng nhất.",
       "s": 872.59
     },
     {
@@ -1066,7 +1066,7 @@
     {
       "e": 921.03,
       "en": "Oh, really? That's great!",
-      "vi": "Ồ, thực vậy à? Ðiều đó thật tuyệt!",
+      "vi": "Ồ, thực vậy à? Điều đó thật tuyệt!",
       "s": 918.35
     },
     {"e": 923.5, "en": "Are you going alone?", "vi": "Cô định đi một mình à?", "s": 921.03},
@@ -1373,7 +1373,7 @@
     {
       "e": 1193.23,
       "en": "That was the superlative, let's go and see it on the screen.",
-      "vi": "Ðó là tính từ so sánh nhất, chúng ta hãy nhìn lên màn hình ngay bây giờ.",
+      "vi": "Đó là tính từ so sánh nhất, chúng ta hãy nhìn lên màn hình ngay bây giờ.",
       "s": 1188.93
     },
     {"e": 1195.17, "en": "Nice wine!", "vi": "Rượu ngon!", "s": 1193.23},
@@ -1441,13 +1441,13 @@
     {
       "e": 1268.65,
       "en": "So again, be careful. Is it a one syllable adjective?",
-      "vi": "Nào, một lần nữa, hãy cẩn thận nhé. Ðó có phải là tính từ một âm tiết hay không?",
+      "vi": "Nào, một lần nữa, hãy cẩn thận nhé. Đó có phải là tính từ một âm tiết hay không?",
       "s": 1264.18
     },
     {
       "e": 1273.85,
       "en": "Is it a two or three or four syllable adjective? Because it changes.",
-      "vi": "Ðó là tính từ hai, ba hay bốn âm tiết? Bởi lẽ nó sẽ thay đổi.",
+      "vi": "Đó là tính từ hai, ba hay bốn âm tiết? Bởi lẽ nó sẽ thay đổi.",
       "s": 1268.65
     },
     {
@@ -1514,7 +1514,7 @@
     {
       "e": 1352.47,
       "en": "Anyway... In your opinion... Which is the best team?",
-      "vi": "Dù sao thì... Theo quan điểm của anh... Ðâu là đội bóng hay nhất?",
+      "vi": "Dù sao thì... Theo quan điểm của anh... Đâu là đội bóng hay nhất?",
       "s": 1342.87
     },
     {
@@ -1544,7 +1544,7 @@
     {
       "e": 1374.48,
       "en": "Okay, what's so great about Ajax?",
-      "vi": "Ðược rồi, thế có điều gì tuyệt vời về Ajax nào?",
+      "vi": "Được rồi, thế có điều gì tuyệt vời về Ajax nào?",
       "s": 1370.38
     },
     {
@@ -1581,7 +1581,7 @@
     {
       "e": 1408.35,
       "en": "Don't worry, I'm gonna have a great birthday, all the same!...",
-      "vi": "Ðừng lo, con sẽ có một ngày sinh nhật tuyệt vời, lúc nào cũng thế!...",
+      "vi": "Đừng lo, con sẽ có một ngày sinh nhật tuyệt vời, lúc nào cũng thế!...",
       "s": 1403.24
     },
     {
@@ -1605,7 +1605,7 @@
     {
       "e": 1433.3,
       "en": "Come on, Alice! Don't cry, please!",
-      "vi": "Thôi nào, Alice! Ðừng khóc, làm ơn!",
+      "vi": "Thôi nào, Alice! Đừng khóc, làm ơn!",
       "s": 1428.26
     },
     {
@@ -1644,7 +1644,7 @@
       "vi": "Bởi lẽ ông ấy có một vài việc quan trọng cần làm... Như mọi khi!",
       "s": 1450.03
     },
-    {"e": 1456.13, "en": "Don't be angry with him!", "vi": "Ðừng giận ông ấy!", "s": 1454.2},
+    {"e": 1456.13, "en": "Don't be angry with him!", "vi": "Đừng giận ông ấy!", "s": 1454.2},
     {
       "e": 1461.6,
       "en": "Even if he has something important to do you can leave for your trip anyway!",
@@ -1709,7 +1709,7 @@
     {
       "e": 1526.7,
       "en": "He said \"you're the most brilliant roommate we've ever had\". That's really sweet.",
-      "vi": "Anh ấy đã nói: \"cô là người bạn cùng phòng thông minh nhất mà chúng tôi đã từng có.\" Ðiều đó thực sự rất ngọt ngào.",
+      "vi": "Anh ấy đã nói: \"cô là người bạn cùng phòng thông minh nhất mà chúng tôi đã từng có.\" Điều đó thực sự rất ngọt ngào.",
       "s": 1520.48
     },
     {
@@ -1800,7 +1800,7 @@
     {
       "e": 1611.58,
       "en": "Alright? So, those are two syllable adjectives ending in Y.",
-      "vi": "Ðược chứ? Nào, đó là hai tính từ 2 âm tiết, kết thúc bằng chữ Y.",
+      "vi": "Được chứ? Nào, đó là hai tính từ 2 âm tiết, kết thúc bằng chữ Y.",
       "s": 1606.72
     },
     {
@@ -1848,7 +1848,7 @@
     {
       "e": 1649.56,
       "en": "Notice the T. Bad, worse, the worst, don't forget to pronounce the T.",
-      "vi": "Ðể ý chữ T. Bad, worse, the worst, đừng quên phát âm chữ T.",
+      "vi": "Để ý chữ T. Bad, worse, the worst, đừng quên phát âm chữ T.",
       "s": 1641.12
     },
     {"e": 1651.36, "en": "And then \"far\":", "vi": "Và kế đến là \"far\":", "s": 1649.56},
@@ -2024,13 +2024,13 @@
     {
       "e": 1778.84,
       "en": "That's how they make so much money at the box office!",
-      "vi": "Ðó là cách họ kiếm được rất nhiều tiền từ các rạp phim!",
+      "vi": "Đó là cách họ kiếm được rất nhiều tiền từ các rạp phim!",
       "s": 1775.02
     },
     {
       "e": 1780.94,
       "en": "Right Sanjeev? Right, Lucy!",
-      "vi": "Ðúng không, Sanjeev? Ðúng vậy, Lucy!",
+      "vi": "Đúng không, Sanjeev? Đúng vậy, Lucy!",
       "s": 1778.84
     },
     {
@@ -2162,13 +2162,13 @@
     {
       "e": 1863.56,
       "en": "But it's an important festival! Right Sanjeev?",
-      "vi": "Nhưng đó là một lễ hội quan trọng! Ðúng không, Sanjeev?",
+      "vi": "Nhưng đó là một lễ hội quan trọng! Đúng không, Sanjeev?",
       "s": 1859.71
     },
     {
       "e": 1866.43,
       "en": "Right! And don't forget, it's great fun!",
-      "vi": "Ðúng thế! Và đừng quên, nó rất vui!",
+      "vi": "Đúng thế! Và đừng quên, nó rất vui!",
       "s": 1863.56
     },
     {
@@ -2234,7 +2234,7 @@
     {
       "e": 1918.39,
       "en": "It's a low-budget production that is not produced or financed by a major Hollywood studio.",
-      "vi": "Ðó là một sản phẩm có kinh phí thấp và không được sản xuất hoặc cấp vốn bởi một phim trường lớn ở Hollywood.",
+      "vi": "Đó là một sản phẩm có kinh phí thấp và không được sản xuất hoặc cấp vốn bởi một phim trường lớn ở Hollywood.",
       "s": 1911.15
     },
     {
@@ -2258,7 +2258,7 @@
     {
       "e": 1936.58,
       "en": "It's a high-budget production that is produced and financed by a major Hollywood studio.",
-      "vi": "Ðó là một sản phẩm có kinh phí cao, được sản xuất và cấp vốn bởi một phim trường lớn ở Hollywood.",
+      "vi": "Đó là một sản phẩm có kinh phí cao, được sản xuất và cấp vốn bởi một phim trường lớn ở Hollywood.",
       "s": 1929.88
     },
     {
@@ -2294,7 +2294,7 @@
     {
       "e": 1967.41,
       "en": "The director is the person responsible for making a film;",
-      "vi": "Ðạo diễn là người chịu trách nhiệm tạo ra bộ phim;",
+      "vi": "Đạo diễn là người chịu trách nhiệm tạo ra bộ phim;",
       "s": 1963.07
     },
     {
@@ -2348,7 +2348,7 @@
     {
       "e": 2010.02,
       "en": "This means they are easy to watch and easy to sell.",
-      "vi": "Ðiều này có nghĩa rằng chúng dễ xem và cũng dễ bán.",
+      "vi": "Điều này có nghĩa rằng chúng dễ xem và cũng dễ bán.",
       "s": 2005.95
     },
     {
@@ -2360,7 +2360,7 @@
     {
       "e": 2016.74,
       "en": "All right cinema lovers, that's it for now.",
-      "vi": "Ðược rồi, hỡi các khán giả yêu phim ảnh, đó là tất cả những gì tôi muốn nói.",
+      "vi": "Được rồi, hỡi các khán giả yêu phim ảnh, đó là tất cả những gì tôi muốn nói.",
       "s": 2013.29
     },
     {
@@ -2385,7 +2385,7 @@
     {
       "e": 2034.4,
       "en": "Tonight I'd like to hear your thoughts about e-learning.",
-      "vi": "Ðêm nay, tôi muốn lắng nghe những suy nghĩ của các bạn về việc học trực tuyến.",
+      "vi": "Đêm nay, tôi muốn lắng nghe những suy nghĩ của các bạn về việc học trực tuyến.",
       "s": 2030.64
     },
     {
@@ -2445,7 +2445,7 @@
     {
       "e": 2084.94,
       "en": "That's true, but you need to have a lot of motivation to take an e-learning course.",
-      "vi": "Ðiều đó đúng, nhưng các bạn cần phải có rất nhiều động lực để tham gia một khóa học trực tuyến.",
+      "vi": "Điều đó đúng, nhưng các bạn cần phải có rất nhiều động lực để tham gia một khóa học trực tuyến.",
       "s": 2080.06
     },
     {"e": 2085.78, "en": "Why?", "vi": "Tại sao?", "s": 2084.94},
@@ -2464,7 +2464,7 @@
     {
       "e": 2098.34,
       "en": "It isn't always easy, especially if you work!",
-      "vi": "Ðiều đó không phải lúc nào cũng dễ dàng, nhất là khi các bạn còn phải đi làm!",
+      "vi": "Điều đó không phải lúc nào cũng dễ dàng, nhất là khi các bạn còn phải đi làm!",
       "s": 2095.13
     },
     {
@@ -2500,7 +2500,7 @@
     {
       "e": 2125.67,
       "en": "Ok, one advantage, you can study when you like and where you like.",
-      "vi": "Ðược rồi, một thuận lợi là các bạn có thể học bất kỳ khi nào và bất kỳ địa điểm nào mình thích.",
+      "vi": "Được rồi, một thuận lợi là các bạn có thể học bất kỳ khi nào và bất kỳ địa điểm nào mình thích.",
       "s": 2119.28
     },
     {
@@ -2549,7 +2549,7 @@
     {
       "e": 2158.87,
       "en": "Wait a minute, this is where the \"e\", the \"electronic\" part helps.",
-      "vi": "Ðợi đã, đây là lúc chữ \"e,\" phần \"điện tử\" giúp ích.",
+      "vi": "Đợi đã, đây là lúc chữ \"e,\" phần \"điện tử\" giúp ích.",
       "s": 2153.63
     },
     {
@@ -2621,7 +2621,7 @@
     {
       "e": 2223.18,
       "en": "Ok, ok! I see that you both have strong opinions on this topic.",
-      "vi": "Ðược rồi, được rồi! Tôi hiểu rằng cả hai bạn đều có những quan điểm thẳng thắn về chủ đề này.",
+      "vi": "Được rồi, được rồi! Tôi hiểu rằng cả hai bạn đều có những quan điểm thẳng thắn về chủ đề này.",
       "s": 2218.87
     },
     {
@@ -2676,7 +2676,7 @@
     {
       "e": 2263.72,
       "en": "Notice how we say \"to take a course\".",
-      "vi": "Ðể ý cách chúng tôi nói \"tham dự một khóa học.\"",
+      "vi": "Để ý cách chúng tôi nói \"tham dự một khóa học.\"",
       "s": 2260.51
     },
     {
@@ -2712,13 +2712,13 @@
     {
       "e": 2286.83,
       "en": "Most people go to university.",
-      "vi": "Ða số mọi người đều đến đại học.",
+      "vi": "Đa số mọi người đều đến đại học.",
       "s": 2284.05
     },
     {
       "e": 2292.01,
       "en": "To go to university means to study full-time at a university.",
-      "vi": "Ðến đại học có nghĩa là học trọn thời gian ở trường đại học.",
+      "vi": "Đến đại học có nghĩa là học trọn thời gian ở trường đại học.",
       "s": 2286.83
     },
     {
@@ -2791,7 +2791,7 @@
     {
       "e": 2351.04,
       "en": "Notice we can say either a Mathematics degree or a degree in Mathematics.",
-      "vi": "Ðể ý rằng chúng ta có thể nói bằng Toán học hoặc văn bằng về môn Toán.",
+      "vi": "Để ý rằng chúng ta có thể nói bằng Toán học hoặc văn bằng về môn Toán.",
       "s": 2344.83
     },
     {
@@ -2803,7 +2803,7 @@
     {
       "e": 2361.28,
       "en": "This means they study at home, they don't go to the university to study.",
-      "vi": "Ðiều này có nghĩa rằng họ sẽ học ở nhà, họ không cần phải đến trường đại học để học.",
+      "vi": "Điều này có nghĩa rằng họ sẽ học ở nhà, họ không cần phải đến trường đại học để học.",
       "s": 2356.56
     },
     {
@@ -2821,7 +2821,7 @@
     {
       "e": 2375.84,
       "en": "The verb \"to drop out\" means to not finish a course.",
-      "vi": "Ðộng từ \"bỏ học\" có nghĩa là không hoàn tất khóa học.",
+      "vi": "Động từ \"bỏ học\" có nghĩa là không hoàn tất khóa học.",
       "s": 2371.18
     },
     {

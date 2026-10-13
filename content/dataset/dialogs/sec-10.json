@@ -258,7 +258,7 @@
       {
         "a": "Had enough?",
         "b": "I'm given you good measure.",
-        "avi": "Ðủ chưa?",
+        "avi": "Đủ chưa?",
         "bvi": "Tôi cân đầy đủ cho bà rồi đó."
       },
       {
@@ -336,14 +336,14 @@
       {
         "a": "They are chinese tangerines.",
         "b": "I also want some tangerines.",
-        "avi": "Ðó là quít trung quốc.",
+        "avi": "Đó là quít trung quốc.",
         "bvi": "Tôi muốn mua quít."
       },
       {
         "a": "I also want some tangerines.",
         "b": "They are Vietnamese tangerines.",
         "avi": "Tôi muốn mua quít.",
-        "bvi": "Ðó là quít Việt nam."
+        "bvi": "Đó là quít Việt nam."
       },
       {
         "a": "What's your deal?",
@@ -505,7 +505,7 @@
         "a": "Will that be all for you?",
         "b": "Now, what else do I need?",
         "avi": "Bà mua thêm gì nữa không?",
-        "bvi": "Ðể xem, tôi còn cần gì nữa không?"
+        "bvi": "Để xem, tôi còn cần gì nữa không?"
       }
     ]
   },

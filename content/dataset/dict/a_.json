@@ -59,7 +59,7 @@
       {
         "k": "ex",
         "t": "we're looking for someone with a good knowledge of German",
-        "vi": "chúng tôi đang tìm người giỏi tiếng Ðức"
+        "vi": "chúng tôi đang tìm người giỏi tiếng Đức"
       },
       {"k": "m", "t": "cái nào đó"},
       {"k": "m", "t": "bất kỳ"},
@@ -747,7 +747,7 @@
     "segs": [{"k": "m", "t": "hổ giấy (người, vật có bề ngoài dữ tợn)."}],
     "k": "a paper tiger"
   },
-  {"h": "A pari", "segs": [{"k": "m", "t": "Ðồng luận, cũng vậy."}], "k": "a pari"},
+  {"h": "A pari", "segs": [{"k": "m", "t": "Đồng luận, cũng vậy."}], "k": "a pari"},
   {"h": "a penny blood", "segs": [{"k": "m", "t": "tiểu thuyết rùng rợn."}], "k": "a penny blood"},
   {
     "h": "A phase",
@@ -1610,7 +1610,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một phiên bản của hệ điều hành UNIX của hãng máy tính Apple Computer. Ðể sử dụng được A/UX bạn phải có máy Macintosh dùng vi xử lý Motorola 68020 hoặc 68030 và 4M bộ nhớ RAM."
+        "t": "một phiên bản của hệ điều hành UNIX của hãng máy tính Apple Computer. Để sử dụng được A/UX bạn phải có máy Macintosh dùng vi xử lý Motorola 68020 hoặc 68030 và 4M bộ nhớ RAM."
       }
     ],
     "k": "a/ux"

@@ -39,7 +39,7 @@
     {
       "e": 26.99,
       "en": "Oh, no I am sorry. That's terrible.",
-      "vi": "Ồ, không. Tớ xin lỗi. Ðiều đó thật tệ.",
+      "vi": "Ồ, không. Tớ xin lỗi. Điều đó thật tệ.",
       "s": 23.58
     },
     {"e": 28.62, "en": "But that's not all.", "vi": "Nhưng chưa hết đâu.", "s": 26.99},
@@ -69,7 +69,7 @@
       "vi": "Xem nào, tiếp tục với máy tính của mình, công việc bán thời gian của tớ, kiểm tra thường xuyên nữa.",
       "s": 43.18
     },
-    {"e": 51.42, "en": "It can be overwhelming.", "vi": "Ðiều đó có thể là quá nhiều.", "s": 49.24},
+    {"e": 51.42, "en": "It can be overwhelming.", "vi": "Điều đó có thể là quá nhiều.", "s": 49.24},
     {"e": 53.89, "en": "Yea, it's same for me.", "vi": "Phải, tớ cũng giống vậy.", "s": 51.42},
     {
       "e": 56.64,
@@ -124,7 +124,7 @@
     {
       "e": 85.9,
       "en": "Of course, I wish I could sleep for first three days",
-      "vi": "Ðương nhiên, tớ ước mình có thể ngủ trong ba ngày đầu",
+      "vi": "Đương nhiên, tớ ước mình có thể ngủ trong ba ngày đầu",
       "s": 81.81
     },
     {
@@ -230,7 +230,7 @@
     {
       "e": 152.06,
       "en": "Ok, guys, we all have the same problem.",
-      "vi": "Ðược rồi, các cậu, tất cả chúng ta đều có cùng vấn đề.",
+      "vi": "Được rồi, các cậu, tất cả chúng ta đều có cùng vấn đề.",
       "s": 148.94
     },
     {"e": 153.93, "en": "What should we do about it?", "vi": "Ta nên làm gì về nó?", "s": 152.06},
@@ -322,7 +322,7 @@
     {
       "e": 207.38,
       "en": "Ok, why don't get them today and get started?",
-      "vi": "Ðược rồi, tại sao không mua chúng ngay hôm nay và bắt đầu chứ?",
+      "vi": "Được rồi, tại sao không mua chúng ngay hôm nay và bắt đầu chứ?",
       "s": 203.21
     },
     {
@@ -340,10 +340,10 @@
     {
       "e": 217.26,
       "en": "Ok, but I have a question first.",
-      "vi": "Ðược rồi, nhưng trước tiên tớ có một đề nghị.",
+      "vi": "Được rồi, nhưng trước tiên tớ có một đề nghị.",
       "s": 214.19
     },
-    {"e": 218.57, "en": "Yes, Angie.", "vi": "Ðược thôi, Angie.", "s": 217.26},
+    {"e": 218.57, "en": "Yes, Angie.", "vi": "Được thôi, Angie.", "s": 217.26},
     {
       "e": 221.47,
       "en": "I wish I could join you for buying these new day planners,",

@@ -43,16 +43,16 @@
       ["Bà cố thường nấu ăn, lau dọn nhà cửa và giặt quần áo."],
       ["Công việc nghe có vẻ vất vả thật!"],
       [
-        "Ðúng vậy.",
+        "Đúng vậy.",
         "Mà lại hoàn toàn không có điện.",
         "Bà cố phải làm mọi việc mà không có sự trợ giúp của thiết bị hiện đại."
       ],
       ["Bà làm gì vào buổi tối?"],
       ["Sau bữa tối, bà cố thắp đèn lên và ông cố thường kể chuyện cho mọi người nghe."],
       ["Bà còn nhớ câu chuyện nào không?"],
-      ["ừ, có.", "Câu chuyện hay nhất là \"Chiếc hài đánh rơi\".", "Ðó là một câu chuyện cổ tích."],
+      ["ừ, có.", "Câu chuyện hay nhất là \"Chiếc hài đánh rơi\".", "Đó là một câu chuyện cổ tích."],
       ["Bà kể cho cháu nghe câu chuyện đó đi bà.", "Truyện cổ tích rất thú vị."],
-      ["Ðược rồi.", "Xưa kia có một người nông dân nghèo ..."]
+      ["Được rồi.", "Xưa kia có một người nông dân nghèo ..."]
     ],
     "img": "img/readings/1.8.38a.webp",
     "page": "38"
@@ -225,7 +225,7 @@
       ["Nghe câu chuyện"],
       [
         "Ngày xưa có một người nông dân sống hạnh phúc với gia đình.",
-        "Ðám gà của ông cho nhiều trứng mà những trứng này ông thường bán để mua thực phẩm và quần áo cho gia đình."
+        "Đám gà của ông cho nhiều trứng mà những trứng này ông thường bán để mua thực phẩm và quần áo cho gia đình."
       ],
       [
         "Một hôm ông đi lượm trứng và thấy một trong những chú gà đẻ ra một quả trứng bằng vàng.",
@@ -240,8 +240,8 @@
         "Chẳng có thêm quả trứng nào cả cho người nông dân ngu ngốc và bà vợ tham lam."
       ],
       ["Hãy viết mẫu tự của lời dạy thích hợp nhất. (b)"],
-      ["Ðừng giết gà."],
-      ["Ðừng ngu ngốc và tham lam."],
+      ["Đừng giết gà."],
+      ["Đừng ngu ngốc và tham lam."],
       ["Hãy bằng lòng với những gì bạn có."],
       ["Tìm vàng thật khó."]
     ],
@@ -287,7 +287,7 @@
         "Người vợ mới của ông có một cô con gái tên stout Nut.",
         "Không may là người vợ mới này đối xử với Little Pea rất độc ác.",
         "Suốt ngày, Little Pea phải làm công việc nhà.",
-        "Ðiều này làm cho cha của Little Pea rất buồn lòng.",
+        "Điều này làm cho cha của Little Pea rất buồn lòng.",
         "Chẳng bao lâu ông mất vì đau buồn."
       ],
       [
@@ -302,7 +302,7 @@
       [
         "Trong lúc Little Pea chạy đến lễ hội, cô đã đánh rơi một chiếc hài.",
         "Khi hoàng tử nhặt được chiếc hài, chàng quyết định sẽ cưới người con gái nào sở hữu nó.",
-        "Ðương nhiên là chiếc hài vừa khít chân Little Pea,",
+        "Đương nhiên là chiếc hài vừa khít chân Little Pea,",
         "và hoàng tử đã phải lòng cô ngay lập tức."
       ]
     ],
@@ -361,7 +361,7 @@
       ["Hoàng tử quyết định sẽ cưới ai?"],
       ["Hoàng tử quyết định sẽ cưới người con gái nào sở hữu chiếc hài đó."],
       ["Có phải đây là một câu chuyện có thật không?", "Làm sao bạn biết được?"],
-      ["Không, đó không phải là một câu chuyện có thật.", "Ðó là truyện dân gian."]
+      ["Không, đó không phải là một câu chuyện có thật.", "Đó là truyện dân gian."]
     ],
     "img": "img/readings/1.8.42b.webp",
     "page": "42"
@@ -522,13 +522,13 @@
     ],
     "vi": [
       ["Nhìn vào tranh.", "Hoàn tất bài hội thoại.", "Hãy dùng used to và các động từ trong khung."],
-      ["Ðây là đâu vậy?", "Không phải Hà Nội."],
+      ["Đây là đâu vậy?", "Không phải Hà Nội."],
       ["Không, đó là Huế.", "Trước đây tôi sống ở đó."],
       ["Hoa, có phải bạn đây không?"],
-      ["Ðúng vậy. Trước đây tôi để tóc dài."],
+      ["Đúng vậy. Trước đây tôi để tóc dài."],
       ["Người trong tấm hình này là ai vậy?"],
-      ["Ðó là Loan.", "Trước kia cô ấy là cô bạn hàng xóm ở kế bên nhà tôi."],
-      ["Ðây có phải là cha mẹ bạn không?"],
+      ["Đó là Loan.", "Trước kia cô ấy là cô bạn hàng xóm ở kế bên nhà tôi."],
+      ["Đây có phải là cha mẹ bạn không?"],
       ["Không. đó là chú và thím của tôi.", "Họ cũng đã từng sống ở Huế."]
     ],
     "img": "img/readings/1.8.45a.webp",

@@ -209,7 +209,7 @@
     ],
     "k": "cpt."
   },
-  {"h": "CPU", "segs": [{"k": "m", "t": "Ðơn vị xử lý trung tâm."}], "k": "cpu"},
+  {"h": "CPU", "segs": [{"k": "m", "t": "Đơn vị xử lý trung tâm."}], "k": "cpu"},
   {
     "h": "CPU base register",
     "segs": [

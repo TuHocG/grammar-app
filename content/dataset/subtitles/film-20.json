@@ -144,7 +144,7 @@
     {
       "e": 130.85,
       "en": "Sure. There are two bedrooms, a bathroom, a kitchen and a dining room.",
-      "vi": "Ðược. Có 2 phòng ngủ, một phòng tắm, một nhà bếp và một phòng ăn.",
+      "vi": "Được. Có 2 phòng ngủ, một phòng tắm, một nhà bếp và một phòng ăn.",
       "s": 122.1
     },
     {
@@ -179,14 +179,14 @@
     {
       "e": 167.09,
       "en": "It is a large room and it is partially furnished.",
-      "vi": "Ðó là một căn phòng lớn và được trang bị đồ đạc một phần.",
+      "vi": "Đó là một căn phòng lớn và được trang bị đồ đạc một phần.",
       "s": 161.78
     },
     {"e": 169.57, "en": "Is there a bathroom, too?", "vi": "Có một phòng tắm nữa chứ?", "s": 167.09},
     {
       "e": 176.25,
       "en": "Sure. In the bathroom, there is a large bathtub and a toilet.",
-      "vi": "Ðúng thế. Trong phòng tắm có một bồn tắm lớn và một bồn cầu.",
+      "vi": "Đúng thế. Trong phòng tắm có một bồn tắm lớn và một bồn cầu.",
       "s": 169.57
     },
     {
@@ -207,7 +207,7 @@
     {
       "e": 197.7,
       "en": "Fine! When can I come to see it?",
-      "vi": "Ðược rồi! Khi nào tôi có thể đến xem phòng?",
+      "vi": "Được rồi! Khi nào tôi có thể đến xem phòng?",
       "s": 194.36
     },
     {"e": 202.85, "en": "...", "vi": "...", "s": 197.7},
@@ -362,7 +362,7 @@
     {
       "e": 326.57,
       "en": "Across from it is a bathroom and a study.",
-      "vi": "Ðối diện phòng ngủ là phòng tắm và phòng làm việc.",
+      "vi": "Đối diện phòng ngủ là phòng tắm và phòng làm việc.",
       "s": 323.08
     },
     {

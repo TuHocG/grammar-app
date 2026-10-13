@@ -110,7 +110,7 @@
         "a": "How's that for punctuality?",
         "b": "Don't drive so quickly!",
         "avi": "Phải đúng giờ chứ?",
-        "bvi": "Ðừng lái xe quá nhanh!"
+        "bvi": "Đừng lái xe quá nhanh!"
       }
     ]
   },
@@ -122,7 +122,7 @@
         "a": "Can I type this letter?",
         "b": "Don't make any mistakes.",
         "avi": "Tôi đánh máy lá thư này nhé?",
-        "bvi": "Ðừng để phạm lỗi."
+        "bvi": "Đừng để phạm lỗi."
       },
       {
         "a": "Can you drive faster?",
@@ -188,7 +188,7 @@
         "a": "You clashed into me.",
         "b": "Don't blame me for the accident.",
         "avi": "Anh đã đụng vào tôi.",
-        "bvi": "Ðừng đổ lỗi tai nạn cho tôi."
+        "bvi": "Đừng đổ lỗi tai nạn cho tôi."
       },
       {
         "a": "Did you see him?",
@@ -278,7 +278,7 @@
         "a": "The sun shines everyday.",
         "b": "The sun comes up in the east.",
         "avi": "Mặt trời chiếu sáng mỗi ngày.",
-        "bvi": "Mặt trời mọc ở hướng Ðông."
+        "bvi": "Mặt trời mọc ở hướng Đông."
       },
       {
         "a": "How often does the bus run?",
@@ -481,7 +481,7 @@
       {
         "a": "It was a terrible strain on me.",
         "b": "What happened to the other student?",
-        "avi": "Ðó là một điều căng thẳng khủng khiếp đối với tôi.",
+        "avi": "Đó là một điều căng thẳng khủng khiếp đối với tôi.",
         "bvi": "Thế còn chuyện gì đã xảy ra với người sinh viên kia?"
       },
       {
@@ -494,7 +494,7 @@
         "a": "Can you push my car to a garage.",
         "b": "What happened to your car?",
         "avi": "Anh có thể đẩy xe tôi đến gara được không.",
-        "bvi": "Ðiều gì đã xảy ra với ô tô của bạn?"
+        "bvi": "Điều gì đã xảy ra với ô tô của bạn?"
       },
       {
         "a": "I forgot it, my God!",
@@ -583,7 +583,7 @@
       {
         "a": "Sports cars are fun.",
         "b": "Put your seatbelt on.",
-        "avi": "Ði xe hơi thể thao vui lắm.",
+        "avi": "Đi xe hơi thể thao vui lắm.",
         "bvi": "Thắt dây an toàn vào."
       },
       {
@@ -613,13 +613,13 @@
       {
         "a": "You are so not allowed to complain to me.",
         "b": "I'm glad you don't complain very much.",
-        "avi": "Ðừng có than thở với tôi.",
+        "avi": "Đừng có than thở với tôi.",
         "bvi": "Tôi rất vui vì bạn không than phiền quá nhiều."
       },
       {
         "a": "It was probably just an accident.",
         "b": "I'm ready for an accident.",
-        "avi": "Ðây có thể chỉ là một tai nạn.",
+        "avi": "Đây có thể chỉ là một tai nạn.",
         "bvi": "Tôi sẵn sàng nhận lỗi tai nạn."
       }
     ]
@@ -631,7 +631,7 @@
       {
         "a": "It is only half an hour's car ride.",
         "b": "I like by bicycle better.",
-        "avi": "Ði xe hơi chỉ mất nửa tiếng.",
+        "avi": "Đi xe hơi chỉ mất nửa tiếng.",
         "bvi": "Tôi thích đi bằng xe đạp hơn."
       },
       {
@@ -730,7 +730,7 @@
         "avi": "Buồn quá! Quá buồn luôn!",
         "bvi": "Chúng ta đi xem phim nào."
       },
-      {"a": "It's OK.", "b": "Oh, no, it isn't.", "avi": "Ðồng ý chứ!", "bvi": "ồ không được đâu."},
+      {"a": "It's OK.", "b": "Oh, no, it isn't.", "avi": "Đồng ý chứ!", "bvi": "ồ không được đâu."},
       {
         "a": "Do you have the time?",
         "b": "It's half past five.",
@@ -818,7 +818,7 @@
       {
         "a": "Like rabbits in a warren.",
         "b": "Why you don't blow you horn?",
-        "avi": "Ðông như kiến.",
+        "avi": "Đông như kiến.",
         "bvi": "Tại sao bạn không nhấn còi?"
       },
       {
@@ -842,14 +842,14 @@
       {
         "a": "That is really dangerous.",
         "b": "I nearly ran over this foot-passenger.",
-        "avi": "Ðiều đó thật nguy hiểm.",
+        "avi": "Điều đó thật nguy hiểm.",
         "bvi": "Tôi suýt cán phải người đi bộ này."
       },
       {
         "a": "Maybe we should honk the horn next time.",
         "b": "His headlights dazzled me.",
         "avi": "Có lẽ lần sau chúng ta nên nhấn còi.",
-        "bvi": "Ðèn pha của ông ấy làm chói mắt tôi."
+        "bvi": "Đèn pha của ông ấy làm chói mắt tôi."
       },
       {
         "a": "Where do you think you're going?",
@@ -945,7 +945,7 @@
         "a": "I will need to see your transit papers.",
         "b": "Here are my papers and my policy.",
         "avi": "Tôi cần xem giấy tờ của anh.",
-        "bvi": "Ðây là giấy tờ của tôi và hợp đồng bảo hiểm."
+        "bvi": "Đây là giấy tờ của tôi và hợp đồng bảo hiểm."
       }
     ]
   },
@@ -956,7 +956,7 @@
       {
         "a": "Here are my papers and my policy.",
         "b": "Everything is in order.",
-        "avi": "Ðây là giấy tờ của tôi và hợp đồng bảo hiểm.",
+        "avi": "Đây là giấy tờ của tôi và hợp đồng bảo hiểm.",
         "bvi": "Tất cả đều hợp lệ."
       },
       {
@@ -1047,7 +1047,7 @@
         "a": "We've missed the last train.",
         "b": "What about taking a coach?",
         "avi": "Chúng ta đã lỡ chuyến xe lửa cuối cùng.",
-        "bvi": "Ðón xe khách nhé?"
+        "bvi": "Đón xe khách nhé?"
       },
       {
         "a": "I am urged to leave.",
@@ -1094,7 +1094,7 @@
       {
         "a": "Which way do you go to Oxford?",
         "b": "Walk two blocks ahead, then turn left.",
-        "avi": "Ði đường nào đến Oxford?",
+        "avi": "Đi đường nào đến Oxford?",
         "bvi": "Hãy đi bộ qua hai dãy nhà phía trước, sau đó quẹo trái."
       }
     ]
@@ -1226,7 +1226,7 @@
       {
         "a": "Which way is the lift?",
         "b": "Walk straight on.",
-        "avi": "Ðường nào dẫn đến thang máy?",
+        "avi": "Đường nào dẫn đến thang máy?",
         "bvi": "Cứ đi thẳng."
       },
       {
@@ -1239,13 +1239,13 @@
         "a": "I used to buy books from a second-hand bookshop.",
         "b": "Is this the road to Book Store?",
         "avi": "Tôi thường mua sách ở cửa hàng bán sách cũ.",
-        "bvi": "Ðây là đường đi đến cửa hiệu sách phải không?"
+        "bvi": "Đây là đường đi đến cửa hiệu sách phải không?"
       },
       {
         "a": "There's a good one in Dong Khoi.",
         "b": "Where is Dong Khoi Street?",
-        "avi": "Có một tiệm ở đường Ðồng Khởi đấy.",
-        "bvi": "Ðường Ðồng Khởi ở đâu?"
+        "avi": "Có một tiệm ở đường Đồng Khởi đấy.",
+        "bvi": "Đường Đồng Khởi ở đâu?"
       }
     ]
   },
@@ -1257,12 +1257,12 @@
         "a": "But it will take time.",
         "b": "About 40 minutes' ride by car.",
         "avi": "Nhưng sẽ tốn thời gian đấy.",
-        "bvi": "Ði xe hơi mất khoảng 40 phút."
+        "bvi": "Đi xe hơi mất khoảng 40 phút."
       },
       {
         "a": "About 40 minutes' ride by car.",
         "b": "When does it leave?",
-        "avi": "Ði xe hơi mất khoảng 40 phút.",
+        "avi": "Đi xe hơi mất khoảng 40 phút.",
         "bvi": "Mấy giờ khởi hành?"
       },
       {
@@ -1316,7 +1316,7 @@
       {
         "a": "Pick the path you think safest.",
         "b": "Here's a sign.",
-        "avi": "Ði đường nào bạn thấy chắc chắn nhất.",
+        "avi": "Đi đường nào bạn thấy chắc chắn nhất.",
         "bvi": "Có một bảng chỉ đường."
       },
       {
@@ -1346,13 +1346,13 @@
       {
         "a": "And head to the Dewey Square exit.",
         "b": "Does this bus get to Dewey Square?",
-        "avi": "Ði đến lối ra quảng trường Dewey.",
+        "avi": "Đi đến lối ra quảng trường Dewey.",
         "bvi": "Xe buýt này có đến Quảng trường Dewey không?"
       },
       {
         "a": "Does this bus get to Ba Dinh Square?",
         "b": "You should take No. 52 PhuongTrinh.",
-        "avi": "Xe buýt này có đến Quảng trường Ba Ðình không?",
+        "avi": "Xe buýt này có đến Quảng trường Ba Đình không?",
         "bvi": "Bạn nên đón xe Phương Trinh số 52."
       },
       {
@@ -1383,7 +1383,7 @@
         "a": "I returned the money to her.",
         "b": "Here's your change.",
         "avi": "Tôi đã trả tiền cho chị ấy.",
-        "bvi": "Ðây là tiền thừa của bạn."
+        "bvi": "Đây là tiền thừa của bạn."
       },
       {
         "a": "Which bus can I catch to get to Open University?",
@@ -1413,7 +1413,7 @@
         "a": "What's your destination, please?",
         "b": "Yellow Stone Park.",
         "avi": "Vui lòng cho tôi biết nơi đến là đâu?",
-        "bvi": "Công viên Ðá vàng."
+        "bvi": "Công viên Đá vàng."
       },
       {
         "a": "Does it stop along the way?",
@@ -1425,7 +1425,7 @@
         "a": "In which streets are toyshops?",
         "b": "Two blocks down the street.",
         "avi": "Những cửa hàng đồ chơi ở đường nào vậy?",
-        "bvi": "Ði đường này qua hai dãy phố."
+        "bvi": "Đi đường này qua hai dãy phố."
       }
     ]
   },
@@ -1436,7 +1436,7 @@
       {
         "a": "This is your stop.",
         "b": "What's the stop called?",
-        "avi": "Ðến trạm của bạn rồi.",
+        "avi": "Đến trạm của bạn rồi.",
         "bvi": "Tên của trạm này là gì vậy?"
       },
       {
@@ -1455,7 +1455,7 @@
         "a": "Can we get tickets now?",
         "b": "What's the fare to DongKhoi Street?",
         "avi": "Bây giờ chúng ta có thể mua vé được chưa?",
-        "bvi": "Vé đến khu phố Ðồng Khởi giá bao nhiêu?"
+        "bvi": "Vé đến khu phố Đồng Khởi giá bao nhiêu?"
       }
     ]
   },
@@ -1466,7 +1466,7 @@
       {
         "a": "What's the fare to DongKhoi Street?",
         "b": "A half dollar.",
-        "avi": "Vé đến khu phố Ðồng Khởi giá bao nhiêu?",
+        "avi": "Vé đến khu phố Đồng Khởi giá bao nhiêu?",
         "bvi": "50 xu."
       },
       {
@@ -1484,8 +1484,8 @@
       {
         "a": "Which is the shortest way?",
         "b": "Walk down this street.",
-        "avi": "Ðâu là đường ngắn nhất?",
-        "bvi": "Ðường này."
+        "avi": "Đâu là đường ngắn nhất?",
+        "bvi": "Đường này."
       }
     ]
   },
@@ -1497,12 +1497,12 @@
         "a": "How long will it take me to get there?",
         "b": "It's only three minutes' walk.",
         "avi": "Tôi đến đó mất bao lâu?",
-        "bvi": "Ði bộ chỉ mất ba phút thôi."
+        "bvi": "Đi bộ chỉ mất ba phút thôi."
       },
       {
         "a": "It's only three minutes' walk.",
         "b": "Do I have to change at Chinatown?",
-        "avi": "Ði bộ chỉ mất ba phút thôi.",
+        "avi": "Đi bộ chỉ mất ba phút thôi.",
         "bvi": "Tôi có phải đổi xe tại trạm Phố Tàu không?"
       },
       {
@@ -1514,7 +1514,7 @@
       {
         "a": "Okay, let's sit down.",
         "b": "I really appreciate your help.",
-        "avi": "Ðược rồi, vậy chúng ta ngồi xuống đi.",
+        "avi": "Được rồi, vậy chúng ta ngồi xuống đi.",
         "bvi": "Tôi rất cảm ơn sự giúp đỡ của bạn."
       }
     ]
@@ -1539,7 +1539,7 @@
         "a": "Drop me at the Manhattan Post Office.",
         "b": "This is your stop.",
         "avi": "Cho tôi xuống xe tại bưu điện Manhattan.",
-        "bvi": "Ðến trạm của bạn rồi."
+        "bvi": "Đến trạm của bạn rồi."
       },
       {
         "a": "We'll stay at the best hotels.",
@@ -1647,7 +1647,7 @@
         "a": "How about the square?",
         "b": "All right, sir.",
         "avi": "Ở quảng trường được không?",
-        "bvi": "Ðược rồi thưa ông."
+        "bvi": "Được rồi thưa ông."
       },
       {
         "a": "How about meeting at the movie theater?",
@@ -1749,7 +1749,7 @@
         "a": "Oh, that's where I'm going.",
         "b": "Is this the right road?",
         "avi": "ồ, đó là nơi mà tôi đang đến.",
-        "bvi": "Ði đúng đường chứ?"
+        "bvi": "Đi đúng đường chứ?"
       },
       {
         "a": "Do you have a hotel?",
@@ -1916,7 +1916,7 @@
       {
         "a": "About 40 minutes ride by car.",
         "b": "Why so low?",
-        "avi": "Ði xe hơi mất khoảng 40 phút.",
+        "avi": "Đi xe hơi mất khoảng 40 phút.",
         "bvi": "Sao chậm thế?"
       },
       {
@@ -1947,7 +1947,7 @@
         "a": "No way out.",
         "b": "This is the only way to your destination.",
         "avi": "Không còn lối nào khác.",
-        "bvi": "Ðây là đường duy nhất để đến đó."
+        "bvi": "Đây là đường duy nhất để đến đó."
       },
       {
         "a": "Passengers may cross by the footbridge.",
@@ -1976,7 +1976,7 @@
       {
         "a": "This is no parking area.",
         "b": "Where can we park our car then?",
-        "avi": "Ðây là nơi cấm đậu xe.",
+        "avi": "Đây là nơi cấm đậu xe.",
         "bvi": "Chúng tôi có thể đậu xe ở đâu?"
       },
       {
@@ -1989,7 +1989,7 @@
         "a": "How far have we gone?",
         "b": "Eight miles already.",
         "avi": "Chúng ta đã đi được bao xa rồi?",
-        "bvi": "Ðã đi được tám dặm rồi."
+        "bvi": "Đã đi được tám dặm rồi."
       },
       {
         "a": "This car is as good as new.",
@@ -2013,7 +2013,7 @@
         "a": "Where can I get my bicycle repaired?",
         "b": "Walk two blocks west.",
         "avi": "Tôi có thể chữa xe đạp ở đâu?",
-        "bvi": "Ði qua hai dãy nhà phía Tây."
+        "bvi": "Đi qua hai dãy nhà phía Tây."
       },
       {
         "a": "Where's the guest room?",
@@ -2036,7 +2036,7 @@
       {
         "a": "Let me move over to a computer.",
         "b": "You can't miss it!",
-        "avi": "Ðể tôi tìm trong máy vi tính.",
+        "avi": "Để tôi tìm trong máy vi tính.",
         "bvi": "Bạn nhất định sẽ tìm thấy!"
       },
       {
@@ -2115,7 +2115,7 @@
         "a": "I don't know which way to go.",
         "b": "Go straight on along this street.",
         "avi": "Tôi không biết đi đường nào.",
-        "bvi": "Ði thẳng dọc theo đường này."
+        "bvi": "Đi thẳng dọc theo đường này."
       }
     ]
   },
@@ -2133,7 +2133,7 @@
         "a": "They seemed fairly near.",
         "b": "Cross the bridge.",
         "avi": "Tôi có cảm giác nó không còn xa.",
-        "bvi": "Ði qua cầu."
+        "bvi": "Đi qua cầu."
       },
       {
         "a": "Where was it you wanted me?",
@@ -2217,13 +2217,13 @@
         "a": "How are you going?",
         "b": "Go back till you see a restaurant.",
         "avi": "Bạn sẽ đi như thế nào?",
-        "bvi": "Ði trở lại cho đến khi bạn thấy một nhà hàng."
+        "bvi": "Đi trở lại cho đến khi bạn thấy một nhà hàng."
       },
       {
         "a": "Which way do we go?",
         "b": "Take the turning to the left.",
         "avi": "Chúng ta đi hướng nào đây?",
-        "bvi": "Ði theo đường rẽ bên trái."
+        "bvi": "Đi theo đường rẽ bên trái."
       },
       {
         "a": "So the nature of everything is nowness.",
@@ -2306,7 +2306,7 @@
       {
         "a": "Sorry. Road's closed.",
         "b": "Can I pass through this street?",
-        "avi": "Xin lỗi. Ðường cấm rồi.",
+        "avi": "Xin lỗi. Đường cấm rồi.",
         "bvi": "Tôi có thể băng qua đường này?"
       },
       {
@@ -2319,13 +2319,13 @@
         "a": "I'll draw a plan for you.",
         "b": "Which is the way to Binh Thanh?",
         "avi": "Tôi sẽ vẽ một bản đồ cho bạn.",
-        "bvi": "Ðâu là đường đi Bình Thạnh?"
+        "bvi": "Đâu là đường đi Bình Thạnh?"
       },
       {
         "a": "I've gotta get back to the road",
         "b": "Does this road lead to Thanh Da?",
         "avi": "Tôi quay lại đường nhựa đây.",
-        "bvi": "Ðường này có dẫn đến Thanh Ða không?"
+        "bvi": "Đường này có dẫn đến Thanh Đa không?"
       }
     ]
   },
@@ -2337,7 +2337,7 @@
         "a": "Three hours on dirt roads.",
         "b": "How is the road?",
         "avi": "3 giờ trên đường đất.",
-        "bvi": "Ðường sá ra sao?"
+        "bvi": "Đường sá ra sao?"
       },
       {
         "a": "We turned on to a dirt road.",
@@ -2366,7 +2366,7 @@
       {
         "a": "It's one of the oldest cities of Puerto Rico.",
         "b": "Can we find any restaurant there?",
-        "avi": "Ðó là một trong những thành phố cổ nhất của Puerto Rico.",
+        "avi": "Đó là một trong những thành phố cổ nhất của Puerto Rico.",
         "bvi": "Tôi có thể tìm được một nhà hàng ăn ở đó không?"
       },
       {
@@ -2379,7 +2379,7 @@
         "a": "We are all set for the picnic in the park.",
         "b": "Which is the shortest way?",
         "avi": "Chúng tôi đã sẵn sàng cho chuyến đi dã ngoại ở công viên.",
-        "bvi": "Ðâu là đường ngắn nhất?"
+        "bvi": "Đâu là đường ngắn nhất?"
       },
       {
         "a": "Is there a cab-stand anywhere near?",
@@ -2469,7 +2469,7 @@
         "a": "Where are you spending the summer?",
         "b": "I'm going to Da Lat.",
         "avi": "Bạn định nghỉ hè ở đâu?",
-        "bvi": "Tôi đi Ðà Lạt."
+        "bvi": "Tôi đi Đà Lạt."
       },
       {
         "a": "They're on their way.",
@@ -2505,7 +2505,7 @@
         "a": "What time do I check in?",
         "b": "At five o'clock sharp.",
         "avi": "Tôi sẽ đăng ký trước khi lên máy bay vào lúc mấy giờ?",
-        "bvi": "Ðúng 5 giờ."
+        "bvi": "Đúng 5 giờ."
       }
     ]
   },
@@ -2576,7 +2576,7 @@
       {
         "a": "OK. I'll sleep for a little while.",
         "b": "Which berth will you have?",
-        "avi": "Ðược thế thì tôi ngủ một lát.",
+        "avi": "Được thế thì tôi ngủ một lát.",
         "bvi": "Bạn lấy giường nào?"
       },
       {
@@ -2649,12 +2649,12 @@
         "a": "Holland was an A1 ship.",
         "b": "Does this train stop at Da Nang?",
         "avi": "Tàu Holland là một chiếc tàu thượng hạng.",
-        "bvi": "Tàu này có ngừng ở Ðà Nẵng không?"
+        "bvi": "Tàu này có ngừng ở Đà Nẵng không?"
       },
       {
         "a": "That's an eastbound train.",
         "b": "Does this train go right through to New York?",
-        "avi": "Ðó là tàu lửa chạy về hướng đông.",
+        "avi": "Đó là tàu lửa chạy về hướng đông.",
         "bvi": "Tàu này có chạy thẳng suốt tới New York không?"
       }
     ]
@@ -2666,13 +2666,13 @@
       {
         "a": "We must change at the next station.",
         "b": "Must I change cars for Qui Nhon?",
-        "avi": "Ðến ga sau chúng ta sẽ phải đổi tàu.",
+        "avi": "Đến ga sau chúng ta sẽ phải đổi tàu.",
         "bvi": "Tôi có phải đổi toa đi Qui Nhơn không?"
       },
       {
         "a": "How long does it take to reach Da Lat?",
         "b": "It's about an hour by train.",
-        "avi": "Nó tới Ðà Lạt phải mất bao lâu?",
+        "avi": "Nó tới Đà Lạt phải mất bao lâu?",
         "bvi": "Mất khoảng một giờ đi tàu."
       },
       {
@@ -2727,7 +2727,7 @@
         "a": "But I just flew in this morning.",
         "b": "How do you like travelling by air?",
         "avi": "Nhưng tôi vừa mới bay đi máy bay vào sáng nay.",
-        "bvi": "Ði máy bay bạn thấy thế nào?"
+        "bvi": "Đi máy bay bạn thấy thế nào?"
       },
       {
         "a": "We take the overnight train to the Russia border.",
@@ -2744,7 +2744,7 @@
       {
         "a": "He flew by Air India.",
         "b": "How many passengers does this plane take?",
-        "avi": "Anh ấy đã đi bằng máy bay của hãng Hàng không Ấn Ðộ.",
+        "avi": "Anh ấy đã đi bằng máy bay của hãng Hàng không Ấn Độ.",
         "bvi": "Máy bay này chở bao nhiêu hành khách?"
       }
     ]
@@ -2774,7 +2774,7 @@
       {
         "a": "Be at the airport as soon as you can.",
         "b": "When do we take off?",
-        "avi": "Ðến phi trường thật nhanh như anh có thể.",
+        "avi": "Đến phi trường thật nhanh như anh có thể.",
         "bvi": "Khi nào chúng ta cất cánh?"
       }
     ]
@@ -2889,7 +2889,7 @@
         "a": "The captain set a course for New York.",
         "b": "Is this the quickest route to New York?",
         "avi": "Thuyền trưởng hướng về phía New York.",
-        "bvi": "Ðây có phải lộ trình nhanh nhất đi New York?"
+        "bvi": "Đây có phải lộ trình nhanh nhất đi New York?"
       },
       {
         "a": "I suppose it is time to say bon voyage.",
@@ -2996,26 +2996,26 @@
       {
         "a": "Have a good night. Go to sleep.",
         "b": "Show me my berth, please.",
-        "avi": "Ngủ ngon. Ði ngủ đi.",
+        "avi": "Ngủ ngon. Đi ngủ đi.",
         "bvi": "Làm ơn chỉ giùm giường cho tôi?"
       },
       {
         "a": "Don't fail to let me know.",
         "b": "Can I send a message by wireless?",
-        "avi": "Ðừng quên nhắn tin cho tôi.",
+        "avi": "Đừng quên nhắn tin cho tôi.",
         "bvi": "Tôi có thể nhắn tin qua sóng mạng không?"
       },
       {
         "a": "What time would be most convenient?",
         "b": "It's dinner time.",
         "avi": "Vào giờ nào sẽ thuận lợi nhất?",
-        "bvi": "Ðó là giờ ăn tối."
+        "bvi": "Đó là giờ ăn tối."
       },
       {
         "a": "Come into the dinning room.",
         "b": "Which is the way to the dining room?",
         "avi": "Xin mời vào phòng ăn.",
-        "bvi": "Ðâu là lối đi tới phòng ăn?"
+        "bvi": "Đâu là lối đi tới phòng ăn?"
       }
     ]
   },
@@ -3026,7 +3026,7 @@
       {
         "a": "Put this on your desk.",
         "b": "Which is my table?",
-        "avi": "Ðặt nó lên bàn của bạn.",
+        "avi": "Đặt nó lên bàn của bạn.",
         "bvi": "Bàn của tôi đâu?"
       },
       {
@@ -3243,7 +3243,7 @@
         "a": "Fare, please.",
         "b": "What is the fare to Thu Duc?",
         "avi": "Xin cho tiền xe.",
-        "bvi": "Tiền xe đi Thủ Ðức là bao nhiêu?"
+        "bvi": "Tiền xe đi Thủ Đức là bao nhiêu?"
       },
       {
         "a": "You do have a return ticket don't you?",
@@ -3279,7 +3279,7 @@
         "a": "Ten minutes' walk brought us to the bus stop.",
         "b": "How many more stops to Thu Duc?",
         "avi": "Mười phút đi bộ các bạn sẽ tới trạm xe buýt.",
-        "bvi": "Còn bao nhiêu trạm nữa mới tới Thủ Ðức?"
+        "bvi": "Còn bao nhiêu trạm nữa mới tới Thủ Đức?"
       },
       {
         "a": "The booth is by the bus stop.",
@@ -3308,7 +3308,7 @@
       {
         "a": "Get ready to put her in the water!",
         "b": "Please don't stand on the motorman's platform.",
-        "avi": "Ðã sẵn sàng để khởi hành rồi.",
+        "avi": "Đã sẵn sàng để khởi hành rồi.",
         "bvi": "Xin đừng đứng chỗ bục tài xế."
       },
       {
@@ -3332,7 +3332,7 @@
       {
         "a": "Is this where I catch the bus for the zoo?",
         "b": "The bus doesn't go near enough.",
-        "avi": "Ðây có phải là nơi tôi đón xe buýt đi đến sở thú không?",
+        "avi": "Đây có phải là nơi tôi đón xe buýt đi đến sở thú không?",
         "bvi": "Xe buýt không đi tới gần đó."
       },
       {
@@ -3387,7 +3387,7 @@
         "a": "We going to go somewhere.",
         "b": "Is it a long ride to Long An?",
         "avi": "Chúng ta cần đi đâu đó.",
-        "bvi": "Ði Long An có xa không?"
+        "bvi": "Đi Long An có xa không?"
       },
       {
         "a": "Where does he drive?",
@@ -3447,25 +3447,25 @@
         "a": "I'll be right on the other side of this door.",
         "b": "Wait here, I'll soon be back.",
         "avi": "Tôi sẽ đứng đợi ngoài cảnh cửa này.",
-        "bvi": "Ðợi đây, tôi sẽ sớm trở lại ngay."
+        "bvi": "Đợi đây, tôi sẽ sớm trở lại ngay."
       },
       {
         "a": "Wait here, I'll soon be back.",
         "b": "I'm not allowed to wait here.",
-        "avi": "Ðợi đây, tôi sẽ sớm trở lại ngay.",
+        "avi": "Đợi đây, tôi sẽ sớm trở lại ngay.",
         "bvi": "Tôi không được phép đợi ở đây."
       },
       {
         "a": "So, why do stock prices change?",
         "b": "Here is the price we agreed on.",
         "avi": "Vậy tại sao giá cổ phiếu thay đổi?",
-        "bvi": "Ðây là giá chúng ta đã thỏa thuận."
+        "bvi": "Đây là giá chúng ta đã thỏa thuận."
       },
       {
         "a": "Here is the price we agreed on.",
         "b": "This is not the price agreed on.",
-        "avi": "Ðây là giá chúng ta đã thỏa thuận.",
-        "bvi": "Ðây không phải là giá đã thỏa thuận."
+        "avi": "Đây là giá chúng ta đã thỏa thuận.",
+        "bvi": "Đây không phải là giá đã thỏa thuận."
       }
     ]
   },
@@ -3518,7 +3518,7 @@
       {
         "a": "get on to the rail roads.",
         "b": "What time does the coach start?",
-        "avi": "Ðưa họ lên xe lửa.",
+        "avi": "Đưa họ lên xe lửa.",
         "bvi": "Khi nào xe chuyển bánh?"
       },
       {
@@ -3603,12 +3603,12 @@
         "a": "There's a good path.",
         "b": "It's the nearest way.",
         "avi": "Có đường tốt.",
-        "bvi": "Ðó là đường gần nhất."
+        "bvi": "Đó là đường gần nhất."
       },
       {
         "a": "It's the nearest way.",
         "b": "What time shall we get there?",
-        "avi": "Ðó là đường gần nhất.",
+        "avi": "Đó là đường gần nhất.",
         "bvi": "Mấy giờ chúng ta sẽ tới đó?"
       },
       {
@@ -3669,13 +3669,13 @@
         "a": "I propose we take this short cut.",
         "b": "Where does this road lead to?",
         "avi": "Tôi đề nghị chúng ta đi đường tắt này.",
-        "bvi": "Ðường này dẫn tới đâu?"
+        "bvi": "Đường này dẫn tới đâu?"
       },
       {
         "a": "I know a hop, skip and jump to get there.",
         "b": "Is it the shortest way?",
         "avi": "Tớ có biết một con đường ngắn nhất để đến đó.",
-        "bvi": "Ðây có phải đường ngắn nhất?"
+        "bvi": "Đây có phải đường ngắn nhất?"
       }
     ]
   },
@@ -3729,13 +3729,13 @@
         "a": "I will come in time.",
         "b": "Don't be late.",
         "avi": "Tôi sẽ đến đúng giờ.",
-        "bvi": "Ðừng để trễ."
+        "bvi": "Đừng để trễ."
       },
       {
         "a": "I want a new stereo.",
         "b": "Is this a modern piece?",
         "avi": "Anh muốn có cái máy nghe nhạc mới.",
-        "bvi": "Ðây có phải là một sản phẩm hiện đại không?"
+        "bvi": "Đây có phải là một sản phẩm hiện đại không?"
       }
     ]
   },
@@ -3945,7 +3945,7 @@
         "a": "Five thousand dong, madam.",
         "b": "Okay, take me there.",
         "avi": "Thưa bà năm ngàn đồng ạ.",
-        "bvi": "Ðược rồi, chở tôi tới đó."
+        "bvi": "Được rồi, chở tôi tới đó."
       }
     ]
   },
@@ -3969,13 +3969,13 @@
         "a": "Art work being sold at a street market.",
         "b": "Which way?",
         "avi": "Tranh đang bán ở chợ ngoài phố.",
-        "bvi": "Ði đường nào?"
+        "bvi": "Đi đường nào?"
       },
       {
         "a": "Which way?",
         "b": "The way on the right.",
-        "avi": "Ði đường nào?",
-        "bvi": "Ðường bên tay phải."
+        "avi": "Đi đường nào?",
+        "bvi": "Đường bên tay phải."
       }
     ]
   },
@@ -4005,7 +4005,7 @@
         "a": "Is there somewhere to wash clothes?",
         "b": "Go ahead, turn on the right.",
         "avi": "Có chỗ nào để giặt áo quần không?",
-        "bvi": "Ði thẳng tới trước, rẽ qua tay mặt."
+        "bvi": "Đi thẳng tới trước, rẽ qua tay mặt."
       }
     ]
   },
@@ -4076,7 +4076,7 @@
       {
         "a": "Which is the way to Binh Thanh?",
         "b": "Go straight!",
-        "avi": "Ðâu là đường đi Bình Thạnh?",
+        "avi": "Đâu là đường đi Bình Thạnh?",
         "bvi": "Hãy đi thẳng!"
       },
       {
@@ -4179,7 +4179,7 @@
         "a": "I'm going to the zoo.",
         "b": "What's the way to the zoo?",
         "avi": "Tôi đi tới sở thú.",
-        "bvi": "Ðường nào đi tới sở thú?"
+        "bvi": "Đường nào đi tới sở thú?"
       },
       {
         "a": "We are meeting at the zoo at ten.",
@@ -4214,7 +4214,7 @@
       {
         "a": "Gia Dinh is one of my favorite parks.",
         "b": "I have been there so many times.",
-        "avi": "Gia Ðịnh là một trong những công viên yêu thích của tôi.",
+        "avi": "Gia Định là một trong những công viên yêu thích của tôi.",
         "bvi": "Tôi đã đến đó nhiều lần."
       }
     ]
@@ -4232,13 +4232,13 @@
       {
         "a": "Go down to the train station.",
         "b": "Does the London train start form this platform?",
-        "avi": "Ði tới nhà ga xe lửa.",
-        "bvi": "Có phải xe lửa đi Luân Ðôn khởi hành từ sân ga này không?"
+        "avi": "Đi tới nhà ga xe lửa.",
+        "bvi": "Có phải xe lửa đi Luân Đôn khởi hành từ sân ga này không?"
       },
       {
         "a": "Don't go by car, take the train instead.",
         "b": "How long is it till the train starts?",
-        "avi": "Ðừng đi xe hơi, nên đi xe lửa thì hơn.",
+        "avi": "Đừng đi xe hơi, nên đi xe lửa thì hơn.",
         "bvi": "Còn bao lâu nữa thì xe lửa khởi hành?"
       },
       {
@@ -4257,7 +4257,7 @@
         "a": "You can move to the seat over ther.",
         "b": "Here is the number of my seat.",
         "avi": "Bạn có thể chuyển sang chỗ ngồi đằng kia.",
-        "bvi": "Ðây là số ghế của tôi."
+        "bvi": "Đây là số ghế của tôi."
       },
       {
         "a": "Show me the seating plan.",
@@ -4293,7 +4293,7 @@
         "a": "Put this suitcase in this rack, please.",
         "b": "Wait!",
         "avi": "Làm ơn để va li này lên giá.",
-        "bvi": "Ðợi chút!"
+        "bvi": "Đợi chút!"
       },
       {
         "a": "Sir, why are you so upset?",
@@ -4329,7 +4329,7 @@
         "a": "Who do you think this is?",
         "b": "Here is the ticket collector.",
         "avi": "Theo anh thì đây là ai?",
-        "bvi": "Ðây là người soát vé."
+        "bvi": "Đây là người soát vé."
       },
       {
         "a": "Get the freaking ticket!",
@@ -4347,7 +4347,7 @@
         "a": "Did you take the tickets out the jacket?",
         "b": "Here is my ticket and my wife's.",
         "avi": "Bạn có lấy vé ra khỏi túi áo không?",
-        "bvi": "Ðây là vé của tôi và của vợ tôi."
+        "bvi": "Đây là vé của tôi và của vợ tôi."
       },
       {
         "a": "I'm at your service now.",
@@ -4419,7 +4419,7 @@
         "a": "Did you check all your pockets?",
         "b": "That's the lot.",
         "avi": "Bạn đã kiểm tra mọi túi áo chưa?",
-        "bvi": "Ðủ cả đấy."
+        "bvi": "Đủ cả đấy."
       },
       {
         "a": "It's windy out here.",
@@ -4473,7 +4473,7 @@
         "a": "Follow this road.",
         "b": "Was that street closed to traffic?",
         "avi": "Hãy đi dọc theo đường này.",
-        "bvi": "Ðường này có cấm lưu thông không?"
+        "bvi": "Đường này có cấm lưu thông không?"
       },
       {
         "a": "I'm afraid I didn't have time to get one.",
@@ -4532,7 +4532,7 @@
       {
         "a": "Come, let's do some paperwork.",
         "b": "How long is it till we start?",
-        "avi": "Ði nào, làm nốt thủ tục giấy tờ.",
+        "avi": "Đi nào, làm nốt thủ tục giấy tờ.",
         "bvi": "Còn bao lâu nữa đến giờ chúng ta khởi hành?"
       },
       {
@@ -4622,19 +4622,19 @@
       {
         "a": "She commutes from Oxford to London every day.",
         "b": "Which is the shortest way to London?",
-        "avi": "Cô ấy đi lại hàng ngày từ oxford đến Luân Ðôn.",
-        "bvi": "Ðường nào ngắn nhất đến Luân đôn?"
+        "avi": "Cô ấy đi lại hàng ngày từ oxford đến Luân Đôn.",
+        "bvi": "Đường nào ngắn nhất đến Luân đôn?"
       },
       {
         "a": "You're on the wrong road for Oxford.",
         "b": "Which way do you go to Oxford?",
         "avi": "Bạn lầm đường đi Oxford rồi.",
-        "bvi": "Ði đường nào đến Oxford?"
+        "bvi": "Đi đường nào đến Oxford?"
       },
       {
         "a": "This street leads to the Rex cinema.",
         "b": "Is this right for the book shop?",
-        "avi": "Ðường này đi đến rạp chiếu bóng Rex.",
+        "avi": "Đường này đi đến rạp chiếu bóng Rex.",
         "bvi": "Có phải đi đường này đến cửa hàng sách không?"
       }
     ]
@@ -4653,7 +4653,7 @@
         "a": "Anyway, the motorway is very good.",
         "b": "It is a major road?",
         "avi": "Dù gì thì đường xa lộ rất tốt.",
-        "bvi": "Ðường ấy có phải là một trục giao thông lớn?"
+        "bvi": "Đường ấy có phải là một trục giao thông lớn?"
       },
       {
         "a": "No other city can match Liverpool.",
@@ -4664,8 +4664,8 @@
       {
         "a": "This road lead to Saigon.",
         "b": "Is the road good?",
-        "avi": "Ðường này dẫn đến Sài Gòn.",
-        "bvi": "Ðường đó tốt không?"
+        "avi": "Đường này dẫn đến Sài Gòn.",
+        "bvi": "Đường đó tốt không?"
       }
     ]
   },
@@ -4677,7 +4677,7 @@
         "a": "Try not to get lost on the way.",
         "b": "What is the road like?",
         "avi": "Cố gắng đừng có lạc đường nhé.",
-        "bvi": "Ðường này thế nào?"
+        "bvi": "Đường này thế nào?"
       },
       {
         "a": "The roads narrows into just a path.",
@@ -4712,13 +4712,13 @@
       {
         "a": "It is a map, to the magic waterhole.",
         "b": "Do you thing I can get along?",
-        "avi": "Ðây là bản đồ tới hồ nước.",
+        "avi": "Đây là bản đồ tới hồ nước.",
         "bvi": "Bạn nghĩ rằng tôi có thể đi đến đó không?"
       },
       {
         "a": "It's a difficult career path.",
         "b": "Is there any danger of my getting lost?",
-        "avi": "Ðó là một con đường khó khăn đấy.",
+        "avi": "Đó là một con đường khó khăn đấy.",
         "bvi": "Tôi có thể bị lạc đường không?"
       },
       {
@@ -4748,7 +4748,7 @@
       {
         "a": "The Thames River flows through London.",
         "b": "Can I go along the embankment?",
-        "avi": "Sông Thames chảy qua Luân Ðôn.",
+        "avi": "Sông Thames chảy qua Luân Đôn.",
         "bvi": "Tôi có thể đi theo đường dọc bờ sông không?"
       },
       {
@@ -4766,7 +4766,7 @@
       {
         "a": "That's one of the best trains.",
         "b": "Do you have to change often?",
-        "avi": "Ðó là một trong những chuyến xe lửa tốt nhất.",
+        "avi": "Đó là một trong những chuyến xe lửa tốt nhất.",
         "bvi": "Có phải chuyến xe thường không?"
       },
       {
@@ -4802,20 +4802,20 @@
       {
         "a": "A wet road is usually slippery.",
         "b": "Does it run often?",
-        "avi": "Ðường ướt thường trơn trượt.",
+        "avi": "Đường ướt thường trơn trượt.",
         "bvi": "Xe có thường chạy qua đây không?"
       },
       {
         "a": "It's more convenient for the train.",
         "b": "Where do you take the bus?",
-        "avi": "Ðón xe lửa thì tiện hơn.",
+        "avi": "Đón xe lửa thì tiện hơn.",
         "bvi": "Ta đón xe buýt ở đâu?"
       },
       {
         "a": "Take the elevator, madam.",
         "b": "Which way is the lift?",
         "avi": "Bà nên đi thang máy.",
-        "bvi": "Ðường nào dẫn đến thang máy?"
+        "bvi": "Đường nào dẫn đến thang máy?"
       }
     ]
   },
@@ -4826,19 +4826,19 @@
       {
         "a": "Could we take the stairs?",
         "b": "Which way are the stairs?",
-        "avi": "Ði bằng cầu thang được không?",
-        "bvi": "Ðường nào dẫn đến cầu thang?"
+        "avi": "Đi bằng cầu thang được không?",
+        "bvi": "Đường nào dẫn đến cầu thang?"
       },
       {
         "a": "I'll follow you wherever you go.",
         "b": "I should like to visit London.",
         "avi": "Tôi sẽ theo anh đến bất cứ nơi nào anh đi.",
-        "bvi": "Tôi muốn đi thăm Luân Ðôn."
+        "bvi": "Tôi muốn đi thăm Luân Đôn."
       },
       {
         "a": "I should like to visit London.",
         "b": "Which is the best way to go there?",
-        "avi": "Tôi muốn đi thăm Luân Ðôn.",
+        "avi": "Tôi muốn đi thăm Luân Đôn.",
         "bvi": "Phương tiện gì tốt nhất để đến đó?"
       },
       {
@@ -4874,7 +4874,7 @@
       {
         "a": "What about taking a coach?",
         "b": "Are the coaches as comfortable as the railway?",
-        "avi": "Ðón xe khách nhé?",
+        "avi": "Đón xe khách nhé?",
         "bvi": "Xe khách có tiện nghi bằng xe lửa không?"
       }
     ]
@@ -4953,7 +4953,7 @@
         "a": "Where are they standing?",
         "b": "The boulevard.",
         "avi": "Họ đang đứng ở đâu?",
-        "bvi": "Ðại lộ."
+        "bvi": "Đại lộ."
       },
       {
         "a": "You want us to tell you which one?",
@@ -5024,8 +5024,8 @@
       {
         "a": "It's time for dinner.",
         "b": "Which is the way to the dining room?",
-        "avi": "Ðến giờ ăn tối rồi.",
-        "bvi": "Ðâu là lối đi tới phòng ăn?"
+        "avi": "Đến giờ ăn tối rồi.",
+        "bvi": "Đâu là lối đi tới phòng ăn?"
       }
     ]
   },
@@ -5073,13 +5073,13 @@
         "a": "Have you seen much of the country yet?",
         "b": "What is the way to the Museum?",
         "avi": "Ông đã tham quan nhiều nơi ở xứ sở này chưa?",
-        "bvi": "Ðường nào đi tới viện bảo tàng?"
+        "bvi": "Đường nào đi tới viện bảo tàng?"
       },
       {
         "a": "It's down this street on the left.",
         "b": "What is his street?",
         "avi": "Nó ở ngay con đường này, bên trái.",
-        "bvi": "Ðường này là đường gì?"
+        "bvi": "Đường này là đường gì?"
       },
       {
         "a": "It's next to the theater.",
@@ -5216,7 +5216,7 @@
       {
         "a": "How far away is the airport?",
         "b": "About two kilometres, sir.",
-        "avi": "Ðến sân bay xa bao nhiêu?",
+        "avi": "Đến sân bay xa bao nhiêu?",
         "bvi": "Thưa ông, chừng hai cây số."
       },
       {
@@ -5259,7 +5259,7 @@
         "a": "Could you drop me at the airport?",
         "b": "Are we nearly there yet?",
         "avi": "Bạn cho tôi xuống ở sân bay được không?",
-        "bvi": "Ðã gần tới chưa?"
+        "bvi": "Đã gần tới chưa?"
       },
       {"a": "Late for what?", "b": "Drive faster!", "avi": "Trễ gì cơ?", "bvi": "Chạy mau lên!"}
     ]
@@ -5338,7 +5338,7 @@
         "a": "Which way should I take to the Rex cinema?",
         "b": "This street leads to the Rex cinema.",
         "avi": "Tôi nên đi đường nào tới rạp chiếu bóng Rex?",
-        "bvi": "Ðường này đi đến rạp chiếu bóng Rex."
+        "bvi": "Đường này đi đến rạp chiếu bóng Rex."
       },
       {
         "a": "It's a boutique on Park Avenue, right?",
@@ -5374,7 +5374,7 @@
         "a": "What kind of remittance?",
         "b": "Here's a tip for you.",
         "avi": "Loại tiền gì vậy?",
-        "bvi": "Ðây là tiền nước biếu bạn."
+        "bvi": "Đây là tiền nước biếu bạn."
       },
       {
         "a": "Why don't you go to the supermarket?",
@@ -5410,7 +5410,7 @@
         "a": "You can stop wherever you like.",
         "b": "Where am I?",
         "avi": "Bạn có thể dừng lại bất cứ nơi nào bạn muốn.",
-        "bvi": "Ðây là nơi nào?"
+        "bvi": "Đây là nơi nào?"
       }
     ]
   },
@@ -5451,7 +5451,7 @@
       {
         "a": "Come away with you?",
         "b": "Please show me the way.",
-        "avi": "Ði cùng anh ư?",
+        "avi": "Đi cùng anh ư?",
         "bvi": "Làm ơn chỉ đường giùm tôi."
       },
       {
@@ -5488,7 +5488,7 @@
         "a": "We took the path to his house.",
         "b": "Is it this street, right here?",
         "avi": "Chúng tôi men theo con đường xuống dốc dẫn về nhà ông.",
-        "bvi": "Ðúng là con đường kia không?"
+        "bvi": "Đúng là con đường kia không?"
       },
       {
         "a": "Let's turn in there.",
@@ -5523,8 +5523,8 @@
       {
         "a": "Go straight on along this street.",
         "b": "What is this street?",
-        "avi": "Ði thẳng dọc theo đường này.",
-        "bvi": "Ðường này gọi là đường gì?"
+        "avi": "Đi thẳng dọc theo đường này.",
+        "bvi": "Đường này gọi là đường gì?"
       },
       {
         "a": "I'll draw a plan for you.",
@@ -5632,7 +5632,7 @@
         "a": "What is the issue here?",
         "b": "This is a private conversation!",
         "avi": "Vấn đề ở đây là gì?",
-        "bvi": "Ðây là cuộc nói chuyện riêng tư."
+        "bvi": "Đây là cuộc nói chuyện riêng tư."
       },
       {
         "a": "What did you get?",
@@ -5709,8 +5709,8 @@
       {
         "a": "Can you take me to this address?",
         "b": "All right, as soon as possible.",
-        "avi": "Ðưa tôi đến địa chỉ này được không?",
-        "bvi": "Ðược, càng sớm càng tốt."
+        "avi": "Đưa tôi đến địa chỉ này được không?",
+        "bvi": "Được, càng sớm càng tốt."
       }
     ]
   },
@@ -5793,7 +5793,7 @@
       {
         "a": "Don't park there, you'll probably get jammed in.",
         "b": "Can I park here?",
-        "avi": "Ðừng đỗ xe ở đó, anh sẽ bị kẹt đấy.",
+        "avi": "Đừng đỗ xe ở đó, anh sẽ bị kẹt đấy.",
         "bvi": "Tôi có thể đỗ xe ở đây không?"
       },
       {

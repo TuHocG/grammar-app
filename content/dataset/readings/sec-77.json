@@ -62,7 +62,7 @@
       ["Cách trung tâm thành phố khoảng 40 phút đi xe."],
       ["Shannon, nhìn kìa!", "Anh nhìn thấy một cậu bé đang cưỡi trâu."],
       ["Chà!", "Thú vị thật.", "Kia là những cánh đồng lúa phải không chị Hoa?"],
-      ["Ðúng vậy, còn đằng kia là cây ngô.", "ở bên trái, các bạn có thể nhìn thấy những cây mía."],
+      ["Đúng vậy, còn đằng kia là cây ngô.", "ở bên trái, các bạn có thể nhìn thấy những cây mía."],
       ["Tôi chụp một tấm ảnh không phiền chứ?"],
       ["Không sao đâu.", "Tôi sẽ yêu cầu tài xế dừng xe."]
     ],
@@ -91,11 +91,11 @@
     "vi": [
       ["Hãy thực hành bài hội thoại theo nhóm."],
       [
-        "Ðúng hay sai?",
+        "Đúng hay sai?",
         "Hãy đánh dấu (X ) vào các ô.",
         "Sau đó sửa lại các câu sai rồi viết vào vở bài tập của bạn."
       ],
-      ["Ðây là lần đầu tiên Hoa gặp gia đình của Tim.(T)"],
+      ["Đây là lần đầu tiên Hoa gặp gia đình của Tim.(T)"],
       ["Hoa giúp bà Jones mang hành lý.(T)"],
       ["Gia đình Jones đang rời sân bay trên xe buýt.(F)"],
       ["Gia đình Jones đang rời sân bay trên taxi."],
@@ -185,7 +185,7 @@
       ["Tôi hỏi anh một câu anh không phiền chứ?"],
       ["Tôi muốn đi tham quan chợ.", "Anh có thể gợi ý một nơi được không?"],
       ["Xin vui lòng gợi ý một nơi?"],
-      ["Ðiều đó nghe thật thú vị."],
+      ["Điều đó nghe thật thú vị."],
       ["Không. Tôi không muốn đến đó."]
     ],
     "img": "img/readings/1.8.100b.webp",
@@ -224,7 +224,7 @@
       ],
       ["Những thành ngữ hữu dụng:"],
       ["Tôi gợi ý một nơi anh không phiền chứ?"],
-      ["Ði chợ Thái Bình nhé?"],
+      ["Đi chợ Thái Bình nhé?"],
       ["Tôi nghĩ nên đi chợ Bến Thành."],
       ["Ví dụ:"],
       ["Xin lỗi.", "Tôi hỏi một câu không làm phiền chị chứ?"],
@@ -232,9 +232,9 @@
       ["Tôi muốn đi tham quan chợ.", "Chị có thể gợi ý một nơi được không ạ?"],
       [
         "Vâng. Tôi nghĩ nên đi chợ Bến Thành.",
-        "Ðó là một trong những chợ lớn nhất thành phố và có nhiều hàng hóa để lựa chọn."
+        "Đó là một trong những chợ lớn nhất thành phố và có nhiều hàng hóa để lựa chọn."
       ],
-      ["Ðược. Tôi sẽ đi chợ Bến Thành.", "Cám ơn nhiều."]
+      ["Được. Tôi sẽ đi chợ Bến Thành.", "Cám ơn nhiều."]
     ],
     "img": "img/readings/1.8.101a.webp",
     "page": "101"
@@ -280,9 +280,9 @@
     "vi": [
       ["Hãy ghép những địa điểm trong khung vào vị trí thích hợp trên bản đồ."],
       ["Mẹ ơi con mệt quá."],
-      ["Ðược rồi.", "Con trở về khách sạn và chúng ta sẽ viếng chùa."],
+      ["Được rồi.", "Con trở về khách sạn và chúng ta sẽ viếng chùa."],
       ["Vâng, nhưng về khách sạn bằng cách nào?"],
-      ["Ðể mẹ xem bản đồ.", "à đúng rồi.", "Nó ở đường Phong Lan, qua khỏi xa lộ."],
+      ["Để mẹ xem bản đồ.", "à đúng rồi.", "Nó ở đường Phong Lan, qua khỏi xa lộ."],
       ["Con nhớ rồi", "Gặp mẹ sau nhé."],
       ["Tạm biệt"],
       ["Con đói quá mẹ ơi."],
@@ -296,7 +296,7 @@
         "Anh có thể đăng ký vé xe buýt đi thành phố Hồ Chí Minh ngày mai không?",
         "Trạm xe buýt nằm ngay chỗ đối diện với trung tâm thông tin du lịch."
       ],
-      ["Ðược rồi."],
+      ["Được rồi."],
       ["Em sẽ chờ anh trở lại khách sạn."],
       ["Mẹ đến chùa bằng cách nào?"],
       [
@@ -368,11 +368,11 @@
       ["Những hòn đảo ngoài khơi"],
       ["Chỗ ở:"],
       ["có ít khách sạn để lựa chọn"],
-      ["Ðến/ đi:"],
+      ["Đến/ đi:"],
       ["các chuyến bay đi thành phố Hồ Chí Minh hằng ngày trừ thứ Hai"],
       ["các chuyến bay đi Hà Nội mỗi tuần hai chuyến"],
       ["xe buýt và xe lửa đi các nơi từ Bắc vô Nam"],
-      ["Ðà Lạt"],
+      ["Đà Lạt"],
       ["được mệnh danh thành phố Mãi Xuân"],
       ["Thắng cảnh"],
       ["các thác nước, hồ"],
@@ -380,7 +380,7 @@
       ["vườn hoa"],
       ["Chỗ ở"],
       ["nhiều khách sạn, nhưng khó tìm được chỗ trọ vào những lúc cao điểm"],
-      ["Ðến/ đi:"],
+      ["Đến/ đi:"],
       ["các chuyến bay đi và đến từ thành phố Hồ Chí Minh mỗi tuần ba chuyến"],
       ["xe buýt lớn và nhỏ đi Nha Trang và thành phố Hồ Chí Minh"],
       ["Sapa"],
@@ -391,7 +391,7 @@
       ["những dòng suối trong rừng"],
       ["Chỗ ở"],
       ["một vài khách sạn và nhà khách"],
-      ["Ðến/ đi:"],
+      ["Đến/ đi:"],
       ["xe buýt đi thị trấn Lào Cai hằng ngày"],
       ["xe lửa từ Lào Cai đi Hà Nội hằng ngày"],
       ["Vịnh Hạ Long"],
@@ -403,7 +403,7 @@
       ["Chỗ ở"],
       ["khách sạn lớn và nhỏ ở thành phố Hạ Long và trên nhiều hòn đảo khác nhau"],
       ["nhà khách giá rẻ ở thành phố Hạ Long"],
-      ["Ðến/ đi:"],
+      ["Đến/ đi:"],
       ["xe buýt và xe lửa đi và đến từ Hải Phòng và Hà Nội hằng ngày"]
     ],
     "img": "img/readings/1.8.102b.webp",
@@ -445,7 +445,7 @@
       [
         "Mùa hè năm nay những người này muốn đi nghỉ ở Việt Nam.",
         "Hãy giúp họ tìm một nơi thích hợp.",
-        "Ðánh dấu (V) vào khung."
+        "Đánh dấu (V) vào khung."
       ],
       ["Andrew nghiên cứu về các bộ tộc trên khắp thế giới.", "Anh ấy thích leo núi."],
       [
@@ -542,7 +542,7 @@
         "Uyên cố gắng chạy hết sức.",
         "Bỗng cô vấp phải viên đá và ngã xuống.",
         "Cặp táp rơi vào vũng nước và mọi thứ bị ướt.",
-        "Ðiều lạ là mưa tạnh ngay khi cô đến lớp.",
+        "Điều lạ là mưa tạnh ngay khi cô đến lớp.",
         "May thay, Uyên đã có đủ thời gian để hoàn thành bài thi."
       ]
     ],
@@ -676,7 +676,7 @@
       [
         "Làm việc với một bạn.",
         "Hãy Nhìn vào tranh.",
-        "Ðặt câu hỏi và cho lời đáp thích hợp.",
+        "Đặt câu hỏi và cho lời đáp thích hợp.",
         "Thông tin ở trang 100 có thể giúp bạn."
       ],
       ["Bạn có phiền nếu tôi ngồi xuống không?"],

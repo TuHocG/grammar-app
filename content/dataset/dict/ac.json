@@ -576,7 +576,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) Trang phục đại học (của giáo sư và sinh viên đại học ở Anh) academic freedom Ðại học tự trị. academically [-kli] (pht)."
+        "t": "(dt) Trang phục đại học (của giáo sư và sinh viên đại học ở Anh) academic freedom Đại học tự trị. academically [-kli] (pht)."
       }
     ],
     "k": "academic 'dress"
@@ -690,7 +690,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hội các nhà khoa học Pháp, già dặn và có uy tín nhất thế giới. Hội này được thành lập vào năm 1666 bởi Lean-Baptiste Colbert. Bốn năm sau, nó trở thành trung tâm nghiên cứu của các nhà khoa học, bao gồm René Descartes, Christiaan Huygens và Pascal. Thực ra ban đầu hiệp hội do Louis XIV (1638-1715) sáng lập nhằm duy trì và phát triển lịch sử, văn học và khoa học. Sau đó vào năm 1699 hiệp hội được tái thiết và trở thành viện nghiên cứu. Ðến thế kỷ 18, nó trở thành lực lượng khoa học nòng cốt của Châu Âu. Các thành viên trong hiệp hội đều được hưởng nhiều quyền lợi và sự chu cấp tài chính nhằm phục vụ cho các công trình nghiên cứu của họ."
+        "t": "Hội các nhà khoa học Pháp, già dặn và có uy tín nhất thế giới. Hội này được thành lập vào năm 1666 bởi Lean-Baptiste Colbert. Bốn năm sau, nó trở thành trung tâm nghiên cứu của các nhà khoa học, bao gồm René Descartes, Christiaan Huygens và Pascal. Thực ra ban đầu hiệp hội do Louis XIV (1638-1715) sáng lập nhằm duy trì và phát triển lịch sử, văn học và khoa học. Sau đó vào năm 1699 hiệp hội được tái thiết và trở thành viện nghiên cứu. Đến thế kỷ 18, nó trở thành lực lượng khoa học nòng cốt của Châu Âu. Các thành viên trong hiệp hội đều được hưởng nhiều quyền lợi và sự chu cấp tài chính nhằm phục vụ cho các công trình nghiên cứu của họ."
       }
     ],
     "k": "academie des sciences"
@@ -821,7 +821,7 @@
   {"h": "acantheceous", "segs": [{"k": "m", "t": "Có gai."}], "k": "acantheceous"},
   {"h": "acanthesthesia", "segs": [{"k": "m", "t": "Dị cảm gai đâm."}], "k": "acanthesthesia"},
   {"h": "acanthi", "segs": [{"k": "ref", "t": "acanthus"}], "redirect": "acanthus", "k": "acanthi"},
-  {"h": "acanthion", "segs": [{"k": "m", "t": "Ðiểm nhọn gai mũi trước."}], "k": "acanthion"},
+  {"h": "acanthion", "segs": [{"k": "m", "t": "Điểm nhọn gai mũi trước."}], "k": "acanthion"},
   {"h": "acanthite", "segs": [{"k": "m", "t": "acanthít."}], "k": "acanthite"},
   {
     "h": "acantho-",
@@ -1327,7 +1327,7 @@
       {
         "k": "ex",
         "t": "to accede to the chancellorship",
-        "vi": "nhậm chức quốc vụ khanh ở Ðức (hiệu trưởng danh dự trường đại học, bí thư thứ nhất đại sứ quán...)"
+        "vi": "nhậm chức quốc vụ khanh ở Đức (hiệu trưởng danh dự trường đại học, bí thư thứ nhất đại sứ quán...)"
       },
       {"k": "m", "t": "gia nhập, tham gia"},
       {"k": "ex", "t": "to accede to a party", "vi": "gia nhập một đảng phái"},
@@ -3146,7 +3146,7 @@
   {"h": "accepted lot", "segs": [{"k": "m", "t": "lô nhận được."}], "k": "accepted lot"},
   {
     "h": "Accepted of God",
-    "segs": [{"k": "m", "t": "Ðược Thiên Chúa đoái nhận."}],
+    "segs": [{"k": "m", "t": "Được Thiên Chúa đoái nhận."}],
     "k": "accepted of god"
   },
   {
@@ -4450,7 +4450,7 @@
   {"h": "accessory material", "segs": [{"k": "m", "t": "vật liệu phụ."}], "k": "accessory material"},
   {
     "h": "accessory meningeal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch màng não giữa nhánh phụ."}],
+    "segs": [{"k": "m", "t": "Động mạch màng não giữa nhánh phụ."}],
     "k": "accessory meningeal artery"
   },
   {
@@ -4483,7 +4483,7 @@
   },
   {
     "h": "accessory oburator artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch bịt phụ."}],
+    "segs": [{"k": "m", "t": "Động mạch bịt phụ."}],
     "k": "accessory oburator artery"
   },
   {
@@ -5419,7 +5419,7 @@
     "segs": [{"k": "m", "t": "ý nghĩa thích ứng."}],
     "k": "accommodated sense"
   },
-  {"h": "accommodatiive", "segs": [{"k": "m", "t": "Ðiều tiết."}], "k": "accommodatiive"},
+  {"h": "accommodatiive", "segs": [{"k": "m", "t": "Điều tiết."}], "k": "accommodatiive"},
   {
     "h": "accommodating",
     "segs": [
@@ -5812,7 +5812,7 @@
     "segs": [{"k": "m", "t": "(kỹ thuật) thích ứng, thích nghi."}],
     "k": "accommode"
   },
-  {"h": "accommodometer", "segs": [{"k": "m", "t": "Ðiều tiết kế."}], "k": "accommodometer"},
+  {"h": "accommodometer", "segs": [{"k": "m", "t": "Điều tiết kế."}], "k": "accommodometer"},
   {
     "h": "Accomodation",
     "segs": [
@@ -6187,7 +6187,7 @@
       {
         "k": "ex",
         "t": "according to the archives, he was born in Paris (not in London",
-        "vi": ") theo hồ sơ lưu trữ, hắn chào đời ở Pari (chứ không phải ở Luân Ðôn)"
+        "vi": ") theo hồ sơ lưu trữ, hắn chào đời ở Pari (chứ không phải ở Luân Đôn)"
       },
       {
         "k": "ex",
@@ -6241,12 +6241,12 @@
       {
         "k": "ex",
         "t": "The carpenter said, \"This is the way to drive a nail, according to Hoyle\":",
-        "vi": "Người thợ mộc nói: \"Ðây là cách đóng một cây đinh theo đúng cách.\":"
+        "vi": "Người thợ mộc nói: \"Đây là cách đóng một cây đinh theo đúng cách.\":"
       },
       {
         "k": "ex",
         "t": "That's wrong. According to Hoyle, this is the way to do it:",
-        "vi": "Như thế là sai. Ðây là cách làm cái gì đó đúng luật."
+        "vi": "Như thế là sai. Đây là cách làm cái gì đó đúng luật."
       }
     ],
     "k": "according to hoyle"
@@ -7024,7 +7024,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "báo cáo bán hàng. Báo cáo định kỳ của người đại lý gửi cho người ủy thác, trong đó ghi rõ số tiền hàng đã bán được, những chi phí bán hàng và hoa hồng đại lý đã thỏa thuận và kết toán số tiền người đại lý phải trả cho người ủy thác. Ðôi khi trong phần ghi chú có ghi thêm số tiền mà đại lý đã chuyển khoản trả cho người ủy thác."
+        "t": "báo cáo bán hàng. Báo cáo định kỳ của người đại lý gửi cho người ủy thác, trong đó ghi rõ số tiền hàng đã bán được, những chi phí bán hàng và hoa hồng đại lý đã thỏa thuận và kết toán số tiền người đại lý phải trả cho người ủy thác. Đôi khi trong phần ghi chú có ghi thêm số tiền mà đại lý đã chuyển khoản trả cho người ủy thác."
       }
     ],
     "k": "account sales"
@@ -8361,7 +8361,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tỷ suất tích tụ. Tỷ suất theo đó lãi suất được tích tụ. Ðối với tiền hưu, đó là tỷ suất mà lợi ích tích tụ."
+        "t": "tỷ suất tích tụ. Tỷ suất theo đó lãi suất được tích tụ. Đối với tiền hưu, đó là tỷ suất mà lợi ích tích tụ."
       }
     ],
     "k": "accrual rate"
@@ -9596,7 +9596,7 @@
     ],
     "k": "accurate print registration"
   },
-  {"h": "accurate reading", "segs": [{"k": "m", "t": "Ðọc chính xác."}], "k": "accurate reading"},
+  {"h": "accurate reading", "segs": [{"k": "m", "t": "Đọc chính xác."}], "k": "accurate reading"},
   {
     "h": "accurate reproduction",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự tái tạo chính xác"}],
@@ -10208,7 +10208,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tt) Ðã được thừa nhận, đã được công nhận-an accepted fact: mọt sự kiện đã được công nhận."
+        "t": "(tt) Đã được thừa nhận, đã được công nhận-an accepted fact: mọt sự kiện đã được công nhận."
       }
     ],
     "ipa": "əkɛseptid",
@@ -10371,7 +10371,7 @@
   {"h": "acetabular", "segs": [{"k": "m", "t": "Thuộc ổ cối."}], "k": "acetabular"},
   {
     "h": "acetabular artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch ổ cối."}],
+    "segs": [{"k": "m", "t": "Động mạch ổ cối."}],
     "k": "acetabular artery"
   },
   {"h": "acetabular bone", "segs": [{"k": "m", "t": "ổ cối."}], "k": "acetabular bone"},
@@ -11063,7 +11063,7 @@
     "segs": [
       {"k": "m", "t": "Advanced Communications Function/Network Control Program (ACF/NCP)"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "Chức năng truyền thông tiên tiến/ Ðiều khiển nối mạng chương trình"}
+      {"k": "m", "t": "Chức năng truyền thông tiên tiến/ Điều khiển nối mạng chương trình"}
     ],
     "k": "acf/ncp"
   },
@@ -11110,7 +11110,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Liên minh giữa Achaean và các tiểu bang Peloponnes vào thời cổ Hy Lạp. Từ ngữ này được nhiều người biết đến nhất là vùng Achaea ở vùng Ðông-Bắc Hy Lạp. Vào thế kỷ thứ 4 trước Công nguyên lực lượng liên minh này đã hình thành và bị tan rã vào năm 338 sau Công nguyên. Nó cũng xuất hiện trở lại vào năm 280 trước Công nguyên dưới sự lãnh đạo của nhà cầm quyền Aratus. Sau đó nó có chiều hướng ngả theo cuộc chiến tranh giữa Macedonia và Sparta trước khi sáp nhập vào Rome vào năm 198. Tuy nhiên cuộc chiến với Rome vào năm 146 đã kết thúc thắng lợi và liên minh cũng tan rã kể từ đó."
+        "t": "Liên minh giữa Achaean và các tiểu bang Peloponnes vào thời cổ Hy Lạp. Từ ngữ này được nhiều người biết đến nhất là vùng Achaea ở vùng Đông-Bắc Hy Lạp. Vào thế kỷ thứ 4 trước Công nguyên lực lượng liên minh này đã hình thành và bị tan rã vào năm 338 sau Công nguyên. Nó cũng xuất hiện trở lại vào năm 280 trước Công nguyên dưới sự lãnh đạo của nhà cầm quyền Aratus. Sau đó nó có chiều hướng ngả theo cuộc chiến tranh giữa Macedonia và Sparta trước khi sáp nhập vào Rome vào năm 198. Tuy nhiên cuộc chiến với Rome vào năm 146 đã kết thúc thắng lợi và liên minh cũng tan rã kể từ đó."
       }
     ],
     "k": "achaean league"
@@ -11120,7 +11120,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Triều đại do Cyrus Ðại Ðế thiết lập vào thế kỷ 6 trước Công nguyên và lấy tên của hậu duệ đời Achaemen. Tổ tiên người Cyrus thoạt đầu cai trị vùng đất parsumash, một thuộc địa của đế chế Median. Nhưng ông ta đã lật đổ ngai vàng của vua Astyages và liên kết với Medes vị hoàng đế Ba Tư (sau đó đã mất năm 530 trước Công nguyên) để mở rộng bờ cõi. Sau đó Cambyses II lên nối ngôi (529-521 trước Công nguyên). Kế đến Darius I tái thiết và tổ chức lại guồng máy cai trị và hệ thống tài chính. Ông phân bổ 20 tỉnh và bổ nhiệm Satraps thừa hành. Ông và Xerxes đều bị thất bại trong cuộc chinh phục Hy Lạp từ đầu thế kỷ 5. Cùng lúc đó quân của đại đế Alexander đã mở cuộc tấn công quân Macedonian vào năm 334 trước Công nguyên vì triều đại này lúc bấy giờ đang suy sụp. Sau đó Darius III (người đã lật đổ Issus và Gaugamela) đã bị chính thuộc hạ giết chết vào năm 330 trước Công nguyên. Triều đại Achaemenid tỏ ra bao dung về các mặt pháp luật, tôn giáo và hệ thống cai trị. Mọi quyền hành đều tập trung vào Susa, thuộc bộ nội vụ và thương mại. Ngoài ra nguồn tài nguyên phong phú của Persepolis cũng góp phần tích cực làm cho đất nước này thêm giàu mạnh."
+        "t": "Triều đại do Cyrus Đại Đế thiết lập vào thế kỷ 6 trước Công nguyên và lấy tên của hậu duệ đời Achaemen. Tổ tiên người Cyrus thoạt đầu cai trị vùng đất parsumash, một thuộc địa của đế chế Median. Nhưng ông ta đã lật đổ ngai vàng của vua Astyages và liên kết với Medes vị hoàng đế Ba Tư (sau đó đã mất năm 530 trước Công nguyên) để mở rộng bờ cõi. Sau đó Cambyses II lên nối ngôi (529-521 trước Công nguyên). Kế đến Darius I tái thiết và tổ chức lại guồng máy cai trị và hệ thống tài chính. Ông phân bổ 20 tỉnh và bổ nhiệm Satraps thừa hành. Ông và Xerxes đều bị thất bại trong cuộc chinh phục Hy Lạp từ đầu thế kỷ 5. Cùng lúc đó quân của đại đế Alexander đã mở cuộc tấn công quân Macedonian vào năm 334 trước Công nguyên vì triều đại này lúc bấy giờ đang suy sụp. Sau đó Darius III (người đã lật đổ Issus và Gaugamela) đã bị chính thuộc hạ giết chết vào năm 330 trước Công nguyên. Triều đại Achaemenid tỏ ra bao dung về các mặt pháp luật, tôn giáo và hệ thống cai trị. Mọi quyền hành đều tập trung vào Susa, thuộc bộ nội vụ và thương mại. Ngoài ra nguồn tài nguyên phong phú của Persepolis cũng góp phần tích cực làm cho đất nước này thêm giàu mạnh."
       }
     ],
     "k": "achaemenid"
@@ -11189,7 +11189,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Vùng lãnh thổ thuộc bờ Bắc Sumatra, được xem là vùng theo đạo Hồi giáo đầu tiên ở khu vực Ðông Nam Châu Á. Sau khi Malacca thất thủ bởi quân Portugue năm 1511, nhiều nhà buôn đạo Hồi đã di chuyển đến vùng này. Cuối thế kỷ 16, nền kinh tế ở đây có dấu hiệu suy sụp và có phần lệ thuộc nhiều vào ảnh hưởng của Sumatra và Malaya. Mặt hàng chính yếu lúc bấy giờ là tiêu hột và sắt, thiếc. Sau khi người Hà Lan chiếm lĩnh Malacca vào năm 1641, Acheh đã thiết lập lại trật tự ở Sumatra."
+        "t": "Vùng lãnh thổ thuộc bờ Bắc Sumatra, được xem là vùng theo đạo Hồi giáo đầu tiên ở khu vực Đông Nam Châu Á. Sau khi Malacca thất thủ bởi quân Portugue năm 1511, nhiều nhà buôn đạo Hồi đã di chuyển đến vùng này. Cuối thế kỷ 16, nền kinh tế ở đây có dấu hiệu suy sụp và có phần lệ thuộc nhiều vào ảnh hưởng của Sumatra và Malaya. Mặt hàng chính yếu lúc bấy giờ là tiêu hột và sắt, thiếc. Sau khi người Hà Lan chiếm lĩnh Malacca vào năm 1641, Acheh đã thiết lập lại trật tự ở Sumatra."
       }
     ],
     "k": "acheh"
@@ -11557,7 +11557,7 @@
   },
   {
     "h": "achrestic diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo thiếu yếu tố sử dụng đường."}],
+    "segs": [{"k": "m", "t": "Đái tháo thiếu yếu tố sử dụng đường."}],
     "k": "achrestic diabetes"
   },
   {"h": "achroacyte", "segs": [{"k": "m", "t": "Limpho bào."}], "k": "achroacyte"},
@@ -14255,7 +14255,7 @@
     "k": "aconitine"
   },
   {"h": "aconitum", "segs": [{"k": "m", "t": "Cây phụ tử."}], "k": "aconitum"},
-  {"h": "aconuresis", "segs": [{"k": "m", "t": "Ðái dầm."}], "k": "aconuresis"},
+  {"h": "aconuresis", "segs": [{"k": "m", "t": "Đái dầm."}], "k": "aconuresis"},
   {"h": "acoprosis", "segs": [{"k": "m", "t": "Ruột không có phân."}], "k": "acoprosis"},
   {"h": "acorea", "segs": [{"k": "m", "t": "Tật không đồng tử."}], "k": "acorea"},
   {"h": "acoria", "segs": [{"k": "m", "t": "Chứng ăn không biết no."}], "k": "acoria"},
@@ -14369,7 +14369,7 @@
     "k": "acouphony"
   },
   {"h": "acousma", "segs": [{"k": "m", "t": "Âm ảo."}], "k": "acousma"},
-  {"h": "acousmatagnosis", "segs": [{"k": "m", "t": "Ðiếc tâm thần."}], "k": "acousmatagnosis"},
+  {"h": "acousmatagnosis", "segs": [{"k": "m", "t": "Điếc tâm thần."}], "k": "acousmatagnosis"},
   {"h": "acousmatamnesia", "segs": [{"k": "m", "t": "Chứng quên âm."}], "k": "acousmatamnesia"},
   {"h": "acoustance", "segs": [{"k": "m", "t": "resistance âm trở."}], "k": "acoustance"},
   {"h": "acousti wave", "segs": [{"k": "m", "t": "sóng âm."}], "k": "acousti wave"},
@@ -15314,7 +15314,7 @@
   },
   {
     "h": "acoustic trauma deafness",
-    "segs": [{"k": "m", "t": "Ðiếc chấn thương thính giác."}],
+    "segs": [{"k": "m", "t": "Điếc chấn thương thính giác."}],
     "k": "acoustic trauma deafness"
   },
   {
@@ -16075,7 +16075,7 @@
   },
   {
     "h": "acquired dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh thứ phát."}],
+    "segs": [{"k": "m", "t": "Đau kinh thứ phát."}],
     "k": "acquired dysmenorrhea"
   },
   {
@@ -16664,7 +16664,7 @@
   {"h": "acro-edema", "segs": [{"k": "m", "t": "Chứng phù đầu chi."}], "k": "acro-edema"},
   {
     "h": "acro-esthesia",
-    "segs": [{"k": "m", "t": "Tăng cảm đầu chi"}, {"k": "m", "t": "Ðau đầu chi."}],
+    "segs": [{"k": "m", "t": "Tăng cảm đầu chi"}, {"k": "m", "t": "Đau đầu chi."}],
     "k": "acro-esthesia"
   },
   {
@@ -16772,7 +16772,7 @@
     "segs": [{"k": "m", "t": "Tật đầu hình tháp dính ngón tay."}],
     "k": "acrocephalosyndactyly"
   },
-  {"h": "acrocephalous", "segs": [{"k": "m", "t": "Ðầu hình tháp."}], "k": "acrocephalous"},
+  {"h": "acrocephalous", "segs": [{"k": "m", "t": "Đầu hình tháp."}], "k": "acrocephalous"},
   {
     "h": "acrocephaly",
     "segs": [{"k": "m", "t": "Tật đầu hình tháp, tật đầu nhọn."}],
@@ -17471,7 +17471,7 @@
       {
         "k": "ex",
         "t": "Don't believe what she says - it's all an act!",
-        "vi": "Ðừng tin những điều cô ta nói-tất cả chỉ là vờ vịt thôi!"
+        "vi": "Đừng tin những điều cô ta nói-tất cả chỉ là vờ vịt thôi!"
       },
       {"k": "m", "t": "("},
       {
@@ -17595,7 +17595,7 @@
       {
         "k": "ex",
         "t": "This is Mr Smith. He'll act as manager from now on:",
-        "vi": "Ðây là ông Smith ông sẽ phụ trách quản lý kể từ bây giờ trở đi."
+        "vi": "Đây là ông Smith ông sẽ phụ trách quản lý kể từ bây giờ trở đi."
       }
     ],
     "k": "act as someone"
@@ -17757,7 +17757,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1800) Một đạo luật phế bỏ hội đồng nội các Ai Len. Sau cuộc nổi dậy ở Ai Len năm 1798, thủ tướng Anh đã giải quyết tình trạng chính trị ở Ai Len bằng cách thiết lập chế độ một đảng. Luật này đã được thông qua quốc hội Anh ở Luân Ðôn và Quốc hội Ai Len ở Dublin nơi đang diễn ra vụ việc. Theo đó hội đồng hứa hẹn nhiều tiêu chuẩn mặc dù họ thực sự biết rõ công việc sẽ không thể hoàn thành."
+        "t": "(1800) Một đạo luật phế bỏ hội đồng nội các Ai Len. Sau cuộc nổi dậy ở Ai Len năm 1798, thủ tướng Anh đã giải quyết tình trạng chính trị ở Ai Len bằng cách thiết lập chế độ một đảng. Luật này đã được thông qua quốc hội Anh ở Luân Đôn và Quốc hội Ai Len ở Dublin nơi đang diễn ra vụ việc. Theo đó hội đồng hứa hẹn nhiều tiêu chuẩn mặc dù họ thực sự biết rõ công việc sẽ không thể hoàn thành."
       }
     ],
     "k": "act of union"
@@ -17783,7 +17783,7 @@
       {
         "k": "ex",
         "t": "\"You just broke my stereo,\" yelled John. \"That's an act of war!\":",
-        "vi": "John quát lên: \"Mày vừa làm vỡ máy stereo của tao. Ðó là một hành vi thù địch!\""
+        "vi": "John quát lên: \"Mày vừa làm vỡ máy stereo của tao. Đó là một hành vi thù địch!\""
       }
     ],
     "k": "act of war"
@@ -17813,7 +17813,7 @@
       {
         "k": "ex",
         "t": "Mary! Stop picking on your little brother. Act your age!:",
-        "vi": "Mary! Ðừng chọc em nữa, còn phải đứng đắn chứ!"
+        "vi": "Mary! Đừng chọc em nữa, còn phải đứng đắn chứ!"
       }
     ],
     "k": "act one's age"
@@ -18926,7 +18926,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Mũi đất phía Nam ở phần đầu vịnh Ambracian thuộc Tây Bắc Hy Lạp. Nơi đây là nền tảng của Mark Antony và Cleopatra trong chiến dịch của họ vào năm (31 trước Công nguyên) nhằm chống lại Octavian hùng mạnh. Ðây là cuộc nội chiến cuối cùng trong số hàng loạt cuộc chiến trước đó diễn ra vào năm 49 trước Công nguyên. Sau khi chặn đứng được chiến hạm của quân Antony, Octavian và đô đốc Agrippa đã tiến đến vùng biển gần Actium. Antony và Cleopatra đã trốn chạy đến Ai Cập rồi tự sát ở đó. Ðể lại quyền hành cho kẻ chiến thắng. Sự chiến thắng đã mang lại cho Octavian quyền hành tối cao ở La Mã và vào năm 27 trước Công nguyên ông được các chính khách xem như Hoàng đế La Mã. Trận chiến kéo dài và lan rộng nhiều thập niên nhằm vào những vùng ở phía Ðông và mở đầu cho một kỷ nguyên mới."
+        "t": "Mũi đất phía Nam ở phần đầu vịnh Ambracian thuộc Tây Bắc Hy Lạp. Nơi đây là nền tảng của Mark Antony và Cleopatra trong chiến dịch của họ vào năm (31 trước Công nguyên) nhằm chống lại Octavian hùng mạnh. Đây là cuộc nội chiến cuối cùng trong số hàng loạt cuộc chiến trước đó diễn ra vào năm 49 trước Công nguyên. Sau khi chặn đứng được chiến hạm của quân Antony, Octavian và đô đốc Agrippa đã tiến đến vùng biển gần Actium. Antony và Cleopatra đã trốn chạy đến Ai Cập rồi tự sát ở đó. Để lại quyền hành cho kẻ chiến thắng. Sự chiến thắng đã mang lại cho Octavian quyền hành tối cao ở La Mã và vào năm 27 trước Công nguyên ông được các chính khách xem như Hoàng đế La Mã. Trận chiến kéo dài và lan rộng nhiều thập niên nhằm vào những vùng ở phía Đông và mở đầu cho một kỷ nguyên mới."
       }
     ],
     "k": "actium"
@@ -19068,7 +19068,7 @@
   },
   {
     "h": "activated epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh hoạt hóa."}],
+    "segs": [{"k": "m", "t": "Động kinh hoạt hóa."}],
     "k": "activated epilepsy"
   },
   {"h": "activated flavour", "segs": [{"k": "m", "t": "vị mạnh."}], "k": "activated flavour"},
@@ -19329,7 +19329,7 @@
   },
   {
     "h": "active 'verb",
-    "segs": [{"k": "m", "t": "(dt) (ngữ) Ðộng từ mô tả hoạt động."}],
+    "segs": [{"k": "m", "t": "(dt) (ngữ) Động từ mô tả hoạt động."}],
     "k": "active 'verb"
   },
   {
@@ -19622,7 +19622,7 @@
       {"k": "m", "t": "Màn hình nền linh hoạt"},
       {
         "k": "m",
-        "t": "Active Desktop là một chiến lược hòa hợp các kỹ thuật trình duyệt Web với màn hình nền trong Windows của Microsoft. Ðây cũng là một phần trong kế hoạch hòa hợp kỹ thuật giải trí ở nhà PC 97 với hệ điều hành này. Với một hệ điều hành như vậy, việc tung ra một trình duyệt Web riêng rẽ là không còn cần thiết nữa vì màn hình nền bản thân nó chính là giao diện một trình duyệt. Nestcape cũng có một chiến lược tương tự gọi là Constellation, kết hợp giao diện người dùng đồ họa phổ thông với một trình duyệt được thiết kế để thi hành trong máy chủ. Kỹ thuật này dựa trên Live Sites."
+        "t": "Active Desktop là một chiến lược hòa hợp các kỹ thuật trình duyệt Web với màn hình nền trong Windows của Microsoft. Đây cũng là một phần trong kế hoạch hòa hợp kỹ thuật giải trí ở nhà PC 97 với hệ điều hành này. Với một hệ điều hành như vậy, việc tung ra một trình duyệt Web riêng rẽ là không còn cần thiết nữa vì màn hình nền bản thân nó chính là giao diện một trình duyệt. Nestcape cũng có một chiến lược tương tự gọi là Constellation, kết hợp giao diện người dùng đồ họa phổ thông với một trình duyệt được thiết kế để thi hành trong máy chủ. Kỹ thuật này dựa trên Live Sites."
       }
     ],
     "k": "active desktop"
@@ -19657,7 +19657,7 @@
   {
     "h": "Active Documents",
     "segs": [
-      {"k": "m", "t": "Tài liệu Ðộng tính"},
+      {"k": "m", "t": "Tài liệu Động tính"},
       {
         "k": "m",
         "t": "Tài liệu động tính là loại tài liệu có chứa các liên kết (link) đến các chương trình hoặc các nguồn thông tin khác. Liên kết này cho phép hiển thị thông tin trong tài liệu, có thể được cập nhật liên tục, chỉ cập nhật khi mới mở tài liệu, hoặc được cập nhật khi người dùng yêu cầu."
@@ -19716,7 +19716,7 @@
   },
   {
     "h": "active electrode",
-    "segs": [{"k": "m", "t": "Ðiện cực tác dụng."}],
+    "segs": [{"k": "m", "t": "Điện cực tác dụng."}],
     "k": "active electrode"
   },
   {
@@ -20098,7 +20098,7 @@
     "segs": [{"k": "m", "t": "bộ kiểm tra hoạt động, màn hình hoạt động."}],
     "k": "active monitor"
   },
-  {"h": "active movement", "segs": [{"k": "m", "t": "Ðộng tác chủ động."}], "k": "active movement"},
+  {"h": "active movement", "segs": [{"k": "m", "t": "Động tác chủ động."}], "k": "active movement"},
   {
     "h": "active network",
     "segs": [{"k": "m", "t": "(kỹ thuật) mạng chủ động."}],
@@ -20478,7 +20478,7 @@
   {"h": "active substance", "segs": [{"k": "m", "t": "hoạt chất."}], "k": "active substance"},
   {
     "h": "active substrate",
-    "segs": [{"k": "m", "t": "(kỹ thuật) nền hoạt tính (ÐL)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) nền hoạt tính (ĐL)."}],
     "k": "active substrate"
   },
   {
@@ -20677,7 +20677,7 @@
       },
       {
         "k": "m",
-        "t": "Ðối với người phát triển Web site, các trình điều khiển ActiveX cung cấp một cách có thể dể dàng quản lý và cập nhật nội dung trang Web và hệ thống client. Những ứng dụng phức tạp trong nhiều biểu mẫu thành phần ActiveX có thể được đặt trên site đó để người dùng tải xuống. Ban đầu người dùng có thể mất một ít thời gian để tải xuống hết các thành phần đó nhưng cập nhật và nâng cấp thì rất dễ dàng vì chỉ có những thành phần nào cần thì mới được chép xuống máy người dùng."
+        "t": "Đối với người phát triển Web site, các trình điều khiển ActiveX cung cấp một cách có thể dể dàng quản lý và cập nhật nội dung trang Web và hệ thống client. Những ứng dụng phức tạp trong nhiều biểu mẫu thành phần ActiveX có thể được đặt trên site đó để người dùng tải xuống. Ban đầu người dùng có thể mất một ít thời gian để tải xuống hết các thành phần đó nhưng cập nhật và nâng cấp thì rất dễ dàng vì chỉ có những thành phần nào cần thì mới được chép xuống máy người dùng."
       },
       {
         "k": "m",
@@ -22406,7 +22406,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðau bụng cấp, tình trạng cấp cứu ngoại khoa do tổn hại một hay nhiều cơ quan trong bụng."
+        "t": "Đau bụng cấp, tình trạng cấp cứu ngoại khoa do tổn hại một hay nhiều cơ quan trong bụng."
       }
     ],
     "k": "acute abdoman"
@@ -22947,5 +22947,5 @@
     "segs": [{"k": "m", "t": "Mật trương lực thần kinh bàng quang, liệt bàng quang."}],
     "k": "acystinervia"
   },
-  {"h": "acytotoxin", "segs": [{"k": "m", "t": "Ðộc tố dạng tinh thể."}], "k": "acytotoxin"}
+  {"h": "acytotoxin", "segs": [{"k": "m", "t": "Độc tố dạng tinh thể."}], "k": "acytotoxin"}
 ]

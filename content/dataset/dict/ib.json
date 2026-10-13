@@ -75,7 +75,7 @@
     "h": "iberian",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) I-bê-ri (xứ cũ gồm Bồ Ðào Nha và Tây Ban Nha)"},
+      {"k": "m", "t": "(thuộc) I-bê-ri (xứ cũ gồm Bồ Đào Nha và Tây Ban Nha)"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "người I-bê-ri"},
       {"k": "m", "t": "tiếng I-bê-ri."}
@@ -98,7 +98,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những cư dân cổ xưa ở các vùng phía Nam và phía Ðông Tây của người Tây Ban Nha. Ở phía Bắc Tây Ban Nha, những người này đã pha trộn vào với người Celts để tạo thành những bộ lạc Celtiberian. Từ thế kỷ thứ 9 trước công nguyên, họ tiếp xúc với người Carthage."
+        "t": "những cư dân cổ xưa ở các vùng phía Nam và phía Đông Tây của người Tây Ban Nha. Ở phía Bắc Tây Ban Nha, những người này đã pha trộn vào với người Celts để tạo thành những bộ lạc Celtiberian. Từ thế kỷ thứ 9 trước công nguyên, họ tiếp xúc với người Carthage."
       },
       {
         "k": "m",
@@ -236,7 +236,7 @@
   {
     "h": "IBM",
     "segs": [
-      {"k": "m", "t": "(tắt) Công ty Máy Ðiện toán IBM của Mỹ ("},
+      {"k": "m", "t": "(tắt) Công ty Máy Điện toán IBM của Mỹ ("},
       {"k": "ex", "t": "International Business Machines", "vi": ")."}
     ],
     "ipa": ",ai bi: 'em",
@@ -336,7 +336,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "IBM LAN Server là hệ thống server mạng với hệ điều hành OS/2. LAN Server dựa trên LAN Manager, phát triển trong sự liên kết với Microsoft. Sau đó Microsoft cũng đã phát triển Windows NT sử dụng một số công nghệ của LAN Manager, như khái niệm về sự bảo mật và các vùng quản trị. Ðầu năm 1996, IBM đã hoàn thành OS/2 Warp Server như một cải tiến của LAN Server. Tham khảo phần \"OS/2 Warp Server\" để biết thêm chi tiết cho sản phẩm này.."
+        "t": "IBM LAN Server là hệ thống server mạng với hệ điều hành OS/2. LAN Server dựa trên LAN Manager, phát triển trong sự liên kết với Microsoft. Sau đó Microsoft cũng đã phát triển Windows NT sử dụng một số công nghệ của LAN Manager, như khái niệm về sự bảo mật và các vùng quản trị. Đầu năm 1996, IBM đã hoàn thành OS/2 Warp Server như một cải tiến của LAN Server. Tham khảo phần \"OS/2 Warp Server\" để biết thêm chi tiết cho sản phẩm này.."
       }
     ],
     "k": "ibm lan server"
@@ -351,7 +351,7 @@
       },
       {
         "k": "m",
-        "t": "Ngày nay, IBM bán ra ít hơn, nhưng lại có ưu thế mạnh về \"superserver\" (server cao cấp) cho môi trường mạng. Một số theo cùng một thiết kế kiến trúc như các hệ thống trước đó. Một số khác chạy version của cùng hệ điều hành đã được dùng cho hệ thống trước đó để duy trì sự tích hợp các ứng dụng. Phần này sẽ bàn đến môi trường mainframe truyền thống của IBM. Ðối với các hệ thống mới, hãy tham khảo phần \"IBM Servers\"."
+        "t": "Ngày nay, IBM bán ra ít hơn, nhưng lại có ưu thế mạnh về \"superserver\" (server cao cấp) cho môi trường mạng. Một số theo cùng một thiết kế kiến trúc như các hệ thống trước đó. Một số khác chạy version của cùng hệ điều hành đã được dùng cho hệ thống trước đó để duy trì sự tích hợp các ứng dụng. Phần này sẽ bàn đến môi trường mainframe truyền thống của IBM. Đối với các hệ thống mới, hãy tham khảo phần \"IBM Servers\"."
       },
       {
         "k": "m",
@@ -368,7 +368,7 @@
       },
       {
         "k": "m",
-        "t": "Cổng SNA cung cấp điểm kết nối cho một giao thức mạng vào host SNA. Ðiều này làm cho SNA bị loại bỏ ra khỏi môi trường mạng và đơn giản hóa sự điều hành. Cổng SNA nối thông qua các kênh cao tốc vào host, thay cho việc dùng FEP và các bộ điều khiển cluster. Các bộ chuyển mạch cung cấp các kết nối nhiều điểm vào hệ thống host."
+        "t": "Cổng SNA cung cấp điểm kết nối cho một giao thức mạng vào host SNA. Điều này làm cho SNA bị loại bỏ ra khỏi môi trường mạng và đơn giản hóa sự điều hành. Cổng SNA nối thông qua các kênh cao tốc vào host, thay cho việc dùng FEP và các bộ điều khiển cluster. Các bộ chuyển mạch cung cấp các kết nối nhiều điểm vào hệ thống host."
       },
       {
         "k": "m",
@@ -426,10 +426,10 @@
   {
     "h": "IBM Operating Systems",
     "segs": [
-      {"k": "m", "t": "Hệ Ðiều Hành IBM"},
+      {"k": "m", "t": "Hệ Điều Hành IBM"},
       {
         "k": "m",
-        "t": "Hệ điều hành IBM dùng cho các mainframe truyền thống, và cả các server IBM thế hệ mới, được mô tả ở đây. Ðể có thêm thông tin, hãy thăm các trang Web được liệt kê ở cuối phần này."
+        "t": "Hệ điều hành IBM dùng cho các mainframe truyền thống, và cả các server IBM thế hệ mới, được mô tả ở đây. Để có thêm thông tin, hãy thăm các trang Web được liệt kê ở cuối phần này."
       },
       {
         "k": "m",
@@ -441,7 +441,7 @@
       },
       {
         "k": "m",
-        "t": "OS/2 WARP và OS/2 WARP SERVER Ðây là các hệ điều hành mạng dùng cho các máy tính để bàn và server, tương ứng theo từng loại. Chúng cung cấp kết nối Internet/Intranet, quản trị hệ thống, dễ sử dụng, và hỗ trợ cho công nghệ Java. Hãy xem phần \"OS/2 Warp\" và \"OS/2 Warp Server\" để biết thêm thông tin hay đến thăm Web site OS/2 Warp của IBM ở địa chỉ http://www.software.ibm.com/os/warp."
+        "t": "OS/2 WARP và OS/2 WARP SERVER Đây là các hệ điều hành mạng dùng cho các máy tính để bàn và server, tương ứng theo từng loại. Chúng cung cấp kết nối Internet/Intranet, quản trị hệ thống, dễ sử dụng, và hỗ trợ cho công nghệ Java. Hãy xem phần \"OS/2 Warp\" và \"OS/2 Warp Server\" để biết thêm thông tin hay đến thăm Web site OS/2 Warp của IBM ở địa chỉ http://www.software.ibm.com/os/warp."
       },
       {
         "k": "m",
@@ -449,7 +449,7 @@
       },
       {
         "k": "m",
-        "t": "MVS (MULTIPLE VIRTUAL STORAGE) Ðây là hệ điều hành sơ cấp được đưa ra vào năm 1974, dành cho IBM mainframe. Nó là loại xử-lý-lô (batch) và được thiết kế để điều hành một lượng lớn bộ nhớ và không gian đĩa. MVS chạy trên các máy tính loại IBM S/390 và ES/9000. Hãy viếng trang http://www.s390.ibm.com."
+        "t": "MVS (MULTIPLE VIRTUAL STORAGE) Đây là hệ điều hành sơ cấp được đưa ra vào năm 1974, dành cho IBM mainframe. Nó là loại xử-lý-lô (batch) và được thiết kế để điều hành một lượng lớn bộ nhớ và không gian đĩa. MVS chạy trên các máy tính loại IBM S/390 và ES/9000. Hãy viếng trang http://www.s390.ibm.com."
       },
       {
         "k": "m",
@@ -484,7 +484,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "IBM hỗ trợ cho nhiều server vì thường một server không thể đáp ứng đủ mọi nhu cầu. PC server dùng các bộ vi xử lý Intel tiêu chuẩn và dùng cho nhiều hệ điều hành. Ðối với khách hàng muốn thuận lợi cho các ứng dụng thương mại thì có hệ thống AS/400 với các ứng dụng thích hợp. RS/6000 cung cấp một khả năng mạnh, khả mở, và hỗ trợ cho nhiều hệ điều hành khác nhau. S/390 hỗ trợ kiến trúc S/390 truyền thống."
+        "t": "IBM hỗ trợ cho nhiều server vì thường một server không thể đáp ứng đủ mọi nhu cầu. PC server dùng các bộ vi xử lý Intel tiêu chuẩn và dùng cho nhiều hệ điều hành. Đối với khách hàng muốn thuận lợi cho các ứng dụng thương mại thì có hệ thống AS/400 với các ứng dụng thích hợp. RS/6000 cung cấp một khả năng mạnh, khả mở, và hỗ trợ cho nhiều hệ điều hành khác nhau. S/390 hỗ trợ kiến trúc S/390 truyền thống."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {

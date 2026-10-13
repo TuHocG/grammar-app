@@ -147,7 +147,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bệnh nghề nghiệp. Bệnh phát sinh do điều kiện lao động có hại của nghề nghiệp tác động đối với người lao động (Ðiều 106, Bộ luật lao động). Bệnh nghề nghiệp chỉ phát sinh và bắt nguồn trong quá trình làm việc ở nghề nào đó hoặc phải thường xuyên tiếp xúc với môi trường có yếu tố độc hại của nghề ấy. Danh mục các bệnh nghề nghiệp do Bộ Y tế và Bộ Lao động - Thương binh và Xã hội ban hành. Người lao động bị mắc bệnh nghề nghiệp được hưởng chế độ trợ cấp bệnh nghề nghiệp như đối với người bị tai nạn lao động quy định tại các Ðiều 16, 17 đến Ðiều 23, Ðiều lệ bảo hiểm xã hội (ban hành kèm theo Nghị định số 12-CP ngày 26-1-1995 của Chính phủ), và được điều trị, khám sức khỏe định kỳ, có hồ sơ sức khỏe riêng."
+        "t": "bệnh nghề nghiệp. Bệnh phát sinh do điều kiện lao động có hại của nghề nghiệp tác động đối với người lao động (Điều 106, Bộ luật lao động). Bệnh nghề nghiệp chỉ phát sinh và bắt nguồn trong quá trình làm việc ở nghề nào đó hoặc phải thường xuyên tiếp xúc với môi trường có yếu tố độc hại của nghề ấy. Danh mục các bệnh nghề nghiệp do Bộ Y tế và Bộ Lao động - Thương binh và Xã hội ban hành. Người lao động bị mắc bệnh nghề nghiệp được hưởng chế độ trợ cấp bệnh nghề nghiệp như đối với người bị tai nạn lao động quy định tại các Điều 16, 17 đến Điều 23, Điều lệ bảo hiểm xã hội (ban hành kèm theo Nghị định số 12-CP ngày 26-1-1995 của Chính phủ), và được điều trị, khám sức khỏe định kỳ, có hồ sơ sức khỏe riêng."
       }
     ],
     "k": "occapational diseases"
@@ -503,7 +503,7 @@
     "ipa": "ɔk'sipitl",
     "k": "occipital"
   },
-  {"h": "occipital artery", "segs": [{"k": "m", "t": "Ðộng mạch chẩm."}], "k": "occipital artery"},
+  {"h": "occipital artery", "segs": [{"k": "m", "t": "Động mạch chẩm."}], "k": "occipital artery"},
   {
     "h": "occipital articulation",
     "segs": [{"k": "m", "t": "Khớp chẩm, khớp chẩm đội."}],
@@ -544,7 +544,7 @@
   },
   {"h": "occipital muscle", "segs": [{"k": "m", "t": "Cơ chẩm."}], "k": "occipital muscle"},
   {"h": "occipital operculum", "segs": [{"k": "m", "t": "Nắp chầm."}], "k": "occipital operculum"},
-  {"h": "occipital point", "segs": [{"k": "m", "t": "Ðiểm chẩm."}], "k": "occipital point"},
+  {"h": "occipital point", "segs": [{"k": "m", "t": "Điểm chẩm."}], "k": "occipital point"},
   {"h": "occipital region", "segs": [{"k": "m", "t": "Vùng chẩm."}], "k": "occipital region"},
   {"h": "occipital sinus", "segs": [{"k": "m", "t": "Xoang chẩm."}], "k": "occipital sinus"},
   {"h": "occipital squama", "segs": [{"k": "m", "t": "Trai chẩm."}], "k": "occipital squama"},
@@ -613,7 +613,7 @@
   {"h": "occipitofrontal", "segs": [{"k": "m", "t": "(thuộc) chẩm-trán."}], "k": "occipitofrontal"},
   {
     "h": "occipitofrontal diameter",
-    "segs": [{"k": "m", "t": "Ðường kính trán-chẩm, đường kính chẩm trán."}],
+    "segs": [{"k": "m", "t": "Đường kính trán-chẩm, đường kính chẩm trán."}],
     "k": "occipitofrontal diameter"
   },
   {
@@ -628,13 +628,13 @@
   },
   {
     "h": "occipitomastoid suture",
-    "segs": [{"k": "m", "t": "Ðường khớp chẩm-chũm."}],
+    "segs": [{"k": "m", "t": "Đường khớp chẩm-chũm."}],
     "k": "occipitomastoid suture"
   },
   {"h": "occipitomental", "segs": [{"k": "m", "t": "(thuộc) chẩm-cằm."}], "k": "occipitomental"},
   {
     "h": "occipitomental diameter",
-    "segs": [{"k": "m", "t": "Ðường kính chẩm cằm."}],
+    "segs": [{"k": "m", "t": "Đường kính chẩm cằm."}],
     "k": "occipitomental diameter"
   },
   {
@@ -785,7 +785,7 @@
   },
   {
     "h": "occlusion curve",
-    "segs": [{"k": "m", "t": "Ðường cong khớp cắn."}],
+    "segs": [{"k": "m", "t": "Đường cong khớp cắn."}],
     "k": "occlusion curve"
   },
   {
@@ -866,7 +866,7 @@
     "k": "occult mineral"
   },
   {"h": "occult occlusion", "segs": [{"k": "m", "t": "Huyền bí."}], "k": "occult occlusion"},
-  {"h": "occult tail", "segs": [{"k": "m", "t": "Ðuôi ẩn."}], "k": "occult tail"},
+  {"h": "occult tail", "segs": [{"k": "m", "t": "Đuôi ẩn."}], "k": "occult tail"},
   {
     "h": "occultation",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sự che khuất, sự che lấp."}],
@@ -1662,7 +1662,7 @@
       {"k": "ex", "t": "an ocean voyage", "vi": "cuộc hành trình trên đại dương"},
       {"k": "m", "t": "khoảng mênh mông (cỏ...)"},
       {"k": "m", "t": "một trong những khu vực chính phân chia khối nước đó"},
-      {"k": "ex", "t": "the Atlantic/Pacific ... ocean", "vi": "Ðại Tây Dương, Thái Bình Dương..."},
+      {"k": "ex", "t": "the Atlantic/Pacific ... ocean", "vi": "Đại Tây Dương, Thái Bình Dương..."},
       {"k": "m", "t": "a drop in the bucket/ocean"},
       {"k": "ex", "t": "ocean of sth", "vi": "vô vàn, vô khối, vô thiên lủng"},
       {
@@ -2078,7 +2078,7 @@
   },
   {
     "h": "Oceania",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "châu Ðại Dương."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "châu Đại Dương."}],
     "ipa": "ouʃi'einiə",
     "k": "oceania"
   },
@@ -2086,9 +2086,9 @@
     "h": "oceanian",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) châu Ðại Dương"},
+      {"k": "m", "t": "(thuộc) châu Đại Dương"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người châu Ðại Dương."}
+      {"k": "m", "t": "người châu Đại Dương."}
     ],
     "ipa": ",ouʃieinjən",
     "k": "oceanian"
@@ -3243,7 +3243,7 @@
   },
   {
     "h": "octarius",
-    "segs": [{"k": "m", "t": "Ðợn vị đo lường bằng 1 pin (0,57 lít ở Anh, 0,47 lít ở Mỹ)."}],
+    "segs": [{"k": "m", "t": "Đợn vị đo lường bằng 1 pin (0,57 lít ở Anh, 0,47 lít ở Mỹ)."}],
     "k": "octarius"
   },
   {
@@ -3465,7 +3465,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(toán học)"},
-      {"k": "m", "t": "(Anh-Ðức) một triệu lũy thừa 8"},
+      {"k": "m", "t": "(Anh-Đức) một triệu lũy thừa 8"},
       {"k": "m", "t": "(Mỹ-Pháp) một nghìn lũy thừa 9."}
     ],
     "ipa": "ɔk'tiljən",
@@ -3945,7 +3945,7 @@
     "k": "ocular hypotelorism"
   },
   {"h": "ocular lens", "segs": [{"k": "m", "t": "thị kính."}], "k": "ocular lens"},
-  {"h": "ocular line", "segs": [{"k": "m", "t": "Ðường mắt-gò má."}], "k": "ocular line"},
+  {"h": "ocular line", "segs": [{"k": "m", "t": "Đường mắt-gò má."}], "k": "ocular line"},
   {"h": "ocular muscle", "segs": [{"k": "m", "t": "Cơ mắt, cơ hốc mắt."}], "k": "ocular muscle"},
   {"h": "ocular myiasis", "segs": [{"k": "m", "t": "(chứng) giòi mắt."}], "k": "ocular myiasis"},
   {"h": "ocular mylasis", "segs": [{"k": "m", "t": "chứng giòi mắt."}], "k": "ocular mylasis"},
@@ -4132,7 +4132,7 @@
   {"h": "oculozygomatic", "segs": [{"k": "m", "t": "(thuộc) mắt-gò má."}], "k": "oculozygomatic"},
   {
     "h": "oculozygomatytic line",
-    "segs": [{"k": "m", "t": "Ðường mắt-gò má."}],
+    "segs": [{"k": "m", "t": "Đường mắt-gò má."}],
     "k": "oculozygomatytic line"
   },
   {

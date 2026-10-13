@@ -67,7 +67,7 @@
       ["Tối nay mẹ sẽ về nhà trễ.", "Sau khi tan sở mẹ phải di thăm bà."],
       ["Mấy giờ mẹ sẽ về?"],
       ["ăn tối xong mẹ sẽ về.", "Mẹ rất tiếc, nhưng con sẽ phải tự nấu bữa tối."],
-      ["Ðược ạ."],
+      ["Được ạ."],
       [
         "Gạo ở trong chạn",
         "nhưng con phải tự đi chợ",
@@ -102,7 +102,7 @@
     ],
     "vi": [
       ["Thực hành bài hội thoại với một bạn."],
-      ["Ðọc lại bài hội thoại.", "Hoàn tất danh sách những việc Nam phải làm."],
+      ["Đọc lại bài hội thoại.", "Hoàn tất danh sách những việc Nam phải làm."],
       ["nấu bữa tối"],
       ["đi chợ"],
       ["mua một ít cá và rau"],
@@ -138,7 +138,7 @@
       ["Trái cây ở trong tô."],
       ["Cái đĩa ở trên bàn."],
       ["Tủ lạnh ở góc bếp, cạnh cửa ra vào."],
-      ["Ðồng hồ ở trên tường trên tủ lạnh."],
+      ["Đồng hồ ở trên tường trên tủ lạnh."],
       ["Bếp lò ở cạnh bồn rửa bát."],
       ["Tấm lịch ở trên tường, dưới cái đồng hồ."],
       ["Nồi, xoong và chảo ở trên tường, trên bếp lò."],
@@ -182,16 +182,16 @@
         "Các bạn phải có được sự thống nhất với nhau."
       ],
       ["Chúng ta hãy đặt ghế bành đối diện ghế xô-pha."],
-      ["Ðược. Và tôi cho rằng chúng ta nên đặt tấm thảm ở giữa ghế bành và ghế xô-pha."],
+      ["Được. Và tôi cho rằng chúng ta nên đặt tấm thảm ở giữa ghế bành và ghế xô-pha."],
       ["Chúng ta hãy đặt ghế xô-pha dựa vào tường."],
-      ["Ðược. Và tôi cho rằng chúng ta nên đặt tấm đệm lên ghế xô-pha."],
+      ["Được. Và tôi cho rằng chúng ta nên đặt tấm đệm lên ghế xô-pha."],
       ["Chúng ta nên đặt chiếc ghế bành đối diện với ghế xô-pha."],
       ["ừ", "Tôi nghĩ chúng ta nên đặt chiếc bàn thấp ở giữa ghế xô- pha và ghế bành."],
       ["Tôi nghĩ tấm thảm nên được đặt trước ghế xô-pha."],
       ["Chúng ta hãy đặt chiếc kệ ở góc đối diện ghế xô-pha."],
       ["Vâng. Tôi nghĩ chúng ta nên đặt tivi, máy cassette và tạp chí lên kệ."],
       ["Chúng ta hãy treo bức tranh bên trên ghế xô-pha."],
-      ["Ðược. Và chiếc đồng hồ nên treo ở bức tường đối diện."]
+      ["Được. Và chiếc đồng hồ nên treo ở bức tường đối diện."]
     ],
     "img": "img/readings/1.8.29a.webp",
     "page": "29"
@@ -217,13 +217,13 @@
       ["d) ham and peas"]
     ],
     "vi": [
-      ["Hãy nhìn vào tranh.", "Ðánh dấu những món đúng."],
+      ["Hãy nhìn vào tranh.", "Đánh dấu những món đúng."],
       ["Cho con giúp mẹ nấu bữa tối nhé mẹ?"],
-      ["Ðược rồi."],
+      ["Được rồi."],
       ["Con có thể nấu món \"Cơm chiên Dương Châu\" cho mẹ."],
       ["Dùng cái chảo lớn đó."],
       ["Vâng", "Cho bao nhiêu dầu ăn vào vậy mẹ?"],
-      ["Một chút thôi.", "Ðợi chảo nóng rồi rán tỏi và tiêu xanh."],
+      ["Một chút thôi.", "Đợi chảo nóng rồi rán tỏi và tiêu xanh."],
       ["Bây giờ con cho thịt đùi và đậu vào nhé?"],
       ["ừ", "rồi con cho cơm và một thìa muối vào."],
       ["Ngon tuyệt.", "Mùi thơm ngon quá!"],
@@ -267,7 +267,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Bà Quyên, mẹ của Lan, đang có mặt tại trung tâm cộng đồng địa phương.",
         "Bà đang đọc một trong những tấm áp phích trên tường."
@@ -285,7 +285,7 @@
       ],
       [
         "Bạn phải che các ổ điện lại để trẻ không thử cắm bất cứ thứ gì vào đó.",
-        "Ðiện có thể gây chết người."
+        "Điện có thể gây chết người."
       ],
       [
         "Bạn phải để mọi đồ vật nguy hiểm ngoài tầm tay trẻ.",
@@ -313,15 +313,15 @@
     ],
     "vi": [
       ["Trả lời:"],
-      ["Ðúng hay sai?", "Ðánh dấu (V) vào các ô.", "Sửa lại các câu sai."],
-      ["Ðể thuốc khắp nhà thì an toàn.(F)"],
-      ["Ðể thuốc trong tủ có khóa thì an toàn."],
+      ["Đúng hay sai?", "Đánh dấu (V) vào các ô.", "Sửa lại các câu sai."],
+      ["Để thuốc khắp nhà thì an toàn.(F)"],
+      ["Để thuốc trong tủ có khóa thì an toàn."],
       ["Thuốc có thể trống giống như kẹo.(T)"],
       ["Nhà bếp là nơi thích hợp để chơi đùa.(F)"],
       ["Nhà bếp là nơi nguy hiểm."],
       ["Nghịch một que diêm thì không thể gây hỏa hoạn.(F)"],
       ["Lửa có thể bùng lên với chỉ một que diêm."],
-      ["Ðút dao vào ổ điện thì nguy hiểm.(T)"],
+      ["Đút dao vào ổ điện thì nguy hiểm.(T)"],
       ["Trẻ nhỏ không hiểu rằng nhiều đồ vật trong nhà thì nguy hiểm.(T)"]
     ],
     "img": "img/readings/1.8.31b.webp",
@@ -353,7 +353,7 @@
       ["Tại sao trẻ không được chơi diêm?"],
       ["Vì diêm có thể gây hỏa hoạn."],
       ["Tại sao chúng ta phải che các ổ điện lại?"],
-      ["Vì trẻ có thể cắm thứ gì đó vào ổ điện.", "Ðiện có thể gây chết người."],
+      ["Vì trẻ có thể cắm thứ gì đó vào ổ điện.", "Điện có thể gây chết người."],
       ["Tại sao chúng ta phải để mọi đồ vật nguy hiểm ngoài tầm tay của trẻ?"],
       ["Vì chúng có thể làm bị thương hoặc giết chết trẻ."]
     ],
@@ -381,7 +381,7 @@
       ["Viết"],
       ["Hãy đọc đoạn văn mô tả căn phòng của Hoa."],
       [
-        "Ðây là phòng ngủ của Hoa.",
+        "Đây là phòng ngủ của Hoa.",
         "Phhía bên trái căn phòng có một cái bàn.",
         "Trên bàn có nhiều bìa hồ sơ",
         "và bên trên bàn có một giá sách.",
@@ -415,7 +415,7 @@
     "vi": [
       ["Bây giờ hãy viết bài mô tả căn bếp này."],
       [
-        "Ðây là căn bếp của Hoa.",
+        "Đây là căn bếp của Hoa.",
         "Có một cái tủ lạnh ở góc bên phải căn phòng.",
         "Bên cạnh tủ lạnh có bếp lò và lò nướng.",
         "Phía bên kia lò nướng có bồn rửa bát đĩa",
@@ -423,7 +423,7 @@
         "Giá để bát đĩa thì ở trên quầy (bếp) phía bên phải cửa sổ và bên dưới cái kệ.",
         "Trên kệ và trên quầy bếp bên dưới cửa sổ có các lọ đường, bột và trà.",
         "Giữa bếp có một cái bàn và bốn cái ghế.",
-        "Ðèn chùm được treo bên trên cái bàn và bên dưới đèn chùm là một lọ hoa."
+        "Đèn chùm được treo bên trên cái bàn và bên dưới đèn chùm là một lọ hoa."
       ],
       ["Hãy viết bài mô tả một căn phòng trong nhà bạn.", "Tham khảo các đoạn văn bên trên."]
     ],
@@ -489,7 +489,7 @@
       ],
       ["Cái đó đâu có lâu.", "Còn gì nữa không?"],
       ["Tôi phải vệ sinh hồ cá", "và rồi phải đổ rác.", "Cuối cùng, tôi phải cho chó ăn."],
-      ["Ðược rồi. Chúng ta hãy bắt đầu.", "Rồi chúng ta có thể đi."],
+      ["Được rồi. Chúng ta hãy bắt đầu.", "Rồi chúng ta có thể đi."],
       ["Hoặc:"],
       ["Bạn đi xem phim nhé Lan?"],
       ["Không, tôi phải làm nhiều việc vặt."],
@@ -501,7 +501,7 @@
       ],
       ["Cái đó đâu có lâu.", "Còn gì nữa không?"],
       ["Tôi phải vệ sinh hồ cá", "và rồi phải đổ rác.", "Cuối cùng, tôi phải cho chó ăn."],
-      ["Ðược rồi. Chúng ta hãy bắt đầu.", "Rồi chúng ta có thể đi."]
+      ["Được rồi. Chúng ta hãy bắt đầu.", "Rồi chúng ta có thể đi."]
     ],
     "img": "img/readings/1.8.34a.webp",
     "page": "34"
@@ -573,14 +573,14 @@
       ["Nào.", "Chúng ta phải cố gắng tự sửa thôi."],
       ["Sao vậy, Hoa?"],
       ["Cháu bị đứt tay."],
-      ["Ðưa thím xem nào.", "ồ, không sao.", "Cháu bị đứt không sâu lắm."],
+      ["Đưa thím xem nào.", "ồ, không sao.", "Cháu bị đứt không sâu lắm."],
       ["Nga, sao bạn khóc vậy?"],
       [
         "Tôi vừa xem phim Romeo và Juliet.",
         "Chàng trai tự kết liễu đời mình và sau đó cô gái cũng tự sát."
       ],
       ["Tại sao họ tự sát vậy?"],
-      ["Ðó là cả một câu chuyện dài."],
+      ["Đó là cả một câu chuyện dài."],
       ["Này các em, chiều nay các em sẽ làm thí nghiệm này."],
       ["Thầy sẽ đến giúp chúng em chứ?"],
       ["ừ, thầy sẽ đến.", "Nhưng các em phải tự làm trước đã."]

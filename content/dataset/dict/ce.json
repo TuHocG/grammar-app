@@ -369,7 +369,7 @@
     "h": "cedilla",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "dấu móc dưới chữ c trong tiếng Pháp và tiếng Bồ Ðào Nha"},
+      {"k": "m", "t": "dấu móc dưới chữ c trong tiếng Pháp và tiếng Bồ Đào Nha"},
       {"k": "m", "t": "dấu móc dưới."}
     ],
     "ipa": "si'dilə",
@@ -1289,7 +1289,7 @@
   },
   {
     "h": "celiac plexus",
-    "segs": [{"k": "m", "t": "Ðám rối dương, đá rối tạng."}],
+    "segs": [{"k": "m", "t": "Đám rối dương, đá rối tạng."}],
     "k": "celiac plexus"
   },
   {"h": "celiac trunk", "segs": [{"k": "m", "t": "Thân tạng."}], "k": "celiac trunk"},
@@ -1368,7 +1368,7 @@
   {"h": "celiotomy", "segs": [{"k": "m", "t": "Thủ thuật mở bụng."}], "k": "celiotomy"},
   {
     "h": "celiotomy incision",
-    "segs": [{"k": "m", "t": "Ðường rạch thành bụng (để mở khoang bụng)."}],
+    "segs": [{"k": "m", "t": "Đường rạch thành bụng (để mở khoang bụng)."}],
     "k": "celiotomy incision"
   },
   {
@@ -1723,12 +1723,12 @@
       },
       {
         "k": "m",
-        "t": "Bộ chuyển mạch cell được trình bày trên hình C-2. Ðể ý rằng nó chứa cùng số đầu vào và đầu ra cả hai bên. Bộ chuyển mạch này có thể cung cấp đường đi tận hiến nhất thời từ một cổng đầu vào bất kỳ đến cổng đầu ra bất kỳ."
+        "t": "Bộ chuyển mạch cell được trình bày trên hình C-2. Để ý rằng nó chứa cùng số đầu vào và đầu ra cả hai bên. Bộ chuyển mạch này có thể cung cấp đường đi tận hiến nhất thời từ một cổng đầu vào bất kỳ đến cổng đầu ra bất kỳ."
       },
       {"k": "m", "t": "Hình C-2 Cơ cấu chuyển mạch ATM"},
       {
         "k": "m",
-        "t": "Giả sử một cell cần đi từ cổng vào D và ra ở cổng B. Ðường dẫn qua bộ chuyển mạch tạo nên một mạch có tên chẳng hạn như 110. Mỗi bit ở đây biểu thị hướng mà cell phải đi theo trong từng phần tử chuyển mạch. Trong lần chuyển mạch thứ nhất, bit 1 bên trái cùng biểu thị rằng cell phải đi lên. Trong lần chuyển mạch thứ hai, bit 1 cho thấy phải đi lên một lần nữa. Trong lần chuyển mạch thứ ba, bit 0 cho thấy rằng cell phải đi xuống, và đạt đến cổng đích."
+        "t": "Giả sử một cell cần đi từ cổng vào D và ra ở cổng B. Đường dẫn qua bộ chuyển mạch tạo nên một mạch có tên chẳng hạn như 110. Mỗi bit ở đây biểu thị hướng mà cell phải đi theo trong từng phần tử chuyển mạch. Trong lần chuyển mạch thứ nhất, bit 1 bên trái cùng biểu thị rằng cell phải đi lên. Trong lần chuyển mạch thứ hai, bit 1 cho thấy phải đi lên một lần nữa. Trong lần chuyển mạch thứ ba, bit 0 cho thấy rằng cell phải đi xuống, và đạt đến cổng đích."
       },
       {
         "k": "m",
@@ -2039,7 +2039,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(kinh tế) Ðạo luật Celler-Kefauver: Ban hành ở Mỹ năm 1950 với tư cách là một sửa đổi ÐẠO LUẬT CLAYTON. Mục đích của đạo luật này là tăng cường pháp luật chống lại sự sát nhập phản cạnh tranh."
+        "t": "(kinh tế) Đạo luật Celler-Kefauver: Ban hành ở Mỹ năm 1950 với tư cách là một sửa đổi ĐẠO LUẬT CLAYTON. Mục đích của đạo luật này là tăng cường pháp luật chống lại sự sát nhập phản cạnh tranh."
       }
     ],
     "k": "celler-kefauver act"
@@ -2234,7 +2234,7 @@
       },
       {
         "k": "m",
-        "t": "Các hệ điện thoại di động gồm một đơn vị di động (mobile unit), các trạm cơ sở, và các bộ chuyển mạch. Ðiện thoại di động khác với điện thoại thường ở chỗ nó có bộ gởi và nhận (transceiver-transmitter). Bộ gởi phát các tín hiệu vô tuyến đến một anten ở trạm cơ sở, và bộ nhận thu các tín hiệu vô tuyến từ anten của trạm cơ sở."
+        "t": "Các hệ điện thoại di động gồm một đơn vị di động (mobile unit), các trạm cơ sở, và các bộ chuyển mạch. Điện thoại di động khác với điện thoại thường ở chỗ nó có bộ gởi và nhận (transceiver-transmitter). Bộ gởi phát các tín hiệu vô tuyến đến một anten ở trạm cơ sở, và bộ nhận thu các tín hiệu vô tuyến từ anten của trạm cơ sở."
       },
       {
         "k": "m",
@@ -2252,7 +2252,7 @@
       {"k": "m", "t": "Các hệ thống tín hiệu tương tự"},
       {
         "k": "m",
-        "t": "Hệ thông tin di động đầu tiên ở Mỹ, AMPS (Advanced Mobile Phone Service), được xây dựng vào năm 1983. Ðây là hệ hoàn toàn kiểu tương tự (analog, nghĩa là thoại không được số hóa khi truyền) sử dụng công nghệ FDMA (Frequency Division Multiple Access) để tạo các kênh liên lạc. Một kênh chứa một tần số riêng trong phạm vi băng thông của hệ thống. Hệ AMPS chứa đến 818 cặp kênh (gởi và nhận). Bộ gởi trong mỗi vùng cơ sở có công suất tương đối thấp, vì thế việc truyền không phủ quá nhiều đến các vùng tiếp giáp. Không có vùng cơ sở tiếp giáp nào sử dụng cùng tần số."
+        "t": "Hệ thông tin di động đầu tiên ở Mỹ, AMPS (Advanced Mobile Phone Service), được xây dựng vào năm 1983. Đây là hệ hoàn toàn kiểu tương tự (analog, nghĩa là thoại không được số hóa khi truyền) sử dụng công nghệ FDMA (Frequency Division Multiple Access) để tạo các kênh liên lạc. Một kênh chứa một tần số riêng trong phạm vi băng thông của hệ thống. Hệ AMPS chứa đến 818 cặp kênh (gởi và nhận). Bộ gởi trong mỗi vùng cơ sở có công suất tương đối thấp, vì thế việc truyền không phủ quá nhiều đến các vùng tiếp giáp. Không có vùng cơ sở tiếp giáp nào sử dụng cùng tần số."
       },
       {
         "k": "m",
@@ -2273,7 +2273,7 @@
       },
       {
         "k": "m",
-        "t": "TDMA (Time Division Multiple Access) Ðây là kỹ thuật khe thời gian trong đó mỗi thiết bị trên mạng được cấp phát một khe thời gian riêng biệt để truyền dữ liệu đi. Thời gian cấp phát cho một thiết bị là cố định. Ngay cả khi thiết bị không có gì để truyền, khe thời gian vẫn để dành. TDMA được dùng trong GSM (Global System for Mobile Communications). Nó có 8 kênh chia theo thời gian với tần số 200 kHz. GSM là cơ sở của PCS (Personal Communications Services), một nhóm các dịch vụ có thể làm thay đổi toàn cảnh ngành vô tuyến. Xem mục \"GSM (Global System for Mobile Communications) để biết thêm chi tiết."
+        "t": "TDMA (Time Division Multiple Access) Đây là kỹ thuật khe thời gian trong đó mỗi thiết bị trên mạng được cấp phát một khe thời gian riêng biệt để truyền dữ liệu đi. Thời gian cấp phát cho một thiết bị là cố định. Ngay cả khi thiết bị không có gì để truyền, khe thời gian vẫn để dành. TDMA được dùng trong GSM (Global System for Mobile Communications). Nó có 8 kênh chia theo thời gian với tần số 200 kHz. GSM là cơ sở của PCS (Personal Communications Services), một nhóm các dịch vụ có thể làm thay đổi toàn cảnh ngành vô tuyến. Xem mục \"GSM (Global System for Mobile Communications) để biết thêm chi tiết."
       },
       {"k": "m", "t": "Các chuẩn đang xuất hiện"},
       {
@@ -2286,7 +2286,7 @@
       },
       {
         "k": "m",
-        "t": "Một hệ khác là Iridium. Ðược thành lập vào năm 1998, nó cung cấp các dịch vụ điện thoại vô tuyến bằng cách sử dụng các vệ tinh qũy đạo thấp và các kết nối với hệ điện thoại có sẵn. Người dùng có thể du lịch khắp nơi trên thế giới, và bộ điện thoại cầm tay của họ sẽ cung cấp cho hệ thống về vị trí của họ. Hệ Iridium gồm 66 vệ tinh, trọng lượng khoảng 689kg (1500 pounds), được phóng lên vào qũy đạo tầm thấp ở độ cao 420 hải lý. Dự án vệ tinh tập trung vào các sóng radio trên mặt đất để tạo ra hệ tương tự như hệ thống phân vùng cơ sở. Xem mục \"Iridium Systems\" để biết thêm chi tiết."
+        "t": "Một hệ khác là Iridium. Được thành lập vào năm 1998, nó cung cấp các dịch vụ điện thoại vô tuyến bằng cách sử dụng các vệ tinh qũy đạo thấp và các kết nối với hệ điện thoại có sẵn. Người dùng có thể du lịch khắp nơi trên thế giới, và bộ điện thoại cầm tay của họ sẽ cung cấp cho hệ thống về vị trí của họ. Hệ Iridium gồm 66 vệ tinh, trọng lượng khoảng 689kg (1500 pounds), được phóng lên vào qũy đạo tầm thấp ở độ cao 420 hải lý. Dự án vệ tinh tập trung vào các sóng radio trên mặt đất để tạo ra hệ tương tự như hệ thống phân vùng cơ sở. Xem mục \"Iridium Systems\" để biết thêm chi tiết."
       }
     ],
     "k": "cellular communication systems"
@@ -3057,7 +3057,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Nhà thờ theo phái Thiên Chúa giáo riêng biệt ở Ai Len và ở Anh từ thế kỷ 5 đến thế kỷ 8. Ai Len có lẽ là nước đầu tiên tiếp nhận giáo hội Thiên Chúa giáo từ Anh, nhưng sự phổ biến của giáo hội này đã chỉ thực sự lan rộng vào thế kỷ 5, đặc biệt là dưới thời Patrick (390-460). Trải qua 3 thế kỷ sau đó, Ai Len đã trở thành trung tâm giáo hội Thiên Chúa giáo quan trọng nhất của vùng Tây Bắc Châu Âu. Trong quá trình truyền bá tín ngưỡng ở Scotland, người Ai Len đã đóng vai trò quan trọng, đặc biệt là Columba (521-597), người đã thiết lập nhiều tu viện kể cả một trong những đảo Lona. Ngược lại, giáo hội từ Ai Len cũng có vai trò quan trọng giúp xã hội Anh chuyển hóa vào thế kỷ 7. Một số quốc gia khác như Columbanus (543-615), đã thiết lập tu viện ở Gaul và Bắc Ý. Giáo hội Thiên Chúa giáo quả thực đã đạt được tầm quan trọng đối với công chúng và thể hiện được nét đặc thù. Kiểu sống của tôn giáo này được giáo hóa trong những bài phúc âm và theo phương pháp khổ hạnh để chứng minh sự tồn tại của giáo phái Celtic. Các tín đồ cũng rất nhiệt tình trong công việc truyền thụ đức tin và đa phần hoạt động này tập trung ở các tu viện hơn là ở giáo khu hoặc nhà thờ. Thời kỳ hưng thịnh của giáo phái này có lẽ nhờ vào các tác phẩm văn học vào thế kỷ 8 ca ngợi một lối sống hướng thượng. Dần dần giáo phái Celtic mất đi nét đặc thù của mình và hòa nhập vào Cơ Ðốc giáo của phương Tây. Năm 664, Synod của Whitby đã cho phép La Mã ấn định ngày lễ phục sinh cho Ai Len. Ðồng thời Ai Len và Scotland đã có được một số quyền hành từ La Mã."
+        "t": "Nhà thờ theo phái Thiên Chúa giáo riêng biệt ở Ai Len và ở Anh từ thế kỷ 5 đến thế kỷ 8. Ai Len có lẽ là nước đầu tiên tiếp nhận giáo hội Thiên Chúa giáo từ Anh, nhưng sự phổ biến của giáo hội này đã chỉ thực sự lan rộng vào thế kỷ 5, đặc biệt là dưới thời Patrick (390-460). Trải qua 3 thế kỷ sau đó, Ai Len đã trở thành trung tâm giáo hội Thiên Chúa giáo quan trọng nhất của vùng Tây Bắc Châu Âu. Trong quá trình truyền bá tín ngưỡng ở Scotland, người Ai Len đã đóng vai trò quan trọng, đặc biệt là Columba (521-597), người đã thiết lập nhiều tu viện kể cả một trong những đảo Lona. Ngược lại, giáo hội từ Ai Len cũng có vai trò quan trọng giúp xã hội Anh chuyển hóa vào thế kỷ 7. Một số quốc gia khác như Columbanus (543-615), đã thiết lập tu viện ở Gaul và Bắc Ý. Giáo hội Thiên Chúa giáo quả thực đã đạt được tầm quan trọng đối với công chúng và thể hiện được nét đặc thù. Kiểu sống của tôn giáo này được giáo hóa trong những bài phúc âm và theo phương pháp khổ hạnh để chứng minh sự tồn tại của giáo phái Celtic. Các tín đồ cũng rất nhiệt tình trong công việc truyền thụ đức tin và đa phần hoạt động này tập trung ở các tu viện hơn là ở giáo khu hoặc nhà thờ. Thời kỳ hưng thịnh của giáo phái này có lẽ nhờ vào các tác phẩm văn học vào thế kỷ 8 ca ngợi một lối sống hướng thượng. Dần dần giáo phái Celtic mất đi nét đặc thù của mình và hòa nhập vào Cơ Đốc giáo của phương Tây. Năm 664, Synod của Whitby đã cho phép La Mã ấn định ngày lễ phục sinh cho Ai Len. Đồng thời Ai Len và Scotland đã có được một số quyền hành từ La Mã."
       }
     ],
     "k": "celtic church"
@@ -3121,7 +3121,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Nhóm dân tộc đồng nhất về văn hóa và ngôn ngữ, cư ngụ ở Châu Âu trong thời kỳ đồ đồng. Những dấu vết đầu tiên tìm thấy ở vùng Danube (vào thế kỷ 13 trước Công nguyên). Từ đây, những nhánh của bộ tộc đã lan tỏa đến Galatia ở Châu Á, Gaul (Pháp), Bắc Ý, Galicia và Celtiberia ở Tây Ban Nha và cả những hòn đảo nhỏ ở Anh. Sự sinh trưởng mạnh của dân tộc này có lẽ xảy ra sau năm 800 trước Công nguyên. Họ cướp phá La Mã năm 390, và tấn công vào Delphi khoảng một thế kỷ sau đó. Họ cũng đến những lục địa Châu Á. Họ được chia làm hai nhánh Urnfield Cultures (trước thời kỳ Danubian) và Hallstatt, nhánh thứ ba có lẽ hình thành sau năm 500 trước Công nguyên và vào thế kỷ chuyển tiếp La Tene. Họ là những tay thợ thủ công khéo léo đồng thời cũng là những chiến binh dũng cảm, nhưng thiếu sự liên minh chính trị. Cuối thiên niên kỷ thứ nhất trước Công nguyên, trước sự bành trướng của quân La Mã và các bộ tộc Ðức, dân tộc này chỉ còn lại một ít ở Brittany, Wales, và Ireland."
+        "t": "Nhóm dân tộc đồng nhất về văn hóa và ngôn ngữ, cư ngụ ở Châu Âu trong thời kỳ đồ đồng. Những dấu vết đầu tiên tìm thấy ở vùng Danube (vào thế kỷ 13 trước Công nguyên). Từ đây, những nhánh của bộ tộc đã lan tỏa đến Galatia ở Châu Á, Gaul (Pháp), Bắc Ý, Galicia và Celtiberia ở Tây Ban Nha và cả những hòn đảo nhỏ ở Anh. Sự sinh trưởng mạnh của dân tộc này có lẽ xảy ra sau năm 800 trước Công nguyên. Họ cướp phá La Mã năm 390, và tấn công vào Delphi khoảng một thế kỷ sau đó. Họ cũng đến những lục địa Châu Á. Họ được chia làm hai nhánh Urnfield Cultures (trước thời kỳ Danubian) và Hallstatt, nhánh thứ ba có lẽ hình thành sau năm 500 trước Công nguyên và vào thế kỷ chuyển tiếp La Tene. Họ là những tay thợ thủ công khéo léo đồng thời cũng là những chiến binh dũng cảm, nhưng thiếu sự liên minh chính trị. Cuối thiên niên kỷ thứ nhất trước Công nguyên, trước sự bành trướng của quân La Mã và các bộ tộc Đức, dân tộc này chỉ còn lại một ít ở Brittany, Wales, và Ireland."
       }
     ],
     "k": "celts"
@@ -4335,7 +4335,7 @@
     "k": "cenote"
   },
   {"h": "cenotophobia", "segs": [{"k": "m", "t": "(chứng) sợ cái mới."}], "k": "cenotophobia"},
-  {"h": "cenotoxin", "segs": [{"k": "m", "t": "Ðộc tố của sự mệt."}], "k": "cenotoxin"},
+  {"h": "cenotoxin", "segs": [{"k": "m", "t": "Độc tố của sự mệt."}], "k": "cenotoxin"},
   {
     "h": "cenotypal",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "núi lửa mới"}],
@@ -6085,7 +6085,7 @@
   },
   {
     "h": "centillion",
-    "segs": [{"k": "m", "t": "10600 (Anh, Ðức), 10303 (Mỹ, Pháp)."}],
+    "segs": [{"k": "m", "t": "10600 (Anh, Đức), 10303 (Mỹ, Pháp)."}],
     "k": "centillion"
   },
   {
@@ -6239,7 +6239,7 @@
   },
   {
     "h": "centner",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tạ Ðức (bằng 50kg)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tạ Đức (bằng 50kg)."}],
     "ipa": "'sentnə",
     "k": "centner"
   },
@@ -6288,10 +6288,10 @@
       {
         "k": "ex",
         "t": "Central committee of Vietnamese Communist Party",
-        "vi": "Ban chấp hành trung ương Ðảng cộng sản Việt Nam"
+        "vi": "Ban chấp hành trung ương Đảng cộng sản Việt Nam"
       },
       {"k": "ex", "t": "We live in central", "vi": "London"},
-      {"k": "m", "t": "Chúng tôi sống ở trung tâm Luân Ðôn"},
+      {"k": "m", "t": "Chúng tôi sống ở trung tâm Luân Đôn"},
       {
         "k": "ex",
         "t": "The central plains of North America",
@@ -6366,11 +6366,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cộng Hòa Trung Phi. Ðất nước nằm sâu trong vùng lãnh thổ Châu Phi. Trải dài từ Ðông sang Tây, từ Cameroon đến Sudan và từ Bắc đến Nam. Tức là từ vùng rừng xích đạo ẩm thấp, tiếp giáp với Cộng Hòa dân chủ Congo (Zaire) đến thảo nguyên Savannah thuộc lòng chảo Chad."
+        "t": "Cộng Hòa Trung Phi. Đất nước nằm sâu trong vùng lãnh thổ Châu Phi. Trải dài từ Đông sang Tây, từ Cameroon đến Sudan và từ Bắc đến Nam. Tức là từ vùng rừng xích đạo ẩm thấp, tiếp giáp với Cộng Hòa dân chủ Congo (Zaire) đến thảo nguyên Savannah thuộc lòng chảo Chad."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: nơi đây chủ yếu là những cao nguyên dâng cao dần về phía Tây. Phía Bắc, mặt đất cũng dâng cao, từ đây những con sông theo nhau chảy từ phía Nam đến sông Oubangi, và hình thành đường biên giới phía Nam."
+        "t": "Địa hình: nơi đây chủ yếu là những cao nguyên dâng cao dần về phía Tây. Phía Bắc, mặt đất cũng dâng cao, từ đây những con sông theo nhau chảy từ phía Nam đến sông Oubangi, và hình thành đường biên giới phía Nam."
       },
       {
         "k": "m",
@@ -6378,7 +6378,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: các nhà khảo cổ đã tìm được những chứng cứ cho thấy vùng này đã có người cư ngụ từ thời kỳ đồ đá cũ (khoảng 3 triệu năm trước đây) nhưng không có nhiều dấu vết thể hiện quá trình hoạt động của dân tộc này cho đến thế kỷ 19. Ðất nước này được xem là một phần của hoàng đế Gaoga, triều đại thịnh hành vào thế kỷ 16. Sau đó vùng này bất ngờ trở thành địa điểm buôn nô lệ trong suốt thế kỷ 16, 17, 18. Năm 1889, quân Pháp bắt đầu xâm chiếm vùng này đến năm 1911 họ đã kiểm soát toàn khu vực. Là thuộc địa của Pháp mang tên Ubangi Shari, nó đã trở thành một phần lãnh thổ của Pháp ở Châu Phi. Năm 1958, nó trở thành nước Cộng Hòa ngay trong khối cộng đồng các quốc gia Pháp và giành được độc lập năm 1960. Năm 1976, Jean Bedel Bokassa, được làm tổng thống và mở ra một thời kỳ mới, thế kỷ độc lập dân tộc. Vì quá tàn bạo, ông bị lật đổ vào năm 1979 và đất nước trở lại thể chế Cộng Hòa. Sau một thời kỳ khủng hoảng chính trị, năm 1981 General Kolingba lên nắm quyền. Kế đến, năm 1986 là nhiệm kỳ của tổng thống Kolingba. Sau đó là thời kỳ đất nước đòi hỏi một thể chế đa đảng và nghị viện mới đã được thành lập vào năm 1992. Trong cuộc bầu cử năm 1993, Ange-Felix Patasse trở thành tổng thống và hình thành liên minh chính phủ. Năm 1996, một cuộc đảo chính của quân đội đã gây náo loạn trong suốt một tuần, nhưng quân đội Pháp đã kịp thời dập tắt."
+        "t": "Lịch sử: các nhà khảo cổ đã tìm được những chứng cứ cho thấy vùng này đã có người cư ngụ từ thời kỳ đồ đá cũ (khoảng 3 triệu năm trước đây) nhưng không có nhiều dấu vết thể hiện quá trình hoạt động của dân tộc này cho đến thế kỷ 19. Đất nước này được xem là một phần của hoàng đế Gaoga, triều đại thịnh hành vào thế kỷ 16. Sau đó vùng này bất ngờ trở thành địa điểm buôn nô lệ trong suốt thế kỷ 16, 17, 18. Năm 1889, quân Pháp bắt đầu xâm chiếm vùng này đến năm 1911 họ đã kiểm soát toàn khu vực. Là thuộc địa của Pháp mang tên Ubangi Shari, nó đã trở thành một phần lãnh thổ của Pháp ở Châu Phi. Năm 1958, nó trở thành nước Cộng Hòa ngay trong khối cộng đồng các quốc gia Pháp và giành được độc lập năm 1960. Năm 1976, Jean Bedel Bokassa, được làm tổng thống và mở ra một thời kỳ mới, thế kỷ độc lập dân tộc. Vì quá tàn bạo, ông bị lật đổ vào năm 1979 và đất nước trở lại thể chế Cộng Hòa. Sau một thời kỳ khủng hoảng chính trị, năm 1981 General Kolingba lên nắm quyền. Kế đến, năm 1986 là nhiệm kỳ của tổng thống Kolingba. Sau đó là thời kỳ đất nước đòi hỏi một thể chế đa đảng và nghị viện mới đã được thành lập vào năm 1992. Trong cuộc bầu cử năm 1993, Ange-Felix Patasse trở thành tổng thống và hình thành liên minh chính phủ. Năm 1996, một cuộc đảo chính của quân đội đã gây náo loạn trong suốt một tuần, nhưng quân đội Pháp đã kịp thời dập tắt."
       },
       {"k": "m", "t": "Thủ đô: Bangui."},
       {"k": "m", "t": "Diện tích: 622.436 km2"},
@@ -6386,7 +6386,7 @@
       {"k": "m", "t": "Tiền tệ: 1 CFA franc = 100 centimes."},
       {
         "k": "m",
-        "t": "Tôn giáo: Ðạo truyền thống 60%; Thiên Chúa giáo La Mã 25%; Hồi giáo 9%; Tin Lành 6%."
+        "t": "Tôn giáo: Đạo truyền thống 60%; Thiên Chúa giáo La Mã 25%; Hồi giáo 9%; Tin Lành 6%."
       },
       {"k": "m", "t": "Sắc tộc: Banda 31%; Baya 29%; Mandjia 8,5%."},
       {"k": "m", "t": "Ngôn ngữ: Pháp; Banda; Baya; Sango."},
@@ -6420,7 +6420,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: vùng Trung Mỹ trải dài từ eo đất Tehuantepec, Mexico, về phía Tây Bắc và Panama đến vùng Ðông Nam, nó chia cắt vùng biển Thái Bình Dương từ Caribbean Sea. Những dãy núi chạy dài tạo thành hình xương sống cho đến khi gặp dãy Andes. Hầu hết diện tích này đều chịu ảnh hưởng nghiêm trọng của núi lửa và động đất. Hai hồ lớn của Nicaragua ngăn cách dãy núi. Khí hậu nơi đây thuộc loại nóng, mặc dù lên cao khoảng 760m là tầng không khí thoáng. Những cánh rừng nhiệt đới dày đặc nằm phía sau vùng đầm lầy rừng đước gần bờ biển."
+        "t": "Địa hình: vùng Trung Mỹ trải dài từ eo đất Tehuantepec, Mexico, về phía Tây Bắc và Panama đến vùng Đông Nam, nó chia cắt vùng biển Thái Bình Dương từ Caribbean Sea. Những dãy núi chạy dài tạo thành hình xương sống cho đến khi gặp dãy Andes. Hầu hết diện tích này đều chịu ảnh hưởng nghiêm trọng của núi lửa và động đất. Hai hồ lớn của Nicaragua ngăn cách dãy núi. Khí hậu nơi đây thuộc loại nóng, mặc dù lên cao khoảng 760m là tầng không khí thoáng. Những cánh rừng nhiệt đới dày đặc nằm phía sau vùng đầm lầy rừng đước gần bờ biển."
       },
       {
         "k": "m",
@@ -6428,7 +6428,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Trung Mỹ trung tâm nhiều loại sắc tộc khác nhau vào thời điểm đầu tiên tiếp xúc với Châu Âu từ đầu thế kỷ 16. Nó cũng là sản phẩm của tham vọng bành trướng lãnh thổ của Tây Ban Nha từ Caribbean thuộc Hispaniola và Cuba. Từ năm 1535 đến 1810, ngoại trừ Panama, vùng Trung Mỹ là một phần của Tây Ban Nha cơ sở để xây dựng pháp lý cho thành phố Mexico. Năm 1821, đất nước này giành được độc lập từ Tây Ban Nha sau một thời gian bị sáp nhập (1821-1822) vào lãnh thổ của hoàng đế Agustin de Iturbide. Từ năm 1823 đến 1838 nó trải qua thời kỳ chính trị với các tiểu bang thống nhất vùng Trung Mỹ (Costa Rica, Guatemala, Honduras, Nicaragua, và EI Salvador). Tuy nhiên, điều này chẳng bao lâu đã trở thành nạn nhân của cuộc xung đột giữa các đảng phái chính trị và tôn giáo. Ðến năm 1839, việc thống nhất các đảng phái chính trị đã kết thúc. Quân đội Caudillos đã nổi lên nắm quyền vào thế kỷ 19. Quân đội Mỹ dưới quyền lãnh đạo của William Walker đã xâm chiếm vùng Nicaragua (1855-1857). Quân đội Anh chiếm San Juan del Norte (Grey town) (1848) và quần đảo Bay của Honduras đã làm chủ vùng bờ biển Mosquito để ngăn chặn kế hoạch của Mỹ xây dựng hệ thống kênh. Trong khi Pháp lại áp dụng chiến thuật ngoại giao để giành được quyền xây dựng hệ thống kênh đi qua vùng này. Năm 1951, tổ chức liên bang Trung Mỹ được hình thành để giúp đỡ giải quyết những vấn đề tồn đọng trong khu vực. Tổ chức Kinh tế Châu Mỹ La Tinh, một chi nhánh của hội đồng Liên hiệp quốc đã cổ vũ sự liên kết các chính sách về giá thành sản phẩm, thuế quan và luật thương mại giữa các thành viên trong khối Trung Mỹ trên thị trường tự do."
+        "t": "Lịch sử: Trung Mỹ trung tâm nhiều loại sắc tộc khác nhau vào thời điểm đầu tiên tiếp xúc với Châu Âu từ đầu thế kỷ 16. Nó cũng là sản phẩm của tham vọng bành trướng lãnh thổ của Tây Ban Nha từ Caribbean thuộc Hispaniola và Cuba. Từ năm 1535 đến 1810, ngoại trừ Panama, vùng Trung Mỹ là một phần của Tây Ban Nha cơ sở để xây dựng pháp lý cho thành phố Mexico. Năm 1821, đất nước này giành được độc lập từ Tây Ban Nha sau một thời gian bị sáp nhập (1821-1822) vào lãnh thổ của hoàng đế Agustin de Iturbide. Từ năm 1823 đến 1838 nó trải qua thời kỳ chính trị với các tiểu bang thống nhất vùng Trung Mỹ (Costa Rica, Guatemala, Honduras, Nicaragua, và EI Salvador). Tuy nhiên, điều này chẳng bao lâu đã trở thành nạn nhân của cuộc xung đột giữa các đảng phái chính trị và tôn giáo. Đến năm 1839, việc thống nhất các đảng phái chính trị đã kết thúc. Quân đội Caudillos đã nổi lên nắm quyền vào thế kỷ 19. Quân đội Mỹ dưới quyền lãnh đạo của William Walker đã xâm chiếm vùng Nicaragua (1855-1857). Quân đội Anh chiếm San Juan del Norte (Grey town) (1848) và quần đảo Bay của Honduras đã làm chủ vùng bờ biển Mosquito để ngăn chặn kế hoạch của Mỹ xây dựng hệ thống kênh. Trong khi Pháp lại áp dụng chiến thuật ngoại giao để giành được quyền xây dựng hệ thống kênh đi qua vùng này. Năm 1951, tổ chức liên bang Trung Mỹ được hình thành để giúp đỡ giải quyết những vấn đề tồn đọng trong khu vực. Tổ chức Kinh tế Châu Mỹ La Tinh, một chi nhánh của hội đồng Liên hiệp quốc đã cổ vũ sự liên kết các chính sách về giá thành sản phẩm, thuế quan và luật thương mại giữa các thành viên trong khối Trung Mỹ trên thị trường tự do."
       }
     ],
     "k": "central america"
@@ -6598,7 +6598,7 @@
   },
   {
     "h": "central cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh trung tâm."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh trung tâm."}],
     "k": "central cataract"
   },
   {"h": "central cathode", "segs": [{"k": "m", "t": "ca-tốt trung tâm."}], "k": "central cathode"},
@@ -6821,7 +6821,7 @@
     ],
     "k": "central daylight time"
   },
-  {"h": "central deafness", "segs": [{"k": "m", "t": "Ðiếc trung tâm."}], "k": "central deafness"},
+  {"h": "central deafness", "segs": [{"k": "m", "t": "Điếc trung tâm."}], "k": "central deafness"},
   {
     "h": "central decomposition",
     "segs": [{"k": "m", "t": "sự phân tích trung tâm."}],
@@ -7078,10 +7078,10 @@
   {
     "h": "Central Limit Theorem.",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðịnh lý giới hạn trung tâm."},
+      {"k": "m", "t": "(kinh tế) Định lý giới hạn trung tâm."},
       {
         "k": "m",
-        "t": "Ðịnh lý nói rằng tổng (và trung bình) của một nhóm các biến ngẫu nhiên sẽ tuân theo phân phối chuẩn nếu mẫu chọn đủ lớn, không phụ thuộc vào dạng phân phối mà các biến riêng biệt có."
+        "t": "Định lý nói rằng tổng (và trung bình) của một nhóm các biến ngẫu nhiên sẽ tuân theo phân phối chuẩn nếu mẫu chọn đủ lớn, không phụ thuộc vào dạng phân phối mà các biến riêng biệt có."
       }
     ],
     "k": "central limit theorem."
@@ -7263,14 +7263,14 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tuyến đường xe lửa Hoa Kỳ hình thành từ miền Tây của đường xuyên lục địa. Ðường tàu xuyên Thái Bình Dương được xây dựng bắt đầu từ giao điểm của Sacramento gặp Union Pacific về phía Tây. Với một lực lượng lớn công nhân xây dựng, công ty CPR đã nhanh chóng vượt mọi khó khăn để hoàn thành tuyến đường sắt xuyên lục địa. Họ băng qua Sierras và hướng dọc theo bờ sông Humboldt, vượt qua Nevada để tiến vào Utah, và dừng lại ở mũi Promontory vào ngày 10-5-1869. Nơi đây là điểm đánh dấu chỗ nối của đường ray Union Pacific với phần đường ray còn lại để hoàn thành công trình vĩ đại này. Mặc dù Union Pacific đã nhận được trợ cấp, nhưng ban lãnh đạo CPR, Collis Huntington và Leland Stanford vẫn không đủ kinh phí để chi trả cho hàng triệu mét đất với con số kinh phí xây dựng lên đến 90 tỷ Mỹ kim."
+        "t": "Tuyến đường xe lửa Hoa Kỳ hình thành từ miền Tây của đường xuyên lục địa. Đường tàu xuyên Thái Bình Dương được xây dựng bắt đầu từ giao điểm của Sacramento gặp Union Pacific về phía Tây. Với một lực lượng lớn công nhân xây dựng, công ty CPR đã nhanh chóng vượt mọi khó khăn để hoàn thành tuyến đường sắt xuyên lục địa. Họ băng qua Sierras và hướng dọc theo bờ sông Humboldt, vượt qua Nevada để tiến vào Utah, và dừng lại ở mũi Promontory vào ngày 10-5-1869. Nơi đây là điểm đánh dấu chỗ nối của đường ray Union Pacific với phần đường ray còn lại để hoàn thành công trình vĩ đại này. Mặc dù Union Pacific đã nhận được trợ cấp, nhưng ban lãnh đạo CPR, Collis Huntington và Leland Stanford vẫn không đủ kinh phí để chi trả cho hàng triệu mét đất với con số kinh phí xây dựng lên đến 90 tỷ Mỹ kim."
       }
     ],
     "k": "central pacific railroad"
   },
   {
     "h": "central pain",
-    "segs": [{"k": "m", "t": "Ðau tổn thương trung tâm thần kinh."}],
+    "segs": [{"k": "m", "t": "Đau tổn thương trung tâm thần kinh."}],
     "k": "central pain"
   },
   {
@@ -7293,7 +7293,7 @@
   },
   {
     "h": "Central Party Commissioner",
-    "segs": [{"k": "m", "t": "ủy viên Trung ương Ðảng."}],
+    "segs": [{"k": "m", "t": "ủy viên Trung ương Đảng."}],
     "k": "central party commissioner"
   },
   {
@@ -7470,7 +7470,7 @@
   },
   {
     "h": "central scotoma",
-    "segs": [{"k": "m", "t": "Ðiểm tối trung tâm, ám điểm trung tâm."}],
+    "segs": [{"k": "m", "t": "Điểm tối trung tâm, ám điểm trung tâm."}],
     "k": "central scotoma"
   },
   {"h": "central sector", "segs": [{"k": "m", "t": "khu vực trung tâm."}], "k": "central sector"},
@@ -8145,7 +8145,7 @@
       {"k": "m", "t": "tâm"},
       {"k": "m", "t": "trung tâm"},
       {"k": "ex", "t": "the centre of a circle", "vi": "tâm vòng tròn"},
-      {"k": "ex", "t": "the centre of London", "vi": "trung tâm của Luân Ðôn thương nghiệp"},
+      {"k": "ex", "t": "the centre of London", "vi": "trung tâm của Luân Đôn thương nghiệp"},
       {"k": "ex", "t": "a town centre", "vi": "trung tâm của thành phố"},
       {"k": "ex", "t": "centre of gravity", "vi": "trọng tâm"},
       {"k": "m", "t": "điểm mà sự quan tâm của mọi người đều hướng vào"},
@@ -9927,7 +9927,7 @@
   },
   {
     "h": "centrocecal scotoma",
-    "segs": [{"k": "m", "t": "Ðiểm tối trung tâm điểm mù, ám điểm trung tâm điểm mù."}],
+    "segs": [{"k": "m", "t": "Điểm tối trung tâm điểm mù, ám điểm trung tâm điểm mù."}],
     "k": "centrocecal scotoma"
   },
   {
@@ -10052,7 +10052,7 @@
   },
   {
     "h": "centromere orientation",
-    "segs": [{"k": "m", "t": "Ðịnh hướng tâm động."}],
+    "segs": [{"k": "m", "t": "Định hướng tâm động."}],
     "k": "centromere orientation"
   },
   {
@@ -10142,7 +10142,7 @@
     "ipa": "'sentrəm",
     "k": "centrum"
   },
-  {"h": "centrum commune", "segs": [{"k": "m", "t": "Ðám rối dương."}], "k": "centrum commune"},
+  {"h": "centrum commune", "segs": [{"k": "m", "t": "Đám rối dương."}], "k": "centrum commune"},
   {
     "h": "centrum medianum",
     "segs": [{"k": "m", "t": "Nhân bụng của đồi não."}],
@@ -10366,7 +10366,7 @@
   },
   {
     "h": "cephalic suspension",
-    "segs": [{"k": "m", "t": "Ðiêu trị treo đầu."}],
+    "segs": [{"k": "m", "t": "Điêu trị treo đầu."}],
     "k": "cephalic suspension"
   },
   {"h": "cephalic tetanus", "segs": [{"k": "m", "t": "Uốn ván đầu."}], "k": "cephalic tetanus"},
@@ -10469,7 +10469,7 @@
   },
   {"h": "cephalomeningitis", "segs": [{"k": "m", "t": "Viêm màng não."}], "k": "cephalomeningitis"},
   {"h": "cephalomere", "segs": [{"k": "m", "t": "(sinh học) đốt đầu."}], "k": "cephalomere"},
-  {"h": "cephalometer", "segs": [{"k": "m", "t": "Ðầu kế."}], "k": "cephalometer"},
+  {"h": "cephalometer", "segs": [{"k": "m", "t": "Đầu kế."}], "k": "cephalometer"},
   {
     "h": "cephalometry",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "phép đo đầu."}],
@@ -10497,7 +10497,7 @@
     "ipa": "'sefəloupɔd",
     "k": "cephalopod"
   },
-  {"h": "cephalopoda", "segs": [{"k": "m", "t": "Ðộng vật chân đầu."}], "k": "cephalopoda"},
+  {"h": "cephalopoda", "segs": [{"k": "m", "t": "Động vật chân đầu."}], "k": "cephalopoda"},
   {
     "h": "cephalopodan",
     "segs": [{"k": "ref", "t": "cephalopod"}],
@@ -11394,7 +11394,7 @@
   {"h": "cerebral crisis", "segs": [{"k": "m", "t": "Cơn não."}], "k": "cerebral crisis"},
   {
     "h": "cerebral deafness",
-    "segs": [{"k": "m", "t": "Ðiếc tổn thương não."}],
+    "segs": [{"k": "m", "t": "Điếc tổn thương não."}],
     "k": "cerebral deafness"
   },
   {
@@ -11404,7 +11404,7 @@
   },
   {
     "h": "cerebral diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo tổn thương não."}],
+    "segs": [{"k": "m", "t": "Đái tháo tổn thương não."}],
     "k": "cerebral diabetes"
   },
   {
@@ -11455,7 +11455,7 @@
   },
   {
     "h": "cerebral localization",
-    "segs": [{"k": "m", "t": "Ðịnh vị não."}],
+    "segs": [{"k": "m", "t": "Định vị não."}],
     "k": "cerebral localization"
   },
   {"h": "cerebral macula", "segs": [{"k": "m", "t": "Vết não."}], "k": "cerebral macula"},
@@ -11563,7 +11563,7 @@
     "k": "cerebral-hemisphere"
   },
   {"h": "cerebrale sinus", "segs": [{"k": "m", "t": "não thất."}], "k": "cerebrale sinus"},
-  {"h": "cerebralgia", "segs": [{"k": "m", "t": "Ðau đầu, nhức đầu."}], "k": "cerebralgia"},
+  {"h": "cerebralgia", "segs": [{"k": "m", "t": "Đau đầu, nhức đầu."}], "k": "cerebralgia"},
   {
     "h": "cerebrally",
     "segs": [{"k": "ref", "t": "cerebral"}],
@@ -12130,7 +12130,7 @@
       },
       {
         "k": "m",
-        "t": "Một Proxy server vận hành như một phần mềm trên máy tính và hoạt động thay cho client nhằm tạo ra các yêu cầu bên ngoài mạng của client. Ví dụ, khi người dùng nội bộ tìm cách truy cập vào Internet, proxy server ngăn yêu cầu đó lại và tự tạo yêu cầu cho mình. Người dùng nội bộ không bao giờ gởi trực tiếp yêu cầu đến hệ thống mạng bên ngoài. Tương tự, khi Internet server gởi phản hồi trở lại, proxy server chặn lại sau đó mới chuyển đến người dùng. Proxy Server có thể lọc tất cả các gói dữ liệu vào và bỏ qua những dữ liệu không liên quan đến yêu cầu nội bộ. Ðiều này ngăn được các hacker tấn công các hệ thống bên trong."
+        "t": "Một Proxy server vận hành như một phần mềm trên máy tính và hoạt động thay cho client nhằm tạo ra các yêu cầu bên ngoài mạng của client. Ví dụ, khi người dùng nội bộ tìm cách truy cập vào Internet, proxy server ngăn yêu cầu đó lại và tự tạo yêu cầu cho mình. Người dùng nội bộ không bao giờ gởi trực tiếp yêu cầu đến hệ thống mạng bên ngoài. Tương tự, khi Internet server gởi phản hồi trở lại, proxy server chặn lại sau đó mới chuyển đến người dùng. Proxy Server có thể lọc tất cả các gói dữ liệu vào và bỏ qua những dữ liệu không liên quan đến yêu cầu nội bộ. Điều này ngăn được các hacker tấn công các hệ thống bên trong."
       },
       {
         "k": "m",
@@ -13502,7 +13502,7 @@
   },
   {
     "h": "ceruminous deafness",
-    "segs": [{"k": "m", "t": "Ðiếc nút ráy tai."}],
+    "segs": [{"k": "m", "t": "Điếc nút ráy tai."}],
     "k": "ceruminous deafness"
   },
   {"h": "ceruminous gland", "segs": [{"k": "m", "t": "Tuyến dái tai."}], "k": "ceruminous gland"},
@@ -13568,7 +13568,7 @@
     "segs": [{"k": "m", "t": "(thủ thuật) mở tử cung (cổ)."}],
     "k": "cervical cesarean section"
   },
-  {"h": "cervical disk", "segs": [{"k": "m", "t": "Ðĩa đốt sống cổ."}], "k": "cervical disk"},
+  {"h": "cervical disk", "segs": [{"k": "m", "t": "Đĩa đốt sống cổ."}], "k": "cervical disk"},
   {
     "h": "cervical disk syndrome",
     "segs": [
@@ -13583,7 +13583,7 @@
   {"h": "cervical duct", "segs": [{"k": "m", "t": "ống cổ."}], "k": "cervical duct"},
   {
     "h": "cervical dystocia",
-    "segs": [{"k": "m", "t": "Ðẻ khó cổ tử cung."}],
+    "segs": [{"k": "m", "t": "Đẻ khó cổ tử cung."}],
     "k": "cervical dystocia"
   },
   {"h": "cervical erosion", "segs": [{"k": "m", "t": "Sướt cổ tử cung."}], "k": "cervical erosion"},
@@ -13606,10 +13606,10 @@
     "segs": [{"k": "m", "t": "Liệt hai chi dưới tủy sống cổ."}],
     "k": "cervical paraplegia"
   },
-  {"h": "cervical pleura", "segs": [{"k": "m", "t": "Ðỉnh màng phổi."}], "k": "cervical pleura"},
+  {"h": "cervical pleura", "segs": [{"k": "m", "t": "Đỉnh màng phổi."}], "k": "cervical pleura"},
   {
     "h": "cervical plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh cổ."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh cổ."}],
     "k": "cervical plexus"
   },
   {
@@ -13652,7 +13652,7 @@
     "segs": [{"k": "m", "t": "tĩnh mạch vai sau."}],
     "k": "cervical vein transverse"
   },
-  {"h": "cervical vertebrae", "segs": [{"k": "m", "t": "Ðốt sống cổ."}], "k": "cervical vertebrae"},
+  {"h": "cervical vertebrae", "segs": [{"k": "m", "t": "Đốt sống cổ."}], "k": "cervical vertebrae"},
   {
     "h": "cervicectomy",
     "segs": [{"k": "m", "t": "(thủ thuật) cắt bỏ cổ tử cung."}],
@@ -13686,7 +13686,7 @@
   {"h": "cervicobrachial", "segs": [{"k": "m", "t": "Thuộc cổ-cánh tay."}], "k": "cervicobrachial"},
   {
     "h": "cervicobregmatic diameter",
-    "segs": [{"k": "m", "t": "Ðường kính dưới cằm-thóp trước."}],
+    "segs": [{"k": "m", "t": "Đường kính dưới cằm-thóp trước."}],
     "k": "cervicobregmatic diameter"
   },
   {
@@ -14235,7 +14235,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1826-1884) Vua xứ Zulus (1873-1879). Ông là người đầu tiên tham gia trận đánh chống lại những người Châu Âu năm 1838. Khi cha ông qua đời năm 1872, cuộc chiến giành ngôi báu đã nổ ra. Sáu người anh em của ông đã bị giết cùng với hai người nữa bị đi đày để ông giành được ngôi vị. Triều đại của ông do cận thần Theophilus Shepstone cố vấn. Cetshwayo đã thù ghét đám thuộc hạ của Shepstone người Boer luôn đòi hỏi nhiều yêu sách. Ðiều này đã dẫn đến cuộc chiến tranh Zulu năm 1879, và ông đã đánh thắng quân đội Anh. Tuy nhiên, 8 tháng sau, quân đội Anh đã chiếm đóng thủ đô Ulundi. Cetshwayo bị quản thúc ở London. Năm 1883, một người Anh đã cố gắng giải thoát cho ông nhưng không thành. Ông bị kẻ thù tấn công và phải cải trang làm dân bản xứ để lẩn trốn."
+        "t": "(1826-1884) Vua xứ Zulus (1873-1879). Ông là người đầu tiên tham gia trận đánh chống lại những người Châu Âu năm 1838. Khi cha ông qua đời năm 1872, cuộc chiến giành ngôi báu đã nổ ra. Sáu người anh em của ông đã bị giết cùng với hai người nữa bị đi đày để ông giành được ngôi vị. Triều đại của ông do cận thần Theophilus Shepstone cố vấn. Cetshwayo đã thù ghét đám thuộc hạ của Shepstone người Boer luôn đòi hỏi nhiều yêu sách. Điều này đã dẫn đến cuộc chiến tranh Zulu năm 1879, và ông đã đánh thắng quân đội Anh. Tuy nhiên, 8 tháng sau, quân đội Anh đã chiếm đóng thủ đô Ulundi. Cetshwayo bị quản thúc ở London. Năm 1883, một người Anh đã cố gắng giải thoát cho ông nhưng không thành. Ông bị kẻ thù tấn công và phải cải trang làm dân bản xứ để lẩn trốn."
       }
     ],
     "k": "cetshwayo"

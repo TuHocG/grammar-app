@@ -88,7 +88,7 @@
     {
       "e": 56.37,
       "en": "It's my sister's birthday.",
-      "vi": "Ðó là ngày sinh nhật của em gái mình.",
+      "vi": "Đó là ngày sinh nhật của em gái mình.",
       "s": 55.04
     },
     {
@@ -123,7 +123,7 @@
       "vi": "Vì thế Chủ Nhật sẽ là ngày 22.",
       "s": 70.17
     },
-    {"e": 75.27, "en": "Is that right?", "vi": "Ðược không?", "s": 73.83},
+    {"e": 75.27, "en": "Is that right?", "vi": "Được không?", "s": 73.83},
     {"e": 79.65, "en": "Yes, that's right.", "vi": "Ừ được rồi.", "s": 75.27},
     {
       "e": 82.11,
@@ -245,7 +245,7 @@
       "vi": "Mình đã đi một lần rồi. Khi lần đầu đến Istanbul.",
       "s": 158.85
     },
-    {"e": 163.95, "en": "That was two years ago.", "vi": "Ðó là 2 năm trước đây", "s": 161.97},
+    {"e": 163.95, "en": "That was two years ago.", "vi": "Đó là 2 năm trước đây", "s": 161.97},
     {"e": 165.73, "en": "I had a really good time.", "vi": "lúc đó mình đã rất vui.", "s": 163.95},
     {
       "e": 167.53,
@@ -266,7 +266,7 @@
       "vi": "Và có lẽ nó là ngày nghỉ vào Chủ Nhật.",
       "s": 174.17
     },
-    {"e": 181.21, "en": "Oh, No that's right.", "vi": "Ồ không sao. Ðược mà.", "s": 177.85},
+    {"e": 181.21, "en": "Oh, No that's right.", "vi": "Ồ không sao. Được mà.", "s": 177.85},
     {"e": 182.58, "en": "I should call my mom.", "vi": "Mình nên gọi điện cho mẹ.", "s": 181.21},
     {"e": 185.51, "en": "Did you forget it.", "vi": "Cậu đã quên rồi à.", "s": 182.58},
     {"e": 186.83, "en": "Yes.", "vi": "Ừ.", "s": 185.51},
@@ -315,7 +315,7 @@
     },
     {"e": 212.4, "en": "But this year I forgot.", "vi": "nhưng năm nay mình quên rồi.", "s": 210.4},
     {"e": 215.2, "en": "It was stupid of me.", "vi": "mình có lỗi quá.", "s": 212.4},
-    {"e": 216.9, "en": "Don't worry Jack.", "vi": "Ðừng lo lắng, Jack.", "s": 215.2},
+    {"e": 216.9, "en": "Don't worry Jack.", "vi": "Đừng lo lắng, Jack.", "s": 215.2},
     {
       "e": 219.91,
       "en": "I'm sure she'll be very happy with the phone call too.",

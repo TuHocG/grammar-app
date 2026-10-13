@@ -4,7 +4,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "I (969-1000) vua Na Uy (995-1000). Khi cha chết, ông bị đày sang Novgorod, Nga. Rồi ông lại bị cướp biển áp tải qua Aixơlen và Ai len. Tại đây, ông gia nhập đạo Cơ đốc giáo. Năm 995, ông trở thành vua Na Uy, và thay tôn giáo khác cho đất nước. Sau đó, khi tham gia trận chiến với Ðan Mạch và Thụy Ðiển, ông bị chết đuối trên biển."
+        "t": "I (969-1000) vua Na Uy (995-1000). Khi cha chết, ông bị đày sang Novgorod, Nga. Rồi ông lại bị cướp biển áp tải qua Aixơlen và Ai len. Tại đây, ông gia nhập đạo Cơ đốc giáo. Năm 995, ông trở thành vua Na Uy, và thay tôn giáo khác cho đất nước. Sau đó, khi tham gia trận chiến với Đan Mạch và Thụy Điển, ông bị chết đuối trên biển."
       }
     ],
     "k": "olaf"
@@ -493,7 +493,7 @@
     "h": "Old High German",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Thượng-Ðức cổ (trước thế kỷ 12)."}
+      {"k": "m", "t": "tiếng Thượng-Đức cổ (trước thế kỷ 12)."}
     ],
     "ipa": "ould hai 'dʒə:mn",
     "k": "old high german"
@@ -660,7 +660,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "dt 1. tiếng Ðức từ gốc của tiếng Scandinavia 2. tiếng Bắc Âu và các nước thuộc địa của nó dùng đến thế kỷ thứ 14."
+        "t": "dt 1. tiếng Đức từ gốc của tiếng Scandinavia 2. tiếng Bắc Âu và các nước thuộc địa của nó dùng đến thế kỷ thứ 14."
       }
     ],
     "k": "old norse"
@@ -706,7 +706,7 @@
   },
   {
     "h": "Old Prussian",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tiếng Phổ (Ðức) cổ (ở vùng Ban-tích)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tiếng Phổ (Đức) cổ (ở vùng Ban-tích)."}],
     "ipa": "ould 'prʌʃiən",
     "k": "old prussian"
   },
@@ -757,7 +757,7 @@
     "h": "Old Saxon",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Xắc-xông cổ nói ở đông bắc Ðức thế kỷ 12."}
+      {"k": "m", "t": "tiếng Xắc-xông cổ nói ở đông bắc Đức thế kỷ 12."}
     ],
     "ipa": "ould 'sæksən",
     "k": "old saxon"
@@ -1795,7 +1795,7 @@
   },
   {
     "h": "oleochrysotherapy",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng dung dịch dầu muối vàng."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng dung dịch dầu muối vàng."}],
     "k": "oleochrysotherapy"
   },
   {"h": "oleogenous yeast", "segs": [{"k": "m", "t": "nấm men có dầu."}], "k": "oleogenous yeast"},
@@ -2138,7 +2138,7 @@
     "k": "olfactory hallucinatlon"
   },
   {"h": "olfactory isiand", "segs": [{"k": "m", "t": "đảo khứu."}], "k": "olfactory isiand"},
-  {"h": "olfactory island", "segs": [{"k": "m", "t": "Ðảo khứu."}], "k": "olfactory island"},
+  {"h": "olfactory island", "segs": [{"k": "m", "t": "Đảo khứu."}], "k": "olfactory island"},
   {"h": "olfactory lobe", "segs": [{"k": "m", "t": "Thùy khứu."}], "k": "olfactory lobe"},
   {"h": "olfactory membrane", "segs": [{"k": "m", "t": "Màng khứu."}], "k": "olfactory membrane"},
   {
@@ -2179,7 +2179,7 @@
   {"h": "olfactory trigone", "segs": [{"k": "m", "t": "Tam giác khứu."}], "k": "olfactory trigone"},
   {"h": "olfactory tubercle", "segs": [{"k": "m", "t": "Củ khứu."}], "k": "olfactory tubercle"},
   {"h": "olfactory vesicle", "segs": [{"k": "m", "t": "túi khứu giác."}], "k": "olfactory vesicle"},
-  {"h": "olfactus", "segs": [{"k": "m", "t": "Ðơn vị khứu lực."}], "k": "olfactus"},
+  {"h": "olfactus", "segs": [{"k": "m", "t": "Đơn vị khứu lực."}], "k": "olfactus"},
   {"h": "olfacty", "segs": [{"k": "m", "t": "Onfacti."}], "k": "olfacty"},
   {
     "h": "olgo-erythrocythemia",
@@ -3258,7 +3258,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "đại hội thi đấu thể thao Ôlempích hiện đại"},
       {"k": "ex", "t": "The 21st Olympiad took place in", "vi": "Montreal"},
-      {"k": "m", "t": "Ðại hội Ôlempích thứ 21 diễn ra ở Montreal."}
+      {"k": "m", "t": "Đại hội Ôlempích thứ 21 diễn ra ở Montreal."}
     ],
     "ipa": "ə'limpiæd",
     "k": "olympiad"
@@ -3303,14 +3303,14 @@
     "segs": [
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "(thuộc) đại hội Ô-lem-pích"},
-      {"k": "ex", "t": "an Olympic athlete", "vi": "lực sĩ của Ðại hội Ô-lem-pích"},
+      {"k": "ex", "t": "an Olympic athlete", "vi": "lực sĩ của Đại hội Ô-lem-pích"},
       {
         "k": "ex",
         "t": "she has broken the Olympic 5000 metres record",
-        "vi": "cô ấy đã phá kỷ lục 5000 mét ở Ðại hội Ô-lem-pích"
+        "vi": "cô ấy đã phá kỷ lục 5000 mét ở Đại hội Ô-lem-pích"
       },
-      {"k": "ex", "t": "the Olympic Games", "vi": "Ðại hội thể thao Ô-lem-pích (cổ Hy Lạp)"},
-      {"k": "m", "t": "Ðại hội thể thao quốc tế Ô-lem-pích (cũng)"},
+      {"k": "ex", "t": "the Olympic Games", "vi": "Đại hội thể thao Ô-lem-pích (cổ Hy Lạp)"},
+      {"k": "m", "t": "Đại hội thể thao quốc tế Ô-lem-pích (cũng)"},
       {"k": "ex", "t": "the Olympics", "vi": "."}
     ],
     "ipa": "ə'limpik",

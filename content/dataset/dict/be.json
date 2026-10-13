@@ -108,12 +108,12 @@
       {
         "k": "ex",
         "t": "When you're in San Francisco, see the Golden Gate Bridge. It's a must:",
-        "vi": "Khi bạn ở San Francisco, hãy đi xem cầu Golden Gate. Ðó là cái cần phải xem."
+        "vi": "Khi bạn ở San Francisco, hãy đi xem cầu Golden Gate. Đó là cái cần phải xem."
       },
       {
         "k": "ex",
         "t": "It's a must that you brush your teeth after every meal:",
-        "vi": "Ðiều bạn phải làm là đánh răng sau mỗi bữa ăn."
+        "vi": "Điều bạn phải làm là đánh răng sau mỗi bữa ăn."
       }
     ],
     "k": "be a must"
@@ -125,7 +125,7 @@
       {
         "k": "ex",
         "t": "It's eight o'clock, and it's time I was about my homework:",
-        "vi": "Ðã là 8 giờ và đó là giờ tôi bận làm bài tập ở nhà."
+        "vi": "Đã là 8 giờ và đó là giờ tôi bận làm bài tập ở nhà."
       },
       {
         "k": "ex",
@@ -415,12 +415,12 @@
       {
         "k": "ex",
         "t": "Oh! I'm afraid that this meat is off. Don't eat it:",
-        "vi": "Ồ! Tôi e rằng thịt này hư rồi. Ðừng ăn."
+        "vi": "Ồ! Tôi e rằng thịt này hư rồi. Đừng ăn."
       },
       {
         "k": "ex",
         "t": "I don't have the exact time. My watch is off:",
-        "vi": "Tôi không có giờ chính xác. Ðồng hồ của tôi bị hư rồi."
+        "vi": "Tôi không có giờ chính xác. Đồng hồ của tôi bị hư rồi."
       },
       {"k": "m", "t": "2. rời đây đi; khởi hành."},
       {"k": "ex", "t": "Well, I must be off. Good-bye:", "vi": "Thôi, tôi phải đi đây. Tạm biệt."},
@@ -444,7 +444,7 @@
       {
         "k": "ex",
         "t": "That's a silly idea. It's old hat:",
-        "vi": "Ðó là một ý tưởng ngốc nghếch. Ý tưởng đó lạc hậu."
+        "vi": "Đó là một ý tưởng ngốc nghếch. Ý tưởng đó lạc hậu."
       },
       {
         "k": "ex",
@@ -1642,7 +1642,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Dân tộc cư trú ở phía Tây Châu Âu cuối thời kỳ đồ đá (2600-2200 trước Công nguyên). Họ đã tạo ra những kiểu bình mới lạ với những nét hoa văn độc đáo. Nhiều vật dụng có hình dạng như một cái chuông lật ngược, có hoặc không có tay cầm và được trang trí những nét hoa văn độc đáo. Kiểu bình của người Beaker có lẽ phát triển ở vùng hạ lưu sông Rhine. Ðây cũng là tài sản của người đã chết và được chôn theo những ngôi mộ của nam giới cùng với binh khí của chủ nhân như một con dao bằng đồng hoặc một chiếc cung tên thời cổ. Nghệ thuật điêu khắc vào giai đoạn này đã được phổ biến rộng rãi từ phía Tây Ðịa Trung Hải đến phía Bắc Ðức và lan sang Bồ Ðào Nha và vùng trung tâm Châu Âu. Tất cả nhằm phô trương sự nghiệp và tài sản của người chết bắt nguồn từ tập tục của dân tộc vùng trung tâm Châu Âu. Hiện vật tìm thấy bao gồm những đồ vật bằng đồng, tượng ngựa chiến cùng một số tài sản được chôn theo ngôi mộ theo nghi lễ mai táng của thời kỳ đồ đá."
+        "t": "Dân tộc cư trú ở phía Tây Châu Âu cuối thời kỳ đồ đá (2600-2200 trước Công nguyên). Họ đã tạo ra những kiểu bình mới lạ với những nét hoa văn độc đáo. Nhiều vật dụng có hình dạng như một cái chuông lật ngược, có hoặc không có tay cầm và được trang trí những nét hoa văn độc đáo. Kiểu bình của người Beaker có lẽ phát triển ở vùng hạ lưu sông Rhine. Đây cũng là tài sản của người đã chết và được chôn theo những ngôi mộ của nam giới cùng với binh khí của chủ nhân như một con dao bằng đồng hoặc một chiếc cung tên thời cổ. Nghệ thuật điêu khắc vào giai đoạn này đã được phổ biến rộng rãi từ phía Tây Địa Trung Hải đến phía Bắc Đức và lan sang Bồ Đào Nha và vùng trung tâm Châu Âu. Tất cả nhằm phô trương sự nghiệp và tài sản của người chết bắt nguồn từ tập tục của dân tộc vùng trung tâm Châu Âu. Hiện vật tìm thấy bao gồm những đồ vật bằng đồng, tượng ngựa chiến cùng một số tài sản được chôn theo ngôi mộ theo nghi lễ mai táng của thời kỳ đồ đá."
       }
     ],
     "k": "beaker cultures"
@@ -2994,7 +2994,7 @@
       {"k": "m", "t": "con gấu"},
       {"k": "m", "t": "người thô lỗ, người thô tục"},
       {"k": "m", "t": "(thiên) chòm sao gấu"},
-      {"k": "ex", "t": "the Great Bear", "vi": "chòm sao Gấu lớn, chòm sao Ðại hùng"},
+      {"k": "ex", "t": "the Great Bear", "vi": "chòm sao Gấu lớn, chòm sao Đại hùng"},
       {
         "k": "ex",
         "t": "to be a bear for punishment",
@@ -3195,7 +3195,7 @@
       {
         "k": "ex",
         "t": "It's a very bad disease, but I'll bear my cross:",
-        "vi": "Ðó là một căn bệnh rất tệ hại, nhưng tôi phải chịu đựng thôi."
+        "vi": "Đó là một căn bệnh rất tệ hại, nhưng tôi phải chịu đựng thôi."
       },
       {
         "k": "ex",
@@ -3311,7 +3311,7 @@
       {
         "k": "ex",
         "t": "This is a very serious disease and it will bear watching for further developments:",
-        "vi": "Ðây là một căn bệnh rất hiểm nghèo và nó đáng được theo dõi xem nó có phát triển gì thêm."
+        "vi": "Đây là một căn bệnh rất hiểm nghèo và nó đáng được theo dõi xem nó có phát triển gì thêm."
       }
     ],
     "k": "bear watching"
@@ -5044,7 +5044,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thoát khỏi bị kết tội và bị trừng phạt (Ðối với một tội phạm). (tiếng lóng đặc biệt là tiếng lóng về tội phạm.)"
+        "t": "thoát khỏi bị kết tội và bị trừng phạt (Đối với một tội phạm). (tiếng lóng đặc biệt là tiếng lóng về tội phạm.)"
       },
       {
         "k": "ex",
@@ -5414,7 +5414,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một gia đình Anh thuộc con cháu của ba người con của dòng họ John Gaunt (người con thứ tư là Edward III) và Katherine Swynford. Những đứa con của họ được pháp luật công nhận năm 1907 nhưng ngoại trừ việc kế thừa bất cứ triều đại nào. Cha của họ và người anh họ Henry IV đã để lại một gia sản kếch xù. Thomas trở thành Công tước của vùng Exeter, John trở thành Ðô Ðốc còn Henry là giám mục giáo xứ Winchester và sau đó trở thành ứng cử viên giáo hội. Trong cương vị một người có thế lực chính trị, ông cầm đầu nghị viện chống lại Humphrey, Công tước Gloucester. Gia đình Yorkists không có thiện cảm với gia đình Beauford và đến năm 1471 toàn bộ cháu của Somerset đã bị tử trận. Vì thế dòng họ này trở nên tuyệt tự."
+        "t": "Một gia đình Anh thuộc con cháu của ba người con của dòng họ John Gaunt (người con thứ tư là Edward III) và Katherine Swynford. Những đứa con của họ được pháp luật công nhận năm 1907 nhưng ngoại trừ việc kế thừa bất cứ triều đại nào. Cha của họ và người anh họ Henry IV đã để lại một gia sản kếch xù. Thomas trở thành Công tước của vùng Exeter, John trở thành Đô Đốc còn Henry là giám mục giáo xứ Winchester và sau đó trở thành ứng cử viên giáo hội. Trong cương vị một người có thế lực chính trị, ông cầm đầu nghị viện chống lại Humphrey, Công tước Gloucester. Gia đình Yorkists không có thiện cảm với gia đình Beauford và đến năm 1471 toàn bộ cháu của Somerset đã bị tử trận. Vì thế dòng họ này trở nên tuyệt tự."
       }
     ],
     "k": "beaufort"
@@ -6244,7 +6244,7 @@
         "t": "he has a mug of cocoa before bed",
         "vi": "nó uống một chén ca cao trước khi đi ngủ"
       },
-      {"k": "ex", "t": "It's time for bed", "vi": "Ðã đến giờ đi ngủ"},
+      {"k": "ex", "t": "It's time for bed", "vi": "Đã đến giờ đi ngủ"},
       {"k": "m", "t": "cái đệm"},
       {"k": "ex", "t": "a feather bed", "vi": "cái đệm nhồi lông chim"},
       {"k": "ex", "t": "a spring bed", "vi": "cái giường lò xo"},
@@ -7793,7 +7793,7 @@
   },
   {
     "h": "bee-venom treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng nọc ong."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng nọc ong."}],
     "k": "bee-venom treatment"
   },
   {
@@ -8009,7 +8009,7 @@
       {
         "k": "ex",
         "t": "Okay, let's beef up the opening song. Please, everyone, sing louder:",
-        "vi": "Ðược lắm chúng ta hãy tăng cường cho bài hát mở màn. Xin mọi người vui lòng hát to lên!"
+        "vi": "Được lắm chúng ta hãy tăng cường cho bài hát mở màn. Xin mọi người vui lòng hát to lên!"
       }
     ],
     "k": "beef something up"
@@ -8113,7 +8113,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "người thích ăn thịt bò"},
-      {"k": "m", "t": "người canh gác tháp Luân Ðôn"},
+      {"k": "m", "t": "người canh gác tháp Luân Đôn"},
       {"k": "m", "t": "(Mỹ) người to béo lực lưỡng."}
     ],
     "ipa": "'bi:fi:tə",
@@ -8717,7 +8717,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sân kho củ cải đường"}],
     "k": "beet storage platform"
   },
-  {"h": "beet sugar", "segs": [{"k": "m", "t": "Ðường củ cải."}], "k": "beet sugar"},
+  {"h": "beet sugar", "segs": [{"k": "m", "t": "Đường củ cải."}], "k": "beet sugar"},
   {
     "h": "beet sugar factory",
     "segs": [{"k": "m", "t": "nhà máy đường củ cải."}],
@@ -9227,7 +9227,7 @@
       {
         "k": "ex",
         "t": "Your proposal begs the question whether a change is needed at all",
-        "vi": "Ðề nghị của ông không hề đề cập đến vấn đề có cần một sự thay đổi hay không"
+        "vi": "Đề nghị của ông không hề đề cập đến vấn đề có cần một sự thay đổi hay không"
       },
       {"k": "ex", "t": "to beg somebody off", "vi": "xin cho ai được thứ lỗi hoặc được tha"},
       {"k": "ex", "t": "to beg off", "vi": "xin được thứ lỗi để khỏi làm cái gì"},
@@ -9814,7 +9814,7 @@
         "t": "The legal guardian must act on behalf of the child",
         "vi": "Người giám hộ phải hành động vì lợi ích của đứa trẻ"
       },
-      {"k": "ex", "t": "Don't be uneasy on my behalf", "vi": "Ðừng băn khoăn về phần tôi."}
+      {"k": "ex", "t": "Don't be uneasy on my behalf", "vi": "Đừng băn khoăn về phần tôi."}
     ],
     "ipa": "bi'ha:f",
     "k": "behalf",
@@ -10435,7 +10435,7 @@
       {"k": "m", "t": "bản chất"},
       {"k": "m", "t": "thể chất (con người)"},
       {"k": "m", "t": "to come into being (xem) come"},
-      {"k": "ex", "t": "the Supreme Being", "vi": "đấng chí tôn Thượng Ðế"},
+      {"k": "ex", "t": "the Supreme Being", "vi": "đấng chí tôn Thượng Đế"},
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "hiện tại, hiện nay"},
       {"k": "ex", "t": "for the time being", "vi": "trong thời gian hiện nay, trong thời gian này."}
@@ -10870,7 +10870,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bộ lạc Celtic và Ðức, cư ngụ ở cửa sông Rhine, một vùng đất thấp thuộc miền Ðông Bắc nước Pháp. Trong suốt thế kỷ cuối cùng trước Công nguyên, người Belgae cư ngụ ở miền Nam Britain. Họ đã đứng lên chống lại cuộc xâm lược của Britain năm 43 sau Công nguyên, đặc biệt tại vùng Catuvellauni dưới thời Caratacus."
+        "t": "Bộ lạc Celtic và Đức, cư ngụ ở cửa sông Rhine, một vùng đất thấp thuộc miền Đông Bắc nước Pháp. Trong suốt thế kỷ cuối cùng trước Công nguyên, người Belgae cư ngụ ở miền Nam Britain. Họ đã đứng lên chống lại cuộc xâm lược của Britain năm 43 sau Công nguyên, đặc biệt tại vùng Catuvellauni dưới thời Caratacus."
       }
     ],
     "k": "belgae"
@@ -10979,11 +10979,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Nước Bỉ. Ðất nước nằm ở phía Ðông Bắc Châu Âu vùng biển Bắc. Nó được bao quanh bởi các nước Hà Lan, Ðức, Luxembourg, Pháp."
+        "t": "Nước Bỉ. Đất nước nằm ở phía Đông Bắc Châu Âu vùng biển Bắc. Nó được bao quanh bởi các nước Hà Lan, Đức, Luxembourg, Pháp."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: vùng bờ biển bao gồm những bãi cát trải dài và rộng giáp với những đụn cát chắn sau lưng. Nằm sâu trong nội địa là hệ thống sông ngòi chằng chịt, ngang qua cánh đồng Flanders màu mỡ và hướng từ Ðông Bắc đến Hà Lan. Càng về phía Ðông Nam, mặt đất càng dâng cao cho đến vùng cao nguyên Ardennes. Nơi đây, đất đai cằn cỗi và dần biến đổi thành rừng. Vùng mỏ than Campine nằm ở phía Ðông."
+        "t": "Địa hình: vùng bờ biển bao gồm những bãi cát trải dài và rộng giáp với những đụn cát chắn sau lưng. Nằm sâu trong nội địa là hệ thống sông ngòi chằng chịt, ngang qua cánh đồng Flanders màu mỡ và hướng từ Đông Bắc đến Hà Lan. Càng về phía Đông Nam, mặt đất càng dâng cao cho đến vùng cao nguyên Ardennes. Nơi đây, đất đai cằn cỗi và dần biến đổi thành rừng. Vùng mỏ than Campine nằm ở phía Đông."
       },
       {
         "k": "m",
@@ -10991,15 +10991,15 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Cái tên Belgium được lấy từ chữ BELGAE, tên của một trong những bộ lạc cổ Gaul. Nhưng đến thế kỷ thứ 5, dân di cư từ miền Bắc đã tràn vào làm tăng thêm dân số Ðức. Sau nhiều thế kỷ dưới triều Franks, đất nước chia làm hai lãnh địa độc lập và đặc biệt là Flanders, một thị trấn tự do thương mại. Ðến thế kỷ 15, những gì thuộc về Bỉ đã trở thành một phần của lãnh thổ dưới quyền cai quản của Công tước Burgundy, nhưng một số vùng đất thấp, năm 1477 đã chuyển giao cho hoàng đế Habsburg ở Maximilian I sau một cuộc hôn nhân. Sau đó lãnh thổ rơi vào tay hoàng đế Tây Ban Nha và đến năm 1713 tới lượt Áo trị vì. Năm 1795, Bỉ rơi vào tay Pháp trong suốt thời gian diễn ra cuộc cách mạng Pháp."
+        "t": "Lịch sử: Cái tên Belgium được lấy từ chữ BELGAE, tên của một trong những bộ lạc cổ Gaul. Nhưng đến thế kỷ thứ 5, dân di cư từ miền Bắc đã tràn vào làm tăng thêm dân số Đức. Sau nhiều thế kỷ dưới triều Franks, đất nước chia làm hai lãnh địa độc lập và đặc biệt là Flanders, một thị trấn tự do thương mại. Đến thế kỷ 15, những gì thuộc về Bỉ đã trở thành một phần của lãnh thổ dưới quyền cai quản của Công tước Burgundy, nhưng một số vùng đất thấp, năm 1477 đã chuyển giao cho hoàng đế Habsburg ở Maximilian I sau một cuộc hôn nhân. Sau đó lãnh thổ rơi vào tay hoàng đế Tây Ban Nha và đến năm 1713 tới lượt Áo trị vì. Năm 1795, Bỉ rơi vào tay Pháp trong suốt thời gian diễn ra cuộc cách mạng Pháp."
       },
       {
         "k": "m",
-        "t": "Sau thất bại của Napoleon, Bỉ trở thành một trong những tỉnh của Hà Lan năm 1815. Tuy nhiên, năm 1830 nó bị Hà Lan chia cắt bởi cuộc khởi nghĩa và hoàng tử Leopold của Saxe-Coburg lên ngôi. Sau thất bại xâm lược của quân đội Hà Lan, một hiệp ước quốc tế ký kết xác nhận chủ quyền đất nước Bỉ năm 1839. Ðến thế kỷ 19, vua nước Bỉ là Leopold II (1865-1909), đứng đầu tổ chức xã hội quốc tế Congo (1876) theo sau là đoàn thám hiểm sông Congo do H. M. Stanley phụ trách. Tổ chức xã hội này được hội đồng Berlin chấp nhận (1884) và xem Congo là một bang tự do, trong đó Leopold là người nắm giữ quyền hành. Năm 1960, Congo tuyên bố độc lập, nhưng ngay sau đó là những cuộc bạo động và nhiều cuộc giết người xảy ra."
+        "t": "Sau thất bại của Napoleon, Bỉ trở thành một trong những tỉnh của Hà Lan năm 1815. Tuy nhiên, năm 1830 nó bị Hà Lan chia cắt bởi cuộc khởi nghĩa và hoàng tử Leopold của Saxe-Coburg lên ngôi. Sau thất bại xâm lược của quân đội Hà Lan, một hiệp ước quốc tế ký kết xác nhận chủ quyền đất nước Bỉ năm 1839. Đến thế kỷ 19, vua nước Bỉ là Leopold II (1865-1909), đứng đầu tổ chức xã hội quốc tế Congo (1876) theo sau là đoàn thám hiểm sông Congo do H. M. Stanley phụ trách. Tổ chức xã hội này được hội đồng Berlin chấp nhận (1884) và xem Congo là một bang tự do, trong đó Leopold là người nắm giữ quyền hành. Năm 1960, Congo tuyên bố độc lập, nhưng ngay sau đó là những cuộc bạo động và nhiều cuộc giết người xảy ra."
       },
       {
         "k": "m",
-        "t": "Năm 1914, Phát xít Ðức tiến hành xâm lược Bỉ và lan tràn xuống Anh trong chiến tranh thế giới thứ nhất. Ðức thôn tính Bỉ nhưng Albert I (1908-1934) đã thành lập quân đội ở vùng biên giới phía Tây. Năm 1940, khi Ðức xâm lược lần thứ hai, Leopold III (1901-1983) đã vội vã đầu hàng. Tuy nhiên, quân chính phủ đã lưu vong ở Luân Ðôn và tiếp tục cuộc kháng chiến. Sau chiến tranh, Leopold bị buộc phải thoái vị (1915) để nhường ngôi cho con trai của ông là Baudouin (1903-1993). Sau chiến tranh thế giới thứ hai, công việc chính của Bỉ là thống nhất dân tộc phía Bắc và dân tộc Walloons của miền Nam. Năm 1977, hiệp ước hòa bình do thủ tướng Leo Tindemans ký kết xác nhận quyền tự trị của ba vùng Flemings phía Bắc, Walloons phía Nam, và Brussels. Ba vùng này đã thiết lập hội đồng chính phủ năm 1993 và công bố nước Bỉ như một quốc gia liên minh. Năm 1993, vua Baudouin lên ngôi."
+        "t": "Năm 1914, Phát xít Đức tiến hành xâm lược Bỉ và lan tràn xuống Anh trong chiến tranh thế giới thứ nhất. Đức thôn tính Bỉ nhưng Albert I (1908-1934) đã thành lập quân đội ở vùng biên giới phía Tây. Năm 1940, khi Đức xâm lược lần thứ hai, Leopold III (1901-1983) đã vội vã đầu hàng. Tuy nhiên, quân chính phủ đã lưu vong ở Luân Đôn và tiếp tục cuộc kháng chiến. Sau chiến tranh, Leopold bị buộc phải thoái vị (1915) để nhường ngôi cho con trai của ông là Baudouin (1903-1993). Sau chiến tranh thế giới thứ hai, công việc chính của Bỉ là thống nhất dân tộc phía Bắc và dân tộc Walloons của miền Nam. Năm 1977, hiệp ước hòa bình do thủ tướng Leo Tindemans ký kết xác nhận quyền tự trị của ba vùng Flemings phía Bắc, Walloons phía Nam, và Brussels. Ba vùng này đã thiết lập hội đồng chính phủ năm 1993 và công bố nước Bỉ như một quốc gia liên minh. Năm 1993, vua Baudouin lên ngôi."
       },
       {"k": "m", "t": "Thủ đô: Brussels."},
       {"k": "m", "t": "Diện tích: 30.518 km2"},
@@ -11010,8 +11010,8 @@
         "k": "m",
         "t": "Sắc tộc: Bỉ 91,1%; Ý 2,8%; Morocan 1,1%; Pháp 1,1%; Hà Lan, Thổ Nhĩ Kỳ, dân tộc thiểu số."
       },
-      {"k": "m", "t": "Ngôn ngữ: Flemish, Pháp, Ðức, Ý."},
-      {"k": "m", "t": "Gia nhập: UN, EU, NATO, OECD, Cộng Ðồng Châu Âu, CSCE."}
+      {"k": "m", "t": "Ngôn ngữ: Flemish, Pháp, Đức, Ý."},
+      {"k": "m", "t": "Gia nhập: UN, EU, NATO, OECD, Cộng Đồng Châu Âu, CSCE."}
     ],
     "k": "belgium"
   },
@@ -11275,7 +11275,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(505-565 sau Công nguyên) Một vị tướng La Mã dưới thời Justinian. Ông giữ vai trò quan trọng trong việc gìn giữ triều đại La Mã khỏi bị sụp đổ. Năm 530, ông đánh thắng quân Persians ở phía Ðông mặc dù sau đó họ lập tức trả đũa lại ở Syria. Sáu năm sau ông chinh phục Vandal vùng Bắc Phi, bắt giữ vua của xứ này. Năm 535-540 ông trở về Ý từ Ostrogoths chinh phục vùng Ravenna phía Bắc, bắt giam vua của xứ này và tiếp tục theo bước quân đội Ý gia nhập các cuộc viễn chinh. Ông chiếm được Rome năm 549 nhưng bị sa thải và bị thuyên chuyển do âm mưu của Justinian mặc dù ông được phục chức năm 564."
+        "t": "(505-565 sau Công nguyên) Một vị tướng La Mã dưới thời Justinian. Ông giữ vai trò quan trọng trong việc gìn giữ triều đại La Mã khỏi bị sụp đổ. Năm 530, ông đánh thắng quân Persians ở phía Đông mặc dù sau đó họ lập tức trả đũa lại ở Syria. Sáu năm sau ông chinh phục Vandal vùng Bắc Phi, bắt giữ vua của xứ này. Năm 535-540 ông trở về Ý từ Ostrogoths chinh phục vùng Ravenna phía Bắc, bắt giam vua của xứ này và tiếp tục theo bước quân đội Ý gia nhập các cuộc viễn chinh. Ông chiếm được Rome năm 549 nhưng bị sa thải và bị thuyên chuyển do âm mưu của Justinian mặc dù ông được phục chức năm 564."
       }
     ],
     "k": "belisarius"
@@ -11364,11 +11364,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một đất nước nhỏ vùng nhiệt đới nằm ở miền Nam Yucatán Peninsula thuộc trung tâm Châu Mỹ. Nó tiếp giáp với Guatemala ở phía Tây và giáp biển Caribbean ở phía Ðông."
+        "t": "Một đất nước nhỏ vùng nhiệt đới nằm ở miền Nam Yucatán Peninsula thuộc trung tâm Châu Mỹ. Nó tiếp giáp với Guatemala ở phía Tây và giáp biển Caribbean ở phía Đông."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Belize là vùng đất thấp và bị rừng che phủ, chỉ có vùng phía Nam được nâng cao dần cho đến những cánh rừng thông và thảo nguyên. Gió biển từ Caribbean mang hơi nóng và ẩm ướt đến cho vùng này."
+        "t": "Địa hình: Belize là vùng đất thấp và bị rừng che phủ, chỉ có vùng phía Nam được nâng cao dần cho đến những cánh rừng thông và thảo nguyên. Gió biển từ Caribbean mang hơi nóng và ẩm ướt đến cho vùng này."
       },
       {
         "k": "m",
@@ -11376,7 +11376,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: quân đội Anh đã đặt chân đến đây vào thế kỷ 17. Họ tuyên bố thành lập thuộc địa năm 1862. Ðến thế kỷ 19, các nước láng giềng thuộc Châu Mỹ La Tinh đã phải miễn cưỡng ký kết hiệp ước công nhận chủ quyền lãnh thổ và vùng biên giới của nước này. Năm 1964, người dân nơi đây đã chính thức có được một chính phủ của riêng họ. Tên nước Belize chính thức được công nhận năm 1973 và đến năm 1981 nó trở thành một đất nước độc lập nằm trong khối liên minh Châu Âu. Tuy nhiên, Guatemala liên tục đấu tranh giành lại vùng lãnh thổ đã rơi vào tay Tây Ban Nha từ sau hiệp ước đã ký kết trước đó. Năm 1991, Guatemala công nhận quyền độc lập của Belize, hai nước thỏa thuận vùng biển chung cho việc đánh bắt cá. Năm 1993, Anh tuyên bố rút hết lực lượng quân đội từ tất cả các thuộc địa trong đó có Belize."
+        "t": "Lịch sử: quân đội Anh đã đặt chân đến đây vào thế kỷ 17. Họ tuyên bố thành lập thuộc địa năm 1862. Đến thế kỷ 19, các nước láng giềng thuộc Châu Mỹ La Tinh đã phải miễn cưỡng ký kết hiệp ước công nhận chủ quyền lãnh thổ và vùng biên giới của nước này. Năm 1964, người dân nơi đây đã chính thức có được một chính phủ của riêng họ. Tên nước Belize chính thức được công nhận năm 1973 và đến năm 1981 nó trở thành một đất nước độc lập nằm trong khối liên minh Châu Âu. Tuy nhiên, Guatemala liên tục đấu tranh giành lại vùng lãnh thổ đã rơi vào tay Tây Ban Nha từ sau hiệp ước đã ký kết trước đó. Năm 1991, Guatemala công nhận quyền độc lập của Belize, hai nước thỏa thuận vùng biển chung cho việc đánh bắt cá. Năm 1993, Anh tuyên bố rút hết lực lượng quân đội từ tất cả các thuộc địa trong đó có Belize."
       },
       {"k": "m", "t": "Thủ đô: Belmopan."},
       {"k": "m", "t": "Diện tích: 22.965 km2"},
@@ -11385,7 +11385,7 @@
       {"k": "m", "t": "Tôn giáo: Thiên Chúa giáo La Mã 62%; Anglican 12%; Methodist 6%."},
       {
         "k": "m",
-        "t": "Sắc tộc: Creole 40%; Mestozo 33%; Garifuna 8%; Maya 7%; Châu Âu 4%; Ketchi 3%; Ðông ấn 2%."
+        "t": "Sắc tộc: Creole 40%; Mestozo 33%; Garifuna 8%; Maya 7%; Châu Âu 4%; Ketchi 3%; Đông ấn 2%."
       },
       {"k": "m", "t": "Ngôn ngữ: Anh, Tây Ban Nha, Mayan, Garifuna."},
       {"k": "m", "t": "Gia nhập: UN, Liên hiệp Anh, CARICOM."}
@@ -12453,7 +12453,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Beo-men, 1920-1984) nhà toán học Mỹ. Ông tốt nghiệp trường Ðại học tổng hợp Brooklyn (1941), giáo sư trường Ðại học tổng hợp Stamford từ 1948. Những công trình chủ yếu của ông thuộc về toán học tính toán và lý thuyết điều khiển tối ưu. Ông đã soạn thảo phương pháp quy hoạch động."
+        "t": "(Beo-men, 1920-1984) nhà toán học Mỹ. Ông tốt nghiệp trường Đại học tổng hợp Brooklyn (1941), giáo sư trường Đại học tổng hợp Stamford từ 1948. Những công trình chủ yếu của ông thuộc về toán học tính toán và lý thuyết điều khiển tối ưu. Ông đã soạn thảo phương pháp quy hoạch động."
       }
     ],
     "k": "bellman richard ernest"
@@ -12853,7 +12853,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "điệu múa có nguồn gốc ở Trung Ðông, do một phụ nữ thực hiện với những động tác của bụng có tính chất gợi dục"
+        "t": "điệu múa có nguồn gốc ở Trung Đông, do một phụ nữ thực hiện với những động tác của bụng có tính chất gợi dục"
       },
       {"k": "m", "t": "điệu múa bụng."}
     ],
@@ -13065,7 +13065,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thuộc về. Quan hệ chỉ x là một phần tử của tập hợp A, thường được ký hiệu là x ( A. Ðó cũng là một khái niệm cơ bản, không được định nghĩa."
+        "t": "thuộc về. Quan hệ chỉ x là một phần tử của tập hợp A, thường được ký hiệu là x ( A. Đó cũng là một khái niệm cơ bản, không được định nghĩa."
       }
     ],
     "k": "belong to"
@@ -14059,7 +14059,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1835-1900) nhà toán học Ý, viện sĩ Viện hàn lâm quốc gia tại Rome (1873), giáo sư các trường Ðại học tổng hợp Bologne (1862) và Rome (1873). Ông có những công trình chủ yếu về hình học vi phân. Ông đã chỉ ra rằng hình học Lobachevski (phẳng) thực hiện được trên một mặt, gọi là mặt giả cầu."
+        "t": "(1835-1900) nhà toán học Ý, viện sĩ Viện hàn lâm quốc gia tại Rome (1873), giáo sư các trường Đại học tổng hợp Bologne (1862) và Rome (1873). Ông có những công trình chủ yếu về hình học vi phân. Ông đã chỉ ra rằng hình học Lobachevski (phẳng) thực hiện được trên một mặt, gọi là mặt giả cầu."
       }
     ],
     "k": "beltrami eugenio"
@@ -15433,12 +15433,12 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một tu sĩ dưới thời St Benedict. Cư sĩ Benedictine ban đầu được hình thành ở Subiaco và Monte Cassino thuộc Ý, và ở Châu Âu, những giáo sĩ như vậy có đến hàng ngàn. Giáo phái này đã từng được ưa chuộng trong suốt thế kỷ 10-11. Tu viện Cluny ở Burgundy được xem là tiêu biểu và nổi tiếng nhất. Ðặc điểm của giáo phái này là cổ vũ lối sống tách biệt với thế giới bên ngoài và chuyên tâm cầu nguyện."
+        "t": "Một tu sĩ dưới thời St Benedict. Cư sĩ Benedictine ban đầu được hình thành ở Subiaco và Monte Cassino thuộc Ý, và ở Châu Âu, những giáo sĩ như vậy có đến hàng ngàn. Giáo phái này đã từng được ưa chuộng trong suốt thế kỷ 10-11. Tu viện Cluny ở Burgundy được xem là tiêu biểu và nổi tiếng nhất. Đặc điểm của giáo phái này là cổ vũ lối sống tách biệt với thế giới bên ngoài và chuyên tâm cầu nguyện."
       }
     ],
     "k": "benedictine"
   },
-  {"h": "Benedictines", "segs": [{"k": "m", "t": "Tu sĩ Dòng Biển Ðức."}], "k": "benedictines"},
+  {"h": "Benedictines", "segs": [{"k": "m", "t": "Tu sĩ Dòng Biển Đức."}], "k": "benedictines"},
   {
     "h": "benediction",
     "segs": [
@@ -16015,11 +16015,11 @@
       {"k": "m", "t": "Một vùng bán đảo Ấn, bao gồm Bangladesh và Tây Ấn Bengal."},
       {
         "k": "m",
-        "t": "Ðịa hình: vùng này được thiên nhiên ưu đãi với những cánh đồng và vùng châu thổ trải rộng do phù sa bồi đắp của hai con sông Ganges và Brahmaputra."
+        "t": "Địa hình: vùng này được thiên nhiên ưu đãi với những cánh đồng và vùng châu thổ trải rộng do phù sa bồi đắp của hai con sông Ganges và Brahmaputra."
       },
       {
         "k": "m",
-        "t": "Lịch sử: thời kỳ đầu, đất nước bị các hoàng đế theo đạo Phật và Hindu chia cắt ở miền Bắc Ấn nhưng lại hưởng được nền độc lập chỉ ít lâu sau. Từ thế kỷ 13, quân Hồi giáo tiến hành xâm lược và sáp nhập Bengal vào Delhi. Nhiều thế kỷ sau đó, chính phủ vẫn giữ được quyền hành cho đến khi bị Mogul chinh phục năm 1576. Ðến thế kỷ 18, triều đại Mogul tàn lụi và chính quyền Bengali nhanh chóng được thành lập và nắm quyền nhưng chỉ một thời gian ngắn do tham vọng bành trướng lãnh thổ của các lãnh chúa vùng Ðông Ấn. Từ năm 1690, công việc thương mại tiến triển khá thuận lợi ở Calcutta, nhưng đến năm 1757 Robert Clive tuyên chiến với vùng Black Hole of Calcutta. Sau khi ông chiến thắng ở Plassey, hệ thống tòa án kiểm soát hầu hết các tỉnh. Vào thập niên 1790, quân đội Anh kiểm soát Bengal. Vùng dưới này tách riêng giữa Ấn và Pakistan ngay trong ngày tuyên bố độc lập năm 1947. Năm 1972, Bangladesh ra đời từ một phần của Pakistan và tuyên bố độc lập."
+        "t": "Lịch sử: thời kỳ đầu, đất nước bị các hoàng đế theo đạo Phật và Hindu chia cắt ở miền Bắc Ấn nhưng lại hưởng được nền độc lập chỉ ít lâu sau. Từ thế kỷ 13, quân Hồi giáo tiến hành xâm lược và sáp nhập Bengal vào Delhi. Nhiều thế kỷ sau đó, chính phủ vẫn giữ được quyền hành cho đến khi bị Mogul chinh phục năm 1576. Đến thế kỷ 18, triều đại Mogul tàn lụi và chính quyền Bengali nhanh chóng được thành lập và nắm quyền nhưng chỉ một thời gian ngắn do tham vọng bành trướng lãnh thổ của các lãnh chúa vùng Đông Ấn. Từ năm 1690, công việc thương mại tiến triển khá thuận lợi ở Calcutta, nhưng đến năm 1757 Robert Clive tuyên chiến với vùng Black Hole of Calcutta. Sau khi ông chiến thắng ở Plassey, hệ thống tòa án kiểm soát hầu hết các tỉnh. Vào thập niên 1790, quân đội Anh kiểm soát Bengal. Vùng dưới này tách riêng giữa Ấn và Pakistan ngay trong ngày tuyên bố độc lập năm 1947. Năm 1972, Bangladesh ra đời từ một phần của Pakistan và tuyên bố độc lập."
       }
     ],
     "k": "bengal",
@@ -17326,7 +17326,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: người Berber cư ngụ ở vùng núi và sa mạc phía Bắc Châu Phi từ thời tiền sử. Nhà nghiên cứu Herodotus đã ghi hận rằng dân tộc này chia thành những bộ lạc khác nhau. Dường như họ không thành lập vương quốc, mặc dù thỉnh thoảng họ cũng liên kết với nhau để chống lại quân La Mã. Ðể có được nền độc lập, họ đã phải trải qua nhiều cuộc đấu tranh với các lực lượng như Donatist thế kỷ 4-5, Kharijite thuộc quân Hồi giáo, và một số lực lượng Hồi giáo khác. Họ vừa chống lại lực lượng Hồi giáo vừa chinh phục lực lượng này để trở thành một lãnh địa cho riêng mình. Họ ủng hộ Umayyads ở Tây Ban Nha, Fatimids ở Morocco và thiết lập nhiều triều đại cai trị. Trong đó hai triều đại Almoravids và Almohads là quan trọng nhất."
+        "t": "Lịch sử: người Berber cư ngụ ở vùng núi và sa mạc phía Bắc Châu Phi từ thời tiền sử. Nhà nghiên cứu Herodotus đã ghi hận rằng dân tộc này chia thành những bộ lạc khác nhau. Dường như họ không thành lập vương quốc, mặc dù thỉnh thoảng họ cũng liên kết với nhau để chống lại quân La Mã. Để có được nền độc lập, họ đã phải trải qua nhiều cuộc đấu tranh với các lực lượng như Donatist thế kỷ 4-5, Kharijite thuộc quân Hồi giáo, và một số lực lượng Hồi giáo khác. Họ vừa chống lại lực lượng Hồi giáo vừa chinh phục lực lượng này để trở thành một lãnh địa cho riêng mình. Họ ủng hộ Umayyads ở Tây Ban Nha, Fatimids ở Morocco và thiết lập nhiều triều đại cai trị. Trong đó hai triều đại Almoravids và Almohads là quan trọng nhất."
       }
     ],
     "k": "berbers"
@@ -17711,7 +17711,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một phiên bản của hệ điều hành UNIX do trường Ðại học California ở Berkeley biên soạn. Hệ điều hành này tận dụng được toàn bộ ưu thế về các khả năng nhớ ảo của các máy tính mini Digital Equitment Corporation (DEC). Phiên bản Berkeley của UNIX, thường được gọi là BSD (Berkeley Stystem Distribution), đã trở thành vai trò thứ yếu sau khi hãng AT & T cho ra đời UNIX System 5 tuy nhiên BSD UNIX vẫn còn được ưa thích trong các lĩnh vực kỹ thuật, nghiên cứu khoa học và giáo dục đào tạo, và các tính năng của hệ điều hành thỏa mãn các yêu cầu đặc biệt trong những lĩnh vực này."
+        "t": "một phiên bản của hệ điều hành UNIX do trường Đại học California ở Berkeley biên soạn. Hệ điều hành này tận dụng được toàn bộ ưu thế về các khả năng nhớ ảo của các máy tính mini Digital Equitment Corporation (DEC). Phiên bản Berkeley của UNIX, thường được gọi là BSD (Berkeley Stystem Distribution), đã trở thành vai trò thứ yếu sau khi hãng AT & T cho ra đời UNIX System 5 tuy nhiên BSD UNIX vẫn còn được ưa thích trong các lĩnh vực kỹ thuật, nghiên cứu khoa học và giáo dục đào tạo, và các tính năng của hệ điều hành thỏa mãn các yêu cầu đặc biệt trong những lĩnh vực này."
       }
     ],
     "k": "berkeley unix"
@@ -17782,7 +17782,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1948-1949) Giải pháp của Anh và Mỹ trước tình thế lực lượng Nga trấn giữ Berlin. Tháng 6-1948, Mỹ, Anh và Pháp vạch kế hoạch phân chia các vùng thuộc lãnh thổ Ðức quốc xã. Liên xô e ngại rằng việc này sẽ làm họ mất toàn bộ những vùng đang chiếm đóng ở Berlin. Quân đồng minh phương Tây đã lợi dụng tình thế đó và cung cấp cho những vùng họ chiếm đóng toàn bộ nhu yếu phẩm cần thiết. Cuộc thương lượng kéo dài đến tháng 5-1949 và quân Nga đã mở được đường giao thông. Cuối cùng nước Ðức đành phải tồn tại hai chính thể."
+        "t": "(1948-1949) Giải pháp của Anh và Mỹ trước tình thế lực lượng Nga trấn giữ Berlin. Tháng 6-1948, Mỹ, Anh và Pháp vạch kế hoạch phân chia các vùng thuộc lãnh thổ Đức quốc xã. Liên xô e ngại rằng việc này sẽ làm họ mất toàn bộ những vùng đang chiếm đóng ở Berlin. Quân đồng minh phương Tây đã lợi dụng tình thế đó và cung cấp cho những vùng họ chiếm đóng toàn bộ nhu yếu phẩm cần thiết. Cuộc thương lượng kéo dài đến tháng 5-1949 và quân Nga đã mở được đường giao thông. Cuối cùng nước Đức đành phải tồn tại hai chính thể."
       }
     ],
     "k": "berlin airlift"
@@ -17793,7 +17793,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bức tường phân cách giữa Ðông và Tây Berlin. Nó được Cộng Hòa dân chủ Ðức xây dựng vào tháng 8-1961 để ngăn chặn số người tỵ nạn từ Ðông Ðức tràn qua Tây Ðức. Vì vào thời điểm 1945-1946 đã có hơn 3 triệu người tỵ nạn vượt sang Tây Ðức. Bức tường được bảo vệ nghiêm ngặt, đặc biệt là vào thập niên 1960, và nhiều người đã bị bắn vì cố vượt qua bức tường này. Sau cùng, nó bị phá hủy năm 1989."
+        "t": "Bức tường phân cách giữa Đông và Tây Berlin. Nó được Cộng Hòa dân chủ Đức xây dựng vào tháng 8-1961 để ngăn chặn số người tỵ nạn từ Đông Đức tràn qua Tây Đức. Vì vào thời điểm 1945-1946 đã có hơn 3 triệu người tỵ nạn vượt sang Tây Đức. Bức tường được bảo vệ nghiêm ngặt, đặc biệt là vào thập niên 1960, và nhiều người đã bị bắn vì cố vượt qua bức tường này. Sau cùng, nó bị phá hủy năm 1989."
       }
     ],
     "k": "berlin wall"
@@ -17857,11 +17857,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Xứ sở thuộc quyền cai quản của Anh gồm 150 đảo san hô nằm ở phía Tây biển Ðịa Trung Hải."
+        "t": "Xứ sở thuộc quyền cai quản của Anh gồm 150 đảo san hô nằm ở phía Tây biển Địa Trung Hải."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: quần đảo này hình thành từ một lớp đá vôi dày 60m cùng với san hô và các quần thể sinh học, bên cạnh miệng núi lửa đã tắt."
+        "t": "Địa hình: quần đảo này hình thành từ một lớp đá vôi dày 60m cùng với san hô và các quần thể sinh học, bên cạnh miệng núi lửa đã tắt."
       },
       {
         "k": "m",
@@ -17869,7 +17869,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Người Châu Âu đầu tiên đặt chân đến đây là Juan De Bermudez vào năm 1515. Năm 1609, công ty Virginia đã xuất hiện ở đây đầu tiên. Họ cũng là chính phủ lâu đời nhất của xứ sở này cho đến năm 1620. Ngành sản xuất thuốc lá và buôn bán nô lệ ở đây kéo dài cho đến khi chế độ nô lệ bị bãi bỏ năm 1834. Ðến thế kỷ 20, hai phần ba dân số nước này thuộc gốc Châu Phi hoặc Ấn. Nơi đây cũng là căn cứ điểm chiến lược quan trọng của hải quân Anh và là nơi phát triển mạnh về giao dịch thương mại, du lịch và thiết lập mối quan hệ chặt chẽ với Hoa Kỳ. Lực lượng hải quân Hoàng gia Anh và các phi đội được thiết lập vào năm 1940. Năm 1944, cuộc bầu cử tự do đầu tiên được hình thành và thiết lập nghị viện năm 1967 đã làm cho thuộc địa trở thành một quốc gia độc lập. Vào thập niên 1960, các hoạt động chính trị bắt đầu hình thành và phát triển nhất là trong giai đoạn thập niên 1970. Trong cuộc trưng cầu dân ý năm 1995, người dân Bermuda đã đòi quyền độc lập đối với chính phủ Anh."
+        "t": "Lịch sử: Người Châu Âu đầu tiên đặt chân đến đây là Juan De Bermudez vào năm 1515. Năm 1609, công ty Virginia đã xuất hiện ở đây đầu tiên. Họ cũng là chính phủ lâu đời nhất của xứ sở này cho đến năm 1620. Ngành sản xuất thuốc lá và buôn bán nô lệ ở đây kéo dài cho đến khi chế độ nô lệ bị bãi bỏ năm 1834. Đến thế kỷ 20, hai phần ba dân số nước này thuộc gốc Châu Phi hoặc Ấn. Nơi đây cũng là căn cứ điểm chiến lược quan trọng của hải quân Anh và là nơi phát triển mạnh về giao dịch thương mại, du lịch và thiết lập mối quan hệ chặt chẽ với Hoa Kỳ. Lực lượng hải quân Hoàng gia Anh và các phi đội được thiết lập vào năm 1940. Năm 1944, cuộc bầu cử tự do đầu tiên được hình thành và thiết lập nghị viện năm 1967 đã làm cho thuộc địa trở thành một quốc gia độc lập. Vào thập niên 1960, các hoạt động chính trị bắt đầu hình thành và phát triển nhất là trong giai đoạn thập niên 1970. Trong cuộc trưng cầu dân ý năm 1995, người dân Bermuda đã đòi quyền độc lập đối với chính phủ Anh."
       },
       {"k": "m", "t": "Thủ đô: Hamilton."},
       {"k": "m", "t": "Diện tích: 54 km2"},
@@ -18405,7 +18405,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "điều khoản tàu cập bến. Ðiều khoản của một hợp đồng thuê tàu, phân định trách nhiệm giữa các bên ký kết về sự chậm trễ xảy ra do tàu phải chờ đợi cập bến (tức là cập cầu) tại cảng bốc hoặc cảng dỡ. Theo hợp đồng Gencon, thời gian bốc dỡ (laydays) tính từ ngày tàu đến cảng và trao thông báo sẵn sàng bốc dỡ, không kể tàu đã cặp bến hay chưa, còn hợp đồng Balwood lại quy định rằng, dù có phải chờ đợi cặp bến hay không, thời gian bốc dỡ vẫn cứ bắt đầu được tính từ sau khi tàu đến cảng 24 giờ."
+        "t": "điều khoản tàu cập bến. Điều khoản của một hợp đồng thuê tàu, phân định trách nhiệm giữa các bên ký kết về sự chậm trễ xảy ra do tàu phải chờ đợi cập bến (tức là cập cầu) tại cảng bốc hoặc cảng dỡ. Theo hợp đồng Gencon, thời gian bốc dỡ (laydays) tính từ ngày tàu đến cảng và trao thông báo sẵn sàng bốc dỡ, không kể tàu đã cặp bến hay chưa, còn hợp đồng Balwood lại quy định rằng, dù có phải chờ đợi cặp bến hay không, thời gian bốc dỡ vẫn cứ bắt đầu được tính từ sau khi tàu đến cảng 24 giờ."
       }
     ],
     "k": "berthing clause"
@@ -18717,12 +18717,12 @@
       {
         "k": "ex",
         "t": "That's very interesting, but beside the point:",
-        "vi": "Ðiều đó rất thú vị nhưng không thích hợp."
+        "vi": "Điều đó rất thú vị nhưng không thích hợp."
       },
       {
         "k": "ex",
         "t": "That's beside the point. You're evading the issue:",
-        "vi": "Ðiều đó không liên quan. Bạn đang tránh né vấn đề."
+        "vi": "Điều đó không liên quan. Bạn đang tránh né vấn đề."
       },
       {
         "k": "ex",
@@ -19457,7 +19457,7 @@
       {"k": "m", "t": "Chuyển giao với Nỗ lực-Cao nhất"},
       {
         "k": "m",
-        "t": "Các tầng thấp nhất của chồng giao thức là mạng vật lý và giao thức liên kết dữ liệu. Các giao thức này xác định cách truyền bit giữa hai hệ thống. Ðiều này được mô tả trên hình B-7. ÕÒ mức này, hệ truyền thông chỉ có thể cung cấp dịch vụ best-effort delivery (chiển giao với nỗ lực-cao nhất) do không thể tiên đoán về mạng hạ tầng. Một bất ổn trên đường truyền có thể làm mất các khung dữ liệu. Tầng liên kết dữ liệu có thể cung cấp dịch vụ chuyển giao bảo đảm, như thông báo nhận, nhưng các mạng hiện đại có ít lỗi đến nỗi việc sử dụng dịch vụ này ở tầng liên kết dữ liệu được xem là lãng phí băng thông."
+        "t": "Các tầng thấp nhất của chồng giao thức là mạng vật lý và giao thức liên kết dữ liệu. Các giao thức này xác định cách truyền bit giữa hai hệ thống. Điều này được mô tả trên hình B-7. ÕÒ mức này, hệ truyền thông chỉ có thể cung cấp dịch vụ best-effort delivery (chiển giao với nỗ lực-cao nhất) do không thể tiên đoán về mạng hạ tầng. Một bất ổn trên đường truyền có thể làm mất các khung dữ liệu. Tầng liên kết dữ liệu có thể cung cấp dịch vụ chuyển giao bảo đảm, như thông báo nhận, nhưng các mạng hiện đại có ít lỗi đến nỗi việc sử dụng dịch vụ này ở tầng liên kết dữ liệu được xem là lãng phí băng thông."
       },
       {
         "k": "m",
@@ -20775,7 +20775,7 @@
       {
         "k": "ex",
         "t": "Switzerland lies between France, Germany, Austria and Italy",
-        "vi": "Thụy Sĩ nằm giữa Pháp, Ðức, áo và Y'"
+        "vi": "Thụy Sĩ nằm giữa Pháp, Đức, áo và Y'"
       },
       {
         "k": "ex",
@@ -20823,7 +20823,7 @@
       },
       {"k": "m", "t": "London"},
       {"k": "ex", "t": "is between fifty and sixty miles from", "vi": "Oxford"},
-      {"k": "m", "t": "Luân Ðôn cách Oxford từ 50 đến 60 dặm"},
+      {"k": "m", "t": "Luân Đôn cách Oxford từ 50 đến 60 dặm"},
       {"k": "m", "t": "(nói về không gian) ngăn cách chỗ này với chỗ kia"},
       {
         "k": "ex",
@@ -20838,7 +20838,7 @@
       {
         "k": "ex",
         "t": "to fly between London and Paris twice daily",
-        "vi": "bay từ Luân Ðôn đến Pari hai chuyến mỗi ngày"
+        "vi": "bay từ Luân Đôn đến Pari hai chuyến mỗi ngày"
       },
       {"k": "ex", "t": "to sail between Dover and", "vi": "Calais"},
       {"k": "m", "t": "đi thuyền buồm từ Dover đến Calais"},
@@ -21799,7 +21799,7 @@
       {
         "k": "ex",
         "t": "and the mountains beyond were covered in snow",
-        "vi": "Ðỉnh Snowdon và các ngọn núi phía xa kia đều phủ đầy tuyết"
+        "vi": "Đỉnh Snowdon và các ngọn núi phía xa kia đều phủ đầy tuyết"
       },
       {
         "k": "ex",
@@ -22017,7 +22017,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nhiều hơn có thể nói; không kể xiết. (Ðặc biệt dùng với grateful, shocked, và thankful.)"
+        "t": "nhiều hơn có thể nói; không kể xiết. (Đặc biệt dùng với grateful, shocked, và thankful.)"
       },
       {"k": "ex", "t": "Sally was thankful beyond words:", "vi": "Sally Cảm ơn không sao tả xiết."},
       {

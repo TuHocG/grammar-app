@@ -58,10 +58,10 @@
       ["Chào Nga."],
       ["Tôi sẽ đi xem phim Thành phố mộng mơ lúc 6 giờ 45 tối nay.", "Bạn có muốn đi xem không?"],
       [
-        "Ðương nhiên, nhưng đợi một lát.",
+        "Đương nhiên, nhưng đợi một lát.",
         "Tôi phải xin phép thím tôi đã, thím ấy đang ở dưới nhà.",
         "Chờ nhé.",
-        "Ðược rồi, Nga.",
+        "Được rồi, Nga.",
         "Thím Thanh bảo mình có thể đi.",
         "ô, phim chiếu ở đâu?"
       ],
@@ -69,7 +69,7 @@
       ["à, tôi biết chỗ đó rồi,", "nhưng tối nay tôi sẽ đi bằng xe đạp của em họ tôi."],
       ["Vậy nhé Hoa.", "Chúng ta gặp nhau bên ngoài rạp hát nhé."],
       ["6 giờ 30 được không?"],
-      ["Ðược đấy.", "Gặp bạn lúc 6 giờ 30 nhé.", "Tạm biệt."],
+      ["Được đấy.", "Gặp bạn lúc 6 giờ 30 nhé.", "Tạm biệt."],
       ["Tạm biệt Nga."]
     ],
     "img": "img/readings/1.8.19a.webp",
@@ -151,7 +151,7 @@
       ["Nói"],
       ["Hãy sắp xếp các câu dưới đây theo đúng trình tự để làm thành một bài hội thoại hoàn chỉnh."],
       ["Xin chào. đây là số 9 210 752."],
-      ["Xin chào. Vui lòng cho nói chuyện với Eric.", "Ðây là Adam."],
+      ["Xin chào. Vui lòng cho nói chuyện với Eric.", "Đây là Adam."],
       ["Chào Adam. Bạn khỏe không?"],
       [
         "Tôi khỏe.",
@@ -160,13 +160,13 @@
       ],
       ["Ban nhạc nào chơi vậy?"],
       ["The Kids in Town.", "Bạn thích bạn nhạc này, phải không?"],
-      ["Ðúng vậy. Chúng ta có thể gặp nhau lúc mấy giờ?"],
+      ["Đúng vậy. Chúng ta có thể gặp nhau lúc mấy giờ?"],
       [
         "7 giờ 15 được chứ?",
         "Buổi hòa nhạc bắt đầu lúc 7 giờ 45.",
         "Chúng ta hãy gặp nhau bên trong trung tâm, tại góc quán giải khát."
       ],
-      ["Ðược đấy.", "Gặp bạn lúc 7 giờ 15 nhé.", "Cám ơn Adam."],
+      ["Được đấy.", "Gặp bạn lúc 7 giờ 15 nhé.", "Cám ơn Adam."],
       ["Tạm biệt Eric"],
       ["Tạm biệt."]
     ],
@@ -205,7 +205,7 @@
         "Sau đó làm những sắp xếp tương tự."
       ],
       ["8 257 012 xin nghe."],
-      ["Xin cho tôi nói chuyện với Ba.", "Ðây là Bảo."],
+      ["Xin cho tôi nói chuyện với Ba.", "Đây là Bảo."],
       ["Chào Bảo. Bạn khỏe không?"],
       ["Tôi khỏe. Cảm ơn."],
       ["Tuyệt quá. Tôi cũng vậy."],
@@ -214,7 +214,7 @@
       ["Còn chiều mai thì sao?"],
       ["ừ, chiều mai thì được."],
       ["ừ, mình sẽ gặp bạn ở Câu lạc bộ trung tâm."],
-      ["ở câu lạc bộ Trung tâm à?", "Ðược rồi. Hãy gặp ở cửa trước."],
+      ["ở câu lạc bộ Trung tâm à?", "Được rồi. Hãy gặp ở cửa trước."],
       ["2 giờ nhé?"],
       ["ừ, hẹn gặp bạn chiều mai lúc 2 giờ."]
     ],
@@ -265,7 +265,7 @@
       ["Xin hỏi bà tên gì vậy?"],
       ["Tôi là Mary Nguyễn"],
       ["N-G-U-Y-E-N phải không ạ?"],
-      ["Ðược rồi thưa bà Nguyễn."],
+      ["Được rồi thưa bà Nguyễn."],
       ["Và địa chỉ, thưa bà?"],
       ["Số 23, đường số 51", "Số điện thoại của tôi là 646 83720942."],
       ["Cảm ơn bà Nguyễn"],
@@ -301,7 +301,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Alexander Graham Bell sinh ngày 3 tháng 3 năm 1847 tại Edinburgh.",
         "ông là người Scotland mặc dù sau này ông đã di cư, trước tiên sang Canada và sau đó sang Hoa Kỳ vào những năm 1870."
@@ -315,10 +315,10 @@
         "Bell và người phụ tá của ông, Thomas Watson, đã thực hiện nhiều thí nghiệm và cuối cùng đã nghĩ ra một thiết bị mà họ giới thiệu lần đầu vào năm 1876.",
         "Bell đã nói trong điện thoại:",
         "ông Watson, hãy đến đây. Tôi cần ông.",
-        "Ðây là lời nhắn qua điện thoại đầu tiên."
+        "Đây là lời nhắn qua điện thoại đầu tiên."
       ],
       [
-        "Ði khắp nước Mỹ, Bell trình bày phát minh của mình trước công chúng tại vô số các cuộc trưng bày,",
+        "Đi khắp nước Mỹ, Bell trình bày phát minh của mình trước công chúng tại vô số các cuộc trưng bày,",
         "và vào năm 1877 chiếc điện thoại đầu tiên đã được bán ra"
       ]
     ],
@@ -344,7 +344,7 @@
       ["f) Bell demonstrated his invention at a lot of exhibitions."]
     ],
     "vi": [
-      ["đúng hay sai?", "Ðánh dấu vào các ô.", "Hãy sửa lại các câu sai."],
+      ["đúng hay sai?", "Đánh dấu vào các ô.", "Hãy sửa lại các câu sai."],
       ["Alexander G. Bell sinh ở Hoa Kỳ.(F)"],
       ["Alexander G. Bell sinh ở Edinburgh, Scotland."],
       ["ông đã làm việc với những bệnh nhân câm điếc tại một bệnh viện ở Boston.(F)"],
@@ -431,7 +431,7 @@
         "Bà ấy muốn ông gọi lại cho bà sau bữa trưa",
         "số điện thoại của bà ấy là 8 645 141."
       ],
-      ["Ðược ghi lại bởi: Tâm"],
+      ["Được ghi lại bởi: Tâm"],
       [
         "Một khách hàng gọi điện đến Dịch vụ giao hàng Thắng Lợi vào ngày 12 tháng 5 ngay sau giữa trưa.",
         "Bà muốn nói chuyện với ông Hà nhưng ông ấy đã đi khỏi.",
@@ -506,7 +506,7 @@
         "Hãy dùng thông tin trong bài hội thoại."
       ],
       ["Xin chào."],
-      ["Xin chào.", "Vui lòng cho tôi nói chuyện với Nancy.", "Ðây là Tom."],
+      ["Xin chào.", "Vui lòng cho tôi nói chuyện với Nancy.", "Đây là Tom."],
       ["Rất tiếc là chị ấy đã ra ngoài.", "Anh có muốn nhắn gì cho chị ấy không?"],
       [
         "Chào Lisa.",
@@ -517,7 +517,7 @@
       ["Có, chị ấy biết.", "Hôm qua, bọn anh đã mua hai cây vợt mới."],
       ["Mấy giờ anh sẽ đến?"],
       ["Khoảng 1 giờ 30."],
-      ["Ðược rồi, anh Tom.", "Khi nào chị ấy về em sẽ nói với chị ấy.", "Tạm biệt."],
+      ["Được rồi, anh Tom.", "Khi nào chị ấy về em sẽ nói với chị ấy.", "Tạm biệt."],
       ["Cám ơn rất nhiều, Lisa. Tạm biệt."]
     ],
     "img": "img/readings/1.8.24a.webp",

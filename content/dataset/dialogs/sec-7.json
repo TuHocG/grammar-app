@@ -73,7 +73,7 @@
         "a": "Can I borrow this?",
         "b": "Here you are.",
         "avi": "Tôi mượn bạn cái này được không?",
-        "bvi": "Ðây, thưa ông."
+        "bvi": "Đây, thưa ông."
       },
       {
         "a": "Do you remember anything about it?",
@@ -156,7 +156,7 @@
       {
         "a": "It's time to lunch!",
         "b": "Do you want to have lunch with us?",
-        "avi": "Ðến giờ cơm trưa rồi!",
+        "avi": "Đến giờ cơm trưa rồi!",
         "bvi": "Anh có muốn ăn trưa với chúng tôi không?"
       },
       {
@@ -169,7 +169,7 @@
         "a": "Can I go outside?",
         "b": "It's time for dinner.",
         "avi": "Tôi đi ra ngoài nhé?",
-        "bvi": "Ðến giờ ăn tối rồi."
+        "bvi": "Đến giờ ăn tối rồi."
       },
       {
         "a": "Can we talk later?",
@@ -613,7 +613,7 @@
       {
         "a": "I am starving!",
         "b": "Do you want ramen?",
-        "avi": "Ðói đến chết mất!",
+        "avi": "Đói đến chết mất!",
         "bvi": "Bạn có muốn ăn mì gói không?"
       },
       {
@@ -668,12 +668,12 @@
         "a": "Can I try your grilled oyster?",
         "b": "Sure. Here you go.",
         "avi": "Tôi có thể thử món sò huyệt nướng của bạn không?",
-        "bvi": "Chắc chắn rồi. Ðây này."
+        "bvi": "Chắc chắn rồi. Đây này."
       },
       {
         "a": "Sure. Here you go.",
         "b": "That's not bad.",
-        "avi": "Chắc chắn rồi. Ðây này.",
+        "avi": "Chắc chắn rồi. Đây này.",
         "bvi": "Không tệ."
       },
       {
@@ -939,7 +939,7 @@
         "a": "Would you like something more?",
         "b": "Okay, just one more piece.",
         "avi": "Anh ăn thêm miếng bánh nữa nhé?",
-        "bvi": "Ðược rồi, chỉ một miếng nữa thôi."
+        "bvi": "Được rồi, chỉ một miếng nữa thôi."
       },
       {
         "a": "Would you return to that restaurant again?",
@@ -957,13 +957,13 @@
         "a": "I would never go to his restaurant.",
         "b": "Is this a clean restaurant?",
         "avi": "Tôi sẽ không bao giờ đến nhà hàng của ông ấy.",
-        "bvi": "Ðây có phải là một nhà hàng sạch sẽ không?"
+        "bvi": "Đây có phải là một nhà hàng sạch sẽ không?"
       },
       {
         "a": "Is this a clean restaurant?",
         "b": "Okay, let's sit down.",
-        "avi": "Ðây có phải là một nhà hàng sạch sẽ không?",
-        "bvi": "Ðược rồi, vậy chúng ta ngồi xuống đi."
+        "avi": "Đây có phải là một nhà hàng sạch sẽ không?",
+        "bvi": "Được rồi, vậy chúng ta ngồi xuống đi."
       },
       {
         "a": "I assure you that this is not greasy.",
@@ -1059,13 +1059,13 @@
         "a": "How about this table?",
         "b": "This looks like a nice table.",
         "avi": "Thế còn bàn này?",
-        "bvi": "Ðây có vẻ là bàn tốt."
+        "bvi": "Đây có vẻ là bàn tốt."
       },
       {
         "a": "I'm just sitting here.",
         "b": "Okay, I give up.",
         "avi": "Tôi chỉ ngồi đây thôi.",
-        "bvi": "Ðược rồi, tôi xin thua."
+        "bvi": "Được rồi, tôi xin thua."
       }
     ]
   },
@@ -1076,13 +1076,13 @@
       {
         "a": "This looks like a nice table.",
         "b": "Well, there is one good table.",
-        "avi": "Ðây có vẻ là bàn tốt.",
+        "avi": "Đây có vẻ là bàn tốt.",
         "bvi": "à, đó mới là bàn tốt."
       },
       {
         "a": "What's specialty of this restaurant?",
         "b": "Cua rang me.",
-        "avi": "Ðặc sản của nhà hàng này là món gì?",
+        "avi": "Đặc sản của nhà hàng này là món gì?",
         "bvi": "Crab fried with tamarind."
       },
       {
@@ -1407,7 +1407,7 @@
         "a": "I never heard of such a thing.",
         "b": "Let me see. Yes, you're right.",
         "avi": "Tôi chưa bao giờ nghe nói về một thứ như vậy.",
-        "bvi": "Ðưa tôi xem. Ừ, bạn nói đúng."
+        "bvi": "Đưa tôi xem. Ừ, bạn nói đúng."
       },
       {
         "a": "We got a problem?",
@@ -1455,7 +1455,7 @@
         "a": "Would you like to try one?",
         "b": "Maybe later.",
         "avi": "Bạn có muốn ăn thử không?",
-        "bvi": "Ðể lúc khác."
+        "bvi": "Để lúc khác."
       }
     ]
   },
@@ -1533,12 +1533,12 @@
         "a": "You started eating ice cream?",
         "b": "It was on sale.",
         "avi": "Bạn bắt đầu ăn kem ư?",
-        "bvi": "Ðang mùa giảm giá mà."
+        "bvi": "Đang mùa giảm giá mà."
       },
       {
         "a": "It was on sale.",
         "b": "How much did you buy?",
-        "avi": "Ðang mùa giảm giá mà.",
+        "avi": "Đang mùa giảm giá mà.",
         "bvi": "Bạn đã mua bao nhiêu?"
       },
       {
@@ -1593,7 +1593,7 @@
         "a": "My stomach really hurts.",
         "b": "Don't drink milk out of the carton.",
         "avi": "Tôi bị đau bụng lắm.",
-        "bvi": "Ðừng uống sữa trong hộp giấy."
+        "bvi": "Đừng uống sữa trong hộp giấy."
       },
       {
         "a": "Why doesn't he get you a soda?",
@@ -1616,7 +1616,7 @@
       {
         "a": "Everything has been anticipated.",
         "b": "Does anyone pick up the pop?",
-        "avi": "Ðã có đủ những gì cần thiết rồi.",
+        "avi": "Đã có đủ những gì cần thiết rồi.",
         "bvi": "Có ai mua thức uống chưa?"
       },
       {
@@ -1653,13 +1653,13 @@
         "a": "I do apologize for all the trouble.",
         "b": "Don't worry about it.",
         "avi": "Tôi thật sự xin lỗi về tất cả điều phiền toái này.",
-        "bvi": "Ðừng băn khoăn về chuyện đó."
+        "bvi": "Đừng băn khoăn về chuyện đó."
       },
       {
         "a": "I'm sorry about all!",
         "b": "It's not your fault.",
         "avi": "Tôi xin lỗi về tất cả!",
-        "bvi": "Ðâu phải lỗi của bạn."
+        "bvi": "Đâu phải lỗi của bạn."
       },
       {
         "a": "I don't mean to ruin this cozy moment.",
@@ -1695,7 +1695,7 @@
         "a": "I feel so sorry.",
         "b": "Never mind.",
         "avi": "Tôi cảm thấy rất ân hận.",
-        "bvi": "Ðừng ngại."
+        "bvi": "Đừng ngại."
       }
     ]
   },
@@ -1802,7 +1802,7 @@
       {
         "a": "No more, thank you, I'm full up.",
         "b": "Is this food all right?",
-        "avi": "Ðủ rồi, cám ơn, tôi no rồi.",
+        "avi": "Đủ rồi, cám ơn, tôi no rồi.",
         "bvi": "Món ăn này ổn chứ."
       },
       {
@@ -2187,19 +2187,19 @@
         "a": "I prefer tea to fruit juice.",
         "b": "okay, and how about some cereals?",
         "avi": "Tôi thích trà hơn nước trái cây.",
-        "bvi": "Ðược rồi, và một ít ngũ cốc nhé?"
+        "bvi": "Được rồi, và một ít ngũ cốc nhé?"
       },
       {
         "a": "okay, and how about some cereals?",
         "b": "Cereals?",
-        "avi": "Ðược rồi, và một ít ngũ cốc nhé?",
+        "avi": "Được rồi, và một ít ngũ cốc nhé?",
         "bvi": "Ngũ cốc à?"
       },
       {
         "a": "Give us some more sugar.",
         "b": "Here's some sugar.",
         "avi": "Cho chúng tôi thêm chút đường.",
-        "bvi": "Ðường đây."
+        "bvi": "Đường đây."
       },
       {
         "a": "Do you have any beers?",
@@ -2367,7 +2367,7 @@
         "a": "I would suggest roast beef, sir.",
         "b": "All right, roast beef, please.",
         "avi": "Tôi muốn đề nghị món thịt bò nướng, thưa ông.",
-        "bvi": "Ðược rồi, vui lòng cho tôi món thịt bò nướng."
+        "bvi": "Được rồi, vui lòng cho tôi món thịt bò nướng."
       },
       {
         "a": "Do you want to order an appetizer first?",
@@ -2396,7 +2396,7 @@
       {
         "a": "This is a clean restaurant.",
         "b": "What's today's special?",
-        "avi": "Ðây là một nhà hàng sạch sẽ.",
+        "avi": "Đây là một nhà hàng sạch sẽ.",
         "bvi": "Hôm nay có gì đặc biệt?"
       },
       {
@@ -2432,19 +2432,19 @@
       {
         "a": "It is the speciality of my hometown.",
         "b": "We'll try one of your specials this time.",
-        "avi": "Ðó là đặc sản của quê tôi.",
+        "avi": "Đó là đặc sản của quê tôi.",
         "bvi": "Lần này tôi thử dùng một trong các món đặc sản xem sao."
       },
       {
         "a": "I'd like to try it today.",
         "b": "This is worth trying.",
         "avi": "Hôm nay tôi thử món này xem sao.",
-        "bvi": "Ðáng đồng tiền bát gạo lắm đấy."
+        "bvi": "Đáng đồng tiền bát gạo lắm đấy."
       },
       {
         "a": "This is worth trying.",
         "b": "I'm not sure whether it agrees with me.",
-        "avi": "Ðáng đồng tiền bát gạo lắm đấy.",
+        "avi": "Đáng đồng tiền bát gạo lắm đấy.",
         "bvi": "Tôi không chắc là nó có hợp khẩu vị không."
       }
     ]
@@ -2487,12 +2487,12 @@
         "a": "Anything to follow?",
         "b": "Here comes the last course!",
         "avi": "Dùng tiếp món gì nữa không?",
-        "bvi": "Ðã đến món ăn cuối rồi!"
+        "bvi": "Đã đến món ăn cuối rồi!"
       },
       {
         "a": "Here comes the last course!",
         "b": "Shall I help you to the dish?",
-        "avi": "Ðã đến món ăn cuối rồi!",
+        "avi": "Đã đến món ăn cuối rồi!",
         "bvi": "Tôi sẽ phục vụ cho bà nhé?"
       },
       {
@@ -2583,7 +2583,7 @@
         "a": "Please clear the table.",
         "b": "Let me clear away the broken glass.",
         "avi": "Làm ơn dọn sạch bàn.",
-        "bvi": "Ðể tôi dọn sạch cái ly bể này."
+        "bvi": "Để tôi dọn sạch cái ly bể này."
       },
       {
         "a": "You could cut them off.",
@@ -2685,7 +2685,7 @@
         "a": "How do you find the coffee?",
         "b": "Quite all right, thanks.",
         "avi": "Bạn thấy cà phê thế nào?",
-        "bvi": "Ðược lắm, cám ơn bạn."
+        "bvi": "Được lắm, cám ơn bạn."
       }
     ]
   },
@@ -2792,7 +2792,7 @@
       {
         "a": "All right, roast beef, please.",
         "b": "What will you have to follow?",
-        "avi": "Ðược rồi, vui lòng cho tôi món thịt bò nướng.",
+        "avi": "Được rồi, vui lòng cho tôi món thịt bò nướng.",
         "bvi": "Sau đó bạn thích gọi món gì?"
       },
       {
@@ -3098,7 +3098,7 @@
       {
         "a": "Here's bread and water.",
         "b": "This toast is over-browned.",
-        "avi": "Ðây là nước và bánh mì.",
+        "avi": "Đây là nước và bánh mì.",
         "bvi": "Bánh mì này nướng cháy quá."
       },
       {
@@ -3147,7 +3147,7 @@
         "a": "You have charged me too much.",
         "b": "This is a mistake.",
         "avi": "Ông đã tính tiền tôi quá nhiều.",
-        "bvi": "Ðây là một nhầm lẫn."
+        "bvi": "Đây là một nhầm lẫn."
       },
       {
         "a": "What would you like to start?",
@@ -3164,7 +3164,7 @@
       {
         "a": "It comes with soup, a green salad or fries.",
         "b": "I'll take the fries.",
-        "avi": "Ðó là súp, cải xanh hoặc món xào.",
+        "avi": "Đó là súp, cải xanh hoặc món xào.",
         "bvi": "Tôi chọn món xào."
       }
     ]
@@ -3218,7 +3218,7 @@
       {
         "a": "I haven't been here in a while.",
         "b": "Do you prefer baked meat?",
-        "avi": "Ðã lâu rồi tôi không tới đây.",
+        "avi": "Đã lâu rồi tôi không tới đây.",
         "bvi": "Ông có thích thịt nướng không?"
       },
       {
@@ -3483,7 +3483,7 @@
         "a": "The bill please.",
         "b": "Let me pay my share.",
         "avi": "Xin đem hóa đơn.",
-        "bvi": "Ðể tôi trả phần tôi."
+        "bvi": "Để tôi trả phần tôi."
       },
       {
         "a": "40 dollars in all, sir.",
@@ -3596,7 +3596,7 @@
       {
         "a": "I'm making you some pancakes.",
         "b": "Less meat and more vegetables, please.",
-        "avi": "Ðể tôi làm món bánh xèo cho bạn nhé?",
+        "avi": "Để tôi làm món bánh xèo cho bạn nhé?",
         "bvi": "Xin cho ít thịt nhiều rau."
       },
       {
@@ -3729,7 +3729,7 @@
         "a": "There's Balut on here.",
         "b": "Okay, give me two.",
         "avi": "Ở đây có hột vịt lộn.",
-        "bvi": "Ðược, cho tôi hai cái đi."
+        "bvi": "Được, cho tôi hai cái đi."
       },
       {
         "a": "What are you making?",
@@ -3813,7 +3813,7 @@
         "a": "I like beef underdone.",
         "b": "Yes, I'll tell her.",
         "avi": "Tôi muốn thịt bò chín tái.",
-        "bvi": "Ðược rồi, tôi sẽ nói lại với cô ấy."
+        "bvi": "Được rồi, tôi sẽ nói lại với cô ấy."
       },
       {
         "a": "We're out of that dish.",
@@ -3926,7 +3926,7 @@
       {
         "a": "What about salt?",
         "b": "These are salty.",
-        "avi": "Ðộ mặn thế nào?",
+        "avi": "Độ mặn thế nào?",
         "bvi": "Cái này mặn quá."
       },
       {
@@ -4035,7 +4035,7 @@
         "a": "What's this?",
         "b": "It's a cream-cake.",
         "avi": "Còn món gì đây?",
-        "bvi": "Ðó là bánh kem."
+        "bvi": "Đó là bánh kem."
       }
     ]
   },
@@ -4059,7 +4059,7 @@
         "a": "It is necessary to send a deposit.",
         "b": "Here is a 100,000 dong.",
         "avi": "Ông cần gửi tiền đặt cọc.",
-        "bvi": "Ðây một trăm nghìn đồng."
+        "bvi": "Đây một trăm nghìn đồng."
       },
       {
         "a": "What money?",
@@ -4353,7 +4353,7 @@
         "a": "I have some excellent bitter ale.",
         "b": "That is all I shall require for today.",
         "avi": "Tôi có một ít bia trắng loại hảo hạng.",
-        "bvi": "Ðó là tất cả mọi thứ mà tôi cần hôm nay."
+        "bvi": "Đó là tất cả mọi thứ mà tôi cần hôm nay."
       },
       {
         "a": "You have to dress up at this restaurant.",
@@ -4377,7 +4377,7 @@
         "a": "Can you drink wine?",
         "b": "Will you bring me the wine-list?",
         "avi": "Ông có thể uống rượu vang được chứ?",
-        "bvi": "Ðem cho tôi bảng danh mục rượu vang."
+        "bvi": "Đem cho tôi bảng danh mục rượu vang."
       },
       {
         "a": "Will you have thick soup or clear?",
@@ -4389,7 +4389,7 @@
         "a": "He's on die.",
         "b": "Don't give him red meat.",
         "avi": "Anh ấy đang ăn kiêng.",
-        "bvi": "Ðừng dọn cho anh ấy thịt bò hay cừu."
+        "bvi": "Đừng dọn cho anh ấy thịt bò hay cừu."
       },
       {
         "a": "Have you ever eaten dog meat?",
@@ -4406,7 +4406,7 @@
       {
         "a": "Does the climate in Da Lat suit you?",
         "b": "We are Vietnamese.",
-        "avi": "Khí hậu ở Ðà Lạt có thích hợp với các bạn không?",
+        "avi": "Khí hậu ở Đà Lạt có thích hợp với các bạn không?",
         "bvi": "Chúng tôi là người Việt Nam."
       },
       {
@@ -4419,12 +4419,12 @@
         "a": "Not doughnuts but potatoes.",
         "b": "Don't bring us boiled potatoes.",
         "avi": "Không phải bánh rán mà là khoai tây.",
-        "bvi": "Ðừng đem khoai tây luộc cho chúng tôi."
+        "bvi": "Đừng đem khoai tây luộc cho chúng tôi."
       },
       {
         "a": "It's a specialty of the house here!",
         "b": "We don't want any.",
-        "avi": "Ðây là món đặc sản ở đây!",
+        "avi": "Đây là món đặc sản ở đây!",
         "bvi": "Chúng tôi không thích đâu."
       }
     ]
@@ -4544,7 +4544,7 @@
       {
         "a": "Enough, I'm done!",
         "b": "Will you have some more wine?",
-        "avi": "Ðủ rồi, tôi no rồi!",
+        "avi": "Đủ rồi, tôi no rồi!",
         "bvi": "Mời bạn uống thêm chút rượu nữa nhé?"
       }
     ]
@@ -4604,7 +4604,7 @@
       {
         "a": "What kind of dish is it?",
         "b": "Pan fried cabbage with pork.",
-        "avi": "Ðây là món gì vậy?",
+        "avi": "Đây là món gì vậy?",
         "bvi": "Bắp cải xào thịt heo."
       }
     ]
@@ -4827,13 +4827,13 @@
         "a": "Chopsticks or folks and knives?",
         "b": "Hand me those chopsticks.",
         "avi": "Dùng đũa hay nĩa và dao ạ?",
-        "bvi": "Ðưa tôi mấy đôi đũa."
+        "bvi": "Đưa tôi mấy đôi đũa."
       },
       {
         "a": "Have you got any Toothpicks?",
         "b": "Here you are.",
         "avi": "Bạn có cái tăm xỉa răng nào không?",
-        "bvi": "Ðây."
+        "bvi": "Đây."
       },
       {
         "a": "And this? What does it mean?",
@@ -4916,7 +4916,7 @@
       {
         "a": "The food is actually pretty good here.",
         "b": "What kind of meat do you have?",
-        "avi": "Ðồ ăn ở đây ngon lắm.",
+        "avi": "Đồ ăn ở đây ngon lắm.",
         "bvi": "Bạn có những thứ thịt gì?"
       },
       {
@@ -4928,7 +4928,7 @@
       {
         "a": "This is grilled scallop.",
         "b": "This requires more seasoning.",
-        "avi": "Ðây là món sò điệp nướng.",
+        "avi": "Đây là món sò điệp nướng.",
         "bvi": "Món này cần thêm gia vị."
       },
       {
@@ -5049,7 +5049,7 @@
         "a": "Are you ready to order yet?",
         "b": "Give me bacon and eggs to begin with.",
         "avi": "Ông đã gọi món ăn chưa ạ?",
-        "bvi": "Ðể bắt đầu, cho tôi giăm bông và trứng."
+        "bvi": "Để bắt đầu, cho tôi giăm bông và trứng."
       },
       {
         "a": "My I ask what do you want?",
@@ -5066,7 +5066,7 @@
       {
         "a": "Don't go too heavy on the sugar.",
         "b": "I always take two lumps in each cup.",
-        "avi": "Ðừng cho nhiều đường quá.",
+        "avi": "Đừng cho nhiều đường quá.",
         "bvi": "Tôi luôn dùng hai cục đường trong mỗi tách."
       },
       {
@@ -5085,7 +5085,7 @@
         "a": "Aren't you tired of boiled eggs?",
         "b": "Don't forget I like eggs well cooked.",
         "avi": "Anh không ngán món trứng luộc sao?",
-        "bvi": "Ðừng quên rằng tôi thích trứng thật chín."
+        "bvi": "Đừng quên rằng tôi thích trứng thật chín."
       }
     ]
   },
@@ -5109,7 +5109,7 @@
         "a": "You guys coming back to my place?",
         "b": "Here we are, let's go in.",
         "avi": "Các anh sắp đến chỗ tôi chưa?",
-        "bvi": "Ðến nơi rồi, chúng ta vào đi."
+        "bvi": "Đến nơi rồi, chúng ta vào đi."
       },
       {
         "a": "Do you have a reservation?",
@@ -5198,7 +5198,7 @@
       {
         "a": "Don't eat too full!",
         "b": "How many courses are you allowed?",
-        "avi": "Ðừng ăn no quá!",
+        "avi": "Đừng ăn no quá!",
         "bvi": "Bữa ăn gồm mấy món?"
       },
       {
@@ -5289,7 +5289,7 @@
         "a": "Please take a sea.",
         "b": "Is dinner served here?",
         "avi": "Xin mời ngồi.",
-        "bvi": "Ðây có phục vụ ăn tối không?"
+        "bvi": "Đây có phục vụ ăn tối không?"
       }
     ]
   }

@@ -515,7 +515,7 @@
     "k": "tracer investigation"
   },
   {"h": "tracer isotop", "segs": [{"k": "m", "t": "đồng vị đánh dấu."}], "k": "tracer isotop"},
-  {"h": "tracer isotope", "segs": [{"k": "m", "t": "Ðồng vị đánh dấu."}], "k": "tracer isotope"},
+  {"h": "tracer isotope", "segs": [{"k": "m", "t": "Đồng vị đánh dấu."}], "k": "tracer isotope"},
   {
     "h": "tracer lathe",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy tiện chép hình"}],
@@ -622,7 +622,7 @@
   {"h": "tracheal cartilage", "segs": [{"k": "m", "t": "Sụn khí quản."}], "k": "tracheal cartilage"},
   {
     "h": "tracheal fistula",
-    "segs": [{"k": "m", "t": "Ðường rò khí quản, đường mở thông khí quản."}],
+    "segs": [{"k": "m", "t": "Đường rò khí quản, đường mở thông khí quản."}],
     "k": "tracheal fistula"
   },
   {"h": "tracheal gland", "segs": [{"k": "m", "t": "Tuyến khí quản."}], "k": "tracheal gland"},
@@ -954,7 +954,7 @@
   },
   {
     "h": "trachomatous conjunctivitis",
-    "segs": [{"k": "m", "t": "Ðau mắt hột."}],
+    "segs": [{"k": "m", "t": "Đau mắt hột."}],
     "k": "trachomatous conjunctivitis"
   },
   {"h": "trachyandesite", "segs": [{"k": "m", "t": "tranchianđezit."}], "k": "trachyandesite"},
@@ -3336,7 +3336,7 @@
       {"k": "ex", "t": "the trade", "vi": ") ngành tàu ngầm (trong hải quân)"},
       {
         "k": "m",
-        "t": "(số nhiều) gió mậu dịch (gió mạnh thổi liên tục từ Ðông Nam hoặc Ðông Bắc về hướng xích đạo) (như)"
+        "t": "(số nhiều) gió mậu dịch (gió mạnh thổi liên tục từ Đông Nam hoặc Đông Bắc về hướng xích đạo) (như)"
       },
       {"k": "m", "t": "trade-wind"},
       {"k": "ex", "t": "to be in trade", "vi": "có cửa hiệu (buôn bán)"},
@@ -3412,7 +3412,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quảng cáo nhằm vào các thành viên trong bộ phận phân phối sản phẩm hay hàng hóa hơn là vào người tiêu dùng. Ðôi khi điều này giúp lôi cuốn sự chú ý về kinh doanh một sản phẩm cũng như để người tiêu dùng quảng cáo hay thay cho điều đó."
+        "t": "quảng cáo nhằm vào các thành viên trong bộ phận phân phối sản phẩm hay hàng hóa hơn là vào người tiêu dùng. Đôi khi điều này giúp lôi cuốn sự chú ý về kinh doanh một sản phẩm cũng như để người tiêu dùng quảng cáo hay thay cho điều đó."
       }
     ],
     "k": "trade advertising"
@@ -3752,7 +3752,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(hoặc industrial dispute) việc tranh chấp giữa chủ và thợ (hay công đoàn) thường về vấn đề lương bổng hay điều kiện làm việc. Theo bộ luật công đoàn và vấn đề lao động của Anh (1974). Một người không thể bị kiện cáo có tội vì một hành động vi phạm xa hơn trong cuộc tranh chấp về mặt cơ bản có dẫn đến hay đe dọa bất kỳ sự vi phạm, hay can thiệp đến sự thỏa thuận của bản hợp đồng. Nói chung việc miễn tố như vậy chỉ tác động nhiều cho hành động chống lại chủ của người thợ. Việc đứng cản không cho vào làm việc là vi phạm luật khi điều này trực tiếp chống lại người chủ trong khi người này không thuộc phe nào trong vụ tranh chấp cũng như không phải khách hàng hay người cung ứng của ông chủ trong vụ tranh chấp. Hơn nữa, không có việc miễn tố nhất là hành động bắt phải thực hiện một thỏa ước đóng cửa tiệm. Bộ luật này (đã được điều chỉnh bằng điều luật thuê Nhân công năm 1982 và 1984) và Bộ Luật Nghiệp Ðoàn (1984) đưa ra sự miễn tố tương tự cho các nghiệp đoàn về hành động vi phạm trong toan tính trong cuộc tranh chấp nảy sinh ra hiện tượng có liên quan, đều được đa số phiếu ủng hộ cuộc kiện tụng này theo một cuộc bỏ phiếu kín của các thành viên công đoàn. Theo bộ luật về thuê mướn nhân công (1988) một thành viên nghiệp đoàn có thể dùng nội quy đưa ra để ngăn chặn sự mâu thuẫn về công nghiệp xảy ra nếu không được chính thức hóa bằng một cuộc bỏ phiếu. Theo bộ luật thuê mướn nhân công (1982), khi sự miễn tố của nghiệp đoàn không đáp ứng và bị buộc phải bồi thường thiệt hại (hơn thế nữa là cho việc gây tổn hại nhân mạng hay cho sự vi phạm trách nhiệm có liên quan đến quyền sở hữu, kiểm soát hay sử dụng tài sản cùng như trách nhiệm pháp lý về sản phẩm dựa theo luật bảo vệ người tiêu dùng (1987) thì con số được trả không thể vượt quá giới hạn nhất định. Mức chênh lệch trong khoảng từ 10 bảng cho một nghiệp đoàn dưới 5000 thành viên đến 250.000 bảng cho một nghiệp đoàn với 100.000 thành viên hay hơn thế nữa)."
+        "t": "(hoặc industrial dispute) việc tranh chấp giữa chủ và thợ (hay công đoàn) thường về vấn đề lương bổng hay điều kiện làm việc. Theo bộ luật công đoàn và vấn đề lao động của Anh (1974). Một người không thể bị kiện cáo có tội vì một hành động vi phạm xa hơn trong cuộc tranh chấp về mặt cơ bản có dẫn đến hay đe dọa bất kỳ sự vi phạm, hay can thiệp đến sự thỏa thuận của bản hợp đồng. Nói chung việc miễn tố như vậy chỉ tác động nhiều cho hành động chống lại chủ của người thợ. Việc đứng cản không cho vào làm việc là vi phạm luật khi điều này trực tiếp chống lại người chủ trong khi người này không thuộc phe nào trong vụ tranh chấp cũng như không phải khách hàng hay người cung ứng của ông chủ trong vụ tranh chấp. Hơn nữa, không có việc miễn tố nhất là hành động bắt phải thực hiện một thỏa ước đóng cửa tiệm. Bộ luật này (đã được điều chỉnh bằng điều luật thuê Nhân công năm 1982 và 1984) và Bộ Luật Nghiệp Đoàn (1984) đưa ra sự miễn tố tương tự cho các nghiệp đoàn về hành động vi phạm trong toan tính trong cuộc tranh chấp nảy sinh ra hiện tượng có liên quan, đều được đa số phiếu ủng hộ cuộc kiện tụng này theo một cuộc bỏ phiếu kín của các thành viên công đoàn. Theo bộ luật về thuê mướn nhân công (1988) một thành viên nghiệp đoàn có thể dùng nội quy đưa ra để ngăn chặn sự mâu thuẫn về công nghiệp xảy ra nếu không được chính thức hóa bằng một cuộc bỏ phiếu. Theo bộ luật thuê mướn nhân công (1982), khi sự miễn tố của nghiệp đoàn không đáp ứng và bị buộc phải bồi thường thiệt hại (hơn thế nữa là cho việc gây tổn hại nhân mạng hay cho sự vi phạm trách nhiệm có liên quan đến quyền sở hữu, kiểm soát hay sử dụng tài sản cùng như trách nhiệm pháp lý về sản phẩm dựa theo luật bảo vệ người tiêu dùng (1987) thì con số được trả không thể vượt quá giới hạn nhất định. Mức chênh lệch trong khoảng từ 10 bảng cho một nghiệp đoàn dưới 5000 thành viên đến 250.000 bảng cho một nghiệp đoàn với 100.000 thành viên hay hơn thế nữa)."
       }
     ],
     "k": "trade dispute"
@@ -4031,7 +4031,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nhãn hiệu thương mại, nhãn hiệu thương phẩm. 1. nhãn hiệu đã đăng ký về mặt pháp luật hay được nhận biết về sự hiện diện của một công ty hay một sản phẩm trên thị trường. Có thể bao gồm cả phương pháp, chỉ dẫn hay việc kết hợp để tạo thành sản phẩm. Thương nhân đăng ký nhãn hiệu tại cơ quan. Ðăng ký nhãn hiệu, trực thuộc \"văn phòng chứng nhận bằng sáng chế\" và được quyền độc quyền sử dụng nhãn hiệu có liên quan đến hàng hóa đã đăng ký. Bất kỳ nhà sáng chế, nhà buôn, nhà xuất khẩu hay bán lẻ nào đều phải đăng ký nhãn hiệu. Việc đăng ký này ban đầu chỉ có hiệu lực trong bảy năm và sau đó phải đăng ký lại. Quyền duy trì sản phẩm đăng ký có thể bị mất đi khi nhãn hiệu không được sử dụng hay sử dụng sai trái. Người chủ của một nhãn hiệu có thể chia phân hay cho phép người khác sử dụng nhãn hiệu đó qua sự cho phép của cơ quan đăng ký nhãn hiệu. Nếu ai đó dùng nhãn hiệu mà không có sự cho phép của chủ nhân nó, hay dùng một nhãn hiệu dễ nhầm lẫn với nhãn hiệu đã đăng ký, người chủ nhãn hiệu ấy có thể kiện vì lệnh của tòa và những thiệt hại hay một giá trị lợi nhuận nào đó. Người chủ của một nhãn hiệu không đăng ký với cơ quan đăng ký nhãn hiệu nhưng bị phát hiện qua hang hóa nào đó thông qua việc sử dụng được có thể bị kiện tụng ra tòa vì vi phạm luật pháp. 2. đặc điểm dễ nhận ra."
+        "t": "nhãn hiệu thương mại, nhãn hiệu thương phẩm. 1. nhãn hiệu đã đăng ký về mặt pháp luật hay được nhận biết về sự hiện diện của một công ty hay một sản phẩm trên thị trường. Có thể bao gồm cả phương pháp, chỉ dẫn hay việc kết hợp để tạo thành sản phẩm. Thương nhân đăng ký nhãn hiệu tại cơ quan. Đăng ký nhãn hiệu, trực thuộc \"văn phòng chứng nhận bằng sáng chế\" và được quyền độc quyền sử dụng nhãn hiệu có liên quan đến hàng hóa đã đăng ký. Bất kỳ nhà sáng chế, nhà buôn, nhà xuất khẩu hay bán lẻ nào đều phải đăng ký nhãn hiệu. Việc đăng ký này ban đầu chỉ có hiệu lực trong bảy năm và sau đó phải đăng ký lại. Quyền duy trì sản phẩm đăng ký có thể bị mất đi khi nhãn hiệu không được sử dụng hay sử dụng sai trái. Người chủ của một nhãn hiệu có thể chia phân hay cho phép người khác sử dụng nhãn hiệu đó qua sự cho phép của cơ quan đăng ký nhãn hiệu. Nếu ai đó dùng nhãn hiệu mà không có sự cho phép của chủ nhân nó, hay dùng một nhãn hiệu dễ nhầm lẫn với nhãn hiệu đã đăng ký, người chủ nhãn hiệu ấy có thể kiện vì lệnh của tòa và những thiệt hại hay một giá trị lợi nhuận nào đó. Người chủ của một nhãn hiệu không đăng ký với cơ quan đăng ký nhãn hiệu nhưng bị phát hiện qua hang hóa nào đó thông qua việc sử dụng được có thể bị kiện tụng ra tòa vì vi phạm luật pháp. 2. đặc điểm dễ nhận ra."
       }
     ],
     "k": "trade mark"
@@ -4511,11 +4511,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Công đoàn. Một đoàn thể gồm nhiều tổ chức công nhân với những ngành nghề riêng. Công đoàn đại diện cho người lao động trong việc thương thuyết với các chủ lao động. Ở Mỹ, người ta gọi đó là Liên đoàn lao động. Ở Anh cuối thế kỷ 18 nhiều nhóm và câu lạc bộ của công nhân đòi hỏi tay nghề cao. Thế nên họ đã tổ chức dạy nghề để đáp ứng điều kiện làm việc tốt hơn. Trong suốt cuộc chiến tranh với nước Pháp (1793-1815) Luật nghiệp đoàn đã gây áp lực đối với những hoạt động như thế. Tuy nhiên, việc hủy bỏ đạo luật này năm 1824 nhằm giới hạn hoạt động của công đoàn đã trở nên có hiệu lực đối với các ngành nghề thủ công nhất định. Vào năm 1861, một nhóm các công đoàn của công nhân lành nghề ở Anh đã thành lập Ðại hội công đoàn (TUC). Năm 1871, họ giành được nhiều ưu thế pháp luật. Năm 1875, họ được quyền biểu tình, bãi công một cách ôn hòa. Hình thái tương tự cũng diễn ra ở Mỹ. Những liên hiệp địa phương nhỏ xuất hiện hình thái này trong những năm 1820. Một tổ chức quốc tế, Hiệp sĩ lao động, rất năng động và có ảnh hưởng (1869-1886), được lập ra với mục đích chính là thủ tiêu chế độ bóc lột sức lao động trẻ em. Nó được nối tiếp bằng Liên đoàn Lao động Mỹ (AFL) (1886), một tổ chức của những công nhân lành nghề. Với sự phát triển của nhiều phương thức sản xuất hàng loạt ở những quốc gia công nghiệp hóa, đại bộ phận công nhân tay nghề bậc trung và bậc thấp đã bị sa thải. Từ năm 1880 những người này đã cố gắng gia nhập công đoàn. Sự cố gắng này đã thu được thành công ở Anh và Châu Âu nhiều hơn ở Mỹ, nơi mà những lao động nhập cư sẽ bị trả lương rẻ mạt. Các tổ chức liên hiệp nổi lên ở Australia và New Zealand và ở các thuộc địa Anh vào thế kỷ 19, đầu tiên là giữa những công nhân lành nghề và sau đó là các công nhân tay nghề bậc trung và không chuyên môn. Chính vì quá trình công nghiệp hóa ở các quốc gia khác nên tổ chức công đoàn đã phát triển. Mặc dù ở Nam Phi hoạt động của công đoàn đối với các công nhân da đen là bất hợp pháp cho đến năm 1980. Ở Liên bang Xô Viết cũ và các nước cộng sản Ðông Âu, 90% công nhân nằm trong các liên hiệp do chính phủ kiểm soát. Hội này quan tâm đến vấn đề đào tạo, kế hoạch hóa nền kinh tế và quản lý bảo hiểm xã hội. Ở những nơi khác, các thành viên liên hiệp dao động với những thăng trầm của nền kinh tế và chính trị, đặc biệt là ở những nước đang phát triển, nơi công đoàn chỉ chiếm từ 10% (Ấn Ðộ) đến hơn 40% (Algeria). Yếu tố cuối cùng là những điển hình về nền kinh tế thị trường gắn liền với nền công nghiệp hóa. Nơi đây, các thành viên chỉ chiếm từ 15% (Pháp, Bồ Ðào Nha, Tây Ban Nha, Mỹ) đến 90% (Phần Lan, Thụy Ðiển). Ở Anh, luật pháp được ban hành bởi Bộ trưởng Thatcher của đảng cánh tả từ những năm 1980. Luật lệ mới đã làm sụt giảm nghiêm trọng sức mạnh của công đoàn."
+        "t": "Công đoàn. Một đoàn thể gồm nhiều tổ chức công nhân với những ngành nghề riêng. Công đoàn đại diện cho người lao động trong việc thương thuyết với các chủ lao động. Ở Mỹ, người ta gọi đó là Liên đoàn lao động. Ở Anh cuối thế kỷ 18 nhiều nhóm và câu lạc bộ của công nhân đòi hỏi tay nghề cao. Thế nên họ đã tổ chức dạy nghề để đáp ứng điều kiện làm việc tốt hơn. Trong suốt cuộc chiến tranh với nước Pháp (1793-1815) Luật nghiệp đoàn đã gây áp lực đối với những hoạt động như thế. Tuy nhiên, việc hủy bỏ đạo luật này năm 1824 nhằm giới hạn hoạt động của công đoàn đã trở nên có hiệu lực đối với các ngành nghề thủ công nhất định. Vào năm 1861, một nhóm các công đoàn của công nhân lành nghề ở Anh đã thành lập Đại hội công đoàn (TUC). Năm 1871, họ giành được nhiều ưu thế pháp luật. Năm 1875, họ được quyền biểu tình, bãi công một cách ôn hòa. Hình thái tương tự cũng diễn ra ở Mỹ. Những liên hiệp địa phương nhỏ xuất hiện hình thái này trong những năm 1820. Một tổ chức quốc tế, Hiệp sĩ lao động, rất năng động và có ảnh hưởng (1869-1886), được lập ra với mục đích chính là thủ tiêu chế độ bóc lột sức lao động trẻ em. Nó được nối tiếp bằng Liên đoàn Lao động Mỹ (AFL) (1886), một tổ chức của những công nhân lành nghề. Với sự phát triển của nhiều phương thức sản xuất hàng loạt ở những quốc gia công nghiệp hóa, đại bộ phận công nhân tay nghề bậc trung và bậc thấp đã bị sa thải. Từ năm 1880 những người này đã cố gắng gia nhập công đoàn. Sự cố gắng này đã thu được thành công ở Anh và Châu Âu nhiều hơn ở Mỹ, nơi mà những lao động nhập cư sẽ bị trả lương rẻ mạt. Các tổ chức liên hiệp nổi lên ở Australia và New Zealand và ở các thuộc địa Anh vào thế kỷ 19, đầu tiên là giữa những công nhân lành nghề và sau đó là các công nhân tay nghề bậc trung và không chuyên môn. Chính vì quá trình công nghiệp hóa ở các quốc gia khác nên tổ chức công đoàn đã phát triển. Mặc dù ở Nam Phi hoạt động của công đoàn đối với các công nhân da đen là bất hợp pháp cho đến năm 1980. Ở Liên bang Xô Viết cũ và các nước cộng sản Đông Âu, 90% công nhân nằm trong các liên hiệp do chính phủ kiểm soát. Hội này quan tâm đến vấn đề đào tạo, kế hoạch hóa nền kinh tế và quản lý bảo hiểm xã hội. Ở những nơi khác, các thành viên liên hiệp dao động với những thăng trầm của nền kinh tế và chính trị, đặc biệt là ở những nước đang phát triển, nơi công đoàn chỉ chiếm từ 10% (Ấn Độ) đến hơn 40% (Algeria). Yếu tố cuối cùng là những điển hình về nền kinh tế thị trường gắn liền với nền công nghiệp hóa. Nơi đây, các thành viên chỉ chiếm từ 15% (Pháp, Bồ Đào Nha, Tây Ban Nha, Mỹ) đến 90% (Phần Lan, Thụy Điển). Ở Anh, luật pháp được ban hành bởi Bộ trưởng Thatcher của đảng cánh tả từ những năm 1980. Luật lệ mới đã làm sụt giảm nghiêm trọng sức mạnh của công đoàn."
       },
       {
         "k": "m",
-        "t": "Công đoàn được tài trợ bởi sự quyên góp của các thành viên và thường hoạt động thông qua cuộc bầu cử của các công chức hành chính và quản trị, cũng như những cử tri đại diện cho công xưởng (đại biểu công nhân Anh). Mục tiêu kinh tế chính của họ là mức lương thỏa đáng, điều kiện làm việc tốt, và an toàn lao động cho các thành viên. Các kiểu công đoàn bao gồm công đoàn kinh doanh hoặc công đoàn công ty, thường là công ty đơn lẻ (thường ở Nhật Bản). Công đoàn các ngành nghề thủ công dành cho công nhân có tay nghề tương tự nhau trong những ngành công nghiệp khác nhau (theo truyền thống và thông thường, ví dụ ở Mỹ). Công đoàn công nghiệp đại diện cho tất cả công nhân trong một ngành công nghiệp đặc thù (thường là ở Ðức); và các liên hiệp chung, có ban đại biểu đại diện cho những nhóm công nhân trong những ngành nghề và ngành công nghiệp khác nhau. Số lượng công nhân tri thức và công nhân nữ đang tăng lên và bắt đầu cân xứng trong số các thành viên công đoàn. Công đoàn thường thiết lập mối quan hệ với địa bàn làm việc bằng các cuộc thương lượng tập thể. Họ sẵn sàng hỗ trợ khó khăn khi cần thiết. Ða số các công đoàn có mục tiêu chính trị to lớn và họ cố gắng tạo ảnh hưởng đối với chính sách kinh tế, xã hội của chính phủ thông qua tổ chức đại diện quốc tế. Chẳng hạn như TUC ở Anh hoặc Liên đoàn lao động Mỹ; Tổ chức hội đồng công nghiệp (AFL-CIO) ở Mỹ; các hội đồng thương mại địa phương. Công đoàn thường có nhiều mối liên kết với các đảng phái chính trị riêng biệt. Ví dụ đảng Lao động ở Anh. Ở một số quốc gia Châu Âu, như Pháp, có hai trụ sở công đoàn, liên kết lần lượt với đảng xã hội và đảng cộng sản. Ở Liên bang Xô Viết cũ và các nước có nền kinh tế tập trung, công đoàn thường hợp nhất với chính phủ trong việc thực thi các quyết định. Sự tiến bộ đáng kể của công đoàn vào thời kỳ chiến tranh thế giới II là việc công đoàn tham gia vào chính quyền. Công đoàn cũng trở thành nhân tố thứ ba của quốc gia. Nó ở cấp độ quốc gia hoặc cấp độ phát triển công nghiệp. Nó phản ánh trình độ phát triển kinh tế của một địa phương. Hai tổ chức thế giới chính của công đoàn là Liên đoàn Lao động thế giới (WFTU), trung tâm chính là ở Paris, và Liên minh công đoàn tự do quốc tế (ICFTU), trụ sở chính ở Brussels."
+        "t": "Công đoàn được tài trợ bởi sự quyên góp của các thành viên và thường hoạt động thông qua cuộc bầu cử của các công chức hành chính và quản trị, cũng như những cử tri đại diện cho công xưởng (đại biểu công nhân Anh). Mục tiêu kinh tế chính của họ là mức lương thỏa đáng, điều kiện làm việc tốt, và an toàn lao động cho các thành viên. Các kiểu công đoàn bao gồm công đoàn kinh doanh hoặc công đoàn công ty, thường là công ty đơn lẻ (thường ở Nhật Bản). Công đoàn các ngành nghề thủ công dành cho công nhân có tay nghề tương tự nhau trong những ngành công nghiệp khác nhau (theo truyền thống và thông thường, ví dụ ở Mỹ). Công đoàn công nghiệp đại diện cho tất cả công nhân trong một ngành công nghiệp đặc thù (thường là ở Đức); và các liên hiệp chung, có ban đại biểu đại diện cho những nhóm công nhân trong những ngành nghề và ngành công nghiệp khác nhau. Số lượng công nhân tri thức và công nhân nữ đang tăng lên và bắt đầu cân xứng trong số các thành viên công đoàn. Công đoàn thường thiết lập mối quan hệ với địa bàn làm việc bằng các cuộc thương lượng tập thể. Họ sẵn sàng hỗ trợ khó khăn khi cần thiết. Đa số các công đoàn có mục tiêu chính trị to lớn và họ cố gắng tạo ảnh hưởng đối với chính sách kinh tế, xã hội của chính phủ thông qua tổ chức đại diện quốc tế. Chẳng hạn như TUC ở Anh hoặc Liên đoàn lao động Mỹ; Tổ chức hội đồng công nghiệp (AFL-CIO) ở Mỹ; các hội đồng thương mại địa phương. Công đoàn thường có nhiều mối liên kết với các đảng phái chính trị riêng biệt. Ví dụ đảng Lao động ở Anh. Ở một số quốc gia Châu Âu, như Pháp, có hai trụ sở công đoàn, liên kết lần lượt với đảng xã hội và đảng cộng sản. Ở Liên bang Xô Viết cũ và các nước có nền kinh tế tập trung, công đoàn thường hợp nhất với chính phủ trong việc thực thi các quyết định. Sự tiến bộ đáng kể của công đoàn vào thời kỳ chiến tranh thế giới II là việc công đoàn tham gia vào chính quyền. Công đoàn cũng trở thành nhân tố thứ ba của quốc gia. Nó ở cấp độ quốc gia hoặc cấp độ phát triển công nghiệp. Nó phản ánh trình độ phát triển kinh tế của một địa phương. Hai tổ chức thế giới chính của công đoàn là Liên đoàn Lao động thế giới (WFTU), trung tâm chính là ở Paris, và Liên minh công đoàn tự do quốc tế (ICFTU), trụ sở chính ở Brussels."
       }
     ],
     "k": "trade union"
@@ -4722,7 +4722,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "gió mậu dịch (gió mạnh thổi liên tục từ Ðông Nam hoặc Ðông Bắc về hướng xích đạo) (như)"
+        "t": "gió mậu dịch (gió mạnh thổi liên tục từ Đông Nam hoặc Đông Bắc về hướng xích đạo) (như)"
       },
       {"k": "ex", "t": "trade", "vi": "."}
     ],
@@ -4818,7 +4818,7 @@
     "h": "Trademark Registration Treaty",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "điều ước Ðăng kí Nhãn hiệu Thương mại"}
+      {"k": "m", "t": "điều ước Đăng kí Nhãn hiệu Thương mại"}
     ],
     "k": "trademark registration treaty"
   },
@@ -5020,7 +5020,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hoạt động thương mại. Việc thực hiện một hay nhiều hành vi thương mại của thương nhân, bao gồm việc mua bán hàng hóa, cung ứng dịch vụ thương mại và các hoạt động xúc tiến thương mại nhằm mục đích lợi nhuận hoặc nhằm thực hiện các chính sách kinh tế-xã hội (Ðiều 5 khoản 2 Luật thương mại)."
+        "t": "hoạt động thương mại. Việc thực hiện một hay nhiều hành vi thương mại của thương nhân, bao gồm việc mua bán hàng hóa, cung ứng dịch vụ thương mại và các hoạt động xúc tiến thương mại nhằm mục đích lợi nhuận hoặc nhằm thực hiện các chính sách kinh tế-xã hội (Điều 5 khoản 2 Luật thương mại)."
       }
     ],
     "k": "trading activities"
@@ -6492,7 +6492,7 @@
   },
   {
     "h": "traffic lights",
-    "segs": [{"k": "m", "t": "(dt) (snh) Ðèn hiệu giao thông."}],
+    "segs": [{"k": "m", "t": "(dt) (snh) Đèn hiệu giao thông."}],
     "k": "traffic lights"
   },
   {
@@ -7356,7 +7356,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cuộc hành trình tiến về phía tây đã đẩy nhiều bộ lạc thổ dân Mỹ phải sống lưu vong. Dân cư chuyển đến các vùng ở Georgia và các bang Alabama, Mississippi, Louisiana, và Florida trong những năm 1830, đây là chính sách của Mỹ dùng vũ lực để trục xuất các bộ lạc phía đông ra khỏi đất của họ và chuyển dân cư đến lãnh thổ của bang Oklahoma phía tây sông Mississippi. Các bộ tộc có liên quan đến việc này là Cherokee, Creek, Choctaw, Chickasaw, và Seminole, được biết với tên gọi Năm bộ tộc văn minh. Thời tiết xấu, sự bỏ bê, và nguồn thực phẩm cạn kiệt đã gây ra nhiều thương vong trước khi cuộc hành trình kết thúc. Ðồng thời \"Con đường nước mắt\" (the Trail of Tears) cũng chấm dứt năm 1838. Theo thời gian, xứ sở mới của họ cũng bắt đầu bị người da trắng tấn công."
+        "t": "Cuộc hành trình tiến về phía tây đã đẩy nhiều bộ lạc thổ dân Mỹ phải sống lưu vong. Dân cư chuyển đến các vùng ở Georgia và các bang Alabama, Mississippi, Louisiana, và Florida trong những năm 1830, đây là chính sách của Mỹ dùng vũ lực để trục xuất các bộ lạc phía đông ra khỏi đất của họ và chuyển dân cư đến lãnh thổ của bang Oklahoma phía tây sông Mississippi. Các bộ tộc có liên quan đến việc này là Cherokee, Creek, Choctaw, Chickasaw, và Seminole, được biết với tên gọi Năm bộ tộc văn minh. Thời tiết xấu, sự bỏ bê, và nguồn thực phẩm cạn kiệt đã gây ra nhiều thương vong trước khi cuộc hành trình kết thúc. Đồng thời \"Con đường nước mắt\" (the Trail of Tears) cũng chấm dứt năm 1838. Theo thời gian, xứ sở mới của họ cũng bắt đầu bị người da trắng tấn công."
       }
     ],
     "k": "trail of tears"
@@ -7945,7 +7945,7 @@
         "vi": "đi lại bằng tàu hỏa thoải mái hơn là phải lái xe"
       },
       {"k": "ex", "t": "I normally catch/take/get the 7.15 train to", "vi": "London"},
-      {"k": "m", "t": "tôi thường đi Luân Ðôn bằng bằng chuyến tàu 7 giờ 15"},
+      {"k": "m", "t": "tôi thường đi Luân Đôn bằng bằng chuyến tàu 7 giờ 15"},
       {
         "k": "ex",
         "t": "if you miss the train, there's another an hour later",
@@ -8399,7 +8399,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðoàn tùy tùng (hay trainband). Một đơn vị vũ trang của một tỉnh ở nước Anh. Việc thành lập đội ngũ này vào năm 1573 theo quyết định của nữ hoàng Elizabeth I nhằm chọn lựa những binh lính khỏe mạnh nhất ở mỗi tỉnh. Họ được đào tạo sử dụng giáo và súng một cách bài bản. Các chàng trai khỏe mạnh của mỗi tỉnh đều được chọn lựa. Tốp người này ngày một đông và hoạt động rất tích cực trong những năm đầu của cuộc nội chiến Anh. Vào thế kỷ 18 họ được thay thế bởi lực lượng quân thường trực do quân đội quân chính quy."
+        "t": "Đoàn tùy tùng (hay trainband). Một đơn vị vũ trang của một tỉnh ở nước Anh. Việc thành lập đội ngũ này vào năm 1573 theo quyết định của nữ hoàng Elizabeth I nhằm chọn lựa những binh lính khỏe mạnh nhất ở mỗi tỉnh. Họ được đào tạo sử dụng giáo và súng một cách bài bản. Các chàng trai khỏe mạnh của mỗi tỉnh đều được chọn lựa. Tốp người này ngày một đông và hoạt động rất tích cực trong những năm đầu của cuộc nội chiến Anh. Vào thế kỷ 18 họ được thay thế bởi lực lượng quân thường trực do quân đội quân chính quy."
       }
     ],
     "k": "trained band"
@@ -8514,7 +8514,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cơ quan này thành lập năm 1989 để thay thế cho Ủy ban Ðào Tạo, là cơ quan thay thế cho Manpower Services Commission Traing Agency tách riêng biệt khỏi nhà nước nhưng chịu trách nhiệm về vấn đề Secretary of State for Empoyment, và cùng với sự ủng hộ của nhà nước đem đến nhiều cơ hội để đào tạo và đào tạo lại, và giúp những người ở tuổi 16-17 tuổi thất nghiệp gia nhập vào Youth Trainign Scheme (Kế hoạch đào tạo thanh niên). Với hai năm đào tạo nghề, hết 20 tuần ở trường học hay trung tâm huấn luyện, thời gian còn lại dành cho việc thực tập công việc đã hoạch định, điều này thường đem lại chất lượng cho việc huấn luyện nghề nghiệp. Người ghi danh học nhận một trợ cấp miễn thuế hàng tuần. Cơ quan đào tạo này còn chịu trách nhiệm về việc huấn luyện kỹ năng và huấn luyện cả người lớn."
+        "t": "cơ quan này thành lập năm 1989 để thay thế cho Ủy ban Đào Tạo, là cơ quan thay thế cho Manpower Services Commission Traing Agency tách riêng biệt khỏi nhà nước nhưng chịu trách nhiệm về vấn đề Secretary of State for Empoyment, và cùng với sự ủng hộ của nhà nước đem đến nhiều cơ hội để đào tạo và đào tạo lại, và giúp những người ở tuổi 16-17 tuổi thất nghiệp gia nhập vào Youth Trainign Scheme (Kế hoạch đào tạo thanh niên). Với hai năm đào tạo nghề, hết 20 tuần ở trường học hay trung tâm huấn luyện, thời gian còn lại dành cho việc thực tập công việc đã hoạch định, điều này thường đem lại chất lượng cho việc huấn luyện nghề nghiệp. Người ghi danh học nhận một trợ cấp miễn thuế hàng tuần. Cơ quan đào tạo này còn chịu trách nhiệm về việc huấn luyện kỹ năng và huấn luyện cả người lớn."
       }
     ],
     "k": "training agency"
@@ -9807,7 +9807,7 @@
     "ipa": "trænz'gres",
     "k": "trangress"
   },
-  {"h": "trangsatlantic", "segs": [{"k": "m", "t": "vượt Ðại Tây Dương."}], "k": "trangsatlantic"},
+  {"h": "trangsatlantic", "segs": [{"k": "m", "t": "vượt Đại Tây Dương."}], "k": "trangsatlantic"},
   {
     "h": "trangui",
     "segs": [{"k": "m", "t": "(tt) Yên tĩnh; thanh bình."}],
@@ -10068,7 +10068,7 @@
   },
   {
     "h": "Trans-Asian Railway",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "TAR Ðường sắt Liên Á"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "TAR Đường sắt Liên Á"}],
     "k": "trans-asian railway"
   },
   {
@@ -10219,7 +10219,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tuyến đường sắt mở đường đến Siberia, phát triển các nguồn tài nguyên của nước Nga về phía Ðông Á. Nó được bắt đầu bằng kinh phí cho vay của Pháp năm 1891 và gần như hoàn thành năm 1904. Sự ngờ vực nổi lên ở Nhật Bản là một trong những nguyên nhân dẫn đến cuộc chiến tranh Nga-Nhật. Từ Moscow, tuyến đường chạy về phía đông quanh hồ Baikal đến Vladivostok Nhật Bản, với hành trình dài 9.311 km (5.786 dặm). Tàu tốc hành mất 6 ngày để đến được Vladivostok."
+        "t": "Tuyến đường sắt mở đường đến Siberia, phát triển các nguồn tài nguyên của nước Nga về phía Đông Á. Nó được bắt đầu bằng kinh phí cho vay của Pháp năm 1891 và gần như hoàn thành năm 1904. Sự ngờ vực nổi lên ở Nhật Bản là một trong những nguyên nhân dẫn đến cuộc chiến tranh Nga-Nhật. Từ Moscow, tuyến đường chạy về phía đông quanh hồ Baikal đến Vladivostok Nhật Bản, với hành trình dài 9.311 km (5.786 dặm). Tàu tốc hành mất 6 ngày để đến được Vladivostok."
       }
     ],
     "k": "trans-siberian railway"
@@ -10870,19 +10870,19 @@
     "h": "transatlantic",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "ở phía bên kia Ðại Tây Dương, từ phía bên kia Ðại Tây Dương"},
+      {"k": "m", "t": "ở phía bên kia Đại Tây Dương, từ phía bên kia Đại Tây Dương"},
       {
         "k": "ex",
         "t": "two years in New York have left him with a transatlantic accent",
-        "vi": "hai năm ở New York đã để lại cho anh ta một giọng nói kiểu bên kia Ðại Tây Dương (tức là giọng Mỹ)"
+        "vi": "hai năm ở New York đã để lại cho anh ta một giọng nói kiểu bên kia Đại Tây Dương (tức là giọng Mỹ)"
       },
-      {"k": "m", "t": "đi qua Ðại Tây Dương, vượt Ðại Tây Dương"},
-      {"k": "ex", "t": "a transatlantic flight", "vi": "chuyến bay qua Ðại Tây Dương"},
-      {"k": "m", "t": "về những nước ở cả hai bên bờ Ðại Tây Dương"},
+      {"k": "m", "t": "đi qua Đại Tây Dương, vượt Đại Tây Dương"},
+      {"k": "ex", "t": "a transatlantic flight", "vi": "chuyến bay qua Đại Tây Dương"},
+      {"k": "m", "t": "về những nước ở cả hai bên bờ Đại Tây Dương"},
       {
         "k": "ex",
         "t": "a transatlantic trade agreement",
-        "vi": "hiệp định buôn bán giữa các nước hai bên bờ Ðại Tây Dương."
+        "vi": "hiệp định buôn bán giữa các nước hai bên bờ Đại Tây Dương."
       }
     ],
     "ipa": ",trænzət'læntik",
@@ -10890,7 +10890,7 @@
   },
   {
     "h": "transatlantic liner",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tàu vượt Ðại Tây Dương"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tàu vượt Đại Tây Dương"}],
     "k": "transatlantic liner"
   },
   {
@@ -10903,7 +10903,7 @@
     "k": "transatlantically"
   },
   {"h": "transatrial", "segs": [{"k": "m", "t": "Qua tâm nhĩ."}], "k": "transatrial"},
-  {"h": "transaudient", "segs": [{"k": "m", "t": "Ðể làn sóng âm qua được."}], "k": "transaudient"},
+  {"h": "transaudient", "segs": [{"k": "m", "t": "Để làn sóng âm qua được."}], "k": "transaudient"},
   {
     "h": "transaxle",
     "segs": [
@@ -11107,7 +11107,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "kỹ thuật nhập thiền và thư giãn bắt nguồn từ Ấn Ðộ giáo, gồm có việc tự lặp đi lặp lại cho mình nghe một câu đặc biệt)."
+        "t": "kỹ thuật nhập thiền và thư giãn bắt nguồn từ Ấn Độ giáo, gồm có việc tự lặp đi lặp lại cho mình nghe một câu đặc biệt)."
       }
     ],
     "ipa": ",trænsən'dentl medi'teiʃn",
@@ -11310,7 +11310,7 @@
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "Vận tải hàng hóa đại lục châu Âu"},
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Cục Vận tải Hàng hóa Ðại lục Châu Âu"}
+      {"k": "m", "t": "Cục Vận tải Hàng hóa Đại lục Châu Âu"}
     ],
     "k": "transcontinental freight bureau"
   },
@@ -13310,7 +13310,7 @@
       {
         "k": "ex",
         "t": "the Transfiguration",
-        "vi": ") lễ Biến hình (ngày lễ Cơ Ðốc giáo vào ngày 6 tháng 8, để tưởng nhớ lúc Chúa Giêsu xuất hiện trước ba môn đồ của ông dưới dạng biến hình kỳ diệu)."
+        "vi": ") lễ Biến hình (ngày lễ Cơ Đốc giáo vào ngày 6 tháng 8, để tưởng nhớ lúc Chúa Giêsu xuất hiện trước ba môn đồ của ông dưới dạng biến hình kỳ diệu)."
       }
     ],
     "ipa": ",trænsfigə'reiʃn",
@@ -16210,7 +16210,7 @@
   },
   {
     "h": "transition mutation",
-    "segs": [{"k": "m", "t": "Ðột biến đồng hoán."}],
+    "segs": [{"k": "m", "t": "Đột biến đồng hoán."}],
     "k": "transition mutation"
   },
   {
@@ -17373,7 +17373,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "hệ số lọc"},
-      {"k": "m", "t": "hệ số Ðacxi"}
+      {"k": "m", "t": "hệ số Đacxi"}
     ],
     "k": "transmissibility coefficient"
   },
@@ -17667,7 +17667,7 @@
   },
   {
     "h": "transmission deafness",
-    "segs": [{"k": "m", "t": "Ðiếc dẫn truyền."}],
+    "segs": [{"k": "m", "t": "Điếc dẫn truyền."}],
     "k": "transmission deafness"
   },
   {
@@ -20350,7 +20350,7 @@
       {
         "k": "ex",
         "t": "transpolar flights from London to Tokyo",
-        "vi": "những chuyến bay qua các vùng địa cực từ Luân Ðôn sang Tôkyô."
+        "vi": "những chuyến bay qua các vùng địa cực từ Luân Đôn sang Tôkyô."
       }
     ],
     "ipa": "trænz'poulə",
@@ -20864,15 +20864,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "Sự thay đổi phương thức vận chuyển hàng hóa và người từ nơi này sang nơi khác trong suốt thế kỷ 19. Ðầu thế kỷ 19, công việc vận chuyển đã dựa vào sức gió, sức nước và sức ngựa. Ở Anh, sự tiến bộ này được xem như kết quả của cuộc Cách mạng công nghiệp. Các nhà tư bản công nghiệp yêu cầu phải cải thiện đường xá và đường thủy nội địa để chuyên chở hàng hóa. Ðường cao tốc được xây dựng, cùng với hệ thống bảo quản đường sá. Chính phủ tiến hành thu phí khách bộ hành tại các trạm thu phí. Các kỹ sư công trình dân dụng, như Thomas Telford và John Macadam đã xây dựng các công trình cầu đường. Họ quyết định loại bỏ việc thu phí cầu đường và những chi phí bảo quản đường sá được trích từ tiền thuế. Cũng trong thời kỳ này, đầu máy hơi nước đầu tiên chạy trên đường ray do Richard Trevithick sáng tạo ra năm 1804. Tiếp theo đó là tuyến đường sắt đầu tiên chuyên chở hàng hóa và hành khách từ Stockton đến Darlington, mở cửa năm 1825. Vào năm 1851, người ta xây dựng hệ thống đường ray xe lửa ở 17 nước khác, bao gồm Pháp (1832), Ðức (1835), và giữa St Petersburg với Moscow (1851). Ðường xe lửa cao tốc hiện nay đang cạnh tranh với đường hàng không vì nó đã rút ngắn được hành trình."
+        "t": "Sự thay đổi phương thức vận chuyển hàng hóa và người từ nơi này sang nơi khác trong suốt thế kỷ 19. Đầu thế kỷ 19, công việc vận chuyển đã dựa vào sức gió, sức nước và sức ngựa. Ở Anh, sự tiến bộ này được xem như kết quả của cuộc Cách mạng công nghiệp. Các nhà tư bản công nghiệp yêu cầu phải cải thiện đường xá và đường thủy nội địa để chuyên chở hàng hóa. Đường cao tốc được xây dựng, cùng với hệ thống bảo quản đường sá. Chính phủ tiến hành thu phí khách bộ hành tại các trạm thu phí. Các kỹ sư công trình dân dụng, như Thomas Telford và John Macadam đã xây dựng các công trình cầu đường. Họ quyết định loại bỏ việc thu phí cầu đường và những chi phí bảo quản đường sá được trích từ tiền thuế. Cũng trong thời kỳ này, đầu máy hơi nước đầu tiên chạy trên đường ray do Richard Trevithick sáng tạo ra năm 1804. Tiếp theo đó là tuyến đường sắt đầu tiên chuyên chở hàng hóa và hành khách từ Stockton đến Darlington, mở cửa năm 1825. Vào năm 1851, người ta xây dựng hệ thống đường ray xe lửa ở 17 nước khác, bao gồm Pháp (1832), Đức (1835), và giữa St Petersburg với Moscow (1851). Đường xe lửa cao tốc hiện nay đang cạnh tranh với đường hàng không vì nó đã rút ngắn được hành trình."
       },
       {
         "k": "m",
-        "t": "Tàu thủy hơi nước trước đây chỉ sử dụng ở cửa sông và vận chuyển dọc bờ biển, chuyến tàu hơi nước đầu tiên vượt Ðại Tây Dương là vào năm 1838. Những công ty bưu chính sử dụng tàu hơi nước được thành lập bởi những thương nhân như Samuel Cunard nhằm vận chuyển hành khách và hàng hóa từ Châu Âu băng qua Ðại Tây Dương đến các vùng thuộc địa."
+        "t": "Tàu thủy hơi nước trước đây chỉ sử dụng ở cửa sông và vận chuyển dọc bờ biển, chuyến tàu hơi nước đầu tiên vượt Đại Tây Dương là vào năm 1838. Những công ty bưu chính sử dụng tàu hơi nước được thành lập bởi những thương nhân như Samuel Cunard nhằm vận chuyển hành khách và hàng hóa từ Châu Âu băng qua Đại Tây Dương đến các vùng thuộc địa."
       },
       {
         "k": "m",
-        "t": "Cuối thế kỷ 19, sự xuất hiện của xe đạp đã mang lại thuận tiện cho việc di chuyển cá nhân. Năm 1876, xe đạp an toàn được phát minh và năm 1889, lốp bơm hơi ra đời. Năm 1884, một thợ sửa súng người Ðức, Gottlieb Daimler, phát minh ra động cơ đốt xăng và chẳng bao lâu sau đó Karl Benz đã tạo ra một trong những chiếc xe ô tô đầu tiên chạy bằng xăng. Henry Ford đã sản xuất ô tô đại trà (1909) và tạo ra kiểu xe Model T. Việc di chuyển bằng ô tô làm tăng nhu cầu cải tiến đường sá cùng với hệ thống xe điện và tàu điện ngầm. Cũng vậy, việc đi lại cá nhân được cải tiến vượt bậc và nhanh chóng thúc đẩy sự phát triển của vùng ngoại ô."
+        "t": "Cuối thế kỷ 19, sự xuất hiện của xe đạp đã mang lại thuận tiện cho việc di chuyển cá nhân. Năm 1876, xe đạp an toàn được phát minh và năm 1889, lốp bơm hơi ra đời. Năm 1884, một thợ sửa súng người Đức, Gottlieb Daimler, phát minh ra động cơ đốt xăng và chẳng bao lâu sau đó Karl Benz đã tạo ra một trong những chiếc xe ô tô đầu tiên chạy bằng xăng. Henry Ford đã sản xuất ô tô đại trà (1909) và tạo ra kiểu xe Model T. Việc di chuyển bằng ô tô làm tăng nhu cầu cải tiến đường sá cùng với hệ thống xe điện và tàu điện ngầm. Cũng vậy, việc đi lại cá nhân được cải tiến vượt bậc và nhanh chóng thúc đẩy sự phát triển của vùng ngoại ô."
       },
       {
         "k": "m",
@@ -21437,13 +21437,13 @@
     "h": "Transports International Routiers",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Vận tải Ðường bộ quốc tế (Pháp)"}
+      {"k": "m", "t": "Vận tải Đường bộ quốc tế (Pháp)"}
     ],
     "k": "transports international routiers"
   },
   {
     "h": "Transports Internationaux Routiers",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Vận tải Ðường bộ quốc tế"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Vận tải Đường bộ quốc tế"}],
     "k": "transports internationaux routiers"
   },
   {
@@ -22460,7 +22460,7 @@
   },
   {
     "h": "transverse diameter",
-    "segs": [{"k": "m", "t": "Ðường kính ngang."}],
+    "segs": [{"k": "m", "t": "Đường kính ngang."}],
     "k": "transverse diameter"
   },
   {
@@ -22727,7 +22727,7 @@
   {"h": "transverse impulse", "segs": [{"k": "m", "t": "xung ngang."}], "k": "transverse impulse"},
   {
     "h": "transverse incision",
-    "segs": [{"k": "m", "t": "Ðường rạch ngang."}],
+    "segs": [{"k": "m", "t": "Đường rạch ngang."}],
     "k": "transverse incision"
   },
   {
@@ -22876,7 +22876,7 @@
   },
   {
     "h": "transverse of neck",
-    "segs": [{"k": "m", "t": "Ðộng mạch cổ ngang."}],
+    "segs": [{"k": "m", "t": "Động mạch cổ ngang."}],
     "k": "transverse of neck"
   },
   {
@@ -23035,7 +23035,7 @@
   },
   {
     "h": "transverse scapular artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch vai trên."}],
+    "segs": [{"k": "m", "t": "Động mạch vai trên."}],
     "k": "transverse scapular artery"
   },
   {
@@ -23221,7 +23221,7 @@
   },
   {
     "h": "transversiton mutation",
-    "segs": [{"k": "m", "t": "Ðột biến dị hoán."}],
+    "segs": [{"k": "m", "t": "Đột biến dị hoán."}],
     "k": "transversiton mutation"
   },
   {
@@ -23316,7 +23316,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử. Transylvania là hạt nhân của đế chế La Mã Dacia năm 106 sau công nguyên và sau khi chế độ La Mã tan rã (e. 270). Lịch sử của vùng đất này không được ghi chép lại cho đến khi người Magyars ở Hungary xâm lăng nơi đây năm 900. Năm 1003, nó sát nhập vào lãnh thổ Hungary, nhưng vẫn duy trì quyền tự trị. Nó được bảo đảm quyền lực bằng Liên hiệp (1437) giữa ba quốc gia (hậu duệ quý tộc ở các thuộc địa Szekler, Saxon, và Magyar). Nền độc lập này được bảo vệ đến năm 1566, khi lãnh địa Transylvania độc lập trở thành mục tiêu thống trị của đế chế Ottoman. Thế kỷ 17 là thời kỳ hoàng kim. Ðất nước này được xem là mẫu mực về sự lòng khoan dung tôn giáo. Năm 1699, người Ottoman thừa nhận quyền cai trị của Habsburg trên lãnh thổ Transylvania. Trong suốt thế kỷ 18 dòng họ Habsburgs đã không mang lại quyền lợi và tự do cho ba quốc gia trên. Ðồng thời người Romania phát triển dân số đến một nửa dân số trong khu vực. Họ không được công nhận về chính trị như \"bốn quốc gia\". Tuy nhiên, họ bị phân biệt đối xử về tôn giáo của đạo Cơ đốc giáo chính thống Hy Lạp. Nơi đây vẫn là thuộc địa của Áo cho đến khi nó trở thành một phần trong tổng thể quốc gia Hungary sau khi đế chế Áo-Hung được thiết lập (1867). Năm 1918, người Romania của vùng Transylvania tuyên bố sát nhập vào Romania. Ðiều này được xác nhận trong Hiệp ước Trianon (1920). Hungary đã lấn chiếm đất đai khoảng hai phần năm lãnh thổ trong suốt chiến tranh thế giới II, nhưng sau đó họ buộc phải trao trả lại vùng đất này cho Romania năm 1947. Sự phân chia lãnh thổ và chính sách đồng hóa nền văn minh được người Romania đặt ra. Hungaria là nguyên nhân gây xích mích giữa hai nước. Năm 1990, những người không theo tôn giáo của Hungary ở Bucharest đã nổi loạn cùng với Liên minh Dân chủ Romania của người Hungrary để thành tổ chức (HDUR). Suốt năm 1992 tổ chức này đã giành thắng lợi trong các cuộc bầu cử địa phương ở Transylvania. Tình trạng căng thẳng về chủng tộc vẫn tiếp diễn trong khu vực. Người Gypsy bị dân thành Tirgu Mures hành hình năm 1993. Gheorghe Funar, thị trưởng của thủ đô Cluj và là thủ lĩnh Ðảng Thống nhất quốc gia của những người theo chủ nghĩa dân tộc cực đoan Romania (RNUP), đã tìm cách khích động sự đối đầu với thiểu số người Hungary qua các năm 1994 và 1995. Năm 1996, một hiệp ước được ký kết. Qua đó, Hungary sẽ phải từ bỏ tất cả mọi đòi hỏi đối với Transylvania và Romania. Ðồng thời cam kết ủng hộ quyền lợi của những người Hungary không theo tôn giáo."
+        "t": "Lịch sử. Transylvania là hạt nhân của đế chế La Mã Dacia năm 106 sau công nguyên và sau khi chế độ La Mã tan rã (e. 270). Lịch sử của vùng đất này không được ghi chép lại cho đến khi người Magyars ở Hungary xâm lăng nơi đây năm 900. Năm 1003, nó sát nhập vào lãnh thổ Hungary, nhưng vẫn duy trì quyền tự trị. Nó được bảo đảm quyền lực bằng Liên hiệp (1437) giữa ba quốc gia (hậu duệ quý tộc ở các thuộc địa Szekler, Saxon, và Magyar). Nền độc lập này được bảo vệ đến năm 1566, khi lãnh địa Transylvania độc lập trở thành mục tiêu thống trị của đế chế Ottoman. Thế kỷ 17 là thời kỳ hoàng kim. Đất nước này được xem là mẫu mực về sự lòng khoan dung tôn giáo. Năm 1699, người Ottoman thừa nhận quyền cai trị của Habsburg trên lãnh thổ Transylvania. Trong suốt thế kỷ 18 dòng họ Habsburgs đã không mang lại quyền lợi và tự do cho ba quốc gia trên. Đồng thời người Romania phát triển dân số đến một nửa dân số trong khu vực. Họ không được công nhận về chính trị như \"bốn quốc gia\". Tuy nhiên, họ bị phân biệt đối xử về tôn giáo của đạo Cơ đốc giáo chính thống Hy Lạp. Nơi đây vẫn là thuộc địa của Áo cho đến khi nó trở thành một phần trong tổng thể quốc gia Hungary sau khi đế chế Áo-Hung được thiết lập (1867). Năm 1918, người Romania của vùng Transylvania tuyên bố sát nhập vào Romania. Điều này được xác nhận trong Hiệp ước Trianon (1920). Hungary đã lấn chiếm đất đai khoảng hai phần năm lãnh thổ trong suốt chiến tranh thế giới II, nhưng sau đó họ buộc phải trao trả lại vùng đất này cho Romania năm 1947. Sự phân chia lãnh thổ và chính sách đồng hóa nền văn minh được người Romania đặt ra. Hungaria là nguyên nhân gây xích mích giữa hai nước. Năm 1990, những người không theo tôn giáo của Hungary ở Bucharest đã nổi loạn cùng với Liên minh Dân chủ Romania của người Hungrary để thành tổ chức (HDUR). Suốt năm 1992 tổ chức này đã giành thắng lợi trong các cuộc bầu cử địa phương ở Transylvania. Tình trạng căng thẳng về chủng tộc vẫn tiếp diễn trong khu vực. Người Gypsy bị dân thành Tirgu Mures hành hình năm 1993. Gheorghe Funar, thị trưởng của thủ đô Cluj và là thủ lĩnh Đảng Thống nhất quốc gia của những người theo chủ nghĩa dân tộc cực đoan Romania (RNUP), đã tìm cách khích động sự đối đầu với thiểu số người Hungary qua các năm 1994 và 1995. Năm 1996, một hiệp ước được ký kết. Qua đó, Hungary sẽ phải từ bỏ tất cả mọi đòi hỏi đối với Transylvania và Romania. Đồng thời cam kết ủng hộ quyền lợi của những người Hungary không theo tôn giáo."
       }
     ],
     "k": "transylvania"
@@ -23651,7 +23651,7 @@
     "segs": [{"k": "m", "t": "Dây chằng thang."}],
     "k": "trapezoid ligament"
   },
-  {"h": "trapezoid ridge", "segs": [{"k": "m", "t": "Ðường thang."}], "k": "trapezoid ridge"},
+  {"h": "trapezoid ridge", "segs": [{"k": "m", "t": "Đường thang."}], "k": "trapezoid ridge"},
   {
     "h": "trapezoid shell",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "vỏ hình thang"}],
@@ -24312,7 +24312,7 @@
     "segs": [{"k": "m", "t": "Mât cảm giác chấn thương."}],
     "k": "traumatc anesthesia"
   },
-  {"h": "traumatherapy", "segs": [{"k": "m", "t": "Ðiều trị chấn thương."}], "k": "traumatherapy"},
+  {"h": "traumatherapy", "segs": [{"k": "m", "t": "Điều trị chấn thương."}], "k": "traumatherapy"},
   {
     "h": "traumatic",
     "segs": [
@@ -24374,7 +24374,7 @@
   },
   {
     "h": "traumatic cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh chấn thương."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh chấn thương."}],
     "k": "traumatic cataract"
   },
   {
@@ -24384,7 +24384,7 @@
   },
   {
     "h": "traumatic epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh chấn thương."}],
+    "segs": [{"k": "m", "t": "Động kinh chấn thương."}],
     "k": "traumatic epilepsy"
   },
   {
@@ -24537,7 +24537,7 @@
   {"h": "traumatosis", "segs": [{"k": "m", "t": "Chấn thương."}], "k": "traumatosis"},
   {
     "h": "traumatotherapy",
-    "segs": [{"k": "m", "t": "Ðiều trị chấn thương."}],
+    "segs": [{"k": "m", "t": "Điều trị chấn thương."}],
     "k": "traumatotherapy"
   },
   {"h": "traumatropism", "segs": [{"k": "m", "t": "tính hướng chấn thương."}], "k": "traumatropism"},
@@ -27715,7 +27715,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hiệp ước cảng về việc mở các hải cảng Châu Á. Ðặc biệt là ở Nhật Bản và Trung Quốc, hải cảng được mở cửa để thông thương với nước ngoài. Ðây là kết quả của hàng loạt các hiệp ước bất cập vào thế kỷ 19. Ở Trung Quốc, 5 hải cảng mở đầu tiên là kết quả của Hiệp ước Thiên Kinh (1858) và Hội nghị Bắc Kinh (1860). Khoảng hơn 35 cảng khác đã được mở trước cuộc Cách mạng Trung Quốc năm 1911 diễn ra. Ða số cảng được mở đều nằm trên sông Yangtze. Người nước ngoài sống ở các khu vực riêng ở hải cảng mở sẽ được chính quyền của mình bảo hộ và không phải đóng thuế theo luật định Trung Quốc. Năm 1943, điều này đã gây nên sự phẫn nộ lớn của chính phủ quốc gia và điều luật mới được ban hành. Tất cả những tầng lớp xã hội phải tuân thủ. Sau hiệp ước Kanagawa (1858), Nhật Bản thiết lập năm hải cảng mở, nhưng các thế lực nước ngoại đã phải nhượng bộ chính phủ năm 1899."
+        "t": "Hiệp ước cảng về việc mở các hải cảng Châu Á. Đặc biệt là ở Nhật Bản và Trung Quốc, hải cảng được mở cửa để thông thương với nước ngoài. Đây là kết quả của hàng loạt các hiệp ước bất cập vào thế kỷ 19. Ở Trung Quốc, 5 hải cảng mở đầu tiên là kết quả của Hiệp ước Thiên Kinh (1858) và Hội nghị Bắc Kinh (1860). Khoảng hơn 35 cảng khác đã được mở trước cuộc Cách mạng Trung Quốc năm 1911 diễn ra. Đa số cảng được mở đều nằm trên sông Yangtze. Người nước ngoài sống ở các khu vực riêng ở hải cảng mở sẽ được chính quyền của mình bảo hộ và không phải đóng thuế theo luật định Trung Quốc. Năm 1943, điều này đã gây nên sự phẫn nộ lớn của chính phủ quốc gia và điều luật mới được ban hành. Tất cả những tầng lớp xã hội phải tuân thủ. Sau hiệp ước Kanagawa (1858), Nhật Bản thiết lập năm hải cảng mở, nhưng các thế lực nước ngoại đã phải nhượng bộ chính phủ năm 1899."
       }
     ],
     "k": "treaty ports"
@@ -29397,7 +29397,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Chiến tranh chiến hào. Một cách đánh kiểu chiến hào dài và hẹp. Binh lính ẩn nấp dưới chiến hào và tránh được hỏa lực của kẻ thù. Ðầu chiến tranh thế giới I, các nhà quân sự tin rằng chiến thắng sẽ do lực lượng bộ binh quyết định. Ðây cũng là trọng trách lớn lao mặc cho sự phát triển của các loại vũ khí như súng liên thanh nhỏ và pháo. Sau cuộc chiến ở Marne, hàng ngàn dặm hào được đào dọc theo biên giới phía Tây. Chúng liên kết với nhau thành một hệ thống phức tạp và được hàng rào dây kẽm gai bảo vệ. Những đường hào như thế kéo dài từ biển Bắc đến Thụy Sĩ. Ðể phá hủy các phòng tuyến này, nhiều loại vũ khí đã ra đời. Chẳng hạn như thủ pháo, khí độc, súng cối tầm ngắn và đạn phá rào. Vì vậy, thương vong đã lên đến mức không thể tưởng tượng được trong những cuộc tấn công bằng bộ binh. Ðến năm 1918, cùng với một phiên bản xe tăng cải tiến (phát minh xe tăng năm 1915), đã có thể cho phép vượt qua các đường hào. Chiến tranh thế giới II hoàn toàn tương phản, là một cuộc chiến không thể so sánh bằng cách chiến đấu đường hào. Ðường hào bị xé toạc, do hai hoặc ba khẩu súng máy. Trong chiến tranh Hàn Quốc và chiến tranh Việt Nam, boongke hỗ trợ cũng được tận dụng. Chiến tranh đường hào đã được sử dụng chủ yếu trong cuộc chiến giữa Iran-Iraq năm 1980-1988."
+        "t": "Chiến tranh chiến hào. Một cách đánh kiểu chiến hào dài và hẹp. Binh lính ẩn nấp dưới chiến hào và tránh được hỏa lực của kẻ thù. Đầu chiến tranh thế giới I, các nhà quân sự tin rằng chiến thắng sẽ do lực lượng bộ binh quyết định. Đây cũng là trọng trách lớn lao mặc cho sự phát triển của các loại vũ khí như súng liên thanh nhỏ và pháo. Sau cuộc chiến ở Marne, hàng ngàn dặm hào được đào dọc theo biên giới phía Tây. Chúng liên kết với nhau thành một hệ thống phức tạp và được hàng rào dây kẽm gai bảo vệ. Những đường hào như thế kéo dài từ biển Bắc đến Thụy Sĩ. Để phá hủy các phòng tuyến này, nhiều loại vũ khí đã ra đời. Chẳng hạn như thủ pháo, khí độc, súng cối tầm ngắn và đạn phá rào. Vì vậy, thương vong đã lên đến mức không thể tưởng tượng được trong những cuộc tấn công bằng bộ binh. Đến năm 1918, cùng với một phiên bản xe tăng cải tiến (phát minh xe tăng năm 1915), đã có thể cho phép vượt qua các đường hào. Chiến tranh thế giới II hoàn toàn tương phản, là một cuộc chiến không thể so sánh bằng cách chiến đấu đường hào. Đường hào bị xé toạc, do hai hoặc ba khẩu súng máy. Trong chiến tranh Hàn Quốc và chiến tranh Việt Nam, boongke hỗ trợ cũng được tận dụng. Chiến tranh đường hào đã được sử dụng chủ yếu trong cuộc chiến giữa Iran-Iraq năm 1980-1988."
       }
     ],
     "k": "trench warfare"
@@ -30627,7 +30627,7 @@
       {
         "k": "ex",
         "t": "Sometimes trial and error is the only way to get something done:",
-        "vi": "Ðôi khi nỗ lực liên tục là cách duy nhất để hoàn thành được một việc gì đó."
+        "vi": "Đôi khi nỗ lực liên tục là cách duy nhất để hoàn thành được một việc gì đó."
       }
     ],
     "k": "trial and error"
@@ -30941,7 +30941,7 @@
     "segs": [{"k": "m", "t": "việc điều tra các sự việc của vụ án."}],
     "k": "trial of facts"
   },
-  {"h": "trial of Jesus", "segs": [{"k": "m", "t": "vụ xử Ðức Giêsu."}], "k": "trial of jesus"},
+  {"h": "trial of Jesus", "segs": [{"k": "m", "t": "vụ xử Đức Giêsu."}], "k": "trial of jesus"},
   {
     "h": "trial of law",
     "segs": [{"k": "m", "t": "việc xem xét những vấn đề pháp lý của vụ án."}],
@@ -31309,7 +31309,7 @@
   {
     "h": "TRIANGLE RULE",
     "segs": [
-      {"k": "m", "t": "quy tắc tam giác. Ðồng nghĩa với quy tắc Xaruyt. (x. \"Quy tắc Xaruyt\")."}
+      {"k": "m", "t": "quy tắc tam giác. Đồng nghĩa với quy tắc Xaruyt. (x. \"Quy tắc Xaruyt\")."}
     ],
     "k": "triangle rule"
   },
@@ -32370,7 +32370,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Quan hộ dân. Một chức vụ được dân chúng La Mã bầu nên để bảo vệ lợi ích cho dân. Thời La Mã cổ đại, mười quan hộ dân đã được bầu nên để bảo vệ tầng lớp bình dân La Mã và cả tầng lớp quý tộc. Họ có thể bác bỏ những quyết định của quan tòa địa phương và, sau đó, là những bản án của viện nguyên lão. Họ có thể đề xuất pháp chế của riêng mình. Các hoàng đế La Mã cùng có thể được bầu làm quan hộ dân. Ðiều này mạng lại cho họ quyền lập hiến của quan hộ dân và một hình ảnh được dân chúng ái mộ. Quan bảo hộ quân đội, bao gồm những viên chức cao cấp hơn quân đoàn La Mã, cũng được bầu ra."
+        "t": "Quan hộ dân. Một chức vụ được dân chúng La Mã bầu nên để bảo vệ lợi ích cho dân. Thời La Mã cổ đại, mười quan hộ dân đã được bầu nên để bảo vệ tầng lớp bình dân La Mã và cả tầng lớp quý tộc. Họ có thể bác bỏ những quyết định của quan tòa địa phương và, sau đó, là những bản án của viện nguyên lão. Họ có thể đề xuất pháp chế của riêng mình. Các hoàng đế La Mã cùng có thể được bầu làm quan hộ dân. Điều này mạng lại cho họ quyền lập hiến của quan hộ dân và một hình ảnh được dân chúng ái mộ. Quan bảo hộ quân đội, bao gồm những viên chức cao cấp hơn quân đoàn La Mã, cũng được bầu ra."
       }
     ],
     "k": "tribune"
@@ -34469,7 +34469,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thành phố của Ý nằm ở cực bắc biển Adriatic. Là một hải cảng độc lập với đế quốc Áo, thành phố này rất thịnh vượng. Tuy nhiên, nó lại là mục tiêu của thuyết phục hồi lãnh thổ và sau chiến tranh thế giới I, nó đã bị sát nhập vào Ý. Suốt thời kỳ chiến tranh thế giới II, nó bị quân đội Ðức chiếm đóng. Trong một kết luận gây nhiều tranh cãi từ Ý, nó được trao tặng cho Nam Tư năm 1947. Sau khi thỏa hiệp, thành phố và một phần vùng duyên hải Istria trở thành một khu tự trị của Trieste (1947) dưới quyền bảo hộ của Liên hiệp quốc. Sự bế tắc trong những đòi hỏi giữa Ý và Nam Tư đã được giải quyết sau nhiều cuộc thương thuyết ở London năm 1954, khi lãnh thổ này bị chia làm hai phần thuộc hai quốc gia. Ý nhận phần thành phố của Trieste. Vùng duyên hải giờ là một phần của Slovenia và Croatia."
+        "t": "Một thành phố của Ý nằm ở cực bắc biển Adriatic. Là một hải cảng độc lập với đế quốc Áo, thành phố này rất thịnh vượng. Tuy nhiên, nó lại là mục tiêu của thuyết phục hồi lãnh thổ và sau chiến tranh thế giới I, nó đã bị sát nhập vào Ý. Suốt thời kỳ chiến tranh thế giới II, nó bị quân đội Đức chiếm đóng. Trong một kết luận gây nhiều tranh cãi từ Ý, nó được trao tặng cho Nam Tư năm 1947. Sau khi thỏa hiệp, thành phố và một phần vùng duyên hải Istria trở thành một khu tự trị của Trieste (1947) dưới quyền bảo hộ của Liên hiệp quốc. Sự bế tắc trong những đòi hỏi giữa Ý và Nam Tư đã được giải quyết sau nhiều cuộc thương thuyết ở London năm 1954, khi lãnh thổ này bị chia làm hai phần thuộc hai quốc gia. Ý nhận phần thành phố của Trieste. Vùng duyên hải giờ là một phần của Slovenia và Croatia."
       }
     ],
     "k": "trieste"
@@ -34521,7 +34521,7 @@
   },
   {
     "h": "trifacial neuralgia",
-    "segs": [{"k": "m", "t": "Ðau dây thần kinh sinh ba."}],
+    "segs": [{"k": "m", "t": "Đau dây thần kinh sinh ba."}],
     "k": "trifacial neuralgia"
   },
   {
@@ -34892,7 +34892,7 @@
   },
   {
     "h": "trigeminal neuralgia",
-    "segs": [{"k": "m", "t": "Ðau dây thần sinh ba."}],
+    "segs": [{"k": "m", "t": "Đau dây thần sinh ba."}],
     "k": "trigeminal neuralgia"
   },
   {
@@ -36588,7 +36588,7 @@
   },
   {
     "h": "trimmings",
-    "segs": [{"k": "m", "t": "(dt, snh) Ðồ trang trí."}],
+    "segs": [{"k": "m", "t": "(dt, snh) Đồ trang trí."}],
     "ipa": "ɛtrimiŋz",
     "k": "trimmings"
   },
@@ -36668,7 +36668,7 @@
       {
         "k": "ex",
         "t": "Trimurti",
-        "vi": ") (thần thoại Ấn Ðộ) ba vị thần (Brahma, Vishna, Siva) cùng một thể."
+        "vi": ") (thần thoại Ấn Độ) ba vị thần (Brahma, Vishna, Siva) cùng một thể."
       }
     ],
     "ipa": "tri:mə'ti:",
@@ -36880,7 +36880,7 @@
       {"k": "m", "t": "bộ ba"},
       {"k": "m", "t": "("},
       {"k": "ex", "t": "the Trinity", "vi": ") ba ngôi một thể"},
-      {"k": "m", "t": "Chúa ba ngôi (sự hợp nhất của một Cha, Con và Thánh thần trong đạo Cơ Ðốc)."}
+      {"k": "m", "t": "Chúa ba ngôi (sự hợp nhất của một Cha, Con và Thánh thần trong đạo Cơ Đốc)."}
     ],
     "ipa": "'trinəti",
     "k": "trinity"
@@ -37794,7 +37794,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Liên minh ba nước (1882). Một liên minh giữa ba nước Ðức, Áo và Ý. Ðây là một liên minh bí mật được ký kết vào tháng 5 năm 1882 theo sự xúi giục của Bismarck. Ba cường quốc này đồng ý hỗ trợ nhau nếu bị Pháp hoặc Nga tấn công. Nó được đổi mới theo định kỳ 5 năm một lần, nhưng Ý đã bội ước vào năm 1914 do đã không hỗ trợ cho những thế lực trung tâm."
+        "t": "Liên minh ba nước (1882). Một liên minh giữa ba nước Đức, Áo và Ý. Đây là một liên minh bí mật được ký kết vào tháng 5 năm 1882 theo sự xúi giục của Bismarck. Ba cường quốc này đồng ý hỗ trợ nhau nếu bị Pháp hoặc Nga tấn công. Nó được đổi mới theo định kỳ 5 năm một lần, nhưng Ý đã bội ước vào năm 1914 do đã không hỗ trợ cho những thế lực trung tâm."
       }
     ],
     "k": "triple alliance"
@@ -39345,7 +39345,7 @@
   {"h": "tritheistical", "segs": [{"k": "m", "t": "see tritheistic"}], "k": "tritheistical"},
   {
     "h": "tritiate",
-    "segs": [{"k": "m", "t": "Ðánh dấu bằng triti (hidro phóng xạ)."}],
+    "segs": [{"k": "m", "t": "Đánh dấu bằng triti (hidro phóng xạ)."}],
     "k": "tritiate"
   },
   {
@@ -41374,7 +41374,7 @@
   },
   {
     "h": "tropic of Capricorn",
-    "segs": [{"k": "m", "t": "chí tuyến Ðông, chí tuyến Nam."}],
+    "segs": [{"k": "m", "t": "chí tuyến Đông, chí tuyến Nam."}],
     "k": "tropic of capricorn"
   },
   {
@@ -42133,7 +42133,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Người hát rong. Một nhà thơ ca sĩ hoặc một đoàn người hát rong vào thế kỷ 11 ở miền nam nước Pháp, đặc biệt là ở Provence. Ða số người hát rong thuộc dòng dõi quý tộc, nhưng các thành viên của đoàn hát rong thường xuất thân từ những tầng lớp thấp kém hơn của xã hội. Thơ của họ viết về tình yêu cao quý, tinh thần hiệp sĩ, tín ngưỡng, và chính trị, nhưng chủ đề chính thường được che đậy một cách khéo léo trong những câu từ trang trọng, hình thức. Ða số họ là những người dị giáo và vào thế kỷ 13 những người hâm mộ thơ người hát rong đều bị khủng bố. William IX, Bá tước vùng Anjou, bị người ta đồn rằng bà chính là người hát rong đầu tiên. Bertrand de Born đã công nhận điều này trước Tòa án Eleanor thuộc Aquitaine và thông qua ảnh hưởng của bà, thơ của vùng này bay đến phía bắc nước Pháp."
+        "t": "Người hát rong. Một nhà thơ ca sĩ hoặc một đoàn người hát rong vào thế kỷ 11 ở miền nam nước Pháp, đặc biệt là ở Provence. Đa số người hát rong thuộc dòng dõi quý tộc, nhưng các thành viên của đoàn hát rong thường xuất thân từ những tầng lớp thấp kém hơn của xã hội. Thơ của họ viết về tình yêu cao quý, tinh thần hiệp sĩ, tín ngưỡng, và chính trị, nhưng chủ đề chính thường được che đậy một cách khéo léo trong những câu từ trang trọng, hình thức. Đa số họ là những người dị giáo và vào thế kỷ 13 những người hâm mộ thơ người hát rong đều bị khủng bố. William IX, Bá tước vùng Anjou, bị người ta đồn rằng bà chính là người hát rong đầu tiên. Bertrand de Born đã công nhận điều này trước Tòa án Eleanor thuộc Aquitaine và thông qua ảnh hưởng của bà, thơ của vùng này bay đến phía bắc nước Pháp."
       }
     ],
     "k": "troubadour"
@@ -43110,11 +43110,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Thành phố truyền thuyết của Hy Lạp cổ đại có nhắc đến trong sử thi Iliad của Homer, giành lại bởi người Hy Lạp dưới quyền của Agamemnon sau mười năm bị vây hãm. Thành Troy lịch sử được phát hiện bởi nhà khảo cổ học người Ðức Heinrich Schliemann ở Hissarlik khu vực tây bắc Tiểu Á, vài dặm sâu vào bên trong biển Aegean. Việc khai quật do ông chỉ đạo được tiến hành từ năm 1870 đến 1890. Sau đó, những người khác đã khám phá ra mười giai đoạn lịch sử (tồn tại) của thành phố này. Chúng bị phá hủy và xây dựng lại nhiều lần."
+        "t": "Thành phố truyền thuyết của Hy Lạp cổ đại có nhắc đến trong sử thi Iliad của Homer, giành lại bởi người Hy Lạp dưới quyền của Agamemnon sau mười năm bị vây hãm. Thành Troy lịch sử được phát hiện bởi nhà khảo cổ học người Đức Heinrich Schliemann ở Hissarlik khu vực tây bắc Tiểu Á, vài dặm sâu vào bên trong biển Aegean. Việc khai quật do ông chỉ đạo được tiến hành từ năm 1870 đến 1890. Sau đó, những người khác đã khám phá ra mười giai đoạn lịch sử (tồn tại) của thành phố này. Chúng bị phá hủy và xây dựng lại nhiều lần."
       },
       {
         "k": "m",
-        "t": "Năm người định cư đầu tiên ở Troy thuộc về Thời kỳ Ðồng thiếc nguyên sơ, kết thúc sớm sau 2000 năm trước công nguyên. Troy II nói riêng là một cộng đồng thịnh vượng, với kỹ thuật xây dựng những công sự hùng vĩ và những kiến trúc nội địa, nhưng thành phố đã bị phá hủy trong một trận hỏa hoạn lớn. Troy VI chứng kiến sự tràn vào của những người định cư mới, những người khởi đầu của việc sử dụng kỵ binh. Tuy nhiên, một trận động đất đã chôn vùi thành phố vào khoảng năm 1300. Nó được tiếp nối bởi Troy VIlA, nhưng thời kỳ này không tồn tại lâu trước khi thành phố bị lửa thiêu rụi. Dấu hiệu cho thấy đó không phải là một thảm họa ngẫu nhiên, nó diễn ra cùng lúc với cuộc tranh giành của kẻ thù. Thời gian diễn ra sự tàn phá, khoảng năm 1250, trùng với nền văn minh Mycenaean hùng mạnh ở vùng lục địa Hy Lạp cổ đại, cho thấy đây là sự kiện được giải đáp trong Sử thi Iliad, và rằng những kẻ xâm lược thành phố Troy VIlA chính là người Hy Lạp cổ. Troy giữ nguyên tình trạng bỏ hoang trong khoảng 400 năm trước khi Troy VIII được ra đời (thiết lập). Troy IX là thành cuối cùng tồn tại vào thời La mã cổ đại."
+        "t": "Năm người định cư đầu tiên ở Troy thuộc về Thời kỳ Đồng thiếc nguyên sơ, kết thúc sớm sau 2000 năm trước công nguyên. Troy II nói riêng là một cộng đồng thịnh vượng, với kỹ thuật xây dựng những công sự hùng vĩ và những kiến trúc nội địa, nhưng thành phố đã bị phá hủy trong một trận hỏa hoạn lớn. Troy VI chứng kiến sự tràn vào của những người định cư mới, những người khởi đầu của việc sử dụng kỵ binh. Tuy nhiên, một trận động đất đã chôn vùi thành phố vào khoảng năm 1300. Nó được tiếp nối bởi Troy VIlA, nhưng thời kỳ này không tồn tại lâu trước khi thành phố bị lửa thiêu rụi. Dấu hiệu cho thấy đó không phải là một thảm họa ngẫu nhiên, nó diễn ra cùng lúc với cuộc tranh giành của kẻ thù. Thời gian diễn ra sự tàn phá, khoảng năm 1250, trùng với nền văn minh Mycenaean hùng mạnh ở vùng lục địa Hy Lạp cổ đại, cho thấy đây là sự kiện được giải đáp trong Sử thi Iliad, và rằng những kẻ xâm lược thành phố Troy VIlA chính là người Hy Lạp cổ. Troy giữ nguyên tình trạng bỏ hoang trong khoảng 400 năm trước khi Troy VIII được ra đời (thiết lập). Troy IX là thành cuối cùng tồn tại vào thời La mã cổ đại."
       }
     ],
     "k": "troy (ilium)"
@@ -43299,7 +43299,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tiêu chuẩn được ban hành bởi Quốc hội (Nghị viện) Anh thế kỷ 19, về phương thức thanh toán tiền lương. Qua đó, người chủ có thể trả lương cho công nhân bằng hàng hóa hoặc thẻ đổi hàng, nghĩa là trả lương tại cửa hàng do người chủ này sở hữu. Ðây được gọi là chế độ trả lương bằng hiện vật. Ðạo luật này được ban hành năm 1831 đã lên danh sách những nghề nghiệp mà việc trả công bắt buộc phải trả bằng tiền. Nó được cải thiện bởi một Ðạo luật khác năm 1887. Việc này đã mở rộng các điều khoản để bao quát hầu như toàn bộ các ngành nghề. Năm 1896, một đạo luật mới đã điều chỉnh lại mức độ khấu trừ tiền lương do tay nghề kém. Ðạo luật thanh toán tiền lương năm 1960 đã bãi bỏ một số phần trong Truck Acts để cho phép trả lương bằng séc."
+        "t": "Tiêu chuẩn được ban hành bởi Quốc hội (Nghị viện) Anh thế kỷ 19, về phương thức thanh toán tiền lương. Qua đó, người chủ có thể trả lương cho công nhân bằng hàng hóa hoặc thẻ đổi hàng, nghĩa là trả lương tại cửa hàng do người chủ này sở hữu. Đây được gọi là chế độ trả lương bằng hiện vật. Đạo luật này được ban hành năm 1831 đã lên danh sách những nghề nghiệp mà việc trả công bắt buộc phải trả bằng tiền. Nó được cải thiện bởi một Đạo luật khác năm 1887. Việc này đã mở rộng các điều khoản để bao quát hầu như toàn bộ các ngành nghề. Năm 1896, một đạo luật mới đã điều chỉnh lại mức độ khấu trừ tiền lương do tay nghề kém. Đạo luật thanh toán tiền lương năm 1960 đã bãi bỏ một số phần trong Truck Acts để cho phép trả lương bằng séc."
       }
     ],
     "k": "truck acts"
@@ -43858,7 +43858,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bảy tiểu vương quốc Arab thuộc Vịnh Ba Tư, được biết đến là những tiểu bang tạm thời từ đầu những năm 1820 đến 1971. Sau đó nó được lập thành các tiểu vương quốc Arab thống nhất. Tên gọi này xuất phát từ cuộc thỏa thuận ngừng bắn thường niên, do người Anh giành được trong những năm 1820. Việc này được nhà cầm quyền địa phương cam kết, nhằm tránh khỏi những cuộc hải chiến. Những hiệp ước khác với nước Anh đã mở rộng lệnh cấm buôn bán vũ khí và nô lệ. Ðồng thời, \"Thỏa thuận ngăn chặn\" năm 1892 đã cung cấp cho người Anh quyền kiểm soát từ bên ngoài về vấn đề nội vụ của các tiểu bang này."
+        "t": "Bảy tiểu vương quốc Arab thuộc Vịnh Ba Tư, được biết đến là những tiểu bang tạm thời từ đầu những năm 1820 đến 1971. Sau đó nó được lập thành các tiểu vương quốc Arab thống nhất. Tên gọi này xuất phát từ cuộc thỏa thuận ngừng bắn thường niên, do người Anh giành được trong những năm 1820. Việc này được nhà cầm quyền địa phương cam kết, nhằm tránh khỏi những cuộc hải chiến. Những hiệp ước khác với nước Anh đã mở rộng lệnh cấm buôn bán vũ khí và nô lệ. Đồng thời, \"Thỏa thuận ngăn chặn\" năm 1892 đã cung cấp cho người Anh quyền kiểm soát từ bên ngoài về vấn đề nội vụ của các tiểu bang này."
       }
     ],
     "k": "trudal states"
@@ -44121,7 +44121,7 @@
   },
   {
     "h": "true conjugate diameter",
-    "segs": [{"k": "m", "t": "Ðường kính trước sau eo trên."}],
+    "segs": [{"k": "m", "t": "Đường kính trước sau eo trên."}],
     "k": "true conjugate diameter"
   },
   {"h": "true copy", "segs": [{"k": "m", "t": "bản sao y bản chính."}], "k": "true copy"},
@@ -46429,7 +46429,7 @@
         "vi": "anh có thể cho hắn chịu bao nhiêu cũng được"
       },
       {"k": "ex", "t": "to trust in somebody/something", "vi": "tin ở ai/cái gì"},
-      {"k": "ex", "t": "to trust in providence", "vi": "tin ở Thượng Ðế"},
+      {"k": "ex", "t": "to trust in providence", "vi": "tin ở Thượng Đế"},
       {
         "k": "ex",
         "t": "you must trust in your own judgement",
@@ -46575,7 +46575,7 @@
       {"k": "pos", "t": "thngu"},
       {"k": "m", "t": "trust"},
       {"k": "ex", "t": "to trust in somebody/something", "vi": "tin ở ai/cái gì"},
-      {"k": "ex", "t": "to trust in providence", "vi": "tin ở Thượng Ðế"},
+      {"k": "ex", "t": "to trust in providence", "vi": "tin ở Thượng Đế"},
       {
         "k": "ex",
         "t": "you must trust in your own judgement",
@@ -46636,7 +46636,7 @@
       },
       {
         "k": "m",
-        "t": "Quan hệ ủy thác phổ biến khi thiết lập quan hệ thương mại điện tử với công ty khác. Ðiều này trở nên dễ dàng hơn với các giao thức Internet/intranet và công nghệ Extranet, cho phép các công ty xây dựng mạng dùng riêng an toàn với các công ty khác thông qua Internet. Tuy vậy, các bạn hàng cần đặc biệt cẩn thận khi thiết lập các quan hệ như thế vì điều này có thể bị các nhân viên lợi dụng, nhất là những người có quyền truy cập đặc biệt đến hệ thống."
+        "t": "Quan hệ ủy thác phổ biến khi thiết lập quan hệ thương mại điện tử với công ty khác. Điều này trở nên dễ dàng hơn với các giao thức Internet/intranet và công nghệ Extranet, cho phép các công ty xây dựng mạng dùng riêng an toàn với các công ty khác thông qua Internet. Tuy vậy, các bạn hàng cần đặc biệt cẩn thận khi thiết lập các quan hệ như thế vì điều này có thể bị các nhân viên lợi dụng, nhất là những người có quyền truy cập đặc biệt đến hệ thống."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {"k": "m", "t": "Electronic Commerce; Extranet; Hacker; và Security."}
@@ -46869,7 +46869,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "việc đầu tư trong đó người được ủy thác có quyền đầu tư tài sản ủy thác. Ở Anh \"điều luật đầu tư của người được ủy thác\" (1961) kiểm soát việc đầu tư tài sản ủy thác được thực hiện bởi người được ủy thác. Ðiều luật này áp dụng chỉ khi văn bản ủy thác được xét duyệt sau khi điều luật thông qua. Phân nửa quỹ ủy thác phải được đầu tư vào \"narrow range securities\" chủ yếu để phân biệt đối với những đầu tư có lãi suất cố định. Phần còn lại sẽ được đầu tư vào \"wider-range securities\", đây là những phần bình thường và quan trọng nhất trong công ty có trích trong London Stock Exchange. Trong một số trường hợp, người được ủy thác cần được góp ý trước khi đầu tư. Ðiều luật này đáng được xem xét để mở rộng phạm vi đầu tư của người được ủy thác."
+        "t": "việc đầu tư trong đó người được ủy thác có quyền đầu tư tài sản ủy thác. Ở Anh \"điều luật đầu tư của người được ủy thác\" (1961) kiểm soát việc đầu tư tài sản ủy thác được thực hiện bởi người được ủy thác. Điều luật này áp dụng chỉ khi văn bản ủy thác được xét duyệt sau khi điều luật thông qua. Phân nửa quỹ ủy thác phải được đầu tư vào \"narrow range securities\" chủ yếu để phân biệt đối với những đầu tư có lãi suất cố định. Phần còn lại sẽ được đầu tư vào \"wider-range securities\", đây là những phần bình thường và quan trọng nhất trong công ty có trích trong London Stock Exchange. Trong một số trường hợp, người được ủy thác cần được góp ý trước khi đầu tư. Điều luật này đáng được xem xét để mở rộng phạm vi đầu tư của người được ủy thác."
       }
     ],
     "k": "trustee investments"
@@ -47321,7 +47321,7 @@
       {
         "k": "ex",
         "t": "Don't try to/and swim across the river",
-        "vi": "Ðừng có cố mà bơi ngang qua con sông"
+        "vi": "Đừng có cố mà bơi ngang qua con sông"
       },
       {
         "k": "m",
@@ -47345,12 +47345,12 @@
       {
         "k": "ex",
         "t": "Try that door!",
-        "vi": "Ðẩy thử cái cửa đó xem! (xem) nó có khóa hay không hoặc để tìm cái gì ở phía bên kia"
+        "vi": "Đẩy thử cái cửa đó xem! (xem) nó có khóa hay không hoặc để tìm cái gì ở phía bên kia"
       },
       {
         "k": "ex",
         "t": "Don't try any funny stuff with me!",
-        "vi": "Ðừng giở trò vớ vẩn với tôi nhé!"
+        "vi": "Đừng giở trò vớ vẩn với tôi nhé!"
       },
       {
         "k": "ex",

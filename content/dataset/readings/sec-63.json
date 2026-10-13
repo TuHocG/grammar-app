@@ -147,12 +147,12 @@
       ["Tuần này bạn có muốn đi xem phim không?"],
       ["Nghe hay đấy.", "Bạn muốn xem phim gì?"],
       ["Có một phim cao bồi đang chiếu tại rạp Thời đại Mới."],
-      ["Ðược. Bạn có thể đi xem vào tôi thứ Hai không?"],
+      ["Được. Bạn có thể đi xem vào tôi thứ Hai không?"],
       ["Tiếc thật. Mình phải tham gia câu lạc bộ kịch.", "Thứ Ba thì sao?"],
       ["Không được rồi.", "Mình sẽ cùng cha mẹ đi xem một bộ phim trinh thám."],
       ["Và thứ Tư mình cũng bận.", "Thứ Năm bạn có rảnh không?"],
       ["Không, mình không rảnh.", "Còn thứ Sáu thì sao?"],
-      ["Ðược đấy."],
+      ["Được đấy."],
       ["Hay lắm.", "Thứ Sáu chúng ta đi nhé."],
       [
         "Bây giờ, hãy nhìn vào các mẩu quảng cáo.",
@@ -263,7 +263,7 @@
       ["Các chương trình mà tôi muốn nghe"],
       ["Từ khắp các đất nước xa gần."],
       ["Tôi thích cái radio bé nhỏ của tôi."],
-      ["Ðó chính là cách tôi biết được"],
+      ["Đó chính là cách tôi biết được"],
       ["Về những thứ làm tôi quan tâm"],
       ["Và tôi hoàn toàn nghe miễn phí."]
     ],
@@ -390,8 +390,8 @@
     "vi": [
       ["Nghe", "Viết giờ của các chương trình."],
       ["6 giờ tối nay Tivi có gì vậy Lan?"],
-      ["Ðể tôi xem.", "Tin mới.", "Bạn muốn xem nó, phải không?"],
-      ["Thôi nào Lan.", "Mình muốn xem phim \"Một nắm tiền Ðô\"", "Khi nào nó bắt đầu?"],
+      ["Để tôi xem.", "Tin mới.", "Bạn muốn xem nó, phải không?"],
+      ["Thôi nào Lan.", "Mình muốn xem phim \"Một nắm tiền Đô\"", "Khi nào nó bắt đầu?"],
       ["Nó bắt đầu lúc 7 giờ, sau chương trình \"thế giới ngày nay\" lúc 6 giờ 15."],
       ["Còn chương trình dự báo thời tiết?", "Nó chiếu lúc mấy giờ?"],
       [

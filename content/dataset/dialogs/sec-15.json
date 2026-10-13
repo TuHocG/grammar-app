@@ -49,12 +49,12 @@
         "a": "So she likes poodles.",
         "b": "Do animals talk to each other?",
         "avi": "Bà ấy thích giống chó poodle.",
-        "bvi": "Ðộng vật có trò chuyện với nhau không?"
+        "bvi": "Động vật có trò chuyện với nhau không?"
       },
       {
         "a": "Do animals talk to each other?",
         "b": "Of course they talk to each other.",
-        "avi": "Ðộng vật có trò chuyện với nhau không?",
+        "avi": "Động vật có trò chuyện với nhau không?",
         "bvi": "Tất nhiên là chúng có trò chuyện với nhau."
       }
     ]
@@ -133,12 +133,12 @@
         "a": "The cat doesn't care about anything.",
         "b": "That's the way cats are.",
         "avi": "Con mèo chẳng quan tâm đến điều gì cả.",
-        "bvi": "Ðó là lối sống của lũ mèo."
+        "bvi": "Đó là lối sống của lũ mèo."
       },
       {
         "a": "That's the way cats are.",
         "b": "All they think about is themselves.",
-        "avi": "Ðó là lối sống của lũ mèo.",
+        "avi": "Đó là lối sống của lũ mèo.",
         "bvi": "Tất cả những gì chúng nghĩ chỉ là bản thân chúng."
       },
       {
@@ -205,7 +205,7 @@
         "a": "I'll get him one of those little dogs.",
         "b": "That will make him so happy.",
         "avi": "Tôi sẽ bắt cho anh ta một trong những con chó nhỏ ở đó.",
-        "bvi": "Ðiều đó sẽ khiến anh ta rất vui."
+        "bvi": "Điều đó sẽ khiến anh ta rất vui."
       }
     ]
   },
@@ -216,7 +216,7 @@
       {
         "a": "That will make him so happy.",
         "b": "He wanted to take it home yesterday.",
-        "avi": "Ðiều đó sẽ khiến anh ta rất vui.",
+        "avi": "Điều đó sẽ khiến anh ta rất vui.",
         "bvi": "Anh ta muốn mang nó về nhà ngày hôm qua kia."
       },
       {
@@ -235,7 +235,7 @@
         "a": "What's the typical animal in Australia?",
         "b": "It's kangaroo.",
         "avi": "Loài động vật tiêu biểu của nước Úc là con gì?",
-        "bvi": "Ðó là con chuột túi."
+        "bvi": "Đó là con chuột túi."
       }
     ]
   }

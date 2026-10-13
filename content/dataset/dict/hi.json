@@ -601,7 +601,7 @@
     "segs": [{"k": "m", "t": "lạm phát trá hình, lạm phát được che giấu."}],
     "k": "hidden inflation"
   },
-  {"h": "Hidden life", "segs": [{"k": "m", "t": "Ðời ẩn dật."}], "k": "hidden life"},
+  {"h": "Hidden life", "segs": [{"k": "m", "t": "Đời ẩn dật."}], "k": "hidden life"},
   {"h": "hidden line", "segs": [{"k": "m", "t": "đường khuất."}], "k": "hidden line"},
   {
     "h": "hidden line removal",
@@ -1077,7 +1077,7 @@
     "k": "hidropoiesis"
   },
   {"h": "hidropoietic", "segs": [{"k": "m", "t": "(gây, thuộc) tiết mồ hôi."}], "k": "hidropoietic"},
-  {"h": "hidrorrhea", "segs": [{"k": "m", "t": "Ða tiết mồ hôi."}], "k": "hidrorrhea"},
+  {"h": "hidrorrhea", "segs": [{"k": "m", "t": "Đa tiết mồ hôi."}], "k": "hidrorrhea"},
   {"h": "hidrosadenitis", "segs": [{"k": "m", "t": "Viêm tuyến mồ hôi."}], "k": "hidrosadenitis"},
   {
     "h": "hidrosadenitis axillaris",
@@ -1559,7 +1559,7 @@
     "segs": [{"k": "m", "t": "a."}, {"k": "m", "t": "= prec."}],
     "k": "hierocratical"
   },
-  {"h": "Hierodeacon", "segs": [{"k": "m", "t": "Ðan sĩ phó tế (Bizantinô)."}], "k": "hierodeacon"},
+  {"h": "Hierodeacon", "segs": [{"k": "m", "t": "Đan sĩ phó tế (Bizantinô)."}], "k": "hierodeacon"},
   {
     "h": "hierodule",
     "segs": [
@@ -1653,7 +1653,7 @@
     "k": "hierology"
   },
   {"h": "hieromania", "segs": [{"k": "m", "t": "Hoang tưởng tôn giáo."}], "k": "hieromania"},
-  {"h": "Hieromonk", "segs": [{"k": "m", "t": "Ðan sĩ linh mục."}], "k": "hieromonk"},
+  {"h": "Hieromonk", "segs": [{"k": "m", "t": "Đan sĩ linh mục."}], "k": "hieromonk"},
   {
     "h": "Hieronymian",
     "segs": [{"k": "m", "t": "Tính từ"}, {"k": "m", "t": "of St. Jerome: relating to St. Jerome."}],
@@ -1825,7 +1825,7 @@
       {"k": "ex", "t": "high and dry", "vi": "bị mắc cạn (tàu thủy)"},
       {"k": "m", "t": "(nghĩa bóng) xa rời thực tế, không biết gì đến việc xung quanh (người)"},
       {"k": "m", "t": "on the high ropes (xem) rope"},
-      {"k": "ex", "t": "the Most High", "vi": "Thượng Ðế"},
+      {"k": "ex", "t": "the Most High", "vi": "Thượng Đế"},
       {"k": "m", "t": "with a high hand (xem) hand"},
       {"k": "ex", "t": "to give sb a high old time", "vi": "tiếp đón ân cần"},
       {"k": "ex", "t": "hell or high water", "vi": "dù trở ngại thế nào chăng nữa"},
@@ -2156,7 +2156,7 @@
   },
   {
     "h": "high christology",
-    "segs": [{"k": "m", "t": "Kitô học cao thể (nhấn mạnh đến thiên tính của Ðức Kitô)."}],
+    "segs": [{"k": "m", "t": "Kitô học cao thể (nhấn mạnh đến thiên tính của Đức Kitô)."}],
     "k": "high christology"
   },
   {
@@ -2639,7 +2639,7 @@
   {"h": "high geometry", "segs": [{"k": "m", "t": "hình học cao cấp."}], "k": "high geometry"},
   {
     "h": "high german",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tiếng Ðức chuẩn."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tiếng Đức chuẩn."}],
     "ipa": "'hai'dʒə:mæn",
     "k": "high german"
   },
@@ -2937,7 +2937,7 @@
     "segs": [{"k": "m", "t": "hệ dây chuyển hàng trên cao (ở ngoài biển)."}],
     "k": "high line"
   },
-  {"h": "high lip line", "segs": [{"k": "m", "t": "Ðường môi trên."}], "k": "high lip line"},
+  {"h": "high lip line", "segs": [{"k": "m", "t": "Đường môi trên."}], "k": "high lip line"},
   {
     "h": "high lithotomy",
     "segs": [{"k": "m", "t": "(thủ thuật) mở bàng quang trên mu gắp sỏi."}],
@@ -5477,7 +5477,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "định khuôn thức mức cao. Một thao tác định khuôn thức nhằm tạo ra đoạn ghi khởi động máy, bảng định vị tệp, và thư mục gốc trên một đĩa. Khi bạn dùng lệnh DOS FORMAT để định khuôn thức một đĩa mềm, máy tính sẽ thực hiện khuôn thức mức thấp (tạo ra các rãnh và các sector) để bổ sung cho định khuôn thức mức cao. Tuy nhiên, khi dùng đĩa cứng, FORMAT sẽ thực hiện ngay định khuôn thức mức cao. Các ổ đĩa IDE và SCSI đã được định khuôn thức mức thấp tại nhà máy, vì chúng không dùng cách tổ chức các rãnh và sector theo tiêu chuẩn. Ðối với một đĩa cứng chưa định khuôn thức mức thấp, bạn phải chạy một chương trình (thường) chứa trong một đĩa mềm bán kèm đĩa cứng đó để thực hiện định khuôn thức bắt buộc này."
+        "t": "định khuôn thức mức cao. Một thao tác định khuôn thức nhằm tạo ra đoạn ghi khởi động máy, bảng định vị tệp, và thư mục gốc trên một đĩa. Khi bạn dùng lệnh DOS FORMAT để định khuôn thức một đĩa mềm, máy tính sẽ thực hiện khuôn thức mức thấp (tạo ra các rãnh và các sector) để bổ sung cho định khuôn thức mức cao. Tuy nhiên, khi dùng đĩa cứng, FORMAT sẽ thực hiện ngay định khuôn thức mức cao. Các ổ đĩa IDE và SCSI đã được định khuôn thức mức thấp tại nhà máy, vì chúng không dùng cách tổ chức các rãnh và sector theo tiêu chuẩn. Đối với một đĩa cứng chưa định khuôn thức mức thấp, bạn phải chạy một chương trình (thường) chứa trong một đĩa mềm bán kèm đĩa cứng đó để thực hiện định khuôn thức bắt buộc này."
       }
     ],
     "k": "high-level format"
@@ -7409,7 +7409,7 @@
   {"h": "high-volatile", "segs": [{"k": "m", "t": "bay hơi mạnh."}], "k": "high-volatile"},
   {
     "h": "high-voltage electrophoresis",
-    "segs": [{"k": "m", "t": "Ðiện di cao thế."}],
+    "segs": [{"k": "m", "t": "Điện di cao thế."}],
     "k": "high-voltage electrophoresis"
   },
   {
@@ -7592,7 +7592,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đồ thị cao/thấp/đóng/mở. Trong đồ họa giới thiệu, đây là một loại đồ thị đường, trong đó giá cao, giá thấp, giá đóng cửa và giá trung bình của một cổ phần đều được biểu hiện. Trục x (chủng loại) nằm ngang, và trục y (giá trị) nằm thẳng đứng. Một ứng dụng khác của loại đồ thị này là theo dõi nhiệt độ cực đại, cực tiểu, và trung bình hàng ngày. Ðồng nghĩa với HLCO chart (đồ thị HLCO)."
+        "t": "đồ thị cao/thấp/đóng/mở. Trong đồ họa giới thiệu, đây là một loại đồ thị đường, trong đó giá cao, giá thấp, giá đóng cửa và giá trung bình của một cổ phần đều được biểu hiện. Trục x (chủng loại) nằm ngang, và trục y (giá trị) nằm thẳng đứng. Một ứng dụng khác của loại đồ thị này là theo dõi nhiệt độ cực đại, cực tiểu, và trung bình hàng ngày. Đồng nghĩa với HLCO chart (đồ thị HLCO)."
       }
     ],
     "k": "high/low/close/open graph"
@@ -7761,7 +7761,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(hình học) cao cấp. Bộ phận hình học thường được dạy ở các trường Ðại học. Nội dung thường gồm \"Cơ sở hình học\" trong đó có phương pháp tiên đề trong hình học và hệ thống các hình học xây dựng trên cơ sở không gian vectơ và theo chương trình Eclănghen (x, chương trình Eclănghen) đi từ hình học xạ ảnh đến hình học afin và các hình học Ơclit và phi Ơclit. Nói tóm lại, hình học cao cấp là bộ phận hình học nghiên cứu về phương pháp tiên đề trong hình học và nghiên cứu về hệ thống các hình học của các nhóm biến hình từ nhóm xạ ảnh, nhóm afin đến các nhóm dời hình Ơclit và phi Ơclit."
+        "t": "(hình học) cao cấp. Bộ phận hình học thường được dạy ở các trường Đại học. Nội dung thường gồm \"Cơ sở hình học\" trong đó có phương pháp tiên đề trong hình học và hệ thống các hình học xây dựng trên cơ sở không gian vectơ và theo chương trình Eclănghen (x, chương trình Eclănghen) đi từ hình học xạ ảnh đến hình học afin và các hình học Ơclit và phi Ơclit. Nói tóm lại, hình học cao cấp là bộ phận hình học nghiên cứu về phương pháp tiên đề trong hình học và nghiên cứu về hệ thống các hình học của các nhóm biến hình từ nhóm xạ ảnh, nhóm afin đến các nhóm dời hình Ơclit và phi Ơclit."
       }
     ],
     "k": "higher",
@@ -8058,12 +8058,12 @@
   },
   {
     "h": "highest intercostal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch gian sườn trên nhất."}],
+    "segs": [{"k": "m", "t": "Động mạch gian sườn trên nhất."}],
     "k": "highest intercostal artery"
   },
   {
     "h": "highest nuchal line",
-    "segs": [{"k": "m", "t": "Ðường cong chẩm cao nhất."}],
+    "segs": [{"k": "m", "t": "Đường cong chẩm cao nhất."}],
     "k": "highest nuchal line"
   },
   {
@@ -8128,7 +8128,7 @@
   },
   {
     "h": "highest thoracic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch ngực trên."}],
+    "segs": [{"k": "m", "t": "Động mạch ngực trên."}],
     "k": "highest thoracic artery"
   },
   {
@@ -9233,7 +9233,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những tên cướp. Chúng cướp bóc dọc những con đường chính ở nước Anh vào thế kỷ 17 và 18. Những quán trọ dọc đường đã làm tăng thêm kẻ cướp. Chúng hoạt động theo từng băng nhóm, tụ tập thông đồng với các chủ quán trọ. Nỗi sợ hãi của bọn cướp là lo sợ bị nhận dạng, nên chúng muốn giết luôn các nạn nhân. Năm 1684, một số băng nhóm như Swift Nick Levison bị treo cổ ở New York, năm 1705 đến năm 1730 nhóm Dick Turpin và nhóm Jack Sheppard vào năm 1702 đến năm 1724. Kẻ cướp đường luôn là mối nguy hiểm, chúng hiện diện cả ở trung tâm Luân Ðôn, giữa ban ngày vào thế kỷ 18, nhưng đến đầu thế kỷ 19, nỗi sợ hãi về nạn cướp đường đã được giải tỏa."
+        "t": "những tên cướp. Chúng cướp bóc dọc những con đường chính ở nước Anh vào thế kỷ 17 và 18. Những quán trọ dọc đường đã làm tăng thêm kẻ cướp. Chúng hoạt động theo từng băng nhóm, tụ tập thông đồng với các chủ quán trọ. Nỗi sợ hãi của bọn cướp là lo sợ bị nhận dạng, nên chúng muốn giết luôn các nạn nhân. Năm 1684, một số băng nhóm như Swift Nick Levison bị treo cổ ở New York, năm 1705 đến năm 1730 nhóm Dick Turpin và nhóm Jack Sheppard vào năm 1702 đến năm 1724. Kẻ cướp đường luôn là mối nguy hiểm, chúng hiện diện cả ở trung tâm Luân Đôn, giữa ban ngày vào thế kỷ 18, nhưng đến đầu thế kỷ 19, nỗi sợ hãi về nạn cướp đường đã được giải tỏa."
       }
     ],
     "k": "highwaymen"
@@ -9297,7 +9297,7 @@
       },
       {"k": "m", "t": "cưỡng đoạt máy bay"},
       {"k": "ex", "t": "The plane was hijacked while on a flight to", "vi": "Dehli"},
-      {"k": "m", "t": "Chiếc máy bay bị cưỡng đoạt trên đường bay đến Ðê Li"},
+      {"k": "m", "t": "Chiếc máy bay bị cưỡng đoạt trên đường bay đến Đê Li"},
       {"k": "m", "t": "cướp (hàng hóa) trên xe cộ"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "trường hợp cướp máy bay"},
@@ -9487,7 +9487,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Hil-be, 1862-1943) nhà toán học Ðức, viện sĩ thông tấn nước ngoài (1922) và viện sĩ danh dự nước ngoài (1934) Viện hàn lâm khoa học Liên Xô. Ông tốt nghiệp trường Ðại học tổng hợp Ko**nigsberg, làm giáo sư cũng tại đó trong những năm 1893-1895, giáo sư trường Ðại học tổng hợp Go**ttingen (1895-1930), còn tiếp tục giảng bài ở trường cho đến năm 1933. Sau khi Hitler lên nắm quyền tại Ðức (1933), ông sống tại Go**ttingen, không tham dự công việc của trường đại học nữa. Các công trình nghiên cứu của Hilbert có ảnh hưởng lớn đến sự phát triển của nhiều ngành toán học, và hoạt động của ông tại trường Ðại học tổng hợp Go**ttingen đã đóng góp rất nhiều vào việc Go**ttingen trong phần ba đầu tiên của thế kỷ 20 là một trong những trung tâm chủ yếu thế giới về tư duy toán học. Tiểu sử khoa học của Hilbert được phân chia rõ nét thành những giai đoạn cống hiến dành cho một ngành nào đó của toán học: a. Lý thuyết các bất biến (1885-1893), b. lý thuyết số đại số (1893-1898), c. cơ sở hình học (1898-19020, d. nguyên lý Dirichlet và những vấn đề liên kết với nó của phép tính biến phân và phương trình vi phân (1900-1906), e. lý thuyết phương trình tích phân (1900-1910), f. cách giải các bài toán của Waring trong lý thuyết số (1908-1909), g. cơ sở của vật lý toán (1910-1922), h. cơ sở logic của toán học (1922-1939). \"Cơ sở của hìnhhọc\" của Hilbert (1899) trở thành mẫu mực cho những công trình sau này về kiến trúc tiên đề của hình học. Ðến 1922, ở Hilbert hình thành một chương trình rộng lớn hơn về luận chứng toàn bộ toán học bằng hình thức hóa nó hoàn toàn với sự chứng minh \"siêu toán học\" liền sau đó về sự phi mâu thuẫn của toán học đã được hình thức hóa. Hai tập \"Cơ sở của toán học\" do Hilbert viết chung với P. Bernais và xuất bản vào những năm 1934 và 1939 đã phát triễn ch tiết quan niệm đó. Kì vọng ban đầu của Hilbert trong lĩnh vực này không được thực hiện: tìm ra vấn đề phi mâu thuẫn của những lý thuyết toán học được hình thức hóa tỏ ra thâm thúy hơn và khó hơn dự kiến ban đầu của Hilbert. Nhưng toàn bộ công trình nghiên cứu sau này trên cơ sở logic của toán học phần lớn đi theo con đường mà Hilbert đã vạch ra và thừa hưởng những quan niệm do ông tạo dựng. Trong khi coi trọng quan điểm logic cần thiết cho sự hình thức hóa hoàn toàn của toán học thì Hilbert đồng thời tin tưởng vào sức mạnh của tính trực giác toán học sáng tạo. Ông là nhà chuyên môn lớn bậc thầy về trình bày các lý thuyết toán học thật rõ ràng, rành mạch ở mức độ cao. Về mặt này, tập \"Hình học trực quan\" (1932) do ông viết chung với C.Kon.Fossen quả là tuyệt vời. Ðặc trưng cho tính sáng tạo của Hilbert là niềm tin vào sức mạnh vô bờ bến của trí tuệ con người, vào sự thống nhất của khoa học toán học và sự thống nhất của toán học với tự nhiên học. Bộ sưu tập các sáng tác của Hilbert, xuất bản với sự theo dõi của ông (1932-1935), kết thúc bằng bài \"Nhận thức về thiên nhiên\", và bài đó kết thúc với khẩu hiệu \"Chúng ta cần phải biết-chúng ta sẽ biết\". Năm 1904 Hilbert được trao tặng giải thưởng quốc tế mang tên N.I.Lobachevski."
+        "t": "(Hil-be, 1862-1943) nhà toán học Đức, viện sĩ thông tấn nước ngoài (1922) và viện sĩ danh dự nước ngoài (1934) Viện hàn lâm khoa học Liên Xô. Ông tốt nghiệp trường Đại học tổng hợp Ko**nigsberg, làm giáo sư cũng tại đó trong những năm 1893-1895, giáo sư trường Đại học tổng hợp Go**ttingen (1895-1930), còn tiếp tục giảng bài ở trường cho đến năm 1933. Sau khi Hitler lên nắm quyền tại Đức (1933), ông sống tại Go**ttingen, không tham dự công việc của trường đại học nữa. Các công trình nghiên cứu của Hilbert có ảnh hưởng lớn đến sự phát triển của nhiều ngành toán học, và hoạt động của ông tại trường Đại học tổng hợp Go**ttingen đã đóng góp rất nhiều vào việc Go**ttingen trong phần ba đầu tiên của thế kỷ 20 là một trong những trung tâm chủ yếu thế giới về tư duy toán học. Tiểu sử khoa học của Hilbert được phân chia rõ nét thành những giai đoạn cống hiến dành cho một ngành nào đó của toán học: a. Lý thuyết các bất biến (1885-1893), b. lý thuyết số đại số (1893-1898), c. cơ sở hình học (1898-19020, d. nguyên lý Dirichlet và những vấn đề liên kết với nó của phép tính biến phân và phương trình vi phân (1900-1906), e. lý thuyết phương trình tích phân (1900-1910), f. cách giải các bài toán của Waring trong lý thuyết số (1908-1909), g. cơ sở của vật lý toán (1910-1922), h. cơ sở logic của toán học (1922-1939). \"Cơ sở của hìnhhọc\" của Hilbert (1899) trở thành mẫu mực cho những công trình sau này về kiến trúc tiên đề của hình học. Đến 1922, ở Hilbert hình thành một chương trình rộng lớn hơn về luận chứng toàn bộ toán học bằng hình thức hóa nó hoàn toàn với sự chứng minh \"siêu toán học\" liền sau đó về sự phi mâu thuẫn của toán học đã được hình thức hóa. Hai tập \"Cơ sở của toán học\" do Hilbert viết chung với P. Bernais và xuất bản vào những năm 1934 và 1939 đã phát triễn ch tiết quan niệm đó. Kì vọng ban đầu của Hilbert trong lĩnh vực này không được thực hiện: tìm ra vấn đề phi mâu thuẫn của những lý thuyết toán học được hình thức hóa tỏ ra thâm thúy hơn và khó hơn dự kiến ban đầu của Hilbert. Nhưng toàn bộ công trình nghiên cứu sau này trên cơ sở logic của toán học phần lớn đi theo con đường mà Hilbert đã vạch ra và thừa hưởng những quan niệm do ông tạo dựng. Trong khi coi trọng quan điểm logic cần thiết cho sự hình thức hóa hoàn toàn của toán học thì Hilbert đồng thời tin tưởng vào sức mạnh của tính trực giác toán học sáng tạo. Ông là nhà chuyên môn lớn bậc thầy về trình bày các lý thuyết toán học thật rõ ràng, rành mạch ở mức độ cao. Về mặt này, tập \"Hình học trực quan\" (1932) do ông viết chung với C.Kon.Fossen quả là tuyệt vời. Đặc trưng cho tính sáng tạo của Hilbert là niềm tin vào sức mạnh vô bờ bến của trí tuệ con người, vào sự thống nhất của khoa học toán học và sự thống nhất của toán học với tự nhiên học. Bộ sưu tập các sáng tác của Hilbert, xuất bản với sự theo dõi của ông (1932-1935), kết thúc bằng bài \"Nhận thức về thiên nhiên\", và bài đó kết thúc với khẩu hiệu \"Chúng ta cần phải biết-chúng ta sẽ biết\". Năm 1904 Hilbert được trao tặng giải thưởng quốc tế mang tên N.I.Lobachevski."
       }
     ],
     "k": "hilbert david"
@@ -9498,7 +9498,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bài toán hinbe. Ở đại hội toán học quốc tế năm 1900 ở Paris, Hinbe (Hilbert) người Ðức đã phát biểu một danh sách 23 bài toán về nhiều lĩnh vực toán học. Các bài toán này đã và đang mở ra nhiều công trình nghiên cứu. Một số bài toán đã được giải quyết, ví dụ như bài toán continum."
+        "t": "bài toán hinbe. Ở đại hội toán học quốc tế năm 1900 ở Paris, Hinbe (Hilbert) người Đức đã phát biểu một danh sách 23 bài toán về nhiều lĩnh vực toán học. Các bài toán này đã và đang mở ra nhiều công trình nghiên cứu. Một số bài toán đã được giải quyết, ví dụ như bài toán continum."
       }
     ],
     "k": "hilbert's problems"
@@ -9517,11 +9517,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "thanh thiếu niên của Hitler. Nhóm này có một cuộc chiến ở chi nhánh của đảng Nazi Ðức, chuyên huấn luyện và truyền bá giáo lý cho thanh thiếu niên Ðức. Năm 1931, ông Baldur von Schirach được bổ nhiệm lãnh đạo thanh thiếu niên của đảng Nazi. Năm 1936, Hitler đặt ra ngoài pháp luật tất cả những tổ chức thanh thiếu niên. Mặt khác ông ta còn tuyên bố rằng tất cả thiếu niên lên 10 tuổi phải gia nhập đoàn thiếu niên Joungvolk của Hitler."
+        "t": "thanh thiếu niên của Hitler. Nhóm này có một cuộc chiến ở chi nhánh của đảng Nazi Đức, chuyên huấn luyện và truyền bá giáo lý cho thanh thiếu niên Đức. Năm 1931, ông Baldur von Schirach được bổ nhiệm lãnh đạo thanh thiếu niên của đảng Nazi. Năm 1936, Hitler đặt ra ngoài pháp luật tất cả những tổ chức thanh thiếu niên. Mặt khác ông ta còn tuyên bố rằng tất cả thiếu niên lên 10 tuổi phải gia nhập đoàn thiếu niên Joungvolk của Hitler."
       },
       {
         "k": "m",
-        "t": "Những trẻ em này, ngoài việc học văn hóa còn phải huấn luyện thể thao, cắm trại và được truyền bá giáo lý của đảng Nazi. Năm 14 tuổi phải gia nhập đoàn thiếu niên Hitler, ở đó chúng phải chịu một kỷ luật bán quân sự. Những hoạt động ngoài trời và sự truyền bá của đảng Nazi. Các thiếu nữ trong liên đoàn thiếu nữ Ðức, phải học cách làm mẹ và trách nhiệm gia đình. Thanh niên 18 tuổi phải gia nhập quân đội hoặc dịch vụ lao động. Năm 1936, có 3,6 triệu thanh niên được tuyển mộ, năm 1938 là 7,7 triệu, nhưng nỗ lực tuyển mộ thanh niên bị thất bại, đến tháng 3 năm 1939, lệnh động viên nhập ngũ đã ban hành."
+        "t": "Những trẻ em này, ngoài việc học văn hóa còn phải huấn luyện thể thao, cắm trại và được truyền bá giáo lý của đảng Nazi. Năm 14 tuổi phải gia nhập đoàn thiếu niên Hitler, ở đó chúng phải chịu một kỷ luật bán quân sự. Những hoạt động ngoài trời và sự truyền bá của đảng Nazi. Các thiếu nữ trong liên đoàn thiếu nữ Đức, phải học cách làm mẹ và trách nhiệm gia đình. Thanh niên 18 tuổi phải gia nhập quân đội hoặc dịch vụ lao động. Năm 1936, có 3,6 triệu thanh niên được tuyển mộ, năm 1938 là 7,7 triệu, nhưng nỗ lực tuyển mộ thanh niên bị thất bại, đến tháng 3 năm 1939, lệnh động viên nhập ngũ đã ban hành."
       }
     ],
     "k": "hiler youth"
@@ -10305,10 +10305,10 @@
     "segs": [{"k": "m", "t": "(hindermost) ^tt. ở xa nhất phía đằng sau; sau cùng."}],
     "k": "hindermost"
   },
-  {"h": "hindgut", "segs": [{"k": "m", "t": "Ðoạn cuối ruột phôi."}], "k": "hindgut"},
+  {"h": "hindgut", "segs": [{"k": "m", "t": "Đoạn cuối ruột phôi."}], "k": "hindgut"},
   {
     "h": "hindi",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tiếng Hin-đi (Ấn Ðộ)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tiếng Hin-đi (Ấn Độ)."}],
     "ipa": "'hindi:",
     "k": "hindi"
   },
@@ -10421,12 +10421,12 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "Hindoo"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người Hin-đu (Ấn Ðộ)"},
+      {"k": "m", "t": "người Hin-đu (Ấn Độ)"},
       {"k": "m", "t": "người theo đạo Ấn"},
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "Hin-đu, (thuộc) người Hin-đu"},
       {"k": "m", "t": "(thuộc) người theo đạo Ấn"},
-      {"k": "m", "t": "(thuộc) Ấn Ðộ."}
+      {"k": "m", "t": "(thuộc) Ấn Độ."}
     ],
     "ipa": "'hindu:",
     "k": "hindu"
@@ -10437,7 +10437,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "lịch Hin-đu (dùng tuần trăng, từ năm 3101 trước Công nguyên, dùng đặc biệt ở Ấn Ðộ)."
+        "t": "lịch Hin-đu (dùng tuần trăng, từ năm 3101 trước Công nguyên, dùng đặc biệt ở Ấn Độ)."
       }
     ],
     "ipa": "'hindu'kælində",
@@ -10459,7 +10459,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một đảng, một tổ chức cộng đồng của tín đồ Hindu (Ấn giáo). Lần đầu, nó được thành lập ở bang Punjab (Ấn Ðộ) trước năm 1914, sau này nó được phát triển mạnh vào thập niên 1920 dưới sự lãnh đạo của ông Pandit Mohan Malaviya năm 1861 đến năm 1946 và ông Lala Rajpat Rai năm 1865 đến năm 1928. Nó mở ra một chiến dịch cải cách xã hội và sự cải đạo từ Hồi giáo sang Ấn giáo. Sự chuyển đổi từ đạo Hồi sang Ấn giáo đã gây ra sự căng thẳng giữa đảng Mahasabha đối với quốc hội Ấn Ðộ. Năm 1937, quốc hội đã làm nó tan rã. Sau khi Ấn Ðộ giành độc lập, đảng này trở thành những người ủng hộ cho lý tưởng cộng đồng của tín đồ Hindu."
+        "t": "một đảng, một tổ chức cộng đồng của tín đồ Hindu (Ấn giáo). Lần đầu, nó được thành lập ở bang Punjab (Ấn Độ) trước năm 1914, sau này nó được phát triển mạnh vào thập niên 1920 dưới sự lãnh đạo của ông Pandit Mohan Malaviya năm 1861 đến năm 1946 và ông Lala Rajpat Rai năm 1865 đến năm 1928. Nó mở ra một chiến dịch cải cách xã hội và sự cải đạo từ Hồi giáo sang Ấn giáo. Sự chuyển đổi từ đạo Hồi sang Ấn giáo đã gây ra sự căng thẳng giữa đảng Mahasabha đối với quốc hội Ấn Độ. Năm 1937, quốc hội đã làm nó tan rã. Sau khi Ấn Độ giành độc lập, đảng này trở thành những người ủng hộ cho lý tưởng cộng đồng của tín đồ Hindu."
       }
     ],
     "k": "hindu mahasabha"
@@ -10473,7 +10473,7 @@
       },
       {
         "k": "m",
-        "t": "Từ năm 1772 đến năm 1833, ông Raja Ram Mohun Roy là người đi tiên phong về Ấn giáo. Ông học tiếng Anh, đưa những ý tưởng Ấn giáo vào văn chương người phương Tây để quảng bá Ấn giáo từ ngữ \"Phục hồi Ấn giáo\" cũng dùng để mô tả lý tưởng \"quốc gia phải độc lập\" trong nền tảng chính trị của nước Ấn Ðộ."
+        "t": "Từ năm 1772 đến năm 1833, ông Raja Ram Mohun Roy là người đi tiên phong về Ấn giáo. Ông học tiếng Anh, đưa những ý tưởng Ấn giáo vào văn chương người phương Tây để quảng bá Ấn giáo từ ngữ \"Phục hồi Ấn giáo\" cũng dùng để mô tả lý tưởng \"quốc gia phải độc lập\" trong nền tảng chính trị của nước Ấn Độ."
       }
     ],
     "k": "hindu revivalism"
@@ -10483,7 +10483,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ấn giáo) Ðây là tín ngưỡng tôn giáo và phong tục tập quán khởi đầu từ Ấn Ðộ. Là sự pha trộn phức tạp của nền văn hóa Anh-Ấn do những cuộc xâm lăng Aryan mang đến kể từ năm 1500 trước công nguyên. Ấn giáo mang đậm nét tôn giáo trên thực tế một thời kỳ dài, không viển vông mà cũng không giống Thiên Chúa giáo. Bất kể đến những ràng buộc về lý thuyết, điều được kính trọng là kinh Vedas, một văn bản thiêng liêng của tín đồ Hindu. Họ thờ phụng nhiều các vị thần ví dụ (Vishnu, shiva và nữ thần vĩ đại Kali). Giáo điều phổ thông liên quan đến luật đạo đức, luật nhân quả và luật kiếp sau. Tín đồ Hindu thờ cúng ở nhà, ở mộ thánh và ở các đền miếu. Những nơi được cho là nổi tiếng linh thiêng là sông Ganges và thành phố Varanasi. Có khoảng 600 triệu dân Ấn Ðộ theo đạo Ấn giáo. Do việc di cư, nên Ấn giáo trải rộng đến Ðông Phi, Nam Phi, Ðông Nam Á, vùng Ca-ri-bê, Mỹ và Anh."
+        "t": "(Ấn giáo) Đây là tín ngưỡng tôn giáo và phong tục tập quán khởi đầu từ Ấn Độ. Là sự pha trộn phức tạp của nền văn hóa Anh-Ấn do những cuộc xâm lăng Aryan mang đến kể từ năm 1500 trước công nguyên. Ấn giáo mang đậm nét tôn giáo trên thực tế một thời kỳ dài, không viển vông mà cũng không giống Thiên Chúa giáo. Bất kể đến những ràng buộc về lý thuyết, điều được kính trọng là kinh Vedas, một văn bản thiêng liêng của tín đồ Hindu. Họ thờ phụng nhiều các vị thần ví dụ (Vishnu, shiva và nữ thần vĩ đại Kali). Giáo điều phổ thông liên quan đến luật đạo đức, luật nhân quả và luật kiếp sau. Tín đồ Hindu thờ cúng ở nhà, ở mộ thánh và ở các đền miếu. Những nơi được cho là nổi tiếng linh thiêng là sông Ganges và thành phố Varanasi. Có khoảng 600 triệu dân Ấn Độ theo đạo Ấn giáo. Do việc di cư, nên Ấn giáo trải rộng đến Đông Phi, Nam Phi, Đông Nam Á, vùng Ca-ri-bê, Mỹ và Anh."
       },
       {
         "k": "m",
@@ -10495,7 +10495,7 @@
       }
     ],
     "k": "hinduism",
-    "q": {"vi": "đạo Hin-đu, đạo ấn, ấn Ðộ Giáo", "pos": "n"}
+    "q": {"vi": "đạo Hin-đu, đạo ấn, ấn Độ Giáo", "pos": "n"}
   },
   {
     "h": "hinduize",
@@ -11278,7 +11278,7 @@
       },
       {
         "k": "m",
-        "t": "Ðầu thế kỷ 19, những sử gia nước Ðức (năm 1776 đến năm 1831) có ông Barthold Georg Niebuhr, và từ (năm 1795 đến năm 1886) ông Leopold von Rabke đã chuyển đổi việc viết lịch sử. Ðể giải thích \"lịch sử thật sự xảy ra như thế nào\", Ranke đặt ra những tiêu chuẩn mới rằng lịch sử chỉ căn cứ vào những chứng cứ gọi là \"lịch sử dựa vào khoa học\" dẫn đến sự thâu thập sự kiện có hệ thống. Một hình thức khác của \"lịch sử dựa vào khoa học\" là sự tin tưởng của những người tích cực như nhà sử học Pháp có tên là Auguste Comte (1798-1857). Karl Marx với lý thuyết duy vật biện chứng đã trình bày một loại \"lịch sử dựa vào khoa học\" thay đổi thông qua việc đấu tranh giai cấp."
+        "t": "Đầu thế kỷ 19, những sử gia nước Đức (năm 1776 đến năm 1831) có ông Barthold Georg Niebuhr, và từ (năm 1795 đến năm 1886) ông Leopold von Rabke đã chuyển đổi việc viết lịch sử. Để giải thích \"lịch sử thật sự xảy ra như thế nào\", Ranke đặt ra những tiêu chuẩn mới rằng lịch sử chỉ căn cứ vào những chứng cứ gọi là \"lịch sử dựa vào khoa học\" dẫn đến sự thâu thập sự kiện có hệ thống. Một hình thức khác của \"lịch sử dựa vào khoa học\" là sự tin tưởng của những người tích cực như nhà sử học Pháp có tên là Auguste Comte (1798-1857). Karl Marx với lý thuyết duy vật biện chứng đã trình bày một loại \"lịch sử dựa vào khoa học\" thay đổi thông qua việc đấu tranh giai cấp."
       },
       {
         "k": "m",
@@ -11717,7 +11717,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cuộc đua ngựa do người La Mã và Hy Lạp cổ tổ chức. Cuộc đua được xếp theo hình chữ U, có một thanh chắn ngang phía cuối trung tâm. Bắt buộc ngựa phải chạy đua về một phía và vượt lên ở phía bên kia. Những khán giả đứng trên bục khán đài để quan sát. Ðấu trường Olympia là một ví dụ tiêu biểu. Cuộc đua ngựa là một nét điển hình ở những thành phố lớn của Hy Lạp. Cuộc đua ngựa ở thành phố Constantinople có tới 100.000 khán giả, đây là một cuộc đua hết sức quyết liệt giữa những cổ động viên. Gánh xiếc Maximus ở La Mã đã mô phỏng theo cuộc đua ngựa ở Hy Lạp."
+        "t": "cuộc đua ngựa do người La Mã và Hy Lạp cổ tổ chức. Cuộc đua được xếp theo hình chữ U, có một thanh chắn ngang phía cuối trung tâm. Bắt buộc ngựa phải chạy đua về một phía và vượt lên ở phía bên kia. Những khán giả đứng trên bục khán đài để quan sát. Đấu trường Olympia là một ví dụ tiêu biểu. Cuộc đua ngựa là một nét điển hình ở những thành phố lớn của Hy Lạp. Cuộc đua ngựa ở thành phố Constantinople có tới 100.000 khán giả, đây là một cuộc đua hết sức quyết liệt giữa những cổ động viên. Gánh xiếc Maximus ở La Mã đã mô phỏng theo cuộc đua ngựa ở Hy Lạp."
       }
     ],
     "k": "hippodrome"
@@ -12304,7 +12304,7 @@
       },
       {
         "k": "m",
-        "t": "Hirohito được bổ nhiệm là quan nhiếp chính năm 1921, sau khi thoát khỏi một vụ ám sát. Ông lên ngôi vua năm 1926, khởi đầu kỷ nguyên Showa. Mặc dù Nhật Hoàng Hirohito không chấp thuận sự bành trướng quân sự, ông ít có cơ hội thi hành quyền lực tối cao, mà phải tuân theo những vinh quang chính trị của tướng Tojo và phái quân sự. Ông tiếp tục theo lời khuyên của các cố vấn là không nên dính líu vào chính trị. Ðến năm 1945, ông được thương thuyết là cần chấm dứt đệ nhị thế chiến. Nên bắt buộc ông phái quân sự đầu hàng vô điều kiện. Ông được tướng Mỹ Macarthur cứu mạng ở tòa án vì không coi ông là tội phạm chiến tranh. Nhật Hoàng Hirohito từ bỏ sự tôn sùng, chỉ giữ lại chế độ quân chủ, mặc dù đó chỉ là biểu tượng cho việc không nắm quyền của chính phủ, theo hiến pháp mới năm 1947."
+        "t": "Hirohito được bổ nhiệm là quan nhiếp chính năm 1921, sau khi thoát khỏi một vụ ám sát. Ông lên ngôi vua năm 1926, khởi đầu kỷ nguyên Showa. Mặc dù Nhật Hoàng Hirohito không chấp thuận sự bành trướng quân sự, ông ít có cơ hội thi hành quyền lực tối cao, mà phải tuân theo những vinh quang chính trị của tướng Tojo và phái quân sự. Ông tiếp tục theo lời khuyên của các cố vấn là không nên dính líu vào chính trị. Đến năm 1945, ông được thương thuyết là cần chấm dứt đệ nhị thế chiến. Nên bắt buộc ông phái quân sự đầu hàng vô điều kiện. Ông được tướng Mỹ Macarthur cứu mạng ở tòa án vì không coi ông là tội phạm chiến tranh. Nhật Hoàng Hirohito từ bỏ sự tôn sùng, chỉ giữ lại chế độ quân chủ, mặc dù đó chỉ là biểu tượng cho việc không nắm quyền của chính phủ, theo hiến pháp mới năm 1947."
       }
     ],
     "k": "hirohito"
@@ -12390,7 +12390,7 @@
   {"h": "His Highness", "segs": [{"k": "m", "t": "hoàng thân."}], "k": "his highness"},
   {
     "h": "His Holiness",
-    "segs": [{"k": "m", "t": "Ðức Giáo hoàng (tiếng tôn xưng)."}],
+    "segs": [{"k": "m", "t": "Đức Giáo hoàng (tiếng tôn xưng)."}],
     "k": "his holiness"
   },
   {"h": "His Honour", "segs": [{"k": "m", "t": "thưa ngài, thưa tướng công."}], "k": "his honour"},
@@ -12448,7 +12448,7 @@
   },
   {
     "h": "hispanic",
-    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc về Tây Ban Nha và Bồ Ðào Nha."}],
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc về Tây Ban Nha và Bồ Đào Nha."}],
     "ipa": "his'pænik",
     "k": "hispanic"
   },
@@ -12524,15 +12524,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "quần đảo lớn thứ 2 ở vùng biển Ca-ri-bê. Ðảo này chia cắt hai quốc gia (cộng hòa Dominica và Haiti), nó nằm giữa Cuba và Puerto Rico."
+        "t": "quần đảo lớn thứ 2 ở vùng biển Ca-ri-bê. Đảo này chia cắt hai quốc gia (cộng hòa Dominica và Haiti), nó nằm giữa Cuba và Puerto Rico."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Ở trung tâm có nhiều núi cao khoảng 3000m. Phía đông Bắc, gió chuyển mưa lớn đến các sườn núi đối mặt với gió."
+        "t": "Địa hình: Ở trung tâm có nhiều núi cao khoảng 3000m. Phía đông Bắc, gió chuyển mưa lớn đến các sườn núi đối mặt với gió."
       },
       {
         "k": "m",
-        "t": "Lịch sử: những người Indians Ciboney từ Nam Mỹ định cư trên bán đảo từ năm 5000 trước công nguyên. Người Indians Arawak từ miền tây Bắc Nam Mỹ đem nghề canh nông đến đảo khoảng năm 1000 trước công nguyên. Từ năm 200 sau công nguyên, do ảnh hưởng của Mexico, có nền văn hóa Taino Arawak bao gồm việc trồng ngô, xây dựng các trung tâm lễ hội, là nơi thờ cúng người và động vật đại diện cho linh hồn. Nền văn hóa này phát triển và lan rộng đến những quần đảo khác. Năm 1492, Columbus đổ bộ lên đảo và đến năm 1496, thành phố Santo Domingo được thành lập. Ðây là thành phố đầu tiên của người Châu Âu đến định cư. Người Tây Ban Nha mở rộng trồng tỉa ở phía Ðông, cuối hòn đảo, nhưng người Pháp kiểm soát được ở phía Tây và lập nên thành phố thuộc địa Santo Dominfue (Haiti). Nhưng việc khai thác và dịch bệnh của người Châu Âu đem đến đảo đã làm cho nền văn hóa Taino Arawak bị tiêu diệt vào thế kỷ 18."
+        "t": "Lịch sử: những người Indians Ciboney từ Nam Mỹ định cư trên bán đảo từ năm 5000 trước công nguyên. Người Indians Arawak từ miền tây Bắc Nam Mỹ đem nghề canh nông đến đảo khoảng năm 1000 trước công nguyên. Từ năm 200 sau công nguyên, do ảnh hưởng của Mexico, có nền văn hóa Taino Arawak bao gồm việc trồng ngô, xây dựng các trung tâm lễ hội, là nơi thờ cúng người và động vật đại diện cho linh hồn. Nền văn hóa này phát triển và lan rộng đến những quần đảo khác. Năm 1492, Columbus đổ bộ lên đảo và đến năm 1496, thành phố Santo Domingo được thành lập. Đây là thành phố đầu tiên của người Châu Âu đến định cư. Người Tây Ban Nha mở rộng trồng tỉa ở phía Đông, cuối hòn đảo, nhưng người Pháp kiểm soát được ở phía Tây và lập nên thành phố thuộc địa Santo Dominfue (Haiti). Nhưng việc khai thác và dịch bệnh của người Châu Âu đem đến đảo đã làm cho nền văn hóa Taino Arawak bị tiêu diệt vào thế kỷ 18."
       }
     ],
     "k": "hispaniola"
@@ -12622,7 +12622,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1949-1950) Ðây là vụ án của ông Hiss. Một vụ án ở Mỹ liên quan đến ông Hiss, một quan chức chính phủ phạm tội làm gián điệp. Năm 1950, ông Hiss bị cho là có tội chuyển tài liệu mật của nước Mỹ cho một văn phòng cộng sản tên là (Whittaker). Mặc dù, ông Hiss vẫn khẳng định là mình vô tội và có nhiều quan chức chính phủ Mỹ làm chứng cho ông, nhưng ông vẫn bị tòa xử án 5 năm tù. Trong thời gian \"chiến tranh lạnh\", đa số người dân Mỹ tin rằng ông có tội, nhưng có một số người khác lại khẳng định rằng văn phòng điều tra liên bang (FBI) đã mua chuộc chứng cớ để kết tội ông Hiss."
+        "t": "(1949-1950) Đây là vụ án của ông Hiss. Một vụ án ở Mỹ liên quan đến ông Hiss, một quan chức chính phủ phạm tội làm gián điệp. Năm 1950, ông Hiss bị cho là có tội chuyển tài liệu mật của nước Mỹ cho một văn phòng cộng sản tên là (Whittaker). Mặc dù, ông Hiss vẫn khẳng định là mình vô tội và có nhiều quan chức chính phủ Mỹ làm chứng cho ông, nhưng ông vẫn bị tòa xử án 5 năm tù. Trong thời gian \"chiến tranh lạnh\", đa số người dân Mỹ tin rằng ông có tội, nhưng có một số người khác lại khẳng định rằng văn phòng điều tra liên bang (FBI) đã mua chuộc chứng cớ để kết tội ông Hiss."
       },
       {
         "k": "m",
@@ -12980,7 +12980,7 @@
   },
   {
     "h": "histologic accommodation",
-    "segs": [{"k": "m", "t": "Ðiều tiết mô học."}],
+    "segs": [{"k": "m", "t": "Điều tiết mô học."}],
     "k": "histologic accommodation"
   },
   {
@@ -13292,7 +13292,7 @@
         "t": "We have no historical evidence for it",
         "vi": "Chúng tôi không có bằng chứng lịch sử về điều đó"
       },
-      {"k": "ex", "t": "It's a historical fact", "vi": "Ðó là một sự kiện lịch sử"},
+      {"k": "ex", "t": "It's a historical fact", "vi": "Đó là một sự kiện lịch sử"},
       {"k": "ex", "t": "historical materialism", "vi": "chủ nghĩa duy vật lịch sử"},
       {"k": "m", "t": "có thật trong lịch sử (chứ không phải huyền thoại hoặc hư cấu)"},
       {"k": "ex", "t": "historical events/people", "vi": "sự kiện/con người lịch sử"},
@@ -13682,7 +13682,7 @@
       {
         "k": "ex",
         "t": "They had an affair once, but that's ancient history now",
-        "vi": "Ðã có lúc họ có chuyện tình ái với nhau, song bây giờ đó là chuyện cũ rồi"
+        "vi": "Đã có lúc họ có chuyện tình ái với nhau, song bây giờ đó là chuyện cũ rồi"
       },
       {"k": "ex", "t": "to make/go down in history", "vi": "được ghi vào lịch sử"},
       {
@@ -13953,7 +13953,7 @@
       {
         "k": "ex",
         "t": "Our profits have hit bottom. This is our worst year ever:",
-        "vi": "Lợi nhuận của chúng tôi đạt đến điểm thấp nhất. Ðây là năm bi đát nhất của chúng tôi."
+        "vi": "Lợi nhuận của chúng tôi đạt đến điểm thấp nhất. Đây là năm bi đát nhất của chúng tôi."
       },
       {
         "k": "ex",
@@ -14166,7 +14166,7 @@
       {
         "k": "ex",
         "t": "Look at the clock. It's time to hit the hay:",
-        "vi": "Hãy nhìn xem đồng hồ. Ðến giờ đi ngủ rồi."
+        "vi": "Hãy nhìn xem đồng hồ. Đến giờ đi ngủ rồi."
       },
       {
         "k": "ex",
@@ -14190,7 +14190,7 @@
         "t": "I've never hit the jackpot even once:",
         "vi": "Tôi chưa hề trúng lớn dù chỉ một lần thôi."
       },
-      {"k": "m", "t": "2. Ðược thành công."},
+      {"k": "m", "t": "2. Được thành công."},
       {
         "k": "ex",
         "t": "I hit the jackpot on a business deal:",
@@ -14214,7 +14214,7 @@
       {
         "k": "ex",
         "t": "It's time to hit the road. I'll see you:",
-        "vi": "Ðến giờ lên đường rồi. Hẹn gặp lại bạn."
+        "vi": "Đến giờ lên đường rồi. Hẹn gặp lại bạn."
       },
       {
         "k": "ex",
@@ -14255,7 +14255,7 @@
       {
         "k": "ex",
         "t": "That was a delicious meal, dear. It hit the spot:",
-        "vi": "Ðó là bữa ăn ngon cưng à. Thật là khoan khoái."
+        "vi": "Đó là bữa ăn ngon cưng à. Thật là khoan khoái."
       }
     ],
     "k": "hit the spot"
@@ -14570,7 +14570,7 @@
   },
   {
     "h": "Hitlerian",
-    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc Hitler/chế độ của Hitler (Ðức)."}],
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc Hitler/chế độ của Hitler (Đức)."}],
     "ipa": "'hit'læəriən",
     "k": "hitlerian"
   },
@@ -14715,7 +14715,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là một số người dân sinh sống ở vùng tiểu Á từ năm 1700 đến 1200 trước công nguyên. Họ là những người Ấn-Âu, từ phía Bắc Hắc Hải du nhập vào vùng Anatolia vào cuối thiên niên kỷ thứ 3 trước công nguyên. Họ thành lập thủ đô lấy tên là Hattush và dần mở rộng quyền lực khắp vùng Anatolia cho đến tận Syria. Ông Mursilis xâm nhập đến tận Babylon 1595 trước công nguyên, nhưng cái chết của ông đã gây ra sự bất đồng nội bộ đáng kể. Cao điểm của luật pháp Hittite đã hoàn thiện dưới thời ông Suppiluliiumas (năm 1375 đến năm 1335 trước công nguyên). Ðến năm 1285, đội quân của Hittites đụng độ với đội quân của Ai Cập trong trận đánh nổi tiếng nhưng bất phân thắng bại ở Kadesh. Sau đó hai bên đã đi đến hòa bình, nhưng đến năm 1200, đế chế Hittite bị sụp đổ."
+        "t": "Đây là một số người dân sinh sống ở vùng tiểu Á từ năm 1700 đến 1200 trước công nguyên. Họ là những người Ấn-Âu, từ phía Bắc Hắc Hải du nhập vào vùng Anatolia vào cuối thiên niên kỷ thứ 3 trước công nguyên. Họ thành lập thủ đô lấy tên là Hattush và dần mở rộng quyền lực khắp vùng Anatolia cho đến tận Syria. Ông Mursilis xâm nhập đến tận Babylon 1595 trước công nguyên, nhưng cái chết của ông đã gây ra sự bất đồng nội bộ đáng kể. Cao điểm của luật pháp Hittite đã hoàn thiện dưới thời ông Suppiluliiumas (năm 1375 đến năm 1335 trước công nguyên). Đến năm 1285, đội quân của Hittites đụng độ với đội quân của Ai Cập trong trận đánh nổi tiếng nhưng bất phân thắng bại ở Kadesh. Sau đó hai bên đã đi đến hòa bình, nhưng đến năm 1200, đế chế Hittite bị sụp đổ."
       }
     ],
     "k": "hittites"

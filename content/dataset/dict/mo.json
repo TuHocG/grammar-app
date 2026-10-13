@@ -548,15 +548,15 @@
       },
       {
         "k": "m",
-        "t": "IP di động bao gồm những thực thể được định nghĩa trong danh sách bên dưới. Trước khi mô tả các thực thể, ta cũng phải biết về những hoạt động cơ bản của IP di động. Người sử dụng di động có một mạng \"ở nhà\", nơi gốc của anh ta. Ðịa chỉ \"ở nhà\" là địa chỉ IP của máy được đăng ký trên mạng \"ở nhà\". Khi máy được dời sang mạng khác, dữ liệu vẫn được chuyển đến mạng \"ở nhà\" của anh ta. Mạng \"ở nhà\" biết rằng máy đó đã được dời đến mạng khác-gọi là mạng \"bên ngoài\" - và chuyển thông tin đến cho người sử dụng ở mạng này. Dữ liệu được đóng gói và truyền đi thông qua kênh kết nối từ mạng \"ở nhà\" và mạng \"bên ngoài\"."
+        "t": "IP di động bao gồm những thực thể được định nghĩa trong danh sách bên dưới. Trước khi mô tả các thực thể, ta cũng phải biết về những hoạt động cơ bản của IP di động. Người sử dụng di động có một mạng \"ở nhà\", nơi gốc của anh ta. Địa chỉ \"ở nhà\" là địa chỉ IP của máy được đăng ký trên mạng \"ở nhà\". Khi máy được dời sang mạng khác, dữ liệu vẫn được chuyển đến mạng \"ở nhà\" của anh ta. Mạng \"ở nhà\" biết rằng máy đó đã được dời đến mạng khác-gọi là mạng \"bên ngoài\" - và chuyển thông tin đến cho người sử dụng ở mạng này. Dữ liệu được đóng gói và truyền đi thông qua kênh kết nối từ mạng \"ở nhà\" và mạng \"bên ngoài\"."
       },
       {
         "k": "m",
-        "t": "Nút di động Ðây là máy chủ hay bộ định tuyến di động có thể thay đổi điểm kết nối từ mạng này sang mạng khác mà không cần thay đổi địa chỉ IP. Khi bị di chuyển, nó vẫn tiếp tục liên hệ với những nút mạng Internet khác thông qua địa chỉ IP \"ở nhà\"."
+        "t": "Nút di động Đây là máy chủ hay bộ định tuyến di động có thể thay đổi điểm kết nối từ mạng này sang mạng khác mà không cần thay đổi địa chỉ IP. Khi bị di chuyển, nó vẫn tiếp tục liên hệ với những nút mạng Internet khác thông qua địa chỉ IP \"ở nhà\"."
       },
       {
         "k": "m",
-        "t": "Trạm ở nhà Ðây là một bộ định tuyến trên mạng \"ở nhà\", có thể truyền dữ liệu đến một nút di động. Bộ định tuyến duy trì những thông tin về vị trí hiện tại của nút di động."
+        "t": "Trạm ở nhà Đây là một bộ định tuyến trên mạng \"ở nhà\", có thể truyền dữ liệu đến một nút di động. Bộ định tuyến duy trì những thông tin về vị trí hiện tại của nút di động."
       },
       {
         "k": "m",
@@ -1228,7 +1228,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1930-1997): là một chính khách Châu Phi. Ông trở thành tổng thống của Zaire (nước cộng hòa Côngo bây giờ) Từ 1965-1997. Ông gia nhập lực lượng Publique năm 1949 và được đề cử tổng tư lệnh. Tiếp theo sau 5 năm bạo loạn và nội chiến, ông giành quyền tổng thống năm 1965. Ông cho phép thường dân tham gia chính trị và kiên quyết ổn định kinh tế. Là một phần trong chiến dịch Châu Phi hóa, ông thay đổi niên hiệu đất nước năm 1971 từ Congo thành Zaire. Giữ nhiệm kỳ được hơn 3 thập kỷ, lần đầu tiên ông kiểm soát được tình hình chính trị. Ông khuyến khích khai thác khoáng sản, cho phép các công ty nước ngoài xây đập thủy điện. Từ 1977-1978, xuất hiện nhiều cuộc xâm lăng của Angola. Ðối mặt với những chỉ trích ngày càng gia tăng, tháng 5/1990 ông tuyên bố cải cách chính trị, chấm dứt sự độc quyền của đảng MPR. Tình hình chính trị trở nên bất ổn, bạo động, đình công liên tục xảy ra. Mobutu được đề cử lần cuối năm 1984. Tháng 12/1991, ông cho hoãn lại chiến dịch tranh cử tổng thống mới trong khi tình hình kinh tế và chính trị vô cùng hỗn loạn. Hội đồng nhà nước cấp cao cộng hòa được thành lập năm 1992 để hoàn thành các cải cách dân chủ. Năm 1994, một bản hiến pháp chuyển tiếp nhằm giảm quyền lực của tổng thống và tạo ra một thể chế mới, hoàn thành các cải cách dân chủ. Năm 1996-1997, sự phản đối chính quyền Mobutu nổ ra xung quanh sự kiện Laurent Kabila. Khi lực lượng Kabila tiến về từ phía đông, Mobutu từ bỏ quyền lực và bị lưu đày biệt xứ. Ông qua đời sau đó không lâu."
+        "t": "(1930-1997): là một chính khách Châu Phi. Ông trở thành tổng thống của Zaire (nước cộng hòa Côngo bây giờ) Từ 1965-1997. Ông gia nhập lực lượng Publique năm 1949 và được đề cử tổng tư lệnh. Tiếp theo sau 5 năm bạo loạn và nội chiến, ông giành quyền tổng thống năm 1965. Ông cho phép thường dân tham gia chính trị và kiên quyết ổn định kinh tế. Là một phần trong chiến dịch Châu Phi hóa, ông thay đổi niên hiệu đất nước năm 1971 từ Congo thành Zaire. Giữ nhiệm kỳ được hơn 3 thập kỷ, lần đầu tiên ông kiểm soát được tình hình chính trị. Ông khuyến khích khai thác khoáng sản, cho phép các công ty nước ngoài xây đập thủy điện. Từ 1977-1978, xuất hiện nhiều cuộc xâm lăng của Angola. Đối mặt với những chỉ trích ngày càng gia tăng, tháng 5/1990 ông tuyên bố cải cách chính trị, chấm dứt sự độc quyền của đảng MPR. Tình hình chính trị trở nên bất ổn, bạo động, đình công liên tục xảy ra. Mobutu được đề cử lần cuối năm 1984. Tháng 12/1991, ông cho hoãn lại chiến dịch tranh cử tổng thống mới trong khi tình hình kinh tế và chính trị vô cùng hỗn loạn. Hội đồng nhà nước cấp cao cộng hòa được thành lập năm 1992 để hoàn thành các cải cách dân chủ. Năm 1994, một bản hiến pháp chuyển tiếp nhằm giảm quyền lực của tổng thống và tạo ra một thể chế mới, hoàn thành các cải cách dân chủ. Năm 1996-1997, sự phản đối chính quyền Mobutu nổ ra xung quanh sự kiện Laurent Kabila. Khi lực lượng Kabila tiến về từ phía đông, Mobutu từ bỏ quyền lực và bị lưu đày biệt xứ. Ông qua đời sau đó không lâu."
       }
     ],
     "k": "mobutu sese seko"
@@ -2574,7 +2574,7 @@
       },
       {
         "k": "m",
-        "t": "Hầu hết các người sử dụng modem chỉ dùng một đường truyền, nghĩa là họ truyền và nhận trên cùng một kênh. Modem ở hai đầu của kết nối phối hợp hoạt động của chúng và lần lượt truyền. Modem full-duplex được minh họa trong hình M-9. Ðộ rộng của dải tần sẽ được chia thành hai kênh với tần số mang khác nhau do đó modem có thể truyền và nhận tại cùng thời điểm. Dải bảo vệ (guard band) được sử dụng để tách kênh hai chiều giúp tránh nhiễu siêu âm và hỏng dữ liệu. Dải bảo vệ sẽ làm giảm tốc độ truyền nếu sử dụng đường điện thoại."
+        "t": "Hầu hết các người sử dụng modem chỉ dùng một đường truyền, nghĩa là họ truyền và nhận trên cùng một kênh. Modem ở hai đầu của kết nối phối hợp hoạt động của chúng và lần lượt truyền. Modem full-duplex được minh họa trong hình M-9. Độ rộng của dải tần sẽ được chia thành hai kênh với tần số mang khác nhau do đó modem có thể truyền và nhận tại cùng thời điểm. Dải bảo vệ (guard band) được sử dụng để tách kênh hai chiều giúp tránh nhiễu siêu âm và hỏng dữ liệu. Dải bảo vệ sẽ làm giảm tốc độ truyền nếu sử dụng đường điện thoại."
       },
       {"k": "m", "t": "Các chuẩn của Modem"},
       {
@@ -2585,14 +2585,14 @@
       {"k": "m", "t": "V.22bit 2400 bit/giây, full-duplex, mã hóa QAM"},
       {"k": "m", "t": "V.32 Không đồng bộ/ đồng bộ, 4800/9600 bit/giây, mã hóa QAM"},
       {"k": "m", "t": "V.32 bit Không đồng bộ/ đồng bộ, 14400 bit/giây, mã hóa TCM"},
-      {"k": "m", "t": "V.35 Ðịnh nghĩa tốc độ truyền dữ liệu cao trên mạch kết hợp"},
-      {"k": "m", "t": "V.42 Ðịnh nghĩa chuẩn kiểm tra lỗi"},
-      {"k": "m", "t": "V.42bit Ðịnh nghĩa cách nén theo phương pháp Lempel Ziv"},
+      {"k": "m", "t": "V.35 Định nghĩa tốc độ truyền dữ liệu cao trên mạch kết hợp"},
+      {"k": "m", "t": "V.42 Định nghĩa chuẩn kiểm tra lỗi"},
+      {"k": "m", "t": "V.42bit Định nghĩa cách nén theo phương pháp Lempel Ziv"},
       {"k": "m", "t": "V.34 Là chuẩn cho tốc độ 28 Kbit/giây, sử dụng mã hóa TCM"},
       {"k": "m", "t": "V.34+ Tăng V.34 lên 33.6 Kbit/giây"},
       {
         "k": "m",
-        "t": "Như chúng ta đã biết, tốc độ như trên không phải lúc nào cũng đạt được. Các chuẩn chỉ cho biết tốc độ tối đa, nhưng nhiễu trên đường truyền, khoảng cách và hệ thống chuyển mạch giữa hai modem thường làm giảm tốc độ truyền dữ liệu thực sự. Ðường truyền phải không có nhiễu để đạt được tốc độ tối ưu. Ýớc tính có khoảng gần 30% đường truyền ở Mỹ đủ \"sạch\" để các modem hoạt động với tốc độ cao nhất."
+        "t": "Như chúng ta đã biết, tốc độ như trên không phải lúc nào cũng đạt được. Các chuẩn chỉ cho biết tốc độ tối đa, nhưng nhiễu trên đường truyền, khoảng cách và hệ thống chuyển mạch giữa hai modem thường làm giảm tốc độ truyền dữ liệu thực sự. Đường truyền phải không có nhiễu để đạt được tốc độ tối ưu. Ýớc tính có khoảng gần 30% đường truyền ở Mỹ đủ \"sạch\" để các modem hoạt động với tốc độ cao nhất."
       },
       {"k": "m", "t": "Hình M-9. Kênh duplex."},
       {"k": "m", "t": "Modem tốc độ 56K/giây"},
@@ -2627,7 +2627,7 @@
       },
       {
         "k": "m",
-        "t": "Ðể đạt được tốc độ truyền dữ liệu cao phải loại bỏ đường truyền dùng tín hiệu analog ở tại các nhà cung cấp dịch vụ Internet. Như đã nói, hầu hết các nhà cung cấp dịch vụ Internet có điểm kết thúc là digital, nên điều này có thể thực hiện được. Khi đường truyền dùng tín hiệu analog tại các nhà cung cấp dịch vụ Internet được loại bỏ, sẽ có ít sự chuyển đổi và ít nhiễu hơn, tốc độ truyền dữ liệu cao hơn. Tuy nhiên tốc độ tải lên vẫn còn chậm vì dành tốc độ cao cho kênh tải xuống, điều này cũng hợp lý vì hầu hết các người sử dụng Internet đều truy cập các thông tin (tải xuống)."
+        "t": "Để đạt được tốc độ truyền dữ liệu cao phải loại bỏ đường truyền dùng tín hiệu analog ở tại các nhà cung cấp dịch vụ Internet. Như đã nói, hầu hết các nhà cung cấp dịch vụ Internet có điểm kết thúc là digital, nên điều này có thể thực hiện được. Khi đường truyền dùng tín hiệu analog tại các nhà cung cấp dịch vụ Internet được loại bỏ, sẽ có ít sự chuyển đổi và ít nhiễu hơn, tốc độ truyền dữ liệu cao hơn. Tuy nhiên tốc độ tải lên vẫn còn chậm vì dành tốc độ cao cho kênh tải xuống, điều này cũng hợp lý vì hầu hết các người sử dụng Internet đều truy cập các thông tin (tải xuống)."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -2638,7 +2638,7 @@
       {"k": "m", "t": "nhóm thông tin có điều tiết"},
       {
         "k": "m",
-        "t": "Trong hệ thống bảng bulletin (BBS) được phân phối, như USENET hoặc Echo Mail chẳng hạn, đây là cuộc hội nghị chuyên đề, trong đó những ý kiến đóng góp được cho hiện lên màn hình bởi một hoặc nhiều người chủ trì điều tiết, trước khi thông báo tin của người đóng góp xuất hiện. Công việc của điều tiết viên (thường) hay phạm sai lầm trong kiểm duyệt nhằm bảo đảm cho các thông báo tin tức luôn trung thành với chủ đề đang thảo luận của nhóm. Ðiều tiết viên cũng có thể cắt bỏ cuộc thảo luận về một chủ đề phụ nào đó, (những ý kiến (thường) dẫn đến những cuộc tranh cãi gay gắt vô ích, với các nội dung mang ít thông tin)."
+        "t": "Trong hệ thống bảng bulletin (BBS) được phân phối, như USENET hoặc Echo Mail chẳng hạn, đây là cuộc hội nghị chuyên đề, trong đó những ý kiến đóng góp được cho hiện lên màn hình bởi một hoặc nhiều người chủ trì điều tiết, trước khi thông báo tin của người đóng góp xuất hiện. Công việc của điều tiết viên (thường) hay phạm sai lầm trong kiểm duyệt nhằm bảo đảm cho các thông báo tin tức luôn trung thành với chủ đề đang thảo luận của nhóm. Điều tiết viên cũng có thể cắt bỏ cuộc thảo luận về một chủ đề phụ nào đó, (những ý kiến (thường) dẫn đến những cuộc tranh cãi gay gắt vô ích, với các nội dung mang ít thông tin)."
       },
       {
         "k": "m",
@@ -2829,7 +2829,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nhóm thông tin có điều tiết. Trong hệ thống bảng bulletin (BBS) được phân phối, như USENET hoặc Echo Mail chẳng hạn, đây là cuộc hội nghị chuyên đề, trong đó những ý kiến đóng góp được cho hiện lên màn hình bởi một hoặc nhiều người chủ trì điều tiết, trước khi thông báo tin của người đóng góp xuất hiện. Công việc của điều tiết viên (thường) hay phạm sai lầm trong kiểm duyệt nhằm bảo đảm cho các thông báo tin tức luôn trung thành với chủ đề đang thảo luận của nhóm. Ðiều tiết viên cũng có thể cắt bỏ cuộc thảo luận về một chủ đề phụ nào đó, (những ý kiến (thường) dẫn đến những cuộc tranh cãi gay gắt vô ích, với các nội dung mang ít thông tin)."
+        "t": "nhóm thông tin có điều tiết. Trong hệ thống bảng bulletin (BBS) được phân phối, như USENET hoặc Echo Mail chẳng hạn, đây là cuộc hội nghị chuyên đề, trong đó những ý kiến đóng góp được cho hiện lên màn hình bởi một hoặc nhiều người chủ trì điều tiết, trước khi thông báo tin của người đóng góp xuất hiện. Công việc của điều tiết viên (thường) hay phạm sai lầm trong kiểm duyệt nhằm bảo đảm cho các thông báo tin tức luôn trung thành với chủ đề đang thảo luận của nhóm. Điều tiết viên cũng có thể cắt bỏ cuộc thảo luận về một chủ đề phụ nào đó, (những ý kiến (thường) dẫn đến những cuộc tranh cãi gay gắt vô ích, với các nội dung mang ít thông tin)."
       }
     ],
     "k": "moderated newsgroup"
@@ -4721,7 +4721,7 @@
       },
       {"k": "m", "t": "PM (PHASE MODULATION)"},
       {"k": "m", "t": "Kỹ thuật điều pha"},
-      {"k": "m", "t": "Ðối với phương pháp này, bước sóng thay đổi từ"},
+      {"k": "m", "t": "Đối với phương pháp này, bước sóng thay đổi từ"},
       {
         "k": "m",
         "t": ", ay đến au chu kỳ của nó. Các chuyển đổi của bước sóng tương ứng với các giá trị nhị phân gởi đến nơi nhận. Lưu ý rằng sự chuyển đổi xảy ra phụ thuộc vào bước sóng trước đó. Vì có bốn loại sóng khác nhau, do đó có thể biểu diễn bốn giá trị bit khác nhau (00, 01, 10, 11) trên mỗi xung."
@@ -4732,7 +4732,7 @@
         "t": "Cách này mở rộng khái niệm của kỹ thuật điều pha bằng cách sử dụng hai biên độ khác nhau và bằng cách thay đổi bước sóng từ"
       },
       {"k": "m", "t": ", ay đến au chu kỳ của nó. Tám giá trị bit có thể được biểu diễn như sau:"},
-      {"k": "m", "t": "Giá trị bit Bước chuyển đổi Ðộ lớn"},
+      {"k": "m", "t": "Giá trị bit Bước chuyển đổi Độ lớn"},
       {"k": "m", "t": "000 không 1"},
       {"k": "m", "t": "001 không 2"},
       {"k": "m", "t": "010"},
@@ -5189,7 +5189,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thành phố nằm ở vùng biển phía đông Châu Phi. Ngày nay, nó là thủ đô của cộng hòa Somali. Thành phố này lần đầu tiên được nhắc đến trong lịch sử thế kỷ thứ 10 như một khu vực độc quyền về mua bán vàng của Zimbabwe. Nó rơi vào tay Kilwa vào thế kỷ 12, nhưng vẫn còn là một cảng biển giao thương quan trọng. Ðô đốc người Trung Quốc, Zheng HE đã viếng thăm vùng đất này vào khoảng năm 1432. Thời kỳ Trung cổ, một liên bang các gia đình có tiếng dưới sự kiểm soát của lãnh tụ Hồi giáo được thành lập cùng với hội đồng các tể tướng và tiểu vương xứ Ả Rập. Triều đại Fakhr al-Din này được Muzaffarid kế vị thế kỷ 16. Sự thịnh vượng của nó lúc này lại phụ thuộc chủ yếu vào dân du cư."
+        "t": "Một thành phố nằm ở vùng biển phía đông Châu Phi. Ngày nay, nó là thủ đô của cộng hòa Somali. Thành phố này lần đầu tiên được nhắc đến trong lịch sử thế kỷ thứ 10 như một khu vực độc quyền về mua bán vàng của Zimbabwe. Nó rơi vào tay Kilwa vào thế kỷ 12, nhưng vẫn còn là một cảng biển giao thương quan trọng. Đô đốc người Trung Quốc, Zheng HE đã viếng thăm vùng đất này vào khoảng năm 1432. Thời kỳ Trung cổ, một liên bang các gia đình có tiếng dưới sự kiểm soát của lãnh tụ Hồi giáo được thành lập cùng với hội đồng các tể tướng và tiểu vương xứ Ả Rập. Triều đại Fakhr al-Din này được Muzaffarid kế vị thế kỷ 16. Sự thịnh vượng của nó lúc này lại phụ thuộc chủ yếu vào dân du cư."
       }
     ],
     "k": "mogadishu"
@@ -5294,7 +5294,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Là một thị trấn và thành phố cảng trên sông Danube, Hungary. Ðây là nơi xảy ra hai cuộc chiến quan trọng: năm 1526, Louis II của Hungary chạm trán với đội quân xâm lược của vua Thổ Nhĩ Kỳ, Suleiman II và đã bại trận. Cái chết của Louis đã dẫn đến cuộc nội chiến. Người Ottoman gần như chiếm trọn Hungary. Năm 1687, cuộc chiến thứ hai đã đánh đuổi người Ottoman bởi đội quân do Charles chỉ huy."
+        "t": "Là một thị trấn và thành phố cảng trên sông Danube, Hungary. Đây là nơi xảy ra hai cuộc chiến quan trọng: năm 1526, Louis II của Hungary chạm trán với đội quân xâm lược của vua Thổ Nhĩ Kỳ, Suleiman II và đã bại trận. Cái chết của Louis đã dẫn đến cuộc nội chiến. Người Ottoman gần như chiếm trọn Hungary. Năm 1687, cuộc chiến thứ hai đã đánh đuổi người Ottoman bởi đội quân do Charles chỉ huy."
       }
     ],
     "k": "mohacs"
@@ -7576,7 +7576,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: dòng sông Prut cung cấp nước cho phần phía tây của Moldova. Mặc dù ở giữa đất liền, các vùng lân cận so với biển đen vẫn có khí hậu ôn hòa. Từ phía bắc vào trung tâm là vành đai các ngọn đồi và những thung lũng sâu tạo điều kiện cho cây nho và cây ăn trái phát triển tốt. Xa hơn về phía nam là những đồng cỏ bằng phẳng thích hợp với ngũ cốc, củ cải đường và cây thuốc lá."
+        "t": "Địa hình: dòng sông Prut cung cấp nước cho phần phía tây của Moldova. Mặc dù ở giữa đất liền, các vùng lân cận so với biển đen vẫn có khí hậu ôn hòa. Từ phía bắc vào trung tâm là vành đai các ngọn đồi và những thung lũng sâu tạo điều kiện cho cây nho và cây ăn trái phát triển tốt. Xa hơn về phía nam là những đồng cỏ bằng phẳng thích hợp với ngũ cốc, củ cải đường và cây thuốc lá."
       },
       {
         "k": "m",
@@ -7691,7 +7691,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) Ðụn đất do chuột chũi đùn lên.-make a mountain out of a molehill: Quan trọng hóa vấn đề."
+        "t": "(dt) Đụn đất do chuột chũi đùn lên.-make a mountain out of a molehill: Quan trọng hóa vấn đề."
       }
     ],
     "k": "mole hill"
@@ -8555,7 +8555,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) Ðộng vật thân mềm nhuyễn thể.-Oysters, mussels, cuttlefish, snails are all molluscs: Hàu, trai, mực và ốc sên tất cả đều là động vật thân mềm."
+        "t": "(dt) Động vật thân mềm nhuyễn thể.-Oysters, mussels, cuttlefish, snails are all molluscs: Hàu, trai, mực và ốc sên tất cả đều là động vật thân mềm."
       }
     ],
     "ipa": "ɛmɔləsk",
@@ -8692,7 +8692,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một tổ chức bí mật của người Mỹ gốc Ái Nhĩ Lan (1865-1875). Tên gọi này có được từ một phong trào chống lại địa chủ ở Ái Nhĩ Lan. Tổ chức này kiểm soát toàn bộ khu vực than đá phía tây Pennsylvania. Ðồng thời nó cũng mở chiến dịch chống lại những nhà quản lý nơi đây. Mãi đến khi có một vụ ám sát xảy ra và sự răn đe của cảnh sát, tổ chức đã thật sự tan rã dưới tay của thám tử Pinkerton."
+        "t": "một tổ chức bí mật của người Mỹ gốc Ái Nhĩ Lan (1865-1875). Tên gọi này có được từ một phong trào chống lại địa chủ ở Ái Nhĩ Lan. Tổ chức này kiểm soát toàn bộ khu vực than đá phía tây Pennsylvania. Đồng thời nó cũng mở chiến dịch chống lại những nhà quản lý nơi đây. Mãi đến khi có một vụ ám sát xảy ra và sự răn đe của cảnh sát, tổ chức đã thật sự tan rã dưới tay của thám tử Pinkerton."
       }
     ],
     "k": "molly maguires"
@@ -8905,7 +8905,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nhóm các hòn đảo có núi lửa ở phía đông Indonesia. Nó nằm trên đường xích đạo giữa Sulawesi và New Guinea. Các hòn đảo này gồm có Bandas, Ternate, Tidore và Amboina-một hòn đảo được xem như một truyền thuyết. Thế kỷ 16, chúng rơi vào tay Bồ Ðào Nha. Mặc dù chỉ mới vừa cải đạo sang Hồi giáo, nhưng người dân trên đảo đã nhận thấy tôn giáo chính là tâm điểm trong cuộc chiến chống đối lại Bồ Ðào Nha và sau đó là Hà Lan. Francis Drake đã thăm viếng Ternate vào năm 1579. Năm 1599, người Hà Lan xuất hiện và mau chóng nô dịch tất cả các đảo. Họ chiếm giữ thế độc quyền, phá hủy các cây trồng gia vị trên đảo. Trong suốt thời kỳ cách mạng Pháp và cuộc chiến Napoleon, Anh đến chiếm Moluccas lần thứ hai. Tiếp theo sau nền độc lập của Indonesia năm 1949, người dân đảo phía nam đã chiến đấu để ly khai và thành lập nền cộng hòa mới nhưng bị thất bại năm 1956."
+        "t": "một nhóm các hòn đảo có núi lửa ở phía đông Indonesia. Nó nằm trên đường xích đạo giữa Sulawesi và New Guinea. Các hòn đảo này gồm có Bandas, Ternate, Tidore và Amboina-một hòn đảo được xem như một truyền thuyết. Thế kỷ 16, chúng rơi vào tay Bồ Đào Nha. Mặc dù chỉ mới vừa cải đạo sang Hồi giáo, nhưng người dân trên đảo đã nhận thấy tôn giáo chính là tâm điểm trong cuộc chiến chống đối lại Bồ Đào Nha và sau đó là Hà Lan. Francis Drake đã thăm viếng Ternate vào năm 1579. Năm 1599, người Hà Lan xuất hiện và mau chóng nô dịch tất cả các đảo. Họ chiếm giữ thế độc quyền, phá hủy các cây trồng gia vị trên đảo. Trong suốt thời kỳ cách mạng Pháp và cuộc chiến Napoleon, Anh đến chiếm Moluccas lần thứ hai. Tiếp theo sau nền độc lập của Indonesia năm 1949, người dân đảo phía nam đã chiến đấu để ly khai và thành lập nền cộng hòa mới nhưng bị thất bại năm 1956."
       }
     ],
     "k": "moluccas"
@@ -9068,7 +9068,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "là một cảng biển phía đông Châu Phi. Người Ả Rập đến định cư tại đây vào thế kỷ thứ 8 và trở thành nhà nước tự trị. Nơi đây trở thành trung tâm buôn bán ngà voi và nô lệ. Khu vực này được nhà địa lý Ma rốc nhắc đến vào thế kỷ 12 như vùng đất của những kẻ săn bắt và buôn bán ngà voi. Vasco DA Gama đến vùng đất này năm 1498. Thống soái Bồ Ðào Nhà, Francis d'Almeida đã chinh phục vùng này vào năm 1505. Người Thổ Nhĩ Kỳ cố chiếm vùng đất này năm 1589. Người Bồ Ðào Nha xây dựng công sự Jesus để tiến hành giao thương. Họ đã để mất nó vào tay vương quốc Oman năm 1698. Chính quyền Omani của Mombasa rơi vào tay gia đình Mazrui mãi đến năm 1837, khi đó quyền kiểm soát được chuyển giao cho vùng Zanzibar. Sau khi Zanzibar thuộc quyền kiểm soát của chính quyền Anh năm 1890, Mombasa trở thành một phần của nhà nước bảo hộ phía đông Châu Phi. Mombasa trở thành cảng chủ yếu của Kemya."
+        "t": "là một cảng biển phía đông Châu Phi. Người Ả Rập đến định cư tại đây vào thế kỷ thứ 8 và trở thành nhà nước tự trị. Nơi đây trở thành trung tâm buôn bán ngà voi và nô lệ. Khu vực này được nhà địa lý Ma rốc nhắc đến vào thế kỷ 12 như vùng đất của những kẻ săn bắt và buôn bán ngà voi. Vasco DA Gama đến vùng đất này năm 1498. Thống soái Bồ Đào Nhà, Francis d'Almeida đã chinh phục vùng này vào năm 1505. Người Thổ Nhĩ Kỳ cố chiếm vùng đất này năm 1589. Người Bồ Đào Nha xây dựng công sự Jesus để tiến hành giao thương. Họ đã để mất nó vào tay vương quốc Oman năm 1698. Chính quyền Omani của Mombasa rơi vào tay gia đình Mazrui mãi đến năm 1837, khi đó quyền kiểm soát được chuyển giao cho vùng Zanzibar. Sau khi Zanzibar thuộc quyền kiểm soát của chính quyền Anh năm 1890, Mombasa trở thành một phần của nhà nước bảo hộ phía đông Châu Phi. Mombasa trở thành cảng chủ yếu của Kemya."
       }
     ],
     "k": "mombasa"
@@ -9834,11 +9834,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "là một công quốc nhỏ ngự trị phía nam nước Pháp trên những ngọn đồi phía trên Ðịa Trung Hải."
+        "t": "là một công quốc nhỏ ngự trị phía nam nước Pháp trên những ngọn đồi phía trên Địa Trung Hải."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: đây là thị trấn cổ xưa có dạng một pháo đài tọa lạc trên mỏm núi đá nhô ra Ðịa Trung Hải. Trên phần này của Riviera, những vách đá vôi dựng đứng nổi lên dọc bờ biển với nhiều vịnh nhỏ xen ngang. Nhiều hang động đã từ lâu bị bộ tộc thời kỳ đồ đá chiếm đóng."
+        "t": "Địa hình: đây là thị trấn cổ xưa có dạng một pháo đài tọa lạc trên mỏm núi đá nhô ra Địa Trung Hải. Trên phần này của Riviera, những vách đá vôi dựng đứng nổi lên dọc bờ biển với nhiều vịnh nhỏ xen ngang. Nhiều hang động đã từ lâu bị bộ tộc thời kỳ đồ đá chiếm đóng."
       },
       {
         "k": "m",
@@ -10169,11 +10169,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một cộng đồng tăng lữ sống bằng việc cầu nguyện và lao động vất vả ở những vùng đất xa xôi, hẻo lánh. Những cộng đồng như thế có phần giống dòng tu khổ hạnh. Hiện tượng này rất phổ biến với nhiều tôn giáo. Ðức Phật (563-483 trước Công nguyên) đã thành lập nên những nội quy dòng tu, những hình thức kỷ luật được phổ biến rộng rãi khắp vùng châu Á. Sangha được xem như một yếu tố quan trọng trong đạo Phật Theravada với hơn 250,000 thành viên bất chấp những thù địch diễn ra trong chính quyền cộng sản ở Trung Quốc. Ðể có được thực phẩm cùng sự giúp đỡ từ những thường dân, các tăng lữ, thường ít được biết đến, nữ tu sĩ phải là những tấm gương về giáo dục, tôn giáo để người khác noi theo. Ngoài ra còn có những qui định riêng của một tín đồ đạo Phật, coi trọng việc ngồi thiền như một hình thức không thể thiếu của dòng tu. Thế kỷ thứ 6, sự trỗi dậy của Ðạo Trung Quốc nhấn mạnh đến sự cứu rỗi linh hồn. Thế kỷ thứ 8, việc thờ cúng đã trở nên nhạt nhẽo từ các tôn giáo và cả đạo Khổng. Ðời sống tu viện Ấn độ giáo lại thích chọn cuộc sống ẩn dật, ngồi thiền mặc niệm chẳng hạn như Yoga. Theo quan niệm của người Hindu, đời người trải qua bốn giai đoạn. Hai giai đoạn cuối là dành cho lối sống khổ hạnh và trầm tư mặc tưởng. Sự khắc nghiệt trong đời sống \"dòng Tên\" phải kể đến lối hành xác, những điều vô thực với thế giới trần tục. Ðạo Hồi không phát triển toàn vẹn một tổ chức nào cho đến khi các Sufis hình thành nên hội ái hữu Rifaite và Mawlawite thế kỷ 12. Mặc dù chế độ tu viện không trở thành một phần trong xu hướng chính đạo Do Thái mãi cho đến những kỷ nguyên hiện đại, giáo phái Chúa cứu thế đã thành lập một cộng đồng xa xôi, hẻo lánh gần vùng biển chết."
+        "t": "Một cộng đồng tăng lữ sống bằng việc cầu nguyện và lao động vất vả ở những vùng đất xa xôi, hẻo lánh. Những cộng đồng như thế có phần giống dòng tu khổ hạnh. Hiện tượng này rất phổ biến với nhiều tôn giáo. Đức Phật (563-483 trước Công nguyên) đã thành lập nên những nội quy dòng tu, những hình thức kỷ luật được phổ biến rộng rãi khắp vùng châu Á. Sangha được xem như một yếu tố quan trọng trong đạo Phật Theravada với hơn 250,000 thành viên bất chấp những thù địch diễn ra trong chính quyền cộng sản ở Trung Quốc. Để có được thực phẩm cùng sự giúp đỡ từ những thường dân, các tăng lữ, thường ít được biết đến, nữ tu sĩ phải là những tấm gương về giáo dục, tôn giáo để người khác noi theo. Ngoài ra còn có những qui định riêng của một tín đồ đạo Phật, coi trọng việc ngồi thiền như một hình thức không thể thiếu của dòng tu. Thế kỷ thứ 6, sự trỗi dậy của Đạo Trung Quốc nhấn mạnh đến sự cứu rỗi linh hồn. Thế kỷ thứ 8, việc thờ cúng đã trở nên nhạt nhẽo từ các tôn giáo và cả đạo Khổng. Đời sống tu viện Ấn độ giáo lại thích chọn cuộc sống ẩn dật, ngồi thiền mặc niệm chẳng hạn như Yoga. Theo quan niệm của người Hindu, đời người trải qua bốn giai đoạn. Hai giai đoạn cuối là dành cho lối sống khổ hạnh và trầm tư mặc tưởng. Sự khắc nghiệt trong đời sống \"dòng Tên\" phải kể đến lối hành xác, những điều vô thực với thế giới trần tục. Đạo Hồi không phát triển toàn vẹn một tổ chức nào cho đến khi các Sufis hình thành nên hội ái hữu Rifaite và Mawlawite thế kỷ 12. Mặc dù chế độ tu viện không trở thành một phần trong xu hướng chính đạo Do Thái mãi cho đến những kỷ nguyên hiện đại, giáo phái Chúa cứu thế đã thành lập một cộng đồng xa xôi, hẻo lánh gần vùng biển chết."
       },
       {
         "k": "m",
-        "t": "Chế độ tu viện đạo Cơ đốc hình thành nên một lối sống ẩn dật vào thế kỷ thứ 3 do những người chạy trốn khỏi sự truy sát của La Mã chạy đến các sa mạc Ai Cập và Syri tạo nên. Họ đã tìm kiếm sự giao thoa tâm linh với trời và đất. Mặc dù thánh Antony được xem là người sáng lập chế độ tu viện Cơ đốc, nhưng chính thánh Pachomius mới là người xây dựng nên một cộng đồng có tổ chức tại Tabennisi, Ai Cập. Chế độ tu viện khi đó đã phát triển nhanh chóng ở Ðông Âu thông qua các qui định của thánh Basil (330-79). Ðây chính là luật lệ Cơ đốc đầu tiên được mọi người biết đến ở Ðông Âu. Ở Tây Âu, đó chính là luật lệ của Benedict, Nursia. Trong các nhà thờ chính thống giáo phía đông, chế độ tu viện vẫn dựa trên các giáo điều của thánh Basil nhấn mạnh đến các nghi thức tế lễ. Những tu viện chính thống giáo, nổi tiếng nhất là Mount Athos, Hy Lạp mang tính chất tự quản. Tuy nhiên, Ðạo Thiên Chúa La Mã lại đặt ra nhiều giáo điều buộc các thành viên phải thệ nguyện sống khổ hạnh, cầu nguyện và ngồi thiền. Bên cạnh cuộc sống tinh thần, các cộng đồng vẫn có những chức năng thực tế như giáo dục và công tác xã hội. Luật lệ Benedictine chủ yếu dựa vào các qui định của Benedict nhấn mạnh đến sự cân bằng trong lúc cầu nguyện, đọc kinh thánh, nghỉ ngơi và hiến xác. Từ thế kỷ thứ 10, luật lệ Benedict được cải cách tại Cluny, Pháp đã xây dựng hàng loạt các tu viện nữ mở rộng khắp châu Âu chịu sự kiểm soát chặt chẽ của cha trưởng tu viện Cluny. Giáo sĩ dòng Xito cũng cho phép xâu dựng các tu viện ở châu Âu và Anh. Những nơi này chỉ mang tính chất nửa tự trị, chịu ảnh hưởng của cha trưởng tu viện Citeaux tại hội đồng thường niên. Luật lệ Xitô vẫn phải tuân theo các qui định mới của Benedictine, các tu sĩ dòng luyện Tâm. Những luật lệ khác bao gồm Carthusian (1098), Premonstratensian (1120), và Gibertine (1131). Luật lệ dòng Dôminich do thánh Dominic sáng lập, luật lệ Francisian do thánh Francis sáng lập là những qui định về việc khất thực của thầy dòng, làm từ thiện. Tu sĩ Dominic đặc biệt rất tận tâm với những nghiên cứu thần học và giảng đạo."
+        "t": "Chế độ tu viện đạo Cơ đốc hình thành nên một lối sống ẩn dật vào thế kỷ thứ 3 do những người chạy trốn khỏi sự truy sát của La Mã chạy đến các sa mạc Ai Cập và Syri tạo nên. Họ đã tìm kiếm sự giao thoa tâm linh với trời và đất. Mặc dù thánh Antony được xem là người sáng lập chế độ tu viện Cơ đốc, nhưng chính thánh Pachomius mới là người xây dựng nên một cộng đồng có tổ chức tại Tabennisi, Ai Cập. Chế độ tu viện khi đó đã phát triển nhanh chóng ở Đông Âu thông qua các qui định của thánh Basil (330-79). Đây chính là luật lệ Cơ đốc đầu tiên được mọi người biết đến ở Đông Âu. Ở Tây Âu, đó chính là luật lệ của Benedict, Nursia. Trong các nhà thờ chính thống giáo phía đông, chế độ tu viện vẫn dựa trên các giáo điều của thánh Basil nhấn mạnh đến các nghi thức tế lễ. Những tu viện chính thống giáo, nổi tiếng nhất là Mount Athos, Hy Lạp mang tính chất tự quản. Tuy nhiên, Đạo Thiên Chúa La Mã lại đặt ra nhiều giáo điều buộc các thành viên phải thệ nguyện sống khổ hạnh, cầu nguyện và ngồi thiền. Bên cạnh cuộc sống tinh thần, các cộng đồng vẫn có những chức năng thực tế như giáo dục và công tác xã hội. Luật lệ Benedictine chủ yếu dựa vào các qui định của Benedict nhấn mạnh đến sự cân bằng trong lúc cầu nguyện, đọc kinh thánh, nghỉ ngơi và hiến xác. Từ thế kỷ thứ 10, luật lệ Benedict được cải cách tại Cluny, Pháp đã xây dựng hàng loạt các tu viện nữ mở rộng khắp châu Âu chịu sự kiểm soát chặt chẽ của cha trưởng tu viện Cluny. Giáo sĩ dòng Xito cũng cho phép xâu dựng các tu viện ở châu Âu và Anh. Những nơi này chỉ mang tính chất nửa tự trị, chịu ảnh hưởng của cha trưởng tu viện Citeaux tại hội đồng thường niên. Luật lệ Xitô vẫn phải tuân theo các qui định mới của Benedictine, các tu sĩ dòng luyện Tâm. Những luật lệ khác bao gồm Carthusian (1098), Premonstratensian (1120), và Gibertine (1131). Luật lệ dòng Dôminich do thánh Dominic sáng lập, luật lệ Francisian do thánh Francis sáng lập là những qui định về việc khất thực của thầy dòng, làm từ thiện. Tu sĩ Dominic đặc biệt rất tận tâm với những nghiên cứu thần học và giảng đạo."
       },
       {
         "k": "m",
@@ -10445,7 +10445,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Lạc thuyết đơn năng (cho rằng trong Ðức Kitô chỉ có một năng lực độc nhất hoạt động, đó là năng lực thiên tính, tk 7; Xem Monophysitism và Monothelitism)."
+        "t": "Lạc thuyết đơn năng (cho rằng trong Đức Kitô chỉ có một năng lực độc nhất hoạt động, đó là năng lực thiên tính, tk 7; Xem Monophysitism và Monothelitism)."
       }
     ],
     "k": "monenergism or monoenerg(et)ism"
@@ -10455,7 +10455,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "người cho vay lãi. Người làm công việc cho vay lấy lãi điều luật Consumer Credit (1975) thay cho điều luật Moneylenders trước đây, loại trừ chủ hiệu cầm đồ các đoàn thể thân hữu và xây dựng, các tập đoàn với quyền lực riêng cho vay tiền, ngân hàng, các công ty bảo hiểm từ định nghĩa này. Ðiều luật đòi hỏi những ai cho vay lãi phải đăng ký hành nghề, để lấy giấy phép cho vay hàng năm và kê khai tỉ suất lãi có được hàng năm từ sự cho vay mượn."
+        "t": "người cho vay lãi. Người làm công việc cho vay lấy lãi điều luật Consumer Credit (1975) thay cho điều luật Moneylenders trước đây, loại trừ chủ hiệu cầm đồ các đoàn thể thân hữu và xây dựng, các tập đoàn với quyền lực riêng cho vay tiền, ngân hàng, các công ty bảo hiểm từ định nghĩa này. Điều luật đòi hỏi những ai cho vay lãi phải đăng ký hành nghề, để lấy giấy phép cho vay hàng năm và kê khai tỉ suất lãi có được hàng năm từ sự cho vay mượn."
       }
     ],
     "k": "monenylender"
@@ -10504,7 +10504,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một trường phái kinh tế xuất hiện chủ yếu vào thập niên 1960 và 1970. Milton Friedman là đại biểu nổi bật thời kỳ này. Ðây chính là sự trỗi dậy của một giải pháp cổ điển đối với nền kinh tế vĩ mô. Trường phái này cho rằng tiền tệ, giá cả và lương bổng là vấn đề linh hoạt trong khi sản lượng tập thể và công nhân lao động có khuynh hướng trở về trạng thái cân bằng tối ưu. Bởi vậy, các chính sách của nhà nước chỉ nhằm mục đích duy trì tính ổn định giá cả. Họ còn cho rằng việc cung cấp tài chính thì nên được ưu tiên hơn so với các chính sách tài chính do nhà nước đặt ra. Bởi thế, thuật ngữ \"lưu thông tiền tệ\" ra đời trên cơ sở đó. Chính quyền cánh tả của Margaret Thatcher ở Anh (1979-1990) và chế độ độc tài quân sự của Augusto Pinochet ở Chile (1974-1990) đã mạnh dạn áp dụng hệ tư tưởng này trong vấn đề tài chính."
+        "t": "Một trường phái kinh tế xuất hiện chủ yếu vào thập niên 1960 và 1970. Milton Friedman là đại biểu nổi bật thời kỳ này. Đây chính là sự trỗi dậy của một giải pháp cổ điển đối với nền kinh tế vĩ mô. Trường phái này cho rằng tiền tệ, giá cả và lương bổng là vấn đề linh hoạt trong khi sản lượng tập thể và công nhân lao động có khuynh hướng trở về trạng thái cân bằng tối ưu. Bởi vậy, các chính sách của nhà nước chỉ nhằm mục đích duy trì tính ổn định giá cả. Họ còn cho rằng việc cung cấp tài chính thì nên được ưu tiên hơn so với các chính sách tài chính do nhà nước đặt ra. Bởi thế, thuật ngữ \"lưu thông tiền tệ\" ra đời trên cơ sở đó. Chính quyền cánh tả của Margaret Thatcher ở Anh (1979-1990) và chế độ độc tài quân sự của Augusto Pinochet ở Chile (1974-1990) đã mạnh dạn áp dụng hệ tư tưởng này trong vấn đề tài chính."
       }
     ],
     "k": "monetarism"
@@ -11182,7 +11182,7 @@
       },
       {
         "k": "m",
-        "t": "Chức năng cơ bản này của tiền tệ kéo theo ba chức năng khác: tiền là một đơn vị của tài khoản thanh toán, là phương tiện tích trữ và phương thức trả chậm. Trong lịch sử, tiền hàng hóa, giấy bạc và tiền nợ đã phát triển. Tiền hàng hóa được thể hiện dưới hình thức một hàng hóa thông thường với giá trị thật bên trong. Giấy bạc có giá trị thực ít hơn giá trị danh nghĩa. Giấy bạc lần đầu tiên được phát hành cho những người phải trả một số tiền được ghi trên giấy từ số tiền lớn được ký quỹ. Ngân hàng Anh quốc đã phát hành giấy bạc năm 1694. Nó trở thành hình thức tiền tệ lưu thông chủ yếu lúc bấy giờ. Tiền nợ là phương thức trao đổi dựa trên khoản nợ. Ðặc biệt, một tờ ngân phiếu hay thẻ ngân hàng có ghi rõ nợ đối với ngân hàng của người giữ và tiền ký gởi. Thị trường tiền tệ chủ yếu giao dịch bởi các giao thức ngắn hạn."
+        "t": "Chức năng cơ bản này của tiền tệ kéo theo ba chức năng khác: tiền là một đơn vị của tài khoản thanh toán, là phương tiện tích trữ và phương thức trả chậm. Trong lịch sử, tiền hàng hóa, giấy bạc và tiền nợ đã phát triển. Tiền hàng hóa được thể hiện dưới hình thức một hàng hóa thông thường với giá trị thật bên trong. Giấy bạc có giá trị thực ít hơn giá trị danh nghĩa. Giấy bạc lần đầu tiên được phát hành cho những người phải trả một số tiền được ghi trên giấy từ số tiền lớn được ký quỹ. Ngân hàng Anh quốc đã phát hành giấy bạc năm 1694. Nó trở thành hình thức tiền tệ lưu thông chủ yếu lúc bấy giờ. Tiền nợ là phương thức trao đổi dựa trên khoản nợ. Đặc biệt, một tờ ngân phiếu hay thẻ ngân hàng có ghi rõ nợ đối với ngân hàng của người giữ và tiền ký gởi. Thị trường tiền tệ chủ yếu giao dịch bởi các giao thức ngắn hạn."
       }
     ],
     "k": "money",
@@ -11737,7 +11737,7 @@
       {
         "k": "ex",
         "t": "Don't worry. I have a way of getting things done. Money talks:",
-        "vi": "Ðừng lo tôi có cách làm cho mọi việc được hoàn thành. Tiền cho ta quyền lực."
+        "vi": "Đừng lo tôi có cách làm cho mọi việc được hoàn thành. Tiền cho ta quyền lực."
       },
       {
         "k": "ex",
@@ -12300,7 +12300,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Mông-giơ, 1746-1818) nhà toán học và nhà hoạt động xã hội Pháp, viện sĩ Viện hàn lâm khoa học Paris (1780), giáo sư trường Ðại học công binh Mézie**res (từ 1768), một trong những nhà sáng lập và giáo sư của trường Ðại học bách khoa tại Paris (từ 1794). Ông có những công trình cơ bản về hình học. Xuất phát từ quan niệm chiếu các vật thể lên hai mặt phẳng vuông góc với nhau, Monge đã xây dựng phương pháp tổng quát biểu diễn những hình không gian trên một mặt phẳng. Những công trình trong lĩnh vực này được Monge thực hiện trong những năm đầu hoạt động tại trường Ðại học Mézie**res (cho đến giữa năm 1770), tuy nhiên công trình \"Hình học họa hình\" do ông viết chỉ đến 1799 mới được xuất bản. Monge đã trình bày tỉ mỉ hình học vi phân của những đường cong và mặt trong không gian, Trong công trình của Monge \"Ứng dụng giải tích vào hình học\" (1796), không kể những phát minh quan trọng về hình học vi phân, đều có sự giải thích những phương trình đạo hàm riêng bằng hình học và, mặt khác, có sự giải bày những sự kiện hình học theo ngôn ngữ phương trình đạo hàm riêng. Monge còn có những công trình về giải tích toán học, hóa học, quang học, khí tượng học và cơ học thực hành. Trong giai đoạn Ðại cách mạng Pháp, Monge tham gia Hội đồng thiết lập hệ thống đo lường, làm bộ trưởng hàng hải trong những năm 1792-1793. Năm 1793, ông phụ trách những nhà máy làm thuốc súng và đại bác của nền Cộng hòa. Ông tích cực tham gia vào việc thành lập trường Ðại học sư phạm (1794), trường Ðại học bách khoa (1794) tại Paris. Trong thời kỳ chế độ Ðốc chính (Directoire) Monge thân với tướng Bonaparte, tham gia vào cuộc viễn chinh sang Ai Cập (1798-1801), trở về Pháp cùng với Bonaparte, ông lại tiếp tục dạy tại trường Ðại học bách khoa. Trong thời kỳ Ðế chế thứ nhất (Premier Empire), Monge trở thành thượng nghị sĩ, có hàm bá tước. Trong giai đoạn Phục hưng (Restauration), Monge bị tước hết (1816) tất cả các quyền và bị gạt bỏ khỏi trường Ðại học bách khoa và Viện hàn lâm khoa học."
+        "t": "(Mông-giơ, 1746-1818) nhà toán học và nhà hoạt động xã hội Pháp, viện sĩ Viện hàn lâm khoa học Paris (1780), giáo sư trường Đại học công binh Mézie**res (từ 1768), một trong những nhà sáng lập và giáo sư của trường Đại học bách khoa tại Paris (từ 1794). Ông có những công trình cơ bản về hình học. Xuất phát từ quan niệm chiếu các vật thể lên hai mặt phẳng vuông góc với nhau, Monge đã xây dựng phương pháp tổng quát biểu diễn những hình không gian trên một mặt phẳng. Những công trình trong lĩnh vực này được Monge thực hiện trong những năm đầu hoạt động tại trường Đại học Mézie**res (cho đến giữa năm 1770), tuy nhiên công trình \"Hình học họa hình\" do ông viết chỉ đến 1799 mới được xuất bản. Monge đã trình bày tỉ mỉ hình học vi phân của những đường cong và mặt trong không gian, Trong công trình của Monge \"Ứng dụng giải tích vào hình học\" (1796), không kể những phát minh quan trọng về hình học vi phân, đều có sự giải thích những phương trình đạo hàm riêng bằng hình học và, mặt khác, có sự giải bày những sự kiện hình học theo ngôn ngữ phương trình đạo hàm riêng. Monge còn có những công trình về giải tích toán học, hóa học, quang học, khí tượng học và cơ học thực hành. Trong giai đoạn Đại cách mạng Pháp, Monge tham gia Hội đồng thiết lập hệ thống đo lường, làm bộ trưởng hàng hải trong những năm 1792-1793. Năm 1793, ông phụ trách những nhà máy làm thuốc súng và đại bác của nền Cộng hòa. Ông tích cực tham gia vào việc thành lập trường Đại học sư phạm (1794), trường Đại học bách khoa (1794) tại Paris. Trong thời kỳ chế độ Đốc chính (Directoire) Monge thân với tướng Bonaparte, tham gia vào cuộc viễn chinh sang Ai Cập (1798-1801), trở về Pháp cùng với Bonaparte, ông lại tiếp tục dạy tại trường Đại học bách khoa. Trong thời kỳ Đế chế thứ nhất (Premier Empire), Monge trở thành thượng nghị sĩ, có hàm bá tước. Trong giai đoạn Phục hưng (Restauration), Monge bị tước hết (1816) tất cả các quyền và bị gạt bỏ khỏi trường Đại học bách khoa và Viện hàn lâm khoa học."
       }
     ],
     "k": "monge gaspard"
@@ -12358,7 +12358,7 @@
       },
       {
         "k": "m",
-        "t": "Những nơi người Mongol đi qua để lại rất nhiều đau thương và tang tóc. Nhưng trước kia đế chế đã từng được xây dựng với một nền hòa bình hưng thịnh. Ðó là Pax Mongolia, nhưng từ lâu vùng này không còn nữa. Nhiều người Marco Polo đã di chuyển và tạm nghỉ chân nơi đây. Trước kia, người Nestorian đã từng phát triển mạnh ở khu vực đồng cỏ và biến nó trở thành một phần của phía bắc Trung Quốc. Sau khi Kublai dời thủ đô về Khanbaligh (Bắc Kinh bây giờ), Khakhan không còn kiểm soát được những vùng xa xôi của đế chế. Sự xung đột về quyền kế vị, sự sụp đổ cùng với một chính quyền bất tài đã làm đế chế tan rã nhanh chóng. Năm 1368, người Mông Cổ bị trục xuất khỏi Trung Quốc. Năm 1372, quân đội Trung Quốc bắt đầu thiêu đốt Karakorum. Tamerlane và Babur lần lượt rút khỏi triều đại Genghis Khan."
+        "t": "Những nơi người Mongol đi qua để lại rất nhiều đau thương và tang tóc. Nhưng trước kia đế chế đã từng được xây dựng với một nền hòa bình hưng thịnh. Đó là Pax Mongolia, nhưng từ lâu vùng này không còn nữa. Nhiều người Marco Polo đã di chuyển và tạm nghỉ chân nơi đây. Trước kia, người Nestorian đã từng phát triển mạnh ở khu vực đồng cỏ và biến nó trở thành một phần của phía bắc Trung Quốc. Sau khi Kublai dời thủ đô về Khanbaligh (Bắc Kinh bây giờ), Khakhan không còn kiểm soát được những vùng xa xôi của đế chế. Sự xung đột về quyền kế vị, sự sụp đổ cùng với một chính quyền bất tài đã làm đế chế tan rã nhanh chóng. Năm 1368, người Mông Cổ bị trục xuất khỏi Trung Quốc. Năm 1372, quân đội Trung Quốc bắt đầu thiêu đốt Karakorum. Tamerlane và Babur lần lượt rút khỏi triều đại Genghis Khan."
       }
     ],
     "k": "mongol empire"
@@ -12372,7 +12372,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: là một cao nguyên bao la, cằn cỗi, Mông Cổ có nhiều núi và hồ nước mặn ở phía tây-bắc và sa mạc Gobi ở phía đông-nam. Mặc dù lượng mưa rất nhỏ nhưng nhiều khu vực đồng cỏ rộng lớn vẫn chăn nuôi gia súc và trồng các loại cây ngũ cốc."
+        "t": "Địa hình: là một cao nguyên bao la, cằn cỗi, Mông Cổ có nhiều núi và hồ nước mặn ở phía tây-bắc và sa mạc Gobi ở phía đông-nam. Mặc dù lượng mưa rất nhỏ nhưng nhiều khu vực đồng cỏ rộng lớn vẫn chăn nuôi gia súc và trồng các loại cây ngũ cốc."
       },
       {
         "k": "m",
@@ -12384,13 +12384,13 @@
       },
       {
         "k": "m",
-        "t": "Phần ngoài của Mông Cổ vẫn còn là phần đất của Trung Quốc mãi cho đến khi triều đại nhà Thanh sụp đổ năm 1911. Trong khi những khu vực láng giềng của phần trong Mông Cổ còn nằm trong tay Trung Quốc thì phần ngoài Mông Cổ đã giành độc lập năm 1911 sau những cuộc xâm lấn của người Trung Quốc và người Nga da trắng năm 1919-1921. Phần ngoài của Mông Cổ đi theo chế độ cộng sản năm 1924 như một nước cộng hòa nhân dân Mông Cổ. Tháng 7/1990, nó trở thành nền dân chủ đa đảng duy chỉ có đảng cộng sản, bây giờ là đảng cách mạng nhân dân vẫn duy trì quyền lực dưới tay Dashiyn Byambasuren. Việc buôn bán với Xô Viết không còn nữa cùng với sự bãi bỏ qui định về giá đã làm phát sinh sự khủng hoảng kinh tế cùng với sự phân phối lương thực có hạn tháng 1/1991. Năm 1992, vị thủ tướng đã đàm phán thương mại thành công với Nga. Ðất nước lúc này là nhà nước Mông Cổ, điều chỉnh sang thể chế dân chủ mới, hợp pháp hóa quyền sở hữu cá nhân. Cuộc tổng tuyển cử được tổ chức năm 1992 với thắng lợi về tay đảng cách mạng nhân dân. Punsalmaagiyn Ochirbat lần đầu tiên được bổ nhiệm làm tổng thống năm 1990. Ông tái đắc cử năm 1993. Ðó là một cuộc tuyển cử tổng thống trực tiếp đầu tiên trong lịch sử. Tuy nhiên, trong cuộc tuyển cử sau đó năm 1996, liên minh dân chủ đối lập đã thắng với nhiều phiếu bầu và thành lập nên chính quyền phi cộng sản trong suốt hơn 70 năm. Cuộc tuyển cử tổng thống năm 1997 mang lại thắng lợi cho đảng cộng sản của Natsagin Bagabandi."
+        "t": "Phần ngoài của Mông Cổ vẫn còn là phần đất của Trung Quốc mãi cho đến khi triều đại nhà Thanh sụp đổ năm 1911. Trong khi những khu vực láng giềng của phần trong Mông Cổ còn nằm trong tay Trung Quốc thì phần ngoài Mông Cổ đã giành độc lập năm 1911 sau những cuộc xâm lấn của người Trung Quốc và người Nga da trắng năm 1919-1921. Phần ngoài của Mông Cổ đi theo chế độ cộng sản năm 1924 như một nước cộng hòa nhân dân Mông Cổ. Tháng 7/1990, nó trở thành nền dân chủ đa đảng duy chỉ có đảng cộng sản, bây giờ là đảng cách mạng nhân dân vẫn duy trì quyền lực dưới tay Dashiyn Byambasuren. Việc buôn bán với Xô Viết không còn nữa cùng với sự bãi bỏ qui định về giá đã làm phát sinh sự khủng hoảng kinh tế cùng với sự phân phối lương thực có hạn tháng 1/1991. Năm 1992, vị thủ tướng đã đàm phán thương mại thành công với Nga. Đất nước lúc này là nhà nước Mông Cổ, điều chỉnh sang thể chế dân chủ mới, hợp pháp hóa quyền sở hữu cá nhân. Cuộc tổng tuyển cử được tổ chức năm 1992 với thắng lợi về tay đảng cách mạng nhân dân. Punsalmaagiyn Ochirbat lần đầu tiên được bổ nhiệm làm tổng thống năm 1990. Ông tái đắc cử năm 1993. Đó là một cuộc tuyển cử tổng thống trực tiếp đầu tiên trong lịch sử. Tuy nhiên, trong cuộc tuyển cử sau đó năm 1996, liên minh dân chủ đối lập đã thắng với nhiều phiếu bầu và thành lập nên chính quyền phi cộng sản trong suốt hơn 70 năm. Cuộc tuyển cử tổng thống năm 1997 mang lại thắng lợi cho đảng cộng sản của Natsagin Bagabandi."
       },
       {"k": "m", "t": "Thủ đô: Ulan Bator"},
       {"k": "m", "t": "Diện tích: 1.566.500 km2"},
       {"k": "m", "t": "Dân số: 2,334 triệu (1996)."},
       {"k": "m", "t": "Tiền tệ: 1 tugrik = 100 mongo."},
-      {"k": "m", "t": "Tôn giáo: Ðạo Phật, Samna giáo, đạo Hồi."},
+      {"k": "m", "t": "Tôn giáo: Đạo Phật, Samna giáo, đạo Hồi."},
       {
         "k": "m",
         "t": "Sắc tộc: Khalkha 77,5%; Kazakh 5,3%; Dorbed 2,8%; Bayad 2%; Buryat Mongol 1,9%; Draiganga Mongol 1,5%."
@@ -12424,7 +12424,7 @@
   },
   {
     "h": "mongolism",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hội chứng Ðao."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hội chứng Đao."}],
     "ipa": "'maŋgə,lizm",
     "k": "mongolism"
   },
@@ -12433,7 +12433,7 @@
     "segs": [
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "có đặc tính của người Mông Cổ (tay to, da vàng)"},
-      {"k": "m", "t": "có đặc tính của hội chứng Ðao."}
+      {"k": "m", "t": "có đặc tính của hội chứng Đao."}
     ],
     "ipa": "'maŋgou,lɔid",
     "k": "mongoloid"
@@ -12443,7 +12443,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một trong những nhóm chủng tộc chính, phân phối đều từ vùng biển caspian sang châu Á. Họ cũng xuất hiện trên các hòn đảo ngoài khu vực đất liền châu Á. Bộ tộc Inuits và Aleuts nằm ở phía bắc Canada và vùng đảo băng. Người Amerindian, và những người bản xứ khác của Mỹ thỉnh thoảng cũng tập hợp chung với Mongoloid. Nguồn gốc sơ khai của chủng tộc này thì không rõ. Ðặc điểm nổi bật về địa hình của Mongoloid hẳn đã phát triển thành những bộ tộc cô lập vùng viễn đông trong một thời gian dài có thể là hàng ngàn năm. Họ độc lập phát triển ở Châu Phi và châu Á. Hệ thống này không được chấp nhận nhiều ngày nay, có một sự tiến hóa nhanh chóng từ người Peking sang Mongoloid Homo Sapiens ở Trung Quốc. Mongoloid đã phát triển từ một nhóm người hiện đại di cư đến vùng viễn đông từ Châu Phi qua châu Á và hợp nhất với các cư dân bản xứ. Mongoloid đã phát triển theo sự tiến hóa của loài người. Trong thời sơ khai, Mongoloid phát triển mạnh cùng với sự bành trướng của đế chế Mongol về phái bắc Ấn độ, Persia, và vùng trung Á."
+        "t": "Một trong những nhóm chủng tộc chính, phân phối đều từ vùng biển caspian sang châu Á. Họ cũng xuất hiện trên các hòn đảo ngoài khu vực đất liền châu Á. Bộ tộc Inuits và Aleuts nằm ở phía bắc Canada và vùng đảo băng. Người Amerindian, và những người bản xứ khác của Mỹ thỉnh thoảng cũng tập hợp chung với Mongoloid. Nguồn gốc sơ khai của chủng tộc này thì không rõ. Đặc điểm nổi bật về địa hình của Mongoloid hẳn đã phát triển thành những bộ tộc cô lập vùng viễn đông trong một thời gian dài có thể là hàng ngàn năm. Họ độc lập phát triển ở Châu Phi và châu Á. Hệ thống này không được chấp nhận nhiều ngày nay, có một sự tiến hóa nhanh chóng từ người Peking sang Mongoloid Homo Sapiens ở Trung Quốc. Mongoloid đã phát triển từ một nhóm người hiện đại di cư đến vùng viễn đông từ Châu Phi qua châu Á và hợp nhất với các cư dân bản xứ. Mongoloid đã phát triển theo sự tiến hóa của loài người. Trong thời sơ khai, Mongoloid phát triển mạnh cùng với sự bành trướng của đế chế Mongol về phái bắc Ấn độ, Persia, và vùng trung Á."
       }
     ],
     "k": "mongoloids"
@@ -12823,7 +12823,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(3/1862): trận thủy chiến trong nội chiến Mỹ. Ðây là cuộc chiến đầu tiên giữa những con tàu bọc sắt. Lực lượng liên bang đã bắt giữ tàu trục chiến Merrimack ngay từ buổi đầu của cuộc chiến. Trong thời gian đầu của cuộc chiến của tại Hampton, Merrimack (hay còn gọi là Virginia) Dễ dàng đánh bại đội tàu chiến phong tỏa của liên minh. Sau đó nó phải đối mặt với Monitor, một tàu chiến cách mạng được thiết kế xung quanh một ụ chiến hạm xoay rất lớn. Sau hơn 5 giờ đọ sức tay đôi bất phân thắng bại, nhưng chính quyền liên bang sợ bị bao vây. Sau cùng thì cả hai tàu chiến vẫn không phân thắng thua, nhưng họ đã thay đổi được bản chất của một cuộc thủy chiến, lấy đó làm kinh nghiệm về sau."
+        "t": "(3/1862): trận thủy chiến trong nội chiến Mỹ. Đây là cuộc chiến đầu tiên giữa những con tàu bọc sắt. Lực lượng liên bang đã bắt giữ tàu trục chiến Merrimack ngay từ buổi đầu của cuộc chiến. Trong thời gian đầu của cuộc chiến của tại Hampton, Merrimack (hay còn gọi là Virginia) Dễ dàng đánh bại đội tàu chiến phong tỏa của liên minh. Sau đó nó phải đối mặt với Monitor, một tàu chiến cách mạng được thiết kế xung quanh một ụ chiến hạm xoay rất lớn. Sau hơn 5 giờ đọ sức tay đôi bất phân thắng bại, nhưng chính quyền liên bang sợ bị bao vây. Sau cùng thì cả hai tàu chiến vẫn không phân thắng thua, nhưng họ đã thay đổi được bản chất của một cuộc thủy chiến, lấy đó làm kinh nghiệm về sau."
       }
     ],
     "k": "monitor v. merrimack"
@@ -13847,13 +13847,13 @@
     "ipa": "mɔnəʊ'kɔ:zl",
     "k": "monocausal"
   },
-  {"h": "monocelled", "segs": [{"k": "m", "t": "Ðơn bào."}], "k": "monocelled"},
+  {"h": "monocelled", "segs": [{"k": "m", "t": "Đơn bào."}], "k": "monocelled"},
   {
     "h": "monocellular organism",
     "segs": [{"k": "m", "t": "Sinh vật đơn bào."}],
     "k": "monocellular organism"
   },
-  {"h": "Monocentric", "segs": [{"k": "m", "t": "Ðộc tâm, hướng/quy độc tâm."}], "k": "monocentric"},
+  {"h": "Monocentric", "segs": [{"k": "m", "t": "Độc tâm, hướng/quy độc tâm."}], "k": "monocentric"},
   {
     "h": "monocephalic",
     "segs": [
@@ -14270,7 +14270,7 @@
     "k": "monoclinally"
   },
   {"h": "monocline", "segs": [{"k": "m", "t": "nếp uốn đơn nghiêng."}], "k": "monocline"},
-  {"h": "monoclinic", "segs": [{"k": "m", "t": "Ðơn tà, đơn nghiêng."}], "k": "monoclinic"},
+  {"h": "monoclinic", "segs": [{"k": "m", "t": "Đơn tà, đơn nghiêng."}], "k": "monoclinic"},
   {"h": "monoclinic lattice", "segs": [{"k": "m", "t": "mạng đơn tà."}], "k": "monoclinic lattice"},
   {
     "h": "monoclinic system",
@@ -14323,7 +14323,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nếp uốn đơn nghiêng"}],
     "k": "monoclonal fold"
   },
-  {"h": "monococcus", "segs": [{"k": "m", "t": "Ðơn cầu khuẩn."}], "k": "monococcus"},
+  {"h": "monococcus", "segs": [{"k": "m", "t": "Đơn cầu khuẩn."}], "k": "monococcus"},
   {"h": "monocoque", "segs": [{"k": "m", "t": "(thuộc) vỏ liền; một vỏ."}], "k": "monocoque"},
   {
     "h": "monocoque body",
@@ -14839,7 +14839,7 @@
   {"h": "monogenistic", "segs": [{"k": "m", "t": "a. monogenic."}], "k": "monogenistic"},
   {
     "h": "monogenous",
-    "segs": [{"k": "m", "t": "Ðơn tinh sinh, sinh sản đơn tính."}],
+    "segs": [{"k": "m", "t": "Đơn tinh sinh, sinh sản đơn tính."}],
     "k": "monogenous"
   },
   {
@@ -15080,7 +15080,7 @@
     "segs": [{"k": "m", "t": "phép biến đổi monoit."}],
     "k": "monoidal transformation"
   },
-  {"h": "monoideism", "segs": [{"k": "m", "t": "Ðơn ý."}], "k": "monoideism"},
+  {"h": "monoideism", "segs": [{"k": "m", "t": "Đơn ý."}], "k": "monoideism"},
   {"h": "monoinfection", "segs": [{"k": "m", "t": "Nhiễm đơn khuẩn."}], "k": "monoinfection"},
   {"h": "monoiodotyrosine", "segs": [{"k": "m", "t": "Moniodotyrosin."}], "k": "monoiodotyrosine"},
   {"h": "monoisotopic", "segs": [{"k": "m", "t": "đơn đồng vị; một đồng vị."}], "k": "monoisotopic"},
@@ -15628,7 +15628,7 @@
   {"h": "monont", "segs": [{"k": "m", "t": "Thể sinh sản vô tính."}], "k": "monont"},
   {
     "h": "mononuclear",
-    "segs": [{"k": "m", "t": "1. Ðơn nhân"}, {"k": "m", "t": "2. Bạch cầu đơn nhân."}],
+    "segs": [{"k": "m", "t": "1. Đơn nhân"}, {"k": "m", "t": "2. Bạch cầu đơn nhân."}],
     "k": "mononuclear"
   },
   {
@@ -15854,7 +15854,7 @@
   },
   {
     "h": "Monophysi(ti)sm",
-    "segs": [{"k": "m", "t": "Lạc thuyết nhất tính (Ðức Kitô chỉ có một bản tính là thiên tính)."}],
+    "segs": [{"k": "m", "t": "Lạc thuyết nhất tính (Đức Kitô chỉ có một bản tính là thiên tính)."}],
     "k": "monophysi(ti)sm"
   },
   {
@@ -16175,16 +16175,16 @@
       {"k": "ex", "t": "monopolise", "vi": "ngoại"},
       {"k": "pos", "t": "đại từ"},
       {"k": "m", "t": "giữ độc quyền"},
-      {"k": "ex", "t": "To monopolize a seminar", "vi": "Ðộc chiếm một buổi hội thảo"},
+      {"k": "ex", "t": "To monopolize a seminar", "vi": "Độc chiếm một buổi hội thảo"},
       {
         "k": "ex",
         "t": "To monopolize the supply of fast food",
-        "vi": "Ðộc quyền cung cấp thức ăn nhanh"
+        "vi": "Độc quyền cung cấp thức ăn nhanh"
       },
       {
         "k": "ex",
         "t": "Don't monopolize our guest of honour - there are others who would like to talk to him",
-        "vi": "Ðừng lấy vị thượng khách của chúng tôi làm của riêng-còn nhiều người muốn nói chuyện với ông ấy nữa đấy."
+        "vi": "Đừng lấy vị thượng khách của chúng tôi làm của riêng-còn nhiều người muốn nói chuyện với ông ấy nữa đấy."
       }
     ],
     "ipa": "mə'nɔpəlaiz",
@@ -16195,7 +16195,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngđ) Giữ độc quyền, độc chiếm, thao túng. Don't let me monopolize the conver-sation: Ðừng để chỉ mình tôi nói trong buổi nói chuyện."
+        "t": "(ngđ) Giữ độc quyền, độc chiếm, thao túng. Don't let me monopolize the conver-sation: Đừng để chỉ mình tôi nói trong buổi nói chuyện."
       }
     ],
     "ipa": "məɛnɔpəlaiz",
@@ -16545,7 +16545,7 @@
   },
   {
     "h": "monor renal calices",
-    "segs": [{"k": "m", "t": "Ðài thận nhỏ."}],
+    "segs": [{"k": "m", "t": "Đài thận nhỏ."}],
     "k": "monor renal calices"
   },
   {
@@ -16882,8 +16882,8 @@
     "ipa": "mɔnəʊ'simitri",
     "k": "monosymmetry"
   },
-  {"h": "monosymptomatic", "segs": [{"k": "m", "t": "Ðơn chứng."}], "k": "monosymptomatic"},
-  {"h": "monosynaptic", "segs": [{"k": "m", "t": "Ðơn si náp."}], "k": "monosynaptic"},
+  {"h": "monosymptomatic", "segs": [{"k": "m", "t": "Đơn chứng."}], "k": "monosymptomatic"},
+  {"h": "monosynaptic", "segs": [{"k": "m", "t": "Đơn si náp."}], "k": "monosynaptic"},
   {
     "h": "monosyphilid",
     "segs": [{"k": "m", "t": "Một tổn thương giang mai da."}],
@@ -16954,7 +16954,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Lạc thuyết nhất chí (cho rằng Ðức Kitô chỉ có một ý chí độc nhất là ý chí Thiên Chúa, tk 7)."
+        "t": "Lạc thuyết nhất chí (cho rằng Đức Kitô chỉ có một ý chí độc nhất là ý chí Thiên Chúa, tk 7)."
       }
     ],
     "k": "monothele(i)tism"
@@ -16996,7 +16996,7 @@
     "k": "monothelitism"
   },
   {"h": "monothermia", "segs": [{"k": "m", "t": "ổn nhiệt, bình nhiệt."}], "k": "monothermia"},
-  {"h": "monothetic", "segs": [{"k": "m", "t": "Ðơn nguyên tắc."}], "k": "monothetic"},
+  {"h": "monothetic", "segs": [{"k": "m", "t": "Đơn nguyên tắc."}], "k": "monothetic"},
   {
     "h": "monothetic classification",
     "segs": [{"k": "m", "t": "sự phân loại theo một tính trạng."}],
@@ -17009,7 +17009,7 @@
     "ipa": "'mɔnətint",
     "k": "monotint"
   },
-  {"h": "monotocous", "segs": [{"k": "m", "t": "Ðẻ một con, đẻ một lần."}], "k": "monotocous"},
+  {"h": "monotocous", "segs": [{"k": "m", "t": "Đẻ một con, đẻ một lần."}], "k": "monotocous"},
   {
     "h": "monotone",
     "segs": [
@@ -17183,7 +17183,7 @@
     "segs": [{"k": "m", "t": "đèn chỉnh vô tuyến truyền hình, đèn chỉnh."}],
     "k": "monotron"
   },
-  {"h": "monotropic", "segs": [{"k": "m", "t": "Ðơn hướng."}], "k": "monotropic"},
+  {"h": "monotropic", "segs": [{"k": "m", "t": "Đơn hướng."}], "k": "monotropic"},
   {
     "h": "monotropic reaction",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phản ứng đơn biến"}],
@@ -17346,7 +17346,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Là một chính sách ngoại giao của Mỹ cảnh báo về quyền lực châu Âu chống lại thực dân trong vùng tân thế giới và sự can thiệp vào các nhà lãnh đạo châu Mỹ. Học thuyết cũng bác bỏ ý tưởng của Mỹ tham gia vào công tác chính trị của châu Âu. Nền tảng của học thuyết là nỗi sợ hãi về sự can thiệp của khối liên minh thần thánh nhằm khôi phục các thuộc địa nam Mỹ của Tây Ban Nha. Học thuyết ít khi được nhắc đến trong thế kỷ 19. Nhưng sau khi vấn đề lãnh thổ vùng trung Mỹ và Caribe được dư luận quan tâm, học thuyết trở thành một nguyên lý trong chính sách ngoại giao Mỹ. Ðầu thế kỷ 20, nó trở thành một chính sách ngoại giao. Nó trình bày về trách nhiệm của Mỹ đối với an ninh của vùng bắc và nam Mỹ. Học thuyết này khiến cho mối quan hệ giữa các nước Mỹ, Latinh thêm phần rắc rối."
+        "t": "Là một chính sách ngoại giao của Mỹ cảnh báo về quyền lực châu Âu chống lại thực dân trong vùng tân thế giới và sự can thiệp vào các nhà lãnh đạo châu Mỹ. Học thuyết cũng bác bỏ ý tưởng của Mỹ tham gia vào công tác chính trị của châu Âu. Nền tảng của học thuyết là nỗi sợ hãi về sự can thiệp của khối liên minh thần thánh nhằm khôi phục các thuộc địa nam Mỹ của Tây Ban Nha. Học thuyết ít khi được nhắc đến trong thế kỷ 19. Nhưng sau khi vấn đề lãnh thổ vùng trung Mỹ và Caribe được dư luận quan tâm, học thuyết trở thành một nguyên lý trong chính sách ngoại giao Mỹ. Đầu thế kỷ 20, nó trở thành một chính sách ngoại giao. Nó trình bày về trách nhiệm của Mỹ đối với an ninh của vùng bắc và nam Mỹ. Học thuyết này khiến cho mối quan hệ giữa các nước Mỹ, Latinh thêm phần rắc rối."
       }
     ],
     "k": "monroe doctrine"
@@ -17386,7 +17386,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "(snh Messelgneurs [mesen'jə:(r)]) tước hiệu xưng hô đối với một người (Pháp) nổi tiếng; (db. hoàng tử, giám mụcỊ) Ngài, Ông, Ðức ông."
+        "t": "(snh Messelgneurs [mesen'jə:(r)]) tước hiệu xưng hô đối với một người (Pháp) nổi tiếng; (db. hoàng tử, giám mụcỊ) Ngài, Ông, Đức ông."
       }
     ],
     "ipa": "mɔnsen'jə:(r)",
@@ -17841,7 +17841,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Là nước nhỏ nhất trong các nước cộng hòa lập hiến của Yugoslavia trước kia. Montenegro tiếp giáp với Serbia ở phía đông-bắc, Albania ở phía nam và Bosniaherzegovina ở tây-bắc. Ðất nước này có bờ biển dài. Một phần phía tây-nam của nhà nước là một thảo nguyên đá vôi. Phía đông chủ yếu là rừng và các cao nguyên xanh tốt. Nền nông nghiệp phần lớn là chăn nuôi cừu và dê."
+        "t": "Là nước nhỏ nhất trong các nước cộng hòa lập hiến của Yugoslavia trước kia. Montenegro tiếp giáp với Serbia ở phía đông-bắc, Albania ở phía nam và Bosniaherzegovina ở tây-bắc. Đất nước này có bờ biển dài. Một phần phía tây-nam của nhà nước là một thảo nguyên đá vôi. Phía đông chủ yếu là rừng và các cao nguyên xanh tốt. Nền nông nghiệp phần lớn là chăn nuôi cừu và dê."
       },
       {
         "k": "m",
@@ -17942,7 +17942,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1480-1520): người thống trị Aztec thứ chín (1503-1521). Các linh mục của ông cho biết về sự trở lại của Cortes năm 1519 như một huyền thoại. Ðiều này khiến ông chần chừ, không quyết đoán khi Cortes đã bắt cóc con tin của ông, buộc ông phải đàm phán với đại diện quần chúng. Vì ông tự nguyện phủ phục trước Tây Ban Nha, họ đã truất phế ông vào năm 1521 và tấn công Spaniards. Ông bị thương và mất ba ngày sau đó."
+        "t": "(1480-1520): người thống trị Aztec thứ chín (1503-1521). Các linh mục của ông cho biết về sự trở lại của Cortes năm 1519 như một huyền thoại. Điều này khiến ông chần chừ, không quyết đoán khi Cortes đã bắt cóc con tin của ông, buộc ông phải đàm phán với đại diện quần chúng. Vì ông tự nguyện phủ phục trước Tây Ban Nha, họ đã truất phế ông vào năm 1521 và tấn công Spaniards. Ông bị thương và mất ba ngày sau đó."
       }
     ],
     "k": "montezuma"
@@ -18443,7 +18443,7 @@
     "ipa": "mɔn'tikjʊləs",
     "k": "monticulous"
   },
-  {"h": "monticulus", "segs": [{"k": "m", "t": "Ðối, gò."}], "k": "monticulus"},
+  {"h": "monticulus", "segs": [{"k": "m", "t": "Đối, gò."}], "k": "monticulus"},
   {
     "h": "montiform",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dáng núi"}],
@@ -18623,7 +18623,7 @@
         "vi": "cả thành phố này là một chứng tích về tài năng của ông ta, một nhà hoạch định và nhà quản lý"
       },
       {"k": "ex", "t": "a monument of science", "vi": "một công trình khoa học bất hủ"},
-      {"k": "ex", "t": "the Monument", "vi": "đài kỷ niệm hỏa hoạn (năm 1666) ở Luân Ðôn."}
+      {"k": "ex", "t": "the Monument", "vi": "đài kỷ niệm hỏa hoạn (năm 1666) ở Luân Đôn."}
     ],
     "ipa": "'mɔnjumənt",
     "k": "monument",
@@ -19649,7 +19649,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một thuật ngữ thường dùng ám chỉ những tác giả từ thời kỳ trung cổ trở về sau này như một từ đồng nghĩa với dân du mục Saracen. Người Tây Ban Nha và Bồ Ðào Nha dùng nó để chỉ những cư dân Hồi giáo ở bắc Phi và Tây Ban Nha. Người ta gọi như thế để dễ phân biệt với những kẻ ngoại giáo ở Châu Phi, và Hindu ở Ấn độ. Tuy nhiên, thuật ngữ này đặc biệt ám chỉ những kẻ chiến thắng Ả Rập của Tây Ban Nha đổ bộ lần đầu tiên năm 710. Năm 711, dưới thời Tariq IBN Zaid, quân đội Berber càn quét đất nước. Vương quốc Visigoth sụp đổ. Những người Moor di chuyển đến Pyrene và băng qua Pháp. Thất bại của họ tại Poitier năm 732 đánh dấu sự giới hạn quyền lực bành trướng lãnh thổ. Nhà nước mới al-Andalus được củng cố bởi tiểu vương Ả Rập Abd al-Rahman ibn Mauwiya năm 756, được thay thế bởi một triều đại kéo dài từ 912 đến 1031. Seville là thủ đô đầu tiên, sau đó được thay thế bởi Cordoba năm 717. Tiếp theo sau sự sụp đổ của một triều đại, nhà nước tan rã giữa Reyes de Taifas hay gọi là Party Kings (1031-1085) Trong khi các vương quốc Cơ đốc mở rộng từ bắc xuống nam. Nhưng năm 1090, những kẻ xâm lược Bắc Phi mới, Almoravid, là những chiến binh đầu tiên đã mang lại vinh quang cho chính bản thân. Họ mở đường đến một nhóm Berber mới, Almohad, nhưng lại sụp đổ đầu thế kỷ 13. Năm 1235, chỉ có vương quốc Granada còn tồn tại, chiếm lĩnh hầu hết Andalusia hiện tại. Xung đột xảy ra, họ không thể giữ vững thể chế của Ferdinand V (Thiên Chúa giáo). Isabella là người đã chấm dứt nền thống trị của Moor ở Tây Ban Nha năm 1491."
+        "t": "một thuật ngữ thường dùng ám chỉ những tác giả từ thời kỳ trung cổ trở về sau này như một từ đồng nghĩa với dân du mục Saracen. Người Tây Ban Nha và Bồ Đào Nha dùng nó để chỉ những cư dân Hồi giáo ở bắc Phi và Tây Ban Nha. Người ta gọi như thế để dễ phân biệt với những kẻ ngoại giáo ở Châu Phi, và Hindu ở Ấn độ. Tuy nhiên, thuật ngữ này đặc biệt ám chỉ những kẻ chiến thắng Ả Rập của Tây Ban Nha đổ bộ lần đầu tiên năm 710. Năm 711, dưới thời Tariq IBN Zaid, quân đội Berber càn quét đất nước. Vương quốc Visigoth sụp đổ. Những người Moor di chuyển đến Pyrene và băng qua Pháp. Thất bại của họ tại Poitier năm 732 đánh dấu sự giới hạn quyền lực bành trướng lãnh thổ. Nhà nước mới al-Andalus được củng cố bởi tiểu vương Ả Rập Abd al-Rahman ibn Mauwiya năm 756, được thay thế bởi một triều đại kéo dài từ 912 đến 1031. Seville là thủ đô đầu tiên, sau đó được thay thế bởi Cordoba năm 717. Tiếp theo sau sự sụp đổ của một triều đại, nhà nước tan rã giữa Reyes de Taifas hay gọi là Party Kings (1031-1085) Trong khi các vương quốc Cơ đốc mở rộng từ bắc xuống nam. Nhưng năm 1090, những kẻ xâm lược Bắc Phi mới, Almoravid, là những chiến binh đầu tiên đã mang lại vinh quang cho chính bản thân. Họ mở đường đến một nhóm Berber mới, Almohad, nhưng lại sụp đổ đầu thế kỷ 13. Năm 1235, chỉ có vương quốc Granada còn tồn tại, chiếm lĩnh hầu hết Andalusia hiện tại. Xung đột xảy ra, họ không thể giữ vững thể chế của Ferdinand V (Thiên Chúa giáo). Isabella là người đã chấm dứt nền thống trị của Moor ở Tây Ban Nha năm 1491."
       },
       {
         "k": "m",
@@ -20134,7 +20134,7 @@
         "t": "Since her dog ran away, Sally mopes around all day:",
         "vi": "Từ khi con chó của cô ta bỏ đi, Sally quanh quẩn trong tình trạng ủ rũ cả ngày."
       },
-      {"k": "ex", "t": "Don't mope around, Cheer up!:", "vi": "Ðừng buồn nản hãy vui vẻ lên!"}
+      {"k": "ex", "t": "Don't mope around, Cheer up!:", "vi": "Đừng buồn nản hãy vui vẻ lên!"}
     ],
     "k": "mope around"
   },
@@ -20751,7 +20751,7 @@
       {
         "k": "ex",
         "t": "Muslim, Hindu, Christian morality",
-        "vi": "giáo lý đạo Hồi, Ấn Ðộ giáo, Cơ Ðốc giáo"
+        "vi": "giáo lý đạo Hồi, Ấn Độ giáo, Cơ Đốc giáo"
       },
       {
         "k": "ex",
@@ -20958,7 +20958,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một khu vực thuộc cộng hòa Czech. Khu vực này từng bị người Celtic và các bộ tộc Ðức chiếm đóng. La Mã tiếp tục chinh phục. Khi đế chế La Mã suy yếu dưới thời Avar, khu vực này lại rơi vào tay Magyar. Nó lại rơi vào tay Bohemia vào năm 1029. Sau khi trấn áp cuộc nổi loạn Hussite ở nước láng giềng Bohemia thế kỷ 15, chính sách ôn hòa của John Huss đã tồn tại ở Moravia bất chấp sự phản đối cao độ. Nhờ vào sự ảnh hưởng của các tín đồ giáo phái rửa tội thế kỷ 16, nó phát triển các nhà thờ Moravia sau cuộc thanh trừng các vụ bạo loạn trong cuộc chiến kéo dài 30 năm. Người Habsburg cai trị Moravia từ 1526 đến 1918. Nó trở thành một tỉnh của Czechoslovakia mới thành lập."
+        "t": "một khu vực thuộc cộng hòa Czech. Khu vực này từng bị người Celtic và các bộ tộc Đức chiếm đóng. La Mã tiếp tục chinh phục. Khi đế chế La Mã suy yếu dưới thời Avar, khu vực này lại rơi vào tay Magyar. Nó lại rơi vào tay Bohemia vào năm 1029. Sau khi trấn áp cuộc nổi loạn Hussite ở nước láng giềng Bohemia thế kỷ 15, chính sách ôn hòa của John Huss đã tồn tại ở Moravia bất chấp sự phản đối cao độ. Nhờ vào sự ảnh hưởng của các tín đồ giáo phái rửa tội thế kỷ 16, nó phát triển các nhà thờ Moravia sau cuộc thanh trừng các vụ bạo loạn trong cuộc chiến kéo dài 30 năm. Người Habsburg cai trị Moravia từ 1526 đến 1918. Nó trở thành một tỉnh của Czechoslovakia mới thành lập."
       }
     ],
     "k": "moravia"
@@ -21157,7 +21157,7 @@
   },
   {"h": "morbus nauticus", "segs": [{"k": "m", "t": "(chứng) say sóng."}], "k": "morbus nauticus"},
   {"h": "morbus naviticus", "segs": [{"k": "m", "t": "(chứng) say sóng."}], "k": "morbus naviticus"},
-  {"h": "morbus niger", "segs": [{"k": "m", "t": "Ðại tiện máu đen."}], "k": "morbus niger"},
+  {"h": "morbus niger", "segs": [{"k": "m", "t": "Đại tiện máu đen."}], "k": "morbus niger"},
   {
     "h": "morbus pediculosus",
     "segs": [{"k": "m", "t": "Bệnh chấy rận."}],
@@ -21756,7 +21756,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1806-1871) nhà toán học và logic học Scotland, giáo sư toán học trường trung học thuộc trường Ðại học tổng hợp tại London (1828-1831), (1836-1866), hội trưởng đầu tiên (1866) Hội toán học London. Ông có công trình cơ bản về lý thuyết chuỗi và logic toán."
+        "t": "(1806-1871) nhà toán học và logic học Scotland, giáo sư toán học trường trung học thuộc trường Đại học tổng hợp tại London (1828-1831), (1836-1866), hội trưởng đầu tiên (1866) Hội toán học London. Ông có công trình cơ bản về lý thuyết chuỗi và logic toán."
       }
     ],
     "k": "morgan august"
@@ -21929,7 +21929,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Mác-cốp, 1856-1922) nhà toán học Nga, viện sĩ Viện hàn lâm khoa học Pétersbourg (1980, dự khuyết từ 1886). Ông sinh trưởng trong một gia đình quan lại nhỏ. Năm 1878 ông tốt nghiệp trường Ðại học tổng hợp Pétersbourg với học vị phó tiến sĩ, và cũng trong năm đó ông được thưởng huy chương vàng về công trình \"lấy tích phân các phương trình vi phân nhờ những liên phân số\". Ông đạt cức vị Phó giáo sư từ 1880, giáo sư từ 1886, và giáo sư cộng huân chương của trường đại học tổng hợp Pétersbourg từ 1905. Các công trinh nghiên cứu khoa học của Markov liên kết chặt chẽ theo hệ đề tài với những công trình của các vị cao niên đại diện cho trường phái toán học Pétersbourg như P.L. Chebyshev, E.I.Zolotariov và A.N.Korlin. Markov đạt được những kết quả sáng chói trong lĩnh vực lý thuyết số, trong luận án tiến sĩ \"Về những dạng vuông nhị nguyên của định thức dương\" (1880). Những kết quả ông đạt được trong công trình đó được dùng làm cơ sở cho những nghiên cứu sau này trong lĩnh vực đo. Những công trình của Markov về giải tích toán học thuộc về lý thuyết liên phân số, về việc nghiên cứu những giá trị giới hạn của các tích phân trong một số điều kiện áp đặt cho hàm dưới dấu tích phân, về những vấn đề cải tiến sự hội tụ của chuỗi và về lý thuyết tính xấp xỉ tốt nhất. Trong lý thuyết xác suất, Markov đã bổ khuyết (1898) chỗ trống, vẫn còn sót trong chứng minh định lý giới hạn cơ bản, và như vậy ông là người đầu tiên chứng minh định lý đó thật đầy đủ và chặt chẽ trong những điều kiện khá tổng quát. Những công trình sau này của Markov nhằm mở rộng cơ sở của định lý giới hạn ra cho dãy những đại lượng bị phụ thuộc đã dẫn đến (1907) sơ đồ tổng quát tuyệt diệu \"những phép thử liên kết trong xích\" (xích Markov). Trên cơ đồ sơ cấp đó Markov đã thiết lập hàng loạt những quy luật, mở đầu cho tất cả 11 thuyết hiện đại của những quá trình Markov. Ông tiến hành rất nhiếu ứng dụng khác nhau của lý thuyết xác suất. Viện hàn lâm khoa học Nga đã đặt ra giải thưởng mang tên A.A. Markov."
+        "t": "(Mác-cốp, 1856-1922) nhà toán học Nga, viện sĩ Viện hàn lâm khoa học Pétersbourg (1980, dự khuyết từ 1886). Ông sinh trưởng trong một gia đình quan lại nhỏ. Năm 1878 ông tốt nghiệp trường Đại học tổng hợp Pétersbourg với học vị phó tiến sĩ, và cũng trong năm đó ông được thưởng huy chương vàng về công trình \"lấy tích phân các phương trình vi phân nhờ những liên phân số\". Ông đạt cức vị Phó giáo sư từ 1880, giáo sư từ 1886, và giáo sư cộng huân chương của trường đại học tổng hợp Pétersbourg từ 1905. Các công trinh nghiên cứu khoa học của Markov liên kết chặt chẽ theo hệ đề tài với những công trình của các vị cao niên đại diện cho trường phái toán học Pétersbourg như P.L. Chebyshev, E.I.Zolotariov và A.N.Korlin. Markov đạt được những kết quả sáng chói trong lĩnh vực lý thuyết số, trong luận án tiến sĩ \"Về những dạng vuông nhị nguyên của định thức dương\" (1880). Những kết quả ông đạt được trong công trình đó được dùng làm cơ sở cho những nghiên cứu sau này trong lĩnh vực đo. Những công trình của Markov về giải tích toán học thuộc về lý thuyết liên phân số, về việc nghiên cứu những giá trị giới hạn của các tích phân trong một số điều kiện áp đặt cho hàm dưới dấu tích phân, về những vấn đề cải tiến sự hội tụ của chuỗi và về lý thuyết tính xấp xỉ tốt nhất. Trong lý thuyết xác suất, Markov đã bổ khuyết (1898) chỗ trống, vẫn còn sót trong chứng minh định lý giới hạn cơ bản, và như vậy ông là người đầu tiên chứng minh định lý đó thật đầy đủ và chặt chẽ trong những điều kiện khá tổng quát. Những công trình sau này của Markov nhằm mở rộng cơ sở của định lý giới hạn ra cho dãy những đại lượng bị phụ thuộc đã dẫn đến (1907) sơ đồ tổng quát tuyệt diệu \"những phép thử liên kết trong xích\" (xích Markov). Trên cơ đồ sơ cấp đó Markov đã thiết lập hàng loạt những quy luật, mở đầu cho tất cả 11 thuyết hiện đại của những quá trình Markov. Ông tiến hành rất nhiếu ứng dụng khác nhau của lý thuyết xác suất. Viện hàn lâm khoa học Nga đã đặt ra giải thưởng mang tên A.A. Markov."
       }
     ],
     "k": "morkov andrei andreievitch"
@@ -21968,7 +21968,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những thành viên của phong trào Cơ đốc theo chủ nghĩa hoàng kim (tin tưởng sẽ có sự lặp lại trật tự thế giới mới). Phong trào này có danh xưng riêng là phong trào Mormon. Tín ngưỡng Mormon được xây dựng năm 1830 ở New York bởi Joseph Smith. Phong trào chủ yếu dựa vào tính thiên khải trong quyển sách Mormon. Ðây là sự tổng hợp các khái niệm tôn giáo và lịch sử kỳ bí, bao gồm luôn cả niềm tin cho rằng người Mỹ bản xứ là một bộ tộc xưa kia của Israel. Nhanh chóng được nhiều người ủng hộ, Smith đã di chuyển về phía tây, nhưng lại gặp sự phản đối ở địa phương, do thuyết Mormon ủng hộ chế độ đa thê. Dưới sự lãnh đạo của Brigham Young, một nhóm người di chuyển về phía tây đến Utah. Sau nhiều khó khăn, phong trào Mormon tạo ra một nền kinh tế độc lập trong khu vực thành phố Salt Lake. Mặc dù nhiều phản đối xảy ra xung quanh vấn đề đa thê nhưng họ đã bảo vệ được Utah trở thành một nhà nước năm 1896. Phong trào mormon tiếp tục nắm quyền lãnh đạo Utah. Số thành viên Mormon lúc này lên đến 5 triệu người trên khắp thế giới. Tín ngưỡng của Mormon rất khác biệt so với Cơ đốc chính thống đã từ lâu thối nát. Những học thuyết này có liên quan đến niềm hy vọng Chúa sẽ xuất hiện cứu thế lần hai, làm lễ rửa tội cho những người trưởng thành và lời tiên tri."
+        "t": "Những thành viên của phong trào Cơ đốc theo chủ nghĩa hoàng kim (tin tưởng sẽ có sự lặp lại trật tự thế giới mới). Phong trào này có danh xưng riêng là phong trào Mormon. Tín ngưỡng Mormon được xây dựng năm 1830 ở New York bởi Joseph Smith. Phong trào chủ yếu dựa vào tính thiên khải trong quyển sách Mormon. Đây là sự tổng hợp các khái niệm tôn giáo và lịch sử kỳ bí, bao gồm luôn cả niềm tin cho rằng người Mỹ bản xứ là một bộ tộc xưa kia của Israel. Nhanh chóng được nhiều người ủng hộ, Smith đã di chuyển về phía tây, nhưng lại gặp sự phản đối ở địa phương, do thuyết Mormon ủng hộ chế độ đa thê. Dưới sự lãnh đạo của Brigham Young, một nhóm người di chuyển về phía tây đến Utah. Sau nhiều khó khăn, phong trào Mormon tạo ra một nền kinh tế độc lập trong khu vực thành phố Salt Lake. Mặc dù nhiều phản đối xảy ra xung quanh vấn đề đa thê nhưng họ đã bảo vệ được Utah trở thành một nhà nước năm 1896. Phong trào mormon tiếp tục nắm quyền lãnh đạo Utah. Số thành viên Mormon lúc này lên đến 5 triệu người trên khắp thế giới. Tín ngưỡng của Mormon rất khác biệt so với Cơ đốc chính thống đã từ lâu thối nát. Những học thuyết này có liên quan đến niềm hy vọng Chúa sẽ xuất hiện cứu thế lần hai, làm lễ rửa tội cho những người trưởng thành và lời tiên tri."
       }
     ],
     "k": "mormons"
@@ -22255,11 +22255,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một quốc gia nằm ở phần tây-bắc của Châu Phi. Nó tiếp giáp với Algeria và phía tây Sahara cùng với những vùng biển dọc theo Ðịa Trung Hải và Ðại Tây Dương."
+        "t": "Một quốc gia nằm ở phần tây-bắc của Châu Phi. Nó tiếp giáp với Algeria và phía tây Sahara cùng với những vùng biển dọc theo Địa Trung Hải và Đại Tây Dương."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: nhiều khu vực Morocco bao gồm vùng núi Atlas chạy xuyên suốt từ tây-nam đến đông-bắc. Khu vực gần vùng biển khí hậu ấm và ẩm ướt trong khi khu vực miền núi thì khô khan. Khu vực phía nam của dãy núi bắt đầu từ sa mạc Sahara. Những con sông từ các dãy núi cung cấp nước cho những đồng bằng ven biển, thuận lợi phát triển mùa vụ."
+        "t": "Địa hình: nhiều khu vực Morocco bao gồm vùng núi Atlas chạy xuyên suốt từ tây-nam đến đông-bắc. Khu vực gần vùng biển khí hậu ấm và ẩm ướt trong khi khu vực miền núi thì khô khan. Khu vực phía nam của dãy núi bắt đầu từ sa mạc Sahara. Những con sông từ các dãy núi cung cấp nước cho những đồng bằng ven biển, thuận lợi phát triển mùa vụ."
       },
       {
         "k": "m",
@@ -22267,11 +22267,11 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: thế kỷ thứ 5 trước Công nguyên người Phênixi đã tạm trú vùng biển Morocco. Vương quốc Mauritania ra đời phía bắc morocco thế kỷ 4 trước Công nguyên. La Mã đã biến nơi này thành một tỉnh của Mauritania Tingitana, dựa trên Tangier. Những kẻ phá hoại từ Tây Ban Nha chiếm đóng khu vực này từ 428. Nhưng người Berber đã chiếm lấy phần đất liền sau khi Byzantine khôi phục lại vùng biển năm 533. Quốc gia này không chịu sự cai trị của Ả Rập cho đến khi Musa ibn Nusayr chinh phục năm 705. Dưới thời Byzantium, Thanh giáo đã xuất hiện. Phong trào khổ hạnh Kharrijism, Hồi giáo cũng xuất hiện thời kỳ này. Ả Rập cai trị vùng đất này chỉ trong thời gian ngắn, những triều đại Berber xuất hiện, Idrisid (788-974), Fatimid (909-73), Almoravid (1056-1147), Almohad (1145-1257), Merinid (1248-1548) và sau cùng là những triều đại Sharifian từ 1524 cho đến ngày nay. Từng đánh bại Bồ Ðào Nha tại Alcazarquivir (1578), Morocco đã mở rộng thuộc địa. Họ đã đánh bại đế chế Songhay cùng với sự giúp đỡ của súng ống năm 1591 nhưng lại cai trị không hiệu quả."
+        "t": "Lịch sử: thế kỷ thứ 5 trước Công nguyên người Phênixi đã tạm trú vùng biển Morocco. Vương quốc Mauritania ra đời phía bắc morocco thế kỷ 4 trước Công nguyên. La Mã đã biến nơi này thành một tỉnh của Mauritania Tingitana, dựa trên Tangier. Những kẻ phá hoại từ Tây Ban Nha chiếm đóng khu vực này từ 428. Nhưng người Berber đã chiếm lấy phần đất liền sau khi Byzantine khôi phục lại vùng biển năm 533. Quốc gia này không chịu sự cai trị của Ả Rập cho đến khi Musa ibn Nusayr chinh phục năm 705. Dưới thời Byzantium, Thanh giáo đã xuất hiện. Phong trào khổ hạnh Kharrijism, Hồi giáo cũng xuất hiện thời kỳ này. Ả Rập cai trị vùng đất này chỉ trong thời gian ngắn, những triều đại Berber xuất hiện, Idrisid (788-974), Fatimid (909-73), Almoravid (1056-1147), Almohad (1145-1257), Merinid (1248-1548) và sau cùng là những triều đại Sharifian từ 1524 cho đến ngày nay. Từng đánh bại Bồ Đào Nha tại Alcazarquivir (1578), Morocco đã mở rộng thuộc địa. Họ đã đánh bại đế chế Songhay cùng với sự giúp đỡ của súng ống năm 1591 nhưng lại cai trị không hiệu quả."
       },
       {
         "k": "m",
-        "t": "Thế kỷ 19, Morooco trải qua một đại dịch và trở thành mục tiêu của Pháp và Tây Ban Nha trong tham vọng quyền lực. Ðầu thế kỷ 20, việc Ðức phản đối chủ trương bành trướng lãnh thổ của Pháp gây ra nhiều cuộc khủng hoảng nghiêm trọng năm 1905 và 1911. Năm 1912, đất nước bị chia cắt một phần là nước chư hầu Pháp, một phần thuộc nước chư hầu Tây Ban Nha và phần còn lại là khu vực quốc tế của Tangier. Các cuộc bạo loạn Rif do ABD Elkrim đấu tranh chống lại Tây Ban Nha và Pháp thập niên 1920. Morocco trở thành nhà nước độc lập dưới thời Muhammad V trị vì khi nó hợp nhất với Tangier. Con trai Hasan II kế vị Muhammad năm 1961 nhưng bất đồng ý kiến khiến chính phủ tạm đình chỉ năm 1965. Quyền lực hoàng triều phải đối mặt với lực lượng quân đội còn non yếu đầu thập niên 1970. Năm 1980, một hiến pháp mới ra đời tuyên bố sự ra đời của vương quốc Morocco là một nền quân chủ lập hiến. Từ giữa thập niên 1970, Morocco tham gia một chiến tranh vô nghĩa tại sa mạc Sahara. Một thỏa thuận ngầm được ký kết năm 1976 nhằm chia cắt khu vực giàu khoáng sản giữa Morocco và Mauritania. Nhưng sau đó thỏa thuận này đã bị bãi bỏ năm 1979 do một nhóm chủ nghĩa dân tộc mặt trận Polisario can thiệp. Morocco thôn tính vùng đất mà Mauritania đã bỏ lại vì có sự kháng cự của mặt trận Polisario. Nhiều cuộc chiến quan trọng xảy ra năm 1979 và 1980, lực lượng Morocco xây dựng nhiều bức tường thành bỏ hoang. Tính hình thế giới lúc này ủng hộ mặt trận Polisario rất nhiều, họ đã tuyên bố nền cộng hòa dân chủ Ả Rập Sahara năm 1976. Lệnh ngừng bắn được đàm phán năm 1991 trong khi chờ đợi Liên hiệp quốc đưa ra cuộc trưng cầu dân ý. Tiến trình có nhiều chuyển biến nhưng không lớn trong việc bảo vệ nền hòa bình. Morocco là quốc gia Maghred phái quân đội hỗ trợ Liên hiệp quốc trong cuộc chiến vùng vịnh. Một hiến pháp mới được điều chỉnh năm 1992 củng cố quyền lực chính phủ trong khi vị trí người đứng đầu nhà nước vẫn duy trì theo chế độ cha truyền con nối. Chính phủ ban hành lệnh tư nhân hóa năm 1993. Cuộc tổng tuyển cử lần đầu tiên được tổ chức năm 1993 kể từ năm 1984."
+        "t": "Thế kỷ 19, Morooco trải qua một đại dịch và trở thành mục tiêu của Pháp và Tây Ban Nha trong tham vọng quyền lực. Đầu thế kỷ 20, việc Đức phản đối chủ trương bành trướng lãnh thổ của Pháp gây ra nhiều cuộc khủng hoảng nghiêm trọng năm 1905 và 1911. Năm 1912, đất nước bị chia cắt một phần là nước chư hầu Pháp, một phần thuộc nước chư hầu Tây Ban Nha và phần còn lại là khu vực quốc tế của Tangier. Các cuộc bạo loạn Rif do ABD Elkrim đấu tranh chống lại Tây Ban Nha và Pháp thập niên 1920. Morocco trở thành nhà nước độc lập dưới thời Muhammad V trị vì khi nó hợp nhất với Tangier. Con trai Hasan II kế vị Muhammad năm 1961 nhưng bất đồng ý kiến khiến chính phủ tạm đình chỉ năm 1965. Quyền lực hoàng triều phải đối mặt với lực lượng quân đội còn non yếu đầu thập niên 1970. Năm 1980, một hiến pháp mới ra đời tuyên bố sự ra đời của vương quốc Morocco là một nền quân chủ lập hiến. Từ giữa thập niên 1970, Morocco tham gia một chiến tranh vô nghĩa tại sa mạc Sahara. Một thỏa thuận ngầm được ký kết năm 1976 nhằm chia cắt khu vực giàu khoáng sản giữa Morocco và Mauritania. Nhưng sau đó thỏa thuận này đã bị bãi bỏ năm 1979 do một nhóm chủ nghĩa dân tộc mặt trận Polisario can thiệp. Morocco thôn tính vùng đất mà Mauritania đã bỏ lại vì có sự kháng cự của mặt trận Polisario. Nhiều cuộc chiến quan trọng xảy ra năm 1979 và 1980, lực lượng Morocco xây dựng nhiều bức tường thành bỏ hoang. Tính hình thế giới lúc này ủng hộ mặt trận Polisario rất nhiều, họ đã tuyên bố nền cộng hòa dân chủ Ả Rập Sahara năm 1976. Lệnh ngừng bắn được đàm phán năm 1991 trong khi chờ đợi Liên hiệp quốc đưa ra cuộc trưng cầu dân ý. Tiến trình có nhiều chuyển biến nhưng không lớn trong việc bảo vệ nền hòa bình. Morocco là quốc gia Maghred phái quân đội hỗ trợ Liên hiệp quốc trong cuộc chiến vùng vịnh. Một hiến pháp mới được điều chỉnh năm 1992 củng cố quyền lực chính phủ trong khi vị trí người đứng đầu nhà nước vẫn duy trì theo chế độ cha truyền con nối. Chính phủ ban hành lệnh tư nhân hóa năm 1993. Cuộc tổng tuyển cử lần đầu tiên được tổ chức năm 1993 kể từ năm 1984."
       },
       {"k": "m", "t": "Thủ đô: Rabat."},
       {"k": "m", "t": "Diện tích: 458.730 km2"},
@@ -22906,7 +22906,7 @@
     "segs": [{"k": "m", "t": "(sự) đo hình thể, đo hình thái."}],
     "k": "morphometry"
   },
-  {"h": "morphon", "segs": [{"k": "m", "t": "Ðơn vị hình thái."}], "k": "morphon"},
+  {"h": "morphon", "segs": [{"k": "m", "t": "Đơn vị hình thái."}], "k": "morphon"},
   {"h": "morphophyly", "segs": [{"k": "m", "t": "(sự) tiến triển hình thái."}], "k": "morphophyly"},
   {
     "h": "morphophysics",
@@ -23013,7 +23013,7 @@
   },
   {
     "h": "morrisdance",
-    "segs": [{"k": "m", "t": "(dt) Ðiệu nhảy morit (điệu nhảy dân gian của đàn ông Anh quốc)."}],
+    "segs": [{"k": "m", "t": "(dt) Điệu nhảy morit (điệu nhảy dân gian của đàn ông Anh quốc)."}],
     "ipa": "ɛmɔrisda:ns",
     "k": "morrisdance"
   },
@@ -23847,7 +23847,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sự khấu trừ thuế lợi tức, sự giảm giá thuế lợi tức. Sự giảm giá thuế lợi tức thu nhập trên trị giá tiền lời được trả dưới các vật thế chấp. Lên đến một con số chuyên biệt (hiện tại 30.000) lên đến mức độ mà người thế chấp được quyền giảm giá nếu đó là tài sản chính của họ. Ðối với các vật thế chấp được thế chấp vào hoặc sau 8/1988, sự giảm giá hạn định của vật thế chấp áp dụng đối với tài sản chứ không phải là đối với người vay. Do vậy khi hai hoặc nhiều người chia xẻ tài sản với nhau, sự giảm giá được phân bố giữa họ với nhau sao cho đồng đều. Trước đây, họ chỉ được giảm giá đối với các vật thế chấp mà đó là tải sản của một người. Dưới chương trình giảm giá lợi tức vật thế chấp, việc trả tiền lời được thực hiện bởi ngân hàng, các tổ chức xã hội được tiến hành sau khi trừ ra một khoảng tương đương với sự giảm giá của thuế lợi tức đáo hạn tại đề xuất cơ bản và do đó không cần sự giảm giá nào khác, trừ khi người trả thuế vật thế chấp ở mức cao."
+        "t": "sự khấu trừ thuế lợi tức, sự giảm giá thuế lợi tức. Sự giảm giá thuế lợi tức thu nhập trên trị giá tiền lời được trả dưới các vật thế chấp. Lên đến một con số chuyên biệt (hiện tại 30.000) lên đến mức độ mà người thế chấp được quyền giảm giá nếu đó là tài sản chính của họ. Đối với các vật thế chấp được thế chấp vào hoặc sau 8/1988, sự giảm giá hạn định của vật thế chấp áp dụng đối với tài sản chứ không phải là đối với người vay. Do vậy khi hai hoặc nhiều người chia xẻ tài sản với nhau, sự giảm giá được phân bố giữa họ với nhau sao cho đồng đều. Trước đây, họ chỉ được giảm giá đối với các vật thế chấp mà đó là tải sản của một người. Dưới chương trình giảm giá lợi tức vật thế chấp, việc trả tiền lời được thực hiện bởi ngân hàng, các tổ chức xã hội được tiến hành sau khi trừ ra một khoảng tương đương với sự giảm giá của thuế lợi tức đáo hạn tại đề xuất cơ bản và do đó không cần sự giảm giá nào khác, trừ khi người trả thuế vật thế chấp ở mức cao."
       }
     ],
     "k": "mortgage interest relief"
@@ -24105,7 +24105,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sự sở hữu tài sản thế chấp. Người cho thế chấp thực hiện quyền lấy tài sản bị thế chấp. Ðiều này có thể xảy ra bất kỳ lúc nào, ngay cả không trả được nợ. Tuy nhiên, văn bản thế chấp hợp pháp chứa đựng một thỏa ước không được làm như vậy trừ phi việc không trả được nợ xảy ra và lúc đó sắc lệnh của tòa án mới cần đến để thu hồi tài sản trong trường hợp nhà cư ngụ. Tòa án trì hoãn việc thu hồi này để cho phép người thế chấp có thời gian để trả tiền. Người cho thế chấp hoặc là nhận lấy tiền cho thuê và lợi nhuận nếu tài sản được để lại hoặc có quyền thanh lý tài sản. Người cho thế chấp không được quyền lấy bất kỳ nguồn lợi cá nhân nào trong khoảng tiền lời được trả lại và khoản nợ cơ bản, ông ta (hoặc bà ta) phải thực hiện việc sửa đổi hợp lý và không được làm hư hao tài sản."
+        "t": "sự sở hữu tài sản thế chấp. Người cho thế chấp thực hiện quyền lấy tài sản bị thế chấp. Điều này có thể xảy ra bất kỳ lúc nào, ngay cả không trả được nợ. Tuy nhiên, văn bản thế chấp hợp pháp chứa đựng một thỏa ước không được làm như vậy trừ phi việc không trả được nợ xảy ra và lúc đó sắc lệnh của tòa án mới cần đến để thu hồi tài sản trong trường hợp nhà cư ngụ. Tòa án trì hoãn việc thu hồi này để cho phép người thế chấp có thời gian để trả tiền. Người cho thế chấp hoặc là nhận lấy tiền cho thuê và lợi nhuận nếu tài sản được để lại hoặc có quyền thanh lý tài sản. Người cho thế chấp không được quyền lấy bất kỳ nguồn lợi cá nhân nào trong khoảng tiền lời được trả lại và khoản nợ cơ bản, ông ta (hoặc bà ta) phải thực hiện việc sửa đổi hợp lý và không được làm hư hao tài sản."
       }
     ],
     "k": "mortgagee in possession"
@@ -24743,7 +24743,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thế kỷ 13 trước Công nguyên): là người sáng lập và nhà tiên tri Do Thái. Ông giúp mọi người thoát khỏi đời nô lệ, thành lập cộng đồng tôn giáo Israel. Theo ghi chép của sách thánh kinh, ông là một đứa trẻ bị bỏ rơi được mang về nuôi tại tòa án Ai Cập. Ông nhận được lời sấm truyền của đấng bề trên tại Midian rằng phải lãnh đạo mọi người từ Ai Cập. Một cuộc di cư lớn từ Ai Cập diễn ra, những người bị bắt thì bị nhấn chìm vào biển đỏ. Trên núi Sinai, Jehovah đã tìm ra 10 điều răn của Ðức Chúa trời. Theo lời truyền tụng, Moses đã chết trong một vùng đất hứa tại Moab."
+        "t": "thế kỷ 13 trước Công nguyên): là người sáng lập và nhà tiên tri Do Thái. Ông giúp mọi người thoát khỏi đời nô lệ, thành lập cộng đồng tôn giáo Israel. Theo ghi chép của sách thánh kinh, ông là một đứa trẻ bị bỏ rơi được mang về nuôi tại tòa án Ai Cập. Ông nhận được lời sấm truyền của đấng bề trên tại Midian rằng phải lãnh đạo mọi người từ Ai Cập. Một cuộc di cư lớn từ Ai Cập diễn ra, những người bị bắt thì bị nhấn chìm vào biển đỏ. Trên núi Sinai, Jehovah đã tìm ra 10 điều răn của Đức Chúa trời. Theo lời truyền tụng, Moses đã chết trong một vùng đất hứa tại Moab."
       }
     ],
     "k": "moses ("
@@ -25972,7 +25972,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "thiên nhiên"},
-      {"k": "m", "t": "Ðấng tạo hóa."}
+      {"k": "m", "t": "Đấng tạo hóa."}
     ],
     "ipa": "'mʌðə'neitʃə",
     "k": "mother nature"
@@ -28472,7 +28472,7 @@
     ],
     "k": "motu proprio"
   },
-  {"h": "Motus", "segs": [{"k": "m", "t": "Ðộng/ứng/xúc cảm."}], "k": "motus"},
+  {"h": "Motus", "segs": [{"k": "m", "t": "Động/ứng/xúc cảm."}], "k": "motus"},
   {
     "h": "motus primo-primi",
     "segs": [{"k": "m", "t": "động cảm sơ thủy (phản xạ, không ý thức)."}],
@@ -29687,7 +29687,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những người săn thú và buôn bán lông thú người Mỹ. Những người này đã khám phá và phát triển khu vực vùng núi đá giữa 1820 và 1840. Họ được mọi người biết đến với tài săn bắn và chiếm những vùng đất biên giới trọng yếu. Ðiều kiện sống của họ rất khắc nghiệt. Cuối cùng, chỉ còn lại một vài người Kit Carson, Jedediah Smith và Thomas Fitzpatrick là có thể duy trì cho đến khi quay lại với một cuộc sống ổn định hơn sau khi giá cả da hải ly xuống thấp năm 1840."
+        "t": "Những người săn thú và buôn bán lông thú người Mỹ. Những người này đã khám phá và phát triển khu vực vùng núi đá giữa 1820 và 1840. Họ được mọi người biết đến với tài săn bắn và chiếm những vùng đất biên giới trọng yếu. Điều kiện sống của họ rất khắc nghiệt. Cuối cùng, chỉ còn lại một vài người Kit Carson, Jedediah Smith và Thomas Fitzpatrick là có thể duy trì cho đến khi quay lại với một cuộc sống ổn định hơn sau khi giá cả da hải ly xuống thấp năm 1840."
       }
     ],
     "k": "mountain men"
@@ -30628,7 +30628,7 @@
     "segs": [{"k": "m", "t": "dt 1. bẫy để bắt chuột 2. (đng.) th.tục pho-mát chất lượng kém."}],
     "k": "mouse trap"
   },
-  {"h": "mouse unit", "segs": [{"k": "m", "t": "Ðơn vị chuột nhắt."}], "k": "mouse unit"},
+  {"h": "mouse unit", "segs": [{"k": "m", "t": "Đơn vị chuột nhắt."}], "k": "mouse unit"},
   {
     "h": "mouse-colored",
     "segs": [
@@ -31826,7 +31826,7 @@
       {
         "k": "ex",
         "t": "I moved into a new job last week. It's very exciting work:",
-        "vi": "Tôi bắt đầu làm một công việc mới trong tuần rồi. Ðó là một công việc rất hứng thú."
+        "vi": "Tôi bắt đầu làm một công việc mới trong tuần rồi. Đó là một công việc rất hứng thú."
       },
       {
         "k": "ex",
@@ -32712,7 +32712,7 @@
   },
   {
     "h": "moving-boundary electrophoresis",
-    "segs": [{"k": "m", "t": "Ðiện di tự do."}],
+    "segs": [{"k": "m", "t": "Điện di tự do."}],
     "k": "moving-boundary electrophoresis"
   },
   {
@@ -32958,7 +32958,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Zambezi chảy ngang phần giữa của đất nước trong khi Limpopob chảy qua phía nam. Các vùng đồng bằng ven biển thì thấp và rộng cùng với nhiều khu vực cát giữa những thung lũng sông đầm lầy. Phần đất liền thì ẩm hơn, nhiều khu vực đất màu mỡ bị rừng nhiệt đới che phủ."
+        "t": "Địa hình: Zambezi chảy ngang phần giữa của đất nước trong khi Limpopob chảy qua phía nam. Các vùng đồng bằng ven biển thì thấp và rộng cùng với nhiều khu vực cát giữa những thung lũng sông đầm lầy. Phần đất liền thì ẩm hơn, nhiều khu vực đất màu mỡ bị rừng nhiệt đới che phủ."
       },
       {
         "k": "m",
@@ -32966,11 +32966,11 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Mozambique được các nhà địa lý Ả Rập thời trung cổ biết đến với tên gọi Musambih. Theo nhà sử học Ả Rập, al-Masudi, vùng đất này từng xuất khẩu vàng sang Zimbabwe thế kỷ 10. Những thương nhân từ Mogadishu chiếm thế độc quyền trong một thời gian nhưng về sau bị người Kilwa thôn tính ở thế kỷ 12. Người Bồ Ðào Nha tiến hành cướp phá cảng Sofala năm 1505. Họ xây dựng một thị trấn mới kiểm soát vàng và các ngành nghề thương mại khác. Dân bản xứ cũng bắt đầu buôn bán nô lệ ở thế kỷ 16. Thành phố hiện tại của Mosambique được bắt đầu từ một pháo đài được xây dựng năm 1508 bởi người Bồ Ðào Nha như một điểm dừng chân giải trí trên con đường đến Goa. Việc định cư đầu tiên trên đất liền tại Sena và Tete là những thị trấn buôn bán Ả Rập. Họ có liên hệ với Mwene Mutapa và những kẻ cai trị vùng đất liền mãi cho đến thế kỷ 19."
+        "t": "Lịch sử: Mozambique được các nhà địa lý Ả Rập thời trung cổ biết đến với tên gọi Musambih. Theo nhà sử học Ả Rập, al-Masudi, vùng đất này từng xuất khẩu vàng sang Zimbabwe thế kỷ 10. Những thương nhân từ Mogadishu chiếm thế độc quyền trong một thời gian nhưng về sau bị người Kilwa thôn tính ở thế kỷ 12. Người Bồ Đào Nha tiến hành cướp phá cảng Sofala năm 1505. Họ xây dựng một thị trấn mới kiểm soát vàng và các ngành nghề thương mại khác. Dân bản xứ cũng bắt đầu buôn bán nô lệ ở thế kỷ 16. Thành phố hiện tại của Mosambique được bắt đầu từ một pháo đài được xây dựng năm 1508 bởi người Bồ Đào Nha như một điểm dừng chân giải trí trên con đường đến Goa. Việc định cư đầu tiên trên đất liền tại Sena và Tete là những thị trấn buôn bán Ả Rập. Họ có liên hệ với Mwene Mutapa và những kẻ cai trị vùng đất liền mãi cho đến thế kỷ 19."
       },
       {
         "k": "m",
-        "t": "Người Bồ Ðào Nha dần dần đàn áp các phong trào khởi nghĩa của dân bản xứ suốt thế kỷ 19. Mozambique trở thành một tỉnh ở nước ngoài của Bồ Ðào Nha năm 1951. Ðể giải phóng đất nước ra khỏi sự cai trị thuộc địa, năm 1964 nhóm du kích Frelimo thuộc chủ nghĩa Mac-Lenin được thành lập. Giữa thập niên 1970, quyền lực của Bồ Ðào Nha suy yếu. Năm 1975, nước cộng hòa nhân dân ra đời dưới quyền lãnh đạo của Samora Machel. Phong trào du kích ở Rhodesia và nam Phi dẫn đến nhiều cuộc tấn công quân sự. Sự thành lập một nhà nước ổn định trong khuôn khổ nhà nước một đảng chủ nghĩa Mac bị cản trở bởi nền kinh tế nông nghiệp của chính quyền Mozambique. Năm 1984, Mozambique và nam Phi ký kết một hiệp ước không bạo lực, Nkomati Accord. Nhưng sự ủng hộ của nam Phi với các nhóm nổi loạn có sự hậu thuẫn của những kẻ thực dân Bồ Ðào Nha trước kia vẫn tiếp tục với việc tổ chức 10.000 dân quân lực lượng vũ trang trong cả nước. Năm 1989, Freslimo giảm bớt căng thẳng với phong trào thuộc chủ nghĩa Mac-Lenin. Tổng thống Joaquim Chissano đồng ý tiếp xúc với Afonso Dhlakama, lãnh đạo của phong trào khởi nghĩa Mozambique. Một hiến pháp mới bắt đầu có hiệu lực từ tháng 11/1990. Cuộc đàm phán hòa bình diễn ra năm 1991. Một hiệp ước hòa bình được ký kết tháng 10/1992, Renamo trở thành một chính đảng hợp pháp. Cuộc tổng tuyển cử đa đảng được tổ chức năm 1994 và Frelimo, do Chissano lãnh đạo tái đắc cử. Năm 1995, Mozambique được thừa nhận thuộc khối thịnh vượng các nước. Sau 17 năm nội chiến cùng với nạn hạn hán, Mozambique trở thành một trong những nước nghèo nhất trên thế giới. Bạo loạn, đói kém liên tục diễn ra gây thiệt hại rất lớn cho nền kinh tế và chính trị của nước này."
+        "t": "Người Bồ Đào Nha dần dần đàn áp các phong trào khởi nghĩa của dân bản xứ suốt thế kỷ 19. Mozambique trở thành một tỉnh ở nước ngoài của Bồ Đào Nha năm 1951. Để giải phóng đất nước ra khỏi sự cai trị thuộc địa, năm 1964 nhóm du kích Frelimo thuộc chủ nghĩa Mac-Lenin được thành lập. Giữa thập niên 1970, quyền lực của Bồ Đào Nha suy yếu. Năm 1975, nước cộng hòa nhân dân ra đời dưới quyền lãnh đạo của Samora Machel. Phong trào du kích ở Rhodesia và nam Phi dẫn đến nhiều cuộc tấn công quân sự. Sự thành lập một nhà nước ổn định trong khuôn khổ nhà nước một đảng chủ nghĩa Mac bị cản trở bởi nền kinh tế nông nghiệp của chính quyền Mozambique. Năm 1984, Mozambique và nam Phi ký kết một hiệp ước không bạo lực, Nkomati Accord. Nhưng sự ủng hộ của nam Phi với các nhóm nổi loạn có sự hậu thuẫn của những kẻ thực dân Bồ Đào Nha trước kia vẫn tiếp tục với việc tổ chức 10.000 dân quân lực lượng vũ trang trong cả nước. Năm 1989, Freslimo giảm bớt căng thẳng với phong trào thuộc chủ nghĩa Mac-Lenin. Tổng thống Joaquim Chissano đồng ý tiếp xúc với Afonso Dhlakama, lãnh đạo của phong trào khởi nghĩa Mozambique. Một hiến pháp mới bắt đầu có hiệu lực từ tháng 11/1990. Cuộc đàm phán hòa bình diễn ra năm 1991. Một hiệp ước hòa bình được ký kết tháng 10/1992, Renamo trở thành một chính đảng hợp pháp. Cuộc tổng tuyển cử đa đảng được tổ chức năm 1994 và Frelimo, do Chissano lãnh đạo tái đắc cử. Năm 1995, Mozambique được thừa nhận thuộc khối thịnh vượng các nước. Sau 17 năm nội chiến cùng với nạn hạn hán, Mozambique trở thành một trong những nước nghèo nhất trên thế giới. Bạo loạn, đói kém liên tục diễn ra gây thiệt hại rất lớn cho nền kinh tế và chính trị của nước này."
       },
       {"k": "m", "t": "Thủ đô: Maputo."},
       {"k": "m", "t": "Diện tích: 802.000 km2"},
@@ -32979,9 +32979,9 @@
       {"k": "m", "t": "Tôn giáo: Tín ngưỡng truyền thống 47,8%; Cơ đốc 38,9%; Hồi giáo 13%."},
       {
         "k": "m",
-        "t": "Sắc tộc: Makura 47,3%; Tsonga 23,3%; Malawi 12%; Shona 11,3%; Yao 3,8%; Swahili 0,8%; Makonde 0,6%; Bồ Ðào Nha 0,2%."
+        "t": "Sắc tộc: Makura 47,3%; Tsonga 23,3%; Malawi 12%; Shona 11,3%; Yao 3,8%; Swahili 0,8%; Makonde 0,6%; Bồ Đào Nha 0,2%."
       },
-      {"k": "m", "t": "Ngôn ngữ: Tiếng Bồ Ðào Nha (chính thức), Makura, Tsonga, tiếng địa phương."},
+      {"k": "m", "t": "Ngôn ngữ: Tiếng Bồ Đào Nha (chính thức), Makura, Tsonga, tiếng địa phương."},
       {
         "k": "m",
         "t": "Gia nhập: Liên hiệp quốc, tổ chức thống nhất Châu Phi, SADC, khối các nước thịnh vượng."

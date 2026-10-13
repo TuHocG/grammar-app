@@ -164,7 +164,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Liên minh thuế quan tại Ðức, liên minh này bãi bỏ các rào cản thương mại và kinh tế giữa các vùng trong lãnh thổ nước Ðức vào thế kỉ 19. Cụ thể là năm 1818, Prussia đã hủy bỏ mức thuế nội địa và ký kết hiệp định thương mại tự do với vùng Darmstadt năm 1828. Cùng lúc ấy, các nơi khác như Bavaria, Wurttemberg và sau đó là L'altinate cũng đồng ý đi đến một nền thương mại tự do; tiến trình này lan rộng sang tận các vùng trung tâm nước Ðức. Nhằm gia tăng sức ảnh hưởng của mình, năm 1834 liên minh thuế quan vùng Bắc nước Ðức và một số nơi khác sáp nhập để thành lập một liên minh mới. Sau cuộc chiến tranh giữa Áo và Prussia năm 1866, một liên minh mới được hình thành (1888), thống nhất toàn bộ nền kinh tế nước Ðức."
+        "t": "Liên minh thuế quan tại Đức, liên minh này bãi bỏ các rào cản thương mại và kinh tế giữa các vùng trong lãnh thổ nước Đức vào thế kỉ 19. Cụ thể là năm 1818, Prussia đã hủy bỏ mức thuế nội địa và ký kết hiệp định thương mại tự do với vùng Darmstadt năm 1828. Cùng lúc ấy, các nơi khác như Bavaria, Wurttemberg và sau đó là L'altinate cũng đồng ý đi đến một nền thương mại tự do; tiến trình này lan rộng sang tận các vùng trung tâm nước Đức. Nhằm gia tăng sức ảnh hưởng của mình, năm 1834 liên minh thuế quan vùng Bắc nước Đức và một số nơi khác sáp nhập để thành lập một liên minh mới. Sau cuộc chiến tranh giữa Áo và Prussia năm 1866, một liên minh mới được hình thành (1888), thống nhất toàn bộ nền kinh tế nước Đức."
       }
     ],
     "k": "zollverein"
@@ -480,7 +480,7 @@
   },
   {
     "h": "zone electrophoresis",
-    "segs": [{"k": "m", "t": "Ðiện di vùng."}],
+    "segs": [{"k": "m", "t": "Điện di vùng."}],
     "k": "zone electrophoresis"
   },
   {
@@ -877,7 +877,7 @@
     ],
     "k": "zonetime"
   },
-  {"h": "zonifugal", "segs": [{"k": "m", "t": "Ði ra từ một vùng."}], "k": "zonifugal"},
+  {"h": "zonifugal", "segs": [{"k": "m", "t": "Đi ra từ một vùng."}], "k": "zonifugal"},
   {
     "h": "zoning",
     "segs": [
@@ -993,7 +993,7 @@
   {"h": "zonular", "segs": [{"k": "m", "t": "(thuộc) vùng, (thuộc) vòng."}], "k": "zonular"},
   {
     "h": "zonular cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh quanh nhân."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh quanh nhân."}],
     "k": "zonular cataract"
   },
   {
@@ -1159,7 +1159,7 @@
     "k": "zoogleal"
   },
   {"h": "zoogloea", "segs": [{"k": "m", "t": "Khuẩn lạc trong chất nhầy."}], "k": "zoogloea"},
-  {"h": "zoogonous", "segs": [{"k": "m", "t": "Ðẻ con."}], "k": "zoogonous"},
+  {"h": "zoogonous", "segs": [{"k": "m", "t": "Đẻ con."}], "k": "zoogonous"},
   {"h": "zoogony", "segs": [{"k": "m", "t": "(sự) đẻ con."}], "k": "zoogony"},
   {"h": "zoograft", "segs": [{"k": "m", "t": "Ghép mô động vật."}], "k": "zoograft"},
   {
@@ -1292,7 +1292,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hộp phóng đại. Trong giao diện người máy đồ họa, đây là một hộp-thường nằm trên khung cửa sổ-mà nếu bạn click chuột vào đó sẽ phóng đại cửa sổ đến hết cỡ hoặc phục hồi cửa sổ lại bình thường. Ðồng nghĩa với Maximize button."
+        "t": "hộp phóng đại. Trong giao diện người máy đồ họa, đây là một hộp-thường nằm trên khung cửa sổ-mà nếu bạn click chuột vào đó sẽ phóng đại cửa sổ đến hết cỡ hoặc phục hồi cửa sổ lại bình thường. Đồng nghĩa với Maximize button."
       }
     ],
     "k": "zoom box"
@@ -1448,7 +1448,7 @@
     ],
     "k": "zoonotic"
   },
-  {"h": "zooparasite", "segs": [{"k": "m", "t": "Ðộng vật ký sinh."}], "k": "zooparasite"},
+  {"h": "zooparasite", "segs": [{"k": "m", "t": "Động vật ký sinh."}], "k": "zooparasite"},
   {
     "h": "zooparasitic",
     "segs": [{"k": "m", "t": "(zoo-para-sit-ic) pertaining to or produced by zooparasites."}],
@@ -1544,7 +1544,7 @@
     "k": "zoophytical"
   },
   {"h": "zoopia", "segs": [{"k": "m", "t": "ảo thị súc vật."}], "k": "zoopia"},
-  {"h": "zooplankton", "segs": [{"k": "m", "t": "Ðộng vật nổi."}], "k": "zooplankton"},
+  {"h": "zooplankton", "segs": [{"k": "m", "t": "Động vật nổi."}], "k": "zooplankton"},
   {
     "h": "zooplastic",
     "segs": [
@@ -1779,7 +1779,7 @@
     "ipa": "zou'ɔtəmi",
     "k": "zootomy"
   },
-  {"h": "zootoxin", "segs": [{"k": "m", "t": "Ðộc tố động vật."}], "k": "zootoxin"},
+  {"h": "zootoxin", "segs": [{"k": "m", "t": "Độc tố động vật."}], "k": "zootoxin"},
   {"h": "zootrophic", "segs": [{"k": "m", "t": "(thuộc) dinh dưỡng động vật."}], "k": "zootrophic"},
   {
     "h": "zootrophotoxism",
@@ -1884,7 +1884,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những người theo tín ngưỡng tôn giáo thờ lửa, tín ngưỡng này được phổ biến bởi Zarthustra ở Persia vào thế kỉ thứ 6 trước công nguyên. Ðây là tín ngưỡng chính ở vùng Persia dưới triều đại Sassania (thế kỉ thứ 3-7 sau công nguyên) nhưng khi nơi này bị người Hồi giáo xâm lược, nhiều tín đồ phải ra đi vì bị ngược đãi. Rất ít tín đồ còn sót lại và họ có xu hướng di cư sang vùng bờ biển phía Tây Ấn Ðộ là Gujarat. Tuy nhiên nơi đây là lãnh địa của Hindu giáo vì vậy họ dễ dàng thích nghi với môi trường mới hay nói cách khác là gia nhập đạo Hindu. Ở đó, người ta gọi họ là Parsis (bắt nguồn từ chữ parsi ở vùng Persia). Ðặc điểm nổi bật nhất của đạo Zoroastris này là sự giữ gìn ngọn lửa thiêng và tập tục chôn cất người chết trên các đỉnh núi cao."
+        "t": "Những người theo tín ngưỡng tôn giáo thờ lửa, tín ngưỡng này được phổ biến bởi Zarthustra ở Persia vào thế kỉ thứ 6 trước công nguyên. Đây là tín ngưỡng chính ở vùng Persia dưới triều đại Sassania (thế kỉ thứ 3-7 sau công nguyên) nhưng khi nơi này bị người Hồi giáo xâm lược, nhiều tín đồ phải ra đi vì bị ngược đãi. Rất ít tín đồ còn sót lại và họ có xu hướng di cư sang vùng bờ biển phía Tây Ấn Độ là Gujarat. Tuy nhiên nơi đây là lãnh địa của Hindu giáo vì vậy họ dễ dàng thích nghi với môi trường mới hay nói cách khác là gia nhập đạo Hindu. Ở đó, người ta gọi họ là Parsis (bắt nguồn từ chữ parsi ở vùng Persia). Đặc điểm nổi bật nhất của đạo Zoroastris này là sự giữ gìn ngọn lửa thiêng và tập tục chôn cất người chết trên các đỉnh núi cao."
       }
     ],
     "k": "zoroastrians"

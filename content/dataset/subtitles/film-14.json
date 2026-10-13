@@ -51,13 +51,13 @@
     {
       "e": 47.09,
       "en": "My ear hurts. Let me take a look.",
-      "vi": "Tai tôi đau. Ðể tôi xem nào.",
+      "vi": "Tai tôi đau. Để tôi xem nào.",
       "s": 40.63
     },
     {
       "e": 52.34,
       "en": "Right, you have an ear infection.",
-      "vi": "Ðúng rồi, tai anh bị nhiễm trùng.",
+      "vi": "Đúng rồi, tai anh bị nhiễm trùng.",
       "s": 47.09
     },
     {"e": 60.05, "en": "...", "vi": "...", "s": 52.34},
@@ -301,7 +301,7 @@
     {
       "e": 416.42,
       "en": "Guess what I'm drawing?",
-      "vi": "Ðoán xem tôi đang vẽ gì nào?",
+      "vi": "Đoán xem tôi đang vẽ gì nào?",
       "s": 414.27
     },
     {
@@ -310,7 +310,7 @@
       "vi": "Tôi không biết, tôi không nhìn thấy.",
       "s": 416.42
     },
-    {"e": 423.97, "en": "It's a monster.", "vi": "Ðó là một con quái vật.", "s": 422.28},
+    {"e": 423.97, "en": "It's a monster.", "vi": "Đó là một con quái vật.", "s": 422.28},
     {
       "e": 430.54,
       "en": "A monster! How many arms does he have?",
@@ -338,7 +338,7 @@
       "s": 447.04
     },
     {"e": 453.09, "en": "Can I see him?", "vi": "Tôi có thể xem nó không?", "s": 448.95},
-    {"e": 454.8, "en": "Sure. Here.", "vi": "Ðược chứ, đây này.", "s": 453.09},
+    {"e": 454.8, "en": "Sure. Here.", "vi": "Được chứ, đây này.", "s": 453.09},
     {"e": 462.88, "en": "...", "vi": "...", "s": 454.8},
     {
       "e": 467.34,

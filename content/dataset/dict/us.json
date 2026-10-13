@@ -1580,7 +1580,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thân thiện với người dùng. Một chương trình hoặc một hệ máy tính được thiết kế sao cho những người không có kinh nghiệm nhiều, hoặc ít được huấn luyện về máy tính cũng có thể sử dụng được hệ thống mà không bị nhầm lẫn hoặc thất bại. Một chương trình rất thân thiện với người dùng thường bao gồm các yếu tố sau đây: dùng trình đơn thay cho lệnh mà bạn phải nhớ, luôn có sẵn trợ giúp màn hình mỗi khi ấn phím, các chức năng của chương trình được tổ chức trên bàn phím theo một trật tự logic và có thể tập thành thói quen, các thông báo lỗi có giải thích nguyên nhân và cách khắc phục, các tính năng trung gian và phức tạp được làm ẩn, không nhìn thấy, để khỏi gây rối màn hình và lẫn lộn cho những người mới học, đối với các lệnh xóa hoặc làm hỏng dữ liệu, màn hình có hiện những thông báo xác nhận để cảnh cáo bạn về các hậu quả nguy hiểm của lệnh và hướng dẫn cách thoát ra mà không làm cho tác vụ đó hoạt động, và các sưu liệu rõ, ngắn gọn cung cấp đủ hướng dẫn và các thông tin tham khảo. Lời khuyên: Ðối với những người ít kinh nghiệm tính thân thiện với người dùng cũng không bảo đảm sử dụng thành công chương trình đó. Không nên nóng ruột, hãy đọc kỹ các tài liệu hướng dẫn và phải qua thử thách-ngay cả bị thất bại-dần dần bạn sẽ trở nên có kinh nghiệm."
+        "t": "thân thiện với người dùng. Một chương trình hoặc một hệ máy tính được thiết kế sao cho những người không có kinh nghiệm nhiều, hoặc ít được huấn luyện về máy tính cũng có thể sử dụng được hệ thống mà không bị nhầm lẫn hoặc thất bại. Một chương trình rất thân thiện với người dùng thường bao gồm các yếu tố sau đây: dùng trình đơn thay cho lệnh mà bạn phải nhớ, luôn có sẵn trợ giúp màn hình mỗi khi ấn phím, các chức năng của chương trình được tổ chức trên bàn phím theo một trật tự logic và có thể tập thành thói quen, các thông báo lỗi có giải thích nguyên nhân và cách khắc phục, các tính năng trung gian và phức tạp được làm ẩn, không nhìn thấy, để khỏi gây rối màn hình và lẫn lộn cho những người mới học, đối với các lệnh xóa hoặc làm hỏng dữ liệu, màn hình có hiện những thông báo xác nhận để cảnh cáo bạn về các hậu quả nguy hiểm của lệnh và hướng dẫn cách thoát ra mà không làm cho tác vụ đó hoạt động, và các sưu liệu rõ, ngắn gọn cung cấp đủ hướng dẫn và các thông tin tham khảo. Lời khuyên: Đối với những người ít kinh nghiệm tính thân thiện với người dùng cũng không bảo đảm sử dụng thành công chương trình đó. Không nên nóng ruột, hãy đọc kỹ các tài liệu hướng dẫn và phải qua thử thách-ngay cả bị thất bại-dần dần bạn sẽ trở nên có kinh nghiệm."
       }
     ],
     "k": "user-friend"
@@ -1719,7 +1719,7 @@
       },
       {
         "k": "m",
-        "t": "Tài khoản người dùng chứa thông tin về người dùng, kể cả những hạn chế của họ trên mạng. Ví dụ, người dùng có thể chỉ truy cập được một máy trạm làm việc trên mạng hoặc chỉ trong một thời gian nhất định mà thôi. Nhóm (group) là tập những người dùng được quản trị viên tạo ra để đơn giản hóa việc quản lý người dùng. Ðưa một người dùng vào một nhóm, sau đó gán các quyền truy cập cho nhóm đó, là nhanh hơn so với việc gán những quyền này cho từng người dùng riêng lẻ. Nhóm cũng làm đơn giản hóa việc gởi/nhận bản tin. Ví dụ, gởi một bản tin đến một nhóm người là dễ dàng hơn so với gởi đến từng người trong nhóm đó. Người điều hành mạng cần tạo các nhóm người dùng, sau đó bổ sung người dùng mới vào các nhóm cho thích hợp."
+        "t": "Tài khoản người dùng chứa thông tin về người dùng, kể cả những hạn chế của họ trên mạng. Ví dụ, người dùng có thể chỉ truy cập được một máy trạm làm việc trên mạng hoặc chỉ trong một thời gian nhất định mà thôi. Nhóm (group) là tập những người dùng được quản trị viên tạo ra để đơn giản hóa việc quản lý người dùng. Đưa một người dùng vào một nhóm, sau đó gán các quyền truy cập cho nhóm đó, là nhanh hơn so với việc gán những quyền này cho từng người dùng riêng lẻ. Nhóm cũng làm đơn giản hóa việc gởi/nhận bản tin. Ví dụ, gởi một bản tin đến một nhóm người là dễ dàng hơn so với gởi đến từng người trong nhóm đó. Người điều hành mạng cần tạo các nhóm người dùng, sau đó bổ sung người dùng mới vào các nhóm cho thích hợp."
       },
       {
         "k": "m",
@@ -1751,7 +1751,7 @@
       },
       {
         "k": "m",
-        "t": "Hạn chế trạm (Station restrictions) Chỉ cho phép người dùng đăng nhập vào hệ thống từ một máy trạm đã chỉ định, mà không được từ nơi khác. Ðiều này tránh được việc người dùng đăng nhập từ trạm không được giám sát, trên đó những hoạt động của họ không thể theo dõi được. Trong Netware, những hạn chế này có thể gán cho từng tài khoản hoặc gán như thiết đặc mặc định và áp dụng được với các tài khoản mới tạo."
+        "t": "Hạn chế trạm (Station restrictions) Chỉ cho phép người dùng đăng nhập vào hệ thống từ một máy trạm đã chỉ định, mà không được từ nơi khác. Điều này tránh được việc người dùng đăng nhập từ trạm không được giám sát, trên đó những hoạt động của họ không thể theo dõi được. Trong Netware, những hạn chế này có thể gán cho từng tài khoản hoặc gán như thiết đặc mặc định và áp dụng được với các tài khoản mới tạo."
       }
     ],
     "k": "users and groups"
@@ -1874,7 +1874,7 @@
     "segs": [{"k": "m", "t": "Viết tắt của U.S. military education United States Naval Academy"}],
     "k": "usna"
   },
-  {"h": "Usnea", "segs": [{"k": "m", "t": "Ðịa y râu Usnea."}], "k": "usnea"},
+  {"h": "Usnea", "segs": [{"k": "m", "t": "Địa y râu Usnea."}], "k": "usnea"},
   {"h": "USNR", "segs": [{"k": "m", "t": "Viết tắt của United States Naval Reserve"}], "k": "usnr"},
   {"h": "USO", "segs": [{"k": "m", "t": "Viết tắt của United Service Organizations"}], "k": "uso"},
   {
@@ -1938,7 +1938,7 @@
   {"h": "Ustilago", "segs": [{"k": "m", "t": "Nấm than Uslilago."}], "k": "ustilago"},
   {"h": "ustion", "segs": [{"k": "m", "t": "Bỏng do đốt."}], "k": "ustion"},
   {"h": "ustulation", "segs": [{"k": "m", "t": "Sấy thuốc."}], "k": "ustulation"},
-  {"h": "ustus", "segs": [{"k": "m", "t": "Ðốt cháy, đốt thành than."}], "k": "ustus"},
+  {"h": "ustus", "segs": [{"k": "m", "t": "Đốt cháy, đốt thành than."}], "k": "ustus"},
   {"h": "usu.", "segs": [{"k": "m", "t": "Viết tắt của usually"}], "k": "usu."},
   {
     "h": "usual",

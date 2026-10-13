@@ -974,7 +974,7 @@
       {"k": "m", "t": "sứ quán"},
       {"k": "m", "t": "tòa đại sứ"},
       {"k": "ex", "t": "The American Embassy in", "vi": "Paris"},
-      {"k": "m", "t": "Ðại sứ quán Hoa Kỳ ở Pari"},
+      {"k": "m", "t": "Đại sứ quán Hoa Kỳ ở Pari"},
       {"k": "ex", "t": "embassy officials", "vi": "các quan chức đại sứ quán"},
       {"k": "m", "t": "đại diện được phái đến chính phủ nước ngoài"},
       {"k": "m", "t": "sứ thần"},
@@ -1175,7 +1175,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "lệnh tạo dạng được nhúng. Một loại lệnh tạo khuôn thức văn bản được đặt trực tiếp trong văn bản sẽ được định dạng. Trong một số chương trình, lệnh này không ảnh hưởng đến dáng vẻ của văn bản trên màn hình, điều đó làm cho việc sử dụng chương trình khó khăn hơn. Trong một số chương trình khác, như WordPerfect chẳng hạn, thì chỉ có vài ba lệnh nhúng-xếp chữ toàn bộ hoặc thay đổi phông chữ-là không làm thay đổi sự hiển thị màn hình. Các trình ứng dụng Windows và các phiên bản mới của các chương trình xử lý từ thông dụng của DOS có một cách hiển thị màn hình, trong đó việc định khuôn dạng được thể hiện ngay lập tức. Ðồng nghĩa với off-screen formatting."
+        "t": "lệnh tạo dạng được nhúng. Một loại lệnh tạo khuôn thức văn bản được đặt trực tiếp trong văn bản sẽ được định dạng. Trong một số chương trình, lệnh này không ảnh hưởng đến dáng vẻ của văn bản trên màn hình, điều đó làm cho việc sử dụng chương trình khó khăn hơn. Trong một số chương trình khác, như WordPerfect chẳng hạn, thì chỉ có vài ba lệnh nhúng-xếp chữ toàn bộ hoặc thay đổi phông chữ-là không làm thay đổi sự hiển thị màn hình. Các trình ứng dụng Windows và các phiên bản mới của các chương trình xử lý từ thông dụng của DOS có một cách hiển thị màn hình, trong đó việc định khuôn dạng được thể hiện ngay lập tức. Đồng nghĩa với off-screen formatting."
       }
     ],
     "k": "embedded formatting command"
@@ -1421,7 +1421,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phép nhúng của các không gian. Giả sử M là một không gian con của không gian Tôpô (X, (). Ánh xạ IM: M ( X xác định bởi: IM (x) = x với mọi x ( M. Ðược gọi là phép nhúng của không gian con M vào X. Ánh xạ đó là liên tục và tôpô cảm sinh (M là tôpô yếu nhất trên M để IM liên tục. Phép nhúng thường ký hiệu bởi I: M ( X. Các tính chất trong X sẽ cảm sinh ra các tính chất trong M."
+        "t": "phép nhúng của các không gian. Giả sử M là một không gian con của không gian Tôpô (X, (). Ánh xạ IM: M ( X xác định bởi: IM (x) = x với mọi x ( M. Được gọi là phép nhúng của không gian con M vào X. Ánh xạ đó là liên tục và tôpô cảm sinh (M là tôpô yếu nhất trên M để IM liên tục. Phép nhúng thường ký hiệu bởi I: M ( X. Các tính chất trong X sẽ cảm sinh ra các tính chất trong M."
       }
     ],
     "k": "embedding of apaces"
@@ -1830,7 +1830,7 @@
       {
         "k": "ex",
         "t": "To me, he embodied all the best qualities of a teacher",
-        "vi": "Ðối với tôi, ông ấy là hiện thân của tất cả các phẩm chất tốt đẹp nhất của nhà giáo"
+        "vi": "Đối với tôi, ông ấy là hiện thân của tất cả các phẩm chất tốt đẹp nhất của nhà giáo"
       },
       {"k": "m", "t": "bao gồm"},
       {
@@ -2681,7 +2681,7 @@
   },
   {
     "h": "embryonal nuclear cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh nhân phôi."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh nhân phôi."}],
     "k": "embryonal nuclear cataract"
   },
   {
@@ -2736,7 +2736,7 @@
     "k": "embryonic competence"
   },
   {"h": "embryonic disc", "segs": [{"k": "m", "t": "đĩa phôi."}], "k": "embryonic disc"},
-  {"h": "embryonic disk", "segs": [{"k": "m", "t": "Ðĩa phôi."}], "k": "embryonic disk"},
+  {"h": "embryonic disk", "segs": [{"k": "m", "t": "Đĩa phôi."}], "k": "embryonic disk"},
   {
     "h": "embryonic induction",
     "segs": [{"k": "m", "t": "Cảm ứng phôi."}],
@@ -2744,7 +2744,7 @@
   },
   {"h": "embryonic membrane", "segs": [{"k": "m", "t": "Màng phôi."}], "k": "embryonic membrane"},
   {"h": "embryonic sac", "segs": [{"k": "m", "t": "Túi phôi bì."}], "k": "embryonic sac"},
-  {"h": "embryonic spot", "segs": [{"k": "m", "t": "Ðiểm phôi."}], "k": "embryonic spot"},
+  {"h": "embryonic spot", "segs": [{"k": "m", "t": "Điểm phôi."}], "k": "embryonic spot"},
   {
     "h": "embryonic volcano",
     "segs": [{"k": "m", "t": "núi lửa phôi, núi lửa mầm."}],
@@ -4695,7 +4695,7 @@
     "k": "emery clothes"
   },
   {"h": "emery cutter", "segs": [{"k": "m", "t": "đá mài mịn."}], "k": "emery cutter"},
-  {"h": "emery disk", "segs": [{"k": "m", "t": "Ðĩa giấy ráp."}], "k": "emery disk"},
+  {"h": "emery disk", "segs": [{"k": "m", "t": "Đĩa giấy ráp."}], "k": "emery disk"},
   {"h": "emery dust", "segs": [{"k": "m", "t": "bột mài."}], "k": "emery dust"},
   {"h": "emery fillet", "segs": [{"k": "m", "t": "dải băng nhám."}], "k": "emery fillet"},
   {"h": "emery flour", "segs": [{"k": "m", "t": "bột mài."}], "k": "emery flour"},
@@ -4918,7 +4918,7 @@
   {
     "h": "EMI (Electronic Interference)",
     "segs": [
-      {"k": "m", "t": "Giao thoa Ðiện tử"},
+      {"k": "m", "t": "Giao thoa Điện tử"},
       {
         "k": "m",
         "t": "EMI là các sóng năng lượng phát ra từ các thiết bị điện tử và cáp dẫn. Các sóng này có thể giao thoa với sự vận hành của các thiết bị gần đó hay với bản thân quá trình truyền tải tín hiệu trong hệ thống cáp dẫn bên cạnh. Các thiết bị cơ điện phát ra các sóng tần số thấp, trong khi các chíp xử lý và các mạch tích hợp khác của máy tính phát ra các sóng tần số cao. Nếu sự phát sóng này đủ năng lượng và đủ gần với các thiết bị khác, thì chúng sẽ gây trở ngại đến các thiết bị đó. Các cơ quan điều chỉnh của Mỹ và quốc tế đưa ra các tiêu chuẩn để bảo đảm rằng các thiết bị không vượt quá các mức phát sóng cho phép. Tại Mỹ, FCC (Federal Communication Commission: UÒy ban truyền thông liên bang) quy định các mức bức xạ cho các thiết bị điện tử.."
@@ -5029,7 +5029,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1840-1892) một nhà vật lý người Ðức, ông là người thích nghiên cứu và khám phá. Ông gia nhập quân đội Ottoman (1865). Năm 1876, ông phục vụ dưới quyền tướng Gordon ở Khartown. Ông được dùng trong việc cai trị hành chính và ngoại giao. Năm 1878, ông nắm toàn quyền vùng thượng của sông Nile ở xứ Equatoria, nơi đó ông bãi bỏ chế độ nô lệ. Năm 1890, chính phủ Ðức dùng ông để cai trị Ðông Phi. Trong khi ông đang phục vụ nước Ðức thì ông bị một người Ả Rập đột nhập sát hại."
+        "t": "(1840-1892) một nhà vật lý người Đức, ông là người thích nghiên cứu và khám phá. Ông gia nhập quân đội Ottoman (1865). Năm 1876, ông phục vụ dưới quyền tướng Gordon ở Khartown. Ông được dùng trong việc cai trị hành chính và ngoại giao. Năm 1878, ông nắm toàn quyền vùng thượng của sông Nile ở xứ Equatoria, nơi đó ông bãi bỏ chế độ nô lệ. Năm 1890, chính phủ Đức dùng ông để cai trị Đông Phi. Trong khi ông đang phục vụ nước Đức thì ông bị một người Ả Rập đột nhập sát hại."
       }
     ],
     "k": "emin pasha"
@@ -5550,7 +5550,7 @@
   {"h": "emiting station", "segs": [{"k": "m", "t": "trạm phát xạ."}], "k": "emiting station"},
   {
     "h": "emitron camera",
-    "segs": [{"k": "m", "t": "(kỹ thuật) máy thu hình điện quang (ÐL), máy thu hình êmitron."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) máy thu hình điện quang (ĐL), máy thu hình êmitron."}],
     "k": "emitron camera"
   },
   {
@@ -5752,7 +5752,7 @@
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "bible Another spelling of Immanuel"}],
     "k": "emmanuel"
   },
-  {"h": "emmenagogic", "segs": [{"k": "m", "t": "Ðiều kinh."}], "k": "emmenagogic"},
+  {"h": "emmenagogic", "segs": [{"k": "m", "t": "Điều kinh."}], "k": "emmenagogic"},
   {
     "h": "emmenagogue",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(y) thuốc điều kinh."}],
@@ -6231,7 +6231,7 @@
   },
   {
     "h": "Empale or impale",
-    "segs": [{"k": "m", "t": "Ðâm xuyên/thủng (với cọc nhọn); xâu vào thanh xiên."}],
+    "segs": [{"k": "m", "t": "Đâm xuyên/thủng (với cọc nhọn); xâu vào thanh xiên."}],
     "k": "empale or impale"
   },
   {
@@ -6472,7 +6472,7 @@
   },
   {
     "h": "emphatic pronoun",
-    "segs": [{"k": "m", "t": "(dt) (ngữ) Ðại từ nhấn mạnh. emphatically [-kli] (pht)."}],
+    "segs": [{"k": "m", "t": "(dt) (ngữ) Đại từ nhấn mạnh. emphatically [-kli] (pht)."}],
     "k": "emphatic pronoun"
   },
   {
@@ -6712,7 +6712,7 @@
   },
   {
     "h": "empiric treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị theo kinh nghiệm chủ nghĩa."}],
+    "segs": [{"k": "m", "t": "Điều trị theo kinh nghiệm chủ nghĩa."}],
     "k": "empiric treatment"
   },
   {
@@ -6859,7 +6859,7 @@
   },
   {
     "h": "empirical treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị theo kinh nghiệm chủ nghĩa."}],
+    "segs": [{"k": "m", "t": "Điều trị theo kinh nghiệm chủ nghĩa."}],
     "k": "empirical treatment"
   },
   {
@@ -8106,7 +8106,7 @@
       {
         "k": "ex",
         "t": "Put your empties on the doorstep for the milkman",
-        "vi": "Ðặt các chai không của anh lên bậc cửa cho người đưa sữa (đến lấy)"
+        "vi": "Đặt các chai không của anh lên bậc cửa cho người đưa sữa (đến lấy)"
       },
       {"k": "pos", "t": "ngoại động từ"},
       {"k": "m", "t": "("},
@@ -8155,7 +8155,7 @@
       {
         "k": "ex",
         "t": "The Rhone empties into the Mediterranean",
-        "vi": "Sông Rhone đổ ra Ðịa Trung Hải"
+        "vi": "Sông Rhone đổ ra Địa Trung Hải"
       },
       {
         "k": "ex",
@@ -8598,7 +8598,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngày 13 tháng 7 năm 1870) Ðó là thông điệp của William I vua nước Phổ gởi cho quan chưởng Ấn bismarck. Bức thông điệp nhấn mạnh rằng phải cấp tốc mở cuộc chiến Pháp-Phổ. Thân nhân của hoàng tử Leopold xứ Hohenzollern Sigmaringen đã nhận một lễ vật để đưa đến cho vua Tây Ban Nha. Pháp thấy thế nên sợ hãi và Napoleon III đã tuyên chiến với Phổ. Kết quả là Pháp bị bại trận và đế chế Ðức thứ 2 được thành lập."
+        "t": "(ngày 13 tháng 7 năm 1870) Đó là thông điệp của William I vua nước Phổ gởi cho quan chưởng Ấn bismarck. Bức thông điệp nhấn mạnh rằng phải cấp tốc mở cuộc chiến Pháp-Phổ. Thân nhân của hoàng tử Leopold xứ Hohenzollern Sigmaringen đã nhận một lễ vật để đưa đến cho vua Tây Ban Nha. Pháp thấy thế nên sợ hãi và Napoleon III đã tuyên chiến với Phổ. Kết quả là Pháp bị bại trận và đế chế Đức thứ 2 được thành lập."
       }
     ],
     "k": "ems telegram"

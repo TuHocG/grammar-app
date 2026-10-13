@@ -321,7 +321,7 @@
   {"h": "krausen", "segs": [{"k": "m", "t": "sủi bọt men bia."}], "k": "krausen"},
   {
     "h": "kraut",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(khinh miệt) tên Ðức."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(khinh miệt) tên Đức."}],
     "ipa": "kraut",
     "k": "kraut"
   },
@@ -406,14 +406,14 @@
     "h": "kreutzer",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "đồng tiền nhỏ, trước đây dùng ở Áo và Ðức."}
+      {"k": "m", "t": "đồng tiền nhỏ, trước đây dùng ở Áo và Đức."}
     ],
     "ipa": "'krɔitsə",
     "k": "kreutzer"
   },
   {
     "h": "kreuzer",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đồng tiền nhỏ trước dùng ở Ðức."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đồng tiền nhỏ trước dùng ở Đức."}],
     "ipa": "'krɔitsə",
     "k": "kreuzer"
   },
@@ -557,7 +557,7 @@
     "h": "krona",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(số nhiều kronor) đồng curon Thụy Ðiển"},
+      {"k": "m", "t": "(số nhiều kronor) đồng curon Thụy Điển"},
       {"k": "m", "t": "(số nhiều kronur) đơn vị tiền tệ Iceland."}
     ],
     "ipa": "'krounə",
@@ -576,8 +576,8 @@
     "h": "krone",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "đồng curon (bằng bạc ở Ðan Mạch, Na Uy, Thụy Ðiển, Áo"},
-      {"k": "m", "t": "bằng vàng ở Ðức xưa, giá trị là 10 mác)."}
+      {"k": "m", "t": "đồng curon (bằng bạc ở Đan Mạch, Na Uy, Thụy Điển, Áo"},
+      {"k": "m", "t": "bằng vàng ở Đức xưa, giá trị là 10 mác)."}
     ],
     "ipa": "'krounə",
     "k": "krone"
@@ -638,7 +638,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(năm 1921) cuộc nổi loạn chống lại Ðảng Bolsheviks năm 1917 nhưng vào tháng 3 năm 1921, thủy thủ đứng lên chống lại chế độ Cộng Sản độc tài, họ đòi tự do chính trị và kinh tế."
+        "t": "(năm 1921) cuộc nổi loạn chống lại Đảng Bolsheviks năm 1917 nhưng vào tháng 3 năm 1921, thủy thủ đứng lên chống lại chế độ Cộng Sản độc tài, họ đòi tự do chính trị và kinh tế."
       },
       {
         "k": "m",

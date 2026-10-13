@@ -28,7 +28,7 @@
     {
       "e": 24.65,
       "en": "Good. And what is your phone number?",
-      "vi": "Ðược rồi. Và số điện thoại của ông là bao nhiêu?",
+      "vi": "Được rồi. Và số điện thoại của ông là bao nhiêu?",
       "s": 21.07
     },
     {"e": 29.1, "en": "543-2100.", "vi": "543-2100.", "s": 24.65},
@@ -43,7 +43,7 @@
     {
       "e": 49.56,
       "en": "You are a thief. OK. Next!",
-      "vi": "Ông là một tên trộm. Ðược rồi. Người tiếp theo!",
+      "vi": "Ông là một tên trộm. Được rồi. Người tiếp theo!",
       "s": 43.4
     },
     {"e": 52.61, "en": "...", "vi": "...", "s": 49.56},
@@ -72,7 +72,7 @@
     {
       "e": 83.38,
       "en": "Sure. It's 432- Umm... oh, excuse me, Bob.",
-      "vi": "Ðược ạ. Số 432 ồ xin lỗi Bob.",
+      "vi": "Được ạ. Số 432 ồ xin lỗi Bob.",
       "s": 76.01
     },
     {"e": 86.07, "en": "Bye, Judy.", "vi": "Tạm biệt Judy.", "s": 83.38},
@@ -102,7 +102,7 @@
     {
       "e": 145.34,
       "en": "I don't know. Wait a minute.",
-      "vi": "Mình không biết nữa. Ðợi chút.",
+      "vi": "Mình không biết nữa. Đợi chút.",
       "s": 142.98
     },
     {
@@ -140,7 +140,7 @@
     {
       "e": 175.99,
       "en": "Bill, the number is 632-5401. OK?",
-      "vi": "Bill nè, số điện thoại là 632-5401. Ðược chưa?",
+      "vi": "Bill nè, số điện thoại là 632-5401. Được chưa?",
       "s": 168.63
     },
     {"e": 179.92, "en": "632-5401.", "vi": "632-5401.", "s": 175.99},
@@ -199,7 +199,7 @@
     {
       "e": 241.41,
       "en": "How expensive? I... don't know. Why?",
-      "vi": "Ðắt đỏ à? Mình không biết nữa. Sao vậy?",
+      "vi": "Đắt đỏ à? Mình không biết nữa. Sao vậy?",
       "s": 235.82
     },
     {
@@ -235,7 +235,7 @@
     {
       "e": 277.68,
       "en": "And the food? How expensive is the food?",
-      "vi": "Thế còn đồ ăn? Ðắt không?",
+      "vi": "Thế còn đồ ăn? Đắt không?",
       "s": 273.95
     },
     {
@@ -286,7 +286,7 @@
       "s": 311.29
     },
     {"e": 316.91, "en": "I don't know.", "vi": "Tôi không biết.", "s": 315.77},
-    {"e": 318.78, "en": "What's that?", "vi": "Ðó là gì vậy?", "s": 316.91},
+    {"e": 318.78, "en": "What's that?", "vi": "Đó là gì vậy?", "s": 316.91},
     {
       "e": 321.5,
       "en": "It's my comic book. I lost it last week.",
@@ -304,7 +304,7 @@
     {"e": 357.5, "en": "Oh, I don't know.", "vi": "Tôi không biết nữa.", "s": 354.74},
     {"e": 359.26, "en": "How long?", "vi": "Bao lâu?", "s": 357.5},
     {"e": 360.84, "en": "Oh, a few minutes.", "vi": "Ồ chỉ vài phút thôi.", "s": 359.26},
-    {"e": 362.25, "en": "OK. Go in.", "vi": "Ðược rồi vào đi.", "s": 360.84},
+    {"e": 362.25, "en": "OK. Go in.", "vi": "Được rồi vào đi.", "s": 360.84},
     {"e": 377.94, "en": "...", "vi": "...", "s": 362.25},
     {
       "e": 383.37,
@@ -364,7 +364,7 @@
       "vi": "Ồ tốt. Cô uống thêm một ly nữa nhé?",
       "s": 426.65
     },
-    {"e": 432.05, "en": "Do we have time?", "vi": "Ðược không cô?", "s": 429.81},
+    {"e": 432.05, "en": "Do we have time?", "vi": "Được không cô?", "s": 429.81},
     {"e": 433.96, "en": "I don't know.", "vi": "Tôi không biết nữa.", "s": 432.05},
     {"e": 436.02, "en": "Excuse me, waiter.", "vi": "Xin lỗi, anh phục vụ ơi.", "s": 433.96},
     {"e": 437.37, "en": "Yes, sir?", "vi": "Vâng thưa ông.", "s": 436.02},

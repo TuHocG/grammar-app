@@ -732,7 +732,7 @@
   {"h": "focal disease", "segs": [{"k": "m", "t": "Bệnh cư trú ở ổ."}], "k": "focal disease"},
   {"h": "focal distance", "segs": [{"k": "m", "t": "tiêu cự."}], "k": "focal distance"},
   {"h": "focal ellipse", "segs": [{"k": "m", "t": "elip tiêu."}], "k": "focal ellipse"},
-  {"h": "focal epilepsy", "segs": [{"k": "m", "t": "Ðộng kinh cục bộ."}], "k": "focal epilepsy"},
+  {"h": "focal epilepsy", "segs": [{"k": "m", "t": "Động kinh cục bộ."}], "k": "focal epilepsy"},
   {"h": "focal hyperbola", "segs": [{"k": "m", "t": "hyperbol tiêu."}], "k": "focal hyperbola"},
   {
     "h": "focal infection",
@@ -2025,7 +2025,7 @@
         "t": "The play folded up after two days:",
         "vi": "Vở kịch không diễn nữa sau hai ngày."
       },
-      {"k": "ex", "t": "It's time to fold up and go home:", "vi": "Ðã đến giờ kết thúc và về nhà."}
+      {"k": "ex", "t": "It's time to fold up and go home:", "vi": "Đã đến giờ kết thúc và về nhà."}
     ],
     "k": "fold up"
   },
@@ -2823,7 +2823,7 @@
   },
   {
     "h": "folium of Descartes",
-    "segs": [{"k": "m", "t": "lá Descartes (Ðề các) (đồ thị x3 + y3 = 3axy)."}],
+    "segs": [{"k": "m", "t": "lá Descartes (Đề các) (đồ thị x3 + y3 = 3axy)."}],
     "k": "folium of descartes"
   },
   {
@@ -3717,7 +3717,7 @@
   },
   {
     "h": "follow-up care",
-    "segs": [{"k": "m", "t": "Ðiều trị sau khi ra viện."}],
+    "segs": [{"k": "m", "t": "Điều trị sau khi ra viện."}],
     "k": "follow-up care"
   },
   {
@@ -3815,7 +3815,7 @@
       {
         "k": "ex",
         "t": "our Party has a large following in the south",
-        "vi": "Ðảng của chúng ta có lực lượng ủng hộ lớn ở miền nam"
+        "vi": "Đảng của chúng ta có lực lượng ủng hộ lớn ở miền nam"
       },
       {"k": "m", "t": "("},
       {"k": "ex", "t": "the following", "vi": ") những người sau đây, những thứ sau đây"},
@@ -3998,13 +3998,13 @@
     "ipa": "fou'mentə",
     "k": "fomenter"
   },
-  {"h": "fomes", "segs": [{"k": "m", "t": "Ðồ vật truyền bệnh."}], "k": "fomes"},
+  {"h": "fomes", "segs": [{"k": "m", "t": "Đồ vật truyền bệnh."}], "k": "fomes"},
   {
     "h": "Fomes peccati",
     "segs": [{"k": "m", "t": "Bả tội lỗi, sức cám dỗ của tội lỗi."}],
     "k": "fomes peccati"
   },
-  {"h": "fomite", "segs": [{"k": "m", "t": "Ðồ vật truyền bệnh."}], "k": "fomite"},
+  {"h": "fomite", "segs": [{"k": "m", "t": "Đồ vật truyền bệnh."}], "k": "fomite"},
   {
     "h": "fomites",
     "segs": [
@@ -6258,7 +6258,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) (snh) Các đồi thấp dưới chân núi. foothold (dt) (a) Chỗ để chân, chỗ đứng. (b)(bóng) Ðịa vị chắc chắn, vị trí chắc chắn (trong công ty...)"
+        "t": "(dt) (snh) Các đồi thấp dưới chân núi. foothold (dt) (a) Chỗ để chân, chỗ đứng. (b)(bóng) Địa vị chắc chắn, vị trí chắc chắn (trong công ty...)"
       }
     ],
     "k": "foothills"
@@ -7275,12 +7275,12 @@
       {
         "k": "ex",
         "t": "For openers, they played a song everyone knows:",
-        "vi": "Ðể mở màn; họ trình diễn một bài hát mà ai cũng biết."
+        "vi": "Để mở màn; họ trình diễn một bài hát mà ai cũng biết."
       },
       {
         "k": "ex",
         "t": "For starters, I'll serve a delicious soup:",
-        "vi": "Ðể bắt đầu, tôi sẽ phục vụ một món súp ngon."
+        "vi": "Để bắt đầu, tôi sẽ phục vụ một món súp ngon."
       }
     ],
     "k": "for openers"
@@ -8466,11 +8466,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "tên gọi tắt của các đạo luật tăng cường quyền lực của liên bang Hoa Kỳ. Năm 1833, một đạo luật như thế được quốc hội Mỹ thông qua để ngăn chặn việc cắt giảm quyền lực của tổng thống. Ðạo luật này tăng cường quyền lực cho tổng thống Jackson khi cần hỗ trợ quân đội và hải quân. Từ năm 1870 đến 1875, đã có 4 đạo luật tăng cường quyền lực được quốc hội thông qua để bãi bỏ quyền xác nhận của Nam Mỹ về 4 việc sau đây."
+        "t": "tên gọi tắt của các đạo luật tăng cường quyền lực của liên bang Hoa Kỳ. Năm 1833, một đạo luật như thế được quốc hội Mỹ thông qua để ngăn chặn việc cắt giảm quyền lực của tổng thống. Đạo luật này tăng cường quyền lực cho tổng thống Jackson khi cần hỗ trợ quân đội và hải quân. Từ năm 1870 đến 1875, đã có 4 đạo luật tăng cường quyền lực được quốc hội thông qua để bãi bỏ quyền xác nhận của Nam Mỹ về 4 việc sau đây."
       },
-      {"k": "m", "t": "Ðạo luật quyền dân sự (1866)"},
-      {"k": "m", "t": "Ðạo luật bổ sung thứ 14"},
-      {"k": "m", "t": "Ðạo luật bổ sung thứ 15"},
+      {"k": "m", "t": "Đạo luật quyền dân sự (1866)"},
+      {"k": "m", "t": "Đạo luật bổ sung thứ 14"},
+      {"k": "m", "t": "Đạo luật bổ sung thứ 15"},
       {
         "k": "m",
         "t": "Cuộc bầu cử của quốc hội phải đặt dưới sự kiểm soát của quốc gia và những đạo luật về tổ chức quân đội ví dụ như Ku klux Klan (3K) bị coi là nổi loạn."
@@ -11561,7 +11561,7 @@
   },
   {
     "h": "foreign investment",
-    "segs": [{"k": "m", "t": "1. Ðầu tư của nước ngoài 2. Ðầu tư ra nước ngoài."}],
+    "segs": [{"k": "m", "t": "1. Đầu tư của nước ngoài 2. Đầu tư ra nước ngoài."}],
     "k": "foreign investment"
   },
   {
@@ -14130,7 +14130,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hàm tử quên. Giả sử P là một phạm trù mà các vật là các tập hợp có trang bị một cấu trúc xác định (nhóm, vành, R-môđun...), các mũi tên là các ánh xạ bảo toàn cấu trúc (các đồng cấu). Hàm tử quên Q: P ( ( cho ứng mỗi vật A của P với tập nền của nó, mỗi mũi tên trong P với ánh xạ nền trên tập nền của nó. Ðó là một hàm tử hiệp biến."
+        "t": "hàm tử quên. Giả sử P là một phạm trù mà các vật là các tập hợp có trang bị một cấu trúc xác định (nhóm, vành, R-môđun...), các mũi tên là các ánh xạ bảo toàn cấu trúc (các đồng cấu). Hàm tử quên Q: P ( ( cho ứng mỗi vật A của P với tập nền của nó, mỗi mũi tên trong P với ánh xạ nền trên tập nền của nó. Đó là một hàm tử hiệp biến."
       }
     ],
     "k": "forgetful functor"
@@ -14645,7 +14645,7 @@
       {
         "k": "ex",
         "t": "Fork over that twenty dollars you owe me:",
-        "vi": "Ðược, Joe. hãy đưa 20 đô-la cậu thiếu tớ đây."
+        "vi": "Được, Joe. hãy đưa 20 đô-la cậu thiếu tớ đây."
       }
     ],
     "k": "fork something over"
@@ -15020,7 +15020,7 @@
       {
         "k": "ex",
         "t": "Don't tell me how to think! I can form my own opinion:",
-        "vi": "Ðừng bảo tôi phải suy nghĩ như thế nào! Tôi có thể quyết định chọn ý kiến riêng của mình."
+        "vi": "Đừng bảo tôi phải suy nghĩ như thế nào! Tôi có thể quyết định chọn ý kiến riêng của mình."
       },
       {
         "k": "ex",
@@ -17156,7 +17156,7 @@
   {"h": "formolite test", "segs": [{"k": "m", "t": "sự thử độ foócmôlít."}], "k": "formolite test"},
   {
     "h": "formosan rhesus monkey",
-    "segs": [{"k": "m", "t": "Khỉ redut Ðài Loan Macaca, cyclopis."}],
+    "segs": [{"k": "m", "t": "Khỉ redut Đài Loan Macaca, cyclopis."}],
     "k": "formosan rhesus monkey"
   },
   {
@@ -18013,7 +18013,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đồn Stanwix, do một vị tướng Mỹ tên là John Stanwix đặt tên cho đồn này. Ðây là một cứ điểm quân sự thuộc địa của Mỹ. Nó cũng là trung tâm thương mại tọa lạc giữa thượng nguồn sông Mohawk và Wood Creek. Ðồn được xây cất lại, lúc khởi đầu cuộc chiến tranh giành độc lập. Ðồn Stanwix chủ yếu được ghi nhớ vì người Mỹ đã ký được hai hiệp ước với dân bản địa tại đồn này vào năm 1768 và 1784. Hiệp ước năm 1784, dân bản địa Iroquois nhường lãnh thổ Pennsylvania cho chính phủ Mỹ."
+        "t": "đồn Stanwix, do một vị tướng Mỹ tên là John Stanwix đặt tên cho đồn này. Đây là một cứ điểm quân sự thuộc địa của Mỹ. Nó cũng là trung tâm thương mại tọa lạc giữa thượng nguồn sông Mohawk và Wood Creek. Đồn được xây cất lại, lúc khởi đầu cuộc chiến tranh giành độc lập. Đồn Stanwix chủ yếu được ghi nhớ vì người Mỹ đã ký được hai hiệp ước với dân bản địa tại đồn này vào năm 1768 và 1784. Hiệp ước năm 1784, dân bản địa Iroquois nhường lãnh thổ Pennsylvania cho chính phủ Mỹ."
       }
     ],
     "k": "fort stanwix"
@@ -21267,7 +21267,7 @@
       {
         "k": "ex",
         "t": "The football team got fouled up and lost the game:",
-        "vi": "Ðội bóng đá bị rối loạn và thua trận đấu."
+        "vi": "Đội bóng đá bị rối loạn và thua trận đấu."
       }
     ],
     "k": "fouled up"
@@ -22166,7 +22166,7 @@
       },
       {
         "k": "m",
-        "t": "Washington được bầu làm chủ tịch hội đồng và William Jackson làm thư ký. Những biên bản của Jackson thì sơ sài, những biên bản báo cáo về cuộc thảo luận trong hội đồng do ông Madison ghi chép (và cả những ghi chép của một số đại biểu khác) cũng được toàn thể hội đồng nhất trí giữ bí mật. Ðến năm 1840, tức là 53 năm sau, những bí mật này mới được công bố."
+        "t": "Washington được bầu làm chủ tịch hội đồng và William Jackson làm thư ký. Những biên bản của Jackson thì sơ sài, những biên bản báo cáo về cuộc thảo luận trong hội đồng do ông Madison ghi chép (và cả những ghi chép của một số đại biểu khác) cũng được toàn thể hội đồng nhất trí giữ bí mật. Đến năm 1840, tức là 53 năm sau, những bí mật này mới được công bố."
       }
     ],
     "k": "founding fathers"
@@ -22199,7 +22199,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "trại trẻ mồ côi. Ở Milan có một trại trẻ mồ côi được biết đến vào đầu thế kỷ thứ 8. Một số trại khác được thành lập ở Châu Âu. Nổi tiếng nhất là trại ở Paris năm 1670. Năm 1739, ở Luân Ðôn ông Thomas Coram thành lập một trại, đây là trại đầu tiên dành cho những đứa con hoang."
+        "t": "trại trẻ mồ côi. Ở Milan có một trại trẻ mồ côi được biết đến vào đầu thế kỷ thứ 8. Một số trại khác được thành lập ở Châu Âu. Nổi tiếng nhất là trại ở Paris năm 1670. Năm 1739, ở Luân Đôn ông Thomas Coram thành lập một trại, đây là trại đầu tiên dành cho những đứa con hoang."
       }
     ],
     "k": "foundling hospital"
@@ -22537,11 +22537,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(bốn hiện đại hóa). Sau thời kỳ Mao Trạch Ðông, Trung Quốc phát triển bằng bốn hiện đại hóa. Ðó là nông nghiệp, công nghiệp, quốc phòng và khoa học kỹ thuật. Những điều này đã được Mao Trạch Ðông nhấn mạnh vào năm 1962, nhưng ý thức hệ trong cuộc cách mạng văn hóa vẫn được coi là quan trọng hơn phát triển."
+        "t": "(bốn hiện đại hóa). Sau thời kỳ Mao Trạch Đông, Trung Quốc phát triển bằng bốn hiện đại hóa. Đó là nông nghiệp, công nghiệp, quốc phòng và khoa học kỹ thuật. Những điều này đã được Mao Trạch Đông nhấn mạnh vào năm 1962, nhưng ý thức hệ trong cuộc cách mạng văn hóa vẫn được coi là quan trọng hơn phát triển."
       },
       {
         "k": "m",
-        "t": "Kinh tế: sau khi Ðặng Tiểu Bình lên nắm quyền, bốn hiện đại hóa được đặt ưu tiên. Huấn luyện những nhà khoa học, kỹ sư, quản lý và cải cách nông nghiệp. Bằng cách trao quyền hành từ tập thể sang tay những cá nhân chịu trách nhiệm."
+        "t": "Kinh tế: sau khi Đặng Tiểu Bình lên nắm quyền, bốn hiện đại hóa được đặt ưu tiên. Huấn luyện những nhà khoa học, kỹ sư, quản lý và cải cách nông nghiệp. Bằng cách trao quyền hành từ tập thể sang tay những cá nhân chịu trách nhiệm."
       }
     ],
     "k": "four modernizations"
@@ -23734,7 +23734,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1768-1830) nhà toán học Pháp, viện sĩ danh dự nước ngoài Viện hàn lâm khoa học Pétersbourg (1829), viện sĩ Viện hàn lâm khoa học Paris (1817). Sau khi tốt nghiệp trường võ bị ở Auxerre, ông giảng dạy ngay tại đó. Vao những năm 1796-1798 ông dạy tại trường Ðại học bách khoa ở Paris. Năm 1796 cùng với những nhà bác học khác ông tham gia vào cuộc viễn chinh sang Ai Cập của Napoléon Bonaparte. Vào những năm 1802-1815 ông làm tỉnh trưởng tỉnh Yzeure. Năm 1817 ông trở về Paris. Những công trình đầu tiên của Fourier thuộc về đại số. Ngay từ 1796 trong các bài giảng ông đã trình bày định lý về các số nghiệm thực của một phương trình đại số, nằm giữa những giới hạn cho trước (công bố năm 1820). Tác phẩm \"Phân tích các phương trình xác định\" (1831) là kết quả nghiên cứu của Fourier về các phương pháp giải bằng số các phương trình. Lĩnh vực công tác chủ yếu của Fourier là vật lý toán. Năm 1822 ông công bố công trình nổi tiếng \"Lý thuyết giải tích về nhiệt\", công trình này đóng một vai trò to lớn trong sự phát triển sau này của toán học. Trong tác phẩm đó Fourier đã đưa ra phương trình vi phân của độ dẫn nhiệt, để giải phương trình độ dẫn nhiệt trong những điều kiện giới hạn này khác, ông soạn thảo phương pháp tách biến số (thường gọi là phương pháp Fourier) mà ông áp dụng hàng loạt những trường hợp riêng (hình lập phương, hình trụ v.v...). Phương pháp đó làm cơ sở cho phép biểu diễn các hàm bằng những chuỗi lượng giác Fourier, những chuỗi này, tuy rằng trước đây đã đôi lần được biết đến, nhưng chỉ ở Fourier chúng mới thực sự trở thành một công cụ có hiệu lực và quan trọng của vật lý toán. \"Lý thuyết giải tích về nhiệt\" là khởi đầu của việc xây dựng lý thuyết chuỗi lượng giác và việc soạn thảo một số vấn đề chung của giải tích toán học. Fourier nêu ra những thí dụ đầu tiên về giải tích khác nhau bằng những giải tích khác nhau, thành những chuỗi lượng giác Fourier. Bằng cách đó ông đã đóng góp phần quan trọng vào việc giải quyết cuộc tranh luận nổi tiếng về khái niệm hàm, trong đó các nhà toán học lớn nhất thế kỷ 18 đều có tham gia. Ông toan tính chứng minh rằng mọi hàm bất kỳ đều có thể khai triển thành chuỗi lượng giác Fourier, nhưng không thành, tuy nhiên, ông cũng đã mở đầu cho một loạt công trình nghiên cứu dành cho các vấn đề khả năng biểu diễn một hàm bằng những chuỗi và tích phân lượng giác (tích phân Fourier). Những công trình đó gắn liện với sự nảy sinh ra lý thuyết tập hợp và lý thuyết hàm biến số thực."
+        "t": "(1768-1830) nhà toán học Pháp, viện sĩ danh dự nước ngoài Viện hàn lâm khoa học Pétersbourg (1829), viện sĩ Viện hàn lâm khoa học Paris (1817). Sau khi tốt nghiệp trường võ bị ở Auxerre, ông giảng dạy ngay tại đó. Vao những năm 1796-1798 ông dạy tại trường Đại học bách khoa ở Paris. Năm 1796 cùng với những nhà bác học khác ông tham gia vào cuộc viễn chinh sang Ai Cập của Napoléon Bonaparte. Vào những năm 1802-1815 ông làm tỉnh trưởng tỉnh Yzeure. Năm 1817 ông trở về Paris. Những công trình đầu tiên của Fourier thuộc về đại số. Ngay từ 1796 trong các bài giảng ông đã trình bày định lý về các số nghiệm thực của một phương trình đại số, nằm giữa những giới hạn cho trước (công bố năm 1820). Tác phẩm \"Phân tích các phương trình xác định\" (1831) là kết quả nghiên cứu của Fourier về các phương pháp giải bằng số các phương trình. Lĩnh vực công tác chủ yếu của Fourier là vật lý toán. Năm 1822 ông công bố công trình nổi tiếng \"Lý thuyết giải tích về nhiệt\", công trình này đóng một vai trò to lớn trong sự phát triển sau này của toán học. Trong tác phẩm đó Fourier đã đưa ra phương trình vi phân của độ dẫn nhiệt, để giải phương trình độ dẫn nhiệt trong những điều kiện giới hạn này khác, ông soạn thảo phương pháp tách biến số (thường gọi là phương pháp Fourier) mà ông áp dụng hàng loạt những trường hợp riêng (hình lập phương, hình trụ v.v...). Phương pháp đó làm cơ sở cho phép biểu diễn các hàm bằng những chuỗi lượng giác Fourier, những chuỗi này, tuy rằng trước đây đã đôi lần được biết đến, nhưng chỉ ở Fourier chúng mới thực sự trở thành một công cụ có hiệu lực và quan trọng của vật lý toán. \"Lý thuyết giải tích về nhiệt\" là khởi đầu của việc xây dựng lý thuyết chuỗi lượng giác và việc soạn thảo một số vấn đề chung của giải tích toán học. Fourier nêu ra những thí dụ đầu tiên về giải tích khác nhau bằng những giải tích khác nhau, thành những chuỗi lượng giác Fourier. Bằng cách đó ông đã đóng góp phần quan trọng vào việc giải quyết cuộc tranh luận nổi tiếng về khái niệm hàm, trong đó các nhà toán học lớn nhất thế kỷ 18 đều có tham gia. Ông toan tính chứng minh rằng mọi hàm bất kỳ đều có thể khai triển thành chuỗi lượng giác Fourier, nhưng không thành, tuy nhiên, ông cũng đã mở đầu cho một loạt công trình nghiên cứu dành cho các vấn đề khả năng biểu diễn một hàm bằng những chuỗi và tích phân lượng giác (tích phân Fourier). Những công trình đó gắn liện với sự nảy sinh ra lý thuyết tập hợp và lý thuyết hàm biến số thực."
       }
     ],
     "k": "fourier joseph"

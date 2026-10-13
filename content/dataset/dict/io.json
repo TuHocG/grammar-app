@@ -789,7 +789,7 @@
     "k": "ionic breakdown"
   },
   {"h": "ionic carrier", "segs": [{"k": "m", "t": "chất mang ion."}], "k": "ionic carrier"},
-  {"h": "ionic charge", "segs": [{"k": "m", "t": "Ðiện tích ion."}], "k": "ionic charge"},
+  {"h": "ionic charge", "segs": [{"k": "m", "t": "Điện tích ion."}], "k": "ionic charge"},
   {"h": "ionic cloud", "segs": [{"k": "m", "t": "mây ion."}], "k": "ionic cloud"},
   {
     "h": "ionic column",

@@ -12,7 +12,7 @@
       {
         "a": "Late? I'm not late.",
         "b": "You're twenty minutes late already.",
-        "avi": "Trễ? Ðâu có trễ.",
+        "avi": "Trễ? Đâu có trễ.",
         "bvi": "Bạn đã trễ hai mươi phút rồi."
       },
       {
@@ -96,8 +96,8 @@
       {
         "a": "Does she cook dinner every night?",
         "b": "Yes, but only when it's raining.",
-        "avi": "Ðêm nào cô ấy cũng nấu bữa ăn tối hả?",
-        "bvi": "Ðúng, nhưng chỉ khi trời mưa thôi."
+        "avi": "Đêm nào cô ấy cũng nấu bữa ăn tối hả?",
+        "bvi": "Đúng, nhưng chỉ khi trời mưa thôi."
       },
       {
         "a": "No, I'll do them now.",
@@ -204,7 +204,7 @@
       {
         "a": "That's very hard to do.",
         "b": "But it is not impossible.",
-        "avi": "Ðiều đó rất khó thực hiện.",
+        "avi": "Điều đó rất khó thực hiện.",
         "bvi": "Nhưng không phải là không thể."
       }
     ]
@@ -217,12 +217,12 @@
         "a": "No one would do that.",
         "b": "It's not difficult at all.",
         "avi": "Sẽ chẳng ai làm điều đó đâu.",
-        "bvi": "Ðiều đó chẳng có gì khó cả."
+        "bvi": "Điều đó chẳng có gì khó cả."
       },
       {
         "a": "It's not difficult at all.",
         "b": "Nobody knows that, except him.",
-        "avi": "Ðiều đó chẳng có gì khó cả.",
+        "avi": "Điều đó chẳng có gì khó cả.",
         "bvi": "Không ai biết điều đó, ngoại trừ anh ta."
       },
       {
@@ -379,7 +379,7 @@
         "a": "He told me that life can be short.",
         "b": "This is the good life!",
         "avi": "Ông ấy bảo tôi rằng cuộc sống đôi khi ngắn ngủi.",
-        "bvi": "Ðây mới đúng là cuộc sống tuyệt vời!"
+        "bvi": "Đây mới đúng là cuộc sống tuyệt vời!"
       },
       {
         "a": "Why would you think that?",
@@ -397,7 +397,7 @@
         "a": "He was naturally lazy.",
         "b": "It's human nature.",
         "avi": "Anh ta vốn dĩ lười biếng.",
-        "bvi": "Ðó là bản chất của con người."
+        "bvi": "Đó là bản chất của con người."
       },
       {
         "a": "They think they better than everybody.",
@@ -409,13 +409,13 @@
         "a": "I think it's time for you to take a break.",
         "b": "It's on the stroke of five.",
         "avi": "Tôi nghĩ đã đến lúc bạn có thể nghỉ ngơi.",
-        "bvi": "Ðồng hồ đã điểm năm giờ."
+        "bvi": "Đồng hồ đã điểm năm giờ."
       },
       {
         "a": "It will soon be time to do the time.",
         "b": "It's getting on for five.",
         "avi": "Sẽ là quá sớm để tính giờ giấc làm việc.",
-        "bvi": "Ðã đến năm giờ."
+        "bvi": "Đã đến năm giờ."
       }
     ]
   },
@@ -427,7 +427,7 @@
         "a": "Do you hear a ring at the door?",
         "b": "It is striking five.",
         "avi": "Anh có nghe thấy tiếng chuông ở cửa không?",
-        "bvi": "Ðồng hồ đang điểm năm giờ."
+        "bvi": "Đồng hồ đang điểm năm giờ."
       },
       {
         "a": "It's getting late now.",
@@ -438,14 +438,14 @@
       {
         "a": "I'm late and I'm leaving.",
         "b": "It is close to seven.",
-        "avi": "Ðã trễ giờ rồi. tôi đi đây.",
+        "avi": "Đã trễ giờ rồi. tôi đi đây.",
         "bvi": "Gần bảy giờ rồi."
       },
       {
         "a": "If so, exactly what time is it?",
         "b": "It is exactly seven o'clock.",
         "avi": "Nếu thế, chính xác là mấy giờ?",
-        "bvi": "Ðúng bảy giờ."
+        "bvi": "Đúng bảy giờ."
       }
     ]
   },
@@ -457,25 +457,25 @@
         "a": "What time? I wondered",
         "b": "It's seven by my watch.",
         "avi": "Không biết mấy giờ rồi nhỉ?",
-        "bvi": "Ðồng hồ tôi bảy giờ rồi."
+        "bvi": "Đồng hồ tôi bảy giờ rồi."
       },
       {
         "a": "It's seven by my watch.",
         "b": "Your watch is slow.",
-        "avi": "Ðồng hồ tôi bảy giờ rồi.",
-        "bvi": "Ðồng hồ bạn chạy chậm."
+        "avi": "Đồng hồ tôi bảy giờ rồi.",
+        "bvi": "Đồng hồ bạn chạy chậm."
       },
       {
         "a": "That clocks ten minutes slow.",
         "b": "Your watch is fast.",
         "avi": "Cái đồng hồ đó chạy chậm 10 phút.",
-        "bvi": "Ðồng hồ bạn chạy nhanh."
+        "bvi": "Đồng hồ bạn chạy nhanh."
       },
       {
         "a": "Your watch is fast.",
         "b": "My watch is five minutes fast.",
-        "avi": "Ðồng hồ bạn chạy nhanh.",
-        "bvi": "Ðồng hồ tôi nhanh năm phút."
+        "avi": "Đồng hồ bạn chạy nhanh.",
+        "bvi": "Đồng hồ tôi nhanh năm phút."
       }
     ]
   },
@@ -486,20 +486,20 @@
       {
         "a": "My watch is five minutes fast.",
         "b": "My watch has stopped.",
-        "avi": "Ðồng hồ tôi nhanh năm phút.",
-        "bvi": "Ðồng hồ tôi chết máy."
+        "avi": "Đồng hồ tôi nhanh năm phút.",
+        "bvi": "Đồng hồ tôi chết máy."
       },
       {
         "a": "My watch has stopped.",
         "b": "My watch gains two minutes a day.",
-        "avi": "Ðồng hồ tôi chết máy.",
-        "bvi": "Ðồng hồ tôi mỗi ngày nhanh 2 phút."
+        "avi": "Đồng hồ tôi chết máy.",
+        "bvi": "Đồng hồ tôi mỗi ngày nhanh 2 phút."
       },
       {
         "a": "My watch gains two minutes a day.",
         "b": "My watch loses five minutes a day.",
-        "avi": "Ðồng hồ tôi mỗi ngày nhanh 2 phút.",
-        "bvi": "Ðồng hồ tôi mỗi ngày chậm 5 phút."
+        "avi": "Đồng hồ tôi mỗi ngày nhanh 2 phút.",
+        "bvi": "Đồng hồ tôi mỗi ngày chậm 5 phút."
       },
       {
         "a": "When is it on?",
@@ -607,7 +607,7 @@
       {
         "a": "Is it late at night?",
         "b": "Well, it's eleven o'clock.",
-        "avi": "Ðã khuya rồi à?",
+        "avi": "Đã khuya rồi à?",
         "bvi": "à, mười một giờ rồi."
       },
       {
@@ -620,7 +620,7 @@
         "a": "You have to do your homework.",
         "b": "It is time to go to sleep.",
         "avi": "Bạn phải làm bài tập về nhà.",
-        "bvi": "Ðã đến lúc đi ngủ rồi."
+        "bvi": "Đã đến lúc đi ngủ rồi."
       }
     ]
   },
@@ -632,7 +632,7 @@
         "a": "Mom, I'm hungry.",
         "b": "It's time for dinner.",
         "avi": "Mẹ ơi, con đói rồi.",
-        "bvi": "Ðến giờ ăn tối rồi."
+        "bvi": "Đến giờ ăn tối rồi."
       },
       {
         "a": "Are you a stand-up dude?",
@@ -692,7 +692,7 @@
         "a": "Can you finish the work by next Monday?",
         "b": "This is not a very long time.",
         "avi": "Anh có thể hoàn thành vào thứ hai tới được không?",
-        "bvi": "Ðây là khoảng thời gian không dài lắm."
+        "bvi": "Đây là khoảng thời gian không dài lắm."
       },
       {
         "a": "Just three more days.",
@@ -709,7 +709,7 @@
       {
         "a": "Does it take long to get there?",
         "b": "It's going to be a long job.",
-        "avi": "Ðến đó có mất thời gian nhiều lắm không?",
+        "avi": "Đến đó có mất thời gian nhiều lắm không?",
         "bvi": "Sẽ phải mất khá nhiều thời gian."
       }
     ]

@@ -161,12 +161,12 @@
       {
         "k": "ex",
         "t": "You were invited to that party, weren't you? - So I was . I'd forgotten",
-        "vi": "Anh đã được mời dự bữa tiệc đó phải không?-Ðúng vậy. Tôi quên đi mất"
+        "vi": "Anh đã được mời dự bữa tiệc đó phải không?-Đúng vậy. Tôi quên đi mất"
       },
       {
         "k": "ex",
         "t": "They won the championship five years ago - So they did",
-        "vi": "Họ đoạt chức vô địch cách đây năm năm-Ðúng vậy"
+        "vi": "Họ đoạt chức vô địch cách đây năm năm-Đúng vậy"
       },
       {"k": "m", "t": "cũng thế"},
       {"k": "ex", "t": "he is divorced and so am I", "vi": "anh ấy đã ly hôn và mình cũng vậy"},
@@ -293,7 +293,7 @@
       {
         "k": "ex",
         "t": "Mary has decided that this is what she wants. So be it:",
-        "vi": "Mary đã quyết định rằng đây là cái cô ta muốn. Ðành vậy thôi."
+        "vi": "Mary đã quyết định rằng đây là cái cô ta muốn. Đành vậy thôi."
       }
     ],
     "k": "so be it"
@@ -317,11 +317,11 @@
   {
     "h": "So it goes",
     "segs": [
-      {"k": "m", "t": "Ðó là loại sự việc xảy ra. Ðó là cuộc đời."},
+      {"k": "m", "t": "Đó là loại sự việc xảy ra. Đó là cuộc đời."},
       {
         "k": "ex",
         "t": "Too bad about John and his problems. So it goes:",
-        "vi": "John và các vấn đề của anh ta quá bết bát. Ðời là thế."
+        "vi": "John và các vấn đề của anh ta quá bết bát. Đời là thế."
       },
       {
         "k": "ex",
@@ -1897,7 +1897,7 @@
       {"k": "m", "t": "buổi họp mặt thân mật (liên hoan, giải trí)"},
       {"k": "m", "t": "buổi tụ họp (như)"},
       {"k": "m", "t": "sociable"},
-      {"k": "ex", "t": "Social and Liberal Democrats (tắt) SLD", "vi": "Ðảng Dân chủ Xã hội Tự do."}
+      {"k": "ex", "t": "Social and Liberal Democrats (tắt) SLD", "vi": "Đảng Dân chủ Xã hội Tự do."}
     ],
     "ipa": "'souʃl",
     "k": "social",
@@ -1963,7 +1963,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "lợi ích xã hội. Các giao dịch trên thị trường làm cho cả người mua và người bán đều được lợi. Lợi ích xã hội (còn gọi là phúc lợi kinh tế) là tổng của CS và PS, và chứng minh lợi ích xã hội đạt tối đa khi thị trường ở trạng thái cân bằng. Cân bằng thị trường được thiết lập tại mức giá mà lượng cung và lượng cầu bằng nhau. Trên đồ thị biểu diễn thị trường, giao điểm của đường cung và đường cầu cho ta điểm cân bằng. Lợi ích xã hội là tổng diện tích tô đậm trên đồ thị. Giả sử lượng hàng trên thị trường là Q1 thay vì Q*. Khi đó giá tăng lên P1 vì đây là mức giá mà NTD sẵn sàng chi trả. Ta thấy một phần CS được chuyển sang PS nhưng có hai tam giác nhỏ thuộc CS và PS trong khoảng Q1 và Q* mất đi. Khi lượng hàng thấp hơn Q*, thì lợi ích xã hội tương ứng sẽ thấp hơn lợi ích xã hội tại Q*. Bây giờ giả sử lượng hàng trên thị trường là Q2. Tại bất kỳ lượng hàng nào nhiều hơn Q*, ta thấy đường cung nằm bên trên đường cầu. Ðiều này cho thấy các chi phí nguồn lực cần thiết để tăng lượng hàng từ Q* lên Q2 là lớn hơn giá trị của lượng hàng tăng thêm này theo nhìn nhận của NTD. SB ở Q2 được tính bằng SB ở Q* trừ cho diện tích tam giác ABC. Lợi ích xã hội được tối đa hóa tại cân bằng thị trường. Trong phần phân tích, chúng ta đã giả định số lượng hàng trên thị trường có thể chệch khỏi lượng cân bằng."
+        "t": "lợi ích xã hội. Các giao dịch trên thị trường làm cho cả người mua và người bán đều được lợi. Lợi ích xã hội (còn gọi là phúc lợi kinh tế) là tổng của CS và PS, và chứng minh lợi ích xã hội đạt tối đa khi thị trường ở trạng thái cân bằng. Cân bằng thị trường được thiết lập tại mức giá mà lượng cung và lượng cầu bằng nhau. Trên đồ thị biểu diễn thị trường, giao điểm của đường cung và đường cầu cho ta điểm cân bằng. Lợi ích xã hội là tổng diện tích tô đậm trên đồ thị. Giả sử lượng hàng trên thị trường là Q1 thay vì Q*. Khi đó giá tăng lên P1 vì đây là mức giá mà NTD sẵn sàng chi trả. Ta thấy một phần CS được chuyển sang PS nhưng có hai tam giác nhỏ thuộc CS và PS trong khoảng Q1 và Q* mất đi. Khi lượng hàng thấp hơn Q*, thì lợi ích xã hội tương ứng sẽ thấp hơn lợi ích xã hội tại Q*. Bây giờ giả sử lượng hàng trên thị trường là Q2. Tại bất kỳ lượng hàng nào nhiều hơn Q*, ta thấy đường cung nằm bên trên đường cầu. Điều này cho thấy các chi phí nguồn lực cần thiết để tăng lượng hàng từ Q* lên Q2 là lớn hơn giá trị của lượng hàng tăng thêm này theo nhìn nhận của NTD. SB ở Q2 được tính bằng SB ở Q* trừ cho diện tích tam giác ABC. Lợi ích xã hội được tối đa hóa tại cân bằng thị trường. Trong phần phân tích, chúng ta đã giả định số lượng hàng trên thị trường có thể chệch khỏi lượng cân bằng."
       }
     ],
     "k": "social benefit"
@@ -2072,7 +2072,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Sự thỏa thuận giữa những thành viên thuộc tầng lớp thượng lưu để thừa nhận quyền lực cũng như thiết lập thể chế và hoạch định chính sách cai trị. Ý nghĩa này được các nhà triết học Hobbes, Locke, và Rousseau áp dụng trong quá trình thi cử để tìm ứng viên cho các vị trí quyền lực thuộc tiểu bang của họ. Mọi người thảo luận về điều kiện, phẩm chất của từng ứng viên mà không cần xem xét đến khía cạnh luật pháp và chính quyền. Sau đó, sự chuyển tiếp sẽ theo cách ám chỉ hoặc \"hợp đồng\" trực tiếp để hội đồng ra nghị quyết. Những giả định nói chung của sự thỏa thuận trên trở nên phổ biến vào thế kỷ 16 và 17 như một cách giải thích về lai lịch hợp pháp của Chính phủ. Ðổi lại, nhà cầm quyền sẽ đưa ra những chính sách mang lại lợi ích cho tầng lớp này. Tuy nhiên, một giả định khác cũng được đặt ra đối với một quốc gia lần đầu tiên được thành lập. Nó chưa hề có thể chế cũng như chính sách cai trị. Theo học thuyết trên của Hobbes (Leviathan, 1651) và Locke (2 luận thuyết của chính phủ, 1689) sẽ nổ ra cuộc tranh luận với kết quả cuối cùng là chính phủ sẽ được thành lập dựa trên ý kiến của mỗi công dân. Hobbes xem những người dân vô chính phủ là mối nguy hại của quốc gia. Ông cho rằng phải áp dụng thể chế độc tài mới có thể bảo đảm được an ninh. Locke thì ngược lại. Ông tin rằng con người chỉ phạm tội khi có lý do và tính lương thiện vốn là bản chất của mỗi người. Từ đó, ông cho rằng thể chế cầm quyền cũng nên thuận theo lòng dân. Quan điểm của Locke đã có tác động mạnh mẽ đến những người soạn thảo Hiến pháp nước Mỹ. Jefferson đã biến quan điểm đó thành những quyền cơ bản của công dân có vai trò quan trọng không kém sự thỏa thuận của hội đồng. Rousseau không đồng tình với Locke về sự mô tả một xã hội tự nhiên. Ông cho rằng những người thấp kém, ít học phải được trau dồi đạo đức, phẩm hạnh và ý thức công dân trước khi có thể hòa nhập vào cộng đồng dân chủ rộng lớn. Do đó, việc hội đồng thỏa thuận để xác định chuẩn mực của các ứng viên vào vị trí cầm quyền là hết sức cần thiết. Tương tự, Hobbes đề nghị Hiến pháp nên xem xét lại quan điểm của Locke. Ðể phản bác, Locke cho rằng trong trường hợp chính phủ lạm dụng quyền hành thì bản thỏa thuận xem như bị đổ vỡ (không có tác dụng) và khi đó quần chúng sẽ được quyền nổi dậy. Tuy nhiên, tất cả những học thuyết này sau đó đều bị phê bình là không có tính hiện thực lịch sử."
+        "t": "Sự thỏa thuận giữa những thành viên thuộc tầng lớp thượng lưu để thừa nhận quyền lực cũng như thiết lập thể chế và hoạch định chính sách cai trị. Ý nghĩa này được các nhà triết học Hobbes, Locke, và Rousseau áp dụng trong quá trình thi cử để tìm ứng viên cho các vị trí quyền lực thuộc tiểu bang của họ. Mọi người thảo luận về điều kiện, phẩm chất của từng ứng viên mà không cần xem xét đến khía cạnh luật pháp và chính quyền. Sau đó, sự chuyển tiếp sẽ theo cách ám chỉ hoặc \"hợp đồng\" trực tiếp để hội đồng ra nghị quyết. Những giả định nói chung của sự thỏa thuận trên trở nên phổ biến vào thế kỷ 16 và 17 như một cách giải thích về lai lịch hợp pháp của Chính phủ. Đổi lại, nhà cầm quyền sẽ đưa ra những chính sách mang lại lợi ích cho tầng lớp này. Tuy nhiên, một giả định khác cũng được đặt ra đối với một quốc gia lần đầu tiên được thành lập. Nó chưa hề có thể chế cũng như chính sách cai trị. Theo học thuyết trên của Hobbes (Leviathan, 1651) và Locke (2 luận thuyết của chính phủ, 1689) sẽ nổ ra cuộc tranh luận với kết quả cuối cùng là chính phủ sẽ được thành lập dựa trên ý kiến của mỗi công dân. Hobbes xem những người dân vô chính phủ là mối nguy hại của quốc gia. Ông cho rằng phải áp dụng thể chế độc tài mới có thể bảo đảm được an ninh. Locke thì ngược lại. Ông tin rằng con người chỉ phạm tội khi có lý do và tính lương thiện vốn là bản chất của mỗi người. Từ đó, ông cho rằng thể chế cầm quyền cũng nên thuận theo lòng dân. Quan điểm của Locke đã có tác động mạnh mẽ đến những người soạn thảo Hiến pháp nước Mỹ. Jefferson đã biến quan điểm đó thành những quyền cơ bản của công dân có vai trò quan trọng không kém sự thỏa thuận của hội đồng. Rousseau không đồng tình với Locke về sự mô tả một xã hội tự nhiên. Ông cho rằng những người thấp kém, ít học phải được trau dồi đạo đức, phẩm hạnh và ý thức công dân trước khi có thể hòa nhập vào cộng đồng dân chủ rộng lớn. Do đó, việc hội đồng thỏa thuận để xác định chuẩn mực của các ứng viên vào vị trí cầm quyền là hết sức cần thiết. Tương tự, Hobbes đề nghị Hiến pháp nên xem xét lại quan điểm của Locke. Để phản bác, Locke cho rằng trong trường hợp chính phủ lạm dụng quyền hành thì bản thỏa thuận xem như bị đổ vỡ (không có tác dụng) và khi đó quần chúng sẽ được quyền nổi dậy. Tuy nhiên, tất cả những học thuyết này sau đó đều bị phê bình là không có tính hiện thực lịch sử."
       }
     ],
     "k": "social contract"
@@ -2097,7 +2097,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một học thuyết cấp tiến của nhà kinh tế xã hội học Clifford Douglas nhằm loại trừ việc tập trung quyền lực kinh tế. Nó trở nên phổ biến ở Canada và New Zealand vào giai đoạn hết sức trì trệ của nền kinh tế. Tại Canada, lãnh đạo Ðảng Social Credit là William Aberhart đã thắng áp đảo ở Alberta năm 1935 và duy trì quyền lực cho tới năm 1971. Tuy nhiên, ông đã phải thực thi cải cách kinh tế theo học thuyết của Douglas. Năm 1952, Ðảng này thắng cử ở Colombia nhưng không giành được nhiều vị trí trong liên bang ở Ottawa và đột ngột biến mất sau năm 1980. Ðảng Social Credit ở New Zealand được hình thành năm 1953 và giữ được từ 1 tới 3 ghế trong nghị viện New Zealand vào những thời kỳ khác nhau."
+        "t": "Một học thuyết cấp tiến của nhà kinh tế xã hội học Clifford Douglas nhằm loại trừ việc tập trung quyền lực kinh tế. Nó trở nên phổ biến ở Canada và New Zealand vào giai đoạn hết sức trì trệ của nền kinh tế. Tại Canada, lãnh đạo Đảng Social Credit là William Aberhart đã thắng áp đảo ở Alberta năm 1935 và duy trì quyền lực cho tới năm 1971. Tuy nhiên, ông đã phải thực thi cải cách kinh tế theo học thuyết của Douglas. Năm 1952, Đảng này thắng cử ở Colombia nhưng không giành được nhiều vị trí trong liên bang ở Ottawa và đột ngột biến mất sau năm 1980. Đảng Social Credit ở New Zealand được hình thành năm 1953 và giữ được từ 1 tới 3 ghế trong nghị viện New Zealand vào những thời kỳ khác nhau."
       }
     ],
     "k": "social credit"
@@ -2115,7 +2115,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Học thuyết về sự tiến hóa của xã hội và văn hóa vào thế kỷ 19. Ngay cả trước khi Charles Darwin xuất bản quyển \"Nguồn gốc của vạn vật\" (1859), một tác giả khác là Herbert Spencer cũng đã lấy cảm hứng từ những ý tưởng của sự tiến hóa để viết về Những nguyên tắc cơ bản của tâm lý học (1855). Ðây là lần đầu tiên ông áp dụng các khái niệm về sự tiến hóa vào sự phát triển của xã hội. Học thuyết này dựa vào niềm tin rằng sự sàng lọc tự nhiên sẽ tìm ra được cá nhân năng nổ và có tính cạnh tranh cao nhất. (kẻ sống sót xứng đáng nhất). Nó thường được dùng để biện chứng cho chủ nghĩa bảo thủ trong chính trị. Ðồng thời, nó cũng được dùng để biện minh cho tư tưởng thiên vị cá nhân và phân biệt chủng tộc. Chính điều này cũng làm triệt tiêu những nỗ lực cải cách xã hội cũng như gây trở ngại cho quá trình sàng lọc tự nhiên chọn lựa người xứng đáng nhất. Vào thế kỷ 20, nó đã được dùng để phán xét hệ tư tưởng những người phân biệt chủng tộc (xem thêm phần Eugenics) cũng như để giải thích quá trình vận động của \"nền kinh tế tự do\"."
+        "t": "Học thuyết về sự tiến hóa của xã hội và văn hóa vào thế kỷ 19. Ngay cả trước khi Charles Darwin xuất bản quyển \"Nguồn gốc của vạn vật\" (1859), một tác giả khác là Herbert Spencer cũng đã lấy cảm hứng từ những ý tưởng của sự tiến hóa để viết về Những nguyên tắc cơ bản của tâm lý học (1855). Đây là lần đầu tiên ông áp dụng các khái niệm về sự tiến hóa vào sự phát triển của xã hội. Học thuyết này dựa vào niềm tin rằng sự sàng lọc tự nhiên sẽ tìm ra được cá nhân năng nổ và có tính cạnh tranh cao nhất. (kẻ sống sót xứng đáng nhất). Nó thường được dùng để biện chứng cho chủ nghĩa bảo thủ trong chính trị. Đồng thời, nó cũng được dùng để biện minh cho tư tưởng thiên vị cá nhân và phân biệt chủng tộc. Chính điều này cũng làm triệt tiêu những nỗ lực cải cách xã hội cũng như gây trở ngại cho quá trình sàng lọc tự nhiên chọn lựa người xứng đáng nhất. Vào thế kỷ 20, nó đã được dùng để phán xét hệ tư tưởng những người phân biệt chủng tộc (xem thêm phần Eugenics) cũng như để giải thích quá trình vận động của \"nền kinh tế tự do\"."
       }
     ],
     "k": "social darwinism"
@@ -2147,7 +2147,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thành viên thuộc cánh tả hoặc Ðảng trung tả nhằm mục đích kết hợp một cách rộng rãi các mục tiêu xã hội với hệ thống Hiến pháp và thừa nhận ít nhất một vài ưu điểm của hệ thống tư bản chủ nghĩa. Tên gọi này lúc đầu được thông qua bởi Wilhelm Liebknecht và August Bebel ở Ðức khi họ sáng lập ra Ðảng lao động dân chủ xã hội Ðức (1869). Họ dựa vào nguyên lý của Karl Marx nhưng chủ trương cải cách thuyết tiến hóa bằng các biện pháp dân chủ và hợp hiến. Năm 1875, nó hợp nhất với Tổ chức công nhân Ðức thành lập năm 1863 bởi Ferdinand Lasalle để tạo nên Ðảng Dân chủ Xã hội Ðức (SDP). Sau đó, nó thôn tính luôn tổ chức chống đối chủ nghĩa xã hội của Bismarck. Những Ðảng theo sau khác, ví dụ như Ðan Mạch (1878), Anh (1883), Na Uy (1887), Áo (1889), Mỹ (1897, sau này trở thành Ðảng xã hội), và Nga (1898). Tại Nga, Ðảng Dân chủ Xã hội bị chia rẽ thành hai phe Bolshevik và Menshevik. Ở những nước khác, ví dụ như Pháp, Ý, và Tây Ban Nha, tên gọi \"Ðảng chủ nghĩa xã hội\" được đón nhận một cách bình thường. Ðảng Dân chủ Xã hội Ðức là Ðảng lớn nhất trong nền Cộng hòa Weimar. Nó thống trị đất nước cho tới năm 1933 mới bị cấm đoán. Nó được cải tổ lại ở Tây Ðức sau chiến tranh thế giới thứ II. Hiến pháp mới (1959) đã chấm dứt tất cả những mối quan hệ với người theo chủ nghĩa Mác. Nó quay sang liên kết với những người Dân chủ theo đạo Cơ đốc vào năm 1966 và tiến tới việc liên kết với Ðảng Dân chủ tự do vào khoảng giữa năm 1969 và 1982. Ở Ðông Ðức, Ðảng Dân chủ Xã hội hồi sinh và tiến hành vận động tranh cử vào năm 1990 theo sau việc sụp đổ của chế độ Cộng sản. Tại Thụy Ðiển, Ðảng Dân chủ Xã hội và quan điểm Hiến pháp của mình đã trở thành Ðảng thống trị từ thập niên 1930 mặc dù nó đã để mất nhiều chức vụ trong bộ máy công quyền kể từ năm 1976 tới 1982 và từ 1991 tới 1994. Ở Anh, 4 thành viên xuất chúng của Công đảng đã từ chức vào năm 1981 để thành lập Ðảng Dân chủ Xã hội nhưng chỉ tồn tại trong một thời gian ngắn. Hầu hết các thành viên của nó đều gia nhập vào Ðảng tự do năm 1988 để thiết lập chế độ Dân chủ tự do và Xã hội tự do (sau này đổi tên thành Dân chủ tự do năm 1989). Sau cuộc cải cách bởi lãnh đạo Neil Kinnock, John Smith, và Tony Blair vào thập niên 1980 và 1990, Công Ðảng Anh hiện nay có thể được miêu tả một cách chính xác là thực sự dân chủ xã hội hơn cả những chính đảng theo chủ nghĩa xã hội."
+        "t": "thành viên thuộc cánh tả hoặc Đảng trung tả nhằm mục đích kết hợp một cách rộng rãi các mục tiêu xã hội với hệ thống Hiến pháp và thừa nhận ít nhất một vài ưu điểm của hệ thống tư bản chủ nghĩa. Tên gọi này lúc đầu được thông qua bởi Wilhelm Liebknecht và August Bebel ở Đức khi họ sáng lập ra Đảng lao động dân chủ xã hội Đức (1869). Họ dựa vào nguyên lý của Karl Marx nhưng chủ trương cải cách thuyết tiến hóa bằng các biện pháp dân chủ và hợp hiến. Năm 1875, nó hợp nhất với Tổ chức công nhân Đức thành lập năm 1863 bởi Ferdinand Lasalle để tạo nên Đảng Dân chủ Xã hội Đức (SDP). Sau đó, nó thôn tính luôn tổ chức chống đối chủ nghĩa xã hội của Bismarck. Những Đảng theo sau khác, ví dụ như Đan Mạch (1878), Anh (1883), Na Uy (1887), Áo (1889), Mỹ (1897, sau này trở thành Đảng xã hội), và Nga (1898). Tại Nga, Đảng Dân chủ Xã hội bị chia rẽ thành hai phe Bolshevik và Menshevik. Ở những nước khác, ví dụ như Pháp, Ý, và Tây Ban Nha, tên gọi \"Đảng chủ nghĩa xã hội\" được đón nhận một cách bình thường. Đảng Dân chủ Xã hội Đức là Đảng lớn nhất trong nền Cộng hòa Weimar. Nó thống trị đất nước cho tới năm 1933 mới bị cấm đoán. Nó được cải tổ lại ở Tây Đức sau chiến tranh thế giới thứ II. Hiến pháp mới (1959) đã chấm dứt tất cả những mối quan hệ với người theo chủ nghĩa Mác. Nó quay sang liên kết với những người Dân chủ theo đạo Cơ đốc vào năm 1966 và tiến tới việc liên kết với Đảng Dân chủ tự do vào khoảng giữa năm 1969 và 1982. Ở Đông Đức, Đảng Dân chủ Xã hội hồi sinh và tiến hành vận động tranh cử vào năm 1990 theo sau việc sụp đổ của chế độ Cộng sản. Tại Thụy Điển, Đảng Dân chủ Xã hội và quan điểm Hiến pháp của mình đã trở thành Đảng thống trị từ thập niên 1930 mặc dù nó đã để mất nhiều chức vụ trong bộ máy công quyền kể từ năm 1976 tới 1982 và từ 1991 tới 1994. Ở Anh, 4 thành viên xuất chúng của Công đảng đã từ chức vào năm 1981 để thành lập Đảng Dân chủ Xã hội nhưng chỉ tồn tại trong một thời gian ngắn. Hầu hết các thành viên của nó đều gia nhập vào Đảng tự do năm 1988 để thiết lập chế độ Dân chủ tự do và Xã hội tự do (sau này đổi tên thành Dân chủ tự do năm 1989). Sau cuộc cải cách bởi lãnh đạo Neil Kinnock, John Smith, và Tony Blair vào thập niên 1980 và 1990, Công Đảng Anh hiện nay có thể được miêu tả một cách chính xác là thực sự dân chủ xã hội hơn cả những chính đảng theo chủ nghĩa xã hội."
       }
     ],
     "k": "social democrat"
@@ -2180,7 +2180,7 @@
       {"k": "m", "t": "(kinh tế) Tỉ suất chiết khấu xã hội."},
       {
         "k": "m",
-        "t": "Ðây là tỉ suất dùng để chiết khấu những khoản đầu tư công cộng hoặc tập thể."
+        "t": "Đây là tỉ suất dùng để chiết khấu những khoản đầu tư công cộng hoặc tập thể."
       }
     ],
     "k": "social discount rate"
@@ -2358,7 +2358,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quỹ bảo hiểm xã hội. Khoản tiền do đóng góp của nhà nước, người sử dụng lao động, người lao động nhằm để giúp đỡ về mặt vật chất cho người lao động khi họ gặp rủi ro, khó khăn khi đang tham gia quan hệ lao động và cả khi đã chấm dứt quan hệ lao động. Quỹ bảo hiểm xã hội được hình thành từ các nguồn:-Người sử dụng lao động đóng bằng 15% so với tổng quỹ tiền lương của những người tham gia bảo hiểm xã hội trong đơn vị (trong đó 10% để chi các chế độ: hưu trí, tử tuất và 5% chi các chế độ ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp). Người lao động đóng bằng 5% tiền lương tháng để chi các chế độ hưu trí và tử tuất. Nhà nước đóng và hỗ trợ thêm để bảo đảm thực hiện các chế độ bảo hiểm xã hội đối với người lao động (Ðiều 36 Ðiều lệ bảo hiểm xã hội ban hành ngày 26-1-1995 của Chính phủ)."
+        "t": "quỹ bảo hiểm xã hội. Khoản tiền do đóng góp của nhà nước, người sử dụng lao động, người lao động nhằm để giúp đỡ về mặt vật chất cho người lao động khi họ gặp rủi ro, khó khăn khi đang tham gia quan hệ lao động và cả khi đã chấm dứt quan hệ lao động. Quỹ bảo hiểm xã hội được hình thành từ các nguồn:-Người sử dụng lao động đóng bằng 15% so với tổng quỹ tiền lương của những người tham gia bảo hiểm xã hội trong đơn vị (trong đó 10% để chi các chế độ: hưu trí, tử tuất và 5% chi các chế độ ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp). Người lao động đóng bằng 5% tiền lương tháng để chi các chế độ hưu trí và tử tuất. Nhà nước đóng và hỗ trợ thêm để bảo đảm thực hiện các chế độ bảo hiểm xã hội đối với người lao động (Điều 36 Điều lệ bảo hiểm xã hội ban hành ngày 26-1-1995 của Chính phủ)."
       }
     ],
     "k": "social inssurance fund"
@@ -2675,15 +2675,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bảo hiểm xã hội. Một hệ thống hoạt động tài chính trực thuộc Chính phủ có chức năng bảo hiểm các khoản thu nhập cá nhân cho người dân trong trường hợp bị bệnh tật, thất nghiệp, tuổi già, và những bất trắc khác. Họ được chi trả các chi phí như thuốc men... Ðược trợ cấp đối với những gia đình có con nhỏ. Hệ thống này bao gồm cả hai hình thức bảo hiểm xã hội và trợ cấp xã hội. Từ cuối thế kỷ 19, hệ thống bảo hiểm này phát triển rộng khắp tại những quốc gia công nghiệp nhằm đáp ứng nguyện vọng của tầng lớp công nhân đông đảo. Mức độ bảo hiểm tùy thuộc vào tiền lương của mỗi người. Nó chỉ bị gián đoạn trong thời kỳ hai cuộc chiến tranh thế giới bùng nổ và tình trạng trì trệ kinh tế vào thập niên 1920 và 1930."
+        "t": "Bảo hiểm xã hội. Một hệ thống hoạt động tài chính trực thuộc Chính phủ có chức năng bảo hiểm các khoản thu nhập cá nhân cho người dân trong trường hợp bị bệnh tật, thất nghiệp, tuổi già, và những bất trắc khác. Họ được chi trả các chi phí như thuốc men... Được trợ cấp đối với những gia đình có con nhỏ. Hệ thống này bao gồm cả hai hình thức bảo hiểm xã hội và trợ cấp xã hội. Từ cuối thế kỷ 19, hệ thống bảo hiểm này phát triển rộng khắp tại những quốc gia công nghiệp nhằm đáp ứng nguyện vọng của tầng lớp công nhân đông đảo. Mức độ bảo hiểm tùy thuộc vào tiền lương của mỗi người. Nó chỉ bị gián đoạn trong thời kỳ hai cuộc chiến tranh thế giới bùng nổ và tình trạng trì trệ kinh tế vào thập niên 1920 và 1930."
       },
       {
         "k": "m",
-        "t": "Một kế hoạch bảo hiểm toàn diện ở Châu Âu được trình bày tại Bismarck nước Ðức (1881-1889). Theo đó, Nhà nước có trách nhiệm chi trả lợi tức bảo hiểm cho cá nhân ngay cả trường hợp tai nạn, bệnh hoạn, già yếu. Một kế hoạch tương tự như thế cũng đã được áp dụng tại một số quốc gia khác thuộc châu Âu, Úc và New Zealand cuối thế kỷ 19. Tại Anh, Lloyd George là người tiên phong trong việc thi hành chế độ này (1908-1911). Trong suốt cuộc chiến tranh thế giới thứ II, Chính phủ liên minh với Winston Churchill đã bổ nhiệm William Beveridge đứng đầu Ủy ban này (1941-1942) nhằm xem xét lại phương thức tổ chức bảo hiểm xã hội. Trong báo cáo của mình, Beveridge đã đưa ra những khuyến cáo (1942) đề nghị mỗi quốc gia nên có một tổ chức bảo hiểm toàn diện để làm cơ sở cho việc trợ cấp phúc lợi xã hội sau chiến tranh trong khuôn khổ Luật bảo hiểm Quốc gia (1946). Tại Mỹ, (nơi khởi xướng hình thức bảo hiểm xã hội), tình trạng thất nghiệp gia tăng khủng khiếp và sự bần cùng của xã hội trong vụ sụp đổ tài chính tồi tệ đã thúc giục Tổng thống F. D. Roosevelt giới thiệu chương trình New Deal. Bên cạnh đó, ông cũng nhanh chóng thông qua Luật bảo hiểm xã hội (1935) chủ yếu dựa vào nguồn thuế thu trên lương để chi trả cho người già, những người góa chồng, góa vợ hoặc bị tàn tật."
+        "t": "Một kế hoạch bảo hiểm toàn diện ở Châu Âu được trình bày tại Bismarck nước Đức (1881-1889). Theo đó, Nhà nước có trách nhiệm chi trả lợi tức bảo hiểm cho cá nhân ngay cả trường hợp tai nạn, bệnh hoạn, già yếu. Một kế hoạch tương tự như thế cũng đã được áp dụng tại một số quốc gia khác thuộc châu Âu, Úc và New Zealand cuối thế kỷ 19. Tại Anh, Lloyd George là người tiên phong trong việc thi hành chế độ này (1908-1911). Trong suốt cuộc chiến tranh thế giới thứ II, Chính phủ liên minh với Winston Churchill đã bổ nhiệm William Beveridge đứng đầu Ủy ban này (1941-1942) nhằm xem xét lại phương thức tổ chức bảo hiểm xã hội. Trong báo cáo của mình, Beveridge đã đưa ra những khuyến cáo (1942) đề nghị mỗi quốc gia nên có một tổ chức bảo hiểm toàn diện để làm cơ sở cho việc trợ cấp phúc lợi xã hội sau chiến tranh trong khuôn khổ Luật bảo hiểm Quốc gia (1946). Tại Mỹ, (nơi khởi xướng hình thức bảo hiểm xã hội), tình trạng thất nghiệp gia tăng khủng khiếp và sự bần cùng của xã hội trong vụ sụp đổ tài chính tồi tệ đã thúc giục Tổng thống F. D. Roosevelt giới thiệu chương trình New Deal. Bên cạnh đó, ông cũng nhanh chóng thông qua Luật bảo hiểm xã hội (1935) chủ yếu dựa vào nguồn thuế thu trên lương để chi trả cho người già, những người góa chồng, góa vợ hoặc bị tàn tật."
       },
       {
         "k": "m",
-        "t": "Ðến thập niên 1970, toàn bộ dân số ở những nước công nghiệp hóa đều đã được bảo hiểm. Tuy nhiên, tình hình giá cả leo thang đã gióng lên hồi chuông báo động. Với việc khoán mức độ chi trả bảo hiểm xã hội chiếm một phần trong GDP (tổng sản lượng nội địa) ở một số nước, Chính phủ đã tăng số tiền nộp phí bảo hiểm nhưng lại giảm mức chi trả đồng thời đặt ra các quy định khắt khe hơn về nghề nghiệp cũng như giới hạn hình thức bảo hiểm cá nhân. Tại nhiều quốc gia gồm cả Mỹ và Anh, phạm vi chi trả bảo hiểm xã hội đã bị thu hẹp lại trong suốt thập niên 1980 và 1990 do tình trạng tăng giá. Hơn thế nữa, việc người dân gia tăng tuổi thọ, tình trạng thất nghiệp kéo dài đồng nghĩa với việc Chính phủ của nhiều quốc gia phát triển sẽ phải tiếp tục đối đầu với việc nguồn quỹ chi trả bảo hiểm xã hội sẽ ngày một tăng cao."
+        "t": "Đến thập niên 1970, toàn bộ dân số ở những nước công nghiệp hóa đều đã được bảo hiểm. Tuy nhiên, tình hình giá cả leo thang đã gióng lên hồi chuông báo động. Với việc khoán mức độ chi trả bảo hiểm xã hội chiếm một phần trong GDP (tổng sản lượng nội địa) ở một số nước, Chính phủ đã tăng số tiền nộp phí bảo hiểm nhưng lại giảm mức chi trả đồng thời đặt ra các quy định khắt khe hơn về nghề nghiệp cũng như giới hạn hình thức bảo hiểm cá nhân. Tại nhiều quốc gia gồm cả Mỹ và Anh, phạm vi chi trả bảo hiểm xã hội đã bị thu hẹp lại trong suốt thập niên 1980 và 1990 do tình trạng tăng giá. Hơn thế nữa, việc người dân gia tăng tuổi thọ, tình trạng thất nghiệp kéo dài đồng nghĩa với việc Chính phủ của nhiều quốc gia phát triển sẽ phải tiếp tục đối đầu với việc nguồn quỹ chi trả bảo hiểm xã hội sẽ ngày một tăng cao."
       },
       {
         "k": "m",
@@ -2937,7 +2937,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một học thuyết về kinh tế và chính trị tán thành việc quản trị tập thể đối với cuộc sống xã hội bao gồm cả những giới hạn đặc biệt về quyền sở hữu công nghiệp tư nhân. Từ này xuất hiện lần đầu tiên vào đầu thế kỷ 19 trong các tác phẩm của Saint-Simon và Fourier tại Pháp. Nó cũng có liên quan tới cuộc thử nghiệm của Owen ở New Lanark trong việc hợp tác kiểm soát ngành công nghiệp. Nó tác động đến một loạt vị trí rộng khắp từ chủ nghĩa cộng sản cực đoan, Ðảng Dân chủ Xã hội và cả những Ðảng khác. Vì vậy, nó khó xác định được ranh giới chính xác. Nó cũng không dễ dàng gì khi nói về chủ nghĩa xã hội có gì tốt đẹp hơn thể chế mà nó đang chống lại là chủ nghĩa tư bản. Theo quan điểm của chủ nghĩa xã hội thì chủ nghĩa tư bản đồng nghĩa với việc làm giàu cá nhân bằng việc tước đoạt lợi nhuận của những người làm công. Họ không có chế độ bảo hiểm cho người nghèo; né tránh những khoản phúc lợi xã hội cho công nhân nhằm tăng thêm lợi nhuận. Hầu hết những người theo chủ nghĩa xã hội đều cho rằng cộng đồng là tập thể cần được nắm quyền kiểm soát quy trình sản xuất, phân phối và trao đổi sản phẩm để bảo đảm tính công bằng hơn trong việc phân chia thu nhập của quốc gia. Ðồng thời cần phải tiến hành quốc hữu hóa ngành công nghiệp cũng như trao quyền làm chủ cho tập thể công nhân (xem thêm phần Syndicalism). Họ cũng tán thành việc thay thế nền kinh tế thị trường bằng kinh tế kế hoạch. Mục đích của các biện pháp này là nhằm làm cho toàn xã hội phải quan tâm và chịu trách nhiệm về ngành công nghiệp. Từ đó sẽ tiến đến việc nâng cao tiêu chuẩn sống cho mọi người một cách công bằng hơn. Thêm vào đó, những người theo chủ nghĩa xã hội đòi hỏi phải được cung cấp thêm cho những nhu cầu đặc biệt dưới hình thức như hệ thống phúc lợi xã hội. Việc chính trị hóa chủ nghĩa xã hội trở thành một cuộc cách mạng vào giữa thế kỷ 19 do Karl Marx khởi xướng. Ông đã cố chứng minh một cách khoa học về sự tích tụ tư bản xuất phát từ việc bóc lột sức lao động và lợi nhuận do người công nhân làm ra. Ông kêu gọi thành lập xã hội chủ nghĩa bằng chính các phong trào đấu tranh của công nhân. Biện pháp này rất vẹn toàn. Thứ nhất: sự chuyển giao sẽ thực hiện được một cách dễ dàng. Kế đó, quan trọng hơn, một xã hội mới sẽ được hình thành trong khi vẫn có thể giữ nguyên các hình thái đối lập bằng chủ trương đa đảng phái từ những người theo đường lối cải cách ôn hòa đến những người theo chủ nghĩa cộng sản cánh tả cực đoan. Họ thường có khuynh hướng thay đổi triệt để bằng hành động cách mạng bạo lực. Những năm gần đây, cuộc tranh cãi này đã dần lắng dịu bởi câu hỏi, liệu chủ nghĩa xã hội có thể tồn tại độc lập và sánh đôi với chủ nghĩa tư bản hay không? Hầu hết các nước phương Tây hiện nay đều lựa chọn chế độ Dân chủ xã hội. Một số khác vẫn theo đuổi chủ nghĩa xã hội. Trong cả hai trường phái trên, họ đều cố gắng vận dụng nội lực tư bản của mình một cách hiệu quả nhất để phục vụ cho lợi ích xã hội. Ðồng thời, họ đều ủng hộ thị trường tự do cũng như công nhận việc tư hữu về tài sản. Tuy nhiên, điều đó chỉ thực sự có tại các nước đã phát triển với truyền thống xã hội đa mục tiêu nhằm thu hút sự ủng hộ rộng rãi của quần chúng cho chính đảng lãnh đạo."
+        "t": "Một học thuyết về kinh tế và chính trị tán thành việc quản trị tập thể đối với cuộc sống xã hội bao gồm cả những giới hạn đặc biệt về quyền sở hữu công nghiệp tư nhân. Từ này xuất hiện lần đầu tiên vào đầu thế kỷ 19 trong các tác phẩm của Saint-Simon và Fourier tại Pháp. Nó cũng có liên quan tới cuộc thử nghiệm của Owen ở New Lanark trong việc hợp tác kiểm soát ngành công nghiệp. Nó tác động đến một loạt vị trí rộng khắp từ chủ nghĩa cộng sản cực đoan, Đảng Dân chủ Xã hội và cả những Đảng khác. Vì vậy, nó khó xác định được ranh giới chính xác. Nó cũng không dễ dàng gì khi nói về chủ nghĩa xã hội có gì tốt đẹp hơn thể chế mà nó đang chống lại là chủ nghĩa tư bản. Theo quan điểm của chủ nghĩa xã hội thì chủ nghĩa tư bản đồng nghĩa với việc làm giàu cá nhân bằng việc tước đoạt lợi nhuận của những người làm công. Họ không có chế độ bảo hiểm cho người nghèo; né tránh những khoản phúc lợi xã hội cho công nhân nhằm tăng thêm lợi nhuận. Hầu hết những người theo chủ nghĩa xã hội đều cho rằng cộng đồng là tập thể cần được nắm quyền kiểm soát quy trình sản xuất, phân phối và trao đổi sản phẩm để bảo đảm tính công bằng hơn trong việc phân chia thu nhập của quốc gia. Đồng thời cần phải tiến hành quốc hữu hóa ngành công nghiệp cũng như trao quyền làm chủ cho tập thể công nhân (xem thêm phần Syndicalism). Họ cũng tán thành việc thay thế nền kinh tế thị trường bằng kinh tế kế hoạch. Mục đích của các biện pháp này là nhằm làm cho toàn xã hội phải quan tâm và chịu trách nhiệm về ngành công nghiệp. Từ đó sẽ tiến đến việc nâng cao tiêu chuẩn sống cho mọi người một cách công bằng hơn. Thêm vào đó, những người theo chủ nghĩa xã hội đòi hỏi phải được cung cấp thêm cho những nhu cầu đặc biệt dưới hình thức như hệ thống phúc lợi xã hội. Việc chính trị hóa chủ nghĩa xã hội trở thành một cuộc cách mạng vào giữa thế kỷ 19 do Karl Marx khởi xướng. Ông đã cố chứng minh một cách khoa học về sự tích tụ tư bản xuất phát từ việc bóc lột sức lao động và lợi nhuận do người công nhân làm ra. Ông kêu gọi thành lập xã hội chủ nghĩa bằng chính các phong trào đấu tranh của công nhân. Biện pháp này rất vẹn toàn. Thứ nhất: sự chuyển giao sẽ thực hiện được một cách dễ dàng. Kế đó, quan trọng hơn, một xã hội mới sẽ được hình thành trong khi vẫn có thể giữ nguyên các hình thái đối lập bằng chủ trương đa đảng phái từ những người theo đường lối cải cách ôn hòa đến những người theo chủ nghĩa cộng sản cánh tả cực đoan. Họ thường có khuynh hướng thay đổi triệt để bằng hành động cách mạng bạo lực. Những năm gần đây, cuộc tranh cãi này đã dần lắng dịu bởi câu hỏi, liệu chủ nghĩa xã hội có thể tồn tại độc lập và sánh đôi với chủ nghĩa tư bản hay không? Hầu hết các nước phương Tây hiện nay đều lựa chọn chế độ Dân chủ xã hội. Một số khác vẫn theo đuổi chủ nghĩa xã hội. Trong cả hai trường phái trên, họ đều cố gắng vận dụng nội lực tư bản của mình một cách hiệu quả nhất để phục vụ cho lợi ích xã hội. Đồng thời, họ đều ủng hộ thị trường tự do cũng như công nhận việc tư hữu về tài sản. Tuy nhiên, điều đó chỉ thực sự có tại các nước đã phát triển với truyền thống xã hội đa mục tiêu nhằm thu hút sự ủng hộ rộng rãi của quần chúng cho chính đảng lãnh đạo."
       }
     ],
     "k": "socialism"
@@ -3010,7 +3010,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một tổ chức chính trị Anh. Thành lập năm 1884 bởi nhà thiết kế William Morris nhằm tạo dựng lại xã hội dựa vào các nguyên tắc cơ bản của chủ nghĩa xã hội. Liên đoàn đã cho xuất bản quyển luận cương của mình với mục đích chính là đưa ra mô hình xã hội mới với hệ thống lý luận biện chứng của mình. Ngay lập tức, nó đã dẫn đến những xung đột giữa cảnh sát và đám đông dân chúng. Thành viên của nó bao gồm một số người ôn hòa đang cố gắng đấu tranh cho sự tiến bộ của giai cấp công nhân thông qua việc cải cách Quốc hội. Số khác đa phần là những người ủng hộ chủ nghĩa cách mạng và những phần tử vô chính phủ. Do thành phần quá phức tạp nên nó chỉ tồn tại một thời gian ngắn. Ðến năm 1890, hầu hết những người ôn hòa đã đi theo thuyết Fabians, chỉ còn lại những người cực đoan và một thiểu số vô tích sự."
+        "t": "Một tổ chức chính trị Anh. Thành lập năm 1884 bởi nhà thiết kế William Morris nhằm tạo dựng lại xã hội dựa vào các nguyên tắc cơ bản của chủ nghĩa xã hội. Liên đoàn đã cho xuất bản quyển luận cương của mình với mục đích chính là đưa ra mô hình xã hội mới với hệ thống lý luận biện chứng của mình. Ngay lập tức, nó đã dẫn đến những xung đột giữa cảnh sát và đám đông dân chúng. Thành viên của nó bao gồm một số người ôn hòa đang cố gắng đấu tranh cho sự tiến bộ của giai cấp công nhân thông qua việc cải cách Quốc hội. Số khác đa phần là những người ủng hộ chủ nghĩa cách mạng và những phần tử vô chính phủ. Do thành phần quá phức tạp nên nó chỉ tồn tại một thời gian ngắn. Đến năm 1890, hầu hết những người ôn hòa đã đi theo thuyết Fabians, chỉ còn lại những người cực đoan và một thiểu số vô tích sự."
       }
     ],
     "k": "socialist league"
@@ -3774,7 +3774,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "xã hội học khu vực"}],
     "k": "sociology of region"
   },
-  {"h": "Sociomatrix", "segs": [{"k": "m", "t": "Ðồ biểu xã hội."}], "k": "sociomatrix"},
+  {"h": "Sociomatrix", "segs": [{"k": "m", "t": "Đồ biểu xã hội."}], "k": "sociomatrix"},
   {
     "h": "sociometry",
     "segs": [
@@ -4332,7 +4332,7 @@
       },
       {
         "k": "m",
-        "t": "Mặc dù không có tư liệu trực tiếp về nhà triết học Socrates, nhưng qua đoạn văn đối thoại giữa môn đệ Plato của ông và những sự việc đáng ghi nhớ về Xenophon đã gợi nên một hình ảnh sống động về nhân cách, lý tưởng và phương cách sống của ông. Socrates thực hành triết lý sống của ông bằng phương pháp biện chứng. Ông đặt câu hỏi về những vấn đề như sự phán xét của tự nhiên; về đức hạnh hoặc tình bạn và đưa ra những câu trả lời tỏ ý muốn phân tích cẩn thận và tranh luận ngược lại. Ông không nhất thiết phải đưa ra đáp án cho những câu hỏi này mà chỉ thừa nhận việc không đủ kiến thức của bản thân mình. Chính điều đó lại được nhận định là hành động khôn ngoan nhất. Mặc dù việc điều tra nghiên cứu của ông không đi đến kết quả cuối cùng nhưng chúng lại góp phần phát triển quan điểm phân tích sự việc một cách khôn ngoan, sáng suốt. Ðó là cần phải nắm rõ những khái niệm quan trọng trung tâm thông qua những chi tiết trọn vẹn hoặc rời rạc. Phương pháp biện chứng của ông bằng những câu hỏi chéo nhau (phương pháp Socrates) tuy có phần khắc nghiệt nhưng vẫn mang tính hài hước. Ông thường phê phán những nhà ngụy biện và cáo buộc họ tội chủ ý xúc tiến các hành vi đồi bại, xấu xa bằng cách dùng những lý luận và tu từ học giả dối. Mặc dù ông tuyên bố không có ý định đưa ra một học thuyết nhưng các ảnh hưởng của ông về sau đối với những nhà tư tưởng là rất sâu sắc. Ông tin tưởng rằng đức hạnh là một cái gì đó có thể dạy dỗ được và ứng dụng chính mình theo kiểu triết học, chủ yếu để trau dồi về đạo đức và niềm tin hằng ngày."
+        "t": "Mặc dù không có tư liệu trực tiếp về nhà triết học Socrates, nhưng qua đoạn văn đối thoại giữa môn đệ Plato của ông và những sự việc đáng ghi nhớ về Xenophon đã gợi nên một hình ảnh sống động về nhân cách, lý tưởng và phương cách sống của ông. Socrates thực hành triết lý sống của ông bằng phương pháp biện chứng. Ông đặt câu hỏi về những vấn đề như sự phán xét của tự nhiên; về đức hạnh hoặc tình bạn và đưa ra những câu trả lời tỏ ý muốn phân tích cẩn thận và tranh luận ngược lại. Ông không nhất thiết phải đưa ra đáp án cho những câu hỏi này mà chỉ thừa nhận việc không đủ kiến thức của bản thân mình. Chính điều đó lại được nhận định là hành động khôn ngoan nhất. Mặc dù việc điều tra nghiên cứu của ông không đi đến kết quả cuối cùng nhưng chúng lại góp phần phát triển quan điểm phân tích sự việc một cách khôn ngoan, sáng suốt. Đó là cần phải nắm rõ những khái niệm quan trọng trung tâm thông qua những chi tiết trọn vẹn hoặc rời rạc. Phương pháp biện chứng của ông bằng những câu hỏi chéo nhau (phương pháp Socrates) tuy có phần khắc nghiệt nhưng vẫn mang tính hài hước. Ông thường phê phán những nhà ngụy biện và cáo buộc họ tội chủ ý xúc tiến các hành vi đồi bại, xấu xa bằng cách dùng những lý luận và tu từ học giả dối. Mặc dù ông tuyên bố không có ý định đưa ra một học thuyết nhưng các ảnh hưởng của ông về sau đối với những nhà tư tưởng là rất sâu sắc. Ông tin tưởng rằng đức hạnh là một cái gì đó có thể dạy dỗ được và ứng dụng chính mình theo kiểu triết học, chủ yếu để trau dồi về đạo đức và niềm tin hằng ngày."
       }
     ],
     "k": "socrates"
@@ -5001,7 +5001,7 @@
   },
   {
     "h": "sodium dichrormate",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ðicromat nátri."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Đicromat nátri."}],
     "ipa": "'soudiəmdai'kroumit",
     "k": "sodium dichrormate"
   },
@@ -5090,7 +5090,7 @@
   },
   {
     "h": "sodium hyposulphite",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ðithionit nátri."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Đithionit nátri."}],
     "ipa": "'soudiəm,haipɔu'sʌlfait",
     "k": "sodium hyposulphite"
   },
@@ -5661,7 +5661,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "thép đúc mềm"}],
     "k": "soft cast steel"
   },
-  {"h": "soft cataract", "segs": [{"k": "m", "t": "Ðục thể thủy tinh mềm."}], "k": "soft cataract"},
+  {"h": "soft cataract", "segs": [{"k": "m", "t": "Đục thể thủy tinh mềm."}], "k": "soft cataract"},
   {
     "h": "soft cell boundaries",
     "segs": [
@@ -7568,7 +7568,7 @@
     "h": "SoHo",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "một khu ở trung tâm Luân Ðôn, Anh quốc."},
+      {"k": "m", "t": "một khu ở trung tâm Luân Đôn, Anh quốc."},
       {
         "k": "m",
         "t": "một khu ở vùng ven tây Manhattan: các phòng trưng bày nghệ thuật và studio ^dt."
@@ -10720,7 +10720,7 @@
     "k": "sole-sewing machine"
   },
   {"h": "solead line", "segs": [{"k": "m", "t": "đường cơ ghép."}], "k": "solead line"},
-  {"h": "soleal line", "segs": [{"k": "m", "t": "Ðường cơ dép."}], "k": "soleal line"},
+  {"h": "soleal line", "segs": [{"k": "m", "t": "Đường cơ dép."}], "k": "soleal line"},
   {
     "h": "solecism",
     "segs": [
@@ -11263,7 +11263,7 @@
   },
   {
     "h": "solice",
-    "segs": [{"k": "m", "t": "(dt) Ðiều an ủi, niềm khuây khỏa."}],
+    "segs": [{"k": "m", "t": "(dt) Điều an ủi, niềm khuây khỏa."}],
     "ipa": "ɛsɔlis",
     "k": "solice"
   },
@@ -12919,7 +12919,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hiệp hội thương mại độc lập và sau đó trở thành một Ðảng phái chính trị ở Ba Lan. Nó nổi bật trong phong trào đình công ở Gdaflsk năm 1980 được tổ chức bởi Liên minh tự do thuộc vùng biển Baltic. Họ đòi hỏi quyền lợi của Hiệp hội không bị phụ thuộc vào việc kiểm soát của Ðảng cộng sản. Dưới sự lãnh đạo của Lech Walesa (1943-) số hội viên đã tăng lên một cách nhanh chóng. Khi đó, Poles bắt đầu đòi hỏi thêm sự nhượng bộ về chính trị cũng như kinh tế. Năm 1981, Thủ tướng General Jaruzelski công bố tình trạng thiết quân luật và bắt giữ những nhà lãnh đạo Solidarity, đặt mọi hoạt động của tổ chức này ra ngoài vòng pháp luật vào năm 1982. Năm 1989, dưới áp lực từ hai phía cánh tả và cánh hữu, Chính phủ buộc phải tham gia hội nghị bàn tròn do họ đỡ đầu. Từ đây, Solidarity nổi bật lên như một tổ chức chính trị có ưu thế. Năm 1990, Walesa được bầu làm Tổng thống nước Cộng hòa. Thế nhưng bất đồng chính kiến đã nhanh chóng bùng phát. Tổ chức tan rã thành nhiều Ðảng phái chính trị tách rời. Chỉ có một Ðảng duy nhất là Ðảng thiểu số giữ lại tên. Sau nhiều năm đối lập, Solidarity giành được thắng lợi bất ngờ trong cuộc tổng tuyển cử năm 1997 và nhà lãnh đạo Jerzy Buzek trở thành người đứng đầu của chính quyền liên minh."
+        "t": "Hiệp hội thương mại độc lập và sau đó trở thành một Đảng phái chính trị ở Ba Lan. Nó nổi bật trong phong trào đình công ở Gdaflsk năm 1980 được tổ chức bởi Liên minh tự do thuộc vùng biển Baltic. Họ đòi hỏi quyền lợi của Hiệp hội không bị phụ thuộc vào việc kiểm soát của Đảng cộng sản. Dưới sự lãnh đạo của Lech Walesa (1943-) số hội viên đã tăng lên một cách nhanh chóng. Khi đó, Poles bắt đầu đòi hỏi thêm sự nhượng bộ về chính trị cũng như kinh tế. Năm 1981, Thủ tướng General Jaruzelski công bố tình trạng thiết quân luật và bắt giữ những nhà lãnh đạo Solidarity, đặt mọi hoạt động của tổ chức này ra ngoài vòng pháp luật vào năm 1982. Năm 1989, dưới áp lực từ hai phía cánh tả và cánh hữu, Chính phủ buộc phải tham gia hội nghị bàn tròn do họ đỡ đầu. Từ đây, Solidarity nổi bật lên như một tổ chức chính trị có ưu thế. Năm 1990, Walesa được bầu làm Tổng thống nước Cộng hòa. Thế nhưng bất đồng chính kiến đã nhanh chóng bùng phát. Tổ chức tan rã thành nhiều Đảng phái chính trị tách rời. Chỉ có một Đảng duy nhất là Đảng thiểu số giữ lại tên. Sau nhiều năm đối lập, Solidarity giành được thắng lợi bất ngờ trong cuộc tổng tuyển cử năm 1997 và nhà lãnh đạo Jerzy Buzek trở thành người đứng đầu của chính quyền liên minh."
       }
     ],
     "k": "solidarity",
@@ -13641,7 +13641,7 @@
       {
         "k": "ex",
         "t": "she wants to fly solo across the Atlantic",
-        "vi": "chị ấy muốn bay một mình qua Ðại Tây Dương"
+        "vi": "chị ấy muốn bay một mình qua Đại Tây Dương"
       },
       {"k": "m", "t": "liên quan đến một mình, thực hiện một mình"},
       {"k": "ex", "t": "to sing solo", "vi": "hát đơn ca"},
@@ -13755,7 +13755,7 @@
       },
       {
         "k": "m",
-        "t": "Sulayman (Solomon), một hình ảnh nổi tiếng trong truyền thuyết đạo Hồi. Theo kinh Koran, đó là nơi chỉ dành cho những tông đồ đắc đạo. Mọi người đều nói chuyện được với cả lũ chim và kiến và có được thần lực. Chúng giúp họ xây dựng những điện thờ và tượng đài. Sách ghi chép Koranic cũng nói rằng Ðức Chúa Trời đặt một ảo ảnh vào ngai vàng của ông để thử thách nhưng ông đã biết ăn năn. Giai thoại này được gán cho sự sa ngã của Solomon khi ông quá sùng bái những thần tượng."
+        "t": "Sulayman (Solomon), một hình ảnh nổi tiếng trong truyền thuyết đạo Hồi. Theo kinh Koran, đó là nơi chỉ dành cho những tông đồ đắc đạo. Mọi người đều nói chuyện được với cả lũ chim và kiến và có được thần lực. Chúng giúp họ xây dựng những điện thờ và tượng đài. Sách ghi chép Koranic cũng nói rằng Đức Chúa Trời đặt một ảo ảnh vào ngai vàng của ông để thử thách nhưng ông đã biết ăn năn. Giai thoại này được gán cho sự sa ngã của Solomon khi ông quá sùng bái những thần tượng."
       }
     ],
     "k": "solomon (922 bc)"
@@ -13777,15 +13777,15 @@
       {"k": "m", "t": "Một đảo quốc ở miền Tây Nam Thái Bình Dương."},
       {
         "k": "m",
-        "t": "Ðịa hình: Ðảo Solomon hình thành từ một bán đảo lớn gồm có 2 trong số 6 dãy lớn và nhiều đảo nhỏ hơn. Nó nằm giữa 50 Nam và 130 Nam của đường xích đạo. Bougainville là hòn đảo lớn nhất cùng với một vài hòn đảo khác ở Tây Bắc là một phần lãnh thổ của Papua New Guinea. Tất cả phần còn lại tạo thành một quốc gia mà Guadalcanal là hòn đảo quan trọng nhất. Nằm cạnh biển Thái Bình Dương, khu vực này dễ bị động đất và có núi lửa trên những hòn đảo chính."
+        "t": "Địa hình: Đảo Solomon hình thành từ một bán đảo lớn gồm có 2 trong số 6 dãy lớn và nhiều đảo nhỏ hơn. Nó nằm giữa 50 Nam và 130 Nam của đường xích đạo. Bougainville là hòn đảo lớn nhất cùng với một vài hòn đảo khác ở Tây Bắc là một phần lãnh thổ của Papua New Guinea. Tất cả phần còn lại tạo thành một quốc gia mà Guadalcanal là hòn đảo quan trọng nhất. Nằm cạnh biển Thái Bình Dương, khu vực này dễ bị động đất và có núi lửa trên những hòn đảo chính."
       },
       {
         "k": "m",
-        "t": "Kinh tế: Ðất trồng rất màu mỡ, cây dừa và cây thuốc lá được trồng phổ biến. Thế nhưng cùi dừa khô mới là nguồn tài nguyên chính. Cây lấy gỗ và dầu cọ được xuất khẩu. Nghề cá cũng quan trọng."
+        "t": "Kinh tế: Đất trồng rất màu mỡ, cây dừa và cây thuốc lá được trồng phổ biến. Thế nhưng cùi dừa khô mới là nguồn tài nguyên chính. Cây lấy gỗ và dầu cọ được xuất khẩu. Nghề cá cũng quan trọng."
       },
       {
         "k": "m",
-        "t": "Lịch sử: Bị chiếm đóng ít nhất là 3.000 năm, hòn đảo được những người truyền giáo Châu Âu và những người di cư mới tìm đến trong suốt thế kỷ 18 và 19. Vào năm 1885, công ty New Guinea ở Ðức thiết lập quyền kiểm soát ở Bắc Solomon trong lúc Anh tuyên bố chế độ bảo hộ ở những hòn đảo thuộc miền Nam vào năm 1893. Trong suốt cuộc chiến tranh thế giới thứ II, Solomons chứng kiến những trận đánh ác liệt giữa Nhật và lực lượng liên minh. Ðảo Solomon trở thành một thành viên độc lập của khối các Quốc gia thịnh vượng vào ngày 7 tháng 7 năm 1978. Solomon Mamaloni (Thủ tướng từ năm 1989) phải đối mặt với những lời chỉ trích gay gắt suốt năm 1991 vì bị cho rằng ông đã phớt lờ Hiến pháp và mưu cầu quyền cai trị mà không được sự ủy nhiệm. Sau cuộc bầu cử năm 1993, ứng cử viên độc lập, Francis Billy Hilly trở thành Thủ tướng. Việc cai trị của ông kết thúc trong một thời gian ngắn vào cuối năm 1994, khi Mamaloni một lần nữa giành được quyền lực. Sau cuộc bầu cử năm 1997, Bartholomew Ulufa'alu trở thành Thủ tướng. Mối quan hệ với Papua new Guinea vẫn tiếp tục trở nên căng thẳng."
+        "t": "Lịch sử: Bị chiếm đóng ít nhất là 3.000 năm, hòn đảo được những người truyền giáo Châu Âu và những người di cư mới tìm đến trong suốt thế kỷ 18 và 19. Vào năm 1885, công ty New Guinea ở Đức thiết lập quyền kiểm soát ở Bắc Solomon trong lúc Anh tuyên bố chế độ bảo hộ ở những hòn đảo thuộc miền Nam vào năm 1893. Trong suốt cuộc chiến tranh thế giới thứ II, Solomons chứng kiến những trận đánh ác liệt giữa Nhật và lực lượng liên minh. Đảo Solomon trở thành một thành viên độc lập của khối các Quốc gia thịnh vượng vào ngày 7 tháng 7 năm 1978. Solomon Mamaloni (Thủ tướng từ năm 1989) phải đối mặt với những lời chỉ trích gay gắt suốt năm 1991 vì bị cho rằng ông đã phớt lờ Hiến pháp và mưu cầu quyền cai trị mà không được sự ủy nhiệm. Sau cuộc bầu cử năm 1993, ứng cử viên độc lập, Francis Billy Hilly trở thành Thủ tướng. Việc cai trị của ông kết thúc trong một thời gian ngắn vào cuối năm 1994, khi Mamaloni một lần nữa giành được quyền lực. Sau cuộc bầu cử năm 1997, Bartholomew Ulufa'alu trở thành Thủ tướng. Mối quan hệ với Papua new Guinea vẫn tiếp tục trở nên căng thẳng."
       },
       {"k": "m", "t": "Thủ đô: Honiara."},
       {"k": "m", "t": "Diện tích: 28.370 km2"},
@@ -13847,7 +13847,7 @@
       },
       {
         "k": "m",
-        "t": "đầu của thế kỷ thứ 6 trước công nguyên. Ðiều này bao gồm việc hủy bỏ rất nhiều khoản nợ; phục hồi quyền tự do cho những người đã làm nô lệ; cải cách kinh tế nhằm khuyến khích thương mại và công nghiệp; phân chia công dân thành 4 tầng lớp căn cứ vào tài sản, mỗi tầng lớp có trách nhiệm và đặc quyền chính trị riêng biệt. Nó làm suy yếu dần quyền lực của dòng dõi quí tộc, những người mà chỉ có một con duy nhất. Ðiều này khiến Solon thấy rằng cần thiết phải thành lập một Hội đồng mới (boule) để chuẩn bị mọi việc cho Hội đồng công dân. Vì thế, ông đã cắt giảm một số quyền hạn đặc biệt của Areopagus. Ông thay thế bộ luật hà khắc (Draconian) bằng một bộ luật khác mềm dẻo hơn. Nó được xem như nền tảng của những bộ luật kinh điển sau này."
+        "t": "đầu của thế kỷ thứ 6 trước công nguyên. Điều này bao gồm việc hủy bỏ rất nhiều khoản nợ; phục hồi quyền tự do cho những người đã làm nô lệ; cải cách kinh tế nhằm khuyến khích thương mại và công nghiệp; phân chia công dân thành 4 tầng lớp căn cứ vào tài sản, mỗi tầng lớp có trách nhiệm và đặc quyền chính trị riêng biệt. Nó làm suy yếu dần quyền lực của dòng dõi quí tộc, những người mà chỉ có một con duy nhất. Điều này khiến Solon thấy rằng cần thiết phải thành lập một Hội đồng mới (boule) để chuẩn bị mọi việc cho Hội đồng công dân. Vì thế, ông đã cắt giảm một số quyền hạn đặc biệt của Areopagus. Ông thay thế bộ luật hà khắc (Draconian) bằng một bộ luật khác mềm dẻo hơn. Nó được xem như nền tảng của những bộ luật kinh điển sau này."
       }
     ],
     "k": "solon"
@@ -14097,7 +14097,7 @@
     ],
     "k": "solubly"
   },
-  {"h": "solum", "segs": [{"k": "m", "t": "Ðáy."}], "k": "solum"},
+  {"h": "solum", "segs": [{"k": "m", "t": "Đáy."}], "k": "solum"},
   {"h": "solum tympani", "segs": [{"k": "m", "t": "Thành tĩnh mạch cảnh."}], "k": "solum tympani"},
   {"h": "solum unguis", "segs": [{"k": "m", "t": "Lớp đệm móng tay."}], "k": "solum unguis"},
   {
@@ -15105,11 +15105,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một quốc gia nằm trên vùng đất được gọi là \"sừng của châu Phi\" ở hướng Ðông Bắc của lục địa."
+        "t": "Một quốc gia nằm trên vùng đất được gọi là \"sừng của châu Phi\" ở hướng Đông Bắc của lục địa."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Somalia có bờ biển ở hướng Bắc và Ðông Nam trên vịnh Aden và biển Ấn Ðộ Dương. Ðường biên giới tiếp giáp với Ethiopia và vùng nội địa Kenya. Dọc theo bờ biển hướng Bắc, các đồng bằng hoang mạc mọc lên trên những đồi sa thạch đỏ ở miền Bắc cao nguyên. Khí hậu nơi đây nóng và khô cằn. Chỉ có loại thực vật lá gai là tồn tại được. Phía Nam của quốc gia thấp hơn và có một con sông vĩnh cửu là sông Juba. Ðây chính là nguồn thủy điện."
+        "t": "Địa hình: Somalia có bờ biển ở hướng Bắc và Đông Nam trên vịnh Aden và biển Ấn Độ Dương. Đường biên giới tiếp giáp với Ethiopia và vùng nội địa Kenya. Dọc theo bờ biển hướng Bắc, các đồng bằng hoang mạc mọc lên trên những đồi sa thạch đỏ ở miền Bắc cao nguyên. Khí hậu nơi đây nóng và khô cằn. Chỉ có loại thực vật lá gai là tồn tại được. Phía Nam của quốc gia thấp hơn và có một con sông vĩnh cửu là sông Juba. Đây chính là nguồn thủy điện."
       },
       {
         "k": "m",
@@ -15117,13 +15117,13 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Vương quốc Punt, được nhắc đến trong chữ viết của người Ai Cập cổ xưa, hầu như chiếm giữ khu vực ở miền Bắc Somalia và bờ biển đông. Những người Ả Rập Hồi giáo và người Ba Tư thiết lập tuyến đường mua bán trong khu vực giữa thế kỷ thứ 7 và 10 sau Công Nguyên. Dân du cư Somali đã sống tại những khu vực nằm sâu trong đất liền ít nhất là từ thế kỷ thứ 10 và người Gala sống ở hướng Nam và hướng Tây của đất nước. Sau khi Anh chiếm giữ Aden (bây giờ là Yemen) vào năm 1839, người Châu Âu bắt đầu khám phá khu vực này. Vùng đất \"sừng\" ở Mrica được phân chia giữa Anh, Pháp và Ý đã có những chuyển biến tích cực vào cuối thế kỷ 19. Nước cộng hòa Somali hiện nay là kết quả của việc hợp nhất vào năm 1960 vùng Somaliland do Anh bảo hộ và khu tự trị Somalia của Ý. Từ đó trở đi, Somalia bị dính líu vào vụ tranh chấp đường biên giới với Kenya và Ethiopia. Năm 1969, Tổng thống Shermarke bị ám sát trong cuộc đảo chính của cánh tả và Ðảng xã hội cách mạng Marxist Somali lên nắm quyền, đổi tên nước thành Cộng hòa dân chủ Somali dưới chế độ độc tài của General Muhammad Siyad Barrah (1911-1995). Sau 21 năm do một người cai trị, Somali đối mặt với nền kinh tế suy sụp và tình trạng nội chiến leo thang. Chiến tranh bùng nổ vào năm 1988 giữa lực lượng Chính phủ và nhóm nổi loạn, Ðáng kể nhất là Mặt trận dân tộc Somali (SNM). Ðã thế, đất nước lại phải đương đầu với nạn hạn hán. Tình trạng bi đát đến mức có thể gói gọn trong mấy chữ \"tai họa bi thảm nhất do con người tạo ra\". Các cuộc di cư nhằm trốn tránh bạo loạn, sự đói kém và dịch bệnh làm kiệt quệ dân tộc này. Tháng giêng năm 1991, Siyad Barrah được đưa lên nắm quyền để thành lập tổ chức ly khai với tên gọi Mặt trận quốc gia Somali. Trong lúc đó, SNM tuyên bố thành lập Nước Cộng hòa Somali ở phía Bắc. Sự hồi sinh của nền Cộng hòa đã mang lại một số thành công tạm thời tại vùng trước đây do Anh bảo hộ. Nó cũng từ chối liên minh với những nhóm người Somali thân Ý. Ðến giữa năm 1992, hơn 6 triệu người phải đối mặt với nạn đói trong khi các thủ lĩnh chiến tranh lại chỉ lo tranh giành quyền kiểm soát phần đất phía Nam quốc gia và các địa điểm tiếp nhận hàng cứu trợ. Sự trở lại của lực lượng Liên Hiệp Quốc đã góp phần xoa dịu nỗi đau. Tuy nhiên, lực lượng gìn giữ hòa bình quốc tế do Mỹ dẫn đầu lại thất bại trong nỗ lực kêu gọi một cuộc ngừng bắn. Sau đó, lực lượng này được rút về vào tháng 3 năm 1995. Lúc này, Tướng Muhammad Aidid (1936-1996) đứng ra tự xưng là Tổng thống nhưng lại không được cộng đồng quốc tế chấp nhận. Năm 1996, ông đã thiệt mạng trong chiến trận. Con trai ông là Hussein Aidid kế nghiệp cha. Cuộc chiến giữa các bè phái lại tiếp diễn."
+        "t": "Lịch sử: Vương quốc Punt, được nhắc đến trong chữ viết của người Ai Cập cổ xưa, hầu như chiếm giữ khu vực ở miền Bắc Somalia và bờ biển đông. Những người Ả Rập Hồi giáo và người Ba Tư thiết lập tuyến đường mua bán trong khu vực giữa thế kỷ thứ 7 và 10 sau Công Nguyên. Dân du cư Somali đã sống tại những khu vực nằm sâu trong đất liền ít nhất là từ thế kỷ thứ 10 và người Gala sống ở hướng Nam và hướng Tây của đất nước. Sau khi Anh chiếm giữ Aden (bây giờ là Yemen) vào năm 1839, người Châu Âu bắt đầu khám phá khu vực này. Vùng đất \"sừng\" ở Mrica được phân chia giữa Anh, Pháp và Ý đã có những chuyển biến tích cực vào cuối thế kỷ 19. Nước cộng hòa Somali hiện nay là kết quả của việc hợp nhất vào năm 1960 vùng Somaliland do Anh bảo hộ và khu tự trị Somalia của Ý. Từ đó trở đi, Somalia bị dính líu vào vụ tranh chấp đường biên giới với Kenya và Ethiopia. Năm 1969, Tổng thống Shermarke bị ám sát trong cuộc đảo chính của cánh tả và Đảng xã hội cách mạng Marxist Somali lên nắm quyền, đổi tên nước thành Cộng hòa dân chủ Somali dưới chế độ độc tài của General Muhammad Siyad Barrah (1911-1995). Sau 21 năm do một người cai trị, Somali đối mặt với nền kinh tế suy sụp và tình trạng nội chiến leo thang. Chiến tranh bùng nổ vào năm 1988 giữa lực lượng Chính phủ và nhóm nổi loạn, Đáng kể nhất là Mặt trận dân tộc Somali (SNM). Đã thế, đất nước lại phải đương đầu với nạn hạn hán. Tình trạng bi đát đến mức có thể gói gọn trong mấy chữ \"tai họa bi thảm nhất do con người tạo ra\". Các cuộc di cư nhằm trốn tránh bạo loạn, sự đói kém và dịch bệnh làm kiệt quệ dân tộc này. Tháng giêng năm 1991, Siyad Barrah được đưa lên nắm quyền để thành lập tổ chức ly khai với tên gọi Mặt trận quốc gia Somali. Trong lúc đó, SNM tuyên bố thành lập Nước Cộng hòa Somali ở phía Bắc. Sự hồi sinh của nền Cộng hòa đã mang lại một số thành công tạm thời tại vùng trước đây do Anh bảo hộ. Nó cũng từ chối liên minh với những nhóm người Somali thân Ý. Đến giữa năm 1992, hơn 6 triệu người phải đối mặt với nạn đói trong khi các thủ lĩnh chiến tranh lại chỉ lo tranh giành quyền kiểm soát phần đất phía Nam quốc gia và các địa điểm tiếp nhận hàng cứu trợ. Sự trở lại của lực lượng Liên Hiệp Quốc đã góp phần xoa dịu nỗi đau. Tuy nhiên, lực lượng gìn giữ hòa bình quốc tế do Mỹ dẫn đầu lại thất bại trong nỗ lực kêu gọi một cuộc ngừng bắn. Sau đó, lực lượng này được rút về vào tháng 3 năm 1995. Lúc này, Tướng Muhammad Aidid (1936-1996) đứng ra tự xưng là Tổng thống nhưng lại không được cộng đồng quốc tế chấp nhận. Năm 1996, ông đã thiệt mạng trong chiến trận. Con trai ông là Hussein Aidid kế nghiệp cha. Cuộc chiến giữa các bè phái lại tiếp diễn."
       },
       {"k": "m", "t": "Thủ đô: Mogadishu."},
       {"k": "m", "t": "Diện tích: 637.000 km2"},
       {"k": "m", "t": "Dân số: 6,802 triệu (1996)."},
       {"k": "m", "t": "Ngoại tệ: 1 siling Somali = 100 đồng xu."},
-      {"k": "m", "t": "Tôn giáo: Ðạo Hồi Sunni chiếm 99,8%; Cơ đốc 0,1%."},
+      {"k": "m", "t": "Tôn giáo: Đạo Hồi Sunni chiếm 99,8%; Cơ đốc 0,1%."},
       {"k": "m", "t": "Sắc tộc: Somali 98,3%; Ả Rập 1,2%; Bantu 0,4%."},
       {"k": "m", "t": "Ngôn ngữ: Tiếng Somali, Ả Rập, Anh (chính), Ý, Swahili."},
       {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc; Tổ chức thống nhất Châu Phi; Liên minh Ả Rập."}
@@ -15228,7 +15228,7 @@
     "segs": [{"k": "m", "t": "(sự) cảm ứng sinh dưỡng, cảm ứng thể chất."}],
     "k": "somatic induction"
   },
-  {"h": "somatic mutation", "segs": [{"k": "m", "t": "Ðột biến soma."}], "k": "somatic mutation"},
+  {"h": "somatic mutation", "segs": [{"k": "m", "t": "Đột biến soma."}], "k": "somatic mutation"},
   {
     "h": "somatic nervous system",
     "segs": [
@@ -16848,7 +16848,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1845-1847; \"liên minh độc lập\" của Ðức). Một liên minh hình thành bởi 7 bang của những người theo Thiên Chúa Giáo La Mã ở Thụy Sỹ. Mục đích của nó là bảo vệ tính sống còn của Thiên Chúa Giáo La Mã và chuẩn bị để liên bang chống lại các hoạt động của Ðảng cấp tiến đòi thành lập một Chính phủ chuyên quyền ở Thụy Sỹ. Những kẻ cực đoan đã đóng cửa tất cả các tu viện ở Aargau (1841), và lực lượng vũ trang tràn lan khắp bang Lucerne (1844). Phần lớn họ thuộc liên bang Diet đã công bố giải tán Sonderbund năm 1847 và cử quân đội chống lại những người theo chính sách ly khai. Sonderbund đầu hàng. Một Hiến pháp thuộc liên bang mới năm 1848 đã chính thức chấm dứt chủ quyền của các bang này."
+        "t": "(1845-1847; \"liên minh độc lập\" của Đức). Một liên minh hình thành bởi 7 bang của những người theo Thiên Chúa Giáo La Mã ở Thụy Sỹ. Mục đích của nó là bảo vệ tính sống còn của Thiên Chúa Giáo La Mã và chuẩn bị để liên bang chống lại các hoạt động của Đảng cấp tiến đòi thành lập một Chính phủ chuyên quyền ở Thụy Sỹ. Những kẻ cực đoan đã đóng cửa tất cả các tu viện ở Aargau (1841), và lực lượng vũ trang tràn lan khắp bang Lucerne (1844). Phần lớn họ thuộc liên bang Diet đã công bố giải tán Sonderbund năm 1847 và cử quân đội chống lại những người theo chính sách ly khai. Sonderbund đầu hàng. Một Hiến pháp thuộc liên bang mới năm 1848 đã chính thức chấm dứt chủ quyền của các bang này."
       }
     ],
     "k": "sonderbund"
@@ -16864,7 +16864,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Triều đại nhà Tống. (Bắc Tống 960-1126; Nam Tống 1127-1279). Triều đại đã thống nhất hầu hết Trung Quốc trong giai đoạn hỗn loạn sau sự tan rã của triều đại nhà Ðường. Dù vậy, nó không bao giờ cai trị được trọn vẹn cả Trung Quốc. Phía Tây Bắc là vương quốc Tibetan và Ðông Bắc là Liêu. Nhà Tống phải cống nạp vải vóc, tơ lụa hàng năm. Năm 1125-1126, kỵ binh nước Kim bất ngờ tấn công Khai Phong, thủ đô nhà Tống, bắt giữ Hoàng đế và 3.000 phi tần đưa về Mãn Châu. Hoàng tử nhà Tống sau đó đã kiến tạo một triều đình mới tại Hàng Châu ở miền Nam với hy vọng thu hồi lại Bắc Tống. Ông gọi cung điện mới là Xingzai (thủ đô tạm thời). Sau đó, miền Nam Trung Quốc trở thành trung tâm quốc gia. Năm 1276, Kublai Khan chiếm Hàng Châu. Hai vị hoàng tử nhỏ trốn thoát nhưng cuối cùng cũng bị chết đuối gần Hong Kong trong lúc cố tránh việc truy đuổi của quân binh Mông Cổ. Toàn bộ Trung Quốc lần đầu tiên bị cai trị bởi một sắc tộc man di."
+        "t": "Triều đại nhà Tống. (Bắc Tống 960-1126; Nam Tống 1127-1279). Triều đại đã thống nhất hầu hết Trung Quốc trong giai đoạn hỗn loạn sau sự tan rã của triều đại nhà Đường. Dù vậy, nó không bao giờ cai trị được trọn vẹn cả Trung Quốc. Phía Tây Bắc là vương quốc Tibetan và Đông Bắc là Liêu. Nhà Tống phải cống nạp vải vóc, tơ lụa hàng năm. Năm 1125-1126, kỵ binh nước Kim bất ngờ tấn công Khai Phong, thủ đô nhà Tống, bắt giữ Hoàng đế và 3.000 phi tần đưa về Mãn Châu. Hoàng tử nhà Tống sau đó đã kiến tạo một triều đình mới tại Hàng Châu ở miền Nam với hy vọng thu hồi lại Bắc Tống. Ông gọi cung điện mới là Xingzai (thủ đô tạm thời). Sau đó, miền Nam Trung Quốc trở thành trung tâm quốc gia. Năm 1276, Kublai Khan chiếm Hàng Châu. Hai vị hoàng tử nhỏ trốn thoát nhưng cuối cùng cũng bị chết đuối gần Hong Kong trong lúc cố tránh việc truy đuổi của quân binh Mông Cổ. Toàn bộ Trung Quốc lần đầu tiên bị cai trị bởi một sắc tộc man di."
       },
       {
         "k": "m",
@@ -17065,7 +17065,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(còn gọi là Songhai hoặc Songhoi). Ðế quốc Tây Phi trước đây nằm bên sông Niger. Nó cũng chính là tên gọi và ngôn ngữ của dân tộc này được nói ở Mali. Truyền thuyết cho rằng Berber Christian, al-Yaman thành lập Songhay vào thế kỷ thứ 7 sau công nguyên ở hòn đảo Kukiya, bên dưới Gao. Những người thống trị trở thành vua Hồi giáo (1200) và dời đô về Gao. Năm 1325, đế quốc Mali sáp nhập Songhay nhưng đến năm 1335, Sonni Ali Kolon, hậu duệ của al-Yaman tự xưng mình là vua. Vào khoảng năm 1464, Sonni Ali giành độc lập cho Songhay và mở mang bờ cõi. Tuy nhiên, con trai ông, Bakari là một người yếu đuối nên dòng dõi bị tuyệt tự. Năm 1493, Askia Muhammad I thành lập đế chế mới thay thế ông. Ông ta đã đưa Songhay trở thành đế quốc quan trọng nhất ở miền Tây Châu Phi lấn át cả Mali. Vào năm 1528 hoặc 1529, Askia Muhammad bị truất phế bởi con trai mình. Thế nhưng ông ta và 7 người Askias thân cận khác đều là những người yếu đuối, độc ác và trụy lạc nên đế quốc suy vong. Năm 1591, nó trở thành con mồi dễ dàng bị bắt nạt và đe dọa bằng vũ lực của người Moroccans. Họ đánh bại quân đội Songhay ở Tondibi, gần Gao. Tuy nhiên, họ không đủ khả năng kiểm soát một lãnh thổ lớn đến như vậy. Ðến thế kỷ 17, tự nó tan rã thành nhiều quốc gia nhỏ hơn."
+        "t": "(còn gọi là Songhai hoặc Songhoi). Đế quốc Tây Phi trước đây nằm bên sông Niger. Nó cũng chính là tên gọi và ngôn ngữ của dân tộc này được nói ở Mali. Truyền thuyết cho rằng Berber Christian, al-Yaman thành lập Songhay vào thế kỷ thứ 7 sau công nguyên ở hòn đảo Kukiya, bên dưới Gao. Những người thống trị trở thành vua Hồi giáo (1200) và dời đô về Gao. Năm 1325, đế quốc Mali sáp nhập Songhay nhưng đến năm 1335, Sonni Ali Kolon, hậu duệ của al-Yaman tự xưng mình là vua. Vào khoảng năm 1464, Sonni Ali giành độc lập cho Songhay và mở mang bờ cõi. Tuy nhiên, con trai ông, Bakari là một người yếu đuối nên dòng dõi bị tuyệt tự. Năm 1493, Askia Muhammad I thành lập đế chế mới thay thế ông. Ông ta đã đưa Songhay trở thành đế quốc quan trọng nhất ở miền Tây Châu Phi lấn át cả Mali. Vào năm 1528 hoặc 1529, Askia Muhammad bị truất phế bởi con trai mình. Thế nhưng ông ta và 7 người Askias thân cận khác đều là những người yếu đuối, độc ác và trụy lạc nên đế quốc suy vong. Năm 1591, nó trở thành con mồi dễ dàng bị bắt nạt và đe dọa bằng vũ lực của người Moroccans. Họ đánh bại quân đội Songhay ở Tondibi, gần Gao. Tuy nhiên, họ không đủ khả năng kiểm soát một lãnh thổ lớn đến như vậy. Đến thế kỷ 17, tự nó tan rã thành nhiều quốc gia nhỏ hơn."
       }
     ],
     "k": "songhay"
@@ -17503,7 +17503,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(còn gọi là Ali Ber hoặc Ali vĩ đại) (1492). Người thống trị Songhay từ năm 1464 hoặc 1465 và là người thực sự sáng lập ra đế quốc Songhay. Ông kiến tạo nền độc lập cho Songhay và sau đó mở rộng bờ cõi. Năm 1469, ông chiếm Timbuktu rồi Jenne năm 1473. Người ghi chép sử Timbuktu miêu tả ông là người độc ác, không tín ngưỡng và có tính khí phóng đãng. Họ cũng cáo buộc ông ngược đãi những người theo đạo mặc dù bản thân giả vờ trở thành một người Hồi giáo. Ông bị chết đuối và con trai ông là Bakari lên nối ngôi. Ðây cũng chính là người nối dõi cuối cùng."
+        "t": "(còn gọi là Ali Ber hoặc Ali vĩ đại) (1492). Người thống trị Songhay từ năm 1464 hoặc 1465 và là người thực sự sáng lập ra đế quốc Songhay. Ông kiến tạo nền độc lập cho Songhay và sau đó mở rộng bờ cõi. Năm 1469, ông chiếm Timbuktu rồi Jenne năm 1473. Người ghi chép sử Timbuktu miêu tả ông là người độc ác, không tín ngưỡng và có tính khí phóng đãng. Họ cũng cáo buộc ông ngược đãi những người theo đạo mặc dù bản thân giả vờ trở thành một người Hồi giáo. Ông bị chết đuối và con trai ông là Bakari lên nối ngôi. Đây cũng chính là người nối dõi cuối cùng."
       }
     ],
     "k": "sonni ali"
@@ -17724,7 +17724,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những đứa con của tự do là tên gọi một nhóm nhà cách mạng Mỹ. Họ xuất hiện ở Massachusetts và New York năm 1765 để tổ chức các thuộc địa chống lại luật tem thuế. Tại cả hai nơi đã xảy ra những cuộc nổi loạn nghiêm trọng. Họ phát tài liệu tuyên truyền; tẩy chay và làm vô hiệu các tiêu chí để đánh giá. Tổ chức này lan rộng sang những thuộc địa khác và trở thành các hoạt động chống lại sự thống trị của người Anh đã được đồng bộ hóa bởi các Ủy ban. Tổ chức này sau đó còn hậu thuẫn cho Ðảng Trà Boston (1773); là thành phần cấp tiến của Hội nghị các thuộc địa đấu tranh giành độc lập (1774); tham gia vào vụ trét nhựa đường và rải lông thú để chống phá các phần tử trung thành với nước Anh."
+        "t": "Những đứa con của tự do là tên gọi một nhóm nhà cách mạng Mỹ. Họ xuất hiện ở Massachusetts và New York năm 1765 để tổ chức các thuộc địa chống lại luật tem thuế. Tại cả hai nơi đã xảy ra những cuộc nổi loạn nghiêm trọng. Họ phát tài liệu tuyên truyền; tẩy chay và làm vô hiệu các tiêu chí để đánh giá. Tổ chức này lan rộng sang những thuộc địa khác và trở thành các hoạt động chống lại sự thống trị của người Anh đã được đồng bộ hóa bởi các Ủy ban. Tổ chức này sau đó còn hậu thuẫn cho Đảng Trà Boston (1773); là thành phần cấp tiến của Hội nghị các thuộc địa đấu tranh giành độc lập (1774); tham gia vào vụ trét nhựa đường và rải lông thú để chống phá các phần tử trung thành với nước Anh."
       }
     ],
     "k": "sons of liberty"
@@ -18260,7 +18260,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1630-1714). Nữ cử tri của Hanover (1658-1714). Bà là đứa con thứ 12 của cử tri Frederick ở Palatinate và Elizabeth, con gái của James I. Bà kết hôn với Ernest Augustus ở Brunswick-Luneburg, người trở thành cử tri của Hanover. Dựa vào Luật cư trú (1701), bà là hậu duệ duy nhất theo Ðạo Tin Lành còn sống sót của vua Stuarts. Do vậy, bà tiếp nhận ngai vàng của vương quốc Anh và đổi tên con gái thành Anne. Bà mất một vài tuần trước khi Anne và con trai trở thành vua George I, vị vua Hanoverian đầu tiên của Anh và Xcốt-len. Bà là một phụ nữ có học thức và quan tâm tới công việc của nước Anh."
+        "t": "(1630-1714). Nữ cử tri của Hanover (1658-1714). Bà là đứa con thứ 12 của cử tri Frederick ở Palatinate và Elizabeth, con gái của James I. Bà kết hôn với Ernest Augustus ở Brunswick-Luneburg, người trở thành cử tri của Hanover. Dựa vào Luật cư trú (1701), bà là hậu duệ duy nhất theo Đạo Tin Lành còn sống sót của vua Stuarts. Do vậy, bà tiếp nhận ngai vàng của vương quốc Anh và đổi tên con gái thành Anne. Bà mất một vài tuần trước khi Anne và con trai trở thành vua George I, vị vua Hanoverian đầu tiên của Anh và Xcốt-len. Bà là một phụ nữ có học thức và quan tâm tới công việc của nước Anh."
       }
     ],
     "k": "sophia"
@@ -19722,7 +19722,7 @@
       {
         "k": "ex",
         "t": "That was kind of a stupid thing to do wasn't it?:",
-        "vi": "Ðó là một việc làm hơi ngu xuẩn, có phải không?"
+        "vi": "Đó là một việc làm hơi ngu xuẩn, có phải không?"
       }
     ],
     "k": "sort of something"
@@ -20196,7 +20196,7 @@
     "segs": [{"k": "m", "t": "một loại thuốc dùng chữa nhịp tim bất thường."}],
     "k": "sotalol"
   },
-  {"h": "Soter", "segs": [{"k": "m", "t": "Ðấng Cứu Tinh."}], "k": "soter"},
+  {"h": "Soter", "segs": [{"k": "m", "t": "Đấng Cứu Tinh."}], "k": "soter"},
   {"h": "soteria", "segs": [{"k": "m", "t": "(chứng) ám ảnh được an toàn."}], "k": "soteria"},
   {
     "h": "soteriologic",
@@ -20525,7 +20525,7 @@
       {
         "k": "ex",
         "t": "President Ho is the soul of the Party",
-        "vi": "Hồ chủ tịch là linh hồn của Ðảng"
+        "vi": "Hồ chủ tịch là linh hồn của Đảng"
       },
       {"k": "m", "t": "vĩ nhân"},
       {"k": "ex", "t": "the greatest souls of antiquity", "vi": "những vĩ nhân của thời xưa"},
@@ -20569,7 +20569,7 @@
     "segs": [{"k": "m", "t": "(dt) Anh/ chị đỡ đầu."}],
     "k": "soul brother/sister"
   },
-  {"h": "soul deafness", "segs": [{"k": "m", "t": "Ðiếc tâm thần."}], "k": "soul deafness"},
+  {"h": "soul deafness", "segs": [{"k": "m", "t": "Điếc tâm thần."}], "k": "soul deafness"},
   {
     "h": "soul foot",
     "segs": [
@@ -24066,7 +24066,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "-East Asia Treaty Organization (SEATO). Khối liên minh phòng thủ được thiết lập theo Hiệp ước phòng thủ chung Ðông Nam Á ký ở Manila năm 1954. Ðây cũng là một phần trong chính sách của Mỹ nhằm ngăn chặn chủ nghĩa cộng sản. Những nước tham gia hiệp ước gồm có Úc, Anh, Pháp, New Zealand, Pakistan, Philippines, Thailand và Mỹ. Khu vực thỏa thuận bao gồm Ðông Nam Á và một phần Tây Nam Thái Bình Dương. Pakistan và Pháp rút lui khỏi tổ chức từ năm 1973 và 1974. Cuối cùng, Tổ chức giải thể năm 1977."
+        "t": "-East Asia Treaty Organization (SEATO). Khối liên minh phòng thủ được thiết lập theo Hiệp ước phòng thủ chung Đông Nam Á ký ở Manila năm 1954. Đây cũng là một phần trong chính sách của Mỹ nhằm ngăn chặn chủ nghĩa cộng sản. Những nước tham gia hiệp ước gồm có Úc, Anh, Pháp, New Zealand, Pakistan, Philippines, Thailand và Mỹ. Khu vực thỏa thuận bao gồm Đông Nam Á và một phần Tây Nam Thái Bình Dương. Pakistan và Pháp rút lui khỏi tổ chức từ năm 1973 và 1974. Cuối cùng, Tổ chức giải thể năm 1977."
       }
     ],
     "k": "south",
@@ -24078,7 +24078,7 @@
       {"k": "m", "t": "Quốc gia đã xâm chiếm gần như toàn bộ miền Nam lục địa Châu Phi."},
       {
         "k": "m",
-        "t": "Ðịa hình: Miền Bắc đất nước giáp với Namibia, Botswana, Zimbabwe, Mozambique, và Swaziland. Phía Nam, vùng Free State một phần bị bao quanh bởi Lesotho. Nó hình thành một vùng đất bị bao quanh bởi nhiều vùng đất khác. Ở hướng Ðông là ranh giới của Mozambique, Swaziland, và Lesotho. Từ mũi Agulhas ở vùng cực Nam tới sông Limpopo ở vùng cực Ðông Bắc có khoảng cách là 1.600 km (1.000 dặm). Hai con sông lớn, sông Orange và phụ lưu của nó, nhánh Vaal đi suốt chiều dài đất nước từ dãy núi Drakensberg ở hướng Ðông tới hướng Tây Thái Bình Dương. Có những đồng cỏ trôi nổi (thảo nguyên) và sa mạc. Khí hậu có biên độ thay đổi rất rộng. Từ khí hậu mùa hè khô ráo, ấm áp ở hướng Tây Nam đến nóng và ẩm ướt ở bờ biển phía Ðông. Hướng Bắc mùa Ðông có sương giá ở những vùng đất cao."
+        "t": "Địa hình: Miền Bắc đất nước giáp với Namibia, Botswana, Zimbabwe, Mozambique, và Swaziland. Phía Nam, vùng Free State một phần bị bao quanh bởi Lesotho. Nó hình thành một vùng đất bị bao quanh bởi nhiều vùng đất khác. Ở hướng Đông là ranh giới của Mozambique, Swaziland, và Lesotho. Từ mũi Agulhas ở vùng cực Nam tới sông Limpopo ở vùng cực Đông Bắc có khoảng cách là 1.600 km (1.000 dặm). Hai con sông lớn, sông Orange và phụ lưu của nó, nhánh Vaal đi suốt chiều dài đất nước từ dãy núi Drakensberg ở hướng Đông tới hướng Tây Thái Bình Dương. Có những đồng cỏ trôi nổi (thảo nguyên) và sa mạc. Khí hậu có biên độ thay đổi rất rộng. Từ khí hậu mùa hè khô ráo, ấm áp ở hướng Tây Nam đến nóng và ẩm ướt ở bờ biển phía Đông. Hướng Bắc mùa Đông có sương giá ở những vùng đất cao."
       },
       {
         "k": "m",
@@ -24086,15 +24086,15 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Nam Phi đã từng bị chiếm giữ bởi người San (Bushmen) và người Khoikhoin (Hottentots) khoảng 10.000 năm trước đây. Những người nói tiếng Bantu đã di chuyển vào khu vực và phát triển ngành công nghiệp mỏ; mua bán dọc theo bờ biển phía Ðông Châu Phi. Cũng như thế, người Châu Âu bắt đầu khám phá ra nó vào thế kỷ 15. Năm 1652, Hà Lan đã thành lập thuộc địa tại nơi này. Những người dân đến định cư tại đây đầu tiên là người Phi gốc Hà Lan và sau đó là người Nam Phi gốc Âu. Vào lúc đầu, người San và người Khoikhoin kết hợp lại và tạo hôn phối với người Phi gốc Hà Lan. Nhưng sau đó, người Khoikhoin bị thay thế bởi người Phi gốc Hà Lan và bị buộc trở thành lao động chân tay trên nông trại của họ. Tộc San rút lui vào những khu vực có núi. Một số người Phi gốc Hà Lan lại tiếp tục di cư. Họ di chuyển vào vùng nội địa và chạm trán với người Bantu. Họ đã tổ chức một xã hội nông nghiệp ổn định. Vào cuối thế kỷ 18, cuộc chiến tranh biên giới nổ ra giữa người Bantu và người Phi gốc Hà Lan."
+        "t": "Lịch sử: Nam Phi đã từng bị chiếm giữ bởi người San (Bushmen) và người Khoikhoin (Hottentots) khoảng 10.000 năm trước đây. Những người nói tiếng Bantu đã di chuyển vào khu vực và phát triển ngành công nghiệp mỏ; mua bán dọc theo bờ biển phía Đông Châu Phi. Cũng như thế, người Châu Âu bắt đầu khám phá ra nó vào thế kỷ 15. Năm 1652, Hà Lan đã thành lập thuộc địa tại nơi này. Những người dân đến định cư tại đây đầu tiên là người Phi gốc Hà Lan và sau đó là người Nam Phi gốc Âu. Vào lúc đầu, người San và người Khoikhoin kết hợp lại và tạo hôn phối với người Phi gốc Hà Lan. Nhưng sau đó, người Khoikhoin bị thay thế bởi người Phi gốc Hà Lan và bị buộc trở thành lao động chân tay trên nông trại của họ. Tộc San rút lui vào những khu vực có núi. Một số người Phi gốc Hà Lan lại tiếp tục di cư. Họ di chuyển vào vùng nội địa và chạm trán với người Bantu. Họ đã tổ chức một xã hội nông nghiệp ổn định. Vào cuối thế kỷ 18, cuộc chiến tranh biên giới nổ ra giữa người Bantu và người Phi gốc Hà Lan."
       },
       {
         "k": "m",
-        "t": "Ðến năm 1806, Anh thiết lập thuộc địa và đánh nhau với người nói tiếng Bantu. Vào thập niên 1830, một số lượng lớn người Nam Phi gốc Hà Lan chuyển về hướng Bắc đến Great Trek. Do họ từ chối thành lập liên bang với Anh, dẫn tới cuộc chiến tranh Boer. Nước cộng hòa Transvaal và Orange Free State bị người Anh đánh bại buộc phải chấp nhận làm thuộc địa và bị sáp nhập cùng với Cape và Natal vào năm 1910 để hình thành Liên minh Nam Phi. Nó có chính quyền riêng theo cơ chế tự trị thuộc Khối liên hiệp Anh. Về mặt chính trị, nó bị chiếm giữ bởi một nhóm nhỏ dân da trắng. Nam Phi đã ủng hộ Anh trong 2 cuộc chiến tranh thế giới. Phân đội kỵ binh của họ đã từng tham gia rất nhiều mặt trận. Sau năm 1948, lực lượng cánh hữu của người Nam Phi gốc Âu thống trị Ðảng dân tộc (NP) và thành lập Chính phủ. Nó áp dụng hệ thống phân biệt chủng tộc (Apartheid) một cách hà khắc. Nó phân biệt đối xử và tước quyền công dân các sắc dân khác không thuộc giống dân da trắng. Chính sách này đã tạo nên cuộc thảm sát dã man những người có thái độ bất đồng (xem thêm phần Sharpeville Massacre)."
+        "t": "Đến năm 1806, Anh thiết lập thuộc địa và đánh nhau với người nói tiếng Bantu. Vào thập niên 1830, một số lượng lớn người Nam Phi gốc Hà Lan chuyển về hướng Bắc đến Great Trek. Do họ từ chối thành lập liên bang với Anh, dẫn tới cuộc chiến tranh Boer. Nước cộng hòa Transvaal và Orange Free State bị người Anh đánh bại buộc phải chấp nhận làm thuộc địa và bị sáp nhập cùng với Cape và Natal vào năm 1910 để hình thành Liên minh Nam Phi. Nó có chính quyền riêng theo cơ chế tự trị thuộc Khối liên hiệp Anh. Về mặt chính trị, nó bị chiếm giữ bởi một nhóm nhỏ dân da trắng. Nam Phi đã ủng hộ Anh trong 2 cuộc chiến tranh thế giới. Phân đội kỵ binh của họ đã từng tham gia rất nhiều mặt trận. Sau năm 1948, lực lượng cánh hữu của người Nam Phi gốc Âu thống trị Đảng dân tộc (NP) và thành lập Chính phủ. Nó áp dụng hệ thống phân biệt chủng tộc (Apartheid) một cách hà khắc. Nó phân biệt đối xử và tước quyền công dân các sắc dân khác không thuộc giống dân da trắng. Chính sách này đã tạo nên cuộc thảm sát dã man những người có thái độ bất đồng (xem thêm phần Sharpeville Massacre)."
       },
       {
         "k": "m",
-        "t": "Nam Phi trở thành một nước Cộng hòa (1960) và tách rời khỏi Khối liên hiệp (1961). Hội nghị Quốc gia Châu Phi (ANC) bị phá hoại và những nhà lãnh đạo, kể cả Nelson Mandea cũng bị tống giam. Mặc dù nền kinh tế vững mạnh cho phép nó cai trị cả một nửa lục địa miền Nam nhưng sự nổi dậy của những người da đen theo chủ nghĩa dân tộc tại trong nước cũng như những quốc gia xung quanh (gồm cả lãnh thổ trước đây được ủy thác là Namibia) làm gia tăng các vụ bạo loạn khiến Nam Phi bị cô lập trong việc ngoại giao với thế giới. Năm 1985, chế độ P. W. Botha bắt đầu nỗ lực để làm giảm bớt căng thẳng bằng cách diễn giải chủ nghĩa Apartheid theo khuôn khổ tự do hơn. Tuy nhiên, sự cố gắng chẳng có ý nghĩa gì vì hai lý do: sự gia tăng thành phần da màu trong lực lượng quân đội; nhóm cánh hữu cực đoan ủng hộ chính sách này chỉ là một số ít người da trắng. Vào năm 1986, tình trạng khẩn cấp được ban bố. Hàng ngàn người bị bỏ tù mà không qua xét xử. Dư luận trong nước và quốc tế đều có chung tiếng nói chống lại chủ nghĩa này. Quân đội Nam Phi đánh nhau với du kích quân SWAPO ở Namibia và Angola. Lực lượng bị đặt ngoài vòng pháp luật ANC lại được sự ủng hộ của những quốc gia lân cận đã tạo ra hàng loạt những cuộc tấn công vượt biên giới. Năm 1988, Hội nghị Mỹ bỏ phiếu ủng hộ việc phân chia lại biên giới các quốc gia châu Phi một cách phù hợp dưới sự giám sát của quốc tế. Năm 1989, Tổng thống Botha về hưu và người kế vị ông là Tổng thống De Klerk bắt đầu cuộc điều tra cho việc hòa giải chủng tộc. Sau khi quyết định bãi bỏ chủ nghĩa Apartheid được phê chuẩn vào tháng 7 năm 1990, tình hình đã trở nên bớt căng thẳng. Nam Phi tái hòa nhập lại các hoạt động thể thao Quốc tế. Tháng 12 năm 1991, các đại diện từ phía Chính phủ, Ðảng Quốc gia, Ðảng Dân chủ, Ðảng cộng sản Nam Phi, ANC, Ðảng tự do Inkatha, từ Ấn Ðộ và cộng đồng da màu đã kết hợp lại để hình thành Hội nghị dân chủ Nam Phi (CODESA). Cuộc bàn cãi suốt năm 1992 đã tạm dừng bởi một số vụ bạo loạn phân biệt chủng tộc bất ngờ xảy ra. Hội nghị đã bị tấn công dữ dội bởi tổ chức của những người Nam Phi gốc Âu theo chủ nghĩa Phát xít mới. Năm 1993, Chính phủ bị thay thế bởi Hội đồng điều hành chuyển tiếp đa đảng. Cuộc bầu cử đa chủng tộc đầu tiên được tổ chức vào năm 1994. ANC nổi bật và giành thắng lợi hoàn toàn. Nelson Mandenla trở thành Tổng thống cùng với 2 Phó Tổng thống là Thabo Mbeki (ANC) và de Klerk (NP) lãnh đạo Chính phủ liên minh thống nhất Quốc gia. Cùng năm, Nam Phi được Tổ chức thống nhất Châu Phi thừa nhận và tái gia nhập Khối thịnh vượng chung. Năm 1996, Hiến pháp dân chủ đa chủng tộc lâu dài được chấp nhận. De Klerk và đảng Quốc gia rút lui khỏi Chính phủ liên minh để thành lập đảng đối lập chính thức. Ðến cuối năm 1997, Mandela lên làm Chủ tịch của ANC thay cho Mbeki và vẫn đảm nhiệm chức vụ Tổng thống Nam Phi."
+        "t": "Nam Phi trở thành một nước Cộng hòa (1960) và tách rời khỏi Khối liên hiệp (1961). Hội nghị Quốc gia Châu Phi (ANC) bị phá hoại và những nhà lãnh đạo, kể cả Nelson Mandea cũng bị tống giam. Mặc dù nền kinh tế vững mạnh cho phép nó cai trị cả một nửa lục địa miền Nam nhưng sự nổi dậy của những người da đen theo chủ nghĩa dân tộc tại trong nước cũng như những quốc gia xung quanh (gồm cả lãnh thổ trước đây được ủy thác là Namibia) làm gia tăng các vụ bạo loạn khiến Nam Phi bị cô lập trong việc ngoại giao với thế giới. Năm 1985, chế độ P. W. Botha bắt đầu nỗ lực để làm giảm bớt căng thẳng bằng cách diễn giải chủ nghĩa Apartheid theo khuôn khổ tự do hơn. Tuy nhiên, sự cố gắng chẳng có ý nghĩa gì vì hai lý do: sự gia tăng thành phần da màu trong lực lượng quân đội; nhóm cánh hữu cực đoan ủng hộ chính sách này chỉ là một số ít người da trắng. Vào năm 1986, tình trạng khẩn cấp được ban bố. Hàng ngàn người bị bỏ tù mà không qua xét xử. Dư luận trong nước và quốc tế đều có chung tiếng nói chống lại chủ nghĩa này. Quân đội Nam Phi đánh nhau với du kích quân SWAPO ở Namibia và Angola. Lực lượng bị đặt ngoài vòng pháp luật ANC lại được sự ủng hộ của những quốc gia lân cận đã tạo ra hàng loạt những cuộc tấn công vượt biên giới. Năm 1988, Hội nghị Mỹ bỏ phiếu ủng hộ việc phân chia lại biên giới các quốc gia châu Phi một cách phù hợp dưới sự giám sát của quốc tế. Năm 1989, Tổng thống Botha về hưu và người kế vị ông là Tổng thống De Klerk bắt đầu cuộc điều tra cho việc hòa giải chủng tộc. Sau khi quyết định bãi bỏ chủ nghĩa Apartheid được phê chuẩn vào tháng 7 năm 1990, tình hình đã trở nên bớt căng thẳng. Nam Phi tái hòa nhập lại các hoạt động thể thao Quốc tế. Tháng 12 năm 1991, các đại diện từ phía Chính phủ, Đảng Quốc gia, Đảng Dân chủ, Đảng cộng sản Nam Phi, ANC, Đảng tự do Inkatha, từ Ấn Độ và cộng đồng da màu đã kết hợp lại để hình thành Hội nghị dân chủ Nam Phi (CODESA). Cuộc bàn cãi suốt năm 1992 đã tạm dừng bởi một số vụ bạo loạn phân biệt chủng tộc bất ngờ xảy ra. Hội nghị đã bị tấn công dữ dội bởi tổ chức của những người Nam Phi gốc Âu theo chủ nghĩa Phát xít mới. Năm 1993, Chính phủ bị thay thế bởi Hội đồng điều hành chuyển tiếp đa đảng. Cuộc bầu cử đa chủng tộc đầu tiên được tổ chức vào năm 1994. ANC nổi bật và giành thắng lợi hoàn toàn. Nelson Mandenla trở thành Tổng thống cùng với 2 Phó Tổng thống là Thabo Mbeki (ANC) và de Klerk (NP) lãnh đạo Chính phủ liên minh thống nhất Quốc gia. Cùng năm, Nam Phi được Tổ chức thống nhất Châu Phi thừa nhận và tái gia nhập Khối thịnh vượng chung. Năm 1996, Hiến pháp dân chủ đa chủng tộc lâu dài được chấp nhận. De Klerk và đảng Quốc gia rút lui khỏi Chính phủ liên minh để thành lập đảng đối lập chính thức. Đến cuối năm 1997, Mandela lên làm Chủ tịch của ANC thay cho Mbeki và vẫn đảm nhiệm chức vụ Tổng thống Nam Phi."
       },
       {
         "k": "m",
@@ -24105,7 +24105,7 @@
       {"k": "m", "t": "Ngoại tệ: 1 đồng ran =100 xu."},
       {
         "k": "m",
-        "t": "Tôn giáo: Ðạo Cơ đốc 59%; giáo hội Bantu 17%; Hindu 2%; đạo Hồi 1%; Do Thái 1%."
+        "t": "Tôn giáo: Đạo Cơ đốc 59%; giáo hội Bantu 17%; Hindu 2%; đạo Hồi 1%; Do Thái 1%."
       },
       {
         "k": "m",
@@ -24160,7 +24160,7 @@
       {"k": "m", "t": "Lục địa lớn thứ 4 của thế giới."},
       {
         "k": "m",
-        "t": "Ðịa hình: Nam Mỹ nằm chủ yếu ở miền Nam bán cầu. Nó đi ngang qua hướng Bắc xích đạo và nối liền với trung tâm châu Mỹ bởi eo đất Panama chật hẹp. Hơn 2/3 diện tích nằm trong vùng nhiệt đới, trong khi phần thu hẹp ở phía Nam xuyên qua vĩ độ có khí hậu ôn hòa. Nó có cấu trúc tương tự Bắc Mỹ với một mặt biên giới là bờ biển Thái Bình Dương với dãy Andes đồ sộ và nhiều cao nguyên cổ xưa hướng về phía Ðông đại dương này. Nó không có lưu vực trung tâm, tuy nhiên có 3 lưu vực phụ: lưu vực thoát nước của sông Orinoco và của sông Amazon ở phía Bắc; hướng nam là của sông Plate. Chúng tách rời nhau bởi thềm lục địa cổ xưa. Vùng rộng rãi nhất chính là cao nguyên Mato Grosso ở trung tâm lục địa. Xuôi theo dòng chảy về phía Nam là bình nguyên Gran Chaco rộng lớn. Lượng mưa ở khu vực xích đạo rất nhiều, đặc biệt là ở bờ biển. Về hướng Nam của khu rừng rậm xích đạo là vùng đồng cỏ trải rộng như vô tận và những dải đất rộng có thể trồng trọt được ở về phía Ðông của bờ biển. Các cơn mưa chịu ảnh hưởng bởi gió Ðông và yếu dần về phía Tây. Tuy nhiên, điểm đặc trưng ở đây chính là sa mạc Atacama khô cằn. Phía Nam của vùng nhiệt đới thuộc chí tuyến Ðông, các khu rừng ở mặt Tây dãy Andes đón nhận mưa quanh năm trong lúc ở hướng Ðông là vùng bán hoang mạc và thảo nguyên."
+        "t": "Địa hình: Nam Mỹ nằm chủ yếu ở miền Nam bán cầu. Nó đi ngang qua hướng Bắc xích đạo và nối liền với trung tâm châu Mỹ bởi eo đất Panama chật hẹp. Hơn 2/3 diện tích nằm trong vùng nhiệt đới, trong khi phần thu hẹp ở phía Nam xuyên qua vĩ độ có khí hậu ôn hòa. Nó có cấu trúc tương tự Bắc Mỹ với một mặt biên giới là bờ biển Thái Bình Dương với dãy Andes đồ sộ và nhiều cao nguyên cổ xưa hướng về phía Đông đại dương này. Nó không có lưu vực trung tâm, tuy nhiên có 3 lưu vực phụ: lưu vực thoát nước của sông Orinoco và của sông Amazon ở phía Bắc; hướng nam là của sông Plate. Chúng tách rời nhau bởi thềm lục địa cổ xưa. Vùng rộng rãi nhất chính là cao nguyên Mato Grosso ở trung tâm lục địa. Xuôi theo dòng chảy về phía Nam là bình nguyên Gran Chaco rộng lớn. Lượng mưa ở khu vực xích đạo rất nhiều, đặc biệt là ở bờ biển. Về hướng Nam của khu rừng rậm xích đạo là vùng đồng cỏ trải rộng như vô tận và những dải đất rộng có thể trồng trọt được ở về phía Đông của bờ biển. Các cơn mưa chịu ảnh hưởng bởi gió Đông và yếu dần về phía Tây. Tuy nhiên, điểm đặc trưng ở đây chính là sa mạc Atacama khô cằn. Phía Nam của vùng nhiệt đới thuộc chí tuyến Đông, các khu rừng ở mặt Tây dãy Andes đón nhận mưa quanh năm trong lúc ở hướng Đông là vùng bán hoang mạc và thảo nguyên."
       },
       {
         "k": "m",
@@ -24168,11 +24168,11 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Thổ dân Mỹ chính là những người định cư đầu tiên trên lục địa này. Rất nhiều nền văn hóa tinh túy đã phát triển. Ðáng chú ý nhất chính là nền văn hóa của người Incas. Hầu hết Nam Mỹ đều bị Tây Ban Nha và Bồ Ðào Nha chiếm làm thuộc địa. Ðể có được điều đó, Tây Ban Nha chủ yếu nhờ vào những khám phá của Christopher Columbus trong cuộc hành trình dài lần thứ 3 của ông (1498). Ông cho tàu đi dọc theo bờ biển Venezuelan và cập bến tại Trinidad. Năm 1500, nhà thám hiểm Bồ Ðào Nha, Pedro Alvares Cabral, ghé bờ gần Bahia ngày nay và giành quyền sở hữu lãnh thổ này cho Bồ Ðào Nha. Người Bra-xin gốc Bồ Ðào Nha và viên Tổng trấn Tây Ban Nha ở Peru đã thiết lập 2 bộ máy chính quyền để cai trị Nam Mỹ trong suốt thế kỷ 16 và 17. Ðến thế kỷ 18, Tây Ban Nha chia nhỏ Peru ra, đồng thời thêm vào 2 viên chức tổng trấn mới, New Granada (1717) và Rio de la Plata (1776). Anh, Pháp và Hà Lan cũng đã thành lập những thuộc địa nhỏ ở bờ biển Ðông Bắc lục địa vào thế kỷ 17. Các công dân đến từ những nước thực dân đều cư ngụ dọc theo bờ biển. Chính vì thế, các thị trấn và thành phố tại Nam Mỹ đều tập trung ở khu vực này chứ không ở xa trong đất liền."
+        "t": "Lịch sử: Thổ dân Mỹ chính là những người định cư đầu tiên trên lục địa này. Rất nhiều nền văn hóa tinh túy đã phát triển. Đáng chú ý nhất chính là nền văn hóa của người Incas. Hầu hết Nam Mỹ đều bị Tây Ban Nha và Bồ Đào Nha chiếm làm thuộc địa. Để có được điều đó, Tây Ban Nha chủ yếu nhờ vào những khám phá của Christopher Columbus trong cuộc hành trình dài lần thứ 3 của ông (1498). Ông cho tàu đi dọc theo bờ biển Venezuelan và cập bến tại Trinidad. Năm 1500, nhà thám hiểm Bồ Đào Nha, Pedro Alvares Cabral, ghé bờ gần Bahia ngày nay và giành quyền sở hữu lãnh thổ này cho Bồ Đào Nha. Người Bra-xin gốc Bồ Đào Nha và viên Tổng trấn Tây Ban Nha ở Peru đã thiết lập 2 bộ máy chính quyền để cai trị Nam Mỹ trong suốt thế kỷ 16 và 17. Đến thế kỷ 18, Tây Ban Nha chia nhỏ Peru ra, đồng thời thêm vào 2 viên chức tổng trấn mới, New Granada (1717) và Rio de la Plata (1776). Anh, Pháp và Hà Lan cũng đã thành lập những thuộc địa nhỏ ở bờ biển Đông Bắc lục địa vào thế kỷ 17. Các công dân đến từ những nước thực dân đều cư ngụ dọc theo bờ biển. Chính vì thế, các thị trấn và thành phố tại Nam Mỹ đều tập trung ở khu vực này chứ không ở xa trong đất liền."
       },
       {
         "k": "m",
-        "t": "Giữa năm 1816 đến 1825, hầu hết các thuộc địa của Tây Ban Nha tại Nam Mỹ đều đã giành được độc lập dưới sự lãnh đạo của Simon Bolivar và José de San Martin. Sau đó phân chia thành 9 nước tách rời: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay và Paraguay. Năm 1822, Bra-xin giành được nền độc lập từ Bồ Ðào Nha. Năm 1966, Guiana thuộc Anh giành độc lập và đổi thành Guyana. Surinam, thuộc địa Hà Lan, độc lập vào năm 1975. Chỉ có Guiana thuộc Pháp tiếp tục nằm dưới sự cai trị của Pháp. Lục địa này vẫn giữ được nền độc lập chính trị trong suốt thế kỷ 19 một phần nào đó là nhờ vào học thuyết Monroe. Nó ngăn ngừa được việc bành trướng của các nước Châu Âu. Cùng thời gian đó, nó tiếp nhận thêm khoảng 15 triệu dân nhập cư đến từ Châu Âu. Vì thế, về cả 2 mặt văn hóa và hệ tư tưởng, nó chịu nhiều ảnh hưởng từ Mỹ và Châu Âu. Cũng đã có một làn sóng đầu tư kinh tế đáng kể, đặc biệt là từ Anh, tập trung vào mặt hàng nhu yếu phẩm như nước khoáng và thịt bò đến nỗi nơi đây gần như bị phụ thuộc vào lĩnh vực kinh doanh này. Phần lớn lục địa là những người theo đạo Thiên Chúa Giáo La Mã. Vào thế kỷ 19 và đầu thế kỷ 20, giáo hội nắm giữ trung tâm chính trị và địa vị xã hội như một lực lượng bảo thủ. Chỉ đến thời gian gần đây, vị thế của nó mới gặp phải sự thách thức bởi những vị linh mục có tư tưởng giải phóng thần học. Họ kêu gọi giáo hội phải có vai trò tích cực trong việc chống đói nghèo và lạc hậu. Sự đô thị hóa nhanh chóng đã vượt quá khả năng cung ứng nhà ở và việc làm cho người lao động. Trong nỗ lực khuyến khích mua bán và sản xuất, việc hình thành các khối kinh tế như Khối thị trường chung của trung tâm châu Mỹ; Hiệp hội thương mại tự do Châu Mỹ La Tinh (1960; thay thế bởi Hiệp hội thống nhất Mỹ La Tinh vào năm 1990) và Mercisur (Khối thị trường chung khu vực miền Nam; 1991) là hết sức cần thiết. Các dự án mở rộng phát triển và việc tăng giá dầu vào thập niên 1970 đã đưa rất nhiều quốc gia Nam Mỹ rơi vào cảnh nợ nần. Từ đó, nền kinh tế của họ bị lệ thuộc nặng nề vào thị trường mở của thế giới, dù đã được sáng lập nhưng rất khó chen chân vào."
+        "t": "Giữa năm 1816 đến 1825, hầu hết các thuộc địa của Tây Ban Nha tại Nam Mỹ đều đã giành được độc lập dưới sự lãnh đạo của Simon Bolivar và José de San Martin. Sau đó phân chia thành 9 nước tách rời: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay và Paraguay. Năm 1822, Bra-xin giành được nền độc lập từ Bồ Đào Nha. Năm 1966, Guiana thuộc Anh giành độc lập và đổi thành Guyana. Surinam, thuộc địa Hà Lan, độc lập vào năm 1975. Chỉ có Guiana thuộc Pháp tiếp tục nằm dưới sự cai trị của Pháp. Lục địa này vẫn giữ được nền độc lập chính trị trong suốt thế kỷ 19 một phần nào đó là nhờ vào học thuyết Monroe. Nó ngăn ngừa được việc bành trướng của các nước Châu Âu. Cùng thời gian đó, nó tiếp nhận thêm khoảng 15 triệu dân nhập cư đến từ Châu Âu. Vì thế, về cả 2 mặt văn hóa và hệ tư tưởng, nó chịu nhiều ảnh hưởng từ Mỹ và Châu Âu. Cũng đã có một làn sóng đầu tư kinh tế đáng kể, đặc biệt là từ Anh, tập trung vào mặt hàng nhu yếu phẩm như nước khoáng và thịt bò đến nỗi nơi đây gần như bị phụ thuộc vào lĩnh vực kinh doanh này. Phần lớn lục địa là những người theo đạo Thiên Chúa Giáo La Mã. Vào thế kỷ 19 và đầu thế kỷ 20, giáo hội nắm giữ trung tâm chính trị và địa vị xã hội như một lực lượng bảo thủ. Chỉ đến thời gian gần đây, vị thế của nó mới gặp phải sự thách thức bởi những vị linh mục có tư tưởng giải phóng thần học. Họ kêu gọi giáo hội phải có vai trò tích cực trong việc chống đói nghèo và lạc hậu. Sự đô thị hóa nhanh chóng đã vượt quá khả năng cung ứng nhà ở và việc làm cho người lao động. Trong nỗ lực khuyến khích mua bán và sản xuất, việc hình thành các khối kinh tế như Khối thị trường chung của trung tâm châu Mỹ; Hiệp hội thương mại tự do Châu Mỹ La Tinh (1960; thay thế bởi Hiệp hội thống nhất Mỹ La Tinh vào năm 1990) và Mercisur (Khối thị trường chung khu vực miền Nam; 1991) là hết sức cần thiết. Các dự án mở rộng phát triển và việc tăng giá dầu vào thập niên 1970 đã đưa rất nhiều quốc gia Nam Mỹ rơi vào cảnh nợ nần. Từ đó, nền kinh tế của họ bị lệ thuộc nặng nề vào thị trường mở của thế giới, dù đã được sáng lập nhưng rất khó chen chân vào."
       }
     ],
     "k": "south america"
@@ -24236,7 +24236,7 @@
       {"k": "m", "t": "Tiểu bang thuộc phía Nam trung tâm nước Úc."},
       {
         "k": "m",
-        "t": "Ðịa hình: Nam Úc nằm giữa miền Tây nước Úc và New South Wales. Nó cũng tiếp giáp với vùng lãnh thổ phía Bắc. Diện tích nó bao phủ 984.400 km2 (380.400 dặm vuông) và có bờ biển phía Nam là vịnh Bight bao la của nước Úc. Ðảo Kangaroo nằm cách bán đảo Yorke 40 km (25 dặm). Ở hướng Tây là sa mạc Victoria hùng vĩ. Từ đó, mọc lên dãy Musgrave với đỉnh núi Woodroffe có độ cao 1.515 m (4.971 bộ). Phía Tây Nam là đồng bằng Nullarbor khô cằn và ở Ðông Bắc là hồ Eyre. Ở phía Ðông Nam, dãy núi Lofty-Flinders trở thành một rào cản chính với phương Tây rộng mở. Tại các vùng đất thấp, sông Murray cung cấp cỏ và rừng. Nơi đây có khí hậu Ðịa Trung Hải thích hợp với nhiều loại cây trồng. Quặng sắt, muối, và than đá là những khoáng sản được tìm thấy tại đây."
+        "t": "Địa hình: Nam Úc nằm giữa miền Tây nước Úc và New South Wales. Nó cũng tiếp giáp với vùng lãnh thổ phía Bắc. Diện tích nó bao phủ 984.400 km2 (380.400 dặm vuông) và có bờ biển phía Nam là vịnh Bight bao la của nước Úc. Đảo Kangaroo nằm cách bán đảo Yorke 40 km (25 dặm). Ở hướng Tây là sa mạc Victoria hùng vĩ. Từ đó, mọc lên dãy Musgrave với đỉnh núi Woodroffe có độ cao 1.515 m (4.971 bộ). Phía Tây Nam là đồng bằng Nullarbor khô cằn và ở Đông Bắc là hồ Eyre. Ở phía Đông Nam, dãy núi Lofty-Flinders trở thành một rào cản chính với phương Tây rộng mở. Tại các vùng đất thấp, sông Murray cung cấp cỏ và rừng. Nơi đây có khí hậu Địa Trung Hải thích hợp với nhiều loại cây trồng. Quặng sắt, muối, và than đá là những khoáng sản được tìm thấy tại đây."
       },
       {
         "k": "m",
@@ -24288,7 +24288,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một tiểu bang của Mỹ nằm ở miền Nam bờ biển Thái Bình Dương. Vua Charles II đã thừa nhận đặc quyền thuộc địa của Carolinas bằng việc thành lập nghiệp đoàn gồm có 8 chủ sở hữu và khu định cư đầu tiên tại Charleston năm 1670. Hai khu vực miền Bắc và Nam phát triển tách rời và thuộc địa được chia thành Bắc và Nam Carolina năm 1713. Việc phát triển ở Nam Carolina bị ảnh hưởng bởi những người di cư đến từ Caribbean. Ðến thế kỷ 18, thành phần dân số là nô lệ đã đông hơn da trắng. Những vùng đất thuộc bờ biển được thừa nhận là lý tưởng cho việc trồng lúa và những đồn điền chàm. Ðây cũng là một trong những thuộc địa giàu có và giá trị của Anh. Việc xích mích giữa những công nhân đồn điền với giới chủ và cơn khủng hoảng trong nội bộ châu Mỹ trong cuộc chiến Yamasee (1715) đưa đến kết quả là việc thu hồi vương quyền cai trị năm 1729. Thuộc địa bị phân chia nền độc lập và trong lúc Anh chiếm giữ Charleston (1780-1782), họ đã giành được sự ủng hộ của những người trung thành với hoàng gia."
+        "t": "Một tiểu bang của Mỹ nằm ở miền Nam bờ biển Thái Bình Dương. Vua Charles II đã thừa nhận đặc quyền thuộc địa của Carolinas bằng việc thành lập nghiệp đoàn gồm có 8 chủ sở hữu và khu định cư đầu tiên tại Charleston năm 1670. Hai khu vực miền Bắc và Nam phát triển tách rời và thuộc địa được chia thành Bắc và Nam Carolina năm 1713. Việc phát triển ở Nam Carolina bị ảnh hưởng bởi những người di cư đến từ Caribbean. Đến thế kỷ 18, thành phần dân số là nô lệ đã đông hơn da trắng. Những vùng đất thuộc bờ biển được thừa nhận là lý tưởng cho việc trồng lúa và những đồn điền chàm. Đây cũng là một trong những thuộc địa giàu có và giá trị của Anh. Việc xích mích giữa những công nhân đồn điền với giới chủ và cơn khủng hoảng trong nội bộ châu Mỹ trong cuộc chiến Yamasee (1715) đưa đến kết quả là việc thu hồi vương quyền cai trị năm 1729. Thuộc địa bị phân chia nền độc lập và trong lúc Anh chiếm giữ Charleston (1780-1782), họ đã giành được sự ủng hộ của những người trung thành với hoàng gia."
       }
     ],
     "k": "south carolina"
@@ -24426,7 +24426,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Diễn đàn Nam Thái Bình Dương. Ðây là nơi gặp gỡ các nguyên thủ của những quốc gia độc lập khu vực Nam Thái Bình Dương. Cuộc họp đầu tiên được tổ chức vào năm 1971. Năm 1997, các thành viên của nó bao gồm Úc, đảo Cook, Fiji, Kiribati, đảo Marshall, Liên bang Micronesia, Nauru, New Zealand, Ninue, Papua New Guinea, đảo Solomon, Tonga, Tuvalu, Vanuatu và (Tây) Samoa. Cuộc thảo luận không chính thức về những vấn đề chung sẽ được tổ chức hàng năm hoặc khi có yêu cầu cấp bách. Diễn đàn không đưa ra Hiến pháp và các quyết định phải được thỏa thuận. Năm 1985, nó chấp nhận Hiệp ước công bố khu vực phi hạt nhân thuộc Nam Thái Bình Dương. Nó cũng thảo luận về mối đe dọa tới khu vực bởi dự đoán sự gia tăng của mực nước biển do ảnh hưởng nóng lên toàn cầu và việc khai thác cá quá mức. Năm 1989, nó yêu cầu chấm dứt việc dùng lưới rê để đánh bắt cá trích với độ dài quét 48 km (30 dặm) trên mặt đại dương. Bởi lẽ nó đe dọa đến việc tồn tại của những loài sinh vật biển. Theo thỏa thuận này, các quốc gia chính yếu chịu trách nhiệm là Nhật và Ðài Loan buộc phải tham gia Hiệp ước. Năm 1995, do bị chỉ trích nặng nề, nó buộc phải chính thức đình chỉ việc liên kết với Pháp trong cuộc thử nghiệm vũ khí hạt nhân ở Nam Thái Bình Dương. Chức năng của nó được chuyển sang phục vụ cho công cuộc hợp tác kinh tế của khu vực Nam Thái Bình Dương dựa vào Suva và Fiji chủ yếu là xúc tiến thương mại, vận chuyển, và du lịch trong khu vực."
+        "t": "Diễn đàn Nam Thái Bình Dương. Đây là nơi gặp gỡ các nguyên thủ của những quốc gia độc lập khu vực Nam Thái Bình Dương. Cuộc họp đầu tiên được tổ chức vào năm 1971. Năm 1997, các thành viên của nó bao gồm Úc, đảo Cook, Fiji, Kiribati, đảo Marshall, Liên bang Micronesia, Nauru, New Zealand, Ninue, Papua New Guinea, đảo Solomon, Tonga, Tuvalu, Vanuatu và (Tây) Samoa. Cuộc thảo luận không chính thức về những vấn đề chung sẽ được tổ chức hàng năm hoặc khi có yêu cầu cấp bách. Diễn đàn không đưa ra Hiến pháp và các quyết định phải được thỏa thuận. Năm 1985, nó chấp nhận Hiệp ước công bố khu vực phi hạt nhân thuộc Nam Thái Bình Dương. Nó cũng thảo luận về mối đe dọa tới khu vực bởi dự đoán sự gia tăng của mực nước biển do ảnh hưởng nóng lên toàn cầu và việc khai thác cá quá mức. Năm 1989, nó yêu cầu chấm dứt việc dùng lưới rê để đánh bắt cá trích với độ dài quét 48 km (30 dặm) trên mặt đại dương. Bởi lẽ nó đe dọa đến việc tồn tại của những loài sinh vật biển. Theo thỏa thuận này, các quốc gia chính yếu chịu trách nhiệm là Nhật và Đài Loan buộc phải tham gia Hiệp ước. Năm 1995, do bị chỉ trích nặng nề, nó buộc phải chính thức đình chỉ việc liên kết với Pháp trong cuộc thử nghiệm vũ khí hạt nhân ở Nam Thái Bình Dương. Chức năng của nó được chuyển sang phục vụ cho công cuộc hợp tác kinh tế của khu vực Nam Thái Bình Dương dựa vào Suva và Fiji chủ yếu là xúc tiến thương mại, vận chuyển, và du lịch trong khu vực."
       }
     ],
     "k": "south pacific forum"
@@ -24518,7 +24518,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một quốc gia trước đây nằm về phía Tây Nam bán đảo Ả Rập. Ðất nước công bố độc lập năm 1967 và sau một cuộc đàm phán dài, nó được hợp nhất với nước cộng hòa Ả Rập Yemen để tạo thành quốc gia Yemen ngày nay."
+        "t": "Một quốc gia trước đây nằm về phía Tây Nam bán đảo Ả Rập. Đất nước công bố độc lập năm 1967 và sau một cuộc đàm phán dài, nó được hợp nhất với nước cộng hòa Ả Rập Yemen để tạo thành quốc gia Yemen ngày nay."
       }
     ],
     "k": "south yemen"
@@ -24597,7 +24597,7 @@
   },
   {
     "h": "south-easterner",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người ở vùng Ðông nam."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người ở vùng Đông nam."}],
     "ipa": ",sauθ'i:stənə",
     "k": "south-easterner"
   },
@@ -24609,7 +24609,7 @@
   },
   {
     "h": "south-eastward",
-    "segs": [{"k": "m", "t": "hướng Ðông Nam, về hướng Ðông Nam."}],
+    "segs": [{"k": "m", "t": "hướng Đông Nam, về hướng Đông Nam."}],
     "k": "south-eastward"
   },
   {
@@ -24767,9 +24767,9 @@
   },
   {
     "h": "Southeast",
-    "segs": [{"k": "m", "t": "Ðông-Nam."}],
+    "segs": [{"k": "m", "t": "Đông-Nam."}],
     "k": "southeast",
-    "q": {"vi": "hướng Ðông Nam", "ipa": "'saʊθist", "rs": "sáo thịt st"}
+    "q": {"vi": "hướng Đông Nam", "ipa": "'saʊθist", "rs": "sáo thịt st"}
   },
   {
     "h": "southeast Asia",
@@ -24820,7 +24820,7 @@
   },
   {
     "h": "southeasternmost",
-    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "cực Ðông Nam."}],
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "cực Đông Nam."}],
     "k": "southeasternmost"
   },
   {
@@ -25486,7 +25486,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(thay thế cho Hội đồng Nhà nước Nga). Ðây là Hội đồng quyền lực được bầu cử dưới thời Liên Xô trước đây. Năm 1905, Liên Xô đã giành được thắng lợi quan trọng trong sự nghiệp cách mạng. Khi đó, tổ chức công nhân Xô Viết của St Petersburg được thành lập để phối hợp đình công và tiến hành hoạt động chống lại các thế lực cai trị trong nhà máy. Mỗi nhà máy được cử một người đại diện. Trong lúc đó, những thành phố khác đều đã thuộc về cách mạng Liên Xô. Cả hai đảng Bolsheviks và Mensheviks đều nhận thức được tầm quan trọng của Hội đồng Xô Viết nên đều đưa đại diện của mình ra ứng cử. Năm 1917, Xô Viết được hiện đại hóa từ nền tảng tổ chức năm 1905 nhưng mở rộng thêm bằng cách chấp nhận cả lính đào ngũ từ Petrograd (trước đây là St Petersburg). Nhờ vậy, nó có đủ quyền lực để bức chế việc bãi công và kiểm soát cũng như sử dụng lực lượng vũ trang. Nó không tiến hành lật đổ ngay chính phủ lâm thời Kerensky mà chỉ tập trung vào việc phát triển lực lượng một cách nhanh chóng để thay Nga tiếp tục đối đầu với các đối thủ trong cuộc chiến tranh thế giới thứ I. Với số lượng thành viên từ 2.000 cho tới 3.000 người, nó chịu sự kiểm soát của Ủy ban hành pháp đầy quyền lực. Sau đó, nó được nhân rộng ra các tỉnh và đến tháng 6 năm 1917, Ðại hội Xô Viết toàn Nga lần đầu tiên được tổ chức. Những người cộng sản Bolsheviks dần chi phối đường lối hành động tiến đến việc thâu tóm quyền lực trong cuộc cách mạng Nga (1917). Trong suốt cuộc nội chiến Nga, các Hội đồng Xô Viết địa phương nắm quyền kiểm soát công việc tại chỗ nhất là hình thái hợp tác nông nghiệp. Hội đồng Xô Viết quốc gia được gọi là Hội đồng Xô Viết tối cao. Nó bao gồm tất cả đại diện đến từ toàn bộ các nước cộng hòa Xô viết."
+        "t": "(thay thế cho Hội đồng Nhà nước Nga). Đây là Hội đồng quyền lực được bầu cử dưới thời Liên Xô trước đây. Năm 1905, Liên Xô đã giành được thắng lợi quan trọng trong sự nghiệp cách mạng. Khi đó, tổ chức công nhân Xô Viết của St Petersburg được thành lập để phối hợp đình công và tiến hành hoạt động chống lại các thế lực cai trị trong nhà máy. Mỗi nhà máy được cử một người đại diện. Trong lúc đó, những thành phố khác đều đã thuộc về cách mạng Liên Xô. Cả hai đảng Bolsheviks và Mensheviks đều nhận thức được tầm quan trọng của Hội đồng Xô Viết nên đều đưa đại diện của mình ra ứng cử. Năm 1917, Xô Viết được hiện đại hóa từ nền tảng tổ chức năm 1905 nhưng mở rộng thêm bằng cách chấp nhận cả lính đào ngũ từ Petrograd (trước đây là St Petersburg). Nhờ vậy, nó có đủ quyền lực để bức chế việc bãi công và kiểm soát cũng như sử dụng lực lượng vũ trang. Nó không tiến hành lật đổ ngay chính phủ lâm thời Kerensky mà chỉ tập trung vào việc phát triển lực lượng một cách nhanh chóng để thay Nga tiếp tục đối đầu với các đối thủ trong cuộc chiến tranh thế giới thứ I. Với số lượng thành viên từ 2.000 cho tới 3.000 người, nó chịu sự kiểm soát của Ủy ban hành pháp đầy quyền lực. Sau đó, nó được nhân rộng ra các tỉnh và đến tháng 6 năm 1917, Đại hội Xô Viết toàn Nga lần đầu tiên được tổ chức. Những người cộng sản Bolsheviks dần chi phối đường lối hành động tiến đến việc thâu tóm quyền lực trong cuộc cách mạng Nga (1917). Trong suốt cuộc nội chiến Nga, các Hội đồng Xô Viết địa phương nắm quyền kiểm soát công việc tại chỗ nhất là hình thái hợp tác nông nghiệp. Hội đồng Xô Viết quốc gia được gọi là Hội đồng Xô Viết tối cao. Nó bao gồm tất cả đại diện đến từ toàn bộ các nước cộng hòa Xô viết."
       }
     ],
     "k": "soviet",
@@ -25694,7 +25694,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thị trấn nhỏ là nơi cư ngụ của người da đen ở về phía Tây Nam Johannesburg tại Nam Phi. Vào tháng giêng năm 1976, các trường học dành cho học sinh da đen đã biểu tình chống lại việc ban hành luật bắt buộc người Nam Phi phải dùng ngôn ngữ theo quy định. Cảnh sát đã dùng súng và hơi cay để giải tán cuộc biểu tình. Ðiều này làm dấy lên một làn sóng bạo lực. Cuối năm 1976, khoảng 500 người da đen và da màu, trong số đó phần nhiều là trẻ em đã bị cảnh sát giết chết. Kế hoạch áp dụng ngôn ngữ cưỡng bách người Nam Phi bị đình chỉ. Sau đó, cho tới khi cuộc bầu cử đa chủng tộc năm 1994 hoàn tất mới chấm dứt quyền lực cai trị của người da trắng. Lễ kỷ niệm cuộc biểu tình được đánh dấu bằng một tình trạng náo loạn hơn nữa."
+        "t": "Một thị trấn nhỏ là nơi cư ngụ của người da đen ở về phía Tây Nam Johannesburg tại Nam Phi. Vào tháng giêng năm 1976, các trường học dành cho học sinh da đen đã biểu tình chống lại việc ban hành luật bắt buộc người Nam Phi phải dùng ngôn ngữ theo quy định. Cảnh sát đã dùng súng và hơi cay để giải tán cuộc biểu tình. Điều này làm dấy lên một làn sóng bạo lực. Cuối năm 1976, khoảng 500 người da đen và da màu, trong số đó phần nhiều là trẻ em đã bị cảnh sát giết chết. Kế hoạch áp dụng ngôn ngữ cưỡng bách người Nam Phi bị đình chỉ. Sau đó, cho tới khi cuộc bầu cử đa chủng tộc năm 1994 hoàn tất mới chấm dứt quyền lực cai trị của người da trắng. Lễ kỷ niệm cuộc biểu tình được đánh dấu bằng một tình trạng náo loạn hơn nữa."
       }
     ],
     "k": "soweto"

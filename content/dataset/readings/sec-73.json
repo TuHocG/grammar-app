@@ -61,7 +61,7 @@
       ["Tôi mong là thế.", "Bạn đã sống ở đây bao lâu rồi?"],
       ["à, chúng tôi đã sống ở đây khoảng 10 năm."],
       ["Chắc bạn biết rất rõ khu này."],
-      ["Ðúng vậy."],
+      ["Đúng vậy."],
       ["Có tiệm ăn nào gần đây không?", "Tối nay mẹ tôi quá mệt không thể nấu ăn được."],
       ["Có một tiệm ngay góc phố."],
       ["Thức ăn như thế nào?"],
@@ -129,7 +129,7 @@
       ["ôi! đắt quá."],
       ["Gửi bằng đường bộ thì rẻ hơn nhiều.", "Chỉ có 19 ngàn 200 đồng."],
       ["Thế tốt hơn.", "Tôi sẽ gửi nó bằng đường bộ."],
-      ["Ðược ạ."]
+      ["Được ạ."]
     ],
     "img": "img/readings/1.8.64b.webp",
     "page": "64"
@@ -174,25 +174,25 @@
       ["Xin mời người tiếp theo."],
       ["Tôi muốn gửi thư này đến Kontum."],
       ["Bạn muốn gửi nó bằng đường hàng không hay đường bộ?"],
-      ["Ðường bộ thì bao nhiêu?"],
+      ["Đường bộ thì bao nhiêu?"],
       ["Tôi sẽ cân bức thư trước.", "ừm. 20 gram", "Sẽ là 800 đồng."],
       ["Dạ được. Tôi sẽ gửi nó bằng đường bộ."],
       ["Xin lỗi", "Tôi muốn gửi bưu thiếp này đến thành phố Hồ Chí Minh."],
       ["Bạn muốn gửi nó bằng đường hàng không hay đường bộ?"],
-      ["Tôi không chắc nữa.", "Ðường hàng không thì bao nhiêu?"],
+      ["Tôi không chắc nữa.", "Đường hàng không thì bao nhiêu?"],
       ["Tôi sẽ cân bưu thiếp trước.", "ừm. 15 gram", "Sẽ là 1200 đồng."],
-      ["Ðược", "Tôi sẽ gửi nó bằng đường hàng không."],
+      ["Được", "Tôi sẽ gửi nó bằng đường hàng không."],
       ["Tôi muốn gửi gói hàng này đến Cà Mau."],
       ["Bạn muốn gửi nó bằng đường hàng không hay đường bộ?"],
-      ["Ðường hàng không thì bao nhiêu?"],
+      ["Đường hàng không thì bao nhiêu?"],
       ["Tôi sẽ cân gói hàng trước.", "Hai Ký", "Sẽ là 13.000 đồng."],
-      ["Ðược. Tôi sẽ gửi nó bằng đường hàng không."],
+      ["Được. Tôi sẽ gửi nó bằng đường hàng không."],
       ["Xin mời người tiếp theo."],
       ["Tôi muốn gửi gói hàng này đến Buôn Ma Thuột."],
       ["Bạn muốn gửi nó bằng đường hàng không hay đường bộ?"],
       ["Xin gửi bằng đường bộ.", "Nó bao nhiêu tiền vậy?"],
       ["Tôi sẽ cân gói hàng trước.", "ừm. 5 ký", "Nó là 19.500 đồng."],
-      ["Ðây 20 ngàn đồng."],
+      ["Đây 20 ngàn đồng."],
       ["Tiền thừa của bạn đây.", "Cảm ơn"]
     ],
     "img": "img/readings/1.8.65a.webp",
@@ -269,7 +269,7 @@
       ["ý hay đấy.", "Bạn có thể đoán tôi sẽ làm gì không?"],
       ["Bạn thích phim không?", "Có phim mới ở rạp Millennium."],
       [
-        "Ðó là gì?",
+        "Đó là gì?",
         "Phim \"Người mới đến\" một bộ phim của úc.",
         "Trước đây, tôi đã xem phim này rồi.",
         "Tôi xem nó ở kênh Star Movies."
@@ -281,7 +281,7 @@
         "Và bạn cũng không thể đến Cuộc thi hùng biện tiếng Anh.",
         "Nó ở trường Nguyễn Khuyến, và nó vào ngày thứ Năm.",
         "ừ phải rồi.",
-        "Này, bóng đá, trận bóng giữa trường Lê Ðô và Quang Trung - những đội bóng hay nhất của tỉnh mình.",
+        "Này, bóng đá, trận bóng giữa trường Lê Đô và Quang Trung - những đội bóng hay nhất của tỉnh mình.",
         "Tôi sẽ đi xem nó vì anh tôi chơi trong trận đấu đó."
       ],
       ["Họ chơi ở đâu?"],
@@ -356,12 +356,12 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Hôm nay, một thương xá mới sẽ khai trương ở khu vực gần nhà Nam.",
         "s",
         "Tất cả các cửa hiệu ở trong cùng một tòa nhà.",
-        "Ðiều đó sẽ rất tiện lợi,",
+        "Điều đó sẽ rất tiện lợi,",
         "nhất là trong những tháng hè ẩm ướt và nóng bức.",
         "Khách hàng sẽ đi mua sắm thoải mái mà không cần để ý đến thời tiết."
       ],
@@ -399,7 +399,7 @@
     ],
     "vi": [
       [
-        "Ðúng hay sai?",
+        "Đúng hay sai?",
         "Hãy đánh dấu (V) vào các ô.",
         "Sau đó sửa các câu sai rồi viết vào vở bài tập của bạn."
       ],
@@ -409,7 +409,7 @@
       ["Có 50 cửa hiệu trong thương xá."],
       ["Mọi người trong vùng đều hài lòng về thương xá mới.(F)"],
       ["Một số người trong vùng không hài lòng về thương xá mới."],
-      ["Ði mua sắm trong thương xá thì tiện lợi hơn đi mua sắm ở khu buôn bán hiện thời.(T)"],
+      ["Đi mua sắm trong thương xá thì tiện lợi hơn đi mua sắm ở khu buôn bán hiện thời.(T)"],
       ["Một số cửa hiệu trên đường Trần Phú có thể phải đống cửa.(T)"]
     ],
     "img": "img/readings/1.8.68a.webp",
@@ -502,7 +502,7 @@
       ["Hãy hoàn tất các cụm từ.", "Dùng for hoặc since."],
       ["Hãy hoàn tất các câu.", "Dùng thì hiện tại hoàn thành của các động từ trong ngoặc."],
       ["Tôi sống ở đây từ tuần trước."],
-      ["Ðã hai năm nay chúng tôi không ăn ở nhà hàng đó."],
+      ["Đã hai năm nay chúng tôi không ăn ở nhà hàng đó."],
       ["Tôi đã không gặp cô ấy từ hôm qua."],
       ["Họ đã học ở trường Quang Trung từ năm ngoái."],
       ["Cha tôi đã làm việc cho công ty của ông ấy được 20 năm rồi."],
@@ -547,8 +547,8 @@
       ["Vậy chắc bạn biết rõ nơi này.", "Có bưu điện ở gần đây không?"],
       ["Có. Có một cái cạnh nhà tôi.", "Sao thế?"],
       ["à, tôi muốn gửi bưu thiếp cho cha mẹ."],
-      ["Ðể tôi xem nào", "ồ nó đẹp quá.", "Nhà bạn ở đâu?"],
-      ["ở Luân Ðôn", "Bạn từng ở đó chưa?"],
+      ["Để tôi xem nào", "ồ nó đẹp quá.", "Nhà bạn ở đâu?"],
+      ["ở Luân Đôn", "Bạn từng ở đó chưa?"],
       ["Chưa", "Nhưng tôi đã thấy nó qua phim và báo ảnh.", "Hè tới, tôi sẽ ở đó với cha mẹ."],
       ["Hay đấy!", "Tôi hi vọng sẽ gặp lại bạn ở đó."]
     ],
@@ -590,7 +590,7 @@
       ["Con mèo đồ chơi thì bằng giá với con chó đồ chơi."],
       ["Túi đeo của Hoa thì khác túi đeo của Lan."],
       ["Con rắn đó dài như sợi dây thừng."],
-      ["Ðồng hồ bỏ túi thì không hiện đại như đồng hồ đeo tay."],
+      ["Đồng hồ bỏ túi thì không hiện đại như đồng hồ đeo tay."],
       ["Cây thước thì không rẻ như cục tẩy."]
     ],
     "img": "img/readings/1.8.70b.webp",

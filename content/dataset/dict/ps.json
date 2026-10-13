@@ -921,7 +921,7 @@
   },
   {
     "h": "pseudo-isochromatic",
-    "segs": [{"k": "m", "t": "Ðẳng sắc giả."}],
+    "segs": [{"k": "m", "t": "Đẳng sắc giả."}],
     "k": "pseudo-isochromatic"
   },
   {
@@ -1680,7 +1680,7 @@
     ],
     "k": "pseudoapoplectically"
   },
-  {"h": "pseudoapoplexy", "segs": [{"k": "m", "t": "Ðột quỵ giả."}], "k": "pseudoapoplexy"},
+  {"h": "pseudoapoplexy", "segs": [{"k": "m", "t": "Đột quỵ giả."}], "k": "pseudoapoplexy"},
   {
     "h": "pseudoaposematic",
     "segs": [
@@ -5775,7 +5775,7 @@
       {
         "k": "ex",
         "t": "Don't try to psyche me out. Just be my friend:",
-        "vi": "Ðừng cố tìm hiểu tâm lý tôi. Chỉ nên là bạn tôi thôi."
+        "vi": "Đừng cố tìm hiểu tâm lý tôi. Chỉ nên là bạn tôi thôi."
       },
       {
         "k": "ex",
@@ -6011,10 +6011,10 @@
     ],
     "k": "psychic cost/psychic income"
   },
-  {"h": "psychic deafness", "segs": [{"k": "m", "t": "Ðiếc tâm thần."}], "k": "psychic deafness"},
+  {"h": "psychic deafness", "segs": [{"k": "m", "t": "Điếc tâm thần."}], "k": "psychic deafness"},
   {
     "h": "psychic equivalent",
-    "segs": [{"k": "m", "t": "Ðộng kinh tâm thần."}],
+    "segs": [{"k": "m", "t": "Động kinh tâm thần."}],
     "k": "psychic equivalent"
   },
   {
@@ -6567,7 +6567,7 @@
   },
   {
     "h": "psychogenic dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh tâm thần."}],
+    "segs": [{"k": "m", "t": "Đau kinh tâm thần."}],
     "k": "psychogenic dysmenorrhea"
   },
   {
@@ -6969,7 +6969,7 @@
   },
   {
     "h": "psychomotor epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh tâm thần vận động."}],
+    "segs": [{"k": "m", "t": "Động kinh tâm thần vận động."}],
     "k": "psychomotor epilepsy"
   },
   {

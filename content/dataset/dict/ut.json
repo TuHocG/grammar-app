@@ -102,7 +102,7 @@
   },
   {
     "h": "uterine artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch buồng trứng."}],
+    "segs": [{"k": "m", "t": "Động mạch buồng trứng."}],
     "k": "uterine artery"
   },
   {
@@ -136,7 +136,7 @@
   },
   {"h": "uterine neck", "segs": [{"k": "m", "t": "Cổ tử cung."}], "k": "uterine neck"},
   {"h": "uterine probe", "segs": [{"k": "m", "t": "Que thông tử cung."}], "k": "uterine probe"},
-  {"h": "uterine segment", "segs": [{"k": "m", "t": "Ðoạn dưới tử cung."}], "k": "uterine segment"},
+  {"h": "uterine segment", "segs": [{"k": "m", "t": "Đoạn dưới tử cung."}], "k": "uterine segment"},
   {"h": "uterine sinus", "segs": [{"k": "m", "t": "Khoang tử cung."}], "k": "uterine sinus"},
   {
     "h": "uterine stimulant",
@@ -282,7 +282,7 @@
   {"h": "uterovaginal", "segs": [{"k": "m", "t": "(thuộc) tử cung-âm đạo."}], "k": "uterovaginal"},
   {
     "h": "uterovaginal plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh tử cung âm đạo, đám rối tĩnh mạch tử cung âm đạo."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh tử cung âm đạo, đám rối tĩnh mạch tử cung âm đạo."}],
     "k": "uterovaginal plexus"
   },
   {"h": "uteroventral", "segs": [{"k": "m", "t": "(thuộc) tử cung-bụng."}], "k": "uteroventral"},
@@ -352,7 +352,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(574-656): Vị giáo chủ Hồi giáo thứ 3 (644-56). Ông đã khôi phục lại quyền lực của tầng lớp quý tộc Meccan. Ðiều này đã gây ra nhiều sự bất bình và chống đối. Ðặc biệt là từ Aisha (người vợ trẻ tuổi nhất của Muhammad), Ali (người anh em họ và cũng là con rể của ông) và những người khác. Ông bị giết chết bởi quân nổi loạn ở Ai Cập. Tác phẩm cuối cùng để lại của ông là bản dịch Kinh Thánh của đạo hồi (Koran)."
+        "t": "(574-656): Vị giáo chủ Hồi giáo thứ 3 (644-56). Ông đã khôi phục lại quyền lực của tầng lớp quý tộc Meccan. Điều này đã gây ra nhiều sự bất bình và chống đối. Đặc biệt là từ Aisha (người vợ trẻ tuổi nhất của Muhammad), Ali (người anh em họ và cũng là con rể của ông) và những người khác. Ông bị giết chết bởi quân nổi loạn ở Ai Cập. Tác phẩm cuối cùng để lại của ông là bản dịch Kinh Thánh của đạo hồi (Koran)."
       }
     ],
     "k": "uthman (osman)"
@@ -441,7 +441,7 @@
       },
       {
         "k": "m",
-        "t": "Như một triết lý, thuyết utilitarianism thường gặp phải những rắc rối trong việc so sánh hạnh phúc của người này với người khác. Tuy nhiên, nó cũng chứng tỏ là một học thuyết bền vững và vẫn tiếp tục cuốn hút những người gia nhập. Sự hấp dẫn của học thuyết này có lẽ bắt nguồn từ sự trong sáng và đơn giản của nó. Khái niệm về hạnh phúc của học thuyết này đơn giản và dễ hiểu hơn nhiều khái niệm khác. Ðể có được hạnh phúc, con người phải quyết định và hành động đúng. Do đó, học thuyết này cũng giúp ích trong việc đưa ra các quyết định hoạt động vì lợi ích của cộng đồng. Tuy nhiên, học thuyết này vẫn không giải thích được vì sao ngoài việc đem lại niềm vui cho nhiều người, chúng ta còn phải hành động theo công lý và đối xử một cách công bằng."
+        "t": "Như một triết lý, thuyết utilitarianism thường gặp phải những rắc rối trong việc so sánh hạnh phúc của người này với người khác. Tuy nhiên, nó cũng chứng tỏ là một học thuyết bền vững và vẫn tiếp tục cuốn hút những người gia nhập. Sự hấp dẫn của học thuyết này có lẽ bắt nguồn từ sự trong sáng và đơn giản của nó. Khái niệm về hạnh phúc của học thuyết này đơn giản và dễ hiểu hơn nhiều khái niệm khác. Để có được hạnh phúc, con người phải quyết định và hành động đúng. Do đó, học thuyết này cũng giúp ích trong việc đưa ra các quyết định hoạt động vì lợi ích của cộng đồng. Tuy nhiên, học thuyết này vẫn không giải thích được vì sao ngoài việc đem lại niềm vui cho nhiều người, chúng ta còn phải hành động theo công lý và đối xử một cách công bằng."
       }
     ],
     "k": "utilitarianism"
@@ -1140,7 +1140,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Chủ nghĩa không tưởng): Ðược hình thành trong tư tưởng, mô tả về một xã hội lý tưởng và nêu bật những tiêu cực của xã hội thực tại. Cuốn sách nói về điều này đầu tiên được xuất bản vào năm 1516 bởi Thomas More. Ông đã vẽ ra một xã hội trong đó mọi người sống tiết độ và vì cộng đồng. Họ chia sẻ với nhau tài sản mình có, và làm việc dưới sự quản lý của người lãnh đạo. Tư tưởng của More xuất hiện lại trong những cuốn sách nói về một xã hội không tưởng sau này. Chẳng hạn như ý tưởng về một xã hội hòa thuận trong đó mọi người cùng làm việc với nhau. Vào thế kỷ thứ 19, nhiều chế độ xã hội chủ nghĩa được xem là xã hội không tưởng. Loại hình của xã hội này không bị ràng buộc bởi bất cứ lề luật chính trị đặc biệt nào. Thật không dễ dàng khi nói về một xã hội như vậy. Hơn nữa, mục đích của các sách viết về xã hội không tưởng là mô tả về một xã hội lý tưởng hoặc đơn giản là châm biếm xã hội mà chúng ta đang sống bằng cách tưởng tượng ra một trật tự xã hội hoàn toàn khác. Vào thế kỷ thứ 20, xã hội có nhiều biến động và lệch hướng. Ðiều đó làm người ta liên tưởng đến viễn cảnh một xã hội trong tương lai như một cơn ác mộng (Aldous Huxley's Brave New World (1932) và George Orwell's 1984 (1949) và hy vọng rằng điều đó sẽ sớm được ngăn chặn trước."
+        "t": "(Chủ nghĩa không tưởng): Được hình thành trong tư tưởng, mô tả về một xã hội lý tưởng và nêu bật những tiêu cực của xã hội thực tại. Cuốn sách nói về điều này đầu tiên được xuất bản vào năm 1516 bởi Thomas More. Ông đã vẽ ra một xã hội trong đó mọi người sống tiết độ và vì cộng đồng. Họ chia sẻ với nhau tài sản mình có, và làm việc dưới sự quản lý của người lãnh đạo. Tư tưởng của More xuất hiện lại trong những cuốn sách nói về một xã hội không tưởng sau này. Chẳng hạn như ý tưởng về một xã hội hòa thuận trong đó mọi người cùng làm việc với nhau. Vào thế kỷ thứ 19, nhiều chế độ xã hội chủ nghĩa được xem là xã hội không tưởng. Loại hình của xã hội này không bị ràng buộc bởi bất cứ lề luật chính trị đặc biệt nào. Thật không dễ dàng khi nói về một xã hội như vậy. Hơn nữa, mục đích của các sách viết về xã hội không tưởng là mô tả về một xã hội lý tưởng hoặc đơn giản là châm biếm xã hội mà chúng ta đang sống bằng cách tưởng tượng ra một trật tự xã hội hoàn toàn khác. Vào thế kỷ thứ 20, xã hội có nhiều biến động và lệch hướng. Điều đó làm người ta liên tưởng đến viễn cảnh một xã hội trong tương lai như một cơn ác mộng (Aldous Huxley's Brave New World (1932) và George Orwell's 1984 (1949) và hy vọng rằng điều đó sẽ sớm được ngăn chặn trước."
       }
     ],
     "k": "utopianism"

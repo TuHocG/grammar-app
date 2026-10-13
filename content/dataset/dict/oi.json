@@ -239,7 +239,7 @@
     "k": "oil atomization"
   },
   {"h": "oil baffle", "segs": [{"k": "m", "t": "cái chắn nhớt."}], "k": "oil baffle"},
-  {"h": "Oil Bailey", "segs": [{"k": "m", "t": "tòa đại hình Luân Ðôn."}], "k": "oil bailey"},
+  {"h": "Oil Bailey", "segs": [{"k": "m", "t": "tòa đại hình Luân Đôn."}], "k": "oil bailey"},
   {"h": "oil baron", "segs": [{"k": "m", "t": "vua dầu lửa."}], "k": "oil baron"},
   {
     "h": "oil base",
@@ -3645,7 +3645,7 @@
     "ipa": "ˈɔil,filə",
     "k": "oilfiller"
   },
-  {"h": "oilfired", "segs": [{"k": "m", "t": "(tt) Ðốt bằng dầu."}], "k": "oilfired"},
+  {"h": "oilfired", "segs": [{"k": "m", "t": "(tt) Đốt bằng dầu."}], "k": "oilfired"},
   {
     "h": "oilfired boiler",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nồi hơi đốt dầu"}],

@@ -55,9 +55,9 @@
       ["Tôi đang buồn chán đây.", "Chúng ta hãy chơi trò chơi đi."],
       ["Chúng ta nên chơi trò gì?"],
       ["Chúng ta có thể chơi trò 20 câu hỏi."],
-      ["Ðó là trò gì?", "Tôi không biết cách chơi."],
+      ["Đó là trò gì?", "Tôi không biết cách chơi."],
       [
-        "Ðó là trò đoán.",
+        "Đó là trò đoán.",
         "Tôi nghĩ về một người hoặc một nơi nổi tiếng.",
         "Sau đó các bạn phải đặt câu hỏi cho tôi để tìm ra đó là ai hoặc đó là cái gì."
       ],
@@ -65,15 +65,15 @@
       ["Tôi chỉ được trả lời 'đúng' hoặc 'không', còn bạn chỉ được hỏi 20 câu."],
       ["Chuyện gì xảy ra nếu chúng tôi không đoán ra câu trả lời đúng?"],
       ["Tôi thắng."],
-      ["Ðược rồi.", "Nga, bạn bắt đầu trước đi."],
-      ["Ðược", "Có thể bạn biết nơi này.", "Tôi sẽ cho bạn một manh mối.", "Nó không ở Việt Nam."],
+      ["Được rồi.", "Nga, bạn bắt đầu trước đi."],
+      ["Được", "Có thể bạn biết nơi này.", "Tôi sẽ cho bạn một manh mối.", "Nó không ở Việt Nam."],
       ["Có phải nó ở Châu á không?"],
       ["Không"],
       ["Có phải nó ở nước Mỹ không?"],
       ["Phải"],
       ["Có phải nó ở New York không?"],
       ["Phải"],
-      ["Tôi biết rồi.", "Ðó là cầu Golden Gate!"],
+      ["Tôi biết rồi.", "Đó là cầu Golden Gate!"],
       ["Không phải", "Cầu Golden Gate đâu có ở New York!", "Nó ở San Francisco mà."],
       ["Tôi nghĩ câu trả lời là tượng Nữ Thần Tự Do."],
       ["Bạn đoán đúng rồi đấy Nhi."]
@@ -252,7 +252,7 @@
       ["Tôi nghĩ là nơi này được đấy."],
       ["ý bạn nói nó là một nơi ở phía Bắc Queensland à?"],
       [
-        "Ðúng, nghe đúng lắm.",
+        "Đúng, nghe đúng lắm.",
         "Khách sạn Cây Dừa ở bên phải bãi biển theo như trong quảng cáo.",
         "Hãy tưởng tượng thức dậy vào buổi sáng và nhìn ra biển Thái Bình Dương."
       ],
@@ -265,7 +265,7 @@
         "Vỉa san hô khổng lồ là di sản thế giới phải không?"
       ],
       ["Phải rồi."],
-      ["Ðược rồi, chúng ta hãy xem giá nó bao nhiêu.", "Số điện thoại mấy?", "077-6924 3927"],
+      ["Được rồi, chúng ta hãy xem giá nó bao nhiêu.", "Số điện thoại mấy?", "077-6924 3927"],
       ["-6924 3927"],
       ["Bạn muốn một chuyến đi nghỉ thư giãn yên tĩnh không?"],
       [
@@ -307,7 +307,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Nhiều thế kỷ trước đây vào thời Hy Lạp cổ đại,",
         "một người đàn ông tên Antipater ở Sidon đã lập một danh sách những gì ông cho là bảy kỳ quan của thế giới.",
@@ -320,12 +320,12 @@
       ],
       [
         "Trên thực tế Angkor Wat nên được xem là một kỳ quan vì nó là đền thờ lớn nhất thế giới.",
-        "Ðền thờ này được xây dựng khoảng năm 1100 để tưởng nhớ một vị thần người Hindu",
+        "Đền thờ này được xây dựng khoảng năm 1100 để tưởng nhớ một vị thần người Hindu",
         "nhưng hơn ba thế kỷ sau đó nó trở thành một trung tâm Phật giáo.",
         "Khu vực xung quanh đền thờ, Angkor Thom, đã từng là thủ phủ của Hoàng gia."
       ],
       [
-        "Ðầu thế kỷ 15, những người cai trị Khmer đã dời đến Phnom Penh và Angkor trở nên yên tĩnh.",
+        "Đầu thế kỷ 15, những người cai trị Khmer đã dời đến Phnom Penh và Angkor trở nên yên tĩnh.",
         "Ngày nay Angkor Wat là một điểm thu hút khách du lịch nổi tiếng."
       ]
     ],
@@ -364,7 +364,7 @@
       ["Vạn lý tường thành của Trung Hoa"],
       ["Tượng thần Dớt"],
       ["Kim tự tháp Cheops"],
-      ["Ðền Angkor Wat"],
+      ["Đền Angkor Wat"],
       ["Lúc đầu Angkor Wat được xây dựng cho những người Hindu."],
       ["người Hindus"],
       ["Phật tử"],
@@ -422,15 +422,15 @@
     "vi": [
       [
         "Hãy hoàn tất lá thư Tim gửi cho Hoa kể về chuyến đi của cậu ấy đến đại Vực.",
-        "Ðiền các mẫu tự của những câu thiếu vào bức thư."
+        "Điền các mẫu tự của những câu thiếu vào bức thư."
       ],
       ["Ngày 29 tháng 5 năm 2003"],
       ["Hoa Thân"],
       [
         "Bạn khỏe không?",
         "Mình nghĩ bạn đang nỗ lực học cho kỳ thi tuần sau.",
-        "Lớp mình vừa trở về sau chuyến đi đến Ðại vực ở Arizona.",
-        "Ðại vực là một phần của Công viên quốc gia Ðại vực",
+        "Lớp mình vừa trở về sau chuyến đi đến Đại vực ở Arizona.",
+        "Đại vực là một phần của Công viên quốc gia Đại vực",
         "và nó được hình thành bởi sông Colorado trải qua hàng triệu năm.",
         "Chúng tôi ở đó 1 tuần và không muốn dời đi."
       ],
@@ -444,7 +444,7 @@
         "Anh ta cũng nói về nguồn gốc dân cư, những người đã sống ở đó trong suốt thời kỳ đồ đá."
       ],
       [
-        "Ðó là tất cả những gì tôi dành thời gian kể cho bạn.",
+        "Đó là tất cả những gì tôi dành thời gian kể cho bạn.",
         "Bạn có kế hoạch gì để làm trong suốt kỳ nghỉ hè không?",
         "Hãy viết thư cho tôi sau khi thi nhé."
       ],
@@ -476,7 +476,7 @@
         "Hãy kể với bạn ấy về một nơi mà gần đây bạn mới tham quan.",
         "Dùng các gợi ý sau đây."
       ],
-      ["Ðịa điểm: Công viên Quốc gia Cúc Phương (động Phong Nha/ Vinh Hạ Long... )"],
+      ["Địa điểm: Công viên Quốc gia Cúc Phương (động Phong Nha/ Vinh Hạ Long... )"],
       ["Cách thành phố/ nhà của bạn: 100 km/ 300 km/ 12 giờ đi bằng xe lửa/ bằng xe đò, v.v..."],
       ["Phương tiện đi đến đó: bằng xe buýt/ xe lửa/ máy bay ..."],
       ["Thắng cảnh: đẹp/ hùng vĩ/ ngoạn mục ..."],
@@ -517,7 +517,7 @@
       ],
       ["Tượng nữ thần tự do được tặng cho Hoa kỳ bởi Pháp vào năm 1876."],
       [
-        "Ðỉnh núi Everest được chinh phục bởi hai thành viên của đội thám hiểm Anh và một hướng dẫn viên người Nepal vào ngày 29-5-1953."
+        "Đỉnh núi Everest được chinh phục bởi hai thành viên của đội thám hiểm Anh và một hướng dẫn viên người Nepal vào ngày 29-5-1953."
       ]
     ],
     "img": "img/readings/1.8.136a.webp",
@@ -637,9 +637,9 @@
       ],
       [
         "Nhi và cha mẹ đang thăm Hội an và Mỹ sơn.",
-        "Họ ở lại khách sạn gần Cửa Ðại.",
+        "Họ ở lại khách sạn gần Cửa Đại.",
         "Mỗi sáng Nhi quyết định chạy bộ.",
-        "Cô rời khách sạn và đi về hướng bãi Cửa Ðại.",
+        "Cô rời khách sạn và đi về hướng bãi Cửa Đại.",
         "Cô nghĩ mình sẽ đi dọc theo bãi biển 20 phút trước khi hướng về khách sạn.",
         "Không may, sau 10 phút, mây đen bắt đầu kéo đến và trời bắt đầu đổ mưa.",
         "Nhi cố gắng tìm đến nơi trú ẩn",

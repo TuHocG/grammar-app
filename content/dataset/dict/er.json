@@ -1794,21 +1794,21 @@
   {
     "h": "Eritrea",
     "segs": [
-      {"k": "m", "t": "một nước ở Ðông Bắc Châu Phi trên bờ Hồng Hải."},
+      {"k": "m", "t": "một nước ở Đông Bắc Châu Phi trên bờ Hồng Hải."},
       {
         "k": "m",
-        "t": "Ðịa hình: nước này bao gồm bờ biển hẹp, nhô lên về phía cao nguyên Ethiopia. Khí hậu rất nóng và ẩm ướt."
+        "t": "Địa hình: nước này bao gồm bờ biển hẹp, nhô lên về phía cao nguyên Ethiopia. Khí hậu rất nóng và ẩm ướt."
       },
       {"k": "m", "t": "Kinh tế: rất tồi tệ vì ảnh hưởng bởi cuộc chiến giành độc lập."},
       {
         "k": "m",
-        "t": "Lịch sử: năm 1869, Ý mua vùng bờ biển của thành phố Assab và năm 1885 bắt đầu chiếm đóng phần còn lại của nước Eritrea và tuyên bố là nước thuộc địa vào năm 1889. Từ đây người Ý tung ra chiến dịch đẫm máu chống Ethiopia năm 1896, và chấm dứt cuộc chiến của họ ở Adowa. Dưới sự cai trị của quân đội Hồi giáo, nhân dân Sudan và Cơ Ðốc giáo gặp nhiều khó khăn. Năm 1993, hội nghị được tổ chức và Eritrea được công nhận quyền độc lập."
+        "t": "Lịch sử: năm 1869, Ý mua vùng bờ biển của thành phố Assab và năm 1885 bắt đầu chiếm đóng phần còn lại của nước Eritrea và tuyên bố là nước thuộc địa vào năm 1889. Từ đây người Ý tung ra chiến dịch đẫm máu chống Ethiopia năm 1896, và chấm dứt cuộc chiến của họ ở Adowa. Dưới sự cai trị của quân đội Hồi giáo, nhân dân Sudan và Cơ Đốc giáo gặp nhiều khó khăn. Năm 1993, hội nghị được tổ chức và Eritrea được công nhận quyền độc lập."
       },
       {"k": "m", "t": "Thủ đô: Asmara."},
       {"k": "m", "t": "Diện tích: 117.400km2"},
       {"k": "m", "t": "Dân số: 3,627 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Nakfa."},
-      {"k": "m", "t": "Tôn giáo: Cơ Ðốc 50%, Hồi giáo 50%."},
+      {"k": "m", "t": "Tiền tệ: Đồng Nakfa."},
+      {"k": "m", "t": "Tôn giáo: Cơ Đốc 50%, Hồi giáo 50%."},
       {"k": "m", "t": "Ngôn ngữ: Tiếng Ả Rập."},
       {"k": "m", "t": "Gia nhập: Tổ chức quốc tế."}
     ],
@@ -1829,7 +1829,7 @@
   },
   {
     "h": "erl-king",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thần dụ trẻ (thần thoại Ðức (cổ))."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thần dụ trẻ (thần thoại Đức (cổ))."}],
     "ipa": "'ə:l'kiŋ",
     "k": "erl-king"
   },
@@ -4270,7 +4270,7 @@
       },
       {
         "k": "m",
-        "t": "Lưu ý rằng công nghệ điện toán sử dụng thuật ngữ Ethernet để chỉ tất cả những sơ đồ mạng chia sẻ kiểu CSMA/CD (carrier sense multiple access/collision detection: Ða truy cập nhạy cảm sóng mang/phát hiện xung đột). Tên thật sự của hiện thực mới nhất là IEEE 802.3, nhưng tên Ethernet đã trở nên quá phổ biến đến nỗi khó có thể tìm thấy một nhà cung cấp hay nhà xuất bản nào mà không gọi IEEE 802.3 chính là Ethernet. Cách gọi Ethernet 802.3 thường được sử dụng để cho rõ ràng hơn."
+        "t": "Lưu ý rằng công nghệ điện toán sử dụng thuật ngữ Ethernet để chỉ tất cả những sơ đồ mạng chia sẻ kiểu CSMA/CD (carrier sense multiple access/collision detection: Đa truy cập nhạy cảm sóng mang/phát hiện xung đột). Tên thật sự của hiện thực mới nhất là IEEE 802.3, nhưng tên Ethernet đã trở nên quá phổ biến đến nỗi khó có thể tìm thấy một nhà cung cấp hay nhà xuất bản nào mà không gọi IEEE 802.3 chính là Ethernet. Cách gọi Ethernet 802.3 thường được sử dụng để cho rõ ràng hơn."
       },
       {
         "k": "m",
@@ -4291,7 +4291,7 @@
       {"k": "m", "t": "10Base-T - Cáp xoắn đôi, chiều dài tối đa cho một phân đoạn là 100 mét"},
       {
         "k": "m",
-        "t": "10Base-F - Hỗ trợ các đường trục (backbone) dùng cáp quang với chiều dài lên đến 4 km, tốc độ truyền 10 Mbit/giây. TIA/EIA (Telecommunications Industry Association/Electronic Industries Association: Hiệp hội Công nghệ Viễn thông/Hiệp hội Công nghệ Ðiện tử) vừa chấp thuận đưa việc dùng loại cáp này để nối qua các tòa nhà trong một khuôn viên vào tiêu chuẩn Ði Dây Cho Các Tòa Nhà Thương Mại."
+        "t": "10Base-F - Hỗ trợ các đường trục (backbone) dùng cáp quang với chiều dài lên đến 4 km, tốc độ truyền 10 Mbit/giây. TIA/EIA (Telecommunications Industry Association/Electronic Industries Association: Hiệp hội Công nghệ Viễn thông/Hiệp hội Công nghệ Điện tử) vừa chấp thuận đưa việc dùng loại cáp này để nối qua các tòa nhà trong một khuôn viên vào tiêu chuẩn Đi Dây Cho Các Tòa Nhà Thương Mại."
       },
       {
         "k": "m",
@@ -4321,7 +4321,7 @@
         "k": "m",
         "t": "Các nguyên tắc và giới hạn cho việc xây dựng hệ thống mạng Ethernet phải được tuân thủ nghiêm ngặt để tránh các lỗi định thời gian, lặp vòng và tiềm ẩn nguy cơ khóa chết hệ thống. Mỗi loại card Ethernet đều có các chi tiết kỹ thuật riêng về chiều dài cáp, số tối đa các trạm, và nhiều thông số khác."
       },
-      {"k": "m", "t": "Ðiều khiển truy cập môi trường truyền thông"},
+      {"k": "m", "t": "Điều khiển truy cập môi trường truyền thông"},
       {
         "k": "m",
         "t": "Một mạng cục bộ Ethernet được chia sẻ cho tất cả các trạm nối vào nó. Phương pháp truy cập điều khiển CSMA/CD được sử dụng để phân xử cách thức truy cập môi trường truyền tải chung giữa các máy trạm. Bằng phương pháp truy cập nhạy cảm sóng mang (carrier-sensing), các máy trạm sẽ cảm nhận được là cáp chung đang được sử dụng hay không và chỉ quyết định truyền khi nào cáp này đang không được sử dụng. Cơ chế phát hiện xung đột CSMA/CD cảm nhận được sự xung đột, và cả hai trạm đều ngưng lại trong một khoảng thời gian ngẫu nhiên rồi mới truyền lại."
@@ -4334,14 +4334,14 @@
         "k": "m",
         "t": "Vấn đề xung đột cũng là một yếu tố làm giới hạn chiều dài phần (cáp) tải chung trong một phân đoạn của Ethernet. Khoảng cách tối đa là 2500 mét (2,5 dặm). Vượt quá giới hạn này làm tăng độ trễ lan truyền, có thể gây thất bại cho cơ chế phát hiện xung đột. Một trạm tại đầu này của cáp có thể không cảm nhận được truy cập từ trạm đầu kia nếu cáp quá dài. Thất bại trong phát hiện đa truy cập là nguyên nhân của hư hỏng dữ liệu và có thể khóa chết một phân đoạn mạng Lan."
       },
-      {"k": "m", "t": "Ðịnh dạng khung"},
+      {"k": "m", "t": "Định dạng khung"},
       {
         "k": "m",
-        "t": "Ðịnh dạng khung Ethernet định nghĩa cách bố trí dữ liệu và thông tin điều khiển thành các khung (frame) rồi truyền tải chúng trên hệ thống mạng. Nó xác định vị trí của khối đầu frame và các bit điều khiển, vị trí và kích thước của khối dữ liệu. Hình E-8 trình bày frame nguyên thủy của Ethernet II ở trên, và frame của IEEE 802.3 ở dưới. Các trường quan trọng trong frame được mô tả ở đây:"
+        "t": "Định dạng khung Ethernet định nghĩa cách bố trí dữ liệu và thông tin điều khiển thành các khung (frame) rồi truyền tải chúng trên hệ thống mạng. Nó xác định vị trí của khối đầu frame và các bit điều khiển, vị trí và kích thước của khối dữ liệu. Hình E-8 trình bày frame nguyên thủy của Ethernet II ở trên, và frame của IEEE 802.3 ở dưới. Các trường quan trọng trong frame được mô tả ở đây:"
       },
       {
         "k": "m",
-        "t": "Preamble: phần mở đầu - trường này đánh dấu vị trí bắt đầu của một frame. Nó luôn luôn chứa các bit nhị phân theo mẫu 10101010. Ðể ý rằng ở đây, ta thấy mẫu này là một tín hiệu đều đặn xuất hiện như một sóng vuông ở tần số 10 MHz trong khoảng thời gian 5,6 micro giây đối với bộ tiếp nhận."
+        "t": "Preamble: phần mở đầu - trường này đánh dấu vị trí bắt đầu của một frame. Nó luôn luôn chứa các bit nhị phân theo mẫu 10101010. Để ý rằng ở đây, ta thấy mẫu này là một tín hiệu đều đặn xuất hiện như một sóng vuông ở tần số 10 MHz trong khoảng thời gian 5,6 micro giây đối với bộ tiếp nhận."
       },
       {"k": "m", "t": "Hình E-8 Các khung dữ liệu Ethernet"},
       {
@@ -4360,10 +4360,10 @@
         "k": "m",
         "t": "CRC (cyclic redandancy checksum: kiểm tra tổng dư thừa tuần hoàn) - Trường này giữ một giá trị được tính toán bởi nơi gửi. Nơi tiếp nhận cũng làm một phép tính tương tự xem giá trị CRC này có giống nhau không. Nếu không, frame này xem như bị hỏng và phải được truyền lại."
       },
-      {"k": "m", "t": "Ðánh địa chỉ và xử lý"},
+      {"k": "m", "t": "Đánh địa chỉ và xử lý"},
       {
         "k": "m",
-        "t": "Tất cả các NIC (card giao diện mạng) của Ethernet đều có địa chỉ mạng dài 48 bit được xác định trước. Ðịa chỉ này gồm một con số dài 24 bit để nhận ra nhà sản xuất card và con số 24 bit kia được khai báo bởi nhà cung cấp để xác định card, giống như số sêri. Khi NIC được cài đặt vào máy tính và máy tính được nối vào hệ thống mạng, địa chỉ trên NIC là địa chỉ mạng của máy tính. Không bao giờ có 2 card mạng có cùng địa chỉ NIC, như vậy cấu hình địa chỉ Ethernet sẽ không làm nhức óc các quản trị viên. Ðịa chỉ NIC này thường được gọi là địa chỉ vật lý hay địa chỉ MAC (Medium Access Control: Ðiều khiển Truy cập phương tiện)"
+        "t": "Tất cả các NIC (card giao diện mạng) của Ethernet đều có địa chỉ mạng dài 48 bit được xác định trước. Địa chỉ này gồm một con số dài 24 bit để nhận ra nhà sản xuất card và con số 24 bit kia được khai báo bởi nhà cung cấp để xác định card, giống như số sêri. Khi NIC được cài đặt vào máy tính và máy tính được nối vào hệ thống mạng, địa chỉ trên NIC là địa chỉ mạng của máy tính. Không bao giờ có 2 card mạng có cùng địa chỉ NIC, như vậy cấu hình địa chỉ Ethernet sẽ không làm nhức óc các quản trị viên. Địa chỉ NIC này thường được gọi là địa chỉ vật lý hay địa chỉ MAC (Medium Access Control: Điều khiển Truy cập phương tiện)"
       },
       {
         "k": "m",
@@ -4371,11 +4371,11 @@
       },
       {
         "k": "m",
-        "t": "Một địa chỉ đặc biệt cũng được sử dụng để gửi một thông điệp đến tất cả các trạm đang nối vào hệ thống mạng. Ðịa chỉ dùng để phát tán này gồm 48 bit 1. Một kỹ thuật truyền cho nhóm cũng được sử dụng, trong đó một frame có thể chứa một địa chỉ mà nhiều trong nhóm sẽ nhận được."
+        "t": "Một địa chỉ đặc biệt cũng được sử dụng để gửi một thông điệp đến tất cả các trạm đang nối vào hệ thống mạng. Địa chỉ dùng để phát tán này gồm 48 bit 1. Một kỹ thuật truyền cho nhóm cũng được sử dụng, trong đó một frame có thể chứa một địa chỉ mà nhiều trong nhóm sẽ nhận được."
       },
       {
         "k": "m",
-        "t": "Ðến đây, chúng ta mới chỉ tập trung vào việc gửi đi các frame trên một hệ thống mạng cục bộ, nghĩa là hệ thống trong cùng một miền phát tán truyền thông. Trong trường hợp này, địa chỉ MAC được sử dụng. Nhưng chuyện gì sẽ xảy ra nếu mạng này nối vào mạng khác thông qua một bộ định tuyến và bạn muốn truyền tải thông tin đến một máy tính trong hệ thống mạng khác đó? Trong trường hợp này, một sơ đồ địa chỉ cấp cao hơn sử dụng. TCP/IP và IPX/SPX (Internetwork Packet Exchange/Sequenced Packet Exchange: Hệ thống trao đổi gói tin liên mạng/Hệ thống trao đổi gói tin có thứ tự) là các giao thức dùng trên liên mạng."
+        "t": "Đến đây, chúng ta mới chỉ tập trung vào việc gửi đi các frame trên một hệ thống mạng cục bộ, nghĩa là hệ thống trong cùng một miền phát tán truyền thông. Trong trường hợp này, địa chỉ MAC được sử dụng. Nhưng chuyện gì sẽ xảy ra nếu mạng này nối vào mạng khác thông qua một bộ định tuyến và bạn muốn truyền tải thông tin đến một máy tính trong hệ thống mạng khác đó? Trong trường hợp này, một sơ đồ địa chỉ cấp cao hơn sử dụng. TCP/IP và IPX/SPX (Internetwork Packet Exchange/Sequenced Packet Exchange: Hệ thống trao đổi gói tin liên mạng/Hệ thống trao đổi gói tin có thứ tự) là các giao thức dùng trên liên mạng."
       },
       {
         "k": "m",
@@ -4404,7 +4404,7 @@
       {"k": "m", "t": "Hình E-9 Các mạng con Ethernet trong cấu hình liên mạng"},
       {
         "k": "m",
-        "t": "Ðiểm quan trọng là một khi thông điệp đã đến bộ định tuyến nối với hệ thống mạng thứ cấp của máy tính đích, địa chỉ IP không còn sử dụng nữa. Thay vì vậy, địa chỉ MAC được sử dụng để gửi tiếp thông điệp đang nằm trong frame dạng Ethernet thông qua hệ thống mạng Ethernet thứ cấp để đến máy tính đích"
+        "t": "Điểm quan trọng là một khi thông điệp đã đến bộ định tuyến nối với hệ thống mạng thứ cấp của máy tính đích, địa chỉ IP không còn sử dụng nữa. Thay vì vậy, địa chỉ MAC được sử dụng để gửi tiếp thông điệp đang nằm trong frame dạng Ethernet thông qua hệ thống mạng Ethernet thứ cấp để đến máy tính đích"
       },
       {"k": "m", "t": "Thiết bị Hub, bộ chuyển mạch và sự phân đoạn"},
       {
@@ -4422,7 +4422,7 @@
       },
       {
         "k": "m",
-        "t": "Bước qua loại thiết bị hub chuyển mạch (switching hub, còn được gọi là frame switch hay LAN switch). Hub chuyển mạch là thiết bị nhiều cổng ở đó mỗi cổng hoạt động như một hệ thống Lan riêng biệt với miền phát tán truyền thông riêng của nó. Bạn có thể đặt một máy trạm duy nhất tại mỗi cổng để đạt được hiệu quả cao nhất, hay bạn có thể nối các thiết bị hub lặp lại (repeater hub) để cung cấp các cổng nối cho nhiều máy trạm. Mô hình này được trình bày bên phải trong hình E-10. Bây giờ, tất cả các trạm nối vào một cổng chỉ cạnh tranh trong hệ thống mạng mà chúng đang nối vào. Nếu một trạm cần truyền tải thông tin đến một trạm nối vào một cổng khác, thiết bị chuyển mạch sẽ điều khiển việc gửi tiếp các frame bằng cách thiết lập một đường nối nhất thời giữa hai trạm. Ðiều này giống như việc bắt cầu."
+        "t": "Bước qua loại thiết bị hub chuyển mạch (switching hub, còn được gọi là frame switch hay LAN switch). Hub chuyển mạch là thiết bị nhiều cổng ở đó mỗi cổng hoạt động như một hệ thống Lan riêng biệt với miền phát tán truyền thông riêng của nó. Bạn có thể đặt một máy trạm duy nhất tại mỗi cổng để đạt được hiệu quả cao nhất, hay bạn có thể nối các thiết bị hub lặp lại (repeater hub) để cung cấp các cổng nối cho nhiều máy trạm. Mô hình này được trình bày bên phải trong hình E-10. Bây giờ, tất cả các trạm nối vào một cổng chỉ cạnh tranh trong hệ thống mạng mà chúng đang nối vào. Nếu một trạm cần truyền tải thông tin đến một trạm nối vào một cổng khác, thiết bị chuyển mạch sẽ điều khiển việc gửi tiếp các frame bằng cách thiết lập một đường nối nhất thời giữa hai trạm. Điều này giống như việc bắt cầu."
       },
       {
         "k": "m",
@@ -4437,7 +4437,7 @@
         "k": "m",
         "t": "Ethernet 10Base-2 là phiên bản cáp đồng trục được cài đặt rộng rãi vào những năm của thập niên 80. Ethernet 10Base-5 (Thicknet) được phổ biến sớm hơn, nhưng thiết lập hệ thống cáp đồng trục Thinnet về mặt vật lý lại dễ dàng hơn và rẻ hơn hệ thống Ethernet Thicknet, mặc dù chiều dài tối đa của cáp truyền tải có thể là ngắn hơn của hệ thống Thicknet. Hình E-12 minh họa một hệ thống Thinnet, và hình E-13 minh họa các thành phần của hệ thống đi dây."
       },
-      {"k": "m", "t": "Hình E-11 Ði cáp có cấu trúc sử dụng các hub chuyển mạch"},
+      {"k": "m", "t": "Hình E-11 Đi cáp có cấu trúc sử dụng các hub chuyển mạch"},
       {"k": "m", "t": "Các thành phần của mạng 10Base-2 được mô tả trong các mục kế tiếp."},
       {
         "k": "m",
@@ -4455,15 +4455,15 @@
       {"k": "m", "t": "Hình E-13 Các thành phần của một mạng cáp đồng trục 10Base-2 Ethernet"},
       {
         "k": "m",
-        "t": "BNC cable connectors (Ðầu nối cáp BNC) - Ðầu nối BNC phải được gắn vào đầu của tất cả các phân đoạn cáp. Ðầu nối BNC bao gồm một kim ở giữa, phần giữ kim và ống ngoài. Cần phải có kìm bấm chuyên dụng cho cáp đồng trục để gắn connector vào đầu cáp. Loại này có thể được bán tại các cửa hàng điện tử."
+        "t": "BNC cable connectors (Đầu nối cáp BNC) - Đầu nối BNC phải được gắn vào đầu của tất cả các phân đoạn cáp. Đầu nối BNC bao gồm một kim ở giữa, phần giữ kim và ống ngoài. Cần phải có kìm bấm chuyên dụng cho cáp đồng trục để gắn connector vào đầu cáp. Loại này có thể được bán tại các cửa hàng điện tử."
       },
       {
         "k": "m",
-        "t": "BCN T-connectors (Ðầu nối BNC chữ T): T-connector được sử dụng để nối các BNC connector vào phía sau card giao diện Ethernet. T-connector cung cấp hai ngõ nối cho đường tín hiệu vào và tín hiệu ra. Bạn cần một T-connector cho mỗi máy trạm, ngay cả khi đó là trạm cuối cùng trong cáp truyền tải của miền, trong trường hợp đó một BNC terminator được nối vào đầu còn trống của T-connector."
+        "t": "BCN T-connectors (Đầu nối BNC chữ T): T-connector được sử dụng để nối các BNC connector vào phía sau card giao diện Ethernet. T-connector cung cấp hai ngõ nối cho đường tín hiệu vào và tín hiệu ra. Bạn cần một T-connector cho mỗi máy trạm, ngay cả khi đó là trạm cuối cùng trong cáp truyền tải của miền, trong trường hợp đó một BNC terminator được nối vào đầu còn trống của T-connector."
       },
       {
         "k": "m",
-        "t": "BNC barrel connectors (Ðầu ống nối BNC): Barrel connector được sử dụng để nối hai đoạn cáp lại với nhau."
+        "t": "BNC barrel connectors (Đầu ống nối BNC): Barrel connector được sử dụng để nối hai đoạn cáp lại với nhau."
       },
       {
         "k": "m",
@@ -4572,7 +4572,7 @@
       },
       {
         "k": "m",
-        "t": "Ðể có thêm thông tin về các đặc tính kỹ thuật IEEE 802.12, xin tham khảo mục \"100VG-AnyLAN\". Fast Ethernet được xếp vào loại các đặc tính kỹ thuật của IEEE 802.3 nguyên thủy. Ðể có thêm thông tin, xin tham khảo mục \"Fast Ethernet\"."
+        "t": "Để có thêm thông tin về các đặc tính kỹ thuật IEEE 802.12, xin tham khảo mục \"100VG-AnyLAN\". Fast Ethernet được xếp vào loại các đặc tính kỹ thuật của IEEE 802.3 nguyên thủy. Để có thêm thông tin, xin tham khảo mục \"Fast Ethernet\"."
       },
       {"k": "m", "t": "Các thông tin bổ sung"},
       {
@@ -4982,7 +4982,7 @@
     "segs": [{"k": "m", "t": "vi khuẩn hình que Gram dương."}],
     "k": "erysipelothrix"
   },
-  {"h": "erysipelotoxin", "segs": [{"k": "m", "t": "Ðộc tố viêm quầng."}], "k": "erysipelotoxin"},
+  {"h": "erysipelotoxin", "segs": [{"k": "m", "t": "Độc tố viêm quầng."}], "k": "erysipelotoxin"},
   {
     "h": "erystallographic axis",
     "segs": [
@@ -5405,7 +5405,7 @@
   },
   {
     "h": "erythrocytic segment",
-    "segs": [{"k": "m", "t": "Ðoạn hồng cầu."}],
+    "segs": [{"k": "m", "t": "Đoạn hồng cầu."}],
     "k": "erythrocytic segment"
   },
   {"h": "erythrocytin", "segs": [{"k": "m", "t": "eritroxitin."}], "k": "erythrocytin"},
@@ -5472,17 +5472,17 @@
   {"h": "erythroderma", "segs": [{"k": "m", "t": "(chứng) đỏ da."}], "k": "erythroderma"},
   {
     "h": "erythroderma desquamativum",
-    "segs": [{"k": "m", "t": "Ðỏ da tróc vảy."}],
+    "segs": [{"k": "m", "t": "Đỏ da tróc vảy."}],
     "k": "erythroderma desquamativum"
   },
   {
     "h": "erythroderma ichthyosiform congenitum",
-    "segs": [{"k": "m", "t": "Ðỏ da dạng vảy cá bẩm sinh."}],
+    "segs": [{"k": "m", "t": "Đỏ da dạng vảy cá bẩm sinh."}],
     "k": "erythroderma ichthyosiform congenitum"
   },
   {
     "h": "erythroderma psoriaticum",
-    "segs": [{"k": "m", "t": "Ðỏ da vảy nến."}],
+    "segs": [{"k": "m", "t": "Đỏ da vảy nến."}],
     "k": "erythroderma psoriaticum"
   },
   {"h": "erythrodermia", "segs": [{"k": "m", "t": "(chứng) đỏ da."}], "k": "erythrodermia"},
@@ -5496,13 +5496,13 @@
   },
   {
     "h": "erythrogenic toxin",
-    "segs": [{"k": "m", "t": "Ðộc tố gây ban dỏ."}],
+    "segs": [{"k": "m", "t": "Độc tố gây ban dỏ."}],
     "k": "erythrogenic toxin"
   },
   {"h": "erythrogonium", "segs": [{"k": "m", "t": "Tiền hồng cầu khổng lồ."}], "k": "erythrogonium"},
   {
     "h": "erythroid",
-    "segs": [{"k": "m", "t": "Ðỏ"}, {"k": "m", "t": "Thuộc dòng hồng cầu."}],
+    "segs": [{"k": "m", "t": "Đỏ"}, {"k": "m", "t": "Thuộc dòng hồng cầu."}],
     "k": "erythroid"
   },
   {

@@ -27,7 +27,7 @@
     "k": "ulaanbaatar"
   },
   {"h": "Ulage", "segs": [{"k": "m", "t": "lượng vơi, lượng hao hụt."}], "k": "ulage"},
-  {"h": "ulalgia", "segs": [{"k": "m", "t": "Ðau lợi."}], "k": "ulalgia"},
+  {"h": "ulalgia", "segs": [{"k": "m", "t": "Đau lợi."}], "k": "ulalgia"},
   {
     "h": "Ulama",
     "segs": [{"k": "m", "t": "xem"}, {"k": "ex", "t": "Ulema", "vi": "."}],
@@ -237,7 +237,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "hiền triết (thành viên đoàn hiền triết pháp quan đạo Hồi ở các nước Trung Cận Ðông) (như)"
+        "t": "hiền triết (thành viên đoàn hiền triết pháp quan đạo Hồi ở các nước Trung Cận Đông) (như)"
       },
       {"k": "ex", "t": "Ulama", "vi": "."}
     ],
@@ -402,7 +402,7 @@
     "ipa": "'ʌlnə",
     "k": "ulnar"
   },
-  {"h": "ulnar artery", "segs": [{"k": "m", "t": "Ðộng mạch trụ."}], "k": "ulnar artery"},
+  {"h": "ulnar artery", "segs": [{"k": "m", "t": "Động mạch trụ."}], "k": "ulnar artery"},
   {"h": "ulnar bone", "segs": [{"k": "m", "t": "Xương trụ."}], "k": "ulnar bone"},
   {"h": "ulnar carpal bone", "segs": [{"k": "m", "t": "Xương tháp."}], "k": "ulnar carpal bone"},
   {
@@ -414,7 +414,7 @@
   {"h": "ulnar malleolus", "segs": [{"k": "m", "t": "Mỏm trâm xương trụ."}], "k": "ulnar malleolus"},
   {
     "h": "ulnar metacarpal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch ngón bàn tay chung."}],
+    "segs": [{"k": "m", "t": "Động mạch ngón bàn tay chung."}],
     "k": "ulnar metacarpal artery"
   },
   {"h": "ulnar nerve", "segs": [{"k": "m", "t": "Dây thần kinh trụ."}], "k": "ulnar nerve"},
@@ -479,7 +479,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðảng chính trị ở Bắc Ireland liên minh với Anh. Năm 1886, hoàng đế Harlington và viên cận thần của ông là Joseph đã lập ra hiệp hội tự do (liberal unionist). Hiệp hội này liên minh với Ðảng bảo thủ của Anh. Nó cũng chỉ ra rằng lãnh thổ này là phần còn lại của vương quốc Anh. Năm 1920, khi đất nước Ireland bị chia cắt, phần lớn các Ðảng phái ở Bắc Ireland đều thuộc phe cánh của Ðảng bảo thủ Anh và được gọi tên là Ulster Union. Năm 1921-1940, Ðảng này chịu sự chỉ huy của Thủ tướng Sir James Craig. Ðược sự ủng hộ của toàn thể những cử tri, ông đã duy trì sự tồn tại của Ðảng này cho đến năm 1972. Khi ấy, đất nước rơi vào ách thống trị của Westminster. Năm 1968, cuộc chiến đòi dân quyền xảy ra giữa những người theo quốc gia và những người theo liên minh. Mâu thuẫn này ngày càng gay gắt. Ðiều này dẫn đến năm 1969, đất nước phân chia ra 2 Ðảng phái chính trị. Ðó là các Ðảng Official Ulster Unionist và Ðảng Protestant Unionist. Sau đó, năm 1972, dưới sự thống trị của Reverend Ian PAISLEY, nó được đổi tên thành Ulster Democratic Unionist Party (Ðảng liên minh dân chủ Ulster). Từ năm 1979 đến 1995, James Molyneaux lên nắm chính quyền. Sau hội nghị Hillsborough về một nền cộng hòa ở Ireland (năm 1985), không còn Ðảng nào liên minh với Ðảng bảo thủ Anh. Ðến năm 1995, David Trimble cầm quyền. Năm 1997-1998, Ulster Unionist đã tham gia những cuộc đàm phán đa Ðảng về các tổ chức bán quân sự, kể cả Sinn Féin. Những cuộc thảo luận này cuối cùng cũng đi đến kết quả vào ngày 6/4/1998. Các đề xuất mới về các cách tổ chức dân sự được đưa ra. Tuy nhiên, Ðảng Democratic Unionist và một nhóm Ðảng khác là UK Unionist đã bác bỏ cuộc thảo luận và tiến hành thực hiện hàng loạt các chiến dịch chống lại cuộc đàm phán."
+        "t": "Đảng chính trị ở Bắc Ireland liên minh với Anh. Năm 1886, hoàng đế Harlington và viên cận thần của ông là Joseph đã lập ra hiệp hội tự do (liberal unionist). Hiệp hội này liên minh với Đảng bảo thủ của Anh. Nó cũng chỉ ra rằng lãnh thổ này là phần còn lại của vương quốc Anh. Năm 1920, khi đất nước Ireland bị chia cắt, phần lớn các Đảng phái ở Bắc Ireland đều thuộc phe cánh của Đảng bảo thủ Anh và được gọi tên là Ulster Union. Năm 1921-1940, Đảng này chịu sự chỉ huy của Thủ tướng Sir James Craig. Được sự ủng hộ của toàn thể những cử tri, ông đã duy trì sự tồn tại của Đảng này cho đến năm 1972. Khi ấy, đất nước rơi vào ách thống trị của Westminster. Năm 1968, cuộc chiến đòi dân quyền xảy ra giữa những người theo quốc gia và những người theo liên minh. Mâu thuẫn này ngày càng gay gắt. Điều này dẫn đến năm 1969, đất nước phân chia ra 2 Đảng phái chính trị. Đó là các Đảng Official Ulster Unionist và Đảng Protestant Unionist. Sau đó, năm 1972, dưới sự thống trị của Reverend Ian PAISLEY, nó được đổi tên thành Ulster Democratic Unionist Party (Đảng liên minh dân chủ Ulster). Từ năm 1979 đến 1995, James Molyneaux lên nắm chính quyền. Sau hội nghị Hillsborough về một nền cộng hòa ở Ireland (năm 1985), không còn Đảng nào liên minh với Đảng bảo thủ Anh. Đến năm 1995, David Trimble cầm quyền. Năm 1997-1998, Ulster Unionist đã tham gia những cuộc đàm phán đa Đảng về các tổ chức bán quân sự, kể cả Sinn Féin. Những cuộc thảo luận này cuối cùng cũng đi đến kết quả vào ngày 6/4/1998. Các đề xuất mới về các cách tổ chức dân sự được đưa ra. Tuy nhiên, Đảng Democratic Unionist và một nhóm Đảng khác là UK Unionist đã bác bỏ cuộc thảo luận và tiến hành thực hiện hàng loạt các chiến dịch chống lại cuộc đàm phán."
       }
     ],
     "k": "ulster union parties"
@@ -500,7 +500,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tổ chức bán quân sự của Ai-len. Nó được thành lập vào năm 1912 để ngăn chặn chính sách HOME RULE Bill của Ulster và sau đó thông qua Nghị viện. Những người ủng hộ tổ chức này đều cam kết tìm mọi cách để ngăn chặn các điều lệ này. Họ bị kích động bởi Sir Edward CARSON và nhiều người theo Ðảng bảo thủ của Anh. Họ được tập luyện và được trang bị vũ khí. Hàng ngàn khẩu súng được nhập lậu vào Ireland để phục vụ cho mục đích đó. Vì thế, mâu thuẫn giữa tổ chức này và tổ chức những người theo chủ nghĩa dân tộc của Ai-len (thành lập năm 1913 tại Dublin) rất có thể sẽ xảy ra. Tuy nhiên, điều này đã bị ngăn chặn bởi cuộc chiến tranh Thế giới lần thứ I."
+        "t": "tổ chức bán quân sự của Ai-len. Nó được thành lập vào năm 1912 để ngăn chặn chính sách HOME RULE Bill của Ulster và sau đó thông qua Nghị viện. Những người ủng hộ tổ chức này đều cam kết tìm mọi cách để ngăn chặn các điều lệ này. Họ bị kích động bởi Sir Edward CARSON và nhiều người theo Đảng bảo thủ của Anh. Họ được tập luyện và được trang bị vũ khí. Hàng ngàn khẩu súng được nhập lậu vào Ireland để phục vụ cho mục đích đó. Vì thế, mâu thuẫn giữa tổ chức này và tổ chức những người theo chủ nghĩa dân tộc của Ai-len (thành lập năm 1913 tại Dublin) rất có thể sẽ xảy ra. Tuy nhiên, điều này đã bị ngăn chặn bởi cuộc chiến tranh Thế giới lần thứ I."
       }
     ],
     "k": "ulster volunteers"
@@ -1504,7 +1504,7 @@
     "ipa": "'ʌltrə'vaiəlit",
     "k": "ultra-violet"
   },
-  {"h": "ultra-violet lamp", "segs": [{"k": "m", "t": "Ðèn tử ngoại."}], "k": "ultra-violet lamp"},
+  {"h": "ultra-violet lamp", "segs": [{"k": "m", "t": "Đèn tử ngoại."}], "k": "ultra-violet lamp"},
   {
     "h": "ultra-violet light",
     "segs": [{"k": "m", "t": "ánh sáng cực tím."}],
@@ -2813,7 +2813,7 @@
   },
   {
     "h": "ultrashort wave diathermy",
-    "segs": [{"k": "m", "t": "Ðiện nhiệt sóng cực ngắn."}],
+    "segs": [{"k": "m", "t": "Điện nhiệt sóng cực ngắn."}],
     "k": "ultrashort wave diathermy"
   },
   {"h": "ultrashort waves", "segs": [{"k": "m", "t": "sóng cực ngắn."}], "k": "ultrashort waves"},
@@ -3677,7 +3677,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1394-1449) nhà thiên văn học và toán học Uzbekistan, người sáng lập (khoảng 1430) trung tâm khoa học và đài thiên văn tại Samarkand. Ông đã biên soạn một phương pháp đại số, nhờ đó đã lập được những bảng lượng giác rất chính xác. Tác giả của một báo cáo khoa học (không được lưu truyền đến chúng ta) về bài toán giải phương trình chia ba một góc. VADERMONDE Alexandre (1735-1796) nhà toán học Pháp, viện sĩ Viện hàn lâm khoa học Paris (1771). Ông có những công trình cơ bản về đại số học, đã có một thuyết trình logic về lý thuyết các định thức, trong đó có định thức Vandermonde nổi tiếng. VAN XYAOTUN (thế kỷ 7) nhà toán học và thiên văn học Trung Quốc. Tác giả của báo cáo khoa học \"Kế tục toán học cổ xưa\" (khoảng 625). Ðã giải những phương trình số bậc 3, những bài toán nhằm xác định các phần tử của một tam giác vuông, đã xướng lên quy tắc xác định thể tích các vật có dạng phức tạp bằng cách phân chia chúng thành lăng trụ và hình chóp. VEGA Ghéoc (1756-1802) nhà toán học Áo, sĩ quan hải quân và pháo binh, giáo sư trường pháo binh tại Vienne, nổi tiếng với \"Bảng logarit\" (1783) chính xác nhất thời bấy giờ."
+        "t": "(1394-1449) nhà thiên văn học và toán học Uzbekistan, người sáng lập (khoảng 1430) trung tâm khoa học và đài thiên văn tại Samarkand. Ông đã biên soạn một phương pháp đại số, nhờ đó đã lập được những bảng lượng giác rất chính xác. Tác giả của một báo cáo khoa học (không được lưu truyền đến chúng ta) về bài toán giải phương trình chia ba một góc. VADERMONDE Alexandre (1735-1796) nhà toán học Pháp, viện sĩ Viện hàn lâm khoa học Paris (1771). Ông có những công trình cơ bản về đại số học, đã có một thuyết trình logic về lý thuyết các định thức, trong đó có định thức Vandermonde nổi tiếng. VAN XYAOTUN (thế kỷ 7) nhà toán học và thiên văn học Trung Quốc. Tác giả của báo cáo khoa học \"Kế tục toán học cổ xưa\" (khoảng 625). Đã giải những phương trình số bậc 3, những bài toán nhằm xác định các phần tử của một tam giác vuông, đã xướng lên quy tắc xác định thể tích các vật có dạng phức tạp bằng cách phân chia chúng thành lăng trụ và hình chóp. VEGA Ghéoc (1756-1802) nhà toán học Áo, sĩ quan hải quân và pháo binh, giáo sư trường pháo binh tại Vienne, nổi tiếng với \"Bảng logarit\" (1783) chính xác nhất thời bấy giờ."
       }
     ],
     "k": "ulugbek mohamed taragai"

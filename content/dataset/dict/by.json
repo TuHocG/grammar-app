@@ -43,7 +43,7 @@
       },
       {"k": "m", "t": "trước"},
       {"k": "ex", "t": "to swear by Almighty God that", "vi": "..."},
-      {"k": "m", "t": "xin thề trước Thượng Ðế là..."},
+      {"k": "m", "t": "xin thề trước Thượng Đế là..."},
       {"k": "ex", "t": "by the by; by the way", "vi": "nhân đây, tiện thể"},
       {"k": "ex", "t": "by oneself", "vi": "một mình không có ai giúp đỡ"},
       {"k": "ex", "t": "to have something by one", "vi": "có vật gì trong tay"},
@@ -258,7 +258,7 @@
       {
         "k": "ex",
         "t": "I didn't go to this college by choice. It was the closest one to home:",
-        "vi": "Tôi đi học ở trường đại học này không phải do có ý lựa chọn. Ðó là vì rè này ở gần nhà nhất."
+        "vi": "Tôi đi học ở trường đại học này không phải do có ý lựa chọn. Đó là vì rè này ở gần nhà nhất."
       }
     ],
     "k": "by choice"
@@ -2099,7 +2099,7 @@
     "h": "byzantine",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "thuộc về đế quốc La Mã phương Ðông"},
+      {"k": "m", "t": "thuộc về đế quốc La Mã phương Đông"},
       {"k": "m", "t": "(chính trị) phức tạp."}
     ],
     "ipa": "bai'zæntain",
@@ -2138,15 +2138,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "Khu vực nửa miền Ðông của hoàng đế La Mã. Hoàng đế Constantine (306-34 trước Công nguyên) đã thống nhất hai nửa lãnh thổ bị chia cắt bởi Diocletian (284-305), và đã xây dựng lại kinh đô Hy Lạp ở Byzantium như một trung tâm của miền Ðông. Ông đặt tên cho nó là Constantinople (330). Khi qua đời, hoàng đế Theodosius đã phân chia quyền hành cho những người con. Sau sự thất bại của Rome đối với Ostrogoths (476), Constantinople trở thành kinh đô của hoàng đế và rất nổi tiếng về nghệ thuật, kiến trúc và có nền kinh tế thịnh vượng. Trong khi những kẻ xâm lược man rợ đã chiến thắng các vị hoàng đế phương Tây. Hoàng đế Byzantine mong muốn đánh bại họ và hợp nhất các vị hoàng đế. Hoàng đế Justinian đã chinh phục được Bắc phi và một phần lãnh thổ Ý, biến Ravenna trở thành kinh đô tráng lệ nhưng người kế vị ông lại chỉ tồn tại trong một thời gian ngắn."
+        "t": "Khu vực nửa miền Đông của hoàng đế La Mã. Hoàng đế Constantine (306-34 trước Công nguyên) đã thống nhất hai nửa lãnh thổ bị chia cắt bởi Diocletian (284-305), và đã xây dựng lại kinh đô Hy Lạp ở Byzantium như một trung tâm của miền Đông. Ông đặt tên cho nó là Constantinople (330). Khi qua đời, hoàng đế Theodosius đã phân chia quyền hành cho những người con. Sau sự thất bại của Rome đối với Ostrogoths (476), Constantinople trở thành kinh đô của hoàng đế và rất nổi tiếng về nghệ thuật, kiến trúc và có nền kinh tế thịnh vượng. Trong khi những kẻ xâm lược man rợ đã chiến thắng các vị hoàng đế phương Tây. Hoàng đế Byzantine mong muốn đánh bại họ và hợp nhất các vị hoàng đế. Hoàng đế Justinian đã chinh phục được Bắc phi và một phần lãnh thổ Ý, biến Ravenna trở thành kinh đô tráng lệ nhưng người kế vị ông lại chỉ tồn tại trong một thời gian ngắn."
       },
       {
         "k": "m",
-        "t": "Sau khi Muhammad qua đời (632), lực lượng Hồi giáo Ả Rập đã xâm chiếm Persia và Trung Ðông, băng qua Bắc Phi và tiến công vào Tây Ban Nha. Ðến năm 750, chỉ còn vùng Balkan và Minor Châu Á là chưa bị xâm chiếm. Từ thế kỷ 9, hoàng đế Frankish của triều đại Charlemagne đã thống trị miền Tây. Ðến thế kỷ 8 và 9, tôn giáo bị chia rẽ và đặc biệt là các cuộc xung đột đã làm suy yếu triều đại hoàng đế."
+        "t": "Sau khi Muhammad qua đời (632), lực lượng Hồi giáo Ả Rập đã xâm chiếm Persia và Trung Đông, băng qua Bắc Phi và tiến công vào Tây Ban Nha. Đến năm 750, chỉ còn vùng Balkan và Minor Châu Á là chưa bị xâm chiếm. Từ thế kỷ 9, hoàng đế Frankish của triều đại Charlemagne đã thống trị miền Tây. Đến thế kỷ 8 và 9, tôn giáo bị chia rẽ và đặc biệt là các cuộc xung đột đã làm suy yếu triều đại hoàng đế."
       },
       {
         "k": "m",
-        "t": "Tư tưởng triết học và chính trị khác nhau giữa Rome và Constantinople đã dẫn đến sự chia rẽ tôn giáo Ðông Tây giữa Latin và Công giáo chính thống. Từ năm (1081-1118) hoàng đế Alexius Comnenus với lực lượng hùng mạnh đã đập tan những cuộc tấn công của rợ hung nô từ phía Bắc. Ðồng thời kêu gọi quân đội Franks cùng phối hợp chống lại quân Thổ Nhĩ Kỳ. Vào thế kỷ 12, một số công trình được trùng tu ở Châu Á và thời kỳ này là một trong những thành tựu văn hóa và nghệ thuật. Tuy nhiên, nó đã chóng bị phá hủy bởi đạo quân cướp phá Frankish của đạo quân Constantinople vào năm 1204. Sự thất bại trong việc hợp nhất giáo hội Thiên Chúa giáo với Thổ Nhĩ Kỳ cùng với sự phát triển của các quốc gia độc lập đã làm suy yếu quyền lực của đế chế. Vào thế kỷ 14, 15, Ottoman đã mở cuộc xâm lược và tiêu diệt đạo quân Constantinople năm 1453 và chấm dứt thời kỳ của những vị hoàng đế."
+        "t": "Tư tưởng triết học và chính trị khác nhau giữa Rome và Constantinople đã dẫn đến sự chia rẽ tôn giáo Đông Tây giữa Latin và Công giáo chính thống. Từ năm (1081-1118) hoàng đế Alexius Comnenus với lực lượng hùng mạnh đã đập tan những cuộc tấn công của rợ hung nô từ phía Bắc. Đồng thời kêu gọi quân đội Franks cùng phối hợp chống lại quân Thổ Nhĩ Kỳ. Vào thế kỷ 12, một số công trình được trùng tu ở Châu Á và thời kỳ này là một trong những thành tựu văn hóa và nghệ thuật. Tuy nhiên, nó đã chóng bị phá hủy bởi đạo quân cướp phá Frankish của đạo quân Constantinople vào năm 1204. Sự thất bại trong việc hợp nhất giáo hội Thiên Chúa giáo với Thổ Nhĩ Kỳ cùng với sự phát triển của các quốc gia độc lập đã làm suy yếu quyền lực của đế chế. Vào thế kỷ 14, 15, Ottoman đã mở cuộc xâm lược và tiêu diệt đạo quân Constantinople năm 1453 và chấm dứt thời kỳ của những vị hoàng đế."
       }
     ],
     "k": "byzantine empire"

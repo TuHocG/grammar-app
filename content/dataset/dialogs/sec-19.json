@@ -187,13 +187,13 @@
         "a": "I want to see Dr.Cúc.",
         "b": "Is this the first time you've seen Dr. Cuc?",
         "avi": "Tôi muốn gặp bác sĩ Cúc",
-        "bvi": "Ðây có phải là lần đầu tiên bạn gặp Bác sĩ Cúc không?"
+        "bvi": "Đây có phải là lần đầu tiên bạn gặp Bác sĩ Cúc không?"
       },
       {
         "a": "No, I had my teeth cleaned and checked last year.",
         "b": "OK, just a moment, I'll get your chart.",
         "avi": "Không, năm ngoái tôi đã tôi đã làm kiểm tra răng và cạo vôi răng ở đây.",
-        "bvi": "Ðược rồi, hãy đợi một lát. Tôi sẽ lấy hồ sơ khám răng cho bạn."
+        "bvi": "Được rồi, hãy đợi một lát. Tôi sẽ lấy hồ sơ khám răng cho bạn."
       },
       {
         "a": "Recently, I had a lot of problems with my teeth.",
@@ -229,13 +229,13 @@
         "a": "Well, yes. I've been having some toothpain.",
         "b": "Alright, I'll make a note of that.",
         "avi": "À, có. Gần đây tôi bị đau răng.",
-        "bvi": "Ðược rồi, tôi sẽ lưu ý việc đó."
+        "bvi": "Được rồi, tôi sẽ lưu ý việc đó."
       },
       {
         "a": "I'd like to have my teeth cleaned as well.",
         "b": "That'll be part of today's dental hygiene.",
         "avi": "Tôi cũng muốn cạo vôi răng nữa.",
-        "bvi": "Ðó sẽ là một phần trong quá trình vệ sinh răng miệng hôm nay."
+        "bvi": "Đó sẽ là một phần trong quá trình vệ sinh răng miệng hôm nay."
       }
     ]
   },
@@ -349,13 +349,13 @@
         "a": "I understand that now.",
         "b": "That's why it's important to come in twice a year for check-ups.",
         "avi": "Bây giờ thì tôi đã hiểu.",
-        "bvi": "Ðó là lý do khiến việc kiểm tra răng miệng hai lần mỗi năm là điều rất quan trọng."
+        "bvi": "Đó là lý do khiến việc kiểm tra răng miệng hai lần mỗi năm là điều rất quan trọng."
       },
       {
         "a": "Is it done, doctor?",
         "b": "OK, please take a drink and rinse.",
         "avi": "Xong chưa, thưa bác sĩ?",
-        "bvi": "Ðược rồi, bạn hãy nhấp một ngụm nước và súc miệng."
+        "bvi": "Được rồi, bạn hãy nhấp một ngụm nước và súc miệng."
       }
     ]
   },
@@ -367,7 +367,7 @@
         "a": "What are we going to do next?",
         "b": "OK, now I'll apply some fluoride. Which flavor would you like?",
         "avi": "Bây giờ chúng ta sẽ làm gì tiếp?",
-        "bvi": "Ðược rồi, tôi sẽ dùng một ít flo-rit để súc miệng. Bạn muốn hương vị gì?"
+        "bvi": "Được rồi, tôi sẽ dùng một ít flo-rit để súc miệng. Bạn muốn hương vị gì?"
       },
       {
         "a": "Do I have a choice?",
@@ -444,7 +444,7 @@
       {
         "a": "Sometimes, but it's usually pretty dry.",
         "b": "Do you smoke?",
-        "avi": "Ðôi khi có, nhưng thường thì là ho khan.",
+        "avi": "Đôi khi có, nhưng thường thì là ho khan.",
         "bvi": "Bạn có hút thuốc không?"
       }
     ]
@@ -469,7 +469,7 @@
         "a": "Yes, for the past few days.",
         "b": "OK. Now let's have a look.",
         "avi": "Có, được vài ngày rồi.",
-        "bvi": "Ðược rồi. Giờ thì hãy để tôi khám xem."
+        "bvi": "Được rồi. Giờ thì hãy để tôi khám xem."
       },
       {
         "a": "Please examine me, doctor.",
@@ -493,7 +493,7 @@
         "a": "Well I've certainly felt under the weather.",
         "b": "Right. How much physical activity do you get?",
         "avi": "À, tất nhiên, tôi cảm thấy mệt mỏi.",
-        "bvi": "Ðược rồi. Bạn vận động với cường độ như thế nào?"
+        "bvi": "Được rồi. Bạn vận động với cường độ như thế nào?"
       },
       {
         "a": "I do excercise regularly.",
@@ -589,13 +589,13 @@
         "a": "I do exercise every day.",
         "b": "That would be a good idea. How about your diet?",
         "avi": "Tôi tập thể dục mỗi ngày.",
-        "bvi": "Ðó là một ý hay. Chế độ ăn uống của bạn ra sao?"
+        "bvi": "Đó là một ý hay. Chế độ ăn uống của bạn ra sao?"
       },
       {
         "a": "I think I eat a pretty balanced diet.",
         "b": "That's good. Now, I'm going to listen to your heart.",
         "avi": "Tôi nghĩ là tôi có chế độ ăn khá cân đối.",
-        "bvi": "Ðiều đó tốt đấy. Giờ thì tôi sẽ nghe nhịp tim của bạn."
+        "bvi": "Điều đó tốt đấy. Giờ thì tôi sẽ nghe nhịp tim của bạn."
       }
     ]
   },
@@ -607,7 +607,7 @@
         "a": "Ooh, that's cold!",
         "b": "Don't worry it's just my stethoscope.",
         "avi": "Ồ, lạnh quá.",
-        "bvi": "Ðừng lo, đó chỉ là ống nghe của tôi."
+        "bvi": "Đừng lo, đó chỉ là ống nghe của tôi."
       },
       {
         "a": "I felt a little worried.",
@@ -643,7 +643,7 @@
         "a": "Is there any problem, doctor?",
         "b": "OK. Everything looks ship shape.",
         "avi": "Có vấn đề gì không ạ?",
-        "bvi": "Ðược rồi. Mọi thứ trông có vẻ ổn đấy."
+        "bvi": "Được rồi. Mọi thứ trông có vẻ ổn đấy."
       },
       {
         "a": "Do I need more tests?",
@@ -708,7 +708,7 @@
       {
         "a": "Sometimes, I hardly feel anything.",
         "b": "Is there a type of food that seems to cause stronger pain than other types?",
-        "avi": "Ðôi khi, tôi gần như không cảm nhận được gì.",
+        "avi": "Đôi khi, tôi gần như không cảm nhận được gì.",
         "bvi": "Có loại thức ăn nào khiến bạn cảm thấy đau hơn so với khi ăn những loại thức ăn khác không?"
       },
       {
@@ -763,7 +763,7 @@
         "a": "Thank you very much, doctor. Have you finished prescribing medication?",
         "b": "Here, you can get this prescription at any pharmacy.",
         "avi": "Cảm ơn ông rất nhiều, thưa bác sĩ. Ông đã kê đơn thuốc xong chưa?",
-        "bvi": "Ðây, bạn có thể đưa toa thuốc này cho bất kỳ nhà thuốc nào."
+        "bvi": "Đây, bạn có thể đưa toa thuốc này cho bất kỳ nhà thuốc nào."
       },
       {
         "a": "How often should I take the medicine?",
@@ -793,7 +793,7 @@
         "a": "Is there anything else I can do to help me sleep at night?",
         "b": "Don't worry so much about things at work.",
         "avi": "Tôi có thể làm gì khác nữa để giúp mình ngủ được vào ban đêm không?",
-        "bvi": "Ðừng lo lắng quá nhiều về công việc."
+        "bvi": "Đừng lo lắng quá nhiều về công việc."
       },
       {
         "a": "Should I stay home from work?",
@@ -816,14 +816,14 @@
       {
         "a": "I really have a fever, is that right?",
         "b": "You feel a bit warm. Let me get a thermometer to check.",
-        "avi": "Ðúng là tôi bị sốt thật, đúng không?",
+        "avi": "Đúng là tôi bị sốt thật, đúng không?",
         "bvi": "Bạn cảm thấy hơi nóng trong người. Hãy để tôi lấy nhiệt kế đo xem."
       },
       {
         "a": "How do I raise my bed? I can't find the controls.",
         "b": "Here you are. Is that better?",
         "avi": "Làm sao để tôi đẩy giường lên được đây? Tôi không thể tìm thấy được cái điều khiển.",
-        "bvi": "Ðây, của bạn đây. Giờ bạn cảm thấy tốt hơn chưa?"
+        "bvi": "Đây, của bạn đây. Giờ bạn cảm thấy tốt hơn chưa?"
       },
       {
         "a": "Could I have another pillow?",
@@ -835,7 +835,7 @@
         "a": "Can you take my temperature now, doctor?",
         "b": "OK, I'll be right back with the thermometer.",
         "avi": "Bây giờ bác sĩ có thể đo nhiệt độ cho tôi không?",
-        "bvi": "Ðược rồi, tôi sẽ quay lại ngay với nhiệt kế."
+        "bvi": "Được rồi, tôi sẽ quay lại ngay với nhiệt kế."
       }
     ]
   },
@@ -895,7 +895,7 @@
         "a": "I would like to talk to the doctor.",
         "b": "Have you been to Beautiful Smile before?",
         "avi": "Tôi muốn nói chuyện với bác sĩ.",
-        "bvi": "Bạn đã bao giờ đến với Nụ cười Ðẹp chưa?"
+        "bvi": "Bạn đã bao giờ đến với Nụ cười Đẹp chưa?"
       }
     ]
   },
@@ -943,7 +943,7 @@
         "a": "Thank you so much. Goodbye, doctor.",
         "b": "OK, thank you for calling, we'll see you next week.",
         "avi": "Cảm ơn, tạm biệt bác sĩ.",
-        "bvi": "Ðược rồi, cảm ơn bạn vì đã gọi điện, hẹn gặp bạn vào tuần tới."
+        "bvi": "Được rồi, cảm ơn bạn vì đã gọi điện, hẹn gặp bạn vào tuần tới."
       },
       {
         "a": "Hello! I want to have my teeth checked.",
@@ -1309,7 +1309,7 @@
         "a": "Uh, well, that sounds painful!",
         "b": "Don't worry. I've done this once before.",
         "avi": "Ố, ồ, nghe có vẻ rất đau đấy!",
-        "bvi": "Ðừng lo. Tôi đã làm việc này một lần trước đây."
+        "bvi": "Đừng lo. Tôi đã làm việc này một lần trước đây."
       },
       {
         "a": "Wait! Aren't you suppose to give me something to dull the pain?",
@@ -1356,8 +1356,8 @@
       {
         "a": "Okay, well whatever. Let's get it over with.",
         "b": "Okay. Drill please.",
-        "avi": "Ðược rồi, sao cũng được. Chúng ta hãy làm cho xong đi.",
-        "bvi": "Ðược rồi. Ðưa tôi mũi khoan nào."
+        "avi": "Được rồi, sao cũng được. Chúng ta hãy làm cho xong đi.",
+        "bvi": "Được rồi. Đưa tôi mũi khoan nào."
       },
       {
         "a": "I'm so lucky to meet you, doctor.",
@@ -1369,7 +1369,7 @@
         "a": "I've got toothache. I think it's in this tooth.",
         "b": "Right, let me have a look. Open your mouth wide.",
         "avi": "Tôi bị đau răng. Tôi nghĩ là nó ở cái răng này.",
-        "bvi": "Ðược rồi, hãy để tôi khám xem. Hãy hả miệng ra."
+        "bvi": "Được rồi, hãy để tôi khám xem. Hãy hả miệng ra."
       },
       {
         "a": "Would you please examine me carefully. doctor?",
@@ -1663,7 +1663,7 @@
         "a": "I am learning good habits to take care of my teeth.",
         "b": "What are some habits which would protect your teeth?",
         "avi": "Tôi đang học những thói quen tốt để chăm sóc cho răng của mình.",
-        "bvi": "Ðâu là những thói quen giúp bảo vệ răng?"
+        "bvi": "Đâu là những thói quen giúp bảo vệ răng?"
       },
       {
         "a": "I brush my teeth and floss them after every meal.",
@@ -1687,7 +1687,7 @@
         "a": "I try to avoid things that are harmful to my teeth.",
         "b": "What things are bad for your teeth?",
         "avi": "Tôi cố gắng tránh những thứ có hại cho răng.",
-        "bvi": "Ðiều gì gây hại cho răng bạn?"
+        "bvi": "Điều gì gây hại cho răng bạn?"
       },
       {
         "a": "The cost of dental treatment here is quite high compared to that in my country.",
@@ -1764,7 +1764,7 @@
       {
         "a": "It's not easy to become a dentist.",
         "b": "What do you think would be the most difficult part of a dentist's job?",
-        "avi": "Ðể trở thành một nha sĩ không phải là việc đơn giản.",
+        "avi": "Để trở thành một nha sĩ không phải là việc đơn giản.",
         "bvi": "Bạn nghĩ đâu là công việc khó nhất của một nha sĩ?"
       }
     ]
@@ -1818,7 +1818,7 @@
       {
         "a": "It's about time. Is it good news or bad?",
         "b": "I guess it's a bit of both. Which do you want first?",
-        "avi": "Ðó là vấn đề thời gian. Kết quả tốt hay xấu vậy?",
+        "avi": "Đó là vấn đề thời gian. Kết quả tốt hay xấu vậy?",
         "bvi": "Tôi đoán là cả hai. Bạn muốn nghe điều gì trước."
       },
       {
@@ -1837,7 +1837,7 @@
         "a": "Wow, that's a load off my mind. Thanks Doctor.",
         "b": "Don't get too excited.",
         "avi": "Ôi, đó là sự giải thoát cho tâm trí tôi. Cảm ơn bác sĩ.",
-        "bvi": "Ðừng quá phấn khởi."
+        "bvi": "Đừng quá phấn khởi."
       },
       {
         "a": "Oh, there's still another problem, isn't it?",
@@ -1848,7 +1848,7 @@
       {
         "a": "Things like what? Cancer?",
         "b": "Actually, I'm thinking more along the lines of a food allergy.",
-        "avi": "Ðại loại là những gì? Ung thư ư?",
+        "avi": "Đại loại là những gì? Ung thư ư?",
         "bvi": "Thực ra thì tôi đang nghĩ theo hướng dị ứng thức ăn."
       },
       {
@@ -1896,7 +1896,7 @@
       {
         "a": "That's not good news.",
         "b": "There are just two cavities and they look superficial.",
-        "avi": "Ðó không phải là một tin tốt lành chút nào.",
+        "avi": "Đó không phải là một tin tốt lành chút nào.",
         "bvi": "Chỉ có hai lỗ sâu và chúng khá nông."
       },
       {
@@ -1926,7 +1926,7 @@
       {
         "a": "That's good news!",
         "b": "Yes, I'll just get these two fillings drilled and taken care of and then we'll get your teeth cleaned.",
-        "avi": "Ðó là một tin tốt!",
+        "avi": "Đó là một tin tốt!",
         "bvi": "Vâng, tôi sẽ khoan hai chỗ trám này và chữa cho bạn, sau đó chúng tôi sẽ làm sạch răng cho bạn."
       },
       {
@@ -1945,7 +1945,7 @@
         "a": "No. I am just here for a cleaning with your dental hygienist.",
         "b": "That's right sir. I will take a quick glance at your teeth once she is done.",
         "avi": "Không, tôi chỉ đến đây để cạo vôi răng với trợ lý của ông.",
-        "bvi": "Ðúng rồi. Tôi sẽ khám răng cho ông sau khi cô ấy xong."
+        "bvi": "Đúng rồi. Tôi sẽ khám răng cho ông sau khi cô ấy xong."
       }
     ]
   },
@@ -1957,7 +1957,7 @@
         "a": "How are my teeth now, doctor?",
         "b": "This visit should go a lot better for you than last year's visit.",
         "avi": "Ông thấy răng tôi giờ đây thế nào, thưa bác sĩ?",
-        "bvi": "Ðợt thăm khám này sẽ diễn ra tốt đẹp hơn nhiều so với đợt thăm khám năm ngoái."
+        "bvi": "Đợt thăm khám này sẽ diễn ra tốt đẹp hơn nhiều so với đợt thăm khám năm ngoái."
       },
       {
         "a": "And now, how will you handle this problem, doctor.",
@@ -2053,7 +2053,7 @@
         "a": "Will they take x-rays?",
         "b": "Sometimes they take x-rays to check your teeth.",
         "avi": "Họ có chụp x-quang không?",
-        "bvi": "Ðôi khi họ chụp X-quang để kiểm tra răng cho bạn."
+        "bvi": "Đôi khi họ chụp X-quang để kiểm tra răng cho bạn."
       },
       {
         "a": "Will they take x-rays when I come for follow-up examination?",
@@ -2125,7 +2125,7 @@
         "a": "It's really bad. I don't like this at all. What should I do?",
         "b": "This is the reason I keep on asking you to visit the dentist once every 6 months to maintain your oral hygiene.",
         "avi": "Thật tồi tệ. Tôi không thích điều này chút nào. Tôi phải làm sao đây?",
-        "bvi": "Ðây là lý do tôi đề nghị bạn đến gặp nha sĩ mỗi 6 tháng để duy trì vệ sinh răng miệng."
+        "bvi": "Đây là lý do tôi đề nghị bạn đến gặp nha sĩ mỗi 6 tháng để duy trì vệ sinh răng miệng."
       }
     ]
   },
@@ -2215,7 +2215,7 @@
         "a": "Is there any way I can get them covered?",
         "b": "Yes. We can use composite material to fix them up.",
         "avi": "Có cách nào để che chúng lại không?",
-        "bvi": "Ðược chứ. Chúng tôi có thể sử dụng vật liệu tổng hợp để chữa cho bạn."
+        "bvi": "Được chứ. Chúng tôi có thể sử dụng vật liệu tổng hợp để chữa cho bạn."
       }
     ]
   },
@@ -2395,7 +2395,7 @@
         "a": "I have toothache when drinking cold water.",
         "b": "That means there's something wrong with your tooth. It's causing you pain",
         "avi": "Tôi bị nhức răng khi uống nước đá.",
-        "bvi": "Ðiều đó có nghĩa rằng hàm răng của bạn có vấn đề. Nó gây nên cơn đau của bạn."
+        "bvi": "Điều đó có nghĩa rằng hàm răng của bạn có vấn đề. Nó gây nên cơn đau của bạn."
       }
     ]
   },
@@ -2593,7 +2593,7 @@
         "a": "Give me the mirror to see it, please.",
         "b": "Here, how does it look?",
         "avi": "Vui lòng đưa cho tôi cái gương để nhìn thử xem.",
-        "bvi": "Ðây, nó trông thế nào?"
+        "bvi": "Đây, nó trông thế nào?"
       },
       {
         "a": "Hello doctor. I came here on your follow-up appointment.",
@@ -2737,7 +2737,7 @@
         "a": "Oh! is there anything serious, doctor?",
         "b": "Don't worry, there is nothing serious.",
         "avi": "Ồ, có gì nghiêm trọng không, thưa bác sĩ?",
-        "bvi": "Ðừng lo, chẳng có gì nghiêm trọng lắm đâu."
+        "bvi": "Đừng lo, chẳng có gì nghiêm trọng lắm đâu."
       },
       {
         "a": "I'm very tired, please help me, doctor.",
@@ -2767,7 +2767,7 @@
         "a": "Would you prepare a medical certificate for me to submit it in my office?",
         "b": "Oh sure... This is your medical certificate.",
         "avi": "Ông có thể chuẩn bị một giấy chứng nhận sức khỏe để tôi nộp cho văn phòng của mình được không?",
-        "bvi": "Ồ hẳn rồi... Ðây là giấy chứng nhận sức khỏe của bạn."
+        "bvi": "Ồ hẳn rồi... Đây là giấy chứng nhận sức khỏe của bạn."
       },
       {
         "a": "Please tell me how shall I take this medicine?",
@@ -2815,7 +2815,7 @@
         "a": "Doctor, to be honest, I'm afraid of needle.",
         "b": "Don't worry. I just want to check your tooth first.",
         "avi": "Thưa bác sĩ, nói thật là tôi rất sợ kim tiêm.",
-        "bvi": "Ðừng lo. Tôi chỉ muốn kiểm tra răng của bạn trước tiên thôi."
+        "bvi": "Đừng lo. Tôi chỉ muốn kiểm tra răng của bạn trước tiên thôi."
       }
     ]
   },

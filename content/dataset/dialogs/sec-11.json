@@ -24,7 +24,7 @@
       {
         "a": "Guess who come out as winners.",
         "b": "Maybe I will be the first!",
-        "avi": "Ðoán xem ai sẽ là người thắng.",
+        "avi": "Đoán xem ai sẽ là người thắng.",
         "bvi": "Có lẽ tôi sẽ trở thành người đầu tiên!"
       }
     ]
@@ -133,7 +133,7 @@
         "a": "Anything else?",
         "b": "This is a huge library.",
         "avi": "Gì nữa?",
-        "bvi": "Ðây là một thư viện khổng lồ."
+        "bvi": "Đây là một thư viện khổng lồ."
       },
       {
         "a": "I read a lot of story books.",
@@ -259,12 +259,12 @@
         "a": "Teaching is a great job.",
         "b": "It's the best job I've ever had.",
         "avi": "Giảng dạy là công việc tuyệt vời.",
-        "bvi": "Ðó là công việc tốt nhất mà tôi đã từng có."
+        "bvi": "Đó là công việc tốt nhất mà tôi đã từng có."
       },
       {
         "a": "It's the best job I've ever had.",
         "b": "That must be nice.",
-        "avi": "Ðó là công việc tốt nhất mà tôi đã từng có.",
+        "avi": "Đó là công việc tốt nhất mà tôi đã từng có.",
         "bvi": "Tốt thật đấy."
       }
     ]
@@ -294,7 +294,7 @@
       {
         "a": "Time's up.",
         "b": "Let's call it a day then.",
-        "avi": "Ðã hết giờ rồi.",
+        "avi": "Đã hết giờ rồi.",
         "bvi": "Chúng ta sẽ gặp lại vào ngày khác nhé!"
       }
     ]
@@ -378,7 +378,7 @@
       {
         "a": "My grades are getting a lot better.",
         "b": "These marks are well above average.",
-        "avi": "Ðiểm số của tôi đang dần tốt hơn.",
+        "avi": "Điểm số của tôi đang dần tốt hơn.",
         "bvi": "Những điểm số này trên trung bình."
       },
       {
@@ -433,7 +433,7 @@
         "a": "Do you bring what I asked?",
         "b": "This is the book that you want.",
         "avi": "Bạn có đem thứ tôi cần đến không?",
-        "bvi": "Ðây là quyển sách mà bạn cần."
+        "bvi": "Đây là quyển sách mà bạn cần."
       },
       {
         "a": "He's quite a good student.",
@@ -456,7 +456,7 @@
       {
         "a": "What's the point of going to the library?",
         "b": "I'm going to the library for study.",
-        "avi": "Ðến thư viện để làm gì?",
+        "avi": "Đến thư viện để làm gì?",
         "bvi": "Tôi tới thư viện để học."
       },
       {
@@ -649,7 +649,7 @@
         "a": "We are trying to get over our deception.",
         "b": "Don't try any ticks in the examination.",
         "avi": "Chúng ta chỉ đang tìm cách vượt qua sự dối trá của mình.",
-        "bvi": "Ðừng giở mánh khóe trong kỳ thi."
+        "bvi": "Đừng giở mánh khóe trong kỳ thi."
       },
       {
         "a": "I'm sure you'll pass it.",
@@ -894,7 +894,7 @@
       {
         "a": "It is a beautiful and important language.",
         "b": "In my work English is essential.",
-        "avi": "Ðó là một ngôn ngữ hay và quan trọng.",
+        "avi": "Đó là một ngôn ngữ hay và quan trọng.",
         "bvi": "Tiếng Anh là thiết yếu trong công việc của tôi."
       }
     ]
@@ -1129,7 +1129,7 @@
         "a": "However, many worried about the high tuition fees.",
         "b": "This is the first term.",
         "avi": "Tuy nhiên, nhiều người lo lắng về mức học phí cao.",
-        "bvi": "Ðây là học kỳ đầu."
+        "bvi": "Đây là học kỳ đầu."
       },
       {
         "a": "What are the causes?",
@@ -1194,7 +1194,7 @@
       {
         "a": "Go take a seat.",
         "b": "Which is my seat?",
-        "avi": "Ði tìm chỗ ngồi đi.",
+        "avi": "Đi tìm chỗ ngồi đi.",
         "bvi": "Tôi ngồi chỗ nào?"
       }
     ]
@@ -1225,7 +1225,7 @@
         "a": "She's very uneasy about the results.",
         "b": "Are the pass lists out yet?",
         "avi": "Cô ấy rất lo lắng về kết quả.",
-        "bvi": "Ðã công bố danh sách đậu chưa?"
+        "bvi": "Đã công bố danh sách đậu chưa?"
       }
     ]
   },
@@ -1275,12 +1275,12 @@
         "avi": "Xin lặp lại lần nữa.",
         "bvi": "Tôi không phát âm từ đó được."
       },
-      {"a": "Is that ok?", "b": "That's wrong.", "avi": "Ðược không?", "bvi": "Sai rồi."},
+      {"a": "Is that ok?", "b": "That's wrong.", "avi": "Được không?", "bvi": "Sai rồi."},
       {
         "a": "Let me read it.",
         "b": "Stop reading!",
-        "avi": "Ðể tôi đọc cho nhé.",
-        "bvi": "Ðừng đọc nữa!"
+        "avi": "Để tôi đọc cho nhé.",
+        "bvi": "Đừng đọc nữa!"
       }
     ]
   },
@@ -1417,7 +1417,7 @@
       {
         "a": "Let me read it to you.",
         "b": "Will you speak a little louder?",
-        "avi": "Ðể tôi đọc cho cậu nghe nhé.",
+        "avi": "Để tôi đọc cho cậu nghe nhé.",
         "bvi": "Bạn đọc lớn thêm một chút nhé?"
       },
       {
@@ -1442,7 +1442,7 @@
         "a": "Who is in charge for quality?",
         "b": "Ministry of Training and Education.",
         "avi": "Ai chịu trách nhiệm về chất lượng?",
-        "bvi": "Bộ Giáo dục và Ðào tạo."
+        "bvi": "Bộ Giáo dục và Đào tạo."
       },
       {
         "a": "I try to do a university degree.",
@@ -1508,12 +1508,12 @@
         "a": "He owned himself defeated.",
         "b": "It was indeed as exciting experience.",
         "avi": "Anh ấy tự gây ra thất bại.",
-        "bvi": "Ðó quả là một kinh nghiệm nhớ đời."
+        "bvi": "Đó quả là một kinh nghiệm nhớ đời."
       },
       {
         "a": "Reading widens the door of knowledge.",
         "b": "Knowledge is essential to success in life.",
-        "avi": "Ðọc sách mở mang kiến thức.",
+        "avi": "Đọc sách mở mang kiến thức.",
         "bvi": "Kiến thức là yếu tố cần thiết cho sự thành công trong đời."
       },
       {
@@ -1742,7 +1742,7 @@
         "a": "What's the prefect doing?",
         "b": "Call the roll in class.",
         "avi": "Anh lớp trưởng đang làm gì vậy?",
-        "bvi": "Ðiểm danh học sinh trong lớp."
+        "bvi": "Điểm danh học sinh trong lớp."
       },
       {
         "a": "Well, I guess so.",
@@ -1837,7 +1837,7 @@
       {
         "a": "That's French.",
         "b": "Do you speak French?",
-        "avi": "Ðó là tiếng Pháp đấy.",
+        "avi": "Đó là tiếng Pháp đấy.",
         "bvi": "Bạn có biết nói tiếng Pháp không?"
       },
       {
@@ -1850,7 +1850,7 @@
         "a": "Sorry, I don't know.",
         "b": "Okay, who here knows.",
         "avi": "Xin lỗi, tôi không biết.",
-        "bvi": "Ðược rồi, ở đây có ai biết."
+        "bvi": "Được rồi, ở đây có ai biết."
       }
     ]
   },
@@ -1982,7 +1982,7 @@
         "a": "How do you pronounce this name?",
         "b": "Yes, the Queen's English.",
         "avi": "Bạn phát âm cái tên này như thế nào?",
-        "bvi": "Ðúng rồi, tiếng Anh chuẩn đấy."
+        "bvi": "Đúng rồi, tiếng Anh chuẩn đấy."
       },
       {
         "a": "What's the weather like today?",
@@ -1999,7 +1999,7 @@
       {
         "a": "Yes, the Queen's English.",
         "b": "Yes, right on.",
-        "avi": "Ðúng rồi, tiếng Anh chuẩn đấy.",
+        "avi": "Đúng rồi, tiếng Anh chuẩn đấy.",
         "bvi": "Phải, đúng phóc."
       }
     ]
@@ -2030,7 +2030,7 @@
         "a": "Would you sign here, please?",
         "b": "Please hand me see it.",
         "avi": "Xin bạn ký tên vào đây?",
-        "bvi": "Ðưa tôi xem nào."
+        "bvi": "Đưa tôi xem nào."
       }
     ]
   },
@@ -2041,7 +2041,7 @@
       {
         "a": "Please hand me see it.",
         "b": "Yes, I'm more than willing to.",
-        "avi": "Ðưa tôi xem nào.",
+        "avi": "Đưa tôi xem nào.",
         "bvi": "Vâng, tôi rất sẵn lòng."
       },
       {
@@ -2120,7 +2120,7 @@
         "a": "I want all two in pocket editions.",
         "b": "Come along with me to the bookseller's.",
         "avi": "Tôi muốn mua cả hai cuốn loại bỏ túi.",
-        "bvi": "Ði với tôi đến nhà sách."
+        "bvi": "Đi với tôi đến nhà sách."
       }
     ]
   },
@@ -2143,7 +2143,7 @@
       {
         "a": "Come along with me to the bookseller's.",
         "b": "Can you show me some books?",
-        "avi": "Ði với tôi đến nhà sách.",
+        "avi": "Đi với tôi đến nhà sách.",
         "bvi": "Bạn có thể giới thiệu cho tôi một vài quyển sách không?"
       },
       {
@@ -2203,7 +2203,7 @@
       {
         "a": "This is the latest edition.",
         "b": "Do you sell novels?",
-        "avi": "Ðây là ấn bản mới nhất.",
+        "avi": "Đây là ấn bản mới nhất.",
         "bvi": "Ông có bán tiểu thuyết không?"
       },
       {

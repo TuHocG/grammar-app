@@ -84,7 +84,7 @@
       {
         "a": "This is my summer residence.",
         "b": "Which seasons do you like best?",
-        "avi": "Ðây là nơi tôi ở vào mùa hè.",
+        "avi": "Đây là nơi tôi ở vào mùa hè.",
         "bvi": "Bạn thích mùa nào nhất?"
       }
     ]
@@ -97,7 +97,7 @@
         "a": "And what about the winter?",
         "b": "It snows sometimes.",
         "avi": "Còn mùa đông thì sao?",
-        "bvi": "Ðôi khi có tuyết rơi."
+        "bvi": "Đôi khi có tuyết rơi."
       },
       {
         "a": "And I said it would be sunny today, didn't I?",
@@ -126,7 +126,7 @@
       {
         "a": "What is the climate like in Da Lat?",
         "b": "It was the middle of winter.",
-        "avi": "Khí hậu ở Ðà Lạt ra sao?",
+        "avi": "Khí hậu ở Đà Lạt ra sao?",
         "bvi": "Giờ là giữa mùa đông."
       },
       {
@@ -282,19 +282,19 @@
       {
         "a": "It's a sign of fine weather.",
         "b": "How do you know?",
-        "avi": "Ðó là dấu hiệu thời tiết tốt.",
+        "avi": "Đó là dấu hiệu thời tiết tốt.",
         "bvi": "Sao bạn biết?"
       },
       {
         "a": "Will it rain?",
         "b": "The street isn't wet.",
         "avi": "Liệu trời có mưa không?",
-        "bvi": "Ðường phố chưa bị ướt."
+        "bvi": "Đường phố chưa bị ướt."
       },
       {
         "a": "The street isn't wet.",
         "b": "You'd better take an umbrella.",
-        "avi": "Ðường phố chưa bị ướt.",
+        "avi": "Đường phố chưa bị ướt.",
         "bvi": "Tốt nhất bạn nên mang theo cây dù."
       }
     ]
@@ -313,7 +313,7 @@
         "a": "It's a bit too hot today.",
         "b": "That means it will get hotter.",
         "avi": "Hôm nay trời hơi nóng.",
-        "bvi": "Ðiều đó nghĩa là thời tiết đang ngày một nóng lên."
+        "bvi": "Điều đó nghĩa là thời tiết đang ngày một nóng lên."
       },
       {
         "a": "It sure is windy today.",
@@ -337,7 +337,7 @@
         "a": "The wind blows those trucks over.",
         "b": "Especially for drivers of big trucks.",
         "avi": "Gió sẽ thổi bay những chiếc xe tải đó.",
-        "bvi": "Ðặc biệt đối với tài xế của những chiếc xe tải lớn."
+        "bvi": "Đặc biệt đối với tài xế của những chiếc xe tải lớn."
       },
       {
         "a": "There's a draft!",
@@ -505,7 +505,7 @@
         "a": "It is raining hard this morning.",
         "b": "Yes, indeed!",
         "avi": "Sáng nay trời mưa to.",
-        "bvi": "Ðúng, thực vậy!"
+        "bvi": "Đúng, thực vậy!"
       }
     ]
   },
@@ -529,12 +529,12 @@
         "a": "I'm watching the moon.",
         "b": "How beautiful the moon is tonight!",
         "avi": "Tôi đang ngắm trăng.",
-        "bvi": "Ðêm nay, trăng mới đẹp quá!"
+        "bvi": "Đêm nay, trăng mới đẹp quá!"
       },
       {
         "a": "How beautiful the moon is tonight!",
         "b": "It looks just like the full moon.",
-        "avi": "Ðêm nay, trăng mới đẹp quá!",
+        "avi": "Đêm nay, trăng mới đẹp quá!",
         "bvi": "Có vẻ như trăng rằm."
       }
     ]
@@ -546,14 +546,14 @@
       {
         "a": "This is the coldest winter I've ever experienced.",
         "b": "I'm shivering with cold.",
-        "avi": "Ðây là mùa đông rét nhất tôi gặp phải.",
+        "avi": "Đây là mùa đông rét nhất tôi gặp phải.",
         "bvi": "Tôi đang run lên vì rét."
       },
       {
         "a": "It was the middle of winter.",
         "b": "This is the coldest winter I've ever experienced.",
         "avi": "Giờ là giữa mùa đông.",
-        "bvi": "Ðây là mùa đông rét nhất tôi gặp phải."
+        "bvi": "Đây là mùa đông rét nhất tôi gặp phải."
       },
       {
         "a": "I like sunbathing better.",
@@ -703,19 +703,19 @@
         "a": "The air feels damp.",
         "b": "This is a damp place.",
         "avi": "Không khí ẩm thấp.",
-        "bvi": "Ðây là một nơi ẩm thấp."
+        "bvi": "Đây là một nơi ẩm thấp."
       },
       {
         "a": "This is a damp place.",
         "b": "The rainy season is starting.",
-        "avi": "Ðây là một nơi ẩm thấp.",
+        "avi": "Đây là một nơi ẩm thấp.",
         "bvi": "Mùa mưa đang bắt đầu."
       },
       {
         "a": "This is my first visit to Da lat.",
         "b": "What is the climate like in Da Lat?",
-        "avi": "Ðây là lần viếng thăm đà lạt đầu tiên của tôi.",
-        "bvi": "Khí hậu ở Ðà Lạt ra sao?"
+        "avi": "Đây là lần viếng thăm đà lạt đầu tiên của tôi.",
+        "bvi": "Khí hậu ở Đà Lạt ra sao?"
       }
     ]
   },
@@ -798,7 +798,7 @@
       {
         "a": "Thick cloud blotted out the view.",
         "b": "There's a frost.",
-        "avi": "Ðám mây dày đặc che mờ hết cảnh vật.",
+        "avi": "Đám mây dày đặc che mờ hết cảnh vật.",
         "bvi": "Có sương giá."
       },
       {
@@ -847,7 +847,7 @@
         "a": "There's a dense fog.",
         "b": "Not as much as in London.",
         "avi": "Có một màn sương mù dày đặc.",
-        "bvi": "Không nhiều như ở Luân Ðôn."
+        "bvi": "Không nhiều như ở Luân Đôn."
       },
       {
         "a": "The rain may have stopped.",
@@ -859,7 +859,7 @@
         "a": "There's a red sky.",
         "b": "It's a sign of fine weather.",
         "avi": "Bầu trời đỏ thẫm.",
-        "bvi": "Ðó là dấu hiệu thời tiết tốt."
+        "bvi": "Đó là dấu hiệu thời tiết tốt."
       },
       {
         "a": "Did you see the rainbow?",
@@ -954,7 +954,7 @@
       {
         "a": "This is my room.",
         "b": "There is no air.",
-        "avi": "Ðây là phòng tôi.",
+        "avi": "Đây là phòng tôi.",
         "bvi": "Không thoáng khí."
       }
     ]
@@ -1153,7 +1153,7 @@
         "a": "The storm bore away everything.",
         "b": "That was a really bad storm.",
         "avi": "Cơn bão đã cuốn đi mọi thứ.",
-        "bvi": "Ðó thực sự là một trận bão kinh khủng."
+        "bvi": "Đó thực sự là một trận bão kinh khủng."
       },
       {
         "a": "I'm always in low spirit when it rains.",
@@ -1189,7 +1189,7 @@
         "a": "And then we can see a rainbow.",
         "b": "What shapes a rainbow?",
         "avi": "Khi đó chúng ta có thể thấy cầu vồng.",
-        "bvi": "Ðiều gì tạo nên cầu vồng?"
+        "bvi": "Điều gì tạo nên cầu vồng?"
       },
       {
         "a": "Outside the rain was pouring down.",
@@ -1207,7 +1207,7 @@
         "a": "He said it would rain a lot.",
         "b": "Don't forget to bring along raincoat.",
         "avi": "Ông nói sẽ có mưa to.",
-        "bvi": "Ðừng quên mang theo áo mưa."
+        "bvi": "Đừng quên mang theo áo mưa."
       },
       {
         "a": "Do you see anything?",
@@ -1248,8 +1248,8 @@
       {
         "a": "Your country is very beautiful.",
         "b": "It is everywhere temperate.",
-        "avi": "Ðất nước của bạn rất đẹp.",
-        "bvi": "Ðâu đâu thời tiết cũng ôn hòa."
+        "avi": "Đất nước của bạn rất đẹp.",
+        "bvi": "Đâu đâu thời tiết cũng ôn hòa."
       },
       {
         "a": "The sun was beating down hard.",

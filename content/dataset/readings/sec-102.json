@@ -30,7 +30,7 @@
       ["Họ đang lao động tích cực."],
       ["Bạn nghĩ gì về vụ mùa?"],
       ["Vụ mùa tốt."],
-      ["Ðiều gì giúp có được những vụ mùa tốt?"],
+      ["Điều gì giúp có được những vụ mùa tốt?"],
       [
         "Có nhiều điều giúp có được những vụ mùa tốt như",
         "thời tiết thuận lợi, phương pháp canh tác tốt, nỗ lực cùa nông dân, máy móc nông nghiệp, giống tốt..."
@@ -70,7 +70,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc đoạn văn rồi làm những việc theo sau"],
+      ["Đọc đoạn văn rồi làm những việc theo sau"],
       [
         "Ngày xưa làng tôi nghèo lắm.",
         "Dân làng phải làm lụng vất vả suốt ngày mà không đủ sống.",
@@ -120,7 +120,7 @@
         "Những từ trong cột A xuất hiện trong bài đọc.",
         "Ghép chúng với các định nghĩa ở cột B."
       ],
-      ["Ðủ sống", "chỉ có đủ tiền chi trả cho nhu cầu bản thân"],
+      ["Đủ sống", "chỉ có đủ tiền chi trả cho nhu cầu bản thân"],
       ["cần thêm", "có thêm những thứ mà bạn chưa có"],
       ["cải thiện đời sống", "làm cho cuộc sống tốt hơn"],
       ["vụ mùa bội thu", "vụ mùa tốt"],
@@ -348,12 +348,12 @@
       [
         "Phần 2",
         "Dân làng đang thảo luận kế hoạch của mình.",
-        "Ðọc và luyện tập mẫu đối thoại sau theo nhóm ba người."
+        "Đọc và luyện tập mẫu đối thoại sau theo nhóm ba người."
       ],
       ["Tôi biết chúng ta nên làm gì trước tiên.", "Chúng ta nên mở rộng đường sá."],
-      ["Ðó là một ý kiến hay.", "Nếu đường sá được mở rộng, xe hơi và xe tải có thể đi vào làng."],
+      ["Đó là một ý kiến hay.", "Nếu đường sá được mở rộng, xe hơi và xe tải có thể đi vào làng."],
       [
-        "Ðúng vậy",
+        "Đúng vậy",
         "Và nếu xe tải có thể đi vào làng",
         "chúng ta không phải dùng xe kéo để thồ hàng hóa nặng nề lên thành phố nữa."
       ],
@@ -413,10 +413,10 @@
       ["Và dân làng sẽ không mất nhiều thời gian để đến bệnh viện tỉnh."],
       ["Chúng ta sẽ xây trường mới cho trẻ."],
       [
-        "Ðó cũng là ý kiến hay.",
+        "Đó cũng là ý kiến hay.",
         "Nếu chúng ta xây trường mới, trẻ sẽ có điều kiện học tập tốt hơn."
       ],
-      ["Ðúng", "Và nếu trẻ có điều kiện học tập tốt hơn, chúng sẽ học chăm chỉ hơn."],
+      ["Đúng", "Và nếu trẻ có điều kiện học tập tốt hơn, chúng sẽ học chăm chỉ hơn."],
       ["Chúng ta cũng sẽ xây dựng một sân bóng cho thanh thiếu niên chơi thể thao."],
       [
         "Vâng",
@@ -671,7 +671,7 @@
         "Jim quyết định đến nhà Ann nghỉ hè.",
         "Ann viết thư cho cậu ấy để chỉ đường đến nhà.",
         "Làm việc theo cặp.",
-        "Ðọc thư và xem bản đồ",
+        "Đọc thư và xem bản đồ",
         "hãy xác định nhà Ann trên bản đồ."
       ],
       ["Jim thân,"],
@@ -681,11 +681,11 @@
       ],
       [
         "Bây giờ, khi bạn ra khỏi nhà ga thì rẽ phải.",
-        "Ði bộ chừng 5 phút, bạn sẽ nhìn thấy cây cầu nhỏ trước mặt.",
+        "Đi bộ chừng 5 phút, bạn sẽ nhìn thấy cây cầu nhỏ trước mặt.",
         "Bạn hãy đi lên cầu rồi đi ngang qua một trung tâm y tế",
         "sau đó rẽ trái ở góc phố đầu tiên.",
         "Cứ đi thẳng cho đến cuối đường rồi rẽ phải.",
-        "Ði ngang qua một cửa hiệu nhỏ.",
+        "Đi ngang qua một cửa hiệu nhỏ.",
         "Nhà mình là nhà thứ hai tính từ cửa hiệu, đối diện hiệu sách.",
         "Nhà mình là nhà có cổng màu xanh lục (xanh lá cây).",
         "Bạn không thể nhầm được.",
@@ -720,7 +720,7 @@
     "vi": [
       [
         "Phần 2",
-        "Ðọc lại bức thư.",
+        "Đọc lại bức thư.",
         "Gạch dưới những từ hoặc cụm từ bạn có thể dùng để chỉ đường.",
         "Sau đó viết ra vở."
       ],
@@ -769,13 +769,13 @@
       ["Ví dụ:"],
       [
         "Bây giờ, khi bạn ra khỏi nhà ga thì rẽ phải.",
-        "Ði bộ chừng 5 phút, bạn sẽ nhìn thấy cây cầu nhỏ trước mặt.",
+        "Đi bộ chừng 5 phút, bạn sẽ nhìn thấy cây cầu nhỏ trước mặt.",
         "Bạn hãy đi lên cầu rồi đi ngang qua một trung tâm y tế,",
-        "Ðừng quẹo vào khúc quanh đầu tiên bên trái.",
+        "Đừng quẹo vào khúc quanh đầu tiên bên trái.",
         "Cứ đi thẳng dọc theo đường Bridge.",
         "quẹo ngả thứ hai bên trái",
         "và đi bộ theo đường Bright",
-        "Ði ngang qua một cửa hiệu nhỏ.",
+        "Đi ngang qua một cửa hiệu nhỏ.",
         "Nhà mình kế bên cửa hiệu, đối diện với cửa hiệu quà lưu niệm.",
         "Bạn không thể nhầm được đâu!"
       ]
@@ -801,11 +801,11 @@
       ["Chủ điểm"],
       ["Phát âm"],
       ["Thực hành những câu sau"],
-      ["Ðừng la to quá."],
+      ["Đừng la to quá."],
       ["Nhà của chúng tôi là căn nhà xinh trong thị trấn."],
       ["Cuối cùng, chúng tôi tìm ra con chuột dưới ghế nệm."],
       ["Nhìn đóa hồng đỏ trên tuyết kìa."],
-      ["Ði đến cửa sổ."],
+      ["Đi đến cửa sổ."],
       ["Tôi sẽ mặc áo khoác vào và ra ngoài."]
     ],
     "img": "img/readings/1.10.88c.webp",
@@ -910,7 +910,7 @@
       [
         "Bài tập 3.",
         "Nhìn những gì Hà Anh hi vọng sẽ xảy ra trong tương lai.",
-        "Ðặt câu với If...... ...will...."
+        "Đặt câu với If...... ...will...."
       ],
       ["Ví dụ:"],
       ["Nếu tôi không đi ra ngoài nhiều, tôi sẽ làm thêm nhiều bài tập về nhà."],
@@ -935,7 +935,7 @@
       ["5. I'll lend you my book when I finish reading it."]
     ],
     "vi": [
-      ["Bài tập 4.", "Ðiền vào khoảng trống dùng when hoặc if"],
+      ["Bài tập 4.", "Điền vào khoảng trống dùng when hoặc if"],
       ["Nếu có chương trình hay trên Tivi, tôi sẽ xem nó."],
       ["Khi tôi về nhà tối nay, tôi sẽ đi tắm."],
       ["Gia đình tôi sẽ ra bãi biển cho kỳ nghỉ nếu chúng tôi có đủ tiền."],
@@ -1073,15 +1073,15 @@
       ]
     ],
     "vi": [
-      ["Ðọc (2.5 điểm)"],
-      ["Ðọc đoạn văn và trả lời những câu hỏi sau đây"],
+      ["Đọc (2.5 điểm)"],
+      ["Đọc đoạn văn và trả lời những câu hỏi sau đây"],
       [
         "Ngày nay truyền hình đóng một vai trò quan trọng đối với cuộc sống của rất nhiều người",
         "đến độ chúng ta cần xác định xem liệu nó tốt hay xấu."
       ],
       [
         "Trước hết, truyền hình không chỉ là một nguồn giải trí tiện lợi mà còn khá rẻ nữa.",
-        "Ðối với một gia đình bốn người chẳng hạn, ngồi thoải mái ở nhà thì tiện lợi cũng như rẻ hơn là đi chơi.",
+        "Đối với một gia đình bốn người chẳng hạn, ngồi thoải mái ở nhà thì tiện lợi cũng như rẻ hơn là đi chơi.",
         "Không cần phải thu xếp phương tiện đi lại.",
         "Họ không phải trả tiền cho những chỗ ngồi đắt tiền trong nhà hát hoặc rạp chiếu bóng.",
         "Tất cả những gì họ phải làm là bật nút",
@@ -1134,7 +1134,7 @@
       ["- TV in itself is neither good or bad.", "It is as good or as bad as we make it."]
     ],
     "vi": [
-      ["Ðọc đoạn văn rồi trả lời các câu hỏi dưới đây."],
+      ["Đọc đoạn văn rồi trả lời các câu hỏi dưới đây."],
       ["Tại sao truyền hình là một nguồn giải trí thuận tiện và rẻ tiền?"],
       [
         "Bởi vì người ta có thể ngồi ở nhà mà thưởng thức nó.",
@@ -1147,7 +1147,7 @@
       ],
       ["Tại sao người xem truyền hình lại hoàn toàn thụ động?"],
       ["Bởi vì họ có mọi thứ bày sẵn cho họ trong khi họ không cần phải làm gì cả."],
-      ["Ðiều gì sẽ xảy ra nếu chúng ta trở nên thích xem truyền hình quá mức?"],
+      ["Điều gì sẽ xảy ra nếu chúng ta trở nên thích xem truyền hình quá mức?"],
       [
         "Truyền hình sẽ chi phối cuộc sống của chúng ta",
         "và chúng ta không có thời gian để chuyện trò với nhau và làm những việc khác."
@@ -1182,8 +1182,8 @@
     ],
     "vi": [
       ["Ngữ pháp (2.5 điểm)"],
-      ["Ðiền vào chỗ trống với dạng đúng của động từ trong khung."],
-      ["Tôi ở Luân Ðôn một tháng rồi", "nhưng cho đến bây giờ, tôi chưa có thời gian đi thăm tháp."],
+      ["Điền vào chỗ trống với dạng đúng của động từ trong khung."],
+      ["Tôi ở Luân Đôn một tháng rồi", "nhưng cho đến bây giờ, tôi chưa có thời gian đi thăm tháp."],
       ["ông chưa đưa đủ cho tôi", "Tờ 20 đô mà ông mới đưa cho tôi chỉ có 19 đô."],
       ["Ann nói với tôi là cô ấy sẽ để lại lời nhắn cho Peter."],
       ["Tôi nghe nói rằng lũ trẻ phải mất 2 giờ mới đến trường được vì trận lụt."],
@@ -1225,7 +1225,7 @@
         "Khi đó bạn ra khỏi trạm xe buýt, quẹo phải",
         "và đi dọc theo đường King cho đến khi đến ngã tư đèn.",
         "Quẹo trái ở ngã tư để vào đường Redham.",
-        "Ði thẳng đường đó.",
+        "Đi thẳng đường đó.",
         "Nhà hàng ấn độ bên tay trái, sau Beach Parade.",
         "Rất dễ tìm."
       ]

@@ -29,7 +29,7 @@
       ["Chào Nga"],
       ["Chào Ba. Rất vui được gặp lại bạn."],
       ["Mình cũng rất vui gặp lại bạn."],
-      ["Ðây là bạn mới cùng lớp chúng ta."],
+      ["Đây là bạn mới cùng lớp chúng ta."],
       ["Tên bạn ấy là Hoa."],
       ["Rất vui được làm quen với bạn, Hoa."],
       ["Tôi cũng rất vui được biết bạn."],
@@ -69,7 +69,7 @@
       ["Hoa is unhappy.", "She misses her parents and her friends."]
     ],
     "vi": [
-      ["Ðọc", "rồi trả lời câu hỏi"],
+      ["Đọc", "rồi trả lời câu hỏi"],
       [
         "Hoa là học sinh mới trong lớp 7A.",
         "Cô ấy từ Huế đến và cha mẹ cô ấy vẫn sống ở đó.",
@@ -316,7 +316,7 @@
     "vi": [
       ["Viết", "Hoàn tất đoạn hội thoại này."],
       ["Ai thế?"],
-      ["Ðó là Nam."],
+      ["Đó là Nam."],
       ["Không. Cô gái đang nói chuyện với cô Liên là ai?"],
       ["Tên cô ấy là Hoa.", "Cô ấy là học sinh mới."],
       ["Cô ấy học lớp nào vậy?"],
@@ -357,7 +357,7 @@
       ["- Home address: 14 Ly Thuong Kiet Street"]
     ],
     "vi": [
-      ["Ðặt câu hỏi với bạn của bạn và hoàn tất bản khai này."],
+      ["Đặt câu hỏi với bạn của bạn và hoàn tất bản khai này."],
       ["Tên bạn là gì?"],
       ["Tên tôi là Long."],
       ["Họ của bạn là gì?"],
@@ -370,13 +370,13 @@
       ["Tôi học lớp 7."],
       ["Bạn học trường nào?"],
       ["Tôi học trường Lê Quý đôn."],
-      ["Ðịa chỉ nhà bạn số mấy?"],
-      ["Ðịa chỉ nhà tôi là số 14 đường Lý Thường Kiệt."],
+      ["Địa chỉ nhà bạn số mấy?"],
+      ["Địa chỉ nhà tôi là số 14 đường Lý Thường Kiệt."],
       ["Tên: Nguyễn Văn Long"],
       ["Tuổi 13"],
       ["Lớp 7"],
-      ["Trường Lê Quý Ðôn"],
-      ["Ðịa chỉ: số 14 đường Lý Thường Kiệt"]
+      ["Trường Lê Quý Đôn"],
+      ["Địa chỉ: số 14 đường Lý Thường Kiệt"]
     ],
     "img": "img/readings/1.7.16b.webp",
     "page": "16"
@@ -463,7 +463,7 @@
       ["Nhà bạn cách trường bao xa, Lan?"],
       ["Khoảng 300 mét.", "Tôi có thể về nhà vào giờ giải lao."],
       ["Tôi cần vài con tem.", "Bưu điện ở đâu vậy Lan?"],
-      ["Cách nhà tôi không xa.", "Ði với tôi nào."],
+      ["Cách nhà tôi không xa.", "Đi với tôi nào."],
       ["Nó cách nhà bạn bao xa?"],
       ["Chỉ 700 mét."],
       ["Hãy đi xem phim nhé."],

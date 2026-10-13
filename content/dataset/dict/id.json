@@ -162,7 +162,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ổ đĩa IDE. Trên các máy tính 80286 trở lên, đây là một loại đĩa cứng chứa hầu hết các mạch điều khiển bên trong bản thân ổ đĩa. Ðược thiết kế để mắc với các máy tính có dán nhãn AT trên board mẹ, các ổ đĩa IDE đã kết hợp được tốc độ nhanh của ổ đĩa ESDI với sự tích hợp của giao diện đĩa cứng SCSI. Công năng này thu được với giá rẻ hơn so với hầu hết các loại ổ đĩa ESDI và SCSI."
+        "t": "ổ đĩa IDE. Trên các máy tính 80286 trở lên, đây là một loại đĩa cứng chứa hầu hết các mạch điều khiển bên trong bản thân ổ đĩa. Được thiết kế để mắc với các máy tính có dán nhãn AT trên board mẹ, các ổ đĩa IDE đã kết hợp được tốc độ nhanh của ổ đĩa ESDI với sự tích hợp của giao diện đĩa cứng SCSI. Công năng này thu được với giá rẻ hơn so với hầu hết các loại ổ đĩa ESDI và SCSI."
       }
     ],
     "k": "ide drive"
@@ -197,7 +197,7 @@
       {"k": "ex", "t": "man of ideas", "vi": "người lắm mưu nhiều kế, người có tài xoay"},
       {"k": "m", "t": "(triết học) mẫu mực lý tưởng (theo Pla-tôn)"},
       {"k": "m", "t": "ý niệm của lý trí (theo Kant)"},
-      {"k": "m", "t": "đối tượng trực tiếp của nhận thức (theo Ðề-các, Lốc)"},
+      {"k": "m", "t": "đối tượng trực tiếp của nhận thức (theo Đề-các, Lốc)"},
       {"k": "ex", "t": "to buck one's ideas up", "vi": "tỏ thái độ nghiêm túc hơn"},
       {"k": "ex", "t": "to get the idea", "vi": "nắm bắt vấn đề, hiểu được vấn đề"},
       {
@@ -928,7 +928,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chi tiết dùng chung"}],
     "k": "identical part"
   },
-  {"h": "identical point", "segs": [{"k": "m", "t": "Ðiểm tương ứng."}], "k": "identical point"},
+  {"h": "identical point", "segs": [{"k": "m", "t": "Điểm tương ứng."}], "k": "identical point"},
   {
     "h": "identical relation",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "quan hệ đồng nhất"}],
@@ -1483,7 +1483,7 @@
   },
   {
     "h": "Identify(-ication)",
-    "segs": [{"k": "m", "t": "Ðồng nhất hóa; nhận ra, n.biết; nhận dạng."}],
+    "segs": [{"k": "m", "t": "Đồng nhất hóa; nhận ra, n.biết; nhận dạng."}],
     "k": "identify(-ication)"
   },
   {
@@ -1516,7 +1516,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) (ngữ pháp) Mệnh đề cho biết ai/ cái gì đang được ám chỉ, như trong.-There's the man I was talking you about:\" Ðó là người đàn ông tôi đã kể với bạn\"."
+        "t": "(dt) (ngữ pháp) Mệnh đề cho biết ai/ cái gì đang được ám chỉ, như trong.-There's the man I was talking you about:\" Đó là người đàn ông tôi đã kể với bạn\"."
       }
     ],
     "k": "identifying relative 'clause"
@@ -1765,7 +1765,7 @@
   {"h": "ideodynamism", "segs": [{"k": "m", "t": "động lực ý nghĩ."}], "k": "ideodynamism"},
   {"h": "ideogenetic", "segs": [{"k": "m", "t": "Do ý nghĩ, do tư tưởng."}], "k": "ideogenetic"},
   {"h": "ideogenous", "segs": [{"k": "m", "t": "Do ý nghĩ, do tư tưởng."}], "k": "ideogenous"},
-  {"h": "ideogenous pain", "segs": [{"k": "m", "t": "Ðau tưởng tượng."}], "k": "ideogenous pain"},
+  {"h": "ideogenous pain", "segs": [{"k": "m", "t": "Đau tưởng tượng."}], "k": "ideogenous pain"},
   {"h": "ideoglandular", "segs": [{"k": "m", "t": "ý tuyến."}], "k": "ideoglandular"},
   {
     "h": "ideogram",
@@ -1995,7 +1995,7 @@
   },
   {
     "h": "idio-iso-agglutinin",
-    "segs": [{"k": "m", "t": "Ðồng ngưng kết tố tự sinh."}],
+    "segs": [{"k": "m", "t": "Đồng ngưng kết tố tự sinh."}],
     "k": "idio-iso-agglutinin"
   },
   {
@@ -2263,7 +2263,7 @@
   {"h": "idiopathic disease", "segs": [{"k": "m", "t": "Bệnh tự phát."}], "k": "idiopathic disease"},
   {
     "h": "idiopathic epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh căn nguyên ẩn."}],
+    "segs": [{"k": "m", "t": "Động kinh căn nguyên ẩn."}],
     "k": "idiopathic epilepsy"
   },
   {
@@ -2298,7 +2298,7 @@
   },
   {
     "h": "idiopathic neuralgia",
-    "segs": [{"k": "m", "t": "Ðau dây thần kinh tự phát."}],
+    "segs": [{"k": "m", "t": "Đau dây thần kinh tự phát."}],
     "k": "idiopathic neuralgia"
   },
   {

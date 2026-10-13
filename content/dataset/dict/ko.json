@@ -72,7 +72,7 @@
     "h": "kobold",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "con ma tinh nghịch (truyện cổ tích Ðức)"},
+      {"k": "m", "t": "con ma tinh nghịch (truyện cổ tích Đức)"},
       {"k": "m", "t": "ma mỏ."}
     ],
     "ipa": "kə'bould",
@@ -156,7 +156,7 @@
   },
   {
     "h": "koel",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(động) chim cu cu ở Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(động) chim cu cu ở Ấn Độ."}],
     "ipa": "'kouil",
     "k": "koel"
   },
@@ -164,7 +164,7 @@
     "h": "kofta",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "món ăn Ấn Ðộ (thịt hoặc rau băm viên trán)."}
+      {"k": "m", "t": "món ăn Ấn Độ (thịt hoặc rau băm viên trán)."}
     ],
     "ipa": "'kɔftə",
     "k": "kofta"
@@ -184,7 +184,7 @@
     "h": "koh-i-noor",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "viên kim cương côino nổi tiếng của Ấn Ðộ (bị Anh chiếm đoạt từ 1849)"},
+      {"k": "m", "t": "viên kim cương côino nổi tiếng của Ấn Độ (bị Anh chiếm đoạt từ 1849)"},
       {"k": "m", "t": "cái tráng lệ, cái lộng lẫy"},
       {"k": "m", "t": "cái đẹp tuyệt trần (có một không hai)."}
     ],
@@ -296,14 +296,14 @@
   {"h": "koilosternia", "segs": [{"k": "m", "t": "(chứng) lõm xương ức."}], "k": "koilosternia"},
   {
     "h": "Koimesis",
-    "segs": [{"k": "m", "t": "An giấc nghìn thu (Bizantinô; chỉ về ÐM, bà thánh Anna)."}],
+    "segs": [{"k": "m", "t": "An giấc nghìn thu (Bizantinô; chỉ về ĐM, bà thánh Anna)."}],
     "k": "koimesis"
   },
   {
     "h": "koine",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Côi-nê (ngôn ngữ Hy Lạp được dùng ở những nước Ðông Ðịa Trung Hải)."}
+      {"k": "m", "t": "tiếng Côi-nê (ngôn ngữ Hy Lạp được dùng ở những nước Đông Địa Trung Hải)."}
     ],
     "ipa": "'kɔini",
     "k": "koine"
@@ -663,7 +663,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một cuộc đối đầu quân sự và ngoại giao giữa Indonesia và Malaysia (năm 1963-1966). Cuộc đối đầu tập trung ở việc thành lập liên bang Malaysia (năm 1963), mà tổng thống Sukarno cho đó là thủ đoạn kích thích Tây phương chống lại những lực lượng chống thuộc địa ở Ðông Nam Á."
+        "t": "một cuộc đối đầu quân sự và ngoại giao giữa Indonesia và Malaysia (năm 1963-1966). Cuộc đối đầu tập trung ở việc thành lập liên bang Malaysia (năm 1963), mà tổng thống Sukarno cho đó là thủ đoạn kích thích Tây phương chống lại những lực lượng chống thuộc địa ở Đông Nam Á."
       },
       {
         "k": "m",
@@ -686,7 +686,7 @@
       },
       {
         "k": "m",
-        "t": "Congo là Vương quốc đầu tiên ở Châu Phi theo đạo Cơ Ðốc, do các nhà truyền đạo của Bồ Ðào Nha truyền bá vào thế kỷ 16. Người Bồ Ðào Nha còn mang đến sự buôn bán nô lệ, gây nên những cuộc nội chiến, làm suy yếu vương quốc Congo vào giữa thế kỷ 17."
+        "t": "Congo là Vương quốc đầu tiên ở Châu Phi theo đạo Cơ Đốc, do các nhà truyền đạo của Bồ Đào Nha truyền bá vào thế kỷ 16. Người Bồ Đào Nha còn mang đến sự buôn bán nô lệ, gây nên những cuộc nội chiến, làm suy yếu vương quốc Congo vào giữa thế kỷ 17."
       }
     ],
     "k": "kongo"
@@ -726,7 +726,7 @@
     "h": "konkani",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Côncani (ngôn ngữ Ấn ở bờ biển Tây Ấn Ðộ)."}
+      {"k": "m", "t": "tiếng Côncani (ngôn ngữ Ấn ở bờ biển Tây Ấn Độ)."}
     ],
     "k": "konkani"
   },
@@ -760,11 +760,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "là một vùng rộng lớn ở phía Bắc nước Kenya, ở đó có 160 bộ xương hóa thạch của giống người Hominid đã được tìm thấy, bao gồm đáng kể là 1470 hộp sọ được tìm thấy năm 1972. Niên đại của giống người Hominid và đồ vật đã có từ 2 đến 14 triệu năm qua. Số lượng 1470 hộp sọ là chứng cớ cho thấy có số lượng lớn sọ người Hominid ở Ðông Phi vào thời đại sớm tiến hóa của loài người."
+        "t": "là một vùng rộng lớn ở phía Bắc nước Kenya, ở đó có 160 bộ xương hóa thạch của giống người Hominid đã được tìm thấy, bao gồm đáng kể là 1470 hộp sọ được tìm thấy năm 1972. Niên đại của giống người Hominid và đồ vật đã có từ 2 đến 14 triệu năm qua. Số lượng 1470 hộp sọ là chứng cớ cho thấy có số lượng lớn sọ người Hominid ở Đông Phi vào thời đại sớm tiến hóa của loài người."
       },
       {
         "k": "m",
-        "t": "Nhiều nhà khoa học còn chất vấn về mối quan hệ của nó nhưng ngày nay, đa số đều đồng ý rằng nó là đại diện sớm nhất cho loài người Homohabilis và cũng là những người chế tạo ra đồ dùng Oldowan (cách đây 2 triệu năm). Vào khoảng 1,6 triệu năm về trước, loài người Homoerectus (biết đứng thẳng) Ðã xuất hiện với những dụng cụ Oldowan tiến bộ, được gọi là kỹ nghệ Karari và những dụng cụ Acheulian xuất hiện sau đó ít lâu."
+        "t": "Nhiều nhà khoa học còn chất vấn về mối quan hệ của nó nhưng ngày nay, đa số đều đồng ý rằng nó là đại diện sớm nhất cho loài người Homohabilis và cũng là những người chế tạo ra đồ dùng Oldowan (cách đây 2 triệu năm). Vào khoảng 1,6 triệu năm về trước, loài người Homoerectus (biết đứng thẳng) Đã xuất hiện với những dụng cụ Oldowan tiến bộ, được gọi là kỹ nghệ Karari và những dụng cụ Acheulian xuất hiện sau đó ít lâu."
       }
     ],
     "k": "koobi fora"
@@ -1018,7 +1018,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quyển Kinh thánh của Hồi giáo. Người Hồi giáo tin rằng Kinh Koran là lời nói và ý muốn của Trời, được bộc lộ cho tiên tri Muhammad (năm 570-632), thông qua thiên thần Jibril hay Gabriel từ thời kỳ 610-632. Kinh viết bằng chữ Ả Rập cổ điển, bao gồm 114 chương dài ngắn khác nhau, mỗi chương bao gồm một số câu thơ. Sự bộc lộ đầu tiên là \"Ðêm quyền lực\" được tưởng nhớ đến trong dịp Ramadan (tháng thứ 9 theo lịch Hồi giáo, ăn chay, bố thí của cải và cầu nguyện). Những điều bộc lộ sớm mang ý nghĩa cao và có tính chất tu từ học nhưng sau này dễ hiểu hơn."
+        "t": "quyển Kinh thánh của Hồi giáo. Người Hồi giáo tin rằng Kinh Koran là lời nói và ý muốn của Trời, được bộc lộ cho tiên tri Muhammad (năm 570-632), thông qua thiên thần Jibril hay Gabriel từ thời kỳ 610-632. Kinh viết bằng chữ Ả Rập cổ điển, bao gồm 114 chương dài ngắn khác nhau, mỗi chương bao gồm một số câu thơ. Sự bộc lộ đầu tiên là \"Đêm quyền lực\" được tưởng nhớ đến trong dịp Ramadan (tháng thứ 9 theo lịch Hồi giáo, ăn chay, bố thí của cải và cầu nguyện). Những điều bộc lộ sớm mang ý nghĩa cao và có tính chất tu từ học nhưng sau này dễ hiểu hơn."
       },
       {
         "k": "m",
@@ -1074,7 +1074,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nước cổ ở Ðông Bắc Á Châu. Dù cho bị ảnh hưởng sâu sắc của nền văn hóa Trung Quốc, dân Hàn Quốc và ngôn ngữ phát triển hoàn toàn khác biệt. Nhà nước sớm nhất của Hàn Quốc là Choson phát triển vào thế kỷ thứ 3 trước Công Nguyên ở Bắc Hàn. Ảnh hưởng của Trung Quốc rất mạnh, gia tăng sau cuộc chinh phục thuộc địa của nhà Tây Hán (Trung Quốc). Trong thời gian đó, những vùng Nam Hàn hoạt động như là một cầu nối văn hóa giữa Hàn Quốc và nước Nhật."
+        "t": "một nước cổ ở Đông Bắc Á Châu. Dù cho bị ảnh hưởng sâu sắc của nền văn hóa Trung Quốc, dân Hàn Quốc và ngôn ngữ phát triển hoàn toàn khác biệt. Nhà nước sớm nhất của Hàn Quốc là Choson phát triển vào thế kỷ thứ 3 trước Công Nguyên ở Bắc Hàn. Ảnh hưởng của Trung Quốc rất mạnh, gia tăng sau cuộc chinh phục thuộc địa của nhà Tây Hán (Trung Quốc). Trong thời gian đó, những vùng Nam Hàn hoạt động như là một cầu nối văn hóa giữa Hàn Quốc và nước Nhật."
       },
       {
         "k": "m",
@@ -1108,7 +1108,7 @@
       },
       {
         "k": "m",
-        "t": "Sau Ðệ nhị thế chiến, Hàn Quốc bị chia làm hai, phân cách bằng vĩ tuyến 38, một nước ảnh hưởng bởi Soviet là nước độc lập cộng hòa dân chủ nhân dân Triều Tiên (Bắc Hàn) và một nửa ảnh hưởng của nước Mỹ là cộng hòa Hàn Quốc (Nam Hàn) kể từ năm 1948."
+        "t": "Sau Đệ nhị thế chiến, Hàn Quốc bị chia làm hai, phân cách bằng vĩ tuyến 38, một nước ảnh hưởng bởi Soviet là nước độc lập cộng hòa dân chủ nhân dân Triều Tiên (Bắc Hàn) và một nửa ảnh hưởng của nước Mỹ là cộng hòa Hàn Quốc (Nam Hàn) kể từ năm 1948."
       }
     ],
     "k": "korea"
@@ -1173,7 +1173,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1837-1908) nhà toán học Nga. Ông tốt nghiệp trường Ðại học tổng hợp Pétersbourg (1858), cũng làm giáo sư tại đó từ 1868. Ông có những công trình cơ bản về lý thuyết lấy tích phân phương trình đạo hàm riêng và về lý thuyết số."
+        "t": "(1837-1908) nhà toán học Nga. Ông tốt nghiệp trường Đại học tổng hợp Pétersbourg (1858), cũng làm giáo sư tại đó từ 1868. Ông có những công trình cơ bản về lý thuyết lấy tích phân phương trình đạo hàm riêng và về lý thuyết số."
       }
     ],
     "k": "korkin alexandre nikolaevich"
@@ -1184,7 +1184,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "món ăn coóc-ma Ấn Ðộ (thịt, đôi khi là rau ninh với nước, sữa chua hoặc kem)."
+        "t": "món ăn coóc-ma Ấn Độ (thịt, đôi khi là rau ninh với nước, sữa chua hoặc kem)."
       }
     ],
     "ipa": "'kɔ:mə",
@@ -1358,11 +1358,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Nước Kossovo (hiện nay là nước Serbia) vùng xảy ra cuộc chiến quyết định vào ngày 28 tháng 6 năm 1389 khi lực lượng của Ðế chế Ottoman đánh bại quân đội Serbs."
+        "t": "Nước Kossovo (hiện nay là nước Serbia) vùng xảy ra cuộc chiến quyết định vào ngày 28 tháng 6 năm 1389 khi lực lượng của Đế chế Ottoman đánh bại quân đội Serbs."
       },
       {
         "k": "m",
-        "t": "Trước khi cuộc chiến bắt đầu thì vua Murad I (của Ðế chế Ottoman) đã bị quân Serbs giết chết, người Serbs vui mừng vì thắng lợi sớm nhưng sau đó, con của vua Murad I là Bayezid I chỉ huy quân Ottoman và đã thắng trận."
+        "t": "Trước khi cuộc chiến bắt đầu thì vua Murad I (của Đế chế Ottoman) đã bị quân Serbs giết chết, người Serbs vui mừng vì thắng lợi sớm nhưng sau đó, con của vua Murad I là Bayezid I chỉ huy quân Ottoman và đã thắng trận."
       },
       {
         "k": "m",
@@ -1501,7 +1501,7 @@
     "h": "kounkani",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Côuncani (ngôn ngữ Ấn ở bờ biển Tây Ấn Ðộ)."}
+      {"k": "m", "t": "tiếng Côuncani (ngôn ngữ Ấn ở bờ biển Tây Ấn Độ)."}
     ],
     "ipa": "'kɔŋkəni",
     "k": "kounkani"
@@ -1542,7 +1542,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Cô-va-lép-xcai-a, 1850-1891) nhà toán học Nga, và cũng là nhà văn và nhà chính luận. Bà là nữ giáo sư toán học đầu tiên trên thế giới và là người phụ nữ đầu tiên được bầu vào Viện hàn lâm khoa học Pétersbourg. Thời bấy giờ trường Ðại học tổng hợp Pétersbourg không nhận nữ sinh. Năm 1868, để có điều kiện làm công tác khoa học, Kovalevskaia phải làm hôn phối giả (sau này mới thành hôn phối thật) với V.O.Kavalevski, và năm 1869 bà đến Heidelberg và học toán ở đó. Năm 1870 bà dọn đến Berlin và học trong 4 năm dưới sự hướng dẫn của nhà bác học Ðức K.Weierstrass, sau khi ông đồng ý giảng riêng cho bà (thời đó phụ nữ cũng không được vào trường Ðại học tổng hợp Berlin). Kết quả toán học cơ bản mà Kovalevskaia đạt được-định lý về sự tồn tại các nghiệm của một hệ chuẩn các phương trình đạo hàm riêng (định lý Cauchy-Kovaleskaia) nằm trong công trình \"Về lý thuyết phương trình vi phân đạo hàm riêng\". Tháng 7-1874 Kovaleskaia quay về nước Nga. Thế nhưng bà không tìm được việc ở trường Ðại học tổng hợp Pétersbourg, và thậm chí không được tuyển dụng vào dạy ở các lớp cao cấp dành cho phụ nữ. Sau đó, hầu như trong 6 năm liền bà xa rời công tác khoa học. Năm 1883 bà đi sang Thụy Ðiển, sau khi nhận được lời mời làm phó giáo sư tại trường Ðại học Stockholm-Mùa hè 1884 bà được bổ nhiệm giáo sư trường Ðại học tổng hợp Stockholm. Trong thời gian tám năm Kovaleskaia đã giảng 12 giáo trình, trong đó có giáo trình cơ học. Kovaleskaia được thế giới công nhận là bác học. Trong thời gian bà cư trú tại Thụy Ðiển, năm 1889 theo đề nghị của các viện sĩ P.L.Chebyshev, V.G.Imsenhetxki, V.Ia.Bunyakovski, bà đã được bầu viện sĩ thông tấn Viện hàn lâm khoa học Pétersbourg, sau khi một vấn đề thuộc về nguyên tắc được giải quyết, cho phép phụ nữ cũng được bầu làm viện sĩ thông tấn."
+        "t": "(Cô-va-lép-xcai-a, 1850-1891) nhà toán học Nga, và cũng là nhà văn và nhà chính luận. Bà là nữ giáo sư toán học đầu tiên trên thế giới và là người phụ nữ đầu tiên được bầu vào Viện hàn lâm khoa học Pétersbourg. Thời bấy giờ trường Đại học tổng hợp Pétersbourg không nhận nữ sinh. Năm 1868, để có điều kiện làm công tác khoa học, Kovalevskaia phải làm hôn phối giả (sau này mới thành hôn phối thật) với V.O.Kavalevski, và năm 1869 bà đến Heidelberg và học toán ở đó. Năm 1870 bà dọn đến Berlin và học trong 4 năm dưới sự hướng dẫn của nhà bác học Đức K.Weierstrass, sau khi ông đồng ý giảng riêng cho bà (thời đó phụ nữ cũng không được vào trường Đại học tổng hợp Berlin). Kết quả toán học cơ bản mà Kovalevskaia đạt được-định lý về sự tồn tại các nghiệm của một hệ chuẩn các phương trình đạo hàm riêng (định lý Cauchy-Kovaleskaia) nằm trong công trình \"Về lý thuyết phương trình vi phân đạo hàm riêng\". Tháng 7-1874 Kovaleskaia quay về nước Nga. Thế nhưng bà không tìm được việc ở trường Đại học tổng hợp Pétersbourg, và thậm chí không được tuyển dụng vào dạy ở các lớp cao cấp dành cho phụ nữ. Sau đó, hầu như trong 6 năm liền bà xa rời công tác khoa học. Năm 1883 bà đi sang Thụy Điển, sau khi nhận được lời mời làm phó giáo sư tại trường Đại học Stockholm-Mùa hè 1884 bà được bổ nhiệm giáo sư trường Đại học tổng hợp Stockholm. Trong thời gian tám năm Kovaleskaia đã giảng 12 giáo trình, trong đó có giáo trình cơ học. Kovaleskaia được thế giới công nhận là bác học. Trong thời gian bà cư trú tại Thụy Điển, năm 1889 theo đề nghị của các viện sĩ P.L.Chebyshev, V.G.Imsenhetxki, V.Ia.Bunyakovski, bà đã được bầu viện sĩ thông tấn Viện hàn lâm khoa học Pétersbourg, sau khi một vấn đề thuộc về nguyên tắc được giải quyết, cho phép phụ nữ cũng được bầu làm viện sĩ thông tấn."
       }
     ],
     "k": "kovalevskaia sofia vassilievna"
@@ -1552,7 +1552,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1876-1950) nhà toán học Ðức, giáo sư trường kỹ thuật cao cấp tại Dresden từ 1920. Ông có những công trình cơ bản về lý thuyết nhóm, lý thuyết không gian, lý thuyết phương trình tích phân và lịch sử toán học. Ông đề xuất (1909) ký hiệu (a, b) cho một khoảng và <a, b> cho một đoạn. KRONECKER Leopold (1823-1891) nhà bác học Ðức, viện sĩ thông tấn nưóc ngoài Viện hàn lâm khoa học Pétersbourg (1872), viện sĩ Viện hàn lâm khoa học Berlin từ 1883. Những công trình cơ bản của ông thuộc về đại số học và lý thuyết số. Công trình nghiên cứu của ông về lý thuyết số học của các đại lượng đại số có giá trị rất lớn. Kronecker là người chủ trương \"số học hóa\" toán học, theo ông toán học phải được quy về số học các số nguyên."
+        "t": "(1876-1950) nhà toán học Đức, giáo sư trường kỹ thuật cao cấp tại Dresden từ 1920. Ông có những công trình cơ bản về lý thuyết nhóm, lý thuyết không gian, lý thuyết phương trình tích phân và lịch sử toán học. Ông đề xuất (1909) ký hiệu (a, b) cho một khoảng và <a, b> cho một đoạn. KRONECKER Leopold (1823-1891) nhà bác học Đức, viện sĩ thông tấn nưóc ngoài Viện hàn lâm khoa học Pétersbourg (1872), viện sĩ Viện hàn lâm khoa học Berlin từ 1883. Những công trình cơ bản của ông thuộc về đại số học và lý thuyết số. Công trình nghiên cứu của ông về lý thuyết số học của các đại lượng đại số có giá trị rất lớn. Kronecker là người chủ trương \"số học hóa\" toán học, theo ông toán học phải được quy về số học các số nguyên."
       }
     ],
     "k": "kovalevski gherman vandemar"

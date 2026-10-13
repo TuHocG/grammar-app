@@ -643,7 +643,7 @@
   {"h": "mucoflocculent", "segs": [{"k": "m", "t": "(có) sợi niêm."}], "k": "mucoflocculent"},
   {
     "h": "mucogingival junction",
-    "segs": [{"k": "m", "t": "Ðường nối niêm mạc miệng-lợi."}],
+    "segs": [{"k": "m", "t": "Đường nối niêm mạc miệng-lợi."}],
     "k": "mucogingival junction"
   },
   {"h": "mucoid", "segs": [{"k": "m", "t": "muxoit."}], "k": "mucoid"},
@@ -821,12 +821,12 @@
   },
   {"h": "mucous plug", "segs": [{"k": "m", "t": "Nút nhày."}], "k": "mucous plug"},
   {"h": "mucous rale", "segs": [{"k": "m", "t": "Ran niêm."}], "k": "mucous rale"},
-  {"h": "mucous sputum", "segs": [{"k": "m", "t": "Ðờm nhầy."}], "k": "mucous sputum"},
+  {"h": "mucous sputum", "segs": [{"k": "m", "t": "Đờm nhầy."}], "k": "mucous sputum"},
   {"h": "mucous stone", "segs": [{"k": "m", "t": "Phân nhầy nhớt."}], "k": "mucous stone"},
   {"h": "mucous tissue", "segs": [{"k": "m", "t": "Mô nhầy, mô niêm."}], "k": "mucous tissue"},
   {"h": "mucous tumor", "segs": [{"k": "m", "t": "U niêm."}], "k": "mucous tumor"},
   {"h": "mucoviscidosis", "segs": [{"k": "m", "t": "Bệnh nhầy nhớt."}], "k": "mucoviscidosis"},
-  {"h": "mucro", "segs": [{"k": "m", "t": "Ðầu nhọn."}], "k": "mucro"},
+  {"h": "mucro", "segs": [{"k": "m", "t": "Đầu nhọn."}], "k": "mucro"},
   {"h": "mucro cordis", "segs": [{"k": "m", "t": "Mỏm tim."}], "k": "mucro cordis"},
   {"h": "mucronate", "segs": [{"k": "m", "t": "Có đầu nhọn, có mấu nhọn."}], "k": "mucronate"},
   {"h": "mucronate cartilage", "segs": [{"k": "m", "t": "Mũi ừc."}], "k": "mucronate cartilage"},
@@ -2252,7 +2252,7 @@
     "h": "mugger",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(động) cá sấu Ấn Ðộ"},
+      {"k": "m", "t": "(động) cá sấu Ấn Độ"},
       {"k": "m", "t": "người hay õng ẹo/uốn éo/làm bộ làm tịch"},
       {"k": "m", "t": "diễn viên sắm vai không tự nhiên/quá cường điệu."}
     ],
@@ -2277,7 +2277,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "thằng ngốc"},
       {"k": "m", "t": "lối đánh bài mơ-ghin (của trẻ con)"},
-      {"k": "m", "t": "Ðôminô."}
+      {"k": "m", "t": "Đôminô."}
     ],
     "ipa": "'mʌginz",
     "k": "muggins"
@@ -2541,7 +2541,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(18/9/1931): sự kiện Nhật bao vây thành phố Manchrian của Mukden. Việc Nhật rút quân khỏi Quảng Ðông đồn trú tại Manchuria là hợp với các điều khoản hiệp ước. Họ lấy cớ về vụ nổ ở đường sắt phía nam Machuria để chiếm lấy thành phố Mukden. Hành động của họ không hề thông qua chính phủ. Họ phải đối mặt với sự lên án từ hiệp hội các nước. Chính quyền quân sự Nhật tiếp tục tiến chiếm tất cả Manchuria cuối năm 1931, thành lập nhà nước Manchukuo. Vì thế Nhật bị tước quyền thành viên từ hiệp hội các nước cũng vì lý do này."
+        "t": "(18/9/1931): sự kiện Nhật bao vây thành phố Manchrian của Mukden. Việc Nhật rút quân khỏi Quảng Đông đồn trú tại Manchuria là hợp với các điều khoản hiệp ước. Họ lấy cớ về vụ nổ ở đường sắt phía nam Machuria để chiếm lấy thành phố Mukden. Hành động của họ không hề thông qua chính phủ. Họ phải đối mặt với sự lên án từ hiệp hội các nước. Chính quyền quân sự Nhật tiếp tục tiến chiếm tất cả Manchuria cuối năm 1931, thành lập nhà nước Manchukuo. Vì thế Nhật bị tước quyền thành viên từ hiệp hội các nước cũng vì lý do này."
       }
     ],
     "k": "mukden incident"
@@ -2904,7 +2904,7 @@
       {
         "k": "ex",
         "t": "That's an interesting idea, but I'll have to mull it over:",
-        "vi": "Ðó là một ý kiến lý thú, nhưng tôi phải cân nhắc lại."
+        "vi": "Đó là một ý kiến lý thú, nhưng tôi phải cân nhắc lại."
       },
       {
         "k": "ex",
@@ -2923,7 +2923,7 @@
   },
   {
     "h": "mulled",
-    "segs": [{"k": "m", "t": "(tt) (rượu) Ðược hâm nóng và pha chế."}],
+    "segs": [{"k": "m", "t": "(tt) (rượu) Được hâm nóng và pha chế."}],
     "ipa": "ɛmʌld",
     "k": "mulled"
   },
@@ -3630,7 +3630,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "khuôn dập nhiều rãnh"}],
     "k": "multi-impression mold"
   },
-  {"h": "multi-infection", "segs": [{"k": "m", "t": "Ða nhiễm khuẩn."}], "k": "multi-infection"},
+  {"h": "multi-infection", "segs": [{"k": "m", "t": "Đa nhiễm khuẩn."}], "k": "multi-infection"},
   {
     "h": "multi-inlet pump",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bơm nhiều lỗ hút"}],
@@ -4310,7 +4310,7 @@
     "h": "multiarticular",
     "segs": [
       {"k": "m", "t": ". Concerning, having, or affecting many joints. SYN: polyarticular."},
-      {"k": "m", "t": "Ða khớp. Có nhiều khớp hay là giống như có nhiều khớp. ÐN: polyarticular."},
+      {"k": "m", "t": "Đa khớp. Có nhiều khớp hay là giống như có nhiều khớp. ĐN: polyarticular."},
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "(mul-ti-ar-tic-u-lar) pertaining to or affecting many joints."},
       {"k": "m", "t": "Else:"},
@@ -4614,7 +4614,7 @@
       },
       {
         "k": "m",
-        "t": "Multicast trên Internet diễn ra trên MBone (Multicast Backbone). Hiện giờ cấu hình multicast trên Internet bao gồm các bộ định tuyến có khả năng multicast, gọi là mrouter và bộ định tuyến dùng cho unicast gọi là urouter. Cấu hình này sẽ không cần thiết nếu tất cả các các bộ định tuyến có khả năng multicast. MBone thuộc phần trên cùng của Internet đóng vai trò như là mạng ảo bao gồm các mrouter, là các \"hòn đảo\" được vây quanh bởi các urouter. Mrouter phải truyền gói IP multicast tới các mrouter khác. Tuy nhiên chúng bị vây quanh bởi các urouter mà các urouter này không biết xử lý các gói multicast. Ðể giải quyết vấn đề này các đường dẫn đi qua các urouter cần được thiết lập. Gói IP multicast sẽ được đóng gói thành các gói IP unicast khi đi qua đường dẫn. Kết quả là MBone bao gồm tập hợp các mrouter được nối kết với nhau bởi các đường dẫn, các đuờng dẫn này phủ kín Internet. Xem \"MBone (Multicast Backbone)\"."
+        "t": "Multicast trên Internet diễn ra trên MBone (Multicast Backbone). Hiện giờ cấu hình multicast trên Internet bao gồm các bộ định tuyến có khả năng multicast, gọi là mrouter và bộ định tuyến dùng cho unicast gọi là urouter. Cấu hình này sẽ không cần thiết nếu tất cả các các bộ định tuyến có khả năng multicast. MBone thuộc phần trên cùng của Internet đóng vai trò như là mạng ảo bao gồm các mrouter, là các \"hòn đảo\" được vây quanh bởi các urouter. Mrouter phải truyền gói IP multicast tới các mrouter khác. Tuy nhiên chúng bị vây quanh bởi các urouter mà các urouter này không biết xử lý các gói multicast. Để giải quyết vấn đề này các đường dẫn đi qua các urouter cần được thiết lập. Gói IP multicast sẽ được đóng gói thành các gói IP unicast khi đi qua đường dẫn. Kết quả là MBone bao gồm tập hợp các mrouter được nối kết với nhau bởi các đường dẫn, các đuờng dẫn này phủ kín Internet. Xem \"MBone (Multicast Backbone)\"."
       },
       {
         "k": "m",
@@ -4643,7 +4643,7 @@
       },
       {
         "k": "m",
-        "t": "IP multicast sử dụng cách đánh địa chỉ lớp D, là dạng đặc biệt của địa chỉ IP dành cho multicast. Tất cả các máy nối kết vào Internet phải có địa chỉ IP thuộc lớp A, lớp B, hoặc lớp C. Một máy có thể có một hoặc nhiều địa chỉ multicast lớp D tùy thuộc vào số nhóm multicast mà nó tham gia. Xem \"IP (Internet Protocol)\". Ðịa chỉ lớp D có độ dài là 32 bit. 4 bit đầu tiên được dùng để xác định nó thuộc lớp D, 28 bit còn lại được dùng để xác định nhóm multicast."
+        "t": "IP multicast sử dụng cách đánh địa chỉ lớp D, là dạng đặc biệt của địa chỉ IP dành cho multicast. Tất cả các máy nối kết vào Internet phải có địa chỉ IP thuộc lớp A, lớp B, hoặc lớp C. Một máy có thể có một hoặc nhiều địa chỉ multicast lớp D tùy thuộc vào số nhóm multicast mà nó tham gia. Xem \"IP (Internet Protocol)\". Địa chỉ lớp D có độ dài là 32 bit. 4 bit đầu tiên được dùng để xác định nó thuộc lớp D, 28 bit còn lại được dùng để xác định nhóm multicast."
       },
       {
         "k": "m",
@@ -4656,7 +4656,7 @@
       {"k": "m", "t": "IGMP (Internet Group Management Protocol)"},
       {
         "k": "m",
-        "t": "Người nhận multicast phải tự nguyện đăng ký vào một phiên multicast nào đó. Ðiều này được thực hiện bởi IGMP, một giao thức giữa máy của người dùng và mrouter lân cận. Máy trạm dùng giao thức này để thông báo với các bộ mrouter lân cận rằng chúng muốn/thôi nhận thông tin từ một nhóm multicast nào đó. Nếu đây là trạm duy nhất trên mạng cục bộ đang nhận các gói, thì nó tự tách ra khỏi nhóm nhận. Ðiều này làm giảm sự lưu thông trên mạng."
+        "t": "Người nhận multicast phải tự nguyện đăng ký vào một phiên multicast nào đó. Điều này được thực hiện bởi IGMP, một giao thức giữa máy của người dùng và mrouter lân cận. Máy trạm dùng giao thức này để thông báo với các bộ mrouter lân cận rằng chúng muốn/thôi nhận thông tin từ một nhóm multicast nào đó. Nếu đây là trạm duy nhất trên mạng cục bộ đang nhận các gói, thì nó tự tách ra khỏi nhóm nhận. Điều này làm giảm sự lưu thông trên mạng."
       },
       {
         "k": "m",
@@ -4664,7 +4664,7 @@
       },
       {"k": "m", "t": "IGMP được mô tả trong RFC 1112, có Web site là:"},
       {"k": "m", "t": "http://www.internic.net/rfc/rfc1112.txt"},
-      {"k": "m", "t": "Ðịnh tuyến"},
+      {"k": "m", "t": "Định tuyến"},
       {
         "k": "m",
         "t": "Giống như các mạng có kết nối dùng bộ định tuyến, MBone cần giao thức định tuyến cho các gói trên mạng lưới đường dẫn. Thông thường các gói multicast được gửi từ nguồn tới mrouter cục bộ. Mrouter này sẽ truyền các gói trên các đường dẫn để đến mrouter khác. Các thuật toán định tuyến được dùng để bảo đảm các gói sẽ được truyền trên những đường đi hiệu quả nhất:"
@@ -4723,7 +4723,7 @@
       },
       {
         "k": "m",
-        "t": "Ðể giảm lưu thông trên mạng, MTP không yêu cầu các trạm phải báo lại việc đã nhận thông tin. Nó cho rằng mạng ngày nay đã thực sự đáng tin cậy. Các trạm \"lặng lẽ\" nhận thông tin và không thông báo đến người gửi rằng họ đã nhận được thông tin."
+        "t": "Để giảm lưu thông trên mạng, MTP không yêu cầu các trạm phải báo lại việc đã nhận thông tin. Nó cho rằng mạng ngày nay đã thực sự đáng tin cậy. Các trạm \"lặng lẽ\" nhận thông tin và không thông báo đến người gửi rằng họ đã nhận được thông tin."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -5362,7 +5362,7 @@
     ],
     "k": "multicontact switch"
   },
-  {"h": "multicontaminated", "segs": [{"k": "m", "t": "Ða nhiễm."}], "k": "multicontaminated"},
+  {"h": "multicontaminated", "segs": [{"k": "m", "t": "Đa nhiễm."}], "k": "multicontaminated"},
   {
     "h": "multicordate",
     "segs": [
@@ -5493,7 +5493,7 @@
     "h": "multicuspid",
     "segs": [
       {"k": "m", "t": ". hav wing several cusps."},
-      {"k": "m", "t": "Ða núm. Có nhiều núm."},
+      {"k": "m", "t": "Đa núm. Có nhiều núm."},
       {"k": "m", "t": "Else:"},
       {
         "k": "m",
@@ -6520,7 +6520,7 @@
       {"k": "m", "t": "Máy tính kết nối với nhiều mạng"},
       {
         "k": "m",
-        "t": "Multihomed host là máy tính có nhiều kết nối mạng. Ðiều này được thực hiện bằng cách cài đặt 2 hoặc nhiều card mạng; một số hệ điều hành cho phép một card mạng có nhiều địa chỉ IP."
+        "t": "Multihomed host là máy tính có nhiều kết nối mạng. Điều này được thực hiện bằng cách cài đặt 2 hoặc nhiều card mạng; một số hệ điều hành cho phép một card mạng có nhiều địa chỉ IP."
       },
       {
         "k": "m",
@@ -7149,7 +7149,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sắp xếp nhiều mức. Trong quản lý cơ sở dữ liệu, đây là thao tác lựa chọn phân loại dùng hai hoặc nhiều trường dữ liệu để xác định thứ tự mà các bản ghi dữ liệu phải được sắp xếp theo. Ðể thực hiện một thao tác sắp xếp nhiều mức, bạn phải xác định hai hoặc nhiều trường làm khóa sắp xếp-đó là các trường dùng để định thứ bậc bản ghi."
+        "t": "sắp xếp nhiều mức. Trong quản lý cơ sở dữ liệu, đây là thao tác lựa chọn phân loại dùng hai hoặc nhiều trường dữ liệu để xác định thứ tự mà các bản ghi dữ liệu phải được sắp xếp theo. Để thực hiện một thao tác sắp xếp nhiều mức, bạn phải xác định hai hoặc nhiều trường làm khóa sắp xếp-đó là các trường dùng để định thứ bậc bản ghi."
       }
     ],
     "k": "multilever sort"
@@ -7209,7 +7209,7 @@
       {
         "k": "ex",
         "t": "India is a multilingual country",
-        "vi": "Ấn Ðộ là một nước nói nhiều thứ tiếng"
+        "vi": "Ấn Độ là một nước nói nhiều thứ tiếng"
       },
       {"k": "m", "t": "viết hoặc in bằng nhiều thứ tiếng"},
       {
@@ -7641,7 +7641,7 @@
     "h": "multinodal",
     "segs": [
       {"k": "m", "t": "having many nodes or knots."},
-      {"k": "m", "t": "Ða nút. Có nhiều nút hay có nhiều gút."},
+      {"k": "m", "t": "Đa nút. Có nhiều nút hay có nhiều gút."},
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "Having many nodes."}
     ],
@@ -8088,7 +8088,7 @@
   },
   {
     "h": "multiphasic screening",
-    "segs": [{"k": "m", "t": "Ðiều tra tình hình bệnh đa phương thức."}],
+    "segs": [{"k": "m", "t": "Điều tra tình hình bệnh đa phương thức."}],
     "k": "multiphasic screening"
   },
   {
@@ -8299,7 +8299,7 @@
     ],
     "k": "multiple agriculture"
   },
-  {"h": "multiple allel", "segs": [{"k": "m", "t": "Ða alen."}], "k": "multiple allel"},
+  {"h": "multiple allel", "segs": [{"k": "m", "t": "Đa alen."}], "k": "multiple allel"},
   {
     "h": "multiple alleles",
     "segs": [
@@ -8815,7 +8815,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự lộ ánh sáng"}],
     "k": "multiple exposure"
   },
-  {"h": "multiple factor", "segs": [{"k": "m", "t": "Ða yếu tố."}], "k": "multiple factor"},
+  {"h": "multiple factor", "segs": [{"k": "m", "t": "Đa yếu tố."}], "k": "multiple factor"},
   {
     "h": "multiple fault",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đứt gãy bội"}],
@@ -8830,7 +8830,7 @@
     ],
     "k": "multiple feeder"
   },
-  {"h": "multiple fibroma", "segs": [{"k": "m", "t": "Ða u xơ."}], "k": "multiple fibroma"},
+  {"h": "multiple fibroma", "segs": [{"k": "m", "t": "Đa u xơ."}], "k": "multiple fibroma"},
   {
     "h": "multiple firing",
     "segs": [{"k": "m", "t": "sự nổ đồng thời nhiều phát (mìn)."}],
@@ -9131,7 +9131,7 @@
   },
   {
     "h": "multiple lymphadenoma",
-    "segs": [{"k": "m", "t": "Ða u hạch bạch huyết."}],
+    "segs": [{"k": "m", "t": "Đa u hạch bạch huyết."}],
     "k": "multiple lymphadenoma"
   },
   {
@@ -9204,7 +9204,7 @@
     ],
     "k": "multiple motor drive"
   },
-  {"h": "multiple myeloma", "segs": [{"k": "m", "t": "Ðau tủy."}], "k": "multiple myeloma"},
+  {"h": "multiple myeloma", "segs": [{"k": "m", "t": "Đau tủy."}], "k": "multiple myeloma"},
   {"h": "multiple myositis", "segs": [{"k": "m", "t": "Viêm đa cơ."}], "k": "multiple myositis"},
   {
     "h": "multiple navigation lock",
@@ -9396,7 +9396,7 @@
   },
   {"h": "multiple radiation", "segs": [{"k": "m", "t": "bức xạ phức."}], "k": "multiple radiation"},
   {"h": "multiple reaading", "segs": [{"k": "m", "t": "đọc nhiều ]ần."}], "k": "multiple reaading"},
-  {"h": "multiple reading", "segs": [{"k": "m", "t": "Ðọc nhiều lần."}], "k": "multiple reading"},
+  {"h": "multiple reading", "segs": [{"k": "m", "t": "Đọc nhiều lần."}], "k": "multiple reading"},
   {
     "h": "multiple reception",
     "segs": [{"k": "m", "t": "sự thu nhiều kênh, sự thu bội."}],
@@ -9515,7 +9515,7 @@
   },
   {
     "h": "multiple screening",
-    "segs": [{"k": "m", "t": "Ðiều tra tình hình bệnh đa phương thức."}],
+    "segs": [{"k": "m", "t": "Điều tra tình hình bệnh đa phương thức."}],
     "k": "multiple screening"
   },
   {
@@ -9863,7 +9863,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hệ ảo bội"}],
     "k": "multiple virtual system"
   },
-  {"h": "multiple vision", "segs": [{"k": "m", "t": "Ða thị."}], "k": "multiple vision"},
+  {"h": "multiple vision", "segs": [{"k": "m", "t": "Đa thị."}], "k": "multiple vision"},
   {
     "h": "multiple vote",
     "segs": [{"k": "m", "t": "bỏ phiếu nhiều nơi (một cử tri)."}],
@@ -13827,7 +13827,7 @@
   {"h": "multiwire", "segs": [{"k": "m", "t": "nhiều dây, nhiều sợi."}], "k": "multiwire"},
   {
     "h": "multiword verbs",
-    "segs": [{"k": "m", "t": "(dt) Ðộng từ thành ngữ."}],
+    "segs": [{"k": "m", "t": "(dt) Động từ thành ngữ."}],
     "ipa": ",mʌltiwə:dɛvə:b",
     "k": "multiword verbs"
   },
@@ -13895,7 +13895,7 @@
       {"k": "m", "t": "diễn tuồng câm"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "mẹ"},
-      {"k": "m", "t": "(sử) rượu bia mum (Ðức)"},
+      {"k": "m", "t": "(sử) rượu bia mum (Đức)"},
       {"k": "m", "t": "(thực) hoa cúc."}
     ],
     "ipa": "mʌm",
@@ -13905,16 +13905,16 @@
   {
     "h": "mum's the word",
     "segs": [
-      {"k": "m", "t": "Ðừng lan truyền bí mật."},
+      {"k": "m", "t": "Đừng lan truyền bí mật."},
       {
         "k": "ex",
         "t": "Don't tell anyone what I told you. Remember, mum's the word:",
-        "vi": "Ðừng kể cho bất cứ ai nghe những gì tôi đã kể với bạn. Nên nhớ đừng lan truyền bí mật này nhé."
+        "vi": "Đừng kể cho bất cứ ai nghe những gì tôi đã kể với bạn. Nên nhớ đừng lan truyền bí mật này nhé."
       },
       {
         "k": "ex",
         "t": "Okay, mum's the word. Your secret is safe with me:",
-        "vi": "Ðược rồi, tôi không tiết lộ bí mật. Bí mật của bạn nói với tôi sẽ được giữ kín."
+        "vi": "Được rồi, tôi không tiết lộ bí mật. Bí mật của bạn nói với tôi sẽ được giữ kín."
       }
     ],
     "k": "mum's the word"
@@ -14389,7 +14389,7 @@
     "ipa": "'mʌndifai",
     "k": "mundify"
   },
-  {"h": "mung", "segs": [{"k": "m", "t": "dt. (mung bean) dâu Ấn Ðộ."}], "k": "mung"},
+  {"h": "mung", "segs": [{"k": "m", "t": "dt. (mung bean) dâu Ấn Độ."}], "k": "mung"},
   {
     "h": "mung bean",
     "segs": [
@@ -14466,7 +14466,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(29/9/1938): một hiệp ước giữa Anh, Pháp, và Ý liên quan đến sự chia cắt đất nước Czechoslovakia. Hitler đã từ lâu muốn bảo hộ cho vùng đất nói tiếng Ðức Sudetenland nên ông chấp nhận lấy nguy cơ một cuộc chiến để có được nó. Ðể ngăn ngừa cuộc chiến bằng mọi giá, thủ tướng Anh, Chamberlain đã gặp Hitler tại Berchtesgaden (15/9) và lần thứ hai tại Bad Godesberg (23/9). Ông đặt ra điều kiện với việc thôn tính của Ðức đối với Bohemian Sudetenland và yêu cầu những khu vực khác của Czechoslovaki phải được trao quyền để gia nhập đế chế thứ ba của Ðức. Trong nỗ lực sau cùng, Chamberlain yêu cầu Mussolini, người đã tổ chức cuộc hội nghị tại Munich, nơi ông cùng Chamberlain, Hitler được gia tham cùng với Daladier, thủ tướng Pháp. Không có một đại diện nào từ phía Czech hay Xô Viết được mời đến. Hitler đã có được những điều mình muốn. Ngày 1/10, quân đội Ðức tiến vào Sudetenland. Như đã được qui định trong hiệp ước, Phần Lan và Hungary chiếm lấy khu vực Moravia, Slovakia và Ruthenia. Tháng 3/1939, Bohemia và Moravia bị lực lượng Nazis chiếm đóng, phần còn lại của Slovakia trở thành một nhà nước độc lập. Tổng thống Benes từ chức và để lại đất nước. Ðức thống trị hầu hết khu vực Danubian, trở thành một đế quốc hùng mạnh nhất trong khu vực nội địa châu Âu."
+        "t": "(29/9/1938): một hiệp ước giữa Anh, Pháp, và Ý liên quan đến sự chia cắt đất nước Czechoslovakia. Hitler đã từ lâu muốn bảo hộ cho vùng đất nói tiếng Đức Sudetenland nên ông chấp nhận lấy nguy cơ một cuộc chiến để có được nó. Để ngăn ngừa cuộc chiến bằng mọi giá, thủ tướng Anh, Chamberlain đã gặp Hitler tại Berchtesgaden (15/9) và lần thứ hai tại Bad Godesberg (23/9). Ông đặt ra điều kiện với việc thôn tính của Đức đối với Bohemian Sudetenland và yêu cầu những khu vực khác của Czechoslovaki phải được trao quyền để gia nhập đế chế thứ ba của Đức. Trong nỗ lực sau cùng, Chamberlain yêu cầu Mussolini, người đã tổ chức cuộc hội nghị tại Munich, nơi ông cùng Chamberlain, Hitler được gia tham cùng với Daladier, thủ tướng Pháp. Không có một đại diện nào từ phía Czech hay Xô Viết được mời đến. Hitler đã có được những điều mình muốn. Ngày 1/10, quân đội Đức tiến vào Sudetenland. Như đã được qui định trong hiệp ước, Phần Lan và Hungary chiếm lấy khu vực Moravia, Slovakia và Ruthenia. Tháng 3/1939, Bohemia và Moravia bị lực lượng Nazis chiếm đóng, phần còn lại của Slovakia trở thành một nhà nước độc lập. Tổng thống Benes từ chức và để lại đất nước. Đức thống trị hầu hết khu vực Danubian, trở thành một đế quốc hùng mạnh nhất trong khu vực nội địa châu Âu."
       }
     ],
     "k": "munich pact"
@@ -16508,7 +16508,7 @@
   {"h": "musculophrenic", "segs": [{"k": "m", "t": "(thuộc) cơ-cơ hoành."}], "k": "musculophrenic"},
   {
     "h": "musculophrenic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch cơ hoành."}],
+    "segs": [{"k": "m", "t": "Động mạch cơ hoành."}],
     "k": "musculophrenic artery"
   },
   {
@@ -18796,7 +18796,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Thế kỷ 16 và 17, một lính bộ binh được trang bị súng hỏa mai. Ðây là loại súng nòng trơn cỡ lớn được đặt trên vai. Súng đại bác không hiệu quả đã được sử dụng ở châu Âu trong suốt thế kỷ 14. Loại súng hỏa mai này được sử dụng sau đó, rất gọn trong chiến đấu. Giữa thế kỷ 16, quân đội Tây Ban Nha đi đầu trong việc sử dụng một loại súng hỏa mai mạnh và chính xác hơn. Họ đã phát triển nó để tác chiến. Dù các loại vũ khí có hiệu quả đến đâu thì các lính bộ binh vẫn cần có một trụ cống để đặt súng và ngắm. Sự phát triển của lưỡi lê thế kỷ 17 đã mở ra một bước chuyển mới trong kỹ thuật vũ trang. Dù sao thì các loại súng hỏa mai cũng đóng vai trò tích cực trong giai đoạn lúc bấy giờ."
+        "t": "Thế kỷ 16 và 17, một lính bộ binh được trang bị súng hỏa mai. Đây là loại súng nòng trơn cỡ lớn được đặt trên vai. Súng đại bác không hiệu quả đã được sử dụng ở châu Âu trong suốt thế kỷ 14. Loại súng hỏa mai này được sử dụng sau đó, rất gọn trong chiến đấu. Giữa thế kỷ 16, quân đội Tây Ban Nha đi đầu trong việc sử dụng một loại súng hỏa mai mạnh và chính xác hơn. Họ đã phát triển nó để tác chiến. Dù các loại vũ khí có hiệu quả đến đâu thì các lính bộ binh vẫn cần có một trụ cống để đặt súng và ngắm. Sự phát triển của lưỡi lê thế kỷ 17 đã mở ra một bước chuyển mới trong kỹ thuật vũ trang. Dù sao thì các loại súng hỏa mai cũng đóng vai trò tích cực trong giai đoạn lúc bấy giờ."
       }
     ],
     "k": "musketeer"
@@ -20128,7 +20128,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1689): pháp chế Anh có liên quan đến việc ban hành kỷ luật quân đội dành cho những kẻ nổi loạn và đào ngũ. Bản tuyên ngôn nhân quyền (1689) đã bất chấp quốc hội xây dựng lực lượng thường trực. Ðể phát triển quyền kiểm soát của quân đội, đạo luật Mutiny năm 1689 được ban hành chỉ trong một năm. Thật ra, đạo luật đã không được thực thi trong nhiều năm. Cả lực lượng vũ trang và hải quân luôn muốn nắm quyền tối thượng. Chỉ khi hoàng gia ngừng không chi trả cho quân đội thì quyền lực quốc hội mới có hiệu quả."
+        "t": "(1689): pháp chế Anh có liên quan đến việc ban hành kỷ luật quân đội dành cho những kẻ nổi loạn và đào ngũ. Bản tuyên ngôn nhân quyền (1689) đã bất chấp quốc hội xây dựng lực lượng thường trực. Để phát triển quyền kiểm soát của quân đội, đạo luật Mutiny năm 1689 được ban hành chỉ trong một năm. Thật ra, đạo luật đã không được thực thi trong nhiều năm. Cả lực lượng vũ trang và hải quân luôn muốn nắm quyền tối thượng. Chỉ khi hoàng gia ngừng không chi trả cho quân đội thì quyền lực quốc hội mới có hiệu quả."
       }
     ],
     "k": "mutiny act"
@@ -20953,7 +20953,7 @@
       {"k": "m", "t": "(kinh tế) Các dự án loại từ lẫn nhau."},
       {
         "k": "m",
-        "t": "Ðây là nói tới tình huống trong đó có hai hoặc nhiều dự án không thể cùng thực thi vì chúng cần có một đầu vào mà chỉ có thể được dùng cho một dự án."
+        "t": "Đây là nói tới tình huống trong đó có hai hoặc nhiều dự án không thể cùng thực thi vì chúng cần có một đầu vào mà chỉ có thể được dùng cho một dự án."
       }
     ],
     "k": "mutually exclusive projects"

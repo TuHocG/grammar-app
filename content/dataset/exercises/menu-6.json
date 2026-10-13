@@ -102,7 +102,7 @@
     "answer": "a",
     "vi": "Margolis có thành tích tốt nhất trong toàn đội.",
     "expl": [
-      {"head": "Câu A đúng vì:", "lines": ["Ðúng dạng so sánh."], "refs": [65]},
+      {"head": "Câu A đúng vì:", "lines": ["Đúng dạng so sánh."], "refs": [65]},
       {"head": "Câu B sai vì:", "lines": ["better thiếu than."], "refs": [63]},
       {
         "head": "Câu C sai vì:",
@@ -376,7 +376,7 @@
         "head": "Câu A sai vì:",
         "lines": [
           "catching: tóm, chụp vội vàng.",
-          "Chứng tỏ cô ấy Ðã và Ðang té vì nếu chỉ là phòng ngừa trước thì không dùng động từ catch chụp, nắm vội mà phải dùng keep, hold, nắm, vịn từ từ vì chưa có sự trượt té xảy ra.",
+          "Chứng tỏ cô ấy Đã và Đang té vì nếu chỉ là phòng ngừa trước thì không dùng động từ catch chụp, nắm vội mà phải dùng keep, hold, nắm, vịn từ từ vì chưa có sự trượt té xảy ra.",
           "Vậy không thể dùng chữ prevented phòng ngừa.",
           "Nếu phòng ngừa thì phải dùng chữ holding thay cho catching."
         ],
@@ -523,7 +523,7 @@
       "a diploma from high school is necessary."
     ],
     "answer": "c",
-    "vi": "Ðể thích ứng với công việc ______",
+    "vi": "Để thích ứng với công việc ______",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -549,11 +549,11 @@
           "a diploma không hợp nghĩa với <To qualify for the job>",
           "Bằng tốt nghiệp là một vật vô tri, không biết thích ứng với công việc.",
           "Xét ví dụ:",
-          "- Ðể ổn định tinh thần, một số tiền lớn phải được trả cho tôi.",
+          "- Để ổn định tinh thần, một số tiền lớn phải được trả cho tôi.",
           "To pacify the spirit, a big sum of money must be paid to me.",
           "Sai vì:",
           "Cụm tính từ <To pacify the spirit> sẽ bổ nghĩa cho sum.",
-          "Không thể nói: Ðể ổn định tinh thần cho số tiền.",
+          "Không thể nói: Để ổn định tinh thần cho số tiền.",
           "Mà phải nói:",
           "+ To pacify the spirit, I must be paid a big sum of money",
           "Cụm tính từ <To pacify the spirit> sẽ bổ nghĩa cho I.",
@@ -758,7 +758,7 @@
     "tt": 10,
     "choices": ["who was the winner of", "winning", "by winning", "as he was the winner of"],
     "answer": "a",
-    "vi": "Tổng thống Carter chúc mừng Eric Heiden ______ năm huy chương vàng ở đại hội Olympics Mùa Ðông.",
+    "vi": "Tổng thống Carter chúc mừng Eric Heiden ______ năm huy chương vàng ở đại hội Olympics Mùa Đông.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -852,7 +852,7 @@
     "tt": 10,
     "choices": ["ours", "us", "we", "ourselves"],
     "answer": "a",
-    "vi": "Ðội đó thì chơi hay, nhưng không hay bằng đội của chúng tôi.",
+    "vi": "Đội đó thì chơi hay, nhưng không hay bằng đội của chúng tôi.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -892,7 +892,7 @@
     "tt": 10,
     "choices": ["under", "out of", "into", "beneath"],
     "answer": "d",
-    "vi": "Ðiều đó không xứng đáng với nhân cách của tôi.",
+    "vi": "Điều đó không xứng đáng với nhân cách của tôi.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -1040,7 +1040,7 @@
     "tt": 10,
     "choices": ["regulated it", "is regulated", "that was regulated", "that it was regulated"],
     "answer": "b",
-    "vi": "Ðường băng được chỉnh bởi hãng hàng không liên bang.",
+    "vi": "Đường băng được chỉnh bởi hãng hàng không liên bang.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -1166,7 +1166,7 @@
       "completely burned it"
     ],
     "answer": "a",
-    "vi": "Vào tháng 11-1963 thành phố Atlanta chìm ngập trong khói lửa suốt chiến dịch nổi tiếng \"Ðổ bộ bờ biển\" của Sherman.",
+    "vi": "Vào tháng 11-1963 thành phố Atlanta chìm ngập trong khói lửa suốt chiến dịch nổi tiếng \"Đổ bộ bờ biển\" của Sherman.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -1185,7 +1185,7 @@
       {"head": "Câu C sai vì:", "lines": ["Thừa chủ từ it."], "refs": []},
       {
         "head": "Câu D sai vì:",
-        "lines": ["- Ðộng từ ở active.", "- Object it không thay cho cái gì cả."],
+        "lines": ["- Động từ ở active.", "- Object it không thay cho cái gì cả."],
         "refs": [47]
       }
     ],
@@ -1314,7 +1314,7 @@
     "expl": [
       {
         "head": "Câu A sai vì:",
-        "lines": ["Ðứng trước danh từ heat là no chứ không phải not."],
+        "lines": ["Đứng trước danh từ heat là no chứ không phải not."],
         "refs": [342]
       },
       {
@@ -1428,7 +1428,7 @@
           "Out of John Kenneth Galbraith's the Affluent Society đưa đến Ngoài các hãng Jonh Kenneth Galbraith, một tổ hợp phong phú, lý lẽ cho việc gia tăng những hàng hóa công cộng đã xuất hiện, có tính chất nghiêng vào việc tiêu thụ những hàng hóa theo sở thích cá nhân",
           "Vậy came the argument là đã đảo ngược, đáng lẽ phải viết the argument for an increase in public goods came vì to come là (Vi) không bao giờ (Vt) nên the argument không phải là Object của came.",
           "Như vậy là câu đã đảo ngược, động từ đứng trước chủ từ đứng sau; vì ta muốn nhấn mạnh khoa đại cụm tính từ do đó Out of ______ đặt ở đầu câu",
-          "Ex: Ðáng lẽ viết: The day was spent (ngày đã tàn)",
+          "Ex: Đáng lẽ viết: The day was spent (ngày đã tàn)",
           "Khoa đại là: Spent was the day",
           "Chú ý: Khoa đại cụm tính từ mở đầu người ta không dùng do, does, did (trợ từ) đảo ngược, mà dùng thẳng động từ đảo ngược."
         ],
@@ -1437,14 +1437,14 @@
       {
         "head": "Câu B sai vì:",
         "lines": [
-          "Ðặt his argument vào khoảng trống của câu mẫu, thì câu mẫu thiếu một động từ đã chia."
+          "Đặt his argument vào khoảng trống của câu mẫu, thì câu mẫu thiếu một động từ đã chia."
         ],
         "refs": [37, 40]
       },
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðặt argued vào khoảng trống thì thiếu chủ từ của argued vì cụm trạng từ out of Jonh ______ Society bổ nghĩa cho động từ came chứ cụm từ đó không phải là chủ từ."
+          "Đặt argued vào khoảng trống thì thiếu chủ từ của argued vì cụm trạng từ out of Jonh ______ Society bổ nghĩa cho động từ came chứ cụm từ đó không phải là chủ từ."
         ],
         "refs": [41, 168, 171, 75]
       },
@@ -1498,7 +1498,7 @@
     "tt": 10,
     "choices": ["The", "About", "Whether", "Scientifically"],
     "answer": "c",
-    "vi": "Ðào có được phân loại là hạt rời hoặc chùm hay không, là còn tùy vào việc lấy hạt dễ hay khó ra khỏi hốc chứa nó.",
+    "vi": "Đào có được phân loại là hạt rời hoặc chùm hay không, là còn tùy vào việc lấy hạt dễ hay khó ra khỏi hốc chứa nó.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -1514,7 +1514,7 @@
       {
         "head": "Câu B sai vì:",
         "lines": [
-          "Ðặt about trước peaches thì peaches không còn là chủ từ của are mà trở thành túc từ của giới từ about (Preposition Object of about)."
+          "Đặt about trước peaches thì peaches không còn là chủ từ của are mà trở thành túc từ của giới từ about (Preposition Object of about)."
         ],
         "refs": [180, 39]
       },
@@ -1882,7 +1882,7 @@
       {
         "head": "Câu C đúng vì:",
         "lines": [
-          "(Ðã giải nghĩa ở câu A hơn nữa ta có cấu trúc attached to something (dính vào, gắn vào cái gì... )."
+          "(Đã giải nghĩa ở câu A hơn nữa ta có cấu trúc attached to something (dính vào, gắn vào cái gì... )."
         ],
         "refs": []
       },
@@ -2005,7 +2005,7 @@
     "tt": 10,
     "choices": ["what", "which is", "in which", "that"],
     "answer": "c",
-    "vi": "Ðĩa ghép là loại đĩa nằm giữa các khớp xương của cột sống, nó nhô ra và ép vào các dây thần kinh.",
+    "vi": "Đĩa ghép là loại đĩa nằm giữa các khớp xương của cột sống, nó nhô ra và ép vào các dây thần kinh.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -2029,8 +2029,8 @@
         "lines": [
           "that là trường hợp Relative Pronoun chứ không phải là Relative Adv hoặc Relative Adv Phrase (in which = where)",
           "Ex: quan sát những câu sau:",
-          "+ Ðà Lạt was the city in which I was born",
-          "+ Ðà Lạt was the city where I was born",
+          "+ Đà Lạt was the city in which I was born",
+          "+ Đà Lạt was the city where I was born",
           "(không được dùng what/which/that)."
         ],
         "refs": [134, 299, 314]
@@ -2212,8 +2212,8 @@
         "head": "Câu C sai vì:",
         "lines": [
           "instead chỉ có hai vị trí:",
-          "+ Ðặt ở cuối câu không cần of",
-          "+ Ðặt ở giữa câu kèm theo of (instead of... )."
+          "+ Đặt ở cuối câu không cần of",
+          "+ Đặt ở giữa câu kèm theo of (instead of... )."
         ],
         "refs": []
       },
@@ -2471,7 +2471,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðây là một câu Conditional. Ta thấy would rise không đúng thì với had not entered."
+          "Đây là một câu Conditional. Ta thấy would rise không đúng thì với had not entered."
         ],
         "refs": [42]
       },
@@ -2570,7 +2570,7 @@
           "Although là liên từ nối 2 mệnh đề:",
           "1: <science's ultimate aim is the formulation of explanatory laws... >",
           "2: <... the first step in scientific research is the collection and description of facts.>",
-          "Ðã có <science's ultimate aim> làm chủ ngữ cho is, vậy it là thừa."
+          "Đã có <science's ultimate aim> làm chủ ngữ cho is, vậy it là thừa."
         ],
         "refs": [173, 40]
       },
@@ -2738,7 +2738,7 @@
       },
       {
         "head": "Câu C sai vì:",
-        "lines": ["Ðặt taking làm câu không có động từ đã chia, phải đặt taked mới đúng."],
+        "lines": ["Đặt taking làm câu không có động từ đã chia, phải đặt taked mới đúng."],
         "refs": []
       },
       {
@@ -2971,7 +2971,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðã có trợ từ will ở câu C đã chia thì động từ phải trở về nguyên thể contribute chứ không phải contributed."
+          "Đã có trợ từ will ở câu C đã chia thì động từ phải trở về nguyên thể contribute chứ không phải contributed."
         ],
         "refs": [11]
       }
@@ -3035,7 +3035,7 @@
     "expl": [
       {
         "head": "Câu A đúng vì:",
-        "lines": ["Ðủ chủ từ astronomers do not know + Object (Vt + Object)."],
+        "lines": ["Đủ chủ từ astronomers do not know + Object (Vt + Object)."],
         "refs": []
       },
       {
@@ -3119,8 +3119,8 @@
         "head": "Câu A đúng vì:",
         "lines": [
           "Cấu trúc của most:",
-          "Ða số sinh viên most (Adj)/Determiner students",
-          "Ða số trong những sinh viên most (Pronoun) of students",
+          "Đa số sinh viên most (Adj)/Determiner students",
+          "Đa số trong những sinh viên most (Pronoun) of students",
           "Người thông minh nhất trong các sinh viên.",
           "The most + intelligent (Adj) of the students",
           "(Adv/Superlative)",
@@ -3268,7 +3268,7 @@
         "head": "Câu D đúng vì:",
         "lines": [
           "area có the đứng trước để xác định địa hạt nào?",
-          "Ðịa hạt to restore old building."
+          "Địa hạt to restore old building."
         ],
         "refs": [209]
       }
@@ -3683,7 +3683,7 @@
       {"a": "seen even", "alt": [], "n": 1}
     ],
     "answer": "b",
-    "vi": "Ðèn huỳnh quang thường được dùng làm đèn hiệu máy bay. Vì đèn huỳnh quang rất dễ thấy. Người ta có thể thấy chúng qua sương mù dày đặc.",
+    "vi": "Đèn huỳnh quang thường được dùng làm đèn hiệu máy bay. Vì đèn huỳnh quang rất dễ thấy. Người ta có thể thấy chúng qua sương mù dày đặc.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -4604,7 +4604,7 @@
       },
       {
         "head": "Câu D sai vì:",
-        "lines": ["Ðộng từ belong (thuộc về) bao giờ cũng phải có giới từ to theo sau."],
+        "lines": ["Động từ belong (thuộc về) bao giờ cũng phải có giới từ to theo sau."],
         "refs": []
       }
     ],
@@ -4741,7 +4741,7 @@
       {"a": "anyone", "alt": [], "n": 1}
     ],
     "answer": "d",
-    "vi": "Ðội trưởng đội bóng Yale có thể vượt qua hàng rào cản phá giỏi hơn các bạn đồng đội.",
+    "vi": "Đội trưởng đội bóng Yale có thể vượt qua hàng rào cản phá giỏi hơn các bạn đồng đội.",
     "expl": [
       {"head": "Câu A đúng vì:", "lines": ["Yale's là sở hữu cách của of Yale."], "refs": [61]},
       {
@@ -4798,7 +4798,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðộng từ tường thuật (Reported Verb) chia ở thì Simple Past tried to tell. Vậy động từ trong câu tường thuật (reported speech) phải lui xuống một thì tức là: Bod had said."
+          "Động từ tường thuật (Reported Verb) chia ở thì Simple Past tried to tell. Vậy động từ trong câu tường thuật (reported speech) phải lui xuống một thì tức là: Bod had said."
         ],
         "refs": [11, 16]
       },
@@ -5184,7 +5184,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðôi khi người ta dùng một danh từ như hair đem lên làm Adj thì thường hay thêm ed vào danh từ đó. Vì vậy, sẽ là: a red-haired boy."
+          "Đôi khi người ta dùng một danh từ như hair đem lên làm Adj thì thường hay thêm ed vào danh từ đó. Vì vậy, sẽ là: a red-haired boy."
         ],
         "refs": [159, 161]
       },
@@ -5351,7 +5351,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðây là một câu so sánh tính từ:",
+          "Đây là một câu so sánh tính từ:",
           "early là tính từ nguyên cấp (Positive).",
           "Vậy phải là earlier than (Comparative of Superiority)."
         ],
@@ -5531,7 +5531,7 @@
       },
       {
         "head": "Câu C đúng vì:",
-        "lines": ["Ðộng từ prevents luôn theo sau bởi giới từ from."],
+        "lines": ["Động từ prevents luôn theo sau bởi giới từ from."],
         "refs": []
       },
       {
@@ -5637,7 +5637,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðộng từ bất quy tắc to cost có 3 dạng giống nhau cost/cost/cost không thể là costed được."
+          "Động từ bất quy tắc to cost có 3 dạng giống nhau cost/cost/cost không thể là costed được."
         ],
         "refs": [75]
       },
@@ -6144,7 +6144,7 @@
         "lines": ["từ đâu là giới từ from nhưng kể từ là since."],
         "refs": [201]
       },
-      {"head": "Câu C đúng vì:", "lines": ["Ðại từ it thay cho basketball."], "refs": []},
+      {"head": "Câu C đúng vì:", "lines": ["Đại từ it thay cho basketball."], "refs": []},
       {
         "head": "Câu D đúng vì:",
         "lines": ["Do có tác nhân by James nên was invented phải ở dạng Passive Voice."],
@@ -6170,7 +6170,7 @@
     "expl": [
       {
         "head": "Câu A đúng vì:",
-        "lines": ["Ðối với tháng/năm/thập niên/thế kỷ ta dùng giới từ in."],
+        "lines": ["Đối với tháng/năm/thập niên/thế kỷ ta dùng giới từ in."],
         "refs": [144, 188]
       },
       {
@@ -6335,7 +6335,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðầu đã dùng Infinitive to protect ở đây lại dùng or serve",
+          "Đầu đã dùng Infinitive to protect ở đây lại dùng or serve",
           "Vậy phải sửa là or to serve mới đúng."
         ],
         "refs": []
@@ -6422,7 +6422,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "Ðộng từ wish là ao ước chứ không có thật hay trái ngược với sự thật (contrary to fact) nên:",
+          "Động từ wish là ao ước chứ không có thật hay trái ngược với sự thật (contrary to fact) nên:",
           "Nếu là ao ước ở hiện tại ta có:",
           "I wish (Present) that you went (Simple Past) there now",
           "Ao ước ở quá khứ, ta có:",
@@ -6489,12 +6489,12 @@
     "tt": 10,
     "choices": ["not to submit", "do not submit", "no submit", "not submit"],
     "answer": "b",
-    "vi": "Ðừng nộp những bản sao chụp của tài liệu này.",
+    "vi": "Đừng nộp những bản sao chụp của tài liệu này.",
     "expl": [
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðặt not to submit vào khoảng trống sẽ biến câu mẫu trở nên không có động từ đã chia."
+          "Đặt not to submit vào khoảng trống sẽ biến câu mẫu trở nên không có động từ đã chia."
         ],
         "refs": []
       },
@@ -6568,7 +6568,7 @@
     "tt": 10,
     "choices": ["practice", "to practice", "practiced", "the practice"],
     "answer": "a",
-    "vi": "Ðội chơi hay vì huấn luyện viên đã dợt hàng đêm trong tuần này.",
+    "vi": "Đội chơi hay vì huấn luyện viên đã dợt hàng đêm trong tuần này.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -6665,7 +6665,7 @@
       {"head": "Câu C đúng vì:", "lines": ["Xem câu B."], "refs": []},
       {
         "head": "Câu D sai vì:",
-        "lines": ["Ðể not be vào If Clause thì mệnh đề không có động từ đã chia."],
+        "lines": ["Để not be vào If Clause thì mệnh đề không có động từ đã chia."],
         "refs": []
       }
     ],
@@ -6683,23 +6683,23 @@
     "expl": [
       {
         "head": "Câu A sai vì:",
-        "lines": ["Ðộng từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi."],
+        "lines": ["Động từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi."],
         "refs": [42]
       },
       {
         "head": "Câu B sai vì:",
-        "lines": ["Ðộng từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi."],
+        "lines": ["Động từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi."],
         "refs": [42]
       },
       {
         "head": "Câu C đúng vì:",
-        "lines": ["Ðộng từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi."],
+        "lines": ["Động từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi."],
         "refs": [42]
       },
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðộng từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi.",
+          "Động từ trong If Clause nếu là <to be> thì phải là were cho cả 6 ngôi.",
           "<nót be> câu thiếu động từ đã chia were."
         ],
         "refs": [42]
@@ -6720,7 +6720,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "Ðối với Tag Question khi dùng thành ngữ used to +",
+          "Đối với Tag Question khi dùng thành ngữ used to +",
           "Bare Infinitive (đã quen) ở phần đầu, thì đuôi phải dùng trợ từ did/didn't + Pronoun để hỏi \"phải không\"."
         ],
         "refs": [34]
@@ -6739,7 +6739,7 @@
       },
       {
         "head": "Câu D sai vì:",
-        "lines": ["Ðộng từ vế đầu là used chứ không phải had Visited mà ta lập lại là hadn't she?"],
+        "lines": ["Động từ vế đầu là used chứ không phải had Visited mà ta lập lại là hadn't she?"],
         "refs": [308, 34]
       }
     ],
@@ -6977,7 +6977,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðộng từ know là Vt đòi hỏi Object là Noun/Noun Phrase/",
+          "Động từ know là Vt đòi hỏi Object là Noun/Noun Phrase/",
           "Noun Clause/That + Clause. Vậy to take ở đây không phải Noun Phrase và biến know trở thành một (Vi)."
         ],
         "refs": []
@@ -7298,7 +7298,7 @@
       {
         "head": "Câu B sai vì:",
         "lines": [
-          "Ðộng từ ở phần đầu là động từ kép (Present Perfect) nên chỉ dùng trợ từ + Subject là lập xong phần đuôi hasn't + he?",
+          "Động từ ở phần đầu là động từ kép (Present Perfect) nên chỉ dùng trợ từ + Subject là lập xong phần đuôi hasn't + he?",
           "Nếu động từ là đơn (một chữ) ta phải mượn trợ từ do/does/did/ don't/doesn't/didn't + Subject để tạo phần đuôi."
         ],
         "refs": [11, 34, 305]
@@ -7365,7 +7365,7 @@
       },
       {
         "head": "Câu D đúng vì:",
-        "lines": ["Ðã giải thích ở câu A.", "Do đó phải là need + repairing."],
+        "lines": ["Đã giải thích ở câu A.", "Do đó phải là need + repairing."],
         "refs": [275, 153, 39]
       }
     ],
@@ -7454,7 +7454,7 @@
         "lines": ["Thành ngữ: to be used to + Gerund chứ không phải là are used to + Infinitive."],
         "refs": [308]
       },
-      {"head": "Câu D sai vì:", "lines": ["Ðã giải thích ở câu C."], "refs": [308]}
+      {"head": "Câu D sai vì:", "lines": ["Đã giải thích ở câu C."], "refs": [308]}
     ],
     "refs": [168, 308]
   },
@@ -7663,7 +7663,7 @@
       },
       {
         "head": "Câu B đúng vì:",
-        "lines": ["Ðáng lẽ nói if it will not rain thì ta phải sửa thành doesn't (Present)."],
+        "lines": ["Đáng lẽ nói if it will not rain thì ta phải sửa thành doesn't (Present)."],
         "refs": [42]
       },
       {
@@ -7705,7 +7705,7 @@
         ],
         "refs": [45, 39]
       },
-      {"head": "Câu D đúng vì:", "lines": ["Ðã giải thích ở câu A."], "refs": []}
+      {"head": "Câu D đúng vì:", "lines": ["Đã giải thích ở câu A."], "refs": []}
     ],
     "refs": [45, 39]
   },
@@ -7736,8 +7736,8 @@
         ],
         "refs": []
       },
-      {"head": "Câu C đúng vì:", "lines": ["Ðã giải thích ở câu A."], "refs": []},
-      {"head": "Câu D sai vì:", "lines": ["Ðã giải thích ở câu A."], "refs": []}
+      {"head": "Câu C đúng vì:", "lines": ["Đã giải thích ở câu A."], "refs": []},
+      {"head": "Câu D sai vì:", "lines": ["Đã giải thích ở câu A."], "refs": []}
     ]
   },
   {
@@ -7797,13 +7797,13 @@
         ],
         "refs": [260, 39, 153]
       },
-      {"head": "Câu B sai vì:", "lines": ["Ðã giải thích ở câu A."], "refs": []},
+      {"head": "Câu B sai vì:", "lines": ["Đã giải thích ở câu A."], "refs": []},
       {
         "head": "Câu C đúng vì: had better + start start + getting up.",
         "lines": [],
         "refs": [260, 39, 153]
       },
-      {"head": "Câu D sai vì:", "lines": ["Ðã giải thích ở câu A."], "refs": []}
+      {"head": "Câu D sai vì:", "lines": ["Đã giải thích ở câu A."], "refs": []}
     ],
     "refs": [260, 39, 153]
   },
@@ -8097,7 +8097,7 @@
         "head": "Câu B đúng vì:",
         "lines": [
           "us làm Preposition Object cho of câu mẫu lược bỏ that sau us.",
-          "Ðáng lẽ là A few of us (that) girls are planing..."
+          "Đáng lẽ là A few of us (that) girls are planing..."
         ],
         "refs": [299]
       },
@@ -8328,7 +8328,7 @@
         ],
         "refs": [272, 153, 39]
       },
-      {"head": "Câu D sai vì:", "lines": ["Ðã giải thích ở câu A và C."], "refs": []}
+      {"head": "Câu D sai vì:", "lines": ["Đã giải thích ở câu A và C."], "refs": []}
     ],
     "refs": [272, 153, 39, 299, 40]
   },
@@ -8565,7 +8565,7 @@
         "lines": ["<so little> dùng cho những danh từ không đếm được."],
         "refs": [294, 220]
       },
-      {"head": "Câu C sai vì:", "lines": ["Ðã giải thích ở câu A."], "refs": []},
+      {"head": "Câu C sai vì:", "lines": ["Đã giải thích ở câu A."], "refs": []},
       {
         "head": "Câu D sai vì:",
         "lines": [
@@ -8659,7 +8659,7 @@
         "lines": ["toast là danh từ không đếm được (n.cn) nên không s số nhiều."],
         "refs": [138]
       },
-      {"head": "Câu B sai vì:", "lines": ["Ðã giải nghĩa ở câu A."], "refs": []},
+      {"head": "Câu B sai vì:", "lines": ["Đã giải nghĩa ở câu A."], "refs": []},
       {
         "head": "Câu C đúng vì:",
         "lines": ["1 miếng/ 1 mảnh là piece.", "Vậy 2 miếng là 2 pieces nhưng toast vẫn ở số ít."],
@@ -8788,7 +8788,7 @@
       {"head": "Câu C đúng vì:", "lines": ["Trước số đếm lane two không có the."], "refs": [162]},
       {
         "head": "Câu D sai vì:",
-        "lines": ["Ðặt sai vị trí từng từ và thừa the."],
+        "lines": ["Đặt sai vị trí từng từ và thừa the."],
         "refs": [162, 161]
       }
     ],
@@ -8875,7 +8875,7 @@
     "tt": 10,
     "choices": ["the hall closet", "the closet of the hall", "the hall's closet", "hall closet"],
     "answer": "a",
-    "vi": "Ðể áo khoác của bạn vào ngay cái tủ ở đại sảnh.",
+    "vi": "Để áo khoác của bạn vào ngay cái tủ ở đại sảnh.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -9043,7 +9043,7 @@
         "lines": ["months không thể còn s và olds không thể có s."],
         "refs": []
       },
-      {"head": "Câu D đúng vì:", "lines": ["Ðã giải thích ở câu A."], "refs": []}
+      {"head": "Câu D đúng vì:", "lines": ["Đã giải thích ở câu A."], "refs": []}
     ],
     "refs": [139, 140, 155, 159]
   },
@@ -9149,9 +9149,9 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðặt sai trật tự của từ (word oder) such + a + Adj + noun không thể là such + Adj + Noun + a.",
+          "Đặt sai trật tự của từ (word oder) such + a + Adj + noun không thể là such + Adj + Noun + a.",
           "Lưu ý:",
-          "Ðã dùng such thì cấm đặt một Determiner nào khác liền với nó.",
+          "Đã dùng such thì cấm đặt một Determiner nào khác liền với nó.",
           "Ex: the such/ my such..."
         ],
         "refs": [297, 347]
@@ -9176,7 +9176,7 @@
       },
       {
         "head": "Câu B sai vì:",
-        "lines": ["Ðặt sai trật tự từ for June six chứ không phải for six June."],
+        "lines": ["Đặt sai trật tự từ for June six chứ không phải for six June."],
         "refs": []
       },
       {
@@ -9580,7 +9580,7 @@
       {
         "head": "Câu B đúng vì:",
         "lines": [
-          "Ðúng trật tự của từ:",
+          "Đúng trật tự của từ:",
           "1 là the phải đứng trước ordinal number (số thứ tự) second.",
           "2 là of September là cụm giới từ theo sau để bổ nghĩa second."
         ],
@@ -10223,7 +10223,7 @@
         "head": "Câu B đúng vì:",
         "lines": [
           "like cũng là Adj (giống như) nhưng sau like còn ẩn lược một giới từ to.",
-          "Ðáng lẽ: _The final will be like to the midterm.",
+          "Đáng lẽ: _The final will be like to the midterm.",
           "Ex:",
           "- She's like his mother = _She's like to his mother."
         ],
@@ -10263,7 +10263,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðã dùng as + Adj + as là so sánh bậc bằng không phải bậc hơn",
+          "Đã dùng as + Adj + as là so sánh bậc bằng không phải bậc hơn",
           "Nếu bậc hơn thì Adj + er + than hoặc more + Adj + than chứ không có as."
         ],
         "refs": [62, 63]
@@ -10404,7 +10404,7 @@
         "head": "Câu B sai vì:",
         "lines": [
           "What are the taxes là một câu hỏi trực tiếp, bắt buộc phải có dấu? Nếu không có dấu? Là ta đã đặt ngược một Noun Clause.",
-          "Ðáng lẽ phải xuôi mới đúng."
+          "Đáng lẽ phải xuôi mới đúng."
         ],
         "refs": [34, 40, 41, 312, 39]
       },
@@ -10575,7 +10575,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "As well as: cũng như... là embedded Phrase, một cụm từ gài thêm vào, không ảnh hưởng đến Verb của câu. Ðộng từ chia ở thì nào, số ít, số nhiều tùy thuộc vào chủ từ Mary và Ellen đứng trước."
+          "As well as: cũng như... là embedded Phrase, một cụm từ gài thêm vào, không ảnh hưởng đến Verb của câu. Động từ chia ở thì nào, số ít, số nhiều tùy thuộc vào chủ từ Mary và Ellen đứng trước."
         ],
         "refs": [176, 150]
       },
@@ -10754,7 +10754,7 @@
       },
       {
         "head": "Câu D sai vì:",
-        "lines": ["Ðây là một câu hỏi ở Passive Voice trực tiếp mà lại không có dấu <?>"],
+        "lines": ["Đây là một câu hỏi ở Passive Voice trực tiếp mà lại không có dấu <?>"],
         "refs": [34, 47]
       }
     ],
@@ -10773,7 +10773,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðộng từ moved cần một liên từ chỉ mục đích để nối với mệnh đề sau trong khi so chỉ là một Adv chỉ kết quả (vì vậy)."
+          "Động từ moved cần một liên từ chỉ mục đích để nối với mệnh đề sau trong khi so chỉ là một Adv chỉ kết quả (vì vậy)."
         ],
         "refs": [294, 173, 168]
       },
@@ -10976,8 +10976,8 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðây là câu tường thuật Reported Speech của một câu điều kiện.",
-          "Ðã là câu tường thuật thì chủ từ và Verb của cả 2 mệnh đề trong câu bắt buộc phải đi xuôi, nếu đảo ngược thì lại là câu hỏi trực tiếp. Cho nên if is there là sai."
+          "Đây là câu tường thuật Reported Speech của một câu điều kiện.",
+          "Đã là câu tường thuật thì chủ từ và Verb của cả 2 mệnh đề trong câu bắt buộc phải đi xuôi, nếu đảo ngược thì lại là câu hỏi trực tiếp. Cho nên if is there là sai."
         ],
         "refs": [52, 34]
       },
@@ -11008,7 +11008,7 @@
     "tt": 10,
     "choices": ["you turn off", "to turn off", "turning off", "you'll turn off"],
     "answer": "c",
-    "vi": "Ðừng đi mà không tắt đèn.",
+    "vi": "Đừng đi mà không tắt đèn.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -11447,7 +11447,7 @@
       {
         "head": "Câu B sai vì:",
         "lines": [
-          "Ðộng từ phủ định <has not> đi với any là đúng.",
+          "Động từ phủ định <has not> đi với any là đúng.",
           "Nhưng không thường dùng như câu D."
         ],
         "refs": [215]
@@ -11774,7 +11774,7 @@
     "expl": [
       {
         "head": "Câu A sai vì:",
-        "lines": ["Ðây là một câu hô khởi cuối có dấu! so không đi với Noun."],
+        "lines": ["Đây là một câu hô khởi cuối có dấu! so không đi với Noun."],
         "refs": [43]
       },
       {
@@ -11815,7 +11815,7 @@
     "expl": [
       {
         "head": "Câu A sai vì:",
-        "lines": ["Ðặt price vào chỗ trống là thừa, đã có the price."],
+        "lines": ["Đặt price vào chỗ trống là thừa, đã có the price."],
         "refs": []
       },
       {
@@ -11823,7 +11823,7 @@
         "lines": [
           "worthy (Adj) luôn + of theo sau.",
           "Ex: This problem is worthy of attention.",
-          "(Ðây là vấn đề đáng chú ý.)",
+          "(Đây là vấn đề đáng chú ý.)",
           "Vậy sau worthy mà thiếu of + Noun là sai."
         ],
         "refs": []
@@ -12499,7 +12499,7 @@
       },
       {
         "head": "Câu B sai vì:",
-        "lines": ["Ðiểm thời gian ở quá khứ không thể surrendered (Past)."],
+        "lines": ["Điểm thời gian ở quá khứ không thể surrendered (Past)."],
         "refs": []
       },
       {
@@ -12538,7 +12538,7 @@
       {
         "head": "Câu B đúng vì:",
         "lines": [
-          "Ði sau everyone/ everybody/ everything Verb phải ở ngôi 3 số ít knows là đúng, everyone là mỗi người, chứ không phải tất cả mọi người."
+          "Đi sau everyone/ everybody/ everything Verb phải ở ngôi 3 số ít knows là đúng, everyone là mỗi người, chứ không phải tất cả mọi người."
         ],
         "refs": [151, 150]
       },
@@ -12782,7 +12782,7 @@
       {
         "head": "Câu B đúng vì:",
         "lines": [
-          "Ðộng từ finish bất cứ Verb nào sau nó phải là Gerund (ing form) vậy cleaning là đúng. Không thể to clean."
+          "Động từ finish bất cứ Verb nào sau nó phải là Gerund (ing form) vậy cleaning là đúng. Không thể to clean."
         ],
         "refs": [53]
       },
@@ -12903,7 +12903,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "Cấu trúc: Ðiều cần là làm việc gì It is /it was necessary + to do something Vậy to put là đúng."
+          "Cấu trúc: Điều cần là làm việc gì It is /it was necessary + to do something Vậy to put là đúng."
         ],
         "refs": []
       },
@@ -12915,7 +12915,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðầu mệnh đề chính đã có it is chia ở Present, mệnh đề sau included lại chia ở Past là không phù hợp, sửa là include."
+          "Đầu mệnh đề chính đã có it is chia ở Present, mệnh đề sau included lại chia ở Past là không phù hợp, sửa là include."
         ],
         "refs": []
       },
@@ -12955,7 +12955,7 @@
       {
         "head": "Câu B sai vì:",
         "lines": [
-          "Ðại từ nhân xưng Personal Pronoun thay thế cho one và himself không phải you mà phải là he."
+          "Đại từ nhân xưng Personal Pronoun thay thế cho one và himself không phải you mà phải là he."
         ],
         "refs": [226, 133]
       },
@@ -13416,7 +13416,7 @@
       {"a": "require", "alt": [], "n": 1}
     ],
     "answer": "d",
-    "vi": "Ðể mau lớn mạnh, loài thông xanh cũng như các loài thông khác đòi hỏi một khí hậu ôn hòa.",
+    "vi": "Để mau lớn mạnh, loài thông xanh cũng như các loài thông khác đòi hỏi một khí hậu ôn hòa.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -13642,7 +13642,7 @@
       },
       {
         "head": "Câu C sai vì:",
-        "lines": ["Ðầu câu có those of us nên không để their addresses mà phải là our addresses."],
+        "lines": ["Đầu câu có those of us nên không để their addresses mà phải là our addresses."],
         "refs": []
       },
       {
@@ -13873,7 +13873,7 @@
       {"a": "consulting", "alt": [], "n": 1}
     ],
     "answer": "b",
-    "vi": "Ðiều đáng ngạc nhiên là không có sự phản đối nào khi 2 tay cờ tự thay đổi luật chơi mà không thông qua trọng tài.",
+    "vi": "Điều đáng ngạc nhiên là không có sự phản đối nào khi 2 tay cờ tự thay đổi luật chơi mà không thông qua trọng tài.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -13887,7 +13887,7 @@
       {
         "head": "Câu B sai vì:",
         "lines": [
-          "Ðứng trước a serious Objection mà dùng there were not (số nhiều) là sai, phải là there was not."
+          "Đứng trước a serious Objection mà dùng there were not (số nhiều) là sai, phải là there was not."
         ],
         "refs": []
       },
@@ -14054,7 +14054,7 @@
       {"a": "one's", "alt": [], "n": 1}
     ],
     "answer": "b",
-    "vi": "Ðể tẩy những vết bẩn ở quần áo ủi thường xuyên, hãy thận trọng nhúng nó vào nước lạnh trước khi giặt bằng bột giặt thường.",
+    "vi": "Để tẩy những vết bẩn ở quần áo ủi thường xuyên, hãy thận trọng nhúng nó vào nước lạnh trước khi giặt bằng bột giặt thường.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -14228,7 +14228,7 @@
       {"a": "Columbus's final resting place is", "alt": [], "n": 1}
     ],
     "answer": "d",
-    "vi": "Ðầu tiên (thi hài Columbus) được chôn cất ở Tây ban Nha, sau đó chuyển về Santo Domingo cộng hòa Dominican, nơi yên nghỉ sau cùng của Columbus là Havana Cuba.",
+    "vi": "Đầu tiên (thi hài Columbus) được chôn cất ở Tây ban Nha, sau đó chuyển về Santo Domingo cộng hòa Dominican, nơi yên nghỉ sau cùng của Columbus là Havana Cuba.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -14357,7 +14357,7 @@
       {"a": "can make", "alt": [], "n": 1}
     ],
     "answer": "b",
-    "vi": "Buồn vì cái chết đột ngột của nam diễn viên, một hội tang lễ được thiết lập để gia đình và bè bạn có thể ủy lạo cho viện ung bướu Hoa Kỳ dưới danh nghĩa người chết. (Ðể làm thơm danh người quá cố.)",
+    "vi": "Buồn vì cái chết đột ngột của nam diễn viên, một hội tang lễ được thiết lập để gia đình và bè bạn có thể ủy lạo cho viện ung bướu Hoa Kỳ dưới danh nghĩa người chết. (Để làm thơm danh người quá cố.)",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -14398,7 +14398,7 @@
       {"a": "one's", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Ðể phòng ngừa những lỗ sâu mọt ở chân răng, chất fluoride nên được dùng hàng ngày sau hki chải răng.",
+    "vi": "Để phòng ngừa những lỗ sâu mọt ở chân răng, chất fluoride nên được dùng hàng ngày sau hki chải răng.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -14485,7 +14485,7 @@
       {"a": "instead", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Ðể hỗ trợ cho việc mua sắm bằng tiền mặt, những người bán hàng thường đòi hỏi khách hàng thẻ tín dụng thay cho tiền mặt.",
+    "vi": "Để hỗ trợ cho việc mua sắm bằng tiền mặt, những người bán hàng thường đòi hỏi khách hàng thẻ tín dụng thay cho tiền mặt.",
     "expl": [
       {
         "head": "Câu A sai vì: ý nghĩa của câu không phù hợp nhau. Nếu cố gắng (trying) trả tiền mua hàng bằng tiền mặt thì thường không trả bằng kiểu khác, nhưng không cố gắng (not trying) trả tiền mặt thì mới mua chịu. Vậy trying phải sửa là not trying.",
@@ -14638,7 +14638,7 @@
       {
         "head": "Câu C đúng vì:",
         "lines": [
-          "Những Adv tận cùng bằng ly có 3 vị trí: Ðứng trước Verb/ đứng cuối câu/ đứng sau trợ từ thứ nhất.",
+          "Những Adv tận cùng bằng ly có 3 vị trí: Đứng trước Verb/ đứng cuối câu/ đứng sau trợ từ thứ nhất.",
           "Vậy could (trợ từ 1) evntually (Adv) damage (Verb) là đúng."
         ],
         "refs": [171]
@@ -14669,7 +14669,7 @@
       {"a": "time schedule", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Ðể tránh bị nghẽn mạch máu, nhiều bác sĩ đã khuyên bệnh nhân chấn chỉnh lại mỗi ngày trong tuần trước khi đi, bằng cách sau mỗi giờ ngồi lâu phải năng đi lại khởi động theo thời khóa biểu đã định.",
+    "vi": "Để tránh bị nghẽn mạch máu, nhiều bác sĩ đã khuyên bệnh nhân chấn chỉnh lại mỗi ngày trong tuần trước khi đi, bằng cách sau mỗi giờ ngồi lâu phải năng đi lại khởi động theo thời khóa biểu đã định.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -14885,11 +14885,11 @@
       {"a": "in spite of", "alt": [], "n": 1}
     ],
     "answer": "b",
-    "vi": "Ðang ly hôn, cô ấy không thể mở tài khoản mới, mặc dù cô ấy có thu nhập cao.",
+    "vi": "Đang ly hôn, cô ấy không thể mở tài khoản mới, mặc dù cô ấy có thu nhập cao.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
-        "lines": ["Ðã bị ly dị, ta phải dùng Perfect Gerund in Passive (having been + PP)."],
+        "lines": ["Đã bị ly dị, ta phải dùng Perfect Gerund in Passive (having been + PP)."],
         "refs": [71]
       },
       {
@@ -14926,7 +14926,7 @@
       {"a": "for questioning", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Ðang âm mưu buôn lậu ma túy vào nước, họ bị hải quan thẩm tra và giải về chỉ huy công an để thẩm vấn.",
+    "vi": "Đang âm mưu buôn lậu ma túy vào nước, họ bị hải quan thẩm tra và giải về chỉ huy công an để thẩm vấn.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -15220,7 +15220,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðầu câu dùng Verbal Noun to control nay cùng một mạch câu mà dùng Gerund making là sai. Vậy phải sửa là and to make."
+          "Đầu câu dùng Verbal Noun to control nay cùng một mạch câu mà dùng Gerund making là sai. Vậy phải sửa là and to make."
         ],
         "refs": [153, 39]
       },
@@ -15403,7 +15403,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðang dùng một loạt Noun, bỗng nhiên lại dùng Participle Phrase <signing your name> là sai.",
+          "Đang dùng một loạt Noun, bỗng nhiên lại dùng Participle Phrase <signing your name> là sai.",
           "Vậy phải sửa là the signature (N)."
         ],
         "refs": []
@@ -15459,7 +15459,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðầu câu đã dùng (Verbal noun) to read thì phía sau không được đổi sang (Gerund) being. Vậy sửa là to read literature and to be introduced..."
+          "Đầu câu đã dùng (Verbal noun) to read thì phía sau không được đổi sang (Gerund) being. Vậy sửa là to read literature and to be introduced..."
         ],
         "refs": [153, 39]
       },
@@ -15521,7 +15521,7 @@
         ],
         "refs": [223]
       },
-      {"head": "Câu D đúng vì:", "lines": ["Ðại từ one thay cho request."], "refs": [226]}
+      {"head": "Câu D đúng vì:", "lines": ["Đại từ one thay cho request."], "refs": [226]}
     ],
     "refs": [157, 138, 150, 223, 226]
   },
@@ -15710,7 +15710,7 @@
       {"a": "for", "alt": [], "n": 1}
     ],
     "answer": "c",
-    "vi": "Ðể chữa bệnh tiêu chảy nhẹ, nên uống nhiều dung dịch, đặc biệt là trà, nước lọc, và thức uống chứa carbonat.\nNên ăn cháo, da ua, bánh quy mặn, chuối, và kiêng sữa bơ, trứng, thịt khoảng 24 tiếng đồng hồ.",
+    "vi": "Để chữa bệnh tiêu chảy nhẹ, nên uống nhiều dung dịch, đặc biệt là trà, nước lọc, và thức uống chứa carbonat.\nNên ăn cháo, da ua, bánh quy mặn, chuối, và kiêng sữa bơ, trứng, thịt khoảng 24 tiếng đồng hồ.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -15723,7 +15723,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðang dùng mệnh lệnh cách lại chuyển sang Gerund avoiding là sai. Vậy sửa là avoid."
+          "Đang dùng mệnh lệnh cách lại chuyển sang Gerund avoiding là sai. Vậy sửa là avoid."
         ],
         "refs": [38, 153]
       },
@@ -15836,7 +15836,7 @@
       {"a": "had finished", "alt": [], "n": 1}
     ],
     "answer": "d",
-    "vi": "Jim đã du lịch ở Arizona tham quan những di tích Ấn Ðộ và hoàn tất vài bức tranh mà hắn đã bắt đầu vẽ từ năm ngoái.",
+    "vi": "Jim đã du lịch ở Arizona tham quan những di tích Ấn Độ và hoàn tất vài bức tranh mà hắn đã bắt đầu vẽ từ năm ngoái.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -15960,7 +15960,7 @@
       {"a": "the House of Representatives", "alt": [], "n": 1}
     ],
     "answer": "d",
-    "vi": "Ðể trở thành một đạo luật, một bản dự thảo phải được thông qua không chỉ thượng viện mà còn hạ viện.",
+    "vi": "Để trở thành một đạo luật, một bản dự thảo phải được thông qua không chỉ thượng viện mà còn hạ viện.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -16025,7 +16025,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðang là Adv safely/ efficiently thì sau and phải cùng Adv dùng Noun là sai. Phải sửa là easily thay vì with ease (Noun)."
+          "Đang là Adv safely/ efficiently thì sau and phải cùng Adv dùng Noun là sai. Phải sửa là easily thay vì with ease (Noun)."
         ],
         "refs": []
       }
@@ -16045,7 +16045,7 @@
       {"a": "demonstrated", "alt": [], "n": 1}
     ],
     "answer": "c",
-    "vi": "Ðánh giá một sản phẩm mới không chỉ về mặt kinh tế và quảng cáo mà còn về mặt chất lượng sản phẩm.",
+    "vi": "Đánh giá một sản phẩm mới không chỉ về mặt kinh tế và quảng cáo mà còn về mặt chất lượng sản phẩm.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -16214,7 +16214,7 @@
       {"a": "in an impartial manner", "alt": [], "n": 1}
     ],
     "answer": "d",
-    "vi": "Ðược ủy nhiệm của hội đồng liên hiệp quốc với nhiệm kỳ 5 năm, tổng thư ký liên hiệp quốc phải làm việc một cách vô tư đối với các nước hội viên.",
+    "vi": "Được ủy nhiệm của hội đồng liên hiệp quốc với nhiệm kỳ 5 năm, tổng thư ký liên hiệp quốc phải làm việc một cách vô tư đối với các nước hội viên.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -16444,7 +16444,7 @@
     "expl": [
       {
         "head": "Câu A đúng vì:",
-        "lines": ["add: thêm vào, gia tăng...", "Ðộng từ ở số nhiều vì chủ từ là Homestays."],
+        "lines": ["add: thêm vào, gia tăng...", "Động từ ở số nhiều vì chủ từ là Homestays."],
         "refs": []
       },
       {
@@ -16481,7 +16481,7 @@
     "expl": [
       {
         "head": "Câu A sai vì:",
-        "lines": ["Ðại từ liên quan Relative Pronoun không phải là he mà là who."],
+        "lines": ["Đại từ liên quan Relative Pronoun không phải là he mà là who."],
         "refs": [134]
       },
       {
@@ -17331,7 +17331,7 @@
       {
         "head": "Câu C đúng vì:",
         "lines": [
-          "Ðầu câu nêu sau khi cố gắng vậy lost phải chia ở Simple Past chứng tỏ việc đã ở quá khứ."
+          "Đầu câu nêu sau khi cố gắng vậy lost phải chia ở Simple Past chứng tỏ việc đã ở quá khứ."
         ],
         "refs": [11, 16]
       },
@@ -17435,9 +17435,9 @@
         "head": "Câu B đúng vì:",
         "lines": [
           "Adv cuối là ly có 3 vị trí:",
-          "- Ðứng cuối câu.",
-          "- Ðứng trước Verb.",
-          "- Ðứng sau trợ. từ thứ một conclusively bổ nghĩa <has not been proven>."
+          "- Đứng cuối câu.",
+          "- Đứng trước Verb.",
+          "- Đứng sau trợ. từ thứ một conclusively bổ nghĩa <has not been proven>."
         ],
         "refs": [171]
       },
@@ -18014,7 +18014,7 @@
       {
         "head": "Câu C đúng vì:",
         "lines": [
-          "Ðối với danh từ không đếm được như food ta dùng Determiner no + Noun chứ không dùng there is not food."
+          "Đối với danh từ không đếm được như food ta dùng Determiner no + Noun chứ không dùng there is not food."
         ],
         "refs": [138, 224, 341, 342]
       },
@@ -18409,7 +18409,7 @@
       },
       {
         "head": "Câu D đúng vì:",
-        "lines": ["Ði sau giới từ without Verb phải là Gerund feeling chứ không thể to feel."],
+        "lines": ["Đi sau giới từ without Verb phải là Gerund feeling chứ không thể to feel."],
         "refs": [183, 153]
       }
     ],
@@ -18717,7 +18717,7 @@
       {
         "head": "Câu D đúng vì:",
         "lines": [
-          "Ðộng từ referred luôn theo sau bởi giới từ to không đi với bất cứ giới từ nào khác."
+          "Động từ referred luôn theo sau bởi giới từ to không đi với bất cứ giới từ nào khác."
         ],
         "refs": []
       }
@@ -18845,7 +18845,7 @@
         "head": "Câu D đúng vì:",
         "lines": [
           "stolen giản lược chữ had đứng trên nó.",
-          "Ðáng lẽ <and had stolen her car> nhưng vì ở phiá trên đã có Past Perfect <had broken into> gài vào nên không lập lại trợ từ had nữa."
+          "Đáng lẽ <and had stolen her car> nhưng vì ở phiá trên đã có Past Perfect <had broken into> gài vào nên không lập lại trợ từ had nữa."
         ],
         "refs": []
       }
@@ -18985,7 +18985,7 @@
       {"a": "Olympic Games", "alt": [], "n": 1}
     ],
     "answer": "b",
-    "vi": "Ðây là vận động viên mà người ta tin rằng anh sẽ đoạt huy chương vàng ở thế vận hội mùa đông.",
+    "vi": "Đây là vận động viên mà người ta tin rằng anh sẽ đoạt huy chương vàng ở thế vận hội mùa đông.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -19147,7 +19147,7 @@
       {"a": "one", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Ðiều cần thiết là những lãnh đạo phải ký mọi văn bản chứ không chỉ bản trên cùng.",
+    "vi": "Điều cần thiết là những lãnh đạo phải ký mọi văn bản chứ không chỉ bản trên cùng.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -19182,7 +19182,7 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðây là một câu dùng để nuối tiếc một việc đã không xảy ra ở quá khứ nên ta có công thức:",
+          "Đây là một câu dùng để nuối tiếc một việc đã không xảy ra ở quá khứ nên ta có công thức:",
           "should (đã nên) + have + PP",
           "Câu nghĩa là (tiếc nuối) Bạn (đã) nên để con nít ở phía trước của bạn.",
           "Vậy sửa là: should have + sent (PP)."
@@ -19293,13 +19293,13 @@
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðây là loại Tag Question do đó Verb vế đầu là is working đuôi không thể là does it."
+          "Đây là loại Tag Question do đó Verb vế đầu là is working đuôi không thể là does it."
         ],
         "refs": [34]
       },
       {
         "head": "Câu B sai vì:",
-        "lines": ["Ðộng từ vế đầu là is working đuôi không thể là doesn't it."],
+        "lines": ["Động từ vế đầu là is working đuôi không thể là doesn't it."],
         "refs": [34]
       },
       {
@@ -19836,7 +19836,7 @@
         "refs": [217, 223]
       },
       {"head": "Câu C sai vì:", "lines": ["Also là Adv không đi với or."], "refs": [239]},
-      {"head": "Câu D sai vì:", "lines": ["Ðể not thì mệnh đề có 2 phủ định sai."], "refs": [40]}
+      {"head": "Câu D sai vì:", "lines": ["Để not thì mệnh đề có 2 phủ định sai."], "refs": [40]}
     ],
     "refs": [70, 223, 217, 239, 40]
   },
@@ -19972,7 +19972,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "Ðộng từ Object to (phản đối).",
+          "Động từ Object to (phản đối).",
           "Cấu trúc: to Object to + Gerund (ing form) to Object to + Determiner (my/your/his/her/its/our... ) + Gerund",
           "Vậy your waiting (Gerund) là đúng."
         ],
@@ -20310,7 +20310,7 @@
         "lines": [
           "unless: trừ phi...",
           "unless là một liên từ, theo sau nó phải là một mệnh đề.",
-          "Ðây chỉ có Ellen là danh từ riêng (Proper Noun) không phải mệnh đề."
+          "Đây chỉ có Ellen là danh từ riêng (Proper Noun) không phải mệnh đề."
         ],
         "refs": [174, 178]
       },
@@ -20452,7 +20452,7 @@
     "tt": 10,
     "choices": ["shall have left", "will leave", "am leaving", "have already left"],
     "answer": "a",
-    "vi": "Trước lúc bạn đến San Francisco vào ngày mai, tôi đã đi Ðông Nam á.",
+    "vi": "Trước lúc bạn đến San Francisco vào ngày mai, tôi đã đi Đông Nam á.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -20494,12 +20494,12 @@
     "tt": 10,
     "choices": ["with", "on", "at", "in"],
     "answer": "b",
-    "vi": "Ðể thực thi, chúng ta phải đồng ý một kế hoạch hành động.",
+    "vi": "Để thực thi, chúng ta phải đồng ý một kế hoạch hành động.",
     "expl": [
       {
         "head": "Câu A sai vì:",
         "lines": [
-          "Ðộng từ agree: đồng ý với người nào ta dùng giới từ with nhưng đồng ý về một vật / một sự việc thì dùng on something",
+          "Động từ agree: đồng ý với người nào ta dùng giới từ with nhưng đồng ý về một vật / một sự việc thì dùng on something",
           "Vậy with a plan là sai."
         ],
         "refs": [167]
@@ -20509,8 +20509,8 @@
         "lines": ["on a plan là đúng vì a plan là một vật."],
         "refs": [190]
       },
-      {"head": "Câu C sai vì:", "lines": ["Ðộng từ agree không đi với at."], "refs": [167]},
-      {"head": "Câu D sai vì:", "lines": ["Ðộng từ agree không đi với in."], "refs": [167]}
+      {"head": "Câu C sai vì:", "lines": ["Động từ agree không đi với at."], "refs": [167]},
+      {"head": "Câu D sai vì:", "lines": ["Động từ agree không đi với in."], "refs": [167]}
     ],
     "refs": [167, 190]
   },
@@ -20824,7 +20824,7 @@
         "head": "Câu A sai vì:",
         "lines": [
           "worked chia ở Simple Past: là đã làm việc ở Virginia.",
-          "Ðồng thời với việc đi khỏi New Hampshire 2 hành động không nêu lên một việc có trước và một việc có sau."
+          "Đồng thời với việc đi khỏi New Hampshire 2 hành động không nêu lên một việc có trước và một việc có sau."
         ],
         "refs": [11, 16, 25]
       },
@@ -20859,7 +20859,7 @@
     "tt": 10,
     "choices": ["sooner", "yet", "already", "until now"],
     "answer": "b",
-    "vi": "Ðã đến lúc bắt đầu cuộc thuyết trình chưa? -Chưa.",
+    "vi": "Đã đến lúc bắt đầu cuộc thuyết trình chưa? -Chưa.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -20943,7 +20943,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "Ðộng từ nào sau động từ enjoy đều phải trở thành Gerund.",
+          "Động từ nào sau động từ enjoy đều phải trở thành Gerund.",
           "(ing form) nên studying là đúng."
         ],
         "refs": [53, 153]
@@ -20958,7 +20958,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðộng từ nào sau động từ enjoy đều phải trở thành Gerund.",
+          "Động từ nào sau động từ enjoy đều phải trở thành Gerund.",
           "Không thể to study được mà phải là studying."
         ],
         "refs": [53, 153]
@@ -20966,7 +20966,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðộng từ nào sau động từ enjoy đều phải trở thành Gerund.",
+          "Động từ nào sau động từ enjoy đều phải trở thành Gerund.",
           "study là Bare Infinitive không phải Gerund."
         ],
         "refs": [53, 153]
@@ -21029,7 +21029,7 @@
       {
         "head": "Câu B đúng vì:",
         "lines": [
-          "Ðối với thì bán quá khứ liên tiến (Present Perfect Continuous) ta có 2 trợ từ và 1 hiện tại phân từ. Vậy muốn đặt câu hỏi ta để trợ từ thứ 1 đứng đầu, rồi đến chủ từ, rồi đến trợ từ thứ 2 sau chót mới là pr.p (hiện tại phân từ).",
+          "Đối với thì bán quá khứ liên tiến (Present Perfect Continuous) ta có 2 trợ từ và 1 hiện tại phân từ. Vậy muốn đặt câu hỏi ta để trợ từ thứ 1 đứng đầu, rồi đến chủ từ, rồi đến trợ từ thứ 2 sau chót mới là pr.p (hiện tại phân từ).",
           "Has Paul been practising trợ từ 1 chủ từ trợ từ 2 hiện tại phân từ."
         ],
         "refs": [34]
@@ -21238,7 +21238,7 @@
     "expl": [
       {
         "head": "Câu A đúng vì:",
-        "lines": ["Ðây là câu điều kiện nên có từ If mở đầu."],
+        "lines": ["Đây là câu điều kiện nên có từ If mở đầu."],
         "refs": [42]
       },
       {
@@ -21449,7 +21449,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "asked là PP câu when asked his position on tariffs là một mệnh đề ẩn lược. Ðáng lẽ là when:",
+          "asked là PP câu when asked his position on tariffs là một mệnh đề ẩn lược. Đáng lẽ là when:",
           "<he was asked his position on tariffs>.",
           "Vậy <when asked his position on tariffs> lại trở thành một Adv Phrase of time, bổ nghĩa cho replied."
         ],
@@ -21766,7 +21766,7 @@
       {"a": "on", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Ðó là tôi, người mà anh đã thấy trên xe lửa.",
+    "vi": "Đó là tôi, người mà anh đã thấy trên xe lửa.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -21995,7 +21995,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "as well as (cũng như) là một cụm Adj bổ nghĩa cho Peter nhưng không ảnh hưởng gì đến động từ trong câu. Ðộng từ phải chia theo ngôi của chủ từ đầu tiên là Peter dù rằng trong cụm tính từ as well as... có rất nhiều danh từ số ít hoặc số nhiều."
+          "as well as (cũng như) là một cụm Adj bổ nghĩa cho Peter nhưng không ảnh hưởng gì đến động từ trong câu. Động từ phải chia theo ngôi của chủ từ đầu tiên là Peter dù rằng trong cụm tính từ as well as... có rất nhiều danh từ số ít hoặc số nhiều."
         ],
         "refs": [176]
       },
@@ -22176,7 +22176,7 @@
       {
         "head": "Câu A đúng vì:",
         "lines": [
-          "Ðây là thì điều kiện 3 (điều kiện không thực hiện được, hoặc trái với sự thật). Mở đầu bằng liên từ chỉ điều kiện If",
+          "Đây là thì điều kiện 3 (điều kiện không thực hiện được, hoặc trái với sự thật). Mở đầu bằng liên từ chỉ điều kiện If",
           "(thường gọi là If Clause)."
         ],
         "refs": [42, 11]
@@ -22442,7 +22442,7 @@
       {
         "head": "Câu D đúng vì:",
         "lines": [
-          "Passive Voice was launched cần tác nhân (agent), nên by + tác nhân (the Soviet Union). Ðứng trước tác nhân bao giờ cũng là giới từ by."
+          "Passive Voice was launched cần tác nhân (agent), nên by + tác nhân (the Soviet Union). Đứng trước tác nhân bao giờ cũng là giới từ by."
         ],
         "refs": [47, 204]
       }
@@ -22505,7 +22505,7 @@
       {"a": "to visit", "alt": [], "n": 1}
     ],
     "answer": "b",
-    "vi": "Bây giờ Frank và Cathy đang du lịch ở châu Âu, họ định thăm Ðức, Pháp và Tây Ban Nha.",
+    "vi": "Bây giờ Frank và Cathy đang du lịch ở châu Âu, họ định thăm Đức, Pháp và Tây Ban Nha.",
     "expl": [
       {
         "head": "Câu A đúng vì:",
@@ -22630,7 +22630,7 @@
     "vi": "Elizabeth, bạn có vui lòng làm một câu sử dụng từ accept không? -Có, tôi sẽ làm.",
     "expl": [
       {
-        "head": "Câu A đúng vì: will you please là một thành ngữ (idiom) dùng để yêu cầu ai điều gì một cách lịch sự. Ðây là loại dùng câu hỏi để yêu cầu, Ex: Can I help you? Bạn cần gì? = What would you like?",
+        "head": "Câu A đúng vì: will you please là một thành ngữ (idiom) dùng để yêu cầu ai điều gì một cách lịch sự. Đây là loại dùng câu hỏi để yêu cầu, Ex: Can I help you? Bạn cần gì? = What would you like?",
         "lines": ["= What would you need? = What do you want?"],
         "refs": []
       },
@@ -22646,7 +22646,7 @@
         "lines": [
           "<using the word accept> là cụm tính từ bổ nghĩa cho chủ từ you thay cho cả một mệnh đề you use the word accept.",
           "Ex:",
-          "Ðáng lẽ phải nói 2 mệnh đề: - My father stands at the door.",
+          "Đáng lẽ phải nói 2 mệnh đề: - My father stands at the door.",
           "- My father smokes a cigarette.",
           "Ta dùng cụm tính từ ing form để xóa bỏ bớt một mệnh đề <Standing at the door>, my father smokes a cigarette.",
           "<Adj Phrase> bổ nghĩa <Subject>."
@@ -22872,7 +22872,7 @@
       {
         "head": "Câu C sai vì:",
         "lines": [
-          "Ðộng từ were (ngôi 3 số nhiều) mà chủ từ là the part (ngôi 3 số ít). Vậy phải sửa là was."
+          "Động từ were (ngôi 3 số nhiều) mà chủ từ là the part (ngôi 3 số ít). Vậy phải sửa là was."
         ],
         "refs": [16]
       },
@@ -22956,7 +22956,7 @@
           "She is the most beautiful in her family/among the...",
           "Hoặc là: She is the laziest of all",
           "She is the most beautiful of all.",
-          "2) Ðặt trước noun: She is the laziest + girl",
+          "2) Đặt trước noun: She is the laziest + girl",
           "She is the most beautiful + girl",
           "3) Ta ẩn lược danh từ đằng sau tính từ ở cực cấp:",
           "- She is the laziest (ẩn lược một noun).",
@@ -23066,12 +23066,12 @@
         "lines": [
           "and là liên từ dùng nối 2 mệnh đề, nhưng thường đặt trước mệnh đề sau cùng.",
           "Ex: Bữa nay Jane đi học, Bob đi chợ và tôi đi lễ.",
-          "Ðừng nói:",
+          "Đừng nói:",
           "- Today Jane goes to shool and Bob goes to market and I go to church.",
           "Tránh dùng 2 liên từ and trong cùng một câu có nhiều mệnh đề.",
           "Vậy sửa là:",
           "- Today Jane goes to school when Bob goes to market and I go to church.",
-          "Ðừng nói:",
+          "Đừng nói:",
           "- I eat lunch with eggs and fish and potatoes and salad.",
           "Phải sửa là:",
           "- I eat lunch with eggs, fish, potatoes and salad.",
@@ -23202,7 +23202,7 @@
       {
         "head": "Câu B sai vì:",
         "lines": [
-          "Ðầu câu có Adv now mà arrived chia ở Simple Past là sai, phải sửa là arrives Present ngôi 3 số ít, vì chủ từ là newspaper."
+          "Đầu câu có Adv now mà arrived chia ở Simple Past là sai, phải sửa là arrives Present ngôi 3 số ít, vì chủ từ là newspaper."
         ],
         "refs": [16]
       },
@@ -23460,7 +23460,7 @@
       {"a": "of a", "alt": [], "n": 1}
     ],
     "answer": "a",
-    "vi": "Câu \"Ðừng hỏi tại sao.\" đang là câu trích dẫn nổi tiếng khi bắt đầu câu chuyện.",
+    "vi": "Câu \"Đừng hỏi tại sao.\" đang là câu trích dẫn nổi tiếng khi bắt đầu câu chuyện.",
     "expl": [
       {
         "head": "Câu A sai vì:",
@@ -23731,7 +23731,7 @@
         "head": "Câu D đúng vì:",
         "lines": [
           "<to open a special checking accounts> là một Adv Phrase chỉ mục đích bổ nghĩa cho to see xem xét để làm gì?",
-          "Trả lời: Ðể mở..."
+          "Trả lời: Để mở..."
         ],
         "refs": [178, 41]
       }
@@ -23786,7 +23786,7 @@
           "Mà phải nói: The leg of the table (cái chân bàn).",
           "Vậy câu D phải sửa là:",
           "<was identified as the prime minister's father>",
-          "(Ðược nhận dạng như là cha của ông Thủ Tướng)."
+          "(Được nhận dạng như là cha của ông Thủ Tướng)."
         ],
         "refs": [61, 60]
       }
@@ -23859,7 +23859,7 @@
         "lines": [
           "is from = ở nơi nào, từ nơi nào đến đây...",
           "Khi chủ từ là đại từ phiếm chỉ everyone/everybody thì động từ bắt buộc phải ở ngôi 3 số ít là is.",
-          "Ðừng vì tiếng Việt dịch là mỗi người."
+          "Đừng vì tiếng Việt dịch là mỗi người."
         ],
         "refs": [151, 150]
       },
@@ -24102,7 +24102,7 @@
       {
         "head": "Câu D đúng vì:",
         "lines": [
-          "Ðáng lẽ to travel nhưng vì Verb travel theo sau idiom would rather... than nên phải dùng Bare Infinitive travel."
+          "Đáng lẽ to travel nhưng vì Verb travel theo sau idiom would rather... than nên phải dùng Bare Infinitive travel."
         ],
         "refs": [321, 39]
       }
@@ -24240,7 +24240,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðộng từ to buy something chia ở Past Perfect không phải had boughten là sai mà sửa lại had bought (buy/ bought (Past)/ bought (PP)/ buying (pr.p)."
+          "Động từ to buy something chia ở Past Perfect không phải had boughten là sai mà sửa lại had bought (buy/ bought (Past)/ bought (PP)/ buying (pr.p)."
         ],
         "refs": [74]
       }
@@ -24281,7 +24281,7 @@
         "head": "Câu D đúng vì:",
         "lines": [
           "did he? (phải không) là phần đuôi của một Tag Question",
-          "He didn't say... did he? Ðừng lầm với did he? là phần đuôi của:",
+          "He didn't say... did he? Đừng lầm với did he? là phần đuôi của:",
           "<he would bring the book tomorrow, did he?>"
         ],
         "refs": [34]
@@ -24501,7 +24501,7 @@
       {
         "head": "Câu D sai vì:",
         "lines": [
-          "Ðiểm sai của cụm từ này rất khó nhận ra vì ta không muốn dùng 2 hoặc 3 liên từ and trong một câu.",
+          "Điểm sai của cụm từ này rất khó nhận ra vì ta không muốn dùng 2 hoặc 3 liên từ and trong một câu.",
           "Ex:",
           "We needed eggs and cheese and bacon, theo cấu trúc đúng, thì ta chỉ dùng and đứng trước một từ nào đó ở sau cùng, còn những từ ở trước không dùng liên từ and nối mà thay vào là một dấu phẩy.",
           "Vậy câu này sẽ sửa là: we needed eggs, cheese and bacon.",
@@ -24740,7 +24740,7 @@
         "head": "Câu D đúng vì:",
         "lines": [
           "before ở đây là liên từ (không phải giới từ) nối 2 mệnh đề.",
-          "Ðáng lẽ before my aunt would arrive nhưng sau các liên từ chỉ thời gian (before/after/ntil/as soon as/by the time v.v... ) cấm dùng Future in the Past nên phải xóa bỏ would và động từ phải trở về Simple Past."
+          "Đáng lẽ before my aunt would arrive nhưng sau các liên từ chỉ thời gian (before/after/ntil/as soon as/by the time v.v... ) cấm dùng Future in the Past nên phải xóa bỏ would và động từ phải trở về Simple Past."
         ],
         "refs": [179, 173, 174, 178, 16]
       }

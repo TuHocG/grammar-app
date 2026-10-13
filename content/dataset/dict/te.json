@@ -780,8 +780,8 @@
         "t": "my parents taught me never to tell lies",
         "vi": "bố mẹ tôi dạy tôi không bao giờ được nói dối"
       },
-      {"k": "ex", "t": "Christ taught forgiveness", "vi": "Ðức Giê-su dạy lòng khoan dung"},
-      {"k": "m", "t": "Ðức Giê-su chủ trương khoan dung"},
+      {"k": "ex", "t": "Christ taught forgiveness", "vi": "Đức Giê-su dạy lòng khoan dung"},
+      {"k": "m", "t": "Đức Giê-su chủ trương khoan dung"},
       {"k": "pos", "t": "thành ngữ"},
       {
         "k": "m",
@@ -795,7 +795,7 @@
       {
         "k": "ex",
         "t": "So you lost all your money? That'll teach you to gamble",
-        "vi": "Anh thua hết tiền rồi phải không? Ðiều đó sẽ dạy cho anh đừng có đánh bạc"
+        "vi": "Anh thua hết tiền rồi phải không? Điều đó sẽ dạy cho anh đừng có đánh bạc"
       },
       {"k": "pos", "t": "nội động từ"},
       {"k": "m", "t": "làm giáo viên"},
@@ -3999,7 +3999,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cuộc cách mạng công nghệ. Một loạt tiến bộ về kỹ thuật được tiến hành ở nửa sau thế kỷ 20 trong ngành công nghiệp chế tạo, nông nghiệp, y học, và thông tin liên lạc (xem Cuộc cách mạng thông tin liên lạc), cung cấp năng lượng và quân sự. Cuộc cách mạng công nghiệp và tự động hóa làm thay đổi nền kinh tế quốc gia. Thay đổi này tăng lên một cách đáng kể do sự phát triển của nền công nghiệp công nghệ cao từ Chiến tranh thế giới thứ II. Năng suất, thành công và tăng trưởng kinh tế của các quốc gia đã phản ánh sự phát triển hay nói cách khác là của nền công nghiệp điện tử, không gian vũ trụ, hóa học và công nghệ sinh học. Sự nghiệp bảo vệ đất nước dựa vào công nghệ quân sự tối tân dành cho vũ khí và tình báo. Chăm sóc sức khỏe tăng lên, phụ thuộc vào thiết bị tinh vi và quy trình điều trị cũng như các loại dược phẩm cao cấp. Thông tin lan rộng khắp toàn cầu thông qua mạng lưới liên lạc viễn thông phức tạp. Các công việc trong lĩnh vực chế tạo và dịch vụ trở nên độc lập với máy vi tính và kỹ thuật tự động hóa. Thậm chí chất lượng của thời gian nhàn rỗi tăng lên. Ở các quốc gia có nền công nghệ tiên tiến, chúng dựa trên công nghệ điện tử tiêu dùng và những tiến bộ của kỹ thuật công nghệ trong ngành công nghiệp giải trí. Sự đầu tư cho ngành công nghiệp công nghệ cao mang tính khả thi đầu tiên là ở Nhật Bản, Hoa Kỳ và Châu Âu. Sau đó là những nước ở Vành đai Thái Bình Dương của Ðông Á (Nam Triều Tiên, Ðài Loan). Họ đã đạt được sự phồn thịnh chưa từng có. Trái lại, nền kinh tế của các nước kém phát triển được đầu tư chủ yếu vào các ngành công nghiệp nặng và phương thức sản xuất thủ công lỗi thời, trở nên không thể tồn tại được. Ngày nay, thị trường thế giới dành riêng cho ngành công nghiệp điện tử đã trị giá $750 tỉ và có thể đạt đến $2 nghìn tỉ (2 triệu triệu) vào năm 2000. Với những thị trường ngày càng mang tính cạnh tranh cao, sự phát triển trong tương lai của công nghệ được thể hiện dưới dạng những consortia, liên minh, và các tổ chức hợp tác và cạnh tranh cùng lúc."
+        "t": "Cuộc cách mạng công nghệ. Một loạt tiến bộ về kỹ thuật được tiến hành ở nửa sau thế kỷ 20 trong ngành công nghiệp chế tạo, nông nghiệp, y học, và thông tin liên lạc (xem Cuộc cách mạng thông tin liên lạc), cung cấp năng lượng và quân sự. Cuộc cách mạng công nghiệp và tự động hóa làm thay đổi nền kinh tế quốc gia. Thay đổi này tăng lên một cách đáng kể do sự phát triển của nền công nghiệp công nghệ cao từ Chiến tranh thế giới thứ II. Năng suất, thành công và tăng trưởng kinh tế của các quốc gia đã phản ánh sự phát triển hay nói cách khác là của nền công nghiệp điện tử, không gian vũ trụ, hóa học và công nghệ sinh học. Sự nghiệp bảo vệ đất nước dựa vào công nghệ quân sự tối tân dành cho vũ khí và tình báo. Chăm sóc sức khỏe tăng lên, phụ thuộc vào thiết bị tinh vi và quy trình điều trị cũng như các loại dược phẩm cao cấp. Thông tin lan rộng khắp toàn cầu thông qua mạng lưới liên lạc viễn thông phức tạp. Các công việc trong lĩnh vực chế tạo và dịch vụ trở nên độc lập với máy vi tính và kỹ thuật tự động hóa. Thậm chí chất lượng của thời gian nhàn rỗi tăng lên. Ở các quốc gia có nền công nghệ tiên tiến, chúng dựa trên công nghệ điện tử tiêu dùng và những tiến bộ của kỹ thuật công nghệ trong ngành công nghiệp giải trí. Sự đầu tư cho ngành công nghiệp công nghệ cao mang tính khả thi đầu tiên là ở Nhật Bản, Hoa Kỳ và Châu Âu. Sau đó là những nước ở Vành đai Thái Bình Dương của Đông Á (Nam Triều Tiên, Đài Loan). Họ đã đạt được sự phồn thịnh chưa từng có. Trái lại, nền kinh tế của các nước kém phát triển được đầu tư chủ yếu vào các ngành công nghiệp nặng và phương thức sản xuất thủ công lỗi thời, trở nên không thể tồn tại được. Ngày nay, thị trường thế giới dành riêng cho ngành công nghiệp điện tử đã trị giá $750 tỉ và có thể đạt đến $2 nghìn tỉ (2 triệu triệu) vào năm 2000. Với những thị trường ngày càng mang tính cạnh tranh cao, sự phát triển trong tương lai của công nghệ được thể hiện dưới dạng những consortia, liên minh, và các tổ chức hợp tác và cạnh tranh cùng lúc."
       }
     ],
     "k": "technological revolution"
@@ -4214,7 +4214,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hợp đồng chuyển giao công nghệ. Văn bản về chuyển giao công nghệ cho nhau. Hợp đồng chuyển giao công nghệ phải được lập thành văn bản và phải đăng ký hoặc xin phép cơ quan nhà nước có thẩm quyền nếu pháp luật có quy định (Ðiều 809 Bộ luật dân sự). Tùy theo đối tượng của hợp đồng chuyển giao công nghệ mà các bên có thể thỏa thuận các nội dung chủ yếu sau đây: nội dung công nghệ, chất lượng công nghệ, thời hạn và địa điểm chuyển giao công nghệ, phạm vi và mức độ giữ bí mật công nghệ, giá cả và phương thức thanh toán, trách nhiệm của các bên về bảo vệ công nghệ, nghĩa vụ hợp tác và thông tin của các bên (Ðiều 812 Bộ luật dân sự)."
+        "t": "hợp đồng chuyển giao công nghệ. Văn bản về chuyển giao công nghệ cho nhau. Hợp đồng chuyển giao công nghệ phải được lập thành văn bản và phải đăng ký hoặc xin phép cơ quan nhà nước có thẩm quyền nếu pháp luật có quy định (Điều 809 Bộ luật dân sự). Tùy theo đối tượng của hợp đồng chuyển giao công nghệ mà các bên có thể thỏa thuận các nội dung chủ yếu sau đây: nội dung công nghệ, chất lượng công nghệ, thời hạn và địa điểm chuyển giao công nghệ, phạm vi và mức độ giữ bí mật công nghệ, giá cả và phương thức thanh toán, trách nhiệm của các bên về bảo vệ công nghệ, nghĩa vụ hợp tác và thông tin của các bên (Điều 812 Bộ luật dân sự)."
       }
     ],
     "k": "technology transfer contract"
@@ -4829,7 +4829,7 @@
       {
         "k": "ex",
         "t": "Don't let him tee you off. He doesn't mean any harm:",
-        "vi": "Ðừng để anh ấy làm anh tức giận. Anh ấy không có ý gì hại đâu."
+        "vi": "Đừng để anh ấy làm anh tức giận. Anh ấy không có ý gì hại đâu."
       }
     ],
     "k": "tee someone off"
@@ -5582,7 +5582,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hội nghị Teheran (28 tháng 11-1 tháng 12 năm 1943). Một cuộc họp giữa Churchill, Roosevelt, và Stalin ở thủ đô Iran. Stalin lần đầu tiên được mời đến dự cuộc họp giữa các đồng minh trong đại chiến I. Tại đây ông được thông báo về việc chuẩn bị một chiến trường thứ hai, cùng thời điểm với cuộc tấn công của Xô Viết chống lại nước Ðức. Ba vị lãnh đạo cùng bàn bạc về việc thành lập Liên hiệp quốc sau chiến tranh. Ðồng thời Stalin cũng nhanh chóng tăng cường tầm ảnh hưởng của Xô Viết ở các nước vùng Baltic và Ðông Âu, và ông cũng bảo đảm nền độc lập của Iran."
+        "t": "Hội nghị Teheran (28 tháng 11-1 tháng 12 năm 1943). Một cuộc họp giữa Churchill, Roosevelt, và Stalin ở thủ đô Iran. Stalin lần đầu tiên được mời đến dự cuộc họp giữa các đồng minh trong đại chiến I. Tại đây ông được thông báo về việc chuẩn bị một chiến trường thứ hai, cùng thời điểm với cuộc tấn công của Xô Viết chống lại nước Đức. Ba vị lãnh đạo cùng bàn bạc về việc thành lập Liên hiệp quốc sau chiến tranh. Đồng thời Stalin cũng nhanh chóng tăng cường tầm ảnh hưởng của Xô Viết ở các nước vùng Baltic và Đông Âu, và ông cũng bảo đảm nền độc lập của Iran."
       }
     ],
     "k": "teheran conference"
@@ -5865,7 +5865,7 @@
     "ipa": ",telis'θi:siə",
     "k": "telaesthesia"
   },
-  {"h": "telalgia", "segs": [{"k": "m", "t": "Ðiểm đau xa."}], "k": "telalgia"},
+  {"h": "telalgia", "segs": [{"k": "m", "t": "Điểm đau xa."}], "k": "telalgia"},
   {
     "h": "telamon",
     "segs": [
@@ -7648,10 +7648,10 @@
     ],
     "k": "telemundo"
   },
-  {"h": "telencephal", "segs": [{"k": "m", "t": "Ðoan não."}], "k": "telencephal"},
+  {"h": "telencephal", "segs": [{"k": "m", "t": "Đoan não."}], "k": "telencephal"},
   {"h": "telencephalic", "segs": [{"k": "m", "t": "(thuộc) đoan não."}], "k": "telencephalic"},
-  {"h": "telencephalization", "segs": [{"k": "m", "t": "Ðoan não hóa."}], "k": "telencephalization"},
-  {"h": "telencephalon", "segs": [{"k": "m", "t": "Ðoan não."}], "k": "telencephalon"},
+  {"h": "telencephalization", "segs": [{"k": "m", "t": "Đoan não hóa."}], "k": "telencephalization"},
+  {"h": "telencephalon", "segs": [{"k": "m", "t": "Đoan não."}], "k": "telencephalon"},
   {
     "h": "telenet",
     "segs": [
@@ -9087,10 +9087,10 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "thiết bị ghi từ xa"}],
     "k": "telerecording equipment"
   },
-  {"h": "telergic", "segs": [{"k": "m", "t": "Tác Ðộng từ xa."}], "k": "telergic"},
+  {"h": "telergic", "segs": [{"k": "m", "t": "Tác Động từ xa."}], "k": "telergic"},
   {
     "h": "telergy",
-    "segs": [{"k": "m", "t": "1. tự động tâm thần"}, {"k": "m", "t": "2. tác Ðộng từ xa (tư duy)."}],
+    "segs": [{"k": "m", "t": "1. tự động tâm thần"}, {"k": "m", "t": "2. tác Động từ xa (tư duy)."}],
     "k": "telergy"
   },
   {
@@ -10709,7 +10709,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một mô đất miêu tả mạng lưới dân cư thời cổ đại. Tên gọi xuất phát từ tiếng Arab và thường được dùng để làm thí điểm ở khu vực Trung Cận Ðông. Hiện tượng này cũng thường thấy ở nhiều khu vực khác nơi có những thành phố tồn tại từ lâu đời được xây dựng bằng gạch bùn. Những thành phố như thế đổ nát rất nhanh chóng và khó phục hồi, nên chẳng bao lâu đã dẫn đến việc tích tụ một lớp bùn lắng."
+        "t": "Một mô đất miêu tả mạng lưới dân cư thời cổ đại. Tên gọi xuất phát từ tiếng Arab và thường được dùng để làm thí điểm ở khu vực Trung Cận Đông. Hiện tượng này cũng thường thấy ở nhiều khu vực khác nơi có những thành phố tồn tại từ lâu đời được xây dựng bằng gạch bùn. Những thành phố như thế đổ nát rất nhanh chóng và khó phục hồi, nên chẳng bao lâu đã dẫn đến việc tích tụ một lớp bùn lắng."
       }
     ],
     "k": "tell",
@@ -10779,7 +10779,7 @@
       {
         "k": "ex",
         "t": "Our team is wearing red, and the other team is wearing orange. I can't tell them apart:",
-        "vi": "Ðội của chúng tôi mặc áo màu đỏ và đội kia mặc áo màu cam. Tôi không sao phân biệt được họ."
+        "vi": "Đội của chúng tôi mặc áo màu đỏ và đội kia mặc áo màu cam. Tôi không sao phân biệt được họ."
       }
     ],
     "k": "tell people apart"
@@ -10848,7 +10848,7 @@
       {
         "k": "ex",
         "t": "My watch stopped telling time, so I had to have it repaired:",
-        "vi": "Ðồng hồ của tôi đã chết máy nên tôi đã phải bỏ lại sửa."
+        "vi": "Đồng hồ của tôi đã chết máy nên tôi đã phải bỏ lại sửa."
       },
       {"k": "m", "t": "2. Có khả năng xem giờ của đồng hồ treo tường hoặc đồng hồ đeo tay."},
       {"k": "ex", "t": "Billy is only four. He can't tell time yet:", "vi": "Billy chỉ mới lên"},
@@ -11293,7 +11293,7 @@
   },
   {
     "h": "telomere",
-    "segs": [{"k": "m", "t": "Ðiểm cuối (nhiễm sắc thể), gien kết thúc."}],
+    "segs": [{"k": "m", "t": "Điểm cuối (nhiễm sắc thể), gien kết thúc."}],
     "k": "telomere"
   },
   {
@@ -11819,7 +11819,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phong trào vận động hạn chế rượu. Những chiến dịch nhằm hạn chế sử dụng rượu cồn. Các đoàn thể hạn chế xuất hiện đầu tiên ở vùng New England nước Mỹ. Tại đây vào năm 1833, có khoảng 6.000 hội hạn chế địa phương. Năm 1829, Hội hạn chế Ulster được thành lập và phong trào hạn chế rượu sau đó mở rộng ra đến xứ Scotland, Wales, Anh, Na Uy, và Thụy Ðiển. Năm 1874, Liên hiệp Phụ nữ Thiên chúa giáo hạn chế rượu được thành lập ở bang Cleveland, Ohio. Nó nhanh chóng lan rộng xuyên qua lục địa Châu Âu. Phong trào này nhằm phê phán những người đàn ông ngập chìm trong những quán rượu, tệ nạn rượu chè và mại dâm. Người ta cho rằng quyền bầu cử của nữ giới sẽ có thể kết thúc sự thoái hóa xã hội. Năm 1883, Liên hiệp trở thành tổ chức quốc tế đầu tiên của phụ nữ thế giới. Tầm ảnh hưởng rộng lớn của nó vượt xa khỏi nước Mỹ đến tận Australia và New Zealand. Hội cấm bán rượu ra đời năm 1869 ở Mỹ đã nhanh chóng trở thành một lực lượng hùng hậu của chính quyền Mỹ, nơi mà Liên đoàn chống mở quán rượu được thành lập năm 1893. Năm 1920, Liên đoàn này được Quốc hội ban hành và có hiệu lực trên toàn quốc. Ở Anh, lực lượng mạnh nhất trong việc hạn chế rượu chính là Quân đoàn vệ quốc trong những năm 1890. Luật hạn chế rượu được khởi thảo năm 1904, 1906, và 1916 trong Luật vệ quốc, để giảm bớt số lượng quán rượu, người ta cấm người dưới 18 tuổi, và áp đặt giờ giấc uống rượu. Những luật này được thông qua năm 1953 và 1961. Nhiều nước đã có nhiều dạng luật pháp liên quan đến việc tiêu thụ rượu và uống rượu được xem là bất hợp pháp ở hầu hết các quốc gia Hồi giáo."
+        "t": "Phong trào vận động hạn chế rượu. Những chiến dịch nhằm hạn chế sử dụng rượu cồn. Các đoàn thể hạn chế xuất hiện đầu tiên ở vùng New England nước Mỹ. Tại đây vào năm 1833, có khoảng 6.000 hội hạn chế địa phương. Năm 1829, Hội hạn chế Ulster được thành lập và phong trào hạn chế rượu sau đó mở rộng ra đến xứ Scotland, Wales, Anh, Na Uy, và Thụy Điển. Năm 1874, Liên hiệp Phụ nữ Thiên chúa giáo hạn chế rượu được thành lập ở bang Cleveland, Ohio. Nó nhanh chóng lan rộng xuyên qua lục địa Châu Âu. Phong trào này nhằm phê phán những người đàn ông ngập chìm trong những quán rượu, tệ nạn rượu chè và mại dâm. Người ta cho rằng quyền bầu cử của nữ giới sẽ có thể kết thúc sự thoái hóa xã hội. Năm 1883, Liên hiệp trở thành tổ chức quốc tế đầu tiên của phụ nữ thế giới. Tầm ảnh hưởng rộng lớn của nó vượt xa khỏi nước Mỹ đến tận Australia và New Zealand. Hội cấm bán rượu ra đời năm 1869 ở Mỹ đã nhanh chóng trở thành một lực lượng hùng hậu của chính quyền Mỹ, nơi mà Liên đoàn chống mở quán rượu được thành lập năm 1893. Năm 1920, Liên đoàn này được Quốc hội ban hành và có hiệu lực trên toàn quốc. Ở Anh, lực lượng mạnh nhất trong việc hạn chế rượu chính là Quân đoàn vệ quốc trong những năm 1890. Luật hạn chế rượu được khởi thảo năm 1904, 1906, và 1916 trong Luật vệ quốc, để giảm bớt số lượng quán rượu, người ta cấm người dưới 18 tuổi, và áp đặt giờ giấc uống rượu. Những luật này được thông qua năm 1953 và 1961. Nhiều nước đã có nhiều dạng luật pháp liên quan đến việc tiêu thụ rượu và uống rượu được xem là bất hợp pháp ở hầu hết các quốc gia Hồi giáo."
       }
     ],
     "k": "temperance movements"
@@ -12194,7 +12194,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự nứt do nhiệt độ"}],
     "k": "temperature cracking"
   },
-  {"h": "temperature curve", "segs": [{"k": "m", "t": "Ðường nhiệt độ."}], "k": "temperature curve"},
+  {"h": "temperature curve", "segs": [{"k": "m", "t": "Đường nhiệt độ."}], "k": "temperature curve"},
   {
     "h": "temperature cycle",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chu trình nhiệt độ"}],
@@ -13388,7 +13388,7 @@
     "ipa": "'templə",
     "k": "templar"
   },
-  {"h": "Templars", "segs": [{"k": "m", "t": "Hiệp sĩ Dòng Ðền thờ."}], "k": "templars"},
+  {"h": "Templars", "segs": [{"k": "m", "t": "Hiệp sĩ Dòng Đền thờ."}], "k": "templars"},
   {
     "h": "template",
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "templet như templet", "vi": "."}],
@@ -13591,7 +13591,7 @@
   },
   {
     "h": "temporal diameter",
-    "segs": [{"k": "m", "t": "Ðường kính thái dương."}],
+    "segs": [{"k": "m", "t": "Đường kính thái dương."}],
     "k": "temporal diameter"
   },
   {
@@ -13968,7 +13968,7 @@
   },
   {
     "h": "temporary diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo nhất thời."}],
+    "segs": [{"k": "m", "t": "Đái tháo nhất thời."}],
     "k": "temporary diabetes"
   },
   {
@@ -14149,7 +14149,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tạm giam. Biện pháp ngăn chặn do cơ quan điều tra, viện kiểm sát, tòa án áp dụng đối với bị can, bị cáo phạm tội trong những trường hợp nghiêm trọng hoặc bị can, bị cáo phạm tội mà bộ luật hình sự quy định hình phạt từ trên một năm mà có căn cứ cho rằng người đó có thể trốn hoặc cản trở việc điều tra, xét xử hoặc có thể tiếp tục phạm tội. Các Ðiều 70 và 71 Bộ luật tố tụng hình sự quy định thẩm quyền, thủ tục và thời hạn tạm giam."
+        "t": "tạm giam. Biện pháp ngăn chặn do cơ quan điều tra, viện kiểm sát, tòa án áp dụng đối với bị can, bị cáo phạm tội trong những trường hợp nghiêm trọng hoặc bị can, bị cáo phạm tội mà bộ luật hình sự quy định hình phạt từ trên một năm mà có căn cứ cho rằng người đó có thể trốn hoặc cản trở việc điều tra, xét xử hoặc có thể tiếp tục phạm tội. Các Điều 70 và 71 Bộ luật tố tụng hình sự quy định thẩm quyền, thủ tục và thời hạn tạm giam."
       }
     ],
     "k": "temporary jail"
@@ -14496,7 +14496,7 @@
       {"k": "m", "t": "Lời khuyên:"},
       {
         "k": "m",
-        "t": "Bạn có thể cải thiện một cách đáng kể hiệu suất của Windows bằng cáhc thành lập một tệp trao đổi cố định. Tuy nhiên, số lượng không gian đĩa mà Windows có thể gán cho nhiệm vụ này bị hạn chế bởi không gian đĩa lớn nhất chứa trong các sector trống liền kề nhau. Ðể làm cho lượng nhớ ảo cực đại này trở thành có sẵn, bạn hãy cho chạy một chương trình sắp xếp lại các tệp trong đĩa trước khi thiết lập tệp trao đổi cố định."
+        "t": "Bạn có thể cải thiện một cách đáng kể hiệu suất của Windows bằng cáhc thành lập một tệp trao đổi cố định. Tuy nhiên, số lượng không gian đĩa mà Windows có thể gán cho nhiệm vụ này bị hạn chế bởi không gian đĩa lớn nhất chứa trong các sector trống liền kề nhau. Để làm cho lượng nhớ ảo cực đại này trở thành có sẵn, bạn hãy cho chạy một chương trình sắp xếp lại các tệp trong đĩa trước khi thiết lập tệp trao đổi cố định."
       }
     ],
     "k": "temporary swap file"
@@ -14745,7 +14745,7 @@
   },
   {
     "h": "temporozygomatic suture",
-    "segs": [{"k": "m", "t": "Ðường khớp thái dương-gò má."}],
+    "segs": [{"k": "m", "t": "Đường khớp thái dương-gò má."}],
     "k": "temporozygomatic suture"
   },
   {
@@ -16414,7 +16414,7 @@
   },
   {"h": "tenesimic", "segs": [{"k": "m", "t": "thuộc đau mót."}], "k": "tenesimic"},
   {"h": "tenesmic", "segs": [{"k": "m", "t": "(thuộc) đau mót, buốt mót."}], "k": "tenesmic"},
-  {"h": "tenesmus", "segs": [{"k": "m", "t": "Ðau mót, buốt mót."}], "k": "tenesmus"},
+  {"h": "tenesmus", "segs": [{"k": "m", "t": "Đau mót, buốt mót."}], "k": "tenesmus"},
   {"h": "tenestration", "segs": [{"k": "m", "t": "phẫu thuật mở cửa sổ."}], "k": "tenestration"},
   {
     "h": "tenet",
@@ -16426,7 +16426,7 @@
       {
         "k": "ex",
         "t": "one of the basic tenets of the Christian faith",
-        "vi": "một trong những nguyên lý cơ bản của đức tin Cơ Ðốc giáo."
+        "vi": "một trong những nguyên lý cơ bản của đức tin Cơ Đốc giáo."
       }
     ],
     "ipa": "'tenit",
@@ -16491,7 +16491,7 @@
   {"h": "teniform", "segs": [{"k": "m", "t": "Dạng sán."}], "k": "teniform"},
   {"h": "tenifugal", "segs": [{"k": "m", "t": "Tẩy sán."}], "k": "tenifugal"},
   {"h": "tenifuge", "segs": [{"k": "m", "t": "Thuốc tẩy sán."}], "k": "tenifuge"},
-  {"h": "teniotoxin", "segs": [{"k": "m", "t": "Ðộc tố sán."}], "k": "teniotoxin"},
+  {"h": "teniotoxin", "segs": [{"k": "m", "t": "Độc tố sán."}], "k": "teniotoxin"},
   {
     "h": "tenite",
     "segs": [
@@ -16554,7 +16554,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(TV A) Một chính quyền liên bang độc lập thu nhỏ của Mỹ. Ðược Quốc hội tạo ra (1933) như là một phần trong chính sách kinh tế xã hội mới, góp phần bù đắp tình trạng thất nghiệp bằng một chương trình việc làm công cộng. Nó được thiết lập nhằm đem lại sự phát triển của toàn bộ lưu vực sông Tennessee. Nó tiếp quản một dự án (được bắt đầu năm 1916) chiết xuất Nitrat ở bãi cát ngầm Muscle, bang Alabama. Ngoài ra, TV A cũng được phép xây dựng nhiều đập nước mới và phát triển những đập nước hiện có, để kiểm soát lũ và tạo ra nguồn thủy điện giá rẻ, ngăn chặn xói mòn và cung cấp khu vực trồng rừng xuyên qua 7 tiểu bang."
+        "t": "(TV A) Một chính quyền liên bang độc lập thu nhỏ của Mỹ. Được Quốc hội tạo ra (1933) như là một phần trong chính sách kinh tế xã hội mới, góp phần bù đắp tình trạng thất nghiệp bằng một chương trình việc làm công cộng. Nó được thiết lập nhằm đem lại sự phát triển của toàn bộ lưu vực sông Tennessee. Nó tiếp quản một dự án (được bắt đầu năm 1916) chiết xuất Nitrat ở bãi cát ngầm Muscle, bang Alabama. Ngoài ra, TV A cũng được phép xây dựng nhiều đập nước mới và phát triển những đập nước hiện có, để kiểm soát lũ và tạo ra nguồn thủy điện giá rẻ, ngăn chặn xói mòn và cung cấp khu vực trồng rừng xuyên qua 7 tiểu bang."
       }
     ],
     "k": "tennessee valley authority"
@@ -16603,7 +16603,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một sự việc ấn tượng diễn ra tại Versailles trong giai đoạn đầu tiên của Cuộc cách mạng Pháp. Ngày 17 tháng 6 năm 1789, nơi đây diễn ra Hội nghị ba đẳng cấp dưới thời của Tổng thống Jean Bailly. Tại đây, đẳng cấp thứ ba, đại biểu của Paris, công khai bản thân họ là Quốc hội. Tuyên bố rằng họ là đẳng cấp duy nhất được thừa nhận chính thức và Ðẳng cấp 1 và 2 cần gia nhập với họ. Ngày 20 tháng 6, nơi hội họp đã đóng cửa, và do đó chuyển sang Tennis Court, một hội trường mở khá lớn ở gần đó. Lời thề được lập nên tại đây buộc họ không được chia cắt cho đến khi lập ra một hiến pháp mới cho nước Pháp."
+        "t": "Một sự việc ấn tượng diễn ra tại Versailles trong giai đoạn đầu tiên của Cuộc cách mạng Pháp. Ngày 17 tháng 6 năm 1789, nơi đây diễn ra Hội nghị ba đẳng cấp dưới thời của Tổng thống Jean Bailly. Tại đây, đẳng cấp thứ ba, đại biểu của Paris, công khai bản thân họ là Quốc hội. Tuyên bố rằng họ là đẳng cấp duy nhất được thừa nhận chính thức và Đẳng cấp 1 và 2 cần gia nhập với họ. Ngày 20 tháng 6, nơi hội họp đã đóng cửa, và do đó chuyển sang Tennis Court, một hội trường mở khá lớn ở gần đó. Lời thề được lập nên tại đây buộc họ không được chia cắt cho đến khi lập ra một hiến pháp mới cho nước Pháp."
       }
     ],
     "k": "tennis court oath"
@@ -16674,7 +16674,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(nghĩa đen, \"nơi ở của Tenochca\") Hòn đảo thủ phủ của người Aztec ở hồ Texcoco, nay là thành phố Mexico hiện đại. Ðược thành lập theo truyền thống vào khoảng năm 1345, nó phát triển thành một khu dân cư với khoảng 300.000 người vào đầu thế kỷ thứ 16. Nó bố trí trong một hệ thống tuyến đường và kênh đào vòng quanh một khu vực nghi lễ rộng lớn của các kim tự tháp, đền đài và cung điện, được bao bọc bởi những khu vườn trên các hòn đảo nhân tạo, gọi là chinam pas. Ba con đường rộng được đắp cao kéo dài băng qua hồ của phần lục địa. Là trung tâm của đế chế Aztec, người Cortes xâm chiếm nơi đây ngày 13 tháng 8 năm 1521 và dân quân nhanh chóng đầu hàng."
+        "t": "(nghĩa đen, \"nơi ở của Tenochca\") Hòn đảo thủ phủ của người Aztec ở hồ Texcoco, nay là thành phố Mexico hiện đại. Được thành lập theo truyền thống vào khoảng năm 1345, nó phát triển thành một khu dân cư với khoảng 300.000 người vào đầu thế kỷ thứ 16. Nó bố trí trong một hệ thống tuyến đường và kênh đào vòng quanh một khu vực nghi lễ rộng lớn của các kim tự tháp, đền đài và cung điện, được bao bọc bởi những khu vườn trên các hòn đảo nhân tạo, gọi là chinam pas. Ba con đường rộng được đắp cao kéo dài băng qua hồ của phần lục địa. Là trung tâm của đế chế Aztec, người Cortes xâm chiếm nơi đây ngày 13 tháng 8 năm 1521 và dân quân nhanh chóng đầu hàng."
       }
     ],
     "k": "tenochtitlan"
@@ -17457,7 +17457,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự nứt do kéo"}],
     "k": "tension cracking"
   },
-  {"h": "tension curve", "segs": [{"k": "m", "t": "Ðường sức nén."}], "k": "tension curve"},
+  {"h": "tension curve", "segs": [{"k": "m", "t": "Đường sức nén."}], "k": "tension curve"},
   {
     "h": "tension deformation",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự biến dạng kéo"}],
@@ -18567,7 +18567,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một địa điểm ở thung lũng Mexico, đông bắc thành phố Mexico, với nhiều công trình kiến trúc điêu khắc được bảo quản tốt từ thế kỷ 1 đến thế kỷ 7 sau công nguyên. Teotihuacan mới thực sự là thành phố đầu tiên ở vùng Mesoamerica (Mexico và bắc Trung Mỹ). Nó bắt đầu phát triển từ giai đoạn năm 100 trước công nguyên và trong khoảng 600 năm, nó thống trị nền kinh tế vùng trung tâm Mexico và có lẽ cả về chính trị. Tại giai đoạn đỉnh điểm, nó bao phủ một khu vực xấp xỉ 22,5 km2 với những tuyến đường, ngõ hẻm cân đối và một khu dân cư khoảng 200.000 người. Nơi đây bao bọc một trung tâm rộng lớn nhất và xa hoa, lộng lẫy nhất ở vùng trung tâm Mexico cho đến thời đại tiền Toltec. Ðặc điểm của khu vực sang trọng này là kiến trúc lớn nhất và hiện đại nhất. Kim tự tháp Mặt trời, được xây dựng bằng những lớp đá rắn trên một hang động thiên nhiên. Bên trong, những bậc thềm nghi lễ được xây dựng theo kỹ thuật rỗ tổ ong, trên các cột trang trí được trám sỏi và trang hoàng lộng lẫy ở mặt ngoài. Những công trình kiến trúc nhỏ hơn được xây dựng như các kim tự tháp lớn trên nền và thường được che chắn bởi các hàng cây vuông góc, với những công trình chạm khắc trang trí và sơn ở không gian bên trong. Việc bố trí được xác định theo nghi thức mặt trời, tại bề mặt của trung tâm kim tự tháp được sắp xếp theo trình tự của mặt trời giữa mùa hè, và tất cả những kiến trúc khác đều có liên quan đến trục của nó. Khi nền văn minh của người Teotihuaca sụp đổ (700 trước công nguyên), đặc trưng của kiểu kiến trúc này có vẻ như đã được truyền sang khu vực rìa của thung lũng Mexico, đáng chú ý nhất là Xochicalco và Cholula."
+        "t": "Một địa điểm ở thung lũng Mexico, đông bắc thành phố Mexico, với nhiều công trình kiến trúc điêu khắc được bảo quản tốt từ thế kỷ 1 đến thế kỷ 7 sau công nguyên. Teotihuacan mới thực sự là thành phố đầu tiên ở vùng Mesoamerica (Mexico và bắc Trung Mỹ). Nó bắt đầu phát triển từ giai đoạn năm 100 trước công nguyên và trong khoảng 600 năm, nó thống trị nền kinh tế vùng trung tâm Mexico và có lẽ cả về chính trị. Tại giai đoạn đỉnh điểm, nó bao phủ một khu vực xấp xỉ 22,5 km2 với những tuyến đường, ngõ hẻm cân đối và một khu dân cư khoảng 200.000 người. Nơi đây bao bọc một trung tâm rộng lớn nhất và xa hoa, lộng lẫy nhất ở vùng trung tâm Mexico cho đến thời đại tiền Toltec. Đặc điểm của khu vực sang trọng này là kiến trúc lớn nhất và hiện đại nhất. Kim tự tháp Mặt trời, được xây dựng bằng những lớp đá rắn trên một hang động thiên nhiên. Bên trong, những bậc thềm nghi lễ được xây dựng theo kỹ thuật rỗ tổ ong, trên các cột trang trí được trám sỏi và trang hoàng lộng lẫy ở mặt ngoài. Những công trình kiến trúc nhỏ hơn được xây dựng như các kim tự tháp lớn trên nền và thường được che chắn bởi các hàng cây vuông góc, với những công trình chạm khắc trang trí và sơn ở không gian bên trong. Việc bố trí được xác định theo nghi thức mặt trời, tại bề mặt của trung tâm kim tự tháp được sắp xếp theo trình tự của mặt trời giữa mùa hè, và tất cả những kiến trúc khác đều có liên quan đến trục của nó. Khi nền văn minh của người Teotihuaca sụp đổ (700 trước công nguyên), đặc trưng của kiểu kiến trúc này có vẻ như đã được truyền sang khu vực rìa của thung lũng Mexico, đáng chú ý nhất là Xochicalco và Cholula."
       }
     ],
     "k": "teotihuacan"
@@ -19183,7 +19183,7 @@
     "k": "terebrachesis"
   },
   {"h": "terebrant", "segs": [{"k": "m", "t": "Nhói, xuyên."}], "k": "terebrant"},
-  {"h": "terebrant pain", "segs": [{"k": "m", "t": "Ðau như dao đâm."}], "k": "terebrant pain"},
+  {"h": "terebrant pain", "segs": [{"k": "m", "t": "Đau như dao đâm."}], "k": "terebrant pain"},
   {
     "h": "terebrate",
     "segs": [{"k": "pos", "t": "ngoại động từ"}, {"k": "m", "t": "khoan lỗ trôn ốc."}],
@@ -19191,7 +19191,7 @@
     "k": "terebrate"
   },
   {"h": "terebrating", "segs": [{"k": "m", "t": "Nhói, xuyên."}], "k": "terebrating"},
-  {"h": "terebrating pain", "segs": [{"k": "m", "t": "Ðau như dao đâm."}], "k": "terebrating pain"},
+  {"h": "terebrating pain", "segs": [{"k": "m", "t": "Đau như dao đâm."}], "k": "terebrating pain"},
   {
     "h": "terebration",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sự khoan lỗ trôn ốc."}],
@@ -19842,7 +19842,7 @@
     "k": "terminal anchor block"
   },
   {"h": "terminal area", "segs": [{"k": "m", "t": "miền đầu cuối."}], "k": "terminal area"},
-  {"h": "terminal artery", "segs": [{"k": "m", "t": "Ðộng mạch tận."}], "k": "terminal artery"},
+  {"h": "terminal artery", "segs": [{"k": "m", "t": "Động mạch tận."}], "k": "terminal artery"},
   {
     "h": "terminal block",
     "segs": [{"k": "m", "t": "khối thiết bị đầu cuối."}],
@@ -21875,7 +21875,7 @@
     "ipa": "'terə in'kɔgnitə",
     "k": "terra incognita"
   },
-  {"h": "terra lemnia", "segs": [{"k": "m", "t": "Ðất sét vàng."}], "k": "terra lemnia"},
+  {"h": "terra lemnia", "segs": [{"k": "m", "t": "Đất sét vàng."}], "k": "terra lemnia"},
   {
     "h": "terra nullius",
     "segs": [
@@ -22807,7 +22807,7 @@
   {
     "h": "terrifying",
     "segs": [
-      {"k": "m", "t": "(tt) Ðáng sợ, gây lo sợ.-a terrifying experience: một kinh nghiệm đáng sợ."}
+      {"k": "m", "t": "(tt) Đáng sợ, gây lo sợ.-a terrifying experience: một kinh nghiệm đáng sợ."}
     ],
     "k": "terrifying",
     "q": {"vi": "làm khiếp sợ, làm kinh hãi", "ipa": "'terifaiiŋ", "rs": "thé rùy phài ình"}
@@ -23290,7 +23290,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Chủ nghĩa khủng bố. Việc thực thi sử dụng bạo lực và các đạo luật đáng sợ, đặc biệt là trong các cuộc thanh trừng chính trị. Chính quyền khủng bố bao hàm cả việc sử dụng chính sách khủng bố của nhà cầm quyền để trấn áp các thế lực đối lập cũng như sự hỗ trợ của chính quyền đối với các hành động khủng bố. Chủ nghĩa khủng bố cũng được các nhóm chính trị sử dụng để gây ra áp lực với chính quyền nhằm đạt được sự tán thành các yêu cầu chính trị. Chủ nghĩa khủng bố được các nhà cách mạng sử dụng một cách thường xuyên, mục đích của họ là lật đổ một chế độ cá biệt; và những nhóm người theo chủ nghĩa dân tộc tìm kiếm quyền tự quyết của quốc gia. Thế kỷ 19, những người theo chủ nghĩa vô chính phủ Nga đã sử dụng các cuộc đánh bom và ám sát để chống lại chính quyền Nga hoàng. Trong khi ở các tổ chức tại Mỹ như KU Klux Klan sử dụng chủ nghĩa khủng bố và lối hành hình linsơ để đe dọa những người da đen sau cuộc nội chiến Mỹ. Ðến thế kỷ 20, những kẻ độc tài như Mussolini và Hitler đã giành chính quyền thông qua việc sử dụng các thủ đoạn khủng bố. Thời kỳ Chiến tranh thế giới II đã chứng kiến sự lớn mạnh của chủ nghĩa dân tộc và những nhóm giải phóng lợi dụng chủ nghĩa khủng bố như một phần trong cuộc chiến chống lại chính quyền đương nhiệm. Ðiển hình là ở Cyprus, Israel/Palestine (IRGUN, Tổ chức giải phóng Stern Gang và Palestine), Ireland (Quân đội cộng hòa Ireland lâm thời (IRA)), và nhiều quốc gia khác ở châu Mỹ, châu Á và vùng Trung Ðông. Phát triển xa hơn là sự xuất hiện của các nhóm khủng bố chiến đấu chống lại hệ thống chính quyền và xã hội của quốc gia, bao gồm băng nhóm Baader-Meinhof và bè phái Hồng quân ở Ðức, Lữ đoàn Ðỏ ở Ý, Action Directe ở Pháp, nhóm ly khai Basque ETA ở Tây Ban Nha, Tupamaros ở Uruguay, và nhóm Con đường chói lọi (Shining Path) ở Peru. Nhiều chính quyền đã bị cáo buộc hậu thuẫn cho chủ nghĩa khủng bố quốc tế, gồm có Libya, Syria, Sudan, và chế độ Hồi giáo chính thống ở Iran."
+        "t": "Chủ nghĩa khủng bố. Việc thực thi sử dụng bạo lực và các đạo luật đáng sợ, đặc biệt là trong các cuộc thanh trừng chính trị. Chính quyền khủng bố bao hàm cả việc sử dụng chính sách khủng bố của nhà cầm quyền để trấn áp các thế lực đối lập cũng như sự hỗ trợ của chính quyền đối với các hành động khủng bố. Chủ nghĩa khủng bố cũng được các nhóm chính trị sử dụng để gây ra áp lực với chính quyền nhằm đạt được sự tán thành các yêu cầu chính trị. Chủ nghĩa khủng bố được các nhà cách mạng sử dụng một cách thường xuyên, mục đích của họ là lật đổ một chế độ cá biệt; và những nhóm người theo chủ nghĩa dân tộc tìm kiếm quyền tự quyết của quốc gia. Thế kỷ 19, những người theo chủ nghĩa vô chính phủ Nga đã sử dụng các cuộc đánh bom và ám sát để chống lại chính quyền Nga hoàng. Trong khi ở các tổ chức tại Mỹ như KU Klux Klan sử dụng chủ nghĩa khủng bố và lối hành hình linsơ để đe dọa những người da đen sau cuộc nội chiến Mỹ. Đến thế kỷ 20, những kẻ độc tài như Mussolini và Hitler đã giành chính quyền thông qua việc sử dụng các thủ đoạn khủng bố. Thời kỳ Chiến tranh thế giới II đã chứng kiến sự lớn mạnh của chủ nghĩa dân tộc và những nhóm giải phóng lợi dụng chủ nghĩa khủng bố như một phần trong cuộc chiến chống lại chính quyền đương nhiệm. Điển hình là ở Cyprus, Israel/Palestine (IRGUN, Tổ chức giải phóng Stern Gang và Palestine), Ireland (Quân đội cộng hòa Ireland lâm thời (IRA)), và nhiều quốc gia khác ở châu Mỹ, châu Á và vùng Trung Đông. Phát triển xa hơn là sự xuất hiện của các nhóm khủng bố chiến đấu chống lại hệ thống chính quyền và xã hội của quốc gia, bao gồm băng nhóm Baader-Meinhof và bè phái Hồng quân ở Đức, Lữ đoàn Đỏ ở Ý, Action Directe ở Pháp, nhóm ly khai Basque ETA ở Tây Ban Nha, Tupamaros ở Uruguay, và nhóm Con đường chói lọi (Shining Path) ở Peru. Nhiều chính quyền đã bị cáo buộc hậu thuẫn cho chủ nghĩa khủng bố quốc tế, gồm có Libya, Syria, Sudan, và chế độ Hồi giáo chính thống ở Iran."
       },
       {
         "k": "m",
@@ -23546,7 +23546,7 @@
   },
   {
     "h": "Tertiaries",
-    "segs": [{"k": "m", "t": "Dòng ba (vg. Cát Minh, Ða Minh, Phanxicô)."}],
+    "segs": [{"k": "m", "t": "Dòng ba (vg. Cát Minh, Đa Minh, Phanxicô)."}],
     "k": "tertiaries"
   },
   {
@@ -23635,7 +23635,7 @@
     "h": "tertiary era",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "kỷ Ðệ tam"},
+      {"k": "m", "t": "kỷ Đệ tam"},
       {"k": "m", "t": "kỷ Thứ ba"}
     ],
     "k": "tertiary era"
@@ -23677,7 +23677,7 @@
   },
   {
     "h": "Tertiary period",
-    "segs": [{"k": "m", "t": "kỷ Ðệ Tam, kỷ Thứ Ba."}],
+    "segs": [{"k": "m", "t": "kỷ Đệ Tam, kỷ Thứ Ba."}],
     "k": "tertiary period"
   },
   {
@@ -23908,7 +23908,7 @@
   },
   {
     "h": "tessellated fundus",
-    "segs": [{"k": "m", "t": "Ðáy mắt hình khảm."}],
+    "segs": [{"k": "m", "t": "Đáy mắt hình khảm."}],
     "k": "tessellated fundus"
   },
   {
@@ -24045,7 +24045,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những luật lệ khiến cho việc tổ chức các nghi lễ tôn giáo ở Anh phụ thuộc vào việc thiết lập tín ngưỡng tôn giáo. Scotland đã áp đặt một kiểu luật lệ như thế vào năm 1567. Những đạo luật khắc nghiệt chống lại các tín đồ Thiên chúa giáo La Mã ở Anh đã có đủ thẩm quyền để ngăn chặn đạo Thiên chúa giáo La Mã và những kẻ biệt phái. Họ dựa vào việc nâng cao giá trị hiệu lực đối với các nghi lễ này. Năm 1661, các thành viên hội đồng thành phố bị cấm tham gia nghi lễ ngoại đạo và năm 1673 tất cả những nghi lễ của những người từ chối gia nhập nhóm đạo của nhà thờ Anh đều bị cấm đoán. Năm 1678, tất cả các tín đồ Thiên chúa giáo ngoại trừ công tước xứ York (sau này là vua James II) đều bị khai trừ ra khỏi Nghị viện. Thế kỷ 18, việc kiểm tra tôn giáo ở Scotland không bị ép buộc thường xuyên, ngoại trừ các bài giảng của trường đại học. Ở Anh việc kiểm tra có thể tiến hành với những nhóm đạo đặc biệt, nhưng không thể thực hiện được đối với đạo Thiên chúa giáo La Mã. Ðạo luật kiểm tra cuối cùng đã bị bãi bỏ năm 1829 và những cuộc kiểm tra tôn giáo ở trường đại học đã bị thủ tiêu vào những năm 1870 và 1880."
+        "t": "Những luật lệ khiến cho việc tổ chức các nghi lễ tôn giáo ở Anh phụ thuộc vào việc thiết lập tín ngưỡng tôn giáo. Scotland đã áp đặt một kiểu luật lệ như thế vào năm 1567. Những đạo luật khắc nghiệt chống lại các tín đồ Thiên chúa giáo La Mã ở Anh đã có đủ thẩm quyền để ngăn chặn đạo Thiên chúa giáo La Mã và những kẻ biệt phái. Họ dựa vào việc nâng cao giá trị hiệu lực đối với các nghi lễ này. Năm 1661, các thành viên hội đồng thành phố bị cấm tham gia nghi lễ ngoại đạo và năm 1673 tất cả những nghi lễ của những người từ chối gia nhập nhóm đạo của nhà thờ Anh đều bị cấm đoán. Năm 1678, tất cả các tín đồ Thiên chúa giáo ngoại trừ công tước xứ York (sau này là vua James II) đều bị khai trừ ra khỏi Nghị viện. Thế kỷ 18, việc kiểm tra tôn giáo ở Scotland không bị ép buộc thường xuyên, ngoại trừ các bài giảng của trường đại học. Ở Anh việc kiểm tra có thể tiến hành với những nhóm đạo đặc biệt, nhưng không thể thực hiện được đối với đạo Thiên chúa giáo La Mã. Đạo luật kiểm tra cuối cùng đã bị bãi bỏ năm 1829 và những cuộc kiểm tra tôn giáo ở trường đại học đã bị thủ tiêu vào những năm 1870 và 1880."
       }
     ],
     "k": "test acts"
@@ -24221,7 +24221,7 @@
     "h": "Test Case/Conductor/Control (TC)",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "Hộp/Dây/Ðiều khiển đo thử"}
+      {"k": "m", "t": "Hộp/Dây/Điều khiển đo thử"}
     ],
     "k": "test case/conductor/control (tc)"
   },
@@ -25860,7 +25860,7 @@
   },
   {
     "h": "testicular artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch tinh hoàn."}],
+    "segs": [{"k": "m", "t": "Động mạch tinh hoàn."}],
     "k": "testicular artery"
   },
   {"h": "testicular bag", "segs": [{"k": "m", "t": "Bìu (dương vật)."}], "k": "testicular bag"},
@@ -25878,7 +25878,7 @@
   {"h": "testicular juice", "segs": [{"k": "m", "t": "Tinh dịch."}], "k": "testicular juice"},
   {
     "h": "testicular plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh tinh hoàn."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh tinh hoàn."}],
     "k": "testicular plexus"
   },
   {"h": "testicular shock", "segs": [{"k": "m", "t": "Sốc tinh thần."}], "k": "testicular shock"},
@@ -26486,7 +26486,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cuộc tấn công Tết (29 tháng 1-25 tháng 2 1968) Một cuộc tấn công diễn ra trong chiến tranh Việt Nam do Việt cộng và các đơn vị quân đội chính quy Bắc Việt tiến hành nhằm chống lại quân đội Mỹ và lực lượng Nam Việt. Trong một cuộc đột kích vào ngày mùng một Tết âm lịch, quân Bắc Việt dưới sự chỉ huy của Tướng Võ Nguyên Giáp đã tấn công từ nông thôn cho đến các thành phố ở miền Nam Việt Nam. Sau những thành công ban đầu, những kẻ tấn công đã bị đẩy lùi, cả hai bên đều bị thiệt hại nặng nề. Nhưng sự việc đã gây ra mối nguy hiểm lớn, làm sụt giảm nhuệ khí của Nam Việt Nam. Làm rung chuyển uy tín của nước Mỹ về khả năng giành chiến thắng trong cuộc chiến này và mang họ đến bàn đàm phán ở Paris năm 1969. Ðiều này đã dẫn đến việc ký kết Hiệp định hòa bình Paris năm 1973 và Mỹ buộc phải rút hết lực lượng ra khỏi khu vực Ðông Dương."
+        "t": "Cuộc tấn công Tết (29 tháng 1-25 tháng 2 1968) Một cuộc tấn công diễn ra trong chiến tranh Việt Nam do Việt cộng và các đơn vị quân đội chính quy Bắc Việt tiến hành nhằm chống lại quân đội Mỹ và lực lượng Nam Việt. Trong một cuộc đột kích vào ngày mùng một Tết âm lịch, quân Bắc Việt dưới sự chỉ huy của Tướng Võ Nguyên Giáp đã tấn công từ nông thôn cho đến các thành phố ở miền Nam Việt Nam. Sau những thành công ban đầu, những kẻ tấn công đã bị đẩy lùi, cả hai bên đều bị thiệt hại nặng nề. Nhưng sự việc đã gây ra mối nguy hiểm lớn, làm sụt giảm nhuệ khí của Nam Việt Nam. Làm rung chuyển uy tín của nước Mỹ về khả năng giành chiến thắng trong cuộc chiến này và mang họ đến bàn đàm phán ở Paris năm 1969. Điều này đã dẫn đến việc ký kết Hiệp định hòa bình Paris năm 1973 và Mỹ buộc phải rút hết lực lượng ra khỏi khu vực Đông Dương."
       }
     ],
     "k": "tet offensive"
@@ -26548,7 +26548,7 @@
   {"h": "tetanomotor", "segs": [{"k": "m", "t": "Máy gây co cứng cơ."}], "k": "tetanomotor"},
   {"h": "tetanophilic", "segs": [{"k": "m", "t": "ưa độc tố uốn ván."}], "k": "tetanophilic"},
   {"h": "tetanospasmin", "segs": [{"k": "m", "t": "Tetanospasmin."}], "k": "tetanospasmin"},
-  {"h": "tetanotoxin", "segs": [{"k": "m", "t": "Ðộc tố uốn ván."}], "k": "tetanotoxin"},
+  {"h": "tetanotoxin", "segs": [{"k": "m", "t": "Độc tố uốn ván."}], "k": "tetanotoxin"},
   {
     "h": "tetanus",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(y) bệnh uốn ván."}],
@@ -26581,7 +26581,7 @@
     "segs": [{"k": "m", "t": "Uốn ván lưng cong."}],
     "k": "tetanus posticus"
   },
-  {"h": "tetanus toxin", "segs": [{"k": "m", "t": "Ðộc tố uốn ván."}], "k": "tetanus toxin"},
+  {"h": "tetanus toxin", "segs": [{"k": "m", "t": "Độc tố uốn ván."}], "k": "tetanus toxin"},
   {
     "h": "tetany",
     "segs": [{"k": "m", "t": "1. Tếtani"}, {"k": "m", "t": "2. co cứng cơ."}],
@@ -27408,7 +27408,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tứ thành tuyên tín bản (Tin lành: bốn thành phố Ðức đệ lên hoàng đế n. 1530)."
+        "t": "Tứ thành tuyên tín bản (Tin lành: bốn thành phố Đức đệ lên hoàng đế n. 1530)."
       }
     ],
     "k": "tetrapolitan confession"
@@ -27744,7 +27744,7 @@
   },
   {
     "h": "teuton",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người Giec-manh, người Ðức."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người Giec-manh, người Đức."}],
     "ipa": "'tju:tn",
     "k": "teuton"
   },
@@ -27754,7 +27754,7 @@
       {"k": "pos", "t": "tính từ"},
       {
         "k": "m",
-        "t": "(thuộc) các dân tộc Giéc-manh (tức là Ăng-lô-Xắc-xông, Hà Lan, Ðức và Bắc Âu)"
+        "t": "(thuộc) các dân tộc Giéc-manh (tức là Ăng-lô-Xắc-xông, Hà Lan, Đức và Bắc Âu)"
       },
       {"k": "m", "t": "(thuộc) ngôn ngữ các dân tộc Giéc-manh"},
       {
@@ -27771,7 +27771,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hội hiệp sĩ Giec-manh. Những thành viên của quân đội và cấp phẩm tôn giáo, người có tước hiệu hiệp sĩ của nhà từ thiện Thánh St Mary do người Giec-manh sở hữu ở Jerusalem. Hội do các hiệp sĩ, linh mục, và bạn hữu sáng lập vào năm 1190 ở Acre. Hội hoạt động ở Palestine và Syria mặc dù các thành viên rút về Venice khi cuộc thập tự chinh thất bại trong việc ngăn chặn Hồi giáo. Ðế chế La Mã thần thánh của vua Frederick II sử dụng cấp phẩm như là những người truyền giáo để đánh bại và cải đạo những người ngoại giáo ở biên giới phía đông bắc của đế chế. Trong việc này họ đã rất thành công, giành được nước Phổ năm 1229. Năm 1234, trong buổi lễ tuyên ngôn độc lập, họ tuyên bố nắm giữ tất cả các vùng đất đã chiếm như đất phong từ Ðức giáo hoàng. Gia nhập cùng với phẩm cấp Livonian, họ tiếp tục tiến về vùng quanh biển Baltic, chiếm được một lãnh thổ rộng lớn, nhưng tiến trình của họ bị chống cự quyết liệt khi họ bị vua Ladislas của Ba Lan đánh bại tại Tannenberg năm 1410. Năm 1525, Ðại sư Albert của Brandenburg, trở thành một người theo thuyết Luther, ông từ chức và cấp bậc của ông bị loại bỏ khỏi cộng đồng tôn giáo. Tuy nhiên, người ta vẫn duy trì một cấp bậc khác cho ông dưới sự kiểm soát của những cử tri vùng Brandenburg."
+        "t": "Hội hiệp sĩ Giec-manh. Những thành viên của quân đội và cấp phẩm tôn giáo, người có tước hiệu hiệp sĩ của nhà từ thiện Thánh St Mary do người Giec-manh sở hữu ở Jerusalem. Hội do các hiệp sĩ, linh mục, và bạn hữu sáng lập vào năm 1190 ở Acre. Hội hoạt động ở Palestine và Syria mặc dù các thành viên rút về Venice khi cuộc thập tự chinh thất bại trong việc ngăn chặn Hồi giáo. Đế chế La Mã thần thánh của vua Frederick II sử dụng cấp phẩm như là những người truyền giáo để đánh bại và cải đạo những người ngoại giáo ở biên giới phía đông bắc của đế chế. Trong việc này họ đã rất thành công, giành được nước Phổ năm 1229. Năm 1234, trong buổi lễ tuyên ngôn độc lập, họ tuyên bố nắm giữ tất cả các vùng đất đã chiếm như đất phong từ Đức giáo hoàng. Gia nhập cùng với phẩm cấp Livonian, họ tiếp tục tiến về vùng quanh biển Baltic, chiếm được một lãnh thổ rộng lớn, nhưng tiến trình của họ bị chống cự quyết liệt khi họ bị vua Ladislas của Ba Lan đánh bại tại Tannenberg năm 1410. Năm 1525, Đại sư Albert của Brandenburg, trở thành một người theo thuyết Luther, ông từ chức và cấp bậc của ông bị loại bỏ khỏi cộng đồng tôn giáo. Tuy nhiên, người ta vẫn duy trì một cấp bậc khác cho ông dưới sự kiểm soát của những cử tri vùng Brandenburg."
       }
     ],
     "k": "teutonic knight"
@@ -27794,7 +27794,7 @@
   },
   {
     "h": "Teutonic Order",
-    "segs": [{"k": "m", "t": "Dòng hiệp sĩ Ðức (sáng lập n. 1190)."}],
+    "segs": [{"k": "m", "t": "Dòng hiệp sĩ Đức (sáng lập n. 1190)."}],
     "k": "teutonic order"
   },
   {
@@ -27858,7 +27858,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bộ tộc thuộc Ðức, người ta cho rằng họ đã sinh sống từ Holstein hay Jutland. Những người này di cư đến phía nam Gaul và phía Bắc Ý cùng với bộ tộc Cimbri vào cuối thế kỷ thứ 2 trước công nguyên. Năm 102, họ bị người Marius ở Aquae Sextiae (Aix-en-provence) đánh bại. Họ biến mất trong lịch sử nhưng cái tên Teuton vẫn tồn tại như một từ thay thế cho nước Ðức."
+        "t": "Bộ tộc thuộc Đức, người ta cho rằng họ đã sinh sống từ Holstein hay Jutland. Những người này di cư đến phía nam Gaul và phía Bắc Ý cùng với bộ tộc Cimbri vào cuối thế kỷ thứ 2 trước công nguyên. Năm 102, họ bị người Marius ở Aquae Sextiae (Aix-en-provence) đánh bại. Họ biến mất trong lịch sử nhưng cái tên Teuton vẫn tồn tại như một từ thay thế cho nước Đức."
       }
     ],
     "k": "teutons"

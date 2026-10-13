@@ -19,7 +19,7 @@
         "a": "Does this skirt suit me?",
         "b": "That's nice!",
         "avi": "Cái váy này có hợp với tôi không?",
-        "bvi": "Ðẹp quá!"
+        "bvi": "Đẹp quá!"
       },
       {
         "a": "Do you know whose skirts these are?",
@@ -48,7 +48,7 @@
       {
         "a": "This is my favorite blouse.",
         "b": "That's a lovely blouse you're wearing!",
-        "avi": "Ðây là chiếc áo ưa thích của tôi.",
+        "avi": "Đây là chiếc áo ưa thích của tôi.",
         "bvi": "Bạn mặc cái áo cánh dễ thương quá."
       },
       {
@@ -78,7 +78,7 @@
       {
         "a": "It's a very flattering style.",
         "b": "I like the hair style.",
-        "avi": "Ðó là kiểu tóc làm tôn vẻ đẹp lên nhiều.",
+        "avi": "Đó là kiểu tóc làm tôn vẻ đẹp lên nhiều.",
         "bvi": "Tôi thích kiểu tóc đó."
       },
       {
@@ -96,7 +96,7 @@
       {
         "a": "My shoes are showing signs of wear.",
         "b": "Do you do mending?",
-        "avi": "Ðôi giày của tôi lộ ra các vết mòn.",
+        "avi": "Đôi giày của tôi lộ ra các vết mòn.",
         "bvi": "Bạn có sửa giày không?"
       },
       {
@@ -157,12 +157,12 @@
         "a": "The blue goes to blue.",
         "b": "It's my favorite color.",
         "avi": "Màu xanh thì đi với màu xanh!",
-        "bvi": "Ðó là màu mà tôi thích nhất."
+        "bvi": "Đó là màu mà tôi thích nhất."
       },
       {
         "a": "It's my favorite color.",
         "b": "The color is all right.",
-        "avi": "Ðó là màu mà tôi thích nhất.",
+        "avi": "Đó là màu mà tôi thích nhất.",
         "bvi": "Màu sắc thì được."
       },
       {
@@ -253,7 +253,7 @@
         "a": "How do you like this one?",
         "b": "Let me try this on.",
         "avi": "Bạn thấy cái này thế nào?",
-        "bvi": "Ðể tôi thử cái này xem sao?"
+        "bvi": "Để tôi thử cái này xem sao?"
       },
       {
         "a": "A red tie will match that suit.",
@@ -415,7 +415,7 @@
         "a": "I don't like this colour.",
         "b": "This is a very fashionable color.",
         "avi": "Tôi không thích màu này.",
-        "bvi": "Ðây là một màu rất thời trang."
+        "bvi": "Đây là một màu rất thời trang."
       }
     ]
   },
@@ -426,7 +426,7 @@
       {
         "a": "This is a very fashionable color.",
         "b": "I prefer this.",
-        "avi": "Ðây là một màu rất thời trang.",
+        "avi": "Đây là một màu rất thời trang.",
         "bvi": "Tôi thích cái này hơn."
       },
       {
@@ -456,7 +456,7 @@
       {
         "a": "This is handcrafted!",
         "b": "Do you think this material will wear well?",
-        "avi": "Ðây là hàng may tay đấy!",
+        "avi": "Đây là hàng may tay đấy!",
         "bvi": "Bạn có nghĩ hàng này mặc đẹp không?"
       },
       {
@@ -492,7 +492,7 @@
       {
         "a": "These are goods at bargain prices.",
         "b": "Show me the finest you have.",
-        "avi": "Ðây là hàng hóa bán với giá hời.",
+        "avi": "Đây là hàng hóa bán với giá hời.",
         "bvi": "Cho tôi xem thứ đẹp nhất bạn có."
       },
       {
@@ -678,7 +678,7 @@
       {
         "a": "This is luxury goods imported from France.",
         "b": "I would like the skirt pleated.",
-        "avi": "Ðây là hàng xa xỉ được nhập từ Pháp.",
+        "avi": "Đây là hàng xa xỉ được nhập từ Pháp.",
         "bvi": "Tôi thích váy xếp nếp."
       },
       {
@@ -769,7 +769,7 @@
         "a": "What's it on your coat?",
         "b": "This is an old-style badge.",
         "avi": "Cái gì trên áo khoác của bạn vậy?",
-        "bvi": "Ðây là một phù hiệu kiểu cũ."
+        "bvi": "Đây là một phù hiệu kiểu cũ."
       },
       {
         "a": "Can I keep this shirt, then?",
@@ -847,7 +847,7 @@
         "a": "Give me a local product will do.",
         "b": "It is cut-price goods.",
         "avi": "Cho tôi hàng nội địa cũng được.",
-        "bvi": "Ðó là hàng hạ giá."
+        "bvi": "Đó là hàng hạ giá."
       },
       {
         "a": "I had to collect my dress and meet a friend.",
@@ -1099,12 +1099,12 @@
         "a": "Your necklace is one of simulated jewels.",
         "b": "What kind of stone is this?",
         "avi": "Chuỗi hạt của bà là một trong những loại đá quý giả.",
-        "bvi": "Ðây là loại đá quý gì?"
+        "bvi": "Đây là loại đá quý gì?"
       },
       {
         "a": "What kind of stone is this?",
         "b": "Like the light from a million stars.",
-        "avi": "Ðây là loại đá quý gì?",
+        "avi": "Đây là loại đá quý gì?",
         "bvi": "Giống như ánh sáng của hàng triệu vì sao."
       }
     ]
@@ -1176,7 +1176,7 @@
       {
         "a": "Don't fall for it.",
         "b": "Please tell me why?",
-        "avi": "Ðừng quá ham mê nó.",
+        "avi": "Đừng quá ham mê nó.",
         "bvi": "Tại sao ạ?"
       },
       {
@@ -1236,7 +1236,7 @@
       {
         "a": "That is a lovely hat!",
         "b": "Nobody wears such broad brimmed hats nowadays.",
-        "avi": "Ðó là một chiếc nón dễ thương!",
+        "avi": "Đó là một chiếc nón dễ thương!",
         "bvi": "Ngày nay không còn ai đội nón vành rộng như thế."
       },
       {
@@ -1272,7 +1272,7 @@
       {
         "a": "Do the shoes fit?",
         "b": "too broad.",
-        "avi": "Ðôi giày có vừa không?",
+        "avi": "Đôi giày có vừa không?",
         "bvi": "quá rộng."
       },
       {
@@ -1326,7 +1326,7 @@
       {
         "a": "That is an expensive.",
         "b": "Why is the price so high?",
-        "avi": "Ðó là hàng cao cấp.",
+        "avi": "Đó là hàng cao cấp.",
         "bvi": "Sao mắc quá vậy?"
       },
       {
@@ -1555,7 +1555,7 @@
         "a": "I like her blouse.",
         "b": "It was not a blouse!",
         "avi": "Tôi thích áo cánh của cô đó.",
-        "bvi": "Ðó không phải là áo cánh."
+        "bvi": "Đó không phải là áo cánh."
       }
     ]
   },
@@ -1669,7 +1669,7 @@
         "a": "What's trade mark?",
         "b": "This is in best quality.",
         "avi": "Hiệu gì ạ?",
-        "bvi": "Ðây là loại tốt nhất."
+        "bvi": "Đây là loại tốt nhất."
       },
       {
         "a": "Local or introduced?",

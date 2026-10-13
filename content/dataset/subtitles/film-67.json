@@ -36,7 +36,7 @@
     {
       "e": 34.91,
       "en": "I'll just see if he's available - hold the line please.",
-      "vi": "Ðể tôi xem ông ấy có ở đây không - vui long giữ máy.",
+      "vi": "Để tôi xem ông ấy có ở đây không - vui long giữ máy.",
       "s": 31.31
     },
     {
@@ -74,10 +74,10 @@
     {
       "e": 64.71,
       "en": "Let me check the number, 23115654.",
-      "vi": "Ðể tôi kiểm tra số điện thoại lại 23115654.",
+      "vi": "Để tôi kiểm tra số điện thoại lại 23115654.",
       "s": 60.07
     },
-    {"e": 65.76, "en": "That's right.", "vi": "Ðúng rồi.", "s": 64.71},
+    {"e": 65.76, "en": "That's right.", "vi": "Đúng rồi.", "s": 64.71},
     {"e": 68.15, "en": "I'll pass that message on.", "vi": "Tôi sẽ nhắn lại giúp cô.", "s": 65.76},
     {"e": 69.33, "en": "Thank you.", "vi": "Cảm ơn cô.", "s": 68.15},
     {"e": 69.86, "en": "Thanks.", "vi": "Cảm ơn.", "s": 69.33},
@@ -91,7 +91,7 @@
     {
       "e": 83.89,
       "en": "This is Tom Wilson returning your call.",
-      "vi": "Ðây là Tom Wison đang gọi lại cho cô.",
+      "vi": "Đây là Tom Wison đang gọi lại cho cô.",
       "s": 80.65
     },
     {
@@ -109,14 +109,14 @@
     {
       "e": 95.53,
       "en": "Yes certainly. How about Thursday about two-thirty.",
-      "vi": "Ðương nhiên là được. Thứ Năm vào lúc 2h30 được không?",
+      "vi": "Đương nhiên là được. Thứ Năm vào lúc 2h30 được không?",
       "s": 91.14
     },
     {"e": 97.23, "en": "That would be fine.", "vi": "Tốt lắm.", "s": 95.53},
     {
       "e": 99.47,
       "en": "Okay, I look forward to seeing you then.",
-      "vi": "Ðược rồi, hẹn gặp lại cô khi ấy.",
+      "vi": "Được rồi, hẹn gặp lại cô khi ấy.",
       "s": 97.23
     },
     {
@@ -207,7 +207,7 @@
     {
       "e": 165.17,
       "en": "Don't wait to be asked, but offer the information.",
-      "vi": "Ðừng đợi để được hỏi, mà nên cung cấp thông tin trước.",
+      "vi": "Đừng đợi để được hỏi, mà nên cung cấp thông tin trước.",
       "s": 161.14
     },
     {
@@ -330,7 +330,7 @@
     {
       "e": 258.34,
       "en": "The receptionist says: \"I'll just see if he's available\", then \"hold the line please\".",
-      "vi": "Người tiếp tân nói: \"Ðể tôi xem ông ấy có rảnh không,\" rồi \"vui lòng giữ máy\".",
+      "vi": "Người tiếp tân nói: \"Để tôi xem ông ấy có rảnh không,\" rồi \"vui lòng giữ máy\".",
       "s": 251.44
     },
     {
@@ -453,7 +453,7 @@
     {
       "e": 360.68,
       "en": "Of course the important detail here is the actual phone number.",
-      "vi": "Ðương nhiên chi tiết quan trọng ở đây là số điện thoại.",
+      "vi": "Đương nhiên chi tiết quan trọng ở đây là số điện thoại.",
       "s": 355.45
     },
     {
@@ -551,7 +551,7 @@
     {
       "e": 452.82,
       "en": "Okay, I look forward to seeing you then.",
-      "vi": "Ðược rồi, hẹn gặp cô khi ấy.",
+      "vi": "Được rồi, hẹn gặp cô khi ấy.",
       "s": 450.59
     },
     {
@@ -594,7 +594,7 @@
     {
       "e": 482.52,
       "en": "This is polite, because he is the customer in this situation.",
-      "vi": "Ðây là phép lịch sự, vì trong ngữ cảnh này, ông ấy là khách hàng.",
+      "vi": "Đây là phép lịch sự, vì trong ngữ cảnh này, ông ấy là khách hàng.",
       "s": 478.35
     },
     {
@@ -642,7 +642,7 @@
     {
       "e": 520.88,
       "en": "I'll just see if he's available.",
-      "vi": "Ðể tôi xem ông ấy có rảnh không.",
+      "vi": "Để tôi xem ông ấy có rảnh không.",
       "s": 515.96
     },
     {
@@ -678,7 +678,7 @@
     {
       "e": 548.56,
       "en": "This is Lin Chan returning your call.",
-      "vi": "Ðây là Lin Chang đang gọi lại cho bạn.",
+      "vi": "Đây là Lin Chang đang gọi lại cho bạn.",
       "s": 543.46
     },
     {
@@ -702,7 +702,7 @@
     {
       "e": 569.04,
       "en": "Don't speak too fast, and check that the other person has understood.",
-      "vi": "Ðừng nói quá nhanh, và kiểm tra xem người ở đầu dây bên kia có hiểu không.",
+      "vi": "Đừng nói quá nhanh, và kiểm tra xem người ở đầu dây bên kia có hiểu không.",
       "s": 563.73
     },
     {
@@ -732,7 +732,7 @@
     {
       "e": 591.49,
       "en": "This is Tom Wilson returning your call.",
-      "vi": "Ðây là Tom Wilson đang gọi lại cho cô.",
+      "vi": "Đây là Tom Wilson đang gọi lại cho cô.",
       "s": 588.77
     },
     {

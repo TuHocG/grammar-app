@@ -324,8 +324,8 @@
       {"en": "dust storm", "vi": "bão bụi", "xy": [394, 541]},
       {"en": "heat wave", "vi": "đợt nóng", "xy": [588, 540]},
       {"en": "thermometer", "vi": "nhiệt kế", "xy": [865, 4294967293]},
-      {"en": "Fahrenheit", "vi": "Ðộ F", "xy": [805, 565]},
-      {"en": "Centigrade / Celsius", "vi": "Ðộ C", "xy": [935, 563]},
+      {"en": "Fahrenheit", "vi": "Độ F", "xy": [805, 565]},
+      {"en": "Centigrade / Celsius", "vi": "Độ C", "xy": [935, 563]},
       {"en": "hot", "vi": "nóng", "xy": [869, 170]},
       {"en": "warm", "vi": "ấm áp", "xy": [869, 220]},
       {"en": "cool", "vi": "mát mẻ", "xy": [869, 284]},
@@ -1596,7 +1596,7 @@
   },
   {
     "id": 49,
-    "title": "Ðồ gia dụng",
+    "title": "Đồ gia dụng",
     "first": 1176,
     "words": [
       {"en": "napkins", "vi": "khăn ăn", "xy": [13, 52]},
@@ -1842,7 +1842,7 @@
       {"en": "white bread", "vi": "bánh mì trắng", "xy": [15, 553]},
       {"en": "whole wheat bread", "vi": "bánh mì lúa mạch", "xy": [151, 568]},
       {"en": "pita bread", "vi": "bánh mì dẹp", "xy": [282, 570]},
-      {"en": "pumpernickel", "vi": "bánh mì đen của Ðức", "xy": [431, 578]},
+      {"en": "pumpernickel", "vi": "bánh mì đen của Đức", "xy": [431, 578]},
       {"en": "rye bread", "vi": "bánh mì lúa mạch đen", "xy": [554, 576]},
       {"en": "a roll", "vi": "bánh mì tròn", "xy": [690, 571]},
       {"en": "a submarine roll", "vi": "bánh mì dài", "xy": [793, 565]}
@@ -2118,7 +2118,7 @@
   },
   {
     "id": 64,
-    "title": "Ðồ trang sức",
+    "title": "Đồ trang sức",
     "first": 1566,
     "words": [
       {"en": "ring", "vi": "nhẫn", "xy": [149, 58]},
@@ -3495,7 +3495,7 @@
   },
   {
     "id": 102,
-    "title": "Ðịa hình",
+    "title": "Địa hình",
     "first": 2583,
     "words": [
       {"en": "forest / woods", "vi": "rừng", "xy": [38, 59]},
@@ -3596,7 +3596,7 @@
         "vi": "vật thể bay",
         "xy": [830, 458]
       },
-      {"en": "The Big Dipper", "vi": "Ðại Hùng Tinh", "xy": [123, 261]},
+      {"en": "The Big Dipper", "vi": "Đại Hùng Tinh", "xy": [123, 261]},
       {"en": "The little Dipper", "vi": "Tiểu Hùng Tinh", "xy": [55, 305]}
     ],
     "page": "img/pages/105.webp"
@@ -4259,7 +4259,7 @@
       {"en": "north", "vi": "Bắc", "xy": [79, 497]},
       {"en": "south", "vi": "Nam", "xy": [79, 658]},
       {"en": "west", "vi": "Tây", "xy": [23, 600]},
-      {"en": "east", "vi": "Ðông", "xy": [178, 601]},
+      {"en": "east", "vi": "Đông", "xy": [178, 601]},
       {"en": "Turn left", "vi": "quẹo trái", "xy": [222, 497]},
       {"en": "Turn right", "vi": "quẹo phải", "xy": [328, 496]},
       {"en": "Go straight", "vi": "đi thẳng", "xy": [431, 497]},
@@ -5372,7 +5372,7 @@
   },
   {
     "id": 152,
-    "title": "Ðộng đất - thiên tai",
+    "title": "Động đất - thiên tai",
     "first": 4028,
     "words": [
       {"en": "earthquake", "vi": "động đất", "xy": [2, 6]},

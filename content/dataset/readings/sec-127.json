@@ -25,15 +25,15 @@
       ["trước khi đọc"],
       ["Dưới đây là hai kì quan nổi tiếng thế giới.", "Hãy nhìn hình và trả lời các câu hỏi."],
       ["Bạn có thể kể tên hai kỳ quan thế giới này không?"],
-      ["Chúng là Kim tự tháp và Ðền Taj Mahal."],
+      ["Chúng là Kim tự tháp và Đền Taj Mahal."],
       ["Theo bạn, hai kỳ quan này ở đâu?"],
       ["Kim tự tháp ở Ai cập còn đền Taj Mahal ở ấn độ."],
       ["Bạn biết gì về chúng?"],
       [
-        "Ðại kim tự tháp được xây dựng bởi Pha-ra-ông Khufu của Ai Cập vào khoảng năm 2560 trước công nguyên."
+        "Đại kim tự tháp được xây dựng bởi Pha-ra-ông Khufu của Ai Cập vào khoảng năm 2560 trước công nguyên."
       ],
       [
-        "Ðền Taj Mahal do hoàng đế ấn độ xây dựng để tưởng niệm người vợ yêu quí của mình.",
+        "Đền Taj Mahal do hoàng đế ấn độ xây dựng để tưởng niệm người vợ yêu quí của mình.",
         "Nó được xem là một trong những tòa nhà đẹp nhất thế giới."
       ]
     ],
@@ -75,9 +75,9 @@
     ],
     "vi": [
       ["Hãy đọc đoạn văn rồi làm các bài tập bên dưới."],
-      ["Ðại Kim Tự Tháp Giza"],
+      ["Đại Kim Tự Tháp Giza"],
       [
-        "Ðại Kim Tự Tháp Giza được vị Pharaon Khufu xây dựng vào khoảng năm 2560 trước Công Nguyên.",
+        "Đại Kim Tự Tháp Giza được vị Pharaon Khufu xây dựng vào khoảng năm 2560 trước Công Nguyên.",
         "Mục đích xây dựng kim tự tháp băng đá khổng lồ này là dùng làm lăng mộ khi ông chết",
         "và bảo vệ hầm mộ khỏi sự xâm hại của thời tiết cũng như những kẻ trộm có thể sẽ tìm cách lấy trộm châu báu và các vật dụng ở đó.",
         "Người ta cho rằng đại Kim Tự Tháp đã được xây dựng trong một khoảng thời gian hơn hai mươi năm.",
@@ -85,7 +85,7 @@
       ],
       [
         "Sau khi xây xong, đại Kim Tự Tháp có chiều cao 147 mét đứng trên một chân đế có diện tích 230 mét vuông.",
-        "Ðây là công trình kiến trúc được xếp vào hàng cao nhất trái đất trong hơn 43 thế kỷ qua,",
+        "Đây là công trình kiến trúc được xếp vào hàng cao nhất trái đất trong hơn 43 thế kỷ qua,",
         "chỉ bị qua mặt về chiều cao vào thế kỷ thứ 19 sau Công Nguyên.",
         "Công trình kiến trúc này bao gồm khoảng 2 triệu khối đá, mỗi khối nặng khoảng 2.5 tấn.",
         "Có giả thuyết cho rằng những khối đá trong 3 kim tự tháp này đủ để xây một bức tường cao 3 mét, ngang 0,3 mét vòng quanh nước Pháp."
@@ -126,11 +126,11 @@
       [
         "Phần 1",
         "Các từ trong khung xuất hiện trong bài đọc.",
-        "Ðiền vào mỗi chỗ trống với một từ thích hợp."
+        "Điền vào mỗi chỗ trống với một từ thích hợp."
       ],
       ["Tuần trước, chúng tôi tham quan ngôi mộ của một vị quan lại không được biết."],
       ["Phim đó nói về một kỳ quan của thế giới."],
-      ["Ðường dốc thường ở chỗ lối ra và lối đẩy xe lăn."],
+      ["Đường dốc thường ở chỗ lối ra và lối đẩy xe lăn."],
       ["Phòng ngủ riêng tư của hoàng hậu không mở công khai."],
       ["Không biết vì sao Beson mất tích trong trường hợp bí ẩn như thế."],
       ["Vỏ ốc sên có dạng xoắn ốc."]
@@ -163,12 +163,12 @@
     ],
     "vi": [
       ["Phần 2", "Trả lời các câu hỏi sau."],
-      ["Ðại him tự tháp Giza được xây dựng ở đâu và nó được xây dựng khi nào?"],
+      ["Đại him tự tháp Giza được xây dựng ở đâu và nó được xây dựng khi nào?"],
       [
-        "Ðại kim tự tháp Giza được xây dựng bởi Pha-ra-ông Khufu của Ai Cập vào khoảng năm 2560 trước công nguyên."
+        "Đại kim tự tháp Giza được xây dựng bởi Pha-ra-ông Khufu của Ai Cập vào khoảng năm 2560 trước công nguyên."
       ],
-      ["Ðại kim tự tháp Giza cao và rộng bao nhiêu?"],
-      ["Ðại kim tự tháp này cao 147 mét trên một bệ mỏng rộng 230 mét vuông."],
+      ["Đại kim tự tháp Giza cao và rộng bao nhiêu?"],
+      ["Đại kim tự tháp này cao 147 mét trên một bệ mỏng rộng 230 mét vuông."],
       ["Mục đích của kim tự tháp bằng đá khổng lồ này là gì?"],
       [
         "Mục đích của kim tự tháp bằng đá khổng lồ này là hình thành ngôi mộ khi Pha-ra-ông Khufu qua đời",
@@ -197,7 +197,7 @@
       ["- each (line 12) refers to the block of stone."]
     ],
     "vi": [
-      ["Phần 3", "Ðọc lướt qua đoạn văn và cho biết những từ sau đây đề cập đến cái gì."],
+      ["Phần 3", "Đọc lướt qua đoạn văn và cho biết những từ sau đây đề cập đến cái gì."],
       ["who (dòng 4) nói về những tên trộm."],
       ["it (dòng 8) nói về Kim tự tháp."],
       ["It (dòng 9) nói về Kim tự tháp"],
@@ -288,12 +288,12 @@
         "Các câu sau xuất hiện trong bài đọc.",
         "Thực hành theo cặp.",
         "Câu nào diễn tả sự kiện, câu nào diễn tả ý kiến.",
-        "Ðánh dấu vào ô đúng."
+        "Đánh dấu vào ô đúng."
       ],
       ["Người ta tin rằng đại kim tự tháp được xây dựng trong khoảng thời gian 20 năm.(O)"],
-      ["Ðại kim tự tháp cao 147 mét.(F)"],
+      ["Đại kim tự tháp cao 147 mét.(F)"],
       [
-        "Ðại kim tự tháp được xếp vào hàng công trình cao nhất trên thế giới trong vòng 43 thế kỉ.(F)"
+        "Đại kim tự tháp được xếp vào hàng công trình cao nhất trên thế giới trong vòng 43 thế kỉ.(F)"
       ],
       ["Công trình này bao gồm 2 triệu khối đá.(F)"],
       [
@@ -341,8 +341,8 @@
         "Nói với bạn bên cạnh về một số sự kiện và ý kiến về đại kim tự tháp Giza, sử dụng thông tin trong Task 1."
       ],
       ["sự kiện"],
-      ["Ðại kim tự tháp cao 147 mét."],
-      ["Ðại kim tự tháp được xếp vào hàng công trình cao nhất trên thế giới trong vòng 43 thế kỉ."],
+      ["Đại kim tự tháp cao 147 mét."],
+      ["Đại kim tự tháp được xếp vào hàng công trình cao nhất trên thế giới trong vòng 43 thế kỉ."],
       ["Công trình này bao gồm 2 triệu khối đá."],
       ["ý kiến"],
       ["Người ta tin rằng đại kim tự tháp này đã được xây dựng trong khoảng thời gian hơn 20 năm."],
@@ -391,10 +391,10 @@
       ["Họ đã vận chuyển chúng như thế nào?"],
       ["Bằng cách nào họ có thể xây dựng kim tự tháp cao như thế?"],
       ["Ví dụ:"],
-      ["Tôi nghĩ Ðại kim tự tháp Giza được xây bởi một người khổng lồ."],
-      ["Ðại kim tự tháp Giza được cho là xây bởi một người khổng lồ."],
-      ["Có lẽ một người khổng lồ đã xây Ðại kim tự tháp Giza."],
-      ["Một người khổng lồ có lẽ đã xây Ðại kim tự tháp Giza."]
+      ["Tôi nghĩ Đại kim tự tháp Giza được xây bởi một người khổng lồ."],
+      ["Đại kim tự tháp Giza được cho là xây bởi một người khổng lồ."],
+      ["Có lẽ một người khổng lồ đã xây Đại kim tự tháp Giza."],
+      ["Một người khổng lồ có lẽ đã xây Đại kim tự tháp Giza."]
     ],
     "img": "img/readings/1.11.181c.webp",
     "page": "181"
@@ -584,7 +584,7 @@
         "Người ta thêm công trình xây dựng bằng gạch và đá gra-nit, thêm nhiều nét cầu kì hơn.",
         "Trường thành không chỉ có ý nghĩa quan trọng trong quá khứ mà còn biểu hiện một công trình nỗ lực của con người.",
         "Nó là một trong hai công trình trên trái đất có thể nhìn thấy từ mặt trăng.",
-        "Ðó là lí do tại sao nó trở thành một trong những kì quan lớn nhất thế giới."
+        "Đó là lí do tại sao nó trở thành một trong những kì quan lớn nhất thế giới."
       ]
     ],
     "img": "img/readings/1.11.183d.webp",
@@ -639,11 +639,11 @@
       ],
       ["Phần giới thiệu sơ lược"],
       ["Chuyến tham quan ngắn đến Tháp Bà Ponagar ở Nha Trang"],
-      ["Ðiển hình của kiến trúc người Chăm ở miền Trung"],
+      ["Điển hình của kiến trúc người Chăm ở miền Trung"],
       ["Chi tiết"],
       ["Bao gồm 4 tháp"],
       ["Nằm trên ngọn đồi cam thạch Cù Lao, cách Nha Trang 2 km về phía bắc"],
-      ["Ðược xây dựng từ thế kỉ thứ 8 đến thế kỉ thứ 13"],
+      ["Được xây dựng từ thế kỉ thứ 8 đến thế kỉ thứ 13"],
       ["Mỗi tháp thờ một vị thần khác nhau"],
       [
         "Tháp lớn nhất cao 22,5 mét, được xây dựng để tỏ lòng tôn kính Thiên Y Thánh Mẫu Ana, gồm bức tượng bằng sa thạch, ngồi trên bệ đá hình đài sen"
@@ -894,7 +894,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc đoạn văn và trả lời các câu hỏi."],
+      ["Đọc đoạn văn và trả lời các câu hỏi."],
       [
         "Trong thế kỉ 19 và 20, rất nhiều khám phá quan trọng đã được thực hiện trong lĩnh vực y khoa.",
         "Chẳng hạn vào năm 1895 một bác sĩ người đức tên là Rơngen đã phát minh ra máy chụp X quang.",
@@ -939,11 +939,11 @@
       ]
     ],
     "vi": [
-      ["Ðọc đoạn văn và trả lời các câu hỏi."],
+      ["Đọc đoạn văn và trả lời các câu hỏi."],
       ["Nhiều khám phá rất quan trọng trong y khoa được thực hiện khi nào?"],
       ["Chúng được hình thành trong y khoa từ thế kỉ 19-20."],
       ["Ai phát minh ra máy chụp X quang vào năm 1895?"],
-      ["Một bác sĩ người Ðức là Roentgen đã phát minh ra máy chụp X quang vào năm 1895."],
+      ["Một bác sĩ người Đức là Roentgen đã phát minh ra máy chụp X quang vào năm 1895."],
       ["Pênixỉlin, thuốc kháng sinh đầu tiên, được phát hiện vào năm nào?"],
       ["Nó được khám phá năm 1928."],
       [
@@ -1057,7 +1057,7 @@
     "vi": [
       ["Viết"],
       ["Viết tiểu sử của Mark Twain, sử dụng các thông tin sau"],
-      ["Ðược biết là một trong những nhà văn Mỹ vĩ đại nhất"],
+      ["Được biết là một trong những nhà văn Mỹ vĩ đại nhất"],
       ["Tên thật"],
       ["Samuel Langhome Clemens"],
       ["năm 1835"],

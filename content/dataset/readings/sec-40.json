@@ -20,7 +20,7 @@
       ["f) They are waiting for a train."]
     ],
     "vi": [
-      ["Ði đây đó"],
+      ["Đi đây đó"],
       ["Bạn đang làm gì vậy?"],
       ["Tôi đang chơi video game."],
       ["Anh ấy đang chơi video game."],
@@ -166,18 +166,18 @@
       ["- How are they traveling?", "They are traveling by car."]
     ],
     "vi": [
-      ["Ðọc", "Sau đó hỏi và trả lời các câu hỏi với: Who, What, Where, How."],
-      ["Kia là ai?", "Ðó là Lan."],
+      ["Đọc", "Sau đó hỏi và trả lời các câu hỏi với: Who, What, Where, How."],
+      ["Kia là ai?", "Đó là Lan."],
       ["Cô ấy làm gì?", "Cô ấy là học sinh."],
       ["Cô ấy đang làm gì?", "Cô ấy đang đi đến trường."],
       ["Cô ấy đi bằng gì?", "Cô ấy đi bằng xe đạp."],
       ["ông Hà là một doanh nhân.", "ông sắp đi Hà Nội."],
-      ["Kia là ai?", "Ðó là ông Hà."],
+      ["Kia là ai?", "Đó là ông Hà."],
       ["ông ấy làm gì?", "ông ấy là doanh nhân."],
       ["ông ấy đi đâu?", "ông ấy đi Hà nội."],
       ["ông ấy đi bằng gì?", "ông ấy đi bằng máy bay."],
       ["Cô Hoa là giáo viên.", "Cô ấy đang đi đến trường."],
-      ["Kia là ai?", "Ðó là cô Hoa."],
+      ["Kia là ai?", "Đó là cô Hoa."],
       ["Cô ấy làm gì?", "Cô ấy là giáo viên."],
       ["Cô ấy đang làm gì?", "Cô ấy đang đi đến trường."],
       ["Cô ấy đi bằng gì?", "Cô ấy đi bộ.", "Cô ấy đi bộ đến trường."],
@@ -630,7 +630,7 @@
       ["- You can't ride a motorbike here."]
     ],
     "vi": [
-      ["Ðược và không được"],
+      ["Được và không được"],
       ["Tại giao lộ, bạn phải giảm tốc độ.", "Bạn không được đi nhanh."],
       ["Tại đây, bạn phải rẽ trái.", "Bạn không được rẽ phải.", "Bạn không được đi thẳng."],
       ["Tại đây, bạn phải dừng lại.", "Bạn không được chạy thẳng."],

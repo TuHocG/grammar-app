@@ -44,7 +44,7 @@
       "s": 76.72
     },
     {"e": 81.19, "en": "Azul, now!", "vi": "Azul mau nào!", "s": 78.89},
-    {"e": 84.8, "en": "Okay, okay, I'm coming.", "vi": "Ðược rồi tớ đến đây.", "s": 81.19},
+    {"e": 84.8, "en": "Okay, okay, I'm coming.", "vi": "Được rồi tớ đến đây.", "s": 81.19},
     {
       "e": 88.99,
       "en": "What could be so important that I...",
@@ -145,13 +145,13 @@
     {
       "e": 180.8,
       "en": "Here on my island, there's nothing but fun",
-      "vi": "Ðảo thân thương không gì mà vui nhộn.",
+      "vi": "Đảo thân thương không gì mà vui nhộn.",
       "s": 176.61
     },
     {
       "e": 184.08,
       "en": "Vines you can swing from. A nap in the sun",
-      "vi": "Ðu dây nho và ngủ dưới mặt trời.",
+      "vi": "Đu dây nho và ngủ dưới mặt trời.",
       "s": 180.8
     },
     {
@@ -175,7 +175,7 @@
     {
       "e": 195.97,
       "en": "I'll take the high path. And I'll take the low path",
-      "vi": "Ði lên trên rồi xuống dưới tự do",
+      "vi": "Đi lên trên rồi xuống dưới tự do",
       "s": 192.3
     },
     {
@@ -225,7 +225,7 @@
     {
       "e": 244.6,
       "en": "Here on our island the fun never ends",
-      "vi": "Ðảo thân yêu với nắng vàng bất tận",
+      "vi": "Đảo thân yêu với nắng vàng bất tận",
       "s": 241.45
     },
     {
@@ -271,7 +271,7 @@
     {
       "e": 340.98,
       "en": "That's your star and Sagi's and mine and Azul's.",
-      "vi": "Ðó là ngôi sao của cậu. Cái đó của Sagi, còn kia là của tôi và của Azul.",
+      "vi": "Đó là ngôi sao của cậu. Cái đó của Sagi, còn kia là của tôi và của Azul.",
       "s": 334.45
     },
     {"e": 343.07, "en": "He has two.", "vi": "Của cậu có đôi.", "s": 340.98},
@@ -289,7 +289,7 @@
     {
       "e": 367.08,
       "en": "Fireflies glow like a thousand charms",
-      "vi": "Ðom đóm rực sáng muôn ngàn vẻ đẹp",
+      "vi": "Đom đóm rực sáng muôn ngàn vẻ đẹp",
       "s": 361.66
     },
     {"e": 368.77, "en": "Stay with me", "vi": "hãy thức cùng tôi nhé", "s": 367.08},
@@ -339,7 +339,7 @@
     {
       "e": 419.01,
       "en": "Okay. But you know I don't remember all the words.",
-      "vi": "Ðược nhưng tôi không thuộc hết lời.",
+      "vi": "Được nhưng tôi không thuộc hết lời.",
       "s": 415.31
     },
     {"e": 425.12, "en": "La, la, la. La, la, la", "vi": "La, la, la. La, la, la", "s": 419.01},
@@ -347,7 +347,7 @@
     {"e": 457.82, "en": "La, la, la. La, la, la...", "vi": "La, la, la. La, la, la...", "s": 430.4},
     {"e": 460.68, "en": "Good night, Tika.", "vi": "Chúc ngủ ngon nhé, Toka.", "s": 457.82},
     {"e": 473.9, "en": "...", "vi": "...", "s": 460.68},
-    {"e": 477.43, "en": "Land ho!", "vi": "Ðất liền.", "s": 473.9},
+    {"e": 477.43, "en": "Land ho!", "vi": "Đất liền.", "s": 473.9},
     {
       "e": 479.97,
       "en": "Three points off the starboard bow.",
@@ -455,7 +455,7 @@
       "vi": "Nhắm mắt mà chạy đi thôi",
       "s": 554.66
     },
-    {"e": 559.11, "en": "This doesn't happen every day", "vi": "Ðây là dịp đặc biệt", "s": 556.89},
+    {"e": 559.11, "en": "This doesn't happen every day", "vi": "Đây là dịp đặc biệt", "s": 556.89},
     {
       "e": 566.44,
       "en": "Feeling the excitement grow",
@@ -473,7 +473,7 @@
     {
       "e": 589.89,
       "en": "The fast way to see the island.",
-      "vi": "Ðó là cách nhanh nhất để tham quan.",
+      "vi": "Đó là cách nhanh nhất để tham quan.",
       "s": 587.74
     },
     {"e": 593.8, "en": "Oh, deep shadows.", "vi": "ồ sâu thẳm quá", "s": 589.89},
@@ -494,7 +494,7 @@
     {
       "e": 612.74,
       "en": "No sudden movements, Frazer.",
-      "vi": "Ðừng hoảng hốt, Frazer.",
+      "vi": "Đừng hoảng hốt, Frazer.",
       "s": 607.36
     },
     {
@@ -515,7 +515,7 @@
     {
       "e": 649.3,
       "en": "Fang! Don't even think about it.",
-      "vi": "Fang! Ðừng nghĩ đến chuyện đó nhé.",
+      "vi": "Fang! Đừng nghĩ đến chuyện đó nhé.",
       "s": 640.55
     },
     {
@@ -547,7 +547,7 @@
     {"e": 669.66, "en": "Who are you?", "vi": "Các anh là ai vậy?", "s": 667.6},
     {"e": 672.44, "en": "Who are you?", "vi": "Còn cô là ai?", "s": 669.66},
     {"e": 678.53, "en": "Ro.", "vi": "Ro", "s": 672.44},
-    {"e": 681.09, "en": "Is that your name?", "vi": "Ðó là tên của cô à?", "s": 678.53},
+    {"e": 681.09, "en": "Is that your name?", "vi": "Đó là tên của cô à?", "s": 678.53},
     {"e": 682.39, "en": "I think so.", "vi": "Tôi nghĩ như vậy đấy.", "s": 681.09},
     {
       "e": 684.57,
@@ -580,7 +580,7 @@
     {
       "e": 714.95,
       "en": "A red panda, elephant and peacock, Your Highness.",
-      "vi": "Là một con chồn, một con voi và một con công, thưa Ðiện hạ.",
+      "vi": "Là một con chồn, một con voi và một con công, thưa Điện hạ.",
       "s": 710.36
     },
     {"e": 718.96, "en": "You saved us.", "vi": "Cô đã cứu chúng tôi", "s": 714.95},
@@ -624,7 +624,7 @@
     {
       "e": 745.26,
       "en": "Okay, okay, Azul, we get it.",
-      "vi": "Ðược rồi. Ðược rồi, Azul, chúng ta sẽ đi mà.",
+      "vi": "Được rồi. Được rồi, Azul, chúng ta sẽ đi mà.",
       "s": 738.73
     },
     {
@@ -668,7 +668,7 @@
     {
       "e": 769.85,
       "en": "This is Frazer, my friend and royal scientist.",
-      "vi": "Ðây là Frazer, bạn tôi và là nhà khoa học.",
+      "vi": "Đây là Frazer, bạn tôi và là nhà khoa học.",
       "s": 766.41
     },
     {
@@ -678,7 +678,7 @@
       "s": 769.85
     },
     {"e": 776.27, "en": "Ro, come with us.", "vi": "Ro, hãy đi với chúng tôi nhé.", "s": 772.81},
-    {"e": 778.12, "en": "To civilization.", "vi": "Ðến xứ sở văn minh.", "s": 776.27},
+    {"e": 778.12, "en": "To civilization.", "vi": "Đến xứ sở văn minh.", "s": 776.27},
     {"e": 780.39, "en": "Civilization?", "vi": "Xứ sở văn minh à?", "s": 778.12},
     {
       "e": 783.27,
@@ -689,7 +689,7 @@
     {
       "e": 785.89,
       "en": "A world of people like you and me.",
-      "vi": "Ðó là thế giới của những người như cô và tôi.",
+      "vi": "Đó là thế giới của những người như cô và tôi.",
       "s": 783.27
     },
     {"e": 795.53, "en": "...", "vi": "...", "s": 785.89},
@@ -762,7 +762,7 @@
     {
       "e": 876.38,
       "en": "Is this the tree he sleeps in?",
-      "vi": "Ðây có phải nhành cây mà chàng đã ngủ?",
+      "vi": "Đây có phải nhành cây mà chàng đã ngủ?",
       "s": 872.77
     },
     {
@@ -822,7 +822,7 @@
       "vi": "Phải chăng nàng cũng thích ta?",
       "s": 964.33
     },
-    {"e": 970.36, "en": "How do I look tonight?", "vi": "Ðêm nay ta làm sao vậy?", "s": 967.69},
+    {"e": 970.36, "en": "How do I look tonight?", "vi": "Đêm nay ta làm sao vậy?", "s": 967.69},
     {
       "e": 975.63,
       "en": "I just want everything to be right",
@@ -912,7 +912,7 @@
     {
       "e": 1115.71,
       "en": "What kind of beasts have you brought home this time?",
-      "vi": "Ðó là những loài thú gì vậy thưa ngài?",
+      "vi": "Đó là những loài thú gì vậy thưa ngài?",
       "s": 1111.86
     },
     {
@@ -986,7 +986,7 @@
     {
       "e": 1262.53,
       "en": "I can't wait for you to meet my parents.",
-      "vi": "Ðã đến lúc tôi phải giới thiệu cô với cha mẹ tôi.",
+      "vi": "Đã đến lúc tôi phải giới thiệu cô với cha mẹ tôi.",
       "s": 1256.05
     },
     {"e": 1277.02, "en": "...", "vi": "...", "s": 1262.53},
@@ -1032,7 +1032,7 @@
     {
       "e": 1322.06,
       "en": "Good to be home, Father.",
-      "vi": "Ðược ở nhà thật tuyệt, thưa cha.",
+      "vi": "Được ở nhà thật tuyệt, thưa cha.",
       "s": 1320.49
     },
     {
@@ -1046,7 +1046,7 @@
     {
       "e": 1340.5,
       "en": "That's Azul. And this is Sagi.",
-      "vi": "Ðó là Azul, còn đây là Sagi.",
+      "vi": "Đó là Azul, còn đây là Sagi.",
       "s": 1335.87
     },
     {"e": 1342.16, "en": "Where's Ro?", "vi": "Còn Ro đâu?", "s": 1340.5},
@@ -1387,7 +1387,7 @@
     },
     {"e": 1677.12, "en": "Oh, poor thing.", "vi": "Thật là tội nghiệp.", "s": 1669.2},
     {"e": 1699.27, "en": "...", "vi": "...", "s": 1677.12},
-    {"e": 1701.52, "en": "Here you are, Pearl.", "vi": "Ðến nơi rồi Pearl.", "s": 1699.27},
+    {"e": 1701.52, "en": "Here you are, Pearl.", "vi": "Đến nơi rồi Pearl.", "s": 1699.27},
     {
       "e": 1703.72,
       "en": "They could have found me a bigger room.",
@@ -1413,7 +1413,7 @@
       "vi": "và con không chắc con có được như thế không.",
       "s": 1712.11
     },
-    {"e": 1717.35, "en": "Don't even joke about that!", "vi": "Ðừng có nói giỡn!", "s": 1714.72},
+    {"e": 1717.35, "en": "Don't even joke about that!", "vi": "Đừng có nói giỡn!", "s": 1714.72},
     {
       "e": 1720.31,
       "en": "Did you see the way he looked at the island girl?",
@@ -1423,7 +1423,7 @@
     {
       "e": 1724.37,
       "en": "With disdain? Contempt? Scorn?",
-      "vi": "Ðó là cái nhìn khinh khi, miệt thị và xem rẻ chứ gì?",
+      "vi": "Đó là cái nhìn khinh khi, miệt thị và xem rẻ chứ gì?",
       "s": 1720.31
     },
     {
@@ -1535,7 +1535,7 @@
     {
       "e": 1811.5,
       "en": "The king's forgotten how he wrecked my family's life",
-      "vi": "Ðức vua không thể phá hỏng cuộc sống gia đình tôi.",
+      "vi": "Đức vua không thể phá hỏng cuộc sống gia đình tôi.",
       "s": 1803.46
     },
     {
@@ -1559,7 +1559,7 @@
     {
       "e": 1825.2,
       "en": "He took away our land which wasn't what we planned",
-      "vi": "Ðức vua đã cướp mất ngôi báu mà chúng tôi đã trù liệu",
+      "vi": "Đức vua đã cướp mất ngôi báu mà chúng tôi đã trù liệu",
       "s": 1821.28
     },
     {
@@ -1723,7 +1723,7 @@
     {
       "e": 1955.62,
       "en": "I would have done it myself.",
-      "vi": "Ðể tôi tự làm được mà.",
+      "vi": "Để tôi tự làm được mà.",
       "s": 1952.96
     },
     {
@@ -1746,7 +1746,7 @@
       "s": 1966.98
     },
     {"e": 1971.93, "en": "Mother.", "vi": "Mẹ.", "s": 1970.36},
-    {"e": 1974.39, "en": "Stop slouching.", "vi": "Ðừng rên rỉ.", "s": 1971.93},
+    {"e": 1974.39, "en": "Stop slouching.", "vi": "Đừng rên rỉ.", "s": 1971.93},
     {"e": 1983.34, "en": "...", "vi": "...", "s": 1974.39},
     {"e": 1984.4, "en": "Watch me.", "vi": "Hãy nhìn tôi này.", "s": 1983.34},
     {"e": 1989.23, "en": "Thank you.", "vi": "Cảm ơn.", "s": 1984.4},
@@ -1789,7 +1789,7 @@
     {
       "e": 2017.55,
       "en": "Don't be modest. Go on, you love to paint.",
-      "vi": "Ðừng ngại ngùng. Nói đi, con thích vẽ tranh mà.",
+      "vi": "Đừng ngại ngùng. Nói đi, con thích vẽ tranh mà.",
       "s": 2014.26
     },
     {"e": 2019.42, "en": "I do.", "vi": "Vâng.", "s": 2017.55},
@@ -1856,7 +1856,7 @@
     },
     {"e": 2112.77, "en": "Want one?", "vi": "Cô muốn ăn một trái không?", "s": 2110.61},
     {"e": 2114.84, "en": "Without a knife and fork?", "vi": "Không cần dao nĩa gì à?", "s": 2112.77},
-    {"e": 2116.69, "en": "Don't be ridiculous.", "vi": "Ðừng nói giỡn thế.", "s": 2114.84},
+    {"e": 2116.69, "en": "Don't be ridiculous.", "vi": "Đừng nói giỡn thế.", "s": 2114.84},
     {"e": 2118.98, "en": "Just one bite?", "vi": "Chỉ cần cắn thôi sao?", "s": 2116.69},
     {
       "e": 2123.62,
@@ -1926,7 +1926,7 @@
     {
       "e": 2198.72,
       "en": "Oh! Pigs! Nasty little things.",
-      "vi": "Heo! Ðó là lũ ghê tởm.",
+      "vi": "Heo! Đó là lũ ghê tởm.",
       "s": 2187.45
     },
     {"e": 2200.52, "en": "Get away! Get away!", "vi": "Cút đi! Cút đi mau!", "s": 2198.72},
@@ -1945,7 +1945,7 @@
       "vi": "Tất cả chỉ vì con heo đó.",
       "s": 2218.76
     },
-    {"e": 2224.01, "en": "Let me help, Mother.", "vi": "Ðể con giúp mẹ nhé.", "s": 2221.84},
+    {"e": 2224.01, "en": "Let me help, Mother.", "vi": "Để con giúp mẹ nhé.", "s": 2221.84},
     {"e": 2226.22, "en": "Odd, isn't it?", "vi": "Cha có thấy không?", "s": 2224.01},
     {
       "e": 2229.91,
@@ -1972,7 +1972,7 @@
       "vi": "Bạn làm tốt lắm đấy Tallulah.",
       "s": 2239.54
     },
-    {"e": 2245.1, "en": "You're a natural.", "vi": "Ðúng là bản năng tự nhiên mà.", "s": 2242.42},
+    {"e": 2245.1, "en": "You're a natural.", "vi": "Đúng là bản năng tự nhiên mà.", "s": 2242.42},
     {
       "e": 2247.57,
       "en": "Not another word against Queen Ariana.",
@@ -2039,7 +2039,7 @@
     {
       "e": 2321.27,
       "en": "It's a big dance to congratulate Prince Antonio and Princess Luciana.",
-      "vi": "Ðó là buổi dạ vũ chúc mừng hoàng tử Antonio và công chúa Luciana.",
+      "vi": "Đó là buổi dạ vũ chúc mừng hoàng tử Antonio và công chúa Luciana.",
       "s": 2315.97
     },
     {
@@ -2136,7 +2136,7 @@
       "vi": "đựng trong chén trái cây kèm theo một nụ cười duyên dáng",
       "s": 2385.9
     },
-    {"e": 2391.99, "en": "Hmm: That's it!", "vi": "um, Ðược đấy!", "s": 2390.16},
+    {"e": 2391.99, "en": "Hmm: That's it!", "vi": "um, Được đấy!", "s": 2390.16},
     {
       "e": 2396.03,
       "en": "Something satin, throw a hat in. And a purple parasol",
@@ -2269,7 +2269,7 @@
       "vi": "Với bộ áo này cô sẽ làm mê mệt hoàng tử.",
       "s": 2480.75
     },
-    {"e": 2486.43, "en": "Perfect.", "vi": "Ðẹp quá!", "s": 2483.89},
+    {"e": 2486.43, "en": "Perfect.", "vi": "Đẹp quá!", "s": 2483.89},
     {"e": 2488.8, "en": "Well, almost.", "vi": "Sắp xong chưa.", "s": 2486.43},
     {
       "e": 2491.05,
@@ -2346,7 +2346,7 @@
     {
       "e": 2582.98,
       "en": "Outdoors if I can. Do you like to ride? Hike?",
-      "vi": "Tôi đi ra ngoài hóng mát. Nàng có thích cưỡi ngựa? Ði dạo?",
+      "vi": "Tôi đi ra ngoài hóng mát. Nàng có thích cưỡi ngựa? Đi dạo?",
       "s": 2579.54
     },
     {"e": 2586.6, "en": "Not exactly.", "vi": "Không hẳn thế.", "s": 2582.98},
@@ -2375,7 +2375,7 @@
     {
       "e": 2647.56,
       "en": "That's the prettiest dress I've ever seen.",
-      "vi": "Ðó là chiếc váy đẹp nhất tôi chưa từng được thấy bao giờ.",
+      "vi": "Đó là chiếc váy đẹp nhất tôi chưa từng được thấy bao giờ.",
       "s": 2644.46
     },
     {
@@ -2680,7 +2680,7 @@
     {
       "e": 2940.11,
       "en": "But I can't spend the rest of my life with someone I don't love.",
-      "vi": "Ðó là con không thể sống với người mà con không yêu.",
+      "vi": "Đó là con không thể sống với người mà con không yêu.",
       "s": 2934.26
     },
     {
@@ -2689,7 +2689,7 @@
       "vi": "Em gái con sẽ trị vì vương quốc.",
       "s": 2940.11
     },
-    {"e": 2945.55, "en": "Don't try my patience.", "vi": "Ðừng thách thức ta.", "s": 2943.25},
+    {"e": 2945.55, "en": "Don't try my patience.", "vi": "Đừng thách thức ta.", "s": 2943.25},
     {
       "e": 2948.83,
       "en": "Sorry, Father. I don't know any other way.",
@@ -2745,7 +2745,7 @@
     {
       "e": 3024.69,
       "en": "Put this powder in their food",
-      "vi": "Ðổ bột này vào thức ăn của chúng.",
+      "vi": "Đổ bột này vào thức ăn của chúng.",
       "s": 3016.81
     },
     {
@@ -2809,7 +2809,7 @@
     {
       "e": 3082.78,
       "en": "I find I like Havarti better",
-      "vi": "Tôi thì thích bơ Ðan Mạch hơn.",
+      "vi": "Tôi thì thích bơ Đan Mạch hơn.",
       "s": 3080.73
     },
     {
@@ -2940,13 +2940,13 @@
     {
       "e": 3146.45,
       "en": "Extra drippy, please!",
-      "vi": "Ðừng nói nữa, thèm nhỏ dãi đây này!",
+      "vi": "Đừng nói nữa, thèm nhỏ dãi đây này!",
       "s": 3144.67
     },
     {
       "e": 3149.08,
       "en": "Here is the end of our bedtime story",
-      "vi": "Ðã đến lúc rồi",
+      "vi": "Đã đến lúc rồi",
       "s": 3146.45
     },
     {
@@ -3231,7 +3231,7 @@
     {
       "e": 3430.24,
       "en": "Is it true? You put Ro in the dungeon?",
-      "vi": "Ðây có phải là sự thật. Cha đã giam cầm Ro?",
+      "vi": "Đây có phải là sự thật. Cha đã giam cầm Ro?",
       "s": 3419.89
     },
     {"e": 3432.05, "en": "I had no choice.", "vi": "Ta không còn cách nào khác.", "s": 3430.24},
@@ -3287,7 +3287,7 @@
     {
       "e": 3470.53,
       "en": "Enough! This marriage will happen.",
-      "vi": "Ðủ rồi! Hôn lễ sẽ diễn ra.",
+      "vi": "Đủ rồi! Hôn lễ sẽ diễn ra.",
       "s": 3467.4
     },
     {"e": 3472.13, "en": "End of discussion!", "vi": "và không bàn tán gì nữa!", "s": 3470.53},
@@ -3358,7 +3358,7 @@
       "vi": "Không như người mẹ xấu xa của cô ta.",
       "s": 3548.21
     },
-    {"e": 3554.42, "en": "Exactly.", "vi": "Ðúng đấy.", "s": 3552.92},
+    {"e": 3554.42, "en": "Exactly.", "vi": "Đúng đấy.", "s": 3552.92},
     {
       "e": 3557.59,
       "en": "We need to get back to the greenhouse and make that tonic.",
@@ -3368,7 +3368,7 @@
     {
       "e": 3561.31,
       "en": "Don't do it! They'll throw you into the dungeon again, or worse!",
-      "vi": "Ðừng làm thế! Họ sẽ lại giam chúng ta hoặc sẽ tệ hơn thế.",
+      "vi": "Đừng làm thế! Họ sẽ lại giam chúng ta hoặc sẽ tệ hơn thế.",
       "s": 3557.59
     },
     {
@@ -3440,7 +3440,7 @@
     {
       "e": 3617.9,
       "en": "It's something we were meant to share",
-      "vi": "Ðó cũng là nghĩa vụ phải chia sẻ",
+      "vi": "Đó cũng là nghĩa vụ phải chia sẻ",
       "s": 3615.21
     },
     {
@@ -3464,7 +3464,7 @@
     {
       "e": 3633.53,
       "en": "Only means that our circle has grown",
-      "vi": "Ðó chỉ là sự lớn khôn",
+      "vi": "Đó chỉ là sự lớn khôn",
       "s": 3628.93
     },
     {
@@ -3652,7 +3652,7 @@
       "vi": "Vâng thưa điện hạ, cô ấy đã rời khỏi đây tối qua.",
       "s": 3955.83
     },
-    {"e": 3961.52, "en": "Right.", "vi": "Ðược rồi.", "s": 3959.35},
+    {"e": 3961.52, "en": "Right.", "vi": "Được rồi.", "s": 3959.35},
     {"e": 3977.29, "en": "...", "vi": "...", "s": 3961.52},
     {
       "e": 3980.22,
@@ -3698,13 +3698,13 @@
     {
       "e": 4044.75,
       "en": "Right, we need to get started.",
-      "vi": "Ðược rồi, chúng ta phải nhanh lên.",
+      "vi": "Được rồi, chúng ta phải nhanh lên.",
       "s": 4041.58
     },
     {
       "e": 4048.86,
       "en": "Here, we can use this for the tonic.",
-      "vi": "Ðây, chúng ta cần nó để giải độc.",
+      "vi": "Đây, chúng ta cần nó để giải độc.",
       "s": 4044.75
     },
     {"e": 4053.06, "en": "Oh, hello again.", "vi": "Chào đằng ấy một lần nữa nhé!", "s": 4048.86},
@@ -3740,13 +3740,13 @@
     {
       "e": 4104.09,
       "en": "Enough! You're coming with us!",
-      "vi": "Ðủ rồi! Ði với chúng tôi!",
+      "vi": "Đủ rồi! Đi với chúng tôi!",
       "s": 4101.81
     },
     {
       "e": 4108.27,
       "en": "Find Tallulah and see if this works.",
-      "vi": "Ði tìm Tallulah và cho cô ta uống đi.",
+      "vi": "Đi tìm Tallulah và cho cô ta uống đi.",
       "s": 4104.09
     },
     {"e": 4110.2, "en": "Hurry.", "vi": "Nhanh lên.", "s": 4108.27},
@@ -3847,7 +3847,7 @@
     {
       "e": 4206.04,
       "en": "Surely you don't believe her story.",
-      "vi": "Ðức vua đừng tin vào câu chuyện của cô ta.",
+      "vi": "Đức vua đừng tin vào câu chuyện của cô ta.",
       "s": 4202.99
     },
     {"e": 4208.37, "en": "It's preposterous!", "vi": "Cô ấy đã dựng chuyện đấy!", "s": 4206.04},
@@ -3873,7 +3873,7 @@
       "s": 4223.31
     },
     {"e": 4232.03, "en": "Ariana.", "vi": "Ariana.", "s": 4229.12},
-    {"e": 4234.71, "en": "Don't be ridiculous!", "vi": "Ðừng có nhố nhăng!", "s": 4232.03},
+    {"e": 4234.71, "en": "Don't be ridiculous!", "vi": "Đừng có nhố nhăng!", "s": 4232.03},
     {
       "e": 4238.43,
       "en": "A grave accusation.",
@@ -3908,7 +3908,7 @@
     {
       "e": 4259.26,
       "en": "Don't be ridiculous. We haven't even had dinner.",
-      "vi": "Ðừng làm chuyện lố bịch nữa. Chưa đến giờ ăn tối mà.",
+      "vi": "Đừng làm chuyện lố bịch nữa. Chưa đến giờ ăn tối mà.",
       "s": 4255.64
     },
     {"e": 4262.08, "en": "Please, have a bite.", "vi": "Làm ơn cắn một miếng đi.", "s": 4259.26},
@@ -3949,7 +3949,7 @@
     {"e": 4376.62, "en": "Steady, Tika.", "vi": "Cố lên Tika.", "s": 4371.06},
     {"e": 4387.76, "en": "...", "vi": "...", "s": 4376.62},
     {"e": 4390.18, "en": "What?", "vi": "Gì thế?", "s": 4387.76},
-    {"e": 4392.64, "en": "Don't touch me! No!", "vi": "Ðừng đụng vào tao! Không!", "s": 4390.18},
+    {"e": 4392.64, "en": "Don't touch me! No!", "vi": "Đừng đụng vào tao! Không!", "s": 4390.18},
     {
       "e": 4401.82,
       "en": "Not the pigs. Anything but the pigs!",
@@ -4003,7 +4003,7 @@
     {
       "e": 4474.21,
       "en": "This is where you say yes.",
-      "vi": "Ðây là một hành động thay lời đồng ý đấy.",
+      "vi": "Đây là một hành động thay lời đồng ý đấy.",
       "s": 4467.7
     },
     {"e": 4482.74, "en": "Yes. Yes, yes, yes!", "vi": "Vâng, Vâng, Vâng, Vâng!", "s": 4474.21},
@@ -4047,7 +4047,7 @@
     {
       "e": 4548.1,
       "en": "Fireflies glow like a thousand charms",
-      "vi": "Ðom đóm rực sáng muôn ngàn vẻ đẹp",
+      "vi": "Đom đóm rực sáng muôn ngàn vẻ đẹp",
       "s": 4532.72
     },
     {"e": 4551.01, "en": "Stay with me", "vi": "hãy thức cùng tôi nhé", "s": 4548.1},
@@ -4063,7 +4063,7 @@
       "vi": "Hãy ngủ yêu trong vòng tay tôi.",
       "s": 4554.73
     },
-    {"e": 4569.26, "en": "Tonight", "vi": "Ðêm nay", "s": 4560.75},
+    {"e": 4569.26, "en": "Tonight", "vi": "Đêm nay", "s": 4560.75},
     {"e": 4572.25, "en": "Ro found her mother.", "vi": "Ro đã tìm lại được mẹ rồi.", "s": 4569.26},
     {
       "e": 4576.62,
@@ -4091,13 +4091,13 @@
     {
       "e": 4615.84,
       "en": "Is always with you whether near or far. Fireflies glow like a thousand charms",
-      "vi": "sẽ luôn ở bên con cho dù xa cách. Ðom đóm lấp lánh muôn ngàn vẻ đẹp.",
+      "vi": "sẽ luôn ở bên con cho dù xa cách. Đom đóm lấp lánh muôn ngàn vẻ đẹp.",
       "s": 4608.94
     },
     {
       "e": 4636.45,
       "en": "Stay with me, and you can dream forever. Right here in my arms. Tonight",
-      "vi": "Hãy ở bên mẹ và con sẽ mãi hạnh phúc. Trong tay mẹ hiền, Ðêm nay.",
+      "vi": "Hãy ở bên mẹ và con sẽ mãi hạnh phúc. Trong tay mẹ hiền, Đêm nay.",
       "s": 4615.84
     },
     {"e": 4652.68, "en": "...", "vi": "...", "s": 4636.45},
@@ -4168,7 +4168,7 @@
     {
       "e": 4693.38,
       "en": "This has to be the wedding of the year",
-      "vi": "Ðây sẽ là một đám cưới hoành tráng.",
+      "vi": "Đây sẽ là một đám cưới hoành tráng.",
       "s": 4691.01
     },
     {
@@ -4199,7 +4199,7 @@
     {
       "e": 4716.81,
       "en": "And that a family can grow",
-      "vi": "Ðiều đó mở đầu cho một gia đình hạnh phúc",
+      "vi": "Điều đó mở đầu cho một gia đình hạnh phúc",
       "s": 4711.31
     },
     {

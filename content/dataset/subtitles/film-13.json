@@ -58,7 +58,7 @@
     {
       "e": 55.51,
       "en": "William, let me introduce you to Dan. How do you do Dan. And this is William.",
-      "vi": "William, để tôi giới thiệu bạn với Dan. Chào Dan. Ðây là William.",
+      "vi": "William, để tôi giới thiệu bạn với Dan. Chào Dan. Đây là William.",
       "s": 49.25
     },
     {"e": 56.93, "en": "Oh, how do you do?", "vi": "Ồ xin chào.", "s": 55.51},
@@ -101,15 +101,15 @@
     {
       "e": 95.46,
       "en": "Bill live in Canada, but he used to live in Germany.",
-      "vi": "Bill sống ở Canada, nhưng trước đây anh ấy thường sống ở Ðức.",
+      "vi": "Bill sống ở Canada, nhưng trước đây anh ấy thường sống ở Đức.",
       "s": 92.09
     },
     {"e": 97.43, "en": "Are you a Canadian?", "vi": "Anh là người Canada phải không?", "s": 95.46},
-    {"e": 99.91, "en": "No, I am not. I am a German.", "vi": "Không, tôi là người Ðức.", "s": 97.43},
+    {"e": 99.91, "en": "No, I am not. I am a German.", "vi": "Không, tôi là người Đức.", "s": 97.43},
     {
       "e": 102.84,
       "en": "Are your wife and her family German, too?",
-      "vi": "Vợ anh và gia đình cô ấy cũng là người Ðức à?",
+      "vi": "Vợ anh và gia đình cô ấy cũng là người Đức à?",
       "s": 99.91
     },
     {
@@ -150,7 +150,7 @@
       "vi": "Rất hân hạnh được gặp cô, Arnanda.",
       "s": 125.16
     },
-    {"e": 128.68, "en": "This is William.", "vi": "Ðây là William.", "s": 127.78},
+    {"e": 128.68, "en": "This is William.", "vi": "Đây là William.", "s": 127.78},
     {
       "e": 131.57,
       "en": "Hello, William. It's nice to meet you, too.",
@@ -166,7 +166,7 @@
     {
       "e": 138.34,
       "en": "That's right. My mother is, but my father is not Russian.",
-      "vi": "Ðúng vậy. Mẹ tôi là người Nga, nhưng cha tôi không phải là người Nga.",
+      "vi": "Đúng vậy. Mẹ tôi là người Nga, nhưng cha tôi không phải là người Nga.",
       "s": 134.06
     },
     {"e": 139.67, "en": "He is an Englishman.", "vi": "Ông ấy là người Anh.", "s": 138.34},
@@ -194,7 +194,7 @@
     {
       "e": 163.72,
       "en": "This is William and Amanda.",
-      "vi": "Ðây là William và Amanda.",
+      "vi": "Đây là William và Amanda.",
       "s": 161.67
     },
     {
@@ -277,7 +277,7 @@
     {
       "e": 216.66,
       "en": "I went to Japan, Korea, Taiwan and China.",
-      "vi": "Tôi đã đến Nhật, Hàn quốc, Ðài Loan và Trung Quốc.",
+      "vi": "Tôi đã đến Nhật, Hàn quốc, Đài Loan và Trung Quốc.",
       "s": 211.89
     },
     {
@@ -305,7 +305,7 @@
       "vi": "Rất vui được gặp cô Amanda.",
       "s": 234.44
     },
-    {"e": 238.04, "en": "This is Dan.", "vi": "Ðây là Dan.", "s": 236.74},
+    {"e": 238.04, "en": "This is Dan.", "vi": "Đây là Dan.", "s": 236.74},
     {"e": 240.14, "en": "Hello Dan.", "vi": "Chào Dan.", "s": 238.04},
     {
       "e": 242.3,
@@ -317,7 +317,7 @@
     {
       "e": 248.87,
       "en": "No, in fact, I have just moved here from Taiwan.",
-      "vi": "Không, thật ra tôi vừa từ Ðài Loan đến.",
+      "vi": "Không, thật ra tôi vừa từ Đài Loan đến.",
       "s": 244.01
     },
     {"e": 256.93, "en": "...", "vi": "...", "s": 248.87},
@@ -338,7 +338,7 @@
     {
       "e": 273.96,
       "en": "That's right. I was born in Italy, but now I live in the US.",
-      "vi": "Ðúng vậy. Tôi sinh ở Ý. Nhưng hiện giờ tôi sống ở Mỹ.",
+      "vi": "Đúng vậy. Tôi sinh ở Ý. Nhưng hiện giờ tôi sống ở Mỹ.",
       "s": 269.48
     },
     {"e": 276.04, "en": "Are you from the US?", "vi": "Quê anh ở Mỹ à?", "s": 273.96},
@@ -373,7 +373,7 @@
     {
       "e": 309.86,
       "en": "That's all for this lesson of English.",
-      "vi": "Ðó là phần bài học tiếng Anh này.",
+      "vi": "Đó là phần bài học tiếng Anh này.",
       "s": 307.05
     },
     {"e": 312.04, "en": "You're doing a great job.", "vi": "Các bạn làm việc rất tốt.", "s": 309.86},

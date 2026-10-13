@@ -19,8 +19,8 @@
     {"e": 21.91, "en": "My name is Molly Stone.", "vi": "Tên tôi là Molly Stone.", "s": 18.96},
     {"e": 26.87, "en": "Molly Stone", "vi": "Molly Stone", "s": 21.91},
     {"e": 30.59, "en": "My name is Molly Stone.", "vi": "Tên tôi là Molly Stone", "s": 26.87},
-    {"e": 32.95, "en": "This is my first name.", "vi": "Ðây là tên tôi.", "s": 30.59},
-    {"e": 34.94, "en": "This is my last name.", "vi": "Ðây là họ của tôi.", "s": 32.95},
+    {"e": 32.95, "en": "This is my first name.", "vi": "Đây là tên tôi.", "s": 30.59},
+    {"e": 34.94, "en": "This is my last name.", "vi": "Đây là họ của tôi.", "s": 32.95},
     {"e": 37.91, "en": "Now, here's a question:", "vi": "Nào, giờ là câu hỏi", "s": 34.94},
     {"e": 47.43, "en": "What is your name?", "vi": "Bạn tên gì?", "s": 37.91},
     {"e": 55.48, "en": "My name is Molly Stone.", "vi": "Tên tôi là Molly Stone.", "s": 47.43},
@@ -54,7 +54,7 @@
     {
       "e": 122.63,
       "en": "Ok, now. This is my last name.",
-      "vi": "Ok, bây giờ. Ðây là họ của tôi.",
+      "vi": "Ok, bây giờ. Đây là họ của tôi.",
       "s": 118.31
     },
     {"e": 124.79, "en": "New question.", "vi": "Câu hỏi mới.", "s": 122.63},
@@ -150,9 +150,9 @@
     {"e": 360.21, "en": "Her first name is Peggy.", "vi": "Tên của cô ấy là Peggy.", "s": 357.08},
     {"e": 362.84, "en": "Her last name is Stone.", "vi": "Họ của cô ấy là Stone.", "s": 360.21},
     {"e": 365.62, "en": "Our last name is Stone.", "vi": "Họ của chúng tôi là Stone.", "s": 362.84},
-    {"e": 438.99, "en": "read and repeat", "vi": "Ðọc và lặp lại", "s": 365.62},
+    {"e": 438.99, "en": "read and repeat", "vi": "Đọc và lặp lại", "s": 365.62},
     {"e": 441.1, "en": "Now students", "vi": "Nào các em", "s": 438.99},
-    {"e": 442.85, "en": "Here's a question", "vi": "Ðây là câu hỏi.", "s": 441.1},
+    {"e": 442.85, "en": "Here's a question", "vi": "Đây là câu hỏi.", "s": 441.1},
     {"e": 449.55, "en": "What is... name?", "vi": "Họ tên... là gi?", "s": 442.85},
     {"e": 452.26, "en": "What is... name?", "vi": "Họ tên... là gi?", "s": 449.55},
     {"e": 458.38, "en": "...name is...", "vi": "...họ và tên... là...", "s": 452.26},
@@ -215,7 +215,7 @@
       "vi": "Và... Lisa. Tên của anh ấy là gì?",
       "s": 502.77
     },
-    {"e": 508.69, "en": "It is Chris.", "vi": "Ðó là Chris.", "s": 506.86},
+    {"e": 508.69, "en": "It is Chris.", "vi": "Đó là Chris.", "s": 506.86},
     {"e": 511.49, "en": "What is their last name?", "vi": "Họ của họ là gì?", "s": 508.69},
     {
       "e": 515.25,
@@ -270,7 +270,7 @@
     },
     {"e": 565.61, "en": "We have single", "vi": "Chúng ta có: độc thân.", "s": 561.96},
     {"e": 571.5, "en": "and married", "vi": "Và đã kết hôn.", "s": 565.61},
-    {"e": 580.51, "en": "single", "vi": "Ðộc thân.", "s": 571.5},
+    {"e": 580.51, "en": "single", "vi": "Độc thân.", "s": 571.5},
     {"e": 582.68, "en": "and married", "vi": "đã kết hôn", "s": 580.51},
     {"e": 592.85, "en": "we have a wife", "vi": "Chúng ta có: một người vợ", "s": 582.68},
     {"e": 595.23, "en": "and her husband", "vi": "và chồng của cô ấy.", "s": 592.85},
@@ -283,14 +283,14 @@
     {
       "e": 604.83,
       "en": "for men: Mr. Stone - single",
-      "vi": "Ðối với nam giới: Ông Stone - độc thân.",
+      "vi": "Đối với nam giới: Ông Stone - độc thân.",
       "s": 599.53
     },
     {"e": 608.06, "en": "Mr. Stone - married", "vi": "Ông Stone - đã kết hôn", "s": 604.83},
     {
       "e": 612.0,
       "en": "For women, we have single",
-      "vi": "Ðối với phụ nữ, chúng ta có: độc thân.",
+      "vi": "Đối với phụ nữ, chúng ta có: độc thân.",
       "s": 608.06
     },
     {"e": 615.57, "en": "Ms. Stone married", "vi": "bà Stone đã kết hôn", "s": 612.0},
@@ -298,7 +298,7 @@
     {
       "e": 625.36,
       "en": "Single: Miss. Stone and married Mrs. Stone.",
-      "vi": "Ðộc thân: Cô Stone; và đã lập gia đình: Bà Stone.",
+      "vi": "Độc thân: Cô Stone; và đã lập gia đình: Bà Stone.",
       "s": 619.19
     },
     {
@@ -439,17 +439,17 @@
     },
     {"e": 943.03, "en": "These are the consonants.", "vi": "Chúng là những phụ âm.", "s": 940.95},
     {"e": 946.18, "en": "Now let's practise.", "vi": "Nào hãy thực hành.", "s": 943.03},
-    {"e": 949.67, "en": "Lisa: What's this? C", "vi": "Lisa: Ðây là chữ gì? C", "s": 946.18},
-    {"e": 953.73, "en": "Ali: What's this? S", "vi": "Ali: Ðây là chữ gì? S", "s": 949.67},
-    {"e": 957.45, "en": "Marie: What's this? J", "vi": "Marie: Ðây là chữ gì? J", "s": 953.73},
-    {"e": 960.22, "en": "Lisa: What's this? C", "vi": "Lisa: Ðây là chữ gì? C", "s": 957.45},
-    {"e": 963.78, "en": "Ali: What's this? X", "vi": "Ali: Ðây là chữ gì? X", "s": 960.22},
-    {"e": 967.72, "en": "Marie: What's this? S", "vi": "Marie: Ðây là chữ gì? S", "s": 963.78},
-    {"e": 972.02, "en": "Lisa: What's this? V", "vi": "Lisa: Ðây là chữ gì? V", "s": 967.72},
-    {"e": 976.06, "en": "Ali: What's this? Y", "vi": "Ali: Ðây là chữ gì? Y", "s": 972.02},
-    {"e": 979.78, "en": "Marie: What's this? G", "vi": "Marie: Ðây là chữ gì? G", "s": 976.06},
-    {"e": 983.94, "en": "Lisa: What's this? J", "vi": "Lisa: Ðây là chữ gì? J", "s": 979.78},
-    {"e": 988.33, "en": "and Ali: What's this? Z", "vi": "Và Ali: Ðây là chữ gì? Z", "s": 983.94},
+    {"e": 949.67, "en": "Lisa: What's this? C", "vi": "Lisa: Đây là chữ gì? C", "s": 946.18},
+    {"e": 953.73, "en": "Ali: What's this? S", "vi": "Ali: Đây là chữ gì? S", "s": 949.67},
+    {"e": 957.45, "en": "Marie: What's this? J", "vi": "Marie: Đây là chữ gì? J", "s": 953.73},
+    {"e": 960.22, "en": "Lisa: What's this? C", "vi": "Lisa: Đây là chữ gì? C", "s": 957.45},
+    {"e": 963.78, "en": "Ali: What's this? X", "vi": "Ali: Đây là chữ gì? X", "s": 960.22},
+    {"e": 967.72, "en": "Marie: What's this? S", "vi": "Marie: Đây là chữ gì? S", "s": 963.78},
+    {"e": 972.02, "en": "Lisa: What's this? V", "vi": "Lisa: Đây là chữ gì? V", "s": 967.72},
+    {"e": 976.06, "en": "Ali: What's this? Y", "vi": "Ali: Đây là chữ gì? Y", "s": 972.02},
+    {"e": 979.78, "en": "Marie: What's this? G", "vi": "Marie: Đây là chữ gì? G", "s": 976.06},
+    {"e": 983.94, "en": "Lisa: What's this? J", "vi": "Lisa: Đây là chữ gì? J", "s": 979.78},
+    {"e": 988.33, "en": "and Ali: What's this? Z", "vi": "Và Ali: Đây là chữ gì? Z", "s": 983.94},
     {
       "e": 991.55,
       "en": "Alright, OK, One more time.",
@@ -569,7 +569,7 @@
     {"e": 1257.91, "en": "Now let's practise.", "vi": "Nào hãy thực hành.", "s": 1253.89},
     {"e": 1260.0, "en": "What is your name?", "vi": "Bạn tên gì?", "s": 1257.91},
     {"e": 1261.9, "en": "My name is Ali Aksoy.", "vi": "Tên tôi là Ali Aksoy.", "s": 1260.0},
-    {"e": 1263.85, "en": "Spell your name.", "vi": "Ðánh vần tên của bạn.", "s": 1261.9},
+    {"e": 1263.85, "en": "Spell your name.", "vi": "Đánh vần tên của bạn.", "s": 1261.9},
     {
       "e": 1273.37,
       "en": "Capital A, l, i, capital A, k, s, o, y.",
@@ -583,11 +583,11 @@
       "s": 1273.37
     },
     {"e": 1279.4, "en": "My first name is Lisa.", "vi": "Tên tôi là Lisa.", "s": 1277.14},
-    {"e": 1281.26, "en": "Spell your name.", "vi": "Ðánh vần tên của bạn.", "s": 1279.4},
+    {"e": 1281.26, "en": "Spell your name.", "vi": "Đánh vần tên của bạn.", "s": 1279.4},
     {"e": 1285.75, "en": "Capital L, i, s, a.", "vi": "L hoa, i, s, a.", "s": 1281.26},
     {"e": 1287.81, "en": "What is your last name?", "vi": "Họ của bạn là gì?", "s": 1285.75},
     {"e": 1290.04, "en": "My last name is Roberts.", "vi": "Họ của tôi là Roberts.", "s": 1287.81},
-    {"e": 1292.48, "en": "Spell your last name.", "vi": "Ðánh vần họ của bạn.", "s": 1290.04},
+    {"e": 1292.48, "en": "Spell your last name.", "vi": "Đánh vần họ của bạn.", "s": 1290.04},
     {
       "e": 1299.13,
       "en": "Capital R, o, b, e, r, t, s.",
@@ -612,7 +612,7 @@
     {"e": 1327.38, "en": "Short", "vi": "dạng Viết tắt", "s": 1324.01},
     {"e": 1331.04, "en": "and example", "vi": "và ví dụ", "s": 1327.38},
     {"e": 1334.5, "en": "and another example.", "vi": "và thêm một ví dụ nữa.", "s": 1331.04},
-    {"e": 1341.27, "en": "OK, Now, first I", "vi": "Ok, bây giờ, Ðầu tiên là từ \"I\"", "s": 1334.5},
+    {"e": 1341.27, "en": "OK, Now, first I", "vi": "Ok, bây giờ, Đầu tiên là từ \"I\"", "s": 1334.5},
     {"e": 1350.17, "en": "I am", "vi": "Tôi là", "s": 1341.27},
     {"e": 1353.27, "en": "Short", "vi": "Viết tắt", "s": 1350.17},
     {"e": 1355.99, "en": "I'm", "vi": "Tôi là", "s": 1353.27},
@@ -935,7 +935,7 @@
     {
       "e": 2067.5,
       "en": "OK, Here's another question:",
-      "vi": "Ok, Ðây là một câu hỏi khác:",
+      "vi": "Ok, Đây là một câu hỏi khác:",
       "s": 2059.75
     },
     {"e": 2074.24, "en": "Is he Tom?", "vi": "Anh ấy là Tom?", "s": 2067.5},
@@ -943,7 +943,7 @@
     {
       "e": 2086.24,
       "en": "Here's the \"is\", Here's the \"is\", he, he. OK.",
-      "vi": "Ðây là \"is\", đây là \"is\", he, he.",
+      "vi": "Đây là \"is\", đây là \"is\", he, he.",
       "s": 2079.96
     },
     {
@@ -1268,7 +1268,7 @@
       "vi": "Nó là Dolly à? Không, không phải.",
       "s": 2531.2
     },
-    {"e": 2539.4, "en": "read and repeat", "vi": "Ðọc và lặp lại.", "s": 2535.71},
+    {"e": 2539.4, "en": "read and repeat", "vi": "Đọc và lặp lại.", "s": 2535.71},
     {"e": 2564.48, "en": "is she Lisa?...", "vi": "Cô ấy là Lisa à?...", "s": 2539.4},
     {
       "e": 2570.09,
@@ -1475,7 +1475,7 @@
     {
       "e": 2769.34,
       "en": "...this is... somebody else",
-      "vi": "Ðây là... một người nào đó",
+      "vi": "Đây là... một người nào đó",
       "s": 2759.63
     },
     {
@@ -1595,14 +1595,14 @@
     {
       "e": 2888.91,
       "en": "This is what you say",
-      "vi": "Ðây là những gì bạn có thể nói",
+      "vi": "Đây là những gì bạn có thể nói",
       "s": 2885.24
     },
     {"e": 2895.65, "en": "Hello, I'm...", "vi": "Xin chào, tôi là...", "s": 2888.91},
     {
       "e": 2899.66,
       "en": "That's the first person, the second person says:",
-      "vi": "Ðó là người thứ nhất, người thứ hai nói:",
+      "vi": "Đó là người thứ nhất, người thứ hai nói:",
       "s": 2895.65
     },
     {
@@ -1755,7 +1755,7 @@
       "vi": "Ok, bây giờ, hãy ôn lại lần cuối cùng.",
       "s": 3072.49
     },
-    {"e": 3080.0, "en": "First a dictation.", "vi": "Ðầu tiên là chính tả.", "s": 3076.98},
+    {"e": 3080.0, "en": "First a dictation.", "vi": "Đầu tiên là chính tả.", "s": 3076.98},
     {
       "e": 3084.02,
       "en": "Listen and write these letters.",
@@ -1995,7 +1995,7 @@
     {
       "e": 3425.92,
       "en": "I think so, just they were good friends at university.",
-      "vi": "Tôi cũng nghĩ thế. Họ là những người bạn tốt ở Ðại học.",
+      "vi": "Tôi cũng nghĩ thế. Họ là những người bạn tốt ở Đại học.",
       "s": 3422.58
     },
     {
@@ -2004,7 +2004,7 @@
       "vi": "Chào Alexi, Jack và tôi muốn bạn gặp hàng xóm của bạn.",
       "s": 3425.92
     },
-    {"e": 3432.22, "en": "This is Sam.", "vi": "Ðây là Sam.", "s": 3431.03},
+    {"e": 3432.22, "en": "This is Sam.", "vi": "Đây là Sam.", "s": 3431.03},
     {
       "e": 3433.86,
       "en": "He lives in your building.",
@@ -2059,7 +2059,7 @@
       "vi": "Mẹ, đây là những người bạn của con.",
       "s": 3451.3
     },
-    {"e": 3454.98, "en": "This is Angie.", "vi": "Ðây là Angie.", "s": 3453.56},
+    {"e": 3454.98, "en": "This is Angie.", "vi": "Đây là Angie.", "s": 3453.56},
     {"e": 3456.35, "en": "Hi Mrs Christacos.", "vi": "Xin chào bác Christacos.", "s": 3454.98},
     {"e": 3457.93, "en": "It's nice to meet you.", "vi": "Hân hạnh được biết bác.", "s": 3456.35},
     {"e": 3459.52, "en": "Welcome to Istanbul.", "vi": "Chào mừng bạn đến Istanbul.", "s": 3457.93},
@@ -2072,7 +2072,7 @@
     {
       "e": 3465.49,
       "en": "This is my friend, Jack.",
-      "vi": "Ðây là bạn của con, Jack.",
+      "vi": "Đây là bạn của con, Jack.",
       "s": 3463.34
     },
     {
@@ -2171,7 +2171,7 @@
     {
       "e": 3538.32,
       "en": "It is spelled A, n, g, e, l, a",
-      "vi": "Ðánh vần là A, n, g, e, l, a.",
+      "vi": "Đánh vần là A, n, g, e, l, a.",
       "s": 3534.91
     },
     {
@@ -2183,7 +2183,7 @@
     {
       "e": 3543.58,
       "en": "It is spelled A, n, g, i, e",
-      "vi": "Ðánh vần là A, n, g, i, e.",
+      "vi": "Đánh vần là A, n, g, i, e.",
       "s": 3540.48
     },
     {

@@ -236,7 +236,7 @@
   },
   {
     "h": "obeahman",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người thạo về ma thuật Tây Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người thạo về ma thuật Tây Ấn Độ."}],
     "ipa": "'oubiəmən",
     "k": "obeahman"
   },
@@ -733,7 +733,7 @@
         "t": "With the object of attracting customers",
         "vi": "Nhằm mục đích thu hút khách hàng"
       },
-      {"k": "ex", "t": "To succeed/fail in one's object", "vi": "Ðạt/không đạt mục đích của mình"},
+      {"k": "ex", "t": "To succeed/fail in one's object", "vi": "Đạt/không đạt mục đích của mình"},
       {
         "k": "ex",
         "t": "His one object in life is to defeat everyone",
@@ -1251,7 +1251,7 @@
   {
     "h": "Object Technologies",
     "segs": [
-      {"k": "m", "t": "Các công nghệ Ðối tượng"},
+      {"k": "m", "t": "Các công nghệ Đối tượng"},
       {
         "k": "m",
         "t": "Kỹ thuật hướng đối tượng đưa quá trình phát triển phần mềm vượt ra khỏi kiểu lập trình thủ tục trong quá khứ đến thế giới lập trình kiểu có thể dùng lại được, làm đơn giản hóa sự phát triển của các ứng dụng. Các hệ điều hành và trình ứng dụng được tạo ra gồm nhiều đơn thể (module) có thể liên kết lại với nhau để hình thành một chương trình đảm nhận một chức năng nào đó. Bất cứ đơn thể nào cũng có thể được thay thế hay cập nhật bất cứ lúc nào mà không cần phải cập nhật toàn bộ cho chương trình. Các đơn thể có thể được đặt ở nhiều vị trí khác nhau, điều này thúc đẩy sự phát triển các ứng dụng phân tán và Internet."
@@ -1270,15 +1270,15 @@
       },
       {
         "k": "m",
-        "t": "Các đối tượng về chương trình hay cơ sở dữ liệu cũng giống như vậy. Chúng giống như những hộp chứa các mã hay dữ liệu bên trong để thực hiện hành động nào đó khi các giao tiếp bên ngoài được tiến hành. Các giao tiếp bên ngoài gồm có các method (phương thức), được so sánh như các nút bấm trên máy ATM để điều khiển nó. Ví dụ, một đối tượng có thể trình bày cột dữ liệu đã được sắp xếp theo một cột được chọn bởi người sử dụng. Một cửa sổ trình bày danh sách các tập tin trên giao diện đồ họa của hệ điều hành (như Windows 95), cũng là một ví dụ về đối tượng. Ðó là một cái hộp chứa dữ liệu (danh sách file), có các điều khiển để thao tác với chúng. Bạn có thể click vào một nút phía trên bất kỳ cột nào để sắp xếp lại dữ liệu cho cột đó."
+        "t": "Các đối tượng về chương trình hay cơ sở dữ liệu cũng giống như vậy. Chúng giống như những hộp chứa các mã hay dữ liệu bên trong để thực hiện hành động nào đó khi các giao tiếp bên ngoài được tiến hành. Các giao tiếp bên ngoài gồm có các method (phương thức), được so sánh như các nút bấm trên máy ATM để điều khiển nó. Ví dụ, một đối tượng có thể trình bày cột dữ liệu đã được sắp xếp theo một cột được chọn bởi người sử dụng. Một cửa sổ trình bày danh sách các tập tin trên giao diện đồ họa của hệ điều hành (như Windows 95), cũng là một ví dụ về đối tượng. Đó là một cái hộp chứa dữ liệu (danh sách file), có các điều khiển để thao tác với chúng. Bạn có thể click vào một nút phía trên bất kỳ cột nào để sắp xếp lại dữ liệu cho cột đó."
       },
       {
         "k": "m",
-        "t": "Các đối tượng được liên kết với nhau để tạo nên các chương trình hoàn chỉnh. Các đối tượng tương tác với nhau bằng cách trao đổi các thông điệp. Ðối tượng này sẽ hoạt động như server, còn đối tượng kia sẽ hoạt động như client. Chúng có thể thay đổi vai trò bất cứ lúc nào. Nếu một chương trình cần nâng cấp, thì chỉ những đối tượng cần nâng cấp phải thay thế mà thôi."
+        "t": "Các đối tượng được liên kết với nhau để tạo nên các chương trình hoàn chỉnh. Các đối tượng tương tác với nhau bằng cách trao đổi các thông điệp. Đối tượng này sẽ hoạt động như server, còn đối tượng kia sẽ hoạt động như client. Chúng có thể thay đổi vai trò bất cứ lúc nào. Nếu một chương trình cần nâng cấp, thì chỉ những đối tượng cần nâng cấp phải thay thế mà thôi."
       },
       {
         "k": "m",
-        "t": "Các đối tượng được phân loại thành các lớp (class) có thứ bậc để xác định các kiểu khác nhau của object. Lớp cha (parent class) có những đặc tính có thể truyền lại cho lớp con (subclass) cùng kiểu đối tượng. Ðiều này gọi là tính kế thừa của lớp (class inheritance). Tính kế thừa này có thể chia thành khối nếu cần thiết. Trong một cơ sở dữ liệu, lớp \"người\" có thể chia thành lớp con như lớp \"nam\" và lớp \"nữ\". Mỗi lớp con thừa hưởng các đặc tính tổng quát từ lớp cha, song song đó vẫn có các đặc tính đặc thù của riêng nó."
+        "t": "Các đối tượng được phân loại thành các lớp (class) có thứ bậc để xác định các kiểu khác nhau của object. Lớp cha (parent class) có những đặc tính có thể truyền lại cho lớp con (subclass) cùng kiểu đối tượng. Điều này gọi là tính kế thừa của lớp (class inheritance). Tính kế thừa này có thể chia thành khối nếu cần thiết. Trong một cơ sở dữ liệu, lớp \"người\" có thể chia thành lớp con như lớp \"nam\" và lớp \"nữ\". Mỗi lớp con thừa hưởng các đặc tính tổng quát từ lớp cha, song song đó vẫn có các đặc tính đặc thù của riêng nó."
       },
       {
         "k": "m",
@@ -1385,7 +1385,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đồ hình hướng đối tượng. Một hình đồ họa bao gồm nhiều đối tượng khác nhau-như các đoạn thẳng, các vòng tròn, các hình ê líp, và các hình hộp-mà bạn có thể chuyển dời độc lập với nhau. Ðồ họa hướng đối tượng thường được gọi là đồ họa véc tơ (vector graphic) vì chương trình này lưu trữ chúng dưới dạng các công thức toán học đối với các véc tơ, tức là các đường có hướng sắp xếp nên hình ảnh. Khác với đồ họa ánh xạ bit bị méo dạng khi bạn thay đổi kích thước, đối với đồ họa véc tơ bạn có thể thay đổi kích thước mà không làm méo dạng hình."
+        "t": "đồ hình hướng đối tượng. Một hình đồ họa bao gồm nhiều đối tượng khác nhau-như các đoạn thẳng, các vòng tròn, các hình ê líp, và các hình hộp-mà bạn có thể chuyển dời độc lập với nhau. Đồ họa hướng đối tượng thường được gọi là đồ họa véc tơ (vector graphic) vì chương trình này lưu trữ chúng dưới dạng các công thức toán học đối với các véc tơ, tức là các đường có hướng sắp xếp nên hình ảnh. Khác với đồ họa ánh xạ bit bị méo dạng khi bạn thay đổi kích thước, đối với đồ họa véc tơ bạn có thể thay đổi kích thước mà không làm méo dạng hình."
       }
     ],
     "k": "object-oriented graphic"
@@ -1512,7 +1512,7 @@
   },
   {
     "h": "Objectify(-ivation)",
-    "segs": [{"k": "m", "t": "Ðối tượng hóa; khách thể hóa; khách quan hóa."}],
+    "segs": [{"k": "m", "t": "Đối tượng hóa; khách thể hóa; khách quan hóa."}],
     "k": "objectify(-ivation)"
   },
   {
@@ -1738,7 +1738,7 @@
   },
   {
     "h": "objective redemption",
-    "segs": [{"k": "m", "t": "công trình cứu chuộc khách quan (Ðức Kitô thực hiện)."}],
+    "segs": [{"k": "m", "t": "công trình cứu chuộc khách quan (Đức Kitô thực hiện)."}],
     "k": "objective redemption"
   },
   {
@@ -2153,7 +2153,7 @@
     "h": "oblation",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "lễ dâng bánh cho Thượng Ðế"},
+      {"k": "m", "t": "lễ dâng bánh cho Thượng Đế"},
       {"k": "m", "t": "đồ cúng"},
       {"k": "m", "t": "sự hiến (tài sản) cho tôn giáo."}
     ],
@@ -2169,7 +2169,7 @@
     "h": "oblational",
     "segs": [
       {"k": "m", "t": "Hoặc:"},
-      {"k": "ex", "t": "oblatory", "vi": "^tt. (thuộc) lễ dâng bánh cho Thượng Ðế"},
+      {"k": "ex", "t": "oblatory", "vi": "^tt. (thuộc) lễ dâng bánh cho Thượng Đế"},
       {"k": "m", "t": "(thuộc) đồ cúng."}
     ],
     "ipa": "ə'bleiʃənl",
@@ -2366,7 +2366,7 @@
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "bắt buộc"},
       {"k": "m", "t": "cưỡng bách"},
-      {"k": "ex", "t": "Attendance at school is obligatory", "vi": "Ði học là bắt buộc"},
+      {"k": "ex", "t": "Attendance at school is obligatory", "vi": "Đi học là bắt buộc"},
       {
         "k": "ex",
         "t": "It's obligatory to cross oneself before entering a church",
@@ -2889,7 +2889,7 @@
     "segs": [{"k": "m", "t": "đường tựa loxodrome, đường loxodrome nghiêng."}],
     "k": "oblique rhumb line"
   },
-  {"h": "oblique ridge", "segs": [{"k": "m", "t": "Ðường chéo."}], "k": "oblique ridge"},
+  {"h": "oblique ridge", "segs": [{"k": "m", "t": "Đường chéo."}], "k": "oblique ridge"},
   {
     "h": "oblique scarf",
     "segs": [{"k": "m", "t": "mặt vát xiên; sự nối chập theo mặt viên."}],
@@ -3200,7 +3200,7 @@
       },
       {
         "k": "m",
-        "t": "Thuôn. Có hình thuôn, còn dùng để chỉ đoạn tủy sống đi vào trong não, dài khoảng 1 inch, đụng tới cầu não và là thành phần cấu tạo của não thất 4. ÐN: medulla oblongata."
+        "t": "Thuôn. Có hình thuôn, còn dùng để chỉ đoạn tủy sống đi vào trong não, dài khoảng 1 inch, đụng tới cầu não và là thành phần cấu tạo của não thất 4. ĐN: medulla oblongata."
       },
       {"k": "m", "t": "Else:"},
       {
@@ -5066,7 +5066,7 @@
   },
   {
     "h": "obstructive dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh bế tắc."}],
+    "segs": [{"k": "m", "t": "Đau kinh bế tắc."}],
     "k": "obstructive dysmenorrhea"
   },
   {
@@ -5182,7 +5182,7 @@
       {
         "k": "ex",
         "t": "the practice still obtains in some areas of Germany",
-        "vi": "tục lệ này vẫn còn tồn tại ở một số vùng của nước Ðức."
+        "vi": "tục lệ này vẫn còn tồn tại ở một số vùng của nước Đức."
       }
     ],
     "ipa": "əb'tein",
@@ -5421,7 +5421,7 @@
     "ipa": "'ɔbtjuəreitə",
     "k": "obturator"
   },
-  {"h": "obturator artery", "segs": [{"k": "m", "t": "Ðộng mạch bịt."}], "k": "obturator artery"},
+  {"h": "obturator artery", "segs": [{"k": "m", "t": "Động mạch bịt."}], "k": "obturator artery"},
   {"h": "obturator canal", "segs": [{"k": "m", "t": "ống bịt."}], "k": "obturator canal"},
   {"h": "obturator fascia", "segs": [{"k": "m", "t": "Mạc cơ bịt."}], "k": "obturator fascia"},
   {"h": "obturator foramen", "segs": [{"k": "m", "t": "Lỗ bịt."}], "k": "obturator foramen"},

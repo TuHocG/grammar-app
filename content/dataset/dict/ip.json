@@ -34,7 +34,7 @@
       },
       {
         "k": "m",
-        "t": "Quá trình này được minh họa trong hình I-13 và được phác thảo bên dưới. Ðể đơn giản, điạ chỉ IP của mạng, máy tính, và các router bằng số sẽ được thay thành các ký tự viết tắt (ví dụ, nguồn nằm trên mạng con A được goị là A1, và router A/B nối các mạng con A và B)."
+        "t": "Quá trình này được minh họa trong hình I-13 và được phác thảo bên dưới. Để đơn giản, điạ chỉ IP của mạng, máy tính, và các router bằng số sẽ được thay thành các ký tự viết tắt (ví dụ, nguồn nằm trên mạng con A được goị là A1, và router A/B nối các mạng con A và B)."
       },
       {
         "k": "m",
@@ -58,17 +58,17 @@
       },
       {
         "k": "m",
-        "t": "Chú ý là đường dẫn giữa nguồn và đích không phải là một mạch điện đi thẳng. Ðường dẫn đầu tiên là một chuỗi các liên kết dữ liệu riêng rẽ giữa các nguồn và router nội bộ của nó, sau đó liên kết giữa các router với router và kế đó là giữa router và đích. Những liên kết này được điều khiển bởi các giao thức liên kết dữ liệu liên quan đến các mạng cơ sở."
+        "t": "Chú ý là đường dẫn giữa nguồn và đích không phải là một mạch điện đi thẳng. Đường dẫn đầu tiên là một chuỗi các liên kết dữ liệu riêng rẽ giữa các nguồn và router nội bộ của nó, sau đó liên kết giữa các router với router và kế đó là giữa router và đích. Những liên kết này được điều khiển bởi các giao thức liên kết dữ liệu liên quan đến các mạng cơ sở."
       },
       {
         "k": "m",
-        "t": "Các router xác định hop kế tiếp để chuyển gói tin đến đích của nó, không cần phải có đường dẫn đầy đủ đến đích. Ðiều này tương tự như việc xác định hướng - một người có thể chỉ bạn đi đúng hướng từ một giao lộ nào đó. ÕÒ giao lộ kế tiếp, một người khác lại chỉ cho bạn đi đúng hướng tiếp theo. Hiển nhiên, bạn phải biết được nơi mà bạn muốn đi. Trong một số trường hợp, bạn có thể đi theo một hướng khác để tránh vật cản hay tắc nghẽn. Trên một mạng lưới rộng lớn sẽ có nhiều đường dẫn đến đích, các router có thể làm tương tự, giúp các packet tránh khỏi các liên kết bị ngắt hay tắc nghẽn."
+        "t": "Các router xác định hop kế tiếp để chuyển gói tin đến đích của nó, không cần phải có đường dẫn đầy đủ đến đích. Điều này tương tự như việc xác định hướng - một người có thể chỉ bạn đi đúng hướng từ một giao lộ nào đó. ÕÒ giao lộ kế tiếp, một người khác lại chỉ cho bạn đi đúng hướng tiếp theo. Hiển nhiên, bạn phải biết được nơi mà bạn muốn đi. Trong một số trường hợp, bạn có thể đi theo một hướng khác để tránh vật cản hay tắc nghẽn. Trên một mạng lưới rộng lớn sẽ có nhiều đường dẫn đến đích, các router có thể làm tương tự, giúp các packet tránh khỏi các liên kết bị ngắt hay tắc nghẽn."
       },
       {"k": "m", "t": "Hình I-13 Các goí IP được chuyển trên mạng hỗn hợp"},
-      {"k": "m", "t": "Ðiạ chỉ IP và tên máy tính"},
+      {"k": "m", "t": "Điạ chỉ IP và tên máy tính"},
       {
         "k": "m",
-        "t": "Có ba cách để xác định hệ thống máy tính trong môi trường mạng TCP/IP: điạ chỉ vật lý, điạ chỉ IP, và tên miền. Ðiạ chỉ vật lý là điạ chỉ MAC được ghi vào trong card giao diện mạng. Nó được dùng cho các điạ chỉ mạng LAN, không phải là điạ chỉ liên các mạng. Ðiạ chỉ IP xác định một máy tính trên một liên mạng IP. Tên miền cung cấp tên dễ nhớ cho một máy tính trong liên mạng IP. Khi người dùng sử dụng tên miền, chúng sẽ được chuyển thành điạ chỉ IP bởi DNS (Domain Name System), chung cho các điạ chỉ trong liên mạng IP"
+        "t": "Có ba cách để xác định hệ thống máy tính trong môi trường mạng TCP/IP: điạ chỉ vật lý, điạ chỉ IP, và tên miền. Điạ chỉ vật lý là điạ chỉ MAC được ghi vào trong card giao diện mạng. Nó được dùng cho các điạ chỉ mạng LAN, không phải là điạ chỉ liên các mạng. Điạ chỉ IP xác định một máy tính trên một liên mạng IP. Tên miền cung cấp tên dễ nhớ cho một máy tính trong liên mạng IP. Khi người dùng sử dụng tên miền, chúng sẽ được chuyển thành điạ chỉ IP bởi DNS (Domain Name System), chung cho các điạ chỉ trong liên mạng IP"
       },
       {
         "k": "m",
@@ -83,7 +83,7 @@
       {"k": "m", "t": ".nom Tên riêng"},
       {
         "k": "m",
-        "t": "Ðiạ chỉ IP là dãy số dùng để xác định duy nhất cho một hệ thống máy tính trên liên mạng. Ðiạ chỉ là số nhị phân 32 bit chứa hai thông tin quan trọng:"
+        "t": "Điạ chỉ IP là dãy số dùng để xác định duy nhất cho một hệ thống máy tính trên liên mạng. Điạ chỉ là số nhị phân 32 bit chứa hai thông tin quan trọng:"
       },
       {
         "k": "m",
@@ -92,17 +92,17 @@
       {"k": "m", "t": "Host identifier (định danh máy tính) chỉ ra một máy tính nào đó trong mạng."},
       {
         "k": "m",
-        "t": "Ðiạ chỉ Internet dùng định dạng thập phân có dấu chấm như trong ví dụ sau, mỗi dấu chấm phân cách mỗi byte của điạ chỉ 32 bit.:"
+        "t": "Điạ chỉ Internet dùng định dạng thập phân có dấu chấm như trong ví dụ sau, mỗi dấu chấm phân cách mỗi byte của điạ chỉ 32 bit.:"
       },
       {"k": "m", "t": "192.100.10.5"},
       {
         "k": "m",
-        "t": "Khi bạn nối với Internet, bạn phải có điạ chỉ IP do InterNic cấp (http://www.internic.net). Ðiạ chỉ mà bạn được gán chỉ là phần network identifier. Bạn tự thêm vào phần host identifier."
+        "t": "Khi bạn nối với Internet, bạn phải có điạ chỉ IP do InterNic cấp (http://www.internic.net). Điạ chỉ mà bạn được gán chỉ là phần network identifier. Bạn tự thêm vào phần host identifier."
       },
       {"k": "m", "t": "Các lớp của điạ chỉ IP"},
       {
         "k": "m",
-        "t": "Chiều dài điạ chỉ IP 32 bit được chia làm 2 phần với phần bên trái xác định mạng và phần bên phải xác định máy tính trên mạng. Có ba cách phân tách điạ chỉ - sau byte đầu tiên, byte thứ hai, hay byte thứ ba - như được minh họa trong hình I-14, tạo thành điạ chỉ lớp A, lớp B và lớp C. Việc phân chia điạ chỉ IP theo cách này có ý nghiã gì? Ðầu tiên, nó tạo được hàng triệu điạ chỉ có thể có hơn là chỉ hạn chế trong một không gian điạ chỉ 32 bit. Về cơ bản, ba sơ đồ điạ chỉ này cũng đều xuất phát từ sơ đồ 32 bit, nhưng tất cả các điạ chỉ này đều có thể được dùng trên mạng Internet. Thứ hai, các lớp khác nhau hỗ trợ việc tổ chức các kích cỡ khác nhau sẽ trở nên dễ dàng hơn. Hãy xem phần \"CIDR (Classeless Interdomain Routing)\" để có thêm thông tin. Các lớp điạ chỉ IP được mô tả ở đây là:"
+        "t": "Chiều dài điạ chỉ IP 32 bit được chia làm 2 phần với phần bên trái xác định mạng và phần bên phải xác định máy tính trên mạng. Có ba cách phân tách điạ chỉ - sau byte đầu tiên, byte thứ hai, hay byte thứ ba - như được minh họa trong hình I-14, tạo thành điạ chỉ lớp A, lớp B và lớp C. Việc phân chia điạ chỉ IP theo cách này có ý nghiã gì? Đầu tiên, nó tạo được hàng triệu điạ chỉ có thể có hơn là chỉ hạn chế trong một không gian điạ chỉ 32 bit. Về cơ bản, ba sơ đồ điạ chỉ này cũng đều xuất phát từ sơ đồ 32 bit, nhưng tất cả các điạ chỉ này đều có thể được dùng trên mạng Internet. Thứ hai, các lớp khác nhau hỗ trợ việc tổ chức các kích cỡ khác nhau sẽ trở nên dễ dàng hơn. Hãy xem phần \"CIDR (Classeless Interdomain Routing)\" để có thêm thông tin. Các lớp điạ chỉ IP được mô tả ở đây là:"
       },
       {
         "k": "m",
@@ -141,7 +141,7 @@
       {"k": "m", "t": "Class B subnet mask 255.255.0.0 11111111 11111111 00000000 00000000"},
       {
         "k": "m",
-        "t": "Như đã lưu ý trước đây, điạ chỉ lớp C hạn chế số máy tính trên một mạng chỉ tới 254. Ðể giảỉ quyết vấn đề này, sơ đồ mạng con (subnetting) đã được đưa ra là về cơ bản chia phần điạ chỉ máy tính thành 2 phần và dùng một số bit để xác định mạng con trong chính mạng của bạn. Tuy nhiên cũng phải trả giá cho việc này. Nếu bạn dùng một số bit trong điạ chỉ máy tính để xác định mạng con, thì ta phải giảm đi số bit được dùng cho phần điạ chỉ máy tính. Ðiều này được phác thảo trong bảng dưới đây. Ví dụ, nếu ta chia mạng của mình thành 2 subnet, ta chỉ có 126 máy tính cho một mạng con mà thôi. Với 16 mạng con, chỉ còn 14 máy tính cho một mạng con mà thôi."
+        "t": "Như đã lưu ý trước đây, điạ chỉ lớp C hạn chế số máy tính trên một mạng chỉ tới 254. Để giảỉ quyết vấn đề này, sơ đồ mạng con (subnetting) đã được đưa ra là về cơ bản chia phần điạ chỉ máy tính thành 2 phần và dùng một số bit để xác định mạng con trong chính mạng của bạn. Tuy nhiên cũng phải trả giá cho việc này. Nếu bạn dùng một số bit trong điạ chỉ máy tính để xác định mạng con, thì ta phải giảm đi số bit được dùng cho phần điạ chỉ máy tính. Điều này được phác thảo trong bảng dưới đây. Ví dụ, nếu ta chia mạng của mình thành 2 subnet, ta chỉ có 126 máy tính cho một mạng con mà thôi. Với 16 mạng con, chỉ còn 14 máy tính cho một mạng con mà thôi."
       },
       {
         "k": "m",
@@ -154,7 +154,7 @@
       {"k": "m", "t": "IP Datagram"},
       {
         "k": "m",
-        "t": "Header của IP datagram, được minh họa trong hình I-15, là một phong bì để chứa dữ liệu được truyền đi. Ðôi khi nó được xem như một gói tin, trong các thảo luận chung. Các trường của datagram được mô tả trong danh sách sau. Chú ý là chiều dài cực đại của datagram bao gồm header và dữ liệu không được vượt quá 65,535 byte."
+        "t": "Header của IP datagram, được minh họa trong hình I-15, là một phong bì để chứa dữ liệu được truyền đi. Đôi khi nó được xem như một gói tin, trong các thảo luận chung. Các trường của datagram được mô tả trong danh sách sau. Chú ý là chiều dài cực đại của datagram bao gồm header và dữ liệu không được vượt quá 65,535 byte."
       },
       {"k": "m", "t": "Version Số version của giao thức"},
       {"k": "m", "t": "IHL (Internet header length) chiều dài của header."},
@@ -189,7 +189,7 @@
       {"k": "m", "t": "IPv6 (Internet Protocol version 6)"},
       {
         "k": "m",
-        "t": "IPv4 đã được dùng để truyền thông cho Internet khá tốt nhưng nó bị giới hạn ở không gian điạ chỉ và có vấn đề khi có quá nhiều máy tính nối vào Internet. Ðể giải quyết, CIDR (Classless Interdomain Routing) được phát triển, cho phép cấp phát các địa chỉ lớp C là khối có kích thước thay đổi. Một khối là một dãy các điạ chỉ (không vượt quá kích thước chung) phù hợp với yêu cầu của tổ chức. Ðiều này làm cho điạ chỉ trở nên bị buông lỏng cho người sử dụng. Hơn nữa, CIDR gây mất thời gian."
+        "t": "IPv4 đã được dùng để truyền thông cho Internet khá tốt nhưng nó bị giới hạn ở không gian điạ chỉ và có vấn đề khi có quá nhiều máy tính nối vào Internet. Để giải quyết, CIDR (Classless Interdomain Routing) được phát triển, cho phép cấp phát các địa chỉ lớp C là khối có kích thước thay đổi. Một khối là một dãy các điạ chỉ (không vượt quá kích thước chung) phù hợp với yêu cầu của tổ chức. Điều này làm cho điạ chỉ trở nên bị buông lỏng cho người sử dụng. Hơn nữa, CIDR gây mất thời gian."
       },
       {
         "k": "m",
@@ -201,11 +201,11 @@
       },
       {
         "k": "m",
-        "t": "Cũng có cả sơ đồ mở rộng sao cho người bán có thể thêm các thông tin tùy chọn vào datagram. Ðiều này sẽ cho phép mở rộng thiết kế một cách linh động khi có các yêu cầu mới."
+        "t": "Cũng có cả sơ đồ mở rộng sao cho người bán có thể thêm các thông tin tùy chọn vào datagram. Điều này sẽ cho phép mở rộng thiết kế một cách linh động khi có các yêu cầu mới."
       },
       {
         "k": "m",
-        "t": "Có nhiều thay đổi khác nhau trong IPv6 so với IPv4. Bạn có thể tham khảo đến Web site được liệt kê cuối phần này trong phần \"Thông tin trên Internet\" để có chi tiết đầy đủ về giao thức mới này. Ðể hiện thực trọn vẹn có thể phải mất đến 10 năm, vì vậy có thể nên để một thời gian nào đó rồi hãy khảo sát toàn bộ giao thức mới này trước khi bạn cần đến nó."
+        "t": "Có nhiều thay đổi khác nhau trong IPv6 so với IPv4. Bạn có thể tham khảo đến Web site được liệt kê cuối phần này trong phần \"Thông tin trên Internet\" để có chi tiết đầy đủ về giao thức mới này. Để hiện thực trọn vẹn có thể phải mất đến 10 năm, vì vậy có thể nên để một thời gian nào đó rồi hãy khảo sát toàn bộ giao thức mới này trước khi bạn cần đến nó."
       }
     ],
     "k": "ip (internet protocol)"
@@ -230,7 +230,7 @@
       },
       {
         "k": "m",
-        "t": "Ðầu tiên, hảy xem xét mục tiêu, lợi nhuận, mối liên quan và các bất lợi của việc chạy IP trên ATM là gì? ATM có nhiều ưu điểm như vận tốc, khả năng thích ứng và khả năng định QoS (quality of service). Tuy nhiên, nó khác với IP trên các phương diện:"
+        "t": "Đầu tiên, hảy xem xét mục tiêu, lợi nhuận, mối liên quan và các bất lợi của việc chạy IP trên ATM là gì? ATM có nhiều ưu điểm như vận tốc, khả năng thích ứng và khả năng định QoS (quality of service). Tuy nhiên, nó khác với IP trên các phương diện:"
       },
       {
         "k": "m",
@@ -242,7 +242,7 @@
       },
       {
         "k": "m",
-        "t": "ÕÒ cùng thời điểm, hầu hết các ứng dụng mạng đều chạy theo phiên (session-oriented), nghiã là quá trình truyền thông trong hai hệ thống đồng nghĩa với việc duy trì việc kết nồi giữa chúng. Ðiều này phù hợp cho mạch ảo ATM."
+        "t": "ÕÒ cùng thời điểm, hầu hết các ứng dụng mạng đều chạy theo phiên (session-oriented), nghiã là quá trình truyền thông trong hai hệ thống đồng nghĩa với việc duy trì việc kết nồi giữa chúng. Điều này phù hợp cho mạch ảo ATM."
       },
       {
         "k": "m",
@@ -280,7 +280,7 @@
       },
       {
         "k": "m",
-        "t": "LANE (LAN Emulation) Ðặc tả này đã được tiêu chuẩn hóa bởi ATM Forum năm 1995 xác định cách kết nối mạng LAN kế thừa như Ethernet và token ring vào mạng chính ATM. LANE mô phỏng một mạng LAN ngang qua mạng ATM. Xem phần \"LANE (LAN Emulation)\" để có thêm chi tiết."
+        "t": "LANE (LAN Emulation) Đặc tả này đã được tiêu chuẩn hóa bởi ATM Forum năm 1995 xác định cách kết nối mạng LAN kế thừa như Ethernet và token ring vào mạng chính ATM. LANE mô phỏng một mạng LAN ngang qua mạng ATM. Xem phần \"LANE (LAN Emulation)\" để có thêm chi tiết."
       },
       {
         "k": "m",
@@ -301,7 +301,7 @@
       },
       {
         "k": "m",
-        "t": "Classical IP over ATM Ðây là một tiêu chuẩn được xác định trong RFC 1577. Trong sơ đồ này, mạng ATM được xử lý như mạng LAN và mạng IP hoạt động chồng lên như trong mạng khác, chẳng hạn như Ethernet hay token ring. Xem phần \"IP over ATM, Classical\" để biết thêm chi tiết."
+        "t": "Classical IP over ATM Đây là một tiêu chuẩn được xác định trong RFC 1577. Trong sơ đồ này, mạng ATM được xử lý như mạng LAN và mạng IP hoạt động chồng lên như trong mạng khác, chẳng hạn như Ethernet hay token ring. Xem phần \"IP over ATM, Classical\" để biết thêm chi tiết."
       },
       {
         "k": "m",
@@ -341,7 +341,7 @@
       },
       {
         "k": "m",
-        "t": "Ðại đa số các mạng công ty hiện nay đều trở thành intranet được hiện thực bằng giao thức TCP/IP và công nghệ Web. Trên những mạng này, lưu thông hiếm khi nằm trong một vùng cục bôạ mà luôn được vận chuyển liên mạng. Người dùng kết nối siêu liên kết với server ở đầu khi của mạng chỉ bằng một động tác nhấp chuột trên trình duyệt Web của họ. Họ sẽ nhanh chóng vượt ra khỏi mạng LAN cục bộ, đi qua các router vẫn thường xuyên bị quá tải."
+        "t": "Đại đa số các mạng công ty hiện nay đều trở thành intranet được hiện thực bằng giao thức TCP/IP và công nghệ Web. Trên những mạng này, lưu thông hiếm khi nằm trong một vùng cục bôạ mà luôn được vận chuyển liên mạng. Người dùng kết nối siêu liên kết với server ở đầu khi của mạng chỉ bằng một động tác nhấp chuột trên trình duyệt Web của họ. Họ sẽ nhanh chóng vượt ra khỏi mạng LAN cục bộ, đi qua các router vẫn thường xuyên bị quá tải."
       },
       {
         "k": "m",
@@ -353,11 +353,11 @@
       },
       {
         "k": "m",
-        "t": "Có thể hình dung sơ đồ bằng cácg so với việc tìm đường trong đô thị. Một phương pháp là hỏi hướng để đi tiếp tại mỗi giao lộ, nơi sẽ có một ai đó chỉ cho bạn đi đến giao lộ kế tiếp, và cứ thế để đến đích. Ðây chính là cách đi truyền thống. Các gói tin được chuyển từ router này đến router kế tiếp, mỗi router sẽ chỉ hướng cho gói tin về đích. Quá trình này chậm vì các router phải xử lý từng gói tin một."
+        "t": "Có thể hình dung sơ đồ bằng cácg so với việc tìm đường trong đô thị. Một phương pháp là hỏi hướng để đi tiếp tại mỗi giao lộ, nơi sẽ có một ai đó chỉ cho bạn đi đến giao lộ kế tiếp, và cứ thế để đến đích. Đây chính là cách đi truyền thống. Các gói tin được chuyển từ router này đến router kế tiếp, mỗi router sẽ chỉ hướng cho gói tin về đích. Quá trình này chậm vì các router phải xử lý từng gói tin một."
       },
       {
         "k": "m",
-        "t": "Chuyển mạch IP có thể so sánh với việc đáp xe bus để đưa bạn trực tiếp về đích. Chỉ có điều là bạn vẫn cần phải biết xe bus nào sẽ chở bạn đến đó. Thoạt đầu bạn phải hỏi một ai đó về lộ trình xe bus hay tìm chúng trong một sơ đồ. Ðiều này tương tự như việc đầu tiên là tìm đường dẫn đến đích. Một số kỹ thuật xây dựng các mạch ảo sẵn, bấy giờ đơn giản là chỉ việc chọn một mạch mà nó sẽ gửi gói tin về đích. Kỹ thuật khác là phát hiện đường dẫn trong khi chuyển."
+        "t": "Chuyển mạch IP có thể so sánh với việc đáp xe bus để đưa bạn trực tiếp về đích. Chỉ có điều là bạn vẫn cần phải biết xe bus nào sẽ chở bạn đến đó. Thoạt đầu bạn phải hỏi một ai đó về lộ trình xe bus hay tìm chúng trong một sơ đồ. Điều này tương tự như việc đầu tiên là tìm đường dẫn đến đích. Một số kỹ thuật xây dựng các mạch ảo sẵn, bấy giờ đơn giản là chỉ việc chọn một mạch mà nó sẽ gửi gói tin về đích. Kỹ thuật khác là phát hiện đường dẫn trong khi chuyển."
       },
       {
         "k": "m",
@@ -374,11 +374,11 @@
       },
       {
         "k": "m",
-        "t": "Ðặc biệt là hãy tham khảo đến \"MPLS (Multiprotocol Label Switching)\" để có thêm thôâng tin đặc tả chuyển mạch nhãn IETF hay đến Web site của IETF về chủ đề này, có điạ chỉ được liệt kê trong mục \"Thông tin trên Internet\" ở cuối phần này."
+        "t": "Đặc biệt là hãy tham khảo đến \"MPLS (Multiprotocol Label Switching)\" để có thêm thôâng tin đặc tả chuyển mạch nhãn IETF hay đến Web site của IETF về chủ đề này, có điạ chỉ được liệt kê trong mục \"Thông tin trên Internet\" ở cuối phần này."
       },
       {
         "k": "m",
-        "t": "Chú ý: Noritoshi Demizu của hãng Sony có trang Web về truyền thông nhiều tầng, trình bày các phát triển mới nhất của kỹ thuật này. Ðiạ chỉ Web ở cuối chủ đề này trong phần \"Thông tin trên Internet\"."
+        "t": "Chú ý: Noritoshi Demizu của hãng Sony có trang Web về truyền thông nhiều tầng, trình bày các phát triển mới nhất của kỹ thuật này. Điạ chỉ Web ở cuối chủ đề này trong phần \"Thông tin trên Internet\"."
       },
       {
         "k": "m",
@@ -430,7 +430,7 @@
       },
       {
         "k": "m",
-        "t": "Cơ chế truyền thông giữa các quá trình trong UNIX là pipe và cơ chế truyền thông giữa các quá trình trên mạng là socket. Socket cũng trở thành một phần của UNIX khi giao thức TCP/IP được tích hợp vào Berkeley UNIX đầu năm 1980. Ðây là một đề án được tài trợ bởi DARPA."
+        "t": "Cơ chế truyền thông giữa các quá trình trong UNIX là pipe và cơ chế truyền thông giữa các quá trình trên mạng là socket. Socket cũng trở thành một phần của UNIX khi giao thức TCP/IP được tích hợp vào Berkeley UNIX đầu năm 1980. Đây là một đề án được tài trợ bởi DARPA."
       }
     ],
     "k": "ipc (interprocess communication)"

@@ -24,7 +24,7 @@
       {"k": "ex", "t": "the mirror is oval", "vi": "cái gương hình bầu dục"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "hình trái xoan, hình bầu dục"},
-      {"k": "ex", "t": "the Oval", "vi": "sân crích-kê ô-van (ở nam Luân Ðôn)"},
+      {"k": "ex", "t": "the Oval", "vi": "sân crích-kê ô-van (ở nam Luân Đôn)"},
       {"k": "ex", "t": "an oval shaped face", "vi": "khuôn mặt hình trái xoan."}
     ],
     "ipa": "'ouvəl",
@@ -255,7 +255,7 @@
   },
   {
     "h": "ovarian artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch buồng trứng."}],
+    "segs": [{"k": "m", "t": "Động mạch buồng trứng."}],
     "k": "ovarian artery"
   },
   {"h": "ovarian colic", "segs": [{"k": "m", "t": "Cơn đau buồng trứng."}], "k": "ovarian colic"},
@@ -276,7 +276,7 @@
   {"h": "ovarian duct", "segs": [{"k": "m", "t": "Vòi tử cung."}], "k": "ovarian duct"},
   {
     "h": "ovarian dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh bệnh buồng trứng."}],
+    "segs": [{"k": "m", "t": "Đau kinh bệnh buồng trứng."}],
     "k": "ovarian dysmenorrhea"
   },
   {"h": "ovarian fimbria", "segs": [{"k": "m", "t": "Tua buồng trứng."}], "k": "ovarian fimbria"},
@@ -294,7 +294,7 @@
   },
   {
     "h": "ovarian plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh buồng trứng."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh buồng trứng."}],
     "k": "ovarian plexus"
   },
   {
@@ -470,7 +470,7 @@
         "t": "Osterreichischer Verband fur Elektrotechnik or Austrian Association for Electrotechnology (OVE)"
       },
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "Hiệp hội Công nghệ Ðiện lực Áo"}
+      {"k": "m", "t": "Hiệp hội Công nghệ Điện lực Áo"}
     ],
     "k": "ove"
   },
@@ -1064,7 +1064,7 @@
       {
         "k": "ex",
         "t": "This is a difficult project, but we're over the hump now:",
-        "vi": "Ðây là một dự án khó thực hiện, nhưng bây giờ chúng tôi đã vượt qua phần khó khăn rồi."
+        "vi": "Đây là một dự án khó thực hiện, nhưng bây giờ chúng tôi đã vượt qua phần khó khăn rồi."
       },
       {
         "k": "ex",
@@ -1443,7 +1443,7 @@
   },
   {
     "h": "over-exposed",
-    "segs": [{"k": "m", "t": "(tt) Ðể quá lâu, được phơi quá lâu (ngoài trời, ngoài nắng...)"}],
+    "segs": [{"k": "m", "t": "(tt) Để quá lâu, được phơi quá lâu (ngoài trời, ngoài nắng...)"}],
     "ipa": "əuvə ɛikspəuzd",
     "k": "over-exposed"
   },
@@ -8927,7 +8927,7 @@
       },
       {
         "k": "m",
-        "t": "Quá duỗi. 1. Duỗi quá mức. ÐN: hyperextension. 2. Trong nha khoa có sự định mức độ dọc của 1 miếng trám ống chân răng, có nghĩa là lỗ chóp răng bị đẩy ra xa hơn."
+        "t": "Quá duỗi. 1. Duỗi quá mức. ĐN: hyperextension. 2. Trong nha khoa có sự định mức độ dọc của 1 miếng trám ống chân răng, có nghĩa là lỗ chóp răng bị đẩy ra xa hơn."
       },
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "(over-ex-ten-sion) extension, as of a limb, beyond the normal limit."},
@@ -9861,7 +9861,7 @@
   },
   {
     "h": "overflow diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo tràn đầy."}],
+    "segs": [{"k": "m", "t": "Đái tháo tràn đầy."}],
     "k": "overflow diabetes"
   },
   {
@@ -14168,7 +14168,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tuyến đường giao thư bằng xe ngựa ở Mỹ thành lập năm 1850, chạy dài từ vùng Ðộc lập, Missouri, tây nam đến Santa Fe và vùng tây đến thành phố Muối hồ. Năm 1858, tuyến đường đưa thư phía bắc thành lập, kéo dài từ đường Louis đến San Francisco. Loại hình phục vụ này lan qua cả Oregon và Montana, trước khi nó được sang nhượng lại cho Wells Fargo năm 1866. Ðến năm 1860, tuyến đường mở rộng ra hàng ngàn dặm và ngày càng mở rộng hơn trong những thế kỷ kế tiếp."
+        "t": "Tuyến đường giao thư bằng xe ngựa ở Mỹ thành lập năm 1850, chạy dài từ vùng Độc lập, Missouri, tây nam đến Santa Fe và vùng tây đến thành phố Muối hồ. Năm 1858, tuyến đường đưa thư phía bắc thành lập, kéo dài từ đường Louis đến San Francisco. Loại hình phục vụ này lan qua cả Oregon và Montana, trước khi nó được sang nhượng lại cho Wells Fargo năm 1866. Đến năm 1860, tuyến đường mở rộng ra hàng ngàn dặm và ngày càng mở rộng hơn trong những thế kỷ kế tiếp."
       }
     ],
     "k": "overland stage"
@@ -14536,7 +14536,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đồ thị phủ ngoài. Trong chương trình đồ họa dùng trong công tác kinh doanh, đây là một loại đồ thị phủ lên trên đồ thị chính. Ví dụ, một đồ thị đường phủ trên một đồ thị dải. Ðồng nghĩa với combination chart."
+        "t": "đồ thị phủ ngoài. Trong chương trình đồ họa dùng trong công tác kinh doanh, đây là một loại đồ thị phủ lên trên đồ thị chính. Ví dụ, một đồ thị đường phủ trên một đồ thị dải. Đồng nghĩa với combination chart."
       }
     ],
     "k": "overlay chart"
@@ -19865,7 +19865,7 @@
     ],
     "k": "overrespond"
   },
-  {"h": "overresponse", "segs": [{"k": "m", "t": "Ðáp ứng quá mức."}], "k": "overresponse"},
+  {"h": "overresponse", "segs": [{"k": "m", "t": "Đáp ứng quá mức."}], "k": "overresponse"},
   {
     "h": "overrestrain",
     "segs": [
@@ -20836,7 +20836,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sự đóng thuế lợi tức có được ở nước ngoài. Ða số các chính phủ đều thu thuế lợi tức đối với công dân thường trú ở nước khác cũng như thu thuế lợi tức đối với người nước ngoài thường trú tại quốc gia mình. Ðiều này tạo ra sự đóng thuế kép, vì thế các nước thường có hiệp ước qui định sự miễn giảm việc thu thuế kép này."
+        "t": "sự đóng thuế lợi tức có được ở nước ngoài. Đa số các chính phủ đều thu thuế lợi tức đối với công dân thường trú ở nước khác cũng như thu thuế lợi tức đối với người nước ngoài thường trú tại quốc gia mình. Điều này tạo ra sự đóng thuế kép, vì thế các nước thường có hiệp ước qui định sự miễn giảm việc thu thuế kép này."
       }
     ],
     "k": "overseas-income taxatiion"
@@ -22768,7 +22768,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "xếp đè. Ðây là một thuật ngữ chỉ hàng hóa trong một hầm tàu dành cho một cảng dỡ nhưng bị xếp đè lên trên bởi hàng hóa khác sẽ được dỡ ra tại cảng dỡ sau đó. Ðể dỡ những hàng hóa bị hàng hóa khác đè lên, trước hết phải chịu chi phí di chuyển số hàng xếp đè và sau khi lô hàng yêu cầu dỡ đã được dỡ ra, phải xếp lại những hàng hóa dành cho cảng dỡ sau đó. Tại cảng xếp phải đề phòng hàng hóa bị xếp đè lên trên, nhưng gặp khó khăn khi hàng được gửi tới cảng lựa chọn. Hàng hóa cũng có thể bị xếp đè lên trong kho tạm tại cầu tàu hoặc trong kho hàng."
+        "t": "xếp đè. Đây là một thuật ngữ chỉ hàng hóa trong một hầm tàu dành cho một cảng dỡ nhưng bị xếp đè lên trên bởi hàng hóa khác sẽ được dỡ ra tại cảng dỡ sau đó. Để dỡ những hàng hóa bị hàng hóa khác đè lên, trước hết phải chịu chi phí di chuyển số hàng xếp đè và sau khi lô hàng yêu cầu dỡ đã được dỡ ra, phải xếp lại những hàng hóa dành cho cảng dỡ sau đó. Tại cảng xếp phải đề phòng hàng hóa bị xếp đè lên trên, nhưng gặp khó khăn khi hàng được gửi tới cảng lựa chọn. Hàng hóa cũng có thể bị xếp đè lên trong kho tạm tại cầu tàu hoặc trong kho hàng."
       }
     ],
     "k": "overstowed"

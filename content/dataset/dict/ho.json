@@ -669,7 +669,7 @@
     "h": "hock",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "rượu vang trắng Ðức"},
+      {"k": "m", "t": "rượu vang trắng Đức"},
       {"k": "m", "t": "(lóng) sự cầm đồ, sự cầm cố"},
       {"k": "ex", "t": "in hock", "vi": "đem cầm (đồ đạc)"},
       {"k": "m", "t": "ở tù (người)"},
@@ -1586,7 +1586,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đây là một dòng họ thuộc hoàng gia của Ðức. Dòng họ này duy trì ngôi vua La Mã từ năm 1138 đến 1254 (kéo dài 116 năm). Ðối thủ của dòng họ này, là dòng họ Hohenzollerns. Dòng họ Hohenzollerns bắt đầu từ vua Conrad III, tiếp theo là vua Frederick I mưu toan xây dựng quyền lực trên đất Ý. Việc liên kết giữa Giáo Hoàng với dòng họ Hohenstaufen luôn xảy ra bất hòa. Nhưng dòng họ này vẫn bành trướng ở Ðức, ở phía Bắc nước Ý và nước Sicily."
+        "t": "đây là một dòng họ thuộc hoàng gia của Đức. Dòng họ này duy trì ngôi vua La Mã từ năm 1138 đến 1254 (kéo dài 116 năm). Đối thủ của dòng họ này, là dòng họ Hohenzollerns. Dòng họ Hohenzollerns bắt đầu từ vua Conrad III, tiếp theo là vua Frederick I mưu toan xây dựng quyền lực trên đất Ý. Việc liên kết giữa Giáo Hoàng với dòng họ Hohenstaufen luôn xảy ra bất hòa. Nhưng dòng họ này vẫn bành trướng ở Đức, ở phía Bắc nước Ý và nước Sicily."
       },
       {
         "k": "m",
@@ -1595,13 +1595,13 @@
     ],
     "k": "hohenstaufen"
   },
-  {"h": "Hohenstaufer", "segs": [{"k": "m", "t": "(người Ðức)."}], "k": "hohenstaufer"},
+  {"h": "Hohenstaufer", "segs": [{"k": "m", "t": "(người Đức)."}], "k": "hohenstaufer"},
   {
     "h": "Hohenzollern",
     "segs": [
       {
         "k": "m",
-        "t": "là tên một tỉnh cũ của nước Phổ, nay là bang Baden-Wurttemberg của Ðức. Tỉnh này lấy tên là Hohenzollern đặt cho một dòng họ Hoàng Gia đầy quyền lực. Dòng họ này phô trương thanh thế lớn mạnh, có tới 6 vị lãnh đạo cao cấp. Vị thứ nhất là Margrave Albert, chủ nhân của hội hiệp sĩ Ðức năm 1511. Vị thứ 2 vua Frederick I của nước Phổ. Vị thứ 3 là vua William I của nước Ðức năm 1871. vị thứ tư là vua William II thoái vị năm 1918. vị thứ 5 là hoàng tử Charles Hohenzollern Sigmaringen cai trị nước Romania năm 1866, sau đổi tên là vua Karol (1881). Vị cuối cùng là vua Leopold cai trị Tây Ban Nha năm 1870. Trong dòng họ của Hohenzollern, có 6 người giữ địa vị lớn."
+        "t": "là tên một tỉnh cũ của nước Phổ, nay là bang Baden-Wurttemberg của Đức. Tỉnh này lấy tên là Hohenzollern đặt cho một dòng họ Hoàng Gia đầy quyền lực. Dòng họ này phô trương thanh thế lớn mạnh, có tới 6 vị lãnh đạo cao cấp. Vị thứ nhất là Margrave Albert, chủ nhân của hội hiệp sĩ Đức năm 1511. Vị thứ 2 vua Frederick I của nước Phổ. Vị thứ 3 là vua William I của nước Đức năm 1871. vị thứ tư là vua William II thoái vị năm 1918. vị thứ 5 là hoàng tử Charles Hohenzollern Sigmaringen cai trị nước Romania năm 1866, sau đổi tên là vua Karol (1881). Vị cuối cùng là vua Leopold cai trị Tây Ban Nha năm 1870. Trong dòng họ của Hohenzollern, có 6 người giữ địa vị lớn."
       }
     ],
     "k": "hohenzollern"
@@ -2624,7 +2624,7 @@
       {
         "k": "ex",
         "t": "BILL: Don't hold your breath until it does:",
-        "vi": "Ðừng có nín thở chờ đợi đến khi xe buýt tới."
+        "vi": "Đừng có nín thở chờ đợi đến khi xe buýt tới."
       },
       {
         "k": "ex",
@@ -2695,7 +2695,7 @@
       {
         "k": "ex",
         "t": "Bill was unable to hold his peace any longer. \"Don't do it!\" he cried:",
-        "vi": "Bill không thể giữ im lặng được nữa. Anh ta kêu lên \"Ðừng làm điều đó!\""
+        "vi": "Bill không thể giữ im lặng được nữa. Anh ta kêu lên \"Đừng làm điều đó!\""
       },
       {
         "k": "ex",
@@ -2969,7 +2969,7 @@
       {
         "k": "ex",
         "t": "Don't get so mad. Just hold your horses:",
-        "vi": "Ðừng nổi nóng như vậy. Hãy từ từ!"
+        "vi": "Đừng nổi nóng như vậy. Hãy từ từ!"
       }
     ],
     "k": "hold your horses"
@@ -2985,7 +2985,7 @@
   {
     "h": "Hold your tongue!",
     "segs": [
-      {"k": "m", "t": "Hãy im đi! Ðừng nói những gì bạn đang nói nữa!"},
+      {"k": "m", "t": "Hãy im đi! Đừng nói những gì bạn đang nói nữa!"},
       {
         "k": "ex",
         "t": "Hold your tongue! I've heard enough of your insults:",
@@ -2994,7 +2994,7 @@
       {
         "k": "ex",
         "t": "That's enough rudeness for today! Hold your tongue!:",
-        "vi": "Hôm nay ăn nói thô lỗ như thế đã đủ rồi đấy! Ðừng nói nữa!"
+        "vi": "Hôm nay ăn nói thô lỗ như thế đã đủ rồi đấy! Đừng nói nữa!"
       }
     ],
     "k": "hold your tongue!"
@@ -4096,7 +4096,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ẩn náu ở đâu đó; sống trốn tránh ở đâu đó. (Tiếng lóng. Ðiển hình thành ngữ này được dùng trong các phim cao bồi hoặc xã hội đen.)"
+        "t": "ẩn náu ở đâu đó; sống trốn tránh ở đâu đó. (Tiếng lóng. Điển hình thành ngữ này được dùng trong các phim cao bồi hoặc xã hội đen.)"
       },
       {
         "k": "ex",
@@ -4227,7 +4227,7 @@
       {
         "k": "ex",
         "t": "Sunday is a holiday in Christian countries",
-        "vi": "Chủ nhật là ngày nghỉ ở các nước theo đạo Cơ Ðốc"
+        "vi": "Chủ nhật là ngày nghỉ ở các nước theo đạo Cơ Đốc"
       },
       {
         "k": "m",
@@ -4402,7 +4402,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tính chất thiêng liêng, tính chất thần thánh"},
-      {"k": "ex", "t": "His Holiness", "vi": "Ðức Giáo hoàng (tiếng tôn xưng)."}
+      {"k": "ex", "t": "His Holiness", "vi": "Đức Giáo hoàng (tiếng tôn xưng)."}
     ],
     "ipa": "'houlinis",
     "k": "holiness"
@@ -4493,11 +4493,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "một dòng họ có nguồn gốc nông dân ở bang Maratha nước Ấn Ðộ. Dòng họ Holkar có người cai trị mạnh nhất trong những bang liên minh của Maratha."
+        "t": "một dòng họ có nguồn gốc nông dân ở bang Maratha nước Ấn Độ. Dòng họ Holkar có người cai trị mạnh nhất trong những bang liên minh của Maratha."
       },
       {
         "k": "m",
-        "t": "Ông Malhar Rao Holkar nổi lên thông qua dịch vụ quân sự ở vùng Peshwas để thành lập nền độc lập thật sự vào năm 1766 và kiểm soát vùng Malwa. Sự kiểm soát được củng cố vào cuối thế kỷ 18, nhưng liên tiếp xảy ra những cuộc tranh luận gay gắt và xung đột với các thủ lĩnh của các bang Maratha khác. Trong thời gian cai trị của ông Jaswant Rao Holkar (1707-1811), nước Anh đã tiêu diệt những yêu sách của dòng họ Holkar ở phía Bắc Ấn Ðộ."
+        "t": "Ông Malhar Rao Holkar nổi lên thông qua dịch vụ quân sự ở vùng Peshwas để thành lập nền độc lập thật sự vào năm 1766 và kiểm soát vùng Malwa. Sự kiểm soát được củng cố vào cuối thế kỷ 18, nhưng liên tiếp xảy ra những cuộc tranh luận gay gắt và xung đột với các thủ lĩnh của các bang Maratha khác. Trong thời gian cai trị của ông Jaswant Rao Holkar (1707-1811), nước Anh đã tiêu diệt những yêu sách của dòng họ Holkar ở phía Bắc Ấn Độ."
       },
       {
         "k": "m",
@@ -6113,7 +6113,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1815) Ðây là một liên minh lỏng lẻo của các nước nắm quyền lực mạnh ở Châu Âu, hứa hẹn nâng đỡ những nguyên tắc của đạo Cơ Ðốc giáo. Sự việc này được tuyên bố ở hội nghị Vienna (1815), do các hoàng đế nước Áo, Nga và nước Phổ. Tất cả những nhà lãnh đạo các nước khác cũng được mời gia nhập vào liên minh này, ngoại trừ Giáo hoàng và vua các nước Hồi giáo. Vua Louis thứ 18 của Pháp cũng gia nhập và đa số vua các nước khác cũng vậy, nhưng vua nước Anh thì không. Vì liên minh chỉ có một công cụ ngoại giao, nên chẳng bao giờ có hiệu lực và tan rã nhanh chóng. Sau đó liên minh này lại liên kết với các chế độ chuyên chế và đàn áp."
+        "t": "(1815) Đây là một liên minh lỏng lẻo của các nước nắm quyền lực mạnh ở Châu Âu, hứa hẹn nâng đỡ những nguyên tắc của đạo Cơ Đốc giáo. Sự việc này được tuyên bố ở hội nghị Vienna (1815), do các hoàng đế nước Áo, Nga và nước Phổ. Tất cả những nhà lãnh đạo các nước khác cũng được mời gia nhập vào liên minh này, ngoại trừ Giáo hoàng và vua các nước Hồi giáo. Vua Louis thứ 18 của Pháp cũng gia nhập và đa số vua các nước khác cũng vậy, nhưng vua nước Anh thì không. Vì liên minh chỉ có một công cụ ngoại giao, nên chẳng bao giờ có hiệu lực và tan rã nhanh chóng. Sau đó liên minh này lại liên kết với các chế độ chuyên chế và đàn áp."
       }
     ],
     "k": "holy alliance"
@@ -6176,7 +6176,7 @@
   },
   {
     "h": "Holy Father",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ðức Giáo hoàng."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Đức Giáo hoàng."}],
     "ipa": "'houli'fa:ðə",
     "k": "holy father"
   },
@@ -6256,7 +6256,7 @@
       },
       {
         "k": "m",
-        "t": "Liên đoàn Thiên Chúa giáo (thành lập năm 1609). Là một liên minh quân sự của các hoàng tử theo đạo Thiên Chúa ở Ðức, được thành lập vào thời gian đầu của cuộc chiến, vua kế vị Julich (năm 1604 đến năm 1614). Suốt thời gian dài cuộc chiến có tên là (cuộc chiến 30 năm) quân lực của liên đoàn Thiên Chúa giáo này chỉ phục vụ các mục đích của Hoàng Gia (các vị hoàng tử Thiên Chúa giáo ở Ðức) do ông Tilly là tư lệnh chính thức."
+        "t": "Liên đoàn Thiên Chúa giáo (thành lập năm 1609). Là một liên minh quân sự của các hoàng tử theo đạo Thiên Chúa ở Đức, được thành lập vào thời gian đầu của cuộc chiến, vua kế vị Julich (năm 1604 đến năm 1614). Suốt thời gian dài cuộc chiến có tên là (cuộc chiến 30 năm) quân lực của liên đoàn Thiên Chúa giáo này chỉ phục vụ các mục đích của Hoàng Gia (các vị hoàng tử Thiên Chúa giáo ở Đức) do ông Tilly là tư lệnh chính thức."
       }
     ],
     "k": "holy league"
@@ -6342,15 +6342,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "(962-1806) một đế chế Thiên Chúa giáo La Mã, một đế chế ở phía Tây của trung tâm Châu Âu. Vua được coi như người thừa kế đế chế đạo Cơ Ðốc giáo của vua Charlemagne và sự cai trị khởi đầu của La Mã."
+        "t": "(962-1806) một đế chế Thiên Chúa giáo La Mã, một đế chế ở phía Tây của trung tâm Châu Âu. Vua được coi như người thừa kế đế chế đạo Cơ Đốc giáo của vua Charlemagne và sự cai trị khởi đầu của La Mã."
       },
       {
         "k": "m",
-        "t": "Sự sáng tạo ra những Giáo Hoàng lạc hậu là một sai lầm lớn nhất, vì những Giáo Hoàng này có ý định bổ nhiệm những phụ tá thế tục (là người thường, không phải Giáo Hoàng, mà cũng không phải người Thiên Chúa giáo) để cai trị đạo Cơ Ðốc giáo. Sự thật là những Giáo Hoàng này đã tạo ra các đối thủ."
+        "t": "Sự sáng tạo ra những Giáo Hoàng lạc hậu là một sai lầm lớn nhất, vì những Giáo Hoàng này có ý định bổ nhiệm những phụ tá thế tục (là người thường, không phải Giáo Hoàng, mà cũng không phải người Thiên Chúa giáo) để cai trị đạo Cơ Đốc giáo. Sự thật là những Giáo Hoàng này đã tạo ra các đối thủ."
       },
       {
         "k": "m",
-        "t": "Kể từ lễ đăng quang của vua Otto I năm 962, đế chế La Mã Thiên Chúa giáo đã luôn liên kết với các vị vua ở Ðức. Ðế chế La Mã bao gồm các khu Hầu tước, khu Công tước, khu giám mục, họ trung thành với đế chế. Trong thực tế, có những sự đối lập giữa hoàng đế với phái quý tộc. Vua Henry IV (cai trị từ năm 1084 đến năm 1106) đã có một cuộc đấu tranh dai dẳng với Thiên Chúa giáo La Mã, về quyền bổ nhiệm các giám mục và linh mục."
+        "t": "Kể từ lễ đăng quang của vua Otto I năm 962, đế chế La Mã Thiên Chúa giáo đã luôn liên kết với các vị vua ở Đức. Đế chế La Mã bao gồm các khu Hầu tước, khu Công tước, khu giám mục, họ trung thành với đế chế. Trong thực tế, có những sự đối lập giữa hoàng đế với phái quý tộc. Vua Henry IV (cai trị từ năm 1084 đến năm 1106) đã có một cuộc đấu tranh dai dẳng với Thiên Chúa giáo La Mã, về quyền bổ nhiệm các giám mục và linh mục."
       },
       {
         "k": "m",
@@ -6358,7 +6358,7 @@
       },
       {
         "k": "m",
-        "t": "Vào năm 1250, sau cái chết của vua Frederick II, lực lượng Hồi giáo Ðức ở trong nội bộ nước Ðức và ở Ý suy yếu dần. Ðế chế La Mã đã nắm quyền thừa kế, và họ là thành viên trong cùng một hoàng tộc được thay nhau thừa kế ngôi vua."
+        "t": "Vào năm 1250, sau cái chết của vua Frederick II, lực lượng Hồi giáo Đức ở trong nội bộ nước Đức và ở Ý suy yếu dần. Đế chế La Mã đã nắm quyền thừa kế, và họ là thành viên trong cùng một hoàng tộc được thay nhau thừa kế ngôi vua."
       },
       {
         "k": "m",
@@ -6366,7 +6366,7 @@
       },
       {
         "k": "m",
-        "t": "Vua Charles I của Tây Ban Nha, Ðức, Hà Lan, Sardinia và Sicily cùng với những lãnh thổ mà họ mới chinh phục được ở Châu Mỹ. Nhưng sự cải cách và \"cuộc chiến 30 năm\" là những thách đố cho dòng vua Habsburg Thiên Chúa giáo. Các vị vua của dòng tộc này phải chịu đựng sự mất thể diện và quyền lực trong suốt một loạt các trận chiến chống vua Louis 14. vào thế kỷ 18, ở nước Phổ có vua Frederick II nổi lên như một lãnh tụ của lực lượng Ðức và cho đến năm 1806, vương miện hoàng gia Ðức đã phải đầu hàng Napoleon."
+        "t": "Vua Charles I của Tây Ban Nha, Đức, Hà Lan, Sardinia và Sicily cùng với những lãnh thổ mà họ mới chinh phục được ở Châu Mỹ. Nhưng sự cải cách và \"cuộc chiến 30 năm\" là những thách đố cho dòng vua Habsburg Thiên Chúa giáo. Các vị vua của dòng tộc này phải chịu đựng sự mất thể diện và quyền lực trong suốt một loạt các trận chiến chống vua Louis 14. vào thế kỷ 18, ở nước Phổ có vua Frederick II nổi lên như một lãnh tụ của lực lượng Đức và cho đến năm 1806, vương miện hoàng gia Đức đã phải đầu hàng Napoleon."
       }
     ],
     "k": "holy roma empire"
@@ -6433,7 +6433,7 @@
   },
   {
     "h": "holy shroud",
-    "segs": [{"k": "m", "t": "khăn liệm thành Tôrinô (táng xác Ðức Kitô?)."}],
+    "segs": [{"k": "m", "t": "khăn liệm thành Tôrinô (táng xác Đức Kitô?)."}],
     "k": "holy shroud"
   },
   {
@@ -6910,7 +6910,7 @@
     "h": "home counties",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "snh. những quận hạt bao quanh Luân Ðôn."}
+      {"k": "m", "t": "snh. những quận hạt bao quanh Luân Đôn."}
     ],
     "ipa": "'houm'kauntiz",
     "k": "home counties"
@@ -7079,7 +7079,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "lực lượng phòng vệ vùng địa phương. Trong thế chiến thứ II, ở nước Anh có một lực lượng tình nguyện nổi lên để đối phó với quân xâm lược. Ðây là lực lượng phòng vệ địa phương, bao gồm những người tình nguyện trong suốt thời gian dài. Từ năm 1940 đến 1944. Vào năm 1942, việc tuyển mộ binh sĩ trở nên bắt buộc, vì thế có khoảng một triệu người đàn ông phải phục vụ đất nước trong suốt thời gian rảnh công việc. Năm 1940, năm sinh tử đầu tiên, lực lượng tình nguyện còn đông hơn quân đội chính quy. Nước Anh không bao giờ mang họ ra để thử nghiệm (ví dụ đem ra mặt trận), nhưng lực lượng tình nguyện đã giúp nâng cao tinh thần của nước Anh trong năm 1941 và 1942."
+        "t": "lực lượng phòng vệ vùng địa phương. Trong thế chiến thứ II, ở nước Anh có một lực lượng tình nguyện nổi lên để đối phó với quân xâm lược. Đây là lực lượng phòng vệ địa phương, bao gồm những người tình nguyện trong suốt thời gian dài. Từ năm 1940 đến 1944. Vào năm 1942, việc tuyển mộ binh sĩ trở nên bắt buộc, vì thế có khoảng một triệu người đàn ông phải phục vụ đất nước trong suốt thời gian rảnh công việc. Năm 1940, năm sinh tử đầu tiên, lực lượng tình nguyện còn đông hơn quân đội chính quy. Nước Anh không bao giờ mang họ ra để thử nghiệm (ví dụ đem ra mặt trận), nhưng lực lượng tình nguyện đã giúp nâng cao tinh thần của nước Anh trong năm 1941 và 1942."
       }
     ],
     "k": "home guard"
@@ -7171,7 +7171,7 @@
     "k": "home information services"
   },
   {"h": "home key", "segs": [{"k": "m", "t": "phím đầu."}], "k": "home key"},
-  {"h": "home land", "segs": [{"k": "m", "t": "(dt) Ðất tổ, tổ quốc."}], "k": "home land"},
+  {"h": "home land", "segs": [{"k": "m", "t": "(dt) Đất tổ, tổ quốc."}], "k": "home land"},
   {
     "h": "home language",
     "segs": [
@@ -8060,7 +8060,7 @@
   },
   {
     "h": "Homeland theology",
-    "segs": [{"k": "m", "t": "Thần học quê hương (Ðài Loan)."}],
+    "segs": [{"k": "m", "t": "Thần học quê hương (Đài Loan)."}],
     "k": "homeland theology"
   },
   {
@@ -8729,7 +8729,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1862) luật cung cấp đất đai. Ðây là một đạo luật ở Mỹ, để khuyến khích người dân di cư về miền Tây. Luật này cung cấp cho bất cứ ai là chủ gia đình và người trên 21 tuổi, số đất là 65 héc ta đất công với lệ phí tượng trưng. Sau 5 năm liên tục cư trú hoặc cứ 6 tháng phải đóng số tiền là 1,25 đô la thì được hoàn toàn sở hữu. Trong những năm nội chiến ở Mỹ, đã có 15.000 vụ cung cấp đất đai được sáng tạo. Sự đầu tư và phát triển cơ khí hóa nông nghiệp với mức độ mạnh đã làm giảm thiểu hiệu lực của luật cung cấp đất đai vào những năm về sau."
+        "t": "(1862) luật cung cấp đất đai. Đây là một đạo luật ở Mỹ, để khuyến khích người dân di cư về miền Tây. Luật này cung cấp cho bất cứ ai là chủ gia đình và người trên 21 tuổi, số đất là 65 héc ta đất công với lệ phí tượng trưng. Sau 5 năm liên tục cư trú hoặc cứ 6 tháng phải đóng số tiền là 1,25 đô la thì được hoàn toàn sở hữu. Trong những năm nội chiến ở Mỹ, đã có 15.000 vụ cung cấp đất đai được sáng tạo. Sự đầu tư và phát triển cơ khí hóa nông nghiệp với mức độ mạnh đã làm giảm thiểu hiệu lực của luật cung cấp đất đai vào những năm về sau."
       }
     ],
     "k": "homestead act"
@@ -8751,7 +8751,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1892) cuộc đình công ở Homestead (Mỹ). Ðó là do mối quan hệ trở nên xấu đi giữa công ty thép Carnegie ở Homestead (bên ngoài Pittsburg do ông Henry Clay Frick lãnh đạo), chống lại những công nhân của hiệp hội sắt thép Amalgamated. Hiệp hội sắt thép này đã không chấp nhận một hợp đồng mới, bất lợi và ra lệnh đình công. Ðể đối phó, ông Frick (của công ty thép Homestead) đã tuyển mộ 300 thám tử ở Pinkerton để bảo vệ nhà máy và các công nhân của ông ta, nhưng số thám tử và công nhân này đã bị đẩy lui trong một cuộc đánh nhau có vũ khí làm cho nhiều người thiệt mạng."
+        "t": "(1892) cuộc đình công ở Homestead (Mỹ). Đó là do mối quan hệ trở nên xấu đi giữa công ty thép Carnegie ở Homestead (bên ngoài Pittsburg do ông Henry Clay Frick lãnh đạo), chống lại những công nhân của hiệp hội sắt thép Amalgamated. Hiệp hội sắt thép này đã không chấp nhận một hợp đồng mới, bất lợi và ra lệnh đình công. Để đối phó, ông Frick (của công ty thép Homestead) đã tuyển mộ 300 thám tử ở Pinkerton để bảo vệ nhà máy và các công nhân của ông ta, nhưng số thám tử và công nhân này đã bị đẩy lui trong một cuộc đánh nhau có vũ khí làm cho nhiều người thiệt mạng."
       },
       {
         "k": "m",
@@ -9084,7 +9084,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là những động vật giống loài người, được đặt tên là bộ tộc Homonidae bao gồm \"bộ tộc biết đứng thẳng\" và \"bộ tộc biết cầm nắm\", được gọi chung là \"bộ tộc Australopithecines\", được coi là thủy tổ của loài người."
+        "t": "Đây là những động vật giống loài người, được đặt tên là bộ tộc Homonidae bao gồm \"bộ tộc biết đứng thẳng\" và \"bộ tộc biết cầm nắm\", được gọi chung là \"bộ tộc Australopithecines\", được coi là thủy tổ của loài người."
       },
       {
         "k": "m",
@@ -9186,7 +9186,7 @@
       },
       {
         "k": "m",
-        "t": "Bộ tộc \"biết đứng thẳng\" là thành viên đầu tiên của dòng giống người đã biết dùng lửa, và có lẽ đã biết dùng quần áo, sinh sống ở vùng nhiệt đới Ðông Phi."
+        "t": "Bộ tộc \"biết đứng thẳng\" là thành viên đầu tiên của dòng giống người đã biết dùng lửa, và có lẽ đã biết dùng quần áo, sinh sống ở vùng nhiệt đới Đông Phi."
       },
       {
         "k": "m",
@@ -9201,7 +9201,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bộ tộc \"biết cầm nắm\". Ðây là một nhóm xương động vật (giống xương người) đã hóa thạch, được tìm thấy ở vùng Olduval Gorge thuộc nước Tanzania vào đầu thập niên 1960, và vùng Koobi Fora thuộc nước Kenya, và vùng Nam Phi. Những bộ xương hóa thạch này có niên đại khoảng 2,5 triệu hoặc 1,6 triệu năm trước đây."
+        "t": "bộ tộc \"biết cầm nắm\". Đây là một nhóm xương động vật (giống xương người) đã hóa thạch, được tìm thấy ở vùng Olduval Gorge thuộc nước Tanzania vào đầu thập niên 1960, và vùng Koobi Fora thuộc nước Kenya, và vùng Nam Phi. Những bộ xương hóa thạch này có niên đại khoảng 2,5 triệu hoặc 1,6 triệu năm trước đây."
       },
       {
         "k": "m",
@@ -9215,11 +9215,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "động vật khôn ngoan (giống với loài người) thuộc bộ tộc biết đứng thẳng có khoảng từ 400.000 hoặc 200.000 năm trước đây. Ở vào thời kỳ đó, bộ óc của chúng phát triển có kích thước của loài người. Trọng lượng của xương sọ đã nhẹ hơn và phía sau đầu tròn. Sự phát triển tiếp theo ngày nay chúng ta không biết rõ, vì bộ tộc khôn ngoan được chia làm 2 nhóm. Nhóm thứ nhất phát triển thành người Neanderthals, nhóm còn lại phát triển giống người hiện đại vào khoảng 125.000 năm trước đây. Những bằng chứng về cơ thể và di truyền cho ta thấy chúng bắt nguồn từ Châu Phi, nhưng cũng có thể thấy rằng một số ít đã phát triển ở miền Viễn Ðông."
+        "t": "động vật khôn ngoan (giống với loài người) thuộc bộ tộc biết đứng thẳng có khoảng từ 400.000 hoặc 200.000 năm trước đây. Ở vào thời kỳ đó, bộ óc của chúng phát triển có kích thước của loài người. Trọng lượng của xương sọ đã nhẹ hơn và phía sau đầu tròn. Sự phát triển tiếp theo ngày nay chúng ta không biết rõ, vì bộ tộc khôn ngoan được chia làm 2 nhóm. Nhóm thứ nhất phát triển thành người Neanderthals, nhóm còn lại phát triển giống người hiện đại vào khoảng 125.000 năm trước đây. Những bằng chứng về cơ thể và di truyền cho ta thấy chúng bắt nguồn từ Châu Phi, nhưng cũng có thể thấy rằng một số ít đã phát triển ở miền Viễn Đông."
       },
       {
         "k": "m",
-        "t": "Vào thời Trung cổ, cơ thể của loài người hiện đại đã xuất hiện ở Châu Âu khoảng 50.000 năm trước đây. Những người Châu Âu hiện đại thường được gọi là người Cromagnons. Những người Neanderthals phát triển ở vùng Trung Ðông và Châu Âu thì không phải là tổ tiên trực tiếp của chúng ta, nhưng có thể họ đã giống với người hiện đại ở Châu Phi du nhập vào Châu Âu qua vùng Viễn Ðông."
+        "t": "Vào thời Trung cổ, cơ thể của loài người hiện đại đã xuất hiện ở Châu Âu khoảng 50.000 năm trước đây. Những người Châu Âu hiện đại thường được gọi là người Cromagnons. Những người Neanderthals phát triển ở vùng Trung Đông và Châu Âu thì không phải là tổ tiên trực tiếp của chúng ta, nhưng có thể họ đã giống với người hiện đại ở Châu Phi du nhập vào Châu Âu qua vùng Viễn Đông."
       },
       {
         "k": "m",
@@ -9298,7 +9298,7 @@
     ],
     "k": "homocentric theory"
   },
-  {"h": "Homocentric(-al)", "segs": [{"k": "m", "t": "Ðồng tâm [điểm]."}], "k": "homocentric(-al)"},
+  {"h": "Homocentric(-al)", "segs": [{"k": "m", "t": "Đồng tâm [điểm]."}], "k": "homocentric(-al)"},
   {
     "h": "homocercal",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "có vây đuôi đồng hình."}],
@@ -9457,7 +9457,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phái đồng dạng (nhánh lạc giáo Ariô cho là Ðức Kitô chỉ \"giống như\" Chúa Cha, chứ không \"đồng bản tính\")."
+        "t": "Phái đồng dạng (nhánh lạc giáo Ariô cho là Đức Kitô chỉ \"giống như\" Chúa Cha, chứ không \"đồng bản tính\")."
       }
     ],
     "k": "homoeans"
@@ -9917,10 +9917,10 @@
   {
     "h": "Homogeneous Network Environments",
     "segs": [
-      {"k": "m", "t": "Môi trường Mạng Ðồng nhất"},
+      {"k": "m", "t": "Môi trường Mạng Đồng nhất"},
       {
         "k": "m",
-        "t": "Nếu mạng ta xét bao gồm các thành phần từ một nhà cung cấp hoặc thiết bị tương thích tất cả chạy cùng hệ điều hành hay hệ điều hành mạng thì ta nói nó là mạng đồng nhất. Mãi đến giữa thập niên 80, IBM và DEC có thể tuyên bố rằng nhiều công ty đã dùng độc nhất sản phẩm của họ. Nhưng khi việc sử dụng máy tính cá nhân và mạng cục bộ tăng lên, nhiều kiểu hệ thống khác bắt đầu chiếm lĩnh bàn làm việc. Có rất ít công ty có các mạng đồng nhất. Ðiều này đặc biệt đúng trong trường hợp các tổ chức liên kết các mạng phòng ban hay nhóm làm việc."
+        "t": "Nếu mạng ta xét bao gồm các thành phần từ một nhà cung cấp hoặc thiết bị tương thích tất cả chạy cùng hệ điều hành hay hệ điều hành mạng thì ta nói nó là mạng đồng nhất. Mãi đến giữa thập niên 80, IBM và DEC có thể tuyên bố rằng nhiều công ty đã dùng độc nhất sản phẩm của họ. Nhưng khi việc sử dụng máy tính cá nhân và mạng cục bộ tăng lên, nhiều kiểu hệ thống khác bắt đầu chiếm lĩnh bàn làm việc. Có rất ít công ty có các mạng đồng nhất. Điều này đặc biệt đúng trong trường hợp các tổ chức liên kết các mạng phòng ban hay nhóm làm việc."
       },
       {"k": "m", "t": "MUòC LIÊN QUAN"},
       {"k": "m", "t": "Heterogenous Network Environments."}
@@ -10280,7 +10280,7 @@
   },
   {
     "h": "homogenous",
-    "segs": [{"k": "m", "t": "Ðồng nhat, đồng thể, cùng nguồn gốc."}],
+    "segs": [{"k": "m", "t": "Đồng nhat, đồng thể, cùng nguồn gốc."}],
     "k": "homogenous"
   },
   {
@@ -10457,7 +10457,7 @@
     ],
     "k": "homoiostasis"
   },
-  {"h": "homoiotherm", "segs": [{"k": "m", "t": "Ðộng vật máu nóng."}], "k": "homoiotherm"},
+  {"h": "homoiotherm", "segs": [{"k": "m", "t": "Động vật máu nóng."}], "k": "homoiotherm"},
   {
     "h": "homoiothermal",
     "segs": [{"k": "m", "t": "(thuộc) đẳng nhiệt, đồng nhiệt, máu nóng."}],
@@ -10824,7 +10824,7 @@
   {"h": "homomorphy", "segs": [{"k": "m", "t": "tính đồng cấu."}], "k": "homomorphy"},
   {
     "h": "homonomous",
-    "segs": [{"k": "m", "t": "Ðồng hợp phần"}, {"k": "m", "t": "Cùng theo một quy luật."}],
+    "segs": [{"k": "m", "t": "Đồng hợp phần"}, {"k": "m", "t": "Cùng theo một quy luật."}],
     "k": "homonomous"
   },
   {
@@ -10936,7 +10936,7 @@
   },
   {
     "h": "Homoousios",
-    "segs": [{"k": "m", "t": "Ðồng bản tính (công đồng Nixêa n. 325)."}],
+    "segs": [{"k": "m", "t": "Đồng bản tính (công đồng Nixêa n. 325)."}],
     "k": "homoousios"
   },
   {
@@ -11192,7 +11192,7 @@
   },
   {
     "h": "Homosexual(-ity)",
-    "segs": [{"k": "m", "t": "Ðồng tính luyến ái, tình dục đồng giới; loạn dâm đồng giới."}],
+    "segs": [{"k": "m", "t": "Đồng tính luyến ái, tình dục đồng giới; loạn dâm đồng giới."}],
     "k": "homosexual(-ity)"
   },
   {
@@ -11209,7 +11209,7 @@
   },
   {
     "h": "homostimulantion",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng kích tố cơ quan đồng loại."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng kích tố cơ quan đồng loại."}],
     "k": "homostimulantion"
   },
   {
@@ -11345,7 +11345,7 @@
     ],
     "k": "homothety"
   },
-  {"h": "homotonic", "segs": [{"k": "m", "t": "Ðẳng trương."}], "k": "homotonic"},
+  {"h": "homotonic", "segs": [{"k": "m", "t": "Đẳng trương."}], "k": "homotonic"},
   {
     "h": "homotope",
     "segs": [{"k": "m", "t": "nguyên tố cùng họ, nguyên tố cùng phân nhóm."}],
@@ -11379,7 +11379,7 @@
     "segs": [{"k": "m", "t": "ánh xạ đồng lân."}],
     "k": "homotopic mapping"
   },
-  {"h": "homotopic pain", "segs": [{"k": "m", "t": "Ðau tại chỗ."}], "k": "homotopic pain"},
+  {"h": "homotopic pain", "segs": [{"k": "m", "t": "Đau tại chỗ."}], "k": "homotopic pain"},
   {
     "h": "homotopic path",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đường đi đồng luân"}],
@@ -11462,7 +11462,7 @@
     "ipa": ",hɔmou'zaigout",
     "k": "homozygote"
   },
-  {"h": "homozygous", "segs": [{"k": "m", "t": "Ðồng hợp tử."}], "k": "homozygous"},
+  {"h": "homozygous", "segs": [{"k": "m", "t": "Đồng hợp tử."}], "k": "homozygous"},
   {
     "h": "Homs",
     "segs": [
@@ -11595,7 +11595,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Honduras có bờ biển dài ở phía Ðông Bắc nằm trên biển Ca-ri-bê và vùng biển ngắn ở phía Tây Nam, trên biển Thái Bình Dương. Ðất đai cằn cỗi và nhiễm phèn, chiếm đa số là đồi núi và rừng già. Khí hậu thay đổi theo độ cao, nhưng là khí hậu nhiệt đới."
+        "t": "Địa hình: Honduras có bờ biển dài ở phía Đông Bắc nằm trên biển Ca-ri-bê và vùng biển ngắn ở phía Tây Nam, trên biển Thái Bình Dương. Đất đai cằn cỗi và nhiễm phèn, chiếm đa số là đồi núi và rừng già. Khí hậu thay đổi theo độ cao, nhưng là khí hậu nhiệt đới."
       },
       {
         "k": "m",
@@ -11640,8 +11640,8 @@
       {"k": "m", "t": "Thủ đô: Tegucigalpa."},
       {"k": "m", "t": "Diện tích: 112.088 km2"},
       {"k": "m", "t": "Dân số: 5,666 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Honduran lempira."},
-      {"k": "m", "t": "Tôn giáo: Thiên Chúa giáo La Mã 94,6%, đạo Cơ Ðốc 5,4%."},
+      {"k": "m", "t": "Tiền tệ: Đồng Honduran lempira."},
+      {"k": "m", "t": "Tôn giáo: Thiên Chúa giáo La Mã 94,6%, đạo Cơ Đốc 5,4%."},
       {"k": "m", "t": "Sắc tộc: Người lai 89,9%, Anh-Ấn 6,7%, da đen 2,1%, da trắng 1,3%."},
       {"k": "m", "t": "Ngôn ngữ: Tiếng Tây Ban Nha."},
       {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc, OAS."}
@@ -11747,7 +11747,7 @@
       {
         "k": "ex",
         "t": "Is that an honest-to-goodness leather jacket, or is it vinyl?:",
-        "vi": "Ðó có phải là một chiếc aó gió bằng da thực hay là nó bằng nhựa vinyl?"
+        "vi": "Đó có phải là một chiếc aó gió bằng da thực hay là nó bằng nhựa vinyl?"
       },
       {"k": "ex", "t": "It's honest-to-goodness vinyl:", "vi": "Nó đích thực bằng nhựa vinyl."}
     ],
@@ -11903,7 +11903,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "loại chim nhỏ (ở châu Phi, dãy Himalaya và Ðông Ấn Ðộ, người ta cho rằng loài chim này dẫn đường cho người và vật trở về)."
+        "t": "loại chim nhỏ (ở châu Phi, dãy Himalaya và Đông Ấn Độ, người ta cho rằng loài chim này dẫn đường cho người và vật trở về)."
       }
     ],
     "ipa": "'hʌni'gaid",
@@ -12423,7 +12423,7 @@
       {"k": "m", "t": "Nó bao gồm một phần nhỏ của Trung Quốc lục địa."},
       {
         "k": "m",
-        "t": "Ðịa hình: quốc gia này nằm gần cửa sông Xi Jiang, có tổng diện tích là 1.060 km, dân số khoảng 6,3 triệu. Ðảo Hong Kong nhô theo triền dốc của một loạt mỏm núi Victoria. Vì ở đây có nhiều đồi núi cao, phần lớn đất đai lên xuống gập ghềnh không cày cấy được."
+        "t": "Địa hình: quốc gia này nằm gần cửa sông Xi Jiang, có tổng diện tích là 1.060 km, dân số khoảng 6,3 triệu. Đảo Hong Kong nhô theo triền dốc của một loạt mỏm núi Victoria. Vì ở đây có nhiều đồi núi cao, phần lớn đất đai lên xuống gập ghềnh không cày cấy được."
       },
       {
         "k": "m",
@@ -12643,7 +12643,7 @@
   },
   {
     "h": "Hono(u)rable",
-    "segs": [{"k": "m", "t": "Ðáng kính/ trọng; vẻ vang; ngài (danh tước tôn xưng)."}],
+    "segs": [{"k": "m", "t": "Đáng kính/ trọng; vẻ vang; ngài (danh tước tôn xưng)."}],
     "k": "hono(u)rable"
   },
   {
@@ -13189,7 +13189,7 @@
   },
   {
     "h": "hooded seal",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chó biển lớn (ở bắc Ðại Tây Dương)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chó biển lớn (ở bắc Đại Tây Dương)."}],
     "ipa": "'hu:did'si:l",
     "k": "hooded seal"
   },
@@ -13734,7 +13734,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Hu-cơ, 1635-1703) nhà bác học Anh, một trong những nhà sáng lập Hội hoàng gia London (1662), giáo sư trường Ðại học tổng hợp London từ 1665. Ông có những công trình cơ bản trong những lĩnh vực khác nhau của vật lý học và thiên văn học. Ông bắt đầu soạn thảo những cơ sở lý thuyết toán học của sự đàn hồi."
+        "t": "(Hu-cơ, 1635-1703) nhà bác học Anh, một trong những nhà sáng lập Hội hoàng gia London (1662), giáo sư trường Đại học tổng hợp London từ 1665. Ông có những công trình cơ bản trong những lĩnh vực khác nhau của vật lý học và thiên văn học. Ông bắt đầu soạn thảo những cơ sở lý thuyết toán học của sự đàn hồi."
       }
     ],
     "k": "hooke robert"
@@ -14964,7 +14964,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một số biểu tượng văn hóa của miền Ðông Hoa Kỳ, có niên đại từ năm 500 trước công nguyên đến năm 500 sau công nguyên. Những biểu tượng này là những gò đất đá hình nón dùng để chôn cất, phát triển nhiều ở bang Ohio, thường liên kết với nhiều công trình khác nhau bằng đất đá. Gò nổi tiếng nhất là \"Gò con rắn lớn\" ở thị trấn Adams, Ohio dài 213m."
+        "t": "một số biểu tượng văn hóa của miền Đông Hoa Kỳ, có niên đại từ năm 500 trước công nguyên đến năm 500 sau công nguyên. Những biểu tượng này là những gò đất đá hình nón dùng để chôn cất, phát triển nhiều ở bang Ohio, thường liên kết với nhiều công trình khác nhau bằng đất đá. Gò nổi tiếng nhất là \"Gò con rắn lớn\" ở thị trấn Adams, Ohio dài 213m."
       }
     ],
     "k": "hopewell cultures"
@@ -14988,7 +14988,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "snh hopis 1. người Mỹ da đỏ ở Ðông Nam Á Arizôna 2. ngôn ngữ của người Hopi."
+        "t": "snh hopis 1. người Mỹ da đỏ ở Đông Nam Á Arizôna 2. ngôn ngữ của người Hopi."
       }
     ],
     "ipa": "'həʊpi",
@@ -18654,7 +18654,7 @@
       {
         "k": "ex",
         "t": "horse and carriage",
-        "vi": "xe do ngựa kéo, đối lại với xe ôtô hiện đại. (Một biểu tượng về sự cổ lỗ sĩ hoặc lỗi thời. Ðặc biệt được dùng với cụm từ go out with, như trong những ví dụ dưới đây. Sử dụng theo theo thứ tự cố định này.)"
+        "vi": "xe do ngựa kéo, đối lại với xe ôtô hiện đại. (Một biểu tượng về sự cổ lỗ sĩ hoặc lỗi thời. Đặc biệt được dùng với cụm từ go out with, như trong những ví dụ dưới đây. Sử dụng theo theo thứ tự cố định này.)"
       },
       {
         "k": "ex",
@@ -19468,7 +19468,7 @@
       {
         "k": "ex",
         "t": "Stop that horseplay and get to work:",
-        "vi": "Ðừng đùa giỡn ầm ĩ nữa, hãy bắt tay vào việc."
+        "vi": "Đừng đùa giỡn ầm ĩ nữa, hãy bắt tay vào việc."
       },
       {
         "k": "ex",
@@ -20186,7 +20186,7 @@
       {
         "k": "ex",
         "t": "Christ's Hospital",
-        "vi": "trường Crai-xơ Hốt-xpi-tơn (tên một trường ở Luân Ðôn)."
+        "vi": "trường Crai-xơ Hốt-xpi-tơn (tên một trường ở Luân Đôn)."
       }
     ],
     "ipa": "'hɔspitl",
@@ -22639,7 +22639,7 @@
   },
   {
     "h": "hot-air treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng khí nóng."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng khí nóng."}],
     "k": "hot-air treatment"
   },
   {
@@ -23857,7 +23857,7 @@
       {"k": "ex", "t": "doctors work long hours", "vi": "các bác sĩ có giờ làm việc dài hơn"},
       {"k": "m", "t": "khoảng cách có thể đi được trong một tiếng đồng hồ"},
       {"k": "m", "t": "London's"},
-      {"k": "ex", "t": "only two hours away", "vi": "Luân Ðôn chỉ còn cách hai giờ đồng hồ"},
+      {"k": "ex", "t": "only two hours away", "vi": "Luân Đôn chỉ còn cách hai giờ đồng hồ"},
       {"k": "m", "t": "(nghĩa bóng) lúc"},
       {"k": "m", "t": "giờ phút"},
       {"k": "ex", "t": "in the hour of danger", "vi": "trong giờ phút lâm nguy"},
@@ -23907,7 +23907,7 @@
       {
         "k": "ex",
         "t": "the London bus departs every hour on the hour",
-        "vi": "xe buýt đi Luân Ðôn mỗi giờ có một chuyến vào đúng giờ chẵn"
+        "vi": "xe buýt đi Luân Đôn mỗi giờ có một chuyến vào đúng giờ chẵn"
       },
       {
         "k": "ex",
@@ -24334,7 +24334,7 @@
       {"k": "m", "t": "tu viện"},
       {"k": "m", "t": "hãng buôn"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the House", "vi": ")^thtục. thị trường chứng khoán Luân Ðôn"},
+      {"k": "ex", "t": "the House", "vi": ")^thtục. thị trường chứng khoán Luân Đôn"},
       {"k": "m", "t": "nhà tế bần"},
       {"k": "m", "t": "ký túc xá"},
       {"k": "m", "t": "toàn thể học sinh trong ký túc xá"},
@@ -24403,7 +24403,7 @@
     "h": "House (the...)",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Sở giao dịch chứng khoán Luân Ðôn"}
+      {"k": "m", "t": "Sở giao dịch chứng khoán Luân Đôn"}
     ],
     "k": "house (the...)"
   },
@@ -24807,7 +24807,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(UK) Thượng viện (quốc hội Anh) ở thời Trung cổ, vua các nước đã lập ra \"một hội đồng lớn\". Ðến thế kỷ 13 và 14, hội đồng lớn này đổi tên thành \"Nghị viện\" hoặc (quốc hội). Thượng viện cùng với hạ viện trình bày những dự án luật lên nhà vua để ban hành các đạo luật. Hạ viện thay mặt nhà vua để thi hành việc đánh thuế và kể từ thế kỷ 16, Hạ viện có quyền lực chính trị nhiều hơn."
+        "t": "(UK) Thượng viện (quốc hội Anh) ở thời Trung cổ, vua các nước đã lập ra \"một hội đồng lớn\". Đến thế kỷ 13 và 14, hội đồng lớn này đổi tên thành \"Nghị viện\" hoặc (quốc hội). Thượng viện cùng với hạ viện trình bày những dự án luật lên nhà vua để ban hành các đạo luật. Hạ viện thay mặt nhà vua để thi hành việc đánh thuế và kể từ thế kỷ 16, Hạ viện có quyền lực chính trị nhiều hơn."
       },
       {
         "k": "m",
@@ -24820,11 +24820,11 @@
       },
       {
         "k": "m",
-        "t": "Ðạo luật \"đời sống quý tộc năm 1958\", số đông quý tộc (không có quyền thừa kế) mới được tham gia vào Thượng viện."
+        "t": "Đạo luật \"đời sống quý tộc năm 1958\", số đông quý tộc (không có quyền thừa kế) mới được tham gia vào Thượng viện."
       },
       {
         "k": "m",
-        "t": "Ðến năm 1997, xuất hiện chính phủ của đảng lao động hứa sẽ chuyển đổi thành phần quý tộc thừa kế tồn tại trong Thượng viện."
+        "t": "Đến năm 1997, xuất hiện chính phủ của đảng lao động hứa sẽ chuyển đổi thành phần quý tộc thừa kế tồn tại trong Thượng viện."
       }
     ],
     "k": "house of lords"
@@ -24857,7 +24857,7 @@
       {"k": "m", "t": "viện dân biểu (Hạ viện trong quốc hội Hoa Kỳ)."},
       {
         "k": "m",
-        "t": "Quyền lực và thành phần của viện dân biểu được ấn định theo điều 1 của hiến pháp Hoa Kỳ năm 1789. Viện dân biểu gồm 435 nghị sĩ, mỗi bang sẽ quyết định số đại biểu của bang đó. Từ trước cho đến năm 1929, số lượng đại biểu quốc hội đã tăng theo dân số. Ðến năm 1929, số đại biểu mỗi bang được ấn định vĩnh viễn. Cứ mỗi chu kỳ 10 năm thì số ghế trong quốc hội sẽ được chia theo tỷ lệ. Nhiệm kỳ của nghị sĩ là 2 năm, nghị sĩ phải có số tuổi tối đa là từ 25 tuổi trở lên, là công dân Mỹ từ 7 năm trở lên và phải thường trú ở bang mới được ra ứng cử."
+        "t": "Quyền lực và thành phần của viện dân biểu được ấn định theo điều 1 của hiến pháp Hoa Kỳ năm 1789. Viện dân biểu gồm 435 nghị sĩ, mỗi bang sẽ quyết định số đại biểu của bang đó. Từ trước cho đến năm 1929, số lượng đại biểu quốc hội đã tăng theo dân số. Đến năm 1929, số đại biểu mỗi bang được ấn định vĩnh viễn. Cứ mỗi chu kỳ 10 năm thì số ghế trong quốc hội sẽ được chia theo tỷ lệ. Nhiệm kỳ của nghị sĩ là 2 năm, nghị sĩ phải có số tuổi tối đa là từ 25 tuổi trở lên, là công dân Mỹ từ 7 năm trở lên và phải thường trú ở bang mới được ra ứng cử."
       },
       {
         "k": "m",
@@ -24873,7 +24873,7 @@
       },
       {
         "k": "m",
-        "t": "Ðảng có đa số ghế ở viện dân biểu sẽ không cần thiết phải đồng ý với đảng có đa số ghế ở Thượng viện hoặc là đảng của tổng thống."
+        "t": "Đảng có đa số ghế ở viện dân biểu sẽ không cần thiết phải đồng ý với đảng có đa số ghế ở Thượng viện hoặc là đảng của tổng thống."
       },
       {
         "k": "m",
@@ -25501,7 +25501,7 @@
     "h": "housecarl",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "cận vệ (vệ sĩ của nhà vua Anh hoặc Ðan Mạch)."}
+      {"k": "m", "t": "cận vệ (vệ sĩ của nhà vua Anh hoặc Đan Mạch)."}
     ],
     "k": "housecarl"
   },
@@ -27642,7 +27642,7 @@
       },
       {
         "k": "m",
-        "t": "Từ năm 1110 đến năm 1141, thủ lĩnh Visnuvardhana trục xuất lực lượng Cholas ra khỏi vùng Deccan, rồi người cháu trai của thủ lĩnh tên là Balala II lên trị vì từ năm 1173 đến năm 1220 và trở thành lực lượng đáng kể ở miền Nam Ấn Ðộ."
+        "t": "Từ năm 1110 đến năm 1141, thủ lĩnh Visnuvardhana trục xuất lực lượng Cholas ra khỏi vùng Deccan, rồi người cháu trai của thủ lĩnh tên là Balala II lên trị vì từ năm 1173 đến năm 1220 và trở thành lực lượng đáng kể ở miền Nam Ấn Độ."
       },
       {
         "k": "m",

@@ -119,7 +119,7 @@
   {"h": "gnathic index", "segs": [{"k": "m", "t": "Chỉ số hàm."}], "k": "gnathic index"},
   {
     "h": "gnathion",
-    "segs": [{"k": "m", "t": "Ðiểm cằm"}, {"k": "m", "t": "Ðiểm thấp nhất giữa hàm dưới."}],
+    "segs": [{"k": "m", "t": "Điểm cằm"}, {"k": "m", "t": "Điểm thấp nhất giữa hàm dưới."}],
     "k": "gnathion"
   },
   {"h": "gnathitis", "segs": [{"k": "m", "t": "Viêm hàm."}], "k": "gnathitis"},
@@ -128,10 +128,10 @@
     "segs": [{"k": "m", "t": "Quái thai có hàm không đầu."}],
     "k": "gnathocephalus"
   },
-  {"h": "gnathodynamics", "segs": [{"k": "m", "t": "Ðộng lực hàm học."}], "k": "gnathodynamics"},
+  {"h": "gnathodynamics", "segs": [{"k": "m", "t": "Động lực hàm học."}], "k": "gnathodynamics"},
   {
     "h": "gnathodynamometer",
-    "segs": [{"k": "m", "t": "Ðộng lực hàm kế."}],
+    "segs": [{"k": "m", "t": "Động lực hàm kế."}],
     "k": "gnathodynamometer"
   },
   {"h": "gnathodynia", "segs": [{"k": "m", "t": "Chứng đau hàm."}], "k": "gnathodynia"},
@@ -570,7 +570,7 @@
   },
   {
     "h": "gnotobiote",
-    "segs": [{"k": "m", "t": "Ðộng vật thí nghiệm mà người ta đã biết hệ vi sinh vật."}],
+    "segs": [{"k": "m", "t": "Động vật thí nghiệm mà người ta đã biết hệ vi sinh vật."}],
     "k": "gnotobiote"
   },
   {

@@ -97,7 +97,7 @@
         "a": "We have too much technological progress.",
         "b": "That really is a very smart machine.",
         "avi": "Chúng ta có quá nhiều tiến bộ về máy móc.",
-        "bvi": "Ðó là một cái máy rất tuyệt."
+        "bvi": "Đó là một cái máy rất tuyệt."
       },
       {
         "a": "This jacket smells like gasoline.",
@@ -138,7 +138,7 @@
       {
         "a": "That's my new cell phone.",
         "b": "Won't you take my photo some day?",
-        "avi": "Ðó là chiếc điện thoại di động mới của tôi.",
+        "avi": "Đó là chiếc điện thoại di động mới của tôi.",
         "bvi": "Hôm nào chụp cho tôi nhé?"
       },
       {
@@ -199,12 +199,12 @@
         "a": "I don't like sports cars.",
         "b": "I'm thinking of buying a Germany light car.",
         "avi": "Tôi không thích xe thể thao.",
-        "bvi": "Tôi đang nghĩ đến chuyện mua một xe Ðức nhẹ."
+        "bvi": "Tôi đang nghĩ đến chuyện mua một xe Đức nhẹ."
       },
       {
         "a": "I'm thinking of buying a Germany light car.",
         "b": "Can you get spare parts easily?",
-        "avi": "Tôi đang nghĩ đến chuyện mua một xe Ðức nhẹ.",
+        "avi": "Tôi đang nghĩ đến chuyện mua một xe Đức nhẹ.",
         "bvi": "Bạn có thể mua phụ tùng dễ dàng không?"
       }
     ]
@@ -229,12 +229,12 @@
         "a": "Can you fix it?",
         "b": "This nut is stripped.",
         "avi": "Bạn siết nó lại được không?",
-        "bvi": "Ðai ốc này bị mòn răng."
+        "bvi": "Đai ốc này bị mòn răng."
       },
       {
         "a": "This nut is stripped.",
         "b": "It will not hold.",
-        "avi": "Ðai ốc này bị mòn răng.",
+        "avi": "Đai ốc này bị mòn răng.",
         "bvi": "Nó không được siết chặt."
       }
     ]
@@ -259,12 +259,12 @@
         "a": "Can you fix my television?",
         "b": "Let me help you to adjust it.",
         "avi": "Bạn có thể sửa cái máy truyền hình của tôi được không?",
-        "bvi": "Ðể tôi giúp bạn điều chỉnh nó."
+        "bvi": "Để tôi giúp bạn điều chỉnh nó."
       },
       {
         "a": "Let me help you to adjust it.",
         "b": "Isn't there anything wrong with it?",
-        "avi": "Ðể tôi giúp bạn điều chỉnh nó.",
+        "avi": "Để tôi giúp bạn điều chỉnh nó.",
         "bvi": "Nó bị hư phải không?"
       }
     ]
@@ -426,7 +426,7 @@
       {
         "a": "The light went out.",
         "b": "You need a new alternator in this car.",
-        "avi": "Ðèn không hoạt động.",
+        "avi": "Đèn không hoạt động.",
         "bvi": "Bạn cần một cái bình điện mới cho cái xe này."
       },
       {
@@ -438,7 +438,7 @@
       {
         "a": "Will this lamp light up if I connect the battery?",
         "b": "The lighting isn't working very well.",
-        "avi": "Ðèn sẽ bật sáng nếu tôi nối vào bình điện chứ?",
+        "avi": "Đèn sẽ bật sáng nếu tôi nối vào bình điện chứ?",
         "bvi": "Hệ thống đèn thắp sáng làm việc không tốt."
       },
       {
@@ -457,12 +457,12 @@
         "a": "The lighting isn't working very well.",
         "b": "This headlight doesn't give much light.",
         "avi": "Hệ thống đèn thắp sáng làm việc không tốt.",
-        "bvi": "Ðèn pha trước không sáng lắm."
+        "bvi": "Đèn pha trước không sáng lắm."
       },
       {
         "a": "This headlight doesn't give much light.",
         "b": "The bulb wants changing perhaps.",
-        "avi": "Ðèn pha trước không sáng lắm.",
+        "avi": "Đèn pha trước không sáng lắm.",
         "bvi": "Có thể cần thay bóng đèn."
       },
       {
@@ -535,7 +535,7 @@
         "a": "Why didn't you call him?",
         "b": "My phone was out of order.",
         "avi": "Sao cô không gọi cho ông ấy?",
-        "bvi": "Ðiện thoại của tôi bị hỏng."
+        "bvi": "Điện thoại của tôi bị hỏng."
       }
     ]
   },
@@ -625,7 +625,7 @@
         "a": "This one works just fine.",
         "b": "The lights and the radio are on.",
         "avi": "Xe này vẫn còn tốt đấy.",
-        "bvi": "Ðèn và radio vẫn mở."
+        "bvi": "Đèn và radio vẫn mở."
       }
     ]
   },

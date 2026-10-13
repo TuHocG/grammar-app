@@ -36,7 +36,7 @@
       "vi": "Vâng tôi khỏe, cảm ơn. Còn bạn?",
       "s": 42.54
     },
-    {"e": 56.09, "en": "This is formal", "vi": "Ðây là kiểu trang trọng", "s": 51.64},
+    {"e": 56.09, "en": "This is formal", "vi": "Đây là kiểu trang trọng", "s": 51.64},
     {
       "e": 63.38,
       "en": "How are you? Fine, thank you. And you?",
@@ -142,7 +142,7 @@
     {"e": 217.45, "en": "How's it going?", "vi": "Có chuyện gì không?", "s": 215.34},
     {"e": 218.25, "en": "Good.", "vi": "Tốt.", "s": 217.45},
     {"e": 219.53, "en": "Good.", "vi": "Tốt.", "s": 218.25},
-    {"e": 223.61, "en": "Read and repeat.", "vi": "Ðọc và lặp lại.", "s": 219.53},
+    {"e": 223.61, "en": "Read and repeat.", "vi": "Đọc và lặp lại.", "s": 219.53},
     {"e": 251.52, "en": "How are you?...", "vi": "Bạn khỏe không?", "s": 223.61},
     {"e": 257.32, "en": "Numbers.", "vi": "Số đếm.", "s": 251.52},
     {"e": 261.44, "en": "Now today is number day.", "vi": "Hôm nay ta sẽ học số đếm.", "s": 257.32},
@@ -189,43 +189,43 @@
     {
       "e": 360.91,
       "en": "Ali: What is this number? two",
-      "vi": "Ali: Ðây là số mấy? số 2.",
+      "vi": "Ali: Đây là số mấy? số 2.",
       "s": 356.48
     },
     {
       "e": 365.63,
       "en": "Marie: What is this number? twelve",
-      "vi": "Marie: Ðây là số mấy? số 12.",
+      "vi": "Marie: Đây là số mấy? số 12.",
       "s": 360.91
     },
     {
       "e": 369.65,
       "en": "Lisa: What is this number? twenty",
-      "vi": "Lisa: Ðây là số mấy? số 20.",
+      "vi": "Lisa: Đây là số mấy? số 20.",
       "s": 365.63
     },
     {
       "e": 373.59,
       "en": "Ali: What is this number? three",
-      "vi": "Ali: Ðây là số mấy? số 3.",
+      "vi": "Ali: Đây là số mấy? số 3.",
       "s": 369.65
     },
     {
       "e": 379.5,
       "en": "Lisa: What is this number? sixteen",
-      "vi": "Lisa: Ðây là số mấy? số 16.",
+      "vi": "Lisa: Đây là số mấy? số 16.",
       "s": 373.59
     },
     {
       "e": 383.84,
       "en": "Marie: What is this number? six",
-      "vi": "Marie: Ðây là số mấy? số 6.",
+      "vi": "Marie: Đây là số mấy? số 6.",
       "s": 379.5
     },
     {
       "e": 387.43,
       "en": "and Ali: What is this number? nineteen",
-      "vi": "Ali: Ðây là số mấy? số 19.",
+      "vi": "Ali: Đây là số mấy? số 19.",
       "s": 383.84
     },
     {
@@ -304,7 +304,7 @@
     {
       "e": 639.24,
       "en": "ah boy, Ok, now, Ali: What's this number? three",
-      "vi": "Nào Ali: Ðây là số mấy? số 3.",
+      "vi": "Nào Ali: Đây là số mấy? số 3.",
       "s": 627.92
     },
     {"e": 642.08, "en": "How do you spell it?", "vi": "Hãy đánh vần nó?", "s": 639.24},
@@ -313,7 +313,7 @@
     {
       "e": 652.74,
       "en": "Lisa: What's this number? Eight",
-      "vi": "Lisa: Ðây là số mấy? số 8.",
+      "vi": "Lisa: Đây là số mấy? số 8.",
       "s": 646.13
     },
     {"e": 654.28, "en": "How do you spell it?", "vi": "Hãy đánh vần nó?", "s": 652.74},
@@ -321,7 +321,7 @@
     {
       "e": 663.19,
       "en": "Marie: What is this number? Twelve",
-      "vi": "Marie: Ðây là số mấy? số 8.",
+      "vi": "Marie: Đây là số mấy? số 8.",
       "s": 657.83
     },
     {"e": 664.81, "en": "How do you spell it?", "vi": "Hãy đánh vần nó?", "s": 663.19},
@@ -329,7 +329,7 @@
     {
       "e": 672.57,
       "en": "and Lisa: What is this number?",
-      "vi": "và Lisa: Ðây là số mấy?",
+      "vi": "và Lisa: Đây là số mấy?",
       "s": 669.12
     },
     {"e": 673.59, "en": "twenty", "vi": "20", "s": 672.57},
@@ -338,7 +338,7 @@
     {
       "e": 683.96,
       "en": "Ok, Ali: What is this number? five",
-      "vi": "Ali: Ðây là số mấy? số 5.",
+      "vi": "Ali: Đây là số mấy? số 5.",
       "s": 679.21
     },
     {"e": 685.08, "en": "How do you spell it?", "vi": "Hãy đánh vần nó?", "s": 683.96},
@@ -346,7 +346,7 @@
     {
       "e": 692.31,
       "en": "Good, and Marie: What is this number? fifteen",
-      "vi": "Tốt, và Marie: Ðây là số mấy? số 15.",
+      "vi": "Tốt, và Marie: Đây là số mấy? số 15.",
       "s": 687.73
     },
     {"e": 693.3, "en": "How do you spell it?", "vi": "Hãy đánh vần nó?", "s": 692.31},
@@ -430,7 +430,7 @@
     {
       "e": 959.35,
       "en": "This is my phone number:",
-      "vi": "Ðây là số điện thoại của tôi:",
+      "vi": "Đây là số điện thoại của tôi:",
       "s": 954.96
     },
     {"e": 971.44, "en": "2 1 2 2 3 3 4 5 8 6", "vi": "2 1 2 2 3 3 4 5 8 6", "s": 959.35},
@@ -622,11 +622,11 @@
       "s": 1377.41
     },
     {"e": 1390.58, "en": "It is 216 415 76 89", "vi": "Nó là 216 415 76 89", "s": 1381.1},
-    {"e": 1394.3, "en": "What is this number?", "vi": "Ðây là số mấy?", "s": 1390.58},
+    {"e": 1394.3, "en": "What is this number?", "vi": "Đây là số mấy?", "s": 1390.58},
     {"e": 1396.32, "en": "12", "vi": "12", "s": 1394.3},
     {"e": 1399.32, "en": "Spell the number?", "vi": "Hãy đánh vần số này?", "s": 1396.32},
     {"e": 1406.61, "en": "Twelve", "vi": "T w e l v e", "s": 1399.32},
-    {"e": 1410.43, "en": "read and repeat", "vi": "Ðọc và lặp lại", "s": 1406.61},
+    {"e": 1410.43, "en": "read and repeat", "vi": "Đọc và lặp lại", "s": 1406.61},
     {
       "e": 1460.67,
       "en": "What is your phone number?",
@@ -674,10 +674,10 @@
     {
       "e": 1528.98,
       "en": "This is important, twenty-one.",
-      "vi": "Ðây là điểm quan trọng trong số 21",
+      "vi": "Đây là điểm quan trọng trong số 21",
       "s": 1525.39
     },
-    {"e": 1531.28, "en": "This is a hyphen.", "vi": "Ðây là dấu gạch nối", "s": 1528.98},
+    {"e": 1531.28, "en": "This is a hyphen.", "vi": "Đây là dấu gạch nối", "s": 1528.98},
     {"e": 1534.05, "en": "hyphen", "vi": "dấu gạch nối", "s": 1531.28},
     {"e": 1541.96, "en": "twenty-two", "vi": "22", "s": 1534.05},
     {"e": 1549.78, "en": "twenty-three", "vi": "23", "s": 1541.96},
@@ -880,7 +880,7 @@
     {"e": 2079.65, "en": "Marie: How old is Ali?", "vi": "Marie: Ali bao nhiêu tuổi?", "s": 2076.75},
     {"e": 2081.56, "en": "He's 25.", "vi": "Anh ấy 25.", "s": 2079.65},
     {"e": 2084.33, "en": "and Lisa: How old am I?", "vi": "Lisa: Tôi bao nhiêu tuổi?", "s": 2081.56},
-    {"e": 2087.71, "en": "You are 26. That's right.", "vi": "Cô 26 tuổi. Ðúng rồi.", "s": 2084.33},
+    {"e": 2087.71, "en": "You are 26. That's right.", "vi": "Cô 26 tuổi. Đúng rồi.", "s": 2084.33},
     {"e": 2093.42, "en": "look and listen", "vi": "Nhìn và lắng nghe.", "s": 2087.71},
     {"e": 2097.43, "en": "Ok, look and listen", "vi": "Nhìn và lắng nghe.", "s": 2093.42},
     {"e": 2099.86, "en": "How old are you?", "vi": "Bạn bao nhiêu tuổi?", "s": 2097.43},
@@ -891,7 +891,7 @@
     {"e": 2113.18, "en": "We are 14 years old.", "vi": "Chúng em 14 tuổi.", "s": 2110.12},
     {"e": 2116.11, "en": "How old are they?", "vi": "Họ bao nhiêu tuổi?", "s": 2113.18},
     {"e": 2117.94, "en": "They are 52.", "vi": "Họ 52.", "s": 2116.11},
-    {"e": 2121.2, "en": "Read and repeat.", "vi": "Ðọc và lặp lại", "s": 2117.94},
+    {"e": 2121.2, "en": "Read and repeat.", "vi": "Đọc và lặp lại", "s": 2117.94},
     {"e": 2162.0, "en": "How old are you?...", "vi": "Bạn bao nhiêu tuổi?", "s": 2121.2},
     {"e": 2168.69, "en": "Singular and plural", "vi": "Số ít và số nhiều.", "s": 2162.0},
     {
@@ -946,7 +946,7 @@
     {
       "e": 2343.16,
       "en": "this, that, these, those",
-      "vi": "Ðây, kia, những thứ này, những thứ kia",
+      "vi": "Đây, kia, những thứ này, những thứ kia",
       "s": 2334.88
     },
     {
@@ -962,17 +962,17 @@
       "s": 2347.05
     },
     {"e": 2353.05, "en": "Ok, now, first", "vi": "Nào trước tiên là", "s": 2350.37},
-    {"e": 2357.41, "en": "This, this: one thing", "vi": "Ðây, đây: dùng cho 1 thứ", "s": 2353.05},
-    {"e": 2359.75, "en": "this", "vi": "Ðây", "s": 2357.41},
+    {"e": 2357.41, "en": "This, this: one thing", "vi": "Đây, đây: dùng cho 1 thứ", "s": 2353.05},
+    {"e": 2359.75, "en": "this", "vi": "Đây", "s": 2357.41},
     {"e": 2362.34, "en": "close to the person.", "vi": "chỉ vật ở sát bên mình", "s": 2359.75},
     {"e": 2365.27, "en": "That: one thing", "vi": "Kia: dùng cho 1 vật", "s": 2362.34},
     {"e": 2368.87, "en": "far from the person.", "vi": "cách xa người nói", "s": 2365.27},
-    {"e": 2371.42, "en": "This, that", "vi": "Ðây, kia", "s": 2368.87},
+    {"e": 2371.42, "en": "This, that", "vi": "Đây, kia", "s": 2368.87},
     {"e": 2375.81, "en": "Ok, now we have plural", "vi": "Bây giờ là: Số nhiều", "s": 2371.42},
     {"e": 2383.46, "en": "these, these", "vi": "Những thứ này, những thứ này.", "s": 2375.81},
     {"e": 2388.88, "en": "and those", "vi": "và những thứ kia", "s": 2383.46},
     {"e": 2392.68, "en": "these, those", "vi": "Những thứ này và những thứ kia", "s": 2388.88},
-    {"e": 2397.56, "en": "this, that", "vi": "Ðây, kia", "s": 2392.68},
+    {"e": 2397.56, "en": "this, that", "vi": "Đây, kia", "s": 2392.68},
     {"e": 2400.73, "en": "these, those", "vi": "Những thứ này, những thứ kia", "s": 2397.56},
     {
       "e": 2405.45,
@@ -983,27 +983,27 @@
     {
       "e": 2410.65,
       "en": "this, that, these, those",
-      "vi": "Ðây, kia, những thứ này, những thứ kia",
+      "vi": "Đây, kia, những thứ này, những thứ kia",
       "s": 2405.45
     },
-    {"e": 2413.41, "en": "this, these", "vi": "Ðây, những thứ này", "s": 2410.65},
+    {"e": 2413.41, "en": "this, these", "vi": "Đây, những thứ này", "s": 2410.65},
     {"e": 2415.05, "en": "different sound", "vi": "Phân biệt âm", "s": 2413.41},
     {
       "e": 2419.34,
       "en": "Now Lisa: What is this? This",
-      "vi": "Nào Lisa: Ðây là cái gì? Ðây",
+      "vi": "Nào Lisa: Đây là cái gì? Đây",
       "s": 2415.05
     },
     {
       "e": 2422.21,
       "en": "Ali: What is this? These",
-      "vi": "Ali: Ðây là cái gì? Những cái này",
+      "vi": "Ali: Đây là cái gì? Những cái này",
       "s": 2419.34
     },
     {
       "e": 2425.2,
       "en": "Marie: What is this? Those",
-      "vi": "Marie: Ðây là cái gì? Những cái kia",
+      "vi": "Marie: Đây là cái gì? Những cái kia",
       "s": 2422.21
     },
     {
@@ -1015,7 +1015,7 @@
     {
       "e": 2434.96,
       "en": "This: This is my pen.",
-      "vi": "Ðây: Ðây là cây viết của tôi.",
+      "vi": "Đây: Đây là cây viết của tôi.",
       "s": 2430.96
     },
     {
@@ -1027,7 +1027,7 @@
     {
       "e": 2442.34,
       "en": "These: These are my pens.",
-      "vi": "Những cái này: Ðây là những cây viết của tôi.",
+      "vi": "Những cái này: Đây là những cây viết của tôi.",
       "s": 2439.18
     },
     {
@@ -1042,34 +1042,34 @@
       "vi": "Bây giờ là một số câu hỏi và trả lời.",
       "s": 2446.69
     },
-    {"e": 2459.34, "en": "What is this?", "vi": "Ðây là cái gì?", "s": 2453.36},
-    {"e": 2461.95, "en": "What is this?", "vi": "Ðây là cái gì?", "s": 2459.34},
+    {"e": 2459.34, "en": "What is this?", "vi": "Đây là cái gì?", "s": 2453.36},
+    {"e": 2461.95, "en": "What is this?", "vi": "Đây là cái gì?", "s": 2459.34},
     {"e": 2470.23, "en": "It is your pen.", "vi": "Nó là cây viết của bạn.", "s": 2461.95},
     {
       "e": 2474.15,
       "en": "What is this? It is your pen.",
-      "vi": "Ðây là cái gì? Nó là cây viết của bạn.",
+      "vi": "Đây là cái gì? Nó là cây viết của bạn.",
       "s": 2470.23
     },
     {"e": 2481.85, "en": "What is that?", "vi": "Kia là cái gì?", "s": 2474.15},
     {"e": 2485.53, "en": "What is that?", "vi": "Kia là cái gì?", "s": 2481.85},
-    {"e": 2489.26, "en": "That is your eraser.", "vi": "Ðó là cục tẩy của bạn.", "s": 2485.53},
-    {"e": 2499.11, "en": "That is your eraser.", "vi": "Ðó là cục tẩy của bạn.", "s": 2489.26},
+    {"e": 2489.26, "en": "That is your eraser.", "vi": "Đó là cục tẩy của bạn.", "s": 2485.53},
+    {"e": 2499.11, "en": "That is your eraser.", "vi": "Đó là cục tẩy của bạn.", "s": 2489.26},
     {
       "e": 2504.13,
       "en": "What is that? That is your eraser.",
-      "vi": "Kia là cái gì? Ðó là cục tẩy của bạn.",
+      "vi": "Kia là cái gì? Đó là cục tẩy của bạn.",
       "s": 2499.11
     },
-    {"e": 2511.8, "en": "What are these?", "vi": "Ðây là những gì?", "s": 2504.13},
-    {"e": 2513.65, "en": "What are these?", "vi": "Ðây là những gì?", "s": 2511.8},
+    {"e": 2511.8, "en": "What are these?", "vi": "Đây là những gì?", "s": 2504.13},
+    {"e": 2513.65, "en": "What are these?", "vi": "Đây là những gì?", "s": 2511.8},
     {
       "e": 2520.42,
       "en": "They are your pens.",
       "vi": "Chúng là những cây viết của bạn.",
       "s": 2513.65
     },
-    {"e": 2523.29, "en": "What are these?", "vi": "Ðây là những gì?", "s": 2520.42},
+    {"e": 2523.29, "en": "What are these?", "vi": "Đây là những gì?", "s": 2520.42},
     {
       "e": 2526.74,
       "en": "They are your pens.",
@@ -1087,7 +1087,7 @@
     {
       "e": 2551.64,
       "en": "Ok, what is this? It is your pen.",
-      "vi": "Ðây là cái gì? Nó là cây viết của bạn.",
+      "vi": "Đây là cái gì? Nó là cây viết của bạn.",
       "s": 2545.57
     },
     {
@@ -1099,7 +1099,7 @@
     {
       "e": 2559.49,
       "en": "What are these? These are your pens.",
-      "vi": "Ðây là những gì? Ðây là những cây viết của bạn.",
+      "vi": "Đây là những gì? Đây là những cây viết của bạn.",
       "s": 2555.41
     },
     {
@@ -1111,19 +1111,19 @@
     {
       "e": 2568.54,
       "en": "Ok students. Let's practise a little bit. assistants!",
-      "vi": "Ðược rồi các em. Hãy thực hành một chút với các bạn.",
+      "vi": "Được rồi các em. Hãy thực hành một chút với các bạn.",
       "s": 2563.34
     },
     {
       "e": 2572.65,
       "en": "Marie: What is this? That is a board.",
-      "vi": "Marie: Ðây là cái gì? Ðó là tấm bảng.",
+      "vi": "Marie: Đây là cái gì? Đó là tấm bảng.",
       "s": 2568.54
     },
     {
       "e": 2577.35,
       "en": "Ali: What are those? These are my books.",
-      "vi": "Ali: Kia là những gì? Ðây là những quyển sách của em.",
+      "vi": "Ali: Kia là những gì? Đây là những quyển sách của em.",
       "s": 2572.65
     },
     {
@@ -1143,7 +1143,7 @@
     {
       "e": 2592.92,
       "en": "Ali: What are these? They are your pens.",
-      "vi": "Ali: Ðây là những gì? Chúng là những cây viết của bạn.",
+      "vi": "Ali: Đây là những gì? Chúng là những cây viết của bạn.",
       "s": 2588.89
     },
     {"e": 2595.52, "en": "Ok, Very good.", "vi": "ồ tốt lắm.", "s": 2592.92},
@@ -1152,19 +1152,19 @@
     {
       "e": 2607.68,
       "en": "What is this? This is your pen.",
-      "vi": "Ðây là gì? Ðây là cây viết của bạn.",
+      "vi": "Đây là gì? Đây là cây viết của bạn.",
       "s": 2603.26
     },
     {
       "e": 2611.74,
       "en": "What is that? That is your book.",
-      "vi": "Kia là gì? Ðó là quyển sách của bạn.",
+      "vi": "Kia là gì? Đó là quyển sách của bạn.",
       "s": 2607.68
     },
     {
       "e": 2616.72,
       "en": "What are these? They are your erasers.",
-      "vi": "Ðây là những gì? Chúng là những cục tẩy của bạn.",
+      "vi": "Đây là những gì? Chúng là những cục tẩy của bạn.",
       "s": 2611.74
     },
     {
@@ -1174,9 +1174,9 @@
       "s": 2616.72
     },
     {"e": 2625.03, "en": "read and repeat", "vi": "Hãy đọc và lặp lại", "s": 2621.04},
-    {"e": 2655.12, "en": "What is this?...", "vi": "Ðây là gì?", "s": 2625.03},
+    {"e": 2655.12, "en": "What is this?...", "vi": "Đây là gì?", "s": 2625.03},
     {"e": 2657.43, "en": "Ok, Let's practise.", "vi": "OK hãy thực hành", "s": 2655.12},
-    {"e": 2659.13, "en": "Here is a question.", "vi": "Ðây là câu hỏi", "s": 2657.43},
+    {"e": 2659.13, "en": "Here is a question.", "vi": "Đây là câu hỏi", "s": 2657.43},
     {"e": 2667.93, "en": "How many... do you have?", "vi": "Có bao nhiêu... bạn có?", "s": 2659.13},
     {"e": 2673.01, "en": "How many... do you have?", "vi": "Có bao nhiêu... bạn có?", "s": 2667.93},
     {"e": 2678.89, "en": "I have...", "vi": "Tôi có...", "s": 2673.01},
@@ -1290,7 +1290,7 @@
       "s": 2806.0
     },
     {"e": 2812.71, "en": "I have two desks.", "vi": "Tôi có 2 cái bàn.", "s": 2809.84},
-    {"e": 2816.21, "en": "read and repeat", "vi": "Ðọc và lặp lại", "s": 2812.71},
+    {"e": 2816.21, "en": "read and repeat", "vi": "Đọc và lặp lại", "s": 2812.71},
     {
       "e": 2847.45,
       "en": "How many students do you have?",
@@ -1309,7 +1309,7 @@
     {"e": 2861.21, "en": "just fine.", "vi": "Tôi cũng khỏe.", "s": 2859.79},
     {"e": 2863.3, "en": "Lisa: How old are you?", "vi": "Lisa: Em bao nhiêu tuổi?", "s": 2861.21},
     {"e": 2865.03, "en": "I am 27.", "vi": "Em 27.", "s": 2863.3},
-    {"e": 2868.14, "en": "Lisa: spell 27.", "vi": "Lisa: Ðánh vần số 26.", "s": 2865.03},
+    {"e": 2868.14, "en": "Lisa: spell 27.", "vi": "Lisa: Đánh vần số 26.", "s": 2865.03},
     {"e": 2877.11, "en": "T w e n t y - s e v e n.", "vi": "T w e n t y - s e v e n.", "s": 2868.14},
     {
       "e": 2880.28,
@@ -1364,25 +1364,25 @@
       "s": 2921.69
     },
     {"e": 2926.33, "en": "I have six pens.", "vi": "Em có 6 cây viết.", "s": 2924.65},
-    {"e": 2930.52, "en": "Lisa: Spell 16.", "vi": "Lisa: Ðánh vần số 16.", "s": 2926.33},
+    {"e": 2930.52, "en": "Lisa: Spell 16.", "vi": "Lisa: Đánh vần số 16.", "s": 2926.33},
     {"e": 2935.87, "en": "S i x t e e n.", "vi": "S i x t e e n.", "s": 2930.52},
-    {"e": 2939.99, "en": "Good. Ali: Spell 70.", "vi": "Tốt Ali: Ðánh vần số 70.", "s": 2935.87},
+    {"e": 2939.99, "en": "Good. Ali: Spell 70.", "vi": "Tốt Ali: Đánh vần số 70.", "s": 2935.87},
     {"e": 2944.08, "en": "s e v e n t y.", "vi": "s e v e n t y.", "s": 2939.99},
     {
       "e": 2947.65,
       "en": "Good. Now Marie: Spell 12.",
-      "vi": "Tốt. Nào Marie: Ðánh vần số 12.",
+      "vi": "Tốt. Nào Marie: Đánh vần số 12.",
       "s": 2944.08
     },
     {"e": 2951.82, "en": "T w e l v e.", "vi": "T w e l v e.", "s": 2947.65},
-    {"e": 2956.13, "en": "Ali: What are these?", "vi": "Ali: Ðây là những gì?", "s": 2951.82},
+    {"e": 2956.13, "en": "Ali: What are these?", "vi": "Ali: Đây là những gì?", "s": 2951.82},
     {
       "e": 2957.72,
       "en": "They are your pens.",
       "vi": "Chúng là những cây viết của cô.",
       "s": 2956.13
     },
-    {"e": 2960.57, "en": "Lisa: What is this?", "vi": "Lisa: Ðây là gì?", "s": 2957.72},
+    {"e": 2960.57, "en": "Lisa: What is this?", "vi": "Lisa: Đây là gì?", "s": 2957.72},
     {"e": 2962.13, "en": "It is the board.", "vi": "Nó là tấm bảng.", "s": 2960.57},
     {
       "e": 2964.42,
@@ -1432,7 +1432,7 @@
     {
       "e": 3119.96,
       "en": "Number four: These are my books.",
-      "vi": "Số 4: Ðây là những quyển sách của tôi.",
+      "vi": "Số 4: Đây là những quyển sách của tôi.",
       "s": 3111.39
     },
     {
@@ -1458,7 +1458,7 @@
     {
       "e": 3155.62,
       "en": "Number four: These are my books.",
-      "vi": "Số 4: Ðây là những quyển sách của tôi.",
+      "vi": "Số 4: Đây là những quyển sách của tôi.",
       "s": 3150.09
     },
     {
@@ -1476,10 +1476,10 @@
     {
       "e": 3168.76,
       "en": "Read it and answer the questions.",
-      "vi": "Ðọc và trả lời câu hỏi",
+      "vi": "Đọc và trả lời câu hỏi",
       "s": 3165.39
     },
-    {"e": 3173.8, "en": "Read and answer", "vi": "Ðọc và trả lời", "s": 3168.76},
+    {"e": 3173.8, "en": "Read and answer", "vi": "Đọc và trả lời", "s": 3168.76},
     {"e": 3181.95, "en": "Lisa is twenty-seven years old.", "vi": "Lisa 27 tuổi.", "s": 3173.8},
     {
       "e": 3191.94,
@@ -1500,14 +1500,14 @@
     {
       "e": 3210.98,
       "en": "Those books are English.",
-      "vi": "Ðó là những quyển sách tiếng Anh.",
+      "vi": "Đó là những quyển sách tiếng Anh.",
       "s": 3208.79
     },
     {"e": 3214.29, "en": "Marie has two notebooks.", "vi": "Marie có 2 quyển vở.", "s": 3210.98},
     {
       "e": 3216.66,
       "en": "Those notebooks are English.",
-      "vi": "Ðó là những quyển vở tiếng Anh.",
+      "vi": "Đó là những quyển vở tiếng Anh.",
       "s": 3214.29
     },
     {"e": 3219.87, "en": "Now answer the question.", "vi": "Nào hãy trả lời câu hỏi.", "s": 3216.66},
@@ -1595,7 +1595,7 @@
     {"e": 3371.92, "en": "What is his name?", "vi": "Anh ây tên gì vậy?", "s": 3369.98},
     {"e": 3374.17, "en": "His name is Robert.", "vi": "Tên anh ấy là Robert.", "s": 3371.92},
     {"e": 3377.35, "en": "Who is this?", "vi": "Ai đây?", "s": 3374.17},
-    {"e": 3379.59, "en": "That? It's my sister.", "vi": "Ðó hả? Em gái tôi.", "s": 3377.35},
+    {"e": 3379.59, "en": "That? It's my sister.", "vi": "Đó hả? Em gái tôi.", "s": 3377.35},
     {"e": 3381.44, "en": "What is her name?", "vi": "Cô ấy tên gì vậy?", "s": 3379.59},
     {"e": 3384.42, "en": "Her name is Oathry.", "vi": "Tên cô ấy là Oathry.", "s": 3381.44},
     {"e": 3386.4, "en": "How old is she?", "vi": "Cô ấy bao nhiêu tuổi.", "s": 3384.42},

@@ -162,7 +162,7 @@
         "Sau đó thực hành với một người bạn của bạn."
       ],
       ["Xin chào. Chắc bạn là Maryam."],
-      ["Ðúng vậy."],
+      ["Đúng vậy."],
       ["Rất vui được gặp bạn.", "Xin được tự giới thiệu", "tôi là Nga."],
       ["Nga, rất vui được gặp bạn.", "Bạn là bạn cùng lớp với Lan phải không?"],
       ["Vâng, đúng vậy.", "Bạn có thích ở Việt Nam không?"],
@@ -229,7 +229,7 @@
         "Và mình cũng thích những thành phố cổ ở Việt Nam nữa."
       ],
       ["Bạn cũng sống ở thành phố chứ?"],
-      ["Vâng. Mình sống ở Tokyo.", "Ðó là một thủ đô náo nhiệt."],
+      ["Vâng. Mình sống ở Tokyo.", "Đó là một thủ đô náo nhiệt."],
       ["Thành phố của bạn có khác so với Hà Nội không?"],
       [
         "à, nói chung Tokyo hiện đại hơn Hà Nội.",
@@ -291,7 +291,7 @@
       ["Bạn có đói bụng không, Carlo?"],
       ["Có"],
       [
-        "Ðược rồi.",
+        "Được rồi.",
         "Chúng ta hãy đến nhà hàng ở khu phố.",
         "Nếu chúng ta đi qua công viên, chúng ta sẽ đón xe buýt ở Ocean Drive."
       ],
@@ -308,8 +308,8 @@
         "bạn sẽ hủy hoại những loại cỏ mới trồng đấy."
       ],
       ["ô, mình xin lỗi.", "Mình đã không thấy bảng hiệu."],
-      ["Nhanh lên.", "Ðã đến giờ chúng ta đón xe buýt rồi đó."],
-      ["Ðó có phải xe buýt của chúng ta không Tim?"],
+      ["Nhanh lên.", "Đã đến giờ chúng ta đón xe buýt rồi đó."],
+      ["Đó có phải xe buýt của chúng ta không Tim?"],
       ["Không. đó là chiếc xe buýt số 103.", "Chúng ta đi chiếc số 130."],
       ["Chúng ta sẽ đi ăn ở đâu?"],
       ["Tùy bạn thôi", "Có một nhà hàng Mê-hi-cô mới ở thị trấn này."],
@@ -319,7 +319,7 @@
         "Mình thích thức ăn của Mỹ.",
         "Mình thích bánh mì kẹp thịt hơn."
       ],
-      ["Ðược rồi.", "Mình biết chính xác nơi chúng ta cần đến rồi."]
+      ["Được rồi.", "Mình biết chính xác nơi chúng ta cần đến rồi."]
     ],
     "img": "img/readings/1.9.9a.webp",
     "page": "9"
@@ -350,18 +350,18 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
-        "Malaysia là một nước thuộc Hiệp hội các quốc gia Ðông Nam á.",
-        "Malaysia được chia làm hai phần, gọi là Tây Malaysia và Ðông Malaysia.",
+        "Malaysia là một nước thuộc Hiệp hội các quốc gia Đông Nam á.",
+        "Malaysia được chia làm hai phần, gọi là Tây Malaysia và Đông Malaysia.",
         "Hai phần này được ngăn cách bởi khoảng 640 km biển và có tổng diện tích là 329,758 km2.",
         "Malaysia có khí hậu nhiệt đới.",
-        "Ðơn vị tiền tệ của Malaysia là ringgit, gồm 100 xu."
+        "Đơn vị tiền tệ của Malaysia là ringgit, gồm 100 xu."
       ],
       [
         "Kuala Lumpur là thủ đô của Malaysia và cũng là thành phố lớn nhất nước.",
         "Dân số vào năm 2001 là hơn 22 triệu.",
-        "Ðạo Hồi là quốc giáo của nước này.",
+        "Đạo Hồi là quốc giáo của nước này.",
         "Bên cạnh đó còn có những tôn giáo khác như đạo Phật và đạo Hindu.",
         "Quốc ngữ là tiếng Bahasa Malaysia (còn được gọi ngắn gọn là tiếng Malay ).",
         "Tiếng Anh, tiếng Trung Quốc, và tiếng Tamil cũng được sử dụng rộng rãi.",
@@ -393,7 +393,7 @@
       ["Diện tích: 329,758 km"],
       ["Dân số: Trên 22 triệu người năm 2001."],
       ["Khí hậu: Khí hậu nhiệt đới"],
-      ["Ðơn vị tiền tệ: đồng ringgit (gồm 100 xu)"],
+      ["Đơn vị tiền tệ: đồng ringgit (gồm 100 xu)"],
       ["Thủ đô: Kuala Lumpur"],
       ["Tôn giáo chính thống: Hồi Giáo"],
       ["Quốc ngữ: Bahasa Malaysia"],
@@ -418,7 +418,7 @@
       ["- English is a compulsory second language, not primary language of instruction."]
     ],
     "vi": [
-      ["Ðúng hay sai?", "Ðánh dấu (V) vào các ô.", "Sau đó sửa lại các câu sai."],
+      ["Đúng hay sai?", "Đánh dấu (V) vào các ô.", "Sau đó sửa lại các câu sai."],
       ["Malaysia là nước thành viên của ASEAN.(T)"],
       ["Có hai tôn giáo ở Malaysia.(F)"],
       ["ở Malaysia có nhiều hơn hai tôn giáo."],
@@ -497,7 +497,7 @@
       ],
       ["Dàn bài"],
       [
-        "Ðoạn 1:",
+        "Đoạn 1:",
         "Hãy nói bạn đến nơi khi nào và ai đã đón bạn ở trạm xe buýt/ ga xe lửa / phi trường."
       ],
       [
@@ -508,7 +508,7 @@
         "Minh, bạn tôi / Dì Hương tôi... đón tôi ở sân bay / sân ga / bến xe buýt",
         "sau đó anh ấy / dì ấy đưa tôi về nhà / khách sạn (mà họ đã đặt phòng) bằng taxi / xe máy/xe đạp..."
       ],
-      ["Ðoạn 2:"],
+      ["Đoạn 2:"],
       ["Nói về:"],
       ["Những việc bạn đã làm"],
       ["những nơi bạn đã ghé thăm"],
@@ -519,9 +519,9 @@
       ["Tôi đã thử nhiều món ăn khác nhau ở thành phố Huế như:", "bún bò, bánh lọc, bún hến ..."],
       ["Tôi đã đi thuyền dọc sông Hương, nghe hò Huế..."],
       ["Tôi mua được nhiều quà cho gia đình và bạn bè."],
-      ["Ðoạn 3:"],
+      ["Đoạn 3:"],
       ["Hãy cho biết bạn cảm thay thế nào (vui vẻ, thất vọng ... )"],
-      ["Ðiều gì bạn thích nhất (con người / địa điểm/ các hoạt động... )"],
+      ["Điều gì bạn thích nhất (con người / địa điểm/ các hoạt động... )"],
       ["Ghi chú khi bạn trở về nhà"],
       [
         "Tôi cảm thấy rất vui sau chuyến đi thú vị.",
@@ -589,7 +589,7 @@
         "một ngôi chùa rất nổi tiếng và cổ kính ở thành phố Huế,",
         "nó tọa lạc ở phía Nam bờ sông Hương.",
         "Sau đó, chúng con đến thăm lăng Tự đức.",
-        "Ðây là một trong những lăng mộ hoàng gia đẹp nhất Huế.",
+        "Đây là một trong những lăng mộ hoàng gia đẹp nhất Huế.",
         "Cuối cùng, chúng con ghé thăm đại Nội,",
         ", được công nhận là di sản văn hóa thế giới cách đây 7 năm.",
         "Con cũng có dịp được thử nhiều món ăn ở Huế như bún bò, bánh lọc, bún hến...",

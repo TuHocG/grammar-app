@@ -1213,7 +1213,7 @@
       {
         "k": "ex",
         "t": "This doesn't surprise me. I knew about it early on:",
-        "vi": "Ðiều này không làm tôi ngạc nhiên tôi đã biết trước rồi."
+        "vi": "Điều này không làm tôi ngạc nhiên tôi đã biết trước rồi."
       }
     ],
     "k": "early on"
@@ -3142,7 +3142,7 @@
   },
   {
     "h": "earth's attraction",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sức hút của Trái Ðất"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sức hút của Trái Đất"}],
     "k": "earth's attraction"
   },
   {
@@ -3184,7 +3184,7 @@
   },
   {
     "h": "Earth's eccentricity",
-    "segs": [{"k": "m", "t": "độ chênh giữa Trái Ðất và hình cầu."}],
+    "segs": [{"k": "m", "t": "độ chênh giữa Trái Đất và hình cầu."}],
     "k": "earth's eccentricity"
   },
   {
@@ -3218,7 +3218,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "sức hút Trái đất"},
-      {"k": "m", "t": "trọng lực của Trái Ðất (P)"}
+      {"k": "m", "t": "trọng lực của Trái Đất (P)"}
     ],
     "k": "earth's gravity"
   },
@@ -4726,19 +4726,19 @@
       {"k": "ex", "t": "the wind is blowing from the east", "vi": "gió từ hướng đông thổi tới"},
       {"k": "m", "t": "("},
       {"k": "ex", "t": "the East", "vi": ") những nước ở châu Á (nhất là Trung Quốc và Nhật Bản)"},
-      {"k": "ex", "t": "philosophies of the East", "vi": "các triết lý phương Ðông"},
+      {"k": "ex", "t": "philosophies of the East", "vi": "các triết lý phương Đông"},
       {"k": "m", "t": "("},
       {"k": "ex", "t": "the East", "vi": ") bất cứ phần nào của thế giới ở phía đông châu Âu"},
-      {"k": "ex", "t": "the Middle East", "vi": "Trung Ðông"},
-      {"k": "ex", "t": "the Near East", "vi": "Cận Ðông"},
-      {"k": "ex", "t": "the Far East", "vi": "Viễn Ðông"},
+      {"k": "ex", "t": "the Middle East", "vi": "Trung Đông"},
+      {"k": "ex", "t": "the Near East", "vi": "Cận Đông"},
+      {"k": "ex", "t": "the Far East", "vi": "Viễn Đông"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the East", "vi": ") mạn phía Ðông của Hoa Kỳ"},
+      {"k": "ex", "t": "the East", "vi": ") mạn phía Đông của Hoa Kỳ"},
       {"k": "ex", "t": "I was born in the East, but now live in", "vi": "Los Angeles"},
-      {"k": "m", "t": "Tôi chào đời ở miền Ðông, nhưng bây giờ thì sống ở Los Angeles"},
-      {"k": "ex", "t": "Far East", "vi": "Viễn Ðông"},
-      {"k": "ex", "t": "Middle East", "vi": "Trung Ðông"},
-      {"k": "ex", "t": "Near East", "vi": "Cận Ðông"},
+      {"k": "m", "t": "Tôi chào đời ở miền Đông, nhưng bây giờ thì sống ở Los Angeles"},
+      {"k": "ex", "t": "Far East", "vi": "Viễn Đông"},
+      {"k": "ex", "t": "Middle East", "vi": "Trung Đông"},
+      {"k": "ex", "t": "Near East", "vi": "Cận Đông"},
       {
         "k": "ex",
         "t": "East or West, home is best",
@@ -4753,7 +4753,7 @@
     ],
     "ipa": "i:st",
     "k": "east",
-    "q": {"vi": "hướng Ðông", "ipa": "i:st", "rs": "ít st"}
+    "q": {"vi": "hướng Đông", "ipa": "i:st", "rs": "ít st"}
   },
   {
     "h": "East Africa",
@@ -4771,7 +4771,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1967-1977) hiệp hội kinh tế của các nước Ðông Phi. Hiệp hội bắt đầu bằng bản tuyên ngôn năm 1936 giữa Kenya, Tanzania và Uganda để cải cách nền thương mại, giao thông và kinh tế phát triển. Hiệp hội này là \"Tổ chức dịch vụ cộng đồng\" của Ðông Phi, cung cấp hối đoái chung cho thị trường và thuế quan. Năm 1967, hiệp ước Kampala được triển khai vào cộng đồng Ðông Phi ở Arusha và Tarzania. Nhưng vào năm 1977, cộng đồng này bị tan vỡ."
+        "t": "(1967-1977) hiệp hội kinh tế của các nước Đông Phi. Hiệp hội bắt đầu bằng bản tuyên ngôn năm 1936 giữa Kenya, Tanzania và Uganda để cải cách nền thương mại, giao thông và kinh tế phát triển. Hiệp hội này là \"Tổ chức dịch vụ cộng đồng\" của Đông Phi, cung cấp hối đoái chung cho thị trường và thuế quan. Năm 1967, hiệp ước Kampala được triển khai vào cộng đồng Đông Phi ở Arusha và Tarzania. Nhưng vào năm 1977, cộng đồng này bị tan vỡ."
       }
     ],
     "k": "east african community"
@@ -4789,7 +4789,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một vùng thuộc phía Ðông nước Anh, vùng này bị những người dân Norfolk và Suffolk chiếm đóng. Vùng East Anglia được thành lập vào cuối thế kỷ 5, do người Angles, Saxons, Frisians và Swabians đến từ bờ biển Baltic thuộc nước Ðức. Những vùng định cư đầu tiên là ở Norfolk, tiếp theo là Suffolk, đặc biệt là xung quanh vùng Ipswich tạo nên nền tảng cốt lõi của hoàng gia ở Rendlesham, trên sông Deben. Có rất ít người biết đến vùng đất này, ngoại trừ Raedwald (625). Ông là người giàu có, nên sau khi qua đời ông được an táng ở Sutton Hoo (nghĩa trang hoàng gia). Con trai của ông là Sigeberht, đã thành lập một tòa giám mục Cơ Ðốc Giáo ở Dunwich và tu viện ở Burgh Castle. Vào cuối thế kỷ 19, vương quốc này bị người Ðan Mạch xâm chiếm. Nó phải tuân theo luật pháp Ðan Mạch (921) và trở thành một trong bốn triều đại Bá tước của Anh."
+        "t": "một vùng thuộc phía Đông nước Anh, vùng này bị những người dân Norfolk và Suffolk chiếm đóng. Vùng East Anglia được thành lập vào cuối thế kỷ 5, do người Angles, Saxons, Frisians và Swabians đến từ bờ biển Baltic thuộc nước Đức. Những vùng định cư đầu tiên là ở Norfolk, tiếp theo là Suffolk, đặc biệt là xung quanh vùng Ipswich tạo nên nền tảng cốt lõi của hoàng gia ở Rendlesham, trên sông Deben. Có rất ít người biết đến vùng đất này, ngoại trừ Raedwald (625). Ông là người giàu có, nên sau khi qua đời ông được an táng ở Sutton Hoo (nghĩa trang hoàng gia). Con trai của ông là Sigeberht, đã thành lập một tòa giám mục Cơ Đốc Giáo ở Dunwich và tu viện ở Burgh Castle. Vào cuối thế kỷ 19, vương quốc này bị người Đan Mạch xâm chiếm. Nó phải tuân theo luật pháp Đan Mạch (921) và trở thành một trong bốn triều đại Bá tước của Anh."
       }
     ],
     "k": "east anglia"
@@ -4808,13 +4808,13 @@
     "h": "East Asia Summit",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Hội nghị thượng đỉnh Ðông Á"}
+      {"k": "m", "t": "Hội nghị thượng đỉnh Đông Á"}
     ],
     "k": "east asia summit"
   },
   {
     "h": "East Asian",
-    "segs": [{"k": "m", "t": "(economic) miracle Sự thần kỳ (về kinh tế) của Ðông Á."}],
+    "segs": [{"k": "m", "t": "(economic) miracle Sự thần kỳ (về kinh tế) của Đông Á."}],
     "k": "east asian"
   },
   {
@@ -4857,8 +4857,8 @@
     ],
     "k": "east brunswick"
   },
-  {"h": "east by North", "segs": [{"k": "m", "t": "Ðông về Bắc."}], "k": "east by north"},
-  {"h": "east by South", "segs": [{"k": "m", "t": "Ðông về Nam."}], "k": "east by south"},
+  {"h": "east by North", "segs": [{"k": "m", "t": "Đông về Bắc."}], "k": "east by north"},
+  {"h": "east by South", "segs": [{"k": "m", "t": "Đông về Nam."}], "k": "east by south"},
   {
     "h": "East Cape",
     "segs": [
@@ -4911,13 +4911,13 @@
   },
   {
     "h": "east end",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "khu đông Luân Ðôn."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "khu đông Luân Đôn."}],
     "ipa": "'i:st'end",
     "k": "east end"
   },
   {
     "h": "east germanic",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nhóm các ngôn ngữ Ðông Giéc-man."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nhóm các ngôn ngữ Đông Giéc-man."}],
     "ipa": "'i:stdʒə:'mænik",
     "k": "east germanic"
   },
@@ -5006,7 +5006,7 @@
     ],
     "k": "east london"
   },
-  {"h": "east longitude", "segs": [{"k": "m", "t": "kinh độ Ðông."}], "k": "east longitude"},
+  {"h": "east longitude", "segs": [{"k": "m", "t": "kinh độ Đông."}], "k": "east longitude"},
   {
     "h": "east longitude (EL)",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kinh độ đông"}],
@@ -5044,7 +5044,7 @@
   },
   {
     "h": "East Nam Bo",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Vùng Ðông Nam Bộ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Vùng Đông Nam Bộ"}],
     "k": "east nam bo"
   },
   {
@@ -5154,19 +5154,19 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ðông Timor) Một phần của đảo Ðông Timor. Ðây là khu vực rộng lớn nhất ở phía Ðông quần đảo Lesser Sunda. Thuộc Indonesina, nằm giữa biển Timor và biển Savu thuộc quần đảo của Mã Lai."
+        "t": "(Đông Timor) Một phần của đảo Đông Timor. Đây là khu vực rộng lớn nhất ở phía Đông quần đảo Lesser Sunda. Thuộc Indonesina, nằm giữa biển Timor và biển Savu thuộc quần đảo của Mã Lai."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Thuộc khu vực đồng bằng, nằm ở vùng bờ biển thường hay ngập lụt, nhưng địa hình dâng cao dần và nổi lên thành vùng núi. Vùng Hỏa Diệm Sơn thiên nhiên của đảo để lại những mạch nước phun đầy bùn, nhưng núi này đã ngưng hoạt động."
+        "t": "Địa hình: Thuộc khu vực đồng bằng, nằm ở vùng bờ biển thường hay ngập lụt, nhưng địa hình dâng cao dần và nổi lên thành vùng núi. Vùng Hỏa Diệm Sơn thiên nhiên của đảo để lại những mạch nước phun đầy bùn, nhưng núi này đã ngưng hoạt động."
       },
       {
         "k": "m",
-        "t": "Lịch sử: Bồ Ðào Nha đã cai trị hơn 450 năm. Nhưng vào năm 1975, Ðông Timor tuyên bố độc lập ngay sau đó thì bị Indonesia xâm chiếm. Năm 1976, Ðông Timor phải sáp nhập vào đảo Timor và được coi như một tỉnh. Tuy nhiên, sự sáp nhập này không được Liên Hiệp Quốc công nhận. Vì thế, Ðảng ly khai (mặt trận cách mạng giành độc lập của Timor) Fretilin, tiếp tục cuộc chiến tranh du kích. Năm 1918, Indonesia diễn ra cuộc biểu tình lớn. Ðến tháng 11 năm 1991, có khoảng 200 người bị lực lượng quân đội Indonesia bắn chết trong cuộc biểu tình ở thủ đô Dili."
+        "t": "Lịch sử: Bồ Đào Nha đã cai trị hơn 450 năm. Nhưng vào năm 1975, Đông Timor tuyên bố độc lập ngay sau đó thì bị Indonesia xâm chiếm. Năm 1976, Đông Timor phải sáp nhập vào đảo Timor và được coi như một tỉnh. Tuy nhiên, sự sáp nhập này không được Liên Hiệp Quốc công nhận. Vì thế, Đảng ly khai (mặt trận cách mạng giành độc lập của Timor) Fretilin, tiếp tục cuộc chiến tranh du kích. Năm 1918, Indonesia diễn ra cuộc biểu tình lớn. Đến tháng 11 năm 1991, có khoảng 200 người bị lực lượng quân đội Indonesia bắn chết trong cuộc biểu tình ở thủ đô Dili."
       },
       {
         "k": "m",
-        "t": "Từ năm 1993, Liên Hiệp Quốc đã đỡ đầu cho cuộc đàm phán hòa bình gồm Indonesia và Bồ Ðào Nha tham dự để giải quyết hoàn cảnh của Ðông Timor. Năm 1996, ông Jorge Ramos-Horta đã được nhận giải Nobel hòa bình. Ông là người hoạt động tích cực của đảng Fretilin sống lưu vong trên đảo này cùng Ðức Giám mục Carols Belo của Ðông Timor nhà đấu tranh về nhân quyền."
+        "t": "Từ năm 1993, Liên Hiệp Quốc đã đỡ đầu cho cuộc đàm phán hòa bình gồm Indonesia và Bồ Đào Nha tham dự để giải quyết hoàn cảnh của Đông Timor. Năm 1996, ông Jorge Ramos-Horta đã được nhận giải Nobel hòa bình. Ông là người hoạt động tích cực của đảng Fretilin sống lưu vong trên đảo này cùng Đức Giám mục Carols Belo của Đông Timor nhà đấu tranh về nhân quyền."
       }
     ],
     "k": "east timor"
@@ -5176,7 +5176,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thương mại Ðông Tây. Nói về thương mại giữa Liên Xô cũ và các nước Xã hội Chủ nghĩa ở Ðông Âu (phương \"Ðông\") với các quốc gia có nền kinh tế thị trường phát triển ở Tây Âu, Bắc Mỹ và Nhật Bản (\"phương Tây\")."
+        "t": "thương mại Đông Tây. Nói về thương mại giữa Liên Xô cũ và các nước Xã hội Chủ nghĩa ở Đông Âu (phương \"Đông\") với các quốc gia có nền kinh tế thị trường phát triển ở Tây Âu, Bắc Mỹ và Nhật Bản (\"phương Tây\")."
       }
     ],
     "k": "east west trade"
@@ -5197,13 +5197,13 @@
   },
   {
     "h": "east-ender",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người dân khu đông Luân Ðôn."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "người dân khu đông Luân Đôn."}],
     "ipa": "'i:st'endə",
     "k": "east-ender"
   },
   {
     "h": "east-north-east",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hướng Ðông-Ðông Bắc."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hướng Đông-Đông Bắc."}],
     "k": "east-north-east"
   },
   {
@@ -5211,20 +5211,20 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tính từ, phó từ"},
-      {"k": "m", "t": "Ðông Ðông Bắc, điểm ở giữa Ðông và Ðông Bắc."}
+      {"k": "m", "t": "Đông Đông Bắc, điểm ở giữa Đông và Đông Bắc."}
     ],
     "ipa": "i:stnɔ:θ'i:st",
     "k": "east-northeast"
   },
   {
     "h": "east-south-east",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hướng Ðông-Ðông Nam."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hướng Đông-Đông Nam."}],
     "k": "east-south-east"
   },
-  {"h": "east-southeast", "segs": [{"k": "m", "t": "Ðông Ðông Nam."}], "k": "east-southeast"},
+  {"h": "east-southeast", "segs": [{"k": "m", "t": "Đông Đông Nam."}], "k": "east-southeast"},
   {
     "h": "east-west effect",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hiệu ứng Ðông-Tây"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hiệu ứng Đông-Tây"}],
     "k": "east-west effect"
   },
   {
@@ -5232,7 +5232,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Mối quan hệ Ðông Tây) Từ khi chấm dứt đệ nhị thế chiến, Mỹ và đồng minh hình thành sự đối lập với Liên Xô. Nguyên nhân có lẽ bởi chủ nghĩa và về quyền lợi. Hoa Kỳ đặt ra mục tiêu bảo vệ an ninh ở Châu Âu, trong khi Liên Xô trải rộng ảnh hưởng đến những quốc gia ở phía Ðông. Cả hai cường quốc bắt đầu phát triển vũ khí hạt nhân. Sự rạn nứt chính trị rõ rệt giữa khối Nato và khối Warsaw (Vac-sa-va). Cuối cùng hai bên đã hình thành bầu không khí \"chiến tranh lạnh\". Mỗi bên đã phát triển kho vũ khí hạt nhân và mưu toan bành trướng ảnh hưởng đến hòa bình thế giới. Tuy nhiên, thời kỳ đầu của \"chiến tranh lạnh\" đã bị phá vỡ vào thập niên 1960, do sự rạn nứt giữa Trung Quốc và Liên Xô. Từ đó Trung Quốc có thái độ \"không liên kết\", đồng thời giữ chính sách độc lập, không phụ thuộc vào khối Ðông hay Tây Âu. Vào thập niên 1970, giao dịch quốc tế được cải tiến làm tình hình bớt căng thẳng. Tuy nhiên, thời kỳ Liên Xô can thiệp vào Afghanistan (1979) đã làm tái diễn tình trạng \"chiến tranh lạnh\" lần thứ hai. Nhưng sau đó Liên Xô rút khỏi Afghanistan (1988). Nước Ðức tái thống nhất vào năm 1990. Năm 1991, Liên Xô tạm ngưng các hoạt động đối ngoại. Họ không can thiệp vào các nước cộng hòa. Thời gian sau đó là việc giảm thiểu cuộc chạy đua vũ trang giữa hai khối Ðông Tây và chấm dứt xung đột quốc tế."
+        "t": "(Mối quan hệ Đông Tây) Từ khi chấm dứt đệ nhị thế chiến, Mỹ và đồng minh hình thành sự đối lập với Liên Xô. Nguyên nhân có lẽ bởi chủ nghĩa và về quyền lợi. Hoa Kỳ đặt ra mục tiêu bảo vệ an ninh ở Châu Âu, trong khi Liên Xô trải rộng ảnh hưởng đến những quốc gia ở phía Đông. Cả hai cường quốc bắt đầu phát triển vũ khí hạt nhân. Sự rạn nứt chính trị rõ rệt giữa khối Nato và khối Warsaw (Vac-sa-va). Cuối cùng hai bên đã hình thành bầu không khí \"chiến tranh lạnh\". Mỗi bên đã phát triển kho vũ khí hạt nhân và mưu toan bành trướng ảnh hưởng đến hòa bình thế giới. Tuy nhiên, thời kỳ đầu của \"chiến tranh lạnh\" đã bị phá vỡ vào thập niên 1960, do sự rạn nứt giữa Trung Quốc và Liên Xô. Từ đó Trung Quốc có thái độ \"không liên kết\", đồng thời giữ chính sách độc lập, không phụ thuộc vào khối Đông hay Tây Âu. Vào thập niên 1970, giao dịch quốc tế được cải tiến làm tình hình bớt căng thẳng. Tuy nhiên, thời kỳ Liên Xô can thiệp vào Afghanistan (1979) đã làm tái diễn tình trạng \"chiến tranh lạnh\" lần thứ hai. Nhưng sau đó Liên Xô rút khỏi Afghanistan (1988). Nước Đức tái thống nhất vào năm 1990. Năm 1991, Liên Xô tạm ngưng các hoạt động đối ngoại. Họ không can thiệp vào các nước cộng hòa. Thời gian sau đó là việc giảm thiểu cuộc chạy đua vũ trang giữa hai khối Đông Tây và chấm dứt xung đột quốc tế."
       }
     ],
     "k": "east-west relations"
@@ -5242,7 +5242,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Sự chia rẽ tôn giáo giữa hai khối Ðông tây) Cơ Ðốc giáo và Thiên Chúa Giáo La Mã đã được khẳng định (1054). Khuynh hướng của Cơ Ðốc Giáo Và Thiên Chúa Giáo được chia thành hai phái Ðông và Tây. Cả hai đều muốn di chuyển trụ sở từ La Mã đến Constantinople vào thế kỷ 4. Các Ðức giáo hoàng thì nghiêng về ủng hộ Thiên Chúa Giáo La Mã ở phía Tây hơn là vương quốc Bizantine ở phía đông. Ðây cũng là thời gian xảy ra những cuộc tranh luận về quyền hạn của Ðức Giáo Hoàng. Những toan tính chia rẽ giữa hai tôn giáo cũng xuất hiện. Nổi tiếng là sự xuất hiện của hội đồng giáo sĩ ở Lyons II (1274) và Floence (1439). Người ta chỉ tổ chức những cuộc hội họp qua loa. Do đó Ottoman của Thổ Nhĩ Kỳ vẫn xâm chiếm Constantinople năm 1453 và xâm chiếm Bizantine trong nhiều thế kỷ. Gần đây hai tôn giáo lại liên kết để hàn gắn sự chia rẽ."
+        "t": "(Sự chia rẽ tôn giáo giữa hai khối Đông tây) Cơ Đốc giáo và Thiên Chúa Giáo La Mã đã được khẳng định (1054). Khuynh hướng của Cơ Đốc Giáo Và Thiên Chúa Giáo được chia thành hai phái Đông và Tây. Cả hai đều muốn di chuyển trụ sở từ La Mã đến Constantinople vào thế kỷ 4. Các Đức giáo hoàng thì nghiêng về ủng hộ Thiên Chúa Giáo La Mã ở phía Tây hơn là vương quốc Bizantine ở phía đông. Đây cũng là thời gian xảy ra những cuộc tranh luận về quyền hạn của Đức Giáo Hoàng. Những toan tính chia rẽ giữa hai tôn giáo cũng xuất hiện. Nổi tiếng là sự xuất hiện của hội đồng giáo sĩ ở Lyons II (1274) và Floence (1439). Người ta chỉ tổ chức những cuộc hội họp qua loa. Do đó Ottoman của Thổ Nhĩ Kỳ vẫn xâm chiếm Constantinople năm 1453 và xâm chiếm Bizantine trong nhiều thế kỷ. Gần đây hai tôn giáo lại liên kết để hàn gắn sự chia rẽ."
       }
     ],
     "k": "east-west schism"
@@ -5412,7 +5412,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tháng 4 năm 1916) Cuộc nổi dậy ở Dublin gồm 2.000 người tình nguyện Ai Len, cùng với lực lượng quần chúng cầm súng chống lại chính quyền cai trị của Anh ở Ai Len. Tổ chức Huynh đệ cộng hòa Ai Len đặt kế hoạch khởi nghĩa do đảng Sin Fein ủng hộ. Hải quân Ðức đã chở đầy vũ khí đến hỗ trợ nước này. Hải quân Anh cản trở quyết liệt. Roger Casement của tổ chức huynh đệ Ai Len đã làm nội gián cho hải quân Ðức. Tuy nhiên, sau khi đổ bộ lên bờ biển bằng con tàu U-Boat của Ðức thì ông bị bắt. Những sĩ quan lãnh đạo lực lượng kháng chiến Ai Len bấy giờ là Padraic Pearse và James Connolly. Họ vẫn tiếp tục chiến đấu. Vì thế cộng hòa Ai Len giành được độc lập. Ngày 24 tháng tư, chính phủ lâm thời được thành lập và ông Pearse làm tổng thống. Nhưng đội quân hùng mạnh của Anh đã buộc nhóm quân kháng chiến phải đầu hàng vào ngày 29 tháng 4. Tổng thống Pearse chỉ giữ chức được 5 ngày. Sự thất bại này là do có quá ít dân chúng ủng hộ cuộc kháng chiến. Mặt khác, nhiều thanh niên Ai Len lại là lính của quân đội Anh trong đệ nhất thế chiến. Cuối cùng, 16 người lãnh đạo kháng chiến bị xử tử, hơn 2.000 dân quân bị cầm tù."
+        "t": "(tháng 4 năm 1916) Cuộc nổi dậy ở Dublin gồm 2.000 người tình nguyện Ai Len, cùng với lực lượng quần chúng cầm súng chống lại chính quyền cai trị của Anh ở Ai Len. Tổ chức Huynh đệ cộng hòa Ai Len đặt kế hoạch khởi nghĩa do đảng Sin Fein ủng hộ. Hải quân Đức đã chở đầy vũ khí đến hỗ trợ nước này. Hải quân Anh cản trở quyết liệt. Roger Casement của tổ chức huynh đệ Ai Len đã làm nội gián cho hải quân Đức. Tuy nhiên, sau khi đổ bộ lên bờ biển bằng con tàu U-Boat của Đức thì ông bị bắt. Những sĩ quan lãnh đạo lực lượng kháng chiến Ai Len bấy giờ là Padraic Pearse và James Connolly. Họ vẫn tiếp tục chiến đấu. Vì thế cộng hòa Ai Len giành được độc lập. Ngày 24 tháng tư, chính phủ lâm thời được thành lập và ông Pearse làm tổng thống. Nhưng đội quân hùng mạnh của Anh đã buộc nhóm quân kháng chiến phải đầu hàng vào ngày 29 tháng 4. Tổng thống Pearse chỉ giữ chức được 5 ngày. Sự thất bại này là do có quá ít dân chúng ủng hộ cuộc kháng chiến. Mặt khác, nhiều thanh niên Ai Len lại là lính của quân đội Anh trong đệ nhất thế chiến. Cuối cùng, 16 người lãnh đạo kháng chiến bị xử tử, hơn 2.000 dân quân bị cầm tù."
       }
     ],
     "k": "easter rising"
@@ -5421,8 +5421,8 @@
     "h": "Easter sepulchre",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "mộ cổ ở phương Ðông"},
-      {"k": "m", "t": "mộ cổ phương Ðông"}
+      {"k": "m", "t": "mộ cổ ở phương Đông"},
+      {"k": "m", "t": "mộ cổ phương Đông"}
     ],
     "k": "easter sepulchre"
   },
@@ -5497,7 +5497,7 @@
         "k": "m",
         "t": "về, từ hoặc đang sống ở phần phía đông của thế giới hoặc của một khu vực cụ thể nào đó"
       },
-      {"k": "ex", "t": "Eastern customs, religions", "vi": "các phong tục, tín ngưỡng phương Ðông"},
+      {"k": "ex", "t": "Eastern customs, religions", "vi": "các phong tục, tín ngưỡng phương Đông"},
       {
         "k": "ex",
         "t": "the Eastern seaboard of the USA",
@@ -5506,49 +5506,49 @@
       {
         "k": "ex",
         "t": "the Eastern Bloc",
-        "vi": "những nước cộng sản Ðông Âu (cũ) được xem như một nhóm."
+        "vi": "những nước cộng sản Đông Âu (cũ) được xem như một nhóm."
       }
     ],
     "ipa": "'i:stən",
     "k": "eastern",
-    "q": {"vi": "ở phương đông, thuộc về hướng Ðông", "ipa": "'i:stən", "rs": "í s thờn"}
+    "q": {"vi": "ở phương đông, thuộc về hướng Đông", "ipa": "'i:stən", "rs": "í s thờn"}
   },
   {
     "h": "eastern 'bloc",
     "segs": [
       {
         "k": "m",
-        "t": "(dt) Khối các quốc gia Ðông Âu. Eastern 'Hemisphere (dt) Ðông bán cầu, các nước phía đông bán cầu."
+        "t": "(dt) Khối các quốc gia Đông Âu. Eastern 'Hemisphere (dt) Đông bán cầu, các nước phía đông bán cầu."
       }
     ],
     "k": "eastern 'bloc"
   },
   {
     "h": "Eastern (Standard) Time",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Giờ chuẩn ở hướng Ðông"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "Giờ chuẩn ở hướng Đông"}],
     "k": "eastern (standard) time"
   },
   {
     "h": "Eastern Airlines",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Công ty Hàng Không Ðông Phương"}
+      {"k": "m", "t": "Công ty Hàng Không Đông Phương"}
     ],
     "k": "eastern airlines"
   },
-  {"h": "eastern amplitude", "segs": [{"k": "m", "t": "biên độ Ðông."}], "k": "eastern amplitude"},
+  {"h": "eastern amplitude", "segs": [{"k": "m", "t": "biên độ Đông."}], "k": "eastern amplitude"},
   {
     "h": "Eastern bloc",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "các nước phương Ðông"},
-      {"k": "m", "t": "khối phương Ðông"}
+      {"k": "m", "t": "các nước phương Đông"},
+      {"k": "m", "t": "khối phương Đông"}
     ],
     "k": "eastern bloc"
   },
   {
     "h": "Eastern bloc (the...)",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "khối phương Ðông"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "khối phương Đông"}],
     "k": "eastern bloc (the...)"
   },
   {
@@ -5586,7 +5586,7 @@
   },
   {
     "h": "eastern churches",
-    "segs": [{"k": "m", "t": "các Giáo hội Ðông phương."}],
+    "segs": [{"k": "m", "t": "các Giáo hội Đông phương."}],
     "k": "eastern churches"
   },
   {
@@ -5632,7 +5632,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Chiến tranh thế giới lần thứ II, 1939-1945) những chiến dịch tác chiến ở mặt trận phía Ðông trong đệ nhị thế chiến năm 1939-1945. Một loạt những chiến dịch quân sự ở miền Ðông Châu Âu. Chiến dịch thứ nhất vào tháng 9 năm 1939, theo sau, hiệp ước Xô Viết-Nazi (1939). Khi quân Ðức xâm chiếm Ba Lan, rồi Liên Xô tiến vào từ phía Ðông, thì Ba Lan sụp đổ. Phần Lan bị thất trận trong cuộc chiến Nga-Phần Lan. Tháng 6 năm 1941, Hitler mở đợt tấn công bất ngờ chống lại quân đồng minh gồm Liên Xô, Ý La Mã, Hung Ga Ri, Phần Lan nhưng quân Slovakia gia nhập vào đội quân xâm lăng. Cuối năm 1941, Ðức thôn tính Belorussia và phần lớn xứ Ukraina, bao vây thành phố Lenigtad và cùng tiến vào Mát Cơ Va. Mùa đông khắc nghiệt ở Nga đã ngăn trở cuộc tiến quân của Ðức và cuộc phản quân của Liên Xô đã làm quân Ðức thất bại. Năm 1941, đến lượt quân Anh và Liên Xô liên kết chiếm đóng Iran. Năm 1942, Leningrad tiếp tục bị bao vây, trong khi một đội quân hùng mạnh của Ðức đã tiến vào Stalingrad và một số khu dầu mỏ của miền Caucase, Kharkov và Rostov. Quân đức cũng tiến đến vùng Crimea và vùng trung tâm dầu mỏ ở Maikop. Liên Xô phải củng cố các khu vực phòng tuyến, tăng cường lực lượng quân đội để tấn công vào tháng giêng năm 1942. Sau đó lực lượng này hỗ trợ cho thành phố Stalingrad vào tháng 2 năm 1943. Nơi đây có 330.000 quân Ðức đã đầu hàng, đánh dấu một bước ngoặt của cuộc chiến. Sau đó, Ðức mở cuộc tấn công mới và tái chiếm Kharkop, nhưng bị thất bại vào tháng 7 năm 1943. Hồng quân Liên Xô cố thủ, và mùa đông năm 1943-1944 họ rút về sông Dniper. Tháng 11 năm 1943, Hitler nhắc nhở lực lượng mặt trận phía Ðông phải đề phòng Liên Xô tấn công ở bờ biển Atlantic. Từ tháng giêng đến tháng 5 năm 1944, Liên Xô giải phóng Leningrad, lấy lại Cremia và Odessa. Vào cuối năm 1944, hồng quân Liên Xô tiếp tục tiến quân vào Ðức. Từ tháng giêng đến tháng 4 năm 1945, hồng quân hòa nhập với quân liên minh ở phía tây và ngày 2 tháng 5 Berlin đầu hàng quân Liên Xô. Cuộc chiến thắng ở mặt trận phía Ðông, tuy vinh quang, nhưng đã tổn thất ít nhất 20 triệu người."
+        "t": "(Chiến tranh thế giới lần thứ II, 1939-1945) những chiến dịch tác chiến ở mặt trận phía Đông trong đệ nhị thế chiến năm 1939-1945. Một loạt những chiến dịch quân sự ở miền Đông Châu Âu. Chiến dịch thứ nhất vào tháng 9 năm 1939, theo sau, hiệp ước Xô Viết-Nazi (1939). Khi quân Đức xâm chiếm Ba Lan, rồi Liên Xô tiến vào từ phía Đông, thì Ba Lan sụp đổ. Phần Lan bị thất trận trong cuộc chiến Nga-Phần Lan. Tháng 6 năm 1941, Hitler mở đợt tấn công bất ngờ chống lại quân đồng minh gồm Liên Xô, Ý La Mã, Hung Ga Ri, Phần Lan nhưng quân Slovakia gia nhập vào đội quân xâm lăng. Cuối năm 1941, Đức thôn tính Belorussia và phần lớn xứ Ukraina, bao vây thành phố Lenigtad và cùng tiến vào Mát Cơ Va. Mùa đông khắc nghiệt ở Nga đã ngăn trở cuộc tiến quân của Đức và cuộc phản quân của Liên Xô đã làm quân Đức thất bại. Năm 1941, đến lượt quân Anh và Liên Xô liên kết chiếm đóng Iran. Năm 1942, Leningrad tiếp tục bị bao vây, trong khi một đội quân hùng mạnh của Đức đã tiến vào Stalingrad và một số khu dầu mỏ của miền Caucase, Kharkov và Rostov. Quân đức cũng tiến đến vùng Crimea và vùng trung tâm dầu mỏ ở Maikop. Liên Xô phải củng cố các khu vực phòng tuyến, tăng cường lực lượng quân đội để tấn công vào tháng giêng năm 1942. Sau đó lực lượng này hỗ trợ cho thành phố Stalingrad vào tháng 2 năm 1943. Nơi đây có 330.000 quân Đức đã đầu hàng, đánh dấu một bước ngoặt của cuộc chiến. Sau đó, Đức mở cuộc tấn công mới và tái chiếm Kharkop, nhưng bị thất bại vào tháng 7 năm 1943. Hồng quân Liên Xô cố thủ, và mùa đông năm 1943-1944 họ rút về sông Dniper. Tháng 11 năm 1943, Hitler nhắc nhở lực lượng mặt trận phía Đông phải đề phòng Liên Xô tấn công ở bờ biển Atlantic. Từ tháng giêng đến tháng 5 năm 1944, Liên Xô giải phóng Leningrad, lấy lại Cremia và Odessa. Vào cuối năm 1944, hồng quân Liên Xô tiếp tục tiến quân vào Đức. Từ tháng giêng đến tháng 4 năm 1945, hồng quân hòa nhập với quân liên minh ở phía tây và ngày 2 tháng 5 Berlin đầu hàng quân Liên Xô. Cuộc chiến thắng ở mặt trận phía Đông, tuy vinh quang, nhưng đã tổn thất ít nhất 20 triệu người."
       }
     ],
     "k": "eastern front campaigns"
@@ -5684,23 +5684,23 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hội Cơ đốc giáo chính thống ở phương Ðông, nằm ở trung tâm phía Ðông Châu Âu. Bao gồm: Hy Lạp, Ukraina, Nga, Gergia và ở vùng Trung Ðông. Các nhà thờ đều độc lập, nhưng tất cả đều tuân thủ giáo trưởng ở Constantinople. Trên khắp thế giới có khoảng 100 triệu tín đồ. Tuy nhiên, cộng đồng cơ đốc giáo chính thống có phần hạn chế ở Mỹ. Ða số những tín đồ này đã từng sống ở Liên Xô cũ. Cộng đồng Cơ Ðốc giáo chính thống được những nhà thờ độc lập tự trị ủng hộ với một nền hành chính nội bộ, cùng một lòng trung thành với giáo lý. Ðó là bốn giáo xứ miền Ðông của Constantinople. Bao gồm Alexandria, Antioch (Antakya) và Jerusalem. Bên cạnh đó, Nga, Serbi, La Mã, Bulgari, các trưởng giáo Georgia, Hy Lạp, Ba Lan và Albani và những nhà thờ bán độc lập khác cũng có những giáo xứ Cơ Ðốc chính thống."
+        "t": "Hội Cơ đốc giáo chính thống ở phương Đông, nằm ở trung tâm phía Đông Châu Âu. Bao gồm: Hy Lạp, Ukraina, Nga, Gergia và ở vùng Trung Đông. Các nhà thờ đều độc lập, nhưng tất cả đều tuân thủ giáo trưởng ở Constantinople. Trên khắp thế giới có khoảng 100 triệu tín đồ. Tuy nhiên, cộng đồng cơ đốc giáo chính thống có phần hạn chế ở Mỹ. Đa số những tín đồ này đã từng sống ở Liên Xô cũ. Cộng đồng Cơ Đốc giáo chính thống được những nhà thờ độc lập tự trị ủng hộ với một nền hành chính nội bộ, cùng một lòng trung thành với giáo lý. Đó là bốn giáo xứ miền Đông của Constantinople. Bao gồm Alexandria, Antioch (Antakya) và Jerusalem. Bên cạnh đó, Nga, Serbi, La Mã, Bulgari, các trưởng giáo Georgia, Hy Lạp, Ba Lan và Albani và những nhà thờ bán độc lập khác cũng có những giáo xứ Cơ Đốc chính thống."
       },
       {
         "k": "m",
-        "t": "Cơ Ðốc giáo chính thống lệ thuộc rất chặt chẽ với vai trò của các hội đồng, ngược lại Thiên Chúa Giáo La Mã lại khoa trương quyền lực của giáo hoàng và vai trò của Chúa Ba Ngôi. Cơ Ðốc giáo hiểu biết bảy nghi lễ tôn giáo một cách mềm dẻo. Chẳng hạn sự mai táng hoặc giao phó thi hài của tu sĩ cho tu viện, cũng là một nghi lễ. Cộng đồng cơ đốc giáo chỉ hội họp 4 hoặc 5 lần trong một năm, và một tu sĩ trong giáo xứ được phép lấy vợ, nhưng thông thường thì các tu sĩ ở cấp cao không được phép ly dị. Chỉ được phép trong một số trường hợp đặc biệt. Qui chế dòng tu là rất quan trọng, nhưng không hề có mệnh lệnh từ trung ương. Mỗi tu viện là một đơn vị tự quản lý. Sự tôn kính thánh thần là điểm cốt yếu của Cơ Ðốc giáo. Trong những năm gần đây đã có những sự liên kết với nhau giữa Cơ Ðốc giáo và Thiên Chúa giáo La Mã. Ngày nay, Cơ Ðốc giáo chính thống vừa được phong tự do trở lại."
+        "t": "Cơ Đốc giáo chính thống lệ thuộc rất chặt chẽ với vai trò của các hội đồng, ngược lại Thiên Chúa Giáo La Mã lại khoa trương quyền lực của giáo hoàng và vai trò của Chúa Ba Ngôi. Cơ Đốc giáo hiểu biết bảy nghi lễ tôn giáo một cách mềm dẻo. Chẳng hạn sự mai táng hoặc giao phó thi hài của tu sĩ cho tu viện, cũng là một nghi lễ. Cộng đồng cơ đốc giáo chỉ hội họp 4 hoặc 5 lần trong một năm, và một tu sĩ trong giáo xứ được phép lấy vợ, nhưng thông thường thì các tu sĩ ở cấp cao không được phép ly dị. Chỉ được phép trong một số trường hợp đặc biệt. Qui chế dòng tu là rất quan trọng, nhưng không hề có mệnh lệnh từ trung ương. Mỗi tu viện là một đơn vị tự quản lý. Sự tôn kính thánh thần là điểm cốt yếu của Cơ Đốc giáo. Trong những năm gần đây đã có những sự liên kết với nhau giữa Cơ Đốc giáo và Thiên Chúa giáo La Mã. Ngày nay, Cơ Đốc giáo chính thống vừa được phong tự do trở lại."
       }
     ],
     "k": "eastern orthodox churches"
   },
   {
     "h": "eastern rites",
-    "segs": [{"k": "m", "t": "các lễ điển Ðông phương."}],
+    "segs": [{"k": "m", "t": "các lễ điển Đông phương."}],
     "k": "eastern rites"
   },
   {
     "h": "eastern schism",
-    "segs": [{"k": "m", "t": "ly khai Ðông Tây (n. 1054)."}],
+    "segs": [{"k": "m", "t": "ly khai Đông Tây (n. 1054)."}],
     "k": "eastern schism"
   },
   {
@@ -5720,7 +5720,7 @@
   },
   {
     "h": "eastern underwriting",
-    "segs": [{"k": "m", "t": "bao tiêu theo kiểu miền Ðông, bao tiêu liên đới."}],
+    "segs": [{"k": "m", "t": "bao tiêu theo kiểu miền Đông, bao tiêu liên đới."}],
     "k": "eastern underwriting"
   },
   {
@@ -5860,7 +5860,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tính từ, phó từ"},
-      {"k": "m", "t": "Ðông Ðông Nam."}
+      {"k": "m", "t": "Đông Đông Nam."}
     ],
     "ipa": ",i:stsauθ'i:st",
     "k": "eastsoutheast"
@@ -6039,7 +6039,7 @@
     "k": "easy clean hinge"
   },
   {"h": "easy curve", "segs": [{"k": "m", "t": "đường cong có bán kính lớn."}], "k": "easy curve"},
-  {"h": "easy delivery", "segs": [{"k": "m", "t": "Ðẻ dễ, đẻ thuận."}], "k": "easy delivery"},
+  {"h": "easy delivery", "segs": [{"k": "m", "t": "Đẻ dễ, đẻ thuận."}], "k": "easy delivery"},
   {
     "h": "Easy does it",
     "segs": [

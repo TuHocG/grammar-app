@@ -100,7 +100,7 @@
     "text": "Have you been {0} the theatre recently?\nYes, I was {1} the Old Vic last night.",
     "tt": 13,
     "blanks": [{"a": "to", "alt": [], "n": 4}, {"a": "at", "alt": [], "n": 4}],
-    "vi": "-Mới đây, bạn vừa ở rạp hát phải không? -Ðúng, tối qua tôi ở rạp Old Vic."
+    "vi": "-Mới đây, bạn vừa ở rạp hát phải không? -Đúng, tối qua tôi ở rạp Old Vic."
   },
   {
     "id": 1068,
@@ -197,7 +197,7 @@
     "text": "{0} the beginning of a textbook there is a preface, and {1} the end there is an index.",
     "tt": 13,
     "blanks": [{"a": "at", "alt": [], "n": 4}, {"a": "at", "alt": [], "n": 4}],
-    "vi": "Ðầu quyển sách có một lời tựa, và ở cuối là phần phụ lục."
+    "vi": "Đầu quyển sách có một lời tựa, và ở cuối là phần phụ lục."
   },
   {
     "id": 1076,
@@ -596,7 +596,7 @@
       {"a": "to", "alt": [], "n": 2},
       {"a": "on", "alt": [], "n": 2}
     ],
-    "vi": "-Làm thế nào để tôi đến thư viện quốc gia? -Ði đến cuối đường này quẹo phải, quẹo trái sát ngã tư đèn đỏ và kế đến quẹo phải. Ðường này sẽ dẫn đến đường Brood và anh sẽ thấy thư viện ở bên trái."
+    "vi": "-Làm thế nào để tôi đến thư viện quốc gia? -Đi đến cuối đường này quẹo phải, quẹo trái sát ngã tư đèn đỏ và kế đến quẹo phải. Đường này sẽ dẫn đến đường Brood và anh sẽ thấy thư viện ở bên trái."
   },
   {
     "id": 1109,
@@ -673,7 +673,7 @@
       {"a": "into", "alt": [], "n": 2},
       {"a": "on", "alt": [], "n": 2}
     ],
-    "vi": "Ðừng để hành lý ở hành lang, nó là lối đi của mọi người. Ðem nó vào phòng đặt lên kệ."
+    "vi": "Đừng để hành lý ở hành lang, nó là lối đi của mọi người. Đem nó vào phòng đặt lên kệ."
   },
   {
     "id": 1115,
@@ -1534,7 +1534,7 @@
       {"a": "for", "alt": [], "n": 4},
       {"a": "from", "alt": [], "n": 2}
     ],
-    "vi": "Ðặt sách, có thể đặt với 10 đôla từ Jones và Công ty. (Jones và Công ty sẽ gửi sách đến tận nhà nếu bạn gửi kèm 10 đôla vào thư)"
+    "vi": "Đặt sách, có thể đặt với 10 đôla từ Jones và Công ty. (Jones và Công ty sẽ gửi sách đến tận nhà nếu bạn gửi kèm 10 đôla vào thư)"
   },
   {
     "id": 1183,
@@ -1632,7 +1632,7 @@
       {"a": "in", "alt": [], "n": 4},
       {"a": "with", "alt": [], "n": 2}
     ],
-    "vi": "Ðứa con nuôi của tôi chăm sóc các con nhỏ của tôi (trông nom chúng) vào buổi chiều. Cô có khiếu chăm sóc trẻ. (Cô chỉ đạo bọn trẻ tốt)."
+    "vi": "Đứa con nuôi của tôi chăm sóc các con nhỏ của tôi (trông nom chúng) vào buổi chiều. Cô có khiếu chăm sóc trẻ. (Cô chỉ đạo bọn trẻ tốt)."
   },
   {
     "id": 1191,
@@ -1736,7 +1736,7 @@
     "text": "Don't ask the office {0} information. I will provide you {1} all the information you need.",
     "tt": 13,
     "blanks": [{"a": "for", "alt": [], "n": 4}, {"a": "with", "alt": [], "n": 2}],
-    "vi": "Ðừng hỏi nhân viên về thông tin, tôi sẽ cung cấp cho anh tất cả thông tin cần thiết."
+    "vi": "Đừng hỏi nhân viên về thông tin, tôi sẽ cung cấp cho anh tất cả thông tin cần thiết."
   },
   {
     "id": 1201,
@@ -2302,7 +2302,7 @@
     "text": "It's a long time {0} I had a good meal. Or I haven't had a good meal {1} ages.",
     "tt": 13,
     "blanks": [{"a": "since", "alt": [], "n": 2}, {"a": "for", "alt": [], "n": 4}],
-    "vi": "Ðã lâu lắm rồi từ khi tôi có một bữa ăn ngon. Hoặc: Tôi đã không có một bữa ăn ngon từ lâu lắm rồi."
+    "vi": "Đã lâu lắm rồi từ khi tôi có một bữa ăn ngon. Hoặc: Tôi đã không có một bữa ăn ngon từ lâu lắm rồi."
   },
   {
     "id": 1252,
@@ -2374,7 +2374,7 @@
     "text": "It's three years {0} I did not any skiing. Or I haven't done any skiing {1} three years.",
     "tt": 13,
     "blanks": [{"a": "since", "alt": [], "n": 2}, {"a": "for", "alt": [], "n": 4}],
-    "vi": "Ðã ba năm qua, kể từ lúc tôi không đi trượt tuyết nữa. Hoặc: Tôi đã không đi trượt tuyết đã ba năm rồi."
+    "vi": "Đã ba năm qua, kể từ lúc tôi không đi trượt tuyết nữa. Hoặc: Tôi đã không đi trượt tuyết đã ba năm rồi."
   },
   {
     "id": 1260,
@@ -2446,7 +2446,7 @@
     "text": "First you loosen the nuts, {0} you jack up the car, {1} you take the well off.",
     "tt": 13,
     "blanks": [{"a": "then", "alt": [], "n": 2}, {"a": "then", "alt": [], "n": 2}],
-    "vi": "Ðầu tiên anh mở ốc, rồi kích (đội) cái xe lên, sau đó tháo bánh xe ra."
+    "vi": "Đầu tiên anh mở ốc, rồi kích (đội) cái xe lên, sau đó tháo bánh xe ra."
   },
   {
     "id": 1268,
@@ -2743,7 +2743,7 @@
     "text": "{0} the time Uncle Robert gets your letter, it will be too late.",
     "tt": 13,
     "blanks": [{"a": "until", "alt": [], "n": 2}],
-    "vi": "Ðến khi cậu Robert nhận được thư của anh thì đã muộn."
+    "vi": "Đến khi cậu Robert nhận được thư của anh thì đã muộn."
   },
   {
     "id": 1301,
@@ -2860,7 +2860,7 @@
     "text": "Just {0} that moment, we heard a loud crash outside the house.",
     "tt": 13,
     "blanks": [{"a": "at", "alt": [], "n": 4}],
-    "vi": "Ðúng ngay lúc đó, chúng tôi nghe tiếng vỡ loảng xoảng phía ngoài nhà."
+    "vi": "Đúng ngay lúc đó, chúng tôi nghe tiếng vỡ loảng xoảng phía ngoài nhà."
   },
   {
     "id": 1314,
@@ -3352,7 +3352,7 @@
     "text": "That's right. He went {0} Chicago {1} a business trip last Monday.",
     "tt": 13,
     "blanks": [{"a": "to", "alt": [], "n": 4}, {"a": "on", "alt": [], "n": 4}],
-    "vi": "Ðúng rồi. Anh ấy đi Chicago trên chuyến đi buôn vào thứ hai tuần rồi."
+    "vi": "Đúng rồi. Anh ấy đi Chicago trên chuyến đi buôn vào thứ hai tuần rồi."
   },
   {
     "id": 1366,
@@ -4102,7 +4102,7 @@
     "tt": 10,
     "choices": ["to", "towards", "with", "against"],
     "answer": "c",
-    "vi": "Tôi dự định nghỉ mát ở Ðà Lạt nhưng bà vợ không đồng ý với tôi."
+    "vi": "Tôi dự định nghỉ mát ở Đà Lạt nhưng bà vợ không đồng ý với tôi."
   },
   {
     "id": 1445,
@@ -4162,7 +4162,7 @@
     "tt": 10,
     "choices": ["on", "of", "for", "with"],
     "answer": "c",
-    "vi": "Ðừng sử dụng điện thoại văn phòng cho những cuộc gọi cá nhân."
+    "vi": "Đừng sử dụng điện thoại văn phòng cho những cuộc gọi cá nhân."
   },
   {
     "id": 1451,
@@ -4212,7 +4212,7 @@
     "tt": 10,
     "choices": ["on", "at", "out", "against"],
     "answer": "d",
-    "vi": "Ðừng tựa vào cửa sổ đó. Sơn còn ướt."
+    "vi": "Đừng tựa vào cửa sổ đó. Sơn còn ướt."
   },
   {
     "id": 1456,
@@ -4512,7 +4512,7 @@
     "tt": 10,
     "choices": ["up", "by", "of", "out"],
     "answer": "c",
-    "vi": "Ðây là căn nhà rất chắc. Nó được xây bằng gạch với mái ngói."
+    "vi": "Đây là căn nhà rất chắc. Nó được xây bằng gạch với mái ngói."
   },
   {
     "id": 1486,
@@ -4852,7 +4852,7 @@
     "tt": 10,
     "choices": ["at", "in", "on", "for"],
     "answer": "d",
-    "vi": "Ðừng để trễ việc."
+    "vi": "Đừng để trễ việc."
   },
   {
     "id": 1520,
@@ -5022,7 +5022,7 @@
     "tt": 10,
     "choices": ["for", "of", "about", "with"],
     "answer": "b",
-    "vi": "Khi tôi mở phong bì, tôi vui sướng nhận ra tấm ngân phiếu 500 Ðô."
+    "vi": "Khi tôi mở phong bì, tôi vui sướng nhận ra tấm ngân phiếu 500 Đô."
   },
   {
     "id": 1537,
@@ -5102,7 +5102,7 @@
     "tt": 10,
     "choices": ["with", "by", "from", "to"],
     "answer": "d",
-    "vi": "Ðôi giày anh, tương tự giày tôi nhưng chúng không hoàn toàn giống nhau."
+    "vi": "Đôi giày anh, tương tự giày tôi nhưng chúng không hoàn toàn giống nhau."
   },
   {
     "id": 1545,
@@ -5202,7 +5202,7 @@
     "tt": 10,
     "choices": ["for", "at", "on", "to"],
     "answer": "d",
-    "vi": "Ðừng nghe những gì nó nói. Nó bị đần đấy."
+    "vi": "Đừng nghe những gì nó nói. Nó bị đần đấy."
   },
   {
     "id": 1555,
@@ -5392,7 +5392,7 @@
     "tt": 10,
     "choices": ["for", "about", "towards", "no word is needed."],
     "answer": "d",
-    "vi": "Ðã viết cho Ann tuần trước nhưng cô ta chưa đáp lại thư tôi."
+    "vi": "Đã viết cho Ann tuần trước nhưng cô ta chưa đáp lại thư tôi."
   },
   {
     "id": 1574,
@@ -5492,7 +5492,7 @@
     "tt": 10,
     "choices": ["on", "at", "with", "for"],
     "answer": "a",
-    "vi": "Ðừng nhìn ra ngoài cửa sổ nữa, hãy tập trung vào công việc đi!"
+    "vi": "Đừng nhìn ra ngoài cửa sổ nữa, hãy tập trung vào công việc đi!"
   },
   {
     "id": 1584,
@@ -5582,7 +5582,7 @@
     "tt": 10,
     "choices": ["with", "on", "for", "All are correct."],
     "answer": "b",
-    "vi": "Tôi không thích đến nhà hàng Ấn Ðộ, tôi không mấy nhạy cảm với món ăn Ấn Ðộ."
+    "vi": "Tôi không thích đến nhà hàng Ấn Độ, tôi không mấy nhạy cảm với món ăn Ấn Độ."
   },
   {
     "id": 1593,
@@ -5642,7 +5642,7 @@
     "tt": 10,
     "choices": ["of", "on", "in", "All are correct."],
     "answer": "a",
-    "vi": "Ðừng lo về việc thu xếp chuyến đi nghỉ, tôi sẽ trông coi việc đó."
+    "vi": "Đừng lo về việc thu xếp chuyến đi nghỉ, tôi sẽ trông coi việc đó."
   },
   {
     "id": 1599,
@@ -6112,7 +6112,7 @@
     "tt": 10,
     "choices": ["about", "in", "for", "of"],
     "answer": "a",
-    "vi": "Ðôi khi tôi rất lấy làm lạ về điều đó."
+    "vi": "Đôi khi tôi rất lấy làm lạ về điều đó."
   },
   {
     "id": 1646,
@@ -6602,7 +6602,7 @@
     "tt": 10,
     "choices": ["to", "on", "with", "at"],
     "answer": "b",
-    "vi": "Nước Anh đã tuyên chiến với Ðức sau cuộc tấn công vào Ba Lan."
+    "vi": "Nước Anh đã tuyên chiến với Đức sau cuộc tấn công vào Ba Lan."
   },
   {
     "id": 1695,
@@ -6832,7 +6832,7 @@
     "tt": 10,
     "choices": ["for", "over", "to", "from"],
     "answer": "c",
-    "vi": "Ðối với mọi người, hiển nhiên là anh ấy không chịu trách nhiệm về lỗi này."
+    "vi": "Đối với mọi người, hiển nhiên là anh ấy không chịu trách nhiệm về lỗi này."
   },
   {
     "id": 1718,
@@ -7422,7 +7422,7 @@
     "blanks": [{"a": "turned down", "alt": [], "n": 1}],
     "choices": ["accepted", "signed", "postponed", "refused"],
     "answer": "d",
-    "vi": "Ðơn xin việc của anh ấy đã bị bác bỏ.\n-accepted: chấp nhận\n-signed: ký\n-postponed: hoãn lại\n-refused: từ chối"
+    "vi": "Đơn xin việc của anh ấy đã bị bác bỏ.\n-accepted: chấp nhận\n-signed: ký\n-postponed: hoãn lại\n-refused: từ chối"
   },
   {
     "id": 1775,
@@ -7867,7 +7867,7 @@
     "tt": 10,
     "choices": ["be certain of it", "call it out", "turn it off", "believe it"],
     "answer": "a",
-    "vi": "Ðoan chắc một điều gì đó là ______\n-be certain of it: chắc chắn về nó.\n-call it out: hô nó lên\n-turn it off: tắt nó đi\n-believe it: tin tưởng nó"
+    "vi": "Đoan chắc một điều gì đó là ______\n-be certain of it: chắc chắn về nó.\n-call it out: hô nó lên\n-turn it off: tắt nó đi\n-believe it: tin tưởng nó"
   },
   {
     "id": 1815,
@@ -7897,7 +7897,7 @@
     "tt": 10,
     "choices": ["easy", "difficult", "impossible", "not hard"],
     "answer": "d",
-    "vi": "Ðiều không có gì phải hỏi là điều ______\n-easy: dễ\n-difficult: khó\n-impossible: phi lý\n-not hard: không khó"
+    "vi": "Điều không có gì phải hỏi là điều ______\n-easy: dễ\n-difficult: khó\n-impossible: phi lý\n-not hard: không khó"
   },
   {
     "id": 1818,
@@ -8267,7 +8267,7 @@
     "tt": 10,
     "choices": ["got up", "moved in", "took off", "turned round"],
     "answer": "c",
-    "vi": "Ðó là chuyến bay đầu tiên của tôi. Tôi rất run khi máy bay ______\n-got up: thức dậy\n-moved in: di chuyển vào\n-took off: khởi hành, cất cánh\n-turned round: quay vòng"
+    "vi": "Đó là chuyến bay đầu tiên của tôi. Tôi rất run khi máy bay ______\n-got up: thức dậy\n-moved in: di chuyển vào\n-took off: khởi hành, cất cánh\n-turned round: quay vòng"
   },
   {
     "id": 1852,
@@ -8277,7 +8277,7 @@
     "tt": 10,
     "choices": ["pay me back", "give me up", "see me off", "fill it in"],
     "answer": "a",
-    "vi": "Ðây là số tiền anh cần. Ðừng quên ______\n-pay me back: trả cho tôi lại\n-give me up: từ bỏ tôi\n-see me off: tiễn biệt tôi\n-fill it in: điền nó vào"
+    "vi": "Đây là số tiền anh cần. Đừng quên ______\n-pay me back: trả cho tôi lại\n-give me up: từ bỏ tôi\n-see me off: tiễn biệt tôi\n-fill it in: điền nó vào"
   },
   {
     "id": 1853,
@@ -8417,7 +8417,7 @@
     "blanks": [{"a": "now and then", "alt": [], "n": 1}],
     "choices": ["suddenly", "often", "sometimes", "rarely"],
     "answer": "c",
-    "vi": "Thỉnh thoảng gia đình tôi đi nghỉ mát ở Ðà Lạt.\n-suddenly: bỗng nhiên\n-often: thường\n-sometimes: đôi khi\n-rarely: ít khi"
+    "vi": "Thỉnh thoảng gia đình tôi đi nghỉ mát ở Đà Lạt.\n-suddenly: bỗng nhiên\n-often: thường\n-sometimes: đôi khi\n-rarely: ít khi"
   },
   {
     "id": 1865,
@@ -9013,7 +9013,7 @@
     "blanks": [{"a": "for good", "alt": [], "n": 1}],
     "choices": ["for her good health", "for her religion", "for her studies", "permanently"],
     "answer": "d",
-    "vi": "Bà ấy đã trở lại Ðà lạt mãi mãi.\n-for her good health: để tịnh dưỡng\n-for her religion: để đi tu\n-for her studies: để học tập\n-permanently: một cách lâu dài"
+    "vi": "Bà ấy đã trở lại Đà lạt mãi mãi.\n-for her good health: để tịnh dưỡng\n-for her religion: để đi tu\n-for her studies: để học tập\n-permanently: một cách lâu dài"
   },
   {
     "id": 1919,
@@ -9062,7 +9062,7 @@
     "blanks": [{"a": "leave", "alt": [], "n": 1}, {"a": "out", "alt": [], "n": 1}],
     "choices": ["demolish", "consider", "reduce", "omit"],
     "answer": "d",
-    "vi": "Ðừng để lọt bất cứ mục nào.\n-demolish: phá hủy\n-consider: cho rằng, cân nhắc\n-reduce: giảm thiểu\n-omit: bỏ sót"
+    "vi": "Đừng để lọt bất cứ mục nào.\n-demolish: phá hủy\n-consider: cho rằng, cân nhắc\n-reduce: giảm thiểu\n-omit: bỏ sót"
   },
   {
     "id": 1923,
@@ -9304,7 +9304,7 @@
     "blanks": [{"a": "of little importance", "alt": [], "n": 1}],
     "choices": ["makes no difference", "gets on his nerves", "is out of order", "at least"],
     "answer": "a",
-    "vi": "Ðối với anh ấy, không quan trọng lắm khi vượt qua kỳ thi Anh văn.\n-makes no difference: không khó\n-gets on his nerves: ngoài sự run sợ\n-is out of order: ngoài trật tự\n-at least: ít ra"
+    "vi": "Đối với anh ấy, không quan trọng lắm khi vượt qua kỳ thi Anh văn.\n-makes no difference: không khó\n-gets on his nerves: ngoài sự run sợ\n-is out of order: ngoài trật tự\n-at least: ít ra"
   },
   {
     "id": 1945,
@@ -9501,7 +9501,7 @@
     "blanks": [{"a": "release", "alt": [], "n": 1}],
     "choices": ["bear in mind", "go off", "cut out", "let go of"],
     "answer": "d",
-    "vi": "Ðừng buông dây cho đến khi tôi bảo anh.\n-bear in mind: ghi nhớ\n-go off: ra đi, bỏ ra ngoài\n-cut out: cắt ra\n-let go of: buông ra"
+    "vi": "Đừng buông dây cho đến khi tôi bảo anh.\n-bear in mind: ghi nhớ\n-go off: ra đi, bỏ ra ngoài\n-cut out: cắt ra\n-let go of: buông ra"
   },
   {
     "id": 1962,

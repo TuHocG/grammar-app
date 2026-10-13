@@ -19,7 +19,7 @@
     {
       "e": 20.01,
       "en": "No, she's not in now. My! What a large package!",
-      "vi": "Không, cô ấy không có ở nhà. Ồ! Ðây quả là một kiện hàng lớn!",
+      "vi": "Không, cô ấy không có ở nhà. Ồ! Đây quả là một kiện hàng lớn!",
       "s": 13.38
     },
     {
@@ -44,7 +44,7 @@
     {
       "e": 43.98,
       "en": "Alright Alice, I have to go now. See you later.",
-      "vi": "Ðược rồi, Alice, tôi phải đi bây giờ. Hẹn gặp lại.",
+      "vi": "Được rồi, Alice, tôi phải đi bây giờ. Hẹn gặp lại.",
       "s": 39.83
     },
     {
@@ -81,7 +81,7 @@
     {
       "e": 118.49,
       "en": "Okay, okay. I'm not allowed to touch any more plates.",
-      "vi": "Ðược rồi, được rồi. Tôi không được phép chạm vào bất kỳ chiếc đĩa nào nữa.",
+      "vi": "Được rồi, được rồi. Tôi không được phép chạm vào bất kỳ chiếc đĩa nào nữa.",
       "s": 110.54
     },
     {
@@ -153,7 +153,7 @@
       "vi": "Hãy nhớ, chúng ta không biết nấu ăn... Nếu Anne nổi giận, chúng ta sẽ phải học nấu ăn!",
       "s": 177.85
     },
-    {"e": 187.84, "en": "That's true...", "vi": "Ðúng thế...", "s": 185.16},
+    {"e": 187.84, "en": "That's true...", "vi": "Đúng thế...", "s": 185.16},
     {
       "e": 195.4,
       "en": "I've got an idea: let's go get something from the local Take Out place.",
@@ -175,7 +175,7 @@
     {
       "e": 208.41,
       "en": "That's a great idea! Let's get going!",
-      "vi": "Ðó là một ý hay! Chúng ta hãy đi thôi!",
+      "vi": "Đó là một ý hay! Chúng ta hãy đi thôi!",
       "s": 204.46
     },
     {"e": 213.91, "en": "...", "vi": "...", "s": 208.41},
@@ -509,7 +509,7 @@
     {
       "e": 567.25,
       "en": "Rule No. 4... - Okay, okay... We understand! You must be angry.",
-      "vi": "Quy tắc số 4... - Ðược rồi, được rồi... Chúng tôi hiểu rồi! Cô hẳn là rất giận.",
+      "vi": "Quy tắc số 4... - Được rồi, được rồi... Chúng tôi hiểu rồi! Cô hẳn là rất giận.",
       "s": 557.91
     },
     {
@@ -536,7 +536,7 @@
       "vi": "Tôi liên tục ăn và mua chúng chỉ để nhận được bộ đĩa sứ Trung Quốc...",
       "s": 586.43
     },
-    {"e": 593.79, "en": "All for nothing!", "vi": "Ðể rồi chẳng được gì cả!", "s": 592.15},
+    {"e": 593.79, "en": "All for nothing!", "vi": "Để rồi chẳng được gì cả!", "s": 592.15},
     {
       "e": 597.09,
       "en": "Oh, please forgive us, Anne.",
@@ -564,7 +564,7 @@
     {
       "e": 617.63,
       "en": "Okay, we'll do our best to make it up... Somehow...",
-      "vi": "Ðược rồi, chúng tôi sẽ nỗ lực hết mình để bù đắp... Bằng cách nào đó...",
+      "vi": "Được rồi, chúng tôi sẽ nỗ lực hết mình để bù đắp... Bằng cách nào đó...",
       "s": 611.97
     },
     {
@@ -600,7 +600,7 @@
     {
       "e": 649.71,
       "en": "Well... Okay, I'll forgive you this time...",
-      "vi": "Nào... Ðược rồi, tôi sẽ tha thứ cho các bạn lần này...",
+      "vi": "Nào... Được rồi, tôi sẽ tha thứ cho các bạn lần này...",
       "s": 642.4
     },
     {
@@ -619,13 +619,13 @@
     {
       "e": 667.97,
       "en": "Don't roll your eyes while I'm speaking to you!",
-      "vi": "Ðừng trợn mắt lên trong khi tôi đang nói với các bạn!",
+      "vi": "Đừng trợn mắt lên trong khi tôi đang nói với các bạn!",
       "s": 663.83
     },
     {
       "e": 673.27,
       "en": "Okay, okay Anne! You're right!",
-      "vi": "Ðược rồi, được rồi Anne! Cô nói đúng!",
+      "vi": "Được rồi, được rồi Anne! Cô nói đúng!",
       "s": 667.97
     },
     {
@@ -664,7 +664,7 @@
     {
       "e": 718.97,
       "en": "Well it can't be a shoe, can it? It's not a shoe,",
-      "vi": "À, đó không thể là một chiếc giày, phải không? Ðó không phải là một chiếc giày,",
+      "vi": "À, đó không thể là một chiếc giày, phải không? Đó không phải là một chiếc giày,",
       "s": 714.22
     },
     {
@@ -850,7 +850,7 @@
     {
       "e": 905.72,
       "en": "That's hot! It is! It's a thermometer, incredible!",
-      "vi": "Nóng thật! Vậy đấy! Ðây là nhiệt kế, thật khó tin!",
+      "vi": "Nóng thật! Vậy đấy! Đây là nhiệt kế, thật khó tin!",
       "s": 900.49
     },
     {
@@ -862,7 +862,7 @@
     {
       "e": 916.14,
       "en": "Next thing, what's this? This is... Look at this!",
-      "vi": "Vật tiếp theo, cái gì đây? Ðây là... Nhìn này!",
+      "vi": "Vật tiếp theo, cái gì đây? Đây là... Nhìn này!",
       "s": 911.87
     },
     {
@@ -916,7 +916,7 @@
     {
       "e": 970.86,
       "en": "Wait a minute, here's the box, \"a drop-stop\" a drop-stop?",
-      "vi": "Ðợi một phút, đây là chiếc hộp, \"một thiết bị chống chảy nhỏ giọt,\" chống chảy nhỏ giọt ư?",
+      "vi": "Đợi một phút, đây là chiếc hộp, \"một thiết bị chống chảy nhỏ giọt,\" chống chảy nhỏ giọt ư?",
       "s": 963.52
     },
     {
@@ -1073,7 +1073,7 @@
     {
       "e": 1134.31,
       "en": "Shh... Jack! Just a minute... It's almost finished.",
-      "vi": "Shh... Jack! Ðợi đã... Gần hết rồi.",
+      "vi": "Shh... Jack! Đợi đã... Gần hết rồi.",
       "s": 1130.8
     },
     {"e": 1160.14, "en": "...", "vi": "...", "s": 1134.31},
@@ -1086,7 +1086,7 @@
     {
       "e": 1170.32,
       "en": "It was an extremely interesting documentary about Picasso's life.",
-      "vi": "Ðó là một bộ phim tài liệu cực kỳ thú vị về cuộc đời của Picasso.",
+      "vi": "Đó là một bộ phim tài liệu cực kỳ thú vị về cuộc đời của Picasso.",
       "s": 1166.54
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "e": 1251.73,
       "en": "Don't play \"mom\", Anne! Alice is a big girl now...",
-      "vi": "Ðừng chơi trò \"mẹ,\" Anne! Alice là một cô gái trưởng thành rồi...",
+      "vi": "Đừng chơi trò \"mẹ,\" Anne! Alice là một cô gái trưởng thành rồi...",
       "s": 1246.39
     },
     {
@@ -1207,7 +1207,7 @@
     {
       "e": 1268.26,
       "en": "Just a moment... A few days ago Alice told me that she wanted to enter a painting contest.",
-      "vi": "Ðợi đã... Cách đây vài ngày, Alice nói với tôi rằng cô ấy muốn tham gia một cuộc thi vẽ tranh.",
+      "vi": "Đợi đã... Cách đây vài ngày, Alice nói với tôi rằng cô ấy muốn tham gia một cuộc thi vẽ tranh.",
       "s": 1261.89
     },
     {
@@ -1249,7 +1249,7 @@
     {
       "e": 1301.07,
       "en": "That's true! You know something about being crazy, Jack, don't you?",
-      "vi": "Ðúng thế! Anh biết rõ việc trở nên điên rồ là thế nào mà, Jack, phải không?",
+      "vi": "Đúng thế! Anh biết rõ việc trở nên điên rồ là thế nào mà, Jack, phải không?",
       "s": 1295.21
     },
     {"e": 1310.04, "en": "Hello again!", "vi": "Xin chào lần nữa!", "s": 1301.07},
@@ -1528,7 +1528,7 @@
     {
       "e": 1577.63,
       "en": "That's the lesson for now and I'll see you again very soon, bye!",
-      "vi": "Ðó là tất cả bài học cho bây giờ và tôi sẽ gặp lại các bạn rất sớm thôi, tạm biệt!",
+      "vi": "Đó là tất cả bài học cho bây giờ và tôi sẽ gặp lại các bạn rất sớm thôi, tạm biệt!",
       "s": 1573.22
     },
     {"e": 1594.42, "en": "Good morning, Alice.", "vi": "Chào buổi sáng, Alice.", "s": 1577.63},
@@ -1592,7 +1592,7 @@
     {
       "e": 1654.94,
       "en": "You know you are a genius, right? That's all that matters!",
-      "vi": "Cô biết rõ mình là một thiên tài mà, phải không? Ðó mới là điều quan trọng!",
+      "vi": "Cô biết rõ mình là một thiên tài mà, phải không? Đó mới là điều quan trọng!",
       "s": 1648.92
     },
     {
@@ -1636,7 +1636,7 @@
     {
       "e": 1718.0,
       "en": "Here you go! This is the painting I took along yesterday.",
-      "vi": "Ðây này! Ðây là bức tranh mà tôi đã mang theo ngày hôm qua.",
+      "vi": "Đây này! Đây là bức tranh mà tôi đã mang theo ngày hôm qua.",
       "s": 1710.56
     },
     {
@@ -1648,13 +1648,13 @@
     {
       "e": 1737.75,
       "en": "It's... It's interesting! It's a very... A very unique painting, yes...",
-      "vi": "Nó... Nó rất thú vị! Ðó là một bức tranh rất... rất độc đáo, vâng...",
+      "vi": "Nó... Nó rất thú vị! Đó là một bức tranh rất... rất độc đáo, vâng...",
       "s": 1723.98
     },
     {
       "e": 1740.89,
       "en": "Unique is the right word.",
-      "vi": "Ðộc đáo là từ thích hợp.",
+      "vi": "Độc đáo là từ thích hợp.",
       "s": 1737.75
     },
     {
@@ -1672,7 +1672,7 @@
     {
       "e": 1754.41,
       "en": "That's the same question they asked me yesterday.",
-      "vi": "Ðó cũng là câu hỏi mà họ đã hỏi tôi ngày hôm qua.",
+      "vi": "Đó cũng là câu hỏi mà họ đã hỏi tôi ngày hôm qua.",
       "s": 1750.65
     },
     {
@@ -1684,7 +1684,7 @@
     {
       "e": 1767.26,
       "en": "It's a painting of a man and a woman walking hand in hand!",
-      "vi": "Ðó là bức tranh về một người đàn ông và một người phụ nữ đang dạo bước tay trong tay!",
+      "vi": "Đó là bức tranh về một người đàn ông và một người phụ nữ đang dạo bước tay trong tay!",
       "s": 1759.89
     },
     {"e": 1772.62, "en": "Oh... I see...", "vi": "Ồ... tôi hiểu...", "s": 1767.26},
@@ -1715,7 +1715,7 @@
     {
       "e": 1817.56,
       "en": "Oh, artists! Never tell an artist what you really think!",
-      "vi": "Ôi, các họa sĩ! Ðừng bao giờ nói cho một họa sĩ biết bạn thực sự nghĩ gì!",
+      "vi": "Ôi, các họa sĩ! Đừng bao giờ nói cho một họa sĩ biết bạn thực sự nghĩ gì!",
       "s": 1804.07
     },
     {"e": 1823.05, "en": "...", "vi": "...", "s": 1817.56},
@@ -2317,7 +2317,7 @@
     {
       "e": 2333.63,
       "en": "This is what we call \"global warming\", the world becoming hotter.",
-      "vi": "Ðây là những gì mà chúng ta gọi là \"sự ấm lên toàn cầu,\" thế giới dần trở nên nóng hơn.",
+      "vi": "Đây là những gì mà chúng ta gọi là \"sự ấm lên toàn cầu,\" thế giới dần trở nên nóng hơn.",
       "s": 2328.11
     },
     {
@@ -2383,7 +2383,7 @@
     {
       "e": 2391.44,
       "en": "The verb \"to generate\" means \"to make\".",
-      "vi": "Ðộng từ \"generate\" có nghĩa là \"make.\"",
+      "vi": "Động từ \"generate\" có nghĩa là \"make.\"",
       "s": 2387.63
     },
     {
@@ -2486,13 +2486,13 @@
     {
       "e": 2468.99,
       "en": "This means preparing food that's healthy as well as appealing and involves the senses, such as smell, taste, and sight.",
-      "vi": "Ðiều này có nghĩa là chuẩn bị thức ăn lành mạnh cũng như hấp dẫn và kích thích các giác quan, chẳng hạn như ngửi, nếm và nhìn.",
+      "vi": "Điều này có nghĩa là chuẩn bị thức ăn lành mạnh cũng như hấp dẫn và kích thích các giác quan, chẳng hạn như ngửi, nếm và nhìn.",
       "s": 2459.87
     },
     {
       "e": 2473.1,
       "en": "Is that why they say: \"Your eyes are bigger than your stomach?\"",
-      "vi": "Ðó có phải là lý do khiến họ nói rằng: \"Con mắt lớn hơn cái bụng không?\"",
+      "vi": "Đó có phải là lý do khiến họ nói rằng: \"Con mắt lớn hơn cái bụng không?\"",
       "s": 2468.99
     },
     {"e": 2474.72, "en": "Not exactly.", "vi": "Không hẳn thế.", "s": 2473.1},
@@ -2529,7 +2529,7 @@
     {
       "e": 2510.19,
       "en": "These six main food groups contain the nutrients essential to a well-balanced diet.",
-      "vi": "Ðây là sáu nhóm thức ăn chính, chứa các thành phần dinh dưỡng thiết yếu cho một chế độ ăn uống cân bằng.",
+      "vi": "Đây là sáu nhóm thức ăn chính, chứa các thành phần dinh dưỡng thiết yếu cho một chế độ ăn uống cân bằng.",
       "s": 2502.72
     },
     {"e": 2511.89, "en": "Why a pyramid?", "vi": "Tại sao lại là tháp?", "s": 2510.19},
@@ -2561,7 +2561,7 @@
     {
       "e": 2541.23,
       "en": "You mean here? These are fats, oils and sweets which, although essential to the diet,",
-      "vi": "Cô nói ở đây à? Ðây là các chất béo, dầu và đồ ngọt, dù rất quan trọng đối với chế độ ăn uống,",
+      "vi": "Cô nói ở đây à? Đây là các chất béo, dầu và đồ ngọt, dù rất quan trọng đối với chế độ ăn uống,",
       "s": 2534.65
     },
     {
@@ -2597,7 +2597,7 @@
     {
       "e": 2570.67,
       "en": "That's a common problem.",
-      "vi": "Ðó là một vấn đề phổ biến.",
+      "vi": "Đó là một vấn đề phổ biến.",
       "s": 2568.76
     },
     {
@@ -2671,7 +2671,7 @@
     {
       "e": 2636.64,
       "en": "Notice that in the UK \"tea\" is sometimes used instead of \"dinner\".",
-      "vi": "Ðể ý rằng ở Anh, \"dùng trà\" đôi khi được sử dụng thay cho \"bữa tối.\"",
+      "vi": "Để ý rằng ở Anh, \"dùng trà\" đôi khi được sử dụng thay cho \"bữa tối.\"",
       "s": 2631.28
     },
     {
@@ -2785,7 +2785,7 @@
     {
       "e": 2743.95,
       "en": "All right, that's all this week. Bye, bye.",
-      "vi": "Ðược chứ, đó là tất cả cho tuần này. Tạm biệt.",
+      "vi": "Được chứ, đó là tất cả cho tuần này. Tạm biệt.",
       "s": 2740.17
     }
   ]

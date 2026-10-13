@@ -177,7 +177,7 @@
       {
         "k": "ex",
         "t": "to pace up and down (the platform), waiting for the train",
-        "vi": "Ði đi lại lại (ở sân ga) đợi tàu"
+        "vi": "Đi đi lại lại (ở sân ga) đợi tàu"
       },
       {"k": "m", "t": "đi tới đi lui"},
       {
@@ -392,7 +392,7 @@
   },
   {
     "h": "pachisi",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "loại cờ tướng Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "loại cờ tướng Ấn Độ."}],
     "ipa": "pə'tʃi:zi",
     "k": "pachisi"
   },
@@ -838,7 +838,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1873) Một vụ scandal chính trị Canada. Người Columbia gốc Anh đã xâm nhập vào hệ thống quyền lực của Canada năm 1871. Lý do là một tuyến đường sắt xuyên lục địa có thể được xây dựng trong vòng 10 năm. Năm 1872, hợp đồng xây dựng tuyến đường sắt này thuộc về tay tổ chức do Ngài Hugh Alan lãnh đạo. Ông một chủ ngân hàng, chủ tàu, và là người đóng góp tài chính của Ðảng Bảo thủ. Sau cuộc tổng tuyển cử năm 1872, thất bại của Ðảng Tự do dược quy cho Thủ tướng John Macdonald, bản hợp đồng bị đưa ra chỉ trích. Macdonald từ chức và hợp đồng bị xóa bỏ. Ðảng Bảo thủ thất bại nặng nề trong một cuộc bầu cử mới nhưng tuyến đường sắt Thái Bình Dương của nước Canada cuối cùng vẫn được hoàn thành năm 1885."
+        "t": "(1873) Một vụ scandal chính trị Canada. Người Columbia gốc Anh đã xâm nhập vào hệ thống quyền lực của Canada năm 1871. Lý do là một tuyến đường sắt xuyên lục địa có thể được xây dựng trong vòng 10 năm. Năm 1872, hợp đồng xây dựng tuyến đường sắt này thuộc về tay tổ chức do Ngài Hugh Alan lãnh đạo. Ông một chủ ngân hàng, chủ tàu, và là người đóng góp tài chính của Đảng Bảo thủ. Sau cuộc tổng tuyển cử năm 1872, thất bại của Đảng Tự do dược quy cho Thủ tướng John Macdonald, bản hợp đồng bị đưa ra chỉ trích. Macdonald từ chức và hợp đồng bị xóa bỏ. Đảng Bảo thủ thất bại nặng nề trong một cuộc bầu cử mới nhưng tuyến đường sắt Thái Bình Dương của nước Canada cuối cùng vẫn được hoàn thành năm 1885."
       }
     ],
     "k": "pacific scandal"
@@ -1063,7 +1063,7 @@
       {"k": "m", "t": "đàn, bầy (chó săn, chó sói...), đội"},
       {"k": "ex", "t": "pack of wolves", "vi": "bầy chó sói"},
       {"k": "ex", "t": "pack of grouse", "vi": "đàn gà gô trắng"},
-      {"k": "ex", "t": "pack of U-boats", "vi": "một đội tàu ngầm Ðức"},
+      {"k": "ex", "t": "pack of U-boats", "vi": "một đội tàu ngầm Đức"},
       {"k": "m", "t": "lũ, loạt, lô"},
       {"k": "m", "t": "nhiều người, vật"},
       {"k": "ex", "t": "a pack of fools", "vi": "một lũ ngốc"},
@@ -1798,7 +1798,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một phương pháp xếp gỗ mềm trong đó gỗ thuộc một vận đơn có cùng kích thưởc được bó lại thành bó hình chữ nhật. Ðể đóng thành bó phải phân loại trước khi xếp xuống tàu ưu điểm của phương pháp này là dễ dàng, xếp dỡ nhanh, không bị hư hỏng và mất mát. Ngoài ra không mất công phân loại kích cỡ trước khi chất gỗ. Những lô hàng nhập khẩu dưới dạng này có ưu điểm là chỉ mất một động tác trong dỡ hàng."
+        "t": "một phương pháp xếp gỗ mềm trong đó gỗ thuộc một vận đơn có cùng kích thưởc được bó lại thành bó hình chữ nhật. Để đóng thành bó phải phân loại trước khi xếp xuống tàu ưu điểm của phương pháp này là dễ dàng, xếp dỡ nhanh, không bị hư hỏng và mất mát. Ngoài ra không mất công phân loại kích cỡ trước khi chất gỗ. Những lô hàng nhập khẩu dưới dạng này có ưu điểm là chỉ mất một động tác trong dỡ hàng."
       }
     ],
     "k": "packaged timber"
@@ -2425,7 +2425,7 @@
       },
       {
         "k": "m",
-        "t": "Một phương pháp truyền thông phổ biến hơn được sử dụng bởi các máy tính di động là circuit-switched cellular (chuyển mạch hình tế bào). Modem được nối vào mạng điện thoại, và dữ liệu được truyền đi trên mạch của hệ thống này trong suốt phiên liên lạc thay vì được chia thành từng gói nhỏ. Ðiều này không có gì khác với bất cứ liên kết modem quay số nào ngoại trừ quá trình này xảy ra trên các hệ thống mạng cellular."
+        "t": "Một phương pháp truyền thông phổ biến hơn được sử dụng bởi các máy tính di động là circuit-switched cellular (chuyển mạch hình tế bào). Modem được nối vào mạng điện thoại, và dữ liệu được truyền đi trên mạch của hệ thống này trong suốt phiên liên lạc thay vì được chia thành từng gói nhỏ. Điều này không có gì khác với bất cứ liên kết modem quay số nào ngoại trừ quá trình này xảy ra trên các hệ thống mạng cellular."
       },
       {
         "k": "m",
@@ -3843,7 +3843,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "snh."},
-      {"k": "ex", "t": "padroni", "vi": "chủ tàu buôn (ở Ðịa Trung Hải)"},
+      {"k": "ex", "t": "padroni", "vi": "chủ tàu buôn (ở Địa Trung Hải)"},
       {"k": "m", "t": "chủ quán (ở Ý)"},
       {"k": "m", "t": "trùm nhạc sĩ rong"},
       {"k": "m", "t": "trùm trẻ con ăn xin (ở Ý)."}
@@ -4193,7 +4193,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thành phố nằm trên sông Irrawaddy, là trung tâm thuộc thủ đô Burma trước đây (nay là Myanmar). Nó nguyên là thủ đô độc đáo của người Miến Ðiện, do một người ở tỉnh Yunnan, tây nam Trung Quốc, di cư đến vào thế kỷ thứ 9 sau công nguyên. Vào thế kỷ 11 họ cai trị phần lớn Miến Ðiện. Với sự xâm lược của người Mông Cổ, đạo Phật Theravada kéo dài đến Pagan, và theo thời gian trải khắp Miến Ðiện. Khi vua Kublai xâm chiếm Yunnan, đã yêu cầu Pagan nộp cống vật. Những sứ thần của ông ta đã thực hiện điều đó. Năm chiến dịch Mông Cổ chống xâm lược Pagan lên đến cực điểm (1287-1301). Pagan yếu dần đi qua các cuộc nổi dậy của bộ tộc Mon và San."
+        "t": "Một thành phố nằm trên sông Irrawaddy, là trung tâm thuộc thủ đô Burma trước đây (nay là Myanmar). Nó nguyên là thủ đô độc đáo của người Miến Điện, do một người ở tỉnh Yunnan, tây nam Trung Quốc, di cư đến vào thế kỷ thứ 9 sau công nguyên. Vào thế kỷ 11 họ cai trị phần lớn Miến Điện. Với sự xâm lược của người Mông Cổ, đạo Phật Theravada kéo dài đến Pagan, và theo thời gian trải khắp Miến Điện. Khi vua Kublai xâm chiếm Yunnan, đã yêu cầu Pagan nộp cống vật. Những sứ thần của ông ta đã thực hiện điều đó. Năm chiến dịch Mông Cổ chống xâm lược Pagan lên đến cực điểm (1287-1301). Pagan yếu dần đi qua các cuộc nổi dậy của bộ tộc Mon và San."
       }
     ],
     "k": "pagan"
@@ -4981,7 +4981,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "chùa, tháp"},
-      {"k": "m", "t": "đồng pagôt (tiền vàng Ấn Ðộ thời xưa)"},
+      {"k": "m", "t": "đồng pagôt (tiền vàng Ấn Độ thời xưa)"},
       {"k": "m", "t": "quán (bán báo, thuốc lá...)."}
     ],
     "ipa": "pə'goudə",
@@ -4994,7 +4994,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(thực) cây đa"},
       {"k": "m", "t": "(nghĩa bóng) cây đẻ ra tiền vàng"},
-      {"k": "ex", "t": "to shake the pagoda-tree", "vi": "làm giàu nhanh chóng, phất (ở Ấn Ðộ)."}
+      {"k": "ex", "t": "to shake the pagoda-tree", "vi": "làm giàu nhanh chóng, phất (ở Ấn Độ)."}
     ],
     "ipa": "pə'goudətri:",
     "k": "pagoda-tree"
@@ -5099,7 +5099,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tiếng Maori, \"lòng nhân từ và hòa bình\") Một phong trào chính trị và tôn giáo của bộ tộc Maori. Năm 1862, Horopapera Te Ua thuộc bộ tộc Taranaki phía nam bắt đầu dạy dân chúng tôn thờ thần Pai Marire mới. Người mà ông nhìn nhận là Ðức Jehovah trong Kinh thánh cũ. Các tín đồ nhảy múa xung quanh niu (những cái cọc được trang hoàng), tìm kiếm dấu hiệu của lời tiên tri và sức mạnh hòa giải. Chiến tranh khôi phục từ năm 1865. Nó chứng kiến chiều hướng bạo lực của phong trào có tên gọi Hau-hau. Nghi lễ bắt đầu có liên quan đến việc trưng bày đầu lính và người truyền giáo da trắng và tục ăn thịt người hồi sinh. Phong trào ảnh hưởng đến phần lớn khu vực đảo Bắc nhưng giảm dần từ sau năm 1872."
+        "t": "(tiếng Maori, \"lòng nhân từ và hòa bình\") Một phong trào chính trị và tôn giáo của bộ tộc Maori. Năm 1862, Horopapera Te Ua thuộc bộ tộc Taranaki phía nam bắt đầu dạy dân chúng tôn thờ thần Pai Marire mới. Người mà ông nhìn nhận là Đức Jehovah trong Kinh thánh cũ. Các tín đồ nhảy múa xung quanh niu (những cái cọc được trang hoàng), tìm kiếm dấu hiệu của lời tiên tri và sức mạnh hòa giải. Chiến tranh khôi phục từ năm 1865. Nó chứng kiến chiều hướng bạo lực của phong trào có tên gọi Hau-hau. Nghi lễ bắt đầu có liên quan đến việc trưng bày đầu lính và người truyền giáo da trắng và tục ăn thịt người hồi sinh. Phong trào ảnh hưởng đến phần lớn khu vực đảo Bắc nhưng giảm dần từ sau năm 1872."
       }
     ],
     "k": "pai marire"
@@ -5457,7 +5457,7 @@
     "k": "pain of damnation"
   },
   {"h": "pain sense", "segs": [{"k": "m", "t": "Giác quan đau."}], "k": "pain sense"},
-  {"h": "pain spot", "segs": [{"k": "m", "t": "Ðiểm đau."}], "k": "pain spot"},
+  {"h": "pain spot", "segs": [{"k": "m", "t": "Điểm đau."}], "k": "pain spot"},
   {"h": "pain threshold", "segs": [{"k": "m", "t": "Ngưỡng đau."}], "k": "pain threshold"},
   {
     "h": "pain-killer",
@@ -6391,7 +6391,7 @@
       {
         "k": "ex",
         "t": "The students had all paired off by the end of term",
-        "vi": "Ðến cuối học kỳ, tất cả các sinh viên đều kết thành từng đôi"
+        "vi": "Đến cuối học kỳ, tất cả các sinh viên đều kết thành từng đôi"
       },
       {
         "k": "ex",
@@ -6943,7 +6943,7 @@
   {"h": "PAL format", "segs": [{"k": "m", "t": "dạng thức PAL."}], "k": "pal format"},
   {
     "h": "PAL system",
-    "segs": [{"k": "m", "t": "hệ (thống) PAL (hệ truyền hình màu của Ðức)."}],
+    "segs": [{"k": "m", "t": "hệ (thống) PAL (hệ truyền hình màu của Đức)."}],
     "k": "pal system"
   },
   {
@@ -7022,7 +7022,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một triều đại của nước Bihar và Bengal ở phía đông bắc Ấn Ðộ, cai trị từ thế kỷ 8 đến thế kỷ 12. Gopala, người sáng lập, là một vì vua được những vị bô lão trong nước chọn ra. Triều đại của người kế vị, Dharmapala (770-810) đánh dấu thời kỳ cực thịnh của vương quốc. Từng đợt uy quyền tăng lên và giảm xuống đến khi nó bị lu mờ hoàn toàn vào thế kỷ 12. Các tạo tác khảo cổ trên đá và kim loại về một Pala còn tồn tại, có chất lượng trang hoàng đặc biệt xuất sắc. Một phát triển quan trọng trong suốt thời gian họ cai trị là việc mở rộng đạo Phật đến Tây Tạng bởi những nhà truyền giáo đến từ Ðại học Nalanda ở Bihar. Họ nhận được sự đỡ đầu của Pala."
+        "t": "Một triều đại của nước Bihar và Bengal ở phía đông bắc Ấn Độ, cai trị từ thế kỷ 8 đến thế kỷ 12. Gopala, người sáng lập, là một vì vua được những vị bô lão trong nước chọn ra. Triều đại của người kế vị, Dharmapala (770-810) đánh dấu thời kỳ cực thịnh của vương quốc. Từng đợt uy quyền tăng lên và giảm xuống đến khi nó bị lu mờ hoàn toàn vào thế kỷ 12. Các tạo tác khảo cổ trên đá và kim loại về một Pala còn tồn tại, có chất lượng trang hoàng đặc biệt xuất sắc. Một phát triển quan trọng trong suốt thời gian họ cai trị là việc mở rộng đạo Phật đến Tây Tạng bởi những nhà truyền giáo đến từ Đại học Nalanda ở Bihar. Họ nhận được sự đỡ đầu của Pala."
       }
     ],
     "k": "pala"
@@ -7597,7 +7597,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(sử) lãnh địa"},
-      {"k": "m", "t": "màu hoa cà, áo thể thao màu hoa cà (ở trường đại học Ðơ-ham)."}
+      {"k": "m", "t": "màu hoa cà, áo thể thao màu hoa cà (ở trường đại học Đơ-ham)."}
     ],
     "ipa": "pə'lætinət",
     "k": "palatinate"
@@ -7607,11 +7607,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hai khu vực ở Ðức bao gồm cả vùng thượng Palatinate. Frederick I ban tặng tước hiệu Bá tước vùng Palatine cho người anh em cùng cha khác mẹ, Conrad, nắm giữ đất đai ở phía đông và tây sông Rhine (thuộc vùng Hạ Palatinate). Từ 1214 những vùng đất này được cai trị bởi vương triều Bavarian Wittelsbach. Họ là những người sở hữu đất đai gần Bohemia, đã thành lập nên vùng Thượng Palatinate. Năm 1356, các Bá tước vùng Palatine được bầu làm đại biểu của Ðế chế La Mã thần thánh."
+        "t": "Hai khu vực ở Đức bao gồm cả vùng thượng Palatinate. Frederick I ban tặng tước hiệu Bá tước vùng Palatine cho người anh em cùng cha khác mẹ, Conrad, nắm giữ đất đai ở phía đông và tây sông Rhine (thuộc vùng Hạ Palatinate). Từ 1214 những vùng đất này được cai trị bởi vương triều Bavarian Wittelsbach. Họ là những người sở hữu đất đai gần Bohemia, đã thành lập nên vùng Thượng Palatinate. Năm 1356, các Bá tước vùng Palatine được bầu làm đại biểu của Đế chế La Mã thần thánh."
       },
       {
         "k": "m",
-        "t": "Vùng (Hạ) Palatinate thuộc sông Rhine trở thành trung tâm của Phong trào cải cách đạo Tin Lành thế kỷ 16. Nhưng việc lựa chọn đại diện Frederick V trở thành vua Bohemia đã dẫn đến sự xung đột với thế lực Thiên Chúa giáo Habsburg và bùng nổ Chiến tranh ba mươi năm. Sau trận chiến ở Núi White (1621) hai vùng Palatinate bị chia cắt. Bavaria sát nhập vào Thượng Palatinate và vùng Hạ Palatinate nằm dưới sự cai trị của những người kế vị Frederick theo các điều khoản của Hiệp ước Westphalia. Vùng Hạ Palatinate bị vua Louis XIV xâm chiếm và phá hủy tàn bạo năm 1688-89. Năm 1777, hai vùng Palatinate tái hợp. Tuy nhiên, đầu thế kỷ 19, vùng Thượng Palatinate lại tái sát nhập vào Bavaria, trong khi vùng Hạ Palatinate bị chia ra thành nhiều bang của Ðức và Pháp. Vùng Rhineland Palatinate (Rheinland-Pfalz) hiện đại thuộc Ðức chiếm một phần của lãnh thổ vùng Hạ Palatinate trước đây."
+        "t": "Vùng (Hạ) Palatinate thuộc sông Rhine trở thành trung tâm của Phong trào cải cách đạo Tin Lành thế kỷ 16. Nhưng việc lựa chọn đại diện Frederick V trở thành vua Bohemia đã dẫn đến sự xung đột với thế lực Thiên Chúa giáo Habsburg và bùng nổ Chiến tranh ba mươi năm. Sau trận chiến ở Núi White (1621) hai vùng Palatinate bị chia cắt. Bavaria sát nhập vào Thượng Palatinate và vùng Hạ Palatinate nằm dưới sự cai trị của những người kế vị Frederick theo các điều khoản của Hiệp ước Westphalia. Vùng Hạ Palatinate bị vua Louis XIV xâm chiếm và phá hủy tàn bạo năm 1688-89. Năm 1777, hai vùng Palatinate tái hợp. Tuy nhiên, đầu thế kỷ 19, vùng Thượng Palatinate lại tái sát nhập vào Bavaria, trong khi vùng Hạ Palatinate bị chia ra thành nhiều bang của Đức và Pháp. Vùng Rhineland Palatinate (Rheinland-Pfalz) hiện đại thuộc Đức chiếm một phần của lãnh thổ vùng Hạ Palatinate trước đây."
       }
     ],
     "k": "palatinates"
@@ -7682,7 +7682,7 @@
     "segs": [{"k": "m", "t": "Màng khẩu cái, màng vòm miệng."}],
     "k": "palatine membrane"
   },
-  {"h": "palatine raphe", "segs": [{"k": "m", "t": "Ðường giữa vòm miệng."}], "k": "palatine raphe"},
+  {"h": "palatine raphe", "segs": [{"k": "m", "t": "Đường giữa vòm miệng."}], "k": "palatine raphe"},
   {"h": "palatine reflex", "segs": [{"k": "m", "t": "Phản xạ vòm miệng."}], "k": "palatine reflex"},
   {
     "h": "palatine suture median",
@@ -7898,7 +7898,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thuật ngữ ở thế kỷ 14, dùng để chỉ một khu vực có quyền hạn riêng biệt, thường được bao bọc bởi hàng rào và đường hào. Hàng rào tồn tại vào thời Trung cổ ở rìa lãnh thổ Anh, ví dụ như xung quanh Calais (cho đến khi nó biến mất năm 1558). Sau đó, chúng xuất hiện ở Scotland (vào vương triều Tudor). Và chúng tạo thành một phần rộng lớn rất quan trọng ở phía đông Ireland (từ thời vua Henry II cho đến khi nữ hoàng Elizabeth I xâm chiếm Ireland hoàn toàn). Phạm vi thực sự của các hàng rào Ireland phụ thuộc vào sức mạnh của chính phủ Anh ở Dublin. Catherine II (Ðại đế) năm 1792 đã cho lập nên một hàng rào Do Thái ở những lãnh thổ mà bà sát nhập từ Ba Lan. Người Do Thái vẫn còn tồn tại trong những khu vực này. Cuối cùng chúng bao gồm tất cả phần Ba Lan thuộc Nga, Lithuania, Belorussia (nay là Belarus), và phần lớn Ukraine."
+        "t": "Một thuật ngữ ở thế kỷ 14, dùng để chỉ một khu vực có quyền hạn riêng biệt, thường được bao bọc bởi hàng rào và đường hào. Hàng rào tồn tại vào thời Trung cổ ở rìa lãnh thổ Anh, ví dụ như xung quanh Calais (cho đến khi nó biến mất năm 1558). Sau đó, chúng xuất hiện ở Scotland (vào vương triều Tudor). Và chúng tạo thành một phần rộng lớn rất quan trọng ở phía đông Ireland (từ thời vua Henry II cho đến khi nữ hoàng Elizabeth I xâm chiếm Ireland hoàn toàn). Phạm vi thực sự của các hàng rào Ireland phụ thuộc vào sức mạnh của chính phủ Anh ở Dublin. Catherine II (Đại đế) năm 1792 đã cho lập nên một hàng rào Do Thái ở những lãnh thổ mà bà sát nhập từ Ba Lan. Người Do Thái vẫn còn tồn tại trong những khu vực này. Cuối cùng chúng bao gồm tất cả phần Ba Lan thuộc Nga, Lithuania, Belorussia (nay là Belarus), và phần lớn Ukraine."
       }
     ],
     "k": "pale",
@@ -9051,7 +9051,7 @@
     "h": "pali",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Pa-li (Ấn Ðộ)"},
+      {"k": "m", "t": "tiếng Pa-li (Ấn Độ)"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "snh."},
       {"k": "m", "t": "xem"},
@@ -9119,7 +9119,7 @@
     ],
     "k": "palimpsestic"
   },
-  {"h": "palinal", "segs": [{"k": "m", "t": "Ði dật lùi."}], "k": "palinal"},
+  {"h": "palinal", "segs": [{"k": "m", "t": "Đi dật lùi."}], "k": "palinal"},
   {
     "h": "palindrome",
     "segs": [
@@ -9522,7 +9522,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Vương triều ở nam Ấn Ðộ đã duy trì một vương quốc địa phương dọc theo bờ biển Carnatic giữa thế kỷ 4 và thế kỷ 9. Không có chứng cứ xác đáng về nguồn gốc cũng như lịch sử thời kỳ đầu của vương triều Pallava trước cuộc nổi dậy giành quyền lực từ địa vị của kẻ dưới quyền thời kỳ trước ở Deccan. Họ thiết lập thủ phủ ở Kanchi và giao thương buôn bán ở Sri Lanka và nhiều khu vực ở Ðông Nam Á. Cuối thế kỷ 9, lãnh thổ rơi vào tay các nước phong kiến chư hầu, nước Cholas. Di sản nghệ thuật của vương triều này rất quan trọng. Ngoại trừ sự bảo hộ về âm nhạc, hội họa, và văn học, nhiều đền đài Ấn Ðộ nổi tiếng ở nam Ấn Ðộ được xây dựng trong suốt thời kỳ họ cai trị. Trong đó có \"Ðền Shore\" được chạm khắc từ đá rắn ở bờ biển vùng Mahabalipuram."
+        "t": "Vương triều ở nam Ấn Độ đã duy trì một vương quốc địa phương dọc theo bờ biển Carnatic giữa thế kỷ 4 và thế kỷ 9. Không có chứng cứ xác đáng về nguồn gốc cũng như lịch sử thời kỳ đầu của vương triều Pallava trước cuộc nổi dậy giành quyền lực từ địa vị của kẻ dưới quyền thời kỳ trước ở Deccan. Họ thiết lập thủ phủ ở Kanchi và giao thương buôn bán ở Sri Lanka và nhiều khu vực ở Đông Nam Á. Cuối thế kỷ 9, lãnh thổ rơi vào tay các nước phong kiến chư hầu, nước Cholas. Di sản nghệ thuật của vương triều này rất quan trọng. Ngoại trừ sự bảo hộ về âm nhạc, hội họa, và văn học, nhiều đền đài Ấn Độ nổi tiếng ở nam Ấn Độ được xây dựng trong suốt thời kỳ họ cai trị. Trong đó có \"Đền Shore\" được chạm khắc từ đá rắn ở bờ biển vùng Mahabalipuram."
       }
     ],
     "k": "pallava"
@@ -9822,7 +9822,7 @@
   },
   {
     "h": "palliative treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị tạm thời, điều trị giảm đau."}],
+    "segs": [{"k": "m", "t": "Điều trị tạm thời, điều trị giảm đau."}],
     "k": "palliative treatment"
   },
   {
@@ -10180,7 +10180,7 @@
   },
   {
     "h": "palmar intermetacarpal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch gian đốt gan tay."}],
+    "segs": [{"k": "m", "t": "Động mạch gian đốt gan tay."}],
     "k": "palmar intermetacarpal artery"
   },
   {
@@ -10595,7 +10595,7 @@
     "h": "Palmus",
     "segs": [
       {"k": "m", "t": "1. (sự) co giật"},
-      {"k": "m", "t": "2. Ðộng tác nhảy"},
+      {"k": "m", "t": "2. Động tác nhảy"},
       {"k": "m", "t": "3. Tiếng tim đập."}
     ],
     "k": "palmus"
@@ -10865,7 +10865,7 @@
     ],
     "k": "palpigrade"
   },
-  {"h": "palpitalion", "segs": [{"k": "m", "t": "Ðánh trống ngực."}], "k": "palpitalion"},
+  {"h": "palpitalion", "segs": [{"k": "m", "t": "Đánh trống ngực."}], "k": "palpitalion"},
   {
     "h": "palpitate",
     "segs": [
@@ -11339,7 +11339,7 @@
       {
         "k": "ex",
         "t": "pamperoes",
-        "vi": "gió pampêrô (gió rét tây nam thổi từ dãy Ăng-đơ đến Ðại Tây Dương)."
+        "vi": "gió pampêrô (gió rét tây nam thổi từ dãy Ăng-đơ đến Đại Tây Dương)."
       }
     ],
     "ipa": "pæm'peərou",
@@ -11393,7 +11393,7 @@
   },
   {
     "h": "pampiniform plexus",
-    "segs": [{"k": "m", "t": "Ðám rối tĩnh mạch dạng tua cuối, đám rối tĩnh mạch hình dây leo."}],
+    "segs": [{"k": "m", "t": "Đám rối tĩnh mạch dạng tua cuối, đám rối tĩnh mạch hình dây leo."}],
     "k": "pampiniform plexus"
   },
   {
@@ -11652,7 +11652,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phong trào chính trị ở nam Phi. Một bộ phận binh lính của Hội đồng dân tộc Châu Phi (ANC) được thành lập năm 1959 bởi Robert Sobukwe. Ông chủ trương các phương thức gây sức ép mạnh mẽ về mặt chính trị và năm 1960 bảo trợ cho cuộc biểu tình ở Sharpeville. Trong đó có 67 người Châu Phi da đen đã bị giết và 180 người khác bị thương do lực lượng cảnh sát. Chính phủ nam Phi đặt hai tổ chức PAC và ANC ngoài vòng pháp luật, tống giam Sobukwe và các nhà lãnh đạo khác. Một số thành viên của tổ chức PAC bị lưu đày đã tiếp tục tiến hành chiến dịch của họ dưới sự lãnh đạo của Bí thư Ðảng, Potlako Leballo. Mặc dù đã được hợp pháp hóa năm 1990 khi nó hủy bỏ ý định tiến hành một cuộc đấu tranh vũ trang, tổ chức PAC từ chối tham gia vào Hiệp định Dân chủ ở nam Phi (CODESA) được thiết lập tháng 12 năm 1991. Tổ chức PAC tham gia vào cuộc bầu cử đa chủng tộc đầu tiên ở nam Phi năm 1994, giành được năm ghế trong Quốc hội với 1,2% số phiếu."
+        "t": "Phong trào chính trị ở nam Phi. Một bộ phận binh lính của Hội đồng dân tộc Châu Phi (ANC) được thành lập năm 1959 bởi Robert Sobukwe. Ông chủ trương các phương thức gây sức ép mạnh mẽ về mặt chính trị và năm 1960 bảo trợ cho cuộc biểu tình ở Sharpeville. Trong đó có 67 người Châu Phi da đen đã bị giết và 180 người khác bị thương do lực lượng cảnh sát. Chính phủ nam Phi đặt hai tổ chức PAC và ANC ngoài vòng pháp luật, tống giam Sobukwe và các nhà lãnh đạo khác. Một số thành viên của tổ chức PAC bị lưu đày đã tiếp tục tiến hành chiến dịch của họ dưới sự lãnh đạo của Bí thư Đảng, Potlako Leballo. Mặc dù đã được hợp pháp hóa năm 1990 khi nó hủy bỏ ý định tiến hành một cuộc đấu tranh vũ trang, tổ chức PAC từ chối tham gia vào Hiệp định Dân chủ ở nam Phi (CODESA) được thiết lập tháng 12 năm 1991. Tổ chức PAC tham gia vào cuộc bầu cử đa chủng tộc đầu tiên ở nam Phi năm 1994, giành được năm ghế trong Quốc hội với 1,2% số phiếu."
       }
     ],
     "k": "pan-africanist congress"
@@ -11900,7 +11900,7 @@
     "k": "panagglutination"
   },
   {"h": "panagglutinin", "segs": [{"k": "m", "t": "Ngưng kết tố phổ cập."}], "k": "panagglutinin"},
-  {"h": "Panagia", "segs": [{"k": "m", "t": "Toàn Thánh (tước hiệu của ÐM)."}], "k": "panagia"},
+  {"h": "Panagia", "segs": [{"k": "m", "t": "Toàn Thánh (tước hiệu của ĐM)."}], "k": "panagia"},
   {
     "h": "Panaji",
     "segs": [
@@ -11918,7 +11918,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Một dãy đồi chạy dọc theo chiều dài lãnh thổ, xuyên qua trung tâm bị cắt bởi eo biển tại kênh đào Panama. Kênh đào cho phép giao thương hàng hải từ Caribbe ở phía bắc đến Thái Bình Dương ở phía nam. Ðất đai màu mỡ, hỗ trợ cho việc trồng trọt cà phê ở cao nguyên và mía đường ở đồng bằng duyên hải."
+        "t": "Địa hình: Một dãy đồi chạy dọc theo chiều dài lãnh thổ, xuyên qua trung tâm bị cắt bởi eo biển tại kênh đào Panama. Kênh đào cho phép giao thương hàng hải từ Caribbe ở phía bắc đến Thái Bình Dương ở phía nam. Đất đai màu mỡ, hỗ trợ cho việc trồng trọt cà phê ở cao nguyên và mía đường ở đồng bằng duyên hải."
       },
       {
         "k": "m",
@@ -12407,7 +12407,7 @@
   {"h": "pancreatic notch", "segs": [{"k": "m", "t": "Khuyết tụy."}], "k": "pancreatic notch"},
   {
     "h": "pancreatic plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh tụy."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh tụy."}],
     "k": "pancreatic plexus"
   },
   {"h": "pancreatic vein", "segs": [{"k": "m", "t": "Tĩnh mạch tụy."}], "k": "pancreatic vein"},
@@ -12546,7 +12546,7 @@
       {
         "k": "ex",
         "t": "giant panda",
-        "vi": "động vật ở Ấn Ðộ (tựa con gấu mèo, lông màu nâu, đuôi dài rậm)."
+        "vi": "động vật ở Ấn Độ (tựa con gấu mèo, lông màu nâu, đuôi dài rậm)."
       }
     ],
     "ipa": "'pændə",
@@ -12645,7 +12645,7 @@
   },
   {
     "h": "pandemic disease",
-    "segs": [{"k": "m", "t": "Ðại dịch, dịch lớn."}],
+    "segs": [{"k": "m", "t": "Đại dịch, dịch lớn."}],
     "k": "pandemic disease"
   },
   {
@@ -12827,7 +12827,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Triều đại Tamil cai trị ở cực nam Ấn Ðộ từ thế kỷ 3 trước công nguyên đến thế kỷ 16 sau công nguyên. Rất ít hiểu biết về lịch sử thời kỳ đầu của họ trong suốt một thời đại chiến tranh liên miên giữa các vương triều đối địch ở nam Ấn Ðộ. Giữa thế kỷ 7 và thế kỷ 14 họ mở rộng về Sri Lanka và Kerala, và về phía bắc ở lãnh thổ Chola và Hoysala. Họ đạt được đỉnh cao quyền lực suốt vương triều Jatavarman Sundara (1251-1268). Họ suy yếu dần từ các tranh chấp trong gia tộc. Trong khi đó, thủ phủ ở Madurai bị các vì vua Delhi, Ala ud-Din Khalj! chiếm đóng năm 1311. Mặc dù đã giành lại quyền lực cục bộ cho đến thế kỷ 16, họ biết không bao giờ có thể khát khao giành lại đế chế. Marco Polo ghi nhận sự phồn thịnh của vương quốc này trong suốt những năm đỉnh cao của nó cuối thế kỷ 13."
+        "t": "Triều đại Tamil cai trị ở cực nam Ấn Độ từ thế kỷ 3 trước công nguyên đến thế kỷ 16 sau công nguyên. Rất ít hiểu biết về lịch sử thời kỳ đầu của họ trong suốt một thời đại chiến tranh liên miên giữa các vương triều đối địch ở nam Ấn Độ. Giữa thế kỷ 7 và thế kỷ 14 họ mở rộng về Sri Lanka và Kerala, và về phía bắc ở lãnh thổ Chola và Hoysala. Họ đạt được đỉnh cao quyền lực suốt vương triều Jatavarman Sundara (1251-1268). Họ suy yếu dần từ các tranh chấp trong gia tộc. Trong khi đó, thủ phủ ở Madurai bị các vì vua Delhi, Ala ud-Din Khalj! chiếm đóng năm 1311. Mặc dù đã giành lại quyền lực cục bộ cho đến thế kỷ 16, họ biết không bao giờ có thể khát khao giành lại đế chế. Marco Polo ghi nhận sự phồn thịnh của vương quốc này trong suốt những năm đỉnh cao của nó cuối thế kỷ 13."
       }
     ],
     "k": "pandya"
@@ -13512,7 +13512,7 @@
     "segs": [{"k": "m", "t": "bảng điện, bảng phân phối panen."}],
     "k": "panelboard"
   },
-  {"h": "panelectroscope", "segs": [{"k": "m", "t": "Ðèn nội soi."}], "k": "panelectroscope"},
+  {"h": "panelectroscope", "segs": [{"k": "m", "t": "Đèn nội soi."}], "k": "panelectroscope"},
   {
     "h": "paneled bulkhead",
     "segs": [{"k": "m", "t": "vách (phân cách bằng các tấm) panen."}],
@@ -13765,7 +13765,7 @@
   },
   {
     "h": "Pangermanism",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chủ nghĩa Ðại Ðức/Liên Ðức."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chủ nghĩa Đại Đức/Liên Đức."}],
     "ipa": "pæn'dʒəmənizm",
     "k": "pangermanism"
   },
@@ -14287,7 +14287,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một tỉnh ở bang Haryana, bắc Ấn Ðộ, 70 km (43 dặm) phía tây bắc Delhi. Nó có tầm quan trọng trong lịch sử với vai trò là mạng lưới của ba trận chiến chứng minh rõ ràng về tương lai của Ấn Ðộ. Trong một tình huống quân đội tiến ra để bảo vệ thủ đô Delhi, họ đã xung đột với những kẻ ngoại xâm từ tây bắc tiến đến tại tỉnh này. Trong trận chiến Panipat lần 1 (21 tháng 4 năm 1526) tên ngoại xâm Mông Cổ, Babur đánh bại vua Afghan của Delhi. Trận chiến thứ 2 (5 tháng 11 năm 1556) đánh dấu chiến thắng của Akbar trước những người Afghanistan. Sau đó ông nắm giữ Delhi, và bắt đầu mở rộng sức mạnh vững chắc của Mông Cổ ở Ấn Ðộ. Trong trận chiến thứ 3 (14 tháng 6 năm 1761) một cuộc xâm lăng của quân đội Afghanistan đã kết thúc tham vọng của Maratha hòng đoạt được quyền lực vô nghĩa ở Delhi sau khi Mông Cổ sụp đổ."
+        "t": "Một tỉnh ở bang Haryana, bắc Ấn Độ, 70 km (43 dặm) phía tây bắc Delhi. Nó có tầm quan trọng trong lịch sử với vai trò là mạng lưới của ba trận chiến chứng minh rõ ràng về tương lai của Ấn Độ. Trong một tình huống quân đội tiến ra để bảo vệ thủ đô Delhi, họ đã xung đột với những kẻ ngoại xâm từ tây bắc tiến đến tại tỉnh này. Trong trận chiến Panipat lần 1 (21 tháng 4 năm 1526) tên ngoại xâm Mông Cổ, Babur đánh bại vua Afghan của Delhi. Trận chiến thứ 2 (5 tháng 11 năm 1556) đánh dấu chiến thắng của Akbar trước những người Afghanistan. Sau đó ông nắm giữ Delhi, và bắt đầu mở rộng sức mạnh vững chắc của Mông Cổ ở Ấn Độ. Trong trận chiến thứ 3 (14 tháng 6 năm 1761) một cuộc xâm lăng của quân đội Afghanistan đã kết thúc tham vọng của Maratha hòng đoạt được quyền lực vô nghĩa ở Delhi sau khi Mông Cổ sụp đổ."
       }
     ],
     "k": "panipat"
@@ -15229,7 +15229,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "snh. quần dài (loại quần rộng thùng thình và thắt lại quanh mắt cá chân) (Ấn Ðộ)."
+        "t": "snh. quần dài (loại quần rộng thùng thình và thắt lại quanh mắt cá chân) (Ấn Độ)."
       }
     ],
     "ipa": "pæntə'lu:nz",
@@ -15800,7 +15800,7 @@
     "ipa": "'pæntəmɔ:f",
     "k": "pantomorph"
   },
-  {"h": "pantomorphia", "segs": [{"k": "m", "t": "Ðối xứng hoàn toàn."}], "k": "pantomorphia"},
+  {"h": "pantomorphia", "segs": [{"k": "m", "t": "Đối xứng hoàn toàn."}], "k": "pantomorphia"},
   {
     "h": "pantomorphic",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc dạng kịch câm."}],
@@ -16134,12 +16134,12 @@
   },
   {
     "h": "papal blessing",
-    "segs": [{"k": "m", "t": "phép lành Tòa Thánh (ÐHG)."}],
+    "segs": [{"k": "m", "t": "phép lành Tòa Thánh (ĐHG)."}],
     "k": "papal blessing"
   },
   {
     "h": "papal Chamberlain",
-    "segs": [{"k": "m", "t": "Vị thị tùng Ðức Giáo hoàng."}],
+    "segs": [{"k": "m", "t": "Vị thị tùng Đức Giáo hoàng."}],
     "k": "papal chamberlain"
   },
   {
@@ -16173,7 +16173,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Vùng đất ở trung tâm Italy thuộc chủ quyền của đức Giáo hoàng (756-1870). Luật 321 cho phép Giáo hội sở hữu đất đai (được gọi là tài sản của Thánh Peter). Nhưng đó chính là \"Lòng từ thiện của Peppin\" (754) cam kết chuyển giao lãnh thổ Lombard do người Frank xâm chiếm cho Giáo hoàng và bảo đảm quyền sở hữu này. Ðiều này làm tăng cường quyền thế tục của Giáo hoàng. Ðầu thời Trung cổ, Giáo hoàng kiểm soát một cách yếu ớt. Và đất đai được chuyển nhượng khi Giáo hoàng đổi lãnh thổ để \"mua\" sự liên kết. Thế kỷ 13, tình hình đảo lộn: tài sản của giáo hội được mở rộng một cách đáng kể do Giáo hoàng Innocent III. Trong năm 1213 hoàng đế Frederick II xác nhận và tăng cường quyền sở hữu của Giáo hoàng. Julius II phục hồi và tăng cường quyền lực thế tục của Giáo hoàng: Phạm vi rộng lớn nhất của đất đai Giáo hoàng bao gồm Romagna (gồm Ferrara và Ravenna), phần lớn Tuscany, Umbria, và tài sản của Thánh Peter. Chúng được vương quốc Italy tiếp quản từ thế kỷ 19."
+        "t": "Vùng đất ở trung tâm Italy thuộc chủ quyền của đức Giáo hoàng (756-1870). Luật 321 cho phép Giáo hội sở hữu đất đai (được gọi là tài sản của Thánh Peter). Nhưng đó chính là \"Lòng từ thiện của Peppin\" (754) cam kết chuyển giao lãnh thổ Lombard do người Frank xâm chiếm cho Giáo hoàng và bảo đảm quyền sở hữu này. Điều này làm tăng cường quyền thế tục của Giáo hoàng. Đầu thời Trung cổ, Giáo hoàng kiểm soát một cách yếu ớt. Và đất đai được chuyển nhượng khi Giáo hoàng đổi lãnh thổ để \"mua\" sự liên kết. Thế kỷ 13, tình hình đảo lộn: tài sản của giáo hội được mở rộng một cách đáng kể do Giáo hoàng Innocent III. Trong năm 1213 hoàng đế Frederick II xác nhận và tăng cường quyền sở hữu của Giáo hoàng. Julius II phục hồi và tăng cường quyền lực thế tục của Giáo hoàng: Phạm vi rộng lớn nhất của đất đai Giáo hoàng bao gồm Romagna (gồm Ferrara và Ravenna), phần lớn Tuscany, Umbria, và tài sản của Thánh Peter. Chúng được vương quốc Italy tiếp quản từ thế kỷ 19."
       }
     ],
     "k": "papal states"
@@ -16349,7 +16349,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1879-1969) Chính khách người Ðức. Là một thành viên của đảng Thiên Chúa giáo tập trung, ông có chút tiếng tăm. Nhưng việc ông được bổ nhiệm làm Thủ tướng là một điều đáng kinh ngạc (1932). Ðể có được sự ủng hộ của Ðức quốc xã, ông ban hành việc cấm đoán các đảng viên quốc xã, nhưng Hitler vẫn giữ thái độ thù địch. Những cố gắng nhằm làm suy yếu sức mạnh Ðức quốc xã thất bại và ông từ chức. Ông thuyết phục Hindenburg bổ nhiệm Hitler (tháng 1 năm 1933) thành Thủ tướng. Nhưng với cương vị của một phó thủ tướng, ông không thể hạn chế được ông ta. Ông trở thành đại sứ của Áo (1934), tham gia vào việc sát nhập của nước này (Liên minh chính trị Ðức-Áo) năm 1938, và với Thổ Nhĩ Kỳ (1939-1944). Ông bị tuyên án là tội phạm chiến tranh(1945), nhưng được phóng thích."
+        "t": "(1879-1969) Chính khách người Đức. Là một thành viên của đảng Thiên Chúa giáo tập trung, ông có chút tiếng tăm. Nhưng việc ông được bổ nhiệm làm Thủ tướng là một điều đáng kinh ngạc (1932). Để có được sự ủng hộ của Đức quốc xã, ông ban hành việc cấm đoán các đảng viên quốc xã, nhưng Hitler vẫn giữ thái độ thù địch. Những cố gắng nhằm làm suy yếu sức mạnh Đức quốc xã thất bại và ông từ chức. Ông thuyết phục Hindenburg bổ nhiệm Hitler (tháng 1 năm 1933) thành Thủ tướng. Nhưng với cương vị của một phó thủ tướng, ông không thể hạn chế được ông ta. Ông trở thành đại sứ của Áo (1934), tham gia vào việc sát nhập của nước này (Liên minh chính trị Đức-Áo) năm 1938, và với Thổ Nhĩ Kỳ (1939-1944). Ông bị tuyên án là tội phạm chiến tranh(1945), nhưng được phóng thích."
       }
     ],
     "k": "papen. franz von"
@@ -17872,7 +17872,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1837-1838) Một cuộc nổi dậy của những người Canada gốc Pháp. Nó nhằm tìm kiếm các cải cách dân chủ và sự bảo vệ chống Liên minh có chủ đích giữa vùng Thượng và Hạ Canada. Phát ngôn viên của Hội đồng lập pháp Hạ Canada, Louis-Joseph Papineau (1786-1871), chỉ huy phong trào cải cách ở khu vực Canada thuộc Pháp (nay là Quebec). Năm 1837, ông khích động cuộc khởi nghĩa vũ trang chống Anh, nhưng chạy trốn đến Mỹ trước khi chiến sự nổ ra. Sự mâu thuẫn giữa hàng trăm người ủng hộ ông và quân đội chính quy xuất hiện ở Saint Denis vào tháng 11. Cuộc khởi nghĩa lại tiếp tục nổ ra năm 1838, nhưng bị đàn áp và 12 người bị hành hình. Papineau nhận được sự ân xá năm 1844 và trở về Canada năm 1845. Ðây là thời điểm thiết lập chính phủ có trách nhiệm như nghị viện. Nó đã đạt được nhiều thành tựu qua các nhà cải cách hiện đại, như Robert Baldwin."
+        "t": "(1837-1838) Một cuộc nổi dậy của những người Canada gốc Pháp. Nó nhằm tìm kiếm các cải cách dân chủ và sự bảo vệ chống Liên minh có chủ đích giữa vùng Thượng và Hạ Canada. Phát ngôn viên của Hội đồng lập pháp Hạ Canada, Louis-Joseph Papineau (1786-1871), chỉ huy phong trào cải cách ở khu vực Canada thuộc Pháp (nay là Quebec). Năm 1837, ông khích động cuộc khởi nghĩa vũ trang chống Anh, nhưng chạy trốn đến Mỹ trước khi chiến sự nổ ra. Sự mâu thuẫn giữa hàng trăm người ủng hộ ông và quân đội chính quy xuất hiện ở Saint Denis vào tháng 11. Cuộc khởi nghĩa lại tiếp tục nổ ra năm 1838, nhưng bị đàn áp và 12 người bị hành hình. Papineau nhận được sự ân xá năm 1844 và trở về Canada năm 1845. Đây là thời điểm thiết lập chính phủ có trách nhiệm như nghị viện. Nó đã đạt được nhiều thành tựu qua các nhà cải cách hiện đại, như Robert Baldwin."
       }
     ],
     "k": "papineau's rebellion"
@@ -18090,7 +18090,7 @@
     "h": "papuan",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) người Pa-pu (thổ dân châu Ðại Dương)."}
+      {"k": "m", "t": "(thuộc) người Pa-pu (thổ dân châu Đại Dương)."}
     ],
     "ipa": "'pæpjuən",
     "k": "papuan"
@@ -18293,7 +18293,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một loại chất liệu để viết chữ do người Ai Cập cổ tạo nên từ ruột thân cây nước Cyperus papyrus. Tên gọi của giấy cũng bắt nguồn từ đây. Thân cỏ tươi được thu hoạch từ sông Nile, sau đó dùng kim tước ra để tạo thành những sợi dây ẩm. Những sợi dây này được trải ra thành hai lớp đan chéo nhau trên một tấm bảng ẩm ướt và dùng sức ép lại. Nước dịch ép ra và lượng độ ẩm thêm vào gắn chặt chúng lại với nhau tại thành những tờ giấy. Sau khi phơi khô, tờ giấy có thể được viết bằng mực in. Các tờ giấy cũng có thể được xếp chồng lên và đóng khớp lề với nhau để tạo thành cuộn giấy liên tục. Ðiều kiện không khí nóng tuyệt đối ở Ai Cập rất lý tưởng để bảo quản giấy cói. Những tư liệu ma chay, luật pháp, hành chính, và văn học khác nhau đã mang lại rất nhiều thông tin chi tiết về cuộc sống thời Ai Cập cổ đại."
+        "t": "Một loại chất liệu để viết chữ do người Ai Cập cổ tạo nên từ ruột thân cây nước Cyperus papyrus. Tên gọi của giấy cũng bắt nguồn từ đây. Thân cỏ tươi được thu hoạch từ sông Nile, sau đó dùng kim tước ra để tạo thành những sợi dây ẩm. Những sợi dây này được trải ra thành hai lớp đan chéo nhau trên một tấm bảng ẩm ướt và dùng sức ép lại. Nước dịch ép ra và lượng độ ẩm thêm vào gắn chặt chúng lại với nhau tại thành những tờ giấy. Sau khi phơi khô, tờ giấy có thể được viết bằng mực in. Các tờ giấy cũng có thể được xếp chồng lên và đóng khớp lề với nhau để tạo thành cuộn giấy liên tục. Điều kiện không khí nóng tuyệt đối ở Ai Cập rất lý tưởng để bảo quản giấy cói. Những tư liệu ma chay, luật pháp, hành chính, và văn học khác nhau đã mang lại rất nhiều thông tin chi tiết về cuộc sống thời Ai Cập cổ đại."
       }
     ],
     "k": "papyrus giay coi"
@@ -19292,7 +19292,7 @@
   },
   {
     "h": "paracentral scotoma",
-    "segs": [{"k": "m", "t": "Ðiểm tối cận trung tâm, ám điểm cận trung tâm."}],
+    "segs": [{"k": "m", "t": "Điểm tối cận trung tâm, ám điểm cận trung tâm."}],
     "k": "paracentral scotoma"
   },
   {
@@ -19973,7 +19973,7 @@
   },
   {
     "h": "paradoxic deafness",
-    "segs": [{"k": "m", "t": "Ðiếc nghịch lý."}],
+    "segs": [{"k": "m", "t": "Điếc nghịch lý."}],
     "k": "paradoxic deafness"
   },
   {
@@ -20801,11 +20801,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðất nước nằm sâu trong lục địa phía nam trung tâm Nam Phi. Nó có đường biên giới giáp với Bolivia và Brazil ở phía bắc và Argentina ở phía nam."
+        "t": "Đất nước nằm sâu trong lục địa phía nam trung tâm Nam Phi. Nó có đường biên giới giáp với Bolivia và Brazil ở phía bắc và Argentina ở phía nam."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Sông Paraguay, nơi tàu bè có thể đi lại, chảy xuống giữa đất nước, kết hợp với Parana tạo thành tuyến đường ra biển. Ở phía Tây Gran Chaco, một khu vực đất đen và màu mỡ cung cấp đồng cỏ phì nhiêu và những cánh rừng gỗ cứng. Ở phía đông, đất đai nổi lên thành một rặng thấp với những ngọn đồi có rừng cây bao phủ. Về phía nam có nhiều đầm lầy và hồ cạn có viền cọ."
+        "t": "Địa hình: Sông Paraguay, nơi tàu bè có thể đi lại, chảy xuống giữa đất nước, kết hợp với Parana tạo thành tuyến đường ra biển. Ở phía Tây Gran Chaco, một khu vực đất đen và màu mỡ cung cấp đồng cỏ phì nhiêu và những cánh rừng gỗ cứng. Ở phía đông, đất đai nổi lên thành một rặng thấp với những ngọn đồi có rừng cây bao phủ. Về phía nam có nhiều đầm lầy và hồ cạn có viền cọ."
       },
       {
         "k": "m",
@@ -20813,14 +20813,14 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Paraguay là một phần của lãnh thổ Rio de la Plata thuộc Tây Ban Nha sau khi thành lập thủ đô Asuncion năm 1537. Chỉ có một số người Tây Ban Nha định cư thưa thớt và một số làng thuộc dòng tu Jesuit chiếm ưu thế so với các bộ tộc da đỏ Guarani. Các bộ tộc này bị hủy diệt năm 1767. Ðất nước giành được độc lập (1811) khi các nhà lãnh đạo quân đội địa phương Paraguay chỉ huy một cuộc khởi nghĩa không đổ máu chống lại thống đốc Tây Ban Nha. Tên độc tài Jose Gaspar Rodriguez de Francia cai quản nền cộng hòa mới từ năm 1813 đến 1840. Nhưng thời gian còn lại của thế kỷ 19, đất nước bị chế ngự bởi sự mục nát, chiến sự và phá sản liên tục. Francisco Solano Lopez đưa đất nước đến thảm họa của cuộc Chiến tranh Paraguay (1864-1870). Rối loạn chính trị tiếp diễn trong thế kỷ 20 với sự ngoại lệ của chính phủ do đảng viên Ðảng tự do Edvard Schaerer lãnh đạo (1912-1917). Thời kỳ này được đánh dấu bởi phát triển kinh tế và đầu tư nước ngoài. Trong Chiến tranh Chaco (1932-1935), Paraguay giành được từ tay Bolivia một lãnh thổ. Trong thời gian dài sự việc gây tranh cãi vì nghi ngờ nơi đây có nhiều trữ lượng dầu mỏ. Năm 1954, Tướng Alfredo Stroessner, được sự hỗ trợ của Mỹ, đã giành chính quyền. Một kế hoạch thủy điện đồ sộ (đập Itaipu) được bắt đầu và có một số tiến triển từ công sức của các nông dân địa phương không có ruộng đất. Gia súc xuất khẩu sang Châu Âu giảm, nền kinh tế xuống dốc, và chế độ cai trị dần trở nên tàn bạo. Stroessner mất sự ủng hộ của Mỹ và bị truất quyền năm 1989. Cuộc bầu cử đưa Tướng Andres Rodriguez trở thành Tổng thống. Ðảng Tự do Asuncion Para Todos (APTO) nổi lên. Nhưng với sự ủng hộ của quân đội, Rodriguez và Ðảng Colorado của ông giành lại chính quyền. Cuộc tổng tuyển cử đa đảng đầu tiên ở Paraguay được tổ chức năm 1993 và công dân Juan Carlos Wasmosy được bầu chức Tổng thống."
+        "t": "Lịch sử: Paraguay là một phần của lãnh thổ Rio de la Plata thuộc Tây Ban Nha sau khi thành lập thủ đô Asuncion năm 1537. Chỉ có một số người Tây Ban Nha định cư thưa thớt và một số làng thuộc dòng tu Jesuit chiếm ưu thế so với các bộ tộc da đỏ Guarani. Các bộ tộc này bị hủy diệt năm 1767. Đất nước giành được độc lập (1811) khi các nhà lãnh đạo quân đội địa phương Paraguay chỉ huy một cuộc khởi nghĩa không đổ máu chống lại thống đốc Tây Ban Nha. Tên độc tài Jose Gaspar Rodriguez de Francia cai quản nền cộng hòa mới từ năm 1813 đến 1840. Nhưng thời gian còn lại của thế kỷ 19, đất nước bị chế ngự bởi sự mục nát, chiến sự và phá sản liên tục. Francisco Solano Lopez đưa đất nước đến thảm họa của cuộc Chiến tranh Paraguay (1864-1870). Rối loạn chính trị tiếp diễn trong thế kỷ 20 với sự ngoại lệ của chính phủ do đảng viên Đảng tự do Edvard Schaerer lãnh đạo (1912-1917). Thời kỳ này được đánh dấu bởi phát triển kinh tế và đầu tư nước ngoài. Trong Chiến tranh Chaco (1932-1935), Paraguay giành được từ tay Bolivia một lãnh thổ. Trong thời gian dài sự việc gây tranh cãi vì nghi ngờ nơi đây có nhiều trữ lượng dầu mỏ. Năm 1954, Tướng Alfredo Stroessner, được sự hỗ trợ của Mỹ, đã giành chính quyền. Một kế hoạch thủy điện đồ sộ (đập Itaipu) được bắt đầu và có một số tiến triển từ công sức của các nông dân địa phương không có ruộng đất. Gia súc xuất khẩu sang Châu Âu giảm, nền kinh tế xuống dốc, và chế độ cai trị dần trở nên tàn bạo. Stroessner mất sự ủng hộ của Mỹ và bị truất quyền năm 1989. Cuộc bầu cử đưa Tướng Andres Rodriguez trở thành Tổng thống. Đảng Tự do Asuncion Para Todos (APTO) nổi lên. Nhưng với sự ủng hộ của quân đội, Rodriguez và Đảng Colorado của ông giành lại chính quyền. Cuộc tổng tuyển cử đa đảng đầu tiên ở Paraguay được tổ chức năm 1993 và công dân Juan Carlos Wasmosy được bầu chức Tổng thống."
       },
       {"k": "m", "t": "Thủ đô: Asuncion."},
       {"k": "m", "t": "Diện tích: 406.752 km2"},
       {"k": "m", "t": "Dân số: 4,964 triệu (1996)."},
       {"k": "m", "t": "Tiền tệ: 1 guarani = 100 centimos."},
       {"k": "m", "t": "Tôn giáo: Thiên Chúa giáo La Mã 96%; Tin Lành 2%."},
-      {"k": "m", "t": "Sắc tộc: Mestizo 90%; Amerindia 3%; Ðức 1,7%."},
+      {"k": "m", "t": "Sắc tộc: Mestizo 90%; Amerindia 3%; Đức 1,7%."},
       {"k": "m", "t": "Ngôn ngữ: Tây Ban Nha (chính thức); Guarani."},
       {"k": "m", "t": "Gia nhập: Liên hiệp quốc; Tổ chức các nước Châu Mỹ."}
     ],
@@ -23312,7 +23312,7 @@
   {"h": "paramedian", "segs": [{"k": "m", "t": "Cạnh giữa."}], "k": "paramedian"},
   {
     "h": "paramedian incision",
-    "segs": [{"k": "m", "t": "Ðường rạch cạnh giữa bụng."}],
+    "segs": [{"k": "m", "t": "Đường rạch cạnh giữa bụng."}],
     "k": "paramedian incision"
   },
   {
@@ -24899,7 +24899,7 @@
     "ipa": "'pærəʃu:t",
     "k": "parashoot"
   },
-  {"h": "Parasigmatism", "segs": [{"k": "m", "t": "Ðọc sai âm s hay âm z."}], "k": "parasigmatism"},
+  {"h": "Parasigmatism", "segs": [{"k": "m", "t": "Đọc sai âm s hay âm z."}], "k": "parasigmatism"},
   {"h": "parasinoidal", "segs": [{"k": "m", "t": "Cận xoang."}], "k": "parasinoidal"},
   {
     "h": "parasite",
@@ -24921,7 +24921,7 @@
     "segs": [{"k": "m", "t": "máy bay con (treo ở máy bay mẹ)."}],
     "k": "parasite aircraft"
   },
-  {"h": "parasite count", "segs": [{"k": "m", "t": "Ðếm ký sinh trùng."}], "k": "parasite count"},
+  {"h": "parasite count", "segs": [{"k": "m", "t": "Đếm ký sinh trùng."}], "k": "parasite count"},
   {
     "h": "parasite current",
     "segs": [{"k": "m", "t": "dòng parazít, dòng tạp."}],
@@ -27572,7 +27572,7 @@
     "h": "pariah",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người hạ đẳng (ở Ấn Ðộ)"},
+      {"k": "m", "t": "người hạ đẳng (ở Ấn Độ)"},
       {"k": "m", "t": "người cùng khổ"},
       {"k": "m", "t": "(nghĩa bóng) người bị xã hội bỏ rơi, người sống ngoài lề xã hội."}
     ],
@@ -27737,7 +27737,7 @@
   },
   {
     "h": "parietal diameter",
-    "segs": [{"k": "m", "t": "Ðường kính đỉnh."}],
+    "segs": [{"k": "m", "t": "Đường kính đỉnh."}],
     "k": "parietal diameter"
   },
   {"h": "parietal eminence", "segs": [{"k": "m", "t": "Lồi đỉnh."}], "k": "parietal eminence"},
@@ -27792,7 +27792,7 @@
   {"h": "parietes", "segs": [{"k": "ref", "t": "paries"}], "redirect": "paries", "k": "parietes"},
   {"h": "parietial angle", "segs": [{"k": "m", "t": "góc dỉnh."}], "k": "parietial angle"},
   {"h": "parietitis", "segs": [{"k": "m", "t": "Viêm thành."}], "k": "parietitis"},
-  {"h": "parieto-occipital", "segs": [{"k": "m", "t": "Ðỉnh-chẩm."}], "k": "parieto-occipital"},
+  {"h": "parieto-occipital", "segs": [{"k": "m", "t": "Đỉnh-chẩm."}], "k": "parieto-occipital"},
   {
     "h": "parieto-occipital fissure",
     "segs": [{"k": "m", "t": "Rãnh đỉnh chẩm."}],
@@ -27806,12 +27806,12 @@
   {"h": "parietoloccipital", "segs": [{"k": "m", "t": "đỉnh chẩm."}], "k": "parietoloccipital"},
   {
     "h": "parietomastoid suture",
-    "segs": [{"k": "m", "t": "Ðường khớp đỉnh-chũm."}],
+    "segs": [{"k": "m", "t": "Đường khớp đỉnh-chũm."}],
     "k": "parietomastoid suture"
   },
   {
     "h": "parietooccipital suture",
-    "segs": [{"k": "m", "t": "Ðường khớp lam-đa, đường khớp đỉnh-chẩm."}],
+    "segs": [{"k": "m", "t": "Đường khớp lam-đa, đường khớp đỉnh-chẩm."}],
     "k": "parietooccipital suture"
   },
   {
@@ -27824,15 +27824,15 @@
     "segs": [{"k": "m", "t": "bó đỉnh cầu não."}],
     "k": "parietopontinetract"
   },
-  {"h": "parietosphenoid", "segs": [{"k": "m", "t": "Ðỉnh-bướm."}], "k": "parietosphenoid"},
+  {"h": "parietosphenoid", "segs": [{"k": "m", "t": "Đỉnh-bướm."}], "k": "parietosphenoid"},
   {
     "h": "parietosphenoidal incisure",
     "segs": [{"k": "m", "t": "Khuyết đỉnh của xương thái dương."}],
     "k": "parietosphenoidal incisure"
   },
   {"h": "parietosplanchnic", "segs": [{"k": "m", "t": "Thành-nội tạng."}], "k": "parietosplanchnic"},
-  {"h": "parietosquamosal", "segs": [{"k": "m", "t": "Ðỉnh-trai."}], "k": "parietosquamosal"},
-  {"h": "parietotemporal", "segs": [{"k": "m", "t": "Ðỉnh thái dương."}], "k": "parietotemporal"},
+  {"h": "parietosquamosal", "segs": [{"k": "m", "t": "Đỉnh-trai."}], "k": "parietosquamosal"},
+  {"h": "parietotemporal", "segs": [{"k": "m", "t": "Đỉnh thái dương."}], "k": "parietotemporal"},
   {
     "h": "parietotemporal region",
     "segs": [{"k": "m", "t": "Vùng đỉnh-thái dương."}],
@@ -27981,7 +27981,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðơn vị nhỏ nhất của giáo hội và tổ chức hành chính ở Anh. Thế kỷ thứ 7 và 8, các nhà thờ địa phương (\"minsters\") được thành lập. Một đội ngũ những linh mục phục vụ tận tụy cho các \"nhà thờ xứ\" trên một phạm vi có thể là từ 5 đến 15 giáo xứ. Chúng đã bị giải tán trong suốt thế kỷ 10 đến thế kỷ 12 khi các địa chủ xây dựng nhiều nhà thờ địa phương cho bản thân và tá điền, mặc dù chỉ đến thế kỷ 12 các lãnh địa này phục vụ đơn thuần cho hệ thống nhà thờ xứ chính thức. Taxatio Nicholai (1291), một mức thuế trên thu nhập của các linh mục, có thể đã nói bớt số lượng giáo xứ khoảng 8,085. Con số chính xác hơn vào khoảng 9,500. Ða số chúng là những nhóm dân cư nông thôn trung bình khoảng 300 người. Có thể không có nhiều hơn vài trăm giáo xứ tọa lạc ở các thành phố: London có khoảng 100, Norwich 50, Lincoln 40, và Cambridge 20. Từ thế kỷ 16, các giáo xứ thực hiện một vai trò hành chính của nhà nước mặc dù địa giới của họ và các giáo xứ thuộc giáo hội không phải luôn trùng nhau. Năm 1555 họ chịu trách nhiệm trong việc xây dựng đường quốc lộ và năm 1601 tổ chức cứu trợ người nghèo."
+        "t": "Đơn vị nhỏ nhất của giáo hội và tổ chức hành chính ở Anh. Thế kỷ thứ 7 và 8, các nhà thờ địa phương (\"minsters\") được thành lập. Một đội ngũ những linh mục phục vụ tận tụy cho các \"nhà thờ xứ\" trên một phạm vi có thể là từ 5 đến 15 giáo xứ. Chúng đã bị giải tán trong suốt thế kỷ 10 đến thế kỷ 12 khi các địa chủ xây dựng nhiều nhà thờ địa phương cho bản thân và tá điền, mặc dù chỉ đến thế kỷ 12 các lãnh địa này phục vụ đơn thuần cho hệ thống nhà thờ xứ chính thức. Taxatio Nicholai (1291), một mức thuế trên thu nhập của các linh mục, có thể đã nói bớt số lượng giáo xứ khoảng 8,085. Con số chính xác hơn vào khoảng 9,500. Đa số chúng là những nhóm dân cư nông thôn trung bình khoảng 300 người. Có thể không có nhiều hơn vài trăm giáo xứ tọa lạc ở các thành phố: London có khoảng 100, Norwich 50, Lincoln 40, và Cambridge 20. Từ thế kỷ 16, các giáo xứ thực hiện một vai trò hành chính của nhà nước mặc dù địa giới của họ và các giáo xứ thuộc giáo hội không phải luôn trùng nhau. Năm 1555 họ chịu trách nhiệm trong việc xây dựng đường quốc lộ và năm 1601 tổ chức cứu trợ người nghèo."
       }
     ],
     "k": "parish giao xu"
@@ -28968,7 +28968,7 @@
       {
         "k": "ex",
         "t": "the French, West German, Spanish parliament",
-        "vi": "Quốc hội Pháp, Tây Ðức, Tây Ban Nha"
+        "vi": "Quốc hội Pháp, Tây Đức, Tây Ban Nha"
       },
       {"k": "m", "t": "("},
       {"k": "ex", "t": "Parliament", "vi": ") quốc hội Anh"},
@@ -29710,7 +29710,7 @@
     "k": "parody",
     "q": {"vi": "sự khôi hài, nhái lại, bắt chước lại", "ipa": "'pærədi", "rs": "pé rờ đì"}
   },
-  {"h": "Parodynia", "segs": [{"k": "m", "t": "Ðẻ khó."}], "k": "parodynia"},
+  {"h": "Parodynia", "segs": [{"k": "m", "t": "Đẻ khó."}], "k": "parodynia"},
   {
     "h": "paroecious",
     "segs": [
@@ -30015,7 +30015,7 @@
   {"h": "parotid papilla", "segs": [{"k": "m", "t": "Núm tuyến mang tai."}], "k": "parotid papilla"},
   {
     "h": "parotid plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh tuyến mang tai."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh tuyến mang tai."}],
     "k": "parotid plexus"
   },
   {
@@ -30600,7 +30600,7 @@
   },
   {
     "h": "pars ascendens duodeni",
-    "segs": [{"k": "m", "t": "Ðoạn tá tràng lên, đoạn (thứ) tư của tá tràng."}],
+    "segs": [{"k": "m", "t": "Đoạn tá tràng lên, đoạn (thứ) tư của tá tràng."}],
     "k": "pars ascendens duodeni"
   },
   {
@@ -30620,7 +30620,7 @@
   },
   {
     "h": "pars cervicalis esophagi",
-    "segs": [{"k": "m", "t": "Ðoạn cổ của thực quản."}],
+    "segs": [{"k": "m", "t": "Đoạn cổ của thực quản."}],
     "k": "pars cervicalis esophagi"
   },
   {
@@ -30716,7 +30716,7 @@
   },
   {
     "h": "pars superior duodeni",
-    "segs": [{"k": "m", "t": "Ðoạn 1 tá tràng, đoạn 1 ruột tá."}],
+    "segs": [{"k": "m", "t": "Đoạn 1 tá tràng, đoạn 1 ruột tá."}],
     "k": "pars superior duodeni"
   },
   {
@@ -30758,7 +30758,7 @@
     "h": "parsee",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người theo đạo phái Pácxi (Bái hỏa giáo Ba Tư, Ấn Ðộ)."}
+      {"k": "m", "t": "người theo đạo phái Pácxi (Bái hỏa giáo Ba Tư, Ấn Độ)."}
     ],
     "ipa": ",pa:'si",
     "k": "parsee"
@@ -30775,7 +30775,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Parsee) Tên đặt cho những tín đồ Ấn Ðộ đi theo tôn giáo Ba Tư cổ đại của đạo thờ lửa. Tín đồ Parsi di cư đến Ấn Ðộ từ Iran vào khoảng thế kỷ 8 đến thế kỷ 10 để tránh sự khủng bố của đạo Hồi. Tín ngưỡng và sự thờ phụng của họ dựa theo avesta, kinh quy về Zoroaster (628-c. 551 trước công nguyên, còn được biết với tên gọi Zarathustra). Parsi là những người theo đạo thờ một thần, chỉ tin tưởng vào một vị thánh. Nhưng họ tán thành đức tin của những người theo thuyết nhị nguyên rằng trái đất là một chiến trường quyền lực giữa cái tốt (Ahura Mazda) và cái xấu (Angra Mainyu). Thực tiễn tôn giáo bao gồm đền thờ lửa, nơi một ngọn đèn thần luôn được thắp sáng, và tòa tháp im lặng, nơi phơi bày cái chết. Tín đồ Parsi ở Ấn Ðộ sinh sống chủ yếu ở Bombay và các vùng lân cận. Họ thành lập một nhóm giàu có, gia giáo và có thế lực, nổi bật là vai trò bình đẳng của phụ nữ trong xã hội. Ở Iran, một giáo phái tên là Gabars, với khoảng 25.000 tín đồ duy trì truyền thống của đạo thờ lửa. Cũng có một số cộng đồng tín đồ Parsi đáng chú ý bên ngoài Ấn Ðộ, như ở London."
+        "t": "(Parsee) Tên đặt cho những tín đồ Ấn Độ đi theo tôn giáo Ba Tư cổ đại của đạo thờ lửa. Tín đồ Parsi di cư đến Ấn Độ từ Iran vào khoảng thế kỷ 8 đến thế kỷ 10 để tránh sự khủng bố của đạo Hồi. Tín ngưỡng và sự thờ phụng của họ dựa theo avesta, kinh quy về Zoroaster (628-c. 551 trước công nguyên, còn được biết với tên gọi Zarathustra). Parsi là những người theo đạo thờ một thần, chỉ tin tưởng vào một vị thánh. Nhưng họ tán thành đức tin của những người theo thuyết nhị nguyên rằng trái đất là một chiến trường quyền lực giữa cái tốt (Ahura Mazda) và cái xấu (Angra Mainyu). Thực tiễn tôn giáo bao gồm đền thờ lửa, nơi một ngọn đèn thần luôn được thắp sáng, và tòa tháp im lặng, nơi phơi bày cái chết. Tín đồ Parsi ở Ấn Độ sinh sống chủ yếu ở Bombay và các vùng lân cận. Họ thành lập một nhóm giàu có, gia giáo và có thế lực, nổi bật là vai trò bình đẳng của phụ nữ trong xã hội. Ở Iran, một giáo phái tên là Gabars, với khoảng 25.000 tín đồ duy trì truyền thống của đạo thờ lửa. Cũng có một số cộng đồng tín đồ Parsi đáng chú ý bên ngoài Ấn Độ, như ở London."
       }
     ],
     "k": "parsi"
@@ -31715,7 +31715,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðất nước Châu Á cổ đại. Nó có nguồn gốc là một Satrapy của đế chế Achaemenid, sau đó nằm dưới sự kiểm soát của Seleucids. Ðế chế Parthia bắt đầu theo truyền thống từ năm 247 trước công nguyên, khi Arsaces I chỉ huy nhân dân của ông trong một cuộc khởi nghĩa chống lại Seleucids. Vào khoảng cuối thế kỷ 2 trước công nguyên, họ cai trị từ sông Euphrates ở phía tây đến Afghanistan nằm ở phía đông và xa đến phía bắc là sông Oxus. Năm 53 trước công nguyên, họ đánh bại La Mã tại Carrhae do Crassus lãnh đạo. Người Parthia không bao giờ phát triển lớn mạnh hơn để trở thành tầng lớp quý tộc quân sự, mặc dù vị trí địa lý hoàn toàn cho phép họ tư bản hóa thương mại giữa hai miền Ðông, Tây. Quyền lực của họ kết thúc năm 224 sau công nguyên khi Ardashir của Ba Tư đánh bại Artabanus V trong trận chiến. Từ đó ông thành lập đế chế Sassania."
+        "t": "Đất nước Châu Á cổ đại. Nó có nguồn gốc là một Satrapy của đế chế Achaemenid, sau đó nằm dưới sự kiểm soát của Seleucids. Đế chế Parthia bắt đầu theo truyền thống từ năm 247 trước công nguyên, khi Arsaces I chỉ huy nhân dân của ông trong một cuộc khởi nghĩa chống lại Seleucids. Vào khoảng cuối thế kỷ 2 trước công nguyên, họ cai trị từ sông Euphrates ở phía tây đến Afghanistan nằm ở phía đông và xa đến phía bắc là sông Oxus. Năm 53 trước công nguyên, họ đánh bại La Mã tại Carrhae do Crassus lãnh đạo. Người Parthia không bao giờ phát triển lớn mạnh hơn để trở thành tầng lớp quý tộc quân sự, mặc dù vị trí địa lý hoàn toàn cho phép họ tư bản hóa thương mại giữa hai miền Đông, Tây. Quyền lực của họ kết thúc năm 224 sau công nguyên khi Ardashir của Ba Tư đánh bại Artabanus V trong trận chiến. Từ đó ông thành lập đế chế Sassania."
       }
     ],
     "k": "parthia"
@@ -31849,7 +31849,7 @@
   {
     "h": "Partial adjustment",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðiều chỉnh từng phần."},
+      {"k": "m", "t": "(kinh tế) Điều chỉnh từng phần."},
       {
         "k": "m",
         "t": "Một quá trình mà theo đó hành vi được điều chỉnh một cách không hoàn chỉnh hướng tới một mức mong muốn nào đó."
@@ -31933,7 +31933,7 @@
   },
   {
     "h": "partial cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh một phần."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh một phần."}],
     "k": "partial cataract"
   },
   {
@@ -32526,7 +32526,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ôxi hóa không hoàn toàn"}],
     "k": "partial oxidation"
   },
-  {"h": "partial pack", "segs": [{"k": "m", "t": "Ðắp khãn ướt bộ phận."}], "k": "partial pack"},
+  {"h": "partial pack", "segs": [{"k": "m", "t": "Đắp khãn ướt bộ phận."}], "k": "partial pack"},
   {"h": "partial page", "segs": [{"k": "m", "t": "trang riêng."}], "k": "partial page"},
   {
     "h": "Partial Page (PP)",
@@ -34404,13 +34404,13 @@
       {"k": "m", "t": "(chính trị) sự chia cắt một nước thành hai hoặc nhiều nước"},
       {"k": "m", "t": "sự chia cắt đất nước"},
       {"k": "ex", "t": "the partition of India in", "vi": "1947"},
-      {"k": "m", "t": "sự chia cắt Ấn Ðộ năm 1947"},
+      {"k": "m", "t": "sự chia cắt Ấn Độ năm 1947"},
       {"k": "m", "t": "(pháp lý) sự chia tài sản"},
       {"k": "pos", "t": "ngoại động từ"},
       {"k": "m", "t": "phân chia thành nhiều phần"},
       {"k": "m", "t": "chia cắt"},
       {"k": "ex", "t": "India was partitioned in", "vi": "1947"},
-      {"k": "m", "t": "Ấn Ðộ bị chia cắt năm 1947"},
+      {"k": "m", "t": "Ấn Độ bị chia cắt năm 1947"},
       {
         "k": "ex",
         "t": "to partition something off",
@@ -34782,7 +34782,7 @@
     "segs": [
       {"k": "pos", "t": "phó từ"},
       {"k": "m", "t": "đến chừng mực nào đó, phần nào (không toàn bộ)"},
-      {"k": "ex", "t": "It was partly her fault", "vi": "Ðó một phần là lỗi của cô ta"},
+      {"k": "ex", "t": "It was partly her fault", "vi": "Đó một phần là lỗi của cô ta"},
       {
         "k": "ex",
         "t": "She was only partly responsible for the scandal",
@@ -35163,15 +35163,15 @@
     "segs": [{"k": "m", "t": "1. (sự) đe"}, {"k": "m", "t": "2. trẻ sinh ra."}],
     "k": "partus"
   },
-  {"h": "partus agrippinus", "segs": [{"k": "m", "t": "Ðẻ ngôi mông."}], "k": "partus agrippinus"},
+  {"h": "partus agrippinus", "segs": [{"k": "m", "t": "Đẻ ngôi mông."}], "k": "partus agrippinus"},
   {
     "h": "partus caesareus",
     "segs": [{"k": "m", "t": "Mổ Cesar, mổ lấy thai."}],
     "k": "partus caesareus"
   },
-  {"h": "partus immaturus", "segs": [{"k": "m", "t": "Ðẻ non."}], "k": "partus immaturus"},
-  {"h": "partus maturus", "segs": [{"k": "m", "t": "Ðẻ đủ tháng."}], "k": "partus maturus"},
-  {"h": "partus prematrus", "segs": [{"k": "m", "t": "Ðẻ non."}], "k": "partus prematrus"},
+  {"h": "partus immaturus", "segs": [{"k": "m", "t": "Đẻ non."}], "k": "partus immaturus"},
+  {"h": "partus maturus", "segs": [{"k": "m", "t": "Đẻ đủ tháng."}], "k": "partus maturus"},
+  {"h": "partus prematrus", "segs": [{"k": "m", "t": "Đẻ non."}], "k": "partus prematrus"},
   {
     "h": "partway",
     "segs": [{"k": "pos", "t": "phó từ"}, {"k": "m", "t": "một phần"}, {"k": "m", "t": "phần nào."}],
@@ -35832,7 +35832,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Pa-xcan, 1623-1662) nhà triết học, nhà văn, nhà toán học và vật lý học Pháp. Sinh trưởng trong một gia đình luật sư có học thức cao, chuyên về toán học. Ông sớm thể hiện có những khả năng toán học xuất chúng, đi vào lịch sử toán học như một điển hình thiên tài niên thiếu. Bản chuyên luận toán học đầu tiên của Pascal \"Thử nghiệm về các thiết diện conic\" (1640) chứa đựng một trong những định lý cơ bản của hình học họa hình-định lý Pascal. Năm 1641 (năm 1642, theo tài liệu khác) Pascal chế tạo máy tính cộng. Ðến 1654 ông đã hoàn thành hàng loạt công trình về số học, lý thuyết số, đại số học và lý thuyết xác suất (công bố vào năm 1665). Phạm vi hứng thú toán học của Pascal rất đa dạng. Ông đề ra thuật toán tổng quát để tìm, bằng các dấu hiệu, tính chia hết của một số nguyên bất kỳ với một số nguyên bất kỳ khác, phương pháp tính các hệ số nhị thức (tam giác Pascal). Ông đã phát biểu hàng loạt những luận điểm cơ bản của lý thuyết sơ cấp về xác suất. Lần đầu tiên Pascal định nghĩa chính xác và vận dụng phương pháp qui nạp toán học để chứng minh. Những công trình của Pascal có chứa đựng phương pháp tích phân trình bày dưới dạng hình học để giải hàng loạt những bài toán về tính diện tích của các hình, thể tích và diện tích mặt của các cố thể, và cả những bài toán khác nữa, liên quan với đường cycloid, là một bước tiến cơ bản trong sự phát triển của giải tích các số vô cùng bé. Pasacl là một trong những sáng lập ra thủy tĩnh học cổ điển, ông thiết lập định luật cơ bản của nó, thường gọi là định luật Pascal. Công trình của Pascal về toàn bộ những vấn đề khoa học chính xác, chủ yếu thuộc vào giai đoạn 1640-1650. Pascal đã trải qua kinh nghiệm của chủ nghĩa duy lý máy móc và là nhà tư tưởng đầu tiên đặt ra một cách sắc bén vấn đề ranh giới của \"tính khoa học\" khi ông chỉ ra \"lý lẽ con tim\" khác với \"lý lẽ của trí tuệ\", từ đó cho thấy trước xu hướng phi lý tiếp theo trong triết học. Pascal đóng vai trò quan trọng trong việc hình thành văn xuôi cổ điển Pháp."
+        "t": "(Pa-xcan, 1623-1662) nhà triết học, nhà văn, nhà toán học và vật lý học Pháp. Sinh trưởng trong một gia đình luật sư có học thức cao, chuyên về toán học. Ông sớm thể hiện có những khả năng toán học xuất chúng, đi vào lịch sử toán học như một điển hình thiên tài niên thiếu. Bản chuyên luận toán học đầu tiên của Pascal \"Thử nghiệm về các thiết diện conic\" (1640) chứa đựng một trong những định lý cơ bản của hình học họa hình-định lý Pascal. Năm 1641 (năm 1642, theo tài liệu khác) Pascal chế tạo máy tính cộng. Đến 1654 ông đã hoàn thành hàng loạt công trình về số học, lý thuyết số, đại số học và lý thuyết xác suất (công bố vào năm 1665). Phạm vi hứng thú toán học của Pascal rất đa dạng. Ông đề ra thuật toán tổng quát để tìm, bằng các dấu hiệu, tính chia hết của một số nguyên bất kỳ với một số nguyên bất kỳ khác, phương pháp tính các hệ số nhị thức (tam giác Pascal). Ông đã phát biểu hàng loạt những luận điểm cơ bản của lý thuyết sơ cấp về xác suất. Lần đầu tiên Pascal định nghĩa chính xác và vận dụng phương pháp qui nạp toán học để chứng minh. Những công trình của Pascal có chứa đựng phương pháp tích phân trình bày dưới dạng hình học để giải hàng loạt những bài toán về tính diện tích của các hình, thể tích và diện tích mặt của các cố thể, và cả những bài toán khác nữa, liên quan với đường cycloid, là một bước tiến cơ bản trong sự phát triển của giải tích các số vô cùng bé. Pasacl là một trong những sáng lập ra thủy tĩnh học cổ điển, ông thiết lập định luật cơ bản của nó, thường gọi là định luật Pascal. Công trình của Pascal về toàn bộ những vấn đề khoa học chính xác, chủ yếu thuộc vào giai đoạn 1640-1650. Pascal đã trải qua kinh nghiệm của chủ nghĩa duy lý máy móc và là nhà tư tưởng đầu tiên đặt ra một cách sắc bén vấn đề ranh giới của \"tính khoa học\" khi ông chỉ ra \"lý lẽ con tim\" khác với \"lý lẽ của trí tuệ\", từ đó cho thấy trước xu hướng phi lý tiếp theo trong triết học. Pascal đóng vai trò quan trọng trong việc hình thành văn xuôi cổ điển Pháp."
       }
     ],
     "k": "pascal blaise"
@@ -35944,7 +35944,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Chức vị chính quyền cao nhất do đế chế Ottoman ban cho. Ðược sử dụng sau một tên riêng, nó mang tính chất cá nhân hơn là kế thừa cha truyền con nối. Nó không được trao cho những người có đạo, hiếm khi ban cho phụ nữ. Nó xuất phát từ tiếng Ba Tư padshah và lần đầu tiên được sử dụng bởi SELjUKS. Ottoman sử dụng nó để đặt cho các tể tướng và thống đốc tỉnh."
+        "t": "Chức vị chính quyền cao nhất do đế chế Ottoman ban cho. Được sử dụng sau một tên riêng, nó mang tính chất cá nhân hơn là kế thừa cha truyền con nối. Nó không được trao cho những người có đạo, hiếm khi ban cho phụ nữ. Nó xuất phát từ tiếng Ba Tư padshah và lần đầu tiên được sử dụng bởi SELjUKS. Ottoman sử dụng nó để đặt cho các tể tướng và thống đốc tỉnh."
       }
     ],
     "k": "pasha"
@@ -36646,7 +36646,7 @@
       {
         "k": "ex",
         "t": "Don't try to pass the buck! It's your fault, and everybody knows it:",
-        "vi": "Ðừng cố đổ lỗi cho người khác! Ðó là lỗi của anh, và mọi người đều biết điều đó."
+        "vi": "Đừng cố đổ lỗi cho người khác! Đó là lỗi của anh, và mọi người đều biết điều đó."
       },
       {
         "k": "ex",
@@ -38036,7 +38036,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "("},
       {"k": "ex", "t": "Passion Sunday", "vi": ") Chủ Nhật thụ hình"},
-      {"k": "m", "t": "ngày Chủ Nhật thứ năm trong mùa chay (trong Cơ Ðốc giáo)."}
+      {"k": "m", "t": "ngày Chủ Nhật thứ năm trong mùa chay (trong Cơ Đốc giáo)."}
     ],
     "ipa": "'pæʃnsʌndi",
     "k": "passion sunday"
@@ -38734,7 +38734,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phong trào kháng cự phi bạo lực đối với chính phủ hay hệ thống cầm quyền. Nó thường liên quan đến việc từ chối hợp tác với nhà cầm quyền hoặc một mối bất hòa đối với luật pháp và các quy định. Ðây là vũ khí chính của các nhà yêu nước, phong trào kháng cự và xã hội trong thời hiện đại. Một trong những chiến dịch thành công nhất do Gandhi hỗ trợ tài chính chống lại quyền cai trị Anh ở Ấn Ðộ, khi tình trạng rối loạn lan rộng và phá bỏ lòng tin rằng Anh có thể nhượng bộ (xem thêm Phong trào bất hợp tác). Trường hợp này của Gandhi đã tạo nên nguồn cổ vũ với phong trào Quyền công dân ở Mỹ trong thập niên 1950. Nơi kháng cự tiêu cực, biểu tình quy mô lớn, và phá vỡ các luật lệ phân ly một cách cân nhắc mang lại sự phát triển lớn lao đối với dân da đen. Những phương pháp tương tự thất bại trong những chế độ tự do, điển hình ở Trung Quốc. Khi cuộc biểu tình Thiên An Môn, Bắc Kinh năm 1989 đã bị đàn áp đẫm máu."
+        "t": "Phong trào kháng cự phi bạo lực đối với chính phủ hay hệ thống cầm quyền. Nó thường liên quan đến việc từ chối hợp tác với nhà cầm quyền hoặc một mối bất hòa đối với luật pháp và các quy định. Đây là vũ khí chính của các nhà yêu nước, phong trào kháng cự và xã hội trong thời hiện đại. Một trong những chiến dịch thành công nhất do Gandhi hỗ trợ tài chính chống lại quyền cai trị Anh ở Ấn Độ, khi tình trạng rối loạn lan rộng và phá bỏ lòng tin rằng Anh có thể nhượng bộ (xem thêm Phong trào bất hợp tác). Trường hợp này của Gandhi đã tạo nên nguồn cổ vũ với phong trào Quyền công dân ở Mỹ trong thập niên 1950. Nơi kháng cự tiêu cực, biểu tình quy mô lớn, và phá vỡ các luật lệ phân ly một cách cân nhắc mang lại sự phát triển lớn lao đối với dân da đen. Những phương pháp tương tự thất bại trong những chế độ tự do, điển hình ở Trung Quốc. Khi cuộc biểu tình Thiên An Môn, Bắc Kinh năm 1989 đã bị đàn áp đẫm máu."
       }
     ],
     "k": "passive resistance"
@@ -39765,7 +39765,7 @@
   },
   {
     "h": "pasteurized",
-    "segs": [{"k": "m", "t": "(kem, sữa,...) Ðun sôi."}],
+    "segs": [{"k": "m", "t": "(kem, sữa,...) Đun sôi."}],
     "ipa": "pæstʃəraizd",
     "k": "pasteurized",
     "q": {"vi": "tiêm phòng bệnh dại", "ipa": "'pæstəraizd", "rs": "pé s thờ roài zđ"}
@@ -39980,7 +39980,7 @@
   },
   {
     "h": "pastor Angelicus",
-    "segs": [{"k": "m", "t": "Mục tử thiên thần (Ðức Piô XII)."}],
+    "segs": [{"k": "m", "t": "Mục tử thiên thần (Đức Piô XII)."}],
     "k": "pastor angelicus"
   },
   {
@@ -40485,7 +40485,7 @@
   },
   {
     "h": "patamar",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thuyền buôn ở duyên hải Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thuyền buôn ở duyên hải Ấn Độ."}],
     "ipa": "'pætəma:",
     "k": "patamar"
   },
@@ -41889,7 +41889,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phong trào cộng sản Lào. Trong cuộc đấu tranh giành độc lập sau Chiến tranh thế giới II, lực lượng quân Pathet Lao phối hợp với quân đội Việt Minh chống thực dân Pháp. Sau Hiệp định Geneva nó nổi lên là một lực lượng quân sự và chính trị chủ lực của Lào. Nó theo đuổi mục tiêu liên kết quốc gia với cộng sản Trung Quốc và Bắc Việt Nam. Giai đoạn giữa thập niên 1950 và giữa thập niên 1970 Pathet Lao và cánh chính trị của nó Neo Lao Haksat (Ðảng ái quốc Lào) dưới sự lãnh đạo của Hoàng thân Souphanouvong đã tiến hành một cuộc đấu tranh chính trị và quân sự trường kỳ giành quyền lực với lực lượng quân chính phủ phi cộng sản. Cuối cùng họ đã giành được thắng lợi với sự kiện thành lập Cộng hòa dân chủ nhân dân Lào năm 1975."
+        "t": "Phong trào cộng sản Lào. Trong cuộc đấu tranh giành độc lập sau Chiến tranh thế giới II, lực lượng quân Pathet Lao phối hợp với quân đội Việt Minh chống thực dân Pháp. Sau Hiệp định Geneva nó nổi lên là một lực lượng quân sự và chính trị chủ lực của Lào. Nó theo đuổi mục tiêu liên kết quốc gia với cộng sản Trung Quốc và Bắc Việt Nam. Giai đoạn giữa thập niên 1950 và giữa thập niên 1970 Pathet Lao và cánh chính trị của nó Neo Lao Haksat (Đảng ái quốc Lào) dưới sự lãnh đạo của Hoàng thân Souphanouvong đã tiến hành một cuộc đấu tranh chính trị và quân sự trường kỳ giành quyền lực với lực lượng quân chính phủ phi cộng sản. Cuối cùng họ đã giành được thắng lợi với sự kiện thành lập Cộng hòa dân chủ nhân dân Lào năm 1975."
       }
     ],
     "k": "pathet lao"
@@ -42114,7 +42114,7 @@
     "k": "pathognomonic symptom"
   },
   {"h": "pathognomy", "segs": [{"k": "m", "t": "Triệu chứng học."}], "k": "pathognomy"},
-  {"h": "pathognostic", "segs": [{"k": "m", "t": "Ðặc trưưng của bệnh."}], "k": "pathognostic"},
+  {"h": "pathognostic", "segs": [{"k": "m", "t": "Đặc trưưng của bệnh."}], "k": "pathognostic"},
   {"h": "patholesia", "segs": [{"k": "m", "t": "Bệnh hysteria."}], "k": "patholesia"},
   {
     "h": "pathologic",
@@ -42539,7 +42539,7 @@
   },
   {
     "h": "Patna rice",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "gạo Patna (Ấn Ðộ) hạt dài."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "gạo Patna (Ấn Độ) hạt dài."}],
     "ipa": "'pætnərais",
     "k": "patna rice"
   },
@@ -45308,7 +45308,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một bộ tộc thổ dân Châu Mỹ truyền từ nền văn minh Mississippi ở phía Tây sông Missouri thuộc vùng Nebraska. Vào khoảng năm e. 1000 sau công nguyên, họ là những nông dân sống ở các làng cố định và săn bắn theo mùa. Một số chấp nhận đời sống di cư trên các vùng Ðồng bằng Lớn vào thế kỷ 15 và 16. Cuối thế kỷ 17 và 18 săn trâu trở nên rất quan trọng cũng như ngựa. Sau đó họ giành được súng từ phía bắc Mexico."
+        "t": "Một bộ tộc thổ dân Châu Mỹ truyền từ nền văn minh Mississippi ở phía Tây sông Missouri thuộc vùng Nebraska. Vào khoảng năm e. 1000 sau công nguyên, họ là những nông dân sống ở các làng cố định và săn bắn theo mùa. Một số chấp nhận đời sống di cư trên các vùng Đồng bằng Lớn vào thế kỷ 15 và 16. Cuối thế kỷ 17 và 18 săn trâu trở nên rất quan trọng cũng như ngựa. Sau đó họ giành được súng từ phía bắc Mexico."
       }
     ],
     "k": "pawnee"
@@ -45359,7 +45359,7 @@
     "ipa": "pæks",
     "k": "pax"
   },
-  {"h": "Pax Christi", "segs": [{"k": "m", "t": "Tổ chức hòa bình Ðức Kitô."}], "k": "pax christi"},
+  {"h": "Pax Christi", "segs": [{"k": "m", "t": "Tổ chức hòa bình Đức Kitô."}], "k": "pax christi"},
   {
     "h": "Pax Romana",
     "segs": [
@@ -47535,7 +47535,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1478) Một âm mưu bất thành nhằm lật đổ chế độ cai trị Medici ở Florence. Ðối thủ là gia đình Pazzi, do Giáo hoàng Sixtus IV chống lưng, âm mưu ám sát Giuliano và Lorenzo de Medici tại High Mass ở Thánh đường Florence để giành quyền lực. Mặc dù Guiliano đã bị ám sát theo kế hoạch nhưng Lorenzo lại trốn thoát. Quần chúng ủng hộ Medici và đã bắt, hành hình những kẻ chủ mưu chính."
+        "t": "(1478) Một âm mưu bất thành nhằm lật đổ chế độ cai trị Medici ở Florence. Đối thủ là gia đình Pazzi, do Giáo hoàng Sixtus IV chống lưng, âm mưu ám sát Giuliano và Lorenzo de Medici tại High Mass ở Thánh đường Florence để giành quyền lực. Mặc dù Guiliano đã bị ám sát theo kế hoạch nhưng Lorenzo lại trốn thoát. Quần chúng ủng hộ Medici và đã bắt, hành hình những kẻ chủ mưu chính."
       }
     ],
     "k": "pazzi conspiracy"

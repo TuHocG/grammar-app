@@ -43,7 +43,7 @@
     "h": "dhal",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(dal) 1. một loại đậu ở Ấn Ðộ 2. món ăn làm bằng đậu nành."}
+      {"k": "m", "t": "(dal) 1. một loại đậu ở Ấn Độ 2. món ăn làm bằng đậu nành."}
     ],
     "ipa": "da:l",
     "k": "dhal"
@@ -159,7 +159,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "snh."},
-      {"k": "ex", "t": "dhobies", "vi": "người làm nghề giặt quần áo ở Ấn Ðộ."}
+      {"k": "ex", "t": "dhobies", "vi": "người làm nghề giặt quần áo ở Ấn Độ."}
     ],
     "ipa": "'doubi",
     "k": "dhobi"
@@ -236,7 +236,7 @@
     "h": "dhoti",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(Anh-Ấn) cái khố che hạ bộ của đàn ông Ấn Ðộ."}
+      {"k": "m", "t": "(Anh-Ấn) cái khố che hạ bộ của đàn ông Ấn Độ."}
     ],
     "ipa": "'douti",
     "k": "dhoti"

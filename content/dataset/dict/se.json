@@ -3,8 +3,8 @@
     "h": "se",
     "segs": [
       {"k": "m", "t": "(tắt) ("},
-      {"k": "ex", "t": "SE) Ðông Nam (South-East", "vi": "(ern))"},
-      {"k": "ex", "t": "SE Asia", "vi": "Ðông Nam A."}
+      {"k": "ex", "t": "SE) Đông Nam (South-East", "vi": "(ern))"},
+      {"k": "ex", "t": "SE Asia", "vi": "Đông Nam A."}
     ],
     "ipa": ",es 'i:",
     "k": "se"
@@ -56,7 +56,7 @@
       {"k": "m", "t": "("},
       {"k": "ex", "t": "Sea", "vi": ") vùng biển riêng (nhỏ hơn đại dương)"},
       {"k": "m", "t": "hồ nước ngọt, hồ nước mặn lớn nằm trong đất liền"},
-      {"k": "ex", "t": "the Mediterranean Sea", "vi": "Ðịa Trung Hải"},
+      {"k": "ex", "t": "the Mediterranean Sea", "vi": "Địa Trung Hải"},
       {"k": "ex", "t": "the Caspian Sea", "vi": "biển Caxpi"},
       {"k": "m", "t": "(số nhiều) sự chuyển động của sóng biển"},
       {"k": "ex", "t": "a heavy sea", "vi": "biển động"},
@@ -102,7 +102,7 @@
     "ipa": "'si:ə'neməni",
     "k": "sea anemone"
   },
-  {"h": "sea animal", "segs": [{"k": "m", "t": "(dt) Ðộng vật ở biển."}], "k": "sea animal"},
+  {"h": "sea animal", "segs": [{"k": "m", "t": "(dt) Động vật ở biển."}], "k": "sea animal"},
   {"h": "sea approach", "segs": [{"k": "m", "t": "từ biển tiến vào."}], "k": "sea approach"},
   {
     "h": "sea area",
@@ -761,7 +761,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "Sea Lord", "vi": ") một trong bốn thành viên hải quân của Hội đồng Ðô đốc."}
+      {"k": "ex", "t": "Sea Lord", "vi": ") một trong bốn thành viên hải quân của Hội đồng Đô đốc."}
     ],
     "ipa": "'si'lɔ:d",
     "k": "sea lord"
@@ -930,7 +930,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là những toán người sinh sống trên biển chuyên nghề cướp bóc, thường tấn công các quốc gia ở phía Ðông Ðịa Trung Hải vào cuối thế kỷ 13, đầu thế kỷ 12 trước công nguyên. Họ bao gồm người Hy Lạp, Sardinians và Tyrrhenians. Hoạt động và hành tung của họ rất bí ẩn. Họ cũng chính là lực lượng đã góp phần lật đổ đế chế Hittite vào năm 1200 trước Công Nguyên, tấn công các tàu buôn của Ai Cập rất nhiều lần. Một nhóm trong số họ sau đó đã định cư thành công trên đất liền. Ðó là người Philistines."
+        "t": "Đây là những toán người sinh sống trên biển chuyên nghề cướp bóc, thường tấn công các quốc gia ở phía Đông Địa Trung Hải vào cuối thế kỷ 13, đầu thế kỷ 12 trước công nguyên. Họ bao gồm người Hy Lạp, Sardinians và Tyrrhenians. Hoạt động và hành tung của họ rất bí ẩn. Họ cũng chính là lực lượng đã góp phần lật đổ đế chế Hittite vào năm 1200 trước Công Nguyên, tấn công các tàu buôn của Ai Cập rất nhiều lần. Một nhóm trong số họ sau đó đã định cư thành công trên đất liền. Đó là người Philistines."
       }
     ],
     "k": "sea peoples"
@@ -3864,7 +3864,7 @@
   },
   {
     "h": "seamp",
-    "segs": [{"k": "m", "t": "(dt) (cũ, xấu) Ðứa (trẻ) nghịch ngợm."}],
+    "segs": [{"k": "m", "t": "(dt) (cũ, xấu) Đứa (trẻ) nghịch ngợm."}],
     "ipa": "skæmp",
     "k": "seamp"
   },
@@ -4877,7 +4877,7 @@
   {
     "h": "Seasonal adjustment",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðiều chỉnh thời vụ."},
+      {"k": "m", "t": "(kinh tế) Điều chỉnh thời vụ."},
       {
         "k": "m",
         "t": "Tên gọi của bất kỳ một quy trình nào trong đó có tác động thời vụ được tính đến hoặc thường hay được loại bỏ khỏi dự liệu."
@@ -5644,7 +5644,7 @@
     ],
     "k": "seatmate"
   },
-  {"h": "SEATO", "segs": [{"k": "m", "t": "Tổ chức thỏa hiệp Ðông Nam Á."}], "k": "seato"},
+  {"h": "SEATO", "segs": [{"k": "m", "t": "Tổ chức thỏa hiệp Đông Nam Á."}], "k": "seato"},
   {"h": "seatoad", "segs": [{"k": "ref", "t": "như sea-toad."}], "ipa": "ˈsi:'təʊd", "k": "seatoad"},
   {
     "h": "seatrain",
@@ -6940,7 +6940,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Mặt trận thứ hai. Ðây là tên gọi mặt trận do Mỹ và Anh mở ra trên lục địa châu Âu trong cuộc chiến tranh thế giới thứ II. Mặt trận thứ nhất (ít được dùng) là chiến trường phía Ðông do Liên Xô chống lại lực lượng phát xít. Năm 1941, chính quyền Liên Xô đã gây áp lực đòi phe đồng minh phải mở mặt trận thứ hai để giảm bớt sức mạnh quân sự của nước Ðức. Niềm hi vọng nó sớm được bắt đầu vào năm 1942 đã tắt khi Churchill một mực cho rằng chưa chuẩn bị đủ tài lực. Sau khi hứng chịu trận tấn công bất ngờ bằng bom bay, yêu cầu này càng trở nên cấp bách. Cùng lúc đó, Liên Xô và Mỹ không ngừng chỉ trích Anh đã quá chậm chạp khi trì hoãn đến hết năm 1943. Cuối cùng, khi Ðức đổ bộ vào cảng Normandy, mặt trận thứ hai mới chính thức nổ ra vào tháng 6 năm 1944 nhưng thất bại một cách dễ dàng bởi sự phối hợp quá vội vàng."
+        "t": "Mặt trận thứ hai. Đây là tên gọi mặt trận do Mỹ và Anh mở ra trên lục địa châu Âu trong cuộc chiến tranh thế giới thứ II. Mặt trận thứ nhất (ít được dùng) là chiến trường phía Đông do Liên Xô chống lại lực lượng phát xít. Năm 1941, chính quyền Liên Xô đã gây áp lực đòi phe đồng minh phải mở mặt trận thứ hai để giảm bớt sức mạnh quân sự của nước Đức. Niềm hi vọng nó sớm được bắt đầu vào năm 1942 đã tắt khi Churchill một mực cho rằng chưa chuẩn bị đủ tài lực. Sau khi hứng chịu trận tấn công bất ngờ bằng bom bay, yêu cầu này càng trở nên cấp bách. Cùng lúc đó, Liên Xô và Mỹ không ngừng chỉ trích Anh đã quá chậm chạp khi trì hoãn đến hết năm 1943. Cuối cùng, khi Đức đổ bộ vào cảng Normandy, mặt trận thứ hai mới chính thức nổ ra vào tháng 6 năm 1944 nhưng thất bại một cách dễ dàng bởi sự phối hợp quá vội vàng."
       }
     ],
     "k": "second front"
@@ -7375,7 +7375,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự nung thử lần thứ hai"}],
     "k": "second reducing firing"
   },
-  {"h": "Second Reich", "segs": [{"k": "m", "t": "Ðế chế Ðại Ðức II"}], "k": "second reich"},
+  {"h": "Second Reich", "segs": [{"k": "m", "t": "Đế chế Đại Đức II"}], "k": "second reich"},
   {
     "h": "Second Republic",
     "segs": [
@@ -7492,12 +7492,12 @@
       {
         "k": "ex",
         "t": "This is an excellent car - second to none:",
-        "vi": "Ðây là một chiếc xe hoàn hảo - Tốt hơn mọi loại xe khác."
+        "vi": "Đây là một chiếc xe hoàn hảo - Tốt hơn mọi loại xe khác."
       },
       {
         "k": "ex",
         "t": "Her suggestion was second to none, and the manager accepted it eagerly:",
-        "vi": "Ðề nghị của cô ấy tốt nhất, và ông giám đốc hăng hái chấp nhận nó."
+        "vi": "Đề nghị của cô ấy tốt nhất, và ông giám đốc hăng hái chấp nhận nó."
       }
     ],
     "k": "second to none"
@@ -8652,7 +8652,7 @@
   },
   {
     "h": "secondary dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh thứ phát."}],
+    "segs": [{"k": "m", "t": "Đau kinh thứ phát."}],
     "k": "secondary dysmenorrhea"
   },
   {"h": "secondary effect", "segs": [{"k": "m", "t": "hiệu quả thứ cấp."}], "k": "secondary effect"},
@@ -9698,7 +9698,7 @@
   },
   {
     "h": "secondary sex character",
-    "segs": [{"k": "m", "t": "Ðặc điểm sinh dục thứ cấp."}],
+    "segs": [{"k": "m", "t": "Đặc điểm sinh dục thứ cấp."}],
     "k": "secondary sex character"
   },
   {
@@ -10902,7 +10902,7 @@
       {"k": "m", "t": "phái"},
       {"k": "m", "t": "môn phái"},
       {"k": "m", "t": "giáo phái"},
-      {"k": "ex", "t": "a minor Christian sect", "vi": "một phái nhỏ của Cơ Ðốc giáo"},
+      {"k": "ex", "t": "a minor Christian sect", "vi": "một phái nhỏ của Cơ Đốc giáo"},
       {"k": "m", "t": "(tắt) phần (nhất là của một tài liệu) ("},
       {"k": "ex", "t": "section", "vi": ")"},
       {"k": "ex", "t": "clause 3 sect", "vi": "2 điều khoản 3, phần 2."}
@@ -11745,27 +11745,27 @@
   },
   {
     "h": "sectiones medullae oblongatae",
-    "segs": [{"k": "m", "t": "Ðoạn hành não."}],
+    "segs": [{"k": "m", "t": "Đoạn hành não."}],
     "k": "sectiones medullae oblongatae"
   },
   {
     "h": "sectiones medullae spinalis",
-    "segs": [{"k": "m", "t": "Ðoạn tủy sống."}],
+    "segs": [{"k": "m", "t": "Đoạn tủy sống."}],
     "k": "sectiones medullae spinalis"
   },
   {
     "h": "sectiones mesencephali",
-    "segs": [{"k": "m", "t": "Ðoạn trung não."}],
+    "segs": [{"k": "m", "t": "Đoạn trung não."}],
     "k": "sectiones mesencephali"
   },
   {
     "h": "sectiones telencephali",
-    "segs": [{"k": "m", "t": "Ðoạn đoan não."}],
+    "segs": [{"k": "m", "t": "Đoạn đoan não."}],
     "k": "sectiones telencephali"
   },
   {
     "h": "sectiones thalamencephali",
-    "segs": [{"k": "m", "t": "Ðoạn não đồi."}],
+    "segs": [{"k": "m", "t": "Đoạn não đồi."}],
     "k": "sectiones thalamencephali"
   },
   {"h": "sectioning", "segs": [{"k": "m", "t": "sự chia ra, nhiều đoạn."}], "k": "sectioning"},
@@ -12147,7 +12147,7 @@
   {
     "h": "Secular supply curve",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðường cung lao động trường kỳ."},
+      {"k": "m", "t": "(kinh tế) Đường cung lao động trường kỳ."},
       {
         "k": "m",
         "t": "Khái niệm cung trong đoạn thuật ngữ này thường được hiểu là tổng tỉ lệ tham gia vào lực lượng lao động."
@@ -12979,7 +12979,7 @@
       {
         "k": "ex",
         "t": "there was tight security for the Pope's visit",
-        "vi": "đã có biện pháp an ninh chặt chẽ cho chuyến viếng thăm của Ðức Giáo hoàng"
+        "vi": "đã có biện pháp an ninh chặt chẽ cho chuyến viếng thăm của Đức Giáo hoàng"
       },
       {"k": "ex", "t": "we need greater security", "vi": "chúng tôi cần được an ninh hơn nữa"},
       {"k": "ex", "t": "national security", "vi": "an ninh quốc gia"},
@@ -13118,7 +13118,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đường đặc thù chứng khoán. Ðường hồi quy lợi nhuận của một chứng khoán theo lợi nhuận của thị trường. Ðộ dốc của đường hồi quy là hệ số beta của chứng khoán."
+        "t": "đường đặc thù chứng khoán. Đường hồi quy lợi nhuận của một chứng khoán theo lợi nhuận của thị trường. Độ dốc của đường hồi quy là hệ số beta của chứng khoán."
       }
     ],
     "k": "security characteristic line"
@@ -13684,7 +13684,7 @@
   },
   {
     "h": "Sedes Sapientiae",
-    "segs": [{"k": "m", "t": "Tòa Khôn ngoan (tước hiệu ÐM)."}],
+    "segs": [{"k": "m", "t": "Tòa Khôn ngoan (tước hiệu ĐM)."}],
     "k": "sedes sapientiae"
   },
   {
@@ -14003,7 +14003,7 @@
   },
   {
     "h": "sedimentary cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh trầm tích, đục thể thủy tinh lắng đọng."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh trầm tích, đục thể thủy tinh lắng đọng."}],
     "k": "sedimentary cataract"
   },
   {
@@ -14831,7 +14831,7 @@
       {
         "k": "ex",
         "t": "It's going to be an unpleasant experience, but I hope you'll see it through:",
-        "vi": "Ðó sẽ là một kinh nghiệm không thú vị, nhưng tôi hy vọng bạn sẽ theo nó đến cùng."
+        "vi": "Đó sẽ là một kinh nghiệm không thú vị, nhưng tôi hy vọng bạn sẽ theo nó đến cùng."
       }
     ],
     "k": "see something through"
@@ -16142,8 +16142,8 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "người trông thấy"},
       {"k": "m", "t": "nhà tiên tri"},
-      {"k": "m", "t": "cân Ấn Ðộ (khoảng 0,9kg)"},
-      {"k": "m", "t": "lít Ấn Ðộ."}
+      {"k": "m", "t": "cân Ấn Độ (khoảng 0,9kg)"},
+      {"k": "m", "t": "lít Ấn Độ."}
     ],
     "ipa": "'si:ə",
     "k": "seer"
@@ -16154,7 +16154,7 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "seir-fish"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(động) cá thu Ấn Ðộ."}
+      {"k": "m", "t": "(động) cá thu Ấn Độ."}
     ],
     "ipa": "'siə'fiʃ",
     "k": "seer-fish"
@@ -20340,7 +20340,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Triều đại Macedonian thống trị hầu hết các quốc gia châu Á từ năm 312 trước Công Nguyên dưới thời vua Seleucus I. Ông được xem như ngang hàng với Alexander đại đế khi sáp nhập cả vùng Media và Susiana vào đế quốc Babylon. Các cuộc chinh phục mở rộng đế quốc về phía Tây gồm có: chiếm Syria, thành lập chế độ Antioch năm 300 trước Công Nguyên; đánh bại Lysimachus năm 281, củng cố quyền kiểm soát các tiểu quốc gia châu Á. Dưới thời người kế vị của ông, Syria và các tiểu quốc châu Á đã đôi lần bị mất đi nhưng giành lại được. Trong khi đó, ở phía Ðông, Bactria tuyên bố độc lập và vương quốc Parthian được thành lập. Antiochus III (cai trị từ năm 223-187 trước Công Nguyên) đã đưa quân chinh phạt hai xứ sở này nhằm khẳng định vương quyền của mình. Ông cũng đồng thời tái chiếm Syria và Palestine. Tuy nhiên, khi tiến vào Thrace và tràn sang Hy Lạp, ông đã đụng chạm đến đế quốc La Mã. Ông đã bị thua trận tại Thermopylae và Magnesia và phải ký hiệp ước hòa bình năm 188. Trong đó quy định ông không được vượt ra khỏi phạm vi các tiểu quốc gia châu Á. Sau đó, vương triều Seleucid suy yếu dần. Dù có giành lại chủ quyền vào năm 126 trước Công Nguyên cùng với việc thành lập một số thành phố mới. Ðến năm 64 trước Công Nguyên, Syria chính thức trở thành một tỉnh của đế quốc La Mã."
+        "t": "Triều đại Macedonian thống trị hầu hết các quốc gia châu Á từ năm 312 trước Công Nguyên dưới thời vua Seleucus I. Ông được xem như ngang hàng với Alexander đại đế khi sáp nhập cả vùng Media và Susiana vào đế quốc Babylon. Các cuộc chinh phục mở rộng đế quốc về phía Tây gồm có: chiếm Syria, thành lập chế độ Antioch năm 300 trước Công Nguyên; đánh bại Lysimachus năm 281, củng cố quyền kiểm soát các tiểu quốc gia châu Á. Dưới thời người kế vị của ông, Syria và các tiểu quốc châu Á đã đôi lần bị mất đi nhưng giành lại được. Trong khi đó, ở phía Đông, Bactria tuyên bố độc lập và vương quốc Parthian được thành lập. Antiochus III (cai trị từ năm 223-187 trước Công Nguyên) đã đưa quân chinh phạt hai xứ sở này nhằm khẳng định vương quyền của mình. Ông cũng đồng thời tái chiếm Syria và Palestine. Tuy nhiên, khi tiến vào Thrace và tràn sang Hy Lạp, ông đã đụng chạm đến đế quốc La Mã. Ông đã bị thua trận tại Thermopylae và Magnesia và phải ký hiệp ước hòa bình năm 188. Trong đó quy định ông không được vượt ra khỏi phạm vi các tiểu quốc gia châu Á. Sau đó, vương triều Seleucid suy yếu dần. Dù có giành lại chủ quyền vào năm 126 trước Công Nguyên cùng với việc thành lập một số thành phố mới. Đến năm 64 trước Công Nguyên, Syria chính thức trở thành một tỉnh của đế quốc La Mã."
       }
     ],
     "k": "seleucid"
@@ -29732,7 +29732,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Các hoạt động nhằm cách tân quân đội và thể chế chính trị của Trung quốc vào nửa cuối thế kỷ 19. Ðược khởi xướng vào đầu thập niên 1860 bởi Feng Guifen và sự ủng hộ của Zeng Guofan, Zuo Zongtang, Li Hongzhang và hoàng tử Gong, cuộc cách tân nhằm mục đích đạt được thể chế hoạt động như các nước Tây phương và đáp ứng các nhu cầu cần thiết để nâng cao sức mạnh cho quân đội Trung Quốc. Nổi bật nhất trong những hoạt động cải cách là Zongli Yamen (1861), Văn phòng đại diện cho triều đình nhằm thiết lập các mối quan hệ ngoại giao với nước ngoài; thành lập các kho vũ khí tại Giang Nam (1865), Nam Kinh (1867), hạm đội Beiyang (1888)-lực lượng hải quân hiện đại đầu tiên của Trung Quốc. Ðồng thời, Chính phủ cũng đã tài trợ cho việc du nhập rất nhiều kỹ nghệ hiện đại. Dù vậy, cuộc cách tân này chỉ được thực hiện một cách hời hợt và sớm thất bại bởi sự cản trở bởi những thế lực chính trị ngầm. Cụ thể nhất là sự thất bại nhục nhã trong cuộc chiến tranh Sino-Japanese năm 1894-1895."
+        "t": "Các hoạt động nhằm cách tân quân đội và thể chế chính trị của Trung quốc vào nửa cuối thế kỷ 19. Được khởi xướng vào đầu thập niên 1860 bởi Feng Guifen và sự ủng hộ của Zeng Guofan, Zuo Zongtang, Li Hongzhang và hoàng tử Gong, cuộc cách tân nhằm mục đích đạt được thể chế hoạt động như các nước Tây phương và đáp ứng các nhu cầu cần thiết để nâng cao sức mạnh cho quân đội Trung Quốc. Nổi bật nhất trong những hoạt động cải cách là Zongli Yamen (1861), Văn phòng đại diện cho triều đình nhằm thiết lập các mối quan hệ ngoại giao với nước ngoài; thành lập các kho vũ khí tại Giang Nam (1865), Nam Kinh (1867), hạm đội Beiyang (1888)-lực lượng hải quân hiện đại đầu tiên của Trung Quốc. Đồng thời, Chính phủ cũng đã tài trợ cho việc du nhập rất nhiều kỹ nghệ hiện đại. Dù vậy, cuộc cách tân này chỉ được thực hiện một cách hời hợt và sớm thất bại bởi sự cản trở bởi những thế lực chính trị ngầm. Cụ thể nhất là sự thất bại nhục nhã trong cuộc chiến tranh Sino-Japanese năm 1894-1895."
       }
     ],
     "k": "self-strengthening movement"
@@ -32166,7 +32166,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một vương triều của người Thổ Nhĩ Kỳ. Nó đạt mức cực thịnh vào cuối thế kỷ 11. Các thành viên đầu tiên của triều đại này nổi tiếng như những người đánh thuê. Với sự gia tăng của đội quân những người Thổ sống du cư, nó đã dần đe dọa đến Ghaznavids. Năm 1055, dưới sự lãnh đạo của Tughrul Beg, họ đã tiến vào Baghdad và đặt các vùng đất phía Ðông của đế quốc Hồi giáo này dưới quyền kiểm soát của mình. Ðể duy trì quyền lực, họ đã sử dụng lại vị vua Hồi giáo Abbasid là Nizam al-Mulk với chức vụ như một vị Tể tướng cùng toàn bộ hệ thống nhân sự và cai trị cũ. Dưới thời những vị vua tiếp theo như Alp Arslan (1063-1072) và Malik Shah (1072-1092), việc kiểm soát vùng đất quá xa xôi này đã bắt đầu trở nên khó khăn và đe dọa đến sự cân bằng quyền lực. Chính điều này lại kích động nên cuộc Thập tự chinh thứ I. Hệ thống chính quyền trong nước lại càng suy yếu bởi sự quấy nhiễu của những đội quân du cư tồn tại ngay giữa lòng dân cư và tư tưởng tranh quyền đoạt lợi của bọn quan lại dưới quyền. Vì vậy, đế chế dần suy tàn vào đầu thế kỷ 12 và nhanh chóng bị thâu tóm quyền lực vào tay vị vua Hồi giáo xứ Rum là Seljuk, một tiểu quốc châu Á. Ông thiết lập thủ phủ tại Konya, lấy danh hiệu là Kilij Arslan II (1155-1192). Triều đại này đạt mức huy hoàng cực thịnh dưới thời vua Kaykobad I (1220-1237). Sau đó, bị đánh bại bởi Mongol tại Kosedagh năm 1243, nó phải lệ thuộc vào Mongol II-Vua xứ Ba Tư cho đến khi bị xóa sổ vào năm 1308."
+        "t": "Một vương triều của người Thổ Nhĩ Kỳ. Nó đạt mức cực thịnh vào cuối thế kỷ 11. Các thành viên đầu tiên của triều đại này nổi tiếng như những người đánh thuê. Với sự gia tăng của đội quân những người Thổ sống du cư, nó đã dần đe dọa đến Ghaznavids. Năm 1055, dưới sự lãnh đạo của Tughrul Beg, họ đã tiến vào Baghdad và đặt các vùng đất phía Đông của đế quốc Hồi giáo này dưới quyền kiểm soát của mình. Để duy trì quyền lực, họ đã sử dụng lại vị vua Hồi giáo Abbasid là Nizam al-Mulk với chức vụ như một vị Tể tướng cùng toàn bộ hệ thống nhân sự và cai trị cũ. Dưới thời những vị vua tiếp theo như Alp Arslan (1063-1072) và Malik Shah (1072-1092), việc kiểm soát vùng đất quá xa xôi này đã bắt đầu trở nên khó khăn và đe dọa đến sự cân bằng quyền lực. Chính điều này lại kích động nên cuộc Thập tự chinh thứ I. Hệ thống chính quyền trong nước lại càng suy yếu bởi sự quấy nhiễu của những đội quân du cư tồn tại ngay giữa lòng dân cư và tư tưởng tranh quyền đoạt lợi của bọn quan lại dưới quyền. Vì vậy, đế chế dần suy tàn vào đầu thế kỷ 12 và nhanh chóng bị thâu tóm quyền lực vào tay vị vua Hồi giáo xứ Rum là Seljuk, một tiểu quốc châu Á. Ông thiết lập thủ phủ tại Konya, lấy danh hiệu là Kilij Arslan II (1155-1192). Triều đại này đạt mức huy hoàng cực thịnh dưới thời vua Kaykobad I (1220-1237). Sau đó, bị đánh bại bởi Mongol tại Kosedagh năm 1243, nó phải lệ thuộc vào Mongol II-Vua xứ Ba Tư cho đến khi bị xóa sổ vào năm 1308."
       }
     ],
     "k": "seljuks"
@@ -38249,7 +38249,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nửa nhóm các quan hệ. Một quan hệ hai ngôi trên tập X là một tập con của tích Ðềcác X x X. Nếu ( và ( là các quan hệ hai ngôi trên X thì cái hợp thành ( o ( của chúng được định nghĩa như sau: (a, b) ( ( o ( nếu tồn tại x ( X sao cho (a, x) ( ( và (x, b) ( (. Phép toán hai ngôi ( (o) là kết hợp. Do đó tập Bx tất cả các quan hệ hai ngôi trên X là một nửa nhóm đối với phép toán (o), được gọi là nửa nhóm các quan hệ, nó có phần tử đơn vị là quan hệ bằng nhau (."
+        "t": "nửa nhóm các quan hệ. Một quan hệ hai ngôi trên tập X là một tập con của tích Đềcác X x X. Nếu ( và ( là các quan hệ hai ngôi trên X thì cái hợp thành ( o ( của chúng được định nghĩa như sau: (a, b) ( ( o ( nếu tồn tại x ( X sao cho (a, x) ( ( và (x, b) ( (. Phép toán hai ngôi ( (o) là kết hợp. Do đó tập Bx tất cả các quan hệ hai ngôi trên X là một nửa nhóm đối với phép toán (o), được gọi là nửa nhóm các quan hệ, nó có phần tử đơn vị là quan hệ bằng nhau (."
       }
     ],
     "k": "semigroup of relations"
@@ -38786,7 +38786,7 @@
     "segs": [{"k": "m", "t": "Khuyết xương bả vai."}],
     "k": "semilunar incisure"
   },
-  {"h": "semilunar line", "segs": [{"k": "m", "t": "Ðường bán khuyên."}], "k": "semilunar line"},
+  {"h": "semilunar line", "segs": [{"k": "m", "t": "Đường bán khuyên."}], "k": "semilunar line"},
   {
     "h": "semilunar lobe inferior",
     "segs": [{"k": "m", "t": "thùy bán nguyệt dưới."}],
@@ -39680,7 +39680,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1816-1818, 1835-1842) Hai cuộc nội chiến diễn ra ở vùng Ðông Nam nước Mỹ. Các thổ dân địa phương bang Florida đã nổi dậy chống trả lực lượng liên bang khi họ đến vùng này để truy bắt những nô lệ đào tẩu. Andrew Jackson sau cùng đã phải dùng đến quân đội viễn chinh dồn ép những người khởi nghĩa này vào vùng Everglades. Năm 1819, Tây Ban Nha đã nhượng lại Ðông Florida cho Mỹ. Vì thế, năm 1832 các thổ dân phải ký hiệp định chấp nhận di chuyển đến vùng thuộc địa Ấn Ðộ ở phía Tây bang Mississippi. Một phần của bộ tộc dưới quyền Osceola từ chối di dời. Họ cố thủ tại Everglades cho đến khi Osceola bị bọn phản bội bắt giữ và những người theo ông đều bị tiêu diệt. Ðại tướng William T.Worth sau đó đã ra lệnh đốt sạch mùa màng và phá hủy toàn bộ làng mạc của họ (1841). Cái đói đã khuất phục họ. Các thổ dân sau đó phải ký hiệp định hòa bình (1842) và chấp nhận lưu đày đến miền viễn Tây."
+        "t": "(1816-1818, 1835-1842) Hai cuộc nội chiến diễn ra ở vùng Đông Nam nước Mỹ. Các thổ dân địa phương bang Florida đã nổi dậy chống trả lực lượng liên bang khi họ đến vùng này để truy bắt những nô lệ đào tẩu. Andrew Jackson sau cùng đã phải dùng đến quân đội viễn chinh dồn ép những người khởi nghĩa này vào vùng Everglades. Năm 1819, Tây Ban Nha đã nhượng lại Đông Florida cho Mỹ. Vì thế, năm 1832 các thổ dân phải ký hiệp định chấp nhận di chuyển đến vùng thuộc địa Ấn Độ ở phía Tây bang Mississippi. Một phần của bộ tộc dưới quyền Osceola từ chối di dời. Họ cố thủ tại Everglades cho đến khi Osceola bị bọn phản bội bắt giữ và những người theo ông đều bị tiêu diệt. Đại tướng William T.Worth sau đó đã ra lệnh đốt sạch mùa màng và phá hủy toàn bộ làng mạc của họ (1841). Cái đói đã khuất phục họ. Các thổ dân sau đó phải ký hiệp định hòa bình (1842) và chấp nhận lưu đày đến miền viễn Tây."
       }
     ],
     "k": "seminole wars"
@@ -41911,7 +41911,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nhóm sắc tộc ở vùng Trung Ðông bao gồm người Do Thái và người Ả Rập. Theo Kinh thánh, họ đều là hậu duệ của Shem, con trai của Noah. Thủy tổ của người Semites là những nông dân Ả Rập. Dần dà, họ phát triển rộng khắp về phía Bắc và Tây. Họ đã tạo lập nên đế chế quan trọng thời cổ đại. Các cư dân tại Akkad đã lật đổ vương triều Sumerians. Họ chính là người Semites. Về sau, họ phân ra thành các tộc người Assyrians, Aramaeans, Canaanites, Phoenicians và Hebrews. Họ cũng chính là những người đầu tiên biết đến hệ thống bảng chữ cái và vận dụng nó vào năm 2000 trước Công Nguyên. Ngày nay, ngôn ngữ Semitic hiện đại vẫn còn được sử dụng bởi người Hebrew, Arabic và Maltese."
+        "t": "Một nhóm sắc tộc ở vùng Trung Đông bao gồm người Do Thái và người Ả Rập. Theo Kinh thánh, họ đều là hậu duệ của Shem, con trai của Noah. Thủy tổ của người Semites là những nông dân Ả Rập. Dần dà, họ phát triển rộng khắp về phía Bắc và Tây. Họ đã tạo lập nên đế chế quan trọng thời cổ đại. Các cư dân tại Akkad đã lật đổ vương triều Sumerians. Họ chính là người Semites. Về sau, họ phân ra thành các tộc người Assyrians, Aramaeans, Canaanites, Phoenicians và Hebrews. Họ cũng chính là những người đầu tiên biết đến hệ thống bảng chữ cái và vận dụng nó vào năm 2000 trước Công Nguyên. Ngày nay, ngôn ngữ Semitic hiện đại vẫn còn được sử dụng bởi người Hebrew, Arabic và Maltese."
       }
     ],
     "k": "semites"
@@ -42650,7 +42650,7 @@
       {"k": "m", "t": "sent gửi, đưa, cử, phái (như) scend"},
       {"k": "ex", "t": "to send word to somebody", "vi": "gửi vài chữ cho ai"},
       {"k": "ex", "t": "to send a boy a school", "vi": "cho một em nhỏ đi học"},
-      {"k": "m", "t": "cho, ban cho, phù hộ cho, giáng (trời, Thượng Ðế...)"},
+      {"k": "m", "t": "cho, ban cho, phù hộ cho, giáng (trời, Thượng Đế...)"},
       {"k": "ex", "t": "send him victorioussend", "vi": "trời phụ hộ cho nó thắng trận!"},
       {"k": "ex", "t": "to send a drought", "vi": "giáng xuống nạn hạn hán"},
       {"k": "m", "t": "bắn ra, làm bốc lên, làm nẩy ra, tỏa ra"},
@@ -43122,7 +43122,7 @@
     "segs": [
       {
         "k": "m",
-        "t": ", Một bộ lạc thổ dân của Mỹ. Họ là một trong năm bộ tộc người Iroquois ở miền viễn tây (phía Tây New York). Họ sống chủ yếu bằng việc mua bán lông thú và các cuộc chiến tranh. Năm 1668, các nhà truyền giáo dòng Tên của Pháp bắt đầu tiếp xúc và làm việc với họ. Trong cuộc cách mạng Mỹ, họ đứng về phía Anh khiến một đội lính viễn chinh của Mỹ đã phá hủy làng mạc của họ vào năm 1778. Ðạo Cơ đốc bắt đầu được truyền bá vào cuối thế kỷ 18. Cùng lúc đó, \"bộ luật của những người con vùng hồ\" (The Code of Handsome Lake) dựa trên truyền thống của người Iroquois được truyền bá rộng rãi bởi Thủ lĩnh của họ. Cả hai đức tin này đều gặt hái được kết quả."
+        "t": ", Một bộ lạc thổ dân của Mỹ. Họ là một trong năm bộ tộc người Iroquois ở miền viễn tây (phía Tây New York). Họ sống chủ yếu bằng việc mua bán lông thú và các cuộc chiến tranh. Năm 1668, các nhà truyền giáo dòng Tên của Pháp bắt đầu tiếp xúc và làm việc với họ. Trong cuộc cách mạng Mỹ, họ đứng về phía Anh khiến một đội lính viễn chinh của Mỹ đã phá hủy làng mạc của họ vào năm 1778. Đạo Cơ đốc bắt đầu được truyền bá vào cuối thế kỷ 18. Cùng lúc đó, \"bộ luật của những người con vùng hồ\" (The Code of Handsome Lake) dựa trên truyền thống của người Iroquois được truyền bá rộng rãi bởi Thủ lĩnh của họ. Cả hai đức tin này đều gặt hái được kết quả."
       }
     ],
     "k": "seneca"
@@ -43199,10 +43199,10 @@
   {
     "h": "Senegal:",
     "segs": [
-      {"k": "m", "t": "Một quốc gia Tây Phi bên bờ biển Ðại Tây Dương."},
+      {"k": "m", "t": "Một quốc gia Tây Phi bên bờ biển Đại Tây Dương."},
       {
         "k": "m",
-        "t": "Ðịa hình: Senegal bao quanh Gambia nhưng vùng nội địa lại bị bao bọc bởi Mauritania, Mali, Guinea và Gunia-Bissau. Ðiểm cực tây của nó (và cũng là của lục địa châu Phi) là mũi Verde. Phía bắc là bờ biển đầy cát thẳng tắp cùng với khí hậu khô mát. Sâu trong đất liền là thảo nguyên. Vùng phía nam là bờ biển có nhiều đầm lầy."
+        "t": "Địa hình: Senegal bao quanh Gambia nhưng vùng nội địa lại bị bao bọc bởi Mauritania, Mali, Guinea và Gunia-Bissau. Điểm cực tây của nó (và cũng là của lục địa châu Phi) là mũi Verde. Phía bắc là bờ biển đầy cát thẳng tắp cùng với khí hậu khô mát. Sâu trong đất liền là thảo nguyên. Vùng phía nam là bờ biển có nhiều đầm lầy."
       },
       {
         "k": "m",
@@ -43210,7 +43210,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Senegal đã từng là thuộc địa của nhiều đế quốc cổ xưa. Trong đó có Gana, Mali và Songhay. Người Tukulor, một trong bảy nhóm dân tộc thiểu số chính của Senegal, đã cải sang đạo Hồi vào thế kỷ 11 nhưng thuyết duy linh còn duy trì rộng rãi cho đến giữa thế kỷ 19. Những nhà hàng hải Bồ Ðào Nha đã khám phá ra bờ biển Senegal vào năm 1445. Ðược người Pháp khai sáng vào thế kỷ 17 nhưng thuộc địa này lại bị tranh chấp bởi người Anh trong những cuộc chiến của Napoleon. Nội địa bị chiếm giữ bởi viên quan toàn quyền L.L.Faidherbe (1854-1861). Năm 1871, chính quyền thuộc địa đã cử đại diện của họ đến quốc hội Pháp. Nó trở thành một nước Tây Phi thuộc Pháp vào năm 1895, Ðến năm 1958, nó trở thành Nước cộng hòa tự trị trong cộng đồng Pháp ngữ và là thành viên của Liên đoàn Mali (1959-1960). Dưới sự lãnh đạo của Léopold Sédar Senghor, Senegal giành được độc lập vào năm 1960. Thời gian này, nó tạm thời liên kết với Gambia để trở thành Senegambia (1982-1989). Năm 1980, Abdou Diouf kế vị Senghor với tư cách là Tổng thống. Ðến năm 1989, mối quan hệ giữa Senegal và Mauritania trở nên xấu hơn sau vụ thảm sát hàng trăm thường dân Senegal cư ngụ tại Mauritania và trục xuất hàng ngàn người. Cuộc chiến tranh biên giới thực sự kéo dài suốt năm 1990. Ðối mặt với sự nổi dậy căng thẳng của các dân tộc thiểu số, Tổng thống Diouf đã kêu gọi liên minh và chia sẻ quyền lực vào năm 1991. Chính sách này đã phần nào vãn hồi được trật tự. Các nghi thức ngoại giao đã được nối lại với Mauritania năm 1992. Cùng lúc đó, tổ chức Casamance được thành lập và đi vào hoạt động tại vùng phía Nam Senegal. Tổng thống Diouf tái đắc cử vào đầu năm 1993. Tổ chức này cũng đã cho tiến hành các vụ bạo loạn nhằm phá hoại cuộc bầu cử. Một năm sau, hiệp định ngừng bắn được ký kết. Cho dù được trợ giúp từ nước Pháp và quỹ tiền tệ quốc tế IMF, nền kinh tế Senegal vẫn tiến dần đền bờ vực phá sản. Tiền tệ trong nước bắt đầu rớt giá vào đầu năm 1994. Hiệp định ngừng bắn cũng bị Casamance đơn phương vi phạm năm 1995 nhưng sau đó đã được phục hồi."
+        "t": "Lịch sử: Senegal đã từng là thuộc địa của nhiều đế quốc cổ xưa. Trong đó có Gana, Mali và Songhay. Người Tukulor, một trong bảy nhóm dân tộc thiểu số chính của Senegal, đã cải sang đạo Hồi vào thế kỷ 11 nhưng thuyết duy linh còn duy trì rộng rãi cho đến giữa thế kỷ 19. Những nhà hàng hải Bồ Đào Nha đã khám phá ra bờ biển Senegal vào năm 1445. Được người Pháp khai sáng vào thế kỷ 17 nhưng thuộc địa này lại bị tranh chấp bởi người Anh trong những cuộc chiến của Napoleon. Nội địa bị chiếm giữ bởi viên quan toàn quyền L.L.Faidherbe (1854-1861). Năm 1871, chính quyền thuộc địa đã cử đại diện của họ đến quốc hội Pháp. Nó trở thành một nước Tây Phi thuộc Pháp vào năm 1895, Đến năm 1958, nó trở thành Nước cộng hòa tự trị trong cộng đồng Pháp ngữ và là thành viên của Liên đoàn Mali (1959-1960). Dưới sự lãnh đạo của Léopold Sédar Senghor, Senegal giành được độc lập vào năm 1960. Thời gian này, nó tạm thời liên kết với Gambia để trở thành Senegambia (1982-1989). Năm 1980, Abdou Diouf kế vị Senghor với tư cách là Tổng thống. Đến năm 1989, mối quan hệ giữa Senegal và Mauritania trở nên xấu hơn sau vụ thảm sát hàng trăm thường dân Senegal cư ngụ tại Mauritania và trục xuất hàng ngàn người. Cuộc chiến tranh biên giới thực sự kéo dài suốt năm 1990. Đối mặt với sự nổi dậy căng thẳng của các dân tộc thiểu số, Tổng thống Diouf đã kêu gọi liên minh và chia sẻ quyền lực vào năm 1991. Chính sách này đã phần nào vãn hồi được trật tự. Các nghi thức ngoại giao đã được nối lại với Mauritania năm 1992. Cùng lúc đó, tổ chức Casamance được thành lập và đi vào hoạt động tại vùng phía Nam Senegal. Tổng thống Diouf tái đắc cử vào đầu năm 1993. Tổ chức này cũng đã cho tiến hành các vụ bạo loạn nhằm phá hoại cuộc bầu cử. Một năm sau, hiệp định ngừng bắn được ký kết. Cho dù được trợ giúp từ nước Pháp và quỹ tiền tệ quốc tế IMF, nền kinh tế Senegal vẫn tiến dần đền bờ vực phá sản. Tiền tệ trong nước bắt đầu rớt giá vào đầu năm 1994. Hiệp định ngừng bắn cũng bị Casamance đơn phương vi phạm năm 1995 nhưng sau đó đã được phục hồi."
       },
       {"k": "m", "t": "Thủ đô: Dakar."},
       {"k": "m", "t": "Diện tích: 196.722 km2"},
@@ -43278,8 +43278,8 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "snh."},
-      {"k": "ex", "t": "senhors, senhores", "vi": "người nói tiếng Bồ Ðào Nha"},
-      {"k": "m", "t": "(đứng trước tên người) ông (chỉ người nói tiếng Bồ Ðào Nha)."}
+      {"k": "ex", "t": "senhors, senhores", "vi": "người nói tiếng Bồ Đào Nha"},
+      {"k": "m", "t": "(đứng trước tên người) ông (chỉ người nói tiếng Bồ Đào Nha)."}
     ],
     "ipa": "se'njɔ:",
     "k": "senhor"
@@ -43288,8 +43288,8 @@
     "h": "senhora",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "đàn bà có chồng và nói tiếng Bồ Ðào Nha"},
-      {"k": "m", "t": "(đứng trước tên người) bà (người nói tiếng Bồ Ðào Nha và có chồng)."}
+      {"k": "m", "t": "đàn bà có chồng và nói tiếng Bồ Đào Nha"},
+      {"k": "m", "t": "(đứng trước tên người) bà (người nói tiếng Bồ Đào Nha và có chồng)."}
     ],
     "ipa": "se'njɔ:rə",
     "k": "senhora"
@@ -43298,8 +43298,8 @@
     "h": "senhorita",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "cô gái chưa chồng nói tiếng Bồ Ðào Nha"},
-      {"k": "m", "t": "(trước tên người) cô (chưa chồng, nói tiếng Bồ Ðào Nha)."}
+      {"k": "m", "t": "cô gái chưa chồng nói tiếng Bồ Đào Nha"},
+      {"k": "m", "t": "(trước tên người) cô (chưa chồng, nói tiếng Bồ Đào Nha)."}
     ],
     "ipa": ",senjə'ritə",
     "k": "senhorita"
@@ -43345,7 +43345,7 @@
   {"h": "senile atrophy", "segs": [{"k": "m", "t": "Teo lão hóa."}], "k": "senile atrophy"},
   {
     "h": "senile cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh người già."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh người già."}],
     "k": "senile cataract"
   },
   {
@@ -44281,7 +44281,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "chiều định hướng. Trong việc định hướng ta phải chọn một chiều nào đó (ví dụ: trái-phải, cao-thấp, Ðông-Tây, ngược kim đồng hồ, v.v... làm chiều dương và gọi nó là chiều định hướng."
+        "t": "chiều định hướng. Trong việc định hướng ta phải chọn một chiều nào đó (ví dụ: trái-phải, cao-thấp, Đông-Tây, ngược kim đồng hồ, v.v... làm chiều dương và gọi nó là chiều định hướng."
       }
     ],
     "k": "sense of orientation"
@@ -45563,7 +45563,7 @@
   {"h": "sensory cell", "segs": [{"k": "m", "t": "Tế bào giác quan."}], "k": "sensory cell"},
   {"h": "sensory cortex", "segs": [{"k": "m", "t": "vỏ cảm giác."}], "k": "sensory cortex"},
   {"h": "sensory data", "segs": [{"k": "m", "t": "dữ liệu cả bộ cảm biến."}], "k": "sensory data"},
-  {"h": "sensory deafness", "segs": [{"k": "m", "t": "Ðiếc tâm thần."}], "k": "sensory deafness"},
+  {"h": "sensory deafness", "segs": [{"k": "m", "t": "Điếc tâm thần."}], "k": "sensory deafness"},
   {
     "h": "sensory deprivation",
     "segs": [
@@ -45582,7 +45582,7 @@
   },
   {
     "h": "sensory epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh giác quan."}],
+    "segs": [{"k": "m", "t": "Động kinh giác quan."}],
     "k": "sensory epilepsy"
   },
   {
@@ -46029,7 +46029,7 @@
       {
         "k": "ex",
         "t": "‘He should have thought of the consequences before he acted', she concluded sententiously",
-        "vi": "\"Ðáng lý anh ta phải nghĩ đến hậu quả trước khi hành động chứ\" , cô ấy lên mặt kết luận."
+        "vi": "\"Đáng lý anh ta phải nghĩ đến hậu quả trước khi hành động chứ\" , cô ấy lên mặt kết luận."
       }
     ],
     "ipa": "sen'tenʃəsli",
@@ -47495,7 +47495,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thể loại học thuyết về chế độ tự do. Nó xác nhận 3 nhánh quyền lực của Chính phủ gồm: Cơ quan lập pháp; Cơ quan hành pháp và Tòa án cần được tách bạch với nhau về cả hai mặt chức năng và con người căn cứ theo quy định của Hiến pháp. Học thuyết này được cho là xuất phát từ nhà triết học và lý luận chính trị người Pháp Montesquieu (1689-1755). Ông luôn yêu cầu luật pháp phải xem trọng vấn đề này (1784). Mặc dù vậy, sự phân chia quyền lực đã được Aristotle và Locke đề xuất từ trước đó. Trong học thuyết này, việc chia sẻ quyền lực bao gồm cả việc thành lập các cơ quan có quan hệ độc lập với nhau nhưng phải bảo đảm được tính cân bằng và xuyên suốt của cả hệ thống. Cần ngăn ngừa tình trạng có một nhánh quyền lực thống trị các nhánh kia. Học thuyết này được xem là linh hồn của Hiến pháp Mỹ. Nó được cơ cấu thành 3 bộ phận: Quốc hội, Tổng thống và Tòa án tối cao. Tuy nhiên, sự tách bạch không có nghĩa là đứt đoạn mà cần có sự phối hợp chặt chẽ đặc biệt là giữa Quốc hội và Tổng thống để bảo đảm cho cả hệ thống chính quyền hoạt động tối ưu. Tại các quốc gia do Quốc hội chấp chính, cơ quan lập pháp và hành pháp thường được gộp chung nên dễ xảy ra tình trạng chồng chéo về chức năng. Tại vương quốc Anh, cơ quan hành pháp trước đây chiếm đa số trong Quốc hội nên lấn át cả chức năng lập pháp. Riêng bộ máy Tư pháp làm việc một cách phiến diện và hoàn toàn độc lập với quy trình lập pháp và hành pháp. Dù vậy, người đứng đầu bộ máy này, chức danh Ðại pháp quan, lại là một thành viên của Nội các (thuộc nhánh hành pháp) và vị Chủ tọa là thành viên của Quốc hội (thuộc nhánh lập pháp)."
+        "t": "Một thể loại học thuyết về chế độ tự do. Nó xác nhận 3 nhánh quyền lực của Chính phủ gồm: Cơ quan lập pháp; Cơ quan hành pháp và Tòa án cần được tách bạch với nhau về cả hai mặt chức năng và con người căn cứ theo quy định của Hiến pháp. Học thuyết này được cho là xuất phát từ nhà triết học và lý luận chính trị người Pháp Montesquieu (1689-1755). Ông luôn yêu cầu luật pháp phải xem trọng vấn đề này (1784). Mặc dù vậy, sự phân chia quyền lực đã được Aristotle và Locke đề xuất từ trước đó. Trong học thuyết này, việc chia sẻ quyền lực bao gồm cả việc thành lập các cơ quan có quan hệ độc lập với nhau nhưng phải bảo đảm được tính cân bằng và xuyên suốt của cả hệ thống. Cần ngăn ngừa tình trạng có một nhánh quyền lực thống trị các nhánh kia. Học thuyết này được xem là linh hồn của Hiến pháp Mỹ. Nó được cơ cấu thành 3 bộ phận: Quốc hội, Tổng thống và Tòa án tối cao. Tuy nhiên, sự tách bạch không có nghĩa là đứt đoạn mà cần có sự phối hợp chặt chẽ đặc biệt là giữa Quốc hội và Tổng thống để bảo đảm cho cả hệ thống chính quyền hoạt động tối ưu. Tại các quốc gia do Quốc hội chấp chính, cơ quan lập pháp và hành pháp thường được gộp chung nên dễ xảy ra tình trạng chồng chéo về chức năng. Tại vương quốc Anh, cơ quan hành pháp trước đây chiếm đa số trong Quốc hội nên lấn át cả chức năng lập pháp. Riêng bộ máy Tư pháp làm việc một cách phiến diện và hoàn toàn độc lập với quy trình lập pháp và hành pháp. Dù vậy, người đứng đầu bộ máy này, chức danh Đại pháp quan, lại là một thành viên của Nội các (thuộc nhánh hành pháp) và vị Chủ tọa là thành viên của Quốc hội (thuộc nhánh lập pháp)."
       }
     ],
     "k": "separation of powers"
@@ -47758,7 +47758,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "(snh Sephar-dim người Do Thái gốc Tây Ban Nha hoặc Bồ Ðào Nha. Sephar-dic tt."
+        "t": "(snh Sephar-dim người Do Thái gốc Tây Ban Nha hoặc Bồ Đào Nha. Sephar-dic tt."
       }
     ],
     "ipa": "si'fa:di",
@@ -49588,7 +49588,7 @@
   },
   {
     "h": "serang",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đội trưởng (thủy thủ Ấn Ðộ)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đội trưởng (thủy thủ Ấn Độ)."}],
     "ipa": "sə'ræŋ",
     "k": "serang"
   },
@@ -49609,7 +49609,7 @@
       {"k": "m", "t": "snh."},
       {"k": "ex", "t": "seraphim", "vi": "người nhà trời"},
       {"k": "m", "t": "thiên thân tối cao"},
-      {"k": "ex", "t": "Order of the Seraphim", "vi": "huân chương hiệp sĩ (của Thụy Ðiển)."}
+      {"k": "ex", "t": "Order of the Seraphim", "vi": "huân chương hiệp sĩ (của Thụy Điển)."}
     ],
     "ipa": "'serəf",
     "k": "seraph"
@@ -49689,11 +49689,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nước Cộng hòa vùng Ðông Nam châu Âu. Ðây là nước Cộng hòa lớn nhất trong liên minh Yugoslavia trước đây."
+        "t": "Một nước Cộng hòa vùng Đông Nam châu Âu. Đây là nước Cộng hòa lớn nhất trong liên minh Yugoslavia trước đây."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Serbia nằm giữa các quốc gia khác. Phía Tây giáp giới với Bosnia-Herzegovina, phía Tây Nam giáp Montenegro và Albania, phía Nam là Macedonia, phía Ðông là Bulgaria, Romania ở phía Ðông Bắc, Hungary ở chính Bắc và Croatia ở phía Tây Bắc. Phía Tây Nam là dãy núi Sar và Kopaonik, phía Ðông là rặng Balkan. Chỉ có vùng cực Bắc Serbia là đồng bằng châu thổ với hai con sông Sava và Tisa chảy qua rồi sau đó đổ vào sông Danube."
+        "t": "Địa hình: Serbia nằm giữa các quốc gia khác. Phía Tây giáp giới với Bosnia-Herzegovina, phía Tây Nam giáp Montenegro và Albania, phía Nam là Macedonia, phía Đông là Bulgaria, Romania ở phía Đông Bắc, Hungary ở chính Bắc và Croatia ở phía Tây Bắc. Phía Tây Nam là dãy núi Sar và Kopaonik, phía Đông là rặng Balkan. Chỉ có vùng cực Bắc Serbia là đồng bằng châu thổ với hai con sông Sava và Tisa chảy qua rồi sau đó đổ vào sông Danube."
       },
       {
         "k": "m",
@@ -49701,11 +49701,11 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: các bộ tộc người Xla-vơ bên lưu vực sông Danube đã chiếm vùng đất này từ tay người Hy Lạp và Romani vào thế kỷ thứ 7 để thành lập quốc gia người Xla-vơ với tên gọi là Rascia. Dưới sự đe dọa của Bulgaria (thế kỷ 10), Rascia buộc phải chấp nhận sự bảo hộ của đế chế Byzantine trong khi đối thủ của mình là Zeta lại nhận trợ giúp từ đế quốc La Mã. Bogomilism, thuyết nhị nguyên dị giáo, lại càng làm cho tình trạng thù địch giữa hai cường quốc Thiên Chúa Giáo thêm căng thẳng. Thế nhưng cuối cùng nó cũng được giải quyết bằng cách chấp nhận Ðức tin chính thống phương Ðông. Ðến thế kỷ 13, Serbia bắt đầu tiến hành khai thác khoáng sản và giao thương với nước ngoài, đặc biệt là với Venice. Dưới sự cai trị của Stephan Dushan (1331-1355), luật pháp được thiết lập và chế độ nông nô chính thức phổ biến. Sau đó, Macedonia, Albania và một phần của Hy Lạp được sáp nhập nhưng sự mở rộng này đột ngột bị chấm dứt bởi thất bại thảm hại trước sự xâm lăng của đế chế Ottomans năm 1371 và 1389. Năm 1804, Kara George lãnh đạo cuộc nổi dậy rộng khắp của thành phần dân chúng theo Ðức tin chính thống phương Ðông chống lại Ottomans đã mang lại khoảng thời gian độc lập ngắn ngủi cho đất nước. Sau cuộc khởi nghĩa thứ hai, được sự can thiệp và giúp đỡ của Nga, Serbia giành được chế độ tự trị (1817) dưới sự giám sát của vua Hồi giáo. Ðiều này được xác nhận bởi Hiệp định Adrianople ký năm 1829 và 1830. Milos Obrenovic trở thành Hoàng thái tử của Serbia. Do chuyên quyền, độc đoán, ông buộc phải thoái vị vào năm 1839. Ðến năm 1877, người Serb tự đứng ra liên minh với phong trào Pan-Slav. Năm 1878, tại Hội nghị Berlin, Serbia giành được chủ quyền quốc gia dưới quyền Hoàng thái tử Milan Obrenovic, người đã lãnh đạo đất nước từ năm 1872. Năm 1882, ông tuyên bố lên ngôi hoàng đế. Một giai đoạn bất ổn chính trị lại bắt đầu bao gồm cuộc chiến tranh với Bulgaria (1885-1886). Cục diện lên tới đỉnh điểm khi Alexander Obrenovic bị ám sát năm 1903. Người kế vị ông, Peter Karageorgevic cho phép mở rộng tự do và cai quản đất nước thông qua Quốc hội. Nước Áo lo sợ người Serb sẽ thôn tính nước láng giềng là Bosnia-Herzegovia nên vội vã sáp nhập nó vào cuối năm 1908 nhằm cố gắng kiểm soát Serbia. Chính sách này đã dẫn đến cuộc ám sát hoàng tử Áo là Francis Ferdinand năm 1914 do Tổ chức dân tộc Serbia thực hiện mở màn cho cuộc chiến tranh thế giới thứ I."
+        "t": "Lịch sử: các bộ tộc người Xla-vơ bên lưu vực sông Danube đã chiếm vùng đất này từ tay người Hy Lạp và Romani vào thế kỷ thứ 7 để thành lập quốc gia người Xla-vơ với tên gọi là Rascia. Dưới sự đe dọa của Bulgaria (thế kỷ 10), Rascia buộc phải chấp nhận sự bảo hộ của đế chế Byzantine trong khi đối thủ của mình là Zeta lại nhận trợ giúp từ đế quốc La Mã. Bogomilism, thuyết nhị nguyên dị giáo, lại càng làm cho tình trạng thù địch giữa hai cường quốc Thiên Chúa Giáo thêm căng thẳng. Thế nhưng cuối cùng nó cũng được giải quyết bằng cách chấp nhận Đức tin chính thống phương Đông. Đến thế kỷ 13, Serbia bắt đầu tiến hành khai thác khoáng sản và giao thương với nước ngoài, đặc biệt là với Venice. Dưới sự cai trị của Stephan Dushan (1331-1355), luật pháp được thiết lập và chế độ nông nô chính thức phổ biến. Sau đó, Macedonia, Albania và một phần của Hy Lạp được sáp nhập nhưng sự mở rộng này đột ngột bị chấm dứt bởi thất bại thảm hại trước sự xâm lăng của đế chế Ottomans năm 1371 và 1389. Năm 1804, Kara George lãnh đạo cuộc nổi dậy rộng khắp của thành phần dân chúng theo Đức tin chính thống phương Đông chống lại Ottomans đã mang lại khoảng thời gian độc lập ngắn ngủi cho đất nước. Sau cuộc khởi nghĩa thứ hai, được sự can thiệp và giúp đỡ của Nga, Serbia giành được chế độ tự trị (1817) dưới sự giám sát của vua Hồi giáo. Điều này được xác nhận bởi Hiệp định Adrianople ký năm 1829 và 1830. Milos Obrenovic trở thành Hoàng thái tử của Serbia. Do chuyên quyền, độc đoán, ông buộc phải thoái vị vào năm 1839. Đến năm 1877, người Serb tự đứng ra liên minh với phong trào Pan-Slav. Năm 1878, tại Hội nghị Berlin, Serbia giành được chủ quyền quốc gia dưới quyền Hoàng thái tử Milan Obrenovic, người đã lãnh đạo đất nước từ năm 1872. Năm 1882, ông tuyên bố lên ngôi hoàng đế. Một giai đoạn bất ổn chính trị lại bắt đầu bao gồm cuộc chiến tranh với Bulgaria (1885-1886). Cục diện lên tới đỉnh điểm khi Alexander Obrenovic bị ám sát năm 1903. Người kế vị ông, Peter Karageorgevic cho phép mở rộng tự do và cai quản đất nước thông qua Quốc hội. Nước Áo lo sợ người Serb sẽ thôn tính nước láng giềng là Bosnia-Herzegovia nên vội vã sáp nhập nó vào cuối năm 1908 nhằm cố gắng kiểm soát Serbia. Chính sách này đã dẫn đến cuộc ám sát hoàng tử Áo là Francis Ferdinand năm 1914 do Tổ chức dân tộc Serbia thực hiện mở màn cho cuộc chiến tranh thế giới thứ I."
       },
       {
         "k": "m",
-        "t": "Năm 1918, Serbia thôn tính Bosnia-Herzegovina, liên kết với Croatia và Slovenia để thành lập nên cái gọi là \"Yugoslavia\" năm 1929. Trong đó, Croatia chỉ tham gia một cách miễn cưỡng. Tình trạng căng thẳng trên bùng nổ trong chiến tranh thế giới thứ II giữa binh lính Croatia và các du kích quân Serbia cho dù cả hai lực lượng này đều thuộc quân đội liên minh Yugoslavia dưới quyền của Thống chế Tito (người Croatia). Tình trạng trên tiếp diễn cho đến năm 1990, khi Slobodan Milosevic được bầu làm Tổng thống dân chủ của Serbia. Cuộc chiến tranh quy mô bùng nổ năm 1991 sau khi Croatia và Slovenia tuyên bố độc lập. Serbia đã kích động những người Serb sinh sống tại Croatia và thôn tính quốc gia tự trị Kosovo bất chấp nguyện vọng của hơn 90% dân số Albanian. Năm 1992, Serbia áp đặt các chính sách của mình lên Bosnia, nơi người Serb chỉ là thiểu số và thành lập chính quyền bù nhìn Belgrade. Họ tiến hành trục xuất hầu hết cộng đồng người Hồi giáo ở phía Ðông với tôn chỉ \"một nước Serbia trong sạch và vĩ đại\". Liên Hiệp Quốc đã lên tiếng phản đối vào tháng giêng năm 1992 nhưng Serbia vẫn tiếp tục theo đuổi các chính sách của mình. Tháng tư 1992, Serbia và Montenegro công bố mô hình Liên minh cộng hòa mới của Yugoslavia cho dù cộng đồng quốc tế chẳng hề công nhận. Ðến năm 1995, chủ nghĩa bành trướng của Serbia bắt đầu vấp phải sự chống trả. NATO đã nã tên lửa vào hầu hết các căn cứ của người Serb trên lãnh thổ Bosnia. Bên cạnh đó, các lực lượng của Bosnia và Croatia cũng bắt đầu phản công. Cuộc đàm phán sau đó giữa Croatia và Serbia đã đi đến thỏa thuận trả lại vùng đất phía Ðông kể cả thị trấn Vukovar cho Croatia. Ðến cuối năm 1995, chính phủ các nước Serbia, Croatia và Bosnia-Herzegovina đều chấp nhận vai trò trung gian đàm phán hòa bình của Mỹ (Hiệp ước hòa bình Dayton). Trong suốt mùa Ðông 1996-1997, chế độ độc tài của Tổng thống Milosevic dần suy yếu. Tình trạng lộn xộn bắt đầu xuất hiện tại Belgrade. Tuy nhiên, Quốc hội lại ủng hộ ông bằng cách phong ông làm Tổng thống liên minh Yugoslavia (tháng 7 năm 1997). Sự kiện này đã làm nảy sinh tình trạng căng thẳng với Montenegro. Vào tháng 10, 11 năm 1997, Quốc hội Serbia buộc phải bầu lại Tổng thống nhưng lại bị các tổ chức chống đối và cử tri tẩy chay. Sự bế tắc Hiến pháp này cuối cùng được giải quyết bằng cách bổ nhiệm Milan Milutinovic (một người ủng hộ Milosevic) làm Tổng thống. Chính phủ quốc gia thống nhất được thành lập với hai thành phần gồm những người theo chủ nghĩa quốc gia cứng rắn và những thủ lĩnh chống đối trước đây. Ðến đầu năm 1998, một cuộc xung đột bạo lực mới lại bùng nổ ở Kosovo do các lực lượng người Serb cố gắng nắm quyền kiểm soát những tỉnh lỵ nổi loạn."
+        "t": "Năm 1918, Serbia thôn tính Bosnia-Herzegovina, liên kết với Croatia và Slovenia để thành lập nên cái gọi là \"Yugoslavia\" năm 1929. Trong đó, Croatia chỉ tham gia một cách miễn cưỡng. Tình trạng căng thẳng trên bùng nổ trong chiến tranh thế giới thứ II giữa binh lính Croatia và các du kích quân Serbia cho dù cả hai lực lượng này đều thuộc quân đội liên minh Yugoslavia dưới quyền của Thống chế Tito (người Croatia). Tình trạng trên tiếp diễn cho đến năm 1990, khi Slobodan Milosevic được bầu làm Tổng thống dân chủ của Serbia. Cuộc chiến tranh quy mô bùng nổ năm 1991 sau khi Croatia và Slovenia tuyên bố độc lập. Serbia đã kích động những người Serb sinh sống tại Croatia và thôn tính quốc gia tự trị Kosovo bất chấp nguyện vọng của hơn 90% dân số Albanian. Năm 1992, Serbia áp đặt các chính sách của mình lên Bosnia, nơi người Serb chỉ là thiểu số và thành lập chính quyền bù nhìn Belgrade. Họ tiến hành trục xuất hầu hết cộng đồng người Hồi giáo ở phía Đông với tôn chỉ \"một nước Serbia trong sạch và vĩ đại\". Liên Hiệp Quốc đã lên tiếng phản đối vào tháng giêng năm 1992 nhưng Serbia vẫn tiếp tục theo đuổi các chính sách của mình. Tháng tư 1992, Serbia và Montenegro công bố mô hình Liên minh cộng hòa mới của Yugoslavia cho dù cộng đồng quốc tế chẳng hề công nhận. Đến năm 1995, chủ nghĩa bành trướng của Serbia bắt đầu vấp phải sự chống trả. NATO đã nã tên lửa vào hầu hết các căn cứ của người Serb trên lãnh thổ Bosnia. Bên cạnh đó, các lực lượng của Bosnia và Croatia cũng bắt đầu phản công. Cuộc đàm phán sau đó giữa Croatia và Serbia đã đi đến thỏa thuận trả lại vùng đất phía Đông kể cả thị trấn Vukovar cho Croatia. Đến cuối năm 1995, chính phủ các nước Serbia, Croatia và Bosnia-Herzegovina đều chấp nhận vai trò trung gian đàm phán hòa bình của Mỹ (Hiệp ước hòa bình Dayton). Trong suốt mùa Đông 1996-1997, chế độ độc tài của Tổng thống Milosevic dần suy yếu. Tình trạng lộn xộn bắt đầu xuất hiện tại Belgrade. Tuy nhiên, Quốc hội lại ủng hộ ông bằng cách phong ông làm Tổng thống liên minh Yugoslavia (tháng 7 năm 1997). Sự kiện này đã làm nảy sinh tình trạng căng thẳng với Montenegro. Vào tháng 10, 11 năm 1997, Quốc hội Serbia buộc phải bầu lại Tổng thống nhưng lại bị các tổ chức chống đối và cử tri tẩy chay. Sự bế tắc Hiến pháp này cuối cùng được giải quyết bằng cách bổ nhiệm Milan Milutinovic (một người ủng hộ Milosevic) làm Tổng thống. Chính phủ quốc gia thống nhất được thành lập với hai thành phần gồm những người theo chủ nghĩa quốc gia cứng rắn và những thủ lĩnh chống đối trước đây. Đến đầu năm 1998, một cuộc xung đột bạo lực mới lại bùng nổ ở Kosovo do các lực lượng người Serb cố gắng nắm quyền kiểm soát những tỉnh lỵ nổi loạn."
       }
     ],
     "k": "serbia"
@@ -49941,7 +49941,7 @@
       {"k": "m", "t": "thanh bình, thanh thản"},
       {"k": "ex", "t": "a serene life", "vi": "cuộc sống thanh bình"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "Serene", "vi": ") Ngài, Ðức, Tướng công (tiếng tôn xưng)"},
+      {"k": "ex", "t": "Serene", "vi": ") Ngài, Đức, Tướng công (tiếng tôn xưng)"},
       {"k": "ex", "t": "His Serene Highness", "vi": "thưa Tướng công"},
       {"k": "ex", "t": "all serene", "vi": "(lóng) ừ, được, phải"},
       {"k": "pos", "t": "danh từ"},
@@ -50016,7 +50016,7 @@
       },
       {
         "k": "m",
-        "t": "Chế độ nông nô bắt đầu xuất hiện vào thế kỷ thứ 8 và thứ 9 ở Tây Âu và dần bị lưu truyền. Trong suốt thế kỷ 14, hệ thống này bị suy yếu dần tại phương Tây bởi sự hoạt động của tổ chức Cái chết đen và nạn đói kém do chiến tranh. Ðiều này đã làm phát sinh tình trạng thiếu hụt lao động một cách gay gắt. Việc trả công cho sức lao động bằng tiền lương đồng nghĩa với việc các lãnh chúa trở thành người thuê lao động và các nông nô hiện giờ chỉ là người làm thuê. Trong cuộc khởi nghĩa nông nô tại Anh (1381), mục tiêu đấu tranh chính là đòi hủy bỏ chế độ nông nô đồng thời yêu cầu nhà nước phải cho thuê đất với giá 4 đồng/mẫu. Ngược lại, tại các quốc gia phía Ðông như Ðức, Muscovy, quyền lực của giới quý tộc gia tăng cùng với việc phát triển chế độ chuyên chế đã củng cố vững chắc thêm chế độ nông nô. Nó đã được hủy bỏ tại Pháp năm 1789, Phổ và Hungary nấn ná kéo dài đến năm 1848. Nga thì mãi đến năm 1861mới chính thức noi theo."
+        "t": "Chế độ nông nô bắt đầu xuất hiện vào thế kỷ thứ 8 và thứ 9 ở Tây Âu và dần bị lưu truyền. Trong suốt thế kỷ 14, hệ thống này bị suy yếu dần tại phương Tây bởi sự hoạt động của tổ chức Cái chết đen và nạn đói kém do chiến tranh. Điều này đã làm phát sinh tình trạng thiếu hụt lao động một cách gay gắt. Việc trả công cho sức lao động bằng tiền lương đồng nghĩa với việc các lãnh chúa trở thành người thuê lao động và các nông nô hiện giờ chỉ là người làm thuê. Trong cuộc khởi nghĩa nông nô tại Anh (1381), mục tiêu đấu tranh chính là đòi hủy bỏ chế độ nông nô đồng thời yêu cầu nhà nước phải cho thuê đất với giá 4 đồng/mẫu. Ngược lại, tại các quốc gia phía Đông như Đức, Muscovy, quyền lực của giới quý tộc gia tăng cùng với việc phát triển chế độ chuyên chế đã củng cố vững chắc thêm chế độ nông nô. Nó đã được hủy bỏ tại Pháp năm 1789, Phổ và Hungary nấn ná kéo dài đến năm 1848. Nga thì mãi đến năm 1861mới chính thức noi theo."
       }
     ],
     "k": "serf",
@@ -50404,7 +50404,7 @@
   },
   {
     "h": "serial epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh cơn liên tiếp."}],
+    "segs": [{"k": "m", "t": "Động kinh cơn liên tiếp."}],
     "k": "serial epilepsy"
   },
   {
@@ -51992,7 +51992,7 @@
     "segs": [{"k": "m", "t": "Tính từ"}, {"k": "m", "t": "anatomy như serotonergic"}],
     "k": "serotoninergic"
   },
-  {"h": "serotoxin", "segs": [{"k": "m", "t": "Ðộc tố huyết thanh."}], "k": "serotoxin"},
+  {"h": "serotoxin", "segs": [{"k": "m", "t": "Độc tố huyết thanh."}], "k": "serotoxin"},
   {
     "h": "serotype",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "kiểu huyết thanh."}],
@@ -52457,7 +52457,7 @@
   },
   {
     "h": "serrated suture",
-    "segs": [{"k": "m", "t": "Ðường khớp răng cưa."}],
+    "segs": [{"k": "m", "t": "Đường khớp răng cưa."}],
     "k": "serrated suture"
   },
   {
@@ -52886,12 +52886,12 @@
       {
         "k": "ex",
         "t": "John copied off my test paper. It would serve him right if he fails the test: John cóp pi bài thi của tôi.",
-        "vi": "Ðáng đời cho nó nếu nó rớt kỳ thi này."
+        "vi": "Đáng đời cho nó nếu nó rớt kỳ thi này."
       },
       {
         "k": "ex",
         "t": "It'd serve John right if he got arrested:",
-        "vi": "Ðáng đời John nếu nó bị bắt."
+        "vi": "Đáng đời John nếu nó bị bắt."
       }
     ],
     "k": "serve someone right"
@@ -53033,7 +53033,7 @@
       },
       {
         "k": "m",
-        "t": "Ðặt hệ thống này ở nhiều nơi khác nhau cung cấp các thiết bị dự phòng và bảo vệ công ty khỏi các tai họa cục bộ, được minh họa bên phải hình S-2. Người dùng địa phương truy cập dữ liệu dễ hơn. Dữ liệu phải có sẵn tại tất cả các nơi để có thể sao chép từ các nơi này tới trung tâm. Việc sao chép có thể không bảo đảm tính đồng bộ, tính thời gian thực của dữ liệu, nhưng trong vài trường hợp (như dịch vụ thư mục) điều này không quan trọng."
+        "t": "Đặt hệ thống này ở nhiều nơi khác nhau cung cấp các thiết bị dự phòng và bảo vệ công ty khỏi các tai họa cục bộ, được minh họa bên phải hình S-2. Người dùng địa phương truy cập dữ liệu dễ hơn. Dữ liệu phải có sẵn tại tất cả các nơi để có thể sao chép từ các nơi này tới trung tâm. Việc sao chép có thể không bảo đảm tính đồng bộ, tính thời gian thực của dữ liệu, nhưng trong vài trường hợp (như dịch vụ thư mục) điều này không quan trọng."
       },
       {"k": "m", "t": "Các đặc tính của server"},
       {
@@ -53043,7 +53043,7 @@
       {"k": "m", "t": "Hình S-2 Các kỹ thuật phân nhóm và tái lập trên máy chủ"},
       {
         "k": "m",
-        "t": "Nếu ngân sách bạn có hạn, cách tốt nhất để có được hệ thống tốt với giá cả hợp lý là hệ thống đa bộ xử lý. Hệ thống đa bộ xử lý của Intel tiêu biểu là hệ thống có 4 bộ xử lý. Ðể tận dụng hệ thống này, bạn cần có hệ điều hành hỗ trợ SMP (symmetrical multiprocessing: đa xử lý đối xứng) như Windows NT hoặc Novell NetWare. Hệ thống SMP tách các tác vụ xử lý thành những thread (luồng) và mỗi luồng được xử lý bởi một CPU. Vì vậy về mặt lý thuyết, hệ thống 4 bộ xử lý có thể xử lý nhanh gấp 4 lần hệ thống chỉ có 1 bộ xử lý."
+        "t": "Nếu ngân sách bạn có hạn, cách tốt nhất để có được hệ thống tốt với giá cả hợp lý là hệ thống đa bộ xử lý. Hệ thống đa bộ xử lý của Intel tiêu biểu là hệ thống có 4 bộ xử lý. Để tận dụng hệ thống này, bạn cần có hệ điều hành hỗ trợ SMP (symmetrical multiprocessing: đa xử lý đối xứng) như Windows NT hoặc Novell NetWare. Hệ thống SMP tách các tác vụ xử lý thành những thread (luồng) và mỗi luồng được xử lý bởi một CPU. Vì vậy về mặt lý thuyết, hệ thống 4 bộ xử lý có thể xử lý nhanh gấp 4 lần hệ thống chỉ có 1 bộ xử lý."
       },
       {
         "k": "m",
@@ -53057,7 +53057,7 @@
       {"k": "m", "t": "Siêu server"},
       {
         "k": "m",
-        "t": "Nếu khả năng xử lý cao và giá thành cao thì ta gọi là superserver. Vài năm trước đây, hệ thống 4 bộ xử lý được gọi là superserver. Hiện nay, superserver được xem là hệ thống gồm 8 bộ xử lý hoặc nhiều hơn nữa, dung lượng bộ nhớ tính bằng gigabyte, hệ thống lưu trữ RAID tính bằng terabyte, và các đặc tính khác như nhiều nguồn cung cấp điện. Ðặc điểm nổi bật là có đường bus riêng. Sun Microsystems và NetFRAME Systems là các nhà sản xuất nổi tiếng trong lĩnh vực này."
+        "t": "Nếu khả năng xử lý cao và giá thành cao thì ta gọi là superserver. Vài năm trước đây, hệ thống 4 bộ xử lý được gọi là superserver. Hiện nay, superserver được xem là hệ thống gồm 8 bộ xử lý hoặc nhiều hơn nữa, dung lượng bộ nhớ tính bằng gigabyte, hệ thống lưu trữ RAID tính bằng terabyte, và các đặc tính khác như nhiều nguồn cung cấp điện. Đặc điểm nổi bật là có đường bus riêng. Sun Microsystems và NetFRAME Systems là các nhà sản xuất nổi tiếng trong lĩnh vực này."
       },
       {
         "k": "m",
@@ -53082,12 +53082,12 @@
       },
       {
         "k": "m",
-        "t": "Dĩ nhiên, dữ liệu được truyền trực tiếp từ đĩa lên bộ chuyển mạch server, bộ chuyển mạch server phải đóng gói các dữ liệu này thành các frame hoặc cell. Ðiều này có thể làm bớt gánh nặng đối với server, hơn nữa bộ chuyển mạch của GigaLab server lọc những lưu thông trên mạng mà không cần thiết đối với server."
+        "t": "Dĩ nhiên, dữ liệu được truyền trực tiếp từ đĩa lên bộ chuyển mạch server, bộ chuyển mạch server phải đóng gói các dữ liệu này thành các frame hoặc cell. Điều này có thể làm bớt gánh nặng đối với server, hơn nữa bộ chuyển mạch của GigaLab server lọc những lưu thông trên mạng mà không cần thiết đối với server."
       },
       {"k": "m", "t": "Kiến trúc I2O"},
       {
         "k": "m",
-        "t": "Một phát triển thú vị khác về server là I2O cho phép thiết bị I/O tạo ra các thiết bị đĩa mang đi được qua các hệ điều hành. Quan trọng hơn cả về phương diện vận hành của server, I2O tạo điều kiện cho hệ thống I/O con thoát ra khỏi các ý định ngắt I/O của máy chủ. Ðiều này cải tiến hoạt động xuất nhập và cho phép các server phục vụ tốt hơn trong những dải tầng cao của những mạng bận rộn. Thông tin về I2O có thể lấy từ web-site I2O Special Interest Group cho dưới đây ở mục \"Thông tin trên Internet\"."
+        "t": "Một phát triển thú vị khác về server là I2O cho phép thiết bị I/O tạo ra các thiết bị đĩa mang đi được qua các hệ điều hành. Quan trọng hơn cả về phương diện vận hành của server, I2O tạo điều kiện cho hệ thống I/O con thoát ra khỏi các ý định ngắt I/O của máy chủ. Điều này cải tiến hoạt động xuất nhập và cho phép các server phục vụ tốt hơn trong những dải tầng cao của những mạng bận rộn. Thông tin về I2O có thể lấy từ web-site I2O Special Interest Group cho dưới đây ở mục \"Thông tin trên Internet\"."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -55266,7 +55266,7 @@
     "segs": [{"k": "m", "t": "hố gầm (để chữa ô tô), hố sửa chữa (ô tô)."}],
     "k": "servise pit"
   },
-  {"h": "Servites", "segs": [{"k": "m", "t": "Tu sĩ Dòng Tôi tớ Ðức Mẹ."}], "k": "servites"},
+  {"h": "Servites", "segs": [{"k": "m", "t": "Tu sĩ Dòng Tôi tớ Đức Mẹ."}], "k": "servites"},
   {
     "h": "servitor",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(cổ), (thơ) gia nhân, nô bộc."}],
@@ -55579,7 +55579,7 @@
   },
   {
     "h": "Servus servorum Dei",
-    "segs": [{"k": "m", "t": "Tôi tớ của các tôi tớ Thiên Chúa (danh hiệu Ðức Giáo hoàng)."}],
+    "segs": [{"k": "m", "t": "Tôi tớ của các tôi tớ Thiên Chúa (danh hiệu Đức Giáo hoàng)."}],
     "k": "servus servorum dei"
   },
   {
@@ -56429,7 +56429,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đại số tập hợp. Tập hợp M gồm tất cả các tập hợp con của một tập hợp không rỗng V (gọi là tập hợp vũ trụ) cùng với các phép toán (, (, c (giao, hợp, phần bù). Các phép toán này thỏa mãn các tính chất sau đây: Giáo hoán: A(B = B(A,A(B = B(A. Kết hợp: (A(B) (C = A( (B(C), (A(B) (C = A( (B(C). Phân bố: A( (B(C) = (A(B) ( (A(C). A( (B(C) = (A(B) ( (A(C). Tồn tại phần tử trung hòa: tồn tại hai phần tử khác nhau V và ( (tập hợp rỗng) sao cho: A(V = V(A = A. A(( = ((A = A. Tồn tại phần tử bù: với mọi A(M, tồn tại duy nhất phần tử cA (phần bù) sao cho: A(cA = cA(A = (. A(cA = cA(A = V. Như vậy đại số tập hợp là một ví dụ của đại số Bun (x. Ðại số Bun)."
+        "t": "đại số tập hợp. Tập hợp M gồm tất cả các tập hợp con của một tập hợp không rỗng V (gọi là tập hợp vũ trụ) cùng với các phép toán (, (, c (giao, hợp, phần bù). Các phép toán này thỏa mãn các tính chất sau đây: Giáo hoán: A(B = B(A,A(B = B(A. Kết hợp: (A(B) (C = A( (B(C), (A(B) (C = A( (B(C). Phân bố: A( (B(C) = (A(B) ( (A(C). A( (B(C) = (A(B) ( (A(C). Tồn tại phần tử trung hòa: tồn tại hai phần tử khác nhau V và ( (tập hợp rỗng) sao cho: A(V = V(A = A. A(( = ((A = A. Tồn tại phần tử bù: với mọi A(M, tồn tại duy nhất phần tử cA (phần bù) sao cho: A(cA = cA(A = (. A(cA = cA(A = V. Như vậy đại số tập hợp là một ví dụ của đại số Bun (x. Đại số Bun)."
       }
     ],
     "k": "set algebra"
@@ -56490,7 +56490,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "xich tập hợp. Giả sử P là một tập hợp a ( P, b ( P. Xích tập hợp từ a tới b là một dãy hữu hạn các tập hợp điểm Mi (1 ( i ( m) sao cho: a ( M1. b( Mm. Mi ( Mi+1 ( 0 với 1 ( i ( m-1. (Ðường) xoắn ốc. (X. Ðường xoắn ốc)."
+        "t": "xich tập hợp. Giả sử P là một tập hợp a ( P, b ( P. Xích tập hợp từ a tới b là một dãy hữu hạn các tập hợp điểm Mi (1 ( i ( m) sao cho: a ( M1. b( Mm. Mi ( Mi+1 ( 0 với 1 ( i ( m-1. (Đường) xoắn ốc. (X. Đường xoắn ốc)."
       }
     ],
     "k": "set chain"
@@ -56992,7 +56992,7 @@
       {
         "k": "ex",
         "t": "This is a very unfortunate situation. I'll ask the people responsible to set this matter right:",
-        "vi": "Ðây là một tình huống rất bất hạnh. Tôi sẽ đòi hỏi những người có trách nhiệm sửa sai vấn đề này."
+        "vi": "Đây là một tình huống rất bất hạnh. Tôi sẽ đòi hỏi những người có trách nhiệm sửa sai vấn đề này."
       },
       {
         "k": "ex",
@@ -58161,7 +58161,7 @@
       {
         "k": "ex",
         "t": "Ask your grocer for Wilson's canned corn- the best corn in cans. Don't settle for less:",
-        "vi": "Hãy hỏi người chủ tiệm tạp phẩm loại bắp đóng hộp của Wilson - loại bắp đóng hộp tốt nhất. Ðừng chấp nhận thứ kém hơn."
+        "vi": "Hãy hỏi người chủ tiệm tạp phẩm loại bắp đóng hộp của Wilson - loại bắp đóng hộp tốt nhất. Đừng chấp nhận thứ kém hơn."
       }
     ],
     "k": "settle for something"
@@ -58490,7 +58490,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "Mẫu đơn Hướng dẫn định cư"},
-      {"k": "m", "t": "Mẫu đơn Hướng dẫn Ðịnh cư (để người xin định cư điền vào)"}
+      {"k": "m", "t": "Mẫu đơn Hướng dẫn Định cư (để người xin định cư điền vào)"}
     ],
     "k": "settlement information"
   },
@@ -59211,7 +59211,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1756-1763) Cuộc chiến tranh dai dẳng và lan rộng khắp châu Âu bao gồm hai phía: một bên là Phổ, Anh và Hanover; bên kia là Áo, Pháp, Nga, Thụy Ðiển và Tây Ban Nha. Nó tiếp nối sau cuộc tranh cãi dai dẳng giữa hai bên về Hiệp định AIX-La-Chapelle. Một phần cũng do sự tranh chấp thuộc địa giữa hai nước Pháp và Anh. Phần khác là do cuộc đấu tranh giành quyền uy tại Ðức giữa Áo và Phổ. Các cuộc xung đột giữa Anh và Pháp tại Bắc Mỹ được tiếp nối bằng cuộc thám hiểm vùng Braddock. Mỗi bên đều không được hài lòng về các đồng minh của mình. Năm 1756, vua Frederick II của Phổ ký kết Hiệp định Westminster với Anh. Ðiều này khiến cho Maria Theresa của Áo cùng với Bộ trưởng của mình là Kaunitz mạnh dạn liên minh với Pháp (được xem là một cuộc cách mạng ngoại giao) bằng 2 Hiệp ước Versailles năm 1756 và 1757. Bà cũng đồng thời liên minh với nữ hoàng Elizabeth Petrovna của Nga. Trong giai đoạn đầu ưu thế thuộc về liên minh Pháp-Áo nhưng đến tháng 7 năm 1757, Pitt cha lên nắm quyền tại Anh. Ông đã điều khiển trận chiến bằng sự khôn khéo và dũng cảm của mình. Tháng 11, Frederick II giành thắng lợi rực rỡ tại Rossbach đè bẹp Pháp; tháng 12, ông đánh bại Áo tại Leuthen. Tuy vậy, Frederick cũng bị mưu sát vào năm 1758. Sau đó, ông đánh bại Nga tại Zorndorf. Kể từ lúc đó, Ferdinand xứ Brunswick bảo vệ sườn phía Tây của ông bằng quân đội Anglo-Hanoverian. Năm 1759 được xem là năm thắng lợi của Anh: Wolfe chiếm được Quebec; Ferdinand đánh bại quân đội Pháp tại Minden và Hawke phá hủy hạm đội Pháp tại vịnh Quiberon. Tại Ấn Ðộ: Clive giành được quyền kiểm soát thành phố Bengal tại Plassey và chiếm luôn Montreal vào năm 1760. Ðô đốc Boscawen đột kích thành công các căn cứ Pháp ở Tây Ấn. Năm 1761, Tây Ban Nha gia nhập cuộc chiến. Cùng lúc đó, Pitt về hưu. Cái chết của nữ hoàng Elizabeth nước Nga đã giảm bớt áp lực lên Frederick. Thêm vào đó, người kế vị là Peter III lại đảo ngược hoàn toàn các chính sách của bà. Tất cả các điều kiện đều đã chín mùi cho hòa bình. Hiệp định Paris đã được ký kết vào năm 1763. Trong đó, Anh và Nga là hai nước hưởng lợi nhiều nhất."
+        "t": "(1756-1763) Cuộc chiến tranh dai dẳng và lan rộng khắp châu Âu bao gồm hai phía: một bên là Phổ, Anh và Hanover; bên kia là Áo, Pháp, Nga, Thụy Điển và Tây Ban Nha. Nó tiếp nối sau cuộc tranh cãi dai dẳng giữa hai bên về Hiệp định AIX-La-Chapelle. Một phần cũng do sự tranh chấp thuộc địa giữa hai nước Pháp và Anh. Phần khác là do cuộc đấu tranh giành quyền uy tại Đức giữa Áo và Phổ. Các cuộc xung đột giữa Anh và Pháp tại Bắc Mỹ được tiếp nối bằng cuộc thám hiểm vùng Braddock. Mỗi bên đều không được hài lòng về các đồng minh của mình. Năm 1756, vua Frederick II của Phổ ký kết Hiệp định Westminster với Anh. Điều này khiến cho Maria Theresa của Áo cùng với Bộ trưởng của mình là Kaunitz mạnh dạn liên minh với Pháp (được xem là một cuộc cách mạng ngoại giao) bằng 2 Hiệp ước Versailles năm 1756 và 1757. Bà cũng đồng thời liên minh với nữ hoàng Elizabeth Petrovna của Nga. Trong giai đoạn đầu ưu thế thuộc về liên minh Pháp-Áo nhưng đến tháng 7 năm 1757, Pitt cha lên nắm quyền tại Anh. Ông đã điều khiển trận chiến bằng sự khôn khéo và dũng cảm của mình. Tháng 11, Frederick II giành thắng lợi rực rỡ tại Rossbach đè bẹp Pháp; tháng 12, ông đánh bại Áo tại Leuthen. Tuy vậy, Frederick cũng bị mưu sát vào năm 1758. Sau đó, ông đánh bại Nga tại Zorndorf. Kể từ lúc đó, Ferdinand xứ Brunswick bảo vệ sườn phía Tây của ông bằng quân đội Anglo-Hanoverian. Năm 1759 được xem là năm thắng lợi của Anh: Wolfe chiếm được Quebec; Ferdinand đánh bại quân đội Pháp tại Minden và Hawke phá hủy hạm đội Pháp tại vịnh Quiberon. Tại Ấn Độ: Clive giành được quyền kiểm soát thành phố Bengal tại Plassey và chiếm luôn Montreal vào năm 1760. Đô đốc Boscawen đột kích thành công các căn cứ Pháp ở Tây Ấn. Năm 1761, Tây Ban Nha gia nhập cuộc chiến. Cùng lúc đó, Pitt về hưu. Cái chết của nữ hoàng Elizabeth nước Nga đã giảm bớt áp lực lên Frederick. Thêm vào đó, người kế vị là Peter III lại đảo ngược hoàn toàn các chính sách của bà. Tất cả các điều kiện đều đã chín mùi cho hòa bình. Hiệp định Paris đã được ký kết vào năm 1763. Trong đó, Anh và Nga là hai nước hưởng lợi nhiều nhất."
       }
     ],
     "k": "seven years war"
@@ -59433,7 +59433,7 @@
       {
         "k": "ex",
         "t": "the seventh day",
-        "vi": ") ngày Sabbath (thứ bảy của người theo đạo Do Thái, Chủ nhật của người theo đạo Cơ Ðốc)."
+        "vi": ") ngày Sabbath (thứ bảy của người theo đạo Do Thái, Chủ nhật của người theo đạo Cơ Đốc)."
       }
     ],
     "ipa": "'sevnθ'dei",
@@ -61056,7 +61056,7 @@
     "segs": [{"k": "m", "t": "Nhiễm sắc chất giới tính."}],
     "k": "sex chromatin"
   },
-  {"h": "sex control", "segs": [{"k": "m", "t": "Ðiều chỉnh giới tính."}], "k": "sex control"},
+  {"h": "sex control", "segs": [{"k": "m", "t": "Điều chỉnh giới tính."}], "k": "sex control"},
   {"h": "sex cord", "segs": [{"k": "m", "t": "Cột giới tính."}], "k": "sex cord"},
   {"h": "sex cycle", "segs": [{"k": "m", "t": "Chu kỳ sinh dục."}], "k": "sex cycle"},
   {
@@ -61530,7 +61530,7 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "sextillion"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(Anh, Ðức) một triệu lũy thừa sáu"},
+      {"k": "m", "t": "(Anh, Đức) một triệu lũy thừa sáu"},
       {"k": "m", "t": "(Mỹ, Pháp) một ngàn lũy thừa bảy."}
     ],
     "ipa": "sek'siliən",
@@ -62245,10 +62245,10 @@
   {
     "h": "Seychelles",
     "segs": [
-      {"k": "m", "t": "Quốc gia có dạng một quần đảo trên vùng biển Ấn Ðộ Dương."},
+      {"k": "m", "t": "Quốc gia có dạng một quần đảo trên vùng biển Ấn Độ Dương."},
       {
         "k": "m",
-        "t": "Ðịa hình: Seychelles bao gồm 92 hòn đảo, nằm lệch 4 vĩ độ Nam so với đường xích đạo và cách bờ biển châu Phi khoảng 1.500 km (930 dặm)."
+        "t": "Địa hình: Seychelles bao gồm 92 hòn đảo, nằm lệch 4 vĩ độ Nam so với đường xích đạo và cách bờ biển châu Phi khoảng 1.500 km (930 dặm)."
       },
       {
         "k": "m",
@@ -62256,7 +62256,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: quần đảo này bỏ hoang cho đến khi trở thành thuộc địa của Pháp. Nó được phát hiện vào năm 1609 bởi đoàn thám hiểm thuộc công ty Ðông Ấn của Anh và chính thức sáp nhập vào Pháp năm 1756. Sau đó, nó bị Anh đoạt lại vào năm 1810. Trong suốt cuộc chiến tranh Napoleon, nó thuộc quyền cai quản của Mauritius trước khi trở thành thuộc địa riêng lẻ của vương quốc Anh năm 1903. Quốc gia này giành được quyền tự chủ vào năm 1970 và trở thành Nước cộng hòa độc lập năm 1975. Năm 1977, một cuộc đảo chính đã xảy ra. Thủ tướng France-Albert Rene tự phong mình làm Tổng thống. Năm 1991, ông chấm dứt sự phản kháng trước tính hợp pháp của các đảng đối lập. Cuộc bầu cử đa đảng được tổ chức năm 1993 và thắng lợi thuộc về đảng Mặt trận dân tộc tiến bộ Seychelles của Rene."
+        "t": "Lịch sử: quần đảo này bỏ hoang cho đến khi trở thành thuộc địa của Pháp. Nó được phát hiện vào năm 1609 bởi đoàn thám hiểm thuộc công ty Đông Ấn của Anh và chính thức sáp nhập vào Pháp năm 1756. Sau đó, nó bị Anh đoạt lại vào năm 1810. Trong suốt cuộc chiến tranh Napoleon, nó thuộc quyền cai quản của Mauritius trước khi trở thành thuộc địa riêng lẻ của vương quốc Anh năm 1903. Quốc gia này giành được quyền tự chủ vào năm 1970 và trở thành Nước cộng hòa độc lập năm 1975. Năm 1977, một cuộc đảo chính đã xảy ra. Thủ tướng France-Albert Rene tự phong mình làm Tổng thống. Năm 1991, ông chấm dứt sự phản kháng trước tính hợp pháp của các đảng đối lập. Cuộc bầu cử đa đảng được tổ chức năm 1993 và thắng lợi thuộc về đảng Mặt trận dân tộc tiến bộ Seychelles của Rene."
       },
       {"k": "m", "t": "Thủ đô: Victoria."},
       {"k": "m", "t": "Diện tích: 453 km2"},
@@ -62268,7 +62268,7 @@
       },
       {
         "k": "m",
-        "t": "Sắc tộc: Người Seychelles lai (lai Á, lai Phi và lai Âu) chiếm 89,1%; Ấn Ðộ 4,7%; Malagasy 3,1%; Trung Quốc 16%; Anh 15%."
+        "t": "Sắc tộc: Người Seychelles lai (lai Á, lai Phi và lai Âu) chiếm 89,1%; Ấn Độ 4,7%; Malagasy 3,1%; Trung Quốc 16%; Anh 15%."
       },
       {"k": "m", "t": "Ngôn ngữ: Creole, Anh, Pháp."},
       {

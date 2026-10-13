@@ -10,7 +10,7 @@
   "lines": [
     {"e": 14.76, "en": "Hello.", "vi": "Xin chào.", "s": 13.6},
     {"e": 17.05, "en": "Hi. Hi, Angie.", "vi": "Chào Angie.", "s": 14.76},
-    {"e": 19.65, "en": "Guess what? What?", "vi": "Ðoán xem cái gì nè? Cái gì thế?", "s": 17.05},
+    {"e": 19.65, "en": "Guess what? What?", "vi": "Đoán xem cái gì nè? Cái gì thế?", "s": 17.05},
     {
       "e": 24.1,
       "en": "My mom's birthday is coming up soon and I need some help with the gift.",
@@ -68,7 +68,7 @@
     {
       "e": 51.79,
       "en": "and on Friday my friend is coming from London.",
-      "vi": "còn thứ Sáu thì bạn em đến từ Luân Ðôn.",
+      "vi": "còn thứ Sáu thì bạn em đến từ Luân Đôn.",
       "s": 49.0
     },
     {

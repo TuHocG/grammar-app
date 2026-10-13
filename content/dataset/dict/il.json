@@ -47,7 +47,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một hòn đảo của Pháp, một khu đất nằm ở trung tâm thủ đô Paris, nơi có hai con sông Marne và Ouse nối với sông Seine. Ðó là nơi định cư tốt và đất đai phì nhiêu, cung cấp rau quả cho Paris. Nguồn gốc nơi đó là lãnh địa của những Hầu tước Pháp và là cái nôi của nền quân chủ Pháp, sau này nó lại bị phân chia ở cuộc cách mạng Pháp, nơi đây không còn là một tỉnh mà chỉ còn là một khu vực nhỏ trong lòng thủ đô Paris, mà người ta mệnh danh là một hòn đảo (theo nghĩa bóng) của người Pháp."
+        "t": "một hòn đảo của Pháp, một khu đất nằm ở trung tâm thủ đô Paris, nơi có hai con sông Marne và Ouse nối với sông Seine. Đó là nơi định cư tốt và đất đai phì nhiêu, cung cấp rau quả cho Paris. Nguồn gốc nơi đó là lãnh địa của những Hầu tước Pháp và là cái nôi của nền quân chủ Pháp, sau này nó lại bị phân chia ở cuộc cách mạng Pháp, nơi đây không còn là một tỉnh mà chỉ còn là một khu vực nhỏ trong lòng thủ đô Paris, mà người ta mệnh danh là một hòn đảo (theo nghĩa bóng) của người Pháp."
       }
     ],
     "k": "ile de france"
@@ -66,7 +66,7 @@
     "k": "ileadelphus"
   },
   {"h": "ileal", "segs": [{"k": "ref", "t": "ileum"}], "redirect": "ileum", "k": "ileal"},
-  {"h": "ileal artery", "segs": [{"k": "m", "t": "Ðộng mạch hồi tràng."}], "k": "ileal artery"},
+  {"h": "ileal artery", "segs": [{"k": "m", "t": "Động mạch hồi tràng."}], "k": "ileal artery"},
   {"h": "ileal kink", "segs": [{"k": "m", "t": "(chứng) xoắn hồi tràng."}], "k": "ileal kink"},
   {"h": "ileal stasis", "segs": [{"k": "m", "t": "ứ hồi tràng."}], "k": "ileal stasis"},
   {"h": "ileectomy", "segs": [{"k": "m", "t": "(thủ thuật) cắt bỏ hồi tràng."}], "k": "ileectomy"},
@@ -106,7 +106,7 @@
   {"h": "ileocolic", "segs": [{"k": "m", "t": "(thuộc) hồi kết trang."}], "k": "ileocolic"},
   {
     "h": "ileocolic artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch hồi kết tràng."}],
+    "segs": [{"k": "m", "t": "Động mạch hồi kết tràng."}],
     "k": "ileocolic artery"
   },
   {"h": "ileocolic valve", "segs": [{"k": "m", "t": "Van hồi-manh tràng."}], "k": "ileocolic valve"},
@@ -295,7 +295,7 @@
     "k": "iliac mesocolon"
   },
   {"h": "iliac muscle", "segs": [{"k": "m", "t": "Cơ chậu."}], "k": "iliac muscle"},
-  {"h": "iliac plexus", "segs": [{"k": "m", "t": "Ðám rối thần kinh chậu."}], "k": "iliac plexus"},
+  {"h": "iliac plexus", "segs": [{"k": "m", "t": "Đám rối thần kinh chậu."}], "k": "iliac plexus"},
   {
     "h": "iliac vein external",
     "segs": [{"k": "m", "t": "tĩnh mạch chậu ngoài."}],
@@ -402,7 +402,7 @@
   {"h": "iliolumbar", "segs": [{"k": "m", "t": "(thuộc) vùng chậu-thắt lưng."}], "k": "iliolumbar"},
   {
     "h": "iliolumbar artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch chậu thắt lưng."}],
+    "segs": [{"k": "m", "t": "Động mạch chậu thắt lưng."}],
     "k": "iliolumbar artery"
   },
   {
@@ -2846,7 +2846,7 @@
       {
         "k": "ex",
         "t": "To illustrate my point, I've done a comparative analysis",
-        "vi": "Ðể minh họa quan điểm của tôi, tôi đã tiến hành phân tích so sánh"
+        "vi": "Để minh họa quan điểm của tôi, tôi đã tiến hành phân tích so sánh"
       },
       {"k": "m", "t": "là điển hình của cái gì"},
       {
@@ -3018,9 +3018,9 @@
     "segs": [
       {
         "k": "m",
-        "t": "một khu vực trên bờ biển phía Ðông Adritic ở phía Tây bắc nước Hy Lạp, vào thời cổ, những bộ lạc Ấn-Âu định cư ở đó từ năm 1000 trước công nguyên. Họ đã gây cho các nước láng giềng rất nhiều khó khăn là Epirus và Macedonia. Về sau, họ áp đặt sự đe dọa lên sự lưu thông tàu bè, vì thế làm cho quân đội La Mã tuyên chiến với họ và dập tắt những tham vọng của họ trong cuộc chiến kéo dài 9 năm từ 228 đến 219 trước công nguyên."
+        "t": "một khu vực trên bờ biển phía Đông Adritic ở phía Tây bắc nước Hy Lạp, vào thời cổ, những bộ lạc Ấn-Âu định cư ở đó từ năm 1000 trước công nguyên. Họ đã gây cho các nước láng giềng rất nhiều khó khăn là Epirus và Macedonia. Về sau, họ áp đặt sự đe dọa lên sự lưu thông tàu bè, vì thế làm cho quân đội La Mã tuyên chiến với họ và dập tắt những tham vọng của họ trong cuộc chiến kéo dài 9 năm từ 228 đến 219 trước công nguyên."
       },
-      {"k": "m", "t": "Về sau, khu vực Illyria bị chia thành hai tỉnh. Ðó là Dalmatia và Pannonia."}
+      {"k": "m", "t": "Về sau, khu vực Illyria bị chia thành hai tỉnh. Đó là Dalmatia và Pannonia."}
     ],
     "k": "illyria"
   },

@@ -1336,7 +1336,7 @@
     "segs": [{"k": "m", "t": "Viêm màng trong tim sùi."}],
     "k": "vegetative endocarditis"
   },
-  {"h": "vegetative life", "segs": [{"k": "m", "t": "Ðời sống thực vật."}], "k": "vegetative life"},
+  {"h": "vegetative life", "segs": [{"k": "m", "t": "Đời sống thực vật."}], "k": "vegetative life"},
   {
     "h": "vegetative mycelium",
     "segs": [{"k": "m", "t": "Thể sợi nấm sinh dưỡng."}],
@@ -1485,7 +1485,7 @@
   {
     "h": "Vehicle currency",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðồng tiền phương tiện."},
+      {"k": "m", "t": "(kinh tế) Đồng tiền phương tiện."},
       {
         "k": "m",
         "t": "Trong các trung tâm buôn bán ngoại hối lớn, hầu hết mọi giao dịch được thực hiện với một số đồng tiền chủ chốt, những người nắm giữ các loại tiền khác chuyển đổi chúng sang một hay vài loại đồng tiền chủ chốt này để thực hiện giao dịch thương mại của mình."
@@ -1805,7 +1805,7 @@
   },
   {
     "h": "veil of Temple",
-    "segs": [{"k": "m", "t": "màn Ðền thờ (Giêrusalem)."}],
+    "segs": [{"k": "m", "t": "màn Đền thờ (Giêrusalem)."}],
     "k": "veil of temple"
   },
   {
@@ -4431,11 +4431,11 @@
     "h": "Vendean",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "thuộc đảng bảo hoàng xứ Văng Ðê"},
+      {"k": "m", "t": "thuộc đảng bảo hoàng xứ Văng Đê"},
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "người thuộc đảng bảo hoàng xứ Văng Ðê (thời cách mạng Pháp, từ 1793 đến 1795)."
+        "t": "người thuộc đảng bảo hoàng xứ Văng Đê (thời cách mạng Pháp, từ 1793 đến 1795)."
       }
     ],
     "ipa": "ven'di:ən",
@@ -4446,7 +4446,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một vùng đất rộng lớn ở phía Tây nước Pháp, hình thành năm 1790. Ðây là trung tâm của hàng loạt các cuộc nổi dậy Cách mạng từ năm 1793 đến 1796. Tư tưởng Cách mạng ảnh hưởng đến vùng này tương đối muộn. Các phong trào nổi dậy lan rộng trong vùng chủ yếu xuất phát từ sự phản kháng chống lại chế độ tòng quân. Chỉ trong tháng 3, hàng loạt những người ủng hộ cho nền Cộng hòa đã bị giết chết ngay trong thành phố. Những người ủng hộ nền quân chủ đang bị lưu đày tự cho mình lãnh đạo quân đội của Hoàng gia. Gọi là quân đội Vendean. Họ rất am hiểu vùng này. Bên cạnh đó còn được trang bị bởi đội quân của Anh. Do đó, họ đã giành được nhiều thắng lợi mặc dù sau đó quân đội Cộng hòa đã tiêu diệt được phong trào."
+        "t": "Một vùng đất rộng lớn ở phía Tây nước Pháp, hình thành năm 1790. Đây là trung tâm của hàng loạt các cuộc nổi dậy Cách mạng từ năm 1793 đến 1796. Tư tưởng Cách mạng ảnh hưởng đến vùng này tương đối muộn. Các phong trào nổi dậy lan rộng trong vùng chủ yếu xuất phát từ sự phản kháng chống lại chế độ tòng quân. Chỉ trong tháng 3, hàng loạt những người ủng hộ cho nền Cộng hòa đã bị giết chết ngay trong thành phố. Những người ủng hộ nền quân chủ đang bị lưu đày tự cho mình lãnh đạo quân đội của Hoàng gia. Gọi là quân đội Vendean. Họ rất am hiểu vùng này. Bên cạnh đó còn được trang bị bởi đội quân của Anh. Do đó, họ đã giành được nhiều thắng lợi mặc dù sau đó quân đội Cộng hòa đã tiêu diệt được phong trào."
       }
     ],
     "k": "vendee"
@@ -4906,7 +4906,7 @@
       {"k": "m", "t": "(tôn giáo) chức danh phó giáo chủ (trong Giáo hội Anh)"},
       {
         "k": "m",
-        "t": "chân phước (chức danh của người được coi là rất thánh thiện nhưng chưa được là thánh trong Nhà thờ Cơ Ðốc giáo La Mã)."
+        "t": "chân phước (chức danh của người được coi là rất thánh thiện nhưng chưa được là thánh trong Nhà thờ Cơ Đốc giáo La Mã)."
       }
     ],
     "ipa": "'venərəbl",
@@ -4951,7 +4951,7 @@
   },
   {
     "h": "veneration of Christ",
-    "segs": [{"k": "m", "t": "sùng kính hoặc kính thờ Ðức Kitô."}],
+    "segs": [{"k": "m", "t": "sùng kính hoặc kính thờ Đức Kitô."}],
     "k": "veneration of christ"
   },
   {
@@ -4966,7 +4966,7 @@
   },
   {
     "h": "veneration of Mary",
-    "segs": [{"k": "m", "t": "sùng kính Ðức Maria."}],
+    "segs": [{"k": "m", "t": "sùng kính Đức Maria."}],
     "k": "veneration of mary"
   },
   {
@@ -5131,7 +5131,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một bộ tộc ở Ý. Họ sống ở vùng Ðông Bắc Ý từ năm thứ nhất Trước Công Nguyên và có hệ thống ngôn ngữ riêng. Ðể được bảo vệ bởi Gauls và Hannibal khỏi Ý xâm lược, họ duy trì lòng trung thành đối với đế chế Roma. Dưới sự cai trị của Roma, lãnh thổ sinh sống của họ được gọi là tỉnh Venetia. Thành phố Aquileia và Padua là nơi thuận lợi để quân Goth và Hun của Ý xâm lược. Sau đó vùng lãnh thổ bị lấn chiếm ra các đảo, đầm lầy, bãi cát ven sông. Hệ thống trao đổi mua bán rất phát triển tại vùng đất này. Vào thế kỷ thứ 9, nền cộng hòa St Mark được thiết lập, sau được gọi là Venice."
+        "t": "Một bộ tộc ở Ý. Họ sống ở vùng Đông Bắc Ý từ năm thứ nhất Trước Công Nguyên và có hệ thống ngôn ngữ riêng. Để được bảo vệ bởi Gauls và Hannibal khỏi Ý xâm lược, họ duy trì lòng trung thành đối với đế chế Roma. Dưới sự cai trị của Roma, lãnh thổ sinh sống của họ được gọi là tỉnh Venetia. Thành phố Aquileia và Padua là nơi thuận lợi để quân Goth và Hun của Ý xâm lược. Sau đó vùng lãnh thổ bị lấn chiếm ra các đảo, đầm lầy, bãi cát ven sông. Hệ thống trao đổi mua bán rất phát triển tại vùng đất này. Vào thế kỷ thứ 9, nền cộng hòa St Mark được thiết lập, sau được gọi là Venice."
       }
     ],
     "k": "veneti"
@@ -5228,11 +5228,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một quốc gia thuộc miền duyên hải phía Bắc của Nam Mỹ, có đường bờ biển thuộc Caribbean. Phía Tây giáp với Colombia, phía Nam giáp Brazil và giáp với Guyana về phía Ðông."
+        "t": "Một quốc gia thuộc miền duyên hải phía Bắc của Nam Mỹ, có đường bờ biển thuộc Caribbean. Phía Tây giáp với Colombia, phía Nam giáp Brazil và giáp với Guyana về phía Đông."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Vùng duyên hải bao quanh bởi các bán đảo là vùng có khí hậu nhiệt đới. Dầu khí được tìm thấy nhiều ở đây, đặc biệt là xung quanh hồ Maracaibo. Về cuối phía Ðông vùng duyên hải này là châu thổ sông Orinoco. Nội địa của đất nước là vùng ven biển Andes và những cánh đồng trụi. Cao nguyên Guyana nằm về phía Nam của đất nước, có ngọn thác Angel được xem là ngọn tháp cao nhất Thế Giới."
+        "t": "Địa hình: Vùng duyên hải bao quanh bởi các bán đảo là vùng có khí hậu nhiệt đới. Dầu khí được tìm thấy nhiều ở đây, đặc biệt là xung quanh hồ Maracaibo. Về cuối phía Đông vùng duyên hải này là châu thổ sông Orinoco. Nội địa của đất nước là vùng ven biển Andes và những cánh đồng trụi. Cao nguyên Guyana nằm về phía Nam của đất nước, có ngọn thác Angel được xem là ngọn tháp cao nhất Thế Giới."
       },
       {
         "k": "m",
@@ -5240,7 +5240,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Venezuela được phát hiện vào năm 1499 bởi nhà thám hiểm Amerigo Vespucci. Ông gọi vùng đất mới này là \"Little Venice\" sau khi thấy nhà của những thổ dân ở đây được xây dựng trên các cột chống dọc hồ Maracaibo. Vùng đất này sau đó trở thành thuộc địa của người Tây Ban Nha. Vào giữa thế kỷ thứ 18, những người Creoles giàu có (gốc người Tây Ban Nha sinh sống ở Châu Mỹ) đã phản kháng chống lại chủ trương của Madrid về việc cấm vận các hoạt động buôn bán ở đây. Tại thủ đô Caracas, từ những năm 1806 đã dấy lên các phong trào giành độc lập của người Colombia. Kết quả hình thành nên Gran Colombia bởi Simon Bolivar. Khi phong trào bị gãy đổ vào năm 1829, Venezuela tự tuyên bố là một nền cộng hòa dưới triều đại tổng thống đầu tiên Jose Antonio Paez (1830-1843). Ông ra sức bảo vệ vùng lãnh thổ đất nước, thiết lập một bộ máy chính phủ tối cao, cho phép hoạt động các phong trào tự do và kiểm soát lực lượng quân đội. Từ 1843-1870, tình trạng hỗn loạn và bạo lực chính trị không ngừng diễn ra. Dưới thời tổng thống Guzman Blanco (1870-1888) các phong trào có xu thế hướng về một nền dân chủ. Năm 1881 diễn ra cuộc tổng bầu cử đầu tiên. Kinh tế cũng rất phát triển trong khoảng thời gian này. Tuy nhiên sau đó, chế độ bạo ngược lại tái thiết lập dưới thời Caudillos Cipriano Castro (1899-1908) và Juan Vicente Gomez (1909-1935). Dầu khí được phát hiện vào trước chiến tranh Thế Giới lần thứ I. Ðến năm 1920, Venezuela là nước xuất khẩu dầu mỏ đứng đầu Thế giới. Sức mạnh quân đội vẫn chiếm ưu thế cho tới khi Romulo Betancourt lên làm tổng thống (1959-1964). Ông hướng về phía nhân dân. Người kế nghiệp ông là Raul Leoni (1964-1969) cũng thành công trong vai trò như vậy. Kể từ đó, nền dân chủ tiếp tục được mở rộng. Tồn tại 2 Ðảng chính là: đảng dân chủ Accion và đảng dân chủ Christian. Hai Ðảng này có quyền lực ngang nhau. Những người theo chủ nghĩa cực đoan vẫn chống lại 2 Ðảng này bằng việc gây ra các vụ khủng bố. Ngành công nghiệp dầu khí đã đem lại sự phát triển thịnh vượng cho nền kinh tế đất nước. Tuy nhiên vấn đề gia tăng dân số và lạm phát vẫn gây nhiều phiền não cho tổng thống Jaime Lusinchi (1983-1988). Sau đó, đến người kế vị của ông là Carlos Andres Perez cũng gặp nhiều vấn đề đau đầu. Chẳng hạn như việc giảm giá dầu và buôn bán ma túy. Bên cạnh đó, ông còn phải đối mặt với nhiều vụ nổi loạn nghiêm trọng vào thập niên 1989 và 2 vụ tấn công của quân đội năm 1992. Năm 1993, Perez bị trục xuất khỏi chính phủ và bị tố cáo về tội tham nhũng. Ông bị buộc tội và phải vào tù năm 1996. Tháng 12/1993, Rafael Caldera Rodriguez đắc cử tổng thống."
+        "t": "Lịch sử: Venezuela được phát hiện vào năm 1499 bởi nhà thám hiểm Amerigo Vespucci. Ông gọi vùng đất mới này là \"Little Venice\" sau khi thấy nhà của những thổ dân ở đây được xây dựng trên các cột chống dọc hồ Maracaibo. Vùng đất này sau đó trở thành thuộc địa của người Tây Ban Nha. Vào giữa thế kỷ thứ 18, những người Creoles giàu có (gốc người Tây Ban Nha sinh sống ở Châu Mỹ) đã phản kháng chống lại chủ trương của Madrid về việc cấm vận các hoạt động buôn bán ở đây. Tại thủ đô Caracas, từ những năm 1806 đã dấy lên các phong trào giành độc lập của người Colombia. Kết quả hình thành nên Gran Colombia bởi Simon Bolivar. Khi phong trào bị gãy đổ vào năm 1829, Venezuela tự tuyên bố là một nền cộng hòa dưới triều đại tổng thống đầu tiên Jose Antonio Paez (1830-1843). Ông ra sức bảo vệ vùng lãnh thổ đất nước, thiết lập một bộ máy chính phủ tối cao, cho phép hoạt động các phong trào tự do và kiểm soát lực lượng quân đội. Từ 1843-1870, tình trạng hỗn loạn và bạo lực chính trị không ngừng diễn ra. Dưới thời tổng thống Guzman Blanco (1870-1888) các phong trào có xu thế hướng về một nền dân chủ. Năm 1881 diễn ra cuộc tổng bầu cử đầu tiên. Kinh tế cũng rất phát triển trong khoảng thời gian này. Tuy nhiên sau đó, chế độ bạo ngược lại tái thiết lập dưới thời Caudillos Cipriano Castro (1899-1908) và Juan Vicente Gomez (1909-1935). Dầu khí được phát hiện vào trước chiến tranh Thế Giới lần thứ I. Đến năm 1920, Venezuela là nước xuất khẩu dầu mỏ đứng đầu Thế giới. Sức mạnh quân đội vẫn chiếm ưu thế cho tới khi Romulo Betancourt lên làm tổng thống (1959-1964). Ông hướng về phía nhân dân. Người kế nghiệp ông là Raul Leoni (1964-1969) cũng thành công trong vai trò như vậy. Kể từ đó, nền dân chủ tiếp tục được mở rộng. Tồn tại 2 Đảng chính là: đảng dân chủ Accion và đảng dân chủ Christian. Hai Đảng này có quyền lực ngang nhau. Những người theo chủ nghĩa cực đoan vẫn chống lại 2 Đảng này bằng việc gây ra các vụ khủng bố. Ngành công nghiệp dầu khí đã đem lại sự phát triển thịnh vượng cho nền kinh tế đất nước. Tuy nhiên vấn đề gia tăng dân số và lạm phát vẫn gây nhiều phiền não cho tổng thống Jaime Lusinchi (1983-1988). Sau đó, đến người kế vị của ông là Carlos Andres Perez cũng gặp nhiều vấn đề đau đầu. Chẳng hạn như việc giảm giá dầu và buôn bán ma túy. Bên cạnh đó, ông còn phải đối mặt với nhiều vụ nổi loạn nghiêm trọng vào thập niên 1989 và 2 vụ tấn công của quân đội năm 1992. Năm 1993, Perez bị trục xuất khỏi chính phủ và bị tố cáo về tội tham nhũng. Ông bị buộc tội và phải vào tù năm 1996. Tháng 12/1993, Rafael Caldera Rodriguez đắc cử tổng thống."
       },
       {"k": "m", "t": "Thủ đô: Caracas."},
       {"k": "m", "t": "Diện tích: 912.050 km2"},
@@ -5389,11 +5389,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thành phố nằm trên bán đảo của vùng duyên hải Adriatic thuộc Ðông Bắc Ý. Bán đảo này đầu tiên là nơi trú ẩn của nhóm người Veneti khỏi sự xâm lược của rợ Barbarian. Ðến thế kỷ thứ 5 và cuối thế kỷ thứ 6, họ định cư luôn ở đây và cho xây dựng các pháo đài chắn dọc biển. Vào thế kỷ thứ 9, trong cuộc bầu cử bởi 726 vị tổng trấn, Venice được công nhận là một nền cộng hòa độc lập dưới đế chế Byzantine. Venice được xem là một cường quốc hải quân, ngoại thương buôn bán rất phát triển, đặc biệt là với các nước phương Ðông. Venice cũng nổi trội lên trong cuộc viễn chinh chữ thập ở Châu Âu (Crusades). Nó cũng gây những ảnh hưởng lên các tỉnh lân cận ở đại lục nước Ý và nhiều đảo ở Hy Lạp."
+        "t": "Một thành phố nằm trên bán đảo của vùng duyên hải Adriatic thuộc Đông Bắc Ý. Bán đảo này đầu tiên là nơi trú ẩn của nhóm người Veneti khỏi sự xâm lược của rợ Barbarian. Đến thế kỷ thứ 5 và cuối thế kỷ thứ 6, họ định cư luôn ở đây và cho xây dựng các pháo đài chắn dọc biển. Vào thế kỷ thứ 9, trong cuộc bầu cử bởi 726 vị tổng trấn, Venice được công nhận là một nền cộng hòa độc lập dưới đế chế Byzantine. Venice được xem là một cường quốc hải quân, ngoại thương buôn bán rất phát triển, đặc biệt là với các nước phương Đông. Venice cũng nổi trội lên trong cuộc viễn chinh chữ thập ở Châu Âu (Crusades). Nó cũng gây những ảnh hưởng lên các tỉnh lân cận ở đại lục nước Ý và nhiều đảo ở Hy Lạp."
       },
       {
         "k": "m",
-        "t": "Vào thời gian ấy, nền cộng hòa đang ở đỉnh cao của quyền lực và thống trị khắp vùng Ðịa Trung Hải. Ðến thế kỷ thứ 15, họ chiếm được Cyprus và đặt nền cai trị lên các thành Bergamo, Brescia, Verona và Vicenza. Chính phủ nằm trong tay một số ít gia đình có quyền lực. Năm 1571, trong cuộc chiến thủy quân của Lepanto chống lại quân Thổ Nhĩ Kỳ, họ để mất Cyprus. Từ đó, sức mạnh quyền lực của họ giảm đi. Năm 1797, họ khuất phục dễ dàng trước quân Pháp xâm lược và bị trả lại cho Áo. Tuy nhiên đến thế kỷ thứ 19, thành phố được sáp nhập vào vương quốc Italy. Trong thế kỷ 20, nhiều dự án đã được đề ra nhằm tu bổ lại thành phố và bảo vệ khỏi tình trạng ô nhiễm."
+        "t": "Vào thời gian ấy, nền cộng hòa đang ở đỉnh cao của quyền lực và thống trị khắp vùng Địa Trung Hải. Đến thế kỷ thứ 15, họ chiếm được Cyprus và đặt nền cai trị lên các thành Bergamo, Brescia, Verona và Vicenza. Chính phủ nằm trong tay một số ít gia đình có quyền lực. Năm 1571, trong cuộc chiến thủy quân của Lepanto chống lại quân Thổ Nhĩ Kỳ, họ để mất Cyprus. Từ đó, sức mạnh quyền lực của họ giảm đi. Năm 1797, họ khuất phục dễ dàng trước quân Pháp xâm lược và bị trả lại cho Áo. Tuy nhiên đến thế kỷ thứ 19, thành phố được sáp nhập vào vương quốc Italy. Trong thế kỷ 20, nhiều dự án đã được đề ra nhằm tu bổ lại thành phố và bảo vệ khỏi tình trạng ô nhiễm."
       }
     ],
     "k": "venice"
@@ -5694,7 +5694,7 @@
     "segs": [{"k": "m", "t": "Mạng lưới tĩnh mạch gan bàn chân."}],
     "k": "venous plantar network"
   },
-  {"h": "venous plexus", "segs": [{"k": "m", "t": "Ðám rối tĩnh mạch."}], "k": "venous plexus"},
+  {"h": "venous plexus", "segs": [{"k": "m", "t": "Đám rối tĩnh mạch."}], "k": "venous plexus"},
   {"h": "venous pressure", "segs": [{"k": "m", "t": "áp suất tĩnh mạch."}], "k": "venous pressure"},
   {"h": "venous pulse", "segs": [{"k": "m", "t": "Mạch tĩnh mạch."}], "k": "venous pulse"},
   {"h": "venously", "segs": [{"k": "ref", "t": "venous"}], "redirect": "venous", "k": "venously"},
@@ -7191,7 +7191,7 @@
     "k": "ventriculus tertius cerebri"
   },
   {"h": "ventricumbent", "segs": [{"k": "m", "t": "Nằm sấp."}], "k": "ventricumbent"},
-  {"h": "ventriduct", "segs": [{"k": "m", "t": "Ðưa về phía bụng."}], "k": "ventriduct"},
+  {"h": "ventriduct", "segs": [{"k": "m", "t": "Đưa về phía bụng."}], "k": "ventriduct"},
   {"h": "ventriduction", "segs": [{"k": "m", "t": "(sự) đưa về phía bụng."}], "k": "ventriduction"},
   {
     "h": "ventrifixation",
@@ -7288,7 +7288,7 @@
     "ipa": "ven'triləkwi",
     "k": "ventriloquy"
   },
-  {"h": "ventrimeson", "segs": [{"k": "m", "t": "Ðường giữa bụng."}], "k": "ventrimeson"},
+  {"h": "ventrimeson", "segs": [{"k": "m", "t": "Đường giữa bụng."}], "k": "ventrimeson"},
   {
     "h": "ventripotent",
     "segs": [
@@ -8255,7 +8255,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngđ) Ðặt thành lời.-find it difficult to verbalize: cảm thấy cái đó khó viết thành lời."
+        "t": "(ngđ) Đặt thành lời.-find it difficult to verbalize: cảm thấy cái đó khó viết thành lời."
       }
     ],
     "ipa": "ɛvə:bəlaiz",
@@ -9266,7 +9266,7 @@
     "ipa": "'veritəbli",
     "k": "veritably"
   },
-  {"h": "Veritas bureau", "segs": [{"k": "m", "t": "Ðăng Kiểm Pháp."}], "k": "veritas bureau"},
+  {"h": "Veritas bureau", "segs": [{"k": "m", "t": "Đăng Kiểm Pháp."}], "k": "veritas bureau"},
   {
     "h": "verity",
     "segs": [
@@ -9475,7 +9475,7 @@
   },
   {
     "h": "vermiform artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch ruột thừa."}],
+    "segs": [{"k": "m", "t": "Động mạch ruột thừa."}],
     "k": "vermiform artery"
   },
   {
@@ -10193,11 +10193,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(hay là Paris Peace Settlement) (1919-1923): Một loạt các hiệp ước về hòa bình kết thúc chiến tranh Thế giới lần thứ I giữa các cường quốc trung tâm và các nước đồng minh. Trọng tâm là hiệp ước Versailles (ký kết 6/1919) giữa Ðức và quân đồng minh (trừ Mỹ). Hiệp ước này được ký kết mà không phải thông qua đàm phán. Ðức buộc tuyên bố ngừng bắn vào năm 1918 dựa trên 14 yêu cầu của tổng thống Wilson. Về các tội ác chiến tranh, Ðức phải chịu hoàn toàn trách nhiệm. Các vùng lãnh thổ thuộc về Ðức buộc phải đầu hàng từ Alsacelorraine đến Pháp. Ba Lan, các vùng thuộc Upper Silesia và các vùng từ ven Ba Lan đến biển Baltic đều được khôi phục. Trong khi đó Gdaflsk (Danzig) vẫn tuyên bố là một nước độc lập. Các vùng thuộc Ðông Silesia được sáp nhập vào Czechslovakia. Các thành phố Ardennes của Moresnet, Eupen và Malmedy thuộc về Bỉ. Thung lũng sông Saar thuộc về sự quản lý của Thế giới trong vòng 15 năm. Rhineland và Heligoland trở thành khu phi quân sự. Các thuộc địa trước đây của Ðức ở Ðông Phi được ủy thác cho Anh, Pháp, Bỉ. Nam Phi, Nhật và Úc. Ðức chỉ được phép thành lập quân đội không quá 100.000 người và không được có không quân hay thủy quân. Năm 1921, con số đền bù thiệt hại cho chiến tranh ước tính là 6.500 triệu bảng Anh. Một con số quá lớn và không thể trả hết được. Nhiều điều khoản nữa trong hiệp ước này đã bị chỉ trích là quá đáng và làm cho người dân Ðức cảm thấy bất bình. Chính điều này đã tạo điều kiện cho Hitler nhanh chóng vươn lên và nắm lấy chính quyền. Hiệp ước cũng lập nên League of Nation (tên cũ của liên hiệp quốc) và International Labour Organisation (tổ chức lao động quốc tế)."
+        "t": "(hay là Paris Peace Settlement) (1919-1923): Một loạt các hiệp ước về hòa bình kết thúc chiến tranh Thế giới lần thứ I giữa các cường quốc trung tâm và các nước đồng minh. Trọng tâm là hiệp ước Versailles (ký kết 6/1919) giữa Đức và quân đồng minh (trừ Mỹ). Hiệp ước này được ký kết mà không phải thông qua đàm phán. Đức buộc tuyên bố ngừng bắn vào năm 1918 dựa trên 14 yêu cầu của tổng thống Wilson. Về các tội ác chiến tranh, Đức phải chịu hoàn toàn trách nhiệm. Các vùng lãnh thổ thuộc về Đức buộc phải đầu hàng từ Alsacelorraine đến Pháp. Ba Lan, các vùng thuộc Upper Silesia và các vùng từ ven Ba Lan đến biển Baltic đều được khôi phục. Trong khi đó Gdaflsk (Danzig) vẫn tuyên bố là một nước độc lập. Các vùng thuộc Đông Silesia được sáp nhập vào Czechslovakia. Các thành phố Ardennes của Moresnet, Eupen và Malmedy thuộc về Bỉ. Thung lũng sông Saar thuộc về sự quản lý của Thế giới trong vòng 15 năm. Rhineland và Heligoland trở thành khu phi quân sự. Các thuộc địa trước đây của Đức ở Đông Phi được ủy thác cho Anh, Pháp, Bỉ. Nam Phi, Nhật và Úc. Đức chỉ được phép thành lập quân đội không quá 100.000 người và không được có không quân hay thủy quân. Năm 1921, con số đền bù thiệt hại cho chiến tranh ước tính là 6.500 triệu bảng Anh. Một con số quá lớn và không thể trả hết được. Nhiều điều khoản nữa trong hiệp ước này đã bị chỉ trích là quá đáng và làm cho người dân Đức cảm thấy bất bình. Chính điều này đã tạo điều kiện cho Hitler nhanh chóng vươn lên và nắm lấy chính quyền. Hiệp ước cũng lập nên League of Nation (tên cũ của liên hiệp quốc) và International Labour Organisation (tổ chức lao động quốc tế)."
       },
       {
         "k": "m",
-        "t": "Một hiệp ước thứ hai (St Germain-en-Laye) được ký kết vào tháng 9/1919 giữa các nước đồng minh và Áo. Habsburgs bị hạ bệ và quân đội của Hoàng gia bị giải tán. Áo công nhận nền độc lập của Czechoslovakia, Yugoslavia, Poland và Hungary. Ðông Galica, Trentino, South Tyrol, Trieste và Istria được nhượng lại cho các nước đồng minh. Chấm dứt liên minh Ðức-Áo. Ðức cũng như Áo phải đền bù thiệt hại do chiến tranh gây ra trong vòng 30 năm. Một hiệp ước thứ ba (Trianon) được ký kết vào tháng 6/1920, giành cho nước cộng hòa Hungary. Trong đó, 3 / 4 các thuộc địa cũ của nước này phải được trả lại cho Czechoslovakia, Romani và Nam Tư và phải bồi thường thiệt hại chiến tranh. Hiệp ước thứ tư (Neuilly) được thành lập vào tháng 11/1919, đối với Bulgari. Trong đó, một vài vùng của đất nước này phải bị mất vào tay các nước Nam Tư và Hy Lạp. Con số bồi thường thiệt hại là 100 triệu bảng Anh. Tuy nhiên, họ vẫn chưa thể trả được. Tất cả 4 hiệp ước này được thông qua ở Paris suốt năm 1920. Hiệp ước thứ năm (Sevres, 8/1920), giữa các nước đồng minh và đế chế Ottoman cũ. Hiệp ước này không bao giờ được thực hiện. Vì sau đó, triều đại Ottoman đã bị sụp đổ. Một nước cộng hòa Turkey mới ra đời dưới sự lãnh đạo của Mustafa Kemal Ataturk. Tuy nhiên sau đó, hiệp ước này được thay thế bởi hiệp ước Lausanne (7/1923). Trong đó, Palestine, Transjordan và Irắc được ủy quyền cho Anh và từ Syria đến Pháp. Ý được chấp nhận sở hữu vùng đảo Dodecanese. Thổ Nhĩ Kỳ lấy lại được Smyrna từ Hy Lạp. Eo biển Dardanelles trở thành khu phi quân sự và Thổ Nhĩ Kỳ không phải trả một khoản bồi thường nào do chiến tranh."
+        "t": "Một hiệp ước thứ hai (St Germain-en-Laye) được ký kết vào tháng 9/1919 giữa các nước đồng minh và Áo. Habsburgs bị hạ bệ và quân đội của Hoàng gia bị giải tán. Áo công nhận nền độc lập của Czechoslovakia, Yugoslavia, Poland và Hungary. Đông Galica, Trentino, South Tyrol, Trieste và Istria được nhượng lại cho các nước đồng minh. Chấm dứt liên minh Đức-Áo. Đức cũng như Áo phải đền bù thiệt hại do chiến tranh gây ra trong vòng 30 năm. Một hiệp ước thứ ba (Trianon) được ký kết vào tháng 6/1920, giành cho nước cộng hòa Hungary. Trong đó, 3 / 4 các thuộc địa cũ của nước này phải được trả lại cho Czechoslovakia, Romani và Nam Tư và phải bồi thường thiệt hại chiến tranh. Hiệp ước thứ tư (Neuilly) được thành lập vào tháng 11/1919, đối với Bulgari. Trong đó, một vài vùng của đất nước này phải bị mất vào tay các nước Nam Tư và Hy Lạp. Con số bồi thường thiệt hại là 100 triệu bảng Anh. Tuy nhiên, họ vẫn chưa thể trả được. Tất cả 4 hiệp ước này được thông qua ở Paris suốt năm 1920. Hiệp ước thứ năm (Sevres, 8/1920), giữa các nước đồng minh và đế chế Ottoman cũ. Hiệp ước này không bao giờ được thực hiện. Vì sau đó, triều đại Ottoman đã bị sụp đổ. Một nước cộng hòa Turkey mới ra đời dưới sự lãnh đạo của Mustafa Kemal Ataturk. Tuy nhiên sau đó, hiệp ước này được thay thế bởi hiệp ước Lausanne (7/1923). Trong đó, Palestine, Transjordan và Irắc được ủy quyền cho Anh và từ Syria đến Pháp. Ý được chấp nhận sở hữu vùng đảo Dodecanese. Thổ Nhĩ Kỳ lấy lại được Smyrna từ Hy Lạp. Eo biển Dardanelles trở thành khu phi quân sự và Thổ Nhĩ Kỳ không phải trả một khoản bồi thường nào do chiến tranh."
       }
     ],
     "k": "versailles peace settlement"
@@ -10400,7 +10400,7 @@
   },
   {
     "h": "versicolor",
-    "segs": [{"k": "m", "t": "Ðiểm những đốm màu khác nhau, có nhiều màu, nhiều sắc."}],
+    "segs": [{"k": "m", "t": "Điểm những đốm màu khác nhau, có nhiều màu, nhiều sắc."}],
     "k": "versicolor"
   },
   {
@@ -10642,34 +10642,34 @@
   },
   {
     "h": "vertebrae cervicales",
-    "segs": [{"k": "m", "t": "Ðốt sống cổ."}],
+    "segs": [{"k": "m", "t": "Đốt sống cổ."}],
     "k": "vertebrae cervicales"
   },
   {
     "h": "vertebrae coccygeae",
-    "segs": [{"k": "m", "t": "Ðốt sống cụt."}],
+    "segs": [{"k": "m", "t": "Đốt sống cụt."}],
     "k": "vertebrae coccygeae"
   },
   {"h": "vertebrae cocygiae", "segs": [{"k": "m", "t": "đốt sống cụt."}], "k": "vertebrae cocygiae"},
   {
     "h": "vertebrae lumbales",
-    "segs": [{"k": "m", "t": "Ðốt sống thắt lưng."}],
+    "segs": [{"k": "m", "t": "Đốt sống thắt lưng."}],
     "k": "vertebrae lumbales"
   },
   {
     "h": "vertebrae prominens",
-    "segs": [{"k": "m", "t": "Ðốt sống cổ nhỏ, đốt sống cổ thứ VII."}],
+    "segs": [{"k": "m", "t": "Đốt sống cổ nhỏ, đốt sống cổ thứ VII."}],
     "k": "vertebrae prominens"
   },
   {"h": "vertebrae region", "segs": [{"k": "m", "t": "vùng cột sống."}], "k": "vertebrae region"},
   {
     "h": "vertebrae sacrales",
-    "segs": [{"k": "m", "t": "Ðốt sống cùng."}],
+    "segs": [{"k": "m", "t": "Đốt sống cùng."}],
     "k": "vertebrae sacrales"
   },
   {
     "h": "vertebrae thoracicae",
-    "segs": [{"k": "m", "t": "Ðốt sống ngực, đốt sống lưng."}],
+    "segs": [{"k": "m", "t": "Đốt sống ngực, đốt sống lưng."}],
     "k": "vertebrae thoracicae"
   },
   {
@@ -10685,7 +10685,7 @@
   },
   {
     "h": "vertebral artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch đốt sống."}],
+    "segs": [{"k": "m", "t": "Động mạch đốt sống."}],
     "k": "vertebral artery"
   },
   {"h": "vertebral canal", "segs": [{"k": "m", "t": "ống sống."}], "k": "vertebral canal"},
@@ -10849,8 +10849,8 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "màu đỉnh"}],
     "k": "vertex colour"
   },
-  {"h": "vertex corneae", "segs": [{"k": "m", "t": "Ðỉnh giác mạc."}], "k": "vertex corneae"},
-  {"h": "vertex cranii", "segs": [{"k": "m", "t": "Ðỉnh đầu."}], "k": "vertex cranii"},
+  {"h": "vertex corneae", "segs": [{"k": "m", "t": "Đỉnh giác mạc."}], "k": "vertex corneae"},
+  {"h": "vertex cranii", "segs": [{"k": "m", "t": "Đỉnh đầu."}], "k": "vertex cranii"},
   {
     "h": "vertex data",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dữ liệu đỉnh"}],
@@ -10858,7 +10858,7 @@
   },
   {"h": "vertex field", "segs": [{"k": "m", "t": "trường đỉnh chóp."}], "k": "vertex field"},
   {"h": "vertex figure", "segs": [{"k": "m", "t": "hình đỉnh."}], "k": "vertex figure"},
-  {"h": "vertex of cornea", "segs": [{"k": "m", "t": "Ðỉnh giác mạc."}], "k": "vertex of cornea"},
+  {"h": "vertex of cornea", "segs": [{"k": "m", "t": "Đỉnh giác mạc."}], "k": "vertex of cornea"},
   {
     "h": "vertex of switch",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mũi lưỡi ghi lý thuyết"}],
@@ -11111,7 +11111,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "định tâm chiều dọc. Ðịnh tâm tự động các đồ hình hoặc văn bản theo chiều dọc trên trang. Chẳng hạn, WordPerfect lệnh enter Top to Bottom dùng để đưa tất cả văn bản vào giữa theo chiều thẳng đứng."
+        "t": "định tâm chiều dọc. Định tâm tự động các đồ hình hoặc văn bản theo chiều dọc trên trang. Chẳng hạn, WordPerfect lệnh enter Top to Bottom dùng để đưa tất cả văn bản vào giữa theo chiều thẳng đứng."
       }
     ],
     "k": "vertical centering"
@@ -11323,7 +11323,7 @@
   },
   {
     "h": "vertical diameter",
-    "segs": [{"k": "m", "t": "Ðường kính thẳng đứng."}],
+    "segs": [{"k": "m", "t": "Đường kính thẳng đứng."}],
     "k": "vertical diameter"
   },
   {
@@ -11956,7 +11956,7 @@
   {
     "h": "Vertical Phillips curve",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðường Phillips thẳng đứng."},
+      {"k": "m", "t": "(kinh tế) Đường Phillips thẳng đứng."},
       {
         "k": "m",
         "t": "Giả thiết cho rằng trong dài hạn, không có sự đánh đổi giữa tỉ lệ thay đổi mức tiền công và mức thất nghiệp như đường Phillips ban đầu gợi ý."
@@ -13267,7 +13267,7 @@
   {
     "h": "VES production function",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðộ co giãn khả biến hãm sản xuất thay thế."},
+      {"k": "m", "t": "(kinh tế) Độ co giãn khả biến hãm sản xuất thay thế."},
       {"k": "m", "t": "Xem Variable elasticity of substitution production function."}
     ],
     "k": "ves production function"
@@ -13492,7 +13492,7 @@
   },
   {
     "h": "vesicoprostatic plexus",
-    "segs": [{"k": "m", "t": "Ðám rối tĩnh mạch bàng quang-tuyến tiền liệt."}],
+    "segs": [{"k": "m", "t": "Đám rối tĩnh mạch bàng quang-tuyến tiền liệt."}],
     "k": "vesicoprostatic plexus"
   },
   {"h": "vesicopubic", "segs": [{"k": "m", "t": "(thuộc) bàng quang-mu."}], "k": "vesicopubic"},
@@ -14331,7 +14331,7 @@
   },
   {
     "h": "vestibulo-equilibratory control",
-    "segs": [{"k": "m", "t": "Ðiều chỉnh mê đạo thăng bằng."}],
+    "segs": [{"k": "m", "t": "Điều chỉnh mê đạo thăng bằng."}],
     "k": "vestibulo-equilibratory control"
   },
   {
@@ -14719,7 +14719,7 @@
       {
         "k": "ex",
         "t": "Veterans Day",
-        "vi": "Ngày cựu chiến binh (ngày 11-11, để tưởng nhớ ngày đình chiến (1918) trong Ðệ nhất thế chiến)"
+        "vi": "Ngày cựu chiến binh (ngày 11-11, để tưởng nhớ ngày đình chiến (1918) trong Đệ nhất thế chiến)"
       },
       {
         "k": "ex",

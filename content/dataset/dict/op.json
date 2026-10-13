@@ -276,7 +276,7 @@
   },
   {
     "h": "opaline plaque",
-    "segs": [{"k": "m", "t": "Ðám trắng mờ, tổn thương màu xám giang mai."}],
+    "segs": [{"k": "m", "t": "Đám trắng mờ, tổn thương màu xám giang mai."}],
     "k": "opaline plaque"
   },
   {
@@ -1677,7 +1677,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "The Open Group là tổ chức quốc tế gồm nhiều nhà cung cấp, các cơ quan chính phủ, và các viện nghiên cứu nhằm phát triển chuẩn cho các hệ thống mở. Ðược thành lập vào năm 1996 với vai trò là công ty cổ phần mẹ của OSF (Open Software Foundation) và X/Open. Dưới Open Group, hai công ty này đã hợp tác để chuyển giao các sáng kiến về công nghệ và mở rộng sự chấp nhận các đặc tả các hệ thống mở."
+        "t": "The Open Group là tổ chức quốc tế gồm nhiều nhà cung cấp, các cơ quan chính phủ, và các viện nghiên cứu nhằm phát triển chuẩn cho các hệ thống mở. Được thành lập vào năm 1996 với vai trò là công ty cổ phần mẹ của OSF (Open Software Foundation) và X/Open. Dưới Open Group, hai công ty này đã hợp tác để chuyển giao các sáng kiến về công nghệ và mở rộng sự chấp nhận các đặc tả các hệ thống mở."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -3814,7 +3814,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "bánh xăng-uých trần"},
-      {"k": "ex", "t": "a Danish open-sandwich", "vi": "một cái bánh xăng-uých trần kiểu Ðan Mạch."}
+      {"k": "ex", "t": "a Danish open-sandwich", "vi": "một cái bánh xăng-uých trần kiểu Đan Mạch."}
     ],
     "ipa": "'oupn'sænwidʒ",
     "k": "open-sandwich"
@@ -4894,7 +4894,7 @@
       {"k": "m", "t": "quản lý"},
       {"k": "m", "t": "điều khiển"},
       {"k": "ex", "t": "the company operates from offices in", "vi": "London"},
-      {"k": "m", "t": "công ty điều hành từ các văn phòng ở Luân Ðôn"},
+      {"k": "m", "t": "công ty điều hành từ các văn phòng ở Luân Đôn"},
       {
         "k": "ex",
         "t": "they operate three factories and a huge warehouse",
@@ -5906,7 +5906,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử của OS/ 2 mang đầy kịch tính của một cuộc cạnh tranh công nghiệp quyết liệt kiểu thế kỷ 19. Ðầu tien, OS/ 2 do IBM và Microsoft hợp tác xây dựng và được xem như là thừa kế của MS-DOS. Ngay từ thời điểm ra đời đã có nhiều lý do vững chắc để có thể xem OS/ 2 như là một hệ điều hành cho tương lai. Hiện nay còn rất ít người nâng cấp sử dụng OS/ 2, một phần là do rất ít hãng xuất bản phần mềm chịu bỏ vốn xây dựng các chương trình ứng dụng chạy với OS/ 2, đồng thời các phiên bản đầu tiên của OS/ 2 đã chạy các chương trình MS-DOS rất kém."
+        "t": "Lịch sử của OS/ 2 mang đầy kịch tính của một cuộc cạnh tranh công nghiệp quyết liệt kiểu thế kỷ 19. Đầu tien, OS/ 2 do IBM và Microsoft hợp tác xây dựng và được xem như là thừa kế của MS-DOS. Ngay từ thời điểm ra đời đã có nhiều lý do vững chắc để có thể xem OS/ 2 như là một hệ điều hành cho tương lai. Hiện nay còn rất ít người nâng cấp sử dụng OS/ 2, một phần là do rất ít hãng xuất bản phần mềm chịu bỏ vốn xây dựng các chương trình ứng dụng chạy với OS/ 2, đồng thời các phiên bản đầu tiên của OS/ 2 đã chạy các chương trình MS-DOS rất kém."
       },
       {
         "k": "m",
@@ -5918,7 +5918,7 @@
       },
       {
         "k": "m",
-        "t": "Ðể trả lời lại những hoạt động của Microsoft, hãng IBM đã giữ vững sự phát triển của OS/ 2 và hứa hẹn sẽ nâng cấp một cách triệt để. Hệ điều hành OS/ 2 mới, phiên bản 2. 0 ra đời năm 1992, đã chạy tốt các chương trình ứng dụng của MS-DOS và Windows, tđồng thời tận dụng hết mọi ưu điểm về cấu trúc 32 bit của 80386 và các bộ vi xử lý cao hơn. OS/ 2 phiên bản 2. 0 cũng có giao diện người-máy dùng đồ họa giống dạng giao diện của trạm công tác NeXT. Tuy nhiên, OS/ 2 có làm ngưng được đà phát triển đáng kinh ngạc của Windows hay không thì còn phải chờ xem."
+        "t": "Để trả lời lại những hoạt động của Microsoft, hãng IBM đã giữ vững sự phát triển của OS/ 2 và hứa hẹn sẽ nâng cấp một cách triệt để. Hệ điều hành OS/ 2 mới, phiên bản 2. 0 ra đời năm 1992, đã chạy tốt các chương trình ứng dụng của MS-DOS và Windows, tđồng thời tận dụng hết mọi ưu điểm về cấu trúc 32 bit của 80386 và các bộ vi xử lý cao hơn. OS/ 2 phiên bản 2. 0 cũng có giao diện người-máy dùng đồ họa giống dạng giao diện của trạm công tác NeXT. Tuy nhiên, OS/ 2 có làm ngưng được đà phát triển đáng kinh ngạc của Windows hay không thì còn phải chờ xem."
       },
       {
         "k": "m",
@@ -7839,7 +7839,7 @@
   {"h": "ophritis", "segs": [{"k": "m", "t": "Viêm da vùng lông mày."}], "k": "ophritis"},
   {"h": "ophryitis", "segs": [{"k": "m", "t": "Viêm da vùng lông mày."}], "k": "ophryitis"},
   {"h": "ophryogenes", "segs": [{"k": "m", "t": "Ban đỏ teo sẹo lông mày."}], "k": "ophryogenes"},
-  {"h": "ophryon", "segs": [{"k": "m", "t": "Ðiềm gian mày, ophryon."}], "k": "ophryon"},
+  {"h": "ophryon", "segs": [{"k": "m", "t": "Điềm gian mày, ophryon."}], "k": "ophryon"},
   {"h": "ophryosis", "segs": [{"k": "m", "t": "(chứng) co giật lông mày."}], "k": "ophryosis"},
   {"h": "ophrys", "segs": [{"k": "m", "t": "Lông mày."}], "k": "ophrys"},
   {
@@ -7862,7 +7862,7 @@
     "k": "ophthalm/ophthalmo-"
   },
   {"h": "ophthalmagra", "segs": [{"k": "m", "t": "(chứng) đau mắt đột ngột."}], "k": "ophthalmagra"},
-  {"h": "ophthalmalgia", "segs": [{"k": "m", "t": "Ðau mắt."}], "k": "ophthalmalgia"},
+  {"h": "ophthalmalgia", "segs": [{"k": "m", "t": "Đau mắt."}], "k": "ophthalmalgia"},
   {"h": "ophthalmatrophia", "segs": [{"k": "m", "t": "(chứng) teo mắt."}], "k": "ophthalmatrophia"},
   {
     "h": "ophthalmectomy",
@@ -7876,7 +7876,7 @@
   },
   {
     "h": "ophthalmencephalon",
-    "segs": [{"k": "m", "t": "Ðồi, đồi thị (từ xưa)."}],
+    "segs": [{"k": "m", "t": "Đồi, đồi thị (từ xưa)."}],
     "k": "ophthalmencephalon"
   },
   {
@@ -7907,7 +7907,7 @@
   },
   {"h": "ophthalmia nodosa", "segs": [{"k": "m", "t": "Viêm mắt nốt."}], "k": "ophthalmia nodosa"},
   {"h": "ophthalmiac", "segs": [{"k": "m", "t": "Người bị viêm mắt."}], "k": "ophthalmiac"},
-  {"h": "ophthalmiatrics", "segs": [{"k": "m", "t": "Ðiều trị bệnh mắt."}], "k": "ophthalmiatrics"},
+  {"h": "ophthalmiatrics", "segs": [{"k": "m", "t": "Điều trị bệnh mắt."}], "k": "ophthalmiatrics"},
   {
     "h": "ophthalmic",
     "segs": [
@@ -7922,7 +7922,7 @@
     "ipa": "ɔf'θælmik",
     "k": "ophthalmic"
   },
-  {"h": "ophthalmic artery", "segs": [{"k": "m", "t": "Ðộng mạch mắt."}], "k": "ophthalmic artery"},
+  {"h": "ophthalmic artery", "segs": [{"k": "m", "t": "Động mạch mắt."}], "k": "ophthalmic artery"},
   {
     "h": "ophthalmic migraine",
     "segs": [{"k": "m", "t": "Migren loạn thị giác."}],
@@ -8255,7 +8255,7 @@
     "segs": [{"k": "m", "t": "(sự) đo nhãn áp."}],
     "k": "ophthalmotonometry"
   },
-  {"h": "ophthalmotoxin", "segs": [{"k": "m", "t": "Ðộc tố mắt."}], "k": "ophthalmotoxin"},
+  {"h": "ophthalmotoxin", "segs": [{"k": "m", "t": "Độc tố mắt."}], "k": "ophthalmotoxin"},
   {"h": "ophthalmotrope", "segs": [{"k": "m", "t": "Mô hình mắt vận động."}], "k": "ophthalmotrope"},
   {
     "h": "ophthalmotropometer",
@@ -8668,7 +8668,7 @@
   },
   {
     "h": "opisthorchis",
-    "segs": [{"k": "m", "t": "một sán lá ký sinh thấy ở Ðông Âu và nhiều vùng tại Ðông Nam."}],
+    "segs": [{"k": "m", "t": "một sán lá ký sinh thấy ở Đông Âu và nhiều vùng tại Đông Nam."}],
     "k": "opisthorchis"
   },
   {
@@ -8732,7 +8732,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1839-1842; 1842-60) Hai cuộc chiến giữa Anh và Trung Quốc. Ðầu thế kỷ 19, các thương nhân Anh buôn lậu thuốc phiện từ Ấn Ðộ qua Trung Quốc. Năm 1839, chính quyền Trung Quốc tịch thu 20.000 hòm thuốc phiện trong kho hàng Anh tại Guangzhou. Năm 1840, ban thư ký ngoại giao Anh đưa 16 tàu chiến bao vây Guangzhou. Việc này kết thúc trong hòa hoãn với Hiệp ước Nanjing (1842). Năm 1856, sĩ quan Trung Quốc xuống tàu Anh tra xét. Ðến năm 1857, Pháp kết hợp quân sự với Anh tấn công Trung Quốc, buộc Trung Quốc ký kết Hiệp ước Tianjin năm 1858. Ðiều này có nghĩa rằng Trung Quốc phải mở rộng các cảng cho thương mại phương tây và cho Cơ đốc giáo xâm nhập chính quốc. Từ năm 1900, nhiều Hiệp ước cảng được ký kết với các thế lực thuộc địa châu Âu."
+        "t": "(1839-1842; 1842-60) Hai cuộc chiến giữa Anh và Trung Quốc. Đầu thế kỷ 19, các thương nhân Anh buôn lậu thuốc phiện từ Ấn Độ qua Trung Quốc. Năm 1839, chính quyền Trung Quốc tịch thu 20.000 hòm thuốc phiện trong kho hàng Anh tại Guangzhou. Năm 1840, ban thư ký ngoại giao Anh đưa 16 tàu chiến bao vây Guangzhou. Việc này kết thúc trong hòa hoãn với Hiệp ước Nanjing (1842). Năm 1856, sĩ quan Trung Quốc xuống tàu Anh tra xét. Đến năm 1857, Pháp kết hợp quân sự với Anh tấn công Trung Quốc, buộc Trung Quốc ký kết Hiệp ước Tianjin năm 1858. Điều này có nghĩa rằng Trung Quốc phải mở rộng các cảng cho thương mại phương tây và cho Cơ đốc giáo xâm nhập chính quốc. Từ năm 1900, nhiều Hiệp ước cảng được ký kết với các thế lực thuộc địa châu Âu."
       }
     ],
     "k": "opium war"
@@ -9613,7 +9613,7 @@
       {
         "k": "ex",
         "t": "The Conservative party was in opposition for the first time in years",
-        "vi": "Lần đầu tiên trong nhiều năm, Ðảng Bảo thủ đứng vào phe đối lập."
+        "vi": "Lần đầu tiên trong nhiều năm, Đảng Bảo thủ đứng vào phe đối lập."
       }
     ],
     "ipa": ",ɔpə'ziʃn",
@@ -9922,7 +9922,7 @@
     "ipa": "ɔps",
     "k": "ops"
   },
-  {"h": "opsialgia", "segs": [{"k": "m", "t": "Ðau dây thần kinh mặt."}], "k": "opsialgia"},
+  {"h": "opsialgia", "segs": [{"k": "m", "t": "Đau dây thần kinh mặt."}], "k": "opsialgia"},
   {
     "h": "opsimath",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(hiếm) người lúc già mới học."}],
@@ -10167,7 +10167,7 @@
     "k": "optic chiasma"
   },
   {"h": "optic commissure", "segs": [{"k": "m", "t": "Giao thoa thị."}], "k": "optic commissure"},
-  {"h": "optic cup", "segs": [{"k": "m", "t": "Ðài thị giác."}], "k": "optic cup"},
+  {"h": "optic cup", "segs": [{"k": "m", "t": "Đài thị giác."}], "k": "optic cup"},
   {
     "h": "optic decussation",
     "segs": [{"k": "m", "t": "Giao thoa thị giác."}],
@@ -10261,7 +10261,7 @@
   },
   {
     "h": "optical allachesthesia",
-    "segs": [{"k": "m", "t": "Ðối cảm quang học."}],
+    "segs": [{"k": "m", "t": "Đối cảm quang học."}],
     "k": "optical allachesthesia"
   },
   {
@@ -11032,7 +11032,7 @@
   },
   {
     "h": "optical isomerism",
-    "segs": [{"k": "m", "t": "Ðồng phân quang học."}],
+    "segs": [{"k": "m", "t": "Đồng phân quang học."}],
     "k": "optical isomerism"
   },
   {"h": "optical lantern", "segs": [{"k": "m", "t": "đèn chiếu."}], "k": "optical lantern"},

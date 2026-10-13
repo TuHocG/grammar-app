@@ -70,11 +70,11 @@
       },
       {
         "k": "m",
-        "t": "Các kỹ thuật mô tả trong phần này giải thích cách tạo các mạng LAN ảo (VLAN) để khai thác ưu điểm của các mạng con kết nối bằng bộ định tuyến. Mục đích đầu tiên là tổ chức các máy tính và người dùng thành các VLAN dựa trên địa chỉ phần cứng, địa chỉ cổng, địa chỉ IP và các kỹ thuật khác. Một khi đã tạo VLAN, các bộ định tuyến chuyển tiếp các gói dữ liệu (xem phần trái trên hình V-4). Ðể ý rằng mạng đang xét là mạng chuyển mạch phẳng, và các VLAN được định nghĩa như là lớp phủ trên mạng này. Bộ định tuyến kết nối các VLAN với nhau."
+        "t": "Các kỹ thuật mô tả trong phần này giải thích cách tạo các mạng LAN ảo (VLAN) để khai thác ưu điểm của các mạng con kết nối bằng bộ định tuyến. Mục đích đầu tiên là tổ chức các máy tính và người dùng thành các VLAN dựa trên địa chỉ phần cứng, địa chỉ cổng, địa chỉ IP và các kỹ thuật khác. Một khi đã tạo VLAN, các bộ định tuyến chuyển tiếp các gói dữ liệu (xem phần trái trên hình V-4). Để ý rằng mạng đang xét là mạng chuyển mạch phẳng, và các VLAN được định nghĩa như là lớp phủ trên mạng này. Bộ định tuyến kết nối các VLAN với nhau."
       },
       {
         "k": "m",
-        "t": "Phần bên phải hình V-4 chỉ ra nguyên tắc quan trọng luôn phải ghi nhớ. Trong khi việc định tuyến khai thác ưu điểm của việc tạo mạng con trong đồ hình mạng chuyển mạch phẳng, các gói được định tuyến chậm hơn so với chuyển mạch. Ngay cả khi mạng được chia thành các VLAN, mạng vẫn có khả năng chuyển mạch các bó sang máy tính khác với tốc độ cao. Vì thế, những gì mà các nhà thiết kế đang cố gắng thông qua những giao thức khác nhau là kỹ thuật \"route first, then switch\" (trước tiên là định tuyến, sau đó chuyển mạch). Bộ định tuyến ban đầu được dùng để thiết lập con đường giữa hai hệ thống trong các VLAN khác nhau và bảo đảm tính an toàn khi kiểm tra hai hệ thống có thể kết nối với nhau. Một khi tuyến đường được thiết lập và đã kiểm tra an toàn, các bó được chuyển mạch bằng cơ cấu chuyển mạch tầng 2. Ðiều này tránh được việc di chuyển tất cả các bó (trừ một số ít bó đầu tiên) qua bộ định tuyến chậm chạp một khi nó đã làm xong việc."
+        "t": "Phần bên phải hình V-4 chỉ ra nguyên tắc quan trọng luôn phải ghi nhớ. Trong khi việc định tuyến khai thác ưu điểm của việc tạo mạng con trong đồ hình mạng chuyển mạch phẳng, các gói được định tuyến chậm hơn so với chuyển mạch. Ngay cả khi mạng được chia thành các VLAN, mạng vẫn có khả năng chuyển mạch các bó sang máy tính khác với tốc độ cao. Vì thế, những gì mà các nhà thiết kế đang cố gắng thông qua những giao thức khác nhau là kỹ thuật \"route first, then switch\" (trước tiên là định tuyến, sau đó chuyển mạch). Bộ định tuyến ban đầu được dùng để thiết lập con đường giữa hai hệ thống trong các VLAN khác nhau và bảo đảm tính an toàn khi kiểm tra hai hệ thống có thể kết nối với nhau. Một khi tuyến đường được thiết lập và đã kiểm tra an toàn, các bó được chuyển mạch bằng cơ cấu chuyển mạch tầng 2. Điều này tránh được việc di chuyển tất cả các bó (trừ một số ít bó đầu tiên) qua bộ định tuyến chậm chạp một khi nó đã làm xong việc."
       },
       {
         "k": "m",
@@ -83,11 +83,11 @@
       {"k": "m", "t": "Hình V-4 Các mạng con lôgíc VLAN phủ lên mạng vật lý"},
       {
         "k": "m",
-        "t": "Hình V-5 minh họa cách tổ chức các VLAN. Các bộ chuyển mạch trục chính và cục bộ cung cấp các chức năng khai báo cấu hình VLAN. Ðể ý rằng các bộ chuyển mạch vùng làm việc được định vị để kết nối các máy tính gần nhau."
+        "t": "Hình V-5 minh họa cách tổ chức các VLAN. Các bộ chuyển mạch trục chính và cục bộ cung cấp các chức năng khai báo cấu hình VLAN. Để ý rằng các bộ chuyển mạch vùng làm việc được định vị để kết nối các máy tính gần nhau."
       },
       {
         "k": "m",
-        "t": "Người quản lý mạng bổ sung máy tính (hoặc người dùng) vào VLAN dựa trên địa chỉ cổng chuyển mạch, địa chỉ phần cứng (địa chỉ MAC hoặc địa chỉ điều khiển của card mạng), địa chỉ IP, hoặc các phương pháp khác. Trên hình V-5, các VLAN được vẽ phía trên mạng vật lý. Khi máy tính B truyền đi, nó gởi một thông điệp đến tất cả các máy tính trong Marketing VLAN, gồm các máy E, G, H và J. Nếu máy tính B cần gởi đến người dùng trong Research VLAN, thông điện này cần phải được định tuyến. Ðiều này được thực hiện bằng chức năng định tuyến trong bộ chuyển mạch đường trục hoặc bằng bộ định tuyến riêng."
+        "t": "Người quản lý mạng bổ sung máy tính (hoặc người dùng) vào VLAN dựa trên địa chỉ cổng chuyển mạch, địa chỉ phần cứng (địa chỉ MAC hoặc địa chỉ điều khiển của card mạng), địa chỉ IP, hoặc các phương pháp khác. Trên hình V-5, các VLAN được vẽ phía trên mạng vật lý. Khi máy tính B truyền đi, nó gởi một thông điệp đến tất cả các máy tính trong Marketing VLAN, gồm các máy E, G, H và J. Nếu máy tính B cần gởi đến người dùng trong Research VLAN, thông điện này cần phải được định tuyến. Điều này được thực hiện bằng chức năng định tuyến trong bộ chuyển mạch đường trục hoặc bằng bộ định tuyến riêng."
       },
       {"k": "m", "t": "Hình V-5. Các VLAN phủ lên mạng vật lý"},
       {
@@ -101,11 +101,11 @@
       },
       {
         "k": "m",
-        "t": "Các phương pháp thiết đặt cổng Ðây thực sự là cách thiết đặt các mạng LAN riêng lẻ vào cùng một hộp. Các LAN tạo được không phải là VLAN vì chúng được thiết đặt bởi những cấu hình đi dây khác nhau. Người quản lý mạng liên kết các cổng riêng biệt vào hub hoặc thiết bị chuyển mạch để tạo từng mạng LAN riêng lẻ. Ví dụ, các cổng 2, 4, 5, và 8 được gộp thành nhóm LAN1 và các cổng 1, 3, 6, 9, và 10 được gộp thành nhóm LAN2. Hai thiết kế bản mạch (backplane) được dùng trong các thiết bị hub và bộ chuyển mạch: bản mạch multibus và TDM (time division multiplexing). Với thiết kế multibus, mỗi bus biểu diễn một mạng LAN và các cổng được liên kết đến một bus cụ thể. Trong thiết kế TDM, mỗi LAN làm chủ một khoảng thời gian nhất định trong một bus. Bởi vì LAN được cấu hình bên trong hub hoặc bộ chuyển mạch, các hub hoặc bộ chuyển mạch không thể làm cầu nối một LAN được khai báo cấu hình trong một thiết bị với LAN được khai báo cấu hình trong một thiết bị khác."
+        "t": "Các phương pháp thiết đặt cổng Đây thực sự là cách thiết đặt các mạng LAN riêng lẻ vào cùng một hộp. Các LAN tạo được không phải là VLAN vì chúng được thiết đặt bởi những cấu hình đi dây khác nhau. Người quản lý mạng liên kết các cổng riêng biệt vào hub hoặc thiết bị chuyển mạch để tạo từng mạng LAN riêng lẻ. Ví dụ, các cổng 2, 4, 5, và 8 được gộp thành nhóm LAN1 và các cổng 1, 3, 6, 9, và 10 được gộp thành nhóm LAN2. Hai thiết kế bản mạch (backplane) được dùng trong các thiết bị hub và bộ chuyển mạch: bản mạch multibus và TDM (time division multiplexing). Với thiết kế multibus, mỗi bus biểu diễn một mạng LAN và các cổng được liên kết đến một bus cụ thể. Trong thiết kế TDM, mỗi LAN làm chủ một khoảng thời gian nhất định trong một bus. Bởi vì LAN được cấu hình bên trong hub hoặc bộ chuyển mạch, các hub hoặc bộ chuyển mạch không thể làm cầu nối một LAN được khai báo cấu hình trong một thiết bị với LAN được khai báo cấu hình trong một thiết bị khác."
       },
       {
         "k": "m",
-        "t": "VLAN dựa trên MAC Ðịa chỉ MAC là địa chỉ thiết đặt sẵn trong card mạng. Người điều hành mạng tạo một bảng xác định những địa chỉ MAC nào đi cùng với VLAN nào. So sánh với phương pháp thiết đặt cổng, phương pháp này cung cấp khả năng thực sự của VLAN vì thành viên trong VLAN không bị gắn bó với một cổng cụ thể. Khai báo cấu hình được thực hiện trong phần mềm và trong vài trường hợp một máy tính có thể thuộc vào hai hoặc nhiều VLAN. Ngoài ra, nếu một máy tính được chuyển sang vị trí khác, nó vẫn thuộc cùng VLAN bởi vì địa chỉ MAC di chuyển cùng với nó."
+        "t": "VLAN dựa trên MAC Địa chỉ MAC là địa chỉ thiết đặt sẵn trong card mạng. Người điều hành mạng tạo một bảng xác định những địa chỉ MAC nào đi cùng với VLAN nào. So sánh với phương pháp thiết đặt cổng, phương pháp này cung cấp khả năng thực sự của VLAN vì thành viên trong VLAN không bị gắn bó với một cổng cụ thể. Khai báo cấu hình được thực hiện trong phần mềm và trong vài trường hợp một máy tính có thể thuộc vào hai hoặc nhiều VLAN. Ngoài ra, nếu một máy tính được chuyển sang vị trí khác, nó vẫn thuộc cùng VLAN bởi vì địa chỉ MAC di chuyển cùng với nó."
       },
       {
         "k": "m",
@@ -113,7 +113,7 @@
       },
       {
         "k": "m",
-        "t": "IP multicast VLANs Trong tiếp cận này, VLAN được định nghĩa bởi thành viên trong một nhóm IP multicast. IP multicast là phương pháp để một máy trạm truyền đến một số nhưng không phải là tất cả máy trạm trên mạng. Các máy trạm nhận được gọi là multicast group. Ðây là cách truyền một-đến nhiều được hỗ trợ bởi các chuẩn Internet. Multicast được thiết đặt bằng cách dùng địa chỉ IP lớp D. Ðể hỗ trợ chức năng này, các bộ định tuyến phải bật (enable) multicast. Multicasting là một quá trình hai chiều. Các bộ định tuyến thiết đặt multicast giữa chúng, nhưng một bộ định tuyến chỉ thực hiện multicast nếu máy chủ nào đó trên mạng yêu cầu làm thành viên của nhóm multicast. Các bộ định tuyến không tham gia multicast thì không liên quan, để tránh lưu thông không cần thiết. Multicasting là động theo nghĩa là các máy trạm có thể tham gia và loại khỏi ra nhóm (multicast) bất cứ lúc nào. Dùng chức năng này để tạo các VLAN là rất hữu ích và mềm dẻo. Multicasting cũng cho phép VLAN mở rộng các bộ định tuyến dựa trên WAN. Chuẩn IEEE 802.1p được gọi là \"Standard for Traffic Class and Dynamic Multicast Filtering Services in Bridged Local Area Networks\" xác định việc xây dựng các VLAN bằng các giao thức multicast."
+        "t": "IP multicast VLANs Trong tiếp cận này, VLAN được định nghĩa bởi thành viên trong một nhóm IP multicast. IP multicast là phương pháp để một máy trạm truyền đến một số nhưng không phải là tất cả máy trạm trên mạng. Các máy trạm nhận được gọi là multicast group. Đây là cách truyền một-đến nhiều được hỗ trợ bởi các chuẩn Internet. Multicast được thiết đặt bằng cách dùng địa chỉ IP lớp D. Để hỗ trợ chức năng này, các bộ định tuyến phải bật (enable) multicast. Multicasting là một quá trình hai chiều. Các bộ định tuyến thiết đặt multicast giữa chúng, nhưng một bộ định tuyến chỉ thực hiện multicast nếu máy chủ nào đó trên mạng yêu cầu làm thành viên của nhóm multicast. Các bộ định tuyến không tham gia multicast thì không liên quan, để tránh lưu thông không cần thiết. Multicasting là động theo nghĩa là các máy trạm có thể tham gia và loại khỏi ra nhóm (multicast) bất cứ lúc nào. Dùng chức năng này để tạo các VLAN là rất hữu ích và mềm dẻo. Multicasting cũng cho phép VLAN mở rộng các bộ định tuyến dựa trên WAN. Chuẩn IEEE 802.1p được gọi là \"Standard for Traffic Class and Dynamic Multicast Filtering Services in Bridged Local Area Networks\" xác định việc xây dựng các VLAN bằng các giao thức multicast."
       },
       {
         "k": "m",
@@ -129,7 +129,7 @@
       {"k": "m", "t": "Các VLAN và vấn đề định tuyến"},
       {
         "k": "m",
-        "t": "Ðịnh tuyến (routing) là thành phần cơ bản trong môi trường VLAN. Ðây là cách để mỗi VLAN bảo trì tính tự trị và bản chất phát thanh trong khi chuyển các gói dữ liệu giữa các VLAN. Ðịnh tuyến cho phép người quản lý đưa vào các chính sách an toàn, chẳng hạn như kỹ thuật lọc gói dữ liệu (xem mục \"Firewall\"). Một mạng được thiết kế tối ưu sẽ có các VLAN được cấu hình để giảm sự định tuyến giữa các VLAN càng nhiều càng tốt."
+        "t": "Định tuyến (routing) là thành phần cơ bản trong môi trường VLAN. Đây là cách để mỗi VLAN bảo trì tính tự trị và bản chất phát thanh trong khi chuyển các gói dữ liệu giữa các VLAN. Định tuyến cho phép người quản lý đưa vào các chính sách an toàn, chẳng hạn như kỹ thuật lọc gói dữ liệu (xem mục \"Firewall\"). Một mạng được thiết kế tối ưu sẽ có các VLAN được cấu hình để giảm sự định tuyến giữa các VLAN càng nhiều càng tốt."
       },
       {
         "k": "m",
@@ -137,11 +137,11 @@
       },
       {
         "k": "m",
-        "t": "Các VLAN được xây dựng trên mạng chuyển mạch là mềm dẻo hơn. Ðặc biệt, các bộ chuyển mạch thường khôn khéo chuyển mạch các gói ở tốc độ cao giữa các VLAN một khi bộ định tuyến định nghĩa xong đường dẫn (và làm trễ việc chuyển thông tin đến bộ chuyển mạch). Trong vài trường hợp, bản thân bộ chuyển mạch kiểm tra bảng định tuyến để xác định cần phải làm gì với một bó dữ liệu. Bảng định tuyến này có thể xây dựng bằng bộ định tuyến ngoài hoặc máy chủ định tuyến (route server)."
+        "t": "Các VLAN được xây dựng trên mạng chuyển mạch là mềm dẻo hơn. Đặc biệt, các bộ chuyển mạch thường khôn khéo chuyển mạch các gói ở tốc độ cao giữa các VLAN một khi bộ định tuyến định nghĩa xong đường dẫn (và làm trễ việc chuyển thông tin đến bộ chuyển mạch). Trong vài trường hợp, bản thân bộ chuyển mạch kiểm tra bảng định tuyến để xác định cần phải làm gì với một bó dữ liệu. Bảng định tuyến này có thể xây dựng bằng bộ định tuyến ngoài hoặc máy chủ định tuyến (route server)."
       },
       {
         "k": "m",
-        "t": "Nhiều kỹ thuật định tuyến được phát triển trong môi trường ATM. Xem mục \"IP over ATM\" và \"IP Switching\" để biết chi tiết. Diễn đàn ATM đã phát triển MPOA (Multiprotocol over ATM), chuyển việc định tuyến đến một máy chủ đặc biệt goị là máy chủ định tuyến (route server). Các khung trong cùng VLAN được chuyển mạch ở tầng 2. Ðể truyền các khung đến các VLAN khác, đờng dẫn định tuyến nhận được từ máy chủ định tuyến, mà trước đó đã tạo đường dẫn logíc qua mạng. Ðường dẫn này được chuyển đổi sang mạch ảo để truyền dữ liệu. Xem mục \"MPOA (Multiprotocol over ATM)\" để biết thêm chi tiết."
+        "t": "Nhiều kỹ thuật định tuyến được phát triển trong môi trường ATM. Xem mục \"IP over ATM\" và \"IP Switching\" để biết chi tiết. Diễn đàn ATM đã phát triển MPOA (Multiprotocol over ATM), chuyển việc định tuyến đến một máy chủ đặc biệt goị là máy chủ định tuyến (route server). Các khung trong cùng VLAN được chuyển mạch ở tầng 2. Để truyền các khung đến các VLAN khác, đờng dẫn định tuyến nhận được từ máy chủ định tuyến, mà trước đó đã tạo đường dẫn logíc qua mạng. Đường dẫn này được chuyển đổi sang mạch ảo để truyền dữ liệu. Xem mục \"MPOA (Multiprotocol over ATM)\" để biết thêm chi tiết."
       },
       {
         "k": "m",

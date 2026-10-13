@@ -47,7 +47,7 @@
     },
     {"e": 61.26, "en": "Really? That's too bad.", "vi": "Vậy à? Xui quá.", "s": 59.47},
     {"e": 62.84, "en": "Yeah, I'm really sorry.", "vi": "Vâng tôi thành thật xin lỗi.", "s": 61.26},
-    {"e": 66.04, "en": "No problem. Next time, OK?", "vi": "Không sao. Ðể lần sau nhé?", "s": 62.84},
+    {"e": 66.04, "en": "No problem. Next time, OK?", "vi": "Không sao. Để lần sau nhé?", "s": 62.84},
     {
       "e": 69.15,
       "en": "OK. Talk to you later, Bill. Bye.",
@@ -82,7 +82,7 @@
       "vi": "Xin lỗi mình không thể. Tối thứ sáu mình phải đi mua sắm với Nancy.",
       "s": 114.78
     },
-    {"e": 123.89, "en": "Shopping with Nancy?", "vi": "Ði mua sắm với Nancy à?", "s": 120.33},
+    {"e": 123.89, "en": "Shopping with Nancy?", "vi": "Đi mua sắm với Nancy à?", "s": 120.33},
     {"e": 125.93, "en": "Yes, I'm sorry.", "vi": "ừ, mình rất tiếc.", "s": 123.89},
     {"e": 127.81, "en": "That's OK.", "vi": "Thôi được.", "s": 125.93},
     {"e": 130.43, "en": "Bye, Fred. Bye-bye.", "vi": "Chào Fred. Tạm biệt.", "s": 127.81},
@@ -163,7 +163,7 @@
       "vi": "À... anh phục vụ ơi. Vâng thưa ông?",
       "s": 278.77
     },
-    {"e": 284.56, "en": "Where is the phone?", "vi": "Ðiện thoại ở đâu nhỉ?", "s": 282.76},
+    {"e": 284.56, "en": "Where is the phone?", "vi": "Điện thoại ở đâu nhỉ?", "s": 282.76},
     {"e": 286.52, "en": "It's over there, sir.", "vi": "Ở đằng kia, thưa ông.", "s": 284.56},
     {"e": 288.28, "en": "Thank you.", "vi": "Cảm ơn.", "s": 286.52},
     {"e": 293.28, "en": "...", "vi": "...", "s": 288.28},
@@ -274,7 +274,7 @@
       "vi": "À mình phải đến nha sĩ.",
       "s": 393.6
     },
-    {"e": 396.93, "en": "To dentist?", "vi": "Ðến nha sĩ à?", "s": 395.97},
+    {"e": 396.93, "en": "To dentist?", "vi": "Đến nha sĩ à?", "s": 395.97},
     {"e": 398.91, "en": "Yeah. My tooth hurt.", "vi": "ừ răng mình bị đau.", "s": 396.93},
     {
       "e": 401.48,
@@ -286,7 +286,7 @@
     {
       "e": 407.1,
       "en": "By taxi? How are we going to get the money home?",
-      "vi": "Ði taxi à? Làm thế nào chúng ta đem tiền về nhà chứ?",
+      "vi": "Đi taxi à? Làm thế nào chúng ta đem tiền về nhà chứ?",
       "s": 402.9
     },
     {
@@ -315,7 +315,7 @@
       "s": 419.43
     },
     {"e": 422.5, "en": "I'm not crazy.", "vi": "Mình không điên đâu.", "s": 421.17},
-    {"e": 424.7, "en": "STOP! This is the police!", "vi": "Ðứng lại! Cảnh sát đây!", "s": 422.5},
+    {"e": 424.7, "en": "STOP! This is the police!", "vi": "Đứng lại! Cảnh sát đây!", "s": 422.5},
     {"e": 427.13, "en": "Oh, no. Not again!", "vi": "Ôi không! Lại nữa rồi!", "s": 424.7}
   ]
 }

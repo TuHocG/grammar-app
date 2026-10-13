@@ -136,7 +136,7 @@
   {
     "h": "Escalators",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðiều khoản di động giá."},
+      {"k": "m", "t": "(kinh tế) Điều khoản di động giá."},
       {
         "k": "m",
         "t": "Các điều khoản về phí sinh hoạt trong các ghi thỏa thuận thương lượng tập thể. Các điều khoản là một cơ chế điều chỉnh định kỳ mức lương dựa trên những biến động của một chỉ số giá cả nhất định."
@@ -390,7 +390,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "mã escape. Lệnh liên hợp giữa Esc (trị số 27 của ASCII) và một hoặc nhiều ký tự ASCII, có thể được sử dụng để thay đổi các màu màn hình, điều khiển con chạy, tạo các dấu nhắc đặc biệt, gán lại chức năng cho các phím trên bàn phím, và thay đổi các thông số cài đặt của máy in (chữ sít hoặc chữ đậm chẳng hạn). Ðồng nghĩa với escape sequence."
+        "t": "mã escape. Lệnh liên hợp giữa Esc (trị số 27 của ASCII) và một hoặc nhiều ký tự ASCII, có thể được sử dụng để thay đổi các màu màn hình, điều khiển con chạy, tạo các dấu nhắc đặc biệt, gán lại chức năng cho các phím trên bàn phím, và thay đổi các thông số cài đặt của máy in (chữ sít hoặc chữ đậm chẳng hạn). Đồng nghĩa với escape sequence."
       }
     ],
     "k": "escape code"
@@ -911,7 +911,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cánh chung thuyết (cho rằng Ðức Giêsu đã từng chờ mong Nước Trời đến khi ngài còn sống, hoặc không bao lâu sau khi Ngài lìa trần)."
+        "t": "Cánh chung thuyết (cho rằng Đức Giêsu đã từng chờ mong Nước Trời đến khi ngài còn sống, hoặc không bao lâu sau khi Ngài lìa trần)."
       }
     ],
     "k": "eschatologism"
@@ -1303,7 +1303,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "snh."},
-      {"k": "ex", "t": "escudos", "vi": "đồng etcuđô (tiền Bồ Ðào Nha)."}
+      {"k": "ex", "t": "escudos", "vi": "đồng etcuđô (tiền Bồ Đào Nha)."}
     ],
     "ipa": "es'ku:dou",
     "k": "escudo"
@@ -1405,7 +1405,7 @@
   },
   {
     "h": "esentative",
-    "segs": [{"k": "m", "t": "Ðại biểu/ diện; tiêu biểu, điển hình."}],
+    "segs": [{"k": "m", "t": "Đại biểu/ diện; tiêu biểu, điển hình."}],
     "k": "esentative"
   },
   {"h": "eseptate", "segs": [{"k": "m", "t": "Không có vách ngăn."}], "k": "eseptate"},
@@ -1645,7 +1645,7 @@
   },
   {
     "h": "esophageal plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh thực quản."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh thực quản."}],
     "k": "esophageal plexus"
   },
   {
@@ -2139,7 +2139,7 @@
     "ipa": ",esplə'neid",
     "k": "esplanade"
   },
-  {"h": "espnoic", "segs": [{"k": "m", "t": "Ðiều trị xả hơi."}], "k": "espnoic"},
+  {"h": "espnoic", "segs": [{"k": "m", "t": "Điều trị xả hơi."}], "k": "espnoic"},
   {"h": "esposing shutter", "segs": [{"k": "m", "t": "cửa ló sáng."}], "k": "esposing shutter"},
   {
     "h": "espousal",
@@ -2545,7 +2545,7 @@
   {"h": "essential cycle", "segs": [{"k": "m", "t": "chu trình cốt yếu."}], "k": "essential cycle"},
   {
     "h": "essential dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh vô căn."}],
+    "segs": [{"k": "m", "t": "Đau kinh vô căn."}],
     "k": "essential dysmenorrhea"
   },
   {
@@ -2572,7 +2572,7 @@
   },
   {
     "h": "essential epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh vô căn."}],
+    "segs": [{"k": "m", "t": "Động kinh vô căn."}],
     "k": "essential epilepsy"
   },
   {
@@ -2813,7 +2813,7 @@
   {
     "h": "est",
     "segs": [
-      {"k": "m", "t": "(tắt) giờ chuẩn ở miền Ðông ("},
+      {"k": "m", "t": "(tắt) giờ chuẩn ở miền Đông ("},
       {
         "k": "ex",
         "t": "Eastern standard time) phương pháp trị liệu bằng xung điện (Electroshock treatment",
@@ -4138,15 +4138,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "một nước ở phía Bắc Châu Âu. Phía Bắc là vịnh của Phần Lan. Nước Nga ở phía Ðông. Nước Latvia ở phía Nam. Phía Tây là biển Baltic."
+        "t": "một nước ở phía Bắc Châu Âu. Phía Bắc là vịnh của Phần Lan. Nước Nga ở phía Đông. Nước Latvia ở phía Nam. Phía Tây là biển Baltic."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: có hai quần đảo lớn và nhiều đảo nhỏ ở ngoài khơi bờ biển. Nơi đây mặt đất dày đặc tuyết vào mùa đông, nhưng mùa hè thì ấm. Phía Bắc bao gồm vùng đá vôi. Vùng đồng bằng gồm rừng và hồ."
+        "t": "Địa hình: có hai quần đảo lớn và nhiều đảo nhỏ ở ngoài khơi bờ biển. Nơi đây mặt đất dày đặc tuyết vào mùa đông, nhưng mùa hè thì ấm. Phía Bắc bao gồm vùng đá vôi. Vùng đồng bằng gồm rừng và hồ."
       },
       {
         "k": "m",
-        "t": "Kinh tế: nguồn lợi chính là khoáng sản, kỹ nghệ dầu mỏ sản xuất hơi gas. Ðiện năng sản xuất nhiều ở miền Tây Bắc Nga và Belarus. Những kỹ nghệ khác gồm máy móc, hóa chất, gỗ, dệt. Nông nghiệp tập trung vào động vật cày."
+        "t": "Kinh tế: nguồn lợi chính là khoáng sản, kỹ nghệ dầu mỏ sản xuất hơi gas. Điện năng sản xuất nhiều ở miền Tây Bắc Nga và Belarus. Những kỹ nghệ khác gồm máy móc, hóa chất, gỗ, dệt. Nông nghiệp tập trung vào động vật cày."
       },
       {
         "k": "m",
@@ -4155,7 +4155,7 @@
       {"k": "m", "t": "Thủ đô: Tallin."},
       {"k": "m", "t": "Diện tích: 45.111km2"},
       {"k": "m", "t": "Dân số: 1,475 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: Ðồng Kroon."},
+      {"k": "m", "t": "Tiền tệ: Đồng Kroon."},
       {"k": "m", "t": "Sắc tộc: Estonian 63%. Nga 30%."},
       {"k": "m", "t": "Ngôn ngữ: Estonian và Nga."},
       {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc."}
@@ -4167,7 +4167,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "dt 1.a người hoặc dân tộc Estonia (Ðông Âu thuộc Liên Xô cũ). b người gốc Estonia 2. ngôn ngữ Estonia.^tt. (thuộc) dân tộc, ngôn ngữ Estonia."
+        "t": "dt 1.a người hoặc dân tộc Estonia (Đông Âu thuộc Liên Xô cũ). b người gốc Estonia 2. ngôn ngữ Estonia.^tt. (thuộc) dân tộc, ngôn ngữ Estonia."
       }
     ],
     "ipa": "e'stəʊniən",

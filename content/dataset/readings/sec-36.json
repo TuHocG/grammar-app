@@ -27,12 +27,12 @@
     "vi": [
       ["Lớn hay nhỏ?"],
       ["Nghe và lặp lại"],
-      ["Ðây là Phong."],
-      ["Ðây là trường của cậu ấy."],
+      ["Đây là Phong."],
+      ["Đây là trường của cậu ấy."],
       ["Trường của Phong thì nhỏ."],
       ["Nó ở vùng quê."],
-      ["Ðây là Thu."],
-      ["Ðây là trường của Thu."],
+      ["Đây là Thu."],
+      ["Đây là trường của Thu."],
       ["Trường của Thu thì lớn."],
       ["Nó ở thành phố."],
       ["Trả lời rồi viết câu trả lời vào vở."],
@@ -70,7 +70,7 @@
       ["- There are nine hundred students in her school."]
     ],
     "vi": [
-      ["Ðọc rồi trả lời câu hỏi"],
+      ["Đọc rồi trả lời câu hỏi"],
       ["Trường của Phong ở miền quê."],
       ["Nó nhỏ.", "Có 8 phòng học."],
       ["Có 400 học sinh trong trường. (Chú ý: hundred không thêm s)"],
@@ -385,7 +385,7 @@
       ["- I go to school at six thirty."]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       ["Ba dậy lúc 6 giờ."],
       ["Cậu ấy ăn sáng lúc 6 giờ 30."],
       ["Cậu ấy đến trường lúc 7 giờ 15."],

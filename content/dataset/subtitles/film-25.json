@@ -18,7 +18,7 @@
     {
       "e": 12.07,
       "en": "To get something we want, we don't just take it.",
-      "vi": "Ðể có được cái gì đó chúng ta cần, chúng ta đừng chỉ việc cầm lấy nó.",
+      "vi": "Để có được cái gì đó chúng ta cần, chúng ta đừng chỉ việc cầm lấy nó.",
       "s": 8.56
     },
     {"e": 13.04, "en": "That's not nice.", "vi": "Như thế không tốt đâu.", "s": 12.07},
@@ -72,7 +72,7 @@
       "vi": "Chiều nay tôi sử dụng máy vi tính này để kiểm tra thư điện tử của tôi được không?",
       "s": 54.14
     },
-    {"e": 59.45, "en": "Sure.", "vi": "Ðược chứ.", "s": 57.51},
+    {"e": 59.45, "en": "Sure.", "vi": "Được chứ.", "s": 57.51},
     {"e": 61.68, "en": "And where's the phone?", "vi": "Còn điện thoại ở đâu?", "s": 59.45},
     {"e": 63.69, "en": "That's with the secretary.", "vi": "Nó ở chỗ cô thư ký.", "s": 61.68},
     {
@@ -82,7 +82,7 @@
       "s": 63.69
     },
     {"e": 67.24, "en": "I need to use it here.", "vi": "Tôi cần sử dụng nó ở đây.", "s": 66.0},
-    {"e": 69.75, "en": "Okay.", "vi": "Ðược.", "s": 67.24},
+    {"e": 69.75, "en": "Okay.", "vi": "Được.", "s": 67.24},
     {"e": 84.55, "en": "...", "vi": "...", "s": 69.75},
     {
       "e": 90.31,
@@ -111,7 +111,7 @@
     {
       "e": 104.07,
       "en": "Sure! It's just down the hail.",
-      "vi": "Ðược chứ! Nó ở ngay cuối phòng khách đó.",
+      "vi": "Được chứ! Nó ở ngay cuối phòng khách đó.",
       "s": 101.38
     },
     {"e": 118.05, "en": "Thanks.", "vi": "Cám ơn.", "s": 104.07},
@@ -142,7 +142,7 @@
       "s": 148.08
     },
     {"e": 153.58, "en": "It's really getting hot here.", "vi": "Ở đây thực nóng quá.", "s": 151.87},
-    {"e": 155.43, "en": "Yeah, I'll get it.", "vi": "Ðược, để tôi mở cho.", "s": 153.58},
+    {"e": 155.43, "en": "Yeah, I'll get it.", "vi": "Được, để tôi mở cho.", "s": 153.58},
     {"e": 168.85, "en": "Thanks.", "vi": "Cám ơn.", "s": 155.43},
     {
       "e": 173.98,
@@ -163,7 +163,7 @@
       "vi": "Cho phép tôi bật đèn lên nhé?",
       "s": 186.22
     },
-    {"e": 190.0, "en": "Sure, I'll get it for you.", "vi": "Ðược, để tôi bật cho anh.", "s": 188.03},
+    {"e": 190.0, "en": "Sure, I'll get it for you.", "vi": "Được, để tôi bật cho anh.", "s": 188.03},
     {
       "e": 194.79,
       "en": "Could I use your phone?",
@@ -192,7 +192,7 @@
     {
       "e": 210.34,
       "en": "Sure, it's down the hail on the left.",
-      "vi": "Ðược, nó ở cuối phòng khách phía bên trái.",
+      "vi": "Được, nó ở cuối phòng khách phía bên trái.",
       "s": 207.0
     },
     {"e": 211.99, "en": "Great.", "vi": "Tốt lắm.", "s": 210.34},
@@ -222,7 +222,7 @@
       "vi": "Chúng ta thay nó được chứ?",
       "s": 235.88
     },
-    {"e": 238.84, "en": "No problem.", "vi": "Ðược.", "s": 237.73},
+    {"e": 238.84, "en": "No problem.", "vi": "Được.", "s": 237.73},
     {
       "e": 243.77,
       "en": "And another thing, would it be OK if I check my e-mail?",
@@ -235,7 +235,7 @@
       "vi": "Tôi đang mong một bức thư.",
       "s": 243.77
     },
-    {"e": 246.89, "en": "Sure, go ahead.", "vi": "Ðược, cứ tự nhiên.", "s": 245.35},
+    {"e": 246.89, "en": "Sure, go ahead.", "vi": "Được, cứ tự nhiên.", "s": 245.35},
     {"e": 253.67, "en": "...", "vi": "...", "s": 246.89},
     {
       "e": 258.83,
@@ -388,7 +388,7 @@
     {
       "e": 385.6,
       "en": "Yes, you can have your Christmas bonus, just like every year.",
-      "vi": "Ðược, anh có thể nhận tiền thưởng cho dịp Giáng Sinh, giống như mọi năm thôi.",
+      "vi": "Được, anh có thể nhận tiền thưởng cho dịp Giáng Sinh, giống như mọi năm thôi.",
       "s": 381.69
     },
     {
@@ -410,7 +410,7 @@
       "vi": "Cho tôi phần điểm tâm số 4.",
       "s": 396.2
     },
-    {"e": 403.03, "en": "Okay.", "vi": "Ðược ạ.", "s": 401.16},
+    {"e": 403.03, "en": "Okay.", "vi": "Được ạ.", "s": 401.16},
     {
       "e": 407.11,
       "en": "But I don't like sausage.",
@@ -426,7 +426,7 @@
     {
       "e": 413.56,
       "en": "Yes, you can change the sausage to bacon.",
-      "vi": "Ðược, anh có thể đổi xúc xích lấy thịt muối.",
+      "vi": "Được, anh có thể đổi xúc xích lấy thịt muối.",
       "s": 410.15
     },
     {
@@ -446,13 +446,13 @@
     {
       "e": 431.64,
       "en": "That's okay. Can I change the coffee to tea?",
-      "vi": "Ðược rồi. Tôi đổi cà phê lấy trà được không?",
+      "vi": "Được rồi. Tôi đổi cà phê lấy trà được không?",
       "s": 425.49
     },
     {
       "e": 434.67,
       "en": "Yes, you can change the coffee to tea.",
-      "vi": "Ðược, anh có thể đổi cà phê lấy trà.",
+      "vi": "Được, anh có thể đổi cà phê lấy trà.",
       "s": 431.64
     },
     {"e": 439.41, "en": "...", "vi": "...", "s": 434.67},
@@ -462,7 +462,7 @@
       "vi": "Này, Barbara. Tôi đến nhà chị muộn một chút được không?",
       "s": 439.41
     },
-    {"e": 447.46, "en": "Sure. What's wrong?", "vi": "Ðược. Có chuyện gì vậy?", "s": 445.57},
+    {"e": 447.46, "en": "Sure. What's wrong?", "vi": "Được. Có chuyện gì vậy?", "s": 445.57},
     {
       "e": 450.75,
       "en": "I have to pick up my son before I go to your place.",
@@ -473,7 +473,7 @@
     {
       "e": 456.32,
       "en": "Fine. That's no problem. Oh, before I forget.",
-      "vi": "Ðược. Không sao đâu. Ồ, chút nữa thì tôi quên.",
+      "vi": "Được. Không sao đâu. Ồ, chút nữa thì tôi quên.",
       "s": 452.38
     },
     {
@@ -492,7 +492,7 @@
     {
       "e": 466.46,
       "en": "No problem. I'll bring it.",
-      "vi": "Ðược. Tôi sẽ mang nó theo.",
+      "vi": "Được. Tôi sẽ mang nó theo.",
       "s": 463.87
     },
     {"e": 478.12, "en": "...", "vi": "...", "s": 466.46},
@@ -513,14 +513,14 @@
     {
       "e": 494.71,
       "en": "To the beach with my friends from college.",
-      "vi": "Ði ra bãi biển với các bạn thời đại học của em.",
+      "vi": "Đi ra bãi biển với các bạn thời đại học của em.",
       "s": 491.52
     },
     {"e": 499.02, "en": "...", "vi": "...", "s": 494.71},
     {
       "e": 501.74,
       "en": "Yes, I guess that will be fine.",
-      "vi": "Ðược, anh nghĩ là được.",
+      "vi": "Được, anh nghĩ là được.",
       "s": 499.02
     },
     {"e": 503.59, "en": "When will you be back?", "vi": "Khi nào em trở về?", "s": 501.74},

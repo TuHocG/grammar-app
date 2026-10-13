@@ -349,9 +349,9 @@
       {"k": "m", "t": "của chúng ta, thuộc chúng ta, của chúng tôi, của chúng mình"},
       {"k": "ex", "t": "in our opinion", "vi": "theo ý kiến chúng tôi"},
       {"k": "m", "t": "của trẫm (vua chúa...)"},
-      {"k": "ex", "t": "Our Father", "vi": "Thượng Ðế"},
-      {"k": "ex", "t": "Our Saviour", "vi": "Ðức Chúa Giê-su"},
-      {"k": "ex", "t": "Our Lady", "vi": "Ðức Mẹ đồng trinh."}
+      {"k": "ex", "t": "Our Father", "vi": "Thượng Đế"},
+      {"k": "ex", "t": "Our Saviour", "vi": "Đức Chúa Giê-su"},
+      {"k": "ex", "t": "Our Lady", "vi": "Đức Mẹ đồng trinh."}
     ],
     "ipa": "'auə",
     "k": "our",
@@ -367,8 +367,8 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "điện báo của chúng tôi"}],
     "k": "our cable"
   },
-  {"h": "Our Father", "segs": [{"k": "m", "t": "Thượng Ðế."}], "k": "our father"},
-  {"h": "Our Lady", "segs": [{"k": "m", "t": "Ðức Mẹ đồng trinh."}], "k": "our lady"},
+  {"h": "Our Father", "segs": [{"k": "m", "t": "Thượng Đế."}], "k": "our father"},
+  {"h": "Our Lady", "segs": [{"k": "m", "t": "Đức Mẹ đồng trinh."}], "k": "our lady"},
   {
     "h": "our letter",
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thư của chúng tôi"}],
@@ -388,7 +388,7 @@
     ],
     "k": "our own make"
   },
-  {"h": "Our Saviour", "segs": [{"k": "m", "t": "Ðức Chúa Giê-su."}], "k": "our saviour"},
+  {"h": "Our Saviour", "segs": [{"k": "m", "t": "Đức Chúa Giê-su."}], "k": "our saviour"},
   {
     "h": "our time",
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "giờ của bên chúng tôi"}],
@@ -561,7 +561,7 @@
       {"k": "ex", "t": "have you read it out?", "vi": "anh ta đã đọc hết cuốn sách đó chưa?"},
       {"k": "ex", "t": "he would not hear me out", "vi": "nó nhất định không nghe tôi nói hết"},
       {"k": "m", "t": "không nắm chính quyền"},
-      {"k": "ex", "t": "Tories are out", "vi": "Ðảng Bảo thủ (Anh) không nắm chính quyền"},
+      {"k": "ex", "t": "Tories are out", "vi": "Đảng Bảo thủ (Anh) không nắm chính quyền"},
       {"k": "m", "t": "đang bãi công"},
       {"k": "ex", "t": "miners are out", "vi": "công nhân mỏ đang bãi công"},
       {"k": "m", "t": "tắt, không cháy"},
@@ -1060,7 +1060,7 @@
       {
         "k": "ex",
         "t": "My watch is out of commission and is running slow:",
-        "vi": "Ðồng hồ của tôi bị hư và nó chạy chậm."
+        "vi": "Đồng hồ của tôi bị hư và nó chạy chậm."
       },
       {
         "k": "ex",
@@ -1490,7 +1490,7 @@
         "t": "\"Get out of sight, or they'll see you!\" called John:",
         "vi": "John kêu lên: \"Nấp đi, chứ không họ sẽ thấy mày đấy!\""
       },
-      {"k": "m", "t": "2. Ðối với giá trị rất cao. (Thông tục)."},
+      {"k": "m", "t": "2. Đối với giá trị rất cao. (Thông tục)."},
       {
         "k": "ex",
         "t": "I won't pay this bill. It's out of sight:",
@@ -1539,7 +1539,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hiện thời không có sẵn trong cửa hàng; (Ðối với hàng hóa) tạm thời chưa có sẵn."
+        "t": "hiện thời không có sẵn trong cửa hàng; (Đối với hàng hóa) tạm thời chưa có sẵn."
       },
       {
         "k": "ex",
@@ -1785,7 +1785,7 @@
       {
         "k": "ex",
         "t": "Don't be out of it, John. Wake up!:",
-        "vi": "Ðừng có lừ đừ, John. Hãy tỉnh dậy đi!"
+        "vi": "Đừng có lừ đừ, John. Hãy tỉnh dậy đi!"
       },
       {
         "k": "ex",
@@ -2374,7 +2374,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Vùng hẻo lánh ở Úc. Nó là nơi đày ải tù nhân. Năm 1829, chính quyền ngăn cấm dân định cư đến đây. Ðến năm 1836, dân chúng được phép chăn cừu ở đây và chỉ đóng phí 10 đôla hàng năm. Kể từ đó, vùng đất này phát triển ngành chăn cừu. Giáng sinh năm 1100, Baldwin I trở thành vị vua đầu tiên của vùng này. Ông cai trị vùng bờ biển nhỏ hẹp và không phân định biên giới ở phía đông."
+        "t": "Vùng hẻo lánh ở Úc. Nó là nơi đày ải tù nhân. Năm 1829, chính quyền ngăn cấm dân định cư đến đây. Đến năm 1836, dân chúng được phép chăn cừu ở đây và chỉ đóng phí 10 đôla hàng năm. Kể từ đó, vùng đất này phát triển ngành chăn cừu. Giáng sinh năm 1100, Baldwin I trở thành vị vua đầu tiên của vùng này. Ông cai trị vùng bờ biển nhỏ hẹp và không phân định biên giới ở phía đông."
       }
     ],
     "k": "outback"
@@ -5674,7 +5674,7 @@
       {
         "k": "ex",
         "t": "Don't try to outguess John. He's too sharp and tricky:",
-        "vi": "Ðừng có cố tiên đoán John sẽ làm điều gì hắn ta quá ma mãnh và quỷ quyệt."
+        "vi": "Đừng có cố tiên đoán John sẽ làm điều gì hắn ta quá ma mãnh và quỷ quyệt."
       }
     ],
     "k": "outguess someone"
@@ -6590,7 +6590,7 @@
     "segs": [{"k": "m", "t": "(output limiting facility) phương tiện giới hạn xuất."}],
     "k": "outlim"
   },
-  {"h": "outlimb", "segs": [{"k": "m", "t": "Ðoạn ngoài của chi."}], "k": "outlimb"},
+  {"h": "outlimb", "segs": [{"k": "m", "t": "Đoạn ngoài của chi."}], "k": "outlimb"},
   {
     "h": "outlimn",
     "segs": [

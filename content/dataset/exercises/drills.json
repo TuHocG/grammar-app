@@ -284,7 +284,7 @@
       "tt": 16,
       "blanks": [{"a": "Am I", "alt": [], "n": 6}, {"a": "are", "alt": [], "n": 6}],
       "given": ["To be", "To be"],
-      "vi": "Tôi là một học sinh à?\nÐúng, bạn là học sinh.",
+      "vi": "Tôi là một học sinh à?\nĐúng, bạn là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -308,7 +308,7 @@
       "tt": 16,
       "blanks": [{"a": "Is he", "alt": [], "n": 5}, {"a": "is", "alt": [], "n": 6}],
       "given": ["To be", "To be"],
-      "vi": "Anh ấy là một học sinh à?\nÐúng, anh ấy là học sinh.",
+      "vi": "Anh ấy là một học sinh à?\nĐúng, anh ấy là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -332,7 +332,7 @@
       "tt": 16,
       "blanks": [{"a": "Is it", "alt": [], "n": 5}, {"a": "is", "alt": [], "n": 6}],
       "given": ["To be", "To be"],
-      "vi": "Nó là một quyển sách à?\nÐúng, nó là quyển sách.",
+      "vi": "Nó là một quyển sách à?\nĐúng, nó là quyển sách.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -356,7 +356,7 @@
       "tt": 16,
       "blanks": [{"a": "Are you", "alt": [], "n": 4}, {"a": "are not", "alt": [], "n": 3}],
       "given": ["To be", "To be"],
-      "vi": "Các anh là những học sinh à?\nÐúng, chúng tôi là học sinh.",
+      "vi": "Các anh là những học sinh à?\nĐúng, chúng tôi là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -368,7 +368,7 @@
       "tt": 16,
       "blanks": [{"a": "Are they", "alt": [], "n": 4}, {"a": "are", "alt": [], "n": 6}],
       "given": ["To be", "To be"],
-      "vi": "Họ là những học sinh à?\nÐúng, họ là học sinh.",
+      "vi": "Họ là những học sinh à?\nĐúng, họ là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -380,7 +380,7 @@
       "tt": 16,
       "blanks": [{"a": "Am I not", "alt": [], "n": 4}, {"a": "are", "alt": [], "n": 6}],
       "given": ["(Not) To be", "To be"],
-      "vi": "Tôi không phải là một học sinh à?\nÐúng, bạn là học sinh.",
+      "vi": "Tôi không phải là một học sinh à?\nĐúng, bạn là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -392,7 +392,7 @@
       "tt": 16,
       "blanks": [{"a": "Are you not", "alt": [], "n": 5}, {"a": "am", "alt": [], "n": 6}],
       "given": ["(Not) To be", "To be"],
-      "vi": "Bạn không phải là một học sinh à?\nÐúng, tôi là học sinh.",
+      "vi": "Bạn không phải là một học sinh à?\nĐúng, tôi là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -428,7 +428,7 @@
       "tt": 16,
       "blanks": [{"a": "Is it not", "alt": [], "n": 5}, {"a": "is", "alt": [], "n": 6}],
       "given": ["(Not) To be", "To be"],
-      "vi": "Nó không phải là một quyển sách à?\nÐúng, nó là quyển sách.",
+      "vi": "Nó không phải là một quyển sách à?\nĐúng, nó là quyển sách.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -440,7 +440,7 @@
       "tt": 16,
       "blanks": [{"a": "Are we not", "alt": [], "n": 5}, {"a": "are", "alt": [], "n": 6}],
       "given": ["(Not) To be", "To be"],
-      "vi": "Chúng tôi không phải là những học sinh à?\nÐúng, các bạn là học sinh.",
+      "vi": "Chúng tôi không phải là những học sinh à?\nĐúng, các bạn là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -452,7 +452,7 @@
       "tt": 16,
       "blanks": [{"a": "Are you not", "alt": [], "n": 4}, {"a": "are", "alt": [], "n": 6}],
       "given": ["(Not) To be", "To be"],
-      "vi": "Các anh không phải là những học sinh à?\nÐúng, chúng tôi là học sinh.",
+      "vi": "Các anh không phải là những học sinh à?\nĐúng, chúng tôi là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -464,7 +464,7 @@
       "tt": 16,
       "blanks": [{"a": "Are they not", "alt": [], "n": 4}, {"a": "are", "alt": [], "n": 6}],
       "given": ["(Not) To be", "To be"],
-      "vi": "Họ không phải là những học sinh à?\nÐúng, họ là học sinh.",
+      "vi": "Họ không phải là những học sinh à?\nĐúng, họ là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -500,7 +500,7 @@
       "tt": 17,
       "blanks": [{"a": "Isn't she", "alt": [], "n": 4}, {"a": "She is", "alt": [], "n": 3}],
       "given": ["(Not) To be", "To be"],
-      "vi": "Cô ấy không phải là một học sinh à?\nÐúng, cô ấy là học sinh.",
+      "vi": "Cô ấy không phải là một học sinh à?\nĐúng, cô ấy là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [3]}],
       "refs": [3]
     },
@@ -1903,7 +1903,7 @@
       "text": "(They) {0} to school? Yes, they {1}.",
       "blanks": [{"a": "Do they go", "alt": [], "n": 3}, {"a": "do", "alt": [], "n": 4}],
       "given": ["To go", "to do"],
-      "vi": "Họ đến trường à?\nÐúng, họ đến trường.",
+      "vi": "Họ đến trường à?\nĐúng, họ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [6]}],
       "refs": [6]
     },
@@ -3114,7 +3114,7 @@
       "tt": 5,
       "blanks": [{"a": "rises", "alt": [], "n": 6}, {"a": "sets", "alt": [], "n": 5}],
       "given": ["Rise", "set"],
-      "vi": "Mặt trời mọc ở hướng Ðông và lặn ở hướng Tây.",
+      "vi": "Mặt trời mọc ở hướng Đông và lặn ở hướng Tây.",
       "expl": [{"head": "", "lines": [], "refs": [12]}],
       "refs": [12]
     },
@@ -3811,7 +3811,7 @@
       "tt": 6,
       "blanks": [{"a": "Have I learnt", "alt": [], "n": 5}, {"a": "have", "alt": [], "n": 5}],
       "given": ["Learn", "To Have"],
-      "vi": "Tôi đã học Anh Văn được 2 năm à?\nÐúng, bạn có học.",
+      "vi": "Tôi đã học Anh Văn được 2 năm à?\nĐúng, bạn có học.",
       "expl": [{"head": "", "lines": [], "refs": [14]}],
       "refs": [14]
     },
@@ -3847,7 +3847,7 @@
       "tt": 6,
       "blanks": [{"a": "Has she learnt", "alt": [], "n": 5}, {"a": "has", "alt": [], "n": 5}],
       "given": ["Learn", "To Have"],
-      "vi": "Cô ấy đã học Anh Văn được 2 năm à?\nÐúng, cô ấy có học.",
+      "vi": "Cô ấy đã học Anh Văn được 2 năm à?\nĐúng, cô ấy có học.",
       "expl": [{"head": "", "lines": [], "refs": [14]}],
       "refs": [14]
     },
@@ -4204,7 +4204,7 @@
       "tt": 6,
       "blanks": [{"a": "Have I Worked", "alt": [], "n": 5}, {"a": "have", "alt": [], "n": 5}],
       "given": ["Work", "To Have"],
-      "vi": "Tôi đã làm việc ở đây được 2 năm à?\nÐúng, bạn có làm.",
+      "vi": "Tôi đã làm việc ở đây được 2 năm à?\nĐúng, bạn có làm.",
       "expl": [{"head": "", "lines": [], "refs": [14]}],
       "refs": [14]
     },
@@ -4240,7 +4240,7 @@
       "tt": 6,
       "blanks": [{"a": "Has she Worked", "alt": [], "n": 5}, {"a": "has", "alt": [], "n": 5}],
       "given": ["Work", "To Have"],
-      "vi": "Cô ấy đã làm việc ở đây được 2 năm à?\nÐúng, cô ấy có làm.",
+      "vi": "Cô ấy đã làm việc ở đây được 2 năm à?\nĐúng, cô ấy có làm.",
       "expl": [{"head": "", "lines": [], "refs": [14]}],
       "refs": [14]
     },
@@ -8703,7 +8703,7 @@
         {"a": "You will", "alt": [], "n": 5}
       ],
       "given": ["Wait", "To be"],
-      "vi": "Ngày mai, vào giờ này tôi sẽ đợi ở đây à?\nÐúng, bạn sẽ đợi.",
+      "vi": "Ngày mai, vào giờ này tôi sẽ đợi ở đây à?\nĐúng, bạn sẽ đợi.",
       "expl": [{"head": "", "lines": [], "refs": [28]}],
       "refs": [28]
     },
@@ -8733,7 +8733,7 @@
         {"a": "he will", "alt": [], "n": 5}
       ],
       "given": ["Wait", "To be"],
-      "vi": "Ngày mai, vào giờ này anh ấy sẽ đợi ở đây à?\nÐúng, anh ấy sẽ đợi.",
+      "vi": "Ngày mai, vào giờ này anh ấy sẽ đợi ở đây à?\nĐúng, anh ấy sẽ đợi.",
       "expl": [{"head": "", "lines": [], "refs": [28]}],
       "refs": [28]
     },
@@ -8778,7 +8778,7 @@
         {"a": "they will", "alt": [], "n": 5}
       ],
       "given": ["Wait", "To be"],
-      "vi": "Ngày mai, vào giờ này họ sẽ đợi ở đây à?\nÐúng, họ sẽ đợi.",
+      "vi": "Ngày mai, vào giờ này họ sẽ đợi ở đây à?\nĐúng, họ sẽ đợi.",
       "expl": [{"head": "", "lines": [], "refs": [28]}],
       "refs": [28]
     },
@@ -8793,7 +8793,7 @@
         {"a": "You will", "alt": [], "n": 5}
       ],
       "given": ["(Not) Wait", "To be"],
-      "vi": "Ngày mai, vào giờ này tôi sẽ không đợi ở đây à?\nÐúng, bạn sẽ đợi.",
+      "vi": "Ngày mai, vào giờ này tôi sẽ không đợi ở đây à?\nĐúng, bạn sẽ đợi.",
       "expl": [{"head": "", "lines": [], "refs": [28]}],
       "refs": [28]
     },
@@ -8823,7 +8823,7 @@
         {"a": "he will", "alt": [], "n": 5}
       ],
       "given": ["(Not) Wait", "To be"],
-      "vi": "Ngày mai, vào giờ này anh ấy sẽ không đợi ở đây à?\nÐúng, anh ấy sẽ đợi.",
+      "vi": "Ngày mai, vào giờ này anh ấy sẽ không đợi ở đây à?\nĐúng, anh ấy sẽ đợi.",
       "expl": [{"head": "", "lines": [], "refs": [28]}],
       "refs": [28]
     },
@@ -8868,7 +8868,7 @@
         {"a": "they will", "alt": [], "n": 5}
       ],
       "given": ["(Not) Wait", "To be"],
-      "vi": "Ngày mai, vào giờ này họ sẽ không đợi ở đây à?\nÐúng, họ sẽ đợi.",
+      "vi": "Ngày mai, vào giờ này họ sẽ không đợi ở đây à?\nĐúng, họ sẽ đợi.",
       "expl": [{"head": "", "lines": [], "refs": [28]}],
       "refs": [28]
     }
@@ -9029,7 +9029,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, tôi sẽ đến trường trước 7 giờ à?\nÐúng, bạn sẽ đến trường.",
+      "vi": "Ngày mai, tôi sẽ đến trường trước 7 giờ à?\nĐúng, bạn sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9044,7 +9044,7 @@
         {"a": "I shall", "alt": [], "n": 5}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, bạn sẽ đến trường trước 7 giờ à?\nÐúng, tôi sẽ đến trường.",
+      "vi": "Ngày mai, bạn sẽ đến trường trước 7 giờ à?\nĐúng, tôi sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9074,7 +9074,7 @@
         {"a": "she will", "alt": [], "n": 6}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, cô ấy sẽ đến trường trước 7 giờ à?\nÐúng, cô ấy sẽ đến trường.",
+      "vi": "Ngày mai, cô ấy sẽ đến trường trước 7 giờ à?\nĐúng, cô ấy sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9089,7 +9089,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, chúng tôi sẽ đến trường trước 7 giờ à?\nÐúng, các anh sẽ đến trường.",
+      "vi": "Ngày mai, chúng tôi sẽ đến trường trước 7 giờ à?\nĐúng, các anh sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9119,7 +9119,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, tôi sẽ không đến trường trước 7 giờ à?\nÐúng, bạn sẽ đến trường.",
+      "vi": "Ngày mai, tôi sẽ không đến trường trước 7 giờ à?\nĐúng, bạn sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9134,7 +9134,7 @@
         {"a": "I shall", "alt": [], "n": 5}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, bạn sẽ không đến trường trước 7 giờ à?\nÐúng, tôi sẽ đến trường.",
+      "vi": "Ngày mai, bạn sẽ không đến trường trước 7 giờ à?\nĐúng, tôi sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9164,7 +9164,7 @@
         {"a": "she will", "alt": [], "n": 6}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, cô ấy sẽ không đến trường trước 7 giờ à?\nÐúng, cô ấy sẽ đến trường.",
+      "vi": "Ngày mai, cô ấy sẽ không đến trường trước 7 giờ à?\nĐúng, cô ấy sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9179,7 +9179,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, chúng tôi sẽ không đến trường trước 7 giờ à?\nÐúng, các anh sẽ đến trường.",
+      "vi": "Ngày mai, chúng tôi sẽ không đến trường trước 7 giờ à?\nĐúng, các anh sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [29]}],
       "refs": [29]
     },
@@ -9355,7 +9355,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, tôi sẽ đang đến trường trước 7 giờ à?\nÐúng, bạn sẽ đến trường.",
+      "vi": "Ngày mai, tôi sẽ đang đến trường trước 7 giờ à?\nĐúng, bạn sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -9370,7 +9370,7 @@
         {"a": "I shall", "alt": [], "n": 5}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, bạn sẽ đang đến trường trước 7 giờ à?\nÐúng, tôi sẽ đến trường.",
+      "vi": "Ngày mai, bạn sẽ đang đến trường trước 7 giờ à?\nĐúng, tôi sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -9400,7 +9400,7 @@
         {"a": "she will", "alt": [], "n": 6}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, cô ấy sẽ đang đến trường trước 7 giờ à?\nÐúng, cô ấy sẽ đến trường.",
+      "vi": "Ngày mai, cô ấy sẽ đang đến trường trước 7 giờ à?\nĐúng, cô ấy sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -9415,7 +9415,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["Go", "To be"],
-      "vi": "Ngày mai, chúng tôi sẽ đang đến trường trước 7 giờ à?\nÐúng, các anh sẽ đến trường.",
+      "vi": "Ngày mai, chúng tôi sẽ đang đến trường trước 7 giờ à?\nĐúng, các anh sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -9445,7 +9445,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, tôi sẽ không đang đến trường trước 7 giờ à?\nÐúng, bạn sẽ đến trường.",
+      "vi": "Ngày mai, tôi sẽ không đang đến trường trước 7 giờ à?\nĐúng, bạn sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -9460,7 +9460,7 @@
         {"a": "I shall", "alt": [], "n": 5}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, bạn sẽ không đang đến trường trước 7 giờ à?\nÐúng, tôi sẽ đến trường.",
+      "vi": "Ngày mai, bạn sẽ không đang đến trường trước 7 giờ à?\nĐúng, tôi sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -9490,7 +9490,7 @@
         {"a": "she will", "alt": [], "n": 6}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, cô ấy sẽ không đang đến trường trước 7 giờ à?\nÐúng, cô ấy sẽ đến trường.",
+      "vi": "Ngày mai, cô ấy sẽ không đang đến trường trước 7 giờ à?\nĐúng, cô ấy sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -9505,7 +9505,7 @@
         {"a": "you will", "alt": [], "n": 5}
       ],
       "given": ["(Not) Go", "To be"],
-      "vi": "Ngày mai, chúng tôi sẽ không đang đến trường trước 7 giờ à?\nÐúng, các anh sẽ đến trường.",
+      "vi": "Ngày mai, chúng tôi sẽ không đang đến trường trước 7 giờ à?\nĐúng, các anh sẽ đến trường.",
       "expl": [{"head": "", "lines": [], "refs": [30]}],
       "refs": [30]
     },
@@ -10035,7 +10035,7 @@
       "text": "(He) {0} a pupil? Yes, he {1}.",
       "blanks": [{"a": "Is he", "alt": [], "n": 5}, {"a": "is", "alt": [], "n": 6}],
       "given": ["To be", "To be"],
-      "vi": "Anh ấy là một học sinh à?\nÐúng, anh ấy là học sinh.",
+      "vi": "Anh ấy là một học sinh à?\nĐúng, anh ấy là học sinh.",
       "expl": [{"head": "", "lines": [], "refs": [34]}],
       "refs": [34]
     },
@@ -10057,7 +10057,7 @@
       "text": "(It) {0} a book? Yes, it {1}.",
       "blanks": [{"a": "Is it", "alt": [], "n": 5}, {"a": "is", "alt": [], "n": 6}],
       "given": ["To be", "To be"],
-      "vi": "Nó là một quyển sách à?\nÐúng, nó là quyển sách.",
+      "vi": "Nó là một quyển sách à?\nĐúng, nó là quyển sách.",
       "expl": [{"head": "", "lines": [], "refs": [34]}],
       "refs": [34]
     },
@@ -10110,7 +10110,7 @@
       "g": "30",
       "kind": "scramble",
       "text": "You were absent last friday, weren't you?\nYou aren't a pupil, are you?\nYou can't swim, can you?\nHe will go to school tomorrow, won't he?\nYou have never read that book, haven't you?\nYou have had that book, haven't you?\nYou have a book, don't you?\nYou have a book, haven't you?\nShe speaks English, doesn't she?\nShe spoke English last year, Didn't she?\nYou did your exercises yesterday, Didn't you?\nYou didn't do your exercises yesterday, Did you?\nShe doesn't go to school, does she?\nNothing has done, is it?\nSomebody phoned me, didn't they?\nWhat makes you fall off?\nWhat make you fall off?\nWhat is burning in the kitchen?\nWhat caused the explosion?\nWhat happened yesterday?\nWho beat you yesterday?\nWho left the door open?\nWhich boy told you that story?\nWhich horse won?\nWhose book is on the table?\nWhat do you say?\nWhat kind would you like?\nWhat did he eat yesterday?\nWhose book did you borrow from?\nWhom did you speak yesterday?\nWho did you speak yesterday?\nWhere do you go?\nWhen does she go to school?\nWhy doesn't he go to school?\nHow did you do it?",
-      "vi": "_Bạn vắng mặt hôm thứ sáu, không phải à?_Bạn không phải là một học sinh, đúng không?_Bạn không bơi được, đúng không?_Ngày mai, anh ấy sẽ đến trường, không phải à?_Bạn không bao giờ đọc quyển sách đó, không phải à?_Bạn vừa có quyển sách đó, không phải à?_Bạn có một quyển sách, phải không?_Bạn có một quyển sách, phải không?_Cô ấy nói tiếng Anh, phải không?_Năm ngoái, cô ấy nói tiếng Anh, phải không?_Hôm qua bạn đã làm bài tập, phải không?_Hôm qua bạn đã không làm bài tập, phải không?_Cô ấy không đến trường, phải không?_Chẳng có cái gì xảy ra cả, phải không?_Ai đó đã gọi điện thoại cho tôi, phải không?_Cái gì làm anh ngã?_Những Cái gì làm anh ngã?_Cái gì đang cháy khét trong bếp?_Cái gì đã gây ra vụ nổ?_Hôm qua, cái gì đã xảy ra?_Ai đã đánh anh hôm qua?_Ai đã để cửa mở?_Ðứa nào đã kể cho mày chuyện đó?_Con ngựa nào đã thắng?_Quyển sách của ai để trên bàn?_Bạn nói gì?_Anh thích loại gì?_Hôm qua, nó đã ăn gì?_Anh đã mượn sách của ai?_Anh đã nói với ai, hôm qua?_Anh đã nói với ai, hôm qua?_Bạn đi đâu?_Khi nào cô ấy đến trường?_Tại sao anh ấy không đến trường?_Bạn đã làm việc đó như thế nào?",
+      "vi": "_Bạn vắng mặt hôm thứ sáu, không phải à?_Bạn không phải là một học sinh, đúng không?_Bạn không bơi được, đúng không?_Ngày mai, anh ấy sẽ đến trường, không phải à?_Bạn không bao giờ đọc quyển sách đó, không phải à?_Bạn vừa có quyển sách đó, không phải à?_Bạn có một quyển sách, phải không?_Bạn có một quyển sách, phải không?_Cô ấy nói tiếng Anh, phải không?_Năm ngoái, cô ấy nói tiếng Anh, phải không?_Hôm qua bạn đã làm bài tập, phải không?_Hôm qua bạn đã không làm bài tập, phải không?_Cô ấy không đến trường, phải không?_Chẳng có cái gì xảy ra cả, phải không?_Ai đó đã gọi điện thoại cho tôi, phải không?_Cái gì làm anh ngã?_Những Cái gì làm anh ngã?_Cái gì đang cháy khét trong bếp?_Cái gì đã gây ra vụ nổ?_Hôm qua, cái gì đã xảy ra?_Ai đã đánh anh hôm qua?_Ai đã để cửa mở?_Đứa nào đã kể cho mày chuyện đó?_Con ngựa nào đã thắng?_Quyển sách của ai để trên bàn?_Bạn nói gì?_Anh thích loại gì?_Hôm qua, nó đã ăn gì?_Anh đã mượn sách của ai?_Anh đã nói với ai, hôm qua?_Anh đã nói với ai, hôm qua?_Bạn đi đâu?_Khi nào cô ấy đến trường?_Tại sao anh ấy không đến trường?_Bạn đã làm việc đó như thế nào?",
       "refs": [34]
     }
   ],
@@ -10140,7 +10140,7 @@
       "g": "30",
       "kind": "scramble",
       "text": "Go away!\nClose the door.\nPlease turn off the light.\nLeave the room.\nBring me the lamp.\nBe quiet!\nDon't write!\nDon't work!\nDon't close the door.\nPlease don't turn off the light.\nDon't open the door.\nNever write!\nNever work!\nNever close the door.\nDon't be quiet!\nDon't be silly.\nDon't be impolite.\nDon't be so sad.\nDo let's go!\nDo come in!\nDo be quiet!\nDo do so!\nLet me see!\nLet him go!\nLet us go!\nLet's go!\nLet him not go!\nLet's not go!\nLet them not smoke!",
-      "vi": "_Cút đi!_Ðóng cửa lại!_Xin tắt đèn!_Cút ra khỏi phòng!_Ðưa cho tôi cái đèn._Yên lặng!_Ðừng viết!_Ðừng làm việc!_Ðừng đóng cửa!_Xin đừng tắt đèn!_Ðừng mở cửa!_Ðừng bao giờ viết!_Ðừng bao giờ làm việc!_Ðừng bao giờ đóng cửa!_Ðừng yên lặng!_Ðừng ngớ ngẩn!_Ðừng vô lễ!_Ðừng quá buồn!_Chúng ta cứ đi đi!_Cứ vào đi!_Cứ làm thinh!_Cứ làm như thế!_Ðể tôi xem._Ðể anh ấy đi._Chúng ta hãy đi._Chúng ta hãy đi._Ðừng để anh ấy đi._Chúng ta đừng đi._Ðừng để chúng hút thuốc!",
+      "vi": "_Cút đi!_Đóng cửa lại!_Xin tắt đèn!_Cút ra khỏi phòng!_Đưa cho tôi cái đèn._Yên lặng!_Đừng viết!_Đừng làm việc!_Đừng đóng cửa!_Xin đừng tắt đèn!_Đừng mở cửa!_Đừng bao giờ viết!_Đừng bao giờ làm việc!_Đừng bao giờ đóng cửa!_Đừng yên lặng!_Đừng ngớ ngẩn!_Đừng vô lễ!_Đừng quá buồn!_Chúng ta cứ đi đi!_Cứ vào đi!_Cứ làm thinh!_Cứ làm như thế!_Để tôi xem._Để anh ấy đi._Chúng ta hãy đi._Chúng ta hãy đi._Đừng để anh ấy đi._Chúng ta đừng đi._Đừng để chúng hút thuốc!",
       "refs": [38]
     }
   ],
@@ -10150,7 +10150,7 @@
       "g": "30",
       "kind": "scramble",
       "text": "I'm not sure when he has come.\nHe told his wife that it was already seven o'clock.\nWhat you are doing seems very difficult.\nShe wants to know where you were last night.\nThis is what I experted.\nMr Brown, who stands at the door, is my teacher.\nWhen it rains, I usually go to the office by bus.\nI read the book while I was in hospital.\nSince you won't help me, I must do the job myself.\nYou can have the book on condition that you keep it clean.\nHe acted as if he was crazy.\nI will go where you want.\nPeople eat so that they may live.\nHe runs so quickly that I couldn't catch him.\nHe went out in spite the fact that he had a bad cold.\nThis work is not so easy as you think.",
-      "vi": "_Tôi không chắc, khi nào anh ấy đến._Anh ấy bảo với vợ rằng đã 7 giờ rồi._Những gì bạn đang làm, hình như rất khó._Cô ta muốn biết, tối hôm qua anh ở đâu._Ðây là những gì tôi mong đợi._Ông Brown, người đang đứng ở cửa, là thầy tôi._Khi trời mưa, tôi thường đi làm bằng xe buýt._Tôi đọc sách này trong khi tôi nằm viện._Vì anh không giúp tôi, nên tôi phải tự làm công việc._Anh có thể mượn sách này, với điều kiện là anh giữ nó sạch._Nó hành động như thể là nó điên._Tôi sẽ đi bất cứ nơi nào anh muốn._Người ta ăn để sống._Hắn chạy nhanh đến nỗi tôi không thể bắt kịp._Nó cứ ra ngoài mặc dù nó bị cảm nặng._Công việc không dễ như anh nghĩ.",
+      "vi": "_Tôi không chắc, khi nào anh ấy đến._Anh ấy bảo với vợ rằng đã 7 giờ rồi._Những gì bạn đang làm, hình như rất khó._Cô ta muốn biết, tối hôm qua anh ở đâu._Đây là những gì tôi mong đợi._Ông Brown, người đang đứng ở cửa, là thầy tôi._Khi trời mưa, tôi thường đi làm bằng xe buýt._Tôi đọc sách này trong khi tôi nằm viện._Vì anh không giúp tôi, nên tôi phải tự làm công việc._Anh có thể mượn sách này, với điều kiện là anh giữ nó sạch._Nó hành động như thể là nó điên._Tôi sẽ đi bất cứ nơi nào anh muốn._Người ta ăn để sống._Hắn chạy nhanh đến nỗi tôi không thể bắt kịp._Nó cứ ra ngoài mặc dù nó bị cảm nặng._Công việc không dễ như anh nghĩ.",
       "refs": [40]
     }
   ],
@@ -11110,7 +11110,7 @@
       "g": "30",
       "kind": "scramble",
       "text": "God save the Queen.\nPeace be with you.\nWe recommend that he go with us.\nI demand that I be allowed to be free now.\nOur proposal is that he be elected leader.\nHis suggestion is that she go on foot.\nIt is necessary that he work hard.\nIt is necessary that he should work hard.\nIt is important that he work hard.\nIt is imperative that he keep off the grass.\nI wish I knew English well.\nHe looks as if he were a millionaire.\nI wish I had given some money to him yesterday.\nIf only I had met her before she got married.\nHe looks as if he is rich.\nHe looks as if he were rich.\nIf only we can come in time.",
-      "vi": "_Cầu mong thượng đế ban phước cho nữ hoàng._Cầu mong bạn được bình yên._Chúng tôi đề nghị là anh ta phải đi với chúng tôi._Tôi yêu cầu là tôi phải được trả tự do ngay._Ðề nghị của chúng tôi là ông ta phải được bầu làm lãnh tụ._Ðề nghị của anh ta là cô ấy nên đi bộ._Ðiều cần thiết là anh ấy phải học tập chăm chỉ._Ðiều cần thiết là anh ấy phải học tập chăm chỉ._Ðiều quan trọng là anh ấy phải học tập chăm chỉ._Người ta nhấn mạnh rằng nó không được đi lên cỏ._ước gì tôi giỏi tiếng Anh._Anh ấy trông như thể là nhà triệu phú!_ước gì hôm qua tôi đã cho anh ta tiền._Giá mà tôi gặp nàng trước khi nàng lấy chồng._Anh ấy trông dường như là giàu có._Anh ấy làm ra vẻ giàu có._ước gì chúng ta có thể đến kịp.",
+      "vi": "_Cầu mong thượng đế ban phước cho nữ hoàng._Cầu mong bạn được bình yên._Chúng tôi đề nghị là anh ta phải đi với chúng tôi._Tôi yêu cầu là tôi phải được trả tự do ngay._Đề nghị của chúng tôi là ông ta phải được bầu làm lãnh tụ._Đề nghị của anh ta là cô ấy nên đi bộ._Điều cần thiết là anh ấy phải học tập chăm chỉ._Điều cần thiết là anh ấy phải học tập chăm chỉ._Điều quan trọng là anh ấy phải học tập chăm chỉ._Người ta nhấn mạnh rằng nó không được đi lên cỏ._ước gì tôi giỏi tiếng Anh._Anh ấy trông như thể là nhà triệu phú!_ước gì hôm qua tôi đã cho anh ta tiền._Giá mà tôi gặp nàng trước khi nàng lấy chồng._Anh ấy trông dường như là giàu có._Anh ấy làm ra vẻ giàu có._ước gì chúng ta có thể đến kịp.",
       "refs": [44]
     }
   ],
@@ -11686,7 +11686,7 @@
       "text": "Which boy can answer this question? {0}?",
       "blanks": [{"a": "By which boy can this question be answered", "alt": [], "n": 8}],
       "given": ["PASSIVE VOICE"],
-      "vi": "Ðứa trẻ nào có thể trả lời câu hỏi này?\nBởi đứa trẻ nào mà câu hỏi này được trả lời?",
+      "vi": "Đứa trẻ nào có thể trả lời câu hỏi này?\nBởi đứa trẻ nào mà câu hỏi này được trả lời?",
       "expl": [{"head": "", "lines": [], "refs": [47, 49]}],
       "refs": [47, 49]
     },
@@ -12491,7 +12491,7 @@
       "kind": "scramble",
       "text": "Ba is as much fed as Tu.\nBa is not as much fed as Tu.\nThis baby is as much devoted as that one.\nThis baby is not as much devoted as that one.\nLan is as fat as Hong.\nLan is not as fat as Hong.\nLan is so fat as Hong.\nLan is not as beautiful as Hong.\nAre girls not as intelligent as boys?\nIs my father not as tall as my mother?\nIs French not as difficult as English?\nNam has the same address as Lan.\nThe high school is in the same building as the elementary school.\nHe came at the same time as I.\nA and B are alike.\nA and B are similar.\nA and B are different.\nMy car and yours are alike.\nA is like B.\nA is similar to B.\nA is different from B.\nMy car is like yours.\nMy car is similar to yours.\nHe is the same age as I.\nHe gave the same answer as before.\nWe are in the same class.\nI think the same of him.",
       "tt": 12,
-      "vi": "_Ba được nuôi như Tư._Ba không được nuôi như Tư._Ðứa bé này được chăm sóc nhiều như bé kia._Ðứa bé này không được chăm sóc nhiều như bé kia._Lan mập bằng Hồng._Lan không mập bằng Hồng._Lan mập như Hồng._Lan không đẹp bằng Hồng._Nữ sinh không thông minh bằng nam sinh sao?_Ba tôi không cao bằng má tôi sao?_Tiếng Pháp không khó bằng tiếng Anh hả?_Nam có cùng một địa chỉ như Lan._Trường trung học cũng có tòa nhà giống như trường tiểu học._Anh ấy đến cùng lúc như tôi._A và B giống nhau._A và B giống nhau._A và B khác nhau._Xe của tôi và của bạn giống nhau._A và B giống nhau._A và B giống nhau._A và B khác nhau._Xe tôi giống xe bạn._Xe tôi giống xe bạn._Anh ấy cùng tuổi với tôi._Anh ấy vẫn trả lời như trước._Chúng tôi học cùng lớp._Tôi cũng nghĩ về anh ta như thế.",
+      "vi": "_Ba được nuôi như Tư._Ba không được nuôi như Tư._Đứa bé này được chăm sóc nhiều như bé kia._Đứa bé này không được chăm sóc nhiều như bé kia._Lan mập bằng Hồng._Lan không mập bằng Hồng._Lan mập như Hồng._Lan không đẹp bằng Hồng._Nữ sinh không thông minh bằng nam sinh sao?_Ba tôi không cao bằng má tôi sao?_Tiếng Pháp không khó bằng tiếng Anh hả?_Nam có cùng một địa chỉ như Lan._Trường trung học cũng có tòa nhà giống như trường tiểu học._Anh ấy đến cùng lúc như tôi._A và B giống nhau._A và B giống nhau._A và B khác nhau._Xe của tôi và của bạn giống nhau._A và B giống nhau._A và B giống nhau._A và B khác nhau._Xe tôi giống xe bạn._Xe tôi giống xe bạn._Anh ấy cùng tuổi với tôi._Anh ấy vẫn trả lời như trước._Chúng tôi học cùng lớp._Tôi cũng nghĩ về anh ta như thế.",
       "refs": [62]
     }
   ],
@@ -12513,7 +12513,7 @@
       "kind": "scramble",
       "text": "Ba is not as much fed as Tu.\nThis baby is never as much devoted as that one.\nLan is not as fat as Hong.\nCoffee is not as much as tea.\nLan is less beautiful than Hong.\nThis play is less interesting than that concert.",
       "tt": 12,
-      "vi": "_Ba không được nuôi như Tư._Ðứa bé này không bao giờ được chăm sóc nhiều như đứa bé kia._Lan ít mập bằng Hồng._Cà phê ít hơn trà._Lan ít đẹp bằng Hồng._Vở kịch này ít thú vị hơn buổi hòa nhạc kia.",
+      "vi": "_Ba không được nuôi như Tư._Đứa bé này không bao giờ được chăm sóc nhiều như đứa bé kia._Lan ít mập bằng Hồng._Cà phê ít hơn trà._Lan ít đẹp bằng Hồng._Vở kịch này ít thú vị hơn buổi hòa nhạc kia.",
       "refs": [64]
     }
   ],
@@ -12524,7 +12524,7 @@
       "kind": "scramble",
       "text": "Lan is the fattest among her friends.\nShe is the most beautiful in her friends.\nThis dog is the most fed.\nMaths is the most difficult.\nPhysics is the worst subject.\nThis is the oldest church in the city of York.\nHenry is my eldest brother.\nWilliam is the oldest in my friends.",
       "tt": 12,
-      "vi": "_Lan là người mập nhất trong đám bạn của Lan._Cô ấy đẹp nhất trong đám bạn cô ta._Con chó này là con được nuôi tốt nhất._Toán là khó nhất._Vật lý là môn tệ nhất._Ðây là nhà thờ cổ nhất thành phố York._Henry là người anh lớn nhất của tôi._William là người lớn tuổi nhất trong đám bạn của tôi.",
+      "vi": "_Lan là người mập nhất trong đám bạn của Lan._Cô ấy đẹp nhất trong đám bạn cô ta._Con chó này là con được nuôi tốt nhất._Toán là khó nhất._Vật lý là môn tệ nhất._Đây là nhà thờ cổ nhất thành phố York._Henry là người anh lớn nhất của tôi._William là người lớn tuổi nhất trong đám bạn của tôi.",
       "refs": [65]
     }
   ],
@@ -12546,7 +12546,7 @@
       "kind": "scramble",
       "text": "The taller she gets, the thinner she is.\nThe more beautiful she is, the more intelligent she gets.\nThe more I know her, the more I hate her.\nThe more, the merrier.\nThe more we get together, the merrier we will be.\nThe lazier he is, the more he eats.\nThe less difficult the lesson are, the less diligent the student are.\nThe less the boy cuts school, the less his mother curses him!\nThe less diligent the worker is the less he gets money.",
       "tt": 12,
-      "vi": "_Cô ấy càng cao thì càng gầy._Cô ấy càng đẹp thì càng thông minh._Càng biết cô ấy, tôi càng ghét cô ấy._Càng đông càng vui._Chúng ta càng tụ tập chúng ta sẽ càng vui._Anh ấy càng lười thì càng ăn nhiều._Bài học càng ít khó thì học sinh càng ít thông minh._Ðứa trẻ càng ít trốn học thì bà mẹ càng ít la mắng nó!_Người thợ càng ít thông minh thì càng ít lương.",
+      "vi": "_Cô ấy càng cao thì càng gầy._Cô ấy càng đẹp thì càng thông minh._Càng biết cô ấy, tôi càng ghét cô ấy._Càng đông càng vui._Chúng ta càng tụ tập chúng ta sẽ càng vui._Anh ấy càng lười thì càng ăn nhiều._Bài học càng ít khó thì học sinh càng ít thông minh._Đứa trẻ càng ít trốn học thì bà mẹ càng ít la mắng nó!_Người thợ càng ít thông minh thì càng ít lương.",
       "refs": [68]
     }
   ],
@@ -12557,7 +12557,7 @@
       "kind": "scramble",
       "text": "He seems to have left his hat in the reception room last night.\nHaving finished our work, we were free to go home.\nHaving seen my mother, I felt much relieved.\nI am happy to meet you again.\nLooking out of the window, we saw the doctor approaching.",
       "tt": 12,
-      "vi": "_Hình như anh ấy đã bỏ quên nón trong phòng tiếp khách tối qua._Vừa xong công việc, chúng tôi rảnh rỗi về nhà._Sau khi gặp mẹ, tôi thấy rất an tâm._Tôi vui khi gặp lại bạn lần nữa._Ðang nhìn ra ngoài cửa sổ, tôi thấy bác sĩ đến.",
+      "vi": "_Hình như anh ấy đã bỏ quên nón trong phòng tiếp khách tối qua._Vừa xong công việc, chúng tôi rảnh rỗi về nhà._Sau khi gặp mẹ, tôi thấy rất an tâm._Tôi vui khi gặp lại bạn lần nữa._Đang nhìn ra ngoài cửa sổ, tôi thấy bác sĩ đến.",
       "refs": [71]
     }
   ],
@@ -17375,7 +17375,7 @@
       "kind": "scramble",
       "text": "The man who told me this refused to give me his name.\nPeter, who had been driving all day, suggested stopping at the next town.\nEveryone who knew him liked him.\nEveryone that knew him liked him.\nThis is the picture which caused such a sensation.\nThis is the picture that caused such a sensation.\nThe man that I saw told me to come back today.\nThe man who I saw told me to come back today.\nThe man whom I saw told me to come back today.\nThe man who I spoke to is my father.\nThe man whom I spoke to is my father.\nThe man that I spoke to is my father.\nThe man to whom I spoke is my father.\nThe ladder that I was standing on began to slip.\nThe ladder on which I was standing began to slip.\nThe film is about a spy whose wife betrays him.\nA house whose walls were made of glass is mine.\nA house with glass walls is mine.\nI've invited Mary, who lives in the next flat.\nPeter, whom everyone suspected, turned out to be innocent.\nMr Jones, for whom I was working, was very generous about overtime payments.\nMary, whose children are at school all day, is trying to get a job.\nA house whose windows were all broken, was a depressing sight.",
       "tt": 27,
-      "vi": "_Người đàn ông (người đã kể cho tôi nghe điều này) đã từ chối cho tôi biết tên._Peter, (người đã lái xe suốt ngày), đề nghị nghỉ chân ở thị trấn kế._Mọi người (người được biết anh ấy) đều mến anh ấy._Mọi người (người được biết anh ấy) đều mến anh ấy._Ðây là bức tranh, bức tranh đã gây ra cảm xúc như thế._Ðây là bức tranh, bức tranh đã gây ra cảm xúc như thế._Người đàn ông (người mà tôi đã gặp) đã khuyên tôi trở lại._Người đàn ông (người mà tôi đã gặp) đã khuyên tôi trở lại._Người đàn ông (người mà tôi đã gặp) đã khuyên tôi trở lại._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Cái thang (mà tôi đang đứng trên đó) bắt đầu trượt._Cái thang (mà tôi đang đứng trên đó) bắt đầu trượt._Bộ phim nói về tên gián điệp, cái gã mà vợ của hắn tố cáo hắn._Căn nhà mà những tường của nó làm bằng kính, là của tôi._Căn nhà có tường kính, là của tôi._Tôi vừa mời Mary, người sống kế căn hộ tôi._Peter, người bị tình nghi, đã vô tội._Anh Jones, (người mà tôi đang làm việc cho anh ta) là người trả tiền làm thêm rất rộng lượng._Bà Mary, (người có con đi học suốt ngày), đang cố gắng xin việc._Ngôi nhà (mà cửa sổ của nó bị bể) là dấu hiệu mất giá.",
+      "vi": "_Người đàn ông (người đã kể cho tôi nghe điều này) đã từ chối cho tôi biết tên._Peter, (người đã lái xe suốt ngày), đề nghị nghỉ chân ở thị trấn kế._Mọi người (người được biết anh ấy) đều mến anh ấy._Mọi người (người được biết anh ấy) đều mến anh ấy._Đây là bức tranh, bức tranh đã gây ra cảm xúc như thế._Đây là bức tranh, bức tranh đã gây ra cảm xúc như thế._Người đàn ông (người mà tôi đã gặp) đã khuyên tôi trở lại._Người đàn ông (người mà tôi đã gặp) đã khuyên tôi trở lại._Người đàn ông (người mà tôi đã gặp) đã khuyên tôi trở lại._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Người đàn ông (người mà tôi đã nói chuyện với ông ta) là cha tôi._Cái thang (mà tôi đang đứng trên đó) bắt đầu trượt._Cái thang (mà tôi đang đứng trên đó) bắt đầu trượt._Bộ phim nói về tên gián điệp, cái gã mà vợ của hắn tố cáo hắn._Căn nhà mà những tường của nó làm bằng kính, là của tôi._Căn nhà có tường kính, là của tôi._Tôi vừa mời Mary, người sống kế căn hộ tôi._Peter, người bị tình nghi, đã vô tội._Anh Jones, (người mà tôi đang làm việc cho anh ta) là người trả tiền làm thêm rất rộng lượng._Bà Mary, (người có con đi học suốt ngày), đang cố gắng xin việc._Ngôi nhà (mà cửa sổ của nó bị bể) là dấu hiệu mất giá.",
       "refs": [134]
     }
   ],
@@ -22005,10 +22005,10 @@
       "text": "Ten pound {0} as much as I can give you.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Cho anh mười Ðô thì quá nhiều.",
+      "vi": "Cho anh mười Đô thì quá nhiều.",
       "expl": [
         {
-          "head": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Ðộng từ số ít>.",
+          "head": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Động từ số ít>.",
           "lines": [],
           "refs": [150, 151, 152]
         }
@@ -22022,7 +22022,7 @@
       "text": "Four months {0} a long time to wait.",
       "blanks": [{"a": "is", "alt": [], "n": 9}],
       "given": ["are\\is"],
-      "vi": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Ðộng từ số ít>.",
+      "vi": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Động từ số ít>.",
       "expl": [{"head": "", "lines": [], "refs": [150, 151, 152]}],
       "refs": [150, 151, 152]
     },
@@ -22039,7 +22039,7 @@
           "head": "-<With his son> chỉ là Adjective Phrase bổ nghĩa cho danh từ <Mr Green> nên động từ phụ thuộc vào chủ từ <Mr Green>.",
           "lines": [
             "With, Along with, together... with, as well as, accompanied by",
-            "Ðộng từ tính theo chủ từ ở đầu."
+            "Động từ tính theo chủ từ ở đầu."
           ],
           "refs": [150, 151, 152]
         }
@@ -22057,7 +22057,7 @@
       "expl": [
         {
           "head": "With, Along with, together... with,as well as,accompanied by",
-          "lines": ["Ðộng từ tính theo chủ từ ở đầu."],
+          "lines": ["Động từ tính theo chủ từ ở đầu."],
           "refs": [150, 151, 152]
         }
       ],
@@ -22076,7 +22076,7 @@
           "head": "-<together teacher with the final exams> là Adjective Phrase bổ nghĩa cho danh từ <This report> nên động từ phụ thuộc vào chủ từ <This report>.",
           "lines": [
             "With, Along with, together... with,as well as,accompanied by",
-            "Ðộng từ tính theo chủ từ ở đầu."
+            "Động từ tính theo chủ từ ở đầu."
           ],
           "refs": [150, 151, 152]
         }
@@ -22481,7 +22481,7 @@
       "text": "Here {0} some money, go and buy some meat.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Ðây, cầm lấy ít tiền và đi mua thịt.",
+      "vi": "Đây, cầm lấy ít tiền và đi mua thịt.",
       "expl": [
         {
           "head": "Những từ như... Linen, furniture, machinery, money, garbage, luggage... dùng với động từ số ít.",
@@ -22566,7 +22566,7 @@
       "text": "The flock of birds {0} circling overhead.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Ðàn chim đang bay lượn trên cao.",
+      "vi": "Đàn chim đang bay lượn trên cao.",
       "expl": [
         {
           "head": "Những từ biểu thị một nhóm người hay vật thường dùng với động từ số ít.",
@@ -22583,7 +22583,7 @@
       "text": "The crowd {0} wild with excitement.",
       "blanks": [{"a": "was", "alt": [], "n": 8}],
       "given": ["were\\was"],
-      "vi": "Ðám đông đang phấn khích.",
+      "vi": "Đám đông đang phấn khích.",
       "expl": [
         {
           "head": "Những từ biểu thị một nhóm người hay vật thường dùng với động từ số ít.",
@@ -22617,7 +22617,7 @@
       "text": "Twenty-five dollars {0} too much to pay for that shirt.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "25 Ðô là quá mắc với chiếc áo đó.",
+      "vi": "25 Đô là quá mắc với chiếc áo đó.",
       "expl": [
         {
           "head": "Những cụm danh từ nào diễn tả: một số lượng, một khoảng cách, một khoảng thời gian... dùng với động từ số ít.",
@@ -22911,10 +22911,10 @@
       "text": "Ten pound {0} as much as I can give you.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Cho anh mười Ðô thì quá nhiều.",
+      "vi": "Cho anh mười Đô thì quá nhiều.",
       "expl": [
         {
-          "head": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Ðộng từ số ít>.",
+          "head": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Động từ số ít>.",
           "lines": [],
           "refs": [150, 151, 152]
         }
@@ -22928,7 +22928,7 @@
       "text": "Four months {0} a long time to wait.",
       "blanks": [{"a": "is", "alt": [], "n": 9}],
       "given": ["are\\is"],
-      "vi": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Ðộng từ số ít>.",
+      "vi": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Động từ số ít>.",
       "expl": [{"head": "", "lines": [], "refs": [150, 151, 152]}],
       "refs": [150, 151, 152]
     },
@@ -22945,7 +22945,7 @@
           "head": "-<With his son> chỉ là Adjective Phrase bổ nghĩa cho danh từ <Mr Green> nên động từ phụ thuộc vào chủ từ <Mr Green>.",
           "lines": [
             "With, Along with, together... with,as well as,accompanied by",
-            "Ðộng từ tính theo chủ từ ở đầu."
+            "Động từ tính theo chủ từ ở đầu."
           ],
           "refs": [150, 151, 152]
         }
@@ -22963,7 +22963,7 @@
       "expl": [
         {
           "head": "With, Along with, together... with,as well as,accompanied by",
-          "lines": ["Ðộng từ tính theo chủ từ ở đầu."],
+          "lines": ["Động từ tính theo chủ từ ở đầu."],
           "refs": [150, 151, 152]
         }
       ],
@@ -22982,7 +22982,7 @@
           "head": "-<together teacher with the final exams> là Adjective Phrase bổ nghĩa cho danh từ <This report> nên động từ phụ thuộc vào chủ từ <This report>.",
           "lines": [
             "With, Along with, together... with,as well as,accompanied by",
-            "Ðộng từ tính theo chủ từ ở đầu."
+            "Động từ tính theo chủ từ ở đầu."
           ],
           "refs": [150, 151, 152]
         }
@@ -23387,7 +23387,7 @@
       "text": "Here {0} some money, go and buy some meat.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Ðây, cầm lấy ít tiền và đi mua thịt.",
+      "vi": "Đây, cầm lấy ít tiền và đi mua thịt.",
       "expl": [
         {
           "head": "Những từ như... Linen, furniture, machinery, money, garbage, luggage... dùng với động từ số ít.",
@@ -23472,7 +23472,7 @@
       "text": "The flock of birds {0} circling overhead.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Ðàn chim đang bay lượn trên cao.",
+      "vi": "Đàn chim đang bay lượn trên cao.",
       "expl": [
         {
           "head": "Những từ biểu thị một nhóm người hay vật thường dùng với động từ số ít.",
@@ -23489,7 +23489,7 @@
       "text": "The crowd {0} wild with excitement.",
       "blanks": [{"a": "was", "alt": [], "n": 8}],
       "given": ["were\\was"],
-      "vi": "Ðám đông đang phấn khích.",
+      "vi": "Đám đông đang phấn khích.",
       "expl": [
         {
           "head": "Những từ biểu thị một nhóm người hay vật thường dùng với động từ số ít.",
@@ -23523,7 +23523,7 @@
       "text": "Twenty-five dollars {0} too much to pay for that shirt.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "25 Ðô là quá mắc với chiếc áo đó.",
+      "vi": "25 Đô là quá mắc với chiếc áo đó.",
       "expl": [
         {
           "head": "Những cụm danh từ nào diễn tả: một số lượng, một khoảng cách, một khoảng thời gian... dùng với động từ số ít.",
@@ -23817,10 +23817,10 @@
       "text": "Ten pound {0} as much as I can give you.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Cho anh mười Ðô thì quá nhiều.",
+      "vi": "Cho anh mười Đô thì quá nhiều.",
       "expl": [
         {
-          "head": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Ðộng từ số ít>.",
+          "head": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Động từ số ít>.",
           "lines": [],
           "refs": [150, 151, 152]
         }
@@ -23834,7 +23834,7 @@
       "text": "Four months {0} a long time to wait.",
       "blanks": [{"a": "is", "alt": [], "n": 9}],
       "given": ["are\\is"],
-      "vi": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Ðộng từ số ít>.",
+      "vi": "Những cụm danh từ nào diễn tả: Một số lượng, một khoảng cách, một khoảng thời gian thì + <Động từ số ít>.",
       "expl": [{"head": "", "lines": [], "refs": [150, 151, 152]}],
       "refs": [150, 151, 152]
     },
@@ -23851,7 +23851,7 @@
           "head": "-<With his son> chỉ là Adjective Phrase bổ nghĩa cho danh từ <Mr Green> nên động từ phụ thuộc vào chủ từ <Mr Green>.",
           "lines": [
             "With, Along with, together... with,as well as,accompanied by",
-            "Ðộng từ tính theo chủ từ ở đầu."
+            "Động từ tính theo chủ từ ở đầu."
           ],
           "refs": [150, 151, 152]
         }
@@ -23869,7 +23869,7 @@
       "expl": [
         {
           "head": "With, Along with, together... with,as well as,accompanied by",
-          "lines": ["Ðộng từ tính theo chủ từ ở đầu."],
+          "lines": ["Động từ tính theo chủ từ ở đầu."],
           "refs": [150, 151, 152]
         }
       ],
@@ -23888,7 +23888,7 @@
           "head": "-<together teacher with the final exams> là Adjective Phrase bổ nghĩa cho danh từ <This report> nên động từ phụ thuộc vào chủ từ <This report>.",
           "lines": [
             "With, Along with, together... with,as well as,accompanied by",
-            "Ðộng từ tính theo chủ từ ở đầu."
+            "Động từ tính theo chủ từ ở đầu."
           ],
           "refs": [150, 151, 152]
         }
@@ -24293,7 +24293,7 @@
       "text": "Here {0} some money, go and buy some meat.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Ðây, cầm lấy ít tiền và đi mua thịt.",
+      "vi": "Đây, cầm lấy ít tiền và đi mua thịt.",
       "expl": [
         {
           "head": "Những từ như... Linen, furniture, machinery, money, garbage, luggage... dùng với động từ số ít.",
@@ -24378,7 +24378,7 @@
       "text": "The flock of birds {0} circling overhead.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "Ðàn chim đang bay lượn trên cao.",
+      "vi": "Đàn chim đang bay lượn trên cao.",
       "expl": [
         {
           "head": "Những từ biểu thị một nhóm người hay vật thường dùng với động từ số ít.",
@@ -24395,7 +24395,7 @@
       "text": "The crowd {0} wild with excitement.",
       "blanks": [{"a": "was", "alt": [], "n": 8}],
       "given": ["were\\was"],
-      "vi": "Ðám đông đang phấn khích.",
+      "vi": "Đám đông đang phấn khích.",
       "expl": [
         {
           "head": "Những từ biểu thị một nhóm người hay vật thường dùng với động từ số ít.",
@@ -24429,7 +24429,7 @@
       "text": "Twenty-five dollars {0} too much to pay for that shirt.",
       "blanks": [{"a": "is", "alt": [], "n": 7}],
       "given": ["are\\is"],
-      "vi": "25 Ðô là quá mắc với chiếc áo đó.",
+      "vi": "25 Đô là quá mắc với chiếc áo đó.",
       "expl": [
         {
           "head": "Những cụm danh từ nào diễn tả: một số lượng, một khoảng cách, một khoảng thời gian... dùng với động từ số ít.",
@@ -24602,7 +24602,7 @@
       "g": "30",
       "kind": "scramble",
       "text": "Swimming is a good exercise.\nI am accustomed to drinking tea.\nI like smoking cigarette.\nSwimming is a good exercise.\nI like reading.\nI think of going there.\nHe is surprised at seeing me.\nMy favorite sport, playing tennis, is very good to my health.\nWe here the sweet singing of birds.\nI don't like their coming here.\nThey don't remember his paying the money.\nI like reading.\nI like reading books.\nHe insisted on my coming early.\nFew students like studying hard.\nI begin to understand.\nShe intends to memorize your name.\nI love going to the theatre.\nI remember seeing it on the table.\nI should love to go with you.\nYou must remember to post this letter.\nI allow him to smoke.\nI advise you to go.\nI allow smoking.\nI advise going.\nMy hair needs cutting.\nIt needs to be cut.\nShe is busy cooking.\nThis book is worth reading.\nDo you mind waiting a moment?\nI don't mind waiting.\nI don't mind living here.\nI don't mind your living here.\nWould you mind moving your car?\nI go swimming.\nI go hunting.\nI go bathing.\nI go shopping.\nCome sailing with me, next saturday.\nI think of writing to her.",
-      "vi": "_Bơi là một môn rèn luyện tốt._Tôi quen với việc uống trà._Tôi thích hút thuốc lá._Bơi là một môn rèn luyện tốt._Tôi thích đọc sách._Tôi nghĩ tới việc đến đó._Nó ngạc nhiên khi thấy tôi._Môn thể thao tôi ưa thích nhất (môn quần vợt) thì rất tốt cho sức khỏe._Chúng tôi nghe tiếng hót dịu dàng của chim chóc._Tôi không thích chúng nó đến đây._Họ không nhớ ông ta đã trả tiền._Tôi thích đọc._Tôi thích đọc sách._Ông ấy năn nỉ tôi đến sớm._Rất ít sinh viên thích học chăm._Tôi bắt đầu hiểu._Cô ta có ý định nhớ tên anh._Tôi quen đi xem phim._Tôi nhớ đã thấy nó ở trên bàn._Tôi thích đi với bạn nếu được._Bạn phải nhớ là sẽ phải gửi lá thư này._Tôi cho phép hắn hút thuốc._Tôi khuyên anh nên đi._Tôi cho phép hút thuốc._Tôi khuyên nên đi._Tóc tôi cần cắt._Tóc tôi cần cắt._Cô ta bận nấu ăn._Sách này đáng đọc._Ông đợi một lúc có phiền không?_Tôi không phiền vì phải đợi._Tôi không phiền khi tôi ở đây._Tôi không phiền khi anh ở đây._Xin vui lòng rời xe đi cho._Tôi đi bơi._Tôi đi săn._Tôi đi tắm biển._Tôi đi mua sắm._Ði dong buồm với tôi vào thứ bảy tới nhé._Tôi nghĩ về việc viết thư cho cô ấy.",
+      "vi": "_Bơi là một môn rèn luyện tốt._Tôi quen với việc uống trà._Tôi thích hút thuốc lá._Bơi là một môn rèn luyện tốt._Tôi thích đọc sách._Tôi nghĩ tới việc đến đó._Nó ngạc nhiên khi thấy tôi._Môn thể thao tôi ưa thích nhất (môn quần vợt) thì rất tốt cho sức khỏe._Chúng tôi nghe tiếng hót dịu dàng của chim chóc._Tôi không thích chúng nó đến đây._Họ không nhớ ông ta đã trả tiền._Tôi thích đọc._Tôi thích đọc sách._Ông ấy năn nỉ tôi đến sớm._Rất ít sinh viên thích học chăm._Tôi bắt đầu hiểu._Cô ta có ý định nhớ tên anh._Tôi quen đi xem phim._Tôi nhớ đã thấy nó ở trên bàn._Tôi thích đi với bạn nếu được._Bạn phải nhớ là sẽ phải gửi lá thư này._Tôi cho phép hắn hút thuốc._Tôi khuyên anh nên đi._Tôi cho phép hút thuốc._Tôi khuyên nên đi._Tóc tôi cần cắt._Tóc tôi cần cắt._Cô ta bận nấu ăn._Sách này đáng đọc._Ông đợi một lúc có phiền không?_Tôi không phiền vì phải đợi._Tôi không phiền khi tôi ở đây._Tôi không phiền khi anh ở đây._Xin vui lòng rời xe đi cho._Tôi đi bơi._Tôi đi săn._Tôi đi tắm biển._Tôi đi mua sắm._Đi dong buồm với tôi vào thứ bảy tới nhé._Tôi nghĩ về việc viết thư cho cô ấy.",
       "refs": [153]
     }
   ],
@@ -24622,7 +24622,7 @@
       "g": "30",
       "kind": "scramble",
       "text": "I step on a truck.\nThe first two persons that I see are a driver and an aid.\nThe driver wears a uniform and the aid wears civies.\nThe former tells the latter to make room for me.\nThere are a lot of passengers too.\nMost of them are young women traders.\nThey sit on two benches.\nThere is only one little boy sitting on his mother's thigh.\nThe mother seems tired and sleepy.\nI am seated beside an ugly little old lady.\nHer dark thin hands and foot as well as her pale anxious face let me know that she's a poor laboured rustic.\nMy eyes turn to the left and look at some girls in front of me.\nThey spread a small square blue plastic sheet on the floor of the truck.\nThe sheet is ragged and dirty, but it must replace a dining table.\nEvery girl takes out her box of food from her handbag and set it on the sheet.\nThe food includes cooked rice covered with Chinese peas.\nThere isn't any, piece of meat.\nNo chopsticks and spoons, the girls pick the food up by their fingers, like the habit of Cambodians.\nAfter an hour and a half, the truck arrives at the terminal station.\nEverybody gets down.\nOne, two, three, four rented honda drivers dart towards me.\nOne of them grasps my hand tightly to drag me to his Honda.\nFrightened, anxious about losing my luggage, I try to leave there quickly.",
-      "vi": "_Tôi bước lên một xe tải._Hai người đầu tiên mà tôi nhìn thấy là một tài xế và một lơ xe._Tài xế mặc đồng phục và lơ xe mặc thường phục._Người tài xế bảo người lơ xe xếp chỗ cho tôi._Cũng có nhiều hành khách._Ða số họ là những người đàn bà trẻ đi buôn._Họ ngồi trên hai ghế dài._Chỉ có một bé trai ngồi trên đùi mẹ nó._Người mẹ dường như mệt mỏi và buồn ngủ._Tôi được xếp ngồi cạnh một bà lão người nhỏ và xấu xí._Tay chân bà đen thui gầy guộc cũng như bộ mặt xanh xao lo lắng của bà khiến tôi biết rằng bà là người nông dân lao động nghèo._Mắt tôi quay sang trái và nhìn thẳng vào vai cô gái ở phía trước tôi._Họ trải một tấm bạt ly lông nhỏ hình vuông màu xanh trên sàn xe tải._Tấm bạt rách rưới và bẩn thỉu, nhưng nó phải thay thế cho cái bàn ăn._Mỗi cô gái lấy hộp thực phẩm ra khỏi túi xách và đặt nó trên tấm bạt._Thực phẩm bao gồm cơm có đậu đũa bao phủ._Không có bất cứ miếng thịt nào._Không đũa và không muỗng, những cô gái bốc thức ăn lên bằng những ngón tay, giống như tập quán của người Campuchia._Sau một tiếng rưỡi đồng hồ xe tải đến bến đậu._Mỗi người đều bước xuống._Một, hai, ba, bốn người tài xế hon đa ôm lao về phía tôi._Một người nắm chặt tay tôi để kéo tôi về chiếc Honda của hắn._Sợ hãi, lo lắng về việc mất hành lý, tôi cố gắng rời khỏi nơi đó thật nhanh.",
+      "vi": "_Tôi bước lên một xe tải._Hai người đầu tiên mà tôi nhìn thấy là một tài xế và một lơ xe._Tài xế mặc đồng phục và lơ xe mặc thường phục._Người tài xế bảo người lơ xe xếp chỗ cho tôi._Cũng có nhiều hành khách._Đa số họ là những người đàn bà trẻ đi buôn._Họ ngồi trên hai ghế dài._Chỉ có một bé trai ngồi trên đùi mẹ nó._Người mẹ dường như mệt mỏi và buồn ngủ._Tôi được xếp ngồi cạnh một bà lão người nhỏ và xấu xí._Tay chân bà đen thui gầy guộc cũng như bộ mặt xanh xao lo lắng của bà khiến tôi biết rằng bà là người nông dân lao động nghèo._Mắt tôi quay sang trái và nhìn thẳng vào vai cô gái ở phía trước tôi._Họ trải một tấm bạt ly lông nhỏ hình vuông màu xanh trên sàn xe tải._Tấm bạt rách rưới và bẩn thỉu, nhưng nó phải thay thế cho cái bàn ăn._Mỗi cô gái lấy hộp thực phẩm ra khỏi túi xách và đặt nó trên tấm bạt._Thực phẩm bao gồm cơm có đậu đũa bao phủ._Không có bất cứ miếng thịt nào._Không đũa và không muỗng, những cô gái bốc thức ăn lên bằng những ngón tay, giống như tập quán của người Campuchia._Sau một tiếng rưỡi đồng hồ xe tải đến bến đậu._Mỗi người đều bước xuống._Một, hai, ba, bốn người tài xế hon đa ôm lao về phía tôi._Một người nắm chặt tay tôi để kéo tôi về chiếc Honda của hắn._Sợ hãi, lo lắng về việc mất hành lý, tôi cố gắng rời khỏi nơi đó thật nhanh.",
       "refs": [161]
     }
   ],
@@ -24632,7 +24632,7 @@
       "g": "30",
       "kind": "scramble",
       "text": "They walk quickly.\nHe spoke clearly.\nHe spoke English well.\nHe carefully keeps the book which I have given him.\nHe looks everywhere.\nHe comes here.\nHe painted that picture here.\nI go to school today.\nToday, I go to school.\nHe always comes late.\nShe never learns her lessons.\nHe is often ill.\nHe has always been a good student.\nI have never seen him.\nHe doesn't usually eat in the restaurant.\nDoes he often come here?\nYou may sometimes go out.\nToday, It's too hot.\nI know him quite well.\nThe film was fairly good.\nI quite understand you.\nHe can nearly swim.\nI am just going.\nHe has enough money.\nHe has enough books.\nHe is rich enough marry me.\nHe works hard enough to earn much money.\nWe haven't enough time.\nDo you have enough chairs?\nShe is only a child.\nDon't beat her, she is only a child.\nHe is only greedy, but not cruel.\nHe only plays, not to work.\nHe plays only well, never badly.\nI go to school only after breakfast.\nI'll sell you a honda only after you pay money.\nI buy very expensive books.\nShe sang a song well.\nShe sang a song well in the room.\nShe sang a song well in the room yesterday.",
-      "vi": "_Họ đi bộ một cách nhanh nhảu._Anh ấy nói một cách rõ ràng._Nó nói tiếng Anh giỏi._Nó giữ cẩn thận cuốn sách tôi cho._Nó nhìn khắp nơi._Anh ấy đến đây._Anh ấy đã vẽ bức tranh đó ở đây._Tôi đi đến trường hôm nay._Hôm nay Tôi đi đến trường._Nó luôn đến trễ._Cô ấy không bao giờ học bài._Nó thường hay bệnh._Anh ấy luôn là một sinh viên giỏi._Chưa bao giờ tôi gặp hắn._Anh ấy không thường ăn trong nhà hàng._Nó thường đến đây không?_Thỉnh thoảng anh được phép ra ngoài._Hôm nay trời nóng quá._Tôi biết rõ hắn._Cuốn phim khá hay._Tôi hoàn toàn hiểu anh._Nó gần như bơi được._Tôi đang đi đây._Anh ấy có đủ tiền._Anh ấy có đủ sách._Anh ta đủ giàu để cưới tôi._Anh ấy làm việc cực nhọc đủ để kiếm nhiều tiền._Chúng tôi không có đủ thời giờ._Anh có đủ ghế không?_Cô ấy chỉ là một đứa trẻ._Ðừng đánh nó, nó chỉ là một đứa trẻ._Nó chỉ tham nhưng không tàn ác._Nó chỉ chơi chứ không làm._Nó chỉ chơi tốt, không bao giờ chơi xấu._Tôi đến trường chỉ sau khi ăn sáng._Tôi sẽ bán cho anh một chiếc Honda chỉ sau khi anh trả tiền._Tôi mua những quyển sách rất đắt tiền._Cô ấy ca một bài ca rất hay._Cô ấy ca một bài ca trong phòng rất hay._Cô ấy ca một bài ca trong phòng rất hay, vào hôm qua.",
+      "vi": "_Họ đi bộ một cách nhanh nhảu._Anh ấy nói một cách rõ ràng._Nó nói tiếng Anh giỏi._Nó giữ cẩn thận cuốn sách tôi cho._Nó nhìn khắp nơi._Anh ấy đến đây._Anh ấy đã vẽ bức tranh đó ở đây._Tôi đi đến trường hôm nay._Hôm nay Tôi đi đến trường._Nó luôn đến trễ._Cô ấy không bao giờ học bài._Nó thường hay bệnh._Anh ấy luôn là một sinh viên giỏi._Chưa bao giờ tôi gặp hắn._Anh ấy không thường ăn trong nhà hàng._Nó thường đến đây không?_Thỉnh thoảng anh được phép ra ngoài._Hôm nay trời nóng quá._Tôi biết rõ hắn._Cuốn phim khá hay._Tôi hoàn toàn hiểu anh._Nó gần như bơi được._Tôi đang đi đây._Anh ấy có đủ tiền._Anh ấy có đủ sách._Anh ta đủ giàu để cưới tôi._Anh ấy làm việc cực nhọc đủ để kiếm nhiều tiền._Chúng tôi không có đủ thời giờ._Anh có đủ ghế không?_Cô ấy chỉ là một đứa trẻ._Đừng đánh nó, nó chỉ là một đứa trẻ._Nó chỉ tham nhưng không tàn ác._Nó chỉ chơi chứ không làm._Nó chỉ chơi tốt, không bao giờ chơi xấu._Tôi đến trường chỉ sau khi ăn sáng._Tôi sẽ bán cho anh một chiếc Honda chỉ sau khi anh trả tiền._Tôi mua những quyển sách rất đắt tiền._Cô ấy ca một bài ca rất hay._Cô ấy ca một bài ca trong phòng rất hay._Cô ấy ca một bài ca trong phòng rất hay, vào hôm qua.",
       "refs": [171]
     }
   ],
@@ -24824,7 +24824,7 @@
       "text": "Sometimes the newcomers talk or do things {0} because they do not know the new regulations.",
       "blanks": [{"a": "differently", "alt": [], "n": 3}],
       "given": ["difference"],
-      "vi": "Ðôi khi những người mới đến nói hoặc làm một cách khác biệt vì họ không biết nội qui mới.",
+      "vi": "Đôi khi những người mới đến nói hoặc làm một cách khác biệt vì họ không biết nội qui mới.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -25383,7 +25383,7 @@
       "text": "The crowd shouted {0}.",
       "blanks": [{"a": "excitedly", "alt": [], "n": 5}],
       "given": ["excitement"],
-      "vi": "Ðám đông reo hò như điên dại.",
+      "vi": "Đám đông reo hò như điên dại.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -26269,7 +26269,7 @@
       "text": "The most important of these is that learning a language requires {0} practice.",
       "blanks": [{"a": "constant", "alt": [], "n": 3}],
       "given": ["constancy"],
-      "vi": "Ðiều quan trọng nhất ở đây là việc học ngôn ngữ yêu cầu phải có sự luyện tập nhất định.",
+      "vi": "Điều quan trọng nhất ở đây là việc học ngôn ngữ yêu cầu phải có sự luyện tập nhất định.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -26670,7 +26670,7 @@
       "text": "\"Very well, sir, I'll tell the cook\" answered Dick {0}.",
       "blanks": [{"a": "obediently", "alt": [], "n": 2}],
       "given": ["obedience"],
-      "vi": "Dick ngoan ngoãn trả lời \"Ðược, thưa ông, tôi sẽ bảo với đầu bếp\".",
+      "vi": "Dick ngoan ngoãn trả lời \"Được, thưa ông, tôi sẽ bảo với đầu bếp\".",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -27216,7 +27216,7 @@
       "text": "It won't be a crime, but it will {0} a miracle.",
       "blanks": [{"a": "certainly", "alt": [], "n": 2}],
       "given": ["certainty"],
-      "vi": "Ðiều đó sẽ không phải là một tội, nhưng chắc chắn nó sẽ là một phép lạ.",
+      "vi": "Điều đó sẽ không phải là một tội, nhưng chắc chắn nó sẽ là một phép lạ.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -28370,7 +28370,7 @@
       "text": "She is somewhat {0} at times, but never too severe or stern.",
       "blanks": [{"a": "strict", "alt": [], "n": 5}],
       "given": ["strictness"],
-      "vi": "Ðôi lúc cô khá nghiêm nhưng không bao giờ quá khắt khe hoặc khó tính.",
+      "vi": "Đôi lúc cô khá nghiêm nhưng không bao giờ quá khắt khe hoặc khó tính.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -28430,7 +28430,7 @@
       "text": "She is somewhat strict at times, but never too {0} or stern.",
       "blanks": [{"a": "severe", "alt": [], "n": 5}],
       "given": ["severity"],
-      "vi": "Ðôi lúc cô khá nghiêm nhưng không bao giờ quá khắt khe hoặc khó tính.",
+      "vi": "Đôi lúc cô khá nghiêm nhưng không bao giờ quá khắt khe hoặc khó tính.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -28490,7 +28490,7 @@
       "text": "That would be {0} fun.",
       "blanks": [{"a": "great", "alt": [], "n": 6}],
       "given": ["greatness"],
-      "vi": "Ðiều đó sẽ thật tuyệt vời.",
+      "vi": "Điều đó sẽ thật tuyệt vời.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",
@@ -28768,7 +28768,7 @@
       "text": "Their swinging from bar to bar and climbing up the wooden poles at a fast pace delighted us {0}.",
       "blanks": [{"a": "enormously", "alt": [], "n": 1}],
       "given": ["enormousness"],
-      "vi": "Ðộng tác chuyền cành và leo nhanh lên các xà gỗ làm chúng tôi vui tột độ.",
+      "vi": "Động tác chuyền cành và leo nhanh lên các xà gỗ làm chúng tôi vui tột độ.",
       "expl": [
         {
           "head": "Danh từ Tính từ Trạng từ",

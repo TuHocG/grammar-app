@@ -27,7 +27,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một triều đại Hồi giáo được thiết lập bởi Mu'awiya và nằm ở trung tâm Damascus. Nó đã lật đổ đế chế Ả-Rập dưới sự thống trị của Ali, con rể của Prophet MUHAMMAD trong một cuộc chiến tranh nhân dân. Cuộc chiến này xảy ra sau cái chết của vua UTHMAN vào năm 656. Họ đã thôn tính Bắc Phi, Tây Ban Nha, Transoxania, Sind và hai lần tấn công chiếm Constantinople. Sau đó, họ đã sáp nhập các dân tộc và lãnh thổ khác nhau tạo nên một Nhà nước mới, với những điều luật mang tính bắt buộc. Tuy nhiên, họ đã thất bại trong việc giải quyết xung đột giữa các bộ lạc. Ðiều này dẫn đến sự sụp đổ của triều đại Umayyad vào tay ABBASIDS, mặc dù Abd al-Rahman đã trốn thoát được và thiết lập một triều đại Umayyad khác ở Tây Ban Nha vào năm 756-1031."
+        "t": "Một triều đại Hồi giáo được thiết lập bởi Mu'awiya và nằm ở trung tâm Damascus. Nó đã lật đổ đế chế Ả-Rập dưới sự thống trị của Ali, con rể của Prophet MUHAMMAD trong một cuộc chiến tranh nhân dân. Cuộc chiến này xảy ra sau cái chết của vua UTHMAN vào năm 656. Họ đã thôn tính Bắc Phi, Tây Ban Nha, Transoxania, Sind và hai lần tấn công chiếm Constantinople. Sau đó, họ đã sáp nhập các dân tộc và lãnh thổ khác nhau tạo nên một Nhà nước mới, với những điều luật mang tính bắt buộc. Tuy nhiên, họ đã thất bại trong việc giải quyết xung đột giữa các bộ lạc. Điều này dẫn đến sự sụp đổ của triều đại Umayyad vào tay ABBASIDS, mặc dù Abd al-Rahman đã trốn thoát được và thiết lập một triều đại Umayyad khác ở Tây Ban Nha vào năm 756-1031."
       }
     ],
     "k": "umayyad"
@@ -45,13 +45,13 @@
   {
     "h": "Umbanda",
     "segs": [
-      {"k": "m", "t": "Ðạo Umbanđa (một thứ hỗn hợp giáo xuất hiện tại Ba Tây trong thập kỷ 1920)."}
+      {"k": "m", "t": "Đạo Umbanđa (một thứ hỗn hợp giáo xuất hiện tại Ba Tây trong thập kỷ 1920)."}
     ],
     "k": "umbanda"
   },
   {
     "h": "umbaut",
-    "segs": [{"k": "m", "t": "(dt) (tiếng Ðức) Biến âm sắc."}],
+    "segs": [{"k": "m", "t": "(dt) (tiếng Đức) Biến âm sắc."}],
     "ipa": "umlaut",
     "k": "umbaut"
   },
@@ -198,7 +198,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cánh tay thử nghiệm"}],
     "k": "umbilical arm"
   },
-  {"h": "umbilical artery", "segs": [{"k": "m", "t": "Ðộng mạch rốn."}], "k": "umbilical artery"},
+  {"h": "umbilical artery", "segs": [{"k": "m", "t": "Động mạch rốn."}], "k": "umbilical artery"},
   {
     "h": "umbilical circulation",
     "segs": [{"k": "m", "t": "Tuần hoàn rốn."}],
@@ -728,7 +728,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một vùng đồi núi nằm ở trung tâm nước Ý. Ðây là nơi sinh sống của những người Ý cổ xưa. Nó kéo dài từ Ravenna và Adriatic đến dòng sông Tiber. Ðất nước này đã từng bị đánh bại bởi nước láng giềng của họ là ETRUSCAN và sau đó đến ROME vào năm 290 trước công nguyên. Nó trở thành 1 trong 11 lãnh thổ của nước Ý dưới sự thống trị của AUGUSTUS, vị hoàng đế đầu tiên. Tuy nhiên sau khi đế chế Tây Roman bị tan rã và quyền lực chính trị của Giáo hoàng gia tăng, (sau 800 AD), đất nước này đã trở thành một trong các quốc gia dưới sự thống trị của Ðức Giáo Hoàng."
+        "t": "Một vùng đồi núi nằm ở trung tâm nước Ý. Đây là nơi sinh sống của những người Ý cổ xưa. Nó kéo dài từ Ravenna và Adriatic đến dòng sông Tiber. Đất nước này đã từng bị đánh bại bởi nước láng giềng của họ là ETRUSCAN và sau đó đến ROME vào năm 290 trước công nguyên. Nó trở thành 1 trong 11 lãnh thổ của nước Ý dưới sự thống trị của AUGUSTUS, vị hoàng đế đầu tiên. Tuy nhiên sau khi đế chế Tây Roman bị tan rã và quyền lực chính trị của Giáo hoàng gia tăng, (sau 800 AD), đất nước này đã trở thành một trong các quốc gia dưới sự thống trị của Đức Giáo Hoàng."
       }
     ],
     "k": "umbria"
@@ -861,7 +861,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "(tiếng Ðức) Umlau, hiện tượng biến âm sắc (sự tương phản về nguyên âm trong các hình thái có liên quan của một từ, biểu hiện bằng hai chấm trên nguyên âm trong một hình thái)."
+        "t": "(tiếng Đức) Umlau, hiện tượng biến âm sắc (sự tương phản về nguyên âm trong các hình thái có liên quan của một từ, biểu hiện bằng hai chấm trên nguyên âm trong một hình thái)."
       }
     ],
     "ipa": "'umlaut",

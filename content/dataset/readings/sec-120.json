@@ -19,12 +19,12 @@
     ],
     "vi": [
       ["Bưu điện"],
-      ["Ðọc"],
+      ["Đọc"],
       ["Trước khi đọc"],
       ["Thực hành với một bạn.", "Hỏi và trả lời các câu hỏi sau."],
       ["Từ nhà bạn đến bưu điện gần nhất bao xa?"],
       ["Khoảng 3km từ nhà tôi đến bưu điện gần nhất."],
-      ["Bạn có thường đến bưu điện không?", "Ðể làm gì?"],
+      ["Bạn có thường đến bưu điện không?", "Để làm gì?"],
       ["Tôi đến đó để gửi thư không thường xuyên lắm."],
       ["Bạn nghĩ bưu điện cung cấp những dịch vụ nào?"],
       [
@@ -115,7 +115,7 @@
       ],
       ["Dịch vụ phát hành báo chí"],
       [
-        "Ðừng bận tâm về việc phải ra khỏi nhà vào buổi sáng sớm để mua báo hàng ngày.",
+        "Đừng bận tâm về việc phải ra khỏi nhà vào buổi sáng sớm để mua báo hàng ngày.",
         "Chỉ cần đặt mua định kì những tờ báo và tạp chí mà quí khách yêu thích",
         "và chúng tôi sẽ phát báo tận nhà quí khách vào sáng sớm."
       ]
@@ -146,7 +146,7 @@
       ["Phần 1", "Khoanh tròn tứ trái nghĩa với từ in nghiêng."],
       ["Bưu điện Thanh Ba có mặt trước rộng rãi và thú vị."],
       ["rộng lớn", "đẹp", "chật hẹp (X)", "mở rộng"],
-      ["Ðội ngũ nhân viên được đào tạo tốt của chúng tôi luôn nhã nhặn với khách hàng."],
+      ["Đội ngũ nhân viên được đào tạo tốt của chúng tôi luôn nhã nhặn với khách hàng."],
       ["giúp đỡ", "vô lễ (X)", "thân thiện", "cởi mở"],
       ["Dịch vụ chuyển tiền an toàn và nhanh chóng có thể hữu ích."],
       ["nhanh", "vội vàng", "cẩn thận", "chậm"],
@@ -179,7 +179,7 @@
       ["- I will have to subscribe to my favourite newspapers and magazines."]
     ],
     "vi": [
-      ["phần 2", "Ðọc lại đoạn văn và sau đó trả lời các câu hỏi sau."],
+      ["phần 2", "Đọc lại đoạn văn và sau đó trả lời các câu hỏi sau."],
       ["Bưu điện Thanh Ba được trang bị những gì?"],
       [
         "Bưu điện Thanh Ba được trang bị những kỹ thuật hiện đại và có một mặt bằng rộng rãi và dễ chịu."
@@ -187,7 +187,7 @@
       ["Bưu điện Thanh Ba cung cấp những dịch vụ gì?"],
       ["Dịch vụ thư và bưu kiện, chuyển tiền nhanh, điện thoại và Fax, phát báo."],
       ["Theo đoạn văn, ba cách gửi thư khác nhau là gì?"],
-      ["Ðó là thư, thư gửi bằng đường bộ và thư gửi nhanh."],
+      ["Đó là thư, thư gửi bằng đường bộ và thư gửi nhanh."],
       ["Dịch vụ gọi điện thoại nhắn tin là gì?"],
       ["Nó dùng để thông báo cho người nhận biết thời gian và địa điểm để nhận cuộc gọi."],
       ["Bạn sẽ phải làm gì nếu bạn muốn báo chí được phát tận nhà?"],
@@ -326,7 +326,7 @@
       ["Vâng", "Tôi đang gửi đây."],
       ["Cảm ơn", "ồ", "Bao nhiêu vậy?"],
       ["Dạ 5 ngàn đồng.", "ông có thể xem bảng giá trên bảng."],
-      ["Vâng", "Tôi biết", "Ðây thưa cô.", "Cảm ơn."],
+      ["Vâng", "Tôi biết", "Đây thưa cô.", "Cảm ơn."],
       ["Dạ không có chi."],
       ["Trả lời:"],
       ["Dịch vụ khách hàng đang sử dụng là dịch vụ Fax."]
@@ -389,7 +389,7 @@
       ["Cho địa chỉ và hỏi xem khi nào thì lắp đặt."],
       ["Nói rằng việc lắp đặt sẽ được tiến hành sau khi đăng kí một tuần."],
       ["Hỏi xem liệu A có thể đến nhà vào thứ sáu được không."],
-      ["Ðồng ý và hỏi xem B đã có máy điện thoại nào chưa."],
+      ["Đồng ý và hỏi xem B đã có máy điện thoại nào chưa."],
       ["Nói rằng bạn đã có máy điện thoại và hỏi về lệ phí lắp đặt cũng như cước phí hàng tháng."],
       ["Nói cho B biết các lệ phí và yêu cầu B điền vào mẫu đơn."],
       ["Trả lời:"],
@@ -399,7 +399,7 @@
       ["Tôi ở số 67 đường Ngọc Hà.", "Khi nào bạn có thể lắp đặt nó?", "Khi nào lắp đặt?"],
       [
         "Chúng tôi có thể lắp đặt nó 1 tuần sau khi bạn đăng ký.",
-        "Ðường điện thoại có thể lắp đặt 1 tuần sau khi bạn đăng ký."
+        "Đường điện thoại có thể lắp đặt 1 tuần sau khi bạn đăng ký."
       ],
       ["Bạn có thể đến vào thứ Sáu không?"],
       ["Vâng được.", "Bạn có máy điện thoại chưa?"],
@@ -472,7 +472,7 @@
       ],
       [
         "Bạn muốn đăng kí mua báo Lao động trong một năm và muốn báo được giao tận nhà vào mỗi sáng trước 6 giờ 30.",
-        "Ðịa chỉ của bạn là 67 đường Ngọc Hà, Hà Nội."
+        "Địa chỉ của bạn là 67 đường Ngọc Hà, Hà Nội."
       ],
       [
         "Sinh nhật của người bạn thân nhất của bạn là 16 tháng 5.",
@@ -489,7 +489,7 @@
       ["à tôi có thể nhận báo mỗi sáng trước 6:30 không?"],
       ["Trước 6:30 à. có lẽ là hơi sớm.", "7 giờ 30 được không?"],
       ["Vâng được. Cảm ơn."],
-      ["Ðược rồi. Bạn có thể điền vào mẫu này không?"],
+      ["Được rồi. Bạn có thể điền vào mẫu này không?"],
       ["Ví dụ 2:"],
       ["Xin chào. Tôi có thể giúp gì cho bạn?"],
       ["Vâng. Tôi muốn gửi thiệp chúc và chút hoa đến bạn tôi nhân ngày sinh nhật."],
@@ -504,7 +504,7 @@
       ["Bạn muốn thiệp và hoa gửi ngày 16 tháng 5 hay trước đó 1 ngày?"],
       ["Dạ ngày 16 tháng 5. Tốt nhất là gửi nó vào buổi sáng."],
       [
-        "Ðược rồi. Tôi sẽ ghi lại.",
+        "Được rồi. Tôi sẽ ghi lại.",
         "Bạn có thể điền vào mẫu này không?",
         "Và đừng quên ghi địa chỉ rõ ràng."
       ]
@@ -551,7 +551,7 @@
         "Bạn không bao giờ bị mất bất cứ thông tin nào.",
         "Khi đi làm, bạn cảm thấy luôn gần gũi gia đình.",
         "Ngược lại, vì bạn có thể được liên hệ bất cứ lúc nào nên bạn sẽ không có nhiều thời gian riêng tư.",
-        "Ðôi khi thật bực mình khi nhận cuộc gọi lúc đang ngủ hoặc đang họp."
+        "Đôi khi thật bực mình khi nhận cuộc gọi lúc đang ngủ hoặc đang họp."
       ]
     ],
     "img": "img/readings/1.11.105a.webp",
@@ -853,7 +853,7 @@
       ["Ví dụ:"],
       ["Giờ mở cửa của bưu điện:"],
       [
-        "Ðóng cửa lúc 9 giờ là quá sớm.",
+        "Đóng cửa lúc 9 giờ là quá sớm.",
         "Sẽ tốt hơn nếu bưu điện mở cửa đến 11 giờ.",
         "để khách hàng có thể tiện sử dụng dịch vụ."
       ],
@@ -865,7 +865,7 @@
         "Mặc dù bãi đậu xe lớn nhưng không có người trông coi."
       ],
       ["Thái độ của đội ngũ nhân viên:"],
-      ["Ðội ngũ nhân viên luôn lịch sự và nhiệt tình giúp đỡ khách hàng."]
+      ["Đội ngũ nhân viên luôn lịch sự và nhiệt tình giúp đỡ khách hàng."]
     ],
     "img": "img/readings/1.11.107a.webp",
     "page": "107"
@@ -996,7 +996,7 @@
         "và đôi khi tôi cảm thấy không an tâm khi để xe ở đó.",
         "Hơn nữa sẽ tốt hơn nếu bưu điện mở cửa đến 11 giờ tối",
         "để khách hàng có thể sử dụng dịch vụ nhiều hơn.",
-        "Ðiểm cuối cùng tôi muốn nói là",
+        "Điểm cuối cùng tôi muốn nói là",
         "thái độ của một số nhân viên của ông, có lẽ do làm việc căng thẳng nên đôi khi họ hơi lạnh lùng và không nhiệt tình."
       ],
       [
@@ -1005,7 +1005,7 @@
         "và thư này viết với hi vọng bưu điện của ông sẽ trở nên tốt hơn."
       ],
       ["Kính thư"],
-      ["Ðỗ An Ðức"]
+      ["Đỗ An Đức"]
     ],
     "img": "img/readings/1.11.107b.webp",
     "page": "107"
@@ -1109,8 +1109,8 @@
     ],
     "vi": [
       ["Bài tập 4", "Nối câu, sử dụng who, whose hoặc which."],
-      ["Peter đang học tiếng Pháp và tiếng Ðức. Anh ấy chưa bao giờ ra nước ngoài."],
-      ["Peter (người đang học tiếng Pháp và tiếng Ðức) chưa bao giờ ra nước ngoài."],
+      ["Peter đang học tiếng Pháp và tiếng Đức. Anh ấy chưa bao giờ ra nước ngoài."],
+      ["Peter (người đang học tiếng Pháp và tiếng Đức) chưa bao giờ ra nước ngoài."],
       ["Các bạn vừa gặp Michael Wool. Anh ấy đang thăm chúng tôi vài ngày."],
       ["Các bạn vừa gặp Michael Wool, người đang thăm chúng tôi vài ngày."],
       ["Chúng tôi đang chuyển đến Manchester. Manchester ở Tây Bắc."],
@@ -1173,10 +1173,10 @@
       ["Nghe"],
       ["Lời trong băng"],
       [
-        "Ðoạn ghi âm: Công ty Cha và Con trai xin chào.",
+        "Đoạn ghi âm: Công ty Cha và Con trai xin chào.",
         "Liên hệ bộ phận bán hàng nhấn phím 1.",
         "Liên hệ bộ phận kế toán nhấn phím 2.",
-        "Ðể biết thêm thông tin xin giữ máy."
+        "Để biết thêm thông tin xin giữ máy."
       ],
       ["Dona: Công ty Cha và Con đây", "Cảm ơn bạn đã gọi.", "Dona đang nói.", "Bạn cần giúp gì ạ?"],
       ["Georgia: Xin chào, Tôi tên là Georgia King.", "Xin cho tôi nói chuyện với Jon Bairnes."],
@@ -1191,7 +1191,7 @@
         "Câu số 1 đã được chọn sẵn."
       ],
       [
-        "Công ty Cha và Con trai xin chào. Liên hệ bộ phận kinh doanh nhấn phím 1. bộ phận kế toán nhấn phím 2. Ðể biết thêm thông tin xin giữ máy.[1]"
+        "Công ty Cha và Con trai xin chào. Liên hệ bộ phận kinh doanh nhấn phím 1. bộ phận kế toán nhấn phím 2. Để biết thêm thông tin xin giữ máy.[1]"
       ],
       ["Donna đây.[2]"],
       ["Xin cho tôi nói chuyện với Jon Barnes.[3]"],
@@ -1225,7 +1225,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc đoạn văn và trả lời các câu hỏi."],
+      ["Đọc đoạn văn và trả lời các câu hỏi."],
       [
         "Có nhiều phong tục thú vị đón mừng năm mới ở nhiều nước khác nhau.",
         "ở Tây Ban Nha và Bồ đào Nha, người ta tụ họp nhau lại trước lúc giao thừa và chọn 12 quả nho từ một chùm nho lớn.",
@@ -1260,7 +1260,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc đoạn văn và trả lời các câu hỏi."],
+      ["Đọc đoạn văn và trả lời các câu hỏi."],
       ["Người dân ở Tây Ban Nha và Bồ đào Nha thường làm gì trước lúc giao thừa?"],
       ["Họ quây quần trước giao thừa và chọn 12 trái nho từ một chùm nho lớn."],
       ["Tại sao người dân Tây Ban Nha và Bồ đào Nha ăn 12 quả nho vào đêm giao thừa?"],
@@ -1320,7 +1320,7 @@
       ["Ghép mệnh để ở cột A với mệnh đề ở cột B để tạo thành câu điều kiện hoàn chỉnh."],
       ["Chúng tôi sẽ mua chiếc xe hơi ngay, nếu chúng tôi có đủ tiền."],
       ["Phải chi bạn báo cho tôi biết vấn đề thì tôi đã giúp bạn."],
-      ["Tôi sẽ tìm được việc ở Luân Ðôn nếu tôi biết nói tiếng Anh."]
+      ["Tôi sẽ tìm được việc ở Luân Đôn nếu tôi biết nói tiếng Anh."]
     ],
     "img": "img/readings/1.11.113a.webp",
     "page": "113"
@@ -1389,7 +1389,7 @@
         "Trong suốt tết, người ta thích ăn những món truyền thống như bánh chưng, mứt...",
         "Ngày mùng 1, người ta thường đi chùa hoặc nhà thờ, rồi thăm người thân.",
         "Tôi thích ngày tết vì chúng tôi thường có \"tiền lì xì\" vào dịp tết và có những ngày nghỉ.",
-        "Ðiều duy nhất tôi không thích ở ngày tết là thời tiết lạnh và ẩm ướt ở miền Bắc."
+        "Điều duy nhất tôi không thích ở ngày tết là thời tiết lạnh và ẩm ướt ở miền Bắc."
       ]
     ],
     "img": "img/readings/1.11.113b.webp",

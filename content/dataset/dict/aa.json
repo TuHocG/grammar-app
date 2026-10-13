@@ -22,7 +22,7 @@
     "segs": [
       {"k": "m", "t": "Adaptive Assignment/Time Division Multiple Access (AA/TDMA)"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "Gắn Tương thích/ Ða truy nhập phân theo thời gian"}
+      {"k": "m", "t": "Gắn Tương thích/ Đa truy nhập phân theo thời gian"}
     ],
     "k": "aa/tdma"
   },

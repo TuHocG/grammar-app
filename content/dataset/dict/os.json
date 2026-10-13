@@ -145,7 +145,7 @@
       {"k": "m", "t": "Hệ điều hành OS/2 Warp"},
       {
         "k": "m",
-        "t": "OS/2 Warp là hệ điều hành 32 bit, giao diện đồ họa, hoạt động trên các bộ xử lý Intel. Phiên bản cho server được gọi là OS/2 Warp Server - sẽ được bàn trong phần kế tiếp. OS/2 có một lịch sử lâu đời. Nó được bắt nguồn từ IBM và Microsoft, nhưng IBM đã tiếp quản sự phát triển của OS/2 khi Microsoft chuyển sang phát triển môi trường Windows. Ðến nay, OS/2 vẫn chạy được các trình ứng dụng 16 hay 32 bit cho DOS và Windows."
+        "t": "OS/2 Warp là hệ điều hành 32 bit, giao diện đồ họa, hoạt động trên các bộ xử lý Intel. Phiên bản cho server được gọi là OS/2 Warp Server - sẽ được bàn trong phần kế tiếp. OS/2 có một lịch sử lâu đời. Nó được bắt nguồn từ IBM và Microsoft, nhưng IBM đã tiếp quản sự phát triển của OS/2 khi Microsoft chuyển sang phát triển môi trường Windows. Đến nay, OS/2 vẫn chạy được các trình ứng dụng 16 hay 32 bit cho DOS và Windows."
       },
       {
         "k": "m",
@@ -161,7 +161,7 @@
       },
       {
         "k": "m",
-        "t": "Một chức năng phục vụ truy cập quay số từ xa cho phép những người điều khiển từ xa và các nhân viên di động nối kết vào tài nguyên của mạng tại văn phòng của hệ thống. Các người dùng quay số (dial-up user) sử dụng NetBIOS, TCP/IP hay giao thức IPX có thể nối kết với văn phòng mạng cùng sử dụng OS/2 Warp Server hay nối nào Internet. Một đặc tính được gọi là Mobile File Synch (Ðồng bộ tập tin di động) dò tìm các xung đột giữa các tập tin của client và server, và còn có thể tự động tạo bản sao tại server cho bất cứ nhiệm vụ nào được hoàn thành tại client và ngược lại, nếu được các người dùng lựa chọn."
+        "t": "Một chức năng phục vụ truy cập quay số từ xa cho phép những người điều khiển từ xa và các nhân viên di động nối kết vào tài nguyên của mạng tại văn phòng của hệ thống. Các người dùng quay số (dial-up user) sử dụng NetBIOS, TCP/IP hay giao thức IPX có thể nối kết với văn phòng mạng cùng sử dụng OS/2 Warp Server hay nối nào Internet. Một đặc tính được gọi là Mobile File Synch (Đồng bộ tập tin di động) dò tìm các xung đột giữa các tập tin của client và server, và còn có thể tự động tạo bản sao tại server cho bất cứ nhiệm vụ nào được hoàn thành tại client và ngược lại, nếu được các người dùng lựa chọn."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -274,7 +274,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1909) Tòa án Anh, chuyên giải quyết các vụ liên quan đến chính trị. Nó xuất phát từ việc phân xử mâu thuẫn trong vấn đề trả lương cho thành viên công đoàn nghị viện. Tòa án được lập ra ở Osborne. Ðể giải quyết mâu thuẫn, họ cùng đưa ra đạo luật liên minh thương mại (1913) với hình thức quỹ chính trị."
+        "t": "(1909) Tòa án Anh, chuyên giải quyết các vụ liên quan đến chính trị. Nó xuất phát từ việc phân xử mâu thuẫn trong vấn đề trả lương cho thành viên công đoàn nghị viện. Tòa án được lập ra ở Osborne. Để giải quyết mâu thuẫn, họ cùng đưa ra đạo luật liên minh thương mại (1913) với hình thức quỹ chính trị."
       }
     ],
     "k": "osborne judgment"
@@ -2174,7 +2174,7 @@
   },
   {
     "h": "ossfication point",
-    "segs": [{"k": "m", "t": "Ðiểm cốt hóa, điểm hóa xương."}],
+    "segs": [{"k": "m", "t": "Điểm cốt hóa, điểm hóa xương."}],
     "k": "ossfication point"
   },
   {
@@ -2603,7 +2603,7 @@
   },
   {"h": "osteo-enchondroma", "segs": [{"k": "m", "t": "U xương-sụn."}], "k": "osteo-enchondroma"},
   {"h": "Osteo-enpiphysis", "segs": [{"k": "m", "t": "đầu xương."}], "k": "osteo-enpiphysis"},
-  {"h": "osteo-epiphysis", "segs": [{"k": "m", "t": "Ðầu xương."}], "k": "osteo-epiphysis"},
+  {"h": "osteo-epiphysis", "segs": [{"k": "m", "t": "Đầu xương."}], "k": "osteo-epiphysis"},
   {
     "h": "osteo-odonto-keratoprosthesis",
     "segs": [
@@ -2798,7 +2798,7 @@
   {"h": "osteoclastoma", "segs": [{"k": "m", "t": "U hủy cốt bào."}], "k": "osteoclastoma"},
   {"h": "osteoclasty", "segs": [{"k": "m", "t": "(thủ thuật) bẻ xương."}], "k": "osteoclasty"},
   {"h": "osteocolla", "segs": [{"k": "m", "t": "cặn vôi."}], "k": "osteocolla"},
-  {"h": "osteocomma", "segs": [{"k": "m", "t": "Ðoạn xương, đốt xơng."}], "k": "osteocomma"},
+  {"h": "osteocomma", "segs": [{"k": "m", "t": "Đoạn xương, đốt xơng."}], "k": "osteocomma"},
   {
     "h": "osteocope",
     "segs": [{"k": "m", "t": "(y) nhức xương."}],
@@ -2806,7 +2806,7 @@
     "k": "osteocope"
   },
   {"h": "osteocopic", "segs": [{"k": "m", "t": "(thuộc) nhức xương."}], "k": "osteocopic"},
-  {"h": "osteocopic pain", "segs": [{"k": "m", "t": "Ðau xương."}], "k": "osteocopic pain"},
+  {"h": "osteocopic pain", "segs": [{"k": "m", "t": "Đau xương."}], "k": "osteocopic pain"},
   {
     "h": "osteocranium",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc xương sọ."}],
@@ -3099,7 +3099,7 @@
   {"h": "osteonecrosis", "segs": [{"k": "m", "t": "Hoại tử xương."}], "k": "osteonecrosis"},
   {
     "h": "osteoneuralgia",
-    "segs": [{"k": "m", "t": "Ðau dây thần kinh xương."}],
+    "segs": [{"k": "m", "t": "Đau dây thần kinh xương."}],
     "k": "osteoneuralgia"
   },
   {"h": "osteonosus", "segs": [{"k": "m", "t": "Bệnh xương."}], "k": "osteonosus"},
@@ -3572,7 +3572,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Nền chính trị Cộng hòa liên bang Ðức thời đầu năm 1970. Nó hoạt động hoàn toàn độc lập và tách biệt hẳn với Cộng hòa dân chủ Ðức (Ðông Ðức). Trước bản Hiệp ước thống nhất quan hệ (1972), cả hai lãnh thổ trở nên bình thường hóa quan hệ bằng đường ranh giới Oder-Neisse (1970-1972)."
+        "t": "Nền chính trị Cộng hòa liên bang Đức thời đầu năm 1970. Nó hoạt động hoàn toàn độc lập và tách biệt hẳn với Cộng hòa dân chủ Đức (Đông Đức). Trước bản Hiệp ước thống nhất quan hệ (1972), cả hai lãnh thổ trở nên bình thường hóa quan hệ bằng đường ranh giới Oder-Neisse (1970-1972)."
       }
     ],
     "k": "ostpolitik"
@@ -3833,7 +3833,7 @@
     "segs": [
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "xem"},
-      {"k": "ex", "t": "Ostrogoth", "vi": "thuộc người Ðông-Gốt."}
+      {"k": "ex", "t": "Ostrogoth", "vi": "thuộc người Đông-Gốt."}
     ],
     "ipa": ",ɔstrə'gɔθik",
     "k": "ostrogothic"
@@ -3843,7 +3843,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Dân tộc ở vùng đông Goths, tập trung phía bắc biển Ðen. Vào thế kỷ thứ 4 sau Công Nguyên, họ trở thành chư hầu Huns. Dưới quyền Attila cai trị, họ bị quân La Mã đánh bại. Bốn mươi năm sau, Theodoric thành lập vương quốc Ostrogothic tại Ý. Tuy nhiên, vương quốc bị Belisarius hai lần xâm chiếm và cuối cùng bị sụp đổ trước Narses năm 552."
+        "t": "Dân tộc ở vùng đông Goths, tập trung phía bắc biển Đen. Vào thế kỷ thứ 4 sau Công Nguyên, họ trở thành chư hầu Huns. Dưới quyền Attila cai trị, họ bị quân La Mã đánh bại. Bốn mươi năm sau, Theodoric thành lập vương quốc Ostrogothic tại Ý. Tuy nhiên, vương quốc bị Belisarius hai lần xâm chiếm và cuối cùng bị sụp đổ trước Narses năm 552."
       }
     ],
     "k": "ostrogoths"
@@ -3853,7 +3853,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ô-strô-grát-xki, 1861/ 1862) Nhà toán học Nga, viện sĩ Viện hàn lâm kha học Pétersbourg (1830, dự khuyết từ 1828). Ông là một trong những nhà sáng lập nên trường phái toán học Pétersbourg. Ông học tại trường Ðại học tổng hợp Kharkov (1816-1820) và sau đó ông đến nghe bài giảng của các nhà bác học Pháp tại Paris (1822-1828). Ông là giáo sư các lớp học sĩ quan trường võ bị hải quân (từ 1828), trường đào tạo kỹ sư giao thông (từ 1830), trường đại học sư phạm (từ 1832), giáo sư trường kỹ sư trưởng (từ 1840), trường pháo binh trưởng (từ 1841) tại Pétersbourg. Những công trình cơ bản của ông thuộc về giải tích toán học, cơ học lý thuyết, vật lý toán học, cơ học lý thuyết, vật lý toán. Ông cũng có những công trình nổi tiếng về lý thuyết số, đại số học, lý thuyết xác suất. Ông bắt đầu hoạt động khoa học tại Paris, sau khi đệ trình Viện hàn lâm khoa học tại Paris một số báo cáo khoa học, trong đó ông phát triển (1824) lý thuyết thặng dư của Cauchy, mở rộng (1826) phương pháp tách biến số được nhà bác học Pháp J.Fourier áp dụng năm 1821 để giải những phương trình về độ dẫn nhiệt trong thể rắn, đồng thời suy ra công thức biến đổi tích phân ba lớp thành tích phân hai lớp (công thức Ostrogradski). Ông còn nghiên cứu cả những vấn đề của lý thuyết tính đàn hồi, cơ học thiên thể, lý thuyết từ học v.v... Trong công trình về phép biến đổi biến số trong những tích phân bội (1836-, công bố năm 1838). Ông đã rút ra công thức biến đổi biến số lấy tích phân trong tích phân hai và ba lớp (ngày nay được trình bày trong tất cả mọi giáo trình giải tích toán học). Ông đạt được những kết quả quan trọng trong lý thuyết phương trình vi phân, trong phép phân tích gần đúng. Trong cơ học lý thuyết, ông có những thành quả cơ bản liên quan tới sự phát triển nguyên lý những chuyển dịch khả dĩ, các nguyên lý biến phân của cơ học, và cả cách giải hàng loạt những bài toán đặc biệt."
+        "t": "(Ô-strô-grát-xki, 1861/ 1862) Nhà toán học Nga, viện sĩ Viện hàn lâm kha học Pétersbourg (1830, dự khuyết từ 1828). Ông là một trong những nhà sáng lập nên trường phái toán học Pétersbourg. Ông học tại trường Đại học tổng hợp Kharkov (1816-1820) và sau đó ông đến nghe bài giảng của các nhà bác học Pháp tại Paris (1822-1828). Ông là giáo sư các lớp học sĩ quan trường võ bị hải quân (từ 1828), trường đào tạo kỹ sư giao thông (từ 1830), trường đại học sư phạm (từ 1832), giáo sư trường kỹ sư trưởng (từ 1840), trường pháo binh trưởng (từ 1841) tại Pétersbourg. Những công trình cơ bản của ông thuộc về giải tích toán học, cơ học lý thuyết, vật lý toán học, cơ học lý thuyết, vật lý toán. Ông cũng có những công trình nổi tiếng về lý thuyết số, đại số học, lý thuyết xác suất. Ông bắt đầu hoạt động khoa học tại Paris, sau khi đệ trình Viện hàn lâm khoa học tại Paris một số báo cáo khoa học, trong đó ông phát triển (1824) lý thuyết thặng dư của Cauchy, mở rộng (1826) phương pháp tách biến số được nhà bác học Pháp J.Fourier áp dụng năm 1821 để giải những phương trình về độ dẫn nhiệt trong thể rắn, đồng thời suy ra công thức biến đổi tích phân ba lớp thành tích phân hai lớp (công thức Ostrogradski). Ông còn nghiên cứu cả những vấn đề của lý thuyết tính đàn hồi, cơ học thiên thể, lý thuyết từ học v.v... Trong công trình về phép biến đổi biến số trong những tích phân bội (1836-, công bố năm 1838). Ông đã rút ra công thức biến đổi biến số lấy tích phân trong tích phân hai và ba lớp (ngày nay được trình bày trong tất cả mọi giáo trình giải tích toán học). Ông đạt được những kết quả quan trọng trong lý thuyết phương trình vi phân, trong phép phân tích gần đúng. Trong cơ học lý thuyết, ông có những thành quả cơ bản liên quan tới sự phát triển nguyên lý những chuyển dịch khả dĩ, các nguyên lý biến phân của cơ học, và cả cách giải hàng loạt những bài toán đặc biệt."
       }
     ],
     "k": "ostrogradski mikhail vaxilievitch"

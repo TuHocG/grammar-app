@@ -168,7 +168,7 @@
       {
         "a": "Better, thanks. When can I go home?",
         "b": "You must stay in bed for another two days.",
-        "avi": "Ðỡ rồi, cảm ơn. Chừng nào tôi xuất viện được?",
+        "avi": "Đỡ rồi, cảm ơn. Chừng nào tôi xuất viện được?",
         "bvi": "Bạn phải nằm bệnh thêm hai ngày nữa."
       },
       {
@@ -186,14 +186,14 @@
       {
         "a": "What's going on?",
         "b": "The doctor began to operate on the boy.",
-        "avi": "Ðiều gì đang diễn ra vậy?",
+        "avi": "Điều gì đang diễn ra vậy?",
         "bvi": "Bác sĩ bắt đầu mổ cho cậu bé."
       },
       {
         "a": "Wasn't the train late?",
         "b": "We reached London this afternoon.",
         "avi": "Tàu không đến trễ chứ?",
-        "bvi": "Chúng tôi đã đến Luân Ðôn trưa nay."
+        "bvi": "Chúng tôi đã đến Luân Đôn trưa nay."
       },
       {
         "a": "How long is it going to take to see a doctor?",
@@ -487,7 +487,7 @@
         "a": "Very bad.",
         "b": "Let me take your temperature.",
         "avi": "Tôi rất mệt.",
-        "bvi": "Ðể tôi đo nhiệt độ cho bạn."
+        "bvi": "Để tôi đo nhiệt độ cho bạn."
       },
       {
         "a": "How is your appetite?",
@@ -607,12 +607,12 @@
         "a": "Do you bring a prescription?",
         "b": "Here's my prescription.",
         "avi": "Bạn có mang toa thuốc theo không?",
-        "bvi": "Ðây là toa thuốc."
+        "bvi": "Đây là toa thuốc."
       },
       {
         "a": "Here's my prescription.",
         "b": "Thank you, doctor.",
-        "avi": "Ðây là toa thuốc.",
+        "avi": "Đây là toa thuốc.",
         "bvi": "Cảm ơn bác sĩ."
       },
       {
@@ -679,12 +679,12 @@
         "a": "I've got a bad stomachache.",
         "b": "Are your bowels acting properly?",
         "avi": "Tôi bị đau bụng ghê gớm.",
-        "bvi": "Ðường ruột của bạn có hoạt động tốt không?"
+        "bvi": "Đường ruột của bạn có hoạt động tốt không?"
       },
       {
         "a": "Are your bowels acting properly?",
         "b": "Not really.",
-        "avi": "Ðường ruột của bạn có hoạt động tốt không?",
+        "avi": "Đường ruột của bạn có hoạt động tốt không?",
         "bvi": "Thực sự là không."
       }
     ]
@@ -744,7 +744,7 @@
       {
         "a": "Here you are, doctor.",
         "b": "What do you complain of?",
-        "avi": "Ðây thưa bác sĩ.",
+        "avi": "Đây thưa bác sĩ.",
         "bvi": "Bạn bị đau sao vậy?"
       }
     ]
@@ -907,7 +907,7 @@
         "a": "Please make me up this prescription.",
         "b": "Take this prescription to the drugstore.",
         "avi": "Làm ơn bán cho tôi toa thuốc này.",
-        "bvi": "Ðem toa này đến hiệu thuốc."
+        "bvi": "Đem toa này đến hiệu thuốc."
       },
       {
         "a": "You have to be taken three times a day.",
@@ -1344,7 +1344,7 @@
       {
         "a": "Sometimes I feel short of breath.",
         "b": "Breathe hard.",
-        "avi": "Ðôi khi tôi khó thở.",
+        "avi": "Đôi khi tôi khó thở.",
         "bvi": "Thở mạnh."
       }
     ]
@@ -1375,7 +1375,7 @@
         "a": "I have chills.",
         "b": "Let's see your blood pressure.",
         "avi": "Tôi thấy cảm lạnh.",
-        "bvi": "Ðể tôi xem huyết áp của bạn."
+        "bvi": "Để tôi xem huyết áp của bạn."
       }
     ]
   },
@@ -1476,7 +1476,7 @@
       {
         "a": "Will that be alright?",
         "b": "Now shut.",
-        "avi": "Ðược chưa ạ?",
+        "avi": "Được chưa ạ?",
         "bvi": "Giờ ngậm miệng lại."
       },
       {
@@ -1584,7 +1584,7 @@
       {
         "a": "Take this prescription to the drugstore.",
         "b": "Where is the drugstore?",
-        "avi": "Ðem toa này đến hiệu thuốc.",
+        "avi": "Đem toa này đến hiệu thuốc.",
         "bvi": "Hiệu thuốc ở đâu?"
       }
     ]
@@ -1614,7 +1614,7 @@
       {
         "a": "Here's your prescription.",
         "b": "When do I take this medicine?",
-        "avi": "Ðây là toa thuốc của bạn.",
+        "avi": "Đây là toa thuốc của bạn.",
         "bvi": "Khi nào tôi uống thuốc này?"
       }
     ]
@@ -1705,7 +1705,7 @@
         "a": "I'm going to get well.",
         "b": "Take good care of yourself.",
         "avi": "Tôi sắp khỏi rồi.",
-        "bvi": "Ðể ý chăm sóc sức khỏe của bạn."
+        "bvi": "Để ý chăm sóc sức khỏe của bạn."
       }
     ]
   },
@@ -1729,12 +1729,12 @@
         "a": "My health is not good.",
         "b": "How have you passed the night?",
         "avi": "Sức khỏe tôi không được tốt.",
-        "bvi": "Ðêm qua bạn thế nào?"
+        "bvi": "Đêm qua bạn thế nào?"
       },
       {
         "a": "How have you passed the night?",
         "b": "I slept badly.",
-        "avi": "Ðêm qua bạn thế nào?",
+        "avi": "Đêm qua bạn thế nào?",
         "bvi": "Tôi không ngủ được."
       }
     ]
@@ -1759,7 +1759,7 @@
         "a": "I can't keep anything down.",
         "b": "Let me see your tongue.",
         "avi": "Tôi không thể nuốt trôi bất cứ thứ gì.",
-        "bvi": "Ðể tôi xem lưỡi bạn."
+        "bvi": "Để tôi xem lưỡi bạn."
       },
       {
         "a": "Any trouble with your appetite?",
@@ -1795,7 +1795,7 @@
         "a": "My eyes hurt!",
         "b": "Trachoma is very common in Vietnam.",
         "avi": "Tôi bị đau mắt.",
-        "bvi": "Ðau mắt hột ở Việt Nam là rất thường."
+        "bvi": "Đau mắt hột ở Việt Nam là rất thường."
       }
     ]
   },
@@ -1866,7 +1866,7 @@
       {
         "a": "Don't even spit unless you have to.",
         "b": "I have a sore throat.",
-        "avi": "Ðừng khạc nhổ nếu không cần thiết.",
+        "avi": "Đừng khạc nhổ nếu không cần thiết.",
         "bvi": "Tôi bị đau họng."
       },
       {
@@ -2052,7 +2052,7 @@
       {
         "a": "Don't overdo it things!",
         "b": "I have a headache.",
-        "avi": "Ðừng làm việc quá sức!",
+        "avi": "Đừng làm việc quá sức!",
         "bvi": "Tôi nhức đầu."
       },
       {
@@ -2167,12 +2167,12 @@
         "a": "I got a rapid heartbeat.",
         "b": "Let me feel your pulse.",
         "avi": "Tôi có nhịp tim nhanh.",
-        "bvi": "Ðể tôi bắt mạch xem."
+        "bvi": "Để tôi bắt mạch xem."
       },
       {
         "a": "Let me feel your pulse.",
         "b": "What's my blood-pressure?",
-        "avi": "Ðể tôi bắt mạch xem.",
+        "avi": "Để tôi bắt mạch xem.",
         "bvi": "Huyết áp của tôi bao nhiêu?"
       },
       {
@@ -2287,7 +2287,7 @@
         "a": "Your heartbeat is abnormally strong.",
         "b": "I have palpitations at times.",
         "avi": "Nhịp tim của bạn mạnh bất thường.",
-        "bvi": "Ðôi khi tôi bị hồi hộp."
+        "bvi": "Đôi khi tôi bị hồi hộp."
       },
       {
         "a": "Smoking will destroy your lungs.",
@@ -2355,7 +2355,7 @@
         "avi": "Răng của bạn không ổn lắm.",
         "bvi": "Chúng chỉ đau nhức khi trời mưa."
       },
-      {"a": "Which one hurts?", "b": "Molar.", "avi": "Ðau răng nào?", "bvi": "Răng hàm."},
+      {"a": "Which one hurts?", "b": "Molar.", "avi": "Đau răng nào?", "bvi": "Răng hàm."},
       {
         "a": "I heard her crying.",
         "b": "The baby's cutting his top teeth.",
@@ -2408,7 +2408,7 @@
         "a": "Please clean my teeth.",
         "b": "I'll take a look at it.",
         "avi": "Xin cạo sạch răng tôi.",
-        "bvi": "Ðể tôi xem."
+        "bvi": "Để tôi xem."
       },
       {
         "a": "This tooth is loose.",
@@ -2527,7 +2527,7 @@
       {
         "a": "Don't worry. It's just a scratch.",
         "b": "It's bleeding.",
-        "avi": "Ðừng lo, đó chỉ là một vết xước.",
+        "avi": "Đừng lo, đó chỉ là một vết xước.",
         "bvi": "Nó đang chảy máu."
       },
       {

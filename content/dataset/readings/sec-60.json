@@ -40,15 +40,15 @@
       ["Phạm Thị Hoa"],
       ["Có ạ."],
       ["Xin đi theo chị.", "Trước tiên, chị cần đo thân nhiệt của em."],
-      ["Ðược ạ."],
+      ["Được ạ."],
       ["Xin há miệng ra nào!", "Cảm ơn.", "37 độ C.", "Thế là bình thường."],
       ["Giờ thì chị cần biết chiều cao của em.", "Vui lòng đứng đây để chị có thể đo em."],
       ["Như thế này phải không ạ?"],
-      ["Ðúng rồi.", "Em cao 1 mét 45 centimét."],
+      ["Đúng rồi.", "Em cao 1 mét 45 centimét."],
       ["Chà! Năm ngoái em cao 1 mét 30."],
       ["Giờ chị cần phải cân em.", "Bước lên cân đi nào."],
       ["ôi. Em 40 ký."],
-      ["Ðược rồi.", "Bây giờ em có thể trở lại phòng đợi.", "Vài phút nữa bác sĩ sẽ khám cho em."],
+      ["Được rồi.", "Bây giờ em có thể trở lại phòng đợi.", "Vài phút nữa bác sĩ sẽ khám cho em."],
       ["Cảm ơn chị."]
     ],
     "img": "img/readings/1.7.107a.webp",
@@ -69,7 +69,7 @@
       ["h) The nurse told Hoa to go back to the waiting room."]
     ],
     "vi": [
-      ["Bây giờ hãy trả lời.", "Ðánh số các câu."],
+      ["Bây giờ hãy trả lời.", "Đánh số các câu."],
       ["Y tá cân Hoa."],
       ["Hoa trở lại phòng đợi."],
       ["Hoa rời phòng đợi."],
@@ -149,7 +149,7 @@
       [
         "Một người trong các bạn là A và người kia là B.",
         "Hãy nhìn vào bản ghi trong sổ theo dõi sức khỏe của bạn và che bản của người kia lại.",
-        "Ðiền vào những thông tin còn thiếu."
+        "Điền vào những thông tin còn thiếu."
       ],
       ["Những dạng câu hỏi này sẽ giúp bạn."],
       ["Anh ấy học trường nào?"],
@@ -162,8 +162,8 @@
       ["Anh ấy họ Trần."],
       ["Tên đầy đủ của anh ấy là gì?"],
       ["Tên đầy đủ của anh ấy là Trần Văn Kiên."],
-      ["Ðịa chỉ anh ấy số mấy?", "Anh ấy sống ở đâu?"],
-      ["Ðịa chỉ của anh ấy ở số 66 đường Hàm Long- Hà Nội."],
+      ["Địa chỉ anh ấy số mấy?", "Anh ấy sống ở đâu?"],
+      ["Địa chỉ của anh ấy ở số 66 đường Hàm Long- Hà Nội."],
       ["Anh ấy sống ở số 66 đường Hàm Long - Hà Nội."],
       ["Nam hay nữ?", "Nam"],
       ["Anh ấy bao nhiêu tuổi?"],
@@ -378,7 +378,7 @@
       ["Tại sao chúng ta lại gọi là cảm lạnh \"thông thường\"?"],
       ["Chúng ta gọi là cảm lạnh \"thông thường\" vì mỗi năm có hàng triệu người nhiễm bệnh."],
       ["Các triệu chứng của bệnh cảm lạnh thông thường là gì?"],
-      ["Ðó là: sổ mũi, sốt nhẹ, ho và hắt hơi."],
+      ["Đó là: sổ mũi, sốt nhẹ, ho và hắt hơi."],
       ["Có cách chữa bệnh cảm lạnh thông thường không?"],
       ["Không, không có cách chữa bệnh cảm lạnh thông thường."],
       ["Các phương thuốc trị cảm lạnh có tác dụng không?", "Chúng có tác dụng gì?"],

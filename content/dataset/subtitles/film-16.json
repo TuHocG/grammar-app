@@ -61,7 +61,7 @@
     {
       "e": 51.63,
       "en": "These are my in-laws.",
-      "vi": "Ðây là những người trong gia đình bên vợ tôi.",
+      "vi": "Đây là những người trong gia đình bên vợ tôi.",
       "s": 49.25
     },
     {"e": 54.52, "en": "Wow, they really look young.", "vi": "Chà, trông họ trẻ quá.", "s": 51.63},
@@ -79,11 +79,11 @@
       "s": 60.71
     },
     {"e": 65.98, "en": "They are from New York.", "vi": "Quê họ ở New York.", "s": 63.99},
-    {"e": 68.3, "en": "Who is that?", "vi": "Ðó là ai?", "s": 65.98},
+    {"e": 68.3, "en": "Who is that?", "vi": "Đó là ai?", "s": 65.98},
     {
       "e": 71.94,
       "en": "That is their next door neighbour, Billy.",
-      "vi": "Ðó là Billy, người hàng xóm kế bên nhà họ.",
+      "vi": "Đó là Billy, người hàng xóm kế bên nhà họ.",
       "s": 68.3
     },
     {"e": 74.2, "en": "He's cute.", "vi": "Anh ta có duyên thật.", "s": 71.94},
@@ -97,15 +97,15 @@
     },
     {"e": 87.0, "en": "I just got it.", "vi": "Tôi vừa mới lấy nó về.", "s": 85.83},
     {"e": 88.82, "en": "Let me take a look.", "vi": "Cho tôi xem với.", "s": 87.0},
-    {"e": 90.83, "en": "There you are.", "vi": "Ðây này.", "s": 88.82},
+    {"e": 90.83, "en": "There you are.", "vi": "Đây này.", "s": 88.82},
     {"e": 95.42, "en": "Who's that?", "vi": "Ai kia?", "s": 90.83},
-    {"e": 97.25, "en": "It's my daughter.", "vi": "Ðó là con gái tôi.", "s": 95.42},
+    {"e": 97.25, "en": "It's my daughter.", "vi": "Đó là con gái tôi.", "s": 95.42},
     {"e": 98.44, "en": "Who's this?", "vi": "Ai đây?", "s": 97.25},
     {"e": 101.04, "en": "It's my son.", "vi": "Nó là con trai tôi.", "s": 98.44},
     {"e": 102.74, "en": "And that?", "vi": "Và kia là ai?", "s": 101.04},
     {"e": 106.37, "en": "She's my aunt.", "vi": "Bà ấy là dì tôi.", "s": 102.74},
-    {"e": 108.54, "en": "Who's this?", "vi": "Ðây là ai?", "s": 106.37},
-    {"e": 112.82, "en": "That's my grandmother.", "vi": "Ðó là bà tôi.", "s": 108.54},
+    {"e": 108.54, "en": "Who's this?", "vi": "Đây là ai?", "s": 106.37},
+    {"e": 112.82, "en": "That's my grandmother.", "vi": "Đó là bà tôi.", "s": 108.54},
     {"e": 129.55, "en": "...", "vi": "...", "s": 112.82},
     {
       "e": 133.13,
@@ -120,7 +120,7 @@
     {
       "e": 153.96,
       "en": "That is her father and that's her mother.",
-      "vi": "Ðó là cha cô ấy và kia là mẹ cô ấy.",
+      "vi": "Đó là cha cô ấy và kia là mẹ cô ấy.",
       "s": 149.73
     },
     {"e": 157.18, "en": "Is that her sister?", "vi": "Có phải đó là chị cô ấy không?", "s": 153.96},
@@ -156,7 +156,7 @@
     {
       "e": 193.82,
       "en": "That's my uncle. They're his kids.",
-      "vi": "Ðó là chú tôi. Họ là con của chú ấy.",
+      "vi": "Đó là chú tôi. Họ là con của chú ấy.",
       "s": 190.82
     },
     {"e": 196.78, "en": "Is that your aunt?", "vi": "Kia là cô của anh phải không?", "s": 193.82},
@@ -191,7 +191,7 @@
     {
       "e": 222.31,
       "en": "OK, OK, I'm hurrying up.",
-      "vi": "Ðược rồi, được rồi, em đang nhanh đây.",
+      "vi": "Được rồi, được rồi, em đang nhanh đây.",
       "s": 218.89
     },
     {
@@ -323,14 +323,14 @@
     {
       "e": 332.8,
       "en": "That's my father and that's my mother.",
-      "vi": "Ðó là cha tôi và kia là mẹ tôi.",
+      "vi": "Đó là cha tôi và kia là mẹ tôi.",
       "s": 329.31
     },
     {"e": 336.4, "en": "Is this your uncle?", "vi": "Có phải đây là cậu của anh không?", "s": 332.8},
     {
       "e": 339.99,
       "en": "No, that's my grandfather.",
-      "vi": "Không, không phải. Ðó là ông tôi.",
+      "vi": "Không, không phải. Đó là ông tôi.",
       "s": 336.4
     },
     {
@@ -372,7 +372,7 @@
       "vi": "Tôi có thể xem hình đám cưới của chị anh không?",
       "s": 438.81
     },
-    {"e": 453.94, "en": "Sure.", "vi": "Ðược chứ!", "s": 446.96},
+    {"e": 453.94, "en": "Sure.", "vi": "Được chứ!", "s": 446.96},
     {
       "e": 457.03,
       "en": "So that's your sister. What's her name?",
@@ -389,7 +389,7 @@
     {
       "e": 468.51,
       "en": "Alam's family. That's his father. That's his uncle.",
-      "vi": "Gia đình của anh Alan. Ðó là cha của anh ấy. Kia là chú của anh ấy.",
+      "vi": "Gia đình của anh Alan. Đó là cha của anh ấy. Kia là chú của anh ấy.",
       "s": 462.96
     },
     {
@@ -411,7 +411,7 @@
     {
       "e": 488.98,
       "en": "That's my new baby brother.",
-      "vi": "Ðó là đứa em trai mới sinh của tôi.",
+      "vi": "Đó là đứa em trai mới sinh của tôi.",
       "s": 486.24
     },
     {"e": 491.35, "en": "Who is that?", "vi": "Kia là ai?", "s": 488.98},
@@ -450,7 +450,7 @@
     {
       "e": 531.27,
       "en": "It sure is. Do you know who this is?",
-      "vi": "Ðúng vậy. Anh có biết đây là ai không?",
+      "vi": "Đúng vậy. Anh có biết đây là ai không?",
       "s": 528.12
     },
     {"e": 533.48, "en": "Is it your grandma?", "vi": "Có phải bà của chị không?", "s": 531.27},
@@ -460,8 +460,8 @@
       "vi": "Không phải, đó là cô của tôi. Theo anh thì đây là ai?",
       "s": 533.48
     },
-    {"e": 540.41, "en": "It's your uncle.", "vi": "Ðó là chú của chị.", "s": 538.35},
-    {"e": 542.48, "en": "Right.", "vi": "Ðúng rồi.", "s": 540.41},
+    {"e": 540.41, "en": "It's your uncle.", "vi": "Đó là chú của chị.", "s": 538.35},
+    {"e": 542.48, "en": "Right.", "vi": "Đúng rồi.", "s": 540.41},
     {"e": 543.6, "en": "Who are they?", "vi": "Họ là ai vậy?", "s": 542.48},
     {"e": 545.02, "en": "They are my cousins.", "vi": "Họ là anh chị em họ của tôi.", "s": 543.6},
     {"e": 546.82, "en": "Where's your grandma?", "vi": "Bà của chị đâu?", "s": 545.02},
@@ -506,7 +506,7 @@
     {
       "e": 576.87,
       "en": "Here are some more examples for you.",
-      "vi": "Ðây là một số ví dụ nữa cho bạn.",
+      "vi": "Đây là một số ví dụ nữa cho bạn.",
       "s": 573.89
     },
     {"e": 579.25, "en": "...", "vi": "...", "s": 576.87},

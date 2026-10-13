@@ -43,7 +43,7 @@
       {
         "k": "ex",
         "t": "you live in London, don't you?",
-        "vi": "Anh sống ở Luân Ðôn, có phải không?"
+        "vi": "Anh sống ở Luân Đôn, có phải không?"
       },
       {
         "k": "ex",
@@ -207,7 +207,7 @@
       {
         "k": "ex",
         "t": "she did economics at Sheffield University",
-        "vi": "cô ấy học kinh tế ở Ðại học Sheffield"
+        "vi": "cô ấy học kinh tế ở Đại học Sheffield"
       },
       {"k": "m", "t": "tìm lời đáp (cho cái gì), giải đáp"},
       {"k": "ex", "t": "I can't do this sum", "vi": "tôi thể giải bài tính cộng này"},
@@ -296,7 +296,7 @@
       {
         "k": "ex",
         "t": "we did the journey from London to Oxford in an hour",
-        "vi": "chúng tôi đi từ Luân Ðôn đến Oxford hết một giờ"
+        "vi": "chúng tôi đi từ Luân Đôn đến Oxford hết một giờ"
       },
       {"k": "m", "t": "đi, chạy, đạt (một tốc độ)"},
       {
@@ -323,7 +323,7 @@
       {
         "k": "ex",
         "t": "Can you lend me some money? - Certainly - will 100 dollars do?",
-        "vi": "Anh cho tôi mượn ít tiền được không?-Ðược chứ, 100 đôla đủ không?"
+        "vi": "Anh cho tôi mượn ít tiền được không?-Được chứ, 100 đôla đủ không?"
       },
       {
         "k": "ex",
@@ -668,7 +668,7 @@
       {
         "k": "ex",
         "t": "He simply had to get to the airport on time. It was a case of do or die:",
-        "vi": "Nó chỉ còn cách phải ra sân bay đúng giờ thôi. Ðó là trường dứt khoát làm hay là chết."
+        "vi": "Nó chỉ còn cách phải ra sân bay đúng giờ thôi. Đó là trường dứt khoát làm hay là chết."
       }
     ],
     "k": "do or die"
@@ -780,7 +780,7 @@
       {
         "k": "ex",
         "t": "Well, Bill really did himself proud in the horse race:",
-        "vi": "Ðược Bill thực sự đã tự làm cho mình hãnh diện trong cuộc đua ngựa."
+        "vi": "Được Bill thực sự đã tự làm cho mình hãnh diện trong cuộc đua ngựa."
       },
       {
         "k": "ex",
@@ -881,7 +881,7 @@
       {
         "k": "ex",
         "t": "Push it just a little more to the left. There, that does the trick:",
-        "vi": "Chỉ cần đẩy thêm chút xíu nữa về bên trái. Ðó, đúng rồi."
+        "vi": "Chỉ cần đẩy thêm chút xíu nữa về bên trái. Đó, đúng rồi."
       },
       {
         "k": "ex",
@@ -1833,7 +1833,7 @@
   },
   {
     "h": "Dockyard Department",
-    "segs": [{"k": "m", "t": "Vụ các Xưởng Ðóng Tàu và ụ Tàu."}],
+    "segs": [{"k": "m", "t": "Vụ các Xưởng Đóng Tàu và ụ Tàu."}],
     "k": "dockyard department"
   },
   {
@@ -2217,7 +2217,7 @@
   {
     "h": "doctrine of probation",
     "segs": [
-      {"k": "m", "t": "thuyết thử thách (Ðức Kitô được tôn vinh vì đã vượt thắng cuộc thử thách)."}
+      {"k": "m", "t": "thuyết thử thách (Đức Kitô được tôn vinh vì đã vượt thắng cuộc thử thách)."}
     ],
     "k": "doctrine of probation"
   },
@@ -3746,7 +3746,7 @@
       {"k": "m", "t": "kẻ cắn cẩu cục cằn"},
       {"k": "m", "t": "gã, thằng cha"},
       {"k": "ex", "t": "a sly dog", "vi": "thằng cha ma giáo, thằng cha ranh ma"},
-      {"k": "ex", "t": "Greater Dog", "vi": "(thiên) chòm sao Ðại thiên lang"},
+      {"k": "ex", "t": "Greater Dog", "vi": "(thiên) chòm sao Đại thiên lang"},
       {"k": "ex", "t": "Lesser Dog", "vi": "chòm sao Tiểu thiên lang"},
       {"k": "m", "t": "(số nhiều) vỉ lò ở lò sưởi ((cũng)"},
       {"k": "ex", "t": "fire dogs", "vi": ") (kỹ thuật) móng kìm, cặp, móc ngoạm, gàu ngoạm"},
@@ -4195,7 +4195,7 @@
       {
         "k": "ex",
         "t": "Universities are not quiet peaceful places. It's dog-eat-dog to get a promotion:",
-        "vi": "Các trường đại học không phải là những nơi bình yên im lặng. Ðó là nơi có những cuộc ganh đua không khoan nhượng để được thăng tiến."
+        "vi": "Các trường đại học không phải là những nơi bình yên im lặng. Đó là nơi có những cuộc ganh đua không khoan nhượng để được thăng tiến."
       }
     ],
     "k": "dog-eat-dog"
@@ -4495,7 +4495,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "quả sơn thù du"},
-      {"k": "m", "t": "Ðốc-be-ri (công chức dốt nhưng tự cao tự đại)."}
+      {"k": "m", "t": "Đốc-be-ri (công chức dốt nhưng tự cao tự đại)."}
     ],
     "ipa": "'dɔgberi",
     "k": "dogberry"
@@ -4549,7 +4549,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ban lãnh đạo có chức vụ cao nhất ở Venice, Genoa và Amalfi từ thế kỷ 7 đến thế kỷ 18. Ban đầu, tổ chức này được thành lập ở Venice. Năm 1032, họ ban hành thêm một số luật hạn chế quyền bầu cử để bảo vệ quyền hành. Mặc dù không được bầu chọn, nhưng đã có rất nhiều ứng cử viên được công chúng đánh giá cao ở thế kỷ 9 và 10, kể cả Tiepolo và Dandolo ở thế kỷ 13, 14. Cuối cùng chính quyền này cũng bị Napoleon đánh đổ vào năm 1797. Sau năm 1339, người Genoa lại tiếp tục hình thành thể chế tương tự. Ðến năm 1515, nền dân chủ được hình thành nhưng tập trung chủ yếu là thành phần quí tộc và rồi cuối cùng cũng rơi vào tay Napoleon. Cung điện đầu tiên của Doge ở Venice được xây dựng năm 814 và bị phá hủy năm 976. Các tay buôn ở Venice và Genoa đều là những thương gia giàu có. Ðến thế kỷ 14, cung điện ở Venice được trùng tu bởi hai nghệ nhân Tintoretto và Titian."
+        "t": "ban lãnh đạo có chức vụ cao nhất ở Venice, Genoa và Amalfi từ thế kỷ 7 đến thế kỷ 18. Ban đầu, tổ chức này được thành lập ở Venice. Năm 1032, họ ban hành thêm một số luật hạn chế quyền bầu cử để bảo vệ quyền hành. Mặc dù không được bầu chọn, nhưng đã có rất nhiều ứng cử viên được công chúng đánh giá cao ở thế kỷ 9 và 10, kể cả Tiepolo và Dandolo ở thế kỷ 13, 14. Cuối cùng chính quyền này cũng bị Napoleon đánh đổ vào năm 1797. Sau năm 1339, người Genoa lại tiếp tục hình thành thể chế tương tự. Đến năm 1515, nền dân chủ được hình thành nhưng tập trung chủ yếu là thành phần quí tộc và rồi cuối cùng cũng rơi vào tay Napoleon. Cung điện đầu tiên của Doge ở Venice được xây dựng năm 814 và bị phá hủy năm 976. Các tay buôn ở Venice và Genoa đều là những thương gia giàu có. Đến thế kỷ 14, cung điện ở Venice được trùng tu bởi hai nghệ nhân Tintoretto và Titian."
       }
     ],
     "k": "doge"
@@ -4884,7 +4884,7 @@
       {
         "k": "ex",
         "t": "you can't be dogmatic in matters of taste",
-        "vi": "Ðối với vấn đề sở thích, anh không thể võ đoán được."
+        "vi": "Đối với vấn đề sở thích, anh không thể võ đoán được."
       }
     ],
     "ipa": "dɔg'mætik",
@@ -5210,7 +5210,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(âm nhạc) nốt đầu tiên và nốt thứ tám của gam trưởng"},
       {"k": "m", "t": "chủ âm"},
-      {"k": "m", "t": "nốt Ðô."}
+      {"k": "m", "t": "nốt Đô."}
     ],
     "ipa": "dou",
     "k": "doh"
@@ -5740,7 +5740,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngoại giao đô la) Ðây là từ dùng để mô tả chính sách ngoại giao lệ thuộc vào lợi tức kinh doanh đô la của Mỹ. Ðầu tiên là tổng thống Taft áp dụng chính sách này. Chính phủ trung ương các nước giàu đem đô la cho vay, nhưng có sự bảo đảm của chính phủ nước muốn vay. Nước vay tiền phải để nước cho vay được đầu tư các công trình. Chẳng hạn như công trình xây dựng đường tàu hỏa ở Trung Quốc sau năm 1909. Chính sách này trải rộng đến Haiti, Honduras, Nicaragua. Cho dù tổng thống Woodrow Wilson đã bãi bỏ chính sách này, nhưng nó vẫn tồn tại ở Châu Mỹ La Tinh."
+        "t": "(ngoại giao đô la) Đây là từ dùng để mô tả chính sách ngoại giao lệ thuộc vào lợi tức kinh doanh đô la của Mỹ. Đầu tiên là tổng thống Taft áp dụng chính sách này. Chính phủ trung ương các nước giàu đem đô la cho vay, nhưng có sự bảo đảm của chính phủ nước muốn vay. Nước vay tiền phải để nước cho vay được đầu tư các công trình. Chẳng hạn như công trình xây dựng đường tàu hỏa ở Trung Quốc sau năm 1909. Chính sách này trải rộng đến Haiti, Honduras, Nicaragua. Cho dù tổng thống Woodrow Wilson đã bãi bỏ chính sách này, nhưng nó vẫn tồn tại ở Châu Mỹ La Tinh."
       }
     ],
     "k": "dollar diplomacy"
@@ -6089,7 +6089,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "(snh-s) hoặc dolmades [-ˈma:ðez] món ăn của người Ðông Âu (thịt, đã trộn gia vị cuốn trong những lá nho hay lá cải bắp)."
+        "t": "(snh-s) hoặc dolmades [-ˈma:ðez] món ăn của người Đông Âu (thịt, đã trộn gia vị cuốn trong những lá nho hay lá cải bắp)."
       }
     ],
     "ipa": "dɔlmə",
@@ -6133,7 +6133,7 @@
     "ipa": "'dɔlmen",
     "k": "dolmen"
   },
-  {"h": "Dolo(u)r", "segs": [{"k": "m", "t": "Ðau buồn/thương."}], "k": "dolo(u)r"},
+  {"h": "Dolo(u)r", "segs": [{"k": "m", "t": "Đau buồn/thương."}], "k": "dolo(u)r"},
   {
     "h": "dolomite",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(khoáng chất) đô-lô-mít."}],
@@ -6238,7 +6238,7 @@
     "k": "dolor"
   },
   {"h": "dolor capitis", "segs": [{"k": "m", "t": "(chứng) đau đầu."}], "k": "dolor capitis"},
-  {"h": "dolor coxae", "segs": [{"k": "m", "t": "Ðau dây thần kinh hông."}], "k": "dolor coxae"},
+  {"h": "dolor coxae", "segs": [{"k": "m", "t": "Đau dây thần kinh hông."}], "k": "dolor coxae"},
   {"h": "dolorasus", "segs": [{"k": "m", "t": "triệu chứng đau dữ dội."}], "k": "dolorasus"},
   {"h": "dolorific", "segs": [{"k": "m", "t": "Gây đau."}], "k": "dolorific"},
   {
@@ -6867,7 +6867,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) dụng cụ dùng trong nhà. domestic bliss (dt). Ðời sống gia đình ấm cúng, đời sống hạnh phúc gia đình."
+        "t": "(dt) dụng cụ dùng trong nhà. domestic bliss (dt). Đời sống gia đình ấm cúng, đời sống hạnh phúc gia đình."
       }
     ],
     "k": "domestic appliance"
@@ -7151,7 +7151,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đầu tư trong nước. Bỏ vốn vào sản xuất, kinh doanh tại Việt Nam của tổ chức, cá nhân (là công dân Việt Nam, người Việt Nam định cư ở nước ngoài, người nước ngoài cư trú lâu dài ở Việt Nam) (Ðiều 2 Luật khuyến khích đầu tư trong nước, ngày 22-6-1994)."
+        "t": "đầu tư trong nước. Bỏ vốn vào sản xuất, kinh doanh tại Việt Nam của tổ chức, cá nhân (là công dân Việt Nam, người Việt Nam định cư ở nước ngoài, người nước ngoài cư trú lâu dài ở Việt Nam) (Điều 2 Luật khuyến khích đầu tư trong nước, ngày 22-6-1994)."
       }
     ],
     "k": "domestic investmert"
@@ -7950,7 +7950,7 @@
     "segs": [{"k": "m", "t": "phương thức chủ đạo, phương thức cơ bản."}],
     "k": "dominant mode"
   },
-  {"h": "dominant mutation", "segs": [{"k": "m", "t": "Ðột biến trội."}], "k": "dominant mutation"},
+  {"h": "dominant mutation", "segs": [{"k": "m", "t": "Đột biến trội."}], "k": "dominant mutation"},
   {
     "h": "dominant receptaculum",
     "segs": [{"k": "m", "t": "Thụ thể ưu thế."}],
@@ -8160,7 +8160,7 @@
     "k": "domineeringness"
   },
   {"h": "doming", "segs": [{"k": "m", "t": "sự tạo vòm."}], "k": "doming"},
-  {"h": "Dominic", "segs": [{"k": "m", "t": "Ða minh."}], "k": "dominic"},
+  {"h": "Dominic", "segs": [{"k": "m", "t": "Đa minh."}], "k": "dominic"},
   {
     "h": "Dominica",
     "segs": [
@@ -8206,7 +8206,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ông là thành viên của dòng \"Sư huynh\". Năm 1216, dòng tu được sáng lập bởi thánh Dominic và được Ðức Giáo Hoàng chấp nhận. Họ được quản lý bởi một \"Sư huynh trưởng\". Mỗi tu sĩ thường mặc một áo dài trắng bên trong. Bên ngoài khoác áo dài màu đen. Vì thế dân chúng gọi họ là \"Tu sĩ áo đen\". Mỗi tu sĩ là một thầy dòng hoặc là một người đi khất thực cho dòng tu. Thầy dòng rất tận tâm đi giảng đạo trên khắp thế giới, chứ không chịu ép mình trong bốn bức tường của nhà dòng. Dòng tu này có cơ quan nghiên cứu tên là \"Studia Generalia\" (Nghiên cứu tổng quát). Dòng tu thâu phục được một số lớn tín đồ (thế kỷ thứ 13). Ðức Giáo hoàng dùng dòng tu Dominican để giảng về \"Thập tự chinh\" và là cơ quan thẩm tra. Về sau, dòng tu này bị giảm sút ảnh hưởng, do có nhiều dòng tu khác nổi lên."
+        "t": "Ông là thành viên của dòng \"Sư huynh\". Năm 1216, dòng tu được sáng lập bởi thánh Dominic và được Đức Giáo Hoàng chấp nhận. Họ được quản lý bởi một \"Sư huynh trưởng\". Mỗi tu sĩ thường mặc một áo dài trắng bên trong. Bên ngoài khoác áo dài màu đen. Vì thế dân chúng gọi họ là \"Tu sĩ áo đen\". Mỗi tu sĩ là một thầy dòng hoặc là một người đi khất thực cho dòng tu. Thầy dòng rất tận tâm đi giảng đạo trên khắp thế giới, chứ không chịu ép mình trong bốn bức tường của nhà dòng. Dòng tu này có cơ quan nghiên cứu tên là \"Studia Generalia\" (Nghiên cứu tổng quát). Dòng tu thâu phục được một số lớn tín đồ (thế kỷ thứ 13). Đức Giáo hoàng dùng dòng tu Dominican để giảng về \"Thập tự chinh\" và là cơ quan thẩm tra. Về sau, dòng tu này bị giảm sút ảnh hưởng, do có nhiều dòng tu khác nổi lên."
       }
     ],
     "k": "dominican",
@@ -8217,7 +8217,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nước cộng hòa Ðô Mi Nich. Quốc gia này nằm ở vùng biển Ca Ri Bê, bao gồm một phần phía Ðông của đảo Hispaniola."
+        "t": "nước cộng hòa Đô Mi Nich. Quốc gia này nằm ở vùng biển Ca Ri Bê, bao gồm một phần phía Đông của đảo Hispaniola."
       },
       {
         "k": "m",
@@ -8242,7 +8242,7 @@
     ],
     "k": "dominican republic"
   },
-  {"h": "Dominicans", "segs": [{"k": "m", "t": "Tu sĩ Dòng Ða minh."}], "k": "dominicans"},
+  {"h": "Dominicans", "segs": [{"k": "m", "t": "Tu sĩ Dòng Đa minh."}], "k": "dominicans"},
   {
     "h": "dominie",
     "segs": [
@@ -8264,7 +8264,7 @@
       {"k": "m", "t": "thống trị... đặt... dưới quyền, bắt... phải lệ thuộc"},
       {"k": "m", "t": "lãnh địa (phong kiến)"},
       {"k": "m", "t": "thuộc địa, lãnh thổ tự trị trong Khối liên hiệp Anh"},
-      {"k": "ex", "t": "the Portuguese dominions", "vi": "những thuộc địa Bồ Ðào Nha"},
+      {"k": "ex", "t": "the Portuguese dominions", "vi": "những thuộc địa Bồ Đào Nha"},
       {"k": "ex", "t": "Dominion of Canada", "vi": "nước tự trị Canađa (tự trị từ sau 1867)"},
       {"k": "m", "t": "(pháp lý) quyền chiếm hữu."}
     ],
@@ -8351,7 +8351,7 @@
       {"k": "m", "t": "game: a game played using dominoes (takes a singular verb)"}
     ],
     "k": "dominoes",
-    "q": {"vi": "cờ Ðô-Mi-Nô", "ipa": "'dɔminouz", "rs": "dó mì nồ z"}
+    "q": {"vi": "cờ Đô-Mi-Nô", "ipa": "'dɔminouz", "rs": "dó mì nồ z"}
   },
   {
     "h": "dominus",
@@ -8404,8 +8404,8 @@
     "h": "don",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Ðông (tước hiệu Tây Ban Nha)"},
-      {"k": "ex", "t": "Don Quixote", "vi": "Ðông-Ky-sốt"},
+      {"k": "m", "t": "Đông (tước hiệu Tây Ban Nha)"},
+      {"k": "ex", "t": "Don Quixote", "vi": "Đông-Ky-sốt"},
       {"k": "m", "t": "người quý tộc Tây Ban Nha"},
       {"k": "m", "t": "người Tây Ban Nha"},
       {"k": "m", "t": "người ưu tú, người lỗi lạc (về một cái gì)"},
@@ -8600,7 +8600,7 @@
   },
   {
     "h": "Donatism",
-    "segs": [{"k": "m", "t": "Phái ly khai Ðônatô (Bắc Phi, tk 4-8)."}],
+    "segs": [{"k": "m", "t": "Phái ly khai Đônatô (Bắc Phi, tk 4-8)."}],
     "k": "donatism"
   },
   {
@@ -8993,7 +8993,7 @@
     "h": "donna",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "phụ nữ quý tộc (Y', Tây Ban Nha, Bồ Ðào Nha)."}
+      {"k": "m", "t": "phụ nữ quý tộc (Y', Tây Ban Nha, Bồ Đào Nha)."}
     ],
     "ipa": "'dɔnə",
     "k": "donna"
@@ -10637,7 +10637,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tt) (dopier, dopiest): (lóng) 1. Mơ mơ màng màng, phê phê, tê mê, thẫn thờ, đờ đẫn. 2. (xấu) Ðần độn, trì độn."
+        "t": "(tt) (dopier, dopiest): (lóng) 1. Mơ mơ màng màng, phê phê, tê mê, thẫn thờ, đờ đẫn. 2. (xấu) Đần độn, trì độn."
       }
     ],
     "ipa": "ɛdʊpi",
@@ -10732,7 +10732,7 @@
   },
   {
     "h": "Doppler effect",
-    "segs": [{"k": "m", "t": "(kỹ thuật) hiệu ứng Ðốp-lơ."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) hiệu ứng Đốp-lơ."}],
     "k": "doppler effect"
   },
   {
@@ -10763,7 +10763,7 @@
   {"h": "Doppler method", "segs": [{"k": "m", "t": "phương pháp Doppler."}], "k": "doppler method"},
   {
     "h": "Doppler modulation",
-    "segs": [{"k": "m", "t": "(kỹ thuật) biến điệu Ðốp-lơ, biến điệu do hiệu ứng Ðốp-lơ."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) biến điệu Đốp-lơ, biến điệu do hiệu ứng Đốp-lơ."}],
     "k": "doppler modulation"
   },
   {
@@ -10771,15 +10771,15 @@
     "segs": [{"k": "m", "t": "sự đạo hàng bằng hệ Doppler."}],
     "k": "doppler navigaion"
   },
-  {"h": "Doppler radar", "segs": [{"k": "m", "t": "ra-đa Ðốp-lơ."}], "k": "doppler radar"},
+  {"h": "Doppler radar", "segs": [{"k": "m", "t": "ra-đa Đốp-lơ."}], "k": "doppler radar"},
   {
     "h": "Doppler radar system",
-    "segs": [{"k": "m", "t": "(kỹ thuật) hệ thống ra-đa Ðốp-lơ."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) hệ thống ra-đa Đốp-lơ."}],
     "k": "doppler radar system"
   },
   {
     "h": "Doppler shift",
-    "segs": [{"k": "m", "t": "(sự) dịch chuyển Ðốp-lơ."}],
+    "segs": [{"k": "m", "t": "(sự) dịch chuyển Đốp-lơ."}],
     "k": "doppler shift"
   },
   {
@@ -10815,7 +10815,7 @@
   },
   {
     "h": "Doppler velocity",
-    "segs": [{"k": "m", "t": "(kỹ thuật) vận tốc Ðốp-lơ."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) vận tốc Đốp-lơ."}],
     "k": "doppler velocity"
   },
   {
@@ -10948,9 +10948,9 @@
     "h": "dorian",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người Ðorian (thuộc cổ Hy Lạp)"},
+      {"k": "m", "t": "người Đorian (thuộc cổ Hy Lạp)"},
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "thuộc người Ðorian."}
+      {"k": "m", "t": "thuộc người Đorian."}
     ],
     "ipa": "'dɔ:riən",
     "k": "dorian"
@@ -10978,8 +10978,8 @@
     "ipa": "'dɔrik",
     "k": "doric"
   },
-  {"h": "Doric entablature", "segs": [{"k": "m", "t": "mũ cột Ðôríc."}], "k": "doric entablature"},
-  {"h": "Doric order", "segs": [{"k": "m", "t": "thức Ðôríc."}], "k": "doric order"},
+  {"h": "Doric entablature", "segs": [{"k": "m", "t": "mũ cột Đôríc."}], "k": "doric entablature"},
+  {"h": "Doric order", "segs": [{"k": "m", "t": "thức Đôríc."}], "k": "doric order"},
   {
     "h": "dork",
     "segs": [
@@ -11210,7 +11210,7 @@
   },
   {
     "h": "dormition",
-    "segs": [{"k": "m", "t": "dt. cái chết của Ðức mẹ đồng trinh."}],
+    "segs": [{"k": "m", "t": "dt. cái chết của Đức mẹ đồng trinh."}],
     "k": "dormition"
   },
   {
@@ -11425,7 +11425,7 @@
   },
   {
     "h": "dorsal interosseous artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch gian cốt sau."}],
+    "segs": [{"k": "m", "t": "Động mạch gian cốt sau."}],
     "k": "dorsal interosseous artery"
   },
   {
@@ -11451,7 +11451,7 @@
   },
   {
     "h": "dorsal metacarpal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch gian cốt mu bàn chân."}],
+    "segs": [{"k": "m", "t": "Động mạch gian cốt mu bàn chân."}],
     "k": "dorsal metacarpal artery"
   },
   {
@@ -11474,7 +11474,7 @@
     "segs": [{"k": "m", "t": "Tĩnh mạch xương đốt mu bàn chân."}],
     "k": "dorsal metatarsal vein"
   },
-  {"h": "dorsal point", "segs": [{"k": "m", "t": "Ðiềm lưng."}], "k": "dorsal point"},
+  {"h": "dorsal point", "segs": [{"k": "m", "t": "Điềm lưng."}], "k": "dorsal point"},
   {"h": "dorsal position", "segs": [{"k": "m", "t": "Tư thế nằm ngửa."}], "k": "dorsal position"},
   {
     "h": "dorsal radiocarpal ligament",
@@ -11499,7 +11499,7 @@
   },
   {
     "h": "dorsal scapular artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch vai sau."}],
+    "segs": [{"k": "m", "t": "Động mạch vai sau."}],
     "k": "dorsal scapular artery"
   },
   {
@@ -11596,7 +11596,7 @@
     "ipa": "'dɔ:si,greid",
     "k": "dorsigrade"
   },
-  {"h": "dorsimeson", "segs": [{"k": "m", "t": "Ðường giữa chiều dài lưng."}], "k": "dorsimeson"},
+  {"h": "dorsimeson", "segs": [{"k": "m", "t": "Đường giữa chiều dài lưng."}], "k": "dorsimeson"},
   {
     "h": "dorsispinal",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "thuộc lưng tủy sống."}],
@@ -12507,7 +12507,7 @@
     ],
     "k": "dotlike"
   },
-  {"h": "Dotric order", "segs": [{"k": "m", "t": "thức Ðôric."}], "k": "dotric order"},
+  {"h": "Dotric order", "segs": [{"k": "m", "t": "thức Đôric."}], "k": "dotric order"},
   {
     "h": "dots per inch",
     "segs": [{"k": "m", "t": "(dpi) số điểm trên mỗi inch."}],
@@ -12886,7 +12886,7 @@
   },
   {
     "h": "double 'agent",
-    "segs": [{"k": "m", "t": "(dt) Ðiệp viên là cho hai phe, gián điệp đôi."}],
+    "segs": [{"k": "m", "t": "(dt) Điệp viên là cho hai phe, gián điệp đôi."}],
     "k": "double 'agent"
   },
   {
@@ -14300,7 +14300,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bảo hiểm trùng. Khi một tài sản được mua bảo hiểm hai hoặc nhiều lần cho cùng một lợi ích bảo hiểm và rủi ro thì gọi là bảo hiểm trùng. Ví dụ: một người mua nhận được điện của người bán báo hàng đã được gửi đi nhưng, qua bức điện, không thể biết được rằng người bán đã mua bảo hiểm cho mình hay chưa, cho nên đương nhiên đi ký hợp đồng bảo hiểm. Ðến khi chứng từ giao hàng đến nơi, người mua mới phát hiện thấy người bán đã mua bảo hiểm cho người mua. Trường hợp này gọi là bảo hiểm trùng. Cần lưu ý: có trường hợp mua nhiều lần bảo hiểm cho một món hàng mà vẫn không phải là bảo hiểm trùng khi các lần bảo hiểm đó được mua cho những quyền lợi khác nhau. Ví dụ: trong trường hợp bán hàng trả tiền sau, theo điều kiện FOB, người mua đương nhiên mua bảo hiểm cho mình, còn người bán có thể vì lo không thu được tiền hàng cho nên mua riêng bảo hiểm vì lợi ích của bản thân mình. Như vậy, hai hợp đồng bảo hiểm đó bảo hiểm cho hai quyền lợi riêng biệt. Nếu bảo hiểm trùng tại cùng một hãng bảo hiểm thì có thể hủy một hợp đồng nhưng nếu bảo hiểm tại hai hãng khác nhau thì sẽ giải quyết bằng cách là mỗi hãng bảo hiểm 1/2. Nếu xảy ra tổn thất thì chủ hàng có thể đòi một hãng bồi thường toàn bộ hoặc đòi mỗi hãng bồi thường 1/2. Nếu đòi toàn bộ ở một hãng thì chủ hãng phải ủy quyền cho hãng này đòi lại hãng kia 1/2."
+        "t": "bảo hiểm trùng. Khi một tài sản được mua bảo hiểm hai hoặc nhiều lần cho cùng một lợi ích bảo hiểm và rủi ro thì gọi là bảo hiểm trùng. Ví dụ: một người mua nhận được điện của người bán báo hàng đã được gửi đi nhưng, qua bức điện, không thể biết được rằng người bán đã mua bảo hiểm cho mình hay chưa, cho nên đương nhiên đi ký hợp đồng bảo hiểm. Đến khi chứng từ giao hàng đến nơi, người mua mới phát hiện thấy người bán đã mua bảo hiểm cho người mua. Trường hợp này gọi là bảo hiểm trùng. Cần lưu ý: có trường hợp mua nhiều lần bảo hiểm cho một món hàng mà vẫn không phải là bảo hiểm trùng khi các lần bảo hiểm đó được mua cho những quyền lợi khác nhau. Ví dụ: trong trường hợp bán hàng trả tiền sau, theo điều kiện FOB, người mua đương nhiên mua bảo hiểm cho mình, còn người bán có thể vì lo không thu được tiền hàng cho nên mua riêng bảo hiểm vì lợi ích của bản thân mình. Như vậy, hai hợp đồng bảo hiểm đó bảo hiểm cho hai quyền lợi riêng biệt. Nếu bảo hiểm trùng tại cùng một hãng bảo hiểm thì có thể hủy một hợp đồng nhưng nếu bảo hiểm tại hai hãng khác nhau thì sẽ giải quyết bằng cách là mỗi hãng bảo hiểm 1/2. Nếu xảy ra tổn thất thì chủ hàng có thể đòi một hãng bồi thường toàn bộ hoặc đòi mỗi hãng bồi thường 1/2. Nếu đòi toàn bộ ở một hãng thì chủ hãng phải ủy quyền cho hãng này đòi lại hãng kia 1/2."
       }
     ],
     "k": "double insurance"
@@ -15212,7 +15212,7 @@
   },
   {
     "h": "double superheterodyne",
-    "segs": [{"k": "m", "t": "(kỹ thuật) đổi tần hai tần, siêu ngoại sai song biến tần (ÐL)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) đổi tần hai tần, siêu ngoại sai song biến tần (ĐL)."}],
     "k": "double superheterodyne"
   },
   {
@@ -19566,7 +19566,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "chỉ số trung bình Ðao Giôn (Dow Jones là nhà thống kê học Mỹ 1920, chỉ số giá trị tương đối các chứng khoán dựa trên giá cả trung bình hàng ngày một số hàng được chọn)."
+        "t": "chỉ số trung bình Đao Giôn (Dow Jones là nhà thống kê học Mỹ 1920, chỉ số giá trị tương đối các chứng khoán dựa trên giá cả trung bình hàng ngày một số hàng được chọn)."
       }
     ],
     "ipa": "'dau dʒounz'ævəridʒ",
@@ -19574,14 +19574,14 @@
   },
   {
     "h": "dow jones index",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chỉ số Ðao Giôn."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chỉ số Đao Giôn."}],
     "ipa": "'dau dʒouz 'indeks",
     "k": "dow jones index"
   },
   {"h": "Dow theory", "segs": [{"k": "m", "t": "luận thuyết Dow."}], "k": "dow theory"},
   {
     "h": "Dow-Jones Industrial",
-    "segs": [{"k": "m", "t": "chỉ số công nghiệp Ðao Giôn."}],
+    "segs": [{"k": "m", "t": "chỉ số công nghiệp Đao Giôn."}],
     "k": "dow-jones industrial"
   },
   {
@@ -19906,7 +19906,7 @@
       {"k": "ex", "t": "to go down to the country", "vi": "về miền quê"},
       {"k": "ex", "t": "to live somewhere down in", "vi": "Bacthai"},
       {"k": "m", "t": "ở đâu đây trên Bắc Thái"},
-      {"k": "ex", "t": "to go down to Brighton", "vi": "về Brai-tơn (ở Luân Ðôn về)"},
+      {"k": "ex", "t": "to go down to Brighton", "vi": "về Brai-tơn (ở Luân Đôn về)"},
       {"k": "m", "t": "gục xuống, kiệt sức, ở thế cùng, cùng đường"},
       {"k": "m", "t": "im đi (ngụ ý trấn áp, bắt im, làm kiệt sức, dồn vào thế cùng...)"},
       {"k": "ex", "t": "to hunt down a deer", "vi": "săn đuổi một con hươu đến cùng đường"},
@@ -19964,7 +19964,7 @@
       {
         "k": "ex",
         "t": "down train",
-        "vi": "(ngành đường sắt) chuyến xe xuôi (từ Luân Ðôn hoặc một thủ đô, một thành phố lớn đến)"
+        "vi": "(ngành đường sắt) chuyến xe xuôi (từ Luân Đôn hoặc một thủ đô, một thành phố lớn đến)"
       },
       {"k": "m", "t": "chán nản, nản lòng, thất vọng"},
       {"k": "m", "t": "(Mỹ), (thể dục, thể thao) kém điểm (đối phương)"},
@@ -20085,14 +20085,14 @@
     "h": "down east",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "&pht. vùng Ðông Bắc Mỹ và bờ biển phía Ðông Canađa."}
+      {"k": "m", "t": "&pht. vùng Đông Bắc Mỹ và bờ biển phía Đông Canađa."}
     ],
     "ipa": "'dauni:st",
     "k": "down east"
   },
   {
     "h": "down easting",
-    "segs": [{"k": "m", "t": "từ mũi Hảo Vọng theo phía Ðông tiến về châu Úc (tàu buồm)."}],
+    "segs": [{"k": "m", "t": "từ mũi Hảo Vọng theo phía Đông tiến về châu Úc (tàu buồm)."}],
     "k": "down easting"
   },
   {"h": "down flow", "segs": [{"k": "m", "t": "sự chảy xuôi; dòng xuôi."}], "k": "down flow"},
@@ -20638,7 +20638,7 @@
       {
         "k": "ex",
         "t": "It's good that she's down-to-earth and will give us a frank response:",
-        "vi": "Ðiều hay là cô ấy trung thực và sẽ có những câu trả lời thẳng thắn cho chúng ta."
+        "vi": "Điều hay là cô ấy trung thực và sẽ có những câu trả lời thẳng thắn cho chúng ta."
       },
       {"k": "m", "t": "2. Thực tế, không có tính cách lý thuyết; không kỳ lạ."},
       {
@@ -21009,7 +21009,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "phố Ðao-ninh (ở Luân Ðôn, nơi tập trung các cơ quan trung ương, đặc biệt là phủ thủ tướng Anh)"
+        "t": "phố Đao-ninh (ở Luân Đôn, nơi tập trung các cơ quan trung ương, đặc biệt là phủ thủ tướng Anh)"
       },
       {"k": "m", "t": "(nghĩa bóng) chính phủ Anh"},
       {
@@ -21026,7 +21026,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Bản tuyên ngôn trên phố Dowing) một văn kiện do thủ tướng Anh John Major và thủ tướng cộng hòa Ai Len Albert Reynolds ký ngày 15 tháng 12 năm 1993. Bản tuyên ngôn này ấn định những nguyên tắc và điều kiện theo đuổi các cuộc đàm phán để hoàn tất nền hòa bình cho miền Bắc Ai Len. Bản tuyên ngôn khẳng định sự thỏa hiệp của hai chính phủ. Họ phải xác nhận rằng, họ tìm kiếm sự thỏa thuận của miền Bắc Ai Len và nước cộng hòa Ai Len. Họ không được thay đổi chút gì về thể chế của miền Bắc Ai Len và phải tôn trọng những cam kết hiện tại của Bắc Ai Len. Ða phần dân chúng Bắc Ai Len sẽ tự quyết định tương lại của họ. Họ muốn liên kết với nước cộng hòa Ai Len cũng được, mà nếu họ tách khỏi nước này cũng được. Cả hai cùng thỏa thuận, mặc dù biến cố thế nào cũng không được dùng vũ lực."
+        "t": "(Bản tuyên ngôn trên phố Dowing) một văn kiện do thủ tướng Anh John Major và thủ tướng cộng hòa Ai Len Albert Reynolds ký ngày 15 tháng 12 năm 1993. Bản tuyên ngôn này ấn định những nguyên tắc và điều kiện theo đuổi các cuộc đàm phán để hoàn tất nền hòa bình cho miền Bắc Ai Len. Bản tuyên ngôn khẳng định sự thỏa hiệp của hai chính phủ. Họ phải xác nhận rằng, họ tìm kiếm sự thỏa thuận của miền Bắc Ai Len và nước cộng hòa Ai Len. Họ không được thay đổi chút gì về thể chế của miền Bắc Ai Len và phải tôn trọng những cam kết hiện tại của Bắc Ai Len. Đa phần dân chúng Bắc Ai Len sẽ tự quyết định tương lại của họ. Họ muốn liên kết với nước cộng hòa Ai Len cũng được, mà nếu họ tách khỏi nước này cũng được. Cả hai cùng thỏa thuận, mặc dù biến cố thế nào cũng không được dùng vũ lực."
       }
     ],
     "k": "downing street declaration"
@@ -21120,7 +21120,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cỡ chấm (của màn hình). Kích thước của chấm nhỏ nhất mà một màn hình có thể hiển thị được. Cỡ chấm quyết định độ phân giải cực đại của màn hình. Các loại màn hình có độ phân giải cao có cỡ chấm xấp xỉ 0,31 mm hoặc nhỏ hơn, loại màn hình tốt nhất có cỡ chấm dưới 0,28 mm. Ðể giữ cho chùm tia điện tử không chiếu lệch ra khỏi vùng quy định trên màn hình, các màn hình màu dùng một mặt nạ che (shadow mask)-đó là một tấm kim loại có những lỗ nhỏ. Các lỗ nhỏ này được sắp xếp sao cho tia sáng, tại mỗi thời điểm, chỉ chiếu qua một lỗ, tương ứng với một chấm màn hình. Lỗ trên mặt nạ càng nhỏ thì độ phân giải càng cao."
+        "t": "cỡ chấm (của màn hình). Kích thước của chấm nhỏ nhất mà một màn hình có thể hiển thị được. Cỡ chấm quyết định độ phân giải cực đại của màn hình. Các loại màn hình có độ phân giải cao có cỡ chấm xấp xỉ 0,31 mm hoặc nhỏ hơn, loại màn hình tốt nhất có cỡ chấm dưới 0,28 mm. Để giữ cho chùm tia điện tử không chiếu lệch ra khỏi vùng quy định trên màn hình, các màn hình màu dùng một mặt nạ che (shadow mask)-đó là một tấm kim loại có những lỗ nhỏ. Các lỗ nhỏ này được sắp xếp sao cho tia sáng, tại mỗi thời điểm, chỉ chiếu qua một lỗ, tương ứng với một chấm màn hình. Lỗ trên mặt nạ càng nhỏ thì độ phân giải càng cao."
       }
     ],
     "k": "downloading pitch"

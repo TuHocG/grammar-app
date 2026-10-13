@@ -150,7 +150,7 @@
       {
         "k": "ex",
         "t": "Never fear, everything will be all right",
-        "vi": "Ðừng sợ, mọi việc rồi sẽ ổn thôi"
+        "vi": "Đừng sợ, mọi việc rồi sẽ ổn thôi"
       },
       {"k": "ex", "t": "she feared to speak in his presence", "vi": "cô ta sợ nói trước mặt anh ấy"},
       {"k": "ex", "t": "I fear (that) he is going to die", "vi": "tôi e rằng anh ấy sắp chết"},
@@ -1591,12 +1591,12 @@
   },
   {
     "h": "fecal fistula",
-    "segs": [{"k": "m", "t": "Ðường hậu môn nhân tạo, đường rò phân."}],
+    "segs": [{"k": "m", "t": "Đường hậu môn nhân tạo, đường rò phân."}],
     "k": "fecal fistula"
   },
   {
     "h": "fecal incontinence",
-    "segs": [{"k": "m", "t": "Ðại tiện mất chủ động, ỉa đùn."}],
+    "segs": [{"k": "m", "t": "Đại tiện mất chủ động, ỉa đùn."}],
     "k": "fecal incontinence"
   },
   {"h": "fecal tumor", "segs": [{"k": "m", "t": "U phân."}], "k": "fecal tumor"},
@@ -2223,7 +2223,7 @@
       },
       {
         "k": "m",
-        "t": "Cuối thập niên 1960, có sự tiến bộ của phong trào giải phóng phụ nữ, chống lại quyền gia trưởng của phái nam, chống lại sự dập khuôn về giới tính. Năm 1966, tổ chức quyền phụ nữ (now-natuional Grganisation for women) được thành lập ở Mỹ và còn tồn tại đến nay. Ở Anh, luật bãi bỏ phân biệt giới tính (1975-1986) được áp dụng, tạo sự công bằng trong việc trả lương và tiền thưởng cho công nhân. Ở những nước đang phát triển, phụ nữ vẫn còn phải đối mặt với nhiều vấn đề bất bình đẳng về giới tính. Phụ nữ nói chung bị đánh giá thấp về học vấn, nghề nghiệp, cộng thêm với phong tục tôn giáo, nên họ gặp nhiều hạn chế trong đời sống xã hội, chính trị và kinh tế. Trong cộng đồng Hồi giáo, người ta phân biệt giới tính khi giao dịch ngân hàng, thương mại và giáo dục. Ở Châu Phi, có nhiều tổ chức tiến bộ ủng hộ cho nông dân nữ bởi lẽ họ làm ra 70% sản phẩm. Họ đáng được giúp đỡ về kỹ thuật. Ở Ấn Ðộ, phong trào phụ nữ tiến bộ chống lại việc phải có của hồi môn mới lấy được chồng. Tuy nhiên, vẫn có nhiều nước, phụ nữ bị kết tội là thoái hóa phong tục và tín ngưỡng. Năm 1994, nữ văn sĩ Taslima Nasreen, phải chạy trốn khỏi Bangladesh vì bị kết tội như thế."
+        "t": "Cuối thập niên 1960, có sự tiến bộ của phong trào giải phóng phụ nữ, chống lại quyền gia trưởng của phái nam, chống lại sự dập khuôn về giới tính. Năm 1966, tổ chức quyền phụ nữ (now-natuional Grganisation for women) được thành lập ở Mỹ và còn tồn tại đến nay. Ở Anh, luật bãi bỏ phân biệt giới tính (1975-1986) được áp dụng, tạo sự công bằng trong việc trả lương và tiền thưởng cho công nhân. Ở những nước đang phát triển, phụ nữ vẫn còn phải đối mặt với nhiều vấn đề bất bình đẳng về giới tính. Phụ nữ nói chung bị đánh giá thấp về học vấn, nghề nghiệp, cộng thêm với phong tục tôn giáo, nên họ gặp nhiều hạn chế trong đời sống xã hội, chính trị và kinh tế. Trong cộng đồng Hồi giáo, người ta phân biệt giới tính khi giao dịch ngân hàng, thương mại và giáo dục. Ở Châu Phi, có nhiều tổ chức tiến bộ ủng hộ cho nông dân nữ bởi lẽ họ làm ra 70% sản phẩm. Họ đáng được giúp đỡ về kỹ thuật. Ở Ấn Độ, phong trào phụ nữ tiến bộ chống lại việc phải có của hồi môn mới lấy được chồng. Tuy nhiên, vẫn có nhiều nước, phụ nữ bị kết tội là thoái hóa phong tục và tín ngưỡng. Năm 1994, nữ văn sĩ Taslima Nasreen, phải chạy trốn khỏi Bangladesh vì bị kết tội như thế."
       }
     ],
     "k": "federalism"
@@ -6927,7 +6927,7 @@
     "h": "felucca",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tàu felúc (tàu ven biển loại nhỏ ở Ðịa Trung Hải)."}
+      {"k": "m", "t": "tàu felúc (tàu ven biển loại nhỏ ở Địa Trung Hải)."}
     ],
     "ipa": "fe'lʌkə",
     "k": "felucca"
@@ -7509,13 +7509,13 @@
   },
   {"h": "femoral bone", "segs": [{"k": "m", "t": "Xương đùi."}], "k": "femoral bone"},
   {"h": "femoral canal", "segs": [{"k": "m", "t": "ống đùi."}], "k": "femoral canal"},
-  {"h": "femoral crest", "segs": [{"k": "m", "t": "Ðường ráp xương đùi."}], "k": "femoral crest"},
+  {"h": "femoral crest", "segs": [{"k": "m", "t": "Đường ráp xương đùi."}], "k": "femoral crest"},
   {"h": "femoral hernia", "segs": [{"k": "m", "t": "Thoát vị đùi."}], "k": "femoral hernia"},
   {"h": "femoral muscle", "segs": [{"k": "m", "t": "Cơ đùi, cơ rộng giữa."}], "k": "femoral muscle"},
   {"h": "femoral nerve", "segs": [{"k": "m", "t": "Dây thần kinh đùi."}], "k": "femoral nerve"},
   {
     "h": "femoral plexus",
-    "segs": [{"k": "m", "t": "Ðám rối thần kinh đùi."}],
+    "segs": [{"k": "m", "t": "Đám rối thần kinh đùi."}],
     "k": "femoral plexus"
   },
   {"h": "femoral reflex", "segs": [{"k": "m", "t": "Phản xạ đùi."}], "k": "femoral reflex"},
@@ -7780,7 +7780,7 @@
       {
         "k": "ex",
         "t": "Don't try to fence me in. I need a lot of freedom:",
-        "vi": "Ðừng cố hạn chế con. Con cần có rất nhiều tự do."
+        "vi": "Đừng cố hạn chế con. Con cần có rất nhiều tự do."
       }
     ],
     "k": "fence someone in"
@@ -8395,12 +8395,12 @@
   },
   {
     "h": "fennig",
-    "segs": [{"k": "m", "t": "đơn vị tiền Ðức, có giá trị bằng 1/100 mác Ðức."}],
+    "segs": [{"k": "m", "t": "đơn vị tiền Đức, có giá trị bằng 1/100 mác Đức."}],
     "k": "fennig"
   },
   {
     "h": "Fenning",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "đơn vị tiền Ðức"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "đơn vị tiền Đức"}],
     "k": "fenning"
   },
   {
@@ -8423,7 +8423,7 @@
   {"h": "fenoprofen", "segs": [{"k": "m", "t": "một loại thuốc giảm đau."}], "k": "fenoprofen"},
   {
     "h": "fens",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "snh. vùng đầm lầy miền Ðông nước Anh."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "snh. vùng đầm lầy miền Đông nước Anh."}],
     "ipa": "fenz",
     "k": "fens"
   },
@@ -8607,7 +8607,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "II (1578-1637) là vua xứ Bohomia (1617-1627) và Hungary (1618-1626). Ông được học tại trường Jesuits và trở thành một phát ngôn viên của phong trào \"Chống cải cách Thiên Chúa Giáo\". Trước khi lên ngôi vua, ông dùng quyền thế chống lại Cơ Ðốc giáo ở Áo. Cuộc khủng hoảng này gây ra cuộc chiến tranh kéo dài 30 năm. 10 năm xung đột đầu tiên không gây khó khăn cho Ferdinand. Mục đích của ông là cố gắng đề xuất một đạo luật cải cách (1629). Ðạo luật này trả lại cho người theo Thiên Chúa Giáo La Mã tài sản bị cầm giữ từ năm 1552. Sau đó, ông là nỗi sợ hãi cho sự tự do của nước Ðức và ông đã bị cả hai phe Thiên Chúa Giáo và Cơ Ðốc giáo phản đối. Cuối cùng, Thụy Ðiển và Pháp tham chiến chống lại ông khiến ông phải từ bỏ sự độc quyền về Thiên Chúa Giáo La Mã."
+        "t": "II (1578-1637) là vua xứ Bohomia (1617-1627) và Hungary (1618-1626). Ông được học tại trường Jesuits và trở thành một phát ngôn viên của phong trào \"Chống cải cách Thiên Chúa Giáo\". Trước khi lên ngôi vua, ông dùng quyền thế chống lại Cơ Đốc giáo ở Áo. Cuộc khủng hoảng này gây ra cuộc chiến tranh kéo dài 30 năm. 10 năm xung đột đầu tiên không gây khó khăn cho Ferdinand. Mục đích của ông là cố gắng đề xuất một đạo luật cải cách (1629). Đạo luật này trả lại cho người theo Thiên Chúa Giáo La Mã tài sản bị cầm giữ từ năm 1552. Sau đó, ông là nỗi sợ hãi cho sự tự do của nước Đức và ông đã bị cả hai phe Thiên Chúa Giáo và Cơ Đốc giáo phản đối. Cuối cùng, Thụy Điển và Pháp tham chiến chống lại ông khiến ông phải từ bỏ sự độc quyền về Thiên Chúa Giáo La Mã."
       }
     ],
     "k": "ferdinand"
@@ -8627,7 +8627,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1784-1833) vua Tây Ban Nha (1808-1833). Ông kế vị ngôi vua do người cha là vua Charles IV thoái vị. Ông bãi bỏ hiến pháp năm 1812 và thành lập một đạo luật độc tài, nhờ có quân đội và tôn giáo ủng hộ. Sau cuộc chiến Tây Ban Nha-Mỹ, ông bị mất những thuộc địa ở Mỹ, mất hết lợi tức thu nhập và quân đội biểu tình chống đối. Ðến năm 1823, một cuộc cách mạng nổi lên ông trở thành tù nhân. Sau đó, nhờ quân đội Pháp giúp đỡ, ông lấy lại được quyền lực và thực hiện cuộc trả thù đẫm máu đối với kẻ thù."
+        "t": "(1784-1833) vua Tây Ban Nha (1808-1833). Ông kế vị ngôi vua do người cha là vua Charles IV thoái vị. Ông bãi bỏ hiến pháp năm 1812 và thành lập một đạo luật độc tài, nhờ có quân đội và tôn giáo ủng hộ. Sau cuộc chiến Tây Ban Nha-Mỹ, ông bị mất những thuộc địa ở Mỹ, mất hết lợi tức thu nhập và quân đội biểu tình chống đối. Đến năm 1823, một cuộc cách mạng nổi lên ông trở thành tù nhân. Sau đó, nhờ quân đội Pháp giúp đỡ, ông lấy lại được quyền lực và thực hiện cuộc trả thù đẫm máu đối với kẻ thù."
       }
     ],
     "k": "ferdinand vii"
@@ -8703,7 +8703,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(Anh-Ấn) người Âu"},
-      {"k": "m", "t": "người Bồ Ðào Nha sinh ở Ấn Ðộ."}
+      {"k": "m", "t": "người Bồ Đào Nha sinh ở Ấn Độ."}
     ],
     "ipa": "fə'riŋgi",
     "k": "feringhee"
@@ -9073,7 +9073,7 @@
   },
   {
     "h": "fermentation saccharimeter",
-    "segs": [{"k": "m", "t": "Ðường kế lên men."}],
+    "segs": [{"k": "m", "t": "Đường kế lên men."}],
     "k": "fermentation saccharimeter"
   },
   {
@@ -9290,7 +9290,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "̉Men̉ (men hiệp thông: miếng bánh-Thánh Thể-Ðức giáo hoàng gửi cho các cha xứ Rôma để tượng trưng cho mối hiệp thông)."
+        "t": "̉Men̉ (men hiệp thông: miếng bánh-Thánh Thể-Đức giáo hoàng gửi cho các cha xứ Rôma để tượng trưng cho mối hiệp thông)."
       }
     ],
     "k": "fermentum"
@@ -10247,7 +10247,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1465-1526) nhà toán học Ý, giáo sư trường Ðại học tổng hợp Bologne từ 1496. Tên tuổi của Ferro gắn liền với phát minh quy tắc giải bằng căn thức một dạng phương trình bậc ba."
+        "t": "(1465-1526) nhà toán học Ý, giáo sư trường Đại học tổng hợp Bologne từ 1496. Tên tuổi của Ferro gắn liền với phát minh quy tắc giải bằng căn thức một dạng phương trình bậc ba."
       }
     ],
     "k": "ferro dal"
@@ -11913,7 +11913,7 @@
       {
         "k": "ex",
         "t": "Christmas and Easter are Christian festivals",
-        "vi": "Nô-en và lễ phục sinh là những ngày lễ hội của Cơ Ðốc giáo"
+        "vi": "Nô-en và lễ phục sinh là những ngày lễ hội của Cơ Đốc giáo"
       },
       {"k": "ex", "t": "a festival atmosphere", "vi": "không khí ngày hội"},
       {"k": "m", "t": "không khí hội hè đình đám"},

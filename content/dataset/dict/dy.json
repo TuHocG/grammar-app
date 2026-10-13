@@ -90,7 +90,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hệ thống sắp đặt của một chính phủ. Năm 1919, một đạo luật của chính phủ Ấn Ðộ được thi hành. Quyền hành trong các tỉnh được chia thành những lĩnh vực hạn chế. Tài chính, cảnh sát và tư pháp đặt dưới quyền của chính phủ. Giáo dục và y tế đặt dưới quyền của các bộ trưởng do hội đồng lập pháp chọn lọc. Việc phân chia quyền hành này không thành công vì sự phản đối của đảng quốc gia."
+        "t": "hệ thống sắp đặt của một chính phủ. Năm 1919, một đạo luật của chính phủ Ấn Độ được thi hành. Quyền hành trong các tỉnh được chia thành những lĩnh vực hạn chế. Tài chính, cảnh sát và tư pháp đặt dưới quyền của chính phủ. Giáo dục và y tế đặt dưới quyền của các bộ trưởng do hội đồng lập pháp chọn lọc. Việc phân chia quyền hành này không thành công vì sự phản đối của đảng quốc gia."
       }
     ],
     "k": "dyarchy"
@@ -418,7 +418,7 @@
   },
   {
     "h": "dyn",
-    "segs": [{"k": "pos", "t": "ngoại động từ"}, {"k": "m", "t": "của DYNE ÐYN. đơn vị đo lực."}],
+    "segs": [{"k": "pos", "t": "ngoại động từ"}, {"k": "m", "t": "của DYNE ĐYN. đơn vị đo lực."}],
     "k": "dyn"
   },
   {"h": "dynameter", "segs": [{"k": "m", "t": "lực kế."}], "k": "dynameter"},
@@ -1080,7 +1080,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đối tượng động. Một tài liệu hoặc một phần tài liệu đã được dán hoặc chèn vào trong một tài liệu đích bằng phương pháp liên kết và nhúng đối tượng (OLE). Một đối tượng đã được nhúng sẽ tự động được cập nhật mới, nếu bạn có tiến hành thay đổi ở tài liệu nguồn. Ðối tượng được nhúng sẽ giữ nguyên các thông tin để bạn có thể mở trình ứng dụng mà bạn đã dùng để tạo ra đối tượng đó và biên tập lại đối tượng đó."
+        "t": "đối tượng động. Một tài liệu hoặc một phần tài liệu đã được dán hoặc chèn vào trong một tài liệu đích bằng phương pháp liên kết và nhúng đối tượng (OLE). Một đối tượng đã được nhúng sẽ tự động được cập nhật mới, nếu bạn có tiến hành thay đổi ở tài liệu nguồn. Đối tượng được nhúng sẽ giữ nguyên các thông tin để bạn có thể mở trình ứng dụng mà bạn đã dùng để tạo ra đối tượng đó và biên tập lại đối tượng đó."
       }
     ],
     "k": "dynamic object"
@@ -1961,12 +1961,12 @@
   },
   {
     "h": "Dyophysitism",
-    "segs": [{"k": "m", "t": "Nhị tính thuyết (Ðức Kitô có hai bản tính)."}],
+    "segs": [{"k": "m", "t": "Nhị tính thuyết (Đức Kitô có hai bản tính)."}],
     "k": "dyophysitism"
   },
   {
     "h": "Dyotheletes",
-    "segs": [{"k": "m", "t": "Nhị ý thuyết (Ðức Kitô có hai ý chí)."}],
+    "segs": [{"k": "m", "t": "Nhị ý thuyết (Đức Kitô có hai ý chí)."}],
     "k": "dyotheletes"
   },
   {
@@ -2139,7 +2139,7 @@
   {"h": "dyschylia", "segs": [{"k": "m", "t": "Loạn nhũ trấp."}], "k": "dyschylia"},
   {"h": "dyscinesia", "segs": [{"k": "m", "t": "Loạn vận động."}], "k": "dyscinesia"},
   {"h": "dyscoimesis", "segs": [{"k": "m", "t": "(chứng) khó ngủ."}], "k": "dyscoimesis"},
-  {"h": "dyscoria", "segs": [{"k": "m", "t": "Ðồng tử dị hình."}], "k": "dyscoria"},
+  {"h": "dyscoria", "segs": [{"k": "m", "t": "Đồng tử dị hình."}], "k": "dyscoria"},
   {
     "h": "dyscorticism",
     "segs": [{"k": "m", "t": "Loạn năng tuyến thượng thận."}],
@@ -2988,7 +2988,7 @@
   },
   {"h": "dystimbria", "segs": [{"k": "m", "t": "Loạn âm sắc."}], "k": "dystimbria"},
   {"h": "dystithia", "segs": [{"k": "m", "t": "Khó cho bú."}], "k": "dystithia"},
-  {"h": "dystocia", "segs": [{"k": "m", "t": "Ðẻ khó."}], "k": "dystocia"},
+  {"h": "dystocia", "segs": [{"k": "m", "t": "Đẻ khó."}], "k": "dystocia"},
   {
     "h": "dystocia dystrophia syndrome",
     "segs": [{"k": "m", "t": "Hội chứng đẻ khó loạn dưỡng."}],

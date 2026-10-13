@@ -46,13 +46,13 @@
     {
       "e": 55.65,
       "en": "Let me think... honey, is there an ATM around here?",
-      "vi": "Ðể tôi nghĩ xem... cưng à, có quầy ATM quanh đây không?",
+      "vi": "Để tôi nghĩ xem... cưng à, có quầy ATM quanh đây không?",
       "s": 50.13
     },
     {
       "e": 62.02,
       "en": "Yes, there is. Go straight and make a left. I think it's next to the drugstore.",
-      "vi": "Có đấy. Ði thẳng rồi rẽ trái. Em nghĩ là nó ở kế bên hiệu thuốc Tây.",
+      "vi": "Có đấy. Đi thẳng rồi rẽ trái. Em nghĩ là nó ở kế bên hiệu thuốc Tây.",
       "s": 55.65
     },
     {
@@ -97,7 +97,7 @@
     {
       "e": 102.46,
       "en": "Follow me and I'll show you.",
-      "vi": "Ði theo tôi đi tôi sẽ chỉ cho ông.",
+      "vi": "Đi theo tôi đi tôi sẽ chỉ cho ông.",
       "s": 98.66
     },
     {"e": 116.73, "en": "...", "vi": "...", "s": 102.46},
@@ -128,7 +128,7 @@
       "vi": "Câu cá à? Cậu sẽ đi câu cá ở đâu?",
       "s": 134.64
     },
-    {"e": 143.12, "en": "I'm going fishing at Big Lake.", "vi": "Tôi đi câu ở Ðại Hồ.", "s": 140.66},
+    {"e": 143.12, "en": "I'm going fishing at Big Lake.", "vi": "Tôi đi câu ở Đại Hồ.", "s": 140.66},
     {
       "e": 146.5,
       "en": "What are you doing tomorrow afternoon?",
@@ -197,7 +197,7 @@
     },
     {"e": 209.63, "en": "You lost your luggage?", "vi": "Bà bị mất hành lý à?", "s": 208.03},
     {"e": 211.54, "en": "Yes. I can't find it.", "vi": "Vâng tôi không tìm thấy nó.", "s": 209.63},
-    {"e": 213.58, "en": "OK. What is your name?", "vi": "Ðược rồi. Bà tên gì?", "s": 211.54},
+    {"e": 213.58, "en": "OK. What is your name?", "vi": "Được rồi. Bà tên gì?", "s": 211.54},
     {"e": 215.58, "en": "My name is Mary Wilson.", "vi": "Tôi là Mary Wilson.", "s": 213.58},
     {
       "e": 217.8,

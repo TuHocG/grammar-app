@@ -1077,7 +1077,7 @@
         "word": "Jack's",
         "pos": "danh từ riêng sở hữu cách",
         "position": "đứng trước danh từ (ship)",
-        "function": "thể hiện việc Jack là sở hữu chủ của danh từ (ship). Ðáng lẽ viết: (there ship of Jack) =con tàu của Jack. Dùng dấu sở hữu 's để bỏ bớt 2 từ the và of- Vậy là: Jack's",
+        "function": "thể hiện việc Jack là sở hữu chủ của danh từ (ship). Đáng lẽ viết: (there ship of Jack) =con tàu của Jack. Dùng dấu sở hữu 's để bỏ bớt 2 từ the và of- Vậy là: Jack's",
         "meaning": "con tàu của Jack",
         "note": "Jack's | danh từ sở hữu (Jack's) phải đứng trước con tàu (ship) mà Jack sở hữu",
         "refs": [60, 61]
@@ -1197,7 +1197,7 @@
         "word": "thank",
         "pos": "tha động từ to thank chia ở hiện tại",
         "position": "đứng trước đại từ (you)",
-        "function": "thể hiện hành động cảm ơn của Jack. Ðộng từ (thank) là hành động trực tiếp cảm ơn của Jack, nên không dùng chủ từ đứng trước động từ. Ðáng lẽ nói: I thank you. Ta bỏ bớt chủ từ (I), chỉ còn lại lời cám ơn là (thank you)",
+        "function": "thể hiện hành động cảm ơn của Jack. Động từ (thank) là hành động trực tiếp cảm ơn của Jack, nên không dùng chủ từ đứng trước động từ. Đáng lẽ nói: I thank you. Ta bỏ bớt chủ từ (I), chỉ còn lại lời cám ơn là (thank you)",
         "meaning": "cảm ơn",
         "note": "thank | động từ (thank) là lời nói trực tiếp cảm ơn, bỏ bớt chủ từ đứng trước nó. thank phải đứng trước đại từ (you) vì you là túc từ trực tiếp của động từ (thank)",
         "refs": []
@@ -1227,7 +1227,7 @@
         "word": "the",
         "pos": "mạo từ xác định",
         "position": "đứng trước danh từ (parrot)",
-        "function": "mạo từ xác định (the) đứng trước danh từ (parrot) để xác định rằng parrot được nói đến lần thứ hai, người viết và người đọc đã rõ con vẹt đó là con vẹt nào? Ðó là gon vẹt mà Jack đã cho Gloria.",
+        "function": "mạo từ xác định (the) đứng trước danh từ (parrot) để xác định rằng parrot được nói đến lần thứ hai, người viết và người đọc đã rõ con vẹt đó là con vẹt nào? Đó là gon vẹt mà Jack đã cho Gloria.",
         "meaning": "con (vẹt)",
         "note": "the | mạo từ (the) phải đứng trước danh từ (parrot)",
         "refs": [206, 207, 208, 209, 210, 211]
@@ -2112,7 +2112,7 @@
         "word": "lost",
         "pos": "động từ to lose chia ở thì bán quá khứ (thì Present perfeet)",
         "position": "đứng sau chủ từ (I've)",
-        "function": "mô tả hành động của chúng ta (I've). Ðó là cô Fanny",
+        "function": "mô tả hành động của chúng ta (I've). Đó là cô Fanny",
         "meaning": "mất",
         "note": "lost | động từ (lost) phải đứng sau chủ từ (I've)",
         "refs": [2, 9, 11, 72, 14]
@@ -2272,7 +2272,7 @@
         "word": "got",
         "pos": "là quá khứ của động từ to get",
         "position": "đứng sau trợ từ phủ định (haven't)",
-        "function": "mô tả hành động của chủ từ (I). Ðộng từ to get có 2 chức năng: (cần phân biệt)",
+        "function": "mô tả hành động của chủ từ (I). Động từ to get có 2 chức năng: (cần phân biệt)",
         "meaning": "1. nếu nó là động từ nối (link verb) thì từ nào đứng sau nó là thuộc từ (complement) của nó",
         "note": "ví dụ: Tôi thấy bị mệt- I get tired- tired là thuộc từ (complement) của Get",
         "refs": [2, 9, 11, 72, 79]
@@ -2602,7 +2602,7 @@
         "word": "take",
         "pos": "động từ to take, chia ở mệnh lệnh cách, không cần chủ từ",
         "position": "đứng đầu câu",
-        "function": "động từ (take) chia ở mệnh lệnh cách, bỏ chủ từ. Ðáng lẽ nói (you take), chỉ cần nói (take) là đủ. Ðộng từ dùng để sai bảo ai, là lời nói trực tiếp, nên luôn chia về thì hiện tại - động từ (take) đã được chia, nên nó là một mệnh đề chính, trong toàn câu theo sau (mặc dù nó chỉ có 1 từ (take)",
+        "function": "động từ (take) chia ở mệnh lệnh cách, bỏ chủ từ. Đáng lẽ nói (you take), chỉ cần nói (take) là đủ. Động từ dùng để sai bảo ai, là lời nói trực tiếp, nên luôn chia về thì hiện tại - động từ (take) đã được chia, nên nó là một mệnh đề chính, trong toàn câu theo sau (mặc dù nó chỉ có 1 từ (take)",
         "meaning": "hãy cầm lấy cái xe cút kít",
         "note": "take | động từ (take) ở mệnh lệnh cách phải đứng đầu câu",
         "refs": [2, 9, 11, 72, 90]
@@ -3677,7 +3677,7 @@
         "word": "on",
         "pos": "trạng từ, chứ không phải giới từ",
         "position": "đứng sau đại từ (it)",
-        "function": "trạng từ (on) kết hợp với động từ (put) tạo thành cụm động từ (put on) có nghĩa là mặc sơ mi vào. Nếu là cái mũ, thì có nghĩa là đội mũ lên. Ðừng lầm tiếng on này, khi on làm giới từ: Tôi đặt cái ly lên trên bàn (I put the glass on the table)",
+        "function": "trạng từ (on) kết hợp với động từ (put) tạo thành cụm động từ (put on) có nghĩa là mặc sơ mi vào. Nếu là cái mũ, thì có nghĩa là đội mũ lên. Đừng lầm tiếng on này, khi on làm giới từ: Tôi đặt cái ly lên trên bàn (I put the glass on the table)",
         "meaning": "vào",
         "note": "on | trạng từ (on) phải đứng sau (it = thay thế cái áo) và vì (on) phải kết hợp với động từ (put) đứng phía trước để tạo nên cụm động từ (put on)",
         "refs": [168, 169, 170, 171, 172]
@@ -4055,7 +4055,7 @@
       {
         "n": "130",
         "word": "That's",
-        "pos": "đại từ (That) + động từ (is viết tắt là 's) thành (that's) có nghĩa (Ðó là ...)",
+        "pos": "đại từ (That) + động từ (is viết tắt là 's) thành (that's) có nghĩa (Đó là ...)",
         "position": "cụm từ (That's) phải đứng đầu mệnh đề (That's all right)",
         "function": "đại từ (That) làm chủ từ của động từ (is viết tắt là 's) (is = 's) là động từ to be chia ở hiện tại, mô tả chủ từ (That = điều đó) là thế nào? đúng hay sai?",
         "meaning": "điều đó là",
@@ -4283,7 +4283,7 @@
         "pos": "danh từ riêng",
         "position": "đứng sau giới từ (in)",
         "function": "làm túc từ của giới từ (in)",
-        "meaning": "Luân Ðôn",
+        "meaning": "Luân Đôn",
         "note": "London | danh từ (london) phải đứng sau giới từ (in)",
         "refs": []
       },
@@ -5403,7 +5403,7 @@
         "pos": "trợ từ (to do) chia ở thì hiện tại, 3 ngôi, số ít là does",
         "position": "đứng trước cụm từ (yours put)",
         "function": "",
-        "meaning": "1. là trợ từ, trợ giúp cho động từ (put) ở phía sau, tạo cho động từ (put) tạo thành động từ dùng để hỏi. Ðộng từ dùng để hỏi phải có trợ từ does đứng trước nó- does yours put",
+        "meaning": "1. là trợ từ, trợ giúp cho động từ (put) ở phía sau, tạo cho động từ (put) tạo thành động từ dùng để hỏi. Động từ dùng để hỏi phải có trợ từ does đứng trước nó- does yours put",
         "note": "phải chăng",
         "refs": [2, 9, 11, 72]
       },
@@ -5570,7 +5570,7 @@
       {
         "n": "138",
         "word": "he",
-        "pos": "đại từ (he) thay cho cái máy rửa chén bát. Ðáng lẽ phải dùng đại từ (it) nhưng bà Williams coi nó như một con người (nhân cách hóa) nên dùng đại từ (he) thay cho cái máy.",
+        "pos": "đại từ (he) thay cho cái máy rửa chén bát. Đáng lẽ phải dùng đại từ (it) nhưng bà Williams coi nó như một con người (nhân cách hóa) nên dùng đại từ (he) thay cho cái máy.",
         "position": "đứng trước động từ (does)",
         "function": "đại từ (he) làm chủ từ của động từ (does)",
         "meaning": "Nó (cái máy rửa bát chén)",
@@ -7471,10 +7471,10 @@
         "n": "37",
         "word": "Did",
         "pos": "trợ từ (to đo) chia ở quá khứ",
-        "position": "đứng đầu mệnh đề nghi vấn (Ðối đầu they like swimming?)",
+        "position": "đứng đầu mệnh đề nghi vấn (Đối đầu they like swimming?)",
         "function": "làm trợ từ, giúp động từ chính (like) trở thành động từ dùng để hỏi",
         "meaning": "(Họ thích bơi) không?",
-        "note": "Did | trợ từ (Ðối đầu) phải đứng đầu mệnh đề nghi vấn",
+        "note": "Did | trợ từ (Đối đầu) phải đứng đầu mệnh đề nghi vấn",
         "refs": [2, 9, 11, 72, 16]
       },
       {
@@ -8242,7 +8242,7 @@
         "word": "are",
         "pos": "trợ từ (to be) chia ở ngôi hai, thì hiện tại tiếp diễn",
         "position": "đứng trước chủ từ (you)",
-        "function": "trợ từ (are) trợ giúp động từ chính (laughing) chia ở thì hiện tại tiếp diễn. Ðộng từ chính (laughing) dùng để hỏi, nên trợ từ (are) phải đảo ngược lên đứng trước chủ từ (you). Are you laughing? chứ không thể viết you are laughing.",
+        "function": "trợ từ (are) trợ giúp động từ chính (laughing) chia ở thì hiện tại tiếp diễn. Động từ chính (laughing) dùng để hỏi, nên trợ từ (are) phải đảo ngược lên đứng trước chủ từ (you). Are you laughing? chứ không thể viết you are laughing.",
         "meaning": "đang (cười), nhưng không cần viết nghĩa tiếng việt của từ (are) này",
         "note": "are | trợ từ (are) phải đứng trước chủ từ (you)",
         "refs": [2, 9, 11, 72, 13]
@@ -9749,7 +9749,7 @@
         "position": "đứng sau tính từ (second)",
         "function": "",
         "meaning": "1. làm túc từ (object) của giới từ (on)",
-        "note": "2. morning kết hợp với On the second để tạo thành cụm giới từ (On the second morning). Nó được gọi là cụm giới từ vì nó có giới từ On đứng đầu. Nhưng văn phạm Anh ngữ dùng cụm giới từ đó làm chức năng cụm trạng từ chỉ thời gian (adverb phrase of time) để bổ nghĩa (modifies) cho động từ (said) theo sau. Ðược dùng làm cụm trạng từ, mà trong đó, không hề có một trạng từ nào, chỉ toàn là On (giới từ, the (mạo từ) second (tính từ) và day (danh từ). Vậy văn phạm chỉ chú ý đến chức năng của cụm từ đó dùng để làm gì? không cần biết cụm từ có những tự loại nào? không nhất thiết một cụm trạng từ phải có một trạng từ trong đó.",
+        "note": "2. morning kết hợp với On the second để tạo thành cụm giới từ (On the second morning). Nó được gọi là cụm giới từ vì nó có giới từ On đứng đầu. Nhưng văn phạm Anh ngữ dùng cụm giới từ đó làm chức năng cụm trạng từ chỉ thời gian (adverb phrase of time) để bổ nghĩa (modifies) cho động từ (said) theo sau. Được dùng làm cụm trạng từ, mà trong đó, không hề có một trạng từ nào, chỉ toàn là On (giới từ, the (mạo từ) second (tính từ) và day (danh từ). Vậy văn phạm chỉ chú ý đến chức năng của cụm từ đó dùng để làm gì? không cần biết cụm từ có những tự loại nào? không nhất thiết một cụm trạng từ phải có một trạng từ trong đó.",
         "refs": []
       },
       {
@@ -14368,7 +14368,7 @@
         "pos": "danh từ riêng",
         "position": "đứng sau từ (or)",
         "function": "làm túc từ của giới từ (to) ở phía trước",
-        "meaning": "Ðức",
+        "meaning": "Đức",
         "note": "Germany | danh từ riêng (Germany) phải đứng sau liên từ (or)",
         "refs": []
       },
@@ -14498,7 +14498,7 @@
         "pos": "tính từ dùng làm danh từ",
         "position": "đứng sau liên từ (and)",
         "function": "làm túc từ của động từ (spoke) ở phía trước",
-        "meaning": "tiếng Ðức",
+        "meaning": "tiếng Đức",
         "note": "German | danh từ (German) phải đứng sau liên từ (and)",
         "refs": []
       },
@@ -15744,7 +15744,7 @@
         "position": "đứng trước danh từ (mountains)",
         "function": "",
         "meaning": "1. làm mạo từ cho danh từ (mountains)",
-        "note": "Lưu ý: danh từ (mountains) là dãy núi, nghĩa là nhiều núi tiếp nhau thành dãy, bắt buộc phải có mạo từ (the) đứng trước. Ví dụ: dãy núi trường sơn = the trường sơn mountains nhưng khi chỉ có một ngọn núi đơn độc, thì không dùng mạo từ (the) hoặc (a). đứng trước ngọn núi đơn độc đó. Ví dụ: Tôi đến núi Bà Ðen = I go to mount Bà Ðen- Thay vì viết Bà Ðen, ta đổi thành Mount Bà Ðen (không có the và cũng không có a).",
+        "note": "Lưu ý: danh từ (mountains) là dãy núi, nghĩa là nhiều núi tiếp nhau thành dãy, bắt buộc phải có mạo từ (the) đứng trước. Ví dụ: dãy núi trường sơn = the trường sơn mountains nhưng khi chỉ có một ngọn núi đơn độc, thì không dùng mạo từ (the) hoặc (a). đứng trước ngọn núi đơn độc đó. Ví dụ: Tôi đến núi Bà Đen = I go to mount Bà Đen- Thay vì viết Bà Đen, ta đổi thành Mount Bà Đen (không có the và cũng không có a).",
         "refs": [206, 207, 208, 209, 210, 211]
       },
       {
@@ -15794,7 +15794,7 @@
         "position": "đứng sau cụm nội động (are going)",
         "function": "",
         "meaning": "(to begin) là tiếng bổ sung (complement) cho cụm nội động (are going) ở thì tương lai gần.",
-        "note": "Lưu ý: Ðôi khi trong một mệnh đề, có tới hai động từ nguyên mẫu đứng liền nhau, cái sau bổ sung (complement) cho cái trước",
+        "note": "Lưu ý: Đôi khi trong một mệnh đề, có tới hai động từ nguyên mẫu đứng liền nhau, cái sau bổ sung (complement) cho cái trước",
         "refs": [31, 54, 55, 56]
       },
       {

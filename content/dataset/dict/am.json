@@ -77,7 +77,7 @@
   {"h": "amagmatic", "segs": [{"k": "m", "t": "phi mácma, amácma."}], "k": "amagmatic"},
   {
     "h": "amah",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(Trung Quốc, Ấn Ðộ) vú em, bõ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(Trung Quốc, Ấn Độ) vú em, bõ."}],
     "ipa": "'a:mə",
     "k": "amah"
   },
@@ -404,7 +404,7 @@
   },
   {"h": "amarine", "segs": [{"k": "m", "t": "Amarin."}], "k": "amarine"},
   {"h": "amaroid", "segs": [{"k": "m", "t": "Chất đắng, amaroit."}], "k": "amaroid"},
-  {"h": "amaroidal", "segs": [{"k": "m", "t": "Ðắng."}], "k": "amaroidal"},
+  {"h": "amaroidal", "segs": [{"k": "m", "t": "Đắng."}], "k": "amaroidal"},
   {"h": "amartia", "segs": [{"k": "m", "t": "(không có vú)."}], "k": "amartia"},
   {
     "h": "amaryllidaceous",
@@ -882,7 +882,7 @@
         "t": "nhà ngoại giao của nước này được cử sang nước khác làm đại diện thường trú hoặc trong một phái bộ đặc biệt"
       },
       {"k": "m", "t": "đại sứ"},
-      {"k": "ex", "t": "the British Ambassador to Vietnam", "vi": "Ðại sứ Anh tại Việt Nam"},
+      {"k": "ex", "t": "the British Ambassador to Vietnam", "vi": "Đại sứ Anh tại Việt Nam"},
       {
         "k": "ex",
         "t": "ambassador extraordinary and plenipotentiary",
@@ -1851,7 +1851,7 @@
   },
   {
     "h": "amblyopiatrics",
-    "segs": [{"k": "m", "t": "Ðiều trị giảm thị lực."}],
+    "segs": [{"k": "m", "t": "Điều trị giảm thị lực."}],
     "k": "amblyopiatrics"
   },
   {
@@ -1894,7 +1894,7 @@
   },
   {
     "h": "amboceptor unit",
-    "segs": [{"k": "m", "t": "Ðơn vị cảm nhiễm thể."}],
+    "segs": [{"k": "m", "t": "Đơn vị cảm nhiễm thể."}],
     "k": "amboceptor unit"
   },
   {
@@ -1902,7 +1902,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ambon) Một đảo ở Moluccas, một trung tâm chính sản xuất giống cây đinh hương. Năm 1521, quân đội Bồ Ðào Nha đã thiết lập vùng này và sau đó để lọt vào tay quân đội Hà Lan năm 1605. Một người Anh đã cố gắng xây dựng khu thương mại ở đây nhưng bị thất bại năm 1623 vì toàn bộ số công nhân bị kết tội âm mưu chống lại chính quyền Hà Lan."
+        "t": "(Ambon) Một đảo ở Moluccas, một trung tâm chính sản xuất giống cây đinh hương. Năm 1521, quân đội Bồ Đào Nha đã thiết lập vùng này và sau đó để lọt vào tay quân đội Hà Lan năm 1605. Một người Anh đã cố gắng xây dựng khu thương mại ở đây nhưng bị thất bại năm 1623 vì toàn bộ số công nhân bị kết tội âm mưu chống lại chính quyền Hà Lan."
       }
     ],
     "k": "amboina"
@@ -1949,7 +1949,7 @@
     "h": "amboyna",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "gỗ cây vùng Ðông Nam Á tên gọi là pterocarpus indicus dùng để trang trí."}
+      {"k": "m", "t": "gỗ cây vùng Đông Nam Á tên gọi là pterocarpus indicus dùng để trang trí."}
     ],
     "ipa": "æm'bɔinə",
     "k": "amboyna"
@@ -2106,7 +2106,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "toa xe cứu thương"}],
     "k": "ambulance coach"
   },
-  {"h": "ambulance convoy", "segs": [{"k": "m", "t": "Ðoàn cứu thương."}], "k": "ambulance convoy"},
+  {"h": "ambulance convoy", "segs": [{"k": "m", "t": "Đoàn cứu thương."}], "k": "ambulance convoy"},
   {
     "h": "ambulance man",
     "segs": [{"k": "m", "t": "Người cứu thương, người tải thương."}],
@@ -2350,7 +2350,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "vi xử lý AMD-K6"}],
     "k": "amd-k6"
   },
-  {"h": "AMDG", "segs": [{"k": "m", "t": "Ðể vinh quang Thiên Chúa cả sáng hơn"}], "k": "amdg"},
+  {"h": "AMDG", "segs": [{"k": "m", "t": "Để vinh quang Thiên Chúa cả sáng hơn"}], "k": "amdg"},
   {
     "h": "amea psychology",
     "segs": [
@@ -2604,7 +2604,7 @@
   {"h": "ameloblastoma", "segs": [{"k": "m", "t": "U nguyên bào tạo men."}], "k": "ameloblastoma"},
   {
     "h": "amelodentinal junction",
-    "segs": [{"k": "m", "t": "Ðường nối ngà-xương răng."}],
+    "segs": [{"k": "m", "t": "Đường nối ngà-xương răng."}],
     "k": "amelodentinal junction"
   },
   {
@@ -3019,7 +3019,7 @@
       {"k": "m", "t": "(kinh tế) Giá bán kiểu Mỹ."},
       {
         "k": "m",
-        "t": "Ðây là một hệ thống trong đó thuế quan của Mỹ đối với một số mặt hàng nhập khẩu được tính trên cơ sở giá trị của mặt hàng thay thế trong nước so với giá trị của hàng nhập khẩu. (Xem General Agreement On Tariffs And Trade)."
+        "t": "Đây là một hệ thống trong đó thuế quan của Mỹ đối với một số mặt hàng nhập khẩu được tính trên cơ sở giá trị của mặt hàng thay thế trong nước so với giá trị của hàng nhập khẩu. (Xem General Agreement On Tariffs And Trade)."
       }
     ],
     "k": "america selling price"
@@ -3030,7 +3030,7 @@
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "(thuộc) châu Mỹ"},
       {"k": "ex", "t": "American Indian (hoặc Amerindian", "vi": ") người da đỏ"},
-      {"k": "m", "t": "người Anh Ðiêng"},
+      {"k": "m", "t": "người Anh Điêng"},
       {"k": "m", "t": "(thuộc) nước Mỹ"},
       {"k": "m", "t": "(thuộc) Hoa Kỳ"},
       {"k": "ex", "t": "American English", "vi": "tiếng Mỹ"},
@@ -3109,7 +3109,7 @@
   },
   {
     "h": "American Bar Association",
-    "segs": [{"k": "m", "t": "luật sư Ðoàn Hoa Kỳ."}],
+    "segs": [{"k": "m", "t": "luật sư Đoàn Hoa Kỳ."}],
     "k": "american bar association"
   },
   {
@@ -3792,7 +3792,7 @@
       },
       {
         "k": "m",
-        "t": "Ở vùng Andes, kỹ thuật luyện kim phát triển từ 1.000 năm trước Công nguyên. Ðặc biệt có những nơi đạt được kỹ xảo tinh vi như Azitec và Incas. Nhưng hầu hết nền văn minh này bị suy sụp sau sự xuất hiện của Conquistadores và các nhà thám hiểm Châu Âu vào thế kỷ 16."
+        "t": "Ở vùng Andes, kỹ thuật luyện kim phát triển từ 1.000 năm trước Công nguyên. Đặc biệt có những nơi đạt được kỹ xảo tinh vi như Azitec và Incas. Nhưng hầu hết nền văn minh này bị suy sụp sau sự xuất hiện của Conquistadores và các nhà thám hiểm Châu Âu vào thế kỷ 16."
       }
     ],
     "k": "amerindians"
@@ -3886,7 +3886,7 @@
     "ipa": "æmitə'bɔlik",
     "k": "ametabolic"
   },
-  {"h": "ametabolon", "segs": [{"k": "m", "t": "Ðộng vật không biến thái."}], "k": "ametabolon"},
+  {"h": "ametabolon", "segs": [{"k": "m", "t": "Động vật không biến thái."}], "k": "ametabolon"},
   {"h": "ametabolus", "segs": [{"k": "m", "t": "Không biến thái."}], "k": "ametabolus"},
   {"h": "ametachromophil", "segs": [{"k": "m", "t": "Ưa màu trung hòa."}], "k": "ametachromophil"},
   {
@@ -7254,7 +7254,7 @@
     "k": "amphicaryon"
   },
   {"h": "amphicelous", "segs": [{"k": "m", "t": "Lõm hai bên, lõm hai đầu."}], "k": "amphicelous"},
-  {"h": "amphicentric", "segs": [{"k": "m", "t": "Ðầu đuôi ở cùng một mạch."}], "k": "amphicentric"},
+  {"h": "amphicentric", "segs": [{"k": "m", "t": "Đầu đuôi ở cùng một mạch."}], "k": "amphicentric"},
   {"h": "amphichroic", "segs": [{"k": "m", "t": "Bắt hai màu quỳ."}], "k": "amphichroic"},
   {"h": "amphichromatic", "segs": [{"k": "m", "t": "Bắt hai màu quỳ."}], "k": "amphichromatic"},
   {
@@ -7271,7 +7271,7 @@
     "k": "amphicoelous"
   },
   {"h": "amphicrania", "segs": [{"k": "m", "t": "Rức hai bên đầu."}], "k": "amphicrania"},
-  {"h": "amphicroic", "segs": [{"k": "m", "t": "Ðổi màu hai chiều."}], "k": "amphicroic"},
+  {"h": "amphicroic", "segs": [{"k": "m", "t": "Đổi màu hai chiều."}], "k": "amphicroic"},
   {
     "h": "amphictyonic",
     "segs": [{"k": "ref", "t": "amphictyony"}],
@@ -7613,7 +7613,7 @@
     "k": "amphistyly"
   },
   {"h": "amphitene", "segs": [{"k": "m", "t": "Giai đoạn amphiten (giảm phân)."}], "k": "amphitene"},
-  {"h": "amphitheater", "segs": [{"k": "m", "t": "Ðại giảng đường."}], "k": "amphitheater"},
+  {"h": "amphitheater", "segs": [{"k": "m", "t": "Đại giảng đường."}], "k": "amphitheater"},
   {
     "h": "amphitheater lecture-hall",
     "segs": [
@@ -7688,7 +7688,7 @@
     "segs": [{"k": "m", "t": "lưỡng sinh (vô cơ và hữu cơ)."}],
     "k": "amphogenesis"
   },
-  {"h": "amphogenic", "segs": [{"k": "m", "t": "Ðẻ cả trai và gái."}], "k": "amphogenic"},
+  {"h": "amphogenic", "segs": [{"k": "m", "t": "Đẻ cả trai và gái."}], "k": "amphogenic"},
   {
     "h": "amphogeny",
     "segs": [
@@ -7725,7 +7725,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bình có hai tay cầm, đáy thon để dễ vận chuyển, của người Hy Lạp hoặc người La Mã thời cổ. Bình loại này thường để chứa rượu hoặc dầu olive. Bình này cũng được dán nhãn phía bên cạnh, ghi ký hiệu của nơi sản xuất. Ký hiệu này có thể là tên của người chủ sản xuất, dấu kiểm duyệt của cơ quan hoặc tên quốc gia sản xuất. Chúng thường được vận chuyển và xếp trên boong tàu. Ðó cũng là bằng chứng cho thấy sự phát triển thương mại thời bấy giờ."
+        "t": "Bình có hai tay cầm, đáy thon để dễ vận chuyển, của người Hy Lạp hoặc người La Mã thời cổ. Bình loại này thường để chứa rượu hoặc dầu olive. Bình này cũng được dán nhãn phía bên cạnh, ghi ký hiệu của nơi sản xuất. Ký hiệu này có thể là tên của người chủ sản xuất, dấu kiểm duyệt của cơ quan hoặc tên quốc gia sản xuất. Chúng thường được vận chuyển và xếp trên boong tàu. Đó cũng là bằng chứng cho thấy sự phát triển thương mại thời bấy giờ."
       }
     ],
     "k": "amphora"

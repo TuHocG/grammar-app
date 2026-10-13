@@ -60,7 +60,7 @@
   },
   {"h": "siagantritis", "segs": [{"k": "m", "t": "Viêm xoang hàm."}], "k": "siagantritis"},
   {"h": "siagonagia", "segs": [{"k": "m", "t": "đau hàm."}], "k": "siagonagia"},
-  {"h": "siagonagra", "segs": [{"k": "m", "t": "Ðau ham."}], "k": "siagonagra"},
+  {"h": "siagonagra", "segs": [{"k": "m", "t": "Đau ham."}], "k": "siagonagra"},
   {"h": "siagonantritis", "segs": [{"k": "m", "t": "Viêm xoang hàm."}], "k": "siagonantritis"},
   {"h": "siained", "segs": [{"k": "m", "t": "xẫm màu."}], "k": "siained"},
   {"h": "siaiogogic", "segs": [{"k": "m", "t": "lợi nước bọt."}], "k": "siaiogogic"},
@@ -208,7 +208,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "mèo Xiêm, mèo Thái Lan (loài mèo phương Ðông có lông ngắn màu nhợt, có mặt, tai, đuôi và chân đen hơn) (như)"
+        "t": "mèo Xiêm, mèo Thái Lan (loài mèo phương Đông có lông ngắn màu nhợt, có mặt, tai, đuôi và chân đen hơn) (như)"
       },
       {"k": "ex", "t": "siamese", "vi": "."}
     ],
@@ -540,7 +540,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cuộc nổi dậy của quần chúng đảo Sicily. Ðây là cuộc tàn sát dã man diễn ra trên hòn đảo bị người Pháp chiếm đóng này. Nó có tên gọi như thế (Vespers) bởi được bắt đầu vào thời gian của buổi cầu kinh chiều (lễ tối ở nhà thờ) nhằm ngày Thứ ba lễ Phục sinh năm 1282. Nó đánh dấu chấm hết quyền thống trị của người Angevins trên hòn đảo này cũng như triều đại tham lam của họ tại Ý. Nguyên vua Charles I ở Anjou đã nhận lại vương quốc với hai đảo Sicilites từ tay Pope Urban IV năm 1266 và tuyên bố đã đánh bại Hohenstaufen Manfred, con trai của hoàng đế La Mã Frederick II. Dưới sự cai trị hà khắc của ông cùng với các sắc thuế rất nặng nề và lòng căm ghét của dân chúng đối với sự hiện diện của những người Pháp chiếm đóng, vì vậy chỉ trong vòng một tháng, tất cả người Pháp đã bị giết chết hoặc bị buộc phải lẩn trốn. Vương miện sau đó được trao cho Pedro III ở Aragon, người đã có công ngăn cản Angevin tái chiếm lại lãnh thổ. Sau đó, ông truyền ngôi lại cho con trai là Frederick III ở Sicily."
+        "t": "Cuộc nổi dậy của quần chúng đảo Sicily. Đây là cuộc tàn sát dã man diễn ra trên hòn đảo bị người Pháp chiếm đóng này. Nó có tên gọi như thế (Vespers) bởi được bắt đầu vào thời gian của buổi cầu kinh chiều (lễ tối ở nhà thờ) nhằm ngày Thứ ba lễ Phục sinh năm 1282. Nó đánh dấu chấm hết quyền thống trị của người Angevins trên hòn đảo này cũng như triều đại tham lam của họ tại Ý. Nguyên vua Charles I ở Anjou đã nhận lại vương quốc với hai đảo Sicilites từ tay Pope Urban IV năm 1266 và tuyên bố đã đánh bại Hohenstaufen Manfred, con trai của hoàng đế La Mã Frederick II. Dưới sự cai trị hà khắc của ông cùng với các sắc thuế rất nặng nề và lòng căm ghét của dân chúng đối với sự hiện diện của những người Pháp chiếm đóng, vì vậy chỉ trong vòng một tháng, tất cả người Pháp đã bị giết chết hoặc bị buộc phải lẩn trốn. Vương miện sau đó được trao cho Pedro III ở Aragon, người đã có công ngăn cản Angevin tái chiếm lại lãnh thổ. Sau đó, ông truyền ngôi lại cho con trai là Frederick III ở Sicily."
       }
     ],
     "k": "sicilian vespers"
@@ -563,15 +563,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hòn đảo lớn nhất vùng biển Ðịa Trung Hải thuộc miền Tây-Nam nước Ý. Hiện nay, nó là một khu vực tự trị."
+        "t": "Hòn đảo lớn nhất vùng biển Địa Trung Hải thuộc miền Tây-Nam nước Ý. Hiện nay, nó là một khu vực tự trị."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Sicily tách rời khỏi lục địa Calabrian bởi eo biển Messina chỉ rộng 3 km (ít hơn 2 dặm). Phần lớn diện tích đảo là những dãy núi. Cao nhất là đỉnh Etna hình nón tuyết phủ quanh năm. Các cánh đồng chủ yếu ở phía Nam cho dù địa hình nơi đây vẫn là vùng đồi trung du. Tại đây mọc đầy những bụi cây ôliu, cây quả hạnh và các vườn nho. Ở phía Bắc là các đảo núi lửa Ustica, Liparis và Stromboli. Ðây là vùng núi lửa hoạt động liên tục nhất Châu Âu. Vùng lãnh hải phía Nam có các giếng dầu."
+        "t": "Địa hình: Sicily tách rời khỏi lục địa Calabrian bởi eo biển Messina chỉ rộng 3 km (ít hơn 2 dặm). Phần lớn diện tích đảo là những dãy núi. Cao nhất là đỉnh Etna hình nón tuyết phủ quanh năm. Các cánh đồng chủ yếu ở phía Nam cho dù địa hình nơi đây vẫn là vùng đồi trung du. Tại đây mọc đầy những bụi cây ôliu, cây quả hạnh và các vườn nho. Ở phía Bắc là các đảo núi lửa Ustica, Liparis và Stromboli. Đây là vùng núi lửa hoạt động liên tục nhất Châu Âu. Vùng lãnh hải phía Nam có các giếng dầu."
       },
       {
         "k": "m",
-        "t": "Lịch sử: vào thế kỷ thứ 8 trước công nguyên, người Phê-ni-xi đã thành lập thương cảng ở bờ Tây hòn đảo trong khi người Hy Lạp chiếm vùng đất phía Ðông và bờ biển phía Nam làm thuộc địa. Từ thế kỷ thứ 5 cho tới thế kỷ thứ 3 trước Công Nguyên, cuộc xung đột giữa Carthage và Hy Lạp (lãnh đạo bởi Syracuse) là nét đặc trưng của lịch sử hòn đảo. Năm 264 trước Công Nguyên, cuộc chiến tranh Punic đầu tiên giữa Carthage và La Mã bắt đầu. Ðến năm 210 trước Công Nguyên, hòn đảo hoàn toàn nằm dưới quyền kiểm soát của người La Mã. Họ duy trì nó cho tới khi bị người Vandals chiếm giữ và sau đó là Ostrogoths. Năm 535, Belisarius giành được quyền sở hữu hòn đảo cho vương triều Byzantine. Sự thống trị này kéo dài cho tới thế kỷ thứ 9, khi người Ả Rập giành được quyền kiểm soát hòn đảo sau một cuộc chiến dai dẳng và khốc liệt. Dưới triều đại Palermo nhân đức, nó đặc biệt trở nên hưng thịnh. Hai thế kỷ cai trị của Ả Rập kết thúc bởi sự thực dân hóa của người Norman. Từ năm 1139, Sicily trực thuộc vương quốc Naples dưới quyền của Roger II. Tiếp theo sau là sự thống trị của Surabian và Angevin. Chế độ Angevin sau cùng bị kết thúc bởi cuộc nổi dậy ô nhục Sicilian Vespers năm 1282. Tiếp theo sau là khoảng thời gian hơn 5 thế kỷ, hòn đảo nằm dưới sự cai trị của hoàng tử Aragonese và vua Tây Ban Nha."
+        "t": "Lịch sử: vào thế kỷ thứ 8 trước công nguyên, người Phê-ni-xi đã thành lập thương cảng ở bờ Tây hòn đảo trong khi người Hy Lạp chiếm vùng đất phía Đông và bờ biển phía Nam làm thuộc địa. Từ thế kỷ thứ 5 cho tới thế kỷ thứ 3 trước Công Nguyên, cuộc xung đột giữa Carthage và Hy Lạp (lãnh đạo bởi Syracuse) là nét đặc trưng của lịch sử hòn đảo. Năm 264 trước Công Nguyên, cuộc chiến tranh Punic đầu tiên giữa Carthage và La Mã bắt đầu. Đến năm 210 trước Công Nguyên, hòn đảo hoàn toàn nằm dưới quyền kiểm soát của người La Mã. Họ duy trì nó cho tới khi bị người Vandals chiếm giữ và sau đó là Ostrogoths. Năm 535, Belisarius giành được quyền sở hữu hòn đảo cho vương triều Byzantine. Sự thống trị này kéo dài cho tới thế kỷ thứ 9, khi người Ả Rập giành được quyền kiểm soát hòn đảo sau một cuộc chiến dai dẳng và khốc liệt. Dưới triều đại Palermo nhân đức, nó đặc biệt trở nên hưng thịnh. Hai thế kỷ cai trị của Ả Rập kết thúc bởi sự thực dân hóa của người Norman. Từ năm 1139, Sicily trực thuộc vương quốc Naples dưới quyền của Roger II. Tiếp theo sau là sự thống trị của Surabian và Angevin. Chế độ Angevin sau cùng bị kết thúc bởi cuộc nổi dậy ô nhục Sicilian Vespers năm 1282. Tiếp theo sau là khoảng thời gian hơn 5 thế kỷ, hòn đảo nằm dưới sự cai trị của hoàng tử Aragonese và vua Tây Ban Nha."
       },
       {
         "k": "m",
@@ -614,7 +614,7 @@
       {
         "k": "ex",
         "t": "Get out! I'm sick of the sight of you!",
-        "vi": "Ði ra! Tôi chán ngấy khi phải nhìn thấy anh!"
+        "vi": "Đi ra! Tôi chán ngấy khi phải nhìn thấy anh!"
       },
       {"k": "m", "t": "("},
       {"k": "ex", "t": "sick at/about something/doing something", "vi": ") đau khổ, chán ghét"},
@@ -3829,7 +3829,7 @@
     "segs": [{"k": "m", "t": "(dụng cụ) nghe âm dị vật sắt."}],
     "k": "siderophone"
   },
-  {"h": "siderophore", "segs": [{"k": "m", "t": "Ðại thực bào chứa sắt."}], "k": "siderophore"},
+  {"h": "siderophore", "segs": [{"k": "m", "t": "Đại thực bào chứa sắt."}], "k": "siderophore"},
   {
     "h": "siderophyllic element",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nguyên tố ưu sắt"}],
@@ -4056,7 +4056,7 @@
       {
         "k": "ex",
         "t": "Don't ride your bicycle on the pavement",
-        "vi": "Ðừng đi xe đạp trên vỉa hè."
+        "vi": "Đừng đi xe đạp trên vỉa hè."
       }
     ],
     "ipa": "'saidwɔ:k",
@@ -4541,7 +4541,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tuyến phòng thủ kiên cố để chống lại người Pháp được xây dựng từ Lens cho tới Rheims trong chiến tranh thế giới thứ I bởi người Ðức sau khi họ thua trận và bị bắt giữ ở Verdun. Ðôi khi nó còn được gọi là tuyến phòng thủ Hindenburg. Nó đã chứng minh được sự hữu ích của mình vào năm 1917: chỉ với một lực lượng nhỏ cũng có thể phòng thủ tốt nơi đây. Trong chiến tranh thế giới thứ II, Hitler đã củng cố nơi đây và bí mật cho xây dựng thêm các đường công sự ngầm dọc theo mặt trận phía Tây nước Ðức. Một vài đường ngầm đã được sử dụng trong cuộc tháo lui của quân Ðức vào năm 1944-1945."
+        "t": "Tuyến phòng thủ kiên cố để chống lại người Pháp được xây dựng từ Lens cho tới Rheims trong chiến tranh thế giới thứ I bởi người Đức sau khi họ thua trận và bị bắt giữ ở Verdun. Đôi khi nó còn được gọi là tuyến phòng thủ Hindenburg. Nó đã chứng minh được sự hữu ích của mình vào năm 1917: chỉ với một lực lượng nhỏ cũng có thể phòng thủ tốt nơi đây. Trong chiến tranh thế giới thứ II, Hitler đã củng cố nơi đây và bí mật cho xây dựng thêm các đường công sự ngầm dọc theo mặt trận phía Tây nước Đức. Một vài đường ngầm đã được sử dụng trong cuộc tháo lui của quân Đức vào năm 1944-1945."
       }
     ],
     "k": "siegfried line"
@@ -4633,11 +4633,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một quốc gia nhiệt đới nằm ở Tây châu Phi. Mặt Tây Nam là một bến cảng có phong cảnh tự nhiên rất đẹp hướng ra Ðại Tây Dương. Nó bị vây quanh bởi Guinea và Liberia."
+        "t": "Một quốc gia nhiệt đới nằm ở Tây châu Phi. Mặt Tây Nam là một bến cảng có phong cảnh tự nhiên rất đẹp hướng ra Đại Tây Dương. Nó bị vây quanh bởi Guinea và Liberia."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: các đầm lầy trải rộng đến tận thung lũng, nơi những dòng sông đi qua. Xa khỏi cánh rừng mưa của vùng đất bằng duyên hải là hoang mạc chạy sâu bên trong đất liền. Lẫn lộn trong những thung lũng cát mênh mông này là các hạt kim cương. Khí hậu nơi đây rất ẩm ướt. Vào mùa Ðông, bầu khí quyển ngập tràn những cơn gió hoang mạc khô cằn bắt nguồn từ sâu trong nội địa."
+        "t": "Địa hình: các đầm lầy trải rộng đến tận thung lũng, nơi những dòng sông đi qua. Xa khỏi cánh rừng mưa của vùng đất bằng duyên hải là hoang mạc chạy sâu bên trong đất liền. Lẫn lộn trong những thung lũng cát mênh mông này là các hạt kim cương. Khí hậu nơi đây rất ẩm ướt. Vào mùa Đông, bầu khí quyển ngập tràn những cơn gió hoang mạc khô cằn bắt nguồn từ sâu trong nội địa."
       },
       {
         "k": "m",
@@ -4645,7 +4645,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Nhà hàng hải người Bồ Ðào Nha Pedro de Cintra đặt chân đến Sierra Leone vào năm 1462. Cùng thời gian đó, Temne thủ lĩnh của dân di cư cũng vừa đến bờ biển. Trong suốt thế kỷ 16 và 17, việc buôn bán nô lệ và cơ hội kinh doanh hàng lậu đã thu hút rất nhiều cư dân Châu Âu đến đây bao gồm cả người Britons. Kết quả là cư dân của quốc gia ven biển này có nhiều chủng tộc. Năm 1787, thế lực chống chế độ nô lệ ở Anh đã mua lại vùng lãnh thổ ven biển từ nhà cầm quyền địa phương và dùng làm nơi trú ẩn cho những nô lệ nghèo đói ở Anh (tại đây, những nô lệ đào thoát mặc nhiên được công nhận quyền tự do theo điều luật từ năm 1772). Các nhà từ thiện Anh đã tổ chức phương tiện vận chuyển đưa họ tới mũi đất Sierra Leone, nơi mà thị trấn Freetown được hình thành. Năm 1791, Alexander Falconbridge thành lập công ty vận tải mang tên Công ty Sierra Leone. Nó đã đưa bọn thực dân đầu tiên đến Freetown năm 1792. Quốc gia này trở thành thuộc địa năm 1808. Sau năm 1815, các tàu chiến Anh đã bắt giữ những chiếc thuyền chở nô lệ và mang họ đến phóng thích ở đó. Trong suốt thế kỷ 19, vùng nội địa Sierra Leone dần dần được khám phá và vào năm 1896, nó chính thức trở thành thuộc địa do Anh bảo hộ. Tuy nhiên, nó vẫn tách rời khỏi thuộc địa Freetown cho tới năm 1951. Năm 1961, đất nước đã giành được độc lập dưới quyền của Thủ tướng Sir Milton Margai (1895-1964). Thế nhưng sau cái chết của ông, việc bầu cử trở nên khó khăn bởi hai cuộc binh biến nổ ra. Sau đó, mọi việc dần ổn định lại khi Dr.Siaka Stevens đứng ra thành lập một chính đảng quốc gia duy nhất. Dù vậy, sự thiếu thốn lương thực, tình trạng tham nhũng và xung đột giữa các sắc tộc đã đưa đến nhiều cuộc bạo loạn vào những năm đầu của thập niên 1980. Năm 1985, Stevens nghỉ hưu. Kế tục ông là Trung tướng Joseph Saidu Momoh. Là người đứng đầu quốc gia, ông giữ lại Nội các dân sự cũ và một chính đảng duy nhất. Ðó chính là đảng Ðại dân tộc (All People's Congress-APC). Tuy nhiên, chế độ này lại đầy dẫy nạn tham nhũng, hối lộ. Tháng tư năm 1992, cuộc binh biến do Ðại úy Valentine Strasser tổ chức đã lật đổ Saidu Momoh và thành lập Hội đồng quân sự lâm thời quốc gia. Nó chịu trách nhiệm thanh trừng bọn tham nhũng và củng cố lại nền kinh tế. Lệnh cấm các chính đảng hoạt động công bố năm 1992 và được kéo dài đến năm 1995. Các cuộc bạo loạn chống đối chính phủ diễn ra khắp nơi. Năm 1996, Strasser bị lật đổ bởi Phó tướng của mình, đại úy Julius Bio. Ông đứng ra nắm quyền điều khiển đất nước. Tháng 3 năm 1996, Ahmad Tejan Kabbah đã giành thắng lợi trong cuộc bầu cử dân chủ và trở thành Tổng thống chính quyền dân sự. Ông đã ký Hiệp định ngừng bắn với các lực lượng nổi dậy. Thế nhưng chỉ được 1 năm, Kabbah đã phải lẩn trốn ra nước ngoài vào tháng 5 năm 1997 sau cuộc binh biến của tướng Johnny Paul Koroma khiến chính quyền bị lung lay. Sự cố gắng dập tắt cuộc binh biến của lực lượng ứng cứu Nigerian bị thất bại càng khiến quốc gia rơi vào tình trạng hỗn loạn. Tuy nhiên, tháng 2 năm 1998, lực lượng liên minh Tây Phi do Nigerian dẫn đầu đã chiếm lại Freetown. Tổng thống Kabbah lại quay về với chức vụ của mình."
+        "t": "Lịch sử: Nhà hàng hải người Bồ Đào Nha Pedro de Cintra đặt chân đến Sierra Leone vào năm 1462. Cùng thời gian đó, Temne thủ lĩnh của dân di cư cũng vừa đến bờ biển. Trong suốt thế kỷ 16 và 17, việc buôn bán nô lệ và cơ hội kinh doanh hàng lậu đã thu hút rất nhiều cư dân Châu Âu đến đây bao gồm cả người Britons. Kết quả là cư dân của quốc gia ven biển này có nhiều chủng tộc. Năm 1787, thế lực chống chế độ nô lệ ở Anh đã mua lại vùng lãnh thổ ven biển từ nhà cầm quyền địa phương và dùng làm nơi trú ẩn cho những nô lệ nghèo đói ở Anh (tại đây, những nô lệ đào thoát mặc nhiên được công nhận quyền tự do theo điều luật từ năm 1772). Các nhà từ thiện Anh đã tổ chức phương tiện vận chuyển đưa họ tới mũi đất Sierra Leone, nơi mà thị trấn Freetown được hình thành. Năm 1791, Alexander Falconbridge thành lập công ty vận tải mang tên Công ty Sierra Leone. Nó đã đưa bọn thực dân đầu tiên đến Freetown năm 1792. Quốc gia này trở thành thuộc địa năm 1808. Sau năm 1815, các tàu chiến Anh đã bắt giữ những chiếc thuyền chở nô lệ và mang họ đến phóng thích ở đó. Trong suốt thế kỷ 19, vùng nội địa Sierra Leone dần dần được khám phá và vào năm 1896, nó chính thức trở thành thuộc địa do Anh bảo hộ. Tuy nhiên, nó vẫn tách rời khỏi thuộc địa Freetown cho tới năm 1951. Năm 1961, đất nước đã giành được độc lập dưới quyền của Thủ tướng Sir Milton Margai (1895-1964). Thế nhưng sau cái chết của ông, việc bầu cử trở nên khó khăn bởi hai cuộc binh biến nổ ra. Sau đó, mọi việc dần ổn định lại khi Dr.Siaka Stevens đứng ra thành lập một chính đảng quốc gia duy nhất. Dù vậy, sự thiếu thốn lương thực, tình trạng tham nhũng và xung đột giữa các sắc tộc đã đưa đến nhiều cuộc bạo loạn vào những năm đầu của thập niên 1980. Năm 1985, Stevens nghỉ hưu. Kế tục ông là Trung tướng Joseph Saidu Momoh. Là người đứng đầu quốc gia, ông giữ lại Nội các dân sự cũ và một chính đảng duy nhất. Đó chính là đảng Đại dân tộc (All People's Congress-APC). Tuy nhiên, chế độ này lại đầy dẫy nạn tham nhũng, hối lộ. Tháng tư năm 1992, cuộc binh biến do Đại úy Valentine Strasser tổ chức đã lật đổ Saidu Momoh và thành lập Hội đồng quân sự lâm thời quốc gia. Nó chịu trách nhiệm thanh trừng bọn tham nhũng và củng cố lại nền kinh tế. Lệnh cấm các chính đảng hoạt động công bố năm 1992 và được kéo dài đến năm 1995. Các cuộc bạo loạn chống đối chính phủ diễn ra khắp nơi. Năm 1996, Strasser bị lật đổ bởi Phó tướng của mình, đại úy Julius Bio. Ông đứng ra nắm quyền điều khiển đất nước. Tháng 3 năm 1996, Ahmad Tejan Kabbah đã giành thắng lợi trong cuộc bầu cử dân chủ và trở thành Tổng thống chính quyền dân sự. Ông đã ký Hiệp định ngừng bắn với các lực lượng nổi dậy. Thế nhưng chỉ được 1 năm, Kabbah đã phải lẩn trốn ra nước ngoài vào tháng 5 năm 1997 sau cuộc binh biến của tướng Johnny Paul Koroma khiến chính quyền bị lung lay. Sự cố gắng dập tắt cuộc binh biến của lực lượng ứng cứu Nigerian bị thất bại càng khiến quốc gia rơi vào tình trạng hỗn loạn. Tuy nhiên, tháng 2 năm 1998, lực lượng liên minh Tây Phi do Nigerian dẫn đầu đã chiếm lại Freetown. Tổng thống Kabbah lại quay về với chức vụ của mình."
       },
       {"k": "m", "t": "Thủ đô: Freetown."},
       {"k": "m", "t": "Diện tích: 71.740 km2"},
@@ -4653,7 +4653,7 @@
       {"k": "m", "t": "Tiền tệ: 1 leone =100 đồng xu."},
       {
         "k": "m",
-        "t": "Tôn giáo: Ðạo truyền thống 51,5%; đạo Hồi Sunni 39,4%; Tin Lành 4,7%; Thiên Chúa Giáo La Mã 2,2%; giáo phái Anh 1,2%."
+        "t": "Tôn giáo: Đạo truyền thống 51,5%; đạo Hồi Sunni 39,4%; Tin Lành 4,7%; Thiên Chúa Giáo La Mã 2,2%; giáo phái Anh 1,2%."
       },
       {"k": "m", "t": "Sắc tộc: Mende 46%; Temne 45%."},
       {
@@ -5724,7 +5724,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1368-1437) Ông làm hoàng đế La Mã cổ đại (1411-1437), kiêm vua Hungary (!387-1437), Ðức (1411-1437), Bohemia (1419-1437), và Lombardy (1431-1437) và cũng là vị hoàng đế sau cùng của điện Luxemburg. Năm 1396, ông bị đánh bại bởi người Thổ Nhĩ Kỳ ở Nicopolis nhưng vẫn giành và bảo vệ được một số lượng lớn lãnh thổ và các tước vị trong thời gian dài bằng một chế độ cai trị nghiêm khắc. Ðể làm được điều đó, ông đã phải trải qua các cuộc chiến với những người theo đạo Hussites, Venetians và những đối thủ tranh giành ngai vàng ở Hungary và Ðức. Là một tín đồ Thiên Chúa Giáo chính thống, ông hành động chống lại người Hussites một cách quyết liệt. Ông gây sức ép với Giáo hoàng để kêu gọi hội đồng ở Constance kết thúc phái ly giáo Hussites. Sigismund đã hứa hẹn cấp giấy thông hành cho Huss tham dự hội đồng tôn giáo và sau đó, ra lệnh giết chết ông ta."
+        "t": "(1368-1437) Ông làm hoàng đế La Mã cổ đại (1411-1437), kiêm vua Hungary (!387-1437), Đức (1411-1437), Bohemia (1419-1437), và Lombardy (1431-1437) và cũng là vị hoàng đế sau cùng của điện Luxemburg. Năm 1396, ông bị đánh bại bởi người Thổ Nhĩ Kỳ ở Nicopolis nhưng vẫn giành và bảo vệ được một số lượng lớn lãnh thổ và các tước vị trong thời gian dài bằng một chế độ cai trị nghiêm khắc. Để làm được điều đó, ông đã phải trải qua các cuộc chiến với những người theo đạo Hussites, Venetians và những đối thủ tranh giành ngai vàng ở Hungary và Đức. Là một tín đồ Thiên Chúa Giáo chính thống, ông hành động chống lại người Hussites một cách quyết liệt. Ông gây sức ép với Giáo hoàng để kêu gọi hội đồng ở Constance kết thúc phái ly giáo Hussites. Sigismund đã hứa hẹn cấp giấy thông hành cho Huss tham dự hội đồng tôn giáo và sau đó, ra lệnh giết chết ông ta."
       }
     ],
     "k": "sigismund"
@@ -5810,8 +5810,8 @@
     "ipa": "'sigmɔid",
     "k": "sigmoid"
   },
-  {"h": "sigmoid artery", "segs": [{"k": "m", "t": "Ðộng mạch xích-ma."}], "k": "sigmoid artery"},
-  {"h": "sigmoid colon", "segs": [{"k": "m", "t": "Ðại tràng sigma."}], "k": "sigmoid colon"},
+  {"h": "sigmoid artery", "segs": [{"k": "m", "t": "Động mạch xích-ma."}], "k": "sigmoid artery"},
+  {"h": "sigmoid colon", "segs": [{"k": "m", "t": "Đại tràng sigma."}], "k": "sigmoid colon"},
   {
     "h": "sigmoid flexure",
     "segs": [
@@ -6256,7 +6256,7 @@
   },
   {
     "h": "signal acquisition",
-    "segs": [{"k": "m", "t": "tìm kiếm các tín hiệu VTÐ."}],
+    "segs": [{"k": "m", "t": "tìm kiếm các tín hiệu VTĐ."}],
     "k": "signal acquisition"
   },
   {
@@ -7677,7 +7677,7 @@
       },
       {
         "k": "m",
-        "t": "Tín hiệu kỹ thuật số được truyền dưới dạng những con số nhị phân như là những xung điện trong đó mỗi xung là một tín hiệu. Ðiện thế tại một điểm nào đó trên dây sẽ phụ thuộc vào trạng thái xung. Do đó số nhị phân 1 được truyền thông qua điện thế dương (cao) và số nhị phân 0 được truyền thông qua điện thế âm (thấp). Chú ý rằng đôi lúc ta cũng có thể làm ngược lại."
+        "t": "Tín hiệu kỹ thuật số được truyền dưới dạng những con số nhị phân như là những xung điện trong đó mỗi xung là một tín hiệu. Điện thế tại một điểm nào đó trên dây sẽ phụ thuộc vào trạng thái xung. Do đó số nhị phân 1 được truyền thông qua điện thế dương (cao) và số nhị phân 0 được truyền thông qua điện thế âm (thấp). Chú ý rằng đôi lúc ta cũng có thể làm ngược lại."
       },
       {"k": "m", "t": "Hình S-4 miêu tả cả hai tín hiệu tuần tự và tín hiệu số tương đương nhau."},
       {
@@ -7703,7 +7703,7 @@
       },
       {
         "k": "m",
-        "t": "Ðơn cực (Unipolar) Trong hệ thống này, những số 1 được biểu diễn bằng mức có điện thế và những số 0 thì không có điện thế. Ðây không phải là việc mã hóa đặc biệt. Hệ thống này cần mức điện thế cao và băng thông tương đối lớn."
+        "t": "Đơn cực (Unipolar) Trong hệ thống này, những số 1 được biểu diễn bằng mức có điện thế và những số 0 thì không có điện thế. Đây không phải là việc mã hóa đặc biệt. Hệ thống này cần mức điện thế cao và băng thông tương đối lớn."
       },
       {
         "k": "m",
@@ -8206,7 +8206,7 @@
       {
         "k": "ex",
         "t": "Significantly, he did not deny that there might be an election",
-        "vi": "Ðiều có ý nghĩa đặc biệt là ông ta không phủ nhận khả năng xảy ra cuộc tuyển cử"
+        "vi": "Điều có ý nghĩa đặc biệt là ông ta không phủ nhận khả năng xảy ra cuộc tuyển cử"
       },
       {"k": "m", "t": "tới một mức độ quan trọng hoặc to lớn"},
       {"k": "m", "t": "đáng kể"},
@@ -8592,7 +8592,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "người theo đạo Sikh tôn giáo phát triển từ Ấn Ðộ giáo vào thế kỷ 16 và dựa trên tín ngưỡng chỉ một Thần."
+        "t": "người theo đạo Sikh tôn giáo phát triển từ Ấn Độ giáo vào thế kỷ 16 và dựa trên tín ngưỡng chỉ một Thần."
       }
     ],
     "ipa": "si:k",
@@ -8603,7 +8603,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1845-1849). Hai cuộc xung đột giữa người theo đạo Sikhs ở Lahore và công ty Ðông Ấn của Anh. Cuộc chiến tranh thứ nhất diễn ra (1845-1846) khi đoàn người theo đạo Sikhs vượt qua sông Sutlej vào lãnh địa Anh tại Ấn Ðộ. Sau trận đánh không phân thắng bại của Mudki và Firuzshah, người Anh đã đánh bại người theo đạo Sikhs ở Aliwal và Sobraon. Bằng Hiệp ước Lahore (1846), Anh giành thêm được các vùng đất ở Jullundar Doab, chiếm Kashmir cho Gulab Singh và thiết lập quyền kiểm soát chính quyền Lahore thông qua việc bổ nhiệm Công sứ tại đây. Nỗi bất mãn của người theo đạo Sikh đã dẫn tới cuộc chiến tranh lần thứ hai (1848-1849). Trận chiến đẫm máu ở Chillianwallah đã diễn ra trong bối cảnh Anh dứt khoát phải giành được chiến thắng tại Gujerat trước đội quân người Sikh đông đảo 60.000 người. Viên Toàn quyền Lord Dalhousie sau đó đã phải sáp nhập Punjab vào năm 1849. Các trận đánh dai dẳng trong cuộc chiến tranh người Sikh này đã khiến Anh phải tham chiến tại Ấn Ðộ. Trong khi đó, lực lượng người theo đạo Sikh được thành lập bởi Ranjit Singh đã được huấn luyện tốt các sách lược chiến đấu của Châu Âu và họ có quyết tâm rất cao trong trận đấu."
+        "t": "(1845-1849). Hai cuộc xung đột giữa người theo đạo Sikhs ở Lahore và công ty Đông Ấn của Anh. Cuộc chiến tranh thứ nhất diễn ra (1845-1846) khi đoàn người theo đạo Sikhs vượt qua sông Sutlej vào lãnh địa Anh tại Ấn Độ. Sau trận đánh không phân thắng bại của Mudki và Firuzshah, người Anh đã đánh bại người theo đạo Sikhs ở Aliwal và Sobraon. Bằng Hiệp ước Lahore (1846), Anh giành thêm được các vùng đất ở Jullundar Doab, chiếm Kashmir cho Gulab Singh và thiết lập quyền kiểm soát chính quyền Lahore thông qua việc bổ nhiệm Công sứ tại đây. Nỗi bất mãn của người theo đạo Sikh đã dẫn tới cuộc chiến tranh lần thứ hai (1848-1849). Trận chiến đẫm máu ở Chillianwallah đã diễn ra trong bối cảnh Anh dứt khoát phải giành được chiến thắng tại Gujerat trước đội quân người Sikh đông đảo 60.000 người. Viên Toàn quyền Lord Dalhousie sau đó đã phải sáp nhập Punjab vào năm 1849. Các trận đánh dai dẳng trong cuộc chiến tranh người Sikh này đã khiến Anh phải tham chiến tại Ấn Độ. Trong khi đó, lực lượng người theo đạo Sikh được thành lập bởi Ranjit Singh đã được huấn luyện tốt các sách lược chiến đấu của Châu Âu và họ có quyết tâm rất cao trong trận đấu."
       }
     ],
     "k": "sikh wars"
@@ -8613,7 +8613,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(theo tiếng Phạn có nghĩa là môn đồ). Ðạo một thần được sáng lập tại Punjab vào cuối thế kỷ thứ 15 bởi Guru Nanak. Các tín đồ đạo Shikh xuất thân từ đạo Hồi và đạo Hindu. Họ tin tưởng tuyệt đối vào Ðức Chúa trời vĩnh hằng có quyền năng tối thượng nhưng đồng thời cũng chấp nhận khái niệm của đạo Hindu về nghiệp chướng và việc đầu thai. Nó giảng dạy về sự bình đẳng của nhân loại và loại bỏ chế độ đẳng cấp. Mục đích của các tín đồ là nhằm triệt bỏ tính ích kỷ và đạt được sự hòa hợp với Thượng đế thông qua việc khấn niệm danh xưng Ngài nhiều lần. Bằng cách hợp nhất với Chúa, người theo đạo Sikh sẽ đạt được chánh quả mukti (Hindu gọi là moksha, nghĩa là thoát khỏi vòng sinh, tử và được tái sinh). Nanak là người đứng đầu trong số 10 người truyền giảng đạo giáo. Ông cùng với người thứ năm, thứ chín, chấp nhận sự xung đột với những người có thế lực. Người đứng thứ mười là Gobin Singh, tuyên bố rằng người kế vị ông với tư cách là người truyền giáo vĩnh viễn phải giống như Adi Granth, trong quyển kinh thánh của người theo đạo Sikhs. Gobind Singh cũng thành lập tổ chức Khalsa năm 1699 gồm những chiến binh có cùng chí hướng và nguyện tử vì đạo. Một thế kỷ sau, Ranjit Singh thành lập vương quốc Sikh hùng mạnh ở Punjab, nhưng triều đại chỉ tồn tại trong một thời gian ngắn do bị Anh sáp nhập năm 1849 (xem thêm Sikh Wars). Ngày nay, tổ chức Khalsa có cả nam lẫn nữ. Họ phải trải qua cuộc sát hạch toàn diện về niềm tin ngay từ giai đoạn đầu. Ðạo Sikh chính thống phải gồm đủ \"5 chữ k\": kesh (không cắt tóc và cạo râu); kungha (lược chải tóc); kuchcha (quần soọc); kara (vòng đeo cổ bằng sắt hoặc thép) và kirpan (gươm hoặc dao găm). Người theo đạo Shikh không có linh mục. Bất kỳ tín đồ đạo Sikh nào ở cả 2 giới tính đều có thể được yêu cầu phải phụng sự. Việc thờ phụng có thể bao gồm sự dâng hiến cá nhân, bằng việc phục vụ cộng đồng giáo dân hoặc tại các đền thờ Sikh. Một chi lưu khác của Harimandir còn gọi là Ðền Vàng ở Amritsar Ấn Ðộ. Những cứ điểm quan trọng khác nữa của đạo Sikhs là tại Patna (nơi sinh của Gobinb Singh); Anandpur (nơi Khalsa được thành lập) và Nander (nơi Gobind Singh chết). Phần lớn những tín đồ đạo Sikhs ngày nay sống tập trung ở Punjab Ấn Ðộ, nơi những người theo đạo Sikhs ly khai đã trở thành một lực lượng chính trị, quân sự. Nhiều người khác đã di cư tới Anh, Mỹ, Canada, Ðông Phi và Nam Phi. Tổng số tín đồ đạo Sikh trên toàn thế giới ước tính khoảng 14 triệu người."
+        "t": "(theo tiếng Phạn có nghĩa là môn đồ). Đạo một thần được sáng lập tại Punjab vào cuối thế kỷ thứ 15 bởi Guru Nanak. Các tín đồ đạo Shikh xuất thân từ đạo Hồi và đạo Hindu. Họ tin tưởng tuyệt đối vào Đức Chúa trời vĩnh hằng có quyền năng tối thượng nhưng đồng thời cũng chấp nhận khái niệm của đạo Hindu về nghiệp chướng và việc đầu thai. Nó giảng dạy về sự bình đẳng của nhân loại và loại bỏ chế độ đẳng cấp. Mục đích của các tín đồ là nhằm triệt bỏ tính ích kỷ và đạt được sự hòa hợp với Thượng đế thông qua việc khấn niệm danh xưng Ngài nhiều lần. Bằng cách hợp nhất với Chúa, người theo đạo Sikh sẽ đạt được chánh quả mukti (Hindu gọi là moksha, nghĩa là thoát khỏi vòng sinh, tử và được tái sinh). Nanak là người đứng đầu trong số 10 người truyền giảng đạo giáo. Ông cùng với người thứ năm, thứ chín, chấp nhận sự xung đột với những người có thế lực. Người đứng thứ mười là Gobin Singh, tuyên bố rằng người kế vị ông với tư cách là người truyền giáo vĩnh viễn phải giống như Adi Granth, trong quyển kinh thánh của người theo đạo Sikhs. Gobind Singh cũng thành lập tổ chức Khalsa năm 1699 gồm những chiến binh có cùng chí hướng và nguyện tử vì đạo. Một thế kỷ sau, Ranjit Singh thành lập vương quốc Sikh hùng mạnh ở Punjab, nhưng triều đại chỉ tồn tại trong một thời gian ngắn do bị Anh sáp nhập năm 1849 (xem thêm Sikh Wars). Ngày nay, tổ chức Khalsa có cả nam lẫn nữ. Họ phải trải qua cuộc sát hạch toàn diện về niềm tin ngay từ giai đoạn đầu. Đạo Sikh chính thống phải gồm đủ \"5 chữ k\": kesh (không cắt tóc và cạo râu); kungha (lược chải tóc); kuchcha (quần soọc); kara (vòng đeo cổ bằng sắt hoặc thép) và kirpan (gươm hoặc dao găm). Người theo đạo Shikh không có linh mục. Bất kỳ tín đồ đạo Sikh nào ở cả 2 giới tính đều có thể được yêu cầu phải phụng sự. Việc thờ phụng có thể bao gồm sự dâng hiến cá nhân, bằng việc phục vụ cộng đồng giáo dân hoặc tại các đền thờ Sikh. Một chi lưu khác của Harimandir còn gọi là Đền Vàng ở Amritsar Ấn Độ. Những cứ điểm quan trọng khác nữa của đạo Sikhs là tại Patna (nơi sinh của Gobinb Singh); Anandpur (nơi Khalsa được thành lập) và Nander (nơi Gobind Singh chết). Phần lớn những tín đồ đạo Sikhs ngày nay sống tập trung ở Punjab Ấn Độ, nơi những người theo đạo Sikhs ly khai đã trở thành một lực lượng chính trị, quân sự. Nhiều người khác đã di cư tới Anh, Mỹ, Canada, Đông Phi và Nam Phi. Tổng số tín đồ đạo Sikh trên toàn thế giới ước tính khoảng 14 triệu người."
       }
     ],
     "k": "sikhism"
@@ -8623,7 +8623,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một quốc gia nhỏ ở miền Bắc Ấn Ðộ, nằm kẹp giữa Nepal và Bhutan và dọc theo tuyến đường chiến lược nối liền Ấn Ðộ và Tibet. Hầu hết đường biên giới Tây Bắc đều bị phủ băng và che chắn bởi các rặng núi Kanchenjunga hùng vĩ. Cho đến năm 1975, nó vẫn là nước chịu sự bảo hộ của người Anh với sự cai trị của các chogyals (những vị vua). Trong quá khứ, Sikkim đã từng chịu đựng sự xâm lăng liên tục từ các nước láng giềng thuộc dãy Himalayan, đặc biệt là Bhutan và Nepal. Do đó, sách lược duy nhất của họ là dựa vào sự bảo hộ của Anh theo Hiệp ước AngloSikkimese (1861). Như vậy, nó gần như trở thành lãnh địa của Anh tại Ấn Ðộ. Bất chấp những lời bình phẩm về cách cai trị phong kiến của mình, các chogyal hy vọng giữ lại được quyền tự trị khi Anh rời khỏi Ấn Ðộ. Tuy nhiên, cuộc trưng cầu ý dân vào năm 1975 đã bày tỏ mong muốn được gia nhập vào liên bang Ấn Ðộ và mọi việc sau đó đã diễn ra một cách suôn sẻ."
+        "t": "Một quốc gia nhỏ ở miền Bắc Ấn Độ, nằm kẹp giữa Nepal và Bhutan và dọc theo tuyến đường chiến lược nối liền Ấn Độ và Tibet. Hầu hết đường biên giới Tây Bắc đều bị phủ băng và che chắn bởi các rặng núi Kanchenjunga hùng vĩ. Cho đến năm 1975, nó vẫn là nước chịu sự bảo hộ của người Anh với sự cai trị của các chogyals (những vị vua). Trong quá khứ, Sikkim đã từng chịu đựng sự xâm lăng liên tục từ các nước láng giềng thuộc dãy Himalayan, đặc biệt là Bhutan và Nepal. Do đó, sách lược duy nhất của họ là dựa vào sự bảo hộ của Anh theo Hiệp ước AngloSikkimese (1861). Như vậy, nó gần như trở thành lãnh địa của Anh tại Ấn Độ. Bất chấp những lời bình phẩm về cách cai trị phong kiến của mình, các chogyal hy vọng giữ lại được quyền tự trị khi Anh rời khỏi Ấn Độ. Tuy nhiên, cuộc trưng cầu ý dân vào năm 1975 đã bày tỏ mong muốn được gia nhập vào liên bang Ấn Độ và mọi việc sau đó đã diễn ra một cách suôn sẻ."
       }
     ],
     "k": "sikkim"
@@ -9130,11 +9130,11 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: vùng Hạ Silesia là các cánh đồng trải dài trong thung lũng Silesian theo hướng Tây Bắc-Ðông Nam. Dù ít hoặc nhiều, nó cũng chịu ảnh hưởng bởi lưu lượng nước của sông Oder (Odra). Về phía Ðông Nam, Thượng Silesia có cấu trúc địa tầng với những vỉa than đá lộ thiên. Ðây chính là nguồn động lực quan trọng góp phần thúc đẩy nền công nghiệp."
+        "t": "Địa hình: vùng Hạ Silesia là các cánh đồng trải dài trong thung lũng Silesian theo hướng Tây Bắc-Đông Nam. Dù ít hoặc nhiều, nó cũng chịu ảnh hưởng bởi lưu lượng nước của sông Oder (Odra). Về phía Đông Nam, Thượng Silesia có cấu trúc địa tầng với những vỉa than đá lộ thiên. Đây chính là nguồn động lực quan trọng góp phần thúc đẩy nền công nghiệp."
       },
       {
         "k": "m",
-        "t": "Lịch sử: Silesia nguyên là một tỉnh lỵ của Ba Lan nhưng được chuyển giao cho Bohemia năm 1335. Từ năm 1526, nó lại bị đế quốc Áo thống trị cho đến khi rơi vào tay người Phổ năm 1742. Áo chỉ giữ lại duy nhất một vùng đất nhỏ bé vùng cực Nam Silesia. Sau thất bại trong các cuộc tranh giành quyền lực và nhất là những cuộc trưng cầu dân ý, năm 1918, Thượng Silesia (vùng đất có mỏ than đá và quặng sắt) được trao trả lại cho Ba Lan và vùng Silesia thuộc Áo được trả về cho Czechoslovakia. Chỉ có Ðức là vẫn giữ vùng Hạ Silesia. Trong suốt những năm tháng chiến tranh, người Pháp đã đầu tư rất nhiều tiền của vào vùng Silesia của Ba Lan. Tuy nhiên, họ vẫn băn khoăn vì tình trạng giành giật nhau giữa 3 nước Ðức, Ba Lan và Czechoslovakia. Năm 1939, vùng Thượng Silesia bị Ðệ tam đế chế Ðức chiếm đóng. Sau thất bại của Ðức năm 1945, Hội nghị Potsdam quyết định toàn bộ vùng đất phải trả lại cho Ba Lan. Những cư dân có quốc tịch Ðức được phép hồi hương và đa số đều chọn định cư tại Cộng hòa Liên bang Ðức."
+        "t": "Lịch sử: Silesia nguyên là một tỉnh lỵ của Ba Lan nhưng được chuyển giao cho Bohemia năm 1335. Từ năm 1526, nó lại bị đế quốc Áo thống trị cho đến khi rơi vào tay người Phổ năm 1742. Áo chỉ giữ lại duy nhất một vùng đất nhỏ bé vùng cực Nam Silesia. Sau thất bại trong các cuộc tranh giành quyền lực và nhất là những cuộc trưng cầu dân ý, năm 1918, Thượng Silesia (vùng đất có mỏ than đá và quặng sắt) được trao trả lại cho Ba Lan và vùng Silesia thuộc Áo được trả về cho Czechoslovakia. Chỉ có Đức là vẫn giữ vùng Hạ Silesia. Trong suốt những năm tháng chiến tranh, người Pháp đã đầu tư rất nhiều tiền của vào vùng Silesia của Ba Lan. Tuy nhiên, họ vẫn băn khoăn vì tình trạng giành giật nhau giữa 3 nước Đức, Ba Lan và Czechoslovakia. Năm 1939, vùng Thượng Silesia bị Đệ tam đế chế Đức chiếm đóng. Sau thất bại của Đức năm 1945, Hội nghị Potsdam quyết định toàn bộ vùng đất phải trả lại cho Ba Lan. Những cư dân có quốc tịch Đức được phép hồi hương và đa số đều chọn định cư tại Cộng hòa Liên bang Đức."
       }
     ],
     "k": "sileria"
@@ -10310,7 +10310,7 @@
   },
   {
     "h": "siliculose cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh hình quả cải."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh hình quả cải."}],
     "k": "siliculose cataract"
   },
   {
@@ -10352,7 +10352,7 @@
   },
   {
     "h": "siliquose cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh hình quả cải."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh hình quả cải."}],
     "k": "siliquose cataract"
   },
   {
@@ -10426,7 +10426,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Con đường tơ lụa. Ðây là lộ trình mua bán mậu dịch thời xưa nối liền Trung Quốc, Trung Á, vùng Trung cận Ðông băng qua dãy núi Pamir, thung lũng Ferghana, Samarkand, và Merv. Từ thế kỷ thứ 2 trước công nguyên, tơ lụa Trung Quốc đã được trao đổi lấy vàng bạc từ các nước phương Tây. Tuy nhiên, hầu hết việc mua bán đều phải thông qua trung gian. Rất ít lái buôn và chỉ một tỉ lệ nhỏ hàng hóa thực sự được vận chuyển qua quãng đường dài đến thế. Ðạo phật và đạo Cơ đốc Nestorian đã đến Trung Quốc bằng con đường này vào khoảng thế kỷ thứ 7 từ những thương nhân Levantine. Cuộc chinh phục của người Mông Cổ vào thế kỷ 13 đã mang đến cho lộ trình một sức sống mới và Marco Polo làm cho nó có thêm ý nghĩa. Mãi cho tới thế kỷ 15 nó mới bị chấm dứt và thay thế bằng hoạt động mậu dịch từ Ðông sang Tây theo đường biển."
+        "t": "Con đường tơ lụa. Đây là lộ trình mua bán mậu dịch thời xưa nối liền Trung Quốc, Trung Á, vùng Trung cận Đông băng qua dãy núi Pamir, thung lũng Ferghana, Samarkand, và Merv. Từ thế kỷ thứ 2 trước công nguyên, tơ lụa Trung Quốc đã được trao đổi lấy vàng bạc từ các nước phương Tây. Tuy nhiên, hầu hết việc mua bán đều phải thông qua trung gian. Rất ít lái buôn và chỉ một tỉ lệ nhỏ hàng hóa thực sự được vận chuyển qua quãng đường dài đến thế. Đạo phật và đạo Cơ đốc Nestorian đã đến Trung Quốc bằng con đường này vào khoảng thế kỷ thứ 7 từ những thương nhân Levantine. Cuộc chinh phục của người Mông Cổ vào thế kỷ 13 đã mang đến cho lộ trình một sức sống mới và Marco Polo làm cho nó có thêm ý nghĩa. Mãi cho tới thế kỷ 15 nó mới bị chấm dứt và thay thế bằng hoạt động mậu dịch từ Đông sang Tây theo đường biển."
       }
     ],
     "k": "silk route"
@@ -10952,7 +10952,7 @@
       {
         "k": "ex",
         "t": "It must be the silly season. There's a story here about peculiarly shaped potatoes:",
-        "vi": "Ðúng là thời gian không có chuyện gì quan trọng để nói. Báo đăng một chuyện về những củ khoai có hình dạng kỳ lạ."
+        "vi": "Đúng là thời gian không có chuyện gì quan trọng để nói. Báo đăng một chuyện về những củ khoai có hình dạng kỳ lạ."
       },
       {
         "k": "ex",
@@ -13147,7 +13147,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hành động buôn thần bán thánh. Theo đạo Cơ đốc, đây là hành vi mua bán linh hồn hoặc trục lợi từ nhà thờ. Thực tế, nó thường được gộp chung như một tội lỗi. Ðược đặt tên theo nhân vật Simon Magus, là người mà theo các điều răn trong kinh thánh mới, đã cố mua sức mạnh linh hồn từ St Peter. Ðiển tích này ám chỉ việc mua lấy chức vụ hoặc quyền thế trong các nhà thờ Thiên Chúa Giáo La Mã. Chính sách của nhà thờ đã quy định các chức vụ, bổng lộc trong giáo hội không được dùng tiền để đổi lấy vì điều này rất nguy hiểm. Nhiều giáo sĩ thế tục đã kêu ca rằng chúng là của họ và nên để họ tùy ý sử dụng như mong ước. Những gia đình giàu có đã mua chức vụ cho những thành viên của họ và dùng chúng như một hình thức đỡ đầu. Việc buôn thần bán thánh này là một trong những tệ nạn đã bị phê phán trong thời kỳ cải cách ở Châu Âu."
+        "t": "Hành động buôn thần bán thánh. Theo đạo Cơ đốc, đây là hành vi mua bán linh hồn hoặc trục lợi từ nhà thờ. Thực tế, nó thường được gộp chung như một tội lỗi. Được đặt tên theo nhân vật Simon Magus, là người mà theo các điều răn trong kinh thánh mới, đã cố mua sức mạnh linh hồn từ St Peter. Điển tích này ám chỉ việc mua lấy chức vụ hoặc quyền thế trong các nhà thờ Thiên Chúa Giáo La Mã. Chính sách của nhà thờ đã quy định các chức vụ, bổng lộc trong giáo hội không được dùng tiền để đổi lấy vì điều này rất nguy hiểm. Nhiều giáo sĩ thế tục đã kêu ca rằng chúng là của họ và nên để họ tùy ý sử dụng như mong ước. Những gia đình giàu có đã mua chức vụ cho những thành viên của họ và dùng chúng như một hình thức đỡ đầu. Việc buôn thần bán thánh này là một trong những tệ nạn đã bị phê phán trong thời kỳ cải cách ở Châu Âu."
       }
     ],
     "k": "simony"
@@ -15135,10 +15135,10 @@
   {
     "h": "Simultaneous equation bias",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðộ lệch do phương trình đồng thời."},
+      {"k": "m", "t": "(kinh tế) Độ lệch do phương trình đồng thời."},
       {
         "k": "m",
-        "t": "Ðộ lệch trong những ước lượng bằng phương pháp bình phương nhỏ nhất thông thường là kết quả của những tác động phản hồi giữa các phương trình khi mô hình được dự đoán bao gồm một tập hợp những Phương trình đồng thời."
+        "t": "Độ lệch trong những ước lượng bằng phương pháp bình phương nhỏ nhất thông thường là kết quả của những tác động phản hồi giữa các phương trình khi mô hình được dự đoán bao gồm một tập hợp những Phương trình đồng thời."
       }
     ],
     "k": "simultaneous equation bias"
@@ -15474,7 +15474,7 @@
       {
         "k": "ex",
         "t": "she moved to London last May and has since got a job on a newspaper",
-        "vi": "bà ấy dọn về Luân Ðôn tháng năm vừa rồi và từ đó đã kiếm được việc làm tại một tòa báo"
+        "vi": "bà ấy dọn về Luân Đôn tháng năm vừa rồi và từ đó đã kiếm được việc làm tại một tòa báo"
       },
       {"k": "pos", "t": "giới từ"},
       {
@@ -15555,7 +15555,7 @@
       {"k": "ex", "t": "It is my sincere belief that", "vi": "..."},
       {"k": "m", "t": "niềm tin chân thành của tôi là..."},
       {"k": "m", "t": "thật thà, chân thành, thẳng thắn (về người)"},
-      {"k": "ex", "t": "a sincere Christian", "vi": "một tính đồ Cơ Ðốc giáo chân thành."}
+      {"k": "ex", "t": "a sincere Christian", "vi": "một tính đồ Cơ Đốc giáo chân thành."}
     ],
     "ipa": "sin'siə",
     "k": "sincere",
@@ -15612,7 +15612,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một vùng đất hiện nay là một tỉnh thành của Pakistan. Phần lớn diện tích là hoang mạc thuộc vùng Hạ thung lũng Indus. Có rất nhiều địa danh nhưng đáng lưu ý nhất là Mohenjo-Daro, cho thấy vùng này là cái nôi của nền văn minh nhân loại vào giai đoạn đầu. Nó đã từng hợp tác với đế quốc Mauryan và trong một thời gian dài, nó gần như đã bị đồng hóa. Vào năm 711, người Ả Rập xâm lăng vùng đất này và khởi đầu một kỷ nguyên Hồi giáo. Ðến thế kỷ 16, vua Akbar đã mở rộng quyền lực Mông Cổ tới tận nơi đây. Tuy nhiên, họ chỉ cô lập mà không quan tâm nhiều lắm đến tình hình nơi đây. Mọi việc chỉ chấm dứt khi Anh chiếm đóng vùng đất này vào thế kỷ 19."
+        "t": "Một vùng đất hiện nay là một tỉnh thành của Pakistan. Phần lớn diện tích là hoang mạc thuộc vùng Hạ thung lũng Indus. Có rất nhiều địa danh nhưng đáng lưu ý nhất là Mohenjo-Daro, cho thấy vùng này là cái nôi của nền văn minh nhân loại vào giai đoạn đầu. Nó đã từng hợp tác với đế quốc Mauryan và trong một thời gian dài, nó gần như đã bị đồng hóa. Vào năm 711, người Ả Rập xâm lăng vùng đất này và khởi đầu một kỷ nguyên Hồi giáo. Đến thế kỷ 16, vua Akbar đã mở rộng quyền lực Mông Cổ tới tận nơi đây. Tuy nhiên, họ chỉ cô lập mà không quan tâm nhiều lắm đến tình hình nơi đây. Mọi việc chỉ chấm dứt khi Anh chiếm đóng vùng đất này vào thế kỷ 19."
       }
     ],
     "k": "sind"
@@ -15653,7 +15653,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một lãnh đạo của dòng tộc Maratha đặt căn cứ tại Gwalior ở miền Bắc Ấn Ðộ. Họ thống trị liên bang Maratha vào cuối thế kỷ 18. Người đã tạo dựng cơ nghiệp cho dòng tộc là Ranoji Sindhia (1750). Ông đã giành được quyền kiểm soát vùng Malwa và được bổ nhiệm làm người cai trị. Kế nghiệp ông là Mahadaji Sindhia (cai trị từ năm 1761-1794), người đã tạo ra một vương quốc độc lập thực sự ở Bắc Ấn Ðộ. Ông trở thành người nắm toàn quyền không chỉ trong liên bang Maratha mà còn ở tòa án Mông Cổ tại Delhi. Ông cũng đã giành thắng lợi trong việc chống lại Công ty Ðông Ấn và lực lượng Rajputs. Tuy nhiên người kế vị ông lại bị thất bại xuất phát từ việc mở rộng thuộc địa của Anh ở Bắc Ấn Ðộ. Daulat Rao Sindhia bị đánh bại vào năm 1803, và vào năm 1818, Gwalior trở thành ông hoàng cai trị tiểu bang dưới sự bảo hộ của công ty Ðông Ấn."
+        "t": "Một lãnh đạo của dòng tộc Maratha đặt căn cứ tại Gwalior ở miền Bắc Ấn Độ. Họ thống trị liên bang Maratha vào cuối thế kỷ 18. Người đã tạo dựng cơ nghiệp cho dòng tộc là Ranoji Sindhia (1750). Ông đã giành được quyền kiểm soát vùng Malwa và được bổ nhiệm làm người cai trị. Kế nghiệp ông là Mahadaji Sindhia (cai trị từ năm 1761-1794), người đã tạo ra một vương quốc độc lập thực sự ở Bắc Ấn Độ. Ông trở thành người nắm toàn quyền không chỉ trong liên bang Maratha mà còn ở tòa án Mông Cổ tại Delhi. Ông cũng đã giành thắng lợi trong việc chống lại Công ty Đông Ấn và lực lượng Rajputs. Tuy nhiên người kế vị ông lại bị thất bại xuất phát từ việc mở rộng thuộc địa của Anh ở Bắc Ấn Độ. Daulat Rao Sindhia bị đánh bại vào năm 1803, và vào năm 1818, Gwalior trở thành ông hoàng cai trị tiểu bang dưới sự bảo hộ của công ty Đông Ấn."
       }
     ],
     "k": "sindhia"
@@ -16167,10 +16167,10 @@
   {
     "h": "Singapore",
     "segs": [
-      {"k": "m", "t": "Một đảo quốc thuộc vùng Ðông Nam Á."},
+      {"k": "m", "t": "Một đảo quốc thuộc vùng Đông Nam Á."},
       {
         "k": "m",
-        "t": "Ðịa hình: Singapore là một hòn đảo thuộc vùng cực Nam của bán đảo Malay chỉ cách đường xích đạo 20 vĩ tuyến. Khí hậu nơi đây nóng và ẩm ướt. Ðất đai là những đầm lầy tự nhiên. Bề mặt đảo thấp và nơi có diện tích lớn nhất là khoảng 40 km (25 dặm) chiều dài, rộng khoảng 22 km (14 dặm) theo hướng từ Bắc tới Nam và nhiều hòn đảo nhỏ khác. Tài nguyên chính của quốc gia này chỉ là một hải cảng tự nhiên tráng lệ."
+        "t": "Địa hình: Singapore là một hòn đảo thuộc vùng cực Nam của bán đảo Malay chỉ cách đường xích đạo 20 vĩ tuyến. Khí hậu nơi đây nóng và ẩm ướt. Đất đai là những đầm lầy tự nhiên. Bề mặt đảo thấp và nơi có diện tích lớn nhất là khoảng 40 km (25 dặm) chiều dài, rộng khoảng 22 km (14 dặm) theo hướng từ Bắc tới Nam và nhiều hòn đảo nhỏ khác. Tài nguyên chính của quốc gia này chỉ là một hải cảng tự nhiên tráng lệ."
       },
       {
         "k": "m",
@@ -16178,11 +16178,11 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Ðảo Singapore trước đây được biết đến với tên gọi là Tumasik hoặc Temasek. Nó là nơi trú ngụ của các ngư dân và bọn hải tặc trước khi trở thành một phần của đế quốc Sumatran ở Srivijaya. Sau đó, nó được chuyển giao cho đế quốc Majapahit vào thế kỷ thứ 14 và kế tiếp là đế quốc Ayutthaya ở Siam. Vào thế kỷ thứ 15, nó trở thành một phần của đế quốc Malacca và sau cùng thuộc quyền kiểm soát của Bồ Ðào Nha, rồi tới Hà Lan."
+        "t": "Lịch sử: Đảo Singapore trước đây được biết đến với tên gọi là Tumasik hoặc Temasek. Nó là nơi trú ngụ của các ngư dân và bọn hải tặc trước khi trở thành một phần của đế quốc Sumatran ở Srivijaya. Sau đó, nó được chuyển giao cho đế quốc Majapahit vào thế kỷ thứ 14 và kế tiếp là đế quốc Ayutthaya ở Siam. Vào thế kỷ thứ 15, nó trở thành một phần của đế quốc Malacca và sau cùng thuộc quyền kiểm soát của Bồ Đào Nha, rồi tới Hà Lan."
       },
       {
         "k": "m",
-        "t": "Hòn đảo được chuyển nhượng cho công ty Ðông Ấn của Anh do ngài Stamford Raffles đại diện vào năm 1819 từ vị vua của Johore và nhanh chóng phát triển thành một thương cảng quan trọng. Năm 1867, Singapore đã thoát khỏi sự cai quản của lãnh địa Anh tại Ấn Ðộ để trở thành một thuộc địa kiểu mới theo thỏa thuận Straits. Nền thương mại trở nên thịnh vượng nhờ vào những người nhập cư Trung Quốc. Bản thân nó cũng dần thay đổi để trở thành một căn cứ Hải quân quan trọng. Năm 1942, nó rơi vào tay lực lượng chiếm đóng của Nhật do tướng Yamashita Tomoyuki chỉ huy (Singapore sụp đổ) và thuộc quyền cai quản của người Nhật cho tới cuối chiến tranh thế giới thứ II. Hòn đảo trở thành thuộc địa riêng vào năm 1946 và bắt đầu được hưởng chế độ tự trị từ năm 1959 dưới sự lãnh đạo của Lý Quang Diệu. Nó gia nhập vào liên bang Malaysia năm 1963, nhưng Mã Lai sợ rằng với thành phần dân số chủ yếu là người Trung Quốc sẽ bị phân biệt đối xử về mặt quyền lợi. Vì thế, năm 1965 nó lại tách rời khỏi liên bang này. Sau đó, nó trở thành thành viên của Khối các quốc gia thịnh vượng chung và Tổ chức liên kết các nước Ðông Nam Á. Nó vẫn tiếp tục duy trì mối quan hệ chặt chẽ với Mã Lai và Brunei. Ðảng Hành động vì dân nắm quyền cai quản đất nước từ năm 1965 và Thủ tướng Lý Quang Diệu trở thành vị nguyên thủ quốc gia tại chức lâu năm nhất thế giới (1965-1990). Ông từ chức vào năm 1990 nhưng vẫn giữ vai trò như một cố vấn. Người kế nhiệm ông làm Thủ tướng là Goh Chok Tung. Ðảng PAP tái khẳng định vị thế của mình một lần nữa thông qua cuộc tổng tuyển cử tháng giêng năm 1997."
+        "t": "Hòn đảo được chuyển nhượng cho công ty Đông Ấn của Anh do ngài Stamford Raffles đại diện vào năm 1819 từ vị vua của Johore và nhanh chóng phát triển thành một thương cảng quan trọng. Năm 1867, Singapore đã thoát khỏi sự cai quản của lãnh địa Anh tại Ấn Độ để trở thành một thuộc địa kiểu mới theo thỏa thuận Straits. Nền thương mại trở nên thịnh vượng nhờ vào những người nhập cư Trung Quốc. Bản thân nó cũng dần thay đổi để trở thành một căn cứ Hải quân quan trọng. Năm 1942, nó rơi vào tay lực lượng chiếm đóng của Nhật do tướng Yamashita Tomoyuki chỉ huy (Singapore sụp đổ) và thuộc quyền cai quản của người Nhật cho tới cuối chiến tranh thế giới thứ II. Hòn đảo trở thành thuộc địa riêng vào năm 1946 và bắt đầu được hưởng chế độ tự trị từ năm 1959 dưới sự lãnh đạo của Lý Quang Diệu. Nó gia nhập vào liên bang Malaysia năm 1963, nhưng Mã Lai sợ rằng với thành phần dân số chủ yếu là người Trung Quốc sẽ bị phân biệt đối xử về mặt quyền lợi. Vì thế, năm 1965 nó lại tách rời khỏi liên bang này. Sau đó, nó trở thành thành viên của Khối các quốc gia thịnh vượng chung và Tổ chức liên kết các nước Đông Nam Á. Nó vẫn tiếp tục duy trì mối quan hệ chặt chẽ với Mã Lai và Brunei. Đảng Hành động vì dân nắm quyền cai quản đất nước từ năm 1965 và Thủ tướng Lý Quang Diệu trở thành vị nguyên thủ quốc gia tại chức lâu năm nhất thế giới (1965-1990). Ông từ chức vào năm 1990 nhưng vẫn giữ vai trò như một cố vấn. Người kế nhiệm ông làm Thủ tướng là Goh Chok Tung. Đảng PAP tái khẳng định vị thế của mình một lần nữa thông qua cuộc tổng tuyển cử tháng giêng năm 1997."
       },
       {"k": "m", "t": "Thủ đô: Singapore."},
       {"k": "m", "t": "Diện tích: 622 km2"},
@@ -16190,13 +16190,13 @@
       {"k": "m", "t": "Ngoại tệ: 1 đô la Singapore = 100 xu."},
       {
         "k": "m",
-        "t": "Tôn giáo: Ðạo Phật 28,3%; đạo Cơ đốc 18,7%; Hồi giáo 16%; đạo Lão 13,4%; đạo Ấn 4,9%."
+        "t": "Tôn giáo: Đạo Phật 28,3%; đạo Cơ đốc 18,7%; Hồi giáo 16%; đạo Lão 13,4%; đạo Ấn 4,9%."
       },
-      {"k": "m", "t": "Sắc tộc: Trung Quốc 77%; Mã Lai 15%; Ấn Ðộ và Sri Lanka 6%."},
+      {"k": "m", "t": "Sắc tộc: Trung Quốc 77%; Mã Lai 15%; Ấn Độ và Sri Lanka 6%."},
       {"k": "m", "t": "Ngôn ngữ: Mã Lai, Mandarin, Tamil, tiếng Anh (chính); Trung Quốc."},
       {
         "k": "m",
-        "t": "Gia nhập: Liên Hiệp Quốc; Colombo Plan; Khối thịnh vượng chung các nước cộng hòa; Hiệp hội các nước Ðông Nam Á."
+        "t": "Gia nhập: Liên Hiệp Quốc; Colombo Plan; Khối thịnh vượng chung các nước cộng hòa; Hiệp hội các nước Đông Nam Á."
       }
     ],
     "k": "singapore",
@@ -21448,7 +21448,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(như singha-lese [siŋg]^dt. (nh. không đổi) 1. dân tộc miền Bắc Ấn Ðộ, nay là sắc dân chiếm đa số tại Sri Lanka 2. ngôn ngữ của người Sin.^tt. (thuộc về) dân tộc này hoặc ngôn ngữ của họ."
+        "t": "(như singha-lese [siŋg]^dt. (nh. không đổi) 1. dân tộc miền Bắc Ấn Độ, nay là sắc dân chiếm đa số tại Sri Lanka 2. ngôn ngữ của người Sin.^tt. (thuộc về) dân tộc này hoặc ngôn ngữ của họ."
       }
     ],
     "ipa": "sinhə'li:z;sinə'li:z",
@@ -21655,7 +21655,7 @@
     "segs": [{"k": "m", "t": "from right to left (Botany)"}],
     "k": "sinistrorsely"
   },
-  {"h": "sinistrose", "segs": [{"k": "m", "t": "Ðường quay trái."}], "k": "sinistrose"},
+  {"h": "sinistrose", "segs": [{"k": "m", "t": "Đường quay trái."}], "k": "sinistrose"},
   {
     "h": "sinistrotorsion",
     "segs": [{"k": "m", "t": "Xoay trái, xoắn trái."}],
@@ -21878,7 +21878,7 @@
       {
         "k": "ex",
         "t": "It too late to help John now. It's sink or swim for him:",
-        "vi": "Bây giờ đã quá trễ để có thể giúp John. Ðối với anh ta chỉ còn thất bại hoặc thành công thôi."
+        "vi": "Bây giờ đã quá trễ để có thể giúp John. Đối với anh ta chỉ còn thất bại hoặc thành công thôi."
       }
     ],
     "k": "sink or swim"
@@ -22338,7 +22338,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một đảng phái chính trị tại Ai Len hoạt động theo tôn chỉ thiết lập Nhà nước cộng hòa Ai Len thống nhất. Ðược thành lập bởi Arhtur Griffith vào năm 1902 như một tổ chức vận động khôi phục lại truyền thống văn hóa, nó dần trở thành một tổ chức hoạt động chính trị ủng hộ cuộc nổi dậy mùa Ðông năm 1916. Sau đó, nó đã giành được phần lớn những vị trí chủ chốt trong Quốc hội Ai Len qua cuộc tổng tuyển cử năm 1918. Sinn Fein đại diện cho Quốc Hội Ai Len, thay vì phải tới Luân Ðôn, ông lại gặp gỡ Dublin và tuyên bố độc lập Ai Len năm 1919. Một Quốc hội độc lập (Dail Eireann) được hình thành cho dù nhiều thành viên bị tống giam hoặc bỏ trốn. Các cuộc chiến tranh du kích chống lại quân đội Anh và cảnh sát đã diễn ra. Việc thành lập Nhà nước Ai len tự do (tháng 12 năm 1921) trên phần đất còn lại của Ai Len đã khiến Sinn fein căm phẫn. Ðảng cầm quyền phải mất đi số phiếu trắng từ Dail và Nghị viện Bắc Ai Len trong nhiều năm."
+        "t": "Một đảng phái chính trị tại Ai Len hoạt động theo tôn chỉ thiết lập Nhà nước cộng hòa Ai Len thống nhất. Được thành lập bởi Arhtur Griffith vào năm 1902 như một tổ chức vận động khôi phục lại truyền thống văn hóa, nó dần trở thành một tổ chức hoạt động chính trị ủng hộ cuộc nổi dậy mùa Đông năm 1916. Sau đó, nó đã giành được phần lớn những vị trí chủ chốt trong Quốc hội Ai Len qua cuộc tổng tuyển cử năm 1918. Sinn Fein đại diện cho Quốc Hội Ai Len, thay vì phải tới Luân Đôn, ông lại gặp gỡ Dublin và tuyên bố độc lập Ai Len năm 1919. Một Quốc hội độc lập (Dail Eireann) được hình thành cho dù nhiều thành viên bị tống giam hoặc bỏ trốn. Các cuộc chiến tranh du kích chống lại quân đội Anh và cảnh sát đã diễn ra. Việc thành lập Nhà nước Ai len tự do (tháng 12 năm 1921) trên phần đất còn lại của Ai Len đã khiến Sinn fein căm phẫn. Đảng cầm quyền phải mất đi số phiếu trắng từ Dail và Nghị viện Bắc Ai Len trong nhiều năm."
       },
       {
         "k": "m",
@@ -22406,7 +22406,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1884-1885). Cuộc xung đột giữa Pháp và Trung Quốc trên lãnh thổ Việt Nam. Trung Quốc đã giúp đỡ Việt Nam chống lại việc Pháp tiến hành mở rộng thực dân hóa từ thập niên 1870. Ðầu tiên là sự chi viện của lực lượng ô hợp đội quân Cờ Ðen và sau năm 1883 là lực lượng quân chính quy. Năm 1884, sau khi cả hai Chính phủ bác bỏ thỏa thuận Li-Fournier, chiến tranh đã bùng nổ. Trung Quốc không thể chống cự lại hải quân Pháp, họ tấn công Ðài Loan và phá hủy xưởng sửa chữa, đóng tàu tại Phúc Châu miền Ðông Nam Trung Quốc. Triều đình nhà Thanh lại càng thêm suy yếu. Trong hiệp ước ký vào năm 1885, Pháp đã giành được quyền kiểm soát Việt Nam."
+        "t": "(1884-1885). Cuộc xung đột giữa Pháp và Trung Quốc trên lãnh thổ Việt Nam. Trung Quốc đã giúp đỡ Việt Nam chống lại việc Pháp tiến hành mở rộng thực dân hóa từ thập niên 1870. Đầu tiên là sự chi viện của lực lượng ô hợp đội quân Cờ Đen và sau năm 1883 là lực lượng quân chính quy. Năm 1884, sau khi cả hai Chính phủ bác bỏ thỏa thuận Li-Fournier, chiến tranh đã bùng nổ. Trung Quốc không thể chống cự lại hải quân Pháp, họ tấn công Đài Loan và phá hủy xưởng sửa chữa, đóng tàu tại Phúc Châu miền Đông Nam Trung Quốc. Triều đình nhà Thanh lại càng thêm suy yếu. Trong hiệp ước ký vào năm 1885, Pháp đã giành được quyền kiểm soát Việt Nam."
       }
     ],
     "k": "sino-french war"
@@ -22427,7 +22427,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1937-1945). Cuộc xung đột trên lãnh thổ Trung Quốc giữa lực lượng liên minh gồm những người theo chủ nghĩa dân tộc và lực lượng cộng sản Trung Quốc đối đầu với Nhật Bản. Trung Quốc chính là mục tiêu người Nhật nhắm đến để bành trướng thế lực từ cuối thế kỷ 19. Sau sự cố ở Mukden năm 1913, một cuộc chiến tranh tổng lực chỉ còn là vấn đề thời gian. Chiến tranh bùng nổ mà không có bất cứ lời tuyên chiến nào được đưa ra từ cả hai phía sau khi xảy ra vụ chạm trán gần cầu Marco Polo về phía Tây Bắc Kinh vào năm 1937. Quân Nhật đã tàn phá miền Bắc Trung Quốc, tiến đến Yangtze dọc theo đường ray xe lửa và lần lượt chiếm giữ Thượng Hải; Nam Kinh; Quảng Châu và Hán Khẩu vào cuối năm 1938. Trong vụ \"cướp bóc ở Nam Kinh\", hơn 100.000 thường dân đã bị quân đội Nhật tàn sát. Quân xâm lược đã vấp phải sự kháng cự từ cả hai lực lượng: Quốc Dân Ðảng do Tưởng Giới Thạch lãnh đạo và quân đội cộng sản ở tuyến đường số 8. Họ chính là lực lượng được Anh và Mỹ hỗ trợ sau năm 1941. Vào lúc này, cuộc xung đột đã bị cuốn vào vòng xoáy của cuộc chiến tranh thế giới thứ II. Cuộc chiến Sino-Nhật Bản gần như đã lan rộng ra khắp lãnh thổ Trung Quốc và quân đội Nhật dần rơi vào tình trạng bế tắc. Lực lượng không quân và bộ binh không đủ để có thể đè bẹp sự kháng cự ngoan cường của nhân dân Trung Quốc diễn ra trên khắp đất nước rộng lớn với hệ thống giao thông liên lạc thiếu thốn. Trong suốt cuộc chiến, Nhật đã phải tung vào chiến trường này hàng triệu binh lính và bị sa lầy vào cuộc chiến. Sau khi bị giáng một đòn nặng nề tại Jiangxi năm 1942 và sau đó là những thất bại liên tục kéo dài cho đến năm 1944, Nhật buộc phải đầu hàng Tưởng Giới Thạch vào ngày 9 tháng 9 năm 1945 để lại sự tranh giành quyền kiểm soát Trung Quốc giữa ông và lãnh tụ lực lượng cộng sản Mao Trạch Ðông."
+        "t": "(1937-1945). Cuộc xung đột trên lãnh thổ Trung Quốc giữa lực lượng liên minh gồm những người theo chủ nghĩa dân tộc và lực lượng cộng sản Trung Quốc đối đầu với Nhật Bản. Trung Quốc chính là mục tiêu người Nhật nhắm đến để bành trướng thế lực từ cuối thế kỷ 19. Sau sự cố ở Mukden năm 1913, một cuộc chiến tranh tổng lực chỉ còn là vấn đề thời gian. Chiến tranh bùng nổ mà không có bất cứ lời tuyên chiến nào được đưa ra từ cả hai phía sau khi xảy ra vụ chạm trán gần cầu Marco Polo về phía Tây Bắc Kinh vào năm 1937. Quân Nhật đã tàn phá miền Bắc Trung Quốc, tiến đến Yangtze dọc theo đường ray xe lửa và lần lượt chiếm giữ Thượng Hải; Nam Kinh; Quảng Châu và Hán Khẩu vào cuối năm 1938. Trong vụ \"cướp bóc ở Nam Kinh\", hơn 100.000 thường dân đã bị quân đội Nhật tàn sát. Quân xâm lược đã vấp phải sự kháng cự từ cả hai lực lượng: Quốc Dân Đảng do Tưởng Giới Thạch lãnh đạo và quân đội cộng sản ở tuyến đường số 8. Họ chính là lực lượng được Anh và Mỹ hỗ trợ sau năm 1941. Vào lúc này, cuộc xung đột đã bị cuốn vào vòng xoáy của cuộc chiến tranh thế giới thứ II. Cuộc chiến Sino-Nhật Bản gần như đã lan rộng ra khắp lãnh thổ Trung Quốc và quân đội Nhật dần rơi vào tình trạng bế tắc. Lực lượng không quân và bộ binh không đủ để có thể đè bẹp sự kháng cự ngoan cường của nhân dân Trung Quốc diễn ra trên khắp đất nước rộng lớn với hệ thống giao thông liên lạc thiếu thốn. Trong suốt cuộc chiến, Nhật đã phải tung vào chiến trường này hàng triệu binh lính và bị sa lầy vào cuộc chiến. Sau khi bị giáng một đòn nặng nề tại Jiangxi năm 1942 và sau đó là những thất bại liên tục kéo dài cho đến năm 1944, Nhật buộc phải đầu hàng Tưởng Giới Thạch vào ngày 9 tháng 9 năm 1945 để lại sự tranh giành quyền kiểm soát Trung Quốc giữa ông và lãnh tụ lực lượng cộng sản Mao Trạch Đông."
       }
     ],
     "k": "sino-japanese war"
@@ -23574,7 +23574,7 @@
   },
   {
     "h": "Siphunculina",
-    "segs": [{"k": "m", "t": "Sfunicola là ruồi mắt Ấn Ðộ."}],
+    "segs": [{"k": "m", "t": "Sfunicola là ruồi mắt Ấn Độ."}],
     "k": "siphunculina"
   },
   {
@@ -23681,7 +23681,7 @@
     "h": "sirdar",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người chỉ huy, người lãnh đạo (Ấn Ðộ)"},
+      {"k": "m", "t": "người chỉ huy, người lãnh đạo (Ấn Độ)"},
       {"k": "m", "t": "tổng tư lệnh (Ai cập)."}
     ],
     "ipa": "'sə:da:",
@@ -24016,7 +24016,7 @@
   {"h": "sissipation", "segs": [{"k": "m", "t": "sự phát tán."}], "k": "sissipation"},
   {
     "h": "sissoo",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "gỗ xixu (một loại gỗ quý của Ấn Ðộ)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "gỗ xixu (một loại gỗ quý của Ấn Độ)."}],
     "ipa": "'sisu:",
     "k": "sissoo"
   },
@@ -24259,7 +24259,7 @@
       {"k": "pos", "t": "tính từ"},
       {
         "k": "ref",
-        "t": "như Xi-xi-phút (người bị Thượng Ðế bắt đẩy đá lên núi, hễ đá trôi xuống lại phải đẩy lên)"
+        "t": "như Xi-xi-phút (người bị Thượng Đế bắt đẩy đá lên núi, hễ đá trôi xuống lại phải đẩy lên)"
       },
       {"k": "m", "t": "(nghĩa bóng) cần cù, kiên nhẫn"},
       {"k": "m", "t": "(nghĩa bóng) nặng nhọc và không bao giờ hết (công việc...)."}
@@ -24712,7 +24712,7 @@
     "h": "sitar",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "đàn xita (đàn dây Ấn Ðộ giống ghi-ta, có cần đàn dài)."}
+      {"k": "m", "t": "đàn xita (đàn dây Ấn Độ giống ghi-ta, có cần đàn dài)."}
     ],
     "ipa": "si:'ta:, 'sita:",
     "k": "sitar"
@@ -25250,7 +25250,7 @@
     "segs": [{"k": "m", "t": "Liệu pháp thực chế, trị liệu thực chế."}],
     "k": "sitotherapy"
   },
-  {"h": "sitotoxin", "segs": [{"k": "m", "t": "Ðộc tố thức ăn ngũ cốc."}], "k": "sitotoxin"},
+  {"h": "sitotoxin", "segs": [{"k": "m", "t": "Độc tố thức ăn ngũ cốc."}], "k": "sitotoxin"},
   {
     "h": "sitotoxism",
     "segs": [{"k": "m", "t": "Ngộ độc ăn uống, ngộ độc thức ăn."}],
@@ -25857,7 +25857,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1630-1680) Người sáng lập triều đại Maratha ở Ấn Ðộ. Ông có sứ mệnh phục hồi lại cơ đồ của người Hindu ở miền Tây Ấn Ðộ trong quá trình bành trướng của đạo Hồi. Là thành viên của dòng họ Bhonsla, từ thuở ban đầu ông đã có kế hoạch làm suy sụp vương quốc Hồi giáo đang bủa vây thế lực trên quê hương Deccan của ông. Trong cuộc chạm trán với vua Hồi giáo Bijapur và hoàng đế Mogul, Aurangzeb, ông đã giành được thắng lợi hy hữu và nổi tiếng vì những nhận định sắc bén của mình. Cuối cùng, khi bị đánh bại bởi quân đội Mogul, ông bỏ trốn và cải trang để tìm cách khôi phục và mở rộng lãnh thổ. Vào năm 1674, ông lên ngôi vua. Tấm lòng tận tụy của ông đã được tưởng thưởng một cách xứng đáng bằng một hệ thống cầm quyền công bằng và vững mạnh. Bên cạnh đó, ông cũng bày tỏ lòng khoan dung của mình với tất cả những cộng đồng tôn giáo khác. Thành tựu lớn nhất của ông là chặn đứng việc bành trướng của đế chế Mogul theo hướng Tây và tạo tiền đề cho sự mở rộng Maratha sau này. Ông được nhắc đến như một vị anh hùng Ấn Ðộ."
+        "t": "(1630-1680) Người sáng lập triều đại Maratha ở Ấn Độ. Ông có sứ mệnh phục hồi lại cơ đồ của người Hindu ở miền Tây Ấn Độ trong quá trình bành trướng của đạo Hồi. Là thành viên của dòng họ Bhonsla, từ thuở ban đầu ông đã có kế hoạch làm suy sụp vương quốc Hồi giáo đang bủa vây thế lực trên quê hương Deccan của ông. Trong cuộc chạm trán với vua Hồi giáo Bijapur và hoàng đế Mogul, Aurangzeb, ông đã giành được thắng lợi hy hữu và nổi tiếng vì những nhận định sắc bén của mình. Cuối cùng, khi bị đánh bại bởi quân đội Mogul, ông bỏ trốn và cải trang để tìm cách khôi phục và mở rộng lãnh thổ. Vào năm 1674, ông lên ngôi vua. Tấm lòng tận tụy của ông đã được tưởng thưởng một cách xứng đáng bằng một hệ thống cầm quyền công bằng và vững mạnh. Bên cạnh đó, ông cũng bày tỏ lòng khoan dung của mình với tất cả những cộng đồng tôn giáo khác. Thành tựu lớn nhất của ông là chặn đứng việc bành trướng của đế chế Mogul theo hướng Tây và tạo tiền đề cho sự mở rộng Maratha sau này. Ông được nhắc đến như một vị anh hùng Ấn Độ."
       }
     ],
     "k": "sivaji"
@@ -25927,7 +25927,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1819). Sáu điều luật được ban hành ở Anh nhằm mục đích kiểm soát những thứ được xem là thuyết cấp tiến nguy hiểm nhằm xoa dịu sự giận dữ của công chúng qua vụ thảm sát Peterloo. Nó liên quan tới quy trình tố tụng, xét xử; nghiêm cấm những vụ tập trung đông người nhằm mục đích quân sự; khẳng định quyền khám xét của lực lượng quân đội; tăng cường quyền lực để kiểm soát các cuộc bạo loạn cũng như những tác phẩm văn học có ý nổi loạn hoặc báng bổ; mở rộng diện chịu thuế tem sang báo chí và các ấn phẩm xuất bản định kỳ; đưa ra các quy định kiểm soát nghiêm ngặt các cuộc tụ họp, biểu tình của quần chúng. Ðiều thứ ba cuối cùng đã thực sự gây phẫn nộ bởi nó đe dọa đến quyền tự do công dân. Các điều luật trên hoàn toàn bị phản tác dụng khi bị rất nhiều thế lực đối lập chỉ trích. Ba năm sau, chính thể cầm quyền của lãnh chúa Liverpool đã hướng đến những chính sách tự do hơn."
+        "t": "(1819). Sáu điều luật được ban hành ở Anh nhằm mục đích kiểm soát những thứ được xem là thuyết cấp tiến nguy hiểm nhằm xoa dịu sự giận dữ của công chúng qua vụ thảm sát Peterloo. Nó liên quan tới quy trình tố tụng, xét xử; nghiêm cấm những vụ tập trung đông người nhằm mục đích quân sự; khẳng định quyền khám xét của lực lượng quân đội; tăng cường quyền lực để kiểm soát các cuộc bạo loạn cũng như những tác phẩm văn học có ý nổi loạn hoặc báng bổ; mở rộng diện chịu thuế tem sang báo chí và các ấn phẩm xuất bản định kỳ; đưa ra các quy định kiểm soát nghiêm ngặt các cuộc tụ họp, biểu tình của quần chúng. Điều thứ ba cuối cùng đã thực sự gây phẫn nộ bởi nó đe dọa đến quyền tự do công dân. Các điều luật trên hoàn toàn bị phản tác dụng khi bị rất nhiều thế lực đối lập chỉ trích. Ba năm sau, chính thể cầm quyền của lãnh chúa Liverpool đã hướng đến những chính sách tự do hơn."
       }
     ],
     "k": "six acts"
@@ -26353,7 +26353,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Tên tục là Francesco della Rovere, 1414-1484). Làm Giáo hoàng từ năm 1471-1484. Ông xuất thân từ một thầy tu và là giáo viên thuộc dòng thánh Fran-xít. Khi đã là Giáo Hoàng, ông là người bảo trợ cho nghệ thuật và là nhà cai trị có quyền lực to lớn. Ông thành lập hai đội quân viễn chinh chống lại Thổ Nhĩ Kỳ vào năm 1472-1473. Năm 1474-1476, ông đã cố tái hợp giữa Dòng chính thống miền Ðông nước Nga với nhà thờ công giáo. Năm 1478, ông cho phép xây dựng Tòa án dị giáo tại Tây Ban Nha và năm 1483, ông thừa nhận Tomás de Torquemada là Chánh tòa dị giáo. Sau đó, ông tập trung vào việc thỏa mãn những tham vọng của gia đình mình (6 trong số 34 vị Hồng y giáo chủ do ông phong tước đều là cháu trai của ông). Ðồng thời, ông tiến hành củng cố quyền lực chính trị và lãnh thổ của Giáo hoàng. Tuy nhiên năm 1483, ông lại bị dính líu vào âm mưu Pazzi nhằm chống lại Venice và phung phí thời gian cho các chiến dịch quân sự. Ông cũng là người đưa ra chủ ý xây dựng nhà thờ Sistine."
+        "t": "(Tên tục là Francesco della Rovere, 1414-1484). Làm Giáo hoàng từ năm 1471-1484. Ông xuất thân từ một thầy tu và là giáo viên thuộc dòng thánh Fran-xít. Khi đã là Giáo Hoàng, ông là người bảo trợ cho nghệ thuật và là nhà cai trị có quyền lực to lớn. Ông thành lập hai đội quân viễn chinh chống lại Thổ Nhĩ Kỳ vào năm 1472-1473. Năm 1474-1476, ông đã cố tái hợp giữa Dòng chính thống miền Đông nước Nga với nhà thờ công giáo. Năm 1478, ông cho phép xây dựng Tòa án dị giáo tại Tây Ban Nha và năm 1483, ông thừa nhận Tomás de Torquemada là Chánh tòa dị giáo. Sau đó, ông tập trung vào việc thỏa mãn những tham vọng của gia đình mình (6 trong số 34 vị Hồng y giáo chủ do ông phong tước đều là cháu trai của ông). Đồng thời, ông tiến hành củng cố quyền lực chính trị và lãnh thổ của Giáo hoàng. Tuy nhiên năm 1483, ông lại bị dính líu vào âm mưu Pazzi nhằm chống lại Venice và phung phí thời gian cho các chiến dịch quân sự. Ông cũng là người đưa ra chủ ý xây dựng nhà thờ Sistine."
       }
     ],
     "k": "sixtus iv"

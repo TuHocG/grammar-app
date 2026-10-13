@@ -14,7 +14,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quỹ nhi đồng Liên hợp quốc UNICEF. Cơ quan của Liên hợp quốc, có quy chế nửa tự quản, thành lập năm 1946 nhằm thúc đẩy các Chính phủ cải thiện điều kiện sống về vật chất và xã hội của trẻ em, giúp các nước đang phát triển cải thiện mức sống của trẻ em các nước đó, giúp các nước trong lĩnh vực y tế, thực phẩm, bảo hiểm xã hội, giáo dục và đào tạo nghề nghiệp, giúp các chính phủ xác định nhu cầu chủ yếu của trẻ em ở các nước đó về lập chương trình rộng lớn đáp ứng những nhu cầu ấy, thúc đẩy việc thực hiện các đề án hợp lý trong chương trình phát triển của mỗi nước, báo cáo công tác hàng năm cho Ðại Hội đồng Liên hợp quốc. Việt Nam là thành viền của UNICEF. Nguồn vốn của Quỹ là sự đóng góp tự nguyện hoặc sự ủng hộ của các chính phủ, các tổ chức xã hội, của công dân các nước. Cơ cấu: Hội đồng chấp hành (cơ quan lãnh đạo), Ban thư ký điều hành công việc của UNICEF. Trụ sở đặt tại Trụ sở Liên hợp quốc tại Niu Oóc (Mỹ)."
+        "t": "quỹ nhi đồng Liên hợp quốc UNICEF. Cơ quan của Liên hợp quốc, có quy chế nửa tự quản, thành lập năm 1946 nhằm thúc đẩy các Chính phủ cải thiện điều kiện sống về vật chất và xã hội của trẻ em, giúp các nước đang phát triển cải thiện mức sống của trẻ em các nước đó, giúp các nước trong lĩnh vực y tế, thực phẩm, bảo hiểm xã hội, giáo dục và đào tạo nghề nghiệp, giúp các chính phủ xác định nhu cầu chủ yếu của trẻ em ở các nước đó về lập chương trình rộng lớn đáp ứng những nhu cầu ấy, thúc đẩy việc thực hiện các đề án hợp lý trong chương trình phát triển của mỗi nước, báo cáo công tác hàng năm cho Đại Hội đồng Liên hợp quốc. Việt Nam là thành viền của UNICEF. Nguồn vốn của Quỹ là sự đóng góp tự nguyện hoặc sự ủng hộ của các chính phủ, các tổ chức xã hội, của công dân các nước. Cơ cấu: Hội đồng chấp hành (cơ quan lãnh đạo), Ban thư ký điều hành công việc của UNICEF. Trụ sở đặt tại Trụ sở Liên hợp quốc tại Niu Oóc (Mỹ)."
       }
     ],
     "k": "un children'sfund"
@@ -10057,7 +10057,7 @@
       {
         "k": "ex",
         "t": "It's unbusinesslike to arrive late for meetings",
-        "vi": "Ðến họp muộn là không biết cách làm ăn."
+        "vi": "Đến họp muộn là không biết cách làm ăn."
       }
     ],
     "ipa": "ʌn'biznislaik",
@@ -11849,7 +11849,7 @@
     "h": "unchristian",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "trái với giáo lý, trái với nguyên tắc (của Cơ Ðốc giáo)"},
+      {"k": "m", "t": "trái với giáo lý, trái với nguyên tắc (của Cơ Đốc giáo)"},
       {"k": "m", "t": "không nhân đức"},
       {"k": "ex", "t": "unchristian behaviour", "vi": "hành vi không nhân đức"},
       {"k": "pos", "t": "thành ngữ"},
@@ -11864,7 +11864,7 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "ex", "t": "unchristianize", "vi": "ngoại"},
       {"k": "pos", "t": "đại từ"},
-      {"k": "m", "t": "làm cho bỏ đạo Cơ Ðốc."}
+      {"k": "m", "t": "làm cho bỏ đạo Cơ Đốc."}
     ],
     "ipa": ",ʌn'kristʃənaiz",
     "k": "unchristianise"
@@ -12020,7 +12020,7 @@
   },
   {
     "h": "uncinate epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh méo thùy cá ngựa."}],
+    "segs": [{"k": "m", "t": "Động kinh méo thùy cá ngựa."}],
     "k": "uncinate epilepsy"
   },
   {"h": "uncinate fascia", "segs": [{"k": "m", "t": "Bó móc."}], "k": "uncinate fascia"},
@@ -22963,7 +22963,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "trình tiện ích phục hồi xóa. Một tiện ích có khả năng phục hồi lại tệp in đã bị xóa khỏi các ổ đĩa một cách rủi ro, không cố ý. Có sẵn trong các nguồn phần mềm cổ đông và phần mền thương phẩm, các chương trình tiện ích phục hồi xóa hoạt động. Vì thực ra các tệp đó không bị xỏa khỏi ổ đĩa, DOS chỉ thay đổi chữ cái đầu tiên của tên tệp trong danh sách thư mục thành một ký tự không hiển thị. Ðiều này làm cho các cluster do tệp, đó sử dụng sẽ trở nên có thể dùng được cho các thao tác ghi. Nếu xảy ra các thao tác này tệp đó mới bị xóa thực sự không thể phục hồi lại được. Chú ý: Nếu bạn vừa mới vô ý xóa một tệp tin thì hãy dừng ngay mọi việc! Hãy sử dụng tức khắc tiện ích phục hồi xóa. Lệnh UNDELETE có sẵn trong DOS (từ phiên bản 5.0 trở lên) sẽ thực hiện công việc này cho bạn. Một lệnh chương trình dùng để phục hồi lại chương trình và các dữ liệu của bạn trở lại đúng tình trạng ngay trước lệnh cuối cùng đã đưa ra, hoặc hoạt động cuối cùng đã được bắt đầu. Lệnh undo cho phép cắt những tác dụng tai hại do một lệnh không đúng gây ra."
+        "t": "trình tiện ích phục hồi xóa. Một tiện ích có khả năng phục hồi lại tệp in đã bị xóa khỏi các ổ đĩa một cách rủi ro, không cố ý. Có sẵn trong các nguồn phần mềm cổ đông và phần mền thương phẩm, các chương trình tiện ích phục hồi xóa hoạt động. Vì thực ra các tệp đó không bị xỏa khỏi ổ đĩa, DOS chỉ thay đổi chữ cái đầu tiên của tên tệp trong danh sách thư mục thành một ký tự không hiển thị. Điều này làm cho các cluster do tệp, đó sử dụng sẽ trở nên có thể dùng được cho các thao tác ghi. Nếu xảy ra các thao tác này tệp đó mới bị xóa thực sự không thể phục hồi lại được. Chú ý: Nếu bạn vừa mới vô ý xóa một tệp tin thì hãy dừng ngay mọi việc! Hãy sử dụng tức khắc tiện ích phục hồi xóa. Lệnh UNDELETE có sẵn trong DOS (từ phiên bản 5.0 trở lên) sẽ thực hiện công việc này cho bạn. Một lệnh chương trình dùng để phục hồi lại chương trình và các dữ liệu của bạn trở lại đúng tình trạng ngay trước lệnh cuối cùng đã đưa ra, hoặc hoạt động cuối cùng đã được bắt đầu. Lệnh undo cho phép cắt những tác dụng tai hại do một lệnh không đúng gây ra."
       }
     ],
     "k": "undelete utility"
@@ -24585,7 +24585,7 @@
       {
         "k": "ex",
         "t": "This is the largest cattle ranch under the sun:",
-        "vi": "Ðây là trại chăn nuôi gia súc lớn nhất ở bất cứ nơi đâu."
+        "vi": "Đây là trại chăn nuôi gia súc lớn nhất ở bất cứ nơi đâu."
       },
       {
         "k": "ex",
@@ -29152,7 +29152,7 @@
     "h": "Underidentification",
     "segs": [
       {"k": "m", "t": "(kinh tế) Sự chưa đủ để nhận dạng."},
-      {"k": "m", "t": "Ðược xem như không được nhận dạng. Xem Identification problem."}
+      {"k": "m", "t": "Được xem như không được nhận dạng. Xem Identification problem."}
     ],
     "k": "underidentification"
   },
@@ -33709,7 +33709,7 @@
   {
     "h": "Undervalue currency",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðồng tiền định giá thấp."},
+      {"k": "m", "t": "(kinh tế) Đồng tiền định giá thấp."},
       {
         "k": "m",
         "t": "Trong một hệ thống tỉ giá hối đoái cố định, một đồng tiền có sức mua ngang giá tạo ra thặng dư cán cân thanh toán dai dẳng."
@@ -34432,7 +34432,7 @@
       {
         "k": "ex",
         "t": "police contacts in the London underworld",
-        "vi": "những sự tiếp xúc của cảnh sát trong xã hội đen ở Luân Ðôn"
+        "vi": "những sự tiếp xúc của cảnh sát trong xã hội đen ở Luân Đôn"
       },
       {
         "k": "ex",
@@ -41911,11 +41911,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Quỹ hỗ trợ lao động, do BISMARCK lập ra tại Ðức từ năm 1883 về vấn đề sức khỏe của người lao động, tình trạng thất nghiệp (1884) và những người già (1889). Quỹ này được tài trợ bởi những người lao động hoặc sử dụng lao động và bởi nhà nước. Sau đó, những hoạt động này lan rộng ra các nước Ðan Mạch, Thụy Ðiển, Úc và Anh (1911). Quỹ trợ cấp quốc gia ở Anh chỉ hỗ trợ cho những người thất nghiệp trong một giai đoạn có hạn. Ở Mỹ, các hoạt động trợ cấp xã hội này diễn ra ở khắp các liên bang từ năm 1935. Trong khi đó, ở Anh, mãi đến năm 1942, sau buổi tuyên truyền của BEVERIDGE, các hoạt động này mới được mở rộng. Vào những năm giữa thế kỷ 20, hầu hết tất cả các nước công nghiệp đều có một quỹ hỗ trợ cho những người thất nghiệp. Ở một số quốc gia (như Anh), những người thất nghiệp trong thời gian ngắn có thể tìm đến quỹ hỗ trợ để tìm việc làm. Trong khi đó, những người thất nghiệp trong một thời gian dài thì được hỗ trợ thu nhập. Quỹ này đã có từ năm 1934 và sau đó được đổi tên lại vào năm 1988."
+        "t": "Quỹ hỗ trợ lao động, do BISMARCK lập ra tại Đức từ năm 1883 về vấn đề sức khỏe của người lao động, tình trạng thất nghiệp (1884) và những người già (1889). Quỹ này được tài trợ bởi những người lao động hoặc sử dụng lao động và bởi nhà nước. Sau đó, những hoạt động này lan rộng ra các nước Đan Mạch, Thụy Điển, Úc và Anh (1911). Quỹ trợ cấp quốc gia ở Anh chỉ hỗ trợ cho những người thất nghiệp trong một giai đoạn có hạn. Ở Mỹ, các hoạt động trợ cấp xã hội này diễn ra ở khắp các liên bang từ năm 1935. Trong khi đó, ở Anh, mãi đến năm 1942, sau buổi tuyên truyền của BEVERIDGE, các hoạt động này mới được mở rộng. Vào những năm giữa thế kỷ 20, hầu hết tất cả các nước công nghiệp đều có một quỹ hỗ trợ cho những người thất nghiệp. Ở một số quốc gia (như Anh), những người thất nghiệp trong thời gian ngắn có thể tìm đến quỹ hỗ trợ để tìm việc làm. Trong khi đó, những người thất nghiệp trong một thời gian dài thì được hỗ trợ thu nhập. Quỹ này đã có từ năm 1934 và sau đó được đổi tên lại vào năm 1988."
       },
       {
         "k": "m",
-        "t": "Nhiều quốc gia phát triển đã không thể chi trả cho bất cứ một tổ chức trợ cấp xã hội nào. Những hoạt động này chỉ tồn tại ở 40 nước, chủ yếu là những nước công nghiệp hóa. Nhưng chỉ một phần ba trong số các quốc gia đó có những trợ cấp cho người cao tuổi. Ðiều này gây ra những băn khoăn về các vấn đề khích lệ người thất nghiệp tìm việc làm và việc thiết lập sự hỗ trợ một cách thích đáng nhất. Ðặc biệt trong các quốc gia mà phần lớn người dân tự làm kinh tế và thu nhập một cách thất thường."
+        "t": "Nhiều quốc gia phát triển đã không thể chi trả cho bất cứ một tổ chức trợ cấp xã hội nào. Những hoạt động này chỉ tồn tại ở 40 nước, chủ yếu là những nước công nghiệp hóa. Nhưng chỉ một phần ba trong số các quốc gia đó có những trợ cấp cho người cao tuổi. Điều này gây ra những băn khoăn về các vấn đề khích lệ người thất nghiệp tìm việc làm và việc thiết lập sự hỗ trợ một cách thích đáng nhất. Đặc biệt trong các quốc gia mà phần lớn người dân tự làm kinh tế và thu nhập một cách thất thường."
       }
     ],
     "k": "unemployment assistance"
@@ -41959,7 +41959,7 @@
       {"k": "m", "t": "(kinh tế) Cân bằng thất nghiệp."},
       {
         "k": "m",
-        "t": "Ðịnh đề trung tâm của Keynes trong cuốn Lý thuyết tổng quát rằng ngay cả khi tiền công và giá cả hoàn toàn linh hoạt như được giả định trong thuyết cổ điển, nền kinh tế vẫn không luôn luôn trở về điểm đầy đủ việc làm."
+        "t": "Định đề trung tâm của Keynes trong cuốn Lý thuyết tổng quát rằng ngay cả khi tiền công và giá cả hoàn toàn linh hoạt như được giả định trong thuyết cổ điển, nền kinh tế vẫn không luôn luôn trở về điểm đầy đủ việc làm."
       }
     ],
     "k": "unemployment equilibrium"
@@ -49676,7 +49676,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tt) Ðiềm tĩnh, không bối rối.-manager needs a completely, unflappable secretary: một vị quản đốc bận rộn cần một người bí thư thật là điềm tĩnh."
+        "t": "(tt) Điềm tĩnh, không bối rối.-manager needs a completely, unflappable secretary: một vị quản đốc bận rộn cần một người bí thư thật là điềm tĩnh."
       }
     ],
     "ipa": "ʌnflæpəbl",
@@ -58721,7 +58721,7 @@
       {"k": "pos", "t": "tính từ"},
       {
         "k": "m",
-        "t": "cũng uniate thuộc về giáo hội ở Ðông Âu hoặc vùng Cận Ðông, chấp nhận thẩm quyền của Giáo hoàng nhưng vẫn giữ nghi thức tế tự của mình."
+        "t": "cũng uniate thuộc về giáo hội ở Đông Âu hoặc vùng Cận Đông, chấp nhận thẩm quyền của Giáo hoàng nhưng vẫn giữ nghi thức tế tự của mình."
       },
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tín đồ của giáo hội này."}
@@ -58731,7 +58731,7 @@
   },
   {
     "h": "Uniate",
-    "segs": [{"k": "m", "t": "Tín hữu qui hiệp (Giáo hội Ðông phương hiệp nhất với Rôma)."}],
+    "segs": [{"k": "m", "t": "Tín hữu qui hiệp (Giáo hội Đông phương hiệp nhất với Rôma)."}],
     "k": "uniate"
   },
   {"h": "uniate Churches", "segs": [{"k": "m", "t": "Giáo hội qui hiệp."}], "k": "uniate churches"},
@@ -59856,7 +59856,7 @@
   {
     "h": "Uniform Acts",
     "segs": [
-      {"k": "m", "t": "Ðạo luật Ðồng nhất hóa (Anh giáo hóa, cấm chế Công giáo tại Anh, tk 16)."}
+      {"k": "m", "t": "Đạo luật Đồng nhất hóa (Anh giáo hóa, cấm chế Công giáo tại Anh, tk 16)."}
     ],
     "k": "uniform acts"
   },
@@ -60302,7 +60302,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "không gian đều. Một không gian đều là một tập X kèm theo một họ khác trống U các tập con của tập tích Ðềcác X ( X sao cho. 1. Mỗi phần tử của U đều chứa đường chéo ?. 2. Nếu U ( U thì U-1 ( U. 3. Nếu U ( U thì tồn tại V ( U sao cho V0V ( U với V nào đó trong U. 4. Nếu U ( U và V ( U thì U ( V ( U. 5. Nếu U ( U và U ( V ( X ( X thì V ( U. Ở đây U, V ( U tức là U, V là các tập con của X ( X, có nghĩa là U, V là các quan hệ nhị nguyên trên X. Do đó U-1 là quan hệ ngược của U. V0V là hợp hai quan hệ."
+        "t": "không gian đều. Một không gian đều là một tập X kèm theo một họ khác trống U các tập con của tập tích Đềcác X ( X sao cho. 1. Mỗi phần tử của U đều chứa đường chéo ?. 2. Nếu U ( U thì U-1 ( U. 3. Nếu U ( U thì tồn tại V ( U sao cho V0V ( U với V nào đó trong U. 4. Nếu U ( U và V ( U thì U ( V ( U. 5. Nếu U ( U và U ( V ( X ( X thì V ( U. Ở đây U, V ( U tức là U, V là các tập con của X ( X, có nghĩa là U, V là các quan hệ nhị nguyên trên X. Do đó U-1 là quan hệ ngược của U. V0V là hợp hai quan hệ."
       }
     ],
     "k": "uniform space"
@@ -60379,7 +60379,7 @@
   },
   {
     "h": "Uniform(-ity)",
-    "segs": [{"k": "m", "t": "Ðồng dạng; độc dạng; đồng đều; đơn điệu."}],
+    "segs": [{"k": "m", "t": "Đồng dạng; độc dạng; đồng đều; đơn điệu."}],
     "k": "uniform(-ity)"
   },
   {
@@ -60679,7 +60679,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "\"Con Một\" (sắc chỉ Ðức Clêmentê XI, 1713, kết án P. Quesnel và thuyết Jansêniô)."
+        "t": "\"Con Một\" (sắc chỉ Đức Clêmentê XI, 1713, kết án P. Quesnel và thuyết Jansêniô)."
       }
     ],
     "k": "unigenitus"
@@ -66207,14 +66207,14 @@
     "k": "unipole antenna"
   },
   {"h": "uniport", "segs": [{"k": "m", "t": "sự tải đơn chất (qua màng tế bào)."}], "k": "uniport"},
-  {"h": "unipotency", "segs": [{"k": "m", "t": "Ðơn năng."}], "k": "unipotency"},
+  {"h": "unipotency", "segs": [{"k": "m", "t": "Đơn năng."}], "k": "unipotency"},
   {"h": "unipotent", "segs": [{"k": "m", "t": "lũy đơn."}], "k": "unipotent"},
   {
     "h": "unipotent element",
     "segs": [{"k": "m", "t": "phần tử đơn lũy."}],
     "k": "unipotent element"
   },
-  {"h": "unipotential", "segs": [{"k": "m", "t": "Ðơn năng."}], "k": "unipotential"},
+  {"h": "unipotential", "segs": [{"k": "m", "t": "Đơn năng."}], "k": "unipotential"},
   {
     "h": "unipotential cathode",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "catốt đẳng thế"}],
@@ -66796,7 +66796,7 @@
       {
         "k": "ex",
         "t": "The monetary unit of Great Britain is the pound",
-        "vi": "Ðơn vị tiền tệ của Anh là đồng pao"
+        "vi": "Đơn vị tiền tệ của Anh là đồng pao"
       },
       {"k": "ex", "t": "magnetic unit", "vi": "đơn vị từ"},
       {
@@ -67361,7 +67361,7 @@
   },
   {
     "h": "unit of replication",
-    "segs": [{"k": "m", "t": "Ðơn vi sao chép."}],
+    "segs": [{"k": "m", "t": "Đơn vi sao chép."}],
     "k": "unit of replication"
   },
   {
@@ -67882,7 +67882,7 @@
       {"k": "m", "t": "người theo quan điểm chính trị tập trung"},
       {
         "k": "m",
-        "t": "người theo thuyết nhất vị luận (bác bỏ thuyết một thể ba ngôi của Cơ Ðốc giáo, tin chúa giáo chỉ là một thôi)"
+        "t": "người theo thuyết nhất vị luận (bác bỏ thuyết một thể ba ngôi của Cơ Đốc giáo, tin chúa giáo chỉ là một thôi)"
       },
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "(thuộc) thuyết nhất thể."}
@@ -67912,7 +67912,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một giáo phái không thống nhất dựa trên nền tảng của sự tự do, lý trí, lòng khoan dung và một niềm tin vào sức mạnh của con người. Giáo phái này bắt nguồn từ thế kỷ thứ 16, do những người chống đối Thiên Chúa Giáo lập ra. Họ chống đối niềm tin cho rằng Thiên Chúa có 3 ngôi và nhấn mạnh Ðức Chúa Trời chỉ có một ngôi và là duy nhất. Nhà thờ Unitarian được xây dựng lần đầu tiên ở Luân Ðôn bởi Theophilus Linsey vào năm 1773. Tuy nhiên sau đó đã bị chính quyền phản đối. Tại Anh, cho đến năm 1813, ai theo giáo phái này là vi phạm pháp luật và giáo phái này cũng không được hâm mộ ở đây. Tuy nhiên, nó lại phát triển mạnh mẽ ở Mỹ. Ðặc biệt là ở New England và cả ở trường Ðại Học Harvard. Có đến 5 viên chức lãnh đạo cấp cao ở Mỹ là những người Unitarianism. Năm 1961, hội những người theo giáo phái Unitarian được thành lập ở Mỹ. Sau đó, năm 1778, những người Universalism cũng gia nhập hội với các thành viên thuộc nhiều tôn giáo khác nhau."
+        "t": "Một giáo phái không thống nhất dựa trên nền tảng của sự tự do, lý trí, lòng khoan dung và một niềm tin vào sức mạnh của con người. Giáo phái này bắt nguồn từ thế kỷ thứ 16, do những người chống đối Thiên Chúa Giáo lập ra. Họ chống đối niềm tin cho rằng Thiên Chúa có 3 ngôi và nhấn mạnh Đức Chúa Trời chỉ có một ngôi và là duy nhất. Nhà thờ Unitarian được xây dựng lần đầu tiên ở Luân Đôn bởi Theophilus Linsey vào năm 1773. Tuy nhiên sau đó đã bị chính quyền phản đối. Tại Anh, cho đến năm 1813, ai theo giáo phái này là vi phạm pháp luật và giáo phái này cũng không được hâm mộ ở đây. Tuy nhiên, nó lại phát triển mạnh mẽ ở Mỹ. Đặc biệt là ở New England và cả ở trường Đại Học Harvard. Có đến 5 viên chức lãnh đạo cấp cao ở Mỹ là những người Unitarianism. Năm 1961, hội những người theo giáo phái Unitarian được thành lập ở Mỹ. Sau đó, năm 1778, những người Universalism cũng gia nhập hội với các thành viên thuộc nhiều tôn giáo khác nhau."
       }
     ],
     "k": "unitarianism"
@@ -68212,7 +68212,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một tổ chức được thành lập ở Belfast vào năm 1791. Tổ chức này do Wolfe TONE và một số người khác lập ra. Mục tiêu của họ là đấu tranh đòi bình đẳng về tôn giáo và cải cách quốc hội ở Ireland. Hoạt động của họ bị thúc đẩy bởi cuộc cách mạng Pháp và kéo theo những người Thiên Chúa Giáo cũng như những tín đồ Scotand tham gia. Chính phủ Anh đã từng bước giải tỏa những bất bình này. Ðặc biệt là đối với những người Thiên Chúa Giáo vào năm 1973. Tuy nhiên, sau sự việc sa thải viên đại úy Lord, người đã từng ủng hộ yêu cầu đòi quyền bình đẳng tôn giáo, người dân đã đấu tranh mạnh mẽ để xóa bỏ các luật lệ của Anh và thiết lập một nền cộng hòa ở Ireland. Cuộc đấu tranh đòi hỏi phải có sự viện trợ của quân đội Pháp. Tuy nhiên quân đội viễn chinh Pháp (thành lập 1796 để đổ bộ vào Ireland) đã bị tan rã do bão tuyết. Tháng 5/1798, một vài phong trào đấu tranh lác đác nổ ra. Ðáng kể ở tỉnh Wexford. Thế nhưng sau đó 2 tháng, đội quân của Pháp đã bị chặn đứng. Tone bị bắt và từ đó về sau tổ chức này đã tan rã."
+        "t": "Một tổ chức được thành lập ở Belfast vào năm 1791. Tổ chức này do Wolfe TONE và một số người khác lập ra. Mục tiêu của họ là đấu tranh đòi bình đẳng về tôn giáo và cải cách quốc hội ở Ireland. Hoạt động của họ bị thúc đẩy bởi cuộc cách mạng Pháp và kéo theo những người Thiên Chúa Giáo cũng như những tín đồ Scotand tham gia. Chính phủ Anh đã từng bước giải tỏa những bất bình này. Đặc biệt là đối với những người Thiên Chúa Giáo vào năm 1973. Tuy nhiên, sau sự việc sa thải viên đại úy Lord, người đã từng ủng hộ yêu cầu đòi quyền bình đẳng tôn giáo, người dân đã đấu tranh mạnh mẽ để xóa bỏ các luật lệ của Anh và thiết lập một nền cộng hòa ở Ireland. Cuộc đấu tranh đòi hỏi phải có sự viện trợ của quân đội Pháp. Tuy nhiên quân đội viễn chinh Pháp (thành lập 1796 để đổ bộ vào Ireland) đã bị tan rã do bão tuyết. Tháng 5/1798, một vài phong trào đấu tranh lác đác nổ ra. Đáng kể ở tỉnh Wexford. Thế nhưng sau đó 2 tháng, đội quân của Pháp đã bị chặn đứng. Tone bị bắt và từ đó về sau tổ chức này đã tan rã."
       }
     ],
     "k": "united irishmen"
@@ -68237,7 +68237,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: United Kingdom được chia làm 2 miền: Tây Bắc và Ðông Bắc. Phía Tây Bắc là Great Britain. Ðây là một quần đảo rộng lớn bao gồm England, Scotland và Wales. Phía Ðông Bắc là những quần đảo nằm lân cận Ireland. Scotland là miền đồi núi với địa hình thấp dần về phía Nam và bao gồm nhiều đảo nhỏ. Wales nhìn chung cũng là một vùng đồi núi và có nhiều đảo nhỏ thuộc Anglesey. Phía Bắc England là dãy núi Pennine. Trong khi phía Nam chủ yếu là đồng bằng thấp. Bắc Ireland tiếp giáp với nước cộng hòa Ireland ở phía Nam, phía Tây giáp với Ðại Tây Dương và biển Irish."
+        "t": "Địa hình: United Kingdom được chia làm 2 miền: Tây Bắc và Đông Bắc. Phía Tây Bắc là Great Britain. Đây là một quần đảo rộng lớn bao gồm England, Scotland và Wales. Phía Đông Bắc là những quần đảo nằm lân cận Ireland. Scotland là miền đồi núi với địa hình thấp dần về phía Nam và bao gồm nhiều đảo nhỏ. Wales nhìn chung cũng là một vùng đồi núi và có nhiều đảo nhỏ thuộc Anglesey. Phía Bắc England là dãy núi Pennine. Trong khi phía Nam chủ yếu là đồng bằng thấp. Bắc Ireland tiếp giáp với nước cộng hòa Ireland ở phía Nam, phía Tây giáp với Đại Tây Dương và biển Irish."
       },
       {
         "k": "m",
@@ -68249,15 +68249,15 @@
       },
       {
         "k": "m",
-        "t": "Britain là quốc gia đầu tiên ở Châu Âu có nền công nghiệp phát triển mạnh vào khoảng giữa thế kỷ thứ 19. Năm 1832, một cuộc cải cách lớn trong quốc hội đã diễn ra. Theo đó, quốc hội (HOUSE OF COMMON) nắm quyền lực tối cao. Trước đó, quyền lực nằm trong tay Hoàng gia. Dưới triều đại của nữ hoàng VICTORIA, Anh là đất nước có rất nhiều thuộc địa trên thế giới. Tuy nhiên, trong suốt thế kỷ 20, hàng loạt các nước thuộc địa đã nổi dậy và giành được độc lập. Suốt cuộc chiến tranh thế giới thứ I và thứ II, quân đội Anh chiến đấu chống lại Ðức và các nước đồng minh. Từ những năm 1950 sau thế chiến thứ hai, những căng thẳng đã phần nào được giảm bớt. Từ năm 1967, ngành công nghiệp dầu khí phát triển mạnh và trở thành ngành công nghiệp mũi nhọn của quốc gia. Năm 1973, Britain là thành viên của khối kinh tế Châu Âu, sau đó được gọi tên là EUROPEAN UNION. Năm 1982, Britain mở cuộc chiến tranh với Argentina. Ðến năm 1991, Anh gởi quân đội chi viện cho đồng minh trong cuộc chiến GULF."
+        "t": "Britain là quốc gia đầu tiên ở Châu Âu có nền công nghiệp phát triển mạnh vào khoảng giữa thế kỷ thứ 19. Năm 1832, một cuộc cải cách lớn trong quốc hội đã diễn ra. Theo đó, quốc hội (HOUSE OF COMMON) nắm quyền lực tối cao. Trước đó, quyền lực nằm trong tay Hoàng gia. Dưới triều đại của nữ hoàng VICTORIA, Anh là đất nước có rất nhiều thuộc địa trên thế giới. Tuy nhiên, trong suốt thế kỷ 20, hàng loạt các nước thuộc địa đã nổi dậy và giành được độc lập. Suốt cuộc chiến tranh thế giới thứ I và thứ II, quân đội Anh chiến đấu chống lại Đức và các nước đồng minh. Từ những năm 1950 sau thế chiến thứ hai, những căng thẳng đã phần nào được giảm bớt. Từ năm 1967, ngành công nghiệp dầu khí phát triển mạnh và trở thành ngành công nghiệp mũi nhọn của quốc gia. Năm 1973, Britain là thành viên của khối kinh tế Châu Âu, sau đó được gọi tên là EUROPEAN UNION. Năm 1982, Britain mở cuộc chiến tranh với Argentina. Đến năm 1991, Anh gởi quân đội chi viện cho đồng minh trong cuộc chiến GULF."
       },
       {
         "k": "m",
-        "t": "Các Ðảng chính trị chủ yếu ở Anh bao gồm: Ðảng Bảo Thủ, Ðảng Lao Ðộng, Ðảng Tự Do. Sau khi LLOYD GEORGE vào năm 1922, Ðảng tự do đã không còn nắm chính quyền. Suốt Thế Chiến thứ II, một chính phủ liên hiệp dưới sự cai trị của Winston CHURCHILL được thành lập. Bộ lao động ATTLEE vào thời hậu chiến đã gia nhập hiệp hội sức khỏe quốc gia và hội các quốc gia thịnh vượng. Ðảng lao động này được sự hỗ trợ của TRADE UNION đã xây dựng các lề luật quốc hữu hóa nền công nghiệp quốc gia. Tuy nhiên sau đó, Ðảng bảo thủ Anh mà đặc biệt là những Ðảng do Margaret THATCHER và John MAJOR cầm đầu đã chống lại các luật trên. Họ tiến hành tư hữu hóa nhiều công ty quốc doanh. Họ cũng chống lại Trade Union và những lợi ích công cộng. Ðến năm 1997, một cuộc tổng bầu cử được tiến hành trên toàn bộ quốc gia. Kết quả, chiến thắng thuộc về Ðảng lao động với phần lớn phiếu bầu. Tony BLAIR chính thức trở thành tổng thống của nước Anh."
+        "t": "Các Đảng chính trị chủ yếu ở Anh bao gồm: Đảng Bảo Thủ, Đảng Lao Động, Đảng Tự Do. Sau khi LLOYD GEORGE vào năm 1922, Đảng tự do đã không còn nắm chính quyền. Suốt Thế Chiến thứ II, một chính phủ liên hiệp dưới sự cai trị của Winston CHURCHILL được thành lập. Bộ lao động ATTLEE vào thời hậu chiến đã gia nhập hiệp hội sức khỏe quốc gia và hội các quốc gia thịnh vượng. Đảng lao động này được sự hỗ trợ của TRADE UNION đã xây dựng các lề luật quốc hữu hóa nền công nghiệp quốc gia. Tuy nhiên sau đó, Đảng bảo thủ Anh mà đặc biệt là những Đảng do Margaret THATCHER và John MAJOR cầm đầu đã chống lại các luật trên. Họ tiến hành tư hữu hóa nhiều công ty quốc doanh. Họ cũng chống lại Trade Union và những lợi ích công cộng. Đến năm 1997, một cuộc tổng bầu cử được tiến hành trên toàn bộ quốc gia. Kết quả, chiến thắng thuộc về Đảng lao động với phần lớn phiếu bầu. Tony BLAIR chính thức trở thành tổng thống của nước Anh."
       },
       {
         "k": "m",
-        "t": "Ðã có 2 cuộc trưng cầu dân ý diễn ra trên cả Wale và Scotland về vấn đề chuyển giao quyền lực từ trung ương đến địa phương. Ðầu tiên là vào năm 1979, phần lớn người dân xứ Wale đã bỏ phiếu chống lại sự việc này trong khi người Scotland thì ủng hộ. Tuy nhiên, họ đã không giành được sự ủng hộ của 40% cử tri và đã thất bại. Năm 1997, một lề luật được thiết lập với sự gia tăng thuế với người Scotland và miễn thuế cho người xứ Wale. Từ năm 1969, sự xung đột giữa những người theo Thiên Chúa Giáo và những người chống đối lại tái diễn ở Bắc Ireland. Năm 1994, quân đội Ireland tuyên bố ngừng bắn, chuẩn bị cho một cuộc thương lượng về một nền hòa bình giữa các Ðảng phái. Năm 1997, một cuộc hội nghị Ða Ðảng đã được khai mạc. Ðến tháng tư năm 1998, cuộc hội nghị đã đi đến kết quả về việc thỏa thuận lập ra một nhà nước ở Bắc Ireland. Tháng 5/1998, tuyên bố này có hiệu lực trên cả 2 vùng ranh giới của Ireland."
+        "t": "Đã có 2 cuộc trưng cầu dân ý diễn ra trên cả Wale và Scotland về vấn đề chuyển giao quyền lực từ trung ương đến địa phương. Đầu tiên là vào năm 1979, phần lớn người dân xứ Wale đã bỏ phiếu chống lại sự việc này trong khi người Scotland thì ủng hộ. Tuy nhiên, họ đã không giành được sự ủng hộ của 40% cử tri và đã thất bại. Năm 1997, một lề luật được thiết lập với sự gia tăng thuế với người Scotland và miễn thuế cho người xứ Wale. Từ năm 1969, sự xung đột giữa những người theo Thiên Chúa Giáo và những người chống đối lại tái diễn ở Bắc Ireland. Năm 1994, quân đội Ireland tuyên bố ngừng bắn, chuẩn bị cho một cuộc thương lượng về một nền hòa bình giữa các Đảng phái. Năm 1997, một cuộc hội nghị Đa Đảng đã được khai mạc. Đến tháng tư năm 1998, cuộc hội nghị đã đi đến kết quả về việc thỏa thuận lập ra một nhà nước ở Bắc Ireland. Tháng 5/1998, tuyên bố này có hiệu lực trên cả 2 vùng ranh giới của Ireland."
       },
       {"k": "m", "t": "Thủ đô: London."},
       {"k": "m", "t": "Diện tích: 244.110 km2"},
@@ -68277,7 +68277,7 @@
       },
       {
         "k": "m",
-        "t": "Gia nhập: Liên Hiệp Quốc, EU, Liên hiệp Anh, OECD, NATO, Cộng Ðồng Châu Âu, CSCE."
+        "t": "Gia nhập: Liên Hiệp Quốc, EU, Liên hiệp Anh, OECD, NATO, Cộng Đồng Châu Âu, CSCE."
       }
     ],
     "k": "united kingdom (uk)"
@@ -68313,7 +68313,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tên chính thức của nó là: United South African National Party): một tổ chức chính trị ở Nam Phi. Tổ chức này ra đời năm 1934. Ðó là một sự kết hợp của 2 tổ chức: HERTZOG'S NATIONAL PARTY và SMUTS'S South African Party. Mặc dù được sự hậu thuẫn của người Anh và người Phi gốc Anh, tổ chức này chẳng bao lâu sau đã bị suy yếu. Nguyên nhân do bởi sự ly khai khỏi tổ chức của MALAN'S \"purified\" Nation Party. Năm 1939, tổ chức bị chia cắt. Hertzog công bố Nam Phi là một nhà nước trung lập. Ðến giữa thập niên 1970, nó thật sự trở thành một tổ chức chống lại đảng thống nhất. Những hỗ trợ cho đảng thống nhất ngày một giảm đi dẫn đến sự tan vỡ của tổ chức này vào năm 1977."
+        "t": "(tên chính thức của nó là: United South African National Party): một tổ chức chính trị ở Nam Phi. Tổ chức này ra đời năm 1934. Đó là một sự kết hợp của 2 tổ chức: HERTZOG'S NATIONAL PARTY và SMUTS'S South African Party. Mặc dù được sự hậu thuẫn của người Anh và người Phi gốc Anh, tổ chức này chẳng bao lâu sau đã bị suy yếu. Nguyên nhân do bởi sự ly khai khỏi tổ chức của MALAN'S \"purified\" Nation Party. Năm 1939, tổ chức bị chia cắt. Hertzog công bố Nam Phi là một nhà nước trung lập. Đến giữa thập niên 1970, nó thật sự trở thành một tổ chức chống lại đảng thống nhất. Những hỗ trợ cho đảng thống nhất ngày một giảm đi dẫn đến sự tan vỡ của tổ chức này vào năm 1977."
       }
     ],
     "k": "united party"
@@ -68729,7 +68729,7 @@
     "segs": [
       {"k": "m", "t": "(tắt) ("},
       {"k": "ex", "t": "Univ) trường đại học (University", "vi": ")"},
-      {"k": "ex", "t": "London Univ", "vi": "trường đại học Luân Ðôn."}
+      {"k": "ex", "t": "London Univ", "vi": "trường đại học Luân Đôn."}
     ],
     "ipa": ",ju: en ai 'vi:",
     "k": "univ"
@@ -69892,19 +69892,19 @@
     "segs": [
       {
         "k": "m",
-        "t": "là một trung tâm đào tạo, giảng dạy, nghiên cứu ở cấp bậc đại học. Trường Ðại học được phát triển chủ yếu ở Châu Âu và mở ra cho sinh viên trên tất cả các quốc gia. Hệ thống đào tạo này áp dụng chủ yếu cho các linh mục và các tu sĩ bên cạnh những chuẩn mực đào tạo ở nhà thờ và các tu viện. Vào thời ấy, người dân bản xứ và những người nước ngoài có thể tập hợp lại với nhau để học tập trên một vùng đất xa lạ. Vào khoảng thế kỷ thứ 13, các trường đại học phát triển thành những đoàn thể và mang kết cấu hành chính. Ở Bologna và Pari, sinh viên nước ngoài được ban những quyền lợi đặc biệt như quyền được xem xét lại những hành động vi phạm với lề luật của giáo hội và quyền được lên tiếng chống lại các điều lệ không hợp lý."
+        "t": "là một trung tâm đào tạo, giảng dạy, nghiên cứu ở cấp bậc đại học. Trường Đại học được phát triển chủ yếu ở Châu Âu và mở ra cho sinh viên trên tất cả các quốc gia. Hệ thống đào tạo này áp dụng chủ yếu cho các linh mục và các tu sĩ bên cạnh những chuẩn mực đào tạo ở nhà thờ và các tu viện. Vào thời ấy, người dân bản xứ và những người nước ngoài có thể tập hợp lại với nhau để học tập trên một vùng đất xa lạ. Vào khoảng thế kỷ thứ 13, các trường đại học phát triển thành những đoàn thể và mang kết cấu hành chính. Ở Bologna và Pari, sinh viên nước ngoài được ban những quyền lợi đặc biệt như quyền được xem xét lại những hành động vi phạm với lề luật của giáo hội và quyền được lên tiếng chống lại các điều lệ không hợp lý."
       },
       {
         "k": "m",
-        "t": "Các trường đại học được mở ra sớm nhất ở Châu Âu bao gồm: Bologna (1088), Paris (1150), Prague (1348), Vienna (1365), và Heidelberg (1386). Tại Britain Oxford (1150) và Cambridge (1209), các trường cao đẳng phát triển sớm nhất. Sau đó là các trường St Andrews (1411) và Glasgow (1451) ở Scotland, trường Trinity College và Dublin (1591) ở Ireland. Nền tảng của việc giáo dục ở bậc đại học thời Trung cổ chủ yếu dựa theo trường phái của sự tự do, sáng tạo. Chương trình giảng dạy được chia thành tứ khoa (bao gồm: số học, hình học, âm nhạc, thiên văn) và tam khoa (bao gồm: ngữ pháp, tu từ và logic). Ở Mỹ, các trường Ðại học được bắt nguồn từ các trường Cao đẳng vào khoảng thế kỷ thứ 17 và 18. Trường Ðại học Harvard (1636) là trường được thành lập sớm nhất ở Mỹ. Trong suốt một thời gian dài, 7 môn khoa học cơ bản cộng với pháp luật học là những môn trong chương trình đào tạo chính thức ở bậc Ðại học. Tuy nhiên ở Salerno, do ảnh hưởng của nền văn hóa Ả-Rập, đã xuất hiện trường y khoa vào thế kỷ thứ 11. Trong suốt thế kỷ thứ 17, một cuộc Cách Mạng về khoa học và kỹ thuật không ngừng lớn mạnh. Ðiều này đã dần dần thúc đẩy việc mở rộng hơn nữa chương trình đạo tạo Ðại học."
+        "t": "Các trường đại học được mở ra sớm nhất ở Châu Âu bao gồm: Bologna (1088), Paris (1150), Prague (1348), Vienna (1365), và Heidelberg (1386). Tại Britain Oxford (1150) và Cambridge (1209), các trường cao đẳng phát triển sớm nhất. Sau đó là các trường St Andrews (1411) và Glasgow (1451) ở Scotland, trường Trinity College và Dublin (1591) ở Ireland. Nền tảng của việc giáo dục ở bậc đại học thời Trung cổ chủ yếu dựa theo trường phái của sự tự do, sáng tạo. Chương trình giảng dạy được chia thành tứ khoa (bao gồm: số học, hình học, âm nhạc, thiên văn) và tam khoa (bao gồm: ngữ pháp, tu từ và logic). Ở Mỹ, các trường Đại học được bắt nguồn từ các trường Cao đẳng vào khoảng thế kỷ thứ 17 và 18. Trường Đại học Harvard (1636) là trường được thành lập sớm nhất ở Mỹ. Trong suốt một thời gian dài, 7 môn khoa học cơ bản cộng với pháp luật học là những môn trong chương trình đào tạo chính thức ở bậc Đại học. Tuy nhiên ở Salerno, do ảnh hưởng của nền văn hóa Ả-Rập, đã xuất hiện trường y khoa vào thế kỷ thứ 11. Trong suốt thế kỷ thứ 17, một cuộc Cách Mạng về khoa học và kỹ thuật không ngừng lớn mạnh. Điều này đã dần dần thúc đẩy việc mở rộng hơn nữa chương trình đạo tạo Đại học."
       },
       {
         "k": "m",
-        "t": "Vào khoảng 1800, các trường Ðại học thời trung cổ ở Châu Âu không ngừng phát triển. Bên cạnh các trường Bologna, Paris, Oxford xuất hiện các trường Ðại học ở Ý và Ðức vì các nhà lãnh đạo ở đây muốn gây uy tín đối với nhân dân. Ở Mỹ và Châu Âu, các môn học truyền thống như: ngữ pháp, logic, tu từ, tiếng Hylạp, Latin và toán học vẫn chiếm ưu thế. Cơ sở đào tạo có thể ở Nhà thờ hoặc thuộc Nhà nước. Có khoảng 160 trường Ðại học tồn tại đến năm 1800. Ðặc biệt đến thế kỷ thứ 19 và 20, hệ thống giáo dục và đào tạo Ðại học đã được cải tiến rất nhiều. Vào giữa thập niên 1990, có trên 5000 trường Ðại học (trong đó ở Mỹ là 400 trường) và hàng ngàn trường Cao đẳng trên Thế Giới. Trong những năm đầu thế kỷ 19, các trường Ðại học ở Ðức đã đi tiên phong trong việc cải cách chương trình đào tạo, trong đó các ngành khoa học được chú trọng hơn. Ðây cũng là mô hình đào tạo Ðại học được áp dụng trên Thế Giới trong suốt thế kỷ thứ 19 (đặc biệt là ở Mỹ). Trong những năm cuối thế kỷ 20, hệ thống đào tạo bậc Ðại học được mở rộng hơn. Ðặc biệt chú trọng đến các trường cao đẳng, dạy nghề, các trường đào tạo kỹ thuật, bách khoa..."
+        "t": "Vào khoảng 1800, các trường Đại học thời trung cổ ở Châu Âu không ngừng phát triển. Bên cạnh các trường Bologna, Paris, Oxford xuất hiện các trường Đại học ở Ý và Đức vì các nhà lãnh đạo ở đây muốn gây uy tín đối với nhân dân. Ở Mỹ và Châu Âu, các môn học truyền thống như: ngữ pháp, logic, tu từ, tiếng Hylạp, Latin và toán học vẫn chiếm ưu thế. Cơ sở đào tạo có thể ở Nhà thờ hoặc thuộc Nhà nước. Có khoảng 160 trường Đại học tồn tại đến năm 1800. Đặc biệt đến thế kỷ thứ 19 và 20, hệ thống giáo dục và đào tạo Đại học đã được cải tiến rất nhiều. Vào giữa thập niên 1990, có trên 5000 trường Đại học (trong đó ở Mỹ là 400 trường) và hàng ngàn trường Cao đẳng trên Thế Giới. Trong những năm đầu thế kỷ 19, các trường Đại học ở Đức đã đi tiên phong trong việc cải cách chương trình đào tạo, trong đó các ngành khoa học được chú trọng hơn. Đây cũng là mô hình đào tạo Đại học được áp dụng trên Thế Giới trong suốt thế kỷ thứ 19 (đặc biệt là ở Mỹ). Trong những năm cuối thế kỷ 20, hệ thống đào tạo bậc Đại học được mở rộng hơn. Đặc biệt chú trọng đến các trường cao đẳng, dạy nghề, các trường đào tạo kỹ thuật, bách khoa..."
       },
       {
         "k": "m",
-        "t": "Hệ thống đào tạo Ðại học mở rộng sử dụng radio và truyền hình trong việc giảng dạy nhằm nâng cao tầm hiểu biết của học viên. Cách thức giảng dạy này được áp dụng lần đầu tiên ở Anh vào năm 1969. Từ đó nó trở thành một phương pháp giảng dạy thành công và được áp dụng đối với hầu hết các nước trên Thế Giới."
+        "t": "Hệ thống đào tạo Đại học mở rộng sử dụng radio và truyền hình trong việc giảng dạy nhằm nâng cao tầm hiểu biết của học viên. Cách thức giảng dạy này được áp dụng lần đầu tiên ở Anh vào năm 1969. Từ đó nó trở thành một phương pháp giảng dạy thành công và được áp dụng đối với hầu hết các nước trên Thế Giới."
       }
     ],
     "k": "university",
@@ -69914,7 +69914,7 @@
     "h": "university of technology",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "trường Ðại học bách khoa"}
+      {"k": "m", "t": "trường Đại học bách khoa"}
     ],
     "k": "university of technology"
   },
@@ -69963,7 +69963,7 @@
   },
   {
     "h": "Univocous(-ity)",
-    "segs": [{"k": "m", "t": "Ðơn/độc nghĩa; đồng nghĩa."}],
+    "segs": [{"k": "m", "t": "Đơn/độc nghĩa; đồng nghĩa."}],
     "k": "univocous(-ity)"
   },
   {
@@ -117842,7 +117842,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "&tt. (ở Ấn Ðộ) người thuộc một đẳng cấp Hin-đu mà nếu đụng chạm tới họ là bị coi như làm ô uế những người thuộc các tầng lớp trên"
+        "t": "&tt. (ở Ấn Độ) người thuộc một đẳng cấp Hin-đu mà nếu đụng chạm tới họ là bị coi như làm ô uế những người thuộc các tầng lớp trên"
       },
       {"k": "m", "t": "tiện dân."}
     ],
@@ -117861,7 +117861,7 @@
       {"k": "pos", "t": "tính từ"},
       {
         "k": "m",
-        "t": "không thể sờ được, không thể đụng đến^dt. tiện dân (Ấn Ðộ) (untouchability [-'biliti]^dt. (Cách dùng: Từ này và cách đối xử phân biệt của xã hội đối với giai cấp này, được Hiến pháp Ấn Ðộ (1949) xem là bất công.)"
+        "t": "không thể sờ được, không thể đụng đến^dt. tiện dân (Ấn Độ) (untouchability [-'biliti]^dt. (Cách dùng: Từ này và cách đối xử phân biệt của xã hội đối với giai cấp này, được Hiến pháp Ấn Độ (1949) xem là bất công.)"
       }
     ],
     "ipa": "ʌn'tʌtʃəb(ə)l",

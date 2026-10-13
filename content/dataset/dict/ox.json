@@ -1115,7 +1115,7 @@
       {"k": "m", "t": "(tắt) của"},
       {"k": "ex", "t": "La tinh Oxonia", "vi": "hạt Oxfordshire"},
       {"k": "m", "t": "(tắt) của"},
-      {"k": "ex", "t": "la tinh Oxoniensis", "vi": "của trường Ðại học Oxford (nhất là về học vị)."}
+      {"k": "ex", "t": "la tinh Oxoniensis", "vi": "của trường Đại học Oxford (nhất là về học vị)."}
     ],
     "ipa": "'ɔksn",
     "k": "oxon"
@@ -2309,7 +2309,7 @@
     "k": "oxysulfide"
   },
   {"h": "oxytetracycline", "segs": [{"k": "m", "t": "oxitetraxylin."}], "k": "oxytetracycline"},
-  {"h": "oxytocia", "segs": [{"k": "m", "t": "Ðẻ mau."}], "k": "oxytocia"},
+  {"h": "oxytocia", "segs": [{"k": "m", "t": "Đẻ mau."}], "k": "oxytocia"},
   {
     "h": "oxytocic",
     "segs": [

@@ -43,7 +43,7 @@
     "vi": [
       ["Nghe và đọc"],
       ["Cha ơi, máy in không hoạt động."],
-      ["Ðó là máy mới mà.", "Lẽ ra nó phải không có gì trục trặc chứ.", "Con đã mở máy chưa?"],
+      ["Đó là máy mới mà.", "Lẽ ra nó phải không có gì trục trặc chứ.", "Con đã mở máy chưa?"],
       ["Dạ rồi."],
       ["Con kết nối có đúng không?"],
       ["ô, cha.", "Con biết cách kết nối máy in mà."],
@@ -52,7 +52,7 @@
       ["Cha không biết nó có vấn đề gì.", "Cuốn sách hướng dẫn này chẳng có ích gì."],
       ["Cha có thể gọi điện cho cửa hàng mà cha đã mua máy được không?"],
       [
-        "Ðược chứ, nhưng cha đã mua nó ở thành phố Hồ Chí Minh.",
+        "Được chứ, nhưng cha đã mua nó ở thành phố Hồ Chí Minh.",
         "Cha không biết họ có thể làm được gì.",
         "Tuy nhiên, nó đang trong thời hạn bảo hành nên công ty phải sửa nó."
       ],
@@ -76,7 +76,7 @@
     ],
     "vi": [
       ["Hãy thực hành bài hội thoại với một bạn."],
-      ["Sự thật hay ý kiến?", "Ðánh dấu (V) vào các ô."],
+      ["Sự thật hay ý kiến?", "Đánh dấu (V) vào các ô."],
       ["Máy in không hoạt động.(F)"],
       ["Lẽ ra nó phải không có gì trục trặc.(O)"],
       ["Con biết cách kết nối máy in.(O)"],
@@ -191,7 +191,7 @@
       ["Chuyện gì vậy?"],
       ["Nó không hoạt động."],
       ["Hãy kiểm tra đầu cắm."],
-      ["ôi không!", "Ðầu cắm đã tuột khỏi khe cắm."]
+      ["ôi không!", "Đầu cắm đã tuột khỏi khe cắm."]
     ],
     "img": "img/readings/1.8.140a.webp",
     "page": "140"
@@ -265,7 +265,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Một trường đại học mới không thư viện vừa được mở ở Mỹ.",
         "Tất cả thông tin thường tìm thấy trong thư viện giờ đây được lưu trữ trong các máy tính của trường đại học.",
@@ -303,7 +303,7 @@
       ["f) Not all people think positively about the new method of study off campus."]
     ],
     "vi": [
-      ["Ðúng hay sai?", "Ðánh dấu (V) vào các ô."],
+      ["Đúng hay sai?", "Đánh dấu (V) vào các ô."],
       ["ở Mỹ vừa mới có một trường đại học mới không có thư viện.(T)"],
       ["Người sử dụng có thể gửi và nhận tin nhắn bằng cách dùng máy tính.(T)"],
       ["Tại nhiều trường đại học sinh viên năm nhất được quy định có quyền sử dụng máy tính.(T)"],
@@ -339,7 +339,7 @@
     ],
     "vi": [
       ["Trả lời"],
-      ["Ðiều gì làm cho trường đại học mới này khác với các trường đại học khác?"],
+      ["Điều gì làm cho trường đại học mới này khác với các trường đại học khác?"],
       ["Trường đại học mới này không có thư viện."],
       ["Loại thông tin nào có thể tìm được qua máy tính?"],
       [
@@ -399,7 +399,7 @@
       ["Hãy xem các hình ảnh và từ ngữ.", "Viết những chỉ dẫn về cách sử dụng máy in."],
       ["Cắm điện máy in rồi mở máy."],
       ["Lấy giấy cũ ra và nạp giấy mới vào khay đút giấy."],
-      ["Ðợi cho nút nguồn nháy sáng."],
+      ["Đợi cho nút nguồn nháy sáng."],
       ["Các trang hiển thị trên màn hình máy tính."],
       ["Nhấp chuột vào biểu tượng trên màn hình và đợi một vài giây."],
       ["Trong một phút bản in sẽ đi ra từ đầu ra."]
@@ -520,7 +520,7 @@
       ["g) People have received information through the internet recently."]
     ],
     "vi": [
-      ["Hãy đọc các câu sau.", "Ðánh dấu cột đúng."],
+      ["Hãy đọc các câu sau.", "Đánh dấu cột đúng."],
       ["hành động đã kết thúc"],
       ["hành động chưa hoàn tất"],
       ["Tôi đã đến cao nguyên Sapa."],

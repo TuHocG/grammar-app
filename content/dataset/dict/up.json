@@ -20,7 +20,7 @@
         "k": "m",
         "t": "tới một địa điểm quan trọng nhất, ở một địa điểm quan trọng nhất (thành phố lớn...)"
       },
-      {"k": "ex", "t": "when are you going up to London?", "vi": "khi nào anh đi Luân Ðôn?"},
+      {"k": "ex", "t": "when are you going up to London?", "vi": "khi nào anh đi Luân Đôn?"},
       {"k": "ex", "t": "to go up to the door", "vi": "đến tận cửa"},
       {"k": "m", "t": "tới một trường đại học, ở một trường đại học (nhất là Oxford, Cambridge)"},
       {"k": "m", "t": "tới miền Bắc, ở miền Bắc của đất nước"},
@@ -517,7 +517,7 @@
       {
         "k": "ex",
         "t": "She said I didn't have to go if I didn't want to. It's entirely up to me:",
-        "vi": "Bà ấy nói tôi không phải đi nếu tôi không muốn. Ðiều đó hoàn toàn tùy thuộc vào tôi."
+        "vi": "Bà ấy nói tôi không phải đi nếu tôi không muốn. Điều đó hoàn toàn tùy thuộc vào tôi."
       },
       {
         "k": "ex",
@@ -918,7 +918,7 @@
       {
         "k": "ex",
         "t": "This is not an up-to-date record of the construction project:",
-        "vi": "Ðây không phải là một hồ sơ cập nhật của dự án xây dựng."
+        "vi": "Đây không phải là một hồ sơ cập nhật của dự án xây dựng."
       },
       {
         "k": "ex",
@@ -1011,7 +1011,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bộ sách gồm hơn 100 bài thuyết giáo của đạo Hindu. Bộ sách này ra đời ở Sanskrit vào khoảng 400 năm trước Công nguyên. Bộ sách này bắt nguồn từ các buổi rao giảng của Vedas và Brahamanas vì thế nó được biết đến như các học thuyết của Vedanta. Tuy vậy, nó mang màu sắc thần bí và đậm chất triết học. Các nhà nghiên cứu tìm thấy trong bộ sách này một học thuyết về sự hiện hữu của một Ðấng tối cao. Do đó, các lý thuyết bhagavadgita (là một phần của học thuyết Mahabharata) cùng với Upanishads cung cấp một hệ các giáo lý cơ bản và nâng cao của đạo Hindu."
+        "t": "Bộ sách gồm hơn 100 bài thuyết giáo của đạo Hindu. Bộ sách này ra đời ở Sanskrit vào khoảng 400 năm trước Công nguyên. Bộ sách này bắt nguồn từ các buổi rao giảng của Vedas và Brahamanas vì thế nó được biết đến như các học thuyết của Vedanta. Tuy vậy, nó mang màu sắc thần bí và đậm chất triết học. Các nhà nghiên cứu tìm thấy trong bộ sách này một học thuyết về sự hiện hữu của một Đấng tối cao. Do đó, các lý thuyết bhagavadgita (là một phần của học thuyết Mahabharata) cùng với Upanishads cung cấp một hệ các giáo lý cơ bản và nâng cao của đạo Hindu."
       }
     ],
     "k": "upanishads"
@@ -3395,7 +3395,7 @@
   {
     "h": "upright' piano",
     "segs": [
-      {"k": "m", "t": "(cg upright) (dt) Ðàn dương cầm có dây đàn sắp theo chiều thẳng đứng."}
+      {"k": "m", "t": "(cg upright) (dt) Đàn dương cầm có dây đàn sắp theo chiều thẳng đứng."}
     ],
     "k": "upright' piano"
   },
@@ -3527,7 +3527,7 @@
         "vi": ") buộc ai/bản thân phải rời bỏ nơi đã sinh ra hoặc đã ổn định cuộc sống"
       },
       {"k": "ex", "t": "she uprooted herself from the farm and moved to", "vi": "London"},
-      {"k": "m", "t": "Bà ta đã phải rời bỏ trang trại của mình để dọn ra ở Luân Ðôn."}
+      {"k": "m", "t": "Bà ta đã phải rời bỏ trang trại của mình để dọn ra ở Luân Đôn."}
     ],
     "ipa": "ʌp'ru:t",
     "k": "uproot"

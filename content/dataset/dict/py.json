@@ -550,7 +550,7 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "ex", "t": "pajamas", "vi": "danh từ số nhiều"},
       {"k": "m", "t": "pijama, quần áo ngủ (nhất là của đàn ông)"},
-      {"k": "m", "t": "xà rông (quần rộng quấn quanh bụng cho cả nam lẫn nữ, ở Ấn Ðộ, Pakítxtăng)"},
+      {"k": "m", "t": "xà rông (quần rộng quấn quanh bụng cho cả nam lẫn nữ, ở Ấn Độ, Pakítxtăng)"},
       {
         "k": "ex",
         "t": "be cat's whiskers/pyjamas",
@@ -583,7 +583,7 @@
     "k": "pyknic"
   },
   {"h": "pykno-", "segs": [{"k": "m", "t": "prefix chỉ độ dầy hay mật độ."}], "k": "pykno-"},
-  {"h": "pykno-epilepsy", "segs": [{"k": "m", "t": "Ðộng kinh bé."}], "k": "pykno-epilepsy"},
+  {"h": "pykno-epilepsy", "segs": [{"k": "m", "t": "Động kinh bé."}], "k": "pykno-epilepsy"},
   {"h": "pyknocardia", "segs": [{"k": "m", "t": "Chứng mạch nhanh."}], "k": "pyknocardia"},
   {"h": "Pyknoisis", "segs": [{"k": "m", "t": "đặc nhân."}], "k": "pyknoisis"},
   {"h": "pyknolepsy", "segs": [{"k": "m", "t": "động kinh dầy đặc."}], "k": "pyknolepsy"},
@@ -645,7 +645,7 @@
     "ipa": "pai'lɔrik",
     "k": "pyloric"
   },
-  {"h": "pyloric artery", "segs": [{"k": "m", "t": "Ðộng mạch môn vị."}], "k": "pyloric artery"},
+  {"h": "pyloric artery", "segs": [{"k": "m", "t": "Động mạch môn vị."}], "k": "pyloric artery"},
   {"h": "pyloric gland", "segs": [{"k": "m", "t": "Tuyến môn vị."}], "k": "pyloric gland"},
   {
     "h": "pyloric incompetence",
@@ -1054,15 +1054,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một công trình kiến trúc vũ đại mang tính đặc trưng riêng biệt của Ai Cập cổ đại, thường được xây dựng như lăng mộ hoàng gia và thường xây nên từ đá, với một mặt đáy vuông và các mặt nghiêng giao nhau tại đỉnh trung tâm. Ðầu tiên, các pharaoh được chôn cất trong các phòng dưới mặt đất được xây theo lối nhà mồ hình chữ nhật, công trình bằng đá này chứa đựng lương thực và trang phục mà pharaoh có thể cần dùng ở kiếp sau. Kim tự tháp đầu tiên được xây dựng cho vua Zoser ở Saqqara bởi Imhotep vào khoảng năm 2700 trước công nguyên, Nó cũng được gọi là Kim tự tháp bậc thang, có sáu bậc khổng lồ và cao hơn 60 m (197 feet). Một kim tự tháp được xây ở Meydum vào khoảng năm 2600 khởi đầu có kết cấu tương tự, nhưng các bậc thang sau đó được lấp kín với đá vôi, để tạo thành hình chóp nguyên thủy. Ða số những kim tự tháp nổi tiếng bắt nguồn từ Vương quốc cổ (2700-2200 trước công nguyên), mặc dù một số được xây dựng trong những triều đại thế kỷ 11 và 12 (2050-1750 trước công nguyên). Kim tự tháp Khufu, Khafre, và Menkaure ở Giza là những minh chứng ngoạn mục về tài năng của những kiến trúc sư Ai Cập và năng lực quốc gia để tổ chức một lực lượng nhân công khổng lồ."
+        "t": "Một công trình kiến trúc vũ đại mang tính đặc trưng riêng biệt của Ai Cập cổ đại, thường được xây dựng như lăng mộ hoàng gia và thường xây nên từ đá, với một mặt đáy vuông và các mặt nghiêng giao nhau tại đỉnh trung tâm. Đầu tiên, các pharaoh được chôn cất trong các phòng dưới mặt đất được xây theo lối nhà mồ hình chữ nhật, công trình bằng đá này chứa đựng lương thực và trang phục mà pharaoh có thể cần dùng ở kiếp sau. Kim tự tháp đầu tiên được xây dựng cho vua Zoser ở Saqqara bởi Imhotep vào khoảng năm 2700 trước công nguyên, Nó cũng được gọi là Kim tự tháp bậc thang, có sáu bậc khổng lồ và cao hơn 60 m (197 feet). Một kim tự tháp được xây ở Meydum vào khoảng năm 2600 khởi đầu có kết cấu tương tự, nhưng các bậc thang sau đó được lấp kín với đá vôi, để tạo thành hình chóp nguyên thủy. Đa số những kim tự tháp nổi tiếng bắt nguồn từ Vương quốc cổ (2700-2200 trước công nguyên), mặc dù một số được xây dựng trong những triều đại thế kỷ 11 và 12 (2050-1750 trước công nguyên). Kim tự tháp Khufu, Khafre, và Menkaure ở Giza là những minh chứng ngoạn mục về tài năng của những kiến trúc sư Ai Cập và năng lực quốc gia để tổ chức một lực lượng nhân công khổng lồ."
       },
       {
         "k": "m",
-        "t": "Ðại Kim Tự Tháp ở Giza, được xây nên từ những khối đá khổng lồ nặng đến hơn 200 tấn, được đánh giá cần một lực lượng nhân công tương đương với khoảng 84.000 người làm việc 80 ngày 1 năm trong vòng 20 năm."
+        "t": "Đại Kim Tự Tháp ở Giza, được xây nên từ những khối đá khổng lồ nặng đến hơn 200 tấn, được đánh giá cần một lực lượng nhân công tương đương với khoảng 84.000 người làm việc 80 ngày 1 năm trong vòng 20 năm."
       },
       {
         "k": "m",
-        "t": "Các kim tự tháp có bậc thang, được biết đến với tên gọi ziggurat tồn tại từ thiên niên kỷ thứ 3 trước công nguyên ở Mesopotamia. Các kiến trúc kim tự tháp bậc thang cũng được xây dựng như là đáy của các đền thờ ở Trung Mỹ thời kỳ tiền Columbia. Chúng được dựng nên bởi người Maya, Aztecs, và Toltecs, phần lớn là giữa năm 250 sau công nguyên và 1520. Ðền thờ Mặt trời ở Teotihuacan thuộc Mexico có lẽ là nơi ấn tượng nhất"
+        "t": "Các kim tự tháp có bậc thang, được biết đến với tên gọi ziggurat tồn tại từ thiên niên kỷ thứ 3 trước công nguyên ở Mesopotamia. Các kiến trúc kim tự tháp bậc thang cũng được xây dựng như là đáy của các đền thờ ở Trung Mỹ thời kỳ tiền Columbia. Chúng được dựng nên bởi người Maya, Aztecs, và Toltecs, phần lớn là giữa năm 250 sau công nguyên và 1520. Đền thờ Mặt trời ở Teotihuacan thuộc Mexico có lẽ là nơi ấn tượng nhất"
       }
     ],
     "k": "pyramid",
@@ -2832,7 +2832,7 @@
     "ipa": ",pairə'tekni",
     "k": "pyrotechny"
   },
-  {"h": "pyrotic", "segs": [{"k": "m", "t": "Ðốt cháy, nóng bỏng."}], "k": "pyrotic"},
+  {"h": "pyrotic", "segs": [{"k": "m", "t": "Đốt cháy, nóng bỏng."}], "k": "pyrotic"},
   {
     "h": "pyrotochnics",
     "segs": [
@@ -2991,7 +2991,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Pi-ta-go, khoảng 570-khoảng 500 trước CN) nhà triết học cổ Hi Lạp. Khó khăn lắm người ta mới tách ra được một ít tài liệu hiếm hoi về đời sống và học thuyết của Pythagore từ truyền thuyết hình dung ông như một thánh nhân, một nhà hiền triết hoàn mỹ, người kế tục toàn bộ khoa học cổ đại và cận Ðông, một nhà sáng tạo kỳ diệu và một đạo sĩ. Pythagore giã từ hòn đảo Samos, quê hương ông, để phản đối chế độ bạo ngược của Polyerate. Có lẽ trong các cuộc viễn du, ông đã đến Ai Cập và Babylon. Ở tuổi trưởng thành (tục truyền ở tuổi 40) ông chuyển đến ở tại thành phố Crontone ở miền Nam nước Ý, ở đó ông xây dựng một hội kín tuyệt mật những môn đồ đã tôn kính ông như một đấng tối cao ngay khi ông còn sống. Trong lĩnh vực toán học, Pythagore được coi là tác giả của việc đưa có hệ thống sự chứng minh vào hình học, việc xây dựng phép đo diện tích của những hình thẳng, xây dựng lý thuyết về đồng dạng, chứng minh định lý về các cạnh của một tam giác vuông (định lý mang tên ông-định lý Pythagore), xây dựng một số đa diện đều và đa giác đều. Tên tuổi của Pythagore còn gắn liền với những công trình nghiên cứu về các số chẵn và số lẻ, về số nguyên tố và hợp số, về các hình số và hoàn chỉnh, về các trung bình cộng và trung bình nhân."
+        "t": "(Pi-ta-go, khoảng 570-khoảng 500 trước CN) nhà triết học cổ Hi Lạp. Khó khăn lắm người ta mới tách ra được một ít tài liệu hiếm hoi về đời sống và học thuyết của Pythagore từ truyền thuyết hình dung ông như một thánh nhân, một nhà hiền triết hoàn mỹ, người kế tục toàn bộ khoa học cổ đại và cận Đông, một nhà sáng tạo kỳ diệu và một đạo sĩ. Pythagore giã từ hòn đảo Samos, quê hương ông, để phản đối chế độ bạo ngược của Polyerate. Có lẽ trong các cuộc viễn du, ông đã đến Ai Cập và Babylon. Ở tuổi trưởng thành (tục truyền ở tuổi 40) ông chuyển đến ở tại thành phố Crontone ở miền Nam nước Ý, ở đó ông xây dựng một hội kín tuyệt mật những môn đồ đã tôn kính ông như một đấng tối cao ngay khi ông còn sống. Trong lĩnh vực toán học, Pythagore được coi là tác giả của việc đưa có hệ thống sự chứng minh vào hình học, việc xây dựng phép đo diện tích của những hình thẳng, xây dựng lý thuyết về đồng dạng, chứng minh định lý về các cạnh của một tam giác vuông (định lý mang tên ông-định lý Pythagore), xây dựng một số đa diện đều và đa giác đều. Tên tuổi của Pythagore còn gắn liền với những công trình nghiên cứu về các số chẵn và số lẻ, về số nguyên tố và hợp số, về các hình số và hoàn chỉnh, về các trung bình cộng và trung bình nhân."
       }
     ],
     "k": "pythagore o samos"
@@ -3054,8 +3054,8 @@
     "h": "pythian",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(cổ Hy Lạp) thuộc điện thờ ở Ðenphơ"},
-      {"k": "m", "t": "thuộc vị tiên tri ở điện thờ Ðenphơ"},
+      {"k": "m", "t": "(cổ Hy Lạp) thuộc điện thờ ở Đenphơ"},
+      {"k": "m", "t": "thuộc vị tiên tri ở điện thờ Đenphơ"},
       {"k": "m", "t": "thuộc đại hội thể thao tổ chức 4 năm một lần cho toàn Hy Lạp."}
     ],
     "ipa": "'piθiən",

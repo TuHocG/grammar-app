@@ -863,7 +863,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hàng hóa quốc dân. Hàng hóa cung cấp cho mọi đối tượng trong một nền kinh tế. Mức tiêu thụ hàng hóa quốc dân của một cá nhân không làm giảm số lượng cung cấp cho cá nhân khác tiêu thụ. Một ví dụ về hàng hóa quốc dân là quốc phòng. Người ta thường nói hàng hóa quốc dân sẽ không thiếu trên thị trường bởi vì việc tính toán tỷ số giữa chi phí và lợi nhuận đối với một cá nhân thường không kể đến khía cạnh quốc dân. Ðây thường là lý do biện hộ cho sự can thiệp của nhà nước vào một thị trường tự do."
+        "t": "hàng hóa quốc dân. Hàng hóa cung cấp cho mọi đối tượng trong một nền kinh tế. Mức tiêu thụ hàng hóa quốc dân của một cá nhân không làm giảm số lượng cung cấp cho cá nhân khác tiêu thụ. Một ví dụ về hàng hóa quốc dân là quốc phòng. Người ta thường nói hàng hóa quốc dân sẽ không thiếu trên thị trường bởi vì việc tính toán tỷ số giữa chi phí và lợi nhuận đối với một cá nhân thường không kể đến khía cạnh quốc dân. Đây thường là lý do biện hộ cho sự can thiệp của nhà nước vào một thị trường tự do."
       }
     ],
     "k": "public good"
@@ -1033,11 +1033,11 @@
       },
       {
         "k": "m",
-        "t": "Theo lệ trước, cả người gửi và người nhận đều có mã khóa và tin tưởng nhau. Ví dụ, trước khi rời cảng, thuyền trưởng tàu ngầm được trao cho một tài liệu giải mã các thông điệp từ cảng nhà. Ðó là mã hóa đối xứng (hai bên đều có cùng một khóa mật), thường gọi là mã hóa khóa riêng hay là mã hóa khóa mật. DES (Chuẩn mã hóa dữ liệu) là phương thức mã hóa khóa riêng phổ biến. Xem phần \"DES (Data Encryption Standard)\"."
+        "t": "Theo lệ trước, cả người gửi và người nhận đều có mã khóa và tin tưởng nhau. Ví dụ, trước khi rời cảng, thuyền trưởng tàu ngầm được trao cho một tài liệu giải mã các thông điệp từ cảng nhà. Đó là mã hóa đối xứng (hai bên đều có cùng một khóa mật), thường gọi là mã hóa khóa riêng hay là mã hóa khóa mật. DES (Chuẩn mã hóa dữ liệu) là phương thức mã hóa khóa riêng phổ biến. Xem phần \"DES (Data Encryption Standard)\"."
       },
       {
         "k": "m",
-        "t": "Nhưng không phải trong tất cả các trường hợp cả hai nhóm muốn trao đổi thông điệp đều tin tưởng nhau và trao đổi mã khóa trước. Ðể giải quyết vấn đề này, Whitfield Diffie và Martin Hellman thiết kế phương pháp mã hóa khóa công cộng không đối xứng vào giữa những năm 1970. Cơ bản là, ai muốn mã hóa và gửi thông điệp tới người khác cần phải tạo ra hai mã khóa. Một mã được giữ bí mật riêng và mã kia được phổ biến công cộng, giống như danh bạ điện thoại gồm số điện thoại của mọi người. Nếu có người muốn gửi thông điệp đến cho bạn, anh ta dùng mã khóa công cộng của bạn, mã hóa nó, và gửi tới bạn thông điệp đó. Chỉ có khóa riêng của bạn có thể giải mã, nếu có người ngăn chặn thông điệp thì không thể giải mã nó bằng khóa công cộng của bạn được."
+        "t": "Nhưng không phải trong tất cả các trường hợp cả hai nhóm muốn trao đổi thông điệp đều tin tưởng nhau và trao đổi mã khóa trước. Để giải quyết vấn đề này, Whitfield Diffie và Martin Hellman thiết kế phương pháp mã hóa khóa công cộng không đối xứng vào giữa những năm 1970. Cơ bản là, ai muốn mã hóa và gửi thông điệp tới người khác cần phải tạo ra hai mã khóa. Một mã được giữ bí mật riêng và mã kia được phổ biến công cộng, giống như danh bạ điện thoại gồm số điện thoại của mọi người. Nếu có người muốn gửi thông điệp đến cho bạn, anh ta dùng mã khóa công cộng của bạn, mã hóa nó, và gửi tới bạn thông điệp đó. Chỉ có khóa riêng của bạn có thể giải mã, nếu có người ngăn chặn thông điệp thì không thể giải mã nó bằng khóa công cộng của bạn được."
       },
       {
         "k": "m",
@@ -1062,7 +1062,7 @@
       {"k": "m", "t": "4. Sue nhận được thông điệp và giải mã bằng khóa riêng của cô ta."},
       {
         "k": "m",
-        "t": "Giải pháp mã hóa khóa công cộng giải quyết được vấn đề gửi mã khóa tới các nơi cần giải mã thông điệp. Thực sự, nó cho phép moị người mã hóa thông điệp và gửi tới người khác mà không cần sự thỏa thuận trước. Giải pháp này không thật sự cần thiết khi các bên biết nhau, là thành viên của cùng một tổ chức, hoặc trao đổi thông tin gì với người khác trước khi trao đổi thông điệp mật. Ðiều cần thiết là cả hai bên phải có cách thức trao đổi mã khóa công cộng."
+        "t": "Giải pháp mã hóa khóa công cộng giải quyết được vấn đề gửi mã khóa tới các nơi cần giải mã thông điệp. Thực sự, nó cho phép moị người mã hóa thông điệp và gửi tới người khác mà không cần sự thỏa thuận trước. Giải pháp này không thật sự cần thiết khi các bên biết nhau, là thành viên của cùng một tổ chức, hoặc trao đổi thông tin gì với người khác trước khi trao đổi thông điệp mật. Điều cần thiết là cả hai bên phải có cách thức trao đổi mã khóa công cộng."
       },
       {
         "k": "m",
@@ -1075,7 +1075,7 @@
       },
       {
         "k": "m",
-        "t": "Trong thực tế, mã hóa khóa công cộng được kết hợp với hệ thống mã hóa khóa riêng, như DES, để tạo ra các phong bì digital (digital envelope). Một gói digital đưa ra cách thức để mã hóa một khóa riêng trong một thông điệp nên bạn có thể gửi khóa với thông điệp cho người khác. Ðây là cách thức một gói digital được tạo ra:"
+        "t": "Trong thực tế, mã hóa khóa công cộng được kết hợp với hệ thống mã hóa khóa riêng, như DES, để tạo ra các phong bì digital (digital envelope). Một gói digital đưa ra cách thức để mã hóa một khóa riêng trong một thông điệp nên bạn có thể gửi khóa với thông điệp cho người khác. Đây là cách thức một gói digital được tạo ra:"
       },
       {
         "k": "m",
@@ -1095,7 +1095,7 @@
       },
       {
         "k": "m",
-        "t": "Một khía cạnh khác của khóa công cộng là khả năng kiểm lại một thông điệp. Nếu bạn là một nhân viên môi giới chứng khoán và bạn nhận được yêu cầu mua 1000 cổ phần của Microsoft, bạn cũng nên xác minh yêu cầu đó chắc chắn hay không và có phương pháp để chắc rằng người nhắn không chối bỏ yêu cầu khi chứng khoán hạ giá. Ðây là lúc xuất hiện chữ ký số (digital signature) và thời điểm digital (timestamp digital). Một người ký vào tài liệu bằng cách mã hóa toàn bộ hay một phần tài liệu bằng khóa riêng của anh ta, làm cho sự mã hóa thông điệp là độc nhất với người dùng. Vì khóa công cộng của người gửi là khóa duy nhất để mở tài liệu, người nhận sẽ chắc chắn rằng tài liệu là xác thực, chưa bị quấy nhiễu, và người gửi không thể nào thoái thác nó. Một thời điểm digital xác định thời gian lúc tài liệu được tạo ra. Chữ ký và thời điểm digital có tính quyết định trong kinh doanh qua hệ thống thông tin máy tính. Xem\"Digital Signatures\" để biết thêm chi tiết."
+        "t": "Một khía cạnh khác của khóa công cộng là khả năng kiểm lại một thông điệp. Nếu bạn là một nhân viên môi giới chứng khoán và bạn nhận được yêu cầu mua 1000 cổ phần của Microsoft, bạn cũng nên xác minh yêu cầu đó chắc chắn hay không và có phương pháp để chắc rằng người nhắn không chối bỏ yêu cầu khi chứng khoán hạ giá. Đây là lúc xuất hiện chữ ký số (digital signature) và thời điểm digital (timestamp digital). Một người ký vào tài liệu bằng cách mã hóa toàn bộ hay một phần tài liệu bằng khóa riêng của anh ta, làm cho sự mã hóa thông điệp là độc nhất với người dùng. Vì khóa công cộng của người gửi là khóa duy nhất để mở tài liệu, người nhận sẽ chắc chắn rằng tài liệu là xác thực, chưa bị quấy nhiễu, và người gửi không thể nào thoái thác nó. Một thời điểm digital xác định thời gian lúc tài liệu được tạo ra. Chữ ký và thời điểm digital có tính quyết định trong kinh doanh qua hệ thống thông tin máy tính. Xem\"Digital Signatures\" để biết thêm chi tiết."
       },
       {"k": "m", "t": "Hệ thống mã hóa khóa công cộng của RSA"},
       {
@@ -2014,7 +2014,7 @@
   {
     "h": "Public utility regulation",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðiều tiết ngành dịch vụ công cộng."},
+      {"k": "m", "t": "(kinh tế) Điều tiết ngành dịch vụ công cộng."},
       {
         "k": "m",
         "t": "Quy định của chính phủ về việc kiểm soát đối với các Dịch vụ công cộng có những yếu tố của sức mạnh độc quyền; mục đích nhừm hài hòa quản lý kinh doanh với lợi ích công cộng."
@@ -2549,7 +2549,7 @@
       {
         "k": "ex",
         "t": "This is a major research university and publish or perish is the order of the day:",
-        "vi": "Ðây là một viện đại học chính về nghiên cứu, và xuất bản sách báo hoặc bị đào thải một cái gì thông thường."
+        "vi": "Đây là một viện đại học chính về nghiên cứu, và xuất bản sách báo hoặc bị đào thải một cái gì thông thường."
       },
       {
         "k": "ex",
@@ -2816,13 +2816,13 @@
   },
   {
     "h": "pubosacral diameter",
-    "segs": [{"k": "m", "t": "Ðường kính trước sau eo trên."}],
+    "segs": [{"k": "m", "t": "Đường kính trước sau eo trên."}],
     "k": "pubosacral diameter"
   },
   {"h": "pubotibial", "segs": [{"k": "m", "t": "Xương mu-xương chày."}], "k": "pubotibial"},
   {
     "h": "pubotuberous diameter",
-    "segs": [{"k": "m", "t": "Ðường kính mu-ụ ngồi."}],
+    "segs": [{"k": "m", "t": "Đường kính mu-ụ ngồi."}],
     "k": "pubotuberous diameter"
   },
   {"h": "pubovaginal muscle", "segs": [{"k": "m", "t": "Cơ mu-âm đạo."}], "k": "pubovaginal muscle"},
@@ -3345,7 +3345,7 @@
     "ipa": "'pju:dendə",
     "k": "pudenda"
   },
-  {"h": "pudendagra", "segs": [{"k": "m", "t": "Ðau bộ phận sinh dục (nữ)."}], "k": "pudendagra"},
+  {"h": "pudendagra", "segs": [{"k": "m", "t": "Đau bộ phận sinh dục (nữ)."}], "k": "pudendagra"},
   {
     "h": "pudendal",
     "segs": [{"k": "ref", "t": "pudendum"}],
@@ -4013,7 +4013,7 @@
       {"k": "m", "t": "puggaree"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "khăn quàng đầu"},
-      {"k": "m", "t": "khăn che gáy (ở Ấn Ðộ)."}
+      {"k": "m", "t": "khăn che gáy (ở Ấn Độ)."}
     ],
     "ipa": "'pʌgri",
     "k": "puggree"
@@ -4845,7 +4845,7 @@
       {
         "k": "ex",
         "t": "Don't believe him. He's just pulling your leg:",
-        "vi": "Ðừng tin anh ta. Anh ta chỉ đang lừa dối cô thôi."
+        "vi": "Đừng tin anh ta. Anh ta chỉ đang lừa dối cô thôi."
       }
     ],
     "k": "pull someone's leg"
@@ -4885,7 +4885,7 @@
   {
     "h": "pull strings",
     "segs": [
-      {"k": "m", "t": "dùng ảnh hưởng ảnh (Ðối với ai đó để làm xong việc gì đó.)"},
+      {"k": "m", "t": "dùng ảnh hưởng ảnh (Đối với ai đó để làm xong việc gì đó.)"},
       {
         "k": "ex",
         "t": "I can get it done easily by pulling strings:",
@@ -4972,7 +4972,7 @@
       {
         "k": "ex",
         "t": "I've been here long enough. It's time to pull up stakes:",
-        "vi": "Tôi ở đây đủ lâu rồi. Ðã đến lúc dọn đi nơi khác."
+        "vi": "Tôi ở đây đủ lâu rồi. Đã đến lúc dọn đi nơi khác."
       },
       {
         "k": "ex",
@@ -5553,7 +5553,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1894) Một cuộc tranh chấp lao động Mỹ, bắt đầu khi Công ty xe lửa hạng sang Pullman ở Chicago sa thải bớt nhân công và cắt giảm tiền lương của những người còn lại, với lý do là tình trạng trì trệ của nền kinh tế, và từ chối thảo luận về sự bất bình của người lao động. Liên đoàn công nhân đường sắt Mỹ, dẫn đầu là Eugene V. Debs lập tức hành động. Cuộc đình công đe dọa làm tê liệt hệ thống đường sắt trừ khi Pullman phân xử lại. Thủ tướng đương nhiệm Cleveland đứng về phía công ty, và tòa án tuần tra liên bang tại Chicago ban hành lệnh tuyên bố cuộc đình công là bất hợp pháp. Bạo loạn và đổ máu xảy ra ngay sau đó, và Debs bị tống giam năm 1895. Lệnh của tòa án cũng lạm dụng ngược đãi, cho đến khi bị sửa đổi bởi Ðạo luật chống lệnh tòa án Norris-La Guardia năm 1932."
+        "t": "(1894) Một cuộc tranh chấp lao động Mỹ, bắt đầu khi Công ty xe lửa hạng sang Pullman ở Chicago sa thải bớt nhân công và cắt giảm tiền lương của những người còn lại, với lý do là tình trạng trì trệ của nền kinh tế, và từ chối thảo luận về sự bất bình của người lao động. Liên đoàn công nhân đường sắt Mỹ, dẫn đầu là Eugene V. Debs lập tức hành động. Cuộc đình công đe dọa làm tê liệt hệ thống đường sắt trừ khi Pullman phân xử lại. Thủ tướng đương nhiệm Cleveland đứng về phía công ty, và tòa án tuần tra liên bang tại Chicago ban hành lệnh tuyên bố cuộc đình công là bất hợp pháp. Bạo loạn và đổ máu xảy ra ngay sau đó, và Debs bị tống giam năm 1895. Lệnh của tòa án cũng lạm dụng ngược đãi, cho đến khi bị sửa đổi bởi Đạo luật chống lệnh tòa án Norris-La Guardia năm 1932."
       }
     ],
     "k": "pullman strike"
@@ -7197,7 +7197,7 @@
   },
   {
     "h": "pulse-Doppler radar",
-    "segs": [{"k": "m", "t": "ra-đa xung Ðốp-lơ."}],
+    "segs": [{"k": "m", "t": "ra-đa xung Đốp-lơ."}],
     "k": "pulse-doppler radar"
   },
   {
@@ -9132,7 +9132,7 @@
   },
   {
     "h": "pumper",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "bánh lúa mạch đen (Ðức)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "bánh lúa mạch đen (Đức)."}],
     "ipa": "'pʌmpə",
     "k": "pumper"
   },
@@ -9141,7 +9141,7 @@
     "h": "pumpernickel",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "bánh làm bằng bột lúa mạch đen chưa rây (nhất là của Ðức)."}
+      {"k": "m", "t": "bánh làm bằng bột lúa mạch đen chưa rây (nhất là của Đức)."}
     ],
     "ipa": "'pʌmpənikl",
     "k": "pumpernickel"
@@ -10223,8 +10223,8 @@
     "ipa": "'pʌŋktə",
     "k": "puncta"
   },
-  {"h": "puncta dolorosa", "segs": [{"k": "m", "t": "Ðiểm đau."}], "k": "puncta dolorosa"},
-  {"h": "puncta lacrimalia", "segs": [{"k": "m", "t": "Ðiểm lệ."}], "k": "puncta lacrimalia"},
+  {"h": "puncta dolorosa", "segs": [{"k": "m", "t": "Điểm đau."}], "k": "puncta dolorosa"},
+  {"h": "puncta lacrimalia", "segs": [{"k": "m", "t": "Điểm lệ."}], "k": "puncta lacrimalia"},
   {
     "h": "punctate",
     "segs": [
@@ -10237,7 +10237,7 @@
   },
   {
     "h": "punctate cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh chấm."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh chấm."}],
     "k": "punctate cataract"
   },
   {
@@ -10572,20 +10572,20 @@
     "ipa": "'pʌŋktəm",
     "k": "punctum"
   },
-  {"h": "punctum caecum", "segs": [{"k": "m", "t": "Ðiểm mù."}], "k": "punctum caecum"},
-  {"h": "punctum luteum", "segs": [{"k": "m", "t": "Ðiểm vàng."}], "k": "punctum luteum"},
+  {"h": "punctum caecum", "segs": [{"k": "m", "t": "Điểm mù."}], "k": "punctum caecum"},
+  {"h": "punctum luteum", "segs": [{"k": "m", "t": "Điểm vàng."}], "k": "punctum luteum"},
   {"h": "punctum male", "segs": [{"k": "m", "t": "điểm lệ."}], "k": "punctum male"},
   {
     "h": "punctum ossificationis",
-    "segs": [{"k": "m", "t": "Ðiểm cốt hóa."}],
+    "segs": [{"k": "m", "t": "Điểm cốt hóa."}],
     "k": "punctum ossificationis"
   },
   {
     "h": "punctum proximum",
-    "segs": [{"k": "m", "t": "Ðiểm gần, cận điểm."}],
+    "segs": [{"k": "m", "t": "Điểm gần, cận điểm."}],
     "k": "punctum proximum"
   },
-  {"h": "punctum remotum", "segs": [{"k": "m", "t": "Ðiểm xa, viễn điểm."}], "k": "punctum remotum"},
+  {"h": "punctum remotum", "segs": [{"k": "m", "t": "Điểm xa, viễn điểm."}], "k": "punctum remotum"},
   {"h": "punctura", "segs": [{"k": "m", "t": "Chọc."}], "k": "punctura"},
   {
     "h": "punctura exploratoria",
@@ -10633,7 +10633,7 @@
   },
   {
     "h": "puncture diabetes",
-    "segs": [{"k": "m", "t": "Ðái tháo chọc sàn não thất."}],
+    "segs": [{"k": "m", "t": "Đái tháo chọc sàn não thất."}],
     "k": "puncture diabetes"
   },
   {"h": "puncture fluid", "segs": [{"k": "m", "t": "Dịch chọc (ra)."}], "k": "puncture fluid"},
@@ -10739,7 +10739,7 @@
       {"k": "m", "t": "Hoặc:"},
       {"k": "m", "t": "pandit"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "nhà học giả Hin-đu (Ấn Ðộ)"},
+      {"k": "m", "t": "nhà học giả Hin-đu (Ấn Độ)"},
       {"k": "m", "t": "(đùa cợt) nhà học giả, chuyên gia"},
       {"k": "m", "t": "(Mỹ) nhà học giả uyên thâm"},
       {"k": "m", "t": "nhà phê bình, nhà bình luận (đạo mạo và am hiểu)."}
@@ -10819,7 +10819,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ba cuộc chiến tranh diễn ra ở thế kỷ thứ 3 và thứ 2 trước công nguyên giữa La Mã và Carthage, tên gọi xuất phát từ Poenicus (\"người da đen\" hay \"người Phoenici\"), từ được sử dụng để miêu tả những người sáng lập thành phố Bắc Africa. Carthage và La Mã đánh nhau để giành quyền kiểm soát Ðịa Trung Hải và La Mã luôn giành chiến thắng trong mỗi trận đấu."
+        "t": "Ba cuộc chiến tranh diễn ra ở thế kỷ thứ 3 và thứ 2 trước công nguyên giữa La Mã và Carthage, tên gọi xuất phát từ Poenicus (\"người da đen\" hay \"người Phoenici\"), từ được sử dụng để miêu tả những người sáng lập thành phố Bắc Africa. Carthage và La Mã đánh nhau để giành quyền kiểm soát Địa Trung Hải và La Mã luôn giành chiến thắng trong mỗi trận đấu."
       },
       {
         "k": "m",
@@ -11614,7 +11614,7 @@
     "ipa": "'pju:pilaiz",
     "k": "pupilizeise"
   },
-  {"h": "pupilla", "segs": [{"k": "m", "t": "Ðồng tử."}], "k": "pupilla"},
+  {"h": "pupilla", "segs": [{"k": "m", "t": "Đồng tử."}], "k": "pupilla"},
   {
     "h": "pupillage",
     "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "pupilage như pupilage", "vi": "."}],
@@ -11664,7 +11664,7 @@
     "ipa": "'pju:plaiz",
     "k": "pupillize"
   },
-  {"h": "pupillometer", "segs": [{"k": "m", "t": "Ðồng tử kế."}], "k": "pupillometer"},
+  {"h": "pupillometer", "segs": [{"k": "m", "t": "Đồng tử kế."}], "k": "pupillometer"},
   {"h": "pupillometry", "segs": [{"k": "m", "t": "(phép) đo đồng tử."}], "k": "pupillometry"},
   {"h": "pupillomotor", "segs": [{"k": "m", "t": "(thuộc) vận đồng tử."}], "k": "pupillomotor"},
   {"h": "pupilloplegia", "segs": [{"k": "m", "t": "Liệt đồng tử."}], "k": "pupilloplegia"},
@@ -11680,7 +11680,7 @@
   },
   {
     "h": "pupillotonia",
-    "segs": [{"k": "m", "t": "Ðồng tử loạn trương lực cơ."}],
+    "segs": [{"k": "m", "t": "Đồng tử loạn trương lực cơ."}],
     "k": "pupillotonia"
   },
   {
@@ -11961,7 +11961,7 @@
   },
   {
     "h": "purana",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chuyện cổ tích Ấn Ðộ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chuyện cổ tích Ấn Độ."}],
     "ipa": "pu'ra:nə",
     "k": "purana"
   },
@@ -12638,7 +12638,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tục che mạng (của đàn bà đạo Hồi và đạo Ấn)"},
-      {"k": "m", "t": "chế độ cấm cung (đàn bà Ấn Ðộ)"},
+      {"k": "m", "t": "chế độ cấm cung (đàn bà Ấn Độ)"},
       {"k": "m", "t": "vải kẻ làm màn che."}
     ],
     "ipa": "'pə:də",
@@ -13142,7 +13142,7 @@
   {"h": "pure jelly", "segs": [{"k": "m", "t": "sự đông tinh khiết."}], "k": "pure jelly"},
   {
     "h": "Pure Land",
-    "segs": [{"k": "m", "t": "cõi Tịnh Ðộ (Tây Phương cực lạc)."}],
+    "segs": [{"k": "m", "t": "cõi Tịnh Độ (Tây Phương cực lạc)."}],
     "k": "pure land"
   },
   {
@@ -13156,7 +13156,7 @@
     ],
     "k": "pure land buddhism"
   },
-  {"h": "Pure Land school", "segs": [{"k": "m", "t": "tịnh Ðộ Tông."}], "k": "pure land school"},
+  {"h": "Pure Land school", "segs": [{"k": "m", "t": "tịnh Độ Tông."}], "k": "pure land school"},
   {
     "h": "pure lime",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "vôi nguyên chất"}],
@@ -13515,7 +13515,7 @@
   {"h": "purgative enema", "segs": [{"k": "m", "t": "Thụt tháo."}], "k": "purgative enema"},
   {
     "h": "Purgative way",
-    "segs": [{"k": "m", "t": "Ðường thanh luyện, luyện đạo."}],
+    "segs": [{"k": "m", "t": "Đường thanh luyện, luyện đạo."}],
     "k": "purgative way"
   },
   {
@@ -13550,7 +13550,7 @@
         "k": "m",
         "t": "nơi chuộc tội, nơi luyện ngục, nơi ăn năn hối lỗi (của những linh hồn chết để được lên Thiên đường"
       },
-      {"k": "m", "t": "trong lời giáo huấn của Cơ Ðốc giáo La Mã)"},
+      {"k": "m", "t": "trong lời giáo huấn của Cơ Đốc giáo La Mã)"},
       {"k": "m", "t": "nơi đau khổ, hoàn cảnh đau khổ."}
     ],
     "ipa": "'pə:gətri",
@@ -13708,7 +13708,7 @@
       {"k": "m", "t": "sự làm sạch, sự lọc trong, sự tinh chế"},
       {"k": "m", "t": "sự rửa tội"},
       {"k": "m", "t": "(tôn giáo) lễ tẩy uế (đàn bà sau khi đẻ)"},
-      {"k": "ex", "t": "The Purification of the Virgin Mary", "vi": "lễ tẩy uế của Ðức mẹ Maria."}
+      {"k": "ex", "t": "The Purification of the Virgin Mary", "vi": "lễ tẩy uế của Đức mẹ Maria."}
     ],
     "ipa": ",pjuərifi'keiʃn",
     "k": "purification"
@@ -14030,7 +14030,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Các tín đồ đạo Tin lành cực đoan thuộc Anh. Họ bất mãn với quyền thống trị của Giáo hội Anh và theo đuổi sự thanh lọc sâu hơn của Giáo hội Anh từ các nhân tố Thiên Chúa giáo La Mã. Thuyết thần học của họ về cơ bản là của John Calvin. Ðầu tiên họ giới hạn bản thân công kích những thông lệ của \"popish\" (Thiên Chúa giáo La Mã) như trang hoàng nhà thờ, áo lễ phục, và nhạc organ, nhưng từ năm 1570 những người cực đoan tấn công vào hệ thống quyền lực (chế độ giám mục nhà thờ) của chính phủ và giám mục, đặc biệt là trong những đoạn kinh Martin Marprelate. Tuy nhiên, vua James I phản đối những cố gắng của họ nhằm thay đổi giáo lý, nghi lễ và tổ chức của giáo phái Anh, như họ đã phát biểu trong Hội nghị Hampton Court. Trong thập niên 1620 một số tín đồ Puritan di cư đến Bắc Mỹ, nhưng chính các chính sách của vua William Laud và Charles I trong thập niên 1630 đã làm sống lại các phong trào đối lập của Puritan từ thập niên 1580. Học thuyết thiên định (cho rằng Chúa phong chức cho những người nhận được sự cứu rỗi) trở thành nguồn chính trong các cuộc tranh cãi giữa tín đồ Puritan, cho rằng đó chính là một đức tin cơ bản, và tín đồ Arminius chối bỏ điều này. Tôn giáo là một nhân tố then chốt trong việc bùng nổ cuộc nội chiến năm 1642. Thanh giáo (Puritanism) rất mạnh trong số những đội quân của Quân đội kiểu mẫu mới và trong những thập niên 1640 và 1650, với sự khích lệ của Cromwell, nhiều mục tiêu của Thanh giáo đã được thực hiện. Sau Thời kỳ khôi phục chế độ quân chủ, tín đồ Thanh giáo gần như bị hút vào Giáo hội Anh hoặc vào những nhóm ly khai lớn hơn và mất dần nét đặc trưng riêng. Thuật ngữ \"Puritan\" nay được sử dụng để chỉ nhiều nhóm và quan điểm."
+        "t": "Các tín đồ đạo Tin lành cực đoan thuộc Anh. Họ bất mãn với quyền thống trị của Giáo hội Anh và theo đuổi sự thanh lọc sâu hơn của Giáo hội Anh từ các nhân tố Thiên Chúa giáo La Mã. Thuyết thần học của họ về cơ bản là của John Calvin. Đầu tiên họ giới hạn bản thân công kích những thông lệ của \"popish\" (Thiên Chúa giáo La Mã) như trang hoàng nhà thờ, áo lễ phục, và nhạc organ, nhưng từ năm 1570 những người cực đoan tấn công vào hệ thống quyền lực (chế độ giám mục nhà thờ) của chính phủ và giám mục, đặc biệt là trong những đoạn kinh Martin Marprelate. Tuy nhiên, vua James I phản đối những cố gắng của họ nhằm thay đổi giáo lý, nghi lễ và tổ chức của giáo phái Anh, như họ đã phát biểu trong Hội nghị Hampton Court. Trong thập niên 1620 một số tín đồ Puritan di cư đến Bắc Mỹ, nhưng chính các chính sách của vua William Laud và Charles I trong thập niên 1630 đã làm sống lại các phong trào đối lập của Puritan từ thập niên 1580. Học thuyết thiên định (cho rằng Chúa phong chức cho những người nhận được sự cứu rỗi) trở thành nguồn chính trong các cuộc tranh cãi giữa tín đồ Puritan, cho rằng đó chính là một đức tin cơ bản, và tín đồ Arminius chối bỏ điều này. Tôn giáo là một nhân tố then chốt trong việc bùng nổ cuộc nội chiến năm 1642. Thanh giáo (Puritanism) rất mạnh trong số những đội quân của Quân đội kiểu mẫu mới và trong những thập niên 1640 và 1650, với sự khích lệ của Cromwell, nhiều mục tiêu của Thanh giáo đã được thực hiện. Sau Thời kỳ khôi phục chế độ quân chủ, tín đồ Thanh giáo gần như bị hút vào Giáo hội Anh hoặc vào những nhóm ly khai lớn hơn và mất dần nét đặc trưng riêng. Thuật ngữ \"Puritan\" nay được sử dụng để chỉ nhiều nhóm và quan điểm."
       }
     ],
     "k": "puritans"
@@ -14771,7 +14771,7 @@
   },
   {
     "h": "purree",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thuốc màu vàng (Ấn Ðộ, Trung Quốc)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thuốc màu vàng (Ấn Độ, Trung Quốc)."}],
     "ipa": "'pʌri:",
     "k": "purree"
   },
@@ -17415,7 +17415,7 @@
         "t": "My uncle died last week. They put him away on Saturday:",
         "vi": "Chú tôi mất tuần trước người ta đã mai táng ông hôm thứ bảy."
       },
-      {"k": "m", "t": "3. Ðem ai đó vào viện tâm thần."},
+      {"k": "m", "t": "3. Đem ai đó vào viện tâm thần."},
       {
         "k": "ex",
         "t": "My uncle became irrational, and they put him away:",
@@ -17438,7 +17438,7 @@
         "t": "Oh, you're not serious. You're putting me on:",
         "vi": "Ồ, anh không nghiêm túc. Anh đang trêu chọc tôi thôi."
       },
-      {"k": "ex", "t": "Stop putting me on!:", "vi": "Thôi! Ðừng đánh lừa tôi nữa!"}
+      {"k": "ex", "t": "Stop putting me on!:", "vi": "Thôi! Đừng đánh lừa tôi nữa!"}
     ],
     "k": "put someone on"
   },
@@ -17469,7 +17469,7 @@
       {
         "k": "ex",
         "t": "Toward the end of the meeting, Sally put an idea forward:",
-        "vi": "Ðến cuối cuộc họp, Sally đưa ra một ý tưởng."
+        "vi": "Đến cuối cuộc họp, Sally đưa ra một ý tưởng."
       },
       {
         "k": "ex",
@@ -17511,12 +17511,12 @@
       {
         "k": "ex",
         "t": "This is a very hard thing to explain to a large audience. I hope I can put it over:",
-        "vi": "Ðây là một vấn đề rất khó giải thích cho một cử tọa đông như thế này. Tôi hy vọng tôi có thể hoàn thành được việc này."
+        "vi": "Đây là một vấn đề rất khó giải thích cho một cử tọa đông như thế này. Tôi hy vọng tôi có thể hoàn thành được việc này."
       },
       {
         "k": "ex",
         "t": "This is a big request for money. I go before the board of directors this afternoon, and I hope I can put it over:",
-        "vi": "Ðây là một yêu cầu lớn về tiền bạc. Chiều nay tôi sẽ ra trước hội đồng quản trị và hy vọng tôi có thể thuyết phục họ chấp nhận yêu cầu này."
+        "vi": "Đây là một yêu cầu lớn về tiền bạc. Chiều nay tôi sẽ ra trước hội đồng quản trị và hy vọng tôi có thể thuyết phục họ chấp nhận yêu cầu này."
       }
     ],
     "k": "put something over"
@@ -17560,7 +17560,7 @@
       {
         "k": "ex",
         "t": "I'm sorry I confused you. Let me set it straight:",
-        "vi": "Xin lỗi tôi đã làm anh bối rối. Ðể tôi giải quyết việc đó cho."
+        "vi": "Xin lỗi tôi đã làm anh bối rối. Để tôi giải quyết việc đó cho."
       }
     ],
     "k": "put something straight"
@@ -17619,7 +17619,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "gặp rắc rối hoặc khó khăn; cạn túi (Ðối với cái gì như là tiền bạc). (tiếng lóng.)"
+        "t": "gặp rắc rối hoặc khó khăn; cạn túi (Đối với cái gì như là tiền bạc). (tiếng lóng.)"
       },
       {
         "k": "ex",
@@ -18184,7 +18184,7 @@
     ],
     "k": "putrilaginously"
   },
-  {"h": "putromaine", "segs": [{"k": "m", "t": "Ðộc tố thịt ôi."}], "k": "putromaine"},
+  {"h": "putromaine", "segs": [{"k": "m", "t": "Độc tố thịt ôi."}], "k": "putromaine"},
   {
     "h": "putsch",
     "segs": [

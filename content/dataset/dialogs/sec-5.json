@@ -49,7 +49,7 @@
         "a": "Which ticket do you want to buy?",
         "b": "Two return tickets to London, please.",
         "avi": "Bạn muốn mua loại vé nào?",
-        "bvi": "Xin bán cho 2 vé khứ hồi đến Luân Ðôn."
+        "bvi": "Xin bán cho 2 vé khứ hồi đến Luân Đôn."
       },
       {
         "a": "I just back from my trip to Europe.",
@@ -73,7 +73,7 @@
         "a": "You think you know this village?",
         "b": "Here is another photograph of the village.",
         "avi": "Bạn nghĩ cậu biết ngôi làng này sao?",
-        "bvi": "Ðây là một bức tranh khác của ngôi làng."
+        "bvi": "Đây là một bức tranh khác của ngôi làng."
       },
       {
         "a": "They are nearly recovered.",
@@ -139,7 +139,7 @@
         "a": "Is she lost?",
         "b": "She does not know London very well.",
         "avi": "Cô ấy bị lạc đường à?",
-        "bvi": "Cô ta không rành Luân Ðôn lắm."
+        "bvi": "Cô ta không rành Luân Đôn lắm."
       },
       {
         "a": "What do they do?",
@@ -235,7 +235,7 @@
         "a": "Does he have any plan for next week?",
         "b": "He'll return to London the week after next.",
         "avi": "Anh ấy có kế hoạch gì vào tuần sau không?",
-        "bvi": "Anh ta sẽ trở lại Luân Ðôn vào tuần sau."
+        "bvi": "Anh ta sẽ trở lại Luân Đôn vào tuần sau."
       }
     ]
   },
@@ -379,7 +379,7 @@
         "a": "Where is your homeland?",
         "b": "This is a photograph of our village.",
         "avi": "Quê bạn ở đâu?",
-        "bvi": "Ðây là bức ảnh ngôi làng của chúng tôi."
+        "bvi": "Đây là bức ảnh ngôi làng của chúng tôi."
       },
       {
         "a": "Which hotel will you check in?",
@@ -403,7 +403,7 @@
         "a": "What do you like best about our country?",
         "b": "How peaceful and beautiful the country is!",
         "avi": "Bạn thích nhất điều gì về đất nước chúng tôi?",
-        "bvi": "Ðất nước này hòa bình và đẹp biết bao!"
+        "bvi": "Đất nước này hòa bình và đẹp biết bao!"
       },
       {
         "a": "When will you come back?",
@@ -528,7 +528,7 @@
       {
         "a": "Are we nearly there yet?",
         "b": "We just caught the plane.",
-        "avi": "Ðã gần tới chưa?",
+        "avi": "Đã gần tới chưa?",
         "bvi": "Chúng tôi vừa kịp chuyến bay."
       },
       {
@@ -547,7 +547,7 @@
         "a": "Have you been here before?",
         "b": "This is a wonderful place for a picnic.",
         "avi": "Trước đây bạn từng đến đây chưa?",
-        "bvi": "Ðây là chỗ rất tuyệt để dã ngoại."
+        "bvi": "Đây là chỗ rất tuyệt để dã ngoại."
       },
       {
         "a": "Given the chance, I'd come and see you.",
@@ -577,7 +577,7 @@
         "a": "Do you have any plans for this weekend?",
         "b": "I'm flying to London next week.",
         "avi": "Bạn có dự định gì cho cuối tuần này chưa?",
-        "bvi": "Tôi sẽ bay đến Luân Ðôn vào tuần tới."
+        "bvi": "Tôi sẽ bay đến Luân Đôn vào tuần tới."
       },
       {
         "a": "What did they do after dinner?",
@@ -589,7 +589,7 @@
         "a": "Are you there yet?",
         "b": "We arrived in London this afternoon.",
         "avi": "Các bạn đến nơi chưa?",
-        "bvi": "Chúng tôi đến Luân Ðôn trưa nay."
+        "bvi": "Chúng tôi đến Luân Đôn trưa nay."
       },
       {
         "a": "What did you do there?",
@@ -685,7 +685,7 @@
         "a": "Why aren't you at the meeting?",
         "b": "We get to London this afternoon.",
         "avi": "Vì sao các bạn không đến họp?",
-        "bvi": "Chúng tôi đến Luân Ðôn chiều nay."
+        "bvi": "Chúng tôi đến Luân Đôn chiều nay."
       }
     ]
   },
@@ -775,7 +775,7 @@
         "a": "The boat was long at sea.",
         "b": "The ocean is so big.",
         "avi": "Con thuyền đã lênh đênh trên biển.",
-        "bvi": "Ðại dương thật to lớn."
+        "bvi": "Đại dương thật to lớn."
       }
     ]
   },
@@ -786,7 +786,7 @@
       {
         "a": "The ocean is so big.",
         "b": "You can't see the end of it.",
-        "avi": "Ðại dương thật to lớn.",
+        "avi": "Đại dương thật to lớn.",
         "bvi": "Bạn không thể nhìn thấy đầu bên kia của nó."
       },
       {
@@ -822,14 +822,14 @@
       {
         "a": "Eight kilometres already.",
         "b": "Where are we going?",
-        "avi": "Ðã đi được 8 km rồi.",
+        "avi": "Đã đi được 8 km rồi.",
         "bvi": "Chúng ta đang đi đâu?"
       },
       {
         "a": "Where are we going?",
         "b": "Into the mountains.",
         "avi": "Chúng ta đang đi đâu?",
-        "bvi": "Ðến các ngọn núi."
+        "bvi": "Đến các ngọn núi."
       },
       {
         "a": "You're one kilometre far from it.",
@@ -967,7 +967,7 @@
         "a": "Clean your room.",
         "b": "This is a nice room.",
         "avi": "Quét dọn phòng của bạn đi.",
-        "bvi": "Ðây là một căn phòng đẹp."
+        "bvi": "Đây là một căn phòng đẹp."
       },
       {
         "a": "I'm going to fix it.",
@@ -1033,12 +1033,12 @@
         "a": "Must you leave so soon?",
         "b": "I need to fly to Da Lat.",
         "avi": "Anh phải đi sớm như vậy sao?",
-        "bvi": "Tôi cần bay đến Ðà Lạt."
+        "bvi": "Tôi cần bay đến Đà Lạt."
       },
       {
         "a": "I need to fly to Da Lat.",
         "b": "When are you going?",
-        "avi": "Tôi cần bay đến Ðà Lạt.",
+        "avi": "Tôi cần bay đến Đà Lạt.",
         "bvi": "Khi nào bạn đi?"
       },
       {
@@ -1086,7 +1086,7 @@
       {
         "a": "Can I get a ticket to Da Lat here?",
         "b": "Seats are selling out right now.",
-        "avi": "Tôi có thể mua vé đi Ðà Lạt ở đây không?",
+        "avi": "Tôi có thể mua vé đi Đà Lạt ở đây không?",
         "bvi": "Chỗ ngồi đang được bán ra ngay bây giờ."
       },
       {
@@ -1177,12 +1177,12 @@
         "a": "I want to cruise to Hawaii.",
         "b": "That should be a nice trip.",
         "avi": "Tôi muốn đi đến Hawaii.",
-        "bvi": "Ðó sẽ là một chuyến đi thú vị."
+        "bvi": "Đó sẽ là một chuyến đi thú vị."
       },
       {
         "a": "That should be a nice trip.",
         "b": "Lots of fun, and lots of food.",
-        "avi": "Ðó sẽ là một chuyến đi thú vị.",
+        "avi": "Đó sẽ là một chuyến đi thú vị.",
         "bvi": "Vui lắm và nhiều thức ăn lắm."
       },
       {
@@ -1194,7 +1194,7 @@
       {
         "a": "How do you like travelling by air?",
         "b": "I hate to fly.",
-        "avi": "Ði máy bay bạn thấy thế nào?",
+        "avi": "Đi máy bay bạn thấy thế nào?",
         "bvi": "Tôi ghét đi máy bay."
       }
     ]
@@ -1266,7 +1266,7 @@
       {
         "a": "This is all so shocking.",
         "b": "I still remember how amazing it was.",
-        "avi": "Ðiều này thật là bất ngờ.",
+        "avi": "Điều này thật là bất ngờ.",
         "bvi": "Tôi vẫn còn nhớ cảm giác ngạc nhiên khi ấy."
       },
       {
@@ -1297,7 +1297,7 @@
         "a": "But I think you should shop around first.",
         "b": "Don't worry.",
         "avi": "Nhưng tôi nghĩ bạn nên đi khảo giá trước đã.",
-        "bvi": "Ðừng lo."
+        "bvi": "Đừng lo."
       },
       {
         "a": "See you at the B Hotel.",
@@ -1387,18 +1387,18 @@
         "a": "There are many historic sites here.",
         "b": "This is a fantastic sight.",
         "avi": "Ở đây có nhiều địa danh nổi tiếng trong lịch sử.",
-        "bvi": "Ðây là một phong cảnh tuyệt vời."
+        "bvi": "Đây là một phong cảnh tuyệt vời."
       },
       {
         "a": "I have been there so many times.",
         "b": "I've been to Da Lat.",
         "avi": "Tôi đã đến đó nhiều lần.",
-        "bvi": "Tôi đã ở Ðà Lạt."
+        "bvi": "Tôi đã ở Đà Lạt."
       },
       {
         "a": "I've been to Da Lat.",
         "b": "Did you enjoy the trip?",
-        "avi": "Tôi đã ở Ðà Lạt.",
+        "avi": "Tôi đã ở Đà Lạt.",
         "bvi": "Cuộc đi chơi có vui không?"
       },
       {
@@ -1416,7 +1416,7 @@
       {
         "a": "I hear the weather's nice in Da lat.",
         "b": "It was extremely cold.",
-        "avi": "Tôi nghe nói thời tiết ở Ðà Lạt đẹp lắm.",
+        "avi": "Tôi nghe nói thời tiết ở Đà Lạt đẹp lắm.",
         "bvi": "Trời lạnh kinh khủng."
       },
       {
@@ -1453,19 +1453,19 @@
         "a": "I wouldn't worry about it, if I were you.",
         "b": "That's a very good idea indeed.",
         "avi": "Nếu tôi là anh, tôi sẽ không lo lắng về nó.",
-        "bvi": "Ðó là một ý kiến rất hay."
+        "bvi": "Đó là một ý kiến rất hay."
       },
       {
         "a": "That's a very good idea indeed.",
         "b": "I'm looking forward to next winter vacation.",
-        "avi": "Ðó là một ý kiến rất hay.",
+        "avi": "Đó là một ý kiến rất hay.",
         "bvi": "Tôi đang trông chờ kỳ nghỉ đông."
       },
       {
         "a": "What would you know about it?",
         "b": "And the temple very famous in China.",
         "avi": "Cô biết gì về nó?",
-        "bvi": "Ðây là một ngôi đền rất nổi tiếng ở Trung Quốc."
+        "bvi": "Đây là một ngôi đền rất nổi tiếng ở Trung Quốc."
       }
     ]
   },
@@ -1477,7 +1477,7 @@
         "a": "Have you never come down here?",
         "b": "This is my first visit to Da Lat.",
         "avi": "Anh chưa bao giờ đến đây à?",
-        "bvi": "Ðây là lần viếng thăm Ðà Lạt đầu tiên của tôi."
+        "bvi": "Đây là lần viếng thăm Đà Lạt đầu tiên của tôi."
       },
       {
         "a": "Would you like me to show you around?",
@@ -1519,12 +1519,12 @@
         "a": "It's antique and modern at the same time.",
         "b": "Where is the entrance?",
         "avi": "Nó vừa cổ kính, vừa hiện đại.",
-        "bvi": "Ðâu là lối vào?"
+        "bvi": "Đâu là lối vào?"
       },
       {
         "a": "It is one of the oldest markets in singapore.",
         "b": "May I go in?",
-        "avi": "Ðây là một trong những ngôi chợ xưa nhất ở singapore.",
+        "avi": "Đây là một trong những ngôi chợ xưa nhất ở singapore.",
         "bvi": "Tôi có thể vào không?"
       }
     ]
@@ -1579,12 +1579,12 @@
         "a": "This city is very big indeed.",
         "b": "I should like to visit Thu Duc.",
         "avi": "Thành phố này rộng lớn thật.",
-        "bvi": "Tôi muốn đi thăm Thủ Ðức."
+        "bvi": "Tôi muốn đi thăm Thủ Đức."
       },
       {
         "a": "I should like to visit Thu Duc.",
         "b": "Is it very far?",
-        "avi": "Tôi muốn đi thăm Thủ Ðức.",
+        "avi": "Tôi muốn đi thăm Thủ Đức.",
         "bvi": "Có xa lắm không?"
       }
     ]
@@ -1597,7 +1597,7 @@
         "a": "There are so many delicious dishes to choose from.",
         "b": "What's the special product here?",
         "avi": "Có rất nhiều món ăn ngon để chọn.",
-        "bvi": "Ðặc sản ở đây là gì?"
+        "bvi": "Đặc sản ở đây là gì?"
       },
       {
         "a": "There are too many places to go to.",
@@ -1722,7 +1722,7 @@
       {
         "a": "This is a public toilet.",
         "b": "Which is the men's side?",
-        "avi": "Ðây là nhà vệ sinh công cộng.",
+        "avi": "Đây là nhà vệ sinh công cộng.",
         "bvi": "Nam giới bên nào?"
       },
       {
@@ -1807,12 +1807,12 @@
         "a": "Excuse me, where am I?",
         "b": "Here's the zoo.",
         "avi": "Xin lỗi, đây là đâu ạ?",
-        "bvi": "Ðây là sở thú."
+        "bvi": "Đây là sở thú."
       },
       {
         "a": "Here's the zoo.",
         "b": "What a fine zoo!",
-        "avi": "Ðây là sở thú.",
+        "avi": "Đây là sở thú.",
         "bvi": "Sở thú đẹp quá!"
       },
       {
@@ -1825,7 +1825,7 @@
         "a": "There's so many.",
         "b": "Here are the monkeys.",
         "avi": "Có nhiều loài quá.",
-        "bvi": "Ðây là những con khỉ."
+        "bvi": "Đây là những con khỉ."
       }
     ]
   },
@@ -1836,7 +1836,7 @@
       {
         "a": "Here are the monkeys.",
         "b": "Give them a piece of bread.",
-        "avi": "Ðây là những con khỉ.",
+        "avi": "Đây là những con khỉ.",
         "bvi": "Hãy cho chúng một miếng bánh mì."
       },
       {
@@ -1866,7 +1866,7 @@
       {
         "a": "Don't worry, let me tell you.",
         "b": "I am very much obliged to you.",
-        "avi": "Ðừng lo, để tôi hướng dẫn cho bạn.",
+        "avi": "Đừng lo, để tôi hướng dẫn cho bạn.",
         "bvi": "Tôi rất cám ơn bạn."
       },
       {
@@ -1957,7 +1957,7 @@
         "a": "At what time does it open?",
         "b": "The memorial is open every day.",
         "avi": "Nó mở cửa lúc mấy giờ?",
-        "bvi": "Ðài tưởng niệm được mở cửa hàng ngày."
+        "bvi": "Đài tưởng niệm được mở cửa hàng ngày."
       },
       {
         "a": "Terrific, and you can do a lot of sightseeing, too.",
@@ -2113,7 +2113,7 @@
         "a": "Yes that would be fine.",
         "b": "What's your exact address?",
         "avi": "Vâng, thế thì tốt.",
-        "bvi": "Ðịa chỉ chính xác của bạn là gì?"
+        "bvi": "Địa chỉ chính xác của bạn là gì?"
       },
       {
         "a": "No, there's nobody here.",
@@ -2287,9 +2287,9 @@
         "a": "Yes, it started ten minutes ago.",
         "b": "Get moving!",
         "avi": "Nó bắt đầu cách đây mười phút.",
-        "bvi": "Ði mau lên!"
+        "bvi": "Đi mau lên!"
       },
-      {"a": "Get moving!", "b": "You'll be late!", "avi": "Ði mau lên!", "bvi": "Bạn trễ rồi."},
+      {"a": "Get moving!", "b": "You'll be late!", "avi": "Đi mau lên!", "bvi": "Bạn trễ rồi."},
       {
         "a": "His service is about to begin.",
         "b": "I think you'd better get starting.",
@@ -2299,7 +2299,7 @@
       {
         "a": "Go, you're still in time.",
         "b": "We're out of time.",
-        "avi": "Ði đi, bạn vẫn còn thời gian.",
+        "avi": "Đi đi, bạn vẫn còn thời gian.",
         "bvi": "Chúng ta sắp hết giờ rồi."
       }
     ]
@@ -2330,7 +2330,7 @@
         "a": "I'm taking the two o'clock train.",
         "b": "That's one of the best trains.",
         "avi": "Tôi sẽ đón chuyến xe lửa lúc hai giờ.",
-        "bvi": "Ðó là một trong những chuyến xe lửa tốt nhất."
+        "bvi": "Đó là một trong những chuyến xe lửa tốt nhất."
       }
     ]
   },
@@ -2341,7 +2341,7 @@
       {
         "a": "That's one of the best trains.",
         "b": "Could we start at twelve?",
-        "avi": "Ðó là một trong những chuyến xe lửa tốt nhất.",
+        "avi": "Đó là một trong những chuyến xe lửa tốt nhất.",
         "bvi": "Chúng ta bắt đầu khởi hành vào lúc 12 giờ chứ?"
       },
       {
@@ -2413,7 +2413,7 @@
       {
         "a": "What is this place?",
         "b": "This is the MyCanh Restaurant.",
-        "avi": "Ðây là đâu vậy?",
+        "avi": "Đây là đâu vậy?",
         "bvi": "Nhà hàng Mỹ Cảnh đây."
       },
       {
@@ -2479,7 +2479,7 @@
       {
         "a": "That is a popular restaurant, isn't it?",
         "b": "There's French cooking.",
-        "avi": "Ðó là một nhà hàng nổi tiếng mà, phải không?",
+        "avi": "Đó là một nhà hàng nổi tiếng mà, phải không?",
         "bvi": "Ở đó có món ăn Pháp."
       }
     ]
@@ -2551,7 +2551,7 @@
       {
         "a": "How about going to an Indian restaurant?",
         "b": "My friend is on the diet.",
-        "avi": "Ðến nhà hàng ấn độ được không?",
+        "avi": "Đến nhà hàng ấn độ được không?",
         "bvi": "Bạn tôi ăn kiêng."
       },
       {
@@ -2647,7 +2647,7 @@
       {
         "a": "These are all my personal effects.",
         "b": "Do you have anything to declare?",
-        "avi": "Ðây đều là tài sản cá nhân của tôi.",
+        "avi": "Đây đều là tài sản cá nhân của tôi.",
         "bvi": "Ông có khai báo gì không?"
       },
       {
@@ -2768,18 +2768,18 @@
         "a": "A carton of 200 cigarettes.",
         "b": "This is a dutiable article.",
         "avi": "Một thùng thuốc lá 200 điếu.",
-        "bvi": "Ðây là thứ phải đóng thuế."
+        "bvi": "Đây là thứ phải đóng thuế."
       },
       {
         "a": "This is a dutiable article.",
         "b": "How much is the duty?",
-        "avi": "Ðây là thứ phải đóng thuế.",
-        "bvi": "Ðóng bao nhiêu?"
+        "avi": "Đây là thứ phải đóng thuế.",
+        "bvi": "Đóng bao nhiêu?"
       },
       {
         "a": "How much is the duty?",
         "b": "Fifteen dollars.",
-        "avi": "Ðóng bao nhiêu?",
+        "avi": "Đóng bao nhiêu?",
         "bvi": "15 đô la."
       }
     ]
@@ -2810,7 +2810,7 @@
         "a": "May I have receipt?",
         "b": "Here's the receipt.",
         "avi": "Tôi có thể lấy biên nhận không?",
-        "bvi": "Ðây là biên nhận."
+        "bvi": "Đây là biên nhận."
       }
     ]
   },
@@ -2869,7 +2869,7 @@
       {
         "a": "This is the main hotel.",
         "b": "Hi, I want a room, please.",
-        "avi": "Ðây là khách sạn chính.",
+        "avi": "Đây là khách sạn chính.",
         "bvi": "Xin chào, xin cho tôi thuê phòng."
       }
     ]
@@ -2887,7 +2887,7 @@
       {
         "a": "Let me check.",
         "b": "I can wait a moment.",
-        "avi": "Ðể tôi kiểm tra xem.",
+        "avi": "Để tôi kiểm tra xem.",
         "bvi": "Tôi có thể đợi một lát."
       },
       {
@@ -2948,18 +2948,18 @@
         "a": "We have flights to NhaTrang every hour.",
         "b": "Are they non-stop flight?",
         "avi": "Chúng tôi có những chuyến bay đến Nha Trang mỗi giờ một lần.",
-        "bvi": "Ðó là những chuyến bay suốt phải không?"
+        "bvi": "Đó là những chuyến bay suốt phải không?"
       },
       {
         "a": "Are they non-stop flight?",
         "b": "Yes, direct to Da Lat.",
-        "avi": "Ðó là những chuyến bay suốt phải không?",
-        "bvi": "Vâng, bay thẳng đến Ðà Lạt."
+        "avi": "Đó là những chuyến bay suốt phải không?",
+        "bvi": "Vâng, bay thẳng đến Đà Lạt."
       },
       {
         "a": "Yes, direct to Da Lat.",
         "b": "How long is the flight?",
-        "avi": "Vâng, bay thẳng đến Ðà Lạt.",
+        "avi": "Vâng, bay thẳng đến Đà Lạt.",
         "bvi": "Thời gian bay là bao lâu?"
       }
     ]
@@ -3002,7 +3002,7 @@
         "a": "How about the next flight?",
         "b": "I'll check.",
         "avi": "Còn chuyến bay kế tiếp thì sao?",
-        "bvi": "Ðể tôi kiểm tra xem."
+        "bvi": "Để tôi kiểm tra xem."
       },
       {
         "a": "It's sold out.",
@@ -3181,7 +3181,7 @@
       {
         "a": "Here is my luggage.",
         "b": "Put your luggage on the scale, please.",
-        "avi": "Ðây là hành lý của tôi.",
+        "avi": "Đây là hành lý của tôi.",
         "bvi": "Xin đặt hành lý lên cân."
       },
       {
@@ -3272,7 +3272,7 @@
         "a": "Can I get it here?",
         "b": "all right, madam.",
         "avi": "Tôi có thể nhận nó ở đây không?",
-        "bvi": "Ðược rồi thưa bà."
+        "bvi": "Được rồi thưa bà."
       },
       {
         "a": "Maybe you can lease a car.",
@@ -3302,12 +3302,12 @@
         "a": "Where are you going to?",
         "b": "I'd like to see the sights of London.",
         "avi": "Bạn đi đến đâu?",
-        "bvi": "Tôi muốn xem quang cảnh Luân Ðôn."
+        "bvi": "Tôi muốn xem quang cảnh Luân Đôn."
       },
       {
         "a": "I'd like to see the sights of London.",
         "b": "With or without an interpreter?",
-        "avi": "Tôi muốn xem quang cảnh Luân Ðôn.",
+        "avi": "Tôi muốn xem quang cảnh Luân Đôn.",
         "bvi": "Có cần một phiên dịch không?"
       },
       {
@@ -3391,7 +3391,7 @@
       {
         "a": "This is a holiday resort and brochure.",
         "b": "May I go inside and look around?",
-        "avi": "Ðây là khu nghỉ mát và tờ quảng cáo.",
+        "avi": "Đây là khu nghỉ mát và tờ quảng cáo.",
         "bvi": "Tôi có thể vào tham quan không?"
       },
       {
@@ -3470,7 +3470,7 @@
         "a": "Do you want to fly first or economy class?",
         "b": "One first class to Da Lat.",
         "avi": "Bạn muốn bay loại vé hạng nhất hay hạng thường?",
-        "bvi": "Một vé hạng nhất đi Ðà Lạt."
+        "bvi": "Một vé hạng nhất đi Đà Lạt."
       }
     ]
   },
@@ -3499,7 +3499,7 @@
       {
         "a": "Here's your plane ticket to Hanoi.",
         "b": "For how long is it available?",
-        "avi": "Ðây là vé máy bay đi hà nội của bạn.",
+        "avi": "Đây là vé máy bay đi hà nội của bạn.",
         "bvi": "Nó có giá trị bao lâu?"
       }
     ]
@@ -3518,19 +3518,19 @@
         "a": "I'm an air ticket seller.",
         "b": "Can I get a ticket to Da Lat here?",
         "avi": "Tôi là nhân viên bán vé máy bay.",
-        "bvi": "Tôi có thể mua vé đi Ðà Lạt ở đây không?"
+        "bvi": "Tôi có thể mua vé đi Đà Lạt ở đây không?"
       },
       {
         "a": "It is time for us to go.",
         "b": "Can I get a through ticket to Saigon?",
-        "avi": "Ðến lúc chúng ta phải đi rồi.",
+        "avi": "Đến lúc chúng ta phải đi rồi.",
         "bvi": "Tôi có thể mua vé suốt đi Sài Gòn không?"
       },
       {
         "a": "Who wants tickets?",
         "b": "Please give me two circular tickets to Da Lat.",
         "avi": "Ai muốn có vé nào?",
-        "bvi": "Xin cho tôi hai vé khứ hồi đi Ðà Lạt."
+        "bvi": "Xin cho tôi hai vé khứ hồi đi Đà Lạt."
       }
     ]
   },
@@ -3553,7 +3553,7 @@
       {
         "a": "Here is your ticket and your wife's.",
         "b": "Are they all return tickets?",
-        "avi": "Ðây là vé của bạn và vợ bạn.",
+        "avi": "Đây là vé của bạn và vợ bạn.",
         "bvi": "Tất cả đều là vé khứ hồi à?"
       },
       {
@@ -3632,7 +3632,7 @@
         "a": "And the fast way?",
         "b": "What's the express charge to Da Lat?",
         "avi": "Còn tốc hành thì sao?",
-        "bvi": "Giá vé tốc hành đi Ðà Lạt là bao nhiêu?"
+        "bvi": "Giá vé tốc hành đi Đà Lạt là bao nhiêu?"
       },
       {
         "a": "You'd better buy your ticket now.",
@@ -3667,7 +3667,7 @@
       {
         "a": "Is that the time?",
         "b": "It will be starting shortly.",
-        "avi": "Ðến giờ rồi sao?",
+        "avi": "Đến giờ rồi sao?",
         "bvi": "Nó sẽ khởi hành ngay bây giờ."
       },
       {
@@ -3812,7 +3812,7 @@
         "a": "How is she going?",
         "b": "It's more convenient for the train.",
         "avi": "Cô ấy sẽ đi bằng cách nào?",
-        "bvi": "Ðón xe lửa thì tiện hơn."
+        "bvi": "Đón xe lửa thì tiện hơn."
       },
       {
         "a": "Here comes the train.",
@@ -3824,7 +3824,7 @@
         "a": "What are you waiting for?",
         "b": "Is this the train for New York?",
         "avi": "Bạn đang đợi gì?",
-        "bvi": "Ðây có phải tàu đi New York không?"
+        "bvi": "Đây có phải tàu đi New York không?"
       },
       {
         "a": "You may have to wait a little while.",
@@ -3902,7 +3902,7 @@
         "a": "What is this for?",
         "b": "Don't trouble about that small one.",
         "avi": "Cái này dùng để làm gì?",
-        "bvi": "Ðừng có bận tâm về cái nhỏ đó."
+        "bvi": "Đừng có bận tâm về cái nhỏ đó."
       },
       {
         "a": "What are you going to post?",
@@ -3968,12 +3968,12 @@
         "a": "Here are your tickets and your change.",
         "b": "This is tip for you.",
         "avi": "Vé và tiền thối lại của ông đây.",
-        "bvi": "Ðây là tiền cà phê cho bạn."
+        "bvi": "Đây là tiền cà phê cho bạn."
       },
       {
         "a": "That depends on which ticket you buy.",
         "b": "What's your rate for children?",
-        "avi": "Ðiều đó tùy thuộc loại vé bạn mua.",
+        "avi": "Điều đó tùy thuộc loại vé bạn mua.",
         "bvi": "Giá biểu cho trẻ con ông tính bao nhiêu?"
       },
       {
@@ -4033,7 +4033,7 @@
       {
         "a": "It is just what I need.",
         "b": "Don't register at this moment!",
-        "avi": "Ðó chính là cái tôi cần.",
+        "avi": "Đó chính là cái tôi cần.",
         "bvi": "Bạn đừng đăng ký bây giờ!"
       },
       {
@@ -4063,14 +4063,14 @@
       {
         "a": "Never mind the formalities.",
         "b": "Is the customs examination here very strict?",
-        "avi": "Ðừng để tâm những thủ tục.",
+        "avi": "Đừng để tâm những thủ tục.",
         "bvi": "Hải quan ở đây có nghiêm ngặt lắm không?"
       },
       {
         "a": "Where is here?",
         "b": "This is the customs-house.",
-        "avi": "Ðây là đâu?",
-        "bvi": "Ðây là phòng quan thuế."
+        "avi": "Đây là đâu?",
+        "bvi": "Đây là phòng quan thuế."
       }
     ]
   },
@@ -4081,26 +4081,26 @@
       {
         "a": "This is the customs-house.",
         "b": "Shall we be kept waiting long?",
-        "avi": "Ðây là phòng quan thuế.",
+        "avi": "Đây là phòng quan thuế.",
         "bvi": "Chúng ta có phải đợi lâu không?"
       },
       {
         "a": "Here is my receipt.",
         "b": "Where is your baggage?",
-        "avi": "Ðây là phiếu hành lý của tôi.",
+        "avi": "Đây là phiếu hành lý của tôi.",
         "bvi": "Hành lý ông đâu?"
       },
       {
         "a": "Where is your baggage?",
         "b": "Here is my baggage.",
         "avi": "Hành lý ông đâu?",
-        "bvi": "Ðây là hành lý của tôi."
+        "bvi": "Đây là hành lý của tôi."
       },
       {
         "a": "Do you have a credit card or a bank account?",
         "b": "Here are my checks.",
         "avi": "Bạn có thẻ tín dụng hoặc tài khoản ngân hàng không?",
-        "bvi": "Ðây là những séc của tôi."
+        "bvi": "Đây là những séc của tôi."
       }
     ]
   },
@@ -4142,7 +4142,7 @@
         "a": "What have you in this suitcase?",
         "b": "These are all my personal effects.",
         "avi": "Ông có gì trong va li này?",
-        "bvi": "Ðây là tất cả những vật dụng cá nhân."
+        "bvi": "Đây là tất cả những vật dụng cá nhân."
       },
       {
         "a": "That's mine.",
@@ -4153,7 +4153,7 @@
       {
         "a": "Is it yours?",
         "b": "Must I pay duty on this?",
-        "avi": "Ðó là của ông à?",
+        "avi": "Đó là của ông à?",
         "bvi": "Tôi có phải đóng thuế cái này không?"
       },
       {
@@ -4232,13 +4232,13 @@
         "a": "Where did you buy it?",
         "b": "It's a gift.",
         "avi": "Bạn mua nó ở đâu?",
-        "bvi": "Ðó là quà tặng."
+        "bvi": "Đó là quà tặng."
       },
       {
         "a": "May I see your passport?",
         "b": "Here is my passport.",
         "avi": "Bạn có thể cho tôi xem hộ chiếu?",
-        "bvi": "Ðây là hộ chiếu của tôi."
+        "bvi": "Đây là hộ chiếu của tôi."
       },
       {
         "a": "Do I need to supplement more information?",
@@ -4261,7 +4261,7 @@
       {
         "a": "Here is my passport.",
         "b": "This passport is expired.",
-        "avi": "Ðây là hộ chiếu của tôi.",
+        "avi": "Đây là hộ chiếu của tôi.",
         "bvi": "Hộ chiếu này quá hạn rồi."
       },
       {
@@ -4273,8 +4273,8 @@
       {
         "a": "Here's my card.",
         "b": "Which is your family name?",
-        "avi": "Ðây là danh thiếp của tôi.",
-        "bvi": "Ðâu là họ của ông?"
+        "avi": "Đây là danh thiếp của tôi.",
+        "bvi": "Đâu là họ của ông?"
       },
       {
         "a": "I am a foreigner.",
@@ -4297,7 +4297,7 @@
       {
         "a": "Don't disturb the papers on my desk.",
         "b": "Could I have my passport?",
-        "avi": "Ðừng làm xáo trộn giấy tờ trên bàn tôi.",
+        "avi": "Đừng làm xáo trộn giấy tờ trên bàn tôi.",
         "bvi": "Tôi có thể lấy hộ chiếu không?"
       },
       {
@@ -4321,19 +4321,19 @@
       {
         "a": "May I show you to the drawing room?",
         "b": "Is there a catalogue of things on show?",
-        "avi": "Ðể tôi dẫn bạn đi xem phòng trưng bày nhé?",
+        "avi": "Để tôi dẫn bạn đi xem phòng trưng bày nhé?",
         "bvi": "Có bản danh mục các vật trưng bày không?"
       },
       {
         "a": "It's so beautiful.",
         "b": "This is an exhibition catalogue.",
-        "avi": "Ðẹp quá.",
-        "bvi": "Ðây là tệp giới thiệu các vật trưng bày."
+        "avi": "Đẹp quá.",
+        "bvi": "Đây là tệp giới thiệu các vật trưng bày."
       },
       {
         "a": "This is an exhibition catalogue.",
         "b": "Is it really up to date?",
-        "avi": "Ðây là tệp giới thiệu các vật trưng bày.",
+        "avi": "Đây là tệp giới thiệu các vật trưng bày.",
         "bvi": "Nó có được thực sự cập nhật không?"
       },
       {
@@ -4394,7 +4394,7 @@
         "a": "Give me back your receipt.",
         "b": "Here is my receipt.",
         "avi": "Xin đưa lại tôi phiếu hành lý.",
-        "bvi": "Ðây là phiếu hành lý của tôi."
+        "bvi": "Đây là phiếu hành lý của tôi."
       },
       {
         "a": "And this box?",
@@ -4430,7 +4430,7 @@
         "a": "Do you need me to do the graphics?",
         "b": "Let me see!",
         "avi": "Bạn có cần tôi làm phần hình ảnh không?",
-        "bvi": "Ðể tôi xem!"
+        "bvi": "Để tôi xem!"
       }
     ]
   },
@@ -4454,7 +4454,7 @@
         "a": "Am I free to go?",
         "b": "Wait for me here.",
         "avi": "Tôi đi được chưa?",
-        "bvi": "Ðợi tôi ở đây."
+        "bvi": "Đợi tôi ở đây."
       },
       {
         "a": "Where did you leave it?",
@@ -4507,7 +4507,7 @@
       {
         "a": "Where are you going in such a hurry?",
         "b": "I am leaving at once for Scotland.",
-        "avi": "Ði đâu mà vội vậy?",
+        "avi": "Đi đâu mà vội vậy?",
         "bvi": "Tôi phải đi Scotland ngay."
       },
       {
@@ -4592,7 +4592,7 @@
         "a": "Not quite in place.",
         "b": "Which way for the second class?",
         "avi": "Không đúng chỗ.",
-        "bvi": "Ði lối nào đến chỗ hạng nhì?"
+        "bvi": "Đi lối nào đến chỗ hạng nhì?"
       },
       {
         "a": "We have front row seats.",
@@ -4628,7 +4628,7 @@
         "a": "It's priced at only 200 dollars.",
         "b": "It is very dear!",
         "avi": "Giá chỉ 200 đô thôi.",
-        "bvi": "Ðắt quá!"
+        "bvi": "Đắt quá!"
       },
       {
         "a": "By all means.",
@@ -4657,7 +4657,7 @@
       {
         "a": "The roads are really packed.",
         "b": "Are there any cycle-tracks?",
-        "avi": "Ðường sá chật như nêm.",
+        "avi": "Đường sá chật như nêm.",
         "bvi": "Có đường dành riêng cho xe đạp và gắn máy không?"
       },
       {
@@ -4777,7 +4777,7 @@
       {
         "a": "Come along with me to the bookstore.",
         "b": "Are there any stores like X?",
-        "avi": "Ði với tôi đến cửa hàng sách.",
+        "avi": "Đi với tôi đến cửa hàng sách.",
         "bvi": "Có cửa hàng nào như X không?"
       },
       {
@@ -4867,7 +4867,7 @@
       {
         "a": "It is a through coach.",
         "b": "What time does it reach CanTho?",
-        "avi": "Ðó là chuyến xe chạy suốt.",
+        "avi": "Đó là chuyến xe chạy suốt.",
         "bvi": "Chừng nào nó đến Cần Thơ?"
       },
       {
@@ -5012,12 +5012,12 @@
         "a": "Have you had the motor insurance yet?",
         "b": "Here is the policy.",
         "avi": "Bạn có bảo hiểm xe ô tô chưa?",
-        "bvi": "Ðây là giấy bảo hiểm."
+        "bvi": "Đây là giấy bảo hiểm."
       },
       {
         "a": "What is closing time?",
         "b": "What are you doing here so late?",
-        "avi": "Ðóng cửa vào mấy giờ?",
+        "avi": "Đóng cửa vào mấy giờ?",
         "bvi": "Bạn làm gì ở đây quá trễ vậy?"
       },
       {
@@ -5198,7 +5198,7 @@
         "a": "I'll e-mail you the address.",
         "b": "What's your mailing address?",
         "avi": "Tôi sẽ gửi địa chỉ mail cho bạn.",
-        "bvi": "Ðịa chỉ mail của bạn là gì?"
+        "bvi": "Địa chỉ mail của bạn là gì?"
       },
       {
         "a": "He at the bank?",
@@ -5270,7 +5270,7 @@
         "a": "What is this building?",
         "b": "That is the customs-office.",
         "avi": "Tòa nhà này là gì?",
-        "bvi": "Ðây là cục hải quan."
+        "bvi": "Đây là cục hải quan."
       }
     ]
   },
@@ -5360,7 +5360,7 @@
         "a": "How can I get in touch with you?",
         "b": "This is the mailing list.",
         "avi": "Làm thế nào để giữ liên lạc với bạn?",
-        "bvi": "Ðây là danh sách địa chỉ liên lạc."
+        "bvi": "Đây là danh sách địa chỉ liên lạc."
       }
     ]
   },
@@ -5378,7 +5378,7 @@
         "a": "Tons of people.",
         "b": "That is the customs-office.",
         "avi": "Quá đông người!",
-        "bvi": "Ðây là cục hải quan."
+        "bvi": "Đây là cục hải quan."
       },
       {
         "a": "Is she in yet?",
@@ -5402,7 +5402,7 @@
         "a": "Give my love to the family.",
         "b": "Don't forget to buy me some duty-frees!",
         "avi": "Gửi lời hỏi thăm cả nhà nhé.",
-        "bvi": "Ðừng quên mua cho em một ít hàng miễn thuế nhé!"
+        "bvi": "Đừng quên mua cho em một ít hàng miễn thuế nhé!"
       },
       {
         "a": "I want you to be my partner.",
@@ -5413,8 +5413,8 @@
       {
         "a": "Hi. This is the ticket office.",
         "b": "I would like a ticket to Da Lat.",
-        "avi": "Xin chào. Ðây là phòng vé.",
-        "bvi": "Tôi muốn mua một vé đi Ðà Lạt."
+        "avi": "Xin chào. Đây là phòng vé.",
+        "bvi": "Tôi muốn mua một vé đi Đà Lạt."
       },
       {
         "a": "Single or return?",
@@ -5558,7 +5558,7 @@
         "a": "Can I leave my luggage here?",
         "b": "Please open your cases.",
         "avi": "Tôi có thể gửi hành lý lại đây được không?",
-        "bvi": "Ðề nghị mở va ly ra."
+        "bvi": "Đề nghị mở va ly ra."
       },
       {
         "a": "Do you have any check-in luggage?",
@@ -5570,7 +5570,7 @@
         "a": "You must pay the tax.",
         "b": "This is my overnight bag.",
         "avi": "Bạn phải nộp thuế.",
-        "bvi": "Ðây là đồ dùng cá nhân."
+        "bvi": "Đây là đồ dùng cá nhân."
       }
     ]
   },
@@ -5581,14 +5581,14 @@
       {
         "a": "Here is your claim tag.",
         "b": "Where can I get my hand baggage?",
-        "avi": "Ðây là tấm thẻ nhận hành lý của bạn.",
+        "avi": "Đây là tấm thẻ nhận hành lý của bạn.",
         "bvi": "Tôi có thể lấy hành lý xách tay của tôi tại đâu?"
       },
       {
         "a": "Do you have any luggage?",
         "b": "Here is my claim tag.",
         "avi": "Ông có hành lý không?",
-        "bvi": "Ðây là tấm thẻ nhận hành lý của tôi."
+        "bvi": "Đây là tấm thẻ nhận hành lý của tôi."
       },
       {
         "a": "Have you anything to declare?",
@@ -5647,7 +5647,7 @@
       {
         "a": "I would like a ticket to Da Lat.",
         "b": "Where do you want to sit?",
-        "avi": "Tôi muốn mua một vé đi Ðà Lạt.",
+        "avi": "Tôi muốn mua một vé đi Đà Lạt.",
         "bvi": "Bạn muốn ngồi ở đâu?"
       },
       {
@@ -5677,7 +5677,7 @@
       {
         "a": "That's a one-way ticket.",
         "b": "How much is it?",
-        "avi": "Ðó là vé đi một chiều.",
+        "avi": "Đó là vé đi một chiều.",
         "bvi": "Giá bao nhiêu vậy?"
       },
       {
@@ -5779,7 +5779,7 @@
       {
         "a": "Here is my baggage.",
         "b": "Have you got any new clothing?",
-        "avi": "Ðây là hành lý của tôi.",
+        "avi": "Đây là hành lý của tôi.",
         "bvi": "Bạn có quần áo mới không?"
       }
     ]
@@ -5797,7 +5797,7 @@
       {
         "a": "This article is subject to duty.",
         "b": "How much duty do I have to pay?",
-        "avi": "Ðây là thứ phải đóng thuế.",
+        "avi": "Đây là thứ phải đóng thuế.",
         "bvi": "Tôi phải trả bao nhiêu thuế hải quan?"
       },
       {
@@ -6068,19 +6068,19 @@
         "a": "Will you notify me when receive the proceeds?",
         "b": "I'm expecting some money from Da Lat?",
         "avi": "Bạn sẽ báo với tôi khi nhận được tiền nhé?",
-        "bvi": "Tôi đang đợi tiền gởi từ Ðà Lạt."
+        "bvi": "Tôi đang đợi tiền gởi từ Đà Lạt."
       },
       {
         "a": "I'm expecting some money from Da Lat?",
         "b": "Is it in yet?",
-        "avi": "Tôi đang đợi tiền gởi từ Ðà Lạt.",
+        "avi": "Tôi đang đợi tiền gởi từ Đà Lạt.",
         "bvi": "Nó đã đến chưa?"
       },
       {
         "a": "Is it in yet?",
         "b": "Let me check.",
         "avi": "Nó đã đến chưa?",
-        "bvi": "Ðể tôi kiểm tra xem."
+        "bvi": "Để tôi kiểm tra xem."
       }
     ]
   },
@@ -6398,7 +6398,7 @@
       {
         "a": "I'm going to put the rest in the bank. Alright?",
         "b": "That may not seem like a lot.",
-        "avi": "Tôi sẽ gửi số tiền còn lại vào ngân hàng. Ðược chứ?",
+        "avi": "Tôi sẽ gửi số tiền còn lại vào ngân hàng. Được chứ?",
         "bvi": "Có thể tiền lãi sẽ không được nhiều."
       },
       {
@@ -6656,7 +6656,7 @@
       {
         "a": "Here's a package for you.",
         "b": "I'd like to send this parcel.",
-        "avi": "Ðây là bưu kiện cho bạn.",
+        "avi": "Đây là bưu kiện cho bạn.",
         "bvi": "Tôi muốn gởi bưu kiện này."
       },
       {
@@ -6759,12 +6759,12 @@
         "a": "Have you ever sent a package?",
         "b": "I'd like to send this package to London.",
         "avi": "Bạn có bao giờ gửi bưu phẩm chưa?",
-        "bvi": "Tôi muốn gởi bưu phẩm này sang Luân Ðôn."
+        "bvi": "Tôi muốn gởi bưu phẩm này sang Luân Đôn."
       },
       {
         "a": "I'd like to send this package to London.",
         "b": "What're the contents?",
-        "avi": "Tôi muốn gởi bưu phẩm này sang Luân Ðôn.",
+        "avi": "Tôi muốn gởi bưu phẩm này sang Luân Đôn.",
         "bvi": "Bên trong có gì?"
       }
     ]
@@ -6884,7 +6884,7 @@
       {
         "a": "I'd like to send this package to London.",
         "b": "Fill your name in this, please!",
-        "avi": "Tôi muốn gởi bưu phẩm này sang Luân Ðôn.",
+        "avi": "Tôi muốn gởi bưu phẩm này sang Luân Đôn.",
         "bvi": "Xin điền tên vào đó!"
       }
     ]
@@ -6927,7 +6927,7 @@
         "a": "I have a parcel to send off.",
         "b": "What is the regular postage to Da Lat?",
         "avi": "Tôi có một bưu kiện cần gửi.",
-        "bvi": "Bưu phí thông thường gửi đi Ðà Lạt là bao nhiêu?"
+        "bvi": "Bưu phí thông thường gửi đi Đà Lạt là bao nhiêu?"
       },
       {
         "a": "I was writing a letter.",
@@ -6969,7 +6969,7 @@
         "a": "We will deliver it on Monday.",
         "b": "How long does it take to reach Da Lat?",
         "avi": "Chúng tôi sẽ phát chuyển nó vào thứ Hai.",
-        "bvi": "Nó tới Ðà Lạt phải mất bao lâu?"
+        "bvi": "Nó tới Đà Lạt phải mất bao lâu?"
       },
       {
         "a": "Drive me to the post-office.",
@@ -7035,7 +7035,7 @@
         "a": "You will need to pay a monthly fee for the service.",
         "b": "How much is a phone to Bangkok?",
         "avi": "Bạn sẽ phải trả phí hàng tháng cho loại dịch vụ này.",
-        "bvi": "Ðiện thoại đi Bangkok tốn bao nhiêu?"
+        "bvi": "Điện thoại đi Bangkok tốn bao nhiêu?"
       }
     ]
   },
@@ -7065,7 +7065,7 @@
         "a": "They don't answer.",
         "b": "The line is busy.",
         "avi": "Họ không trả lời.",
-        "bvi": "Ðường dây đang bận."
+        "bvi": "Đường dây đang bận."
       }
     ]
   },
@@ -7107,12 +7107,12 @@
         "a": "I want to make a long distance telephone.",
         "b": "The telephone seems to be out of order.",
         "avi": "Tôi muốn gọi điện thoại đường dài.",
-        "bvi": "Ðiện thoại hình như bị hỏng."
+        "bvi": "Điện thoại hình như bị hỏng."
       },
       {
         "a": "The telephone seems to be out of order.",
         "b": "Are you through?",
-        "avi": "Ðiện thoại hình như bị hỏng.",
+        "avi": "Điện thoại hình như bị hỏng.",
         "bvi": "Ông nói xong chưa?"
       },
       {
@@ -7124,7 +7124,7 @@
       {
         "a": "Time to make the call.",
         "b": "Please put the token in the slot.",
-        "avi": "Ðến lúc để gọi điện rồi.",
+        "avi": "Đến lúc để gọi điện rồi.",
         "bvi": "Xin bỏ đồng xu vào khe máy."
       }
     ]
@@ -7226,7 +7226,7 @@
       {
         "a": "Time is up, please be brief.",
         "b": "How long can I speak?",
-        "avi": "Ðã hết giờ xin nói ngắn gọn cho.",
+        "avi": "Đã hết giờ xin nói ngắn gọn cho.",
         "bvi": "Tôi được phép nói chuyện trong bao lâu?"
       },
       {
@@ -7287,7 +7287,7 @@
         "a": "Travel documents, please.",
         "b": "Here are my passport and my identity card.",
         "avi": "Mời ông xuất trình giấy tờ thông hành.",
-        "bvi": "Ðây là hộ chiếu và thẻ chứng minh nhân dân của tôi."
+        "bvi": "Đây là hộ chiếu và thẻ chứng minh nhân dân của tôi."
       },
       {
         "a": "Who were you writing to?",
@@ -7298,7 +7298,7 @@
       {
         "a": "For what purpose?",
         "b": "I want to send a postcard.",
-        "avi": "Ðể làm gì vậy?",
+        "avi": "Để làm gì vậy?",
         "bvi": "Tôi cần gửi bưu thiếp."
       },
       {
@@ -7335,7 +7335,7 @@
         "a": "I want to mail a letter home.",
         "b": "Maybe you shouldn't have written them.",
         "avi": "Tôi muốn gửi một bức thư về nhà.",
-        "bvi": "Ðáng lẽ anh không nên viết chúng."
+        "bvi": "Đáng lẽ anh không nên viết chúng."
       }
     ]
   },
@@ -7425,7 +7425,7 @@
         "a": "I have to charge you.",
         "b": "How much for this telegram?",
         "avi": "Tôi sẽ thu phí.",
-        "bvi": "Ðiện tín này phải trả bao nhiêu?"
+        "bvi": "Điện tín này phải trả bao nhiêu?"
       }
     ]
   },
@@ -7436,7 +7436,7 @@
       {
         "a": "Negative so far.",
         "b": "Did you check the mail?",
-        "avi": "Ðến bây giờ vẫn chưa thấy gì.",
+        "avi": "Đến bây giờ vẫn chưa thấy gì.",
         "bvi": "Bạn đã kiểm tra hòm thư chưa?"
       },
       {
@@ -7497,7 +7497,7 @@
         "a": "I'd like the key to room 809, please.",
         "b": "Here's your key, sir.",
         "avi": "Tôi muốn chìa khóa phòng 809.",
-        "bvi": "Ðây là chìa khóa, thưa ông."
+        "bvi": "Đây là chìa khóa, thưa ông."
       },
       {"a": "What room?", "b": "Room number 1405.", "avi": "Phòng số mấy?", "bvi": "Phòng số 1405."},
       {
@@ -7803,7 +7803,7 @@
       {
         "a": "Here's a reasonable quote.",
         "b": "Is service included?",
-        "avi": "Ðây là giá phải chăng đấy.",
+        "avi": "Đây là giá phải chăng đấy.",
         "bvi": "Có bao gồm phục vụ không?"
       },
       {
@@ -7857,7 +7857,7 @@
       {
         "a": "This is the best price for you.",
         "b": "How much is the room without meals?",
-        "avi": "Ðây là giá tốt nhất dành cho bạn.",
+        "avi": "Đây là giá tốt nhất dành cho bạn.",
         "bvi": "Không có bữa ăn thì phòng tính giá bao nhiêu?"
       },
       {
@@ -7924,12 +7924,12 @@
         "a": "Let me have my key, please.",
         "b": "Here is your key.",
         "avi": "Làm ơn cho tôi xin chìa khóa.",
-        "bvi": "Ðây là chìa khóa của ông."
+        "bvi": "Đây là chìa khóa của ông."
       },
       {
         "a": "Here is your key.",
         "b": "What is my room number?",
-        "avi": "Ðây là chìa khóa của ông.",
+        "avi": "Đây là chìa khóa của ông.",
         "bvi": "Số phòng tôi là bao nhiêu?"
       }
     ]
@@ -7959,7 +7959,7 @@
       {
         "a": "Here is your room.",
         "b": "Where is the bathroom?",
-        "avi": "Ðây là phòng của ông.",
+        "avi": "Đây là phòng của ông.",
         "bvi": "Phòng tắm ở đâu?"
       }
     ]
@@ -8002,7 +8002,7 @@
         "a": "How about doing laundry?",
         "b": "Have this suit pressed.",
         "avi": "Còn việc giặt ủi thì sao?",
-        "bvi": "Ðưa ủi bộ quần áo này."
+        "bvi": "Đưa ủi bộ quần áo này."
       },
       {
         "a": "We have express laundry service.",
@@ -8073,14 +8073,14 @@
       {
         "a": "The service and tax are included.",
         "b": "Is everything included?",
-        "avi": "Ðã tính cả phục vụ phí và thuế.",
+        "avi": "Đã tính cả phục vụ phí và thuế.",
         "bvi": "Mọi thứ tính đủ hết chứ?"
       },
       {
         "a": "Will that be all?",
         "b": "The service and tax are included.",
-        "avi": "Ðó là tất cả phải không?",
-        "bvi": "Ðã tính cả phục vụ phí và thuế."
+        "avi": "Đó là tất cả phải không?",
+        "bvi": "Đã tính cả phục vụ phí và thuế."
       }
     ]
   },
@@ -8091,7 +8091,7 @@
       {
         "a": "That's all for now.",
         "b": "Will you take Vietnamese money?",
-        "avi": "Ðó là tất cả.",
+        "avi": "Đó là tất cả.",
         "bvi": "Ông có nhận tiền Việt Nam không?"
       },
       {
@@ -8109,7 +8109,7 @@
       {
         "a": "It's the nearest supermarket to our home.",
         "b": "I want to buy some souvenirs.",
-        "avi": "Ðó là siêu thị gần nhà chúng tôi nhất.",
+        "avi": "Đó là siêu thị gần nhà chúng tôi nhất.",
         "bvi": "Tôi muốn mua vài đồ kỷ niệm."
       }
     ]
@@ -8170,7 +8170,7 @@
         "a": "You two want it?",
         "b": "Here is my deposit.",
         "avi": "Hai người có muốn lấy phòng đó không?",
-        "bvi": "Ðây là tiền đặt cọc của tôi."
+        "bvi": "Đây là tiền đặt cọc của tôi."
       }
     ]
   },
@@ -8421,7 +8421,7 @@
       {
         "a": "Let me show you around.",
         "b": "No need to show me the way.",
-        "avi": "Ðể tôi dẫn bạn đi xem quanh đây.",
+        "avi": "Để tôi dẫn bạn đi xem quanh đây.",
         "bvi": "Không cần phải dẫn đường."
       },
       {
@@ -8464,7 +8464,7 @@
         "a": "Have you bathing sandals?",
         "b": "Just getting my slippers.",
         "avi": "Bạn có dép tắm không?",
-        "bvi": "Ðưa dùm tôi đôi dép lê."
+        "bvi": "Đưa dùm tôi đôi dép lê."
       },
       {
         "a": "Can you wait a minute?",
@@ -8512,7 +8512,7 @@
         "a": "Why do you hate to go outside?",
         "b": "I shall try your English breakfast.",
         "avi": "Tại sao bạn lại ghét phải ra ngoài?",
-        "bvi": "Ðể tôi dùng thử bữa điểm tâm kiểu Anh của khách sạn này."
+        "bvi": "Để tôi dùng thử bữa điểm tâm kiểu Anh của khách sạn này."
       },
       {
         "a": "He is waiting for you.",
@@ -8571,7 +8571,7 @@
       {
         "a": "Let me see, 40 dollars in all.",
         "b": "I think you are mistaken.",
-        "avi": "Ðể tôi xem, tổng cộng là 40 đô.",
+        "avi": "Để tôi xem, tổng cộng là 40 đô.",
         "bvi": "Tôi nghĩ bạn đã nhầm."
       },
       {
@@ -8668,7 +8668,7 @@
         "a": "Two dollars for the hour, 10 for the whole night.",
         "b": "That is too expensive.",
         "avi": "Hai đô một giờ. Nguyên đêm thì 10 đô.",
-        "bvi": "Ðắt quá."
+        "bvi": "Đắt quá."
       },
       {
         "a": "The room rate is not high.",
@@ -8680,7 +8680,7 @@
         "a": "The room is 10 metres long.",
         "b": "All right, I'll take it.",
         "avi": "Căn phòng này dài 10 mét.",
-        "bvi": "Ðược, tôi lấy nó."
+        "bvi": "Được, tôi lấy nó."
       }
     ]
   },
@@ -8751,7 +8751,7 @@
       {
         "a": "Here's your breakfast.",
         "b": "Serve my breakfast in my room, please.",
-        "avi": "Ðây là bữa sáng của ông.",
+        "avi": "Đây là bữa sáng của ông.",
         "bvi": "Làm ơn dọn điểm tâm trong phòng tôi."
       },
       {
@@ -8763,7 +8763,7 @@
       {
         "a": "This is your room.",
         "b": "How many chairs are there in the room?",
-        "avi": "Ðây là phòng của ông.",
+        "avi": "Đây là phòng của ông.",
         "bvi": "Có bao nhiêu ghế trong phòng?"
       },
       {

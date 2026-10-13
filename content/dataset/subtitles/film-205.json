@@ -304,7 +304,7 @@
       "vi": "Cháu đến để trả lại cuốn sách đã mượn",
       "s": 261.61
     },
-    {"e": 264.47, "en": "Finished already?", "vi": "Ðọc xong rồi à?", "s": 263.25},
+    {"e": 264.47, "en": "Finished already?", "vi": "Đọc xong rồi à?", "s": 263.25},
     {
       "e": 265.57,
       "en": "Oh, I couldn't put it down.",
@@ -325,7 +325,7 @@
     {
       "e": 276.82,
       "en": "Well, it's my favorite... far-off places",
-      "vi": "Dạ đó là cuốn cháu yêu thích!... Ðến những nơi xa xôi...",
+      "vi": "Dạ đó là cuốn cháu yêu thích!... Đến những nơi xa xôi...",
       "s": 274.53
     },
     {
@@ -390,7 +390,7 @@
     {
       "e": 322.49,
       "en": "Here's where she meets Prince Charming",
-      "vi": "Ðây là nơi cô gái gặp chàng hoàng tử tuấn tú",
+      "vi": "Đây là nơi cô gái gặp chàng hoàng tử tuấn tú",
       "s": 316.21
     },
     {
@@ -399,7 +399,7 @@
       "vi": "Nhưng cô sẽ không nhận ra đó là chàng",
       "s": 322.49
     },
-    {"e": 329.68, "en": "Till Chapter Three", "vi": "Ðến tận chương 3", "s": 326.4},
+    {"e": 329.68, "en": "Till Chapter Three", "vi": "Đến tận chương 3", "s": 326.4},
     {"e": 331.57, "en": "Hey! Hey! Hey! Hey! Hey!", "vi": "Này-này! này-này-này!", "s": 329.68},
     {
       "e": 335.03,
@@ -468,7 +468,7 @@
       "vi": "và cả những cô gái cũng vậy.",
       "s": 361.83
     },
-    {"e": 364.83, "en": "It's true, Lefou", "vi": "Ðúng thế, Lefou.", "s": 363.47},
+    {"e": 364.83, "en": "It's true, Lefou", "vi": "Đúng thế, Lefou.", "s": 363.47},
     {
       "e": 367.22,
       "en": "and I've got my sights set on that one.",
@@ -493,7 +493,7 @@
     {
       "e": 375.59,
       "en": "That makes her the best",
-      "vi": "Ðiều đó làm cho nàng là số một!",
+      "vi": "Điều đó làm cho nàng là số một!",
       "s": 374.03
     },
     {
@@ -607,13 +607,13 @@
     {
       "e": 444.95,
       "en": "She really is a funny girl",
-      "vi": "Ðúng là một cô gái vui tính",
+      "vi": "Đúng là một cô gái vui tính",
       "s": 440.52
     },
     {
       "e": 454.06,
       "en": "That Belle... Bonjour, bonjour.",
-      "vi": "Ðó là Belle. Xin chào, xin chào.",
+      "vi": "Đó là Belle. Xin chào, xin chào.",
       "s": 444.95
     },
     {"e": 455.07, "en": "Hello, Belle.", "vi": "Chào, Belle.", "s": 454.06},
@@ -698,13 +698,13 @@
     {
       "e": 502.24,
       "en": "Don't talk about my father that way.",
-      "vi": "Ðừng nói cha tôi như thế.",
+      "vi": "Đừng nói cha tôi như thế.",
       "s": 499.86
     },
     {
       "e": 504.24,
       "en": "Yeah, don't talk about her father that way.",
-      "vi": "Phải! Ðừng nói cha cô ấy như thế!",
+      "vi": "Phải! Đừng nói cha cô ấy như thế!",
       "s": 502.24
     },
     {"e": 506.32, "en": "My father is not crazy.", "vi": "Cha tôi không điên.", "s": 504.24},
@@ -762,7 +762,7 @@
     {
       "e": 555.33,
       "en": "Hand me that, uh... dog-legged clincher, there.",
-      "vi": "Ðưa cho cha... cái bộ \"chân-chó\" đằng kia",
+      "vi": "Đưa cho cha... cái bộ \"chân-chó\" đằng kia",
       "s": 552.39
     },
     {
@@ -828,7 +828,7 @@
     {"e": 591.74, "en": "Now, let's give it a try.", "vi": "Giờ thử xem sao.", "s": 589.59},
     {"e": 606.33, "en": "It works!", "vi": "Nó hoạt động rồi!", "s": 591.74},
     {"e": 607.58, "en": "It does?", "vi": "Thế à?", "s": 606.33},
-    {"e": 610.71, "en": "It does! You did it!", "vi": "Ðúng thế! Cha đã làm được rồi!", "s": 607.58},
+    {"e": 610.71, "en": "It does! You did it!", "vi": "Đúng thế! Cha đã làm được rồi!", "s": 607.58},
     {"e": 612.59, "en": "You really did it!", "vi": "Cha thực sự đã làm được rồi!", "s": 610.71},
     {
       "e": 613.94,
@@ -863,12 +863,12 @@
       "vi": "Ta nghĩ là nên mang theo...",
       "s": 643.96
     },
-    {"e": 647.71, "en": "Wait a minute.", "vi": "Ðợi xem nào.", "s": 646.35},
-    {"e": 653.62, "en": "Let's go this way.", "vi": "Ði đường này nè.", "s": 647.71},
+    {"e": 647.71, "en": "Wait a minute.", "vi": "Đợi xem nào.", "s": 646.35},
+    {"e": 653.62, "en": "Let's go this way.", "vi": "Đi đường này nè.", "s": 647.71},
     {
       "e": 665.98,
       "en": "Come on, Philippe, it's a shortcut.",
-      "vi": "Ði nào, Philippe, đó là đường tắt.",
+      "vi": "Đi nào, Philippe, đó là đường tắt.",
       "s": 653.62
     },
     {
@@ -891,7 +891,7 @@
     {
       "e": 715.83,
       "en": "Back up, back up, back up! Good boy, good boy. That's it. Back up!",
-      "vi": "Lùi lại, lùi lại, lùi lại! Giỏi lắm nhóc, giỏi lắm nhóc! Ðúng thế. Lùi lại!",
+      "vi": "Lùi lại, lùi lại, lùi lại! Giỏi lắm nhóc, giỏi lắm nhóc! Đúng thế. Lùi lại!",
       "s": 708.32
     },
     {"e": 717.78, "en": "Steady, steady.", "vi": "Yên nào, yên nào.", "s": 715.83},
@@ -947,8 +947,8 @@
       "s": 822.29
     },
     {"e": 826.79, "en": "Who said that?", "vi": "Ai nói thế?", "s": 825.59},
-    {"e": 828.53, "en": "Over here.", "vi": "Ðằng này.", "s": 826.79},
-    {"e": 829.71, "en": "Where?", "vi": "Ðâu?", "s": 828.53},
+    {"e": 828.53, "en": "Over here.", "vi": "Đằng này.", "s": 826.79},
+    {"e": 829.71, "en": "Where?", "vi": "Đâu?", "s": 828.53},
     {"e": 831.4, "en": "Allo.", "vi": "Xin chào.", "s": 829.71},
     {"e": 836.12, "en": "Incredible.", "vi": "Không thể tin được", "s": 831.4},
     {
@@ -990,7 +990,7 @@
     {
       "e": 873.09,
       "en": "Come, warm yourself by the fire.",
-      "vi": "Ðến lò sưởi cho ấm.",
+      "vi": "Đến lò sưởi cho ấm.",
       "s": 871.02
     },
     {"e": 873.94, "en": "Thank you.", "vi": "Cám ơn.", "s": 873.09},
@@ -1013,7 +1013,7 @@
     {"e": 889.84, "en": "I am not seeing this!", "vi": "Tôi có thấy gì đâu!", "s": 888.41},
     {"e": 892.52, "en": "Well, hello there, boy.", "vi": "Xin chào.", "s": 889.84},
     {"e": 899.18, "en": "What service.", "vi": "Phục vụ kiểu gì vậy.", "s": 892.52},
-    {"e": 900.73, "en": "All right, this has gone far enough.", "vi": "Ðủ rồi đấy.", "s": 899.18},
+    {"e": 900.73, "en": "All right, this has gone far enough.", "vi": "Đủ rồi đấy.", "s": 899.18},
     {"e": 902.57, "en": "I'm in charge here.", "vi": "Tôi có trách nhiệm ở đây.", "s": 900.73},
     {
       "e": 905.33,
@@ -1137,7 +1137,7 @@
     {
       "e": 997.61,
       "en": "But first I'd better go in there and propose to the girl.",
-      "vi": "Ðầu tiên ta nên vào đó và cầu hôn nàng.",
+      "vi": "Đầu tiên ta nên vào đó và cầu hôn nàng.",
       "s": 994.19
     },
     {
@@ -1193,7 +1193,7 @@
     {
       "e": 1046.68,
       "en": "Plenty. Here, picture this:",
-      "vi": "Tuyệt vời! Ðây, hình dung xem:",
+      "vi": "Tuyệt vời! Đây, hình dung xem:",
       "s": 1044.25
     },
     {
@@ -1241,7 +1241,7 @@
       "vi": "Nàng có biết ai là người vợ bé nhỏ đó không?",
       "s": 1063.77
     },
-    {"e": 1066.08, "en": "Let me think.", "vi": "Ðể tôi nghĩ xem.", "s": 1065.12},
+    {"e": 1066.08, "en": "Let me think.", "vi": "Để tôi nghĩ xem.", "s": 1065.12},
     {"e": 1067.08, "en": "You, Belle.", "vi": "Nàng đó, Belle.", "s": 1066.08},
     {
       "e": 1071.05,
@@ -1278,7 +1278,7 @@
     {
       "e": 1103.03,
       "en": "Make no mistake about that!",
-      "vi": "Ðừng nghi ngờ về điều đó!",
+      "vi": "Đừng nghi ngờ về điều đó!",
       "s": 1100.17
     },
     {"e": 1105.37, "en": "Touchy.", "vi": "Giận cá chém thớt!", "s": 1103.03},
@@ -1398,7 +1398,7 @@
       "vi": "Thật mà mẹ ơi, con thấy cô ấy.",
       "s": 1239.21
     },
-    {"e": 1242.21, "en": "Not another word.", "vi": "Ðừng nói nữa.", "s": 1241.4},
+    {"e": 1242.21, "en": "Not another word.", "vi": "Đừng nói nữa.", "s": 1241.4},
     {"e": 1243.24, "en": "Into the tub.", "vi": "Vào tắm.", "s": 1242.21},
     {
       "e": 1246.62,
@@ -1431,13 +1431,13 @@
       "vi": "Cô ấy tới để giải câu thần chú!",
       "s": 1265.23
     },
-    {"e": 1268.22, "en": "Wait a minute! Wait a minute!", "vi": "Ðợi chút! đợi chút!", "s": 1266.99},
+    {"e": 1268.22, "en": "Wait a minute! Wait a minute!", "vi": "Đợi chút! đợi chút!", "s": 1266.99},
     {"e": 1278.79, "en": "Papa? Papa? Hello?", "vi": "Cha ơi? Cha ơi? Xin chào?", "s": 1268.22},
     {"e": 1279.9, "en": "Is someone here?", "vi": "Có ai ở đây không?", "s": 1278.79},
     {
       "e": 1283.5,
       "en": "Wait! I'm looking for my father. I...",
-      "vi": "Ðợi đã! Tôi đang tìm cha tôi.",
+      "vi": "Đợi đã! Tôi đang tìm cha tôi.",
       "s": 1279.9
     },
     {"e": 1287.39, "en": "That's funny.", "vi": "Vui thật.", "s": 1283.5},
@@ -1521,7 +1521,7 @@
       "vi": "Chắc chắn phải có cách nào chứ...",
       "s": 1327.62
     },
-    {"e": 1335.32, "en": "Wait!", "vi": "Ðợi đã!", "s": 1329.68},
+    {"e": 1335.32, "en": "Wait!", "vi": "Đợi đã!", "s": 1329.68},
     {"e": 1338.18, "en": "Take me instead.", "vi": "Hãy bắt tôi thay.", "s": 1335.32},
     {"e": 1339.24, "en": "You?!", "vi": "Ngươi?", "s": 1338.18},
     {"e": 1342.34, "en": "You would...", "vi": "Ngươi sẽ...", "s": 1339.24},
@@ -1561,9 +1561,9 @@
       "vi": "Không, Belle, nghe cha nói. Cha già rồi, cha đã sống trọn cuộc đời.",
       "s": 1380.4
     },
-    {"e": 1384.52, "en": "Wait.", "vi": "Ðợi đã.", "s": 1383.56},
+    {"e": 1384.52, "en": "Wait.", "vi": "Đợi đã.", "s": 1383.56},
     {"e": 1385.19, "en": "Belle!", "vi": "Belle!", "s": 1384.52},
-    {"e": 1386.47, "en": "Wait!", "vi": "Ðợi đã!", "s": 1385.19},
+    {"e": 1386.47, "en": "Wait!", "vi": "Đợi đã!", "s": 1385.19},
     {
       "e": 1389.46,
       "en": "No, please spare my daughter.",
@@ -1577,7 +1577,7 @@
       "vi": "Cô ấy không còn thuộc về ông nữa.",
       "s": 1390.05
     },
-    {"e": 1393.75, "en": "Take him to the village.", "vi": "Ðưa ông ta về làng.", "s": 1391.96},
+    {"e": 1393.75, "en": "Take him to the village.", "vi": "Đưa ông ta về làng.", "s": 1391.96},
     {
       "e": 1405.32,
       "en": "Please let me out! Let me out! Please! Oh, please!",
@@ -1678,7 +1678,7 @@
       "vi": "Cô sẽ đến ăn tối với tôi.",
       "s": 1484.77
     },
-    {"e": 1506.99, "en": "That's not a request!", "vi": "Ðó không phải là yêu cầu!", "s": 1488.23},
+    {"e": 1506.99, "en": "That's not a request!", "vi": "Đó không phải là yêu cầu!", "s": 1488.23},
     {
       "e": 1508.86,
       "en": "Who does she think she is?",
@@ -1712,7 +1712,7 @@
       "s": 1518.54
     },
     {"e": 1521.33, "en": "More beer?", "vi": "Rót bia?", "s": 1520.57},
-    {"e": 1522.3, "en": "What for?", "vi": "Ðể làm gì?", "s": 1521.33},
+    {"e": 1522.3, "en": "What for?", "vi": "Để làm gì?", "s": 1521.33},
     {"e": 1523.55, "en": "Nothing helps.", "vi": "Chẳng ích gì.", "s": 1522.3},
     {"e": 1525.09, "en": "I'm disgraced.", "vi": "Ta bị làm bẽ mặt.", "s": 1523.55},
     {"e": 1526.14, "en": "Who, you?", "vi": "Ai, anh ư?", "s": 1525.09},
@@ -1843,7 +1843,7 @@
       "s": 1603.99
     },
     {"e": 1612.07, "en": "No... one...", "vi": "Không ai", "s": 1608.57},
-    {"e": 1613.53, "en": "Fights like Gaston", "vi": "Ðánh nhau như Gaston", "s": 1612.07},
+    {"e": 1613.53, "en": "Fights like Gaston", "vi": "Đánh nhau như Gaston", "s": 1612.07},
     {"e": 1615.12, "en": "Douses lights like Gaston", "vi": "Tỏa sáng như Gaston", "s": 1613.53},
     {
       "e": 1618.28,
@@ -1869,7 +1869,7 @@
       "vi": "Không có một chút thô kệch và gầy yếu",
       "s": 1624.55
     },
-    {"e": 1628.21, "en": "That's right", "vi": "Ðúng thế", "s": 1627.46},
+    {"e": 1628.21, "en": "That's right", "vi": "Đúng thế", "s": 1627.46},
     {
       "e": 1631.31,
       "en": "And every last inch of me's covered with hair",
@@ -1880,7 +1880,7 @@
     {
       "e": 1634.47,
       "en": "Matches wits like Gaston",
-      "vi": "Ðánh cờ thông minh như Gaston",
+      "vi": "Đánh cờ thông minh như Gaston",
       "s": 1632.84
     },
     {
@@ -1895,7 +1895,7 @@
       "vi": "Ta đặc biệt giỏi môn khạc nhổ... phụt!",
       "s": 1637.72
     },
-    {"e": 1643.7, "en": "Ten points for Gaston!", "vi": "Ðiểm 10 cho Gaston!", "s": 1641.91},
+    {"e": 1643.7, "en": "Ten points for Gaston!", "vi": "Điểm 10 cho Gaston!", "s": 1641.91},
     {
       "e": 1647.4,
       "en": "When I was a lad I ate four dozen eggs",
@@ -1929,7 +1929,7 @@
     {
       "e": 1669.15,
       "en": "Then goes tromping around wearing boots like Gaston",
-      "vi": "Ði vang dội trên đôi giầy như Gaston",
+      "vi": "Đi vang dội trên đôi giầy như Gaston",
       "s": 1665.88
     },
     {
@@ -1991,7 +1991,7 @@
     },
     {"e": 1716.65, "en": "Yes, yes.", "vi": "Phải phải.", "s": 1715.48},
     {"e": 1717.52, "en": "Will you help me?", "vi": "Các anh sẽ giúp tôi chứ?", "s": 1716.65},
-    {"e": 1718.9, "en": "All right, old man.", "vi": "Ðược rồi, lão già.", "s": 1717.52},
+    {"e": 1718.9, "en": "All right, old man.", "vi": "Được rồi, lão già.", "s": 1717.52},
     {"e": 1720.11, "en": "We'll help you out.", "vi": "Chúng tôi sẽ giúp ông.", "s": 1718.9},
     {"e": 1721.13, "en": "You will?", "vi": "Thật à?", "s": 1720.11},
     {
@@ -2026,7 +2026,7 @@
     {
       "e": 1751.39,
       "en": "And his sanity's only so-so",
-      "vi": "Ðầu óc ông ta chỉ vừa vừa",
+      "vi": "Đầu óc ông ta chỉ vừa vừa",
       "s": 1748.23
     },
     {
@@ -2060,7 +2060,7 @@
     {
       "e": 1774.2,
       "en": "Guess! Now I get it! Let's go!",
-      "vi": "Ðoán xem! Giờ tôi hiểu rồi! Ði thôi!",
+      "vi": "Đoán xem! Giờ tôi hiểu rồi! Đi thôi!",
       "s": 1770.03
     },
     {
@@ -2079,7 +2079,7 @@
     {
       "e": 1788.78,
       "en": "So his marriage we soon will be celebrating",
-      "vi": "Ðám cưới của anh ấy chúng ta sẽ sớm ăn mừng",
+      "vi": "Đám cưới của anh ấy chúng ta sẽ sớm ăn mừng",
       "s": 1783.38
     },
     {"e": 1790.72, "en": "My, what a guy!", "vi": "Anh chàng của chúng tôi!", "s": 1788.78},
@@ -2112,11 +2112,11 @@
     {
       "e": 1828.44,
       "en": "All right, Chip, now, that'll do.",
-      "vi": "Ðược rồi, Chip. tất nhiên rồi.",
+      "vi": "Được rồi, Chip. tất nhiên rồi.",
       "s": 1826.54
     },
     {"e": 1830.07, "en": "Slowly now.", "vi": "Chậm thôi nhé.", "s": 1828.44},
-    {"e": 1831.08, "en": "Don't spill.", "vi": "Ðừng đánh đổ ra ngoài.", "s": 1830.07},
+    {"e": 1831.08, "en": "Don't spill.", "vi": "Đừng đánh đổ ra ngoài.", "s": 1830.07},
     {"e": 1833.04, "en": "Thank you.", "vi": "Cám ơn.", "s": 1831.08},
     {
       "e": 1835.28,
@@ -2129,7 +2129,7 @@
     {
       "e": 1842.48,
       "en": "That was a very brave thing you did, my dear.",
-      "vi": "Ðiều cô làm rất dũng cảm.",
+      "vi": "Điều cô làm rất dũng cảm.",
       "s": 1840.19
     },
     {"e": 1843.76, "en": "We all think so.", "vi": "Tất cả chúng tôi đều nghĩ thế.", "s": 1842.48},
@@ -2169,7 +2169,7 @@
       "s": 1862.9
     },
     {"e": 1868.22, "en": "Ooh! How embarrassing.", "vi": "Ôi, ngượng quá!", "s": 1865.46},
-    {"e": 1871.77, "en": "Ah, here we are.", "vi": "Ahem. Ðây rồi!", "s": 1868.22},
+    {"e": 1871.77, "en": "Ah, here we are.", "vi": "Ahem. Đây rồi!", "s": 1868.22},
     {
       "e": 1873.86,
       "en": "You'll look ravishing in this one.",
@@ -2228,7 +2228,7 @@
     {
       "e": 1911.99,
       "en": "We'll be human again by midnight.",
-      "vi": "Ðến nửa đêm, chúng ta sẽ lại trở lại thành người.",
+      "vi": "Đến nửa đêm, chúng ta sẽ lại trở lại thành người.",
       "s": 1910.36
     },
     {
@@ -2264,7 +2264,7 @@
       "vi": "Vâng, ngài có thể bắt đầu bằng việc làm cho bản thân chỉnh tề hơn.",
       "s": 1929.5
     },
-    {"e": 1933.49, "en": "Straighten up.", "vi": "Ðứng thẳng dậy.", "s": 1932.61},
+    {"e": 1933.49, "en": "Straighten up.", "vi": "Đứng thẳng dậy.", "s": 1932.61},
     {
       "e": 1935.08,
       "en": "Try to act like a gentleman.",
@@ -2331,7 +2331,7 @@
     {
       "e": 1983.2,
       "en": "But, Your Grace...! Your Eminence!",
-      "vi": "Ôi đức ngài! Ðấng tối cao của tôi! Ðừng nóng vội!",
+      "vi": "Ôi đức ngài! Đấng tối cao của tôi! Đừng nóng vội!",
       "s": 1975.72
     },
     {
@@ -2393,7 +2393,7 @@
     {
       "e": 2028.5,
       "en": "Fine. Then go ahead and starve!",
-      "vi": "Ðược rồi. Cứ làm đi rồi chết đói!",
+      "vi": "Được rồi. Cứ làm đi rồi chết đói!",
       "s": 2024.22
     },
     {
@@ -2523,7 +2523,7 @@
     {
       "e": 2140.05,
       "en": "It's been a long night for all of us.",
-      "vi": "Ðây là một đêm dài với tất cả chúng ta.",
+      "vi": "Đây là một đêm dài với tất cả chúng ta.",
       "s": 2138.11
     },
     {
@@ -2550,7 +2550,7 @@
       "vi": "Tôi là Cogsworth, quản gia.",
       "s": 2151.26
     },
-    {"e": 2157.21, "en": "This is Lumiere.", "vi": "Ðây là Lumiere.", "s": 2154.07},
+    {"e": 2157.21, "en": "This is Lumiere.", "vi": "Đây là Lumiere.", "s": 2154.07},
     {"e": 2159.42, "en": "Enchante, cherie.", "vi": "Hân hạnh làm quen.", "s": 2157.21},
     {"e": 2160.8, "en": "If there's... Stop that!", "vi": "Nếu có... Dừng lại!", "s": 2159.42},
     {
@@ -2593,7 +2593,7 @@
       "vi": "Gớm khiếp. Tôi sẽ không để cô bé tội nghệp này phải đói.",
       "s": 2175.32
     },
-    {"e": 2179.6, "en": "All right, fine.", "vi": "Ðược rồi.", "s": 2178.24},
+    {"e": 2179.6, "en": "All right, fine.", "vi": "Được rồi.", "s": 2178.24},
     {
       "e": 2181.19,
       "en": "Glass of water, crust of bread, and then...",
@@ -2772,7 +2772,7 @@
     },
     {"e": 2283.65, "en": "Come on and lift your glass", "vi": "Nào hãy nâng cốc lên", "s": 2281.36},
     {"e": 2285.56, "en": "You've won your own free pass", "vi": "Cô được tự do", "s": 2283.65},
-    {"e": 2286.69, "en": "To be our guest...", "vi": "Ðể làm khách mời của chúng tôi", "s": 2285.56},
+    {"e": 2286.69, "en": "To be our guest...", "vi": "Để làm khách mời của chúng tôi", "s": 2285.56},
     {"e": 2287.79, "en": "If you're stressed", "vi": "Nếu cô mệt mỏi", "s": 2286.69},
     {
       "e": 2289.81,
@@ -2919,13 +2919,13 @@
     {
       "e": 2364.91,
       "en": "People, fun's over, over here, line up...",
-      "vi": "Ði nào, mọi người, hãy vui lên...",
+      "vi": "Đi nào, mọi người, hãy vui lên...",
       "s": 2361.91
     },
     {
       "e": 2368.35,
       "en": "It's ten years since we've had anybody here and we're obsessed",
-      "vi": "Ðã 10 năm kể từ lúc chúng tôi không gặp ai và chúng tôi rất cảm kích",
+      "vi": "Đã 10 năm kể từ lúc chúng tôi không gặp ai và chúng tôi rất cảm kích",
       "s": 2364.91
     },
     {
@@ -2949,7 +2949,7 @@
     {
       "e": 2378.94,
       "en": "Let us help you, we'll keep going",
-      "vi": "Ðể chúng tôi giúp cô, chúng tôi sẽ tiếp tục",
+      "vi": "Để chúng tôi giúp cô, chúng tôi sẽ tiếp tục",
       "s": 2374.81
     },
     {"e": 2383.31, "en": "Course... by... course", "vi": "Từng món... từng món", "s": 2378.94},
@@ -2957,7 +2957,7 @@
     {
       "e": 2388.1,
       "en": "Till you shout, \"Enough, I'm done!\"",
-      "vi": "Cho đến khi cô nói, \"Ðủ rồi, tôi no rồi!\"",
+      "vi": "Cho đến khi cô nói, \"Đủ rồi, tôi no rồi!\"",
       "s": 2385.5
     },
     {
@@ -2969,7 +2969,7 @@
     {
       "e": 2398.88,
       "en": "Tonight you'll prop your feet up. But for now, let's eat up. Be our guest, be our guest.",
-      "vi": "Ðêm nay cô sẽ no nê. Nhưng bây giờ hãy ăn thôi. Hãy là khách của chúng tôi, là khách của chúng tôi.",
+      "vi": "Đêm nay cô sẽ no nê. Nhưng bây giờ hãy ăn thôi. Hãy là khách của chúng tôi, là khách của chúng tôi.",
       "s": 2391.96
     },
     {
@@ -3010,7 +3010,7 @@
     {
       "e": 2430.07,
       "en": "It's my first time in an enchanted castle.",
-      "vi": "Ðây là đầu tiên tôi ở trong một lâu đài thần tiên.",
+      "vi": "Đây là đầu tiên tôi ở trong một lâu đài thần tiên.",
       "s": 2427.87
     },
     {"e": 2431.24, "en": "Enchanted!", "vi": "Thần tiên!", "s": 2430.07},
@@ -3020,7 +3020,7 @@
       "vi": "Ai nói gì đó về lâu đài thần tiên phải không?",
       "s": 2431.24
     },
-    {"e": 2436.41, "en": "It was you, wasn't it?", "vi": "Ðó là cậu, phải không?", "s": 2435.12},
+    {"e": 2436.41, "en": "It was you, wasn't it?", "vi": "Đó là cậu, phải không?", "s": 2435.12},
     {"e": 2438.69, "en": "I figured it out for myself.", "vi": "Tôi tự hiểu ra đó.", "s": 2436.41},
     {
       "e": 2442.99,
@@ -3034,7 +3034,7 @@
       "vi": "Cô muốn dạo một vòng không?",
       "s": 2442.99
     },
-    {"e": 2445.97, "en": "Wait a second, wait a second.", "vi": "Ðợi chút, đợi chút.", "s": 2444.62},
+    {"e": 2445.97, "en": "Wait a second, wait a second.", "vi": "Đợi chút, đợi chút.", "s": 2444.62},
     {
       "e": 2448.23,
       "en": "I'm not sure that's such a good idea.",
@@ -3076,13 +3076,13 @@
     {
       "e": 2472.08,
       "en": "Note the unusual inverted vaulted ceilings.",
-      "vi": "Ðể ý những chùm nến treo ngược trên trần.",
+      "vi": "Để ý những chùm nến treo ngược trên trần.",
       "s": 2469.6
     },
     {
       "e": 2475.95,
       "en": "This is yet another example of the late neoclassic baroque period.",
-      "vi": "Ðó là một thí dụ khác của nghệ thuật Barốc thời kỳ phục hưng",
+      "vi": "Đó là một thí dụ khác của nghệ thuật Barốc thời kỳ phục hưng",
       "s": 2472.08
     },
     {"e": 2477.35, "en": "and, as I always say", "vi": "và như tôi luôn nói", "s": 2475.95},
@@ -3104,7 +3104,7 @@
     {
       "e": 2500.04,
       "en": "Where? There? Oh, nothing.",
-      "vi": "Ðâu? Trên đó à? Không có gì.",
+      "vi": "Đâu? Trên đó à? Không có gì.",
       "s": 2498.45
     },
     {
@@ -3168,7 +3168,7 @@
     {
       "e": 2531.88,
       "en": "Yes, oh, indeed. With books. Scads of books!",
-      "vi": "Vâng! Ðúng thế. Với nhiều sách. Một lượng sách khổng lồ!",
+      "vi": "Vâng! Đúng thế. Với nhiều sách. Một lượng sách khổng lồ!",
       "s": 2528.01
     },
     {"e": 2533.05, "en": "Mountains of books!", "vi": "Hàng núi sách!", "s": 2531.88},
@@ -3204,9 +3204,9 @@
       "s": 2646.67
     },
     {"e": 2651.48, "en": "Please, stop.", "vi": "Xin đừng!", "s": 2649.66},
-    {"e": 2652.97, "en": "Get out!", "vi": "Ði ra ngoài!", "s": 2651.48},
+    {"e": 2652.97, "en": "Get out!", "vi": "Đi ra ngoài!", "s": 2651.48},
     {"e": 2653.95, "en": "No!", "vi": "Không!", "s": 2652.97},
-    {"e": 2669.29, "en": "Get... out!", "vi": "Ði ra ngoài!", "s": 2653.95},
+    {"e": 2669.29, "en": "Get... out!", "vi": "Đi ra ngoài!", "s": 2653.95},
     {"e": 2670.72, "en": "Where are you going?", "vi": "Cô đi đâu thế?", "s": 2669.29},
     {
       "e": 2672.01,
@@ -3221,12 +3221,12 @@
       "s": 2672.01
     },
     {"e": 2675.4, "en": "Oh, no, wait, please.", "vi": "Không, đợi đã, xin cô.", "s": 2673.76},
-    {"e": 2677.64, "en": "Please wait.", "vi": "Ðợi đã.", "s": 2675.4},
+    {"e": 2677.64, "en": "Please wait.", "vi": "Đợi đã.", "s": 2675.4},
     {"e": 2816.86, "en": "Oh.", "vi": "ôi.", "s": 2677.64},
-    {"e": 2818.7, "en": "Here now.", "vi": "Ðây.", "s": 2816.86},
+    {"e": 2818.7, "en": "Here now.", "vi": "Đây.", "s": 2816.86},
     {"e": 2822.1, "en": "Oh, don't do that.", "vi": "Oh, đừng làm thế.", "s": 2818.7},
-    {"e": 2825.6, "en": "Just hold still.", "vi": "Ðể yên.", "s": 2822.1},
-    {"e": 2828.25, "en": "That hurts!", "vi": "Ðau!", "s": 2825.6},
+    {"e": 2825.6, "en": "Just hold still.", "vi": "Để yên.", "s": 2822.1},
+    {"e": 2828.25, "en": "That hurts!", "vi": "Đau!", "s": 2825.6},
     {
       "e": 2830.25,
       "en": "If you'd hold still, it wouldn't hurt as much!",
@@ -3288,7 +3288,7 @@
       "vi": "nhưng cô ấy cần một chút lòng tin.",
       "s": 2881.63
     },
-    {"e": 2886.95, "en": "Turned him down flat.", "vi": "Ðá anh ấy ra khỏi cửa.", "s": 2884.97},
+    {"e": 2886.95, "en": "Turned him down flat.", "vi": "Đá anh ấy ra khỏi cửa.", "s": 2884.97},
     {
       "e": 2890.12,
       "en": "Everyone knows her father's a lunatic.",
@@ -3415,7 +3415,7 @@
       "vi": "Thứ gì đó đánh thức niềm vui của cô ấy.",
       "s": 2996.75
     },
-    {"e": 3000.16, "en": "Wait a minute!", "vi": "Ðợi một lát!", "s": 2999.26},
+    {"e": 3000.16, "en": "Wait a minute!", "vi": "Đợi một lát!", "s": 2999.26},
     {
       "e": 3006.21,
       "en": "Belle, there's something I want to show you.",
@@ -3431,9 +3431,9 @@
     {"e": 3014.44, "en": "It's a surprise.", "vi": "Sẽ là một bất ngờ.", "s": 3011.16},
     {"e": 3025.57, "en": "Can I open them?", "vi": "Tôi mở mắt được chưa?", "s": 3014.44},
     {"e": 3027.46, "en": "No, no. Not yet.", "vi": "Không, không. Chưa đâu.", "s": 3025.57},
-    {"e": 3029.66, "en": "Wait here.", "vi": "Ðợi ở đây.", "s": 3027.46},
+    {"e": 3029.66, "en": "Wait here.", "vi": "Đợi ở đây.", "s": 3027.46},
     {"e": 3036.5, "en": "Now can I open them?", "vi": "Giờ thì tôi mở mắt được chưa?", "s": 3029.66},
-    {"e": 3037.42, "en": "All right.", "vi": "Ðược rồi.", "s": 3036.5},
+    {"e": 3037.42, "en": "All right.", "vi": "Được rồi.", "s": 3036.5},
     {"e": 3046.16, "en": "Now.", "vi": "Nào.", "s": 3037.42},
     {"e": 3048.95, "en": "I can't believe it!", "vi": "Không thể tin được!", "s": 3046.16},
     {
@@ -3455,12 +3455,12 @@
     {"e": 3062.14, "en": "I knew it would work.", "vi": "Tôi biết nó có hiệu quả mà.", "s": 3060.88},
     {"e": 3063.84, "en": "What? What worked?", "vi": "Cái gì? Cái gì có hiệu quả?", "s": 3062.14},
     {"e": 3066.5, "en": "It's very encouraging.", "vi": "Rất mạnh mẽ đó.", "s": 3063.84},
-    {"e": 3067.79, "en": "Isn't this exciting?", "vi": "Ðiều đó không thú vị sao?", "s": 3066.5},
+    {"e": 3067.79, "en": "Isn't this exciting?", "vi": "Điều đó không thú vị sao?", "s": 3066.5},
     {"e": 3069.3, "en": "I didn't see anything.", "vi": "Con chẳng thấy gì cả.", "s": 3067.79},
     {
       "e": 3071.93,
       "en": "Come along, Chip. There's chores to be done in the kitchen.",
-      "vi": "Ði nào, Chip. Có rất nhiều việc phải làm trong bếp.",
+      "vi": "Đi nào, Chip. Có rất nhiều việc phải làm trong bếp.",
       "s": 3069.3
     },
     {
@@ -3552,7 +3552,7 @@
     {
       "e": 3202.31,
       "en": "It's so peculiar. We'll wait and see.",
-      "vi": "Ðầy kịch tính. Chúng ta sẽ chờ xem.",
+      "vi": "Đầy kịch tính. Chúng ta sẽ chờ xem.",
       "s": 3200.38
     },
     {"e": 3204.37, "en": "A few days more", "vi": "Vài ngày nữa", "s": 3202.31},
@@ -3624,7 +3624,7 @@
     {
       "e": 3257.78,
       "en": "Half of you to the east wing.",
-      "vi": "Nửa số đến cửa Ðông.",
+      "vi": "Nửa số đến cửa Đông.",
       "s": 3256.23
     },
     {
@@ -3648,13 +3648,13 @@
     {
       "e": 3275.05,
       "en": "Yes, but there's no harm in fanning the flames. You know... a little.",
-      "vi": "Ðúng thế! Nhưng như thế cũng chẳng hại gì. Bạn biết đấy... chỉ chút ít thôi mà.",
+      "vi": "Đúng thế! Nhưng như thế cũng chẳng hại gì. Bạn biết đấy... chỉ chút ít thôi mà.",
       "s": 3270.6
     },
     {
       "e": 3279.06,
       "en": "Besides, they must fall in love tonight if we ever expect to be human again.",
-      "vi": "Ngoài việc họ yêu. Ðêm nay không biết chúng ta có được trở lại làm người không.",
+      "vi": "Ngoài việc họ yêu. Đêm nay không biết chúng ta có được trở lại làm người không.",
       "s": 3275.05
     },
     {"e": 3280.9, "en": "Ah, human again.", "vi": "Trở lại làm người.", "s": 3279.06},
@@ -3866,7 +3866,7 @@
     {
       "e": 3412.15,
       "en": "Put these here, and put those over there",
-      "vi": "Ðặt cái này ở đây và cái kia ở kia",
+      "vi": "Đặt cái này ở đây và cái kia ở kia",
       "s": 3408.88
     },
     {
@@ -3954,7 +3954,7 @@
     {"e": 3480.1, "en": "It's just been so long.", "vi": "Chỉ là lâu lắm rồi...", "s": 3477.13},
     {"e": 3481.77, "en": "Well, here, I'll help you.", "vi": "Ồ, đây, tôi giúp cho.", "s": 3480.1},
     {"e": 3483.98, "en": "Let's start here.", "vi": "Hãy bắt đầu từ đây.", "s": 3481.77},
-    {"e": 3485.08, "en": "Here.", "vi": "Ðây.", "s": 3483.98},
+    {"e": 3485.08, "en": "Here.", "vi": "Đây.", "s": 3483.98},
     {"e": 3488.41, "en": "Okay, \"Twoe...\"", "vi": "ờ, \"hai...\"", "s": 3485.08},
     {"e": 3488.86, "en": "\"Two.\"", "vi": "\"Hai.\"", "s": 3488.41},
     {"e": 3490.58, "en": "\"Two... I knew that.", "vi": "\"hai... Tôi biết rồi.\"", "s": 3488.86},
@@ -4017,7 +4017,7 @@
       "vi": "Và tất cả chúng ta sẽ trở lại thành người.",
       "s": 3524.57
     },
-    {"e": 3549.43, "en": "Tonight is the night.", "vi": "Ðêm nay là đêm quyết định.", "s": 3547.71},
+    {"e": 3549.43, "en": "Tonight is the night.", "vi": "Đêm nay là đêm quyết định.", "s": 3547.71},
     {
       "e": 3553.39,
       "en": "I'm not sure I can do this.",
@@ -4108,7 +4108,7 @@
     {
       "e": 3692.44,
       "en": "Bittersweet and strange",
-      "vi": "Ðắng cay ngọt bùi và li kỳ",
+      "vi": "Đắng cay ngọt bùi và li kỳ",
       "s": 3687.68
     },
     {"e": 3694.74, "en": "Finding you can change", "vi": "khiến bạn thay đổi", "s": 3692.44},
@@ -4221,7 +4221,7 @@
     {
       "e": 3866.26,
       "en": "Well, Your Highness, I must say everything is going just swimmingly.",
-      "vi": "Ðức ngài, tôi phải nói rằng mọi thứ thuận buồm xuôi gió.",
+      "vi": "Đức ngài, tôi phải nói rằng mọi thứ thuận buồm xuôi gió.",
       "s": 3853.54
     },
     {
@@ -4347,7 +4347,7 @@
       "s": 3984.14
     },
     {"e": 3987.5, "en": "My father?", "vi": "Cha cháu?", "s": 3986.68},
-    {"e": 3989.1, "en": "Don't worry, Mademoiselle.", "vi": "Ðừng lo lắng, tiểu thư.", "s": 3987.5},
+    {"e": 3989.1, "en": "Don't worry, Mademoiselle.", "vi": "Đừng lo lắng, tiểu thư.", "s": 3987.5},
     {
       "e": 3991.6,
       "en": "We'll take good care of him.",
@@ -4408,10 +4408,10 @@
     {
       "e": 4023.49,
       "en": "It's true, I tell you.",
-      "vi": "Ðó là sự thật, tôi nói thật mà.",
+      "vi": "Đó là sự thật, tôi nói thật mà.",
       "s": 4021.04
     },
-    {"e": 4025.93, "en": "Get him out of here.", "vi": "Ðưa ông ta ra khỏi đây.", "s": 4023.49},
+    {"e": 4025.93, "en": "Get him out of here.", "vi": "Đưa ông ta ra khỏi đây.", "s": 4023.49},
     {"e": 4027.04, "en": "Let go of me.", "vi": "Buông tôi ra.", "s": 4025.93},
     {
       "e": 4029.34,
@@ -4548,7 +4548,7 @@
     {
       "e": 4111.49,
       "en": "So it's time to take some action, boys. It's time to follow me",
-      "vi": "Vì thế đây là lúc cần hành động các chàng trai. Ðến lúc mọi người phải theo ta.",
+      "vi": "Vì thế đây là lúc cần hành động các chàng trai. Đến lúc mọi người phải theo ta.",
       "s": 4101.29
     },
     {
@@ -4590,7 +4590,7 @@
     {
       "e": 4130.23,
       "en": "Massive paws, killer claws for the feast",
-      "vi": "Ðôi tay to lớn, móng vuốt chết người đầy sát khí",
+      "vi": "Đôi tay to lớn, móng vuốt chết người đầy sát khí",
       "s": 4127.14
     },
     {
@@ -4663,7 +4663,7 @@
     {
       "e": 4169.16,
       "en": "It's a beast, one as tall as a mountain",
-      "vi": "Ðó là con quái vật cao như ngọn núi",
+      "vi": "Đó là con quái vật cao như ngọn núi",
       "s": 4166.04
     },
     {
@@ -4697,7 +4697,7 @@
       "vi": "Con phải báo cho ông ấy.",
       "s": 4180.45
     },
-    {"e": 4184.19, "en": "This is all my fault.", "vi": "Ðây là lỗi của con.", "s": 4182.94},
+    {"e": 4184.19, "en": "This is all my fault.", "vi": "Đây là lỗi của con.", "s": 4182.94},
     {
       "e": 4186.22,
       "en": "Oh, Papa, what are we going to do?",
@@ -4797,7 +4797,7 @@
     {
       "e": 4251.64,
       "en": "-Pardon me, Master? -Leave me in peace.",
-      "vi": "- Xin thứ lỗi, thưa ngài. - Ðể ta yên.",
+      "vi": "- Xin thứ lỗi, thưa ngài. - Để ta yên.",
       "s": 4248.78
     },
     {
@@ -4819,7 +4819,7 @@
       "vi": "Lumiere, chúng ta phải làm gì đó.",
       "s": 4258.91
     },
-    {"e": 4263.16, "en": "Wait, I know.", "vi": "Ðợi đã, tôi biết rồi.", "s": 4261.48},
+    {"e": 4263.16, "en": "Wait, I know.", "vi": "Đợi đã, tôi biết rồi.", "s": 4261.48},
     {
       "e": 4269.52,
       "en": "What shall we do, Master?",
@@ -4842,7 +4842,7 @@
     {"e": 4278.01, "en": "Kill the Beast!", "vi": "Giết quái thú!", "s": 4276.25},
     {"e": 4310.46, "en": "Now!", "vi": "Nào!", "s": 4278.01},
     {"e": 4313.02, "en": "Yes!", "vi": "Phải!", "s": 4310.46},
-    {"e": 4319.92, "en": "Here we go.", "vi": "Ðến đây!", "s": 4313.02},
+    {"e": 4319.92, "en": "Here we go.", "vi": "Đến đây!", "s": 4313.02},
     {"e": 4322.15, "en": "What the devil?", "vi": "Cái quỷ gì thế này?", "s": 4319.92},
     {"e": 4329.35, "en": "Belle, look out!", "vi": "Belle, coi chừng!", "s": 4322.15},
     {
@@ -4860,8 +4860,8 @@
     {"e": 4408.7, "en": "Ah!", "vi": "A!", "s": 4342.69},
     {"e": 4410.91, "en": "And stay out!", "vi": "Biến đi!", "s": 4408.7},
     {"e": 4439.86, "en": "Ah!", "vi": "A!", "s": 4410.91},
-    {"e": 4441.09, "en": "Get up.", "vi": "Ðứng dậy.", "s": 4439.86},
-    {"e": 4443.89, "en": "Get up!", "vi": "Ðứng dậy.", "s": 4441.09},
+    {"e": 4441.09, "en": "Get up.", "vi": "Đứng dậy.", "s": 4439.86},
+    {"e": 4443.89, "en": "Get up!", "vi": "Đứng dậy.", "s": 4441.09},
     {"e": 4446.29, "en": "What's the matter, Beast?", "vi": "Mày sao thế, súc sinh?", "s": 4443.89},
     {
       "e": 4450.64,
@@ -4872,7 +4872,7 @@
     {"e": 4458.87, "en": "No!", "vi": "Không!", "s": 4450.64},
     {"e": 4462.68, "en": "Belle...", "vi": "Belle...", "s": 4458.87},
     {"e": 4465.02, "en": "No! Gaston, don't!", "vi": "Không, Gaston, đừng!", "s": 4462.68},
-    {"e": 4474.67, "en": "Let's go, Philippe.", "vi": "Ði thôi, Philippe.", "s": 4465.02},
+    {"e": 4474.67, "en": "Let's go, Philippe.", "vi": "Đi thôi, Philippe.", "s": 4465.02},
     {"e": 4495.68, "en": "Ah!", "vi": "A!", "s": 4474.67},
     {"e": 4498.49, "en": "Come on out and fight!", "vi": "Ra đây mà đánh!", "s": 4495.68},
     {
@@ -4895,11 +4895,11 @@
     },
     {"e": 4520.76, "en": "It's over, Beast.", "vi": "Kết thúc rồi, súc sinh.", "s": 4508.05},
     {"e": 4523.16, "en": "Belle is mine!", "vi": "Belle là của tao!", "s": 4520.76},
-    {"e": 4529.25, "en": "Let me go. Let me go.", "vi": "Ðể tôi đi! để tôi đi.", "s": 4523.16},
+    {"e": 4529.25, "en": "Let me go. Let me go.", "vi": "Để tôi đi! để tôi đi.", "s": 4523.16},
     {
       "e": 4531.12,
       "en": "Please, don't hurt me.",
-      "vi": "Ðừng làm hại tôi, xin đừng.",
+      "vi": "Đừng làm hại tôi, xin đừng.",
       "s": 4529.25
     },
     {"e": 4532.29, "en": "I'll do anything.", "vi": "Tôi sẽ làm mọi thứ.", "s": 4531.12},
@@ -4913,7 +4913,7 @@
     {"e": 4610.87, "en": "You... You came back.", "vi": "Nàng... Nàng đã quay lại.", "s": 4606.14},
     {"e": 4612.97, "en": "Of course I came back.", "vi": "Tất nhiên em quay lại.", "s": 4610.87},
     {"e": 4614.37, "en": "I couldn't let them...", "vi": "Em không thể để họ...", "s": 4612.97},
-    {"e": 4617.01, "en": "Oh, this is all my fault.", "vi": "Ðó là lỗi của em.", "s": 4614.37},
+    {"e": 4617.01, "en": "Oh, this is all my fault.", "vi": "Đó là lỗi của em.", "s": 4614.37},
     {
       "e": 4618.91,
       "en": "If only I'd gotten here sooner.",
@@ -4927,7 +4927,7 @@
       "s": 4618.91
     },
     {"e": 4623.41, "en": "it's better this way.", "vi": "Thế này chính ra lại hay.", "s": 4622.17},
-    {"e": 4625.03, "en": "Don't talk like that.", "vi": "Ðừng nói như thế.", "s": 4623.41},
+    {"e": 4625.03, "en": "Don't talk like that.", "vi": "Đừng nói như thế.", "s": 4623.41},
     {"e": 4626.97, "en": "You'll be all right.", "vi": "Ông sẽ qua khỏi mà.", "s": 4625.03},
     {
       "e": 4631.5,
@@ -4944,7 +4944,7 @@
     },
     {"e": 4640.25, "en": "one last time.", "vi": "lần cuối.", "s": 4637.33},
     {"e": 4652.46, "en": "No. No.", "vi": "Không. Không.", "s": 4640.25},
-    {"e": 4655.63, "en": "Please... Please...", "vi": "Xin đừng... Ðừng...", "s": 4652.46},
+    {"e": 4655.63, "en": "Please... Please...", "vi": "Xin đừng... Đừng...", "s": 4652.46},
     {"e": 4657.47, "en": "Please, don't leave me.", "vi": "Xin đừng bỏ em.", "s": 4655.63},
     {"e": 4662.36, "en": "I love you.", "vi": "Em yêu ông.", "s": 4657.47},
     {"e": 4756.38, "en": "hic.", "vi": "hic.", "s": 4662.36},
@@ -4958,7 +4958,7 @@
     {"e": 4816.74, "en": "Look at us.", "vi": "Nhìn chúng ta xem.", "s": 4814.04},
     {"e": 4818.76, "en": "Mama, Mama.", "vi": "Mẹ ơi! Mẹ ơi.", "s": 4816.74},
     {"e": 4823.7, "en": "My goodness.", "vi": "Ôi chúa ơi.", "s": 4818.76},
-    {"e": 4826.11, "en": "It is a miracle.", "vi": "Ðúng là kỳ diệu.", "s": 4823.7},
+    {"e": 4826.11, "en": "It is a miracle.", "vi": "Đúng là kỳ diệu.", "s": 4823.7},
     {"e": 4837.12, "en": "L'amour.", "vi": "Ah, đẹp ghê.", "s": 4826.11},
     {"e": 4843.24, "en": "Well, Lumiere, old friend.", "vi": "Lumiere, bạn cũ.", "s": 4837.12},
     {
@@ -4995,7 +4995,7 @@
     {
       "e": 4857.43,
       "en": "You most certainly did not! You pompous, paraffin-headed peabrain.",
-      "vi": "Chắc chắn ông không nói! Ðồ đại ngôn! Ðầu bã đậu!",
+      "vi": "Chắc chắn ông không nói! Đồ đại ngôn! Đầu bã đậu!",
       "s": 4853.81
     },
     {
@@ -5004,7 +5004,7 @@
       "vi": "Chỉnh tề vào, đồ đồng hồ quả quýt lớn quá khổ.",
       "s": 4857.43
     },
-    {"e": 4865.06, "en": "Take that.", "vi": "Ðỡ này.", "s": 4860.47},
+    {"e": 4865.06, "en": "Take that.", "vi": "Đỡ này.", "s": 4860.47},
     {
       "e": 4868.65,
       "en": "Are they going to live happily ever after, Mama?",
@@ -5074,12 +5074,12 @@
       "s": 5050.95
     },
     {"e": 5064.8, "en": "Tune as old as song", "vi": "Bài hát xưa như vần thơ", "s": 5058.21},
-    {"e": 5067.71, "en": "Bittersweet and strange", "vi": "Ðắng cay ngọt bùi và li kỳ", "s": 5064.8},
+    {"e": 5067.71, "en": "Bittersweet and strange", "vi": "Đắng cay ngọt bùi và li kỳ", "s": 5064.8},
     {"e": 5070.61, "en": "Finding you can change", "vi": "khiến bạn thay đổi", "s": 5067.71},
     {"e": 5076.34, "en": "Learning you were wrong", "vi": "Nhận ra cái sai của mình", "s": 5070.61},
     {"e": 5079.89, "en": "Certain as the sun", "vi": "Vững bền như mặt trời", "s": 5076.34},
     {"e": 5082.81, "en": "Certain as the sun", "vi": "Vững bền như mặt trời", "s": 5079.89},
-    {"e": 5085.78, "en": "Rising in the east", "vi": "Ló rạng ở đằng Ðông", "s": 5082.81},
+    {"e": 5085.78, "en": "Rising in the east", "vi": "Ló rạng ở đằng Đông", "s": 5082.81},
     {
       "e": 5088.87,
       "en": "Tale as old as time",

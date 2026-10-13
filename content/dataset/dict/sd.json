@@ -69,7 +69,7 @@
       {"k": "m", "t": "(tắt) ("},
       {
         "k": "ex",
-        "t": "SDLP) (chính trị) Ðảng Lao động Xã hội Dân chủ (Social and Democratic Labour Party",
+        "t": "SDLP) (chính trị) Đảng Lao động Xã hội Dân chủ (Social and Democratic Labour Party",
         "vi": ")."
       }
     ],
@@ -90,7 +90,7 @@
     "h": "sdp",
     "segs": [
       {"k": "m", "t": "(tắt) ("},
-      {"k": "ex", "t": "SDP) (chính trị) Ðảng Dân chủ Xã hội (Social Democratic Party", "vi": ")."}
+      {"k": "ex", "t": "SDP) (chính trị) Đảng Dân chủ Xã hội (Social Democratic Party", "vi": ")."}
     ],
     "ipa": ",es di: 'pi:",
     "k": "sdp"

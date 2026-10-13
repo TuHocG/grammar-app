@@ -21,7 +21,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "xyclic ,điểm xyclic. Trong mặt phẳng Ơclit quy về một hệ tọa độ Ðêcac thuần nhất, hai điểm (1, i, 0) và (1,-i, 0) gọi là hai điểm xyclic. Ðiều kiện cần và đủ để một cônic trở thành vòng tròn là nó đi qua hai điểm xyclic."
+        "t": "xyclic ,điểm xyclic. Trong mặt phẳng Ơclit quy về một hệ tọa độ Đêcac thuần nhất, hai điểm (1, i, 0) và (1,-i, 0) gọi là hai điểm xyclic. Điều kiện cần và đủ để một cônic trở thành vòng tròn là nó đi qua hai điểm xyclic."
       }
     ],
     "k": "xyclic points"
@@ -263,7 +263,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cuộc đàm phán giữa Mỹ và Pháp (1797-98). Ba đặc sứ X (Jean Conrad Hottinguer), Y (Bellamy, giám đốc ngân hàng bang Hamburg), và Z (Lucien Hauteval) thừa lệnh đến Pháp giải quyết tranh luận về việc quân đội Mỹ không thực hiện đúng thỏa hiệp giữa hai nước được ký kết năm 1778. Theo giao ước, Mỹ phải tích cực hỗ trợ Pháp trong cuộc đại cách mạng tư sản. Ðại biểu đoàn đàm phán là bà Villete, một người bạn thân của Bộ trưởng ngoại giao Pháp, ngài Talleyrand. Tuy nhiên, ông đã từ chối gặp bà Villete đồng thời bác bỏ ý định trợ cấp sau chiến tranh của Mỹ. Cuối cùng, vào ngày 30 tháng 9 năm 1800, tổng thống Adams chính thức tổ chức hội nghị Morterfontaine nhằm tiếp tục cuộc thỏa thuận với Pháp."
+        "t": "Cuộc đàm phán giữa Mỹ và Pháp (1797-98). Ba đặc sứ X (Jean Conrad Hottinguer), Y (Bellamy, giám đốc ngân hàng bang Hamburg), và Z (Lucien Hauteval) thừa lệnh đến Pháp giải quyết tranh luận về việc quân đội Mỹ không thực hiện đúng thỏa hiệp giữa hai nước được ký kết năm 1778. Theo giao ước, Mỹ phải tích cực hỗ trợ Pháp trong cuộc đại cách mạng tư sản. Đại biểu đoàn đàm phán là bà Villete, một người bạn thân của Bộ trưởng ngoại giao Pháp, ngài Talleyrand. Tuy nhiên, ông đã từ chối gặp bà Villete đồng thời bác bỏ ý định trợ cấp sau chiến tranh của Mỹ. Cuối cùng, vào ngày 30 tháng 9 năm 1800, tổng thống Adams chính thức tổ chức hội nghị Morterfontaine nhằm tiếp tục cuộc thỏa thuận với Pháp."
       }
     ],
     "k": "xyz ffair"

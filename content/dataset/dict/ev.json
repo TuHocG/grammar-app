@@ -2282,14 +2282,14 @@
       {
         "k": "ex",
         "t": "Eve",
-        "vi": ") Ê-va (người đàn bà đầu tiên trên trái đất, do Thượng Ðế tạo ra)"
+        "vi": ") Ê-va (người đàn bà đầu tiên trên trái đất, do Thượng Đế tạo ra)"
       },
       {"k": "ex", "t": "Adam and Eve", "vi": "Ađam và Êva"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "ngày hoặc đêm trước hội lễ hoặc kỳ nghỉ tôn giáo"},
-      {"k": "ex", "t": "Christmas Eve", "vi": "Ðêm trước lễ Giáng sinh (24 tháng 12)"},
-      {"k": "ex", "t": "New Year's Eve", "vi": "Ðêm trước năm mới (31 tháng 12)"},
-      {"k": "m", "t": "Ðêm giao thừa"},
+      {"k": "ex", "t": "Christmas Eve", "vi": "Đêm trước lễ Giáng sinh (24 tháng 12)"},
+      {"k": "ex", "t": "New Year's Eve", "vi": "Đêm trước năm mới (31 tháng 12)"},
+      {"k": "m", "t": "Đêm giao thừa"},
       {"k": "m", "t": "thời gian liền trước một sự kiện quan trọng"},
       {
         "k": "ex",
@@ -4008,7 +4008,7 @@
       {"k": "m", "t": "kéo dài mãi, láy đi láy lại mãi, không ngớt, không ngừng, không dứt"},
       {"k": "ex", "t": "this everlasting noise", "vi": "tiếng ầm ầm không bao giờ dứt"},
       {"k": "m", "t": "(thực) giữ nguyên dạng và màu khi khô"},
-      {"k": "ex", "t": "the Everlasting", "vi": "Chúa, Thượng Ðế"},
+      {"k": "ex", "t": "the Everlasting", "vi": "Chúa, Thượng Đế"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "thời gian vô tận, ngàn xưa"},
       {
@@ -4236,7 +4236,7 @@
       {
         "k": "ex",
         "t": "This is the kind of problem that affects every living soul:",
-        "vi": "Ðây là loại vấn đề có ảnh hưởng đến mọi người."
+        "vi": "Đây là loại vấn đề có ảnh hưởng đến mọi người."
       }
     ],
     "k": "every living soul"
@@ -4480,7 +4480,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1962) Thỏa thuận Évian. Nó là một loạt những thỏa thuận điều đình ở Évian-les-Bains thuộc Pháp. Ðây là những thỏa thuận bí mật giữa chính phủ của tướng De Gaulle và đại diện của chính phủ lâm thời cộng hòa Algeria của Ben Bella. Cuộc họp bắt đầu ở Thụy sĩ tháng 12 năm 1961 đến tháng 3 năm 1962. Một ủy ban ngừng bắn được thành lập và chính phủ Pháp đồng ý để Algeria được độc lập. Nhưng tổ chức quân đội bí mật Algeria đã thô bạo tấn công (OAS)."
+        "t": "(1962) Thỏa thuận Évian. Nó là một loạt những thỏa thuận điều đình ở Évian-les-Bains thuộc Pháp. Đây là những thỏa thuận bí mật giữa chính phủ của tướng De Gaulle và đại diện của chính phủ lâm thời cộng hòa Algeria của Ben Bella. Cuộc họp bắt đầu ở Thụy sĩ tháng 12 năm 1961 đến tháng 3 năm 1962. Một ủy ban ngừng bắn được thành lập và chính phủ Pháp đồng ý để Algeria được độc lập. Nhưng tổ chức quân đội bí mật Algeria đã thô bạo tấn công (OAS)."
       }
     ],
     "k": "evian agreements"

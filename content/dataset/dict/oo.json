@@ -446,7 +446,7 @@
     "h": "oont",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(Anh-Ấn Ðộ) con lạc đà"},
+      {"k": "m", "t": "(Anh-Ấn Độ) con lạc đà"},
       {"k": "ex", "t": "an oont dislike the cold weather", "vi": "lạc đà không thích lạnh."}
     ],
     "ipa": "u:nt",
@@ -474,7 +474,7 @@
     "k": "oophonplasty"
   },
   {"h": "oophor-", "segs": [{"k": "m", "t": "prefix Chỉ noãn sào."}], "k": "oophor-"},
-  {"h": "oophoralgia", "segs": [{"k": "m", "t": "Ðau buồng trứng."}], "k": "oophoralgia"},
+  {"h": "oophoralgia", "segs": [{"k": "m", "t": "Đau buồng trứng."}], "k": "oophoralgia"},
   {
     "h": "oophore",
     "segs": [

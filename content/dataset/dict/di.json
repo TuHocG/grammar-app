@@ -92,7 +92,7 @@
   },
   {
     "h": "diabetes albuminicus",
-    "segs": [{"k": "m", "t": "Ðái tháo anbumin."}],
+    "segs": [{"k": "m", "t": "Đái tháo anbumin."}],
     "k": "diabetes albuminicus"
   },
   {
@@ -112,10 +112,10 @@
   },
   {
     "h": "diabetes insipidus",
-    "segs": [{"k": "m", "t": "Ðái tháo nhạt."}],
+    "segs": [{"k": "m", "t": "Đái tháo nhạt."}],
     "k": "diabetes insipidus"
   },
-  {"h": "diabetes mellitus", "segs": [{"k": "m", "t": "Ðái tháo đường."}], "k": "diabetes mellitus"},
+  {"h": "diabetes mellitus", "segs": [{"k": "m", "t": "Đái tháo đường."}], "k": "diabetes mellitus"},
   {"h": "diabetesmellitus", "segs": [{"k": "m", "t": "tháo đái đường."}], "k": "diabetesmellitus"},
   {
     "h": "diabetic",
@@ -146,7 +146,7 @@
   },
   {
     "h": "diabetic cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh đái tháo đường."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh đái tháo đường."}],
     "k": "diabetic cataract"
   },
   {
@@ -206,7 +206,7 @@
     "segs": [{"k": "m", "t": "Gây nên do đái tháo đường."}],
     "k": "diabetogenous"
   },
-  {"h": "diabetometer", "segs": [{"k": "m", "t": "Ðường niệu kế."}], "k": "diabetometer"},
+  {"h": "diabetometer", "segs": [{"k": "m", "t": "Đường niệu kế."}], "k": "diabetometer"},
   {
     "h": "diabetotherapy",
     "segs": [{"k": "m", "t": "(phép) điều trị đái tháo đường."}],
@@ -445,7 +445,7 @@
   },
   {
     "h": "diacid",
-    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "diacidic", "vi": "^tt. (hóa học) Ðiaxít."}],
+    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "diacidic", "vi": "^tt. (hóa học) Điaxít."}],
     "ipa": "dai'æsid",
     "k": "diacid"
   },
@@ -1390,7 +1390,7 @@
   },
   {
     "h": "diagonal-flow turbine",
-    "segs": [{"k": "m", "t": "tuốc-bin Ðêria, tuốc-bin có cánh chéo điều chỉnh được."}],
+    "segs": [{"k": "m", "t": "tuốc-bin Đêria, tuốc-bin có cánh chéo điều chỉnh được."}],
     "k": "diagonal-flow turbine"
   },
   {
@@ -2714,7 +2714,7 @@
   },
   {
     "h": "diameter obliqua pelvis",
-    "segs": [{"k": "m", "t": "Ðường kính chéo chậu nhỏ."}],
+    "segs": [{"k": "m", "t": "Đường kính chéo chậu nhỏ."}],
     "k": "diameter obliqua pelvis"
   },
   {
@@ -3516,7 +3516,7 @@
     "h": "diana",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(thần thoại, thần học) nữ thần Ði-an (nữ thần đi săn)"},
+      {"k": "m", "t": "(thần thoại, thần học) nữ thần Đi-an (nữ thần đi săn)"},
       {"k": "m", "t": "người đàn bà cưỡi ngựa"},
       {"k": "m", "t": "nữ kỵ sĩ"},
       {"k": "m", "t": "người đàn bà đi săn"},
@@ -3676,7 +3676,7 @@
   },
   {
     "h": "diaphane",
-    "segs": [{"k": "m", "t": "Màng thấu quang"}, {"k": "m", "t": "Ðèn soi thấu quang."}],
+    "segs": [{"k": "m", "t": "Màng thấu quang"}, {"k": "m", "t": "Đèn soi thấu quang."}],
     "k": "diaphane"
   },
   {
@@ -4109,7 +4109,7 @@
   },
   {"h": "diaplasitic", "segs": [{"k": "m", "t": "(thuộc) nắn xương."}], "k": "diaplasitic"},
   {"h": "diaplastic", "segs": [{"k": "m", "t": "(thuộc) nắn xương."}], "k": "diaplastic"},
-  {"h": "diaplex", "segs": [{"k": "m", "t": "Ðam rối màng mạch não thất ba."}], "k": "diaplex"},
+  {"h": "diaplex", "segs": [{"k": "m", "t": "Đam rối màng mạch não thất ba."}], "k": "diaplex"},
   {"h": "diapnoic", "segs": [{"k": "m", "t": "Làm rớm mồ hôi."}], "k": "diapnoic"},
   {
     "h": "diapophysial",
@@ -4341,11 +4341,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tiếng Hy Lạp là \"phân tán\") Ðây là từ ngữ ám chỉ cộng đồng người Do Thái sống ngoài lãnh thổ Israel. Quá trình bắt đầu là những người Assyri và Babylone bị trục xuất vào năm 721 và 597 trước Công nguyên."
+        "t": "(tiếng Hy Lạp là \"phân tán\") Đây là từ ngữ ám chỉ cộng đồng người Do Thái sống ngoài lãnh thổ Israel. Quá trình bắt đầu là những người Assyri và Babylone bị trục xuất vào năm 721 và 597 trước Công nguyên."
       },
       {
         "k": "m",
-        "t": "Những người bị trục xuất tiếp tục tình nguyện di cư thật nhanh vì La Mã phá hủy nhà thờ Jerusalem vào năm 70 sau Công nguyên. Ở thế kỷ thứ nhất, đã có những cộng đồng người Do Thái di cư từ Levant đến Italia nổi tiếng ở Babylon và Ai Cập. Cộng đồng phân tán người Do Thái đa số nói tiếng Hy lạp, nhưng họ duy trì tín ngưỡng, năng viếng thăm Jerusalem và coi Israel như đất nước của họ. Sự hiện diện của những cộng đồng phân tán cũng còn là một yếu tố quan trọng của sự bành trướng Cơ Ðốc Giáo. Vào đầu thời trung cổ, Tây Ban Nha là trung tâm học giả Do Thái. Những học giả Do Thái cũng xuất hiện ở Pháp và Ðức. Nhưng trong thời kỳ \"Thập tự chinh\" việc \"chống Do Thái\" bắt đầu phát triển đến nhiều thành phố. Họ đã giam giữ người Do Thái trong những khu nhà đặc biệt hoặc khu ổ chuột."
+        "t": "Những người bị trục xuất tiếp tục tình nguyện di cư thật nhanh vì La Mã phá hủy nhà thờ Jerusalem vào năm 70 sau Công nguyên. Ở thế kỷ thứ nhất, đã có những cộng đồng người Do Thái di cư từ Levant đến Italia nổi tiếng ở Babylon và Ai Cập. Cộng đồng phân tán người Do Thái đa số nói tiếng Hy lạp, nhưng họ duy trì tín ngưỡng, năng viếng thăm Jerusalem và coi Israel như đất nước của họ. Sự hiện diện của những cộng đồng phân tán cũng còn là một yếu tố quan trọng của sự bành trướng Cơ Đốc Giáo. Vào đầu thời trung cổ, Tây Ban Nha là trung tâm học giả Do Thái. Những học giả Do Thái cũng xuất hiện ở Pháp và Đức. Nhưng trong thời kỳ \"Thập tự chinh\" việc \"chống Do Thái\" bắt đầu phát triển đến nhiều thành phố. Họ đã giam giữ người Do Thái trong những khu nhà đặc biệt hoặc khu ổ chuột."
       },
       {
         "k": "m",
@@ -4544,7 +4544,7 @@
   },
   {
     "h": "diastolization",
-    "segs": [{"k": "m", "t": "(sự) giãn"}, {"k": "m", "t": "Ðiều trị nong ngách mũi."}],
+    "segs": [{"k": "m", "t": "(sự) giãn"}, {"k": "m", "t": "Điều trị nong ngách mũi."}],
     "k": "diastolization"
   },
   {
@@ -4601,7 +4601,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Sách Ðiatessaron (của Tatianus, khoảng năm 160: bản phối hợp bốn Phúc Âm), Phúc Âm phối hòa."
+        "t": "Sách Điatessaron (của Tatianus, khoảng năm 160: bản phối hợp bốn Phúc Âm), Phúc Âm phối hòa."
       }
     ],
     "k": "diatessaron"
@@ -5336,7 +5336,7 @@
     "h": "dichlordiphenyltrichlorproethane (DDT)",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "ÐT"},
+      {"k": "m", "t": "ĐT"},
       {"k": "m", "t": "điclođiphenyltricloproetan"}
     ],
     "k": "dichlordiphenyltrichlorproethane (ddt)"
@@ -5876,7 +5876,7 @@
   },
   {
     "h": "dickensian",
-    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "giống như truyện của Ðích-ken mô tả."}],
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "giống như truyện của Đích-ken mô tả."}],
     "ipa": "di'kenziən",
     "k": "dickensian"
   },
@@ -6033,7 +6033,7 @@
     "k": "dicom"
   },
   {"h": "dicophane", "segs": [{"k": "m", "t": "dicophan."}], "k": "dicophane"},
-  {"h": "dicoria", "segs": [{"k": "m", "t": "Ðồng tử kép."}], "k": "dicoria"},
+  {"h": "dicoria", "segs": [{"k": "m", "t": "Đồng tử kép."}], "k": "dicoria"},
   {
     "h": "dicot",
     "segs": [
@@ -6087,7 +6087,7 @@
   },
   {
     "h": "dicrotic elevation",
-    "segs": [{"k": "m", "t": "Ðoạn cao mạch dội đôi."}],
+    "segs": [{"k": "m", "t": "Đoạn cao mạch dội đôi."}],
     "k": "dicrotic elevation"
   },
   {"h": "dicrotic notch", "segs": [{"k": "m", "t": "Khuyết mạch dội đôi."}], "k": "dicrotic notch"},
@@ -6152,7 +6152,7 @@
       {
         "k": "ex",
         "t": "To dictate a congratulatory letter to one's assistant",
-        "vi": "Ðọc thư chúc mừng cho trợ lý ghi"
+        "vi": "Đọc thư chúc mừng cho trợ lý ghi"
       },
       {
         "k": "ex",
@@ -6299,7 +6299,7 @@
   },
   {
     "h": "Dictatus Papae",
-    "segs": [{"k": "m", "t": "Sắc lệnh Giáo Hoàng (của Ðức Grêgôriô VII, n. 1075)."}],
+    "segs": [{"k": "m", "t": "Sắc lệnh Giáo Hoàng (của Đức Grêgôriô VII, n. 1075)."}],
     "k": "dictatus papae"
   },
   {
@@ -6527,8 +6527,8 @@
     "k": "did you ever"
   },
   {"h": "did you later", "segs": [{"k": "m", "t": "chào tạm biệt."}], "k": "did you later"},
-  {"h": "Didache", "segs": [{"k": "m", "t": "Giáo huấn; sách Ðiđakhê (tk 1)."}], "k": "didache"},
-  {"h": "Didachist", "segs": [{"k": "m", "t": "Tác giả của Ðiđakhê."}], "k": "didachist"},
+  {"h": "Didache", "segs": [{"k": "m", "t": "Giáo huấn; sách Điđakhê (tk 1)."}], "k": "didache"},
+  {"h": "Didachist", "segs": [{"k": "m", "t": "Tác giả của Điđakhê."}], "k": "didachist"},
   {
     "h": "didactic",
     "segs": [
@@ -6676,7 +6676,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1713-1784) một nhà bách khoa, một tiểu thuyết gia, một nhà phê bình, và một nhà soạn kịch. Khởi đầu, ông là giáo viên kiêm văn sĩ, nhưng ông bị tù vì những bài viết phê bình, hệ thống chính trị và quản lý chế độ của Pháp. Năm 1745, ông hợp tác với nhà khoa học Jean le Rond d'Alembert để xuất bản quyển bách khoa từ điển. Ông cũng viết hai vở kịch nhan đề \"Ðứa con trai tự nhiên\" (1757) và \"Người cha gia đình\" (1758). Ông còn viết hai truyện bằng văn xuôi có tựa đề \"Người cháu trai của Rameau\" và \"Tôn giáo và Jacquest, một người quá khích\". Ông trở thành nhà triết học duy vật. Ông cho rằng \"Nhân sinh bản thiện\", nhưng nếu có ác thì do xã hội tạo nên."
+        "t": "(1713-1784) một nhà bách khoa, một tiểu thuyết gia, một nhà phê bình, và một nhà soạn kịch. Khởi đầu, ông là giáo viên kiêm văn sĩ, nhưng ông bị tù vì những bài viết phê bình, hệ thống chính trị và quản lý chế độ của Pháp. Năm 1745, ông hợp tác với nhà khoa học Jean le Rond d'Alembert để xuất bản quyển bách khoa từ điển. Ông cũng viết hai vở kịch nhan đề \"Đứa con trai tự nhiên\" (1757) và \"Người cha gia đình\" (1758). Ông còn viết hai truyện bằng văn xuôi có tựa đề \"Người cháu trai của Rameau\" và \"Tôn giáo và Jacquest, một người quá khích\". Ông trở thành nhà triết học duy vật. Ông cho rằng \"Nhân sinh bản thiện\", nhưng nếu có ác thì do xã hội tạo nên."
       }
     ],
     "k": "diderot. denis"
@@ -6759,7 +6759,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hệ Didot"}],
     "k": "didot system"
   },
-  {"h": "Didrachma", "segs": [{"k": "m", "t": "Ðồng (hào đôi) đơ-rắc-ma."}], "k": "didrachma"},
+  {"h": "Didrachma", "segs": [{"k": "m", "t": "Đồng (hào đôi) đơ-rắc-ma."}], "k": "didrachma"},
   {
     "h": "didst",
     "segs": [{"k": "m", "t": "quá khứ của ngôi thứ hai của"}, {"k": "ex", "t": "do", "vi": "."}],
@@ -6988,7 +6988,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một qui trình nào đó vượt quá mức có thể quay trở lại được. (Từ die là một trong hai con súc sắc. Từ cast có nghĩa là: \"Thrown\" (Ðược ném).)"
+        "t": "một qui trình nào đó vượt quá mức có thể quay trở lại được. (Từ die là một trong hai con súc sắc. Từ cast có nghĩa là: \"Thrown\" (Được ném).)"
       },
       {
         "k": "ex",
@@ -7896,7 +7896,7 @@
       },
       {
         "k": "m",
-        "t": "Trong đệ nhị thế chiến, mục đích là tiêu diệt hải cảng của Ðức, một phi trường, một căn cứ Radar và có được kinh nghiệm của một cuộc tấn công bằng chiến hạm. Có 1000 lính biệt kích Anh và 5.000 lính bộ binh Canada tham chiến. Do sơ xuất khi tàu đổ bộ ở hai bờ biển khác nhau, nên quân đồng minh gặp phải hỏa lực của Ðức. Cuộc công kích bị thất bại và họ buộc phải ra lệnh rút lui. Ðó là một thảm họa to lớn. Hơn hai phần ba quân đồng minh bị chết. Súng của Ðức đã bắn chìm một khu trục hạm, 33 tàu đổ bộ và bắn rơi 106 máy bay. Mặc dù đau đớn, nhưng thảm họa đã dạy cho quân đồng minh nhiều bài học để dùng cho cuộc đổ bộ vào Bắc Phi và Ý sau này. Ðặc biệt là cuộc đổ bộ vào Normandy (tháng 6 năm 1944), để giải phóng Châu Âu và đập tan phát xít Ðức."
+        "t": "Trong đệ nhị thế chiến, mục đích là tiêu diệt hải cảng của Đức, một phi trường, một căn cứ Radar và có được kinh nghiệm của một cuộc tấn công bằng chiến hạm. Có 1000 lính biệt kích Anh và 5.000 lính bộ binh Canada tham chiến. Do sơ xuất khi tàu đổ bộ ở hai bờ biển khác nhau, nên quân đồng minh gặp phải hỏa lực của Đức. Cuộc công kích bị thất bại và họ buộc phải ra lệnh rút lui. Đó là một thảm họa to lớn. Hơn hai phần ba quân đồng minh bị chết. Súng của Đức đã bắn chìm một khu trục hạm, 33 tàu đổ bộ và bắn rơi 106 máy bay. Mặc dù đau đớn, nhưng thảm họa đã dạy cho quân đồng minh nhiều bài học để dùng cho cuộc đổ bộ vào Bắc Phi và Ý sau này. Đặc biệt là cuộc đổ bộ vào Normandy (tháng 6 năm 1944), để giải phóng Châu Âu và đập tan phát xít Đức."
       }
     ],
     "k": "dieppe raid"
@@ -8494,7 +8494,7 @@
   },
   {
     "h": "dietetic treatment",
-    "segs": [{"k": "m", "t": "Ðiều trị bằng thực chế."}],
+    "segs": [{"k": "m", "t": "Điều trị bằng thực chế."}],
     "k": "dietetic treatment"
   },
   {
@@ -8788,7 +8788,7 @@
       {
         "k": "ex",
         "t": "It makes no difference to me what you say: I'm not going",
-        "vi": "Ðiều anh nói chẳng nhằm nhò gì đến tôi/Anh nói gì mặc anh: Tôi nhất quyết không đi đâu"
+        "vi": "Điều anh nói chẳng nhằm nhò gì đến tôi/Anh nói gì mặc anh: Tôi nhất quyết không đi đâu"
       },
       {
         "k": "ex",
@@ -9349,7 +9349,7 @@
   },
   {
     "h": "differential count",
-    "segs": [{"k": "m", "t": "Ðem phân biệt."}],
+    "segs": [{"k": "m", "t": "Đem phân biệt."}],
     "k": "differential count"
   },
   {
@@ -9809,7 +9809,7 @@
   },
   {
     "h": "differential polyploidy",
-    "segs": [{"k": "m", "t": "Ða bội phân hóa."}],
+    "segs": [{"k": "m", "t": "Đa bội phân hóa."}],
     "k": "differential polyploidy"
   },
   {
@@ -10099,7 +10099,7 @@
   },
   {
     "h": "differential transformer",
-    "segs": [{"k": "m", "t": "(kỹ thuật) bộ biến áp sai tiếp; cuộn hỗn hợp (ÐL)."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) bộ biến áp sai tiếp; cuộn hỗn hợp (ĐL)."}],
     "k": "differential transformer"
   },
   {
@@ -10112,7 +10112,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đa tạp vi phân. Ða tạp tôpô (x. Ða tạp) trong đó ánh xạ đồng phôi từ lân cận mỗi điểm đến một hình cầu mở của không gian Ơclit là ánh xạ khả vi."
+        "t": "đa tạp vi phân. Đa tạp tôpô (x. Đa tạp) trong đó ánh xạ đồng phôi từ lân cận mỗi điểm đến một hình cầu mở của không gian Ơclit là ánh xạ khả vi."
       }
     ],
     "k": "differential variety"
@@ -11936,7 +11936,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1603-1665) Ông là nhà ngoại giao kiêm văn sĩ của nước Anh. Ông hướng dẫn thành công một cuộc hải hành tư nhân ở Ðịa Trung hải và biển Adriatic (1628). Sau đó, kể từ năm 1936, ông thúc đẩy hoàng gia làm tròn việc nhân nhượng Thiên Chúa Giáo ở Anh. Ông bị tù và bị trục xuất khỏi nước Anh vào thập niên 1650. Ông là nhà khoa học nghiệp dư và là một trong những thành viên nghiệp dư của hoàng gia."
+        "t": "(1603-1665) Ông là nhà ngoại giao kiêm văn sĩ của nước Anh. Ông hướng dẫn thành công một cuộc hải hành tư nhân ở Địa Trung hải và biển Adriatic (1628). Sau đó, kể từ năm 1936, ông thúc đẩy hoàng gia làm tròn việc nhân nhượng Thiên Chúa Giáo ở Anh. Ông bị tù và bị trục xuất khỏi nước Anh vào thập niên 1650. Ông là nhà khoa học nghiệp dư và là một trong những thành viên nghiệp dư của hoàng gia."
       }
     ],
     "k": "digby. sir kenelm"
@@ -13706,10 +13706,10 @@
   {
     "h": "Digital Signatures",
     "segs": [
-      {"k": "m", "t": "Chữ ký Ðiện tử"},
+      {"k": "m", "t": "Chữ ký Điện tử"},
       {
         "k": "m",
-        "t": "Chữ ký điện tử dựa trên kỹ thuật mã hóa với khóa công khai, trong đó mỗi người có một cặp khóa: một khóa bí mật và một khóa công khai. Khóa bí mật không bao giờ được công bố, còn khóa công khai được tự do sử dụng. Ðể gởi một thông điệp cho bên nhận, bạn mã hóa bằng khóa công khai của bên nhận. Sau đó bên nhận giải mã thông điệp bằng khóa bí mật của mình. Chữ ký điện tử làm việc theo hướng ngược lại. Bên gởi sử dụng khóa bí mật của mình để mã hóa thông điệp. Bên nhận dùng khóa công khai của bên gởi để giải mã. Hai chiến lược này được trình bày trên hình D-19. Tuy vậy, để an toàn thật sự, phải có những bước bổ sung sẽ thảo luận trong phần tiếp theo."
+        "t": "Chữ ký điện tử dựa trên kỹ thuật mã hóa với khóa công khai, trong đó mỗi người có một cặp khóa: một khóa bí mật và một khóa công khai. Khóa bí mật không bao giờ được công bố, còn khóa công khai được tự do sử dụng. Để gởi một thông điệp cho bên nhận, bạn mã hóa bằng khóa công khai của bên nhận. Sau đó bên nhận giải mã thông điệp bằng khóa bí mật của mình. Chữ ký điện tử làm việc theo hướng ngược lại. Bên gởi sử dụng khóa bí mật của mình để mã hóa thông điệp. Bên nhận dùng khóa công khai của bên gởi để giải mã. Hai chiến lược này được trình bày trên hình D-19. Tuy vậy, để an toàn thật sự, phải có những bước bổ sung sẽ thảo luận trong phần tiếp theo."
       },
       {
         "k": "m",
@@ -13757,10 +13757,10 @@
         "k": "m",
         "t": "Trong vài năm qua, các nhà cung cấp và nhiều công ty muốn kinh doanh trên Internet đã làm việc nhiều với các chuẩn chữ ký điện tử để có thể đưa vào phần mềm và sử dụng trên mạng công cộng. Các văn bản pháp qui đã được đề xuất, và một số tiểu bang đang cấp phép và ban hành luật cho các công ty cung cấp dịch vụ cấp giấy chứng nhận. Hai sáng kiến trên cơ sở nhu cầu chữ ký điện tử là Dsig (Digital Signature Initiative) và PKI (public-key infrastructure). Xem \"PKI (public-key infrastructure)\" để biết thêm chi tiết."
       },
-      {"k": "m", "t": "Sáng kiến Chữ ký Ðiện tử"},
+      {"k": "m", "t": "Sáng kiến Chữ ký Điện tử"},
       {
         "k": "m",
-        "t": "Dsig của W3C được thiết kế để phát triển niềm tin (trust) trên Internet. Dsig là phản ứng trước yêu cầu của các nhà cung cấp như Microsoft, Javasoft, và IBM để phát triển hạ tầng cơ sở cho chữ ký điện tử và mã ký (code-signing). Các nhà cung cấp này đã gặp phải các sơ đồ mã ký không tương thích. Microsoft có Authenticode, Javasoft có JAR (Java Archive), và IBM có Cryptolope. Nhưng các chuẩn này không vận hành qua lại được. Dự án DSig đang làm việc để phát triển khả năng vận hành qua lại (interoperability) của chữ ký điện tử. Ðiều này được thực hiện bằng các công nghệ chữ ký điện tử (digital signature), giấy chứng nhận (identity certificate), danh sách đóng gói (packing list) và đánh nhãn nội dung (content label)."
+        "t": "Dsig của W3C được thiết kế để phát triển niềm tin (trust) trên Internet. Dsig là phản ứng trước yêu cầu của các nhà cung cấp như Microsoft, Javasoft, và IBM để phát triển hạ tầng cơ sở cho chữ ký điện tử và mã ký (code-signing). Các nhà cung cấp này đã gặp phải các sơ đồ mã ký không tương thích. Microsoft có Authenticode, Javasoft có JAR (Java Archive), và IBM có Cryptolope. Nhưng các chuẩn này không vận hành qua lại được. Dự án DSig đang làm việc để phát triển khả năng vận hành qua lại (interoperability) của chữ ký điện tử. Điều này được thực hiện bằng các công nghệ chữ ký điện tử (digital signature), giấy chứng nhận (identity certificate), danh sách đóng gói (packing list) và đánh nhãn nội dung (content label)."
       },
       {"k": "m", "t": "Có hai cơ chế làm nòng cốt cho dự án này:"},
       {
@@ -15012,7 +15012,7 @@
   },
   {
     "h": "dik-dik",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sơn dương nhỏ Ðông Phi."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sơn dương nhỏ Đông Phi."}],
     "ipa": "'dik,dik",
     "k": "dik-dik"
   },
@@ -15035,7 +15035,7 @@
   },
   {
     "h": "Dike (= dyk)",
-    "segs": [{"k": "m", "t": "(dt) 1. Rãnh, hào, mương, sông đào. 2. Ðê, con đê."}],
+    "segs": [{"k": "m", "t": "(dt) 1. Rãnh, hào, mương, sông đào. 2. Đê, con đê."}],
     "ipa": "daik",
     "k": "dike (= dyk)"
   },
@@ -15345,7 +15345,7 @@
     "ipa": "dai'leitiŋ",
     "k": "dilating"
   },
-  {"h": "dilating pain", "segs": [{"k": "m", "t": "Ðau mở cổ tử cung."}], "k": "dilating pain"},
+  {"h": "dilating pain", "segs": [{"k": "m", "t": "Đau mở cổ tử cung."}], "k": "dilating pain"},
   {
     "h": "dilation",
     "segs": [{"k": "ref", "t": "dilatation"}],
@@ -17289,7 +17289,7 @@
         "t": "They made so much din that I couldn't hear you",
         "vi": "Họ làm ầm ĩ quá, nên tôi không nghe được anh nói gì cả"
       },
-      {"k": "ex", "t": "Don't make such a din", "vi": "Ðừng làm ầm ĩ lên như thế"},
+      {"k": "ex", "t": "Don't make such a din", "vi": "Đừng làm ầm ĩ lên như thế"},
       {"k": "ex", "t": "to make/kick up a din", "vi": "làm/gây ồn ào"},
       {"k": "pos", "t": "đại từ"},
       {"k": "m", "t": "("},
@@ -17301,7 +17301,7 @@
         "vi": ") nói đi nói lại một cách mạnh mẽ với ai về điều gì"
       },
       {"k": "m", "t": "nói nhai nhải"},
-      {"k": "m", "t": "(tắt) Tiêu chuẩn kỹ nghệ Ðức ("},
+      {"k": "m", "t": "(tắt) Tiêu chuẩn kỹ nghệ Đức ("},
       {"k": "ex", "t": "Deutsche Industrie-Norm", "vi": ") (nói về thang tốc độ phim)."}
     ],
     "ipa": "din",
@@ -17465,7 +17465,7 @@
   },
   {
     "h": "Diners Card",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thẻ tín dụng Ðai-nơ"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thẻ tín dụng Đai-nơ"}],
     "k": "diners card"
   },
   {
@@ -18666,14 +18666,14 @@
     "segs": [
       {
         "k": "m",
-        "t": "(khoảng thế kỷ 3) nhà toán học cổ Hi Lạp, xuất thân từ Alexandrie. Một phần của bộ sách toán \"Số học\" của ông (6 trong số 13 tập) còn được lưu giữ, trong đó cho nghiệm của các bài toán, phần lớn dẫn đến phương trình bất định (thường là phương trình Diophante) đến bậc 4, mà nghiệm là những số hữu tỉ dương (thời Diophante không có số âm). Ðể ký hiệu ẩn số và các lũy thừa của nó (đến bậc 6) và cả dấu bằng, Diophante đã sử dụng cách ghi tắt của các từ tương ứng."
+        "t": "(khoảng thế kỷ 3) nhà toán học cổ Hi Lạp, xuất thân từ Alexandrie. Một phần của bộ sách toán \"Số học\" của ông (6 trong số 13 tập) còn được lưu giữ, trong đó cho nghiệm của các bài toán, phần lớn dẫn đến phương trình bất định (thường là phương trình Diophante) đến bậc 4, mà nghiệm là những số hữu tỉ dương (thời Diophante không có số âm). Để ký hiệu ẩn số và các lũy thừa của nó (đến bậc 6) và cả dấu bằng, Diophante đã sử dụng cách ghi tắt của các từ tương ứng."
       }
     ],
     "k": "diophante"
   },
   {
     "h": "diophante's equation",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương trình Ðiôphăng"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương trình Điôphăng"}],
     "k": "diophante's equation"
   },
   {
@@ -18695,7 +18695,7 @@
   },
   {
     "h": "Diophysite",
-    "segs": [{"k": "m", "t": "Người theo lưỡng tính thuyết (Ðức Kitô có 2 tính)."}],
+    "segs": [{"k": "m", "t": "Người theo lưỡng tính thuyết (Đức Kitô có 2 tính)."}],
     "k": "diophysite"
   },
   {
@@ -19457,7 +19457,7 @@
     "segs": [{"k": "m", "t": "Viêm họng bạch hầu."}],
     "k": "diphtheria sore throat"
   },
-  {"h": "diphtheria toxin", "segs": [{"k": "m", "t": "Ðộc tố bạch cầu."}], "k": "diphtheria toxin"},
+  {"h": "diphtheria toxin", "segs": [{"k": "m", "t": "Độc tố bạch cầu."}], "k": "diphtheria toxin"},
   {
     "h": "diphtheria vaccine",
     "segs": [{"k": "m", "t": "vắc-xin bạch hầu."}],
@@ -19567,7 +19567,7 @@
     "ipa": "'difθərɔid",
     "k": "diphtheroid"
   },
-  {"h": "diphtherotoxin", "segs": [{"k": "m", "t": "Ðộc tố bạch hầu."}], "k": "diphtherotoxin"},
+  {"h": "diphtherotoxin", "segs": [{"k": "m", "t": "Độc tố bạch hầu."}], "k": "diphtherotoxin"},
   {
     "h": "diphthong",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nguyên âm đôi, nhị trùng âm."}],
@@ -19794,7 +19794,7 @@
     "ipa": "diplou'kɔkəs",
     "k": "diplococcus"
   },
-  {"h": "diplocoria", "segs": [{"k": "m", "t": "Ðồng tử kép."}], "k": "diplocoria"},
+  {"h": "diplocoria", "segs": [{"k": "m", "t": "Đồng tử kép."}], "k": "diplocoria"},
   {
     "h": "diplodocus",
     "segs": [
@@ -20211,7 +20211,7 @@
   {"h": "diplopiometer", "segs": [{"k": "m", "t": "Song thị kế."}], "k": "diplopiometer"},
   {
     "h": "diplopod",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ðộng vật chân kép."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Động vật chân kép."}],
     "ipa": "'diplə,pɔd",
     "k": "diplopod"
   },
@@ -20455,7 +20455,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(hoặc Dipanagara) (1785-1855) Ông là hoàng tử nước Jana và lãnh đạo cuộc chiến tranh Jana (1825-1830) chống lại Hà Lan. Cuộc đấu tranh này được sự ủng hộ của xã hội Jana. Dân chúng coi ông như một vị vua. Ông muốn giải phóng dân tộc khỏi ảnh hưởng của thế lực nước ngoài. Ông cảm thấy phấn khởi vì sự kết hợp của nhân dân và của người Hồi giáo, nên ông đã yêu cầu người Hà Lan phải thừa nhận ông là người bảo vệ đạo Hồi ở Jana. Quân đội Hà Lan đã lừa ông đến một bàn hội nghị để thương thuyết. Ðến đó ông bị bắt giữ và bị đưa đi đày."
+        "t": "(hoặc Dipanagara) (1785-1855) Ông là hoàng tử nước Jana và lãnh đạo cuộc chiến tranh Jana (1825-1830) chống lại Hà Lan. Cuộc đấu tranh này được sự ủng hộ của xã hội Jana. Dân chúng coi ông như một vị vua. Ông muốn giải phóng dân tộc khỏi ảnh hưởng của thế lực nước ngoài. Ông cảm thấy phấn khởi vì sự kết hợp của nhân dân và của người Hồi giáo, nên ông đã yêu cầu người Hà Lan phải thừa nhận ông là người bảo vệ đạo Hồi ở Jana. Quân đội Hà Lan đã lừa ông đến một bàn hội nghị để thương thuyết. Đến đó ông bị bắt giữ và bị đưa đi đày."
       }
     ],
     "k": "diponegoro"
@@ -20526,7 +20526,7 @@
       {"k": "m", "t": "chim hét nước, chim xin-clút"},
       {"k": "m", "t": "(Mỹ) cái môi (để múc)"},
       {"k": "m", "t": "(thiên) chòm sao Gấu"},
-      {"k": "ex", "t": "the Great Dipper", "vi": "chòm sao Gấu lớn, Ðại hùng tinh"},
+      {"k": "ex", "t": "the Great Dipper", "vi": "chòm sao Gấu lớn, Đại hùng tinh"},
       {"k": "ex", "t": "the Little Dipper", "vi": "chòm sao Gấu nhỏ, Tiểu hùng tinh"},
       {"k": "m", "t": "(nhiếp ảnh) chậu ngâm bản kính âm"},
       {"k": "m", "t": "chén rửa bút mực (của thợ vẽ, thợ sơn)."}
@@ -22512,7 +22512,7 @@
   },
   {
     "h": "direct platelet count",
-    "segs": [{"k": "m", "t": "Ðếm trực tiếp tiểu cầu."}],
+    "segs": [{"k": "m", "t": "Đếm trực tiếp tiểu cầu."}],
     "k": "direct platelet count"
   },
   {
@@ -24810,7 +24810,7 @@
       {
         "k": "ex",
         "t": "Directory",
-        "vi": ") (sử) Hội đồng Ðốc chính (thời cách mạng Pháp gồm 5 ủy viên, từ 1795 đến 1799)"
+        "vi": ") (sử) Hội đồng Đốc chính (thời cách mạng Pháp gồm 5 ủy viên, từ 1795 đến 1799)"
       },
       {"k": "m", "t": "(Mỹ) ban giám đốc"},
       {"k": "m", "t": "(tin học) thư mục."}
@@ -24987,7 +24987,7 @@
       },
       {
         "k": "m",
-        "t": "Một dịch vụ thư mục tiêu biểu thông thường được tổ chức theo mô hình cây phân cấp như trình bày trong hình D-22. Ðối tượng chính yếu trong việc tổ chức cây là OU (organizational unit). OU là đối tượng chứa đựng các đối tượng khác-cũng là OU hay là các đối tượng lá (là đối tượng thực không chứa các đối tượng khác, ví dụ như: server, printer, người dùng...). Quản trị viên có thể chọn một đối tượng để quản lý, hay một người dùng có thể chọn đối tượng nào đó để sử dụng hoặc hiển thị các thông tin về nó."
+        "t": "Một dịch vụ thư mục tiêu biểu thông thường được tổ chức theo mô hình cây phân cấp như trình bày trong hình D-22. Đối tượng chính yếu trong việc tổ chức cây là OU (organizational unit). OU là đối tượng chứa đựng các đối tượng khác-cũng là OU hay là các đối tượng lá (là đối tượng thực không chứa các đối tượng khác, ví dụ như: server, printer, người dùng...). Quản trị viên có thể chọn một đối tượng để quản lý, hay một người dùng có thể chọn đối tượng nào đó để sử dụng hoặc hiển thị các thông tin về nó."
       },
       {"k": "m", "t": "Hình D-22 Cây thư mục trong Novell Netware"},
       {
@@ -25001,11 +25001,11 @@
       {"k": "m", "t": "Nhân bản và Phân hoạch"},
       {
         "k": "m",
-        "t": "Sở dĩ dịch vụ thư mục đòi hỏi luôn túc trực trên mạng vì nhu cầu về định vị là rất thiết yếu. Các thông tin về dịch vụ thư mục thường lưu trong một cơ sở dữ liệu thư mục có thể được đặt tại một vùng riêng biệt và được nhân bản. Ðiều này tạo thuận lợi cho các người dùng ở xa chỉ có điều kiện truy cập ở mức độ cục bộ. Việc nhân bản bảo đảm cho dữ liệu luôn được cập nhật."
+        "t": "Sở dĩ dịch vụ thư mục đòi hỏi luôn túc trực trên mạng vì nhu cầu về định vị là rất thiết yếu. Các thông tin về dịch vụ thư mục thường lưu trong một cơ sở dữ liệu thư mục có thể được đặt tại một vùng riêng biệt và được nhân bản. Điều này tạo thuận lợi cho các người dùng ở xa chỉ có điều kiện truy cập ở mức độ cục bộ. Việc nhân bản bảo đảm cho dữ liệu luôn được cập nhật."
       },
       {
         "k": "m",
-        "t": "Việc phân hoạch rất ích lợi đối với các dữ liệu lớn, cung cấp cách lưu từng phần dữ liệu trên các máy khác nhau. Ðối với mạng diện rộng, cơ sở dữ liệu thường được phân hoạch theo vị trí địa lý."
+        "t": "Việc phân hoạch rất ích lợi đối với các dữ liệu lớn, cung cấp cách lưu từng phần dữ liệu trên các máy khác nhau. Đối với mạng diện rộng, cơ sở dữ liệu thường được phân hoạch theo vị trí địa lý."
       },
       {
         "k": "m",
@@ -25014,7 +25014,7 @@
       {"k": "m", "t": "Cung cấp An toàn"},
       {
         "k": "m",
-        "t": "Trong các thảo luận điểm trên, ta thừa nhận trong công ty có duy trì một dịch vụ thư mục người dùng, tài nguyên nội bộ. Ðây là dịch vụ thư mục nội bộ. Còn mục đích của X.500 là mang đến cho người dùng khả năng truy cập toàn cầu thông qua dịch vụ thư mục. Internet là một ví dụ sống động, dịch vụ này có thể tạo điều kiện cho hàng triệu người dùng giao tiếp với nhau bằng e-mail, đồng thời cho phép tìm kiếm dịch vụ tại ở bất kỳ một mạng nào có nối kết với Internet. Hệ thống định danh vùng (DNS) sẽ chỉ dẫn cho bạn cách định danh tất cả các server, các tổ chức trên Internet bằng cách chỉ ra một tên duy nhất trên mạng (chẳng hạn http://www.whitehouse.gov). Dịch vụ thư mục toàn cầu là điều kiện tiên quyết nếu bạn muốn tìm một người dùng nào đó ở bất cứ nơi đâu."
+        "t": "Trong các thảo luận điểm trên, ta thừa nhận trong công ty có duy trì một dịch vụ thư mục người dùng, tài nguyên nội bộ. Đây là dịch vụ thư mục nội bộ. Còn mục đích của X.500 là mang đến cho người dùng khả năng truy cập toàn cầu thông qua dịch vụ thư mục. Internet là một ví dụ sống động, dịch vụ này có thể tạo điều kiện cho hàng triệu người dùng giao tiếp với nhau bằng e-mail, đồng thời cho phép tìm kiếm dịch vụ tại ở bất kỳ một mạng nào có nối kết với Internet. Hệ thống định danh vùng (DNS) sẽ chỉ dẫn cho bạn cách định danh tất cả các server, các tổ chức trên Internet bằng cách chỉ ra một tên duy nhất trên mạng (chẳng hạn http://www.whitehouse.gov). Dịch vụ thư mục toàn cầu là điều kiện tiên quyết nếu bạn muốn tìm một người dùng nào đó ở bất cứ nơi đâu."
       },
       {
         "k": "m",
@@ -25022,12 +25022,12 @@
       },
       {
         "k": "m",
-        "t": "Xét trên khía cạnh khác của dịch vụ thư mục là tính bảo mật, dịch vụ này có khả năng xác thực người dùng để cấp quyền truy cập thư mục. Hầu hết các đại lý hiện nay đang dùng các chuẩn mã hóa khóa công khai X.509 cấp cho người dùng với chỉ một lần đăng nhập, rất nhiều dịch vụ trên mạng, sau khi họ đã đăng ký với dịch vụ thư mục. Mỗi lần như thế, hệ thống sẽ phát sinh một mã nhận diện ID phân biệt với các mã đã có, để trực tiếp theo dõi suốt quá trình hoạt động của người dùng trên mạng. Ðồng thời trên các kênh truyền có mã hóa cũng giúp ngăn ngừa nạn mất thông tin do các hacker gây ra."
+        "t": "Xét trên khía cạnh khác của dịch vụ thư mục là tính bảo mật, dịch vụ này có khả năng xác thực người dùng để cấp quyền truy cập thư mục. Hầu hết các đại lý hiện nay đang dùng các chuẩn mã hóa khóa công khai X.509 cấp cho người dùng với chỉ một lần đăng nhập, rất nhiều dịch vụ trên mạng, sau khi họ đã đăng ký với dịch vụ thư mục. Mỗi lần như thế, hệ thống sẽ phát sinh một mã nhận diện ID phân biệt với các mã đã có, để trực tiếp theo dõi suốt quá trình hoạt động của người dùng trên mạng. Đồng thời trên các kênh truyền có mã hóa cũng giúp ngăn ngừa nạn mất thông tin do các hacker gây ra."
       },
       {"k": "m", "t": "Siêu thư mục"},
       {
         "k": "m",
-        "t": "Metadirectories là các thư mục chứa các thông tin được tích hợp từ nhiều dịch vụ thư mục. Ðây chính là lý do khiến cho nhiều tổ chức ưa chuộng. Thật sự, còn gì tiện bằng nếu như có thể truy cập được nhiều dịch vụ thư mục trong cùng một nơi và chỉ với mỗi một lần đăng ký. Trước đây mỗi thay đổi trong các tổ chức đều tác động lên rất nhiều thư mục khác nhau, nhưng giờ đây đã có metadirectories sẽ đồng bộ hóa các thay đổi đó."
+        "t": "Metadirectories là các thư mục chứa các thông tin được tích hợp từ nhiều dịch vụ thư mục. Đây chính là lý do khiến cho nhiều tổ chức ưa chuộng. Thật sự, còn gì tiện bằng nếu như có thể truy cập được nhiều dịch vụ thư mục trong cùng một nơi và chỉ với mỗi một lần đăng ký. Trước đây mỗi thay đổi trong các tổ chức đều tác động lên rất nhiều thư mục khác nhau, nhưng giờ đây đã có metadirectories sẽ đồng bộ hóa các thay đổi đó."
       },
       {"k": "m", "t": "Những dịch vụ hiện có"},
       {
@@ -25060,7 +25060,7 @@
       },
       {
         "k": "m",
-        "t": "WINDOWS NT SERVER DIRECTORY SERVICES Dịch vụ thư mục của Microsoft chạy trên các máy chủ (server) Windows NT version 4.0 hay mới hơn kết hợp với các đặc tính của dịch vụ định danh toàn cầu DNS và X.500. LDAP là giao thức cốt lõi cho dịch vụ này. LDAP cho phép dịch vụ này hoạt động vượt biên giới hệ điều hành và tích hợp được với nhiều không gian tên. Ðiều này giúp ích rất nhiều cho quản trị viên (xem \"Windows NT Directory Services\").."
+        "t": "WINDOWS NT SERVER DIRECTORY SERVICES Dịch vụ thư mục của Microsoft chạy trên các máy chủ (server) Windows NT version 4.0 hay mới hơn kết hợp với các đặc tính của dịch vụ định danh toàn cầu DNS và X.500. LDAP là giao thức cốt lõi cho dịch vụ này. LDAP cho phép dịch vụ này hoạt động vượt biên giới hệ điều hành và tích hợp được với nhiều không gian tên. Điều này giúp ích rất nhiều cho quản trị viên (xem \"Windows NT Directory Services\").."
       }
     ],
     "k": "directory services"
@@ -25201,14 +25201,14 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Ði-rich-lê, 1805-1859) nhà toán học Ðức, viện sĩ thông tấn nước ngoài Viện hàn lâm khoa học Péterbourg (1837), hội viên hội hoàng gia London (1855), viện sĩ Viện hàn lâm khoa học Paris (1854), viện sĩ Viện hàn lâm khoa học Berlin, giáo sư trường Ðại học tổng hợp Berlin trong những năm từ 1831 đến 1855 và trường Ðại học tổng hợp từ 1855. Ông có công trình cơ bản về lý thuyết số và giải tích toán học. Ông nghiên cứu (1837) luật phân bố các số nguyên tố trong các cấp số cộng và đưa những chuỗi phiếm hàm dạng đặc biệt vào. Trong lĩnh vực giải tích toán học, ông là người đầu tiên phát biểu chính xác và nghiên cứu khái niệm hội tụ có điều kiện của một chuỗi, thiết lập dấu hiệu hội tụ của một chuỗi (thường gọi là dấu hiệu Dirichlet, 1862). Ông có những công trình to lớn về cơ học và vật lý-toán."
+        "t": "(Đi-rich-lê, 1805-1859) nhà toán học Đức, viện sĩ thông tấn nước ngoài Viện hàn lâm khoa học Péterbourg (1837), hội viên hội hoàng gia London (1855), viện sĩ Viện hàn lâm khoa học Paris (1854), viện sĩ Viện hàn lâm khoa học Berlin, giáo sư trường Đại học tổng hợp Berlin trong những năm từ 1831 đến 1855 và trường Đại học tổng hợp từ 1855. Ông có công trình cơ bản về lý thuyết số và giải tích toán học. Ông nghiên cứu (1837) luật phân bố các số nguyên tố trong các cấp số cộng và đưa những chuỗi phiếm hàm dạng đặc biệt vào. Trong lĩnh vực giải tích toán học, ông là người đầu tiên phát biểu chính xác và nghiên cứu khái niệm hội tụ có điều kiện của một chuỗi, thiết lập dấu hiệu hội tụ của một chuỗi (thường gọi là dấu hiệu Dirichlet, 1862). Ông có những công trình to lớn về cơ học và vật lý-toán."
       }
     ],
     "k": "dirichlet gustave lejeune"
   },
   {
     "h": "dirichlet's criterion",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dấu hiệu Ðirishơlê"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dấu hiệu Đirishơlê"}],
     "k": "dirichlet's criterion"
   },
   {
@@ -25247,7 +25247,7 @@
   },
   {"h": "dirigisme", "segs": [{"k": "m", "t": "dt. chính sách kinh tế chỉ huy."}], "k": "dirigisme"},
   {"h": "Dirigiste", "segs": [{"k": "m", "t": "(kinh tế) Chính phủ can thiệp."}], "k": "dirigiste"},
-  {"h": "dirigomotor", "segs": [{"k": "m", "t": "Ðiều khiển vận động."}], "k": "dirigomotor"},
+  {"h": "dirigomotor", "segs": [{"k": "m", "t": "Điều khiển vận động."}], "k": "dirigomotor"},
   {
     "h": "diriment",
     "segs": [
@@ -26259,7 +26259,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "sự bất lợi"},
       {"k": "m", "t": "thế bất lợi"},
-      {"k": "ex", "t": "To put somebody at a disadvantage", "vi": "Ðặt ai vào thế bất lợi"},
+      {"k": "ex", "t": "To put somebody at a disadvantage", "vi": "Đặt ai vào thế bất lợi"},
       {"k": "pos", "t": "ngoại động từ"},
       {"k": "m", "t": "đặt ai vào thế bất lợi"},
       {"k": "m", "t": "làm cho ai bị thiệt thòi."}
@@ -27175,7 +27175,7 @@
         "k": "m",
         "t": "Bạn có thể thiết lập một đường truyền dự phòng qua bộ định tuyến quay số theo yêu, cầu nối với một đường dự phòng cho trường hợp đường chính bị hỏng. Cũng có thể dùng đường dự phòng để bổ sung băng thông trong các trường hợp quá tải."
       },
-      {"k": "m", "t": "Ðường dự phòng của nhà cung cấp."}
+      {"k": "m", "t": "Đường dự phòng của nhà cung cấp."}
     ],
     "k": "disaster recovery"
   },
@@ -27548,7 +27548,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đoan kết về chi phí điều hành được quyền mua thêm những bảo hiểm bổ sung sau đây: Phí tổn điều hành thù lao quản lý, lời lãi hay thặng dư hay gia tăng về trị giá của thân tàu và máy móc. Số tiền bảo hiểm không được quá 25% trị giá của tàu ghi trên đơn bảo hiểm này. Tiền cước: tiền cước cho thuê tàu hoặc tiền cước dự kiến thu nhập, bảo hiểm thời gian. Số tiền bảo hiểm không được quá 25% trị giá của tàu ghi trên đơn bảo hiểm này trừ đi mọi số tiền đã được bảo hiểm như số tiền cước hoặc tiền cho thuê tàu theo hợp đồng chuyến. Số tiền bảo hiểm không vượt quá tiền cước hay tiền cho thuê tàu xổi của chuyến chở hàng đó và chuyến chở hàng kế tiếp (nếu yêu cầu thì bảo hiểm được bao gồm cả một chuyến chạy trống khi bắt đầu và một chuyến nữa xen kẽ các chuyến chở hàng) cộng với phí tổn về bảo hiểm. Trường hợp cho thuê chuyến mà tiền thuê được trả theo thời gian hành trình ước định nhưng với giới hạn là hai chuyến chở hàng như đã quy định. Phải tính cả những khoản tiền bảo hiểm và chỉ có thể bảo hiểm phần vượt quá nhưng phải khấu trừ tiền cước hay tiền cho thuê tàu xổi được trả trước hoặc đã hưởng tùy theo tiền cước hay tiền cho thuê tàu là được trả trước hay đã hưởng. Tiền cước dự kiến thu nhập nếu tàu chạy trống và không đang cho thuê. Số tiền bảo hiểm không được vượt quá số tiền cước xổi tính trước cho chuyến hàng kế sau, số tiền này phải ước tính hợp lý trên cơ sở giá cước thị trường vào lúc bảo hiểm và cộng thêm chi phí bảo hiểm phải tính cả khoản tiền đã bảo hiểm theo và chỉ có thể bảo hiểm phần vượt quá. Tiền cho thuê tàu theo thời gian hay tiền cho thuê tàu nhiều chuyến liên tiếp. Số tiền bảo hiểm không được vượt quá 50% số tiền cho thuê tàu xổi đã được hưởng theo hợp đồng cho thuê tàu một thời hạn không quá 18 tháng. Cũng phải tính cả những khoản tiền bảo hiểm theo và chỉ có thể bảo hiểm phần vượt quá nhưng phải khấu trừ 50% tiền cho thuê là trả trước hay đã hưởng theo hợp đồng cho thuê, nhưng số tiền bảo hiểm không phải khấu trừ khi tổng số tiền bảo hiểm theo và chưa vượt quá 50% tiền cho thuê sẽ còn được hưởng theo hợp đồng cho thuê. Bảo hiểm theo đoạn này có thể bắt đầu vào lúc ký kết hợp đồng cho thuê tàu. Phí bảo hiểm: số tiền bảo hiểm không được quá số phí bảo hiểm thật sự cho tất cả các quyền lợi được bảo hiểm trong một thời gian không quá 12 tháng, được giảm dần mỗi tháng theo tỷ lệ (loại trừ những phí bảo hiểm đã được bảo hiểm theo các đoạn trên, song nếu yêu cầu thì được bao gồm cả phí bảo hiểm hoặc đóng góp ước tính về bảo hiểm với hội phí hay rủi ro chiến tranh...). Phí bảo hiểm hoàn lại: số tiền bảo hiểm không được quá số thật sự được hoàn lại, được thừa nhận theo mọi bảo hiểm song không được hoàn lại trong trường hợp tổn thất toàn bộ của tàu do hiểm họa được bảo hiểm hay thế nào khác. Bảo hiểm với bất kỳ số tiền nào về những rủi ro bị loại trừ bởi các điều khoản dưới đây: Ðoan kết là người được bảo hiểm, chủ tàu, người quản lý hay người nhận cầm cố không thực hiện hay sẽ thực hiện, hay ủy thác thực hiện cho mình bảo hiểm nào về các quyền lợi kể trên vượt quá các số tiền quy định nơi đó và không thực hiện bảo hiểm nào bao gồm tổn thất toàn bộ của tàu theo điều kiện ppi, fia, hoặc theo mọi điều kiện khác tương tự có hiệu lực trong thời gian bảo hiểm này. Quy định rằng sự vi phạm đoan kết này không cho phép người bảo hiểm từ chối khiếu nại đòi bồi thường của người nhận cầm cố đã chấp nhận bảo hiểm này mà không biết có vi phạm. Các điều khoản dưới đây là cao nhất và bãi bỏ mọi qui định trong bảo hiểm này mâu thuẫn với các điều khoản đó."
+        "t": "đoan kết về chi phí điều hành được quyền mua thêm những bảo hiểm bổ sung sau đây: Phí tổn điều hành thù lao quản lý, lời lãi hay thặng dư hay gia tăng về trị giá của thân tàu và máy móc. Số tiền bảo hiểm không được quá 25% trị giá của tàu ghi trên đơn bảo hiểm này. Tiền cước: tiền cước cho thuê tàu hoặc tiền cước dự kiến thu nhập, bảo hiểm thời gian. Số tiền bảo hiểm không được quá 25% trị giá của tàu ghi trên đơn bảo hiểm này trừ đi mọi số tiền đã được bảo hiểm như số tiền cước hoặc tiền cho thuê tàu theo hợp đồng chuyến. Số tiền bảo hiểm không vượt quá tiền cước hay tiền cho thuê tàu xổi của chuyến chở hàng đó và chuyến chở hàng kế tiếp (nếu yêu cầu thì bảo hiểm được bao gồm cả một chuyến chạy trống khi bắt đầu và một chuyến nữa xen kẽ các chuyến chở hàng) cộng với phí tổn về bảo hiểm. Trường hợp cho thuê chuyến mà tiền thuê được trả theo thời gian hành trình ước định nhưng với giới hạn là hai chuyến chở hàng như đã quy định. Phải tính cả những khoản tiền bảo hiểm và chỉ có thể bảo hiểm phần vượt quá nhưng phải khấu trừ tiền cước hay tiền cho thuê tàu xổi được trả trước hoặc đã hưởng tùy theo tiền cước hay tiền cho thuê tàu là được trả trước hay đã hưởng. Tiền cước dự kiến thu nhập nếu tàu chạy trống và không đang cho thuê. Số tiền bảo hiểm không được vượt quá số tiền cước xổi tính trước cho chuyến hàng kế sau, số tiền này phải ước tính hợp lý trên cơ sở giá cước thị trường vào lúc bảo hiểm và cộng thêm chi phí bảo hiểm phải tính cả khoản tiền đã bảo hiểm theo và chỉ có thể bảo hiểm phần vượt quá. Tiền cho thuê tàu theo thời gian hay tiền cho thuê tàu nhiều chuyến liên tiếp. Số tiền bảo hiểm không được vượt quá 50% số tiền cho thuê tàu xổi đã được hưởng theo hợp đồng cho thuê tàu một thời hạn không quá 18 tháng. Cũng phải tính cả những khoản tiền bảo hiểm theo và chỉ có thể bảo hiểm phần vượt quá nhưng phải khấu trừ 50% tiền cho thuê là trả trước hay đã hưởng theo hợp đồng cho thuê, nhưng số tiền bảo hiểm không phải khấu trừ khi tổng số tiền bảo hiểm theo và chưa vượt quá 50% tiền cho thuê sẽ còn được hưởng theo hợp đồng cho thuê. Bảo hiểm theo đoạn này có thể bắt đầu vào lúc ký kết hợp đồng cho thuê tàu. Phí bảo hiểm: số tiền bảo hiểm không được quá số phí bảo hiểm thật sự cho tất cả các quyền lợi được bảo hiểm trong một thời gian không quá 12 tháng, được giảm dần mỗi tháng theo tỷ lệ (loại trừ những phí bảo hiểm đã được bảo hiểm theo các đoạn trên, song nếu yêu cầu thì được bao gồm cả phí bảo hiểm hoặc đóng góp ước tính về bảo hiểm với hội phí hay rủi ro chiến tranh...). Phí bảo hiểm hoàn lại: số tiền bảo hiểm không được quá số thật sự được hoàn lại, được thừa nhận theo mọi bảo hiểm song không được hoàn lại trong trường hợp tổn thất toàn bộ của tàu do hiểm họa được bảo hiểm hay thế nào khác. Bảo hiểm với bất kỳ số tiền nào về những rủi ro bị loại trừ bởi các điều khoản dưới đây: Đoan kết là người được bảo hiểm, chủ tàu, người quản lý hay người nhận cầm cố không thực hiện hay sẽ thực hiện, hay ủy thác thực hiện cho mình bảo hiểm nào về các quyền lợi kể trên vượt quá các số tiền quy định nơi đó và không thực hiện bảo hiểm nào bao gồm tổn thất toàn bộ của tàu theo điều kiện ppi, fia, hoặc theo mọi điều kiện khác tương tự có hiệu lực trong thời gian bảo hiểm này. Quy định rằng sự vi phạm đoan kết này không cho phép người bảo hiểm từ chối khiếu nại đòi bồi thường của người nhận cầm cố đã chấp nhận bảo hiểm này mà không biết có vi phạm. Các điều khoản dưới đây là cao nhất và bãi bỏ mọi qui định trong bảo hiểm này mâu thuẫn với các điều khoản đó."
       }
     ],
     "k": "disbursements warranty"
@@ -27577,7 +27577,7 @@
       {
         "k": "ex",
         "t": "To wear an identity disc round one's neck",
-        "vi": "Ðeo phù hiệu cá nhân hình đĩa ở cổ"
+        "vi": "Đeo phù hiệu cá nhân hình đĩa ở cổ"
       },
       {"k": "m", "t": "bề mặt tròn phẳng"},
       {"k": "ex", "t": "the moon's disc", "vi": "bề mặt tròn của mặt trăng"},
@@ -29254,7 +29254,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "những môn đồ của Chúa Jesus Christ. Trong xã hội Do Thái của Chúa Jesus, nhiều thầy giảng đạo thu hút môn đồ (gồm học trò và học giả). Các nhóm người này nghe thầy giảng kinh thánh, những môn đồ của Chúa Jesus thì khác biệt với nhóm người nói trên. Ðó là các \"Thánh tông đồ\" gồm 12 môn đồ của Chúa Jesus. Ðứng đầu là thánh Peter, rồi đến Andrew, James, John, Philip, Bartholomew, Thomas, Matthew, James (the Less), Thaddeus, Simon và Judas (kẻ dối Chúa). Sau khi phản Chúa Judas đã tự tử, địa vị của ông được thay thế bằng Matthias, Paul và Barnabas cũng được coi là các thánh tông đồ."
+        "t": "những môn đồ của Chúa Jesus Christ. Trong xã hội Do Thái của Chúa Jesus, nhiều thầy giảng đạo thu hút môn đồ (gồm học trò và học giả). Các nhóm người này nghe thầy giảng kinh thánh, những môn đồ của Chúa Jesus thì khác biệt với nhóm người nói trên. Đó là các \"Thánh tông đồ\" gồm 12 môn đồ của Chúa Jesus. Đứng đầu là thánh Peter, rồi đến Andrew, James, John, Philip, Bartholomew, Thomas, Matthew, James (the Less), Thaddeus, Simon và Judas (kẻ dối Chúa). Sau khi phản Chúa Judas đã tự tử, địa vị của ông được thay thế bằng Matthias, Paul và Barnabas cũng được coi là các thánh tông đồ."
       }
     ],
     "k": "disciples"
@@ -29824,7 +29824,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngđ, nđ) Ðổi màu, bị đổi màu-Walls discoloured by damp: Không khí ẩm thấp làm các bức tường đổi màu."
+        "t": "(ngđ, nđ) Đổi màu, bị đổi màu-Walls discoloured by damp: Không khí ẩm thấp làm các bức tường đổi màu."
       }
     ],
     "ipa": "diɛsknlə(r)",
@@ -32262,7 +32262,7 @@
       {
         "k": "ex",
         "t": "This is a secret, but I know I can count on your discretion",
-        "vi": "Ðây là một điều bí mật, nhưng tôi biết rằng tôi có thể tin vào tính thận trọng của anh"
+        "vi": "Đây là một điều bí mật, nhưng tôi biết rằng tôi có thể tin vào tính thận trọng của anh"
       },
       {
         "k": "ex",
@@ -32853,7 +32853,7 @@
   {
     "h": "Discriminatory pricing",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðịnh giá có phân biệt"},
+      {"k": "m", "t": "(kinh tế) Định giá có phân biệt"},
       {"k": "m", "t": "Xem Price discrimination."}
     ],
     "k": "discriminatory pricing"
@@ -32984,10 +32984,10 @@
     "ipa": "'diskəs",
     "k": "discus"
   },
-  {"h": "discus articularis", "segs": [{"k": "m", "t": "Ðĩa khớp."}], "k": "discus articularis"},
+  {"h": "discus articularis", "segs": [{"k": "m", "t": "Đĩa khớp."}], "k": "discus articularis"},
   {
     "h": "discus interpubicus",
-    "segs": [{"k": "m", "t": "Ðĩa gian mu."}],
+    "segs": [{"k": "m", "t": "Đĩa gian mu."}],
     "k": "discus interpubicus"
   },
   {
@@ -33223,15 +33223,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "căn bệnh có thể lây truyền (bệnh truyền nhiễm). Ðầu thế kỷ 19, người ta tin rằng những bệnh truyền nhiễm là do, hơi độc bốc lên từ cống rãnh và bãi rác."
+        "t": "căn bệnh có thể lây truyền (bệnh truyền nhiễm). Đầu thế kỷ 19, người ta tin rằng những bệnh truyền nhiễm là do, hơi độc bốc lên từ cống rãnh và bãi rác."
       },
       {
         "k": "m",
-        "t": "Do đó, người ta lo cung cấp nước sạch và dọn dẹp bãi rác. Ở Anh có đạo luật về sức khỏe cộng đồng (1848). Cũng vào năm này, ở Luân Ðôn có bác sĩ tên John Snow đưa ra bằng chứng rằng bệnh dịch tả là do nguồn nước ô nhiễm. Vào cuối thế kỷ 19, có hai nhà bác học đó là Luis Pasteur, và Heinrich Koch đã bắt đầu chứng minh ra các loại vi trùng gây bệnh nhiễm khuẩn. Vì vậy, người ta đã tìm ra cách phòng ngừa và chữa trị. Lần đầu tiên, ông Edward Jenner mô tả cách tiêm phòng bệnh đậu (1798), và đã diệt được vi khuẩn này (1979)."
+        "t": "Do đó, người ta lo cung cấp nước sạch và dọn dẹp bãi rác. Ở Anh có đạo luật về sức khỏe cộng đồng (1848). Cũng vào năm này, ở Luân Đôn có bác sĩ tên John Snow đưa ra bằng chứng rằng bệnh dịch tả là do nguồn nước ô nhiễm. Vào cuối thế kỷ 19, có hai nhà bác học đó là Luis Pasteur, và Heinrich Koch đã bắt đầu chứng minh ra các loại vi trùng gây bệnh nhiễm khuẩn. Vì vậy, người ta đã tìm ra cách phòng ngừa và chữa trị. Lần đầu tiên, ông Edward Jenner mô tả cách tiêm phòng bệnh đậu (1798), và đã diệt được vi khuẩn này (1979)."
       },
       {
         "k": "m",
-        "t": "Ở thế kỷ 20, y dược phát triển và có thể chữa được nhiều bệnh nhiễm khuẩn. Năm 1910, bác sĩ Paul Ehrlich giới thiệu thuốc chữa bệnh giang mai rất có hiệu quả. Tiếp theo là phát triển thuốc kháng sinh penicillin (vào thập niên 1940). Thực tế có nhiều mầm bệnh đã phát sinh từ nấm và vi khuẩn được chữa khỏi. Tuy nhiên, việc dùng thuốc kháng sinh nhiều và lâu ngày sẽ làm cho vi khuẩn kháng lại thuốc, cho nên một số thuốc chống vi khuẩn đôi khi ít công hiệu. Bấy giờ, người ta chưa tìm được kháng sinh diệt vi rút cúm. Ðó là một loại dịch bệnh đã cướp đi 15 triệu sinh mạng vào năm 1918-1919. Sau đó người ta cũng phát hiện ra triệu chứng của căn bệnh AIDs. Tuy nhiên, từ năm 1979 cho đến nay vẫn chưa tìm được loại kháng sinh nào có thể tiêu diệt loại vi rút này. Cũng có những dịch bệnh đã biến mất một thời gian, rồi chúng lại tái phát như trường hợp dịch tả tái bùng phát ở Peru năm 1991."
+        "t": "Ở thế kỷ 20, y dược phát triển và có thể chữa được nhiều bệnh nhiễm khuẩn. Năm 1910, bác sĩ Paul Ehrlich giới thiệu thuốc chữa bệnh giang mai rất có hiệu quả. Tiếp theo là phát triển thuốc kháng sinh penicillin (vào thập niên 1940). Thực tế có nhiều mầm bệnh đã phát sinh từ nấm và vi khuẩn được chữa khỏi. Tuy nhiên, việc dùng thuốc kháng sinh nhiều và lâu ngày sẽ làm cho vi khuẩn kháng lại thuốc, cho nên một số thuốc chống vi khuẩn đôi khi ít công hiệu. Bấy giờ, người ta chưa tìm được kháng sinh diệt vi rút cúm. Đó là một loại dịch bệnh đã cướp đi 15 triệu sinh mạng vào năm 1918-1919. Sau đó người ta cũng phát hiện ra triệu chứng của căn bệnh AIDs. Tuy nhiên, từ năm 1979 cho đến nay vẫn chưa tìm được loại kháng sinh nào có thể tiêu diệt loại vi rút này. Cũng có những dịch bệnh đã biến mất một thời gian, rồi chúng lại tái phát như trường hợp dịch tả tái bùng phát ở Peru năm 1991."
       }
     ],
     "k": "disease. communicable"
@@ -34921,7 +34921,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngđ) Làm chán nản, làm ngã lòng, làm mất nhuệ khí, làm mất can đảm-Don't be disheatened by what he says: Ðừng ngã lòng vì những gì hắn ta nói. disheatening [disɛha:tniŋ] (tt)."
+        "t": "(ngđ) Làm chán nản, làm ngã lòng, làm mất nhuệ khí, làm mất can đảm-Don't be disheatened by what he says: Đừng ngã lòng vì những gì hắn ta nói. disheatening [disɛha:tniŋ] (tt)."
       }
     ],
     "ipa": "disɛha:tn",
@@ -36831,7 +36831,7 @@
   },
   {
     "h": "Disk Storage Systems",
-    "segs": [{"k": "m", "t": "Hệ thống Lưu trữ trên Ðĩa"}, {"k": "m", "t": "Xem Storage Systems.."}],
+    "segs": [{"k": "m", "t": "Hệ thống Lưu trữ trên Đĩa"}, {"k": "m", "t": "Xem Storage Systems.."}],
     "k": "disk storage systems"
   },
   {"h": "disk support shaft", "segs": [{"k": "m", "t": "trục đỡ đĩa."}], "k": "disk support shaft"},
@@ -38817,7 +38817,7 @@
       {"k": "m", "t": "mệnh trời"},
       {"k": "m", "t": "hệ thống tôn giáo"},
       {"k": "m", "t": "chế độ tôn giáo"},
-      {"k": "ex", "t": "under the Christian dispensation", "vi": "dưới chế độ đạo Cơ Ðốc"},
+      {"k": "ex", "t": "under the Christian dispensation", "vi": "dưới chế độ đạo Cơ Đốc"},
       {"k": "m", "t": "sự miễn trừ, sự tha cho"},
       {"k": "m", "t": "(+"},
       {"k": "ex", "t": "with", "vi": ") sự có thể bỏ qua, sự có thể đừng được, sự không cần đến."}
@@ -39358,7 +39358,7 @@
     "segs": [{"k": "m", "t": "hạt tản mạn."}],
     "k": "dispersion particle"
   },
-  {"h": "dispersion point", "segs": [{"k": "m", "t": "Ðiểm phát tán."}], "k": "dispersion point"},
+  {"h": "dispersion point", "segs": [{"k": "m", "t": "Điểm phát tán."}], "k": "dispersion point"},
   {
     "h": "dispersion prism",
     "segs": [{"k": "m", "t": "lăng kính tán sắc."}],
@@ -45012,7 +45012,7 @@
   },
   {
     "h": "distil(-till]",
-    "segs": [{"k": "m", "t": ")ngđ) 1. (hóa) Chưng cất, cất. 2. Ðể chảy nhỏ giọt."}],
+    "segs": [{"k": "m", "t": ")ngđ) 1. (hóa) Chưng cất, cất. 2. Để chảy nhỏ giọt."}],
     "ipa": "diɛstil",
     "k": "distil(-till]"
   },
@@ -45884,7 +45884,7 @@
     ],
     "k": "distinguishment"
   },
-  {"h": "Distintive", "segs": [{"k": "m", "t": "Ðặc thù, đặc trưng."}], "k": "distintive"},
+  {"h": "Distintive", "segs": [{"k": "m", "t": "Đặc thù, đặc trưng."}], "k": "distintive"},
   {
     "h": "distirc attorney",
     "segs": [{"k": "m", "t": "dt. (ở Mỹ) ủy viên công tố quận."}],
@@ -46767,7 +46767,7 @@
       {"k": "m", "t": "Ýìng dụng Phân tán"},
       {
         "k": "m",
-        "t": "Các ứng dụng phân tán là lý do để xây dựng mạng liên xí nghiệp. Các ứng dụng này vận hành giữa các hệ thống để cho phép các người dùng chạy các trương trình và truy cập các tài nguyên trên nhiều hệ thống cùng một lúc. Một ứng dụng phân tán được chia thành hai phần: phần của người sử dụng và phần của máy chủ. Ðây là kiểu mạng client/server nhằm mục đích chia nhỏ chương trình, phân phối xử lý giữa client và server."
+        "t": "Các ứng dụng phân tán là lý do để xây dựng mạng liên xí nghiệp. Các ứng dụng này vận hành giữa các hệ thống để cho phép các người dùng chạy các trương trình và truy cập các tài nguyên trên nhiều hệ thống cùng một lúc. Một ứng dụng phân tán được chia thành hai phần: phần của người sử dụng và phần của máy chủ. Đây là kiểu mạng client/server nhằm mục đích chia nhỏ chương trình, phân phối xử lý giữa client và server."
       },
       {
         "k": "m",
@@ -46781,7 +46781,7 @@
       {"k": "m", "t": "Cách Tiếp cận Thành phần"},
       {
         "k": "m",
-        "t": "Cách tiếp cận thành phần là chia nhỏ các chương trình phức tạp thành các thành phần nhỏ hơn để tiện quản lý, khai triển và cập nhật. Ðồng thời cách tiếp cận này mang đến cho chúng ta phương pháp tốt hơn trong việc phân tán và cập nhật các ứng dụng, đặc biệt trên Internet. Nếu các ứng dụng được xây dựng từ các thành phần riêng biệt, ta có thể chỉ thay đổi và cập nhật trên các thành phần cần thiết. Việc cập nhật sẽ được dễ dàng hơn vì bạn chỉ cần gửi chúng đến nơi chứa các thành phần cần cập nhật."
+        "t": "Cách tiếp cận thành phần là chia nhỏ các chương trình phức tạp thành các thành phần nhỏ hơn để tiện quản lý, khai triển và cập nhật. Đồng thời cách tiếp cận này mang đến cho chúng ta phương pháp tốt hơn trong việc phân tán và cập nhật các ứng dụng, đặc biệt trên Internet. Nếu các ứng dụng được xây dựng từ các thành phần riêng biệt, ta có thể chỉ thay đổi và cập nhật trên các thành phần cần thiết. Việc cập nhật sẽ được dễ dàng hơn vì bạn chỉ cần gửi chúng đến nơi chứa các thành phần cần cập nhật."
       },
       {
         "k": "m",
@@ -46815,7 +46815,7 @@
       },
       {
         "k": "m",
-        "t": "Ðể biết thêm chi tiết về middleware, xem \"Component Software Technology\", \"Distributed Object Computing\" và \"Middleware and Messaging\"."
+        "t": "Để biết thêm chi tiết về middleware, xem \"Component Software Technology\", \"Distributed Object Computing\" và \"Middleware and Messaging\"."
       },
       {"k": "m", "t": "Xử lý Giao dịch"},
       {
@@ -46919,7 +46919,7 @@
       },
       {
         "k": "m",
-        "t": "Nền mạng Internet (platform) hỗ trợ mọi giao thức, mọi sản phẩm cần thiết để tiếp cận hệ thống này. Ðể mà chọn lựa thì TCP/IP có thể là giao thức thống nhất được phần lớn hệ điều hành vì phạm vi chấp nhận rất rộng."
+        "t": "Nền mạng Internet (platform) hỗ trợ mọi giao thức, mọi sản phẩm cần thiết để tiếp cận hệ thống này. Để mà chọn lựa thì TCP/IP có thể là giao thức thống nhất được phần lớn hệ điều hành vì phạm vi chấp nhận rất rộng."
       },
       {
         "k": "m",
@@ -46977,11 +46977,11 @@
       },
       {
         "k": "m",
-        "t": "Trái lại, Java trở thành ngôn ngữ lập trình mạnh mẽ, và là công cụ phát triển intranet lẫn Internet. Cơ chế hoạt động của Java rất đơn giản - các ứng dụng thành phần có thể được chạy và lấy xuống từ máy ảo. Ðiều duy nhất mà các nhà phát triển quan tâm là làm sao bảo đảm được các ứng dụng này chạy được trong máy ảo."
+        "t": "Trái lại, Java trở thành ngôn ngữ lập trình mạnh mẽ, và là công cụ phát triển intranet lẫn Internet. Cơ chế hoạt động của Java rất đơn giản - các ứng dụng thành phần có thể được chạy và lấy xuống từ máy ảo. Điều duy nhất mà các nhà phát triển quan tâm là làm sao bảo đảm được các ứng dụng này chạy được trong máy ảo."
       },
       {
         "k": "m",
-        "t": "Ðể biết thêm chi tiết về kỹ thuật lập trình thành phần, xem \"Component Software Technology\" và \"Distributed Object Computing\"."
+        "t": "Để biết thêm chi tiết về kỹ thuật lập trình thành phần, xem \"Component Software Technology\" và \"Distributed Object Computing\"."
       }
     ],
     "k": "distributed computer networks"
@@ -47084,12 +47084,12 @@
       },
       {
         "k": "m",
-        "t": "Novell Netware đã lo liệu việc chuyễn đổi từ hệ thống cũ sang hệ thống tập tin phân tán. Những phiên bản hệ điều hành mới đây cho phép truy cập đến bất kỳ server nào có kết nối với mạng, quản trị viên cung cấp cho người dùng khung nhìn phân cấp thấy được toàn bộ các server phân tán trên cùng một nhánh của cây thư mục. Ðiều này giúp cho người dùng tìm kiếm dễ dàng các đối tượng và dữ liệu cần thiết."
+        "t": "Novell Netware đã lo liệu việc chuyễn đổi từ hệ thống cũ sang hệ thống tập tin phân tán. Những phiên bản hệ điều hành mới đây cho phép truy cập đến bất kỳ server nào có kết nối với mạng, quản trị viên cung cấp cho người dùng khung nhìn phân cấp thấy được toàn bộ các server phân tán trên cùng một nhánh của cây thư mục. Điều này giúp cho người dùng tìm kiếm dễ dàng các đối tượng và dữ liệu cần thiết."
       },
       {"k": "m", "t": "Sau đây là một vài hệ thống tập tin mạng thông thường:"},
       {
         "k": "m",
-        "t": "AFS (Andrew File System) Hệ thống này xuất phát từ Trung tâm công nghệ thông tin thuộc Ðại học Carnegie Mellon, giống với NFS về mặt kiến trúc. Hiện thời AFS được công ty Transarc - trước kia là ITC - phát triển và thương mại hóa. So với NFS, hệ thống này có nhiều ưu điểm hơn. Từ mục liên quan \"AFS\" và http://www.transarc.com"
+        "t": "AFS (Andrew File System) Hệ thống này xuất phát từ Trung tâm công nghệ thông tin thuộc Đại học Carnegie Mellon, giống với NFS về mặt kiến trúc. Hiện thời AFS được công ty Transarc - trước kia là ITC - phát triển và thương mại hóa. So với NFS, hệ thống này có nhiều ưu điểm hơn. Từ mục liên quan \"AFS\" và http://www.transarc.com"
       },
       {
         "k": "m",
@@ -47113,11 +47113,11 @@
       },
       {
         "k": "m",
-        "t": "SunSoft's WebNFS Hệ thống này hỗ trợ mọi tính năng của NFS và được tối ưu hóa để chạy trên các intranet lẫn Internet. Ðồng thời hệ này cũng cung cấp các cơ chế bảo mật. Xem \"NFS\" hay http://www.sun.com/webnfs/webnfs.html."
+        "t": "SunSoft's WebNFS Hệ thống này hỗ trợ mọi tính năng của NFS và được tối ưu hóa để chạy trên các intranet lẫn Internet. Đồng thời hệ này cũng cung cấp các cơ chế bảo mật. Xem \"NFS\" hay http://www.sun.com/webnfs/webnfs.html."
       },
       {
         "k": "m",
-        "t": "Microsoft's CIFS (Common Internet File System) Ðây là hệ thống mở rộng của giao thức tập tin SMB thuộc Microsoft. Cũng giống như WebNFS, hệ này được tối ưu hóa để chạy trên mạng và cung cấp một số cơ chế bảo mật ở mức độ tập tin. Từ mục liên quan \"CIFS\" hay http://www.microsoft.com."
+        "t": "Microsoft's CIFS (Common Internet File System) Đây là hệ thống mở rộng của giao thức tập tin SMB thuộc Microsoft. Cũng giống như WebNFS, hệ này được tối ưu hóa để chạy trên mạng và cung cấp một số cơ chế bảo mật ở mức độ tập tin. Từ mục liên quan \"CIFS\" hay http://www.microsoft.com."
       },
       {"k": "m", "t": "Những Tính năng của Hệ thống Tập tin Phân tán"},
       {
@@ -47126,7 +47126,7 @@
       },
       {
         "k": "m",
-        "t": "Hệ thống này cũng tạo ra các nhân bản. Ðiều đó là hiển nhiên bởi vì tại sao ta lại không nhân bản các hệ thống tập tin thường dùng, đặc biệt là khi các tập tin này ở rất xa, đến server gần nhất. Với phương cách này giúp giảm thiểu tình trạng tắt nghẽn lưu thông trên mạng, và hệ thống tập tin phân tán này có thể giúp xác định các tài nguyên yêu cầu nhanh nhất tại các nhân bản."
+        "t": "Hệ thống này cũng tạo ra các nhân bản. Điều đó là hiển nhiên bởi vì tại sao ta lại không nhân bản các hệ thống tập tin thường dùng, đặc biệt là khi các tập tin này ở rất xa, đến server gần nhất. Với phương cách này giúp giảm thiểu tình trạng tắt nghẽn lưu thông trên mạng, và hệ thống tập tin phân tán này có thể giúp xác định các tài nguyên yêu cầu nhanh nhất tại các nhân bản."
       },
       {
         "k": "m",
@@ -47143,7 +47143,7 @@
       },
       {
         "k": "m",
-        "t": "Concurrent writes Với phương pháp này nhiều người dùng cùng đọc, ghi trên một tập tin. Ðiều này đòi hỏi hệ điều hành phải tăng mức độ giám sát để tránh tình trạng ghi chồng lên nhau và bảo đảm sao cho người dùng biết được những thông tin mới nhất. Nhưng vì bị khống chế bởi yêu cầu xử lý và lưu thông mạng nên phương cách này không được chấp nhận trong nhiều môi trường dù rằng được thực hiện một cách hợp lý."
+        "t": "Concurrent writes Với phương pháp này nhiều người dùng cùng đọc, ghi trên một tập tin. Điều này đòi hỏi hệ điều hành phải tăng mức độ giám sát để tránh tình trạng ghi chồng lên nhau và bảo đảm sao cho người dùng biết được những thông tin mới nhất. Nhưng vì bị khống chế bởi yêu cầu xử lý và lưu thông mạng nên phương cách này không được chấp nhận trong nhiều môi trường dù rằng được thực hiện một cách hợp lý."
       },
       {
         "k": "m",
@@ -47151,7 +47151,7 @@
       },
       {
         "k": "m",
-        "t": "Stateless systems Hệ thống phi trạng thái, trong hệ thống này server không giữ các thông tin về ai đang truy cập đến tập tin nên từng người dùng phải thường xuyên liên lạc với server xem tập tin này có bị thay đổi hay không. Ðiều này có lẽ làm quá tải lưu thông mạng trong các môi trường rộng lớn. Do đó phương pháp này chỉ thỏa mãn cho mạng diện hẹp. NFS là hệ thống phi trạng thái."
+        "t": "Stateless systems Hệ thống phi trạng thái, trong hệ thống này server không giữ các thông tin về ai đang truy cập đến tập tin nên từng người dùng phải thường xuyên liên lạc với server xem tập tin này có bị thay đổi hay không. Điều này có lẽ làm quá tải lưu thông mạng trong các môi trường rộng lớn. Do đó phương pháp này chỉ thỏa mãn cho mạng diện hẹp. NFS là hệ thống phi trạng thái."
       },
       {
         "k": "m",
@@ -47216,7 +47216,7 @@
   {
     "h": "Distributed lags",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðộ trễ có phân phối."},
+      {"k": "m", "t": "(kinh tế) Độ trễ có phân phối."},
       {
         "k": "m",
         "t": "Sự xác định về các mối quan hệ kinh tế lượng thường đòi hỏi rằng một biến giải thích không chỉ tồn tại dưới giá trị hiện tại mà còn dưới dạng một chuỗi trước đó (trễ)."
@@ -47320,14 +47320,14 @@
   {
     "h": "Distributed Object Computing",
     "segs": [
-      {"k": "m", "t": "Tính toán Ðối tượng Phân tán"},
+      {"k": "m", "t": "Tính toán Đối tượng Phân tán"},
       {
         "k": "m",
         "t": "Việc tính toán bằng các đối tượng phân tán giúp ta tạo ra các đoạn mã chương trình có khả năng tái sử dụng, thường được gọi là các \"đối tượng\" hay các \"thành phần\" và giao diện chuẩn sẽ tạo điều kiện cho chúng phân tán, truyền thông với nhau. Chúng có thể giao tiếp nhau bất kể vị trí nào trên mạng."
       },
       {
         "k": "m",
-        "t": "Thế các đối tượng là gì? ÕÒ đây, các đối tượng chính là những đoạn chương trình nhỏ thực hiện một số tác vụ đặc biệt. Toàn bộ một ứng dụng có thể được tạo nên từ các đối tượng này. Nhiều người cho rằng chúng như là các \"hộp đen\". Nội dung bên trong của chúng là không quan trọng. Ðiều cốt lõi là chúng cho ra những gì. Một đối tượng giống như một cái hộp có các nút là điều kiện vào và tạo ra sản phẩm tùy thuộc vào cách ta đưa điều kiện vào thế nào."
+        "t": "Thế các đối tượng là gì? ÕÒ đây, các đối tượng chính là những đoạn chương trình nhỏ thực hiện một số tác vụ đặc biệt. Toàn bộ một ứng dụng có thể được tạo nên từ các đối tượng này. Nhiều người cho rằng chúng như là các \"hộp đen\". Nội dung bên trong của chúng là không quan trọng. Điều cốt lõi là chúng cho ra những gì. Một đối tượng giống như một cái hộp có các nút là điều kiện vào và tạo ra sản phẩm tùy thuộc vào cách ta đưa điều kiện vào thế nào."
       },
       {
         "k": "m",
@@ -47345,7 +47345,7 @@
         "k": "m",
         "t": "Chắc chắn rồi đây sẽ phát triển mạnh công nghệ chuẩn hóa các kiểu đối tượng phân tán giúp cho tất cả các đối tượng đều giao tiếp được với nhau. Sau đây là phần trình bày chi tiết."
       },
-      {"k": "m", "t": "Các Môi trường Ðối tượng Phân tán"},
+      {"k": "m", "t": "Các Môi trường Đối tượng Phân tán"},
       {
         "k": "m",
         "t": "Các kỹ thuật đối tượng phân tán có thể được dùng ở mức độ cá nhân, trong mạng diện hẹp hay trên cả Internet. Các ứng dụng ở mức độ cá nhân có thể lưu trú trên nhiều server khác nhau. Trong một tổ chức, các đối tượng được sử dụng ở khắp nơi. Có một số đối tượng là cấu trúc cốt lõi của một hệ xử lý dữ liệu rộng lớn. Trên thượng tầng kiến trúc này, các phòng ban hay các nhóm có thể kết nối thêm một số đối tượng phục vụ cho các mục đích chuyên biệt của họ. Vì với giao diện chung của các đối tượng, điều này rất dễ thực hiện."
@@ -47356,7 +47356,7 @@
       },
       {
         "k": "m",
-        "t": "Nhưng có lẽ kỹ thuật này được phát huy mạnh mẽ hơn ở các ứng dụng trên Internet. Ví dụ việc cập nhật trình duyệt Web. Cụ thể để thể hiện được không gian ba chiều, bạn có thể kết nối với thành phần VRML. Ðiều này giúp mở rộng chức năng của một chương trình chỉ bằng cách chép xuống các đối tượng có hình thức là các logo mà thôi."
+        "t": "Nhưng có lẽ kỹ thuật này được phát huy mạnh mẽ hơn ở các ứng dụng trên Internet. Ví dụ việc cập nhật trình duyệt Web. Cụ thể để thể hiện được không gian ba chiều, bạn có thể kết nối với thành phần VRML. Điều này giúp mở rộng chức năng của một chương trình chỉ bằng cách chép xuống các đối tượng có hình thức là các logo mà thôi."
       },
       {
         "k": "m",
@@ -47372,7 +47372,7 @@
       },
       {
         "k": "m",
-        "t": "Ðến đây vấn đề gì sẽ xảy ra cho các ứng dụng phân tán trên các mạng. Ðó là vấn đề khi có một thành phần gặp sự cố sẽ gây ảnh hưởng lên toàn ứng dụng. Vì thế bộ giám sát giao dịch là rất cần thiết. Microsoft Transaction Server là một ví dụ điển hình cho vấn đề này. Xem \"Transaction Processing\" để biết thêm chi tiết."
+        "t": "Đến đây vấn đề gì sẽ xảy ra cho các ứng dụng phân tán trên các mạng. Đó là vấn đề khi có một thành phần gặp sự cố sẽ gây ảnh hưởng lên toàn ứng dụng. Vì thế bộ giám sát giao dịch là rất cần thiết. Microsoft Transaction Server là một ví dụ điển hình cho vấn đề này. Xem \"Transaction Processing\" để biết thêm chi tiết."
       },
       {"k": "m", "t": "Object Request Brokers"},
       {
@@ -49213,7 +49213,7 @@
   },
   {
     "h": "district-railway",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đường sắt ngoại ô (Luân Ðôn)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đường sắt ngoại ô (Luân Đôn)."}],
     "ipa": "'distrikt,reilwei",
     "k": "district-railway"
   },
@@ -49699,7 +49699,7 @@
   {
     "h": "Disutility",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðộ bất thỏa dung."},
+      {"k": "m", "t": "(kinh tế) Độ bất thỏa dung."},
       {
         "k": "m",
         "t": "Sự không thỏa mãn hoặc không hài lòng do một sản phẩm hay hàng xấu gây ra.Xem Utility."
@@ -50296,7 +50296,7 @@
   },
   {
     "h": "diurnal epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh ban ngày."}],
+    "segs": [{"k": "m", "t": "Động kinh ban ngày."}],
     "k": "diurnal epilepsy"
   },
   {
@@ -50638,7 +50638,7 @@
       {"k": "ex", "t": "to diverge from something", "vi": ") phân kỳ"},
       {"k": "m", "t": "rẽ ra"},
       {"k": "ex", "t": "The M6 diverges from the M1 just north of", "vi": "Rugby"},
-      {"k": "m", "t": "Ðường M6 rẽ ra khỏi M1 ở ngay phía bắc Rugby"},
+      {"k": "m", "t": "Đường M6 rẽ ra khỏi M1 ở ngay phía bắc Rugby"},
       {"k": "m", "t": "khác nhau (về ý kiến, quan điểm...)"},
       {"k": "m", "t": "bất đồng ý kiến"},
       {

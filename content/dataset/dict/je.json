@@ -88,7 +88,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(J. Bec-nu-li, 1667-1784), em của Jacpues Bernoulli, viện sĩ danh dự nước ngoài, Viện hàn lâm khoa học Pétersbourg (1725), giáo sư toán học các trường Ðại học tổng hợp Groningen (từ 1695) và Bâle (từ 1705), cộng tác viên tích cực của nhà bác học Ðức G.Leibniz trong việc hoàn thiện phép tính vi phân và tích phân, trong lĩnh vực đó ông đã có hàng loạt những phát minh. Ông đã cho ra bản trình bày đầu tiên có hệ thống về phép tính vi phân và tích phân, xúc tiến việc soạn thảo các phương pháp giải các phương trình vi phân thường. Cuộc tranh luận về cách giải những bài toán biến phân, sau khi bùng lên gay gắt giữa hai anh em Bernoulli (Jacques và Jean), trong chừng mực nào đó, đã thúc đẩy việc đặt ra những vấn đề mới trong lĩnh vực này. Jean Bernoulli còn có những công trình nghiên cứu về cơ học: lý thuyết va đập, chuyển động của vật thể trong môi trường có lực cản, học thuyết về hoạt năng v.v..."
+        "t": "(J. Bec-nu-li, 1667-1784), em của Jacpues Bernoulli, viện sĩ danh dự nước ngoài, Viện hàn lâm khoa học Pétersbourg (1725), giáo sư toán học các trường Đại học tổng hợp Groningen (từ 1695) và Bâle (từ 1705), cộng tác viên tích cực của nhà bác học Đức G.Leibniz trong việc hoàn thiện phép tính vi phân và tích phân, trong lĩnh vực đó ông đã có hàng loạt những phát minh. Ông đã cho ra bản trình bày đầu tiên có hệ thống về phép tính vi phân và tích phân, xúc tiến việc soạn thảo các phương pháp giải các phương trình vi phân thường. Cuộc tranh luận về cách giải những bài toán biến phân, sau khi bùng lên gay gắt giữa hai anh em Bernoulli (Jacques và Jean), trong chừng mực nào đó, đã thúc đẩy việc đặt ra những vấn đề mới trong lĩnh vực này. Jean Bernoulli còn có những công trình nghiên cứu về cơ học: lý thuyết va đập, chuyển động của vật thể trong môi trường có lực cản, học thuyết về hoạt năng v.v..."
       }
     ],
     "k": "jean bernoulli"
@@ -379,7 +379,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(Kinh Thánh) tên của Chúa dùng trong kinh Cựu ước"},
-      {"k": "m", "t": "Giê-hô-va, Ðức Chúa Trời."}
+      {"k": "m", "t": "Giê-hô-va, Đức Chúa Trời."}
     ],
     "ipa": "dʒi'houvə",
     "k": "jehovah"
@@ -428,7 +428,7 @@
   },
   {"h": "jejun", "segs": [{"k": "m", "t": "prefix. chỉ hổng tràng."}], "k": "jejun"},
   {"h": "jejunal", "segs": [{"k": "m", "t": "(thuộc) hỗng tràng, ruột chay."}], "k": "jejunal"},
-  {"h": "jejunal artery", "segs": [{"k": "m", "t": "Ðộng mạch hổng tràng."}], "k": "jejunal artery"},
+  {"h": "jejunal artery", "segs": [{"k": "m", "t": "Động mạch hổng tràng."}], "k": "jejunal artery"},
   {
     "h": "jejunal biopsy",
     "segs": [{"k": "m", "t": "sinh thiết hổng tràng."}],
@@ -1150,7 +1150,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một thành phố cổ, nay là vùng Bờ Tây sông Jordan do Palestine cai trị. Nó là một ốc đảo nằm gần sông Jordan, chảy ngang qua phía vùng biển chết. Ðây là một căn cứ chiến lược quan trọng, tọa lạc giữa điểm nối những con đường thương mại thời xưa. Nó bị dân định cư chiếm đóng để ở, từ năm 9000 trước công nguyên đến nay."
+        "t": "một thành phố cổ, nay là vùng Bờ Tây sông Jordan do Palestine cai trị. Nó là một ốc đảo nằm gần sông Jordan, chảy ngang qua phía vùng biển chết. Đây là một căn cứ chiến lược quan trọng, tọa lạc giữa điểm nối những con đường thương mại thời xưa. Nó bị dân định cư chiếm đóng để ở, từ năm 9000 trước công nguyên đến nay."
       },
       {
         "k": "m",
@@ -1397,9 +1397,9 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(lóng) cái bô (để đi đái đêm)"},
       {"k": "m", "t": "(như)"},
-      {"k": "ex", "t": "jerry-shop", "vi": "lính Ðức"},
-      {"k": "m", "t": "người Ðức"},
-      {"k": "m", "t": "máy bay Ðức."}
+      {"k": "ex", "t": "jerry-shop", "vi": "lính Đức"},
+      {"k": "m", "t": "người Đức"},
+      {"k": "m", "t": "máy bay Đức."}
     ],
     "ipa": "'dʒeri",
     "k": "jerry",
@@ -1579,15 +1579,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "một thánh địa của người Do Thái, đạo Cơ Ðốc giáo và đạo Hồi. Nguồn gốc là một khu định cư Jebusite bị David chiếm cứ năm 1.000 trước công nguyên. Ðền Solomon là trung tâm linh thiêng của chủ nghĩa Judaism, bị vua Nebuchadnezzar II phá hủy năm 586 trước công nguyên, nhưng được xây dựng lại năm 516 trước công nguyên, và được làm đẹp thêm bởi đại đế Herod. Năm 70 sau công nguyên Jerusalem bị quân La Mã phá hủy, nơi mà nhà thờ bị phá hủy năm 135, được họ của người (La Mã) xây dựng thành phố Aelia Capitolina."
+        "t": "một thánh địa của người Do Thái, đạo Cơ Đốc giáo và đạo Hồi. Nguồn gốc là một khu định cư Jebusite bị David chiếm cứ năm 1.000 trước công nguyên. Đền Solomon là trung tâm linh thiêng của chủ nghĩa Judaism, bị vua Nebuchadnezzar II phá hủy năm 586 trước công nguyên, nhưng được xây dựng lại năm 516 trước công nguyên, và được làm đẹp thêm bởi đại đế Herod. Năm 70 sau công nguyên Jerusalem bị quân La Mã phá hủy, nơi mà nhà thờ bị phá hủy năm 135, được họ của người (La Mã) xây dựng thành phố Aelia Capitolina."
       },
       {
         "k": "m",
-        "t": "Thánh St Paul coi nơi đó là quê hương của cộng đồng đạo Cơ Ðốc giáo nguyên thủy. Ngài đứng đầu Jerusalem cho đến khi ngài qua đời, và năm 62 thì thánh tông đồ James (của Chúa Jesus) kế vị. Ðến năm 335, Constantine xây dựng một nhà thờ lấy tên là \"mộ thánh\" trên khu đất giả định là nơi chôn cất Chúa Jesus. Từ năm 637, có một biểu tượng cho sự cai trị của Hồi giáo là xây dựng một nhà thờ bằng đá có mái vòm, đó là thành phố của đất thiêng Hồi giáo vào năm 691."
+        "t": "Thánh St Paul coi nơi đó là quê hương của cộng đồng đạo Cơ Đốc giáo nguyên thủy. Ngài đứng đầu Jerusalem cho đến khi ngài qua đời, và năm 62 thì thánh tông đồ James (của Chúa Jesus) kế vị. Đến năm 335, Constantine xây dựng một nhà thờ lấy tên là \"mộ thánh\" trên khu đất giả định là nơi chôn cất Chúa Jesus. Từ năm 637, có một biểu tượng cho sự cai trị của Hồi giáo là xây dựng một nhà thờ bằng đá có mái vòm, đó là thành phố của đất thiêng Hồi giáo vào năm 691."
       },
       {
         "k": "m",
-        "t": "Những hiệp sĩ của nhóm tử vì đạo kiểm soát thành phố từ năm 1099 đến 1187 rồi rơi vào tay Saladin kiểm soát. Ðế chế Ottoman Thổ Nhĩ Kỳ chinh phục Jerusalem năm 1516 và người Suleiman xây những dãy tường bao quanh thành phố cũ vào năm 1538."
+        "t": "Những hiệp sĩ của nhóm tử vì đạo kiểm soát thành phố từ năm 1099 đến 1187 rồi rơi vào tay Saladin kiểm soát. Đế chế Ottoman Thổ Nhĩ Kỳ chinh phục Jerusalem năm 1516 và người Suleiman xây những dãy tường bao quanh thành phố cũ vào năm 1538."
       },
       {
         "k": "m",
@@ -1599,7 +1599,7 @@
       },
       {
         "k": "m",
-        "t": "Trong cuộc chiến 6 ngày (sixday war), năm 1967, khu vực Ả Rập ở Jerusalem bị Israel chiếm cứ, nhưng thành phố vẫn được giữ nguyên, kể từ đó, tình trạng chiếm cứ miền Ðông Jerusalem vẫn là đề tài chính trong những cuộc đàm phán Israel-Palestine."
+        "t": "Trong cuộc chiến 6 ngày (sixday war), năm 1967, khu vực Ả Rập ở Jerusalem bị Israel chiếm cứ, nhưng thành phố vẫn được giữ nguyên, kể từ đó, tình trạng chiếm cứ miền Đông Jerusalem vẫn là đề tài chính trong những cuộc đàm phán Israel-Palestine."
       },
       {
         "k": "m",
@@ -1903,15 +1903,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "cộng đồng của những tín đồ Chúa Jesus. Ðó là trật tự tôn giáo Thiên Chúa giáo La Mã, được thành lập bởi thánh Ignatius Loyola (1534) và được Giáo Hoàng Paul III chấp thuận năm 1540. mục đích tiên khởi là cải đạo Hồi giáo thành đạo Cơ Ðốc giáo, nhưng mục đích này còn góp phần vào việc cải cách Thiên Chúa giáo La Mã, đặc biệt là phải đối mặt với sự thánh thức của việc cải cách đạo Cơ Ðốc giáo."
+        "t": "cộng đồng của những tín đồ Chúa Jesus. Đó là trật tự tôn giáo Thiên Chúa giáo La Mã, được thành lập bởi thánh Ignatius Loyola (1534) và được Giáo Hoàng Paul III chấp thuận năm 1540. mục đích tiên khởi là cải đạo Hồi giáo thành đạo Cơ Đốc giáo, nhưng mục đích này còn góp phần vào việc cải cách Thiên Chúa giáo La Mã, đặc biệt là phải đối mặt với sự thánh thức của việc cải cách đạo Cơ Đốc giáo."
       },
       {
         "k": "m",
-        "t": "Vào đầu thế kỷ 17, những tín đồ của Chúa Jesus đã đóng góp rất nhiều cho sự thành công của việc \"chống lại cải cách\" vì \"cải cách\" có nghĩa là phân biệt họ như là những nhà giáo dục, những nhà truyền giáo ở Ấn Ðộ, Trung Quốc, Châu Phi và Nam Mỹ, nhưng vào cuối thế kỷ, họ chống đối dữ dội trong cộng đồng Thiên Chúa giáo La Mã."
+        "t": "Vào đầu thế kỷ 17, những tín đồ của Chúa Jesus đã đóng góp rất nhiều cho sự thành công của việc \"chống lại cải cách\" vì \"cải cách\" có nghĩa là phân biệt họ như là những nhà giáo dục, những nhà truyền giáo ở Ấn Độ, Trung Quốc, Châu Phi và Nam Mỹ, nhưng vào cuối thế kỷ, họ chống đối dữ dội trong cộng đồng Thiên Chúa giáo La Mã."
       },
       {
         "k": "m",
-        "t": "Những đối thủ của họ khăng khăng trục xuất họ ra khỏi Pháp (1764), ra khỏi Tây Ban Nha năm 1767 và họ bị Giáo Hoàng Clement 14 đàn áp. Cộng đồng của những tín đồ Chúa Jesus (tức là Jesuits) tiếp tục việc giảng đạo ở Ðức, Áo và Anh."
+        "t": "Những đối thủ của họ khăng khăng trục xuất họ ra khỏi Pháp (1764), ra khỏi Tây Ban Nha năm 1767 và họ bị Giáo Hoàng Clement 14 đàn áp. Cộng đồng của những tín đồ Chúa Jesus (tức là Jesuits) tiếp tục việc giảng đạo ở Đức, Áo và Anh."
       },
       {
         "k": "m",
@@ -1933,14 +1933,14 @@
     "segs": [
       {
         "k": "m",
-        "t": "kinh cầu Ðức Giêsu (nhắc đi nhắc lại câu: \"Lạy Chúa Giêsu Kitô, Con Thiên Chúa, xin thương xót con là kẻ có tội\")."
+        "t": "kinh cầu Đức Giêsu (nhắc đi nhắc lại câu: \"Lạy Chúa Giêsu Kitô, Con Thiên Chúa, xin thương xót con là kẻ có tội\")."
       }
     ],
     "k": "jesuits prayer"
   },
   {
     "h": "jesus",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ðức Chúa Giê-su."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Đức Chúa Giê-su."}],
     "ipa": "'dʒi:zəs",
     "k": "jesus"
   },
@@ -1950,11 +1950,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(từ năm 6 trước công nguyên đến năm 30 sau công nguyên) Jesus là nhân vật chính của đạo Cơ Ðốc giáo, do các tín đồ tin rằng Jesus là người con trai nhân hậu của Chúa Trời (Thượng Ðế)."
+        "t": "(từ năm 6 trước công nguyên đến năm 30 sau công nguyên) Jesus là nhân vật chính của đạo Cơ Đốc giáo, do các tín đồ tin rằng Jesus là người con trai nhân hậu của Chúa Trời (Thượng Đế)."
       },
       {
         "k": "m",
-        "t": "Trong đạo Cơ Ðốc giáo thì cho rằng con người của Chúa Jesus là thần thánh, là một tinh chất của Chúa Trời."
+        "t": "Trong đạo Cơ Đốc giáo thì cho rằng con người của Chúa Jesus là thần thánh, là một tinh chất của Chúa Trời."
       },
       {
         "k": "m",
@@ -1990,15 +1990,15 @@
       },
       {
         "k": "m",
-        "t": "Tin vào sự sống lại (phục sinh) của Jesus là đấng cứu tinh của người Do Thái, là sự hoàn thành của người Israel và của loài người (như đã được ghi lại trong kinh Cựu Ước). Những tín đồ của Jesus bắt đầu thành lập những cộng đồng đạo Cơ Ðốc giáo xung quanh Jerusalem để phát triển đạo Cơ Ðốc giáo."
+        "t": "Tin vào sự sống lại (phục sinh) của Jesus là đấng cứu tinh của người Do Thái, là sự hoàn thành của người Israel và của loài người (như đã được ghi lại trong kinh Cựu Ước). Những tín đồ của Jesus bắt đầu thành lập những cộng đồng đạo Cơ Đốc giáo xung quanh Jerusalem để phát triển đạo Cơ Đốc giáo."
       },
       {
         "k": "m",
-        "t": "Tình thương mà Jesus ban trong đời sống đối với người nghèo, được coi như là mẫu mực đạo đức Cơ Ðốc giáo. Sự hy sinh của Jesus là điểm ghi chép trong giáo lý chuộc tội, trong đó Chúa Trời cứu rỗi cho nhân loại khỏi tội lỗi."
+        "t": "Tình thương mà Jesus ban trong đời sống đối với người nghèo, được coi như là mẫu mực đạo đức Cơ Đốc giáo. Sự hy sinh của Jesus là điểm ghi chép trong giáo lý chuộc tội, trong đó Chúa Trời cứu rỗi cho nhân loại khỏi tội lỗi."
       },
       {
         "k": "m",
-        "t": "Những sự việc đầy kịch tính của Jesus, chịu đau khổ, chịu chết và sự phục sinh nằm mãi trong tim của tín ngưỡng và nghi lễ đạo Cơ Ðốc giáo."
+        "t": "Những sự việc đầy kịch tính của Jesus, chịu đau khổ, chịu chết và sự phục sinh nằm mãi trong tim của tín ngưỡng và nghi lễ đạo Cơ Đốc giáo."
       }
     ],
     "k": "jesus christ"
@@ -2867,7 +2867,7 @@
     "h": "jewel-house",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "ex", "t": "the jewel-house", "vi": "kho châu báu Hoàng gia (ở Luân Ðôn)."}
+      {"k": "ex", "t": "the jewel-house", "vi": "kho châu báu Hoàng gia (ở Luân Đôn)."}
     ],
     "ipa": "'dʒu:əlhaus",
     "k": "jewel-house"
@@ -2945,7 +2945,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tt) Ðược trang sức bằng châu báu, có nạm ngọc-a jewelled ring, daggaer snuff-box: một chiếc nhẫn, con dao găm, hộp đựng thuốc hít có nạm đá quí (ngọc)."
+        "t": "(tt) Được trang sức bằng châu báu, có nạm ngọc-a jewelled ring, daggaer snuff-box: một chiếc nhẫn, con dao găm, hộp đựng thuốc hít có nạm đá quí (ngọc)."
       }
     ],
     "k": "jewelled (my jeweled)"
@@ -3087,11 +3087,11 @@
       },
       {
         "k": "m",
-        "t": "Vào thời Trung cổ, người dân Do Thái đã phải chịu sự đối xử phân biệt trong cộng đồng đạo Cơ Ðốc giáo và họ hoan nghênh những cuộc chinh phục của nước Ả Rập để họ được dễ chịu hơn."
+        "t": "Vào thời Trung cổ, người dân Do Thái đã phải chịu sự đối xử phân biệt trong cộng đồng đạo Cơ Đốc giáo và họ hoan nghênh những cuộc chinh phục của nước Ả Rập để họ được dễ chịu hơn."
       },
       {
         "k": "m",
-        "t": "Ở Tây Ban Nha và ở Cairo, họ thịnh vượng cả về vật chất lẫn tri thức, họ được tự do cho vay nặng lãi, một tội ác đối tín đồ đạo Cơ Ðốc giáo. Họ sống thành từng đoàn trong những khu nhà ổ chuột. Mặc dù họ được khoan dung như thế, họ vẫn phải chịu đựng những sự bức hại. Họ bị trục xuất khỏi Tây Ban Nha năm 1492, phải đi tỵ nạn ở miền Bắc Phi, ở miền Levant, ở đế chế Ottoman và ở Ý."
+        "t": "Ở Tây Ban Nha và ở Cairo, họ thịnh vượng cả về vật chất lẫn tri thức, họ được tự do cho vay nặng lãi, một tội ác đối tín đồ đạo Cơ Đốc giáo. Họ sống thành từng đoàn trong những khu nhà ổ chuột. Mặc dù họ được khoan dung như thế, họ vẫn phải chịu đựng những sự bức hại. Họ bị trục xuất khỏi Tây Ban Nha năm 1492, phải đi tỵ nạn ở miền Bắc Phi, ở miền Levant, ở đế chế Ottoman và ở Ý."
       },
       {
         "k": "m",
@@ -3107,7 +3107,7 @@
       },
       {
         "k": "m",
-        "t": "Sở dĩ nhiều thành phố có cư dân Do Thái vì họ phải di cư để lánh nạn \"bài Do Thái\". Ấn tượng tàn bạo nhất là nạn diệt chủng của Ðức quốc xã đảng Nazi trong đệ nhị thế chiến, khoảng 6 triệu người Do Thái đã bị giết."
+        "t": "Sở dĩ nhiều thành phố có cư dân Do Thái vì họ phải di cư để lánh nạn \"bài Do Thái\". Ấn tượng tàn bạo nhất là nạn diệt chủng của Đức quốc xã đảng Nazi trong đệ nhị thế chiến, khoảng 6 triệu người Do Thái đã bị giết."
       },
       {
         "k": "m",
@@ -3125,7 +3125,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cuộc nổi dậy nghiêm trọng do lực lượng Zealots (Do Thái) chống lại sự cai trị của La Mã (66-70 sau công nguyên), để đáp lại ông Vespasian (La Mã) đem 60.000 quân xâm lăng Palestine. Ðến năm 68, quân nổi loạn bị giam cầm ở vùng Jerusalem."
+        "t": "cuộc nổi dậy nghiêm trọng do lực lượng Zealots (Do Thái) chống lại sự cai trị của La Mã (66-70 sau công nguyên), để đáp lại ông Vespasian (La Mã) đem 60.000 quân xâm lăng Palestine. Đến năm 68, quân nổi loạn bị giam cầm ở vùng Jerusalem."
       },
       {
         "k": "m",

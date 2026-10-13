@@ -219,10 +219,10 @@
     {
       "e": 237.67,
       "en": "Is this the wine that you order?",
-      "vi": "Ðây là rượu ông gọi phải không ạ?",
+      "vi": "Đây là rượu ông gọi phải không ạ?",
       "s": 236.22
     },
-    {"e": 239.34, "en": "Yes, it is. OK.", "vi": "Ðúng rồi.", "s": 237.67},
+    {"e": 239.34, "en": "Yes, it is. OK.", "vi": "Đúng rồi.", "s": 237.67},
     {
       "e": 244.33,
       "en": "And why did you choose that wine?",
@@ -265,11 +265,11 @@
       "vi": "Bố à, con cần một cái áo sơ mi mới để đi học.",
       "s": 270.42
     },
-    {"e": 284.57, "en": "OK,", "vi": "Ðược rồi.", "s": 275.71},
+    {"e": 284.57, "en": "OK,", "vi": "Được rồi.", "s": 275.71},
     {
       "e": 287.24,
       "en": "here's $30. Will that be enough?",
-      "vi": "Ðây là 30 đô la, Vậy đủ không con?",
+      "vi": "Đây là 30 đô la, Vậy đủ không con?",
       "s": 284.57
     },
     {
@@ -312,7 +312,7 @@
     {"e": 331.26, "en": "$30.", "vi": "30 đô la ạ.", "s": 329.28},
     {"e": 334.13, "en": "$30? That's too much!", "vi": "30 đô à, nhiều thế!", "s": 331.26},
     {"e": 335.77, "en": "But Dad!", "vi": "Nhưng thưa bố!", "s": 334.13},
-    {"e": 344.74, "en": "Here's 20.", "vi": "Ðây là 20 đô.", "s": 335.77},
+    {"e": 344.74, "en": "Here's 20.", "vi": "Đây là 20 đô.", "s": 335.77},
     {
       "e": 348.4,
       "en": "Only 20? That's not enough!",
@@ -411,7 +411,7 @@
     {
       "e": 419.84,
       "en": "Yes, very cold! Is it cold in Australia?",
-      "vi": "Ðúng đấy, rất lạnh! Ở Úc có lạnh không?",
+      "vi": "Đúng đấy, rất lạnh! Ở Úc có lạnh không?",
       "s": 415.06
     },
     {
@@ -474,7 +474,7 @@
     {
       "e": 464.55,
       "en": "Yes, I am. This is my husband.",
-      "vi": "Có rồi. Ðây là chồng tôi.",
+      "vi": "Có rồi. Đây là chồng tôi.",
       "s": 460.05
     },
     {"e": 466.34, "en": "Hello.", "vi": "Xin chào.", "s": 464.55}

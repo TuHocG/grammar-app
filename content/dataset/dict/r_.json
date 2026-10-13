@@ -16,7 +16,7 @@
         "vi": "trong vòng tròn, nằm phía trên, bên phải của một nhãn hiệu) nhãn hiệu đã đăng ký độc quyền"
       },
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "R", "vi": ") (Mỹ) Ðảng Cộng hòa (ở Mỹ)"},
+      {"k": "ex", "t": "R", "vi": ") (Mỹ) Đảng Cộng hòa (ở Mỹ)"},
       {"k": "m", "t": "("},
       {"k": "ex", "t": "R) (tắt) của River", "vi": "con sông (nhất là trên bản đồ)"},
       {"k": "ex", "t": "R Thames", "vi": "sông Thames"},
@@ -126,7 +126,7 @@
     ],
     "k": "r'n'b"
   },
-  {"h": "R(S-T) segment", "segs": [{"k": "m", "t": "Ðoạn R(ST)"}], "k": "r(s-t) segment"},
+  {"h": "R(S-T) segment", "segs": [{"k": "m", "t": "Đoạn R(ST)"}], "k": "r(s-t) segment"},
   {
     "h": "R-C circuit",
     "segs": [

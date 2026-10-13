@@ -42,7 +42,7 @@
     "segs": [{"k": "m", "t": "Phản xạ hơi kích thích tim."}],
     "k": "pneocardiac reflex"
   },
-  {"h": "pneogaster", "segs": [{"k": "m", "t": "Ðường hô hấp phôi."}], "k": "pneogaster"},
+  {"h": "pneogaster", "segs": [{"k": "m", "t": "Đường hô hấp phôi."}], "k": "pneogaster"},
   {"h": "pneogram", "segs": [{"k": "m", "t": "Biểu đồ động tác ngực."}], "k": "pneogram"},
   {
     "h": "pneograph",
@@ -1276,7 +1276,7 @@
   },
   {
     "h": "pneumocephalon artificiale",
-    "segs": [{"k": "m", "t": "Ðiều trị bơm khí khoang sọ."}],
+    "segs": [{"k": "m", "t": "Điều trị bơm khí khoang sọ."}],
     "k": "pneumocephalon artificiale"
   },
   {
@@ -1390,7 +1390,7 @@
   },
   {"h": "pneumocyte", "segs": [{"k": "m", "t": "tế bào khí."}], "k": "pneumocyte"},
   {"h": "pneumoderma", "segs": [{"k": "m", "t": "Khí thũng da, tràn khí da."}], "k": "pneumoderma"},
-  {"h": "pneumodynamics", "segs": [{"k": "m", "t": "Ðộng lực học hô hấp."}], "k": "pneumodynamics"},
+  {"h": "pneumodynamics", "segs": [{"k": "m", "t": "Động lực học hô hấp."}], "k": "pneumodynamics"},
   {
     "h": "pneumoempyema",
     "segs": [{"k": "m", "t": "Khí thũng màng phổi, tràn khí màng phổi."}],
@@ -1696,7 +1696,7 @@
     "k": "pneumonorrhaphy"
   },
   {"h": "pneumonosis", "segs": [{"k": "m", "t": "Bệnh phổi."}], "k": "pneumonosis"},
-  {"h": "pneumonotherapy", "segs": [{"k": "m", "t": "Ðiều trị bệnh phổi."}], "k": "pneumonotherapy"},
+  {"h": "pneumonotherapy", "segs": [{"k": "m", "t": "Điều trị bệnh phổi."}], "k": "pneumonotherapy"},
   {"h": "pneumonotomy", "segs": [{"k": "m", "t": "(thủ thuật) mở phổi."}], "k": "pneumonotomy"},
   {
     "h": "pneumoparesis",

@@ -8,18 +8,18 @@
   "video": "A  1.avi",
   "duration": 2143.8,
   "lines": [
-    {"e": 37.09, "en": "This is my house.", "vi": "Ðây là ngôi nhà của tôi.", "s": 34.75},
+    {"e": 37.09, "en": "This is my house.", "vi": "Đây là ngôi nhà của tôi.", "s": 34.75},
     {
       "e": 39.9,
       "en": "This is my house. It's not big, and it's not small.",
-      "vi": "Ðây là ngôi nhà của tôi. Nó không lớn và cũng không nhỏ.",
+      "vi": "Đây là ngôi nhà của tôi. Nó không lớn và cũng không nhỏ.",
       "s": 37.09
     },
     {"e": 41.9, "en": "But I like it.", "vi": "nhưng tôi thích nó.", "s": 39.9},
     {"e": 44.11, "en": "Three people live here.", "vi": "có 3 người sống ở đây.", "s": 41.9},
-    {"e": 45.55, "en": "This is Matt.", "vi": "Ðây là Matt.", "s": 44.11},
+    {"e": 45.55, "en": "This is Matt.", "vi": "Đây là Matt.", "s": 44.11},
     {"e": 47.13, "en": "Hi. I'm Matt.", "vi": "Xin chào. Tôi là Matt.", "s": 45.55},
-    {"e": 49.6, "en": "This is David.", "vi": "Ðây là David.", "s": 47.13},
+    {"e": 49.6, "en": "This is David.", "vi": "Đây là David.", "s": 47.13},
     {"e": 51.52, "en": "Hello. My name's David.", "vi": "Xin chào. Tên tôi là David.", "s": 49.6},
     {"e": 53.95, "en": "And that's me.", "vi": "và đó là tôi.", "s": 51.52},
     {
@@ -60,18 +60,18 @@
       "s": 123.99
     },
     {"e": 127.13, "en": "Good.", "vi": "Tốt.", "s": 126.19},
-    {"e": 129.36, "en": "This is a nice house.", "vi": "Ðây là ngôi nhà đẹp.", "s": 127.13},
+    {"e": 129.36, "en": "This is a nice house.", "vi": "Đây là ngôi nhà đẹp.", "s": 127.13},
     {
       "e": 131.7,
       "en": "Thanks. We're happy here.",
       "vi": "Cảm ơn. Chúng tôi rất vui khi ở đây.",
       "s": 129.36
     },
-    {"e": 133.85, "en": "OK?", "vi": "Ðược chứ?", "s": 131.7},
+    {"e": 133.85, "en": "OK?", "vi": "Được chứ?", "s": 131.7},
     {
       "e": 138.14,
       "en": "OK, Anne... - Cigarette?",
-      "vi": "Ðược rồi Anne... - Hút thuốc không?",
+      "vi": "Được rồi Anne... - Hút thuốc không?",
       "s": 133.85
     },
     {
@@ -147,7 +147,7 @@
     {
       "e": 255.24,
       "en": "That's great, Jane. It's your room.",
-      "vi": "Ðược rồi Jane. Ðây là phòng của cô.",
+      "vi": "Được rồi Jane. Đây là phòng của cô.",
       "s": 246.62
     },
     {"e": 256.91, "en": "Fantastic!", "vi": "Tuyệt quá!", "s": 255.24},
@@ -186,17 +186,17 @@
     {
       "e": 308.85,
       "en": "It's a video film, about my new house and my new housemates.",
-      "vi": "Ðoạn phim về nhà mới và bạn chung nhà mới của tôi.",
+      "vi": "Đoạn phim về nhà mới và bạn chung nhà mới của tôi.",
       "s": 304.1
     },
     {
       "e": 310.81,
       "en": "It's for my sister, Alison.",
-      "vi": "Ðể gửi cho em gái tôi là Alison.",
+      "vi": "Để gửi cho em gái tôi là Alison.",
       "s": 308.85
     },
     {"e": 313.15, "en": "Oh, right.", "vi": "À được rồi.", "s": 310.81},
-    {"e": 315.03, "en": "Is it OK?", "vi": "Ðược chứ?", "s": 313.15},
+    {"e": 315.03, "en": "Is it OK?", "vi": "Được chứ?", "s": 313.15},
     {"e": 317.34, "en": "Yeah, sure.", "vi": "Ừ được.", "s": 315.03},
     {"e": 324.09, "en": "OK, Ali. This is the kitchen.", "vi": "Ali, đây là nhà bếp.", "s": 317.34},
     {"e": 330.94, "en": "And who is this?", "vi": "Còn đây là ai?", "s": 324.09},
@@ -254,7 +254,7 @@
     {
       "e": 402.29,
       "en": "I come from London but I live in Oxford. What else?",
-      "vi": "Tôi đến từ Luân Ðôn nhưng sống ở Oxford. Gì nữa?",
+      "vi": "Tôi đến từ Luân Đôn nhưng sống ở Oxford. Gì nữa?",
       "s": 398.41
     },
     {"e": 403.56, "en": "What do you do?", "vi": "Chị làm những gì?", "s": 402.29},
@@ -267,7 +267,7 @@
     {
       "e": 411.85,
       "en": "I work in Oxford but I sometimes go to the London office.",
-      "vi": "Tôi làm việc ở Oxford nhưng thỉnh thoảng tôi đến văn phòng ở Luân Ðôn.",
+      "vi": "Tôi làm việc ở Oxford nhưng thỉnh thoảng tôi đến văn phòng ở Luân Đôn.",
       "s": 407.64
     },
     {
@@ -404,17 +404,17 @@
       "s": 598.54
     },
     {"e": 608.14, "en": "Move the bed.", "vi": "Chuyển cái giường.", "s": 605.7},
-    {"e": 609.33, "en": "Where?", "vi": "Ði đâu?", "s": 608.14},
+    {"e": 609.33, "en": "Where?", "vi": "Đi đâu?", "s": 608.14},
     {
       "e": 612.23,
       "en": "How about under the window?",
-      "vi": "Ðể ở dưới cửa sổ được không?",
+      "vi": "Để ở dưới cửa sổ được không?",
       "s": 609.33
     },
     {
       "e": 616.77,
       "en": "Put the hi-fi on the chest of drawers.",
-      "vi": "Ðặt máy nghe nhạc vào tủ ngăn kéo.",
+      "vi": "Đặt máy nghe nhạc vào tủ ngăn kéo.",
       "s": 612.23
     },
     {
@@ -451,7 +451,7 @@
     {
       "e": 648.28,
       "en": "Can we do it for you?",
-      "vi": "Ðể chúng tôi làm thay bạn nhé?",
+      "vi": "Để chúng tôi làm thay bạn nhé?",
       "s": 645.79
     },
     {"e": 653.08, "en": "Really?", "vi": "Thực không?", "s": 648.28},
@@ -510,19 +510,19 @@
     {
       "e": 727.58,
       "en": "Go down the road, and it's on the right, next to the supermarket.",
-      "vi": "Ði vào đường đó, nó ở bên phải, sát siêu thị.",
+      "vi": "Đi vào đường đó, nó ở bên phải, sát siêu thị.",
       "s": 724.37
     },
     {"e": 729.76, "en": "Thank you.", "vi": "Cảm ơn.", "s": 727.58},
     {"e": 782.3, "en": "How about this?", "vi": "Cái này được không?", "s": 729.76},
-    {"e": 784.05, "en": "Black?", "vi": "Ðen à?", "s": 782.3},
+    {"e": 784.05, "en": "Black?", "vi": "Đen à?", "s": 782.3},
     {
       "e": 790.27,
       "en": "There are some really nice colours here.",
       "vi": "Ở đây có màu đẹp nè.",
       "s": 784.05
     },
-    {"e": 793.72, "en": "Oh look. This is lovely.", "vi": "Ồ nhìn xem. Ðẹp quá.", "s": 790.27},
+    {"e": 793.72, "en": "Oh look. This is lovely.", "vi": "Ồ nhìn xem. Đẹp quá.", "s": 790.27},
     {"e": 794.8, "en": "How much is it?", "vi": "Bao nhiêu vậy?", "s": 793.72},
     {"e": 797.02, "en": "Sixteen pounds forty-nine.", "vi": "16,49 Bảng Anh.", "s": 794.8},
     {"e": 798.63, "en": "Gosh! That's expensive.", "vi": "Trời, đắt thế.", "s": 797.02},
@@ -545,11 +545,11 @@
     {
       "e": 822.07,
       "en": "Two. That's... twenty-three ninety-eight. Twenty-four pounds. That's OK.",
-      "vi": "2 hộp. 23,98. 24 Bảng Anh. Ðược rồi.",
+      "vi": "2 hộp. 23,98. 24 Bảng Anh. Được rồi.",
       "s": 817.07
     },
     {"e": 828.46, "en": "Now, are there any rollers?", "vi": "Có cọ lăn không?", "s": 822.07},
-    {"e": 830.06, "en": "Ah, There are some over there.", "vi": "Ðằng kia có đó.", "s": 828.46},
+    {"e": 830.06, "en": "Ah, There are some over there.", "vi": "Đằng kia có đó.", "s": 828.46},
     {"e": 888.96, "en": "What do you think?", "vi": "Bạn nghĩ sao?", "s": 830.06},
     {"e": 890.42, "en": "It looks great.", "vi": "Nó đẹp.", "s": 888.96},
     {"e": 891.79, "en": "I love it.", "vi": "Tôi thích nó.", "s": 890.42},
@@ -563,7 +563,7 @@
     {
       "e": 924.17,
       "en": "Yes. Thanks. I really like this colour.",
-      "vi": "Ðược rồi. Tôi rất thích màu này.",
+      "vi": "Được rồi. Tôi rất thích màu này.",
       "s": 919.39
     },
     {
@@ -612,7 +612,7 @@
     {
       "e": 1014.83,
       "en": "That's Leo. You're a lion.",
-      "vi": "Ðó là cung sư tử. Bạn tuổi sư tử.",
+      "vi": "Đó là cung sư tử. Bạn tuổi sư tử.",
       "s": 1010.31
     },
     {"e": 1018.18, "en": "What's wrong?", "vi": "Không đúng à?", "s": 1014.83},
@@ -686,7 +686,7 @@
     {
       "e": 1083.4,
       "en": "Right. How many people?",
-      "vi": "Ðược thôi. Bao nhiêu người?",
+      "vi": "Được thôi. Bao nhiêu người?",
       "s": 1079.29
     },
     {"e": 1085.69, "en": "Just the four of us.", "vi": "Chỉ có 4 chúng ta.", "s": 1083.4},
@@ -699,7 +699,7 @@
     {
       "e": 1097.22,
       "en": "OK, let's make a shopping list.",
-      "vi": "Ðược rồi. Ghi các món cần mua đi.",
+      "vi": "Được rồi. Ghi các món cần mua đi.",
       "s": 1092.49
     },
     {"e": 1130.2, "en": "I got it.", "vi": "Tôi đã mua nó rồi.", "s": 1097.22},
@@ -755,7 +755,7 @@
     {"e": 1178.99, "en": "Anything!", "vi": "Nói gì cũng được.", "s": 1177.84},
     {"e": 1184.82, "en": "Hi, Jane.", "vi": "Chào Jane.", "s": 1178.99},
     {"e": 1185.89, "en": "Hi, Matt.", "vi": "Chào Matt.", "s": 1184.82},
-    {"e": 1194.83, "en": "Let me.", "vi": "Ðể tôi.", "s": 1185.89},
+    {"e": 1194.83, "en": "Let me.", "vi": "Để tôi.", "s": 1185.89},
     {"e": 1196.07, "en": "Thanks.", "vi": "Cảm ơn.", "s": 1194.83},
     {"e": 1199.41, "en": "Did you have a nice day?", "vi": "Hôm nay bạn vui không?", "s": 1196.07},
     {"e": 1201.57, "en": "Er, yes.", "vi": "Ừ vui.", "s": 1199.41},
@@ -856,7 +856,7 @@
       "vi": "Tối nay em có rảnh không?",
       "s": 1318.64
     },
-    {"e": 1335.04, "en": "... For a meal, yeah...", "vi": "Ði ăn à, ờ...", "s": 1332.52},
+    {"e": 1335.04, "en": "... For a meal, yeah...", "vi": "Đi ăn à, ờ...", "s": 1332.52},
     {"e": 1337.46, "en": "You are? That's fantastic!", "vi": "Em hả? Tuyệt quá!", "s": 1335.04},
     {
       "e": 1339.61,
@@ -874,7 +874,7 @@
     {
       "e": 1349.86,
       "en": "OK, then. See you at 7.30. Bye.",
-      "vi": "Ðược rồi. Gặp em lúc 7 giờ 30. Chào.",
+      "vi": "Được rồi. Gặp em lúc 7 giờ 30. Chào.",
       "s": 1345.87
     },
     {"e": 1352.86, "en": "David has a date.", "vi": "David có hẹn.", "s": 1349.86},
@@ -956,7 +956,7 @@
     },
     {"e": 1446.6, "en": "What's the problem?", "vi": "Nó sao cơ?", "s": 1445.13},
     {"e": 1449.22, "en": "Nothing.", "vi": "Không có gì.", "s": 1446.6},
-    {"e": 1455.63, "en": "Come on!", "vi": "Ði nào.", "s": 1449.22},
+    {"e": 1455.63, "en": "Come on!", "vi": "Đi nào.", "s": 1449.22},
     {
       "e": 1457.98,
       "en": "It's really lovely here, thanks, David.",
@@ -1105,7 +1105,7 @@
     {"e": 1651.57, "en": "Don't mention it.", "vi": "Không có chi.", "s": 1649.92},
     {"e": 1655.46, "en": "Goodnight.", "vi": "Chào.", "s": 1651.57},
     {"e": 1656.84, "en": "Night.", "vi": "Chào.", "s": 1655.46},
-    {"e": 1673.23, "en": "How much is it so far?", "vi": "Ðến đây là bao nhiêu rồi?", "s": 1656.84},
+    {"e": 1673.23, "en": "How much is it so far?", "vi": "Đến đây là bao nhiêu rồi?", "s": 1656.84},
     {"e": 1675.61, "en": "Nineteen pounds fifty, sir.", "vi": "19,50 Bảng thưa ông.", "s": 1673.23},
     {
       "e": 1678.09,
@@ -1137,7 +1137,7 @@
     {
       "e": 1723.29,
       "en": "So that was David's date with Julia.",
-      "vi": "Ðó là cuộc hẹn của David với Julia.",
+      "vi": "Đó là cuộc hẹn của David với Julia.",
       "s": 1719.85
     },
     {
@@ -1167,9 +1167,9 @@
     {"e": 1755.77, "en": "What does your sister do?", "vi": "Em gái của cô làm gì?", "s": 1750.95},
     {"e": 1757.66, "en": "She's a student.", "vi": "Cô ấy là sinh viên.", "s": 1755.77},
     {"e": 1759.47, "en": "What's she studying?", "vi": "Cô ấy học ngành gì?", "s": 1757.66},
-    {"e": 1760.85, "en": "Film studies.", "vi": "Ðiện ảnh.", "s": 1759.47},
+    {"e": 1760.85, "en": "Film studies.", "vi": "Điện ảnh.", "s": 1759.47},
     {"e": 1763.58, "en": "Gosh, that sounds interesting.", "vi": "Ồ, hay quá vậy.", "s": 1760.85},
-    {"e": 1767.12, "en": "There. Finished.", "vi": "Ðó, xong rồi.", "s": 1763.58},
+    {"e": 1767.12, "en": "There. Finished.", "vi": "Đó, xong rồi.", "s": 1763.58},
     {"e": 1770.97, "en": "Actually, there's...", "vi": "Thực ra vẫn còn...", "s": 1767.12},
     {"e": 1774.76, "en": "What time is she arriving?", "vi": "Chừng nào cô ấy đến?", "s": 1770.97},
     {"e": 1776.01, "en": "Two thirty.", "vi": "Hai giờ rưỡi.", "s": 1774.76},
@@ -1201,7 +1201,7 @@
     {
       "e": 1810.44,
       "en": "Just a moment. Jane. It's your sister.",
-      "vi": "Ðợi chút. Jane, em của cô kìa.",
+      "vi": "Đợi chút. Jane, em của cô kìa.",
       "s": 1802.8
     },
     {
@@ -1243,7 +1243,7 @@
     {
       "e": 1832.85,
       "en": "That's OK. I can come to your house by bus.",
-      "vi": "Ðược rồi. Em đến nhà chị bằng xe buýt.",
+      "vi": "Được rồi. Em đến nhà chị bằng xe buýt.",
       "s": 1829.94
     },
     {
@@ -1258,16 +1258,16 @@
       "vi": "Ai có thể đón em tôi không? Lớp Yoga của tôi bắt đầu trong 20 phút nữa.",
       "s": 1836.35
     },
-    {"e": 1841.42, "en": "I can.", "vi": "Ðể tôi.", "s": 1840.74},
-    {"e": 1842.55, "en": "I can.", "vi": "Ðể tôi.", "s": 1841.42},
-    {"e": 1843.55, "en": "I can.", "vi": "Ðể tôi.", "s": 1842.55},
+    {"e": 1841.42, "en": "I can.", "vi": "Để tôi.", "s": 1840.74},
+    {"e": 1842.55, "en": "I can.", "vi": "Để tôi.", "s": 1841.42},
+    {"e": 1843.55, "en": "I can.", "vi": "Để tôi.", "s": 1842.55},
     {
       "e": 1845.76,
       "en": "Please! I hate cleaning.",
       "vi": "Làm ơn đi! Tôi ghét lau chùi lắm.",
       "s": 1843.55
     },
-    {"e": 1850.14, "en": "OK. Hello, Ali?", "vi": "Ðược rồi, Ali ơi?", "s": 1845.76},
+    {"e": 1850.14, "en": "OK. Hello, Ali?", "vi": "Được rồi, Ali ơi?", "s": 1845.76},
     {"e": 1851.7, "en": "Matt can meet you.", "vi": "Matt sẽ đón em.", "s": 1850.14},
     {
       "e": 1854.8,
@@ -1276,7 +1276,7 @@
       "s": 1851.7
     },
     {"e": 1856.4, "en": "Why don't you wait there?", "vi": "Sao em không đợi ở đó?", "s": 1854.8},
-    {"e": 1857.78, "en": "OK.", "vi": "Ðược.", "s": 1856.4},
+    {"e": 1857.78, "en": "OK.", "vi": "Được.", "s": 1856.4},
     {
       "e": 1860.78,
       "en": "Can you meet Ali at The Rose Café?",
@@ -1286,7 +1286,7 @@
     {
       "e": 1862.86,
       "en": "Sure. What does she look like?",
-      "vi": "Ðược chứ. Cô ấy trông thế nào?",
+      "vi": "Được chứ. Cô ấy trông thế nào?",
       "s": 1860.78
     },
     {"e": 1865.26, "en": "Hold on, Ali.", "vi": "Chờ chút Ali.", "s": 1862.86},
@@ -1364,7 +1364,7 @@
       "s": 2055.5
     },
     {"e": 2066.62, "en": "... Sorry. Sorry. Sorry.", "vi": "Xin lỗi.", "s": 2058.97},
-    {"e": 2070.78, "en": "Just go away!", "vi": "Ði đi!", "s": 2066.62},
+    {"e": 2070.78, "en": "Just go away!", "vi": "Đi đi!", "s": 2066.62},
     {
       "e": 2074.1,
       "en": "Sorry. I think there's some mistake. Matt, I'm Alison. Nice to meet you.",
@@ -1377,7 +1377,7 @@
       "vi": "Ồ, Tôi rất tiếc. Xin chào, tôi tưởng rằng...",
       "s": 2074.1
     },
-    {"e": 2081.89, "en": "It's OK. Let's go.", "vi": "Ðược rồi. Ði thôi.", "s": 2077.11},
+    {"e": 2081.89, "en": "It's OK. Let's go.", "vi": "Được rồi. Đi thôi.", "s": 2077.11},
     {"e": 2088.82, "en": "Sorry about that.", "vi": "Xin lỗi về chuyện đó nhé.", "s": 2081.89},
     {
       "e": 2090.74,
@@ -1434,7 +1434,7 @@
     {
       "e": 2143.82,
       "en": "Sorry, that evening, after Matt's conversation with the police.",
-      "vi": "Ðáng tiếc là trước buổi tối hôm đó Matt đã bị cảnh sát thẩm vấn.",
+      "vi": "Đáng tiếc là trước buổi tối hôm đó Matt đã bị cảnh sát thẩm vấn.",
       "s": 2137.1
     }
   ]

@@ -83,7 +83,7 @@
   {"h": "LPN", "segs": [{"k": "m", "t": "(logical page number) số trang logic."}], "k": "lpn"},
   {
     "h": "lpo",
-    "segs": [{"k": "m", "t": "(tắt) dàn nhạc hòa tấu Luân Ðôn (London philharmonic orchestra)."}],
+    "segs": [{"k": "m", "t": "(tắt) dàn nhạc hòa tấu Luân Đôn (London philharmonic orchestra)."}],
     "ipa": ",el pi:'ou",
     "k": "lpo"
   },

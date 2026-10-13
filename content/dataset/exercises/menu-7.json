@@ -42,7 +42,7 @@
     "blanks": [{"a": "endeavoring", "alt": [], "n": 1}],
     "choices": ["sailing", "failing", "trying", "hoping"],
     "answer": "c",
-    "vi": "Trong khi nỗ lực tìm ra con đường đi đến Ấn Ðộ, ông Colomb tình cờ đã khám phá ra Châu Mỹ.",
+    "vi": "Trong khi nỗ lực tìm ra con đường đi đến Ấn Độ, ông Colomb tình cờ đã khám phá ra Châu Mỹ.",
     "expl": [
       {"head": "- sailing: điều khiển thuyền, dong buồm", "lines": [], "refs": []},
       {"head": "- failing: thất bại", "lines": [], "refs": []},
@@ -833,7 +833,7 @@
     "blanks": [{"a": "gave", "alt": [], "n": 1}],
     "choices": ["donated some money", "crusaded for", "submitted a paper", "complained bitterly"],
     "answer": "a",
-    "vi": "Mỗi người trong văn phòng đã cho Hội Chữ Thập Ðỏ.",
+    "vi": "Mỗi người trong văn phòng đã cho Hội Chữ Thập Đỏ.",
     "expl": [
       {"head": "- donated some money: đã cho (biếu, tặng) một số tiền", "lines": [], "refs": []},
       {"head": "- crusaded for: vận động kịch liệt", "lines": [], "refs": []},
@@ -952,7 +952,7 @@
     "blanks": [{"a": "lovesick", "alt": [], "n": 1}],
     "choices": ["sentimental", "diseased", "dirty", "amateur"],
     "answer": "a",
-    "vi": "Ðừng nghe bài hát tương tư đó.",
+    "vi": "Đừng nghe bài hát tương tư đó.",
     "expl": [
       {"head": "- sentimental: (adj) đa cảm", "lines": [], "refs": []},
       {"head": "- diseased: bệnh tật", "lines": [], "refs": []},
@@ -1411,7 +1411,7 @@
     "blanks": [{"a": "institutions", "alt": [], "n": 1}],
     "choices": ["buildings", "establishments", "companies", "incidences"],
     "answer": "b",
-    "vi": "Xấp xỉ (gần bằng) một nửa số học sinh tốt nghiệp của trường Cao Ðẳng ghi tên lập ra nhóm nghiên cứu cao hơn.",
+    "vi": "Xấp xỉ (gần bằng) một nửa số học sinh tốt nghiệp của trường Cao Đẳng ghi tên lập ra nhóm nghiên cứu cao hơn.",
     "expl": [
       {"head": "- buildings: tòa nhà lớn, công trình", "lines": [], "refs": []},
       {"head": "- establishments: thành lập, thiết lập", "lines": [], "refs": []},
@@ -2014,7 +2014,7 @@
     "blanks": [{"a": "illegal", "alt": [], "n": 1}],
     "choices": ["uncertain", "open", "prohibited", "lawful"],
     "answer": "c",
-    "vi": "Ðạo luật Taft-Hartley ban hành vào năm 1974, những cửa hàng bất hợp pháp bị đóng cửa.",
+    "vi": "Đạo luật Taft-Hartley ban hành vào năm 1974, những cửa hàng bất hợp pháp bị đóng cửa.",
     "expl": [
       {"head": "- uncertain: không chắc chắn", "lines": [], "refs": []},
       {"head": "- open: (adj) mở, công khai", "lines": [], "refs": []},
@@ -2183,7 +2183,7 @@
     "blanks": [{"a": "communities", "alt": [], "n": 1}],
     "choices": ["establishments", "communes", "states", "neighbourhoods"],
     "answer": "d",
-    "vi": "Ðầu thập niên 1960 (1960-1969) nhiều khu vực (những cộng đồng, dân chúng) Nam Mỹ đã dần dần xóa bỏ sự phân biệt chủng tộc trong nhà trường.",
+    "vi": "Đầu thập niên 1960 (1960-1969) nhiều khu vực (những cộng đồng, dân chúng) Nam Mỹ đã dần dần xóa bỏ sự phân biệt chủng tộc trong nhà trường.",
     "expl": [
       {"head": "- establishments: thành lập, thiết lập", "lines": [], "refs": []},
       {
@@ -2221,7 +2221,7 @@
     "blanks": [{"a": "crater", "alt": [], "n": 1}],
     "choices": ["container", "depression", "locale", "mound"],
     "answer": "b",
-    "vi": "Những nhà khoa học cho rằng miệng núi lửa do thiên thạch tạo rộng 400 dặm ở phía Ðông của vịnh Hudson, có thể là lớn nhất.",
+    "vi": "Những nhà khoa học cho rằng miệng núi lửa do thiên thạch tạo rộng 400 dặm ở phía Đông của vịnh Hudson, có thể là lớn nhất.",
     "expl": [
       {"head": "- container: (n) thùng chứa, (v) chứa, giữ lại", "lines": [], "refs": []},
       {"head": "- depression: chỗ trũng, sự hạ thấp vật gì xuống", "lines": [], "refs": []},
@@ -2599,7 +2599,7 @@
     "blanks": [{"a": "scrub", "alt": [], "n": 1}],
     "choices": ["wash", "build", "fix", "change"],
     "answer": "a",
-    "vi": "Ðội xây dựng thường được trả tiền để lau chùi trong khu vực.",
+    "vi": "Đội xây dựng thường được trả tiền để lau chùi trong khu vực.",
     "expl": [
       {"head": "- wash: rửa, giặt, khoét, làm ướt", "lines": [], "refs": []},
       {"head": "- build: xây dựng; (n) sự xây dựng", "lines": [], "refs": []},
@@ -2718,7 +2718,7 @@
     "blanks": [{"a": "hectic", "alt": [], "n": 1}],
     "choices": ["busy", "sad", "fast", "difficult"],
     "answer": "a",
-    "vi": "Tuần cuối cùng của khóa học luôn sôi nổi, bởi vì những sinh viên dự thi, thực tập tại trường Ðại học, và gia hạn hộ chiếu của họ.",
+    "vi": "Tuần cuối cùng của khóa học luôn sôi nổi, bởi vì những sinh viên dự thi, thực tập tại trường Đại học, và gia hạn hộ chiếu của họ.",
     "expl": [
       {"head": "- busy: bận rộn, náo nhiệt, đông đúc", "lines": [], "refs": []},
       {"head": "- sad: buồn rầu, buồn bã", "lines": [], "refs": []},
@@ -2756,7 +2756,7 @@
     "blanks": [{"a": "grumble", "alt": [], "n": 1}],
     "choices": ["accept", "continue", "complain about", "contribute to"],
     "answer": "c",
-    "vi": "Ðổi những món đồ đi hay hơn là cứ càu nhàu với chúng.",
+    "vi": "Đổi những món đồ đi hay hơn là cứ càu nhàu với chúng.",
     "expl": [
       {"head": "- accept: nhận, đảm nhận, thừa nhận", "lines": [], "refs": []},
       {"head": "- continue: tiếp tục, duy trì", "lines": [], "refs": []},
@@ -3495,7 +3495,7 @@
     "blanks": [{"a": "practice", "alt": [], "n": 1}],
     "choices": ["imagine", "rehearse", "recite", "initiate"],
     "answer": "b",
-    "vi": "Ðó là một thông lệ cho cô dâu và chú rể diễn tập trong buổi tối trước hôn lễ.",
+    "vi": "Đó là một thông lệ cho cô dâu và chú rể diễn tập trong buổi tối trước hôn lễ.",
     "expl": [
       {"head": "- imagine: hình dung, tưởng tượng", "lines": [], "refs": []},
       {"head": "- rehearse: diễn tập", "lines": [], "refs": []},
@@ -3512,7 +3512,7 @@
     "blanks": [{"a": "break into many pieces", "alt": [], "n": 1}],
     "choices": ["shatter", "crack", "bend", "melt"],
     "answer": "a",
-    "vi": "Ða số kính đeo mắt sẽ không bị vỡ thành nhiều mảnh bởi vì chúng được chế tạo bằng nhựa hoặc là một loại thủy tinh hỗn hợp.",
+    "vi": "Đa số kính đeo mắt sẽ không bị vỡ thành nhiều mảnh bởi vì chúng được chế tạo bằng nhựa hoặc là một loại thủy tinh hỗn hợp.",
     "expl": [
       {"head": "- shatter: vỡ, gẫy", "lines": [], "refs": []},
       {"head": "- crack: rạn nứt", "lines": [], "refs": []},
@@ -3954,7 +3954,7 @@
     "blanks": [{"a": "temporary discoloration of the skin caused by an injury", "alt": [], "n": 1}],
     "choices": ["bruises", "breaks", "sprains", "gashes"],
     "answer": "a",
-    "vi": "Ðể chữa vết bầm tím tạm thời của da bị một vết thương gây ra, hãy buộc bằng một miếng vải sạch và lạnh tiếp theo là xoa bóp nhẹ.",
+    "vi": "Để chữa vết bầm tím tạm thời của da bị một vết thương gây ra, hãy buộc bằng một miếng vải sạch và lạnh tiếp theo là xoa bóp nhẹ.",
     "expl": [
       {"head": "- bruises: thâm tím", "lines": [], "refs": []},
       {"head": "- breaks: gãy, vỡ", "lines": [], "refs": []},
@@ -4362,7 +4362,7 @@
     "blanks": [{"a": "gave up", "alt": [], "n": 1}],
     "choices": ["exploited", "neglected", "abused", "abdicated"],
     "answer": "d",
-    "vi": "Khi Ðức vua thoái vị, em trai ông ta kế vị.",
+    "vi": "Khi Đức vua thoái vị, em trai ông ta kế vị.",
     "expl": [
       {"head": "- exploited: kỳ công, thành tích", "lines": [], "refs": []},
       {
@@ -4670,7 +4670,7 @@
     "blanks": [{"a": "capture", "alt": [], "n": 1}],
     "choices": ["round in", "round up", "round with", "round about"],
     "answer": "b",
-    "vi": "Những người chăn bò thường lùa trâu bò ở Texas và dẫn chúng đến Missouri họ đưa chúng lên tàu và chuyển đến thành phố ở miền Ðông.",
+    "vi": "Những người chăn bò thường lùa trâu bò ở Texas và dẫn chúng đến Missouri họ đưa chúng lên tàu và chuyển đến thành phố ở miền Đông.",
     "expl": [
       {"head": "- round in: quanh trong", "lines": [], "refs": []},
       {"head": "- round up: chạy vòng quanh, bố ráp", "lines": [], "refs": []},
@@ -4733,7 +4733,7 @@
     "blanks": [{"a": "postpone", "alt": [], "n": 1}],
     "choices": ["put off", "put away", "put out", "put back"],
     "answer": "a",
-    "vi": "Ðôi uyên ương phải hoãn lại đám cưới của họ bởi vì mẹ của cô dâu bệnh nặng.",
+    "vi": "Đôi uyên ương phải hoãn lại đám cưới của họ bởi vì mẹ của cô dâu bệnh nặng.",
     "expl": [
       {"head": "- put off: cởi ra, hẹn lại, tống khứ", "lines": [], "refs": []},
       {"head": "- put away: để dành, bỏ tù", "lines": [], "refs": []},
@@ -4819,7 +4819,7 @@
     "blanks": [{"a": "contracting", "alt": [], "n": 1}],
     "choices": ["coming through with", "coming out with", "coming after with", "coming down with"],
     "answer": "d",
-    "vi": "Ðể tránh những căn bệnh nguy hiểm, đa số những người du lịch khám sức khỏe và chích ngừa trước khi đi.",
+    "vi": "Để tránh những căn bệnh nguy hiểm, đa số những người du lịch khám sức khỏe và chích ngừa trước khi đi.",
     "expl": [
       {"head": "- coming through with: xuyên qua", "lines": [], "refs": []},
       {"head": "- coming out with: ra đi, vượt khỏi, được xếp", "lines": [], "refs": []},
@@ -4950,7 +4950,7 @@
     "blanks": [{"a": "red-letter", "alt": [], "n": 1}],
     "choices": ["colourful", "forgettable", "neon", "memorable"],
     "answer": "d",
-    "vi": "Ba chiến thắng trong ba sự kiện. Ðó thật là một ngày đáng ghi bằng chữ đỏ.",
+    "vi": "Ba chiến thắng trong ba sự kiện. Đó thật là một ngày đáng ghi bằng chữ đỏ.",
     "expl": [
       {"head": "- colourful: nhiều màu sắc", "lines": [], "refs": []},
       {"head": "- forgettable: có thể quên", "lines": [], "refs": []},
@@ -5163,7 +5163,7 @@
       "prime decision"
     ],
     "answer": "a",
-    "vi": "Cuối cùng đưa tay cho đối thủ thì đơn giản: Ðầu hàng vô điều kiện.",
+    "vi": "Cuối cùng đưa tay cho đối thủ thì đơn giản: Đầu hàng vô điều kiện.",
     "expl": [
       {"head": "- final statement of terms: tuyên bố điều kiện cuối cùng", "lines": [], "refs": []},
       {
@@ -5201,7 +5201,7 @@
     "blanks": [{"a": "cope with", "alt": [], "n": 1}],
     "choices": ["play with", "contend and deal with", "create", "deny"],
     "answer": "b",
-    "vi": "Ðầu tiên, Heather thấy khó mà đương đầu với môi trường mới.",
+    "vi": "Đầu tiên, Heather thấy khó mà đương đầu với môi trường mới.",
     "expl": [
       {"head": "- play with: chơi với", "lines": [], "refs": []},
       {"head": "- contend and deal with: đấu tranh và đối phó", "lines": [], "refs": []},
@@ -6026,7 +6026,7 @@
     "blanks": [{"a": "irate", "alt": [], "n": 1}],
     "choices": ["calm", "gawking", "large", "angry"],
     "answer": "d",
-    "vi": "Ðám đông giận dữ nhích dần đến những chướng ngại vật của cảnh sát.",
+    "vi": "Đám đông giận dữ nhích dần đến những chướng ngại vật của cảnh sát.",
     "expl": [
       {"head": "- calm: bình tĩnh", "lines": [], "refs": []},
       {"head": "- gawking: nhút nhát", "lines": [], "refs": []},
@@ -6093,7 +6093,7 @@
     "blanks": [{"a": "brought about", "alt": [], "n": 1}],
     "choices": ["altered", "redded", "gave up", "caused"],
     "answer": "d",
-    "vi": "Ðiều gì đã mang đến sự thay đổi thái độ của bạn?",
+    "vi": "Điều gì đã mang đến sự thay đổi thái độ của bạn?",
     "expl": [
       {"head": "- altered: thay đổi", "lines": [], "refs": []},
       {"head": "- redded: thu xếp", "lines": [], "refs": []},
@@ -6648,7 +6648,7 @@
     "blanks": [{"a": "prohibited", "alt": [], "n": 1}],
     "choices": ["permitted", "taught", "banned", "stopped"],
     "answer": "c",
-    "vi": "Hút thuốc lá thì bị cấm trong nhiều trường Ðại Học ở Hoa Kỳ.",
+    "vi": "Hút thuốc lá thì bị cấm trong nhiều trường Đại Học ở Hoa Kỳ.",
     "expl": [
       {"head": "- permitted: cho phép", "lines": [], "refs": []},
       {"head": "- taught: dạy", "lines": [], "refs": []},
@@ -6699,7 +6699,7 @@
     "blanks": [{"a": "scorch", "alt": [], "n": 1}],
     "choices": ["melt", "press", "discolour", "wrinkle"],
     "answer": "c",
-    "vi": "Ðừng để bàn ủi trên vải mịn nhiệt sẽ làm cháy xém nó.",
+    "vi": "Đừng để bàn ủi trên vải mịn nhiệt sẽ làm cháy xém nó.",
     "expl": [
       {"head": "- melt: chảy tan", "lines": [], "refs": []},
       {"head": "- press: ép", "lines": [], "refs": []},
@@ -7293,7 +7293,7 @@
     "blanks": [{"a": "work out", "alt": [], "n": 1}],
     "choices": ["develop", "slacken", "hire", "desire"],
     "answer": "a",
-    "vi": "Ðừng lo lắng, mọi việc sẽ tiến triển tốt đẹp.",
+    "vi": "Đừng lo lắng, mọi việc sẽ tiến triển tốt đẹp.",
     "expl": [
       {"head": "- develop: phát triển, mở rộng", "lines": [], "refs": []},
       {"head": "- slacken: đình trệ", "lines": [], "refs": []},
@@ -8050,7 +8050,7 @@
     "tt": 10,
     "choices": ["tiptoe", "mince", "sprawl", "trudge"],
     "answer": "a",
-    "vi": "Ði đứng một cách êm ru hoặc yên lặng.",
+    "vi": "Đi đứng một cách êm ru hoặc yên lặng.",
     "expl": [
       {"head": "- tiptoe: đi nhón chân", "lines": [], "refs": []},
       {"head": "- mince: đi đứng õng ẹo", "lines": [], "refs": []},
@@ -8256,7 +8256,7 @@
       "resolutely tackle a difficulty"
     ],
     "answer": "b",
-    "vi": "Ðể trở thành một người quản trị tốt bạn phải có năng lực và hiệu quả trong công việc.",
+    "vi": "Để trở thành một người quản trị tốt bạn phải có năng lực và hiệu quả trong công việc.",
     "expl": [
       {
         "head": "- apply yourself diligently to a difficult,time consuming task: làm việc chuyên cần, bỏ tất cả thời gian vào công việc",
@@ -9413,7 +9413,7 @@
     "tt": 10,
     "choices": ["length", "tall", "large", "found"],
     "answer": "c",
-    "vi": "Nó dài hơn 80 feet. Ðủ biết nó dài như thế nào.",
+    "vi": "Nó dài hơn 80 feet. Đủ biết nó dài như thế nào.",
     "expl": [
       {"head": "- length: sự dài", "lines": [], "refs": []},
       {"head": "- tall: cao", "lines": [], "refs": []},
@@ -9463,7 +9463,7 @@
     "tt": 10,
     "choices": ["speed", "fast", "soon", "rapid"],
     "answer": "b",
-    "vi": "Nó đã lên đến tốc độ trên 301 dặm một giờ. Ðủ biết là ______ như thế nào.",
+    "vi": "Nó đã lên đến tốc độ trên 301 dặm một giờ. Đủ biết là ______ như thế nào.",
     "expl": [
       {"head": "- speed: tốc độ", "lines": [], "refs": []},
       {"head": "- fast: nhanh", "lines": [], "refs": []},
@@ -10047,7 +10047,7 @@
     "tt": 10,
     "choices": ["ground", "soil", "earth", "land"],
     "answer": "d",
-    "vi": "Ðất phía Nam Thụy Ðiển rất màu mỡ và phì nhiêu.",
+    "vi": "Đất phía Nam Thụy Điển rất màu mỡ và phì nhiêu.",
     "expl": [
       {"head": "- ground: mặt đất", "lines": [], "refs": []},
       {"head": "- soil: đất (cát)", "lines": [], "refs": []},
@@ -11049,7 +11049,7 @@
         "lines": [],
         "refs": []
       },
-      {"head": "- costly: (adj) đắt tiền, quý giá;", "lines": ["(không phải Ðáng Giá)"], "refs": []},
+      {"head": "- costly: (adj) đắt tiền, quý giá;", "lines": ["(không phải Đáng Giá)"], "refs": []},
       {"head": "- cost: giá (bao nhiêu); không chọn vì <cost> là động từ.", "lines": [], "refs": []},
       {"head": "- expensive: xa xỉ, đắt tiền", "lines": [], "refs": []}
     ]
@@ -11383,7 +11383,7 @@
     "tt": 10,
     "choices": ["remembers", "recalls", "refers", "reminds"],
     "answer": "d",
-    "vi": "Căn hộ mới của anh ______ cho tôi rất nhiều về căn hộ chúng tôi có ở Ðà Lạt.",
+    "vi": "Căn hộ mới của anh ______ cho tôi rất nhiều về căn hộ chúng tôi có ở Đà Lạt.",
     "expl": [
       {"head": "- remembers: nhớ", "lines": [], "refs": []},
       {"head": "- recalls: gợi lại", "lines": [], "refs": []},
@@ -12514,7 +12514,7 @@
     "blanks": [{"a": "washing", "alt": [], "n": 1}],
     "choices": ["washing powder", "underclothes", "washing machine", "clothes being washed"],
     "answer": "d",
-    "vi": "Ðể không phạm vi cảnh, giặt giũ không nên phơi ra cảnh quan công cộng.",
+    "vi": "Để không phạm vi cảnh, giặt giũ không nên phơi ra cảnh quan công cộng.",
     "expl": [
       {"head": "- washing powder: bột giặt", "lines": [], "refs": []},
       {"head": "- underclothes: quần áo lót", "lines": [], "refs": []},
@@ -12531,7 +12531,7 @@
     "blanks": [{"a": "majestically", "alt": [], "n": 1}],
     "choices": ["importantly", "heavily", "splendidly", "hugely"],
     "answer": "c",
-    "vi": "Kinh khí cầu lơ lửng lên một cách oai nghi trên phi trường Lakehurst sau một chặng đường bình yên từ Frankfurt, Ðức.",
+    "vi": "Kinh khí cầu lơ lửng lên một cách oai nghi trên phi trường Lakehurst sau một chặng đường bình yên từ Frankfurt, Đức.",
     "expl": [
       {"head": "- importantly: quan trọng", "lines": [], "refs": []},
       {"head": "- heavily: nặng nhọc", "lines": [], "refs": []},
@@ -13130,7 +13130,7 @@
     "tt": 10,
     "choices": ["popular", "preferable", "favourite", "likable"],
     "answer": "c",
-    "vi": "Tôi thích xem Tin Thế Giới. Ðó là ______ của tôi.",
+    "vi": "Tôi thích xem Tin Thế Giới. Đó là ______ của tôi.",
     "expl": [
       {"head": "- popular: phổ biến", "lines": [], "refs": []},
       {"head": "- preferable: cái đáng yêu", "lines": [], "refs": []},
@@ -13393,7 +13393,7 @@
     "tt": 10,
     "choices": ["good chance", "good luck", "fortune", "fate"],
     "answer": "b",
-    "vi": "Thật may mắn là chúng ta đã không phải mang anh ấy theo. Ðó là niềm ______ của chúng ta.",
+    "vi": "Thật may mắn là chúng ta đã không phải mang anh ấy theo. Đó là niềm ______ của chúng ta.",
     "expl": [
       {"head": "- good chance: dịp tốt", "lines": [], "refs": []},
       {"head": "- good luck: may mắn", "lines": [], "refs": []},
@@ -14011,7 +14011,7 @@
     "tt": 10,
     "choices": ["fluently", "fluent", "well", "flowing"],
     "answer": "b",
-    "vi": "Tất cả con ông ấy đều nói ______ tiếng Ðức.",
+    "vi": "Tất cả con ông ấy đều nói ______ tiếng Đức.",
     "expl": [
       {
         "head": "- fluently: (adv) lưu loát, trôi chảy",
@@ -14467,7 +14467,7 @@
     "blanks": [{"a": "foggy", "alt": [], "n": 1}],
     "choices": ["misty", "moist", "mild", "messy"],
     "answer": "a",
-    "vi": "Ðêm tối nhiều sương mù đến nỗi tên giết người có thể dễ dàng chuồn khỏi người đang theo dõi hắn.",
+    "vi": "Đêm tối nhiều sương mù đến nỗi tên giết người có thể dễ dàng chuồn khỏi người đang theo dõi hắn.",
     "expl": [
       {"head": "- misty: đầy sương mù", "lines": [], "refs": []},
       {"head": "- moist: ẩm mốc", "lines": [], "refs": []},
@@ -15276,7 +15276,7 @@
     "blanks": [{"a": "heir", "alt": [], "n": 1}],
     "choices": ["eldest son", "one who inherits", "critic", "murderer"],
     "answer": "b",
-    "vi": "Ðứa con trai là người duy nhất thừa kế tài sản của ông bố.",
+    "vi": "Đứa con trai là người duy nhất thừa kế tài sản của ông bố.",
     "expl": [
       {"head": "- eldest son: đứa con cả", "lines": [], "refs": []},
       {"head": "- one who inherits: người thừa kế", "lines": [], "refs": []},
@@ -16337,7 +16337,7 @@
       "make a fuss"
     ],
     "answer": "d",
-    "vi": "Ðây là chỗ người ta thường ngồi nấp bóng, hãy coi chừng những lời đồn nhảm của dân làng, nếu không thì sẽ nói toàn là những câu chuyện dài dòng vớ vẩn không đâu vào đâu.",
+    "vi": "Đây là chỗ người ta thường ngồi nấp bóng, hãy coi chừng những lời đồn nhảm của dân làng, nếu không thì sẽ nói toàn là những câu chuyện dài dòng vớ vẩn không đâu vào đâu.",
     "expl": [
       {"head": "- talk about the distant village: chuyện làng mạc xa vời", "lines": [], "refs": []},
       {

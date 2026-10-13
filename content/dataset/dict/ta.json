@@ -14,7 +14,7 @@
     "h": "Ta Hsueh",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Ðại Học (trong Tứ Thư của Khổng giáo)."}
+      {"k": "m", "t": "Đại Học (trong Tứ Thư của Khổng giáo)."}
     ],
     "k": "ta hsueh"
   },
@@ -137,7 +137,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "điểm dừng tab. Chỗ mà con chạy dừng lại sau khi bạn ấn phím Tab. Hầu hết các chương trình xử lý từ đều xác lập các điểm dừng tab mặc định cách nhau 1 / 2 inch, nhưng bạn vẫn có thể thiết lập các điểm dừng tab ở bất kỳ đâu bạn muốn, hoặc cũng có thể quy định lại độ rộng tab mặc định. Ðồng thời, hầu hết các chương trình cũng cho phép bạn thiết lập các điểm dừng tab theo lề phải, ở chính giữa, và các điểm dừng tab thập phân bổ sung thêm cho các điểm dừng tab theo lề trái mặc định."
+        "t": "điểm dừng tab. Chỗ mà con chạy dừng lại sau khi bạn ấn phím Tab. Hầu hết các chương trình xử lý từ đều xác lập các điểm dừng tab mặc định cách nhau 1 / 2 inch, nhưng bạn vẫn có thể thiết lập các điểm dừng tab ở bất kỳ đâu bạn muốn, hoặc cũng có thể quy định lại độ rộng tab mặc định. Đồng thời, hầu hết các chương trình cũng cho phép bạn thiết lập các điểm dừng tab theo lề phải, ở chính giữa, và các điểm dừng tab thập phân bổ sung thêm cho các điểm dừng tab theo lề trái mặc định."
       }
     ],
     "k": "tab stop"
@@ -432,7 +432,7 @@
     "segs": [{"k": "m", "t": "Viêm dây thần kinh tabet."}],
     "k": "tabetic neuritis"
   },
-  {"h": "tabetic otalgia", "segs": [{"k": "m", "t": "Ðau tai tabet."}], "k": "tabetic otalgia"},
+  {"h": "tabetic otalgia", "segs": [{"k": "m", "t": "Đau tai tabet."}], "k": "tabetic otalgia"},
   {"h": "tabetiform", "segs": [{"k": "m", "t": "Dạng tabét."}], "k": "tabetiform"},
   {
     "h": "tabi",
@@ -471,7 +471,7 @@
     "h": "tabla",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "cặp trống nhỏ (một loại nhạc cụ Ấn Ðộ vỗ bằng tay)."}
+      {"k": "m", "t": "cặp trống nhỏ (một loại nhạc cụ Ấn Độ vỗ bằng tay)."}
     ],
     "ipa": "'tæblə",
     "k": "tabla"
@@ -2576,7 +2576,7 @@
   },
   {
     "h": "tachypragia",
-    "segs": [{"k": "m", "t": "Ðộng tác nhanh, tác động nhanh."}],
+    "segs": [{"k": "m", "t": "Động tác nhanh, tác động nhanh."}],
     "k": "tachypragia"
   },
   {"h": "tachypsychia", "segs": [{"k": "m", "t": "Linh hoạt."}], "k": "tachypsychia"},
@@ -3314,7 +3314,7 @@
     ],
     "k": "tactile corpuscle"
   },
-  {"h": "tactile disk", "segs": [{"k": "m", "t": "Ðĩa xúc giác."}], "k": "tactile disk"},
+  {"h": "tactile disk", "segs": [{"k": "m", "t": "Đĩa xúc giác."}], "k": "tactile disk"},
   {"h": "tactile elevation", "segs": [{"k": "m", "t": "Nhú xúc giác."}], "k": "tactile elevation"},
   {"h": "tactile fremitus", "segs": [{"k": "m", "t": "Sờ rung."}], "k": "tactile fremitus"},
   {"h": "tactile hair", "segs": [{"k": "m", "t": "Lông xúc giác."}], "k": "tactile hair"},
@@ -3335,7 +3335,7 @@
     "k": "tactile irritabillty"
   },
   {"h": "tactile keyboard", "segs": [{"k": "m", "t": "bàn phím chạm."}], "k": "tactile keyboard"},
-  {"h": "tactile menisci", "segs": [{"k": "m", "t": "Ðài xúc giác."}], "k": "tactile menisci"},
+  {"h": "tactile menisci", "segs": [{"k": "m", "t": "Đài xúc giác."}], "k": "tactile menisci"},
   {"h": "tactile papillae", "segs": [{"k": "m", "t": "Nhú xúc giác."}], "k": "tactile papillae"},
   {"h": "tactile reflex", "segs": [{"k": "m", "t": "Phản xạ xúc giác."}], "k": "tactile reflex"},
   {"h": "tactile sensor", "segs": [{"k": "m", "t": "cảm bịến xúc giác."}], "k": "tactile sensor"},
@@ -3682,7 +3682,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1901) Hành động của Tòa án Anh thiết lập nguyên tắc các công đoàn. Nguyên tắc này quy định các công đoàn có thể bị kiện vì gây ra tình trạng nguy hiểm. Sau một cuộc đình công của nhóm công nhân ngành đường sắt thuộc công ty Ðường sắt Taff Vale, công ty này đã kiện Tổ chức hợp nhất của công nhân đường sắt vì bị thiệt hại về doanh thu. Thượng viện Anh đã yêu cầu hỗ trợ cho công ty này về các thiệt hại và chi phí phát sinh. Cảm giác oán giận của các công nhân về sự vi phạm Luật Công đoàn năm 1871, đã hủy bỏ ngân quỹ công đoàn. Ðây là một nhân tố quan trọng trong việc tăng cường sự hỗ trợ cho Ðảng Lao động. Ðạo luật chống thỏa hiệp, được thông qua năm 1906, thực sự đã làm đảo ngược quyết định miễn thuế công đoàn. Nó giữ nguyên hiệu lực cho đến Luật công đoàn năm 1984. Nó cho phép người sử dụng lao động có thể đòi đền bù \"nếu cuộc tấn công xảy ra mà không có những điều kiện cần thiết\" (ví dụ như bỏ phiếu kín)."
+        "t": "(1901) Hành động của Tòa án Anh thiết lập nguyên tắc các công đoàn. Nguyên tắc này quy định các công đoàn có thể bị kiện vì gây ra tình trạng nguy hiểm. Sau một cuộc đình công của nhóm công nhân ngành đường sắt thuộc công ty Đường sắt Taff Vale, công ty này đã kiện Tổ chức hợp nhất của công nhân đường sắt vì bị thiệt hại về doanh thu. Thượng viện Anh đã yêu cầu hỗ trợ cho công ty này về các thiệt hại và chi phí phát sinh. Cảm giác oán giận của các công nhân về sự vi phạm Luật Công đoàn năm 1871, đã hủy bỏ ngân quỹ công đoàn. Đây là một nhân tố quan trọng trong việc tăng cường sự hỗ trợ cho Đảng Lao động. Đạo luật chống thỏa hiệp, được thông qua năm 1906, thực sự đã làm đảo ngược quyết định miễn thuế công đoàn. Nó giữ nguyên hiệu lực cho đến Luật công đoàn năm 1984. Nó cho phép người sử dụng lao động có thể đòi đền bù \"nếu cuộc tấn công xảy ra mà không có những điều kiện cần thiết\" (ví dụ như bỏ phiếu kín)."
       }
     ],
     "k": "taft vale case"
@@ -3693,7 +3693,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1947) Một đạo luật của Quốc hội Mỹ nhằm để kiềm chế sức mạnh của các công đoàn. Ðạo luật này gây khó khăn cho các loại công ty có nhân viên là thành viên công đoàn. Nó cũng gây khó khăn cho người đồng ý gia nhập công đoàn sau khi được tuyển dụng. Nó cho phép người chủ lao động có thể kiện công đoàn vì sự vi phạm hợp đồng và những nguy hiểm gây ra bởi các cuộc đình công. Nó cho phép Tổng thống đặt ra thời hạn 60 ngày gọi là \"thời kỳ hòa giải\" trước khi xung đột diễn ra. Mặc cho sự phản đối gay gắt từ các công đoàn, đạo luật trên vẫn không hề thay đổi."
+        "t": "(1947) Một đạo luật của Quốc hội Mỹ nhằm để kiềm chế sức mạnh của các công đoàn. Đạo luật này gây khó khăn cho các loại công ty có nhân viên là thành viên công đoàn. Nó cũng gây khó khăn cho người đồng ý gia nhập công đoàn sau khi được tuyển dụng. Nó cho phép người chủ lao động có thể kiện công đoàn vì sự vi phạm hợp đồng và những nguy hiểm gây ra bởi các cuộc đình công. Nó cho phép Tổng thống đặt ra thời hạn 60 ngày gọi là \"thời kỳ hòa giải\" trước khi xung đột diễn ra. Mặc cho sự phản đối gay gắt từ các công đoàn, đạo luật trên vẫn không hề thay đổi."
       }
     ],
     "k": "taft-hartley act"
@@ -3816,11 +3816,11 @@
       },
       {
         "k": "m",
-        "t": "Trong quá trình chuyển mạch thẻ, trước hết là xác định các đường dẫn trong mạng. Ðiều này được thực hiện bởi các giao thức định tuyến chuẩn như BGP (Border Gateway Protocol) và OSPF (Open Shortest Path First). Các bảng đường dẫn được tạo như bình thường. Các bộ định tuyến thẻ dùng thông tin này để tạo các bảng (dựa trên thẻ) sẽ được dùng để cung cấp thông tin về cách chuyển mạch các gói chứa thông tin về thẻ. Thông tin này được phân phối giữa các thiết bị thẻ bằng giao thức TDP."
+        "t": "Trong quá trình chuyển mạch thẻ, trước hết là xác định các đường dẫn trong mạng. Điều này được thực hiện bởi các giao thức định tuyến chuẩn như BGP (Border Gateway Protocol) và OSPF (Open Shortest Path First). Các bảng đường dẫn được tạo như bình thường. Các bộ định tuyến thẻ dùng thông tin này để tạo các bảng (dựa trên thẻ) sẽ được dùng để cung cấp thông tin về cách chuyển mạch các gói chứa thông tin về thẻ. Thông tin này được phân phối giữa các thiết bị thẻ bằng giao thức TDP."
       },
       {
         "k": "m",
-        "t": "Khi bộ định tuyến tag edge nhận một gói, nó kiểm tra thông tin trong tiêu đề của gói để xác định bộ định tuyến cho gói này. Ðây là thủ tục định tuyến bình thường. Sau đó nó bổ sung thông tin về thẻ vào gói và chuyển tiếp gói này vào bộ chuyển mạch thẻ. Khi bộ chuyển mạch thẻ nhận gói này, nó nhìn vào thông tin thẻ trong gói và chuyển gói đi."
+        "t": "Khi bộ định tuyến tag edge nhận một gói, nó kiểm tra thông tin trong tiêu đề của gói để xác định bộ định tuyến cho gói này. Đây là thủ tục định tuyến bình thường. Sau đó nó bổ sung thông tin về thẻ vào gói và chuyển tiếp gói này vào bộ chuyển mạch thẻ. Khi bộ chuyển mạch thẻ nhận gói này, nó nhìn vào thông tin thẻ trong gói và chuyển gói đi."
       },
       {
         "k": "m",
@@ -4121,11 +4121,11 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Có rất nhiều núi, với những đỉnh núi vượt lên đến độ cao 2.320m. Nơi đây là một thiên đường nhiệt đới với những cây cọ và các loài thực vật phong phú, bao gồm cả loài hoa lan dây leo chiết xuất ra vị vani."
+        "t": "Địa hình: Có rất nhiều núi, với những đỉnh núi vượt lên đến độ cao 2.320m. Nơi đây là một thiên đường nhiệt đới với những cây cọ và các loài thực vật phong phú, bao gồm cả loài hoa lan dây leo chiết xuất ra vị vani."
       },
       {
         "k": "m",
-        "t": "Lịch sử: Người Polynesia định cư ở Tahiti vào thế kỷ thứ 14 và được người Châu Âu đến thăm lần đầu tiên năm 1767. Ðầu thế kỷ 19, những người truyền giáo thuộc đạo Tin lành đến định cư tại đảo. Họ đổi tôn giáo chính của người dân Tahiti từ Pomare II sang Cơ đốc giáo năm 1815. Chính phủ Pháp thiết lập chế độ bảo hộ năm 1842 và thôn tính Tahiti thành thuộc địa năm 1880. Năm 1940, đa số những người Tahiti quay lại chống chính phủ Tự do Pháp của Tướng de Gaulle, người đã biến Polynesia thành một lãnh thổ nước ngoài của Pháp năm 1946. Lúc này nhiều người Polynesia, dẫn đầu bởi Pouvanaa a Oopa, yêu cầu nền độc lập từ Pháp. Năm 1958, Pouvanaa bị tuyên án tù và lưu đày biệt xứ. Từ năm 1977, nước Polynesia thuộc Pháp đã có được một chính phủ tự trị với quyền lực đáng kể. Năm 1995, sự phản đối việc Pháp cho thử nghiệm hạt nhân trên vùng đất này đã kích động phong trào giành lại độc lập của Tahiti."
+        "t": "Lịch sử: Người Polynesia định cư ở Tahiti vào thế kỷ thứ 14 và được người Châu Âu đến thăm lần đầu tiên năm 1767. Đầu thế kỷ 19, những người truyền giáo thuộc đạo Tin lành đến định cư tại đảo. Họ đổi tôn giáo chính của người dân Tahiti từ Pomare II sang Cơ đốc giáo năm 1815. Chính phủ Pháp thiết lập chế độ bảo hộ năm 1842 và thôn tính Tahiti thành thuộc địa năm 1880. Năm 1940, đa số những người Tahiti quay lại chống chính phủ Tự do Pháp của Tướng de Gaulle, người đã biến Polynesia thành một lãnh thổ nước ngoài của Pháp năm 1946. Lúc này nhiều người Polynesia, dẫn đầu bởi Pouvanaa a Oopa, yêu cầu nền độc lập từ Pháp. Năm 1958, Pouvanaa bị tuyên án tù và lưu đày biệt xứ. Từ năm 1977, nước Polynesia thuộc Pháp đã có được một chính phủ tự trị với quyền lực đáng kể. Năm 1995, sự phản đối việc Pháp cho thử nghiệm hạt nhân trên vùng đất này đã kích động phong trào giành lại độc lập của Tahiti."
       }
     ],
     "k": "tahiti"
@@ -4526,10 +4526,10 @@
   },
   {
     "h": "tail of epididymis",
-    "segs": [{"k": "m", "t": "Ðuôi mào tinh hoàn."}],
+    "segs": [{"k": "m", "t": "Đuôi mào tinh hoàn."}],
     "k": "tail of epididymis"
   },
-  {"h": "tail of pancreas", "segs": [{"k": "m", "t": "Ðuôi tụy."}], "k": "tail of pancreas"},
+  {"h": "tail of pancreas", "segs": [{"k": "m", "t": "Đuôi tụy."}], "k": "tail of pancreas"},
   {
     "h": "tail of step",
     "segs": [
@@ -5021,7 +5021,7 @@
     "segs": [{"k": "m", "t": "thừa gió bẻ măng, mở đường cho chênh lệch giá."}],
     "k": "tailgating"
   },
-  {"h": "tailgut", "segs": [{"k": "m", "t": "Ðoạn ruột đuôi (phôi)."}], "k": "tailgut"},
+  {"h": "tailgut", "segs": [{"k": "m", "t": "Đoạn ruột đuôi (phôi)."}], "k": "tailgut"},
   {
     "h": "tailing",
     "segs": [
@@ -5674,7 +5674,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Khởi nghĩa Thái Bình (1850-1864) Cuộc khởi nghĩa chống lại vương triều nhà Thanh. Dẫn đầu bởi Hồng Hy Quan (Hong Xiuquan) (1813-1864), người đã tuyên bố mình là em trai của Chúa Jesus. Khởi nghĩa Thái Bình bắt đầu ở tỉnh Guangxi. Nó phát triển thành mối hiểm họa lớn của nhà Thanh. Phong trào này đã giành được hầu như toàn bộ trung tâm và vùng hạ Yangtze nằm dưới quyền kiểm soát của nghĩa quân, và tiêu diệt 20 triệu quân Thanh. Nghĩa quân đã chiếm được Nam Kinh (Nanjing) năm 1853 và thiết lập đầu não của mình tại đây trước khi tiến hành một cuộc tấn công thất bại vào Bắc Kinh (Beijing). Sự kháng cự của nhà Thanh phụ thuộc vào các lực lượng quân sự ở các tỉnh như Quân đội Hunan của Zeng Guofan và Quân đội Ever-Victorious. Lực lượng này được sáng lập bởi người Mỹ F. T. Ward và sau đó nhà quân sự người Anh Charles Gordon lãnh đạo. Cuộc khởi nghĩa đã bị dập tắt với sự kiện Nam Kinh (Nanjing) bị quân nhà Thanh giành lại năm 1864. Hồng Hy Quan (Hong Xiuquan) chết trong cuộc vây hãm. Tuy nhiên, chế độ phong kiến của nhà Thanh đã không thể phục hồi sau một cuộc nội chiến kéo dài. Hệ tư tưởng Thái Bình là một sự hỗn hợp của giáo lý Cơ đốc và các chính sách xã hội theo chủ nghĩa quân bình và cấp tiến. Sau đó đã được nhiều cuộc cách mạng (bao gồm cả Ðảng Cộng sản) rút kinh nghiệm."
+        "t": "Khởi nghĩa Thái Bình (1850-1864) Cuộc khởi nghĩa chống lại vương triều nhà Thanh. Dẫn đầu bởi Hồng Hy Quan (Hong Xiuquan) (1813-1864), người đã tuyên bố mình là em trai của Chúa Jesus. Khởi nghĩa Thái Bình bắt đầu ở tỉnh Guangxi. Nó phát triển thành mối hiểm họa lớn của nhà Thanh. Phong trào này đã giành được hầu như toàn bộ trung tâm và vùng hạ Yangtze nằm dưới quyền kiểm soát của nghĩa quân, và tiêu diệt 20 triệu quân Thanh. Nghĩa quân đã chiếm được Nam Kinh (Nanjing) năm 1853 và thiết lập đầu não của mình tại đây trước khi tiến hành một cuộc tấn công thất bại vào Bắc Kinh (Beijing). Sự kháng cự của nhà Thanh phụ thuộc vào các lực lượng quân sự ở các tỉnh như Quân đội Hunan của Zeng Guofan và Quân đội Ever-Victorious. Lực lượng này được sáng lập bởi người Mỹ F. T. Ward và sau đó nhà quân sự người Anh Charles Gordon lãnh đạo. Cuộc khởi nghĩa đã bị dập tắt với sự kiện Nam Kinh (Nanjing) bị quân nhà Thanh giành lại năm 1864. Hồng Hy Quan (Hong Xiuquan) chết trong cuộc vây hãm. Tuy nhiên, chế độ phong kiến của nhà Thanh đã không thể phục hồi sau một cuộc nội chiến kéo dài. Hệ tư tưởng Thái Bình là một sự hỗn hợp của giáo lý Cơ đốc và các chính sách xã hội theo chủ nghĩa quân bình và cấp tiến. Sau đó đã được nhiều cuộc cách mạng (bao gồm cả Đảng Cộng sản) rút kinh nghiệm."
       }
     ],
     "k": "taiping rebellion"
@@ -5690,28 +5690,28 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðài Loan (Cộng hòa Trung Hoa). Một đất nước (không được các quốc gia khác thừa nhận và không còn là thành viên của Liên hiệp quốc) bao gồm một đảo lớn và nhiều đảo nhỏ ngoài khơi bờ biển phía đông nam Trung Quốc."
+        "t": "Đài Loan (Cộng hòa Trung Hoa). Một đất nước (không được các quốc gia khác thừa nhận và không còn là thành viên của Liên hiệp quốc) bao gồm một đảo lớn và nhiều đảo nhỏ ngoài khơi bờ biển phía đông nam Trung Quốc."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Phần đảo chính dài gần 370 km (230 dặm) từ bắc đến nam và rộng 130 km (81 dặm) từ đông sang tây. Khí hậu ấm áp và ẩm ướt vào mùa hè, và lạnh hơn vào mùa đông. Nhiều dãy núi cao chạy suốt chiều dài lãnh thổ, được bao phủ rậm rạp bởi những cánh rừng long não, sồi, bách, và cây tuyết tùng, hạ dốc về phía Ðông của Thái Bình Dương. Về phía Tây nhiều con sông chảy qua những vùng đồng bằng, tạo nên các cánh đồng mía đường, gạo và trái cây nhiệt đới."
+        "t": "Địa hình: Phần đảo chính dài gần 370 km (230 dặm) từ bắc đến nam và rộng 130 km (81 dặm) từ đông sang tây. Khí hậu ấm áp và ẩm ướt vào mùa hè, và lạnh hơn vào mùa đông. Nhiều dãy núi cao chạy suốt chiều dài lãnh thổ, được bao phủ rậm rạp bởi những cánh rừng long não, sồi, bách, và cây tuyết tùng, hạ dốc về phía Đông của Thái Bình Dương. Về phía Tây nhiều con sông chảy qua những vùng đồng bằng, tạo nên các cánh đồng mía đường, gạo và trái cây nhiệt đới."
       },
       {
         "k": "m",
-        "t": "Kinh tế: Ðài Loan là một nước công nghiệp mới với tốc độ tăng trưởng rất cao về các loại hàng hóa sản xuất để xuất khẩu, đặc biệt là sang Mỹ. Công nghiệp dệt, hàng điện tử và công nghệ thông tin là những mặt hàng xuất khẩu chủ lực. Nông nghiệp, với mía đường và gạo là vụ mùa chính, thì lại ít quan trọng hơn. Tài nguyên khoáng sản chỉ có giới hạn với các mỏ vàng và bạc cùng với trầm tích than đá, dầu mỏ, lưu huỳnh và sắt. Sự thành công của nền kinh tế Ðài Loan đạt được bằng sự đánh đổi. Ðó là tình trạng môi trường bị xuống cấp nghiêm trọng."
+        "t": "Kinh tế: Đài Loan là một nước công nghiệp mới với tốc độ tăng trưởng rất cao về các loại hàng hóa sản xuất để xuất khẩu, đặc biệt là sang Mỹ. Công nghiệp dệt, hàng điện tử và công nghệ thông tin là những mặt hàng xuất khẩu chủ lực. Nông nghiệp, với mía đường và gạo là vụ mùa chính, thì lại ít quan trọng hơn. Tài nguyên khoáng sản chỉ có giới hạn với các mỏ vàng và bạc cùng với trầm tích than đá, dầu mỏ, lưu huỳnh và sắt. Sự thành công của nền kinh tế Đài Loan đạt được bằng sự đánh đổi. Đó là tình trạng môi trường bị xuống cấp nghiêm trọng."
       },
       {
         "k": "m",
-        "t": "Lịch sử: Những nhà thám hiểm Bồ Ðào Nha gọi nơi này là Formosa (\"Hòn đảo xinh đẹp\"). Dân cư thưa thớt ở đây đều là những người Trung Quốc. Nơi đây từng là căn cứ của hải tặc Trung Quốc và Nhật Bản trong một thời gian dài. Vào thế kỷ 17, người Hà Lan (1624) và người Tây Ban Nha (1626) thiết lập những trạm mậu dịch tại đây. Người Hà Lan đã lấn quyền người Tây Ban Nha năm 1642. Cùng với sự sụp đổ của vương triều nhà Minh năm 1644, các thế lực chống đối nhà Thanh bắt đầu định cư lên đảo. Năm 1661, \"Koxinga\" (Zheng Chenggong), một người ái quốc của Minh triều, đã đánh đuổi người Hà Lan. Hòn đảo bị nhà Thanh xâm chiếm năm 1683 và lần đầu tiên trở thành một phần của Trung Quốc. Chiến tranh tiếp tục xảy ra giữa những dân cư nguyên thủy và những người Trung Quốc đến định cư vào thế kỷ 19. Ðài Loan bị Nhật Bản chiếm đóng sau Hiệp ước Shimonoseki năm 1895 và nằm dưới sự kiểm soát của Nhật Bản cho đến khi chiến tranh thế giới II kết thúc. Hòn đảo lại bị lực lượng quân đội Trung Quốc chiếm giữ dưới quyền của Chiang KAIshek vào tháng 9 năm 1945. Nhưng người Ðài Loan oán giận sự cai trị của thủ lĩnh chính quyền Chiang là Chen Yi. Họ đã tạo nên một cuộc nổi dậy và bị lực lượng vũ trang dập tắt. Khi cuộc nội chiến Trung Quốc bắt đầu, nhằm chống lại Kuomintang năm 1948, nhiều sự sắp xếp đã được tiến hành nhằm chuyển đổi chính quyền Chiang cho Ðài Loan. Năm 1950, gần 2 triệu người tị nạn từ đại lục tràn đến đảo. Ðược sự hỗ trợ về mặt quân sự của Mỹ, Ðài Loan bảo vệ nền độc lập của mình khỏi Trung Quốc cho đến khi bị đuổi khỏi cương vị một đại diện độc lập của Trung Quốc trong Liên Hiệp quốc năm 1971. Chiang Kai-shek tiếp tục giữ chức Tổng thống cho đến lúc chết năm 1975. Con trai ông là Chiang Ching-kuo lên kế nhiệm thành công. Ông này mất năm 1988 và Tổng thống Lee Teng-hui tiếp tục kế nhiệm. Từ năm 1950, Ðài Loan trải qua quá trình công nghiệp hóa mạnh mẽ và trở thành một trong những quốc gia công nghiệp chính trên thế giới. Năm 1986, việc thành lập các đảng phái chính trị mới được hợp pháp hóa. Nhưng chính sách của các tổ chức này bị quản lý rất khắt khe. Luật quân sự, có hiệu lực từ năm 1949, được thay thế vào năm 1987 bởi Luật Vệ quốc ít khắt khe hơn. Các cuộc biểu tình ủng hộ dân chủ trong suốt những năm cuối thập niên 1980 và đầu những năm 1990 dẫn đến những cải cách về chính trị. Cuộc bầu cử giữa tất cả các đảng phái từ năm 1949 được tổ chức vào năm 1992. Cuối cùng Trung Hoa quốc dân Ðảng đã giành thắng lợi. Trung Hoa quốc dân Ðảng chống đối một cách quyết liệt nền độc lập toàn vẹn của Ðài Loan và theo đuổi việc hợp nhất Ðài Loan với đại lục. Tuy nhiên, Ðài Loan chỉ đồng ý với điều kiện đại lục từ bỏ chế độ cộng sản. Nhiều cuộc thương lượng giữa hai quốc gia diễn ra không thường xuyên và thường không mang lại kết quả nào đáng kể. Ðến năm 1991, Ðài Loan chính thức kết thúc cuộc chiến tranh giành quyền tự trị với cộng sản Trung Quốc. Năm 1993, cấu trúc chính thức cho những cuộc đàm phán về quan điểm kinh tế và xã hội được chấp thuận, nhưng quan hệ giữa hai nước vẫn căng thẳng. Năm 1995, Ðài Loan được 29 nước công nhận là một quốc gia riêng biệt. Năm 1996, cuộc bầu cử Tổng thống đảng Dân chủ đầu tiên của Ðài Loan được tiến hành. Thủ tướng đương nhiệm, Lee Teng-Hui là người chiến thắng."
+        "t": "Lịch sử: Những nhà thám hiểm Bồ Đào Nha gọi nơi này là Formosa (\"Hòn đảo xinh đẹp\"). Dân cư thưa thớt ở đây đều là những người Trung Quốc. Nơi đây từng là căn cứ của hải tặc Trung Quốc và Nhật Bản trong một thời gian dài. Vào thế kỷ 17, người Hà Lan (1624) và người Tây Ban Nha (1626) thiết lập những trạm mậu dịch tại đây. Người Hà Lan đã lấn quyền người Tây Ban Nha năm 1642. Cùng với sự sụp đổ của vương triều nhà Minh năm 1644, các thế lực chống đối nhà Thanh bắt đầu định cư lên đảo. Năm 1661, \"Koxinga\" (Zheng Chenggong), một người ái quốc của Minh triều, đã đánh đuổi người Hà Lan. Hòn đảo bị nhà Thanh xâm chiếm năm 1683 và lần đầu tiên trở thành một phần của Trung Quốc. Chiến tranh tiếp tục xảy ra giữa những dân cư nguyên thủy và những người Trung Quốc đến định cư vào thế kỷ 19. Đài Loan bị Nhật Bản chiếm đóng sau Hiệp ước Shimonoseki năm 1895 và nằm dưới sự kiểm soát của Nhật Bản cho đến khi chiến tranh thế giới II kết thúc. Hòn đảo lại bị lực lượng quân đội Trung Quốc chiếm giữ dưới quyền của Chiang KAIshek vào tháng 9 năm 1945. Nhưng người Đài Loan oán giận sự cai trị của thủ lĩnh chính quyền Chiang là Chen Yi. Họ đã tạo nên một cuộc nổi dậy và bị lực lượng vũ trang dập tắt. Khi cuộc nội chiến Trung Quốc bắt đầu, nhằm chống lại Kuomintang năm 1948, nhiều sự sắp xếp đã được tiến hành nhằm chuyển đổi chính quyền Chiang cho Đài Loan. Năm 1950, gần 2 triệu người tị nạn từ đại lục tràn đến đảo. Được sự hỗ trợ về mặt quân sự của Mỹ, Đài Loan bảo vệ nền độc lập của mình khỏi Trung Quốc cho đến khi bị đuổi khỏi cương vị một đại diện độc lập của Trung Quốc trong Liên Hiệp quốc năm 1971. Chiang Kai-shek tiếp tục giữ chức Tổng thống cho đến lúc chết năm 1975. Con trai ông là Chiang Ching-kuo lên kế nhiệm thành công. Ông này mất năm 1988 và Tổng thống Lee Teng-hui tiếp tục kế nhiệm. Từ năm 1950, Đài Loan trải qua quá trình công nghiệp hóa mạnh mẽ và trở thành một trong những quốc gia công nghiệp chính trên thế giới. Năm 1986, việc thành lập các đảng phái chính trị mới được hợp pháp hóa. Nhưng chính sách của các tổ chức này bị quản lý rất khắt khe. Luật quân sự, có hiệu lực từ năm 1949, được thay thế vào năm 1987 bởi Luật Vệ quốc ít khắt khe hơn. Các cuộc biểu tình ủng hộ dân chủ trong suốt những năm cuối thập niên 1980 và đầu những năm 1990 dẫn đến những cải cách về chính trị. Cuộc bầu cử giữa tất cả các đảng phái từ năm 1949 được tổ chức vào năm 1992. Cuối cùng Trung Hoa quốc dân Đảng đã giành thắng lợi. Trung Hoa quốc dân Đảng chống đối một cách quyết liệt nền độc lập toàn vẹn của Đài Loan và theo đuổi việc hợp nhất Đài Loan với đại lục. Tuy nhiên, Đài Loan chỉ đồng ý với điều kiện đại lục từ bỏ chế độ cộng sản. Nhiều cuộc thương lượng giữa hai quốc gia diễn ra không thường xuyên và thường không mang lại kết quả nào đáng kể. Đến năm 1991, Đài Loan chính thức kết thúc cuộc chiến tranh giành quyền tự trị với cộng sản Trung Quốc. Năm 1993, cấu trúc chính thức cho những cuộc đàm phán về quan điểm kinh tế và xã hội được chấp thuận, nhưng quan hệ giữa hai nước vẫn căng thẳng. Năm 1995, Đài Loan được 29 nước công nhận là một quốc gia riêng biệt. Năm 1996, cuộc bầu cử Tổng thống đảng Dân chủ đầu tiên của Đài Loan được tiến hành. Thủ tướng đương nhiệm, Lee Teng-Hui là người chiến thắng."
       },
-      {"k": "m", "t": "Thủ đô: Ðài Bắc (Taipei)."},
+      {"k": "m", "t": "Thủ đô: Đài Bắc (Taipei)."},
       {"k": "m", "t": "Diện tích: 36.000 km2"},
       {"k": "m", "t": "Dân số: 21,463 triệu (1996)."},
-      {"k": "m", "t": "Tiền tệ: 1 dollar Ðài Loan mới = 100 cents."},
+      {"k": "m", "t": "Tiền tệ: 1 dollar Đài Loan mới = 100 cents."},
       {"k": "m", "t": "Tôn giáo: Phật giáo 43%; Daoist 21%; Cơ đốc giáo 7%; Hồi giáo 0,5%."},
       {
         "k": "m",
-        "t": "Sắc tộc: Người Ðài Loan 84%; người Trung Quốc đại lục 14%; Thổ dân Indonesia 2%."
+        "t": "Sắc tộc: Người Đài Loan 84%; người Trung Quốc đại lục 14%; Thổ dân Indonesia 2%."
       },
       {
         "k": "m",
@@ -5722,7 +5722,7 @@
   },
   {
     "h": "Taiwan red pine",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Gỗ thông đỏ Ðài Loan"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Gỗ thông đỏ Đài Loan"}],
     "k": "taiwan red pine"
   },
   {
@@ -5730,9 +5730,9 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "đài Loan"},
-      {"k": "m", "t": "người Ðài Loan"},
-      {"k": "m", "t": "thuộc về tỉnh Ðài Loan"},
-      {"k": "m", "t": "tỉnh Ðài Loan"}
+      {"k": "m", "t": "người Đài Loan"},
+      {"k": "m", "t": "thuộc về tỉnh Đài Loan"},
+      {"k": "m", "t": "tỉnh Đài Loan"}
     ],
     "k": "taiwanese"
   },
@@ -5750,7 +5750,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(hay T'ai-tsung) (596-59649) Vị hoàng đế thứ 2 của Vương triều nhà Tùy (627-49). Taizong nổi tiếng bởi năng lực cầm quân, tài uyên bác và sự quan tâm của ông đối với tất cả mọi người. Chính quyền của ông được tái thiết vững mạnh. Ông đã bành trướng quyền lực của Trung Quốc ra toàn vùng trung Á. Ông chinh phục người Turk ở phía Ðông năm 630. Họ đã coi ông là Thiên đế. Ở kinh đô Trường An các đại sứ mang lễ vật đến cống nạp. Họ là người từ các nước Samarkand, Ấn Ðộ, và Sumatra. Cũng có các nhà buôn và các nho sĩ từ nhiều nơi cùng với các đức tin của đạo Nestorians, đạo Phật, Bái hỏa giáo, Manichees, đạo Do Thái, đạo Hồi, và nhiều tôn giáo khác. Ông chính là người bảo trợ cho Xuanzang, một nhà sư hành hương, người đã mang về những cuốn kinh Phật giáo từ Ấn Ðộ năm 645, và sau đó dịch ra tiếng Trung Quốc."
+        "t": "(hay T'ai-tsung) (596-59649) Vị hoàng đế thứ 2 của Vương triều nhà Tùy (627-49). Taizong nổi tiếng bởi năng lực cầm quân, tài uyên bác và sự quan tâm của ông đối với tất cả mọi người. Chính quyền của ông được tái thiết vững mạnh. Ông đã bành trướng quyền lực của Trung Quốc ra toàn vùng trung Á. Ông chinh phục người Turk ở phía Đông năm 630. Họ đã coi ông là Thiên đế. Ở kinh đô Trường An các đại sứ mang lễ vật đến cống nạp. Họ là người từ các nước Samarkand, Ấn Độ, và Sumatra. Cũng có các nhà buôn và các nho sĩ từ nhiều nơi cùng với các đức tin của đạo Nestorians, đạo Phật, Bái hỏa giáo, Manichees, đạo Do Thái, đạo Hồi, và nhiều tôn giáo khác. Ông chính là người bảo trợ cho Xuanzang, một nhà sư hành hương, người đã mang về những cuốn kinh Phật giáo từ Ấn Độ năm 645, và sau đó dịch ra tiếng Trung Quốc."
       }
     ],
     "k": "taizong"
@@ -5816,15 +5816,15 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nước giáp với Xinjiang (Trung Quốc) ở phía Ðông và Afghanistan ở phía nam, một trong những vùng cao nhất của Trung Á."
+        "t": "Một nước giáp với Xinjiang (Trung Quốc) ở phía Đông và Afghanistan ở phía nam, một trong những vùng cao nhất của Trung Á."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Dãy núi Pamir án ngữ một phần ba lãnh thổ Tajikstan trong khi rặng núi Alai kéo dài suốt vùng trung tâm. Nằm bên dưới mức tuyết phủ, những sườn núi thường phủ dài tạo thành dãy đá đỏ và xám, ngắt quãng bởi những đồng cỏ núi cao. Nơi đây có nhiều rừng linh sam và cây bách xù."
+        "t": "Địa hình: Dãy núi Pamir án ngữ một phần ba lãnh thổ Tajikstan trong khi rặng núi Alai kéo dài suốt vùng trung tâm. Nằm bên dưới mức tuyết phủ, những sườn núi thường phủ dài tạo thành dãy đá đỏ và xám, ngắt quãng bởi những đồng cỏ núi cao. Nơi đây có nhiều rừng linh sam và cây bách xù."
       },
       {
         "k": "m",
-        "t": "Kinh tế: Tajikstan là nước Cộng hòa Xô viết cũ, kém phát triển, dù sở hữu rất nhiều nguồn tài nguyên khoáng sản phong phú. Bao gồm than đá, kẽm, chì, molypden, dầu khí và khí ga thiên nhiên. Ngành công nghiệp nặng chủ yếu dựa vào việc khai khoáng và chiết xuất khoáng sản. Công nghiệp nhẹ gồm một lượng lớn nhà máy dệt vải, lấy nguyên liệu từ bông. Ðây là mùa vụ nông nghiệp chính. Tơ lụa, trái cây, lúa mì và dầu thiên nhiên cũng được sản xuất cùng với ngành chăn nuôi gia súc. Các thung lũng của Tajikistan cung cấp nho, cây ăn quả, và các cánh đồng bông, ngũ cốc, trong khi thủy điện được khai thác từ sức nước của các con sông."
+        "t": "Kinh tế: Tajikstan là nước Cộng hòa Xô viết cũ, kém phát triển, dù sở hữu rất nhiều nguồn tài nguyên khoáng sản phong phú. Bao gồm than đá, kẽm, chì, molypden, dầu khí và khí ga thiên nhiên. Ngành công nghiệp nặng chủ yếu dựa vào việc khai khoáng và chiết xuất khoáng sản. Công nghiệp nhẹ gồm một lượng lớn nhà máy dệt vải, lấy nguyên liệu từ bông. Đây là mùa vụ nông nghiệp chính. Tơ lụa, trái cây, lúa mì và dầu thiên nhiên cũng được sản xuất cùng với ngành chăn nuôi gia súc. Các thung lũng của Tajikistan cung cấp nho, cây ăn quả, và các cánh đồng bông, ngũ cốc, trong khi thủy điện được khai thác từ sức nước của các con sông."
       },
       {
         "k": "m",
@@ -5840,7 +5840,7 @@
       {"k": "m", "t": "Tiền tệ: 1 Tajik rouble = 100 tanga."},
       {
         "k": "m",
-        "t": "Tôn giáo: Hồi giáo dòng Sunni; Do Thái chính thống Ðông Âu; thiểu số Ismaili."
+        "t": "Tôn giáo: Hồi giáo dòng Sunni; Do Thái chính thống Đông Âu; thiểu số Ismaili."
       },
       {"k": "m", "t": "Sắc tộc: Tajik 62%; Uzbek 23%; Russian 7%."},
       {
@@ -5849,7 +5849,7 @@
       },
       {
         "k": "m",
-        "t": "Gia nhập: Liên hợp quốc; Csce; Khối thịnh vượng chung của các quốc gia độc lập, Hội đồng hợp tác Bắc Ðại Tây Dương."
+        "t": "Gia nhập: Liên hợp quốc; Csce; Khối thịnh vượng chung của các quốc gia độc lập, Hội đồng hợp tác Bắc Đại Tây Dương."
       }
     ],
     "k": "tajikistan"
@@ -6309,7 +6309,7 @@
       {
         "k": "ex",
         "t": "It's ten o'clock -time to take a break:",
-        "vi": "Ðã 10 giờ - giờ nghỉ giải lao."
+        "vi": "Đã 10 giờ - giờ nghỉ giải lao."
       },
       {
         "k": "ex",
@@ -6599,7 +6599,7 @@
     "h": "take five",
     "segs": [
       {"k": "m", "t": "nghỉ giải lao 5 phút. (Tiếng lóng.)"},
-      {"k": "ex", "t": "Okay, everybody. Take five!:", "vi": "Ðược thôi, mọi người. Nghỉ 5 phút!"},
+      {"k": "ex", "t": "Okay, everybody. Take five!:", "vi": "Được thôi, mọi người. Nghỉ 5 phút!"},
       {
         "k": "ex",
         "t": "Hey, Bob. I'm tired. Can we take five?:",
@@ -7049,7 +7049,7 @@
       {
         "k": "ex",
         "t": "Don't talk to me that way, or I'll take you apart:",
-        "vi": "Ðừng nói với tôi kiểu đó, kẻo tôi đập anh chết bây giờ."
+        "vi": "Đừng nói với tôi kiểu đó, kẻo tôi đập anh chết bây giờ."
       },
       {
         "k": "ex",
@@ -7150,7 +7150,7 @@
       {
         "k": "ex",
         "t": "Thats too big a job for today. I'll take it up tomorrow:",
-        "vi": "Ðó là một công việc quá nhiều để làm hết trong ngày hôm nay. Tôi sẽ bắt đầu xử trí vào ngày mai."
+        "vi": "Đó là một công việc quá nhiều để làm hết trong ngày hôm nay. Tôi sẽ bắt đầu xử trí vào ngày mai."
       },
       {
         "k": "ex",
@@ -7572,7 +7572,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(hoặc offer to purchase) đề nghị do cá nhân hay xí nghiệp đư ra cho các cổ đông công ty nhằm mua cổ phần của họ với một giá đặc biệt để nắm quyền kiểm soát công ty. Ðối với những nghị giá mua cao ban giám đốc sẽ khuyên các cổ đông chấp thuận. Trong cuộc cạnh tranh về việc mua hầu nhằm đạt được hiệu quả, người trả giá có thể tăng các điều khoản được đề ra và sau đó sẽ và thường là viết đến cho các cổ đông ngắn gọn những ưu điểm sẽ có được từ cuộc đấu thầu thành công. Trong khi đó, những cuộc đấu thầu từ các nguyên cớ khác cũng được thực hiện hoặc người đấu thầu chính có thể rút ra như một kết quả của việc cân nhắc, xem xét từ hội đồng quản trị của công ty đó. Trong một cuộc đấu thầu vô điều kiện, người đấu thầu sẽ trả một cái giá hấp dẫn không tương xứng với số cổ phần của công ty. Trong khi người đấu thầu trong cuộc đấu thầu có điều kiện chỉ trả theo một giá đề nghị nếu các cổ phần đủ được nhận để cung cấp một phần lợi nhuận giới hạn. Các cuộc đấu thầu ở Liên Hiệp Anh thường tuân theo các luật lệ và nguyên tắc xử phạt của Bộ Luật thành phố về vấn đề đấu thầu và sự thống nhất trong công ty."
+        "t": "(hoặc offer to purchase) đề nghị do cá nhân hay xí nghiệp đư ra cho các cổ đông công ty nhằm mua cổ phần của họ với một giá đặc biệt để nắm quyền kiểm soát công ty. Đối với những nghị giá mua cao ban giám đốc sẽ khuyên các cổ đông chấp thuận. Trong cuộc cạnh tranh về việc mua hầu nhằm đạt được hiệu quả, người trả giá có thể tăng các điều khoản được đề ra và sau đó sẽ và thường là viết đến cho các cổ đông ngắn gọn những ưu điểm sẽ có được từ cuộc đấu thầu thành công. Trong khi đó, những cuộc đấu thầu từ các nguyên cớ khác cũng được thực hiện hoặc người đấu thầu chính có thể rút ra như một kết quả của việc cân nhắc, xem xét từ hội đồng quản trị của công ty đó. Trong một cuộc đấu thầu vô điều kiện, người đấu thầu sẽ trả một cái giá hấp dẫn không tương xứng với số cổ phần của công ty. Trong khi người đấu thầu trong cuộc đấu thầu có điều kiện chỉ trả theo một giá đề nghị nếu các cổ phần đủ được nhận để cung cấp một phần lợi nhuận giới hạn. Các cuộc đấu thầu ở Liên Hiệp Anh thường tuân theo các luật lệ và nguyên tắc xử phạt của Bộ Luật thành phố về vấn đề đấu thầu và sự thống nhất trong công ty."
       }
     ],
     "k": "take-over bid"
@@ -8760,7 +8760,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nhóm chính trị vũ trang Hồi giáo chính thống đã giành quyền cai trị hầu hết lãnh thổ Afghanistan, kể cả thủ đô Kabul, trong suốt những năm 1994-96. Taliban có nghĩa là \"những kẻ tìm kiếm\" theo ngôn ngữ Pashto và lực lượng dân quân Taliban được thành lập bởi những sinh viên thần học Hồi giáo ở miền Nam đất nước năm 1994 với mục đích thống nhất Afghanistan. Các bè phái đối lập Mujaheddin đã liên tục đấu tranh kể từ khi lực lượng Xô Viết rút khỏi đây vào năm 1989. Sau thất bại ban đầu, lực lượng Taliban chiếm được thành phố Herat vào tháng 9 năm 1995 và tiến quân giành lấy Kabul vào tháng 8 năm 1996. Một bộ luật Hồi giáo nghiêm khắc ngay lập tức được áp đặt. Qua đó, phụ nữ không được làm việc kiếm tiền, học hành và xem truyền hình. Chế độ Taliban căm ghét chủ nghĩa cộng sản và những lợi ích từ phương Tây. Lực lượng quân đội liên minh chống lại Taliban tập trung ở Ðông Bắc Afghanistan. Lực lượng này được biết với tên gọi \"Mặt trận liên minh Hồi giáo bảo vệ Afghanistan\" (UIFSA). Những cuộc chiến đấu ác liệt giữa Taliban Uifsa vẫn tiếp diễn mặc cho những cố gắng của cộng đồng quốc tế nhằm đem lại một thỏa thuận hòa bình."
+        "t": "Một nhóm chính trị vũ trang Hồi giáo chính thống đã giành quyền cai trị hầu hết lãnh thổ Afghanistan, kể cả thủ đô Kabul, trong suốt những năm 1994-96. Taliban có nghĩa là \"những kẻ tìm kiếm\" theo ngôn ngữ Pashto và lực lượng dân quân Taliban được thành lập bởi những sinh viên thần học Hồi giáo ở miền Nam đất nước năm 1994 với mục đích thống nhất Afghanistan. Các bè phái đối lập Mujaheddin đã liên tục đấu tranh kể từ khi lực lượng Xô Viết rút khỏi đây vào năm 1989. Sau thất bại ban đầu, lực lượng Taliban chiếm được thành phố Herat vào tháng 9 năm 1995 và tiến quân giành lấy Kabul vào tháng 8 năm 1996. Một bộ luật Hồi giáo nghiêm khắc ngay lập tức được áp đặt. Qua đó, phụ nữ không được làm việc kiếm tiền, học hành và xem truyền hình. Chế độ Taliban căm ghét chủ nghĩa cộng sản và những lợi ích từ phương Tây. Lực lượng quân đội liên minh chống lại Taliban tập trung ở Đông Bắc Afghanistan. Lực lượng này được biết với tên gọi \"Mặt trận liên minh Hồi giáo bảo vệ Afghanistan\" (UIFSA). Những cuộc chiến đấu ác liệt giữa Taliban Uifsa vẫn tiếp diễn mặc cho những cố gắng của cộng đồng quốc tế nhằm đem lại một thỏa thuận hòa bình."
       }
     ],
     "k": "taliban"
@@ -9193,7 +9193,7 @@
       {
         "k": "ex",
         "t": "This is my final offer. Don't try to talk me down:",
-        "vi": "Ðây là giá cuối cùng của tôi. Ðừng thuyết phục tôi hạ giá xuống nữa."
+        "vi": "Đây là giá cuối cùng của tôi. Đừng thuyết phục tôi hạ giá xuống nữa."
       }
     ],
     "k": "talk someone down"
@@ -9239,7 +9239,7 @@
       {
         "k": "ex",
         "t": "Okay, Bob, we have business to discuss. Let's talk turkey:",
-        "vi": "Ðược thôi, Bob. Chúng ta có chuyện để bàn. Hãy nói chuyện với nhau một cách thành thật."
+        "vi": "Được thôi, Bob. Chúng ta có chuyện để bàn. Hãy nói chuyện với nhau một cách thành thật."
       },
       {
         "k": "ex",
@@ -9522,7 +9522,7 @@
   },
   {
     "h": "talking paint",
-    "segs": [{"k": "m", "t": "(dt) Ðề tài bàn luận."}],
+    "segs": [{"k": "m", "t": "(dt) Đề tài bàn luận."}],
     "ipa": "ɛtɔ:kiŋpɔint",
     "k": "talking paint"
   },
@@ -10068,11 +10068,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Hebrew, \"study\") Tài liệu biên soạn về bản dịch khoa học và lời dẫn giải về các luật truyền miệng của người Do Thái trong sách Mishnah. Sự phá hoại đền thờ ở Jerusalem (năm 70 sau công nguyên) và sự phát triển của cộng đồng người Do Thái đã thúc đẩy việc bảo tồn truyền thống dân tộc. Judah HA-Nasi biên soạn quyển Mishnah (200 sau công nguyên), một bản tóm tắt có tổ chức về những lời truyền miệng. Quyển sách này, cùng với quyển sách dẫn giải sau đó, Gemara, đã tạo thành tập hợp những văn bản cổ về luật và truyền thống Do Thái. Có hai bản chính: bản tiếng Palestine hay Jerusalem (hoàn thành 400 sau công nguyên) và bản của người Babylon (hoàn thành 500 sau công nguyên). Cả hai đều dựa trên nguyên gốc là quyển Mishnah, nhưng bản của người Babylon được coi là đầy đủ và chính xác hơn. Tập hợp những văn bản cổ về luật và truyền thống Do Thái trước hết là một tài liệu pháp luật, nhưng cũng có chứa những phần phi luật pháp, với tên gọi Haggadah (văn tường thuật). Phiên bản chuẩn của Talmud in một phần của quyển Mishnah và những điều có liên quan trên mỗi trang. Bản tóm tắt để học tập Talmud sau đó được biên soạn bởi nhiều học giả như Maimonides thế kỷ 12 và Joseph Caro thế kỷ 16. Talmud là nền tảng để biên soạn những luật pháp Do Thái (Halakhah) sau này. Ðây cũng là cơ sở của việc soạn thảo luật pháp Do Thái về sau (Halakhah). Nó có ảnh hưởng đối với quyển Shulhan Arukh (Laid Table) của Cairo (1565). Các nghiên cứu của Tamud tập trung vào tôn chỉ của đạo Do Thái và đời sống tín ngưỡng từ khi nó được biên soạn."
+        "t": "(Hebrew, \"study\") Tài liệu biên soạn về bản dịch khoa học và lời dẫn giải về các luật truyền miệng của người Do Thái trong sách Mishnah. Sự phá hoại đền thờ ở Jerusalem (năm 70 sau công nguyên) và sự phát triển của cộng đồng người Do Thái đã thúc đẩy việc bảo tồn truyền thống dân tộc. Judah HA-Nasi biên soạn quyển Mishnah (200 sau công nguyên), một bản tóm tắt có tổ chức về những lời truyền miệng. Quyển sách này, cùng với quyển sách dẫn giải sau đó, Gemara, đã tạo thành tập hợp những văn bản cổ về luật và truyền thống Do Thái. Có hai bản chính: bản tiếng Palestine hay Jerusalem (hoàn thành 400 sau công nguyên) và bản của người Babylon (hoàn thành 500 sau công nguyên). Cả hai đều dựa trên nguyên gốc là quyển Mishnah, nhưng bản của người Babylon được coi là đầy đủ và chính xác hơn. Tập hợp những văn bản cổ về luật và truyền thống Do Thái trước hết là một tài liệu pháp luật, nhưng cũng có chứa những phần phi luật pháp, với tên gọi Haggadah (văn tường thuật). Phiên bản chuẩn của Talmud in một phần của quyển Mishnah và những điều có liên quan trên mỗi trang. Bản tóm tắt để học tập Talmud sau đó được biên soạn bởi nhiều học giả như Maimonides thế kỷ 12 và Joseph Caro thế kỷ 16. Talmud là nền tảng để biên soạn những luật pháp Do Thái (Halakhah) sau này. Đây cũng là cơ sở của việc soạn thảo luật pháp Do Thái về sau (Halakhah). Nó có ảnh hưởng đối với quyển Shulhan Arukh (Laid Table) của Cairo (1565). Các nghiên cứu của Tamud tập trung vào tôn chỉ của đạo Do Thái và đời sống tín ngưỡng từ khi nó được biên soạn."
       },
       {
         "k": "m",
-        "t": "Ðến thế kỷ 18, cộng đồng người Do Thái ở Châu Âu đã có quyền tự trị về luật pháp. Họ nhắm đến tòa án luật pháp Do Thái của riêng mình. Với nhiều phong trào cải cách từ sau khi các nhánh khác nhau của đạo Do Thái được hình thành, hai quyển Talmud và Halakhah được biên soạn lại rất khác nhau. Những người theo đạo Do Thái chính thống quan tâm đến luật truyền miệng và các luật được ghi chép lại của Pentateuch ngang bằng với tính thiêng liêng và bất biến của các hệ thống luật. Tuy nhiên, việc cải cách đạo Do Thái đã phủ nhận tính thần thánh của các luật truyền miệng và nhấn mạnh quyền lực của năm quyển đầu kinh Cựu ước. Những người Do Thái bảo thủ đã nắm vị thế đứng giữa, đi theo luật như một chiều hướng phát triển. Như thế, luật Do Thái về bề ngoài là một thực tiễn tôn giáo, ví dụ như ăn chay và giữ mình trong lễ Shabbat. Nó được áp dụng theo nhiều mức độ khác nhau đối với các cộng đồng Do Thái trên toàn thế giới, ngoại trừ Israel. Nơi đây thừa nhận luật Do Thái là nguồn gốc của những luật lệ cổ hủ, và chấp nhận Tòa án theo giáo lý Do Thái dành riêng để phân xử các vấn đề hôn nhân, ly dị của người Do Thái. Các tòa án tôn giáo này có cùng hiệu lực thực thi như tòa án dân sự trong những vấn đề cá nhân, nếu tất cả các đảng phái có liên quan đồng chấp thuận. Phạm vi của luật Do Thái cổ là các vấn đề của luật hiến pháp, luật hình sự và luật tư pháp, hướng đến mục đích rõ ràng của đạo Do Thái chính thống. Trong đó, Israel trở thành một lãnh thổ theo luật Do thái một cách trọn vẹn."
+        "t": "Đến thế kỷ 18, cộng đồng người Do Thái ở Châu Âu đã có quyền tự trị về luật pháp. Họ nhắm đến tòa án luật pháp Do Thái của riêng mình. Với nhiều phong trào cải cách từ sau khi các nhánh khác nhau của đạo Do Thái được hình thành, hai quyển Talmud và Halakhah được biên soạn lại rất khác nhau. Những người theo đạo Do Thái chính thống quan tâm đến luật truyền miệng và các luật được ghi chép lại của Pentateuch ngang bằng với tính thiêng liêng và bất biến của các hệ thống luật. Tuy nhiên, việc cải cách đạo Do Thái đã phủ nhận tính thần thánh của các luật truyền miệng và nhấn mạnh quyền lực của năm quyển đầu kinh Cựu ước. Những người Do Thái bảo thủ đã nắm vị thế đứng giữa, đi theo luật như một chiều hướng phát triển. Như thế, luật Do Thái về bề ngoài là một thực tiễn tôn giáo, ví dụ như ăn chay và giữ mình trong lễ Shabbat. Nó được áp dụng theo nhiều mức độ khác nhau đối với các cộng đồng Do Thái trên toàn thế giới, ngoại trừ Israel. Nơi đây thừa nhận luật Do Thái là nguồn gốc của những luật lệ cổ hủ, và chấp nhận Tòa án theo giáo lý Do Thái dành riêng để phân xử các vấn đề hôn nhân, ly dị của người Do Thái. Các tòa án tôn giáo này có cùng hiệu lực thực thi như tòa án dân sự trong những vấn đề cá nhân, nếu tất cả các đảng phái có liên quan đồng chấp thuận. Phạm vi của luật Do Thái cổ là các vấn đề của luật hiến pháp, luật hình sự và luật tư pháp, hướng đến mục đích rõ ràng của đạo Do Thái chính thống. Trong đó, Israel trở thành một lãnh thổ theo luật Do thái một cách trọn vẹn."
       }
     ],
     "k": "talmud"
@@ -10639,7 +10639,7 @@
     "h": "tamil",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người Ta-min (người gốc Nam Â'n Ðộ và Srilanca)"},
+      {"k": "m", "t": "người Ta-min (người gốc Nam Â'n Độ và Srilanca)"},
       {"k": "m", "t": "tiếng Tamin"},
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "thuộc về dân tộc Tamin."}
@@ -10678,7 +10678,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cơ quan đầu não của một tổ chức chính trị ở thành phố New York, ủy ban hành pháp của Ðảng Cộng hòa. Ðược sáng lập năm 1789, nó đại diện cho sự chống đối của tầng lớp trung lưu đối với giới quý tộc, chủ trương thành lập liên bang. Nó được đặt theo tên của Tammanend, thủ lĩnh của Delaware cuối thế kỷ 17, và dựa trên nghi thức phỏng theo hình thái của thổ dân Mỹ. Hội Tammany dưới sự chỉ huy của Aaron Burr, đạt được một tầm ảnh hưởng chính trị kéo dài đến thập niên 1950. Hội này bắt đầu liên kết với Ðảng Cộng hòa trở thành hai tổ chức có chung người lãnh đạo. Tammany nổi tiếng là một nguồn mang lại lợi ích và tặng phẩm, đặc biệt là đối với một số tôn giáo và nhóm sắc tộc. Vào giữa thế kỷ 19, người đứng đầu Hội là Sachem tối cao, đã duy trì một nền cộng hòa Ireland uy quyền trong giới chính trị ở thành phố New York. Dưới thời của \"Ông chủ\" Tweed, tham nhũng đạt đến đỉnh điểm giữa những năm 1867 và 1872. Từ đó, thuật ngữ \"Tammany\" dành cho những bộ máy hành chính có hành vi nhận hối lộ, tham nhũng, và tệ nạn lạm dụng chính trị. Tầm ảnh hưởng của nó đã bị Tổng thống F. D. Roosevelt dập tắt."
+        "t": "Cơ quan đầu não của một tổ chức chính trị ở thành phố New York, ủy ban hành pháp của Đảng Cộng hòa. Được sáng lập năm 1789, nó đại diện cho sự chống đối của tầng lớp trung lưu đối với giới quý tộc, chủ trương thành lập liên bang. Nó được đặt theo tên của Tammanend, thủ lĩnh của Delaware cuối thế kỷ 17, và dựa trên nghi thức phỏng theo hình thái của thổ dân Mỹ. Hội Tammany dưới sự chỉ huy của Aaron Burr, đạt được một tầm ảnh hưởng chính trị kéo dài đến thập niên 1950. Hội này bắt đầu liên kết với Đảng Cộng hòa trở thành hai tổ chức có chung người lãnh đạo. Tammany nổi tiếng là một nguồn mang lại lợi ích và tặng phẩm, đặc biệt là đối với một số tôn giáo và nhóm sắc tộc. Vào giữa thế kỷ 19, người đứng đầu Hội là Sachem tối cao, đã duy trì một nền cộng hòa Ireland uy quyền trong giới chính trị ở thành phố New York. Dưới thời của \"Ông chủ\" Tweed, tham nhũng đạt đến đỉnh điểm giữa những năm 1867 và 1872. Từ đó, thuật ngữ \"Tammany\" dành cho những bộ máy hành chính có hành vi nhận hối lộ, tham nhũng, và tệ nạn lạm dụng chính trị. Tầm ảnh hưởng của nó đã bị Tổng thống F. D. Roosevelt dập tắt."
       }
     ],
     "k": "tammany hall"
@@ -11043,7 +11043,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1834) Cuộc bầu cử nhằm đưa Ngài Robert Peel giành quyền lập hiến ở Tamworth, Staffordshire. Peel hứa sẽ thực thi Luật cải cách do chính phủ đảng Whig đề ra năm 1832. Ông tuyên bố giữ vững chính sách cải cách ở mức độ vừa phải. Ông nhấn mạnh yêu cầu cần bảo tồn các giá trị quý giá nhất trong lịch sử nước Anh. Quan niệm đổi mới này rất cần thiết đối với thể chế chính trị hiện thời. Ông đã thay đổi đường lối cũ, hà khắc sang những nguyên tắc mới, thông thoáng hơn của Ðảng bảo thủ Anh."
+        "t": "(1834) Cuộc bầu cử nhằm đưa Ngài Robert Peel giành quyền lập hiến ở Tamworth, Staffordshire. Peel hứa sẽ thực thi Luật cải cách do chính phủ đảng Whig đề ra năm 1832. Ông tuyên bố giữ vững chính sách cải cách ở mức độ vừa phải. Ông nhấn mạnh yêu cầu cần bảo tồn các giá trị quý giá nhất trong lịch sử nước Anh. Quan niệm đổi mới này rất cần thiết đối với thể chế chính trị hiện thời. Ông đã thay đổi đường lối cũ, hà khắc sang những nguyên tắc mới, thông thoáng hơn của Đảng bảo thủ Anh."
       }
     ],
     "k": "tamworth manifesto"
@@ -11210,7 +11210,7 @@
     "h": "tanadar",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(Ấn Ðộ) đồn trưởng đồn cảnh sát"},
+      {"k": "m", "t": "(Ấn Độ) đồn trưởng đồn cảnh sát"},
       {"k": "m", "t": "chỉ huy đồn lính."}
     ],
     "ipa": "'ta:nəda:",
@@ -11516,7 +11516,7 @@
     "h": "tandoori",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "kiểu thức ăn Ấn Ðộ nấu trên than trong nồi đất"},
+      {"k": "m", "t": "kiểu thức ăn Ấn Độ nấu trên than trong nồi đất"},
       {"k": "ex", "t": "tandoori chicken", "vi": "gà tiềm."}
     ],
     "ipa": "tæn'duori",
@@ -12428,7 +12428,7 @@
       {"k": "m", "t": "thùng, két, bể (chứa nước, dầu...)"},
       {"k": "m", "t": "cái chứa trong thùng (két, bể...) (như)"},
       {"k": "ex", "t": "tankful", "vi": "(quân) xe tăng"},
-      {"k": "m", "t": "bể lớn chứa nước (ở Ấn Ðộ, Pakistan...)"},
+      {"k": "m", "t": "bể lớn chứa nước (ở Ấn Độ, Pakistan...)"},
       {"k": "pos", "t": "nội động từ"},
       {"k": "m", "t": "(+"},
       {"k": "ex", "t": "up", "vi": ") đổ đầy thùng (két...) của một chiếc xe"},
@@ -13752,11 +13752,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðất nước ở Ðông Phi, bao gồm nước cộng hòa Tanganyika cũ và phần đảo của Zanzibar. Tanzania có đường biên giới giáp với Kenya và Uganda ở phía bắc. Rwanda, Burundi, và Cộng hòa dân chủ Congo (trước kia là ZaIre) ở phía tây; Zambia, Malawi, và Mozambique ở phía nam."
+        "t": "Đất nước ở Đông Phi, bao gồm nước cộng hòa Tanganyika cũ và phần đảo của Zanzibar. Tanzania có đường biên giới giáp với Kenya và Uganda ở phía bắc. Rwanda, Burundi, và Cộng hòa dân chủ Congo (trước kia là ZaIre) ở phía tây; Zambia, Malawi, và Mozambique ở phía nam."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Tanzania có đường bờ biển của Ấn Ðộ Dương và vài đảo khác. Ðảo Pemba và Zanzibar đều là những khu tự trị. Ðồng bằng duyên hải nóng ẩm kéo dài qua những cánh rừng rậm rạp và những vùng đất phủ toàn cây xidan đến một cao nguyên ấm áp. Về hướng bắc là ngọn núi Kilimanjaro, bên dưới lớp đất mặt là mạch núi lửa. Cà phê được phát triển trên loại đất này. Xa hơn về hướng bắc là hồ Victoria, bao quanh là khu trồng bông. Kim cương được phát hiện và các loài vật được tự do trong công viên quốc gia Serengeti. Hồ Tanganyika trải dài ở biên giới phía tây, và hồ Malawi ở phía Nam, cả hai đều ở phía tây của Thung lũng Rift rộng lớn."
+        "t": "Địa hình: Tanzania có đường bờ biển của Ấn Độ Dương và vài đảo khác. Đảo Pemba và Zanzibar đều là những khu tự trị. Đồng bằng duyên hải nóng ẩm kéo dài qua những cánh rừng rậm rạp và những vùng đất phủ toàn cây xidan đến một cao nguyên ấm áp. Về hướng bắc là ngọn núi Kilimanjaro, bên dưới lớp đất mặt là mạch núi lửa. Cà phê được phát triển trên loại đất này. Xa hơn về hướng bắc là hồ Victoria, bao quanh là khu trồng bông. Kim cương được phát hiện và các loài vật được tự do trong công viên quốc gia Serengeti. Hồ Tanganyika trải dài ở biên giới phía tây, và hồ Malawi ở phía Nam, cả hai đều ở phía tây của Thung lũng Rift rộng lớn."
       },
       {
         "k": "m",
@@ -13764,7 +13764,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Trong thiên niên kỷ đầu tiên trước công nguyên, vùng đất phía bắc Tanzania do người Caucasoid định cư, có lẽ đến từ Ai Cập. Dân tộc nói tiếng Bantu từ Tây Mỹ chuyển đến khu vực này và định cư ở đây vào khoảng năm 500 sau công nguyên. Các thương nhân buôn bán nô lệ người Arab định cư dọc bờ biển, đôi khi xảy ra xung đột với các nhà thám hiểm Bồ Ðào Nha, những người đầu tiên đặt chân đến đây cuối thế kỷ 15. Những nhà truyền giáo Ðức đến Tanganyika (phần đất liền của Tanzania) vào những năm 1840 và theo sau là bọn thực dân Ðức. Vào năm 1907 nước Ðức đã nắm trọn quyền kiểm soát quốc gia này. Tanganyika trở thành một nước ủy nhiệm độc lập của Anh sau chiến tranh thế giới I, và sau chiến tranh thế giới II, trở thành một lãnh thổ độc lập dưới quyền kiểm soát của Anh. Nó giành được độc lập năm 1961, tiếp theo sau là nước Zanzibar năm 1963. Hai quốc gia này sát nhập vào năm 1964 tạo thành Liên bang cộng hòa Tanzania dưới quyền lãnh đạo của Tổng thống đầu tiên, Julius Nyerere. Trong bảng tuyên ngôn Arusha năm 1967, Nyerere tuyên bố chính sách về bình đẳng và độc lập của Tanzania. Năm 1975, tuyến đường sắt TAN-ZAM được hoàn thành. Tanzania giúp Uganda giành lại nền dân chủ năm 1986 và hỗ trợ đắc lực cho các chính trị gia sống lưu vong của Zimbabwe, Angola, và Namibia. Tổng thống Ndugu Ali Hassan Mwinyi kế nhiệm, ông này tái đắc cử vào năm 1990 và trong những năm tại chức, ông đã nhìn thấy sự phục hồi đáng kể của nền kinh tế với những tiềm năng thật sự to lớn của nó. Tháng 6 năm 1992, ông hợp pháp hóa hoạt động của những đảng đối lập, kết thúc 27 năm duy trì nguyên tắc đảng duy nhất cầm quyền. Trong suốt những năm 1994 và 1995, khoảng 800.000 người tị nạn từ cuộc nội chiến và bạo lực sắc tộc ở các nước láng giềng là Rwanda và Burundi tràn về Tanzania; nhiều chính khách Tanzania kêu gọi họ hồi hương. Tình trạng căng thẳng trong nội địa cũng tăng lên trong thời kỳ này, đặc biệt là ở Zanzibar, nơi mà đảng cầm quyền phải đọ sức với sự phát triển của trào lưu Hồi giáo chính thống đối lập. Cuộc bầu cử đa đảng, được tổ chức tháng 11 năm 1995, chứng kiến sự khôi phục quyền lực của Ðảng Cách mạng, với việc Benjamin Mkapa trở thành Tổng thống mới của đất nước."
+        "t": "Lịch sử: Trong thiên niên kỷ đầu tiên trước công nguyên, vùng đất phía bắc Tanzania do người Caucasoid định cư, có lẽ đến từ Ai Cập. Dân tộc nói tiếng Bantu từ Tây Mỹ chuyển đến khu vực này và định cư ở đây vào khoảng năm 500 sau công nguyên. Các thương nhân buôn bán nô lệ người Arab định cư dọc bờ biển, đôi khi xảy ra xung đột với các nhà thám hiểm Bồ Đào Nha, những người đầu tiên đặt chân đến đây cuối thế kỷ 15. Những nhà truyền giáo Đức đến Tanganyika (phần đất liền của Tanzania) vào những năm 1840 và theo sau là bọn thực dân Đức. Vào năm 1907 nước Đức đã nắm trọn quyền kiểm soát quốc gia này. Tanganyika trở thành một nước ủy nhiệm độc lập của Anh sau chiến tranh thế giới I, và sau chiến tranh thế giới II, trở thành một lãnh thổ độc lập dưới quyền kiểm soát của Anh. Nó giành được độc lập năm 1961, tiếp theo sau là nước Zanzibar năm 1963. Hai quốc gia này sát nhập vào năm 1964 tạo thành Liên bang cộng hòa Tanzania dưới quyền lãnh đạo của Tổng thống đầu tiên, Julius Nyerere. Trong bảng tuyên ngôn Arusha năm 1967, Nyerere tuyên bố chính sách về bình đẳng và độc lập của Tanzania. Năm 1975, tuyến đường sắt TAN-ZAM được hoàn thành. Tanzania giúp Uganda giành lại nền dân chủ năm 1986 và hỗ trợ đắc lực cho các chính trị gia sống lưu vong của Zimbabwe, Angola, và Namibia. Tổng thống Ndugu Ali Hassan Mwinyi kế nhiệm, ông này tái đắc cử vào năm 1990 và trong những năm tại chức, ông đã nhìn thấy sự phục hồi đáng kể của nền kinh tế với những tiềm năng thật sự to lớn của nó. Tháng 6 năm 1992, ông hợp pháp hóa hoạt động của những đảng đối lập, kết thúc 27 năm duy trì nguyên tắc đảng duy nhất cầm quyền. Trong suốt những năm 1994 và 1995, khoảng 800.000 người tị nạn từ cuộc nội chiến và bạo lực sắc tộc ở các nước láng giềng là Rwanda và Burundi tràn về Tanzania; nhiều chính khách Tanzania kêu gọi họ hồi hương. Tình trạng căng thẳng trong nội địa cũng tăng lên trong thời kỳ này, đặc biệt là ở Zanzibar, nơi mà đảng cầm quyền phải đọ sức với sự phát triển của trào lưu Hồi giáo chính thống đối lập. Cuộc bầu cử đa đảng, được tổ chức tháng 11 năm 1995, chứng kiến sự khôi phục quyền lực của Đảng Cách mạng, với việc Benjamin Mkapa trở thành Tổng thống mới của đất nước."
       },
       {"k": "m", "t": "Thủ đô: Dares Salaam."},
       {"k": "m", "t": "Diện tích: 945.037 km2"},
@@ -13808,13 +13808,13 @@
     "h": "Tao",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(triết học) Ðạo (trong chủ thuyết của Lão Tử)."}
+      {"k": "m", "t": "(triết học) Đạo (trong chủ thuyết của Lão Tử)."}
     ],
     "k": "tao"
   },
   {
     "h": "Tao-te Ching",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Ðạo Ðức Kinh (do Lão Tử biên soạn)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Đạo Đức Kinh (do Lão Tử biên soạn)."}],
     "k": "tao-te ching"
   },
   {
@@ -17941,7 +17941,7 @@
   },
   {
     "h": "Tariff penance",
-    "segs": [{"k": "m", "t": "Ðền tội theo định mức (theo mức đã định sẵn)."}],
+    "segs": [{"k": "m", "t": "Đền tội theo định mức (theo mức đã định sẵn)."}],
     "k": "tariff penance"
   },
   {
@@ -18003,7 +18003,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cải cách thuế quan. Một chính sách tài chính của người Anh lập ra để kết thúc sự gia nhập của quốc gia này vào Tổ chức Mậu dịch tự do, bằng việc sử dụng hàng rào thuế quan bảo hộ trên hàng hóa nhập khẩu. Joseph Chamberlain tin rằng việc sử dụng hệ thống thuế quan có thể tăng thêm nguồn thu cho nước Anh và vị thế thương mại của nó. Sự việc này cũng tăng cường mối liên kết trong phạm vi đế quốc Anh bằng việc ban hành chính sách thiên vị đế quốc (áp dụng tỉ lệ thuế thấp cho các nước thành viên). Chiến dịch của Chamberlain (1897-1906) thất bại, bởi lẽ nó mâu thuẫn với quyền lợi của Ðảng Bảo thủ, và bị Ðảng Tự do bãi bỏ. Cải cách thuế quan bị loại bỏ một lần nữa vào năm 1923, khi Stanley Baldwin và Ðảng Bảo thủ thất bại trong việc giành được đa số phiếu tán thành vấn đề này. Tuy nhiên, cú sốc gây ra bởi cuộc khủng hoảng tài chính quốc tế năm 1929-1931 cùng với sự tăng cường chính trị dân tộc và ganh đua về kinh tế đã làm cho chính sách mậu dịch tự do của nước Anh càng mắc thêm nhiều sai lầm hơn. Việc thông qua chế độ bảo vệ nền công nghiệp trong nước của Chính phủ MacDonald từ năm 1931 đánh dấu thành công cuối cùng của chính sách cải cách thuế quan."
+        "t": "Cải cách thuế quan. Một chính sách tài chính của người Anh lập ra để kết thúc sự gia nhập của quốc gia này vào Tổ chức Mậu dịch tự do, bằng việc sử dụng hàng rào thuế quan bảo hộ trên hàng hóa nhập khẩu. Joseph Chamberlain tin rằng việc sử dụng hệ thống thuế quan có thể tăng thêm nguồn thu cho nước Anh và vị thế thương mại của nó. Sự việc này cũng tăng cường mối liên kết trong phạm vi đế quốc Anh bằng việc ban hành chính sách thiên vị đế quốc (áp dụng tỉ lệ thuế thấp cho các nước thành viên). Chiến dịch của Chamberlain (1897-1906) thất bại, bởi lẽ nó mâu thuẫn với quyền lợi của Đảng Bảo thủ, và bị Đảng Tự do bãi bỏ. Cải cách thuế quan bị loại bỏ một lần nữa vào năm 1923, khi Stanley Baldwin và Đảng Bảo thủ thất bại trong việc giành được đa số phiếu tán thành vấn đề này. Tuy nhiên, cú sốc gây ra bởi cuộc khủng hoảng tài chính quốc tế năm 1929-1931 cùng với sự tăng cường chính trị dân tộc và ganh đua về kinh tế đã làm cho chính sách mậu dịch tự do của nước Anh càng mắc thêm nhiều sai lầm hơn. Việc thông qua chế độ bảo vệ nền công nghiệp trong nước của Chính phủ MacDonald từ năm 1931 đánh dấu thành công cuối cùng của chính sách cải cách thuế quan."
       }
     ],
     "k": "tariff reform"
@@ -18728,7 +18728,7 @@
         "t": "mẫu những vạch màu chéo nhau theo góc vuông (đặc trưng của dân cao nguyên Xcốt-len)"
       },
       {"k": "m", "t": "vải len kẻ ô vuông"},
-      {"k": "m", "t": "(hàng hải) thuyền tactan (thuyền một buồm ở Ðịa Trung Hải)."}
+      {"k": "m", "t": "(hàng hải) thuyền tactan (thuyền một buồm ở Địa Trung Hải)."}
     ],
     "ipa": "'ta:tn",
     "k": "tartan"
@@ -20041,7 +20041,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một dòng họ Ấn độ hoạt động trong lĩnh vực công nghiệp và thương nghiệp. Ðó là một trong hai dòng họ phú thương quan trọng nhất ở Ấn Ðộ cận đại (cùng với dòng họ Birlas). Gia tộc này bắt đầu việc kinh doanh ở vùng viễn Ðông, nhưng sau đó đa dạng hóa lĩnh vực hoạt động. Dưới thời của Jahangir Ratanji Dadabhai Tata (1904-1993), một hãng hàng không ra đời và sau đó trở thành Công ty Hàng không Ấn Ðộ. Dòng họ Tata cũng bỏ ra nhiều khoản chi lớn vào lĩnh vực khoa học và những ngành nghề khác. Họ sáng lập ra Viện Nghiên cứu Cơ bản ở Bombay. Những công ty của họ cứ thế tiếp tục nối nghiệp."
+        "t": "Một dòng họ Ấn độ hoạt động trong lĩnh vực công nghiệp và thương nghiệp. Đó là một trong hai dòng họ phú thương quan trọng nhất ở Ấn Độ cận đại (cùng với dòng họ Birlas). Gia tộc này bắt đầu việc kinh doanh ở vùng viễn Đông, nhưng sau đó đa dạng hóa lĩnh vực hoạt động. Dưới thời của Jahangir Ratanji Dadabhai Tata (1904-1993), một hãng hàng không ra đời và sau đó trở thành Công ty Hàng không Ấn Độ. Dòng họ Tata cũng bỏ ra nhiều khoản chi lớn vào lĩnh vực khoa học và những ngành nghề khác. Họ sáng lập ra Viện Nghiên cứu Cơ bản ở Bombay. Những công ty của họ cứ thế tiếp tục nối nghiệp."
       }
     ],
     "k": "tata"
@@ -20163,7 +20163,7 @@
   },
   {
     "h": "tatte melk",
-    "segs": [{"k": "m", "t": "Sữa rong đông (món ăn Thụy Ðiển)."}],
+    "segs": [{"k": "m", "t": "Sữa rong đông (món ăn Thụy Điển)."}],
     "k": "tatte melk"
   },
   {
@@ -20642,7 +20642,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1794-1874) nhà toán học Ðức. Ông phát triển (1825-1826) hệ quả từ giả thiết cho rằng tổng các góc của một tam giác nhỏ hơn hai góc vuông, và đạt đến một số định lý của hình học phi Euclide."
+        "t": "(1794-1874) nhà toán học Đức. Ông phát triển (1825-1826) hệ quả từ giả thiết cho rằng tổng các góc của một tam giác nhỏ hơn hai góc vuông, và đạt đến một số định lý của hình học phi Euclide."
       }
     ],
     "k": "taurinus france adolphe"
@@ -20876,7 +20876,7 @@
     "segs": [{"k": "m", "t": "Trùng phức; trùng ý, điệp luận; hằng đề."}],
     "k": "tautology(-ical)"
   },
-  {"h": "tautomer", "segs": [{"k": "m", "t": "Ðồng phân hổ biến."}], "k": "tautomer"},
+  {"h": "tautomer", "segs": [{"k": "m", "t": "Đồng phân hổ biến."}], "k": "tautomer"},
   {"h": "tautomeral", "segs": [{"k": "m", "t": "(thuộc) cùng bên."}], "k": "tautomeral"},
   {"h": "tautomeric", "segs": [{"k": "m", "t": "(có tính chất) hổ biến."}], "k": "tautomeric"},
   {
@@ -21434,7 +21434,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "căn cứ tính thuế. Gồm có đơn vị tính thuế và thuế suất của từng loại thuế. Ðơn vị tính thuế là bộ phận được coi là nhỏ nhất của đối tượng tính thuế."
+        "t": "căn cứ tính thuế. Gồm có đơn vị tính thuế và thuế suất của từng loại thuế. Đơn vị tính thuế là bộ phận được coi là nhỏ nhất của đối tượng tính thuế."
       }
     ],
     "k": "tax calculation basis"
@@ -21626,7 +21626,7 @@
       {"k": "m", "t": "(kinh tế) Sự làm giảm khuyến khích của thuế."},
       {
         "k": "m",
-        "t": "Thuế thu nhập có thể làm cho người ta làm việc ít hơn. Sự tồn tại của nó làm cho giải trí hấp dẫn hơn vì nó không chịu thuế. Ðiều này được gọi là hiệu ứng thay thế của thuế."
+        "t": "Thuế thu nhập có thể làm cho người ta làm việc ít hơn. Sự tồn tại của nó làm cho giải trí hấp dẫn hơn vì nó không chịu thuế. Điều này được gọi là hiệu ứng thay thế của thuế."
       }
     ],
     "k": "tax disincentive"
@@ -23263,7 +23263,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thành phố đổ nát ở tây bắc tỉnh Rawalpindi, Pakistan, đã từng là một trung tâm thương mại, văn hóa và nơi hành hương quan trọng trong hơn 1.000 năm. Thế kỷ thứ 5 trước công nguyên, nơi này là thủ đô của vương quốc Gandhara. Nó rơi vào tay Alexander Ðại đế vào năm 326 trước công nguyên và chẳng bao lâu sau đó, nó sát nhập vào đế chế Mauryan, trở thành trung tâm Phật giáo. Quân đội các nước Bactria, Scythia, Parthia, Kusha, và Sassania lần lượt xâm chiếm và thôn tính thành phố này. Nó chỉ mới bình yên được một thời gian ngắn thì bị phá hủy do mọi rợ Hung xâm lược vào thế kỷ thứ 5 và không bao giờ được khôi phục lại."
+        "t": "Một thành phố đổ nát ở tây bắc tỉnh Rawalpindi, Pakistan, đã từng là một trung tâm thương mại, văn hóa và nơi hành hương quan trọng trong hơn 1.000 năm. Thế kỷ thứ 5 trước công nguyên, nơi này là thủ đô của vương quốc Gandhara. Nó rơi vào tay Alexander Đại đế vào năm 326 trước công nguyên và chẳng bao lâu sau đó, nó sát nhập vào đế chế Mauryan, trở thành trung tâm Phật giáo. Quân đội các nước Bactria, Scythia, Parthia, Kusha, và Sassania lần lượt xâm chiếm và thôn tính thành phố này. Nó chỉ mới bình yên được một thời gian ngắn thì bị phá hủy do mọi rợ Hung xâm lược vào thế kỷ thứ 5 và không bao giờ được khôi phục lại."
       }
     ],
     "k": "taxila"

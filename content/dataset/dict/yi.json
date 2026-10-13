@@ -20,7 +20,7 @@
     "h": "yiddish",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "tiếng Ðức cổ của người Do Thái ở Trung và Ðông Âu, tiếng Iđít."}
+      {"k": "m", "t": "tiếng Đức cổ của người Do Thái ở Trung và Đông Âu, tiếng Iđít."}
     ],
     "ipa": "'jidiʃ",
     "k": "yiddish"
@@ -162,7 +162,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đường cong trên đồ thị biểu diễn lợi nhuận của cổ phần lãi suất cố định đối với thời gian cổ phiếu phát hành. Ðường biểu diễn thường đi lên chứng tỏ nhà đầu tư kỳ vọng có được tiền lời do giữ được cổ phần ổn định giá trị trong thời gian dài. Tuy nhiên khi có dự đoán về thay đổi mức lãi suất thì đường biểu diễn này có thể thay đổi."
+        "t": "đường cong trên đồ thị biểu diễn lợi nhuận của cổ phần lãi suất cố định đối với thời gian cổ phiếu phát hành. Đường biểu diễn thường đi lên chứng tỏ nhà đầu tư kỳ vọng có được tiền lời do giữ được cổ phần ổn định giá trị trong thời gian dài. Tuy nhiên khi có dự đoán về thay đổi mức lãi suất thì đường biểu diễn này có thể thay đổi."
       }
     ],
     "k": "yield curve"

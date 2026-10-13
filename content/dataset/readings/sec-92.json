@@ -70,7 +70,7 @@
       ["Thúy, cháu giúp bà vặn âm lượng to lên có được không?"],
       ["Vâng ạ."],
       [
-        "Ðây là dự báo thời tiết cho ngày mai.",
+        "Đây là dự báo thời tiết cho ngày mai.",
         "Hà Nội và các khu vực phía bắc có nắng.",
         "Nhiệt độ ở Hà Nội từ 23inC đến 27inC.",
         "Vùng bờ biển Thanh Hóa có mưa.",
@@ -116,7 +116,7 @@
     ],
     "vi": [
       ["Thực hành bài đối thoại theo từng nhóm ba người."],
-      ["Ðiền vào chỗ trống một từ hoặc cụm từ trong mẩu đối thoại."],
+      ["Điền vào chỗ trống một từ hoặc cụm từ trong mẩu đối thoại."],
       [
         "Bà của Thúy muốn cô ấy vặn âm lượng tivi to lên",
         "vì bà muốn nghe chương trình dự báo thời tiết."
@@ -160,7 +160,7 @@
       ["Mua nến"],
       ["Mua diêm quẹt"],
       ["Thuê một vài cuốn băng video"],
-      ["Ðổ đầy nước vào tất cả các thùng"],
+      ["Đổ đầy nước vào tất cả các thùng"],
       ["Mua thang"],
       ["Giặt chăn của bạn"],
       ["Trám chỗ dột trên mái nhà"],
@@ -211,7 +211,7 @@
       ["Tôi nghĩ chúng ta nên mua một ít thực phẩm đóng hộp trước khi có bão."],
       ["Tôi đồng ý.", "Chợ sẽ bị đóng cửa và sẽ không có thức ăn."],
       ["Tôi nghĩ chúng ta nên mua một cái thang."],
-      ["Ðể làm gì?"],
+      ["Để làm gì?"],
       ["Phòng khi chúng ta phải sửa mái nhà.", "Vì chắc chắn sẽ có gió mạnh."]
     ],
     "img": "img/readings/1.9.76b.webp",
@@ -262,31 +262,31 @@
       ],
       [
         "Nếu bạn sống ở vùng có động đất, bạn nên dành thời gian để xem quanh ngôi nhà của bạn.",
-        "Ðặt những cuốn sách nặng ờ kệ sách phía dưới cùng.",
+        "Đặt những cuốn sách nặng ờ kệ sách phía dưới cùng.",
         "Cố định những trục lăn ở tủ lạnh và máy giặt để ngăn chúng khỏi dịch chuyển.",
-        "Ðặt những cây cảnh treo ở chậu trong những thùng nhựa.",
+        "Đặt những cây cảnh treo ở chậu trong những thùng nhựa.",
         "Kiểm tra các kính trong phòng tắm và phòng ngủ.",
-        "Ðảm bảo chúng không thể di chuyển.",
-        "Ðừng đặt giường ngủ cạnh cửa sổ."
+        "Đảm bảo chúng không thể di chuyển.",
+        "Đừng đặt giường ngủ cạnh cửa sổ."
       ],
       [
         "Lên kế hoạch bạn sẽ đi đâu lúc động đất xảy ra rất quan trọng.",
-        "Ðiều đầu tiên phải nhớ là ở trong nhà.",
+        "Điều đầu tiên phải nhớ là ở trong nhà.",
         "Sau đó bạn nên ngồi dưới một cái bàn hoặc cửa lớn,",
         "hoặc đứng trong góc phòng."
       ],
       ["Trả lời:"],
       ["Sống chung với động đất"],
       ["Những vật cố định, đồ đạc và các thiết bị:"],
-      ["Ðặt những cuốn sách nặng ở ngăn dưới cùng của kệ sách."],
+      ["Đặt những cuốn sách nặng ở ngăn dưới cùng của kệ sách."],
       ["Cố định những trục lăn của tủ lạnh và máy giặt"],
       ["Những loại thủy tinh có thể bị rơi"],
       ["Kiểm tra các kính"],
-      ["Ðừng kê giường cạnh cửa sổ"],
+      ["Đừng kê giường cạnh cửa sổ"],
       ["Luyện tập khi có động đất"],
       ["ở trong nhà"],
       ["ngồi dưới gầm bàn chắc hoặc khung cửa"],
-      ["Ðứng trong góc phòng"]
+      ["Đứng trong góc phòng"]
     ],
     "img": "img/readings/1.9.77a.webp",
     "page": "77"
@@ -332,9 +332,9 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
-        "Ðộng đất:",
+        "Động đất:",
         "90% các trận động đất xảy ra quanh vùng lòng chảo Thái Bình Dương, nơi được xem là \"vòng đai lửa\".",
         "Năm 1995, một trận động đất mạnh đã xảy ra ở thành phố Kobe, Nhật bản.",
         "Nhiều người đã thiệt mạng khi nhà cửa, cao ốc văn phòng và xa lộ sập xuống."
@@ -357,7 +357,7 @@
         "Núi lửa:",
         "Chúng ta thường có thể dự đoán được khi nào núi lửa sẽ phun.",
         "Ngọn Pinatubo, một ngọn núi lửa ở Philippin, đã phun trào vào năm 1991.",
-        "Ðó là trận phun trào núi lửa lớn nhất thế giới trong hơn 50 năm qua.",
+        "Đó là trận phun trào núi lửa lớn nhất thế giới trong hơn 50 năm qua.",
         "Hàng trăm người đã chết, nhưng hàng ngàn người được cứu sống",
         "nhờ các nhà khoa học đã cảnh báo trước về trận phun trào này."
       ],
@@ -386,7 +386,7 @@
       ["6. A tornado looks like a funnel."]
     ],
     "vi": [
-      ["Ðúng hay sai?", "Ðánh dấu (V) vào các ô."],
+      ["Đúng hay sai?", "Đánh dấu (V) vào các ô."],
       ["Phần lớn các trận động đất trên thế giới xảy ra ở vùng Vòng đai lửa.(T)"],
       ["Trận động đất ở Kobe năm 1995 đã gây thiệt hại nghiêm trọng.(T)"],
       [
@@ -470,17 +470,17 @@
       ],
       ["Ví dụ:"],
       [
-        "Ðó là một ngày đẹp trời.",
+        "Đó là một ngày đẹp trời.",
         "Mặt trời chiếu sảng và bầu trời xanh.",
         "Lan đang ở bên ngoài nhà chơi cùng với con chó Skippy của cô.",
-        "Ðột nhiên, chú chó bắt đầu có những hành động lạ.",
+        "Đột nhiên, chú chó bắt đầu có những hành động lạ.",
         "Nó cứ chạy theo vòng tròn và dường như không là nó nữa.",
         "Ngay lập tức Lan chạy về nhà cùng chú chó để báo cho mẹ cô ấy biết Skippy đã làm gì.",
         "Mẹ Lan, bà Quyên nói với Lan rằng bà ấy nghe trên tivi là sẽ có bão sắp đến.",
         "Sau đó, bà tập trung các thành viên trong gia đình lại và bảo họ tìm nơi trú ẩn trong nhà."
       ],
       [
-        "Ðột nhiên, bầu trời tối sầm lại, bão đến cùng với những cơn gió mạnh và mưa lớn.",
+        "Đột nhiên, bầu trời tối sầm lại, bão đến cùng với những cơn gió mạnh và mưa lớn.",
         "Mọi người sợ hãi, nhưng may mắn thay, bão tan nhanh và mọi người đều vui mừng.",
         "Skippy thật là một chú chó thông minh!",
         "Nó đã cứu Lan khỏi kẹt trong cơn bão."
@@ -533,7 +533,7 @@
       ["Ví dụ:"],
       ["Thành phố nào ở Nhật Bản bị trận động đất lớn tàn phá vào năm 1995?"],
       ["Thành phố bị trận động đắt lớn tàn phá vào năm 1995 ở Nhật Bản là Kobe."],
-      ["Ðất nước nào đoạt cúp Tiger 1998?"],
+      ["Đất nước nào đoạt cúp Tiger 1998?"],
       ["Nước đoạt cúp Tiger 1998 là Singapore."],
       ["Con vật nào có một hoặc hai sừng trên mũi?"],
       ["Con vật có một hoặc hai sừng trên mũi là con tê giác."],
@@ -543,8 +543,8 @@
       ["Hành tinh gần Trái đất nhất là sao Kim."],
       ["Con vật nào ở Việt Nam được chọn là biểu tượng của SEA Games 2003?"],
       ["Con vật ở Việt Nam được chọn là biểu tượng của SEA Games 2003 là con trâu."],
-      ["Ðất nước nào thuộc hiệp hội các nước đông Nam á bị biển chia làm hai phần?"],
-      ["Ðất nước thuộc hiệp hội các nước đông Nam á bị biển chia làm hai phần là Malaysia."],
+      ["Đất nước nào thuộc hiệp hội các nước đông Nam á bị biển chia làm hai phần?"],
+      ["Đất nước thuộc hiệp hội các nước đông Nam á bị biển chia làm hai phần là Malaysia."],
       [
         "Loại thức ăn nào bạn có thể nhai nhưng không thề nuốt",
         "và thứ nào bạn có thể nuốt nhưng không thể nhai?"

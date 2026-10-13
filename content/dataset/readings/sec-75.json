@@ -87,9 +87,9 @@
         "Giữ thật chặt."
       ],
       ["Cô làm ơn nhanh lên nhé?"],
-      ["Tất nhiên", "Ðịa chỉ của trường em?"],
-      ["Ðường Ngô Sĩ Liên.", "Nó ở giữa đường Quang Trung và đường Trần Hưng đạo."],
-      ["Khoảng 10 phút nữa xe cứu thương sẽ đến đó.", "Ðừng để bạn ấy thiếp đi nhé."],
+      ["Tất nhiên", "Địa chỉ của trường em?"],
+      ["Đường Ngô Sĩ Liên.", "Nó ở giữa đường Quang Trung và đường Trần Hưng đạo."],
+      ["Khoảng 10 phút nữa xe cứu thương sẽ đến đó.", "Đừng để bạn ấy thiếp đi nhé."],
       ["Vâng ạ.", "Em hứa là em sẽ giữ bạn ấy tỉnh."]
     ],
     "img": "img/readings/1.8.80b.webp",
@@ -163,13 +163,13 @@
       ],
       ["Trong tranh, một cô bé bị cắt vào ngón tay."],
       ["Cha có thể lấy giúp con cuộn băng được không?"],
-      ["Ðược chứ. Băng đây."],
+      ["Được chứ. Băng đây."],
       ["Trong tranh,, một cậu bé ôm đầu", "có lẽ cậu ấy bị nhức đầu."],
       ["Chị lấy thuốc cho em nhé?"],
       ["Vâng, em xin chị."],
       ["Trong tranh, một cậu bé bị rắn cắn."],
       ["Xin bạn vui lòng đưa tôi đến phòng khám gần nhất được không?"],
-      ["Ðược. Chúng ta đi."],
+      ["Được. Chúng ta đi."],
       ["Trong tranh, một phụ nữ trông mệt mỏi", "có lẽ cô ấy bị sốt"],
       ["Mẹ uống một viên aspirin nhé?"],
       ["Không. Mẹ sẽ đi bác sĩ."],
@@ -179,7 +179,7 @@
         "có lẽ cậu vừa làm bể cái lọ hoa."
       ],
       ["Con hứa với mẹ là con sẽ không chơi banh trong nhà nữa."],
-      ["Ðừng quên đấy."]
+      ["Đừng quên đấy."]
     ],
     "img": "img/readings/1.8.81b.webp",
     "page": "81"
@@ -223,11 +223,11 @@
         "sau đó xếp chúng theo đúng trình tự mà bạn nghe."
       ],
       [
-        "Ðây là phòng cấp cứu trong một bệnh viện lớn.",
+        "Đây là phòng cấp cứu trong một bệnh viện lớn.",
         "Một nhân viên y tế đang đẩy một bệnh nhân vào phòng cấp cứu",
         "nơi đó, một bác sĩ đang đợi điều trị bệnh nhân này.",
         "Bệnh nhân trông không khỏe.",
-        "Ðầu anh ta băng bó còn mắt thì nhắm lại."
+        "Đầu anh ta băng bó còn mắt thì nhắm lại."
       ],
       [
         "Một cô y tá đang đẩy chiếc xe lăn trống về phía lối ra.",
@@ -274,21 +274,21 @@
       ["- Cover the burned area with a thick sterile dressing."]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       ["Trường hợp"],
       ["Sơ cứu"],
       ["Ngất xỉu"],
-      ["Ðể bệnh nhân nằm thẳng."],
-      ["Ðừng bắt anh ta/ cô ta ngồi hoặc đứng."],
+      ["Để bệnh nhân nằm thẳng."],
+      ["Đừng bắt anh ta/ cô ta ngồi hoặc đứng."],
       ["Nâng chân bệnh nhân lên, hoặc hạ đầu anh ta/ cô ta xuống thấp hơn ngực."],
-      ["Ðừng để nạn nhân bị lạnh."],
+      ["Đừng để nạn nhân bị lạnh."],
       ["Cho nạn nhân một tách trà khi anh ta/ cô ta tỉnh lại."],
       ["Choáng"],
-      ["Ðừng dùng mền hay áo khoác làm nạn nhân quá nóng.", "Ðừng cho nạn nhân ăn hoặc uống."],
-      ["Ðừng cho nạn nhân uống thuốc hoặc rượu."],
+      ["Đừng dùng mền hay áo khoác làm nạn nhân quá nóng.", "Đừng cho nạn nhân ăn hoặc uống."],
+      ["Đừng cho nạn nhân uống thuốc hoặc rượu."],
       ["Các vết bỏng"],
       ["Làm lạnh các vết bỏng ngay để giảm thiểu sự tổn thương mô."],
-      ["Ðặt vùng bị bỏng dưới một vòi nước lạnh đang chảy (nếu có thể )."],
+      ["Đặt vùng bị bỏng dưới một vòi nước lạnh đang chảy (nếu có thể )."],
       ["Làm dịu cơn đau bằng túi nước đá hoặc nước lạnh."],
       ["Dùng băng vô trùng dày băng vùng bị bỏng."]
     ],
@@ -586,15 +586,15 @@
     "vi": [
       [
         "Hãy cùng với một bạn Nhìn vào tranh này.",
-        "Ðưa ra những lời yêu cầu, đề nghị hoặc lời hứa.",
+        "Đưa ra những lời yêu cầu, đề nghị hoặc lời hứa.",
         "Dùng các từ trong khung và will hoặc shall."
       ],
       ["Xin bạn đổ hộ thùng rác nhé?", "Tôi sẽ làm ngay bây giờ."],
-      ["Xin bạn sơn cánh cửa nhé?", "Ðược. Ngày mai tôi sẽ sơn nó."],
+      ["Xin bạn sơn cánh cửa nhé?", "Được. Ngày mai tôi sẽ sơn nó."],
       ["Xin bạn hãy học chăm chỉ hơn nhé?", "Tôi hứa sẽ làm hết sức."],
       ["Tôi mang cái giả này nhé?", "Vâng."],
-      ["Xin bạn phơi đồ nhé?", "Ðể tôi phơi đồ cho bạn nhé?"],
-      ["Xin bạn làm ơn cắt cỏ?", "Ðược rồi.", "Tôi sẽ làm giúp cho."]
+      ["Xin bạn phơi đồ nhé?", "Để tôi phơi đồ cho bạn nhé?"],
+      ["Xin bạn làm ơn cắt cỏ?", "Được rồi.", "Tôi sẽ làm giúp cho."]
     ],
     "img": "img/readings/1.8.88a.webp",
     "page": "88"

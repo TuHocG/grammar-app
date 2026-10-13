@@ -86,7 +86,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phép toán n-nguyên. Phép toán n-nguyên xác định trên tập M là một ánh xạ ( từ tập tích Ðềcác Mn của ậtp M vào tập M: (: Mn ( M. Với n = 1, 2, 3 phép toán gọi là đơn nguyên, nhị nguyên và tam nguyên (hoặc là phép toán 1 ngọi, 2 ngôi, 3 ngôi). Các phép tính cộng và nhân thông thường là các phép toán hai ngôi. Phép toán \"lấy số đối\": (: a (-a là một phép toán đơn nguyên. Như vậy một phép toán n-nguyên là một quan hệ (n +1) nguyên."
+        "t": "phép toán n-nguyên. Phép toán n-nguyên xác định trên tập M là một ánh xạ ( từ tập tích Đềcác Mn của ậtp M vào tập M: (: Mn ( M. Với n = 1, 2, 3 phép toán gọi là đơn nguyên, nhị nguyên và tam nguyên (hoặc là phép toán 1 ngọi, 2 ngôi, 3 ngôi). Các phép tính cộng và nhân thông thường là các phép toán hai ngôi. Phép toán \"lấy số đối\": (: a (-a là một phép toán đơn nguyên. Như vậy một phép toán n-nguyên là một quan hệ (n +1) nguyên."
       }
     ],
     "k": "n-ary operation"

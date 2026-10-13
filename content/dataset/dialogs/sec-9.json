@@ -19,7 +19,7 @@
         "a": "I'm quite good as a hairdresser.",
         "b": "Don't use a hair spray.",
         "avi": "Tôi khá giỏi về uốn tóc.",
-        "bvi": "Ðừng sử dụng keo xịt tóc."
+        "bvi": "Đừng sử dụng keo xịt tóc."
       },
       {
         "a": "What a wonderful business you have.",
@@ -43,19 +43,19 @@
         "a": "Would you like to try gel?",
         "b": "All right, but little, please.",
         "avi": "Bạn có muốn dùng thử keo xịt tóc không?",
-        "bvi": "Ðược, nhưng ít thôi."
+        "bvi": "Được, nhưng ít thôi."
       },
       {
         "a": "All right, but little, please.",
         "b": "I'm ready for you.",
-        "avi": "Ðược, nhưng ít thôi.",
+        "avi": "Được, nhưng ít thôi.",
         "bvi": "Tôi đã sẵn sàng giúp ông."
       },
       {
         "a": "Next, please!",
         "b": "Is it my turn?",
         "avi": "Xin mời người kế tiếp.",
-        "bvi": "Ðến lượt tôi chưa?"
+        "bvi": "Đến lượt tôi chưa?"
       }
     ]
   },
@@ -85,7 +85,7 @@
         "a": "Am I expecting somebody else?",
         "b": "It's your turn, sir.",
         "avi": "Tôi còn phải đợi ai nữa à?",
-        "bvi": "Ðến lượt ông rồi, thưa ông."
+        "bvi": "Đến lượt ông rồi, thưa ông."
       }
     ]
   },
@@ -175,7 +175,7 @@
         "a": "I'll leave the shampoo for you.",
         "b": "All right, miss.",
         "avi": "Tôi để dầu gội đầu lại cho anh đấy.",
-        "bvi": "Ðược rồi, thưa cô."
+        "bvi": "Được rồi, thưa cô."
       }
     ]
   },
@@ -187,7 +187,7 @@
         "a": "An ordinary one will do.",
         "b": "Will that be alright?",
         "avi": "Loại bình thường được rồi.",
-        "bvi": "Ðược chưa ạ?"
+        "bvi": "Được chưa ạ?"
       },
       {
         "a": "Maybe you should use an electric shaver.",
@@ -283,7 +283,7 @@
         "a": "I'd like to see!",
         "b": "Here's a mirror.",
         "avi": "Cho tôi xem nào!",
-        "bvi": "Ðây là gương soi."
+        "bvi": "Đây là gương soi."
       },
       {
         "a": "That will do now.",
@@ -348,7 +348,7 @@
       {
         "a": "Don't cut my hair too short at the top.",
         "b": "I want my hair cut short.",
-        "avi": "Ðừng hớt quá ngắn trên đỉnh đầu.",
+        "avi": "Đừng hớt quá ngắn trên đỉnh đầu.",
         "bvi": "Tôi muốn tóc cắt ngắn."
       },
       {
@@ -372,13 +372,13 @@
       {
         "a": "Now wait your turn and I'll make you pretty.",
         "b": "I want a manicure.",
-        "avi": "Ðợi đến lượt cô đã rồi tôi sẽ làm đẹp cho.",
+        "avi": "Đợi đến lượt cô đã rồi tôi sẽ làm đẹp cho.",
         "bvi": "Tôi muốn làm móng tay."
       },
       {
         "a": "Beautiful. I wish mine would do that.",
         "b": "You ought to have your hair dyed.",
-        "avi": "Ðẹp quá, ước gì tóc tôi cũng vậy.",
+        "avi": "Đẹp quá, ước gì tóc tôi cũng vậy.",
         "bvi": "Bà nên nhuộm tóc."
       },
       {
@@ -456,7 +456,7 @@
       {
         "a": "It's skin cream.",
         "b": "What skin cream do you recommend?",
-        "avi": "Ðó là kem dưỡng da.",
+        "avi": "Đó là kem dưỡng da.",
         "bvi": "Cô giới thiệu tôi kem dưỡng da nào?"
       },
       {
@@ -504,7 +504,7 @@
       {
         "a": "Here is the barber's shop.",
         "b": "I want to have my hair cut.",
-        "avi": "Ðây là tiệm hớt tóc.",
+        "avi": "Đây là tiệm hớt tóc.",
         "bvi": "Xin hớt tóc cho tôi."
       }
     ]
@@ -516,7 +516,7 @@
       {
         "a": "Get a haircut!",
         "b": "I want to go to an air-conditioned barber's.",
-        "avi": "Ði hớt tóc đi!",
+        "avi": "Đi hớt tóc đi!",
         "bvi": "Tôi muốn đến tiệm hớt tóc có gắn máy lạnh."
       },
       {
@@ -606,14 +606,14 @@
       {
         "a": "Don't cut them too short.",
         "b": "Call the manicurist, please.",
-        "avi": "Ðừng cắt móng tay quá ngắn nhé.",
+        "avi": "Đừng cắt móng tay quá ngắn nhé.",
         "bvi": "Làm ơn gọi giùm thợ làm móng."
       },
       {
         "a": "Call the manicurist, please.",
         "b": "Don't cut them too short.",
         "avi": "Làm ơn gọi giùm thợ làm móng.",
-        "bvi": "Ðừng cắt móng tay quá ngắn nhé."
+        "bvi": "Đừng cắt móng tay quá ngắn nhé."
       },
       {
         "a": "Is my hair okay?",
@@ -642,14 +642,14 @@
       {
         "a": "Don't use the good towels, they're only for guests.",
         "b": "I have just bought a Turkish towel.",
-        "avi": "Ðừng dùng khăn tắm xịn nhé, cái đó chỉ để cho khách thôi.",
+        "avi": "Đừng dùng khăn tắm xịn nhé, cái đó chỉ để cho khách thôi.",
         "bvi": "Tôi mới mua một cái khăn lông."
       },
       {
         "a": "I still have the hairbrush.",
         "b": "It is just a metal comb.",
         "avi": "Tôi vẫn giữ cái lược chải tóc.",
-        "bvi": "Ðó chỉ là cái lược kim loại."
+        "bvi": "Đó chỉ là cái lược kim loại."
       },
       {
         "a": "Molars are the toughest of the bunch.",
@@ -708,7 +708,7 @@
       {
         "a": "Is it my turn?",
         "b": "Please wait one minute.",
-        "avi": "Ðến lượt tôi chưa?",
+        "avi": "Đến lượt tôi chưa?",
         "bvi": "Xin đợi một phút."
       },
       {

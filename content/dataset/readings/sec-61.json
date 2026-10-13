@@ -49,22 +49,22 @@
       ["Cháu không thích thịt heo."],
       ["Thím cũng không thích.", "Vậy thì cháu có thể mua thịt bò hoặc thịt gà."],
       ["Chúng ta hãy mua một ít thịt bò đi."],
-      ["Ðồng ý."],
+      ["Đồng ý."],
       ["Kế đó, họ đến quầy rau.", "Có nhiều loại rau được bày ra để lựa chọn."],
       ["Thím này, chúng ta cũng cần một ít rau cho bữa tối đấy."],
       ["Cháu thích gì?"],
       ["Cháu thích đậu và cháu cũng thích cà rốt."],
       ["Nhưng Hoa này, thím ghét cà rốt.", "Và thím cũng không thích đậu."],
       ["Vậy cải bó xôi và dưa leo thì sao ạ?", "Cháu thích chúng."],
-      ["Thím cũng vậy.", "Ðó là loại rau củ ưa thích nhất của thím đấy."],
-      ["Ðược rồi. Chúng ta hãy mua những thứ đó đi."],
+      ["Thím cũng vậy.", "Đó là loại rau củ ưa thích nhất của thím đấy."],
+      ["Được rồi. Chúng ta hãy mua những thứ đó đi."],
       ["Cuối cùng, Hoa và thím cô ấy dừng lại tại quầy hoa quả."],
       ["Thím này, chúng ta cần một ít trái cây."],
       ["Chúng ta sẽ mua gì?"],
       ["Chúng ta hãy mua một quả đu đủ và một quả dứa."],
       ["Chúng chưa chín.", "Cả những quả chuối cũng chưa chín."],
       ["Vậy thì chúng ta mua cam đi."],
-      ["Ðược. Cháu có ngửi được mùi sầu riêng không?", "Thím không thích sầu riêng."],
+      ["Được. Cháu có ngửi được mùi sầu riêng không?", "Thím không thích sầu riêng."],
       ["Cháu cũng không.", "Cháu ghét sầu riêng."],
       ["Bây giờ hãy trả lời."],
       ["Hoa và thím của cô ấy đã mua những gì ở chợ?"],
@@ -126,7 +126,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc", "Sau đó trả lời các câu hỏi."],
+      ["Đọc", "Sau đó trả lời các câu hỏi."],
       [
         "Chiều hôm đó, thím của Hoa nấu bữa tối.",
         "Trước tiên, bà thái mỏng thịt bò.",
@@ -176,7 +176,7 @@
       ["Cải bó xôi luộc"],
       ["Món dưa leo trộn hành tây."],
       [
-        "Ðây là công thức nấu ăn mà thím của Hoa đã sử dụng.",
+        "Đây là công thức nấu ăn mà thím của Hoa đã sử dụng.",
         "Thêm vào những động từ còn thiếu.",
         "Sau đó ghép những chỉ dẫn với các bức tranh."
       ],
@@ -257,7 +257,7 @@
       ["Nó tốt cho tôi."],
       ["Tôi không chiên ngập dầu"],
       ["Tôi dùng một ít dầu."],
-      ["Ðể thức ăn bổ dưỡng,"],
+      ["Để thức ăn bổ dưỡng,"],
       ["Tôi hấp hoặc luộc."],
       ["Một bữa ăn cân đối"],
       ["là có một ít thịt,"],
@@ -265,7 +265,7 @@
       ["Kem là món thết đãi."],
       ["Ghi nhớ"],
       ["Thì quá khứ đơn"],
-      ["Ðộng từ qui tắc"],
+      ["Động từ qui tắc"],
       ["stir-fry thêm ed thành stir-fried"],
       ["Tôi muốn một ít đậu."],
       ["Tôi cũng muốn một ít cà rốt nữa."],
@@ -390,7 +390,7 @@
         "Chúng ta biết rằng thức ăn mà chúng ta ăn ảnh hưởng đến cả cuộc đời của chúng ta.",
         "Chẳng hạn, đường có trong nhiều loại thức ăn.",
         "Nó tăng thêm mùi vị cho thức ăn.",
-        "Ðường không phải là một loại thức ăn không bổ dưỡng.",
+        "Đường không phải là một loại thức ăn không bổ dưỡng.",
         "Chúng ta cần đường để sống.",
         "Với số lượng vừa phải, đường tốt cho bạn.",
         "Nó cung cấp năng lượng cho bạn và bạn cảm thấy bớt đói bụng."
@@ -408,8 +408,8 @@
         "Có nghĩa là bạn ăn nhiều loại thức ăn mà không ăn quá nhiều một loại nào.",
         "Sự điều độ rất quan trọng.",
         "Hãy ăn những thức ăn mà bạn thích, nhưng đừng ăn quá nhiều.",
-        "Ðiều này sẽ giúp bạn rắn chắc và khỏe mạnh.",
-        "Ðừng quên tập thể dục nữa!",
+        "Điều này sẽ giúp bạn rắn chắc và khỏe mạnh.",
+        "Đừng quên tập thể dục nữa!",
         "Tất cả chúng ta đều cần phải tập thể dục.",
         "Hãy theo những hướng dẫn này và thưởng thức thức ăn mà bạn ăn",
         "đó chính là bí quyết để có một nếp sống khỏe mạnh."
@@ -443,7 +443,7 @@
     "vi": [
       ["Câu hỏi"],
       ["Hãy kể tên hai lợi ích của việc ăn đường."],
-      ["Ðường tăng thêm mùi vị cho thức ăn và cung cấp năng lượng cho bạn."],
+      ["Đường tăng thêm mùi vị cho thức ăn và cung cấp năng lượng cho bạn."],
       [
         "Có phải chỉ một chế độ ăn cân đối là đủ để có một nếp sống khỏe mạnh không?",
         "Tại sao phải?",
@@ -687,7 +687,7 @@
       ["e) too much coffee"]
     ],
     "vi": [
-      ["Ðịnh lượng"],
+      ["Định lượng"],
       ["Hãy miêu tả đúng."],
       ["Một ít cà phê"],
       ["nhiều trà"],
@@ -767,7 +767,7 @@
     ],
     "vi": [
       ["too và either"],
-      ["Làm việc với một bạn.", "Ðọc mẩu đối thoại"],
+      ["Làm việc với một bạn.", "Đọc mẩu đối thoại"],
       ["Tôi thích xoài"],
       ["Tôi cũng thích xoài."],
       ["Tôi không thích chuối."],
@@ -867,7 +867,7 @@
       ["Trộn các lát đã xắt."],
       ["Cho một ít muối, đường và giấm vào hỗn hợp."],
       ["Trộn đều hỗn hợp."],
-      ["Ðợi 5 phút là dùng được món trộn này."]
+      ["Đợi 5 phút là dùng được món trộn này."]
     ],
     "img": "img/readings/1.7.127b.webp",
     "page": "127"

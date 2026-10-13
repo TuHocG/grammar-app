@@ -17,10 +17,10 @@
       ["- taking part in sports"]
     ],
     "vi": [
-      ["Ðội thiếu niên tiền phong"],
+      ["Đội thiếu niên tiền phong"],
       [
         "Hãy nhận biết các hoạt động mà đoàn thanh niên và đội thiếu niên tiền phong Hồ Chí Minh tham gia.",
-        "Ðánh dấu (V) vào các ô, rồi thêm một số hoạt động nữa vào danh sách của bạn."
+        "Đánh dấu (V) vào các ô, rồi thêm một số hoạt động nữa vào danh sách của bạn."
       ],
       ["giúp đỡ người mù"],
       ["giúp đỡ người già"],
@@ -62,7 +62,7 @@
       ["Nghe và đọc"],
       ["Xin chào.", "Cô có thể giúp gì cho em không?"],
       ["Chào cô.", "Em muốn ghi danh vào các hoạt động trong mùa hè này."],
-      ["Ðược", "Ðể cô lấy mẫu đơn rồi chúng ta điền vào đó.", "Xin cho biết họ tên của em là gì?"],
+      ["Được", "Để cô lấy mẫu đơn rồi chúng ta điền vào đó.", "Xin cho biết họ tên của em là gì?"],
       ["Phạm Mai Nga."],
       ["Và ngày, tháng, năm sinh?"],
       ["Ngày 22 tháng Tư năm 1989."],
@@ -98,7 +98,7 @@
       ["Hãy hoàn tất các chi tiết về Nga."],
       ["Tên", "Phạm Mai Nga"],
       ["Ngày sinh:", "22 tháng 4 năm 1989"],
-      ["Ðịa chỉ:", "Số 5 Trần Phú"],
+      ["Địa chỉ:", "Số 5 Trần Phú"],
       ["Giới tính:", "Nữ"],
       ["Số điện thoại:", "không có"],
       ["Sở thích:", "Vẽ, đóng kịch và các hoạt động ngoài trời."]
@@ -160,7 +160,7 @@
       ["Tôi cần được giúp đỡ."],
       ["Bạn có thể ...?"],
       ["Bạn có thể ...?"],
-      ["Ðáp lại yêu cầu giúp đỡ"],
+      ["Đáp lại yêu cầu giúp đỡ"],
       ["Tất nhiên"],
       ["Dĩ nhiên"],
       ["Có chứ"],
@@ -168,11 +168,11 @@
       ["Tôi có thể làm được gì cho bạn?"],
       ["Tôi có thể giúp được gì?"],
       ["Tôi xin lỗi. Tôi thật sự bận rộn."],
-      ["Ðề nghị giúp đỡ"],
+      ["Đề nghị giúp đỡ"],
       ["Tôi có thể giúp bạn không?"],
       ["Bạn có cần giúp gì không?"],
-      ["Ðể tôi giúp bạn nhé."],
-      ["Ðáp lại sự giúp đỡ"],
+      ["Để tôi giúp bạn nhé."],
+      ["Đáp lại sự giúp đỡ"],
       ["Vâng Cám ơn bạn."],
       ["Không. Cám ơn bạn."],
       ["Vâng. Bạn thật tử tế."],
@@ -234,7 +234,7 @@
       ["Vâng", "Em chỉ giúp tôi đường đến đồn công an được không?", "Tôi bị mất tiền."],
       [
         "Tất nhiên là được.",
-        "Ði thẳng.",
+        "Đi thẳng.",
         "Rẽ trái tại cột đèn giao thông thứ hai.",
         "Nó ở bên phải."
       ],
@@ -325,20 +325,20 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
-        "Ðoàn thanh niên cộng sản Hồ chí Minh là một tổ chức cho thanh niên Việt Nam từ 15-30 tuổi.",
-        "Ðoàn này xây dựng nhân cách tốt, yêu quê hương, khuyến khích trở thành công dân tốt, kỹ năng mềm và phẩm chất tốt."
+        "Đoàn thanh niên cộng sản Hồ chí Minh là một tổ chức cho thanh niên Việt Nam từ 15-30 tuổi.",
+        "Đoàn này xây dựng nhân cách tốt, yêu quê hương, khuyến khích trở thành công dân tốt, kỹ năng mềm và phẩm chất tốt."
       ],
       [
-        "Ðoàn được thành lập vào ngày 26 tháng 3 năm 1931 bởi Chủ tịch Hồ Chí Minh kính yêu.",
+        "Đoàn được thành lập vào ngày 26 tháng 3 năm 1931 bởi Chủ tịch Hồ Chí Minh kính yêu.",
         "Trải qua nhiều năm, nó có nhiều tên khác nhau.",
-        "Một trong những tên đầu tiên của nó là \"Ðoàn thanh niên Cộng sản Việt Nam\"",
-        "Tháng 12 năm 1976, nó chính thức mang tên gọi như ngày nay: \"Ðoàn thanh niên Cộng sản Hồ Chí Minh\".",
-        "Tuy nhiên, người ta thường dùng tên \"Ðoàn thanh niên\" cho gọn."
+        "Một trong những tên đầu tiên của nó là \"Đoàn thanh niên Cộng sản Việt Nam\"",
+        "Tháng 12 năm 1976, nó chính thức mang tên gọi như ngày nay: \"Đoàn thanh niên Cộng sản Hồ Chí Minh\".",
+        "Tuy nhiên, người ta thường dùng tên \"Đoàn thanh niên\" cho gọn."
       ],
       [
-        "Ðoàn này cùng với những đoàn thể thanh niên khác như là:",
+        "Đoàn này cùng với những đoàn thể thanh niên khác như là:",
         "Thanh niên xung phong",
         "Thanh niên Việt Nam",
         "hội sinh viên Việt Nam",
@@ -369,9 +369,9 @@
       ]
     ],
     "vi": [
-      ["Ðiền vào những thông tin còn thiếu"],
-      ["Ðoàn thanh niên được thành lập năm 1931."],
-      ["Tháng 12 năm 1976, \"Ðoàn thanh niên\" là cái tên chính thức được gọi cho đến nay."],
+      ["Điền vào những thông tin còn thiếu"],
+      ["Đoàn thanh niên được thành lập năm 1931."],
+      ["Tháng 12 năm 1976, \"Đoàn thanh niên\" là cái tên chính thức được gọi cho đến nay."],
       [
         "Các hoạt động của đoàn thanh niên nhằm giúp đỡ thanh niên phát triển ý thức cộng đồng và hình thành nhân cách."
       ],
@@ -394,8 +394,8 @@
     ],
     "vi": [
       ["Trả lời", "rồi viết câu trả lời vào vở bài tập"],
-      ["Ðộ tuổi nào có thể gia nhập đoàn thanh niên?"],
-      ["Ðoàn thanh niên được thành lập khi nào?"],
+      ["Độ tuổi nào có thể gia nhập đoàn thanh niên?"],
+      ["Đoàn thanh niên được thành lập khi nào?"],
       ["Tên đầy đủ của đoàn thanh niên là gì?"],
       ["Bạn có thể nêu tên một số đoàn thể của đoàn thanh niên không?"],
       ["Những hoạt động nhằm mục đích giúp đỡ là gì?"],
@@ -430,7 +430,7 @@
       ["Thông báo"],
       ["Gửi đến: Tất cả đoàn viên và đội viên của trường"],
       [
-        "Ðoàn đội đang có kế hoạch giúp đỡ cộng đồng bằng cách khuyến khích mọi thành viên tham gia vào chương trình tái chế.",
+        "Đoàn đội đang có kế hoạch giúp đỡ cộng đồng bằng cách khuyến khích mọi thành viên tham gia vào chương trình tái chế.",
         "Tất cả những gì mà các bạn phải làm là thu lượm đồ thủy tinh, giấy và lon dùng rồi và gửi chúng đi tái chế.",
         "Bằng việc này, chúng ta có thể giúp tiết kiệm tài nguyên thiên nhiên và kiếm một ít tiền cho tổ chức."
       ],
@@ -469,7 +469,7 @@
       ["Linh mến"],
       ["Tôi vui mừng báo cho bạn biết rằng tôi sắp tham gia những hoạt động thú vị."],
       [
-        "Ðoàn mình dự định giúp đỡ cộng đồng.",
+        "Đoàn mình dự định giúp đỡ cộng đồng.",
         "Mình sẽ tham gia chương trình thu lượm ve chai.",
         "Trong chương trình này, chúng mình sẽ thu lượm chai lọ, giấy vụn và lon.",
         "Sau đó bọn mình sẽ gửi chúng đi tái chế."
@@ -778,7 +778,7 @@
       ["Bạn cần giúp gì không?"],
       ["Không. Cảm ơn. Tôi ổn mà."],
       ["ồ cái túi này nặng quá."],
-      ["Ðể tôi giúp bạn."],
+      ["Để tôi giúp bạn."],
       ["Vâng. Bạn tử tế quá."]
     ],
     "img": "img/readings/1.8.62a.webp",

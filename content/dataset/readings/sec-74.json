@@ -43,17 +43,17 @@
       ["Chào Na.", "Bạn vừa di xa về phải không?"],
       ["ừ", "Tôi về quê nghỉ cuối tuần."],
       ["Bạn đã đi đâu vậy?"],
-      ["Tôi đến Kim Liên.", "Ðó là một ngôi làng.", "Một vài người bà con của tôi sống ở đó."],
+      ["Tôi đến Kim Liên.", "Đó là một ngôi làng.", "Một vài người bà con của tôi sống ở đó."],
       ["Tôi nghe nói làng đó rất đẹp."],
       [
-        "Ðúng vậy.",
+        "Đúng vậy.",
         "Nơi đó rất yên tĩnh và thanh bình.",
         "Tôi đã có một kỳ nghỉ cuối tuần thật thú vị",
         "nhưng tôi không muốn sống mãi ở đó."
       ],
       ["Tại sao không?"],
       ["Nó quá bình lặng.", "Chẳng có gì để làm."],
-      ["Ðúng, nhưng ở nông thôn nhiều thứ cũng đang thay đổi."],
+      ["Đúng, nhưng ở nông thôn nhiều thứ cũng đang thay đổi."],
       ["Ví dụ như?"],
       [
         "Nhiều vùng hẻo lánh đã bắt đầu có điện.",
@@ -61,7 +61,7 @@
       ],
       ["Và tivi."],
       [
-        "Ðúng thế.",
+        "Đúng thế.",
         "Tivi không chỉ mang đến thông tin mà còn cả sự giải trí nữa.",
         "Và cơ sở vật chất y tế cũng sử dụng dễ dàng hơn.",
         "Cuộc sống ở tỉnh lẻ rõ ràng đang thay đổi tốt hơn."
@@ -250,7 +250,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Nhiều người ở những vùng nông thôn đang bỏ lại đằng sau lối sống truyền thống của họ và lên thành phố sinh sống.",
         "Họ tin rằng ở thành phố có rất nhiều công việc được trả lương cao."
@@ -262,7 +262,7 @@
       ],
       [
         "Tuy nhiên, sự gia tăng dân số đã dẫn đến tình trạng dân cư quá đông đúc ở nhiều thành phố.",
-        "Ðiều này đã gây sức ép cho trường học và bệnh viện, cũng như các nguồn cung cấp điện nước.",
+        "Điều này đã gây sức ép cho trường học và bệnh viện, cũng như các nguồn cung cấp điện nước.",
         "Một hậu quả khó chịu khác là sự ô nhiễm gia tăng."
       ],
       [
@@ -303,7 +303,7 @@
         "Tuy nhiên, người đổ vào thành phố gây ra vấn đề.",
         "Không đủ trường học và bệnh viện",
         "trong khi có lẽ nguồn cung cấp nước cũng không đủ",
-        "Ðây là vấn đề mà các chính phủ trên thế giới đang phải đối mặt."
+        "Đây là vấn đề mà các chính phủ trên thế giới đang phải đối mặt."
       ]
     ],
     "img": "img/readings/1.8.75b.webp",
@@ -466,13 +466,13 @@
       ["Hãy đọc bài hội thoại."],
       ["Tàu đến đồng Hới sẽ rời cảng lúc 10 giờ 25 phải không?"],
       ["Có phải tàu Lady of the Lake không?"],
-      ["Ðúng vậy."],
+      ["Đúng vậy."],
       ["Tôi rất tiếc, thưa bà, nhưng chuyến đó đã bị hoãn rồi."],
       ["ôi, không!"],
       ["Bây giờ, nó sẽ rời cảng lúc 10 giờ 40."],
       ["Tàu từ Hải Phòng đến sẽ cập bến lúc 10 giờ 30 phải không?"],
       ["Có phải ông đang nói chiếc Bright Sky không?"],
-      ["Ðúng vậy."],
+      ["Đúng vậy."],
       ["Nó sẽ đến đúng giờ, thưa ông."]
     ],
     "img": "img/readings/1.8.77a.webp",
@@ -499,7 +499,7 @@
       ["Bây giờ hãy làm những mẩu hội thoại tương tự.", "Sử dụng bảng thông tin về giờ tàu chạy."],
       ["Ví dụ:"],
       ["Tàu đi Nha Trang khởi hành lúc 11 giờ 40 phải không?"],
-      ["Ðó là thành phố Huế à?"],
+      ["Đó là thành phố Huế à?"],
       ["Phải rồi"],
       ["Nó khởi hành đúng giờ thưa ông."],
       ["Tàu đi Thành phố Hồ Chí Minh đến lúc 10 giờ 40 phải không?"],
@@ -562,7 +562,7 @@
     ],
     "vi": [
       ["Hãy hoàn tất các câu.", "Dùng các động từ và tính từ trong khung."],
-      ["Ðám con trai đang cao dần."],
+      ["Đám con trai đang cao dần."],
       ["Những cụ già này đang yếu dần."],
       ["Chúng ta nên về nhà.", "Trời đang tối dần."],
       ["Thời tiết đang trở nên lạnh hơn."],
@@ -602,7 +602,7 @@
       ["Phương tiện giải trí ở nông thôn thì nghèo nàn hơn ở thành phố."],
       ["Tiện ích y tế ở thành phố thì dễ tiếp cận hơn ở nông thôn."],
       ["Trường ở thành phố thì tốt hơn ở nông thôn."],
-      ["Ðiện ở nông thôn thì tệ hơn ở thành phố."]
+      ["Điện ở nông thôn thì tệ hơn ở thành phố."]
     ],
     "img": "img/readings/1.8.79a.webp",
     "page": "79"

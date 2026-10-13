@@ -18,7 +18,7 @@
     {
       "e": 13.69,
       "en": "Look, I have a map. So let's take a look. Ok",
-      "vi": "Xem này, em có tấm bản đồ. Ðể xem nào. ok",
+      "vi": "Xem này, em có tấm bản đồ. Để xem nào. ok",
       "s": 10.38
     },
     {
@@ -114,10 +114,10 @@
     {
       "e": 76.6,
       "en": "The road was closed and we had to take a different road.",
-      "vi": "Ðường đó đông nghẹt và ta phải đi đường khác.",
+      "vi": "Đường đó đông nghẹt và ta phải đi đường khác.",
       "s": 73.58
     },
-    {"e": 78.69, "en": "That's why we got lost.", "vi": "Ðó là lí do chúng ta bị lạc.", "s": 76.6},
+    {"e": 78.69, "en": "That's why we got lost.", "vi": "Đó là lí do chúng ta bị lạc.", "s": 76.6},
     {
       "e": 83.03,
       "en": "So Sam, the road we took was on the map.",
@@ -147,7 +147,7 @@
     {
       "e": 103.55,
       "en": "Alright, Kerry. Today you can read the map.",
-      "vi": "Ðược rồi Kerry. Hôm nay em sẽ xem bản đồ.",
+      "vi": "Được rồi Kerry. Hôm nay em sẽ xem bản đồ.",
       "s": 100.39
     },
     {
@@ -165,7 +165,7 @@
     {
       "e": 111.26,
       "en": "Ok, now back to the map.",
-      "vi": "Ðược rồi, giờ hãy xem bản đồ.",
+      "vi": "Được rồi, giờ hãy xem bản đồ.",
       "s": 108.59
     },
     {
@@ -205,7 +205,7 @@
     {
       "e": 142.36,
       "en": "Here it is. It's on the corner of Istiklal and Yenicarsi.",
-      "vi": "Ðây này. Nó ở góc đường Istiklal và Yenicarsi.",
+      "vi": "Đây này. Nó ở góc đường Istiklal và Yenicarsi.",
       "s": 137.24
     },
     {
@@ -226,8 +226,8 @@
       "vi": "ồ, Galatasaray. Nó giống như một đội bóng?",
       "s": 148.08
     },
-    {"e": 152.61, "en": "yes, it is.", "vi": "Ðúng rồi.", "s": 151.33},
-    {"e": 154.15, "en": "That's where it started.", "vi": "Ðó là nơi nó bắt đầu.", "s": 152.61},
+    {"e": 152.61, "en": "yes, it is.", "vi": "Đúng rồi.", "s": 151.33},
+    {"e": 154.15, "en": "That's where it started.", "vi": "Đó là nơi nó bắt đầu.", "s": 152.61},
     {
       "e": 156.48,
       "en": "Oh, that's interesting they're great team.",
@@ -314,10 +314,10 @@
     {
       "e": 206.6,
       "en": "Ok, Kerry. I guess I'm just feeling a bit lazy.",
-      "vi": "Ðược rồi Kerry, anh nghĩ mình hơi lười chút thôi.",
+      "vi": "Được rồi Kerry, anh nghĩ mình hơi lười chút thôi.",
       "s": 202.98
     },
-    {"e": 208.46, "en": "It'll be nice walk.", "vi": "Ði bộ cũng hay đấy.", "s": 206.6},
+    {"e": 208.46, "en": "It'll be nice walk.", "vi": "Đi bộ cũng hay đấy.", "s": 206.6},
     {
       "e": 210.49,
       "en": "Now, let's look at the map again.",
@@ -339,7 +339,7 @@
     {
       "e": 225.03,
       "en": "Walk down here and turn left at the street.",
-      "vi": "Ði xuống chỗ này và quẹo trái ở góc đường.",
+      "vi": "Đi xuống chỗ này và quẹo trái ở góc đường.",
       "s": 221.21
     },
     {
@@ -370,13 +370,13 @@
     {
       "e": 247.18,
       "en": "Ok, Sam. But remember if we get lost, I'm going to ask for directions.",
-      "vi": "Ðược rồi Sam. Nhưng nếu ta lạc nữa thì em sẽ hỏi đường.",
+      "vi": "Được rồi Sam. Nhưng nếu ta lạc nữa thì em sẽ hỏi đường.",
       "s": 241.43
     },
     {
       "e": 253.47,
       "en": "Alright Kerry, let's put the map in your pocket and we'll find the post office, McDonald's and the restaurant.",
-      "vi": "Ðược rồi Kerry, cất bản đồ đi và chúng ta sẽ tìm bưu điện, McDonald và nhà hàng.",
+      "vi": "Được rồi Kerry, cất bản đồ đi và chúng ta sẽ tìm bưu điện, McDonald và nhà hàng.",
       "s": 247.18
     },
     {
@@ -385,6 +385,6 @@
       "vi": "ừ, có lẽ Angie đang đợi, chúng ta đi thôi. Hay đấy, anh đói rồi, chuẩn bị ăn trưa.",
       "s": 253.47
     },
-    {"e": 260.89, "en": "Ok, let's go then.", "vi": "ừ, Ði thôi.", "s": 258.73}
+    {"e": 260.89, "en": "Ok, let's go then.", "vi": "ừ, Đi thôi.", "s": 258.73}
   ]
 }

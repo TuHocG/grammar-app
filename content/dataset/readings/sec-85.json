@@ -226,7 +226,7 @@
       ],
       ["Vì nó tiên lợi/ thoải mái/ xinh xắn."],
       ["Vì nó làm cho tôi có vẻ khỏe mạnh hơn/ xinh hơn/ trẻ hơn/ thon gọn hơn/ đứng đắn hơn."],
-      ["Ðồng phục học sinh"],
+      ["Đồng phục học sinh"],
       ["Nó có thoải mái không?"],
       ["Vâng, nó thoải mái."],
       ["Không, nó không thoải mái chút nào."],
@@ -341,7 +341,7 @@
       ]
     ],
     "vi": [
-      ["Ðọc"],
+      ["Đọc"],
       [
         "Từ quần jean có xuất xứ từ một loại vải được sản xuất ở Châu âu.",
         "Loại vải này, gọi là vải jean, được đặt theo tên của các thủy thủ đến từ cảng Genoa ở nước ý,",
@@ -464,7 +464,7 @@
     "vi": [
       ["Viết"],
       [
-        "Ðây là cách trình bày một quan điểm.",
+        "Đây là cách trình bày một quan điểm.",
         "Cách này được dùng để thuyết phục người đọc tin hoặc làm điều gì đó.",
         "Một quan điểm nên có các yếu tố sau:"
       ],
@@ -476,7 +476,7 @@
       ["Tôi nghĩ..."],
       ["Chuỗi lập luận"],
       [
-        "Ðưa ra các lập luận một cách logic (mỗi lập luận là một đoạn văn), cho ví dụ ở những chỗ có thể"
+        "Đưa ra các lập luận một cách logic (mỗi lập luận là một đoạn văn), cho ví dụ ở những chỗ có thể"
       ],
       ["Thứ nhất..."],
       ["Thứ hai,..."],
@@ -484,7 +484,7 @@
       ["Kết luận"],
       ["Tóm tắt quan điểm"],
       ["Vì vậy,..."],
-      ["Ðể kết luận,..."]
+      ["Để kết luận,..."]
     ],
     "img": "img/readings/1.9.18b.webp",
     "page": "18"
@@ -591,7 +591,7 @@
         "Theo ý kiến của tôi, học sinh trung học không cần thiết mặc đồng phục.",
         "Họ nên mặc thường phục."
       ],
-      ["Ðầu tiên, mặc thường phục làm cho học sinh cảm thấy thoải mải."],
+      ["Đầu tiên, mặc thường phục làm cho học sinh cảm thấy thoải mải."],
       [
         "Thứ hai, mặc thường phục giúp học sinh tự do lựa chọn.",
         "Họ có quyền chon lựa kích cỡ, màu sắc và kiểu dáng trang phục mà họ thích."
@@ -627,7 +627,7 @@
     ],
     "vi": [
       ["Chủ điểm"],
-      ["Làm việc với một bạn.", "Ðọc bài đối thoại."],
+      ["Làm việc với một bạn.", "Đọc bài đối thoại."],
       ["Hãy đến xem album ảnh của tôi này."],
       ["Xinh thật! Cô gái này là ai vậy?"],
       ["à! đó là Lan, bạn cũ của tôi."],
@@ -664,14 +664,14 @@
     ],
     "vi": [
       ["Bây giờ hãy dùng thông tin trong bảng để làm những mẩu đối thoại tương tự."],
-      ["Ðến xem album ảnh của mình này."],
+      ["Đến xem album ảnh của mình này."],
       ["Dễ thương quá!", "Anh chàng này là ai vậy?"],
-      ["à. Ðó là anh Quang, bạn của anh mình."],
+      ["à. Đó là anh Quang, bạn của anh mình."],
       ["Bạn biết anh ấy bao lâu rồi?"],
       ["Mình biết anh ấy bảy tháng rồi."],
       ["Gần đây bạn có gặp anh ấy không?"],
       ["Không, mình không gặp bạn ấy từ tháng Giêng.", "Anh ấy về quê rồi."],
-      ["Ðến xem album ảnh của mình này."],
+      ["Đến xem album ảnh của mình này."],
       ["Dễ thương quá!", "Cô gái này là ai vậy?"],
       ["à! đó là Hoa, bạn mới của mình."],
       ["Bạn biết cô ấy bao lâu rồi?"],

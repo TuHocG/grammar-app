@@ -528,7 +528,7 @@
       {
         "k": "ex",
         "t": "Don't be so mealymouthed. It's better to speak plainly:",
-        "vi": "Ðừng có nói quanh co như vậy. Tốt hơn là nên nói thẳng ra."
+        "vi": "Đừng có nói quanh co như vậy. Tốt hơn là nên nói thẳng ra."
       }
     ],
     "k": "mealymouthed"
@@ -1007,7 +1007,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tuổi thọ trung bình"}],
     "k": "mean life"
   },
-  {"h": "mean life time", "segs": [{"k": "m", "t": "Ðời sống trung bình."}], "k": "mean life time"},
+  {"h": "mean life time", "segs": [{"k": "m", "t": "Đời sống trung bình."}], "k": "mean life time"},
   {
     "h": "mean lifetime",
     "segs": [{"k": "m", "t": "tuổi thọ trung bình, thời gian sống trung bình."}],
@@ -4592,7 +4592,7 @@
   },
   {
     "h": "mechanical dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh cơ tính."}],
+    "segs": [{"k": "m", "t": "Đau kinh cơ tính."}],
     "k": "mechanical dysmenorrhea"
   },
   {
@@ -6533,7 +6533,7 @@
       {
         "k": "ex",
         "t": "Olympic gold medallist",
-        "vi": "người được tặng huy chương vàng ở Ðại hội Ôlempíc"
+        "vi": "người được tặng huy chương vàng ở Đại hội Ôlempíc"
       },
       {"k": "m", "t": "người thiết kế huy chương"},
       {"k": "m", "t": "người sưu tập huy chương."}
@@ -7186,7 +7186,7 @@
   },
   {
     "h": "medial palpebral artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch mi giữa."}],
+    "segs": [{"k": "m", "t": "Động mạch mi giữa."}],
     "k": "medial palpebral artery"
   },
   {
@@ -7196,7 +7196,7 @@
   },
   {
     "h": "medial plantar artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch gan bàn chân trong."}],
+    "segs": [{"k": "m", "t": "Động mạch gan bàn chân trong."}],
     "k": "medial plantar artery"
   },
   {
@@ -7237,7 +7237,7 @@
   },
   {
     "h": "medial tarsal artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch cổ chân trong."}],
+    "segs": [{"k": "m", "t": "Động mạch cổ chân trong."}],
     "k": "medial tarsal artery"
   },
   {"h": "medial test", "segs": [{"k": "m", "t": "tiêu chuẩn trung bình."}], "k": "medial test"},
@@ -7266,7 +7266,7 @@
     "segs": [{"k": "m", "t": "Tĩnh mạch cánh tay giữa."}],
     "k": "median antebrachial vein"
   },
-  {"h": "median artery", "segs": [{"k": "m", "t": "Ðộng mạch giữa."}], "k": "median artery"},
+  {"h": "median artery", "segs": [{"k": "m", "t": "Động mạch giữa."}], "k": "median artery"},
   {
     "h": "median basilic vein",
     "segs": [{"k": "m", "t": "Tĩnh mạch nền giữa."}],
@@ -7305,7 +7305,7 @@
   {"h": "median harelip", "segs": [{"k": "m", "t": "Khe hở môi giữa."}], "k": "median harelip"},
   {
     "h": "median incision",
-    "segs": [{"k": "m", "t": "Ðường rạch giữa thành bụng."}],
+    "segs": [{"k": "m", "t": "Đường rạch giữa thành bụng."}],
     "k": "median incision"
   },
   {
@@ -7410,7 +7410,7 @@
   },
   {
     "h": "median sacral artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch xương cùng giữa."}],
+    "segs": [{"k": "m", "t": "Động mạch xương cùng giữa."}],
     "k": "median sacral artery"
   },
   {
@@ -7472,7 +7472,7 @@
   {
     "h": "Median Vote Theorem",
     "segs": [
-      {"k": "m", "t": "(kinh tế) Ðịnh lý cử tri trung dung."},
+      {"k": "m", "t": "(kinh tế) Định lý cử tri trung dung."},
       {
         "k": "m",
         "t": "Là một định lý liên quan đến sự lựa chọn tập thể trong một xã hội dân chủ, nó dự đoán rằng các chính trị gia hầu hết đều sẽ đại diện cho quan điểm của những cử tri ở trung tâm của phổ chính trị hoặc xã hội đó."
@@ -7495,7 +7495,7 @@
   },
   {
     "h": "medianus",
-    "segs": [{"k": "m", "t": "ở giữa, giữa"}, {"k": "m", "t": "Ðường giữa, trung tuyến."}],
+    "segs": [{"k": "m", "t": "ở giữa, giữa"}, {"k": "m", "t": "Đường giữa, trung tuyến."}],
     "k": "medianus"
   },
   {
@@ -7802,7 +7802,7 @@
   },
   {
     "h": "Mediatrix",
-    "segs": [{"k": "m", "t": "Ðức Nữ trung gian (tước hiệu ÐM)."}],
+    "segs": [{"k": "m", "t": "Đức Nữ trung gian (tước hiệu ĐM)."}],
     "k": "mediatrix"
   },
   {"h": "mediaval", "segs": [{"k": "m", "t": "= medieval."}], "ipa": "mediɛi:vl", "k": "mediaval"},
@@ -7971,7 +7971,7 @@
   },
   {
     "h": "medical ethics",
-    "segs": [{"k": "m", "t": "Ðạo đức y học, y đức học, quy chế hành nghề y."}],
+    "segs": [{"k": "m", "t": "Đạo đức y học, y đức học, quy chế hành nghề y."}],
     "k": "medical ethics"
   },
   {
@@ -8063,7 +8063,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bảo hiểm y tế loại bảo hiểm do nhà nước tổ chức và quản lý nhằm huy động sự đóng góp của cá nhân, tập thể và cả cộng đồng xã hội, nhằm chăm lo sức khỏe, khám và chữa bệnh cho nhân dân. Bảo hiểm y tế thực chất là một nội dung của bảo hiểm xã hội. Nhưng theo sự phân công phụ trách thì bảo hiểm y tế do y tế phụ trách còn các chế độ bảo hiểm xã hội khác thì do bảo hiểm xã hội Việt Nam phụ trách. Bảo hiểm y tế cũng có hai loại hình: bắt buộc và tự nguyện. Bảo hiểm y tế áp dụng bắt buộc đối với các đối tượng là cán bộ, công nhân, viên chức tại chức, hưu trí, nghỉ mất sức lao động thuộc khu vực hành chính sự nghiệp, tổ chức Ðảng, đoàn thể xã hội có hưởng lương từ ngân sách nhà nước, các doanh nghiệp quốc doanh, doanh nghiệp liên doanh trong lực lượng vũ trang, doanh nghiệp ngoài quốc doanh có thuê từ 10 lao động trở lên, các doanh nghiệp liên doanh với nước ngoài và tổ chức quốc tế tại Việt Nam có thuê lao động là người Việt Nam. Bảo hiểm y tế bắt buộc không áp dụng đối với các trường hợp tai nạn lao động, tai nạn giao thông, bệnh nghề nghiệp, dịch vụ kế hoạch hóa gia đình, điều dưỡng, an dưỡng, chỉnh hình, phục hồi chức năng làm chân tay giả, răng giả, mắt giả. Mức đóng bảo hiểm y tế do cơ quan, doanh nghiệp chi trả phần lớn (khoảng 2/3). Người đóng bảo hiểm y tế được khám, chữa bệnh tại tất cả các cơ sở y tế. Các trường hợp tự tử, say rượu, vi phạm pháp luật v.v... không được hưởng chế độ bảo hiểm y tế."
+        "t": "bảo hiểm y tế loại bảo hiểm do nhà nước tổ chức và quản lý nhằm huy động sự đóng góp của cá nhân, tập thể và cả cộng đồng xã hội, nhằm chăm lo sức khỏe, khám và chữa bệnh cho nhân dân. Bảo hiểm y tế thực chất là một nội dung của bảo hiểm xã hội. Nhưng theo sự phân công phụ trách thì bảo hiểm y tế do y tế phụ trách còn các chế độ bảo hiểm xã hội khác thì do bảo hiểm xã hội Việt Nam phụ trách. Bảo hiểm y tế cũng có hai loại hình: bắt buộc và tự nguyện. Bảo hiểm y tế áp dụng bắt buộc đối với các đối tượng là cán bộ, công nhân, viên chức tại chức, hưu trí, nghỉ mất sức lao động thuộc khu vực hành chính sự nghiệp, tổ chức Đảng, đoàn thể xã hội có hưởng lương từ ngân sách nhà nước, các doanh nghiệp quốc doanh, doanh nghiệp liên doanh trong lực lượng vũ trang, doanh nghiệp ngoài quốc doanh có thuê từ 10 lao động trở lên, các doanh nghiệp liên doanh với nước ngoài và tổ chức quốc tế tại Việt Nam có thuê lao động là người Việt Nam. Bảo hiểm y tế bắt buộc không áp dụng đối với các trường hợp tai nạn lao động, tai nạn giao thông, bệnh nghề nghiệp, dịch vụ kế hoạch hóa gia đình, điều dưỡng, an dưỡng, chỉnh hình, phục hồi chức năng làm chân tay giả, răng giả, mắt giả. Mức đóng bảo hiểm y tế do cơ quan, doanh nghiệp chi trả phần lớn (khoảng 2/3). Người đóng bảo hiểm y tế được khám, chữa bệnh tại tất cả các cơ sở y tế. Các trường hợp tự tử, say rượu, vi phạm pháp luật v.v... không được hưởng chế độ bảo hiểm y tế."
       }
     ],
     "k": "medical insurance"
@@ -8926,7 +8926,7 @@
       {
         "k": "ex",
         "t": "meditation is practised by some Eastern religions",
-        "vi": "sự thiền định được một số tôn giáo phương Ðông thực hành"
+        "vi": "sự thiền định được một số tôn giáo phương Đông thực hành"
       },
       {"k": "ex", "t": "meditations on the Passion", "vi": "suy ngẫm về khổ nạn của Chúa Giê-su"},
       {
@@ -8982,14 +8982,14 @@
     "h": "Mediterranean",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "(thuộc) Ðịa Trung Hải"},
-      {"k": "m", "t": "tương tự như Ðịa Trung Hải"},
-      {"k": "m", "t": "giáp với Ðịa Trung Hải."}
+      {"k": "m", "t": "(thuộc) Địa Trung Hải"},
+      {"k": "m", "t": "tương tự như Địa Trung Hải"},
+      {"k": "m", "t": "giáp với Địa Trung Hải."}
     ],
     "ipa": ",meditə'reiniən",
     "k": "mediterranean",
     "q": {
-      "vi": ", Ðịa Trung Hải",
+      "vi": ", Địa Trung Hải",
       "ipa": "meditə'reiniən",
       "rs": "mè đì thờ ruế nì ờn",
       "pos": "thuộc"
@@ -9002,7 +9002,7 @@
   },
   {
     "h": "Mediterranean fever",
-    "segs": [{"k": "m", "t": "sốt Ðịa Trung Hải."}],
+    "segs": [{"k": "m", "t": "sốt Địa Trung Hải."}],
     "k": "mediterranean fever"
   },
   {
@@ -9046,9 +9046,9 @@
     "h": "Mediterranean Sea Ports",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Các cảnh Ðịa Trung Hải"},
+      {"k": "m", "t": "Các cảnh Địa Trung Hải"},
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Các cảng Ðịa Trung Hải"}
+      {"k": "m", "t": "Các cảng Địa Trung Hải"}
     ],
     "k": "mediterranean sea ports"
   },
@@ -9066,7 +9066,7 @@
   },
   {
     "h": "Mediterranean suite",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "điệp Ðịa trung hải"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "điệp Địa trung hải"}],
     "k": "mediterranean suite"
   },
   {
@@ -10035,7 +10035,7 @@
   },
   {
     "h": "medullary nailing",
-    "segs": [{"k": "m", "t": "Ðóng đinh nội tủy, đóng đinh tủy."}],
+    "segs": [{"k": "m", "t": "Đóng đinh nội tủy, đóng đinh tủy."}],
     "k": "medullary nailing"
   },
   {"h": "medullary narcosis", "segs": [{"k": "m", "t": "Gây mê tủy."}], "k": "medullary narcosis"},
@@ -10053,7 +10053,7 @@
   {"h": "medullary rays", "segs": [{"k": "m", "t": "đường tia tâm."}], "k": "medullary rays"},
   {
     "h": "medullary segment",
-    "segs": [{"k": "m", "t": "Ðoạn Schmidt-lantermann."}],
+    "segs": [{"k": "m", "t": "Đoạn Schmidt-lantermann."}],
     "k": "medullary segment"
   },
   {
@@ -10969,7 +10969,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Các khối đá lớn được gắn vào mộ và nhiều công trình kỷ niệm khác ở miền tây châu Âu từ thời đại Ðồ Ðá Mới đến thời đại Ðồ Ðồng vào khoảng từ năm 4000 đến 1500 trước Công Nguyên. Ðã có lúc người ta cho rằng chúng có nguồn gốc duy nhất. Nhưng từ những nghiên cứu chuyên sâu hơn và từ những chứng cứ về sau đã gợi ý rằng cách nhìn nhận như thế là quá đơn giản, và cho thấy chúng có từ nhiều nguồn khác nhau."
+        "t": "Các khối đá lớn được gắn vào mộ và nhiều công trình kỷ niệm khác ở miền tây châu Âu từ thời đại Đồ Đá Mới đến thời đại Đồ Đồng vào khoảng từ năm 4000 đến 1500 trước Công Nguyên. Đã có lúc người ta cho rằng chúng có nguồn gốc duy nhất. Nhưng từ những nghiên cứu chuyên sâu hơn và từ những chứng cứ về sau đã gợi ý rằng cách nhìn nhận như thế là quá đơn giản, và cho thấy chúng có từ nhiều nguồn khác nhau."
       },
       {
         "k": "m",
@@ -11024,7 +11024,7 @@
   },
   {
     "h": "megalocephalia",
-    "segs": [{"k": "m", "t": "Ðầu to"}, {"k": "m", "t": "(chứng) xương mặt sư tử."}],
+    "segs": [{"k": "m", "t": "Đầu to"}, {"k": "m", "t": "(chứng) xương mặt sư tử."}],
     "k": "megalocephalia"
   },
   {
@@ -11037,7 +11037,7 @@
       {"k": "m", "t": ". having an abnor wmally large skull. SYN: megacephalic; macrocephalic."},
       {
         "k": "m",
-        "t": "(Thuộc) đầu to. Có một xương sọ lớn bất thường. ÐN: megacephalic; macrocephalic."
+        "t": "(Thuộc) đầu to. Có một xương sọ lớn bất thường. ĐN: megacephalic; macrocephalic."
       },
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "(meg-a-lo-ce-phal-ic) pertaining to or characterized by megalocephaly."}
@@ -11056,7 +11056,7 @@
   {"h": "megaloclitoris", "segs": [{"k": "m", "t": "âm vật phì đại."}], "k": "megaloclitoris"},
   {"h": "megalocornea", "segs": [{"k": "m", "t": "Giác mạc to."}], "k": "megalocornea"},
   {"h": "megalocystis", "segs": [{"k": "m", "t": "Bàng quang to."}], "k": "megalocystis"},
-  {"h": "megalocyte", "segs": [{"k": "m", "t": "Ðại hồng cầu."}], "k": "megalocyte"},
+  {"h": "megalocyte", "segs": [{"k": "m", "t": "Đại hồng cầu."}], "k": "megalocyte"},
   {
     "h": "megalocytic anemia",
     "segs": [{"k": "m", "t": "Thiếu máu đại hồng cầu."}],
@@ -11671,7 +11671,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(vào khoảng 1769-1849) Tổng trấn (hoặc phó vương) Ai Cập (1805-1849), sinh quán tại Albania. Từ những chức vụ ban đầu, ông được thăng dần lên nắm quyền chỉ huy một đội quân của đế quốc Ottoman. Tuy nhiên, ông đã không thành công khi đánh đuổi Napoleon ra khỏi Ai Cập. Năm 1801, ông trở lại Ai Cập để chỉ huy các đạo quân Albania. Vào năm 1811, ông đã đánh bại hoàn toàn những người Mameluke (một đẳng cấp chiến binh lúc đầu gồm những người Thổ nô lệ), những người hầu như đã cai trị liên tục Ai Cập từ năm 1250. Là một phó vương có thực quyền của Mahmud II, người cai trị đế quốc Ottoman, Mehemet Ali là một nhà cai trị độc lập và đã tái tổ chức chính quyền, nông nghiệp, thương mại, công nghiệp, giáo dục, và quân đội, tuyển dụng các cố vấn chủ yếu là người Pháp, mang lại cho Ai Cập ưu thế hàng đầu ở phía đông Ðịa Trung Hải. Ông chiếm đóng Sudan (1821-1823), vận động để chính quyền thuộc đế quốc Ottoman ở bán đảo Arabia (1811-1818) chống lại những người Wahhabi (nhóm người Hồi Giáo rất bảo thủ), và ở Hy Lạp (1822-1828), hạm đội của ông bị tiêu diệt bởi hải quân thuộc liên quân Anh Pháp, và Nga tại trận hải chiến Navarino (1827). Ông chiếm Syria (1831-1833) và chiến thắng các đội quân của đế quốc Ottoman tại trận chiến Nizip (1839). Bị đe dọa bởi một châu Âu hiệp nhất, ông chấp nhận sự thống trị của người cai trị đế quốc Ottoman năm 1841, và đổi lại, dòng họ ông thay nhau làm tổng trấn Ai Cập."
+        "t": "(vào khoảng 1769-1849) Tổng trấn (hoặc phó vương) Ai Cập (1805-1849), sinh quán tại Albania. Từ những chức vụ ban đầu, ông được thăng dần lên nắm quyền chỉ huy một đội quân của đế quốc Ottoman. Tuy nhiên, ông đã không thành công khi đánh đuổi Napoleon ra khỏi Ai Cập. Năm 1801, ông trở lại Ai Cập để chỉ huy các đạo quân Albania. Vào năm 1811, ông đã đánh bại hoàn toàn những người Mameluke (một đẳng cấp chiến binh lúc đầu gồm những người Thổ nô lệ), những người hầu như đã cai trị liên tục Ai Cập từ năm 1250. Là một phó vương có thực quyền của Mahmud II, người cai trị đế quốc Ottoman, Mehemet Ali là một nhà cai trị độc lập và đã tái tổ chức chính quyền, nông nghiệp, thương mại, công nghiệp, giáo dục, và quân đội, tuyển dụng các cố vấn chủ yếu là người Pháp, mang lại cho Ai Cập ưu thế hàng đầu ở phía đông Địa Trung Hải. Ông chiếm đóng Sudan (1821-1823), vận động để chính quyền thuộc đế quốc Ottoman ở bán đảo Arabia (1811-1818) chống lại những người Wahhabi (nhóm người Hồi Giáo rất bảo thủ), và ở Hy Lạp (1822-1828), hạm đội của ông bị tiêu diệt bởi hải quân thuộc liên quân Anh Pháp, và Nga tại trận hải chiến Navarino (1827). Ông chiếm Syria (1831-1833) và chiến thắng các đội quân của đế quốc Ottoman tại trận chiến Nizip (1839). Bị đe dọa bởi một châu Âu hiệp nhất, ông chấp nhận sự thống trị của người cai trị đế quốc Ottoman năm 1841, và đổi lại, dòng họ ông thay nhau làm tổng trấn Ai Cập."
       }
     ],
     "k": "mehemet ali"
@@ -11681,7 +11681,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "II (Muhammad II, the Conqueror) (1430-1481) Vua đế quốc Ottoman (1451-1481). Ông bị truất phế sau khi cai trị một thời gian ngắn (1444-1446) trong thời gian thoái vị của người cha, Murad II, nhưng trở lại nắm quyền nhờ vào sự ủng hộ của các bè phái ủng hộ chủ nghĩa bành trướng. Vào khoảng năm 1453, ông đã đạt được mục tiêu lâu đời của đế quốc Ottoman. Ðó là việc chiếm Constantinople và sáp nhập châu Âu cùng nhiều vùng ở châu Á vào đế quốc Ottoman. Các chiến dịch không ngừng nghỉ đã mang lại nhiều vùng đất khác ở bán đảo Balkan, củng cố uy quyền ở Tiểu Á, và chiếm Otranto ở Apulia, nhưng đã thất bại trong việc giành đảo Rhodes từ tay Các Hiệp Sĩ Của Thánh John (Knights of St John: một tổ chức quân đội và cũng là tổ chức tôn giáo được thành lập từ những cuộc Thập Tự Chinh của người Công Giáo). Ông cải tiến sức mạnh quân sự bằng cách trang bị thêm súng cầm tay và các loại súng lớn, và tạo hệ thống quản lý cho thể chế của một nhà nước Ottoman phát triển."
+        "t": "II (Muhammad II, the Conqueror) (1430-1481) Vua đế quốc Ottoman (1451-1481). Ông bị truất phế sau khi cai trị một thời gian ngắn (1444-1446) trong thời gian thoái vị của người cha, Murad II, nhưng trở lại nắm quyền nhờ vào sự ủng hộ của các bè phái ủng hộ chủ nghĩa bành trướng. Vào khoảng năm 1453, ông đã đạt được mục tiêu lâu đời của đế quốc Ottoman. Đó là việc chiếm Constantinople và sáp nhập châu Âu cùng nhiều vùng ở châu Á vào đế quốc Ottoman. Các chiến dịch không ngừng nghỉ đã mang lại nhiều vùng đất khác ở bán đảo Balkan, củng cố uy quyền ở Tiểu Á, và chiếm Otranto ở Apulia, nhưng đã thất bại trong việc giành đảo Rhodes từ tay Các Hiệp Sĩ Của Thánh John (Knights of St John: một tổ chức quân đội và cũng là tổ chức tôn giáo được thành lập từ những cuộc Thập Tự Chinh của người Công Giáo). Ông cải tiến sức mạnh quân sự bằng cách trang bị thêm súng cầm tay và các loại súng lớn, và tạo hệ thống quản lý cho thể chế của một nhà nước Ottoman phát triển."
       }
     ],
     "k": "mehmed"
@@ -11721,7 +11721,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1884-1889) Hiến Pháp Minh Trị, hiến pháp của nhà nước đã phục hồi chế độ quân chủ ở Nhật. Ðược định hình bởi Ito Hirobumi và dựa theo mô hình có sẵn của nước Ðức. Hiến Pháp Minh Trị được phát triển dần dần từ 1884 với thể chế của giai cấp quý tộc theo kiểu châu Âu (1884). Thêm vào đó là sự phát triển của một hệ thống nội các (1885), và một hội đồng cơ mật (1888). Nó chính thức hoàn tất năm 1889. Nó bao gồm một hệ thống lưỡng viện với hạ viện do dân bầu và thượng viện gồm những quý tộc được đề cử, nhưng quyền lực thật sự nằm trong tay tổ chức hành pháp như những người đại diện của hoàng đế. Họ là người nắm trong tay quyền lực tối thượng. Mặc dầu các nhà lãnh đạo chính trị luôn gặp những khó khăn khi phải điều hành hạ viện (là cơ quan do tất cả mọi nam công dân bầu ra trong cuộc phổ thông đầu phiếu được tổ chức năm 1925), chính sách trong giai đoạn đầu vẫn luôn bị chi phối bởi một nhóm chính khách có ảnh hưởng lớn, gồm cả Ito Hirobumi và Yamagata Aritomo, và sau đó chịu sự chi phối của quân đội. Hiến pháp cũ cuối cùng bị thay thế bởi một hiến pháp Nhật Bản mới và được soạn thảo dưới sự giám sát của Mỹ vào ngày 3/5/1947."
+        "t": "(1884-1889) Hiến Pháp Minh Trị, hiến pháp của nhà nước đã phục hồi chế độ quân chủ ở Nhật. Được định hình bởi Ito Hirobumi và dựa theo mô hình có sẵn của nước Đức. Hiến Pháp Minh Trị được phát triển dần dần từ 1884 với thể chế của giai cấp quý tộc theo kiểu châu Âu (1884). Thêm vào đó là sự phát triển của một hệ thống nội các (1885), và một hội đồng cơ mật (1888). Nó chính thức hoàn tất năm 1889. Nó bao gồm một hệ thống lưỡng viện với hạ viện do dân bầu và thượng viện gồm những quý tộc được đề cử, nhưng quyền lực thật sự nằm trong tay tổ chức hành pháp như những người đại diện của hoàng đế. Họ là người nắm trong tay quyền lực tối thượng. Mặc dầu các nhà lãnh đạo chính trị luôn gặp những khó khăn khi phải điều hành hạ viện (là cơ quan do tất cả mọi nam công dân bầu ra trong cuộc phổ thông đầu phiếu được tổ chức năm 1925), chính sách trong giai đoạn đầu vẫn luôn bị chi phối bởi một nhóm chính khách có ảnh hưởng lớn, gồm cả Ito Hirobumi và Yamagata Aritomo, và sau đó chịu sự chi phối của quân đội. Hiến pháp cũ cuối cùng bị thay thế bởi một hiến pháp Nhật Bản mới và được soạn thảo dưới sự giám sát của Mỹ vào ngày 3/5/1947."
       }
     ],
     "k": "meiji constitution"
@@ -11731,7 +11731,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Thời Ðại Minh Trị, thời kỳ chế độ quân chủ ở Nhật được phục hồi, thường được xác định là bắt đầu từ khi chính phủ quân đội Tokugawa bị lật đổ năm 1868, nhưng đôi khi được cho là kéo dài từ ngày đó cho đến khi tân hiến pháp Minh Trị (Meiji) được chính thức thiết lập năm 1889. Chế độ quân phiệt Tokugawa phải đối mặt với các vấn đề nghiêm trọng trong nước ngày càng gia tăng trong nửa đầu của thế kỷ thứ 19. Nó đã thất bại trong việc đối phó hiệu quả với những cuộc tấn công vào lãnh thổ Nhật. Việc này dẫn đến sự hợp nhất các lực lượng chống đối đằng sau một chính sách phục hồi toàn quyền cho hoàng đế. Phải đương đầu với các lực lượng mạnh mẽ thuộc khối liên minh ở các địa phương, vị tướng quân cuối cùng đành phải chính thức trao lại quyền lực cho Minh Trị Thiên Hoàng Mutsuhito, người giành lại vương quyền chính thức vào tháng 2/1868, và dời đô về Tokyo một năm sau. Sau đó, hệ thống Ðại Danh (tên gọi các nước chư hầu của Nhật thời phong kiến) và đẳng cấp quân nhân (Samurai) nhanh chóng bị dẹp bỏ, một hiến pháp theo lối phương Tây được nhanh chóng đưa ra, và một chính sách công nghiệp có sự bảo trợ của chính phủ được thi hành, biến Nhật Bản thành một nhà nước trung ương tập quyền hiện đại."
+        "t": "Thời Đại Minh Trị, thời kỳ chế độ quân chủ ở Nhật được phục hồi, thường được xác định là bắt đầu từ khi chính phủ quân đội Tokugawa bị lật đổ năm 1868, nhưng đôi khi được cho là kéo dài từ ngày đó cho đến khi tân hiến pháp Minh Trị (Meiji) được chính thức thiết lập năm 1889. Chế độ quân phiệt Tokugawa phải đối mặt với các vấn đề nghiêm trọng trong nước ngày càng gia tăng trong nửa đầu của thế kỷ thứ 19. Nó đã thất bại trong việc đối phó hiệu quả với những cuộc tấn công vào lãnh thổ Nhật. Việc này dẫn đến sự hợp nhất các lực lượng chống đối đằng sau một chính sách phục hồi toàn quyền cho hoàng đế. Phải đương đầu với các lực lượng mạnh mẽ thuộc khối liên minh ở các địa phương, vị tướng quân cuối cùng đành phải chính thức trao lại quyền lực cho Minh Trị Thiên Hoàng Mutsuhito, người giành lại vương quyền chính thức vào tháng 2/1868, và dời đô về Tokyo một năm sau. Sau đó, hệ thống Đại Danh (tên gọi các nước chư hầu của Nhật thời phong kiến) và đẳng cấp quân nhân (Samurai) nhanh chóng bị dẹp bỏ, một hiến pháp theo lối phương Tây được nhanh chóng đưa ra, và một chính sách công nghiệp có sự bảo trợ của chính phủ được thi hành, biến Nhật Bản thành một nhà nước trung ương tập quyền hiện đại."
       }
     ],
     "k": "meiji restoration"
@@ -11908,7 +11908,7 @@
   },
   {"h": "melada", "segs": [{"k": "m", "t": "khối đường non."}], "k": "melada"},
   {"h": "melaena", "segs": [{"k": "m", "t": "phân đen."}], "k": "melaena"},
-  {"h": "melagra", "segs": [{"k": "m", "t": "Ðau chi, đau cơ chân tay."}], "k": "melagra"},
+  {"h": "melagra", "segs": [{"k": "m", "t": "Đau chi, đau cơ chân tay."}], "k": "melagra"},
   {
     "h": "Melaka",
     "segs": [
@@ -12096,7 +12096,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những người bản địa ở các đảo giữa Thái Bình Dương, nằm giữa xích đạo và đông chí tuyến. Vùng này, bao gồm Tân Ghi Nê và nhóm đảo Trobriand, có rất nhiều nền văn hóa, cũng như nhiều ngôn ngữ khác nhau thuộc nhóm ngôn ngữ Austronesia. Người Melanesia đã từng được cho là có quan hệ gần với người Negroid (một tên gọi có ý phân biệt, phản bác) thuộc châu Phi, nhưng các nghiên cứu về nhóm máu sau này cho thấy họ có liên quan gần với những người Australoid và Mongoloid láng giềng thuộc Ðông Á hơn. Dạng khu định cư thường thấy là những làng mạc nhỏ, với các cư dân canh tác luân canh cộng thêm việc nuôi heo, gà, trong khi vẫn săn bắn, hái lượm rau quả thiên nhiên, và đánh bắt cá để phụ thêm vào nguồn nông sản cơ bản. Vùng này nhìn chung bị ảnh hưởng rất nhiều khi tiếp xúc với người châu Âu; một trong những hậu quả là sự lớn mạnh của các phong trào tin vào việc ngày tận thế, như là các tôn giáo tin rằng các linh hồn tổ tiên sẽ trở lại và mang về cho con cháu của cải và sự giàu sang."
+        "t": "Những người bản địa ở các đảo giữa Thái Bình Dương, nằm giữa xích đạo và đông chí tuyến. Vùng này, bao gồm Tân Ghi Nê và nhóm đảo Trobriand, có rất nhiều nền văn hóa, cũng như nhiều ngôn ngữ khác nhau thuộc nhóm ngôn ngữ Austronesia. Người Melanesia đã từng được cho là có quan hệ gần với người Negroid (một tên gọi có ý phân biệt, phản bác) thuộc châu Phi, nhưng các nghiên cứu về nhóm máu sau này cho thấy họ có liên quan gần với những người Australoid và Mongoloid láng giềng thuộc Đông Á hơn. Dạng khu định cư thường thấy là những làng mạc nhỏ, với các cư dân canh tác luân canh cộng thêm việc nuôi heo, gà, trong khi vẫn săn bắn, hái lượm rau quả thiên nhiên, và đánh bắt cá để phụ thêm vào nguồn nông sản cơ bản. Vùng này nhìn chung bị ảnh hưởng rất nhiều khi tiếp xúc với người châu Âu; một trong những hậu quả là sự lớn mạnh của các phong trào tin vào việc ngày tận thế, như là các tôn giáo tin rằng các linh hồn tổ tiên sẽ trở lại và mang về cho con cháu của cải và sự giàu sang."
       }
     ],
     "k": "melanesians"
@@ -12368,7 +12368,7 @@
     "segs": [{"k": "m", "t": "Thử nghiệm lắng kết melani."}],
     "k": "melanoprecipitation"
   },
-  {"h": "melanorrhagia", "segs": [{"k": "m", "t": "Ðại tiện phân đen."}], "k": "melanorrhagia"},
+  {"h": "melanorrhagia", "segs": [{"k": "m", "t": "Đại tiện phân đen."}], "k": "melanorrhagia"},
   {
     "h": "melanosarcoma",
     "segs": [{"k": "m", "t": "sacom melanin, melanosacom."}],
@@ -12542,15 +12542,15 @@
     ],
     "k": "melee"
   },
-  {"h": "melena", "segs": [{"k": "m", "t": "Ðại tiện máu đen."}], "k": "melena"},
+  {"h": "melena", "segs": [{"k": "m", "t": "Đại tiện máu đen."}], "k": "melena"},
   {
     "h": "melena neonatorum",
-    "segs": [{"k": "m", "t": "Ðại tiện máu đen ở trẻ sơ sinh."}],
+    "segs": [{"k": "m", "t": "Đại tiện máu đen ở trẻ sơ sinh."}],
     "k": "melena neonatorum"
   },
   {
     "h": "melena spuria",
-    "segs": [{"k": "m", "t": "Ðẹi tiện máu đen ở trẻ còn bú."}],
+    "segs": [{"k": "m", "t": "Đẹi tiện máu đen ở trẻ còn bú."}],
     "k": "melena spuria"
   },
   {"h": "melenemesis", "segs": [{"k": "m", "t": "(chứng) nôn đen."}], "k": "melenemesis"},
@@ -12745,8 +12745,8 @@
   {"h": "melitococcus", "segs": [{"k": "m", "t": "Bệnh Brucela."}], "k": "melitococcus"},
   {"h": "melitoptyalon", "segs": [{"k": "m", "t": "Nước bọt ngọt."}], "k": "melitoptyalon"},
   {"h": "melitose", "segs": [{"k": "m", "t": "melitoza."}], "k": "melitose"},
-  {"h": "melituria", "segs": [{"k": "m", "t": "Ðường niệu, tiểu tiện đường."}], "k": "melituria"},
-  {"h": "melituric", "segs": [{"k": "m", "t": "Ðường niệu."}], "k": "melituric"},
+  {"h": "melituria", "segs": [{"k": "m", "t": "Đường niệu, tiểu tiện đường."}], "k": "melituria"},
+  {"h": "melituric", "segs": [{"k": "m", "t": "Đường niệu."}], "k": "melituric"},
   {
     "h": "Melkite",
     "segs": [
@@ -14383,7 +14383,7 @@
   },
   {
     "h": "membranous dysmenorrhea",
-    "segs": [{"k": "m", "t": "Ðau kinh màng."}],
+    "segs": [{"k": "m", "t": "Đau kinh màng."}],
     "k": "membranous dysmenorrhea"
   },
   {
@@ -15541,7 +15541,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Kinh đô của Ai Cập suốt thời kỳ Cựu Vương Quốc (Old Kingdom 2700-2200 trước Công Nguyên). Theo niềm tin lâu đời, thì người thiết lập kinh đô này là vua Menes, người được cho là đã sáp nhập Thượng và Hạ Ai Cập, vùng đất với đường biên gần phần trên của châu thổ sông Nile là nơi tọa lạc của Memphis. Ðây là trung tâm thờ cúng thần Ptah. Những tàn tích gây ấn tượng nhất của địa điểm này là hai bức tượng khổng lồ của Ramesses II và một tượng nhân sư bằng alabaster (một loại đá calcite mờ)."
+        "t": "Kinh đô của Ai Cập suốt thời kỳ Cựu Vương Quốc (Old Kingdom 2700-2200 trước Công Nguyên). Theo niềm tin lâu đời, thì người thiết lập kinh đô này là vua Menes, người được cho là đã sáp nhập Thượng và Hạ Ai Cập, vùng đất với đường biên gần phần trên của châu thổ sông Nile là nơi tọa lạc của Memphis. Đây là trung tâm thờ cúng thần Ptah. Những tàn tích gây ấn tượng nhất của địa điểm này là hai bức tượng khổng lồ của Ramesses II và một tượng nhân sư bằng alabaster (một loại đá calcite mờ)."
       }
     ],
     "k": "memphis"
@@ -15582,7 +15582,7 @@
     "h": "memsahib",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "thưa bà (lối xưng hô của người Ấn Ðộ đối với phụ nữ châu Âu)."}
+      {"k": "m", "t": "thưa bà (lối xưng hô của người Ấn Độ đối với phụ nữ châu Âu)."}
     ],
     "ipa": "'memsa:ib",
     "k": "memsahib"
@@ -16133,7 +16133,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "II (1844-1913) Hoàng đế của Ethiopia (1889-1913). Lúc đầu cai trị Shoa (1863-1889), với sự giúp đỡ của người Ý, ông chiếm ngai vàng sau khi hoàng đế John IV chết. Ông soạn thảo hiệp ước Ucciali với người Ý năm 1889, nhưng khi nhận thấy rằng điều kiện của người Ý trong hiệp ước sẽ biến Ethiopia thành một nhà nước do Ý bảo hộ, ông đã bãi bỏ hiệp ước này. Việc xâm lăng và cuối cùng bị thất bại của người Ý đã làm cho uy thế của Menelik mạnh lên rất nhiều. Ông hiện đại hóa Ethiopia, khởi xướng nền giáo dục công cộng, nỗ lực loại bỏ chế độ nô lệ, và cho phép Pháp xây dựng đường xe lửa đến từ Djibouti, giúp mở mang việc thương mại. Ðất đai mà ông chiếm được lớn gấp đôi điện tích của đất nước, và ông đã sáp nhập thêm nam Ethiopia vào lãnh thổ của mình."
+        "t": "II (1844-1913) Hoàng đế của Ethiopia (1889-1913). Lúc đầu cai trị Shoa (1863-1889), với sự giúp đỡ của người Ý, ông chiếm ngai vàng sau khi hoàng đế John IV chết. Ông soạn thảo hiệp ước Ucciali với người Ý năm 1889, nhưng khi nhận thấy rằng điều kiện của người Ý trong hiệp ước sẽ biến Ethiopia thành một nhà nước do Ý bảo hộ, ông đã bãi bỏ hiệp ước này. Việc xâm lăng và cuối cùng bị thất bại của người Ý đã làm cho uy thế của Menelik mạnh lên rất nhiều. Ông hiện đại hóa Ethiopia, khởi xướng nền giáo dục công cộng, nỗ lực loại bỏ chế độ nô lệ, và cho phép Pháp xây dựng đường xe lửa đến từ Djibouti, giúp mở mang việc thương mại. Đất đai mà ông chiếm được lớn gấp đôi điện tích của đất nước, và ông đã sáp nhập thêm nam Ethiopia vào lãnh thổ của mình."
       }
     ],
     "k": "menelik"
@@ -16217,7 +16217,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thạch đài (standing stone; hòn đá lớn được dựng thẳng đứng bởi người tiền sử). Việc dựng đứng những Cự Thạch phổ biến rộng khắp miền tây châu Âu trong các thiên niên kỷ thứ ba và thứ hai trước Công Nguyên, và thỉnh thoảng cũng diễn ra ở những nơi khác. Chúng có thể được dựng đơn độc hoặc được dựng ở những đại lộ như tại làng Carnac ở miền tây nước Pháp, hoặc được dựng thành các vòng tròn như ở nước Anh (thạch đài Stonehenge, ở làng Avebury). Ở một vài vùng quanh miền trung Ðịa Trung Hải, chúng mang dáng vẻ con người nhờ được tạo hình thêm những cặp vú, vai, đôi mắt, và cả vũ khí. Việc chúng được dựng lên để tưởng niệm người chết, hay để dùng làm nơi thờ cúng hay hội họp, hoặc làm các cột mốc đánh dấu trên đường, hoặc để làm những điểm quan sát thiên văn, vẫn còn là những vấn đề đang được tranh cãi."
+        "t": "Một thạch đài (standing stone; hòn đá lớn được dựng thẳng đứng bởi người tiền sử). Việc dựng đứng những Cự Thạch phổ biến rộng khắp miền tây châu Âu trong các thiên niên kỷ thứ ba và thứ hai trước Công Nguyên, và thỉnh thoảng cũng diễn ra ở những nơi khác. Chúng có thể được dựng đơn độc hoặc được dựng ở những đại lộ như tại làng Carnac ở miền tây nước Pháp, hoặc được dựng thành các vòng tròn như ở nước Anh (thạch đài Stonehenge, ở làng Avebury). Ở một vài vùng quanh miền trung Địa Trung Hải, chúng mang dáng vẻ con người nhờ được tạo hình thêm những cặp vú, vai, đôi mắt, và cả vũ khí. Việc chúng được dựng lên để tưởng niệm người chết, hay để dùng làm nơi thờ cúng hay hội họp, hoặc làm các cột mốc đánh dấu trên đường, hoặc để làm những điểm quan sát thiên văn, vẫn còn là những vấn đề đang được tranh cãi."
       }
     ],
     "k": "menhir"
@@ -16587,7 +16587,7 @@
     "ipa": "mə'nisai",
     "k": "menisci"
   },
-  {"h": "menisci tactus", "segs": [{"k": "m", "t": "Ðài xúc giác."}], "k": "menisci tactus"},
+  {"h": "menisci tactus", "segs": [{"k": "m", "t": "Đài xúc giác."}], "k": "menisci tactus"},
   {"h": "meniscitis", "segs": [{"k": "m", "t": "Viêm sụn chêm."}], "k": "meniscitis"},
   {"h": "meniscocyte", "segs": [{"k": "m", "t": "Hồng cầu hình liềm."}], "k": "meniscocyte"},
   {
@@ -16680,7 +16680,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nhóm Tin Lành được thành lập tại tỉnh Friesland ở Hà Lan bởi Menno Simons (1496-1561), một cựu linh mục người Hà Lan, người trở thành thành viên của phong trào Tin Lành thế kỷ 16 vào năm 1536. Ðể phù hợp với sự nhấn mạnh về quyền tự trị của giáo hội địa phương, các tín điều của giáo phái Mennonite được thay đổi, nhưng họ thống nhất tán thành việc làm lễ rửa tội cho người trưởng thành và chủ nghĩa hòa bình, và chống lại những mối quan tâm thuộc thế gian để thiên về việc rút lui khỏi đời sống xã hội. Việc bị ngược đãi đã dẫn tới việc nhiều tín đồ Mannonite rời bỏ Hà Lan và Thụy Sĩ từ năm 1663 trở đi. Hiện nay có khoảng 500.000 thành viên chính thức sinh sống chủ yếu ở Bắc Mỹ. Giáo hội Amish (Amish Church: một nhóm tín đồ Tin Lành di cư từ châu Âu sang Mỹ và Canada trong thế kỷ thứ 18) ở Mỹ. Nhóm người được biết đến chủ yếu vì chống lại một cách nghiêm ngặt lối sống tân thời. Họ là một nhánh bảo thủ của giáo phái Mennonite."
+        "t": "Một nhóm Tin Lành được thành lập tại tỉnh Friesland ở Hà Lan bởi Menno Simons (1496-1561), một cựu linh mục người Hà Lan, người trở thành thành viên của phong trào Tin Lành thế kỷ 16 vào năm 1536. Để phù hợp với sự nhấn mạnh về quyền tự trị của giáo hội địa phương, các tín điều của giáo phái Mennonite được thay đổi, nhưng họ thống nhất tán thành việc làm lễ rửa tội cho người trưởng thành và chủ nghĩa hòa bình, và chống lại những mối quan tâm thuộc thế gian để thiên về việc rút lui khỏi đời sống xã hội. Việc bị ngược đãi đã dẫn tới việc nhiều tín đồ Mannonite rời bỏ Hà Lan và Thụy Sĩ từ năm 1663 trở đi. Hiện nay có khoảng 500.000 thành viên chính thức sinh sống chủ yếu ở Bắc Mỹ. Giáo hội Amish (Amish Church: một nhóm tín đồ Tin Lành di cư từ châu Âu sang Mỹ và Canada trong thế kỷ thứ 18) ở Mỹ. Nhóm người được biết đến chủ yếu vì chống lại một cách nghiêm ngặt lối sống tân thời. Họ là một nhánh bảo thủ của giáo phái Mennonite."
       }
     ],
     "k": "mennonites"
@@ -16726,7 +16726,7 @@
     "segs": [{"k": "m", "t": "Liệt truyện các thánh."}],
     "k": "menology(-ion)"
   },
-  {"h": "menometrorrhagia", "segs": [{"k": "m", "t": "Ða kinh kéo dài."}], "k": "menometrorrhagia"},
+  {"h": "menometrorrhagia", "segs": [{"k": "m", "t": "Đa kinh kéo dài."}], "k": "menometrorrhagia"},
   {
     "h": "Menominee (1)",
     "segs": [
@@ -16833,7 +16833,7 @@
   {"h": "menorrhalgia", "segs": [{"k": "m", "t": "(chứng) đau kinh."}], "k": "menorrhalgia"},
   {
     "h": "menorrhea",
-    "segs": [{"k": "m", "t": "Kinh nguyệt"}, {"k": "m", "t": "Ða kinh nguyệt."}],
+    "segs": [{"k": "m", "t": "Kinh nguyệt"}, {"k": "m", "t": "Đa kinh nguyệt."}],
     "k": "menorrhea"
   },
   {
@@ -17085,7 +17085,7 @@
   },
   {
     "h": "menstrual colic",
-    "segs": [{"k": "m", "t": "Ðau bụng kinh nguyệt."}],
+    "segs": [{"k": "m", "t": "Đau bụng kinh nguyệt."}],
     "k": "menstrual colic"
   },
   {"h": "menstrual cycle", "segs": [{"k": "m", "t": "chu kỳ kinh nguyệt."}], "k": "menstrual cycle"},
@@ -17097,7 +17097,7 @@
   {"h": "menstrual edema", "segs": [{"k": "m", "t": "Phù kinh nguyệt."}], "k": "menstrual edema"},
   {
     "h": "menstrual epilepsy",
-    "segs": [{"k": "m", "t": "Ðộng kinh kinh nguyệt."}],
+    "segs": [{"k": "m", "t": "Động kinh kinh nguyệt."}],
     "k": "menstrual epilepsy"
   },
   {"h": "menstrual flux", "segs": [{"k": "m", "t": "Kinh nguyệt."}], "k": "menstrual flux"},
@@ -17272,7 +17272,7 @@
     "ipa": "'mentl ə'riθmetik",
     "k": "mental arithmetic"
   },
-  {"h": "mental artery", "segs": [{"k": "m", "t": "Ðộng mạch cằm."}], "k": "mental artery"},
+  {"h": "mental artery", "segs": [{"k": "m", "t": "Động mạch cằm."}], "k": "mental artery"},
   {
     "h": "mental asylum",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "bệnh viện tâm thần."}],
@@ -17314,7 +17314,7 @@
     "k": "mental cruelty"
   },
   {"h": "mental damage", "segs": [{"k": "m", "t": "thiệt hại về tinh thần."}], "k": "mental damage"},
-  {"h": "mental deafness", "segs": [{"k": "m", "t": "Ðiếc tâm thần."}], "k": "mental deafness"},
+  {"h": "mental deafness", "segs": [{"k": "m", "t": "Điếc tâm thần."}], "k": "mental deafness"},
   {
     "h": "mental deficiency",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "bệnh trí lực sút kém."}],
@@ -17746,7 +17746,7 @@
   },
   {
     "h": "mento-occipital diameter",
-    "segs": [{"k": "m", "t": "Ðường kính chẩm cằm."}],
+    "segs": [{"k": "m", "t": "Đường kính chẩm cằm."}],
     "k": "mento-occipital diameter"
   },
   {"h": "mentol", "segs": [{"k": "m", "t": "long não, bạc hà."}], "k": "mentol"},
@@ -17755,7 +17755,7 @@
   {"h": "mentolabial groove", "segs": [{"k": "m", "t": "Rãnh cằm môi."}], "k": "mentolabial groove"},
   {
     "h": "mentoparietal diameter",
-    "segs": [{"k": "m", "t": "Ðường kính cằm đỉnh."}],
+    "segs": [{"k": "m", "t": "Đường kính cằm đỉnh."}],
     "k": "mentoparietal diameter"
   },
   {"h": "mentoposterior", "segs": [{"k": "m", "t": "Cằm-sau."}], "k": "mentoposterior"},
@@ -18337,7 +18337,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(khoảng 1620-1687) nhà toán học, thiên văn học và kỹ sư Ðức. Ông học và làm việc tại Copenhague. Vào khoảng 1660 ông đến London, tại đó ông được bầu hội viên Hội hoàng gia London. Sau cùng, ông làm việc tại Paris. Tác phẩm toán học cơ bản \"Logarit kỹ thuật\" (1668) chứa đựng phép khai triển ln(1+x) thành chuỗi, đó là thí dụ đầu tiên (sau cấp số nhân) về khai triển thành chuỗi lũy thừa."
+        "t": "(khoảng 1620-1687) nhà toán học, thiên văn học và kỹ sư Đức. Ông học và làm việc tại Copenhague. Vào khoảng 1660 ông đến London, tại đó ông được bầu hội viên Hội hoàng gia London. Sau cùng, ông làm việc tại Paris. Tác phẩm toán học cơ bản \"Logarit kỹ thuật\" (1668) chứa đựng phép khai triển ln(1+x) thành chuỗi, đó là thí dụ đầu tiên (sau cấp số nhân) về khai triển thành chuỗi lũy thừa."
       }
     ],
     "k": "mercator (kaufmann) nikolaus"
@@ -18417,7 +18417,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Tu sĩ Dòng Ðức Bà thương xót (chuộc kẻ làm tôi/nô lệ); dòng nữ ÐứcBà thương xót (thừa sai)."
+        "t": "Tu sĩ Dòng Đức Bà thương xót (chuộc kẻ làm tôi/nô lệ); dòng nữ ĐứcBà thương xót (thừa sai)."
       }
     ],
     "k": "mercedarians"
@@ -18835,7 +18835,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Lúc đầu thuật ngữ này được dùng để chỉ bất cứ thương gia người Anh nào tham gia vào công việc ngoại thương. Những người đầu cơ đã hợp lại thành một công ty thương mại năm 1407 và họ đã phát đạt trong thế kỷ thứ 15 và 16. Nó bắt nguồn từ các nhóm thương gia không được tổ chức chặt chẽ tại các thành phố cảng chính của Anh, họ là những người bán vải cho lục địa châu Âu, đặc biệt là bán cho Hà Lan. Họ nhân được sự cho phép của nhà vua tại các thành phố như là Bristol (1467) và London (1505), và tại các khu định cư của người châu Âu. Họ trở thành những người chi phối nền ngoại thương của England, loại bỏ các đối thủ là những thương gia người Ðức thuộc phường hội Hanse (Hanseatic League: một mạng lưới mậu dịch kết hợp nhiều thành phố). Cho đến năm 1564, thị trường chủ yếu ở lục địa của họ là Antwerp, một thủ phủ thương mại ở tây-bắc châu Âu. Từ năm 1611, họ biến Hamburg thành trung tâm thương mại ở nước ngoài của họ, nhưng căn cứ chính lâu dài của họ vẫn là London. Họ là những bậc tiền bối của các công ty lớn được hoàng gia công nhận, và trở nên kém quan trọng trong thế kỷ 18."
+        "t": "Lúc đầu thuật ngữ này được dùng để chỉ bất cứ thương gia người Anh nào tham gia vào công việc ngoại thương. Những người đầu cơ đã hợp lại thành một công ty thương mại năm 1407 và họ đã phát đạt trong thế kỷ thứ 15 và 16. Nó bắt nguồn từ các nhóm thương gia không được tổ chức chặt chẽ tại các thành phố cảng chính của Anh, họ là những người bán vải cho lục địa châu Âu, đặc biệt là bán cho Hà Lan. Họ nhân được sự cho phép của nhà vua tại các thành phố như là Bristol (1467) và London (1505), và tại các khu định cư của người châu Âu. Họ trở thành những người chi phối nền ngoại thương của England, loại bỏ các đối thủ là những thương gia người Đức thuộc phường hội Hanse (Hanseatic League: một mạng lưới mậu dịch kết hợp nhiều thành phố). Cho đến năm 1564, thị trường chủ yếu ở lục địa của họ là Antwerp, một thủ phủ thương mại ở tây-bắc châu Âu. Từ năm 1611, họ biến Hamburg thành trung tâm thương mại ở nước ngoài của họ, nhưng căn cứ chính lâu dài của họ vẫn là London. Họ là những bậc tiền bối của các công ty lớn được hoàng gia công nhận, và trở nên kém quan trọng trong thế kỷ 18."
       }
     ],
     "k": "merchant adventurer"
@@ -19219,7 +19219,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Portuguese, \"Mercosul\") Một tổ chức thương mại ở Nam Mỹ Ðược thành lập vào tháng 3/1991, với mục đích là tạo ra một thị trường chung trong vùng. Các quốc gia thành viên của Mercosur là Argentina, Brazil, Paraguay, và Uruguay. Sau những cuộc điều đình về thuế kéo dài, cuối cùng, một hiệp định chung giữa các chính phủ về thuế quan đã được ký kết vào ngày 17 Tháng 12-1994 và Mercosur bắt đầu hoạt động vào ngày 1/1/1995. Chile gia nhập với vai trò là một thành viên phụ năm 1996. Mercosur và Liên Minh châu Âu đã ký kết một thỏa thuận hợp tác trong năm 1995 và cam kết mở rộng các cuộc điều đình để tạo ra vùng mậu dịch tự do Mercosur-châu Âu về sau."
+        "t": "(Portuguese, \"Mercosul\") Một tổ chức thương mại ở Nam Mỹ Được thành lập vào tháng 3/1991, với mục đích là tạo ra một thị trường chung trong vùng. Các quốc gia thành viên của Mercosur là Argentina, Brazil, Paraguay, và Uruguay. Sau những cuộc điều đình về thuế kéo dài, cuối cùng, một hiệp định chung giữa các chính phủ về thuế quan đã được ký kết vào ngày 17 Tháng 12-1994 và Mercosur bắt đầu hoạt động vào ngày 1/1/1995. Chile gia nhập với vai trò là một thành viên phụ năm 1996. Mercosur và Liên Minh châu Âu đã ký kết một thỏa thuận hợp tác trong năm 1995 và cam kết mở rộng các cuộc điều đình để tạo ra vùng mậu dịch tự do Mercosur-châu Âu về sau."
       }
     ],
     "k": "mercosur"
@@ -19330,7 +19330,7 @@
   },
   {
     "h": "mercurialized",
-    "segs": [{"k": "m", "t": "Ðiều trị thủy ngân"}, {"k": "m", "t": "Chứa thủy ngân."}],
+    "segs": [{"k": "m", "t": "Điều trị thủy ngân"}, {"k": "m", "t": "Chứa thủy ngân."}],
     "k": "mercurialized"
   },
   {
@@ -19977,7 +19977,7 @@
   {"h": "mercyru cell", "segs": [{"k": "m", "t": "bình điện có thủy ngân."}], "k": "mercyru cell"},
   {
     "h": "merdian",
-    "segs": [{"k": "m", "t": "(dt) Ðường kinh tuyến."}],
+    "segs": [{"k": "m", "t": "(dt) Đường kinh tuyến."}],
     "ipa": "məɛridiən",
     "k": "merdian"
   },
@@ -20184,7 +20184,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sáp nhập tài sản. Việc tài sản của nhiều chủ sở hữu khác nhau được sáp nhập vào nhau tạo thành vật mới không phân chia được. Nếu các tài sản đem sáp nhập không thể xác định được vật nào là vật chính, vật nào là vật phụ, thì vật mới tạo thành là tài sản thuộc sở hữu chung. Nếu các tại sản đem sáp nhập có thể xác định được vật chính, vật phụ, thì vật mới tạo thành thuộc chủ sở hữu vật chính, chủ sở hữu vật phụ đó (Ðiều 244 Bộ luật dân sự)."
+        "t": "sáp nhập tài sản. Việc tài sản của nhiều chủ sở hữu khác nhau được sáp nhập vào nhau tạo thành vật mới không phân chia được. Nếu các tài sản đem sáp nhập không thể xác định được vật nào là vật chính, vật nào là vật phụ, thì vật mới tạo thành là tài sản thuộc sở hữu chung. Nếu các tại sản đem sáp nhập có thể xác định được vật chính, vật phụ, thì vật mới tạo thành thuộc chủ sở hữu vật chính, chủ sở hữu vật phụ đó (Điều 244 Bộ luật dân sự)."
       }
     ],
     "k": "merge of property"
@@ -20798,7 +20798,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một đô thị cổ bên bờ sông Nile, nằm ở phía bắc và cách Khartoum khoảng chừng 200 km. Nó là kinh đô của vương quốc Kush từ đầu thế kỷ thứ 6 trước Công Nguyên cho đến khoảng năm 320-25 Công Nguyên khi có vẻ như nó rơi vào tay những kẻ chinh phục đến từ Axum. Những cuộc khai quật đã làm lộ ra những phế tích rộng lớn của đô thị cổ này. Bao gồm các lâu đài, đền thờ, nhà cửa, đường sá, các nhà tắm, và không xa nơi này là các kim tự tháp. Ðây là một trung tâm chế tác sắt quan trọng vào khoảng năm 500 trước Công Nguyên."
+        "t": "Một đô thị cổ bên bờ sông Nile, nằm ở phía bắc và cách Khartoum khoảng chừng 200 km. Nó là kinh đô của vương quốc Kush từ đầu thế kỷ thứ 6 trước Công Nguyên cho đến khoảng năm 320-25 Công Nguyên khi có vẻ như nó rơi vào tay những kẻ chinh phục đến từ Axum. Những cuộc khai quật đã làm lộ ra những phế tích rộng lớn của đô thị cổ này. Bao gồm các lâu đài, đền thờ, nhà cửa, đường sá, các nhà tắm, và không xa nơi này là các kim tự tháp. Đây là một trung tâm chế tác sắt quan trọng vào khoảng năm 500 trước Công Nguyên."
       }
     ],
     "k": "mero"
@@ -22062,7 +22062,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Kỹ thuật của các nền văn minh hiện diện ở vùng trung tâm của Bắc, Nam, và Trung Mỹ trước khi người châu Âu khám phá lục địa này vào thế kỷ thứ 16. Người Maya ở phía bắc vùng Trung Mỹ phát triển một nền văn minh đô thị từ khoảng năm 300 trước Công Nguyên, với các thành phố có mật độ cư dân lên đến 40.000 và các hệ thống dẫn thủy nhập điền rất phát triển và làm ruộng theo lối bậc thang. Các kiến trúc chủ yếu là những kim tự tháp có đỉnh bằng để xây dựng các đền thờ bên trên. Những kiến trúc này cùng nhiều công trình khác thường làm bằng đá có trát một hỗn hợp vôi và tô vữa, và sau đó là sơn phết. Nhiều nhà có bể chứa nước uống bên dưới mặt đất. Vào khoảng giữa thời gian từ 1476 đến 1525, đế chế Inca ở phía tây Nam Mỹ vươn đến thời cực thịnh của nó. Ðế chế này chỉ có một ít khu định cư lớn, nhưng họ có các hệ thống nông nghiệp, dẫn thủy nhập điền, và giao thông đường bộ phát triển tốt. Họ chưa có chữ viết nhưng biết sử dụng những sợi dây thắt nút (quipu) để ghi lại các con số. Người Aztec ở Trung Mỹ (thế kỷ 13-16) đã phát triển những cộng đồng thị dân rất lớn (đến 250.000 người), và một nền nông nghiệp và thương nghiệp phức tạp. Thành phố chính TenochtitLin (nay là Mexico City) được xây dựng trên vùng đầm lầy khai hoang, và họ đã xây dựng các con đê, đào sông, đặt ống và làm các cống dẫn nước để lấy nước uống và tưới ruộng."
+        "t": "Kỹ thuật của các nền văn minh hiện diện ở vùng trung tâm của Bắc, Nam, và Trung Mỹ trước khi người châu Âu khám phá lục địa này vào thế kỷ thứ 16. Người Maya ở phía bắc vùng Trung Mỹ phát triển một nền văn minh đô thị từ khoảng năm 300 trước Công Nguyên, với các thành phố có mật độ cư dân lên đến 40.000 và các hệ thống dẫn thủy nhập điền rất phát triển và làm ruộng theo lối bậc thang. Các kiến trúc chủ yếu là những kim tự tháp có đỉnh bằng để xây dựng các đền thờ bên trên. Những kiến trúc này cùng nhiều công trình khác thường làm bằng đá có trát một hỗn hợp vôi và tô vữa, và sau đó là sơn phết. Nhiều nhà có bể chứa nước uống bên dưới mặt đất. Vào khoảng giữa thời gian từ 1476 đến 1525, đế chế Inca ở phía tây Nam Mỹ vươn đến thời cực thịnh của nó. Đế chế này chỉ có một ít khu định cư lớn, nhưng họ có các hệ thống nông nghiệp, dẫn thủy nhập điền, và giao thông đường bộ phát triển tốt. Họ chưa có chữ viết nhưng biết sử dụng những sợi dây thắt nút (quipu) để ghi lại các con số. Người Aztec ở Trung Mỹ (thế kỷ 13-16) đã phát triển những cộng đồng thị dân rất lớn (đến 250.000 người), và một nền nông nghiệp và thương nghiệp phức tạp. Thành phố chính TenochtitLin (nay là Mexico City) được xây dựng trên vùng đầm lầy khai hoang, và họ đã xây dựng các con đê, đào sông, đặt ống và làm các cống dẫn nước để lấy nước uống và tưới ruộng."
       }
     ],
     "k": "mesoamerican technology"
@@ -22344,7 +22344,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Thời Kỳ Ðồ Ðá Giữa, thời kỳ chuyển tiếp nằm giữa thời kỳ đồ đá cũ và thời kỳ đồ đá mới. Cư dân thuộc thời kỳ này là những nhóm người sinh sống bằng cách săn bắn và hái lượm, họ sống cách nay vào khoảng 10.000 năm, lúc khí hậu trở nên ấm hơn vào cuối thời kỳ băng hà. Thuật ngữ này ứng dụng xứng hợp nhất cho phía tây châu Âu, nơi các xã hội săn bắn thuộc thời kỳ đồ đá giữa vẫn tiếp tục tồn tại đồng thời với các nhóm sống với nghề nông ở xa hơn về phía đông."
+        "t": "Thời Kỳ Đồ Đá Giữa, thời kỳ chuyển tiếp nằm giữa thời kỳ đồ đá cũ và thời kỳ đồ đá mới. Cư dân thuộc thời kỳ này là những nhóm người sinh sống bằng cách săn bắn và hái lượm, họ sống cách nay vào khoảng 10.000 năm, lúc khí hậu trở nên ấm hơn vào cuối thời kỳ băng hà. Thuật ngữ này ứng dụng xứng hợp nhất cho phía tây châu Âu, nơi các xã hội săn bắn thuộc thời kỳ đồ đá giữa vẫn tiếp tục tồn tại đồng thời với các nhóm sống với nghề nông ở xa hơn về phía đông."
       }
     ],
     "k": "mesolithic"
@@ -22516,7 +22516,7 @@
   },
   {"h": "mesophillc", "segs": [{"k": "m", "t": "ưa nhiệt độ trung bình."}], "k": "mesophillc"},
   {"h": "mesophlebitis", "segs": [{"k": "m", "t": "Viêm áo giữa tĩnh mạch."}], "k": "mesophlebitis"},
-  {"h": "mesophryon", "segs": [{"k": "m", "t": "Ðiểm ụ trán gian mày."}], "k": "mesophryon"},
+  {"h": "mesophryon", "segs": [{"k": "m", "t": "Điểm ụ trán gian mày."}], "k": "mesophryon"},
   {"h": "mesophyl", "segs": [{"k": "m", "t": "thịt lá, diệp nhục."}], "k": "mesophyl"},
   {
     "h": "mesophyll",
@@ -22567,7 +22567,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(có từ tiếng Hy Lạp, \"giữa các con sông\") Vùng đất nằm giữa sông Euphrates và Tigris ở Trung Ðông. Vùng này thường được nhắc đến như là \"nôi của văn minh\" vì có nhiều nền văn minh cổ đã phát triển tại đây. Vào khoảng cuối thiên niên kỷ thứ tư trước Công Nguyên, một số quốc đô (city-state: một quốc gia độc lập chỉ có một thành phố đồng thời cũng là kinh thành, nơi vua ở, và nhiều lãnh thổ phụ thuộc bao quanh) được thiết lập bởi người Sumerian ở miền nam, nơi có nền nông nghiệp (thuận lợi về mặt dẫn nước tưới ruộng), thương mại, và công nghiệp phát triển. Ðế chế Mesopotamia đầu tiên được thiết lập vào khoảng năm 2350 trước Công Nguyên nhờ nỗ lực của Sargon, một người ở vùng Akkad, và kéo dài được khoảng 150 năm. Ðế chế thứ hai đặt trung tâm tại thành phố UR của người Sumer vào khoảng năm 2150 đến 2000. Sau đó, vùng này chịu sự chi phối của những người Amorite đến từ Canaan, một đế quốc mới, được thiết lập bởi Sumuabum vào năm 1894 trước Công Nguyên với trung tâm ở Babylon. Vào thời này, Bắc Mesopotamia bị những người Assyrian chiếm đóng. Cả hai thế lực bị suy yếu khi xuất hiện thêm những kẻ xâm lược đến từ phương bắc trong nửa sau của thiên niên kỷ thứ hai trước Công Nguyên, nhưng người Assyria lại nổi lên tạo nên một đế quốc lớn (744-609) trải rộng đến tận Ai Cập. Ðế quốc này bị tan vỡ bởi triều đại Chaldean của Babylon, là triều đại cũng thiết lập sự cai trị đến tận Ðịa Trung Hải cho đến khi bị chinh phục bởi Cyrus II năm 539. Từ đó trở đi, Mesopotamia nằm dưới sự bảo hộ của nhiều đế quốc lớn-các vua thuộc triều đại Achaemenid, các vua thuộc triều đại Seleucid, những người đến từ Parthian, và các vua thuộc triều đại Sassanian. Sự chinh phục của người Ả Rập (635-37), theo sau là một thế kỷ có nhiều mâu thuẫn trong nội bộ Hồi Giáo với Syria. Mâu thuẫn lên đến cực điểm khi triều đại Abbasid xây dựng thủ đô mới là Baghdad. Mesopotamia bị người Mông Cổ tàn phá năm 1258 và 1401. Cuối cùng nó trở thành một vùng đất được cai trị của đế quốc Ottoman. Mesopotamia là một vùng đất quan trọng, chủ yếu vì nó là một trong những cái nôi của nền văn minh lớn thời cổ. Nơi đây lối sống đô thị và chữ viết được cho là xuất hiện đầu tiên. Những cuộc khai quật đã làm lộ ra nhiều di sản mỹ thuật của vùng này."
+        "t": "(có từ tiếng Hy Lạp, \"giữa các con sông\") Vùng đất nằm giữa sông Euphrates và Tigris ở Trung Đông. Vùng này thường được nhắc đến như là \"nôi của văn minh\" vì có nhiều nền văn minh cổ đã phát triển tại đây. Vào khoảng cuối thiên niên kỷ thứ tư trước Công Nguyên, một số quốc đô (city-state: một quốc gia độc lập chỉ có một thành phố đồng thời cũng là kinh thành, nơi vua ở, và nhiều lãnh thổ phụ thuộc bao quanh) được thiết lập bởi người Sumerian ở miền nam, nơi có nền nông nghiệp (thuận lợi về mặt dẫn nước tưới ruộng), thương mại, và công nghiệp phát triển. Đế chế Mesopotamia đầu tiên được thiết lập vào khoảng năm 2350 trước Công Nguyên nhờ nỗ lực của Sargon, một người ở vùng Akkad, và kéo dài được khoảng 150 năm. Đế chế thứ hai đặt trung tâm tại thành phố UR của người Sumer vào khoảng năm 2150 đến 2000. Sau đó, vùng này chịu sự chi phối của những người Amorite đến từ Canaan, một đế quốc mới, được thiết lập bởi Sumuabum vào năm 1894 trước Công Nguyên với trung tâm ở Babylon. Vào thời này, Bắc Mesopotamia bị những người Assyrian chiếm đóng. Cả hai thế lực bị suy yếu khi xuất hiện thêm những kẻ xâm lược đến từ phương bắc trong nửa sau của thiên niên kỷ thứ hai trước Công Nguyên, nhưng người Assyria lại nổi lên tạo nên một đế quốc lớn (744-609) trải rộng đến tận Ai Cập. Đế quốc này bị tan vỡ bởi triều đại Chaldean của Babylon, là triều đại cũng thiết lập sự cai trị đến tận Địa Trung Hải cho đến khi bị chinh phục bởi Cyrus II năm 539. Từ đó trở đi, Mesopotamia nằm dưới sự bảo hộ của nhiều đế quốc lớn-các vua thuộc triều đại Achaemenid, các vua thuộc triều đại Seleucid, những người đến từ Parthian, và các vua thuộc triều đại Sassanian. Sự chinh phục của người Ả Rập (635-37), theo sau là một thế kỷ có nhiều mâu thuẫn trong nội bộ Hồi Giáo với Syria. Mâu thuẫn lên đến cực điểm khi triều đại Abbasid xây dựng thủ đô mới là Baghdad. Mesopotamia bị người Mông Cổ tàn phá năm 1258 và 1401. Cuối cùng nó trở thành một vùng đất được cai trị của đế quốc Ottoman. Mesopotamia là một vùng đất quan trọng, chủ yếu vì nó là một trong những cái nôi của nền văn minh lớn thời cổ. Nơi đây lối sống đô thị và chữ viết được cho là xuất hiện đầu tiên. Những cuộc khai quật đã làm lộ ra nhiều di sản mỹ thuật của vùng này."
       }
     ],
     "k": "mesopotamia"
@@ -22577,7 +22577,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Thế chiến thứ nhất) Chiến dịch Mesopotamia, một chiến dịch quân sự của người Anh nhằm chống lại những người Thổ thuộc đế quốc Ottoman ở Mesopotamia (miền nam Iraq). Năm 1913, nước Anh đã chiếm được vùng đất có mỏ dầu ở Ba Tư (nay là Iran), và khi chiến tranh bùng nổ vào năm 1914, nước này vừa phải quan tâm đến việc bảo vệ các vùng đất có mỏ dầu lẫn đường đi đến Ấn Ðộ. Khi thổ Nhĩ Kỳ tham chiến vào tháng 10-1914, các đội quân của Anh và Ấn Ðộ chiếm thành phố cảng Basra ở Mesopotamia. Họ bắt đầu tiến về phía Baghdad, nhưng đã phải dừng lại và phải chịu đựng tai họa ở Kut. Nam tước Frederick Maude giành lại được Kut vào tháng 2/1917, vào thành Baghdad ngày 11 tháng 3. Một liên quân được hình thành từ nhiều đội quân khác nhau của Anh đến được các vùng mỏ dầu ở Baku (tháng 5/1918), nơi họ chiếm giữ cho đến khi người Thổ tái chiếm vùng này vào tháng 10. Thêm một liên quân di chuyển lên phía thượng nguồn sông để bắt giữ Ramadi (September 1917) và một liên quân khác lên phía thượng nguồn sông Tigris đến tận Tikrit (tháng 7/1918), trước khi tiến về phía Mosul. Trong lúc đó, Nam tước Edmund Allenby tiến về hướng bắc vào Palestine và Syria, được sự giúp đỡ của quân kháng chiến người Ả Rập do T. E. Lawrence lãnh đạo. Ông mở một chiến dịch dẫn đến sự suy sụp của quân đội Thổ Nhĩ Kỳ vào tháng 10-1918. Sau thỏa thuận ngưng bắn Mudros (30 tháng 10), các đội quân Anh nhanh chóng chiếm lại Baku (từ tháng 11-1918 đến tháng 8/1919), nhằm loại bỏ những người Bolshevik ra khỏi nguồn dầu của nó và sử dụng nó làm căn cứ trong cuộc nội chiến ở Nga. Lúc đó, người Anh chiếm toàn bộ lãnh thổ, và có lúc đã xem xét đến khả năng tạo ra sự thống trị đơn độc của họ trên vùng đất gồm Palestine, Jordan, Iraq, và Iran, nối liền Ai Cập với Ấn Ðộ, nhằm tạo ra một bức tường thành chống lại chủ nghĩa Bolshevik."
+        "t": "(Thế chiến thứ nhất) Chiến dịch Mesopotamia, một chiến dịch quân sự của người Anh nhằm chống lại những người Thổ thuộc đế quốc Ottoman ở Mesopotamia (miền nam Iraq). Năm 1913, nước Anh đã chiếm được vùng đất có mỏ dầu ở Ba Tư (nay là Iran), và khi chiến tranh bùng nổ vào năm 1914, nước này vừa phải quan tâm đến việc bảo vệ các vùng đất có mỏ dầu lẫn đường đi đến Ấn Độ. Khi thổ Nhĩ Kỳ tham chiến vào tháng 10-1914, các đội quân của Anh và Ấn Độ chiếm thành phố cảng Basra ở Mesopotamia. Họ bắt đầu tiến về phía Baghdad, nhưng đã phải dừng lại và phải chịu đựng tai họa ở Kut. Nam tước Frederick Maude giành lại được Kut vào tháng 2/1917, vào thành Baghdad ngày 11 tháng 3. Một liên quân được hình thành từ nhiều đội quân khác nhau của Anh đến được các vùng mỏ dầu ở Baku (tháng 5/1918), nơi họ chiếm giữ cho đến khi người Thổ tái chiếm vùng này vào tháng 10. Thêm một liên quân di chuyển lên phía thượng nguồn sông để bắt giữ Ramadi (September 1917) và một liên quân khác lên phía thượng nguồn sông Tigris đến tận Tikrit (tháng 7/1918), trước khi tiến về phía Mosul. Trong lúc đó, Nam tước Edmund Allenby tiến về hướng bắc vào Palestine và Syria, được sự giúp đỡ của quân kháng chiến người Ả Rập do T. E. Lawrence lãnh đạo. Ông mở một chiến dịch dẫn đến sự suy sụp của quân đội Thổ Nhĩ Kỳ vào tháng 10-1918. Sau thỏa thuận ngưng bắn Mudros (30 tháng 10), các đội quân Anh nhanh chóng chiếm lại Baku (từ tháng 11-1918 đến tháng 8/1919), nhằm loại bỏ những người Bolshevik ra khỏi nguồn dầu của nó và sử dụng nó làm căn cứ trong cuộc nội chiến ở Nga. Lúc đó, người Anh chiếm toàn bộ lãnh thổ, và có lúc đã xem xét đến khả năng tạo ra sự thống trị đơn độc của họ trên vùng đất gồm Palestine, Jordan, Iraq, và Iran, nối liền Ai Cập với Ấn Độ, nhằm tạo ra một bức tường thành chống lại chủ nghĩa Bolshevik."
       }
     ],
     "k": "mesopotamia campaign"
@@ -23608,7 +23608,7 @@
   },
   {
     "h": "Messalianism",
-    "segs": [{"k": "m", "t": "Phái duy cầu nguyện (Ðông phương)."}],
+    "segs": [{"k": "m", "t": "Phái duy cầu nguyện (Đông phương)."}],
     "k": "messalianism"
   },
   {
@@ -23689,7 +23689,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "vị cứu tinh"},
-      {"k": "ex", "t": "the Messiah", "vi": "Ðấng Cứu thế"},
+      {"k": "ex", "t": "the Messiah", "vi": "Đấng Cứu thế"},
       {"k": "m", "t": "Chúa Cứu thế."}
     ],
     "ipa": "mi'saiə",
@@ -23700,7 +23700,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðức Mêsia, Ðấng Thiên sai (tiếng Hy lạp dịch là CristóV: Kitô, Ðấng chịu xức dầu)."
+        "t": "Đức Mêsia, Đấng Thiên sai (tiếng Hy lạp dịch là CristóV: Kitô, Đấng chịu xức dầu)."
       }
     ],
     "k": "messiah or messias"
@@ -23724,7 +23724,7 @@
   },
   {
     "h": "messianic secret",
-    "segs": [{"k": "m", "t": "bí mật về Ðấng Thiên sai (một đặc điểm của Phúc Âm thánh Mác-cô)."}],
+    "segs": [{"k": "m", "t": "bí mật về Đấng Thiên sai (một đặc điểm của Phúc Âm thánh Mác-cô)."}],
     "k": "messianic secret"
   },
   {
@@ -23844,7 +23844,7 @@
     "h": "mestizo",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người Bồ Ðào Nha hoặc Tây Ban Nha lai thổ dân Mỹ."}
+      {"k": "m", "t": "người Bồ Đào Nha hoặc Tây Ban Nha lai thổ dân Mỹ."}
     ],
     "ipa": "mes'ti:zou",
     "k": "mestizo"
@@ -23860,7 +23860,7 @@
       {"k": "m", "t": "meet"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the met", "vi": ") cảnh sát Luân Ðôn (thủ đô nước Anh)."}
+      {"k": "ex", "t": "the met", "vi": ") cảnh sát Luân Đôn (thủ đô nước Anh)."}
     ],
     "ipa": "met",
     "k": "met",
@@ -24776,7 +24776,7 @@
     "h": "Metal Bulletin",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "Tập san Kim thuộc (Luân Ðôn, Anh Quốc)"}
+      {"k": "m", "t": "Tập san Kim thuộc (Luân Đôn, Anh Quốc)"}
     ],
     "k": "metal bulletin"
   },
@@ -27369,7 +27369,7 @@
   },
   {
     "h": "metaplexus",
-    "segs": [{"k": "m", "t": "Ðám rối màng mạch não thất IV."}],
+    "segs": [{"k": "m", "t": "Đám rối màng mạch não thất IV."}],
     "k": "metaplexus"
   },
   {"h": "metapneumonic", "segs": [{"k": "m", "t": "Sau viêm phổi."}], "k": "metapneumonic"},
@@ -27884,9 +27884,9 @@
     "k": "metayage"
   },
   {"h": "metazeunerite", "segs": [{"k": "m", "t": "mêtazơnêrít."}], "k": "metazeunerite"},
-  {"h": "metazoa", "segs": [{"k": "m", "t": "Ðộng vật đa bào."}], "k": "metazoa"},
+  {"h": "metazoa", "segs": [{"k": "m", "t": "Động vật đa bào."}], "k": "metazoa"},
   {"h": "metazoal", "segs": [{"k": "m", "t": "(thuộc) động vật đa bào."}], "k": "metazoal"},
-  {"h": "metazoan", "segs": [{"k": "m", "t": "Ðộng vật đa bào."}], "k": "metazoan"},
+  {"h": "metazoan", "segs": [{"k": "m", "t": "Động vật đa bào."}], "k": "metazoan"},
   {
     "h": "metazoic",
     "segs": [{"k": "m", "t": "a. (zo?l.) of or pertaining to the metazoa."}],
@@ -29886,7 +29886,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Giáo Hội Giám Lý, Một phong trào của người Tin Lành do John Wesley thành lập ở thế kỷ thứ 18. Ðặt trọng tâm vào mối quan hệ riêng tư đối với Thượng Ðế của cá nhân tín đồ, Wesley đã tổ chức các tín hữu thành \"các hội\" với những cuộc gặp mặt theo nhóm đầy xúc cảm, mà sự tham gia vào những cuộc gặp mặt này là điều kiện bắt buộc đối với các thành viên của hội. Wesley mong muốn các tín hữu vẫn nằm trong giáo hội Anh Giáo, nhưng sau khi ông chết, sự chống đối của các tín đồ thuộc giáo hội Giám Lý đối với học thuyết thuộc thần học và quyền lực truyền thống của giáo sĩ đã dẫn đến việc giáo hội Giám Lý phát triển thành một giáo hội riêng. Ở xứ Wales, sự hồi sinh của tôn giáo này được ủng hộ bởi Howel Harris và Daniel Rowlands vào thế kỷ thứ 18. Sự kiện này dẫn đến việc thiết lập hội Giám Lý vào năm 1811, với ưu thế nghiêng về những người theo thuyết Calvin. Giáo hội này đã phải trải qua nhiều lần ly khai trong nội bộ. Ðặc biệt là của nhóm Tân Tiếp Xúc, hội Giám Lý Nguyên Thủy, và Thánh Kinh Hội. Ở Mỹ, giáo hội Giám Lý chia thành nhiều nhóm, chủ yếu là dựa vào thái độ đối với chế độ nô lệ. Ðến thế kỷ 20, nhiều nhóm giáo hội giám lý đã lại sáp nhập với nhau. Ðặc biệt là sự sáp nhập giữa Hội Giám Lý Wesley, Hội Giám Lý Nguyên Thủy, và Hội Giám Lý Hiệp Nhất như là Giáo Hội Giám Lý ở Anh năm 1932. Trong đó có cả sự hợp nhất của ba hội Giám lý như Giáo Hội Giám Lý ở Mỹ năm 1939. Giáo hội này sáp nhập với Giáo Hội Tín Hữu Phúc Âm Hiệp Nhất năm 1968 để hình thành Giáo Hội Giám Lý Hiệp Nhất. Giáo Hội Giám Lý Hiệp Nhất là giáo hội đơn độc lớn nhất. Nó có gần chín triệu thành viên năm 1989. Hội Ðồng Giáo hội Giám Lý Thế Giới được thành lập năm 1881, đem lại sự liên kết giữa 40 triệu tín đồ giám lý trên thế giới."
+        "t": "Giáo Hội Giám Lý, Một phong trào của người Tin Lành do John Wesley thành lập ở thế kỷ thứ 18. Đặt trọng tâm vào mối quan hệ riêng tư đối với Thượng Đế của cá nhân tín đồ, Wesley đã tổ chức các tín hữu thành \"các hội\" với những cuộc gặp mặt theo nhóm đầy xúc cảm, mà sự tham gia vào những cuộc gặp mặt này là điều kiện bắt buộc đối với các thành viên của hội. Wesley mong muốn các tín hữu vẫn nằm trong giáo hội Anh Giáo, nhưng sau khi ông chết, sự chống đối của các tín đồ thuộc giáo hội Giám Lý đối với học thuyết thuộc thần học và quyền lực truyền thống của giáo sĩ đã dẫn đến việc giáo hội Giám Lý phát triển thành một giáo hội riêng. Ở xứ Wales, sự hồi sinh của tôn giáo này được ủng hộ bởi Howel Harris và Daniel Rowlands vào thế kỷ thứ 18. Sự kiện này dẫn đến việc thiết lập hội Giám Lý vào năm 1811, với ưu thế nghiêng về những người theo thuyết Calvin. Giáo hội này đã phải trải qua nhiều lần ly khai trong nội bộ. Đặc biệt là của nhóm Tân Tiếp Xúc, hội Giám Lý Nguyên Thủy, và Thánh Kinh Hội. Ở Mỹ, giáo hội Giám Lý chia thành nhiều nhóm, chủ yếu là dựa vào thái độ đối với chế độ nô lệ. Đến thế kỷ 20, nhiều nhóm giáo hội giám lý đã lại sáp nhập với nhau. Đặc biệt là sự sáp nhập giữa Hội Giám Lý Wesley, Hội Giám Lý Nguyên Thủy, và Hội Giám Lý Hiệp Nhất như là Giáo Hội Giám Lý ở Anh năm 1932. Trong đó có cả sự hợp nhất của ba hội Giám lý như Giáo Hội Giám Lý ở Mỹ năm 1939. Giáo hội này sáp nhập với Giáo Hội Tín Hữu Phúc Âm Hiệp Nhất năm 1968 để hình thành Giáo Hội Giám Lý Hiệp Nhất. Giáo Hội Giám Lý Hiệp Nhất là giáo hội đơn độc lớn nhất. Nó có gần chín triệu thành viên năm 1989. Hội Đồng Giáo hội Giám Lý Thế Giới được thành lập năm 1881, đem lại sự liên kết giữa 40 triệu tín đồ giám lý trên thế giới."
       }
     ],
     "k": "methodist church"
@@ -30209,7 +30209,7 @@
     ],
     "k": "methyl radical"
   },
-  {"h": "methyl red", "segs": [{"k": "m", "t": "Ðỏ metyl."}], "k": "methyl red"},
+  {"h": "methyl red", "segs": [{"k": "m", "t": "Đỏ metyl."}], "k": "methyl red"},
   {"h": "methyl red test", "segs": [{"k": "m", "t": "sự thử metryl đỏ."}], "k": "methyl red test"},
   {
     "h": "methyl rubber",
@@ -31241,7 +31241,7 @@
         "t": "Metropolitan France",
         "vi": "bản thân nước Pháp (không tính các thuộc địa của Pháp)"
       },
-      {"k": "m", "t": "nước mẹ Ðại Pháp"},
+      {"k": "m", "t": "nước mẹ Đại Pháp"},
       {"k": "m", "t": "chính quốc Pháp"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "người dân thủ đô"},
@@ -31703,7 +31703,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1910-1940) Cuộc cách mạng Mexico. Thời gian hỗn độn về chính trị và xã hội ở Mexico. Cội rễ của cuộc cách mạng bắt nguồn từ những thay đổi về nhân khẩu, kinh tế, và xã hội xảy ra trong thời gian cai trị của tổng thống Porfirio Diaz, được biết đến dưới tên gọi Porfiriato (1876-1911). Chính thể này trở thành trung ương tập quyền và độc tài. Nó ủng hộ những nhóm thiểu số có đặc quyền truyền thống và mới nổi lên. Nhưng nó đã thất bại trong việc lôi kéo tầng lớp thị dân trung lưu và các nhóm lao động đang lớn mạnh tham gia vào các hoạt động chính trị của quốc gia. Năm 1910, Francisco Madero, nhà lãnh đạo của phong trào chống tái ứng cử, đã nhận được sự đáp ứng nhiệt tình đối với lời kêu gọi vũ trang lật đổ chế độ độc tài do ông phát động. Mặc dầu Diaz đã từ chức vào tháng 5/1911, và Madero được bầu làm tổng thống, nhưng ông thất bại trong việc làm thỏa mãn những người triệt để ủng hộ ông, hoặc những kẻ thù ủng hộ cựu tổng thống Porfiriato. Vì thế ông bị ám sát trong một cuộc đảo chính phản cách mạng năm 1913 do tướng Victoriano Huerta cầm đầu. Huerta đã thất bại bởi lệnh cấm vũ trang của chính phủ, bởi sự thù địch về mặt ngoại giao từ phía Mỹ, và bởi một liên minh gồm các phe phái cách mạng được dẫn dắt bởi Emiliano Zapata, Pancho Villa, Venustiano Carranza, và Alvaro Obregon. Những nhà cách mạng chiến thắng đã chia ra thành phe ủng hộ chủ nghĩa hợp hiến (gồm Carranza and Obregon) theo đuổi việc cải cách Hiến Pháp Tự Do năm 1857, và phe ủng hộ hiệp định Aguascalientes (gồm Zapata và Villa) mong mỏi thực hiện những kế hoạch triệt để của hiệp định Aguascalientes (1914). Cuộc nội chiến xảy ra sau đó rất quyết liệt và kéo dài. Năm 1917, một hiến pháp cải tổ đã được công bố. Tuy nhiên, văn kiện này không được mấy người quan tâm, và sự chần chừ của Carranza đã dẫn đến việc ông bị hạ bệ và bị ám sát vào năm 1920. Những nhà lãnh đạo cách mạng mới của Mexico phải đối diện với nhiệm vụ khó khăn liên quan đến việc phục hồi kinh tế và xây dựng lại quyền lực chính trị trung ương. Họ bị ngăn trở bởi sự chống đối mạnh mẽ từ phía giáo hội Công Giáo. Sự căng thẳng lên đến cực điểm trong cái gọi là Cuộc Chiến Của Các Tín Ðồ Ki Tô Giáo (1928-1930), trong đó, hàng ngàn nông dân Ki Tô Giáo nổi lên chống lại nhà nước \"vô thần\". Cuối cùng họ đã bị đánh bại tại cuộc chiến diễn ra ở Reforma (1930). Khi tổng thống Avila Camacho (1940-1946) đắc cử, một giai đoạn củng cố và hòa giải bắt đầu, đánh dấu sự chấm dứt của cuộc cách mạng này."
+        "t": "(1910-1940) Cuộc cách mạng Mexico. Thời gian hỗn độn về chính trị và xã hội ở Mexico. Cội rễ của cuộc cách mạng bắt nguồn từ những thay đổi về nhân khẩu, kinh tế, và xã hội xảy ra trong thời gian cai trị của tổng thống Porfirio Diaz, được biết đến dưới tên gọi Porfiriato (1876-1911). Chính thể này trở thành trung ương tập quyền và độc tài. Nó ủng hộ những nhóm thiểu số có đặc quyền truyền thống và mới nổi lên. Nhưng nó đã thất bại trong việc lôi kéo tầng lớp thị dân trung lưu và các nhóm lao động đang lớn mạnh tham gia vào các hoạt động chính trị của quốc gia. Năm 1910, Francisco Madero, nhà lãnh đạo của phong trào chống tái ứng cử, đã nhận được sự đáp ứng nhiệt tình đối với lời kêu gọi vũ trang lật đổ chế độ độc tài do ông phát động. Mặc dầu Diaz đã từ chức vào tháng 5/1911, và Madero được bầu làm tổng thống, nhưng ông thất bại trong việc làm thỏa mãn những người triệt để ủng hộ ông, hoặc những kẻ thù ủng hộ cựu tổng thống Porfiriato. Vì thế ông bị ám sát trong một cuộc đảo chính phản cách mạng năm 1913 do tướng Victoriano Huerta cầm đầu. Huerta đã thất bại bởi lệnh cấm vũ trang của chính phủ, bởi sự thù địch về mặt ngoại giao từ phía Mỹ, và bởi một liên minh gồm các phe phái cách mạng được dẫn dắt bởi Emiliano Zapata, Pancho Villa, Venustiano Carranza, và Alvaro Obregon. Những nhà cách mạng chiến thắng đã chia ra thành phe ủng hộ chủ nghĩa hợp hiến (gồm Carranza and Obregon) theo đuổi việc cải cách Hiến Pháp Tự Do năm 1857, và phe ủng hộ hiệp định Aguascalientes (gồm Zapata và Villa) mong mỏi thực hiện những kế hoạch triệt để của hiệp định Aguascalientes (1914). Cuộc nội chiến xảy ra sau đó rất quyết liệt và kéo dài. Năm 1917, một hiến pháp cải tổ đã được công bố. Tuy nhiên, văn kiện này không được mấy người quan tâm, và sự chần chừ của Carranza đã dẫn đến việc ông bị hạ bệ và bị ám sát vào năm 1920. Những nhà lãnh đạo cách mạng mới của Mexico phải đối diện với nhiệm vụ khó khăn liên quan đến việc phục hồi kinh tế và xây dựng lại quyền lực chính trị trung ương. Họ bị ngăn trở bởi sự chống đối mạnh mẽ từ phía giáo hội Công Giáo. Sự căng thẳng lên đến cực điểm trong cái gọi là Cuộc Chiến Của Các Tín Đồ Ki Tô Giáo (1928-1930), trong đó, hàng ngàn nông dân Ki Tô Giáo nổi lên chống lại nhà nước \"vô thần\". Cuối cùng họ đã bị đánh bại tại cuộc chiến diễn ra ở Reforma (1930). Khi tổng thống Avila Camacho (1940-1946) đắc cử, một giai đoạn củng cố và hòa giải bắt đầu, đánh dấu sự chấm dứt của cuộc cách mạng này."
       }
     ],
     "k": "mexican revolution"
@@ -31826,11 +31826,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Quốc gia có một phần lãnh thổ nằm trên lục địa Bắc Mỹ. Nó tiếp giáp với nước Mỹ ở phía bắc, và một phần nằm trên phần đất thuộc Trung Mỹ, giáp ranh với Guatemala và Belize ở phía nam. Nó có một bờ biển kéo dài trên Ðại Tây Dương và Thái Bình Dương."
+        "t": "Quốc gia có một phần lãnh thổ nằm trên lục địa Bắc Mỹ. Nó tiếp giáp với nước Mỹ ở phía bắc, và một phần nằm trên phần đất thuộc Trung Mỹ, giáp ranh với Guatemala và Belize ở phía nam. Nó có một bờ biển kéo dài trên Đại Tây Dương và Thái Bình Dương."
       },
       {
         "k": "m",
-        "t": "Ðịa lý: Về mặt địa lý, Mexico chia thành nhiều vùng riêng biệt. Các eo đất thuộc Tehuantepec, cùng với vùng đồng bằng thuộc miền duyên hải phía đông và bán đảo Yucatan nhô về hướng đông-bắc, tạo thành vùng đất thấp chủ yếu. Ở vùng tây-bắc phía xa, bán đảo giống như những mảnh vụn ở Hạ California, với các dãy núi cao có sườn dốc lởm chởm, là phần vươn dài về hướng nam của dãy núi Sierra Nevada. Thế nên nó cũng là phần phía tây của dãy Sierra Madre trên đất liền. Trong khi phần phía đông của dãy Sierra Madre là phần nối dài của rặng Rocky Mountains. Phần đồng bằng hẹp quay mặt ra Thái Bình Dương ở phía tây bị che phủ phần lớn bởi rừng. Ðây cũng là nơi mà các vùng đất phía nam nhiều mưa cung cấp gỗ gụ. Ở những vùng trống trải người ta có thể trồng cây sisal và mía. Trên các vùng đất dốc thuộc miền núi, người ta trồng các loại nông sản như bông, cà phê, và thuốc lá. Giữa các vùng núi là cao nguyên, nơi có khí hậu ôn hòa thuận tiện cho sự tăng trưởng của các loài xương rồng. Có rất nhiều hồ rộng mà từ đó, các dòng nước chảy xiết thành những dòng lũ qua những hẻm núi sâu. Phần lớn lãnh thổ này phải chịu đựng những trận gió mậu dịch ẩm ướt đến từ phía đông vào giữa khoảng thời gian từ tháng 5 cho đến tháng 8, và những cơn bão nhiệt đới từ tháng 8 đến tháng 10."
+        "t": "Địa lý: Về mặt địa lý, Mexico chia thành nhiều vùng riêng biệt. Các eo đất thuộc Tehuantepec, cùng với vùng đồng bằng thuộc miền duyên hải phía đông và bán đảo Yucatan nhô về hướng đông-bắc, tạo thành vùng đất thấp chủ yếu. Ở vùng tây-bắc phía xa, bán đảo giống như những mảnh vụn ở Hạ California, với các dãy núi cao có sườn dốc lởm chởm, là phần vươn dài về hướng nam của dãy núi Sierra Nevada. Thế nên nó cũng là phần phía tây của dãy Sierra Madre trên đất liền. Trong khi phần phía đông của dãy Sierra Madre là phần nối dài của rặng Rocky Mountains. Phần đồng bằng hẹp quay mặt ra Thái Bình Dương ở phía tây bị che phủ phần lớn bởi rừng. Đây cũng là nơi mà các vùng đất phía nam nhiều mưa cung cấp gỗ gụ. Ở những vùng trống trải người ta có thể trồng cây sisal và mía. Trên các vùng đất dốc thuộc miền núi, người ta trồng các loại nông sản như bông, cà phê, và thuốc lá. Giữa các vùng núi là cao nguyên, nơi có khí hậu ôn hòa thuận tiện cho sự tăng trưởng của các loài xương rồng. Có rất nhiều hồ rộng mà từ đó, các dòng nước chảy xiết thành những dòng lũ qua những hẻm núi sâu. Phần lớn lãnh thổ này phải chịu đựng những trận gió mậu dịch ẩm ướt đến từ phía đông vào giữa khoảng thời gian từ tháng 5 cho đến tháng 8, và những cơn bão nhiệt đới từ tháng 8 đến tháng 10."
       },
       {
         "k": "m",
@@ -31842,9 +31842,9 @@
       },
       {
         "k": "m",
-        "t": "Sự chinh phục đế quốc Aztec bởi người Cortes hoàn tất năm 1521, and New Spain trở thành địa hạt do một quan tổng trấn cai trị đầu tiên của người châu Mỹ gốc Tây Ban Nha. Về sau người Cortes đã thâu tóm toàn bộ Mesoamerica cổ, miền bắc Mexico, Caribbean, và phần lớn vùng tây-nam nước Mỹ. Họ dựng lên một chính quyền thực dân khắt khe, mang đặc điểm đàn áp và lợi dụng cư dân bản địa, tồn tại đến 300 năm tiếp theo. Có đến 90% dân số chết vì bệnh tật do người châu Âu đưa vào trong những thập niên đầu thế kỷ 17. Từ đó về sau mật độ dân số của họ tăng chậm. Vào đầu thế kỷ thứ 19, đất nước được thôi thúc bởi tư tưởng cách mạng của Pháp. Phong trào đòi độc lập được dẫn dắt bởi hai linh mục là Miguel Hidalgo Y Costilla và Jose Maria Morelos bắt đầu lớn mạnh. Cả hai vị linh mục này đã bị chính quyền Tây Ban Nha bắt và xử bắn (vào năm 1810 và 1814). Năm 1821, Augustin de Itijrbide đã tạo ra một đế quốc Mexico độc lập bao gồm vùng đất trải rộng từ Chiapas qua Costa Rica. Nhưng đế quốc này chỉ tồn tại trong một thời gian ngắn. Sau khi Augustin de Itijrbide bị trục xuất (1823), hiến pháp đầu tiên của Mexico ra đời dựa trên hiến pháp của Mỹ, đã được công bố (1824). Có hai phe phái nhanh chóng được hình thành. Một phe chủ trương thành lập và phân quyền cho liên bang, và một phe chủ trương trung ương tập quyền. Trong năm 1833, Antonio López de Santa Anna, một người theo chủ nghĩa tự do ủng hộ sự thành lập lên bang đã lên làm tổng thống. Ông không có khả năng ngăn cản việc Texas tuyên bố độc lập (1836) cũng như ngăn cản cuộc chiến Mexico-Mỹ (1846-1848). Cuộc chiến này dẫn đến việc Mexico bị mất nhiều vùng lãnh thổ rộng lớn, gộp thêm vùng đất Gadsden Purchase (vùng đất này mang tên như thế vì do nhà ngoại giao James Gadsden tậu lại cho Mỹ) thuộc vùng Arizona trong năm 1853. Theo sau là một thời kỳ cải cách, và một hiến pháp mới (1857) được ban hành. Nhưng những khó khăn về kinh tế, và ước mơ của những người theo chủ nghĩa đế quốc của Pháp, đã dẫn đến việc áp đặt hoàng tử Maximilian thuộc dòng họ Habsburg làm hoàng đế (1864-1867). Khi các đội quân của Pháp rút lui, Maximilian đã bị đánh bại, bị bắt, và bị xử bắn. Tiếp theo là chế độ độc tài của Porfirio Diaz (1876-1910) và kế đó là cuộc cách mạng Mexico kéo dài (1910-1940). Dưới sự cai trị của tổng thống Miguel Aleman (1946-1952), tiến trình hòa giải đã được bắt đầu bởi người tiền nhiệm là Avilo Camacho vẫn được tiếp tục. Kể từ đó, các chính phủ kế tục bị chi phối bởi đảng phái chính trị PRI đã nỗ lực nhiều hơn trong việc tìm cách hiện đại hóa nền kinh tế dựa vào thu nhập từ dầu mỏ. Trong nhiệm kỳ của mình, tổng thống Miguel de la Madrid Hurtado (1982-1988) đã phải đối mặt với việc dầu bị giảm giá và tình trạng tỷ lệ sinh đẻ tăng nhanh nhất thế giới. Người kế vị Hurtado là Carlos Salinas de Gortarl vẫn tiếp tục chính sách thắt lưng buộc bụng do Hurtado khởi xướng, nhưng cũng trong thời gian này, Carlos phải tham gia vào những cuộc thảo luận với Canada và Mỹ, dẫn đến thỏa ước tự do mậu dịch Bắc Mỹ được phê chuẩn năm 1993. Bất chấp món nợ nước ngoài to lớn, Mexico vẫn tiếp tục được hưởng một nền tảng sản xuất mạnh mẽ, sự tự cung cấp dầu và khí thiên nhiên, và nhận được sự đầu tư mạnh mẽ của các nhà tư bản vào hệ thống nông nghiệp đã được hiện đại hóa. Ứng cử viên thuộc đảng PRI là Ernesto Zedillo được bầu làm tổng thống vào tháng 8/1994 giữa các luận điệu cho rằng cuộc bầu cử là gian lận của phe đối lập. Vào đầu năm 1995, một cuộc nổi dậy vũ trang do một nhóm du kích bản xứ cầm đầu đã nổ ra tại Chiapas, một bang nghèo xơ xác. Nhóm này là tổ chức tự xưng là Quân Ðội Giải Phóng Quốc Gia Zapatista, những người yêu cầu cải cách xã hội và kinh tế. Một phong trào du kích khác với tên gọi Quân Ðội Cách Mạng Nhân Dân, nổi lên ở miền nam năm 1997. Theo sau cuộc bầu cử được tổ chức vào giữa nhiệm kỳ, lần đầu tiên từ 70 năm qua, PRI không còn nắm quyền kiểm soát cơ quan lập pháp Mexico."
+        "t": "Sự chinh phục đế quốc Aztec bởi người Cortes hoàn tất năm 1521, and New Spain trở thành địa hạt do một quan tổng trấn cai trị đầu tiên của người châu Mỹ gốc Tây Ban Nha. Về sau người Cortes đã thâu tóm toàn bộ Mesoamerica cổ, miền bắc Mexico, Caribbean, và phần lớn vùng tây-nam nước Mỹ. Họ dựng lên một chính quyền thực dân khắt khe, mang đặc điểm đàn áp và lợi dụng cư dân bản địa, tồn tại đến 300 năm tiếp theo. Có đến 90% dân số chết vì bệnh tật do người châu Âu đưa vào trong những thập niên đầu thế kỷ 17. Từ đó về sau mật độ dân số của họ tăng chậm. Vào đầu thế kỷ thứ 19, đất nước được thôi thúc bởi tư tưởng cách mạng của Pháp. Phong trào đòi độc lập được dẫn dắt bởi hai linh mục là Miguel Hidalgo Y Costilla và Jose Maria Morelos bắt đầu lớn mạnh. Cả hai vị linh mục này đã bị chính quyền Tây Ban Nha bắt và xử bắn (vào năm 1810 và 1814). Năm 1821, Augustin de Itijrbide đã tạo ra một đế quốc Mexico độc lập bao gồm vùng đất trải rộng từ Chiapas qua Costa Rica. Nhưng đế quốc này chỉ tồn tại trong một thời gian ngắn. Sau khi Augustin de Itijrbide bị trục xuất (1823), hiến pháp đầu tiên của Mexico ra đời dựa trên hiến pháp của Mỹ, đã được công bố (1824). Có hai phe phái nhanh chóng được hình thành. Một phe chủ trương thành lập và phân quyền cho liên bang, và một phe chủ trương trung ương tập quyền. Trong năm 1833, Antonio López de Santa Anna, một người theo chủ nghĩa tự do ủng hộ sự thành lập lên bang đã lên làm tổng thống. Ông không có khả năng ngăn cản việc Texas tuyên bố độc lập (1836) cũng như ngăn cản cuộc chiến Mexico-Mỹ (1846-1848). Cuộc chiến này dẫn đến việc Mexico bị mất nhiều vùng lãnh thổ rộng lớn, gộp thêm vùng đất Gadsden Purchase (vùng đất này mang tên như thế vì do nhà ngoại giao James Gadsden tậu lại cho Mỹ) thuộc vùng Arizona trong năm 1853. Theo sau là một thời kỳ cải cách, và một hiến pháp mới (1857) được ban hành. Nhưng những khó khăn về kinh tế, và ước mơ của những người theo chủ nghĩa đế quốc của Pháp, đã dẫn đến việc áp đặt hoàng tử Maximilian thuộc dòng họ Habsburg làm hoàng đế (1864-1867). Khi các đội quân của Pháp rút lui, Maximilian đã bị đánh bại, bị bắt, và bị xử bắn. Tiếp theo là chế độ độc tài của Porfirio Diaz (1876-1910) và kế đó là cuộc cách mạng Mexico kéo dài (1910-1940). Dưới sự cai trị của tổng thống Miguel Aleman (1946-1952), tiến trình hòa giải đã được bắt đầu bởi người tiền nhiệm là Avilo Camacho vẫn được tiếp tục. Kể từ đó, các chính phủ kế tục bị chi phối bởi đảng phái chính trị PRI đã nỗ lực nhiều hơn trong việc tìm cách hiện đại hóa nền kinh tế dựa vào thu nhập từ dầu mỏ. Trong nhiệm kỳ của mình, tổng thống Miguel de la Madrid Hurtado (1982-1988) đã phải đối mặt với việc dầu bị giảm giá và tình trạng tỷ lệ sinh đẻ tăng nhanh nhất thế giới. Người kế vị Hurtado là Carlos Salinas de Gortarl vẫn tiếp tục chính sách thắt lưng buộc bụng do Hurtado khởi xướng, nhưng cũng trong thời gian này, Carlos phải tham gia vào những cuộc thảo luận với Canada và Mỹ, dẫn đến thỏa ước tự do mậu dịch Bắc Mỹ được phê chuẩn năm 1993. Bất chấp món nợ nước ngoài to lớn, Mexico vẫn tiếp tục được hưởng một nền tảng sản xuất mạnh mẽ, sự tự cung cấp dầu và khí thiên nhiên, và nhận được sự đầu tư mạnh mẽ của các nhà tư bản vào hệ thống nông nghiệp đã được hiện đại hóa. Ứng cử viên thuộc đảng PRI là Ernesto Zedillo được bầu làm tổng thống vào tháng 8/1994 giữa các luận điệu cho rằng cuộc bầu cử là gian lận của phe đối lập. Vào đầu năm 1995, một cuộc nổi dậy vũ trang do một nhóm du kích bản xứ cầm đầu đã nổ ra tại Chiapas, một bang nghèo xơ xác. Nhóm này là tổ chức tự xưng là Quân Đội Giải Phóng Quốc Gia Zapatista, những người yêu cầu cải cách xã hội và kinh tế. Một phong trào du kích khác với tên gọi Quân Đội Cách Mạng Nhân Dân, nổi lên ở miền nam năm 1997. Theo sau cuộc bầu cử được tổ chức vào giữa nhiệm kỳ, lần đầu tiên từ 70 năm qua, PRI không còn nắm quyền kiểm soát cơ quan lập pháp Mexico."
       },
-      {"k": "m", "t": "Thủ Ðô: Mexico City."},
+      {"k": "m", "t": "Thủ Đô: Mexico City."},
       {"k": "m", "t": "Diện Tích: 1.958.201 km2"},
       {"k": "m", "t": "Dân số: 92,711 triệu (1996)."},
       {"k": "m", "t": "Tiền Tệ: 1 peso = 100 centavo."},

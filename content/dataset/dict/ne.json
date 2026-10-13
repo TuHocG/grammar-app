@@ -100,11 +100,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những người sống ở châu Âu, vùng cận đông, và trung Á cách đây từ khoảng 130.000 đến 30.000 năm. Những dấu vết từ họ chỉ được biết đến qua người Mrica hay viễn đông. Họ được đặt tên theo tên thung lũng Neander gần Dusseldorf ở Ðức, nơi mà người ta tìm thấy một bộ hài cốt vào năm 1856. Người Neanderthal sống suốt thời kỳ đồ đá, trong vùng khí hậu lạnh lẽo, khắc nghiệt. Người ta tổng kết được một số chi tiết phác họa sơ khởi về hình dáng của họ như: xương nặng, cơ bắp khỏe, trán lớn và thẳng dốc, não bộ lớn hơn người hiện đại. Người Neanderthal có thể được xem là loài người đầu tiên biết chôn cất người chết. Công cụ bật lửa của họ được tìm thấy còn sót lại những đặc tính của thời kỳ đồ đá thời trung cổ."
+        "t": "Những người sống ở châu Âu, vùng cận đông, và trung Á cách đây từ khoảng 130.000 đến 30.000 năm. Những dấu vết từ họ chỉ được biết đến qua người Mrica hay viễn đông. Họ được đặt tên theo tên thung lũng Neander gần Dusseldorf ở Đức, nơi mà người ta tìm thấy một bộ hài cốt vào năm 1856. Người Neanderthal sống suốt thời kỳ đồ đá, trong vùng khí hậu lạnh lẽo, khắc nghiệt. Người ta tổng kết được một số chi tiết phác họa sơ khởi về hình dáng của họ như: xương nặng, cơ bắp khỏe, trán lớn và thẳng dốc, não bộ lớn hơn người hiện đại. Người Neanderthal có thể được xem là loài người đầu tiên biết chôn cất người chết. Công cụ bật lửa của họ được tìm thấy còn sót lại những đặc tính của thời kỳ đồ đá thời trung cổ."
       },
       {
         "k": "m",
-        "t": "Những dấu hiệu về sự tiến triển loài người đang là vấn đề tranh cãi. Một quan điểm nữa cho rằng họ không phải là tổ tiên trực tiếp của chúng ta. Một nghiên cứu về cấu trúc di truyền của họ vào năm 1996 kết luận rằng người Neanderthal là một giống người riêng biệt, không liên quan đến loài người ngày nay, cũng như loài người đầu tiên bị tuyệt chủng. Một quan điểm khác lại cho rằng một số người Neaderthal tiến hóa thành người như ngày nay hoặc ít nhất là có vài chi tiết trộn lẫn trong nguồn gốc giữa người Neanderthal và người hiện đại. Nếu quá trình tiến triển của họ kết thúc bằng sự tuyệt chủng cách đây 50.000-30.000 năm thì đó lại là một điều bí ẩn. Ðiều này cho thấy họ trở nên quá đặc biệt và bị chiếm chỗ bởi những dân di cư sang châu Âu từ nơi nào đó, có thể là châu Phi qua đường Trung Ðông."
+        "t": "Những dấu hiệu về sự tiến triển loài người đang là vấn đề tranh cãi. Một quan điểm nữa cho rằng họ không phải là tổ tiên trực tiếp của chúng ta. Một nghiên cứu về cấu trúc di truyền của họ vào năm 1996 kết luận rằng người Neanderthal là một giống người riêng biệt, không liên quan đến loài người ngày nay, cũng như loài người đầu tiên bị tuyệt chủng. Một quan điểm khác lại cho rằng một số người Neaderthal tiến hóa thành người như ngày nay hoặc ít nhất là có vài chi tiết trộn lẫn trong nguồn gốc giữa người Neanderthal và người hiện đại. Nếu quá trình tiến triển của họ kết thúc bằng sự tuyệt chủng cách đây 50.000-30.000 năm thì đó lại là một điều bí ẩn. Điều này cho thấy họ trở nên quá đặc biệt và bị chiếm chỗ bởi những dân di cư sang châu Âu từ nơi nào đó, có thể là châu Phi qua đường Trung Đông."
       }
     ],
     "k": "neanderthals"
@@ -517,7 +517,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "tháng sắp tới"}],
     "k": "near month"
   },
-  {"h": "near point", "segs": [{"k": "m", "t": "Ðiểm gần."}], "k": "near point"},
+  {"h": "near point", "segs": [{"k": "m", "t": "Điểm gần."}], "k": "near point"},
   {
     "h": "near post",
     "segs": [
@@ -1865,7 +1865,7 @@
       {
         "k": "ex",
         "t": "Mary and Ann were neck and neck in the spelling contest. Their scores were tied:",
-        "vi": "Mary và Ann đã ngang nhau trong cuộc thi đánh vần. Ðiểm của họ bằng nhau."
+        "vi": "Mary và Ann đã ngang nhau trong cuộc thi đánh vần. Điểm của họ bằng nhau."
       }
     ],
     "k": "neck and neck"
@@ -2900,7 +2900,7 @@
     "ipa": "ne'krɔtəmi",
     "k": "necrotomy"
   },
-  {"h": "necrotoxin", "segs": [{"k": "m", "t": "Ðộc tố gây hoại tử."}], "k": "necrotoxin"},
+  {"h": "necrotoxin", "segs": [{"k": "m", "t": "Độc tố gây hoại tử."}], "k": "necrotoxin"},
   {"h": "necrozoospermia", "segs": [{"k": "m", "t": "Tinh trùng chết."}], "k": "necrozoospermia"},
   {
     "h": "nectar",
@@ -4242,7 +4242,7 @@
   },
   {
     "h": "negative accommodation",
-    "segs": [{"k": "m", "t": "Ðiều tiết âm tính."}],
+    "segs": [{"k": "m", "t": "Điều tiết âm tính."}],
     "k": "negative accommodation"
   },
   {
@@ -4545,7 +4545,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "tính co giãn âm"}],
     "k": "negative elasticity"
   },
-  {"h": "negative electricity", "segs": [{"k": "m", "t": "Ðiện âm."}], "k": "negative electricity"},
+  {"h": "negative electricity", "segs": [{"k": "m", "t": "Điện âm."}], "k": "negative electricity"},
   {"h": "negative electrode", "segs": [{"k": "m", "t": "âm cực."}], "k": "negative electrode"},
   {"h": "negative electron", "segs": [{"k": "m", "t": "điện tử âm."}], "k": "negative electron"},
   {"h": "negative element", "segs": [{"k": "m", "t": "phần tử âm."}], "k": "negative element"},
@@ -5038,7 +5038,7 @@
   },
   {
     "h": "negative scotoma",
-    "segs": [{"k": "m", "t": "Ðiểm tối âm tính, ám điểm âm tính."}],
+    "segs": [{"k": "m", "t": "Điểm tối âm tính, ám điểm âm tính."}],
     "k": "negative scotoma"
   },
   {
@@ -5433,7 +5433,7 @@
     "ipa": "'negətəri",
     "k": "negatory"
   },
-  {"h": "negatoscope", "segs": [{"k": "m", "t": "Ðèn đọc phim."}], "k": "negatoscope"},
+  {"h": "negatoscope", "segs": [{"k": "m", "t": "Đèn đọc phim."}], "k": "negatoscope"},
   {
     "h": "negatron",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(vật lý) nêgatron."}],
@@ -6724,9 +6724,9 @@
       {
         "k": "ex",
         "t": "neither one of us could understand German",
-        "vi": "không ai trong hai đứa tôi hiểu tiếng Ðức cả"
+        "vi": "không ai trong hai đứa tôi hiểu tiếng Đức cả"
       },
-      {"k": "m", "t": "cả hai đứa tôi đều không hiểu tiếng Ðức"},
+      {"k": "m", "t": "cả hai đứa tôi đều không hiểu tiếng Đức"},
       {
         "k": "ex",
         "t": "to take neither side in the dispute",
@@ -7305,12 +7305,12 @@
   },
   {
     "h": "neo-darwinian evolution",
-    "segs": [{"k": "m", "t": "Tiến hóa theo kiểu tân Ðác-uyn."}],
+    "segs": [{"k": "m", "t": "Tiến hóa theo kiểu tân Đác-uyn."}],
     "k": "neo-darwinian evolution"
   },
   {
     "h": "Neo-Darwinism",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Thuyết Ðác-Uyn."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Thuyết Đác-Uyn."}],
     "ipa": "'ni:o'da:winizm",
     "k": "neo-darwinism"
   },
@@ -8165,7 +8165,7 @@
     "segs": [{"k": "m", "t": "ỉa chảy trẻ sơ sinh."}],
     "k": "neonatal diarrhea"
   },
-  {"h": "neonatal line", "segs": [{"k": "m", "t": "Ðường sơ sinh."}], "k": "neonatal line"},
+  {"h": "neonatal line", "segs": [{"k": "m", "t": "Đường sơ sinh."}], "k": "neonatal line"},
   {
     "h": "neonatally",
     "segs": [{"k": "m", "t": "in a neonatal manner, in a manner pertaining to newborn babies"}],
@@ -8582,11 +8582,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nước thuộc nam Á, nằm ở đỉnh và thẳng dốc dãy Himalaya, nằm giữa Trung quốc và Ấn Ðộ."
+        "t": "Một nước thuộc nam Á, nằm ở đỉnh và thẳng dốc dãy Himalaya, nằm giữa Trung quốc và Ấn Độ."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Nepal bao gồm những ngọn núi cao nhất thế giới. Ðỉnh cao nhất nằm ở phía bắc. Bên dưới là những con sông phủ tuyết quanh năm, chảy xuống những thung lũng đầy cỏ và những cánh rừng rộng lớn với sồi và hạt dẻ. Cuối cùng là vùng đồng bằng với khí hậu ấm áp và ẩm ướt của phương bắc."
+        "t": "Địa hình: Nepal bao gồm những ngọn núi cao nhất thế giới. Đỉnh cao nhất nằm ở phía bắc. Bên dưới là những con sông phủ tuyết quanh năm, chảy xuống những thung lũng đầy cỏ và những cánh rừng rộng lớn với sồi và hạt dẻ. Cuối cùng là vùng đồng bằng với khí hậu ấm áp và ẩm ướt của phương bắc."
       },
       {
         "k": "m",
@@ -8594,7 +8594,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Nepal thuộc sự cai trị đầu tiên của triều đại Licchavi, từ thế kỷ thứ 4 đến thế kỷ 10. Ðạo phật chiếm phần lớn trong triều đại này, nhưng dưới triều đại của Malla (thế kỷ 10-18) thì Ấn Ðộ giáo chiếm ưu thế. Năm 1769, sự xâm lăng của binh sĩ Nepal trong quân đội Anh mang đi tất cả quyền lực của triều đại đương thời. Từ thủ phủ của họ tại Kathmandu, họ chỉ duy nhất xung đột với tộc người bản xứ Nepal. Sự xâm lăng của họ trải rộng đến tây bắc Ấn Ðộ, dẫn đến cuộc chiến tranh biên giới (1814-1816) và dẫn đến việc nơi đây trở thành một địa hạt của Anh (hiệp ước Khathmandu, 1816). Những chuyển đổi này liên quan đến dòng dõi thủ tướng chính phủ Ranas, những người cấu kết với Anh. Tân binh của Nepal phục vụ cho quân đội Anh và Ấn Ðộ. Năm 1950, một cuộc đảo chính diễn ra trong nội bộ và lật đổ quyền lực vua Tribhuvan. Vua Mahendra lên thay thế (1955-1972), ông cho thí điểm phương thức chính quyền dân chủ. Một sự thay đổi quyền lực nữa xảy ra vào năm 1960 mà người lên thay thế lại chính là con trai ông, vua Birendra Bir Bikram (1972-). Kế đến là cuộc biểu tình dân chủ xảy ra vào năm 1989. Nhà vua buộc phải hợp thức hóa Ðảng chính trị, ban hành nghị quyết giả vào tháng 11 năm 1990, thành lập cả thượng và hạ nghị viện quốc hội. Cuộc bầu cử dân chủ đầu tiên vào tháng 5 năm 1991, Ðảng quốc hội Nepal (NCP) thắng, với người dẫn đầu là Gijia Prasad Koirala, và Ðảng đối lập là Ðảng liên minh cộng sản Nepal (UCPN). Tuy nhiên, năm 1994, chính quyền này bị cáo buộc là tham nhũng và quản lý kinh tế kém, gây mất lòng tin trong dân chúng. Sau đó, liên minh Ðảng UCPN đắc cử, nhưng sự tranh chấp xảy ra trong chính quyền dẫn đến sự sụp đổ và thay thế bởi liên minh phe cánh hữu năm 1995. Kế đến là một liên minh Ðảng cộng sản khác thắng thế hơn vào năm 1996 và Lokendra Bahadur Chand là thủ tướng chính phủ."
+        "t": "Lịch sử: Nepal thuộc sự cai trị đầu tiên của triều đại Licchavi, từ thế kỷ thứ 4 đến thế kỷ 10. Đạo phật chiếm phần lớn trong triều đại này, nhưng dưới triều đại của Malla (thế kỷ 10-18) thì Ấn Độ giáo chiếm ưu thế. Năm 1769, sự xâm lăng của binh sĩ Nepal trong quân đội Anh mang đi tất cả quyền lực của triều đại đương thời. Từ thủ phủ của họ tại Kathmandu, họ chỉ duy nhất xung đột với tộc người bản xứ Nepal. Sự xâm lăng của họ trải rộng đến tây bắc Ấn Độ, dẫn đến cuộc chiến tranh biên giới (1814-1816) và dẫn đến việc nơi đây trở thành một địa hạt của Anh (hiệp ước Khathmandu, 1816). Những chuyển đổi này liên quan đến dòng dõi thủ tướng chính phủ Ranas, những người cấu kết với Anh. Tân binh của Nepal phục vụ cho quân đội Anh và Ấn Độ. Năm 1950, một cuộc đảo chính diễn ra trong nội bộ và lật đổ quyền lực vua Tribhuvan. Vua Mahendra lên thay thế (1955-1972), ông cho thí điểm phương thức chính quyền dân chủ. Một sự thay đổi quyền lực nữa xảy ra vào năm 1960 mà người lên thay thế lại chính là con trai ông, vua Birendra Bir Bikram (1972-). Kế đến là cuộc biểu tình dân chủ xảy ra vào năm 1989. Nhà vua buộc phải hợp thức hóa Đảng chính trị, ban hành nghị quyết giả vào tháng 11 năm 1990, thành lập cả thượng và hạ nghị viện quốc hội. Cuộc bầu cử dân chủ đầu tiên vào tháng 5 năm 1991, Đảng quốc hội Nepal (NCP) thắng, với người dẫn đầu là Gijia Prasad Koirala, và Đảng đối lập là Đảng liên minh cộng sản Nepal (UCPN). Tuy nhiên, năm 1994, chính quyền này bị cáo buộc là tham nhũng và quản lý kinh tế kém, gây mất lòng tin trong dân chúng. Sau đó, liên minh Đảng UCPN đắc cử, nhưng sự tranh chấp xảy ra trong chính quyền dẫn đến sự sụp đổ và thay thế bởi liên minh phe cánh hữu năm 1995. Kế đến là một liên minh Đảng cộng sản khác thắng thế hơn vào năm 1996 và Lokendra Bahadur Chand là thủ tướng chính phủ."
       },
       {"k": "m", "t": "Thủ đô: Kathmandu."},
       {"k": "m", "t": "Diện tích: 147.181 km2"},
@@ -9096,7 +9096,7 @@
     "segs": [{"k": "m", "t": "Huyết thanh hủy thận."}],
     "k": "nephrotoxic serum"
   },
-  {"h": "nephrotoxin", "segs": [{"k": "m", "t": "Ðộc tố hại thận."}], "k": "nephrotoxin"},
+  {"h": "nephrotoxin", "segs": [{"k": "m", "t": "Độc tố hại thận."}], "k": "nephrotoxin"},
   {"h": "nephrotoxlcity", "segs": [{"k": "m", "t": "Tính độc hại thận."}], "k": "nephrotoxlcity"},
   {
     "h": "nephrotresis",
@@ -9449,7 +9449,7 @@
   },
   {
     "h": "nerve accommodation",
-    "segs": [{"k": "m", "t": "Ðiều tiết thần kinh."}],
+    "segs": [{"k": "m", "t": "Điều tiết thần kinh."}],
     "k": "nerve accommodation"
   },
   {"h": "nerve block", "segs": [{"k": "m", "t": "Phong bế thần kinh."}], "k": "nerve block"},
@@ -9461,8 +9461,8 @@
   {"h": "nerve cement", "segs": [{"k": "m", "t": "Chất đệm thần kinh."}], "k": "nerve cement"},
   {"h": "nerve center", "segs": [{"k": "m", "t": "Trung tâm thần kinh."}], "k": "nerve center"},
   {"h": "nerve cord", "segs": [{"k": "m", "t": "Thân thần kinh, bó thần kinh."}], "k": "nerve cord"},
-  {"h": "nerve deafness", "segs": [{"k": "m", "t": "Ðiếc thần kinh."}], "k": "nerve deafness"},
-  {"h": "nerve ending", "segs": [{"k": "m", "t": "Ðầu tận dây thần kinh."}], "k": "nerve ending"},
+  {"h": "nerve deafness", "segs": [{"k": "m", "t": "Điếc thần kinh."}], "k": "nerve deafness"},
+  {"h": "nerve ending", "segs": [{"k": "m", "t": "Đầu tận dây thần kinh."}], "k": "nerve ending"},
   {"h": "nerve fiber", "segs": [{"k": "m", "t": "Sợi thần kinh."}], "k": "nerve fiber"},
   {
     "h": "nerve fiber layer",
@@ -9969,7 +9969,7 @@
     "segs": [{"k": "m", "t": "dt. sự suy nhược thần kinh."}],
     "k": "nervous breakdown"
   },
-  {"h": "nervous deafness", "segs": [{"k": "m", "t": "Ðiếc thần kinh."}], "k": "nervous deafness"},
+  {"h": "nervous deafness", "segs": [{"k": "m", "t": "Điếc thần kinh."}], "k": "nervous deafness"},
   {
     "h": "nervous discharge",
     "segs": [{"k": "m", "t": "Sự phóng luồng thần kinh."}],
@@ -10916,7 +10916,7 @@
     "k": "nested transaction"
   },
   {"h": "nestegg", "segs": [{"k": "ref", "t": "như nest-egg."}], "ipa": "ˈnesteg", "k": "nestegg"},
-  {"h": "Nesteia", "segs": [{"k": "m", "t": "Ăn chay kiệng thịt (Ðông phương)."}], "k": "nesteia"},
+  {"h": "Nesteia", "segs": [{"k": "m", "t": "Ăn chay kiệng thịt (Đông phương)."}], "k": "nesteia"},
   {
     "h": "nester",
     "segs": [
@@ -11097,7 +11097,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thành viên thuộc giáo phái Nestory, một giáo phái phương đông. Những người theo giáo phái này được truyền dạy về Xyri Nestorius, người được bổ nhiệm làm giám mục của Constantinople năm 428 và phải tha hương sang Ai cập năm 431. Ông truyền dạy rằng chúa Jêsu là sự kết hợp của hai cá thể, một là thánh và một là người, mà người này cũng là thánh hạ phàm. Theo thuyết của ông thì bà Mary không là mẹ của Chúa, bởi lẽ Jêsu là người. Ðiều này gây phẫn nộ cho những người sùng bái đức mẹ đồng trinh Mary và những người theo giáo phái Nestorius đã lập một cuộc ly khai giáo phái này khỏi Edessa. Họ bị trục xuất khỏi nước vào năm 489 và định cư ở Persia cho đến khi họ hoàn toàn bị tẩy rửa bởi sự xâm lăng của Mông cổ vào thế kỷ 14. Một vài người Nestory còn sót lại sống ở Kurdistan."
+        "t": "Một thành viên thuộc giáo phái Nestory, một giáo phái phương đông. Những người theo giáo phái này được truyền dạy về Xyri Nestorius, người được bổ nhiệm làm giám mục của Constantinople năm 428 và phải tha hương sang Ai cập năm 431. Ông truyền dạy rằng chúa Jêsu là sự kết hợp của hai cá thể, một là thánh và một là người, mà người này cũng là thánh hạ phàm. Theo thuyết của ông thì bà Mary không là mẹ của Chúa, bởi lẽ Jêsu là người. Điều này gây phẫn nộ cho những người sùng bái đức mẹ đồng trinh Mary và những người theo giáo phái Nestorius đã lập một cuộc ly khai giáo phái này khỏi Edessa. Họ bị trục xuất khỏi nước vào năm 489 và định cư ở Persia cho đến khi họ hoàn toàn bị tẩy rửa bởi sự xâm lăng của Mông cổ vào thế kỷ 14. Một vài người Nestory còn sót lại sống ở Kurdistan."
       },
       {
         "k": "m",
@@ -11951,7 +11951,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(net cost) giá tịnh. Giá cả thuần túy của hàng hóa ở nơi mua bán, tức là giá hàng sau khi đã trừ đi các khoản giảm giá quy định, các khoản chi phí vận tải và bảo hiểm có liên quan đến các điều kiện cơ sở giao hàng (FOB, CIF, v.v...) hay có liên quan đến việc cấp vốn. Vì vậy, đối với bên bán, giá tịnh là số tiền thu thập thuần túy về tiền hàng sau khi đã khấu trừ chi phí về việc thực hiện hợp đồng. Ðối với bên mua, giả định là giá thực sự trả cho bên bán."
+        "t": "(net cost) giá tịnh. Giá cả thuần túy của hàng hóa ở nơi mua bán, tức là giá hàng sau khi đã trừ đi các khoản giảm giá quy định, các khoản chi phí vận tải và bảo hiểm có liên quan đến các điều kiện cơ sở giao hàng (FOB, CIF, v.v...) hay có liên quan đến việc cấp vốn. Vì vậy, đối với bên bán, giá tịnh là số tiền thu thập thuần túy về tiền hàng sau khi đã khấu trừ chi phí về việc thực hiện hợp đồng. Đối với bên mua, giả định là giá thực sự trả cho bên bán."
       }
     ],
     "k": "net price"
@@ -12580,11 +12580,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nước châu Âu ở biển Bắc, hay còn gọi là Hà Lan (mặc dù đây là hai vùng tây riêng biệt). Biên giới của nước này giáp Ðức và Bỉ."
+        "t": "Một nước châu Âu ở biển Bắc, hay còn gọi là Hà Lan (mặc dù đây là hai vùng tây riêng biệt). Biên giới của nước này giáp Đức và Bỉ."
       },
       {
         "k": "m",
-        "t": "Ðịa hình: Hà Lan được xây dựng bởi sự lắng đọng từ cát của sông Rhine, Meuse và những con sông khác. Mọi nơi, ngoại trừ góc cực nam, đều thấp và phẳng, nhiều vùng nằm dưới mực nước biển. Bờ biển bao bọc bởi những bãi cát trải dài, có cửa sông và một phá lớn, phá IJsselmeer, vùng khai hoang có chừng mực từ Zuider Zee. Chính phủ đã xây dựng một chương trình lấn biển nhằm mở rộng lãnh thổ."
+        "t": "Địa hình: Hà Lan được xây dựng bởi sự lắng đọng từ cát của sông Rhine, Meuse và những con sông khác. Mọi nơi, ngoại trừ góc cực nam, đều thấp và phẳng, nhiều vùng nằm dưới mực nước biển. Bờ biển bao bọc bởi những bãi cát trải dài, có cửa sông và một phá lớn, phá IJsselmeer, vùng khai hoang có chừng mực từ Zuider Zee. Chính phủ đã xây dựng một chương trình lấn biển nhằm mở rộng lãnh thổ."
       },
       {
         "k": "m",
@@ -12592,7 +12592,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: vùng đất xa về phương bắc được tạo thành từ việc lấn sông từ thời La Mã, nơi người Frank và người Saxon di cư qua trong suốt thế kỷ thứ 5. Sau sự sụp đổ của vương triều Frankish vào giữa thế kỷ thứ 9, nơi đây hình thành nhiều thế lực chính trị lớn. Nền độc lập được tái thiết dưới quyền những công tước của Burgundy vào thế kỷ 14-15 và đến năm 1477 hoàn toàn thuộc về nước Hà Lan thông qua quyền lực của viện Habsburg. Năm 1568, nhiều cuộc nổi dậy của Hà Lan chống lại sự thống trị của Habsburg Tây Ban Nha. Cuối cùng thì nền độc lập liên minh các tỉnh thành của Hà Lan cũng được công nhận bằng hòa ước Westphalia (1648). Trong suốt thế kỷ 17, đế chế Hà Lan phát triển nền thương mại khổng lồ. Nó bắt đầu suy tàn sau cuộc chiến Canada-Hà Lan và cuộc chiến kéo dài chống lại vua Lu I đệ XIV của Pháp. Từ năm 1795 đến năm 1814, Hà Lan dưới ách cai trị của Pháp. Suốt những năm này, Anh tiếp quản các thuộc địa của Ceylon (ngày nay là Silanka) và thuộc địa Cape ở Nam Phi, vị trí thương mại quan trọng của công ty Hà Lan ở đông Ấn Ðộ. Tại hội nghị, vương quốc Hà Lan hoàn toàn độc lập năm 1815. Mặc dầu ly khai khỏi Bỉ năm 1830, Hà Lan trở nên thịnh vượng dưới quyền tiếp quản của tòa Orange, chấp nhận sống dưới hiến pháp của Anh năm 1848. Nó trở thành một nước trung lập trong suốt chiến tranh thế giới thứ I, trải qua sự khủng hoảng kinh tế. Trong chiến tranh thế giới thứ II, nó cũng có liên quan đến việc lưu đày những người Do Thái trong trại tập trung. Cũng vào thời gian này, nó trở thành nước thuộc địa có thế lực lớn thứ ba cai trị đông Ấn Ðộ Hà Lan, cùng nhiều đảo tây Ấn Ðộ và Guiana ở nam Mỹ. Nhật xâm chiếm các đảo đông Ấn Ðộ năm 1942 và đặt chính quyền bù nhìn Sukarno trên toàn lãnh thổ Inđônêxia. Năm 1945, sau 4 năm chiến tranh, Hà Lan buộc nhượng chủ quyền cho Nhật. Guiana thừa nhận nền tự trị như Surinam vào năm 1954 và độc lập năm 1975, nhưng Curaẻao và những đảo Antilles vẫn như Hà Lan. Sự nối tiếp chính trị là vương triều nữ hoàng Wilhelmina (1890-1948). Rồi đến con gái của bà, Juliana, trở thành nữ hoàng. Bà Juliana bãi chức năm 1980 và truyền ngôi lại cho con gái Beatrix. Ngày nay, Hà Lan là một thành viên của khối châu Âu và NATO. Ngay từ năm 1945, Hà Lan đã là nước thành công trong hệ thống liên minh chính quyền."
+        "t": "Lịch sử: vùng đất xa về phương bắc được tạo thành từ việc lấn sông từ thời La Mã, nơi người Frank và người Saxon di cư qua trong suốt thế kỷ thứ 5. Sau sự sụp đổ của vương triều Frankish vào giữa thế kỷ thứ 9, nơi đây hình thành nhiều thế lực chính trị lớn. Nền độc lập được tái thiết dưới quyền những công tước của Burgundy vào thế kỷ 14-15 và đến năm 1477 hoàn toàn thuộc về nước Hà Lan thông qua quyền lực của viện Habsburg. Năm 1568, nhiều cuộc nổi dậy của Hà Lan chống lại sự thống trị của Habsburg Tây Ban Nha. Cuối cùng thì nền độc lập liên minh các tỉnh thành của Hà Lan cũng được công nhận bằng hòa ước Westphalia (1648). Trong suốt thế kỷ 17, đế chế Hà Lan phát triển nền thương mại khổng lồ. Nó bắt đầu suy tàn sau cuộc chiến Canada-Hà Lan và cuộc chiến kéo dài chống lại vua Lu I đệ XIV của Pháp. Từ năm 1795 đến năm 1814, Hà Lan dưới ách cai trị của Pháp. Suốt những năm này, Anh tiếp quản các thuộc địa của Ceylon (ngày nay là Silanka) và thuộc địa Cape ở Nam Phi, vị trí thương mại quan trọng của công ty Hà Lan ở đông Ấn Độ. Tại hội nghị, vương quốc Hà Lan hoàn toàn độc lập năm 1815. Mặc dầu ly khai khỏi Bỉ năm 1830, Hà Lan trở nên thịnh vượng dưới quyền tiếp quản của tòa Orange, chấp nhận sống dưới hiến pháp của Anh năm 1848. Nó trở thành một nước trung lập trong suốt chiến tranh thế giới thứ I, trải qua sự khủng hoảng kinh tế. Trong chiến tranh thế giới thứ II, nó cũng có liên quan đến việc lưu đày những người Do Thái trong trại tập trung. Cũng vào thời gian này, nó trở thành nước thuộc địa có thế lực lớn thứ ba cai trị đông Ấn Độ Hà Lan, cùng nhiều đảo tây Ấn Độ và Guiana ở nam Mỹ. Nhật xâm chiếm các đảo đông Ấn Độ năm 1942 và đặt chính quyền bù nhìn Sukarno trên toàn lãnh thổ Inđônêxia. Năm 1945, sau 4 năm chiến tranh, Hà Lan buộc nhượng chủ quyền cho Nhật. Guiana thừa nhận nền tự trị như Surinam vào năm 1954 và độc lập năm 1975, nhưng Curaẻao và những đảo Antilles vẫn như Hà Lan. Sự nối tiếp chính trị là vương triều nữ hoàng Wilhelmina (1890-1948). Rồi đến con gái của bà, Juliana, trở thành nữ hoàng. Bà Juliana bãi chức năm 1980 và truyền ngôi lại cho con gái Beatrix. Ngày nay, Hà Lan là một thành viên của khối châu Âu và NATO. Ngay từ năm 1945, Hà Lan đã là nước thành công trong hệ thống liên minh chính quyền."
       },
       {"k": "m", "t": "Thủ đô: Amsterdam."},
       {"k": "m", "t": "Diện tích: 41.863 km2"},
@@ -12606,7 +12606,7 @@
       {"k": "m", "t": "Ngôn ngữ: Tiếng Hà Lan; ngôn ngữ dân tộc thiểu số."},
       {
         "k": "m",
-        "t": "Gia nhập: Liên Hiệp Quốc; tổ chức hợp tác và phát triển kinh tế; tổ chức minh bắc Ðại Tây Dương; khối châu Âu; hội đồng châu Âu; tổ chức CSCE."
+        "t": "Gia nhập: Liên Hiệp Quốc; tổ chức hợp tác và phát triển kinh tế; tổ chức minh bắc Đại Tây Dương; khối châu Âu; hội đồng châu Âu; tổ chức CSCE."
       }
     ],
     "k": "netherlands",
@@ -12824,7 +12824,7 @@
       },
       {
         "k": "m",
-        "t": "Khác với NC, NetPC chứa các thành phần của PC như đĩa cứng và có thể chạy các ứng dụng cục bộ. Ðĩa cứng cung cấp vùng cache để khởi động và cho các cấu hình ứng dụng và một số thông tin khác. NC không có đĩa cứng cục bộ, và vì thế nó phải nhận thông tin này từ máy chủ, điều này làm giảm hiệu suất và tăng lưu lượng trên mạng LAN. NetPC có thể khởi động từ đĩa cứng cục bộ hoặc từ máy chủ. Chúng cũng có thể nhận phần mềm và tự động cập nhật từ máy chủ. NetPC không chứa đĩa mềm hoặc CD-ROM, vì thế người dùng không thể tải chương trình và dữ liệu vào đĩa cứng hoặc sao chép dữ liệu vào đĩa mềm."
+        "t": "Khác với NC, NetPC chứa các thành phần của PC như đĩa cứng và có thể chạy các ứng dụng cục bộ. Đĩa cứng cung cấp vùng cache để khởi động và cho các cấu hình ứng dụng và một số thông tin khác. NC không có đĩa cứng cục bộ, và vì thế nó phải nhận thông tin này từ máy chủ, điều này làm giảm hiệu suất và tăng lưu lượng trên mạng LAN. NetPC có thể khởi động từ đĩa cứng cục bộ hoặc từ máy chủ. Chúng cũng có thể nhận phần mềm và tự động cập nhật từ máy chủ. NetPC không chứa đĩa mềm hoặc CD-ROM, vì thế người dùng không thể tải chương trình và dữ liệu vào đĩa cứng hoặc sao chép dữ liệu vào đĩa mềm."
       },
       {
         "k": "m",
@@ -12888,11 +12888,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Netscape Communications được thành lập vào năm 1994, do Jim Clark và Marc Andreessen. Jim trước đó làm việc cho Silicon Graphics Inc., và Marc là một trong các đồng tác giả của trình duyệt web Mosaic. Sản phẩm đầu tiên của công ty là Netscape Navigator, xuất phát từ Mosaic. Ðây là một thành công lớn, và khi Netscape chính thức hoạt động tháng 8 năm 1994, mệnh giá cổ phiếu đạt bước nhảy vọt lớn nhất từ trước tới nay - từ 28$/cổ phần lên tới 74$/cổ phần."
+        "t": "Netscape Communications được thành lập vào năm 1994, do Jim Clark và Marc Andreessen. Jim trước đó làm việc cho Silicon Graphics Inc., và Marc là một trong các đồng tác giả của trình duyệt web Mosaic. Sản phẩm đầu tiên của công ty là Netscape Navigator, xuất phát từ Mosaic. Đây là một thành công lớn, và khi Netscape chính thức hoạt động tháng 8 năm 1994, mệnh giá cổ phiếu đạt bước nhảy vọt lớn nhất từ trước tới nay - từ 28$/cổ phần lên tới 74$/cổ phần."
       },
       {
         "k": "m",
-        "t": "Hoạt động kinh doanh của Netscape dựa trên giao thức TCP/IP, công nghệ Internet và Intranet. Ðầu năm 1997, Netscape thông báo những định hướng tương lai, gọi là Networked Enterprise. Ðịnh hướng này dựa trên các sản phẩm không bị ràng buộc bởi hệ điều hành và khai thác ưu điểm các chuẩn Internet mở. Netscape còn tập trung vào công nghệ extranet, tạo ra liên kết mạng giữa các intranet của các công ty. Về cơ bản, extranet là kết nối cho phép thiết lập các mối quan hệ làm ăn an toàn. Xem \"Extranet\" để biết thêm chi tiết."
+        "t": "Hoạt động kinh doanh của Netscape dựa trên giao thức TCP/IP, công nghệ Internet và Intranet. Đầu năm 1997, Netscape thông báo những định hướng tương lai, gọi là Networked Enterprise. Định hướng này dựa trên các sản phẩm không bị ràng buộc bởi hệ điều hành và khai thác ưu điểm các chuẩn Internet mở. Netscape còn tập trung vào công nghệ extranet, tạo ra liên kết mạng giữa các intranet của các công ty. Về cơ bản, extranet là kết nối cho phép thiết lập các mối quan hệ làm ăn an toàn. Xem \"Extranet\" để biết thêm chi tiết."
       },
       {"k": "m", "t": "Dưới đây là các công nghệ dùng trong các sản phẩm của Netscape:"},
       {
@@ -13288,7 +13288,7 @@
       },
       {
         "k": "m",
-        "t": "Một số bộ phân tích đầu cuối cao có giá lên tới vài chục ngàn USD. Ðối nghịch với loại này là bộ phân tích dưới dạng phần mềm miễn phí. Thật vậy, nhiều bộ phân tích mạng được phân phối trên Internet bởi những hacker để lấy những thông tin quan trọng trên mạng, chẳng hạn như mật khẩu."
+        "t": "Một số bộ phân tích đầu cuối cao có giá lên tới vài chục ngàn USD. Đối nghịch với loại này là bộ phân tích dưới dạng phần mềm miễn phí. Thật vậy, nhiều bộ phân tích mạng được phân phối trên Internet bởi những hacker để lấy những thông tin quan trọng trên mạng, chẳng hạn như mật khẩu."
       },
       {"k": "m", "t": "Dưới đây là các công việc mà bộ phân tích mạng thực hiện:"},
       {
@@ -13309,7 +13309,7 @@
       },
       {
         "k": "m",
-        "t": "Ða số các bộ phân tích chỉ có thể lấy về các gói trên một phần của mạng mà nó được nối vào. Bạn cần phải nối vào nhiều nơi khác nhau để theo dõi luồng giao thông. Các bộ phân tích cao cấp hơn có thể kiểm tra các thành phần khác của mạng, nhưng điều này có thể làm tăng thêm lưu lượng giao thông qua các vùng biên trên mạng trong quá trình phân tích."
+        "t": "Đa số các bộ phân tích chỉ có thể lấy về các gói trên một phần của mạng mà nó được nối vào. Bạn cần phải nối vào nhiều nơi khác nhau để theo dõi luồng giao thông. Các bộ phân tích cao cấp hơn có thể kiểm tra các thành phần khác của mạng, nhưng điều này có thể làm tăng thêm lưu lượng giao thông qua các vùng biên trên mạng trong quá trình phân tích."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -13494,7 +13494,7 @@
       {"k": "m", "t": "Hình N-12. Thiết kế mạng tuyến tính (trái) và mạng cấu trúc (phải)"},
       {
         "k": "m",
-        "t": "Hình N-12 minh họa 2 phương pháp xây dựng mạng LAN. Bên trái là mô hình mạng LAN tương đối nhỏ được xây dựng bằng cáp nối đi dây theo sơ đồ \"vòng cánh hoa\" (daisy chain), nối từ phòng ban này đến phòng ban khác. Mỗi phân đoạn của mạng được liên kết thông qua một cầu nối. Cầu nối cho phép mở rộng mạng để tạo ra phạm vi truyền thông rộng hơn, chúng cũng lọc bỏ các khung dữ liệu không phải của máy trạm trong phân đoạn đích khi được chuyển qua cầu. Phía bên phải là hình ảnh nhiều mạng LAN liên kết với nhau thông qua thiết bị Hub (hộp điều phối) trung tâm có nhiệm vụ vận chuyển dữ liệu liên mạng Lan. Ðể biết thêm chi tiết, xin xem phần \"Bridges and Bridging\" và \"Hub/Concentrators/MAUs\"."
+        "t": "Hình N-12 minh họa 2 phương pháp xây dựng mạng LAN. Bên trái là mô hình mạng LAN tương đối nhỏ được xây dựng bằng cáp nối đi dây theo sơ đồ \"vòng cánh hoa\" (daisy chain), nối từ phòng ban này đến phòng ban khác. Mỗi phân đoạn của mạng được liên kết thông qua một cầu nối. Cầu nối cho phép mở rộng mạng để tạo ra phạm vi truyền thông rộng hơn, chúng cũng lọc bỏ các khung dữ liệu không phải của máy trạm trong phân đoạn đích khi được chuyển qua cầu. Phía bên phải là hình ảnh nhiều mạng LAN liên kết với nhau thông qua thiết bị Hub (hộp điều phối) trung tâm có nhiệm vụ vận chuyển dữ liệu liên mạng Lan. Để biết thêm chi tiết, xin xem phần \"Bridges and Bridging\" và \"Hub/Concentrators/MAUs\"."
       },
       {
         "k": "m",
@@ -14117,11 +14117,11 @@
       },
       {
         "k": "m",
-        "t": "IP (Internet protocol: giao thức mạng toàn cầu) là giao thức tầng mạng được biết đến nhiều nhất. Nó cung cấp một danh sách địa chỉ liên mạng cho phép các thiết bị chỉ định địa chỉ gửi gói tin đến những thiết bị khác trên mạng. Ðịa chỉ ở tầng liên kết dữ liệu, là các đặc trưng được thể hiện trên NICs (network interface card: card giao tiếp mạng), chỉ sử dụng được trên hệ thống mạng LAN. Ðể gửi 1 gói tin đến 1 thiết bị trên mạng LAN khác thông qua bộ định tuyến, bạn phải cần đến sơ đồ địa chỉ cấp cao hơn. Ví dụ, một người ở một tỉnh lẻ, muốn gửi thư cho một người khác trong cùng tỉnh, thì địa chỉ nơi đến trên bì thư chỉ cần ghi số nhà và tên đường. Tuy nhiên, với một lá thư gửi đi một tỉnh khác, thì yêu cầu địa chỉ nơi đến phải có tên thành phố, tên tiểu bang và mã thư tín (zip code) của tỉnh đó. Ðịa chỉ IP có thể so sánh như zip code của một tỉnh. Zip code của một tỉnh cung cấp sơ đồ địa chỉ ở mức chi tiết để chỉ định rõ rệt là tỉnh nào trong vô khối các tỉnh xen nhau như \"mạng nhện\" trong một quốc gia. Xem mục \"Internetworking\" và \"IP(Internet Protocol) để có thêm thông tin về liên mạng toàn cầu và việc đánh địa chỉ trên đó."
+        "t": "IP (Internet protocol: giao thức mạng toàn cầu) là giao thức tầng mạng được biết đến nhiều nhất. Nó cung cấp một danh sách địa chỉ liên mạng cho phép các thiết bị chỉ định địa chỉ gửi gói tin đến những thiết bị khác trên mạng. Địa chỉ ở tầng liên kết dữ liệu, là các đặc trưng được thể hiện trên NICs (network interface card: card giao tiếp mạng), chỉ sử dụng được trên hệ thống mạng LAN. Để gửi 1 gói tin đến 1 thiết bị trên mạng LAN khác thông qua bộ định tuyến, bạn phải cần đến sơ đồ địa chỉ cấp cao hơn. Ví dụ, một người ở một tỉnh lẻ, muốn gửi thư cho một người khác trong cùng tỉnh, thì địa chỉ nơi đến trên bì thư chỉ cần ghi số nhà và tên đường. Tuy nhiên, với một lá thư gửi đi một tỉnh khác, thì yêu cầu địa chỉ nơi đến phải có tên thành phố, tên tiểu bang và mã thư tín (zip code) của tỉnh đó. Địa chỉ IP có thể so sánh như zip code của một tỉnh. Zip code của một tỉnh cung cấp sơ đồ địa chỉ ở mức chi tiết để chỉ định rõ rệt là tỉnh nào trong vô khối các tỉnh xen nhau như \"mạng nhện\" trong một quốc gia. Xem mục \"Internetworking\" và \"IP(Internet Protocol) để có thêm thông tin về liên mạng toàn cầu và việc đánh địa chỉ trên đó."
       },
       {
         "k": "m",
-        "t": "Tầng mạng còn gọi là \"internetwork\" layer trong chồng giao thức. Nó bao hàm đồ hình mạng và cách thức nối các mạng con lại với nhau. Ðây là chức năng của bộ định tuyến và các giao thức dò đường. Một bộ định tuyến liên kết 2 hay nhiều hệ thống mạng và thi hành giao thức dò đường để tìm ra cách bố trí của liên mạng bằng cách trao đổi các thông tin dò đường với các bộ định tuyến khác. Sau đó các bộ định tuyến quyết định con đường nào con đường nào trên liên mạng là tốt nhất cho việc gửi một gói tin từ nguồn đến đích. Các quản trị viên cũng có thể chỉ định sử dụng đường dẫn nào bằng cách gõ vào, vì một số đường dẫn do quản trị viên chỉ định xem ra phù hợp hơn. Ví dụ, một đường dẫn có thể cung cấp liên kết với tốc độ chậm hơn dùng cho việc bảo lưu, trong khi những liên kết có tốc độ cao lại cần hơn trong việc truyền dữ liệu. Xin xem mục \"Routers\" và \"Routing Protocols and Algorithms\" để tiếp tục nghiên cứu về vấn đề này."
+        "t": "Tầng mạng còn gọi là \"internetwork\" layer trong chồng giao thức. Nó bao hàm đồ hình mạng và cách thức nối các mạng con lại với nhau. Đây là chức năng của bộ định tuyến và các giao thức dò đường. Một bộ định tuyến liên kết 2 hay nhiều hệ thống mạng và thi hành giao thức dò đường để tìm ra cách bố trí của liên mạng bằng cách trao đổi các thông tin dò đường với các bộ định tuyến khác. Sau đó các bộ định tuyến quyết định con đường nào con đường nào trên liên mạng là tốt nhất cho việc gửi một gói tin từ nguồn đến đích. Các quản trị viên cũng có thể chỉ định sử dụng đường dẫn nào bằng cách gõ vào, vì một số đường dẫn do quản trị viên chỉ định xem ra phù hợp hơn. Ví dụ, một đường dẫn có thể cung cấp liên kết với tốc độ chậm hơn dùng cho việc bảo lưu, trong khi những liên kết có tốc độ cao lại cần hơn trong việc truyền dữ liệu. Xin xem mục \"Routers\" và \"Routing Protocols and Algorithms\" để tiếp tục nghiên cứu về vấn đề này."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {
@@ -14890,7 +14890,7 @@
   },
   {
     "h": "neubauer artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch tuyến giáp."}],
+    "segs": [{"k": "m", "t": "Động mạch tuyến giáp."}],
     "k": "neubauer artery"
   },
   {"h": "neucroclonic", "segs": [{"k": "m", "t": "rung giật thần kinh."}], "k": "neucroclonic"},
@@ -15069,7 +15069,7 @@
   },
   {
     "h": "neuralgia facialis vera",
-    "segs": [{"k": "m", "t": "Ðau dây thần kinh hạch gối."}],
+    "segs": [{"k": "m", "t": "Đau dây thần kinh hạch gối."}],
     "k": "neuralgia facialis vera"
   },
   {
@@ -15330,7 +15330,7 @@
     "k": "neuritis multiplex endemica"
   },
   {"h": "neuro-", "segs": [{"k": "m", "t": "(k.h) thần kinh."}], "k": "neuro-"},
-  {"h": "neuro-electricity", "segs": [{"k": "m", "t": "Ðiện thần kinh."}], "k": "neuro-electricity"},
+  {"h": "neuro-electricity", "segs": [{"k": "m", "t": "Điện thần kinh."}], "k": "neuro-electricity"},
   {"h": "neuro-induction", "segs": [{"k": "m", "t": "(sự) ám thị."}], "k": "neuro-induction"},
   {
     "h": "neuro-inidia",
@@ -16097,7 +16097,7 @@
   {"h": "neuromalacia", "segs": [{"k": "m", "t": "(chứng) nhuyễn thần kinh."}], "k": "neuromalacia"},
   {
     "h": "neuromast",
-    "segs": [{"k": "m", "t": "Ðối thần kinh, khối thần kinh giác quan."}],
+    "segs": [{"k": "m", "t": "Đối thần kinh, khối thần kinh giác quan."}],
     "k": "neuromast"
   },
   {
@@ -16389,7 +16389,7 @@
     "segs": [{"k": "m", "t": "(thủ thuật) tạo hình thần kinh."}],
     "k": "neuroplasty"
   },
-  {"h": "neuroplexus", "segs": [{"k": "m", "t": "Ðám rối thần kinh."}], "k": "neuroplexus"},
+  {"h": "neuroplexus", "segs": [{"k": "m", "t": "Đám rối thần kinh."}], "k": "neuroplexus"},
   {"h": "neuroploca", "segs": [{"k": "m", "t": "Hạch thần kinh."}], "k": "neuroploca"},
   {"h": "neuropodion", "segs": [{"k": "m", "t": "Chân nơron."}], "k": "neuropodion"},
   {"h": "neuropodium", "segs": [{"k": "m", "t": "Chân noron."}], "k": "neuropodium"},
@@ -16675,10 +16675,10 @@
   {"h": "neurothele", "segs": [{"k": "m", "t": "Nhú thần kinh."}], "k": "neurothele"},
   {
     "h": "neurotherapeutics",
-    "segs": [{"k": "m", "t": "Ðiều tri bệnh thần kinh."}],
+    "segs": [{"k": "m", "t": "Điều tri bệnh thần kinh."}],
     "k": "neurotherapeutics"
   },
-  {"h": "neurotherapy", "segs": [{"k": "m", "t": "Ðiều trị bệnh thần kinh."}], "k": "neurotherapy"},
+  {"h": "neurotherapy", "segs": [{"k": "m", "t": "Điều trị bệnh thần kinh."}], "k": "neurotherapy"},
   {
     "h": "neurothlipsis",
     "segs": [{"k": "m", "t": "(sự) kích thích dây thần kinh, (sự) ép dây thần kinh."}],
@@ -16794,7 +16794,7 @@
     "segs": [{"k": "m", "t": "Tình trạng nhiễm độc thần kinh."}],
     "k": "neurotoxia"
   },
-  {"h": "neurotoxic", "segs": [{"k": "m", "t": "Ðộc hại thần kinh."}], "k": "neurotoxic"},
+  {"h": "neurotoxic", "segs": [{"k": "m", "t": "Độc hại thần kinh."}], "k": "neurotoxic"},
   {
     "h": "neurotoxic serum",
     "segs": [{"k": "m", "t": "Huyết thanh hủy thần kinh."}],
@@ -16818,7 +16818,7 @@
     ],
     "k": "neurotoxicology"
   },
-  {"h": "neurotoxin", "segs": [{"k": "m", "t": "Ðộc tố thần kinh."}], "k": "neurotoxin"},
+  {"h": "neurotoxin", "segs": [{"k": "m", "t": "Độc tố thần kinh."}], "k": "neurotoxin"},
   {
     "h": "Neurotransmitter",
     "segs": [{"k": "m", "t": "chất dẫn truyền thần kinh."}],
@@ -16892,7 +16892,7 @@
     ],
     "k": "neurovirology"
   },
-  {"h": "neurovirulence", "segs": [{"k": "m", "t": "Ðộc hại thần kinh."}], "k": "neurovirulence"},
+  {"h": "neurovirulence", "segs": [{"k": "m", "t": "Độc hại thần kinh."}], "k": "neurovirulence"},
   {"h": "neurovirus", "segs": [{"k": "m", "t": "vắc-xin virút."}], "k": "neurovirus"},
   {
     "h": "neurovisceral",
@@ -16996,7 +16996,7 @@
       {"k": "m", "t": "không có tính chất rõ rệt"},
       {"k": "ex", "t": "a neutral colour (tint", "vi": ") màu không rõ rệt"},
       {"k": "m", "t": "(kỹ thuật) ở vị trí số không"},
-      {"k": "ex", "t": "To leave a motorcycle in neutral gear", "vi": "Ðể xe về số không"},
+      {"k": "ex", "t": "To leave a motorcycle in neutral gear", "vi": "Để xe về số không"},
       {
         "k": "ex",
         "t": "To put the gear lever in the neutral position",
@@ -17390,7 +17390,7 @@
     "segs": [{"k": "m", "t": "Phản ứng trung hòa."}],
     "k": "neutral reaction"
   },
-  {"h": "neutral red", "segs": [{"k": "m", "t": "Ðỏ trung tính."}], "k": "neutral red"},
+  {"h": "neutral red", "segs": [{"k": "m", "t": "Đỏ trung tính."}], "k": "neutral red"},
   {
     "h": "neutral reduction",
     "segs": [{"k": "m", "t": "sự khử trong môi trường trung tính."}],
@@ -18392,7 +18392,7 @@
   {
     "h": "never fear",
     "segs": [
-      {"k": "m", "t": "Ðừng lo hãy tin tưởng."},
+      {"k": "m", "t": "Đừng lo hãy tin tưởng."},
       {
         "k": "ex",
         "t": "I'll be there on time -never fear:",
@@ -18414,7 +18414,7 @@
       {
         "k": "ex",
         "t": "I wanted to talk to you, but never mind. It wasn't important:",
-        "vi": "Tôi muốn nói chuyện với bạn, nhưng tôi quên đi. Ðiều này không còn quan trọng nữa."
+        "vi": "Tôi muốn nói chuyện với bạn, nhưng tôi quên đi. Điều này không còn quan trọng nữa."
       },
       {
         "k": "ex",
@@ -18852,12 +18852,12 @@
       {
         "k": "ex",
         "t": "It's a whole new ball game since Jane took over the office:",
-        "vi": "Ðó là một loạt tình huống hoàn toàn mới từ khi Jane quản lý văn phòng này."
+        "vi": "Đó là một loạt tình huống hoàn toàn mới từ khi Jane quản lý văn phòng này."
       },
       {
         "k": "ex",
         "t": "You can't do the things you used to do around here. It's a new ball game:",
-        "vi": "Bạn không thể làm những gì trước đây bạn hay làm ở nơi này nữa. Ðó là một loạt tình huống mới."
+        "vi": "Bạn không thể làm những gì trước đây bạn hay làm ở nơi này nữa. Đó là một loạt tình huống mới."
       }
     ],
     "k": "new ball game"
@@ -18940,7 +18940,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một tỉnh Ðại Tây Dương thuộc Canađa, phía tây vịnh Saint Lawrence. Ðược thành lập đầu tiên vào năm 1604 bởi Pháp. Nó thuộc một phần của Acadia (nay là Nova Scotia), cho đến năm 1713 nó được nhượng lại cho Anh. Nơi đây có nhiều cánh rừng, xen kẽ sông. Tệ săn bắt thú rừng diễn ra trầm trọng. Dân di cư trong cuộc chiến giành độc lập của Mỹ xung đột với nông dân Xcốt-len."
+        "t": "Một tỉnh Đại Tây Dương thuộc Canađa, phía tây vịnh Saint Lawrence. Được thành lập đầu tiên vào năm 1604 bởi Pháp. Nó thuộc một phần của Acadia (nay là Nova Scotia), cho đến năm 1713 nó được nhượng lại cho Anh. Nơi đây có nhiều cánh rừng, xen kẽ sông. Tệ săn bắt thú rừng diễn ra trầm trọng. Dân di cư trong cuộc chiến giành độc lập của Mỹ xung đột với nông dân Xcốt-len."
       }
     ],
     "k": "new brunswisk"
@@ -18968,7 +18968,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nhóm các đảo ở nam Thái Bình Dương. Ðảo thuộc New Caledonia hình thành từ 3000 năm, trước khi nó được phát hiện bởi thuyền trưởng James Cook năm 1774. Pháp sáp nhập đảo vào năm 1853 và biến nó thành thuộc địa 1864. Khi phát hiện nguồn mạ kền 1863 ở New Caledonia, Pháp đã phát triển nó thành vùng kinh tế quan trọng. Nhóm đảo này bị liên bang xâm chiếm năm 1942-1945. Năm 1946, nó là một hạt ở nước ngoài thuộc Pháp. Rồi một cuộc trưng cầu dân ý tổ chức năm 1987 để bỏ phiếu cho Pháp tiếp tục quản lý, nhưng bị công chúng tẩy chay nên phải tổ chức lại vào năm 1998."
+        "t": "Một nhóm các đảo ở nam Thái Bình Dương. Đảo thuộc New Caledonia hình thành từ 3000 năm, trước khi nó được phát hiện bởi thuyền trưởng James Cook năm 1774. Pháp sáp nhập đảo vào năm 1853 và biến nó thành thuộc địa 1864. Khi phát hiện nguồn mạ kền 1863 ở New Caledonia, Pháp đã phát triển nó thành vùng kinh tế quan trọng. Nhóm đảo này bị liên bang xâm chiếm năm 1942-1945. Năm 1946, nó là một hạt ở nước ngoài thuộc Pháp. Rồi một cuộc trưng cầu dân ý tổ chức năm 1987 để bỏ phiếu cho Pháp tiếp tục quản lý, nhưng bị công chúng tẩy chay nên phải tổ chức lại vào năm 1998."
       }
     ],
     "k": "new caledonia"
@@ -19137,7 +19137,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một Ðảng chính trị ở Canađa. Nó vượt ra khỏi Liên bang hợp tác thịnh vượng chung Canađa (CCF), một Ðảng của công nhân và nông dân hình thành trong suốt khủng hoảng năm 1932. Năm 1956, hội nghị lao động hợp tác thương mại Canađa thành lập, và năm 1961 nó hợp nhất với CCF để lập nên Ðảng dân chủ mới, tạo những hoạch định kinh tế nhằm mang lại lợi ích xã hội. Những người dẫn đầu của NDP là T.C.Douglas (1961-1971), David Lewis (1971-1975), Ed Broadbent (1975-1989), Audrey McLaughlin (1989-1995), và Alexa McDonough (1995-)."
+        "t": "Một Đảng chính trị ở Canađa. Nó vượt ra khỏi Liên bang hợp tác thịnh vượng chung Canađa (CCF), một Đảng của công nhân và nông dân hình thành trong suốt khủng hoảng năm 1932. Năm 1956, hội nghị lao động hợp tác thương mại Canađa thành lập, và năm 1961 nó hợp nhất với CCF để lập nên Đảng dân chủ mới, tạo những hoạch định kinh tế nhằm mang lại lợi ích xã hội. Những người dẫn đầu của NDP là T.C.Douglas (1961-1971), David Lewis (1971-1975), Ed Broadbent (1975-1989), Audrey McLaughlin (1989-1995), và Alexa McDonough (1995-)."
       }
     ],
     "k": "new democratic party"
@@ -19148,7 +19148,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một đường lối được đưa vào Liên minh Xô viết bởi Lênin năm 1921. Nó được tích tụ từ những thăng trầm trên con đường hoạt động chiến tranh cộng sản của ông, diễn ra trong suốt cuộc nội chiến Nga để củng cố tinh thần cho hồng quân và dân thành phố. Nhưng đối với nông dân thì nó bị cho là sai lầm. Ðường lối này có thể áp dụng vào nông nghiệp, thương mại, công nghiệp, khuyến khích nước ngoài đầu tư. Nó là một thành công của Lênin mà ông không còn sống để thấy được, nhưng nó đã kết thúc (1929) bởi đường lối kế hoạch 5 năm của Stalin."
+        "t": "Một đường lối được đưa vào Liên minh Xô viết bởi Lênin năm 1921. Nó được tích tụ từ những thăng trầm trên con đường hoạt động chiến tranh cộng sản của ông, diễn ra trong suốt cuộc nội chiến Nga để củng cố tinh thần cho hồng quân và dân thành phố. Nhưng đối với nông dân thì nó bị cho là sai lầm. Đường lối này có thể áp dụng vào nông nghiệp, thương mại, công nghiệp, khuyến khích nước ngoài đầu tư. Nó là một thành công của Lênin mà ông không còn sống để thấy được, nhưng nó đã kết thúc (1929) bởi đường lối kế hoạch 5 năm của Stalin."
       }
     ],
     "k": "new economic policy"
@@ -19177,7 +19177,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: tên trước đây được đặt bởi thuyền trưởng John Smith năm 1614, vùng được hội đồng công nhận năm 1620. Ðây là hội của những người hành hương và hội của những người thuộc thánh giáo Anh mới. Năm bang trong sáu bang đều thuộc Masschusett. Năm 1643, Liên bang Anh mới được thành lập để phối hợp bảo vệ và ngăn cản đường lối của Ấn Ðộ. James II của chính quyền trung ương nằm trong vùng được chuyển sang lãnh địa của Anh mới (1686-1689). Mặc dầu, hầu hết đất của vùng này chỉ để trồng trọt, nhưng những thương nhân Mỹ và ngư dân lại đến sinh sống ở bãi biển, Caribbean, và phát triển nền thương mại xuyên Ðại Tây Dương. Nó là vùng tập trung những người yêu nước trong cuộc chiến Mỹ giành độc lập, bao gồm cả đảo Newfoundland ở vịnh của Saint Lawrence và Labrador trên lục địa."
+        "t": "Lịch sử: tên trước đây được đặt bởi thuyền trưởng John Smith năm 1614, vùng được hội đồng công nhận năm 1620. Đây là hội của những người hành hương và hội của những người thuộc thánh giáo Anh mới. Năm bang trong sáu bang đều thuộc Masschusett. Năm 1643, Liên bang Anh mới được thành lập để phối hợp bảo vệ và ngăn cản đường lối của Ấn Độ. James II của chính quyền trung ương nằm trong vùng được chuyển sang lãnh địa của Anh mới (1686-1689). Mặc dầu, hầu hết đất của vùng này chỉ để trồng trọt, nhưng những thương nhân Mỹ và ngư dân lại đến sinh sống ở bãi biển, Caribbean, và phát triển nền thương mại xuyên Đại Tây Dương. Nó là vùng tập trung những người yêu nước trong cuộc chiến Mỹ giành độc lập, bao gồm cả đảo Newfoundland ở vịnh của Saint Lawrence và Labrador trên lục địa."
       }
     ],
     "k": "new england"
@@ -19209,7 +19209,7 @@
     "k": "new entity method"
   },
   {"h": "new entrants", "segs": [{"k": "m", "t": "những người mới gia nhập."}], "k": "new entrants"},
-  {"h": "new Eve", "segs": [{"k": "m", "t": "Evà mới (danh hiệu ÐM)."}], "k": "new eve"},
+  {"h": "new Eve", "segs": [{"k": "m", "t": "Evà mới (danh hiệu ĐM)."}], "k": "new eve"},
   {
     "h": "new ex-interest",
     "segs": [{"k": "m", "t": "chứng khoán mới không kể lãi."}],
@@ -19280,7 +19280,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Việc chiếm hữu của Pháp vùng bắc Mỹ đã đi vào ổn định từ thế kỷ 16 đến thế kỷ 18. Trung tâm của nó là Quebec (phát hiện năm 1608) và Montreal (phát hiện năm 1642) trên sông St Lawrence, vượt ra cả hồ Superior, gồm Newfoundland, Acadia (NOVA SCOTIA), và thung lũng Mississippisi, nằm xa vịnh của Mexicô. Nó bắt đầu bị chia nhỏ ra bởi hòa ước của Utrech được ký năm 1713, khi Pháp mất Acadia, Newfoundland và vịnh Hudson. Khi cuộc cạnh tranh giành quyền thương mại và khi sự đe dọa của Anh lên thuộc địa ở phía nam, New France trở thành nguyên nhân của cuộc chiến giữa Pháp và Ấn Ðộ. Chiến thắng của Wolfe trên đồng bằng Abraham (1759) đã dẫn đến kết thúc sự thống trị của Pháp năm 1763. New France cũng đã kết thúc sự xung đột giữa hai nước bằng những điều khoản trong Hiệp ước Pari. Louisiana, thuộc địa cuối cùng của Pháp trên lục địa nam Mỹ, đã được chuyển nhượng lại cho Mỹ năm 1803."
+        "t": "Việc chiếm hữu của Pháp vùng bắc Mỹ đã đi vào ổn định từ thế kỷ 16 đến thế kỷ 18. Trung tâm của nó là Quebec (phát hiện năm 1608) và Montreal (phát hiện năm 1642) trên sông St Lawrence, vượt ra cả hồ Superior, gồm Newfoundland, Acadia (NOVA SCOTIA), và thung lũng Mississippisi, nằm xa vịnh của Mexicô. Nó bắt đầu bị chia nhỏ ra bởi hòa ước của Utrech được ký năm 1713, khi Pháp mất Acadia, Newfoundland và vịnh Hudson. Khi cuộc cạnh tranh giành quyền thương mại và khi sự đe dọa của Anh lên thuộc địa ở phía nam, New France trở thành nguyên nhân của cuộc chiến giữa Pháp và Ấn Độ. Chiến thắng của Wolfe trên đồng bằng Abraham (1759) đã dẫn đến kết thúc sự thống trị của Pháp năm 1763. New France cũng đã kết thúc sự xung đột giữa hai nước bằng những điều khoản trong Hiệp ước Pari. Louisiana, thuộc địa cuối cùng của Pháp trên lục địa nam Mỹ, đã được chuyển nhượng lại cho Mỹ năm 1803."
       },
       {
         "k": "m",
@@ -19359,7 +19359,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thuộc địa của Tây Ban Nha, bao gồm cả vùng bắc của Nam Mỹ. Năm 1510, Tây Ban Nha xâm chiếm trung và Nam Mỹ, đồng thời sử dụng bờ biển Caribbean của Côlômbia. Việc này dẫn đến chiến dịch hai năm vào Andes. Vào khoảng năm 1538, Tây Ban Nha xâm chiếm cả Chibcha Ấn Ðộ, cướp vàng bạc, và một thành phố sau này tìm thấy có tên là Bogota. Vàng, bạc và đá quý từ những vùng núi của Antioquia và Cauca được xuất khẩu suốt Cartagena. Năm 1564, New Granada trở thành một quận của Pêru. Tuy nhiên, vào năm 1717 nó là một trấn nằm trong phạm vi của cả Côlômbia, Ecuđo, Panama, và Vênêzuêla."
+        "t": "Một thuộc địa của Tây Ban Nha, bao gồm cả vùng bắc của Nam Mỹ. Năm 1510, Tây Ban Nha xâm chiếm trung và Nam Mỹ, đồng thời sử dụng bờ biển Caribbean của Côlômbia. Việc này dẫn đến chiến dịch hai năm vào Andes. Vào khoảng năm 1538, Tây Ban Nha xâm chiếm cả Chibcha Ấn Độ, cướp vàng bạc, và một thành phố sau này tìm thấy có tên là Bogota. Vàng, bạc và đá quý từ những vùng núi của Antioquia và Cauca được xuất khẩu suốt Cartagena. Năm 1564, New Granada trở thành một quận của Pêru. Tuy nhiên, vào năm 1717 nó là một trấn nằm trong phạm vi của cả Côlômbia, Ecuđo, Panama, và Vênêzuêla."
       }
     ],
     "k": "new granada"
@@ -19481,7 +19481,7 @@
   },
   {
     "h": "new issue",
-    "segs": [{"k": "m", "t": "1. Ðợt phát hành mới 2. Mới tham gia (vào thị trường chứng khoán)."}],
+    "segs": [{"k": "m", "t": "1. Đợt phát hành mới 2. Mới tham gia (vào thị trường chứng khoán)."}],
     "k": "new issue"
   },
   {
@@ -19518,7 +19518,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một thuộc địa và bang của Mỹ, nằm ở bờ biển đông, giữa những cửa sông Hudson và Delaware. Theo yêu sách Hà Lan, nó trở thành hai thuộc địa độc quyền của Anh năm 1664 và là một thuộc địa liên minh vương triều năm 1702. Phía tây New Jersey giáp Quaker, nối liền Anh, trong khi phần đông, dân New England và dân thuộc giáo hội Xcốt-len định cư. Bang mới này là chiến trường trong giai đoạn đầu của cuộc chiến giành độc lập Mỹ, cùng với nhiều trận chiến xảy ra tại Trenton (1776), Princeton (1777) và Monmouth (1778). Ðến năm 1787, nó trở thành một bang nhỏ, theo quyết định của hội đồng lập pháp."
+        "t": "Một thuộc địa và bang của Mỹ, nằm ở bờ biển đông, giữa những cửa sông Hudson và Delaware. Theo yêu sách Hà Lan, nó trở thành hai thuộc địa độc quyền của Anh năm 1664 và là một thuộc địa liên minh vương triều năm 1702. Phía tây New Jersey giáp Quaker, nối liền Anh, trong khi phần đông, dân New England và dân thuộc giáo hội Xcốt-len định cư. Bang mới này là chiến trường trong giai đoạn đầu của cuộc chiến giành độc lập Mỹ, cùng với nhiều trận chiến xảy ra tại Trenton (1776), Princeton (1777) và Monmouth (1778). Đến năm 1787, nó trở thành một bang nhỏ, theo quyết định của hội đồng lập pháp."
       }
     ],
     "k": "new jersey"
@@ -19583,7 +19583,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phe cánh tả) Cuộc vận động của giới trí thức năm 1960, cầu nối dẫn đường cho xã hội phương tây. Phe cánh tả này gồm những người ủng hộ xã hội chủ nghĩa nhưng lại phản đối chủ nghĩa cộng sản chính thống. Các thành viên hội tụ nhiều từ những người làm công tác văn hóa, thông tin đại chúng, chủ nghĩa tư bản là phe đối lập với nó. Những cuốn sách gây ảnh hưởng lớn là văn hóa và xã hội của Raymond Williams (1958) và một thứ yếu của con người của Herbert Marcuse (1964). Ðường lối phe cánh tả chủ yếu chống chiến tranh, như chống chiến tranh Việt Nam (1964-1975) và cuộc biểu tình của sinh viên Pari vào tháng 5 năm 1968, và dẫn đầu trong phương hướng giáo dục và quản trị."
+        "t": "phe cánh tả) Cuộc vận động của giới trí thức năm 1960, cầu nối dẫn đường cho xã hội phương tây. Phe cánh tả này gồm những người ủng hộ xã hội chủ nghĩa nhưng lại phản đối chủ nghĩa cộng sản chính thống. Các thành viên hội tụ nhiều từ những người làm công tác văn hóa, thông tin đại chúng, chủ nghĩa tư bản là phe đối lập với nó. Những cuốn sách gây ảnh hưởng lớn là văn hóa và xã hội của Raymond Williams (1958) và một thứ yếu của con người của Herbert Marcuse (1964). Đường lối phe cánh tả chủ yếu chống chiến tranh, như chống chiến tranh Việt Nam (1964-1975) và cuộc biểu tình của sinh viên Pari vào tháng 5 năm 1968, và dẫn đầu trong phương hướng giáo dục và quản trị."
       }
     ],
     "k": "new left ("
@@ -19699,7 +19699,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Lực lượng \"đầu tròn\" Anh được lập theo sắc lệnh nghị viện vào ngày 15 tháng hai năm 1645. Một đội quân gồm 22.000 lính, nó khống chế lực lượng không phục tùng trong nội chiến Anh. Vị tổng tư lệnh đầu tiên của nó là Fairfax, với Philip Skippon chỉ huy bộ binh và Oliver Cromwell chỉ huy kỵ binh. Ðặc biệt là đội kỵ binh, họ được huấn luyện nghiêm, có kỷ luật. Họ được thưởng và thăng chức theo công lao. Những chiến thắng vang rền của đội chứng tỏ ở Naseby và Preston. Quân đội gắn kết chặt chẽ với nhau cho đến thời khôi phục chế độ quân chủ. Tôn giáo và học thuyết chính trị lan tràn vào hàng ngũ của nó, ảnh hưởng đặc biệt vào chủ trương bình đẳng giữa năm 1647 và 1649. Quân đội là niềm tự hào và là nền tảng chính quyền trong những năm kế tiếp."
+        "t": "Lực lượng \"đầu tròn\" Anh được lập theo sắc lệnh nghị viện vào ngày 15 tháng hai năm 1645. Một đội quân gồm 22.000 lính, nó khống chế lực lượng không phục tùng trong nội chiến Anh. Vị tổng tư lệnh đầu tiên của nó là Fairfax, với Philip Skippon chỉ huy bộ binh và Oliver Cromwell chỉ huy kỵ binh. Đặc biệt là đội kỵ binh, họ được huấn luyện nghiêm, có kỷ luật. Họ được thưởng và thăng chức theo công lao. Những chiến thắng vang rền của đội chứng tỏ ở Naseby và Preston. Quân đội gắn kết chặt chẽ với nhau cho đến thời khôi phục chế độ quân chủ. Tôn giáo và học thuyết chính trị lan tràn vào hàng ngũ của nó, ảnh hưởng đặc biệt vào chủ trương bình đẳng giữa năm 1647 và 1649. Quân đội là niềm tự hào và là nền tảng chính quyền trong những năm kế tiếp."
       }
     ],
     "k": "new model army"
@@ -19968,8 +19968,8 @@
     "h": "New Taiwan Currency",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "đồng tiền Ðài Loan mới"},
-      {"k": "m", "t": "Tân Ðài Tệ"}
+      {"k": "m", "t": "đồng tiền Đài Loan mới"},
+      {"k": "m", "t": "Tân Đài Tệ"}
     ],
     "k": "new taiwan currency"
   },
@@ -20183,7 +20183,7 @@
       },
       {
         "k": "m",
-        "t": "Ðịa hình: hai đảo chính, tách biệt nhau bởi eo biển Cook, trải dài từ đông bắc đến tây nam với khoảng cách hơn 1.600km. Ðường biên giới giáp ranh với Ấn Ðộ và Thái Bình Dương nằm trên đảo bắc, và chéo sang đảo nam. Có nhiều trận động đất xảy ra dọc đường biên giới này. Hầu hết các đảo đều nằm ở hướng tây nên mang khí hậu ôn hòa, và ẩm ướt ngang qua biển Tasman; mũi đất bắc có khí hậu rất ấm áp, trong khi vùng cực bắc trên đảo Stewart lại có tuyết phủ. Ðất đai có thể trồng trọt và chăn gia súc, với những cánh rừng rộng lớn và nhiều nguồn than đá dự trữ. Mỏm tuyết nam dãy Alps, ngọn núi Cook ở giữa, chạy dài trên đảo nam. Nhiều sông đóng băng trên cao và hồ nhỏ nằm giữa chúng; rừng cây phía tây nam đổ dốc xuống mép vịnh hẹp, công viên quốc gia Fiordland."
+        "t": "Địa hình: hai đảo chính, tách biệt nhau bởi eo biển Cook, trải dài từ đông bắc đến tây nam với khoảng cách hơn 1.600km. Đường biên giới giáp ranh với Ấn Độ và Thái Bình Dương nằm trên đảo bắc, và chéo sang đảo nam. Có nhiều trận động đất xảy ra dọc đường biên giới này. Hầu hết các đảo đều nằm ở hướng tây nên mang khí hậu ôn hòa, và ẩm ướt ngang qua biển Tasman; mũi đất bắc có khí hậu rất ấm áp, trong khi vùng cực bắc trên đảo Stewart lại có tuyết phủ. Đất đai có thể trồng trọt và chăn gia súc, với những cánh rừng rộng lớn và nhiều nguồn than đá dự trữ. Mỏm tuyết nam dãy Alps, ngọn núi Cook ở giữa, chạy dài trên đảo nam. Nhiều sông đóng băng trên cao và hồ nhỏ nằm giữa chúng; rừng cây phía tây nam đổ dốc xuống mép vịnh hẹp, công viên quốc gia Fiordland."
       },
       {
         "k": "m",
@@ -20191,7 +20191,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: người đầu tiên sống trên đảo là người Maori thuộc đảo Polinêdi vào khoảng 800 năm sau Công Nguyên. Dân châu Âu du nhập vào đây năm 1642, sau phát hiện của thủy thủ Abel Tasman, Hà Lan. Thuyền trưởng James Cook, người thành công trong việc tìm ra đảo, điền thêm đảo vào hải đồ và Anh khoanh vùng cai quản nơi đây ngay lập tức. Các thương nhân thuộc địa bắt đầu đến đây từ New South Wales của Úc và từ hội New Zealand của E. G. Wakefield (1837). Chủ nghĩa nhân đạo du nhập vào các đảo thuộc địa New Zealand vào năm 1840 đặt nền móng hệ thống luật, nhằm chỉnh đốn dân định cư Maori (Hiệp ước của Waitangi). Năm 1846, chính quyền Anh đã bàn bạc để đưa ra một hiến pháp (bãi bỏ năm 1848) đối với New Zealand, chia cắt nó ra hai tỉnh: New Munster và New Ulster. Năm 1852, một chính quyền đại diện đảo đặt ở đây. Chính quyền chịu trách nhiệm trực tiếp năm 1856. Sự phồn thịnh nhất của đảo nam là việc đẩy giá vàng lên cao năm 1860. Trên đảo bắc, dân Canađa nói tiếng Anh phải gánh chịu việc tranh giành đất của người Maori và chính quyền. Sau chiến tranh Maori, hầu hết đất trên đảo đều có dân Maori sinh sống. Việc điều chỉnh đường biên giới lấn sang cả châu Á gây phẫn nộ cho thổ dân New Zealand. Thậm chí, việc điều chỉnh này còn đưa ra một đạo luật hạn chế dân nhập cư (1920). Vào năm 1893, phụ nữ được quyền bỏ phiếu. Năm 1931, New Zealand trở thành một chính quyền độc lập, mặc dầu, nó không được thông qua đạo luật Westminster trước đây cho đến năm 1947. Trong những năm 1891-1911 (dưới hệ thống Ðảng lao động tự do) và những năm 1935-47 (Ðảng lao động), New Zealand nổi tiếng là một bang theo chủ nghĩa xã hội, với trợ cấp toàn diện và giáo dục công ích. New Zealand tích cực ủng hộ phe đồng minh trong chiến tranh thế giới, có nền chính trị ổn định và mức sống cao. Sau chiến tranh thế giới thứ 2, nó tập trung các thế lực chính trị trên Thái Bình Dương và viễn đông (1951-1986) và đưa một lực lượng quân sự vào Việt Nam. Khi Ðảng lao động trở lại nắm quyền, nó rút lui lực lượng phi hạt nhân ra khỏi Anzus. Nền kinh tế tụt hậu năm 1990, cũng là năm Jim Bolger của Ðảng quốc gia thắng cử. Chính quyền công nhận quan điểm phi hạt nhân của Ðảng lao động nhưng lại cắt giảm trợ cấp xã hội, kết thúc hệ thống giáo dục miễn phí và thay vào đó là thù lao sức khỏe. Ðảng quốc gia tái đắc cử năm 1993 nhưng lại mất ưu thế vào năm 1996. Vào tháng 11 năm 1997, Bolger bị bãi chức và bộ trưởng phe cánh hữu là Jenny Shipley trở thành vị nữ thủ tướng chính phủ đầu tiên của New Zealand. Các nhà hoạt động xã hội Maori tiếp tục đưa yêu sách đòi bồi thường đất đai do dân định cư châu Âu thâu tóm bất hợp pháp và chính quyền chấp nhận bồi thường cho bộ tộc Waikato năm 1994 và cho liên đoàn bộ tộc Tainui năm 1995; vào năm 1996, phần lớn đất của đảo nam được trả về cho bộ tộc Ngai Tahu."
+        "t": "Lịch sử: người đầu tiên sống trên đảo là người Maori thuộc đảo Polinêdi vào khoảng 800 năm sau Công Nguyên. Dân châu Âu du nhập vào đây năm 1642, sau phát hiện của thủy thủ Abel Tasman, Hà Lan. Thuyền trưởng James Cook, người thành công trong việc tìm ra đảo, điền thêm đảo vào hải đồ và Anh khoanh vùng cai quản nơi đây ngay lập tức. Các thương nhân thuộc địa bắt đầu đến đây từ New South Wales của Úc và từ hội New Zealand của E. G. Wakefield (1837). Chủ nghĩa nhân đạo du nhập vào các đảo thuộc địa New Zealand vào năm 1840 đặt nền móng hệ thống luật, nhằm chỉnh đốn dân định cư Maori (Hiệp ước của Waitangi). Năm 1846, chính quyền Anh đã bàn bạc để đưa ra một hiến pháp (bãi bỏ năm 1848) đối với New Zealand, chia cắt nó ra hai tỉnh: New Munster và New Ulster. Năm 1852, một chính quyền đại diện đảo đặt ở đây. Chính quyền chịu trách nhiệm trực tiếp năm 1856. Sự phồn thịnh nhất của đảo nam là việc đẩy giá vàng lên cao năm 1860. Trên đảo bắc, dân Canađa nói tiếng Anh phải gánh chịu việc tranh giành đất của người Maori và chính quyền. Sau chiến tranh Maori, hầu hết đất trên đảo đều có dân Maori sinh sống. Việc điều chỉnh đường biên giới lấn sang cả châu Á gây phẫn nộ cho thổ dân New Zealand. Thậm chí, việc điều chỉnh này còn đưa ra một đạo luật hạn chế dân nhập cư (1920). Vào năm 1893, phụ nữ được quyền bỏ phiếu. Năm 1931, New Zealand trở thành một chính quyền độc lập, mặc dầu, nó không được thông qua đạo luật Westminster trước đây cho đến năm 1947. Trong những năm 1891-1911 (dưới hệ thống Đảng lao động tự do) và những năm 1935-47 (Đảng lao động), New Zealand nổi tiếng là một bang theo chủ nghĩa xã hội, với trợ cấp toàn diện và giáo dục công ích. New Zealand tích cực ủng hộ phe đồng minh trong chiến tranh thế giới, có nền chính trị ổn định và mức sống cao. Sau chiến tranh thế giới thứ 2, nó tập trung các thế lực chính trị trên Thái Bình Dương và viễn đông (1951-1986) và đưa một lực lượng quân sự vào Việt Nam. Khi Đảng lao động trở lại nắm quyền, nó rút lui lực lượng phi hạt nhân ra khỏi Anzus. Nền kinh tế tụt hậu năm 1990, cũng là năm Jim Bolger của Đảng quốc gia thắng cử. Chính quyền công nhận quan điểm phi hạt nhân của Đảng lao động nhưng lại cắt giảm trợ cấp xã hội, kết thúc hệ thống giáo dục miễn phí và thay vào đó là thù lao sức khỏe. Đảng quốc gia tái đắc cử năm 1993 nhưng lại mất ưu thế vào năm 1996. Vào tháng 11 năm 1997, Bolger bị bãi chức và bộ trưởng phe cánh hữu là Jenny Shipley trở thành vị nữ thủ tướng chính phủ đầu tiên của New Zealand. Các nhà hoạt động xã hội Maori tiếp tục đưa yêu sách đòi bồi thường đất đai do dân định cư châu Âu thâu tóm bất hợp pháp và chính quyền chấp nhận bồi thường cho bộ tộc Waikato năm 1994 và cho liên đoàn bộ tộc Tainui năm 1995; vào năm 1996, phần lớn đất của đảo nam được trả về cho bộ tộc Ngai Tahu."
       },
       {"k": "m", "t": "Thủ đô: Wellington."},
       {"k": "m", "t": "Diện tích: 267.844 km2"},
@@ -20770,7 +20770,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(NIC) Nước nằm trong khối thế giới thứ ba hay nước đang phát triển, có nền kinh tế phát triển vượt bậc từ năm 1970. Các nước quanh Thái Bình Dương như Hồng kông, Singapo, Nam Triều Tiên, và Ðài Loan dẫn đầu trong những nước đang phát triển. Các nước khác bao gồm Brazin, Malaysia, Mexicô và Thái Lan. Những nước đông nam Á cũng nằm trong khối đi đầu trong kinh tế xuất khẩu. Miễn giảm dài hạn vấn đề nợ nhằm hỗ trợ nhiều nước đang phát triển (như những nước thuộc châu Mỹ la tinh). Những nước đang phát triển thuộc đông nam Á đã đi đến bước ngoặt của tiến trình vào cuối năm 1990, khi nền kinh tế căng thẳng, gây mất lòng tin từ phía nhà đầu tư nước ngoài thông qua cuộc khủng hoảng kinh tế ở Malaysia và Thái Lan. Riêng, Nam triều tiên đáp ứng quỹ tiền tệ quốc tế vì hình thức cho vay chắc chắn."
+        "t": "(NIC) Nước nằm trong khối thế giới thứ ba hay nước đang phát triển, có nền kinh tế phát triển vượt bậc từ năm 1970. Các nước quanh Thái Bình Dương như Hồng kông, Singapo, Nam Triều Tiên, và Đài Loan dẫn đầu trong những nước đang phát triển. Các nước khác bao gồm Brazin, Malaysia, Mexicô và Thái Lan. Những nước đông nam Á cũng nằm trong khối đi đầu trong kinh tế xuất khẩu. Miễn giảm dài hạn vấn đề nợ nhằm hỗ trợ nhiều nước đang phát triển (như những nước thuộc châu Mỹ la tinh). Những nước đang phát triển thuộc đông nam Á đã đi đến bước ngoặt của tiến trình vào cuối năm 1990, khi nền kinh tế căng thẳng, gây mất lòng tin từ phía nhà đầu tư nước ngoài thông qua cuộc khủng hoảng kinh tế ở Malaysia và Thái Lan. Riêng, Nam triều tiên đáp ứng quỹ tiền tệ quốc tế vì hình thức cho vay chắc chắn."
       }
     ],
     "k": "newly industrializing country"
@@ -21554,7 +21554,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(kiểu) cột báo. Một loại khuôn thức trang, trong đó có hai hoặc nhiều cột văn bản được in theo chiều dọc trang, và văn bản được đọc đến cuối cột này rồi chuyến sang đầu cột kế tiếp. Ðôi khi người ta còn dùng thuật ngữ snaking columns (cột quanh co) để gợi ý cách đọc các cột báo khác cách đọc lần lượt từng cột cạnh nhau. Theo khuôn thức này, các chương mục được in theo cách liên kết-một bên trái, một bên phải. Các Newton xử lý từ cao cấp, như Microsoft Word và WordPerfect đều có khả năng trình bày văn bản theo kiểu các cột báo, và còn có khả năng cân bằng lề dưới của các cột (gọi là balanced newspaper columns) nên có hình thức như một văn bản chuyên nghiệp. Lời khuyên: Qua nghiên cứu thực tế người ta thấy rằng một dòng gồm khoảng từ 55 đến 60 ký tự (9 đến 10 từ) là dễ đọc nhất. Nếu dòng dài quá số lượng đó thì ngắt làm hai hay ba cột."
+        "t": "(kiểu) cột báo. Một loại khuôn thức trang, trong đó có hai hoặc nhiều cột văn bản được in theo chiều dọc trang, và văn bản được đọc đến cuối cột này rồi chuyến sang đầu cột kế tiếp. Đôi khi người ta còn dùng thuật ngữ snaking columns (cột quanh co) để gợi ý cách đọc các cột báo khác cách đọc lần lượt từng cột cạnh nhau. Theo khuôn thức này, các chương mục được in theo cách liên kết-một bên trái, một bên phải. Các Newton xử lý từ cao cấp, như Microsoft Word và WordPerfect đều có khả năng trình bày văn bản theo kiểu các cột báo, và còn có khả năng cân bằng lề dưới của các cột (gọi là balanced newspaper columns) nên có hình thức như một văn bản chuyên nghiệp. Lời khuyên: Qua nghiên cứu thực tế người ta thấy rằng một dòng gồm khoảng từ 55 đến 60 ký tự (9 đến 10 từ) là dễ đọc nhất. Nếu dòng dài quá số lượng đó thì ngắt làm hai hay ba cột."
       }
     ],
     "k": "newspaper columns"
@@ -21802,7 +21802,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Niu-tơn, 1643-1727) nhà vật lý học, toán học anh, đã xây dựng những cơ sở lý thuyết của cơ học và thiên văn học, đã khám phá ra định luật vạn vật hấp dẫn, đã thảo ra (đồng thời với nhà bác học Ðức G. Leibniz) phép tính vi-tích phân, nhà sáng chế kính viễn vọng và tác giả của những công trình thực nghiệm quan trọng nhất về quang học. Newton sinh trưởng trong một gia đình trại chủ, ra đời không bao lâu sau khi bố mất. Lên 12 tuổi Newton mới bắt đầu đến trường Ðại Học. Năm 1661, ông vào học trường trung học thuộc trường Ðại học tổng hợp Cambrige, tốt nghiệp năm 1665. Năm 1669, thầy giáo của ông-I.Barroi-gởi gấm ông cho khoa vật lý-toán của trường Ðại học tổng hợp Cambrige, và ông làm việc tại đó cho đến 1701. Năm 1672 ông được bầu làm hội viên Hội hoàng gia London, và làm hội trưởng từ 1703. Năm 1695 ông làm bổ nhiệm giám thị, và đến năm 1669 làm giám đốc của cung điện Monetne. Ông được an táng tại đền quốc gia các vĩ nhân-tu viện Westminster. Những vấn đề cơ bản của cơ học, vật lý học và toán học do Newton soạn thảo đều gắn chặt với toàn bộ những vấn đề khoa học thời đó. Sau khi mở rộng những kết quả do các bậc tiền bối đạt được và cả những công trình nghiên cứu của bản thân ông trong lĩnh vực cơ học trên Trái Ðất và cơ học thi thể, ông đã xây dựng nên một công trình lớn lao: \"Những nguyên lý toán học của triết học tự nhiên\" (1687), trong đó Newton phát biểu những khái niệm và nguyên lý cơ bản của cơ học cổ điển: Ðịnh luật quán tính, định luật động lượng biến đổi tỷ lệ với lực đặt và định luật cân bằng giữa tác dụng và phản tác dụng, và vận dụng những định luật đó để giải những bài toán quan trọng nhất về cơ học thời bấy giờ. Cũng trong cuốn sách đó, ông đã trình bày học thuyết của ông về vạn vật hấp dẫn, và trên cơ sở đó ông soạn thảo lý thuyết chuyển động của các hành tinh và vệ tinh của chúng, tạo thành Thái dương hệ, và cả chuyển động của các sao chổi nữa. Newton chỉ ra rằng từ định luật vạn vật hấp dẫn suy ra các định luật của Képler và những gì trái với định luật đó. Công trình cơ bản của Newton trong vật lý học là \"Quang học\" (xuất bản thành 2 phần 1704, đã được viết xong không muộn hơn 1687). Newton bắt đầu có các công trình nghiên cứu trong lĩnh vực quang học vào năm 1666, những nghiên cứu đó đều liên quan đến ước mơ của ông tìm ra những phương pháp khắc phục những khuyết nhược điểm của các khí cụ quang học. Năm 1666, ông phát hiện ra rằng có thể phân tích một chùm ánh sáng trắng thành những chùm ánh sáng đơn sắc (sự tán sắc ánh sáng) và chứng tỏ rằng thành phần phức hợp của ánh sáng trắng là một trong những nguyên nhân làm biến dạng hình ảnh trong các kiểu thiết kế quang học, đặc biệt trong kính viễn vọng. Nhằm khắc phục khuyết nhược điểm đó của kính viễn vọng, trong những năm 1668 và 1671 ông chế tạo 2 kính thiên văn dùng gương phản chiếu. Năm 1675 Newton đề ra lý thuyết hạt của ánh sáng, trong đó ông coi ánh sáng như một dòng thác những hạt đặc biệt, phát ra nguồn ánh sáng, nhưng đồng thời cho rằng có tồn tại chất Ete, trong đó do ảnh hưởng của những va chạm nhỏ của các hạt ánh sáng mà có những làn sóng lan tỏa rộng ra. Sau này, Newton từ bỏ khái niệm ête. Thiết bị hùng hậu của cơ học Newton, tính vạn năng của nó cùng khả năng giải thích và mô tả một phạm vi rộng lớn nhất những hiện tượng của thiên nhiên, đặc biệt là những hiện tượng thiên văn, tỏ ra có ảnh hưởng to lớn đến nhiều lĩnh vực của vật lý học và hóa học. Newton đã viết rằng: ước gì rút ra được cả những hiện tượng còn lại của tự nhiên từ các nguyên lý của cơ học thì bản thân ông sẽ sử dụng những mô hình cơ học để giải thích một số hiện tượng quang học và hóa học. Những quan điểm của Newton ảnh hưởng thật to lớn đến sự phát triển sau này của vật lý học. Những vấn đề tự nhiên học đó do Newton đặt ra, đòi hỏi nghiên cứu về nguyên tắc những phương pháp toán học mới. Toán học đối với Newton là công cụ chủ yếu trong những công trình nghiên cứu vật lý học, ông cho rằng những khái niệm toán học được du nhập từ bên ngoài và xuất hiện như sự trừu tượng hóa của các hiện tượng và quá trình của thế giới vật chất nêu thực chất, toán học là một phần của tự nhiên học. Những công trình nghiên cứu phép tính vi phân là cái mốc quan trọng đánh dấu sự phát triển của toán học. Các công trình của Newton về đại số học lấy tích phân và hình học, cũng có ảnh hưởng lớn. Những tư tưởng cơ bản của phép tính vi phân và tích phân hình thành ở Newton vào năm 1665-1666 do ảnh hưởng của những công trình của các bậc tiền bối và người đương thời. Cũng vào khoản thời gian đó Newton khám phá ra đặc trưng thuận nghịch của hai phép toán lấy vi phân và lấy tích phân và những khám phá cơ bản trong lĩnh vực các chuỗi vô hạn, đặc biệt là suy rộng phạm vi của định lý về nhị thức Newton trong trường hợp số mũ thực bất kỳ. Chẳng bao lâu sau Newton lại viết những tác phẩm cơ bản về giải tích, nhưng rất lâu sau mới xuất bản. Một số phát minh toán học của Newton đã nổi tiếng ngay từ những năm 70 của thế kỷ 17 nhờ có những bản viết tay và giao dịch thư tín. Trong các khái niệm ban đầu và hệ thống thuật ngữ của phương pháp vi phân đã thể hiện ảnh hưởng của những tư tưởng động-toán học bắt nguồn từ những trường phái triết học tự nhiên của thế kỷ 14. Khái niệm đại lượng toán học liên tục được Newton đưa vào như là sự trừu tượng hóa của các dạng khác nhau của chuyển động cơ học liên tục. Ðường được tạo ra bởi sự chuyển động của các điểm, các mặt thì được tạo ra bởi sự chuyển động của các đường, còn vật thể-bởi sự chuyển động của các mặt, góc-bởi sự chuyển động quay của các cạnh v.v... Newton gọi các đại lượng biến thiên liên tục là fluenta (đại lượng thay đổi, từ chữ La Tinh fluo-lưu động). Ðối tượng khái quát của những đại lượng thay đổi khác nhau-fluenta-theo Newton là \"thời gian\" được hiểu một cách hình thức là một đại lượng trừu tượng nào đó, biến đổi đều đặn gắn liền với những biến lượng khác phụ thuộc vào nó. Newton gọi tốc độ biến thiên của fluenta là fluxi, và những biến đổi vô cùng bé fluxi, cần thiết cho phép tính các fluxi là \"moment\" (thời điểm) (G.Leibniz gọi những đại lượng đó là\"vi phân\").Như vậy, Newton lấy các khái niệm fluxi (đạo hàm) và fluenta (tích phân) làm cơ sở. Bản thuyết trình đầy đủ nhất về phép tính vi phân và tích phân được trình bày trong tác phẩm \"phương pháp vi phân và những chuỗi vô hạn\" (1670-1671), tác phẩm với nhan đề như thế lần đầu tiên được xuất bản trong bản dịch bằng tiếng Anh (1736), trong bản thảo viết tay bằng tiếng La Tinh của chính Newton còn lưu giữ được không có nhan đề đó. Ở đây Newton phát biểu 2 vấn đề cơ bản trái ngược nhau của giải tích: 1) xác định vận tốc của chuyển động tại một thời điểm cho trước theo đường đi đã biết hay là xác định tương quan giữa các fluxi theo tương quan đã biết giữa các fluenta (bài toán vi phân) và 2) các xác định chuyển động thực hiện trong thời gian cho trước theo vận tốc biết trước hay là xác định tương quan giữa các fluenta theo tương quan cho trước giữa các fluxi (bài toán lấy tích phân của phương trình vi phân và đặc biệt, sự tìm kiếm các nguyên hàm). Phương pháp fluxi được áp dụng ở đây vào một số lớn những vấn đề hình học. Trong phần mở đầu tác phẩm \"lập luận về phép cầu phương các đường cong\" (viết xong vào đầu năm 1670, công bố vào năm 1704), và trong \"Các nguyên lý\" ông đã vạch ra các chương trình xây dựng phương pháp fluxi trên cơ sở học thuyết về giới hạn (x.chưong IV tập một), nhưng không có định nghĩa hình thức của khái niệm đó sẽ được phát triển rộng rãi trong toán học thế kỷ 19. Phép tính vi phân và tích phân do I.Newton và G.Leibniz xây dựng có ý nghĩa thật to lớn đối với sự phát triển của môn tự nhiên học chính xác. Tất cả các công trình cơ bản của Newton đều đã được dịch sang tiếng Nga. NIKOMARH (thế kỷ 1-2) nhà toán học và triết học cổ Hi Lạp, tác giả của công trình \"Nhập môn số học\" rất nổi tiếng ở cổ Hi Lạp. Công trình đó tổng kết những nguyên lý của lý thuyết số (học thuyết về những số nguyên tố, hỗn số, số nguyên tố cùng nhau và những số khác, về tỉ lệ thức). Một vài công trình về âm nhạc của Nikomarkh cũng được lưu truyền đến ngày nay."
+        "t": "(Niu-tơn, 1643-1727) nhà vật lý học, toán học anh, đã xây dựng những cơ sở lý thuyết của cơ học và thiên văn học, đã khám phá ra định luật vạn vật hấp dẫn, đã thảo ra (đồng thời với nhà bác học Đức G. Leibniz) phép tính vi-tích phân, nhà sáng chế kính viễn vọng và tác giả của những công trình thực nghiệm quan trọng nhất về quang học. Newton sinh trưởng trong một gia đình trại chủ, ra đời không bao lâu sau khi bố mất. Lên 12 tuổi Newton mới bắt đầu đến trường Đại Học. Năm 1661, ông vào học trường trung học thuộc trường Đại học tổng hợp Cambrige, tốt nghiệp năm 1665. Năm 1669, thầy giáo của ông-I.Barroi-gởi gấm ông cho khoa vật lý-toán của trường Đại học tổng hợp Cambrige, và ông làm việc tại đó cho đến 1701. Năm 1672 ông được bầu làm hội viên Hội hoàng gia London, và làm hội trưởng từ 1703. Năm 1695 ông làm bổ nhiệm giám thị, và đến năm 1669 làm giám đốc của cung điện Monetne. Ông được an táng tại đền quốc gia các vĩ nhân-tu viện Westminster. Những vấn đề cơ bản của cơ học, vật lý học và toán học do Newton soạn thảo đều gắn chặt với toàn bộ những vấn đề khoa học thời đó. Sau khi mở rộng những kết quả do các bậc tiền bối đạt được và cả những công trình nghiên cứu của bản thân ông trong lĩnh vực cơ học trên Trái Đất và cơ học thi thể, ông đã xây dựng nên một công trình lớn lao: \"Những nguyên lý toán học của triết học tự nhiên\" (1687), trong đó Newton phát biểu những khái niệm và nguyên lý cơ bản của cơ học cổ điển: Định luật quán tính, định luật động lượng biến đổi tỷ lệ với lực đặt và định luật cân bằng giữa tác dụng và phản tác dụng, và vận dụng những định luật đó để giải những bài toán quan trọng nhất về cơ học thời bấy giờ. Cũng trong cuốn sách đó, ông đã trình bày học thuyết của ông về vạn vật hấp dẫn, và trên cơ sở đó ông soạn thảo lý thuyết chuyển động của các hành tinh và vệ tinh của chúng, tạo thành Thái dương hệ, và cả chuyển động của các sao chổi nữa. Newton chỉ ra rằng từ định luật vạn vật hấp dẫn suy ra các định luật của Képler và những gì trái với định luật đó. Công trình cơ bản của Newton trong vật lý học là \"Quang học\" (xuất bản thành 2 phần 1704, đã được viết xong không muộn hơn 1687). Newton bắt đầu có các công trình nghiên cứu trong lĩnh vực quang học vào năm 1666, những nghiên cứu đó đều liên quan đến ước mơ của ông tìm ra những phương pháp khắc phục những khuyết nhược điểm của các khí cụ quang học. Năm 1666, ông phát hiện ra rằng có thể phân tích một chùm ánh sáng trắng thành những chùm ánh sáng đơn sắc (sự tán sắc ánh sáng) và chứng tỏ rằng thành phần phức hợp của ánh sáng trắng là một trong những nguyên nhân làm biến dạng hình ảnh trong các kiểu thiết kế quang học, đặc biệt trong kính viễn vọng. Nhằm khắc phục khuyết nhược điểm đó của kính viễn vọng, trong những năm 1668 và 1671 ông chế tạo 2 kính thiên văn dùng gương phản chiếu. Năm 1675 Newton đề ra lý thuyết hạt của ánh sáng, trong đó ông coi ánh sáng như một dòng thác những hạt đặc biệt, phát ra nguồn ánh sáng, nhưng đồng thời cho rằng có tồn tại chất Ete, trong đó do ảnh hưởng của những va chạm nhỏ của các hạt ánh sáng mà có những làn sóng lan tỏa rộng ra. Sau này, Newton từ bỏ khái niệm ête. Thiết bị hùng hậu của cơ học Newton, tính vạn năng của nó cùng khả năng giải thích và mô tả một phạm vi rộng lớn nhất những hiện tượng của thiên nhiên, đặc biệt là những hiện tượng thiên văn, tỏ ra có ảnh hưởng to lớn đến nhiều lĩnh vực của vật lý học và hóa học. Newton đã viết rằng: ước gì rút ra được cả những hiện tượng còn lại của tự nhiên từ các nguyên lý của cơ học thì bản thân ông sẽ sử dụng những mô hình cơ học để giải thích một số hiện tượng quang học và hóa học. Những quan điểm của Newton ảnh hưởng thật to lớn đến sự phát triển sau này của vật lý học. Những vấn đề tự nhiên học đó do Newton đặt ra, đòi hỏi nghiên cứu về nguyên tắc những phương pháp toán học mới. Toán học đối với Newton là công cụ chủ yếu trong những công trình nghiên cứu vật lý học, ông cho rằng những khái niệm toán học được du nhập từ bên ngoài và xuất hiện như sự trừu tượng hóa của các hiện tượng và quá trình của thế giới vật chất nêu thực chất, toán học là một phần của tự nhiên học. Những công trình nghiên cứu phép tính vi phân là cái mốc quan trọng đánh dấu sự phát triển của toán học. Các công trình của Newton về đại số học lấy tích phân và hình học, cũng có ảnh hưởng lớn. Những tư tưởng cơ bản của phép tính vi phân và tích phân hình thành ở Newton vào năm 1665-1666 do ảnh hưởng của những công trình của các bậc tiền bối và người đương thời. Cũng vào khoản thời gian đó Newton khám phá ra đặc trưng thuận nghịch của hai phép toán lấy vi phân và lấy tích phân và những khám phá cơ bản trong lĩnh vực các chuỗi vô hạn, đặc biệt là suy rộng phạm vi của định lý về nhị thức Newton trong trường hợp số mũ thực bất kỳ. Chẳng bao lâu sau Newton lại viết những tác phẩm cơ bản về giải tích, nhưng rất lâu sau mới xuất bản. Một số phát minh toán học của Newton đã nổi tiếng ngay từ những năm 70 của thế kỷ 17 nhờ có những bản viết tay và giao dịch thư tín. Trong các khái niệm ban đầu và hệ thống thuật ngữ của phương pháp vi phân đã thể hiện ảnh hưởng của những tư tưởng động-toán học bắt nguồn từ những trường phái triết học tự nhiên của thế kỷ 14. Khái niệm đại lượng toán học liên tục được Newton đưa vào như là sự trừu tượng hóa của các dạng khác nhau của chuyển động cơ học liên tục. Đường được tạo ra bởi sự chuyển động của các điểm, các mặt thì được tạo ra bởi sự chuyển động của các đường, còn vật thể-bởi sự chuyển động của các mặt, góc-bởi sự chuyển động quay của các cạnh v.v... Newton gọi các đại lượng biến thiên liên tục là fluenta (đại lượng thay đổi, từ chữ La Tinh fluo-lưu động). Đối tượng khái quát của những đại lượng thay đổi khác nhau-fluenta-theo Newton là \"thời gian\" được hiểu một cách hình thức là một đại lượng trừu tượng nào đó, biến đổi đều đặn gắn liền với những biến lượng khác phụ thuộc vào nó. Newton gọi tốc độ biến thiên của fluenta là fluxi, và những biến đổi vô cùng bé fluxi, cần thiết cho phép tính các fluxi là \"moment\" (thời điểm) (G.Leibniz gọi những đại lượng đó là\"vi phân\").Như vậy, Newton lấy các khái niệm fluxi (đạo hàm) và fluenta (tích phân) làm cơ sở. Bản thuyết trình đầy đủ nhất về phép tính vi phân và tích phân được trình bày trong tác phẩm \"phương pháp vi phân và những chuỗi vô hạn\" (1670-1671), tác phẩm với nhan đề như thế lần đầu tiên được xuất bản trong bản dịch bằng tiếng Anh (1736), trong bản thảo viết tay bằng tiếng La Tinh của chính Newton còn lưu giữ được không có nhan đề đó. Ở đây Newton phát biểu 2 vấn đề cơ bản trái ngược nhau của giải tích: 1) xác định vận tốc của chuyển động tại một thời điểm cho trước theo đường đi đã biết hay là xác định tương quan giữa các fluxi theo tương quan đã biết giữa các fluenta (bài toán vi phân) và 2) các xác định chuyển động thực hiện trong thời gian cho trước theo vận tốc biết trước hay là xác định tương quan giữa các fluenta theo tương quan cho trước giữa các fluxi (bài toán lấy tích phân của phương trình vi phân và đặc biệt, sự tìm kiếm các nguyên hàm). Phương pháp fluxi được áp dụng ở đây vào một số lớn những vấn đề hình học. Trong phần mở đầu tác phẩm \"lập luận về phép cầu phương các đường cong\" (viết xong vào đầu năm 1670, công bố vào năm 1704), và trong \"Các nguyên lý\" ông đã vạch ra các chương trình xây dựng phương pháp fluxi trên cơ sở học thuyết về giới hạn (x.chưong IV tập một), nhưng không có định nghĩa hình thức của khái niệm đó sẽ được phát triển rộng rãi trong toán học thế kỷ 19. Phép tính vi phân và tích phân do I.Newton và G.Leibniz xây dựng có ý nghĩa thật to lớn đối với sự phát triển của môn tự nhiên học chính xác. Tất cả các công trình cơ bản của Newton đều đã được dịch sang tiếng Nga. NIKOMARH (thế kỷ 1-2) nhà toán học và triết học cổ Hi Lạp, tác giả của công trình \"Nhập môn số học\" rất nổi tiếng ở cổ Hi Lạp. Công trình đó tổng kết những nguyên lý của lý thuyết số (học thuyết về những số nguyên tố, hỗn số, số nguyên tố cùng nhau và những số khác, về tỉ lệ thức). Một vài công trình về âm nhạc của Nikomarkh cũng được lưu truyền đến ngày nay."
       }
     ],
     "k": "newton isaac"
@@ -22039,7 +22039,7 @@
       {"k": "ex", "t": "the next train to Manchester is at", "vi": "10:10"},
       {"k": "m", "t": "chuyến tàu kế tiếp đi Manchester sẽ chạy vào lúc 10g10"},
       {"k": "ex", "t": "the very next time I saw her she was working in", "vi": "London"},
-      {"k": "m", "t": "lần gần đây nhất tôi gặp cô ấy thì cô ấy đang làm việc ở Luân Ðôn"},
+      {"k": "m", "t": "lần gần đây nhất tôi gặp cô ấy thì cô ấy đang làm việc ở Luân Đôn"},
       {
         "k": "ex",
         "t": "the next person to speak will be punished",
@@ -22122,7 +22122,7 @@
       },
       {"k": "m", "t": "Birmingham"},
       {"k": "ex", "t": "is the largest city in Britain next to", "vi": "London"},
-      {"k": "m", "t": "Bớc-minh-ham là thành phố lớn nhất ở Anh sau Luân Ðôn"},
+      {"k": "m", "t": "Bớc-minh-ham là thành phố lớn nhất ở Anh sau Luân Đôn"},
       {"k": "m", "t": "gần như"},
       {
         "k": "ex",

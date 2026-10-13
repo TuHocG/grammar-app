@@ -34,7 +34,7 @@
     "h": "odalisuqe",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(sử) nàng hầu hay tỳ thiếp ở Ðông phương."}
+      {"k": "m", "t": "(sử) nàng hầu hay tỳ thiếp ở Đông phương."}
     ],
     "ipa": "'əʊdəlisk",
     "k": "odalisuqe"
@@ -702,7 +702,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðường biên giới giữa Phần Lan-Liên bang Xô viết-Ðức hình thành từ năm 1945. Như quyết định đã ký kết trong bản hiệp định tại Potsdam, 1/5 hạt Ðức thuộc chủ quyền Phần Lan. Ðường biên giới giáp giữa Cộng hòa dân chủ Ðức và Liên bang cộng hòa Tây Ðức. Cho đến năm 1990, nước Ðức mới hoàn toàn hợp nhất."
+        "t": "Đường biên giới giữa Phần Lan-Liên bang Xô viết-Đức hình thành từ năm 1945. Như quyết định đã ký kết trong bản hiệp định tại Potsdam, 1/5 hạt Đức thuộc chủ quyền Phần Lan. Đường biên giới giáp giữa Cộng hòa dân chủ Đức và Liên bang cộng hòa Tây Đức. Cho đến năm 1990, nước Đức mới hoàn toàn hợp nhất."
       }
     ],
     "k": "oder-neisse line"
@@ -855,7 +855,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tính ghê tởm, sự ghê tởm"},
-      {"k": "ex", "t": "It's realy odiousness", "vi": "Ðiều đó thật ghê tởm."}
+      {"k": "ex", "t": "It's realy odiousness", "vi": "Điều đó thật ghê tởm."}
     ],
     "ipa": "'oudjəsnis",
     "k": "odiousness"
@@ -896,7 +896,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(433-93) Thủ lĩnh Gothic, người đặt hệ thống cai trị Ðức đầu tiên trên đất Ý. Ông và toán quân La Mã nổi dậy truất phế hoàng đế Romulus Augustus và lập triều đại tây La Mã. Không dừng lại ở đó, ông kéo quân sang phía đông, vây hãm vương triều Theodoric. Odoacer chịu hàng và chấp nhận cho ông cai trị nửa nước Ý. Song, vua Theodoric cho quân giết chết Odoacer ngay bữa tiệc chiêu đãi vì tội bán nước."
+        "t": "(433-93) Thủ lĩnh Gothic, người đặt hệ thống cai trị Đức đầu tiên trên đất Ý. Ông và toán quân La Mã nổi dậy truất phế hoàng đế Romulus Augustus và lập triều đại tây La Mã. Không dừng lại ở đó, ông kéo quân sang phía đông, vây hãm vương triều Theodoric. Odoacer chịu hàng và chấp nhận cho ông cai trị nửa nước Ý. Song, vua Theodoric cho quân giết chết Odoacer ngay bữa tiệc chiêu đãi vì tội bán nước."
       }
     ],
     "k": "odoacer"
@@ -1250,7 +1250,7 @@
   {"h": "odontosteophyte", "segs": [{"k": "m", "t": "Gai răng."}], "k": "odontosteophyte"},
   {
     "h": "odontotherapy",
-    "segs": [{"k": "m", "t": "Ðiều trị răng, chữa răng."}],
+    "segs": [{"k": "m", "t": "Điều trị răng, chữa răng."}],
     "k": "odontotherapy"
   },
   {"h": "odontotomy", "segs": [{"k": "m", "t": "(thủ thuật) cắt bỏ phần răng."}], "k": "odontotomy"},

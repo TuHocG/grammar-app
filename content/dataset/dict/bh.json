@@ -100,12 +100,12 @@
     "h": "bhakti",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(Ấn Ðộ giáo) lòng tận tụy với thần linh để lên Niết bàn."}
+      {"k": "m", "t": "(Ấn Độ giáo) lòng tận tụy với thần linh để lên Niết bàn."}
     ],
     "ipa": "'bʌkti",
     "k": "bhakti"
   },
-  {"h": "Bhandanta", "segs": [{"k": "m", "t": "Ðại đức."}], "k": "bhandanta"},
+  {"h": "Bhandanta", "segs": [{"k": "m", "t": "Đại đức."}], "k": "bhandanta"},
   {
     "h": "bhang",
     "segs": [
@@ -184,7 +184,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Bát-xka-ra, 1114-mất vào cuối năm 1178) nhà toán học và thiên văn Ấn Ðộ. Tác giả của công trình \"Ðỉnh cao của học thuyết\" (khoảng 1150) với nội dung là những phương pháp giải một loạt các bài toán đại số và lý thuyết số."
+        "t": "(Bát-xka-ra, 1114-mất vào cuối năm 1178) nhà toán học và thiên văn Ấn Độ. Tác giả của công trình \"Đỉnh cao của học thuyết\" (khoảng 1150) với nội dung là những phương pháp giải một loạt các bài toán đại số và lý thuyết số."
       }
     ],
     "k": "bhaskara"
@@ -246,7 +246,7 @@
     "h": "bhojpuri",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "một phương ngữ của Bibari nói ở Tây Biha và những tỉnh phía đông ở Ấn Ðộ."}
+      {"k": "m", "t": "một phương ngữ của Bibari nói ở Tây Biha và những tỉnh phía đông ở Ấn Độ."}
     ],
     "ipa": "'bɔjpu:ri",
     "k": "bhojpuri"
@@ -256,7 +256,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Chính thể Ấn Ðộ được thành lập vào năm 1951 do Vinoba Bhave lãnh đạo cùng với sự phản đối yêu cầu phân phối lại đất đai cho nông dân chưa có ruộng. Ðầu tiên yêu cầu này chỉ nhằm vào những cá nhân, nhưng từ cuối thập niên 1950 các địa chủ đã đồng loạt phản đối. Sau đó chính phủ đã đưa ra hướng giải quyết bằng quyền thừa kế ở bang Bihar."
+        "t": "Chính thể Ấn Độ được thành lập vào năm 1951 do Vinoba Bhave lãnh đạo cùng với sự phản đối yêu cầu phân phối lại đất đai cho nông dân chưa có ruộng. Đầu tiên yêu cầu này chỉ nhằm vào những cá nhân, nhưng từ cuối thập niên 1950 các địa chủ đã đồng loạt phản đối. Sau đó chính phủ đã đưa ra hướng giải quyết bằng quyền thừa kế ở bang Bihar."
       }
     ],
     "k": "bhoodan"

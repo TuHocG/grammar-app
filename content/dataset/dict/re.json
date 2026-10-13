@@ -14,7 +14,7 @@
       {"k": "m", "t": "tiền tố (trước danh từ, động từ, tính từ và phó từ)"},
       {"k": "m", "t": "lại"},
       {"k": "m", "t": "nữa"},
-      {"k": "ex", "t": "To re-count/re-elect", "vi": "Ðếm/bầu lại"},
+      {"k": "ex", "t": "To re-count/re-elect", "vi": "Đếm/bầu lại"},
       {"k": "ex", "t": "To rebuild", "vi": "Xây dựng lại"},
       {"k": "ex", "t": "Recalculation", "vi": "Sự tính toán lại"},
       {"k": "ex", "t": "Renegotiable", "vi": "Có thể thương lượng lại."}
@@ -452,7 +452,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bố trí xếp đặt lại, tổ chức lại công việc. Một phương pháp tự động hóa dựa vào máy tính, bắt đầu bằng sự sắp xếp lại cách làm việc, rồi sau đó chọn dùng các công cụ máy tính để nâng cao quá trình làm việc đã được sắp xếp lại đó. Không cần phải dấu giếm một điều là công nghệ máy tính, bản thân nó, không hứa hẹn cho một năng suất cao hơn. Ðiều phải làm là hợp lý hóa lại quá trình làm việc. Trong nhiều hãng, sau khi phòng tài vụ cấp tiền, thì phòng tiếp nhận sẽ nhận hàng và phòng kế toán sẽ viết séc. Thực hiện re-engineering dây chuyền này sẽ cho phép đặt một máy tính ở phòng tiếp nhận sao cho các nhân viên tiếp nhận có thể chứng thực những gì đã được tiếp nhận vào, và viết séc ngay tại vị trí đó. Re-engineering là một từ ngữ rất mới và đầy bí ẩn trong lãnh vực kinh doanh, nhưng khái niệm cơ sở rất đơn giản. Bạn có thể áp dụng một số nguyên lý re-engineering vào công việc máy tính của bạn bằng cách ghi nhớ một số qui tắc đơn giản sau đây: -Tránh xây dựng lại cả hệ thống. Xây dựng và hoàn thiện lại các phiên bản mẫu của thư từ, bảng ghi nhớ, báo cáo, phiếu công tác, thư tin tức, mẫu giấy kinh doanh, và các mẫu quản lý dữ liệu. -Lấy các thông tin ngay tại gốc. Người quản lý bán hàng tại nơi bán phải ghi chép vào sổ và sau mỗi ngày phải đưa những thông tin đó vào một phiếu công tác của chương trình Lotus. Dùng phương tiện nào? Một máy tính xách tay chạy chương trình Lotus 1-2-3. -Không đánh cùng thông tin hai lần. Hãy xây dựng các macro, các bảng mẫu, và các đoạn văn bản chuẩn bị sẵn, để tự động hóa việc soạn thảo các tài liệu, kể cả một phong bì đã có địa chỉ sẵn."
+        "t": "bố trí xếp đặt lại, tổ chức lại công việc. Một phương pháp tự động hóa dựa vào máy tính, bắt đầu bằng sự sắp xếp lại cách làm việc, rồi sau đó chọn dùng các công cụ máy tính để nâng cao quá trình làm việc đã được sắp xếp lại đó. Không cần phải dấu giếm một điều là công nghệ máy tính, bản thân nó, không hứa hẹn cho một năng suất cao hơn. Điều phải làm là hợp lý hóa lại quá trình làm việc. Trong nhiều hãng, sau khi phòng tài vụ cấp tiền, thì phòng tiếp nhận sẽ nhận hàng và phòng kế toán sẽ viết séc. Thực hiện re-engineering dây chuyền này sẽ cho phép đặt một máy tính ở phòng tiếp nhận sao cho các nhân viên tiếp nhận có thể chứng thực những gì đã được tiếp nhận vào, và viết séc ngay tại vị trí đó. Re-engineering là một từ ngữ rất mới và đầy bí ẩn trong lãnh vực kinh doanh, nhưng khái niệm cơ sở rất đơn giản. Bạn có thể áp dụng một số nguyên lý re-engineering vào công việc máy tính của bạn bằng cách ghi nhớ một số qui tắc đơn giản sau đây: -Tránh xây dựng lại cả hệ thống. Xây dựng và hoàn thiện lại các phiên bản mẫu của thư từ, bảng ghi nhớ, báo cáo, phiếu công tác, thư tin tức, mẫu giấy kinh doanh, và các mẫu quản lý dữ liệu. -Lấy các thông tin ngay tại gốc. Người quản lý bán hàng tại nơi bán phải ghi chép vào sổ và sau mỗi ngày phải đưa những thông tin đó vào một phiếu công tác của chương trình Lotus. Dùng phương tiện nào? Một máy tính xách tay chạy chương trình Lotus 1-2-3. -Không đánh cùng thông tin hai lần. Hãy xây dựng các macro, các bảng mẫu, và các đoạn văn bản chuẩn bị sẵn, để tự động hóa việc soạn thảo các tài liệu, kể cả một phong bì đã có địa chỉ sẵn."
       }
     ],
     "k": "re-engineering"
@@ -879,7 +879,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngđ) Sống lại, mường tượng lại.-It's an experience I don't want to relive: Ðó là sự việc tôi không muốn nhắc lại."
+        "t": "(ngđ) Sống lại, mường tượng lại.-It's an experience I don't want to relive: Đó là sự việc tôi không muốn nhắc lại."
       }
     ],
     "ipa": "ri:ɛliv",
@@ -1679,7 +1679,7 @@
       },
       {
         "k": "m",
-        "t": "Cái kẹp dài. Một dụng cụ cầm tay dài dùng để nới rộng tầm với cho những người ngồi xe lăn khi sức mạnh cũng như khả năng di chuyển của họ bị hạn chế. ÐN: reaching tongs."
+        "t": "Cái kẹp dài. Một dụng cụ cầm tay dài dùng để nới rộng tầm với cho những người ngồi xe lăn khi sức mạnh cũng như khả năng di chuyển của họ bị hạn chế. ĐN: reaching tongs."
       },
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "the much less attractive member of a couple"},
@@ -3537,7 +3537,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) (a) (tạp chí...) Số lượng độc giả.-a readership of 20,000: số lượng độc giả 20.000 người (b) Ðịa vị diễn giả bậc cao."
+        "t": "(dt) (a) (tạp chí...) Số lượng độc giả.-a readership of 20,000: số lượng độc giả 20.000 người (b) Địa vị diễn giả bậc cao."
       }
     ],
     "ipa": "-ʃip",
@@ -3669,7 +3669,7 @@
       {"k": "m", "t": "buổi đọc truyện"},
       {"k": "m", "t": "những đoạn truyện đọc trong buổi đọc truyện"},
       {"k": "ex", "t": "reading form", "vi": "Dickens"},
-      {"k": "m", "t": "những buổi đọc các tác phẩm của Ðích-ken"},
+      {"k": "m", "t": "những buổi đọc các tác phẩm của Đích-ken"},
       {"k": "m", "t": "sách đọc (tiểu thuyết, truyện, truyện ngắn, tập thơ...)"},
       {"k": "ex", "t": "to get through a good deal of reading", "vi": "đọc được nhiều sách"},
       {"k": "m", "t": "sự đoán"},
@@ -4332,7 +4332,7 @@
   {"h": "ready-built house", "segs": [{"k": "m", "t": "nhà lắp ghép."}], "k": "ready-built house"},
   {
     "h": "ready-cooked",
-    "segs": [{"k": "m", "t": "(tt) (thức ăn) Ðã nấu sẵn."}],
+    "segs": [{"k": "m", "t": "(tt) (thức ăn) Đã nấu sẵn."}],
     "k": "ready-cooked"
   },
   {
@@ -4684,7 +4684,7 @@
       {
         "k": "ex",
         "t": "This isn't a practice game: We're playing for real",
-        "vi": "Ðây không phải là trận đấu luyện tập: Chúng tôi đang thi đấu thực sự"
+        "vi": "Đây không phải là trận đấu luyện tập: Chúng tôi đang thi đấu thực sự"
       },
       {"k": "m", "t": "thành thật"},
       {"k": "m", "t": "chân thực"},
@@ -10752,7 +10752,7 @@
   },
   {
     "h": "Recapitulation theory",
-    "segs": [{"k": "m", "t": "Thuyết đồng quy (quy tập toàn bộ mạc khải vào Ðức Kitô)."}],
+    "segs": [{"k": "m", "t": "Thuyết đồng quy (quy tập toàn bộ mạc khải vào Đức Kitô)."}],
     "k": "recapitulation theory"
   },
   {
@@ -16112,7 +16112,7 @@
     "ipa": "'reklineit",
     "k": "reclinate"
   },
-  {"h": "reclination", "segs": [{"k": "m", "t": "Ðặt nằm, đặt nghiêng."}], "k": "reclination"},
+  {"h": "reclination", "segs": [{"k": "m", "t": "Đặt nằm, đặt nghiêng."}], "k": "reclination"},
   {
     "h": "recline",
     "segs": [
@@ -16662,7 +16662,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(ngđ) 1. Nhận ra được, nhìn ra.-recongize a tune / an old friend: nhận ra một giai điệu / một người bạn cũ. 2. Sẵn sàng chấp nhận, công nhận, thừa nhận.-recongize an important medical discovery: Công nhận một phát hiện quan trọng về y học. 3. Ðã được chuẩn bị trước, có đủ bản lĩnh để tiếp nhận; nhận thức.-He recongized that he was not qualified for the post: Anh ta nhận thức rằng mình không đủ năng lực cho công việc."
+        "t": "(ngđ) 1. Nhận ra được, nhìn ra.-recongize a tune / an old friend: nhận ra một giai điệu / một người bạn cũ. 2. Sẵn sàng chấp nhận, công nhận, thừa nhận.-recongize an important medical discovery: Công nhận một phát hiện quan trọng về y học. 3. Đã được chuẩn bị trước, có đủ bản lĩnh để tiếp nhận; nhận thức.-He recongized that he was not qualified for the post: Anh ta nhận thức rằng mình không đủ năng lực cho công việc."
       }
     ],
     "ipa": "ɛrekəngaiz",
@@ -18203,7 +18203,7 @@
       {"k": "m", "t": "(như)"},
       {"k": "ex", "t": "recce", "vi": "(quân) sự trinh sát"},
       {"k": "m", "t": "sự do thám"},
-      {"k": "ex", "t": "To make a reconnaissance", "vi": "Ði trinh sát"},
+      {"k": "ex", "t": "To make a reconnaissance", "vi": "Đi trinh sát"},
       {"k": "m", "t": "đi do thám"},
       {
         "k": "ex",
@@ -18330,7 +18330,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(đgt) Ði dọ thám, đi trinh sát (địch tình).-reconnoitring the area: do thám khu vực."
+        "t": "(đgt) Đi dọ thám, đi trinh sát (địch tình).-reconnoitring the area: do thám khu vực."
       }
     ],
     "ipa": "rekəɛnɔitər",
@@ -18613,7 +18613,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là đạo luật nhằm tái thiết miền Nam nước Mỹ sau cuộc nội chiến do quốc hội Mỹ ban hành. Những vấn đề trong việc đối xử với liên minh bị đánh bại đã làm dấy lên xung đột về quyền lợi trong việc hòa giải với người da trắng ở miền Nam và công lý cho những người nô lệ da đen. Năm 1866, cuộc tranh luận giữa tổng thống Andrew Johnson và những người thuộc Ðảng Cộng Hòa trong Quốc hội đi vào bế tắc. Năm 1867, mặc dù bị tổng thống phủ quyết nhưng đạo luật tái thiết vẫn được quốc hội thông qua. Ðạo luật này chia miền Nam thành các quận như trong quân đội và quy định việc thành lập hội đồng ở mỗi bang trong đó các thành viên được xác định thông qua bỏ phiếu. Người da đen cũng có quyền bầu chính quyền mới. Chính quyền đã phê chuẩn điều luật sửa đổi thứ 14, điều luật này là điều kiện để các bang mới gia nhập Liên bang. Trong 12 tháng kế tiếp, một số đạo luật tái thiết khác cũng được thông qua để chống lại những nỗ lực trì hoãn việc tái thiết ở miền Nam."
+        "t": "Đây là đạo luật nhằm tái thiết miền Nam nước Mỹ sau cuộc nội chiến do quốc hội Mỹ ban hành. Những vấn đề trong việc đối xử với liên minh bị đánh bại đã làm dấy lên xung đột về quyền lợi trong việc hòa giải với người da trắng ở miền Nam và công lý cho những người nô lệ da đen. Năm 1866, cuộc tranh luận giữa tổng thống Andrew Johnson và những người thuộc Đảng Cộng Hòa trong Quốc hội đi vào bế tắc. Năm 1867, mặc dù bị tổng thống phủ quyết nhưng đạo luật tái thiết vẫn được quốc hội thông qua. Đạo luật này chia miền Nam thành các quận như trong quân đội và quy định việc thành lập hội đồng ở mỗi bang trong đó các thành viên được xác định thông qua bỏ phiếu. Người da đen cũng có quyền bầu chính quyền mới. Chính quyền đã phê chuẩn điều luật sửa đổi thứ 14, điều luật này là điều kiện để các bang mới gia nhập Liên bang. Trong 12 tháng kế tiếp, một số đạo luật tái thiết khác cũng được thông qua để chống lại những nỗ lực trì hoãn việc tái thiết ở miền Nam."
       }
     ],
     "k": "reconstruction acts(1867-1868)"
@@ -21987,7 +21987,7 @@
   {"h": "rectal hernia", "segs": [{"k": "m", "t": "Thoát vị trực tráng."}], "k": "rectal hernia"},
   {
     "h": "rectal incontinence",
-    "segs": [{"k": "m", "t": "Ðại tiện mất chủ động, iả đùn."}],
+    "segs": [{"k": "m", "t": "Đại tiện mất chủ động, iả đùn."}],
     "k": "rectal incontinence"
   },
   {
@@ -23578,7 +23578,7 @@
   },
   {
     "h": "recurrent interosseous artery",
-    "segs": [{"k": "m", "t": "Ðộng mạch gian cốt quặt ngược."}],
+    "segs": [{"k": "m", "t": "Động mạch gian cốt quặt ngược."}],
     "k": "recurrent interosseous artery"
   },
   {
@@ -24358,7 +24358,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðội quân thuộc Liên Xô được thành lập bởi dân ủy Trotsky để cứu vãn cuộc nội chiến của Nga. Khả năng và tài diễn thuyết của Trotsky đã thiết lập lại kỷ luật và huấn luyện các tân binh, những người xuất thân là công nhân và nông dân. Ngoài ra ông còn nhờ các sĩ quan trong quân đội hoàng gia huấn luyện các sĩ quan mới. Ðể bảo đảm việc huấn luyện các sĩ quan cũng như việc tuyên truyền trong quân đội, những ủy viên chính trị được đưa vào quân đội. Năm 1920, Pilsudki hoàn thành việc tổ chức quốc phòng ở Ba Lan. Nhờ đó họ đã đánh bại một cuộc tấn công lớn. Sau hiệp ước Rafallo (1922), sự hợp tác chặt chẽ giữa Ðức và Liên Xô đã tạo nên hiệu quả cao. Những cuộc thanh lọc trong đội ngũ các sĩ quan lãnh đạo của Stalin bảo đảm không có sự chống đối xảy ra. Tuy nhiên, điều này lại khiến cho quân đội thiếu sự lãnh đạo trong chiến tranh Nga-Phần Lan. Sau cuộc tiến công của Hitler vào Liên Xô năm 1941, Hồng quân là lực lượng quân đội lớn nhất thế giới, lực lượng lên đến 5 triệu người năm 1945. Mặc dù không được ghi nhận chính xác nhưng ước tính có khoảng 7 triệu quân thuộc Hồng quân thiệt mạng trong chiến tranh thế giới thứ II. Sau chiến tranh, lực lượng này bị đổi tên thành Lực lượng vũ trang Xô-Viết để phù hợp với tình trạng nước Nga sau khi Liên Xô sụp đổ năm 1991."
+        "t": "Đội quân thuộc Liên Xô được thành lập bởi dân ủy Trotsky để cứu vãn cuộc nội chiến của Nga. Khả năng và tài diễn thuyết của Trotsky đã thiết lập lại kỷ luật và huấn luyện các tân binh, những người xuất thân là công nhân và nông dân. Ngoài ra ông còn nhờ các sĩ quan trong quân đội hoàng gia huấn luyện các sĩ quan mới. Để bảo đảm việc huấn luyện các sĩ quan cũng như việc tuyên truyền trong quân đội, những ủy viên chính trị được đưa vào quân đội. Năm 1920, Pilsudki hoàn thành việc tổ chức quốc phòng ở Ba Lan. Nhờ đó họ đã đánh bại một cuộc tấn công lớn. Sau hiệp ước Rafallo (1922), sự hợp tác chặt chẽ giữa Đức và Liên Xô đã tạo nên hiệu quả cao. Những cuộc thanh lọc trong đội ngũ các sĩ quan lãnh đạo của Stalin bảo đảm không có sự chống đối xảy ra. Tuy nhiên, điều này lại khiến cho quân đội thiếu sự lãnh đạo trong chiến tranh Nga-Phần Lan. Sau cuộc tiến công của Hitler vào Liên Xô năm 1941, Hồng quân là lực lượng quân đội lớn nhất thế giới, lực lượng lên đến 5 triệu người năm 1945. Mặc dù không được ghi nhận chính xác nhưng ước tính có khoảng 7 triệu quân thuộc Hồng quân thiệt mạng trong chiến tranh thế giới thứ II. Sau chiến tranh, lực lượng này bị đổi tên thành Lực lượng vũ trang Xô-Viết để phù hợp với tình trạng nước Nga sau khi Liên Xô sụp đổ năm 1991."
       }
     ],
     "k": "red army"
@@ -24462,7 +24462,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là một nhóm khủng bố cánh tả người Italia hoạt động mạnh mẽ trong giai đoạn 1977-1981. Mặc dù có một số thành viên bị bắt nhưng dường như quân đội không thể xóa bỏ nhóm khủng bố này. \"The Red Brigades\" là nhóm vũ trang nhận trách nhiệm cho những vụ bắt cóc hay ám sát thủ tướng Italia Aldo Moro trong năm 1978."
+        "t": "Đây là một nhóm khủng bố cánh tả người Italia hoạt động mạnh mẽ trong giai đoạn 1977-1981. Mặc dù có một số thành viên bị bắt nhưng dường như quân đội không thể xóa bỏ nhóm khủng bố này. \"The Red Brigades\" là nhóm vũ trang nhận trách nhiệm cho những vụ bắt cóc hay ám sát thủ tướng Italia Aldo Moro trong năm 1978."
       }
     ],
     "k": "red brigades"
@@ -24621,7 +24621,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hội chữ thập đỏ quốc tế. Tổ chức này được lập ra để giúp đỡ những người gặp khó khăn. Sau khi chứng kiến những cảnh tang thương trong cuộc chiến Solferino, Henri Dunant (1828-1910) một người Thụy Sĩ có tấm lòng bác ái đã thành lập tổ chức này. Tổ chức đã tập hợp các thành viên tự nguyện nhằm giúp đỡ các nạn nhân chiến tranh. Năm 1863, Hội chữ thập đỏ quốc tế chính thức thành lập. Trong năm kế tiếp nó đã tập hợp được 12 chữ ký của các quốc gia ủng hộ trong hội nghị tổ chức ở Geneva. Ban đầu tổ chức này chỉ quan tâm đến binh lính trong chiến tranh. Ðến năm 1906 nó mở rộng ra đến lực lượng hải quân. Từ năm 1929, các tù nhân chiến tranh cũng nằm trong diện được chăm sóc, và 20 năm sau là những người dân thường. Tổ chức này cũng nhận được sự ủng hộ của khoảng 150 quốc gia. Lá cờ của tổ chức này có hình dấu thập đỏ trên nền trắng. Ở các quốc gia hồi giáo, dấu thập đỏ được thay thế bằng hình trăng lưỡi liềm đỏ."
+        "t": "Hội chữ thập đỏ quốc tế. Tổ chức này được lập ra để giúp đỡ những người gặp khó khăn. Sau khi chứng kiến những cảnh tang thương trong cuộc chiến Solferino, Henri Dunant (1828-1910) một người Thụy Sĩ có tấm lòng bác ái đã thành lập tổ chức này. Tổ chức đã tập hợp các thành viên tự nguyện nhằm giúp đỡ các nạn nhân chiến tranh. Năm 1863, Hội chữ thập đỏ quốc tế chính thức thành lập. Trong năm kế tiếp nó đã tập hợp được 12 chữ ký của các quốc gia ủng hộ trong hội nghị tổ chức ở Geneva. Ban đầu tổ chức này chỉ quan tâm đến binh lính trong chiến tranh. Đến năm 1906 nó mở rộng ra đến lực lượng hải quân. Từ năm 1929, các tù nhân chiến tranh cũng nằm trong diện được chăm sóc, và 20 năm sau là những người dân thường. Tổ chức này cũng nhận được sự ủng hộ của khoảng 150 quốc gia. Lá cờ của tổ chức này có hình dấu thập đỏ trên nền trắng. Ở các quốc gia hồi giáo, dấu thập đỏ được thay thế bằng hình trăng lưỡi liềm đỏ."
       }
     ],
     "k": "red cross"
@@ -24631,7 +24631,7 @@
     "h": "red curtain",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "bức màn đỏ (hàng rào chia cách Liên Xô với các nước XHCN Ðông Âu)."}
+      {"k": "m", "t": "bức màn đỏ (hàng rào chia cách Liên Xô với các nước XHCN Đông Âu)."}
     ],
     "ipa": ",red'kə:tin",
     "k": "red curtain"
@@ -24724,7 +24724,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những thành viên của Liên đoàn lao động quốc gia, sự kết hợp giữa các đơn vị quân đội, được thành lập vào năm 1909 ở New Zealand. Mặc dù chưa bao giờ nhận được sự ủng hộ của công đoàn quốc gia, tổ chức này vẫn trở thành lực lượng quan trọng nhờ những thành viên có ảnh hưởng mạnh như thợ mỏ. Năm 1912, xuất hiện sự đối đầu giữa chính phủ và Red Feds xảy ra tại vùng mỏ vàng Waihi khi cuộc đình công nơi đây dẫn đến bạo loạn. Hậu quả là một người chết. Tuy nhiên sau đó giới thợ mỏ đã phải chấp nhận thất bại. Liên đoàn lao động được thành lập. Hoạt động đầu tiên của họ là tổ chức một cuộc bãi công lớn mà điểm tập trung là cảng Wellington chống lại sự can thiệp của chính phủ. Hàng ngàn cảnh sát đã được huy động. Các cuộc xung đột đẫm máu đã xảy ra. Cuối cùng cuộc bãi công cũng bị dẹp bỏ. Red Feds và phương pháp đấu tranh chịu nhiều tai tiếng. Do đó hiệp hội thương mại New Zealand đã có sự nhân nhượng trong việc phân xử. Ngoài ra một loạt các đạo luật mới được ban hành để sửa đổi Ðạo luật hòa giải và công nghiệp năm 1984."
+        "t": "Những thành viên của Liên đoàn lao động quốc gia, sự kết hợp giữa các đơn vị quân đội, được thành lập vào năm 1909 ở New Zealand. Mặc dù chưa bao giờ nhận được sự ủng hộ của công đoàn quốc gia, tổ chức này vẫn trở thành lực lượng quan trọng nhờ những thành viên có ảnh hưởng mạnh như thợ mỏ. Năm 1912, xuất hiện sự đối đầu giữa chính phủ và Red Feds xảy ra tại vùng mỏ vàng Waihi khi cuộc đình công nơi đây dẫn đến bạo loạn. Hậu quả là một người chết. Tuy nhiên sau đó giới thợ mỏ đã phải chấp nhận thất bại. Liên đoàn lao động được thành lập. Hoạt động đầu tiên của họ là tổ chức một cuộc bãi công lớn mà điểm tập trung là cảng Wellington chống lại sự can thiệp của chính phủ. Hàng ngàn cảnh sát đã được huy động. Các cuộc xung đột đẫm máu đã xảy ra. Cuối cùng cuộc bãi công cũng bị dẹp bỏ. Red Feds và phương pháp đấu tranh chịu nhiều tai tiếng. Do đó hiệp hội thương mại New Zealand đã có sự nhân nhượng trong việc phân xử. Ngoài ra một loạt các đạo luật mới được ban hành để sửa đổi Đạo luật hòa giải và công nghiệp năm 1984."
       }
     ],
     "k": "red feds"
@@ -24806,7 +24806,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những sĩ quan quân đội trẻ tuổi, ủng hộ Mao Trạch Ðông trong thời kỳ Cách mạng văn hóa Trung Quốc (1966-1969). Năm 1927, tổ chức này được Mao Trạch Ðông đặt tên là Red Guards. Nó đã cung cấp cho phong trào lượng lớn quân tiên phong. Tổ chức đã tấn công những người bị cho là phản động, thành lập đảng Cộng Sản, kìm giữ sự phát triển của phong trào thông qua những cuộc biểu tình lớn, thực hiện những cuộc chiến tranh và tấn công vũ lực vào con người và tài sản. Những cuộc xung đột với phe đối nghịch của Red Guards khiến cho hàng ngàn người chết. Sau cuộc Cách mạng văn hóa, nhiều người bị đưa về nông thôn để \"học tập cải tạo\"."
+        "t": "Những sĩ quan quân đội trẻ tuổi, ủng hộ Mao Trạch Đông trong thời kỳ Cách mạng văn hóa Trung Quốc (1966-1969). Năm 1927, tổ chức này được Mao Trạch Đông đặt tên là Red Guards. Nó đã cung cấp cho phong trào lượng lớn quân tiên phong. Tổ chức đã tấn công những người bị cho là phản động, thành lập đảng Cộng Sản, kìm giữ sự phát triển của phong trào thông qua những cuộc biểu tình lớn, thực hiện những cuộc chiến tranh và tấn công vũ lực vào con người và tài sản. Những cuộc xung đột với phe đối nghịch của Red Guards khiến cho hàng ngàn người chết. Sau cuộc Cách mạng văn hóa, nhiều người bị đưa về nông thôn để \"học tập cải tạo\"."
       }
     ],
     "k": "red guards"
@@ -25348,7 +25348,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðây là một vùng thuộc địa nằm ở vùng Red River ở trung tâm Canada trong thời kỳ đầu thế kỷ 19. Vùng đất này được công ty Hudson's Bay chuyển giao cho bá tước vùng Selkirk Thomas Douglas (1771-1820). Ông đã nỗ lực tách Selkirk ra khỏi sự kiểm soát của Scotland cũng như Bắc Ireland. Những nhóm người đầu tiên dưới sự chỉ huy của Thomas đã phải cố gắng chống lại sức ép nhằm cô lập vùng Red River của công ty North West trước khi họ tới vùng đất này năm 1812. Năm 1816, vùng thuộc địa này lại bị chiếm đóng, đồng thời một cuộc thảm sát 22 người dân đã được người của công ty North West thực hiện ở Seven Oaks. Ngoài ra, một số cuộc tấn công khác vẫn tiếp tục xảy ra. Mặc dù Thomas đã bị thất bại nhưng triển vọng về sự hợp tác giữa công ty North West và Hudson's Bay vẫn mở đường cho nhiều người dân đến sống ở vùng đất này."
+        "t": "Đây là một vùng thuộc địa nằm ở vùng Red River ở trung tâm Canada trong thời kỳ đầu thế kỷ 19. Vùng đất này được công ty Hudson's Bay chuyển giao cho bá tước vùng Selkirk Thomas Douglas (1771-1820). Ông đã nỗ lực tách Selkirk ra khỏi sự kiểm soát của Scotland cũng như Bắc Ireland. Những nhóm người đầu tiên dưới sự chỉ huy của Thomas đã phải cố gắng chống lại sức ép nhằm cô lập vùng Red River của công ty North West trước khi họ tới vùng đất này năm 1812. Năm 1816, vùng thuộc địa này lại bị chiếm đóng, đồng thời một cuộc thảm sát 22 người dân đã được người của công ty North West thực hiện ở Seven Oaks. Ngoài ra, một số cuộc tấn công khác vẫn tiếp tục xảy ra. Mặc dù Thomas đã bị thất bại nhưng triển vọng về sự hợp tác giữa công ty North West và Hudson's Bay vẫn mở đường cho nhiều người dân đến sống ở vùng đất này."
       }
     ],
     "k": "red river settlement"
@@ -27876,7 +27876,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "toán tử đổi hướng. Trong DOS, đây là một ký hiệu dùng để dẫn hướng các kết quả của một lệnh vào hoặc ra một thiết kế không phải là bàn phím và màn hình video (console). Bạn có thể dùng các toán tử đổi hướng sau đây trong lệnh DOS: -Ðổi hướng ra: Gửi thông tin ra của một lệnh cho một tệp hoặc một thiết bị. Ví dụ lệnh sau đây sẽ đưa ra các nội dung của tệp LETTER.DOC cho máy in: LETTER.DOC > PRN. -Ðổi hướng nối thêm: Gửi kết quả của một lệnh cho một tệp đang tồn tại và bổ sung thông tin đó vào nội dung của tệp. Ví dụ, lệnh sau đây sẽ cất một bảng liệt kê thư mục vào tệp có tên là DIR.DOS, và nối thông tin đó vào đuôi của tệp, nếu DIR.DOC có mặt: DIR B:>> DIR. DOC. -Ðổi hướng vào: Thiết lập một tệp làm dữ liệu đầu vào cho một lệnh thay cho consol (bàn giao tiếp), sao cho các nội dung của tệp đó được sử dụng thay cho dữ liệu lối vào lấy từ bàn phím. Ví dụ lệnh sau đay sẽ cho chạy lệnh SORT và dùng tệp TERMS.DOC làm dữ liệu vào sẽ được sắp xếp phân loại (sort): SORT<TERMS.DOC."
+        "t": "toán tử đổi hướng. Trong DOS, đây là một ký hiệu dùng để dẫn hướng các kết quả của một lệnh vào hoặc ra một thiết kế không phải là bàn phím và màn hình video (console). Bạn có thể dùng các toán tử đổi hướng sau đây trong lệnh DOS: -Đổi hướng ra: Gửi thông tin ra của một lệnh cho một tệp hoặc một thiết bị. Ví dụ lệnh sau đây sẽ đưa ra các nội dung của tệp LETTER.DOC cho máy in: LETTER.DOC > PRN. -Đổi hướng nối thêm: Gửi kết quả của một lệnh cho một tệp đang tồn tại và bổ sung thông tin đó vào nội dung của tệp. Ví dụ, lệnh sau đây sẽ cất một bảng liệt kê thư mục vào tệp có tên là DIR.DOS, và nối thông tin đó vào đuôi của tệp, nếu DIR.DOC có mặt: DIR B:>> DIR. DOC. -Đổi hướng vào: Thiết lập một tệp làm dữ liệu đầu vào cho một lệnh thay cho consol (bàn giao tiếp), sao cho các nội dung của tệp đó được sử dụng thay cho dữ liệu lối vào lấy từ bàn phím. Ví dụ lệnh sau đay sẽ cho chạy lệnh SORT và dùng tệp TERMS.DOC làm dữ liệu vào sẽ được sắp xếp phân loại (sort): SORT<TERMS.DOC."
       }
     ],
     "k": "redirection operator"
@@ -30945,7 +30945,7 @@
   },
   {
     "h": "reduplication cataract",
-    "segs": [{"k": "m", "t": "Ðục thể thủy tinh nhiều lớp."}],
+    "segs": [{"k": "m", "t": "Đục thể thủy tinh nhiều lớp."}],
     "k": "reduplication cataract"
   },
   {
@@ -32998,7 +32998,7 @@
       {"k": "m", "t": "Một tổ chức ở các địa phương của Anglo-Saxon trước đây thuộc về Anh."},
       {
         "k": "m",
-        "t": "Những người quan trọng nhất của tổ chức này là các thị trưởng. Họ thay mặt hoàng gia xét xử các vụ việc. Ðồng thời thu lợi tức cho hoàng gia trong khu vực quản lý. Ngoài ra, họ còn tổ chức lực lượng nông dân làm việc trong các trang trại. Những người này nhận được tiền lương, được cấp đất để chăn thả và được miễn giảm thuế. Mặc dù chế độ nông nô vẫn tồn tại nhưng họ đã tìm ra cách làm giàu bằng cuộc tuyển cử hàng năm. Cách này được Chaucer viết trong cuốn \"The Canterbury Tales\" vào thời kỳ trước thế kỷ 14."
+        "t": "Những người quan trọng nhất của tổ chức này là các thị trưởng. Họ thay mặt hoàng gia xét xử các vụ việc. Đồng thời thu lợi tức cho hoàng gia trong khu vực quản lý. Ngoài ra, họ còn tổ chức lực lượng nông dân làm việc trong các trang trại. Những người này nhận được tiền lương, được cấp đất để chăn thả và được miễn giảm thuế. Mặc dù chế độ nông nô vẫn tồn tại nhưng họ đã tìm ra cách làm giàu bằng cuộc tuyển cử hàng năm. Cách này được Chaucer viết trong cuốn \"The Canterbury Tales\" vào thời kỳ trước thế kỷ 14."
       }
     ],
     "k": "reeve"
@@ -36344,7 +36344,7 @@
     "segs": [{"k": "m", "t": "Mặt phẳng phản xạ."}],
     "k": "reflection plane"
   },
-  {"h": "reflection point", "segs": [{"k": "m", "t": "Ðiểm phản xạ."}], "k": "reflection point"},
+  {"h": "reflection point", "segs": [{"k": "m", "t": "Điểm phản xạ."}], "k": "reflection point"},
   {
     "h": "reflection principle",
     "segs": [{"k": "m", "t": "nguyên lý phản xạ."}],
@@ -36672,7 +36672,7 @@
   },
   {"h": "reflex center", "segs": [{"k": "m", "t": "Trung tâm phản xạ."}], "k": "reflex center"},
   {"h": "reflex circuit", "segs": [{"k": "m", "t": "mạch phản xạ."}], "k": "reflex circuit"},
-  {"h": "reflex control", "segs": [{"k": "m", "t": "Ðiều khiển phản xạ."}], "k": "reflex control"},
+  {"h": "reflex control", "segs": [{"k": "m", "t": "Điều khiển phản xạ."}], "k": "reflex control"},
   {
     "h": "reflex copying",
     "segs": [{"k": "m", "t": "sự sao chép phản xạ, phương pháp sao chụp phản xạ."}],
@@ -36680,7 +36680,7 @@
   },
   {"h": "reflex cough", "segs": [{"k": "m", "t": "Ho phản xạ."}], "k": "reflex cough"},
   {"h": "reflex decidua", "segs": [{"k": "m", "t": "Màng rụng trứng."}], "k": "reflex decidua"},
-  {"h": "reflex epilepsy", "segs": [{"k": "m", "t": "Ðộng kinh phản xạ."}], "k": "reflex epilepsy"},
+  {"h": "reflex epilepsy", "segs": [{"k": "m", "t": "Động kinh phản xạ."}], "k": "reflex epilepsy"},
   {
     "h": "reflex hallucination",
     "segs": [{"k": "m", "t": "ảo giác phản xạ."}],
@@ -36712,8 +36712,8 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kính ngắm phản xạ"}],
     "k": "reflex mirror"
   },
-  {"h": "reflex movement", "segs": [{"k": "m", "t": "Ðộng tác phản xạ."}], "k": "reflex movement"},
-  {"h": "reflex otalgia", "segs": [{"k": "m", "t": "Ðau tai phản xạ."}], "k": "reflex otalgia"},
+  {"h": "reflex movement", "segs": [{"k": "m", "t": "Động tác phản xạ."}], "k": "reflex movement"},
+  {"h": "reflex otalgia", "segs": [{"k": "m", "t": "Đau tai phản xạ."}], "k": "reflex otalgia"},
   {"h": "reflex paralysis", "segs": [{"k": "m", "t": "Liệt phản xạ."}], "k": "reflex paralysis"},
   {
     "h": "reflex printing method",
@@ -36804,7 +36804,7 @@
   {"h": "reflexive space", "segs": [{"k": "m", "t": "không gian phản xạ."}], "k": "reflexive space"},
   {
     "h": "reflexive verb",
-    "segs": [{"k": "m", "t": "(dt) (ngôn) Ðộng từ phản thân."}],
+    "segs": [{"k": "m", "t": "(dt) (ngôn) Động từ phản thân."}],
     "k": "reflexive verb"
   },
   {
@@ -37198,7 +37198,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Sự mở rộng một số đạo luật giới hạn trong bầu cử vào thế kỷ 19 và 20 ở Anh. Năm 1780, William Pitt đã đề nghị loại bỏ một số điều lệ trong hệ thống bầu cử. Tuy nhiên những nỗ lực của ông đã bị phe đối lập bác bỏ. Năm 1820, đã có một số sự thay đổi và Whigs sau khi trở lại nắm quyền vào năm 1830, đã cam kết sẽ tái thiết lại hệ thống này. Tuy nhiên, chính phủ đã buộc Quốc hội phải thông qua các điều khoản. Ðạo luật tái thiết năm 1832 đã loại bỏ những điều bất cập và cho phép một số thành phố công nghiệp không có người đại diện vẫn có quyền bỏ phiếu. Việc hạ thấp giới hạn về tài sản cho phép giới trung lưu có quyền bầu cử nhưng đồng thời quyền lực của các quý tộc giàu có cũng tăng lên đáng kể. Tuy nhiên, phần lớn dân số (tất cả phụ nữ và 5/6 đàn ông) vẫn không có quyền bỏ phiếu. Ðạo luật tái thiết năm 1867 đã mở rộng giới hạn bỏ phiếu. Lúc này những đàn ông làm việc trong các thành phố cũng đã có quyền bầu cử. Tuy nhiên, mãi đến 17 năm sau nhờ đạo luật tái thiết năm 1884 giới làm công và nông dân mới được quyền bầu cử. Ðến lúc đó đã có 5 triệu người có quyền bầu cử. Ðạo luật năm 1918 cho phép nam giới trên 21 tuổi đều có quyền bầu cử. Ngoài ra đạo luật này còn cho phép phụ nữ trên 30 tuổi cũng có quyền bỏ phiếu. Năm 1928, những người phụ nữ từ 21 đến 30 tuổi đã thành công trong việc đấu tranh giành quyền bầu cử cũng như loại bỏ giới hạn về tài sản. Như vậy toàn bộ người dân trên 21 tuổi đều đã có quyền bầu cử. Ðến năm 1969, độ tuổi bầu cử giảm xuống còn 18."
+        "t": "Sự mở rộng một số đạo luật giới hạn trong bầu cử vào thế kỷ 19 và 20 ở Anh. Năm 1780, William Pitt đã đề nghị loại bỏ một số điều lệ trong hệ thống bầu cử. Tuy nhiên những nỗ lực của ông đã bị phe đối lập bác bỏ. Năm 1820, đã có một số sự thay đổi và Whigs sau khi trở lại nắm quyền vào năm 1830, đã cam kết sẽ tái thiết lại hệ thống này. Tuy nhiên, chính phủ đã buộc Quốc hội phải thông qua các điều khoản. Đạo luật tái thiết năm 1832 đã loại bỏ những điều bất cập và cho phép một số thành phố công nghiệp không có người đại diện vẫn có quyền bỏ phiếu. Việc hạ thấp giới hạn về tài sản cho phép giới trung lưu có quyền bầu cử nhưng đồng thời quyền lực của các quý tộc giàu có cũng tăng lên đáng kể. Tuy nhiên, phần lớn dân số (tất cả phụ nữ và 5/6 đàn ông) vẫn không có quyền bỏ phiếu. Đạo luật tái thiết năm 1867 đã mở rộng giới hạn bỏ phiếu. Lúc này những đàn ông làm việc trong các thành phố cũng đã có quyền bầu cử. Tuy nhiên, mãi đến 17 năm sau nhờ đạo luật tái thiết năm 1884 giới làm công và nông dân mới được quyền bầu cử. Đến lúc đó đã có 5 triệu người có quyền bầu cử. Đạo luật năm 1918 cho phép nam giới trên 21 tuổi đều có quyền bầu cử. Ngoài ra đạo luật này còn cho phép phụ nữ trên 30 tuổi cũng có quyền bỏ phiếu. Năm 1928, những người phụ nữ từ 21 đến 30 tuổi đã thành công trong việc đấu tranh giành quyền bầu cử cũng như loại bỏ giới hạn về tài sản. Như vậy toàn bộ người dân trên 21 tuổi đều đã có quyền bầu cử. Đến năm 1969, độ tuổi bầu cử giảm xuống còn 18."
       }
     ],
     "k": "reform acts (uk)"
@@ -37218,7 +37218,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phong trào phản đối tình trạng nhận thức một cách hời hợt của chủ nghĩa Do Thái tự do. Phong trào này do Zachariah Frankel (1801-1875) khởi xướng ở Ðức. Frankel cho rằng thần Torah phải được tôn thờ một cách tuyệt đối nhưng đồng thời vẫn tuân theo luật lệ và truyền thống của người Do Thái. Ở vương quốc Anh, cuộc cải cách Do Thái được xem như một phong trào giải phóng hay phong trào cấp tiến. Ở Mỹ, cụm từ \"Reform Jadaism\" đề cập đến phong trào giải phóng được người Ðức di cư đưa vào từ thế kỷ 19. Phong trào cải cách Do Thái ở Mỹ có sự khác biệt lớn với phong trào này ở Anh."
+        "t": "Phong trào phản đối tình trạng nhận thức một cách hời hợt của chủ nghĩa Do Thái tự do. Phong trào này do Zachariah Frankel (1801-1875) khởi xướng ở Đức. Frankel cho rằng thần Torah phải được tôn thờ một cách tuyệt đối nhưng đồng thời vẫn tuân theo luật lệ và truyền thống của người Do Thái. Ở vương quốc Anh, cuộc cải cách Do Thái được xem như một phong trào giải phóng hay phong trào cấp tiến. Ở Mỹ, cụm từ \"Reform Jadaism\" đề cập đến phong trào giải phóng được người Đức di cư đưa vào từ thế kỷ 19. Phong trào cải cách Do Thái ở Mỹ có sự khác biệt lớn với phong trào này ở Anh."
       }
     ],
     "k": "reform judaism"
@@ -37296,7 +37296,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phong trào xảy ra vào thế kỷ 16 nhằm tạo ra sự thay đổi về giáo lý và việc thi hành của các nhà thờ Thiên Chúa Giáo La Mã. Kết quả của nó là sự ra đời của các nhà thờ theo đạo Tin Lành. Phong trào này bắt đầu từ thế kỷ 14 và từ những cuộc đả kích của Lollard và Hussite đối với luật lệ của nhà thờ. Ngoài ra, sự chia cắt trong giáo phái đã làm quyền lực của giáo hoàng suy yếu. Yêu cầu của giáo hoàng và quyền lực của Italia được duy trì trong một thời gian dài đã gây ra những sự bất mãn lớn. Người ta cho rằng sự khởi đầu của phong trào này xảy ra vào năm 1517 khi nhà thần học người Ðức Martin Luther phản đối sự tham nhũng của chế độ Giáo hoàng và nhà thờ Thiên Chúa Giáo La Mã. Tuy nhiên, Martin đã không đạt được thành công với những nỗ lực của mình. Sự thật, hầu hết các phong trào đòi đổi mới đều chú tâm vào việc đưa nhà thờ trở về như thời kỳ ban đầu mà không quan tâm đến việc cách tân. Các bài nghiên cứu về thần học của Luther tấn công vào những biến thể của giáo lý của Thiên Chúa Giáo, sự độc thân của các giáo sĩ và uy quyền tuyệt đối của giáo hoàng. Ngoài ra, ông cũng kêu gọi sự đổi mới cơ bản những yêu cầu của tôn giáo. Trước năm 1530, những người cai trị Saxony, Hesse, Brandenburg, Brunswick cũng như vua Ðan Mạch và Thụy Ðiển đã đồng ý việc đổi mới này. Họ đã cắt đứt quan hệ với nhà thờ La Mã, đồng thời thiết lập nhà thờ Tin Lành trong lãnh thổ. Ở Thụy Sĩ, phong trào đổi mới được dẫn dắt bởi Zwingli. Ông đã thành công khi chống lại giáo hoàng, việc thay đổi giáo lý và phong thái của các giáo sĩ ở Zurich. Sau khi Zwingli chết, Calvin là người lãnh đạo phong trào đổi mới. Dưới sự lãnh đạo của ông, các tiến trình cải cách có vẻ khả quan hơn. Ðồng thời giáo lý mới cũng rõ ràng hơn. Chủ nghĩa Calvin đã trở thành học thuyết dẫn dắt phong trào đổi mới ở Ðông Ðức, Pháp, Hà Lan và Scotland. Ở mỗi quốc gia này, sự đổi mới diễn ra đồng thời với cuộc bạo động chính trị. Chủ nghĩa Calvin cũng trở thành học thuyết chính của các nhà thờ của Anh. Ở Châu Âu, phong trào đổi mới phát triển dựa trên sự dẫn dắt của Counter-Reformation. Kỷ nguyên của cuộc chiến tôn giáo kết thúc với cuộc chiến tranh 30 năm (1618-1648)."
+        "t": "Phong trào xảy ra vào thế kỷ 16 nhằm tạo ra sự thay đổi về giáo lý và việc thi hành của các nhà thờ Thiên Chúa Giáo La Mã. Kết quả của nó là sự ra đời của các nhà thờ theo đạo Tin Lành. Phong trào này bắt đầu từ thế kỷ 14 và từ những cuộc đả kích của Lollard và Hussite đối với luật lệ của nhà thờ. Ngoài ra, sự chia cắt trong giáo phái đã làm quyền lực của giáo hoàng suy yếu. Yêu cầu của giáo hoàng và quyền lực của Italia được duy trì trong một thời gian dài đã gây ra những sự bất mãn lớn. Người ta cho rằng sự khởi đầu của phong trào này xảy ra vào năm 1517 khi nhà thần học người Đức Martin Luther phản đối sự tham nhũng của chế độ Giáo hoàng và nhà thờ Thiên Chúa Giáo La Mã. Tuy nhiên, Martin đã không đạt được thành công với những nỗ lực của mình. Sự thật, hầu hết các phong trào đòi đổi mới đều chú tâm vào việc đưa nhà thờ trở về như thời kỳ ban đầu mà không quan tâm đến việc cách tân. Các bài nghiên cứu về thần học của Luther tấn công vào những biến thể của giáo lý của Thiên Chúa Giáo, sự độc thân của các giáo sĩ và uy quyền tuyệt đối của giáo hoàng. Ngoài ra, ông cũng kêu gọi sự đổi mới cơ bản những yêu cầu của tôn giáo. Trước năm 1530, những người cai trị Saxony, Hesse, Brandenburg, Brunswick cũng như vua Đan Mạch và Thụy Điển đã đồng ý việc đổi mới này. Họ đã cắt đứt quan hệ với nhà thờ La Mã, đồng thời thiết lập nhà thờ Tin Lành trong lãnh thổ. Ở Thụy Sĩ, phong trào đổi mới được dẫn dắt bởi Zwingli. Ông đã thành công khi chống lại giáo hoàng, việc thay đổi giáo lý và phong thái của các giáo sĩ ở Zurich. Sau khi Zwingli chết, Calvin là người lãnh đạo phong trào đổi mới. Dưới sự lãnh đạo của ông, các tiến trình cải cách có vẻ khả quan hơn. Đồng thời giáo lý mới cũng rõ ràng hơn. Chủ nghĩa Calvin đã trở thành học thuyết dẫn dắt phong trào đổi mới ở Đông Đức, Pháp, Hà Lan và Scotland. Ở mỗi quốc gia này, sự đổi mới diễn ra đồng thời với cuộc bạo động chính trị. Chủ nghĩa Calvin cũng trở thành học thuyết chính của các nhà thờ của Anh. Ở Châu Âu, phong trào đổi mới phát triển dựa trên sự dẫn dắt của Counter-Reformation. Kỷ nguyên của cuộc chiến tôn giáo kết thúc với cuộc chiến tranh 30 năm (1618-1648)."
       }
     ],
     "k": "reformation"
@@ -37762,7 +37762,7 @@
     "segs": [{"k": "m", "t": "mặt phẳng khúc xạ."}],
     "k": "refraction plane"
   },
-  {"h": "refraction point", "segs": [{"k": "m", "t": "Ðiểm khúc xạ."}], "k": "refraction point"},
+  {"h": "refraction point", "segs": [{"k": "m", "t": "Điểm khúc xạ."}], "k": "refraction point"},
   {
     "h": "refraction process",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương pháp khúc xạ"}],
@@ -37966,7 +37966,7 @@
     "segs": [{"k": "m", "t": "đặc tính chịu lửa."}],
     "k": "refractory characteristic"
   },
-  {"h": "refractory clay", "segs": [{"k": "m", "t": "Ðất sét chịu lửa."}], "k": "refractory clay"},
+  {"h": "refractory clay", "segs": [{"k": "m", "t": "Đất sét chịu lửa."}], "k": "refractory clay"},
   {
     "h": "refractory coating",
     "segs": [{"k": "m", "t": "lớp phủ chịu lửa; lớp áo chịu lửa."}],
@@ -42040,7 +42040,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những người vượt biên vì lý do chính trị, phân biệt chủng tộc, nạn đói, chiến tranh hoặc thiên tai. Thế kỷ 20 là giai đoạn diễn ra nhiều cuộc di cư lớn với số lượng người nhiều nhất. Chỉ riêng năm 1990, đã có 15 triệu người di cư trên toàn thế giới. Tại các nước đang phát triển, số lượng người di cư chiếm đa số. Nguyên nhân gây ra những cuộc di cư trên rất phức tạp và đa dạng nhưng hai nguyên nhân chính là những cuộc xung đột vũ trang hoặc những vụ bạo động và sự xâm phạm quyền tự do. Tất cả những nguyên nhân trên lại trầm trọng thêm do chủ nghĩa quốc gia, xung đột chủng tộc, sự can thiệp của nước ngoài, sự gia tăng dân số và việc chạy đua vũ trang. Tuy nhiên các chính phủ vẫn rất nhân nhượng trong việc cho phép nhập cư. Bởi lẽ họ lo ngại quan hệ ngoại giao bị tổn hại. Ðiều này đã gây ra nhiều cuộc nhập cư ồ ạt, gây ra gánh nặng về kinh tế. Mặc dù có sự phản đối của hội nghị liên minh quốc gia năm 1951 với tình trạng nhập cư, chính phủ đã giới hạn việc nhập cư, xem những người di cư như những người xâm nhập trái phép đồng thời xếp họ vào dạng tội phạm. Những người di cư từ những nước phương Ðông trong những năm 1950 đến 1970 được xem là nguồn nhân lực tốt. Trong khi đó phản ứng của Châu Âu và Bắc Mỹ đối với việc nhập cư từ các nước đang phát triển là tăng cường các đạo luật giới hạn (tuy nhiên cũng có những ngoại lệ như người Chi Lê và Mỹ La Tinh trong những năm 1970, những người Trung-Ấn những năm 1980). Ở Pakistan, khoảng 2.8 triệu người Afganixtan di cư vẫn có được sự thoải mái trong khi những người nhập cư Iran lại không nhận được bất cứ sự ủng hộ nào của chính phủ. Ngay cả nếu những người nhập cư được luật pháp chấp nhận nhưng việc hòa hợp với đời sống xã hội và kinh tế của họ lại rất khó khăn. Văn phòng hội đồng liên minh quốc gia đã giúp đỡ người nhập cư để làm giảm bớt những vấn đề như nhà cửa, thực phẩm... Tuy nhiên, trong một thời kỳ dài, tương lai của nhiều người dân nhập cư thật ảm đạm: họ không thể trở về quê hương (hồi hương là ước mong của phần lớn người nhập cư) do nơi họ chuyển đến cũng không thay đổi gì. Khả năng tái định cư ở một nước thứ ba cũng bị thu hẹp. Thậm chí những hỗ trợ cho người di cư giúp họ thích nghi với môi trường mới rất hạn hẹp như dạy ngôn ngữ mới cũng như các kỹ năng sống. Do đó, nhiều người đã phải sống trong các trại tị nạn trong một thời kỳ dài."
+        "t": "Những người vượt biên vì lý do chính trị, phân biệt chủng tộc, nạn đói, chiến tranh hoặc thiên tai. Thế kỷ 20 là giai đoạn diễn ra nhiều cuộc di cư lớn với số lượng người nhiều nhất. Chỉ riêng năm 1990, đã có 15 triệu người di cư trên toàn thế giới. Tại các nước đang phát triển, số lượng người di cư chiếm đa số. Nguyên nhân gây ra những cuộc di cư trên rất phức tạp và đa dạng nhưng hai nguyên nhân chính là những cuộc xung đột vũ trang hoặc những vụ bạo động và sự xâm phạm quyền tự do. Tất cả những nguyên nhân trên lại trầm trọng thêm do chủ nghĩa quốc gia, xung đột chủng tộc, sự can thiệp của nước ngoài, sự gia tăng dân số và việc chạy đua vũ trang. Tuy nhiên các chính phủ vẫn rất nhân nhượng trong việc cho phép nhập cư. Bởi lẽ họ lo ngại quan hệ ngoại giao bị tổn hại. Điều này đã gây ra nhiều cuộc nhập cư ồ ạt, gây ra gánh nặng về kinh tế. Mặc dù có sự phản đối của hội nghị liên minh quốc gia năm 1951 với tình trạng nhập cư, chính phủ đã giới hạn việc nhập cư, xem những người di cư như những người xâm nhập trái phép đồng thời xếp họ vào dạng tội phạm. Những người di cư từ những nước phương Đông trong những năm 1950 đến 1970 được xem là nguồn nhân lực tốt. Trong khi đó phản ứng của Châu Âu và Bắc Mỹ đối với việc nhập cư từ các nước đang phát triển là tăng cường các đạo luật giới hạn (tuy nhiên cũng có những ngoại lệ như người Chi Lê và Mỹ La Tinh trong những năm 1970, những người Trung-Ấn những năm 1980). Ở Pakistan, khoảng 2.8 triệu người Afganixtan di cư vẫn có được sự thoải mái trong khi những người nhập cư Iran lại không nhận được bất cứ sự ủng hộ nào của chính phủ. Ngay cả nếu những người nhập cư được luật pháp chấp nhận nhưng việc hòa hợp với đời sống xã hội và kinh tế của họ lại rất khó khăn. Văn phòng hội đồng liên minh quốc gia đã giúp đỡ người nhập cư để làm giảm bớt những vấn đề như nhà cửa, thực phẩm... Tuy nhiên, trong một thời kỳ dài, tương lai của nhiều người dân nhập cư thật ảm đạm: họ không thể trở về quê hương (hồi hương là ước mong của phần lớn người nhập cư) do nơi họ chuyển đến cũng không thay đổi gì. Khả năng tái định cư ở một nước thứ ba cũng bị thu hẹp. Thậm chí những hỗ trợ cho người di cư giúp họ thích nghi với môi trường mới rất hạn hẹp như dạy ngôn ngữ mới cũng như các kỹ năng sống. Do đó, nhiều người đã phải sống trong các trại tị nạn trong một thời kỳ dài."
       }
     ],
     "k": "refugee"
@@ -43081,7 +43081,7 @@
       {
         "k": "ex",
         "t": "We have succeeded in one crucial regard: Making this scandal public",
-        "vi": "Chúng ta đã thành công về một điểm cốt yếu: Ðưa vụ bê bối này ra trước công chúng"
+        "vi": "Chúng ta đã thành công về một điểm cốt yếu: Đưa vụ bê bối này ra trước công chúng"
       },
       {"k": "pos", "t": "ngoại động từ"},
       {"k": "m", "t": "nhìn ai một cách chăm chú"},
@@ -43110,7 +43110,7 @@
       {
         "k": "ex",
         "t": "To regard somebody unfavourably/with disfavour",
-        "vi": "Ðánh giá ai một cách thiếu thiện cảm/ác cảm"
+        "vi": "Đánh giá ai một cách thiếu thiện cảm/ác cảm"
       },
       {
         "k": "ex",
@@ -44524,7 +44524,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(bí danh Johann miiller) (1436-1476) nhà thiên văn học và toán học Ðức. Ông tham gia vào công trình hoàn chỉnh lịch. Ông hệ thống hóa các số liệu lượng giác. Ông lập bảng các sin với 7 chữ số và bước đi từng phút một."
+        "t": "(bí danh Johann miiller) (1436-1476) nhà thiên văn học và toán học Đức. Ông tham gia vào công trình hoàn chỉnh lịch. Ông hệ thống hóa các số liệu lượng giác. Ông lập bảng các sin với 7 chữ số và bước đi từng phút một."
       }
     ],
     "k": "regiomontanus"
@@ -44629,7 +44629,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phụ cấp khu vực. Phụ cấp bù đắp cho người hưởng lương làm việc ở những vùng xa xôi, hẻo lánh, đi lại khó khăn, những vùng có điều kiện khí hậu xấu. Căn cứ vào Thông tư số 15/LÐTBXH-TT ngày 2-6-1993 của Bộ Lao động-Thương binh và Xã hội hướng dẫn thực hiện chế độ phụ cấp khu vực, thì phụ cấp khu vực được áp dụng đối với các đối tượng hưởng lương, hưởng trợ cấp hàng tháng có tính chất lượng bao gồm. Cán bộ giữ chức vụ bầu cử nhà nước, Ðảng, đoàn thể. Công chức, viên chức hành chính, sự nghiệp, kể cả lao động hợp đồng. Các bộ, công nhân viên làm việc trong cơ quan Ðảng, đoàn thể. Công nhân, viên chức trong các doanh nghiệp. Sĩ quan và những người hưởng lương trong lực lượng vũ trang. Những người nghỉ hưu, nghỉ việc vì mất sức lao động, tai nạn lao động, bệnh nghề nghiệp hưởng trợ cấp hàng tháng thay lương. Thương binh, bệnh binh hưởng trợ cấp hàng tháng thay lương."
+        "t": "phụ cấp khu vực. Phụ cấp bù đắp cho người hưởng lương làm việc ở những vùng xa xôi, hẻo lánh, đi lại khó khăn, những vùng có điều kiện khí hậu xấu. Căn cứ vào Thông tư số 15/LĐTBXH-TT ngày 2-6-1993 của Bộ Lao động-Thương binh và Xã hội hướng dẫn thực hiện chế độ phụ cấp khu vực, thì phụ cấp khu vực được áp dụng đối với các đối tượng hưởng lương, hưởng trợ cấp hàng tháng có tính chất lượng bao gồm. Cán bộ giữ chức vụ bầu cử nhà nước, Đảng, đoàn thể. Công chức, viên chức hành chính, sự nghiệp, kể cả lao động hợp đồng. Các bộ, công nhân viên làm việc trong cơ quan Đảng, đoàn thể. Công nhân, viên chức trong các doanh nghiệp. Sĩ quan và những người hưởng lương trong lực lượng vũ trang. Những người nghỉ hưu, nghỉ việc vì mất sức lao động, tai nạn lao động, bệnh nghề nghiệp hưởng trợ cấp hàng tháng thay lương. Thương binh, bệnh binh hưởng trợ cấp hàng tháng thay lương."
       }
     ],
     "k": "regional allowance"
@@ -48678,7 +48678,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "sự thuê mướn theo quy định"},
-      {"k": "m", "t": "sự thuê mướn theo quy định (Ðạo luật về thuế mướn năm 1977)"}
+      {"k": "m", "t": "sự thuê mướn theo quy định (Đạo luật về thuế mướn năm 1977)"}
     ],
     "k": "regulated tenancy"
   },
@@ -48799,7 +48799,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "kiểm soát độc quyền. Trong thị trường cạnh tranh, sản lượng và giá cân bằng thể hiện mức sản xuất và tiêu dùng có hiệu quả kinh tế tối ưu. Tuy nhiên, trong thị trường độc quyền, do sản lượng thấp hơn trong khi giá thì cao hơn so với mức cân bằng cạnh tranh nên xã hội luôn bị tổn thất. Vì thế chính phủ thường áp dụng các biện pháp điều tiết hay kiểm soát độc quyền. Biện pháp đầu tiên là cho phép thị trường trở nên cạnh tranh hơn. Chẳng hạn, vài năm trước các nhà sản xuất xe máy của hãng Honda có thể xem là độc quyền trên thị trường Việt Nam, giá mỗi chiếc lên đến 2.500 USD. Thế nhưng từ khi cho phép bán các loại xe mang nhãn hiệu khác được nhập hay lắp ráp trong nước, sức ép cạnh tranh đã buộc các nhà sản xuất xe máy Honda phải giảm giá bán hơn 50% so với trước. Ðối với những ngành được độc quyền khai thác các nguồn lực chiến lược như năng lượng và khí đốt, chính phủ có thể đánh thuế để giảm bớt lợi nhuận siêu ngạch của nhà độc quyền. Ví dụ, thuế thu nhập áp dụng cho các công ty dầu khí ở Việt Nam là 50%, trong khi thuế suất phổ biến cho các ngành khác chỉ là 32%. Kiểm soát giá là một biện pháp khác mà chính phủ thường áp dụng cho các ngành độc quyền tự nhiên như đường sắt, điện, nước. Lúc này, một mức giá tối đa sẽ được ấn định trên cơ sở xác định một suất sinh lợi hợp lý của nhà độc quyền, có xét đến vốn và độ rủi ro trong đầu tư của họ. Tuy nhiên việc xóa bỏ độc quyền đôi khi có thể gây tác động bất lợi cho phúc lợi xã hội, nếu chính phủ không có thêm những biện pháp ngăn ngừa các ngoại tác tiêu cực. Vấn nạn xe máy trong giao thông Việt Nam ngày nay là một ví dụ. Vì thế, sự cần thiết và biện pháp điều tiết độc quyền hiện vẫn là một chủ đề gây tranh cãi trong lĩnh vực kinh tế."
+        "t": "kiểm soát độc quyền. Trong thị trường cạnh tranh, sản lượng và giá cân bằng thể hiện mức sản xuất và tiêu dùng có hiệu quả kinh tế tối ưu. Tuy nhiên, trong thị trường độc quyền, do sản lượng thấp hơn trong khi giá thì cao hơn so với mức cân bằng cạnh tranh nên xã hội luôn bị tổn thất. Vì thế chính phủ thường áp dụng các biện pháp điều tiết hay kiểm soát độc quyền. Biện pháp đầu tiên là cho phép thị trường trở nên cạnh tranh hơn. Chẳng hạn, vài năm trước các nhà sản xuất xe máy của hãng Honda có thể xem là độc quyền trên thị trường Việt Nam, giá mỗi chiếc lên đến 2.500 USD. Thế nhưng từ khi cho phép bán các loại xe mang nhãn hiệu khác được nhập hay lắp ráp trong nước, sức ép cạnh tranh đã buộc các nhà sản xuất xe máy Honda phải giảm giá bán hơn 50% so với trước. Đối với những ngành được độc quyền khai thác các nguồn lực chiến lược như năng lượng và khí đốt, chính phủ có thể đánh thuế để giảm bớt lợi nhuận siêu ngạch của nhà độc quyền. Ví dụ, thuế thu nhập áp dụng cho các công ty dầu khí ở Việt Nam là 50%, trong khi thuế suất phổ biến cho các ngành khác chỉ là 32%. Kiểm soát giá là một biện pháp khác mà chính phủ thường áp dụng cho các ngành độc quyền tự nhiên như đường sắt, điện, nước. Lúc này, một mức giá tối đa sẽ được ấn định trên cơ sở xác định một suất sinh lợi hợp lý của nhà độc quyền, có xét đến vốn và độ rủi ro trong đầu tư của họ. Tuy nhiên việc xóa bỏ độc quyền đôi khi có thể gây tác động bất lợi cho phúc lợi xã hội, nếu chính phủ không có thêm những biện pháp ngăn ngừa các ngoại tác tiêu cực. Vấn nạn xe máy trong giao thông Việt Nam ngày nay là một ví dụ. Vì thế, sự cần thiết và biện pháp điều tiết độc quyền hiện vẫn là một chủ đề gây tranh cãi trong lĩnh vực kinh tế."
       }
     ],
     "k": "regulating monopoly"
@@ -49007,7 +49007,7 @@
   },
   {
     "h": "Regulation of births",
-    "segs": [{"k": "m", "t": "Ðiều hòa sinh sản."}],
+    "segs": [{"k": "m", "t": "Điều hòa sinh sản."}],
     "k": "regulation of births"
   },
   {
@@ -49236,7 +49236,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Những người nổi loạn ở Bắc Carolina. Ðây là những người chịu sự áp bức chính trị của những quý tộc ở vùng ven biển. Sau khi hoạt động hợp pháp thất bại, họ chuyển sang hành động bạo lực. Tất cả những hành động này nhằm đòi hỏi quyền đại diện của họ đồng thời đòi giảm thuế. \"Cuộc bạo động\" tập trung ở quận Orange, tấn công quan tòa và luật sư cho đến khi phong trào bị dập tắt bởi quân đội trong trận chiến Alamance dưới thời chính phủ Tryon. Sự đối lập giữa vùng biên giới và vùng ven biển thật bất thường. Nhiều cuộc nổi loạn như của Bacon, Culpeper và Shays đã diễn ra."
+        "t": "Những người nổi loạn ở Bắc Carolina. Đây là những người chịu sự áp bức chính trị của những quý tộc ở vùng ven biển. Sau khi hoạt động hợp pháp thất bại, họ chuyển sang hành động bạo lực. Tất cả những hành động này nhằm đòi hỏi quyền đại diện của họ đồng thời đòi giảm thuế. \"Cuộc bạo động\" tập trung ở quận Orange, tấn công quan tòa và luật sư cho đến khi phong trào bị dập tắt bởi quân đội trong trận chiến Alamance dưới thời chính phủ Tryon. Sự đối lập giữa vùng biên giới và vùng ven biển thật bất thường. Nhiều cuộc nổi loạn như của Bacon, Culpeper và Shays đã diễn ra."
       }
     ],
     "k": "regulators (1764-1771)"
@@ -49281,7 +49281,7 @@
   {"h": "regulatory body", "segs": [{"k": "m", "t": "cơ quan điều tiết."}], "k": "regulatory body"},
   {
     "h": "Regulatory capture",
-    "segs": [{"k": "m", "t": "(kinh tế) Sự lạm quyền điều tiết; Ðiều tiết bị trói."}],
+    "segs": [{"k": "m", "t": "(kinh tế) Sự lạm quyền điều tiết; Điều tiết bị trói."}],
     "k": "regulatory capture"
   },
   {
@@ -50132,7 +50132,7 @@
     ],
     "k": "reiced"
   },
-  {"h": "Reich", "segs": [{"k": "m", "t": "Ðế chế La Mã thần thánh."}], "k": "reich"},
+  {"h": "Reich", "segs": [{"k": "m", "t": "Đế chế La Mã thần thánh."}], "k": "reich"},
   {
     "h": "Reich process",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương pháp Reich"}],
@@ -50152,7 +50152,7 @@
   },
   {
     "h": "reichstag",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "quốc hội Ðức (trước 1933)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "quốc hội Đức (trước 1933)."}],
     "ipa": "'raiksta:g",
     "k": "reichstag"
   },
@@ -50276,7 +50276,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tt) Ðang tồn tại, đương kim.-reigning tennis champion: Ðương kim vô địch quần vợt."
+        "t": "(tt) Đang tồn tại, đương kim.-reigning tennis champion: Đương kim vô địch quần vợt."
       }
     ],
     "k": "reigning"
@@ -53402,7 +53402,7 @@
   },
   {
     "h": "reissure",
-    "segs": [{"k": "m", "t": "(ngđ) Ðưa ra lại, phát hành lại."}],
+    "segs": [{"k": "m", "t": "(ngđ) Đưa ra lại, phát hành lại."}],
     "ipa": "ri:iɛʃu:",
     "k": "reissure"
   },
@@ -53428,7 +53428,7 @@
   },
   {
     "h": "reiter",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(sử) kỵ binh Ðức (vào thế kỷ 16)."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(sử) kỵ binh Đức (vào thế kỷ 16)."}],
     "ipa": "'raitə",
     "k": "reiter"
   },
@@ -54949,7 +54949,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quản lý cơ sở dữ liệu quan hệ. Một cách quản lý cơ sở dữ liệu, trong đó dữ liệu được lưu trữ trong các bảng dữ liệu hai chiều gồm các cột và các hàng, có thể quan hệ với nhau nếu các bảng đó có một cột hoặc một trường chung nhau. Thuật ngữ liên quan khi áp dụng vào quản lý cơ sở dữ liệu có nghĩa là lưu trữ và truy tìm dữ liệu trong các bảng. Ðược Edgar Codd giới thiệu năm 1970, thiết kế này đã được dựa trên một lý thuyết toán. Một cơ sở dữ liệu quan hệ thực phụ phù hợp với lý thuyết này, sẽ bố trí tất cả các dữ liệu dưới dạng các bảng, trong đó mỗi bảng đều xác định sự liên quan giữa các khoảng mục trong các hàng (các bản ghi dữ liệu) và các cột (các trường dữ liệu), và kết quả cuối cùng của bất kỳ một câu hỏi yêu cầu nào cũng là một bảng mới. Giả sử có một cơ sở dữ liệu của một cửa hàng video liệt kê số điện thoại và tên khách hàng trong bảng như sau: PHON NO NAME 555-4321 Smith, Ted 555-4411 Jones, Jane. Một bảng khác chứa tên của các cuộn băng đã cho thuê, số điện thoại của khách thuê băng, và ngày trả: TITLE PHONE NO DUE DATE Blues 555-432107 / 16 / 94 Danger 555-441107 / 19 / 94 Có thể đặt một câu hỏi yêu cầu \"Ðưa ra tên và số điện thoại của các khách hàng có hạn trả băng đúng hoặc trước ngày 19 tháng 7 / 1994, và in ra tên của các phím đó\". Một câu hỏi như vậy sẽ dẫn đến bảng kết quả sau: NAME PHONE NO TITLE Smith, Ted 555-4321 Blues Jones, Jane 555-4411 Danger Không phải tất cả các chương trình quản lý cơ sở dữ liệu được quảng cáo là \"quan hệ\" đều là các chương trình định hướng bảng thật sự. Hầu hết đều là loại chương trình định hướng bản ghi, chỉ \"quan hệ\" trong phạm vi mà chúng có thể liên kết các dữ liệu trong hai cơ sở dữ liệu thông qua một trường chung. Chương trình dBASE thuộc loại như vậy: dữ liệu được lưu trữ theo các bản ghi, không phải là các bảng. Tuy nhiên, bạn vẫn có thể dùng dBASE như là một chương trình quan hệ thực thụ."
+        "t": "quản lý cơ sở dữ liệu quan hệ. Một cách quản lý cơ sở dữ liệu, trong đó dữ liệu được lưu trữ trong các bảng dữ liệu hai chiều gồm các cột và các hàng, có thể quan hệ với nhau nếu các bảng đó có một cột hoặc một trường chung nhau. Thuật ngữ liên quan khi áp dụng vào quản lý cơ sở dữ liệu có nghĩa là lưu trữ và truy tìm dữ liệu trong các bảng. Được Edgar Codd giới thiệu năm 1970, thiết kế này đã được dựa trên một lý thuyết toán. Một cơ sở dữ liệu quan hệ thực phụ phù hợp với lý thuyết này, sẽ bố trí tất cả các dữ liệu dưới dạng các bảng, trong đó mỗi bảng đều xác định sự liên quan giữa các khoảng mục trong các hàng (các bản ghi dữ liệu) và các cột (các trường dữ liệu), và kết quả cuối cùng của bất kỳ một câu hỏi yêu cầu nào cũng là một bảng mới. Giả sử có một cơ sở dữ liệu của một cửa hàng video liệt kê số điện thoại và tên khách hàng trong bảng như sau: PHON NO NAME 555-4321 Smith, Ted 555-4411 Jones, Jane. Một bảng khác chứa tên của các cuộn băng đã cho thuê, số điện thoại của khách thuê băng, và ngày trả: TITLE PHONE NO DUE DATE Blues 555-432107 / 16 / 94 Danger 555-441107 / 19 / 94 Có thể đặt một câu hỏi yêu cầu \"Đưa ra tên và số điện thoại của các khách hàng có hạn trả băng đúng hoặc trước ngày 19 tháng 7 / 1994, và in ra tên của các phím đó\". Một câu hỏi như vậy sẽ dẫn đến bảng kết quả sau: NAME PHONE NO TITLE Smith, Ted 555-4321 Blues Jones, Jane 555-4411 Danger Không phải tất cả các chương trình quản lý cơ sở dữ liệu được quảng cáo là \"quan hệ\" đều là các chương trình định hướng bảng thật sự. Hầu hết đều là loại chương trình định hướng bản ghi, chỉ \"quan hệ\" trong phạm vi mà chúng có thể liên kết các dữ liệu trong hai cơ sở dữ liệu thông qua một trường chung. Chương trình dBASE thuộc loại như vậy: dữ liệu được lưu trữ theo các bản ghi, không phải là các bảng. Tuy nhiên, bạn vẫn có thể dùng dBASE như là một chương trình quan hệ thực thụ."
       }
     ],
     "k": "relational database management"
@@ -55309,7 +55309,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tham chiếu ô tương đối Trong một công thức của chương trình bảng tính, đây là sự tham chiếu vào nội dung của một ô, được điều tiết bởi chương trình đó khi bạn chép nguyên công thức vào ô khác hoặc dải ô khác. Ðể hiểu được điều gì sẽ xảy ra khi bạn sao chép một tham chiếu ô quan hệ, bạn cần phải biết chương trình bảng tính tiến hành ghi một tham chiếu ô như thế nào. Giả sử bạn đánh công thức SUM (C 6. C 8) vào ô C 10 chương trình sẽ ghi một mã có nghĩa \"Cộng tất cả các giá trị trong các ô nằm trong các hàng thứ hai, thứ ba, và thứ tư phía trên ô hiện hành\". Khi chép nguyên công thức này vào bốn ô kế tiếp về bên phải (D 10. G 10), nó vẫn được đọc là \"Cộng tất cả các giá trị trong các ô nằm trong các hàng thứ hai, thứ ba, và thứ tư phía trên ô hiện hành\", và tiến hành cộng từng cột một cách chính xác."
+        "t": "tham chiếu ô tương đối Trong một công thức của chương trình bảng tính, đây là sự tham chiếu vào nội dung của một ô, được điều tiết bởi chương trình đó khi bạn chép nguyên công thức vào ô khác hoặc dải ô khác. Để hiểu được điều gì sẽ xảy ra khi bạn sao chép một tham chiếu ô quan hệ, bạn cần phải biết chương trình bảng tính tiến hành ghi một tham chiếu ô như thế nào. Giả sử bạn đánh công thức SUM (C 6. C 8) vào ô C 10 chương trình sẽ ghi một mã có nghĩa \"Cộng tất cả các giá trị trong các ô nằm trong các hàng thứ hai, thứ ba, và thứ tư phía trên ô hiện hành\". Khi chép nguyên công thức này vào bốn ô kế tiếp về bên phải (D 10. G 10), nó vẫn được đọc là \"Cộng tất cả các giá trị trong các ô nằm trong các hàng thứ hai, thứ ba, và thứ tư phía trên ô hiện hành\", và tiến hành cộng từng cột một cách chính xác."
       }
     ],
     "k": "relative cell reference"
@@ -56077,7 +56077,7 @@
   },
   {
     "h": "relative scotoma",
-    "segs": [{"k": "m", "t": "Ðiểm tối tương đối, ám điểm tương đối."}],
+    "segs": [{"k": "m", "t": "Điểm tối tương đối, ám điểm tương đối."}],
     "k": "relative scotoma"
   },
   {
@@ -59128,7 +59128,7 @@
       {"k": "m", "t": "tôn giáo, đạo"},
       {"k": "m", "t": "sự tín ngưỡng, sự tu hành"},
       {"k": "m", "t": "niềm tin tôn giáo"},
-      {"k": "ex", "t": "the Christian religion", "vi": "đạo Cơ Ðốc"},
+      {"k": "ex", "t": "the Christian religion", "vi": "đạo Cơ Đốc"},
       {"k": "ex", "t": "freedom of religion", "vi": "tự do tín ngưỡng"},
       {"k": "ex", "t": "to enter into religion", "vi": "đi tu"},
       {"k": "m", "t": "sự sùng bái"},
@@ -59149,11 +59149,11 @@
     "segs": [
       {
         "k": "m",
-        "t": "Mối liên hệ tồn tại hàng trăm năm giữa tôn giáo và chính quyền. Những ảnh hưởng của tôn giáo và niềm tin vào chính trị luôn có khả năng gây ra các cuộc xung đột. Tôn giáo được thừa nhận như nguồn gốc của luật pháp và nguồn động viên chính trị trong tất cả các loại hình xã hội. Nó được xếp theo thứ hạng của những người đấu tranh cho chủ nghĩa thế tục. Ví dụ như chế độ cộng sản, chính trị thần quyền như Iran, hay Tây Tạng trước khi bị Trung Quốc chiếm đóng năm 1951, hoặc Saudi Arabia-những người theo tôn giáo đóng một phần quan trọng trong đời sống quốc gia. Một ví dụ phức tạp hơn là Israel, đất nước được sáng lập dựa trên chủ nghĩa phục quốc Do Thái (chủ nghĩa Zion); một phong trào thế tục đòi lại lãnh thổ Israel dựa trên nền tôn giáo và lịch sử. Nhiều nước đã cố làm yếu đi quyền lực của các nhóm tôn giáo bằng cách tạo ra một hội đồng tôn giáo của bang. Ví dụ như ở Anh, Scotland, và đa số những nước bắc Âu sau Phong trào cải cách thế kỷ 16. Tại các nơi này, nhà thờ quốc gia được thiết lập hợp pháp hóa để cố gắng kiểm soát tình hình. Tương tự, nhiều vương triều Hồi giáo vĩ đại cố gắng đồng hóa những ulama (giáo viên dạy luật Hồi giáo). Gần đây, chính phủ Thổ Nhĩ Kỳ cố gắng giảm bớt quyền lực của đạo Hồi bằng cách tạo ra một Ban kiểm soát vấn đề tôn giáo. Ở Liên bang Xô Viết cũ, các hoạt động tín ngưỡng đều bị giới hạn hoặc thậm chí bị cấm đoán cho đến năm 1991, khi quyền tự do tín ngưỡng được tái thiết. Giới cầm quyền đã cố gắng kiểm soát những tổ chức tôn giáo còn tồn tại bằng cách đặt tôn giáo dưới quyền giám sát của nhà nước. Ở Mỹ, trái lại, tình trạng chia cắt giữa nhà thờ và chính quyền được thể hiện chính thức trong luật sửa đổi lần đầu của hiến pháp (1791). Ðiều này đã minh họa cho các nguyên tắc của chủ nghĩa thế tục, quan niệm rằng tôn giáo có thể bị tách khỏi đời sống cộng đồng. Lần đầu tiên quan niệm này nổi lên rõ rệt giữa những nhà triết học của Thời đại khai sáng thế kỷ 18. Ấn Ðộ vẫn duy trì một quốc gia của nền dân chủ thế tục, bất chấp tình trạng công khai chống đối của những người theo chủ nghĩa dân tộc Ðảng cánh hữu đối với đất nước theo đạo Hindu."
+        "t": "Mối liên hệ tồn tại hàng trăm năm giữa tôn giáo và chính quyền. Những ảnh hưởng của tôn giáo và niềm tin vào chính trị luôn có khả năng gây ra các cuộc xung đột. Tôn giáo được thừa nhận như nguồn gốc của luật pháp và nguồn động viên chính trị trong tất cả các loại hình xã hội. Nó được xếp theo thứ hạng của những người đấu tranh cho chủ nghĩa thế tục. Ví dụ như chế độ cộng sản, chính trị thần quyền như Iran, hay Tây Tạng trước khi bị Trung Quốc chiếm đóng năm 1951, hoặc Saudi Arabia-những người theo tôn giáo đóng một phần quan trọng trong đời sống quốc gia. Một ví dụ phức tạp hơn là Israel, đất nước được sáng lập dựa trên chủ nghĩa phục quốc Do Thái (chủ nghĩa Zion); một phong trào thế tục đòi lại lãnh thổ Israel dựa trên nền tôn giáo và lịch sử. Nhiều nước đã cố làm yếu đi quyền lực của các nhóm tôn giáo bằng cách tạo ra một hội đồng tôn giáo của bang. Ví dụ như ở Anh, Scotland, và đa số những nước bắc Âu sau Phong trào cải cách thế kỷ 16. Tại các nơi này, nhà thờ quốc gia được thiết lập hợp pháp hóa để cố gắng kiểm soát tình hình. Tương tự, nhiều vương triều Hồi giáo vĩ đại cố gắng đồng hóa những ulama (giáo viên dạy luật Hồi giáo). Gần đây, chính phủ Thổ Nhĩ Kỳ cố gắng giảm bớt quyền lực của đạo Hồi bằng cách tạo ra một Ban kiểm soát vấn đề tôn giáo. Ở Liên bang Xô Viết cũ, các hoạt động tín ngưỡng đều bị giới hạn hoặc thậm chí bị cấm đoán cho đến năm 1991, khi quyền tự do tín ngưỡng được tái thiết. Giới cầm quyền đã cố gắng kiểm soát những tổ chức tôn giáo còn tồn tại bằng cách đặt tôn giáo dưới quyền giám sát của nhà nước. Ở Mỹ, trái lại, tình trạng chia cắt giữa nhà thờ và chính quyền được thể hiện chính thức trong luật sửa đổi lần đầu của hiến pháp (1791). Điều này đã minh họa cho các nguyên tắc của chủ nghĩa thế tục, quan niệm rằng tôn giáo có thể bị tách khỏi đời sống cộng đồng. Lần đầu tiên quan niệm này nổi lên rõ rệt giữa những nhà triết học của Thời đại khai sáng thế kỷ 18. Ấn Độ vẫn duy trì một quốc gia của nền dân chủ thế tục, bất chấp tình trạng công khai chống đối của những người theo chủ nghĩa dân tộc Đảng cánh hữu đối với đất nước theo đạo Hindu."
       },
       {
         "k": "m",
-        "t": "Sự hoàn tục và suy sụp của đức tin tôn giáo và sự kính trọng được đánh giá qua nhiều dấu hiệu phân biệt của quá trình hiện đại hóa và nền độc lập dân chủ phương Tây cho đến những năm gần đây. Nhưng kể từ Cách mạng Hồi giáo Iran (1979) và việc trải rộng của Trào lưu chính thống đạo Hồi, sự hồi sinh của Trào lưu chính thống Ðạo cơ đốc cánh hữu mới có giá trị trong đời sống chính trị của Mỹ những năm 1980."
+        "t": "Sự hoàn tục và suy sụp của đức tin tôn giáo và sự kính trọng được đánh giá qua nhiều dấu hiệu phân biệt của quá trình hiện đại hóa và nền độc lập dân chủ phương Tây cho đến những năm gần đây. Nhưng kể từ Cách mạng Hồi giáo Iran (1979) và việc trải rộng của Trào lưu chính thống đạo Hồi, sự hồi sinh của Trào lưu chính thống Đạo cơ đốc cánh hữu mới có giá trị trong đời sống chính trị của Mỹ những năm 1980."
       }
     ],
     "k": "religion and politics"
@@ -60391,7 +60391,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phần dư khi xây gạch"}],
     "k": "remains of brickwork"
   },
-  {"h": "Remak plexus", "segs": [{"k": "m", "t": "Ðám rối Remak."}], "k": "remak plexus"},
+  {"h": "Remak plexus", "segs": [{"k": "m", "t": "Đám rối Remak."}], "k": "remak plexus"},
   {
     "h": "remake",
     "segs": [
@@ -61433,7 +61433,7 @@
       {
         "k": "ex",
         "t": "Bill, remember yourself! Don't swear in front of the children!",
-        "vi": "Bill, hãy thôi đi! Ðừng chửi thề trước mặt con cái!"
+        "vi": "Bill, hãy thôi đi! Đừng chửi thề trước mặt con cái!"
       },
       {"k": "m", "t": "đề cập đến ai, tưởng nhớ đến ai (nhất là trong lời cầu nguyện của mình)"},
       {
@@ -61542,7 +61542,7 @@
       {
         "k": "ex",
         "t": "City Remembrancer",
-        "vi": "đại biểu của khu trung tâm thành phố Luân Ðôn (ở nghị viện...)"
+        "vi": "đại biểu của khu trung tâm thành phố Luân Đôn (ở nghị viện...)"
       },
       {"k": "ex", "t": "King's Remembrancer", "vi": "nhân viên thu nợ cho nhà vua."}
     ],
@@ -64863,7 +64863,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Thời kỳ phục hưng. Sự nở hoa trí tuệ và mỹ thuật bắt đầu ở Ý thế kỷ 14, lên đến cực điểm tại đây vào thế kỷ 16, và có ảnh hướng lớn đối với nhiều phần khác của Châu Âu. Phục hưng theo tiếng Pháp có nghĩa là hồi sinh và chuyển sang phục hồi lại những giá trị của thế giới kinh điển. Một sự quan tâm thích thú đối với các tác phẩm kinh điển Latin bắt đầu từ những năm đầu thế kỷ 12. Khái niệm này được sử dụng vào đầu thế kỷ 15 và được phát triển trong thế kỷ 16 bởi họa sĩ-nhà văn Giorgio Vasari. Ông hiểu rằng nghệ thuật bị suy tàn từ Thời trung cổ, đã được thiết lập trên con đường chính của nó bởi Giotto, người họa sĩ phá vỡ truyền thống mô tả tranh bằng hình tượng và sử dụng nghệ thuật tô bóng để tạo chiều sâu. Nó đã đạt đến đỉnh cao bởi họa sĩ Michelangelo. Ý tưởng về \"Con người phục hưng\" phát xuất từ khái niệm con người có khả năng vô hạn trong việc phát triển vật chất, xã hội hay nghệ thuật. Ý tưởng này được khắc họa đậm nét bởi Leon Battista Alberti. Bản thân ông là một kiến trúc sư, họa sĩ, nhà thơ, nhà khoa học và là một nhà toán học. Leonardo da Vinci, Brunelleschi được đánh giá là nhà kiến trúc sư phục hưng đầu tiên. Vượt ra khỏi niềm yêu thích của ông đối với tàn tích của chế độ La Mã cổ đại, ông sáng tạo nên những công trình xây dựng có thể so sánh với những hình mẫu cổ đại đặc sắc nhất. Trong lĩnh vực điêu khắc, khởi đầu của Thời kỳ phục hưng được đánh dấu xa hơn như Nicola Pisano cuối thế kỷ 14, người ta cho rằng ông chịu ảnh hưởng của các quan tài bằng đá thời La Mã cổ đại. Tuy nhiên chính Donatello thế kỷ thứ 15 là người hiểu thấu một cách triệt để nhất tinh thần của các tác phẩm điều khắc cổ đại hơn là chỉ đơn giản vay mượn lại chủ đề của nó. Trong lĩnh vực hội họa, khó có thể định nghĩa được Thời kỳ phục hưng dưới ảnh hưởng của tác phẩm mĩ thuật cổ bởi vì có rất ít bức họa cổ điển còn tồn tại. Trong các tác phẩm kinh điển, người ta cho rằng các họa sĩ rất xuất sắc về sự chính xác. Ðiều này trở thành mối quan tâm chủ yếu của những họa sĩ thời kỳ đầu phục hưng như Giotto và Masaccio. Trong khi nghệ thuật phối cảnh đã giúp tạo ra những bức chân dung miêu tả cảnh thiên nhiên một cách sống động. Michelangelo, Raphael, Titian và những người khác đã khai phá vùng đất mới bằng cách giới thiệu hình dáng con người, mô tả theo chủ nghĩa tự nhiên, trong những bức tranh của họ. Trong thế kỷ 15 và 16, trung tâm của thời kỳ Phục hưng là các thành phố Florence, Venice, Rome, và các công tước Mantua, Urbino, và Ferrara. Florence giai đoạn năm 1425 chính là cái nôi của Thời kỳ phục hưng. Nhưng đầu thế kỷ 16, thành Venice \"Phục hưng cao độ\" và Rome đều quan trọng như nhau. Medici ở Florence và các giáo hoàng ở Rome, đặc biệt là Julius II và Leo X, là những người bảo trợ quan trọng. Những ý tưởng và hình tượng thời Phục hưng ở Ý thường không được mở rộng khắp các vùng còn lại của Châu Âu mãi cho đến năm 1500. Albrecht Durer, người Ðức là một họa sĩ nổi bật của Phong trào phục hưng phía Bắc. Nó trở thành sứ mệnh để ông mang những ý tưởng mới của Ý đến các vùng đất của Ðức. Trong văn học, Thời kỳ phục hưng được dẫn đầu bởi các nhà thơ và nhà nghiên cứu khoa học nhân văn, đáng chú ý nhất là Petrarch, Dante, và Boccacio ở Ý. Thi ca và văn xuôi bắt đầu được sáng tác bằng tiếng địa phương thay vì tiếng Latin và việc phát minh ra nghề in ấn đã góp phần mở rộng các ý tưởng. Trong số những tác gia đáng chú ý của Thời phục hưng bên ngoài Ý có Erasmus ở Hà Lan, Montaigne và Rabelais, và những nhà thơ của Nhóm thơ ở Pháp, Lope de Vega và Cervantes ở Tây Ban Nha, và Edmund Spenser, Ngài Philip Sidney, Shakespeare, và Ngài Francis Bacon ở Anh. Các nhà soạn kịch giới thiệu hình thức cổ điển và nét tế nhị trong các tác phẩm của họ. Dựa trên những tác phẩm kiến trúc của Vitruvius (năm 15 trước công nguyên), các công trình nhà hát và công trình thiết kế được xây dựng dựa vào những nguyên tắc của nhà hát La Mã. Một sự phục hưng các vở kịch của nhà thơ La Mã Terence vào thế kỷ 15 ở Venice được dàn dựng trước khán giả trong một khán phòng hình móng ngựa đối diện với một thềm sân khấu hình cung và đó trở thành kiểu mẫu của các tòa nhà hát trên toàn thế giới phương Tây trong 500 năm tiếp sau đó."
+        "t": "Thời kỳ phục hưng. Sự nở hoa trí tuệ và mỹ thuật bắt đầu ở Ý thế kỷ 14, lên đến cực điểm tại đây vào thế kỷ 16, và có ảnh hướng lớn đối với nhiều phần khác của Châu Âu. Phục hưng theo tiếng Pháp có nghĩa là hồi sinh và chuyển sang phục hồi lại những giá trị của thế giới kinh điển. Một sự quan tâm thích thú đối với các tác phẩm kinh điển Latin bắt đầu từ những năm đầu thế kỷ 12. Khái niệm này được sử dụng vào đầu thế kỷ 15 và được phát triển trong thế kỷ 16 bởi họa sĩ-nhà văn Giorgio Vasari. Ông hiểu rằng nghệ thuật bị suy tàn từ Thời trung cổ, đã được thiết lập trên con đường chính của nó bởi Giotto, người họa sĩ phá vỡ truyền thống mô tả tranh bằng hình tượng và sử dụng nghệ thuật tô bóng để tạo chiều sâu. Nó đã đạt đến đỉnh cao bởi họa sĩ Michelangelo. Ý tưởng về \"Con người phục hưng\" phát xuất từ khái niệm con người có khả năng vô hạn trong việc phát triển vật chất, xã hội hay nghệ thuật. Ý tưởng này được khắc họa đậm nét bởi Leon Battista Alberti. Bản thân ông là một kiến trúc sư, họa sĩ, nhà thơ, nhà khoa học và là một nhà toán học. Leonardo da Vinci, Brunelleschi được đánh giá là nhà kiến trúc sư phục hưng đầu tiên. Vượt ra khỏi niềm yêu thích của ông đối với tàn tích của chế độ La Mã cổ đại, ông sáng tạo nên những công trình xây dựng có thể so sánh với những hình mẫu cổ đại đặc sắc nhất. Trong lĩnh vực điêu khắc, khởi đầu của Thời kỳ phục hưng được đánh dấu xa hơn như Nicola Pisano cuối thế kỷ 14, người ta cho rằng ông chịu ảnh hưởng của các quan tài bằng đá thời La Mã cổ đại. Tuy nhiên chính Donatello thế kỷ thứ 15 là người hiểu thấu một cách triệt để nhất tinh thần của các tác phẩm điều khắc cổ đại hơn là chỉ đơn giản vay mượn lại chủ đề của nó. Trong lĩnh vực hội họa, khó có thể định nghĩa được Thời kỳ phục hưng dưới ảnh hưởng của tác phẩm mĩ thuật cổ bởi vì có rất ít bức họa cổ điển còn tồn tại. Trong các tác phẩm kinh điển, người ta cho rằng các họa sĩ rất xuất sắc về sự chính xác. Điều này trở thành mối quan tâm chủ yếu của những họa sĩ thời kỳ đầu phục hưng như Giotto và Masaccio. Trong khi nghệ thuật phối cảnh đã giúp tạo ra những bức chân dung miêu tả cảnh thiên nhiên một cách sống động. Michelangelo, Raphael, Titian và những người khác đã khai phá vùng đất mới bằng cách giới thiệu hình dáng con người, mô tả theo chủ nghĩa tự nhiên, trong những bức tranh của họ. Trong thế kỷ 15 và 16, trung tâm của thời kỳ Phục hưng là các thành phố Florence, Venice, Rome, và các công tước Mantua, Urbino, và Ferrara. Florence giai đoạn năm 1425 chính là cái nôi của Thời kỳ phục hưng. Nhưng đầu thế kỷ 16, thành Venice \"Phục hưng cao độ\" và Rome đều quan trọng như nhau. Medici ở Florence và các giáo hoàng ở Rome, đặc biệt là Julius II và Leo X, là những người bảo trợ quan trọng. Những ý tưởng và hình tượng thời Phục hưng ở Ý thường không được mở rộng khắp các vùng còn lại của Châu Âu mãi cho đến năm 1500. Albrecht Durer, người Đức là một họa sĩ nổi bật của Phong trào phục hưng phía Bắc. Nó trở thành sứ mệnh để ông mang những ý tưởng mới của Ý đến các vùng đất của Đức. Trong văn học, Thời kỳ phục hưng được dẫn đầu bởi các nhà thơ và nhà nghiên cứu khoa học nhân văn, đáng chú ý nhất là Petrarch, Dante, và Boccacio ở Ý. Thi ca và văn xuôi bắt đầu được sáng tác bằng tiếng địa phương thay vì tiếng Latin và việc phát minh ra nghề in ấn đã góp phần mở rộng các ý tưởng. Trong số những tác gia đáng chú ý của Thời phục hưng bên ngoài Ý có Erasmus ở Hà Lan, Montaigne và Rabelais, và những nhà thơ của Nhóm thơ ở Pháp, Lope de Vega và Cervantes ở Tây Ban Nha, và Edmund Spenser, Ngài Philip Sidney, Shakespeare, và Ngài Francis Bacon ở Anh. Các nhà soạn kịch giới thiệu hình thức cổ điển và nét tế nhị trong các tác phẩm của họ. Dựa trên những tác phẩm kiến trúc của Vitruvius (năm 15 trước công nguyên), các công trình nhà hát và công trình thiết kế được xây dựng dựa vào những nguyên tắc của nhà hát La Mã. Một sự phục hưng các vở kịch của nhà thơ La Mã Terence vào thế kỷ 15 ở Venice được dàn dựng trước khán giả trong một khán phòng hình móng ngựa đối diện với một thềm sân khấu hình cung và đó trở thành kiểu mẫu của các tòa nhà hát trên toàn thế giới phương Tây trong 500 năm tiếp sau đó."
       },
       {
         "k": "m",
@@ -64922,7 +64922,7 @@
     "segs": [{"k": "m", "t": "Xơ cứng tiểu động mạch thận."}],
     "k": "renal arteriolar sclerosis"
   },
-  {"h": "renal artery", "segs": [{"k": "m", "t": "Ðộng mạch thận."}], "k": "renal artery"},
+  {"h": "renal artery", "segs": [{"k": "m", "t": "Động mạch thận."}], "k": "renal artery"},
   {"h": "renal asthma", "segs": [{"k": "m", "t": "Hen thận."}], "k": "renal asthma"},
   {
     "h": "renal ballottement",
@@ -64930,7 +64930,7 @@
     "k": "renal ballottement"
   },
   {"h": "renal caculus", "segs": [{"k": "m", "t": "Sỏi thận."}], "k": "renal caculus"},
-  {"h": "renal calices", "segs": [{"k": "m", "t": "Ðài thận."}], "k": "renal calices"},
+  {"h": "renal calices", "segs": [{"k": "m", "t": "Đài thận."}], "k": "renal calices"},
   {
     "h": "renal capsulectomy",
     "segs": [{"k": "m", "t": "Thủ thuật cắt bỏ bao thận."}],
@@ -64967,7 +64967,7 @@
     "segs": [{"k": "m", "t": "(thủ thuật) bóc vỏ thận."}],
     "k": "renal decortication"
   },
-  {"h": "renal diabetes", "segs": [{"k": "m", "t": "Ðái tháo thận."}], "k": "renal diabetes"},
+  {"h": "renal diabetes", "segs": [{"k": "m", "t": "Đái tháo thận."}], "k": "renal diabetes"},
   {
     "h": "renal dropsy",
     "segs": [{"k": "m", "t": "Phù thận"}, {"k": "m", "t": "ứ nước thận."}],
@@ -64976,7 +64976,7 @@
   {"h": "renal dwarf", "segs": [{"k": "m", "t": "Người lùn thận."}], "k": "renal dwarf"},
   {"h": "renal dyspnea", "segs": [{"k": "m", "t": "Khó thở thận."}], "k": "renal dyspnea"},
   {"h": "renal edema", "segs": [{"k": "m", "t": "Phù thận."}], "k": "renal edema"},
-  {"h": "renal epilepsy", "segs": [{"k": "m", "t": "Ðộng kinh thận."}], "k": "renal epilepsy"},
+  {"h": "renal epilepsy", "segs": [{"k": "m", "t": "Động kinh thận."}], "k": "renal epilepsy"},
   {"h": "renal failure", "segs": [{"k": "m", "t": "thận suy."}], "k": "renal failure"},
   {"h": "renal ganglia", "segs": [{"k": "m", "t": "Hạch (giao cảm) thận."}], "k": "renal ganglia"},
   {
@@ -65009,7 +65009,7 @@
   {"h": "renal papillae", "segs": [{"k": "m", "t": "Nhú thận."}], "k": "renal papillae"},
   {"h": "renal papillitis", "segs": [{"k": "m", "t": "Viêm nhú thận."}], "k": "renal papillitis"},
   {"h": "renal pelvis", "segs": [{"k": "m", "t": "Bể thận."}], "k": "renal pelvis"},
-  {"h": "renal plexus", "segs": [{"k": "m", "t": "Ðám rối thần kinh thận."}], "k": "renal plexus"},
+  {"h": "renal plexus", "segs": [{"k": "m", "t": "Đám rối thần kinh thận."}], "k": "renal plexus"},
   {"h": "renal pyramid", "segs": [{"k": "m", "t": "Tháp thận."}], "k": "renal pyramid"},
   {
     "h": "renal retinitis",
@@ -65740,7 +65740,7 @@
   },
   {
     "h": "Renew(-al)",
-    "segs": [{"k": "m", "t": "Ðổi mới, canh tân; tái tạo, làm lại; tái tục."}],
+    "segs": [{"k": "m", "t": "Đổi mới, canh tân; tái tạo, làm lại; tái tục."}],
     "k": "renew(-al)"
   },
   {
@@ -67814,7 +67814,7 @@
       {"k": "m", "t": "(Mỹ) (tắt) của"},
       {"k": "ex", "t": "representative", "vi": "nghị sĩ (trong Hạ nghị viện)"},
       {"k": "m", "t": "(tắt) của"},
-      {"k": "ex", "t": "Republican (party", "vi": ") (Ðảng) cộng hòa"},
+      {"k": "ex", "t": "Republican (party", "vi": ") (Đảng) cộng hòa"},
       {"k": "pos", "t": "thành ngữ"},
       {"k": "m", "t": "như"},
       {"k": "m", "t": "repertory"},
@@ -68436,7 +68436,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Bồi thường thiệt hại chiến tranh. Khoản tiền đền bù cho những tổn thất nguy hiểm đã gây ra trong chiến tranh của những kẻ thất bại. Ðó là điều kiện cho các cuộc đình chiến trong Chiến tranh thế giới I và là một phần của Thỏa ước Hòa bình Versailles. Nước Pháp, đã phải trả khoản bồi thường thiệt hại chiến tranh cho Ðức năm 1871, hy vọng có thể làm phá sản nước Ðức. Dân chúng Anh đã chống đỡ được những thiệt hại nhỏ và vì thế LLOYD George chỉ đòi bồi thường khoản chi phí chiến tranh. Thượng nghị viện Mỹ không thông qua Hiệp ước Versailles và khước từ mọi yêu cầu bồi thường thiệt hại. Một khoản tiền ỹ6.500.000.000 mà nước Ðức phải trả. Ðây là con số mà nhà kinh tế học người Anh, Keynes lý luận rằng đã vượt quá khả năng chi trả của nước Ðức nếu phá hủy sự liên minh kinh tế Châu Âu. Hungary, Áo, và Bulgaria cũng phải trả những khoản khổng lồ. Thổ Nhĩ Kỳ, gần như vỡ nợ, chấp nhận Hội đồng Tài chính Ðồng minh. Ðể ép buộc yêu cầu của mình, Pháp xâm chiếm Ruhr (1923), đẩy nước Ðức vào một cuộc khủng hoảng lạm phát. Sau đó, nhiều kế hoạch đã được thiết lập để nới lỏng tình hình. Kế hoạch Dawes (1924) cho phép chi trả nhiều lần khi có khả năng và kế hoạch Young (1929) giảm bớt khoản tiền đã yêu cầu. Năm 1932, Hiệp ước Lausanne phát hành trái phiếu thay thế cho khoản nợ đền bù và khoản đền bù của Ðức không bao giờ thu hồi được. Sau Chiến tranh thế giới II, nhiều khoản bồi thường thiệt hại chiến tranh lấy mẫu từ sự chiếm đóng của Ðồng minh đối với Ðức và Nhật Bản. Anh, Pháp và Mỹ kết thúc đền bù vào năm 1952. Stalin cưỡng đoạt một cách có hệ thống khu vực Ðông Ðức bằng việc di dời tài sản và thiết bị công nghiệp. Ở Nhật Bản, người Mỹ quản lý di dời tư bản phẩm (của cải dùng để tạo ra những của cải khác) và Liên bang Xô Viết chiếm đoạt tài sản của Nhật Bản ở Manchuria. Từ năm 1953 Liên bang Cộng hòa Ðức đã phải trả $37 tỷ (ỹ20.7 tỷ) là khoản đền bù chiến tranh cho Israel vì những thiệt hại gây ra cho người Do Thái dưới chế độ Hitler. Những năm cuối thập niên 1990, chính phủ Thụy Sĩ cuối cùng đã chấp nhận vàng và tiền đặt cọc cho những nạn nhân trong cuộc tàn sát người Do Thái dưới thời Hitler với một khoản tiền bí mật ở đất nước này trong suốt chiến tranh thế giới II và bắt đầu trả bồi thường cho những gia đình có người bị sát hại. Hậu quả của Chiến tranh vùng vịnh (1991), Uỷ ban bồi thường Liên hiệp quốc đã buộc Iraq, những kẻ đã xâm lược Kuwait đẩy tới tình trạng xung đột, phải trả bồi thường chiến tranh cho các nạn nhân của cuộc chiến."
+        "t": "Bồi thường thiệt hại chiến tranh. Khoản tiền đền bù cho những tổn thất nguy hiểm đã gây ra trong chiến tranh của những kẻ thất bại. Đó là điều kiện cho các cuộc đình chiến trong Chiến tranh thế giới I và là một phần của Thỏa ước Hòa bình Versailles. Nước Pháp, đã phải trả khoản bồi thường thiệt hại chiến tranh cho Đức năm 1871, hy vọng có thể làm phá sản nước Đức. Dân chúng Anh đã chống đỡ được những thiệt hại nhỏ và vì thế LLOYD George chỉ đòi bồi thường khoản chi phí chiến tranh. Thượng nghị viện Mỹ không thông qua Hiệp ước Versailles và khước từ mọi yêu cầu bồi thường thiệt hại. Một khoản tiền ỹ6.500.000.000 mà nước Đức phải trả. Đây là con số mà nhà kinh tế học người Anh, Keynes lý luận rằng đã vượt quá khả năng chi trả của nước Đức nếu phá hủy sự liên minh kinh tế Châu Âu. Hungary, Áo, và Bulgaria cũng phải trả những khoản khổng lồ. Thổ Nhĩ Kỳ, gần như vỡ nợ, chấp nhận Hội đồng Tài chính Đồng minh. Để ép buộc yêu cầu của mình, Pháp xâm chiếm Ruhr (1923), đẩy nước Đức vào một cuộc khủng hoảng lạm phát. Sau đó, nhiều kế hoạch đã được thiết lập để nới lỏng tình hình. Kế hoạch Dawes (1924) cho phép chi trả nhiều lần khi có khả năng và kế hoạch Young (1929) giảm bớt khoản tiền đã yêu cầu. Năm 1932, Hiệp ước Lausanne phát hành trái phiếu thay thế cho khoản nợ đền bù và khoản đền bù của Đức không bao giờ thu hồi được. Sau Chiến tranh thế giới II, nhiều khoản bồi thường thiệt hại chiến tranh lấy mẫu từ sự chiếm đóng của Đồng minh đối với Đức và Nhật Bản. Anh, Pháp và Mỹ kết thúc đền bù vào năm 1952. Stalin cưỡng đoạt một cách có hệ thống khu vực Đông Đức bằng việc di dời tài sản và thiết bị công nghiệp. Ở Nhật Bản, người Mỹ quản lý di dời tư bản phẩm (của cải dùng để tạo ra những của cải khác) và Liên bang Xô Viết chiếm đoạt tài sản của Nhật Bản ở Manchuria. Từ năm 1953 Liên bang Cộng hòa Đức đã phải trả $37 tỷ (ỹ20.7 tỷ) là khoản đền bù chiến tranh cho Israel vì những thiệt hại gây ra cho người Do Thái dưới chế độ Hitler. Những năm cuối thập niên 1990, chính phủ Thụy Sĩ cuối cùng đã chấp nhận vàng và tiền đặt cọc cho những nạn nhân trong cuộc tàn sát người Do Thái dưới thời Hitler với một khoản tiền bí mật ở đất nước này trong suốt chiến tranh thế giới II và bắt đầu trả bồi thường cho những gia đình có người bị sát hại. Hậu quả của Chiến tranh vùng vịnh (1991), Uỷ ban bồi thường Liên hiệp quốc đã buộc Iraq, những kẻ đã xâm lược Kuwait đẩy tới tình trạng xung đột, phải trả bồi thường chiến tranh cho các nạn nhân của cuộc chiến."
       }
     ],
     "k": "reparations"
@@ -72438,7 +72438,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðại diện, thay mặt; tượng trưng, tiêu biểu; miêu tả, trình tả; hiện tại hóa."
+        "t": "Đại diện, thay mặt; tượng trưng, tiêu biểu; miêu tả, trình tả; hiện tại hóa."
       }
     ],
     "k": "represent(-ation)"
@@ -72489,7 +72489,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "văn phòng đại diện. Ðơn vị phụ thuộc của doanh nghiệp không thực hiện chức năng của doanh nghiệp mà chỉ làm nhiệm vụ theo sự ủy quyền của doanh nghiệp trong giao dịch và bảo vệ lợi ích của doanh nghiệp. Văn phòng đại diện không có tư cách pháp nhân."
+        "t": "văn phòng đại diện. Đơn vị phụ thuộc của doanh nghiệp không thực hiện chức năng của doanh nghiệp mà chỉ làm nhiệm vụ theo sự ủy quyền của doanh nghiệp trong giao dịch và bảo vệ lợi ích của doanh nghiệp. Văn phòng đại diện không có tư cách pháp nhân."
       }
     ],
     "k": "representartive office"
@@ -74390,7 +74390,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðảng cộng hòa. Một đảng chính trị chính của Mỹ. Thuật ngữ \"cộng hòa\" lần đầu tiền được sử dụng ở Mỹ là từ Ðảng Dân chủ-Cộng hòa Jefferson, được sáng lập năm 1796 và là tiền thân của Ðảng Cộng hòa. Ðảng Cộng hòa hiện tại được thành lập năm 1854. Nó được hỗ trợ bởi Ðạo luật Kansas-Nebraska và do sự công khai của Ðảng độc lập. Nó cũng mang lại những nhóm phản đối chế độ nô lệ nhưng hỗ trợ cho hệ thống thuế quan bảo hộ. Ðảng này giành thắng lợi đầu tiên trong cuộc bầu cử tổng thống với Abraham Lincoln năm 1860 và từ đó cho đến năm 1932 chỉ thất bại trong số 4 cuộc bầu cử như thế, hai người trong số đó là Grover Cleveland và Woodrow Wilson. Những thành công ban đầu của đảng này dựa trên sự hỗ trợ của những người lao động trong lĩnh vực công nghiệp và nông nghiệp. Những chính sách tài chính bảo thủ của nó, hạn chế hệ thống thuế quan và thúc đẩy tăng trưởng kinh tế, vẫn giữ nguyên tính ưu việt. Sự sang trọng trong \"thời kỳ giàu có\" tương phản với tình trạng đói nghèo tăng lên trong số những dân nhập cư và tầng lớp công nhân cấp thấp của đô thị. Ðiều này dẫn đến Phong trào tiến bộ và sự chia rẽ trong đảng khi Theodore Roosevelt lập ra Ðảng cấp tiến. Sau Chiến tranh thế giới I chính sách chủ nghĩa biệt lập đã khiến đảng này nắm lại quyền lực. Nhưng từ năm 1932 trở đi các đảng viên đảng Cộng hòa mất 5 người kế vị trong cuộc bầu cử chức Tổng thống, chỉ có lại quyền lực thông qua tầm ảnh hưởng quy mô lớn của Tổng thống Eisenhower năm 1952. Dưới nhiều đời Tổng thống Ðảng cộng hòa như Nixon, Ford, Reagan, và Bush nó liên đới với các khoản chi cho quân đội và xác nhận quyền lực Mỹ khắp toàn cầu, đặc biệt là ở Trung Mỹ. Ðược hỗ trợ một cách chắc chắn bởi những công ty tập đoàn nhưng đảng này lại thất bại trong việc nắm giữ Quốc hội. Ða số đại biểu Quốc hội thường là đại biểu đảng Dân chủ thậm chí cho dù tổng thống là thành viên của Ðảng Cộng hòa. Tuy nhiên, xu hướng này đã đảo ngược trong năm 1994, khi những đảng viên đảng Cộng hòa nắm được quyền lực ở cả Thượng viện và Nghị viện lần đầu tiên trong 40 năm."
+        "t": "Đảng cộng hòa. Một đảng chính trị chính của Mỹ. Thuật ngữ \"cộng hòa\" lần đầu tiền được sử dụng ở Mỹ là từ Đảng Dân chủ-Cộng hòa Jefferson, được sáng lập năm 1796 và là tiền thân của Đảng Cộng hòa. Đảng Cộng hòa hiện tại được thành lập năm 1854. Nó được hỗ trợ bởi Đạo luật Kansas-Nebraska và do sự công khai của Đảng độc lập. Nó cũng mang lại những nhóm phản đối chế độ nô lệ nhưng hỗ trợ cho hệ thống thuế quan bảo hộ. Đảng này giành thắng lợi đầu tiên trong cuộc bầu cử tổng thống với Abraham Lincoln năm 1860 và từ đó cho đến năm 1932 chỉ thất bại trong số 4 cuộc bầu cử như thế, hai người trong số đó là Grover Cleveland và Woodrow Wilson. Những thành công ban đầu của đảng này dựa trên sự hỗ trợ của những người lao động trong lĩnh vực công nghiệp và nông nghiệp. Những chính sách tài chính bảo thủ của nó, hạn chế hệ thống thuế quan và thúc đẩy tăng trưởng kinh tế, vẫn giữ nguyên tính ưu việt. Sự sang trọng trong \"thời kỳ giàu có\" tương phản với tình trạng đói nghèo tăng lên trong số những dân nhập cư và tầng lớp công nhân cấp thấp của đô thị. Điều này dẫn đến Phong trào tiến bộ và sự chia rẽ trong đảng khi Theodore Roosevelt lập ra Đảng cấp tiến. Sau Chiến tranh thế giới I chính sách chủ nghĩa biệt lập đã khiến đảng này nắm lại quyền lực. Nhưng từ năm 1932 trở đi các đảng viên đảng Cộng hòa mất 5 người kế vị trong cuộc bầu cử chức Tổng thống, chỉ có lại quyền lực thông qua tầm ảnh hưởng quy mô lớn của Tổng thống Eisenhower năm 1952. Dưới nhiều đời Tổng thống Đảng cộng hòa như Nixon, Ford, Reagan, và Bush nó liên đới với các khoản chi cho quân đội và xác nhận quyền lực Mỹ khắp toàn cầu, đặc biệt là ở Trung Mỹ. Được hỗ trợ một cách chắc chắn bởi những công ty tập đoàn nhưng đảng này lại thất bại trong việc nắm giữ Quốc hội. Đa số đại biểu Quốc hội thường là đại biểu đảng Dân chủ thậm chí cho dù tổng thống là thành viên của Đảng Cộng hòa. Tuy nhiên, xu hướng này đã đảo ngược trong năm 1994, khi những đảng viên đảng Cộng hòa nắm được quyền lực ở cả Thượng viện và Nghị viện lần đầu tiên trong 40 năm."
       }
     ],
     "k": "republican party"
@@ -74946,7 +74946,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(tt) 1. Gây kinh tởm, ghê gớm.-arepulsive sight: một cảnh tượng kinh tởm. 2. Ðẩy ra.-repulsive forces: lực đẩy."
+        "t": "(tt) 1. Gây kinh tởm, ghê gớm.-arepulsive sight: một cảnh tượng kinh tởm. 2. Đẩy ra.-repulsive forces: lực đẩy."
       }
     ],
     "ipa": "riɛpʌlsiv",
@@ -76495,7 +76495,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Ðạo luật năm 1964 về Giá bán lẻ. (kinh tế) Là Ðạo luật của Anh cấm việc duy trì giá bán lẻ bởi một hãng riêng lẻ."
+        "t": "Đạo luật năm 1964 về Giá bán lẻ. (kinh tế) Là Đạo luật của Anh cấm việc duy trì giá bán lẻ bởi một hãng riêng lẻ."
       }
     ],
     "k": "resale prices act"
@@ -79224,7 +79224,7 @@
     "h": "Reset/Synchronization Signal (RSS)",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "Tín hiệu tái xác lập/Ðồng bộ hóa"}
+      {"k": "m", "t": "Tín hiệu tái xác lập/Đồng bộ hóa"}
     ],
     "k": "reset/synchronization signal (rss)"
   },
@@ -82197,7 +82197,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Phong trào kháng chiến. Phong trào bí mật nhằm chiến đấu chống lại Ðức quốc xã và Nhật Bản trong chiến tranh thế giới II. Hoạt động của họ gồm có xuất bản báo chí bí mật, giúp đỡ người Do Thái và tù nhân chiến tranh trốn thoát, truyền đạt thông tin tình báo qua sóng radio bí mật, và thực hiện các hành động phá hoại. Ở Ðức, phong trào kháng chiến chống lại chế độ Ðức quốc xã đi vào hoạt động từ năm 1934 trở đi. Mở màn ở cả hai bên Giáo hội Thiên Chúa Giáo và Tin lành. Cũng từ năm 1939 trở đi những nhóm sinh viên Thiên Chúa Giáo La Mã như nhóm Weisse Rose, và nhóm cộng sản Rote Kapelle, tiến hành những cuộc phá hoại và các hoạt động tình báo cho nước Nga mãi cho đến khi bị phản bội năm 1942. Sĩ quan Wilhelm Canaris, người đứng đầu công tác phản gián ở Ðức (Abwehr), là một nhân vật then chốt của cuộc kháng chiến cho đến khi ông này bị phản bội và bị treo cổ sau vụ \"Mưu đồ tháng Bảy\". Trong khi ở Châu Âu có những sự phân hóa sâu sắc giữa những tổ chức cộng sản và phi cộng sản. Nổi bật là ở Pháp nơi đội viên đội du kích Maquis hoạt động. Tương tự với Bỉ, Nam Tư, và Hy Lạp, Ðảng cộng sản đầu tiên vẫn giữ thế bị động, nhưng sau cuộc xâm chiếm Ðức của Liên bang Xô Viết (tháng 6 năm 1941), họ thành lập tổ chức hoặc gia nhập vào những nhóm bí mật. Cuộc kháng chiến của Hà Lan, Ðan Mạch, Na Uy vẫn thống nhất và phối hợp với London. Năm 1940, tại đây Cơ quan hành pháp đặc biệt Anh được thiết lập nhằm kết hợp tất cả những hoạt động đảo chính, ở cả Châu Âu và vùng viễn Ðông, và cung cấp vũ khí quân dụng thông qua việc thả dù. Ở Ðông Âu, nhiều đường dây liên lạc dài của Ðức liên tục bị nghĩa quân tấn công. Nghĩa quân kháng chiến Ba Lan gần như là lực lượng lớn nhất và phức tạp nhất ở Châu Âu. Cuộc kháng chiến ở Ðông Âu cuối cùng đã chuyển sang chống lại Hồng quân khi họ tiến về phía Tây (1944-1945), Cuộc vận động Warsaw ở Ba Lan là một ví dụ bi kịch của tình trạng căng thẳng giữa quân đội cộng sản và phi cộng sản. Ở vùng viễn Tây các hoạt động bí mật diễn ra lọt qua cả các tổ chức tình báo của Mỹ và Anh. Nhiều kết quả của họ dùng cho mục đích tập hợp thông tin tình báo, chiến tranh tâm lý, và giải thoát tù binh chiến tranh. Trong khi các hành động phá hoạt thực tế ở kho quân sự được lựa chọn và những đường dây liên lạc bị kiểm soát bởi quân du kích địa phương, những người yêu nước và thường có cả những chiến sĩ du kích gây ra. Người lãnh đạo họ, ví dụ như HỒ CHÍ MINH ở Việt Nam, tiếp tục tạo nên trung tâm của các phong trào giành độc lập sau chiến tranh chống lại chế độ thực dân."
+        "t": "Phong trào kháng chiến. Phong trào bí mật nhằm chiến đấu chống lại Đức quốc xã và Nhật Bản trong chiến tranh thế giới II. Hoạt động của họ gồm có xuất bản báo chí bí mật, giúp đỡ người Do Thái và tù nhân chiến tranh trốn thoát, truyền đạt thông tin tình báo qua sóng radio bí mật, và thực hiện các hành động phá hoại. Ở Đức, phong trào kháng chiến chống lại chế độ Đức quốc xã đi vào hoạt động từ năm 1934 trở đi. Mở màn ở cả hai bên Giáo hội Thiên Chúa Giáo và Tin lành. Cũng từ năm 1939 trở đi những nhóm sinh viên Thiên Chúa Giáo La Mã như nhóm Weisse Rose, và nhóm cộng sản Rote Kapelle, tiến hành những cuộc phá hoại và các hoạt động tình báo cho nước Nga mãi cho đến khi bị phản bội năm 1942. Sĩ quan Wilhelm Canaris, người đứng đầu công tác phản gián ở Đức (Abwehr), là một nhân vật then chốt của cuộc kháng chiến cho đến khi ông này bị phản bội và bị treo cổ sau vụ \"Mưu đồ tháng Bảy\". Trong khi ở Châu Âu có những sự phân hóa sâu sắc giữa những tổ chức cộng sản và phi cộng sản. Nổi bật là ở Pháp nơi đội viên đội du kích Maquis hoạt động. Tương tự với Bỉ, Nam Tư, và Hy Lạp, Đảng cộng sản đầu tiên vẫn giữ thế bị động, nhưng sau cuộc xâm chiếm Đức của Liên bang Xô Viết (tháng 6 năm 1941), họ thành lập tổ chức hoặc gia nhập vào những nhóm bí mật. Cuộc kháng chiến của Hà Lan, Đan Mạch, Na Uy vẫn thống nhất và phối hợp với London. Năm 1940, tại đây Cơ quan hành pháp đặc biệt Anh được thiết lập nhằm kết hợp tất cả những hoạt động đảo chính, ở cả Châu Âu và vùng viễn Đông, và cung cấp vũ khí quân dụng thông qua việc thả dù. Ở Đông Âu, nhiều đường dây liên lạc dài của Đức liên tục bị nghĩa quân tấn công. Nghĩa quân kháng chiến Ba Lan gần như là lực lượng lớn nhất và phức tạp nhất ở Châu Âu. Cuộc kháng chiến ở Đông Âu cuối cùng đã chuyển sang chống lại Hồng quân khi họ tiến về phía Tây (1944-1945), Cuộc vận động Warsaw ở Ba Lan là một ví dụ bi kịch của tình trạng căng thẳng giữa quân đội cộng sản và phi cộng sản. Ở vùng viễn Tây các hoạt động bí mật diễn ra lọt qua cả các tổ chức tình báo của Mỹ và Anh. Nhiều kết quả của họ dùng cho mục đích tập hợp thông tin tình báo, chiến tranh tâm lý, và giải thoát tù binh chiến tranh. Trong khi các hành động phá hoạt thực tế ở kho quân sự được lựa chọn và những đường dây liên lạc bị kiểm soát bởi quân du kích địa phương, những người yêu nước và thường có cả những chiến sĩ du kích gây ra. Người lãnh đạo họ, ví dụ như HỒ CHÍ MINH ở Việt Nam, tiếp tục tạo nên trung tâm của các phong trào giành độc lập sau chiến tranh chống lại chế độ thực dân."
       }
     ],
     "k": "resistance movements"
@@ -85380,7 +85380,7 @@
       {
         "k": "ex",
         "t": "English and French courses are held in London and Paris respectively",
-        "vi": "Các lớp tiếng Anh và tiếng Pháp được tổ chức ở Luân Ðôn (cho tiếng Anh) và ở Paris (cho tiếng Pháp)."
+        "vi": "Các lớp tiếng Anh và tiếng Pháp được tổ chức ở Luân Đôn (cho tiếng Anh) và ở Paris (cho tiếng Pháp)."
       }
     ],
     "ipa": "ris'pektivli",
@@ -87650,7 +87650,7 @@
     "h": "restorationism",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "thuyết Thượng Ðế cứu vớt mọi người (cả người phạm tội lỗi)."}
+      {"k": "m", "t": "thuyết Thượng Đế cứu vớt mọi người (cả người phạm tội lỗi)."}
     ],
     "ipa": ",restə'reiʃnizm",
     "k": "restorationism"
@@ -91478,7 +91478,7 @@
   },
   {
     "h": "rete foraminis ovalis",
-    "segs": [{"k": "m", "t": "Ðám rối tĩnh mạch lỗ bầu dục."}],
+    "segs": [{"k": "m", "t": "Đám rối tĩnh mạch lỗ bầu dục."}],
     "k": "rete foraminis ovalis"
   },
   {"h": "rete Halleri", "segs": [{"k": "m", "t": "Lưới Haller."}], "k": "rete halleri"},
@@ -93358,7 +93358,7 @@
       {"k": "pos", "t": "ngoại động từ"},
       {"k": "m", "t": "trả miếng, bắt bẻ, vặn lại (lý lẽ...)"},
       {"k": "m", "t": "\""},
-      {"k": "ex", "t": "Stop nonsense! \" she retorted", "vi": "\"Ðừng nói bậy nữa!\" cô ta bẻ lại"},
+      {"k": "ex", "t": "Stop nonsense! \" she retorted", "vi": "\"Đừng nói bậy nữa!\" cô ta bẻ lại"},
       {
         "k": "ex",
         "t": "he retorted that his elder brother was much cheekier than him",
@@ -95032,11 +95032,11 @@
   {
     "h": "retrocostal artery",
     "segs": [
-      {"k": "m", "t": "Ðộng mạch sau xương sườn, nhánh xương sườn ngoài của động mạch vú trong."}
+      {"k": "m", "t": "Động mạch sau xương sườn, nhánh xương sườn ngoài của động mạch vú trong."}
     ],
     "k": "retrocostal artery"
   },
-  {"h": "retrocursive", "segs": [{"k": "m", "t": "Ði giật lùi."}], "k": "retrocursive"},
+  {"h": "retrocursive", "segs": [{"k": "m", "t": "Đi giật lùi."}], "k": "retrocursive"},
   {
     "h": "retrocurved",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "cong ngược."}],
@@ -95469,7 +95469,7 @@
   },
   {
     "h": "retromandibular tender point",
-    "segs": [{"k": "m", "t": "Ðiểm đau sau hàm dưới."}],
+    "segs": [{"k": "m", "t": "Điểm đau sau hàm dưới."}],
     "k": "retromandibular tender point"
   },
   {
@@ -95643,7 +95643,7 @@
   },
   {"h": "retropharynx", "segs": [{"k": "m", "t": "Phần sau họng, hậu hầu."}], "k": "retropharynx"},
   {"h": "retroplacental", "segs": [{"k": "m", "t": "Sau rau thai."}], "k": "retroplacental"},
-  {"h": "retroplasia", "segs": [{"k": "m", "t": "Ði sản ngược."}], "k": "retroplasia"},
+  {"h": "retroplasia", "segs": [{"k": "m", "t": "Đi sản ngược."}], "k": "retroplasia"},
   {"h": "retropleural", "segs": [{"k": "m", "t": "Sau màng phổi."}], "k": "retropleural"},
   {"h": "retroposed", "segs": [{"k": "m", "t": "Dị chuyển về phía sau."}], "k": "retroposed"},
   {
@@ -98119,7 +98119,7 @@
   },
   {
     "h": "Revd",
-    "segs": [{"k": "pos", "t": "ngoại động từ"}, {"k": "m", "t": "Reverend Ðức cha."}],
+    "segs": [{"k": "pos", "t": "ngoại động từ"}, {"k": "m", "t": "Reverend Đức cha."}],
     "k": "revd"
   },
   {"h": "Revd.", "segs": [{"k": "m", "t": "Viết tắt của christianity Reverend"}], "k": "revd."},
@@ -99167,15 +99167,15 @@
       {"k": "m", "t": "("},
       {
         "k": "ex",
-        "t": "the Reverend) Ðức cha (dùng để tôn xưng một giáo sĩ, (tắt) Rev, Revd",
+        "t": "the Reverend) Đức cha (dùng để tôn xưng một giáo sĩ, (tắt) Rev, Revd",
         "vi": ")"
       },
       {"k": "ex", "t": "Rev", "vi": ". John Brown"},
       {"k": "ex", "t": "the Rev", "vi": ". John Brown"},
-      {"k": "m", "t": "Ðức cha John Brown"},
+      {"k": "m", "t": "Đức cha John Brown"},
       {"k": "ex", "t": "the Right Reverend the bishop of", "vi": "..."},
-      {"k": "m", "t": "Ðức giám mục..."},
-      {"k": "ex", "t": "Most Reverend John Smith", "vi": "Ðức Tổng giám mục John Smith."}
+      {"k": "m", "t": "Đức giám mục..."},
+      {"k": "ex", "t": "Most Reverend John Smith", "vi": "Đức Tổng giám mục John Smith."}
     ],
     "ipa": "'revərənd",
     "k": "reverend"
@@ -99203,7 +99203,7 @@
     "h": "reverent",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "Ðức cha, cha (đạo Thiên chúa)"},
+      {"k": "m", "t": "Đức cha, cha (đạo Thiên chúa)"},
       {"k": "m", "t": "mục sư (đạo Tin lành)"},
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "tôn kính, cung kính"},
@@ -102401,7 +102401,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Quá trình làm thức tỉnh lòng mộ đạo (Mỹ). Một phong trào truyền bá Phúc âm định kỳ của đạo Tin Lành ở Mỹ, khởi đầu là phong trào \"Ðại thức tỉnh\" thế kỷ 18. Phong trào \"Thứ tỉnh thứ hai\" (1797-1805), nổi bật ở miền Tây, bắt đầu bởi James McCready. Ông là người thuyết giáo trong những trại tập trung ở biên giới cho sự động viên và cầu nguyện. Quá trình làm thức tỉnh lòng mộ đạo đầu thế kỷ 19 trở thành một phương thức nghi lễ được chấp nhận ở những người theo chủ nghĩa giáo đoàn, các tín đồ Giáo hội trưởng, người theo giáo phái rửa tội và người theo Hội giám lý. Ðầu thế kỷ 20 ông đã chứng kiến sự phát triển số lượng những người truyền bá Phúc âm chuyên nghiệp, thuyết pháp về trào lưu chính thống (tin tưởng tuyệt đối vào kinh thánh), với nhiều tổ chức lớn. Những người điều hành, như Billy Graham, tiếp tục thu hút nhiều nhóm khán giả đến các cuộc họp, hội truyền giáo và chương trình truyền hình của họ."
+        "t": "Quá trình làm thức tỉnh lòng mộ đạo (Mỹ). Một phong trào truyền bá Phúc âm định kỳ của đạo Tin Lành ở Mỹ, khởi đầu là phong trào \"Đại thức tỉnh\" thế kỷ 18. Phong trào \"Thứ tỉnh thứ hai\" (1797-1805), nổi bật ở miền Tây, bắt đầu bởi James McCready. Ông là người thuyết giáo trong những trại tập trung ở biên giới cho sự động viên và cầu nguyện. Quá trình làm thức tỉnh lòng mộ đạo đầu thế kỷ 19 trở thành một phương thức nghi lễ được chấp nhận ở những người theo chủ nghĩa giáo đoàn, các tín đồ Giáo hội trưởng, người theo giáo phái rửa tội và người theo Hội giám lý. Đầu thế kỷ 20 ông đã chứng kiến sự phát triển số lượng những người truyền bá Phúc âm chuyên nghiệp, thuyết pháp về trào lưu chính thống (tin tưởng tuyệt đối vào kinh thánh), với nhiều tổ chức lớn. Những người điều hành, như Billy Graham, tiếp tục thu hút nhiều nhóm khán giả đến các cuộc họp, hội truyền giáo và chương trình truyền hình của họ."
       }
     ],
     "k": "revivalism"
@@ -102877,7 +102877,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cuộc chiến tranh Cách mạng (1792-1802). Một loạt cuộc chiến ở Châu Âu tiếp theo cuộc Cách mạng Pháp. Năm 1791, vua Louis XVI cố gắng thoát khỏi Pháp để đến Ðức nhưng thất bại. Ông đã giành được sự hỗ trợ của Áo và Phổ. Tháng 4 năm 1792 Pháp tuyên bố chiến tranh với Áo, sau đó cai trị Bỉ (the Austrian Netherlands). Hàng loạt thất bại của Pháp đã diễn ra tiếp sau đó. Mãi cho đến ngày 20 tháng 9, một quân đoàn xâm lược của Bỉ đã bị đánh bại ở Valmy. Tháng 2 năm 1793, chiến tranh diễn ra đối với Anh, Tây Ban Nha và Liên minh các tỉnh ở Netherlands. Trong một năm, thế lực kinh hoàng diễn ra ở Pháp, nhưng cùng lúc đó, dưới tài chỉ huy của Carnot, quân đội nhanh chóng phát triển và được đào tạo. Mục đích đầu tiên là củng cố biên giới nước Pháp dọc theo \"biên giới tự nhiên\" của biển Rhine và dãy núi Alps. Nhưng từ năm 1795, những cánh quân này tiến đến xâm chiếm toàn Châu Âu. Một lượng lớn các sĩ quan trẻ tuổi đầy tài năng nổi lên. Trong số đó có Bernadotte (về sau là vua Charles XIV của Thụy Ðiển), Barthelemy Joubert (chết trong trận chiến năm 1799), và trên hết chính là Napoleon Bonaparte. Khi toàn bộ khu vực Netherlands bị chế ngự, Bỉ sáp nhập vào khối liên minh, và Cộng hòa Batavia được thành lập từ Liên hiệp các tỉnh. Quân đội Pháp băng qua sông Rhine tiến sâu vào nam Ðức. Thụy Sĩ trở thành cộng hòa Helvetic (1798). Năm 1796-1797, Napoleon dẫn quân đến Ý, đánh bại quân Áo tại Arcola và chiếm được Venice, thành lập Cộng hòa Cisalpine và Cộng hòa Ligurian. Năm 1798, ông chỉ huy một cuộc viễn chinh đến Hy Lạp, nhưng hạm đội Anh dưới quyền của Nelson đã đánh bại hạm đội của ông ở vịnh Aboukir, và Napoleon quay lại Paris. Trong khi đó, quân Áo và Nga tái chiếm Ý và năm 1799 Napoleon lại hành quân vượt dãy Alps giành chiến thắng áp đảo trước quân Áo ở Marengo. Cùng thời điểm, Tướng Moreau giành chiến thắng vĩ đại thứ hai ở Hohenlinden. Các hiệp ước hòa bình ở Luneville (1801 với Áo) và Amiens (1802 với Anh) sau đó được thương lượng, kết thúc Loạt chiến tranh cách mạng."
+        "t": "Cuộc chiến tranh Cách mạng (1792-1802). Một loạt cuộc chiến ở Châu Âu tiếp theo cuộc Cách mạng Pháp. Năm 1791, vua Louis XVI cố gắng thoát khỏi Pháp để đến Đức nhưng thất bại. Ông đã giành được sự hỗ trợ của Áo và Phổ. Tháng 4 năm 1792 Pháp tuyên bố chiến tranh với Áo, sau đó cai trị Bỉ (the Austrian Netherlands). Hàng loạt thất bại của Pháp đã diễn ra tiếp sau đó. Mãi cho đến ngày 20 tháng 9, một quân đoàn xâm lược của Bỉ đã bị đánh bại ở Valmy. Tháng 2 năm 1793, chiến tranh diễn ra đối với Anh, Tây Ban Nha và Liên minh các tỉnh ở Netherlands. Trong một năm, thế lực kinh hoàng diễn ra ở Pháp, nhưng cùng lúc đó, dưới tài chỉ huy của Carnot, quân đội nhanh chóng phát triển và được đào tạo. Mục đích đầu tiên là củng cố biên giới nước Pháp dọc theo \"biên giới tự nhiên\" của biển Rhine và dãy núi Alps. Nhưng từ năm 1795, những cánh quân này tiến đến xâm chiếm toàn Châu Âu. Một lượng lớn các sĩ quan trẻ tuổi đầy tài năng nổi lên. Trong số đó có Bernadotte (về sau là vua Charles XIV của Thụy Điển), Barthelemy Joubert (chết trong trận chiến năm 1799), và trên hết chính là Napoleon Bonaparte. Khi toàn bộ khu vực Netherlands bị chế ngự, Bỉ sáp nhập vào khối liên minh, và Cộng hòa Batavia được thành lập từ Liên hiệp các tỉnh. Quân đội Pháp băng qua sông Rhine tiến sâu vào nam Đức. Thụy Sĩ trở thành cộng hòa Helvetic (1798). Năm 1796-1797, Napoleon dẫn quân đến Ý, đánh bại quân Áo tại Arcola và chiếm được Venice, thành lập Cộng hòa Cisalpine và Cộng hòa Ligurian. Năm 1798, ông chỉ huy một cuộc viễn chinh đến Hy Lạp, nhưng hạm đội Anh dưới quyền của Nelson đã đánh bại hạm đội của ông ở vịnh Aboukir, và Napoleon quay lại Paris. Trong khi đó, quân Áo và Nga tái chiếm Ý và năm 1799 Napoleon lại hành quân vượt dãy Alps giành chiến thắng áp đảo trước quân Áo ở Marengo. Cùng thời điểm, Tướng Moreau giành chiến thắng vĩ đại thứ hai ở Hohenlinden. Các hiệp ước hòa bình ở Luneville (1801 với Áo) và Amiens (1802 với Anh) sau đó được thương lượng, kết thúc Loạt chiến tranh cách mạng."
       }
     ],
     "k": "revolutionary wars"
@@ -102935,7 +102935,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Cách mạng năm 1848. Một loạt cuộc cách mạng diễn ra ở Ðông và Trung Âu. Chúng xuất phát từ một phần của nền chính trị độc đoán và tình trạng bất ổn về kinh tế. Cách mạng nổ ra đầu tiên ở Pháp nơi có những người ủng hộ quyền bầu cử phổ thông và một số ít những nhà ủng hộ chủ nghĩa xã hội dưới quyền của Louis Blanc. Họ lật đổ nền quân chủ vào tháng 7 và thiết lập nền Cộng hòa thứ 2. Ở nhiều bang của Ðức đã diễn ra nhiều cuộc biểu tình nổi dậy của quần chúng và một phong trào do Quốc hội phác thảo một hiến pháp cho Liên Bang Ðức. Cuộc nổi dậy ở Áo gây ra cuộc chiến giữa Metternich và hoàng đế, thành lập Hội đồng lập hiến và giải phóng tầng lớp nông dân. Tiếp theo là phong trào giành độc lập của Hungary do Kossuth dẫn đầu. Nó hình thành chính quyền cộng hòa tồn tại trong một thời gian ngắn từ thủ đô Budapest cho đến tất cả các vùng đất của Hungary. Người Hungary (Magyar) từ chối công nhận nền độc lập từ những kết quả thiểu số đã đạt được trong một cuộc khởi nghĩa do lực lượng quân sự người Croatia, Serby, và Transylvania tổ chức và đã bị quân Áo-Nga đánh bại. Ở các bang của Ý, hàng loạt cuộc cách mạng bị thất bại đã dẫn đến sự trục xuất tạm thời của người Áo và đức giáo hoàng Pius IX trốn sang Rome. Vì thế, mong muốn có được một liên minh dân chủ cộng hòa của Giuseppe Mazzini đã không thể biến thành hiện thực. Quốc hội Slav ở Prague đã dẫn đến các cuộc biểu tình của các nhà dân tộc chủ nghĩa người Czech yêu cầu quyền tự trị trong liên bang Áo. Năm 1849, các lực lượng phản cách mạng được khôi phục địa vị, nhưng khái niệm về một nền quân chủ tuyệt đối và quyền lực phong kiến của các địa chủ quý tộc đã ngầm bị đào thải."
+        "t": "Cách mạng năm 1848. Một loạt cuộc cách mạng diễn ra ở Đông và Trung Âu. Chúng xuất phát từ một phần của nền chính trị độc đoán và tình trạng bất ổn về kinh tế. Cách mạng nổ ra đầu tiên ở Pháp nơi có những người ủng hộ quyền bầu cử phổ thông và một số ít những nhà ủng hộ chủ nghĩa xã hội dưới quyền của Louis Blanc. Họ lật đổ nền quân chủ vào tháng 7 và thiết lập nền Cộng hòa thứ 2. Ở nhiều bang của Đức đã diễn ra nhiều cuộc biểu tình nổi dậy của quần chúng và một phong trào do Quốc hội phác thảo một hiến pháp cho Liên Bang Đức. Cuộc nổi dậy ở Áo gây ra cuộc chiến giữa Metternich và hoàng đế, thành lập Hội đồng lập hiến và giải phóng tầng lớp nông dân. Tiếp theo là phong trào giành độc lập của Hungary do Kossuth dẫn đầu. Nó hình thành chính quyền cộng hòa tồn tại trong một thời gian ngắn từ thủ đô Budapest cho đến tất cả các vùng đất của Hungary. Người Hungary (Magyar) từ chối công nhận nền độc lập từ những kết quả thiểu số đã đạt được trong một cuộc khởi nghĩa do lực lượng quân sự người Croatia, Serby, và Transylvania tổ chức và đã bị quân Áo-Nga đánh bại. Ở các bang của Ý, hàng loạt cuộc cách mạng bị thất bại đã dẫn đến sự trục xuất tạm thời của người Áo và đức giáo hoàng Pius IX trốn sang Rome. Vì thế, mong muốn có được một liên minh dân chủ cộng hòa của Giuseppe Mazzini đã không thể biến thành hiện thực. Quốc hội Slav ở Prague đã dẫn đến các cuộc biểu tình của các nhà dân tộc chủ nghĩa người Czech yêu cầu quyền tự trị trong liên bang Áo. Năm 1849, các lực lượng phản cách mạng được khôi phục địa vị, nhưng khái niệm về một nền quân chủ tuyệt đối và quyền lực phong kiến của các địa chủ quý tộc đã ngầm bị đào thải."
       }
     ],
     "k": "revolutions of 1848"
@@ -104047,7 +104047,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Reza Khan) (1878-1944) Vua Ba Tư (Iran trước đây) (1925-1941). Là một sĩ quan lữ đoàn Cossack Ba Tư. Ông đạt được quyền lực qua cuộc chiến (1921) và thiết lập một chế độ độc tài quân sự. Ông kế nhiệm chức Bộ trưởng Bộ chiến tranh và Thủ tướng chính phủ trước khi trở thành vua. Ông gầy dựng nên chính sách hiện đại hóa nhanh chóng, xây dựng quân đội quốc gia, xây dựng hệ thống quản lý hiện đại, hệ thống giáo dục và luật pháp mới. Ðồng thời ông cũng phát triển nền kinh tế, nổi bật là tuyến đường sắt xuyên Iran (1927-1938). Ông đã tiêu diệt các bộ tộc và các thế lực chống đối đường lối chính sách của mình. Trong Chiến tranh thế giới II, việc ông từ chối trục xuất các nhà dân tộc chủ nghĩa Ðức đã dẫn đến cuộc xâm lược và chiếm đóng Iran của lực lượng quân đội Xô Viết và Anh. Ông buộc phải nhường ngôi cho con trai, Muhammad Reza Shah IAhlavi, và chết khi đang bị lưu đày ở Nam Phi."
+        "t": "(Reza Khan) (1878-1944) Vua Ba Tư (Iran trước đây) (1925-1941). Là một sĩ quan lữ đoàn Cossack Ba Tư. Ông đạt được quyền lực qua cuộc chiến (1921) và thiết lập một chế độ độc tài quân sự. Ông kế nhiệm chức Bộ trưởng Bộ chiến tranh và Thủ tướng chính phủ trước khi trở thành vua. Ông gầy dựng nên chính sách hiện đại hóa nhanh chóng, xây dựng quân đội quốc gia, xây dựng hệ thống quản lý hiện đại, hệ thống giáo dục và luật pháp mới. Đồng thời ông cũng phát triển nền kinh tế, nổi bật là tuyến đường sắt xuyên Iran (1927-1938). Ông đã tiêu diệt các bộ tộc và các thế lực chống đối đường lối chính sách của mình. Trong Chiến tranh thế giới II, việc ông từ chối trục xuất các nhà dân tộc chủ nghĩa Đức đã dẫn đến cuộc xâm lược và chiếm đóng Iran của lực lượng quân đội Xô Viết và Anh. Ông buộc phải nhường ngôi cho con trai, Muhammad Reza Shah IAhlavi, và chết khi đang bị lưu đày ở Nam Phi."
       }
     ],
     "k": "reza shah pahlavi"
