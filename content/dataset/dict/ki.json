@@ -4574,9 +4574,7 @@
     "h": "king post joint",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đầu cống bằng gỗ"},
-      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đầu cống bằng gỗ"}
+      {"k": "m", "t": "nút liên kết cột chống đỉnh/trụ trung tâm"}
     ],
     "k": "king post joint"
   },

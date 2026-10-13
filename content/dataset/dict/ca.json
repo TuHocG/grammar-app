@@ -33670,7 +33670,7 @@
     "k": "caries articulorum"
   },
   {"h": "caries fungosa", "segs": [{"k": "m", "t": "Bệnh lao xương."}], "k": "caries fungosa"},
-  {"h": "caries sicca", "segs": [{"k": "m", "t": "Bệnh mạc xương."}], "k": "caries sicca"},
+  {"h": "caries sicca", "segs": [{"k": "m", "t": "Bệnh mục xương."}], "k": "caries sicca"},
   {
     "h": "CARIFTA",
     "segs": [{"k": "m", "t": "Viết tắt của Caribbean Free Trade Association"}],

@@ -27,6 +27,7 @@ Bản dữ liệu 2019 của tác giả (thư mục `Data G/Code`, mới hơn b�
 - Từ điển: sửa 959 lỗi chính tả tiếng Việt có từ bản gốc, tìm và soát như với bài học, ví dụ "danh tứ số nhiều" → "danh từ", "thánh khoản" → "thanh khoản", "kết toán" → "kế toán", "tra mở" → "tra mỡ", "lắp đi lắp lại" → "lặp đi lặp lại", "phần mền" → "phần mềm", "Mircrosoft" → "Microsoft".
 - Chữ "ư" bị gõ thiếu dấu móc trước "ơ" ("đuợc", "nguời", "luợng", "đuờng"…): 117 chỗ trong mọi phần nội dung nay là "được", "người", "lượng", "đường"…; các từ viết đúng như "thuở", "huơ", "quơ" giữ nguyên.
 - Từ điển: chữ "Ở" bị mã hoá hỏng thành "ÕÒ" ở 15 chỗ trong các mục tin học ("ÕÒ mức này", "ÕÒ đây") nay là "Ở".
+- Từ điển, soát tay: "phần mềm cổ đông" (shareware, 3 chỗ) → "phần mềm chia sẻ"; 15 chỗ khác như "chỗ đón tàu" → "chỗ đóng tàu" (ways), "Bệnh mạc xương" → "Bệnh mục xương" (caries sicca), "cái lã ống" → "cái doa ống" (tubing reamer), "hệ số se kết" → "hệ số cố kết", "VLAM" → "VLAN". Thuật ngữ chuyên ngành sửa theo chuyên gia: impersonal verb "động từ khống chỉ" → "động từ vô nhân xưng", consistency controller → "bộ điều chỉnh độ đặc/độ sệt", slide rest lathe → "máy tiện có bàn trượt", total product method → "tổng lượng sản phẩm", king post joint → "nút liên kết cột chống đỉnh/trụ trung tâm", jobbing in contango thêm "kiếm lời từ phí gia hạn hợp đồng"; bỏ nghĩa sai "bộ giả tính" (tabulator) và "Thông tin tên Internet" (Routing Arbiter).
 
 ## 1.0.0 — 2026-10-07
 

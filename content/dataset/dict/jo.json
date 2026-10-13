@@ -1358,7 +1358,7 @@
     "h": "jobbing in contango",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "việc tài định phí triển hoãn thanh toán"}
+      {"k": "m", "t": "việc tài định phí trì hoãn thanh toán, kiếm lời từ phí gia hạn hợp đồng"}
     ],
     "k": "jobbing in contango"
   },
@@ -1366,7 +1366,7 @@
     "h": "jobbing in contangoes",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "việc tài định phí trì hoãn thanh toán"}
+      {"k": "m", "t": "việc tài định phí trì hoãn thanh toán, kiếm lời từ phí gia hạn hợp đồng"}
     ],
     "k": "jobbing in contangoes"
   },

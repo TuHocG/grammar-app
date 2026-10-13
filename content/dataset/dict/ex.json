@@ -28195,7 +28195,7 @@
       },
       {
         "k": "m",
-        "t": "Một XCMD thông dụng là ResCopy, thường gặp nhiều trong các lập trình tiện ích thuộc các lĩnh vực công cộng hoặc thuộc các phần mềm cổ đông. ResCopy cho phép lập trình viên HyperTalk tiến hành sao chép các lệnh ngoại trú và các tài nguyên bên ngoài từ một chương trình hoặc từ một ngăn xếp HyperTalk vào nơi khác."
+        "t": "Một XCMD thông dụng là ResCopy, thường gặp nhiều trong các lập trình tiện ích thuộc các lĩnh vực công cộng hoặc thuộc các phần mềm chia sẻ. ResCopy cho phép lập trình viên HyperTalk tiến hành sao chép các lệnh ngoại trú và các tài nguyên bên ngoài từ một chương trình hoặc từ một ngăn xếp HyperTalk vào nơi khác."
       },
       {"k": "m", "t": "Xem external function - XCFN, and ResEdit."}
     ],

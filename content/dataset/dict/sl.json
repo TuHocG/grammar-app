@@ -6052,7 +6052,7 @@
   },
   {
     "h": "slide rest lathe",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy tiện có tụ trượt"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy tiện có bàn trượt"}],
     "k": "slide rest lathe"
   },
   {"h": "slide rheostat", "segs": [{"k": "m", "t": "biến trở con chạy."}], "k": "slide rheostat"},

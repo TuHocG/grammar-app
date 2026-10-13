@@ -25882,7 +25882,7 @@
   },
   {
     "h": "ways",
-    "segs": [{"k": "m", "t": "hầm tàu, chỗ tàu đậu, chỗ đón tàu, chỗ sửa tàu."}],
+    "segs": [{"k": "m", "t": "hầm tàu, chỗ tàu đậu, chỗ đóng tàu, chỗ sửa tàu."}],
     "k": "ways",
     "q": {"vi": "những con đường, lối đi, hướng đi, cách thức", "ipa": "weiz", "rs": "wê z"}
   },
