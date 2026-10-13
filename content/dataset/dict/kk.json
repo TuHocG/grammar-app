@@ -1,1 +1,10 @@
-[{"h":"kkk","segs":[{"k":"m","t":"viết tắt của"},{"k":"ex","t":"Ku-Klux-Klan","vi":"."}],"ipa":",kei kei 'kei","k":"kkk"},{"h":"KKt","segs":[{"k":"m","t":"Viết tắt của chess king's knight"}],"k":"kkt"},{"h":"KKtP","segs":[{"k":"m","t":"Viết tắt của chess king's knight's pawn"}],"k":"kktp"}]
+[
+  {
+    "h": "kkk",
+    "segs": [{"k": "m", "t": "viết tắt của"}, {"k": "ex", "t": "Ku-Klux-Klan", "vi": "."}],
+    "ipa": ",kei kei 'kei",
+    "k": "kkk"
+  },
+  {"h": "KKt", "segs": [{"k": "m", "t": "Viết tắt của chess king's knight"}], "k": "kkt"},
+  {"h": "KKtP", "segs": [{"k": "m", "t": "Viết tắt của chess king's knight's pawn"}], "k": "kktp"}
+]

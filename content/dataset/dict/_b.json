@@ -1,1 +1,62 @@
-[{"h":"\"B\" lience","segs":[{"k":"m","t":"giấy phép \"B\", môn bài \"B\"."}],"k":"\"b\" lience"},{"h":"\"B\" share","segs":[{"k":"m","t":"cổ phiếu B."}],"k":"\"b\" share"},{"h":"\"beggar thy neighbor","segs":[{"k":"m","t":"\" lợi mình hại người. Một chính sách ngoại thương liên quan đến việc phá giá cạnh tranh và gia tăng các rào cản bảo hộ thương mại mà một nước thực hiện nhằm thu lợi trước tổn thất của các đối tác thương mại của nước đó."}],"k":"\"beggar thy neighbor"},{"h":"\"busy-back\" jack","segs":[{"k":"m","t":"lỗ cắm bận, jắc bận."}],"k":"\"busy-back\" jack"},{"h":"\"buy American\" acts","segs":[{"k":"m","t":"các đạo luật \"mua hàng Mỹ\". Các luật quy định các đại lý mua sắm của chính quyền liên bang, tiêu bang và địa phương của Mỹ phải mua hàng hóa Mỹ trừ khi hàng hóa nước ngoài tương tự có giá rẻ hơn đáng kể."}],"k":"\"buy american\" acts"},{"h":"(be) in business","segs":[{"k":"m","t":"kinh doanh, buôn bán, phát đạt, làm ăn hiệu quả."}],"k":"(be) in business"},{"h":"(be) on business","segs":[{"k":"m","t":"thi hành công vụ, công việc, công tác."}],"k":"(be) on business"},{"h":"-biont","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"an organism that lives under particular conditions"},{"k":"m","t":"halobiont"}],"k":"-biont"},{"h":"-biosis","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"a particular mode of life"},{"k":"m","t":"necrobiosis"},{"k":"m","t":"--biotic, suffix"}],"k":"-biosis"}]
+[
+  {
+    "h": "\"B\" lience",
+    "segs": [{"k": "m", "t": "giấy phép \"B\", môn bài \"B\"."}],
+    "k": "\"b\" lience"
+  },
+  {"h": "\"B\" share", "segs": [{"k": "m", "t": "cổ phiếu B."}], "k": "\"b\" share"},
+  {
+    "h": "\"beggar thy neighbor",
+    "segs": [
+      {
+        "k": "m",
+        "t": "\" lợi mình hại người. Một chính sách ngoại thương liên quan đến việc phá giá cạnh tranh và gia tăng các rào cản bảo hộ thương mại mà một nước thực hiện nhằm thu lợi trước tổn thất của các đối tác thương mại của nước đó."
+      }
+    ],
+    "k": "\"beggar thy neighbor"
+  },
+  {
+    "h": "\"busy-back\" jack",
+    "segs": [{"k": "m", "t": "lỗ cắm bận, jắc bận."}],
+    "k": "\"busy-back\" jack"
+  },
+  {
+    "h": "\"buy American\" acts",
+    "segs": [
+      {
+        "k": "m",
+        "t": "các đạo luật \"mua hàng Mỹ\". Các luật quy định các đại lý mua sắm của chính quyền liên bang, tiêu bang và địa phương của Mỹ phải mua hàng hóa Mỹ trừ khi hàng hóa nước ngoài tương tự có giá rẻ hơn đáng kể."
+      }
+    ],
+    "k": "\"buy american\" acts"
+  },
+  {
+    "h": "(be) in business",
+    "segs": [{"k": "m", "t": "kinh doanh, buôn bán, phát đạt, làm ăn hiệu quả."}],
+    "k": "(be) in business"
+  },
+  {
+    "h": "(be) on business",
+    "segs": [{"k": "m", "t": "thi hành công vụ, công việc, công tác."}],
+    "k": "(be) on business"
+  },
+  {
+    "h": "-biont",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "an organism that lives under particular conditions"},
+      {"k": "m", "t": "halobiont"}
+    ],
+    "k": "-biont"
+  },
+  {
+    "h": "-biosis",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "a particular mode of life"},
+      {"k": "m", "t": "necrobiosis"},
+      {"k": "m", "t": "--biotic, suffix"}
+    ],
+    "k": "-biosis"
+  }
+]

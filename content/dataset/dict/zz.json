@@ -1,1 +1,13 @@
-[{"h":"zzz","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"representation of sleeping or snoring: a representation of the sound made by somebody sleeping hoặc snoring, often used in cartoons (humorous)"}],"k":"zzz"}]
+[
+  {
+    "h": "zzz",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "representation of sleeping or snoring: a representation of the sound made by somebody sleeping hoặc snoring, often used in cartoons (humorous)"
+      }
+    ],
+    "k": "zzz"
+  }
+]

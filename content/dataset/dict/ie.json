@@ -1,1 +1,95 @@
-[{"h":"IE","segs":[{"k":"m","t":"(instruction element) thành phần lệnh, phần tử lệnh."}],"k":"ie"},{"h":"IE (instruction element)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phần tử lệnh"},{"k":"m","t":"thành phần lệnh"}],"k":"ie (instruction element)"},{"h":"IE (Internet Explorer)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"trình duyệt IE"}],"k":"ie (internet explorer)"},{"h":"IEC","segs":[{"k":"m","t":"(International Electrotechnical Commission) ủy ban kỹ thuật điện quốc tế."}],"k":"iec"},{"h":"iechyd da","segs":[{"k":"m","t":"interjection"},{"k":"m","t":"Wales good health: used as a drinking toast to wish somebody good health"}],"k":"iechyd da"},{"h":"IED","segs":[{"k":"m","t":"Viết tắt của 1. Institution of Engineering Designers"},{"k":"m","t":"2. military improvised explosive device"}],"k":"ied"},{"h":"IEE","segs":[{"k":"m","t":"(Institute of Electrical Engineers) viện kỹ sư điện."}],"k":"iee"},{"h":"IEEE","segs":[{"k":"m","t":"(Institute of Electrical and Electronics Engineers) viện kỹ sư điện và điện tử."}],"k":"ieee"},{"h":"IEEE 802 standards","segs":[{"k":"m","t":"tiêu chuẩn IEEE 802. Một tập hợp các tiêu chuẩn viễn thông điều tiết các mạng cục bộ. Do Instituse of Electrical and Electronic Engineers (Viện các (kỹ thuật) điện và điện tử IEEE) xây dựng nên, các tiêu chuẩn này bao gồm cách mắc nối 10 Base 2 và 10 Base-T, các cầu nối của mạng, và các mạng vòng dùng trong mạng tiếp sức vòng của IBM."}],"k":"ieee 802 standards"},{"h":"IEF","segs":[{"k":"m","t":"(information engineering facility) công cụ kỹ thuật thông tin."}],"k":"ief"},{"h":"ienrtia tension","segs":[{"k":"m","t":"tensơ quán tính."}],"k":"ienrtia tension"},{"h":"IEPG","segs":[{"k":"m","t":"(Internet Engineering and Planning Group) nhóm kỹ thuật và quy hoạch Internet."}],"k":"iepg"},{"h":"ierking nystagmus","segs":[{"k":"m","t":"Rung giật nhãn cầu nhịp nhàng."}],"k":"ierking nystagmus"},{"h":"Ieukemic myelosis","segs":[{"k":"m","t":"Hư tủy tăng bạch cầu."}],"k":"ieukemic myelosis"}]
+[
+  {
+    "h": "IE",
+    "segs": [{"k": "m", "t": "(instruction element) thành phần lệnh, phần tử lệnh."}],
+    "k": "ie"
+  },
+  {
+    "h": "IE (instruction element)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "phần tử lệnh"},
+      {"k": "m", "t": "thành phần lệnh"}
+    ],
+    "k": "ie (instruction element)"
+  },
+  {
+    "h": "IE (Internet Explorer)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "trình duyệt IE"}],
+    "k": "ie (internet explorer)"
+  },
+  {
+    "h": "IEC",
+    "segs": [
+      {"k": "m", "t": "(International Electrotechnical Commission) ủy ban kỹ thuật điện quốc tế."}
+    ],
+    "k": "iec"
+  },
+  {
+    "h": "iechyd da",
+    "segs": [
+      {"k": "m", "t": "interjection"},
+      {"k": "m", "t": "Wales good health: used as a drinking toast to wish somebody good health"}
+    ],
+    "k": "iechyd da"
+  },
+  {
+    "h": "IED",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. Institution of Engineering Designers"},
+      {"k": "m", "t": "2. military improvised explosive device"}
+    ],
+    "k": "ied"
+  },
+  {
+    "h": "IEE",
+    "segs": [{"k": "m", "t": "(Institute of Electrical Engineers) viện kỹ sư điện."}],
+    "k": "iee"
+  },
+  {
+    "h": "IEEE",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Institute of Electrical and Electronics Engineers) viện kỹ sư điện và điện tử."
+      }
+    ],
+    "k": "ieee"
+  },
+  {
+    "h": "IEEE 802 standards",
+    "segs": [
+      {
+        "k": "m",
+        "t": "tiêu chuẩn IEEE 802. Một tập hợp các tiêu chuẩn viễn thông điều tiết các mạng cục bộ. Do Instituse of Electrical and Electronic Engineers (Viện các (kỹ thuật) điện và điện tử IEEE) xây dựng nên, các tiêu chuẩn này bao gồm cách mắc nối 10 Base 2 và 10 Base-T, các cầu nối của mạng, và các mạng vòng dùng trong mạng tiếp sức vòng của IBM."
+      }
+    ],
+    "k": "ieee 802 standards"
+  },
+  {
+    "h": "IEF",
+    "segs": [{"k": "m", "t": "(information engineering facility) công cụ kỹ thuật thông tin."}],
+    "k": "ief"
+  },
+  {"h": "ienrtia tension", "segs": [{"k": "m", "t": "tensơ quán tính."}], "k": "ienrtia tension"},
+  {
+    "h": "IEPG",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Internet Engineering and Planning Group) nhóm kỹ thuật và quy hoạch Internet."
+      }
+    ],
+    "k": "iepg"
+  },
+  {
+    "h": "ierking nystagmus",
+    "segs": [{"k": "m", "t": "Rung giật nhãn cầu nhịp nhàng."}],
+    "k": "ierking nystagmus"
+  },
+  {
+    "h": "Ieukemic myelosis",
+    "segs": [{"k": "m", "t": "Hư tủy tăng bạch cầu."}],
+    "k": "ieukemic myelosis"
+  }
+]

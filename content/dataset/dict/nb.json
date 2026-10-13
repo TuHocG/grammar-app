@@ -1,1 +1,65 @@
-[{"h":"nb","segs":[{"k":"m","t":"(tắt) xin lưu ý ("},{"k":"ex","t":"Nota bene","vi":")."}],"ipa":",en 'bi:","k":"nb"},{"h":"Nb (columbium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cb"}],"k":"nb (columbium)"},{"h":"NBA","segs":[{"k":"m","t":"hoặc N.B.A."},{"k":"m","t":"abbreviation"},{"k":"m","t":"1. basketball National Basketball Association"},{"k":"m","t":"2. boxing National Boxing Association"}],"k":"nba"},{"h":"NBC","segs":[{"k":"m","t":"(tắt) Công ty phát thanh quốc gia ("},{"k":"ex","t":"National Broadcasting Company","vi":")."}],"ipa":",en bi: 'si:","k":"nbc"},{"h":"NBCD","segs":[{"k":"m","t":"(natural binary-code decimal) số thập phân tự nhiên mã hóa nhị phân."}],"k":"nbcd"},{"h":"NbE","segs":[{"k":"m","t":"Viết tắt của compass north by east"}],"k":"nbe"},{"h":"NBFM","segs":[{"k":"m","t":"(narrow-band frequency modulator) bộ điều tần dải hẹp."}],"k":"nbfm"},{"h":"NBG","segs":[{"k":"m","t":"hoặc nbg"},{"k":"m","t":"abbreviation"},{"k":"m","t":"U.K. no bloody good (thông tục)"}],"k":"nbg"},{"h":"NBS","segs":[{"k":"m","t":"(numeric backspace character) ký tự lùi bằng số."}],"k":"nbs"},{"h":"NBV","segs":[{"k":"m","t":"Viết tắt của accounting commerce net book value"}],"k":"nbv"},{"h":"NbW","segs":[{"k":"m","t":"Viết tắt của compass north by west"}],"k":"nbw"}]
+[
+  {
+    "h": "nb",
+    "segs": [{"k": "m", "t": "(tắt) xin lưu ý ("}, {"k": "ex", "t": "Nota bene", "vi": ")."}],
+    "ipa": ",en 'bi:",
+    "k": "nb"
+  },
+  {
+    "h": "Nb (columbium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cb"}],
+    "k": "nb (columbium)"
+  },
+  {
+    "h": "NBA",
+    "segs": [
+      {"k": "m", "t": "hoặc N.B.A."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "1. basketball National Basketball Association"},
+      {"k": "m", "t": "2. boxing National Boxing Association"}
+    ],
+    "k": "nba"
+  },
+  {
+    "h": "NBC",
+    "segs": [
+      {"k": "m", "t": "(tắt) Công ty phát thanh quốc gia ("},
+      {"k": "ex", "t": "National Broadcasting Company", "vi": ")."}
+    ],
+    "ipa": ",en bi: 'si:",
+    "k": "nbc"
+  },
+  {
+    "h": "NBCD",
+    "segs": [
+      {"k": "m", "t": "(natural binary-code decimal) số thập phân tự nhiên mã hóa nhị phân."}
+    ],
+    "k": "nbcd"
+  },
+  {"h": "NbE", "segs": [{"k": "m", "t": "Viết tắt của compass north by east"}], "k": "nbe"},
+  {
+    "h": "NBFM",
+    "segs": [{"k": "m", "t": "(narrow-band frequency modulator) bộ điều tần dải hẹp."}],
+    "k": "nbfm"
+  },
+  {
+    "h": "NBG",
+    "segs": [
+      {"k": "m", "t": "hoặc nbg"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "U.K. no bloody good (thông tục)"}
+    ],
+    "k": "nbg"
+  },
+  {
+    "h": "NBS",
+    "segs": [{"k": "m", "t": "(numeric backspace character) ký tự lùi bằng số."}],
+    "k": "nbs"
+  },
+  {
+    "h": "NBV",
+    "segs": [{"k": "m", "t": "Viết tắt của accounting commerce net book value"}],
+    "k": "nbv"
+  },
+  {"h": "NbW", "segs": [{"k": "m", "t": "Viết tắt của compass north by west"}], "k": "nbw"}
+]

@@ -1,1 +1,93 @@
-[{"h":"hf","segs":[{"k":"m","t":"(tắt) tần số cao ("},{"k":"ex","t":"high frequency","vi":")."}],"ipa":",eitʃ 'ef","k":"hf"},{"h":"hf (hafnium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hafini"}],"k":"hf (hafnium)"},{"h":"HF alkylation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phương pháp HF làm tinh khiết alkin"}],"k":"hf alkylation"},{"h":"HF erase head","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đầu xóa cao tần"},{"k":"m","t":"đầu xóa HF"}],"k":"hf erase head"},{"h":"HF filter capacitor","segs":[{"k":"m","t":"tụ điện cao tần."}],"k":"hf filter capacitor"},{"h":"HF oscillatory circuit","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạch dao động cao tần"}],"k":"hf oscillatory circuit"},{"h":"HF osillatory circuit","segs":[{"k":"m","t":"mạch dao động cao tần."}],"k":"hf osillatory circuit"},{"h":"HF radio","segs":[{"k":"m","t":"máy thu cao tần."}],"k":"hf radio"},{"h":"HF signal","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tín hiệu cao tần"},{"k":"m","t":"tín hiệu HF"}],"k":"hf signal"},{"h":"HF signal generator","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy phát điện tín hiệu HF"},{"k":"m","t":"máy phát tín hiệu cao tần"}],"k":"hf signal generator"},{"h":"HF spectrum","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phổ cao tần"},{"k":"m","t":"phổ HF"}],"k":"hf spectrum"},{"h":"HF transistor","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cao tần"}],"k":"hf transistor"},{"h":"HFS","segs":[{"k":"m","t":"(Hierarchical File System) hệ thống tập tin thứ bậc, hệ thống tập tin phân cấp."}],"k":"hfs"},{"h":"HFT","segs":[{"k":"m","t":"(high function terminal) thiết bị đầu cuối chức năng cao."}],"k":"hft"}]
+[
+  {
+    "h": "hf",
+    "segs": [{"k": "m", "t": "(tắt) tần số cao ("}, {"k": "ex", "t": "high frequency", "vi": ")."}],
+    "ipa": ",eitʃ 'ef",
+    "k": "hf"
+  },
+  {
+    "h": "hf (hafnium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hafini"}],
+    "k": "hf (hafnium)"
+  },
+  {
+    "h": "HF alkylation",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "phương pháp HF làm tinh khiết alkin"}
+    ],
+    "k": "hf alkylation"
+  },
+  {
+    "h": "HF erase head",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đầu xóa cao tần"},
+      {"k": "m", "t": "đầu xóa HF"}
+    ],
+    "k": "hf erase head"
+  },
+  {
+    "h": "HF filter capacitor",
+    "segs": [{"k": "m", "t": "tụ điện cao tần."}],
+    "k": "hf filter capacitor"
+  },
+  {
+    "h": "HF oscillatory circuit",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạch dao động cao tần"}],
+    "k": "hf oscillatory circuit"
+  },
+  {
+    "h": "HF osillatory circuit",
+    "segs": [{"k": "m", "t": "mạch dao động cao tần."}],
+    "k": "hf osillatory circuit"
+  },
+  {"h": "HF radio", "segs": [{"k": "m", "t": "máy thu cao tần."}], "k": "hf radio"},
+  {
+    "h": "HF signal",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "tín hiệu cao tần"},
+      {"k": "m", "t": "tín hiệu HF"}
+    ],
+    "k": "hf signal"
+  },
+  {
+    "h": "HF signal generator",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "máy phát điện tín hiệu HF"},
+      {"k": "m", "t": "máy phát tín hiệu cao tần"}
+    ],
+    "k": "hf signal generator"
+  },
+  {
+    "h": "HF spectrum",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "phổ cao tần"},
+      {"k": "m", "t": "phổ HF"}
+    ],
+    "k": "hf spectrum"
+  },
+  {
+    "h": "HF transistor",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cao tần"}],
+    "k": "hf transistor"
+  },
+  {
+    "h": "HFS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Hierarchical File System) hệ thống tập tin thứ bậc, hệ thống tập tin phân cấp."
+      }
+    ],
+    "k": "hfs"
+  },
+  {
+    "h": "HFT",
+    "segs": [{"k": "m", "t": "(high function terminal) thiết bị đầu cuối chức năng cao."}],
+    "k": "hft"
+  }
+]

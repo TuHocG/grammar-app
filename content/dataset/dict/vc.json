@@ -1,1 +1,88 @@
-[{"h":"vc","segs":[{"k":"m","t":"(tắt) phó chủ tịch ("},{"k":"ex","t":"vice-chairman) phó thủ tướng (vice-chancellor) phó lãnh sự (vice-consul","vi":") huy chương anh dũng Victoria"},{"k":"m","t":"("},{"k":"ex","t":"Victoria Cross","vi":")."}],"ipa":",vi:si:","k":"vc"},{"h":"VC (virtual circuit)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạch ảo"}],"k":"vc (virtual circuit)"},{"h":"VC-n","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"côngtenơ ảo"}],"k":"vc-n"},{"h":"VCA","segs":[{"k":"m","t":"(voltage-controlled amplifier) bộ khuếch đại điều khiển bằng điện áp, bộ khuếch đại theo áp."}],"k":"vca"},{"h":"VCAM","segs":[{"k":"m","t":"(Virtual Communication Access Method) phương pháp truy cập truyền thông ảo."}],"k":"vcam"},{"h":"vcci","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"Phòng công nghiệp và thương mại Việt Nam"}],"k":"vcci"},{"h":"vcin scraping","segs":[{"k":"m","t":"sự cạo tĩnh mạch dưới da con thịt."}],"k":"vcin scraping"},{"h":"vCJD","segs":[{"k":"m","t":"Viết tắt của medicine variant CJD"}],"k":"vcjd"},{"h":"Vck","segs":[{"k":"m","t":"(vt) Video cassette recorder: máy thâu băng vidêo."}],"ipa":"vi:si:a:(r)","k":"vck"},{"h":"VCO","segs":[{"k":"m","t":"(voltage-controlled oscillator) bộ dao động điều khiển bằng điện áp."}],"k":"vco"},{"h":"VCPI","segs":[{"k":"m","t":"(Virtual Control Program Interface) giao diện chương trình điều khiển ảo."}],"k":"vcpi"},{"h":"VCR","segs":[{"k":"m","t":"(tắt) đầu máy viđêô ("},{"k":"ex","t":"video cassette recorder","vi":")."}],"ipa":",vi:si:'a:","k":"vcr"},{"h":"VCT","segs":[{"k":"m","t":"Viết tắt của U.K. venture capital trust"}],"k":"vct"}]
+[
+  {
+    "h": "vc",
+    "segs": [
+      {"k": "m", "t": "(tắt) phó chủ tịch ("},
+      {
+        "k": "ex",
+        "t": "vice-chairman) phó thủ tướng (vice-chancellor) phó lãnh sự (vice-consul",
+        "vi": ") huy chương anh dũng Victoria"
+      },
+      {"k": "m", "t": "("},
+      {"k": "ex", "t": "Victoria Cross", "vi": ")."}
+    ],
+    "ipa": ",vi:si:",
+    "k": "vc"
+  },
+  {
+    "h": "VC (virtual circuit)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạch ảo"}],
+    "k": "vc (virtual circuit)"
+  },
+  {
+    "h": "VC-n",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "côngtenơ ảo"}],
+    "k": "vc-n"
+  },
+  {
+    "h": "VCA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(voltage-controlled amplifier) bộ khuếch đại điều khiển bằng điện áp, bộ khuếch đại theo áp."
+      }
+    ],
+    "k": "vca"
+  },
+  {
+    "h": "VCAM",
+    "segs": [
+      {"k": "m", "t": "(Virtual Communication Access Method) phương pháp truy cập truyền thông ảo."}
+    ],
+    "k": "vcam"
+  },
+  {
+    "h": "vcci",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "Phòng công nghiệp và thương mại Việt Nam"}
+    ],
+    "k": "vcci"
+  },
+  {
+    "h": "vcin scraping",
+    "segs": [{"k": "m", "t": "sự cạo tĩnh mạch dưới da con thịt."}],
+    "k": "vcin scraping"
+  },
+  {"h": "vCJD", "segs": [{"k": "m", "t": "Viết tắt của medicine variant CJD"}], "k": "vcjd"},
+  {
+    "h": "Vck",
+    "segs": [{"k": "m", "t": "(vt) Video cassette recorder: máy thâu băng vidêo."}],
+    "ipa": "vi:si:a:(r)",
+    "k": "vck"
+  },
+  {
+    "h": "VCO",
+    "segs": [
+      {"k": "m", "t": "(voltage-controlled oscillator) bộ dao động điều khiển bằng điện áp."}
+    ],
+    "k": "vco"
+  },
+  {
+    "h": "VCPI",
+    "segs": [
+      {"k": "m", "t": "(Virtual Control Program Interface) giao diện chương trình điều khiển ảo."}
+    ],
+    "k": "vcpi"
+  },
+  {
+    "h": "VCR",
+    "segs": [
+      {"k": "m", "t": "(tắt) đầu máy viđêô ("},
+      {"k": "ex", "t": "video cassette recorder", "vi": ")."}
+    ],
+    "ipa": ",vi:si:'a:",
+    "k": "vcr"
+  },
+  {"h": "VCT", "segs": [{"k": "m", "t": "Viết tắt của U.K. venture capital trust"}], "k": "vct"}
+]

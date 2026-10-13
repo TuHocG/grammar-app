@@ -1,4 +1,5 @@
-"""Validate content/dataset before building or releasing: readable JSON, no duplicate ids, stable ids.
+"""Validate content/dataset before building or releasing: readable JSON in the diff-friendly layout
+of tool/content/jsonfmt.py, no duplicate ids, stable ids.
 
     python3 tool/content/check.py            # compare with content/ids.json, exit 1 on a breaking change
     python3 tool/content/check.py --update   # after ADDING content: record the new ids in content/ids.json
@@ -130,6 +131,12 @@ def main() -> int:
     bad, warn = compare(_j(SNAPSHOT), new, retired) if SNAPSHOT.exists() else ([], [])
     for w in warn:
         print('warning:', w)
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from jsonfmt import off_layout
+    off = off_layout()
+    errs += [f'{p.relative_to(CONTENT)} is not in the dataset layout: run python3 tool/content/jsonfmt.py' for p in off[:10]]
+    if len(off) > 10:
+        errs.append(f'... and {len(off) - 10} more files not in the layout')
     for e in errs + bad:
         print('ERROR:', e)
     if errs or bad:

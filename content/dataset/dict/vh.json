@@ -1,1 +1,48 @@
-[{"h":"VHDL","segs":[{"k":"m","t":"(very-high speed integrated circuit hardware description language) ngôn ngữ mô tả phần cứng mạch tích hợp tốc độ rất cao, ngôn ngữ mô tả phần cứng VHSIC."}],"k":"vhdl"},{"h":"vhf","segs":[{"k":"m","t":"(tắt) tần số cao ("},{"k":"ex","t":"very high frequency","vi":")."}],"ipa":",vi:eitʃ'ef","k":"vhf"},{"h":"VHF antenna","segs":[{"k":"m","t":"ăng-ten siêu tần số."}],"k":"vhf antenna"},{"h":"VHF channel","segs":[{"k":"m","t":"kênh VHF, kênh tần số thấp."}],"k":"vhf channel"},{"h":"VHF radio","segs":[{"k":"m","t":"máy thu tần số rất cao."}],"k":"vhf radio"},{"h":"VHLL","segs":[{"k":"m","t":"(very-high-level language) ngôn ngữ bậc rất cao."}],"k":"vhll"},{"h":"vhost","segs":[{"k":"m","t":"(virtual host) chủ ảo."}],"k":"vhost"},{"h":"vhost (virtual host)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chủ ảo"}],"k":"vhost (virtual host)"},{"h":"VHPIC","segs":[{"k":"m","t":"(very high performance integrated circuit) mạch tích hợp hiệu suất rất cao."}],"k":"vhpic"},{"h":"VHS","segs":[{"k":"m","t":"(very high speed) tốc độ rất cao."}],"k":"vhs"},{"h":"VHSIC","segs":[{"k":"m","t":"(very high speed integrated circuit) mạch tích hợp tốc độ rất cao."}],"k":"vhsic"}]
+[
+  {
+    "h": "VHDL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(very-high speed integrated circuit hardware description language) ngôn ngữ mô tả phần cứng mạch tích hợp tốc độ rất cao, ngôn ngữ mô tả phần cứng VHSIC."
+      }
+    ],
+    "k": "vhdl"
+  },
+  {
+    "h": "vhf",
+    "segs": [
+      {"k": "m", "t": "(tắt) tần số cao ("},
+      {"k": "ex", "t": "very high frequency", "vi": ")."}
+    ],
+    "ipa": ",vi:eitʃ'ef",
+    "k": "vhf"
+  },
+  {"h": "VHF antenna", "segs": [{"k": "m", "t": "ăng-ten siêu tần số."}], "k": "vhf antenna"},
+  {"h": "VHF channel", "segs": [{"k": "m", "t": "kênh VHF, kênh tần số thấp."}], "k": "vhf channel"},
+  {"h": "VHF radio", "segs": [{"k": "m", "t": "máy thu tần số rất cao."}], "k": "vhf radio"},
+  {
+    "h": "VHLL",
+    "segs": [{"k": "m", "t": "(very-high-level language) ngôn ngữ bậc rất cao."}],
+    "k": "vhll"
+  },
+  {"h": "vhost", "segs": [{"k": "m", "t": "(virtual host) chủ ảo."}], "k": "vhost"},
+  {
+    "h": "vhost (virtual host)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chủ ảo"}],
+    "k": "vhost (virtual host)"
+  },
+  {
+    "h": "VHPIC",
+    "segs": [
+      {"k": "m", "t": "(very high performance integrated circuit) mạch tích hợp hiệu suất rất cao."}
+    ],
+    "k": "vhpic"
+  },
+  {"h": "VHS", "segs": [{"k": "m", "t": "(very high speed) tốc độ rất cao."}], "k": "vhs"},
+  {
+    "h": "VHSIC",
+    "segs": [{"k": "m", "t": "(very high speed integrated circuit) mạch tích hợp tốc độ rất cao."}],
+    "k": "vhsic"
+  }
+]

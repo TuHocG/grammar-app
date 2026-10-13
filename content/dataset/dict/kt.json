@@ -1,1 +1,12 @@
-[{"h":"Kt","segs":[{"k":"m","t":"(vt. của Knight) hiệp sĩ."}],"k":"kt"},{"h":"kt.","segs":[{"k":"m","t":"Viết tắt của 1. chess knight"},{"k":"m","t":"2. measurements knot"}],"k":"kt."},{"h":"ktaut","segs":[{"k":"m","t":"cải muối."}],"k":"ktaut"}]
+[
+  {"h": "Kt", "segs": [{"k": "m", "t": "(vt. của Knight) hiệp sĩ."}], "k": "kt"},
+  {
+    "h": "kt.",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. chess knight"},
+      {"k": "m", "t": "2. measurements knot"}
+    ],
+    "k": "kt."
+  },
+  {"h": "ktaut", "segs": [{"k": "m", "t": "cải muối."}], "k": "ktaut"}
+]

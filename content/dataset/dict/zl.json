@@ -1,1 +1,8 @@
-[{"h":"zloty","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"đồng zlôti (tiền Ba Lan)."}],"ipa":"'zlɔti","k":"zloty"}]
+[
+  {
+    "h": "zloty",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đồng zlôti (tiền Ba Lan)."}],
+    "ipa": "'zlɔti",
+    "k": "zloty"
+  }
+]

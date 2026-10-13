@@ -1,1 +1,32 @@
-[{"h":"iyan","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"West Africa yam paste: a paste made from pounded yams used in Nigerian cooking"}],"k":"iyan"},{"h":"Iyar","segs":[{"k":"m","t":"(số nhiều Iyars)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"2nd month of Jewish calendar: in the Jewish calendar, the second month of the religious year, lasting 29 days và falling about the same time as April to May"}],"k":"iyar"},{"h":"Iymphostasis","segs":[{"k":"m","t":"chứng ứ bạch huyết."}],"k":"iymphostasis"},{"h":"Iymphuria","segs":[{"k":"m","t":"bạch huyết niệu."}],"k":"iymphuria"},{"h":"iype equivalence","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự tương đương kiểu"}],"k":"iype equivalence"}]
+[
+  {
+    "h": "iyan",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "West Africa yam paste: a paste made from pounded yams used in Nigerian cooking"
+      }
+    ],
+    "k": "iyan"
+  },
+  {
+    "h": "Iyar",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Iyars)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "2nd month of Jewish calendar: in the Jewish calendar, the second month of the religious year, lasting 29 days và falling about the same time as April to May"
+      }
+    ],
+    "k": "iyar"
+  },
+  {"h": "Iymphostasis", "segs": [{"k": "m", "t": "chứng ứ bạch huyết."}], "k": "iymphostasis"},
+  {"h": "Iymphuria", "segs": [{"k": "m", "t": "bạch huyết niệu."}], "k": "iymphuria"},
+  {
+    "h": "iype equivalence",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự tương đương kiểu"}],
+    "k": "iype equivalence"
+  }
+]

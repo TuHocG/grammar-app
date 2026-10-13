@@ -1,1 +1,122 @@
-[{"h":"EW","segs":[{"k":"m","t":"Viết tắt của military enlisted woman"}],"k":"ew"},{"h":"EW indicator","segs":[{"k":"m","t":"(end-of-work-session indicator) bộ chỉ báo kết thúc công việc."}],"k":"ew indicator"},{"h":"EWA","segs":[{"k":"m","t":"(Erase / Write Alternate) xóa / ghi luân phiên."}],"k":"ewa"},{"h":"EWA (Erase/Write Alternate)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"xoá/ghi"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"xoá/ghi"}],"k":"ewa (erase/write alternate)"},{"h":"Ewa Beach","segs":[{"k":"m","t":"town on Oahu Island, Hawaii, west of Honolulu."},{"k":"m","t":"Dân số khoảng: 14,255 (thống kê năm 2002)"}],"k":"ewa beach"},{"h":"ewe","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(động) cừu cái."}],"ipa":"'ju:","k":"ewe"},{"h":"ewe's milk","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"sữa cừu"}],"k":"ewe's milk"},{"h":"ewe-cheese","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"pho mát sữa cừu."}],"ipa":"'ju:tʃi:z","k":"ewe-cheese"},{"h":"ewe-lamb","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"vật quí nhất."}],"ipa":"'ju:læm","k":"ewe-lamb"},{"h":"ewe-neck","segs":[{"k":"m","t":"(số nhiều ewe-necks)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"neck defect of horse or dog: a thin concave neck in a horse hoặc dog, considered to be a disadvantage"},{"k":"m","t":"-ewe-necked (tính từ)"}],"k":"ewe-neck"},{"h":"ewe-necked","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"có cổ ngẳng (ngựa)."}],"ipa":"'ju:nekt","k":"ewe-necked"},{"h":"ewenecked","segs":[{"k":"ref","t":"như ewe-necked."}],"ipa":"ˈju:nekt","k":"ewenecked"},{"h":"Ewenki","segs":[{"k":"m","t":"noun, adjective"},{"k":"m","t":"peoples language Another spelling of Evenki"}],"k":"ewenki"},{"h":"ewer","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"bình đựng nước."}],"ipa":"'ju:ə","k":"ewer"},{"h":"Ewing s sarcoma","segs":[{"k":"m","t":"loài u xương ác tính ở trẻ em và thanh niên."}],"k":"ewing s sarcoma"},{"h":"EWO","segs":[{"k":"m","t":"Viết tắt của U.K. education Educational Welfare Officer"}],"k":"ewo"},{"h":"eWorld","segs":[{"k":"m","t":"một dịch vụ máy tính trực tuyến ra đời ngày 20-6-1994, do hãng Apple Corporation thiết kế đặc biệt để dùng cho các máy Macintosh. eWorld cung cấp định giá chứng khoán, thư điện tử, các hội nghị, tin tức, thể thao, thời tiết, và các thông tin của Apple/Macintosh, như tên các cửa hàng đại lý chẳng hạn. AppleLink, một dịch vụ trực tuyến về doanh thương của hãng Apple, đã được hợp nhất với eWorld cũng cung cấp hàng loạt các cuộc hội nghị, các tệp tin, và các thông tin khác cho Macintosh."}],"k":"eworld"},{"h":"ewt","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Southern England như newt"},{"k":"m","t":"(thông tục)"}],"k":"ewt"}]
+[
+  {"h": "EW", "segs": [{"k": "m", "t": "Viết tắt của military enlisted woman"}], "k": "ew"},
+  {
+    "h": "EW indicator",
+    "segs": [{"k": "m", "t": "(end-of-work-session indicator) bộ chỉ báo kết thúc công việc."}],
+    "k": "ew indicator"
+  },
+  {
+    "h": "EWA",
+    "segs": [{"k": "m", "t": "(Erase / Write Alternate) xóa / ghi luân phiên."}],
+    "k": "ewa"
+  },
+  {
+    "h": "EWA (Erase/Write Alternate)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "xoá/ghi"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "xoá/ghi"}
+    ],
+    "k": "ewa (erase/write alternate)"
+  },
+  {
+    "h": "Ewa Beach",
+    "segs": [
+      {"k": "m", "t": "town on Oahu Island, Hawaii, west of Honolulu."},
+      {"k": "m", "t": "Dân số khoảng: 14,255 (thống kê năm 2002)"}
+    ],
+    "k": "ewa beach"
+  },
+  {
+    "h": "ewe",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(động) cừu cái."}],
+    "ipa": "'ju:",
+    "k": "ewe"
+  },
+  {
+    "h": "ewe's milk",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "sữa cừu"}],
+    "k": "ewe's milk"
+  },
+  {
+    "h": "ewe-cheese",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "pho mát sữa cừu."}],
+    "ipa": "'ju:tʃi:z",
+    "k": "ewe-cheese"
+  },
+  {
+    "h": "ewe-lamb",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "vật quí nhất."}],
+    "ipa": "'ju:læm",
+    "k": "ewe-lamb"
+  },
+  {
+    "h": "ewe-neck",
+    "segs": [
+      {"k": "m", "t": "(số nhiều ewe-necks)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "neck defect of horse or dog: a thin concave neck in a horse hoặc dog, considered to be a disadvantage"
+      },
+      {"k": "m", "t": "-ewe-necked (tính từ)"}
+    ],
+    "k": "ewe-neck"
+  },
+  {
+    "h": "ewe-necked",
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "có cổ ngẳng (ngựa)."}],
+    "ipa": "'ju:nekt",
+    "k": "ewe-necked"
+  },
+  {
+    "h": "ewenecked",
+    "segs": [{"k": "ref", "t": "như ewe-necked."}],
+    "ipa": "ˈju:nekt",
+    "k": "ewenecked"
+  },
+  {
+    "h": "Ewenki",
+    "segs": [
+      {"k": "m", "t": "noun, adjective"},
+      {"k": "m", "t": "peoples language Another spelling of Evenki"}
+    ],
+    "k": "ewenki"
+  },
+  {
+    "h": "ewer",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "bình đựng nước."}],
+    "ipa": "'ju:ə",
+    "k": "ewer"
+  },
+  {
+    "h": "Ewing s sarcoma",
+    "segs": [{"k": "m", "t": "loài u xương ác tính ở trẻ em và thanh niên."}],
+    "k": "ewing s sarcoma"
+  },
+  {
+    "h": "EWO",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. education Educational Welfare Officer"}],
+    "k": "ewo"
+  },
+  {
+    "h": "eWorld",
+    "segs": [
+      {
+        "k": "m",
+        "t": "một dịch vụ máy tính trực tuyến ra đời ngày 20-6-1994, do hãng Apple Corporation thiết kế đặc biệt để dùng cho các máy Macintosh. eWorld cung cấp định giá chứng khoán, thư điện tử, các hội nghị, tin tức, thể thao, thời tiết, và các thông tin của Apple/Macintosh, như tên các cửa hàng đại lý chẳng hạn. AppleLink, một dịch vụ trực tuyến về doanh thương của hãng Apple, đã được hợp nhất với eWorld cũng cung cấp hàng loạt các cuộc hội nghị, các tệp tin, và các thông tin khác cho Macintosh."
+      }
+    ],
+    "k": "eworld"
+  },
+  {
+    "h": "ewt",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "Southern England như newt"},
+      {"k": "m", "t": "(thông tục)"}
+    ],
+    "k": "ewt"
+  }
+]

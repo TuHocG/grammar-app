@@ -1,1 +1,32 @@
-[{"h":"dg","segs":[{"k":"m","t":"(tắt) tổng giám đốc ("},{"k":"ex","t":"director-genal) tạ ơn Chúa (Dei Gratia","vi":")."}],"ipa":"di: 'dʒi:","k":"dg"},{"h":"DG (Dei gratia)","segs":[{"k":"m","t":"Nhờ ơn Chúa"}],"k":"dg (dei gratia)"},{"h":"DG/L","segs":[{"k":"m","t":"(descriptive geometry language) ngôn ngữ hình học mô tả."}],"k":"dg/l"},{"h":"DGIS","segs":[{"k":"m","t":"(Direct Graphics Interface Specification) đặc tả giao diện đồ họa trực tiếp."}],"k":"dgis"},{"h":"DGL","segs":[{"k":"m","t":"(data generation language) ngôn ngữ tạo dữ liệu."}],"k":"dgl"}]
+[
+  {
+    "h": "dg",
+    "segs": [
+      {"k": "m", "t": "(tắt) tổng giám đốc ("},
+      {"k": "ex", "t": "director-genal) tạ ơn Chúa (Dei Gratia", "vi": ")."}
+    ],
+    "ipa": "di: 'dʒi:",
+    "k": "dg"
+  },
+  {"h": "DG (Dei gratia)", "segs": [{"k": "m", "t": "Nhờ ơn Chúa"}], "k": "dg (dei gratia)"},
+  {
+    "h": "DG/L",
+    "segs": [{"k": "m", "t": "(descriptive geometry language) ngôn ngữ hình học mô tả."}],
+    "k": "dg/l"
+  },
+  {
+    "h": "DGIS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Direct Graphics Interface Specification) đặc tả giao diện đồ họa trực tiếp."
+      }
+    ],
+    "k": "dgis"
+  },
+  {
+    "h": "DGL",
+    "segs": [{"k": "m", "t": "(data generation language) ngôn ngữ tạo dữ liệu."}],
+    "k": "dgl"
+  }
+]

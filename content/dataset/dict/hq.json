@@ -1,1 +1,11 @@
-[{"h":"hq","segs":[{"k":"m","t":"(tắt) tổng hành dinh ("},{"k":"ex","t":"headquarters","vi":")."}],"ipa":"eitʃ'kju:","k":"hq"}]
+[
+  {
+    "h": "hq",
+    "segs": [
+      {"k": "m", "t": "(tắt) tổng hành dinh ("},
+      {"k": "ex", "t": "headquarters", "vi": ")."}
+    ],
+    "ipa": "eitʃ'kju:",
+    "k": "hq"
+  }
+]

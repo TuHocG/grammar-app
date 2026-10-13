@@ -1,1 +1,36 @@
-[{"h":"bk","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"book"},{"k":"m","t":"Streamline Bk 2: Sách Streamline tập 2."}],"k":"bk"},{"h":"Bk (berkelium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"beckeli"}],"k":"bk (berkelium)"},{"h":"bk.","segs":[{"k":"m","t":"Viết tắt của 1. banking bank1"},{"k":"m","t":"2. book"}],"k":"bk."},{"h":"Bklack Power Movement","segs":[{"k":"m","t":"Một tổ chức chính quyền của người da đen hình thành từ giữa thập niên 1960. Tổ chức này đã góp phần làm tăng thêm sự xung đột của phe cánh tả và nỗi bức xúc của những người da đen thay vì phải đoàn kết với người da trắng. Những người dân da đen đã cảm thấy mình bị mất tự do. Những nhà lãnh đạo người da đen như Stokeley Camichael cũng nghĩ như vậy và cho rằng người da đen phải tập trung và đoàn kết lại để thiết lập đảng phái chính trị và kinh tế cho riêng mình. Năm 1966, Hội sinh viên (SNCC) với chủ trương đấu tranh bất bạo động đã được thành lập bởi Camichael, nhằm tập trung những sinh viên da đen. Những lãnh tụ khác như Black Panthers chủ trương bạo động và sử dụng vũ lực, nhưng tất cả đều nhằm mục đích bảo vệ quyền lợi cho người da đen. Cuộc bạo động trong thành phố xảy ra giữa thập niên 1960 đã báo trước một cuộc cách mạng của dân da đen. Tuy nhiên, các quan chức người da đen chủ trương làm giảm sự căng thẳng của phong trào này từ đầu thập niên 1970. Khi đó nhiều tổ chức người da đen đã liên kết với các nhóm da trắng để phản đối chiến tranh Việt Nam."}],"k":"bklack power movement"},{"h":"bks.","segs":[{"k":"m","t":"Viết tắt của 1. military barracks"},{"k":"m","t":"2. books"}],"k":"bks."}]
+[
+  {
+    "h": "bk",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "book"},
+      {"k": "m", "t": "Streamline Bk 2: Sách Streamline tập 2."}
+    ],
+    "k": "bk"
+  },
+  {
+    "h": "Bk (berkelium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "beckeli"}],
+    "k": "bk (berkelium)"
+  },
+  {
+    "h": "bk.",
+    "segs": [{"k": "m", "t": "Viết tắt của 1. banking bank1"}, {"k": "m", "t": "2. book"}],
+    "k": "bk."
+  },
+  {
+    "h": "Bklack Power Movement",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một tổ chức chính quyền của người da đen hình thành từ giữa thập niên 1960. Tổ chức này đã góp phần làm tăng thêm sự xung đột của phe cánh tả và nỗi bức xúc của những người da đen thay vì phải đoàn kết với người da trắng. Những người dân da đen đã cảm thấy mình bị mất tự do. Những nhà lãnh đạo người da đen như Stokeley Camichael cũng nghĩ như vậy và cho rằng người da đen phải tập trung và đoàn kết lại để thiết lập đảng phái chính trị và kinh tế cho riêng mình. Năm 1966, Hội sinh viên (SNCC) với chủ trương đấu tranh bất bạo động đã được thành lập bởi Camichael, nhằm tập trung những sinh viên da đen. Những lãnh tụ khác như Black Panthers chủ trương bạo động và sử dụng vũ lực, nhưng tất cả đều nhằm mục đích bảo vệ quyền lợi cho người da đen. Cuộc bạo động trong thành phố xảy ra giữa thập niên 1960 đã báo trước một cuộc cách mạng của dân da đen. Tuy nhiên, các quan chức người da đen chủ trương làm giảm sự căng thẳng của phong trào này từ đầu thập niên 1970. Khi đó nhiều tổ chức người da đen đã liên kết với các nhóm da trắng để phản đối chiến tranh Việt Nam."
+      }
+    ],
+    "k": "bklack power movement"
+  },
+  {
+    "h": "bks.",
+    "segs": [{"k": "m", "t": "Viết tắt của 1. military barracks"}, {"k": "m", "t": "2. books"}],
+    "k": "bks."
+  }
+]

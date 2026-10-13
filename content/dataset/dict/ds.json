@@ -1,1 +1,290 @@
-[{"h":"DS","segs":[{"k":"m","t":"(directory service) dịch vụ thư mục."}],"k":"ds"},{"h":"DS (directory service)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"dịch vụ thư mục"}],"k":"ds (directory service)"},{"h":"DS level","segs":[{"k":"m","t":"(digital signal level) mức tín hiệu số."}],"k":"ds level"},{"h":"DSA","segs":[{"k":"m","t":"1. digital Storage Architecture kiến trúc bộ nhớ dạng số. 2. distributed System Architecture kiến trúc hệ thống phân tán."}],"k":"dsa"},{"h":"DSAC","segs":[{"k":"m","t":"(data set authority credential) ủy quyền (truy cập) tập dữ liệu."}],"k":"dsac"},{"h":"DSAF","segs":[{"k":"m","t":"(destination subarea field) trường vùng con đích."}],"k":"dsaf"},{"h":"DSAP","segs":[{"k":"m","t":"(destination servicc access point) điểm truy cập dịch vụ đích."}],"k":"dsap"},{"h":"DSB (double sideband)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"dải biên kép"}],"k":"dsb (double sideband)"},{"h":"DSc","segs":[{"k":"m","t":"(tắt) Tiến sĩ khoa học ("},{"k":"ex","t":"Doctor of Science","vi":")"},{"k":"ex","t":"to have a DSc in information technology","vi":"có bằng tiến sĩ công nghệ thông tin"},{"k":"ex","t":"to be a DSc in chemistry","vi":"là tiến sĩ hóa học"},{"k":"ex","t":"Philip Jones DSc","vi":"Philip Jones, tiến sĩ khoa học."}],"ipa":",di: es 'si:","k":"dsc"},{"h":"DSCA","segs":[{"k":"m","t":"(default system control area) vùng điều khiển hệ thống mặc định."}],"k":"dsca"},{"h":"DSCB","segs":[{"k":"m","t":"(data set control block) khối điều khiển lập dữ liệu."}],"k":"dscb"},{"h":"DSCB processing","segs":[{"k":"m","t":"sự xử lý DSCB."}],"k":"dscb processing"},{"h":"DSCP","segs":[{"k":"m","t":"(data services command processor) bộ xử lý lệnh các dịch vụ dữ liệu."}],"k":"dscp"},{"h":"DSD","segs":[{"k":"m","t":"(data set definition) định nghĩa tập dữ liệu."}],"k":"dsd"},{"h":"DSDD","segs":[{"k":"m","t":"(double sided double density, dual sided double density) đĩa hai mặt có mật độ kép."}],"k":"dsdd"},{"h":"dsDNA virus","segs":[{"k":"m","t":"vi-rút chứa sợi xoắn kép ADN."}],"k":"dsdna virus"},{"h":"DSE","segs":[{"k":"m","t":"1. data set extension sự mở rộng tập dữ liệu. 2. data switching exchange thiết bị chuyển mạch dữ liệu. 3. distributed system environment môi trường hệ thống phân tán."}],"k":"dse"},{"h":"DSECT","segs":[{"k":"m","t":"(dummy control section) phần điều khiển giả."}],"k":"dsect"},{"h":"DSEE","segs":[{"k":"m","t":"(domain software engineering environment) môi trường kỹ thuật phần mềm miền."}],"k":"dsee"},{"h":"DSEG","segs":[{"k":"m","t":"(data segment) đoạn dữ liệu."}],"k":"dseg"},{"h":"DSEG (data segment)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đoạn dữ liệu"}],"k":"dseg (data segment)"},{"h":"DSEG directive","segs":[{"k":"m","t":"dẫn hướng DSEG, dẫn hướng đoạn dữ liệu."}],"k":"dseg directive"},{"h":"DSF","segs":[{"k":"m","t":"(Device Support Facilities) các phương tiện hỗ trợ thiết bị."}],"k":"dsf"},{"h":"DSI","segs":[{"k":"m","t":"(Data-Stream Interface) giao diện dòng dữ liệu."}],"k":"dsi"},{"h":"DSI gain","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"độ tăng tách DSI"}],"k":"dsi gain"},{"h":"DSID","segs":[{"k":"m","t":"(data set identification) sự nhận dạng tập dữ liệu."}],"k":"dsid"},{"h":"DSL","segs":[{"k":"m","t":"1. data setlabel nhãn tập dữ liệu. 2. digital simulation language ngôn ngữ mô phỏng số. 3. digital subscriber line đường dây thuê bao dạng số."}],"k":"dsl"},{"h":"DSLO","segs":[{"k":"m","t":"(Distributed System License Option) tùy chọn bản quyền hệ thống phân phối."}],"k":"dslo"},{"h":"DSLU","segs":[{"k":"m","t":"(DownStream Load Utility) chương trình tiện ích tải dòng hướng xuống."}],"k":"dslu"},{"h":"DSM","segs":[{"k":"m","t":"1. data services manager chương trình quản lý các dịch vụ dữ liệu. 2. data structure manager chương trình quản lý cấu trúc dữ liệu."}],"k":"dsm"},{"h":"DSN","segs":[{"k":"m","t":"(digital switched network) mạng chuyển mạch dạng số."}],"k":"dsn"},{"h":"dsname","segs":[{"k":"m","t":"(data set name) tên tập dữ liệu."}],"k":"dsname"},{"h":"DSNX","segs":[{"k":"m","t":"(Distributed System Node eXecutive) chương trình thi hành nút hệ thống phân phối."}],"k":"dsnx"},{"h":"dso","segs":[{"k":"m","t":"(tắt) Huân chương công trạng xuất sắc ("},{"k":"ex","t":"Distinguished Service Order","vi":")."}],"ipa":",di: es 'ou","k":"dso"},{"h":"DSO writer","segs":[{"k":"m","t":"chương trình ghi dữ liệu xuất trực tiếp của hệ thống."}],"k":"dso writer"},{"h":"DSP","segs":[{"k":"m","t":"1. digital signal processing sự xử lý tín hiệu số. 2. digial signal processor bộ xử lý tín hiệu số."}],"k":"dsp"},{"h":"DSP chip","segs":[{"k":"m","t":"vi mạch của hệ xử lý số tín hiệu."}],"k":"dsp chip"},{"h":"DSPL","segs":[{"k":"m","t":"(digital signal processing language) ngôn ngữ xử lý tín hiệu số."}],"k":"dspl"},{"h":"DSR","segs":[{"k":"m","t":"1. data set ready tập dữ liệu sẵn sàng. 2. dynamic service register thanh ghi dịch vụ động."}],"k":"dsr"},{"h":"DSRB","segs":[{"k":"m","t":"(data services request block) khối yêu cầu các dịch vụ dữ liệu."}],"k":"dsrb"},{"h":"DSRLST","segs":[{"k":"m","t":"(direct search list) danh sách tìm kiếm trực tiếp."}],"k":"dsrlst"},{"h":"dss","segs":[{"k":"m","t":"(tắt) bộ an sinh xã hội ("},{"k":"ex","t":"Department of Social Security","vi":")."}],"ipa":",di: es 'es","k":"dss"},{"h":"DSSD","segs":[{"k":"m","t":"(double sided single density, dual sided single density) mật độ đơn hai mặt (đĩa)."}],"k":"dssd"},{"h":"DST","segs":[{"k":"m","t":"1. data services task tác vụ các dịch vụ dữ liệu. 2. dedicated service tools công cụ dịch vụ chuyên dụng."}],"k":"dst"},{"h":"DSU","segs":[{"k":"m","t":"Xem Channel Service Unit/Data Service Unit."}],"k":"dsu"},{"h":"DSX","segs":[{"k":"m","t":"(Distributed System executive) chương trình thi hành hệ thống phân phối."}],"k":"dsx"}]
+[
+  {"h": "DS", "segs": [{"k": "m", "t": "(directory service) dịch vụ thư mục."}], "k": "ds"},
+  {
+    "h": "DS (directory service)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dịch vụ thư mục"}],
+    "k": "ds (directory service)"
+  },
+  {
+    "h": "DS level",
+    "segs": [{"k": "m", "t": "(digital signal level) mức tín hiệu số."}],
+    "k": "ds level"
+  },
+  {
+    "h": "DSA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. digital Storage Architecture kiến trúc bộ nhớ dạng số. 2. distributed System Architecture kiến trúc hệ thống phân tán."
+      }
+    ],
+    "k": "dsa"
+  },
+  {
+    "h": "DSAC",
+    "segs": [{"k": "m", "t": "(data set authority credential) ủy quyền (truy cập) tập dữ liệu."}],
+    "k": "dsac"
+  },
+  {
+    "h": "DSAF",
+    "segs": [{"k": "m", "t": "(destination subarea field) trường vùng con đích."}],
+    "k": "dsaf"
+  },
+  {
+    "h": "DSAP",
+    "segs": [{"k": "m", "t": "(destination servicc access point) điểm truy cập dịch vụ đích."}],
+    "k": "dsap"
+  },
+  {
+    "h": "DSB (double sideband)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dải biên kép"}],
+    "k": "dsb (double sideband)"
+  },
+  {
+    "h": "DSc",
+    "segs": [
+      {"k": "m", "t": "(tắt) Tiến sĩ khoa học ("},
+      {"k": "ex", "t": "Doctor of Science", "vi": ")"},
+      {
+        "k": "ex",
+        "t": "to have a DSc in information technology",
+        "vi": "có bằng tiến sĩ công nghệ thông tin"
+      },
+      {"k": "ex", "t": "to be a DSc in chemistry", "vi": "là tiến sĩ hóa học"},
+      {"k": "ex", "t": "Philip Jones DSc", "vi": "Philip Jones, tiến sĩ khoa học."}
+    ],
+    "ipa": ",di: es 'si:",
+    "k": "dsc"
+  },
+  {
+    "h": "DSCA",
+    "segs": [{"k": "m", "t": "(default system control area) vùng điều khiển hệ thống mặc định."}],
+    "k": "dsca"
+  },
+  {
+    "h": "DSCB",
+    "segs": [{"k": "m", "t": "(data set control block) khối điều khiển lập dữ liệu."}],
+    "k": "dscb"
+  },
+  {"h": "DSCB processing", "segs": [{"k": "m", "t": "sự xử lý DSCB."}], "k": "dscb processing"},
+  {
+    "h": "DSCP",
+    "segs": [
+      {"k": "m", "t": "(data services command processor) bộ xử lý lệnh các dịch vụ dữ liệu."}
+    ],
+    "k": "dscp"
+  },
+  {
+    "h": "DSD",
+    "segs": [{"k": "m", "t": "(data set definition) định nghĩa tập dữ liệu."}],
+    "k": "dsd"
+  },
+  {
+    "h": "DSDD",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(double sided double density, dual sided double density) đĩa hai mặt có mật độ kép."
+      }
+    ],
+    "k": "dsdd"
+  },
+  {
+    "h": "dsDNA virus",
+    "segs": [{"k": "m", "t": "vi-rút chứa sợi xoắn kép ADN."}],
+    "k": "dsdna virus"
+  },
+  {
+    "h": "DSE",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data set extension sự mở rộng tập dữ liệu. 2. data switching exchange thiết bị chuyển mạch dữ liệu. 3. distributed system environment môi trường hệ thống phân tán."
+      }
+    ],
+    "k": "dse"
+  },
+  {
+    "h": "DSECT",
+    "segs": [{"k": "m", "t": "(dummy control section) phần điều khiển giả."}],
+    "k": "dsect"
+  },
+  {
+    "h": "DSEE",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(domain software engineering environment) môi trường kỹ thuật phần mềm miền."
+      }
+    ],
+    "k": "dsee"
+  },
+  {"h": "DSEG", "segs": [{"k": "m", "t": "(data segment) đoạn dữ liệu."}], "k": "dseg"},
+  {
+    "h": "DSEG (data segment)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đoạn dữ liệu"}],
+    "k": "dseg (data segment)"
+  },
+  {
+    "h": "DSEG directive",
+    "segs": [{"k": "m", "t": "dẫn hướng DSEG, dẫn hướng đoạn dữ liệu."}],
+    "k": "dseg directive"
+  },
+  {
+    "h": "DSF",
+    "segs": [{"k": "m", "t": "(Device Support Facilities) các phương tiện hỗ trợ thiết bị."}],
+    "k": "dsf"
+  },
+  {
+    "h": "DSI",
+    "segs": [{"k": "m", "t": "(Data-Stream Interface) giao diện dòng dữ liệu."}],
+    "k": "dsi"
+  },
+  {
+    "h": "DSI gain",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "độ tăng tách DSI"}],
+    "k": "dsi gain"
+  },
+  {
+    "h": "DSID",
+    "segs": [{"k": "m", "t": "(data set identification) sự nhận dạng tập dữ liệu."}],
+    "k": "dsid"
+  },
+  {
+    "h": "DSL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data setlabel nhãn tập dữ liệu. 2. digital simulation language ngôn ngữ mô phỏng số. 3. digital subscriber line đường dây thuê bao dạng số."
+      }
+    ],
+    "k": "dsl"
+  },
+  {
+    "h": "DSLO",
+    "segs": [
+      {"k": "m", "t": "(Distributed System License Option) tùy chọn bản quyền hệ thống phân phối."}
+    ],
+    "k": "dslo"
+  },
+  {
+    "h": "DSLU",
+    "segs": [
+      {"k": "m", "t": "(DownStream Load Utility) chương trình tiện ích tải dòng hướng xuống."}
+    ],
+    "k": "dslu"
+  },
+  {
+    "h": "DSM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data services manager chương trình quản lý các dịch vụ dữ liệu. 2. data structure manager chương trình quản lý cấu trúc dữ liệu."
+      }
+    ],
+    "k": "dsm"
+  },
+  {
+    "h": "DSN",
+    "segs": [{"k": "m", "t": "(digital switched network) mạng chuyển mạch dạng số."}],
+    "k": "dsn"
+  },
+  {"h": "dsname", "segs": [{"k": "m", "t": "(data set name) tên tập dữ liệu."}], "k": "dsname"},
+  {
+    "h": "DSNX",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Distributed System Node eXecutive) chương trình thi hành nút hệ thống phân phối."
+      }
+    ],
+    "k": "dsnx"
+  },
+  {
+    "h": "dso",
+    "segs": [
+      {"k": "m", "t": "(tắt) Huân chương công trạng xuất sắc ("},
+      {"k": "ex", "t": "Distinguished Service Order", "vi": ")."}
+    ],
+    "ipa": ",di: es 'ou",
+    "k": "dso"
+  },
+  {
+    "h": "DSO writer",
+    "segs": [{"k": "m", "t": "chương trình ghi dữ liệu xuất trực tiếp của hệ thống."}],
+    "k": "dso writer"
+  },
+  {
+    "h": "DSP",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. digital signal processing sự xử lý tín hiệu số. 2. digial signal processor bộ xử lý tín hiệu số."
+      }
+    ],
+    "k": "dsp"
+  },
+  {"h": "DSP chip", "segs": [{"k": "m", "t": "vi mạch của hệ xử lý số tín hiệu."}], "k": "dsp chip"},
+  {
+    "h": "DSPL",
+    "segs": [{"k": "m", "t": "(digital signal processing language) ngôn ngữ xử lý tín hiệu số."}],
+    "k": "dspl"
+  },
+  {
+    "h": "DSR",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data set ready tập dữ liệu sẵn sàng. 2. dynamic service register thanh ghi dịch vụ động."
+      }
+    ],
+    "k": "dsr"
+  },
+  {
+    "h": "DSRB",
+    "segs": [{"k": "m", "t": "(data services request block) khối yêu cầu các dịch vụ dữ liệu."}],
+    "k": "dsrb"
+  },
+  {
+    "h": "DSRLST",
+    "segs": [{"k": "m", "t": "(direct search list) danh sách tìm kiếm trực tiếp."}],
+    "k": "dsrlst"
+  },
+  {
+    "h": "dss",
+    "segs": [
+      {"k": "m", "t": "(tắt) bộ an sinh xã hội ("},
+      {"k": "ex", "t": "Department of Social Security", "vi": ")."}
+    ],
+    "ipa": ",di: es 'es",
+    "k": "dss"
+  },
+  {
+    "h": "DSSD",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(double sided single density, dual sided single density) mật độ đơn hai mặt (đĩa)."
+      }
+    ],
+    "k": "dssd"
+  },
+  {
+    "h": "DST",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data services task tác vụ các dịch vụ dữ liệu. 2. dedicated service tools công cụ dịch vụ chuyên dụng."
+      }
+    ],
+    "k": "dst"
+  },
+  {"h": "DSU", "segs": [{"k": "m", "t": "Xem Channel Service Unit/Data Service Unit."}], "k": "dsu"},
+  {
+    "h": "DSX",
+    "segs": [
+      {"k": "m", "t": "(Distributed System executive) chương trình thi hành hệ thống phân phối."}
+    ],
+    "k": "dsx"
+  }
+]

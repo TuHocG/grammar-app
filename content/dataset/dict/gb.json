@@ -1,1 +1,47 @@
-[{"h":"gb","segs":[{"k":"m","t":"(tắt) nước Anh, Anh quốc ("},{"k":"ex","t":"Great Britain","vi":")."}],"ipa":",dʒi: 'bi:","k":"gb"},{"h":"GBE","segs":[{"k":"m","t":"Viết tắt của U.K. Knight hoặc Dame Grand Cross of the Order of the British Empire"}],"k":"gbe"},{"h":"GBF/DIME","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"GBF/DIME"}],"k":"gbf/dime"},{"h":"GBH","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"grievous bodily harm. tổn thương cơ thể nghiêm trọng"}],"k":"gbh"},{"h":"GBLT","segs":[{"k":"m","t":"Viết tắt của gay, bisexual, lesbian, transgender"}],"k":"gblt"},{"h":"gbps","segs":[{"k":"m","t":"(gigabits per second) số gigabit trong một giây, số gigabit trên giây."}],"k":"gbps"},{"h":"Gbyte","segs":[{"k":"m","t":"Viết tắt của comput gigabyte"}],"k":"gbyte"}]
+[
+  {
+    "h": "gb",
+    "segs": [
+      {"k": "m", "t": "(tắt) nước Anh, Anh quốc ("},
+      {"k": "ex", "t": "Great Britain", "vi": ")."}
+    ],
+    "ipa": ",dʒi: 'bi:",
+    "k": "gb"
+  },
+  {
+    "h": "GBE",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của U.K. Knight hoặc Dame Grand Cross of the Order of the British Empire"
+      }
+    ],
+    "k": "gbe"
+  },
+  {
+    "h": "GBF/DIME",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "GBF/DIME"}],
+    "k": "gbf/dime"
+  },
+  {
+    "h": "GBH",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "grievous bodily harm. tổn thương cơ thể nghiêm trọng"}
+    ],
+    "k": "gbh"
+  },
+  {
+    "h": "GBLT",
+    "segs": [{"k": "m", "t": "Viết tắt của gay, bisexual, lesbian, transgender"}],
+    "k": "gblt"
+  },
+  {
+    "h": "gbps",
+    "segs": [
+      {"k": "m", "t": "(gigabits per second) số gigabit trong một giây, số gigabit trên giây."}
+    ],
+    "k": "gbps"
+  },
+  {"h": "Gbyte", "segs": [{"k": "m", "t": "Viết tắt của comput gigabyte"}], "k": "gbyte"}
+]

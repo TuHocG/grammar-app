@@ -1,1 +1,2792 @@
-{"id":42,"code":"A 43","group":"A","n":43,"title":"A 43","first_line":"Good morning.","video":"A 43.avi","duration":2743.9,"lines":[{"e":6.39,"en":"Good morning.","vi":"Chào buổi sáng.","s":0.0},{"e":10.62,"en":"Alice, is Anne at home?","vi":"Alice, Anne có ở nhà không?","s":6.39},{"e":13.38,"en":"I just met the postman and this package is for her.","vi":"Tôi vừa mới gặp người đưa thư và kiện hàng này là của cô ấy.","s":10.62},{"e":20.01,"en":"No, she's not in now. My! What a large package!","vi":"Không, cô ấy không có ở nhà. Ồ! Ðây quả là một kiện hàng lớn!","s":13.38},{"e":25.7,"en":"Please, be careful! I think it contains fragile objects.","vi":"Làm ơn, hãy cẩn thận! Tôi nghĩ nó chứa những vật dễ vỡ.","s":20.01},{"e":27.92,"en":"Hey Peter...","vi":"Này Peter...","s":25.7},{"e":34.33,"en":"Do you know if it contains a set of porcelain plates that she won with the \"Sweet\" biscuits bonus points?","vi":"Anh có nghĩ nó chứa một bộ đĩa sứ mà cô ấy đã thắng được với điểm thưởng của bánh quy \"Sweet\" hay không?","s":27.92},{"e":39.83,"en":"Well, I think so... At least, that's where the package comes from.","vi":"Vâng, tôi nghĩ thế... Chí ít thì đó là nơi đã gửi kiện hàng đến.","s":34.33},{"e":43.98,"en":"Alright Alice, I have to go now. See you later.","vi":"Ðược rồi, Alice, tôi phải đi bây giờ. Hẹn gặp lại.","s":39.83},{"e":50.53,"en":"Anne will be so happy! She's been waiting for it for a long time! Bye!","vi":"Anne sẽ rất vui đây! Cô ấy đã đợi kiện hàng này quá lâu rồi! Tạm biệt!","s":43.98},{"e":81.34,"en":"...","vi":"...","s":50.53},{"e":88.05,"en":"Hello, Anne, this is Alice. I've got great news for you:","vi":"Xin chào, Anne, Alice đây. Tôi có tin tốt lành dành cho cô:","s":81.34},{"e":95.26,"en":"your set of Chinese porcelain has arrived! They're beautiful.","vi":"bộ đĩa sứ Trung Quốc của cô đã đến! Chúng rất đẹp.","s":88.05},{"e":103.85,"en":"No, I opened it. I'm sorry Anne, I just couldn't resist...","vi":"Không, tôi đã mở nó ra. Tôi xin lỗi, Anne, tôi không thể cưỡng lại...","s":95.26},{"e":110.54,"en":"Oh no! Anne... I'm so sorry... It broke!","vi":"Ồ không! Anne... Tôi xin lỗi... Nó đã vỡ!","s":103.85},{"e":118.49,"en":"Okay, okay. I'm not allowed to touch any more plates.","vi":"Ðược rồi, được rồi. Tôi không được phép chạm vào bất kỳ chiếc đĩa nào nữa.","s":110.54},{"e":126.82,"en":"You're absolutely right, I'm so sorry! Bye.","vi":"Cô nói đúng, tôi xin lỗi! Tạm biệt.","s":118.49},{"e":132.31,"en":"...","vi":"...","s":126.82},{"e":136.09,"en":"Jack be careful, don't touch anything!","vi":"Jack, hãy cẩn thận, đừng chạm vào bất kỳ thứ gì!","s":132.31},{"e":140.94,"en":"This packet contains Anne's set of Chinese porcelain.","vi":"Kiện hàng này chứa bộ đĩa sứ Trung Quốc của Anne.","s":136.09},{"e":143.26,"en":"I hope you didn't break anything!","vi":"Tôi hy vọng rằng anh không làm vỡ bất kỳ thứ gì!","s":140.94},{"e":149.42,"en":"I already broke a plate, and guess who heard me breaking it?","vi":"Tôi đã làm vỡ một chiếc đĩa, và đoán xem ai đã nghe tôi làm vỡ nó?","s":143.26},{"e":156.28,"en":"Anne! - Oh my... I didn't notice anything!","vi":"Anne! - Ồ lạy Chúa... Tôi chẳng chú ý điều gì cả!","s":149.42},{"e":159.55,"en":"You should look where you are going...","vi":"Anh nên nghĩ xem mình sẽ đi đâu...","s":156.28},{"e":161.91,"en":"I'm... I'm sorry.","vi":"Tôi... Tôi xin lỗi.","s":159.55},{"e":164.46,"en":"What are we going to do?","vi":"Chúng ta sẽ làm gì?","s":161.91},{"e":169.05,"en":"Well, let's get ready for Anne to lose her temper...","vi":"À, chúng ta hãy sẵn sàng đợi Anne nổi giận...","s":164.46},{"e":172.84,"en":"Who knows, maybe she'll forgive us.","vi":"Ai mà biết, có lẽ cô ấy sẽ tha thứ cho chúng ta.","s":169.05},{"e":177.85,"en":"She can't get that angry! They're just plates...","vi":"Cô ấy không thể nổi giận được! Chúng chỉ là những chiếc đĩa...","s":172.84},{"e":185.16,"en":"Remember, we can't cook... If Anne gets angry, we'll have to learn to cook!","vi":"Hãy nhớ, chúng ta không biết nấu ăn... Nếu Anne nổi giận, chúng ta sẽ phải học nấu ăn!","s":177.85},{"e":187.84,"en":"That's true...","vi":"Ðúng thế...","s":185.16},{"e":195.4,"en":"I've got an idea: let's go get something from the local Take Out place.","vi":"Tôi có ý này: chúng ta hãy đi mua gì đó từ tiệm Take Out gần đây.","s":187.84},{"e":199.61,"en":"Then we can pretend that we cooked dinner.","vi":"Sau đó, chúng ta có thể giả vờ rằng mình đã nấu bữa tối.","s":195.4},{"e":204.46,"en":"She might be happy and forget about those plates...","vi":"Cô ấy sẽ rất vui và quên đi những chiếc đĩa kia...","s":199.61},{"e":208.41,"en":"That's a great idea! Let's get going!","vi":"Ðó là một ý hay! Chúng ta hãy đi thôi!","s":204.46},{"e":213.91,"en":"...","vi":"...","s":208.41},{"e":218.8,"en":"Hello and welcome back again to your live English language programme,","vi":"Xin chào và chào mừng quay trở lại với chương trình dạy tiếng Anh trực tiếp của các bạn,","s":213.91},{"e":222.58,"en":"and I want to talk to you more about \"can\".","vi":"và tôi muốn phân tích kỹ hơn từ \"can\" với các bạn.","s":218.8},{"e":230.86,"en":"Now, how do you express \"can\" in the future or in the past?","vi":"Nào, các bạn diễn tả \"can\" ở thì tương lai hay quá khứ như thế nào?","s":222.58},{"e":235.91,"en":"\"Can\" in the future, do we say \"I will can\"?","vi":"\"Can\" ở thì tương lai, liệu chúng ta có nói: \"I will can?\" hay không?","s":230.86},{"e":239.08,"en":"What do we say in the past?","vi":"Chúng ta nói gì ở thì quá khứ?","s":235.91},{"e":243.45,"en":"Now this is interesting because it's very strange,","vi":"Nào, điều này rất thú vị, bởi lẽ nó rất kỳ lạ,","s":239.08},{"e":248.04,"en":"we use the verb \"to be able to\",","vi":"chúng ta sử dụng động từ \"to be able to,\"","s":243.45},{"e":253.29,"en":"that's what I want to look at now with you on the language screen.","vi":"đó là những gì tôi muốn tìm hiểu ngay bây giờ với các bạn trên màn hình ngôn ngữ.","s":248.04},{"e":257.3,"en":"\"To be able to\", isn't that strange?","vi":"\"To be able to,\" chẳng phải kỳ lạ lắm sao?","s":253.29},{"e":260.7,"en":"We have learned to use \"can\" in the present,","vi":"Chúng ta đã học cách sử dụng \"can\" ở thì hiện tại,","s":257.3},{"e":266.15,"en":"we've had examples like \"I can cook\", \"Can you cook?\"","vi":"chúng ta đã có những ví dụ như \"Tôi biết nấu ăn,\" \"Cô có biết nấu ăn không?\"","s":260.7},{"e":269.56,"en":"and the negative \"I can't cook\".","vi":"và thể phủ định: \"Tôi không biết nấu ăn.\"","s":266.15},{"e":275.37,"en":"Now when we talk about ability in the past everything changes,","vi":"Nào, khi chúng ta nhắc đến một khả năng trong quá khứ thì mọi thứ sẽ thay đổi,","s":269.56},{"e":279.03,"en":"and we need to use this verb \"to be able to\".","vi":"và chúng ta cần sử dụng động từ này: \"to be able to.\"","s":275.37},{"e":282.98,"en":"When that goes into the past we say","vi":"Khi ở thì quá khứ, chúng ta nói","s":279.03},{"e":290.85,"en":"\"I was able to cook yesterday\", you see the verb \"to be\" goes into the past","vi":"\"Tôi đã biết nấu ăn vào hôm qua,\" các bạn nhìn thấy động từ \"to be\" ở thì quá khứ","s":282.98},{"e":297.35,"en":"\"I was able to cook yesterday\" strange?","vi":"\"Tôi đã biết nấu ăn vào hôm qua,\" kỳ lạ chứ?","s":290.85},{"e":305.99,"en":"Another example, the question: \"Were you\" past tense of the verb \"to be\", \"Were you able to cook?\"","vi":"Một ví dụ khác, thể nghi vấn: \"Were you\" thì quá khứ của động từ \"to be,\" \"Cô có biết nấu ăn không?\"","s":297.35},{"e":311.89,"en":"and the negative is \"He wasn't able to cook\".","vi":"và thể phủ định là: \"Anh ấy không biết nấu ăn.\"","s":305.99},{"e":316.77,"en":"So \"can\" in the future, we use \"to be able to\"","vi":"Nào, \"can\" ở thì tương lai, chúng ta sử dụng \"to be able to\"","s":311.89},{"e":322.39,"en":"and in the past \"to be able to\" so \"was, were able to\".","vi":"và ở thì quá khứ \"to be able to,\" nào \"was, were able to.\"","s":316.77},{"e":328.3,"en":"The future, let's look at that now, you want to say \"can\" tomorrow,","vi":"Thì tương lai, chúng ta hãy tìm hiểu nó ngay bây giờ, các bạn muốn nói \"can\" vào ngày mai,","s":322.39},{"e":330.35,"en":"so we use \"to be able to\" and say:","vi":"nào, chúng ta sử dụng \"to be able to\" và nói:","s":328.3},{"e":338.54,"en":"\"I'll be able to cook tomorrow\", \"I will\", \"I'll\", \"I'll be able to cook tomorrow\".","vi":"\"Tôi sẽ biết nấu ăn vào ngày mai,\" \"I will\", \"I'll\", \"Tôi sẽ biết nấu ăn vào ngày mai.\"","s":330.35},{"e":344.95,"en":"The question becomes \"Will you\", \"Will you be able to cook?\"","vi":"Thể nghi vấn trở thành \"Will you,\" \"Cô sẽ biết nấu ăn chứ?\"","s":338.54},{"e":348.03,"en":"and the negative, remember the negative of \"will\"?","vi":"và thể phủ định, còn nhớ thể phủ định của \"will\" chứ?","s":344.95},{"e":355.13,"en":"Good \"I won't be able to cook tomorrow\" so isn't that interesting?","vi":"Tốt, \"Tôi sẽ không thể nấu ăn vào ngày mai,\" nào, chẳng phải điều đó rất thú vị sao?","s":348.03},{"e":360.92,"en":"When you want to express ability in the future and in the past","vi":"Khi các bạn muốn diễn tả một khả năng trong tương lai và trong quá khứ","s":355.13},{"e":365.57,"en":"you need to use this verb \"to be able to\".","vi":"các bạn cần sử dụng động từ này: \"to be able to.\"","s":360.92},{"e":371.19,"en":"Now there's one more thing I want to tell you about, and it's about permission.","vi":"Nào, còn một điều nữa mà tôi muốn nói với các bạn, và đó là sự cho phép.","s":365.57},{"e":381.26,"en":"Imagine that you are in a restaurant and you can see \"No smoking\", the person next to you starts smoking.","vi":"Hãy tưởng tượng rằng các bạn đang ở trong một nhà hàng và nhìn thấy dấu hiệu \"Không hút thuốc,\" trong khi người bên cạnh bạn lại bắt đầu hút thuốc.","s":371.19},{"e":387.87,"en":"Now, it's a rule and a regulation that you can't smoke in a restaurant.","vi":"Nào, việc các bạn không thể hút thuốc trong một nhà hàng là một quy luật, một nội quy.","s":381.26},{"e":390.94,"en":"So, what do you say to that person?","vi":"Nào, vậy các bạn nói gì với người đó?","s":387.87},{"e":399.49,"en":"In English we say \"Excuse me, you're not allowed to smoke here\",","vi":"Trong tiếng Anh, chúng ta nói: \"Thứ lỗi cho tôi, anh không được phép hút thuốc ở đây,\"","s":390.94},{"e":407.98,"en":"\"You're not allowed\" see that? \"You're not allowed\", now that pronunciation is difficult \"allowed\" ok?","vi":"\"Anh không được phép,\" nhìn thấy chứ? \"Anh không được phép,\" nào, cách phát âm rất khó, \"allowed,\" được chứ?","s":399.49},{"e":411.01,"en":"\"You're not allowed to smoke in here\".","vi":"\"Anh không được phép hút thuốc ở đây.\"","s":407.98},{"e":422.32,"en":"For example if you go to a museum often they say \"No cameras\" so \"You're not allowed to take photos\",","vi":"Ví dụ, nếu các bạn đến bảo tàng thì họ thường nói \"Không chụp ảnh,\" nào, \"Các bạn không được phép chụp ảnh,\"","s":411.01},{"e":426.17,"en":"\"You're not allowed to take photos\".","vi":"\"Các bạn không được phép chụp ảnh.\"","s":422.32},{"e":431.24,"en":"Another example, if you go into a library and people are reading...","vi":"Một ví dụ khác, nếu các bạn đến thư viện và mọi người đang đọc sách...","s":426.17},{"e":436.8,"en":"\"Silence\", \"You're not allowed to speak\".","vi":"\"Giữ im lặng,\" \"Các bạn không được phép nói chuyện.\"","s":431.24},{"e":444.52,"en":"So those are interesting things we've looked at: \"to be able to\" and the use of \"you're not allowed to\".","vi":"Nào, đó là những điều rất thú vị mà chúng ta vừa mới phân tích: \"to be able to\" và cách sử dụng \"you're not allowed to.\"","s":436.8},{"e":448.85,"en":"Great! Now we're going to go back to our friends,","vi":"Tuyệt! Nào, chúng ta hãy quay trở lại với những người bạn của mình,","s":444.52},{"e":456.07,"en":"and Anne is very angry about something, she wants to communicate something to her friends,","vi":"và Anne đang rất giận giữ về điều gì đó, cô ấy muốn trao đổi một số vấn đề với bạn bè của mình,","s":448.85},{"e":461.07,"en":"let's find out what it is, and I'll see you later, bye.","vi":"chúng ta hãy tìm hiểu xem đó là gì và tôi sẽ gặp lại các bạn sau, tạm biệt.","s":456.07},{"e":479.8,"en":"Hi, Anne!","vi":"Chào, Anne!","s":461.07},{"e":482.46,"en":"What's that you're holding?","vi":"Cô đang giữ gì vậy?","s":479.8},{"e":484.29,"en":"Hello everyone!","vi":"Chào mọi người!","s":482.46},{"e":491.91,"en":"Listen... We need some rules in this house!","vi":"Nghe này... Chúng ta cần đặt ra một số quy tắc trong nhà này!","s":484.29},{"e":496.78,"en":"Living together means obeying some rules!","vi":"Sống chung có nghĩa là phải tuân thủ một số quy tắc!","s":491.91},{"e":509.9,"en":"I've written this list of house rules that every person who spends time in this house must follow!","vi":"Tôi vừa soạn ra danh sách những quy tắc trong nhà mà bất kỳ ai sống trong nhà này đều phải tuân theo!","s":496.78},{"e":517.19,"en":"No one is allowed to leave this living room until they read and memorise these rules!","vi":"Không ai được phép rời khỏi phòng khách cho đến khi đọc xong và ghi nhớ hết những quy tắc này!","s":509.9},{"e":521.01,"en":"Bad day, huh? - She's right, Jack!","vi":"Một ngày tồi tệ, phải không? - Cô ấy nói đúng, Jack!","s":517.19},{"e":527.85,"en":"Anyway, Anne dear, what about these... house rules?","vi":"Sao cũng được, Anne thân mến, những quy tắc trong nhà này... là gì?","s":521.01},{"e":532.62,"en":"First of all, don't call me \"Anne, dear\"... Now listen:","vi":"Trước tiên, đừng gọi tôi là \"Anne thân mến\"... Giờ thì hãy nghe đây:","s":527.85},{"e":543.07,"en":"Rule No.1: You must never, and I stress \"never\", open my post.","vi":"Quy tắc số 1: Các bạn phải không bao giờ, và tôi xin nhấn mạnh rằng, \"không bao giờ,\" được mở bưu phẩm của tôi.","s":532.62},{"e":551.5,"en":"Rule No. 2: From now on, clean the house at least once a week.","vi":"Quy tắc số 2: Từ giờ trở đi, hãy lau dọn nhà cửa ít nhất một lần mỗi tuần.","s":543.07},{"e":557.91,"en":"Rule No. 3: We have to take turns washing-up.","vi":"Quy tắc số 3: Chúng ta phải thay phiên rửa bát đĩa.","s":551.5},{"e":567.25,"en":"Rule No. 4... - Okay, okay... We understand! You must be angry.","vi":"Quy tắc số 4... - Ðược rồi, được rồi... Chúng tôi hiểu rồi! Cô hẳn là rất giận.","s":557.91},{"e":572.11,"en":"Well, yes, Jack! I'm very, very angry!","vi":"Vâng, đúng vậy, Jack! Tôi rất, rất giận!","s":567.25},{"e":576.64,"en":"I was really looking forward to getting that set of Chinese plates...","vi":"Tôi thực sự trông đợi để nhận được bộ đĩa Trung Quốc đó...","s":572.11},{"e":586.43,"en":"I saved bonus points for a year, eating the same, stupid biscuits... which, for your information, I can't stand anymore!","vi":"Tôi tiết kiệm điểm thưởng trong suốt một năm, ăn cùng một loại bánh quy ngu ngốc đó... nào, cho anh biết đây, tôi không thể chịu đựng được nữa!","s":576.64},{"e":592.15,"en":"I just kept eating and buying them in order to get the set of Chinese porcelain...","vi":"Tôi liên tục ăn và mua chúng chỉ để nhận được bộ đĩa sứ Trung Quốc...","s":586.43},{"e":593.79,"en":"All for nothing!","vi":"Ðể rồi chẳng được gì cả!","s":592.15},{"e":597.09,"en":"Oh, please forgive us, Anne.","vi":"Ồ, xin tha thứ cho chúng tôi, Anne.","s":593.79},{"e":603.81,"en":"Just tell us where to go, and we'll buy you a new set!","vi":"Chỉ cần nói ở đâu và chúng tôi sẽ mua cho cô một bộ mới!","s":597.09},{"e":608.85,"en":"Well, that's not possible! They were handcrafted in Shanghai!","vi":"Nào, điều đó là bất khả thi! Chúng được làm thủ công ở Thượng Hải!","s":603.81},{"e":611.97,"en":"And they cost a fortune!","vi":"Và chúng đáng giá cả một gia tài!","s":608.85},{"e":617.63,"en":"Okay, we'll do our best to make it up... Somehow...","vi":"Ðược rồi, chúng tôi sẽ nỗ lực hết mình để bù đắp... Bằng cách nào đó...","s":611.97},{"e":622.29,"en":"Now, sit down Anne. You must be exhausted.","vi":"Nào, ngồi xuống đi Anne. Cô hẳn là kiệt sức rồi.","s":617.63},{"e":625.34,"en":"Jack and I made dinner for you!","vi":"Jack và tôi đã làm bữa tối cho cô!","s":622.29},{"e":632.4,"en":"You don't have to do anything... We thought of everything!","vi":"Cô không phải làm gì cả... Chúng tôi đã nghĩ đến mọi thứ!","s":625.34},{"e":638.45,"en":"Really? You made dinner for me?","vi":"Thực à? Các bạn đã làm bữa tối cho tôi à?","s":632.4},{"e":642.4,"en":"Yes, Anne... It was the least we could do...","vi":"Vâng, Anne... Ít nhất thì đó là điều mà chúng tôi có thể làm...","s":638.45},{"e":649.71,"en":"Well... Okay, I'll forgive you this time...","vi":"Nào... Ðược rồi, tôi sẽ tha thứ cho các bạn lần này...","s":642.4},{"e":656.42,"en":"But, I warn both of you that I want more discipline in this house!","vi":"Nhưng, tôi muốn cảnh cáo hai bạn rằng, tôi muốn trong nhà này có nhiều kỷ luật hơn nữa!","s":649.71},{"e":660.34,"en":"You can't do what you want all the time...","vi":"Các bạn không thể làm bất kỳ những gì các bạn muốn, mọi lúc mọi nơi...","s":656.42},{"e":663.83,"en":"We need some rules!","vi":"Chúng ta cần một số quy tắc!","s":660.34},{"e":667.97,"en":"Don't roll your eyes while I'm speaking to you!","vi":"Ðừng trợn mắt lên trong khi tôi đang nói với các bạn!","s":663.83},{"e":673.27,"en":"Okay, okay Anne! You're right!","vi":"Ðược rồi, được rồi Anne! Cô nói đúng!","s":667.97},{"e":679.33,"en":"Rules are important, but it's also important to laugh a little!","vi":"Các quy tắc rất quan trọng, nhưng việc cười để thư giãn cũng quan trọng không kém!","s":673.27},{"e":691.81,"en":"...","vi":"...","s":679.33},{"e":695.28,"en":"Hi and welcome back,","vi":"Xin chào và chào mừng quay trở lại,","s":691.81},{"e":698.33,"en":"this is a box which my mother sent me","vi":"đây là một chiếc hộp mà mẹ tôi đã gửi cho tôi","s":695.28},{"e":702.74,"en":"and she said there are some useful things for me, so I was just looking.","vi":"và bà ấy nói rằng trong đó có một số vật dụng có ích cho tôi, thế nên tôi sắp nhìn vào đó.","s":698.33},{"e":704.19,"en":"Come and have a look with me.","vi":"Hãy đến đây và nhìn vào cùng tôi nào.","s":702.74},{"e":709.22,"en":"...","vi":"...","s":704.19},{"e":714.22,"en":"What is this? What's this?","vi":"Cái gì đây? Cái gì đây?","s":709.22},{"e":718.97,"en":"Well it can't be a shoe, can it? It's not a shoe,","vi":"À, đó không thể là một chiếc giày, phải không? Ðó không phải là một chiếc giày,","s":714.22},{"e":721.89,"en":"can't be a shoe because it's made of metal,","vi":"không thể là một chiếc giày, bởi lẽ nó được làm bằng kim loại,","s":718.97},{"e":732.78,"en":"it's made of metal, well it might be some sort of lamp or something like,","vi":"nó được làm bằng kim loại, vâng, nó có thể là một loại đèn hay thứ gì đó đại loại như thế,","s":721.89},{"e":736.88,"en":"it looks like an Aladdin's lamp, a special lamp,","vi":"nó trông giống như một chiếc đèn của Aladdin, một chiếc đèn đặc biệt,","s":732.78},{"e":746.37,"en":"no but it can't be that... Look, here there's a sort of metal groove,","vi":"không, nhưng nó không thể là chiếc đèn... Nhìn này, ở đây có một đường rãnh kim loại,","s":736.88},{"e":749.12,"en":"probably for cigarettes, that's it,","vi":"chắc chắn là dùng cho thuốc lá, vậy đấy,","s":746.37},{"e":757.36,"en":"it must be a cigarette holder and a type of ashtray, an oriental ashtray,","vi":"đây phải là một dụng cụ chứa thuốc lá và một loại gạt tàn, một gạt tàn kiểu phương đông,","s":749.12},{"e":761.49,"en":"how unusual, that's very typical of my mother!","vi":"thật khác thường, đó là đặc điểm tiêu biểu của mẹ tôi!","s":757.36},{"e":766.29,"en":"Useful though. Now, did you see the language that I used?","vi":"Nhưng dù sao thì rất có ích. Nào, các bạn có nhận thấy ngôn ngữ mà tôi đã sử dụng hay không?","s":761.49},{"e":773.98,"en":"I said: \"It can't be a shoe\", when I say \"It can't be\" means it's impossible,","vi":"Tôi đã nói: \"Nó không thể là một chiếc giày,\" khi tôi nói \"It can't be\" thì điều đó có nghĩa là không thể,","s":766.29},{"e":779.41,"en":"it's impossible, it's too small and it's metal, so it can't be a shoe.","vi":"điều đó không thể, nó quá nhỏ và nó làm bằng kim loại, thế nên nó không thể là một chiếc giày.","s":773.98},{"e":784.14,"en":"So I'm talking about probability and possibility.","vi":"Nào, tôi đang nói đến xác suất và khả năng.","s":779.41},{"e":790.32,"en":"Then I said: \"Well it might be a magical lamp\",","vi":"Kế đến tôi đã nói: \"Vâng, đó có thể là một chiếc đèn thần,\"","s":784.14},{"e":798.43,"en":"now \"might\" is when you're not sure \"might\" is M-I-G-H-T, \"it might be a lamp\",","vi":"nào, \"might\" được sử dụng khi các bạn không chắc chắn, \"might,\" M-I-G-H-T, \"nó có thể là một chiếc đèn,\"","s":790.32},{"e":801.16,"en":"so when you're not sure you say \"might\".","vi":"nào, khi các bạn không chắc chắn, các bạn nói \"might.\"","s":798.43},{"e":807.21,"en":"Then I said \"no, no, no, no it must be an ashtray\".","vi":"Rồi tôi đã nói \"không, không, không, không, đó phải là một chiếc gạt tàn.\"","s":801.16},{"e":812.81,"en":"Now when I say \"must be\" it's because I'm absolutely sure,","vi":"Nào, khi tôi nói \"must be,\" đó là vì tôi tuyệt đối chắc chắn,","s":807.21},{"e":817.12,"en":"that the possibility of it being an ashtray is certain.","vi":"rằng khả năng đó là chiếc gạt tàn là điều chắc chắn.","s":812.81},{"e":823.96,"en":"So three possibilities \"can't be\", \"might be\" and \"must be\".","vi":"Thế nên ba khả năng: \"can't be,\" \"might be\" và \"must be.\"","s":817.12},{"e":827.65,"en":"So let's have a look at the other things in the box, ashtray...","vi":"Nào, chúng ta hãy nhìn vào những vật khác trong hộp, gạt tàn...","s":823.96},{"e":836.11,"en":"What is this? What's this? You see this?","vi":"Cái gì đây? Cái gì đây? Các bạn nhìn thấy chứ?","s":827.65},{"e":845.24,"en":"Well... It can't be... It looks like a negative from a film, doesn't it?","vi":"Nào... Không thể nào... Nó trông giống như một dạng phim âm bản, phải không?","s":836.11},{"e":850.88,"en":"No, it can't be a negative because there are no images.","vi":"Không, nó không thể là phim âm bản, bởi lẽ không có hình ảnh nào.","s":845.24},{"e":858.08,"en":"Well it might be... You know? I just don't know!","vi":"Vâng, nó có thể là... Các bạn biết chứ? Tôi thì không biết!","s":850.88},{"e":861.77,"en":"I mean it might be some sort of special sticker","vi":"Tôi nghĩ nó có thể là một dạng nhãn dán đặc biệt","s":858.08},{"e":865.43,"en":"that you put on things but it hasn't got any glue,","vi":"mà các bạn dán lên mọi thứ, nhưng nó lại không có keo,","s":861.77},{"e":870.91,"en":"I don't know what it is, just a minute, look,","vi":"tôi không biết nó là gì, hãy đợi đã, nhìn này,","s":865.43},{"e":879.61,"en":"here is something explaining it \"a forehead thermometer\",","vi":"đây là thứ được giải thích là \"một nhiệt kế trán,\"","s":870.91},{"e":884.19,"en":"\"put it on your head and it reads the temperature\", what?","vi":"\"dán nó lên trán và nó sẽ thể hiện nhiệt độ,\" cái gì?","s":879.61},{"e":888.46,"en":"Let's try that, so I put it on my head like this...","vi":"Hãy thử xem, nào, tôi dán nó lên đầu như thế này...","s":884.19},{"e":900.49,"en":"Hold it on your forehead and it tells you your temperature, let's have a look... Thirty-seven?","vi":"Giữ nó trên trán và và nó sẽ cho các bạn biết nhiệt độ của mình, chúng ta hãy nhìn xem... 37 độ?","s":888.46},{"e":905.72,"en":"That's hot! It is! It's a thermometer, incredible!","vi":"Nóng thật! Vậy đấy! Ðây là nhiệt kế, thật khó tin!","s":900.49},{"e":911.87,"en":"Now that is very useful because it's small, so interesting.","vi":"Nào, nó rất hữu ích vì có kích thước nhỏ, rất thú vị.","s":905.72},{"e":916.14,"en":"Next thing, what's this? This is... Look at this!","vi":"Vật tiếp theo, cái gì đây? Ðây là... Nhìn này!","s":911.87},{"e":924.67,"en":"Now, it's shiny and it's silver but it can't be a mirror because I can't see myself,","vi":"Nào, nó sáng chói và làm bằng bạc, nhưng nó không thể là một chiếc gương soi, bởi lẽ tôi không nhìn thấy mình trong đó,","s":916.14},{"e":930.1,"en":"can't be a mirror, what can it be? Oh I know!","vi":"không thể là một chiếc gương, vậy nó có thể là gì? Ồ, tôi biết rồi!","s":924.67},{"e":935.39,"en":"It might be for under glasses, you know what I mean?","vi":"Nó có thể là một chiếc lót ly, các bạn hiểu ý tôi chứ?","s":930.1},{"e":943.34,"en":"When you lay the table and you have glasses, sometimes you put it under to protect the tablecloth.","vi":"Khi các bạn trải khăn bàn và có ly tách bên trên, các bạn thỉnh thoảng đặt nó bên dưới để bảo vệ khăn bàn.","s":935.39},{"e":947.01,"en":"Look what I have here? So this for example.","vi":"Hãy nhìn xem tôi có gì ở đây? Nào, ví dụ đây.","s":943.34},{"e":951.21,"en":"Yeah but it's a bit strange isn't?","vi":"Vâng, nhưng nó hơi kỳ lạ, phải không?","s":947.01},{"e":956.42,"en":"I mean... no it can't be, it can't be that, really, not made of metal like this...","vi":"Ý tôi là... không, nó không thể, nó không thể là chiếc lót ly, không làm bằng kim loại như thế này...","s":951.21},{"e":963.52,"en":"It must be... I don't know again!","vi":"Nó phải là... Tôi lại không biết rồi!","s":956.42},{"e":970.86,"en":"Wait a minute, here's the box, \"a drop-stop\" a drop-stop?","vi":"Ðợi một phút, đây là chiếc hộp, \"một thiết bị chống chảy nhỏ giọt,\" chống chảy nhỏ giọt ư?","s":963.52},{"e":976.06,"en":"It must be something for pouring then, oh look, you put it...","vi":"Nó hẳn là vật dụng để rót nước, nào, ồ, nhìn này, các bạn đặt nó vào...","s":970.86},{"e":983.86,"en":"Let's try, I just... So happen to have a bottle here, and it says:","vi":"Chúng ta hãy thử xem, tôi... thật tình cờ lại có một chiếc chai ở đây, và trên hướng dẫn sử dụng nói rằng:","s":976.06},{"e":994.0,"en":"\"Put it on the bottle\" like this, a drop-stop so it stop things from dropping","vi":"\"Gắn nó vào chai\" như thế này, là một thiết bị chống chảy nhỏ giọt nên nó sẽ ngăn chất lỏng chảy nhỏ giọt","s":983.86},{"e":1000.58,"en":"and pour out the liquid and there are no drops, let's try that,","vi":"và rót chất lỏng ra, nào, không chảy nhỏ giọt, hãy thử xem,","s":994.0},{"e":1009.15,"en":"let's try... That works! It doesn't drop!","vi":"chúng ta hãy thử xem... Nó hiệu quả thật đấy! Nó không chảy nhỏ giọt!","s":1000.58},{"e":1016.11,"en":"So it must be something for stopping drops, you can see, fantastic!","vi":"Nào, hẳn đó là thứ gì đó để ngăn nước chảy nhỏ giọt, các bạn có thể thấy đấy, tuyệt vời!","s":1009.15},{"e":1021.33,"en":"My mother is a genius, she is full of amazing ideas, thanks mum.","vi":"Mẹ tôi là một thiên tài, bà ấy có đầy những ý tưởng đáng ngạc nhiên, cảm ơn mẹ.","s":1016.11},{"e":1026.48,"en":"Let me show you the language that I was using then.","vi":"Hãy để tôi chỉ cho các bạn ngôn ngữ mà tôi đã sử dụng.","s":1021.33},{"e":1032.39,"en":"We were talking about probability and possibility","vi":"Chúng ta đang nói đến các khả năng và xác suất","s":1026.48},{"e":1039.76,"en":"and, the first thing that we can talk about is when you are expressing strong probability,","vi":"và, điều đầu tiên mà chúng ta có thể nói đến là khi các bạn diễn đạt một khả năng lớn","s":1032.39},{"e":1044.53,"en":"is when you think almost certainly you know what something is,","vi":"đó là khi các bạn nghĩ rằng mình biết chắc một thứ gì đó,","s":1039.76},{"e":1048.77,"en":"so \"it must be an ashtray\",","vi":"nào, \"đó hẳn phải là một chiếc gạt tàn,\"","s":1044.53},{"e":1056.03,"en":"so when I use \"must\" I am a hundred percent sure of something \"it must be an ashtray\".","vi":"nào, khi tôi sử dụng \"must,\" tôi chắc chắn 100% về điều gì đó, \"đó hẳn phải là một chiếc gạt tàn.\"","s":1048.77},{"e":1064.07,"en":"Now if you are sure that it isn't something, that is totally improbable, one hundred percent,","vi":"Nào, nếu các bạn chắc rằng đó không phải là thứ gì đó, tức là hoàn toàn không chắc chắn, 100%,","s":1056.03},{"e":1073.29,"en":"the opposite is \"it can't be\" like that, I said \"it can't be a shoe, it's too small\".","vi":"thì cách nói ngược lại là \"it can't be,\" như thế, tôi đã nói: \"nó không thể là một chiếc giày, nó quá nhỏ.\"","s":1064.07},{"e":1079.61,"en":"So \"it must be\", \"it can't be\" and then if you're not sure about something we use,","vi":"Nào, \"it must be,\" \"it can't be,\" và tiếp theo, nếu các bạn không chắc chắn về điều gì đó, chúng ta sử dụng,","s":1073.29},{"e":1082.89,"en":"we use the simple verb \"might\",","vi":"chúng ta sử dụng động từ đơn giản: \"might,\"","s":1079.61},{"e":1086.09,"en":"look at the spelling M-I-G-H-T","vi":"hãy nhìn vào cách đánh vần M-I-G-H-T","s":1082.89},{"e":1091.24,"en":"\"it might be an incense burner\" for example.","vi":"\"đó có lẽ là một lư hương,\" ví dụ như thế.","s":1086.09},{"e":1100.66,"en":"We can also say \"it could be\", \"might\", \"could\" both express uncertain probability, alright?","vi":"Chúng ta cũng có thể nói \"it could be,\" \"might,\" \"could,\" cả hai đều diễn tả những khả năng không chắc chắn, được chứ?","s":1091.24},{"e":1105.04,"en":"So this is very useful when you are making deductions.","vi":"Nào, điều này rất có ích khi các bạn rút ra kết luận.","s":1100.66},{"e":1110.8,"en":"\"Must be\", \"it can't be\" and \"it, well... it might be\".","vi":"\"Must be,\" \"it can't be\" và \"it, vâng... it might be.\"","s":1105.04},{"e":1113.86,"en":"So those are the three verbs that we use ok?","vi":"Nào, đó là ba động từ mà chúng ta sử dụng, được chứ?","s":1110.8},{"e":1121.06,"en":"Great! So thanks mum and I'll see you again very soon, bye.","vi":"Tuyệt! Nào, cảm ơn mẹ và tôi sẽ gặp lại các bạn sớm thôi, tạm biệt.","s":1113.86},{"e":1127.68,"en":"...","vi":"...","s":1121.06},{"e":1130.8,"en":"Hi everybody, what's on TV?","vi":"Xin chào mọi người, TV chiếu gì thế?","s":1127.68},{"e":1134.31,"en":"Shh... Jack! Just a minute... It's almost finished.","vi":"Shh... Jack! Ðợi đã... Gần hết rồi.","s":1130.8},{"e":1160.14,"en":"...","vi":"...","s":1134.31},{"e":1166.54,"en":"So... What were you watching that was so engrossing?","vi":"Nào... Những gì các cô đang xem thu hút đến vậy sao?","s":1160.14},{"e":1170.32,"en":"It was an extremely interesting documentary about Picasso's life.","vi":"Ðó là một bộ phim tài liệu cực kỳ thú vị về cuộc đời của Picasso.","s":1166.54},{"e":1174.61,"en":"There were lots of details about some of his stranger habits.","vi":"Có rất nhiều chi tiết về một số thói quen kỳ lạ của ông ấy.","s":1170.32},{"e":1179.65,"en":"Did you know that Picasso preferred painting women with four eyes?","vi":"Anh có biết rằng Picasso thích vẽ phụ nữ với bốn mắt hơn hay không?","s":1174.61},{"e":1182.89,"en":"No, I had no idea...","vi":"Không, tôi không biết...","s":1179.65},{"e":1186.61,"en":"And that he had lots of different types of dogs?","vi":"Và rằng ông ấy có nhiều loại chó khác nhau không?","s":1182.89},{"e":1191.38,"en":"He used to give only dogs to his friends. Strange, isn't it?","vi":"Ông ấy thường chỉ tặng chó cho bạn bè. Kỳ lạ, phải không?","s":1186.61},{"e":1196.31,"en":"And that he liked eating Italian cake at Christmas?","vi":"Và rằng ông ấy thích ăn bánh Ý vào dịp Giáng Sinh?","s":1191.38},{"e":1203.37,"en":"Well, I also go crazy for Italian cake at Christmas, and my name isn't Picasso!","vi":"Nào, tôi cũng phát điên với bánh Ý vào dịp Giáng Sinh, và tên của tôi không phải là Picasso!","s":1196.31},{"e":1209.21,"en":"By the way, where is our resident artist, Alice?","vi":"Nhân tiện, họa sĩ trong nhà của chúng ta đâu rồi, Alice?","s":1203.37},{"e":1211.12,"en":"She left early this morning.","vi":"Cô ấy đã rời đi sáng nay.","s":1209.21},{"e":1214.55,"en":"She said that she had something important to do.","vi":"Cô ấy nói rằng mình có vài việc quan trọng phải làm.","s":1211.12},{"e":1216.69,"en":"She wouldn't tell me what...","vi":"Cô ấy không hề nói với tôi điều gì...","s":1214.55},{"e":1221.2,"en":"But she did say it was none of my business. You know how she is...","vi":"Nhưng cô ấy nói rằng đó không phải là việc của tôi. Anh biết cô ấy như thế nào rồi đấy...","s":1216.69},{"e":1225.68,"en":"That's strange... She usually leaves late...","vi":"Kỳ lạ thật... Cô ấy thường rời đi khá muộn...","s":1221.2},{"e":1231.13,"en":"Well... As a matter of fact, she was very serious this morning.","vi":"À... Thực tế thì cô ấy rất nghiêm túc vào sáng nay.","s":1225.68},{"e":1235.35,"en":"She told me she had a headache, but I didn't believe her.","vi":"Cô ấy nói với tôi rằng mình bị đau đầu, nhưng tôi không tin cô ấy.","s":1231.13},{"e":1241.69,"en":"Oh look: but it's getting late!","vi":"Ồ, nhìn này: muộn rồi đấy!","s":1235.35},{"e":1246.39,"en":"I'm starting to get worried.","vi":"Tôi bắt đầu cảm thấy lo lắng.","s":1241.69},{"e":1251.73,"en":"Don't play \"mom\", Anne! Alice is a big girl now...","vi":"Ðừng chơi trò \"mẹ,\" Anne! Alice là một cô gái trưởng thành rồi...","s":1246.39},{"e":1258.01,"en":"I know... I know... But it's just that she didn't tell me she would be late...","vi":"Tôi biết... Tôi biết... Nhưng vấn đề là cô ấy không hề nói rằng mình sẽ về muộn...","s":1251.73},{"e":1261.89,"en":"In fact she asked me if I would be late today...","vi":"Trong thực tế, cô ấy còn hỏi liệu tôi có về muộn hôm nay không...","s":1258.01},{"e":1268.26,"en":"Just a moment... A few days ago Alice told me that she wanted to enter a painting contest.","vi":"Ðợi đã... Cách đây vài ngày, Alice nói với tôi rằng cô ấy muốn tham gia một cuộc thi vẽ tranh.","s":1261.89},{"e":1271.2,"en":"She said she thought it was her big chance...","vi":"Cô ấy nói rằng đó là cơ hội lớn dành cho cô ấy...","s":1268.26},{"e":1273.91,"en":"Maybe that's where she is today.","vi":"Có lẽ cô ấy đã ở đó ngày hôm nay.","s":1271.2},{"e":1278.14,"en":"Well, you're probably right...","vi":"Vâng, có lẽ cô nói đúng...","s":1273.91},{"e":1287.44,"en":"But, but it's almost midnight. I don't think contests last that long.","vi":"Nhưng, nhưng gần nửa đêm rồi. Tôi không nghĩ rằng các cuộc thi lại kéo dài đến vậy.","s":1278.14},{"e":1291.95,"en":"Why not? We all know that artists are a little crazy!","vi":"Tại sao không? Tất cả chúng ta đều biết các họa sĩ đều khá lười biếng mà!","s":1287.44},{"e":1295.21,"en":"Picasso was a perfect example!","vi":"Picasso là một ví dụ điển hình!","s":1291.95},{"e":1301.07,"en":"That's true! You know something about being crazy, Jack, don't you?","vi":"Ðúng thế! Anh biết rõ việc trở nên điên rồ là thế nào mà, Jack, phải không?","s":1295.21},{"e":1310.04,"en":"Hello again!","vi":"Xin chào lần nữa!","s":1301.07},{"e":1317.32,"en":"Did you hear them talking about Picasso, some interesting things about him.","vi":"Các bạn có nghe họ nói chuyện về Picasso, đôi điều thú vị về ông ấy, hay không?","s":1310.04},{"e":1322.96,"en":"They said he used to give only dogs to his friends,","vi":"Họ đã nói rằng ông ấy thường chỉ tặng chó cho bạn bè,","s":1317.32},{"e":1330.2,"en":"he used to give only dogs and he used to eat Italian cake at Christmas.","vi":"ông ấy thường chỉ tặng chó và ông ấy thường ăn bánh Ý vào dịp Giáng Sinh.","s":1322.96},{"e":1338.64,"en":"Now this verb \"used to\", well it's written U-S-E-D","vi":"Nào, động từ này, \"used to,\" vâng, nó được viết là U-S-E-D","s":1330.2},{"e":1344.28,"en":"but the pronunciation is \"used\" and we'll see that on the screen later.","vi":"nhưng cách phát âm là \"used,\" và chúng ta sẽ nhìn nó trên màn hình sau.","s":1338.64},{"e":1350.31,"en":"And we use it to talk about habits that people have had in the past","vi":"Và chúng ta sử dụng nó để nhắc đến những thói quen mà mọi người từng có trong quá khứ","s":1344.28},{"e":1353.9,"en":"and now don't have anymore.","vi":"và hiện giờ không còn nữa.","s":1350.31},{"e":1363.33,"en":"And to illustrate this I have some, here, some examples of habits that I have had in the past,","vi":"Và để minh họa điều này, tôi có ở đây một số ví dụ về những thói quen mà tôi đã từng có trong quá khứ,","s":1353.9},{"e":1371.2,"en":"for example this, this is a cigarette, well \"I used to smoke\".","vi":"ví dụ, đây là điếu thuốc, vâng, \"tôi từng hút thuốc.\"","s":1363.33},{"e":1376.19,"en":"Now that means that I did smoke in the past but I don't smoke anymore,","vi":"Nào, điều đó có nghĩa rằng tôi đã hút thuốc trong quá khứ, nhưng tôi không còn hút thuốc nữa,","s":1371.2},{"e":1380.73,"en":"I stopped the habit, \"I used to smoke\".","vi":"tôi đã ngừng thói quen đó, \"tôi từng hút thuốc.\"","s":1376.19},{"e":1387.31,"en":"Look at this tennis racket, \"I used to play tennis\",","vi":"Hãy nhìn chiếc vợt tennis này, \"tôi từng chơi tennis,\"","s":1380.73},{"e":1391.41,"en":"I was quite good actually, \"I used to play tennis\"","vi":"thực tế thì tôi chơi khá giỏi, \"tôi từng chơi tennis\"","s":1387.31},{"e":1396.03,"en":"but then I stopped, I didn't have enough time, too much work,","vi":"nhưng rồi tôi đã ngừng chơi, tôi không có đủ thời gian, quá nhiều công việc,","s":1391.41},{"e":1400.46,"en":"you know how it is... Now look at this, look at this,","vi":"các bạn biết như thế nào rồi đấy... Nào, hãy nhìn đây, hãy nhìn đây,","s":1396.03},{"e":1410.48,"en":"this is fur, I used to wear this in England, it's a fur,","vi":"đây là chiếc áo lông thú, tôi đã từng mặc nó ở Anh, đó là một chiếc áo lông thú,","s":1400.46},{"e":1412.74,"en":"you know F-U-R, this,","vi":"các bạn biết F-U-R rồi đấy, đây,","s":1410.48},{"e":1416.62,"en":"I used to wear it in England but then I stopped","vi":"Tôi từng mặc nó ở Anh nhưng rồi tôi đã thôi sử dụng nó","s":1412.74},{"e":1421.84,"en":"because now in England people spit, spit at you if you wear fur.","vi":"bởi lẽ hiện giờ ở Anh thì mọi người sẽ phỉ nhổ, phỉ nhổ vào bạn nếu như bạn mặc áo lông thú.","s":1416.62},{"e":1425.7,"en":"So that is a habit I have definitely stopped.","vi":"Nào, đó là một thói quen mà tôi chắc chắn đã không còn.","s":1421.84},{"e":1433.75,"en":"Now these, these are vitamins, now, I didn't use to take vitamins in the past,","vi":"Nào, đây, đây là những viên vitamin, nào, tôi đã không sử dụng vitamin trong quá khứ,","s":1425.7},{"e":1438.65,"en":"I didn't use to, but then my mother, you know my mother's fantastic,","vi":"Tôi đã không sử dụng, nhưng rồi mẹ tôi, các bạn biết đấy, mẹ tôi rất tuyệt vời,","s":1433.75},{"e":1445.31,"en":"she explained how useful they can be, so now I do, but in the past I didn't use to.","vi":"bà ấy đã giải thích chúng hữu ích như thế nào, thế nên bây giờ tôi đã sử dụng, nhưng trong quá khứ thì tôi không sử dụng chúng.","s":1438.65},{"e":1448.42,"en":"And this opera, yeah another thing, opera,","vi":"Và vở nhạc kịch này, vâng, một thứ khác, vở nhạc kịch,","s":1445.31},{"e":1456.7,"en":"I didn't use to listen to opera but now I just love it, so I listen to it a lot.","vi":"tôi từng không quen nghe nhạc kịch, nhưng hiện giờ tôi rất thích nó, thế nên tôi nghe nhạc kịch rất nhiều.","s":1448.42},{"e":1461.77,"en":"So there were some examples for you of \"used to\",","vi":"Nào, đó là một số ví dụ dành cho các bạn đối với động từ \"used to,\"","s":1456.7},{"e":1465.43,"en":"let's go and look at the different forms on the board now.","vi":"chúng ta hãy nhìn lên những cấu trúc khác nhau trên màn hình ngay bây giờ.","s":1461.77},{"e":1472.86,"en":"So when we speak about habits that we had in the past and we don't have now,","vi":"Nào, khi chúng ta nhắc đến những thói quen mà mình từng có trong quá khứ và bây giờ không còn nữa,","s":1465.43},{"e":1475.31,"en":"we use \"used to\".","vi":"chúng ta sử dụng \"used to.\"","s":1472.86},{"e":1481.31,"en":"Look at the spelling U-S-E-D and then T-O","vi":"Hãy nhìn vào cách đánh vần, U-S-E-D và sau đó là T-O","s":1475.31},{"e":1489.15,"en":"but the pronunciation is not \"used\" it's \"used\", unusual \"used\" ok?","vi":"nhưng cách phát âm không phải là \"used\" mà là \"used,\" \"used\" không bình thường, được chứ?","s":1481.31},{"e":1493.06,"en":"So the example is \"I used to smoke\"","vi":"Nào, ví dụ là \"Tôi từng hút thuốc\"","s":1489.15},{"e":1495.37,"en":"and that's for all the subject forms","vi":"và cấu trúc đó dành cho tất cả hình thái chủ ngữ","s":1493.06},{"e":1501.23,"en":"I used to, you used to, he used to, she used to, we used to, they used to, ok?","vi":"I used to, you used to, he used to, she used to, we used to, they used to, được chứ?","s":1495.37},{"e":1508.64,"en":"So \"I used to smoke\", \"I used to play tennis\", \"I used to wear fur\".","vi":"Nào, \"tôi từng hút thuốc,\" \"tôi từng chơi tennis,\" \"tôi từng mặc áo lông thú.\"","s":1501.23},{"e":1512.5,"en":"Pronunciation \"used\".","vi":"Phát âm, \"used.\"","s":1508.64},{"e":1520.11,"en":"Now in the negative we use the auxiliary \"did\" so \"I didn't use\",","vi":"Nào, ở thể phủ định, chúng ta sử dụng trợ động từ \"did,\" nào, \"tôi đã không sử dụng,\"","s":1512.5},{"e":1523.72,"en":"notice we take off the D because it's the infinitive,","vi":"để ý rằng chúng ta loại bỏ D, bởi lẽ đó là động từ nguyên mẫu,","s":1520.11},{"e":1531.97,"en":"\"I didn't use to take vitamins\" and \"I didn't use to listen to the opera\"","vi":"\"Tôi đã không sử dụng vitamin\" và \"tôi đã từng không quen nghe nhạc kịch\"","s":1523.72},{"e":1538.83,"en":"and the question form is easy, it's \"Did you use to do a lot of sports?\"","vi":"và thể nghi vấn rất dễ, đó là \"Cô có từng chơi nhiều môn thể thao hay không?\"","s":1531.97},{"e":1545.24,"en":"\"Did you use to stay in bed until midday?\" I remember that.","vi":"\"Cô có từng nằm ngủ nướng trên giường cho đến nửa ngày hay không?\" tôi vẫn còn nhớ điều đó.","s":1538.83},{"e":1548.24,"en":"So if you think about your lives","vi":"Nào, nếu các bạn nghĩ đến cuộc sống của mình","s":1545.24},{"e":1553.66,"en":"and about habits that you had in the past and you don't have now,","vi":"và về những thói quen mà các bạn đã có trong quá khứ, và các bạn hiện không còn nữa,","s":1548.24},{"e":1557.53,"en":"when you talk about those to people, that's what you use.","vi":"thì khi các bạn nói đến những thói quen đó với mọi người, cấu trúc \"used to\" chính là những gì các bạn sử dụng.","s":1553.66},{"e":1562.49,"en":"\"I used to smoke but I don't anymore\",","vi":"\"Tôi từng hút thuốc nhưng tôi không còn hút nữa,\"","s":1557.53},{"e":1567.47,"en":"\"I used to play tennis, but now I'm too busy\" alright?","vi":"\"Tôi từng chơi tennis, nhưng hiện giờ tôi quá bận,\" được chứ?","s":1562.49},{"e":1573.22,"en":"So very important for describing past habits \"used to\". Great!","vi":"Nào, rất quan trọng để mô tả những thói quen trong quá khứ, \"used to.\" Tuyệt!","s":1567.47},{"e":1577.63,"en":"That's the lesson for now and I'll see you again very soon, bye!","vi":"Ðó là tất cả bài học cho bây giờ và tôi sẽ gặp lại các bạn rất sớm thôi, tạm biệt!","s":1573.22},{"e":1594.42,"en":"Good morning, Alice.","vi":"Chào buổi sáng, Alice.","s":1577.63},{"e":1598.47,"en":"Where were you last night?","vi":"Cô đã ở đâu đêm qua?","s":1594.42},{"e":1602.26,"en":"We were getting worried...","vi":"Chúng tôi đã rất lo lắng...","s":1598.47},{"e":1606.5,"en":"Good morning. I'd prefer not to talk about it...","vi":"Chào buổi sáng. Tôi không muốn nói đến điều đó...","s":1602.26},{"e":1609.37,"en":"Why, what happened?","vi":"Tại sao, chuyện gì đã xảy ra?","s":1606.5},{"e":1613.76,"en":"Well, I took part in a young artists competition...","vi":"Vâng, tôi đã tham gia vào một cuộc thi dành cho các họa sĩ trẻ...","s":1609.37},{"e":1618.13,"en":"I thought it would be the perfect occasion for me to show my talent!","vi":"Tôi nghĩ đó là cơ hội tốt để tôi thể hiện tài năng của mình!","s":1613.76},{"e":1626.86,"en":"So, how did it go? You made a great impression, didn't you?","vi":"Vâng, mọi việc diễn ra thế nào? Cô đã tạo được ấn tượng tốt, phải không?","s":1618.13},{"e":1629.29,"en":"Well, no...","vi":"À, không...","s":1626.86},{"e":1637.2,"en":"It went badly. They said that I wasn't cut out to be an artist.","vi":"Mọi việc diễn ra rất tồi tệ. Họ nói rằng tôi không có năng khiếu để trở thành họa sĩ.","s":1629.29},{"e":1641.32,"en":"But the jury was made up of incompetents...","vi":"Nhưng ban giám khảo lại chỉ toàn những kẻ thiếu năng lực....","s":1637.2},{"e":1645.14,"en":"Maybe no one appreciates my talent!","vi":"Có lẽ không ai đánh giá cao tài năng của tôi!","s":1641.32},{"e":1648.92,"en":"Come on Alice, don't take it so badly.","vi":"Thôi nào, Alice, đừng nghiêm trọng thế.","s":1645.14},{"e":1654.94,"en":"You know you are a genius, right? That's all that matters!","vi":"Cô biết rõ mình là một thiên tài mà, phải không? Ðó mới là điều quan trọng!","s":1648.92},{"e":1664.72,"en":"Yes, just like Van Gogh... who, by the way, only became famous after he had died.","vi":"Vâng, cũng giống như Van Gogh... nào, người chỉ nổi tiếng sau khi ông ấy qua đời.","s":1654.94},{"e":1667.99,"en":"Maybe that's my destiny...","vi":"Có lẽ đó là số phận của tôi...","s":1664.72},{"e":1676.07,"en":"Maybe, you're exaggerating just a little bit...","vi":"Có lẽ, cô hơi cường điệu...","s":1667.99},{"e":1679.8,"en":"I mean, Van Gogh?!","vi":"Ý tôi là, Van Gogh ấy à?!","s":1676.07},{"e":1685.06,"en":"But you don't really think you're in the same league, do you?","vi":"Nhưng cô không thực sự nghĩ rằng mình cùng đẳng cấp với ông ấy chứ, phải không?","s":1679.8},{"e":1689.6,"en":"And why not?! No one appreciates my talent either!","vi":"Và tại sao không nào?! Không ai đánh giá cao tài năng của tôi cả!","s":1685.06},{"e":1697.5,"en":"Anyway, I want your opinions! Wait just a moment while I get something...","vi":"Sao cũng được, tôi muốn biết quan điểm của các bạn! Hãy đợi một lát trong lúc tôi lấy một thứ...","s":1689.6},{"e":1710.56,"en":"My Goodness!","vi":"Lạy Chúa!","s":1697.5},{"e":1718.0,"en":"Here you go! This is the painting I took along yesterday.","vi":"Ðây này! Ðây là bức tranh mà tôi đã mang theo ngày hôm qua.","s":1710.56},{"e":1723.98,"en":"What do you think? Isn't it beautiful?","vi":"Các bạn nghĩ gì? Nó không đẹp à?","s":1718.0},{"e":1737.75,"en":"It's... It's interesting! It's a very... A very unique painting, yes...","vi":"Nó... Nó rất thú vị! Ðó là một bức tranh rất... rất độc đáo, vâng...","s":1723.98},{"e":1740.89,"en":"Unique is the right word.","vi":"Ðộc đáo là từ thích hợp.","s":1737.75},{"e":1747.72,"en":"Hum... Alice... You know I don't really understand art, don't you?","vi":"Nào... Alice... Cô biết đấy, tôi thực sự không hiểu nghệ thuật cho lắm, đúng không?","s":1740.89},{"e":1750.65,"en":"What does it represent?","vi":"Nó tượng trưng điều gì vậy?","s":1747.72},{"e":1754.41,"en":"That's the same question they asked me yesterday.","vi":"Ðó cũng là câu hỏi mà họ đã hỏi tôi ngày hôm qua.","s":1750.65},{"e":1759.89,"en":"I can't believe that! It's so clear!","vi":"Tôi không thể tin nổi điều đó! Nó quá rõ ràng!","s":1754.41},{"e":1767.26,"en":"It's a painting of a man and a woman walking hand in hand!","vi":"Ðó là bức tranh về một người đàn ông và một người phụ nữ đang dạo bước tay trong tay!","s":1759.89},{"e":1772.62,"en":"Oh... I see...","vi":"Ồ... tôi hiểu...","s":1767.26},{"e":1782.02,"en":"Well, the truth is, it's a bit difficult to see... I mean,","vi":"Nào, thực tế thì, nó hơi khó thấy... ý tôi là vậy,","s":1772.62},{"e":1790.59,"en":"at first glance... It looks like a whole lot of mixed-up colours...","vi":"thoạt nhìn... Nó trông giống như một mớ màu sắc lẫn lộn...","s":1782.02},{"e":1796.57,"en":"Come on Jack, you just don't understand abstract art, do you?","vi":"Thôi nào, Jack, anh chỉ không hiểu nghệ thuật trừu tượng thôi, phải không?","s":1790.59},{"e":1804.07,"en":"Well, now I understand that neither of you has any appreciation of fine art!","vi":"Vâng, giờ thì tôi hiểu rằng cả hai bạn đều không có sự trân trọng nào dành cho mỹ thuật!","s":1796.57},{"e":1817.56,"en":"Oh, artists! Never tell an artist what you really think!","vi":"Ôi, các họa sĩ! Ðừng bao giờ nói cho một họa sĩ biết bạn thực sự nghĩ gì!","s":1804.07},{"e":1823.05,"en":"...","vi":"...","s":1817.56},{"e":1827.14,"en":"Hello again to you and welcome back for some more English,","vi":"Xin chào các bạn lần nữa và chào mừng quay trở lại với một số cấu trúc tiếng Anh khác,","s":1823.05},{"e":1834.15,"en":"did you hear in that last episode how Anne said to Alice \"So how did it go?","vi":"các bạn có nghe trong đoạn vừa rồi Anne đã nói với Alice rằng \"Mọi việc diễn ra như thế nào?","s":1827.14},{"e":1837.84,"en":"You made a great impression, didn't you?\",","vi":"Cô đã tạo một ấn tượng tốt, phải không?\",","s":1834.15},{"e":1841.75,"en":"\"You made a great impression, didn't you?\"","vi":"\"Cô đã tạo một ấn tượng tốt, phải không?\"","s":1837.84},{"e":1844.89,"en":"Do you remember that grammatical form?","vi":"Các bạn còn nhớ cấu trúc ngữ pháp đó không?","s":1841.75},{"e":1850.31,"en":"\"Didn't you?\". A question... question tag?","vi":"\"Din't you?\". Một câu hỏi... câu hỏi đuôi?","s":1844.89},{"e":1854.17,"en":"Yeah? Remember we did a lesson about this","vi":"Vâng? Hãy nhớ chúng ta đã từng có một bài học về cấu trúc này","s":1850.31},{"e":1860.53,"en":"and the example we used was \"She's unhappy, isn't she?\"","vi":"và ví dụ mà chúng ta đã sử dụng là \"Cô ấy không hạnh phúc, phải không?\"","s":1854.17},{"e":1863.73,"en":"Do you remember that? Yes?","vi":"Các bạn còn nhớ chứ? Vâng?","s":1860.53},{"e":1865.85,"en":"I want to give you a little test on it,","vi":"Tôi muốn thử kiểm tra các bạn về cấu trúc đó,","s":1863.73},{"e":1870.98,"en":"and in order to do this well you have to be very careful","vi":"và để làm điều này, vâng, các bạn cần phải rất cẩn thận","s":1865.85},{"e":1874.47,"en":"about your auxiliaries so pay attention.","vi":"đối với các trợ động từ của mình, nào, hãy chú ý.","s":1870.98},{"e":1880.64,"en":"Number one: \"You're married...\", question tag","vi":"Thứ nhất: \"Cô đã kết hôn...,\" câu hỏi đuôi","s":1874.47},{"e":1889.26,"en":"\"You're married, aren't you?\", did you get that right?","vi":"\"Cô đã kết hôn, phải không?\", bạn có thấy câu đó đúng không?","s":1880.64},{"e":1890.46,"en":"Wrong? Difficult?","vi":"Sai? Khó?","s":1889.26},{"e":1894.72,"en":"Do you remember \"You are married\" you take the verb, the auxiliary,","vi":"Các bạn có còn nhớ \"Cô đã kết hôn,\" các bạn lấy động từ, trợ động từ,","s":1890.46},{"e":1902.0,"en":"and at the beginning it's positive so you turn it into negative \"You're married, aren't you?\".","vi":"và lúc ban đầu thì câu này ở thể khẳng định, thế nên các bạn chuyển nó sang thể phủ định, \"Cô đã kết hôn, phải không?\"","s":1894.72},{"e":1906.75,"en":"Try this: \"You didn't go to the party...\",","vi":"Hãy thử câu này: \"Anh không đến dự buổi tiệc...\"","s":1902.0},{"e":1911.32,"en":"\"didn't\" is negative, becomes positive","vi":"\"didn't\" là thể phủ định, trở thành khẳng định","s":1906.75},{"e":1916.34,"en":"\"You didn't go the party, did you?\", great!","vi":"\"Anh không đến dự buổi tiệc, phải không?\" tuyệt!","s":1911.32},{"e":1922.34,"en":"Next one: \"He lives in Paris\", \"He lives in Paris\",","vi":"Tiếp theo: \"Anh ấy sống ở Paris,\" \"Anh ấy sống ở Paris,\"","s":1916.34},{"e":1927.65,"en":"lives, simple present, auxiliary?","vi":"sống, thì hiện tại đơn, trợ động từ?","s":1922.34},{"e":1933.67,"en":"Yeah! \"Doesn't he?\", \"He lives in Paris, doesn't he?\".","vi":"Vâng! \"Doesn't he?\", \"Anh ấy sống ở Paris, phải không?\".","s":1927.65},{"e":1940.41,"en":"\"They aren't French\" aren't...","vi":"\"Họ không phải người Pháp,\" aren't...","s":1933.67},{"e":1945.57,"en":"\"They aren't French\", positive... \"are they?\", great!","vi":"\"Họ không phải người Pháp,\" khẳng định... \"are they?\", tuyệt!","s":1940.41},{"e":1948.32,"en":"Next one: \"She went to the cinema\",","vi":"Tiếp theo: \"Cô ấy đã đến rạp phim,\"","s":1945.57},{"e":1956.31,"en":"\"She went to the cinema\" auxiliary... past tense... \"didn't she?\",","vi":"\"Cô ấy đã đến rạp phim,\" trợ động từ... thì quá khứ... \"didn't she?\",","s":1948.32},{"e":1959.99,"en":"\"She went to the cinema, didn't she?\" alright?","vi":"\"Cô ấy đã đến rạp phim, phải không?\" được chứ?","s":1956.31},{"e":1962.41,"en":"\"You don't like him\",","vi":"\"Bạn không thích anh ấy,\"","s":1959.99},{"e":1970.93,"en":"\"You don't like him\" negative... \"do you?\", \"You don't like him, do you?\", great,","vi":"\"Bạn không thích anh ấy,\" thể phủ định... \"do you?\", \"Bạn không thích anh ấy, phải không?\", tuyệt!","s":1962.41},{"e":1974.05,"en":"\"They were enjoying the show\"","vi":"\"Họ đang thưởng thức buổi diễn\"","s":1970.93},{"e":1981.62,"en":"\"They were enjoying the show\" past continuous... \"weren't they?\"","vi":"\"Họ đang thưởng thức buổi diễn,\" thì quá khứ tiếp diễn... \"weren't they?\"","s":1974.05},{"e":1984.77,"en":"They were, weren't they, great!","vi":"They were, weren't they, tuyệt!","s":1981.62},{"e":1991.81,"en":"\"He's coming tomorrow\", \"isn't he?\",","vi":"\"Anh ấy sẽ đến vào ngày mai,\" \"isn't he?\"","s":1984.77},{"e":1994.34,"en":"great, you're getting better all the time.","vi":"tuyệt, các bạn đang tiến bộ đấy.","s":1991.81},{"e":2004.15,"en":"\"They'll be late\", \"They'll be late\" will... will... \"won't they?\",","vi":"\"Họ sẽ đến muộn,\" \"Họ sẽ đến muộn\" will... will... \"won't they?\",","s":1994.34},{"e":2006.11,"en":"\"They'll be late, won't they?\".","vi":"\"Họ sẽ đến muộn, phải không?\".","s":2004.15},{"e":2010.15,"en":"And the last one: \"We can't buy it\",","vi":"Và ví dụ cuối cùng: \"Chúng ta không thể mua nó,\"","s":2006.11},{"e":2016.59,"en":"\"We can't buy it... can we?\"","vi":"\"Chúng ta không thể mua nó... phải không?\"","s":2010.15},{"e":2022.76,"en":"So, it's negative and positive \"We can't buy it, can we\". Well done!","vi":"Nào, đó là thể phủ định và khẳng định, \"Chúng ta không thể mua nó, phải không?\". Làm tốt lắm.","s":2016.59},{"e":2024.25,"en":"You know these are difficult,","vi":"Các bạn biết đấy, những cấu trúc này rất khó,","s":2022.76},{"e":2032.43,"en":"only if you know your auxiliary verbs can you do these question tags, so congratulations, we're making progress.","vi":"chỉ khi hiểu rõ các trợ động từ thì các bạn mới có thể làm những câu hỏi đuôi này, nào, xin chúc mừng, chúng ta đang tiến bộ đấy.","s":2024.25},{"e":2036.12,"en":"Great, so I'll see you in the next lesson very soon,","vi":"Tuyệt, nào, tôi sẽ gặp lại các bạn trong bài học tiếp theo sớm thôi,","s":2032.43},{"e":2039.3,"en":"take care and enjoy studying, bye!","vi":"bảo trọng và tận hưởng việc học nhé, tạm biệt!","s":2036.12},{"e":2043.55,"en":"Good morning,","vi":"Chào buổi sáng,","s":2039.3},{"e":2047.0,"en":"welcome to this week's edition of \"Climate Change\".","vi":"chào mừng đến với chương trình tuần này của \"Thay đổi khí hậu.\"","s":2043.55},{"e":2050.81,"en":"In the studio with me is our weather expert Susan Ferley.","vi":"Trong phim trường cùng tôi là chuyên gia thời tiết của chúng ta, Susan Ferley.","s":2047.0},{"e":2052.02,"en":"Good morning Eric.","vi":"Chào buổi sáng, Eric.","s":2050.81},{"e":2056.38,"en":"Well Susan, there's a lot of talk these days about climate change.","vi":"Nào, Susan, có rất nhiều cuộc bàn tán ngày nay về sự thay đổi khí hậu.","s":2052.02},{"e":2059.07,"en":"Could you explain exactly what is happening?","vi":"Cô có thể giải thích chính xác những gì đang xảy ra được không?","s":2056.38},{"e":2066.37,"en":"Of course. You know the first thing to stress is that the earth's climate is always changing.","vi":"Tất nhiên. Các bạn biết đấy, điều đầu tiên cần nhấn mạnh là khí hậu của trái đất luôn thay đổi.","s":2059.07},{"e":2070.14,"en":"In the past this happened due to natural causes.","vi":"Trong quá khứ, điều này đã xảy ra do các nguyên nhân tự nhiên.","s":2066.37},{"e":2074.85,"en":"I mean, the atmosphere and the earth's climate changed naturally.","vi":"Ý tôi là bầu khí quyển và khí hậu trái đất đã thay đổi một cách tự nhiên.","s":2070.14},{"e":2076.79,"en":"Now things are different.","vi":"Bây giờ, mọi thứ đã trở nên khác biệt.","s":2074.85},{"e":2084.26,"en":"Scientists believe that climate change today is a result of man's activities, our activities.","vi":"Các nhà khoa học tin rằng khí hậu ngày nay thay đổi là kết quả của các hoạt động của con người, các hoạt động của chúng ta.","s":2076.79},{"e":2089.15,"en":"And why are scientists so worried about this climate change?","vi":"Và tại sao các nhà khoa học lại lo lắng đến sự thay đổi khí hậu đến như vậy?","s":2084.26},{"e":2096.94,"en":"Well, before I answer that question I'd like to talk a little about what we call the greenhouse effect.","vi":"Nào, trước khi tôi trả lời câu hỏi đó, tôi muốn nói đôi điều về những gì được chúng ta gọi là hiệu ứng nhà kính.","s":2089.15},{"e":2101.15,"en":"Certainly, scientists often talk about the greenhouse effect.","vi":"Hẳn rồi, các nhà khoa học thường nhắc đến hiệu ứng nhà kính.","s":2096.94},{"e":2102.7,"en":"What is this exactly?","vi":"Chính xác thì đó là gì?","s":2101.15},{"e":2107.11,"en":"The \"greenhouse effect\" is very important for the world's weather.","vi":"\"Hiệu ứng nhà kính\" rất quan trọng đối với thời tiết thế giới.","s":2102.7},{"e":2112.7,"en":"Greenhouse gases help to capture the energy we receive from the sun.","vi":"Các khí nhà kính giúp củng cố cho nguồn năng lượng mà chúng ta nhận được từ mặt trời.","s":2107.11},{"e":2114.75,"en":"They keep the earth warm.","vi":"Chúng giữ cho trái đất ấm áp.","s":2112.7},{"e":2121.33,"en":"Without these gases the world would be a colder place, and our lives would be very different.","vi":"Nếu thiếu những khí này thì thế giới sẽ trở thành một nơi lạnh lẽo, và cuộc sống của chúng ta có thể trở nên rất khác biệt.","s":2114.75},{"e":2125.41,"en":"Well, if the greenhouse effect is so useful for the earth,","vi":"Vâng, nếu hiệu ứng nhà kính có ích cho trái đất như vậy,","s":2121.33},{"e":2129.58,"en":"why do scientists talk about it nowadays as if it's something dangerous?","vi":"thì tại sao các nhà khoa học hiện đang nhắc đến nó như thể đó là một vấn đề gây nguy hiểm?","s":2125.41},{"e":2133.38,"en":"It's the extra greenhouse gases that are dangerous!","vi":"Chính lượng khí nhà kính dư thừa mới nguy hiểm!","s":2129.58},{"e":2142.41,"en":"Our way of life, cars, factories, central heating, is producing too much of these greenhouse gases.","vi":"Cách sống của chúng ta, ô tô, nhà máy, hệ thống sưởi ấm trung tâm, tất cả đang tạo ra quá nhiều những loại khí nhà kính này.","s":2133.38},{"e":2149.08,"en":"These gases are trapping more and more of the sun's energy and the world's becoming warmer.","vi":"Những loại khí này ngày càng thu hút nhiều hơn năng lượng mặt trời và thế giới đang dần trở nên ấm hơn.","s":2142.41},{"e":2152.3,"en":"Is carbon dioxide one of these gases?","vi":"Carbon dioxide có phải là một trong những loại khí này không?","s":2149.08},{"e":2158.93,"en":"Yes, carbon dioxide, co2, is one of the main greenhouse gases.","vi":"Vâng, carbon dioxide, CO2, là một trong những loại khí nhà kính chủ yếu.","s":2152.3},{"e":2164.5,"en":"Carbon dioxide is produced when we burn coal and natural gas.","vi":"Carbon dioxide được tạo ra khi chúng ta đốt than và khí tự nhiên.","s":2158.93},{"e":2172.95,"en":"The problem is that over the years the concentration of carbon dioxide in the atmosphere has increased enormously.","vi":"Vấn đề là trải qua năm tháng, sự tập trung carbon dioxide trên bầu khí quyển đã gia tăng đáng kể.","s":2164.5},{"e":2178.53,"en":"So, to stop global warming we need to use less coal and natural gases?","vi":"Nào, để chấm dứt sự ấm lên toàn cầu, chúng ta cần sử dụng ít than hơn và khí tự nhiên hơn, đúng không?","s":2172.95},{"e":2181.62,"en":"Exactly! but not only that!","vi":"Chính xác! Nhưng không chỉ có thế!","s":2178.53},{"e":2186.94,"en":"We also need to plant more trees and we must stop destroying our forests","vi":"Chúng ta còn cần phải trồng nhiều cây hơn và phải thôi phá rừng","s":2181.62},{"e":2190.86,"en":"because they take carbon dioxide out of the air.","vi":"bởi lẽ chúng sẽ giúp loại bỏ carbon dioxide ra khỏi không khí.","s":2186.94},{"e":2192.97,"en":"Is there anything else we can do?","vi":"Liệu chúng ta còn có thể làm gì khác nữa?","s":2190.86},{"e":2199.49,"en":"Well, governments around the world need to encourage the use of renewable energy sources.","vi":"À, các chính phủ trên khắp thế giới cần phải khuyến khích sử dụng các nguồn năng lượng có thể tái tạo.","s":2192.97},{"e":2203.02,"en":"Solar panels can use the sun's energy,","vi":"Các tấm pin mặt trời có thể sử dụng năng lượng mặt trời,","s":2199.49},{"e":2206.99,"en":"wind turbines can generate electricity from the wind","vi":"các tua bin gió có thể tạo ra điện năng từ gió","s":2203.02},{"e":2212.76,"en":"and hydroelectric power plants can use water to generate electricity.","vi":"và các nhà máy thủy điện có thể sử dụng nước để tạo ra điện năng.","s":2206.99},{"e":2216.9,"en":"Renewable energy is becoming popular today, isn't it?","vi":"Năng lượng có thể tái tạo đang dần trở nên phổ biến hôm nay, phải không?","s":2212.76},{"e":2220.41,"en":"Yes, it is, but there's still a long way to go.","vi":"Vâng, đúng thế, nhưng chúng ta vẫn còn rất nhiều việc phải làm.","s":2216.9},{"e":2227.47,"en":"Ok, Susan one last question, what are the consequences of climate change?","vi":"Ok, Susan, một câu hỏi cuối cùng, đâu là những hệ quả của sự thay đổi khí hậu?","s":2220.41},{"e":2231.35,"en":"Well, higher average temperatures around the world.","vi":"Vâng, nhiệt độ trung bình cao hơn trên khắp thế giới.","s":2227.47},{"e":2237.33,"en":"You know even a small change in temperature, even a one degree increase,","vi":"Các bạn biết đấy, thậm chí một sự thay đổi nhỏ của nhiệt độ, thậm chí chỉ cần một độ tăng thêm,","s":2231.35},{"e":2245.04,"en":"can cause the sea level to rise as the polar ice caps melt, in fact this is already happening.","vi":"cũng có thể khiến mực nước biển tăng lên vì các khối băng ở cực bị tan chảy, thực tế thì đây là những gì đã xảy ra rồi.","s":2237.33},{"e":2247.19,"en":"Other consequences?","vi":"Còn các hệ quả khác?","s":2245.04},{"e":2254.53,"en":"More rainfall in some parts of the world and less in others, more extreme weather conditions,","vi":"Lượng mưa nhiều hơn ở một số khu vực trên thế giới và ít hơn ở một số khu vực khác, những điều kiện thời tiết khắc nghiệt hơn,","s":2247.19},{"e":2257.17,"en":"stronger hurricanes and typhoons.","vi":"những cơn bão và cuồng phong mạnh hơn.","s":2254.53},{"e":2260.08,"en":"So this is definitely a serious issue!","vi":"Nào, đây hẳn là một vấn đề nghiêm trọng!","s":2257.17},{"e":2265.25,"en":"We mustn't underestimate the importance of climate change and we need to use more renewable energy.","vi":"Chúng ta không được đánh giá thấp tầm quan trọng của sự thay đổi khí hậu, và chúng ta cần phải sử dụng nhiều năng lượng có thể tái tạo hơn.","s":2260.08},{"e":2269.47,"en":"Well, thanks to Susan for your clear explanation of the problems.","vi":"Vâng, cảm ơn Susan vì sự giải thích rõ ràng của cô về các vấn đề.","s":2265.25},{"e":2271.11,"en":"Thank you, goodbye.","vi":"Cảm ơn, tạm biệt.","s":2269.47},{"e":2277.92,"en":"And goodbye and see you again next week for another edition of \"Climate Change\".","vi":"Tạm biệt và hẹn gặp lại các bạn tuần tới trong một chương trình khác của \"Thay đổi khí hậu.\"","s":2271.11},{"e":2284.58,"en":"Ok, now let's have a look at all the terms and expressions we used to talk about the weather","vi":"Ok, nào, chúng ta hãy nhìn vào tất cả những thuật ngữ và cách diễn đạt mà chúng tôi đã sử dụng để nói về thời tiết","s":2277.92},{"e":2286.51,"en":"and climate change.","vi":"cũng như sự thay đổi khí hậu.","s":2284.58},{"e":2291.95,"en":"Firstly, \"climate change\" is the term we use for the changes to the world's weather.","vi":"Thứ nhất, \"sự thay đổi khí hậu\" là thuật ngữ mà chúng ta sử dụng để mô tả những thay đổi đối với thời tiết trên thế giới.","s":2286.51},{"e":2297.07,"en":"For example higher temperatures and more rainfall.","vi":"Ví dụ, nhiệt độ cao hơn hoặc lượng mưa nhiều hơn.","s":2291.95},{"e":2303.27,"en":"\"Rainfall\" is how much rain there is, the volume of rain that falls.","vi":"\"Lượng mưa\" là mức độ mưa, lượng nước mưa rơi xuống.","s":2297.07},{"e":2307.27,"en":"And I finally understand what the \"Greenhouse effect\" is!","vi":"Và cuối cùng thì tôi đã hiểu \"hiệu ứng nhà kính\" là gì!","s":2303.27},{"e":2315.24,"en":"Well, a \"greenhouse\" is a transparent house, usually made of glass, where we grow plants.","vi":"Vâng, \"nhà kính\" là một ngôi nhà trong suốt, thường được làm bằng kính, trong đó chúng ta trồng cây.","s":2307.27},{"e":2317.87,"en":"It gets very hot in a greenhouse!","vi":"Bên trong nhà kính rất nóng!","s":2315.24},{"e":2324.41,"en":"In fact the \"Greenhouse effect\" is the gases in the atmosphere that trap the sun's energy,","vi":"Thực tế thì \"hiệu ứng nhà kính\" là các khí trong bầu khí quyển hấp thu năng lượng mặt trời,","s":2317.87},{"e":2328.11,"en":"causing an increase in temperature of the world.","vi":"gây ra sự gia tăng nhiệt độ của thế giới.","s":2324.41},{"e":2333.63,"en":"This is what we call \"global warming\", the world becoming hotter.","vi":"Ðây là những gì mà chúng ta gọi là \"sự ấm lên toàn cầu,\" thế giới dần trở nên nóng hơn.","s":2328.11},{"e":2339.4,"en":"\"The atmosphere\" is word for the gases that cover the world.","vi":"\"Bầu khí quyển\" là từ chỉ những loại khí đang bao phủ thế giới.","s":2333.63},{"e":2345.59,"en":"The main gases are nitrogen, oxygen and carbon dioxide.","vi":"Các loại khí chính bao gồm ni tơ, oxy và carbon dioxide.","s":2339.4},{"e":2350.32,"en":"Now carbon dioxide is one of the main greenhouse gases,","vi":"Nào, carbon dioxide là một trong những khí nhà kính chủ yếu,","s":2345.59},{"e":2354.25,"en":"these are the gases responsible for the Greenhouse effect.","vi":"đây là những loại khí chịu trách nhiệm chính đối với hiệu ứng nhà kính.","s":2350.32},{"e":2359.25,"en":"The carbon dioxide in the atmosphere is increasing due to man's activities","vi":"Carbon dioxide trong bầu khí quyển đang gia tăng vì các hoạt động của con người","s":2354.25},{"e":2362.0,"en":"so we have to do something to reduce it.","vi":"thế nên chúng ta phải làm gì đó để giảm thiểu nó.","s":2359.25},{"e":2367.17,"en":"We use the expression \"due to\" to say \"as a result of\".","vi":"Chúng ta sử dụng cách diễn đạt \"due to\" để nói thay cho \"as a result of.\"","s":2362.0},{"e":2372.23,"en":"Susan said we should use more renewable energy sources.","vi":"Susan nói rằng chúng ta nên sử dụng nhiều nguồn năng lượng có thể tái tạo hơn.","s":2367.17},{"e":2377.72,"en":"\"Renewable energy\" is energy from the sun, the wind and water.","vi":"\"Năng lượng có thể tái tạo\" là năng lượng từ mặt trời, gió và nước.","s":2372.23},{"e":2387.63,"en":"For example solar panels generate electricity from the sun and wind turbines generate electricity from the wind.","vi":"Ví dụ, các tấm pin mặt trời phát ra điện năng từ mặt trời, còn các tua bin gió phát ra điện năng từ gió.","s":2377.72},{"e":2391.44,"en":"The verb \"to generate\" means \"to make\".","vi":"Ðộng từ \"generate\" có nghĩa là \"make.\"","s":2387.63},{"e":2399.23,"en":"Well, renewable energy is becoming popular today which is good but there's still a long way to go!","vi":"Nào, năng lượng có thể tái tạo đang dần trở nên phổ biến ngày nay, nhưng chúng ta còn rất nhiều việc phải làm!","s":2391.44},{"e":2402.1,"en":"This expression \"there's a long way to go\"","vi":"Cách diễn đạt này \"there's a long way to go\"","s":2399.23},{"e":2407.66,"en":"means that there is still a lot we have to do before we reach our objective,","vi":"có nghĩa rằng còn rất nhiều việc chúng ta phải làm trước khi đạt được mục tiêu của mình,","s":2402.1},{"e":2410.37,"en":"which is to reduce global warming.","vi":"vốn là làm giảm sự ấm lên toàn cầu.","s":2407.66},{"e":2414.76,"en":"We've run out of time so that's all for now, see you soon!","vi":"Chúng ta đang dần cạn thời gian, thế nên đó là tất cả những gì cần nói bây giờ, hẹn gặp lại các bạn sớm!","s":2410.37},{"e":2418.98,"en":"Welcome to \"Cooking Today\"!","vi":"Chào mừng đến với \"Nấu ăn ngày nay!\"","s":2414.76},{"e":2424.22,"en":"All homemakers will be thrilled to know that we are back with Lisa French!","vi":"Tất cả các bà nội trợ sẽ rất hào hứng để biết rằng chúng ta sẽ quay lại với Lisa French!","s":2418.98},{"e":2428.29,"en":"Thank you for inviting us into your lovely home once again, Lisa.","vi":"Cảm ơn vì đã mời chúng tôi đến ngôi nhà đáng yêu của cô một lần nữa, Lisa.","s":2424.22},{"e":2429.88,"en":"I'm glad to have you.","vi":"Tôi rất vui để mời cô.","s":2428.29},{"e":2436.71,"en":"Now, Lisa, Leslie Forbes, from New Castle on Tyne, is desperate.","vi":"Nào, Lisa, Leslie Forbes, từ New Castle ở Tyne, đang tuyệt vọng.","s":2429.88},{"e":2439.98,"en":"Her family's always complaining about her cooking.","vi":"Gia đình cô ấy luôn phàn nàn về khả năng nấu nướng của cô ấy.","s":2436.71},{"e":2443.53,"en":"They say it's really... yucky!","vi":"Họ nói rằng nó thực sự... kinh tởm!","s":2439.98},{"e":2446.2,"en":"And they sneak out to get junk food!","vi":"Và họ lẻn ra ngoài để kiếm thức ăn nhanh!","s":2443.53},{"e":2449.09,"en":"How can she make her meals more appetizing?","vi":"Làm sao để cô ấy có thể khiến bữa ăn của mình trở nên ngon hơn?","s":2446.2},{"e":2453.69,"en":"Well... actually, it's just a matter of good meal planning.","vi":"Vâng... thực ra thì đó chỉ là vấn đề đối với việc lập kế hoạch cho một bữa ăn ngon.","s":2449.09},{"e":2455.97,"en":"That sounds rather serious!","vi":"Nghe có vẻ nghiêm trọng đấy!","s":2453.69},{"e":2459.87,"en":"Yes, it is... but it can also be a fun challenge!","vi":"Vâng, đúng thế... nhưng đó cũng có thể là một thử thách thú vị!","s":2455.97},{"e":2468.99,"en":"This means preparing food that's healthy as well as appealing and involves the senses, such as smell, taste, and sight.","vi":"Ðiều này có nghĩa là chuẩn bị thức ăn lành mạnh cũng như hấp dẫn và kích thích các giác quan, chẳng hạn như ngửi, nếm và nhìn.","s":2459.87},{"e":2473.1,"en":"Is that why they say: \"Your eyes are bigger than your stomach?\"","vi":"Ðó có phải là lý do khiến họ nói rằng: \"Con mắt lớn hơn cái bụng không?\"","s":2468.99},{"e":2474.72,"en":"Not exactly.","vi":"Không hẳn thế.","s":2473.1},{"e":2480.47,"en":"Now, getting serious, when you say healthy, you're referring to nutrition, aren't you?","vi":"Nào, nghiêm túc, khi cô nói lành mạnh, có phải cô đang nhắc đến vấn đề dinh dưỡng không?","s":2474.72},{"e":2485.22,"en":"Yes, of course. Nutrition is the key to good health!","vi":"Vâng, tất nhiên. Dinh dưỡng là bí quyết dành cho một sức khỏe tốt!","s":2480.47},{"e":2493.65,"en":"As a matter of fact, nutritionists agree that a varied diet is fundamental for physical and mental well-being.","vi":"Thực tế thì các chuyên gia dinh dưỡng cũng đồng ý rằng một chế độ ăn uống đa dạng là nền tảng cho một sức khỏe thể chất và tinh thần tốt.","s":2485.22},{"e":2498.44,"en":"What are the correct guidelines to good nutrition?","vi":"Vậy đâu là những chỉ dẫn đúng đắn cho một chế độ dinh dưỡng tốt?","s":2493.65},{"e":2502.72,"en":"As you can see... I have an example of a food pyramid here.","vi":"Như cô có thể thấy... Tôi có ví dụ về một tháp thức ăn ở đây.","s":2498.44},{"e":2510.19,"en":"These six main food groups contain the nutrients essential to a well-balanced diet.","vi":"Ðây là sáu nhóm thức ăn chính, chứa các thành phần dinh dưỡng thiết yếu cho một chế độ ăn uống cân bằng.","s":2502.72},{"e":2511.89,"en":"Why a pyramid?","vi":"Tại sao lại là tháp?","s":2510.19},{"e":2517.5,"en":"Because it enables us to understand the correct number of servings per day.","vi":"Vì nó cho phép chúng ta hiểu rõ số lượng khẩu phần chính xác mỗi ngày.","s":2511.89},{"e":2518.79,"en":"Can you give an example?","vi":"Cô có thể nêu ví dụ không?","s":2517.5},{"e":2526.53,"en":"Certainly. You see, the largest group includes bread, cereals, rice and pasta.","vi":"Hẳn rồi. Cô thấy đấy, nhóm lớn nhất bao gồm bánh mì, ngũ cốc, gạo và mì ống.","s":2518.79},{"e":2533.48,"en":"Then, going up the pyramid, you find fruits and vegetables, then meats and dairy products.","vi":"Kế đến, đi lên phía trên của tháp, cô sẽ tìm thấy trái cây và rau quả, kế đến là thịt và các sản phẩm làm từ sữa.","s":2526.53},{"e":2534.65,"en":"What's at the top?","vi":"Thế cái gì trên đỉnh?","s":2533.48},{"e":2541.23,"en":"You mean here? These are fats, oils and sweets which, although essential to the diet,","vi":"Cô nói ở đây à? Ðây là các chất béo, dầu và đồ ngọt, dù rất quan trọng đối với chế độ ăn uống,","s":2534.65},{"e":2543.58,"en":"must be eaten in moderate quantities.","vi":"nhưng phải được ăn với liều lượng chừng mực.","s":2541.23},{"e":2550.39,"en":"Now, going back to Leslie's request, how can she make tasty meals for her family?","vi":"Nào, quay trở lại với yêu cầu của Leslie, làm sao cô ấy có thể khiến bữa ăn của mình ngon hơn cho gia đình?","s":2543.58},{"e":2554.89,"en":"If she hasn't much time for shopping, she can make a weekly plan.","vi":"Nếu cô ấy không có nhiều thời gian để mua sắm thì cô ấy có thể lập kế hoạch tuần.","s":2550.39},{"e":2561.72,"en":"Besides a correct diet, she must consider the likes and dislikes of her family.","vi":"Bên cạnh một chế độ ăn uống hợp lý, cô ấy phải cân nhắc những điều thích và không thích trong gia đình của mình.","s":2554.89},{"e":2568.76,"en":"You're telling me! In my family my son hated beans, and my daughter was allergic at the milk!","vi":"Cô nhắc cho tôi nhớ! Trong gia đình tôi, con trai tôi ghét đậu, còn con gái tôi lại dị ứng với sữa!","s":2561.72},{"e":2570.67,"en":"That's a common problem.","vi":"Ðó là một vấn đề phổ biến.","s":2568.76},{"e":2576.98,"en":"The thing is to compensate with food belonging to the same group or supplements.","vi":"Vấn đề ở đây là tìm cách bù đắp bằng những thức ăn khác thuộc cùng nhóm hoặc thành phần bổ sung.","s":2570.67},{"e":2579.09,"en":"Really? That's good to know.","vi":"Thực vậy à? Thật tuyệt để biết đấy.","s":2576.98},{"e":2587.55,"en":"A little secret, if you truly enjoy preparing meals, then your family will probably enjoy eating them.","vi":"Một bí mật nhỏ, nếu cô thực sự thích chuẩn bị các bữa ăn thì gia đình của cô chắc chắn sẽ thưởng thức chúng một cách hào hứng.","s":2579.09},{"e":2591.17,"en":"How can I get my family to enjoy my cooking?","vi":"Làm sao để tôi khiến gia đình mình thích việc nấu ăn của tôi?","s":2587.55},{"e":2592.96,"en":"Just be creative!","vi":"Chỉ cần sáng tạo!","s":2591.17},{"e":2598.76,"en":"Think like an artist, play with the colours, shapes and textures of food.","vi":"Hãy suy nghĩ như một nghệ sĩ, hãy chơi đùa với các màu sắc, hình thể và cấu trúc của thức ăn.","s":2592.96},{"e":2602.46,"en":"Oh my gosh! How time flies!","vi":"Ôi, lạ thật! Thời gian trôi qua mới nhanh làm sao!","s":2598.76},{"e":2604.09,"en":"We've got to wind this up!","vi":"Chúng ta cần phải kết thúc chương trình ở đây!","s":2602.46},{"e":2610.04,"en":"Lisa, thank you for inviting us into your home again, it's been a pleasure being here.","vi":"Lisa, cảm ơn cô vì đã mời chúng tôi đến nhà cô lần nữa, việc được đứng đây quả là một hân hạnh.","s":2604.09},{"e":2611.4,"en":"Thank you for coming.","vi":"Cảm ơn vì đã đến.","s":2610.04},{"e":2617.96,"en":"And now, let's pay attention to some expressions used in the dialogue.","vi":"Và bây giờ, chúng ta hãy chú ý đến một số cách diễn đạt đã được sử dụng trong cuộc đàm thoại.","s":2611.4},{"e":2625.76,"en":"We've talked about \"meals\": \"breakfast\" in the morning, \"lunch\" at noon, \"dinner\", or in the US, \"supper\", at night.","vi":"Chúng tôi đã nhắc đến \"các bữa ăn\": \"bữa sáng\" vào buổi sáng, \"bữa trưa\" vào buổi trưa, \"bữa tối,\" hoặc theo tiếng Mỹ, \"supper,\" vào buổi tối.","s":2617.96},{"e":2631.28,"en":"In the US a dinner is the main meal of the day, even at lunchtime.","vi":"Ở Mỹ thì bữa tối là bữa ăn chính trong ngày, cho dù diễn ra trong giờ trưa.","s":2625.76},{"e":2636.64,"en":"Notice that in the UK \"tea\" is sometimes used instead of \"dinner\".","vi":"Ðể ý rằng ở Anh, \"dùng trà\" đôi khi được sử dụng thay cho \"bữa tối.\"","s":2631.28},{"e":2643.95,"en":"When we refer to specific times during the day, we can say \"lunch time\", \"tea time\".","vi":"Khi chúng ta nhắc đến những thời điểm cụ thể trong ngày, chúng ta có thể nói: \"giờ trưa,\" \"giờ dùng trà.\"","s":2636.64},{"e":2649.39,"en":"Lisa showed a \"food pyramid\": it contains \"food groups\",","vi":"Lisa đã cho thấy một \"tháp thức ăn\": nó bao gồm \"các nhóm thức ăn,\"","s":2643.95},{"e":2655.79,"en":"such as \"cereals\", \"meats\", \"dairy products\" (milk, cheese, yoghurt),","vi":"chẳng hạn như \"ngũ cốc,\" \"thịt,\" \"các sản phẩm làm từ sữa\" (sữa, phó mát, yaourt),","s":2649.39},{"e":2659.15,"en":"\"fats and oils\" and \"vegetables\".","vi":"\"các chất béo và dầu,\" và \"rau quả.\"","s":2655.79},{"e":2662.65,"en":"All these foods contain nutrients.","vi":"Tất cả những thức ăn này đều chứa chất dinh dưỡng.","s":2659.15},{"e":2667.95,"en":"Then, some positive adjectives used to define food are:","vi":"Kế đến, một số tính từ xác định được sử dụng để định nghĩa thức ăn là:","s":2662.65},{"e":2674.47,"en":"\"appetizing\" and \"healthy\", while \"yucky\" is something rather disgusting!","vi":"\"ngon miệng\" và \"lành mạnh,\" trong khi \"kinh tởm\" lại là một tính từ khá phản cảm!","s":2667.95},{"e":2681.92,"en":"Moreover, the expression \"junk food\" refers to food which is not considered healthy at all!","vi":"Hơn nữa, cách diễn đạt \"thức ăn nhanh\" đề cập đến những thức ăn không được xem là lành mạnh chút nào!","s":2674.47},{"e":2685.98,"en":"We say \"diet\" to indicate what we eat;","vi":"Chúng ta nói \"chế độ ăn uống\" để chỉ ra những gì mình ăn;","s":2681.92},{"e":2691.07,"en":"it also means a series of rules to be followed to improve one's health.","vi":"nó cũng có nghĩa là một chuỗi những quy tắc cần tuân theo để cải thiện sức khỏe của ai đó.","s":2685.98},{"e":2696.05,"en":"If we want to lose weight, we say \"I'm on a diet\".","vi":"Nếu muốn giảm cân thì chúng ta nói: \"Tôi đang ăn kiêng.\"","s":2691.07},{"e":2701.11,"en":"A diet is correct when it's \"varied\", or \"well-balanced\".","vi":"Chế độ ăn uống được xem là hợp lý khi nó \"đa dạng\" hoặc \"cân bằng.\"","s":2696.05},{"e":2709.51,"en":"If you're \"allergic\" to a type of food eating that food can make you ill or cause skin problems.","vi":"Nếu các bạn \"dị ứng\" với một loại thức ăn nào đó thì việc ăn nhằm thức ăn đó có thể khiến bạn ngã bệnh hoặc gây nên các vấn đề trên da.","s":2701.11},{"e":2715.44,"en":"Lisa talked about \"texture\" of food, for example, food can be defined:","vi":"Lisa đã nhắc đến \"cấu trúc\" của thức ăn, ví dụ, thức ăn có thể được định nghĩa như sau:","s":2709.51},{"e":2726.23,"en":"\"soft\", \"crispy\", \"crusty\"; or \"shape\": food can be cut into \"slices\", \"cubes\" and \"rings\".","vi":"\"mềm,\" \"giòn,\" \"cứng\"; hoặc \"hình dạng\": thức anh có thể được cắt nhỏ thành \"lát,\" \"khối,\" và \"vòng.\"","s":2715.44},{"e":2730.9,"en":"During the interview, I quoted a common way of expressing","vi":"Trong buổi phỏng vấn, tôi đã sử dụng một câu nói phổ biến","s":2726.23},{"e":2736.61,"en":"that somebody has put more food on their plate than they're actually able to eat:","vi":"khi ai đó cho thức ăn vào đĩa của họ nhiều hơn những gì họ thực sự có thể ăn hết:","s":2730.9},{"e":2740.17,"en":"\"Your eyes are bigger than your stomach\".","vi":"\"Con mắt lớn hơn cái bụng.\"","s":2736.61},{"e":2743.95,"en":"All right, that's all this week. Bye, bye.","vi":"Ðược chứ, đó là tất cả cho tuần này. Tạm biệt.","s":2740.17}]}
+{
+  "id": 42,
+  "code": "A 43",
+  "group": "A",
+  "n": 43,
+  "title": "A 43",
+  "first_line": "Good morning.",
+  "video": "A 43.avi",
+  "duration": 2743.9,
+  "lines": [
+    {"e": 6.39, "en": "Good morning.", "vi": "Chào buổi sáng.", "s": 0.0},
+    {"e": 10.62, "en": "Alice, is Anne at home?", "vi": "Alice, Anne có ở nhà không?", "s": 6.39},
+    {
+      "e": 13.38,
+      "en": "I just met the postman and this package is for her.",
+      "vi": "Tôi vừa mới gặp người đưa thư và kiện hàng này là của cô ấy.",
+      "s": 10.62
+    },
+    {
+      "e": 20.01,
+      "en": "No, she's not in now. My! What a large package!",
+      "vi": "Không, cô ấy không có ở nhà. Ồ! Ðây quả là một kiện hàng lớn!",
+      "s": 13.38
+    },
+    {
+      "e": 25.7,
+      "en": "Please, be careful! I think it contains fragile objects.",
+      "vi": "Làm ơn, hãy cẩn thận! Tôi nghĩ nó chứa những vật dễ vỡ.",
+      "s": 20.01
+    },
+    {"e": 27.92, "en": "Hey Peter...", "vi": "Này Peter...", "s": 25.7},
+    {
+      "e": 34.33,
+      "en": "Do you know if it contains a set of porcelain plates that she won with the \"Sweet\" biscuits bonus points?",
+      "vi": "Anh có nghĩ nó chứa một bộ đĩa sứ mà cô ấy đã thắng được với điểm thưởng của bánh quy \"Sweet\" hay không?",
+      "s": 27.92
+    },
+    {
+      "e": 39.83,
+      "en": "Well, I think so... At least, that's where the package comes from.",
+      "vi": "Vâng, tôi nghĩ thế... Chí ít thì đó là nơi đã gửi kiện hàng đến.",
+      "s": 34.33
+    },
+    {
+      "e": 43.98,
+      "en": "Alright Alice, I have to go now. See you later.",
+      "vi": "Ðược rồi, Alice, tôi phải đi bây giờ. Hẹn gặp lại.",
+      "s": 39.83
+    },
+    {
+      "e": 50.53,
+      "en": "Anne will be so happy! She's been waiting for it for a long time! Bye!",
+      "vi": "Anne sẽ rất vui đây! Cô ấy đã đợi kiện hàng này quá lâu rồi! Tạm biệt!",
+      "s": 43.98
+    },
+    {"e": 81.34, "en": "...", "vi": "...", "s": 50.53},
+    {
+      "e": 88.05,
+      "en": "Hello, Anne, this is Alice. I've got great news for you:",
+      "vi": "Xin chào, Anne, Alice đây. Tôi có tin tốt lành dành cho cô:",
+      "s": 81.34
+    },
+    {
+      "e": 95.26,
+      "en": "your set of Chinese porcelain has arrived! They're beautiful.",
+      "vi": "bộ đĩa sứ Trung Quốc của cô đã đến! Chúng rất đẹp.",
+      "s": 88.05
+    },
+    {
+      "e": 103.85,
+      "en": "No, I opened it. I'm sorry Anne, I just couldn't resist...",
+      "vi": "Không, tôi đã mở nó ra. Tôi xin lỗi, Anne, tôi không thể cưỡng lại...",
+      "s": 95.26
+    },
+    {
+      "e": 110.54,
+      "en": "Oh no! Anne... I'm so sorry... It broke!",
+      "vi": "Ồ không! Anne... Tôi xin lỗi... Nó đã vỡ!",
+      "s": 103.85
+    },
+    {
+      "e": 118.49,
+      "en": "Okay, okay. I'm not allowed to touch any more plates.",
+      "vi": "Ðược rồi, được rồi. Tôi không được phép chạm vào bất kỳ chiếc đĩa nào nữa.",
+      "s": 110.54
+    },
+    {
+      "e": 126.82,
+      "en": "You're absolutely right, I'm so sorry! Bye.",
+      "vi": "Cô nói đúng, tôi xin lỗi! Tạm biệt.",
+      "s": 118.49
+    },
+    {"e": 132.31, "en": "...", "vi": "...", "s": 126.82},
+    {
+      "e": 136.09,
+      "en": "Jack be careful, don't touch anything!",
+      "vi": "Jack, hãy cẩn thận, đừng chạm vào bất kỳ thứ gì!",
+      "s": 132.31
+    },
+    {
+      "e": 140.94,
+      "en": "This packet contains Anne's set of Chinese porcelain.",
+      "vi": "Kiện hàng này chứa bộ đĩa sứ Trung Quốc của Anne.",
+      "s": 136.09
+    },
+    {
+      "e": 143.26,
+      "en": "I hope you didn't break anything!",
+      "vi": "Tôi hy vọng rằng anh không làm vỡ bất kỳ thứ gì!",
+      "s": 140.94
+    },
+    {
+      "e": 149.42,
+      "en": "I already broke a plate, and guess who heard me breaking it?",
+      "vi": "Tôi đã làm vỡ một chiếc đĩa, và đoán xem ai đã nghe tôi làm vỡ nó?",
+      "s": 143.26
+    },
+    {
+      "e": 156.28,
+      "en": "Anne! - Oh my... I didn't notice anything!",
+      "vi": "Anne! - Ồ lạy Chúa... Tôi chẳng chú ý điều gì cả!",
+      "s": 149.42
+    },
+    {
+      "e": 159.55,
+      "en": "You should look where you are going...",
+      "vi": "Anh nên nghĩ xem mình sẽ đi đâu...",
+      "s": 156.28
+    },
+    {"e": 161.91, "en": "I'm... I'm sorry.", "vi": "Tôi... Tôi xin lỗi.", "s": 159.55},
+    {"e": 164.46, "en": "What are we going to do?", "vi": "Chúng ta sẽ làm gì?", "s": 161.91},
+    {
+      "e": 169.05,
+      "en": "Well, let's get ready for Anne to lose her temper...",
+      "vi": "À, chúng ta hãy sẵn sàng đợi Anne nổi giận...",
+      "s": 164.46
+    },
+    {
+      "e": 172.84,
+      "en": "Who knows, maybe she'll forgive us.",
+      "vi": "Ai mà biết, có lẽ cô ấy sẽ tha thứ cho chúng ta.",
+      "s": 169.05
+    },
+    {
+      "e": 177.85,
+      "en": "She can't get that angry! They're just plates...",
+      "vi": "Cô ấy không thể nổi giận được! Chúng chỉ là những chiếc đĩa...",
+      "s": 172.84
+    },
+    {
+      "e": 185.16,
+      "en": "Remember, we can't cook... If Anne gets angry, we'll have to learn to cook!",
+      "vi": "Hãy nhớ, chúng ta không biết nấu ăn... Nếu Anne nổi giận, chúng ta sẽ phải học nấu ăn!",
+      "s": 177.85
+    },
+    {"e": 187.84, "en": "That's true...", "vi": "Ðúng thế...", "s": 185.16},
+    {
+      "e": 195.4,
+      "en": "I've got an idea: let's go get something from the local Take Out place.",
+      "vi": "Tôi có ý này: chúng ta hãy đi mua gì đó từ tiệm Take Out gần đây.",
+      "s": 187.84
+    },
+    {
+      "e": 199.61,
+      "en": "Then we can pretend that we cooked dinner.",
+      "vi": "Sau đó, chúng ta có thể giả vờ rằng mình đã nấu bữa tối.",
+      "s": 195.4
+    },
+    {
+      "e": 204.46,
+      "en": "She might be happy and forget about those plates...",
+      "vi": "Cô ấy sẽ rất vui và quên đi những chiếc đĩa kia...",
+      "s": 199.61
+    },
+    {
+      "e": 208.41,
+      "en": "That's a great idea! Let's get going!",
+      "vi": "Ðó là một ý hay! Chúng ta hãy đi thôi!",
+      "s": 204.46
+    },
+    {"e": 213.91, "en": "...", "vi": "...", "s": 208.41},
+    {
+      "e": 218.8,
+      "en": "Hello and welcome back again to your live English language programme,",
+      "vi": "Xin chào và chào mừng quay trở lại với chương trình dạy tiếng Anh trực tiếp của các bạn,",
+      "s": 213.91
+    },
+    {
+      "e": 222.58,
+      "en": "and I want to talk to you more about \"can\".",
+      "vi": "và tôi muốn phân tích kỹ hơn từ \"can\" với các bạn.",
+      "s": 218.8
+    },
+    {
+      "e": 230.86,
+      "en": "Now, how do you express \"can\" in the future or in the past?",
+      "vi": "Nào, các bạn diễn tả \"can\" ở thì tương lai hay quá khứ như thế nào?",
+      "s": 222.58
+    },
+    {
+      "e": 235.91,
+      "en": "\"Can\" in the future, do we say \"I will can\"?",
+      "vi": "\"Can\" ở thì tương lai, liệu chúng ta có nói: \"I will can?\" hay không?",
+      "s": 230.86
+    },
+    {
+      "e": 239.08,
+      "en": "What do we say in the past?",
+      "vi": "Chúng ta nói gì ở thì quá khứ?",
+      "s": 235.91
+    },
+    {
+      "e": 243.45,
+      "en": "Now this is interesting because it's very strange,",
+      "vi": "Nào, điều này rất thú vị, bởi lẽ nó rất kỳ lạ,",
+      "s": 239.08
+    },
+    {
+      "e": 248.04,
+      "en": "we use the verb \"to be able to\",",
+      "vi": "chúng ta sử dụng động từ \"to be able to,\"",
+      "s": 243.45
+    },
+    {
+      "e": 253.29,
+      "en": "that's what I want to look at now with you on the language screen.",
+      "vi": "đó là những gì tôi muốn tìm hiểu ngay bây giờ với các bạn trên màn hình ngôn ngữ.",
+      "s": 248.04
+    },
+    {
+      "e": 257.3,
+      "en": "\"To be able to\", isn't that strange?",
+      "vi": "\"To be able to,\" chẳng phải kỳ lạ lắm sao?",
+      "s": 253.29
+    },
+    {
+      "e": 260.7,
+      "en": "We have learned to use \"can\" in the present,",
+      "vi": "Chúng ta đã học cách sử dụng \"can\" ở thì hiện tại,",
+      "s": 257.3
+    },
+    {
+      "e": 266.15,
+      "en": "we've had examples like \"I can cook\", \"Can you cook?\"",
+      "vi": "chúng ta đã có những ví dụ như \"Tôi biết nấu ăn,\" \"Cô có biết nấu ăn không?\"",
+      "s": 260.7
+    },
+    {
+      "e": 269.56,
+      "en": "and the negative \"I can't cook\".",
+      "vi": "và thể phủ định: \"Tôi không biết nấu ăn.\"",
+      "s": 266.15
+    },
+    {
+      "e": 275.37,
+      "en": "Now when we talk about ability in the past everything changes,",
+      "vi": "Nào, khi chúng ta nhắc đến một khả năng trong quá khứ thì mọi thứ sẽ thay đổi,",
+      "s": 269.56
+    },
+    {
+      "e": 279.03,
+      "en": "and we need to use this verb \"to be able to\".",
+      "vi": "và chúng ta cần sử dụng động từ này: \"to be able to.\"",
+      "s": 275.37
+    },
+    {
+      "e": 282.98,
+      "en": "When that goes into the past we say",
+      "vi": "Khi ở thì quá khứ, chúng ta nói",
+      "s": 279.03
+    },
+    {
+      "e": 290.85,
+      "en": "\"I was able to cook yesterday\", you see the verb \"to be\" goes into the past",
+      "vi": "\"Tôi đã biết nấu ăn vào hôm qua,\" các bạn nhìn thấy động từ \"to be\" ở thì quá khứ",
+      "s": 282.98
+    },
+    {
+      "e": 297.35,
+      "en": "\"I was able to cook yesterday\" strange?",
+      "vi": "\"Tôi đã biết nấu ăn vào hôm qua,\" kỳ lạ chứ?",
+      "s": 290.85
+    },
+    {
+      "e": 305.99,
+      "en": "Another example, the question: \"Were you\" past tense of the verb \"to be\", \"Were you able to cook?\"",
+      "vi": "Một ví dụ khác, thể nghi vấn: \"Were you\" thì quá khứ của động từ \"to be,\" \"Cô có biết nấu ăn không?\"",
+      "s": 297.35
+    },
+    {
+      "e": 311.89,
+      "en": "and the negative is \"He wasn't able to cook\".",
+      "vi": "và thể phủ định là: \"Anh ấy không biết nấu ăn.\"",
+      "s": 305.99
+    },
+    {
+      "e": 316.77,
+      "en": "So \"can\" in the future, we use \"to be able to\"",
+      "vi": "Nào, \"can\" ở thì tương lai, chúng ta sử dụng \"to be able to\"",
+      "s": 311.89
+    },
+    {
+      "e": 322.39,
+      "en": "and in the past \"to be able to\" so \"was, were able to\".",
+      "vi": "và ở thì quá khứ \"to be able to,\" nào \"was, were able to.\"",
+      "s": 316.77
+    },
+    {
+      "e": 328.3,
+      "en": "The future, let's look at that now, you want to say \"can\" tomorrow,",
+      "vi": "Thì tương lai, chúng ta hãy tìm hiểu nó ngay bây giờ, các bạn muốn nói \"can\" vào ngày mai,",
+      "s": 322.39
+    },
+    {
+      "e": 330.35,
+      "en": "so we use \"to be able to\" and say:",
+      "vi": "nào, chúng ta sử dụng \"to be able to\" và nói:",
+      "s": 328.3
+    },
+    {
+      "e": 338.54,
+      "en": "\"I'll be able to cook tomorrow\", \"I will\", \"I'll\", \"I'll be able to cook tomorrow\".",
+      "vi": "\"Tôi sẽ biết nấu ăn vào ngày mai,\" \"I will\", \"I'll\", \"Tôi sẽ biết nấu ăn vào ngày mai.\"",
+      "s": 330.35
+    },
+    {
+      "e": 344.95,
+      "en": "The question becomes \"Will you\", \"Will you be able to cook?\"",
+      "vi": "Thể nghi vấn trở thành \"Will you,\" \"Cô sẽ biết nấu ăn chứ?\"",
+      "s": 338.54
+    },
+    {
+      "e": 348.03,
+      "en": "and the negative, remember the negative of \"will\"?",
+      "vi": "và thể phủ định, còn nhớ thể phủ định của \"will\" chứ?",
+      "s": 344.95
+    },
+    {
+      "e": 355.13,
+      "en": "Good \"I won't be able to cook tomorrow\" so isn't that interesting?",
+      "vi": "Tốt, \"Tôi sẽ không thể nấu ăn vào ngày mai,\" nào, chẳng phải điều đó rất thú vị sao?",
+      "s": 348.03
+    },
+    {
+      "e": 360.92,
+      "en": "When you want to express ability in the future and in the past",
+      "vi": "Khi các bạn muốn diễn tả một khả năng trong tương lai và trong quá khứ",
+      "s": 355.13
+    },
+    {
+      "e": 365.57,
+      "en": "you need to use this verb \"to be able to\".",
+      "vi": "các bạn cần sử dụng động từ này: \"to be able to.\"",
+      "s": 360.92
+    },
+    {
+      "e": 371.19,
+      "en": "Now there's one more thing I want to tell you about, and it's about permission.",
+      "vi": "Nào, còn một điều nữa mà tôi muốn nói với các bạn, và đó là sự cho phép.",
+      "s": 365.57
+    },
+    {
+      "e": 381.26,
+      "en": "Imagine that you are in a restaurant and you can see \"No smoking\", the person next to you starts smoking.",
+      "vi": "Hãy tưởng tượng rằng các bạn đang ở trong một nhà hàng và nhìn thấy dấu hiệu \"Không hút thuốc,\" trong khi người bên cạnh bạn lại bắt đầu hút thuốc.",
+      "s": 371.19
+    },
+    {
+      "e": 387.87,
+      "en": "Now, it's a rule and a regulation that you can't smoke in a restaurant.",
+      "vi": "Nào, việc các bạn không thể hút thuốc trong một nhà hàng là một quy luật, một nội quy.",
+      "s": 381.26
+    },
+    {
+      "e": 390.94,
+      "en": "So, what do you say to that person?",
+      "vi": "Nào, vậy các bạn nói gì với người đó?",
+      "s": 387.87
+    },
+    {
+      "e": 399.49,
+      "en": "In English we say \"Excuse me, you're not allowed to smoke here\",",
+      "vi": "Trong tiếng Anh, chúng ta nói: \"Thứ lỗi cho tôi, anh không được phép hút thuốc ở đây,\"",
+      "s": 390.94
+    },
+    {
+      "e": 407.98,
+      "en": "\"You're not allowed\" see that? \"You're not allowed\", now that pronunciation is difficult \"allowed\" ok?",
+      "vi": "\"Anh không được phép,\" nhìn thấy chứ? \"Anh không được phép,\" nào, cách phát âm rất khó, \"allowed,\" được chứ?",
+      "s": 399.49
+    },
+    {
+      "e": 411.01,
+      "en": "\"You're not allowed to smoke in here\".",
+      "vi": "\"Anh không được phép hút thuốc ở đây.\"",
+      "s": 407.98
+    },
+    {
+      "e": 422.32,
+      "en": "For example if you go to a museum often they say \"No cameras\" so \"You're not allowed to take photos\",",
+      "vi": "Ví dụ, nếu các bạn đến bảo tàng thì họ thường nói \"Không chụp ảnh,\" nào, \"Các bạn không được phép chụp ảnh,\"",
+      "s": 411.01
+    },
+    {
+      "e": 426.17,
+      "en": "\"You're not allowed to take photos\".",
+      "vi": "\"Các bạn không được phép chụp ảnh.\"",
+      "s": 422.32
+    },
+    {
+      "e": 431.24,
+      "en": "Another example, if you go into a library and people are reading...",
+      "vi": "Một ví dụ khác, nếu các bạn đến thư viện và mọi người đang đọc sách...",
+      "s": 426.17
+    },
+    {
+      "e": 436.8,
+      "en": "\"Silence\", \"You're not allowed to speak\".",
+      "vi": "\"Giữ im lặng,\" \"Các bạn không được phép nói chuyện.\"",
+      "s": 431.24
+    },
+    {
+      "e": 444.52,
+      "en": "So those are interesting things we've looked at: \"to be able to\" and the use of \"you're not allowed to\".",
+      "vi": "Nào, đó là những điều rất thú vị mà chúng ta vừa mới phân tích: \"to be able to\" và cách sử dụng \"you're not allowed to.\"",
+      "s": 436.8
+    },
+    {
+      "e": 448.85,
+      "en": "Great! Now we're going to go back to our friends,",
+      "vi": "Tuyệt! Nào, chúng ta hãy quay trở lại với những người bạn của mình,",
+      "s": 444.52
+    },
+    {
+      "e": 456.07,
+      "en": "and Anne is very angry about something, she wants to communicate something to her friends,",
+      "vi": "và Anne đang rất giận giữ về điều gì đó, cô ấy muốn trao đổi một số vấn đề với bạn bè của mình,",
+      "s": 448.85
+    },
+    {
+      "e": 461.07,
+      "en": "let's find out what it is, and I'll see you later, bye.",
+      "vi": "chúng ta hãy tìm hiểu xem đó là gì và tôi sẽ gặp lại các bạn sau, tạm biệt.",
+      "s": 456.07
+    },
+    {"e": 479.8, "en": "Hi, Anne!", "vi": "Chào, Anne!", "s": 461.07},
+    {"e": 482.46, "en": "What's that you're holding?", "vi": "Cô đang giữ gì vậy?", "s": 479.8},
+    {"e": 484.29, "en": "Hello everyone!", "vi": "Chào mọi người!", "s": 482.46},
+    {
+      "e": 491.91,
+      "en": "Listen... We need some rules in this house!",
+      "vi": "Nghe này... Chúng ta cần đặt ra một số quy tắc trong nhà này!",
+      "s": 484.29
+    },
+    {
+      "e": 496.78,
+      "en": "Living together means obeying some rules!",
+      "vi": "Sống chung có nghĩa là phải tuân thủ một số quy tắc!",
+      "s": 491.91
+    },
+    {
+      "e": 509.9,
+      "en": "I've written this list of house rules that every person who spends time in this house must follow!",
+      "vi": "Tôi vừa soạn ra danh sách những quy tắc trong nhà mà bất kỳ ai sống trong nhà này đều phải tuân theo!",
+      "s": 496.78
+    },
+    {
+      "e": 517.19,
+      "en": "No one is allowed to leave this living room until they read and memorise these rules!",
+      "vi": "Không ai được phép rời khỏi phòng khách cho đến khi đọc xong và ghi nhớ hết những quy tắc này!",
+      "s": 509.9
+    },
+    {
+      "e": 521.01,
+      "en": "Bad day, huh? - She's right, Jack!",
+      "vi": "Một ngày tồi tệ, phải không? - Cô ấy nói đúng, Jack!",
+      "s": 517.19
+    },
+    {
+      "e": 527.85,
+      "en": "Anyway, Anne dear, what about these... house rules?",
+      "vi": "Sao cũng được, Anne thân mến, những quy tắc trong nhà này... là gì?",
+      "s": 521.01
+    },
+    {
+      "e": 532.62,
+      "en": "First of all, don't call me \"Anne, dear\"... Now listen:",
+      "vi": "Trước tiên, đừng gọi tôi là \"Anne thân mến\"... Giờ thì hãy nghe đây:",
+      "s": 527.85
+    },
+    {
+      "e": 543.07,
+      "en": "Rule No.1: You must never, and I stress \"never\", open my post.",
+      "vi": "Quy tắc số 1: Các bạn phải không bao giờ, và tôi xin nhấn mạnh rằng, \"không bao giờ,\" được mở bưu phẩm của tôi.",
+      "s": 532.62
+    },
+    {
+      "e": 551.5,
+      "en": "Rule No. 2: From now on, clean the house at least once a week.",
+      "vi": "Quy tắc số 2: Từ giờ trở đi, hãy lau dọn nhà cửa ít nhất một lần mỗi tuần.",
+      "s": 543.07
+    },
+    {
+      "e": 557.91,
+      "en": "Rule No. 3: We have to take turns washing-up.",
+      "vi": "Quy tắc số 3: Chúng ta phải thay phiên rửa bát đĩa.",
+      "s": 551.5
+    },
+    {
+      "e": 567.25,
+      "en": "Rule No. 4... - Okay, okay... We understand! You must be angry.",
+      "vi": "Quy tắc số 4... - Ðược rồi, được rồi... Chúng tôi hiểu rồi! Cô hẳn là rất giận.",
+      "s": 557.91
+    },
+    {
+      "e": 572.11,
+      "en": "Well, yes, Jack! I'm very, very angry!",
+      "vi": "Vâng, đúng vậy, Jack! Tôi rất, rất giận!",
+      "s": 567.25
+    },
+    {
+      "e": 576.64,
+      "en": "I was really looking forward to getting that set of Chinese plates...",
+      "vi": "Tôi thực sự trông đợi để nhận được bộ đĩa Trung Quốc đó...",
+      "s": 572.11
+    },
+    {
+      "e": 586.43,
+      "en": "I saved bonus points for a year, eating the same, stupid biscuits... which, for your information, I can't stand anymore!",
+      "vi": "Tôi tiết kiệm điểm thưởng trong suốt một năm, ăn cùng một loại bánh quy ngu ngốc đó... nào, cho anh biết đây, tôi không thể chịu đựng được nữa!",
+      "s": 576.64
+    },
+    {
+      "e": 592.15,
+      "en": "I just kept eating and buying them in order to get the set of Chinese porcelain...",
+      "vi": "Tôi liên tục ăn và mua chúng chỉ để nhận được bộ đĩa sứ Trung Quốc...",
+      "s": 586.43
+    },
+    {"e": 593.79, "en": "All for nothing!", "vi": "Ðể rồi chẳng được gì cả!", "s": 592.15},
+    {
+      "e": 597.09,
+      "en": "Oh, please forgive us, Anne.",
+      "vi": "Ồ, xin tha thứ cho chúng tôi, Anne.",
+      "s": 593.79
+    },
+    {
+      "e": 603.81,
+      "en": "Just tell us where to go, and we'll buy you a new set!",
+      "vi": "Chỉ cần nói ở đâu và chúng tôi sẽ mua cho cô một bộ mới!",
+      "s": 597.09
+    },
+    {
+      "e": 608.85,
+      "en": "Well, that's not possible! They were handcrafted in Shanghai!",
+      "vi": "Nào, điều đó là bất khả thi! Chúng được làm thủ công ở Thượng Hải!",
+      "s": 603.81
+    },
+    {
+      "e": 611.97,
+      "en": "And they cost a fortune!",
+      "vi": "Và chúng đáng giá cả một gia tài!",
+      "s": 608.85
+    },
+    {
+      "e": 617.63,
+      "en": "Okay, we'll do our best to make it up... Somehow...",
+      "vi": "Ðược rồi, chúng tôi sẽ nỗ lực hết mình để bù đắp... Bằng cách nào đó...",
+      "s": 611.97
+    },
+    {
+      "e": 622.29,
+      "en": "Now, sit down Anne. You must be exhausted.",
+      "vi": "Nào, ngồi xuống đi Anne. Cô hẳn là kiệt sức rồi.",
+      "s": 617.63
+    },
+    {
+      "e": 625.34,
+      "en": "Jack and I made dinner for you!",
+      "vi": "Jack và tôi đã làm bữa tối cho cô!",
+      "s": 622.29
+    },
+    {
+      "e": 632.4,
+      "en": "You don't have to do anything... We thought of everything!",
+      "vi": "Cô không phải làm gì cả... Chúng tôi đã nghĩ đến mọi thứ!",
+      "s": 625.34
+    },
+    {
+      "e": 638.45,
+      "en": "Really? You made dinner for me?",
+      "vi": "Thực à? Các bạn đã làm bữa tối cho tôi à?",
+      "s": 632.4
+    },
+    {
+      "e": 642.4,
+      "en": "Yes, Anne... It was the least we could do...",
+      "vi": "Vâng, Anne... Ít nhất thì đó là điều mà chúng tôi có thể làm...",
+      "s": 638.45
+    },
+    {
+      "e": 649.71,
+      "en": "Well... Okay, I'll forgive you this time...",
+      "vi": "Nào... Ðược rồi, tôi sẽ tha thứ cho các bạn lần này...",
+      "s": 642.4
+    },
+    {
+      "e": 656.42,
+      "en": "But, I warn both of you that I want more discipline in this house!",
+      "vi": "Nhưng, tôi muốn cảnh cáo hai bạn rằng, tôi muốn trong nhà này có nhiều kỷ luật hơn nữa!",
+      "s": 649.71
+    },
+    {
+      "e": 660.34,
+      "en": "You can't do what you want all the time...",
+      "vi": "Các bạn không thể làm bất kỳ những gì các bạn muốn, mọi lúc mọi nơi...",
+      "s": 656.42
+    },
+    {"e": 663.83, "en": "We need some rules!", "vi": "Chúng ta cần một số quy tắc!", "s": 660.34},
+    {
+      "e": 667.97,
+      "en": "Don't roll your eyes while I'm speaking to you!",
+      "vi": "Ðừng trợn mắt lên trong khi tôi đang nói với các bạn!",
+      "s": 663.83
+    },
+    {
+      "e": 673.27,
+      "en": "Okay, okay Anne! You're right!",
+      "vi": "Ðược rồi, được rồi Anne! Cô nói đúng!",
+      "s": 667.97
+    },
+    {
+      "e": 679.33,
+      "en": "Rules are important, but it's also important to laugh a little!",
+      "vi": "Các quy tắc rất quan trọng, nhưng việc cười để thư giãn cũng quan trọng không kém!",
+      "s": 673.27
+    },
+    {"e": 691.81, "en": "...", "vi": "...", "s": 679.33},
+    {
+      "e": 695.28,
+      "en": "Hi and welcome back,",
+      "vi": "Xin chào và chào mừng quay trở lại,",
+      "s": 691.81
+    },
+    {
+      "e": 698.33,
+      "en": "this is a box which my mother sent me",
+      "vi": "đây là một chiếc hộp mà mẹ tôi đã gửi cho tôi",
+      "s": 695.28
+    },
+    {
+      "e": 702.74,
+      "en": "and she said there are some useful things for me, so I was just looking.",
+      "vi": "và bà ấy nói rằng trong đó có một số vật dụng có ích cho tôi, thế nên tôi sắp nhìn vào đó.",
+      "s": 698.33
+    },
+    {
+      "e": 704.19,
+      "en": "Come and have a look with me.",
+      "vi": "Hãy đến đây và nhìn vào cùng tôi nào.",
+      "s": 702.74
+    },
+    {"e": 709.22, "en": "...", "vi": "...", "s": 704.19},
+    {"e": 714.22, "en": "What is this? What's this?", "vi": "Cái gì đây? Cái gì đây?", "s": 709.22},
+    {
+      "e": 718.97,
+      "en": "Well it can't be a shoe, can it? It's not a shoe,",
+      "vi": "À, đó không thể là một chiếc giày, phải không? Ðó không phải là một chiếc giày,",
+      "s": 714.22
+    },
+    {
+      "e": 721.89,
+      "en": "can't be a shoe because it's made of metal,",
+      "vi": "không thể là một chiếc giày, bởi lẽ nó được làm bằng kim loại,",
+      "s": 718.97
+    },
+    {
+      "e": 732.78,
+      "en": "it's made of metal, well it might be some sort of lamp or something like,",
+      "vi": "nó được làm bằng kim loại, vâng, nó có thể là một loại đèn hay thứ gì đó đại loại như thế,",
+      "s": 721.89
+    },
+    {
+      "e": 736.88,
+      "en": "it looks like an Aladdin's lamp, a special lamp,",
+      "vi": "nó trông giống như một chiếc đèn của Aladdin, một chiếc đèn đặc biệt,",
+      "s": 732.78
+    },
+    {
+      "e": 746.37,
+      "en": "no but it can't be that... Look, here there's a sort of metal groove,",
+      "vi": "không, nhưng nó không thể là chiếc đèn... Nhìn này, ở đây có một đường rãnh kim loại,",
+      "s": 736.88
+    },
+    {
+      "e": 749.12,
+      "en": "probably for cigarettes, that's it,",
+      "vi": "chắc chắn là dùng cho thuốc lá, vậy đấy,",
+      "s": 746.37
+    },
+    {
+      "e": 757.36,
+      "en": "it must be a cigarette holder and a type of ashtray, an oriental ashtray,",
+      "vi": "đây phải là một dụng cụ chứa thuốc lá và một loại gạt tàn, một gạt tàn kiểu phương đông,",
+      "s": 749.12
+    },
+    {
+      "e": 761.49,
+      "en": "how unusual, that's very typical of my mother!",
+      "vi": "thật khác thường, đó là đặc điểm tiêu biểu của mẹ tôi!",
+      "s": 757.36
+    },
+    {
+      "e": 766.29,
+      "en": "Useful though. Now, did you see the language that I used?",
+      "vi": "Nhưng dù sao thì rất có ích. Nào, các bạn có nhận thấy ngôn ngữ mà tôi đã sử dụng hay không?",
+      "s": 761.49
+    },
+    {
+      "e": 773.98,
+      "en": "I said: \"It can't be a shoe\", when I say \"It can't be\" means it's impossible,",
+      "vi": "Tôi đã nói: \"Nó không thể là một chiếc giày,\" khi tôi nói \"It can't be\" thì điều đó có nghĩa là không thể,",
+      "s": 766.29
+    },
+    {
+      "e": 779.41,
+      "en": "it's impossible, it's too small and it's metal, so it can't be a shoe.",
+      "vi": "điều đó không thể, nó quá nhỏ và nó làm bằng kim loại, thế nên nó không thể là một chiếc giày.",
+      "s": 773.98
+    },
+    {
+      "e": 784.14,
+      "en": "So I'm talking about probability and possibility.",
+      "vi": "Nào, tôi đang nói đến xác suất và khả năng.",
+      "s": 779.41
+    },
+    {
+      "e": 790.32,
+      "en": "Then I said: \"Well it might be a magical lamp\",",
+      "vi": "Kế đến tôi đã nói: \"Vâng, đó có thể là một chiếc đèn thần,\"",
+      "s": 784.14
+    },
+    {
+      "e": 798.43,
+      "en": "now \"might\" is when you're not sure \"might\" is M-I-G-H-T, \"it might be a lamp\",",
+      "vi": "nào, \"might\" được sử dụng khi các bạn không chắc chắn, \"might,\" M-I-G-H-T, \"nó có thể là một chiếc đèn,\"",
+      "s": 790.32
+    },
+    {
+      "e": 801.16,
+      "en": "so when you're not sure you say \"might\".",
+      "vi": "nào, khi các bạn không chắc chắn, các bạn nói \"might.\"",
+      "s": 798.43
+    },
+    {
+      "e": 807.21,
+      "en": "Then I said \"no, no, no, no it must be an ashtray\".",
+      "vi": "Rồi tôi đã nói \"không, không, không, không, đó phải là một chiếc gạt tàn.\"",
+      "s": 801.16
+    },
+    {
+      "e": 812.81,
+      "en": "Now when I say \"must be\" it's because I'm absolutely sure,",
+      "vi": "Nào, khi tôi nói \"must be,\" đó là vì tôi tuyệt đối chắc chắn,",
+      "s": 807.21
+    },
+    {
+      "e": 817.12,
+      "en": "that the possibility of it being an ashtray is certain.",
+      "vi": "rằng khả năng đó là chiếc gạt tàn là điều chắc chắn.",
+      "s": 812.81
+    },
+    {
+      "e": 823.96,
+      "en": "So three possibilities \"can't be\", \"might be\" and \"must be\".",
+      "vi": "Thế nên ba khả năng: \"can't be,\" \"might be\" và \"must be.\"",
+      "s": 817.12
+    },
+    {
+      "e": 827.65,
+      "en": "So let's have a look at the other things in the box, ashtray...",
+      "vi": "Nào, chúng ta hãy nhìn vào những vật khác trong hộp, gạt tàn...",
+      "s": 823.96
+    },
+    {
+      "e": 836.11,
+      "en": "What is this? What's this? You see this?",
+      "vi": "Cái gì đây? Cái gì đây? Các bạn nhìn thấy chứ?",
+      "s": 827.65
+    },
+    {
+      "e": 845.24,
+      "en": "Well... It can't be... It looks like a negative from a film, doesn't it?",
+      "vi": "Nào... Không thể nào... Nó trông giống như một dạng phim âm bản, phải không?",
+      "s": 836.11
+    },
+    {
+      "e": 850.88,
+      "en": "No, it can't be a negative because there are no images.",
+      "vi": "Không, nó không thể là phim âm bản, bởi lẽ không có hình ảnh nào.",
+      "s": 845.24
+    },
+    {
+      "e": 858.08,
+      "en": "Well it might be... You know? I just don't know!",
+      "vi": "Vâng, nó có thể là... Các bạn biết chứ? Tôi thì không biết!",
+      "s": 850.88
+    },
+    {
+      "e": 861.77,
+      "en": "I mean it might be some sort of special sticker",
+      "vi": "Tôi nghĩ nó có thể là một dạng nhãn dán đặc biệt",
+      "s": 858.08
+    },
+    {
+      "e": 865.43,
+      "en": "that you put on things but it hasn't got any glue,",
+      "vi": "mà các bạn dán lên mọi thứ, nhưng nó lại không có keo,",
+      "s": 861.77
+    },
+    {
+      "e": 870.91,
+      "en": "I don't know what it is, just a minute, look,",
+      "vi": "tôi không biết nó là gì, hãy đợi đã, nhìn này,",
+      "s": 865.43
+    },
+    {
+      "e": 879.61,
+      "en": "here is something explaining it \"a forehead thermometer\",",
+      "vi": "đây là thứ được giải thích là \"một nhiệt kế trán,\"",
+      "s": 870.91
+    },
+    {
+      "e": 884.19,
+      "en": "\"put it on your head and it reads the temperature\", what?",
+      "vi": "\"dán nó lên trán và nó sẽ thể hiện nhiệt độ,\" cái gì?",
+      "s": 879.61
+    },
+    {
+      "e": 888.46,
+      "en": "Let's try that, so I put it on my head like this...",
+      "vi": "Hãy thử xem, nào, tôi dán nó lên đầu như thế này...",
+      "s": 884.19
+    },
+    {
+      "e": 900.49,
+      "en": "Hold it on your forehead and it tells you your temperature, let's have a look... Thirty-seven?",
+      "vi": "Giữ nó trên trán và và nó sẽ cho các bạn biết nhiệt độ của mình, chúng ta hãy nhìn xem... 37 độ?",
+      "s": 888.46
+    },
+    {
+      "e": 905.72,
+      "en": "That's hot! It is! It's a thermometer, incredible!",
+      "vi": "Nóng thật! Vậy đấy! Ðây là nhiệt kế, thật khó tin!",
+      "s": 900.49
+    },
+    {
+      "e": 911.87,
+      "en": "Now that is very useful because it's small, so interesting.",
+      "vi": "Nào, nó rất hữu ích vì có kích thước nhỏ, rất thú vị.",
+      "s": 905.72
+    },
+    {
+      "e": 916.14,
+      "en": "Next thing, what's this? This is... Look at this!",
+      "vi": "Vật tiếp theo, cái gì đây? Ðây là... Nhìn này!",
+      "s": 911.87
+    },
+    {
+      "e": 924.67,
+      "en": "Now, it's shiny and it's silver but it can't be a mirror because I can't see myself,",
+      "vi": "Nào, nó sáng chói và làm bằng bạc, nhưng nó không thể là một chiếc gương soi, bởi lẽ tôi không nhìn thấy mình trong đó,",
+      "s": 916.14
+    },
+    {
+      "e": 930.1,
+      "en": "can't be a mirror, what can it be? Oh I know!",
+      "vi": "không thể là một chiếc gương, vậy nó có thể là gì? Ồ, tôi biết rồi!",
+      "s": 924.67
+    },
+    {
+      "e": 935.39,
+      "en": "It might be for under glasses, you know what I mean?",
+      "vi": "Nó có thể là một chiếc lót ly, các bạn hiểu ý tôi chứ?",
+      "s": 930.1
+    },
+    {
+      "e": 943.34,
+      "en": "When you lay the table and you have glasses, sometimes you put it under to protect the tablecloth.",
+      "vi": "Khi các bạn trải khăn bàn và có ly tách bên trên, các bạn thỉnh thoảng đặt nó bên dưới để bảo vệ khăn bàn.",
+      "s": 935.39
+    },
+    {
+      "e": 947.01,
+      "en": "Look what I have here? So this for example.",
+      "vi": "Hãy nhìn xem tôi có gì ở đây? Nào, ví dụ đây.",
+      "s": 943.34
+    },
+    {
+      "e": 951.21,
+      "en": "Yeah but it's a bit strange isn't?",
+      "vi": "Vâng, nhưng nó hơi kỳ lạ, phải không?",
+      "s": 947.01
+    },
+    {
+      "e": 956.42,
+      "en": "I mean... no it can't be, it can't be that, really, not made of metal like this...",
+      "vi": "Ý tôi là... không, nó không thể, nó không thể là chiếc lót ly, không làm bằng kim loại như thế này...",
+      "s": 951.21
+    },
+    {
+      "e": 963.52,
+      "en": "It must be... I don't know again!",
+      "vi": "Nó phải là... Tôi lại không biết rồi!",
+      "s": 956.42
+    },
+    {
+      "e": 970.86,
+      "en": "Wait a minute, here's the box, \"a drop-stop\" a drop-stop?",
+      "vi": "Ðợi một phút, đây là chiếc hộp, \"một thiết bị chống chảy nhỏ giọt,\" chống chảy nhỏ giọt ư?",
+      "s": 963.52
+    },
+    {
+      "e": 976.06,
+      "en": "It must be something for pouring then, oh look, you put it...",
+      "vi": "Nó hẳn là vật dụng để rót nước, nào, ồ, nhìn này, các bạn đặt nó vào...",
+      "s": 970.86
+    },
+    {
+      "e": 983.86,
+      "en": "Let's try, I just... So happen to have a bottle here, and it says:",
+      "vi": "Chúng ta hãy thử xem, tôi... thật tình cờ lại có một chiếc chai ở đây, và trên hướng dẫn sử dụng nói rằng:",
+      "s": 976.06
+    },
+    {
+      "e": 994.0,
+      "en": "\"Put it on the bottle\" like this, a drop-stop so it stop things from dropping",
+      "vi": "\"Gắn nó vào chai\" như thế này, là một thiết bị chống chảy nhỏ giọt nên nó sẽ ngăn chất lỏng chảy nhỏ giọt",
+      "s": 983.86
+    },
+    {
+      "e": 1000.58,
+      "en": "and pour out the liquid and there are no drops, let's try that,",
+      "vi": "và rót chất lỏng ra, nào, không chảy nhỏ giọt, hãy thử xem,",
+      "s": 994.0
+    },
+    {
+      "e": 1009.15,
+      "en": "let's try... That works! It doesn't drop!",
+      "vi": "chúng ta hãy thử xem... Nó hiệu quả thật đấy! Nó không chảy nhỏ giọt!",
+      "s": 1000.58
+    },
+    {
+      "e": 1016.11,
+      "en": "So it must be something for stopping drops, you can see, fantastic!",
+      "vi": "Nào, hẳn đó là thứ gì đó để ngăn nước chảy nhỏ giọt, các bạn có thể thấy đấy, tuyệt vời!",
+      "s": 1009.15
+    },
+    {
+      "e": 1021.33,
+      "en": "My mother is a genius, she is full of amazing ideas, thanks mum.",
+      "vi": "Mẹ tôi là một thiên tài, bà ấy có đầy những ý tưởng đáng ngạc nhiên, cảm ơn mẹ.",
+      "s": 1016.11
+    },
+    {
+      "e": 1026.48,
+      "en": "Let me show you the language that I was using then.",
+      "vi": "Hãy để tôi chỉ cho các bạn ngôn ngữ mà tôi đã sử dụng.",
+      "s": 1021.33
+    },
+    {
+      "e": 1032.39,
+      "en": "We were talking about probability and possibility",
+      "vi": "Chúng ta đang nói đến các khả năng và xác suất",
+      "s": 1026.48
+    },
+    {
+      "e": 1039.76,
+      "en": "and, the first thing that we can talk about is when you are expressing strong probability,",
+      "vi": "và, điều đầu tiên mà chúng ta có thể nói đến là khi các bạn diễn đạt một khả năng lớn",
+      "s": 1032.39
+    },
+    {
+      "e": 1044.53,
+      "en": "is when you think almost certainly you know what something is,",
+      "vi": "đó là khi các bạn nghĩ rằng mình biết chắc một thứ gì đó,",
+      "s": 1039.76
+    },
+    {
+      "e": 1048.77,
+      "en": "so \"it must be an ashtray\",",
+      "vi": "nào, \"đó hẳn phải là một chiếc gạt tàn,\"",
+      "s": 1044.53
+    },
+    {
+      "e": 1056.03,
+      "en": "so when I use \"must\" I am a hundred percent sure of something \"it must be an ashtray\".",
+      "vi": "nào, khi tôi sử dụng \"must,\" tôi chắc chắn 100% về điều gì đó, \"đó hẳn phải là một chiếc gạt tàn.\"",
+      "s": 1048.77
+    },
+    {
+      "e": 1064.07,
+      "en": "Now if you are sure that it isn't something, that is totally improbable, one hundred percent,",
+      "vi": "Nào, nếu các bạn chắc rằng đó không phải là thứ gì đó, tức là hoàn toàn không chắc chắn, 100%,",
+      "s": 1056.03
+    },
+    {
+      "e": 1073.29,
+      "en": "the opposite is \"it can't be\" like that, I said \"it can't be a shoe, it's too small\".",
+      "vi": "thì cách nói ngược lại là \"it can't be,\" như thế, tôi đã nói: \"nó không thể là một chiếc giày, nó quá nhỏ.\"",
+      "s": 1064.07
+    },
+    {
+      "e": 1079.61,
+      "en": "So \"it must be\", \"it can't be\" and then if you're not sure about something we use,",
+      "vi": "Nào, \"it must be,\" \"it can't be,\" và tiếp theo, nếu các bạn không chắc chắn về điều gì đó, chúng ta sử dụng,",
+      "s": 1073.29
+    },
+    {
+      "e": 1082.89,
+      "en": "we use the simple verb \"might\",",
+      "vi": "chúng ta sử dụng động từ đơn giản: \"might,\"",
+      "s": 1079.61
+    },
+    {
+      "e": 1086.09,
+      "en": "look at the spelling M-I-G-H-T",
+      "vi": "hãy nhìn vào cách đánh vần M-I-G-H-T",
+      "s": 1082.89
+    },
+    {
+      "e": 1091.24,
+      "en": "\"it might be an incense burner\" for example.",
+      "vi": "\"đó có lẽ là một lư hương,\" ví dụ như thế.",
+      "s": 1086.09
+    },
+    {
+      "e": 1100.66,
+      "en": "We can also say \"it could be\", \"might\", \"could\" both express uncertain probability, alright?",
+      "vi": "Chúng ta cũng có thể nói \"it could be,\" \"might,\" \"could,\" cả hai đều diễn tả những khả năng không chắc chắn, được chứ?",
+      "s": 1091.24
+    },
+    {
+      "e": 1105.04,
+      "en": "So this is very useful when you are making deductions.",
+      "vi": "Nào, điều này rất có ích khi các bạn rút ra kết luận.",
+      "s": 1100.66
+    },
+    {
+      "e": 1110.8,
+      "en": "\"Must be\", \"it can't be\" and \"it, well... it might be\".",
+      "vi": "\"Must be,\" \"it can't be\" và \"it, vâng... it might be.\"",
+      "s": 1105.04
+    },
+    {
+      "e": 1113.86,
+      "en": "So those are the three verbs that we use ok?",
+      "vi": "Nào, đó là ba động từ mà chúng ta sử dụng, được chứ?",
+      "s": 1110.8
+    },
+    {
+      "e": 1121.06,
+      "en": "Great! So thanks mum and I'll see you again very soon, bye.",
+      "vi": "Tuyệt! Nào, cảm ơn mẹ và tôi sẽ gặp lại các bạn sớm thôi, tạm biệt.",
+      "s": 1113.86
+    },
+    {"e": 1127.68, "en": "...", "vi": "...", "s": 1121.06},
+    {
+      "e": 1130.8,
+      "en": "Hi everybody, what's on TV?",
+      "vi": "Xin chào mọi người, TV chiếu gì thế?",
+      "s": 1127.68
+    },
+    {
+      "e": 1134.31,
+      "en": "Shh... Jack! Just a minute... It's almost finished.",
+      "vi": "Shh... Jack! Ðợi đã... Gần hết rồi.",
+      "s": 1130.8
+    },
+    {"e": 1160.14, "en": "...", "vi": "...", "s": 1134.31},
+    {
+      "e": 1166.54,
+      "en": "So... What were you watching that was so engrossing?",
+      "vi": "Nào... Những gì các cô đang xem thu hút đến vậy sao?",
+      "s": 1160.14
+    },
+    {
+      "e": 1170.32,
+      "en": "It was an extremely interesting documentary about Picasso's life.",
+      "vi": "Ðó là một bộ phim tài liệu cực kỳ thú vị về cuộc đời của Picasso.",
+      "s": 1166.54
+    },
+    {
+      "e": 1174.61,
+      "en": "There were lots of details about some of his stranger habits.",
+      "vi": "Có rất nhiều chi tiết về một số thói quen kỳ lạ của ông ấy.",
+      "s": 1170.32
+    },
+    {
+      "e": 1179.65,
+      "en": "Did you know that Picasso preferred painting women with four eyes?",
+      "vi": "Anh có biết rằng Picasso thích vẽ phụ nữ với bốn mắt hơn hay không?",
+      "s": 1174.61
+    },
+    {"e": 1182.89, "en": "No, I had no idea...", "vi": "Không, tôi không biết...", "s": 1179.65},
+    {
+      "e": 1186.61,
+      "en": "And that he had lots of different types of dogs?",
+      "vi": "Và rằng ông ấy có nhiều loại chó khác nhau không?",
+      "s": 1182.89
+    },
+    {
+      "e": 1191.38,
+      "en": "He used to give only dogs to his friends. Strange, isn't it?",
+      "vi": "Ông ấy thường chỉ tặng chó cho bạn bè. Kỳ lạ, phải không?",
+      "s": 1186.61
+    },
+    {
+      "e": 1196.31,
+      "en": "And that he liked eating Italian cake at Christmas?",
+      "vi": "Và rằng ông ấy thích ăn bánh Ý vào dịp Giáng Sinh?",
+      "s": 1191.38
+    },
+    {
+      "e": 1203.37,
+      "en": "Well, I also go crazy for Italian cake at Christmas, and my name isn't Picasso!",
+      "vi": "Nào, tôi cũng phát điên với bánh Ý vào dịp Giáng Sinh, và tên của tôi không phải là Picasso!",
+      "s": 1196.31
+    },
+    {
+      "e": 1209.21,
+      "en": "By the way, where is our resident artist, Alice?",
+      "vi": "Nhân tiện, họa sĩ trong nhà của chúng ta đâu rồi, Alice?",
+      "s": 1203.37
+    },
+    {
+      "e": 1211.12,
+      "en": "She left early this morning.",
+      "vi": "Cô ấy đã rời đi sáng nay.",
+      "s": 1209.21
+    },
+    {
+      "e": 1214.55,
+      "en": "She said that she had something important to do.",
+      "vi": "Cô ấy nói rằng mình có vài việc quan trọng phải làm.",
+      "s": 1211.12
+    },
+    {
+      "e": 1216.69,
+      "en": "She wouldn't tell me what...",
+      "vi": "Cô ấy không hề nói với tôi điều gì...",
+      "s": 1214.55
+    },
+    {
+      "e": 1221.2,
+      "en": "But she did say it was none of my business. You know how she is...",
+      "vi": "Nhưng cô ấy nói rằng đó không phải là việc của tôi. Anh biết cô ấy như thế nào rồi đấy...",
+      "s": 1216.69
+    },
+    {
+      "e": 1225.68,
+      "en": "That's strange... She usually leaves late...",
+      "vi": "Kỳ lạ thật... Cô ấy thường rời đi khá muộn...",
+      "s": 1221.2
+    },
+    {
+      "e": 1231.13,
+      "en": "Well... As a matter of fact, she was very serious this morning.",
+      "vi": "À... Thực tế thì cô ấy rất nghiêm túc vào sáng nay.",
+      "s": 1225.68
+    },
+    {
+      "e": 1235.35,
+      "en": "She told me she had a headache, but I didn't believe her.",
+      "vi": "Cô ấy nói với tôi rằng mình bị đau đầu, nhưng tôi không tin cô ấy.",
+      "s": 1231.13
+    },
+    {
+      "e": 1241.69,
+      "en": "Oh look: but it's getting late!",
+      "vi": "Ồ, nhìn này: muộn rồi đấy!",
+      "s": 1235.35
+    },
+    {
+      "e": 1246.39,
+      "en": "I'm starting to get worried.",
+      "vi": "Tôi bắt đầu cảm thấy lo lắng.",
+      "s": 1241.69
+    },
+    {
+      "e": 1251.73,
+      "en": "Don't play \"mom\", Anne! Alice is a big girl now...",
+      "vi": "Ðừng chơi trò \"mẹ,\" Anne! Alice là một cô gái trưởng thành rồi...",
+      "s": 1246.39
+    },
+    {
+      "e": 1258.01,
+      "en": "I know... I know... But it's just that she didn't tell me she would be late...",
+      "vi": "Tôi biết... Tôi biết... Nhưng vấn đề là cô ấy không hề nói rằng mình sẽ về muộn...",
+      "s": 1251.73
+    },
+    {
+      "e": 1261.89,
+      "en": "In fact she asked me if I would be late today...",
+      "vi": "Trong thực tế, cô ấy còn hỏi liệu tôi có về muộn hôm nay không...",
+      "s": 1258.01
+    },
+    {
+      "e": 1268.26,
+      "en": "Just a moment... A few days ago Alice told me that she wanted to enter a painting contest.",
+      "vi": "Ðợi đã... Cách đây vài ngày, Alice nói với tôi rằng cô ấy muốn tham gia một cuộc thi vẽ tranh.",
+      "s": 1261.89
+    },
+    {
+      "e": 1271.2,
+      "en": "She said she thought it was her big chance...",
+      "vi": "Cô ấy nói rằng đó là cơ hội lớn dành cho cô ấy...",
+      "s": 1268.26
+    },
+    {
+      "e": 1273.91,
+      "en": "Maybe that's where she is today.",
+      "vi": "Có lẽ cô ấy đã ở đó ngày hôm nay.",
+      "s": 1271.2
+    },
+    {
+      "e": 1278.14,
+      "en": "Well, you're probably right...",
+      "vi": "Vâng, có lẽ cô nói đúng...",
+      "s": 1273.91
+    },
+    {
+      "e": 1287.44,
+      "en": "But, but it's almost midnight. I don't think contests last that long.",
+      "vi": "Nhưng, nhưng gần nửa đêm rồi. Tôi không nghĩ rằng các cuộc thi lại kéo dài đến vậy.",
+      "s": 1278.14
+    },
+    {
+      "e": 1291.95,
+      "en": "Why not? We all know that artists are a little crazy!",
+      "vi": "Tại sao không? Tất cả chúng ta đều biết các họa sĩ đều khá lười biếng mà!",
+      "s": 1287.44
+    },
+    {
+      "e": 1295.21,
+      "en": "Picasso was a perfect example!",
+      "vi": "Picasso là một ví dụ điển hình!",
+      "s": 1291.95
+    },
+    {
+      "e": 1301.07,
+      "en": "That's true! You know something about being crazy, Jack, don't you?",
+      "vi": "Ðúng thế! Anh biết rõ việc trở nên điên rồ là thế nào mà, Jack, phải không?",
+      "s": 1295.21
+    },
+    {"e": 1310.04, "en": "Hello again!", "vi": "Xin chào lần nữa!", "s": 1301.07},
+    {
+      "e": 1317.32,
+      "en": "Did you hear them talking about Picasso, some interesting things about him.",
+      "vi": "Các bạn có nghe họ nói chuyện về Picasso, đôi điều thú vị về ông ấy, hay không?",
+      "s": 1310.04
+    },
+    {
+      "e": 1322.96,
+      "en": "They said he used to give only dogs to his friends,",
+      "vi": "Họ đã nói rằng ông ấy thường chỉ tặng chó cho bạn bè,",
+      "s": 1317.32
+    },
+    {
+      "e": 1330.2,
+      "en": "he used to give only dogs and he used to eat Italian cake at Christmas.",
+      "vi": "ông ấy thường chỉ tặng chó và ông ấy thường ăn bánh Ý vào dịp Giáng Sinh.",
+      "s": 1322.96
+    },
+    {
+      "e": 1338.64,
+      "en": "Now this verb \"used to\", well it's written U-S-E-D",
+      "vi": "Nào, động từ này, \"used to,\" vâng, nó được viết là U-S-E-D",
+      "s": 1330.2
+    },
+    {
+      "e": 1344.28,
+      "en": "but the pronunciation is \"used\" and we'll see that on the screen later.",
+      "vi": "nhưng cách phát âm là \"used,\" và chúng ta sẽ nhìn nó trên màn hình sau.",
+      "s": 1338.64
+    },
+    {
+      "e": 1350.31,
+      "en": "And we use it to talk about habits that people have had in the past",
+      "vi": "Và chúng ta sử dụng nó để nhắc đến những thói quen mà mọi người từng có trong quá khứ",
+      "s": 1344.28
+    },
+    {
+      "e": 1353.9,
+      "en": "and now don't have anymore.",
+      "vi": "và hiện giờ không còn nữa.",
+      "s": 1350.31
+    },
+    {
+      "e": 1363.33,
+      "en": "And to illustrate this I have some, here, some examples of habits that I have had in the past,",
+      "vi": "Và để minh họa điều này, tôi có ở đây một số ví dụ về những thói quen mà tôi đã từng có trong quá khứ,",
+      "s": 1353.9
+    },
+    {
+      "e": 1371.2,
+      "en": "for example this, this is a cigarette, well \"I used to smoke\".",
+      "vi": "ví dụ, đây là điếu thuốc, vâng, \"tôi từng hút thuốc.\"",
+      "s": 1363.33
+    },
+    {
+      "e": 1376.19,
+      "en": "Now that means that I did smoke in the past but I don't smoke anymore,",
+      "vi": "Nào, điều đó có nghĩa rằng tôi đã hút thuốc trong quá khứ, nhưng tôi không còn hút thuốc nữa,",
+      "s": 1371.2
+    },
+    {
+      "e": 1380.73,
+      "en": "I stopped the habit, \"I used to smoke\".",
+      "vi": "tôi đã ngừng thói quen đó, \"tôi từng hút thuốc.\"",
+      "s": 1376.19
+    },
+    {
+      "e": 1387.31,
+      "en": "Look at this tennis racket, \"I used to play tennis\",",
+      "vi": "Hãy nhìn chiếc vợt tennis này, \"tôi từng chơi tennis,\"",
+      "s": 1380.73
+    },
+    {
+      "e": 1391.41,
+      "en": "I was quite good actually, \"I used to play tennis\"",
+      "vi": "thực tế thì tôi chơi khá giỏi, \"tôi từng chơi tennis\"",
+      "s": 1387.31
+    },
+    {
+      "e": 1396.03,
+      "en": "but then I stopped, I didn't have enough time, too much work,",
+      "vi": "nhưng rồi tôi đã ngừng chơi, tôi không có đủ thời gian, quá nhiều công việc,",
+      "s": 1391.41
+    },
+    {
+      "e": 1400.46,
+      "en": "you know how it is... Now look at this, look at this,",
+      "vi": "các bạn biết như thế nào rồi đấy... Nào, hãy nhìn đây, hãy nhìn đây,",
+      "s": 1396.03
+    },
+    {
+      "e": 1410.48,
+      "en": "this is fur, I used to wear this in England, it's a fur,",
+      "vi": "đây là chiếc áo lông thú, tôi đã từng mặc nó ở Anh, đó là một chiếc áo lông thú,",
+      "s": 1400.46
+    },
+    {
+      "e": 1412.74,
+      "en": "you know F-U-R, this,",
+      "vi": "các bạn biết F-U-R rồi đấy, đây,",
+      "s": 1410.48
+    },
+    {
+      "e": 1416.62,
+      "en": "I used to wear it in England but then I stopped",
+      "vi": "Tôi từng mặc nó ở Anh nhưng rồi tôi đã thôi sử dụng nó",
+      "s": 1412.74
+    },
+    {
+      "e": 1421.84,
+      "en": "because now in England people spit, spit at you if you wear fur.",
+      "vi": "bởi lẽ hiện giờ ở Anh thì mọi người sẽ phỉ nhổ, phỉ nhổ vào bạn nếu như bạn mặc áo lông thú.",
+      "s": 1416.62
+    },
+    {
+      "e": 1425.7,
+      "en": "So that is a habit I have definitely stopped.",
+      "vi": "Nào, đó là một thói quen mà tôi chắc chắn đã không còn.",
+      "s": 1421.84
+    },
+    {
+      "e": 1433.75,
+      "en": "Now these, these are vitamins, now, I didn't use to take vitamins in the past,",
+      "vi": "Nào, đây, đây là những viên vitamin, nào, tôi đã không sử dụng vitamin trong quá khứ,",
+      "s": 1425.7
+    },
+    {
+      "e": 1438.65,
+      "en": "I didn't use to, but then my mother, you know my mother's fantastic,",
+      "vi": "Tôi đã không sử dụng, nhưng rồi mẹ tôi, các bạn biết đấy, mẹ tôi rất tuyệt vời,",
+      "s": 1433.75
+    },
+    {
+      "e": 1445.31,
+      "en": "she explained how useful they can be, so now I do, but in the past I didn't use to.",
+      "vi": "bà ấy đã giải thích chúng hữu ích như thế nào, thế nên bây giờ tôi đã sử dụng, nhưng trong quá khứ thì tôi không sử dụng chúng.",
+      "s": 1438.65
+    },
+    {
+      "e": 1448.42,
+      "en": "And this opera, yeah another thing, opera,",
+      "vi": "Và vở nhạc kịch này, vâng, một thứ khác, vở nhạc kịch,",
+      "s": 1445.31
+    },
+    {
+      "e": 1456.7,
+      "en": "I didn't use to listen to opera but now I just love it, so I listen to it a lot.",
+      "vi": "tôi từng không quen nghe nhạc kịch, nhưng hiện giờ tôi rất thích nó, thế nên tôi nghe nhạc kịch rất nhiều.",
+      "s": 1448.42
+    },
+    {
+      "e": 1461.77,
+      "en": "So there were some examples for you of \"used to\",",
+      "vi": "Nào, đó là một số ví dụ dành cho các bạn đối với động từ \"used to,\"",
+      "s": 1456.7
+    },
+    {
+      "e": 1465.43,
+      "en": "let's go and look at the different forms on the board now.",
+      "vi": "chúng ta hãy nhìn lên những cấu trúc khác nhau trên màn hình ngay bây giờ.",
+      "s": 1461.77
+    },
+    {
+      "e": 1472.86,
+      "en": "So when we speak about habits that we had in the past and we don't have now,",
+      "vi": "Nào, khi chúng ta nhắc đến những thói quen mà mình từng có trong quá khứ và bây giờ không còn nữa,",
+      "s": 1465.43
+    },
+    {"e": 1475.31, "en": "we use \"used to\".", "vi": "chúng ta sử dụng \"used to.\"", "s": 1472.86},
+    {
+      "e": 1481.31,
+      "en": "Look at the spelling U-S-E-D and then T-O",
+      "vi": "Hãy nhìn vào cách đánh vần, U-S-E-D và sau đó là T-O",
+      "s": 1475.31
+    },
+    {
+      "e": 1489.15,
+      "en": "but the pronunciation is not \"used\" it's \"used\", unusual \"used\" ok?",
+      "vi": "nhưng cách phát âm không phải là \"used\" mà là \"used,\" \"used\" không bình thường, được chứ?",
+      "s": 1481.31
+    },
+    {
+      "e": 1493.06,
+      "en": "So the example is \"I used to smoke\"",
+      "vi": "Nào, ví dụ là \"Tôi từng hút thuốc\"",
+      "s": 1489.15
+    },
+    {
+      "e": 1495.37,
+      "en": "and that's for all the subject forms",
+      "vi": "và cấu trúc đó dành cho tất cả hình thái chủ ngữ",
+      "s": 1493.06
+    },
+    {
+      "e": 1501.23,
+      "en": "I used to, you used to, he used to, she used to, we used to, they used to, ok?",
+      "vi": "I used to, you used to, he used to, she used to, we used to, they used to, được chứ?",
+      "s": 1495.37
+    },
+    {
+      "e": 1508.64,
+      "en": "So \"I used to smoke\", \"I used to play tennis\", \"I used to wear fur\".",
+      "vi": "Nào, \"tôi từng hút thuốc,\" \"tôi từng chơi tennis,\" \"tôi từng mặc áo lông thú.\"",
+      "s": 1501.23
+    },
+    {"e": 1512.5, "en": "Pronunciation \"used\".", "vi": "Phát âm, \"used.\"", "s": 1508.64},
+    {
+      "e": 1520.11,
+      "en": "Now in the negative we use the auxiliary \"did\" so \"I didn't use\",",
+      "vi": "Nào, ở thể phủ định, chúng ta sử dụng trợ động từ \"did,\" nào, \"tôi đã không sử dụng,\"",
+      "s": 1512.5
+    },
+    {
+      "e": 1523.72,
+      "en": "notice we take off the D because it's the infinitive,",
+      "vi": "để ý rằng chúng ta loại bỏ D, bởi lẽ đó là động từ nguyên mẫu,",
+      "s": 1520.11
+    },
+    {
+      "e": 1531.97,
+      "en": "\"I didn't use to take vitamins\" and \"I didn't use to listen to the opera\"",
+      "vi": "\"Tôi đã không sử dụng vitamin\" và \"tôi đã từng không quen nghe nhạc kịch\"",
+      "s": 1523.72
+    },
+    {
+      "e": 1538.83,
+      "en": "and the question form is easy, it's \"Did you use to do a lot of sports?\"",
+      "vi": "và thể nghi vấn rất dễ, đó là \"Cô có từng chơi nhiều môn thể thao hay không?\"",
+      "s": 1531.97
+    },
+    {
+      "e": 1545.24,
+      "en": "\"Did you use to stay in bed until midday?\" I remember that.",
+      "vi": "\"Cô có từng nằm ngủ nướng trên giường cho đến nửa ngày hay không?\" tôi vẫn còn nhớ điều đó.",
+      "s": 1538.83
+    },
+    {
+      "e": 1548.24,
+      "en": "So if you think about your lives",
+      "vi": "Nào, nếu các bạn nghĩ đến cuộc sống của mình",
+      "s": 1545.24
+    },
+    {
+      "e": 1553.66,
+      "en": "and about habits that you had in the past and you don't have now,",
+      "vi": "và về những thói quen mà các bạn đã có trong quá khứ, và các bạn hiện không còn nữa,",
+      "s": 1548.24
+    },
+    {
+      "e": 1557.53,
+      "en": "when you talk about those to people, that's what you use.",
+      "vi": "thì khi các bạn nói đến những thói quen đó với mọi người, cấu trúc \"used to\" chính là những gì các bạn sử dụng.",
+      "s": 1553.66
+    },
+    {
+      "e": 1562.49,
+      "en": "\"I used to smoke but I don't anymore\",",
+      "vi": "\"Tôi từng hút thuốc nhưng tôi không còn hút nữa,\"",
+      "s": 1557.53
+    },
+    {
+      "e": 1567.47,
+      "en": "\"I used to play tennis, but now I'm too busy\" alright?",
+      "vi": "\"Tôi từng chơi tennis, nhưng hiện giờ tôi quá bận,\" được chứ?",
+      "s": 1562.49
+    },
+    {
+      "e": 1573.22,
+      "en": "So very important for describing past habits \"used to\". Great!",
+      "vi": "Nào, rất quan trọng để mô tả những thói quen trong quá khứ, \"used to.\" Tuyệt!",
+      "s": 1567.47
+    },
+    {
+      "e": 1577.63,
+      "en": "That's the lesson for now and I'll see you again very soon, bye!",
+      "vi": "Ðó là tất cả bài học cho bây giờ và tôi sẽ gặp lại các bạn rất sớm thôi, tạm biệt!",
+      "s": 1573.22
+    },
+    {"e": 1594.42, "en": "Good morning, Alice.", "vi": "Chào buổi sáng, Alice.", "s": 1577.63},
+    {"e": 1598.47, "en": "Where were you last night?", "vi": "Cô đã ở đâu đêm qua?", "s": 1594.42},
+    {
+      "e": 1602.26,
+      "en": "We were getting worried...",
+      "vi": "Chúng tôi đã rất lo lắng...",
+      "s": 1598.47
+    },
+    {
+      "e": 1606.5,
+      "en": "Good morning. I'd prefer not to talk about it...",
+      "vi": "Chào buổi sáng. Tôi không muốn nói đến điều đó...",
+      "s": 1602.26
+    },
+    {"e": 1609.37, "en": "Why, what happened?", "vi": "Tại sao, chuyện gì đã xảy ra?", "s": 1606.5},
+    {
+      "e": 1613.76,
+      "en": "Well, I took part in a young artists competition...",
+      "vi": "Vâng, tôi đã tham gia vào một cuộc thi dành cho các họa sĩ trẻ...",
+      "s": 1609.37
+    },
+    {
+      "e": 1618.13,
+      "en": "I thought it would be the perfect occasion for me to show my talent!",
+      "vi": "Tôi nghĩ đó là cơ hội tốt để tôi thể hiện tài năng của mình!",
+      "s": 1613.76
+    },
+    {
+      "e": 1626.86,
+      "en": "So, how did it go? You made a great impression, didn't you?",
+      "vi": "Vâng, mọi việc diễn ra thế nào? Cô đã tạo được ấn tượng tốt, phải không?",
+      "s": 1618.13
+    },
+    {"e": 1629.29, "en": "Well, no...", "vi": "À, không...", "s": 1626.86},
+    {
+      "e": 1637.2,
+      "en": "It went badly. They said that I wasn't cut out to be an artist.",
+      "vi": "Mọi việc diễn ra rất tồi tệ. Họ nói rằng tôi không có năng khiếu để trở thành họa sĩ.",
+      "s": 1629.29
+    },
+    {
+      "e": 1641.32,
+      "en": "But the jury was made up of incompetents...",
+      "vi": "Nhưng ban giám khảo lại chỉ toàn những kẻ thiếu năng lực....",
+      "s": 1637.2
+    },
+    {
+      "e": 1645.14,
+      "en": "Maybe no one appreciates my talent!",
+      "vi": "Có lẽ không ai đánh giá cao tài năng của tôi!",
+      "s": 1641.32
+    },
+    {
+      "e": 1648.92,
+      "en": "Come on Alice, don't take it so badly.",
+      "vi": "Thôi nào, Alice, đừng nghiêm trọng thế.",
+      "s": 1645.14
+    },
+    {
+      "e": 1654.94,
+      "en": "You know you are a genius, right? That's all that matters!",
+      "vi": "Cô biết rõ mình là một thiên tài mà, phải không? Ðó mới là điều quan trọng!",
+      "s": 1648.92
+    },
+    {
+      "e": 1664.72,
+      "en": "Yes, just like Van Gogh... who, by the way, only became famous after he had died.",
+      "vi": "Vâng, cũng giống như Van Gogh... nào, người chỉ nổi tiếng sau khi ông ấy qua đời.",
+      "s": 1654.94
+    },
+    {
+      "e": 1667.99,
+      "en": "Maybe that's my destiny...",
+      "vi": "Có lẽ đó là số phận của tôi...",
+      "s": 1664.72
+    },
+    {
+      "e": 1676.07,
+      "en": "Maybe, you're exaggerating just a little bit...",
+      "vi": "Có lẽ, cô hơi cường điệu...",
+      "s": 1667.99
+    },
+    {"e": 1679.8, "en": "I mean, Van Gogh?!", "vi": "Ý tôi là, Van Gogh ấy à?!", "s": 1676.07},
+    {
+      "e": 1685.06,
+      "en": "But you don't really think you're in the same league, do you?",
+      "vi": "Nhưng cô không thực sự nghĩ rằng mình cùng đẳng cấp với ông ấy chứ, phải không?",
+      "s": 1679.8
+    },
+    {
+      "e": 1689.6,
+      "en": "And why not?! No one appreciates my talent either!",
+      "vi": "Và tại sao không nào?! Không ai đánh giá cao tài năng của tôi cả!",
+      "s": 1685.06
+    },
+    {
+      "e": 1697.5,
+      "en": "Anyway, I want your opinions! Wait just a moment while I get something...",
+      "vi": "Sao cũng được, tôi muốn biết quan điểm của các bạn! Hãy đợi một lát trong lúc tôi lấy một thứ...",
+      "s": 1689.6
+    },
+    {"e": 1710.56, "en": "My Goodness!", "vi": "Lạy Chúa!", "s": 1697.5},
+    {
+      "e": 1718.0,
+      "en": "Here you go! This is the painting I took along yesterday.",
+      "vi": "Ðây này! Ðây là bức tranh mà tôi đã mang theo ngày hôm qua.",
+      "s": 1710.56
+    },
+    {
+      "e": 1723.98,
+      "en": "What do you think? Isn't it beautiful?",
+      "vi": "Các bạn nghĩ gì? Nó không đẹp à?",
+      "s": 1718.0
+    },
+    {
+      "e": 1737.75,
+      "en": "It's... It's interesting! It's a very... A very unique painting, yes...",
+      "vi": "Nó... Nó rất thú vị! Ðó là một bức tranh rất... rất độc đáo, vâng...",
+      "s": 1723.98
+    },
+    {
+      "e": 1740.89,
+      "en": "Unique is the right word.",
+      "vi": "Ðộc đáo là từ thích hợp.",
+      "s": 1737.75
+    },
+    {
+      "e": 1747.72,
+      "en": "Hum... Alice... You know I don't really understand art, don't you?",
+      "vi": "Nào... Alice... Cô biết đấy, tôi thực sự không hiểu nghệ thuật cho lắm, đúng không?",
+      "s": 1740.89
+    },
+    {
+      "e": 1750.65,
+      "en": "What does it represent?",
+      "vi": "Nó tượng trưng điều gì vậy?",
+      "s": 1747.72
+    },
+    {
+      "e": 1754.41,
+      "en": "That's the same question they asked me yesterday.",
+      "vi": "Ðó cũng là câu hỏi mà họ đã hỏi tôi ngày hôm qua.",
+      "s": 1750.65
+    },
+    {
+      "e": 1759.89,
+      "en": "I can't believe that! It's so clear!",
+      "vi": "Tôi không thể tin nổi điều đó! Nó quá rõ ràng!",
+      "s": 1754.41
+    },
+    {
+      "e": 1767.26,
+      "en": "It's a painting of a man and a woman walking hand in hand!",
+      "vi": "Ðó là bức tranh về một người đàn ông và một người phụ nữ đang dạo bước tay trong tay!",
+      "s": 1759.89
+    },
+    {"e": 1772.62, "en": "Oh... I see...", "vi": "Ồ... tôi hiểu...", "s": 1767.26},
+    {
+      "e": 1782.02,
+      "en": "Well, the truth is, it's a bit difficult to see... I mean,",
+      "vi": "Nào, thực tế thì, nó hơi khó thấy... ý tôi là vậy,",
+      "s": 1772.62
+    },
+    {
+      "e": 1790.59,
+      "en": "at first glance... It looks like a whole lot of mixed-up colours...",
+      "vi": "thoạt nhìn... Nó trông giống như một mớ màu sắc lẫn lộn...",
+      "s": 1782.02
+    },
+    {
+      "e": 1796.57,
+      "en": "Come on Jack, you just don't understand abstract art, do you?",
+      "vi": "Thôi nào, Jack, anh chỉ không hiểu nghệ thuật trừu tượng thôi, phải không?",
+      "s": 1790.59
+    },
+    {
+      "e": 1804.07,
+      "en": "Well, now I understand that neither of you has any appreciation of fine art!",
+      "vi": "Vâng, giờ thì tôi hiểu rằng cả hai bạn đều không có sự trân trọng nào dành cho mỹ thuật!",
+      "s": 1796.57
+    },
+    {
+      "e": 1817.56,
+      "en": "Oh, artists! Never tell an artist what you really think!",
+      "vi": "Ôi, các họa sĩ! Ðừng bao giờ nói cho một họa sĩ biết bạn thực sự nghĩ gì!",
+      "s": 1804.07
+    },
+    {"e": 1823.05, "en": "...", "vi": "...", "s": 1817.56},
+    {
+      "e": 1827.14,
+      "en": "Hello again to you and welcome back for some more English,",
+      "vi": "Xin chào các bạn lần nữa và chào mừng quay trở lại với một số cấu trúc tiếng Anh khác,",
+      "s": 1823.05
+    },
+    {
+      "e": 1834.15,
+      "en": "did you hear in that last episode how Anne said to Alice \"So how did it go?",
+      "vi": "các bạn có nghe trong đoạn vừa rồi Anne đã nói với Alice rằng \"Mọi việc diễn ra như thế nào?",
+      "s": 1827.14
+    },
+    {
+      "e": 1837.84,
+      "en": "You made a great impression, didn't you?\",",
+      "vi": "Cô đã tạo một ấn tượng tốt, phải không?\",",
+      "s": 1834.15
+    },
+    {
+      "e": 1841.75,
+      "en": "\"You made a great impression, didn't you?\"",
+      "vi": "\"Cô đã tạo một ấn tượng tốt, phải không?\"",
+      "s": 1837.84
+    },
+    {
+      "e": 1844.89,
+      "en": "Do you remember that grammatical form?",
+      "vi": "Các bạn còn nhớ cấu trúc ngữ pháp đó không?",
+      "s": 1841.75
+    },
+    {
+      "e": 1850.31,
+      "en": "\"Didn't you?\". A question... question tag?",
+      "vi": "\"Din't you?\". Một câu hỏi... câu hỏi đuôi?",
+      "s": 1844.89
+    },
+    {
+      "e": 1854.17,
+      "en": "Yeah? Remember we did a lesson about this",
+      "vi": "Vâng? Hãy nhớ chúng ta đã từng có một bài học về cấu trúc này",
+      "s": 1850.31
+    },
+    {
+      "e": 1860.53,
+      "en": "and the example we used was \"She's unhappy, isn't she?\"",
+      "vi": "và ví dụ mà chúng ta đã sử dụng là \"Cô ấy không hạnh phúc, phải không?\"",
+      "s": 1854.17
+    },
+    {
+      "e": 1863.73,
+      "en": "Do you remember that? Yes?",
+      "vi": "Các bạn còn nhớ chứ? Vâng?",
+      "s": 1860.53
+    },
+    {
+      "e": 1865.85,
+      "en": "I want to give you a little test on it,",
+      "vi": "Tôi muốn thử kiểm tra các bạn về cấu trúc đó,",
+      "s": 1863.73
+    },
+    {
+      "e": 1870.98,
+      "en": "and in order to do this well you have to be very careful",
+      "vi": "và để làm điều này, vâng, các bạn cần phải rất cẩn thận",
+      "s": 1865.85
+    },
+    {
+      "e": 1874.47,
+      "en": "about your auxiliaries so pay attention.",
+      "vi": "đối với các trợ động từ của mình, nào, hãy chú ý.",
+      "s": 1870.98
+    },
+    {
+      "e": 1880.64,
+      "en": "Number one: \"You're married...\", question tag",
+      "vi": "Thứ nhất: \"Cô đã kết hôn...,\" câu hỏi đuôi",
+      "s": 1874.47
+    },
+    {
+      "e": 1889.26,
+      "en": "\"You're married, aren't you?\", did you get that right?",
+      "vi": "\"Cô đã kết hôn, phải không?\", bạn có thấy câu đó đúng không?",
+      "s": 1880.64
+    },
+    {"e": 1890.46, "en": "Wrong? Difficult?", "vi": "Sai? Khó?", "s": 1889.26},
+    {
+      "e": 1894.72,
+      "en": "Do you remember \"You are married\" you take the verb, the auxiliary,",
+      "vi": "Các bạn có còn nhớ \"Cô đã kết hôn,\" các bạn lấy động từ, trợ động từ,",
+      "s": 1890.46
+    },
+    {
+      "e": 1902.0,
+      "en": "and at the beginning it's positive so you turn it into negative \"You're married, aren't you?\".",
+      "vi": "và lúc ban đầu thì câu này ở thể khẳng định, thế nên các bạn chuyển nó sang thể phủ định, \"Cô đã kết hôn, phải không?\"",
+      "s": 1894.72
+    },
+    {
+      "e": 1906.75,
+      "en": "Try this: \"You didn't go to the party...\",",
+      "vi": "Hãy thử câu này: \"Anh không đến dự buổi tiệc...\"",
+      "s": 1902.0
+    },
+    {
+      "e": 1911.32,
+      "en": "\"didn't\" is negative, becomes positive",
+      "vi": "\"didn't\" là thể phủ định, trở thành khẳng định",
+      "s": 1906.75
+    },
+    {
+      "e": 1916.34,
+      "en": "\"You didn't go the party, did you?\", great!",
+      "vi": "\"Anh không đến dự buổi tiệc, phải không?\" tuyệt!",
+      "s": 1911.32
+    },
+    {
+      "e": 1922.34,
+      "en": "Next one: \"He lives in Paris\", \"He lives in Paris\",",
+      "vi": "Tiếp theo: \"Anh ấy sống ở Paris,\" \"Anh ấy sống ở Paris,\"",
+      "s": 1916.34
+    },
+    {
+      "e": 1927.65,
+      "en": "lives, simple present, auxiliary?",
+      "vi": "sống, thì hiện tại đơn, trợ động từ?",
+      "s": 1922.34
+    },
+    {
+      "e": 1933.67,
+      "en": "Yeah! \"Doesn't he?\", \"He lives in Paris, doesn't he?\".",
+      "vi": "Vâng! \"Doesn't he?\", \"Anh ấy sống ở Paris, phải không?\".",
+      "s": 1927.65
+    },
+    {
+      "e": 1940.41,
+      "en": "\"They aren't French\" aren't...",
+      "vi": "\"Họ không phải người Pháp,\" aren't...",
+      "s": 1933.67
+    },
+    {
+      "e": 1945.57,
+      "en": "\"They aren't French\", positive... \"are they?\", great!",
+      "vi": "\"Họ không phải người Pháp,\" khẳng định... \"are they?\", tuyệt!",
+      "s": 1940.41
+    },
+    {
+      "e": 1948.32,
+      "en": "Next one: \"She went to the cinema\",",
+      "vi": "Tiếp theo: \"Cô ấy đã đến rạp phim,\"",
+      "s": 1945.57
+    },
+    {
+      "e": 1956.31,
+      "en": "\"She went to the cinema\" auxiliary... past tense... \"didn't she?\",",
+      "vi": "\"Cô ấy đã đến rạp phim,\" trợ động từ... thì quá khứ... \"didn't she?\",",
+      "s": 1948.32
+    },
+    {
+      "e": 1959.99,
+      "en": "\"She went to the cinema, didn't she?\" alright?",
+      "vi": "\"Cô ấy đã đến rạp phim, phải không?\" được chứ?",
+      "s": 1956.31
+    },
+    {
+      "e": 1962.41,
+      "en": "\"You don't like him\",",
+      "vi": "\"Bạn không thích anh ấy,\"",
+      "s": 1959.99
+    },
+    {
+      "e": 1970.93,
+      "en": "\"You don't like him\" negative... \"do you?\", \"You don't like him, do you?\", great,",
+      "vi": "\"Bạn không thích anh ấy,\" thể phủ định... \"do you?\", \"Bạn không thích anh ấy, phải không?\", tuyệt!",
+      "s": 1962.41
+    },
+    {
+      "e": 1974.05,
+      "en": "\"They were enjoying the show\"",
+      "vi": "\"Họ đang thưởng thức buổi diễn\"",
+      "s": 1970.93
+    },
+    {
+      "e": 1981.62,
+      "en": "\"They were enjoying the show\" past continuous... \"weren't they?\"",
+      "vi": "\"Họ đang thưởng thức buổi diễn,\" thì quá khứ tiếp diễn... \"weren't they?\"",
+      "s": 1974.05
+    },
+    {
+      "e": 1984.77,
+      "en": "They were, weren't they, great!",
+      "vi": "They were, weren't they, tuyệt!",
+      "s": 1981.62
+    },
+    {
+      "e": 1991.81,
+      "en": "\"He's coming tomorrow\", \"isn't he?\",",
+      "vi": "\"Anh ấy sẽ đến vào ngày mai,\" \"isn't he?\"",
+      "s": 1984.77
+    },
+    {
+      "e": 1994.34,
+      "en": "great, you're getting better all the time.",
+      "vi": "tuyệt, các bạn đang tiến bộ đấy.",
+      "s": 1991.81
+    },
+    {
+      "e": 2004.15,
+      "en": "\"They'll be late\", \"They'll be late\" will... will... \"won't they?\",",
+      "vi": "\"Họ sẽ đến muộn,\" \"Họ sẽ đến muộn\" will... will... \"won't they?\",",
+      "s": 1994.34
+    },
+    {
+      "e": 2006.11,
+      "en": "\"They'll be late, won't they?\".",
+      "vi": "\"Họ sẽ đến muộn, phải không?\".",
+      "s": 2004.15
+    },
+    {
+      "e": 2010.15,
+      "en": "And the last one: \"We can't buy it\",",
+      "vi": "Và ví dụ cuối cùng: \"Chúng ta không thể mua nó,\"",
+      "s": 2006.11
+    },
+    {
+      "e": 2016.59,
+      "en": "\"We can't buy it... can we?\"",
+      "vi": "\"Chúng ta không thể mua nó... phải không?\"",
+      "s": 2010.15
+    },
+    {
+      "e": 2022.76,
+      "en": "So, it's negative and positive \"We can't buy it, can we\". Well done!",
+      "vi": "Nào, đó là thể phủ định và khẳng định, \"Chúng ta không thể mua nó, phải không?\". Làm tốt lắm.",
+      "s": 2016.59
+    },
+    {
+      "e": 2024.25,
+      "en": "You know these are difficult,",
+      "vi": "Các bạn biết đấy, những cấu trúc này rất khó,",
+      "s": 2022.76
+    },
+    {
+      "e": 2032.43,
+      "en": "only if you know your auxiliary verbs can you do these question tags, so congratulations, we're making progress.",
+      "vi": "chỉ khi hiểu rõ các trợ động từ thì các bạn mới có thể làm những câu hỏi đuôi này, nào, xin chúc mừng, chúng ta đang tiến bộ đấy.",
+      "s": 2024.25
+    },
+    {
+      "e": 2036.12,
+      "en": "Great, so I'll see you in the next lesson very soon,",
+      "vi": "Tuyệt, nào, tôi sẽ gặp lại các bạn trong bài học tiếp theo sớm thôi,",
+      "s": 2032.43
+    },
+    {
+      "e": 2039.3,
+      "en": "take care and enjoy studying, bye!",
+      "vi": "bảo trọng và tận hưởng việc học nhé, tạm biệt!",
+      "s": 2036.12
+    },
+    {"e": 2043.55, "en": "Good morning,", "vi": "Chào buổi sáng,", "s": 2039.3},
+    {
+      "e": 2047.0,
+      "en": "welcome to this week's edition of \"Climate Change\".",
+      "vi": "chào mừng đến với chương trình tuần này của \"Thay đổi khí hậu.\"",
+      "s": 2043.55
+    },
+    {
+      "e": 2050.81,
+      "en": "In the studio with me is our weather expert Susan Ferley.",
+      "vi": "Trong phim trường cùng tôi là chuyên gia thời tiết của chúng ta, Susan Ferley.",
+      "s": 2047.0
+    },
+    {"e": 2052.02, "en": "Good morning Eric.", "vi": "Chào buổi sáng, Eric.", "s": 2050.81},
+    {
+      "e": 2056.38,
+      "en": "Well Susan, there's a lot of talk these days about climate change.",
+      "vi": "Nào, Susan, có rất nhiều cuộc bàn tán ngày nay về sự thay đổi khí hậu.",
+      "s": 2052.02
+    },
+    {
+      "e": 2059.07,
+      "en": "Could you explain exactly what is happening?",
+      "vi": "Cô có thể giải thích chính xác những gì đang xảy ra được không?",
+      "s": 2056.38
+    },
+    {
+      "e": 2066.37,
+      "en": "Of course. You know the first thing to stress is that the earth's climate is always changing.",
+      "vi": "Tất nhiên. Các bạn biết đấy, điều đầu tiên cần nhấn mạnh là khí hậu của trái đất luôn thay đổi.",
+      "s": 2059.07
+    },
+    {
+      "e": 2070.14,
+      "en": "In the past this happened due to natural causes.",
+      "vi": "Trong quá khứ, điều này đã xảy ra do các nguyên nhân tự nhiên.",
+      "s": 2066.37
+    },
+    {
+      "e": 2074.85,
+      "en": "I mean, the atmosphere and the earth's climate changed naturally.",
+      "vi": "Ý tôi là bầu khí quyển và khí hậu trái đất đã thay đổi một cách tự nhiên.",
+      "s": 2070.14
+    },
+    {
+      "e": 2076.79,
+      "en": "Now things are different.",
+      "vi": "Bây giờ, mọi thứ đã trở nên khác biệt.",
+      "s": 2074.85
+    },
+    {
+      "e": 2084.26,
+      "en": "Scientists believe that climate change today is a result of man's activities, our activities.",
+      "vi": "Các nhà khoa học tin rằng khí hậu ngày nay thay đổi là kết quả của các hoạt động của con người, các hoạt động của chúng ta.",
+      "s": 2076.79
+    },
+    {
+      "e": 2089.15,
+      "en": "And why are scientists so worried about this climate change?",
+      "vi": "Và tại sao các nhà khoa học lại lo lắng đến sự thay đổi khí hậu đến như vậy?",
+      "s": 2084.26
+    },
+    {
+      "e": 2096.94,
+      "en": "Well, before I answer that question I'd like to talk a little about what we call the greenhouse effect.",
+      "vi": "Nào, trước khi tôi trả lời câu hỏi đó, tôi muốn nói đôi điều về những gì được chúng ta gọi là hiệu ứng nhà kính.",
+      "s": 2089.15
+    },
+    {
+      "e": 2101.15,
+      "en": "Certainly, scientists often talk about the greenhouse effect.",
+      "vi": "Hẳn rồi, các nhà khoa học thường nhắc đến hiệu ứng nhà kính.",
+      "s": 2096.94
+    },
+    {"e": 2102.7, "en": "What is this exactly?", "vi": "Chính xác thì đó là gì?", "s": 2101.15},
+    {
+      "e": 2107.11,
+      "en": "The \"greenhouse effect\" is very important for the world's weather.",
+      "vi": "\"Hiệu ứng nhà kính\" rất quan trọng đối với thời tiết thế giới.",
+      "s": 2102.7
+    },
+    {
+      "e": 2112.7,
+      "en": "Greenhouse gases help to capture the energy we receive from the sun.",
+      "vi": "Các khí nhà kính giúp củng cố cho nguồn năng lượng mà chúng ta nhận được từ mặt trời.",
+      "s": 2107.11
+    },
+    {
+      "e": 2114.75,
+      "en": "They keep the earth warm.",
+      "vi": "Chúng giữ cho trái đất ấm áp.",
+      "s": 2112.7
+    },
+    {
+      "e": 2121.33,
+      "en": "Without these gases the world would be a colder place, and our lives would be very different.",
+      "vi": "Nếu thiếu những khí này thì thế giới sẽ trở thành một nơi lạnh lẽo, và cuộc sống của chúng ta có thể trở nên rất khác biệt.",
+      "s": 2114.75
+    },
+    {
+      "e": 2125.41,
+      "en": "Well, if the greenhouse effect is so useful for the earth,",
+      "vi": "Vâng, nếu hiệu ứng nhà kính có ích cho trái đất như vậy,",
+      "s": 2121.33
+    },
+    {
+      "e": 2129.58,
+      "en": "why do scientists talk about it nowadays as if it's something dangerous?",
+      "vi": "thì tại sao các nhà khoa học hiện đang nhắc đến nó như thể đó là một vấn đề gây nguy hiểm?",
+      "s": 2125.41
+    },
+    {
+      "e": 2133.38,
+      "en": "It's the extra greenhouse gases that are dangerous!",
+      "vi": "Chính lượng khí nhà kính dư thừa mới nguy hiểm!",
+      "s": 2129.58
+    },
+    {
+      "e": 2142.41,
+      "en": "Our way of life, cars, factories, central heating, is producing too much of these greenhouse gases.",
+      "vi": "Cách sống của chúng ta, ô tô, nhà máy, hệ thống sưởi ấm trung tâm, tất cả đang tạo ra quá nhiều những loại khí nhà kính này.",
+      "s": 2133.38
+    },
+    {
+      "e": 2149.08,
+      "en": "These gases are trapping more and more of the sun's energy and the world's becoming warmer.",
+      "vi": "Những loại khí này ngày càng thu hút nhiều hơn năng lượng mặt trời và thế giới đang dần trở nên ấm hơn.",
+      "s": 2142.41
+    },
+    {
+      "e": 2152.3,
+      "en": "Is carbon dioxide one of these gases?",
+      "vi": "Carbon dioxide có phải là một trong những loại khí này không?",
+      "s": 2149.08
+    },
+    {
+      "e": 2158.93,
+      "en": "Yes, carbon dioxide, co2, is one of the main greenhouse gases.",
+      "vi": "Vâng, carbon dioxide, CO2, là một trong những loại khí nhà kính chủ yếu.",
+      "s": 2152.3
+    },
+    {
+      "e": 2164.5,
+      "en": "Carbon dioxide is produced when we burn coal and natural gas.",
+      "vi": "Carbon dioxide được tạo ra khi chúng ta đốt than và khí tự nhiên.",
+      "s": 2158.93
+    },
+    {
+      "e": 2172.95,
+      "en": "The problem is that over the years the concentration of carbon dioxide in the atmosphere has increased enormously.",
+      "vi": "Vấn đề là trải qua năm tháng, sự tập trung carbon dioxide trên bầu khí quyển đã gia tăng đáng kể.",
+      "s": 2164.5
+    },
+    {
+      "e": 2178.53,
+      "en": "So, to stop global warming we need to use less coal and natural gases?",
+      "vi": "Nào, để chấm dứt sự ấm lên toàn cầu, chúng ta cần sử dụng ít than hơn và khí tự nhiên hơn, đúng không?",
+      "s": 2172.95
+    },
+    {
+      "e": 2181.62,
+      "en": "Exactly! but not only that!",
+      "vi": "Chính xác! Nhưng không chỉ có thế!",
+      "s": 2178.53
+    },
+    {
+      "e": 2186.94,
+      "en": "We also need to plant more trees and we must stop destroying our forests",
+      "vi": "Chúng ta còn cần phải trồng nhiều cây hơn và phải thôi phá rừng",
+      "s": 2181.62
+    },
+    {
+      "e": 2190.86,
+      "en": "because they take carbon dioxide out of the air.",
+      "vi": "bởi lẽ chúng sẽ giúp loại bỏ carbon dioxide ra khỏi không khí.",
+      "s": 2186.94
+    },
+    {
+      "e": 2192.97,
+      "en": "Is there anything else we can do?",
+      "vi": "Liệu chúng ta còn có thể làm gì khác nữa?",
+      "s": 2190.86
+    },
+    {
+      "e": 2199.49,
+      "en": "Well, governments around the world need to encourage the use of renewable energy sources.",
+      "vi": "À, các chính phủ trên khắp thế giới cần phải khuyến khích sử dụng các nguồn năng lượng có thể tái tạo.",
+      "s": 2192.97
+    },
+    {
+      "e": 2203.02,
+      "en": "Solar panels can use the sun's energy,",
+      "vi": "Các tấm pin mặt trời có thể sử dụng năng lượng mặt trời,",
+      "s": 2199.49
+    },
+    {
+      "e": 2206.99,
+      "en": "wind turbines can generate electricity from the wind",
+      "vi": "các tua bin gió có thể tạo ra điện năng từ gió",
+      "s": 2203.02
+    },
+    {
+      "e": 2212.76,
+      "en": "and hydroelectric power plants can use water to generate electricity.",
+      "vi": "và các nhà máy thủy điện có thể sử dụng nước để tạo ra điện năng.",
+      "s": 2206.99
+    },
+    {
+      "e": 2216.9,
+      "en": "Renewable energy is becoming popular today, isn't it?",
+      "vi": "Năng lượng có thể tái tạo đang dần trở nên phổ biến hôm nay, phải không?",
+      "s": 2212.76
+    },
+    {
+      "e": 2220.41,
+      "en": "Yes, it is, but there's still a long way to go.",
+      "vi": "Vâng, đúng thế, nhưng chúng ta vẫn còn rất nhiều việc phải làm.",
+      "s": 2216.9
+    },
+    {
+      "e": 2227.47,
+      "en": "Ok, Susan one last question, what are the consequences of climate change?",
+      "vi": "Ok, Susan, một câu hỏi cuối cùng, đâu là những hệ quả của sự thay đổi khí hậu?",
+      "s": 2220.41
+    },
+    {
+      "e": 2231.35,
+      "en": "Well, higher average temperatures around the world.",
+      "vi": "Vâng, nhiệt độ trung bình cao hơn trên khắp thế giới.",
+      "s": 2227.47
+    },
+    {
+      "e": 2237.33,
+      "en": "You know even a small change in temperature, even a one degree increase,",
+      "vi": "Các bạn biết đấy, thậm chí một sự thay đổi nhỏ của nhiệt độ, thậm chí chỉ cần một độ tăng thêm,",
+      "s": 2231.35
+    },
+    {
+      "e": 2245.04,
+      "en": "can cause the sea level to rise as the polar ice caps melt, in fact this is already happening.",
+      "vi": "cũng có thể khiến mực nước biển tăng lên vì các khối băng ở cực bị tan chảy, thực tế thì đây là những gì đã xảy ra rồi.",
+      "s": 2237.33
+    },
+    {"e": 2247.19, "en": "Other consequences?", "vi": "Còn các hệ quả khác?", "s": 2245.04},
+    {
+      "e": 2254.53,
+      "en": "More rainfall in some parts of the world and less in others, more extreme weather conditions,",
+      "vi": "Lượng mưa nhiều hơn ở một số khu vực trên thế giới và ít hơn ở một số khu vực khác, những điều kiện thời tiết khắc nghiệt hơn,",
+      "s": 2247.19
+    },
+    {
+      "e": 2257.17,
+      "en": "stronger hurricanes and typhoons.",
+      "vi": "những cơn bão và cuồng phong mạnh hơn.",
+      "s": 2254.53
+    },
+    {
+      "e": 2260.08,
+      "en": "So this is definitely a serious issue!",
+      "vi": "Nào, đây hẳn là một vấn đề nghiêm trọng!",
+      "s": 2257.17
+    },
+    {
+      "e": 2265.25,
+      "en": "We mustn't underestimate the importance of climate change and we need to use more renewable energy.",
+      "vi": "Chúng ta không được đánh giá thấp tầm quan trọng của sự thay đổi khí hậu, và chúng ta cần phải sử dụng nhiều năng lượng có thể tái tạo hơn.",
+      "s": 2260.08
+    },
+    {
+      "e": 2269.47,
+      "en": "Well, thanks to Susan for your clear explanation of the problems.",
+      "vi": "Vâng, cảm ơn Susan vì sự giải thích rõ ràng của cô về các vấn đề.",
+      "s": 2265.25
+    },
+    {"e": 2271.11, "en": "Thank you, goodbye.", "vi": "Cảm ơn, tạm biệt.", "s": 2269.47},
+    {
+      "e": 2277.92,
+      "en": "And goodbye and see you again next week for another edition of \"Climate Change\".",
+      "vi": "Tạm biệt và hẹn gặp lại các bạn tuần tới trong một chương trình khác của \"Thay đổi khí hậu.\"",
+      "s": 2271.11
+    },
+    {
+      "e": 2284.58,
+      "en": "Ok, now let's have a look at all the terms and expressions we used to talk about the weather",
+      "vi": "Ok, nào, chúng ta hãy nhìn vào tất cả những thuật ngữ và cách diễn đạt mà chúng tôi đã sử dụng để nói về thời tiết",
+      "s": 2277.92
+    },
+    {"e": 2286.51, "en": "and climate change.", "vi": "cũng như sự thay đổi khí hậu.", "s": 2284.58},
+    {
+      "e": 2291.95,
+      "en": "Firstly, \"climate change\" is the term we use for the changes to the world's weather.",
+      "vi": "Thứ nhất, \"sự thay đổi khí hậu\" là thuật ngữ mà chúng ta sử dụng để mô tả những thay đổi đối với thời tiết trên thế giới.",
+      "s": 2286.51
+    },
+    {
+      "e": 2297.07,
+      "en": "For example higher temperatures and more rainfall.",
+      "vi": "Ví dụ, nhiệt độ cao hơn hoặc lượng mưa nhiều hơn.",
+      "s": 2291.95
+    },
+    {
+      "e": 2303.27,
+      "en": "\"Rainfall\" is how much rain there is, the volume of rain that falls.",
+      "vi": "\"Lượng mưa\" là mức độ mưa, lượng nước mưa rơi xuống.",
+      "s": 2297.07
+    },
+    {
+      "e": 2307.27,
+      "en": "And I finally understand what the \"Greenhouse effect\" is!",
+      "vi": "Và cuối cùng thì tôi đã hiểu \"hiệu ứng nhà kính\" là gì!",
+      "s": 2303.27
+    },
+    {
+      "e": 2315.24,
+      "en": "Well, a \"greenhouse\" is a transparent house, usually made of glass, where we grow plants.",
+      "vi": "Vâng, \"nhà kính\" là một ngôi nhà trong suốt, thường được làm bằng kính, trong đó chúng ta trồng cây.",
+      "s": 2307.27
+    },
+    {
+      "e": 2317.87,
+      "en": "It gets very hot in a greenhouse!",
+      "vi": "Bên trong nhà kính rất nóng!",
+      "s": 2315.24
+    },
+    {
+      "e": 2324.41,
+      "en": "In fact the \"Greenhouse effect\" is the gases in the atmosphere that trap the sun's energy,",
+      "vi": "Thực tế thì \"hiệu ứng nhà kính\" là các khí trong bầu khí quyển hấp thu năng lượng mặt trời,",
+      "s": 2317.87
+    },
+    {
+      "e": 2328.11,
+      "en": "causing an increase in temperature of the world.",
+      "vi": "gây ra sự gia tăng nhiệt độ của thế giới.",
+      "s": 2324.41
+    },
+    {
+      "e": 2333.63,
+      "en": "This is what we call \"global warming\", the world becoming hotter.",
+      "vi": "Ðây là những gì mà chúng ta gọi là \"sự ấm lên toàn cầu,\" thế giới dần trở nên nóng hơn.",
+      "s": 2328.11
+    },
+    {
+      "e": 2339.4,
+      "en": "\"The atmosphere\" is word for the gases that cover the world.",
+      "vi": "\"Bầu khí quyển\" là từ chỉ những loại khí đang bao phủ thế giới.",
+      "s": 2333.63
+    },
+    {
+      "e": 2345.59,
+      "en": "The main gases are nitrogen, oxygen and carbon dioxide.",
+      "vi": "Các loại khí chính bao gồm ni tơ, oxy và carbon dioxide.",
+      "s": 2339.4
+    },
+    {
+      "e": 2350.32,
+      "en": "Now carbon dioxide is one of the main greenhouse gases,",
+      "vi": "Nào, carbon dioxide là một trong những khí nhà kính chủ yếu,",
+      "s": 2345.59
+    },
+    {
+      "e": 2354.25,
+      "en": "these are the gases responsible for the Greenhouse effect.",
+      "vi": "đây là những loại khí chịu trách nhiệm chính đối với hiệu ứng nhà kính.",
+      "s": 2350.32
+    },
+    {
+      "e": 2359.25,
+      "en": "The carbon dioxide in the atmosphere is increasing due to man's activities",
+      "vi": "Carbon dioxide trong bầu khí quyển đang gia tăng vì các hoạt động của con người",
+      "s": 2354.25
+    },
+    {
+      "e": 2362.0,
+      "en": "so we have to do something to reduce it.",
+      "vi": "thế nên chúng ta phải làm gì đó để giảm thiểu nó.",
+      "s": 2359.25
+    },
+    {
+      "e": 2367.17,
+      "en": "We use the expression \"due to\" to say \"as a result of\".",
+      "vi": "Chúng ta sử dụng cách diễn đạt \"due to\" để nói thay cho \"as a result of.\"",
+      "s": 2362.0
+    },
+    {
+      "e": 2372.23,
+      "en": "Susan said we should use more renewable energy sources.",
+      "vi": "Susan nói rằng chúng ta nên sử dụng nhiều nguồn năng lượng có thể tái tạo hơn.",
+      "s": 2367.17
+    },
+    {
+      "e": 2377.72,
+      "en": "\"Renewable energy\" is energy from the sun, the wind and water.",
+      "vi": "\"Năng lượng có thể tái tạo\" là năng lượng từ mặt trời, gió và nước.",
+      "s": 2372.23
+    },
+    {
+      "e": 2387.63,
+      "en": "For example solar panels generate electricity from the sun and wind turbines generate electricity from the wind.",
+      "vi": "Ví dụ, các tấm pin mặt trời phát ra điện năng từ mặt trời, còn các tua bin gió phát ra điện năng từ gió.",
+      "s": 2377.72
+    },
+    {
+      "e": 2391.44,
+      "en": "The verb \"to generate\" means \"to make\".",
+      "vi": "Ðộng từ \"generate\" có nghĩa là \"make.\"",
+      "s": 2387.63
+    },
+    {
+      "e": 2399.23,
+      "en": "Well, renewable energy is becoming popular today which is good but there's still a long way to go!",
+      "vi": "Nào, năng lượng có thể tái tạo đang dần trở nên phổ biến ngày nay, nhưng chúng ta còn rất nhiều việc phải làm!",
+      "s": 2391.44
+    },
+    {
+      "e": 2402.1,
+      "en": "This expression \"there's a long way to go\"",
+      "vi": "Cách diễn đạt này \"there's a long way to go\"",
+      "s": 2399.23
+    },
+    {
+      "e": 2407.66,
+      "en": "means that there is still a lot we have to do before we reach our objective,",
+      "vi": "có nghĩa rằng còn rất nhiều việc chúng ta phải làm trước khi đạt được mục tiêu của mình,",
+      "s": 2402.1
+    },
+    {
+      "e": 2410.37,
+      "en": "which is to reduce global warming.",
+      "vi": "vốn là làm giảm sự ấm lên toàn cầu.",
+      "s": 2407.66
+    },
+    {
+      "e": 2414.76,
+      "en": "We've run out of time so that's all for now, see you soon!",
+      "vi": "Chúng ta đang dần cạn thời gian, thế nên đó là tất cả những gì cần nói bây giờ, hẹn gặp lại các bạn sớm!",
+      "s": 2410.37
+    },
+    {
+      "e": 2418.98,
+      "en": "Welcome to \"Cooking Today\"!",
+      "vi": "Chào mừng đến với \"Nấu ăn ngày nay!\"",
+      "s": 2414.76
+    },
+    {
+      "e": 2424.22,
+      "en": "All homemakers will be thrilled to know that we are back with Lisa French!",
+      "vi": "Tất cả các bà nội trợ sẽ rất hào hứng để biết rằng chúng ta sẽ quay lại với Lisa French!",
+      "s": 2418.98
+    },
+    {
+      "e": 2428.29,
+      "en": "Thank you for inviting us into your lovely home once again, Lisa.",
+      "vi": "Cảm ơn vì đã mời chúng tôi đến ngôi nhà đáng yêu của cô một lần nữa, Lisa.",
+      "s": 2424.22
+    },
+    {"e": 2429.88, "en": "I'm glad to have you.", "vi": "Tôi rất vui để mời cô.", "s": 2428.29},
+    {
+      "e": 2436.71,
+      "en": "Now, Lisa, Leslie Forbes, from New Castle on Tyne, is desperate.",
+      "vi": "Nào, Lisa, Leslie Forbes, từ New Castle ở Tyne, đang tuyệt vọng.",
+      "s": 2429.88
+    },
+    {
+      "e": 2439.98,
+      "en": "Her family's always complaining about her cooking.",
+      "vi": "Gia đình cô ấy luôn phàn nàn về khả năng nấu nướng của cô ấy.",
+      "s": 2436.71
+    },
+    {
+      "e": 2443.53,
+      "en": "They say it's really... yucky!",
+      "vi": "Họ nói rằng nó thực sự... kinh tởm!",
+      "s": 2439.98
+    },
+    {
+      "e": 2446.2,
+      "en": "And they sneak out to get junk food!",
+      "vi": "Và họ lẻn ra ngoài để kiếm thức ăn nhanh!",
+      "s": 2443.53
+    },
+    {
+      "e": 2449.09,
+      "en": "How can she make her meals more appetizing?",
+      "vi": "Làm sao để cô ấy có thể khiến bữa ăn của mình trở nên ngon hơn?",
+      "s": 2446.2
+    },
+    {
+      "e": 2453.69,
+      "en": "Well... actually, it's just a matter of good meal planning.",
+      "vi": "Vâng... thực ra thì đó chỉ là vấn đề đối với việc lập kế hoạch cho một bữa ăn ngon.",
+      "s": 2449.09
+    },
+    {
+      "e": 2455.97,
+      "en": "That sounds rather serious!",
+      "vi": "Nghe có vẻ nghiêm trọng đấy!",
+      "s": 2453.69
+    },
+    {
+      "e": 2459.87,
+      "en": "Yes, it is... but it can also be a fun challenge!",
+      "vi": "Vâng, đúng thế... nhưng đó cũng có thể là một thử thách thú vị!",
+      "s": 2455.97
+    },
+    {
+      "e": 2468.99,
+      "en": "This means preparing food that's healthy as well as appealing and involves the senses, such as smell, taste, and sight.",
+      "vi": "Ðiều này có nghĩa là chuẩn bị thức ăn lành mạnh cũng như hấp dẫn và kích thích các giác quan, chẳng hạn như ngửi, nếm và nhìn.",
+      "s": 2459.87
+    },
+    {
+      "e": 2473.1,
+      "en": "Is that why they say: \"Your eyes are bigger than your stomach?\"",
+      "vi": "Ðó có phải là lý do khiến họ nói rằng: \"Con mắt lớn hơn cái bụng không?\"",
+      "s": 2468.99
+    },
+    {"e": 2474.72, "en": "Not exactly.", "vi": "Không hẳn thế.", "s": 2473.1},
+    {
+      "e": 2480.47,
+      "en": "Now, getting serious, when you say healthy, you're referring to nutrition, aren't you?",
+      "vi": "Nào, nghiêm túc, khi cô nói lành mạnh, có phải cô đang nhắc đến vấn đề dinh dưỡng không?",
+      "s": 2474.72
+    },
+    {
+      "e": 2485.22,
+      "en": "Yes, of course. Nutrition is the key to good health!",
+      "vi": "Vâng, tất nhiên. Dinh dưỡng là bí quyết dành cho một sức khỏe tốt!",
+      "s": 2480.47
+    },
+    {
+      "e": 2493.65,
+      "en": "As a matter of fact, nutritionists agree that a varied diet is fundamental for physical and mental well-being.",
+      "vi": "Thực tế thì các chuyên gia dinh dưỡng cũng đồng ý rằng một chế độ ăn uống đa dạng là nền tảng cho một sức khỏe thể chất và tinh thần tốt.",
+      "s": 2485.22
+    },
+    {
+      "e": 2498.44,
+      "en": "What are the correct guidelines to good nutrition?",
+      "vi": "Vậy đâu là những chỉ dẫn đúng đắn cho một chế độ dinh dưỡng tốt?",
+      "s": 2493.65
+    },
+    {
+      "e": 2502.72,
+      "en": "As you can see... I have an example of a food pyramid here.",
+      "vi": "Như cô có thể thấy... Tôi có ví dụ về một tháp thức ăn ở đây.",
+      "s": 2498.44
+    },
+    {
+      "e": 2510.19,
+      "en": "These six main food groups contain the nutrients essential to a well-balanced diet.",
+      "vi": "Ðây là sáu nhóm thức ăn chính, chứa các thành phần dinh dưỡng thiết yếu cho một chế độ ăn uống cân bằng.",
+      "s": 2502.72
+    },
+    {"e": 2511.89, "en": "Why a pyramid?", "vi": "Tại sao lại là tháp?", "s": 2510.19},
+    {
+      "e": 2517.5,
+      "en": "Because it enables us to understand the correct number of servings per day.",
+      "vi": "Vì nó cho phép chúng ta hiểu rõ số lượng khẩu phần chính xác mỗi ngày.",
+      "s": 2511.89
+    },
+    {
+      "e": 2518.79,
+      "en": "Can you give an example?",
+      "vi": "Cô có thể nêu ví dụ không?",
+      "s": 2517.5
+    },
+    {
+      "e": 2526.53,
+      "en": "Certainly. You see, the largest group includes bread, cereals, rice and pasta.",
+      "vi": "Hẳn rồi. Cô thấy đấy, nhóm lớn nhất bao gồm bánh mì, ngũ cốc, gạo và mì ống.",
+      "s": 2518.79
+    },
+    {
+      "e": 2533.48,
+      "en": "Then, going up the pyramid, you find fruits and vegetables, then meats and dairy products.",
+      "vi": "Kế đến, đi lên phía trên của tháp, cô sẽ tìm thấy trái cây và rau quả, kế đến là thịt và các sản phẩm làm từ sữa.",
+      "s": 2526.53
+    },
+    {"e": 2534.65, "en": "What's at the top?", "vi": "Thế cái gì trên đỉnh?", "s": 2533.48},
+    {
+      "e": 2541.23,
+      "en": "You mean here? These are fats, oils and sweets which, although essential to the diet,",
+      "vi": "Cô nói ở đây à? Ðây là các chất béo, dầu và đồ ngọt, dù rất quan trọng đối với chế độ ăn uống,",
+      "s": 2534.65
+    },
+    {
+      "e": 2543.58,
+      "en": "must be eaten in moderate quantities.",
+      "vi": "nhưng phải được ăn với liều lượng chừng mực.",
+      "s": 2541.23
+    },
+    {
+      "e": 2550.39,
+      "en": "Now, going back to Leslie's request, how can she make tasty meals for her family?",
+      "vi": "Nào, quay trở lại với yêu cầu của Leslie, làm sao cô ấy có thể khiến bữa ăn của mình ngon hơn cho gia đình?",
+      "s": 2543.58
+    },
+    {
+      "e": 2554.89,
+      "en": "If she hasn't much time for shopping, she can make a weekly plan.",
+      "vi": "Nếu cô ấy không có nhiều thời gian để mua sắm thì cô ấy có thể lập kế hoạch tuần.",
+      "s": 2550.39
+    },
+    {
+      "e": 2561.72,
+      "en": "Besides a correct diet, she must consider the likes and dislikes of her family.",
+      "vi": "Bên cạnh một chế độ ăn uống hợp lý, cô ấy phải cân nhắc những điều thích và không thích trong gia đình của mình.",
+      "s": 2554.89
+    },
+    {
+      "e": 2568.76,
+      "en": "You're telling me! In my family my son hated beans, and my daughter was allergic at the milk!",
+      "vi": "Cô nhắc cho tôi nhớ! Trong gia đình tôi, con trai tôi ghét đậu, còn con gái tôi lại dị ứng với sữa!",
+      "s": 2561.72
+    },
+    {
+      "e": 2570.67,
+      "en": "That's a common problem.",
+      "vi": "Ðó là một vấn đề phổ biến.",
+      "s": 2568.76
+    },
+    {
+      "e": 2576.98,
+      "en": "The thing is to compensate with food belonging to the same group or supplements.",
+      "vi": "Vấn đề ở đây là tìm cách bù đắp bằng những thức ăn khác thuộc cùng nhóm hoặc thành phần bổ sung.",
+      "s": 2570.67
+    },
+    {
+      "e": 2579.09,
+      "en": "Really? That's good to know.",
+      "vi": "Thực vậy à? Thật tuyệt để biết đấy.",
+      "s": 2576.98
+    },
+    {
+      "e": 2587.55,
+      "en": "A little secret, if you truly enjoy preparing meals, then your family will probably enjoy eating them.",
+      "vi": "Một bí mật nhỏ, nếu cô thực sự thích chuẩn bị các bữa ăn thì gia đình của cô chắc chắn sẽ thưởng thức chúng một cách hào hứng.",
+      "s": 2579.09
+    },
+    {
+      "e": 2591.17,
+      "en": "How can I get my family to enjoy my cooking?",
+      "vi": "Làm sao để tôi khiến gia đình mình thích việc nấu ăn của tôi?",
+      "s": 2587.55
+    },
+    {"e": 2592.96, "en": "Just be creative!", "vi": "Chỉ cần sáng tạo!", "s": 2591.17},
+    {
+      "e": 2598.76,
+      "en": "Think like an artist, play with the colours, shapes and textures of food.",
+      "vi": "Hãy suy nghĩ như một nghệ sĩ, hãy chơi đùa với các màu sắc, hình thể và cấu trúc của thức ăn.",
+      "s": 2592.96
+    },
+    {
+      "e": 2602.46,
+      "en": "Oh my gosh! How time flies!",
+      "vi": "Ôi, lạ thật! Thời gian trôi qua mới nhanh làm sao!",
+      "s": 2598.76
+    },
+    {
+      "e": 2604.09,
+      "en": "We've got to wind this up!",
+      "vi": "Chúng ta cần phải kết thúc chương trình ở đây!",
+      "s": 2602.46
+    },
+    {
+      "e": 2610.04,
+      "en": "Lisa, thank you for inviting us into your home again, it's been a pleasure being here.",
+      "vi": "Lisa, cảm ơn cô vì đã mời chúng tôi đến nhà cô lần nữa, việc được đứng đây quả là một hân hạnh.",
+      "s": 2604.09
+    },
+    {"e": 2611.4, "en": "Thank you for coming.", "vi": "Cảm ơn vì đã đến.", "s": 2610.04},
+    {
+      "e": 2617.96,
+      "en": "And now, let's pay attention to some expressions used in the dialogue.",
+      "vi": "Và bây giờ, chúng ta hãy chú ý đến một số cách diễn đạt đã được sử dụng trong cuộc đàm thoại.",
+      "s": 2611.4
+    },
+    {
+      "e": 2625.76,
+      "en": "We've talked about \"meals\": \"breakfast\" in the morning, \"lunch\" at noon, \"dinner\", or in the US, \"supper\", at night.",
+      "vi": "Chúng tôi đã nhắc đến \"các bữa ăn\": \"bữa sáng\" vào buổi sáng, \"bữa trưa\" vào buổi trưa, \"bữa tối,\" hoặc theo tiếng Mỹ, \"supper,\" vào buổi tối.",
+      "s": 2617.96
+    },
+    {
+      "e": 2631.28,
+      "en": "In the US a dinner is the main meal of the day, even at lunchtime.",
+      "vi": "Ở Mỹ thì bữa tối là bữa ăn chính trong ngày, cho dù diễn ra trong giờ trưa.",
+      "s": 2625.76
+    },
+    {
+      "e": 2636.64,
+      "en": "Notice that in the UK \"tea\" is sometimes used instead of \"dinner\".",
+      "vi": "Ðể ý rằng ở Anh, \"dùng trà\" đôi khi được sử dụng thay cho \"bữa tối.\"",
+      "s": 2631.28
+    },
+    {
+      "e": 2643.95,
+      "en": "When we refer to specific times during the day, we can say \"lunch time\", \"tea time\".",
+      "vi": "Khi chúng ta nhắc đến những thời điểm cụ thể trong ngày, chúng ta có thể nói: \"giờ trưa,\" \"giờ dùng trà.\"",
+      "s": 2636.64
+    },
+    {
+      "e": 2649.39,
+      "en": "Lisa showed a \"food pyramid\": it contains \"food groups\",",
+      "vi": "Lisa đã cho thấy một \"tháp thức ăn\": nó bao gồm \"các nhóm thức ăn,\"",
+      "s": 2643.95
+    },
+    {
+      "e": 2655.79,
+      "en": "such as \"cereals\", \"meats\", \"dairy products\" (milk, cheese, yoghurt),",
+      "vi": "chẳng hạn như \"ngũ cốc,\" \"thịt,\" \"các sản phẩm làm từ sữa\" (sữa, phó mát, yaourt),",
+      "s": 2649.39
+    },
+    {
+      "e": 2659.15,
+      "en": "\"fats and oils\" and \"vegetables\".",
+      "vi": "\"các chất béo và dầu,\" và \"rau quả.\"",
+      "s": 2655.79
+    },
+    {
+      "e": 2662.65,
+      "en": "All these foods contain nutrients.",
+      "vi": "Tất cả những thức ăn này đều chứa chất dinh dưỡng.",
+      "s": 2659.15
+    },
+    {
+      "e": 2667.95,
+      "en": "Then, some positive adjectives used to define food are:",
+      "vi": "Kế đến, một số tính từ xác định được sử dụng để định nghĩa thức ăn là:",
+      "s": 2662.65
+    },
+    {
+      "e": 2674.47,
+      "en": "\"appetizing\" and \"healthy\", while \"yucky\" is something rather disgusting!",
+      "vi": "\"ngon miệng\" và \"lành mạnh,\" trong khi \"kinh tởm\" lại là một tính từ khá phản cảm!",
+      "s": 2667.95
+    },
+    {
+      "e": 2681.92,
+      "en": "Moreover, the expression \"junk food\" refers to food which is not considered healthy at all!",
+      "vi": "Hơn nữa, cách diễn đạt \"thức ăn nhanh\" đề cập đến những thức ăn không được xem là lành mạnh chút nào!",
+      "s": 2674.47
+    },
+    {
+      "e": 2685.98,
+      "en": "We say \"diet\" to indicate what we eat;",
+      "vi": "Chúng ta nói \"chế độ ăn uống\" để chỉ ra những gì mình ăn;",
+      "s": 2681.92
+    },
+    {
+      "e": 2691.07,
+      "en": "it also means a series of rules to be followed to improve one's health.",
+      "vi": "nó cũng có nghĩa là một chuỗi những quy tắc cần tuân theo để cải thiện sức khỏe của ai đó.",
+      "s": 2685.98
+    },
+    {
+      "e": 2696.05,
+      "en": "If we want to lose weight, we say \"I'm on a diet\".",
+      "vi": "Nếu muốn giảm cân thì chúng ta nói: \"Tôi đang ăn kiêng.\"",
+      "s": 2691.07
+    },
+    {
+      "e": 2701.11,
+      "en": "A diet is correct when it's \"varied\", or \"well-balanced\".",
+      "vi": "Chế độ ăn uống được xem là hợp lý khi nó \"đa dạng\" hoặc \"cân bằng.\"",
+      "s": 2696.05
+    },
+    {
+      "e": 2709.51,
+      "en": "If you're \"allergic\" to a type of food eating that food can make you ill or cause skin problems.",
+      "vi": "Nếu các bạn \"dị ứng\" với một loại thức ăn nào đó thì việc ăn nhằm thức ăn đó có thể khiến bạn ngã bệnh hoặc gây nên các vấn đề trên da.",
+      "s": 2701.11
+    },
+    {
+      "e": 2715.44,
+      "en": "Lisa talked about \"texture\" of food, for example, food can be defined:",
+      "vi": "Lisa đã nhắc đến \"cấu trúc\" của thức ăn, ví dụ, thức ăn có thể được định nghĩa như sau:",
+      "s": 2709.51
+    },
+    {
+      "e": 2726.23,
+      "en": "\"soft\", \"crispy\", \"crusty\"; or \"shape\": food can be cut into \"slices\", \"cubes\" and \"rings\".",
+      "vi": "\"mềm,\" \"giòn,\" \"cứng\"; hoặc \"hình dạng\": thức anh có thể được cắt nhỏ thành \"lát,\" \"khối,\" và \"vòng.\"",
+      "s": 2715.44
+    },
+    {
+      "e": 2730.9,
+      "en": "During the interview, I quoted a common way of expressing",
+      "vi": "Trong buổi phỏng vấn, tôi đã sử dụng một câu nói phổ biến",
+      "s": 2726.23
+    },
+    {
+      "e": 2736.61,
+      "en": "that somebody has put more food on their plate than they're actually able to eat:",
+      "vi": "khi ai đó cho thức ăn vào đĩa của họ nhiều hơn những gì họ thực sự có thể ăn hết:",
+      "s": 2730.9
+    },
+    {
+      "e": 2740.17,
+      "en": "\"Your eyes are bigger than your stomach\".",
+      "vi": "\"Con mắt lớn hơn cái bụng.\"",
+      "s": 2736.61
+    },
+    {
+      "e": 2743.95,
+      "en": "All right, that's all this week. Bye, bye.",
+      "vi": "Ðược chứ, đó là tất cả cho tuần này. Tạm biệt.",
+      "s": 2740.17
+    }
+  ]
+}

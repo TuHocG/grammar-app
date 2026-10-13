@@ -1,1 +1,88 @@
-[{"h":"sb","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"somebody","vi":") người nào đó, ai đó."}],"ipa":",es bi:","k":"sb"},{"h":"sb's opposite number","segs":[{"k":"pos","t":"thngu"},{"k":"ex","t":"number","vi":"."}],"k":"sb's opposite number"},{"h":"SBA (1)","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"radio navigation system: a system of radio navigation that provides an aircraft with lateral guidance và marker beam indicators at set points during its landing approach. Full form standard beam approach"}],"k":"sba (1)"},{"h":"sbarpeness","segs":[{"k":"m","t":"độ nhọn, độ sắc; độ rõ nét; độ tinh; độ thính."}],"k":"sbarpeness"},{"h":"sbarpeness of directivity","segs":[{"k":"m","t":"độ nhọn của tia chỉ hướng."}],"k":"sbarpeness of directivity"},{"h":"sbarpeness of resonance","segs":[{"k":"m","t":"độ nhọn (của đường cong) cộng hưởng."}],"k":"sbarpeness of resonance"},{"h":"sbarpeness of tuning","segs":[{"k":"m","t":"độ chọn lọc; độ tinh chỉnh."}],"k":"sbarpeness of tuning"},{"h":"sbarpeness of vision","segs":[{"k":"m","t":"độ tinh của thị lực."}],"k":"sbarpeness of vision"},{"h":"SBC","segs":[{"k":"m","t":"(singer-board computer) máy tính bảng mạch đơn, máy tính (có) một bảng mạch."}],"k":"sbc"},{"h":"SBCS","segs":[{"k":"m","t":"(subscript character) ký tự chỉ số dưới."}],"k":"sbcs"},{"h":"SBCS (subscript character)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ký tự chỉ số dưới"}],"k":"sbcs (subscript character)"},{"h":"SbE","segs":[{"k":"m","t":"Viết tắt của south by east"}],"k":"sbe"},{"h":"SBIC","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"finance governmental provider of loans: a lender created by a government agency to provide loans to small businesses. Full form Small Business Investment Company"}],"k":"sbic"},{"h":"SBS","segs":[{"k":"m","t":"Viết tắt của health sick building syndrome"}],"k":"sbs"},{"h":"SBU","segs":[{"k":"m","t":"Viết tắt của strategic business unit"}],"k":"sbu"},{"h":"sbubbing dyed","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"được nhuộm sợi thô"}],"k":"sbubbing dyed"},{"h":"SbW","segs":[{"k":"m","t":"Viết tắt của south by west"}],"k":"sbw"}]
+[
+  {
+    "h": "sb",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {"k": "ex", "t": "somebody", "vi": ") người nào đó, ai đó."}
+    ],
+    "ipa": ",es bi:",
+    "k": "sb"
+  },
+  {
+    "h": "sb's opposite number",
+    "segs": [{"k": "pos", "t": "thngu"}, {"k": "ex", "t": "number", "vi": "."}],
+    "k": "sb's opposite number"
+  },
+  {
+    "h": "SBA (1)",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "radio navigation system: a system of radio navigation that provides an aircraft with lateral guidance và marker beam indicators at set points during its landing approach. Full form standard beam approach"
+      }
+    ],
+    "k": "sba (1)"
+  },
+  {
+    "h": "sbarpeness",
+    "segs": [{"k": "m", "t": "độ nhọn, độ sắc; độ rõ nét; độ tinh; độ thính."}],
+    "k": "sbarpeness"
+  },
+  {
+    "h": "sbarpeness of directivity",
+    "segs": [{"k": "m", "t": "độ nhọn của tia chỉ hướng."}],
+    "k": "sbarpeness of directivity"
+  },
+  {
+    "h": "sbarpeness of resonance",
+    "segs": [{"k": "m", "t": "độ nhọn (của đường cong) cộng hưởng."}],
+    "k": "sbarpeness of resonance"
+  },
+  {
+    "h": "sbarpeness of tuning",
+    "segs": [{"k": "m", "t": "độ chọn lọc; độ tinh chỉnh."}],
+    "k": "sbarpeness of tuning"
+  },
+  {
+    "h": "sbarpeness of vision",
+    "segs": [{"k": "m", "t": "độ tinh của thị lực."}],
+    "k": "sbarpeness of vision"
+  },
+  {
+    "h": "SBC",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(singer-board computer) máy tính bảng mạch đơn, máy tính (có) một bảng mạch."
+      }
+    ],
+    "k": "sbc"
+  },
+  {"h": "SBCS", "segs": [{"k": "m", "t": "(subscript character) ký tự chỉ số dưới."}], "k": "sbcs"},
+  {
+    "h": "SBCS (subscript character)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ký tự chỉ số dưới"}],
+    "k": "sbcs (subscript character)"
+  },
+  {"h": "SbE", "segs": [{"k": "m", "t": "Viết tắt của south by east"}], "k": "sbe"},
+  {
+    "h": "SBIC",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "finance governmental provider of loans: a lender created by a government agency to provide loans to small businesses. Full form Small Business Investment Company"
+      }
+    ],
+    "k": "sbic"
+  },
+  {"h": "SBS", "segs": [{"k": "m", "t": "Viết tắt của health sick building syndrome"}], "k": "sbs"},
+  {"h": "SBU", "segs": [{"k": "m", "t": "Viết tắt của strategic business unit"}], "k": "sbu"},
+  {
+    "h": "sbubbing dyed",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "được nhuộm sợi thô"}],
+    "k": "sbubbing dyed"
+  },
+  {"h": "SbW", "segs": [{"k": "m", "t": "Viết tắt của south by west"}], "k": "sbw"}
+]

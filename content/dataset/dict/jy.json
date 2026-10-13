@@ -1,1 +1,23 @@
-[{"h":"Jy","segs":[{"k":"m","t":"symbol"},{"k":"m","t":"measurements jansky"}],"k":"jy"},{"h":"Jy (July)","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"tháng bảy"}],"k":"jy (july)"},{"h":"Jyaistha","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"3rd month of Hindu calendar: in the Hindu calendar, the third month of the year, lasting 31 days và falling about the same time as May to June"}],"k":"jyaistha"}]
+[
+  {
+    "h": "Jy",
+    "segs": [{"k": "m", "t": "symbol"}, {"k": "m", "t": "measurements jansky"}],
+    "k": "jy"
+  },
+  {
+    "h": "Jy (July)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "tháng bảy"}],
+    "k": "jy (july)"
+  },
+  {
+    "h": "Jyaistha",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "3rd month of Hindu calendar: in the Hindu calendar, the third month of the year, lasting 31 days và falling about the same time as May to June"
+      }
+    ],
+    "k": "jyaistha"
+  }
+]

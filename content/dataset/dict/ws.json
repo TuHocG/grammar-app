@@ -1,1 +1,23 @@
-[{"h":"ws","segs":[{"k":"m","t":"Viết tắt của online Samoa (used in Internet addresses)"}],"k":"ws"},{"h":"WSC","segs":[{"k":"m","t":"(workstation controller) bộ khiển trạm làm việc."}],"k":"wsc"},{"h":"WSU","segs":[{"k":"m","t":"(workstation utility) tiện ích trạm làm việc."}],"k":"wsu"},{"h":"WSU (workstation utility)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ khiển trạm làm việc"}],"k":"wsu (workstation utility)"},{"h":"WSW","segs":[{"k":"m","t":"vt. WEST-SOUTH-WEST hướng Tây Tây Nam"}],"k":"wsw"}]
+[
+  {
+    "h": "ws",
+    "segs": [{"k": "m", "t": "Viết tắt của online Samoa (used in Internet addresses)"}],
+    "k": "ws"
+  },
+  {
+    "h": "WSC",
+    "segs": [{"k": "m", "t": "(workstation controller) bộ khiển trạm làm việc."}],
+    "k": "wsc"
+  },
+  {
+    "h": "WSU",
+    "segs": [{"k": "m", "t": "(workstation utility) tiện ích trạm làm việc."}],
+    "k": "wsu"
+  },
+  {
+    "h": "WSU (workstation utility)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ khiển trạm làm việc"}],
+    "k": "wsu (workstation utility)"
+  },
+  {"h": "WSW", "segs": [{"k": "m", "t": "vt. WEST-SOUTH-WEST hướng Tây Tây Nam"}], "k": "wsw"}
+]

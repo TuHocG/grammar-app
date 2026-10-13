@@ -1,1 +1,149 @@
-[{"h":"dm","segs":[{"k":"m","t":"(decimeter) decimét, một phần mười mét."}],"k":"dm"},{"h":"dm (decimeter)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"decimét"},{"k":"m","t":"một phần mười mét"}],"k":"dm (decimeter)"},{"h":"DMA","segs":[{"k":"m","t":"vùng thị trường chỉ định."}],"k":"dma"},{"h":"DMA bus","segs":[{"k":"m","t":"(kỹ thuật) mẫu tuyến DMA (truy cập bộ nhớ trực tiếp)."}],"k":"dma bus"},{"h":"DMA controller","segs":[{"k":"m","t":"bộ điều khiển truy cập bộ nhớ trực tiếp."}],"k":"dma controller"},{"h":"DMA interface","segs":[{"k":"m","t":"(kỹ thuật) giao diện DMA."}],"k":"dma interface"},{"h":"DMA multiplexer","segs":[{"k":"m","t":"(kỹ thuật) bộ đa hợp DMA."}],"k":"dma multiplexer"},{"h":"DMAC","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"broadcasting coding system: a coding system used for broadcasting color television programs via satellite. Full form duobinary multiplexed analog component"}],"k":"dmac"},{"h":"DMCL","segs":[{"k":"m","t":"(device media control language) ngôn ngữ điều khiển các môi trường thiết bị."}],"k":"dmcl"},{"h":"DME","segs":[{"k":"m","t":"(distributed management enviromnent) môi trường quản lý phân tán."}],"k":"dme"},{"h":"DMH","segs":[{"k":"m","t":"(device message handler) bộ xử lý thông báo thiết bị."}],"k":"dmh"},{"h":"DMI","segs":[{"k":"m","t":"(Desktop Management Interface) giao diện quản lý văn phòng, giao diện quản lý tại bàn."}],"k":"dmi"},{"h":"DML","segs":[{"k":"m","t":"1. data management language ngôn ngữ quản lý dữ liệu. 2. data manipulation language ngôn ngữ thao tác dữ liệu."}],"k":"dml"},{"h":"DMM","segs":[{"k":"m","t":"(digital multimeter) đồng hồ đo đa năng hiện số."}],"k":"dmm"},{"h":"DMPDU Header (DH)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"Mào đầu DMPDU"}],"k":"dmpdu header (dh)"},{"h":"DMPDU Trailer (DT)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"Phần đuôi của DMPDU"}],"k":"dmpdu trailer (dt)"},{"h":"DMS","segs":[{"k":"m","t":"Viết tắt của 1. comput data management system"},{"k":"m","t":"2. U.K. education Diploma in Management Studies"}],"k":"dms"},{"h":"DMSO","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"clear odorless solvent: a clear odorless liquid compound. Dùng để: solvent, in medicine to enable drugs to penetrate the skin."},{"k":"m","t":"Công thức: (CH3)2SO Full form dimethylsulfoxide"}],"k":"dmso"},{"h":"dmu","segs":[{"k":"m","t":"hoặc DMU"},{"k":"m","t":"abbreviation"},{"k":"m","t":"rail diesel multiple unit"}],"k":"dmu"},{"h":"DMus","segs":[{"k":"m","t":"(tắt) Tiến sĩ âm nhạc ("},{"k":"ex","t":"Doctor of Music","vi":")."}],"ipa":"di:'mʌs","k":"dmus"},{"h":"DMV","segs":[{"k":"m","t":"Viết tắt của automotive public administration Department of Motor Vehicles"}],"k":"dmv"},{"h":"DMZ","segs":[{"k":"m","t":"Viết tắt của military politics demilitarized zone"}],"k":"dmz"}]
+[
+  {"h": "dm", "segs": [{"k": "m", "t": "(decimeter) decimét, một phần mười mét."}], "k": "dm"},
+  {
+    "h": "dm (decimeter)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "decimét"},
+      {"k": "m", "t": "một phần mười mét"}
+    ],
+    "k": "dm (decimeter)"
+  },
+  {"h": "DMA", "segs": [{"k": "m", "t": "vùng thị trường chỉ định."}], "k": "dma"},
+  {
+    "h": "DMA bus",
+    "segs": [{"k": "m", "t": "(kỹ thuật) mẫu tuyến DMA (truy cập bộ nhớ trực tiếp)."}],
+    "k": "dma bus"
+  },
+  {
+    "h": "DMA controller",
+    "segs": [{"k": "m", "t": "bộ điều khiển truy cập bộ nhớ trực tiếp."}],
+    "k": "dma controller"
+  },
+  {
+    "h": "DMA interface",
+    "segs": [{"k": "m", "t": "(kỹ thuật) giao diện DMA."}],
+    "k": "dma interface"
+  },
+  {
+    "h": "DMA multiplexer",
+    "segs": [{"k": "m", "t": "(kỹ thuật) bộ đa hợp DMA."}],
+    "k": "dma multiplexer"
+  },
+  {
+    "h": "DMAC",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "broadcasting coding system: a coding system used for broadcasting color television programs via satellite. Full form duobinary multiplexed analog component"
+      }
+    ],
+    "k": "dmac"
+  },
+  {
+    "h": "DMCL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(device media control language) ngôn ngữ điều khiển các môi trường thiết bị."
+      }
+    ],
+    "k": "dmcl"
+  },
+  {
+    "h": "DME",
+    "segs": [{"k": "m", "t": "(distributed management enviromnent) môi trường quản lý phân tán."}],
+    "k": "dme"
+  },
+  {
+    "h": "DMH",
+    "segs": [{"k": "m", "t": "(device message handler) bộ xử lý thông báo thiết bị."}],
+    "k": "dmh"
+  },
+  {
+    "h": "DMI",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Desktop Management Interface) giao diện quản lý văn phòng, giao diện quản lý tại bàn."
+      }
+    ],
+    "k": "dmi"
+  },
+  {
+    "h": "DML",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data management language ngôn ngữ quản lý dữ liệu. 2. data manipulation language ngôn ngữ thao tác dữ liệu."
+      }
+    ],
+    "k": "dml"
+  },
+  {
+    "h": "DMM",
+    "segs": [{"k": "m", "t": "(digital multimeter) đồng hồ đo đa năng hiện số."}],
+    "k": "dmm"
+  },
+  {
+    "h": "DMPDU Header (DH)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Mào đầu DMPDU"}],
+    "k": "dmpdu header (dh)"
+  },
+  {
+    "h": "DMPDU Trailer (DT)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Phần đuôi của DMPDU"}],
+    "k": "dmpdu trailer (dt)"
+  },
+  {
+    "h": "DMS",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. comput data management system"},
+      {"k": "m", "t": "2. U.K. education Diploma in Management Studies"}
+    ],
+    "k": "dms"
+  },
+  {
+    "h": "DMSO",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "clear odorless solvent: a clear odorless liquid compound. Dùng để: solvent, in medicine to enable drugs to penetrate the skin."
+      },
+      {"k": "m", "t": "Công thức: (CH3)2SO Full form dimethylsulfoxide"}
+    ],
+    "k": "dmso"
+  },
+  {
+    "h": "dmu",
+    "segs": [
+      {"k": "m", "t": "hoặc DMU"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "rail diesel multiple unit"}
+    ],
+    "k": "dmu"
+  },
+  {
+    "h": "DMus",
+    "segs": [
+      {"k": "m", "t": "(tắt) Tiến sĩ âm nhạc ("},
+      {"k": "ex", "t": "Doctor of Music", "vi": ")."}
+    ],
+    "ipa": "di:'mʌs",
+    "k": "dmus"
+  },
+  {
+    "h": "DMV",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của automotive public administration Department of Motor Vehicles"}
+    ],
+    "k": "dmv"
+  },
+  {
+    "h": "DMZ",
+    "segs": [{"k": "m", "t": "Viết tắt của military politics demilitarized zone"}],
+    "k": "dmz"
+  }
+]

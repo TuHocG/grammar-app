@@ -1,1 +1,165 @@
-[{"h":"NC (network control)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự điều khiển mạng"}],"k":"nc (network control)"},{"h":"NC (numerical control)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự điều khiển bằng số"}],"k":"nc (numerical control)"},{"h":"NC machine","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy điều khiển số"},{"k":"m","t":"máy NC"}],"k":"nc machine"},{"h":"NC-17","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"viết tắt của"},{"k":"ex","t":"No Children Under 17 admitted phim không cho người dưới 18 tuổi xem (cũng) NC-17 movie","vi":"."}],"ipa":",en si sevn'ti:n","k":"nc-17"},{"h":"NCA","segs":[{"k":"m","t":"1. network Computing Architecture kiến trúc tính toán mạng. 2. network configuration application ứng dụng cấu hình mạng."}],"k":"nca"},{"h":"NCAA","segs":[{"k":"m","t":"hoặc N.C.A.A."},{"k":"m","t":"abbreviation"},{"k":"m","t":"U.S. National Collegiate Athletic Association"}],"k":"ncaa"},{"h":"NCB","segs":[{"k":"m","t":"vt. sử 1. National Children's Bureau Cục Thiếu nhi quốc gia 2. National Coal Board Ủy ban quốc gia (từ 1987 được đổi thành BCC. British Coal Cor-proration Tổng công ty Anh quốc"}],"k":"ncb"},{"h":"NCC","segs":[{"k":"m","t":"1. (national Communications Committee) ủy ban truyền thông quốc gia (Hoa Kỳ). 2. (network control center) trung tâm điều khiển mạng."}],"k":"ncc"},{"h":"NCCF","segs":[{"k":"m","t":"(network communication control facility) chương trình điều khiển truyền thông mạng."}],"k":"nccf"},{"h":"NCI","segs":[{"k":"m","t":"(non-coded information) thông tin không mã hóa."}],"k":"nci"},{"h":"NCIV","segs":[{"k":"m","t":"national Council for International Visitors."}],"k":"nciv"},{"h":"NCO","segs":[{"k":"m","t":"(tắt) hạ sĩ quan ("},{"k":"ex","t":"non-commissioned officer","vi":")."}],"ipa":",en si: 'ou","k":"nco"},{"h":"NCON","segs":[{"k":"m","t":"(nam constant) hằng tên."}],"k":"ncon"},{"h":"NCON (name constant)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hằng tên"}],"k":"ncon (name constant)"},{"h":"NCP","segs":[{"k":"m","t":"vt. National Car Parkd Ltd. công ty TNHH National Car Parks"}],"k":"ncp"},{"h":"NCP major node","segs":[{"k":"m","t":"nút chính chương trình điều khiển mạng."}],"k":"ncp major node"},{"h":"NCPS","segs":[{"k":"m","t":"Viết tắt của U.K. finance noncontributory pension scheme"}],"k":"ncps"},{"h":"NCR paper","segs":[{"k":"m","t":"(no-carbon-required paper) giấy không cần carbon."}],"k":"ncr paper"},{"h":"NCS","segs":[{"k":"m","t":"1. national Communication System hệ thống truyền thông quốc gia (Hoa Kỳ). 2. network computing system hệ thống tính toán mạng."}],"k":"ncs"},{"h":"NCSA","segs":[{"k":"m","t":"(National Center for Supercomputing Applications) trung tâm ứng dụng siêu tính toán quốc gia (Hoa Kỳ)."}],"k":"ncsa"},{"h":"NCT","segs":[{"k":"m","t":"Viết tắt của U.K. National Childbirth Trust"}],"k":"nct"},{"h":"NCTE","segs":[{"k":"m","t":"Viết tắt của U.S. National Council of Teachers of English"}],"k":"ncte"},{"h":"NCTM","segs":[{"k":"m","t":"Viết tắt của U.S. National Council of Teachers of Mathematics"}],"k":"nctm"},{"h":"NCU","segs":[{"k":"m","t":"Viết tắt của U.K. National Communications Union"}],"k":"ncu"}]
+[
+  {
+    "h": "NC (network control)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự điều khiển mạng"}],
+    "k": "nc (network control)"
+  },
+  {
+    "h": "NC (numerical control)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự điều khiển bằng số"}],
+    "k": "nc (numerical control)"
+  },
+  {
+    "h": "NC machine",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "máy điều khiển số"},
+      {"k": "m", "t": "máy NC"}
+    ],
+    "k": "nc machine"
+  },
+  {
+    "h": "NC-17",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "viết tắt của"},
+      {
+        "k": "ex",
+        "t": "No Children Under 17 admitted phim không cho người dưới 18 tuổi xem (cũng) NC-17 movie",
+        "vi": "."
+      }
+    ],
+    "ipa": ",en si sevn'ti:n",
+    "k": "nc-17"
+  },
+  {
+    "h": "NCA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. network Computing Architecture kiến trúc tính toán mạng. 2. network configuration application ứng dụng cấu hình mạng."
+      }
+    ],
+    "k": "nca"
+  },
+  {
+    "h": "NCAA",
+    "segs": [
+      {"k": "m", "t": "hoặc N.C.A.A."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "U.S. National Collegiate Athletic Association"}
+    ],
+    "k": "ncaa"
+  },
+  {
+    "h": "NCB",
+    "segs": [
+      {
+        "k": "m",
+        "t": "vt. sử 1. National Children's Bureau Cục Thiếu nhi quốc gia 2. National Coal Board Ủy ban quốc gia (từ 1987 được đổi thành BCC. British Coal Cor-proration Tổng công ty Anh quốc"
+      }
+    ],
+    "k": "ncb"
+  },
+  {
+    "h": "NCC",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. (national Communications Committee) ủy ban truyền thông quốc gia (Hoa Kỳ). 2. (network control center) trung tâm điều khiển mạng."
+      }
+    ],
+    "k": "ncc"
+  },
+  {
+    "h": "NCCF",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(network communication control facility) chương trình điều khiển truyền thông mạng."
+      }
+    ],
+    "k": "nccf"
+  },
+  {
+    "h": "NCI",
+    "segs": [{"k": "m", "t": "(non-coded information) thông tin không mã hóa."}],
+    "k": "nci"
+  },
+  {
+    "h": "NCIV",
+    "segs": [{"k": "m", "t": "national Council for International Visitors."}],
+    "k": "nciv"
+  },
+  {
+    "h": "NCO",
+    "segs": [
+      {"k": "m", "t": "(tắt) hạ sĩ quan ("},
+      {"k": "ex", "t": "non-commissioned officer", "vi": ")."}
+    ],
+    "ipa": ",en si: 'ou",
+    "k": "nco"
+  },
+  {"h": "NCON", "segs": [{"k": "m", "t": "(nam constant) hằng tên."}], "k": "ncon"},
+  {
+    "h": "NCON (name constant)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hằng tên"}],
+    "k": "ncon (name constant)"
+  },
+  {
+    "h": "NCP",
+    "segs": [{"k": "m", "t": "vt. National Car Parkd Ltd. công ty TNHH National Car Parks"}],
+    "k": "ncp"
+  },
+  {
+    "h": "NCP major node",
+    "segs": [{"k": "m", "t": "nút chính chương trình điều khiển mạng."}],
+    "k": "ncp major node"
+  },
+  {
+    "h": "NCPS",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. finance noncontributory pension scheme"}],
+    "k": "ncps"
+  },
+  {
+    "h": "NCR paper",
+    "segs": [{"k": "m", "t": "(no-carbon-required paper) giấy không cần carbon."}],
+    "k": "ncr paper"
+  },
+  {
+    "h": "NCS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. national Communication System hệ thống truyền thông quốc gia (Hoa Kỳ). 2. network computing system hệ thống tính toán mạng."
+      }
+    ],
+    "k": "ncs"
+  },
+  {
+    "h": "NCSA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(National Center for Supercomputing Applications) trung tâm ứng dụng siêu tính toán quốc gia (Hoa Kỳ)."
+      }
+    ],
+    "k": "ncsa"
+  },
+  {"h": "NCT", "segs": [{"k": "m", "t": "Viết tắt của U.K. National Childbirth Trust"}], "k": "nct"},
+  {
+    "h": "NCTE",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. National Council of Teachers of English"}],
+    "k": "ncte"
+  },
+  {
+    "h": "NCTM",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. National Council of Teachers of Mathematics"}],
+    "k": "nctm"
+  },
+  {
+    "h": "NCU",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. National Communications Union"}],
+    "k": "ncu"
+  }
+]

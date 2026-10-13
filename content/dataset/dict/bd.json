@@ -1,1 +1,69 @@
-[{"h":"bd","segs":[{"k":"m","t":"(tắt) cử nhân thần học ("},{"k":"ex","t":"Bachelor of Divinity","vi":")."}],"ipa":",bi: 'di:","k":"bd"},{"h":"BD form","segs":[{"k":"m","t":"mậu BD."}],"k":"bd form"},{"h":"bd. ft.","segs":[{"k":"m","t":"Viết tắt của measurements board foot"}],"k":"bd. ft."},{"h":"BDA","segs":[{"k":"m","t":"Viết tắt của U.K. dentistry British Dental Association"}],"k":"bda"},{"h":"BDAM","segs":[{"k":"m","t":"(basic direct access method) phương pháp truy cập trực tiếp cơ bản."}],"k":"bdam"},{"h":"BDE","segs":[{"k":"m","t":"(batch data exchange) trao đổi dữ liệu theo bó."}],"k":"bde"},{"h":"bdellepithecium","segs":[{"k":"m","t":"Dụng cụ đặt đĩa, dụng cụ hút máu."}],"k":"bdellepithecium"},{"h":"bdellium","segs":[{"k":"m","t":"dt 1. cây nhựa mềm 2. nhựa dùng trong nước hoa."}],"ipa":"'deliəm","k":"bdellium"},{"h":"BDES","segs":[{"k":"m","t":"(batch data exchange service) dịch vụ trao đổi dữ liệu theo bó."}],"k":"bdes"},{"h":"bdirectional printing","segs":[{"k":"m","t":"in hai chiều."}],"k":"bdirectional printing"},{"h":"bdl.","segs":[{"k":"m","t":"Viết tắt của bundle"}],"k":"bdl."},{"h":"BDOS","segs":[{"k":"m","t":"(basic disk operation system) hệ điều hành đĩa cơ bản."}],"k":"bdos"},{"h":"bds","segs":[{"k":"m","t":"(tắt) cử nhân nha khoa ("},{"k":"ex","t":"Bachelor of Dental Surgery","vi":")."}],"ipa":",bi: di: 'es","k":"bds"},{"h":"BDU","segs":[{"k":"m","t":"(basic device unit) đơn vị thiết bị cơ bản."}],"k":"bdu"}]
+[
+  {
+    "h": "bd",
+    "segs": [
+      {"k": "m", "t": "(tắt) cử nhân thần học ("},
+      {"k": "ex", "t": "Bachelor of Divinity", "vi": ")."}
+    ],
+    "ipa": ",bi: 'di:",
+    "k": "bd"
+  },
+  {"h": "BD form", "segs": [{"k": "m", "t": "mậu BD."}], "k": "bd form"},
+  {
+    "h": "bd. ft.",
+    "segs": [{"k": "m", "t": "Viết tắt của measurements board foot"}],
+    "k": "bd. ft."
+  },
+  {
+    "h": "BDA",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. dentistry British Dental Association"}],
+    "k": "bda"
+  },
+  {
+    "h": "BDAM",
+    "segs": [{"k": "m", "t": "(basic direct access method) phương pháp truy cập trực tiếp cơ bản."}],
+    "k": "bdam"
+  },
+  {
+    "h": "BDE",
+    "segs": [{"k": "m", "t": "(batch data exchange) trao đổi dữ liệu theo bó."}],
+    "k": "bde"
+  },
+  {
+    "h": "bdellepithecium",
+    "segs": [{"k": "m", "t": "Dụng cụ đặt đĩa, dụng cụ hút máu."}],
+    "k": "bdellepithecium"
+  },
+  {
+    "h": "bdellium",
+    "segs": [{"k": "m", "t": "dt 1. cây nhựa mềm 2. nhựa dùng trong nước hoa."}],
+    "ipa": "'deliəm",
+    "k": "bdellium"
+  },
+  {
+    "h": "BDES",
+    "segs": [{"k": "m", "t": "(batch data exchange service) dịch vụ trao đổi dữ liệu theo bó."}],
+    "k": "bdes"
+  },
+  {
+    "h": "bdirectional printing",
+    "segs": [{"k": "m", "t": "in hai chiều."}],
+    "k": "bdirectional printing"
+  },
+  {"h": "bdl.", "segs": [{"k": "m", "t": "Viết tắt của bundle"}], "k": "bdl."},
+  {
+    "h": "BDOS",
+    "segs": [{"k": "m", "t": "(basic disk operation system) hệ điều hành đĩa cơ bản."}],
+    "k": "bdos"
+  },
+  {
+    "h": "bds",
+    "segs": [
+      {"k": "m", "t": "(tắt) cử nhân nha khoa ("},
+      {"k": "ex", "t": "Bachelor of Dental Surgery", "vi": ")."}
+    ],
+    "ipa": ",bi: di: 'es",
+    "k": "bds"
+  },
+  {"h": "BDU", "segs": [{"k": "m", "t": "(basic device unit) đơn vị thiết bị cơ bản."}], "k": "bdu"}
+]

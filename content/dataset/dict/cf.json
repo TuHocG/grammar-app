@@ -1,1 +1,174 @@
-[{"h":"cf","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"(Latin) confer: so sánh. xem thêm cp."}],"ipa":",si: ˈef","k":"cf"},{"h":"cf (californium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"canlifoni"},{"k":"m","t":"Cf"}],"k":"cf (californium)"},{"h":"CF grammar","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ngữ pháp bất ngữ cảnh"},{"k":"m","t":"ngữ pháp phi ngữ cảnh"}],"k":"cf grammar"},{"h":"CF key","segs":[{"k":"m","t":"(command function key) khóa chức năng lệnh."}],"k":"cf key"},{"h":"cf.","segs":[{"k":"m","t":"Viết tắt của compare"}],"k":"cf."},{"h":"CFA","segs":[{"k":"m","t":"consumer Federation of America."}],"k":"cfa"},{"h":"CFA franc","segs":[{"k":"m","t":"(số nhiều CFA francs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"African unit of currency: a unit of currency used in several francophone African countries"}],"k":"cfa franc"},{"h":"CFB","segs":[{"k":"m","t":"(cipher feedback) sự hồi tiếp mật mã."}],"k":"cfb"},{"h":"CFB (cipher feedback)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự hồi tiếp mật mã"}],"k":"cfb (cipher feedback)"},{"h":"cfc","segs":[{"k":"m","t":"(tắt) chlorofluorocarbon, được dùng trong kỹ nghệ lạnh (CFC được (xem) là gây hư hại cho tầng ôzôn)."}],"ipa":",si: ef 'si","k":"cfc"},{"h":"cfe","segs":[{"k":"m","t":"(tắt) Trường cao đẳng mở rộng ("},{"k":"ex","t":"College of Further Education","vi":")."}],"ipa":",si: ef 'i:","k":"cfe"},{"h":"CFIA","segs":[{"k":"m","t":"(component failure impact analysis) phân tích ảnh hưởng do sự cố của bộ phận."}],"k":"cfia"},{"h":"CFL","segs":[{"k":"m","t":"Viết tắt của Canada Canadian Football League"}],"k":"cfl"},{"h":"cfm","segs":[{"k":"m","t":"hoặc c.f.m."},{"k":"m","t":"abbreviation"},{"k":"m","t":"cubic feet per minute"}],"k":"cfm"},{"h":"CFMEU","segs":[{"k":"m","t":"Viết tắt của U.K. Construction, Forestry, Mining và Energy Union"}],"k":"cfmeu"},{"h":"CFO","segs":[{"k":"m","t":"hoặc C.F.O."},{"k":"m","t":"abbreviation"},{"k":"m","t":"chief financial officer"}],"k":"cfo"},{"h":"CFP","segs":[{"k":"m","t":"1. constraint functional programming sự lập trình chức năng ràng buộc. 2. creation facilities program chương trình tiện ích tạo dựng (hình ảnh của dữ liệu)."}],"k":"cfp"},{"h":"CFP franc","segs":[{"k":"m","t":"(số nhiều CFP francs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"French Polynesian unit of currency: the main unit of currency in several French overseas territories in the South Pacific"}],"k":"cfp franc"},{"h":"CFS","segs":[{"k":"m","t":"(continuous forms stacker) ngăn xếp giấy dạng liên tục."}],"k":"cfs"},{"h":"CFS charges","segs":[{"k":"m","t":"phí CFS, phí làm hàng lẻ (vận chuyển bằng container)."}],"k":"cfs charges"},{"h":"CFS delivery","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"việc giao hàng dỡ lẻ ở trạm phân phối hàng công-ten-nơ"}],"k":"cfs delivery"},{"h":"CFS-processed waste","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sản phẩm được cứng hóa"},{"k":"m","t":"vật liệu được cứng hóa"},{"k":"m","t":"vật liệu hóa rắn"}],"k":"cfs-processed waste"},{"h":"CFS-treated waste","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sản phẩm được cứng hóa"},{"k":"m","t":"vật liệu được cứng hóa"},{"k":"m","t":"vật liệu hóa rắn"}],"k":"cfs-treated waste"},{"h":"CFTC","segs":[{"k":"m","t":"Viết tắt của finance Commodity Futures Trading Commission"}],"k":"cftc"}]
+[
+  {
+    "h": "cf",
+    "segs": [{"k": "m", "t": "viết tắt"}, {"k": "m", "t": "(Latin) confer: so sánh. xem thêm cp."}],
+    "ipa": ",si: ˈef",
+    "k": "cf"
+  },
+  {
+    "h": "cf (californium)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "canlifoni"},
+      {"k": "m", "t": "Cf"}
+    ],
+    "k": "cf (californium)"
+  },
+  {
+    "h": "CF grammar",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "ngữ pháp bất ngữ cảnh"},
+      {"k": "m", "t": "ngữ pháp phi ngữ cảnh"}
+    ],
+    "k": "cf grammar"
+  },
+  {
+    "h": "CF key",
+    "segs": [{"k": "m", "t": "(command function key) khóa chức năng lệnh."}],
+    "k": "cf key"
+  },
+  {"h": "cf.", "segs": [{"k": "m", "t": "Viết tắt của compare"}], "k": "cf."},
+  {"h": "CFA", "segs": [{"k": "m", "t": "consumer Federation of America."}], "k": "cfa"},
+  {
+    "h": "CFA franc",
+    "segs": [
+      {"k": "m", "t": "(số nhiều CFA francs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "African unit of currency: a unit of currency used in several francophone African countries"
+      }
+    ],
+    "k": "cfa franc"
+  },
+  {"h": "CFB", "segs": [{"k": "m", "t": "(cipher feedback) sự hồi tiếp mật mã."}], "k": "cfb"},
+  {
+    "h": "CFB (cipher feedback)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự hồi tiếp mật mã"}],
+    "k": "cfb (cipher feedback)"
+  },
+  {
+    "h": "cfc",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(tắt) chlorofluorocarbon, được dùng trong kỹ nghệ lạnh (CFC được (xem) là gây hư hại cho tầng ôzôn)."
+      }
+    ],
+    "ipa": ",si: ef 'si",
+    "k": "cfc"
+  },
+  {
+    "h": "cfe",
+    "segs": [
+      {"k": "m", "t": "(tắt) Trường cao đẳng mở rộng ("},
+      {"k": "ex", "t": "College of Further Education", "vi": ")."}
+    ],
+    "ipa": ",si: ef 'i:",
+    "k": "cfe"
+  },
+  {
+    "h": "CFIA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(component failure impact analysis) phân tích ảnh hưởng do sự cố của bộ phận."
+      }
+    ],
+    "k": "cfia"
+  },
+  {
+    "h": "CFL",
+    "segs": [{"k": "m", "t": "Viết tắt của Canada Canadian Football League"}],
+    "k": "cfl"
+  },
+  {
+    "h": "cfm",
+    "segs": [
+      {"k": "m", "t": "hoặc c.f.m."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "cubic feet per minute"}
+    ],
+    "k": "cfm"
+  },
+  {
+    "h": "CFMEU",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Construction, Forestry, Mining và Energy Union"}],
+    "k": "cfmeu"
+  },
+  {
+    "h": "CFO",
+    "segs": [
+      {"k": "m", "t": "hoặc C.F.O."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "chief financial officer"}
+    ],
+    "k": "cfo"
+  },
+  {
+    "h": "CFP",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. constraint functional programming sự lập trình chức năng ràng buộc. 2. creation facilities program chương trình tiện ích tạo dựng (hình ảnh của dữ liệu)."
+      }
+    ],
+    "k": "cfp"
+  },
+  {
+    "h": "CFP franc",
+    "segs": [
+      {"k": "m", "t": "(số nhiều CFP francs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "French Polynesian unit of currency: the main unit of currency in several French overseas territories in the South Pacific"
+      }
+    ],
+    "k": "cfp franc"
+  },
+  {
+    "h": "CFS",
+    "segs": [{"k": "m", "t": "(continuous forms stacker) ngăn xếp giấy dạng liên tục."}],
+    "k": "cfs"
+  },
+  {
+    "h": "CFS charges",
+    "segs": [{"k": "m", "t": "phí CFS, phí làm hàng lẻ (vận chuyển bằng container)."}],
+    "k": "cfs charges"
+  },
+  {
+    "h": "CFS delivery",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "việc giao hàng dỡ lẻ ở trạm phân phối hàng công-ten-nơ"}
+    ],
+    "k": "cfs delivery"
+  },
+  {
+    "h": "CFS-processed waste",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sản phẩm được cứng hóa"},
+      {"k": "m", "t": "vật liệu được cứng hóa"},
+      {"k": "m", "t": "vật liệu hóa rắn"}
+    ],
+    "k": "cfs-processed waste"
+  },
+  {
+    "h": "CFS-treated waste",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sản phẩm được cứng hóa"},
+      {"k": "m", "t": "vật liệu được cứng hóa"},
+      {"k": "m", "t": "vật liệu hóa rắn"}
+    ],
+    "k": "cfs-treated waste"
+  },
+  {
+    "h": "CFTC",
+    "segs": [{"k": "m", "t": "Viết tắt của finance Commodity Futures Trading Commission"}],
+    "k": "cftc"
+  }
+]

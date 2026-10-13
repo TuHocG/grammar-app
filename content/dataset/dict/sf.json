@@ -1,1 +1,87 @@
-[{"h":"sf","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"SF)^thtục. truyện khoa học viễn tưởng (science fiction","vi":")."}],"ipa":",es 'ef","k":"sf"},{"h":"SF6 circuit-breaker","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy ngắt nạp khí SF6"}],"k":"sf6 circuit-breaker"},{"h":"SFA","segs":[{"k":"m","t":"Viết tắt của 1. Scottish Football Association"},{"k":"m","t":"2. U.K. Securities và Futures Authority Ltd"}],"k":"sfa"},{"h":"Sfax","segs":[{"k":"m","t":"port và capital city of Safaqis Governorate, east-central Tunisia."},{"k":"m","t":"Dân số khoảng: 248,800 (thống kê năm 1998)"}],"k":"sfax"},{"h":"SFC","segs":[{"k":"m","t":"Viết tắt của U.S. military Sergeant First Class"}],"k":"sfc"},{"h":"sferics","segs":[{"k":"m","t":"danh từ số nhiều"},{"k":"m","t":"meteorology Another spelling of spherics"}],"k":"sferics"},{"h":"SFO","segs":[{"k":"m","t":"abbreviationU.K."},{"k":"m","t":"1. Serious Fraud Office"},{"k":"m","t":"2. Superannuation Funds Office"}],"k":"sfo"},{"h":"Sforza","segs":[{"k":"m","t":"Một dòng họ tại Ý nổi tiếng vào thế kỷ 15 và 16. Muzio Attendolo (1369-1424) với biệt danh Sforza có nghĩa là \"vũ lực\" là nhân vật có thế lực nhất trong giai đoạn đảng Diều Hâu cầm quyền. Ông là đứa con bất hợp pháp của Francesco (1401-1466) và đó cũng chính là nỗi hận nhất đời của ông. Các đội quân của ông đã từng tham gia cuộc chiến tranh 3 bên với Cộng hòa Milan và Venice. Sau đó, ông đã tiến vào Milan trong vai người chiến thắng với địa vị Công tước (1450) và cai quản địa hạt này hết sức khôn khéo."},{"k":"m","t":"Ludovico (1451-1508) được biết với tên gọi \"II Moro\" (người Maroc) đã cướp chính quyền Milan vào năm 1480. Ông đã giúp vua Charles VIII của Pháp xâm lăng Naples (1494) nhưng sau đó, ông bị vua Louis XII truất phế khỏi địa vị Công tước (1499). Năm 1512, con trai ông là Massimiliano (1493-1530) đánh chiếm lại Milan với sự trợ giúp của Thụy Sỹ. Vua Francis I nước Pháp đã đánh bại ông tại Marignano (1515) và buộc ông phải nhượng lại lãnh địa của mình. Ông chỉ được hưởng khoản trợ cấp là 30.000 Duca. Người anh em của ông là Francesco II (1495-1535) giành lại địa hạt của mình từ tay hoàng đế Charles V năm 1522. Sau khi ông chết, dòng họ này cũng bị tuyệt tự vì không có con trai nối dõi."}],"k":"sforza"},{"h":"sforzando","segs":[{"k":"pos","t":"phó từ"},{"k":"m","t":"(âm nhạc) mạnh dần."}],"ipa":"sfɔ:t'sændou","k":"sforzando"},{"h":"sfumato","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"cách vẽ sắc thái mờ hòa vào nhau."}],"ipa":"sfu:'ma:tou","k":"sfumato"},{"h":"SFX","segs":[{"k":"m","t":"(sound effects) các hiệu ứng âm thanh."}],"k":"sfx"},{"h":"SFX (sound effects)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"các hiệu ứng âm thanh"}],"k":"sfx (sound effects)"},{"h":"sfz.","segs":[{"k":"m","t":"Viết tắt của music sforzando"}],"k":"sfz."}]
+[
+  {
+    "h": "sf",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {"k": "ex", "t": "SF)^thtục. truyện khoa học viễn tưởng (science fiction", "vi": ")."}
+    ],
+    "ipa": ",es 'ef",
+    "k": "sf"
+  },
+  {
+    "h": "SF6 circuit-breaker",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy ngắt nạp khí SF6"}],
+    "k": "sf6 circuit-breaker"
+  },
+  {
+    "h": "SFA",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. Scottish Football Association"},
+      {"k": "m", "t": "2. U.K. Securities và Futures Authority Ltd"}
+    ],
+    "k": "sfa"
+  },
+  {
+    "h": "Sfax",
+    "segs": [
+      {"k": "m", "t": "port và capital city of Safaqis Governorate, east-central Tunisia."},
+      {"k": "m", "t": "Dân số khoảng: 248,800 (thống kê năm 1998)"}
+    ],
+    "k": "sfax"
+  },
+  {
+    "h": "SFC",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. military Sergeant First Class"}],
+    "k": "sfc"
+  },
+  {
+    "h": "sferics",
+    "segs": [
+      {"k": "m", "t": "danh từ số nhiều"},
+      {"k": "m", "t": "meteorology Another spelling of spherics"}
+    ],
+    "k": "sferics"
+  },
+  {
+    "h": "SFO",
+    "segs": [
+      {"k": "m", "t": "abbreviationU.K."},
+      {"k": "m", "t": "1. Serious Fraud Office"},
+      {"k": "m", "t": "2. Superannuation Funds Office"}
+    ],
+    "k": "sfo"
+  },
+  {
+    "h": "Sforza",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một dòng họ tại Ý nổi tiếng vào thế kỷ 15 và 16. Muzio Attendolo (1369-1424) với biệt danh Sforza có nghĩa là \"vũ lực\" là nhân vật có thế lực nhất trong giai đoạn đảng Diều Hâu cầm quyền. Ông là đứa con bất hợp pháp của Francesco (1401-1466) và đó cũng chính là nỗi hận nhất đời của ông. Các đội quân của ông đã từng tham gia cuộc chiến tranh 3 bên với Cộng hòa Milan và Venice. Sau đó, ông đã tiến vào Milan trong vai người chiến thắng với địa vị Công tước (1450) và cai quản địa hạt này hết sức khôn khéo."
+      },
+      {
+        "k": "m",
+        "t": "Ludovico (1451-1508) được biết với tên gọi \"II Moro\" (người Maroc) đã cướp chính quyền Milan vào năm 1480. Ông đã giúp vua Charles VIII của Pháp xâm lăng Naples (1494) nhưng sau đó, ông bị vua Louis XII truất phế khỏi địa vị Công tước (1499). Năm 1512, con trai ông là Massimiliano (1493-1530) đánh chiếm lại Milan với sự trợ giúp của Thụy Sỹ. Vua Francis I nước Pháp đã đánh bại ông tại Marignano (1515) và buộc ông phải nhượng lại lãnh địa của mình. Ông chỉ được hưởng khoản trợ cấp là 30.000 Duca. Người anh em của ông là Francesco II (1495-1535) giành lại địa hạt của mình từ tay hoàng đế Charles V năm 1522. Sau khi ông chết, dòng họ này cũng bị tuyệt tự vì không có con trai nối dõi."
+      }
+    ],
+    "k": "sforza"
+  },
+  {
+    "h": "sforzando",
+    "segs": [{"k": "pos", "t": "phó từ"}, {"k": "m", "t": "(âm nhạc) mạnh dần."}],
+    "ipa": "sfɔ:t'sændou",
+    "k": "sforzando"
+  },
+  {
+    "h": "sfumato",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "cách vẽ sắc thái mờ hòa vào nhau."}],
+    "ipa": "sfu:'ma:tou",
+    "k": "sfumato"
+  },
+  {"h": "SFX", "segs": [{"k": "m", "t": "(sound effects) các hiệu ứng âm thanh."}], "k": "sfx"},
+  {
+    "h": "SFX (sound effects)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "các hiệu ứng âm thanh"}],
+    "k": "sfx (sound effects)"
+  },
+  {"h": "sfz.", "segs": [{"k": "m", "t": "Viết tắt của music sforzando"}], "k": "sfz."}
+]

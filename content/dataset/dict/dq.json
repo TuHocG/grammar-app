@@ -1,1 +1,13 @@
-[{"h":"DQDB","segs":[{"k":"m","t":"(distributed queue dual bus) bus kép hàng đợi phân tán, đường truyền kép hàng đợi phân tán."}],"k":"dqdb"},{"h":"dqy-man","segs":[{"k":"m","t":"thợ công nhật."}],"k":"dqy-man"}]
+[
+  {
+    "h": "DQDB",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(distributed queue dual bus) bus kép hàng đợi phân tán, đường truyền kép hàng đợi phân tán."
+      }
+    ],
+    "k": "dqdb"
+  },
+  {"h": "dqy-man", "segs": [{"k": "m", "t": "thợ công nhật."}], "k": "dqy-man"}
+]

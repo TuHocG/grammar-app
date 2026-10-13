@@ -1,1 +1,156 @@
-[{"h":"pd","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"đã trả tiền ("},{"k":"ex","t":"paid","vi":")."}],"k":"pd"},{"h":"Pd (palladium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"palađi"}],"k":"pd (palladium)"},{"h":"PD (potential difference)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hiệu điện thế"},{"k":"m","t":"hiệu thế"}],"k":"pd (potential difference)"},{"h":"PD (Public Domain)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khu vực công cộng"}],"k":"pd (public domain)"},{"h":"pd.","segs":[{"k":"m","t":"Viết tắt của paid"}],"k":"pd."},{"h":"Pd.B.","segs":[{"k":"m","t":"Viết tắt của U.S. education Bachelor of Pedagogy"}],"k":"pd.b."},{"h":"Pd.D.","segs":[{"k":"m","t":"Viết tắt của U.S. education Doctor of Pedagogy"}],"k":"pd.d."},{"h":"Pd.M.","segs":[{"k":"m","t":"Viết tắt của U.S. education Master of Pedagogy"}],"k":"pd.m."},{"h":"PDA","segs":[{"k":"m","t":"máy trợ lý cá nhân dùng kỹ thuật số."}],"k":"pda"},{"h":"PDAID","segs":[{"k":"m","t":"(problem determination aid) sự trợ giúp xác định sự cố."}],"k":"pdaid"},{"h":"PDD","segs":[{"k":"m","t":"(physical device driver) chương trình điều khiển thiết bị vật lý."}],"k":"pdd"},{"h":"Pde","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(tắt) của"},{"k":"ex","t":"parade","vi":"(trong các tên phố)"},{"k":"m","t":"29"},{"k":"ex","t":"North Pde","vi":"số 29 đường North Parade."}],"ipa":",pi: di: 'i:","k":"pde"},{"h":"pdf (1)","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"format for computer file: a format for a computer document file that enables a document to be processed và printed on any computer using any printer hoặc word-processing program. Full form portable document format"}],"k":"pdf (1)"},{"h":"PDIR","segs":[{"k":"m","t":"(peripheral data set information record) bản ghi thông tin tập dữ liệu ngoại vi."}],"k":"pdir"},{"h":"PDL","segs":[{"k":"m","t":"ngôn ngữ mô tả trang."}],"k":"pdl"},{"h":"PDM","segs":[{"k":"m","t":"(pulse duration modulation) sự điều biến thời khoảng xung."}],"k":"pdm"},{"h":"PDN","segs":[{"k":"m","t":"mạng dữ liệu công cộng."}],"k":"pdn"},{"h":"PDP","segs":[{"k":"m","t":"(programmed data processor) bộ xử lý dữ liệu lập trình."}],"k":"pdp"},{"h":"pdq","segs":[{"k":"m","t":"trạng từ"},{"k":"m","t":"immediately: at once hoặc immediately (thông tục) Full form pretty damn quick"}],"k":"pdq"},{"h":"PDR","segs":[{"k":"m","t":"(price description record) bản ghi mô tả giá."}],"k":"pdr"},{"h":"PDS","segs":[{"k":"m","t":"1. page data set tập dữ liệu trang. 2. partitioned data set tập dữ liệu phân chia."}],"k":"pds"},{"h":"PDSA","segs":[{"k":"m","t":"danh từ ("},{"k":"ex","t":"PDSA) (tắt) của People's Dispensary for Sick Animals","vi":"(phòng khám bệnh, phát thuốc chữa trị cho súc vật)."}],"ipa":",pi: di: es 'ei","k":"pdsa"},{"h":"PDT","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(Mỹ) (tắt) của"},{"k":"ex","t":"Pacific Daylight Time","vi":"(giờ ban ngày khu vực Thái Bình Dương)."}],"ipa":",pi: di: 'ti:","k":"pdt"},{"h":"PDU","segs":[{"k":"m","t":"(protocol data unit) đơn vị dữ liệu giao thức."}],"k":"pdu"}]
+[
+  {
+    "h": "pd",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "đã trả tiền ("},
+      {"k": "ex", "t": "paid", "vi": ")."}
+    ],
+    "k": "pd"
+  },
+  {
+    "h": "Pd (palladium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "palađi"}],
+    "k": "pd (palladium)"
+  },
+  {
+    "h": "PD (potential difference)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hiệu điện thế"},
+      {"k": "m", "t": "hiệu thế"}
+    ],
+    "k": "pd (potential difference)"
+  },
+  {
+    "h": "PD (Public Domain)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "khu vực công cộng"}],
+    "k": "pd (public domain)"
+  },
+  {"h": "pd.", "segs": [{"k": "m", "t": "Viết tắt của paid"}], "k": "pd."},
+  {
+    "h": "Pd.B.",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. education Bachelor of Pedagogy"}],
+    "k": "pd.b."
+  },
+  {
+    "h": "Pd.D.",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. education Doctor of Pedagogy"}],
+    "k": "pd.d."
+  },
+  {
+    "h": "Pd.M.",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. education Master of Pedagogy"}],
+    "k": "pd.m."
+  },
+  {"h": "PDA", "segs": [{"k": "m", "t": "máy trợ lý cá nhân dùng kỹ thuật số."}], "k": "pda"},
+  {
+    "h": "PDAID",
+    "segs": [{"k": "m", "t": "(problem determination aid) sự trợ giúp xác định sự cố."}],
+    "k": "pdaid"
+  },
+  {
+    "h": "PDD",
+    "segs": [{"k": "m", "t": "(physical device driver) chương trình điều khiển thiết bị vật lý."}],
+    "k": "pdd"
+  },
+  {
+    "h": "Pde",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(tắt) của"},
+      {"k": "ex", "t": "parade", "vi": "(trong các tên phố)"},
+      {"k": "m", "t": "29"},
+      {"k": "ex", "t": "North Pde", "vi": "số 29 đường North Parade."}
+    ],
+    "ipa": ",pi: di: 'i:",
+    "k": "pde"
+  },
+  {
+    "h": "pdf (1)",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "format for computer file: a format for a computer document file that enables a document to be processed và printed on any computer using any printer hoặc word-processing program. Full form portable document format"
+      }
+    ],
+    "k": "pdf (1)"
+  },
+  {
+    "h": "PDIR",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(peripheral data set information record) bản ghi thông tin tập dữ liệu ngoại vi."
+      }
+    ],
+    "k": "pdir"
+  },
+  {"h": "PDL", "segs": [{"k": "m", "t": "ngôn ngữ mô tả trang."}], "k": "pdl"},
+  {
+    "h": "PDM",
+    "segs": [{"k": "m", "t": "(pulse duration modulation) sự điều biến thời khoảng xung."}],
+    "k": "pdm"
+  },
+  {"h": "PDN", "segs": [{"k": "m", "t": "mạng dữ liệu công cộng."}], "k": "pdn"},
+  {
+    "h": "PDP",
+    "segs": [{"k": "m", "t": "(programmed data processor) bộ xử lý dữ liệu lập trình."}],
+    "k": "pdp"
+  },
+  {
+    "h": "pdq",
+    "segs": [
+      {"k": "m", "t": "trạng từ"},
+      {
+        "k": "m",
+        "t": "immediately: at once hoặc immediately (thông tục) Full form pretty damn quick"
+      }
+    ],
+    "k": "pdq"
+  },
+  {
+    "h": "PDR",
+    "segs": [{"k": "m", "t": "(price description record) bản ghi mô tả giá."}],
+    "k": "pdr"
+  },
+  {
+    "h": "PDS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. page data set tập dữ liệu trang. 2. partitioned data set tập dữ liệu phân chia."
+      }
+    ],
+    "k": "pds"
+  },
+  {
+    "h": "PDSA",
+    "segs": [
+      {"k": "m", "t": "danh từ ("},
+      {
+        "k": "ex",
+        "t": "PDSA) (tắt) của People's Dispensary for Sick Animals",
+        "vi": "(phòng khám bệnh, phát thuốc chữa trị cho súc vật)."
+      }
+    ],
+    "ipa": ",pi: di: es 'ei",
+    "k": "pdsa"
+  },
+  {
+    "h": "PDT",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(Mỹ) (tắt) của"},
+      {"k": "ex", "t": "Pacific Daylight Time", "vi": "(giờ ban ngày khu vực Thái Bình Dương)."}
+    ],
+    "ipa": ",pi: di: 'ti:",
+    "k": "pdt"
+  },
+  {
+    "h": "PDU",
+    "segs": [{"k": "m", "t": "(protocol data unit) đơn vị dữ liệu giao thức."}],
+    "k": "pdu"
+  }
+]

@@ -1,1 +1,24 @@
-[{"h":"JFET","segs":[{"k":"m","t":"(junction field-effect transistor) transistor hiệu ứng trường chuyển tiếp."}],"k":"jfet"},{"h":"JFF","segs":[{"k":"m","t":"Viết tắt của online just for fun (used in e-mails hoặc text messages)"}],"k":"jff"},{"h":"JFK","segs":[{"k":"m","t":"Viết tắt của 1. John Fitzgerald Kennedy"},{"k":"m","t":"2. travel John Fitzgerald Kennedy International Airport"}],"k":"jfk"}]
+[
+  {
+    "h": "JFET",
+    "segs": [
+      {"k": "m", "t": "(junction field-effect transistor) transistor hiệu ứng trường chuyển tiếp."}
+    ],
+    "k": "jfet"
+  },
+  {
+    "h": "JFF",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của online just for fun (used in e-mails hoặc text messages)"}
+    ],
+    "k": "jff"
+  },
+  {
+    "h": "JFK",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. John Fitzgerald Kennedy"},
+      {"k": "m", "t": "2. travel John Fitzgerald Kennedy International Airport"}
+    ],
+    "k": "jfk"
+  }
+]

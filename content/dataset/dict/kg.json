@@ -1,1 +1,40 @@
-[{"h":"kg","segs":[{"k":"m","t":"(tắt) Hiệp sĩ dòng Gatơ ("},{"k":"ex","t":"Knight of Garter","vi":")."}],"ipa":",kei 'dʒi:","k":"kg"},{"h":"kg (kilogram)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kilôgam (bằng 1000g)"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kilôgam (bằng 1000g)"}],"k":"kg (kilogram)"},{"h":"KGB","segs":[{"k":"m","t":"là Ủy ban an ninh quốc gia của Liên Xô, một cơ quan cảnh sát và an ninh chính trị. Ðược thành lập năm 1953, KGB chịu trách nhiệm do thám nước ngoài, phản gián và tội phạm trong nước. Người chỉ huy nổi tiếng nhất của KGB là ông Yuri Andropov (năm 1967-1982). Ông giải quyết các vấn đề của KGB khá tinh tế, đặc biệt là những bất đồng nội bộ."},{"k":"m","t":"Năm 1992, KGB giải thể, thay thế bằng cơ quan tình báo trung ương của nước cộng hòa Nga. Cơ quan này hợp tác với cơ quan tình báo phương Tây trong việc ngăn ngừa sự phát triển hạt nhân, các vũ khí sinh hóa học, chiến đấu chống khủng bố và buôn lậu ma túy."}],"k":"kgb"},{"h":"kgf","segs":[{"k":"m","t":"symbol"},{"k":"m","t":"measurements kilogram-force"}],"k":"kgf"}]
+[
+  {
+    "h": "kg",
+    "segs": [
+      {"k": "m", "t": "(tắt) Hiệp sĩ dòng Gatơ ("},
+      {"k": "ex", "t": "Knight of Garter", "vi": ")."}
+    ],
+    "ipa": ",kei 'dʒi:",
+    "k": "kg"
+  },
+  {
+    "h": "kg (kilogram)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "kilôgam (bằng 1000g)"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "kilôgam (bằng 1000g)"}
+    ],
+    "k": "kg (kilogram)"
+  },
+  {
+    "h": "KGB",
+    "segs": [
+      {
+        "k": "m",
+        "t": "là Ủy ban an ninh quốc gia của Liên Xô, một cơ quan cảnh sát và an ninh chính trị. Ðược thành lập năm 1953, KGB chịu trách nhiệm do thám nước ngoài, phản gián và tội phạm trong nước. Người chỉ huy nổi tiếng nhất của KGB là ông Yuri Andropov (năm 1967-1982). Ông giải quyết các vấn đề của KGB khá tinh tế, đặc biệt là những bất đồng nội bộ."
+      },
+      {
+        "k": "m",
+        "t": "Năm 1992, KGB giải thể, thay thế bằng cơ quan tình báo trung ương của nước cộng hòa Nga. Cơ quan này hợp tác với cơ quan tình báo phương Tây trong việc ngăn ngừa sự phát triển hạt nhân, các vũ khí sinh hóa học, chiến đấu chống khủng bố và buôn lậu ma túy."
+      }
+    ],
+    "k": "kgb"
+  },
+  {
+    "h": "kgf",
+    "segs": [{"k": "m", "t": "symbol"}, {"k": "m", "t": "measurements kilogram-force"}],
+    "k": "kgf"
+  }
+]

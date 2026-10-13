@@ -1,1 +1,8 @@
-[{"h":"qn.","segs":[{"k":"m","t":"Viết tắt của question"}],"k":"qn."},{"h":"qnantitative scale","segs":[{"k":"m","t":"thang định lượng."}],"k":"qnantitative scale"}]
+[
+  {"h": "qn.", "segs": [{"k": "m", "t": "Viết tắt của question"}], "k": "qn."},
+  {
+    "h": "qnantitative scale",
+    "segs": [{"k": "m", "t": "thang định lượng."}],
+    "k": "qnantitative scale"
+  }
+]

@@ -1,1 +1,13 @@
-[{"h":"qq.","segs":[{"k":"m","t":"Viết tắt của questions"}],"k":"qq."},{"h":"qq.v.","segs":[{"k":"m","t":"Viết tắt của which (things) see (used as a cross reference to more than one item)"}],"k":"qq.v."}]
+[
+  {"h": "qq.", "segs": [{"k": "m", "t": "Viết tắt của questions"}], "k": "qq."},
+  {
+    "h": "qq.v.",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của which (things) see (used as a cross reference to more than one item)"
+      }
+    ],
+    "k": "qq.v."
+  }
+]

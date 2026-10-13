@@ -1,1 +1,131 @@
-[{"h":"Gd","segs":[{"k":"m","t":"ký. gadolinium."}],"k":"gd"},{"h":"gd (gadolini)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"gađolimi"}],"k":"gd (gadolini)"},{"h":"GD&WVVF","segs":[{"k":"m","t":"Viết tắt của online grinning, ducking, và walking very very fast (used in e-mails)"}],"k":"gd&wvvf"},{"h":"gd.","segs":[{"k":"m","t":"Viết tắt của good"}],"k":"gd."},{"h":"gda","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"German Democratic Republic (East Germany): Cộng hòa Dân chủ Ðức (Ðông Ðức)."}],"ipa":",dʒi: di: ˈa:","k":"gda"},{"h":"Gdansk","segs":[{"k":"m","t":"city, seaport, và shipbuilding center in northern Poland."},{"k":"m","t":"It is situated at the mouth of the Vistula River, on the Baltic Sea."},{"k":"m","t":"Dân số khoảng: 457,400 (thống kê năm 2005) German name Danzig"}],"k":"gdansk"},{"h":"GDDM","segs":[{"k":"m","t":"(graphical data display manager) chương trình quản lý hiển thị dữ liệu đồ họa."}],"k":"gddm"},{"h":"GDF","segs":[{"k":"m","t":"(graphics data file) tập tin dữ liệu đồ họa."}],"k":"gdf"},{"h":"GDG","segs":[{"k":"m","t":"(generation data group) nhóm dữ liệu thế hệ."}],"k":"gdg"},{"h":"GDI","segs":[{"k":"m","t":"1. graphic Display Interface giao diện màn hình đồ họa, giao diện hiển thị đồ họa. 2. graphic Device Interface giao diện thiết bị đồ họa."}],"k":"gdi"},{"h":"gdn","segs":[{"k":"m","t":"Gdn"},{"k":"m","t":"viết tắt"},{"k":"m","t":"(số nhiều Gdns) (trong tên đường phố) Gardens: Công viên"},{"k":"m","t":"7 Windsor Gdns: nhà số 7 đường Công viên Windsor."}],"k":"gdn"},{"h":"Gdns","segs":[{"k":"m","t":"Viết tắt của U.K. Gardens (used in addresses)"}],"k":"gdns"},{"h":"GDP","segs":[{"k":"m","t":"(tắt) tổng sản lượng nội địa ("},{"k":"ex","t":"Gross Domestic Product","vi":")."}],"ipa":",dʒi: di: 'pi:","k":"gdp"},{"h":"GDP deflator","segs":[{"k":"m","t":"chỉ số giảm phát GDP."}],"k":"gdp deflator"},{"h":"GDPL","segs":[{"k":"m","t":"(generalized distributed programming language) ngôn ngữ lập trình phân bố tổng quát hóa."}],"k":"gdpl"},{"h":"gdr","segs":[{"k":"m","t":"(tắt) Cộng hòa dân chủ Ðức ("},{"k":"ex","t":"German Democratic Republic","vi":")."}],"ipa":",dʒi: di: a:","k":"gdr"},{"h":"GDS","segs":[{"k":"m","t":"(general data stream) dòng dữ liệu chung, dòng dữ liệu tổng quát."}],"k":"gds"},{"h":"GDT","segs":[{"k":"m","t":"(graphic display terminal) đầu cuối hiển thị đồ họa, màn hình đồ họa."}],"k":"gdt"},{"h":"Gdynia","segs":[{"k":"m","t":"seaport và city on the Gulf of Gdansk, northern Poland."},{"k":"m","t":"Dân số khoảng: 254,500 (thống kê năm 2005)"}],"k":"gdynia"}]
+[
+  {"h": "Gd", "segs": [{"k": "m", "t": "ký. gadolinium."}], "k": "gd"},
+  {
+    "h": "gd (gadolini)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "gađolimi"}],
+    "k": "gd (gadolini)"
+  },
+  {
+    "h": "GD&WVVF",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của online grinning, ducking, và walking very very fast (used in e-mails)"
+      }
+    ],
+    "k": "gd&wvvf"
+  },
+  {"h": "gd.", "segs": [{"k": "m", "t": "Viết tắt của good"}], "k": "gd."},
+  {
+    "h": "gda",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "German Democratic Republic (East Germany): Cộng hòa Dân chủ Ðức (Ðông Ðức)."}
+    ],
+    "ipa": ",dʒi: di: ˈa:",
+    "k": "gda"
+  },
+  {
+    "h": "Gdansk",
+    "segs": [
+      {"k": "m", "t": "city, seaport, và shipbuilding center in northern Poland."},
+      {"k": "m", "t": "It is situated at the mouth of the Vistula River, on the Baltic Sea."},
+      {"k": "m", "t": "Dân số khoảng: 457,400 (thống kê năm 2005) German name Danzig"}
+    ],
+    "k": "gdansk"
+  },
+  {
+    "h": "GDDM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(graphical data display manager) chương trình quản lý hiển thị dữ liệu đồ họa."
+      }
+    ],
+    "k": "gddm"
+  },
+  {
+    "h": "GDF",
+    "segs": [{"k": "m", "t": "(graphics data file) tập tin dữ liệu đồ họa."}],
+    "k": "gdf"
+  },
+  {
+    "h": "GDG",
+    "segs": [{"k": "m", "t": "(generation data group) nhóm dữ liệu thế hệ."}],
+    "k": "gdg"
+  },
+  {
+    "h": "GDI",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. graphic Display Interface giao diện màn hình đồ họa, giao diện hiển thị đồ họa. 2. graphic Device Interface giao diện thiết bị đồ họa."
+      }
+    ],
+    "k": "gdi"
+  },
+  {
+    "h": "gdn",
+    "segs": [
+      {"k": "m", "t": "Gdn"},
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "(số nhiều Gdns) (trong tên đường phố) Gardens: Công viên"},
+      {"k": "m", "t": "7 Windsor Gdns: nhà số 7 đường Công viên Windsor."}
+    ],
+    "k": "gdn"
+  },
+  {
+    "h": "Gdns",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Gardens (used in addresses)"}],
+    "k": "gdns"
+  },
+  {
+    "h": "GDP",
+    "segs": [
+      {"k": "m", "t": "(tắt) tổng sản lượng nội địa ("},
+      {"k": "ex", "t": "Gross Domestic Product", "vi": ")."}
+    ],
+    "ipa": ",dʒi: di: 'pi:",
+    "k": "gdp"
+  },
+  {"h": "GDP deflator", "segs": [{"k": "m", "t": "chỉ số giảm phát GDP."}], "k": "gdp deflator"},
+  {
+    "h": "GDPL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(generalized distributed programming language) ngôn ngữ lập trình phân bố tổng quát hóa."
+      }
+    ],
+    "k": "gdpl"
+  },
+  {
+    "h": "gdr",
+    "segs": [
+      {"k": "m", "t": "(tắt) Cộng hòa dân chủ Ðức ("},
+      {"k": "ex", "t": "German Democratic Republic", "vi": ")."}
+    ],
+    "ipa": ",dʒi: di: a:",
+    "k": "gdr"
+  },
+  {
+    "h": "GDS",
+    "segs": [{"k": "m", "t": "(general data stream) dòng dữ liệu chung, dòng dữ liệu tổng quát."}],
+    "k": "gds"
+  },
+  {
+    "h": "GDT",
+    "segs": [
+      {"k": "m", "t": "(graphic display terminal) đầu cuối hiển thị đồ họa, màn hình đồ họa."}
+    ],
+    "k": "gdt"
+  },
+  {
+    "h": "Gdynia",
+    "segs": [
+      {"k": "m", "t": "seaport và city on the Gulf of Gdansk, northern Poland."},
+      {"k": "m", "t": "Dân số khoảng: 254,500 (thống kê năm 2005)"}
+    ],
+    "k": "gdynia"
+  }
+]

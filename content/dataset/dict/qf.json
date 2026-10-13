@@ -1,1 +1,8 @@
-[{"h":"QF","segs":[{"k":"m","t":"Viết tắt của arms quick-firing"}],"k":"qf"},{"h":"Qflag","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cờ Q"}],"k":"qflag"}]
+[
+  {"h": "QF", "segs": [{"k": "m", "t": "Viết tắt của arms quick-firing"}], "k": "qf"},
+  {
+    "h": "Qflag",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cờ Q"}],
+    "k": "qflag"
+  }
+]

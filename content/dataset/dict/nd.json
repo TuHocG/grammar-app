@@ -1,1 +1,105 @@
-[{"h":"Nd","segs":[{"k":"m","t":"(hóa) nguyên tố Neodim."}],"k":"nd"},{"h":"nd (neodymium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"neodim"},{"k":"m","t":"neođym"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"Nd"}],"k":"nd (neodymium)"},{"h":"NDC","segs":[{"k":"m","t":"(normalized devicecoordinates) tọa dộ thiết bị chuẩn hóa."}],"k":"ndc"},{"h":"NDC (normalized devicecoordinates)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tọa độ thiết bị chuẩn hóa"}],"k":"ndc (normalized devicecoordinates)"},{"h":"NDE","segs":[{"k":"m","t":"Viết tắt của near-death experience"}],"k":"nde"},{"h":"NDEA","segs":[{"k":"m","t":"Viết tắt của U.S. National Defense Education Act"}],"k":"ndea"},{"h":"Ndebele","segs":[{"k":"m","t":"Một ngôn ngữ Bantu của những người sống ở nam Zimbaquê, thuộc Mrica. Truyền thống của họ là sống trong những làng có hàng rào bao quanh, một nhóm gia đình cùng sống trong một ấp. Phụ nữ trồng ngô bắp, bông sợi, và đàn ông chăn gia súc. Gia súc trở thành của hồi môn khi họ muốn cưới vợ. Tiếng Ndebele là của người Nguni sinh sống ở vùng Natal. Những người này phải chạy trốn khỏi sự đánh đuổi của vua Shaka, của người Zulus, vào năm 1823. Người cầm đầu của họ là Mzilikazi có hiềm khích với người Zulus và dân định cư Nam Phi gốc Âu ở Transvaal nên họ phải vượt sông Limpopo, hòa nhập vào cả hai bộ lạc Shona và Sotho. Dưới sự dẫn đầu của Lobengula, họ bị đại đội nam Mrica của Anh đánh bại. Họ chấp nhận chịu sự điều khiển của Anh và lấy tên nước là Matabeleland, trước khi được sáp nhập vào Nam Rhodesia (Zimbaquê). Dưới ách thuộc địa, họ bị mất ruộng đất và trở thành những người công nhân công nghiệp hay người giúp việc trong nhà. Họ hăng hái tham gia đấu tranh giành độc lập của Shona."}],"k":"ndebele"},{"h":"NDF","segs":[{"k":"m","t":"(no defect found) không tìm thấy sai hỏng."}],"k":"ndf"},{"h":"NDIS","segs":[{"k":"m","t":"1. network divice interface specifications đặc tả giao diện thiết bị mạng. 2. network driver interface specifications đặc tả giao diện điều khiển mạng."}],"k":"ndis"},{"h":"NDL","segs":[{"k":"m","t":"1. national database language ngôn ngữ cơ sở dữ liệu quốc gia. 2. network definition language ngôn ngữ dịnh nghĩa mạng."}],"k":"ndl"},{"h":"NDM","segs":[{"k":"m","t":"(normal disconnected mode) chế độ ngắt chuẩn."}],"k":"ndm"},{"h":"ndole","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"West Africa African soup ingredient: in African cuisine, a plant that must be scraped to remove bitter juice before being sliced, parboiled, và then cooked in stews và soup"}],"k":"ndole"},{"h":"NDR","segs":[{"k":"m","t":"(non-destructive read) đọc không hủy, đọc không xóa."}],"k":"ndr"},{"h":"NDRO","segs":[{"k":"m","t":"(non-destructive readout) đọc không hủy, đọc không xóa."}],"k":"ndro"},{"h":"NDT","segs":[{"k":"m","t":"Viết tắt của Newfoundland Daylight Time"}],"k":"ndt"},{"h":"NDT (nondestructive testing)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự thử nghiệm không hủy"}],"k":"ndt (nondestructive testing)"},{"h":"ndugu","segs":[{"k":"m","t":"(số nhiều ndugus)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"East Africa friend: a friend hoặc brother"}],"k":"ndugu"}]
+[
+  {"h": "Nd", "segs": [{"k": "m", "t": "(hóa) nguyên tố Neodim."}], "k": "nd"},
+  {
+    "h": "nd (neodymium)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "neodim"},
+      {"k": "m", "t": "neođym"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "Nd"}
+    ],
+    "k": "nd (neodymium)"
+  },
+  {
+    "h": "NDC",
+    "segs": [{"k": "m", "t": "(normalized devicecoordinates) tọa dộ thiết bị chuẩn hóa."}],
+    "k": "ndc"
+  },
+  {
+    "h": "NDC (normalized devicecoordinates)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "tọa độ thiết bị chuẩn hóa"}
+    ],
+    "k": "ndc (normalized devicecoordinates)"
+  },
+  {"h": "NDE", "segs": [{"k": "m", "t": "Viết tắt của near-death experience"}], "k": "nde"},
+  {
+    "h": "NDEA",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. National Defense Education Act"}],
+    "k": "ndea"
+  },
+  {
+    "h": "Ndebele",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một ngôn ngữ Bantu của những người sống ở nam Zimbaquê, thuộc Mrica. Truyền thống của họ là sống trong những làng có hàng rào bao quanh, một nhóm gia đình cùng sống trong một ấp. Phụ nữ trồng ngô bắp, bông sợi, và đàn ông chăn gia súc. Gia súc trở thành của hồi môn khi họ muốn cưới vợ. Tiếng Ndebele là của người Nguni sinh sống ở vùng Natal. Những người này phải chạy trốn khỏi sự đánh đuổi của vua Shaka, của người Zulus, vào năm 1823. Người cầm đầu của họ là Mzilikazi có hiềm khích với người Zulus và dân định cư Nam Phi gốc Âu ở Transvaal nên họ phải vượt sông Limpopo, hòa nhập vào cả hai bộ lạc Shona và Sotho. Dưới sự dẫn đầu của Lobengula, họ bị đại đội nam Mrica của Anh đánh bại. Họ chấp nhận chịu sự điều khiển của Anh và lấy tên nước là Matabeleland, trước khi được sáp nhập vào Nam Rhodesia (Zimbaquê). Dưới ách thuộc địa, họ bị mất ruộng đất và trở thành những người công nhân công nghiệp hay người giúp việc trong nhà. Họ hăng hái tham gia đấu tranh giành độc lập của Shona."
+      }
+    ],
+    "k": "ndebele"
+  },
+  {"h": "NDF", "segs": [{"k": "m", "t": "(no defect found) không tìm thấy sai hỏng."}], "k": "ndf"},
+  {
+    "h": "NDIS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. network divice interface specifications đặc tả giao diện thiết bị mạng. 2. network driver interface specifications đặc tả giao diện điều khiển mạng."
+      }
+    ],
+    "k": "ndis"
+  },
+  {
+    "h": "NDL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. national database language ngôn ngữ cơ sở dữ liệu quốc gia. 2. network definition language ngôn ngữ dịnh nghĩa mạng."
+      }
+    ],
+    "k": "ndl"
+  },
+  {
+    "h": "NDM",
+    "segs": [{"k": "m", "t": "(normal disconnected mode) chế độ ngắt chuẩn."}],
+    "k": "ndm"
+  },
+  {
+    "h": "ndole",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "West Africa African soup ingredient: in African cuisine, a plant that must be scraped to remove bitter juice before being sliced, parboiled, và then cooked in stews và soup"
+      }
+    ],
+    "k": "ndole"
+  },
+  {
+    "h": "NDR",
+    "segs": [{"k": "m", "t": "(non-destructive read) đọc không hủy, đọc không xóa."}],
+    "k": "ndr"
+  },
+  {
+    "h": "NDRO",
+    "segs": [{"k": "m", "t": "(non-destructive readout) đọc không hủy, đọc không xóa."}],
+    "k": "ndro"
+  },
+  {"h": "NDT", "segs": [{"k": "m", "t": "Viết tắt của Newfoundland Daylight Time"}], "k": "ndt"},
+  {
+    "h": "NDT (nondestructive testing)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự thử nghiệm không hủy"}],
+    "k": "ndt (nondestructive testing)"
+  },
+  {
+    "h": "ndugu",
+    "segs": [
+      {"k": "m", "t": "(số nhiều ndugus)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "East Africa friend: a friend hoặc brother"}
+    ],
+    "k": "ndugu"
+  }
+]

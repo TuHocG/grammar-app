@@ -1,1 +1,136 @@
-[{"h":"qi","segs":[{"k":"m","t":"khí."}],"k":"qi"},{"h":"Qi Gong","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(thể dục thể thao) khí công."}],"k":"qi gong"},{"h":"qibla","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"islam Another spelling of kiblah"}],"k":"qibla"},{"h":"Qibla wall","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tường Qibla"}],"k":"qibla wall"},{"h":"QIC","segs":[{"k":"m","t":"(quarter-inch cartridge) hộp băng"},{"k":"m","t":"inh."}],"k":"qic"},{"h":"qigong","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Chinese exercise: a Chinese practice that incorporates physical postures, breathing techniques, và mental focus, intended to improve physical và emotional health"}],"k":"qigong"},{"h":"Qin","segs":[{"k":"m","t":"(Ch'in) Nhà Tần-triều đại đầu tiên của Trung Hoa (221-206 trước Công nguyên). Ðược lập bởi Ung Chính, người đứng đầu của nước Chu. Không như các nước đối nghịch với Trung Hoa, nhà Tần dùng mưu chứ không dùng vũ lực nhưng đã nhanh chóng thâu tóm được nhiều vũ khí. Nhà Tần bảo đảm cung cấp đầy đủ lương thực bằng cách phát triển hệ thống tưới tiêu. Dựa vào Shaanxi, họ bắt đầu bành trướng lãnh thổ từ năm 350 trước Công nguyên. Dưới thời Ung Chính, nhà Tần xâm chiếm về phía Ðông nước Chu và sau đó là toàn bộ vào những năm (256-221) trước công nguyên. Sau đó, Ung Chính xưng ngôi Hoàng Ðế-vị hoàng đế đầu tiên của Trung Hoa, lấy hiệu là Tần Thủy Hoàng. Ông băng hà vào năm 210 trước công nguyên và 4 năm sau, triều đại của ông cũng sụp đổ. Kể từ đó, mặc dù có những lúc bị xâu xé, nhưng nhận thức về một Trung Hoa thống nhất đã thành hình. Tên \"Trung Hoa\" có từ đời nhà Tần."}],"k":"qin"},{"h":"qindar","segs":[{"k":"m","t":"(số nhiều qindars) hoặc qindarke (số nhiều qindarka) hoặc qintar (số nhiều qintars)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"Albanian subunit of currency: a subunit of Albanian currency"}],"k":"qindar"},{"h":"Qing","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(lịch sử Trung Hoa) Nhà Thanh (1644-1912) (cũng)"},{"k":"ex","t":"Ching","vi":"."}],"k":"qing"},{"h":"Qingdao","segs":[{"k":"m","t":"city on the Yellow Sea, in Shandong Province, eastern China, between Beijing và Shanghai."},{"k":"m","t":"Dân số khoảng: 2,316,000 (thống kê năm 2000)"}],"k":"qingdao"},{"h":"Qinghai","segs":[{"k":"m","t":"province in western China bounded by Xinjiang Uygur, Gansu, Sichuan, và Tibet."},{"k":"m","t":"Capital: Xining"},{"k":"m","t":"Dân số khoảng: 5,338,000 (thống kê năm 2003)"},{"k":"m","t":"Diện tích: 720,999 sq km/278,379 sq mi"}],"k":"qinghai"},{"h":"Qinghai Hu","segs":[{"k":"m","t":"saline lake in west central China, the largest lake in the country"}],"k":"qinghai hu"},{"h":"qintar","segs":[{"k":"m","t":"(số nhiều qintars hoặc qintar hoặc qindarka)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"money như qindar"}],"k":"qintar"},{"h":"Qippur","segs":[{"k":"m","t":"Lễ sám hối (Do thái)."}],"k":"qippur"},{"h":"Qiqihar","segs":[{"k":"m","t":"city và port in Heilongjiang Province, China, situated on the left bank of the Nen River 274 km/170 mi northwest of Harbin."},{"k":"m","t":"Dân số khoảng: 1,520,000 (thống kê năm 1995)"}],"k":"qiqihar"},{"h":"QISAM","segs":[{"k":"m","t":"(queued indexed sequential access method) phương pháp truy nhập tuần tự theo chỉ mục xếp hàng đợi."}],"k":"qisam"},{"h":"qiviut","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"undercoat of musk ox: the soft wool that grows beneath the long outer coat of a musk ox. Dùng để: yarn."}],"k":"qiviut"}]
+[
+  {"h": "qi", "segs": [{"k": "m", "t": "khí."}], "k": "qi"},
+  {
+    "h": "Qi Gong",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(thể dục thể thao) khí công."}],
+    "k": "qi gong"
+  },
+  {
+    "h": "qibla",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "islam Another spelling of kiblah"}],
+    "k": "qibla"
+  },
+  {
+    "h": "Qibla wall",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tường Qibla"}],
+    "k": "qibla wall"
+  },
+  {
+    "h": "QIC",
+    "segs": [{"k": "m", "t": "(quarter-inch cartridge) hộp băng"}, {"k": "m", "t": "inh."}],
+    "k": "qic"
+  },
+  {
+    "h": "qigong",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Chinese exercise: a Chinese practice that incorporates physical postures, breathing techniques, và mental focus, intended to improve physical và emotional health"
+      }
+    ],
+    "k": "qigong"
+  },
+  {
+    "h": "Qin",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Ch'in) Nhà Tần-triều đại đầu tiên của Trung Hoa (221-206 trước Công nguyên). Ðược lập bởi Ung Chính, người đứng đầu của nước Chu. Không như các nước đối nghịch với Trung Hoa, nhà Tần dùng mưu chứ không dùng vũ lực nhưng đã nhanh chóng thâu tóm được nhiều vũ khí. Nhà Tần bảo đảm cung cấp đầy đủ lương thực bằng cách phát triển hệ thống tưới tiêu. Dựa vào Shaanxi, họ bắt đầu bành trướng lãnh thổ từ năm 350 trước Công nguyên. Dưới thời Ung Chính, nhà Tần xâm chiếm về phía Ðông nước Chu và sau đó là toàn bộ vào những năm (256-221) trước công nguyên. Sau đó, Ung Chính xưng ngôi Hoàng Ðế-vị hoàng đế đầu tiên của Trung Hoa, lấy hiệu là Tần Thủy Hoàng. Ông băng hà vào năm 210 trước công nguyên và 4 năm sau, triều đại của ông cũng sụp đổ. Kể từ đó, mặc dù có những lúc bị xâu xé, nhưng nhận thức về một Trung Hoa thống nhất đã thành hình. Tên \"Trung Hoa\" có từ đời nhà Tần."
+      }
+    ],
+    "k": "qin"
+  },
+  {
+    "h": "qindar",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(số nhiều qindars) hoặc qindarke (số nhiều qindarka) hoặc qintar (số nhiều qintars)"
+      },
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "Albanian subunit of currency: a subunit of Albanian currency"}
+    ],
+    "k": "qindar"
+  },
+  {
+    "h": "Qing",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(lịch sử Trung Hoa) Nhà Thanh (1644-1912) (cũng)"},
+      {"k": "ex", "t": "Ching", "vi": "."}
+    ],
+    "k": "qing"
+  },
+  {
+    "h": "Qingdao",
+    "segs": [
+      {
+        "k": "m",
+        "t": "city on the Yellow Sea, in Shandong Province, eastern China, between Beijing và Shanghai."
+      },
+      {"k": "m", "t": "Dân số khoảng: 2,316,000 (thống kê năm 2000)"}
+    ],
+    "k": "qingdao"
+  },
+  {
+    "h": "Qinghai",
+    "segs": [
+      {
+        "k": "m",
+        "t": "province in western China bounded by Xinjiang Uygur, Gansu, Sichuan, và Tibet."
+      },
+      {"k": "m", "t": "Capital: Xining"},
+      {"k": "m", "t": "Dân số khoảng: 5,338,000 (thống kê năm 2003)"},
+      {"k": "m", "t": "Diện tích: 720,999 sq km/278,379 sq mi"}
+    ],
+    "k": "qinghai"
+  },
+  {
+    "h": "Qinghai Hu",
+    "segs": [{"k": "m", "t": "saline lake in west central China, the largest lake in the country"}],
+    "k": "qinghai hu"
+  },
+  {
+    "h": "qintar",
+    "segs": [
+      {"k": "m", "t": "(số nhiều qintars hoặc qintar hoặc qindarka)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "money như qindar"}
+    ],
+    "k": "qintar"
+  },
+  {"h": "Qippur", "segs": [{"k": "m", "t": "Lễ sám hối (Do thái)."}], "k": "qippur"},
+  {
+    "h": "Qiqihar",
+    "segs": [
+      {
+        "k": "m",
+        "t": "city và port in Heilongjiang Province, China, situated on the left bank of the Nen River 274 km/170 mi northwest of Harbin."
+      },
+      {"k": "m", "t": "Dân số khoảng: 1,520,000 (thống kê năm 1995)"}
+    ],
+    "k": "qiqihar"
+  },
+  {
+    "h": "QISAM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(queued indexed sequential access method) phương pháp truy nhập tuần tự theo chỉ mục xếp hàng đợi."
+      }
+    ],
+    "k": "qisam"
+  },
+  {
+    "h": "qiviut",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "undercoat of musk ox: the soft wool that grows beneath the long outer coat of a musk ox. Dùng để: yarn."
+      }
+    ],
+    "k": "qiviut"
+  }
+]

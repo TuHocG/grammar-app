@@ -1,1 +1,85 @@
-[{"h":"ft","segs":[{"k":"m","t":"(tắt) Thời báo tài chính ("},{"k":"ex","t":"Financial Times","vi":")."}],"ipa":",ef 'ti:","k":"ft"},{"h":"FT index","segs":[{"k":"m","t":"(số nhiều FT indexes)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"U.K. share index: any share index compiled by the Financial Times"}],"k":"ft index"},{"h":"FT-SE 100","segs":[{"k":"m","t":"chỉ số chứng khoán 100."}],"k":"ft-se 100"},{"h":"ft.","segs":[{"k":"m","t":"hoặc ft"},{"k":"m","t":"abbreviation"},{"k":"m","t":"1. measurements footorfeet"},{"k":"m","t":"2. military fort"}],"k":"ft."},{"h":"FTA","segs":[{"k":"m","t":"(fast tum-around) thời gian hiệu chỉnh nhanh."}],"k":"fta"},{"h":"FTAB","segs":[{"k":"m","t":"(field tab) tab trường."}],"k":"ftab"},{"h":"FTAB (field tab)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tab trường"}],"k":"ftab (field tab)"},{"h":"FTAM","segs":[{"k":"m","t":"(file transfer, access, and management) sự truyền, truy cập và quản lý tập tin."}],"k":"ftam"},{"h":"FTC","segs":[{"k":"m","t":"Viết tắt của commerce Federal Trade Commission"}],"k":"ftc"},{"h":"FTE","segs":[{"k":"m","t":"(frame table entry) mục nhận bảng khung."}],"k":"fte"},{"h":"fth.","segs":[{"k":"m","t":"Viết tắt của measurements fathom"}],"k":"fth."},{"h":"FTL","segs":[{"k":"m","t":"Viết tắt của commerce transportation full truckload"}],"k":"ftl"},{"h":"FTP","segs":[{"k":"m","t":"định ước truyền tệp, giao thức truyền tệp."}],"k":"ftp"},{"h":"FTP address","segs":[{"k":"m","t":"địa chỉ FTP."}],"k":"ftp address"},{"h":"FTP sites","segs":[{"k":"m","t":"trạm FTP."}],"k":"ftp sites"},{"h":"FTS","segs":[{"k":"m","t":"(file transfer support) hỗ trợ truyền tập tin."}],"k":"fts"},{"h":"FTSE 100 Index","segs":[{"k":"m","t":"hoặc FTSE"},{"k":"pos","t":"danh từ"},{"k":"m","t":"London stock exchange average: an average of the London stock exchange prices of the stocks of the 100 largest British companies, published daily. Full form Financial Times Stock Exchange 100 Index"}],"k":"ftse 100 index"},{"h":"FTZ","segs":[{"k":"m","t":"Viết tắt của free trade zone"}],"k":"ftz"}]
+[
+  {
+    "h": "ft",
+    "segs": [
+      {"k": "m", "t": "(tắt) Thời báo tài chính ("},
+      {"k": "ex", "t": "Financial Times", "vi": ")."}
+    ],
+    "ipa": ",ef 'ti:",
+    "k": "ft"
+  },
+  {
+    "h": "FT index",
+    "segs": [
+      {"k": "m", "t": "(số nhiều FT indexes)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "U.K. share index: any share index compiled by the Financial Times"}
+    ],
+    "k": "ft index"
+  },
+  {"h": "FT-SE 100", "segs": [{"k": "m", "t": "chỉ số chứng khoán 100."}], "k": "ft-se 100"},
+  {
+    "h": "ft.",
+    "segs": [
+      {"k": "m", "t": "hoặc ft"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "1. measurements footorfeet"},
+      {"k": "m", "t": "2. military fort"}
+    ],
+    "k": "ft."
+  },
+  {
+    "h": "FTA",
+    "segs": [{"k": "m", "t": "(fast tum-around) thời gian hiệu chỉnh nhanh."}],
+    "k": "fta"
+  },
+  {"h": "FTAB", "segs": [{"k": "m", "t": "(field tab) tab trường."}], "k": "ftab"},
+  {
+    "h": "FTAB (field tab)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tab trường"}],
+    "k": "ftab (field tab)"
+  },
+  {
+    "h": "FTAM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(file transfer, access, and management) sự truyền, truy cập và quản lý tập tin."
+      }
+    ],
+    "k": "ftam"
+  },
+  {
+    "h": "FTC",
+    "segs": [{"k": "m", "t": "Viết tắt của commerce Federal Trade Commission"}],
+    "k": "ftc"
+  },
+  {"h": "FTE", "segs": [{"k": "m", "t": "(frame table entry) mục nhận bảng khung."}], "k": "fte"},
+  {"h": "fth.", "segs": [{"k": "m", "t": "Viết tắt của measurements fathom"}], "k": "fth."},
+  {
+    "h": "FTL",
+    "segs": [{"k": "m", "t": "Viết tắt của commerce transportation full truckload"}],
+    "k": "ftl"
+  },
+  {"h": "FTP", "segs": [{"k": "m", "t": "định ước truyền tệp, giao thức truyền tệp."}], "k": "ftp"},
+  {"h": "FTP address", "segs": [{"k": "m", "t": "địa chỉ FTP."}], "k": "ftp address"},
+  {"h": "FTP sites", "segs": [{"k": "m", "t": "trạm FTP."}], "k": "ftp sites"},
+  {
+    "h": "FTS",
+    "segs": [{"k": "m", "t": "(file transfer support) hỗ trợ truyền tập tin."}],
+    "k": "fts"
+  },
+  {
+    "h": "FTSE 100 Index",
+    "segs": [
+      {"k": "m", "t": "hoặc FTSE"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "London stock exchange average: an average of the London stock exchange prices of the stocks of the 100 largest British companies, published daily. Full form Financial Times Stock Exchange 100 Index"
+      }
+    ],
+    "k": "ftse 100 index"
+  },
+  {"h": "FTZ", "segs": [{"k": "m", "t": "Viết tắt của free trade zone"}], "k": "ftz"}
+]

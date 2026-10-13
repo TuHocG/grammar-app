@@ -1,1 +1,26 @@
-[{"h":"vy.","segs":[{"k":"m","t":"Viết tắt của very"}],"k":"vy."},{"h":"Vyatka","segs":[{"k":"m","t":"Former name for Kirov1780-1934"}],"k":"vyatka"},{"h":"vygie","segs":[{"k":"m","t":"(số nhiều vygies)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"South Africa mesembryanthemum: a mesembryanthemum"}],"k":"vygie"},{"h":"vying","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự ganh đua"},{"k":"m","t":"sự thi đua"},{"k":"pos","t":"tính từ"},{"k":"m","t":"ganh đua"},{"k":"m","t":"thi đua."}],"ipa":"'vaiiŋ","k":"vying"}]
+[
+  {"h": "vy.", "segs": [{"k": "m", "t": "Viết tắt của very"}], "k": "vy."},
+  {"h": "Vyatka", "segs": [{"k": "m", "t": "Former name for Kirov1780-1934"}], "k": "vyatka"},
+  {
+    "h": "vygie",
+    "segs": [
+      {"k": "m", "t": "(số nhiều vygies)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "South Africa mesembryanthemum: a mesembryanthemum"}
+    ],
+    "k": "vygie"
+  },
+  {
+    "h": "vying",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "sự ganh đua"},
+      {"k": "m", "t": "sự thi đua"},
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "ganh đua"},
+      {"k": "m", "t": "thi đua."}
+    ],
+    "ipa": "'vaiiŋ",
+    "k": "vying"
+  }
+]

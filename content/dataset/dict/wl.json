@@ -1,1 +1,47 @@
-[{"h":"WL","segs":[{"k":"m","t":"Viết tắt của 1. w.l.nautical water line"},{"k":"m","t":"2. electricity wavelength"}],"k":"wl"},{"h":"WLAN","segs":[{"k":"m","t":"(Wireless Local Area Network) mạng cục bộ vô tuyến."}],"k":"wlan"},{"h":"WLAP","segs":[{"k":"m","t":"(wireless LAN access point) điểm truy cập mạng cục bộ vô tuyến."}],"k":"wlap"},{"h":"WLMP","segs":[{"k":"m","t":"(Windows, Icons, Menus and Pointers) windows, biểu tượng, trình đơn và con trỏ."}],"k":"wlmp"},{"h":"WLMP environment","segs":[{"k":"m","t":"môi trường WIMP, môi trường gồm Windows, biểu tượng, thực đơn và con trỏ."}],"k":"wlmp environment"},{"h":"WLTM","segs":[{"k":"m","t":"Viết tắt của would like to meet (thông tục) (used in e-mails hoặc text messages)"}],"k":"wltm"}]
+[
+  {
+    "h": "WL",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. w.l.nautical water line"},
+      {"k": "m", "t": "2. electricity wavelength"}
+    ],
+    "k": "wl"
+  },
+  {
+    "h": "WLAN",
+    "segs": [{"k": "m", "t": "(Wireless Local Area Network) mạng cục bộ vô tuyến."}],
+    "k": "wlan"
+  },
+  {
+    "h": "WLAP",
+    "segs": [{"k": "m", "t": "(wireless LAN access point) điểm truy cập mạng cục bộ vô tuyến."}],
+    "k": "wlap"
+  },
+  {
+    "h": "WLMP",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Windows, Icons, Menus and Pointers) windows, biểu tượng, trình đơn và con trỏ."
+      }
+    ],
+    "k": "wlmp"
+  },
+  {
+    "h": "WLMP environment",
+    "segs": [
+      {"k": "m", "t": "môi trường WIMP, môi trường gồm Windows, biểu tượng, thực đơn và con trỏ."}
+    ],
+    "k": "wlmp environment"
+  },
+  {
+    "h": "WLTM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của would like to meet (thông tục) (used in e-mails hoặc text messages)"
+      }
+    ],
+    "k": "wltm"
+  }
+]

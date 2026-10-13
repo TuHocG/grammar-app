@@ -1,1 +1,7 @@
-[{"h":"XVGA","segs":[{"k":"m","t":"(extended video graphics array) mảng đồ họa video mở rộng."}],"k":"xvga"}]
+[
+  {
+    "h": "XVGA",
+    "segs": [{"k": "m", "t": "(extended video graphics array) mảng đồ họa video mở rộng."}],
+    "k": "xvga"
+  }
+]

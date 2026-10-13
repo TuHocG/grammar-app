@@ -1,1 +1,67 @@
-[{"h":"iieocolic lymph node","segs":[{"k":"m","t":"Chuỗi hạch bạch huyết hồi-kết tràng."}],"k":"iieocolic lymph node"},{"h":"IIL","segs":[{"k":"m","t":"(integrated injection logic) mạch logic phun tích hợp."}],"k":"iil"},{"h":"iImpairment rider","segs":[{"k":"m","t":"(bảo hiểm) điều khoản riêng loại trừ bệnh"}],"k":"iimpairment rider"},{"h":"IINM","segs":[{"k":"m","t":"Viết tắt của online if I'm not mistaken (used in e-mails)"}],"k":"iinm"},{"h":"IIR","segs":[{"k":"m","t":"(infinite impulse response) sự đáp ứng xung vô hạn."}],"k":"iir"},{"h":"IIR digital filter","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ lọc số IIR"}],"k":"iir digital filter"},{"h":"IIR filter","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ lọc đệ quy"},{"k":"m","t":"bộ lọc IIR"}],"k":"iir filter"},{"h":"IIRC","segs":[{"k":"m","t":"Viết tắt của online if I recall/remember correctly (used in e-mails)"}],"k":"iirc"},{"h":"IIS","segs":[{"k":"m","t":"(idealized instruction set) tập lệnh lý tưởng hóa."}],"k":"iis"},{"h":"IIT","segs":[{"k":"m","t":"(integrated information technology) công nghệ thông tin tích hợp."}],"k":"iit"},{"h":"iitinterant","segs":[{"k":"m","t":"(n)"},{"k":"m","t":"(Tham khảo)"},{"k":"ex","t":"itinerary","vi":"."}],"k":"iitinterant"}]
+[
+  {
+    "h": "iieocolic lymph node",
+    "segs": [{"k": "m", "t": "Chuỗi hạch bạch huyết hồi-kết tràng."}],
+    "k": "iieocolic lymph node"
+  },
+  {
+    "h": "IIL",
+    "segs": [{"k": "m", "t": "(integrated injection logic) mạch logic phun tích hợp."}],
+    "k": "iil"
+  },
+  {
+    "h": "iImpairment rider",
+    "segs": [{"k": "m", "t": "(bảo hiểm) điều khoản riêng loại trừ bệnh"}],
+    "k": "iimpairment rider"
+  },
+  {
+    "h": "IINM",
+    "segs": [{"k": "m", "t": "Viết tắt của online if I'm not mistaken (used in e-mails)"}],
+    "k": "iinm"
+  },
+  {
+    "h": "IIR",
+    "segs": [{"k": "m", "t": "(infinite impulse response) sự đáp ứng xung vô hạn."}],
+    "k": "iir"
+  },
+  {
+    "h": "IIR digital filter",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ lọc số IIR"}],
+    "k": "iir digital filter"
+  },
+  {
+    "h": "IIR filter",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bộ lọc đệ quy"},
+      {"k": "m", "t": "bộ lọc IIR"}
+    ],
+    "k": "iir filter"
+  },
+  {
+    "h": "IIRC",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của online if I recall/remember correctly (used in e-mails)"}
+    ],
+    "k": "iirc"
+  },
+  {
+    "h": "IIS",
+    "segs": [{"k": "m", "t": "(idealized instruction set) tập lệnh lý tưởng hóa."}],
+    "k": "iis"
+  },
+  {
+    "h": "IIT",
+    "segs": [{"k": "m", "t": "(integrated information technology) công nghệ thông tin tích hợp."}],
+    "k": "iit"
+  },
+  {
+    "h": "iitinterant",
+    "segs": [
+      {"k": "m", "t": "(n)"},
+      {"k": "m", "t": "(Tham khảo)"},
+      {"k": "ex", "t": "itinerary", "vi": "."}
+    ],
+    "k": "iitinterant"
+  }
+]

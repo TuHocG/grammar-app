@@ -1,1 +1,20 @@
-[{"h":"CJD","segs":[{"k":"m","t":"viết tắt của"},{"k":"ex","t":"Creutzfeldt-Jakob Disease","vi":"."}],"k":"cjd"},{"h":"CJK","segs":[{"k":"m","t":"(Chinese, Japanese, and Korean) ký tự ngôn ngữ Trung Hoa, Nhật Bản và Hàn Quốc."}],"k":"cjk"}]
+[
+  {
+    "h": "CJD",
+    "segs": [
+      {"k": "m", "t": "viết tắt của"},
+      {"k": "ex", "t": "Creutzfeldt-Jakob Disease", "vi": "."}
+    ],
+    "k": "cjd"
+  },
+  {
+    "h": "CJK",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Chinese, Japanese, and Korean) ký tự ngôn ngữ Trung Hoa, Nhật Bản và Hàn Quốc."
+      }
+    ],
+    "k": "cjk"
+  }
+]

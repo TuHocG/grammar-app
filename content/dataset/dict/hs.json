@@ -1,1 +1,122 @@
-[{"h":"HS","segs":[{"k":"m","t":"(high-speed light) đèn báo tốc độ cao."}],"k":"hs"},{"h":"HS loading","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"xếp hoạt tải loại HS"}],"k":"hs loading"},{"h":"HSAM","segs":[{"k":"m","t":"(hierarchic sequential access method) phương pháp truy cập tuần tự có thứ bậc."}],"k":"hsam"},{"h":"HSB","segs":[{"k":"m","t":"(hue-saturation-brightness) sắc độ-độ bão hòa-độ chói."}],"k":"hsb"},{"h":"HSC","segs":[{"k":"m","t":"Viết tắt của U.K. Higher School Certificate"}],"k":"hsc"},{"h":"HSE","segs":[{"k":"m","t":"Viết tắt của U.K. Health và Safety Executive"}],"k":"hse"},{"h":"HSGT","segs":[{"k":"m","t":"Viết tắt của high-speed ground transportation"}],"k":"hsgt"},{"h":"HSI","segs":[{"k":"m","t":"1. high scale integration tích hợp cỡ cao. 2. hue-saturation intensity sắc độ-độ bão hòa cường độ."}],"k":"hsi"},{"h":"Hsia","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(lịch sử Trung Hoa) Nhà Hạ (2205-1766 trước Công nguyên) (cũng)"},{"k":"ex","t":"Xia","vi":"."}],"k":"hsia"},{"h":"HSICB","segs":[{"k":"m","t":"(half-session information control block) khối điều khiển thông tin nửa kỳ tác vụ."}],"k":"hsicb"},{"h":"Hsien Nien","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"calendar như Chinese New Year"}],"k":"hsien nien"},{"h":"Hsin","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(lịch sử Trung Hoa) Nhà Tân (9-23 sau Công nguyên) (cũng)"},{"k":"ex","t":"Xin","vi":"."}],"k":"hsin"},{"h":"Hsiung Shih-li","segs":[{"k":"m","t":"hùng Thập Lực."}],"k":"hsiung shih-li"},{"h":"HSRC","segs":[{"k":"m","t":"Viết tắt của U.K. Human Sciences Research Council"}],"k":"hsrc"},{"h":"HSRP","segs":[{"k":"m","t":"(Hot Swapable Routing Protocol) giao thức định tuyến trao đổi nóng."}],"k":"hsrp"},{"h":"HSSL","segs":[{"k":"m","t":"(high-speed serial interface) giao diện nối tiếp tốc độ cao."}],"k":"hssl"},{"h":"HST","segs":[{"k":"m","t":"Viết tắt của 1. harmonized sales tax"},{"k":"m","t":"2. hypersonic transport"}],"k":"hst"},{"h":"hsterobubonocele","segs":[{"k":"m","t":"Thoát vị tử cung bẹn."}],"k":"hsterobubonocele"},{"h":"hsu-pa","segs":[{"k":"m","t":"tự bạt."}],"k":"hsu-pa"},{"h":"Hsuan-tsung","segs":[{"k":"m","t":"huyền Tông (Ðường Minh Hoàng)."}],"k":"hsuan-tsung"},{"h":"Hsun Tzu","segs":[{"k":"m","t":"tuân Tử (cách phiên âm hiện đại theo Bắc Kinh là Xunzi)."}],"k":"hsun tzu"},{"h":"HSV","segs":[{"k":"m","t":"(hue-saturation-value) sắc độ-độ bão hòa-giá trị."}],"k":"hsv"}]
+[
+  {"h": "HS", "segs": [{"k": "m", "t": "(high-speed light) đèn báo tốc độ cao."}], "k": "hs"},
+  {
+    "h": "HS loading",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "xếp hoạt tải loại HS"}],
+    "k": "hs loading"
+  },
+  {
+    "h": "HSAM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(hierarchic sequential access method) phương pháp truy cập tuần tự có thứ bậc."
+      }
+    ],
+    "k": "hsam"
+  },
+  {
+    "h": "HSB",
+    "segs": [{"k": "m", "t": "(hue-saturation-brightness) sắc độ-độ bão hòa-độ chói."}],
+    "k": "hsb"
+  },
+  {"h": "HSC", "segs": [{"k": "m", "t": "Viết tắt của U.K. Higher School Certificate"}], "k": "hsc"},
+  {
+    "h": "HSE",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Health và Safety Executive"}],
+    "k": "hse"
+  },
+  {
+    "h": "HSGT",
+    "segs": [{"k": "m", "t": "Viết tắt của high-speed ground transportation"}],
+    "k": "hsgt"
+  },
+  {
+    "h": "HSI",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. high scale integration tích hợp cỡ cao. 2. hue-saturation intensity sắc độ-độ bão hòa cường độ."
+      }
+    ],
+    "k": "hsi"
+  },
+  {
+    "h": "Hsia",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(lịch sử Trung Hoa) Nhà Hạ (2205-1766 trước Công nguyên) (cũng)"},
+      {"k": "ex", "t": "Xia", "vi": "."}
+    ],
+    "k": "hsia"
+  },
+  {
+    "h": "HSICB",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(half-session information control block) khối điều khiển thông tin nửa kỳ tác vụ."
+      }
+    ],
+    "k": "hsicb"
+  },
+  {
+    "h": "Hsien Nien",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "calendar như Chinese New Year"}],
+    "k": "hsien nien"
+  },
+  {
+    "h": "Hsin",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(lịch sử Trung Hoa) Nhà Tân (9-23 sau Công nguyên) (cũng)"},
+      {"k": "ex", "t": "Xin", "vi": "."}
+    ],
+    "k": "hsin"
+  },
+  {"h": "Hsiung Shih-li", "segs": [{"k": "m", "t": "hùng Thập Lực."}], "k": "hsiung shih-li"},
+  {
+    "h": "HSRC",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Human Sciences Research Council"}],
+    "k": "hsrc"
+  },
+  {
+    "h": "HSRP",
+    "segs": [{"k": "m", "t": "(Hot Swapable Routing Protocol) giao thức định tuyến trao đổi nóng."}],
+    "k": "hsrp"
+  },
+  {
+    "h": "HSSL",
+    "segs": [{"k": "m", "t": "(high-speed serial interface) giao diện nối tiếp tốc độ cao."}],
+    "k": "hssl"
+  },
+  {
+    "h": "HST",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. harmonized sales tax"},
+      {"k": "m", "t": "2. hypersonic transport"}
+    ],
+    "k": "hst"
+  },
+  {
+    "h": "hsterobubonocele",
+    "segs": [{"k": "m", "t": "Thoát vị tử cung bẹn."}],
+    "k": "hsterobubonocele"
+  },
+  {"h": "hsu-pa", "segs": [{"k": "m", "t": "tự bạt."}], "k": "hsu-pa"},
+  {
+    "h": "Hsuan-tsung",
+    "segs": [{"k": "m", "t": "huyền Tông (Ðường Minh Hoàng)."}],
+    "k": "hsuan-tsung"
+  },
+  {
+    "h": "Hsun Tzu",
+    "segs": [{"k": "m", "t": "tuân Tử (cách phiên âm hiện đại theo Bắc Kinh là Xunzi)."}],
+    "k": "hsun tzu"
+  },
+  {
+    "h": "HSV",
+    "segs": [{"k": "m", "t": "(hue-saturation-value) sắc độ-độ bão hòa-giá trị."}],
+    "k": "hsv"
+  }
+]

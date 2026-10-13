@@ -1,1 +1,119 @@
-[{"h":"fd","segs":[{"k":"m","t":"(tắt) Người bảo vệ đức tin ("},{"k":"ex","t":"Fidei Defensor","vi":")."}],"ipa":",ef 'di:","k":"fd"},{"h":"FD (flexible disk)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đĩa mềm"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đĩa mềm"}],"k":"fd (flexible disk)"},{"h":"FD (full duplex)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự song công toàn phần"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự song công toàn phần"}],"k":"fd (full duplex)"},{"h":"FD entry","segs":[{"k":"m","t":"(file description entry) mục nhập mô tả tập tin."}],"k":"fd entry"},{"h":"FDA","segs":[{"k":"m","t":"hoặc F.D.A."},{"k":"pos","t":"danh từ"},{"k":"m","t":"U.S. agency overseeing food safety: the federal agency that oversees trade in và the safety of food và drugs in the United States. Full form Food và Drug Administration"}],"k":"fda"},{"h":"FDC","segs":[{"k":"m","t":"1. floppy disk controller bộ điều khiển đĩa mềm. 2. frame dependent control mode chế độ điều khiển phụ thuộc khung."}],"k":"fdc"},{"h":"FDD","segs":[{"k":"m","t":"1. fixed disk drive ổ đĩa cố định. 2. floppy disk drive ổ đĩa mền."}],"k":"fdd"},{"h":"FDDL","segs":[{"k":"m","t":"(Fiber Distributed Data Interface) giao diện dữ liệu phân phối bằng (cáp) sợi."}],"k":"fddl"},{"h":"FDHD","segs":[{"k":"m","t":"Viết tắt của floppy drive high density."}],"k":"fdhd"},{"h":"FDIC","segs":[{"k":"m","t":"hoặc F.D.I.C."},{"k":"pos","t":"danh từ"},{"k":"m","t":"U.S. agency insuring bank deposits: the federally chartered organization that insures deposits in U.S. banks. Full form Federal Deposit Insurance Corporation"}],"k":"fdic"},{"h":"FDM","segs":[{"k":"m","t":"(frequency-division multiplexing) sự truyền đa công phân chia tần số, sự dồn kênh phân chia tần số."}],"k":"fdm"},{"h":"FDMA","segs":[{"k":"m","t":"(frequency-division multillle access) đa truy cập phân chia tần số."}],"k":"fdma"},{"h":"FDNY","segs":[{"k":"m","t":"Viết tắt của Fire Department of New York"}],"k":"fdny"},{"h":"FDP","segs":[{"k":"m","t":"(field-developed program) chương trình triển khai theo trường."}],"k":"fdp"},{"h":"FDR","segs":[{"k":"m","t":"Viết tắt của Franklin Delano Roosevelt"}],"k":"fdr"},{"h":"FDX","segs":[{"k":"m","t":"(full duplex) song công toàn phần."}],"k":"fdx"},{"h":"FDX (full duplex)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"song công toàn phần"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"song công toàn phần"}],"k":"fdx (full duplex)"}]
+[
+  {
+    "h": "fd",
+    "segs": [
+      {"k": "m", "t": "(tắt) Người bảo vệ đức tin ("},
+      {"k": "ex", "t": "Fidei Defensor", "vi": ")."}
+    ],
+    "ipa": ",ef 'di:",
+    "k": "fd"
+  },
+  {
+    "h": "FD (flexible disk)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đĩa mềm"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đĩa mềm"}
+    ],
+    "k": "fd (flexible disk)"
+  },
+  {
+    "h": "FD (full duplex)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sự song công toàn phần"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sự song công toàn phần"}
+    ],
+    "k": "fd (full duplex)"
+  },
+  {
+    "h": "FD entry",
+    "segs": [{"k": "m", "t": "(file description entry) mục nhập mô tả tập tin."}],
+    "k": "fd entry"
+  },
+  {
+    "h": "FDA",
+    "segs": [
+      {"k": "m", "t": "hoặc F.D.A."},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "U.S. agency overseeing food safety: the federal agency that oversees trade in và the safety of food và drugs in the United States. Full form Food và Drug Administration"
+      }
+    ],
+    "k": "fda"
+  },
+  {
+    "h": "FDC",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. floppy disk controller bộ điều khiển đĩa mềm. 2. frame dependent control mode chế độ điều khiển phụ thuộc khung."
+      }
+    ],
+    "k": "fdc"
+  },
+  {
+    "h": "FDD",
+    "segs": [{"k": "m", "t": "1. fixed disk drive ổ đĩa cố định. 2. floppy disk drive ổ đĩa mền."}],
+    "k": "fdd"
+  },
+  {
+    "h": "FDDL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Fiber Distributed Data Interface) giao diện dữ liệu phân phối bằng (cáp) sợi."
+      }
+    ],
+    "k": "fddl"
+  },
+  {"h": "FDHD", "segs": [{"k": "m", "t": "Viết tắt của floppy drive high density."}], "k": "fdhd"},
+  {
+    "h": "FDIC",
+    "segs": [
+      {"k": "m", "t": "hoặc F.D.I.C."},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "U.S. agency insuring bank deposits: the federally chartered organization that insures deposits in U.S. banks. Full form Federal Deposit Insurance Corporation"
+      }
+    ],
+    "k": "fdic"
+  },
+  {
+    "h": "FDM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(frequency-division multiplexing) sự truyền đa công phân chia tần số, sự dồn kênh phân chia tần số."
+      }
+    ],
+    "k": "fdm"
+  },
+  {
+    "h": "FDMA",
+    "segs": [{"k": "m", "t": "(frequency-division multillle access) đa truy cập phân chia tần số."}],
+    "k": "fdma"
+  },
+  {"h": "FDNY", "segs": [{"k": "m", "t": "Viết tắt của Fire Department of New York"}], "k": "fdny"},
+  {
+    "h": "FDP",
+    "segs": [{"k": "m", "t": "(field-developed program) chương trình triển khai theo trường."}],
+    "k": "fdp"
+  },
+  {"h": "FDR", "segs": [{"k": "m", "t": "Viết tắt của Franklin Delano Roosevelt"}], "k": "fdr"},
+  {"h": "FDX", "segs": [{"k": "m", "t": "(full duplex) song công toàn phần."}], "k": "fdx"},
+  {
+    "h": "FDX (full duplex)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "song công toàn phần"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "song công toàn phần"}
+    ],
+    "k": "fdx (full duplex)"
+  }
+]

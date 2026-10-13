@@ -1,1 +1,30 @@
-[{"h":"qc","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"("},{"k":"ex","t":"QC) (luật pháp Anh) (tắt) của Queen's Counsel","vi":"Hội đồng cố vấn của nữ hoàng."}],"ipa":",kju:'si:","k":"qc"},{"h":"QC (quality control)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự kiểm tra chất lượng"}],"k":"qc (quality control)"},{"h":"QCD","segs":[{"k":"m","t":"Viết tắt của quantum chromodynamics"}],"k":"qcd"},{"h":"QCD (quantum chromodynamics)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sắc động lực học lượng tử"}],"k":"qcd (quantum chromodynamics)"}]
+[
+  {
+    "h": "qc",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "("},
+      {
+        "k": "ex",
+        "t": "QC) (luật pháp Anh) (tắt) của Queen's Counsel",
+        "vi": "Hội đồng cố vấn của nữ hoàng."
+      }
+    ],
+    "ipa": ",kju:'si:",
+    "k": "qc"
+  },
+  {
+    "h": "QC (quality control)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự kiểm tra chất lượng"}],
+    "k": "qc (quality control)"
+  },
+  {"h": "QCD", "segs": [{"k": "m", "t": "Viết tắt của quantum chromodynamics"}], "k": "qcd"},
+  {
+    "h": "QCD (quantum chromodynamics)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sắc động lực học lượng tử"}
+    ],
+    "k": "qcd (quantum chromodynamics)"
+  }
+]

@@ -1,1 +1,46 @@
-[{"h":"-ferous","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"bearing, containing, producing"},{"k":"m","t":"diamondiferous"}],"k":"-ferous"},{"h":"-fest","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"1. a gathering hoặc festival of a particular type"},{"k":"m","t":"love-fest"},{"k":"m","t":"talk-fest"},{"k":"m","t":"2. something with plenty of something: a movie filled with horrific gory detail"},{"k":"m","t":"\"Night of the Living Dead\" is a real gore-fest."}],"k":"-fest"},{"h":"-fic","segs":[{"k":"m","t":"tvng. (-ific) (tạo thành những tính từ có nghĩa \"tạo ra\", \"làm ra\") (pacific thanh bình, prolific sinh sản nhiều)."}],"k":"-fic"},{"h":"-fication","segs":[{"k":"m","t":"tvng (-ification) (tạo thành những danh từ diễn tả hành động từ những động từ tận cùng bằng-fy (sim-plification sự giản lược purification sự tinh khiết hóa)."}],"k":"-fication"}]
+[
+  {
+    "h": "-ferous",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "bearing, containing, producing"},
+      {"k": "m", "t": "diamondiferous"}
+    ],
+    "k": "-ferous"
+  },
+  {
+    "h": "-fest",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "1. a gathering hoặc festival of a particular type"},
+      {"k": "m", "t": "love-fest"},
+      {"k": "m", "t": "talk-fest"},
+      {
+        "k": "m",
+        "t": "2. something with plenty of something: a movie filled with horrific gory detail"
+      },
+      {"k": "m", "t": "\"Night of the Living Dead\" is a real gore-fest."}
+    ],
+    "k": "-fest"
+  },
+  {
+    "h": "-fic",
+    "segs": [
+      {
+        "k": "m",
+        "t": "tvng. (-ific) (tạo thành những tính từ có nghĩa \"tạo ra\", \"làm ra\") (pacific thanh bình, prolific sinh sản nhiều)."
+      }
+    ],
+    "k": "-fic"
+  },
+  {
+    "h": "-fication",
+    "segs": [
+      {
+        "k": "m",
+        "t": "tvng (-ification) (tạo thành những danh từ diễn tả hành động từ những động từ tận cùng bằng-fy (sim-plification sự giản lược purification sự tinh khiết hóa)."
+      }
+    ],
+    "k": "-fication"
+  }
+]

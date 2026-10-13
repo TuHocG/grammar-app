@@ -1,1 +1,40 @@
-[{"h":"EZ","segs":[{"k":"m","t":"Viết tắt của easy"}],"k":"ez"},{"h":"Ez.","segs":[{"k":"m","t":"Viết tắt của bible Ezra"}],"k":"ez."},{"h":"Ezek.","segs":[{"k":"m","t":"Viết tắt của bible Ezekiel"}],"k":"ezek."},{"h":"Ezekiel","segs":[{"k":"m","t":"(thế kỷ 6 trước Công Nguyên) Nhà tiên tri Hebrew. Ông là một tu sĩ bị trục xuất. Ông tuyên bố sẽ bỏ đạo và không thờ tượng thần. Ông tiên đoán về sự sụp đổ của thành Jerusalem và người Do Thái. Ngay khi Jerusalem bị sụp đổ (586 trước Công Nguyên) ông tiên đoán rằng Chúa sẽ khôi phục lại dân tộc và người Do Thái sẽ bắt đầu sống và trở lại trên đất của họ và thờ phượng Chúa. Tên ông là Ezekiel được ghi lại trong kinh Coran."}],"k":"ezekiel"},{"h":"ezine","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"viết tắt của Electronic Magazine (Tạp chí điện tử)."}],"ipa":"'i:zi:n","k":"ezine"},{"h":"Ezr.","segs":[{"k":"m","t":"Viết tắt của bible Ezra"}],"k":"ezr."},{"h":"Ezra","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"1. Hebrew priest: in the Bible, a Hebrew high priest who lived in the 5th century bc. He led the Jews back to Jerusalem from their exile in Babylon và founded a Jewish nation."},{"k":"m","t":"2. book of Bible: a book of the Bible that describes the rebuilding of the Jewish state in Judah after the Babylonian captivity, traditionally attributed to Ezra"}],"k":"ezra"}]
+[
+  {"h": "EZ", "segs": [{"k": "m", "t": "Viết tắt của easy"}], "k": "ez"},
+  {"h": "Ez.", "segs": [{"k": "m", "t": "Viết tắt của bible Ezra"}], "k": "ez."},
+  {"h": "Ezek.", "segs": [{"k": "m", "t": "Viết tắt của bible Ezekiel"}], "k": "ezek."},
+  {
+    "h": "Ezekiel",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(thế kỷ 6 trước Công Nguyên) Nhà tiên tri Hebrew. Ông là một tu sĩ bị trục xuất. Ông tuyên bố sẽ bỏ đạo và không thờ tượng thần. Ông tiên đoán về sự sụp đổ của thành Jerusalem và người Do Thái. Ngay khi Jerusalem bị sụp đổ (586 trước Công Nguyên) ông tiên đoán rằng Chúa sẽ khôi phục lại dân tộc và người Do Thái sẽ bắt đầu sống và trở lại trên đất của họ và thờ phượng Chúa. Tên ông là Ezekiel được ghi lại trong kinh Coran."
+      }
+    ],
+    "k": "ezekiel"
+  },
+  {
+    "h": "ezine",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "viết tắt của Electronic Magazine (Tạp chí điện tử)."}
+    ],
+    "ipa": "'i:zi:n",
+    "k": "ezine"
+  },
+  {"h": "Ezr.", "segs": [{"k": "m", "t": "Viết tắt của bible Ezra"}], "k": "ezr."},
+  {
+    "h": "Ezra",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. Hebrew priest: in the Bible, a Hebrew high priest who lived in the 5th century bc. He led the Jews back to Jerusalem from their exile in Babylon và founded a Jewish nation."
+      },
+      {
+        "k": "m",
+        "t": "2. book of Bible: a book of the Bible that describes the rebuilding of the Jewish state in Judah after the Babylonian captivity, traditionally attributed to Ezra"
+      }
+    ],
+    "k": "ezra"
+  }
+]

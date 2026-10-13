@@ -1,1 +1,33 @@
-[{"h":"HCF","segs":[{"k":"m","t":"(host command facility) chương trình lệnh chủ."}],"k":"hcf"},{"h":"HCFC","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"gas containing carbon, chlorine, fluorine, and hydrogen: a gas containing carbon, chlorine, fluorine, và hydrogen that has been identified as being less damaging to the ozone layer than CFCs. Full form hydrochlorofluorocarbon"}],"k":"hcfc"},{"h":"HCG","segs":[{"k":"m","t":"xem hormon Chorionic gonadotriphin hormon nhau thai"}],"k":"hcg"},{"h":"HCI","segs":[{"k":"m","t":"Viết tắt của human-computer interaction"}],"k":"hci"},{"h":"HCL","segs":[{"k":"m","t":"(human-computer interaction) tương tác người-máy tính."}],"k":"hcl"},{"h":"HCP","segs":[{"k":"m","t":"(host command processor) xử lý lệnh chủ."}],"k":"hcp"},{"h":"hcp.","segs":[{"k":"m","t":"Viết tắt của handicap"}],"k":"hcp."},{"h":"HCT","segs":[{"k":"m","t":"(hardcopy task) tác vụ bản sao cứng."}],"k":"hct"},{"h":"HCW","segs":[{"k":"m","t":"Viết tắt của healthcare worker"}],"k":"hcw"}]
+[
+  {
+    "h": "HCF",
+    "segs": [{"k": "m", "t": "(host command facility) chương trình lệnh chủ."}],
+    "k": "hcf"
+  },
+  {
+    "h": "HCFC",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "gas containing carbon, chlorine, fluorine, and hydrogen: a gas containing carbon, chlorine, fluorine, và hydrogen that has been identified as being less damaging to the ozone layer than CFCs. Full form hydrochlorofluorocarbon"
+      }
+    ],
+    "k": "hcfc"
+  },
+  {
+    "h": "HCG",
+    "segs": [{"k": "m", "t": "xem hormon Chorionic gonadotriphin hormon nhau thai"}],
+    "k": "hcg"
+  },
+  {"h": "HCI", "segs": [{"k": "m", "t": "Viết tắt của human-computer interaction"}], "k": "hci"},
+  {
+    "h": "HCL",
+    "segs": [{"k": "m", "t": "(human-computer interaction) tương tác người-máy tính."}],
+    "k": "hcl"
+  },
+  {"h": "HCP", "segs": [{"k": "m", "t": "(host command processor) xử lý lệnh chủ."}], "k": "hcp"},
+  {"h": "hcp.", "segs": [{"k": "m", "t": "Viết tắt của handicap"}], "k": "hcp."},
+  {"h": "HCT", "segs": [{"k": "m", "t": "(hardcopy task) tác vụ bản sao cứng."}], "k": "hct"},
+  {"h": "HCW", "segs": [{"k": "m", "t": "Viết tắt của healthcare worker"}], "k": "hcw"}
+]

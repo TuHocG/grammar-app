@@ -1,1 +1,81 @@
-[{"h":"rm","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"RM) thủy quân lục chiến Hoàng gia (Royal Marines) phòng (room","vi":")"},{"k":"ex","t":"rm","vi":"360"},{"k":"m","t":"phòng 360 (trong khách sạn...)."}],"ipa":",a:r 'em","k":"rm"},{"h":"rm.","segs":[{"k":"m","t":"Viết tắt của 1. measurements ream"},{"k":"m","t":"2. room"}],"k":"rm."},{"h":"RMA","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"ROYAL MILITARY ACADEMY Trường Võ bị Hoàng gia"}],"k":"rma"},{"h":"RMC","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"ROYAL COLLECGE OF MUSIC trường cao đẳng âm nhạc Hoàng gia (Vương quốc Anh)"}],"k":"rmc"},{"h":"RMI","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"gọi hàm từ xa (RMI)"}],"k":"rmi"},{"h":"RMS","segs":[{"k":"m","t":"viết tắt của Royal Mail Steamship."}],"k":"rms"},{"h":"rms current","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"dòng điện hiệu dụng"},{"k":"m","t":"dòng điện rms"}],"k":"rms current"},{"h":"RMS error","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lỗi RMS"}],"k":"rms error"},{"h":"rms frequency deviation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"độ lệch tần rms (vô tuyến vũ trụ)"}],"k":"rms frequency deviation"},{"h":"RMS value","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"trị số hiệu dụng"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"giá trị hiệu dụng"},{"k":"m","t":"giá trị căn quân phương"},{"k":"m","t":"giá trị rms"}],"k":"rms value"},{"h":"RMT","segs":[{"k":"m","t":"Viết tắt của U.K. National Union of Rail, Maritime, và Transport Workers"}],"k":"rmt"}]
+[
+  {
+    "h": "rm",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {"k": "ex", "t": "RM) thủy quân lục chiến Hoàng gia (Royal Marines) phòng (room", "vi": ")"},
+      {"k": "ex", "t": "rm", "vi": "360"},
+      {"k": "m", "t": "phòng 360 (trong khách sạn...)."}
+    ],
+    "ipa": ",a:r 'em",
+    "k": "rm"
+  },
+  {
+    "h": "rm.",
+    "segs": [{"k": "m", "t": "Viết tắt của 1. measurements ream"}, {"k": "m", "t": "2. room"}],
+    "k": "rm."
+  },
+  {
+    "h": "RMA",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "ROYAL MILITARY ACADEMY Trường Võ bị Hoàng gia"}
+    ],
+    "k": "rma"
+  },
+  {
+    "h": "RMC",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "ROYAL COLLECGE OF MUSIC trường cao đẳng âm nhạc Hoàng gia (Vương quốc Anh)"}
+    ],
+    "k": "rmc"
+  },
+  {
+    "h": "RMI",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "gọi hàm từ xa (RMI)"}],
+    "k": "rmi"
+  },
+  {"h": "RMS", "segs": [{"k": "m", "t": "viết tắt của Royal Mail Steamship."}], "k": "rms"},
+  {
+    "h": "rms current",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "dòng điện hiệu dụng"},
+      {"k": "m", "t": "dòng điện rms"}
+    ],
+    "k": "rms current"
+  },
+  {
+    "h": "RMS error",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "lỗi RMS"}],
+    "k": "rms error"
+  },
+  {
+    "h": "rms frequency deviation",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "độ lệch tần rms (vô tuyến vũ trụ)"}
+    ],
+    "k": "rms frequency deviation"
+  },
+  {
+    "h": "RMS value",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "trị số hiệu dụng"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "giá trị hiệu dụng"},
+      {"k": "m", "t": "giá trị căn quân phương"},
+      {"k": "m", "t": "giá trị rms"}
+    ],
+    "k": "rms value"
+  },
+  {
+    "h": "RMT",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.K. National Union of Rail, Maritime, và Transport Workers"}
+    ],
+    "k": "rmt"
+  }
+]

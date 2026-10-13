@@ -1,1 +1,39 @@
-[{"h":"lv","segs":[{"k":"m","t":"(tắt) vé ăn, phiếu ăn ("},{"k":"ex","t":"luncheon voucher","vi":")."}],"ipa":"el'vi:","k":"lv"},{"h":"lv.","segs":[{"k":"m","t":"Viết tắt của military leave"}],"k":"lv."},{"h":"lvalue","segs":[{"k":"m","t":"(left value) giá trị bên trái."}],"k":"lvalue"},{"h":"lvalue (left value)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"giá trị bên trái"}],"k":"lvalue (left value)"},{"h":"Lviv","segs":[{"k":"m","t":"hoặc L'viv hoặc Lvov industrial city in western Ukraine, capital of L'viv Oblast."},{"k":"m","t":"Dân số khoảng: 733,000 (2001)"}],"k":"lviv"},{"h":"LVN","segs":[{"k":"m","t":"hoặc L.V.N."},{"k":"m","t":"abbreviation"},{"k":"m","t":"medicine licensed vocational nurse"}],"k":"lvn"},{"h":"Lvov","segs":[{"k":"m","t":"See Lviv"}],"k":"lvov"}]
+[
+  {
+    "h": "lv",
+    "segs": [
+      {"k": "m", "t": "(tắt) vé ăn, phiếu ăn ("},
+      {"k": "ex", "t": "luncheon voucher", "vi": ")."}
+    ],
+    "ipa": "el'vi:",
+    "k": "lv"
+  },
+  {"h": "lv.", "segs": [{"k": "m", "t": "Viết tắt của military leave"}], "k": "lv."},
+  {"h": "lvalue", "segs": [{"k": "m", "t": "(left value) giá trị bên trái."}], "k": "lvalue"},
+  {
+    "h": "lvalue (left value)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "giá trị bên trái"}],
+    "k": "lvalue (left value)"
+  },
+  {
+    "h": "Lviv",
+    "segs": [
+      {
+        "k": "m",
+        "t": "hoặc L'viv hoặc Lvov industrial city in western Ukraine, capital of L'viv Oblast."
+      },
+      {"k": "m", "t": "Dân số khoảng: 733,000 (2001)"}
+    ],
+    "k": "lviv"
+  },
+  {
+    "h": "LVN",
+    "segs": [
+      {"k": "m", "t": "hoặc L.V.N."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "medicine licensed vocational nurse"}
+    ],
+    "k": "lvn"
+  },
+  {"h": "Lvov", "segs": [{"k": "m", "t": "See Lviv"}], "k": "lvov"}
+]

@@ -1,1 +1,221 @@
-[{"h":"UB40","segs":[{"k":"m","t":"vt 1. thẻ cấp cho người được trợ cấp thất nghiệp 2. th.tục người thất nghiệp"}],"k":"ub40"},{"h":"Ubaidian","segs":[{"k":"m","t":"Tính từ"},{"k":"m","t":"relating to ancient Mesopotamian culture: relating to a prehistoric cultural period in Mesopotamia that existed from the 6th to the 4th millennia bc"}],"k":"ubaidian"},{"h":"Ubangi","segs":[{"k":"m","t":"river in central Africa. The chief tributary of the Congo River, it is formed by the confluence of the Bomu và Uele rivers."},{"k":"m","t":"Length: 1,130 km/700 mi"}],"k":"ubangi"},{"h":"Ubangi-Shari","segs":[{"k":"m","t":"Former name for Central African Republicuntil 1958"}],"k":"ubangi-shari"},{"h":"ubbelohde drop point","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"điểm giọt ubbelohde"}],"k":"ubbelohde drop point"},{"h":"ubbelohde viscometer","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"nhớt kế ubbelohde"}],"k":"ubbelohde viscometer"},{"h":"uber-","segs":[{"k":"m","t":"prefix"},{"k":"m","t":"exceptional of his hoặc her kind (lóng)"},{"k":"m","t":"uberchef"},{"k":"m","t":"ubermodel"}],"k":"uber-"},{"h":"uberchef","segs":[{"k":"m","t":"(số nhiều uberchefs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"very talented chef: a chef who is considered to be outstandingly talented và successful (lóng)"}],"k":"uberchef"},{"h":"ubergeek","segs":[{"k":"m","t":"(số nhiều ubergeeks)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"expert computer hacker: an expert và dedicated computer hacker (lóng)"}],"k":"ubergeek"},{"h":"ubermodel","segs":[{"k":"m","t":"(số nhiều ubermodels)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"very successful model: a fashion model who is regarded as being among the most successful và well-known in the industry (lóng)"}],"k":"ubermodel"},{"h":"uberous","segs":[{"k":"m","t":"Sinh sản nhiều, phong phú."}],"k":"uberous"},{"h":"uberrima fides","segs":[{"k":"m","t":"sự trung thực tối đa, mức độ tin cậy tối đa."}],"k":"uberrima fides"},{"h":"uberty","segs":[{"k":"m","t":"(sự) sinh sản nhiều."}],"k":"uberty"},{"h":"ubi supra","segs":[{"k":"m","t":"trạng từ"},{"k":"m","t":"where mentioned above: where mentioned above"}],"k":"ubi supra"},{"h":"ubiety","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự có ở một nơi nhất định"},{"k":"m","t":"tình trạng có ở một nơi nhất định."}],"ipa":"ju:'baiəti","k":"ubiety"},{"h":"ubiquinone","segs":[{"k":"m","t":"coenzyme, hoạt động như một tác nhân chuyên chở electron trong các ty lạp thể tế bào."}],"k":"ubiquinone"},{"h":"ubiquitarian","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(thuộc) thuyết Chúa ở khắp nơi."}],"ipa":"ju,bikwi'teəriən","k":"ubiquitarian"},{"h":"ubiquitarianism","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"thuyết Chúa ở khắp nơi."}],"ipa":"jubikwi'teəriənizm","k":"ubiquitarianism"},{"h":"ubiquitary","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"xem"},{"k":"ex","t":"ubiquitous","vi":"."}],"ipa":"jubikwitəri","k":"ubiquitary"},{"h":"ubiquitin","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"protein involved in cell processes: a heat-stable protein found in most cellular organisms eukaryotes that is involved in many cell processes such as DNA repair và removing metabolic wastes"}],"k":"ubiquitin"},{"h":"ubiquitous","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(đùa cợt) ở đâu cũng có, có mặt ở khắp nơi, tồn tại ở khắp nơi"},{"k":"m","t":"đồng thời ở khắp nơi, thường gặp (như)"},{"k":"m","t":"ubiquitary"},{"k":"ex","t":"ubiquitous traffic wardens","vi":"những người giữ trật tự giao thông có mặt khắp nơi."}],"ipa":"ju'bikwitəs","k":"ubiquitous"},{"h":"ubiquitously","segs":[{"k":"ref","t":"ubiquitous"}],"redirect":"ubiquitous","k":"ubiquitously"},{"h":"ubiquitousness","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"ubiquity","vi":"^dt. tính chất có mặt khắp nơi"},{"k":"m","t":"tính đồng thời có mặt ở nhiều nơi"},{"k":"m","t":"sự có mặt khắp nơi"},{"k":"m","t":"sự tồn tại khắp nơi (của Chúa)."}],"ipa":"ju'bikwitəsnis","k":"ubiquitousness"},{"h":"ubiquits","segs":[{"k":"m","t":"sinh vật phân bố rộng."}],"k":"ubiquits"},{"h":"ubiquity","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"ubiquitousness như ubiquitousness","vi":"."}],"ipa":"ju'bikwəti","k":"ubiquity"},{"h":"uboat","segs":[{"k":"ref","t":"như u-boat."}],"ipa":"ˈju:bəʊt","k":"uboat"},{"h":"UBS","segs":[{"k":"m","t":"(unit backspace character) ký tự phím lùi đơn vị."}],"k":"ubs"},{"h":"ubuntu","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"South Africa kindness: humanity, compassion, và goodness, regarded as fundamental to the way Africans approach life"}],"k":"ubuntu"}]
+[
+  {
+    "h": "UB40",
+    "segs": [
+      {
+        "k": "m",
+        "t": "vt 1. thẻ cấp cho người được trợ cấp thất nghiệp 2. th.tục người thất nghiệp"
+      }
+    ],
+    "k": "ub40"
+  },
+  {
+    "h": "Ubaidian",
+    "segs": [
+      {"k": "m", "t": "Tính từ"},
+      {
+        "k": "m",
+        "t": "relating to ancient Mesopotamian culture: relating to a prehistoric cultural period in Mesopotamia that existed from the 6th to the 4th millennia bc"
+      }
+    ],
+    "k": "ubaidian"
+  },
+  {
+    "h": "Ubangi",
+    "segs": [
+      {
+        "k": "m",
+        "t": "river in central Africa. The chief tributary of the Congo River, it is formed by the confluence of the Bomu và Uele rivers."
+      },
+      {"k": "m", "t": "Length: 1,130 km/700 mi"}
+    ],
+    "k": "ubangi"
+  },
+  {
+    "h": "Ubangi-Shari",
+    "segs": [{"k": "m", "t": "Former name for Central African Republicuntil 1958"}],
+    "k": "ubangi-shari"
+  },
+  {
+    "h": "ubbelohde drop point",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "điểm giọt ubbelohde"}],
+    "k": "ubbelohde drop point"
+  },
+  {
+    "h": "ubbelohde viscometer",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhớt kế ubbelohde"}],
+    "k": "ubbelohde viscometer"
+  },
+  {
+    "h": "uber-",
+    "segs": [
+      {"k": "m", "t": "prefix"},
+      {"k": "m", "t": "exceptional of his hoặc her kind (lóng)"},
+      {"k": "m", "t": "uberchef"},
+      {"k": "m", "t": "ubermodel"}
+    ],
+    "k": "uber-"
+  },
+  {
+    "h": "uberchef",
+    "segs": [
+      {"k": "m", "t": "(số nhiều uberchefs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "very talented chef: a chef who is considered to be outstandingly talented và successful (lóng)"
+      }
+    ],
+    "k": "uberchef"
+  },
+  {
+    "h": "ubergeek",
+    "segs": [
+      {"k": "m", "t": "(số nhiều ubergeeks)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "expert computer hacker: an expert và dedicated computer hacker (lóng)"}
+    ],
+    "k": "ubergeek"
+  },
+  {
+    "h": "ubermodel",
+    "segs": [
+      {"k": "m", "t": "(số nhiều ubermodels)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "very successful model: a fashion model who is regarded as being among the most successful và well-known in the industry (lóng)"
+      }
+    ],
+    "k": "ubermodel"
+  },
+  {"h": "uberous", "segs": [{"k": "m", "t": "Sinh sản nhiều, phong phú."}], "k": "uberous"},
+  {
+    "h": "uberrima fides",
+    "segs": [{"k": "m", "t": "sự trung thực tối đa, mức độ tin cậy tối đa."}],
+    "k": "uberrima fides"
+  },
+  {"h": "uberty", "segs": [{"k": "m", "t": "(sự) sinh sản nhiều."}], "k": "uberty"},
+  {
+    "h": "ubi supra",
+    "segs": [
+      {"k": "m", "t": "trạng từ"},
+      {"k": "m", "t": "where mentioned above: where mentioned above"}
+    ],
+    "k": "ubi supra"
+  },
+  {
+    "h": "ubiety",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "sự có ở một nơi nhất định"},
+      {"k": "m", "t": "tình trạng có ở một nơi nhất định."}
+    ],
+    "ipa": "ju:'baiəti",
+    "k": "ubiety"
+  },
+  {
+    "h": "ubiquinone",
+    "segs": [
+      {
+        "k": "m",
+        "t": "coenzyme, hoạt động như một tác nhân chuyên chở electron trong các ty lạp thể tế bào."
+      }
+    ],
+    "k": "ubiquinone"
+  },
+  {
+    "h": "ubiquitarian",
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thuộc) thuyết Chúa ở khắp nơi."}],
+    "ipa": "ju,bikwi'teəriən",
+    "k": "ubiquitarian"
+  },
+  {
+    "h": "ubiquitarianism",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thuyết Chúa ở khắp nơi."}],
+    "ipa": "jubikwi'teəriənizm",
+    "k": "ubiquitarianism"
+  },
+  {
+    "h": "ubiquitary",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "xem"},
+      {"k": "ex", "t": "ubiquitous", "vi": "."}
+    ],
+    "ipa": "jubikwitəri",
+    "k": "ubiquitary"
+  },
+  {
+    "h": "ubiquitin",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "protein involved in cell processes: a heat-stable protein found in most cellular organisms eukaryotes that is involved in many cell processes such as DNA repair và removing metabolic wastes"
+      }
+    ],
+    "k": "ubiquitin"
+  },
+  {
+    "h": "ubiquitous",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "(đùa cợt) ở đâu cũng có, có mặt ở khắp nơi, tồn tại ở khắp nơi"},
+      {"k": "m", "t": "đồng thời ở khắp nơi, thường gặp (như)"},
+      {"k": "m", "t": "ubiquitary"},
+      {
+        "k": "ex",
+        "t": "ubiquitous traffic wardens",
+        "vi": "những người giữ trật tự giao thông có mặt khắp nơi."
+      }
+    ],
+    "ipa": "ju'bikwitəs",
+    "k": "ubiquitous"
+  },
+  {
+    "h": "ubiquitously",
+    "segs": [{"k": "ref", "t": "ubiquitous"}],
+    "redirect": "ubiquitous",
+    "k": "ubiquitously"
+  },
+  {
+    "h": "ubiquitousness",
+    "segs": [
+      {"k": "m", "t": "Hoặc:"},
+      {"k": "ex", "t": "ubiquity", "vi": "^dt. tính chất có mặt khắp nơi"},
+      {"k": "m", "t": "tính đồng thời có mặt ở nhiều nơi"},
+      {"k": "m", "t": "sự có mặt khắp nơi"},
+      {"k": "m", "t": "sự tồn tại khắp nơi (của Chúa)."}
+    ],
+    "ipa": "ju'bikwitəsnis",
+    "k": "ubiquitousness"
+  },
+  {"h": "ubiquits", "segs": [{"k": "m", "t": "sinh vật phân bố rộng."}], "k": "ubiquits"},
+  {
+    "h": "ubiquity",
+    "segs": [
+      {"k": "m", "t": "Hoặc:"},
+      {"k": "ex", "t": "ubiquitousness như ubiquitousness", "vi": "."}
+    ],
+    "ipa": "ju'bikwəti",
+    "k": "ubiquity"
+  },
+  {"h": "uboat", "segs": [{"k": "ref", "t": "như u-boat."}], "ipa": "ˈju:bəʊt", "k": "uboat"},
+  {
+    "h": "UBS",
+    "segs": [{"k": "m", "t": "(unit backspace character) ký tự phím lùi đơn vị."}],
+    "k": "ubs"
+  },
+  {
+    "h": "ubuntu",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "South Africa kindness: humanity, compassion, và goodness, regarded as fundamental to the way Africans approach life"
+      }
+    ],
+    "k": "ubuntu"
+  }
+]

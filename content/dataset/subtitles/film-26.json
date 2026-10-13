@@ -1,1 +1,684 @@
-{"id":26,"code":"A 27","group":"A","n":27,"title":"A 27","first_line":"Hi. It's me again, Daniel. I'm shopping at a supermarket.","video":"A 27.avi","duration":846.7,"lines":[{"e":6.82,"en":"Hi. It's me again, Daniel. I'm shopping at a supermarket.","vi":"Chào. Lại là tôi đây, Daniel đây. Tôi đang mua sắm tại siêu thị.","s":0.0},{"e":9.16,"en":"I needed to buy some food.","vi":"Tôi cần mua một ít thức ăn.","s":6.82},{"e":18.84,"en":"I bought some tomatoes, some onions and a half kilo of apples.","vi":"Tôi đã mua một ít cà chua, vài củ hành và nửa ký táo.","s":9.16},{"e":24.1,"en":"When I go to the supermarket, I use a shopping list.","vi":"Khi đi siêu thị, tôi dùng bảng kê các thứ hàng cần mua.","s":18.84},{"e":28.02,"en":"I write down what I need to buy so I don't forget.","vi":"Tôi viết ra các thứ hàng tôi cần mua để không quên.","s":24.1},{"e":32.92,"en":"The amount of something you buy is called quantity.","vi":"Tổng số hàng bạn mua được gọi là số lượng.","s":28.02},{"e":36.19,"en":"Let's practice speaking about quantity.","vi":"Chúng ta hãy thực hành nói về số lượng.","s":32.92},{"e":44.98,"en":"...","vi":"...","s":36.19},{"e":51.05,"en":"Honey, I want you to go to the supermarket and get some things.","vi":"Anh yêu, em muốn anh đi siêu thị mua vài thứ.","s":44.98},{"e":53.38,"en":"What, right now?","vi":"Sao, ngay bây giờ à?","s":51.05},{"e":58.4,"en":"Yes. Now, write it down so you don't forget anything.","vi":"Phải. Bây giờ, anh hãy viết ra để không quên thứ nào cả.","s":53.38},{"e":63.3,"en":"Okay. What do you want?","vi":"Ðược rồi. Em muốn mua gì?","s":58.4},{"e":70.21,"en":"Get a couple of carrots, some tomatoes and a kilo of potatoes.","vi":"Hãy mua vài củ cà rốt, một ít cà chua và một ký khoai tây.","s":63.3},{"e":77.87,"en":"Fine. Is there anything else you want?","vi":"Xong. Em còn muốn mua gì nữa không?","s":70.21},{"e":83.57,"en":"Yes, get a quarter kilo of cheese.","vi":"Còn, mua 250 gam phô mai.","s":77.87},{"e":88.39,"en":"Okay, I'll get those things for you.","vi":"Ðược, anh sẽ mua những thứ đó cho em.","s":83.57},{"e":91.12,"en":"Do you have any money?","vi":"Em có tiền không?","s":88.39},{"e":92.91,"en":"Yes, here you are.","vi":"Có. Ðây này.","s":91.12},{"e":96.77,"en":"Oh, before I forget, do we have any milk?","vi":"Ồ, chút nữa thì em quên, chúng ta còn sữa không?","s":92.91},{"e":99.66,"en":"Yes, there's a little bit in the fridge.","vi":"Còn, còn một ít sữa trong tủ lạnh.","s":96.77},{"e":103.65,"en":"Okay. You may go now.","vi":"Ðược. Bây giờ anh có thể đi được rồi đó.","s":99.66},{"e":119.66,"en":"...","vi":"...","s":103.65},{"e":125.84,"en":"Excuse me. Where can I find the tomatoes?","vi":"Xin lỗi. Tôi có thể tìm cà chua ở đâu ạ?","s":119.66},{"e":129.48,"en":"Oh, they're over there.","vi":"Ồ, chúng ở đằng kia.","s":125.84},{"e":140.72,"en":"Oh, thanks. By the way, I also need carrots, green beans, peas and an onion.","vi":"Ồ, cám ơn. À này, tôi cần cần mua cà rốt, đậu trái, đậu Hà Lan và một cù hành.","s":129.48},{"e":144.06,"en":"They're all next to the tomatoes.","vi":"Tất cả những thứ đó đấy đều ở kế bên cà chua.","s":140.72},{"e":149.05,"en":"Thanks.","vi":"Cám ơn.","s":144.06},{"e":155.91,"en":"...","vi":"...","s":149.05},{"e":162.45,"en":"Hello, is there anything I can do for you?","vi":"Xin chào, tôi có thể giúp gì cho bà được không?","s":155.91},{"e":167.88,"en":"Yes, I need a carrot, an onion and a tomato.","vi":"Vâng, tôi cần mua một củ cà rốt, một củ hành và một trái cà chua.","s":162.45},{"e":177.66,"en":"...","vi":"...","s":167.88},{"e":180.33,"en":"Here you are. Anything else?","vi":"Ðây ạ. Còn gì khác nữa không?","s":177.66},{"e":185.43,"en":"Yes, I also need a cucumber and a head of lettuce.","vi":"Vâng, tôi cần cần mua một trái dưa leo và một búp xà lách.","s":180.33},{"e":187.85,"en":"I'll get those.","vi":"Tôi sẽ lấy những thứ đó cho bà.","s":185.43},{"e":194.88,"en":"...","vi":"...","s":187.85},{"e":197.12,"en":"So what else do we need?","vi":"Vậy chúng ta còn cần mua gì khác nữa không?","s":194.88},{"e":207.89,"en":"We need a kilo of green beans, 2 kilos of peas, several onions and many chilies.","vi":"Chúng ta còn cần mua một ký đậu trái, hai ký đậu Hà Lan, vài củ hành và nhiều trái ớt.","s":197.12},{"e":213.66,"en":"I know where we can get the peas, beans and onions but I'm not sure about the chilies.","vi":"Anh biết chúng ta có thể mua đậu Hà Lan, đậu trái và củ hành ở đâu nhưng anh không biết chỗ mua ớt.","s":207.89},{"e":216.65,"en":"That's OK. I'll get the chilies later.","vi":"Ðược rồi. Anh sẽ đi mua ớt sau.","s":213.66},{"e":219.42,"en":"How many chilies do you need exactly?","vi":"Chính xác là anh cần mua bao nhiêu trái ớt?","s":216.65},{"e":223.64,"en":"Ah, about 20 to 30.","vi":"À, khoảng 20 đến 30 trái.","s":219.42},{"e":226.19,"en":"Wow! That's going to be hot!","vi":"Chà! Như thế sẽ cay lắm đấy!","s":223.64},{"e":229.26,"en":"No, I'm not going to use them all.","vi":"Không, em sẽ không dùng hết số ớt đó đâu.","s":226.19},{"e":235.55,"en":"...","vi":"...","s":229.26},{"e":237.59,"en":"What can I get for you today?","vi":"Hôm nay anh muốn mua gì?","s":235.55},{"e":239.96,"en":"I need some milk.","vi":"Tôi cần mua một ít sữa.","s":237.59},{"e":241.76,"en":"How much milk do you need?","vi":"Anh cần bao nhiêu sữa?","s":239.96},{"e":245.69,"en":"Urn, I need about 2 liters.","vi":"Ưm, tôi cần khoảng 2 lít.","s":241.76},{"e":247.04,"en":"Anything else?","vi":"Còn gì khác nữa không?","s":245.69},{"e":252.15,"en":"Yes, I also want a half kilo of cheese.","vi":"Còn, tôi muốn mua nửa ký phô mai.","s":247.04},{"e":255.19,"en":"Okay. Anything else?","vi":"Ðược. Còn gì khác nữa không?","s":252.15},{"e":264.04,"en":"Yes, I also need a carton of yogurt and a kilo of strawberry ice-cream.","vi":"Còn, tôi cần cần mua một hộp sữa chua và một ký kem dâu.","s":255.19},{"e":267.58,"en":"I'll get those for you.","vi":"Tôi sẽ lấy những thứ đó cho anh.","s":264.04},{"e":275.96,"en":"...","vi":"...","s":267.58},{"e":279.3,"en":"Hello, Mr. Bradbery. What will it be today?","vi":"Xin chào ông Bradbery. Hôm nay ông sẽ muz gì đây?","s":275.96},{"e":287.03,"en":"Hi, Niel. Urn. Let's see. I need a loaf of French bread and a slice of pizza to go.","vi":"Chào Niel. Ưm. Ðể xem. Tôi nhân mua một ổ bánh mì Pháp và một miếng bánh pizza mang đi.","s":279.3},{"e":289.24,"en":"Do you need anything else?","vi":"Ông có cần mua gì khác nữa không?","s":287.03},{"e":294.29,"en":"My wife wants some roast beef and some cheese.","vi":"Vợ tôi muốn mua một ít thịt bò nướng và một ít phô mai.","s":289.24},{"e":298.07,"en":"We have many different kinds of cheese.","vi":"Chúng tôi có nhiều loại khác nhau.","s":294.29},{"e":299.83,"en":"What kind of cheese does she want?","vi":"Bà ấy muốn lấy loại nào?","s":298.07},{"e":302.33,"en":"She likes Swiss cheese.","vi":"Cô ấy thích phô mai Thụy Sỹ.","s":299.83},{"e":305.7,"en":"Fine. How much do you want?","vi":"Ðược rồi. Ông muốn mua bao nhiêu?","s":302.33},{"e":309.01,"en":"A lot. She said get about 4 kilograms.","vi":"Nhiều lắm. Cô ấy bảo mua khoảng 4 ký.","s":305.7},{"e":312.92,"en":"No problem. Does she want anything else?","vi":"Ðược. Bà ấy còn muốn mua gì khác nữa không?","s":309.01},{"e":319.83,"en":"A kilo of coleslaw, a half kilo of potato salad, and a third kilo of macaroni salad.","vi":"Một ký salad cải bắp, nửa ký salad khoai tây, và 1/3 ký salad mì ống.","s":312.92},{"e":324.26,"en":"Wait a minute, I'll get those for you.","vi":"Xin chờ một lát, tôi sẽ lấy những thứ đó cho ông.","s":319.83},{"e":333.76,"en":"...","vi":"...","s":324.26},{"e":337.65,"en":"I'm going to the supermarket to get some fruit for our picnic.","vi":"Em sẽ đi đến siêu thị mua một ít trái cây cho chuyến đi chơi ngoài trời của chúng ta.","s":333.76},{"e":338.91,"en":"What should I get?","vi":"Em nên mua gì đây?","s":337.65},{"e":349.48,"en":"Well, let's see. Get some apples, some oranges, pears and bananas.","vi":"Nào, để xem. Hãy mua vài trái táo, vài trái cam, lê và táo nhé.","s":338.91},{"e":354.8,"en":"OK, I'll do that. Anything else?","vi":"Ðược, em sẽ mua những thứ đó. Còn gì khác nữa không?","s":349.48},{"e":361.67,"en":"Um, yeah, you might want to get a watermelon or some cantaloupes if they have any.","vi":"Ừm, phải rồi, có lẽ em cần mua một trái dưa hấu hoặc vài trái dưa hoàng kim nếu họ có bán.","s":354.8},{"e":366.42,"en":"Do we need some grapes?","vi":"Chúng ta có cần mua một ít nho không?","s":361.67},{"e":369.32,"en":"Yeah, that's an excellent idea.","vi":"Cần, đó là ý kiến tuyệt vời.","s":366.42},{"e":373.09,"en":"Please get some grapes, maybe about a kilo?","vi":"Hãy mua một ít nho, có lẽ khoảng 1 ký lô nhé?","s":369.32},{"e":376.78,"en":"See you soon, bye.","vi":"Hẹn sớm gặp lại. Tạm biệt.","s":373.09},{"e":378.98,"en":"Bye.","vi":"Tạm biệt.","s":376.78},{"e":383.43,"en":"...","vi":"...","s":378.98},{"e":387.44,"en":"Let's make some seafood soup!","vi":"Chúng ta hãy nấu một ít súp hải sản nhé?","s":383.43},{"e":390.12,"en":"Do we have any clams or shrimp?","vi":"Chúng ta còn hàu hay tôm không?","s":387.44},{"e":394.26,"en":"Clams or shrimp?","vi":"Hàu hay tôm?","s":390.12},{"e":396.82,"en":"No, we don't have any.","vi":"Không, chúng ta không còn thứ nào cả.","s":394.26},{"e":399.88,"en":"We used it for seafood pizza yesterday.","vi":"Hôm qua chúng ta đã dùng nó để làm món bánh pizza hải sản rồi.","s":396.82},{"e":406.2,"en":"Oh, that's right. What about lobster or fish, do we have any?","vi":"Ồ, đúng rồi. Còn tôm hùm hay cá thì sao?","s":399.88},{"e":409.84,"en":"How much do you need?","vi":"Em cần bao nhiêu?","s":406.2},{"e":418.24,"en":"Well, let's see. I need about one kilo of lobster and 2 kilos of snapper.","vi":"À, để xem. Em cần khoảng 1 ký và 2 ký cá chỉ vàng.","s":409.84},{"e":422.2,"en":"Oh! We don't have any lobster or snapper.","vi":"Ôi! Chúng ta không còn tôm hùm hay cá chỉ vàng nào cả.","s":418.24},{"e":426.39,"en":"Let's have a BBQ instead.","vi":"Thay vì vậy chúng ta đi chơi ngoài trời ăn món nướng nhé?","s":422.2},{"e":431.83,"en":"Nope, we don't have any steaks.","vi":"Không được, chúng ta không có thịt bò nướng.","s":426.39},{"e":435.27,"en":"What about hotdogs?","vi":"Còn xúc xích thì sao?","s":431.83},{"e":438.44,"en":"Sure, we have lots of hotdogs.","vi":"Ðược đấy, chúng ta có nhiều xúc xích.","s":435.27},{"e":441.77,"en":"Oh, good! I love hotdogs!","vi":"Ồ, tốt! Em rất thích xúc xích.","s":438.44},{"e":445.5,"en":"...","vi":"...","s":441.77},{"e":448.68,"en":"Vegetables","vi":"Rau củ","s":445.5},{"e":452.79,"en":"Carrot","vi":"Cà rốt","s":448.68},{"e":456.22,"en":"Tomato","vi":"Cà chua","s":452.79},{"e":460.02,"en":"Cucumber","vi":"Dưa leo","s":456.22},{"e":464.06,"en":"Green Beans","vi":"Ðậu trái","s":460.02},{"e":467.61,"en":"Onion","vi":"Củ hành","s":464.06},{"e":471.4,"en":"Lettuce","vi":"Xà lách","s":467.61},{"e":475.47,"en":"Chili","vi":"Ớt","s":471.4},{"e":479.5,"en":"Asparagus","vi":"Măng tây","s":475.47},{"e":482.99,"en":"Peas","vi":"Ðậu hạt, đậu Hà Lan","s":479.5},{"e":489.34,"en":"Fruits","vi":"Trái cây","s":482.99},{"e":493.53,"en":"Apple","vi":"Táo","s":489.34},{"e":497.29,"en":"Orange","vi":"Cam","s":493.53},{"e":501.29,"en":"Pear","vi":"Lê","s":497.29},{"e":504.22,"en":"Banana","vi":"Chuối","s":501.29},{"e":507.98,"en":"Watermelon","vi":"Dưa hấu","s":504.22},{"e":511.28,"en":"Cantaloupe","vi":"Dưa hoàng kim","s":507.98},{"e":515.07,"en":"Grapes","vi":"Nho","s":511.28},{"e":521.76,"en":"Dairy Products","vi":"Sản phẩm từ sữa","s":515.07},{"e":526.19,"en":"Milk","vi":"Sữa","s":521.76},{"e":530.07,"en":"Cheese","vi":"Phô mai","s":526.19},{"e":533.28,"en":"Butter","vi":"Bơ","s":530.07},{"e":536.74,"en":"Yogurt","vi":"Sữa chua","s":533.28},{"e":540.13,"en":"Ice-cream","vi":"Kem","s":536.74},{"e":547.61,"en":"Meat, Fish and Poultry","vi":"Thịt, cá và gia cầm","s":540.13},{"e":551.74,"en":"Shrimp","vi":"Tôm sú","s":547.61},{"e":554.89,"en":"Lobster","vi":"Tôm hùm","s":551.74},{"e":558.12,"en":"Tuna","vi":"Cá ngừ","s":554.89},{"e":561.2,"en":"Fish","vi":"Cá","s":558.12},{"e":564.55,"en":"Clam","vi":"Hàu","s":561.2},{"e":567.8,"en":"Steak","vi":"Thịt bò nướng","s":564.55},{"e":570.8,"en":"Chicken","vi":"Thịt gà","s":567.8},{"e":573.53,"en":"Pork","vi":"Thịt heo","s":570.8},{"e":579.41,"en":"Asking about price","vi":"Hỏi giá cả","s":573.53},{"e":583.62,"en":"How much does this cost?","vi":"Cái này giá bao nhiêu?","s":579.41},{"e":587.77,"en":"How much is this?","vi":"Cái này giá bao nhiêu?","s":583.62},{"e":593.4,"en":"How much is this (can of fruit)?","vi":"Hộp trái cây này giá bao nhiêu?","s":587.77},{"e":599.55,"en":"How much does this (watermelon) cost?","vi":"Trái dưa hấu này giá bao nhiêu?","s":593.4},{"e":604.64,"en":"What are they going for?","vi":"Chúng giá bao nhiêu?","s":599.55},{"e":611.21,"en":"...","vi":"...","s":604.64},{"e":618.57,"en":"Hey, this is cool! Now we can order food from the supermarket over the internet.","vi":"Này, cái này hay nhỉ! Bây giờ chúng ta có thể đặt mua thức ăn ở siêu thị qua mạng đấy.","s":611.21},{"e":620.3,"en":"Really? Wow.","vi":"Thật vậy sao? Chà.","s":618.57},{"e":623.58,"en":"Let's try this. What do you want?","vi":"Chúng ta hãy thử xem. Anh muốn mua gì?","s":620.3},{"e":626.69,"en":"How about a loaf of bread?","vi":"Một ổ bánh mì nhé?","s":623.58},{"e":631.33,"en":"Okay. Do we have any milk or cheese here?","vi":"Ðược. Ở đây chúng ta có còn sữa hay phô mai không?","s":626.69},{"e":633.01,"en":"No. We don't have any.","vi":"Không. Chúng ta không còn gì cả.","s":631.33},{"e":638.17,"en":"Okay. I'll order a liter of milk and a half kilo of cheese.","vi":"Ðược rồi. Em sẽ đặt mua một lít sữa và nửa ký phô mai.","s":633.01},{"e":640.99,"en":"I also want a container of coleslaw.","vi":"Anh cần muốn mua một hộp salad cải bắp.","s":638.17},{"e":646.36,"en":"Okay. Let's see... press enter to send.","vi":"Ðồng ý. Ðể xem... ấn vào nút \"enter\" để gửi.","s":640.99},{"e":670.34,"en":"...","vi":"...","s":646.36},{"e":676.34,"en":"Wow, that was fast. I know.","vi":"Chà, thế thì nhanh thật. Anh biết mà.","s":670.34},{"e":680.71,"en":"What can I get for you today, George?","vi":"Hôm nay anh muốn mua gì, George?","s":676.34},{"e":684.78,"en":"I'd like some fruit. I'm making a fruit salad.","vi":"Tôi muốn mua một ít trái cây. Tôi định làm món salad trái cây.","s":680.71},{"e":686.82,"en":"What kind of fruit would you like?","vi":"Anh muốn mua loại trái cây nào?","s":684.78},{"e":692.38,"en":"Can you give me a kilo of grapes and 2 kilos of oranges?","vi":"Anh lấy cho tôi 1 ký nho và 2 ký cam nhé?","s":686.82},{"e":695.26,"en":"Sure. Can I get you anything else?","vi":"Ðược. Anh có muốn mua gì nữa không?","s":692.38},{"e":697.5,"en":"We have some apples on sale today.","vi":"Hôm nay chúng ta có bán táo hạ giá.","s":695.26},{"e":700.31,"en":"No, I don't want any apples, thank you.","vi":"Không, tôi không cần táo, cám ơn.","s":697.5},{"e":702.17,"en":"I think this will be all for today.","vi":"Tôi nghĩ hôm nay như thế này là đủ rồi.","s":700.31},{"e":707.96,"en":"OK.","vi":"Vâng.","s":702.17},{"e":714.42,"en":"...","vi":"...","s":707.96},{"e":718.46,"en":"Could I have some carrots and green beans, please?","vi":"Xin vui lòng bán cho tôi vài củ cà rốt và đậu trái nhé?","s":714.42},{"e":720.78,"en":"Sure. How much of each?","vi":"Vâng. Mỗi thứ bao nhiêu ạ?","s":718.46},{"e":723.5,"en":"A half kilo of each.","vi":"Mỗi thứ nửa ký.","s":720.78},{"e":730.96,"en":"Okay. Do you want any peas?","vi":"Ðược ạ. Bà có muốn mua đậu Hà Lan không?","s":723.5},{"e":733.23,"en":"No, thanks.","vi":"Không. Cám ơn.","s":730.96},{"e":737.75,"en":"We have onions. They're on sale for half price.","vi":"Chúng tôi có bán củ hành. Chúng đang được bán giảm nửa giá đấy.","s":733.23},{"e":743.61,"en":"Hmm... that sounds good. I'll take a kilo of onions.","vi":"Ưm... nghe có vẻ được đấy. Cho tôi một ký củ hành đi.","s":737.75},{"e":755.33,"en":"...","vi":"...","s":743.61},{"e":758.27,"en":"Here you are. Have a great day.","vi":"Ðây ạ. Chúc một ngày tốt lành.","s":755.33},{"e":759.5,"en":"How much is that?","vi":"Như vậy là bao nhiêu?","s":758.27},{"e":765.86,"en":"Oh! $5.12. Let's call it $5.","vi":"Ồ! 5 đôla 12 xu. Thôi tính 5 đôla vậy.","s":759.5},{"e":769.69,"en":"Thanks.","vi":"Cám ơn.","s":765.86},{"e":775.93,"en":"...","vi":"...","s":769.69},{"e":780.49,"en":"In this lesson, we are going to do some more shopping. Alright!","vi":"Trong bài này, chúng ta sẽ đi mua sắm thêm vài thứ nữa. Ðược rồi!","s":775.93},{"e":785.07,"en":"We will compare prices and features, sizes and colors","vi":"Chúng ta sẽ so sánh giá cả và đặc điểm, kích cỡ và màu sắc","s":780.49},{"e":788.89,"en":"in order to find the things that are perfect for us.","vi":"để tìm những thứ thích hợp cho chúng ta nhất.","s":785.07},{"e":812.16,"en":"...","vi":"...","s":788.89},{"e":813.3,"en":"How are you?","vi":"Anh có khỏe không?","s":812.16},{"e":816.06,"en":"I'm fine. What's on sale today?","vi":"Tôi khỏe. Hôm nay bán giảm giá cái gì vậy?","s":813.3},{"e":819.88,"en":"Today we have men's pants on sale for only $24.99.","vi":"Hôm nay chúng ta bán giảm giá quần tây nam chỉ còn 24 đôla 99 xu.","s":816.06},{"e":824.49,"en":"Wow, that's a great bargain. Are these them?","vi":"Chà, giá hời quá. Những cái quần này phải không?","s":819.88},{"e":825.35,"en":"Yes.","vi":"Dạ phải.","s":824.49},{"e":831.68,"en":"Do you have anything in a smaller size?","vi":"Cô có cái nào cỡ nhỏ hơn không?","s":825.35},{"e":832.89,"en":"This is too big.","vi":"Cái này lớn quá.","s":831.68},{"e":835.13,"en":"Yeah. We have some here.","vi":"Dạ có. Ở đây chúng tôi có vài cái.","s":832.89},{"e":841.17,"en":"Right, and do you have anything more casual than these?","vi":"Ðược rồi, và cô có cái nào xoàng hơn những cái này không?","s":835.13},{"e":844.03,"en":"I'm sure we do. Let me go check in the back.","vi":"Chắc chắn là chúng tôi có. Ðể tôi ra sau xem nhé.","s":841.17},{"e":846.74,"en":"OK.","vi":"Ðược.","s":844.03}]}
+{
+  "id": 26,
+  "code": "A 27",
+  "group": "A",
+  "n": 27,
+  "title": "A 27",
+  "first_line": "Hi. It's me again, Daniel. I'm shopping at a supermarket.",
+  "video": "A 27.avi",
+  "duration": 846.7,
+  "lines": [
+    {
+      "e": 6.82,
+      "en": "Hi. It's me again, Daniel. I'm shopping at a supermarket.",
+      "vi": "Chào. Lại là tôi đây, Daniel đây. Tôi đang mua sắm tại siêu thị.",
+      "s": 0.0
+    },
+    {"e": 9.16, "en": "I needed to buy some food.", "vi": "Tôi cần mua một ít thức ăn.", "s": 6.82},
+    {
+      "e": 18.84,
+      "en": "I bought some tomatoes, some onions and a half kilo of apples.",
+      "vi": "Tôi đã mua một ít cà chua, vài củ hành và nửa ký táo.",
+      "s": 9.16
+    },
+    {
+      "e": 24.1,
+      "en": "When I go to the supermarket, I use a shopping list.",
+      "vi": "Khi đi siêu thị, tôi dùng bảng kê các thứ hàng cần mua.",
+      "s": 18.84
+    },
+    {
+      "e": 28.02,
+      "en": "I write down what I need to buy so I don't forget.",
+      "vi": "Tôi viết ra các thứ hàng tôi cần mua để không quên.",
+      "s": 24.1
+    },
+    {
+      "e": 32.92,
+      "en": "The amount of something you buy is called quantity.",
+      "vi": "Tổng số hàng bạn mua được gọi là số lượng.",
+      "s": 28.02
+    },
+    {
+      "e": 36.19,
+      "en": "Let's practice speaking about quantity.",
+      "vi": "Chúng ta hãy thực hành nói về số lượng.",
+      "s": 32.92
+    },
+    {"e": 44.98, "en": "...", "vi": "...", "s": 36.19},
+    {
+      "e": 51.05,
+      "en": "Honey, I want you to go to the supermarket and get some things.",
+      "vi": "Anh yêu, em muốn anh đi siêu thị mua vài thứ.",
+      "s": 44.98
+    },
+    {"e": 53.38, "en": "What, right now?", "vi": "Sao, ngay bây giờ à?", "s": 51.05},
+    {
+      "e": 58.4,
+      "en": "Yes. Now, write it down so you don't forget anything.",
+      "vi": "Phải. Bây giờ, anh hãy viết ra để không quên thứ nào cả.",
+      "s": 53.38
+    },
+    {"e": 63.3, "en": "Okay. What do you want?", "vi": "Ðược rồi. Em muốn mua gì?", "s": 58.4},
+    {
+      "e": 70.21,
+      "en": "Get a couple of carrots, some tomatoes and a kilo of potatoes.",
+      "vi": "Hãy mua vài củ cà rốt, một ít cà chua và một ký khoai tây.",
+      "s": 63.3
+    },
+    {
+      "e": 77.87,
+      "en": "Fine. Is there anything else you want?",
+      "vi": "Xong. Em còn muốn mua gì nữa không?",
+      "s": 70.21
+    },
+    {
+      "e": 83.57,
+      "en": "Yes, get a quarter kilo of cheese.",
+      "vi": "Còn, mua 250 gam phô mai.",
+      "s": 77.87
+    },
+    {
+      "e": 88.39,
+      "en": "Okay, I'll get those things for you.",
+      "vi": "Ðược, anh sẽ mua những thứ đó cho em.",
+      "s": 83.57
+    },
+    {"e": 91.12, "en": "Do you have any money?", "vi": "Em có tiền không?", "s": 88.39},
+    {"e": 92.91, "en": "Yes, here you are.", "vi": "Có. Ðây này.", "s": 91.12},
+    {
+      "e": 96.77,
+      "en": "Oh, before I forget, do we have any milk?",
+      "vi": "Ồ, chút nữa thì em quên, chúng ta còn sữa không?",
+      "s": 92.91
+    },
+    {
+      "e": 99.66,
+      "en": "Yes, there's a little bit in the fridge.",
+      "vi": "Còn, còn một ít sữa trong tủ lạnh.",
+      "s": 96.77
+    },
+    {
+      "e": 103.65,
+      "en": "Okay. You may go now.",
+      "vi": "Ðược. Bây giờ anh có thể đi được rồi đó.",
+      "s": 99.66
+    },
+    {"e": 119.66, "en": "...", "vi": "...", "s": 103.65},
+    {
+      "e": 125.84,
+      "en": "Excuse me. Where can I find the tomatoes?",
+      "vi": "Xin lỗi. Tôi có thể tìm cà chua ở đâu ạ?",
+      "s": 119.66
+    },
+    {"e": 129.48, "en": "Oh, they're over there.", "vi": "Ồ, chúng ở đằng kia.", "s": 125.84},
+    {
+      "e": 140.72,
+      "en": "Oh, thanks. By the way, I also need carrots, green beans, peas and an onion.",
+      "vi": "Ồ, cám ơn. À này, tôi cần cần mua cà rốt, đậu trái, đậu Hà Lan và một cù hành.",
+      "s": 129.48
+    },
+    {
+      "e": 144.06,
+      "en": "They're all next to the tomatoes.",
+      "vi": "Tất cả những thứ đó đấy đều ở kế bên cà chua.",
+      "s": 140.72
+    },
+    {"e": 149.05, "en": "Thanks.", "vi": "Cám ơn.", "s": 144.06},
+    {"e": 155.91, "en": "...", "vi": "...", "s": 149.05},
+    {
+      "e": 162.45,
+      "en": "Hello, is there anything I can do for you?",
+      "vi": "Xin chào, tôi có thể giúp gì cho bà được không?",
+      "s": 155.91
+    },
+    {
+      "e": 167.88,
+      "en": "Yes, I need a carrot, an onion and a tomato.",
+      "vi": "Vâng, tôi cần mua một củ cà rốt, một củ hành và một trái cà chua.",
+      "s": 162.45
+    },
+    {"e": 177.66, "en": "...", "vi": "...", "s": 167.88},
+    {
+      "e": 180.33,
+      "en": "Here you are. Anything else?",
+      "vi": "Ðây ạ. Còn gì khác nữa không?",
+      "s": 177.66
+    },
+    {
+      "e": 185.43,
+      "en": "Yes, I also need a cucumber and a head of lettuce.",
+      "vi": "Vâng, tôi cần cần mua một trái dưa leo và một búp xà lách.",
+      "s": 180.33
+    },
+    {"e": 187.85, "en": "I'll get those.", "vi": "Tôi sẽ lấy những thứ đó cho bà.", "s": 185.43},
+    {"e": 194.88, "en": "...", "vi": "...", "s": 187.85},
+    {
+      "e": 197.12,
+      "en": "So what else do we need?",
+      "vi": "Vậy chúng ta còn cần mua gì khác nữa không?",
+      "s": 194.88
+    },
+    {
+      "e": 207.89,
+      "en": "We need a kilo of green beans, 2 kilos of peas, several onions and many chilies.",
+      "vi": "Chúng ta còn cần mua một ký đậu trái, hai ký đậu Hà Lan, vài củ hành và nhiều trái ớt.",
+      "s": 197.12
+    },
+    {
+      "e": 213.66,
+      "en": "I know where we can get the peas, beans and onions but I'm not sure about the chilies.",
+      "vi": "Anh biết chúng ta có thể mua đậu Hà Lan, đậu trái và củ hành ở đâu nhưng anh không biết chỗ mua ớt.",
+      "s": 207.89
+    },
+    {
+      "e": 216.65,
+      "en": "That's OK. I'll get the chilies later.",
+      "vi": "Ðược rồi. Anh sẽ đi mua ớt sau.",
+      "s": 213.66
+    },
+    {
+      "e": 219.42,
+      "en": "How many chilies do you need exactly?",
+      "vi": "Chính xác là anh cần mua bao nhiêu trái ớt?",
+      "s": 216.65
+    },
+    {"e": 223.64, "en": "Ah, about 20 to 30.", "vi": "À, khoảng 20 đến 30 trái.", "s": 219.42},
+    {
+      "e": 226.19,
+      "en": "Wow! That's going to be hot!",
+      "vi": "Chà! Như thế sẽ cay lắm đấy!",
+      "s": 223.64
+    },
+    {
+      "e": 229.26,
+      "en": "No, I'm not going to use them all.",
+      "vi": "Không, em sẽ không dùng hết số ớt đó đâu.",
+      "s": 226.19
+    },
+    {"e": 235.55, "en": "...", "vi": "...", "s": 229.26},
+    {
+      "e": 237.59,
+      "en": "What can I get for you today?",
+      "vi": "Hôm nay anh muốn mua gì?",
+      "s": 235.55
+    },
+    {"e": 239.96, "en": "I need some milk.", "vi": "Tôi cần mua một ít sữa.", "s": 237.59},
+    {"e": 241.76, "en": "How much milk do you need?", "vi": "Anh cần bao nhiêu sữa?", "s": 239.96},
+    {
+      "e": 245.69,
+      "en": "Urn, I need about 2 liters.",
+      "vi": "Ưm, tôi cần khoảng 2 lít.",
+      "s": 241.76
+    },
+    {"e": 247.04, "en": "Anything else?", "vi": "Còn gì khác nữa không?", "s": 245.69},
+    {
+      "e": 252.15,
+      "en": "Yes, I also want a half kilo of cheese.",
+      "vi": "Còn, tôi muốn mua nửa ký phô mai.",
+      "s": 247.04
+    },
+    {"e": 255.19, "en": "Okay. Anything else?", "vi": "Ðược. Còn gì khác nữa không?", "s": 252.15},
+    {
+      "e": 264.04,
+      "en": "Yes, I also need a carton of yogurt and a kilo of strawberry ice-cream.",
+      "vi": "Còn, tôi cần cần mua một hộp sữa chua và một ký kem dâu.",
+      "s": 255.19
+    },
+    {
+      "e": 267.58,
+      "en": "I'll get those for you.",
+      "vi": "Tôi sẽ lấy những thứ đó cho anh.",
+      "s": 264.04
+    },
+    {"e": 275.96, "en": "...", "vi": "...", "s": 267.58},
+    {
+      "e": 279.3,
+      "en": "Hello, Mr. Bradbery. What will it be today?",
+      "vi": "Xin chào ông Bradbery. Hôm nay ông sẽ muz gì đây?",
+      "s": 275.96
+    },
+    {
+      "e": 287.03,
+      "en": "Hi, Niel. Urn. Let's see. I need a loaf of French bread and a slice of pizza to go.",
+      "vi": "Chào Niel. Ưm. Ðể xem. Tôi nhân mua một ổ bánh mì Pháp và một miếng bánh pizza mang đi.",
+      "s": 279.3
+    },
+    {
+      "e": 289.24,
+      "en": "Do you need anything else?",
+      "vi": "Ông có cần mua gì khác nữa không?",
+      "s": 287.03
+    },
+    {
+      "e": 294.29,
+      "en": "My wife wants some roast beef and some cheese.",
+      "vi": "Vợ tôi muốn mua một ít thịt bò nướng và một ít phô mai.",
+      "s": 289.24
+    },
+    {
+      "e": 298.07,
+      "en": "We have many different kinds of cheese.",
+      "vi": "Chúng tôi có nhiều loại khác nhau.",
+      "s": 294.29
+    },
+    {
+      "e": 299.83,
+      "en": "What kind of cheese does she want?",
+      "vi": "Bà ấy muốn lấy loại nào?",
+      "s": 298.07
+    },
+    {
+      "e": 302.33,
+      "en": "She likes Swiss cheese.",
+      "vi": "Cô ấy thích phô mai Thụy Sỹ.",
+      "s": 299.83
+    },
+    {
+      "e": 305.7,
+      "en": "Fine. How much do you want?",
+      "vi": "Ðược rồi. Ông muốn mua bao nhiêu?",
+      "s": 302.33
+    },
+    {
+      "e": 309.01,
+      "en": "A lot. She said get about 4 kilograms.",
+      "vi": "Nhiều lắm. Cô ấy bảo mua khoảng 4 ký.",
+      "s": 305.7
+    },
+    {
+      "e": 312.92,
+      "en": "No problem. Does she want anything else?",
+      "vi": "Ðược. Bà ấy còn muốn mua gì khác nữa không?",
+      "s": 309.01
+    },
+    {
+      "e": 319.83,
+      "en": "A kilo of coleslaw, a half kilo of potato salad, and a third kilo of macaroni salad.",
+      "vi": "Một ký salad cải bắp, nửa ký salad khoai tây, và 1/3 ký salad mì ống.",
+      "s": 312.92
+    },
+    {
+      "e": 324.26,
+      "en": "Wait a minute, I'll get those for you.",
+      "vi": "Xin chờ một lát, tôi sẽ lấy những thứ đó cho ông.",
+      "s": 319.83
+    },
+    {"e": 333.76, "en": "...", "vi": "...", "s": 324.26},
+    {
+      "e": 337.65,
+      "en": "I'm going to the supermarket to get some fruit for our picnic.",
+      "vi": "Em sẽ đi đến siêu thị mua một ít trái cây cho chuyến đi chơi ngoài trời của chúng ta.",
+      "s": 333.76
+    },
+    {"e": 338.91, "en": "What should I get?", "vi": "Em nên mua gì đây?", "s": 337.65},
+    {
+      "e": 349.48,
+      "en": "Well, let's see. Get some apples, some oranges, pears and bananas.",
+      "vi": "Nào, để xem. Hãy mua vài trái táo, vài trái cam, lê và táo nhé.",
+      "s": 338.91
+    },
+    {
+      "e": 354.8,
+      "en": "OK, I'll do that. Anything else?",
+      "vi": "Ðược, em sẽ mua những thứ đó. Còn gì khác nữa không?",
+      "s": 349.48
+    },
+    {
+      "e": 361.67,
+      "en": "Um, yeah, you might want to get a watermelon or some cantaloupes if they have any.",
+      "vi": "Ừm, phải rồi, có lẽ em cần mua một trái dưa hấu hoặc vài trái dưa hoàng kim nếu họ có bán.",
+      "s": 354.8
+    },
+    {
+      "e": 366.42,
+      "en": "Do we need some grapes?",
+      "vi": "Chúng ta có cần mua một ít nho không?",
+      "s": 361.67
+    },
+    {
+      "e": 369.32,
+      "en": "Yeah, that's an excellent idea.",
+      "vi": "Cần, đó là ý kiến tuyệt vời.",
+      "s": 366.42
+    },
+    {
+      "e": 373.09,
+      "en": "Please get some grapes, maybe about a kilo?",
+      "vi": "Hãy mua một ít nho, có lẽ khoảng 1 ký lô nhé?",
+      "s": 369.32
+    },
+    {"e": 376.78, "en": "See you soon, bye.", "vi": "Hẹn sớm gặp lại. Tạm biệt.", "s": 373.09},
+    {"e": 378.98, "en": "Bye.", "vi": "Tạm biệt.", "s": 376.78},
+    {"e": 383.43, "en": "...", "vi": "...", "s": 378.98},
+    {
+      "e": 387.44,
+      "en": "Let's make some seafood soup!",
+      "vi": "Chúng ta hãy nấu một ít súp hải sản nhé?",
+      "s": 383.43
+    },
+    {
+      "e": 390.12,
+      "en": "Do we have any clams or shrimp?",
+      "vi": "Chúng ta còn hàu hay tôm không?",
+      "s": 387.44
+    },
+    {"e": 394.26, "en": "Clams or shrimp?", "vi": "Hàu hay tôm?", "s": 390.12},
+    {
+      "e": 396.82,
+      "en": "No, we don't have any.",
+      "vi": "Không, chúng ta không còn thứ nào cả.",
+      "s": 394.26
+    },
+    {
+      "e": 399.88,
+      "en": "We used it for seafood pizza yesterday.",
+      "vi": "Hôm qua chúng ta đã dùng nó để làm món bánh pizza hải sản rồi.",
+      "s": 396.82
+    },
+    {
+      "e": 406.2,
+      "en": "Oh, that's right. What about lobster or fish, do we have any?",
+      "vi": "Ồ, đúng rồi. Còn tôm hùm hay cá thì sao?",
+      "s": 399.88
+    },
+    {"e": 409.84, "en": "How much do you need?", "vi": "Em cần bao nhiêu?", "s": 406.2},
+    {
+      "e": 418.24,
+      "en": "Well, let's see. I need about one kilo of lobster and 2 kilos of snapper.",
+      "vi": "À, để xem. Em cần khoảng 1 ký và 2 ký cá chỉ vàng.",
+      "s": 409.84
+    },
+    {
+      "e": 422.2,
+      "en": "Oh! We don't have any lobster or snapper.",
+      "vi": "Ôi! Chúng ta không còn tôm hùm hay cá chỉ vàng nào cả.",
+      "s": 418.24
+    },
+    {
+      "e": 426.39,
+      "en": "Let's have a BBQ instead.",
+      "vi": "Thay vì vậy chúng ta đi chơi ngoài trời ăn món nướng nhé?",
+      "s": 422.2
+    },
+    {
+      "e": 431.83,
+      "en": "Nope, we don't have any steaks.",
+      "vi": "Không được, chúng ta không có thịt bò nướng.",
+      "s": 426.39
+    },
+    {"e": 435.27, "en": "What about hotdogs?", "vi": "Còn xúc xích thì sao?", "s": 431.83},
+    {
+      "e": 438.44,
+      "en": "Sure, we have lots of hotdogs.",
+      "vi": "Ðược đấy, chúng ta có nhiều xúc xích.",
+      "s": 435.27
+    },
+    {
+      "e": 441.77,
+      "en": "Oh, good! I love hotdogs!",
+      "vi": "Ồ, tốt! Em rất thích xúc xích.",
+      "s": 438.44
+    },
+    {"e": 445.5, "en": "...", "vi": "...", "s": 441.77},
+    {"e": 448.68, "en": "Vegetables", "vi": "Rau củ", "s": 445.5},
+    {"e": 452.79, "en": "Carrot", "vi": "Cà rốt", "s": 448.68},
+    {"e": 456.22, "en": "Tomato", "vi": "Cà chua", "s": 452.79},
+    {"e": 460.02, "en": "Cucumber", "vi": "Dưa leo", "s": 456.22},
+    {"e": 464.06, "en": "Green Beans", "vi": "Ðậu trái", "s": 460.02},
+    {"e": 467.61, "en": "Onion", "vi": "Củ hành", "s": 464.06},
+    {"e": 471.4, "en": "Lettuce", "vi": "Xà lách", "s": 467.61},
+    {"e": 475.47, "en": "Chili", "vi": "Ớt", "s": 471.4},
+    {"e": 479.5, "en": "Asparagus", "vi": "Măng tây", "s": 475.47},
+    {"e": 482.99, "en": "Peas", "vi": "Ðậu hạt, đậu Hà Lan", "s": 479.5},
+    {"e": 489.34, "en": "Fruits", "vi": "Trái cây", "s": 482.99},
+    {"e": 493.53, "en": "Apple", "vi": "Táo", "s": 489.34},
+    {"e": 497.29, "en": "Orange", "vi": "Cam", "s": 493.53},
+    {"e": 501.29, "en": "Pear", "vi": "Lê", "s": 497.29},
+    {"e": 504.22, "en": "Banana", "vi": "Chuối", "s": 501.29},
+    {"e": 507.98, "en": "Watermelon", "vi": "Dưa hấu", "s": 504.22},
+    {"e": 511.28, "en": "Cantaloupe", "vi": "Dưa hoàng kim", "s": 507.98},
+    {"e": 515.07, "en": "Grapes", "vi": "Nho", "s": 511.28},
+    {"e": 521.76, "en": "Dairy Products", "vi": "Sản phẩm từ sữa", "s": 515.07},
+    {"e": 526.19, "en": "Milk", "vi": "Sữa", "s": 521.76},
+    {"e": 530.07, "en": "Cheese", "vi": "Phô mai", "s": 526.19},
+    {"e": 533.28, "en": "Butter", "vi": "Bơ", "s": 530.07},
+    {"e": 536.74, "en": "Yogurt", "vi": "Sữa chua", "s": 533.28},
+    {"e": 540.13, "en": "Ice-cream", "vi": "Kem", "s": 536.74},
+    {"e": 547.61, "en": "Meat, Fish and Poultry", "vi": "Thịt, cá và gia cầm", "s": 540.13},
+    {"e": 551.74, "en": "Shrimp", "vi": "Tôm sú", "s": 547.61},
+    {"e": 554.89, "en": "Lobster", "vi": "Tôm hùm", "s": 551.74},
+    {"e": 558.12, "en": "Tuna", "vi": "Cá ngừ", "s": 554.89},
+    {"e": 561.2, "en": "Fish", "vi": "Cá", "s": 558.12},
+    {"e": 564.55, "en": "Clam", "vi": "Hàu", "s": 561.2},
+    {"e": 567.8, "en": "Steak", "vi": "Thịt bò nướng", "s": 564.55},
+    {"e": 570.8, "en": "Chicken", "vi": "Thịt gà", "s": 567.8},
+    {"e": 573.53, "en": "Pork", "vi": "Thịt heo", "s": 570.8},
+    {"e": 579.41, "en": "Asking about price", "vi": "Hỏi giá cả", "s": 573.53},
+    {"e": 583.62, "en": "How much does this cost?", "vi": "Cái này giá bao nhiêu?", "s": 579.41},
+    {"e": 587.77, "en": "How much is this?", "vi": "Cái này giá bao nhiêu?", "s": 583.62},
+    {
+      "e": 593.4,
+      "en": "How much is this (can of fruit)?",
+      "vi": "Hộp trái cây này giá bao nhiêu?",
+      "s": 587.77
+    },
+    {
+      "e": 599.55,
+      "en": "How much does this (watermelon) cost?",
+      "vi": "Trái dưa hấu này giá bao nhiêu?",
+      "s": 593.4
+    },
+    {"e": 604.64, "en": "What are they going for?", "vi": "Chúng giá bao nhiêu?", "s": 599.55},
+    {"e": 611.21, "en": "...", "vi": "...", "s": 604.64},
+    {
+      "e": 618.57,
+      "en": "Hey, this is cool! Now we can order food from the supermarket over the internet.",
+      "vi": "Này, cái này hay nhỉ! Bây giờ chúng ta có thể đặt mua thức ăn ở siêu thị qua mạng đấy.",
+      "s": 611.21
+    },
+    {"e": 620.3, "en": "Really? Wow.", "vi": "Thật vậy sao? Chà.", "s": 618.57},
+    {
+      "e": 623.58,
+      "en": "Let's try this. What do you want?",
+      "vi": "Chúng ta hãy thử xem. Anh muốn mua gì?",
+      "s": 620.3
+    },
+    {"e": 626.69, "en": "How about a loaf of bread?", "vi": "Một ổ bánh mì nhé?", "s": 623.58},
+    {
+      "e": 631.33,
+      "en": "Okay. Do we have any milk or cheese here?",
+      "vi": "Ðược. Ở đây chúng ta có còn sữa hay phô mai không?",
+      "s": 626.69
+    },
+    {
+      "e": 633.01,
+      "en": "No. We don't have any.",
+      "vi": "Không. Chúng ta không còn gì cả.",
+      "s": 631.33
+    },
+    {
+      "e": 638.17,
+      "en": "Okay. I'll order a liter of milk and a half kilo of cheese.",
+      "vi": "Ðược rồi. Em sẽ đặt mua một lít sữa và nửa ký phô mai.",
+      "s": 633.01
+    },
+    {
+      "e": 640.99,
+      "en": "I also want a container of coleslaw.",
+      "vi": "Anh cần muốn mua một hộp salad cải bắp.",
+      "s": 638.17
+    },
+    {
+      "e": 646.36,
+      "en": "Okay. Let's see... press enter to send.",
+      "vi": "Ðồng ý. Ðể xem... ấn vào nút \"enter\" để gửi.",
+      "s": 640.99
+    },
+    {"e": 670.34, "en": "...", "vi": "...", "s": 646.36},
+    {
+      "e": 676.34,
+      "en": "Wow, that was fast. I know.",
+      "vi": "Chà, thế thì nhanh thật. Anh biết mà.",
+      "s": 670.34
+    },
+    {
+      "e": 680.71,
+      "en": "What can I get for you today, George?",
+      "vi": "Hôm nay anh muốn mua gì, George?",
+      "s": 676.34
+    },
+    {
+      "e": 684.78,
+      "en": "I'd like some fruit. I'm making a fruit salad.",
+      "vi": "Tôi muốn mua một ít trái cây. Tôi định làm món salad trái cây.",
+      "s": 680.71
+    },
+    {
+      "e": 686.82,
+      "en": "What kind of fruit would you like?",
+      "vi": "Anh muốn mua loại trái cây nào?",
+      "s": 684.78
+    },
+    {
+      "e": 692.38,
+      "en": "Can you give me a kilo of grapes and 2 kilos of oranges?",
+      "vi": "Anh lấy cho tôi 1 ký nho và 2 ký cam nhé?",
+      "s": 686.82
+    },
+    {
+      "e": 695.26,
+      "en": "Sure. Can I get you anything else?",
+      "vi": "Ðược. Anh có muốn mua gì nữa không?",
+      "s": 692.38
+    },
+    {
+      "e": 697.5,
+      "en": "We have some apples on sale today.",
+      "vi": "Hôm nay chúng ta có bán táo hạ giá.",
+      "s": 695.26
+    },
+    {
+      "e": 700.31,
+      "en": "No, I don't want any apples, thank you.",
+      "vi": "Không, tôi không cần táo, cám ơn.",
+      "s": 697.5
+    },
+    {
+      "e": 702.17,
+      "en": "I think this will be all for today.",
+      "vi": "Tôi nghĩ hôm nay như thế này là đủ rồi.",
+      "s": 700.31
+    },
+    {"e": 707.96, "en": "OK.", "vi": "Vâng.", "s": 702.17},
+    {"e": 714.42, "en": "...", "vi": "...", "s": 707.96},
+    {
+      "e": 718.46,
+      "en": "Could I have some carrots and green beans, please?",
+      "vi": "Xin vui lòng bán cho tôi vài củ cà rốt và đậu trái nhé?",
+      "s": 714.42
+    },
+    {"e": 720.78, "en": "Sure. How much of each?", "vi": "Vâng. Mỗi thứ bao nhiêu ạ?", "s": 718.46},
+    {"e": 723.5, "en": "A half kilo of each.", "vi": "Mỗi thứ nửa ký.", "s": 720.78},
+    {
+      "e": 730.96,
+      "en": "Okay. Do you want any peas?",
+      "vi": "Ðược ạ. Bà có muốn mua đậu Hà Lan không?",
+      "s": 723.5
+    },
+    {"e": 733.23, "en": "No, thanks.", "vi": "Không. Cám ơn.", "s": 730.96},
+    {
+      "e": 737.75,
+      "en": "We have onions. They're on sale for half price.",
+      "vi": "Chúng tôi có bán củ hành. Chúng đang được bán giảm nửa giá đấy.",
+      "s": 733.23
+    },
+    {
+      "e": 743.61,
+      "en": "Hmm... that sounds good. I'll take a kilo of onions.",
+      "vi": "Ưm... nghe có vẻ được đấy. Cho tôi một ký củ hành đi.",
+      "s": 737.75
+    },
+    {"e": 755.33, "en": "...", "vi": "...", "s": 743.61},
+    {
+      "e": 758.27,
+      "en": "Here you are. Have a great day.",
+      "vi": "Ðây ạ. Chúc một ngày tốt lành.",
+      "s": 755.33
+    },
+    {"e": 759.5, "en": "How much is that?", "vi": "Như vậy là bao nhiêu?", "s": 758.27},
+    {
+      "e": 765.86,
+      "en": "Oh! $5.12. Let's call it $5.",
+      "vi": "Ồ! 5 đôla 12 xu. Thôi tính 5 đôla vậy.",
+      "s": 759.5
+    },
+    {"e": 769.69, "en": "Thanks.", "vi": "Cám ơn.", "s": 765.86},
+    {"e": 775.93, "en": "...", "vi": "...", "s": 769.69},
+    {
+      "e": 780.49,
+      "en": "In this lesson, we are going to do some more shopping. Alright!",
+      "vi": "Trong bài này, chúng ta sẽ đi mua sắm thêm vài thứ nữa. Ðược rồi!",
+      "s": 775.93
+    },
+    {
+      "e": 785.07,
+      "en": "We will compare prices and features, sizes and colors",
+      "vi": "Chúng ta sẽ so sánh giá cả và đặc điểm, kích cỡ và màu sắc",
+      "s": 780.49
+    },
+    {
+      "e": 788.89,
+      "en": "in order to find the things that are perfect for us.",
+      "vi": "để tìm những thứ thích hợp cho chúng ta nhất.",
+      "s": 785.07
+    },
+    {"e": 812.16, "en": "...", "vi": "...", "s": 788.89},
+    {"e": 813.3, "en": "How are you?", "vi": "Anh có khỏe không?", "s": 812.16},
+    {
+      "e": 816.06,
+      "en": "I'm fine. What's on sale today?",
+      "vi": "Tôi khỏe. Hôm nay bán giảm giá cái gì vậy?",
+      "s": 813.3
+    },
+    {
+      "e": 819.88,
+      "en": "Today we have men's pants on sale for only $24.99.",
+      "vi": "Hôm nay chúng ta bán giảm giá quần tây nam chỉ còn 24 đôla 99 xu.",
+      "s": 816.06
+    },
+    {
+      "e": 824.49,
+      "en": "Wow, that's a great bargain. Are these them?",
+      "vi": "Chà, giá hời quá. Những cái quần này phải không?",
+      "s": 819.88
+    },
+    {"e": 825.35, "en": "Yes.", "vi": "Dạ phải.", "s": 824.49},
+    {
+      "e": 831.68,
+      "en": "Do you have anything in a smaller size?",
+      "vi": "Cô có cái nào cỡ nhỏ hơn không?",
+      "s": 825.35
+    },
+    {"e": 832.89, "en": "This is too big.", "vi": "Cái này lớn quá.", "s": 831.68},
+    {
+      "e": 835.13,
+      "en": "Yeah. We have some here.",
+      "vi": "Dạ có. Ở đây chúng tôi có vài cái.",
+      "s": 832.89
+    },
+    {
+      "e": 841.17,
+      "en": "Right, and do you have anything more casual than these?",
+      "vi": "Ðược rồi, và cô có cái nào xoàng hơn những cái này không?",
+      "s": 835.13
+    },
+    {
+      "e": 844.03,
+      "en": "I'm sure we do. Let me go check in the back.",
+      "vi": "Chắc chắn là chúng tôi có. Ðể tôi ra sau xem nhé.",
+      "s": 841.17
+    },
+    {"e": 846.74, "en": "OK.", "vi": "Ðược.", "s": 844.03}
+  ]
+}

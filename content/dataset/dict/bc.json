@@ -1,1 +1,143 @@
-[{"h":"BC","segs":[{"k":"m","t":"(tắt) Trước công lịch, trước Công nguyên ("},{"k":"ex","t":"Before Christ","vi":")"},{"k":"ex","t":"in (the year) 2000 BC","vi":"vào năm 2000 trước Công nguyên"},{"k":"m","t":"Hội đồng Anh (một tổ chức do chính phủ đỡ đầu làm nhiệm vụ thúc đẩy ngôn ngữ và văn hóa Anh ở các nước khác) ("},{"k":"ex","t":"British Council","vi":")."}],"ipa":"'bi:'si:","k":"bc","q":{"vi":"Before Christ: thời kỳ trước công nguyên","ipa":"bi:'si:","rs":"bì sí"}},{"h":"BC mode","segs":[{"k":"m","t":"(basic control mode) chế độ điều khiển cơ bản."}],"k":"bc mode"},{"h":"BC soil","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"soil with two layers: soil made up of two distinct layers"}],"k":"bc soil"},{"h":"BCB","segs":[{"k":"m","t":"(block control byte) byte điều khiển khối."}],"k":"bcb"},{"h":"Bcc","segs":[{"k":"m","t":"bcc, đồng kính gởi (nhưng những người nhận khác không được biết có người này được gởi cùng với mình trong E-mail)."}],"k":"bcc"},{"h":"BCCI","segs":[{"k":"m","t":"Viết tắt của Bank of Credit và Commerce International"}],"k":"bcci"},{"h":"BCD","segs":[{"k":"m","t":"(binary-coded decimal) số thập phân được mã hóa nhị phân."}],"k":"bcd"},{"h":"BCD code","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mã BSD"}],"k":"bcd code"},{"h":"BCD time code","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mã định thời gian BCD"}],"k":"bcd time code"},{"h":"BCF","segs":[{"k":"m","t":"Viết tắt của bromochlorodifluoromethane (formerly used in fire extinguishers)"}],"k":"bcf"},{"h":"bcg","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"BACILLUS CALMETTE guérin vắc-xin chống lao."}],"ipa":"bi:si:'sdzi:","k":"bcg"},{"h":"BCG vaccine","segs":[{"k":"m","t":"vắc-xin BCG."}],"k":"bcg vaccine"},{"h":"BCH","segs":[{"k":"m","t":"(block control header) tiêu đề điều khiển khối, phần đầu điều khiển khối."}],"k":"bch"},{"h":"bck","segs":[{"k":"m","t":"Viết tắt của a file extension for a backup file"}],"k":"bck"},{"h":"BCNU","segs":[{"k":"m","t":"(be seeing you) hẹn gặp lại bạn (dấu hiệu chấm dứt cuộc nói chuyện-dùng chat trên mạng)."}],"k":"bcnu"},{"h":"BCNZ","segs":[{"k":"m","t":"Viết tắt của New Zealand Broadcasting Corporation of New Zealand"}],"k":"bcnz"},{"h":"BCS","segs":[{"k":"m","t":"1. bar code system hệ thống mã vạch, hệ thống mã sọc. 2. binary compatibility standard tiêu chuẩn tương thích nhị phân. 3. british Computer Society hội máy tính Anh."}],"k":"bcs"},{"h":"BCS theory","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lý thuyết Bardeen-Cooper-Schrieffer"},{"k":"m","t":"lý thuyết BCS"}],"k":"bcs theory"},{"h":"BCU","segs":[{"k":"m","t":"(block control unit) đơn vị điều khiển khối."}],"k":"bcu"},{"h":"BCU (block control)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đơn vị điều khiển khối"}],"k":"bcu (block control)"},{"h":"BCUG","segs":[{"k":"m","t":"(bilateral closed user group) nhóm người sử dụng kín hai bên."}],"k":"bcug"}]
+[
+  {
+    "h": "BC",
+    "segs": [
+      {"k": "m", "t": "(tắt) Trước công lịch, trước Công nguyên ("},
+      {"k": "ex", "t": "Before Christ", "vi": ")"},
+      {"k": "ex", "t": "in (the year) 2000 BC", "vi": "vào năm 2000 trước Công nguyên"},
+      {
+        "k": "m",
+        "t": "Hội đồng Anh (một tổ chức do chính phủ đỡ đầu làm nhiệm vụ thúc đẩy ngôn ngữ và văn hóa Anh ở các nước khác) ("
+      },
+      {"k": "ex", "t": "British Council", "vi": ")."}
+    ],
+    "ipa": "'bi:'si:",
+    "k": "bc",
+    "q": {"vi": "Before Christ: thời kỳ trước công nguyên", "ipa": "bi:'si:", "rs": "bì sí"}
+  },
+  {
+    "h": "BC mode",
+    "segs": [{"k": "m", "t": "(basic control mode) chế độ điều khiển cơ bản."}],
+    "k": "bc mode"
+  },
+  {
+    "h": "BC soil",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "soil with two layers: soil made up of two distinct layers"}
+    ],
+    "k": "bc soil"
+  },
+  {"h": "BCB", "segs": [{"k": "m", "t": "(block control byte) byte điều khiển khối."}], "k": "bcb"},
+  {
+    "h": "Bcc",
+    "segs": [
+      {
+        "k": "m",
+        "t": "bcc, đồng kính gởi (nhưng những người nhận khác không được biết có người này được gởi cùng với mình trong E-mail)."
+      }
+    ],
+    "k": "bcc"
+  },
+  {
+    "h": "BCCI",
+    "segs": [{"k": "m", "t": "Viết tắt của Bank of Credit và Commerce International"}],
+    "k": "bcci"
+  },
+  {
+    "h": "BCD",
+    "segs": [{"k": "m", "t": "(binary-coded decimal) số thập phân được mã hóa nhị phân."}],
+    "k": "bcd"
+  },
+  {
+    "h": "BCD code",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mã BSD"}],
+    "k": "bcd code"
+  },
+  {
+    "h": "BCD time code",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mã định thời gian BCD"}],
+    "k": "bcd time code"
+  },
+  {
+    "h": "BCF",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của bromochlorodifluoromethane (formerly used in fire extinguishers)"
+      }
+    ],
+    "k": "bcf"
+  },
+  {
+    "h": "bcg",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "BACILLUS CALMETTE guérin vắc-xin chống lao."}
+    ],
+    "ipa": "bi:si:'sdzi:",
+    "k": "bcg"
+  },
+  {"h": "BCG vaccine", "segs": [{"k": "m", "t": "vắc-xin BCG."}], "k": "bcg vaccine"},
+  {
+    "h": "BCH",
+    "segs": [
+      {"k": "m", "t": "(block control header) tiêu đề điều khiển khối, phần đầu điều khiển khối."}
+    ],
+    "k": "bch"
+  },
+  {
+    "h": "bck",
+    "segs": [{"k": "m", "t": "Viết tắt của a file extension for a backup file"}],
+    "k": "bck"
+  },
+  {
+    "h": "BCNU",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(be seeing you) hẹn gặp lại bạn (dấu hiệu chấm dứt cuộc nói chuyện-dùng chat trên mạng)."
+      }
+    ],
+    "k": "bcnu"
+  },
+  {
+    "h": "BCNZ",
+    "segs": [{"k": "m", "t": "Viết tắt của New Zealand Broadcasting Corporation of New Zealand"}],
+    "k": "bcnz"
+  },
+  {
+    "h": "BCS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. bar code system hệ thống mã vạch, hệ thống mã sọc. 2. binary compatibility standard tiêu chuẩn tương thích nhị phân. 3. british Computer Society hội máy tính Anh."
+      }
+    ],
+    "k": "bcs"
+  },
+  {
+    "h": "BCS theory",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "lý thuyết Bardeen-Cooper-Schrieffer"},
+      {"k": "m", "t": "lý thuyết BCS"}
+    ],
+    "k": "bcs theory"
+  },
+  {
+    "h": "BCU",
+    "segs": [{"k": "m", "t": "(block control unit) đơn vị điều khiển khối."}],
+    "k": "bcu"
+  },
+  {
+    "h": "BCU (block control)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đơn vị điều khiển khối"}],
+    "k": "bcu (block control)"
+  },
+  {
+    "h": "BCUG",
+    "segs": [{"k": "m", "t": "(bilateral closed user group) nhóm người sử dụng kín hai bên."}],
+    "k": "bcug"
+  }
+]

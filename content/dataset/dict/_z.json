@@ -1,1 +1,20 @@
-[{"h":"-zoon","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"animal, zooid"},{"k":"m","t":"epizoon"}],"k":"-zoon"},{"h":"-zygous","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"having a particular kind of zygotic constitution"},{"k":"m","t":"hemizygous"}],"k":"-zygous"}]
+[
+  {
+    "h": "-zoon",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "animal, zooid"},
+      {"k": "m", "t": "epizoon"}
+    ],
+    "k": "-zoon"
+  },
+  {
+    "h": "-zygous",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "having a particular kind of zygotic constitution"},
+      {"k": "m", "t": "hemizygous"}
+    ],
+    "k": "-zygous"
+  }
+]

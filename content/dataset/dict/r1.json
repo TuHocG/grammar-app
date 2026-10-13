@@ -1,1 +1,7 @@
-[{"h":"R1C1 reference type","segs":[{"k":"m","t":"loại tham chiếu R1C1."}],"k":"r1c1 reference type"}]
+[
+  {
+    "h": "R1C1 reference type",
+    "segs": [{"k": "m", "t": "loại tham chiếu R1C1."}],
+    "k": "r1c1 reference type"
+  }
+]

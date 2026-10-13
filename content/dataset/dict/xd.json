@@ -1,1 +1,20 @@
-[{"h":"XD","segs":[{"k":"m","t":"Viết tắt của stock exchange ex dividend"}],"k":"xd"},{"h":"XDATA","segs":[{"k":"m","t":"(external data) dữ liệu ngoài."}],"k":"xdata"},{"h":"XDATA (external data)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"dữ liệu ngoài"}],"k":"xdata (external data)"},{"h":"XDATA directive","segs":[{"k":"m","t":"dẫn hướng XDATA."}],"k":"xdata directive"},{"h":"XDR","segs":[{"k":"m","t":"(external data representation) biểu diễn dữ liệu ngoài."}],"k":"xdr"},{"h":"xDSL","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"xDSL"}],"k":"xdsl"}]
+[
+  {"h": "XD", "segs": [{"k": "m", "t": "Viết tắt của stock exchange ex dividend"}], "k": "xd"},
+  {"h": "XDATA", "segs": [{"k": "m", "t": "(external data) dữ liệu ngoài."}], "k": "xdata"},
+  {
+    "h": "XDATA (external data)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dữ liệu ngoài"}],
+    "k": "xdata (external data)"
+  },
+  {"h": "XDATA directive", "segs": [{"k": "m", "t": "dẫn hướng XDATA."}], "k": "xdata directive"},
+  {
+    "h": "XDR",
+    "segs": [{"k": "m", "t": "(external data representation) biểu diễn dữ liệu ngoài."}],
+    "k": "xdr"
+  },
+  {
+    "h": "xDSL",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "xDSL"}],
+    "k": "xdsl"
+  }
+]

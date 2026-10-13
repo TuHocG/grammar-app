@@ -1,1 +1,140 @@
-[{"h":"dl","segs":[{"k":"m","t":"(deciliter) decilít, một phần mười lít."}],"k":"dl"},{"h":"dl (deciliter)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đexilit"},{"k":"m","t":"một phần mười lít"}],"k":"dl (deciliter)"},{"h":"DL indicator","segs":[{"k":"m","t":"(delete mode indicator) bộ chỉ báo chế độ xóa."}],"k":"dl indicator"},{"h":"DL/I service program","segs":[{"k":"m","t":"chương trình dịch vụ của DL/I."}],"k":"dl/i service program"},{"h":"DLA","segs":[{"k":"m","t":"1. data link adapter bộ điều hợp liên kết dữ liệu. 2. direct line attachment sự gắn đường dây trực tiếp."}],"k":"dla"},{"h":"DLA terminal","segs":[{"k":"m","t":"thiết bị đầu cuối DLA."}],"k":"dla terminal"},{"h":"DLC","segs":[{"k":"m","t":"(data link control) sự điều khiển liên kết dữ liệu."}],"k":"dlc"},{"h":"DLCD","segs":[{"k":"dom","t":"Viết tắt"},{"k":"m","t":"Digital line concentrator device"}],"k":"dlcd"},{"h":"Dlchromophilisur","segs":[{"k":"m","t":"tính bắt hai màu (axít và bazơ)."}],"k":"dlchromophilisur"},{"h":"DLCI","segs":[{"k":"m","t":"(data link connection identifier) ký hiệu nhận dạng kết nối dữ liệu."}],"k":"dlci"},{"h":"DLCI/Control (LAPF) (D/C)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"DLCI/Ðiều khiển (LAPF)"}],"k":"dlci/control (lapf) (d/c)"},{"h":"dlclidostosis","segs":[{"k":"m","t":"cốt hóa van tĩnh mạch."}],"k":"dlclidostosis"},{"h":"DLE","segs":[{"k":"m","t":"(data link escape character) ký tự thoát khỏi liên kết dữ liệu."}],"k":"dle"},{"h":"DLIB","segs":[{"k":"m","t":"(distribution library) thư viện phân phối."}],"k":"dlib"},{"h":"DLIB (distribution library)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"thư viện phân phối"}],"k":"dlib (distribution library)"},{"h":"DLitt","segs":[{"k":"m","t":"(tắt) Tiến sĩ văn chương ("},{"k":"ex","t":"Doctor of Letters","vi":")."}],"ipa":"di: 'lit","k":"dlitt"},{"h":"DLL","segs":[{"k":"m","t":"thư viện dữ liệu."}],"k":"dll"},{"h":"DLO","segs":[{"k":"m","t":"(document library object) đối tượng thư viện tài liệu."}],"k":"dlo"},{"h":"DLP","segs":[{"k":"m","t":"(distributed logic programming) sự lập trình logic phân tán."}],"k":"dlp"},{"h":"DLP switch","segs":[{"k":"m","t":"chuyển mạch DIP."}],"k":"dlp switch"},{"h":"Dlphenhydramine","segs":[{"k":"m","t":"một loại thuốc kháng histamin chữa các tình trạng dị ứng."}],"k":"dlphenhydramine"},{"h":"DLPI","segs":[{"k":"m","t":"(Data Link Provider Interface) giao diện nhà cung cấp liên kết dữ liệu."}],"k":"dlpi"},{"h":"dlr.","segs":[{"k":"m","t":"Viết tắt của finance dealer"}],"k":"dlr."},{"h":"DLRPL","segs":[{"k":"m","t":"(dump / load / restart parameter list) danh sách thông số kết xuất / nạp / tái khởi động."}],"k":"dlrpl"},{"h":"DLRT","segs":[{"k":"m","t":"(design in real time) thiết kế trong thời gian thực."}],"k":"dlrt"},{"h":"DLT","segs":[{"k":"m","t":"1. data loop transceiver bộ thu phát vòng dữ liệu. 2. digital linear tape băng tuyến tính số."}],"k":"dlt"},{"h":"DLU","segs":[{"k":"m","t":"(destination logical unit) thiết bị logic đích, đơn vị logic đích."}],"k":"dlu"}]
+[
+  {"h": "dl", "segs": [{"k": "m", "t": "(deciliter) decilít, một phần mười lít."}], "k": "dl"},
+  {
+    "h": "dl (deciliter)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đexilit"},
+      {"k": "m", "t": "một phần mười lít"}
+    ],
+    "k": "dl (deciliter)"
+  },
+  {
+    "h": "DL indicator",
+    "segs": [{"k": "m", "t": "(delete mode indicator) bộ chỉ báo chế độ xóa."}],
+    "k": "dl indicator"
+  },
+  {
+    "h": "DL/I service program",
+    "segs": [{"k": "m", "t": "chương trình dịch vụ của DL/I."}],
+    "k": "dl/i service program"
+  },
+  {
+    "h": "DLA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data link adapter bộ điều hợp liên kết dữ liệu. 2. direct line attachment sự gắn đường dây trực tiếp."
+      }
+    ],
+    "k": "dla"
+  },
+  {"h": "DLA terminal", "segs": [{"k": "m", "t": "thiết bị đầu cuối DLA."}], "k": "dla terminal"},
+  {
+    "h": "DLC",
+    "segs": [{"k": "m", "t": "(data link control) sự điều khiển liên kết dữ liệu."}],
+    "k": "dlc"
+  },
+  {
+    "h": "DLCD",
+    "segs": [{"k": "dom", "t": "Viết tắt"}, {"k": "m", "t": "Digital line concentrator device"}],
+    "k": "dlcd"
+  },
+  {
+    "h": "Dlchromophilisur",
+    "segs": [{"k": "m", "t": "tính bắt hai màu (axít và bazơ)."}],
+    "k": "dlchromophilisur"
+  },
+  {
+    "h": "DLCI",
+    "segs": [
+      {"k": "m", "t": "(data link connection identifier) ký hiệu nhận dạng kết nối dữ liệu."}
+    ],
+    "k": "dlci"
+  },
+  {
+    "h": "DLCI/Control (LAPF) (D/C)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "DLCI/Ðiều khiển (LAPF)"}],
+    "k": "dlci/control (lapf) (d/c)"
+  },
+  {"h": "dlclidostosis", "segs": [{"k": "m", "t": "cốt hóa van tĩnh mạch."}], "k": "dlclidostosis"},
+  {
+    "h": "DLE",
+    "segs": [{"k": "m", "t": "(data link escape character) ký tự thoát khỏi liên kết dữ liệu."}],
+    "k": "dle"
+  },
+  {
+    "h": "DLIB",
+    "segs": [{"k": "m", "t": "(distribution library) thư viện phân phối."}],
+    "k": "dlib"
+  },
+  {
+    "h": "DLIB (distribution library)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "thư viện phân phối"}],
+    "k": "dlib (distribution library)"
+  },
+  {
+    "h": "DLitt",
+    "segs": [
+      {"k": "m", "t": "(tắt) Tiến sĩ văn chương ("},
+      {"k": "ex", "t": "Doctor of Letters", "vi": ")."}
+    ],
+    "ipa": "di: 'lit",
+    "k": "dlitt"
+  },
+  {"h": "DLL", "segs": [{"k": "m", "t": "thư viện dữ liệu."}], "k": "dll"},
+  {
+    "h": "DLO",
+    "segs": [{"k": "m", "t": "(document library object) đối tượng thư viện tài liệu."}],
+    "k": "dlo"
+  },
+  {
+    "h": "DLP",
+    "segs": [{"k": "m", "t": "(distributed logic programming) sự lập trình logic phân tán."}],
+    "k": "dlp"
+  },
+  {"h": "DLP switch", "segs": [{"k": "m", "t": "chuyển mạch DIP."}], "k": "dlp switch"},
+  {
+    "h": "Dlphenhydramine",
+    "segs": [{"k": "m", "t": "một loại thuốc kháng histamin chữa các tình trạng dị ứng."}],
+    "k": "dlphenhydramine"
+  },
+  {
+    "h": "DLPI",
+    "segs": [
+      {"k": "m", "t": "(Data Link Provider Interface) giao diện nhà cung cấp liên kết dữ liệu."}
+    ],
+    "k": "dlpi"
+  },
+  {"h": "dlr.", "segs": [{"k": "m", "t": "Viết tắt của finance dealer"}], "k": "dlr."},
+  {
+    "h": "DLRPL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(dump / load / restart parameter list) danh sách thông số kết xuất / nạp / tái khởi động."
+      }
+    ],
+    "k": "dlrpl"
+  },
+  {
+    "h": "DLRT",
+    "segs": [{"k": "m", "t": "(design in real time) thiết kế trong thời gian thực."}],
+    "k": "dlrt"
+  },
+  {
+    "h": "DLT",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data loop transceiver bộ thu phát vòng dữ liệu. 2. digital linear tape băng tuyến tính số."
+      }
+    ],
+    "k": "dlt"
+  },
+  {
+    "h": "DLU",
+    "segs": [{"k": "m", "t": "(destination logical unit) thiết bị logic đích, đơn vị logic đích."}],
+    "k": "dlu"
+  }
+]

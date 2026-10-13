@@ -1,1 +1,18 @@
-[{"h":"JTLYK","segs":[{"k":"m","t":"Viết tắt của online just to let you know (used in e-mails hoặc text messages)"}],"k":"jtlyk"},{"h":"JTM","segs":[{"k":"m","t":"(job transfer and manipulation) sự chuyển và thao tác công việc."}],"k":"jtm"},{"h":"JTTF","segs":[{"k":"m","t":"Viết tắt của Joint Terrorist Task Force"}],"k":"jttf"}]
+[
+  {
+    "h": "JTLYK",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của online just to let you know (used in e-mails hoặc text messages)"
+      }
+    ],
+    "k": "jtlyk"
+  },
+  {
+    "h": "JTM",
+    "segs": [{"k": "m", "t": "(job transfer and manipulation) sự chuyển và thao tác công việc."}],
+    "k": "jtm"
+  },
+  {"h": "JTTF", "segs": [{"k": "m", "t": "Viết tắt của Joint Terrorist Task Force"}], "k": "jttf"}
+]

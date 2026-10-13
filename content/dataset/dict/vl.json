@@ -1,1 +1,292 @@
-[{"h":"vl","segs":[{"k":"m","t":"Viết tắt của variant reading"}],"k":"vl"},{"h":"VL-bus","segs":[{"k":"m","t":"Một tiêu chuẩn quy định các đặc trưng về các mặt điện, logic, vật lý, cơ khí các loại local bus tốc độ cao (một loại bus mở rộng nối trực tiếp với bộ xử lý trung tâm của máy tính). Tiêu chuẩn này được Hiệp hội Video quy định."}],"k":"vl-bus"},{"h":"VLA","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"array of telescopes: a system of radio telescopes at the National Radio Astronomy Observatory, New Mexico. Full form Very Large Array"}],"k":"vla"},{"h":"Vlach","segs":[{"k":"m","t":"(số nhiều Vlachs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. member of Balkan people: a member of a southeastern European people who in the 13th century founded the principalities of Walachia và Moldavia, later merged to become Romania."},{"k":"m","t":"Vlachs now live mainly in the mountainous regions of the Balkans, the Former Yugoslav Republic of Macedonia, Albania, hoặc northern Greece."},{"k":"m","t":"2. Romance dialect: a language of the Romance family that is spoken in southeastern Europe, especially by the Vlach people. 300,000."},{"k":"m","t":"-Vlach (tính từ)"}],"k":"vlach"},{"h":"Vladimir","segs":[{"k":"m","t":"city và capital of Vladimir Oblast in western Russia."},{"k":"m","t":"Dân số khoảng: 316,300 (2002)"}],"k":"vladimir"},{"h":"Vladivostok","segs":[{"k":"m","t":"city và major port in southeastern Russia, on Golden Horn Bay, an inlet of the Sea of Japan. It is the eastern terminus of the Trans-Siberian Railway."},{"k":"m","t":"Dân số khoảng: 591,800 (2002)"}],"k":"vladivostok"},{"h":"VLAN (Virtual LAN)","segs":[{"k":"m","t":"Nhiều công ty đi theo hướng mạng chuyển mạch, trong đó các máy tính được kết nối đến các cổng chuyên dụng trên các bộ chuyển mạch Ethernet, Gigabit Ethernet, ATM và các loại khác. Các bộ chuyển mạch ở các phòng được kết nối với bộ chuyển mạch của xí nghiệp và như thế toàn bộ xí nghiệp được kết nối với nhau. Có thể thiết kế mạng trong đó không có mạng con hoặc bộ định tuyến, và một máy tính bất kỳ có thể nối với một máy tính khác. Tuy nhiên, nhiều người quản lý ưu tiên cách phân chia vật lý bằng bộ định tuyến. Có thể quảng bá (broadcast) nội bộ và mức độ an toàn cao hơn."},{"k":"m","t":"Các kỹ thuật mô tả trong phần này giải thích cách tạo các mạng LAN ảo (VLAN) để khai thác ưu điểm của các mạng con kết nối bằng bộ định tuyến. Mục đích đầu tiên là tổ chức các máy tính và người dùng thành các VLAN dựa trên địa chỉ phần cứng, địa chỉ cổng, địa chỉ IP và các kỹ thuật khác. Một khi đã tạo VLAN, các bộ định tuyến chuyển tiếp các gói dữ liệu (xem phần trái trên hình V-4). Ðể ý rằng mạng đang xét là mạng chuyển mạch phẳng, và các VLAN được định nghĩa như là lớp phủ trên mạng này. Bộ định tuyến kết nối các VLAN với nhau."},{"k":"m","t":"Phần bên phải hình V-4 chỉ ra nguyên tắc quan trọng luôn phải ghi nhớ. Trong khi việc định tuyến khai thác ưu điểm của việc tạo mạng con trong đồ hình mạng chuyển mạch phẳng, các gói được định tuyến chậm hơn so với chuyển mạch. Ngay cả khi mạng được chia thành các VLAN, mạng vẫn có khả năng chuyển mạch các bó sang máy tính khác với tốc độ cao. Vì thế, những gì mà các nhà thiết kế đang cố gắng thông qua những giao thức khác nhau là kỹ thuật \"route first, then switch\" (trước tiên là định tuyến, sau đó chuyển mạch). Bộ định tuyến ban đầu được dùng để thiết lập con đường giữa hai hệ thống trong các VLAN khác nhau và bảo đảm tính an toàn khi kiểm tra hai hệ thống có thể kết nối với nhau. Một khi tuyến đường được thiết lập và đã kiểm tra an toàn, các bó được chuyển mạch bằng cơ cấu chuyển mạch tầng 2. Ðiều này tránh được việc di chuyển tất cả các bó (trừ một số ít bó đầu tiên) qua bộ định tuyến chậm chạp một khi nó đã làm xong việc."},{"k":"m","t":"Kỹ thuật này thường được gọi là chuyển mạch tầng 3 hoặc định tuyến tầng 2, tùy theo cách nhìn và bạn đang nói chuyện với nhà cung cấp nào. Nếu IP là giao thức chính, khái niệm chuyển mạch IP được dùng. Có thể biết thêm chi tiết ở các mục \"IP over ATM\", \"IP Switching\", \"NHRP (Next Hop Resolution Protocol)\", và \"Switched Networks\"."},{"k":"m","t":"Hình V-4 Các mạng con lôgíc VLAN phủ lên mạng vật lý"},{"k":"m","t":"Hình V-5 minh họa cách tổ chức các VLAN. Các bộ chuyển mạch trục chính và cục bộ cung cấp các chức năng khai báo cấu hình VLAN. Ðể ý rằng các bộ chuyển mạch vùng làm việc được định vị để kết nối các máy tính gần nhau."},{"k":"m","t":"Người quản lý mạng bổ sung máy tính (hoặc người dùng) vào VLAN dựa trên địa chỉ cổng chuyển mạch, địa chỉ phần cứng (địa chỉ MAC hoặc địa chỉ điều khiển của card mạng), địa chỉ IP, hoặc các phương pháp khác. Trên hình V-5, các VLAN được vẽ phía trên mạng vật lý. Khi máy tính B truyền đi, nó gởi một thông điệp đến tất cả các máy tính trong Marketing VLAN, gồm các máy E, G, H và J. Nếu máy tính B cần gởi đến người dùng trong Research VLAN, thông điện này cần phải được định tuyến. Ðiều này được thực hiện bằng chức năng định tuyến trong bộ chuyển mạch đường trục hoặc bằng bộ định tuyến riêng."},{"k":"m","t":"Hình V-5. Các VLAN phủ lên mạng vật lý"},{"k":"m","t":"VLAN rất quan trọng trong các tổ chức ở đó người dùng hay chuyển từ nhóm này sang nhóm khác hoặc khi những thành viên cùng nhóm ở những vị trí khác nhau. VLAN làm cho các thành viên của các nhóm phân tán có thể chia sẻ tài nguyên chung và thuộc cùng một vùng phát thanh. Nói khác đi, lưu thông dữ liệu tạo bởi người dùng trong một nhóm cần được ràng buộc trong nhóm đó. Nếu người dùng di chuyển nhiều, người quản lý mạng có thể dùng kỹ thuật VLAN để giữ họ trong một nhóm phát thanh, không cần biết họ kết nối vào mạng từ đâu."},{"k":"m","t":"Các phương pháp định cấu hình cho VLAN"},{"k":"m","t":"Kiến trúc chuyển mạch rất lý tưởng để tạo các VLAN. Những VLAN đầu tiên được thực hiện thủ công. Sau đó, khi công nghệ này được hiểu rõ hơn và phổ biến hơn, nhiều kỹ thuật cao cấp được sử dụng. Phần này mô tả những kỹ thuật khác nhau dùng để xây dựng VLAN. Nhiều nhà cung cấp đang cài đặt một số hoặc tất cả những kỹ thuật này. Ví dụ, các phương pháp cao cấp dựa trên giao thức IP, nhưng các mạng sử dụng cả hai giao thức IP và giao thức bất định tuyến như NetBIOS sẽ cần dùng phương pháp dựa trên MAC, điều này sẽ được mô tả trong phần tiếp theo, ngoài các phương pháp IP."},{"k":"m","t":"Các phương pháp thiết đặt cổng Ðây thực sự là cách thiết đặt các mạng LAN riêng lẻ vào cùng một hộp. Các LAN tạo được không phải là VLAN vì chúng được thiết đặt bởi những cấu hình đi dây khác nhau. Người quản lý mạng liên kết các cổng riêng biệt vào hub hoặc thiết bị chuyển mạch để tạo từng mạng LAN riêng lẻ. Ví dụ, các cổng 2, 4, 5, và 8 được gộp thành nhóm LAN1 và các cổng 1, 3, 6, 9, và 10 được gộp thành nhóm LAN2. Hai thiết kế bản mạch (backplane) được dùng trong các thiết bị hub và bộ chuyển mạch: bản mạch multibus và TDM (time division multiplexing). Với thiết kế multibus, mỗi bus biểu diễn một mạng LAN và các cổng được liên kết đến một bus cụ thể. Trong thiết kế TDM, mỗi LAN làm chủ một khoảng thời gian nhất định trong một bus. Bởi vì LAN được cấu hình bên trong hub hoặc bộ chuyển mạch, các hub hoặc bộ chuyển mạch không thể làm cầu nối một LAN được khai báo cấu hình trong một thiết bị với LAN được khai báo cấu hình trong một thiết bị khác."},{"k":"m","t":"VLAN dựa trên MAC Ðịa chỉ MAC là địa chỉ thiết đặt sẵn trong card mạng. Người điều hành mạng tạo một bảng xác định những địa chỉ MAC nào đi cùng với VLAN nào. So sánh với phương pháp thiết đặt cổng, phương pháp này cung cấp khả năng thực sự của VLAN vì thành viên trong VLAN không bị gắn bó với một cổng cụ thể. Khai báo cấu hình được thực hiện trong phần mềm và trong vài trường hợp một máy tính có thể thuộc vào hai hoặc nhiều VLAN. Ngoài ra, nếu một máy tính được chuyển sang vị trí khác, nó vẫn thuộc cùng VLAN bởi vì địa chỉ MAC di chuyển cùng với nó."},{"k":"m","t":"VLAN tầng 3 Loại VLAN này dùng thông tin ở tầng 3 để xây dựng VLAN dựa trên các địa chỉ giao thức liên mạng.Ví dụ, trên hình V-5, tất cả máy tính trong VLAM Marketing có địa chỉ IP 100.200.1.x (trong đó x là một số cụ thể cho mỗi máy trạm), trong khi các máy trong VLAN Research có địa chỉ IP 100.200.2.x. một bộ chuyển mạch tầng 3 có khả năng xem địa chỉ mạng trong khung và chuyển tiếp khung này dựa trên thông tin trong bảng, bảng này so sánh địa chỉ mạng với thành viên trong VLAN cụ te. Tuy nhiên, việc nhìn vào địa chỉ tầng 3 có thể gây ra vấn đề về vận hành. Giống như VLAN dựa trên MAC, việc di chuyển là dễ dàng vì cổng của các máy trạm không xác định thành viên của VLAN. Tiếp cận tầng 3 có thể mở rộng để chứa nhiều chức năng định tuyến ngay trong bộ chuyển mạch, và đây là điều mà nhiều nhà cung cấp đã thực hiện. Xem mục \"Switched Networks\" để biết chi tiết về kiến trúc của những bộ chuyển mạch này."},{"k":"m","t":"IP multicast VLANs Trong tiếp cận này, VLAN được định nghĩa bởi thành viên trong một nhóm IP multicast. IP multicast là phương pháp để một máy trạm truyền đến một số nhưng không phải là tất cả máy trạm trên mạng. Các máy trạm nhận được gọi là multicast group. Ðây là cách truyền một-đến nhiều được hỗ trợ bởi các chuẩn Internet. Multicast được thiết đặt bằng cách dùng địa chỉ IP lớp D. Ðể hỗ trợ chức năng này, các bộ định tuyến phải bật (enable) multicast. Multicasting là một quá trình hai chiều. Các bộ định tuyến thiết đặt multicast giữa chúng, nhưng một bộ định tuyến chỉ thực hiện multicast nếu máy chủ nào đó trên mạng yêu cầu làm thành viên của nhóm multicast. Các bộ định tuyến không tham gia multicast thì không liên quan, để tránh lưu thông không cần thiết. Multicasting là động theo nghĩa là các máy trạm có thể tham gia và loại khỏi ra nhóm (multicast) bất cứ lúc nào. Dùng chức năng này để tạo các VLAN là rất hữu ích và mềm dẻo. Multicasting cũng cho phép VLAN mở rộng các bộ định tuyến dựa trên WAN. Chuẩn IEEE 802.1p được gọi là \"Standard for Traffic Class and Dynamic Multicast Filtering Services in Bridged Local Area Networks\" xác định việc xây dựng các VLAN bằng các giao thức multicast."},{"k":"m","t":"Rules-based VLANs Một số nhà cung cấp cài đặt kỹ thuật VLAN dựa trên luật, cho phép người quản lý tạo VLAN dựa trên thông tin trong các bó mà bộ chuyển mạch nhìn vào và đánh giá. Phương pháp này đòi hỏi tạo ra các luật trong phần mềm để xác định thành viên VLAN. Trong khi kỹ thuật này làm tăng tính mềm dẻo, việc thiết đặt và bảo trì có thể phức tạp. Ví dụ, VLAN có thể được mô tả bởi các luật dưới đây:"},{"k":"m","t":"Tất cả các máy trạm với địa chỉ subnet 200.100.10.x"},{"k":"m","t":"trừ những địa chỉ IP: 200.100.10.5, 200.100.10.6"},{"k":"m","t":"trừ những địa chỉ MAC: 06-1A-0A-05-3C-02-04"},{"k":"m","t":"Ghi chú: IEEE 802.1q là đặc tả VLAN cho phép các bộ chuyển mạch trao đổi thông tin giữa chúng về VLAN. Nó giúp các nhà cung cấp thiết kế các bộ chuyển mạch hỗ trợ VLAN có khả năng tương tác (interoperability). Chuẩn này định nghĩa cách thức đánh dấu các khung để xác định chúng thuộc vào VLAN nào. Các bộ chuyển mạch dùng thông tin này để chuyển tiếp các khung."},{"k":"m","t":"Các VLAN và vấn đề định tuyến"},{"k":"m","t":"Ðịnh tuyến (routing) là thành phần cơ bản trong môi trường VLAN. Ðây là cách để mỗi VLAN bảo trì tính tự trị và bản chất phát thanh trong khi chuyển các gói dữ liệu giữa các VLAN. Ðịnh tuyến cho phép người quản lý đưa vào các chính sách an toàn, chẳng hạn như kỹ thuật lọc gói dữ liệu (xem mục \"Firewall\"). Một mạng được thiết kế tối ưu sẽ có các VLAN được cấu hình để giảm sự định tuyến giữa các VLAN càng nhiều càng tốt."},{"k":"m","t":"Các cấu hình VLAN dùng chỉ tầng 2 (các VLAN thiết đặt theo cổng và các VLAN dựa trên MAC) đòi hỏi ít nhất một cổng trong mỗi VLAN được thiết đặt riêng để cung cấp kết nối VLAN-router. Trong môi trờng mạng chuyển mạch, Thường người ta không chấp nhận dùng các bộ định tuyến đơn lẻ vì có sự chậm trễ cố hữu gây ra bởi thao tác lưu trữ-và-chuyển tiếp của chúng."},{"k":"m","t":"Các VLAN được xây dựng trên mạng chuyển mạch là mềm dẻo hơn. Ðặc biệt, các bộ chuyển mạch thường khôn khéo chuyển mạch các gói ở tốc độ cao giữa các VLAN một khi bộ định tuyến định nghĩa xong đường dẫn (và làm trễ việc chuyển thông tin đến bộ chuyển mạch). Trong vài trường hợp, bản thân bộ chuyển mạch kiểm tra bảng định tuyến để xác định cần phải làm gì với một bó dữ liệu. Bảng định tuyến này có thể xây dựng bằng bộ định tuyến ngoài hoặc máy chủ định tuyến (route server)."},{"k":"m","t":"Nhiều kỹ thuật định tuyến được phát triển trong môi trường ATM. Xem mục \"IP over ATM\" và \"IP Switching\" để biết chi tiết. Diễn đàn ATM đã phát triển MPOA (Multiprotocol over ATM), chuyển việc định tuyến đến một máy chủ đặc biệt goị là máy chủ định tuyến (route server). Các khung trong cùng VLAN được chuyển mạch ở tầng 2. Ðể truyền các khung đến các VLAN khác, đờng dẫn định tuyến nhận được từ máy chủ định tuyến, mà trước đó đã tạo đường dẫn logíc qua mạng. Ðường dẫn này được chuyển đổi sang mạch ảo để truyền dữ liệu. Xem mục \"MPOA (Multiprotocol over ATM)\" để biết thêm chi tiết."},{"k":"m","t":"IEEE đang tìm cách đơn giản hóa cấu hình và quản lý VLAN bằng chuẩn 802.1q, chuẩn này đặc tả cách xác định và thiết đặt VLAN trong các mạng dựa trên khung, chẳng hạn như Ethernet và Token ring. Chuẩn này mở rộng khuôn dạng của khung bằng cách bổ sung các trường để liên kết khung với một VLAN cụ thể. Chuẩn này thực chất là một sơ đồ đánh dấu."}],"k":"vlan (virtual lan)"},{"h":"Vlasov equation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phương trình Vlasov"}],"k":"vlasov equation"},{"h":"VLCC","segs":[{"k":"m","t":"Viết tắt của energy very large crude carrier"}],"k":"vlcc"},{"h":"VLDB","segs":[{"k":"m","t":"(very large database) cơ sở dữ liệu rất lớn."}],"k":"vldb"},{"h":"VLDL","segs":[{"k":"m","t":"Viết tắt của medicine very low density lipoprotein"}],"k":"vldl"},{"h":"VLF","segs":[{"k":"m","t":"(very-low frequency) tần số rất thấp."}],"k":"vlf"},{"h":"VLIW","segs":[{"k":"m","t":"(very-long instruction word) từ lệnh rất dài."}],"k":"vliw"},{"h":"VLM","segs":[{"k":"m","t":"1. very-large memory bộ nhớ rất lớn. 2. virtual loadable module modul ảo tải được."}],"k":"vlm"},{"h":"Vlog","segs":[{"k":"m","t":"A vlog or video blog is a blog (short for weblog) which uses video as the primary content; the video is linked to within a videoblog post and usually accompanied by supporting text, image, and additional meta data to provide context."},{"k":"m","t":"Blogs often take advantage of RSS for syndication to other web sites and aggregator software (RSS readers). With the inclusion of RSS Enclosures, which provides the ability to attach media files to a feed item/blog post, it is possible to bypass the mainstream intermediaries and openly distribute media to the masses via the Internet. Vlogs typically take advantage of this technological development, just as audioblogs have in recent years via the podcast boom."},{"k":"m","t":"Else:"},{"k":"m","t":"A video log. A journalistic video documentation on the web of a person's life, thoughts, opinions, and interests."},{"k":"m","t":"A vlog can be topical and timeless, instructional and entertaining. The main thread is trying to communicate on a personal level with your audience."},{"k":"m","t":"Zadi decided that setting up a daily vlog was the best way to show the sun setting in the west to her friends living in the east."},{"k":"m","t":"Else:"},{"k":"m","t":"The next in the evolution of narcissism. Taking the idea of a blog to the next level, the techno-elite have spawned another fad of the Internet. A video web log, or what was once referred to as an Internet television channel that consisted of programming created by an individual and posted online much like TV, is shortened as vlog. Vlogs continue the copy and paste culture that became prevalent with blogging."},{"k":"m","t":"\"Vlog. Someone must have tried really hard to come up with that.\""},{"k":"m","t":"Else:"},{"k":"m","t":"Simply put: a blog in video form, most likely found on www.youtube.com"},{"k":"m","t":"\"Did you see Tony the Tiger's vlog last night?\""},{"k":"m","t":"A sample vlog on youtube: http://www.youtube.com/highdiary"},{"k":"m","t":"Else:"},{"k":"m","t":"Talking to the camera like it's a person"},{"k":"m","t":"Typical vlog"},{"k":"m","t":"You: \"Hello world! How's your day today?\""},{"k":"m","t":"Camera:..."},{"k":"m","t":"Else:"},{"k":"m","t":"The definition created by Goostoff is a must. This entry is to introduce the alternative of O-log. The word is easier to differentiate from blog than vlog. It uses the same naming system as blog. It uses last letter retention. Spread it, it is the write name for the wrong action."},{"k":"dom","t":"conversaion is on the phone*"},{"k":"m","t":"Person1: I made anew vlog."},{"k":"m","t":"Person2: What did you write?"},{"k":"m","t":"Person1: No I talked, I said vlog."},{"k":"m","t":"Person2: So you made a O-log?"},{"k":"m","t":"Person1: Yah, sorry I was caught up in broken lingo."},{"k":"m","t":"Person2: No problem, I appreciate the warning, I'll add it to the list of O-log I will avoid."},{"k":"m","t":"Person1: Screw you, but *sigh* I understand."},{"k":"m","t":"Else:"},{"k":"m","t":"Vlog is a slang for vagina Or lack of penis,"},{"k":"m","t":"Damn I'd Tap that Vlog"},{"k":"m","t":"Else:"},{"k":"m","t":"Another word for blog. (Orignally was the word blog mispelled by hitting the V instead of the B on the keyboard. Many people kept typing it this way to be more original and recently has been catching on.)"},{"k":"m","t":"John: Wow man, tonight was pretty crazy."},{"k":"m","t":"James: For real. I'm gonna go home and write about it in my vlog."}],"k":"vlog"},{"h":"vlogger","segs":[{"k":"m","t":"Video Blogger-One who records a video blog."},{"k":"m","t":"A vlog or video blog is a blog (short for weblog) which uses video as the primary content"},{"k":"m","t":"I record a video diary and put it on the web-I'm a vlogger!"},{"k":"m","t":"Else:"},{"k":"m","t":"A person who records them self talking about their life and uploads it to various video sites. (Video Blog)"},{"k":"m","t":"Luke decided he had no talent so he became a Vlogger."}],"k":"vlogger"},{"h":"VLSI","segs":[{"k":"m","t":"độ tích hợp rất cao."}],"k":"vlsi"},{"h":"VLSI chip","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chip VLSI"}],"k":"vlsi chip"},{"h":"VLSI circuit","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạch VLSI"}],"k":"vlsi circuit"},{"h":"VLSIC","segs":[{"k":"m","t":"(very-large-scale integrated circuit) mạch tích hợp cỡ rất lớn."}],"k":"vlsic"},{"h":"VLT","segs":[{"k":"m","t":"(video lookup table) bảng dò tìm video."}],"k":"vlt"}]
+[
+  {"h": "vl", "segs": [{"k": "m", "t": "Viết tắt của variant reading"}], "k": "vl"},
+  {
+    "h": "VL-bus",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một tiêu chuẩn quy định các đặc trưng về các mặt điện, logic, vật lý, cơ khí các loại local bus tốc độ cao (một loại bus mở rộng nối trực tiếp với bộ xử lý trung tâm của máy tính). Tiêu chuẩn này được Hiệp hội Video quy định."
+      }
+    ],
+    "k": "vl-bus"
+  },
+  {
+    "h": "VLA",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "array of telescopes: a system of radio telescopes at the National Radio Astronomy Observatory, New Mexico. Full form Very Large Array"
+      }
+    ],
+    "k": "vla"
+  },
+  {
+    "h": "Vlach",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Vlachs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. member of Balkan people: a member of a southeastern European people who in the 13th century founded the principalities of Walachia và Moldavia, later merged to become Romania."
+      },
+      {
+        "k": "m",
+        "t": "Vlachs now live mainly in the mountainous regions of the Balkans, the Former Yugoslav Republic of Macedonia, Albania, hoặc northern Greece."
+      },
+      {
+        "k": "m",
+        "t": "2. Romance dialect: a language of the Romance family that is spoken in southeastern Europe, especially by the Vlach people. 300,000."
+      },
+      {"k": "m", "t": "-Vlach (tính từ)"}
+    ],
+    "k": "vlach"
+  },
+  {
+    "h": "Vladimir",
+    "segs": [
+      {"k": "m", "t": "city và capital of Vladimir Oblast in western Russia."},
+      {"k": "m", "t": "Dân số khoảng: 316,300 (2002)"}
+    ],
+    "k": "vladimir"
+  },
+  {
+    "h": "Vladivostok",
+    "segs": [
+      {
+        "k": "m",
+        "t": "city và major port in southeastern Russia, on Golden Horn Bay, an inlet of the Sea of Japan. It is the eastern terminus of the Trans-Siberian Railway."
+      },
+      {"k": "m", "t": "Dân số khoảng: 591,800 (2002)"}
+    ],
+    "k": "vladivostok"
+  },
+  {
+    "h": "VLAN (Virtual LAN)",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Nhiều công ty đi theo hướng mạng chuyển mạch, trong đó các máy tính được kết nối đến các cổng chuyên dụng trên các bộ chuyển mạch Ethernet, Gigabit Ethernet, ATM và các loại khác. Các bộ chuyển mạch ở các phòng được kết nối với bộ chuyển mạch của xí nghiệp và như thế toàn bộ xí nghiệp được kết nối với nhau. Có thể thiết kế mạng trong đó không có mạng con hoặc bộ định tuyến, và một máy tính bất kỳ có thể nối với một máy tính khác. Tuy nhiên, nhiều người quản lý ưu tiên cách phân chia vật lý bằng bộ định tuyến. Có thể quảng bá (broadcast) nội bộ và mức độ an toàn cao hơn."
+      },
+      {
+        "k": "m",
+        "t": "Các kỹ thuật mô tả trong phần này giải thích cách tạo các mạng LAN ảo (VLAN) để khai thác ưu điểm của các mạng con kết nối bằng bộ định tuyến. Mục đích đầu tiên là tổ chức các máy tính và người dùng thành các VLAN dựa trên địa chỉ phần cứng, địa chỉ cổng, địa chỉ IP và các kỹ thuật khác. Một khi đã tạo VLAN, các bộ định tuyến chuyển tiếp các gói dữ liệu (xem phần trái trên hình V-4). Ðể ý rằng mạng đang xét là mạng chuyển mạch phẳng, và các VLAN được định nghĩa như là lớp phủ trên mạng này. Bộ định tuyến kết nối các VLAN với nhau."
+      },
+      {
+        "k": "m",
+        "t": "Phần bên phải hình V-4 chỉ ra nguyên tắc quan trọng luôn phải ghi nhớ. Trong khi việc định tuyến khai thác ưu điểm của việc tạo mạng con trong đồ hình mạng chuyển mạch phẳng, các gói được định tuyến chậm hơn so với chuyển mạch. Ngay cả khi mạng được chia thành các VLAN, mạng vẫn có khả năng chuyển mạch các bó sang máy tính khác với tốc độ cao. Vì thế, những gì mà các nhà thiết kế đang cố gắng thông qua những giao thức khác nhau là kỹ thuật \"route first, then switch\" (trước tiên là định tuyến, sau đó chuyển mạch). Bộ định tuyến ban đầu được dùng để thiết lập con đường giữa hai hệ thống trong các VLAN khác nhau và bảo đảm tính an toàn khi kiểm tra hai hệ thống có thể kết nối với nhau. Một khi tuyến đường được thiết lập và đã kiểm tra an toàn, các bó được chuyển mạch bằng cơ cấu chuyển mạch tầng 2. Ðiều này tránh được việc di chuyển tất cả các bó (trừ một số ít bó đầu tiên) qua bộ định tuyến chậm chạp một khi nó đã làm xong việc."
+      },
+      {
+        "k": "m",
+        "t": "Kỹ thuật này thường được gọi là chuyển mạch tầng 3 hoặc định tuyến tầng 2, tùy theo cách nhìn và bạn đang nói chuyện với nhà cung cấp nào. Nếu IP là giao thức chính, khái niệm chuyển mạch IP được dùng. Có thể biết thêm chi tiết ở các mục \"IP over ATM\", \"IP Switching\", \"NHRP (Next Hop Resolution Protocol)\", và \"Switched Networks\"."
+      },
+      {"k": "m", "t": "Hình V-4 Các mạng con lôgíc VLAN phủ lên mạng vật lý"},
+      {
+        "k": "m",
+        "t": "Hình V-5 minh họa cách tổ chức các VLAN. Các bộ chuyển mạch trục chính và cục bộ cung cấp các chức năng khai báo cấu hình VLAN. Ðể ý rằng các bộ chuyển mạch vùng làm việc được định vị để kết nối các máy tính gần nhau."
+      },
+      {
+        "k": "m",
+        "t": "Người quản lý mạng bổ sung máy tính (hoặc người dùng) vào VLAN dựa trên địa chỉ cổng chuyển mạch, địa chỉ phần cứng (địa chỉ MAC hoặc địa chỉ điều khiển của card mạng), địa chỉ IP, hoặc các phương pháp khác. Trên hình V-5, các VLAN được vẽ phía trên mạng vật lý. Khi máy tính B truyền đi, nó gởi một thông điệp đến tất cả các máy tính trong Marketing VLAN, gồm các máy E, G, H và J. Nếu máy tính B cần gởi đến người dùng trong Research VLAN, thông điện này cần phải được định tuyến. Ðiều này được thực hiện bằng chức năng định tuyến trong bộ chuyển mạch đường trục hoặc bằng bộ định tuyến riêng."
+      },
+      {"k": "m", "t": "Hình V-5. Các VLAN phủ lên mạng vật lý"},
+      {
+        "k": "m",
+        "t": "VLAN rất quan trọng trong các tổ chức ở đó người dùng hay chuyển từ nhóm này sang nhóm khác hoặc khi những thành viên cùng nhóm ở những vị trí khác nhau. VLAN làm cho các thành viên của các nhóm phân tán có thể chia sẻ tài nguyên chung và thuộc cùng một vùng phát thanh. Nói khác đi, lưu thông dữ liệu tạo bởi người dùng trong một nhóm cần được ràng buộc trong nhóm đó. Nếu người dùng di chuyển nhiều, người quản lý mạng có thể dùng kỹ thuật VLAN để giữ họ trong một nhóm phát thanh, không cần biết họ kết nối vào mạng từ đâu."
+      },
+      {"k": "m", "t": "Các phương pháp định cấu hình cho VLAN"},
+      {
+        "k": "m",
+        "t": "Kiến trúc chuyển mạch rất lý tưởng để tạo các VLAN. Những VLAN đầu tiên được thực hiện thủ công. Sau đó, khi công nghệ này được hiểu rõ hơn và phổ biến hơn, nhiều kỹ thuật cao cấp được sử dụng. Phần này mô tả những kỹ thuật khác nhau dùng để xây dựng VLAN. Nhiều nhà cung cấp đang cài đặt một số hoặc tất cả những kỹ thuật này. Ví dụ, các phương pháp cao cấp dựa trên giao thức IP, nhưng các mạng sử dụng cả hai giao thức IP và giao thức bất định tuyến như NetBIOS sẽ cần dùng phương pháp dựa trên MAC, điều này sẽ được mô tả trong phần tiếp theo, ngoài các phương pháp IP."
+      },
+      {
+        "k": "m",
+        "t": "Các phương pháp thiết đặt cổng Ðây thực sự là cách thiết đặt các mạng LAN riêng lẻ vào cùng một hộp. Các LAN tạo được không phải là VLAN vì chúng được thiết đặt bởi những cấu hình đi dây khác nhau. Người quản lý mạng liên kết các cổng riêng biệt vào hub hoặc thiết bị chuyển mạch để tạo từng mạng LAN riêng lẻ. Ví dụ, các cổng 2, 4, 5, và 8 được gộp thành nhóm LAN1 và các cổng 1, 3, 6, 9, và 10 được gộp thành nhóm LAN2. Hai thiết kế bản mạch (backplane) được dùng trong các thiết bị hub và bộ chuyển mạch: bản mạch multibus và TDM (time division multiplexing). Với thiết kế multibus, mỗi bus biểu diễn một mạng LAN và các cổng được liên kết đến một bus cụ thể. Trong thiết kế TDM, mỗi LAN làm chủ một khoảng thời gian nhất định trong một bus. Bởi vì LAN được cấu hình bên trong hub hoặc bộ chuyển mạch, các hub hoặc bộ chuyển mạch không thể làm cầu nối một LAN được khai báo cấu hình trong một thiết bị với LAN được khai báo cấu hình trong một thiết bị khác."
+      },
+      {
+        "k": "m",
+        "t": "VLAN dựa trên MAC Ðịa chỉ MAC là địa chỉ thiết đặt sẵn trong card mạng. Người điều hành mạng tạo một bảng xác định những địa chỉ MAC nào đi cùng với VLAN nào. So sánh với phương pháp thiết đặt cổng, phương pháp này cung cấp khả năng thực sự của VLAN vì thành viên trong VLAN không bị gắn bó với một cổng cụ thể. Khai báo cấu hình được thực hiện trong phần mềm và trong vài trường hợp một máy tính có thể thuộc vào hai hoặc nhiều VLAN. Ngoài ra, nếu một máy tính được chuyển sang vị trí khác, nó vẫn thuộc cùng VLAN bởi vì địa chỉ MAC di chuyển cùng với nó."
+      },
+      {
+        "k": "m",
+        "t": "VLAN tầng 3 Loại VLAN này dùng thông tin ở tầng 3 để xây dựng VLAN dựa trên các địa chỉ giao thức liên mạng.Ví dụ, trên hình V-5, tất cả máy tính trong VLAM Marketing có địa chỉ IP 100.200.1.x (trong đó x là một số cụ thể cho mỗi máy trạm), trong khi các máy trong VLAN Research có địa chỉ IP 100.200.2.x. một bộ chuyển mạch tầng 3 có khả năng xem địa chỉ mạng trong khung và chuyển tiếp khung này dựa trên thông tin trong bảng, bảng này so sánh địa chỉ mạng với thành viên trong VLAN cụ te. Tuy nhiên, việc nhìn vào địa chỉ tầng 3 có thể gây ra vấn đề về vận hành. Giống như VLAN dựa trên MAC, việc di chuyển là dễ dàng vì cổng của các máy trạm không xác định thành viên của VLAN. Tiếp cận tầng 3 có thể mở rộng để chứa nhiều chức năng định tuyến ngay trong bộ chuyển mạch, và đây là điều mà nhiều nhà cung cấp đã thực hiện. Xem mục \"Switched Networks\" để biết chi tiết về kiến trúc của những bộ chuyển mạch này."
+      },
+      {
+        "k": "m",
+        "t": "IP multicast VLANs Trong tiếp cận này, VLAN được định nghĩa bởi thành viên trong một nhóm IP multicast. IP multicast là phương pháp để một máy trạm truyền đến một số nhưng không phải là tất cả máy trạm trên mạng. Các máy trạm nhận được gọi là multicast group. Ðây là cách truyền một-đến nhiều được hỗ trợ bởi các chuẩn Internet. Multicast được thiết đặt bằng cách dùng địa chỉ IP lớp D. Ðể hỗ trợ chức năng này, các bộ định tuyến phải bật (enable) multicast. Multicasting là một quá trình hai chiều. Các bộ định tuyến thiết đặt multicast giữa chúng, nhưng một bộ định tuyến chỉ thực hiện multicast nếu máy chủ nào đó trên mạng yêu cầu làm thành viên của nhóm multicast. Các bộ định tuyến không tham gia multicast thì không liên quan, để tránh lưu thông không cần thiết. Multicasting là động theo nghĩa là các máy trạm có thể tham gia và loại khỏi ra nhóm (multicast) bất cứ lúc nào. Dùng chức năng này để tạo các VLAN là rất hữu ích và mềm dẻo. Multicasting cũng cho phép VLAN mở rộng các bộ định tuyến dựa trên WAN. Chuẩn IEEE 802.1p được gọi là \"Standard for Traffic Class and Dynamic Multicast Filtering Services in Bridged Local Area Networks\" xác định việc xây dựng các VLAN bằng các giao thức multicast."
+      },
+      {
+        "k": "m",
+        "t": "Rules-based VLANs Một số nhà cung cấp cài đặt kỹ thuật VLAN dựa trên luật, cho phép người quản lý tạo VLAN dựa trên thông tin trong các bó mà bộ chuyển mạch nhìn vào và đánh giá. Phương pháp này đòi hỏi tạo ra các luật trong phần mềm để xác định thành viên VLAN. Trong khi kỹ thuật này làm tăng tính mềm dẻo, việc thiết đặt và bảo trì có thể phức tạp. Ví dụ, VLAN có thể được mô tả bởi các luật dưới đây:"
+      },
+      {"k": "m", "t": "Tất cả các máy trạm với địa chỉ subnet 200.100.10.x"},
+      {"k": "m", "t": "trừ những địa chỉ IP: 200.100.10.5, 200.100.10.6"},
+      {"k": "m", "t": "trừ những địa chỉ MAC: 06-1A-0A-05-3C-02-04"},
+      {
+        "k": "m",
+        "t": "Ghi chú: IEEE 802.1q là đặc tả VLAN cho phép các bộ chuyển mạch trao đổi thông tin giữa chúng về VLAN. Nó giúp các nhà cung cấp thiết kế các bộ chuyển mạch hỗ trợ VLAN có khả năng tương tác (interoperability). Chuẩn này định nghĩa cách thức đánh dấu các khung để xác định chúng thuộc vào VLAN nào. Các bộ chuyển mạch dùng thông tin này để chuyển tiếp các khung."
+      },
+      {"k": "m", "t": "Các VLAN và vấn đề định tuyến"},
+      {
+        "k": "m",
+        "t": "Ðịnh tuyến (routing) là thành phần cơ bản trong môi trường VLAN. Ðây là cách để mỗi VLAN bảo trì tính tự trị và bản chất phát thanh trong khi chuyển các gói dữ liệu giữa các VLAN. Ðịnh tuyến cho phép người quản lý đưa vào các chính sách an toàn, chẳng hạn như kỹ thuật lọc gói dữ liệu (xem mục \"Firewall\"). Một mạng được thiết kế tối ưu sẽ có các VLAN được cấu hình để giảm sự định tuyến giữa các VLAN càng nhiều càng tốt."
+      },
+      {
+        "k": "m",
+        "t": "Các cấu hình VLAN dùng chỉ tầng 2 (các VLAN thiết đặt theo cổng và các VLAN dựa trên MAC) đòi hỏi ít nhất một cổng trong mỗi VLAN được thiết đặt riêng để cung cấp kết nối VLAN-router. Trong môi trờng mạng chuyển mạch, Thường người ta không chấp nhận dùng các bộ định tuyến đơn lẻ vì có sự chậm trễ cố hữu gây ra bởi thao tác lưu trữ-và-chuyển tiếp của chúng."
+      },
+      {
+        "k": "m",
+        "t": "Các VLAN được xây dựng trên mạng chuyển mạch là mềm dẻo hơn. Ðặc biệt, các bộ chuyển mạch thường khôn khéo chuyển mạch các gói ở tốc độ cao giữa các VLAN một khi bộ định tuyến định nghĩa xong đường dẫn (và làm trễ việc chuyển thông tin đến bộ chuyển mạch). Trong vài trường hợp, bản thân bộ chuyển mạch kiểm tra bảng định tuyến để xác định cần phải làm gì với một bó dữ liệu. Bảng định tuyến này có thể xây dựng bằng bộ định tuyến ngoài hoặc máy chủ định tuyến (route server)."
+      },
+      {
+        "k": "m",
+        "t": "Nhiều kỹ thuật định tuyến được phát triển trong môi trường ATM. Xem mục \"IP over ATM\" và \"IP Switching\" để biết chi tiết. Diễn đàn ATM đã phát triển MPOA (Multiprotocol over ATM), chuyển việc định tuyến đến một máy chủ đặc biệt goị là máy chủ định tuyến (route server). Các khung trong cùng VLAN được chuyển mạch ở tầng 2. Ðể truyền các khung đến các VLAN khác, đờng dẫn định tuyến nhận được từ máy chủ định tuyến, mà trước đó đã tạo đường dẫn logíc qua mạng. Ðường dẫn này được chuyển đổi sang mạch ảo để truyền dữ liệu. Xem mục \"MPOA (Multiprotocol over ATM)\" để biết thêm chi tiết."
+      },
+      {
+        "k": "m",
+        "t": "IEEE đang tìm cách đơn giản hóa cấu hình và quản lý VLAN bằng chuẩn 802.1q, chuẩn này đặc tả cách xác định và thiết đặt VLAN trong các mạng dựa trên khung, chẳng hạn như Ethernet và Token ring. Chuẩn này mở rộng khuôn dạng của khung bằng cách bổ sung các trường để liên kết khung với một VLAN cụ thể. Chuẩn này thực chất là một sơ đồ đánh dấu."
+      }
+    ],
+    "k": "vlan (virtual lan)"
+  },
+  {
+    "h": "Vlasov equation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương trình Vlasov"}],
+    "k": "vlasov equation"
+  },
+  {
+    "h": "VLCC",
+    "segs": [{"k": "m", "t": "Viết tắt của energy very large crude carrier"}],
+    "k": "vlcc"
+  },
+  {
+    "h": "VLDB",
+    "segs": [{"k": "m", "t": "(very large database) cơ sở dữ liệu rất lớn."}],
+    "k": "vldb"
+  },
+  {
+    "h": "VLDL",
+    "segs": [{"k": "m", "t": "Viết tắt của medicine very low density lipoprotein"}],
+    "k": "vldl"
+  },
+  {"h": "VLF", "segs": [{"k": "m", "t": "(very-low frequency) tần số rất thấp."}], "k": "vlf"},
+  {
+    "h": "VLIW",
+    "segs": [{"k": "m", "t": "(very-long instruction word) từ lệnh rất dài."}],
+    "k": "vliw"
+  },
+  {
+    "h": "VLM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. very-large memory bộ nhớ rất lớn. 2. virtual loadable module modul ảo tải được."
+      }
+    ],
+    "k": "vlm"
+  },
+  {
+    "h": "Vlog",
+    "segs": [
+      {
+        "k": "m",
+        "t": "A vlog or video blog is a blog (short for weblog) which uses video as the primary content; the video is linked to within a videoblog post and usually accompanied by supporting text, image, and additional meta data to provide context."
+      },
+      {
+        "k": "m",
+        "t": "Blogs often take advantage of RSS for syndication to other web sites and aggregator software (RSS readers). With the inclusion of RSS Enclosures, which provides the ability to attach media files to a feed item/blog post, it is possible to bypass the mainstream intermediaries and openly distribute media to the masses via the Internet. Vlogs typically take advantage of this technological development, just as audioblogs have in recent years via the podcast boom."
+      },
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "A video log. A journalistic video documentation on the web of a person's life, thoughts, opinions, and interests."
+      },
+      {
+        "k": "m",
+        "t": "A vlog can be topical and timeless, instructional and entertaining. The main thread is trying to communicate on a personal level with your audience."
+      },
+      {
+        "k": "m",
+        "t": "Zadi decided that setting up a daily vlog was the best way to show the sun setting in the west to her friends living in the east."
+      },
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "The next in the evolution of narcissism. Taking the idea of a blog to the next level, the techno-elite have spawned another fad of the Internet. A video web log, or what was once referred to as an Internet television channel that consisted of programming created by an individual and posted online much like TV, is shortened as vlog. Vlogs continue the copy and paste culture that became prevalent with blogging."
+      },
+      {"k": "m", "t": "\"Vlog. Someone must have tried really hard to come up with that.\""},
+      {"k": "m", "t": "Else:"},
+      {"k": "m", "t": "Simply put: a blog in video form, most likely found on www.youtube.com"},
+      {"k": "m", "t": "\"Did you see Tony the Tiger's vlog last night?\""},
+      {"k": "m", "t": "A sample vlog on youtube: http://www.youtube.com/highdiary"},
+      {"k": "m", "t": "Else:"},
+      {"k": "m", "t": "Talking to the camera like it's a person"},
+      {"k": "m", "t": "Typical vlog"},
+      {"k": "m", "t": "You: \"Hello world! How's your day today?\""},
+      {"k": "m", "t": "Camera:..."},
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "The definition created by Goostoff is a must. This entry is to introduce the alternative of O-log. The word is easier to differentiate from blog than vlog. It uses the same naming system as blog. It uses last letter retention. Spread it, it is the write name for the wrong action."
+      },
+      {"k": "dom", "t": "conversaion is on the phone*"},
+      {"k": "m", "t": "Person1: I made anew vlog."},
+      {"k": "m", "t": "Person2: What did you write?"},
+      {"k": "m", "t": "Person1: No I talked, I said vlog."},
+      {"k": "m", "t": "Person2: So you made a O-log?"},
+      {"k": "m", "t": "Person1: Yah, sorry I was caught up in broken lingo."},
+      {
+        "k": "m",
+        "t": "Person2: No problem, I appreciate the warning, I'll add it to the list of O-log I will avoid."
+      },
+      {"k": "m", "t": "Person1: Screw you, but *sigh* I understand."},
+      {"k": "m", "t": "Else:"},
+      {"k": "m", "t": "Vlog is a slang for vagina Or lack of penis,"},
+      {"k": "m", "t": "Damn I'd Tap that Vlog"},
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "Another word for blog. (Orignally was the word blog mispelled by hitting the V instead of the B on the keyboard. Many people kept typing it this way to be more original and recently has been catching on.)"
+      },
+      {"k": "m", "t": "John: Wow man, tonight was pretty crazy."},
+      {"k": "m", "t": "James: For real. I'm gonna go home and write about it in my vlog."}
+    ],
+    "k": "vlog"
+  },
+  {
+    "h": "vlogger",
+    "segs": [
+      {"k": "m", "t": "Video Blogger-One who records a video blog."},
+      {
+        "k": "m",
+        "t": "A vlog or video blog is a blog (short for weblog) which uses video as the primary content"
+      },
+      {"k": "m", "t": "I record a video diary and put it on the web-I'm a vlogger!"},
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "A person who records them self talking about their life and uploads it to various video sites. (Video Blog)"
+      },
+      {"k": "m", "t": "Luke decided he had no talent so he became a Vlogger."}
+    ],
+    "k": "vlogger"
+  },
+  {"h": "VLSI", "segs": [{"k": "m", "t": "độ tích hợp rất cao."}], "k": "vlsi"},
+  {
+    "h": "VLSI chip",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chip VLSI"}],
+    "k": "vlsi chip"
+  },
+  {
+    "h": "VLSI circuit",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạch VLSI"}],
+    "k": "vlsi circuit"
+  },
+  {
+    "h": "VLSIC",
+    "segs": [{"k": "m", "t": "(very-large-scale integrated circuit) mạch tích hợp cỡ rất lớn."}],
+    "k": "vlsic"
+  },
+  {"h": "VLT", "segs": [{"k": "m", "t": "(video lookup table) bảng dò tìm video."}], "k": "vlt"}
+]

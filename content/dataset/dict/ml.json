@@ -1,1 +1,81 @@
-[{"h":"ml","segs":[{"k":"m","t":"(mililiter) mililít, một phần ngàn lít."}],"k":"ml"},{"h":"ml (mililiter)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"một phần ngàn lít"}],"k":"ml (mililiter)"},{"h":"ml (millilit)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mililít"}],"k":"ml (millilit)"},{"h":"MLA","segs":[{"k":"m","t":"hoặc M.L.A."},{"k":"m","t":"abbreviation"},{"k":"m","t":"1. education Master of Landscape Architecture"},{"k":"m","t":"2. language Modern Language Association"}],"k":"mla"},{"h":"MLCA","segs":[{"k":"m","t":"(multiline communication adapter) bộ điều hợp truyền thông đa tuyến."}],"k":"mlca"},{"h":"MLD","segs":[{"k":"m","t":"liều gây chết tối thiểu: lượng chất độc nhỏ nhất có thể gây ra tử vong"}],"k":"mld"},{"h":"MLF","segs":[{"k":"m","t":"Viết tắt của military multilateral (nuclear) force"}],"k":"mlf"},{"h":"MLG","segs":[{"k":"m","t":"Viết tắt của language Middle Low German"}],"k":"mlg"},{"h":"mlik feed","segs":[{"k":"m","t":"thức ăn từ phế phẩm nhà máy bột."}],"k":"mlik feed"},{"h":"mlitt","segs":[{"k":"m","t":"(tắt) thạc sĩ văn chương ("},{"k":"ex","t":"Master of Letter","vi":")."}],"ipa":",em'lit","k":"mlitt"},{"h":"MLL","segs":[{"k":"m","t":"(medium-level language) ngôn ngữ bậc trung."}],"k":"mll"},{"h":"Mlle.","segs":[{"k":"m","t":"Viết tắt của Mademoiselle"}],"k":"mlle."},{"h":"Mlles.","segs":[{"k":"m","t":"Viết tắt của Mesdemoiselles"}],"k":"mlles."},{"h":"MLR","segs":[{"k":"m","t":"Viết tắt của 1. U.K. minimum lending rate"},{"k":"m","t":"2. military multiple-launch rockets"}],"k":"mlr"},{"h":"MLS","segs":[{"k":"m","t":"Viết tắt của 1. education Master of Library Science"},{"k":"m","t":"2. Multiple Listing Service"}],"k":"mls"},{"h":"MLTG","segs":[{"k":"m","t":"(multilink transmission group) nhóm truyền đa liên kết."}],"k":"mltg"}]
+[
+  {"h": "ml", "segs": [{"k": "m", "t": "(mililiter) mililít, một phần ngàn lít."}], "k": "ml"},
+  {
+    "h": "ml (mililiter)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "một phần ngàn lít"}],
+    "k": "ml (mililiter)"
+  },
+  {
+    "h": "ml (millilit)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mililít"}],
+    "k": "ml (millilit)"
+  },
+  {
+    "h": "MLA",
+    "segs": [
+      {"k": "m", "t": "hoặc M.L.A."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "1. education Master of Landscape Architecture"},
+      {"k": "m", "t": "2. language Modern Language Association"}
+    ],
+    "k": "mla"
+  },
+  {
+    "h": "MLCA",
+    "segs": [
+      {"k": "m", "t": "(multiline communication adapter) bộ điều hợp truyền thông đa tuyến."}
+    ],
+    "k": "mlca"
+  },
+  {
+    "h": "MLD",
+    "segs": [
+      {"k": "m", "t": "liều gây chết tối thiểu: lượng chất độc nhỏ nhất có thể gây ra tử vong"}
+    ],
+    "k": "mld"
+  },
+  {
+    "h": "MLF",
+    "segs": [{"k": "m", "t": "Viết tắt của military multilateral (nuclear) force"}],
+    "k": "mlf"
+  },
+  {"h": "MLG", "segs": [{"k": "m", "t": "Viết tắt của language Middle Low German"}], "k": "mlg"},
+  {
+    "h": "mlik feed",
+    "segs": [{"k": "m", "t": "thức ăn từ phế phẩm nhà máy bột."}],
+    "k": "mlik feed"
+  },
+  {
+    "h": "mlitt",
+    "segs": [
+      {"k": "m", "t": "(tắt) thạc sĩ văn chương ("},
+      {"k": "ex", "t": "Master of Letter", "vi": ")."}
+    ],
+    "ipa": ",em'lit",
+    "k": "mlitt"
+  },
+  {"h": "MLL", "segs": [{"k": "m", "t": "(medium-level language) ngôn ngữ bậc trung."}], "k": "mll"},
+  {"h": "Mlle.", "segs": [{"k": "m", "t": "Viết tắt của Mademoiselle"}], "k": "mlle."},
+  {"h": "Mlles.", "segs": [{"k": "m", "t": "Viết tắt của Mesdemoiselles"}], "k": "mlles."},
+  {
+    "h": "MLR",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. U.K. minimum lending rate"},
+      {"k": "m", "t": "2. military multiple-launch rockets"}
+    ],
+    "k": "mlr"
+  },
+  {
+    "h": "MLS",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. education Master of Library Science"},
+      {"k": "m", "t": "2. Multiple Listing Service"}
+    ],
+    "k": "mls"
+  },
+  {
+    "h": "MLTG",
+    "segs": [{"k": "m", "t": "(multilink transmission group) nhóm truyền đa liên kết."}],
+    "k": "mltg"
+  }
+]

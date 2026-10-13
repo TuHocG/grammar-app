@@ -1,1 +1,210 @@
-[{"h":"MB","segs":[{"k":"m","t":"cử nhân y khoa ("},{"k":"ex","t":"Bachelor of Medicine) mêgabai (megabyte","vi":")."}],"ipa":",em'bi:","k":"mb"},{"h":"MBA","segs":[{"k":"m","t":"(tắt) cử nhân quản trị kinh doanh ("},{"k":"ex","t":"Master of Business Administration","vi":")."}],"ipa":",em bi:'ei","k":"mba"},{"h":"Mbabane","segs":[{"k":"m","t":"capital of Swaziland, located in the western part of the country near the border with South Africa."},{"k":"m","t":"Dân số khoảng: 73,000 (thống kê năm 2000)"}],"k":"mbabane"},{"h":"mbalax","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"blend of percussion and praise-singing: a blend of Senegal's traditional percussion music và praise-singing with modern Afro-Cuban arrangements"}],"k":"mbalax"},{"h":"mbamba","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"South Africa illicit alcohol: a strong illicit alcoholic drink usually brewed from yeast, brown sugar, water, và bread (thông tục)"}],"k":"mbamba"},{"h":"mbaqanga","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"South Africa S African music: a rhythmic form of South African popular music"}],"k":"mbaqanga"},{"h":"mbarkatlon deck","segs":[{"k":"m","t":"boong nhận khách."}],"k":"mbarkatlon deck"},{"h":"MBE","segs":[{"k":"m","t":"hiệp sĩ đế chế Anh"},{"k":"ex","t":"Member (of the Order) of the British Empire","vi":")."}],"ipa":",em bi: 'i:","k":"mbe"},{"h":"MBIA","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"organization insuring bonds: an organization that provides insurance for bonds that cities issue. Full form Municipal Bond Insurance Association"}],"k":"mbia"},{"h":"mbira","segs":[{"k":"m","t":"(số nhiều mbiras)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"African musical instrument: an African musical instrument with a resonating box, often a hollow gourd, with tuned attached strips of wood hoặc metal that are plucked"}],"k":"mbira"},{"h":"MBM","segs":[{"k":"m","t":"(magnetic bubble memory) bộ nhớ bọt từ."}],"k":"mbm"},{"h":"MBO","segs":[{"k":"m","t":"vt. management buyout một nhóm, một ban chuyên về điều khiển công việc trả tiền (cho ai) để họ bỏ chức vị, bỏ tài sản (mua lại phần hùn, cổ phần)"}],"k":"mbo"},{"h":"MBone (Multicast Backbone)","segs":[{"k":"m","t":"Ðường trục Multicast"},{"k":"m","t":"MBone là một hệ thống multicast để truyền thông điệp đến nhiều nơi nhận trên Internet. Unicast là phương pháp truyền thống để truyền các gói dữ liệu trên Internet. Với unicast, một gói IP chỉ được truyền đến một đích đến trong khi multicast gởi bản sao của thông điệp đến từng thành viên của nhóm. Multicast hiệu quả hơn unicast trong trường hợp gởi một thông điệp đến nhiều người nhận."},{"k":"m","t":"Nguồn gốc của MBone là một thí nghiệm của IETF (Internet Engineering Task Force) về truyền thông tiếng nói (audiocast) - âm thanh được truyền đến nhều điểm (multicast), trực tiếp từ cuộc họp của IETF đến một nhóm các thành viên trên khắp thế giới. Từ đó, MBone đã phát triển từ 40 mạng con ở 4 nước khác nhau vào năm 1992 đến hơn 3400 mạng con ở hơn 25 nước vào năm 1997. Các kỹ thuật và dịch vụ mới dựa trên multicast đang xuất hiện hàng ngày trên các phương tiện thông tin."},{"k":"m","t":"Hiện nay, MBone có mặt trên Internet nhờ kỹ thuật mạng ảo (Virtual Network) bởi vì nhiều router trên Internet không hỗ trợ truyền thông IP nhiều điểm (IP multicast). Lý do của việc áp dụng mạng ảo là rất rõ ràng nhưng cần nhớ rằng khi mọi router trên Internet hỗ trợ IP multicast thì phương pháp mạng ảo không còn cần thiết nữa."},{"k":"m","t":"Mọi router trên Internet có thể quản lý những gói IP unicast tiêu chuẩn. Chúng ta quy ước gọi chúng là urouter. Tuy nhiên, ngày càng nhiều các hệ thống máy tính trên Internet là IP cho phép multicast. Những hệ thống này thường được gọi là mrouter, là các máy tính chạy hệ điều hành hỗ trợ các phần mềm IP multicast routing."},{"k":"m","t":"Hiện nay, Internet vẫn ở tình trạng có các \"ốc đảo\" mrouter và urouter, như minh họa trong hình M-6. Việc gởi một gói IP multicast từ một mrouter sang một mrouter khác có thể phải đi qua qua các urouter không quản lý được những gói IP multicast này. Ðể giải quyết vấn đề, các gói multicast bao bọc thành những gói IP unicast khi đi qua urouter."},{"k":"m","t":"Hình M-6 Hiện nay, Mbone là một mạng ảo trên Internet"},{"k":"m","t":"Việc bao bọc những gói multicast vào trong các gói IP unicast là một kỹ thuật đường hầm (tunnel) cần thiết để tạo ra kết nối điểm-điểm ảo giữa các mrouter. Một header chứa thông tin về các địa chỉ IP unicast của các mrouter ở đầu kia của kênh được bổ sung vào gói unicast mới hình thành từ các gói multicast. Các \"ốc đảo\" (và những kênh kết nối chúng) tạo thành mạng ảo bên trên Internet, như minh họa trong hình M-6."},{"k":"m","t":"Ðồ hình của MBone gồm có một hệ thống trục đường hầm tạo thành mạng lưới trong từng quốc gia. Mạng khu vực áp dụng đồ hình sao với các kênh kết nối đến từng thành viên MBone trong vùng. Có các kênh kết nối giữa các quốc gia bao gồm các kênh bắt cầu qua Ðại Tây Dương và Thái Bình Dương. MBone hiện thực một hệ thống định lượng, ấn định trọng số cho từng kênh. Hệ thống định lượng này giúp tối thiểu hóa tình trạng quá tải bằng cách giữ các gói ở phạm vi cục bộ của chúng."},{"k":"m","t":"GHI CHUì: Nhiều site trên Internet cung cấp các bản đồ và mô hình hóa ba chiều hệ thống MBone. Xem danh sách ở cuối phần này."},{"k":"m","t":"MBone là một hệ thống hợp tác. Khi có người tham gia vào mạng khu vực thì họ gởi một yêu cầu lên danh sách thư của MBone (ở địa chỉ http://www.mbone.com). Những thành viên khác của MBone ở lân cận với mạng khu vực sẽ làm việc kết hợp thiết lập các kênh cho mạng khu vực mới. Nếu một tổ chức muốn bổ sung mạng của họ vào MBone thì họ nên liên lạc với người quản lý mạng khu vực MBone."},{"k":"m","t":"Một người sử dụng cần có kết nối vận tốc cao mới tận dụng được những gì MBone có thể cung cấp, thông thường là 128 kbit/giây (ISDN) hay lớn hơn. Người sử dụng cũng phải có ISP (nhà cung cấp dịch vụ Internet) hỗ trợ multicast và kết nối MBone. Những phần mềm cần thiết cho hệ thống của người sử dụng bao gồm các ứng dụng multicast và giao thức multicast như IGMP (Internet Group Management Protocol). IGMP được thảo luận ở mục \"Multicasting\". Bạn cũng có thể đọc phần này để biết cách thức một gói multicast được phân phối đến nhiều nơi nhận trên Internet. Nhớ rằng kỹ thuật multicast cũng có thể được áp dụng trong những mạng nội bộ và được dùng trong những ứng dụng có tính hợp tác, hỗ trợ các nhóm trong một tổ chức."},{"k":"m","t":"Từ mục liên quan"},{"k":"m","t":"Internet; IP; Multicasting; RSVP (Resource Reservation Protocol); và RTP (Real-time Transport Protocol)"},{"k":"m","t":"thông tin trên Internet"},{"k":"m","t":"IETF MBone Deployment page http://www.ietf.org/html.charters/mboned-charter.html"},{"k":"m","t":"IETF drafts http://www.internic.net/ds/-dsintdrafts.html"},{"k":"m","t":"ICAST's MBone information http://www.mbone.com"},{"k":"m","t":"MBone FAQ http://www.mbone.com/mbone/mbone.faq.html"},{"k":"m","t":"MBone links http://www.mbone.com/mbone/misc.html"},{"k":"m","t":"Visualization of the MBone http://www.nlanr.net/Viz/Mbone"},{"k":"m","t":"3D pictures"},{"k":"m","t":"Major MBone Routers and Links map ftp://ftp.isi.edu/mbone/mbone-topology.gif"},{"k":"m","t":"Map of the MBone http://www.cs.berkeley.edu/~elan/mbone.html"},{"k":"m","t":"Bryan O'Sullivant's Internet Multicast Backbone page"},{"k":"m","t":"http://www.ganges.cs.tcd.ie/4ba2/multicast/bryan"},{"k":"m","t":"University of Cambridge http://www.cl.cam.ac.uk/mbone"},{"k":"m","t":"MBone page"},{"k":"m","t":"MBone Information page http://www.mojo.ots.utexas.edu-/netinfo/mbone.html"},{"k":"m","t":"MBONE Delpoyment Working Group (MBONED)"},{"k":"m","t":"http://ns.uoregon.edu/~meyer/MBONED."}],"k":"mbone (multicast backbone)"},{"h":"MBps","segs":[{"k":"m","t":"(megabytes per second) số megabyte trong một giây."}],"k":"mbps"},{"h":"MBS","segs":[{"k":"m","t":"(mobile broadband services) dịch vụ dải rộng đi động."}],"k":"mbs"},{"h":"Mbuji-Mayi","segs":[{"k":"m","t":"city in south central Democratic Republic of the Congo, the capital of Kasai-Oriental Region."},{"k":"m","t":"Dân số khoảng: 806,475 (thống kê năm 1994)"}],"k":"mbuji-mayi"},{"h":"Mbyte","segs":[{"k":"m","t":"(megabyte) Megabyte, bằng 2 lũy thừa 20 (hoặc 1.048.576 byte.)"}],"k":"mbyte"}]
+[
+  {
+    "h": "MB",
+    "segs": [
+      {"k": "m", "t": "cử nhân y khoa ("},
+      {"k": "ex", "t": "Bachelor of Medicine) mêgabai (megabyte", "vi": ")."}
+    ],
+    "ipa": ",em'bi:",
+    "k": "mb"
+  },
+  {
+    "h": "MBA",
+    "segs": [
+      {"k": "m", "t": "(tắt) cử nhân quản trị kinh doanh ("},
+      {"k": "ex", "t": "Master of Business Administration", "vi": ")."}
+    ],
+    "ipa": ",em bi:'ei",
+    "k": "mba"
+  },
+  {
+    "h": "Mbabane",
+    "segs": [
+      {
+        "k": "m",
+        "t": "capital of Swaziland, located in the western part of the country near the border with South Africa."
+      },
+      {"k": "m", "t": "Dân số khoảng: 73,000 (thống kê năm 2000)"}
+    ],
+    "k": "mbabane"
+  },
+  {
+    "h": "mbalax",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "blend of percussion and praise-singing: a blend of Senegal's traditional percussion music và praise-singing with modern Afro-Cuban arrangements"
+      }
+    ],
+    "k": "mbalax"
+  },
+  {
+    "h": "mbamba",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "South Africa illicit alcohol: a strong illicit alcoholic drink usually brewed from yeast, brown sugar, water, và bread (thông tục)"
+      }
+    ],
+    "k": "mbamba"
+  },
+  {
+    "h": "mbaqanga",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "South Africa S African music: a rhythmic form of South African popular music"
+      }
+    ],
+    "k": "mbaqanga"
+  },
+  {"h": "mbarkatlon deck", "segs": [{"k": "m", "t": "boong nhận khách."}], "k": "mbarkatlon deck"},
+  {
+    "h": "MBE",
+    "segs": [
+      {"k": "m", "t": "hiệp sĩ đế chế Anh"},
+      {"k": "ex", "t": "Member (of the Order) of the British Empire", "vi": ")."}
+    ],
+    "ipa": ",em bi: 'i:",
+    "k": "mbe"
+  },
+  {
+    "h": "MBIA",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "organization insuring bonds: an organization that provides insurance for bonds that cities issue. Full form Municipal Bond Insurance Association"
+      }
+    ],
+    "k": "mbia"
+  },
+  {
+    "h": "mbira",
+    "segs": [
+      {"k": "m", "t": "(số nhiều mbiras)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "African musical instrument: an African musical instrument with a resonating box, often a hollow gourd, with tuned attached strips of wood hoặc metal that are plucked"
+      }
+    ],
+    "k": "mbira"
+  },
+  {"h": "MBM", "segs": [{"k": "m", "t": "(magnetic bubble memory) bộ nhớ bọt từ."}], "k": "mbm"},
+  {
+    "h": "MBO",
+    "segs": [
+      {
+        "k": "m",
+        "t": "vt. management buyout một nhóm, một ban chuyên về điều khiển công việc trả tiền (cho ai) để họ bỏ chức vị, bỏ tài sản (mua lại phần hùn, cổ phần)"
+      }
+    ],
+    "k": "mbo"
+  },
+  {
+    "h": "MBone (Multicast Backbone)",
+    "segs": [
+      {"k": "m", "t": "Ðường trục Multicast"},
+      {
+        "k": "m",
+        "t": "MBone là một hệ thống multicast để truyền thông điệp đến nhiều nơi nhận trên Internet. Unicast là phương pháp truyền thống để truyền các gói dữ liệu trên Internet. Với unicast, một gói IP chỉ được truyền đến một đích đến trong khi multicast gởi bản sao của thông điệp đến từng thành viên của nhóm. Multicast hiệu quả hơn unicast trong trường hợp gởi một thông điệp đến nhiều người nhận."
+      },
+      {
+        "k": "m",
+        "t": "Nguồn gốc của MBone là một thí nghiệm của IETF (Internet Engineering Task Force) về truyền thông tiếng nói (audiocast) - âm thanh được truyền đến nhều điểm (multicast), trực tiếp từ cuộc họp của IETF đến một nhóm các thành viên trên khắp thế giới. Từ đó, MBone đã phát triển từ 40 mạng con ở 4 nước khác nhau vào năm 1992 đến hơn 3400 mạng con ở hơn 25 nước vào năm 1997. Các kỹ thuật và dịch vụ mới dựa trên multicast đang xuất hiện hàng ngày trên các phương tiện thông tin."
+      },
+      {
+        "k": "m",
+        "t": "Hiện nay, MBone có mặt trên Internet nhờ kỹ thuật mạng ảo (Virtual Network) bởi vì nhiều router trên Internet không hỗ trợ truyền thông IP nhiều điểm (IP multicast). Lý do của việc áp dụng mạng ảo là rất rõ ràng nhưng cần nhớ rằng khi mọi router trên Internet hỗ trợ IP multicast thì phương pháp mạng ảo không còn cần thiết nữa."
+      },
+      {
+        "k": "m",
+        "t": "Mọi router trên Internet có thể quản lý những gói IP unicast tiêu chuẩn. Chúng ta quy ước gọi chúng là urouter. Tuy nhiên, ngày càng nhiều các hệ thống máy tính trên Internet là IP cho phép multicast. Những hệ thống này thường được gọi là mrouter, là các máy tính chạy hệ điều hành hỗ trợ các phần mềm IP multicast routing."
+      },
+      {
+        "k": "m",
+        "t": "Hiện nay, Internet vẫn ở tình trạng có các \"ốc đảo\" mrouter và urouter, như minh họa trong hình M-6. Việc gởi một gói IP multicast từ một mrouter sang một mrouter khác có thể phải đi qua qua các urouter không quản lý được những gói IP multicast này. Ðể giải quyết vấn đề, các gói multicast bao bọc thành những gói IP unicast khi đi qua urouter."
+      },
+      {"k": "m", "t": "Hình M-6 Hiện nay, Mbone là một mạng ảo trên Internet"},
+      {
+        "k": "m",
+        "t": "Việc bao bọc những gói multicast vào trong các gói IP unicast là một kỹ thuật đường hầm (tunnel) cần thiết để tạo ra kết nối điểm-điểm ảo giữa các mrouter. Một header chứa thông tin về các địa chỉ IP unicast của các mrouter ở đầu kia của kênh được bổ sung vào gói unicast mới hình thành từ các gói multicast. Các \"ốc đảo\" (và những kênh kết nối chúng) tạo thành mạng ảo bên trên Internet, như minh họa trong hình M-6."
+      },
+      {
+        "k": "m",
+        "t": "Ðồ hình của MBone gồm có một hệ thống trục đường hầm tạo thành mạng lưới trong từng quốc gia. Mạng khu vực áp dụng đồ hình sao với các kênh kết nối đến từng thành viên MBone trong vùng. Có các kênh kết nối giữa các quốc gia bao gồm các kênh bắt cầu qua Ðại Tây Dương và Thái Bình Dương. MBone hiện thực một hệ thống định lượng, ấn định trọng số cho từng kênh. Hệ thống định lượng này giúp tối thiểu hóa tình trạng quá tải bằng cách giữ các gói ở phạm vi cục bộ của chúng."
+      },
+      {
+        "k": "m",
+        "t": "GHI CHUì: Nhiều site trên Internet cung cấp các bản đồ và mô hình hóa ba chiều hệ thống MBone. Xem danh sách ở cuối phần này."
+      },
+      {
+        "k": "m",
+        "t": "MBone là một hệ thống hợp tác. Khi có người tham gia vào mạng khu vực thì họ gởi một yêu cầu lên danh sách thư của MBone (ở địa chỉ http://www.mbone.com). Những thành viên khác của MBone ở lân cận với mạng khu vực sẽ làm việc kết hợp thiết lập các kênh cho mạng khu vực mới. Nếu một tổ chức muốn bổ sung mạng của họ vào MBone thì họ nên liên lạc với người quản lý mạng khu vực MBone."
+      },
+      {
+        "k": "m",
+        "t": "Một người sử dụng cần có kết nối vận tốc cao mới tận dụng được những gì MBone có thể cung cấp, thông thường là 128 kbit/giây (ISDN) hay lớn hơn. Người sử dụng cũng phải có ISP (nhà cung cấp dịch vụ Internet) hỗ trợ multicast và kết nối MBone. Những phần mềm cần thiết cho hệ thống của người sử dụng bao gồm các ứng dụng multicast và giao thức multicast như IGMP (Internet Group Management Protocol). IGMP được thảo luận ở mục \"Multicasting\". Bạn cũng có thể đọc phần này để biết cách thức một gói multicast được phân phối đến nhiều nơi nhận trên Internet. Nhớ rằng kỹ thuật multicast cũng có thể được áp dụng trong những mạng nội bộ và được dùng trong những ứng dụng có tính hợp tác, hỗ trợ các nhóm trong một tổ chức."
+      },
+      {"k": "m", "t": "Từ mục liên quan"},
+      {
+        "k": "m",
+        "t": "Internet; IP; Multicasting; RSVP (Resource Reservation Protocol); và RTP (Real-time Transport Protocol)"
+      },
+      {"k": "m", "t": "thông tin trên Internet"},
+      {
+        "k": "m",
+        "t": "IETF MBone Deployment page http://www.ietf.org/html.charters/mboned-charter.html"
+      },
+      {"k": "m", "t": "IETF drafts http://www.internic.net/ds/-dsintdrafts.html"},
+      {"k": "m", "t": "ICAST's MBone information http://www.mbone.com"},
+      {"k": "m", "t": "MBone FAQ http://www.mbone.com/mbone/mbone.faq.html"},
+      {"k": "m", "t": "MBone links http://www.mbone.com/mbone/misc.html"},
+      {"k": "m", "t": "Visualization of the MBone http://www.nlanr.net/Viz/Mbone"},
+      {"k": "m", "t": "3D pictures"},
+      {
+        "k": "m",
+        "t": "Major MBone Routers and Links map ftp://ftp.isi.edu/mbone/mbone-topology.gif"
+      },
+      {"k": "m", "t": "Map of the MBone http://www.cs.berkeley.edu/~elan/mbone.html"},
+      {"k": "m", "t": "Bryan O'Sullivant's Internet Multicast Backbone page"},
+      {"k": "m", "t": "http://www.ganges.cs.tcd.ie/4ba2/multicast/bryan"},
+      {"k": "m", "t": "University of Cambridge http://www.cl.cam.ac.uk/mbone"},
+      {"k": "m", "t": "MBone page"},
+      {"k": "m", "t": "MBone Information page http://www.mojo.ots.utexas.edu-/netinfo/mbone.html"},
+      {"k": "m", "t": "MBONE Delpoyment Working Group (MBONED)"},
+      {"k": "m", "t": "http://ns.uoregon.edu/~meyer/MBONED."}
+    ],
+    "k": "mbone (multicast backbone)"
+  },
+  {
+    "h": "MBps",
+    "segs": [{"k": "m", "t": "(megabytes per second) số megabyte trong một giây."}],
+    "k": "mbps"
+  },
+  {
+    "h": "MBS",
+    "segs": [{"k": "m", "t": "(mobile broadband services) dịch vụ dải rộng đi động."}],
+    "k": "mbs"
+  },
+  {
+    "h": "Mbuji-Mayi",
+    "segs": [
+      {
+        "k": "m",
+        "t": "city in south central Democratic Republic of the Congo, the capital of Kasai-Oriental Region."
+      },
+      {"k": "m", "t": "Dân số khoảng: 806,475 (thống kê năm 1994)"}
+    ],
+    "k": "mbuji-mayi"
+  },
+  {
+    "h": "Mbyte",
+    "segs": [{"k": "m", "t": "(megabyte) Megabyte, bằng 2 lũy thừa 20 (hoặc 1.048.576 byte.)"}],
+    "k": "mbyte"
+  }
+]

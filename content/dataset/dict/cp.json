@@ -1,1 +1,237 @@
-[{"h":"cp","segs":[{"k":"m","t":"viết tắt của"},{"k":"ex","t":"compare viết tắt của candlepower","vi":"."}],"k":"cp"},{"h":"CP (control point)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"điểm điều khiển"}],"k":"cp (control point)"},{"h":"CP (control program)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình điều khiển"}],"k":"cp (control program)"},{"h":"CP capabilities","segs":[{"k":"m","t":"các khả năng của điểm điều khiển."}],"k":"cp capabilities"},{"h":"CP command","segs":[{"k":"m","t":"lệnh chương trình điều khiển."}],"k":"cp command"},{"h":"CP manager","segs":[{"k":"m","t":"(connection point manager) bộ quản lý điểm nối kết."}],"k":"cp manager"},{"h":"CP privilege","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lớp ưu tiên CP"}],"k":"cp privilege"},{"h":"CP privilege class","segs":[{"k":"m","t":"lớp ưu tiên CP, lớp ưu liên chương trình điều khiển."}],"k":"cp privilege class"},{"h":"CP read","segs":[{"k":"m","t":"đọc CP, đọc chương trình điều khiển chỉ thị CP READ (trên màn hình)."}],"k":"cp read"},{"h":"CP receive session","segs":[{"k":"m","t":"kỳ tác vụ nhận CP, kỳ tác vụ chương trình điều khiển."}],"k":"cp receive session"},{"h":"CP send session","segs":[{"k":"m","t":"ký tác vụ gửi CP, phiên làm việc gửi chương trình điều khiển."}],"k":"cp send session"},{"h":"CP system disks","segs":[{"k":"m","t":"đĩa hệ thống CP, đĩa hệ thống chương trình điều khiển."}],"k":"cp system disks"},{"h":"CP trace table","segs":[{"k":"m","t":"bảng theo dõi CP bảng theo dõi chương trình điều khiển."}],"k":"cp trace table"},{"h":"cp.","segs":[{"k":"m","t":"(viết tắt) của compare."}],"k":"cp."},{"h":"CP/M","segs":[{"k":"m","t":"Một hệ điều hành sử dụng cho máy tính cá nhân dùng loại vi xử lý 8 bit Intel 8088 và Zilog Z-80."}],"k":"cp/m"},{"h":"CPA","segs":[{"k":"m","t":"Viết tắt của 1. C.P.A.accounting certified public accountant"},{"k":"m","t":"2. comput critical path analysis"}],"k":"cpa"},{"h":"CPAR","segs":[{"k":"m","t":"(customer problem analysis and resolution) phân tích và giải quyết các vấn đề khách hàng."}],"k":"cpar"},{"h":"CPB","segs":[{"k":"m","t":"(collection point block) khối điểm thu thập, khối điểm tập hợp."}],"k":"cpb"},{"h":"cpc","segs":[{"k":"m","t":"(characlers per centimeter) số ký tự trên mỗi centimet."}],"k":"cpc"},{"h":"cpd.","segs":[{"k":"m","t":"Viết tắt của chemistry compound"}],"k":"cpd."},{"h":"CPF","segs":[{"k":"m","t":"(Control Program Facility) tiện ích chương trình điều khiển."}],"k":"cpf"},{"h":"CPFF","segs":[{"k":"m","t":"Viết tắt của commerce cost plus fixed fee"}],"k":"cpff"},{"h":"cpi","segs":[{"k":"m","t":"ký tự/inch, số ký tự trên mỗi inch."}],"k":"cpi"},{"h":"CPI-C","segs":[{"k":"m","t":"Xem Common Programming Interface for Communication."}],"k":"cpi-c"},{"h":"CPIC","segs":[{"k":"m","t":"(Common Programming Interface for communications) giao diện lập trình chung cho truyền thông."}],"k":"cpic"},{"h":"CPL","segs":[{"k":"m","t":"(combined programming language) ngôn ngữ lập trình kết hợp."}],"k":"cpl"},{"h":"Cpl.","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"CORPORAL."}],"k":"cpl."},{"h":"CPLD","segs":[{"k":"m","t":"(complex programmable logic device) thiết bị logic phức lập trận được."}],"k":"cpld"},{"h":"CPM","segs":[{"k":"m","t":"phương pháp đường tới hạn."}],"k":"cpm"},{"h":"CPO","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"Chief Petty Officer vị chỉ huy hạ sĩ quan hải quân"}],"k":"cpo"},{"h":"CPP","segs":[{"k":"m","t":"(command processing program) chương trình xử lý lệnh."}],"k":"cpp"},{"h":"CPR","segs":[{"k":"m","t":"Viết tắt của 1. rail Canadian Pacific Railway"},{"k":"m","t":"2. medicine cardiopulmonary resuscitation"}],"k":"cpr"},{"h":"CPRS","segs":[{"k":"m","t":"(kinh tế) Xem Central Policy Review Staff."}],"k":"cprs"},{"h":"cps","segs":[{"k":"m","t":"(tắt) vòng/giây ("},{"k":"ex","t":"cycles per second","vi":")."}],"ipa":",si: pi: 'es","k":"cps"},{"h":"CPSA","segs":[{"k":"m","t":"Viết tắt của U.K. public administration Civil và Public Services Association"}],"k":"cpsa"},{"h":"CPSC","segs":[{"k":"m","t":"Viết tắt của social sciences Consumer Product Safety Commission"}],"k":"cpsc"},{"h":"CPT theorem","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"định lý CPT"}],"k":"cpt theorem"},{"h":"Cpt.","segs":[{"k":"m","t":"hoặc CPT"},{"k":"m","t":"abbreviation"},{"k":"m","t":"military Captain"}],"k":"cpt."},{"h":"CPU","segs":[{"k":"m","t":"Ðơn vị xử lý trung tâm."}],"k":"cpu"},{"h":"CPU base register","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"thanh ghi chỉ số của CPU"},{"k":"m","t":"thanh ghi cơ sở của CPU"}],"k":"cpu base register"},{"h":"CPU clock","segs":[{"k":"m","t":"đồng hồ PCU."}],"k":"cpu clock"},{"h":"CPU cycle","segs":[{"k":"m","t":"chu kỳ CPU."}],"k":"cpu cycle"},{"h":"CPU handshaking","segs":[{"k":"m","t":"sự giao tiếp CPU."}],"k":"cpu handshaking"},{"h":"CPU time","segs":[{"k":"m","t":"thời gian CPU."}],"k":"cpu time"},{"h":"CPU timer","segs":[{"k":"m","t":"đồng hồ CP, đồng hồ bộ xử lý trung tâm, bộ định thời CPU."}],"k":"cpu timer"},{"h":"CPU-bound","segs":[{"k":"m","t":"giới hạn bởi CPU."}],"k":"cpu-bound"},{"h":"CPU-bound program","segs":[{"k":"m","t":"chương trình giới hạn bởi CPL."}],"k":"cpu-bound program"}]
+[
+  {
+    "h": "cp",
+    "segs": [
+      {"k": "m", "t": "viết tắt của"},
+      {"k": "ex", "t": "compare viết tắt của candlepower", "vi": "."}
+    ],
+    "k": "cp"
+  },
+  {
+    "h": "CP (control point)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "điểm điều khiển"}],
+    "k": "cp (control point)"
+  },
+  {
+    "h": "CP (control program)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chương trình điều khiển"}],
+    "k": "cp (control program)"
+  },
+  {
+    "h": "CP capabilities",
+    "segs": [{"k": "m", "t": "các khả năng của điểm điều khiển."}],
+    "k": "cp capabilities"
+  },
+  {"h": "CP command", "segs": [{"k": "m", "t": "lệnh chương trình điều khiển."}], "k": "cp command"},
+  {
+    "h": "CP manager",
+    "segs": [{"k": "m", "t": "(connection point manager) bộ quản lý điểm nối kết."}],
+    "k": "cp manager"
+  },
+  {
+    "h": "CP privilege",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "lớp ưu tiên CP"}],
+    "k": "cp privilege"
+  },
+  {
+    "h": "CP privilege class",
+    "segs": [{"k": "m", "t": "lớp ưu tiên CP, lớp ưu liên chương trình điều khiển."}],
+    "k": "cp privilege class"
+  },
+  {
+    "h": "CP read",
+    "segs": [
+      {"k": "m", "t": "đọc CP, đọc chương trình điều khiển chỉ thị CP READ (trên màn hình)."}
+    ],
+    "k": "cp read"
+  },
+  {
+    "h": "CP receive session",
+    "segs": [{"k": "m", "t": "kỳ tác vụ nhận CP, kỳ tác vụ chương trình điều khiển."}],
+    "k": "cp receive session"
+  },
+  {
+    "h": "CP send session",
+    "segs": [{"k": "m", "t": "ký tác vụ gửi CP, phiên làm việc gửi chương trình điều khiển."}],
+    "k": "cp send session"
+  },
+  {
+    "h": "CP system disks",
+    "segs": [{"k": "m", "t": "đĩa hệ thống CP, đĩa hệ thống chương trình điều khiển."}],
+    "k": "cp system disks"
+  },
+  {
+    "h": "CP trace table",
+    "segs": [{"k": "m", "t": "bảng theo dõi CP bảng theo dõi chương trình điều khiển."}],
+    "k": "cp trace table"
+  },
+  {"h": "cp.", "segs": [{"k": "m", "t": "(viết tắt) của compare."}], "k": "cp."},
+  {
+    "h": "CP/M",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một hệ điều hành sử dụng cho máy tính cá nhân dùng loại vi xử lý 8 bit Intel 8088 và Zilog Z-80."
+      }
+    ],
+    "k": "cp/m"
+  },
+  {
+    "h": "CPA",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. C.P.A.accounting certified public accountant"},
+      {"k": "m", "t": "2. comput critical path analysis"}
+    ],
+    "k": "cpa"
+  },
+  {
+    "h": "CPAR",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(customer problem analysis and resolution) phân tích và giải quyết các vấn đề khách hàng."
+      }
+    ],
+    "k": "cpar"
+  },
+  {
+    "h": "CPB",
+    "segs": [{"k": "m", "t": "(collection point block) khối điểm thu thập, khối điểm tập hợp."}],
+    "k": "cpb"
+  },
+  {
+    "h": "cpc",
+    "segs": [{"k": "m", "t": "(characlers per centimeter) số ký tự trên mỗi centimet."}],
+    "k": "cpc"
+  },
+  {"h": "cpd.", "segs": [{"k": "m", "t": "Viết tắt của chemistry compound"}], "k": "cpd."},
+  {
+    "h": "CPF",
+    "segs": [{"k": "m", "t": "(Control Program Facility) tiện ích chương trình điều khiển."}],
+    "k": "cpf"
+  },
+  {"h": "CPFF", "segs": [{"k": "m", "t": "Viết tắt của commerce cost plus fixed fee"}], "k": "cpff"},
+  {"h": "cpi", "segs": [{"k": "m", "t": "ký tự/inch, số ký tự trên mỗi inch."}], "k": "cpi"},
+  {
+    "h": "CPI-C",
+    "segs": [{"k": "m", "t": "Xem Common Programming Interface for Communication."}],
+    "k": "cpi-c"
+  },
+  {
+    "h": "CPIC",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Common Programming Interface for communications) giao diện lập trình chung cho truyền thông."
+      }
+    ],
+    "k": "cpic"
+  },
+  {
+    "h": "CPL",
+    "segs": [{"k": "m", "t": "(combined programming language) ngôn ngữ lập trình kết hợp."}],
+    "k": "cpl"
+  },
+  {
+    "h": "Cpl.",
+    "segs": [{"k": "pos", "t": "ngoại động từ"}, {"k": "m", "t": "CORPORAL."}],
+    "k": "cpl."
+  },
+  {
+    "h": "CPLD",
+    "segs": [
+      {"k": "m", "t": "(complex programmable logic device) thiết bị logic phức lập trận được."}
+    ],
+    "k": "cpld"
+  },
+  {"h": "CPM", "segs": [{"k": "m", "t": "phương pháp đường tới hạn."}], "k": "cpm"},
+  {
+    "h": "CPO",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "Chief Petty Officer vị chỉ huy hạ sĩ quan hải quân"}
+    ],
+    "k": "cpo"
+  },
+  {
+    "h": "CPP",
+    "segs": [{"k": "m", "t": "(command processing program) chương trình xử lý lệnh."}],
+    "k": "cpp"
+  },
+  {
+    "h": "CPR",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. rail Canadian Pacific Railway"},
+      {"k": "m", "t": "2. medicine cardiopulmonary resuscitation"}
+    ],
+    "k": "cpr"
+  },
+  {
+    "h": "CPRS",
+    "segs": [{"k": "m", "t": "(kinh tế) Xem Central Policy Review Staff."}],
+    "k": "cprs"
+  },
+  {
+    "h": "cps",
+    "segs": [
+      {"k": "m", "t": "(tắt) vòng/giây ("},
+      {"k": "ex", "t": "cycles per second", "vi": ")."}
+    ],
+    "ipa": ",si: pi: 'es",
+    "k": "cps"
+  },
+  {
+    "h": "CPSA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của U.K. public administration Civil và Public Services Association"
+      }
+    ],
+    "k": "cpsa"
+  },
+  {
+    "h": "CPSC",
+    "segs": [{"k": "m", "t": "Viết tắt của social sciences Consumer Product Safety Commission"}],
+    "k": "cpsc"
+  },
+  {
+    "h": "CPT theorem",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "định lý CPT"}],
+    "k": "cpt theorem"
+  },
+  {
+    "h": "Cpt.",
+    "segs": [
+      {"k": "m", "t": "hoặc CPT"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "military Captain"}
+    ],
+    "k": "cpt."
+  },
+  {"h": "CPU", "segs": [{"k": "m", "t": "Ðơn vị xử lý trung tâm."}], "k": "cpu"},
+  {
+    "h": "CPU base register",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "thanh ghi chỉ số của CPU"},
+      {"k": "m", "t": "thanh ghi cơ sở của CPU"}
+    ],
+    "k": "cpu base register"
+  },
+  {"h": "CPU clock", "segs": [{"k": "m", "t": "đồng hồ PCU."}], "k": "cpu clock"},
+  {"h": "CPU cycle", "segs": [{"k": "m", "t": "chu kỳ CPU."}], "k": "cpu cycle"},
+  {"h": "CPU handshaking", "segs": [{"k": "m", "t": "sự giao tiếp CPU."}], "k": "cpu handshaking"},
+  {"h": "CPU time", "segs": [{"k": "m", "t": "thời gian CPU."}], "k": "cpu time"},
+  {
+    "h": "CPU timer",
+    "segs": [{"k": "m", "t": "đồng hồ CP, đồng hồ bộ xử lý trung tâm, bộ định thời CPU."}],
+    "k": "cpu timer"
+  },
+  {"h": "CPU-bound", "segs": [{"k": "m", "t": "giới hạn bởi CPU."}], "k": "cpu-bound"},
+  {
+    "h": "CPU-bound program",
+    "segs": [{"k": "m", "t": "chương trình giới hạn bởi CPL."}],
+    "k": "cpu-bound program"
+  }
+]

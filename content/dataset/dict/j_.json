@@ -1,1 +1,219 @@
-[{"h":"j","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"snh."},{"k":"ex","t":"Js, J's","vi":", mẫu tự thứ mười trong bảng mẫu tự tiếng Anh"},{"k":"ex","t":"J pen","vi":"ngòi bút rông"},{"k":"m","t":"viết tắt của"},{"k":"ex","t":"joule","vi":"(đơn vị nhiệt lượng)."}],"ipa":"dzei","k":"j"},{"h":"J antenna","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ăng ten chữ J"}],"k":"j antenna"},{"h":"j bolt","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bulông hình móc câu"}],"k":"j bolt"},{"h":"J curve","segs":[{"k":"m","t":"đường J."}],"k":"j curve"},{"h":"J effect","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"commerce balance of trade fall before rise: the tendency of a country's balance of trade to deteriorate initially following a currency devaluation before the expected improvement takes place"}],"k":"j effect"},{"h":"J factor","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hệ số J"}],"k":"j factor"},{"h":"J particle","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"physics như J/psi particle"}],"k":"j particle"},{"h":"J pen","segs":[{"k":"m","t":"ngòi bút rông."}],"k":"j pen"},{"h":"j'adoube","segs":[{"k":"m","t":"tht. lời hù dọa đi nước cờ."}],"ipa":"ʒa:'du:b","k":"j'adoube"},{"h":"J'Ouvert","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Caribbean eve of Mardi Gras: the Monday that is the eve of Mardi Gras, when the festivities begin"}],"k":"j'ouvert"},{"h":"J's ladder","segs":[{"k":"m","t":"thang Gia-cóp (St 28:10-12)."}],"k":"j's ladder"},{"h":"J-bar","segs":[{"k":"m","t":"(số nhiều J-bars)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"towbar for skiers: a metal bar that is suspended from an overhead cable, used to tow a single skier up a slope"},{"k":"m","t":"rode to the summit on the J-bar"}],"k":"j-bar"},{"h":"J-cloth","segs":[{"k":"m","t":"trademark"},{"k":"m","t":"U.K. a trademark for a disposable cloth used for cleaning, dusting, washing dishes, và other domestic jobs"}],"k":"j-cloth"},{"h":"J-curve effect","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"hiệu ứng đường cong J"}],"k":"j-curve effect"},{"h":"J-display","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"màn hình J"}],"k":"j-display"},{"h":"j-groove weld","segs":[{"k":"m","t":"mối hàn có mép nghiêng cong."}],"k":"j-groove weld"},{"h":"J-integral method","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phương pháp tích phân J"}],"k":"j-integral method"},{"h":"j-j coupling","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"liên kết j-j"}],"k":"j-j coupling"},{"h":"J-operator","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"toán tử J"}],"k":"j-operator"},{"h":"J-shaped distribution","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"phân bố theo dạng chữ J"}],"k":"j-shaped distribution"},{"h":"j-tear","segs":[{"k":"m","t":"(số nhiều j-tears)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"snowboarding trick with 540-degree inverted rotation: a snowboarding trick by which the rider does one và a half rotations upside down with one hoặc both hands on the lip of the halfpipe wall"}],"k":"j-tear"},{"h":"J-test","segs":[{"k":"m","t":"(kinh tế) Kiểm định J: Một phép kiểm định được tạo ra để giải quyết các giả thiết không có biến chung trong khuôn khổ của mô hình hồi quy"}],"k":"j-test"},{"h":"J.","segs":[{"k":"m","t":"Viết tắt của 1. card games jack"},{"k":"m","t":"2. press journal"},{"k":"m","t":"3. law judge"},{"k":"m","t":"4. law justice"}],"k":"j."},{"h":"J.A.G.","segs":[{"k":"m","t":"hoặc JAG"},{"k":"m","t":"abbreviation"},{"k":"m","t":"law military Judge Advocate General"}],"k":"j.a.g."},{"h":"J.C.S.","segs":[{"k":"m","t":"hoặc JCS"},{"k":"m","t":"abbreviation"},{"k":"m","t":"military Joint Chiefs of Staff"}],"k":"j.c.s."},{"h":"j.n.d.","segs":[{"k":"m","t":"Viết tắt của psychology just noticeable difference"}],"k":"j.n.d."},{"h":"J.P.","segs":[{"k":"m","t":"(số nhiều J.P.s) hoặc JP (số nhiều JPs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"somebody who has minor judicial duties: somebody appointed to judge minor criminal cases, perform marriages, administer oaths, và refer cases to higher courts. Full form justice of the peace"}],"k":"j.p."},{"h":"J.S.D.","segs":[{"k":"m","t":"Viết tắt của law Doctor of Juristic Science"}],"k":"j.s.d."},{"h":"J.W.V.","segs":[{"k":"m","t":"Viết tắt của Jewish War Veterans"}],"k":"j.w.v."},{"h":"J/A","segs":[{"k":"m","t":"hoặc JA"},{"k":"m","t":"abbreviation"},{"k":"m","t":"U.K. banking joint account"}],"k":"j/a"},{"h":"J/psi particle","segs":[{"k":"m","t":"(số nhiều J/psi particles)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"subatomic particle: an unstable elementary particle of the meson group. It has a large mass, about 6,000 times that of an electron, và is thought to be formed from charmed quarks."}],"k":"j/psi particle"}]
+[
+  {
+    "h": "j",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "snh."},
+      {"k": "ex", "t": "Js, J's", "vi": ", mẫu tự thứ mười trong bảng mẫu tự tiếng Anh"},
+      {"k": "ex", "t": "J pen", "vi": "ngòi bút rông"},
+      {"k": "m", "t": "viết tắt của"},
+      {"k": "ex", "t": "joule", "vi": "(đơn vị nhiệt lượng)."}
+    ],
+    "ipa": "dzei",
+    "k": "j"
+  },
+  {
+    "h": "J antenna",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ăng ten chữ J"}],
+    "k": "j antenna"
+  },
+  {
+    "h": "j bolt",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bulông hình móc câu"}],
+    "k": "j bolt"
+  },
+  {"h": "J curve", "segs": [{"k": "m", "t": "đường J."}], "k": "j curve"},
+  {
+    "h": "J effect",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "commerce balance of trade fall before rise: the tendency of a country's balance of trade to deteriorate initially following a currency devaluation before the expected improvement takes place"
+      }
+    ],
+    "k": "j effect"
+  },
+  {
+    "h": "J factor",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hệ số J"}],
+    "k": "j factor"
+  },
+  {
+    "h": "J particle",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "physics như J/psi particle"}],
+    "k": "j particle"
+  },
+  {"h": "J pen", "segs": [{"k": "m", "t": "ngòi bút rông."}], "k": "j pen"},
+  {
+    "h": "j'adoube",
+    "segs": [{"k": "m", "t": "tht. lời hù dọa đi nước cờ."}],
+    "ipa": "ʒa:'du:b",
+    "k": "j'adoube"
+  },
+  {
+    "h": "J'Ouvert",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Caribbean eve of Mardi Gras: the Monday that is the eve of Mardi Gras, when the festivities begin"
+      }
+    ],
+    "k": "j'ouvert"
+  },
+  {"h": "J's ladder", "segs": [{"k": "m", "t": "thang Gia-cóp (St 28:10-12)."}], "k": "j's ladder"},
+  {
+    "h": "J-bar",
+    "segs": [
+      {"k": "m", "t": "(số nhiều J-bars)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "towbar for skiers: a metal bar that is suspended from an overhead cable, used to tow a single skier up a slope"
+      },
+      {"k": "m", "t": "rode to the summit on the J-bar"}
+    ],
+    "k": "j-bar"
+  },
+  {
+    "h": "J-cloth",
+    "segs": [
+      {"k": "m", "t": "trademark"},
+      {
+        "k": "m",
+        "t": "U.K. a trademark for a disposable cloth used for cleaning, dusting, washing dishes, và other domestic jobs"
+      }
+    ],
+    "k": "j-cloth"
+  },
+  {
+    "h": "J-curve effect",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "hiệu ứng đường cong J"}],
+    "k": "j-curve effect"
+  },
+  {
+    "h": "J-display",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "màn hình J"}],
+    "k": "j-display"
+  },
+  {
+    "h": "j-groove weld",
+    "segs": [{"k": "m", "t": "mối hàn có mép nghiêng cong."}],
+    "k": "j-groove weld"
+  },
+  {
+    "h": "J-integral method",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương pháp tích phân J"}],
+    "k": "j-integral method"
+  },
+  {
+    "h": "j-j coupling",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "liên kết j-j"}],
+    "k": "j-j coupling"
+  },
+  {
+    "h": "J-operator",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "toán tử J"}],
+    "k": "j-operator"
+  },
+  {
+    "h": "J-shaped distribution",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "phân bố theo dạng chữ J"}],
+    "k": "j-shaped distribution"
+  },
+  {
+    "h": "j-tear",
+    "segs": [
+      {"k": "m", "t": "(số nhiều j-tears)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "snowboarding trick with 540-degree inverted rotation: a snowboarding trick by which the rider does one và a half rotations upside down with one hoặc both hands on the lip of the halfpipe wall"
+      }
+    ],
+    "k": "j-tear"
+  },
+  {
+    "h": "J-test",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(kinh tế) Kiểm định J: Một phép kiểm định được tạo ra để giải quyết các giả thiết không có biến chung trong khuôn khổ của mô hình hồi quy"
+      }
+    ],
+    "k": "j-test"
+  },
+  {
+    "h": "J.",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. card games jack"},
+      {"k": "m", "t": "2. press journal"},
+      {"k": "m", "t": "3. law judge"},
+      {"k": "m", "t": "4. law justice"}
+    ],
+    "k": "j."
+  },
+  {
+    "h": "J.A.G.",
+    "segs": [
+      {"k": "m", "t": "hoặc JAG"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "law military Judge Advocate General"}
+    ],
+    "k": "j.a.g."
+  },
+  {
+    "h": "J.C.S.",
+    "segs": [
+      {"k": "m", "t": "hoặc JCS"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "military Joint Chiefs of Staff"}
+    ],
+    "k": "j.c.s."
+  },
+  {
+    "h": "j.n.d.",
+    "segs": [{"k": "m", "t": "Viết tắt của psychology just noticeable difference"}],
+    "k": "j.n.d."
+  },
+  {
+    "h": "J.P.",
+    "segs": [
+      {"k": "m", "t": "(số nhiều J.P.s) hoặc JP (số nhiều JPs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "somebody who has minor judicial duties: somebody appointed to judge minor criminal cases, perform marriages, administer oaths, và refer cases to higher courts. Full form justice of the peace"
+      }
+    ],
+    "k": "j.p."
+  },
+  {
+    "h": "J.S.D.",
+    "segs": [{"k": "m", "t": "Viết tắt của law Doctor of Juristic Science"}],
+    "k": "j.s.d."
+  },
+  {"h": "J.W.V.", "segs": [{"k": "m", "t": "Viết tắt của Jewish War Veterans"}], "k": "j.w.v."},
+  {
+    "h": "J/A",
+    "segs": [
+      {"k": "m", "t": "hoặc JA"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "U.K. banking joint account"}
+    ],
+    "k": "j/a"
+  },
+  {
+    "h": "J/psi particle",
+    "segs": [
+      {"k": "m", "t": "(số nhiều J/psi particles)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "subatomic particle: an unstable elementary particle of the meson group. It has a large mass, about 6,000 times that of an electron, và is thought to be formed from charmed quarks."
+      }
+    ],
+    "k": "j/psi particle"
+  }
+]

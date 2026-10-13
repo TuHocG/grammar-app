@@ -1,1 +1,144 @@
-{"id":127,"code":"C 3","group":"C","n":3,"title":"C 3","first_line":"Your baby's third month ushers in your newborn's first \"graduation\".","video":"C  3.avi","duration":103.2,"lines":[{"e":4.34,"en":"Your baby's third month ushers in your newborn's first \"graduation\".","vi":"Tháng thứ ba là thời điểm của lần \"tốt nghiệp\" đầu tiên của bé.","s":0.0},{"e":9.28,"en":"Your little one has now made the transition from newborn to bona-fide infant!","vi":"Giờ đây bé đã từ một bé sơ sinh trở thành một đứa trẻ thật sự.","s":4.34},{"e":14.75,"en":"As your baby enters this stage of growth, your infant's budding personality becomes more apparent,","vi":"Khi bước vào giai đoạn phát triển này, tính cách đang phát triển của bé trở nên rõ ràng hơn.","s":9.28},{"e":19.3,"en":"and you'll start to notice silly, serious, finicky, or determined traits emerge.","vi":"và bạn sẽ bắt đầu nhận thấy những nét tính cách nổi bật như là ngây ngô, nghiêm nghị, khó chiều, hoặc kiên quyết.","s":14.75},{"e":22.13,"en":"As your baby becomes more self-possessed,","vi":"Khi bé trở nên điềm tĩnh hơn,","s":19.3},{"e":26.27,"en":"you may also notice that your little one is starting to favor you above other people.","vi":"bạn còn có thể nhận thấy bé bắt đầu thích bạn hơn những người khác.","s":22.13},{"e":30.32,"en":"Your infant will show preference for YOUR company by smiling,","vi":"Bé sẽ tỏ ý ưa thích việc BẠN chơi với bé bằng cách mỉm cười,","s":26.27},{"e":33.79,"en":"laughing, and waving those little arms and legs when you're around.","vi":"cười thành tiếng, và vung vẫy tay chân khi bạn ở bên cạnh.","s":30.32},{"e":38.09,"en":"On the flip side, though, your infant may act more wary around strangers,","vi":"Thế nhưng, trái lại, bé có thể tỏ ra thận trọng hơn với người lạ.","s":33.79},{"e":40.9,"en":"or even fuss when new people want to interact with him.","vi":"hoặc thậm chí cáu gắt khi người lạ muốn tiếp xúc với bé.","s":38.09},{"e":47.83,"en":"When not busy making faces, the baby will continue to eat voraciously, and will grow rapidly as a result.","vi":"Khi không mải mê với việc nhăm mặt nhíu mày để làm trò, bé sẽ tiếp tục ăn rất nhiều, và kết quả là bé lớn rất nhanh.","s":40.9},{"e":52.97,"en":"The average three-month-old infant will weigh in at 13 pounds and measure 24 inches,","vi":"Bé 3 tháng tuổi sẽ nặng trung bình khoảng 13 cân anh và cao 24 insơ","s":47.83},{"e":57.71,"en":"although anything from around 9 to 16 pounds and 15 to 22 inches is normal.","vi":"mặc dù vậy, việc bé cân nặng từ 9 đến 16 pounds và cao từ 15-22 insơ là chuyện bình thường.","s":52.97},{"e":61.22,"en":"Sleeping is still the biggest part of your baby's life.,","vi":"Trong giai đoạn này, ngủ vẫn là phần quan trọng nhất trong cuộc sống của bé.","s":57.71},{"e":66.31,"en":"Hopefully your little one is FINALLY beginning to learn that nighttime is the time to sleep.","vi":"Hi vọng rằng SAU CÙNG bé cũng bắt đầu nhận biết rằng ban đêm là lúc đi ngủ.","s":61.22},{"e":72.31,"en":"Some lucky moms even find that their three-month-olds will sleep for up to 6 hours at a time.","vi":"Một số bà mẹ may mắn thậm chí còn nhận thấy rằng đứa con 3 tháng tuổi của họ ngủ mỗi lần 6 giờ liền.","s":66.31},{"e":78.99,"en":"Regardless of how much your baby sleeps, when awake, your baby may surprise you this month by rolling over halfway.","vi":"Trong tháng này, bất kể bé ngủ bao lâu, lúc thức giấc bé có thể làm bạn ngạc nhiên bằng cách lật nghiêng.","s":72.31},{"e":84.63,"en":"Your infant is also probably doing baby \"push-ups,\" or using those arms and shoulders","vi":"Có thể bé cũng biết \"chống tay\" hoặc sử dụng cánh tay và vai","s":78.99},{"e":87.07,"en":"to lift that head high when playing on his front.","vi":"để ngẩng cao đầu khi đang chơi đùa với những gì ở trước mặt.","s":84.63},{"e":92.66,"en":"Encourage these efforts by clapping and telling your baby how proud you are of these new skills.","vi":"Hãy kích lệ những nỗ lực này bằng cách vỗ tay và cho bé biết là bạn hãnh diện ra sao đối với những kỹ năng mới này.","s":87.07},{"e":96.95,"en":"But remember anything within your baby's reach is fair game.","vi":"nhưng phải cẩn thận với những thứ trong tầm tay bé.","s":92.66},{"e":103.21,"en":"Be sure to watch your little one carefully, however, to make sure that the things being grabbed are infant-appropriate!","vi":"Tuy nhiên, phải cẩn thận trông chừng và bảo đảm sao cho những vật mà bé nắm được vô hại đối với bé.","s":96.95}]}
+{
+  "id": 127,
+  "code": "C 3",
+  "group": "C",
+  "n": 3,
+  "title": "C 3",
+  "first_line": "Your baby's third month ushers in your newborn's first \"graduation\".",
+  "video": "C  3.avi",
+  "duration": 103.2,
+  "lines": [
+    {
+      "e": 4.34,
+      "en": "Your baby's third month ushers in your newborn's first \"graduation\".",
+      "vi": "Tháng thứ ba là thời điểm của lần \"tốt nghiệp\" đầu tiên của bé.",
+      "s": 0.0
+    },
+    {
+      "e": 9.28,
+      "en": "Your little one has now made the transition from newborn to bona-fide infant!",
+      "vi": "Giờ đây bé đã từ một bé sơ sinh trở thành một đứa trẻ thật sự.",
+      "s": 4.34
+    },
+    {
+      "e": 14.75,
+      "en": "As your baby enters this stage of growth, your infant's budding personality becomes more apparent,",
+      "vi": "Khi bước vào giai đoạn phát triển này, tính cách đang phát triển của bé trở nên rõ ràng hơn.",
+      "s": 9.28
+    },
+    {
+      "e": 19.3,
+      "en": "and you'll start to notice silly, serious, finicky, or determined traits emerge.",
+      "vi": "và bạn sẽ bắt đầu nhận thấy những nét tính cách nổi bật như là ngây ngô, nghiêm nghị, khó chiều, hoặc kiên quyết.",
+      "s": 14.75
+    },
+    {
+      "e": 22.13,
+      "en": "As your baby becomes more self-possessed,",
+      "vi": "Khi bé trở nên điềm tĩnh hơn,",
+      "s": 19.3
+    },
+    {
+      "e": 26.27,
+      "en": "you may also notice that your little one is starting to favor you above other people.",
+      "vi": "bạn còn có thể nhận thấy bé bắt đầu thích bạn hơn những người khác.",
+      "s": 22.13
+    },
+    {
+      "e": 30.32,
+      "en": "Your infant will show preference for YOUR company by smiling,",
+      "vi": "Bé sẽ tỏ ý ưa thích việc BẠN chơi với bé bằng cách mỉm cười,",
+      "s": 26.27
+    },
+    {
+      "e": 33.79,
+      "en": "laughing, and waving those little arms and legs when you're around.",
+      "vi": "cười thành tiếng, và vung vẫy tay chân khi bạn ở bên cạnh.",
+      "s": 30.32
+    },
+    {
+      "e": 38.09,
+      "en": "On the flip side, though, your infant may act more wary around strangers,",
+      "vi": "Thế nhưng, trái lại, bé có thể tỏ ra thận trọng hơn với người lạ.",
+      "s": 33.79
+    },
+    {
+      "e": 40.9,
+      "en": "or even fuss when new people want to interact with him.",
+      "vi": "hoặc thậm chí cáu gắt khi người lạ muốn tiếp xúc với bé.",
+      "s": 38.09
+    },
+    {
+      "e": 47.83,
+      "en": "When not busy making faces, the baby will continue to eat voraciously, and will grow rapidly as a result.",
+      "vi": "Khi không mải mê với việc nhăm mặt nhíu mày để làm trò, bé sẽ tiếp tục ăn rất nhiều, và kết quả là bé lớn rất nhanh.",
+      "s": 40.9
+    },
+    {
+      "e": 52.97,
+      "en": "The average three-month-old infant will weigh in at 13 pounds and measure 24 inches,",
+      "vi": "Bé 3 tháng tuổi sẽ nặng trung bình khoảng 13 cân anh và cao 24 insơ",
+      "s": 47.83
+    },
+    {
+      "e": 57.71,
+      "en": "although anything from around 9 to 16 pounds and 15 to 22 inches is normal.",
+      "vi": "mặc dù vậy, việc bé cân nặng từ 9 đến 16 pounds và cao từ 15-22 insơ là chuyện bình thường.",
+      "s": 52.97
+    },
+    {
+      "e": 61.22,
+      "en": "Sleeping is still the biggest part of your baby's life.,",
+      "vi": "Trong giai đoạn này, ngủ vẫn là phần quan trọng nhất trong cuộc sống của bé.",
+      "s": 57.71
+    },
+    {
+      "e": 66.31,
+      "en": "Hopefully your little one is FINALLY beginning to learn that nighttime is the time to sleep.",
+      "vi": "Hi vọng rằng SAU CÙNG bé cũng bắt đầu nhận biết rằng ban đêm là lúc đi ngủ.",
+      "s": 61.22
+    },
+    {
+      "e": 72.31,
+      "en": "Some lucky moms even find that their three-month-olds will sleep for up to 6 hours at a time.",
+      "vi": "Một số bà mẹ may mắn thậm chí còn nhận thấy rằng đứa con 3 tháng tuổi của họ ngủ mỗi lần 6 giờ liền.",
+      "s": 66.31
+    },
+    {
+      "e": 78.99,
+      "en": "Regardless of how much your baby sleeps, when awake, your baby may surprise you this month by rolling over halfway.",
+      "vi": "Trong tháng này, bất kể bé ngủ bao lâu, lúc thức giấc bé có thể làm bạn ngạc nhiên bằng cách lật nghiêng.",
+      "s": 72.31
+    },
+    {
+      "e": 84.63,
+      "en": "Your infant is also probably doing baby \"push-ups,\" or using those arms and shoulders",
+      "vi": "Có thể bé cũng biết \"chống tay\" hoặc sử dụng cánh tay và vai",
+      "s": 78.99
+    },
+    {
+      "e": 87.07,
+      "en": "to lift that head high when playing on his front.",
+      "vi": "để ngẩng cao đầu khi đang chơi đùa với những gì ở trước mặt.",
+      "s": 84.63
+    },
+    {
+      "e": 92.66,
+      "en": "Encourage these efforts by clapping and telling your baby how proud you are of these new skills.",
+      "vi": "Hãy kích lệ những nỗ lực này bằng cách vỗ tay và cho bé biết là bạn hãnh diện ra sao đối với những kỹ năng mới này.",
+      "s": 87.07
+    },
+    {
+      "e": 96.95,
+      "en": "But remember anything within your baby's reach is fair game.",
+      "vi": "nhưng phải cẩn thận với những thứ trong tầm tay bé.",
+      "s": 92.66
+    },
+    {
+      "e": 103.21,
+      "en": "Be sure to watch your little one carefully, however, to make sure that the things being grabbed are infant-appropriate!",
+      "vi": "Tuy nhiên, phải cẩn thận trông chừng và bảo đảm sao cho những vật mà bé nắm được vô hại đối với bé.",
+      "s": 96.95
+    }
+  ]
+}

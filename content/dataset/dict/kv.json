@@ -1,1 +1,34 @@
-[{"h":"kV","segs":[{"k":"m","t":"(kilovolt) Kilovolt bằng 1000 volt."}],"k":"kv"},{"h":"kV (kilovolt)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bằng 1000 volt"},{"k":"m","t":"kilôvolt"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bằng 1000 volt"},{"k":"m","t":"kilôvolt"}],"k":"kv (kilovolt)"},{"h":"kvass","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"nước cơvat (một loại giải khát hơi chua của Liên Xô)."}],"ipa":"kva:s","k":"kvass"},{"h":"kvetch","segs":[{"k":"pos","t":"nội động từ"},{"k":"m","t":"(lóng) than phiền, kêu ca"},{"k":"m","t":"đau quặn, đau thắt."}],"ipa":"'kvetʃ","k":"kvetch"}]
+[
+  {"h": "kV", "segs": [{"k": "m", "t": "(kilovolt) Kilovolt bằng 1000 volt."}], "k": "kv"},
+  {
+    "h": "kV (kilovolt)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bằng 1000 volt"},
+      {"k": "m", "t": "kilôvolt"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bằng 1000 volt"},
+      {"k": "m", "t": "kilôvolt"}
+    ],
+    "k": "kv (kilovolt)"
+  },
+  {
+    "h": "kvass",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "nước cơvat (một loại giải khát hơi chua của Liên Xô)."}
+    ],
+    "ipa": "kva:s",
+    "k": "kvass"
+  },
+  {
+    "h": "kvetch",
+    "segs": [
+      {"k": "pos", "t": "nội động từ"},
+      {"k": "m", "t": "(lóng) than phiền, kêu ca"},
+      {"k": "m", "t": "đau quặn, đau thắt."}
+    ],
+    "ipa": "'kvetʃ",
+    "k": "kvetch"
+  }
+]

@@ -1,1 +1,45 @@
-[{"h":"XT","segs":[{"k":"m","t":"(extended technology) công nghệ mở rộng (Tên máy tính cá nhân do IBM sản xuất năm 1983 có bộ vi xử lý Intel 8088)."}],"k":"xt"},{"h":"XT (computer) IBM","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy điện toán IBM XT"}],"k":"xt (computer) ibm"},{"h":"XT (comuter)","segs":[{"k":"m","t":"IBM (máy điện toán IBM) XT."}],"k":"xt (comuter)"},{"h":"XT (extended technology)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"công nghệ mở rộng"}],"k":"xt (extended technology)"},{"h":"XT bus architecture","segs":[{"k":"m","t":"kiến trúc bus XT, kiến trúc đường truyền dẫn XT."}],"k":"xt bus architecture"},{"h":"Xt.","segs":[{"k":"m","t":"Viết tắt của christianity Christ"}],"k":"xt."},{"h":"Xtian.","segs":[{"k":"m","t":"Viết tắt của christianity Christian"}],"k":"xtian."},{"h":"xtn.","segs":[{"k":"m","t":"Viết tắt của telecommunications business extension"}],"k":"xtn."},{"h":"Xtreme Games","segs":[{"k":"m","t":"danh từ số nhiều"},{"k":"m","t":"Như Extreme Games"}],"k":"xtreme games"},{"h":"Xty.","segs":[{"k":"m","t":"Viết tắt của christianity Christianity"}],"k":"xty."}]
+[
+  {
+    "h": "XT",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(extended technology) công nghệ mở rộng (Tên máy tính cá nhân do IBM sản xuất năm 1983 có bộ vi xử lý Intel 8088)."
+      }
+    ],
+    "k": "xt"
+  },
+  {
+    "h": "XT (computer) IBM",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy điện toán IBM XT"}],
+    "k": "xt (computer) ibm"
+  },
+  {
+    "h": "XT (comuter)",
+    "segs": [{"k": "m", "t": "IBM (máy điện toán IBM) XT."}],
+    "k": "xt (comuter)"
+  },
+  {
+    "h": "XT (extended technology)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "công nghệ mở rộng"}],
+    "k": "xt (extended technology)"
+  },
+  {
+    "h": "XT bus architecture",
+    "segs": [{"k": "m", "t": "kiến trúc bus XT, kiến trúc đường truyền dẫn XT."}],
+    "k": "xt bus architecture"
+  },
+  {"h": "Xt.", "segs": [{"k": "m", "t": "Viết tắt của christianity Christ"}], "k": "xt."},
+  {"h": "Xtian.", "segs": [{"k": "m", "t": "Viết tắt của christianity Christian"}], "k": "xtian."},
+  {
+    "h": "xtn.",
+    "segs": [{"k": "m", "t": "Viết tắt của telecommunications business extension"}],
+    "k": "xtn."
+  },
+  {
+    "h": "Xtreme Games",
+    "segs": [{"k": "m", "t": "danh từ số nhiều"}, {"k": "m", "t": "Như Extreme Games"}],
+    "k": "xtreme games"
+  },
+  {"h": "Xty.", "segs": [{"k": "m", "t": "Viết tắt của christianity Christianity"}], "k": "xty."}
+]

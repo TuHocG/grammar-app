@@ -1,1 +1,665 @@
-{"id":64,"code":"B 8","group":"B","n":8,"title":"B 8","first_line":"Now, I'd like to refer to the first graph","video":"B  8.avi","duration":601.4,"lines":[{"e":21.31,"en":"Now, I'd like to refer to the first graph","vi":"Bây giờ, tôi muốn nhắc đến biểu đồ đầu tiên","s":17.47},{"e":27.4,"en":"as you can see this is a bar graph measuring net sales over the first ten months of the year.","vi":"như các bạn thấy đây là một biểu đồ hình cột đo lường những doanh số bán hàng ròng trong 10 tháng đầu năm.","s":21.31},{"e":31.89,"en":"You'll notice that sales rose steadily in the first few months,","vi":"Bạn sẽ đề ý thấy rằng doanh số bán hàng tăng nhanh trong một vài tháng đầu,","s":27.4},{"e":34.96,"en":"then there was a marked increase in April.","vi":"và có một sự gia tăng ấn tượng vào tháng Tư.","s":31.89},{"e":40.01,"en":"They peaked in May at around 3.2 million, and levelled off,","vi":"Chúng tăng tột đỉnh vào tháng Năm khoảng 3,2 triệu, và chựng lại,","s":34.96},{"e":42.99,"en":"then there was a dramatic drop in the following month,","vi":"rồi sau đó lại có một sự giảm sút bất ngờ trong tháng tiếp theo,","s":40.01},{"e":46.46,"en":"followed by a significant increase in August,","vi":"được theo sau bởi một sự gia tăng đáng kể vào tháng Tám,","s":42.99},{"e":49.58,"en":"and this trend has continued up until the present.","vi":"và khuynh hướng này vẫn tiếp tục cho đến hiện nay.","s":46.46},{"e":52.24,"en":"What was the reason for the sudden drop in July?","vi":"Nguyên nhân của sự sụt giảm bất ngờ vào tháng Bảy là gì?","s":49.58},{"e":57.79,"en":"This was mainly due to a drop off in air conditioner sales - so it's a seasonal effect.","vi":"Ðiều này phần chính là do sự giảm sút doanh thu bán máy lạnh - nên đây là tác động theo mùa.","s":52.24},{"e":63.29,"en":"Could it be a consequence of the negative effect of the interest rate rise?","vi":"Nó có thể là hậu quả của tác động tiêu cực do lợi nhuận tăng không?","s":57.79},{"e":65.15,"en":"Possibly.","vi":"Có thể.","s":63.29},{"e":69.95,"en":"Now, if I could draw your attention to this next diagram.","vi":"Bây giờ, cho phép tôi kéo sự chú ý của các bạn sang biểu đồ kế tiếp này.","s":65.15},{"e":73.04,"en":"This is a line graph of sales","vi":"Ðây là biểu đồ đường thẳng của những doanh số bán hàng","s":69.95},{"e":79.55,"en":"the blue line represents air conditioner sales, the red line shows heaters.","vi":"đường thẳng màu xanh hiển thị doanh số bán hàng của máy lạnh, đường màu đỏ hiển thị cho lò sưởi.","s":73.04},{"e":86.39,"en":"As you'll note, air conditioner sales dropped steadily from January to July, bottoming out then,","vi":"Như các bạn sẽ thấy, doanh số bán hàng của máy lạnh giảm nhanh chóng từ tháng Một, rồi sau đó giảm đến mức thấp nhất,","s":79.55},{"e":91.88,"en":"while heater sales experienced a sharp increase from March to June,","vi":"trong khi doanh số bán hàng của lò sưởi lại trải qua một giai đoạn tăng khá nhanh từ tháng Ba đến tháng Sáu,","s":86.39},{"e":95.33,"en":"then dropped markedly from June to July,","vi":"rồi giảm mạnh từ tháng Sáu đến tháng Bảy,","s":91.88},{"e":100.44,"en":"then declined through to September, with a pronounced drop in October.","vi":"sau đó giảm tới tháng Chín, với một sự giảm sút rõ rệt vào tháng Mười.","s":95.33},{"e":103.2,"en":"Does this explain the fluctuation in total sales?","vi":"Ðiều này có giải thích được sự dao động trong tổng doanh số bán hàng không?","s":100.44},{"e":107.11,"en":"Largely - if we look at this pie diagram,","vi":"Trên quy mô lớn - nếu chúng ta nhìn vào biểu đồ hình tròn này.","s":103.2},{"e":114.21,"en":"you can see that air conditioners and heaters together represent more than half of our total sales","vi":"bạn có thể thấy rằng máy lạnh và lò sưởi cùng nhau chiếm hơn phân nửa tổng doanh số bán hàng của chúng ta","s":107.11},{"e":119.83,"en":"but they vary seasonally, while other appliances are fairly steady through the year.","vi":"nhưng chúng lại phụ thuộc vào mùa, trong khi những thiết bị khác lại khá ổn định trong suốt năm.","s":114.21},{"e":122.89,"en":"Well, we can't sell air conditioners when it's cold.","vi":"À, chúng ta không thể bán máy lạnh khi trời lạnh.","s":119.83},{"e":124.48,"en":"What's the solution?","vi":"Vậy giải pháp là gì?","s":122.89},{"e":126.53,"en":"Export to Europe and America!","vi":"Xuất khẩu sang châu Âu và châu Mỹ!","s":124.48},{"e":134.41,"en":"Easier said than done.","vi":"Nói thì dễ hơn làm.","s":126.53},{"e":140.93,"en":"Today we're looking at presenting information using charts and graphs.","vi":"Hôm nay chúng ta sẽ tập trung vào việc diễn đạt thông tin bằng biểu đồ và đồ thị.","s":134.41},{"e":143.81,"en":"We saw three types of diagram:","vi":"Chúng ta sẽ thấy ba loại biểu đồ:","s":140.93},{"e":146.55,"en":"A bar or column graph","vi":"Biểu đồ hình cột","s":143.81},{"e":149.82,"en":"A line graph and a pie chart.","vi":"biểu đồ đường thẳng và biểu đồ hình tròn.","s":146.55},{"e":154.09,"en":"Look at how Tan introduced his presentation.","vi":"Hãy xem cách Tân giới thiệu bài phát biểu của mình như thế nào.","s":149.82},{"e":157.2,"en":"Now, I'd like to refer to the first graph","vi":"Bây giờ tôi muốn nhắc đến biểu đồ đầu tiên","s":154.09},{"e":163.36,"en":"as you can see this is a bar graph measuring net sales over the first nine months of the year.","vi":"như các bạn có thể thấy đây là biểu đồ hình cột đo lường những doanh thu bán hàng trong 9 tháng đầu năm.","s":157.2},{"e":167.69,"en":"Tan says \"I'd like to refer to the first graph.\"","vi":"Tan nói \"Tôi muốn nhắc đến biểu đồ đầu tiên.\"","s":163.36},{"e":174.85,"en":"When referring to a diagram or graph, first direct your audience's attention to that diagram.","vi":"Khi nói đến một biểu đồ hay đồ thì, trước tiên hãy hướng sự chú ý của khán giả đến biểu đồ đó.","s":167.69},{"e":178.87,"en":"Practise with Tan some phrases to use for this.","vi":"Hãy thực hành cùng Tân một số câu để sử dụng cho mục đích này.","s":174.85},{"e":184.05,"en":"I'd like to refer to the first graph...","vi":"Tôi muốn nhắc đến biểu đồ thứ nhất...","s":178.87},{"e":189.6,"en":"If we have a look at this graph...","vi":"Nếu chúng ta nhìn vào biểu đồ này...","s":184.05},{"e":195.39,"en":"If I could direct your attention to the graph.","vi":"Cho phép tôi hướng sự chú ý của các bạn đến biểu đồ.","s":189.6},{"e":199.57,"en":"Looking at the graph on the screen...","vi":"Nhìn vào biểu đồ trên màn hình...","s":195.39},{"e":205.32,"en":"Let's look at the language Tan uses to describe what the graph shows.","vi":"Hãy xem ngôn từ Tan sử dụng để mô tả những gì biểu đồ hiển thị.","s":199.57},{"e":209.34,"en":"You'll notice that sales rose steadily in the first few months,","vi":"Bạn sẽ chú ý rằng doanh số bán hàng tăng nhanh trong một vài tháng đầu,","s":205.32},{"e":212.48,"en":"then there was a marked increase in April.","vi":"rồi có một sự gia tăng ấn tượng vào tháng Tư.","s":209.34},{"e":217.83,"en":"They peaked in May at around 3.2 million, and levelled off,","vi":"Chúng tăng tột đỉnh vào tháng Năm với khoảng 3,2 triệu, rồi chựng lại,","s":212.48},{"e":220.43,"en":"then there was a dramatic drop in the following month,","vi":"và có một sự giảm sút mạnh trong tháng tiếp theo,","s":217.83},{"e":224.07,"en":"followed by a significant increase n August,","vi":"theo sau bởi một sự gia tăng đáng kể trong tháng Tám,","s":220.43},{"e":227.12,"en":"and this trend has continued up until the present.","vi":"và khuynh hướng này vẫn tiếp tục tăng cho đến hiện nay.","s":224.07},{"e":235.05,"en":"Tan said the sales rose steadily at first, then there was a marked increase in April.","vi":"Tân đã nói doanh số bán hàng tăng nhanh trước, rồi có một sự gia tăng ấn tượng vào tháng Tư.","s":227.12},{"e":243.41,"en":"This levelled off, then there was a dramatic drop, and then a significant increase.","vi":"Sự gia tăng này chựng lại, rồi có một sự giảm sút mạnh, sau đó là một sự gia tăng đáng kể.","s":235.05},{"e":251.65,"en":"In describing trends, we use two words - one of those words is a noun or verb.","vi":"Khi mô tả các xu hướng, chúng ta sử dụng hai từ - một trong hai từ này là một danh từ hoặc động từ.","s":243.41},{"e":257.45,"en":"For example we may talk about an increase, or a decrease in numbers.","vi":"Ví dụ, chúng ta có thể nói về một sự gia tằng, hay sụt giảm về số lượng.","s":251.65},{"e":264.96,"en":"Other words for an increase are rise, climb, improvement, upturn.","vi":"Những từ khác nói về sự gia tăng là rise, climb, improvement, upturn.","s":257.45},{"e":276.29,"en":"Most of these words can also be used as a verb: to increase; to rise; to climb; to improve.","vi":"Hầu hết những từ này có thể sử dụng như là một động từ: to increase; to rise; to climb; to improve.","s":264.96},{"e":284.66,"en":"Other words for a decrease are fall, decline, worsening, downturn.","vi":"Những từ khác dùng cho sự sụt giảm là fall, decline, worsening, downturn.","s":276.29},{"e":293.85,"en":"These also have verbs from them: to decrease; to fall; to decline; to worsen.","vi":"Những từ này cũng có hình thức động từ là: to decrease; to fall; to decline; to worsen.","s":284.66},{"e":295.78,"en":"So we say","vi":"Nên chúng ta nói","s":293.85},{"e":302.64,"en":"there was an improvement in the figures for April, or the figures for April have improved.","vi":"Có một sự cải thiện về những con số của tháng Tư, hay những con số trong tháng Tư đã cải thiện.","s":295.78},{"e":310.58,"en":"There has been a decline in sales since June, or sales since June have declined.","vi":"Có một sự sụt giảm về doanh số bán hàng từ tháng Sáu, hay những doanh số bán hàng từ tháng Sáu đã sụt giảm.","s":302.64},{"e":316.53,"en":"But we often add more descriptive words -adjectives and adverbs.","vi":"Nhưng chúng ta thường dùng những từ mô tả nhiều hơn - tính từ và trạng từ.","s":310.58},{"e":323.68,"en":"Remember adjectives go before nouns, and adverbs go after verbs.","vi":"Nên nhớ tính từ đứng trước danh từ, và trạng từ đứng sau động từ thường.","s":316.53},{"e":331.69,"en":"These describe the change in figures - was it big or small, fast or slow?","vi":"Những từ này mô tả sự thay đổi về số lượng - nó lớn hay nhỏ, nhanh hay chậm?","s":323.68},{"e":342.1,"en":"Other words for a big change are significant, marked, massive, pronounced, substantial.","vi":"Những từ khác dùng để mô tả sự thay đổi lớn là Significant (đáng kể), marked (ấn tượng), massive (nhiều),","s":331.69},{"e":350.56,"en":"Most adjectives can also be made into adverbs, just by adding \"ly\" or \"lee.\"","vi":"Hầu hết những tính từ có thể được chuyển thành trạng thừ bằng cách thêm \"ly\" hay \"lee\" vào.","s":342.1},{"e":356.41,"en":"There is no adverb for \"big\", but informally we say \"a lot.\"","vi":"Không có trạng từ của 'big', nhưng thông thường chúng ta nói 'a lot' (nhiều)","s":350.56},{"e":366.29,"en":"Other words for small are slight, insignificant, and their adverbs slightly, insignificantly.","vi":"Những từ khác dùng cho thay đổi nhỏ là slight (nhẹ), insignificant (không đáng kể), và trạng từ của chúng là slightly, insignificantly.","s":356.41},{"e":373.99,"en":"Other words for a fast or quick change are sharp, dramatic, sudden,","vi":"Những từ khác dùng cho sự thay đổi nhanh là sharp (nhanh), dramatic (ấn tượng), sudden (bất ngờ, đột ngột),","s":366.29},{"e":378.1,"en":"and again we add \"ly\" for the adverbs.","vi":"và một lần nữa chúng ta thêm \"ly\" để tạo thành trạng từ.","s":373.99},{"e":384.22,"en":"And for a slow or medium change, we can use steady or moderate,","vi":"Và đối với một sự thay đổi chậm hay vừa, chúng ta có thể sử dụng steady (ổn định) hay moderate (vừa phải),","s":378.1},{"e":388.69,"en":"and the adverbs steadily and moderately.","vi":"và trạng từ của chúng là steadily và moderately.","s":384.22},{"e":395.31,"en":"Now - try changing the phrases from noun phrases into verb phrases","vi":"Bây giờ - hãy thay đổi những câu sử dụng danh từ sang câu sử dụng động từ","s":388.69},{"e":400.5,"en":"for example - if Tan says \"There was a dramatic increase in sales\"","vi":"chẳng hạn - nếu Tan nói \"Có một sự gia tăng ấn tượng về doanh số bán hàng\"","s":395.31},{"e":404.42,"en":"you say \"Sales increased dramatically.\"","vi":"bạn nói \"Doanh cố bán hàng tăng một cách ấn tượng.\"","s":400.5},{"e":405.68,"en":"Have a try.","vi":"Hãy thử xem.","s":404.42},{"e":411.99,"en":"There was a steady rise in sales.","vi":"Có một sự gia tăng ổn định về doanh số bán hàng.","s":405.68},{"e":415.32,"en":"Sales rose steadily.","vi":"Doanh số bán hàng tăng một cách ổn định.","s":411.99},{"e":420.31,"en":"There was a significant fall in sales.","vi":"Có một sự sụt giảm đáng kể về doanh số bán hàng.","s":415.32},{"e":425.02,"en":"Sales fell significantly.","vi":"Doanh số bán hàng sụt giảm một cách đáng kể.","s":420.31},{"e":430.65,"en":"There was a slight recovery in sales.","vi":"Có một sự phục hồi nhẹ về doanh số bán hàng.","s":425.02},{"e":434.02,"en":"Sales recovered slightly.","vi":"Doanh số bán hàng phục hồi nhẹ.","s":430.65},{"e":440.14,"en":"Now let's look at how Tan handles a question about the graph.","vi":"Bây giờ hãy xem cách Tan giải quyết một câu hỏi về biểu đồ như thế nào.","s":434.02},{"e":443.08,"en":"What was the reason for this sudden drop in July?","vi":"Và nguyên nhân cho sự sụt giảm bất ngờ trong tháng Bảy là gì?","s":440.14},{"e":448.7,"en":"This was mainly due to the drop off in air conditioner sales - so it's a seasonal effect.","vi":"Ðây phần lớn là do sự sụt giảm về doanh số bán hàng của máy lạnh - nên nó là do tác động theo mùa.","s":443.08},{"e":454.12,"en":"Could it be a consequence of the negative effect of the interest rate rise?","vi":"Nó có thể là một hậu quả do tác động tiêu cực của lãi suất tăng không?","s":448.7},{"e":458.01,"en":"Here are four useful phrases for describing causes:","vi":"Sau đây là bốn câu hữu ích dùng để mô tả những nguyên nhân:","s":454.12},{"e":459.68,"en":"Due to","vi":"Due to (là do)","s":458.01},{"e":464.44,"en":"The drop in sales is due to an interest rate rise.","vi":"Sự sụt giảm về doanh số bán hàng là do lãi suất tăng.","s":459.68},{"e":467.18,"en":"A consequence of","vi":"A consequence of (Một hậu quả của)","s":464.44},{"e":472.38,"en":"The drop in sales is a consequence of an interest rate rise.","vi":"Sự sụt giảm về doanh số bán hàng là hậu quả của việc tăng lãi suất.","s":467.18},{"e":474.6,"en":"Because of","vi":"Because of (bởi vì)","s":472.38},{"e":479.74,"en":"The drop in sales is because of an interest rate rise.","vi":"Sự sụt giảm về doanh số bán hàng là vì sự tăng lãi suất.","s":474.6},{"e":481.52,"en":"A result of","vi":"A result of (một kết quả của)","s":479.74},{"e":486.54,"en":"The drop in sales is a result of an interest rate rise.","vi":"Sự sụt giảm về doanh số bán hàng là kết quả của lãi suất tăng.","s":481.52},{"e":490.63,"en":"How does Tan explain his next diagram?","vi":"Tan giải thích về biểu đồ kế tiếp của mình như thế nào?","s":486.54},{"e":493.96,"en":"This is a line graph of sales","vi":"Ðây là biểu đồ đường thẳng của những doanh số bán hàng","s":490.63},{"e":499.67,"en":"the blue line represents air conditioner sales, the red line shows heaters.","vi":"đường màu xanh hiển thị doanh số bán hàng của máy lạnh, đường màu đỏ hiển thị cho lò sưởi.","s":493.96},{"e":507.29,"en":"As you'll note, air conditioner sales dropped steadily from January to July, bottoming out then,","vi":"Như các bạn sẽ thấy, doanh số bán hàng của máy lạnh giảm nhanh từ tháng Một đến tháng Bảy, rồi sau đó giảm đến mức thấp nhất,","s":499.67},{"e":512.87,"en":"while heater sales experienced a sharp increase from March to June,","vi":"trong khi doanh số bán hàng của lò sưởi trải qua một giai đoạn tăng nhanh từ tháng Ba đến tháng Sáu,","s":507.29},{"e":516.08,"en":"then dropped markedly from June to July,","vi":"và giảm mạnh từ tháng Sáu đến tháng Bảy,","s":512.87},{"e":521.05,"en":"then declined through to September, with a pronounced drop in October.","vi":"rồi giảm suốt đến tháng Chín, với một sự sụt giảm rõ rệt vào tháng Mười.","s":516.08},{"e":525.69,"en":"He says air conditioner sales \"bottomed out\" in July.","vi":"Anh ấy nói doanh số bán hàng \"bottomed out\" vào tháng Bảy.","s":521.05},{"e":528.95,"en":"This means they reached their lowest level.","vi":"Ðiều này có nghĩa là chúng giảm đến mức thấp nhất.","s":525.69},{"e":533.34,"en":"Then he says they \"experienced a sharp increase.\"","vi":"rồi anh ấy nói chúng \"trải qua một sự gia tăng nhanh.\"","s":528.95},{"e":538.22,"en":"And he says there was a \"pronounced\" drop in heater sales in October.","vi":"Và anh ấy nói rằng \"có sự sụt giảm rõ rệt về doanh số bán hàng của lò sưởi trong tháng Mười.\"","s":533.34},{"e":542.52,"en":"\"Pronounced\" here means significant, or large.","vi":"\"Pronounced\" ở đây có nghĩa là đáng kể, hay nhiều","s":538.22},{"e":547.46,"en":"Finally, look at how Tan talks about his pie diagram.","vi":"Cuối cùng, hãy xem cách Tan nói về biểu đồ hình tròn của mình.","s":542.52},{"e":550.78,"en":"...if we look at this pie diagram,","vi":"... nếu chúng ta nhìn vào biểu đồ hình tròn này,","s":547.46},{"e":558.22,"en":"you can see that air conditioners and heater sales together represent more than half of our total sales","vi":"bạn có thể thấy rằng doanh thu bán hàng của máy lạnh và lò sưởi gộp lại chiếm hơn nửa tổng số doanh số bán hàng của chúng ta","s":550.78},{"e":563.45,"en":"but they vary seasonally, while other appliances are fairly steady through the year.","vi":"nhưng chúng phụ thuộc vào mùa, trong khi những thiết bị khác thì khá ổn định trong suốt năm.","s":558.22},{"e":569.16,"en":"Tan says air conditioners and heaters \"represent\" more than half of sales.","vi":"Tan nói máy lạnh và lò sưởi \"represent\" hơn nửa doanh số bán hàng.","s":563.45},{"e":573.38,"en":"This means they account for more than half of the sales.","vi":"\"Represent\" ở đây có nghĩa là chúng chiếm hơn phân nửa doanh số bán hàng","s":569.16},{"e":575.79,"en":"We could put this another way:","vi":"Chúng ta có thể diễn đạt điều này bằng cách khác:","s":573.38},{"e":581.21,"en":"More than half of sales are represented by air conditioners and heaters.","vi":"Hơn nửa doanh số bán hàng được chiếm bởi máy lạnh và lò sưởi.","s":575.79},{"e":586.51,"en":"We could say washing machines represent 15% of sales.","vi":"Chúng ta có thể nói washing machines represent 15% of sales (máy giặt chiếm 15% doanh số bán hàng).","s":581.21},{"e":591.21,"en":"Washing machines account for 15% of sales.","vi":"Washing machines account for 15% of sales (máy lạnh chiếm 15% doanh số bán hàng).","s":586.51},{"e":595.69,"en":"Washing machines make up 15% of sales.","vi":"Washing machines make up 15% of sales (máy giặt chiếm 15% doanh số bán hàng).","s":591.21},{"e":600.19,"en":"And that's accounted for our time today in the Business of English.","vi":"Và đó là thời gian hôm nay của chúng tôi dành cho chương trình Tiếng Anh Thương Mại.","s":595.69},{"e":601.43,"en":"See you next time.","vi":"Hẹn gặp lại các bạn lần sau.","s":600.19}]}
+{
+  "id": 64,
+  "code": "B 8",
+  "group": "B",
+  "n": 8,
+  "title": "B 8",
+  "first_line": "Now, I'd like to refer to the first graph",
+  "video": "B  8.avi",
+  "duration": 601.4,
+  "lines": [
+    {
+      "e": 21.31,
+      "en": "Now, I'd like to refer to the first graph",
+      "vi": "Bây giờ, tôi muốn nhắc đến biểu đồ đầu tiên",
+      "s": 17.47
+    },
+    {
+      "e": 27.4,
+      "en": "as you can see this is a bar graph measuring net sales over the first ten months of the year.",
+      "vi": "như các bạn thấy đây là một biểu đồ hình cột đo lường những doanh số bán hàng ròng trong 10 tháng đầu năm.",
+      "s": 21.31
+    },
+    {
+      "e": 31.89,
+      "en": "You'll notice that sales rose steadily in the first few months,",
+      "vi": "Bạn sẽ đề ý thấy rằng doanh số bán hàng tăng nhanh trong một vài tháng đầu,",
+      "s": 27.4
+    },
+    {
+      "e": 34.96,
+      "en": "then there was a marked increase in April.",
+      "vi": "và có một sự gia tăng ấn tượng vào tháng Tư.",
+      "s": 31.89
+    },
+    {
+      "e": 40.01,
+      "en": "They peaked in May at around 3.2 million, and levelled off,",
+      "vi": "Chúng tăng tột đỉnh vào tháng Năm khoảng 3,2 triệu, và chựng lại,",
+      "s": 34.96
+    },
+    {
+      "e": 42.99,
+      "en": "then there was a dramatic drop in the following month,",
+      "vi": "rồi sau đó lại có một sự giảm sút bất ngờ trong tháng tiếp theo,",
+      "s": 40.01
+    },
+    {
+      "e": 46.46,
+      "en": "followed by a significant increase in August,",
+      "vi": "được theo sau bởi một sự gia tăng đáng kể vào tháng Tám,",
+      "s": 42.99
+    },
+    {
+      "e": 49.58,
+      "en": "and this trend has continued up until the present.",
+      "vi": "và khuynh hướng này vẫn tiếp tục cho đến hiện nay.",
+      "s": 46.46
+    },
+    {
+      "e": 52.24,
+      "en": "What was the reason for the sudden drop in July?",
+      "vi": "Nguyên nhân của sự sụt giảm bất ngờ vào tháng Bảy là gì?",
+      "s": 49.58
+    },
+    {
+      "e": 57.79,
+      "en": "This was mainly due to a drop off in air conditioner sales - so it's a seasonal effect.",
+      "vi": "Ðiều này phần chính là do sự giảm sút doanh thu bán máy lạnh - nên đây là tác động theo mùa.",
+      "s": 52.24
+    },
+    {
+      "e": 63.29,
+      "en": "Could it be a consequence of the negative effect of the interest rate rise?",
+      "vi": "Nó có thể là hậu quả của tác động tiêu cực do lợi nhuận tăng không?",
+      "s": 57.79
+    },
+    {"e": 65.15, "en": "Possibly.", "vi": "Có thể.", "s": 63.29},
+    {
+      "e": 69.95,
+      "en": "Now, if I could draw your attention to this next diagram.",
+      "vi": "Bây giờ, cho phép tôi kéo sự chú ý của các bạn sang biểu đồ kế tiếp này.",
+      "s": 65.15
+    },
+    {
+      "e": 73.04,
+      "en": "This is a line graph of sales",
+      "vi": "Ðây là biểu đồ đường thẳng của những doanh số bán hàng",
+      "s": 69.95
+    },
+    {
+      "e": 79.55,
+      "en": "the blue line represents air conditioner sales, the red line shows heaters.",
+      "vi": "đường thẳng màu xanh hiển thị doanh số bán hàng của máy lạnh, đường màu đỏ hiển thị cho lò sưởi.",
+      "s": 73.04
+    },
+    {
+      "e": 86.39,
+      "en": "As you'll note, air conditioner sales dropped steadily from January to July, bottoming out then,",
+      "vi": "Như các bạn sẽ thấy, doanh số bán hàng của máy lạnh giảm nhanh chóng từ tháng Một, rồi sau đó giảm đến mức thấp nhất,",
+      "s": 79.55
+    },
+    {
+      "e": 91.88,
+      "en": "while heater sales experienced a sharp increase from March to June,",
+      "vi": "trong khi doanh số bán hàng của lò sưởi lại trải qua một giai đoạn tăng khá nhanh từ tháng Ba đến tháng Sáu,",
+      "s": 86.39
+    },
+    {
+      "e": 95.33,
+      "en": "then dropped markedly from June to July,",
+      "vi": "rồi giảm mạnh từ tháng Sáu đến tháng Bảy,",
+      "s": 91.88
+    },
+    {
+      "e": 100.44,
+      "en": "then declined through to September, with a pronounced drop in October.",
+      "vi": "sau đó giảm tới tháng Chín, với một sự giảm sút rõ rệt vào tháng Mười.",
+      "s": 95.33
+    },
+    {
+      "e": 103.2,
+      "en": "Does this explain the fluctuation in total sales?",
+      "vi": "Ðiều này có giải thích được sự dao động trong tổng doanh số bán hàng không?",
+      "s": 100.44
+    },
+    {
+      "e": 107.11,
+      "en": "Largely - if we look at this pie diagram,",
+      "vi": "Trên quy mô lớn - nếu chúng ta nhìn vào biểu đồ hình tròn này.",
+      "s": 103.2
+    },
+    {
+      "e": 114.21,
+      "en": "you can see that air conditioners and heaters together represent more than half of our total sales",
+      "vi": "bạn có thể thấy rằng máy lạnh và lò sưởi cùng nhau chiếm hơn phân nửa tổng doanh số bán hàng của chúng ta",
+      "s": 107.11
+    },
+    {
+      "e": 119.83,
+      "en": "but they vary seasonally, while other appliances are fairly steady through the year.",
+      "vi": "nhưng chúng lại phụ thuộc vào mùa, trong khi những thiết bị khác lại khá ổn định trong suốt năm.",
+      "s": 114.21
+    },
+    {
+      "e": 122.89,
+      "en": "Well, we can't sell air conditioners when it's cold.",
+      "vi": "À, chúng ta không thể bán máy lạnh khi trời lạnh.",
+      "s": 119.83
+    },
+    {"e": 124.48, "en": "What's the solution?", "vi": "Vậy giải pháp là gì?", "s": 122.89},
+    {
+      "e": 126.53,
+      "en": "Export to Europe and America!",
+      "vi": "Xuất khẩu sang châu Âu và châu Mỹ!",
+      "s": 124.48
+    },
+    {"e": 134.41, "en": "Easier said than done.", "vi": "Nói thì dễ hơn làm.", "s": 126.53},
+    {
+      "e": 140.93,
+      "en": "Today we're looking at presenting information using charts and graphs.",
+      "vi": "Hôm nay chúng ta sẽ tập trung vào việc diễn đạt thông tin bằng biểu đồ và đồ thị.",
+      "s": 134.41
+    },
+    {
+      "e": 143.81,
+      "en": "We saw three types of diagram:",
+      "vi": "Chúng ta sẽ thấy ba loại biểu đồ:",
+      "s": 140.93
+    },
+    {"e": 146.55, "en": "A bar or column graph", "vi": "Biểu đồ hình cột", "s": 143.81},
+    {
+      "e": 149.82,
+      "en": "A line graph and a pie chart.",
+      "vi": "biểu đồ đường thẳng và biểu đồ hình tròn.",
+      "s": 146.55
+    },
+    {
+      "e": 154.09,
+      "en": "Look at how Tan introduced his presentation.",
+      "vi": "Hãy xem cách Tân giới thiệu bài phát biểu của mình như thế nào.",
+      "s": 149.82
+    },
+    {
+      "e": 157.2,
+      "en": "Now, I'd like to refer to the first graph",
+      "vi": "Bây giờ tôi muốn nhắc đến biểu đồ đầu tiên",
+      "s": 154.09
+    },
+    {
+      "e": 163.36,
+      "en": "as you can see this is a bar graph measuring net sales over the first nine months of the year.",
+      "vi": "như các bạn có thể thấy đây là biểu đồ hình cột đo lường những doanh thu bán hàng trong 9 tháng đầu năm.",
+      "s": 157.2
+    },
+    {
+      "e": 167.69,
+      "en": "Tan says \"I'd like to refer to the first graph.\"",
+      "vi": "Tan nói \"Tôi muốn nhắc đến biểu đồ đầu tiên.\"",
+      "s": 163.36
+    },
+    {
+      "e": 174.85,
+      "en": "When referring to a diagram or graph, first direct your audience's attention to that diagram.",
+      "vi": "Khi nói đến một biểu đồ hay đồ thì, trước tiên hãy hướng sự chú ý của khán giả đến biểu đồ đó.",
+      "s": 167.69
+    },
+    {
+      "e": 178.87,
+      "en": "Practise with Tan some phrases to use for this.",
+      "vi": "Hãy thực hành cùng Tân một số câu để sử dụng cho mục đích này.",
+      "s": 174.85
+    },
+    {
+      "e": 184.05,
+      "en": "I'd like to refer to the first graph...",
+      "vi": "Tôi muốn nhắc đến biểu đồ thứ nhất...",
+      "s": 178.87
+    },
+    {
+      "e": 189.6,
+      "en": "If we have a look at this graph...",
+      "vi": "Nếu chúng ta nhìn vào biểu đồ này...",
+      "s": 184.05
+    },
+    {
+      "e": 195.39,
+      "en": "If I could direct your attention to the graph.",
+      "vi": "Cho phép tôi hướng sự chú ý của các bạn đến biểu đồ.",
+      "s": 189.6
+    },
+    {
+      "e": 199.57,
+      "en": "Looking at the graph on the screen...",
+      "vi": "Nhìn vào biểu đồ trên màn hình...",
+      "s": 195.39
+    },
+    {
+      "e": 205.32,
+      "en": "Let's look at the language Tan uses to describe what the graph shows.",
+      "vi": "Hãy xem ngôn từ Tan sử dụng để mô tả những gì biểu đồ hiển thị.",
+      "s": 199.57
+    },
+    {
+      "e": 209.34,
+      "en": "You'll notice that sales rose steadily in the first few months,",
+      "vi": "Bạn sẽ chú ý rằng doanh số bán hàng tăng nhanh trong một vài tháng đầu,",
+      "s": 205.32
+    },
+    {
+      "e": 212.48,
+      "en": "then there was a marked increase in April.",
+      "vi": "rồi có một sự gia tăng ấn tượng vào tháng Tư.",
+      "s": 209.34
+    },
+    {
+      "e": 217.83,
+      "en": "They peaked in May at around 3.2 million, and levelled off,",
+      "vi": "Chúng tăng tột đỉnh vào tháng Năm với khoảng 3,2 triệu, rồi chựng lại,",
+      "s": 212.48
+    },
+    {
+      "e": 220.43,
+      "en": "then there was a dramatic drop in the following month,",
+      "vi": "và có một sự giảm sút mạnh trong tháng tiếp theo,",
+      "s": 217.83
+    },
+    {
+      "e": 224.07,
+      "en": "followed by a significant increase n August,",
+      "vi": "theo sau bởi một sự gia tăng đáng kể trong tháng Tám,",
+      "s": 220.43
+    },
+    {
+      "e": 227.12,
+      "en": "and this trend has continued up until the present.",
+      "vi": "và khuynh hướng này vẫn tiếp tục tăng cho đến hiện nay.",
+      "s": 224.07
+    },
+    {
+      "e": 235.05,
+      "en": "Tan said the sales rose steadily at first, then there was a marked increase in April.",
+      "vi": "Tân đã nói doanh số bán hàng tăng nhanh trước, rồi có một sự gia tăng ấn tượng vào tháng Tư.",
+      "s": 227.12
+    },
+    {
+      "e": 243.41,
+      "en": "This levelled off, then there was a dramatic drop, and then a significant increase.",
+      "vi": "Sự gia tăng này chựng lại, rồi có một sự giảm sút mạnh, sau đó là một sự gia tăng đáng kể.",
+      "s": 235.05
+    },
+    {
+      "e": 251.65,
+      "en": "In describing trends, we use two words - one of those words is a noun or verb.",
+      "vi": "Khi mô tả các xu hướng, chúng ta sử dụng hai từ - một trong hai từ này là một danh từ hoặc động từ.",
+      "s": 243.41
+    },
+    {
+      "e": 257.45,
+      "en": "For example we may talk about an increase, or a decrease in numbers.",
+      "vi": "Ví dụ, chúng ta có thể nói về một sự gia tằng, hay sụt giảm về số lượng.",
+      "s": 251.65
+    },
+    {
+      "e": 264.96,
+      "en": "Other words for an increase are rise, climb, improvement, upturn.",
+      "vi": "Những từ khác nói về sự gia tăng là rise, climb, improvement, upturn.",
+      "s": 257.45
+    },
+    {
+      "e": 276.29,
+      "en": "Most of these words can also be used as a verb: to increase; to rise; to climb; to improve.",
+      "vi": "Hầu hết những từ này có thể sử dụng như là một động từ: to increase; to rise; to climb; to improve.",
+      "s": 264.96
+    },
+    {
+      "e": 284.66,
+      "en": "Other words for a decrease are fall, decline, worsening, downturn.",
+      "vi": "Những từ khác dùng cho sự sụt giảm là fall, decline, worsening, downturn.",
+      "s": 276.29
+    },
+    {
+      "e": 293.85,
+      "en": "These also have verbs from them: to decrease; to fall; to decline; to worsen.",
+      "vi": "Những từ này cũng có hình thức động từ là: to decrease; to fall; to decline; to worsen.",
+      "s": 284.66
+    },
+    {"e": 295.78, "en": "So we say", "vi": "Nên chúng ta nói", "s": 293.85},
+    {
+      "e": 302.64,
+      "en": "there was an improvement in the figures for April, or the figures for April have improved.",
+      "vi": "Có một sự cải thiện về những con số của tháng Tư, hay những con số trong tháng Tư đã cải thiện.",
+      "s": 295.78
+    },
+    {
+      "e": 310.58,
+      "en": "There has been a decline in sales since June, or sales since June have declined.",
+      "vi": "Có một sự sụt giảm về doanh số bán hàng từ tháng Sáu, hay những doanh số bán hàng từ tháng Sáu đã sụt giảm.",
+      "s": 302.64
+    },
+    {
+      "e": 316.53,
+      "en": "But we often add more descriptive words -adjectives and adverbs.",
+      "vi": "Nhưng chúng ta thường dùng những từ mô tả nhiều hơn - tính từ và trạng từ.",
+      "s": 310.58
+    },
+    {
+      "e": 323.68,
+      "en": "Remember adjectives go before nouns, and adverbs go after verbs.",
+      "vi": "Nên nhớ tính từ đứng trước danh từ, và trạng từ đứng sau động từ thường.",
+      "s": 316.53
+    },
+    {
+      "e": 331.69,
+      "en": "These describe the change in figures - was it big or small, fast or slow?",
+      "vi": "Những từ này mô tả sự thay đổi về số lượng - nó lớn hay nhỏ, nhanh hay chậm?",
+      "s": 323.68
+    },
+    {
+      "e": 342.1,
+      "en": "Other words for a big change are significant, marked, massive, pronounced, substantial.",
+      "vi": "Những từ khác dùng để mô tả sự thay đổi lớn là Significant (đáng kể), marked (ấn tượng), massive (nhiều),",
+      "s": 331.69
+    },
+    {
+      "e": 350.56,
+      "en": "Most adjectives can also be made into adverbs, just by adding \"ly\" or \"lee.\"",
+      "vi": "Hầu hết những tính từ có thể được chuyển thành trạng thừ bằng cách thêm \"ly\" hay \"lee\" vào.",
+      "s": 342.1
+    },
+    {
+      "e": 356.41,
+      "en": "There is no adverb for \"big\", but informally we say \"a lot.\"",
+      "vi": "Không có trạng từ của 'big', nhưng thông thường chúng ta nói 'a lot' (nhiều)",
+      "s": 350.56
+    },
+    {
+      "e": 366.29,
+      "en": "Other words for small are slight, insignificant, and their adverbs slightly, insignificantly.",
+      "vi": "Những từ khác dùng cho thay đổi nhỏ là slight (nhẹ), insignificant (không đáng kể), và trạng từ của chúng là slightly, insignificantly.",
+      "s": 356.41
+    },
+    {
+      "e": 373.99,
+      "en": "Other words for a fast or quick change are sharp, dramatic, sudden,",
+      "vi": "Những từ khác dùng cho sự thay đổi nhanh là sharp (nhanh), dramatic (ấn tượng), sudden (bất ngờ, đột ngột),",
+      "s": 366.29
+    },
+    {
+      "e": 378.1,
+      "en": "and again we add \"ly\" for the adverbs.",
+      "vi": "và một lần nữa chúng ta thêm \"ly\" để tạo thành trạng từ.",
+      "s": 373.99
+    },
+    {
+      "e": 384.22,
+      "en": "And for a slow or medium change, we can use steady or moderate,",
+      "vi": "Và đối với một sự thay đổi chậm hay vừa, chúng ta có thể sử dụng steady (ổn định) hay moderate (vừa phải),",
+      "s": 378.1
+    },
+    {
+      "e": 388.69,
+      "en": "and the adverbs steadily and moderately.",
+      "vi": "và trạng từ của chúng là steadily và moderately.",
+      "s": 384.22
+    },
+    {
+      "e": 395.31,
+      "en": "Now - try changing the phrases from noun phrases into verb phrases",
+      "vi": "Bây giờ - hãy thay đổi những câu sử dụng danh từ sang câu sử dụng động từ",
+      "s": 388.69
+    },
+    {
+      "e": 400.5,
+      "en": "for example - if Tan says \"There was a dramatic increase in sales\"",
+      "vi": "chẳng hạn - nếu Tan nói \"Có một sự gia tăng ấn tượng về doanh số bán hàng\"",
+      "s": 395.31
+    },
+    {
+      "e": 404.42,
+      "en": "you say \"Sales increased dramatically.\"",
+      "vi": "bạn nói \"Doanh cố bán hàng tăng một cách ấn tượng.\"",
+      "s": 400.5
+    },
+    {"e": 405.68, "en": "Have a try.", "vi": "Hãy thử xem.", "s": 404.42},
+    {
+      "e": 411.99,
+      "en": "There was a steady rise in sales.",
+      "vi": "Có một sự gia tăng ổn định về doanh số bán hàng.",
+      "s": 405.68
+    },
+    {
+      "e": 415.32,
+      "en": "Sales rose steadily.",
+      "vi": "Doanh số bán hàng tăng một cách ổn định.",
+      "s": 411.99
+    },
+    {
+      "e": 420.31,
+      "en": "There was a significant fall in sales.",
+      "vi": "Có một sự sụt giảm đáng kể về doanh số bán hàng.",
+      "s": 415.32
+    },
+    {
+      "e": 425.02,
+      "en": "Sales fell significantly.",
+      "vi": "Doanh số bán hàng sụt giảm một cách đáng kể.",
+      "s": 420.31
+    },
+    {
+      "e": 430.65,
+      "en": "There was a slight recovery in sales.",
+      "vi": "Có một sự phục hồi nhẹ về doanh số bán hàng.",
+      "s": 425.02
+    },
+    {
+      "e": 434.02,
+      "en": "Sales recovered slightly.",
+      "vi": "Doanh số bán hàng phục hồi nhẹ.",
+      "s": 430.65
+    },
+    {
+      "e": 440.14,
+      "en": "Now let's look at how Tan handles a question about the graph.",
+      "vi": "Bây giờ hãy xem cách Tan giải quyết một câu hỏi về biểu đồ như thế nào.",
+      "s": 434.02
+    },
+    {
+      "e": 443.08,
+      "en": "What was the reason for this sudden drop in July?",
+      "vi": "Và nguyên nhân cho sự sụt giảm bất ngờ trong tháng Bảy là gì?",
+      "s": 440.14
+    },
+    {
+      "e": 448.7,
+      "en": "This was mainly due to the drop off in air conditioner sales - so it's a seasonal effect.",
+      "vi": "Ðây phần lớn là do sự sụt giảm về doanh số bán hàng của máy lạnh - nên nó là do tác động theo mùa.",
+      "s": 443.08
+    },
+    {
+      "e": 454.12,
+      "en": "Could it be a consequence of the negative effect of the interest rate rise?",
+      "vi": "Nó có thể là một hậu quả do tác động tiêu cực của lãi suất tăng không?",
+      "s": 448.7
+    },
+    {
+      "e": 458.01,
+      "en": "Here are four useful phrases for describing causes:",
+      "vi": "Sau đây là bốn câu hữu ích dùng để mô tả những nguyên nhân:",
+      "s": 454.12
+    },
+    {"e": 459.68, "en": "Due to", "vi": "Due to (là do)", "s": 458.01},
+    {
+      "e": 464.44,
+      "en": "The drop in sales is due to an interest rate rise.",
+      "vi": "Sự sụt giảm về doanh số bán hàng là do lãi suất tăng.",
+      "s": 459.68
+    },
+    {"e": 467.18, "en": "A consequence of", "vi": "A consequence of (Một hậu quả của)", "s": 464.44},
+    {
+      "e": 472.38,
+      "en": "The drop in sales is a consequence of an interest rate rise.",
+      "vi": "Sự sụt giảm về doanh số bán hàng là hậu quả của việc tăng lãi suất.",
+      "s": 467.18
+    },
+    {"e": 474.6, "en": "Because of", "vi": "Because of (bởi vì)", "s": 472.38},
+    {
+      "e": 479.74,
+      "en": "The drop in sales is because of an interest rate rise.",
+      "vi": "Sự sụt giảm về doanh số bán hàng là vì sự tăng lãi suất.",
+      "s": 474.6
+    },
+    {"e": 481.52, "en": "A result of", "vi": "A result of (một kết quả của)", "s": 479.74},
+    {
+      "e": 486.54,
+      "en": "The drop in sales is a result of an interest rate rise.",
+      "vi": "Sự sụt giảm về doanh số bán hàng là kết quả của lãi suất tăng.",
+      "s": 481.52
+    },
+    {
+      "e": 490.63,
+      "en": "How does Tan explain his next diagram?",
+      "vi": "Tan giải thích về biểu đồ kế tiếp của mình như thế nào?",
+      "s": 486.54
+    },
+    {
+      "e": 493.96,
+      "en": "This is a line graph of sales",
+      "vi": "Ðây là biểu đồ đường thẳng của những doanh số bán hàng",
+      "s": 490.63
+    },
+    {
+      "e": 499.67,
+      "en": "the blue line represents air conditioner sales, the red line shows heaters.",
+      "vi": "đường màu xanh hiển thị doanh số bán hàng của máy lạnh, đường màu đỏ hiển thị cho lò sưởi.",
+      "s": 493.96
+    },
+    {
+      "e": 507.29,
+      "en": "As you'll note, air conditioner sales dropped steadily from January to July, bottoming out then,",
+      "vi": "Như các bạn sẽ thấy, doanh số bán hàng của máy lạnh giảm nhanh từ tháng Một đến tháng Bảy, rồi sau đó giảm đến mức thấp nhất,",
+      "s": 499.67
+    },
+    {
+      "e": 512.87,
+      "en": "while heater sales experienced a sharp increase from March to June,",
+      "vi": "trong khi doanh số bán hàng của lò sưởi trải qua một giai đoạn tăng nhanh từ tháng Ba đến tháng Sáu,",
+      "s": 507.29
+    },
+    {
+      "e": 516.08,
+      "en": "then dropped markedly from June to July,",
+      "vi": "và giảm mạnh từ tháng Sáu đến tháng Bảy,",
+      "s": 512.87
+    },
+    {
+      "e": 521.05,
+      "en": "then declined through to September, with a pronounced drop in October.",
+      "vi": "rồi giảm suốt đến tháng Chín, với một sự sụt giảm rõ rệt vào tháng Mười.",
+      "s": 516.08
+    },
+    {
+      "e": 525.69,
+      "en": "He says air conditioner sales \"bottomed out\" in July.",
+      "vi": "Anh ấy nói doanh số bán hàng \"bottomed out\" vào tháng Bảy.",
+      "s": 521.05
+    },
+    {
+      "e": 528.95,
+      "en": "This means they reached their lowest level.",
+      "vi": "Ðiều này có nghĩa là chúng giảm đến mức thấp nhất.",
+      "s": 525.69
+    },
+    {
+      "e": 533.34,
+      "en": "Then he says they \"experienced a sharp increase.\"",
+      "vi": "rồi anh ấy nói chúng \"trải qua một sự gia tăng nhanh.\"",
+      "s": 528.95
+    },
+    {
+      "e": 538.22,
+      "en": "And he says there was a \"pronounced\" drop in heater sales in October.",
+      "vi": "Và anh ấy nói rằng \"có sự sụt giảm rõ rệt về doanh số bán hàng của lò sưởi trong tháng Mười.\"",
+      "s": 533.34
+    },
+    {
+      "e": 542.52,
+      "en": "\"Pronounced\" here means significant, or large.",
+      "vi": "\"Pronounced\" ở đây có nghĩa là đáng kể, hay nhiều",
+      "s": 538.22
+    },
+    {
+      "e": 547.46,
+      "en": "Finally, look at how Tan talks about his pie diagram.",
+      "vi": "Cuối cùng, hãy xem cách Tan nói về biểu đồ hình tròn của mình.",
+      "s": 542.52
+    },
+    {
+      "e": 550.78,
+      "en": "...if we look at this pie diagram,",
+      "vi": "... nếu chúng ta nhìn vào biểu đồ hình tròn này,",
+      "s": 547.46
+    },
+    {
+      "e": 558.22,
+      "en": "you can see that air conditioners and heater sales together represent more than half of our total sales",
+      "vi": "bạn có thể thấy rằng doanh thu bán hàng của máy lạnh và lò sưởi gộp lại chiếm hơn nửa tổng số doanh số bán hàng của chúng ta",
+      "s": 550.78
+    },
+    {
+      "e": 563.45,
+      "en": "but they vary seasonally, while other appliances are fairly steady through the year.",
+      "vi": "nhưng chúng phụ thuộc vào mùa, trong khi những thiết bị khác thì khá ổn định trong suốt năm.",
+      "s": 558.22
+    },
+    {
+      "e": 569.16,
+      "en": "Tan says air conditioners and heaters \"represent\" more than half of sales.",
+      "vi": "Tan nói máy lạnh và lò sưởi \"represent\" hơn nửa doanh số bán hàng.",
+      "s": 563.45
+    },
+    {
+      "e": 573.38,
+      "en": "This means they account for more than half of the sales.",
+      "vi": "\"Represent\" ở đây có nghĩa là chúng chiếm hơn phân nửa doanh số bán hàng",
+      "s": 569.16
+    },
+    {
+      "e": 575.79,
+      "en": "We could put this another way:",
+      "vi": "Chúng ta có thể diễn đạt điều này bằng cách khác:",
+      "s": 573.38
+    },
+    {
+      "e": 581.21,
+      "en": "More than half of sales are represented by air conditioners and heaters.",
+      "vi": "Hơn nửa doanh số bán hàng được chiếm bởi máy lạnh và lò sưởi.",
+      "s": 575.79
+    },
+    {
+      "e": 586.51,
+      "en": "We could say washing machines represent 15% of sales.",
+      "vi": "Chúng ta có thể nói washing machines represent 15% of sales (máy giặt chiếm 15% doanh số bán hàng).",
+      "s": 581.21
+    },
+    {
+      "e": 591.21,
+      "en": "Washing machines account for 15% of sales.",
+      "vi": "Washing machines account for 15% of sales (máy lạnh chiếm 15% doanh số bán hàng).",
+      "s": 586.51
+    },
+    {
+      "e": 595.69,
+      "en": "Washing machines make up 15% of sales.",
+      "vi": "Washing machines make up 15% of sales (máy giặt chiếm 15% doanh số bán hàng).",
+      "s": 591.21
+    },
+    {
+      "e": 600.19,
+      "en": "And that's accounted for our time today in the Business of English.",
+      "vi": "Và đó là thời gian hôm nay của chúng tôi dành cho chương trình Tiếng Anh Thương Mại.",
+      "s": 595.69
+    },
+    {"e": 601.43, "en": "See you next time.", "vi": "Hẹn gặp lại các bạn lần sau.", "s": 600.19}
+  ]
+}

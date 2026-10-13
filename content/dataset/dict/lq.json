@@ -1,1 +1,16 @@
-[{"h":"LQ","segs":[{"k":"m","t":"(letter qualily) chất lượng tiêu chuẩn, chất lượng như máy chữ."}],"k":"lq"},{"h":"LQ (letter quality)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chất lượng như máy chữ"},{"k":"m","t":"chất lượng tiêu chuẩn"}],"k":"lq (letter quality)"}]
+[
+  {
+    "h": "LQ",
+    "segs": [{"k": "m", "t": "(letter qualily) chất lượng tiêu chuẩn, chất lượng như máy chữ."}],
+    "k": "lq"
+  },
+  {
+    "h": "LQ (letter quality)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chất lượng như máy chữ"},
+      {"k": "m", "t": "chất lượng tiêu chuẩn"}
+    ],
+    "k": "lq (letter quality)"
+  }
+]

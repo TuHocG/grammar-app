@@ -1,1 +1,113 @@
-[{"h":"PP (parallel print)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"in song song"}],"k":"pp (parallel print)"},{"h":"pp junction","segs":[{"k":"m","t":"lớp chuyển tiếp pp."}],"k":"pp junction"},{"h":"pp scattering","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tán xạ pp"}],"k":"pp scattering"},{"h":"pp.","segs":[{"k":"m","t":"Viết tắt của pages"}],"k":"pp."},{"h":"ppb","segs":[{"k":"m","t":"Viết tắt của measurements parts per billion"}],"k":"ppb"},{"h":"ppe","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(tắt) của"},{"k":"ex","t":"philosophy, politics and economics","vi":"(triết học, chính trị và kinh tế)"},{"k":"m","t":"nhất là ở trường đại học Oxford)"},{"k":"ex","t":"a degree in PPE","vi":"học vị về triết học, chính trị và kinh tế."}],"ipa":",pi: pi: 'i:","k":"ppe"},{"h":"PPH","segs":[{"k":"m","t":"Viết tắt của paid personal holiday"}],"k":"pph"},{"h":"PPI","segs":[{"k":"m","t":"(programmable peripheral interface) giao diện thiết bị ngoại vi lập trình được."}],"k":"ppi"},{"h":"ppm","segs":[{"k":"m","t":"viết tắt của"},{"k":"ex","t":"parts per million","vi":"(phần triệu)."}],"k":"ppm"},{"h":"PPO","segs":[{"k":"m","t":"Viết tắt của U.S. health services insurance preferred-provider organization"}],"k":"ppo"},{"h":"PPO blend","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hỗn hợp PPO"}],"k":"ppo blend"},{"h":"ppolyphase circuit","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạch đa pha"},{"k":"m","t":"mạch điện nhiều pha"}],"k":"ppolyphase circuit"},{"h":"PPP","segs":[{"k":"m","t":"(Point-to-point Protocol) giao thức điểm nối điểm."}],"k":"ppp"},{"h":"pps","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"("},{"k":"ex","t":"PPS) (tắt) của tiếng La tinh post postcriptum","vi":"(tái bút nữa"},{"k":"m","t":"nhất là cuối bức thư)."}],"ipa":",pi: pi: 'es","k":"pps"},{"h":"PPSN","segs":[{"k":"m","t":"(Pubbe Packet Switched Network) mạng chuyển bó công cộng."}],"k":"ppsn"},{"h":"PPT","segs":[{"k":"m","t":"(primary program operator interface task) tác vụ giao diễn thao tác chương trình sơ cấp."}],"k":"ppt"},{"h":"PPV","segs":[{"k":"m","t":"Viết tắt của tv pay-per-view"}],"k":"ppv"},{"h":"PPX","segs":[{"k":"m","t":"(private packet switching exchange) tổng dài chuyển mạch bó riêng, tổng đài chuyển mạch bó nội bộ."}],"k":"ppx"}]
+[
+  {
+    "h": "PP (parallel print)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "in song song"}],
+    "k": "pp (parallel print)"
+  },
+  {"h": "pp junction", "segs": [{"k": "m", "t": "lớp chuyển tiếp pp."}], "k": "pp junction"},
+  {
+    "h": "pp scattering",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tán xạ pp"}],
+    "k": "pp scattering"
+  },
+  {"h": "pp.", "segs": [{"k": "m", "t": "Viết tắt của pages"}], "k": "pp."},
+  {"h": "ppb", "segs": [{"k": "m", "t": "Viết tắt của measurements parts per billion"}], "k": "ppb"},
+  {
+    "h": "ppe",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(tắt) của"},
+      {
+        "k": "ex",
+        "t": "philosophy, politics and economics",
+        "vi": "(triết học, chính trị và kinh tế)"
+      },
+      {"k": "m", "t": "nhất là ở trường đại học Oxford)"},
+      {"k": "ex", "t": "a degree in PPE", "vi": "học vị về triết học, chính trị và kinh tế."}
+    ],
+    "ipa": ",pi: pi: 'i:",
+    "k": "ppe"
+  },
+  {"h": "PPH", "segs": [{"k": "m", "t": "Viết tắt của paid personal holiday"}], "k": "pph"},
+  {
+    "h": "PPI",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(programmable peripheral interface) giao diện thiết bị ngoại vi lập trình được."
+      }
+    ],
+    "k": "ppi"
+  },
+  {
+    "h": "ppm",
+    "segs": [
+      {"k": "m", "t": "viết tắt của"},
+      {"k": "ex", "t": "parts per million", "vi": "(phần triệu)."}
+    ],
+    "k": "ppm"
+  },
+  {
+    "h": "PPO",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.S. health services insurance preferred-provider organization"}
+    ],
+    "k": "ppo"
+  },
+  {
+    "h": "PPO blend",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hỗn hợp PPO"}],
+    "k": "ppo blend"
+  },
+  {
+    "h": "ppolyphase circuit",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "mạch đa pha"},
+      {"k": "m", "t": "mạch điện nhiều pha"}
+    ],
+    "k": "ppolyphase circuit"
+  },
+  {
+    "h": "PPP",
+    "segs": [{"k": "m", "t": "(Point-to-point Protocol) giao thức điểm nối điểm."}],
+    "k": "ppp"
+  },
+  {
+    "h": "pps",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "("},
+      {"k": "ex", "t": "PPS) (tắt) của tiếng La tinh post postcriptum", "vi": "(tái bút nữa"},
+      {"k": "m", "t": "nhất là cuối bức thư)."}
+    ],
+    "ipa": ",pi: pi: 'es",
+    "k": "pps"
+  },
+  {
+    "h": "PPSN",
+    "segs": [{"k": "m", "t": "(Pubbe Packet Switched Network) mạng chuyển bó công cộng."}],
+    "k": "ppsn"
+  },
+  {
+    "h": "PPT",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(primary program operator interface task) tác vụ giao diễn thao tác chương trình sơ cấp."
+      }
+    ],
+    "k": "ppt"
+  },
+  {"h": "PPV", "segs": [{"k": "m", "t": "Viết tắt của tv pay-per-view"}], "k": "ppv"},
+  {
+    "h": "PPX",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(private packet switching exchange) tổng dài chuyển mạch bó riêng, tổng đài chuyển mạch bó nội bộ."
+      }
+    ],
+    "k": "ppx"
+  }
+]

@@ -1,1 +1,28 @@
-[{"h":"yha","segs":[{"k":"m","t":"(tắt) Liên hiệp ký túc xá thanh niên ("},{"k":"ex","t":"Youth Hostels Association","vi":")."}],"ipa":",wai eitʃ 'ei","k":"yha"},{"h":"YHWH","segs":[{"k":"m","t":"hoặc YHVH hoặc JHVH hoặc JHWH"},{"k":"pos","t":"danh từ"},{"k":"m","t":"God symbol: the transliteration of the four letters Tetragrammaton representing the name of God in the Bible."},{"k":"m","t":"This transliteration was only ever pronounced by the high priest in the Temple."},{"k":"m","t":"Xem AdonaiYahweh"}],"k":"yhwh"}]
+[
+  {
+    "h": "yha",
+    "segs": [
+      {"k": "m", "t": "(tắt) Liên hiệp ký túc xá thanh niên ("},
+      {"k": "ex", "t": "Youth Hostels Association", "vi": ")."}
+    ],
+    "ipa": ",wai eitʃ 'ei",
+    "k": "yha"
+  },
+  {
+    "h": "YHWH",
+    "segs": [
+      {"k": "m", "t": "hoặc YHVH hoặc JHVH hoặc JHWH"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "God symbol: the transliteration of the four letters Tetragrammaton representing the name of God in the Bible."
+      },
+      {
+        "k": "m",
+        "t": "This transliteration was only ever pronounced by the high priest in the Temple."
+      },
+      {"k": "m", "t": "Xem AdonaiYahweh"}
+    ],
+    "k": "yhwh"
+  }
+]

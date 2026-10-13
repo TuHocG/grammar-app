@@ -1,1 +1,43 @@
-[{"h":"hg","segs":[{"k":"m","t":"HG"},{"k":"m","t":"viết tắt"},{"k":"m","t":"His/Her Grace: Ngài; Ðức"},{"k":"m","t":"HG the Duke/Duchess of Kent: Ngài Quận công/Ðức bà Quận công xứ Kent."}],"k":"hg"},{"h":"hg (mercury)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"thủy ngân"}],"k":"hg (mercury)"},{"h":"HGA","segs":[{"k":"m","t":"(Hercules Graphics Adapter) bộ điều hợp đồ họa Hercules, bộ thích ứng đồ họa Hercules."}],"k":"hga"},{"h":"HGC","segs":[{"k":"m","t":"(Hercules Graphics Card) Card đồ họa Hercules, thẻ mạch đồ họa Hercules."}],"k":"hgc"},{"h":"hgv","segs":[{"k":"m","t":"(tắt) xe có trọng tải nặng ("},{"k":"ex","t":"heavy goods vehicle","vi":")."}],"ipa":",eitʃ dʒi: 'vi:","k":"hgv"}]
+[
+  {
+    "h": "hg",
+    "segs": [
+      {"k": "m", "t": "HG"},
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "His/Her Grace: Ngài; Ðức"},
+      {"k": "m", "t": "HG the Duke/Duchess of Kent: Ngài Quận công/Ðức bà Quận công xứ Kent."}
+    ],
+    "k": "hg"
+  },
+  {
+    "h": "hg (mercury)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "thủy ngân"}],
+    "k": "hg (mercury)"
+  },
+  {
+    "h": "HGA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Hercules Graphics Adapter) bộ điều hợp đồ họa Hercules, bộ thích ứng đồ họa Hercules."
+      }
+    ],
+    "k": "hga"
+  },
+  {
+    "h": "HGC",
+    "segs": [
+      {"k": "m", "t": "(Hercules Graphics Card) Card đồ họa Hercules, thẻ mạch đồ họa Hercules."}
+    ],
+    "k": "hgc"
+  },
+  {
+    "h": "hgv",
+    "segs": [
+      {"k": "m", "t": "(tắt) xe có trọng tải nặng ("},
+      {"k": "ex", "t": "heavy goods vehicle", "vi": ")."}
+    ],
+    "ipa": ",eitʃ dʒi: 'vi:",
+    "k": "hgv"
+  }
+]

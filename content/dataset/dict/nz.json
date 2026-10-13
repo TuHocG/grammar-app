@@ -1,1 +1,22 @@
-[{"h":"nz","segs":[{"k":"m","t":"NZ"},{"k":"m","t":"viết tắt của New Zealand."}],"k":"nz"},{"h":"NZBC","segs":[{"k":"m","t":"Viết tắt của New Zealand Broadcasting Corporation"}],"k":"nzbc"},{"h":"NZMA","segs":[{"k":"m","t":"Viết tắt của U.K. New Zealand Medical Association"}],"k":"nzma"},{"h":"NZRFU","segs":[{"k":"m","t":"Viết tắt của U.K. New Zealand Rugby Football Union"}],"k":"nzrfu"}]
+[
+  {
+    "h": "nz",
+    "segs": [{"k": "m", "t": "NZ"}, {"k": "m", "t": "viết tắt của New Zealand."}],
+    "k": "nz"
+  },
+  {
+    "h": "NZBC",
+    "segs": [{"k": "m", "t": "Viết tắt của New Zealand Broadcasting Corporation"}],
+    "k": "nzbc"
+  },
+  {
+    "h": "NZMA",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. New Zealand Medical Association"}],
+    "k": "nzma"
+  },
+  {
+    "h": "NZRFU",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. New Zealand Rugby Football Union"}],
+    "k": "nzrfu"
+  }
+]

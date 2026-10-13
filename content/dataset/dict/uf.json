@@ -1,1 +1,104 @@
-[{"h":"UF (uranium hexafluoride)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"urani hexaflorua"}],"k":"uf (uranium hexafluoride)"},{"h":"Ufa","segs":[{"k":"m","t":"industrial city in southeastern European Russia, situated at the confluence of the Ufa và Belaya rivers, on the western slopes of the Ural Mountains."},{"k":"m","t":"Dân số khoảng: 1,042,400 (2002)"}],"k":"ufa"},{"h":"Uffington","segs":[{"k":"m","t":"village in Oxfordshire, south central England. A large figure of a white horse cut in the chalk hill nearby is believed to date from the Iron Age."},{"k":"m","t":"Dân số khoảng: 748 (1991)"}],"k":"uffington"},{"h":"Uffizi","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"art museum in Florence, Italy: a museum in Florence that contains one of the world's finest collections of Italian paintings."},{"k":"m","t":"It is located in 16th-century buildings first used to house the Medici family's art collection, the nucleus of the museum's present holdings."}],"k":"uffizi"},{"h":"ufo","segs":[{"k":"m","t":"viết tắt, số nhiều là"},{"k":"ex","t":"ufos như UFO","vi":"."}],"ipa":"'ju:fou","k":"ufo","q":{"vi":"(viết tắt của Unidentified Flying Object) vật thể bay lạ, đĩa bay","ipa":"'ju:fəʊ","pos":"n"}},{"h":"UFO (cg ufo)","segs":[{"k":"m","t":"(vt) (snh thêm s).-unideatified flying object: Các vật bay chưa được xác định (đĩa bay)"}],"ipa":"ju:efəu","k":"ufo (cg ufo)"},{"h":"ufological","segs":[{"k":"m","t":"(adj)"},{"k":"m","t":"(Tham khảo)"},{"k":"ex","t":"ufology","vi":"."}],"k":"ufological"},{"h":"ufologist","segs":[{"k":"m","t":"one who studied ufology; expert in the study of UFOs"},{"k":"m","t":"Else:"},{"k":"m","t":"One who studies UFO related incidents, and searches for proof of UFOs."},{"k":"m","t":"1. Ufologists are scientists, except they know nothing about scientific theory and forming logical, reasonable hypothesises."}],"k":"ufologist"},{"h":"ufology","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"study of UFOs: the study of UFOs, especially the investigation of recorded sightings of them"}],"k":"ufology"},{"h":"UFP","segs":[{"k":"m","t":"(utility faclities program) chương trình thiết bị tiện ích."}],"k":"ufp"}]
+[
+  {
+    "h": "UF (uranium hexafluoride)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "urani hexaflorua"}],
+    "k": "uf (uranium hexafluoride)"
+  },
+  {
+    "h": "Ufa",
+    "segs": [
+      {
+        "k": "m",
+        "t": "industrial city in southeastern European Russia, situated at the confluence of the Ufa và Belaya rivers, on the western slopes of the Ural Mountains."
+      },
+      {"k": "m", "t": "Dân số khoảng: 1,042,400 (2002)"}
+    ],
+    "k": "ufa"
+  },
+  {
+    "h": "Uffington",
+    "segs": [
+      {
+        "k": "m",
+        "t": "village in Oxfordshire, south central England. A large figure of a white horse cut in the chalk hill nearby is believed to date from the Iron Age."
+      },
+      {"k": "m", "t": "Dân số khoảng: 748 (1991)"}
+    ],
+    "k": "uffington"
+  },
+  {
+    "h": "Uffizi",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "art museum in Florence, Italy: a museum in Florence that contains one of the world's finest collections of Italian paintings."
+      },
+      {
+        "k": "m",
+        "t": "It is located in 16th-century buildings first used to house the Medici family's art collection, the nucleus of the museum's present holdings."
+      }
+    ],
+    "k": "uffizi"
+  },
+  {
+    "h": "ufo",
+    "segs": [{"k": "m", "t": "viết tắt, số nhiều là"}, {"k": "ex", "t": "ufos như UFO", "vi": "."}],
+    "ipa": "'ju:fou",
+    "k": "ufo",
+    "q": {
+      "vi": "(viết tắt của Unidentified Flying Object) vật thể bay lạ, đĩa bay",
+      "ipa": "'ju:fəʊ",
+      "pos": "n"
+    }
+  },
+  {
+    "h": "UFO (cg ufo)",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(vt) (snh thêm s).-unideatified flying object: Các vật bay chưa được xác định (đĩa bay)"
+      }
+    ],
+    "ipa": "ju:efəu",
+    "k": "ufo (cg ufo)"
+  },
+  {
+    "h": "ufological",
+    "segs": [
+      {"k": "m", "t": "(adj)"},
+      {"k": "m", "t": "(Tham khảo)"},
+      {"k": "ex", "t": "ufology", "vi": "."}
+    ],
+    "k": "ufological"
+  },
+  {
+    "h": "ufologist",
+    "segs": [
+      {"k": "m", "t": "one who studied ufology; expert in the study of UFOs"},
+      {"k": "m", "t": "Else:"},
+      {"k": "m", "t": "One who studies UFO related incidents, and searches for proof of UFOs."},
+      {
+        "k": "m",
+        "t": "1. Ufologists are scientists, except they know nothing about scientific theory and forming logical, reasonable hypothesises."
+      }
+    ],
+    "k": "ufologist"
+  },
+  {
+    "h": "ufology",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "study of UFOs: the study of UFOs, especially the investigation of recorded sightings of them"
+      }
+    ],
+    "k": "ufology"
+  },
+  {
+    "h": "UFP",
+    "segs": [{"k": "m", "t": "(utility faclities program) chương trình thiết bị tiện ích."}],
+    "k": "ufp"
+  }
+]

@@ -1,1 +1,76 @@
-[{"h":"ikat","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"technique of patterning fabric: a technique for making patterned fabric by using tie-dyed yarn"}],"k":"ikat"},{"h":"ike","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"iconoscope như iconoscope","vi":"."}],"ipa":"aik","k":"ike"},{"h":"ikebana","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"nghệ thuật cắm hoa (chú trọng sự cân đối và hài hòa)."}],"ipa":",i:kə'ba:nə","k":"ikebana"},{"h":"Ikeda Hayato","segs":[{"k":"m","t":"(1899-1965) Ông là một thành viên chính phủ Nhật. Ông gia chính phủ với chức vụ chỉ huy dịch vụ thuế quan, rồi năm 1945, ông trở thành chánh văn phòng quan thuế quốc gia."},{"k":"m","t":"Ông đã từng làm thứ trưởng bộ tài chính trong nội các Yoshida Shigera năm 1947. Ông đắc cử vào viện dân biểu năm 1949, tiếp tục làm bộ trưởng bộ tài chính và nội thương trong thập niên 1950, cho nên ông Ikeda trở thành thủ tướng chính phủ Nhật (1960-1964). Ông tận tâm đưa nền kinh tế Nhật phát triển thông qua việc mở rộng những liên lạc thương mại quốc tế."}],"k":"ikeda hayato"},{"h":"ikey","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(khinh bỉ) người Do Thái"},{"k":"pos","t":"tính từ"},{"k":"m","t":"thuộc người Do Thái."}],"ipa":"'aiki","k":"ikey"},{"h":"Ikhwan","segs":[{"k":"m","t":"danh từ số nhiều"},{"k":"m","t":"Islamic movement important to Saudi Arabia: in 20th-century Islam, a religious và military movement whose members practice Wahhabism."},{"k":"m","t":"The Ikhwan played an important role in the unification of Saudi Arabia."}],"k":"ikhwan"},{"h":"ikon","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"icon như icon","vi":"."}],"ipa":"'aikən","k":"ikon"},{"h":"IKWUM","segs":[{"k":"m","t":"Viết tắt của online I know what you mean (used in e-mails)"}],"k":"ikwum"}]
+[
+  {
+    "h": "ikat",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "technique of patterning fabric: a technique for making patterned fabric by using tie-dyed yarn"
+      }
+    ],
+    "k": "ikat"
+  },
+  {
+    "h": "ike",
+    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "iconoscope như iconoscope", "vi": "."}],
+    "ipa": "aik",
+    "k": "ike"
+  },
+  {
+    "h": "ikebana",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "nghệ thuật cắm hoa (chú trọng sự cân đối và hài hòa)."}
+    ],
+    "ipa": ",i:kə'ba:nə",
+    "k": "ikebana"
+  },
+  {
+    "h": "Ikeda Hayato",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(1899-1965) Ông là một thành viên chính phủ Nhật. Ông gia chính phủ với chức vụ chỉ huy dịch vụ thuế quan, rồi năm 1945, ông trở thành chánh văn phòng quan thuế quốc gia."
+      },
+      {
+        "k": "m",
+        "t": "Ông đã từng làm thứ trưởng bộ tài chính trong nội các Yoshida Shigera năm 1947. Ông đắc cử vào viện dân biểu năm 1949, tiếp tục làm bộ trưởng bộ tài chính và nội thương trong thập niên 1950, cho nên ông Ikeda trở thành thủ tướng chính phủ Nhật (1960-1964). Ông tận tâm đưa nền kinh tế Nhật phát triển thông qua việc mở rộng những liên lạc thương mại quốc tế."
+      }
+    ],
+    "k": "ikeda hayato"
+  },
+  {
+    "h": "ikey",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(khinh bỉ) người Do Thái"},
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "thuộc người Do Thái."}
+    ],
+    "ipa": "'aiki",
+    "k": "ikey"
+  },
+  {
+    "h": "Ikhwan",
+    "segs": [
+      {"k": "m", "t": "danh từ số nhiều"},
+      {
+        "k": "m",
+        "t": "Islamic movement important to Saudi Arabia: in 20th-century Islam, a religious và military movement whose members practice Wahhabism."
+      },
+      {"k": "m", "t": "The Ikhwan played an important role in the unification of Saudi Arabia."}
+    ],
+    "k": "ikhwan"
+  },
+  {
+    "h": "ikon",
+    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "icon như icon", "vi": "."}],
+    "ipa": "'aikən",
+    "k": "ikon"
+  },
+  {
+    "h": "IKWUM",
+    "segs": [{"k": "m", "t": "Viết tắt của online I know what you mean (used in e-mails)"}],
+    "k": "ikwum"
+  }
+]

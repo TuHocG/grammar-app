@@ -1,1 +1,11 @@
-[{"h":"gzip","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình gzip"},{"k":"m","t":"công cụ gzip"}],"k":"gzip"}]
+[
+  {
+    "h": "gzip",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chương trình gzip"},
+      {"k": "m", "t": "công cụ gzip"}
+    ],
+    "k": "gzip"
+  }
+]

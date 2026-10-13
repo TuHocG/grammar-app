@@ -1,1 +1,4 @@
-[{"h":"JSA","segs":[{"k":"m","t":"Viết tắt của U.K. Job Seeker's Allowance"}],"k":"jsa"},{"h":"JSB","segs":[{"k":"m","t":"Viết tắt của U.K. banking joint-stock bank"}],"k":"jsb"}]
+[
+  {"h": "JSA", "segs": [{"k": "m", "t": "Viết tắt của U.K. Job Seeker's Allowance"}], "k": "jsa"},
+  {"h": "JSB", "segs": [{"k": "m", "t": "Viết tắt của U.K. banking joint-stock bank"}], "k": "jsb"}
+]

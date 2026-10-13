@@ -1,1 +1,40 @@
-[{"h":"Rb","segs":[{"k":"m","t":"ký. rubidium, chất Rubiđi."}],"k":"rb"},{"h":"rb (rubidium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"rubidi"}],"k":"rb (rubidium)"},{"h":"RBA","segs":[{"k":"m","t":"(relative byte address) địa chỉ byte tương đối."}],"k":"rba"},{"h":"RBC","segs":[{"k":"m","t":"hoặc rbc"},{"k":"m","t":"abbreviation"},{"k":"m","t":"medicine red blood (cell) count"}],"k":"rbc"},{"h":"RBE","segs":[{"k":"m","t":"hoặc rbe"},{"k":"m","t":"abbreviation"},{"k":"m","t":"biology relative biological effectiveness"}],"k":"rbe"},{"h":"RBI","segs":[{"k":"m","t":"hoặc rbi"},{"k":"m","t":"abbreviation"},{"k":"m","t":"baseball runs batted in"}],"k":"rbi"}]
+[
+  {"h": "Rb", "segs": [{"k": "m", "t": "ký. rubidium, chất Rubiđi."}], "k": "rb"},
+  {
+    "h": "rb (rubidium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "rubidi"}],
+    "k": "rb (rubidium)"
+  },
+  {
+    "h": "RBA",
+    "segs": [{"k": "m", "t": "(relative byte address) địa chỉ byte tương đối."}],
+    "k": "rba"
+  },
+  {
+    "h": "RBC",
+    "segs": [
+      {"k": "m", "t": "hoặc rbc"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "medicine red blood (cell) count"}
+    ],
+    "k": "rbc"
+  },
+  {
+    "h": "RBE",
+    "segs": [
+      {"k": "m", "t": "hoặc rbe"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "biology relative biological effectiveness"}
+    ],
+    "k": "rbe"
+  },
+  {
+    "h": "RBI",
+    "segs": [
+      {"k": "m", "t": "hoặc rbi"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "baseball runs batted in"}
+    ],
+    "k": "rbi"
+  }
+]

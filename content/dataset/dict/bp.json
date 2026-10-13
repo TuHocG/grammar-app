@@ -1,1 +1,91 @@
-[{"h":"BP","segs":[{"k":"m","t":"(tắt) Công ty dầu lửa Anh ("},{"k":"ex","t":"British Petroleum) huyết áp (blood pressure","vi":")."}],"ipa":",bi: 'pi:","k":"bp"},{"h":"bp.","segs":[{"k":"m","t":"Viết tắt của 1. physiology batting practice (sense 1)"},{"k":"m","t":"2. baptized"},{"k":"m","t":"3. chemistry genetics base pair"},{"k":"m","t":"4. B/Pfinance bills payable"},{"k":"m","t":"5. birthplace"},{"k":"m","t":"6. chess bishop"}],"k":"bp."},{"h":"BPA","segs":[{"k":"m","t":"công ty kiểm tra phát hành các xuất bản phẩm kinh doanh."}],"k":"bpa"},{"h":"BPAM","segs":[{"k":"m","t":"(basic partilioned access method) phương pháp truy cập phân chia cơ bản."}],"k":"bpam"},{"h":"bpc","segs":[{"k":"m","t":"(tắt) từ điển dược phẩm đặc chế Anh quốc ("},{"k":"ex","t":"British Pharmaceutical Codex","vi":")."}],"ipa":",bi: pi: 'si:","k":"bpc"},{"h":"BPCB","segs":[{"k":"m","t":"(buffer pool control block) khối điều khiển vùng đệm."}],"k":"bpcb"},{"h":"BPDTY","segs":[{"k":"m","t":"(buffer pool directory) thư mục vùng đệm."}],"k":"bpdty"},{"h":"BPF (BANDPASS FILTER)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ lọc thông dải (dải thông)"}],"k":"bpf (bandpass filter)"},{"h":"bpi","segs":[{"k":"m","t":"(bits per inch) số bit trên mỗi inch."}],"k":"bpi"},{"h":"bpm","segs":[{"k":"m","t":"Viết tắt của beats per minute"}],"k":"bpm"},{"h":"Bpondylolisthesis","segs":[{"k":"m","t":"bệnh trượt đốt sống."}],"k":"bpondylolisthesis"},{"h":"bpp","segs":[{"k":"m","t":"(bits per pixel) số bit trên mỗi phần tử ảnh."}],"k":"bpp"},{"h":"BPR","segs":[{"k":"m","t":"Viết tắt của business process reengineering"}],"k":"bpr"},{"h":"bps","segs":[{"k":"m","t":"(bits per second) số bit trên giây."}],"k":"bps"},{"h":"BPSK","segs":[{"k":"m","t":"(binary phase-shift keying) sự đánh tín hiệu dịch pha nhị phân, khóa dịch pha nhị phân, PSK nhị phân."}],"k":"bpsk"},{"h":"BPU","segs":[{"k":"m","t":"(branch prediction unit) đơn vị dự báo rẽ nhánh."}],"k":"bpu"}]
+[
+  {
+    "h": "BP",
+    "segs": [
+      {"k": "m", "t": "(tắt) Công ty dầu lửa Anh ("},
+      {"k": "ex", "t": "British Petroleum) huyết áp (blood pressure", "vi": ")."}
+    ],
+    "ipa": ",bi: 'pi:",
+    "k": "bp"
+  },
+  {
+    "h": "bp.",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. physiology batting practice (sense 1)"},
+      {"k": "m", "t": "2. baptized"},
+      {"k": "m", "t": "3. chemistry genetics base pair"},
+      {"k": "m", "t": "4. B/Pfinance bills payable"},
+      {"k": "m", "t": "5. birthplace"},
+      {"k": "m", "t": "6. chess bishop"}
+    ],
+    "k": "bp."
+  },
+  {
+    "h": "BPA",
+    "segs": [{"k": "m", "t": "công ty kiểm tra phát hành các xuất bản phẩm kinh doanh."}],
+    "k": "bpa"
+  },
+  {
+    "h": "BPAM",
+    "segs": [
+      {"k": "m", "t": "(basic partilioned access method) phương pháp truy cập phân chia cơ bản."}
+    ],
+    "k": "bpam"
+  },
+  {
+    "h": "bpc",
+    "segs": [
+      {"k": "m", "t": "(tắt) từ điển dược phẩm đặc chế Anh quốc ("},
+      {"k": "ex", "t": "British Pharmaceutical Codex", "vi": ")."}
+    ],
+    "ipa": ",bi: pi: 'si:",
+    "k": "bpc"
+  },
+  {
+    "h": "BPCB",
+    "segs": [{"k": "m", "t": "(buffer pool control block) khối điều khiển vùng đệm."}],
+    "k": "bpcb"
+  },
+  {
+    "h": "BPDTY",
+    "segs": [{"k": "m", "t": "(buffer pool directory) thư mục vùng đệm."}],
+    "k": "bpdty"
+  },
+  {
+    "h": "BPF (BANDPASS FILTER)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bộ lọc thông dải (dải thông)"}
+    ],
+    "k": "bpf (bandpass filter)"
+  },
+  {"h": "bpi", "segs": [{"k": "m", "t": "(bits per inch) số bit trên mỗi inch."}], "k": "bpi"},
+  {"h": "bpm", "segs": [{"k": "m", "t": "Viết tắt của beats per minute"}], "k": "bpm"},
+  {
+    "h": "Bpondylolisthesis",
+    "segs": [{"k": "m", "t": "bệnh trượt đốt sống."}],
+    "k": "bpondylolisthesis"
+  },
+  {
+    "h": "bpp",
+    "segs": [{"k": "m", "t": "(bits per pixel) số bit trên mỗi phần tử ảnh."}],
+    "k": "bpp"
+  },
+  {"h": "BPR", "segs": [{"k": "m", "t": "Viết tắt của business process reengineering"}], "k": "bpr"},
+  {"h": "bps", "segs": [{"k": "m", "t": "(bits per second) số bit trên giây."}], "k": "bps"},
+  {
+    "h": "BPSK",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(binary phase-shift keying) sự đánh tín hiệu dịch pha nhị phân, khóa dịch pha nhị phân, PSK nhị phân."
+      }
+    ],
+    "k": "bpsk"
+  },
+  {
+    "h": "BPU",
+    "segs": [{"k": "m", "t": "(branch prediction unit) đơn vị dự báo rẽ nhánh."}],
+    "k": "bpu"
+  }
+]

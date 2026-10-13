@@ -1,1 +1,25 @@
-[{"h":"fj","segs":[{"k":"m","t":"Viết tắt của Fiji (used in Internet addresses)"}],"k":"fj"},{"h":"fjeld","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"cao nguyên khô cằn ở Xcăngđinavi."}],"ipa":"fied","k":"fjeld"},{"h":"fjord","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"fiord như fiord","vi":"."}],"ipa":"fjɔ:d","k":"fjord"},{"h":"fjord (= fiord)","segs":[{"k":"m","t":"(dt) Vịnh hẹp."}],"ipa":"fjɔ:d","k":"fjord (= fiord)"}]
+[
+  {
+    "h": "fj",
+    "segs": [{"k": "m", "t": "Viết tắt của Fiji (used in Internet addresses)"}],
+    "k": "fj"
+  },
+  {
+    "h": "fjeld",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "cao nguyên khô cằn ở Xcăngđinavi."}],
+    "ipa": "fied",
+    "k": "fjeld"
+  },
+  {
+    "h": "fjord",
+    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "fiord như fiord", "vi": "."}],
+    "ipa": "fjɔ:d",
+    "k": "fjord"
+  },
+  {
+    "h": "fjord (= fiord)",
+    "segs": [{"k": "m", "t": "(dt) Vịnh hẹp."}],
+    "ipa": "fjɔ:d",
+    "k": "fjord (= fiord)"
+  }
+]

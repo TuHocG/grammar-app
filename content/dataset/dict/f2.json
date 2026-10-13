@@ -1,1 +1,12 @@
-[{"h":"F2F","segs":[{"k":"m","t":"Viết tắt của face-to-face (used in e-mails hoặc text messages)"}],"k":"f2f"},{"h":"F2T","segs":[{"k":"m","t":"Viết tắt của free to talk (used in e-mails hoặc text messages)"}],"k":"f2t"}]
+[
+  {
+    "h": "F2F",
+    "segs": [{"k": "m", "t": "Viết tắt của face-to-face (used in e-mails hoặc text messages)"}],
+    "k": "f2f"
+  },
+  {
+    "h": "F2T",
+    "segs": [{"k": "m", "t": "Viết tắt của free to talk (used in e-mails hoặc text messages)"}],
+    "k": "f2t"
+  }
+]

@@ -1,1 +1,12 @@
-[{"h":"qv","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(tắt) của tiếng La tinh"},{"k":"ex","t":"quod vide","vi":"có thể xem, xin xem, tham khảo ở... (phần sau...)."}],"ipa":",kju:'vi:","k":"qv"}]
+[
+  {
+    "h": "qv",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(tắt) của tiếng La tinh"},
+      {"k": "ex", "t": "quod vide", "vi": "có thể xem, xin xem, tham khảo ở... (phần sau...)."}
+    ],
+    "ipa": ",kju:'vi:",
+    "k": "qv"
+  }
+]

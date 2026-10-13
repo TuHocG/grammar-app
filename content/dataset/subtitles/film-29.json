@@ -1,1 +1,544 @@
-{"id":29,"code":"A 30","group":"A","n":30,"title":"A 30","first_line":"Hello, how can I help you, sir?","video":"A 30.avi","duration":458.1,"lines":[{"e":7.64,"en":"Hello, how can I help you, sir?","vi":"Xin chào, thưa ông cần chi?","s":3.64},{"e":10.2,"en":"Where do you suggest I go?","vi":"Cô đề nghị tôi đi đâu đây?","s":7.64},{"e":12.39,"en":"What do you like?","vi":"Ông thích cái gì?","s":10.2},{"e":16.79,"en":"I really like contemporary art.","vi":"Tôi rất thích mỹ thuật đương đại.","s":12.39},{"e":20.21,"en":"Try the National Art Gallery.","vi":"Vậy hãy thử đến Phòng Trưng bày Mỹ thuật Quốc gia.","s":16.79},{"e":21.74,"en":"Where is it?","vi":"Nó ở đâu?","s":20.21},{"e":24.95,"en":"Go down this road then turn left.","vi":"Hãy đi xuống con đường này rồi rẽ trái.","s":21.74},{"e":27.25,"en":"It's on the right side of the street.","vi":"Nó ở phía bên phải con đường.","s":24.95},{"e":29.03,"en":"Where do I turn left?","vi":"Tôi rẽ trái chỗ nào?","s":27.25},{"e":31.05,"en":"At Los Alamos Boulevard.","vi":"Ở đại lộ Los Alamos.","s":29.03},{"e":33.41,"en":"Is it open every day?","vi":"Nó có mở cửa mỗi ngày không?","s":31.05},{"e":38.5,"en":"It is open every day except on Mondays, it closes at 6:00 p.m.","vi":"Nó mở cửa mỗi ngày trừ những ngày thứ Hai, nó đóng cửa lúc 6 giờ chiều.","s":33.41},{"e":40.81,"en":"Is the admission free?","vi":"Có được vào cửa miễn phí không?","s":38.5},{"e":43.62,"en":"It costs $4.00 to get in.","vi":"Vào cửa tốn 4 đôla.","s":40.81},{"e":46.38,"en":"Thanks.","vi":"Cám ơn cô.","s":43.62},{"e":51.27,"en":"...","vi":"...","s":46.38},{"e":54.98,"en":"Go down this road then turn left.","vi":"Hãy đi xuống con đường này rồi rẽ trái.","s":51.27},{"e":57.48,"en":"It's on the right side of the street.","vi":"Nó ở phía bên phải con đường.","s":54.98},{"e":61.73,"en":"...","vi":"...","s":57.48},{"e":63.86,"en":"Where is a good place to take my kids?","vi":"Ðưa các con tôi đến nơi nào là thích hợp nhất?","s":61.73},{"e":68.66,"en":"I would suggest the science museum.","vi":"Tôi xin đề nghị đến viện bảo tàng khoa học.","s":63.86},{"e":70.16,"en":"That sounds good.","vi":"Nghe hay đấy.","s":68.66},{"e":71.8,"en":"How do I get to the science museum?","vi":"Tôi đi đến viện bảo tàng khoa học bằng cách nào?","s":70.16},{"e":74.66,"en":"Take the underground to West End Station,","vi":"Hãy đi xe điện ngầm đến trạm West End,","s":71.8},{"e":77.3,"en":"then go right on Boulton Road and turn left.","vi":"sau đó đi thẳng đường và rẽ trái.","s":74.66},{"e":78.69,"en":"You can't miss it.","vi":"Ông sẽ thấy nó ngay thôi.","s":77.3},{"e":80.88,"en":"When do I turn left?","vi":"Khi nào thì tôi rẽ trái?","s":78.69},{"e":86.52,"en":"Ah, turn left at the intersection with a National Savings Bank at the corner.","vi":"À, rẽ trái ở ngã tư có Ngân hàng Tiết kiệm Quốc gia tại góc đường đó.","s":80.88},{"e":87.73,"en":"Is it free?","vi":"Vào cửa miễn phí chứ?","s":86.52},{"e":92.19,"en":"Children under 12 are free, but it is $3.90 for adults.","vi":"Trẻ em dưới 12 tuổi thì vào cửa miễn phí, nhưng người lớn thì tốn 3 đôla 90 xu.","s":87.73},{"e":95.32,"en":"There is a good dinosaur collection on exhibit now.","vi":"Hiện có một bộ sưu tập khủng long thật đẹp.","s":92.19},{"e":99.95,"en":"I'm sure my children will love it. Thanks for your help.","vi":"Tôi tin chắc rằng các con tôi sẽ rất thích nó. Cám ơn cô đã giúp đỡ.","s":95.32},{"e":105.42,"en":"...","vi":"...","s":99.95},{"e":108.17,"en":"Take the underground to West End Station,","vi":"Hãy đi xe điện ngầm đến trạm West End,","s":105.42},{"e":111.06,"en":"then go right on Boulton Road and turn left.","vi":"sau đó đi thẳng đường và rẽ trái.","s":108.17},{"e":118.05,"en":"...","vi":"...","s":111.06},{"e":121.08,"en":"Hello, tourist office. May I help you?","vi":"Alô, văn phòng du lịch đây. Xin hỏi quý khách cần chi ạ?","s":118.05},{"e":129.49,"en":"Yes, could you tell me some famous places or special events happening in San Francisco this weekend?","vi":"Vâng, xin cô vui lòng cho tôi biết một số nơi nổi tiếng hoặc vài sự kiện đặc biệt sắp diễn ra ở San Francisco cuối tuần này nhé?","s":121.08},{"e":134.24,"en":"Urn, would you like something touristy or off the beaten path?","vi":"Ưm, bà thích nơi có nhiều khách du lịch hay nơi biệt lập?","s":129.49},{"e":141.4,"en":"This is my first trip to San Francisco, so something touristy would be fine.","vi":"Ðây là lần đầu tiên tôi đến San Francisco, vì thế một nơi có nhiều khách du lịch sẽ hay đấy.","s":134.24},{"e":148.1,"en":"Well, there is the Fishermen's Wharf Handicraft Festival on Friday, Saturday and Sunday.","vi":"À, có lễ hội ngành nghề thủ công tại cầu tầu của các ngư dân vào thứ Sáu thứ Bảy và Chủ nhật.","s":141.4},{"e":153.45,"en":"That sounds good. What is the best way to get there?","vi":"Nghe được đấy. Ði đến đó bằng cách nào tiện nhất?","s":148.1},{"e":155.9,"en":"Do you want to go by bus?","vi":"Bước có muốn đi bằng xe buýt không?","s":153.45},{"e":161.47,"en":"Sure. What bus takes me to Fishermen's Wharf?","vi":"Có. Chuyến xe buýt nào sẽ đưa tôi đến cầu tầu của các ngư dân?","s":155.9},{"e":164.19,"en":"The 109 will take you there.","vi":"Chuyến xe buýt 109 sẽ đưa bà đến đó.","s":161.47},{"e":167.66,"en":"What is there to see?","vi":"Ở đó có gì để xem?","s":164.19},{"e":173.76,"en":"Well, there is the festival as well as many famous restaurants and shops.","vi":"À, có lễ hội cũng như nhiều nhà hàng và cửa hàng nổi tiếng.","s":167.66},{"e":177.92,"en":"Sound exciting. Thanks!","vi":"Nghe thú vị đấy! Cảm ơn cô.","s":173.76},{"e":181.16,"en":"You're welcome. Enjoy your stay.","vi":"Không có chi. Chúc bà ở lại vui vẻ.","s":177.92},{"e":184.02,"en":"...","vi":"...","s":181.16},{"e":188.17,"en":"Excuse me, sir. Where does this road lead to?","vi":"Xin lỗi ông. Con đường này dẫn tới đâu?","s":184.02},{"e":190.62,"en":"It leads to the Balboa Amusement Park.","vi":"Nó dẫn tới công viên giải trí Balboa.","s":188.17},{"e":193.22,"en":"Good, I'm headed in the right direction.","vi":"Tốt, vậy là tôi đã đi đúng hướng.","s":190.62},{"e":195.23,"en":"When does the park open?","vi":"Công viên mở cửa vào lúc nào?","s":193.22},{"e":199.25,"en":"I'm not sure. I think it opens around 10 o'clock on weekdays.","vi":"Tôi không biết. Tôi nghĩ nó mở cửa khoảng 10 giờ vào những ngày thường.","s":195.23},{"e":203.67,"en":"Fine. Are we far from the main street of this area?","vi":"Ðược rồi. Có phải chúng tôi đang ở cách xa phố chính của khu vực này không?","s":199.25},{"e":205.8,"en":"No, it's just a mile down that road.","vi":"Không, chỉ đi xuống con đường đó một dặm.","s":203.67},{"e":208.29,"en":"Is that a famous tourist area?","vi":"Ðó có phải là khu du lịch nổi tiếng không?","s":205.8},{"e":210.91,"en":"Yes, there are quite a few attractions to see.","vi":"Phải, có khá nhiều điểm du lịch để tham quan.","s":208.29},{"e":214.04,"en":"Well, thanks for your information.","vi":"Vậy xin cảm ơn những thông tin của ông.","s":210.91},{"e":215.4,"en":"You're welcome.","vi":"Không có chi.","s":214.04},{"e":222.09,"en":"Thank you for calling the Kansas City History Museum.","vi":"Cảm ơn quí khách đã gọi đến viện bảo tàng lịch sử của thành phố Kansas.","s":215.4},{"e":224.7,"en":"An operator will be right with you.","vi":"Nhân viên tổng đài sẽ tiếp chuyện với quí khách ngay.","s":222.09},{"e":229.88,"en":"Hello, may I help you?","vi":"Alô, ông cần chi ạ?","s":224.7},{"e":235.08,"en":"Yes, how much does it cost to enter the museum?","vi":"Vâng xin hỏi vào viện bảo tàng tốn bao nhiêu tiền?","s":229.88},{"e":243.56,"en":"It's free on Mondays, but $2.50 on weekdays and $3.00 on the weekends.","vi":"Vào những ngày thứ Hai thì miễn phí, nhưng vào người thường thì 2,5 đô, còn ngày cuối tuần thì 3 đô.","s":235.08},{"e":250.17,"en":"How long does it take to get to the museum from the center of town?","vi":"Từ trung tâm thành phố đi đến viện bảo tàng thì mất bao lâu?","s":243.56},{"e":257.73,"en":"Well, if the traffic is not bad, it will only take about 30 minutes.","vi":"À, nếu không kẹt xe thì chỉ khoảng 30 phút.","s":250.17},{"e":261.42,"en":"Thanks.","vi":"Cảm ơn cô.","s":257.73},{"e":267.44,"en":"Excuse me, what time does the castle open?","vi":"Xin lỗi cho tôi hỏi mấy giờ lâu đài mở cửa?","s":261.42},{"e":270.53,"en":"I think it opens around 9:00 a.m..","vi":"Tôi nghĩ lâu đài mở cửa vào khoảng 9 giờ sáng.","s":267.44},{"e":274.5,"en":"Does the art museum have much for kids?","vi":"Viện bảo tàng mỹ thuật có nhiều thứ dành cho trẻ em không?","s":270.53},{"e":280.79,"en":"I'm afraid not much. Kids might like the castle or the zoo behind the museum more.","vi":"Tôi e rằng không. Có lẽ bọn trẻ thích tòa lâu đài hoặc sở thú ở phía sau viện bảo tàng hơn.","s":274.5},{"e":284.12,"en":"Oh, that sounds more fun. What time does that open?","vi":"Ồ nghe thú vị hơn đấy. Chỗ đó mở cửa lúc mấy giờ?","s":280.79},{"e":287.3,"en":"I am not sure. You will have to ask them.","vi":"Tôi không biết. Ông sẽ phải hỏi họ thôi.","s":284.12},{"e":290.33,"en":"Thanks, you have been very helpful.","vi":"Cảm ơn, cô thật tử tế.","s":287.3},{"e":296.3,"en":"...","vi":"...","s":290.33},{"e":300.13,"en":"Excuse me. Is there an art gallery close to here?","vi":"Xin lỗi cho tôi hỏi có phòng trưng bày mỹ thuật ở đây không?","s":296.3},{"e":304.92,"en":"Yes, there is. It's on Fifth Avenue facing the city park.","vi":"Vâng có ạ. Nó nằm ở đại lộ thứ 5, đối diện công viên thành phố.","s":300.13},{"e":307.23,"en":"Where is that?","vi":"Công viên đó ở đâu vậy?","s":304.92},{"e":312.65,"en":"Go down this road until you get to a big park.","vi":"Ði xuống con đường này đến khi ông gặp một công viên lớn.","s":307.23},{"e":317.26,"en":"Turn left at the intersection and there's the art gallery.","vi":"Rẽ trái ở ngã tư và phòng trưng bày mỹ thuật ở đó.","s":312.65},{"e":319.13,"en":"You can't miss it.","vi":"Ông sẽ thấy nó ngay.","s":317.26},{"e":322.29,"en":"Okay, thanks a lot.","vi":"Ðược rồi, cảm ơn nhiều.","s":319.13},{"e":331.27,"en":"Go down this road until you get to a big park.","vi":"Ði xuống con đường này đến khi ông gặp một công viên lớn.","s":322.29},{"e":335.79,"en":"Turn left at the intersection and there's the art gallery.","vi":"Rẽ trái ở ngã tư và phòng trưng bày mỹ thuật ở đó.","s":331.27},{"e":340.89,"en":"Hey, can you help me?","vi":"Xin chào, anh vui lòng giúp tôi nhé?","s":335.79},{"e":342.92,"en":"I want to take my kids to Monkey World.","vi":"Tôi muốn đưa các con tôi đến khu Thế Giới Khỉ.","s":340.89},{"e":347.12,"en":"Monkey world, monkey world, people love monkey world.","vi":"Thế Giới Khỉ, Thế Giới Khỉ mọi người rất thích Thế Giới Khỉ.","s":342.92},{"e":352.17,"en":"Oh, I'm sorry. It is closed on Mondays.","vi":"Ôi tiếc là nó đóng cửa vào những ngày thứ Hai.","s":347.12},{"e":353.14,"en":"Oh, dear!","vi":"Ôi trời!","s":352.17},{"e":356.33,"en":"Why not take them to the zoo?","vi":"Sao anh không đưa bọn trẻ đến sở thú?","s":353.14},{"e":358.07,"en":"It's open every day.","vi":"Nó mở cửa mỗi ngày.","s":356.33},{"e":360.62,"en":"What's the fastest way to get there?","vi":"Ði tới đó nhanh nhất bằng cách nào?","s":358.07},{"e":363.72,"en":"Take the city trolley. Your kids will love it.","vi":"Hãy đi bằng xe điện thành phố. Các con anh sẽ rất thích đấy.","s":360.62},{"e":365.29,"en":"Where is it?","vi":"Xe điện ở đâu?","s":363.72},{"e":370.72,"en":"You can catch it just down this road across from the public library.","vi":"Anh có thể đón xe ở ngay dưới con đường này, đối diện thư viện công cộng.","s":365.29},{"e":384.24,"en":"...","vi":"...","s":370.72},{"e":390.05,"en":"Sorry to bother you, but where does that bus go?","vi":"Xin lỗi vì phải làm phiền cô, xe buýt đó đi đâu vậy?","s":384.24},{"e":393.7,"en":"It will take you to Fashion Valley Shopping Mall.","vi":"Nó sẽ đưa ông đến khu thương mại Thời Trang Châu Thổ.","s":390.05},{"e":397.29,"en":"When does the mall open?","vi":"Khu thương mại đó mở cửa lúc mấy giờ?","s":393.7},{"e":401.08,"en":"It usually opens around 10 a.m.","vi":"Nó thường mở cửa vào khoảng 10 giờ sáng.","s":397.29},{"e":404.55,"en":"Is it far from here?","vi":"Nó cách đây xa không?","s":401.08},{"e":407.77,"en":"No, it will take about 10 minutes.","vi":"Không, sẽ mất khoảng 10 phút thôi.","s":404.55},{"e":412.57,"en":"What is there to do at the mall other than shop?","vi":"Tại khu thương mại đó, ngoài việc mua sắm ra còn có việc gì để làm không?","s":407.77},{"e":419.69,"en":"There is a great bowling alley, and ice rink and movie theater.","vi":"Có một sàn chơi Bô-ling, sân trượt băng và rạp chếu phim rất tuyệt.","s":412.57},{"e":423.18,"en":"...","vi":"...","s":419.69},{"e":427.06,"en":"I have some good news and some bad news for you now.","vi":"Bây giờ tôi có tin tốt và tin xấu cho các bạn đây.","s":423.18},{"e":431.25,"en":"The bad news is that we're finished with our lesson.","vi":"Tin xấu là chúng ta đã kết thúc bài học.","s":427.06},{"e":435.63,"en":"The good news is that you're studying English and doing great!","vi":"Tin tốt là các bạn đang học tiếng Anh và học rất tốt.","s":431.25},{"e":437.12,"en":"You really are!","vi":"Thực sự là các bạn học rất tốt!","s":435.63},{"e":440.74,"en":"Don't forget to practice whenever you can.","vi":"Ðừng quên luyện tập bất cứ khi nào có thể nhé.","s":437.12},{"e":444.14,"en":"It's okay to speak with foreigners.","vi":"Nói chuyện với người nước ngoài không khó.","s":440.74},{"e":446.92,"en":"Don't be shy, just say hi.","vi":"Ðừng rụt rè, cứ chào hỏi họ.","s":444.14},{"e":450.31,"en":"And don't be worried about making mistakes.","vi":"Và đừng sợ mắc lỗi.","s":446.92},{"e":452.48,"en":"It's all part of learning.","vi":"Lỗi cũng là một khâu trong học tập mà.","s":450.31},{"e":458.11,"en":"Good job! Thanks for watching and we'll see you again soon. Goodbye.","vi":"Chúc bạn thành công. Cảm ơn các bạn đã theo dõi, hẹn gặp lại. Tạm biệt.","s":452.48}]}
+{
+  "id": 29,
+  "code": "A 30",
+  "group": "A",
+  "n": 30,
+  "title": "A 30",
+  "first_line": "Hello, how can I help you, sir?",
+  "video": "A 30.avi",
+  "duration": 458.1,
+  "lines": [
+    {
+      "e": 7.64,
+      "en": "Hello, how can I help you, sir?",
+      "vi": "Xin chào, thưa ông cần chi?",
+      "s": 3.64
+    },
+    {"e": 10.2, "en": "Where do you suggest I go?", "vi": "Cô đề nghị tôi đi đâu đây?", "s": 7.64},
+    {"e": 12.39, "en": "What do you like?", "vi": "Ông thích cái gì?", "s": 10.2},
+    {
+      "e": 16.79,
+      "en": "I really like contemporary art.",
+      "vi": "Tôi rất thích mỹ thuật đương đại.",
+      "s": 12.39
+    },
+    {
+      "e": 20.21,
+      "en": "Try the National Art Gallery.",
+      "vi": "Vậy hãy thử đến Phòng Trưng bày Mỹ thuật Quốc gia.",
+      "s": 16.79
+    },
+    {"e": 21.74, "en": "Where is it?", "vi": "Nó ở đâu?", "s": 20.21},
+    {
+      "e": 24.95,
+      "en": "Go down this road then turn left.",
+      "vi": "Hãy đi xuống con đường này rồi rẽ trái.",
+      "s": 21.74
+    },
+    {
+      "e": 27.25,
+      "en": "It's on the right side of the street.",
+      "vi": "Nó ở phía bên phải con đường.",
+      "s": 24.95
+    },
+    {"e": 29.03, "en": "Where do I turn left?", "vi": "Tôi rẽ trái chỗ nào?", "s": 27.25},
+    {"e": 31.05, "en": "At Los Alamos Boulevard.", "vi": "Ở đại lộ Los Alamos.", "s": 29.03},
+    {"e": 33.41, "en": "Is it open every day?", "vi": "Nó có mở cửa mỗi ngày không?", "s": 31.05},
+    {
+      "e": 38.5,
+      "en": "It is open every day except on Mondays, it closes at 6:00 p.m.",
+      "vi": "Nó mở cửa mỗi ngày trừ những ngày thứ Hai, nó đóng cửa lúc 6 giờ chiều.",
+      "s": 33.41
+    },
+    {"e": 40.81, "en": "Is the admission free?", "vi": "Có được vào cửa miễn phí không?", "s": 38.5},
+    {"e": 43.62, "en": "It costs $4.00 to get in.", "vi": "Vào cửa tốn 4 đôla.", "s": 40.81},
+    {"e": 46.38, "en": "Thanks.", "vi": "Cám ơn cô.", "s": 43.62},
+    {"e": 51.27, "en": "...", "vi": "...", "s": 46.38},
+    {
+      "e": 54.98,
+      "en": "Go down this road then turn left.",
+      "vi": "Hãy đi xuống con đường này rồi rẽ trái.",
+      "s": 51.27
+    },
+    {
+      "e": 57.48,
+      "en": "It's on the right side of the street.",
+      "vi": "Nó ở phía bên phải con đường.",
+      "s": 54.98
+    },
+    {"e": 61.73, "en": "...", "vi": "...", "s": 57.48},
+    {
+      "e": 63.86,
+      "en": "Where is a good place to take my kids?",
+      "vi": "Ðưa các con tôi đến nơi nào là thích hợp nhất?",
+      "s": 61.73
+    },
+    {
+      "e": 68.66,
+      "en": "I would suggest the science museum.",
+      "vi": "Tôi xin đề nghị đến viện bảo tàng khoa học.",
+      "s": 63.86
+    },
+    {"e": 70.16, "en": "That sounds good.", "vi": "Nghe hay đấy.", "s": 68.66},
+    {
+      "e": 71.8,
+      "en": "How do I get to the science museum?",
+      "vi": "Tôi đi đến viện bảo tàng khoa học bằng cách nào?",
+      "s": 70.16
+    },
+    {
+      "e": 74.66,
+      "en": "Take the underground to West End Station,",
+      "vi": "Hãy đi xe điện ngầm đến trạm West End,",
+      "s": 71.8
+    },
+    {
+      "e": 77.3,
+      "en": "then go right on Boulton Road and turn left.",
+      "vi": "sau đó đi thẳng đường và rẽ trái.",
+      "s": 74.66
+    },
+    {"e": 78.69, "en": "You can't miss it.", "vi": "Ông sẽ thấy nó ngay thôi.", "s": 77.3},
+    {"e": 80.88, "en": "When do I turn left?", "vi": "Khi nào thì tôi rẽ trái?", "s": 78.69},
+    {
+      "e": 86.52,
+      "en": "Ah, turn left at the intersection with a National Savings Bank at the corner.",
+      "vi": "À, rẽ trái ở ngã tư có Ngân hàng Tiết kiệm Quốc gia tại góc đường đó.",
+      "s": 80.88
+    },
+    {"e": 87.73, "en": "Is it free?", "vi": "Vào cửa miễn phí chứ?", "s": 86.52},
+    {
+      "e": 92.19,
+      "en": "Children under 12 are free, but it is $3.90 for adults.",
+      "vi": "Trẻ em dưới 12 tuổi thì vào cửa miễn phí, nhưng người lớn thì tốn 3 đôla 90 xu.",
+      "s": 87.73
+    },
+    {
+      "e": 95.32,
+      "en": "There is a good dinosaur collection on exhibit now.",
+      "vi": "Hiện có một bộ sưu tập khủng long thật đẹp.",
+      "s": 92.19
+    },
+    {
+      "e": 99.95,
+      "en": "I'm sure my children will love it. Thanks for your help.",
+      "vi": "Tôi tin chắc rằng các con tôi sẽ rất thích nó. Cám ơn cô đã giúp đỡ.",
+      "s": 95.32
+    },
+    {"e": 105.42, "en": "...", "vi": "...", "s": 99.95},
+    {
+      "e": 108.17,
+      "en": "Take the underground to West End Station,",
+      "vi": "Hãy đi xe điện ngầm đến trạm West End,",
+      "s": 105.42
+    },
+    {
+      "e": 111.06,
+      "en": "then go right on Boulton Road and turn left.",
+      "vi": "sau đó đi thẳng đường và rẽ trái.",
+      "s": 108.17
+    },
+    {"e": 118.05, "en": "...", "vi": "...", "s": 111.06},
+    {
+      "e": 121.08,
+      "en": "Hello, tourist office. May I help you?",
+      "vi": "Alô, văn phòng du lịch đây. Xin hỏi quý khách cần chi ạ?",
+      "s": 118.05
+    },
+    {
+      "e": 129.49,
+      "en": "Yes, could you tell me some famous places or special events happening in San Francisco this weekend?",
+      "vi": "Vâng, xin cô vui lòng cho tôi biết một số nơi nổi tiếng hoặc vài sự kiện đặc biệt sắp diễn ra ở San Francisco cuối tuần này nhé?",
+      "s": 121.08
+    },
+    {
+      "e": 134.24,
+      "en": "Urn, would you like something touristy or off the beaten path?",
+      "vi": "Ưm, bà thích nơi có nhiều khách du lịch hay nơi biệt lập?",
+      "s": 129.49
+    },
+    {
+      "e": 141.4,
+      "en": "This is my first trip to San Francisco, so something touristy would be fine.",
+      "vi": "Ðây là lần đầu tiên tôi đến San Francisco, vì thế một nơi có nhiều khách du lịch sẽ hay đấy.",
+      "s": 134.24
+    },
+    {
+      "e": 148.1,
+      "en": "Well, there is the Fishermen's Wharf Handicraft Festival on Friday, Saturday and Sunday.",
+      "vi": "À, có lễ hội ngành nghề thủ công tại cầu tầu của các ngư dân vào thứ Sáu thứ Bảy và Chủ nhật.",
+      "s": 141.4
+    },
+    {
+      "e": 153.45,
+      "en": "That sounds good. What is the best way to get there?",
+      "vi": "Nghe được đấy. Ði đến đó bằng cách nào tiện nhất?",
+      "s": 148.1
+    },
+    {
+      "e": 155.9,
+      "en": "Do you want to go by bus?",
+      "vi": "Bước có muốn đi bằng xe buýt không?",
+      "s": 153.45
+    },
+    {
+      "e": 161.47,
+      "en": "Sure. What bus takes me to Fishermen's Wharf?",
+      "vi": "Có. Chuyến xe buýt nào sẽ đưa tôi đến cầu tầu của các ngư dân?",
+      "s": 155.9
+    },
+    {
+      "e": 164.19,
+      "en": "The 109 will take you there.",
+      "vi": "Chuyến xe buýt 109 sẽ đưa bà đến đó.",
+      "s": 161.47
+    },
+    {"e": 167.66, "en": "What is there to see?", "vi": "Ở đó có gì để xem?", "s": 164.19},
+    {
+      "e": 173.76,
+      "en": "Well, there is the festival as well as many famous restaurants and shops.",
+      "vi": "À, có lễ hội cũng như nhiều nhà hàng và cửa hàng nổi tiếng.",
+      "s": 167.66
+    },
+    {"e": 177.92, "en": "Sound exciting. Thanks!", "vi": "Nghe thú vị đấy! Cảm ơn cô.", "s": 173.76},
+    {
+      "e": 181.16,
+      "en": "You're welcome. Enjoy your stay.",
+      "vi": "Không có chi. Chúc bà ở lại vui vẻ.",
+      "s": 177.92
+    },
+    {"e": 184.02, "en": "...", "vi": "...", "s": 181.16},
+    {
+      "e": 188.17,
+      "en": "Excuse me, sir. Where does this road lead to?",
+      "vi": "Xin lỗi ông. Con đường này dẫn tới đâu?",
+      "s": 184.02
+    },
+    {
+      "e": 190.62,
+      "en": "It leads to the Balboa Amusement Park.",
+      "vi": "Nó dẫn tới công viên giải trí Balboa.",
+      "s": 188.17
+    },
+    {
+      "e": 193.22,
+      "en": "Good, I'm headed in the right direction.",
+      "vi": "Tốt, vậy là tôi đã đi đúng hướng.",
+      "s": 190.62
+    },
+    {
+      "e": 195.23,
+      "en": "When does the park open?",
+      "vi": "Công viên mở cửa vào lúc nào?",
+      "s": 193.22
+    },
+    {
+      "e": 199.25,
+      "en": "I'm not sure. I think it opens around 10 o'clock on weekdays.",
+      "vi": "Tôi không biết. Tôi nghĩ nó mở cửa khoảng 10 giờ vào những ngày thường.",
+      "s": 195.23
+    },
+    {
+      "e": 203.67,
+      "en": "Fine. Are we far from the main street of this area?",
+      "vi": "Ðược rồi. Có phải chúng tôi đang ở cách xa phố chính của khu vực này không?",
+      "s": 199.25
+    },
+    {
+      "e": 205.8,
+      "en": "No, it's just a mile down that road.",
+      "vi": "Không, chỉ đi xuống con đường đó một dặm.",
+      "s": 203.67
+    },
+    {
+      "e": 208.29,
+      "en": "Is that a famous tourist area?",
+      "vi": "Ðó có phải là khu du lịch nổi tiếng không?",
+      "s": 205.8
+    },
+    {
+      "e": 210.91,
+      "en": "Yes, there are quite a few attractions to see.",
+      "vi": "Phải, có khá nhiều điểm du lịch để tham quan.",
+      "s": 208.29
+    },
+    {
+      "e": 214.04,
+      "en": "Well, thanks for your information.",
+      "vi": "Vậy xin cảm ơn những thông tin của ông.",
+      "s": 210.91
+    },
+    {"e": 215.4, "en": "You're welcome.", "vi": "Không có chi.", "s": 214.04},
+    {
+      "e": 222.09,
+      "en": "Thank you for calling the Kansas City History Museum.",
+      "vi": "Cảm ơn quí khách đã gọi đến viện bảo tàng lịch sử của thành phố Kansas.",
+      "s": 215.4
+    },
+    {
+      "e": 224.7,
+      "en": "An operator will be right with you.",
+      "vi": "Nhân viên tổng đài sẽ tiếp chuyện với quí khách ngay.",
+      "s": 222.09
+    },
+    {"e": 229.88, "en": "Hello, may I help you?", "vi": "Alô, ông cần chi ạ?", "s": 224.7},
+    {
+      "e": 235.08,
+      "en": "Yes, how much does it cost to enter the museum?",
+      "vi": "Vâng xin hỏi vào viện bảo tàng tốn bao nhiêu tiền?",
+      "s": 229.88
+    },
+    {
+      "e": 243.56,
+      "en": "It's free on Mondays, but $2.50 on weekdays and $3.00 on the weekends.",
+      "vi": "Vào những ngày thứ Hai thì miễn phí, nhưng vào người thường thì 2,5 đô, còn ngày cuối tuần thì 3 đô.",
+      "s": 235.08
+    },
+    {
+      "e": 250.17,
+      "en": "How long does it take to get to the museum from the center of town?",
+      "vi": "Từ trung tâm thành phố đi đến viện bảo tàng thì mất bao lâu?",
+      "s": 243.56
+    },
+    {
+      "e": 257.73,
+      "en": "Well, if the traffic is not bad, it will only take about 30 minutes.",
+      "vi": "À, nếu không kẹt xe thì chỉ khoảng 30 phút.",
+      "s": 250.17
+    },
+    {"e": 261.42, "en": "Thanks.", "vi": "Cảm ơn cô.", "s": 257.73},
+    {
+      "e": 267.44,
+      "en": "Excuse me, what time does the castle open?",
+      "vi": "Xin lỗi cho tôi hỏi mấy giờ lâu đài mở cửa?",
+      "s": 261.42
+    },
+    {
+      "e": 270.53,
+      "en": "I think it opens around 9:00 a.m..",
+      "vi": "Tôi nghĩ lâu đài mở cửa vào khoảng 9 giờ sáng.",
+      "s": 267.44
+    },
+    {
+      "e": 274.5,
+      "en": "Does the art museum have much for kids?",
+      "vi": "Viện bảo tàng mỹ thuật có nhiều thứ dành cho trẻ em không?",
+      "s": 270.53
+    },
+    {
+      "e": 280.79,
+      "en": "I'm afraid not much. Kids might like the castle or the zoo behind the museum more.",
+      "vi": "Tôi e rằng không. Có lẽ bọn trẻ thích tòa lâu đài hoặc sở thú ở phía sau viện bảo tàng hơn.",
+      "s": 274.5
+    },
+    {
+      "e": 284.12,
+      "en": "Oh, that sounds more fun. What time does that open?",
+      "vi": "Ồ nghe thú vị hơn đấy. Chỗ đó mở cửa lúc mấy giờ?",
+      "s": 280.79
+    },
+    {
+      "e": 287.3,
+      "en": "I am not sure. You will have to ask them.",
+      "vi": "Tôi không biết. Ông sẽ phải hỏi họ thôi.",
+      "s": 284.12
+    },
+    {
+      "e": 290.33,
+      "en": "Thanks, you have been very helpful.",
+      "vi": "Cảm ơn, cô thật tử tế.",
+      "s": 287.3
+    },
+    {"e": 296.3, "en": "...", "vi": "...", "s": 290.33},
+    {
+      "e": 300.13,
+      "en": "Excuse me. Is there an art gallery close to here?",
+      "vi": "Xin lỗi cho tôi hỏi có phòng trưng bày mỹ thuật ở đây không?",
+      "s": 296.3
+    },
+    {
+      "e": 304.92,
+      "en": "Yes, there is. It's on Fifth Avenue facing the city park.",
+      "vi": "Vâng có ạ. Nó nằm ở đại lộ thứ 5, đối diện công viên thành phố.",
+      "s": 300.13
+    },
+    {"e": 307.23, "en": "Where is that?", "vi": "Công viên đó ở đâu vậy?", "s": 304.92},
+    {
+      "e": 312.65,
+      "en": "Go down this road until you get to a big park.",
+      "vi": "Ði xuống con đường này đến khi ông gặp một công viên lớn.",
+      "s": 307.23
+    },
+    {
+      "e": 317.26,
+      "en": "Turn left at the intersection and there's the art gallery.",
+      "vi": "Rẽ trái ở ngã tư và phòng trưng bày mỹ thuật ở đó.",
+      "s": 312.65
+    },
+    {"e": 319.13, "en": "You can't miss it.", "vi": "Ông sẽ thấy nó ngay.", "s": 317.26},
+    {"e": 322.29, "en": "Okay, thanks a lot.", "vi": "Ðược rồi, cảm ơn nhiều.", "s": 319.13},
+    {
+      "e": 331.27,
+      "en": "Go down this road until you get to a big park.",
+      "vi": "Ði xuống con đường này đến khi ông gặp một công viên lớn.",
+      "s": 322.29
+    },
+    {
+      "e": 335.79,
+      "en": "Turn left at the intersection and there's the art gallery.",
+      "vi": "Rẽ trái ở ngã tư và phòng trưng bày mỹ thuật ở đó.",
+      "s": 331.27
+    },
+    {
+      "e": 340.89,
+      "en": "Hey, can you help me?",
+      "vi": "Xin chào, anh vui lòng giúp tôi nhé?",
+      "s": 335.79
+    },
+    {
+      "e": 342.92,
+      "en": "I want to take my kids to Monkey World.",
+      "vi": "Tôi muốn đưa các con tôi đến khu Thế Giới Khỉ.",
+      "s": 340.89
+    },
+    {
+      "e": 347.12,
+      "en": "Monkey world, monkey world, people love monkey world.",
+      "vi": "Thế Giới Khỉ, Thế Giới Khỉ mọi người rất thích Thế Giới Khỉ.",
+      "s": 342.92
+    },
+    {
+      "e": 352.17,
+      "en": "Oh, I'm sorry. It is closed on Mondays.",
+      "vi": "Ôi tiếc là nó đóng cửa vào những ngày thứ Hai.",
+      "s": 347.12
+    },
+    {"e": 353.14, "en": "Oh, dear!", "vi": "Ôi trời!", "s": 352.17},
+    {
+      "e": 356.33,
+      "en": "Why not take them to the zoo?",
+      "vi": "Sao anh không đưa bọn trẻ đến sở thú?",
+      "s": 353.14
+    },
+    {"e": 358.07, "en": "It's open every day.", "vi": "Nó mở cửa mỗi ngày.", "s": 356.33},
+    {
+      "e": 360.62,
+      "en": "What's the fastest way to get there?",
+      "vi": "Ði tới đó nhanh nhất bằng cách nào?",
+      "s": 358.07
+    },
+    {
+      "e": 363.72,
+      "en": "Take the city trolley. Your kids will love it.",
+      "vi": "Hãy đi bằng xe điện thành phố. Các con anh sẽ rất thích đấy.",
+      "s": 360.62
+    },
+    {"e": 365.29, "en": "Where is it?", "vi": "Xe điện ở đâu?", "s": 363.72},
+    {
+      "e": 370.72,
+      "en": "You can catch it just down this road across from the public library.",
+      "vi": "Anh có thể đón xe ở ngay dưới con đường này, đối diện thư viện công cộng.",
+      "s": 365.29
+    },
+    {"e": 384.24, "en": "...", "vi": "...", "s": 370.72},
+    {
+      "e": 390.05,
+      "en": "Sorry to bother you, but where does that bus go?",
+      "vi": "Xin lỗi vì phải làm phiền cô, xe buýt đó đi đâu vậy?",
+      "s": 384.24
+    },
+    {
+      "e": 393.7,
+      "en": "It will take you to Fashion Valley Shopping Mall.",
+      "vi": "Nó sẽ đưa ông đến khu thương mại Thời Trang Châu Thổ.",
+      "s": 390.05
+    },
+    {
+      "e": 397.29,
+      "en": "When does the mall open?",
+      "vi": "Khu thương mại đó mở cửa lúc mấy giờ?",
+      "s": 393.7
+    },
+    {
+      "e": 401.08,
+      "en": "It usually opens around 10 a.m.",
+      "vi": "Nó thường mở cửa vào khoảng 10 giờ sáng.",
+      "s": 397.29
+    },
+    {"e": 404.55, "en": "Is it far from here?", "vi": "Nó cách đây xa không?", "s": 401.08},
+    {
+      "e": 407.77,
+      "en": "No, it will take about 10 minutes.",
+      "vi": "Không, sẽ mất khoảng 10 phút thôi.",
+      "s": 404.55
+    },
+    {
+      "e": 412.57,
+      "en": "What is there to do at the mall other than shop?",
+      "vi": "Tại khu thương mại đó, ngoài việc mua sắm ra còn có việc gì để làm không?",
+      "s": 407.77
+    },
+    {
+      "e": 419.69,
+      "en": "There is a great bowling alley, and ice rink and movie theater.",
+      "vi": "Có một sàn chơi Bô-ling, sân trượt băng và rạp chếu phim rất tuyệt.",
+      "s": 412.57
+    },
+    {"e": 423.18, "en": "...", "vi": "...", "s": 419.69},
+    {
+      "e": 427.06,
+      "en": "I have some good news and some bad news for you now.",
+      "vi": "Bây giờ tôi có tin tốt và tin xấu cho các bạn đây.",
+      "s": 423.18
+    },
+    {
+      "e": 431.25,
+      "en": "The bad news is that we're finished with our lesson.",
+      "vi": "Tin xấu là chúng ta đã kết thúc bài học.",
+      "s": 427.06
+    },
+    {
+      "e": 435.63,
+      "en": "The good news is that you're studying English and doing great!",
+      "vi": "Tin tốt là các bạn đang học tiếng Anh và học rất tốt.",
+      "s": 431.25
+    },
+    {"e": 437.12, "en": "You really are!", "vi": "Thực sự là các bạn học rất tốt!", "s": 435.63},
+    {
+      "e": 440.74,
+      "en": "Don't forget to practice whenever you can.",
+      "vi": "Ðừng quên luyện tập bất cứ khi nào có thể nhé.",
+      "s": 437.12
+    },
+    {
+      "e": 444.14,
+      "en": "It's okay to speak with foreigners.",
+      "vi": "Nói chuyện với người nước ngoài không khó.",
+      "s": 440.74
+    },
+    {
+      "e": 446.92,
+      "en": "Don't be shy, just say hi.",
+      "vi": "Ðừng rụt rè, cứ chào hỏi họ.",
+      "s": 444.14
+    },
+    {
+      "e": 450.31,
+      "en": "And don't be worried about making mistakes.",
+      "vi": "Và đừng sợ mắc lỗi.",
+      "s": 446.92
+    },
+    {
+      "e": 452.48,
+      "en": "It's all part of learning.",
+      "vi": "Lỗi cũng là một khâu trong học tập mà.",
+      "s": 450.31
+    },
+    {
+      "e": 458.11,
+      "en": "Good job! Thanks for watching and we'll see you again soon. Goodbye.",
+      "vi": "Chúc bạn thành công. Cảm ơn các bạn đã theo dõi, hẹn gặp lại. Tạm biệt.",
+      "s": 452.48
+    }
+  ]
+}

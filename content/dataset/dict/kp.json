@@ -1,1 +1,31 @@
-[{"h":"KP","segs":[{"k":"m","t":"vt 1. King's Parade diễu hành của vua 2. (cờ vua) King's pawn quân tốt đứng trước quân vua 3. (Mỹ, quân) kitchen police cảnh sát hậu cần"}],"k":"kp"},{"h":"kph","segs":[{"k":"m","t":"(tắt) kílômet/giờ ("},{"k":"ex","t":"kilometre per hour","vi":")."}],"ipa":",kei pi: 'eitʃ","k":"kph"},{"h":"kps","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kilôbit trên giây"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kilôbit trên giây"}],"k":"kps"}]
+[
+  {
+    "h": "KP",
+    "segs": [
+      {
+        "k": "m",
+        "t": "vt 1. King's Parade diễu hành của vua 2. (cờ vua) King's pawn quân tốt đứng trước quân vua 3. (Mỹ, quân) kitchen police cảnh sát hậu cần"
+      }
+    ],
+    "k": "kp"
+  },
+  {
+    "h": "kph",
+    "segs": [
+      {"k": "m", "t": "(tắt) kílômet/giờ ("},
+      {"k": "ex", "t": "kilometre per hour", "vi": ")."}
+    ],
+    "ipa": ",kei pi: 'eitʃ",
+    "k": "kph"
+  },
+  {
+    "h": "kps",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "kilôbit trên giây"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "kilôbit trên giây"}
+    ],
+    "k": "kps"
+  }
+]

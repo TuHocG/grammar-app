@@ -1,1 +1,22 @@
-[{"h":"vg","segs":[{"k":"m","t":"(tắt) rất tốt (nhất là trên các chữ viết đã được chỉnh lại) ("},{"k":"ex","t":"very good","vi":")."}],"ipa":",vi: 'gi:","k":"vg"},{"h":"VGA","segs":[{"k":"m","t":"Một tiêu chuẩn hiển thị đồ họa màu ánh xạ bit, được IBM giới thiệu vào năm 1987 cùng với loạt máy tính PS/2 của họ."}],"k":"vga"},{"h":"VGA mode","segs":[{"k":"m","t":"chế độ VGA."}],"k":"vga mode"}]
+[
+  {
+    "h": "vg",
+    "segs": [
+      {"k": "m", "t": "(tắt) rất tốt (nhất là trên các chữ viết đã được chỉnh lại) ("},
+      {"k": "ex", "t": "very good", "vi": ")."}
+    ],
+    "ipa": ",vi: 'gi:",
+    "k": "vg"
+  },
+  {
+    "h": "VGA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một tiêu chuẩn hiển thị đồ họa màu ánh xạ bit, được IBM giới thiệu vào năm 1987 cùng với loạt máy tính PS/2 của họ."
+      }
+    ],
+    "k": "vga"
+  },
+  {"h": "VGA mode", "segs": [{"k": "m", "t": "chế độ VGA."}], "k": "vga mode"}
+]

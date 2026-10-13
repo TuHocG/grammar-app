@@ -1,1 +1,104 @@
-[{"h":"LT","segs":[{"k":"m","t":"(less than) kém hơn, bé hơn."}],"k":"lt"},{"h":"LT (less than)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kém hơn, bé hơn"}],"k":"lt (less than)"},{"h":"LT circuit","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạch sơ cấp"}],"k":"lt circuit"},{"h":"lt.","segs":[{"k":"m","t":"Viết tắt của light"}],"k":"lt."},{"h":"Lt. Cdr.","segs":[{"k":"m","t":"Viết tắt của U.K. navy Lieutenant Commander"}],"k":"lt. cdr."},{"h":"Lt. Col.","segs":[{"k":"m","t":"Viết tắt của military Lieutenant Colonel"}],"k":"lt. col."},{"h":"Lt. Comdr.","segs":[{"k":"m","t":"Viết tắt của navy Lieutenant Commander"}],"k":"lt. comdr."},{"h":"Lt. Gen","segs":[{"k":"m","t":"(vt) Lieutenant General: Trung tướng, Toàn quyền."}],"k":"lt. gen"},{"h":"Lt. Gen.","segs":[{"k":"m","t":"Viết tắt của military Lieutenant General"}],"k":"lt. gen."},{"h":"Lt. Gov.","segs":[{"k":"m","t":"Viết tắt của politics Lieutenant Governor"}],"k":"lt. gov."},{"h":"lta","segs":[{"k":"m","t":"(tắt) Hội quần vợt trên sân cỏ ("},{"k":"ex","t":"Lawn Tennis Association","vi":")."}],"ipa":",el ti: 'ei","k":"lta"},{"h":"LTC","segs":[{"k":"m","t":"Viết tắt của military Lieutenant Colonel"}],"k":"ltc"},{"h":"Ltd","segs":[{"k":"m","t":"trách nhiệm hữu hạn."}],"k":"ltd","q":{"vi":"Limited hữu hạn, trách nhiệm hữu hạn","ipa":"'limitid","rs":"lí mịt tịt đ"}},{"h":"Ltd.","segs":[{"k":"m","t":"hoặc ltd."},{"k":"m","t":"abbreviation"},{"k":"m","t":"commercial law limited (liability) (used after the name of a British company)"}],"k":"ltd."},{"h":"LTERM","segs":[{"k":"m","t":"(logical terminal) thiết bị đầu cuối logic."}],"k":"lterm"},{"h":"LTERM (logical terminal)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"thiết bị đầu cuối logic"}],"k":"lterm (logical terminal)"},{"h":"LTJG","segs":[{"k":"m","t":"Viết tắt của navy lieutenant junior grade"}],"k":"ltjg"},{"h":"LTL","segs":[{"k":"m","t":"Viết tắt của commerce transportation less than truckload"}],"k":"ltl"},{"h":"LTOM","segs":[{"k":"m","t":"Viết tắt của U.K. stock exchange London Traded Options Market"}],"k":"ltom"},{"h":"LTR","segs":[{"k":"m","t":"Viết tắt của online long-term relationship"}],"k":"ltr"},{"h":"LTU Control (LTUC)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"điều khiển LTU"}],"k":"ltu control (ltuc)"},{"h":"LTWA","segs":[{"k":"m","t":"(log tape write ahead) ghi (dữ liệu) trước vào băng nhật ký."}],"k":"ltwa"}]
+[
+  {"h": "LT", "segs": [{"k": "m", "t": "(less than) kém hơn, bé hơn."}], "k": "lt"},
+  {
+    "h": "LT (less than)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kém hơn, bé hơn"}],
+    "k": "lt (less than)"
+  },
+  {
+    "h": "LT circuit",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạch sơ cấp"}],
+    "k": "lt circuit"
+  },
+  {"h": "lt.", "segs": [{"k": "m", "t": "Viết tắt của light"}], "k": "lt."},
+  {
+    "h": "Lt. Cdr.",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. navy Lieutenant Commander"}],
+    "k": "lt. cdr."
+  },
+  {
+    "h": "Lt. Col.",
+    "segs": [{"k": "m", "t": "Viết tắt của military Lieutenant Colonel"}],
+    "k": "lt. col."
+  },
+  {
+    "h": "Lt. Comdr.",
+    "segs": [{"k": "m", "t": "Viết tắt của navy Lieutenant Commander"}],
+    "k": "lt. comdr."
+  },
+  {
+    "h": "Lt. Gen",
+    "segs": [{"k": "m", "t": "(vt) Lieutenant General: Trung tướng, Toàn quyền."}],
+    "k": "lt. gen"
+  },
+  {
+    "h": "Lt. Gen.",
+    "segs": [{"k": "m", "t": "Viết tắt của military Lieutenant General"}],
+    "k": "lt. gen."
+  },
+  {
+    "h": "Lt. Gov.",
+    "segs": [{"k": "m", "t": "Viết tắt của politics Lieutenant Governor"}],
+    "k": "lt. gov."
+  },
+  {
+    "h": "lta",
+    "segs": [
+      {"k": "m", "t": "(tắt) Hội quần vợt trên sân cỏ ("},
+      {"k": "ex", "t": "Lawn Tennis Association", "vi": ")."}
+    ],
+    "ipa": ",el ti: 'ei",
+    "k": "lta"
+  },
+  {"h": "LTC", "segs": [{"k": "m", "t": "Viết tắt của military Lieutenant Colonel"}], "k": "ltc"},
+  {
+    "h": "Ltd",
+    "segs": [{"k": "m", "t": "trách nhiệm hữu hạn."}],
+    "k": "ltd",
+    "q": {"vi": "Limited hữu hạn, trách nhiệm hữu hạn", "ipa": "'limitid", "rs": "lí mịt tịt đ"}
+  },
+  {
+    "h": "Ltd.",
+    "segs": [
+      {"k": "m", "t": "hoặc ltd."},
+      {"k": "m", "t": "abbreviation"},
+      {
+        "k": "m",
+        "t": "commercial law limited (liability) (used after the name of a British company)"
+      }
+    ],
+    "k": "ltd."
+  },
+  {
+    "h": "LTERM",
+    "segs": [{"k": "m", "t": "(logical terminal) thiết bị đầu cuối logic."}],
+    "k": "lterm"
+  },
+  {
+    "h": "LTERM (logical terminal)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "thiết bị đầu cuối logic"}],
+    "k": "lterm (logical terminal)"
+  },
+  {"h": "LTJG", "segs": [{"k": "m", "t": "Viết tắt của navy lieutenant junior grade"}], "k": "ltjg"},
+  {
+    "h": "LTL",
+    "segs": [{"k": "m", "t": "Viết tắt của commerce transportation less than truckload"}],
+    "k": "ltl"
+  },
+  {
+    "h": "LTOM",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. stock exchange London Traded Options Market"}],
+    "k": "ltom"
+  },
+  {"h": "LTR", "segs": [{"k": "m", "t": "Viết tắt của online long-term relationship"}], "k": "ltr"},
+  {
+    "h": "LTU Control (LTUC)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "điều khiển LTU"}],
+    "k": "ltu control (ltuc)"
+  },
+  {
+    "h": "LTWA",
+    "segs": [{"k": "m", "t": "(log tape write ahead) ghi (dữ liệu) trước vào băng nhật ký."}],
+    "k": "ltwa"
+  }
+]

@@ -1,1 +1,240 @@
-{"id":173,"code":"C 49","group":"C","n":49,"title":"C 49","first_line":"Over 6 Million Americans suffer from Angina.","video":"C 49.avi","duration":177.8,"lines":[{"e":3.51,"en":"Over 6 Million Americans suffer from Angina.","vi":"Trên 6 triệu người Mỹ bị chứng đau thắt ngực.","s":0.0},{"e":5.46,"en":"But what exactly is Angina?","vi":"Nhưng nói chính xác thì đau thắt ngực là gì?","s":3.51},{"e":11.37,"en":"Angina is chest pain or discomfort that occurs when the heart muscle is not getting enough oxygen.","vi":"Ðau thắt ngực là đau hoặc khó chịu ở ngực, xảy ra khi cơ tim nhận không đủ khí ôxy","s":5.46},{"e":14.88,"en":"Angina is not the same thing as a heart attack,","vi":"Ðau thắt ngực không phải là một cơn đau tim,","s":11.37},{"e":17.75,"en":"although its symptoms can sometimes appear similar.","vi":"dù đôi khi các triệu chứng của nó giống như thế.","s":14.88},{"e":23.66,"en":"Angina occurs when the coronary arteries, the primary source of blood for the heart,","vi":"Ðau thắt ngực xảy ra khi các động mạch vành, nguồn cung cấp máu chủ yếu dành cho tim,","s":17.75},{"e":28.37,"en":"become partially blocked by a build up of fatty deposits called plaque.","vi":"bị nghẽn một phần do sự tích tụ của cặn chất béo được gọi là mảng chất béo.","s":23.66},{"e":31.88,"en":"This build up reduces the flow of blood to the heart,","vi":"Sự tích tụ này làm giảm lưu lượng máu đến tim,","s":28.37},{"e":37.04,"en":"decreasing the supply of oxygen and causing the pain we experience as Angina.","vi":"làm giảm sự cung cấp ôxy và gây ra cơn đau mà chúng ta có cảm giác như là đau thắt ngực.","s":31.88},{"e":39.6,"en":"There are three different types of Angina.","vi":"Có ba kiểu đau thắt ngực khác nhau.","s":37.04},{"e":42.15,"en":"Stable angina is the most common type,","vi":"Ðau thắt ngực ổn định là kiểu phổ biến nhất,","s":39.6},{"e":47.69,"en":"with Stable angina pain occurs only when a heart is exerting itself more than normal","vi":"cơn đau chỉ diễn ra khi tim hoạt động tích cực hơn mức bình thường","s":42.15},{"e":50.6,"en":"and usually subsides when at rest.","vi":"và thường giảm khi nghỉ ngơi.","s":47.69},{"e":55.23,"en":"Unstable angina is a serious condition that requires emergency treatment,","vi":"Ðau thắt ngực không ổn định là một bệnh trạng nguy hiểm cần được điều trị khẩn cấp,","s":50.6},{"e":58.19,"en":"and sometimes signals an impending heart attack.","vi":"và đôi khi báo hiệu một cơn đau tim sắp xảy ra.","s":55.23},{"e":64.08,"en":"Unstable angina is different from stable angina in that it can occur more frequently,","vi":"Ðau thắt ngực không ổn định khác với đau thắt ngực ổn định ở chỗ nó có thể xảy ra thường xuyên hơn,","s":58.19},{"e":68.78,"en":"can feel more severe, and can occur or continue while at rest.","vi":"có thể cảm thấy khó chịu hơn và có thể xảy ra hoặc tiếp diễn trong lúc nghỉ ngơi.","s":64.08},{"e":72.17,"en":"Prinzmetal's Angina is an unusual kind of Angina","vi":"Ðau thắt ngực biến dị là một kiểu đau thắt ngực bất thường","s":68.78},{"e":77.94,"en":"that occurs only when the patient is at rest, is exposed to cold temperatures, or is sleeping.","vi":"chỉ xảy ra khi bệnh nhân nghỉ ngơi, gặp lạnh, hoặc đang ngủ.","s":72.17},{"e":86.38,"en":"Diagnosing angina requires a physical exam, a comprehensive medical history, and possibly a series of diagnostic tests.","vi":"Việc chẩn đoán chứng đau thắt ngực cần có một kết quả kiểm tra lâm sàng, một bệnh sử bao hàm toàn diện, và có thể cần đến một chuỗi gồm nhiều xét nghiệm chẩn đoán.","s":77.94},{"e":91.43,"en":"It is complex condition that can only be diagnosed by your doctor.","vi":"Nó là một bệnh chứng phức tạp chỉ có thể chẩn đoán bởi bác sĩ.","s":86.38},{"e":95.94,"en":"While it may be possible for a physician to determine if you have Angina","vi":"Bác sĩ thường xác định chứng đau thắt ngực","s":91.43},{"e":98.34,"en":"just from the physical exam and history,","vi":"bằng cách thăm khám lâm sàng và xem bệnh sử,","s":95.94},{"e":102.48,"en":"tests will often need to be ordered to confirm the diagnosis.","vi":"thường thì nhiều xét nghiệm cần được yêu cầu (thực hiện) nhằm xác định kết quả chẩn đoán.","s":98.34},{"e":108.14,"en":"These tests may include an EKG, which measures the regularity of your heartbeat,","vi":"Những xét nghiệm này có thể bao gồm một điện tâm đồ, phép đo tính đều đặn của nhịp tim,","s":102.48},{"e":114.64,"en":"stress tests to see how your heart responds to exercise, and diagnostic blood tests.","vi":"những xét nghiệm vận động để xem phản ứng của tim đối với sự vận động cơ thể, và những xét nghiệm máu.","s":108.14},{"e":120.99,"en":"For patients suffering from Angina, there are several effective treatment options available.","vi":"Ðối với những bệnh nhân bị đau thắt ngực, hiện nay có nhiều chọn lựa điều trị công hiệu.","s":114.64},{"e":124.82,"en":"The first and simplest option is a lifestyle change.","vi":"Chọn lựa đầu tiên và đơn giản nhất là thay đổi lối sống.","s":120.99},{"e":129.94,"en":"Your doctor can advise you on how to make dietary changes, lose weight,","vi":"Bác sĩ có thể khuyên bạn cách thức thay đổi chế độ ăn uống, giảm cân,","s":124.82},{"e":134.11,"en":"and change your physical activities to avoid angina episodes.","vi":"và thay đổi những hoạt động thể chất để tránh những cơn đau thắt ngực.","s":129.94},{"e":139.16,"en":"Your doctor may also be able to prescribe medications that can help with your angina.","vi":"Bác sĩ còn có thể kê đơn những loại dược phẩm có thể chữa những cơn đau thắt ngực.","s":134.11},{"e":145.53,"en":"For example, nitrates can be used both to relieve pain during the onset of an episode","vi":"Ví dụ như ni-trát có thể được dùng để giúp giảm đau khi lên cơn","s":139.16},{"e":147.6,"en":"and to actually prevent an episode.","vi":"và để ngăn ngừa thật sự một cơn đau.","s":145.53},{"e":153.85,"en":"When other methods do not work, Angioplasty or Surgery may be necessary to treat Angina.","vi":"Khi những phương pháp khác không hiệu quả, có lẽ phải giải phẫu thông động mạch hoặc phẫu thuật để điều trị đau thắt ngực.","s":147.6},{"e":159.07,"en":"It is important to understand that not all chest pain or discomfort is Angina.","vi":"Cần hiểu rằng không phải tất cả những cơn đau hoặc khó chịu ở ngực đều là chứng đau thắt ngực.","s":153.85},{"e":168.48,"en":"Chest pain can be caused by any number of factors including heart attack, lung problems, heartburn, or a panic attack.","vi":"Ðau ngực có thể do một số yếu tố bao gồm đau tim, những vấn đề ở phổi, hoặc một cơn hoảng loạn.","s":159.07},{"e":175.12,"en":"If you are experiencing chest pain, whether you believe it is Angina or something different,","vi":"nếu bạn bị đau ngực, cho dù bạn nghĩ đó là chứng đau thắt ngực hoặc một tình trạng nào khác,","s":168.48},{"e":177.75,"en":"please see a physician as soon as possible.","vi":"hãy tìm gặp bác sĩ càng sớm càng tốt.","s":175.12}]}
+{
+  "id": 173,
+  "code": "C 49",
+  "group": "C",
+  "n": 49,
+  "title": "C 49",
+  "first_line": "Over 6 Million Americans suffer from Angina.",
+  "video": "C 49.avi",
+  "duration": 177.8,
+  "lines": [
+    {
+      "e": 3.51,
+      "en": "Over 6 Million Americans suffer from Angina.",
+      "vi": "Trên 6 triệu người Mỹ bị chứng đau thắt ngực.",
+      "s": 0.0
+    },
+    {
+      "e": 5.46,
+      "en": "But what exactly is Angina?",
+      "vi": "Nhưng nói chính xác thì đau thắt ngực là gì?",
+      "s": 3.51
+    },
+    {
+      "e": 11.37,
+      "en": "Angina is chest pain or discomfort that occurs when the heart muscle is not getting enough oxygen.",
+      "vi": "Ðau thắt ngực là đau hoặc khó chịu ở ngực, xảy ra khi cơ tim nhận không đủ khí ôxy",
+      "s": 5.46
+    },
+    {
+      "e": 14.88,
+      "en": "Angina is not the same thing as a heart attack,",
+      "vi": "Ðau thắt ngực không phải là một cơn đau tim,",
+      "s": 11.37
+    },
+    {
+      "e": 17.75,
+      "en": "although its symptoms can sometimes appear similar.",
+      "vi": "dù đôi khi các triệu chứng của nó giống như thế.",
+      "s": 14.88
+    },
+    {
+      "e": 23.66,
+      "en": "Angina occurs when the coronary arteries, the primary source of blood for the heart,",
+      "vi": "Ðau thắt ngực xảy ra khi các động mạch vành, nguồn cung cấp máu chủ yếu dành cho tim,",
+      "s": 17.75
+    },
+    {
+      "e": 28.37,
+      "en": "become partially blocked by a build up of fatty deposits called plaque.",
+      "vi": "bị nghẽn một phần do sự tích tụ của cặn chất béo được gọi là mảng chất béo.",
+      "s": 23.66
+    },
+    {
+      "e": 31.88,
+      "en": "This build up reduces the flow of blood to the heart,",
+      "vi": "Sự tích tụ này làm giảm lưu lượng máu đến tim,",
+      "s": 28.37
+    },
+    {
+      "e": 37.04,
+      "en": "decreasing the supply of oxygen and causing the pain we experience as Angina.",
+      "vi": "làm giảm sự cung cấp ôxy và gây ra cơn đau mà chúng ta có cảm giác như là đau thắt ngực.",
+      "s": 31.88
+    },
+    {
+      "e": 39.6,
+      "en": "There are three different types of Angina.",
+      "vi": "Có ba kiểu đau thắt ngực khác nhau.",
+      "s": 37.04
+    },
+    {
+      "e": 42.15,
+      "en": "Stable angina is the most common type,",
+      "vi": "Ðau thắt ngực ổn định là kiểu phổ biến nhất,",
+      "s": 39.6
+    },
+    {
+      "e": 47.69,
+      "en": "with Stable angina pain occurs only when a heart is exerting itself more than normal",
+      "vi": "cơn đau chỉ diễn ra khi tim hoạt động tích cực hơn mức bình thường",
+      "s": 42.15
+    },
+    {
+      "e": 50.6,
+      "en": "and usually subsides when at rest.",
+      "vi": "và thường giảm khi nghỉ ngơi.",
+      "s": 47.69
+    },
+    {
+      "e": 55.23,
+      "en": "Unstable angina is a serious condition that requires emergency treatment,",
+      "vi": "Ðau thắt ngực không ổn định là một bệnh trạng nguy hiểm cần được điều trị khẩn cấp,",
+      "s": 50.6
+    },
+    {
+      "e": 58.19,
+      "en": "and sometimes signals an impending heart attack.",
+      "vi": "và đôi khi báo hiệu một cơn đau tim sắp xảy ra.",
+      "s": 55.23
+    },
+    {
+      "e": 64.08,
+      "en": "Unstable angina is different from stable angina in that it can occur more frequently,",
+      "vi": "Ðau thắt ngực không ổn định khác với đau thắt ngực ổn định ở chỗ nó có thể xảy ra thường xuyên hơn,",
+      "s": 58.19
+    },
+    {
+      "e": 68.78,
+      "en": "can feel more severe, and can occur or continue while at rest.",
+      "vi": "có thể cảm thấy khó chịu hơn và có thể xảy ra hoặc tiếp diễn trong lúc nghỉ ngơi.",
+      "s": 64.08
+    },
+    {
+      "e": 72.17,
+      "en": "Prinzmetal's Angina is an unusual kind of Angina",
+      "vi": "Ðau thắt ngực biến dị là một kiểu đau thắt ngực bất thường",
+      "s": 68.78
+    },
+    {
+      "e": 77.94,
+      "en": "that occurs only when the patient is at rest, is exposed to cold temperatures, or is sleeping.",
+      "vi": "chỉ xảy ra khi bệnh nhân nghỉ ngơi, gặp lạnh, hoặc đang ngủ.",
+      "s": 72.17
+    },
+    {
+      "e": 86.38,
+      "en": "Diagnosing angina requires a physical exam, a comprehensive medical history, and possibly a series of diagnostic tests.",
+      "vi": "Việc chẩn đoán chứng đau thắt ngực cần có một kết quả kiểm tra lâm sàng, một bệnh sử bao hàm toàn diện, và có thể cần đến một chuỗi gồm nhiều xét nghiệm chẩn đoán.",
+      "s": 77.94
+    },
+    {
+      "e": 91.43,
+      "en": "It is complex condition that can only be diagnosed by your doctor.",
+      "vi": "Nó là một bệnh chứng phức tạp chỉ có thể chẩn đoán bởi bác sĩ.",
+      "s": 86.38
+    },
+    {
+      "e": 95.94,
+      "en": "While it may be possible for a physician to determine if you have Angina",
+      "vi": "Bác sĩ thường xác định chứng đau thắt ngực",
+      "s": 91.43
+    },
+    {
+      "e": 98.34,
+      "en": "just from the physical exam and history,",
+      "vi": "bằng cách thăm khám lâm sàng và xem bệnh sử,",
+      "s": 95.94
+    },
+    {
+      "e": 102.48,
+      "en": "tests will often need to be ordered to confirm the diagnosis.",
+      "vi": "thường thì nhiều xét nghiệm cần được yêu cầu (thực hiện) nhằm xác định kết quả chẩn đoán.",
+      "s": 98.34
+    },
+    {
+      "e": 108.14,
+      "en": "These tests may include an EKG, which measures the regularity of your heartbeat,",
+      "vi": "Những xét nghiệm này có thể bao gồm một điện tâm đồ, phép đo tính đều đặn của nhịp tim,",
+      "s": 102.48
+    },
+    {
+      "e": 114.64,
+      "en": "stress tests to see how your heart responds to exercise, and diagnostic blood tests.",
+      "vi": "những xét nghiệm vận động để xem phản ứng của tim đối với sự vận động cơ thể, và những xét nghiệm máu.",
+      "s": 108.14
+    },
+    {
+      "e": 120.99,
+      "en": "For patients suffering from Angina, there are several effective treatment options available.",
+      "vi": "Ðối với những bệnh nhân bị đau thắt ngực, hiện nay có nhiều chọn lựa điều trị công hiệu.",
+      "s": 114.64
+    },
+    {
+      "e": 124.82,
+      "en": "The first and simplest option is a lifestyle change.",
+      "vi": "Chọn lựa đầu tiên và đơn giản nhất là thay đổi lối sống.",
+      "s": 120.99
+    },
+    {
+      "e": 129.94,
+      "en": "Your doctor can advise you on how to make dietary changes, lose weight,",
+      "vi": "Bác sĩ có thể khuyên bạn cách thức thay đổi chế độ ăn uống, giảm cân,",
+      "s": 124.82
+    },
+    {
+      "e": 134.11,
+      "en": "and change your physical activities to avoid angina episodes.",
+      "vi": "và thay đổi những hoạt động thể chất để tránh những cơn đau thắt ngực.",
+      "s": 129.94
+    },
+    {
+      "e": 139.16,
+      "en": "Your doctor may also be able to prescribe medications that can help with your angina.",
+      "vi": "Bác sĩ còn có thể kê đơn những loại dược phẩm có thể chữa những cơn đau thắt ngực.",
+      "s": 134.11
+    },
+    {
+      "e": 145.53,
+      "en": "For example, nitrates can be used both to relieve pain during the onset of an episode",
+      "vi": "Ví dụ như ni-trát có thể được dùng để giúp giảm đau khi lên cơn",
+      "s": 139.16
+    },
+    {
+      "e": 147.6,
+      "en": "and to actually prevent an episode.",
+      "vi": "và để ngăn ngừa thật sự một cơn đau.",
+      "s": 145.53
+    },
+    {
+      "e": 153.85,
+      "en": "When other methods do not work, Angioplasty or Surgery may be necessary to treat Angina.",
+      "vi": "Khi những phương pháp khác không hiệu quả, có lẽ phải giải phẫu thông động mạch hoặc phẫu thuật để điều trị đau thắt ngực.",
+      "s": 147.6
+    },
+    {
+      "e": 159.07,
+      "en": "It is important to understand that not all chest pain or discomfort is Angina.",
+      "vi": "Cần hiểu rằng không phải tất cả những cơn đau hoặc khó chịu ở ngực đều là chứng đau thắt ngực.",
+      "s": 153.85
+    },
+    {
+      "e": 168.48,
+      "en": "Chest pain can be caused by any number of factors including heart attack, lung problems, heartburn, or a panic attack.",
+      "vi": "Ðau ngực có thể do một số yếu tố bao gồm đau tim, những vấn đề ở phổi, hoặc một cơn hoảng loạn.",
+      "s": 159.07
+    },
+    {
+      "e": 175.12,
+      "en": "If you are experiencing chest pain, whether you believe it is Angina or something different,",
+      "vi": "nếu bạn bị đau ngực, cho dù bạn nghĩ đó là chứng đau thắt ngực hoặc một tình trạng nào khác,",
+      "s": 168.48
+    },
+    {
+      "e": 177.75,
+      "en": "please see a physician as soon as possible.",
+      "vi": "hãy tìm gặp bác sĩ càng sớm càng tốt.",
+      "s": 175.12
+    }
+  ]
+}

@@ -1,1 +1,10 @@
-[{"h":"JV","segs":[{"k":"m","t":"Viết tắt của 1. commerce joint venture"},{"k":"m","t":"2. junior varsity"}],"k":"jv"}]
+[
+  {
+    "h": "JV",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. commerce joint venture"},
+      {"k": "m", "t": "2. junior varsity"}
+    ],
+    "k": "jv"
+  }
+]

@@ -1,1 +1,9 @@
-[{"h":"BX","segs":[{"k":"m","t":"Viết tắt của military commerce Base Exchange"}],"k":"bx"},{"h":"BX cable","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cáp BX"}],"k":"bx cable"},{"h":"bx.","segs":[{"k":"m","t":"Viết tắt của box1"}],"k":"bx."}]
+[
+  {"h": "BX", "segs": [{"k": "m", "t": "Viết tắt của military commerce Base Exchange"}], "k": "bx"},
+  {
+    "h": "BX cable",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cáp BX"}],
+    "k": "bx cable"
+  },
+  {"h": "bx.", "segs": [{"k": "m", "t": "Viết tắt của box1"}], "k": "bx."}
+]

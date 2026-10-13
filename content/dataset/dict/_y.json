@@ -1,1 +1,12 @@
-[{"h":"\"yes\" button","segs":[{"k":"m","t":"nút \"ừ\"."}],"k":"\"yes\" button"},{"h":"-yl","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"a group of atoms forming a radical"},{"k":"m","t":"carbonyl"}],"k":"-yl"}]
+[
+  {"h": "\"yes\" button", "segs": [{"k": "m", "t": "nút \"ừ\"."}], "k": "\"yes\" button"},
+  {
+    "h": "-yl",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "a group of atoms forming a radical"},
+      {"k": "m", "t": "carbonyl"}
+    ],
+    "k": "-yl"
+  }
+]

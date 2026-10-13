@@ -1,1 +1,2622 @@
-[{"h":"ye","segs":[{"k":"m","t":"đại từ"},{"k":"m","t":"(cổ) (như)"},{"k":"ex","t":"you","vi":"mạo từ"},{"k":"m","t":"(cổ) (như)"},{"k":"ex","t":"the","vi":"(trước một nguyên âm)."}],"ipa":"ji:","k":"ye"},{"h":"ye gods","segs":[{"k":"m","t":"ối trời! trời ơi là trời!"}],"k":"ye gods"},{"h":"yea","segs":[{"k":"m","t":"phó từ & danh từ"},{"k":"m","t":"(cổ) (như)"},{"k":"m","t":"yes"},{"k":"ex","t":"to answer someone yea","vi":"trả lời ai rằng được."}],"ipa":"jei","k":"yea"},{"h":"yea-sayer","segs":[{"k":"m","t":"(số nhiều yea-sayers)"},{"k":"m","t":"nounU.S."},{"k":"m","t":"1. somebody optimistic: somebody who is always confident và optimistic"},{"k":"m","t":"2. somebody agreeing submissively: somebody who always agrees submissively with a superior"}],"k":"yea-sayer"},{"h":"yeah","segs":[{"k":"pos","t":"phó từ"},{"k":"m","t":"(cách phát âm không trịnh trọng của"},{"k":"ex","t":"Yes","vi":") vâng"},{"k":"m","t":"được"},{"k":"m","t":"ừ"},{"k":"m","t":"có"},{"k":"ex","t":"oh yeah","vi":"(dùng để tỏ ra mình không tin điều nghe nói) thế à"},{"k":"ex","t":"I'm going to meet the Prime Minister - Oh yeah? Very likely!","vi":"Tôi sẽ đi gặp Thủ tướng-Thế à? Rất có thể!"}],"ipa":"jeə","k":"yeah"},{"h":"yean","segs":[{"k":"pos","t":"đại từ"},{"k":"m","t":"đẻ (cừu, dê)."}],"ipa":"ji:n","k":"yean"},{"h":"yeanling","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"cừu con"},{"k":"m","t":"dê con."}],"ipa":"'ji:nliŋ","k":"yeanling"},{"h":"year","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"thời gian trái đất dùng để quay một vòng quanh mặt trời, khoảng 365 ngày"},{"k":"m","t":"năm"},{"k":"m","t":"(cũng)"},{"k":"ex","t":"calendar year","vi":"khoảng thời gian từ 1 tháng giêng đến 31 tháng mười hai, tức là 365 ngày (hay 366 trong năm nhuận) chia ra 12 tháng"},{"k":"m","t":"năm"},{"k":"m","t":"năm lịch"},{"k":"ex","t":"in the year","vi":"1945"},{"k":"m","t":"trong năm 1945"},{"k":"ex","t":"this year","vi":"năm nay"},{"k":"ex","t":"the year after next","vi":"sang năm nữa"},{"k":"ex","t":"a good year for cheap vegetables","vi":"một năm rau rẻ mạt (rau được mùa nên giá rất hạ)"},{"k":"ex","t":"the academic year","vi":"năm học"},{"k":"ex","t":"the financial/fiscal/tax year","vi":"năm tài chính/tiền tệ/thuế"},{"k":"ex","t":"first-year students","vi":"các sinh viên năm thứ nhất"},{"k":"ex","t":"solar year","vi":"năm dương lịch"},{"k":"ex","t":"lunar year","vi":"năm âm lịch"},{"k":"m","t":"một thời kỳ 365 ngày liên tục"},{"k":"ex","t":"it's just a year (today) since I arrived here","vi":"(đến hôm nay) đã đúng một năm từ khi tôi đến đây"},{"k":"ex","t":"I arrived a year ago (today","vi":") ngày này năm ngoái tôi đã đến đây"},{"k":"ex","t":"she's worked there for ten years","vi":"chị ấy làm việc ở đó đã được mười năm"},{"k":"ex","t":"in a year's time they're getting married","vi":"họ lấy nhau trong khoảng thời gian một năm"},{"k":"ex","t":"a five-year forecast","vi":"sự dự báo cho năm năm"},{"k":"ex","t":"in the year one","vi":"vào năm đầu công lịch"},{"k":"m","t":"(nghĩa bóng) ngày xửa ngày xưa"},{"k":"m","t":"(số nhiều) tuổi"},{"k":"ex","t":"twenty years old/of age","vi":"hai mươi tuổi"},{"k":"ex","t":"a seventy-year-old man","vi":"một cụ già 70 tuổi"},{"k":"ex","t":"she looks young for her years/for a woman of her years","vi":"bà ấy trông còn trẻ so với tuổi/so với phụ nữ cùng tuổi"},{"k":"ex","t":"he died in his sixtieth year","vi":"ông ấy từ trần vào tuổi sáu mươi"},{"k":"ex","t":"the weight of years","vi":"ảnh hưởng của tuổi tác, tuổi già sức yếu"},{"k":"ex","t":"well on in years","vi":"đứng tuổi"},{"k":"ex","t":"advanced in years","vi":"già, có tuổi"},{"k":"ex","t":"to die full of years","vi":"chết già"},{"k":"ex","t":"old beyond one's years","vi":"già trước tuổi"},{"k":"ex","t":"to put years on somebody","vi":"làm cho ai già đi"},{"k":"ex","t":"to take years off somebody","vi":"làm cho ai trẻ ra"},{"k":"m","t":"(số nhiều)"},{"k":"pos","t":"thành ngữ"},{"k":"m","t":"một thời gian dài"},{"k":"m","t":"lâu rồi"},{"k":"m","t":"nhiều năm"},{"k":"ex","t":"I've worked for this firm for years (and years","vi":") tôi làm việc cho công ty này nhiều năm rồi"},{"k":"ex","t":"it's years since we last met","vi":"đã lâu rồi kể từ ngày chúng ta gặp nhau lần cuối"},{"k":"ex","t":"it heaps years on me","vi":"cái đó làm cho tôi chán lắm"},{"k":"m","t":"cái đó làm phiền tôi"},{"k":"ex","t":"age/years of discretion","vi":"tuổi khôn lớn, tuổi trưởng thành"},{"k":"ex","t":"all (the) year round","vi":"quanh năm suốt tháng"},{"k":"ex","t":"he swims in the sea all year round","vi":"anh ấy tắm biển quanh năm suốt tháng"},{"k":"ex","t":"donkey's years","vi":"một thời gian rất dài"},{"k":"ex","t":"man/woman/car ... of the year","vi":"người hoặc vật nổi bật trong năm"},{"k":"ex","t":"TV personality of the year","vi":"nhân vật truyền hình nổi bật trong năm"},{"k":"ex","t":"not/never in a hundred years","vi":"dứt khoát không bao giờ"},{"k":"ex","t":"to ring out the old year and ring in the new","vi":"thông báo năm cũ kết thúc và chào mừng năm mới"},{"k":"ex","t":"the year dot","vi":"cách đây rất lâu"},{"k":"ex","t":"I've been going there every summer since the year dot","vi":"cách đây rất lâu, tôi thường đến đó mỗi mùa hè"},{"k":"ex","t":"the turn of the year/century xem turn","vi":"."}],"ipa":"jiə:","k":"year","q":{"vi":"năm","ipa":"jiə","pos":"n"}},{"h":"year 2000 problem","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự cố năm 2000"}],"k":"year 2000 problem"},{"h":"year after year","segs":[{"k":"pos","t":"thngu"},{"k":"m","t":"year"},{"k":"ex","t":"year after year","vi":"liên tục nhiều năm"},{"k":"m","t":"nhiều năm ròng"},{"k":"m","t":"hết năm này sang năm khác"},{"k":"ex","t":"she sent money year after year to help the poor","vi":"nhiều năm ròng chị ấy gửi tiền giúp đỡ người nghèo."}],"k":"year after year"},{"h":"Year Books","segs":[{"k":"m","t":"niên giám tư pháp (sưu tập các phán quyết của tòa án Anh từ thời vua Eduard I đến thời vua Henry VIII)."}],"k":"year books"},{"h":"year by year","segs":[{"k":"pos","t":"thngu"},{"k":"m","t":"year"},{"k":"ex","t":"year by year","vi":"tăng dần hàng năm"},{"k":"m","t":"theo năm tháng"},{"k":"ex","t":"year by year their affection for each other grew stronger","vi":"tình yêu thương của họ đối với nhau nồng thắm dần theo năm tháng."}],"k":"year by year"},{"h":"year of account","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"năm kết toán"}],"k":"year of account"},{"h":"year of assessment","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"năm đánh thuế"}],"k":"year of assessment"},{"h":"year of concrete","segs":[{"k":"m","t":"sản lượng bêtông (sau khi ngót)."}],"k":"year of concrete"},{"h":"year of grace","segs":[{"k":"m","t":"hoặc year of our Lord (số nhiều years of our Lord)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"year of Christian era: a year of the Christian era"}],"k":"year of grace"},{"h":"year of metal","segs":[{"k":"m","t":"sự chảy dẻo của kim loại."}],"k":"year of metal"},{"h":"year of mortar","segs":[{"k":"m","t":"sự biến hình của vữa."}],"k":"year of mortar"},{"h":"year of recording","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"năm ghi"}],"k":"year of recording"},{"h":"year of support","segs":[{"k":"m","t":"sự lún gối."}],"k":"year of support"},{"h":"year of water","segs":[{"k":"m","t":"lượng nước ra."}],"k":"year of water"},{"h":"year of well","segs":[{"k":"m","t":"lưu lượng hút nước của giếng."}],"k":"year of well"},{"h":"year out","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"U.K. education như gap year"}],"k":"year out"},{"h":"year report register","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"bảng kê báo cáo hàng năm"}],"k":"year report register"},{"h":"year ring","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"vòng năm (gỗ)"}],"k":"year ring"},{"h":"year round","segs":[{"k":"m","t":"suốt cả năm, năm tròn."}],"k":"year round"},{"h":"year round fishery","segs":[{"k":"m","t":"nghề cá quanh năm."}],"k":"year round fishery"},{"h":"year round irrigation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tưới quanh năm"}],"k":"year round irrigation"},{"h":"year to date","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"cộng tới ngày này"}],"k":"year to date"},{"h":"year under review","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"năm báo cáo"}],"k":"year under review"},{"h":"Year's mind","segs":[{"k":"m","t":"lễ giỗ đầu năm."}],"k":"year's mind"},{"h":"year's purchase","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"tiền tô"}],"k":"year's purchase"},{"h":"year-book","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"niên giám."}],"ipa":"'jiə:buk","k":"year-book"},{"h":"year-end","segs":[{"k":"m","t":"Danh từ (số nhiều year-ends)"},{"k":"m","t":"end of year: the end of a financial year hoặc calendar year"},{"k":"m","t":"Tính từ"},{"k":"m","t":"done at year-end: occurring hoặc done at the end of a financial year hoặc calendar year"}],"k":"year-end"},{"h":"year-end adjustment","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"điều chỉnh cuối năm"},{"k":"m","t":"điểu chỉnh cuối năm"}],"k":"year-end adjustment"},{"h":"year-end audit","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"kiểm toán cuối năm"}],"k":"year-end audit"},{"h":"year-end bonus","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"tiền thưởng cuối năm"}],"k":"year-end bonus"},{"h":"year-end closing","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"khóa sổ cuối năm"},{"k":"m","t":"sự kết thúc tài khóa"},{"k":"m","t":"sự khóa sổ cuối năm"}],"k":"year-end closing"},{"h":"year-end dividend","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"cổ tức cuối năm, cuối tài khóa"}],"k":"year-end dividend"},{"h":"year-end file","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"hồ sơ của tài khóa hiện hành"}],"k":"year-end file"},{"h":"year-end procedures","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"thủ tục kiểm kê cuối năm"}],"k":"year-end procedures"},{"h":"year-end statistics","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"số liệu thống cuối năm"}],"k":"year-end statistics"},{"h":"year-end stock","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"hàng trữ cuối năm"}],"k":"year-end stock"},{"h":"year-end stocktaking","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"việc kiểm kê cuối tài khóa, cuối năm"}],"k":"year-end stocktaking"},{"h":"year-end variance","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"sai biệt cuối năm"}],"k":"year-end variance"},{"h":"year-long","segs":[{"k":"m","t":"tính từ"},{"k":"m","t":"lâu một năm, dài một năm."}],"ipa":"ˈjə:,lɔŋ","k":"year-long"},{"h":"year-round employment","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"thuê làm trọn năm"}],"k":"year-round employment"},{"h":"year-round operation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự vận hành cả năm"},{"k":"m","t":"vận hành cả năm"}],"k":"year-round operation"},{"h":"year-round ventilation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự thông gió cả năm"},{"k":"m","t":"thông gió cả năm"}],"k":"year-round ventilation"},{"h":"year-to-year","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"cộng dồn trên tài khóa mỗi năm"},{"k":"m","t":"mỗi năm"}],"k":"year-to-year"},{"h":"yearbook","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"tài liệu xuất bản hàng năm và chứa đựng thông tin về năm trước đó"},{"k":"m","t":"niên giám"},{"k":"m","t":"ấn bản do học viên lớp cuối khóa của một trường biên soạn, ghi lại các sự kiện trong năm học và thường có hình chụp các học viên và nhà trường"},{"k":"m","t":"kỷ yếu"},{"k":"m","t":"."}],"ipa":"'jiə:buk","k":"yearbook"},{"h":"yearling","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"thú vật một tuổi"},{"k":"pos","t":"tính từ"},{"k":"m","t":"một tuổi (thú vật)"},{"k":"ex","t":"yearling colt","vi":"ngựa con một tuổi."}],"ipa":"'jiə:liŋ","k":"yearling"},{"h":"yearling bond (yearlings)","segs":[{"k":"m","t":"trái phiếu một năm."}],"k":"yearling bond (yearlings)"},{"h":"yearling bonds","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"trái phiếu kỳ hạn một năm"}],"k":"yearling bonds"},{"h":"yearling heffer","segs":[{"k":"m","t":"bê cái một tuổi."}],"k":"yearling heffer"},{"h":"yearling heifer","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"bê cái 1 tuổi"}],"k":"yearling heifer"},{"h":"yearling savings plans","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"kế hoạch tiết kiệm hàng năm"}],"k":"yearling savings plans"},{"h":"yearling sheep","segs":[{"k":"m","t":"cừu non (từ 12 đến 20 tháng tuổi)."}],"k":"yearling sheep"},{"h":"yearlong","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"lâu một năm, dài một năm"},{"k":"ex","t":"a yearlong lecture tour","vi":"một chuyến đi giảng bài kéo dài một năm."}],"ipa":"'jiə:,lɔŋ","k":"yearlong"},{"h":"yearly","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"&pht. hằng năm, thường niên"},{"k":"ex","t":"yearly income","vi":"thu nhập hằng năm"},{"k":"ex","t":"yearly holiday","vi":"ngày nghỉ hằng năm, ngày nghỉ thường niên"},{"k":"ex","t":"a yearly seminar/a seminar held yearly","vi":"cuộc hội thảo hằng năm/cuộc hội thảo tổ chức mỗi năm một lần"},{"k":"m","t":"kéo dài một năm, suốt một năm"},{"k":"ex","t":"yearly letting","vi":"sự cho thuê một năm."}],"ipa":"'jiə:li","k":"yearly","q":{"vi":"hàng năm, mỗi năm một lần","ipa":"'jiəli","rs":"día lì"}},{"h":"yearly average","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"số trung bình hàng năm"}],"k":"yearly average"},{"h":"yearly average temperature","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"nhiệt độ trung bình năm"}],"k":"yearly average temperature"},{"h":"yearly budget","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"ngân sách hàng năm"}],"k":"yearly budget"},{"h":"yearly capacity","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"công suất năm"},{"k":"m","t":"sản lượng năm"},{"k":"m","t":"sản lượng hàng năm"}],"k":"yearly capacity"},{"h":"yearly consumption","segs":[{"k":"m","t":"sự tiêu thụ hàng năm."}],"k":"yearly consumption"},{"h":"yearly discharge","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lưu lượng năm"}],"k":"yearly discharge"},{"h":"yearly income","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"thu nhập hàng năm"}],"k":"yearly income"},{"h":"yearly instalment","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"khoản tiền trả hàng năm"},{"k":"m","t":"trả góp theo năm"}],"k":"yearly instalment"},{"h":"yearly maintenance","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự bảo quản hàng năm"}],"k":"yearly maintenance"},{"h":"yearly output","segs":[{"k":"m","t":"sản lượng năm."}],"k":"yearly output"},{"h":"yearly precipitation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lượng mưa năm"}],"k":"yearly precipitation"},{"h":"yearly rainfall","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lượng mưa hàng năm"},{"k":"m","t":"lượng mưa năm"}],"k":"yearly rainfall"},{"h":"yearly renewable terms","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"điều khoản tái tục (bảo hiểm hàng năm)"},{"k":"m","t":"điều khoản tái tục (bảo hiểm) hàng năm"}],"k":"yearly renewable terms"},{"h":"yearly report","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"báo cáo hàng năm"}],"k":"yearly report"},{"h":"yearly reservoir","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hồ điều tiết năm"}],"k":"yearly reservoir"},{"h":"yearly saving plans","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"kế hoạch tiết kiệm hàng năm"}],"k":"yearly saving plans"},{"h":"yearly savings plans","segs":[{"k":"m","t":"(tên đầy đủ National Savings Yearly Plans) phương án tiết kiệm do sở kiệm đề xướng năm 1984. Người tiết kiệm gởi tiền tiết kiệm hàng tháng từ 20 đến 400 bảng Anh, họ nhận một thẻ Niên kế (Yearly Plan Certificate). Nếu tiếp tục gởi tiết kiệm như vậy trong bốn năm, họ sẽ nhận được mức lãi suất cao nhất, không thuế, còn tiền lời hàng năm được gộp chung vào tiền gởi."}],"k":"yearly savings plans"},{"h":"yearly summary accounts","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"báo cáo tổng hợp hàng năm"}],"k":"yearly summary accounts"},{"h":"yearly taxation","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"thuế tính theo năm"}],"k":"yearly taxation"},{"h":"yearly tenant","segs":[{"k":"m","t":"người hưởng dụng theo luật."}],"k":"yearly tenant"},{"h":"yearly turnover","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"doanh số hàng năm"}],"k":"yearly turnover"},{"h":"yearly yield","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"sản lượng năm"}],"k":"yearly yield"},{"h":"yearn","segs":[{"k":"pos","t":"nội động từ"},{"k":"m","t":"mong mỏi, ao ước, khao khát, nóng lòng"},{"k":"ex","t":"to yearn for (after) something","vi":"mong mỏi khao khát cái gì"},{"k":"ex","t":"to yearn to do something","vi":"nóng lòng muốn làm việc gì"},{"k":"m","t":"thương mến"},{"k":"m","t":"thương cảm, thương hại"},{"k":"ex","t":"to yearn to (towards) someone","vi":"thương hại người nào."}],"ipa":"jə:n","k":"yearn"},{"h":"yearner","segs":[{"k":"m","t":"n. a person with a strong desire for something"}],"k":"yearner"},{"h":"yearning","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(+"},{"k":"ex","t":"after, for","vi":") sự khao khát, sự mong mỏi, sự ao ước"},{"k":"ex","t":"yearning for freedom","vi":"sự khao khát muốn có tự do"},{"k":"m","t":"(+"},{"k":"ex","t":"to, towards","vi":") sự thương mến"},{"k":"m","t":"sự thương cảm, sự thương hại."}],"ipa":"'jə:niŋ","k":"yearning"},{"h":"yearningly","segs":[{"k":"pos","t":"phó từ"},{"k":"m","t":"khát khao, tha thiết."}],"ipa":"'jə:niŋli","k":"yearningly"},{"h":"years of discretion","segs":[{"k":"m","t":"tuổi khôn lớn, tuổi trưởng thành."}],"k":"years of discretion"},{"h":"years purchase","segs":[{"k":"m","t":"thu hoạch nhiều năm."}],"k":"years purchase"},{"h":"yeas and nays","segs":[{"k":"m","t":"việc biểu quyết bằng cách điểm danh, những người biểu quyết thuận và chống, danh sách các nghị sĩ biểu quyết thuận và chống."}],"k":"yeas and nays"},{"h":"yeast","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"men"},{"k":"m","t":"men bia"},{"k":"ex","t":"brewer's yeast; beer yeast","vi":"men bia"},{"k":"ex","t":"baker's yeast","vi":"men làm bánh."}],"ipa":"ji:st","k":"yeast"},{"h":"yeast activator","segs":[{"k":"m","t":"chất hoạt hóa nấm men, chất kích hoạt hóa nấm men."}],"k":"yeast activator"},{"h":"yeast artificial chromosome","segs":[{"k":"m","t":"(số nhiều yeast artificial chromosomes)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"vector for cloning DNA fragments: a sequence of DNA taken from another organism và inserted in a yeast to reveal its function"}],"k":"yeast artificial chromosome"},{"h":"yeast autolysate","segs":[{"k":"m","t":"thể tự phân giải nấm men."}],"k":"yeast autolysate"},{"h":"yeast bite","segs":[{"k":"m","t":"vị men (bia)."}],"k":"yeast bite"},{"h":"yeast bottom layer","segs":[{"k":"m","t":"lớp men lắng dưới thùng lên men."}],"k":"yeast bottom layer"},{"h":"yeast bread","segs":[{"k":"m","t":"bánh mì lên men."}],"k":"yeast bread"},{"h":"yeast cake","segs":[{"k":"m","t":"bánh kéc từ bột nhào lên men, viên men sấy khô."}],"k":"yeast cake"},{"h":"yeast cell","segs":[{"k":"m","t":"tế bào nấm men."}],"k":"yeast cell"},{"h":"yeast contamination","segs":[{"k":"m","t":"sự nhiễm nấm men."}],"k":"yeast contamination"},{"h":"yeast count","segs":[{"k":"m","t":"số lượng tế bào nấm men, sự xác định lượng tế bào nấm men."}],"k":"yeast count"},{"h":"yeast cream","segs":[{"k":"m","t":"sữa lên men, nhũ tương men."}],"k":"yeast cream"},{"h":"yeast crop","segs":[{"k":"m","t":"khối nấm men."}],"k":"yeast crop"},{"h":"yeast culture tank","segs":[{"k":"m","t":"thùng nuôi cấy men."}],"k":"yeast culture tank"},{"h":"yeast cutting machine","segs":[{"k":"m","t":"máy cắt các bánh men."}],"k":"yeast cutting machine"},{"h":"yeast decoction","segs":[{"k":"m","t":"dịch nuôi men."}],"k":"yeast decoction"},{"h":"yeast dehydrator","segs":[{"k":"m","t":"máy vắt nước nấm men."}],"k":"yeast dehydrator"},{"h":"yeast department","segs":[{"k":"m","t":"phân xưởng nấm men."}],"k":"yeast department"},{"h":"yeast drying","segs":[{"k":"m","t":"sự sấy nấm men, sự làm khô nấm men."}],"k":"yeast drying"},{"h":"yeast extract","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sticky brown food: a thick sticky brown food obtained from yeast và eaten as a spread hoặc used in cooking"}],"k":"yeast extract"},{"h":"yeast extract agar","segs":[{"k":"m","t":"thạch dịch chiết nấm men."}],"k":"yeast extract agar"},{"h":"yeast extruding machine","segs":[{"k":"m","t":"máy tạo bánh men."}],"k":"yeast extruding machine"},{"h":"yeast factory","segs":[{"k":"m","t":"nhà máy nấm men."}],"k":"yeast factory"},{"h":"yeast fermentation","segs":[{"k":"m","t":"sự lên men bằng nấm men."}],"k":"yeast fermentation"},{"h":"yeast filtrate factor","segs":[{"k":"m","t":"axít pantotenic."}],"k":"yeast filtrate factor"},{"h":"yeast growing","segs":[{"k":"m","t":"sự phát triển của nấm men."}],"k":"yeast growing"},{"h":"yeast gum","segs":[{"k":"m","t":"chất nhầy nấm men."}],"k":"yeast gum"},{"h":"yeast hydrolyzate","segs":[{"k":"m","t":"chất thủy phân men."}],"k":"yeast hydrolyzate"},{"h":"yeast industry","segs":[{"k":"m","t":"công nghiệp lên men."}],"k":"yeast industry"},{"h":"yeast infection","segs":[{"k":"m","t":"(số nhiều yeast infections)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"irritation caused by fungus: an overgrowth of a fungus in the vagina, intestines, skin, hoặc mouth, causing irritation và swelling. Technical name candidiasis"}],"k":"yeast infection"},{"h":"yeast juice","segs":[{"k":"m","t":"nước ép men."}],"k":"yeast juice"},{"h":"yeast machine","segs":[{"k":"m","t":"thiết bị lên men."}],"k":"yeast machine"},{"h":"yeast manufacture","segs":[{"k":"m","t":"sự sản xuất nấm men."}],"k":"yeast manufacture"},{"h":"yeast mash","segs":[{"k":"m","t":"dịch chiết men."}],"k":"yeast mash"},{"h":"yeast masher","segs":[{"k":"m","t":"thùng lên men."}],"k":"yeast masher"},{"h":"yeast powder","segs":[{"k":"m","t":"bột nấm men khô."}],"k":"yeast powder"},{"h":"yeast product","segs":[{"k":"m","t":"sản phẩm lên men."}],"k":"yeast product"},{"h":"yeast propagator","segs":[{"k":"m","t":"thiết bị lên men, thùng lên men."}],"k":"yeast propagator"},{"h":"yeast raised dough","segs":[{"k":"m","t":"bột nhào ủ men."}],"k":"yeast raised dough"},{"h":"yeast raised product","segs":[{"k":"m","t":"sản phẩm từ bột nhào lên men."}],"k":"yeast raised product"},{"h":"yeast ripening process","segs":[{"k":"m","t":"quá trình già của nấm men."}],"k":"yeast ripening process"},{"h":"yeast rousing apparatus","segs":[{"k":"m","t":"thiết bị khuấy động men giống."}],"k":"yeast rousing apparatus"},{"h":"yeast seed preparation","segs":[{"k":"m","t":"chế phẩm nấm men giống."}],"k":"yeast seed preparation"},{"h":"yeast separator","segs":[{"k":"m","t":"thiết bị tách nấm men."}],"k":"yeast separator"},{"h":"yeast slurry","segs":[{"k":"m","t":"dịch men."}],"k":"yeast slurry"},{"h":"yeast starter","segs":[{"k":"m","t":"men rượu."}],"k":"yeast starter"},{"h":"yeast strength","segs":[{"k":"m","t":"lực nở của men."}],"k":"yeast strength"},{"h":"yeast taste","segs":[{"k":"m","t":"vị men."}],"k":"yeast taste"},{"h":"yeast tub","segs":[{"k":"m","t":"thùng men."}],"k":"yeast tub"},{"h":"yeast turbidity","segs":[{"k":"m","t":"cặn men (xác men)."}],"k":"yeast turbidity"},{"h":"yeast vitamin powder","segs":[{"k":"m","t":"bột nấm men không được vitamin hóa."}],"k":"yeast vitamin powder"},{"h":"yeastiness","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"tính chất có bọt"},{"k":"m","t":"sự đầy bọt"},{"k":"m","t":"tính sôi sục, tính bồng bột"},{"k":"m","t":"(nghĩa bóng) tính chất hời hợt, tính chất rỗng tuếch (bài viết...)."}],"ipa":"'ji:stinis","k":"yeastiness"},{"h":"yeasting system","segs":[{"k":"m","t":"phương pháp nuôi cấy men."}],"k":"yeasting system"},{"h":"yeasting tank","segs":[{"k":"m","t":"thùng nuôi cấy men."}],"k":"yeasting tank"},{"h":"yeastless","segs":[{"k":"m","t":"(adj)"},{"k":"m","t":"(Tham khảo)"},{"k":"ex","t":"yeast","vi":"."}],"k":"yeastless"},{"h":"yeastlike","segs":[{"k":"m","t":"adj. of or resembling or containing yeast"}],"k":"yeastlike"},{"h":"yeastrel","segs":[{"k":"m","t":"dịch men chiết."}],"k":"yeastrel"},{"h":"yeasty","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(thuộc) men"},{"k":"ex","t":"yeasty taste","vi":"vị men"},{"k":"m","t":"có bọt, đầy bọt"},{"k":"ex","t":"yeasty sea","vi":"biển đầy bọt"},{"k":"m","t":"sôi sục, bồng bột"},{"k":"m","t":"hời hợt, rỗng tuếch"},{"k":"ex","t":"yeasty writing","vi":"bài viết rỗng tuếch."}],"ipa":"'ji:sti","k":"yeasty"},{"h":"yeasty cream","segs":[{"k":"m","t":"kem bọt, vàng sữa bọt."}],"k":"yeasty cream"},{"h":"yech","segs":[{"k":"m","t":"interjection"},{"k":"m","t":"U.S. expression of disgust: used to express disgust (thông tục)"}],"k":"yech"},{"h":"yeehaw","segs":[{"k":"m","t":"(lóng)"},{"k":"m","t":"interjection"},{"k":"m","t":"expressing aggression: used as an expression of enthusiastic approval hoặc high spirits, associated especially with the cowboy culture of the southern United States"},{"k":"m","t":"Tính từ"},{"k":"m","t":"rough and aggressive: extremely aggressive, especially in an unrefined, rustic manner"}],"k":"yeehaw"},{"h":"yegg","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(Mỹ), (lóng) kẻ trộm."}],"ipa":"jeg","k":"yegg"},{"h":"yeggman","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(Mỹ), (lóng) (như)"},{"k":"ex","t":"yegg","vi":"."}],"ipa":"'jegmən","k":"yeggman"},{"h":"yegurt","segs":[{"k":"m","t":"Sữa chua."}],"k":"yegurt"},{"h":"yehicule currency","segs":[{"k":"m","t":"chuyển tệ, đồng tiền trung chuyển."}],"k":"yehicule currency"},{"h":"Yehowah","segs":[{"k":"m","t":"XEM Yahweh."}],"k":"yehowah"},{"h":"Yeild","segs":[{"k":"m","t":"(kinh tế) Lợi tức."},{"k":"m","t":"Tỉ lệ thu hàng năm đối với một chứng khoán được tính bằng tỉ lệ % so với thị giá hiện tại."}],"k":"yeild"},{"h":"Yeild gap","segs":[{"k":"m","t":"(kinh tế) Chênh lệch lợi tức."},{"k":"m","t":"Mức khác biệt giữa lợi tức trung bình đối với cổ phần và tỉ lệ thu hồi tương ứng đối với các chứng khoán dài hạn có lãi suất cố định."}],"k":"yeild gap"},{"h":"yeilding of foundation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự lún của móng"}],"k":"yeilding of foundation"},{"h":"Yekaterinburg","segs":[{"k":"m","t":"industrial city in central Russia, on the Iset River, on the eastern slopes of the Ural Mountains."},{"k":"m","t":"Dân số khoảng: 1,293,000 (2002)"}],"k":"yekaterinburg"},{"h":"Yekaterinodar","segs":[{"k":"m","t":"Former name for Krasnodar"}],"k":"yekaterinodar"},{"h":"yeki","segs":[{"k":"m","t":"Bệnh dịch hạch."}],"k":"yeki"},{"h":"yeld","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"không đẻ, nân, xổi"},{"k":"m","t":"(nói về bò) không có sữa."}],"ipa":"jeld","k":"yeld"},{"h":"yelept","segs":[{"k":"m","t":"tt. (cổ, đùa) tên là; tên gọi là."}],"k":"yelept"},{"h":"yelk","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(hiếm) (như)"},{"k":"ex","t":"yolk","vi":"."}],"ipa":"jelk","k":"yelk"},{"h":"yell","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự kêu la, sự la hét"},{"k":"m","t":"tiếng la hét, tiếng thét lác"},{"k":"m","t":"(Mỹ) tiếng la hò động viên (trong những cuộc thi đấu thể thao...)"},{"k":"pos","t":"đại từ"},{"k":"m","t":"kêu la, la hét, thét lác"},{"k":"ex","t":"to yell with pain","vi":"kêu la vì đau đớn"},{"k":"ex","t":"to yell with laughter","vi":"cười rầm lên"},{"k":"ex","t":"to yell out abuses","vi":"chửi mắng om sòm."}],"ipa":"jel","k":"yell","q":{"vi":"hét to, la to (cổ vũ)","pos":"v"}},{"h":"yellow","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"có màu vàng"},{"k":"ex","t":"to grow (turn, get, become) yellow","vi":"vàng ra, hóa vàng"},{"k":"m","t":"úa vàng (lá)"},{"k":"m","t":"có da màu nâu sáng và nước da của vài dân tộc Ðông Á"},{"k":"m","t":"da vàng"},{"k":"m","t":"ghen ghét, ghen tị, đố kỵ, ngờ vực"},{"k":"ex","t":"to cast a yellow look at somebody","vi":"nhìn (ai) bằng con mắt ghen ghét"},{"k":"m","t":"như"},{"k":"ex","t":"yellow-bellied","vi":"(Mỹ) có tính chất giật gân (báo chí)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"màu vàng"},{"k":"ex","t":"several different yellows in the paintbox","vi":"có nhiều màu vàng khác nhau trong hộp thuốc vẽ"},{"k":"m","t":"chất, vật liệu hay lớp phủ màu vàng"},{"k":"m","t":"quần áo màu vàng"},{"k":"ex","t":"wearing yellow","vi":"mặc quần áo màu vàng"},{"k":"m","t":"(số nhiều) (y) bệnh vàng da"},{"k":"pos","t":"đại từ"},{"k":"m","t":"(làm cho cái gì) có màu vàng"},{"k":"m","t":"nhuộm vàng"},{"k":"ex","t":"yellowing autumn leaves","vi":"lá thu nhuốm vàng"},{"k":"ex","t":"the manuscript had yellowed/was yellowed with age","vi":"bản thảo đã ố vàng theo năm tháng."}],"ipa":"'jelou","k":"yellow","q":{"vi":"màu vàng","ipa":"'jeləʊ","pos":"adj"}},{"h":"yellow acrd","segs":[{"k":"m","t":"dt. thẻ vàng (trong bóng đá)."}],"k":"yellow acrd"},{"h":"yellow arsenic","segs":[{"k":"m","t":"thư hoàng, auripícmen."}],"k":"yellow arsenic"},{"h":"yellow back","segs":[{"k":"m","t":"dt 1. tiểu thuyết Pháp (đóng bìa vàng) 2. tiểu thuyêt tầm thường/rẻ tiền."}],"k":"yellow back"},{"h":"yellow bile","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"medicine history như choler (sense 2)"}],"k":"yellow bile"},{"h":"yellow birch","segs":[{"k":"m","t":"(số nhiều yellow birches hoặc yellow birch)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. yellow birch wood: a hard, light reddish-colored birch wood. Dùng để: building, furniture-making."},{"k":"m","t":"2. tree with yellowish bark: a birch that has yellowish peeling bark và yields yellow birch. Thường thấy ở: North America."},{"k":"m","t":"Tên Latinh: Betula alleghaniensis"}],"k":"yellow birch"},{"h":"yellow bone marrow","segs":[{"k":"m","t":"Tủy xương vàng."}],"k":"yellow bone marrow"},{"h":"yellow book","segs":[{"k":"m","t":"sách vàng."}],"k":"yellow book"},{"h":"yellow boy","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(lóng) đồng tiền vàng."}],"ipa":"'jelou'bɔi","k":"yellow boy"},{"h":"yellow brain fungus","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"fungi như jelly fungus"}],"k":"yellow brain fungus"},{"h":"yellow brass","segs":[{"k":"m","t":"đồng (thau) vàng."}],"k":"yellow brass"},{"h":"yellow burner","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đèn ngọn lửa vàng"}],"k":"yellow burner"},{"h":"yellow cable","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cáp vàng"}],"k":"yellow cable"},{"h":"yellow cake","segs":[{"k":"m","t":"bánh gatô trứng, bánh kéc trứng."}],"k":"yellow cake"},{"h":"yellow cake colloq","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hỗn hợp uranioxit thiêu kết"}],"k":"yellow cake colloq"},{"h":"yellow card","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(bóng đá) thẻ vàng."}],"ipa":"'jelou'ka:d","k":"yellow card"},{"h":"yellow copper","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đồng thau"},{"k":"m","t":"đồng vàng"}],"k":"yellow copper"},{"h":"yellow copper ore","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"quặng chì ôxit"}],"k":"yellow copper ore"},{"h":"yellow discolouration","segs":[{"k":"m","t":"sự đổi màu thành vàng."}],"k":"yellow discolouration"},{"h":"yellow dog","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(Mỹ) người đê tiện, người đáng khinh."}],"ipa":"'jelou'dɔg","k":"yellow dog"},{"h":"yellow earth","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đất lớt"},{"k":"m","t":"đất vàng"},{"k":"m","t":"hoàng thổ"}],"k":"yellow earth"},{"h":"yellow enzyme","segs":[{"k":"m","t":"enzim vàng."}],"k":"yellow enzyme"},{"h":"yellow fever","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(y) bệnh sốt vàng."}],"ipa":"'jelou'fi:və","k":"yellow fever"},{"h":"yellow fever virus","segs":[{"k":"m","t":"virút sốt vàng."}],"k":"yellow fever virus"},{"h":"yellow fiber","segs":[{"k":"m","t":"Sợi vàng."}],"k":"yellow fiber"},{"h":"yellow filter adjustment","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự điều chỉnh lọc màu vàng"},{"k":"m","t":"sự điều chỉnh màu lơ"}],"k":"yellow filter adjustment"},{"h":"yellow flag","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(hàng hải) cờ vàng, cờ kiểm dịch."}],"ipa":"'jelou'flæg","k":"yellow flag"},{"h":"yellow flame","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ngọn lửa màu vàng"}],"k":"yellow flame"},{"h":"yellow fog","segs":[{"k":"m","t":"màng mờ vàng."}],"k":"yellow fog"},{"h":"yellow goods","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"hàng vàng"}],"k":"yellow goods"},{"h":"yellow grease","segs":[{"k":"m","t":"mỡ vàng."}],"k":"yellow grease"},{"h":"yellow ground","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đất vàng"},{"k":"m","t":"hoang thổ"}],"k":"yellow ground"},{"h":"yellow heat","segs":[{"k":"m","t":"sự nung màu vàng; độ nung nóng màu vàng."}],"k":"yellow heat"},{"h":"yellow hepatization","segs":[{"k":"m","t":"Gan hóa vàng."}],"k":"yellow hepatization"},{"h":"yellow jack","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(lóng)"},{"k":"m","t":"(như)"},{"k":"ex","t":"yellow flag (như) yellow fever","vi":"."}],"ipa":"'jelou'dʒæk","k":"yellow jack"},{"h":"yellow jacket","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Hoàng bào, áo vàng của vua Trung Quốc."}],"ipa":"'jelou'dʒækit","k":"yellow jacket"},{"h":"yellow jasmine","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"trees như Carolina jasmine"}],"k":"yellow jasmine"},{"h":"yellow jersey","segs":[{"k":"m","t":"(số nhiều yellow jerseys)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"race leader's jersey: in the Tour de France, the jersey awarded to the cyclist with the fastest elapsed time at a completed stage of the race"}],"k":"yellow jersey"},{"h":"yellow jessamine","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Như Carolina jasmine"}],"k":"yellow jessamine"},{"h":"yellow journalism","segs":[{"k":"m","t":"sách báo tình cảm ba xu."}],"k":"yellow journalism"},{"h":"yellow lead","segs":[{"k":"m","t":"chì ôxít, bột chì vàng."}],"k":"yellow lead"},{"h":"yellow ligament","segs":[{"k":"m","t":"Day chằng vàng."}],"k":"yellow ligament"},{"h":"yellow line","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"vạch màu vàng chỉ giới hạn đỗ xe."}],"ipa":"'jeloulain","k":"yellow line"},{"h":"yellow litharge","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chì monoxit vàng"}],"k":"yellow litharge"},{"h":"yellow mackerel","segs":[{"k":"m","t":"cá sòng."}],"k":"yellow mackerel"},{"h":"yellow magazine","segs":[{"k":"m","t":"(số nhiều yellow magazines)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"Hong Kong pornographic magazine: a magazine containing explicit pornographic photographs (thông tục)"}],"k":"yellow magazine"},{"h":"yellow metal","segs":[{"k":"m","t":"đồng thau."}],"k":"yellow metal"},{"h":"yellow monkey","segs":[{"k":"m","t":"Khỉ vàng Macaca mulatto."}],"k":"yellow monkey"},{"h":"yellow ocher","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"artists' pigment: a yellow brown pigment containing iron. Dùng để: artists' colors."}],"k":"yellow ocher"},{"h":"yellow page","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"trang vàng"}],"k":"yellow page"},{"h":"yellow pages","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"danh bạ điện thoại giới thiệu các doanh nghiệp theo hoạt động của chúng, Những trang vàng."}],"ipa":"'jelou'peidʒz","k":"yellow pages"},{"h":"yellow pages (the.....)","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"những trang vàng trong niên giám điện thoại"}],"k":"yellow pages (the.....)"},{"h":"Yellow Pages (YP)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"các trang màu vàng"}],"k":"yellow pages (yp)"},{"h":"yellow paper","segs":[{"k":"m","t":"dt. trái ớt chín."}],"k":"yellow paper"},{"h":"yellow perch","segs":[{"k":"m","t":"(số nhiều yellow perch hoặc yellow perches)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"bony freshwater fish: a bony freshwater fish with a yellow body, greenish brown vertical bars và orange fins that is valued as a food và sport fish. Thường thấy ở: North America."},{"k":"m","t":"Tên Latinh: Perca flavescens"}],"k":"yellow perch"},{"h":"yellow peril","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"hiểm họa mà người phương Tây cho rằng sẽ bộc phát nếu họ bị người châu Á lấn lướt."}],"k":"yellow peril"},{"h":"yellow pine","segs":[{"k":"m","t":"(số nhiều yellow pines hoặc yellow pine)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. yellow pine wood: a strong yellowish pine wood"},{"k":"m","t":"2. N American pine: a North American pine that yields yellow pine, ví dụ: the longleaf pine, shortleaf pine, hoặc ponderosa pine"}],"k":"yellow pine"},{"h":"yellow poplar","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"1. trees như tulip tree"},{"k":"m","t":"2. industry như tulipwood"}],"k":"yellow poplar"},{"h":"yellow press","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"báo chuyên đăng tin giật gân."}],"ipa":"'jelou'pres","k":"yellow press"},{"h":"yellow rain","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"yellow precipitation: a fungal toxin that occurs as a form of precipitation in Southeast Asia."},{"k":"m","t":"It has been attributed by different sections of the scientific community to residue from chemical warfare hoặc to the excrement of wild honeybees."}],"k":"yellow rain"},{"h":"yellow rattle","segs":[{"k":"m","t":"(số nhiều yellow rattles)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"yellow-flowered plant with rattling seeds: a plant with yellow flowers whose seeds rattle in their pouches when they are shaken. Thường thấy ở: Europe, North America."},{"k":"m","t":"Tên Latinh: Rhinanthus minor"}],"k":"yellow rattle"},{"h":"Yellow River","segs":[{"k":"m","t":"See Huang He"}],"k":"yellow river"},{"h":"Yellow Sea","segs":[{"k":"m","t":"arm of the Pacific Ocean bordered on the west và north by China và on the east by the Korean Peninsula. It merges with the East China Sea to the south. Chinese name Huang Hai"}],"k":"yellow sea"},{"h":"yellow sheets","segs":[{"k":"m","t":"những trang vàng."}],"k":"yellow sheets"},{"h":"yellow shell","segs":[{"k":"m","t":"đạn cháy."}],"k":"yellow shell"},{"h":"yellow shortness","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tính giòn vàng"}],"k":"yellow shortness"},{"h":"yellow soda ammonia","segs":[{"k":"m","t":"xôđa vàng (có chứa sắt)."}],"k":"yellow soda ammonia"},{"h":"yellow softening","segs":[{"k":"m","t":"(chứng) nhuyễn vàng."}],"k":"yellow softening"},{"h":"yellow spinel","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"spinen vàng"}],"k":"yellow spinel"},{"h":"yellow spot","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(giải phẫu) điểm vàng."}],"ipa":"'jelou'spɔt","k":"yellow spot"},{"h":"yellow straw paper","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"giấy rơm"}],"k":"yellow straw paper"},{"h":"yellow straw pulp","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bột giấy rơm"}],"k":"yellow straw pulp"},{"h":"yellow streak","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự nhút nhát, sự nhát gan."}],"ipa":"'jelou'stri:k","k":"yellow streak"},{"h":"yellow tea","segs":[{"k":"m","t":"chè vàng."}],"k":"yellow tea"},{"h":"yellow tomato","segs":[{"k":"m","t":"cà chua vàng."}],"k":"yellow tomato"},{"h":"yellow union","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"công đoàn vàng"}],"k":"yellow union"},{"h":"yellow warbler","segs":[{"k":"m","t":"(số nhiều yellow warblers)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"common songbird: a common songbird of the warbler family that has bright yellow feathers with brown streaks along its sides. Thường thấy ở: North America."},{"k":"m","t":"Tên Latinh: Dendroica petechia"}],"k":"yellow warbler"},{"h":"yellow ware","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"đồ gốm."}],"ipa":"'jelouweə","k":"yellow ware"},{"h":"yellow wax","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sáp vàng"}],"k":"yellow wax"},{"h":"yellow wood","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(thực)"},{"k":"m","t":"cây hoàng đàn"},{"k":"m","t":"gỗ hoàng đàn."}],"ipa":"'jelou'wud","k":"yellow wood"},{"h":"yellow-bellied","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(lóng) nhút nhát"},{"k":"m","t":"nhát gan"},{"k":"ex","t":"I always suspected he was yellow-bellied","vi":"lúc nào tôi cũng nghi là nó nhát gan."}],"ipa":"'jelo belid","k":"yellow-bellied"},{"h":"yellow-bellied sapsucker","segs":[{"k":"m","t":"(số nhiều yellow-bellied sapsuckers)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"small N American woodpecker: a small woodpecker that feeds on sap và insects, the male of which has a yellowish belly và bright red crown và throat. Thường thấy ở: North America."},{"k":"m","t":"Tên Latinh: Sphyrapicus varius"}],"k":"yellow-bellied sapsucker"},{"h":"yellow-belly","segs":[{"k":"m","t":"dt. th.tục sự nhát gan."}],"k":"yellow-belly"},{"h":"yellow-bird","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(động) chim sẻ cánh vàng."}],"ipa":"'jelou'bə:d","k":"yellow-bird"},{"h":"yellow-breasted chat","segs":[{"k":"m","t":"(số nhiều yellow-breasted chats hoặc yellow-breasted chat)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"songbird with bright yellow breast: a songbird with a bright yellow breast và white marks over the eyes. Thường thấy ở: North America."},{"k":"m","t":"Tên Latinh: Icteria virens"}],"k":"yellow-breasted chat"},{"h":"yellow-dog contract","segs":[{"k":"m","t":"(số nhiều yellow-dog contracts)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"U.S. contract forbidding union membership: an illegal employment contract in which the employee agrees not to join a labor union"}],"k":"yellow-dog contract"},{"h":"yellow-dog fund","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(Mỹ), (lóng) quỹ đen, quỹ bí mật."}],"ipa":"'jeloudɔg'fʌnd","k":"yellow-dog fund"},{"h":"yellow-fin tuna","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"cá ngừ vây vàng"}],"k":"yellow-fin tuna"},{"h":"yellow-green alga","segs":[{"k":"m","t":"(số nhiều yellow-green algas)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"soil alga: an alga that lives in soil và other moist environments và contains brown và bright yellow pigments that mask the chlorophyll."},{"k":"m","t":"Division: Chrysophyta"}],"k":"yellow-green alga"},{"h":"yellow-hammer","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"chim cổ vàng."}],"ipa":"'jelou'hæmə","k":"yellow-hammer"},{"h":"yellow-livered","segs":[{"k":"m","t":"hèn nhát."}],"k":"yellow-livered"},{"h":"yellow-shafted flicker","segs":[{"k":"m","t":"(số nhiều yellow-shafted flickers)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"large woodpecker: a large woodpecker with streaks of yellow on the underside of its wings và tail và a red spot on its nape. Thường thấy ở: eastern North America."},{"k":"m","t":"Tên Latinh: Colaptes auratus"}],"k":"yellow-shafted flicker"},{"h":"yellow-throated warbler","segs":[{"k":"m","t":"(số nhiều yellow-throated warblers)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"U.S. songbird with yellow throat: a small songbird of the warbler family that has a bright yellow throat. Thường thấy ở: eastern United States."},{"k":"m","t":"Tên Latinh: Dendroica dominica"}],"k":"yellow-throated warbler"},{"h":"yellow-yite","segs":[{"k":"m","t":"(số nhiều yellow-yites hoặc yellow-yite)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"Scotland birds như yellowhammer"}],"k":"yellow-yite"},{"h":"yellowback","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"tiểu thuyết rẻ tiền"},{"k":"m","t":"tiểu thuyết bìa vàng (của Pháp)."}],"ipa":"'jeloubæk","k":"yellowback"},{"h":"yellowbelly","segs":[{"k":"m","t":"(số nhiều yellowbellys)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"coward: an offensive term that deliberately insults somebody's courage (informal insult)"}],"k":"yellowbelly"},{"h":"yellowbird","segs":[{"k":"ref","t":"như yellow-bird."}],"ipa":"ˈjeləʊbə:d","k":"yellowbird"},{"h":"yellowcake","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"oxide of uranium ore: the concentrated semirefined oxide of uranium ore"}],"k":"yellowcake"},{"h":"yellowdog fund","segs":[{"k":"ref","t":"như yellow-dog fund."}],"ipa":"ˈjeləʊdɔg'fʌnd","k":"yellowdog fund"},{"h":"yellowfin tuna","segs":[{"k":"m","t":"cá ngừ vây vàng."}],"k":"yellowfin tuna"},{"h":"yellowhammer","segs":[{"k":"m","t":"dt. chim cổ vàng."}],"k":"yellowhammer"},{"h":"yellowhead","segs":[{"k":"m","t":"(số nhiều yellowheads)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"small moth: a small moth with a yellowish head."},{"k":"m","t":"Tên Latinh: Acleris minuta"}],"k":"yellowhead"},{"h":"yellowing","segs":[{"k":"m","t":"sự nhuộm vàng; sự hóa vàng."}],"k":"yellowing"},{"h":"yellowing (of paint)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự hóa vàng (mặt sơn)"}],"k":"yellowing (of paint)"},{"h":"yellowish","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"yellowy","vi":"^tt. hơi vàng, vàng vàng."}],"ipa":"'jelouiʃ","k":"yellowish"},{"h":"Yellowknife","segs":[{"k":"m","t":"capital city of the Northwest Territories, Canada. It is situated on the northern shore of the Great Slave Lake."},{"k":"m","t":"Dân số khoảng: 16,541 (2001)"}],"k":"yellowknife"},{"h":"yellowlegs","segs":[{"k":"m","t":"(số nhiều yellowlegs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"large shorebird: a large shorebird of the sandpiper family with bright yellow legs, mottled brown feathers, và white underparts. Thường thấy ở: Americas."},{"k":"m","t":"Tên Latinh: Tringa melanoleuca, Tringa flavipes"}],"k":"yellowlegs"},{"h":"yellowly","segs":[{"k":"m","t":", adv."},{"k":"m","t":"With a yellow colour or light."}],"ipa":"'jɛləʊli","k":"yellowly"},{"h":"yellowness","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"màu vàng"},{"k":"m","t":"(y) nước da vàng."}],"ipa":"'jelounis","k":"yellowness"},{"h":"yellows","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"plant disease: a plant disease marked by a yellowing of foliage that may be caused by a mineral deficiency, virus, hoặc some other infectious agent (takes a singular verb)"}],"k":"yellows"},{"h":"Yellowstone","segs":[{"k":"m","t":"river in the western United States, rising in northwestern Wyoming, và flowing into the Missouri River in North Dakota."},{"k":"m","t":"Length: 1,110 km/692 mi"}],"k":"yellowstone"},{"h":"Yellowstone National Park","segs":[{"k":"m","t":"world's first national park, established in 1872 in parts of Wyoming, Montana, và Idaho. It is noted for its geysers, hot springs, và the Yellowstone Falls."},{"k":"m","t":"Diện tích: 8,983 sq km/3,468 sq mi"}],"k":"yellowstone national park"},{"h":"yellowtail","segs":[{"k":"m","t":"(số nhiều yellowtail hoặc yellowtails)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. ocean fish with yellowish tail: an ocean game fish with a yellowish tail. Thường thấy ở: coastal waters of California và Mexico."},{"k":"m","t":"Tên Latinh: Seriola lalandei"},{"k":"m","t":"2. Australian bait fish: a small greenish fish with silver underparts và a yellow tail và fins that is commonly used as bait. Thường thấy ở: southern Australian và New Zealand waters."},{"k":"m","t":"Tên Latinh: Trachurus novaezelandiae"}],"k":"yellowtail"},{"h":"yellowthroat","segs":[{"k":"m","t":"(số nhiều yellowthroats)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"small American warbler: a small songbird of the warbler family that nests in dense undergrowth và has a yellow breast và throat, a black mask, và a brownish back. Thường thấy ở: North America."},{"k":"m","t":"Tên Latinh: Geothlypis trichas"}],"k":"yellowthroat"},{"h":"yellowweed","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"plant with yellow flowers: a yellow-flowered plant, ví dụ: the ragwort hoặc the goldenrod"}],"k":"yellowweed"},{"h":"yellowwood","segs":[{"k":"m","t":"(số nhiều yellowwoods hoặc yellowwood)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. yellowish wood of N American tree: the yellowish wood of a leguminous North American tree. Dùng để: source of yellow dye."},{"k":"m","t":"2. yellowish wood of S African tree: the yellowish wood of a southern African coniferous tree"},{"k":"m","t":"3. N American tree: a leguminous tree that yields yellowwood. Thường thấy ở: southern United States."},{"k":"m","t":"Tên Latinh: Cladastris lutea"},{"k":"m","t":"4. S African tree: a coniferous tree that yields yellowwood. Thường thấy ở: southern Africa."},{"k":"m","t":"Tên Latinh: Podocarpus falcatus"}],"k":"yellowwood"},{"h":"yellowwort","segs":[{"k":"m","t":"(số nhiều yellowworts hoặc yellowwort)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"plant with yellow flowers: a perennial plant that has gray waxy foliage và is usually found on chalky turf. Flowers: yellow."},{"k":"m","t":"Tên Latinh: Blackstonia perfoliata"}],"k":"yellowwort"},{"h":"yellowy","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"yellowish như yellowish","vi":"."}],"ipa":"'jeloui","k":"yellowy"},{"h":"yelp","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"tiếng kêu ăng ẳng của chó"},{"k":"pos","t":"nội động từ"},{"k":"m","t":"kêu ăng ẳng."}],"ipa":"jelp","k":"yelp"},{"h":"yelper","segs":[{"k":"m","t":"1.1 A boaster. Obs."},{"k":"m","t":"2.2 An animal that yelps or gives a sharp shrill cry; also, a person who ‘yelps', etc."},{"k":"m","t":"a. A dog that yelps, a whelp. b. The avocet. local. c. A young partridge. d. A redshank. e. A ‘call' used by sportsmen to imitate the ‘yelp' of the wild turkey-hen. f. slang. A town-crier. g. slang. A wild beast."},{"k":"m","t":"3.3 Applied contemptuously to a speaker or writer, whose utterance is compared to a dog's yelp."},{"k":"m","t":"Else:"},{"k":"m","t":"A specific type of douchebag who is uniformly narcissistic with a clear sense of superiority over other individuals because they frequently post reviews on the website Yelp. Despite the fact that these people have no specific qualifications or credentials, they believe themselves of a higher authority on the level of the Cesars of Rome, able to determine the fate of a restaurant, coffee house, or bar in the same fashion as a defeated gladiators' fate was chosen in ancient Rome."},{"k":"m","t":"These individuals can be easily spotted out in public as overweight single females or homosexual males taking pictures of their food at restaurants with their cell phones as soon as it is served. They can also be spotted as they snap pictures of hotel lobbies and hallways. The only demographic who appreciates Yelpers are Japanese tourists, who are no longer the stereotype taking more senseless pictures of stupid shit than anyone else."},{"k":"m","t":"Yelpers are in general whiny, annoying, high-maintenance individuals who expect to have their asses kissed everywhere they go because of their Yelp status (Duke, Duchess, whatever the fuck)."},{"k":"m","t":"(Waiter, to his manager) See those frumpy, fat chicks over there at table 3? They are driving me crazy whining about shit and now they are taking pictures of their salads with their phones."},{"k":"m","t":"(Manager) Must be Yelpers. Give their fat asses free dessert, or they will give us bad reviews."},{"k":"m","t":"(Waiter) Fuck them."}],"ipa":"'jɛlpə(r)","k":"yelper"},{"h":"yelt","segs":[{"k":"m","t":"lợn sữa."}],"k":"yelt"},{"h":"Yemen","segs":[{"k":"m","t":"Một quốc gia nằm ở miền Nam bán đảo Arabia, phía Bắc giáp Ả Rập Saudi và Oman."},{"k":"m","t":"Ðịa hình: dưới Biển Ðỏ về phía Tây; mặt giáp biển là các dãy núi cao, nơi được trồng bông vải và cà phê. Dưới Biển Ðỏ về phía Ðông là dãy bờ biển khô cằn thuộc Vịnh Aden."},{"k":"m","t":"Kinh tế: Ở miền Bắc, ngành nông nghiệp (chủ yếu là chăn nuôi dê, cừu và trồng các loại cây như bông vải, cà phê và một số cây lương thực) vẫn là nguồn thu nhập chính mãi cho đến năm 1986 khi mà ngành công nghiệp sản xuất dầu mỏ phát triển. Tuy nhiên, việc khai thác dầu gặp trở ngại do có tranh chấp về biên giới với Ả Rập Saudi. Miền Nam trước đây là nền Cộng hòa với một Ðảng duy nhất; kinh tế là nền nông nghiệp tập trung, chủ yếu dựa vào nguồn viện trợ từ Xô Viết. Kinh tế Yemen phần lớn lệ thuộc vào số tài sản của dân hồi hương từ Ả Rập Xê Út khi chiến tranh vùng vịnh diễn ra vào năm 1991."},{"k":"m","t":"Lịch sử: năm 950-115 trước công nguyên, Yemen là một vùng đất thịnh vượng với cái tên Saba hay còn gọi là vương triều của nữ hoàng Sheba. Người La Mã gọi nơi đây là Arabia Felix (miền đất hứa Ả Rập). Ðến thế kỉ thứ 6 sau công nguyên, do hệ thống tưới tiêu đã xuống cấp nên vùng này không còn thịnh vượng như xưa. Một thế kỉ sau nơi đây rơi vào tay người Hồi giáo. Mặc dù vương quốc Anh thiết lập nên nền thuộc địa ở xứ sở Aden năm 1839 nhưng Saba lại chịu sự cai quản của người Thổ. Năm 1918, được sự hậu thuẫn của Anh; vua Imam Yahya tuyên bố nơi này là lãnh thổ của ông trong khi vẫn còn tranh chấp biên giới với Aden và Ả Rập Xê Út. Năm 1948, Yahia bị ám sát, con trai ông là Ahmad lên nắm quyền mãi cho đến năm 1962 thì mất. Tướng Abdullah al-Sallal tuyên bố thành lập nước Cộng hòa Ả Rập Yemen (ở miền Bắc Yemen), bên dưới giáp Ai Cập và Syria. Ả Rập Xê Út ủng hộ quyết định này vì sự trung thành của Abdullah đối với con trai Ahmad là Imam Muhammad al-Badr. Cuộc nội chiến ở miền Bắc Yemen diễn ra và kéo dài cho đến 1967 khi mà Sallal từ chức để thành lập một chính phủ ôn hòa hơn. Khi đế chế kết thúc năm 1967, người dân vùng Aden và các tiểu vương quốc Ả Rập láng giềng lập nên nước Cộng hòa nhân dân Yemen (ở miền Nam Yemen). Tháng 4 năm 1970, nội chiến ở miền Bắc tạm lắng thì đến 1979 một cuộc chiến khác kéo dài một tháng lại diễn ra giữa 2 miền Nam Bắc. Các buổi thương thảo nhằm thống nhất 2 miền được tiến hành, kết quả là một bản sơ thảo hiến pháp chung được đưa ra vào tháng 12-1989. Một nhà nước thống nhất được thành lập tháng 5-1990, tập trung chính trị ở vùng Sana'a và thương mại ở Aden. Hội đồng nhà nước được lập ra với 5 thành viên, đứng đầu là đương kim tổng thống Ali Abdullah Saleh. Yemen gia nhập Liên hiệp quốc và là thành viên của Hội đồng Bảo An. Việc nước này lên tiếng phản đối sự can thiệp của Mỹ trong khu vực đã góp phần đưa đến chiến tranh giữa các nước vùng vịnh; nhưng quyết định này được đa số đồng tình. Thế nhưng, Yemen phải gánh chịu sự trả đũa về kinh tế của các nước vùng vịnh, Châu Âu và Mỹ. Ả Rập Xê Út trục xuất 800.000 dân Yemen nhập cư và hỗ trợ đáng kể mặt tài chính cho các phe chống đối chính phủ (được sự hậu thuẫn của cánh bảo thủ) người Hồi giáo ở Yemen. Căng thẳng chính trị xảy ra, tập trung vào việc phân chia nguồn lợi dầu hỏa. Sự việc lên đến đỉnh điểm khi các lãnh đạo người Yemen tuyên bố ly khai, điều này đã dẫn đến một cuộc nội chiến kéo dài 3 tháng vào năm 1994. Khi quân miền Bắc chiếm được Aden thì chiến tranh kết thúc. Hòa bình được thiết lập, hiến pháp được sửa đổi và chủ tịch Hội đồng nhà nước được thay thế bởi tổng thống sắp nhậm chức."},{"k":"m","t":"Thủ đô: Sana'a (chính trị); Aden (kinh tế)."},{"k":"m","t":"Diện tích: 472.099 km2"},{"k":"m","t":"Dân số: 16,600 triệu (1996)."},{"k":"m","t":"Tiền tệ: Riyal (1 riyal = 100 fils)."},{"k":"m","t":"Tôn giáo: Dòng Sunni (53%); dòng Shi'ite (47%)."},{"k":"m","t":"Sắc tộc: Ả Rập (97%); Ấn Ðộ và Pakistan (1,5%); Somali (1,5%)."},{"k":"m","t":"Ngôn ngữ: Nhiều (chính thức là tiếng Ả Rập)."},{"k":"m","t":"Gia nhập: Liên hiệp quốc, Liên đoàn Ả Rập."}],"k":"yemen"},{"h":"yen","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"đồng yên (tiền Nhật Bản)"},{"k":"m","t":"(Mỹ), (lóng) sự thèm muốn, sự thèm thuồng"},{"k":"pos","t":"nội động từ"},{"k":"m","t":"(Mỹ), (lóng) thèm, thèm thuồng"},{"k":"ex","t":"at any time, they yen for heroin","vi":"lúc nào chúng cũng thèm ma túy."}],"ipa":"jen","k":"yen","q":{"vi":"đồng Yên (tiền Nhật)","ipa":"jen","rs":"den"}},{"h":"yen base investment","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"đầu tư tính bằng Yên Nhật"}],"k":"yen base investment"},{"h":"yen bond","segs":[{"k":"m","t":"trái phiếu yên."}],"k":"yen bond"},{"h":"Yen mark","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ký hiệu Yên"}],"k":"yen mark"},{"h":"yen sign","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"dấu sổ sau"}],"k":"yen sign"},{"h":"yen's-plummet","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"sự sụt giá của đồng Yên Nhật"}],"k":"yen's-plummet"},{"h":"yen-denominated","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"được tính bằng đồng Yên"}],"k":"yen-denominated"},{"h":"yen-shee","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(từ Mỹ) (lóng) thuốc phiện, hêrôin."}],"ipa":"'jenʃi:","k":"yen-shee"},{"h":"Yenisey","segs":[{"k":"m","t":"river in central Siberian Russia. It is formed in the Sayan Mountains in southern Siberia by the union of the Greater Yenisey và the Little Yenisey, và flows northward into the Kara Sea."},{"k":"m","t":"Length: 4,090 km/2,540 mi"}],"k":"yenisey"},{"h":"yenta","segs":[{"k":"m","t":"(số nhiều yentas) hoặc yente (số nhiều yentes)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"busybody: somebody, often a woman, known as a meddler hoặc a gossip (lóng) (sometimes offensive)"}],"k":"yenta"},{"h":"yentnite","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"yenit"}],"k":"yentnite"},{"h":"yeo.","segs":[{"k":"m","t":"Viết tắt của navy yeoman"}],"k":"yeo."},{"h":"Yeoman","segs":[{"k":"m","t":"Người sở hữu một vùng đất tự do và hàng năm chi trả khoảng 40 silling cho các bồi thẩm đoàn, các cuộc thi kỵ sĩ ở miền trung du nước Anh và để thực hiện những nghĩa vụ khác. Vào thế kỉ 13-14, Yeomen được xem là \"tá điền đặc mệnh toàn quyền\". Nhưng đến 1400, khi nhiều tá điền trở nên giàu có hơn thì họ đều mang danh như thế; dù rằng các tá điền này có sở hữu những vùng đất tự do hay không (có thể kể ra như Franklins, dòng họ nông dân). Ðến thế kỉ 15, một số nông dân trước kia làm cho Yeoman đã gia nhập vào hàng ngũ tiểu tư sản cho dù họ là những người làm thuê hay là tá điền."}],"k":"yeoman"},{"h":"yeoman of signals","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"người đánh tín hiệu (hải quân)"},{"k":"m","t":"nhân viên báo hiệu"}],"k":"yeoman of signals"},{"h":"yeoman service","segs":[{"k":"m","t":"việc cứu trợ cấp thời, việc ích thiện."}],"k":"yeoman service"},{"h":"Yeoman Warder","segs":[{"k":"m","t":"dt. người canh gác tháp Luân Ðôn."}],"k":"yeoman warder"},{"h":"yeomanly","segs":[{"k":"m","t":"Tính từ"},{"k":"m","t":"1. relating to yeoman: relating to hoặc characteristic of a yeoman hoặc yeomen"},{"k":"m","t":"2. staunch and dependable: dependable, loyal, và brave (archaic hoặc literary)"},{"k":"m","t":"adverb"},{"k":"m","t":"bravely: in a brave và loyal way"}],"k":"yeomanly"},{"h":"yeomanry","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"tầng lớp tiểu điền chủ"},{"k":"m","t":"(quân) quân kỵ binh nghĩa dũng."}],"ipa":"'joumənri","k":"yeomanry"},{"h":"yeomenry","segs":[{"k":"m","t":"dt. (snh.-ies) 1. tầng lớp tiểu chủ. 2. sử quân kỵ binh nghĩa dũng."}],"k":"yeomenry"},{"h":"Yeovil","segs":[{"k":"m","t":"town in Somerset, southwestern England."},{"k":"m","t":"Dân số khoảng: 35,000 (thống kê năm 1993)"}],"k":"yeovil"},{"h":"yep","segs":[{"k":"m","t":"pht. &^dt. (yap) (Mỹ) th.tục = YES."}],"k":"yep"},{"h":"YER","segs":[{"k":"m","t":"Viết tắt của banking yearly effective rate"}],"k":"yer"},{"h":"yerba","segs":[{"k":"m","t":"(số nhiều yerbas) hoặc yerba maté (số nhiều yerba matés)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"beverages trees như maté (sense 1) (sense 2)"}],"k":"yerba"},{"h":"Yerevan","segs":[{"k":"m","t":"capital và largest city of Armenia, on the Hrazdan River, in the west of the country."},{"k":"m","t":"Dân số khoảng: 1,250,000 (thống kê năm 2000)"}],"k":"yerevan"},{"h":"Yerkish","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"chimp language: an artificial language of visual symbols created for experimental communication between chimpanzees và humans"},{"k":"m","t":"-Yerkish (tính từ)"}],"k":"yerkish"},{"h":"yersinia","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"disease-causing bacterium: a Gram-negative bacterium that may cause disease in humans và animals."},{"k":"m","t":"One of these bacteria is a cause of gastric infections, while another causes bubonic plague."},{"k":"m","t":"Genus: Yersinia"}],"k":"yersinia"},{"h":"yersiniosis","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"intestinal disease: a condition, mainly found in children và young adults, caused by a bacterium và characterized by intestinal pain và symptoms that resemble appendicitis"}],"k":"yersiniosis"},{"h":"yes","segs":[{"k":"pos","t":"thán từ"},{"k":"m","t":"vâng, phải, dạ, được, ừ, có, có chứ"},{"k":"ex","t":"to say yes or no","vi":"nói có hoặc không"},{"k":"m","t":"nói được hay không"},{"k":"ex","t":"You didn't see him? - yes, I did","vi":"anh không thấy nó à?-có chứ"},{"k":"pos","t":"danh từ"},{"k":"m","t":"snh."},{"k":"ex","t":"yeses","vi":"tiếng vâng dạ, tiếng ừ phải"},{"k":"m","t":"phiếu đồng ý"},{"k":"m","t":"phiếu thuận."}],"ipa":"jes","k":"yes","q":{"vi":"vâng, phải, được, dạ, ừ, có","ipa":"jes","rs":"dét s"}},{"h":"yes again","segs":[{"k":"m","t":"một lần nữa (nhấn mạnh)."}],"k":"yes again"},{"h":"yes-man","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"thtục. người cái gì cũng ừ, người ba phải."}],"ipa":"'jesmæn","k":"yes-man"},{"h":"Yes/No","segs":[{"k":"m","t":"(Y/N) có / không."}],"k":"yes/no"},{"h":"yes/no question","segs":[{"k":"m","t":"(số nhiều yes/no questions)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"question type: a question that can be answered with \"yes\" hoặc \"no\" và that in English begins with an actual hoặc implied verb"}],"k":"yes/no question"},{"h":"yeses","segs":[{"k":"ref","t":"yes"}],"redirect":"yes","k":"yeses"},{"h":"yeshiva","segs":[{"k":"m","t":"(số nhiều yeshivas hoặc yeshivot hoặc yeshivoth) hoặc yeshivah (số nhiều yeshivahs hoặc yeshivot hoặc yeshivoth)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. orthodox Jewish seminary: a seminary for orthodox Jewish, usually unmarried, men where they study the primary source of Jewish law, the Talmud"},{"k":"m","t":"2. school for Jewish students: a secondary school for Jewish students with a curriculum including religious và cultural, as well as academic, studies"}],"k":"yeshiva"},{"h":"yesman","segs":[{"k":"ref","t":"như yes-man."}],"ipa":"ˈjesmæn","k":"yesman"},{"h":"yessir","segs":[{"k":"m","t":"interjection"},{"k":"m","t":"used to express agreement: used, often ironically hoặc humorously, to express submissive assent hoặc obedience (thông tục)"}],"k":"yessir"},{"h":"yester-","segs":[{"k":"m","t":"prefix"},{"k":"m","t":"used to refer to a time in the past denoted by the suffix"},{"k":"m","t":"yestermorning"}],"k":"yester-"},{"h":"yester-eve","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"yester-even, yester-evening","vi":"phó từ & danh từ"},{"k":"m","t":"(thơ) chiều qua, tối hôm qua."}],"ipa":"'jestər'i:v","k":"yester-eve"},{"h":"yester-even","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"yester-eve, yester-evening như yester-eve","vi":"."}],"ipa":"'jestə'i:vən","k":"yester-even"},{"h":"yester-evening","segs":[{"k":"m","t":"phó từ & danh từ"},{"k":"m","t":"(thơ) (như)"},{"k":"ex","t":"yester-eve","vi":"."}],"ipa":"'jestə'i:vniŋ","k":"yester-evening"},{"h":"yester-year","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"quá khứ gần đây"},{"k":"ex","t":"recalling holidays of yester-year","vi":"gợi nhớ lại kỳ nghỉ gần đây."}],"ipa":"'jestə'jiə:","k":"yester-year"},{"h":"yesterday","segs":[{"k":"m","t":"phó từ & danh từ"},{"k":"m","t":"hôm qua"},{"k":"ex","t":"yesterday morning","vi":"sáng hôm qua"},{"k":"ex","t":"the day before yesterday","vi":"hôm kia"},{"k":"ex","t":"yesterday week","vi":"tám hôm trước."}],"ipa":"'jestədi","k":"yesterday","q":{"vi":"hôm qua","ipa":"'jestədei","rs":"jét s thờ đì"}},{"h":"yesterdayness","segs":[{"k":"m","t":"(n)"},{"k":"m","t":"(Tham khảo)"},{"k":"ex","t":"yesterday","vi":"."}],"k":"yesterdayness"},{"h":"yestereve","segs":[{"k":"ref","t":"như yester-eve."}],"ipa":"ˈjestər'i:v","k":"yestereve"},{"h":"yestereven","segs":[{"k":"ref","t":"như yester-even."}],"ipa":"ˈjestər'i:vn","k":"yestereven"},{"h":"yesterevening","segs":[{"k":"ref","t":"như yester-evening."}],"ipa":"ˈjestə'i:vniŋ","k":"yesterevening"},{"h":"yestermorning","segs":[{"k":"m","t":"(archaic hoặc literary)"},{"k":"m","t":"adverb"},{"k":"m","t":"during yesterday morning: yesterday in the morning"},{"k":"pos","t":"danh từ"},{"k":"m","t":"yesterday's morning: the morning of yesterday"}],"k":"yestermorning"},{"h":"yesternight","segs":[{"k":"m","t":"phó từ & danh từ"},{"k":"m","t":"(thơ) tối hôm trước, tối qua."}],"ipa":"'jestə'nait","k":"yesternight"},{"h":"yesteryear","segs":[{"k":"ref","t":"như yester-year."}],"ipa":"ˈjestə'jə:","k":"yesteryear"},{"h":"yestreen","segs":[{"k":"m","t":"phó từ & danh từ"},{"k":"m","t":"(thơ) (như)"},{"k":"ex","t":"yester-eve","vi":"."}],"ipa":"jes'tri:n","k":"yestreen"},{"h":"yet","segs":[{"k":"pos","t":"phó từ"},{"k":"m","t":"vào lúc này hay lúc ấy"},{"k":"m","t":"cho đến bây giờ/lúc đó"},{"k":"m","t":"còn"},{"k":"m","t":"chưa"},{"k":"ex","t":"I haven't received a letter from him yet; I didn't receive a letter from him yet","vi":"tôi chưa nhận được lá thư nào của anh ta"},{"k":"ex","t":"Are you ready? - No, not yet","vi":"anh sẵn sàng chưa-Chưa"},{"k":"ex","t":"she was not yet sure if she could trust him","vi":"cô ta vẫn chưa chắc là có nên tin hắn không"},{"k":"ex","t":"I doubt if he has read it yet","vi":"tôi không biết anh ta đọc cái đó chưa"},{"k":"m","t":"còn"},{"k":"m","t":"hãy còn"},{"k":"ex","t":"we may win yet","vi":"chúng ta còn có thể thắng"},{"k":"ex","t":"she may surprise us all yet","vi":"cô ta còn có thể làm tất cả chúng ta ngạc nhiên"},{"k":"ex","t":"we can yet reach our destination","vi":"chúng ta còn có thể đi tới đích"},{"k":"ex","t":"we have ten minutes yet","vi":"chúng ta còn mười phút nữa"},{"k":"ex","t":"I remember him yet","vi":"tôi còn nhớ anh ta"},{"k":"ex","t":"while he was yet asleep","vi":"trong khi anh ta còn đang ngủ"},{"k":"ex","t":"there is much yet to do","vi":"hãy còn nhiều việc phải làm lắm"},{"k":"ex","t":"you must work yet harder","vi":"anh còn phải làm việc tích cực hơn nữa"},{"k":"ex","t":"I have a yet more important thing to say","vi":"tôi còn có một điều quan trọng hơn nữa để nói"},{"k":"m","t":"bây giờ, lúc này"},{"k":"ex","t":"can't you tell me yet?","vi":"bây giờ anh có thể nói với tôi được chưa?"},{"k":"ex","t":"we needn't do it just yet","vi":"chúng ta chẳng cần làm điều đó lúc này"},{"k":"ex","t":"don't go yet","vi":"đừng đi vội"},{"k":"ex","t":"you don't need to start yet","vi":"anh chưa cần phải bắt đầu vội"},{"k":"m","t":"(dùng sau cấp so sánh cao nhất) cho đến nay"},{"k":"ex","t":"the most comprehensive study yet of his poetry","vi":"công trình nghiên cứu toàn diện nhất về thơ của ông ấy cho đến nay"},{"k":"ex","t":"the highest building yet constructed","vi":"tòa nhà cao nhất được xây cất từ xưa đến giờ"},{"k":"ex","t":"her best novel yet","vi":"cuốn truyện hay nhất của chị ấy từ trước đến nay"},{"k":"m","t":"(đứng trước các từ ở cấp so sánh) lại còn"},{"k":"m","t":"ngay cả"},{"k":"ex","t":"yet one more example of criminal negligence","vi":"lại thêm một ví dụ nữa về sự cẩu thả chết người"},{"k":"ex","t":"yet another victim of government policy on national health funding","vi":"lại thêm một nạn nhân của chính sách chính phủ về quỹ y tế quốc gia"},{"k":"ex","t":"a recent and yet more improbable theory","vi":"một học thuyết mới nhưng lại còn bấp bênh hơn"},{"k":"ex","t":"advancing yet further","vi":"còn tiến xa hơn nữa"},{"k":"ex","t":"as yet","vi":"cho đến nay, cho đến bây giờ"},{"k":"ex","t":"an as yet unpublished document","vi":"một tài liệu cho đến nay chưa được công bố"},{"k":"ex","t":"yet again","vi":"một lần nữa"},{"k":"ex","t":"yet again we can see the results of hasty decision-making","vi":"một lần nữa chúng ta có thể thấy kết quả của việc ra quyết định vội vàng"},{"k":"pos","t":"liên từ"},{"k":"m","t":"song, vậy mà, tuy nhiên"},{"k":"ex","t":"slow yet thorough","vi":"chậm mà chắc"},{"k":"ex","t":"he worked hard, yet he failed","vi":"hắn ta làm việc tích cực, ấy thế mà lại trượt"},{"k":"ex","t":"it is strange, yet true","vi":"thật là kỳ lạ, nhưng mà đúng sự thực."}],"ipa":"jet","k":"yet","q":{"vi":"chưa, lúc này, tuy thế, nhưng, dù sao, vả lại","ipa":"jet","rs":"dét t"}},{"h":"yeti","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"người tuyết ở Himalaya (cũng gọi là"},{"k":"ex","t":"Abominable Snowman","vi":")."}],"ipa":"'jeti","k":"yeti"},{"h":"yettie","segs":[{"k":"m","t":"(số nhiều yetties)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"young Internet entrepreneur: a young, technologically knowledgeable entrepreneur who is involved in e-commerce và who typically buys và sells technology stock (lóng)"}],"k":"yettie"},{"h":"yew","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(thực) cây thủy tùng ((cũng)"},{"k":"ex","t":"yew-tree","vi":") gỗ thủy tùng."}],"ipa":"ju:","k":"yew"},{"h":"Yew Sunday","segs":[{"k":"m","t":"Lễ Lá (xưa)."}],"k":"yew sunday"},{"h":"yew-tree","segs":[{"k":"pos","t":"danh từ"},{"k":"ref","t":"như yew."}],"ipa":"ju:tri:","k":"yew-tree"},{"h":"Yezidi","segs":[{"k":"m","t":"(số nhiều Yezidis)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"member of Kurdish religious group: a member of a Kurdish religious group founded by an Muslim mystic in the 12th century but incorporating Iranian myth và tradition."},{"k":"m","t":"The group has been declared as heretical by orthodox Muslims và has been the object of intense persecution."},{"k":"m","t":"-Yezidism (danh từ)"}],"k":"yezidi"}]
+[
+  {
+    "h": "ye",
+    "segs": [
+      {"k": "m", "t": "đại từ"},
+      {"k": "m", "t": "(cổ) (như)"},
+      {"k": "ex", "t": "you", "vi": "mạo từ"},
+      {"k": "m", "t": "(cổ) (như)"},
+      {"k": "ex", "t": "the", "vi": "(trước một nguyên âm)."}
+    ],
+    "ipa": "ji:",
+    "k": "ye"
+  },
+  {"h": "ye gods", "segs": [{"k": "m", "t": "ối trời! trời ơi là trời!"}], "k": "ye gods"},
+  {
+    "h": "yea",
+    "segs": [
+      {"k": "m", "t": "phó từ & danh từ"},
+      {"k": "m", "t": "(cổ) (như)"},
+      {"k": "m", "t": "yes"},
+      {"k": "ex", "t": "to answer someone yea", "vi": "trả lời ai rằng được."}
+    ],
+    "ipa": "jei",
+    "k": "yea"
+  },
+  {
+    "h": "yea-sayer",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yea-sayers)"},
+      {"k": "m", "t": "nounU.S."},
+      {"k": "m", "t": "1. somebody optimistic: somebody who is always confident và optimistic"},
+      {
+        "k": "m",
+        "t": "2. somebody agreeing submissively: somebody who always agrees submissively with a superior"
+      }
+    ],
+    "k": "yea-sayer"
+  },
+  {
+    "h": "yeah",
+    "segs": [
+      {"k": "pos", "t": "phó từ"},
+      {"k": "m", "t": "(cách phát âm không trịnh trọng của"},
+      {"k": "ex", "t": "Yes", "vi": ") vâng"},
+      {"k": "m", "t": "được"},
+      {"k": "m", "t": "ừ"},
+      {"k": "m", "t": "có"},
+      {"k": "ex", "t": "oh yeah", "vi": "(dùng để tỏ ra mình không tin điều nghe nói) thế à"},
+      {
+        "k": "ex",
+        "t": "I'm going to meet the Prime Minister - Oh yeah? Very likely!",
+        "vi": "Tôi sẽ đi gặp Thủ tướng-Thế à? Rất có thể!"
+      }
+    ],
+    "ipa": "jeə",
+    "k": "yeah"
+  },
+  {
+    "h": "yean",
+    "segs": [{"k": "pos", "t": "đại từ"}, {"k": "m", "t": "đẻ (cừu, dê)."}],
+    "ipa": "ji:n",
+    "k": "yean"
+  },
+  {
+    "h": "yeanling",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "cừu con"}, {"k": "m", "t": "dê con."}],
+    "ipa": "'ji:nliŋ",
+    "k": "yeanling"
+  },
+  {
+    "h": "year",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "thời gian trái đất dùng để quay một vòng quanh mặt trời, khoảng 365 ngày"},
+      {"k": "m", "t": "năm"},
+      {"k": "m", "t": "(cũng)"},
+      {
+        "k": "ex",
+        "t": "calendar year",
+        "vi": "khoảng thời gian từ 1 tháng giêng đến 31 tháng mười hai, tức là 365 ngày (hay 366 trong năm nhuận) chia ra 12 tháng"
+      },
+      {"k": "m", "t": "năm"},
+      {"k": "m", "t": "năm lịch"},
+      {"k": "ex", "t": "in the year", "vi": "1945"},
+      {"k": "m", "t": "trong năm 1945"},
+      {"k": "ex", "t": "this year", "vi": "năm nay"},
+      {"k": "ex", "t": "the year after next", "vi": "sang năm nữa"},
+      {
+        "k": "ex",
+        "t": "a good year for cheap vegetables",
+        "vi": "một năm rau rẻ mạt (rau được mùa nên giá rất hạ)"
+      },
+      {"k": "ex", "t": "the academic year", "vi": "năm học"},
+      {"k": "ex", "t": "the financial/fiscal/tax year", "vi": "năm tài chính/tiền tệ/thuế"},
+      {"k": "ex", "t": "first-year students", "vi": "các sinh viên năm thứ nhất"},
+      {"k": "ex", "t": "solar year", "vi": "năm dương lịch"},
+      {"k": "ex", "t": "lunar year", "vi": "năm âm lịch"},
+      {"k": "m", "t": "một thời kỳ 365 ngày liên tục"},
+      {
+        "k": "ex",
+        "t": "it's just a year (today) since I arrived here",
+        "vi": "(đến hôm nay) đã đúng một năm từ khi tôi đến đây"
+      },
+      {"k": "ex", "t": "I arrived a year ago (today", "vi": ") ngày này năm ngoái tôi đã đến đây"},
+      {
+        "k": "ex",
+        "t": "she's worked there for ten years",
+        "vi": "chị ấy làm việc ở đó đã được mười năm"
+      },
+      {
+        "k": "ex",
+        "t": "in a year's time they're getting married",
+        "vi": "họ lấy nhau trong khoảng thời gian một năm"
+      },
+      {"k": "ex", "t": "a five-year forecast", "vi": "sự dự báo cho năm năm"},
+      {"k": "ex", "t": "in the year one", "vi": "vào năm đầu công lịch"},
+      {"k": "m", "t": "(nghĩa bóng) ngày xửa ngày xưa"},
+      {"k": "m", "t": "(số nhiều) tuổi"},
+      {"k": "ex", "t": "twenty years old/of age", "vi": "hai mươi tuổi"},
+      {"k": "ex", "t": "a seventy-year-old man", "vi": "một cụ già 70 tuổi"},
+      {
+        "k": "ex",
+        "t": "she looks young for her years/for a woman of her years",
+        "vi": "bà ấy trông còn trẻ so với tuổi/so với phụ nữ cùng tuổi"
+      },
+      {"k": "ex", "t": "he died in his sixtieth year", "vi": "ông ấy từ trần vào tuổi sáu mươi"},
+      {"k": "ex", "t": "the weight of years", "vi": "ảnh hưởng của tuổi tác, tuổi già sức yếu"},
+      {"k": "ex", "t": "well on in years", "vi": "đứng tuổi"},
+      {"k": "ex", "t": "advanced in years", "vi": "già, có tuổi"},
+      {"k": "ex", "t": "to die full of years", "vi": "chết già"},
+      {"k": "ex", "t": "old beyond one's years", "vi": "già trước tuổi"},
+      {"k": "ex", "t": "to put years on somebody", "vi": "làm cho ai già đi"},
+      {"k": "ex", "t": "to take years off somebody", "vi": "làm cho ai trẻ ra"},
+      {"k": "m", "t": "(số nhiều)"},
+      {"k": "pos", "t": "thành ngữ"},
+      {"k": "m", "t": "một thời gian dài"},
+      {"k": "m", "t": "lâu rồi"},
+      {"k": "m", "t": "nhiều năm"},
+      {
+        "k": "ex",
+        "t": "I've worked for this firm for years (and years",
+        "vi": ") tôi làm việc cho công ty này nhiều năm rồi"
+      },
+      {
+        "k": "ex",
+        "t": "it's years since we last met",
+        "vi": "đã lâu rồi kể từ ngày chúng ta gặp nhau lần cuối"
+      },
+      {"k": "ex", "t": "it heaps years on me", "vi": "cái đó làm cho tôi chán lắm"},
+      {"k": "m", "t": "cái đó làm phiền tôi"},
+      {"k": "ex", "t": "age/years of discretion", "vi": "tuổi khôn lớn, tuổi trưởng thành"},
+      {"k": "ex", "t": "all (the) year round", "vi": "quanh năm suốt tháng"},
+      {
+        "k": "ex",
+        "t": "he swims in the sea all year round",
+        "vi": "anh ấy tắm biển quanh năm suốt tháng"
+      },
+      {"k": "ex", "t": "donkey's years", "vi": "một thời gian rất dài"},
+      {"k": "ex", "t": "man/woman/car ... of the year", "vi": "người hoặc vật nổi bật trong năm"},
+      {"k": "ex", "t": "TV personality of the year", "vi": "nhân vật truyền hình nổi bật trong năm"},
+      {"k": "ex", "t": "not/never in a hundred years", "vi": "dứt khoát không bao giờ"},
+      {
+        "k": "ex",
+        "t": "to ring out the old year and ring in the new",
+        "vi": "thông báo năm cũ kết thúc và chào mừng năm mới"
+      },
+      {"k": "ex", "t": "the year dot", "vi": "cách đây rất lâu"},
+      {
+        "k": "ex",
+        "t": "I've been going there every summer since the year dot",
+        "vi": "cách đây rất lâu, tôi thường đến đó mỗi mùa hè"
+      },
+      {"k": "ex", "t": "the turn of the year/century xem turn", "vi": "."}
+    ],
+    "ipa": "jiə:",
+    "k": "year",
+    "q": {"vi": "năm", "ipa": "jiə", "pos": "n"}
+  },
+  {
+    "h": "year 2000 problem",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự cố năm 2000"}],
+    "k": "year 2000 problem"
+  },
+  {
+    "h": "year after year",
+    "segs": [
+      {"k": "pos", "t": "thngu"},
+      {"k": "m", "t": "year"},
+      {"k": "ex", "t": "year after year", "vi": "liên tục nhiều năm"},
+      {"k": "m", "t": "nhiều năm ròng"},
+      {"k": "m", "t": "hết năm này sang năm khác"},
+      {
+        "k": "ex",
+        "t": "she sent money year after year to help the poor",
+        "vi": "nhiều năm ròng chị ấy gửi tiền giúp đỡ người nghèo."
+      }
+    ],
+    "k": "year after year"
+  },
+  {
+    "h": "Year Books",
+    "segs": [
+      {
+        "k": "m",
+        "t": "niên giám tư pháp (sưu tập các phán quyết của tòa án Anh từ thời vua Eduard I đến thời vua Henry VIII)."
+      }
+    ],
+    "k": "year books"
+  },
+  {
+    "h": "year by year",
+    "segs": [
+      {"k": "pos", "t": "thngu"},
+      {"k": "m", "t": "year"},
+      {"k": "ex", "t": "year by year", "vi": "tăng dần hàng năm"},
+      {"k": "m", "t": "theo năm tháng"},
+      {
+        "k": "ex",
+        "t": "year by year their affection for each other grew stronger",
+        "vi": "tình yêu thương của họ đối với nhau nồng thắm dần theo năm tháng."
+      }
+    ],
+    "k": "year by year"
+  },
+  {
+    "h": "year of account",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "năm kết toán"}],
+    "k": "year of account"
+  },
+  {
+    "h": "year of assessment",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "năm đánh thuế"}],
+    "k": "year of assessment"
+  },
+  {
+    "h": "year of concrete",
+    "segs": [{"k": "m", "t": "sản lượng bêtông (sau khi ngót)."}],
+    "k": "year of concrete"
+  },
+  {
+    "h": "year of grace",
+    "segs": [
+      {"k": "m", "t": "hoặc year of our Lord (số nhiều years of our Lord)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "year of Christian era: a year of the Christian era"}
+    ],
+    "k": "year of grace"
+  },
+  {
+    "h": "year of metal",
+    "segs": [{"k": "m", "t": "sự chảy dẻo của kim loại."}],
+    "k": "year of metal"
+  },
+  {"h": "year of mortar", "segs": [{"k": "m", "t": "sự biến hình của vữa."}], "k": "year of mortar"},
+  {
+    "h": "year of recording",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "năm ghi"}],
+    "k": "year of recording"
+  },
+  {"h": "year of support", "segs": [{"k": "m", "t": "sự lún gối."}], "k": "year of support"},
+  {"h": "year of water", "segs": [{"k": "m", "t": "lượng nước ra."}], "k": "year of water"},
+  {
+    "h": "year of well",
+    "segs": [{"k": "m", "t": "lưu lượng hút nước của giếng."}],
+    "k": "year of well"
+  },
+  {
+    "h": "year out",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "U.K. education như gap year"}],
+    "k": "year out"
+  },
+  {
+    "h": "year report register",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "bảng kê báo cáo hàng năm"}],
+    "k": "year report register"
+  },
+  {
+    "h": "year ring",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "vòng năm (gỗ)"}],
+    "k": "year ring"
+  },
+  {"h": "year round", "segs": [{"k": "m", "t": "suốt cả năm, năm tròn."}], "k": "year round"},
+  {
+    "h": "year round fishery",
+    "segs": [{"k": "m", "t": "nghề cá quanh năm."}],
+    "k": "year round fishery"
+  },
+  {
+    "h": "year round irrigation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tưới quanh năm"}],
+    "k": "year round irrigation"
+  },
+  {
+    "h": "year to date",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "cộng tới ngày này"}],
+    "k": "year to date"
+  },
+  {
+    "h": "year under review",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "năm báo cáo"}],
+    "k": "year under review"
+  },
+  {"h": "Year's mind", "segs": [{"k": "m", "t": "lễ giỗ đầu năm."}], "k": "year's mind"},
+  {
+    "h": "year's purchase",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "tiền tô"}],
+    "k": "year's purchase"
+  },
+  {
+    "h": "year-book",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "niên giám."}],
+    "ipa": "'jiə:buk",
+    "k": "year-book"
+  },
+  {
+    "h": "year-end",
+    "segs": [
+      {"k": "m", "t": "Danh từ (số nhiều year-ends)"},
+      {"k": "m", "t": "end of year: the end of a financial year hoặc calendar year"},
+      {"k": "m", "t": "Tính từ"},
+      {
+        "k": "m",
+        "t": "done at year-end: occurring hoặc done at the end of a financial year hoặc calendar year"
+      }
+    ],
+    "k": "year-end"
+  },
+  {
+    "h": "year-end adjustment",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "điều chỉnh cuối năm"},
+      {"k": "m", "t": "điểu chỉnh cuối năm"}
+    ],
+    "k": "year-end adjustment"
+  },
+  {
+    "h": "year-end audit",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "kiểm toán cuối năm"}],
+    "k": "year-end audit"
+  },
+  {
+    "h": "year-end bonus",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "tiền thưởng cuối năm"}],
+    "k": "year-end bonus"
+  },
+  {
+    "h": "year-end closing",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "khóa sổ cuối năm"},
+      {"k": "m", "t": "sự kết thúc tài khóa"},
+      {"k": "m", "t": "sự khóa sổ cuối năm"}
+    ],
+    "k": "year-end closing"
+  },
+  {
+    "h": "year-end dividend",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "cổ tức cuối năm, cuối tài khóa"}
+    ],
+    "k": "year-end dividend"
+  },
+  {
+    "h": "year-end file",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "hồ sơ của tài khóa hiện hành"}
+    ],
+    "k": "year-end file"
+  },
+  {
+    "h": "year-end procedures",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thủ tục kiểm kê cuối năm"}],
+    "k": "year-end procedures"
+  },
+  {
+    "h": "year-end statistics",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "số liệu thống cuối năm"}],
+    "k": "year-end statistics"
+  },
+  {
+    "h": "year-end stock",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "hàng trữ cuối năm"}],
+    "k": "year-end stock"
+  },
+  {
+    "h": "year-end stocktaking",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "việc kiểm kê cuối tài khóa, cuối năm"}
+    ],
+    "k": "year-end stocktaking"
+  },
+  {
+    "h": "year-end variance",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "sai biệt cuối năm"}],
+    "k": "year-end variance"
+  },
+  {
+    "h": "year-long",
+    "segs": [{"k": "m", "t": "tính từ"}, {"k": "m", "t": "lâu một năm, dài một năm."}],
+    "ipa": "ˈjə:,lɔŋ",
+    "k": "year-long"
+  },
+  {
+    "h": "year-round employment",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thuê làm trọn năm"}],
+    "k": "year-round employment"
+  },
+  {
+    "h": "year-round operation",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sự vận hành cả năm"},
+      {"k": "m", "t": "vận hành cả năm"}
+    ],
+    "k": "year-round operation"
+  },
+  {
+    "h": "year-round ventilation",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sự thông gió cả năm"},
+      {"k": "m", "t": "thông gió cả năm"}
+    ],
+    "k": "year-round ventilation"
+  },
+  {
+    "h": "year-to-year",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "cộng dồn trên tài khóa mỗi năm"},
+      {"k": "m", "t": "mỗi năm"}
+    ],
+    "k": "year-to-year"
+  },
+  {
+    "h": "yearbook",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "tài liệu xuất bản hàng năm và chứa đựng thông tin về năm trước đó"},
+      {"k": "m", "t": "niên giám"},
+      {
+        "k": "m",
+        "t": "ấn bản do học viên lớp cuối khóa của một trường biên soạn, ghi lại các sự kiện trong năm học và thường có hình chụp các học viên và nhà trường"
+      },
+      {"k": "m", "t": "kỷ yếu"},
+      {"k": "m", "t": "."}
+    ],
+    "ipa": "'jiə:buk",
+    "k": "yearbook"
+  },
+  {
+    "h": "yearling",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "thú vật một tuổi"},
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "một tuổi (thú vật)"},
+      {"k": "ex", "t": "yearling colt", "vi": "ngựa con một tuổi."}
+    ],
+    "ipa": "'jiə:liŋ",
+    "k": "yearling"
+  },
+  {
+    "h": "yearling bond (yearlings)",
+    "segs": [{"k": "m", "t": "trái phiếu một năm."}],
+    "k": "yearling bond (yearlings)"
+  },
+  {
+    "h": "yearling bonds",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "trái phiếu kỳ hạn một năm"}
+    ],
+    "k": "yearling bonds"
+  },
+  {"h": "yearling heffer", "segs": [{"k": "m", "t": "bê cái một tuổi."}], "k": "yearling heffer"},
+  {
+    "h": "yearling heifer",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "bê cái 1 tuổi"}],
+    "k": "yearling heifer"
+  },
+  {
+    "h": "yearling savings plans",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "kế hoạch tiết kiệm hàng năm"}
+    ],
+    "k": "yearling savings plans"
+  },
+  {
+    "h": "yearling sheep",
+    "segs": [{"k": "m", "t": "cừu non (từ 12 đến 20 tháng tuổi)."}],
+    "k": "yearling sheep"
+  },
+  {
+    "h": "yearlong",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "lâu một năm, dài một năm"},
+      {"k": "ex", "t": "a yearlong lecture tour", "vi": "một chuyến đi giảng bài kéo dài một năm."}
+    ],
+    "ipa": "'jiə:,lɔŋ",
+    "k": "yearlong"
+  },
+  {
+    "h": "yearly",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "&pht. hằng năm, thường niên"},
+      {"k": "ex", "t": "yearly income", "vi": "thu nhập hằng năm"},
+      {"k": "ex", "t": "yearly holiday", "vi": "ngày nghỉ hằng năm, ngày nghỉ thường niên"},
+      {
+        "k": "ex",
+        "t": "a yearly seminar/a seminar held yearly",
+        "vi": "cuộc hội thảo hằng năm/cuộc hội thảo tổ chức mỗi năm một lần"
+      },
+      {"k": "m", "t": "kéo dài một năm, suốt một năm"},
+      {"k": "ex", "t": "yearly letting", "vi": "sự cho thuê một năm."}
+    ],
+    "ipa": "'jiə:li",
+    "k": "yearly",
+    "q": {"vi": "hàng năm, mỗi năm một lần", "ipa": "'jiəli", "rs": "día lì"}
+  },
+  {
+    "h": "yearly average",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "số trung bình hàng năm"}],
+    "k": "yearly average"
+  },
+  {
+    "h": "yearly average temperature",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhiệt độ trung bình năm"}],
+    "k": "yearly average temperature"
+  },
+  {
+    "h": "yearly budget",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "ngân sách hàng năm"}],
+    "k": "yearly budget"
+  },
+  {
+    "h": "yearly capacity",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "công suất năm"},
+      {"k": "m", "t": "sản lượng năm"},
+      {"k": "m", "t": "sản lượng hàng năm"}
+    ],
+    "k": "yearly capacity"
+  },
+  {
+    "h": "yearly consumption",
+    "segs": [{"k": "m", "t": "sự tiêu thụ hàng năm."}],
+    "k": "yearly consumption"
+  },
+  {
+    "h": "yearly discharge",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "lưu lượng năm"}],
+    "k": "yearly discharge"
+  },
+  {
+    "h": "yearly income",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thu nhập hàng năm"}],
+    "k": "yearly income"
+  },
+  {
+    "h": "yearly instalment",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "khoản tiền trả hàng năm"},
+      {"k": "m", "t": "trả góp theo năm"}
+    ],
+    "k": "yearly instalment"
+  },
+  {
+    "h": "yearly maintenance",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự bảo quản hàng năm"}],
+    "k": "yearly maintenance"
+  },
+  {"h": "yearly output", "segs": [{"k": "m", "t": "sản lượng năm."}], "k": "yearly output"},
+  {
+    "h": "yearly precipitation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "lượng mưa năm"}],
+    "k": "yearly precipitation"
+  },
+  {
+    "h": "yearly rainfall",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "lượng mưa hàng năm"},
+      {"k": "m", "t": "lượng mưa năm"}
+    ],
+    "k": "yearly rainfall"
+  },
+  {
+    "h": "yearly renewable terms",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "điều khoản tái tục (bảo hiểm hàng năm)"},
+      {"k": "m", "t": "điều khoản tái tục (bảo hiểm) hàng năm"}
+    ],
+    "k": "yearly renewable terms"
+  },
+  {
+    "h": "yearly report",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "báo cáo hàng năm"}],
+    "k": "yearly report"
+  },
+  {
+    "h": "yearly reservoir",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hồ điều tiết năm"}],
+    "k": "yearly reservoir"
+  },
+  {
+    "h": "yearly saving plans",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "kế hoạch tiết kiệm hàng năm"}
+    ],
+    "k": "yearly saving plans"
+  },
+  {
+    "h": "yearly savings plans",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(tên đầy đủ National Savings Yearly Plans) phương án tiết kiệm do sở kiệm đề xướng năm 1984. Người tiết kiệm gởi tiền tiết kiệm hàng tháng từ 20 đến 400 bảng Anh, họ nhận một thẻ Niên kế (Yearly Plan Certificate). Nếu tiếp tục gởi tiết kiệm như vậy trong bốn năm, họ sẽ nhận được mức lãi suất cao nhất, không thuế, còn tiền lời hàng năm được gộp chung vào tiền gởi."
+      }
+    ],
+    "k": "yearly savings plans"
+  },
+  {
+    "h": "yearly summary accounts",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "báo cáo tổng hợp hàng năm"}
+    ],
+    "k": "yearly summary accounts"
+  },
+  {
+    "h": "yearly taxation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thuế tính theo năm"}],
+    "k": "yearly taxation"
+  },
+  {
+    "h": "yearly tenant",
+    "segs": [{"k": "m", "t": "người hưởng dụng theo luật."}],
+    "k": "yearly tenant"
+  },
+  {
+    "h": "yearly turnover",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "doanh số hàng năm"}],
+    "k": "yearly turnover"
+  },
+  {
+    "h": "yearly yield",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "sản lượng năm"}],
+    "k": "yearly yield"
+  },
+  {
+    "h": "yearn",
+    "segs": [
+      {"k": "pos", "t": "nội động từ"},
+      {"k": "m", "t": "mong mỏi, ao ước, khao khát, nóng lòng"},
+      {"k": "ex", "t": "to yearn for (after) something", "vi": "mong mỏi khao khát cái gì"},
+      {"k": "ex", "t": "to yearn to do something", "vi": "nóng lòng muốn làm việc gì"},
+      {"k": "m", "t": "thương mến"},
+      {"k": "m", "t": "thương cảm, thương hại"},
+      {"k": "ex", "t": "to yearn to (towards) someone", "vi": "thương hại người nào."}
+    ],
+    "ipa": "jə:n",
+    "k": "yearn"
+  },
+  {
+    "h": "yearner",
+    "segs": [{"k": "m", "t": "n. a person with a strong desire for something"}],
+    "k": "yearner"
+  },
+  {
+    "h": "yearning",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(+"},
+      {"k": "ex", "t": "after, for", "vi": ") sự khao khát, sự mong mỏi, sự ao ước"},
+      {"k": "ex", "t": "yearning for freedom", "vi": "sự khao khát muốn có tự do"},
+      {"k": "m", "t": "(+"},
+      {"k": "ex", "t": "to, towards", "vi": ") sự thương mến"},
+      {"k": "m", "t": "sự thương cảm, sự thương hại."}
+    ],
+    "ipa": "'jə:niŋ",
+    "k": "yearning"
+  },
+  {
+    "h": "yearningly",
+    "segs": [{"k": "pos", "t": "phó từ"}, {"k": "m", "t": "khát khao, tha thiết."}],
+    "ipa": "'jə:niŋli",
+    "k": "yearningly"
+  },
+  {
+    "h": "years of discretion",
+    "segs": [{"k": "m", "t": "tuổi khôn lớn, tuổi trưởng thành."}],
+    "k": "years of discretion"
+  },
+  {"h": "years purchase", "segs": [{"k": "m", "t": "thu hoạch nhiều năm."}], "k": "years purchase"},
+  {
+    "h": "yeas and nays",
+    "segs": [
+      {
+        "k": "m",
+        "t": "việc biểu quyết bằng cách điểm danh, những người biểu quyết thuận và chống, danh sách các nghị sĩ biểu quyết thuận và chống."
+      }
+    ],
+    "k": "yeas and nays"
+  },
+  {
+    "h": "yeast",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "men"},
+      {"k": "m", "t": "men bia"},
+      {"k": "ex", "t": "brewer's yeast; beer yeast", "vi": "men bia"},
+      {"k": "ex", "t": "baker's yeast", "vi": "men làm bánh."}
+    ],
+    "ipa": "ji:st",
+    "k": "yeast"
+  },
+  {
+    "h": "yeast activator",
+    "segs": [{"k": "m", "t": "chất hoạt hóa nấm men, chất kích hoạt hóa nấm men."}],
+    "k": "yeast activator"
+  },
+  {
+    "h": "yeast artificial chromosome",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yeast artificial chromosomes)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "vector for cloning DNA fragments: a sequence of DNA taken from another organism và inserted in a yeast to reveal its function"
+      }
+    ],
+    "k": "yeast artificial chromosome"
+  },
+  {
+    "h": "yeast autolysate",
+    "segs": [{"k": "m", "t": "thể tự phân giải nấm men."}],
+    "k": "yeast autolysate"
+  },
+  {"h": "yeast bite", "segs": [{"k": "m", "t": "vị men (bia)."}], "k": "yeast bite"},
+  {
+    "h": "yeast bottom layer",
+    "segs": [{"k": "m", "t": "lớp men lắng dưới thùng lên men."}],
+    "k": "yeast bottom layer"
+  },
+  {"h": "yeast bread", "segs": [{"k": "m", "t": "bánh mì lên men."}], "k": "yeast bread"},
+  {
+    "h": "yeast cake",
+    "segs": [{"k": "m", "t": "bánh kéc từ bột nhào lên men, viên men sấy khô."}],
+    "k": "yeast cake"
+  },
+  {"h": "yeast cell", "segs": [{"k": "m", "t": "tế bào nấm men."}], "k": "yeast cell"},
+  {
+    "h": "yeast contamination",
+    "segs": [{"k": "m", "t": "sự nhiễm nấm men."}],
+    "k": "yeast contamination"
+  },
+  {
+    "h": "yeast count",
+    "segs": [{"k": "m", "t": "số lượng tế bào nấm men, sự xác định lượng tế bào nấm men."}],
+    "k": "yeast count"
+  },
+  {"h": "yeast cream", "segs": [{"k": "m", "t": "sữa lên men, nhũ tương men."}], "k": "yeast cream"},
+  {"h": "yeast crop", "segs": [{"k": "m", "t": "khối nấm men."}], "k": "yeast crop"},
+  {
+    "h": "yeast culture tank",
+    "segs": [{"k": "m", "t": "thùng nuôi cấy men."}],
+    "k": "yeast culture tank"
+  },
+  {
+    "h": "yeast cutting machine",
+    "segs": [{"k": "m", "t": "máy cắt các bánh men."}],
+    "k": "yeast cutting machine"
+  },
+  {"h": "yeast decoction", "segs": [{"k": "m", "t": "dịch nuôi men."}], "k": "yeast decoction"},
+  {
+    "h": "yeast dehydrator",
+    "segs": [{"k": "m", "t": "máy vắt nước nấm men."}],
+    "k": "yeast dehydrator"
+  },
+  {
+    "h": "yeast department",
+    "segs": [{"k": "m", "t": "phân xưởng nấm men."}],
+    "k": "yeast department"
+  },
+  {
+    "h": "yeast drying",
+    "segs": [{"k": "m", "t": "sự sấy nấm men, sự làm khô nấm men."}],
+    "k": "yeast drying"
+  },
+  {
+    "h": "yeast extract",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "sticky brown food: a thick sticky brown food obtained from yeast và eaten as a spread hoặc used in cooking"
+      }
+    ],
+    "k": "yeast extract"
+  },
+  {
+    "h": "yeast extract agar",
+    "segs": [{"k": "m", "t": "thạch dịch chiết nấm men."}],
+    "k": "yeast extract agar"
+  },
+  {
+    "h": "yeast extruding machine",
+    "segs": [{"k": "m", "t": "máy tạo bánh men."}],
+    "k": "yeast extruding machine"
+  },
+  {"h": "yeast factory", "segs": [{"k": "m", "t": "nhà máy nấm men."}], "k": "yeast factory"},
+  {
+    "h": "yeast fermentation",
+    "segs": [{"k": "m", "t": "sự lên men bằng nấm men."}],
+    "k": "yeast fermentation"
+  },
+  {
+    "h": "yeast filtrate factor",
+    "segs": [{"k": "m", "t": "axít pantotenic."}],
+    "k": "yeast filtrate factor"
+  },
+  {
+    "h": "yeast growing",
+    "segs": [{"k": "m", "t": "sự phát triển của nấm men."}],
+    "k": "yeast growing"
+  },
+  {"h": "yeast gum", "segs": [{"k": "m", "t": "chất nhầy nấm men."}], "k": "yeast gum"},
+  {
+    "h": "yeast hydrolyzate",
+    "segs": [{"k": "m", "t": "chất thủy phân men."}],
+    "k": "yeast hydrolyzate"
+  },
+  {"h": "yeast industry", "segs": [{"k": "m", "t": "công nghiệp lên men."}], "k": "yeast industry"},
+  {
+    "h": "yeast infection",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yeast infections)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "irritation caused by fungus: an overgrowth of a fungus in the vagina, intestines, skin, hoặc mouth, causing irritation và swelling. Technical name candidiasis"
+      }
+    ],
+    "k": "yeast infection"
+  },
+  {"h": "yeast juice", "segs": [{"k": "m", "t": "nước ép men."}], "k": "yeast juice"},
+  {"h": "yeast machine", "segs": [{"k": "m", "t": "thiết bị lên men."}], "k": "yeast machine"},
+  {
+    "h": "yeast manufacture",
+    "segs": [{"k": "m", "t": "sự sản xuất nấm men."}],
+    "k": "yeast manufacture"
+  },
+  {"h": "yeast mash", "segs": [{"k": "m", "t": "dịch chiết men."}], "k": "yeast mash"},
+  {"h": "yeast masher", "segs": [{"k": "m", "t": "thùng lên men."}], "k": "yeast masher"},
+  {"h": "yeast powder", "segs": [{"k": "m", "t": "bột nấm men khô."}], "k": "yeast powder"},
+  {"h": "yeast product", "segs": [{"k": "m", "t": "sản phẩm lên men."}], "k": "yeast product"},
+  {
+    "h": "yeast propagator",
+    "segs": [{"k": "m", "t": "thiết bị lên men, thùng lên men."}],
+    "k": "yeast propagator"
+  },
+  {
+    "h": "yeast raised dough",
+    "segs": [{"k": "m", "t": "bột nhào ủ men."}],
+    "k": "yeast raised dough"
+  },
+  {
+    "h": "yeast raised product",
+    "segs": [{"k": "m", "t": "sản phẩm từ bột nhào lên men."}],
+    "k": "yeast raised product"
+  },
+  {
+    "h": "yeast ripening process",
+    "segs": [{"k": "m", "t": "quá trình già của nấm men."}],
+    "k": "yeast ripening process"
+  },
+  {
+    "h": "yeast rousing apparatus",
+    "segs": [{"k": "m", "t": "thiết bị khuấy động men giống."}],
+    "k": "yeast rousing apparatus"
+  },
+  {
+    "h": "yeast seed preparation",
+    "segs": [{"k": "m", "t": "chế phẩm nấm men giống."}],
+    "k": "yeast seed preparation"
+  },
+  {
+    "h": "yeast separator",
+    "segs": [{"k": "m", "t": "thiết bị tách nấm men."}],
+    "k": "yeast separator"
+  },
+  {"h": "yeast slurry", "segs": [{"k": "m", "t": "dịch men."}], "k": "yeast slurry"},
+  {"h": "yeast starter", "segs": [{"k": "m", "t": "men rượu."}], "k": "yeast starter"},
+  {"h": "yeast strength", "segs": [{"k": "m", "t": "lực nở của men."}], "k": "yeast strength"},
+  {"h": "yeast taste", "segs": [{"k": "m", "t": "vị men."}], "k": "yeast taste"},
+  {"h": "yeast tub", "segs": [{"k": "m", "t": "thùng men."}], "k": "yeast tub"},
+  {"h": "yeast turbidity", "segs": [{"k": "m", "t": "cặn men (xác men)."}], "k": "yeast turbidity"},
+  {
+    "h": "yeast vitamin powder",
+    "segs": [{"k": "m", "t": "bột nấm men không được vitamin hóa."}],
+    "k": "yeast vitamin powder"
+  },
+  {
+    "h": "yeastiness",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "tính chất có bọt"},
+      {"k": "m", "t": "sự đầy bọt"},
+      {"k": "m", "t": "tính sôi sục, tính bồng bột"},
+      {"k": "m", "t": "(nghĩa bóng) tính chất hời hợt, tính chất rỗng tuếch (bài viết...)."}
+    ],
+    "ipa": "'ji:stinis",
+    "k": "yeastiness"
+  },
+  {
+    "h": "yeasting system",
+    "segs": [{"k": "m", "t": "phương pháp nuôi cấy men."}],
+    "k": "yeasting system"
+  },
+  {"h": "yeasting tank", "segs": [{"k": "m", "t": "thùng nuôi cấy men."}], "k": "yeasting tank"},
+  {
+    "h": "yeastless",
+    "segs": [
+      {"k": "m", "t": "(adj)"},
+      {"k": "m", "t": "(Tham khảo)"},
+      {"k": "ex", "t": "yeast", "vi": "."}
+    ],
+    "k": "yeastless"
+  },
+  {
+    "h": "yeastlike",
+    "segs": [{"k": "m", "t": "adj. of or resembling or containing yeast"}],
+    "k": "yeastlike"
+  },
+  {"h": "yeastrel", "segs": [{"k": "m", "t": "dịch men chiết."}], "k": "yeastrel"},
+  {
+    "h": "yeasty",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "(thuộc) men"},
+      {"k": "ex", "t": "yeasty taste", "vi": "vị men"},
+      {"k": "m", "t": "có bọt, đầy bọt"},
+      {"k": "ex", "t": "yeasty sea", "vi": "biển đầy bọt"},
+      {"k": "m", "t": "sôi sục, bồng bột"},
+      {"k": "m", "t": "hời hợt, rỗng tuếch"},
+      {"k": "ex", "t": "yeasty writing", "vi": "bài viết rỗng tuếch."}
+    ],
+    "ipa": "'ji:sti",
+    "k": "yeasty"
+  },
+  {"h": "yeasty cream", "segs": [{"k": "m", "t": "kem bọt, vàng sữa bọt."}], "k": "yeasty cream"},
+  {
+    "h": "yech",
+    "segs": [
+      {"k": "m", "t": "interjection"},
+      {"k": "m", "t": "U.S. expression of disgust: used to express disgust (thông tục)"}
+    ],
+    "k": "yech"
+  },
+  {
+    "h": "yeehaw",
+    "segs": [
+      {"k": "m", "t": "(lóng)"},
+      {"k": "m", "t": "interjection"},
+      {
+        "k": "m",
+        "t": "expressing aggression: used as an expression of enthusiastic approval hoặc high spirits, associated especially with the cowboy culture of the southern United States"
+      },
+      {"k": "m", "t": "Tính từ"},
+      {
+        "k": "m",
+        "t": "rough and aggressive: extremely aggressive, especially in an unrefined, rustic manner"
+      }
+    ],
+    "k": "yeehaw"
+  },
+  {
+    "h": "yegg",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(Mỹ), (lóng) kẻ trộm."}],
+    "ipa": "jeg",
+    "k": "yegg"
+  },
+  {
+    "h": "yeggman",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(Mỹ), (lóng) (như)"},
+      {"k": "ex", "t": "yegg", "vi": "."}
+    ],
+    "ipa": "'jegmən",
+    "k": "yeggman"
+  },
+  {"h": "yegurt", "segs": [{"k": "m", "t": "Sữa chua."}], "k": "yegurt"},
+  {
+    "h": "yehicule currency",
+    "segs": [{"k": "m", "t": "chuyển tệ, đồng tiền trung chuyển."}],
+    "k": "yehicule currency"
+  },
+  {"h": "Yehowah", "segs": [{"k": "m", "t": "XEM Yahweh."}], "k": "yehowah"},
+  {
+    "h": "Yeild",
+    "segs": [
+      {"k": "m", "t": "(kinh tế) Lợi tức."},
+      {
+        "k": "m",
+        "t": "Tỉ lệ thu hàng năm đối với một chứng khoán được tính bằng tỉ lệ % so với thị giá hiện tại."
+      }
+    ],
+    "k": "yeild"
+  },
+  {
+    "h": "Yeild gap",
+    "segs": [
+      {"k": "m", "t": "(kinh tế) Chênh lệch lợi tức."},
+      {
+        "k": "m",
+        "t": "Mức khác biệt giữa lợi tức trung bình đối với cổ phần và tỉ lệ thu hồi tương ứng đối với các chứng khoán dài hạn có lãi suất cố định."
+      }
+    ],
+    "k": "yeild gap"
+  },
+  {
+    "h": "yeilding of foundation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự lún của móng"}],
+    "k": "yeilding of foundation"
+  },
+  {
+    "h": "Yekaterinburg",
+    "segs": [
+      {
+        "k": "m",
+        "t": "industrial city in central Russia, on the Iset River, on the eastern slopes of the Ural Mountains."
+      },
+      {"k": "m", "t": "Dân số khoảng: 1,293,000 (2002)"}
+    ],
+    "k": "yekaterinburg"
+  },
+  {
+    "h": "Yekaterinodar",
+    "segs": [{"k": "m", "t": "Former name for Krasnodar"}],
+    "k": "yekaterinodar"
+  },
+  {"h": "yeki", "segs": [{"k": "m", "t": "Bệnh dịch hạch."}], "k": "yeki"},
+  {
+    "h": "yeld",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "không đẻ, nân, xổi"},
+      {"k": "m", "t": "(nói về bò) không có sữa."}
+    ],
+    "ipa": "jeld",
+    "k": "yeld"
+  },
+  {"h": "yelept", "segs": [{"k": "m", "t": "tt. (cổ, đùa) tên là; tên gọi là."}], "k": "yelept"},
+  {
+    "h": "yelk",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(hiếm) (như)"},
+      {"k": "ex", "t": "yolk", "vi": "."}
+    ],
+    "ipa": "jelk",
+    "k": "yelk"
+  },
+  {
+    "h": "yell",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "sự kêu la, sự la hét"},
+      {"k": "m", "t": "tiếng la hét, tiếng thét lác"},
+      {"k": "m", "t": "(Mỹ) tiếng la hò động viên (trong những cuộc thi đấu thể thao...)"},
+      {"k": "pos", "t": "đại từ"},
+      {"k": "m", "t": "kêu la, la hét, thét lác"},
+      {"k": "ex", "t": "to yell with pain", "vi": "kêu la vì đau đớn"},
+      {"k": "ex", "t": "to yell with laughter", "vi": "cười rầm lên"},
+      {"k": "ex", "t": "to yell out abuses", "vi": "chửi mắng om sòm."}
+    ],
+    "ipa": "jel",
+    "k": "yell",
+    "q": {"vi": "hét to, la to (cổ vũ)", "pos": "v"}
+  },
+  {
+    "h": "yellow",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "có màu vàng"},
+      {"k": "ex", "t": "to grow (turn, get, become) yellow", "vi": "vàng ra, hóa vàng"},
+      {"k": "m", "t": "úa vàng (lá)"},
+      {"k": "m", "t": "có da màu nâu sáng và nước da của vài dân tộc Ðông Á"},
+      {"k": "m", "t": "da vàng"},
+      {"k": "m", "t": "ghen ghét, ghen tị, đố kỵ, ngờ vực"},
+      {
+        "k": "ex",
+        "t": "to cast a yellow look at somebody",
+        "vi": "nhìn (ai) bằng con mắt ghen ghét"
+      },
+      {"k": "m", "t": "như"},
+      {"k": "ex", "t": "yellow-bellied", "vi": "(Mỹ) có tính chất giật gân (báo chí)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "màu vàng"},
+      {
+        "k": "ex",
+        "t": "several different yellows in the paintbox",
+        "vi": "có nhiều màu vàng khác nhau trong hộp thuốc vẽ"
+      },
+      {"k": "m", "t": "chất, vật liệu hay lớp phủ màu vàng"},
+      {"k": "m", "t": "quần áo màu vàng"},
+      {"k": "ex", "t": "wearing yellow", "vi": "mặc quần áo màu vàng"},
+      {"k": "m", "t": "(số nhiều) (y) bệnh vàng da"},
+      {"k": "pos", "t": "đại từ"},
+      {"k": "m", "t": "(làm cho cái gì) có màu vàng"},
+      {"k": "m", "t": "nhuộm vàng"},
+      {"k": "ex", "t": "yellowing autumn leaves", "vi": "lá thu nhuốm vàng"},
+      {
+        "k": "ex",
+        "t": "the manuscript had yellowed/was yellowed with age",
+        "vi": "bản thảo đã ố vàng theo năm tháng."
+      }
+    ],
+    "ipa": "'jelou",
+    "k": "yellow",
+    "q": {"vi": "màu vàng", "ipa": "'jeləʊ", "pos": "adj"}
+  },
+  {
+    "h": "yellow acrd",
+    "segs": [{"k": "m", "t": "dt. thẻ vàng (trong bóng đá)."}],
+    "k": "yellow acrd"
+  },
+  {
+    "h": "yellow arsenic",
+    "segs": [{"k": "m", "t": "thư hoàng, auripícmen."}],
+    "k": "yellow arsenic"
+  },
+  {
+    "h": "yellow back",
+    "segs": [
+      {"k": "m", "t": "dt 1. tiểu thuyết Pháp (đóng bìa vàng) 2. tiểu thuyêt tầm thường/rẻ tiền."}
+    ],
+    "k": "yellow back"
+  },
+  {
+    "h": "yellow bile",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "medicine history như choler (sense 2)"}],
+    "k": "yellow bile"
+  },
+  {
+    "h": "yellow birch",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow birches hoặc yellow birch)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. yellow birch wood: a hard, light reddish-colored birch wood. Dùng để: building, furniture-making."
+      },
+      {
+        "k": "m",
+        "t": "2. tree with yellowish bark: a birch that has yellowish peeling bark và yields yellow birch. Thường thấy ở: North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Betula alleghaniensis"}
+    ],
+    "k": "yellow birch"
+  },
+  {
+    "h": "yellow bone marrow",
+    "segs": [{"k": "m", "t": "Tủy xương vàng."}],
+    "k": "yellow bone marrow"
+  },
+  {"h": "yellow book", "segs": [{"k": "m", "t": "sách vàng."}], "k": "yellow book"},
+  {
+    "h": "yellow boy",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(lóng) đồng tiền vàng."}],
+    "ipa": "'jelou'bɔi",
+    "k": "yellow boy"
+  },
+  {
+    "h": "yellow brain fungus",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "fungi như jelly fungus"}],
+    "k": "yellow brain fungus"
+  },
+  {"h": "yellow brass", "segs": [{"k": "m", "t": "đồng (thau) vàng."}], "k": "yellow brass"},
+  {
+    "h": "yellow burner",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đèn ngọn lửa vàng"}],
+    "k": "yellow burner"
+  },
+  {
+    "h": "yellow cable",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cáp vàng"}],
+    "k": "yellow cable"
+  },
+  {
+    "h": "yellow cake",
+    "segs": [{"k": "m", "t": "bánh gatô trứng, bánh kéc trứng."}],
+    "k": "yellow cake"
+  },
+  {
+    "h": "yellow cake colloq",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hỗn hợp uranioxit thiêu kết"}
+    ],
+    "k": "yellow cake colloq"
+  },
+  {
+    "h": "yellow card",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(bóng đá) thẻ vàng."}],
+    "ipa": "'jelou'ka:d",
+    "k": "yellow card"
+  },
+  {
+    "h": "yellow copper",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đồng thau"},
+      {"k": "m", "t": "đồng vàng"}
+    ],
+    "k": "yellow copper"
+  },
+  {
+    "h": "yellow copper ore",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "quặng chì ôxit"}],
+    "k": "yellow copper ore"
+  },
+  {
+    "h": "yellow discolouration",
+    "segs": [{"k": "m", "t": "sự đổi màu thành vàng."}],
+    "k": "yellow discolouration"
+  },
+  {
+    "h": "yellow dog",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(Mỹ) người đê tiện, người đáng khinh."}],
+    "ipa": "'jelou'dɔg",
+    "k": "yellow dog"
+  },
+  {
+    "h": "yellow earth",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đất lớt"},
+      {"k": "m", "t": "đất vàng"},
+      {"k": "m", "t": "hoàng thổ"}
+    ],
+    "k": "yellow earth"
+  },
+  {"h": "yellow enzyme", "segs": [{"k": "m", "t": "enzim vàng."}], "k": "yellow enzyme"},
+  {
+    "h": "yellow fever",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(y) bệnh sốt vàng."}],
+    "ipa": "'jelou'fi:və",
+    "k": "yellow fever"
+  },
+  {
+    "h": "yellow fever virus",
+    "segs": [{"k": "m", "t": "virút sốt vàng."}],
+    "k": "yellow fever virus"
+  },
+  {"h": "yellow fiber", "segs": [{"k": "m", "t": "Sợi vàng."}], "k": "yellow fiber"},
+  {
+    "h": "yellow filter adjustment",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sự điều chỉnh lọc màu vàng"},
+      {"k": "m", "t": "sự điều chỉnh màu lơ"}
+    ],
+    "k": "yellow filter adjustment"
+  },
+  {
+    "h": "yellow flag",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(hàng hải) cờ vàng, cờ kiểm dịch."}],
+    "ipa": "'jelou'flæg",
+    "k": "yellow flag"
+  },
+  {
+    "h": "yellow flame",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ngọn lửa màu vàng"}],
+    "k": "yellow flame"
+  },
+  {"h": "yellow fog", "segs": [{"k": "m", "t": "màng mờ vàng."}], "k": "yellow fog"},
+  {
+    "h": "yellow goods",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "hàng vàng"}],
+    "k": "yellow goods"
+  },
+  {"h": "yellow grease", "segs": [{"k": "m", "t": "mỡ vàng."}], "k": "yellow grease"},
+  {
+    "h": "yellow ground",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đất vàng"},
+      {"k": "m", "t": "hoang thổ"}
+    ],
+    "k": "yellow ground"
+  },
+  {
+    "h": "yellow heat",
+    "segs": [{"k": "m", "t": "sự nung màu vàng; độ nung nóng màu vàng."}],
+    "k": "yellow heat"
+  },
+  {
+    "h": "yellow hepatization",
+    "segs": [{"k": "m", "t": "Gan hóa vàng."}],
+    "k": "yellow hepatization"
+  },
+  {
+    "h": "yellow jack",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(lóng)"},
+      {"k": "m", "t": "(như)"},
+      {"k": "ex", "t": "yellow flag (như) yellow fever", "vi": "."}
+    ],
+    "ipa": "'jelou'dʒæk",
+    "k": "yellow jack"
+  },
+  {
+    "h": "yellow jacket",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "Hoàng bào, áo vàng của vua Trung Quốc."}
+    ],
+    "ipa": "'jelou'dʒækit",
+    "k": "yellow jacket"
+  },
+  {
+    "h": "yellow jasmine",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "trees như Carolina jasmine"}],
+    "k": "yellow jasmine"
+  },
+  {
+    "h": "yellow jersey",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow jerseys)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "race leader's jersey: in the Tour de France, the jersey awarded to the cyclist with the fastest elapsed time at a completed stage of the race"
+      }
+    ],
+    "k": "yellow jersey"
+  },
+  {
+    "h": "yellow jessamine",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Như Carolina jasmine"}],
+    "k": "yellow jessamine"
+  },
+  {
+    "h": "yellow journalism",
+    "segs": [{"k": "m", "t": "sách báo tình cảm ba xu."}],
+    "k": "yellow journalism"
+  },
+  {"h": "yellow lead", "segs": [{"k": "m", "t": "chì ôxít, bột chì vàng."}], "k": "yellow lead"},
+  {"h": "yellow ligament", "segs": [{"k": "m", "t": "Day chằng vàng."}], "k": "yellow ligament"},
+  {
+    "h": "yellow line",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "vạch màu vàng chỉ giới hạn đỗ xe."}],
+    "ipa": "'jeloulain",
+    "k": "yellow line"
+  },
+  {
+    "h": "yellow litharge",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chì monoxit vàng"}],
+    "k": "yellow litharge"
+  },
+  {"h": "yellow mackerel", "segs": [{"k": "m", "t": "cá sòng."}], "k": "yellow mackerel"},
+  {
+    "h": "yellow magazine",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow magazines)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Hong Kong pornographic magazine: a magazine containing explicit pornographic photographs (thông tục)"
+      }
+    ],
+    "k": "yellow magazine"
+  },
+  {"h": "yellow metal", "segs": [{"k": "m", "t": "đồng thau."}], "k": "yellow metal"},
+  {
+    "h": "yellow monkey",
+    "segs": [{"k": "m", "t": "Khỉ vàng Macaca mulatto."}],
+    "k": "yellow monkey"
+  },
+  {
+    "h": "yellow ocher",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "artists' pigment: a yellow brown pigment containing iron. Dùng để: artists' colors."
+      }
+    ],
+    "k": "yellow ocher"
+  },
+  {
+    "h": "yellow page",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "trang vàng"}],
+    "k": "yellow page"
+  },
+  {
+    "h": "yellow pages",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "danh bạ điện thoại giới thiệu các doanh nghiệp theo hoạt động của chúng, Những trang vàng."
+      }
+    ],
+    "ipa": "'jelou'peidʒz",
+    "k": "yellow pages"
+  },
+  {
+    "h": "yellow pages (the.....)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "những trang vàng trong niên giám điện thoại"}
+    ],
+    "k": "yellow pages (the.....)"
+  },
+  {
+    "h": "Yellow Pages (YP)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "các trang màu vàng"}],
+    "k": "yellow pages (yp)"
+  },
+  {"h": "yellow paper", "segs": [{"k": "m", "t": "dt. trái ớt chín."}], "k": "yellow paper"},
+  {
+    "h": "yellow perch",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow perch hoặc yellow perches)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "bony freshwater fish: a bony freshwater fish with a yellow body, greenish brown vertical bars và orange fins that is valued as a food và sport fish. Thường thấy ở: North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Perca flavescens"}
+    ],
+    "k": "yellow perch"
+  },
+  {
+    "h": "yellow peril",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "hiểm họa mà người phương Tây cho rằng sẽ bộc phát nếu họ bị người châu Á lấn lướt."
+      }
+    ],
+    "k": "yellow peril"
+  },
+  {
+    "h": "yellow pine",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow pines hoặc yellow pine)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "1. yellow pine wood: a strong yellowish pine wood"},
+      {
+        "k": "m",
+        "t": "2. N American pine: a North American pine that yields yellow pine, ví dụ: the longleaf pine, shortleaf pine, hoặc ponderosa pine"
+      }
+    ],
+    "k": "yellow pine"
+  },
+  {
+    "h": "yellow poplar",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "1. trees như tulip tree"},
+      {"k": "m", "t": "2. industry như tulipwood"}
+    ],
+    "k": "yellow poplar"
+  },
+  {
+    "h": "yellow press",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "báo chuyên đăng tin giật gân."}],
+    "ipa": "'jelou'pres",
+    "k": "yellow press"
+  },
+  {
+    "h": "yellow rain",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "yellow precipitation: a fungal toxin that occurs as a form of precipitation in Southeast Asia."
+      },
+      {
+        "k": "m",
+        "t": "It has been attributed by different sections of the scientific community to residue from chemical warfare hoặc to the excrement of wild honeybees."
+      }
+    ],
+    "k": "yellow rain"
+  },
+  {
+    "h": "yellow rattle",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow rattles)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "yellow-flowered plant with rattling seeds: a plant with yellow flowers whose seeds rattle in their pouches when they are shaken. Thường thấy ở: Europe, North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Rhinanthus minor"}
+    ],
+    "k": "yellow rattle"
+  },
+  {"h": "Yellow River", "segs": [{"k": "m", "t": "See Huang He"}], "k": "yellow river"},
+  {
+    "h": "Yellow Sea",
+    "segs": [
+      {
+        "k": "m",
+        "t": "arm of the Pacific Ocean bordered on the west và north by China và on the east by the Korean Peninsula. It merges with the East China Sea to the south. Chinese name Huang Hai"
+      }
+    ],
+    "k": "yellow sea"
+  },
+  {"h": "yellow sheets", "segs": [{"k": "m", "t": "những trang vàng."}], "k": "yellow sheets"},
+  {"h": "yellow shell", "segs": [{"k": "m", "t": "đạn cháy."}], "k": "yellow shell"},
+  {
+    "h": "yellow shortness",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tính giòn vàng"}],
+    "k": "yellow shortness"
+  },
+  {
+    "h": "yellow soda ammonia",
+    "segs": [{"k": "m", "t": "xôđa vàng (có chứa sắt)."}],
+    "k": "yellow soda ammonia"
+  },
+  {
+    "h": "yellow softening",
+    "segs": [{"k": "m", "t": "(chứng) nhuyễn vàng."}],
+    "k": "yellow softening"
+  },
+  {
+    "h": "yellow spinel",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "spinen vàng"}],
+    "k": "yellow spinel"
+  },
+  {
+    "h": "yellow spot",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(giải phẫu) điểm vàng."}],
+    "ipa": "'jelou'spɔt",
+    "k": "yellow spot"
+  },
+  {
+    "h": "yellow straw paper",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "giấy rơm"}],
+    "k": "yellow straw paper"
+  },
+  {
+    "h": "yellow straw pulp",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bột giấy rơm"}],
+    "k": "yellow straw pulp"
+  },
+  {
+    "h": "yellow streak",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sự nhút nhát, sự nhát gan."}],
+    "ipa": "'jelou'stri:k",
+    "k": "yellow streak"
+  },
+  {"h": "yellow tea", "segs": [{"k": "m", "t": "chè vàng."}], "k": "yellow tea"},
+  {"h": "yellow tomato", "segs": [{"k": "m", "t": "cà chua vàng."}], "k": "yellow tomato"},
+  {
+    "h": "yellow union",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "công đoàn vàng"}],
+    "k": "yellow union"
+  },
+  {
+    "h": "yellow warbler",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow warblers)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "common songbird: a common songbird of the warbler family that has bright yellow feathers with brown streaks along its sides. Thường thấy ở: North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Dendroica petechia"}
+    ],
+    "k": "yellow warbler"
+  },
+  {
+    "h": "yellow ware",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đồ gốm."}],
+    "ipa": "'jelouweə",
+    "k": "yellow ware"
+  },
+  {
+    "h": "yellow wax",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sáp vàng"}],
+    "k": "yellow wax"
+  },
+  {
+    "h": "yellow wood",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(thực)"},
+      {"k": "m", "t": "cây hoàng đàn"},
+      {"k": "m", "t": "gỗ hoàng đàn."}
+    ],
+    "ipa": "'jelou'wud",
+    "k": "yellow wood"
+  },
+  {
+    "h": "yellow-bellied",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "(lóng) nhút nhát"},
+      {"k": "m", "t": "nhát gan"},
+      {
+        "k": "ex",
+        "t": "I always suspected he was yellow-bellied",
+        "vi": "lúc nào tôi cũng nghi là nó nhát gan."
+      }
+    ],
+    "ipa": "'jelo belid",
+    "k": "yellow-bellied"
+  },
+  {
+    "h": "yellow-bellied sapsucker",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow-bellied sapsuckers)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "small N American woodpecker: a small woodpecker that feeds on sap và insects, the male of which has a yellowish belly và bright red crown và throat. Thường thấy ở: North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Sphyrapicus varius"}
+    ],
+    "k": "yellow-bellied sapsucker"
+  },
+  {"h": "yellow-belly", "segs": [{"k": "m", "t": "dt. th.tục sự nhát gan."}], "k": "yellow-belly"},
+  {
+    "h": "yellow-bird",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(động) chim sẻ cánh vàng."}],
+    "ipa": "'jelou'bə:d",
+    "k": "yellow-bird"
+  },
+  {
+    "h": "yellow-breasted chat",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow-breasted chats hoặc yellow-breasted chat)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "songbird with bright yellow breast: a songbird with a bright yellow breast và white marks over the eyes. Thường thấy ở: North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Icteria virens"}
+    ],
+    "k": "yellow-breasted chat"
+  },
+  {
+    "h": "yellow-dog contract",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow-dog contracts)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "U.S. contract forbidding union membership: an illegal employment contract in which the employee agrees not to join a labor union"
+      }
+    ],
+    "k": "yellow-dog contract"
+  },
+  {
+    "h": "yellow-dog fund",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(Mỹ), (lóng) quỹ đen, quỹ bí mật."}],
+    "ipa": "'jeloudɔg'fʌnd",
+    "k": "yellow-dog fund"
+  },
+  {
+    "h": "yellow-fin tuna",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "cá ngừ vây vàng"}],
+    "k": "yellow-fin tuna"
+  },
+  {
+    "h": "yellow-green alga",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow-green algas)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "soil alga: an alga that lives in soil và other moist environments và contains brown và bright yellow pigments that mask the chlorophyll."
+      },
+      {"k": "m", "t": "Division: Chrysophyta"}
+    ],
+    "k": "yellow-green alga"
+  },
+  {
+    "h": "yellow-hammer",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chim cổ vàng."}],
+    "ipa": "'jelou'hæmə",
+    "k": "yellow-hammer"
+  },
+  {"h": "yellow-livered", "segs": [{"k": "m", "t": "hèn nhát."}], "k": "yellow-livered"},
+  {
+    "h": "yellow-shafted flicker",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow-shafted flickers)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "large woodpecker: a large woodpecker with streaks of yellow on the underside of its wings và tail và a red spot on its nape. Thường thấy ở: eastern North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Colaptes auratus"}
+    ],
+    "k": "yellow-shafted flicker"
+  },
+  {
+    "h": "yellow-throated warbler",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow-throated warblers)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "U.S. songbird with yellow throat: a small songbird of the warbler family that has a bright yellow throat. Thường thấy ở: eastern United States."
+      },
+      {"k": "m", "t": "Tên Latinh: Dendroica dominica"}
+    ],
+    "k": "yellow-throated warbler"
+  },
+  {
+    "h": "yellow-yite",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellow-yites hoặc yellow-yite)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "Scotland birds như yellowhammer"}
+    ],
+    "k": "yellow-yite"
+  },
+  {
+    "h": "yellowback",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "tiểu thuyết rẻ tiền"},
+      {"k": "m", "t": "tiểu thuyết bìa vàng (của Pháp)."}
+    ],
+    "ipa": "'jeloubæk",
+    "k": "yellowback"
+  },
+  {
+    "h": "yellowbelly",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellowbellys)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "coward: an offensive term that deliberately insults somebody's courage (informal insult)"
+      }
+    ],
+    "k": "yellowbelly"
+  },
+  {
+    "h": "yellowbird",
+    "segs": [{"k": "ref", "t": "như yellow-bird."}],
+    "ipa": "ˈjeləʊbə:d",
+    "k": "yellowbird"
+  },
+  {
+    "h": "yellowcake",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "oxide of uranium ore: the concentrated semirefined oxide of uranium ore"}
+    ],
+    "k": "yellowcake"
+  },
+  {
+    "h": "yellowdog fund",
+    "segs": [{"k": "ref", "t": "như yellow-dog fund."}],
+    "ipa": "ˈjeləʊdɔg'fʌnd",
+    "k": "yellowdog fund"
+  },
+  {"h": "yellowfin tuna", "segs": [{"k": "m", "t": "cá ngừ vây vàng."}], "k": "yellowfin tuna"},
+  {"h": "yellowhammer", "segs": [{"k": "m", "t": "dt. chim cổ vàng."}], "k": "yellowhammer"},
+  {
+    "h": "yellowhead",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellowheads)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "small moth: a small moth with a yellowish head."},
+      {"k": "m", "t": "Tên Latinh: Acleris minuta"}
+    ],
+    "k": "yellowhead"
+  },
+  {"h": "yellowing", "segs": [{"k": "m", "t": "sự nhuộm vàng; sự hóa vàng."}], "k": "yellowing"},
+  {
+    "h": "yellowing (of paint)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự hóa vàng (mặt sơn)"}],
+    "k": "yellowing (of paint)"
+  },
+  {
+    "h": "yellowish",
+    "segs": [
+      {"k": "m", "t": "Hoặc:"},
+      {"k": "ex", "t": "yellowy", "vi": "^tt. hơi vàng, vàng vàng."}
+    ],
+    "ipa": "'jelouiʃ",
+    "k": "yellowish"
+  },
+  {
+    "h": "Yellowknife",
+    "segs": [
+      {
+        "k": "m",
+        "t": "capital city of the Northwest Territories, Canada. It is situated on the northern shore of the Great Slave Lake."
+      },
+      {"k": "m", "t": "Dân số khoảng: 16,541 (2001)"}
+    ],
+    "k": "yellowknife"
+  },
+  {
+    "h": "yellowlegs",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellowlegs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "large shorebird: a large shorebird of the sandpiper family with bright yellow legs, mottled brown feathers, và white underparts. Thường thấy ở: Americas."
+      },
+      {"k": "m", "t": "Tên Latinh: Tringa melanoleuca, Tringa flavipes"}
+    ],
+    "k": "yellowlegs"
+  },
+  {
+    "h": "yellowly",
+    "segs": [{"k": "m", "t": ", adv."}, {"k": "m", "t": "With a yellow colour or light."}],
+    "ipa": "'jɛləʊli",
+    "k": "yellowly"
+  },
+  {
+    "h": "yellowness",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "màu vàng"},
+      {"k": "m", "t": "(y) nước da vàng."}
+    ],
+    "ipa": "'jelounis",
+    "k": "yellowness"
+  },
+  {
+    "h": "yellows",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "plant disease: a plant disease marked by a yellowing of foliage that may be caused by a mineral deficiency, virus, hoặc some other infectious agent (takes a singular verb)"
+      }
+    ],
+    "k": "yellows"
+  },
+  {
+    "h": "Yellowstone",
+    "segs": [
+      {
+        "k": "m",
+        "t": "river in the western United States, rising in northwestern Wyoming, và flowing into the Missouri River in North Dakota."
+      },
+      {"k": "m", "t": "Length: 1,110 km/692 mi"}
+    ],
+    "k": "yellowstone"
+  },
+  {
+    "h": "Yellowstone National Park",
+    "segs": [
+      {
+        "k": "m",
+        "t": "world's first national park, established in 1872 in parts of Wyoming, Montana, và Idaho. It is noted for its geysers, hot springs, và the Yellowstone Falls."
+      },
+      {"k": "m", "t": "Diện tích: 8,983 sq km/3,468 sq mi"}
+    ],
+    "k": "yellowstone national park"
+  },
+  {
+    "h": "yellowtail",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellowtail hoặc yellowtails)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. ocean fish with yellowish tail: an ocean game fish with a yellowish tail. Thường thấy ở: coastal waters of California và Mexico."
+      },
+      {"k": "m", "t": "Tên Latinh: Seriola lalandei"},
+      {
+        "k": "m",
+        "t": "2. Australian bait fish: a small greenish fish with silver underparts và a yellow tail và fins that is commonly used as bait. Thường thấy ở: southern Australian và New Zealand waters."
+      },
+      {"k": "m", "t": "Tên Latinh: Trachurus novaezelandiae"}
+    ],
+    "k": "yellowtail"
+  },
+  {
+    "h": "yellowthroat",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellowthroats)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "small American warbler: a small songbird of the warbler family that nests in dense undergrowth và has a yellow breast và throat, a black mask, và a brownish back. Thường thấy ở: North America."
+      },
+      {"k": "m", "t": "Tên Latinh: Geothlypis trichas"}
+    ],
+    "k": "yellowthroat"
+  },
+  {
+    "h": "yellowweed",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "plant with yellow flowers: a yellow-flowered plant, ví dụ: the ragwort hoặc the goldenrod"
+      }
+    ],
+    "k": "yellowweed"
+  },
+  {
+    "h": "yellowwood",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellowwoods hoặc yellowwood)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. yellowish wood of N American tree: the yellowish wood of a leguminous North American tree. Dùng để: source of yellow dye."
+      },
+      {
+        "k": "m",
+        "t": "2. yellowish wood of S African tree: the yellowish wood of a southern African coniferous tree"
+      },
+      {
+        "k": "m",
+        "t": "3. N American tree: a leguminous tree that yields yellowwood. Thường thấy ở: southern United States."
+      },
+      {"k": "m", "t": "Tên Latinh: Cladastris lutea"},
+      {
+        "k": "m",
+        "t": "4. S African tree: a coniferous tree that yields yellowwood. Thường thấy ở: southern Africa."
+      },
+      {"k": "m", "t": "Tên Latinh: Podocarpus falcatus"}
+    ],
+    "k": "yellowwood"
+  },
+  {
+    "h": "yellowwort",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yellowworts hoặc yellowwort)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "plant with yellow flowers: a perennial plant that has gray waxy foliage và is usually found on chalky turf. Flowers: yellow."
+      },
+      {"k": "m", "t": "Tên Latinh: Blackstonia perfoliata"}
+    ],
+    "k": "yellowwort"
+  },
+  {
+    "h": "yellowy",
+    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "yellowish như yellowish", "vi": "."}],
+    "ipa": "'jeloui",
+    "k": "yellowy"
+  },
+  {
+    "h": "yelp",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "tiếng kêu ăng ẳng của chó"},
+      {"k": "pos", "t": "nội động từ"},
+      {"k": "m", "t": "kêu ăng ẳng."}
+    ],
+    "ipa": "jelp",
+    "k": "yelp"
+  },
+  {
+    "h": "yelper",
+    "segs": [
+      {"k": "m", "t": "1.1 A boaster. Obs."},
+      {
+        "k": "m",
+        "t": "2.2 An animal that yelps or gives a sharp shrill cry; also, a person who ‘yelps', etc."
+      },
+      {
+        "k": "m",
+        "t": "a. A dog that yelps, a whelp. b. The avocet. local. c. A young partridge. d. A redshank. e. A ‘call' used by sportsmen to imitate the ‘yelp' of the wild turkey-hen. f. slang. A town-crier. g. slang. A wild beast."
+      },
+      {
+        "k": "m",
+        "t": "3.3 Applied contemptuously to a speaker or writer, whose utterance is compared to a dog's yelp."
+      },
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "A specific type of douchebag who is uniformly narcissistic with a clear sense of superiority over other individuals because they frequently post reviews on the website Yelp. Despite the fact that these people have no specific qualifications or credentials, they believe themselves of a higher authority on the level of the Cesars of Rome, able to determine the fate of a restaurant, coffee house, or bar in the same fashion as a defeated gladiators' fate was chosen in ancient Rome."
+      },
+      {
+        "k": "m",
+        "t": "These individuals can be easily spotted out in public as overweight single females or homosexual males taking pictures of their food at restaurants with their cell phones as soon as it is served. They can also be spotted as they snap pictures of hotel lobbies and hallways. The only demographic who appreciates Yelpers are Japanese tourists, who are no longer the stereotype taking more senseless pictures of stupid shit than anyone else."
+      },
+      {
+        "k": "m",
+        "t": "Yelpers are in general whiny, annoying, high-maintenance individuals who expect to have their asses kissed everywhere they go because of their Yelp status (Duke, Duchess, whatever the fuck)."
+      },
+      {
+        "k": "m",
+        "t": "(Waiter, to his manager) See those frumpy, fat chicks over there at table 3? They are driving me crazy whining about shit and now they are taking pictures of their salads with their phones."
+      },
+      {
+        "k": "m",
+        "t": "(Manager) Must be Yelpers. Give their fat asses free dessert, or they will give us bad reviews."
+      },
+      {"k": "m", "t": "(Waiter) Fuck them."}
+    ],
+    "ipa": "'jɛlpə(r)",
+    "k": "yelper"
+  },
+  {"h": "yelt", "segs": [{"k": "m", "t": "lợn sữa."}], "k": "yelt"},
+  {
+    "h": "Yemen",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một quốc gia nằm ở miền Nam bán đảo Arabia, phía Bắc giáp Ả Rập Saudi và Oman."
+      },
+      {
+        "k": "m",
+        "t": "Ðịa hình: dưới Biển Ðỏ về phía Tây; mặt giáp biển là các dãy núi cao, nơi được trồng bông vải và cà phê. Dưới Biển Ðỏ về phía Ðông là dãy bờ biển khô cằn thuộc Vịnh Aden."
+      },
+      {
+        "k": "m",
+        "t": "Kinh tế: Ở miền Bắc, ngành nông nghiệp (chủ yếu là chăn nuôi dê, cừu và trồng các loại cây như bông vải, cà phê và một số cây lương thực) vẫn là nguồn thu nhập chính mãi cho đến năm 1986 khi mà ngành công nghiệp sản xuất dầu mỏ phát triển. Tuy nhiên, việc khai thác dầu gặp trở ngại do có tranh chấp về biên giới với Ả Rập Saudi. Miền Nam trước đây là nền Cộng hòa với một Ðảng duy nhất; kinh tế là nền nông nghiệp tập trung, chủ yếu dựa vào nguồn viện trợ từ Xô Viết. Kinh tế Yemen phần lớn lệ thuộc vào số tài sản của dân hồi hương từ Ả Rập Xê Út khi chiến tranh vùng vịnh diễn ra vào năm 1991."
+      },
+      {
+        "k": "m",
+        "t": "Lịch sử: năm 950-115 trước công nguyên, Yemen là một vùng đất thịnh vượng với cái tên Saba hay còn gọi là vương triều của nữ hoàng Sheba. Người La Mã gọi nơi đây là Arabia Felix (miền đất hứa Ả Rập). Ðến thế kỉ thứ 6 sau công nguyên, do hệ thống tưới tiêu đã xuống cấp nên vùng này không còn thịnh vượng như xưa. Một thế kỉ sau nơi đây rơi vào tay người Hồi giáo. Mặc dù vương quốc Anh thiết lập nên nền thuộc địa ở xứ sở Aden năm 1839 nhưng Saba lại chịu sự cai quản của người Thổ. Năm 1918, được sự hậu thuẫn của Anh; vua Imam Yahya tuyên bố nơi này là lãnh thổ của ông trong khi vẫn còn tranh chấp biên giới với Aden và Ả Rập Xê Út. Năm 1948, Yahia bị ám sát, con trai ông là Ahmad lên nắm quyền mãi cho đến năm 1962 thì mất. Tướng Abdullah al-Sallal tuyên bố thành lập nước Cộng hòa Ả Rập Yemen (ở miền Bắc Yemen), bên dưới giáp Ai Cập và Syria. Ả Rập Xê Út ủng hộ quyết định này vì sự trung thành của Abdullah đối với con trai Ahmad là Imam Muhammad al-Badr. Cuộc nội chiến ở miền Bắc Yemen diễn ra và kéo dài cho đến 1967 khi mà Sallal từ chức để thành lập một chính phủ ôn hòa hơn. Khi đế chế kết thúc năm 1967, người dân vùng Aden và các tiểu vương quốc Ả Rập láng giềng lập nên nước Cộng hòa nhân dân Yemen (ở miền Nam Yemen). Tháng 4 năm 1970, nội chiến ở miền Bắc tạm lắng thì đến 1979 một cuộc chiến khác kéo dài một tháng lại diễn ra giữa 2 miền Nam Bắc. Các buổi thương thảo nhằm thống nhất 2 miền được tiến hành, kết quả là một bản sơ thảo hiến pháp chung được đưa ra vào tháng 12-1989. Một nhà nước thống nhất được thành lập tháng 5-1990, tập trung chính trị ở vùng Sana'a và thương mại ở Aden. Hội đồng nhà nước được lập ra với 5 thành viên, đứng đầu là đương kim tổng thống Ali Abdullah Saleh. Yemen gia nhập Liên hiệp quốc và là thành viên của Hội đồng Bảo An. Việc nước này lên tiếng phản đối sự can thiệp của Mỹ trong khu vực đã góp phần đưa đến chiến tranh giữa các nước vùng vịnh; nhưng quyết định này được đa số đồng tình. Thế nhưng, Yemen phải gánh chịu sự trả đũa về kinh tế của các nước vùng vịnh, Châu Âu và Mỹ. Ả Rập Xê Út trục xuất 800.000 dân Yemen nhập cư và hỗ trợ đáng kể mặt tài chính cho các phe chống đối chính phủ (được sự hậu thuẫn của cánh bảo thủ) người Hồi giáo ở Yemen. Căng thẳng chính trị xảy ra, tập trung vào việc phân chia nguồn lợi dầu hỏa. Sự việc lên đến đỉnh điểm khi các lãnh đạo người Yemen tuyên bố ly khai, điều này đã dẫn đến một cuộc nội chiến kéo dài 3 tháng vào năm 1994. Khi quân miền Bắc chiếm được Aden thì chiến tranh kết thúc. Hòa bình được thiết lập, hiến pháp được sửa đổi và chủ tịch Hội đồng nhà nước được thay thế bởi tổng thống sắp nhậm chức."
+      },
+      {"k": "m", "t": "Thủ đô: Sana'a (chính trị); Aden (kinh tế)."},
+      {"k": "m", "t": "Diện tích: 472.099 km2"},
+      {"k": "m", "t": "Dân số: 16,600 triệu (1996)."},
+      {"k": "m", "t": "Tiền tệ: Riyal (1 riyal = 100 fils)."},
+      {"k": "m", "t": "Tôn giáo: Dòng Sunni (53%); dòng Shi'ite (47%)."},
+      {"k": "m", "t": "Sắc tộc: Ả Rập (97%); Ấn Ðộ và Pakistan (1,5%); Somali (1,5%)."},
+      {"k": "m", "t": "Ngôn ngữ: Nhiều (chính thức là tiếng Ả Rập)."},
+      {"k": "m", "t": "Gia nhập: Liên hiệp quốc, Liên đoàn Ả Rập."}
+    ],
+    "k": "yemen"
+  },
+  {
+    "h": "yen",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "đồng yên (tiền Nhật Bản)"},
+      {"k": "m", "t": "(Mỹ), (lóng) sự thèm muốn, sự thèm thuồng"},
+      {"k": "pos", "t": "nội động từ"},
+      {"k": "m", "t": "(Mỹ), (lóng) thèm, thèm thuồng"},
+      {"k": "ex", "t": "at any time, they yen for heroin", "vi": "lúc nào chúng cũng thèm ma túy."}
+    ],
+    "ipa": "jen",
+    "k": "yen",
+    "q": {"vi": "đồng Yên (tiền Nhật)", "ipa": "jen", "rs": "den"}
+  },
+  {
+    "h": "yen base investment",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "đầu tư tính bằng Yên Nhật"}
+    ],
+    "k": "yen base investment"
+  },
+  {"h": "yen bond", "segs": [{"k": "m", "t": "trái phiếu yên."}], "k": "yen bond"},
+  {
+    "h": "Yen mark",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ký hiệu Yên"}],
+    "k": "yen mark"
+  },
+  {
+    "h": "yen sign",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dấu sổ sau"}],
+    "k": "yen sign"
+  },
+  {
+    "h": "yen's-plummet",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "sự sụt giá của đồng Yên Nhật"}
+    ],
+    "k": "yen's-plummet"
+  },
+  {
+    "h": "yen-denominated",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "được tính bằng đồng Yên"}],
+    "k": "yen-denominated"
+  },
+  {
+    "h": "yen-shee",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(từ Mỹ) (lóng) thuốc phiện, hêrôin."}],
+    "ipa": "'jenʃi:",
+    "k": "yen-shee"
+  },
+  {
+    "h": "Yenisey",
+    "segs": [
+      {
+        "k": "m",
+        "t": "river in central Siberian Russia. It is formed in the Sayan Mountains in southern Siberia by the union of the Greater Yenisey và the Little Yenisey, và flows northward into the Kara Sea."
+      },
+      {"k": "m", "t": "Length: 4,090 km/2,540 mi"}
+    ],
+    "k": "yenisey"
+  },
+  {
+    "h": "yenta",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yentas) hoặc yente (số nhiều yentes)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "busybody: somebody, often a woman, known as a meddler hoặc a gossip (lóng) (sometimes offensive)"
+      }
+    ],
+    "k": "yenta"
+  },
+  {
+    "h": "yentnite",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "yenit"}],
+    "k": "yentnite"
+  },
+  {"h": "yeo.", "segs": [{"k": "m", "t": "Viết tắt của navy yeoman"}], "k": "yeo."},
+  {
+    "h": "Yeoman",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Người sở hữu một vùng đất tự do và hàng năm chi trả khoảng 40 silling cho các bồi thẩm đoàn, các cuộc thi kỵ sĩ ở miền trung du nước Anh và để thực hiện những nghĩa vụ khác. Vào thế kỉ 13-14, Yeomen được xem là \"tá điền đặc mệnh toàn quyền\". Nhưng đến 1400, khi nhiều tá điền trở nên giàu có hơn thì họ đều mang danh như thế; dù rằng các tá điền này có sở hữu những vùng đất tự do hay không (có thể kể ra như Franklins, dòng họ nông dân). Ðến thế kỉ 15, một số nông dân trước kia làm cho Yeoman đã gia nhập vào hàng ngũ tiểu tư sản cho dù họ là những người làm thuê hay là tá điền."
+      }
+    ],
+    "k": "yeoman"
+  },
+  {
+    "h": "yeoman of signals",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "người đánh tín hiệu (hải quân)"},
+      {"k": "m", "t": "nhân viên báo hiệu"}
+    ],
+    "k": "yeoman of signals"
+  },
+  {
+    "h": "yeoman service",
+    "segs": [{"k": "m", "t": "việc cứu trợ cấp thời, việc ích thiện."}],
+    "k": "yeoman service"
+  },
+  {
+    "h": "Yeoman Warder",
+    "segs": [{"k": "m", "t": "dt. người canh gác tháp Luân Ðôn."}],
+    "k": "yeoman warder"
+  },
+  {
+    "h": "yeomanly",
+    "segs": [
+      {"k": "m", "t": "Tính từ"},
+      {
+        "k": "m",
+        "t": "1. relating to yeoman: relating to hoặc characteristic of a yeoman hoặc yeomen"
+      },
+      {
+        "k": "m",
+        "t": "2. staunch and dependable: dependable, loyal, và brave (archaic hoặc literary)"
+      },
+      {"k": "m", "t": "adverb"},
+      {"k": "m", "t": "bravely: in a brave và loyal way"}
+    ],
+    "k": "yeomanly"
+  },
+  {
+    "h": "yeomanry",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "tầng lớp tiểu điền chủ"},
+      {"k": "m", "t": "(quân) quân kỵ binh nghĩa dũng."}
+    ],
+    "ipa": "'joumənri",
+    "k": "yeomanry"
+  },
+  {
+    "h": "yeomenry",
+    "segs": [{"k": "m", "t": "dt. (snh.-ies) 1. tầng lớp tiểu chủ. 2. sử quân kỵ binh nghĩa dũng."}],
+    "k": "yeomenry"
+  },
+  {
+    "h": "Yeovil",
+    "segs": [
+      {"k": "m", "t": "town in Somerset, southwestern England."},
+      {"k": "m", "t": "Dân số khoảng: 35,000 (thống kê năm 1993)"}
+    ],
+    "k": "yeovil"
+  },
+  {"h": "yep", "segs": [{"k": "m", "t": "pht. &^dt. (yap) (Mỹ) th.tục = YES."}], "k": "yep"},
+  {"h": "YER", "segs": [{"k": "m", "t": "Viết tắt của banking yearly effective rate"}], "k": "yer"},
+  {
+    "h": "yerba",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yerbas) hoặc yerba maté (số nhiều yerba matés)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "beverages trees như maté (sense 1) (sense 2)"}
+    ],
+    "k": "yerba"
+  },
+  {
+    "h": "Yerevan",
+    "segs": [
+      {
+        "k": "m",
+        "t": "capital và largest city of Armenia, on the Hrazdan River, in the west of the country."
+      },
+      {"k": "m", "t": "Dân số khoảng: 1,250,000 (thống kê năm 2000)"}
+    ],
+    "k": "yerevan"
+  },
+  {
+    "h": "Yerkish",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "chimp language: an artificial language of visual symbols created for experimental communication between chimpanzees và humans"
+      },
+      {"k": "m", "t": "-Yerkish (tính từ)"}
+    ],
+    "k": "yerkish"
+  },
+  {
+    "h": "yersinia",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "disease-causing bacterium: a Gram-negative bacterium that may cause disease in humans và animals."
+      },
+      {
+        "k": "m",
+        "t": "One of these bacteria is a cause of gastric infections, while another causes bubonic plague."
+      },
+      {"k": "m", "t": "Genus: Yersinia"}
+    ],
+    "k": "yersinia"
+  },
+  {
+    "h": "yersiniosis",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "intestinal disease: a condition, mainly found in children và young adults, caused by a bacterium và characterized by intestinal pain và symptoms that resemble appendicitis"
+      }
+    ],
+    "k": "yersiniosis"
+  },
+  {
+    "h": "yes",
+    "segs": [
+      {"k": "pos", "t": "thán từ"},
+      {"k": "m", "t": "vâng, phải, dạ, được, ừ, có, có chứ"},
+      {"k": "ex", "t": "to say yes or no", "vi": "nói có hoặc không"},
+      {"k": "m", "t": "nói được hay không"},
+      {"k": "ex", "t": "You didn't see him? - yes, I did", "vi": "anh không thấy nó à?-có chứ"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "snh."},
+      {"k": "ex", "t": "yeses", "vi": "tiếng vâng dạ, tiếng ừ phải"},
+      {"k": "m", "t": "phiếu đồng ý"},
+      {"k": "m", "t": "phiếu thuận."}
+    ],
+    "ipa": "jes",
+    "k": "yes",
+    "q": {"vi": "vâng, phải, được, dạ, ừ, có", "ipa": "jes", "rs": "dét s"}
+  },
+  {"h": "yes again", "segs": [{"k": "m", "t": "một lần nữa (nhấn mạnh)."}], "k": "yes again"},
+  {
+    "h": "yes-man",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "thtục. người cái gì cũng ừ, người ba phải."}
+    ],
+    "ipa": "'jesmæn",
+    "k": "yes-man"
+  },
+  {"h": "Yes/No", "segs": [{"k": "m", "t": "(Y/N) có / không."}], "k": "yes/no"},
+  {
+    "h": "yes/no question",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yes/no questions)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "question type: a question that can be answered with \"yes\" hoặc \"no\" và that in English begins with an actual hoặc implied verb"
+      }
+    ],
+    "k": "yes/no question"
+  },
+  {"h": "yeses", "segs": [{"k": "ref", "t": "yes"}], "redirect": "yes", "k": "yeses"},
+  {
+    "h": "yeshiva",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(số nhiều yeshivas hoặc yeshivot hoặc yeshivoth) hoặc yeshivah (số nhiều yeshivahs hoặc yeshivot hoặc yeshivoth)"
+      },
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. orthodox Jewish seminary: a seminary for orthodox Jewish, usually unmarried, men where they study the primary source of Jewish law, the Talmud"
+      },
+      {
+        "k": "m",
+        "t": "2. school for Jewish students: a secondary school for Jewish students with a curriculum including religious và cultural, as well as academic, studies"
+      }
+    ],
+    "k": "yeshiva"
+  },
+  {"h": "yesman", "segs": [{"k": "ref", "t": "như yes-man."}], "ipa": "ˈjesmæn", "k": "yesman"},
+  {
+    "h": "yessir",
+    "segs": [
+      {"k": "m", "t": "interjection"},
+      {
+        "k": "m",
+        "t": "used to express agreement: used, often ironically hoặc humorously, to express submissive assent hoặc obedience (thông tục)"
+      }
+    ],
+    "k": "yessir"
+  },
+  {
+    "h": "yester-",
+    "segs": [
+      {"k": "m", "t": "prefix"},
+      {"k": "m", "t": "used to refer to a time in the past denoted by the suffix"},
+      {"k": "m", "t": "yestermorning"}
+    ],
+    "k": "yester-"
+  },
+  {
+    "h": "yester-eve",
+    "segs": [
+      {"k": "m", "t": "Hoặc:"},
+      {"k": "ex", "t": "yester-even, yester-evening", "vi": "phó từ & danh từ"},
+      {"k": "m", "t": "(thơ) chiều qua, tối hôm qua."}
+    ],
+    "ipa": "'jestər'i:v",
+    "k": "yester-eve"
+  },
+  {
+    "h": "yester-even",
+    "segs": [
+      {"k": "m", "t": "Hoặc:"},
+      {"k": "ex", "t": "yester-eve, yester-evening như yester-eve", "vi": "."}
+    ],
+    "ipa": "'jestə'i:vən",
+    "k": "yester-even"
+  },
+  {
+    "h": "yester-evening",
+    "segs": [
+      {"k": "m", "t": "phó từ & danh từ"},
+      {"k": "m", "t": "(thơ) (như)"},
+      {"k": "ex", "t": "yester-eve", "vi": "."}
+    ],
+    "ipa": "'jestə'i:vniŋ",
+    "k": "yester-evening"
+  },
+  {
+    "h": "yester-year",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "quá khứ gần đây"},
+      {"k": "ex", "t": "recalling holidays of yester-year", "vi": "gợi nhớ lại kỳ nghỉ gần đây."}
+    ],
+    "ipa": "'jestə'jiə:",
+    "k": "yester-year"
+  },
+  {
+    "h": "yesterday",
+    "segs": [
+      {"k": "m", "t": "phó từ & danh từ"},
+      {"k": "m", "t": "hôm qua"},
+      {"k": "ex", "t": "yesterday morning", "vi": "sáng hôm qua"},
+      {"k": "ex", "t": "the day before yesterday", "vi": "hôm kia"},
+      {"k": "ex", "t": "yesterday week", "vi": "tám hôm trước."}
+    ],
+    "ipa": "'jestədi",
+    "k": "yesterday",
+    "q": {"vi": "hôm qua", "ipa": "'jestədei", "rs": "jét s thờ đì"}
+  },
+  {
+    "h": "yesterdayness",
+    "segs": [
+      {"k": "m", "t": "(n)"},
+      {"k": "m", "t": "(Tham khảo)"},
+      {"k": "ex", "t": "yesterday", "vi": "."}
+    ],
+    "k": "yesterdayness"
+  },
+  {
+    "h": "yestereve",
+    "segs": [{"k": "ref", "t": "như yester-eve."}],
+    "ipa": "ˈjestər'i:v",
+    "k": "yestereve"
+  },
+  {
+    "h": "yestereven",
+    "segs": [{"k": "ref", "t": "như yester-even."}],
+    "ipa": "ˈjestər'i:vn",
+    "k": "yestereven"
+  },
+  {
+    "h": "yesterevening",
+    "segs": [{"k": "ref", "t": "như yester-evening."}],
+    "ipa": "ˈjestə'i:vniŋ",
+    "k": "yesterevening"
+  },
+  {
+    "h": "yestermorning",
+    "segs": [
+      {"k": "m", "t": "(archaic hoặc literary)"},
+      {"k": "m", "t": "adverb"},
+      {"k": "m", "t": "during yesterday morning: yesterday in the morning"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "yesterday's morning: the morning of yesterday"}
+    ],
+    "k": "yestermorning"
+  },
+  {
+    "h": "yesternight",
+    "segs": [{"k": "m", "t": "phó từ & danh từ"}, {"k": "m", "t": "(thơ) tối hôm trước, tối qua."}],
+    "ipa": "'jestə'nait",
+    "k": "yesternight"
+  },
+  {
+    "h": "yesteryear",
+    "segs": [{"k": "ref", "t": "như yester-year."}],
+    "ipa": "ˈjestə'jə:",
+    "k": "yesteryear"
+  },
+  {
+    "h": "yestreen",
+    "segs": [
+      {"k": "m", "t": "phó từ & danh từ"},
+      {"k": "m", "t": "(thơ) (như)"},
+      {"k": "ex", "t": "yester-eve", "vi": "."}
+    ],
+    "ipa": "jes'tri:n",
+    "k": "yestreen"
+  },
+  {
+    "h": "yet",
+    "segs": [
+      {"k": "pos", "t": "phó từ"},
+      {"k": "m", "t": "vào lúc này hay lúc ấy"},
+      {"k": "m", "t": "cho đến bây giờ/lúc đó"},
+      {"k": "m", "t": "còn"},
+      {"k": "m", "t": "chưa"},
+      {
+        "k": "ex",
+        "t": "I haven't received a letter from him yet; I didn't receive a letter from him yet",
+        "vi": "tôi chưa nhận được lá thư nào của anh ta"
+      },
+      {"k": "ex", "t": "Are you ready? - No, not yet", "vi": "anh sẵn sàng chưa-Chưa"},
+      {
+        "k": "ex",
+        "t": "she was not yet sure if she could trust him",
+        "vi": "cô ta vẫn chưa chắc là có nên tin hắn không"
+      },
+      {
+        "k": "ex",
+        "t": "I doubt if he has read it yet",
+        "vi": "tôi không biết anh ta đọc cái đó chưa"
+      },
+      {"k": "m", "t": "còn"},
+      {"k": "m", "t": "hãy còn"},
+      {"k": "ex", "t": "we may win yet", "vi": "chúng ta còn có thể thắng"},
+      {
+        "k": "ex",
+        "t": "she may surprise us all yet",
+        "vi": "cô ta còn có thể làm tất cả chúng ta ngạc nhiên"
+      },
+      {"k": "ex", "t": "we can yet reach our destination", "vi": "chúng ta còn có thể đi tới đích"},
+      {"k": "ex", "t": "we have ten minutes yet", "vi": "chúng ta còn mười phút nữa"},
+      {"k": "ex", "t": "I remember him yet", "vi": "tôi còn nhớ anh ta"},
+      {"k": "ex", "t": "while he was yet asleep", "vi": "trong khi anh ta còn đang ngủ"},
+      {"k": "ex", "t": "there is much yet to do", "vi": "hãy còn nhiều việc phải làm lắm"},
+      {"k": "ex", "t": "you must work yet harder", "vi": "anh còn phải làm việc tích cực hơn nữa"},
+      {
+        "k": "ex",
+        "t": "I have a yet more important thing to say",
+        "vi": "tôi còn có một điều quan trọng hơn nữa để nói"
+      },
+      {"k": "m", "t": "bây giờ, lúc này"},
+      {"k": "ex", "t": "can't you tell me yet?", "vi": "bây giờ anh có thể nói với tôi được chưa?"},
+      {"k": "ex", "t": "we needn't do it just yet", "vi": "chúng ta chẳng cần làm điều đó lúc này"},
+      {"k": "ex", "t": "don't go yet", "vi": "đừng đi vội"},
+      {"k": "ex", "t": "you don't need to start yet", "vi": "anh chưa cần phải bắt đầu vội"},
+      {"k": "m", "t": "(dùng sau cấp so sánh cao nhất) cho đến nay"},
+      {
+        "k": "ex",
+        "t": "the most comprehensive study yet of his poetry",
+        "vi": "công trình nghiên cứu toàn diện nhất về thơ của ông ấy cho đến nay"
+      },
+      {
+        "k": "ex",
+        "t": "the highest building yet constructed",
+        "vi": "tòa nhà cao nhất được xây cất từ xưa đến giờ"
+      },
+      {
+        "k": "ex",
+        "t": "her best novel yet",
+        "vi": "cuốn truyện hay nhất của chị ấy từ trước đến nay"
+      },
+      {"k": "m", "t": "(đứng trước các từ ở cấp so sánh) lại còn"},
+      {"k": "m", "t": "ngay cả"},
+      {
+        "k": "ex",
+        "t": "yet one more example of criminal negligence",
+        "vi": "lại thêm một ví dụ nữa về sự cẩu thả chết người"
+      },
+      {
+        "k": "ex",
+        "t": "yet another victim of government policy on national health funding",
+        "vi": "lại thêm một nạn nhân của chính sách chính phủ về quỹ y tế quốc gia"
+      },
+      {
+        "k": "ex",
+        "t": "a recent and yet more improbable theory",
+        "vi": "một học thuyết mới nhưng lại còn bấp bênh hơn"
+      },
+      {"k": "ex", "t": "advancing yet further", "vi": "còn tiến xa hơn nữa"},
+      {"k": "ex", "t": "as yet", "vi": "cho đến nay, cho đến bây giờ"},
+      {
+        "k": "ex",
+        "t": "an as yet unpublished document",
+        "vi": "một tài liệu cho đến nay chưa được công bố"
+      },
+      {"k": "ex", "t": "yet again", "vi": "một lần nữa"},
+      {
+        "k": "ex",
+        "t": "yet again we can see the results of hasty decision-making",
+        "vi": "một lần nữa chúng ta có thể thấy kết quả của việc ra quyết định vội vàng"
+      },
+      {"k": "pos", "t": "liên từ"},
+      {"k": "m", "t": "song, vậy mà, tuy nhiên"},
+      {"k": "ex", "t": "slow yet thorough", "vi": "chậm mà chắc"},
+      {
+        "k": "ex",
+        "t": "he worked hard, yet he failed",
+        "vi": "hắn ta làm việc tích cực, ấy thế mà lại trượt"
+      },
+      {"k": "ex", "t": "it is strange, yet true", "vi": "thật là kỳ lạ, nhưng mà đúng sự thực."}
+    ],
+    "ipa": "jet",
+    "k": "yet",
+    "q": {"vi": "chưa, lúc này, tuy thế, nhưng, dù sao, vả lại", "ipa": "jet", "rs": "dét t"}
+  },
+  {
+    "h": "yeti",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "người tuyết ở Himalaya (cũng gọi là"},
+      {"k": "ex", "t": "Abominable Snowman", "vi": ")."}
+    ],
+    "ipa": "'jeti",
+    "k": "yeti"
+  },
+  {
+    "h": "yettie",
+    "segs": [
+      {"k": "m", "t": "(số nhiều yetties)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "young Internet entrepreneur: a young, technologically knowledgeable entrepreneur who is involved in e-commerce và who typically buys và sells technology stock (lóng)"
+      }
+    ],
+    "k": "yettie"
+  },
+  {
+    "h": "yew",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(thực) cây thủy tùng ((cũng)"},
+      {"k": "ex", "t": "yew-tree", "vi": ") gỗ thủy tùng."}
+    ],
+    "ipa": "ju:",
+    "k": "yew"
+  },
+  {"h": "Yew Sunday", "segs": [{"k": "m", "t": "Lễ Lá (xưa)."}], "k": "yew sunday"},
+  {
+    "h": "yew-tree",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "ref", "t": "như yew."}],
+    "ipa": "ju:tri:",
+    "k": "yew-tree"
+  },
+  {
+    "h": "Yezidi",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Yezidis)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "member of Kurdish religious group: a member of a Kurdish religious group founded by an Muslim mystic in the 12th century but incorporating Iranian myth và tradition."
+      },
+      {
+        "k": "m",
+        "t": "The group has been declared as heretical by orthodox Muslims và has been the object of intense persecution."
+      },
+      {"k": "m", "t": "-Yezidism (danh từ)"}
+    ],
+    "k": "yezidi"
+  }
+]

@@ -1,1 +1,67 @@
-[{"h":"-genous","segs":[{"k":"m","t":"k.h. cách hình thành^tt. mang nghĩa \"sinh ra\" (endo-genous sinh trong, nội sinh)."}],"k":"-genous"},{"h":"-geny","segs":[{"k":"m","t":"k.h.^dt. nguồn gốc, sự phát sinh."}],"ipa":"'dʒeni","k":"-geny"},{"h":"-gnathous","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"having a particular kind of jaw"},{"k":"m","t":"prognathous"}],"k":"-gnathous"},{"h":"-gon","segs":[{"k":"m","t":"k.h. danh từ được kết hợp chỉ hình dạng hình học có nhiều góc."}],"ipa":"gən","k":"-gon"},{"h":"-gony","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"1. origin"},{"k":"m","t":"cosmogony"},{"k":"m","t":"2. method of reproduction"},{"k":"m","t":"schizogony"}],"k":"-gony"},{"h":"-graphy","segs":[{"k":"m","t":"k.h. cách hình thành hình thành nên những danh từ dùng để chỉ 1. khoa học mô tả (geography địa lý) 2. kỹ thuật của sản phẩm tạo ra hình ảnh (photography ảnh) 3. phương pháp viết (calligraphy lối viết, kiểu viết)."}],"k":"-graphy"},{"h":"-gyne","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"1. female"},{"k":"m","t":"androgyne"},{"k":"m","t":"2. female reproductive organ"},{"k":"m","t":"trichogyne"},{"k":"m","t":"--gynous, suffix"},{"k":"m","t":"--gyny, suffix"}],"k":"-gyne"}]
+[
+  {
+    "h": "-genous",
+    "segs": [
+      {
+        "k": "m",
+        "t": "k.h. cách hình thành^tt. mang nghĩa \"sinh ra\" (endo-genous sinh trong, nội sinh)."
+      }
+    ],
+    "k": "-genous"
+  },
+  {
+    "h": "-geny",
+    "segs": [{"k": "m", "t": "k.h.^dt. nguồn gốc, sự phát sinh."}],
+    "ipa": "'dʒeni",
+    "k": "-geny"
+  },
+  {
+    "h": "-gnathous",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "having a particular kind of jaw"},
+      {"k": "m", "t": "prognathous"}
+    ],
+    "k": "-gnathous"
+  },
+  {
+    "h": "-gon",
+    "segs": [{"k": "m", "t": "k.h. danh từ được kết hợp chỉ hình dạng hình học có nhiều góc."}],
+    "ipa": "gən",
+    "k": "-gon"
+  },
+  {
+    "h": "-gony",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "1. origin"},
+      {"k": "m", "t": "cosmogony"},
+      {"k": "m", "t": "2. method of reproduction"},
+      {"k": "m", "t": "schizogony"}
+    ],
+    "k": "-gony"
+  },
+  {
+    "h": "-graphy",
+    "segs": [
+      {
+        "k": "m",
+        "t": "k.h. cách hình thành hình thành nên những danh từ dùng để chỉ 1. khoa học mô tả (geography địa lý) 2. kỹ thuật của sản phẩm tạo ra hình ảnh (photography ảnh) 3. phương pháp viết (calligraphy lối viết, kiểu viết)."
+      }
+    ],
+    "k": "-graphy"
+  },
+  {
+    "h": "-gyne",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "1. female"},
+      {"k": "m", "t": "androgyne"},
+      {"k": "m", "t": "2. female reproductive organ"},
+      {"k": "m", "t": "trichogyne"},
+      {"k": "m", "t": "--gynous, suffix"},
+      {"k": "m", "t": "--gyny, suffix"}
+    ],
+    "k": "-gyne"
+  }
+]

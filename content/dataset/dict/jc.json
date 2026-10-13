@@ -1,1 +1,57 @@
-[{"h":"JC","segs":[{"k":"m","t":"Viết tắt của education junior college"}],"k":"jc"},{"h":"JCB","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"máy đào, máy xúc (có cái xúc và cần xúc)"}],"k":"jcb"},{"h":"JCB card","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"thẻ JCB"}],"k":"jcb card"},{"h":"JCC","segs":[{"k":"m","t":"Viết tắt của judaism Jewish Community Center"}],"k":"jcc"},{"h":"JCF","segs":[{"k":"m","t":"(job control file) tập tin điều khiển công việc, tập tin kiểm soát công việc."}],"k":"jcf"},{"h":"JCL","segs":[{"k":"m","t":"(job control language) ngôn ngữ điều khiển công việc."}],"k":"jcl"},{"h":"JCM","segs":[{"k":"m","t":"(job cylinder map) sơ đồ mặt trụ công việc."}],"k":"jcm"},{"h":"jcr","segs":[{"k":"m","t":"(tắt) phòng họp của sinh viên ("},{"k":"ex","t":"Junior Common Rom","vi":") sinh viên nói chung."}],"ipa":"'dʒei si: a:","k":"jcr"},{"h":"JCS","segs":[{"k":"m","t":"(job control statement) câu lệnh điều khiển công việc."}],"k":"jcs"},{"h":"JCT","segs":[{"k":"m","t":"(journal control table) bảng điều khiển nhật ký."}],"k":"jct"},{"h":"jct.","segs":[{"k":"m","t":"Viết tắt của junction"}],"k":"jct."}]
+[
+  {"h": "JC", "segs": [{"k": "m", "t": "Viết tắt của education junior college"}], "k": "jc"},
+  {
+    "h": "JCB",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "máy đào, máy xúc (có cái xúc và cần xúc)"}
+    ],
+    "k": "jcb"
+  },
+  {
+    "h": "JCB card",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "thẻ JCB"}],
+    "k": "jcb card"
+  },
+  {
+    "h": "JCC",
+    "segs": [{"k": "m", "t": "Viết tắt của judaism Jewish Community Center"}],
+    "k": "jcc"
+  },
+  {
+    "h": "JCF",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(job control file) tập tin điều khiển công việc, tập tin kiểm soát công việc."
+      }
+    ],
+    "k": "jcf"
+  },
+  {
+    "h": "JCL",
+    "segs": [{"k": "m", "t": "(job control language) ngôn ngữ điều khiển công việc."}],
+    "k": "jcl"
+  },
+  {"h": "JCM", "segs": [{"k": "m", "t": "(job cylinder map) sơ đồ mặt trụ công việc."}], "k": "jcm"},
+  {
+    "h": "jcr",
+    "segs": [
+      {"k": "m", "t": "(tắt) phòng họp của sinh viên ("},
+      {"k": "ex", "t": "Junior Common Rom", "vi": ") sinh viên nói chung."}
+    ],
+    "ipa": "'dʒei si: a:",
+    "k": "jcr"
+  },
+  {
+    "h": "JCS",
+    "segs": [{"k": "m", "t": "(job control statement) câu lệnh điều khiển công việc."}],
+    "k": "jcs"
+  },
+  {
+    "h": "JCT",
+    "segs": [{"k": "m", "t": "(journal control table) bảng điều khiển nhật ký."}],
+    "k": "jct"
+  },
+  {"h": "jct.", "segs": [{"k": "m", "t": "Viết tắt của junction"}], "k": "jct."}
+]

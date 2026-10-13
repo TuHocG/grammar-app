@@ -1,1 +1,23 @@
-[{"h":"YC","segs":[{"k":"m","t":"Viết tắt của U.K. politics Young Conservative"}],"k":"yc"},{"h":"yclept","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(cổ), (đùa cợt) tên là, tên gọi là."}],"ipa":"i'klept","k":"yclept"},{"h":"yconnection","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đấu hình sao"},{"k":"m","t":"mắc hình sao"},{"k":"m","t":"mạng ba nhánh"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đấu chữ Y"},{"k":"m","t":"mắc chữ Y"},{"k":"m","t":"mạng chữ Y"}],"k":"yconnection"}]
+[
+  {"h": "YC", "segs": [{"k": "m", "t": "Viết tắt của U.K. politics Young Conservative"}], "k": "yc"},
+  {
+    "h": "yclept",
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(cổ), (đùa cợt) tên là, tên gọi là."}],
+    "ipa": "i'klept",
+    "k": "yclept"
+  },
+  {
+    "h": "yconnection",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đấu hình sao"},
+      {"k": "m", "t": "mắc hình sao"},
+      {"k": "m", "t": "mạng ba nhánh"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đấu chữ Y"},
+      {"k": "m", "t": "mắc chữ Y"},
+      {"k": "m", "t": "mạng chữ Y"}
+    ],
+    "k": "yconnection"
+  }
+]

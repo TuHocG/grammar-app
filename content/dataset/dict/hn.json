@@ -1,1 +1,25 @@
-[{"h":"hn","segs":[{"k":"m","t":"Viết tắt của Honduras (used in Internet addresses)"}],"k":"hn"},{"h":"hnc","segs":[{"k":"m","t":"(tắt) chứng chỉ cao học quốc gia ("},{"k":"ex","t":"Higher National Certificate","vi":")."}],"ipa":",eitʃ en 'si:","k":"hnc"},{"h":"hnd","segs":[{"k":"m","t":"(tắt) Bằng kỹ sư ("},{"k":"ex","t":"Higher National Diploma","vi":")."}],"ipa":",eitʃ en 'di:","k":"hnd"}]
+[
+  {
+    "h": "hn",
+    "segs": [{"k": "m", "t": "Viết tắt của Honduras (used in Internet addresses)"}],
+    "k": "hn"
+  },
+  {
+    "h": "hnc",
+    "segs": [
+      {"k": "m", "t": "(tắt) chứng chỉ cao học quốc gia ("},
+      {"k": "ex", "t": "Higher National Certificate", "vi": ")."}
+    ],
+    "ipa": ",eitʃ en 'si:",
+    "k": "hnc"
+  },
+  {
+    "h": "hnd",
+    "segs": [
+      {"k": "m", "t": "(tắt) Bằng kỹ sư ("},
+      {"k": "ex", "t": "Higher National Diploma", "vi": ")."}
+    ],
+    "ipa": ",eitʃ en 'di:",
+    "k": "hnd"
+  }
+]

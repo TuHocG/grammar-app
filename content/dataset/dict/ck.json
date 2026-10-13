@@ -1,1 +1,40 @@
-[{"h":"ck","segs":[{"k":"m","t":"Viết tắt của Cook Islands (used in Internet addresses)"}],"k":"ck"},{"h":"ck.","segs":[{"k":"m","t":"Viết tắt của 1. measurements cask"},{"k":"m","t":"2. banking check"}],"k":"ck."},{"h":"CKD","segs":[{"k":"m","t":"1. count-key-data dạng thức gồm trường đếm-trường khóa-dữ liệu. 2. cryptographic key distribution center trung tâm phân phối khóa mã."}],"k":"ckd"},{"h":"CKDS","segs":[{"k":"m","t":"(cryplographic key data set) tập dữ liệu khóa mã."}],"k":"ckds"},{"h":"CKO","segs":[{"k":"m","t":"Viết tắt của business chief knowledge officer"}],"k":"cko"},{"h":"CKT","segs":[{"k":"m","t":"(cryptographic key translation center) tâm diễn dịch phím mã."}],"k":"ckt"}]
+[
+  {
+    "h": "ck",
+    "segs": [{"k": "m", "t": "Viết tắt của Cook Islands (used in Internet addresses)"}],
+    "k": "ck"
+  },
+  {
+    "h": "ck.",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. measurements cask"},
+      {"k": "m", "t": "2. banking check"}
+    ],
+    "k": "ck."
+  },
+  {
+    "h": "CKD",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. count-key-data dạng thức gồm trường đếm-trường khóa-dữ liệu. 2. cryptographic key distribution center trung tâm phân phối khóa mã."
+      }
+    ],
+    "k": "ckd"
+  },
+  {
+    "h": "CKDS",
+    "segs": [{"k": "m", "t": "(cryplographic key data set) tập dữ liệu khóa mã."}],
+    "k": "ckds"
+  },
+  {
+    "h": "CKO",
+    "segs": [{"k": "m", "t": "Viết tắt của business chief knowledge officer"}],
+    "k": "cko"
+  },
+  {
+    "h": "CKT",
+    "segs": [{"k": "m", "t": "(cryptographic key translation center) tâm diễn dịch phím mã."}],
+    "k": "ckt"
+  }
+]

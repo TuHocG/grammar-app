@@ -1,1 +1,12 @@
-[{"h":"RQ cycle","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chu kỳ RQ"}],"k":"rq cycle"},{"h":"RQE","segs":[{"k":"m","t":"(reply queue element) phần tử hàng đợi trả lời."}],"k":"rqe"}]
+[
+  {
+    "h": "RQ cycle",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chu kỳ RQ"}],
+    "k": "rq cycle"
+  },
+  {
+    "h": "RQE",
+    "segs": [{"k": "m", "t": "(reply queue element) phần tử hàng đợi trả lời."}],
+    "k": "rqe"
+  }
+]

@@ -1,1 +1,113 @@
-[{"h":"Ln","segs":[{"k":"m","t":"vt. logarit tự nhiên."}],"k":"ln"},{"h":"LN2 freezer","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy kết đông cryo"},{"k":"m","t":"máy kết đông nitơ lỏng"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy kết đông cryo"},{"k":"m","t":"máy kết đông nitơ lỏng"}],"k":"ln2 freezer"},{"h":"LNA","segs":[{"k":"m","t":"(Local Network Architecture) kiến trúc mạng cục bộ, cấu trúc mạng nội vùng."}],"k":"lna"},{"h":"lndirect excitation","segs":[{"k":"m","t":"kích thích gián tiếp."}],"k":"lndirect excitation"},{"h":"lndustrial anthrax","segs":[{"k":"m","t":"bệnh than công nghiệp."}],"k":"lndustrial anthrax"},{"h":"lNEQUALITY","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bất đẳng thức"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bất đẳng thức"}],"k":"lnequality"},{"h":"lnfantile paralysis","segs":[{"k":"m","t":"bệnh bại liệt trẻ em."}],"k":"lnfantile paralysis"},{"h":"lnfiltration anesthesia","segs":[{"k":"m","t":"gây tê tiêm ngấm."}],"k":"lnfiltration anesthesia"},{"h":"LNG","segs":[{"k":"m","t":"Viết tắt của liquefied natural gas"}],"k":"lng"},{"h":"lnotropic arrhythmia","segs":[{"k":"m","t":"loạn nhịp tính co cơ tim."}],"k":"lnotropic arrhythmia"},{"h":"lnsertion","segs":[{"k":"m","t":"đầu bám (trong giải phẫu học). điểm bám của một cơ."}],"k":"lnsertion"},{"h":"lntaked air","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khí hút vào"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khí hút vào"}],"k":"lntaked air"},{"h":"lntal","segs":[{"k":"m","t":"xem cromolyn sodium."}],"k":"lntal"},{"h":"lntermalleolar","segs":[{"k":"m","t":"gnan mắt cá."}],"k":"lntermalleolar"},{"h":"lntermittent claudication","segs":[{"k":"m","t":"tập tễnh cách hồi, khập khễnh cách hồi."}],"k":"lntermittent claudication"},{"h":"lnternal heat","segs":[{"k":"m","t":"nội nhiệt."}],"k":"lnternal heat"},{"h":"lnterpeduncular nucleus","segs":[{"k":"m","t":"nhân gian cuống não."}],"k":"lnterpeduncular nucleus"},{"h":"lnterradicular septum","segs":[{"k":"m","t":"vách gian chân răng."}],"k":"lnterradicular septum"},{"h":"lnterstitial hernia","segs":[{"k":"m","t":"thoát vị khe (thành bụng)."}],"k":"lnterstitial hernia"},{"h":"lntertuberal line","segs":[{"k":"m","t":"đường ụ trán."}],"k":"lntertuberal line"},{"h":"lntestinal anastomosis","segs":[{"k":"m","t":"nối ruột."}],"k":"lntestinal anastomosis"},{"h":"lntestinal angina","segs":[{"k":"m","t":"đau thắt ruột."}],"k":"lntestinal angina"},{"h":"lntoxicatiry dose","segs":[{"k":"m","t":"liều gây nhiễm độc."}],"k":"lntoxicatiry dose"},{"h":"lntramural aneurysm","segs":[{"k":"m","t":"phình mạch trong thành."}],"k":"lntramural aneurysm"}]
+[
+  {"h": "Ln", "segs": [{"k": "m", "t": "vt. logarit tự nhiên."}], "k": "ln"},
+  {
+    "h": "LN2 freezer",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "máy kết đông cryo"},
+      {"k": "m", "t": "máy kết đông nitơ lỏng"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "máy kết đông cryo"},
+      {"k": "m", "t": "máy kết đông nitơ lỏng"}
+    ],
+    "k": "ln2 freezer"
+  },
+  {
+    "h": "LNA",
+    "segs": [
+      {"k": "m", "t": "(Local Network Architecture) kiến trúc mạng cục bộ, cấu trúc mạng nội vùng."}
+    ],
+    "k": "lna"
+  },
+  {
+    "h": "lndirect excitation",
+    "segs": [{"k": "m", "t": "kích thích gián tiếp."}],
+    "k": "lndirect excitation"
+  },
+  {
+    "h": "lndustrial anthrax",
+    "segs": [{"k": "m", "t": "bệnh than công nghiệp."}],
+    "k": "lndustrial anthrax"
+  },
+  {
+    "h": "lNEQUALITY",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bất đẳng thức"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bất đẳng thức"}
+    ],
+    "k": "lnequality"
+  },
+  {
+    "h": "lnfantile paralysis",
+    "segs": [{"k": "m", "t": "bệnh bại liệt trẻ em."}],
+    "k": "lnfantile paralysis"
+  },
+  {
+    "h": "lnfiltration anesthesia",
+    "segs": [{"k": "m", "t": "gây tê tiêm ngấm."}],
+    "k": "lnfiltration anesthesia"
+  },
+  {"h": "LNG", "segs": [{"k": "m", "t": "Viết tắt của liquefied natural gas"}], "k": "lng"},
+  {
+    "h": "lnotropic arrhythmia",
+    "segs": [{"k": "m", "t": "loạn nhịp tính co cơ tim."}],
+    "k": "lnotropic arrhythmia"
+  },
+  {
+    "h": "lnsertion",
+    "segs": [{"k": "m", "t": "đầu bám (trong giải phẫu học). điểm bám của một cơ."}],
+    "k": "lnsertion"
+  },
+  {
+    "h": "lntaked air",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "khí hút vào"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "khí hút vào"}
+    ],
+    "k": "lntaked air"
+  },
+  {"h": "lntal", "segs": [{"k": "m", "t": "xem cromolyn sodium."}], "k": "lntal"},
+  {"h": "lntermalleolar", "segs": [{"k": "m", "t": "gnan mắt cá."}], "k": "lntermalleolar"},
+  {
+    "h": "lntermittent claudication",
+    "segs": [{"k": "m", "t": "tập tễnh cách hồi, khập khễnh cách hồi."}],
+    "k": "lntermittent claudication"
+  },
+  {"h": "lnternal heat", "segs": [{"k": "m", "t": "nội nhiệt."}], "k": "lnternal heat"},
+  {
+    "h": "lnterpeduncular nucleus",
+    "segs": [{"k": "m", "t": "nhân gian cuống não."}],
+    "k": "lnterpeduncular nucleus"
+  },
+  {
+    "h": "lnterradicular septum",
+    "segs": [{"k": "m", "t": "vách gian chân răng."}],
+    "k": "lnterradicular septum"
+  },
+  {
+    "h": "lnterstitial hernia",
+    "segs": [{"k": "m", "t": "thoát vị khe (thành bụng)."}],
+    "k": "lnterstitial hernia"
+  },
+  {"h": "lntertuberal line", "segs": [{"k": "m", "t": "đường ụ trán."}], "k": "lntertuberal line"},
+  {
+    "h": "lntestinal anastomosis",
+    "segs": [{"k": "m", "t": "nối ruột."}],
+    "k": "lntestinal anastomosis"
+  },
+  {"h": "lntestinal angina", "segs": [{"k": "m", "t": "đau thắt ruột."}], "k": "lntestinal angina"},
+  {
+    "h": "lntoxicatiry dose",
+    "segs": [{"k": "m", "t": "liều gây nhiễm độc."}],
+    "k": "lntoxicatiry dose"
+  },
+  {
+    "h": "lntramural aneurysm",
+    "segs": [{"k": "m", "t": "phình mạch trong thành."}],
+    "k": "lntramural aneurysm"
+  }
+]

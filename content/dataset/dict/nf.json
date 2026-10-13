@@ -1,1 +1,69 @@
-[{"h":"nF","segs":[{"k":"m","t":"(nanofarad) Nanofarad, bằng 10 lũy thừa 9 farad."}],"k":"nf"},{"h":"NFB","segs":[{"k":"m","t":"Viết tắt của Canada National Film Board"}],"k":"nfb"},{"h":"NFC","segs":[{"k":"m","t":"Viết tắt của U.S. football National Football Conference"}],"k":"nfc"},{"h":"Nfd.","segs":[{"k":"m","t":"Viết tắt của Newfoundland"}],"k":"nfd."},{"h":"NFER","segs":[{"k":"m","t":"Viết tắt của U.K. education National Foundation for Educational Research"}],"k":"nfer"},{"h":"NFF","segs":[{"k":"m","t":"(no fault found) không tìm thấy sai hỏng."}],"k":"nff"},{"h":"NFFE","segs":[{"k":"m","t":"Viết tắt của U.S. human resources National Federation of Federal Employees"}],"k":"nffe"},{"h":"NFL","segs":[{"k":"m","t":"Viết tắt của U.S. football National Football League"}],"k":"nfl"},{"h":"Nfld.","segs":[{"k":"m","t":"Viết tắt của Newfoundland"}],"k":"nfld."},{"h":"NFNT","segs":[{"k":"m","t":"(new font numbering table) bảng đánh số phông chữ mới."}],"k":"nfnt"},{"h":"NFO","segs":[{"k":"m","t":"Viết tắt của navy naval flight officer"}],"k":"nfo"},{"h":"NFS","segs":[{"k":"m","t":"Viết tắt của 1. comput network file service"},{"k":"m","t":"2. comput network file system"},{"k":"m","t":"3. not for sale"}],"k":"nfs"},{"h":"NFSNET","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạng NSFNET"}],"k":"nfsnet"},{"h":"NFT","segs":[{"k":"m","t":"Viết tắt của 1. U.K. National Film Theatre"},{"k":"m","t":"2. time Newfoundland Time"}],"k":"nft"},{"h":"NFU","segs":[{"k":"m","t":"Viết tắt của U.K. National Farmers' Union"}],"k":"nfu"},{"h":"NFWI","segs":[{"k":"m","t":"Viết tắt của U.K. National Federation of Women's Institutes"}],"k":"nfwi"}]
+[
+  {
+    "h": "nF",
+    "segs": [{"k": "m", "t": "(nanofarad) Nanofarad, bằng 10 lũy thừa 9 farad."}],
+    "k": "nf"
+  },
+  {"h": "NFB", "segs": [{"k": "m", "t": "Viết tắt của Canada National Film Board"}], "k": "nfb"},
+  {
+    "h": "NFC",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. football National Football Conference"}],
+    "k": "nfc"
+  },
+  {"h": "Nfd.", "segs": [{"k": "m", "t": "Viết tắt của Newfoundland"}], "k": "nfd."},
+  {
+    "h": "NFER",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.K. education National Foundation for Educational Research"}
+    ],
+    "k": "nfer"
+  },
+  {"h": "NFF", "segs": [{"k": "m", "t": "(no fault found) không tìm thấy sai hỏng."}], "k": "nff"},
+  {
+    "h": "NFFE",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.S. human resources National Federation of Federal Employees"}
+    ],
+    "k": "nffe"
+  },
+  {
+    "h": "NFL",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. football National Football League"}],
+    "k": "nfl"
+  },
+  {"h": "Nfld.", "segs": [{"k": "m", "t": "Viết tắt của Newfoundland"}], "k": "nfld."},
+  {
+    "h": "NFNT",
+    "segs": [{"k": "m", "t": "(new font numbering table) bảng đánh số phông chữ mới."}],
+    "k": "nfnt"
+  },
+  {"h": "NFO", "segs": [{"k": "m", "t": "Viết tắt của navy naval flight officer"}], "k": "nfo"},
+  {
+    "h": "NFS",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. comput network file service"},
+      {"k": "m", "t": "2. comput network file system"},
+      {"k": "m", "t": "3. not for sale"}
+    ],
+    "k": "nfs"
+  },
+  {
+    "h": "NFSNET",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạng NSFNET"}],
+    "k": "nfsnet"
+  },
+  {
+    "h": "NFT",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. U.K. National Film Theatre"},
+      {"k": "m", "t": "2. time Newfoundland Time"}
+    ],
+    "k": "nft"
+  },
+  {"h": "NFU", "segs": [{"k": "m", "t": "Viết tắt của U.K. National Farmers' Union"}], "k": "nfu"},
+  {
+    "h": "NFWI",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. National Federation of Women's Institutes"}],
+    "k": "nfwi"
+  }
+]

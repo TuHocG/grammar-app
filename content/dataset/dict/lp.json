@@ -1,1 +1,105 @@
-[{"h":"lp","segs":[{"k":"m","t":"(tắt) (đĩa hát) chơi được 33 vòng/phút ("},{"k":"ex","t":"long playing","vi":")."}],"ipa":"el'pi:","k":"lp"},{"h":"LP (Licensed Program)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình đã đăng ký"},{"k":"m","t":"chương trình được cấp phép"}],"k":"lp (licensed program)"},{"h":"LP (Linear Programming)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự lập trình tuyến tính"}],"k":"lp (linear programming)"},{"h":"LPA","segs":[{"k":"m","t":"(link pack area) vùng bó liên kết."}],"k":"lpa"},{"h":"LPAGE","segs":[{"k":"m","t":"(logical page) trang loại."}],"k":"lpage"},{"h":"LPAGE (logical page)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"trang loại"}],"k":"lpage (logical page)"},{"h":"LPC","segs":[{"k":"m","t":"1. link protocol converter bộ chuyển đổi giao thức liên kết. 2. longitudinal parity character ký tự chẵn lẻ dọc."}],"k":"lpc"},{"h":"LPC coder","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ mã hóa LPC"}],"k":"lpc coder"},{"h":"LPDA","segs":[{"k":"m","t":"(Link Problem Determination Aid) sự trợ giúp xác định vấn đề liên kết."}],"k":"lpda"},{"h":"LPG","segs":[{"k":"m","t":"Viết tắt của liquefied petroleum gas"}],"k":"lpg"},{"h":"LPG (liquefied petroleum)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khí dầu mỏ hóa lỏng"}],"k":"lpg (liquefied petroleum)"},{"h":"LPGA","segs":[{"k":"m","t":"Viết tắt của golf Ladies Professional Golf Association"}],"k":"lpga"},{"h":"lpha(nu)meric(al) information","segs":[{"k":"m","t":"thông tin (bằng) chữ số."}],"k":"lpha(nu)meric(al) information"},{"h":"lpi","segs":[{"k":"m","t":"(lines per inch) số dòng trong một inch."}],"k":"lpi"},{"h":"LPID","segs":[{"k":"m","t":"(logical page identifier) ký hiệu nhận dạng trang logic, bộ nhận biệt trang logic."}],"k":"lpid"},{"h":"lplate","segs":[{"k":"ref","t":"như l-plate."}],"ipa":"ˈelpleit","k":"lplate"},{"h":"lpm","segs":[{"k":"m","t":"(lines per minute) số dòng trong một phút."}],"k":"lpm"},{"h":"LPN","segs":[{"k":"m","t":"(logical page number) số trang logic."}],"k":"lpn"},{"h":"lpo","segs":[{"k":"m","t":"(tắt) dàn nhạc hòa tấu Luân Ðôn (London philharmonic orchestra)."}],"ipa":",el pi:'ou","k":"lpo"},{"h":"LPS","segs":[{"k":"m","t":"Viết tắt của microbiology lipopolysaccharide"}],"k":"lps"},{"h":"LPT","segs":[{"k":"m","t":"Trong DOS, LPT là tên thiết bị được gán cho một cổng song song, nơi mà bạn có thể mắc máy in song song vào đó."}],"k":"lpt"}]
+[
+  {
+    "h": "lp",
+    "segs": [
+      {"k": "m", "t": "(tắt) (đĩa hát) chơi được 33 vòng/phút ("},
+      {"k": "ex", "t": "long playing", "vi": ")."}
+    ],
+    "ipa": "el'pi:",
+    "k": "lp"
+  },
+  {
+    "h": "LP (Licensed Program)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chương trình đã đăng ký"},
+      {"k": "m", "t": "chương trình được cấp phép"}
+    ],
+    "k": "lp (licensed program)"
+  },
+  {
+    "h": "LP (Linear Programming)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự lập trình tuyến tính"}],
+    "k": "lp (linear programming)"
+  },
+  {"h": "LPA", "segs": [{"k": "m", "t": "(link pack area) vùng bó liên kết."}], "k": "lpa"},
+  {"h": "LPAGE", "segs": [{"k": "m", "t": "(logical page) trang loại."}], "k": "lpage"},
+  {
+    "h": "LPAGE (logical page)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "trang loại"}],
+    "k": "lpage (logical page)"
+  },
+  {
+    "h": "LPC",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. link protocol converter bộ chuyển đổi giao thức liên kết. 2. longitudinal parity character ký tự chẵn lẻ dọc."
+      }
+    ],
+    "k": "lpc"
+  },
+  {
+    "h": "LPC coder",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ mã hóa LPC"}],
+    "k": "lpc coder"
+  },
+  {
+    "h": "LPDA",
+    "segs": [
+      {"k": "m", "t": "(Link Problem Determination Aid) sự trợ giúp xác định vấn đề liên kết."}
+    ],
+    "k": "lpda"
+  },
+  {"h": "LPG", "segs": [{"k": "m", "t": "Viết tắt của liquefied petroleum gas"}], "k": "lpg"},
+  {
+    "h": "LPG (liquefied petroleum)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "khí dầu mỏ hóa lỏng"}],
+    "k": "lpg (liquefied petroleum)"
+  },
+  {
+    "h": "LPGA",
+    "segs": [{"k": "m", "t": "Viết tắt của golf Ladies Professional Golf Association"}],
+    "k": "lpga"
+  },
+  {
+    "h": "lpha(nu)meric(al) information",
+    "segs": [{"k": "m", "t": "thông tin (bằng) chữ số."}],
+    "k": "lpha(nu)meric(al) information"
+  },
+  {"h": "lpi", "segs": [{"k": "m", "t": "(lines per inch) số dòng trong một inch."}], "k": "lpi"},
+  {
+    "h": "LPID",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(logical page identifier) ký hiệu nhận dạng trang logic, bộ nhận biệt trang logic."
+      }
+    ],
+    "k": "lpid"
+  },
+  {"h": "lplate", "segs": [{"k": "ref", "t": "như l-plate."}], "ipa": "ˈelpleit", "k": "lplate"},
+  {"h": "lpm", "segs": [{"k": "m", "t": "(lines per minute) số dòng trong một phút."}], "k": "lpm"},
+  {"h": "LPN", "segs": [{"k": "m", "t": "(logical page number) số trang logic."}], "k": "lpn"},
+  {
+    "h": "lpo",
+    "segs": [{"k": "m", "t": "(tắt) dàn nhạc hòa tấu Luân Ðôn (London philharmonic orchestra)."}],
+    "ipa": ",el pi:'ou",
+    "k": "lpo"
+  },
+  {
+    "h": "LPS",
+    "segs": [{"k": "m", "t": "Viết tắt của microbiology lipopolysaccharide"}],
+    "k": "lps"
+  },
+  {
+    "h": "LPT",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Trong DOS, LPT là tên thiết bị được gán cho một cổng song song, nơi mà bạn có thể mắc máy in song song vào đó."
+      }
+    ],
+    "k": "lpt"
+  }
+]

@@ -1,1 +1,118 @@
-[{"h":"NR","segs":[{"k":"m","t":"(negative response) sự đáp ứng âm, sự đáp ứng cho biết dữ liệu không được nhận đầy đủ."}],"k":"nr"},{"h":"NR (natural rubber)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cao su thiên nhiên"}],"k":"nr (natural rubber)"},{"h":"NR (negative response)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự đáp ứng âm"}],"k":"nr (negative response)"},{"h":"NRA","segs":[{"k":"m","t":"abbreviationU.S."},{"k":"m","t":"1. National Recovery Administration"},{"k":"m","t":"2. Naval Reserve Association"},{"k":"m","t":"3. National Rifle Association"}],"k":"nra"},{"h":"NRC","segs":[{"k":"m","t":"Viết tắt của 1. National Research Council Canada"},{"k":"m","t":"2. Nuclear Regulatory Commission"}],"k":"nrc"},{"h":"NRCan","segs":[{"k":"m","t":"Viết tắt của Natural Resources Canada"}],"k":"nrcan"},{"h":"NRDS","segs":[{"k":"m","t":"Viết tắt của neonatal respiratory distress syndrome"}],"k":"nrds"},{"h":"NREM","segs":[{"k":"m","t":"Viết tắt của nonrapid eye movement"}],"k":"nrem"},{"h":"NREM sleep","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"biology như slow-wave sleep"}],"k":"nrem sleep"},{"h":"NREN","segs":[{"k":"m","t":"(National Rescarch and Education Network) mạng nghiên cứu và giáo dục quốc gia (Hoa Kỳ)."}],"k":"nren"},{"h":"NRF","segs":[{"k":"m","t":"(Network Routing Facility) chương trình dẫn đường mạng, chương trình định tuyến mạng."}],"k":"nrf"},{"h":"NRM","segs":[{"k":"m","t":"(normal response mode) chế độ đáp ứng chuẩn."}],"k":"nrm"},{"h":"NRMA","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Australian motoring organization: the principle motoring organization of New South Wales, Australia, và the largest in the country, providing roadside assistance, travel information, và other motor-related services to its members, as well as insurance và travel services to the general public. Full form National Roads và Motorists Association"}],"k":"nrma"},{"h":"NRN","segs":[{"k":"m","t":"Viết tắt của no reply necessary (used in e-mails hoặc text messages)"}],"k":"nrn"},{"h":"NRO","segs":[{"k":"m","t":"Viết tắt của military National Reconnaissance Office"}],"k":"nro"},{"h":"nrrowing","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự thu hẹp, sự thu hẹp nghĩa từ."}],"ipa":"'næroiŋ","k":"nrrowing"},{"h":"NRV","segs":[{"k":"m","t":"Viết tắt của net realizable value"}],"k":"nrv"},{"h":"NRZ","segs":[{"k":"m","t":"(non-return-to-zero) không trở về số không."}],"k":"nrz"},{"h":"NRZ Change (NRZC)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"Thay đổi NRZ"}],"k":"nrz change (nrzc)"},{"h":"NRZ Mark (NRZM)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"Dấu NRZ"}],"k":"nrz mark (nrzm)"}]
+[
+  {
+    "h": "NR",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(negative response) sự đáp ứng âm, sự đáp ứng cho biết dữ liệu không được nhận đầy đủ."
+      }
+    ],
+    "k": "nr"
+  },
+  {
+    "h": "NR (natural rubber)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cao su thiên nhiên"}],
+    "k": "nr (natural rubber)"
+  },
+  {
+    "h": "NR (negative response)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự đáp ứng âm"}],
+    "k": "nr (negative response)"
+  },
+  {
+    "h": "NRA",
+    "segs": [
+      {"k": "m", "t": "abbreviationU.S."},
+      {"k": "m", "t": "1. National Recovery Administration"},
+      {"k": "m", "t": "2. Naval Reserve Association"},
+      {"k": "m", "t": "3. National Rifle Association"}
+    ],
+    "k": "nra"
+  },
+  {
+    "h": "NRC",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. National Research Council Canada"},
+      {"k": "m", "t": "2. Nuclear Regulatory Commission"}
+    ],
+    "k": "nrc"
+  },
+  {"h": "NRCan", "segs": [{"k": "m", "t": "Viết tắt của Natural Resources Canada"}], "k": "nrcan"},
+  {
+    "h": "NRDS",
+    "segs": [{"k": "m", "t": "Viết tắt của neonatal respiratory distress syndrome"}],
+    "k": "nrds"
+  },
+  {"h": "NREM", "segs": [{"k": "m", "t": "Viết tắt của nonrapid eye movement"}], "k": "nrem"},
+  {
+    "h": "NREM sleep",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "biology như slow-wave sleep"}],
+    "k": "nrem sleep"
+  },
+  {
+    "h": "NREN",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(National Rescarch and Education Network) mạng nghiên cứu và giáo dục quốc gia (Hoa Kỳ)."
+      }
+    ],
+    "k": "nren"
+  },
+  {
+    "h": "NRF",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Network Routing Facility) chương trình dẫn đường mạng, chương trình định tuyến mạng."
+      }
+    ],
+    "k": "nrf"
+  },
+  {
+    "h": "NRM",
+    "segs": [{"k": "m", "t": "(normal response mode) chế độ đáp ứng chuẩn."}],
+    "k": "nrm"
+  },
+  {
+    "h": "NRMA",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Australian motoring organization: the principle motoring organization of New South Wales, Australia, và the largest in the country, providing roadside assistance, travel information, và other motor-related services to its members, as well as insurance và travel services to the general public. Full form National Roads và Motorists Association"
+      }
+    ],
+    "k": "nrma"
+  },
+  {
+    "h": "NRN",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của no reply necessary (used in e-mails hoặc text messages)"}
+    ],
+    "k": "nrn"
+  },
+  {
+    "h": "NRO",
+    "segs": [{"k": "m", "t": "Viết tắt của military National Reconnaissance Office"}],
+    "k": "nro"
+  },
+  {
+    "h": "nrrowing",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sự thu hẹp, sự thu hẹp nghĩa từ."}],
+    "ipa": "'næroiŋ",
+    "k": "nrrowing"
+  },
+  {"h": "NRV", "segs": [{"k": "m", "t": "Viết tắt của net realizable value"}], "k": "nrv"},
+  {"h": "NRZ", "segs": [{"k": "m", "t": "(non-return-to-zero) không trở về số không."}], "k": "nrz"},
+  {
+    "h": "NRZ Change (NRZC)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Thay đổi NRZ"}],
+    "k": "nrz change (nrzc)"
+  },
+  {
+    "h": "NRZ Mark (NRZM)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Dấu NRZ"}],
+    "k": "nrz mark (nrzm)"
+  }
+]

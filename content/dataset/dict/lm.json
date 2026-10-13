@@ -1,1 +1,73 @@
-[{"h":"Lm","segs":[{"k":"m","t":"vt của lu-men (s) (lý) lu-men."}],"k":"lm"},{"h":"LM (lunar module)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"môđun mặt trăng (tàu vũ trụ)"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"môđun mặt trăng (tàu vũ trụ)"}],"k":"lm (lunar module)"},{"h":"LM curve","segs":[{"k":"m","t":"đường LM."}],"k":"lm curve"},{"h":"LM hangar","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hănga"},{"k":"m","t":"nhà để máy bay"},{"k":"m","t":"nhà để tàu vũ trụ"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hănga"},{"k":"m","t":"nhà để máy bay"},{"k":"m","t":"nhà để tàu vũ trụ"}],"k":"lm hangar"},{"h":"LM schedule","segs":[{"k":"m","t":"đường LM."}],"k":"lm schedule"},{"h":"LMDS","segs":[{"k":"m","t":"Viết tắt của telecommunications online Local Multipoint Distribution Service"}],"k":"lmds"},{"h":"LMI","segs":[{"k":"m","t":"(local management interface) giao diện quản lý cục bộ."}],"k":"lmi"},{"h":"lmian parlor","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phòng đón khách"},{"k":"m","t":"sảnh tiếp khách"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phòng đón khách"},{"k":"m","t":"sảnh tiếp khách"}],"k":"lmian parlor"},{"h":"LMK","segs":[{"k":"m","t":"Viết tắt của online let me know (used in e-mails)"}],"k":"lmk"},{"h":"lmlach fat plug","segs":[{"k":"m","t":"Cục mỡ Imlach."}],"k":"lmlach fat plug"},{"h":"lmpertorate hymen","segs":[{"k":"m","t":"màng trinh không thủng."}],"k":"lmpertorate hymen"},{"h":"LMT","segs":[{"k":"m","t":"Viết tắt của local mean time"}],"k":"lmt"},{"h":"LMVD","segs":[{"k":"m","t":"Viết tắt của New Zealand Licensed Motor Vehicle Dealer"}],"k":"lmvd"}]
+[
+  {"h": "Lm", "segs": [{"k": "m", "t": "vt của lu-men (s) (lý) lu-men."}], "k": "lm"},
+  {
+    "h": "LM (lunar module)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "môđun mặt trăng (tàu vũ trụ)"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "môđun mặt trăng (tàu vũ trụ)"}
+    ],
+    "k": "lm (lunar module)"
+  },
+  {"h": "LM curve", "segs": [{"k": "m", "t": "đường LM."}], "k": "lm curve"},
+  {
+    "h": "LM hangar",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hănga"},
+      {"k": "m", "t": "nhà để máy bay"},
+      {"k": "m", "t": "nhà để tàu vũ trụ"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hănga"},
+      {"k": "m", "t": "nhà để máy bay"},
+      {"k": "m", "t": "nhà để tàu vũ trụ"}
+    ],
+    "k": "lm hangar"
+  },
+  {"h": "LM schedule", "segs": [{"k": "m", "t": "đường LM."}], "k": "lm schedule"},
+  {
+    "h": "LMDS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của telecommunications online Local Multipoint Distribution Service"
+      }
+    ],
+    "k": "lmds"
+  },
+  {
+    "h": "LMI",
+    "segs": [{"k": "m", "t": "(local management interface) giao diện quản lý cục bộ."}],
+    "k": "lmi"
+  },
+  {
+    "h": "lmian parlor",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "phòng đón khách"},
+      {"k": "m", "t": "sảnh tiếp khách"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "phòng đón khách"},
+      {"k": "m", "t": "sảnh tiếp khách"}
+    ],
+    "k": "lmian parlor"
+  },
+  {
+    "h": "LMK",
+    "segs": [{"k": "m", "t": "Viết tắt của online let me know (used in e-mails)"}],
+    "k": "lmk"
+  },
+  {"h": "lmlach fat plug", "segs": [{"k": "m", "t": "Cục mỡ Imlach."}], "k": "lmlach fat plug"},
+  {
+    "h": "lmpertorate hymen",
+    "segs": [{"k": "m", "t": "màng trinh không thủng."}],
+    "k": "lmpertorate hymen"
+  },
+  {"h": "LMT", "segs": [{"k": "m", "t": "Viết tắt của local mean time"}], "k": "lmt"},
+  {
+    "h": "LMVD",
+    "segs": [{"k": "m", "t": "Viết tắt của New Zealand Licensed Motor Vehicle Dealer"}],
+    "k": "lmvd"
+  }
+]

@@ -1,1 +1,23 @@
-[{"h":"(h)olographic will","segs":[{"k":"m","t":"chúc thư tự viết tay."}],"k":"(h)olographic will"},{"h":"-haemia","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"Another spelling of-emia"}],"k":"-haemia"},{"h":"-hedron","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"a figure hoặc crystal having a particular number hoặc kind of surfaces"},{"k":"m","t":"pentahedron"},{"k":"m","t":"--hedral, suffix"}],"k":"-hedron"},{"h":"-hemia","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"Như-emia"}],"k":"-hemia"}]
+[
+  {
+    "h": "(h)olographic will",
+    "segs": [{"k": "m", "t": "chúc thư tự viết tay."}],
+    "k": "(h)olographic will"
+  },
+  {
+    "h": "-haemia",
+    "segs": [{"k": "m", "t": "suffix"}, {"k": "m", "t": "Another spelling of-emia"}],
+    "k": "-haemia"
+  },
+  {
+    "h": "-hedron",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "a figure hoặc crystal having a particular number hoặc kind of surfaces"},
+      {"k": "m", "t": "pentahedron"},
+      {"k": "m", "t": "--hedral, suffix"}
+    ],
+    "k": "-hedron"
+  },
+  {"h": "-hemia", "segs": [{"k": "m", "t": "suffix"}, {"k": "m", "t": "Như-emia"}], "k": "-hemia"}
+]

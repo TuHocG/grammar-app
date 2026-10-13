@@ -1,1 +1,136 @@
-[{"h":"vr","segs":[{"k":"m","t":"thực tế ảo, thực tại ảo (virtual reality)."}],"k":"vr"},{"h":"VR (virtual reality)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hiện thực ảo"},{"k":"m","t":"thực tại ảo"},{"k":"m","t":"thực tế ảo"}],"k":"vr (virtual reality)"},{"h":"VR (virtual route)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đường truyền ảo"},{"k":"m","t":"tuyến ảo"}],"k":"vr (virtual route)"},{"h":"VR tube","segs":[{"k":"m","t":"đèn VR."}],"k":"vr tube"},{"h":"vrai","segs":[{"k":"m","t":"thật sự, thực."}],"k":"vrai"},{"h":"vraisemblance","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"tính giống thật."}],"ipa":"'vreisa:m'bla:ns","k":"vraisemblance"},{"h":"VRAM","segs":[{"k":"m","t":"(video random-access memory) bộ nhớ video truy cập ngẫu nhiên, bộ lưu trữ hình ảnh truy cập ngẫu nhiên."}],"k":"vram"},{"h":"VRAM (Video RAM)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"VRAM"}],"k":"vram (video ram)"},{"h":"VRC","segs":[{"k":"m","t":"(vertical redundancy check) sự kiểm tra dư thẳng đứng, sự kiểm tra dư dọc."}],"k":"vrc"},{"h":"VRD","segs":[{"k":"m","t":"(voice-recognition device) thiết bị nhận biết tiếng nói."}],"k":"vrd"},{"h":"VRI","segs":[{"k":"m","t":"Viết tắt của U.K. Victoria, Queen và Empress"}],"k":"vri"},{"h":"VRID","segs":[{"k":"m","t":"(virtual route identifier) bộ nhận dạng đường truyền ảo, ký hiệu nhận biết tuyến ảo."}],"k":"vrid"},{"h":"vrille","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"ruột gà mở nút chai."}],"ipa":"vril","k":"vrille"},{"h":"VRM","segs":[{"k":"m","t":"Viết tắt của variable-rate mortgage"}],"k":"vrm"},{"h":"VRML","segs":[{"k":"m","t":"(virtual reality modeling language) ngôn ngữ mô hình hóa thực tế ảo."}],"k":"vrml"},{"h":"vroom","segs":[{"k":"m","t":"Danh từ (số nhiều vrooms)"},{"k":"m","t":"loud engine noise: the loud noise of an engine when it is being revved up hoặc is running at high speed (thông tục)"},{"k":"m","t":"intransitive verb (past và past participle vroomed, present participle vrooming, 3rd person present singular vrooms)"},{"k":"m","t":"move noisily: to move noisily at high speed"},{"k":"m","t":"interjection"},{"k":"m","t":"used to imitate noisy engine: used to imitate an engine running at high speed"}],"k":"vroom"},{"h":"vrouw","segs":[{"k":"m","t":"(số nhiều vrouws) hoặc vrou (số nhiều vrous)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"South Africa woman or wife: a woman hoặc a wife, especially one who is Afrikaner"}],"k":"vrouw"},{"h":"VRSA","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"bacterium resistant to vancomycin: a strain of a common infection-causing bacterium that has become resistant to treatment by the antibiotic vancomycin và is therefore a hazard in places such as hospitals. Full form vancomycin-resistant Staphylococcus aureus"}],"k":"vrsa"},{"h":"VRT","segs":[{"k":"m","t":"(voice-recognition terminal) thiết bị đầu cuối nhận biết tiếng nói."}],"k":"vrt"},{"h":"VRU","segs":[{"k":"m","t":"(voice response unit) bộ đáp ứng tiếng nói."}],"k":"vru"}]
+[
+  {"h": "vr", "segs": [{"k": "m", "t": "thực tế ảo, thực tại ảo (virtual reality)."}], "k": "vr"},
+  {
+    "h": "VR (virtual reality)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hiện thực ảo"},
+      {"k": "m", "t": "thực tại ảo"},
+      {"k": "m", "t": "thực tế ảo"}
+    ],
+    "k": "vr (virtual reality)"
+  },
+  {
+    "h": "VR (virtual route)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đường truyền ảo"},
+      {"k": "m", "t": "tuyến ảo"}
+    ],
+    "k": "vr (virtual route)"
+  },
+  {"h": "VR tube", "segs": [{"k": "m", "t": "đèn VR."}], "k": "vr tube"},
+  {"h": "vrai", "segs": [{"k": "m", "t": "thật sự, thực."}], "k": "vrai"},
+  {
+    "h": "vraisemblance",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tính giống thật."}],
+    "ipa": "'vreisa:m'bla:ns",
+    "k": "vraisemblance"
+  },
+  {
+    "h": "VRAM",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(video random-access memory) bộ nhớ video truy cập ngẫu nhiên, bộ lưu trữ hình ảnh truy cập ngẫu nhiên."
+      }
+    ],
+    "k": "vram"
+  },
+  {
+    "h": "VRAM (Video RAM)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "VRAM"}],
+    "k": "vram (video ram)"
+  },
+  {
+    "h": "VRC",
+    "segs": [
+      {"k": "m", "t": "(vertical redundancy check) sự kiểm tra dư thẳng đứng, sự kiểm tra dư dọc."}
+    ],
+    "k": "vrc"
+  },
+  {
+    "h": "VRD",
+    "segs": [{"k": "m", "t": "(voice-recognition device) thiết bị nhận biết tiếng nói."}],
+    "k": "vrd"
+  },
+  {
+    "h": "VRI",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Victoria, Queen và Empress"}],
+    "k": "vri"
+  },
+  {
+    "h": "VRID",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(virtual route identifier) bộ nhận dạng đường truyền ảo, ký hiệu nhận biết tuyến ảo."
+      }
+    ],
+    "k": "vrid"
+  },
+  {
+    "h": "vrille",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "ruột gà mở nút chai."}],
+    "ipa": "vril",
+    "k": "vrille"
+  },
+  {"h": "VRM", "segs": [{"k": "m", "t": "Viết tắt của variable-rate mortgage"}], "k": "vrm"},
+  {
+    "h": "VRML",
+    "segs": [
+      {"k": "m", "t": "(virtual reality modeling language) ngôn ngữ mô hình hóa thực tế ảo."}
+    ],
+    "k": "vrml"
+  },
+  {
+    "h": "vroom",
+    "segs": [
+      {"k": "m", "t": "Danh từ (số nhiều vrooms)"},
+      {
+        "k": "m",
+        "t": "loud engine noise: the loud noise of an engine when it is being revved up hoặc is running at high speed (thông tục)"
+      },
+      {
+        "k": "m",
+        "t": "intransitive verb (past và past participle vroomed, present participle vrooming, 3rd person present singular vrooms)"
+      },
+      {"k": "m", "t": "move noisily: to move noisily at high speed"},
+      {"k": "m", "t": "interjection"},
+      {
+        "k": "m",
+        "t": "used to imitate noisy engine: used to imitate an engine running at high speed"
+      }
+    ],
+    "k": "vroom"
+  },
+  {
+    "h": "vrouw",
+    "segs": [
+      {"k": "m", "t": "(số nhiều vrouws) hoặc vrou (số nhiều vrous)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "South Africa woman or wife: a woman hoặc a wife, especially one who is Afrikaner"
+      }
+    ],
+    "k": "vrouw"
+  },
+  {
+    "h": "VRSA",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "bacterium resistant to vancomycin: a strain of a common infection-causing bacterium that has become resistant to treatment by the antibiotic vancomycin và is therefore a hazard in places such as hospitals. Full form vancomycin-resistant Staphylococcus aureus"
+      }
+    ],
+    "k": "vrsa"
+  },
+  {
+    "h": "VRT",
+    "segs": [{"k": "m", "t": "(voice-recognition terminal) thiết bị đầu cuối nhận biết tiếng nói."}],
+    "k": "vrt"
+  },
+  {"h": "VRU", "segs": [{"k": "m", "t": "(voice response unit) bộ đáp ứng tiếng nói."}], "k": "vru"}
+]

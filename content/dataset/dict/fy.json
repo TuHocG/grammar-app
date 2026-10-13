@@ -1,1 +1,97 @@
-[{"h":"fy","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"fie như fie","vi":"."}],"ipa":"fai","k":"fy"},{"h":"fye","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"fie như fie","vi":"."}],"ipa":"fai","k":"fye"},{"h":"fyfot","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"hình chữ vạn, hình chữ thập ngoặc."}],"k":"fyfot"},{"h":"fyi","segs":[{"k":"m","t":"(tắt) của For Your Information (dùng cho thông tin của bạn)."}],"k":"fyi"},{"h":"fyke","segs":[{"k":"m","t":"(số nhiều fykes)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"fishing net: a bag-shaped fishing net, held open by hoops"}],"k":"fyke"},{"h":"fylfot","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"hình chữ vạn"},{"k":"m","t":"hình chữ thập ngoặc."}],"ipa":"'filfɔt","k":"fylfot"},{"h":"Fyn","segs":[{"k":"m","t":"the second-largest island in Denmark, between southern Jutland và the island of Sjẽlland."},{"k":"m","t":"Dân số khoảng: 470,528 (1996)"},{"k":"m","t":"Diện tích: 2,978 sq km/1,150 sq mi"}],"k":"fyn"},{"h":"fynbos","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"South African scrubland: the scrubland characteristic of the western Cape area of South Africa, consisting of bushes resembling heaths with hard leaves"}],"k":"fynbos"},{"h":"fyord","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"xem"},{"k":"ex","t":"fiord","vi":"."}],"ipa":"fə:d","k":"fyord"},{"h":"fyrd","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(sử)"},{"k":"m","t":"dân quân (Anh)"},{"k":"m","t":"nghĩa vụ dân quân (Anh)."}],"ipa":"fə:d","k":"fyrd"},{"h":"fytte","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(cổ) đoạn thơ ((cũng)"},{"k":"ex","t":"fit","vi":")."}],"ipa":"fit","k":"fytte"}]
+[
+  {
+    "h": "fy",
+    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "fie như fie", "vi": "."}],
+    "ipa": "fai",
+    "k": "fy"
+  },
+  {
+    "h": "fye",
+    "segs": [{"k": "m", "t": "Hoặc:"}, {"k": "ex", "t": "fie như fie", "vi": "."}],
+    "ipa": "fai",
+    "k": "fye"
+  },
+  {
+    "h": "fyfot",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hình chữ vạn, hình chữ thập ngoặc."}],
+    "k": "fyfot"
+  },
+  {
+    "h": "fyi",
+    "segs": [{"k": "m", "t": "(tắt) của For Your Information (dùng cho thông tin của bạn)."}],
+    "k": "fyi"
+  },
+  {
+    "h": "fyke",
+    "segs": [
+      {"k": "m", "t": "(số nhiều fykes)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "fishing net: a bag-shaped fishing net, held open by hoops"}
+    ],
+    "k": "fyke"
+  },
+  {
+    "h": "fylfot",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "hình chữ vạn"},
+      {"k": "m", "t": "hình chữ thập ngoặc."}
+    ],
+    "ipa": "'filfɔt",
+    "k": "fylfot"
+  },
+  {
+    "h": "Fyn",
+    "segs": [
+      {
+        "k": "m",
+        "t": "the second-largest island in Denmark, between southern Jutland và the island of Sjẽlland."
+      },
+      {"k": "m", "t": "Dân số khoảng: 470,528 (1996)"},
+      {"k": "m", "t": "Diện tích: 2,978 sq km/1,150 sq mi"}
+    ],
+    "k": "fyn"
+  },
+  {
+    "h": "fynbos",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "South African scrubland: the scrubland characteristic of the western Cape area of South Africa, consisting of bushes resembling heaths with hard leaves"
+      }
+    ],
+    "k": "fynbos"
+  },
+  {
+    "h": "fyord",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "xem"},
+      {"k": "ex", "t": "fiord", "vi": "."}
+    ],
+    "ipa": "fə:d",
+    "k": "fyord"
+  },
+  {
+    "h": "fyrd",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(sử)"},
+      {"k": "m", "t": "dân quân (Anh)"},
+      {"k": "m", "t": "nghĩa vụ dân quân (Anh)."}
+    ],
+    "ipa": "fə:d",
+    "k": "fyrd"
+  },
+  {
+    "h": "fytte",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(cổ) đoạn thơ ((cũng)"},
+      {"k": "ex", "t": "fit", "vi": ")."}
+    ],
+    "ipa": "fit",
+    "k": "fytte"
+  }
+]

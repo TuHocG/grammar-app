@@ -1,1 +1,62 @@
-[{"h":"lb","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Pao (khoảng 454 gam)."}],"k":"lb"},{"h":"lb leaders","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"lãnh tụ công đoàn"}],"k":"lb leaders"},{"h":"lb.","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Pao (khoảng 454g)."}],"ipa":"paund","k":"lb."},{"h":"lBack Maria","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"xe chở tù."}],"k":"lback maria"},{"h":"lbar","segs":[{"k":"ref","t":"như l-bar."}],"ipa":"ˈelba:","k":"lbar"},{"h":"LBC","segs":[{"k":"m","t":"vt. Lon don Broadcasting Company cơ quan phát tin Luân Ðôn"}],"k":"lbc"},{"h":"LBCH","segs":[{"k":"m","t":"Viết tắt của U.K. banking London Bankers' Clearing House"}],"k":"lbch"},{"h":"LBD","segs":[{"k":"m","t":"Viết tắt của dress little black dress"}],"k":"lbd"},{"h":"LBG","segs":[{"k":"m","t":"(load balancing group) nhóm cân bằng tải."}],"k":"lbg"},{"h":"LBO","segs":[{"k":"m","t":"Viết tắt của business leveraged buyout"}],"k":"lbo"},{"h":"LBR","segs":[{"k":"m","t":"(laser beam recoding) sự ghi bằng chùm laser."}],"k":"lbr"},{"h":"lbs.","segs":[{"k":"m","t":"Viết tắt của measurements pounds"}],"k":"lbs."},{"h":"LBV","segs":[{"k":"m","t":"Viết tắt của U.K. wine Late Bottled Vintage (refers to port that is six years old)"}],"k":"lbv"},{"h":"lbw","segs":[{"k":"m","t":"(tắt) (bóng đá) bị phạt vì dùng chân cản bóng vào khung thành ("},{"k":"ex","t":"leg before wicket","vi":")."}],"ipa":",el bi: 'dʌblju:","k":"lbw"}]
+[
+  {
+    "h": "lb",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Pao (khoảng 454 gam)."}],
+    "k": "lb"
+  },
+  {
+    "h": "lb leaders",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "lãnh tụ công đoàn"}],
+    "k": "lb leaders"
+  },
+  {
+    "h": "lb.",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Pao (khoảng 454g)."}],
+    "ipa": "paund",
+    "k": "lb."
+  },
+  {
+    "h": "lBack Maria",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "xe chở tù."}],
+    "k": "lback maria"
+  },
+  {"h": "lbar", "segs": [{"k": "ref", "t": "như l-bar."}], "ipa": "ˈelba:", "k": "lbar"},
+  {
+    "h": "LBC",
+    "segs": [{"k": "m", "t": "vt. Lon don Broadcasting Company cơ quan phát tin Luân Ðôn"}],
+    "k": "lbc"
+  },
+  {
+    "h": "LBCH",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. banking London Bankers' Clearing House"}],
+    "k": "lbch"
+  },
+  {"h": "LBD", "segs": [{"k": "m", "t": "Viết tắt của dress little black dress"}], "k": "lbd"},
+  {"h": "LBG", "segs": [{"k": "m", "t": "(load balancing group) nhóm cân bằng tải."}], "k": "lbg"},
+  {"h": "LBO", "segs": [{"k": "m", "t": "Viết tắt của business leveraged buyout"}], "k": "lbo"},
+  {
+    "h": "LBR",
+    "segs": [{"k": "m", "t": "(laser beam recoding) sự ghi bằng chùm laser."}],
+    "k": "lbr"
+  },
+  {"h": "lbs.", "segs": [{"k": "m", "t": "Viết tắt của measurements pounds"}], "k": "lbs."},
+  {
+    "h": "LBV",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của U.K. wine Late Bottled Vintage (refers to port that is six years old)"
+      }
+    ],
+    "k": "lbv"
+  },
+  {
+    "h": "lbw",
+    "segs": [
+      {"k": "m", "t": "(tắt) (bóng đá) bị phạt vì dùng chân cản bóng vào khung thành ("},
+      {"k": "ex", "t": "leg before wicket", "vi": ")."}
+    ],
+    "ipa": ",el bi: 'dʌblju:",
+    "k": "lbw"
+  }
+]

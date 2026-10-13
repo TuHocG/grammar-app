@@ -1,1 +1,77 @@
-[{"h":"wc","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"1. water-closet: nhà xí máy"},{"k":"m","t":"2. West Central: Trung Tâm Tây."}],"ipa":",dʌblju: ˈsi:","k":"wc"},{"h":"WC bowl","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chậu xí"}],"k":"wc bowl"},{"h":"WC flushing cistern","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"thùng tháo nước (hố xí)"}],"k":"wc flushing cistern"},{"h":"WC pan","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chậu xí"}],"k":"wc pan"},{"h":"WC pan base","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bệ hố xí"}],"k":"wc pan base"},{"h":"WC room","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phòng vệ sinh"}],"k":"wc room"},{"h":"WC seat","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chỗ ngồi buồng vệ sinh"}],"k":"wc seat"},{"h":"WCC","segs":[{"k":"m","t":"(tắt) Hội đồng nhà thờ thế giới ("},{"k":"ex","t":"World Council of Churches","vi":")."}],"ipa":"'dʌblju: si:'si:","k":"wcc"},{"h":"WCGM","segs":[{"k":"m","t":"(writable character generation module) module tạo ký tự ghi được."}],"k":"wcgm"},{"h":"WCM","segs":[{"k":"m","t":"(wireless connectivity manager) chương trình quản lý kết nối vô tuyến."}],"k":"wcm"},{"h":"WCS","segs":[{"k":"m","t":"(writable control storage) bộ nhớ điều khiển ghi được."}],"k":"wcs"},{"h":"WCTU","segs":[{"k":"m","t":"hoặc W.C.T.U."},{"k":"m","t":"abbreviation"},{"k":"m","t":"Women's Christian Temperance Union"}],"k":"wctu"}]
+[
+  {
+    "h": "wc",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "1. water-closet: nhà xí máy"},
+      {"k": "m", "t": "2. West Central: Trung Tâm Tây."}
+    ],
+    "ipa": ",dʌblju: ˈsi:",
+    "k": "wc"
+  },
+  {
+    "h": "WC bowl",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chậu xí"}],
+    "k": "wc bowl"
+  },
+  {
+    "h": "WC flushing cistern",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "thùng tháo nước (hố xí)"}],
+    "k": "wc flushing cistern"
+  },
+  {
+    "h": "WC pan",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chậu xí"}],
+    "k": "wc pan"
+  },
+  {
+    "h": "WC pan base",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bệ hố xí"}],
+    "k": "wc pan base"
+  },
+  {
+    "h": "WC room",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phòng vệ sinh"}],
+    "k": "wc room"
+  },
+  {
+    "h": "WC seat",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chỗ ngồi buồng vệ sinh"}],
+    "k": "wc seat"
+  },
+  {
+    "h": "WCC",
+    "segs": [
+      {"k": "m", "t": "(tắt) Hội đồng nhà thờ thế giới ("},
+      {"k": "ex", "t": "World Council of Churches", "vi": ")."}
+    ],
+    "ipa": "'dʌblju: si:'si:",
+    "k": "wcc"
+  },
+  {
+    "h": "WCGM",
+    "segs": [{"k": "m", "t": "(writable character generation module) module tạo ký tự ghi được."}],
+    "k": "wcgm"
+  },
+  {
+    "h": "WCM",
+    "segs": [
+      {"k": "m", "t": "(wireless connectivity manager) chương trình quản lý kết nối vô tuyến."}
+    ],
+    "k": "wcm"
+  },
+  {
+    "h": "WCS",
+    "segs": [{"k": "m", "t": "(writable control storage) bộ nhớ điều khiển ghi được."}],
+    "k": "wcs"
+  },
+  {
+    "h": "WCTU",
+    "segs": [
+      {"k": "m", "t": "hoặc W.C.T.U."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "Women's Christian Temperance Union"}
+    ],
+    "k": "wctu"
+  }
+]

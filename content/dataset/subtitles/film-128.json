@@ -1,1 +1,144 @@
-{"id":128,"code":"C 4","group":"C","n":4,"title":"C 4","first_line":"It's the fifth month, so don't be surprised when your little one starts to recognize his or her own name.","video":"C  4.avi","duration":94.0,"lines":[{"e":6.03,"en":"It's the fifth month, so don't be surprised when your little one starts to recognize his or her own name.","vi":"Ðây là tháng thứ 5, vì thế đừng ngạc nhiên khi thấy bé nhận biết tên của bé.","s":0.0},{"e":13.23,"en":"Aside from this newfound name recognition, your baby will learn LOTS of other things this month, like object permanence.","vi":"Ngoài việc nhận biết tên mới, bé còn học được nhiều điều khác trong tháng này, như nhận biết vật thể vẫn tồn tại dù không nhìn thấy.","s":6.03},{"e":19.38,"en":"Object permanence means that your baby will start to understand that just because you put the bottle out of sight,","vi":"Có nghĩa là bé bắt đầu hiểu rằng không phải vì bạn đặt chai sữa ngoài tầm nhìn của bé","s":13.23},{"e":21.35,"en":"doesn't mean it no longer exists.","vi":"mà nó không tồn tại.","s":19.38},{"e":25.99,"en":"Your infant will also begin to identify objects that are only partially visible,","vi":"Bé cũng bắt đầu nhận biết những vật chỉ thấy được một phần","s":21.35},{"e":29.13,"en":"such as a favorite toy tucked halfway under the couch.","vi":"như món đồ chơi ưa thích bị che một phần dưới ghế.","s":25.99},{"e":32.22,"en":"As your baby comes to these startling realizations,","vi":"Khi bé có được những nhận thức đáng chú ý này","s":29.13},{"e":35.94,"en":"playing peek-a-boo and hide and seek will bring hours of fun.","vi":"thì việc chơi ú- à (lấy tay che mặt rồi mở ra nhiều lần) và trốn tìm với bé sẽ mang lại nhiều giờ rất vui.","s":32.22},{"e":40.0,"en":"In fact, your little one will like to play pretty much anything with you,","vi":"Thực ra, bé thích chơi mọi thứ với bạn nhiều hơn","s":35.94},{"e":42.93,"en":"as attachment to you and other caregivers grows.","vi":"khi tiếp xúc nhiều với bạn và những người chăm sóc.","s":40.0},{"e":49.6,"en":"On the flipside, this means if he or she hasn't already developed stranger anxiety, it is likely to happen soon.","vi":"Mặt khác, điều này có khuynh hướng xảy ra sớm nếu bé không sợ người lạ.","s":42.93},{"e":54.61,"en":"This normal developmental milestone requires patience and understanding on your part,","vi":"Giai đoạn phát triển bình thường này đòi hỏi ở bạn sự kiên trì và hiểu biết","s":49.6},{"e":57.53,"en":"and gentleness on the part of people whom your baby doesn't know.","vi":"và đòi hỏi sự dịu dàng ở những người mà bé chưa quen.","s":54.61},{"e":61.17,"en":"Your baby's senses of sight and sound will rival yours.","vi":"Thị giác và thính giác của bé sẽ bắt kịp bạn.","s":57.53},{"e":65.34,"en":"That means your baby will now be able to hear sounds and connect them to their source;","vi":"Nghĩa là bây giở bé có khả năng nghe các âm thanh và biết nguồn phát ra chúng;","s":61.17},{"e":69.46,"en":"as well as discern very subtle differences in light colors.","vi":"cũng như phân biệt rất tinh tế những khác biệt ở những màu nổi bật.","s":65.34},{"e":73.53,"en":"Meanwhile, your little one may also learn to sit up unassisted.","vi":"Trong lúc ấy, bé cũng có thể học cách ngồi mà không cần người giúp.","s":69.46},{"e":77.32,"en":"Your baby may even be strong enough hold his or her own bottle.","vi":"Thậm chí bé còn đủ sức tự giữ bình sữa.","s":73.53},{"e":80.31,"en":"Just remember not to leave your infant alone with one!","vi":"Chỉ cần nhớ rằng đừng để bé ở một mình khi bé tự cầm chai sữa như thế!","s":77.32},{"e":83.7,"en":"You may also decide that your baby is ready for solid foods now,","vi":"Lúc này bạn cũng có thể quyết định cho bé dùng những món ăn đặc,","s":80.31},{"e":87.67,"en":"although it's best to make this introduction ONLY with your physician's approval.","vi":"mặc dù việc này chỉ nên làm khi có chỉ dẫn của bác sĩ.","s":83.7},{"e":94.01,"en":"So, if you haven't already, ask about food introductions when you go in for your baby's five-month checkup.","vi":"Vì thế, nếu bạn chưa thực hiện, hãy hỏi về việc tập cho bé ăn dặm khi tái khám cho bé lúc 5 tháng tuổi.","s":87.67}]}
+{
+  "id": 128,
+  "code": "C 4",
+  "group": "C",
+  "n": 4,
+  "title": "C 4",
+  "first_line": "It's the fifth month, so don't be surprised when your little one starts to recognize his or her own name.",
+  "video": "C  4.avi",
+  "duration": 94.0,
+  "lines": [
+    {
+      "e": 6.03,
+      "en": "It's the fifth month, so don't be surprised when your little one starts to recognize his or her own name.",
+      "vi": "Ðây là tháng thứ 5, vì thế đừng ngạc nhiên khi thấy bé nhận biết tên của bé.",
+      "s": 0.0
+    },
+    {
+      "e": 13.23,
+      "en": "Aside from this newfound name recognition, your baby will learn LOTS of other things this month, like object permanence.",
+      "vi": "Ngoài việc nhận biết tên mới, bé còn học được nhiều điều khác trong tháng này, như nhận biết vật thể vẫn tồn tại dù không nhìn thấy.",
+      "s": 6.03
+    },
+    {
+      "e": 19.38,
+      "en": "Object permanence means that your baby will start to understand that just because you put the bottle out of sight,",
+      "vi": "Có nghĩa là bé bắt đầu hiểu rằng không phải vì bạn đặt chai sữa ngoài tầm nhìn của bé",
+      "s": 13.23
+    },
+    {
+      "e": 21.35,
+      "en": "doesn't mean it no longer exists.",
+      "vi": "mà nó không tồn tại.",
+      "s": 19.38
+    },
+    {
+      "e": 25.99,
+      "en": "Your infant will also begin to identify objects that are only partially visible,",
+      "vi": "Bé cũng bắt đầu nhận biết những vật chỉ thấy được một phần",
+      "s": 21.35
+    },
+    {
+      "e": 29.13,
+      "en": "such as a favorite toy tucked halfway under the couch.",
+      "vi": "như món đồ chơi ưa thích bị che một phần dưới ghế.",
+      "s": 25.99
+    },
+    {
+      "e": 32.22,
+      "en": "As your baby comes to these startling realizations,",
+      "vi": "Khi bé có được những nhận thức đáng chú ý này",
+      "s": 29.13
+    },
+    {
+      "e": 35.94,
+      "en": "playing peek-a-boo and hide and seek will bring hours of fun.",
+      "vi": "thì việc chơi ú- à (lấy tay che mặt rồi mở ra nhiều lần) và trốn tìm với bé sẽ mang lại nhiều giờ rất vui.",
+      "s": 32.22
+    },
+    {
+      "e": 40.0,
+      "en": "In fact, your little one will like to play pretty much anything with you,",
+      "vi": "Thực ra, bé thích chơi mọi thứ với bạn nhiều hơn",
+      "s": 35.94
+    },
+    {
+      "e": 42.93,
+      "en": "as attachment to you and other caregivers grows.",
+      "vi": "khi tiếp xúc nhiều với bạn và những người chăm sóc.",
+      "s": 40.0
+    },
+    {
+      "e": 49.6,
+      "en": "On the flipside, this means if he or she hasn't already developed stranger anxiety, it is likely to happen soon.",
+      "vi": "Mặt khác, điều này có khuynh hướng xảy ra sớm nếu bé không sợ người lạ.",
+      "s": 42.93
+    },
+    {
+      "e": 54.61,
+      "en": "This normal developmental milestone requires patience and understanding on your part,",
+      "vi": "Giai đoạn phát triển bình thường này đòi hỏi ở bạn sự kiên trì và hiểu biết",
+      "s": 49.6
+    },
+    {
+      "e": 57.53,
+      "en": "and gentleness on the part of people whom your baby doesn't know.",
+      "vi": "và đòi hỏi sự dịu dàng ở những người mà bé chưa quen.",
+      "s": 54.61
+    },
+    {
+      "e": 61.17,
+      "en": "Your baby's senses of sight and sound will rival yours.",
+      "vi": "Thị giác và thính giác của bé sẽ bắt kịp bạn.",
+      "s": 57.53
+    },
+    {
+      "e": 65.34,
+      "en": "That means your baby will now be able to hear sounds and connect them to their source;",
+      "vi": "Nghĩa là bây giở bé có khả năng nghe các âm thanh và biết nguồn phát ra chúng;",
+      "s": 61.17
+    },
+    {
+      "e": 69.46,
+      "en": "as well as discern very subtle differences in light colors.",
+      "vi": "cũng như phân biệt rất tinh tế những khác biệt ở những màu nổi bật.",
+      "s": 65.34
+    },
+    {
+      "e": 73.53,
+      "en": "Meanwhile, your little one may also learn to sit up unassisted.",
+      "vi": "Trong lúc ấy, bé cũng có thể học cách ngồi mà không cần người giúp.",
+      "s": 69.46
+    },
+    {
+      "e": 77.32,
+      "en": "Your baby may even be strong enough hold his or her own bottle.",
+      "vi": "Thậm chí bé còn đủ sức tự giữ bình sữa.",
+      "s": 73.53
+    },
+    {
+      "e": 80.31,
+      "en": "Just remember not to leave your infant alone with one!",
+      "vi": "Chỉ cần nhớ rằng đừng để bé ở một mình khi bé tự cầm chai sữa như thế!",
+      "s": 77.32
+    },
+    {
+      "e": 83.7,
+      "en": "You may also decide that your baby is ready for solid foods now,",
+      "vi": "Lúc này bạn cũng có thể quyết định cho bé dùng những món ăn đặc,",
+      "s": 80.31
+    },
+    {
+      "e": 87.67,
+      "en": "although it's best to make this introduction ONLY with your physician's approval.",
+      "vi": "mặc dù việc này chỉ nên làm khi có chỉ dẫn của bác sĩ.",
+      "s": 83.7
+    },
+    {
+      "e": 94.01,
+      "en": "So, if you haven't already, ask about food introductions when you go in for your baby's five-month checkup.",
+      "vi": "Vì thế, nếu bạn chưa thực hiện, hãy hỏi về việc tập cho bé ăn dặm khi tái khám cho bé lúc 5 tháng tuổi.",
+      "s": 87.67
+    }
+  ]
+}

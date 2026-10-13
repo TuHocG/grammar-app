@@ -1,1 +1,12 @@
-[{"h":"BVM","segs":[{"k":"m","t":"Viết tắt của Blessed Virgin Mary"}],"k":"bvm"},{"h":"bvt","segs":[{"k":"m","t":"abbreviationmilitary"},{"k":"m","t":"1. brevet"},{"k":"m","t":"2. breveted"}],"k":"bvt"}]
+[
+  {"h": "BVM", "segs": [{"k": "m", "t": "Viết tắt của Blessed Virgin Mary"}], "k": "bvm"},
+  {
+    "h": "bvt",
+    "segs": [
+      {"k": "m", "t": "abbreviationmilitary"},
+      {"k": "m", "t": "1. brevet"},
+      {"k": "m", "t": "2. breveted"}
+    ],
+    "k": "bvt"
+  }
+]

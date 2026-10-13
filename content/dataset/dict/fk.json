@@ -1,1 +1,18 @@
-[{"h":"FKEY","segs":[{"k":"m","t":"Tên một chương trình tiện ích của Macintosh."}],"k":"fkey"},{"h":"fkinkite","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"flinkit"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"flinkit"}],"k":"fkinkite"},{"h":"Fkr","segs":[{"k":"m","t":"Viết tắt của money krona2"}],"k":"fkr"}]
+[
+  {
+    "h": "FKEY",
+    "segs": [{"k": "m", "t": "Tên một chương trình tiện ích của Macintosh."}],
+    "k": "fkey"
+  },
+  {
+    "h": "fkinkite",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "flinkit"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "flinkit"}
+    ],
+    "k": "fkinkite"
+  },
+  {"h": "Fkr", "segs": [{"k": "m", "t": "Viết tắt của money krona2"}], "k": "fkr"}
+]

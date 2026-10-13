@@ -1,1 +1,209 @@
-[{"h":"db","segs":[{"k":"m","t":"(decibel) Decibel, đơn vị đo cường độ âm thanh."}],"k":"db"},{"h":"DB (database)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cơ sở dữ liệu"}],"k":"db (database)"},{"h":"dB (decibel)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"dB"},{"k":"m","t":"đexiben"}],"k":"db (decibel)"},{"h":"dB (decibel) loss","segs":[{"k":"m","t":"(kỹ thuật) suy giảm bằng đêxiben."}],"k":"db (decibel) loss"},{"h":"dB (decibel) meter","segs":[{"k":"m","t":"(kỹ thuật) máy đo đêxiben."}],"k":"db (decibel) meter"},{"h":"DB connector","segs":[{"k":"m","t":"(số nhiều DB connectors)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"connector facilitating serial and parallel input: a connector that facilitates serial và parallel input và output. Full form data bus connector"}],"k":"db connector"},{"h":"DB meter","segs":[{"k":"m","t":"máy đo decibel."}],"k":"db meter"},{"h":"DB monitor","segs":[{"k":"m","t":"(database monitor) bộ giám sát cơ sở dữ liệu."}],"k":"db monitor"},{"h":"DB-25 connector","segs":[{"k":"m","t":"(kỹ thuật) đầu nối DB-25"}],"k":"db-25 connector"},{"h":"DB/DC","segs":[{"k":"m","t":"(database / data communication) sự truyền thông cơ sở dữ liệu."}],"k":"db/dc"},{"h":"DBA","segs":[{"k":"m","t":"(database administrator) người quản trị dữ liệu, chương trình quản lý cơ sở dữ liệu."}],"k":"dba"},{"h":"DBA (database administrator)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"người quản trị dữ liệu"}],"k":"dba (database administrator)"},{"h":"DBAL","segs":[{"k":"m","t":"(database administration language) ngôn ngữ quản trị cơ sở dữ liệu."}],"k":"dbal"},{"h":"DBAM","segs":[{"k":"m","t":"(database access method) phương pháp truy cập cơ sở dữ liệu."}],"k":"dbam"},{"h":"DBCS","segs":[{"k":"m","t":"(double-byte character set) tập ký tự byte kép, bộ ký tự byte kép."}],"k":"dbcs"},{"h":"DBCS code","segs":[{"k":"m","t":"mã tập ký tự byte kép."}],"k":"dbcs code"},{"h":"DBCS conversion","segs":[{"k":"m","t":"sự chuyển đổi tập ký tự byte kép."}],"k":"dbcs conversion"},{"h":"DBCS conversion dictionary","segs":[{"k":"m","t":"từ điển chuyển đổi tập ký tự byte kép."}],"k":"dbcs conversion dictionary"},{"h":"DBCS font file","segs":[{"k":"m","t":"tập tin phông chuyển đổi tập ký tự byte kép."}],"k":"dbcs font file"},{"h":"DBCS font table","segs":[{"k":"m","t":"bảng phông chuyển đổi tập ký tự byte kép."}],"k":"dbcs font table"},{"h":"DBCS number","segs":[{"k":"m","t":"số hiệu tập ký tự byte kép."}],"k":"dbcs number"},{"h":"DBCS sort table","segs":[{"k":"m","t":"bảng sắp xếp theo tự tập ký tự byte kép."}],"k":"dbcs sort table"},{"h":"DBCS-only field","segs":[{"k":"m","t":"trường chỉ có tập ký tự byte kép."}],"k":"dbcs-only field"},{"h":"DBD","segs":[{"k":"m","t":"(database description) sự mô tả cơ sở dữ liệu."}],"k":"dbd"},{"h":"DBDA","segs":[{"k":"m","t":"(database design aid) sự trợ giúp thiết kế cơ sở dữ liệu."}],"k":"dbda"},{"h":"DBDGEN","segs":[{"k":"m","t":"(database description generation) sự tạo mô tả cơ sở dữ liệu."}],"k":"dbdgen"},{"h":"DBDL","segs":[{"k":"m","t":"(database description language) ngôn ngữ mô tả cơ sở dữ liệu."}],"k":"dbdl"},{"h":"dbe","segs":[{"k":"m","t":"(tắt) Nữ hiệp sĩ trưởng dòng của đế chế Anh ("},{"k":"ex","t":"Dame Commander of the British Empire","vi":")."}],"ipa":"'di: bi: 'i:","k":"dbe"},{"h":"DBF","segs":[{"k":"m","t":"(database facility) phương tiện cơ sở dữ liệu."}],"k":"dbf"},{"h":"dbl.","segs":[{"k":"m","t":"hoặc dble."},{"k":"m","t":"abbreviation"},{"k":"m","t":"double"}],"k":"dbl."},{"h":"DBLK","segs":[{"k":"m","t":"(data block) khối dữ liệu."}],"k":"dblk"},{"h":"DBLK (data block)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khối dữ liệu"}],"k":"dblk (data block)"},{"h":"DBM","segs":[{"k":"m","t":"(decibel based on one miliwatt) decibel dựa trên một miliwatt."}],"k":"dbm"},{"h":"DBMS","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"Hệ quản lý cơ sở dữ liệu ("},{"k":"ex","t":"Database Management System","vi":")."}],"k":"dbms"},{"h":"DBOS","segs":[{"k":"m","t":"(Disc-based Operating system) hệ điều hành dùng đĩa."}],"k":"dbos"},{"h":"DBRC","segs":[{"k":"m","t":"(database recovery control) sự điều khiển phục hồi cơ sở dữ liệu."}],"k":"dbrc"},{"h":"DBRI","segs":[{"k":"m","t":"(Dual Basic Rate Interface) giao diện tốc độ cơ bản kép."}],"k":"dbri"},{"h":"DBRN","segs":[{"k":"m","t":"(decibel above reference noise) decibel trên nhiễu chuẩn."}],"k":"dbrn"},{"h":"DBS","segs":[{"k":"m","t":"viết tắt của doing business as chuyện làm ăn cũng thế."}],"k":"dbs"}]
+[
+  {
+    "h": "db",
+    "segs": [{"k": "m", "t": "(decibel) Decibel, đơn vị đo cường độ âm thanh."}],
+    "k": "db"
+  },
+  {
+    "h": "DB (database)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cơ sở dữ liệu"}],
+    "k": "db (database)"
+  },
+  {
+    "h": "dB (decibel)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "dB"},
+      {"k": "m", "t": "đexiben"}
+    ],
+    "k": "db (decibel)"
+  },
+  {
+    "h": "dB (decibel) loss",
+    "segs": [{"k": "m", "t": "(kỹ thuật) suy giảm bằng đêxiben."}],
+    "k": "db (decibel) loss"
+  },
+  {
+    "h": "dB (decibel) meter",
+    "segs": [{"k": "m", "t": "(kỹ thuật) máy đo đêxiben."}],
+    "k": "db (decibel) meter"
+  },
+  {
+    "h": "DB connector",
+    "segs": [
+      {"k": "m", "t": "(số nhiều DB connectors)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "connector facilitating serial and parallel input: a connector that facilitates serial và parallel input và output. Full form data bus connector"
+      }
+    ],
+    "k": "db connector"
+  },
+  {"h": "DB meter", "segs": [{"k": "m", "t": "máy đo decibel."}], "k": "db meter"},
+  {
+    "h": "DB monitor",
+    "segs": [{"k": "m", "t": "(database monitor) bộ giám sát cơ sở dữ liệu."}],
+    "k": "db monitor"
+  },
+  {
+    "h": "DB-25 connector",
+    "segs": [{"k": "m", "t": "(kỹ thuật) đầu nối DB-25"}],
+    "k": "db-25 connector"
+  },
+  {
+    "h": "DB/DC",
+    "segs": [{"k": "m", "t": "(database / data communication) sự truyền thông cơ sở dữ liệu."}],
+    "k": "db/dc"
+  },
+  {
+    "h": "DBA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(database administrator) người quản trị dữ liệu, chương trình quản lý cơ sở dữ liệu."
+      }
+    ],
+    "k": "dba"
+  },
+  {
+    "h": "DBA (database administrator)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "người quản trị dữ liệu"}],
+    "k": "dba (database administrator)"
+  },
+  {
+    "h": "DBAL",
+    "segs": [{"k": "m", "t": "(database administration language) ngôn ngữ quản trị cơ sở dữ liệu."}],
+    "k": "dbal"
+  },
+  {
+    "h": "DBAM",
+    "segs": [{"k": "m", "t": "(database access method) phương pháp truy cập cơ sở dữ liệu."}],
+    "k": "dbam"
+  },
+  {
+    "h": "DBCS",
+    "segs": [{"k": "m", "t": "(double-byte character set) tập ký tự byte kép, bộ ký tự byte kép."}],
+    "k": "dbcs"
+  },
+  {"h": "DBCS code", "segs": [{"k": "m", "t": "mã tập ký tự byte kép."}], "k": "dbcs code"},
+  {
+    "h": "DBCS conversion",
+    "segs": [{"k": "m", "t": "sự chuyển đổi tập ký tự byte kép."}],
+    "k": "dbcs conversion"
+  },
+  {
+    "h": "DBCS conversion dictionary",
+    "segs": [{"k": "m", "t": "từ điển chuyển đổi tập ký tự byte kép."}],
+    "k": "dbcs conversion dictionary"
+  },
+  {
+    "h": "DBCS font file",
+    "segs": [{"k": "m", "t": "tập tin phông chuyển đổi tập ký tự byte kép."}],
+    "k": "dbcs font file"
+  },
+  {
+    "h": "DBCS font table",
+    "segs": [{"k": "m", "t": "bảng phông chuyển đổi tập ký tự byte kép."}],
+    "k": "dbcs font table"
+  },
+  {"h": "DBCS number", "segs": [{"k": "m", "t": "số hiệu tập ký tự byte kép."}], "k": "dbcs number"},
+  {
+    "h": "DBCS sort table",
+    "segs": [{"k": "m", "t": "bảng sắp xếp theo tự tập ký tự byte kép."}],
+    "k": "dbcs sort table"
+  },
+  {
+    "h": "DBCS-only field",
+    "segs": [{"k": "m", "t": "trường chỉ có tập ký tự byte kép."}],
+    "k": "dbcs-only field"
+  },
+  {
+    "h": "DBD",
+    "segs": [{"k": "m", "t": "(database description) sự mô tả cơ sở dữ liệu."}],
+    "k": "dbd"
+  },
+  {
+    "h": "DBDA",
+    "segs": [{"k": "m", "t": "(database design aid) sự trợ giúp thiết kế cơ sở dữ liệu."}],
+    "k": "dbda"
+  },
+  {
+    "h": "DBDGEN",
+    "segs": [{"k": "m", "t": "(database description generation) sự tạo mô tả cơ sở dữ liệu."}],
+    "k": "dbdgen"
+  },
+  {
+    "h": "DBDL",
+    "segs": [{"k": "m", "t": "(database description language) ngôn ngữ mô tả cơ sở dữ liệu."}],
+    "k": "dbdl"
+  },
+  {
+    "h": "dbe",
+    "segs": [
+      {"k": "m", "t": "(tắt) Nữ hiệp sĩ trưởng dòng của đế chế Anh ("},
+      {"k": "ex", "t": "Dame Commander of the British Empire", "vi": ")."}
+    ],
+    "ipa": "'di: bi: 'i:",
+    "k": "dbe"
+  },
+  {
+    "h": "DBF",
+    "segs": [{"k": "m", "t": "(database facility) phương tiện cơ sở dữ liệu."}],
+    "k": "dbf"
+  },
+  {
+    "h": "dbl.",
+    "segs": [
+      {"k": "m", "t": "hoặc dble."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "double"}
+    ],
+    "k": "dbl."
+  },
+  {"h": "DBLK", "segs": [{"k": "m", "t": "(data block) khối dữ liệu."}], "k": "dblk"},
+  {
+    "h": "DBLK (data block)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "khối dữ liệu"}],
+    "k": "dblk (data block)"
+  },
+  {
+    "h": "DBM",
+    "segs": [{"k": "m", "t": "(decibel based on one miliwatt) decibel dựa trên một miliwatt."}],
+    "k": "dbm"
+  },
+  {
+    "h": "DBMS",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "Hệ quản lý cơ sở dữ liệu ("},
+      {"k": "ex", "t": "Database Management System", "vi": ")."}
+    ],
+    "k": "dbms"
+  },
+  {
+    "h": "DBOS",
+    "segs": [{"k": "m", "t": "(Disc-based Operating system) hệ điều hành dùng đĩa."}],
+    "k": "dbos"
+  },
+  {
+    "h": "DBRC",
+    "segs": [{"k": "m", "t": "(database recovery control) sự điều khiển phục hồi cơ sở dữ liệu."}],
+    "k": "dbrc"
+  },
+  {
+    "h": "DBRI",
+    "segs": [{"k": "m", "t": "(Dual Basic Rate Interface) giao diện tốc độ cơ bản kép."}],
+    "k": "dbri"
+  },
+  {
+    "h": "DBRN",
+    "segs": [{"k": "m", "t": "(decibel above reference noise) decibel trên nhiễu chuẩn."}],
+    "k": "dbrn"
+  },
+  {
+    "h": "DBS",
+    "segs": [{"k": "m", "t": "viết tắt của doing business as chuyện làm ăn cũng thế."}],
+    "k": "dbs"
+  }
+]

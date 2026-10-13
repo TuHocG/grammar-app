@@ -1,1 +1,117 @@
-[{"h":"tm","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"tên do một nhà sản xuất đặt cho một sản phẩm lưu hành rộng rãi để nhận biết một mặt hàng cụ thể"},{"k":"m","t":"tên thương mại ("},{"k":"ex","t":"trademark","vi":")."}],"k":"tm"},{"h":"tm (thulium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tuli"}],"k":"tm (thulium)"},{"h":"TM (trademark)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"nhãn thương mại"},{"k":"m","t":"thương hiệu"}],"k":"tm (trademark)"},{"h":"TM (transmission media)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phương tiện truyền thông"},{"k":"m","t":"môi trường phát"}],"k":"tm (transmission media)"},{"h":"TM mode","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kiểu (dao động) E"},{"k":"m","t":"kiểu (dao động) TM"},{"k":"m","t":"kiểu (dao động) từ ngang"},{"k":"m","t":"kiểu E"},{"k":"m","t":"kiều TM"}],"k":"tm mode"},{"h":"TM trade mark","segs":[{"k":"m","t":"nhãn hiệu mậu dịch."}],"k":"tm trade mark"},{"h":"TM wave","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sóng E"},{"k":"m","t":"sóng TM"},{"k":"m","t":"sóng từ ngang"}],"k":"tm wave"},{"h":"tmeses","segs":[{"k":"m","t":"số nhiều của"},{"k":"ex","t":"tmesis","vi":"."}],"ipa":"'tmi:si:z","k":"tmeses"},{"h":"tmesis","segs":[{"k":"m","t":"danh từ số nhiều"},{"k":"ex","t":"tmeses","vi":"(ngôn ngữ học) phép chêm từ."}],"ipa":"'tmi:sis","k":"tmesis"},{"h":"tmetic","segs":[{"k":"m","t":"a. Med. Obs. rare."},{"k":"m","t":"Cutting; loosening, resolving."}],"k":"tmetic"},{"h":"TMJ syndrome","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"pain in jaw: a painful condition involving the temporomandibular joint và the muscles used for chewing, sometimes causing clicking sounds và restricted jaw movement."},{"k":"m","t":"It is usually associated with a faulty dental bite."},{"k":"m","t":"Full form temporomandibular joint syndrome"}],"k":"tmj syndrome"},{"h":"TML","segs":[{"k":"m","t":"(tutorial and message library) thư viện thông báo và trợ giáo, thư viện thông báo và hướng dẫn."}],"k":"tml"},{"h":"TMP","segs":[{"k":"m","t":"(terminal monitor program) chương trình giám sát thiết bị đầu cuối."}],"k":"tmp"},{"h":"TMT","segs":[{"k":"m","t":"Viết tắt của finance technology, media, và telecommunications"}],"k":"tmt"}]
+[
+  {
+    "h": "tm",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {
+        "k": "m",
+        "t": "tên do một nhà sản xuất đặt cho một sản phẩm lưu hành rộng rãi để nhận biết một mặt hàng cụ thể"
+      },
+      {"k": "m", "t": "tên thương mại ("},
+      {"k": "ex", "t": "trademark", "vi": ")."}
+    ],
+    "k": "tm"
+  },
+  {
+    "h": "tm (thulium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tuli"}],
+    "k": "tm (thulium)"
+  },
+  {
+    "h": "TM (trademark)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "nhãn thương mại"},
+      {"k": "m", "t": "thương hiệu"}
+    ],
+    "k": "tm (trademark)"
+  },
+  {
+    "h": "TM (transmission media)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "phương tiện truyền thông"},
+      {"k": "m", "t": "môi trường phát"}
+    ],
+    "k": "tm (transmission media)"
+  },
+  {
+    "h": "TM mode",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "kiểu (dao động) E"},
+      {"k": "m", "t": "kiểu (dao động) TM"},
+      {"k": "m", "t": "kiểu (dao động) từ ngang"},
+      {"k": "m", "t": "kiểu E"},
+      {"k": "m", "t": "kiều TM"}
+    ],
+    "k": "tm mode"
+  },
+  {"h": "TM trade mark", "segs": [{"k": "m", "t": "nhãn hiệu mậu dịch."}], "k": "tm trade mark"},
+  {
+    "h": "TM wave",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sóng E"},
+      {"k": "m", "t": "sóng TM"},
+      {"k": "m", "t": "sóng từ ngang"}
+    ],
+    "k": "tm wave"
+  },
+  {
+    "h": "tmeses",
+    "segs": [{"k": "m", "t": "số nhiều của"}, {"k": "ex", "t": "tmesis", "vi": "."}],
+    "ipa": "'tmi:si:z",
+    "k": "tmeses"
+  },
+  {
+    "h": "tmesis",
+    "segs": [
+      {"k": "m", "t": "danh từ số nhiều"},
+      {"k": "ex", "t": "tmeses", "vi": "(ngôn ngữ học) phép chêm từ."}
+    ],
+    "ipa": "'tmi:sis",
+    "k": "tmesis"
+  },
+  {
+    "h": "tmetic",
+    "segs": [
+      {"k": "m", "t": "a. Med. Obs. rare."},
+      {"k": "m", "t": "Cutting; loosening, resolving."}
+    ],
+    "k": "tmetic"
+  },
+  {
+    "h": "TMJ syndrome",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "pain in jaw: a painful condition involving the temporomandibular joint và the muscles used for chewing, sometimes causing clicking sounds và restricted jaw movement."
+      },
+      {"k": "m", "t": "It is usually associated with a faulty dental bite."},
+      {"k": "m", "t": "Full form temporomandibular joint syndrome"}
+    ],
+    "k": "tmj syndrome"
+  },
+  {
+    "h": "TML",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(tutorial and message library) thư viện thông báo và trợ giáo, thư viện thông báo và hướng dẫn."
+      }
+    ],
+    "k": "tml"
+  },
+  {
+    "h": "TMP",
+    "segs": [{"k": "m", "t": "(terminal monitor program) chương trình giám sát thiết bị đầu cuối."}],
+    "k": "tmp"
+  },
+  {
+    "h": "TMT",
+    "segs": [{"k": "m", "t": "Viết tắt của finance technology, media, và telecommunications"}],
+    "k": "tmt"
+  }
+]

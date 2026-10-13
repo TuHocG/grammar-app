@@ -1,1 +1,337 @@
-[{"h":"PC","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"máy tính cá nhân ("},{"k":"ex","t":"personal computer) cảnh sát (police constable) ủy viên Hội đồng cơ mật của hoàng gia Anh (privy councillor) phần trăm (percent) bưu thiếp (postcard","vi":")."}],"ipa":",pi:'si:","k":"pc"},{"h":"PC (Path control)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự điều khiển đường dẫn"}],"k":"pc (path control)"},{"h":"PC (Photoconductor)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chất quang dẫn"}],"k":"pc (photoconductor)"},{"h":"PC (Printec circuit)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạch in"}],"k":"pc (printec circuit)"},{"h":"PC (Program counter)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ đếm chương trình"}],"k":"pc (program counter)"},{"h":"PC (Programmable controller)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ điều khiển lập trình được"}],"k":"pc (programmable controller)"},{"h":"PC board","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tấm mạch PC"}],"k":"pc board"},{"h":"PC DOS","segs":[{"k":"m","t":"một phiên bản của hệ điều hành MS-DOS do hãng IBM đưa ra."}],"k":"pc dos"},{"h":"PC memory card","segs":[{"k":"m","t":"card bộ nhớ máy tính cá nhân, thẻ mạch bộ nhớ máy tính cá nhân."}],"k":"pc memory card"},{"h":"PC network","segs":[{"k":"m","t":"mạng máy tính cá nhân."}],"k":"pc network"},{"h":"PC personal computer","segs":[{"k":"m","t":"máy tính cá nhân."}],"k":"pc personal computer"},{"h":"PC strand","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tao cáp dự ứng lực"}],"k":"pc strand"},{"h":"PC-AT","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy PC-AT"}],"k":"pc-at"},{"h":"PC-XT","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy PC-XT"}],"k":"pc-xt"},{"h":"PCB","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"của 1. POLICHLORI-NATED BIPHENYL thành phần độc hại trong chất dẻo 2. (điện toán) PRINTED CIRCUIT BOARD bảng mạch in 3. (bảo hiểm) PRIVATE CAR BENEFIT lợi nhuận xe hơi tư nhân"}],"k":"pcb"},{"h":"PCD","segs":[{"k":"m","t":"1. partition control descriptor bộ mô tả điều khiển phân chia. 2. preconfigured system definition định nghĩa hệ thống được cấu hình trước."}],"k":"pcd"},{"h":"PCE","segs":[{"k":"m","t":"(processing and control element) phần tử xử lý và điều khiển."}],"k":"pce"},{"h":"PCI","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"specification for extending computer circuitry: a specification for extending the internal circuitry bus that transmits data from one part of a computer to another by inserting circuit boards."},{"k":"m","t":"It allows the expansion of a computer by inserting printed circuit boards, hoặc expansion boards, into sockets expansion slots inside the PCI bus."},{"k":"m","t":"Full form peripheral component interconnect"}],"k":"pci"},{"h":"PCL","segs":[{"k":"m","t":"(printer control language) ngôn ngữ điều khiển máy in."}],"k":"pcl"},{"h":"PCL local bus","segs":[{"k":"m","t":"(peripheral component Interconnect local bus) đường truyền dẫn cục bộ nối thành phần ngoại vi."}],"k":"pcl local bus"},{"h":"PCM","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự biến điệu mã xung (Pulse Code Modulation)."}],"ipa":"'pi;si:em","k":"pcm"},{"h":"PCM codec","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cođec PCM"}],"k":"pcm codec"},{"h":"PCM encode system","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hệ thống mã hóa PCM"}],"k":"pcm encode system"},{"h":"PCM encoder-decoder","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"cođec PCM"}],"k":"pcm encoder-decoder"},{"h":"PCM filter","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ lọc PCM"}],"k":"pcm filter"},{"h":"PCM format","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khuôn dạng PCM"}],"k":"pcm format"},{"h":"PCM frame alignment","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự khóa mành PCM"}],"k":"pcm frame alignment"},{"h":"PCM link","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đường trục truyền số"}],"k":"pcm link"},{"h":"PCM multiplex frame","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mành ghép kênh PCM"}],"k":"pcm multiplex frame"},{"h":"PCM multiplex system","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"thiết bị ghép nối PCM"}],"k":"pcm multiplex system"},{"h":"PCM multiplexer","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ dồn kênh PCM"}],"k":"pcm multiplexer"},{"h":"PCM primary group","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"nhóm PCM sơ cấp"}],"k":"pcm primary group"},{"h":"PCM sound channel","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đường kênh âm thanh PCM"}],"k":"pcm sound channel"},{"h":"PCM switching system","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hệ chuyển mạch PCM"}],"k":"pcm switching system"},{"h":"PCM system","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hệ điều biến mã xung"},{"k":"m","t":"hệ PCM"}],"k":"pcm system"},{"h":"PCM/FM modulation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"điều biến PCM/FM"}],"k":"pcm/fm modulation"},{"h":"PCMCIA","segs":[{"k":"m","t":"(Personal Computer Memory Card International Association) hiệp hội quốc tế về card nhớ máy tính cá nhân."}],"k":"pcmcia"},{"h":"PCMCIA Card Services","segs":[{"k":"m","t":"dịch vụ thẻ PCMCIA."}],"k":"pcmcia card services"},{"h":"PCMCIA connector","segs":[{"k":"m","t":"bộ nối PCMCIA, đầu nối PCMCIA."}],"k":"pcmcia connector"},{"h":"PCMCIA Slot","segs":[{"k":"m","t":"khe PCMCIA, rãnh PCMCIA."}],"k":"pcmcia slot"},{"h":"PCN","segs":[{"k":"m","t":"(personal communications network) mạng truyền thông cá nhân, mạng truyền thông riêng."}],"k":"pcn"},{"h":"pcntentiary (prison) sentencing","segs":[{"k":"m","t":"việc kết án tù giam dài hạn, việc xác định hình phạt tù giam dài hạn."}],"k":"pcntentiary (prison) sentencing"},{"h":"PCO","segs":[{"k":"m","t":"Viết tắt của Privy Council Office"}],"k":"pco"},{"h":"PCOS","segs":[{"k":"m","t":"Viết tắt của medicine polycystic ovarian syndrome"}],"k":"pcos"},{"h":"PCP","segs":[{"k":"m","t":"(primary control program) chương trình điều khiển chính."}],"k":"pcp"},{"h":"PCPprimaty control program)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình điều khiển cá nhân"}],"k":"pcpprimaty control program)"},{"h":"PCR","segs":[{"k":"m","t":"Viết tắt của biochemistry polymerase chain reaction"}],"k":"pcr"},{"h":"PCS","segs":[{"k":"m","t":"1. personal communications services dịch vụ truyền thông cá nhân, dịch vụ truyền thông riêng. 2. print contrast signal tín hiệu tương phản in. 3. programmable character set tập ký tự lập trình được."}],"k":"pcs"},{"h":"PCS (Programmable character)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tập ký tự lập trình được"}],"k":"pcs (programmable character)"},{"h":"PCS Application (PCSAP)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ứng dụng PCS"}],"k":"pcs application (pcsap)"},{"h":"PCSA","segs":[{"k":"m","t":"(Personal Computing System Architecture) kiến trúc hệ thống tính toán cá nhân."}],"k":"pcsa"},{"h":"PCT","segs":[{"k":"m","t":"1. partition control table bảng điều khiển phân chia. 2. program control table bảng điều khiển chương trình."}],"k":"pct"},{"h":"pct.","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"(Mỹ) PER CENT phần trăm."}],"k":"pct."},{"h":"PCV","segs":[{"k":"m","t":"Viết tắt của passenger carrying vehicle"}],"k":"pcv"},{"h":"PCX","segs":[{"k":"m","t":"ảnh PCX."}],"k":"pcx"}]
+[
+  {
+    "h": "PC",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "máy tính cá nhân ("},
+      {
+        "k": "ex",
+        "t": "personal computer) cảnh sát (police constable) ủy viên Hội đồng cơ mật của hoàng gia Anh (privy councillor) phần trăm (percent) bưu thiếp (postcard",
+        "vi": ")."
+      }
+    ],
+    "ipa": ",pi:'si:",
+    "k": "pc"
+  },
+  {
+    "h": "PC (Path control)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự điều khiển đường dẫn"}],
+    "k": "pc (path control)"
+  },
+  {
+    "h": "PC (Photoconductor)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chất quang dẫn"}],
+    "k": "pc (photoconductor)"
+  },
+  {
+    "h": "PC (Printec circuit)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạch in"}],
+    "k": "pc (printec circuit)"
+  },
+  {
+    "h": "PC (Program counter)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ đếm chương trình"}],
+    "k": "pc (program counter)"
+  },
+  {
+    "h": "PC (Programmable controller)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bộ điều khiển lập trình được"}
+    ],
+    "k": "pc (programmable controller)"
+  },
+  {
+    "h": "PC board",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tấm mạch PC"}],
+    "k": "pc board"
+  },
+  {
+    "h": "PC DOS",
+    "segs": [{"k": "m", "t": "một phiên bản của hệ điều hành MS-DOS do hãng IBM đưa ra."}],
+    "k": "pc dos"
+  },
+  {
+    "h": "PC memory card",
+    "segs": [{"k": "m", "t": "card bộ nhớ máy tính cá nhân, thẻ mạch bộ nhớ máy tính cá nhân."}],
+    "k": "pc memory card"
+  },
+  {"h": "PC network", "segs": [{"k": "m", "t": "mạng máy tính cá nhân."}], "k": "pc network"},
+  {
+    "h": "PC personal computer",
+    "segs": [{"k": "m", "t": "máy tính cá nhân."}],
+    "k": "pc personal computer"
+  },
+  {
+    "h": "PC strand",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tao cáp dự ứng lực"}],
+    "k": "pc strand"
+  },
+  {
+    "h": "PC-AT",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy PC-AT"}],
+    "k": "pc-at"
+  },
+  {
+    "h": "PC-XT",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy PC-XT"}],
+    "k": "pc-xt"
+  },
+  {
+    "h": "PCB",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {
+        "k": "m",
+        "t": "của 1. POLICHLORI-NATED BIPHENYL thành phần độc hại trong chất dẻo 2. (điện toán) PRINTED CIRCUIT BOARD bảng mạch in 3. (bảo hiểm) PRIVATE CAR BENEFIT lợi nhuận xe hơi tư nhân"
+      }
+    ],
+    "k": "pcb"
+  },
+  {
+    "h": "PCD",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. partition control descriptor bộ mô tả điều khiển phân chia. 2. preconfigured system definition định nghĩa hệ thống được cấu hình trước."
+      }
+    ],
+    "k": "pcd"
+  },
+  {
+    "h": "PCE",
+    "segs": [{"k": "m", "t": "(processing and control element) phần tử xử lý và điều khiển."}],
+    "k": "pce"
+  },
+  {
+    "h": "PCI",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "specification for extending computer circuitry: a specification for extending the internal circuitry bus that transmits data from one part of a computer to another by inserting circuit boards."
+      },
+      {
+        "k": "m",
+        "t": "It allows the expansion of a computer by inserting printed circuit boards, hoặc expansion boards, into sockets expansion slots inside the PCI bus."
+      },
+      {"k": "m", "t": "Full form peripheral component interconnect"}
+    ],
+    "k": "pci"
+  },
+  {
+    "h": "PCL",
+    "segs": [{"k": "m", "t": "(printer control language) ngôn ngữ điều khiển máy in."}],
+    "k": "pcl"
+  },
+  {
+    "h": "PCL local bus",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(peripheral component Interconnect local bus) đường truyền dẫn cục bộ nối thành phần ngoại vi."
+      }
+    ],
+    "k": "pcl local bus"
+  },
+  {
+    "h": "PCM",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "sự biến điệu mã xung (Pulse Code Modulation)."}
+    ],
+    "ipa": "'pi;si:em",
+    "k": "pcm"
+  },
+  {
+    "h": "PCM codec",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cođec PCM"}],
+    "k": "pcm codec"
+  },
+  {
+    "h": "PCM encode system",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hệ thống mã hóa PCM"}],
+    "k": "pcm encode system"
+  },
+  {
+    "h": "PCM encoder-decoder",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "cođec PCM"}],
+    "k": "pcm encoder-decoder"
+  },
+  {
+    "h": "PCM filter",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ lọc PCM"}],
+    "k": "pcm filter"
+  },
+  {
+    "h": "PCM format",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "khuôn dạng PCM"}],
+    "k": "pcm format"
+  },
+  {
+    "h": "PCM frame alignment",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự khóa mành PCM"}],
+    "k": "pcm frame alignment"
+  },
+  {
+    "h": "PCM link",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đường trục truyền số"}],
+    "k": "pcm link"
+  },
+  {
+    "h": "PCM multiplex frame",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mành ghép kênh PCM"}],
+    "k": "pcm multiplex frame"
+  },
+  {
+    "h": "PCM multiplex system",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "thiết bị ghép nối PCM"}],
+    "k": "pcm multiplex system"
+  },
+  {
+    "h": "PCM multiplexer",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ dồn kênh PCM"}],
+    "k": "pcm multiplexer"
+  },
+  {
+    "h": "PCM primary group",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhóm PCM sơ cấp"}],
+    "k": "pcm primary group"
+  },
+  {
+    "h": "PCM sound channel",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đường kênh âm thanh PCM"}],
+    "k": "pcm sound channel"
+  },
+  {
+    "h": "PCM switching system",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hệ chuyển mạch PCM"}],
+    "k": "pcm switching system"
+  },
+  {
+    "h": "PCM system",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hệ điều biến mã xung"},
+      {"k": "m", "t": "hệ PCM"}
+    ],
+    "k": "pcm system"
+  },
+  {
+    "h": "PCM/FM modulation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "điều biến PCM/FM"}],
+    "k": "pcm/fm modulation"
+  },
+  {
+    "h": "PCMCIA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Personal Computer Memory Card International Association) hiệp hội quốc tế về card nhớ máy tính cá nhân."
+      }
+    ],
+    "k": "pcmcia"
+  },
+  {
+    "h": "PCMCIA Card Services",
+    "segs": [{"k": "m", "t": "dịch vụ thẻ PCMCIA."}],
+    "k": "pcmcia card services"
+  },
+  {
+    "h": "PCMCIA connector",
+    "segs": [{"k": "m", "t": "bộ nối PCMCIA, đầu nối PCMCIA."}],
+    "k": "pcmcia connector"
+  },
+  {"h": "PCMCIA Slot", "segs": [{"k": "m", "t": "khe PCMCIA, rãnh PCMCIA."}], "k": "pcmcia slot"},
+  {
+    "h": "PCN",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(personal communications network) mạng truyền thông cá nhân, mạng truyền thông riêng."
+      }
+    ],
+    "k": "pcn"
+  },
+  {
+    "h": "pcntentiary (prison) sentencing",
+    "segs": [
+      {"k": "m", "t": "việc kết án tù giam dài hạn, việc xác định hình phạt tù giam dài hạn."}
+    ],
+    "k": "pcntentiary (prison) sentencing"
+  },
+  {"h": "PCO", "segs": [{"k": "m", "t": "Viết tắt của Privy Council Office"}], "k": "pco"},
+  {
+    "h": "PCOS",
+    "segs": [{"k": "m", "t": "Viết tắt của medicine polycystic ovarian syndrome"}],
+    "k": "pcos"
+  },
+  {
+    "h": "PCP",
+    "segs": [{"k": "m", "t": "(primary control program) chương trình điều khiển chính."}],
+    "k": "pcp"
+  },
+  {
+    "h": "PCPprimaty control program)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chương trình điều khiển cá nhân"}
+    ],
+    "k": "pcpprimaty control program)"
+  },
+  {
+    "h": "PCR",
+    "segs": [{"k": "m", "t": "Viết tắt của biochemistry polymerase chain reaction"}],
+    "k": "pcr"
+  },
+  {
+    "h": "PCS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. personal communications services dịch vụ truyền thông cá nhân, dịch vụ truyền thông riêng. 2. print contrast signal tín hiệu tương phản in. 3. programmable character set tập ký tự lập trình được."
+      }
+    ],
+    "k": "pcs"
+  },
+  {
+    "h": "PCS (Programmable character)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "tập ký tự lập trình được"}
+    ],
+    "k": "pcs (programmable character)"
+  },
+  {
+    "h": "PCS Application (PCSAP)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ứng dụng PCS"}],
+    "k": "pcs application (pcsap)"
+  },
+  {
+    "h": "PCSA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Personal Computing System Architecture) kiến trúc hệ thống tính toán cá nhân."
+      }
+    ],
+    "k": "pcsa"
+  },
+  {
+    "h": "PCT",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. partition control table bảng điều khiển phân chia. 2. program control table bảng điều khiển chương trình."
+      }
+    ],
+    "k": "pct"
+  },
+  {
+    "h": "pct.",
+    "segs": [{"k": "pos", "t": "ngoại động từ"}, {"k": "m", "t": "(Mỹ) PER CENT phần trăm."}],
+    "k": "pct."
+  },
+  {"h": "PCV", "segs": [{"k": "m", "t": "Viết tắt của passenger carrying vehicle"}], "k": "pcv"},
+  {"h": "PCX", "segs": [{"k": "m", "t": "ảnh PCX."}], "k": "pcx"}
+]

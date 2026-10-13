@@ -1,1 +1,40 @@
-[{"h":"bw","segs":[{"k":"m","t":"Viết tắt của 1. biological weapons"},{"k":"m","t":"2. black-and-white"},{"k":"m","t":"3. online Botswana (used in Internet addresses)"}],"k":"bw"},{"h":"bwana","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(châu Phi) ông chủ, ngài."}],"ipa":"'ba:nə","k":"bwana"},{"h":"BWB","segs":[{"k":"m","t":"Viết tắt của U.K. British Waterways Board"}],"k":"bwb"},{"h":"BWG","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"U.K. system for giving metal rod diameter: a numerical system for specifying the diameter of metal rods. Full form Birmingham Wire Gauge"}],"k":"bwg"},{"h":"BWR","segs":[{"k":"m","t":"Viết tắt của energy boiling-water reactor"}],"k":"bwr"},{"h":"BWV","segs":[{"k":"m","t":"Viết tắt của music Bach Werke-Verzeichnis (used before numbers identifying the works of J. S. Bach)"}],"k":"bwv"}]
+[
+  {
+    "h": "bw",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. biological weapons"},
+      {"k": "m", "t": "2. black-and-white"},
+      {"k": "m", "t": "3. online Botswana (used in Internet addresses)"}
+    ],
+    "k": "bw"
+  },
+  {
+    "h": "bwana",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "(châu Phi) ông chủ, ngài."}],
+    "ipa": "'ba:nə",
+    "k": "bwana"
+  },
+  {"h": "BWB", "segs": [{"k": "m", "t": "Viết tắt của U.K. British Waterways Board"}], "k": "bwb"},
+  {
+    "h": "BWG",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "U.K. system for giving metal rod diameter: a numerical system for specifying the diameter of metal rods. Full form Birmingham Wire Gauge"
+      }
+    ],
+    "k": "bwg"
+  },
+  {"h": "BWR", "segs": [{"k": "m", "t": "Viết tắt của energy boiling-water reactor"}], "k": "bwr"},
+  {
+    "h": "BWV",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của music Bach Werke-Verzeichnis (used before numbers identifying the works of J. S. Bach)"
+      }
+    ],
+    "k": "bwv"
+  }
+]

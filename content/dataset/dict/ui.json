@@ -1,1 +1,116 @@
-[{"h":"UI","segs":[{"k":"m","t":"(unnumbered information frame) khối thông tin không đánh số."}],"k":"ui"},{"h":"UI (user interface)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"giao diện người dùng"}],"k":"ui (user interface)"},{"h":"UID","segs":[{"k":"m","t":"1. user identification sự nhận dạng người dùng. 2. user identifier ký hiệu nhận dạng người dùng, chỉ danh user, ID của user."}],"k":"uid"},{"h":"UID (user identification)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự nhận dạng người dùng"}],"k":"uid (user identification)"},{"h":"UID (user identifier)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chỉ danh user"},{"k":"m","t":"ID của user"},{"k":"m","t":"ký hiệu nhận dạng người dùng"}],"k":"uid (user identifier)"},{"h":"Uigur","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"người Duy Ngô Nhĩ"},{"k":"m","t":"tiếng Duy Ngô Nhĩ."}],"ipa":"'wi:gə","k":"uigur"},{"h":"UIL","segs":[{"k":"m","t":"(user interface language) ngôn ngữ giao diện người dùng."}],"k":"uil"},{"h":"uilleann pipes","segs":[{"k":"m","t":"danh từ số nhiều"},{"k":"m","t":"Irish bagpipes: Irish bagpipes played by squeezing the bellows under the arm"}],"k":"uilleann pipes"},{"h":"UIMS","segs":[{"k":"m","t":"(user interface management system) hệ thống quản lý giao diện người dùng."}],"k":"uims"},{"h":"uinform crossing","segs":[{"k":"m","t":"mặt cắt không đổi."}],"k":"uinform crossing"},{"h":"uintaite","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"bitumen: a bitumen mined in the Uinta mountains in Utah. Dùng để: manufacturing industries."}],"k":"uintaite"},{"h":"UIT classification plan","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kế hoạch sắp xếp của UIT"}],"k":"uit classification plan"},{"h":"uitlander","segs":[{"k":"m","t":"(số nhiều uitlanders) hoặc Uitlander (số nhiều Uitlanders)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"South Africa foreigner: a foreigner, especially a British person resident in the former Transvaal hoặc Orange Free State"}],"k":"uitlander"},{"h":"Uitlanders","segs":[{"k":"m","t":"(những người Phi gốc Hà Lan): những người nhập cư gốc Hà Lan. Họ đến TRANSVAAL vào năm 1886 để tìm vàng. Họ không được nhập quốc tịch Nam Phi, bị đánh thuế nặng nề và bị trục xuất về nước."}],"k":"uitlanders"}]
+[
+  {
+    "h": "UI",
+    "segs": [{"k": "m", "t": "(unnumbered information frame) khối thông tin không đánh số."}],
+    "k": "ui"
+  },
+  {
+    "h": "UI (user interface)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "giao diện người dùng"}],
+    "k": "ui (user interface)"
+  },
+  {
+    "h": "UID",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. user identification sự nhận dạng người dùng. 2. user identifier ký hiệu nhận dạng người dùng, chỉ danh user, ID của user."
+      }
+    ],
+    "k": "uid"
+  },
+  {
+    "h": "UID (user identification)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự nhận dạng người dùng"}],
+    "k": "uid (user identification)"
+  },
+  {
+    "h": "UID (user identifier)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chỉ danh user"},
+      {"k": "m", "t": "ID của user"},
+      {"k": "m", "t": "ký hiệu nhận dạng người dùng"}
+    ],
+    "k": "uid (user identifier)"
+  },
+  {
+    "h": "Uigur",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "người Duy Ngô Nhĩ"},
+      {"k": "m", "t": "tiếng Duy Ngô Nhĩ."}
+    ],
+    "ipa": "'wi:gə",
+    "k": "uigur"
+  },
+  {
+    "h": "UIL",
+    "segs": [{"k": "m", "t": "(user interface language) ngôn ngữ giao diện người dùng."}],
+    "k": "uil"
+  },
+  {
+    "h": "uilleann pipes",
+    "segs": [
+      {"k": "m", "t": "danh từ số nhiều"},
+      {
+        "k": "m",
+        "t": "Irish bagpipes: Irish bagpipes played by squeezing the bellows under the arm"
+      }
+    ],
+    "k": "uilleann pipes"
+  },
+  {
+    "h": "UIMS",
+    "segs": [
+      {"k": "m", "t": "(user interface management system) hệ thống quản lý giao diện người dùng."}
+    ],
+    "k": "uims"
+  },
+  {
+    "h": "uinform crossing",
+    "segs": [{"k": "m", "t": "mặt cắt không đổi."}],
+    "k": "uinform crossing"
+  },
+  {
+    "h": "uintaite",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "bitumen: a bitumen mined in the Uinta mountains in Utah. Dùng để: manufacturing industries."
+      }
+    ],
+    "k": "uintaite"
+  },
+  {
+    "h": "UIT classification plan",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "kế hoạch sắp xếp của UIT"}
+    ],
+    "k": "uit classification plan"
+  },
+  {
+    "h": "uitlander",
+    "segs": [
+      {"k": "m", "t": "(số nhiều uitlanders) hoặc Uitlander (số nhiều Uitlanders)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "South Africa foreigner: a foreigner, especially a British person resident in the former Transvaal hoặc Orange Free State"
+      }
+    ],
+    "k": "uitlander"
+  },
+  {
+    "h": "Uitlanders",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(những người Phi gốc Hà Lan): những người nhập cư gốc Hà Lan. Họ đến TRANSVAAL vào năm 1886 để tìm vàng. Họ không được nhập quốc tịch Nam Phi, bị đánh thuế nặng nề và bị trục xuất về nước."
+      }
+    ],
+    "k": "uitlanders"
+  }
+]

@@ -1,1 +1,115 @@
-{"id":133,"code":"C 9","group":"C","n":9,"title":"C 9","first_line":"You may be wondering if you'll EVER sleep again, or if you still own a shirt that's not stained.","video":"C  9.avi","duration":82.1,"lines":[{"e":6.09,"en":"You may be wondering if you'll EVER sleep again, or if you still own a shirt that's not stained.","vi":"Có lẽ bạn thấy mình không ngủ nổi, và chẳng còn cái áo nào sạch sẽ.","s":0.0},{"e":12.13,"en":"Luckily, this week brings a reward for your hard work-your baby's first smile!","vi":"May mắn là trong tuần này bạn sẽ nhận được phần thưởng cho công sức khó nhọc đã bỏ ra, đó là nụ cười đầu tiên của bé.","s":6.09},{"e":18.08,"en":"It's true: by the end of the first month, most babies will start to aim smiles directly at you.","vi":"Ðúng thế! Vào cuối tháng thứ nhất, hầu hết các bé đều cười với cha mẹ.","s":12.13},{"e":22.9,"en":"And at this point in development, your baby may even use those new neck and shoulder muscles","vi":"Và tại mốc phát triển này, thậm chí bé còn biết sử dụng các cơ cổ và vai","s":18.08},{"e":25.03,"en":"to lift his or her head briefly.","vi":"để ngẩng đầu lên.","s":22.9},{"e":30.19,"en":"Encourage your baby to do so by letting your newborn rest on his or her tummy when awake,","vi":"Hãy khuyến khích bé làm như thế bằng cách để bé nằm sấp khi thức dậy,","s":25.03},{"e":32.23,"en":"and putting your face in front of her.","vi":"và đưa mặt ra trước mặt bé.","s":30.19},{"e":38.05,"en":"Or, roll a receiving blanket into a log and place it under your baby's chest to help her push up.","vi":"Hoặc cuốn một chiếc chăn bông trẻ em thành một cuộn rồi đặt dưới ngực bé để giúp bé nâng ngực lên.","s":32.23},{"e":44.59,"en":"And when your newborn's not \"playing\" with you, your baby will probably be eating voraciously this week.","vi":"Và trong tuần này, khi bé không \"chơi\" với bạn, có lẽ bé ăn rất nhiều.","s":38.05},{"e":48.56,"en":"That's normal, since this is one of you baby's first growth spurts,","vi":"Ðó là chuyện bình thường, vì đây là nỗ lực tăng trưởng đầu tiên của bé,","s":44.59},{"e":51.81,"en":"and your newborn may have gained an ENTIRE pound by month's end.","vi":"và bé có thể tăng nguyên một cân vào cuối tháng.","s":48.56},{"e":58.35,"en":"You may have noticed that even when your baby Isn't nursing, your infant is making sucking motions with his mouth.","vi":"Bạn sẽ thấy rằng thậm chí khi không bú miệng bé cũng có những chuyển động như khi bú.","s":51.81},{"e":63.21,"en":"If you try to feed and there's no interest, your baby may just be looking for soothing.","vi":"Nếu thử cho bé bú bé sẽ không quan tâm, có lẽ bé chỉ muốn được vỗ về.","s":58.35},{"e":65.09,"en":"Offer a pacifier to help.","vi":"Hãy đưa một núm vú giả cho bé để trợ giúp.","s":63.21},{"e":69.96,"en":"And don't be surprised if your baby uses her own thumb or fingers to self-soothe.","vi":"Và đừng ngạc nhiên khi thấy bé đưa ngón tay cái hoặc các ngón khác vào miệng để tự vỗ về","s":65.09},{"e":76.04,"en":"Remember that you should make an appointment for your baby's checkup with your pediatrician by the end of this month.","vi":"Hãy nhớ đưa bé đến bác sĩ để được kiểm tra sức khỏe vào cuối tháng này.","s":69.96},{"e":79.53,"en":"This will allow your doctor to affirm what you already know","vi":"Ðiều này cho phép bác sĩ khẳng định những gì bạn thấy","s":76.04},{"e":82.13,"en":"that your baby is doing a great job of growing!","vi":"đó là bé đang tăng trưởng tốt.","s":79.53}]}
+{
+  "id": 133,
+  "code": "C 9",
+  "group": "C",
+  "n": 9,
+  "title": "C 9",
+  "first_line": "You may be wondering if you'll EVER sleep again, or if you still own a shirt that's not stained.",
+  "video": "C  9.avi",
+  "duration": 82.1,
+  "lines": [
+    {
+      "e": 6.09,
+      "en": "You may be wondering if you'll EVER sleep again, or if you still own a shirt that's not stained.",
+      "vi": "Có lẽ bạn thấy mình không ngủ nổi, và chẳng còn cái áo nào sạch sẽ.",
+      "s": 0.0
+    },
+    {
+      "e": 12.13,
+      "en": "Luckily, this week brings a reward for your hard work-your baby's first smile!",
+      "vi": "May mắn là trong tuần này bạn sẽ nhận được phần thưởng cho công sức khó nhọc đã bỏ ra, đó là nụ cười đầu tiên của bé.",
+      "s": 6.09
+    },
+    {
+      "e": 18.08,
+      "en": "It's true: by the end of the first month, most babies will start to aim smiles directly at you.",
+      "vi": "Ðúng thế! Vào cuối tháng thứ nhất, hầu hết các bé đều cười với cha mẹ.",
+      "s": 12.13
+    },
+    {
+      "e": 22.9,
+      "en": "And at this point in development, your baby may even use those new neck and shoulder muscles",
+      "vi": "Và tại mốc phát triển này, thậm chí bé còn biết sử dụng các cơ cổ và vai",
+      "s": 18.08
+    },
+    {"e": 25.03, "en": "to lift his or her head briefly.", "vi": "để ngẩng đầu lên.", "s": 22.9},
+    {
+      "e": 30.19,
+      "en": "Encourage your baby to do so by letting your newborn rest on his or her tummy when awake,",
+      "vi": "Hãy khuyến khích bé làm như thế bằng cách để bé nằm sấp khi thức dậy,",
+      "s": 25.03
+    },
+    {
+      "e": 32.23,
+      "en": "and putting your face in front of her.",
+      "vi": "và đưa mặt ra trước mặt bé.",
+      "s": 30.19
+    },
+    {
+      "e": 38.05,
+      "en": "Or, roll a receiving blanket into a log and place it under your baby's chest to help her push up.",
+      "vi": "Hoặc cuốn một chiếc chăn bông trẻ em thành một cuộn rồi đặt dưới ngực bé để giúp bé nâng ngực lên.",
+      "s": 32.23
+    },
+    {
+      "e": 44.59,
+      "en": "And when your newborn's not \"playing\" with you, your baby will probably be eating voraciously this week.",
+      "vi": "Và trong tuần này, khi bé không \"chơi\" với bạn, có lẽ bé ăn rất nhiều.",
+      "s": 38.05
+    },
+    {
+      "e": 48.56,
+      "en": "That's normal, since this is one of you baby's first growth spurts,",
+      "vi": "Ðó là chuyện bình thường, vì đây là nỗ lực tăng trưởng đầu tiên của bé,",
+      "s": 44.59
+    },
+    {
+      "e": 51.81,
+      "en": "and your newborn may have gained an ENTIRE pound by month's end.",
+      "vi": "và bé có thể tăng nguyên một cân vào cuối tháng.",
+      "s": 48.56
+    },
+    {
+      "e": 58.35,
+      "en": "You may have noticed that even when your baby Isn't nursing, your infant is making sucking motions with his mouth.",
+      "vi": "Bạn sẽ thấy rằng thậm chí khi không bú miệng bé cũng có những chuyển động như khi bú.",
+      "s": 51.81
+    },
+    {
+      "e": 63.21,
+      "en": "If you try to feed and there's no interest, your baby may just be looking for soothing.",
+      "vi": "Nếu thử cho bé bú bé sẽ không quan tâm, có lẽ bé chỉ muốn được vỗ về.",
+      "s": 58.35
+    },
+    {
+      "e": 65.09,
+      "en": "Offer a pacifier to help.",
+      "vi": "Hãy đưa một núm vú giả cho bé để trợ giúp.",
+      "s": 63.21
+    },
+    {
+      "e": 69.96,
+      "en": "And don't be surprised if your baby uses her own thumb or fingers to self-soothe.",
+      "vi": "Và đừng ngạc nhiên khi thấy bé đưa ngón tay cái hoặc các ngón khác vào miệng để tự vỗ về",
+      "s": 65.09
+    },
+    {
+      "e": 76.04,
+      "en": "Remember that you should make an appointment for your baby's checkup with your pediatrician by the end of this month.",
+      "vi": "Hãy nhớ đưa bé đến bác sĩ để được kiểm tra sức khỏe vào cuối tháng này.",
+      "s": 69.96
+    },
+    {
+      "e": 79.53,
+      "en": "This will allow your doctor to affirm what you already know",
+      "vi": "Ðiều này cho phép bác sĩ khẳng định những gì bạn thấy",
+      "s": 76.04
+    },
+    {
+      "e": 82.13,
+      "en": "that your baby is doing a great job of growing!",
+      "vi": "đó là bé đang tăng trưởng tốt.",
+      "s": 79.53
+    }
+  ]
+}

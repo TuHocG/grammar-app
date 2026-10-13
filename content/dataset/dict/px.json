@@ -1,1 +1,12 @@
-[{"h":"px","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"("},{"k":"ex","t":"PX) (Mỹ) (tắt) của Post Exchange","vi":"trạm bán hàng cho quân đội."}],"ipa":",pi:'eks","k":"px"}]
+[
+  {
+    "h": "px",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "("},
+      {"k": "ex", "t": "PX) (Mỹ) (tắt) của Post Exchange", "vi": "trạm bán hàng cho quân đội."}
+    ],
+    "ipa": ",pi:'eks",
+    "k": "px"
+  }
+]

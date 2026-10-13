@@ -1,1 +1,43 @@
-[{"h":"Jhansi","segs":[{"k":"m","t":"hoặc Jhansi capital city of Jhansi District, central India, in Uttar Pradesh State."},{"k":"m","t":"Dân số khoảng: 463,281 (2001)"}],"k":"jhansi"},{"h":"Jharkhand","segs":[{"k":"m","t":"state in northeastern India."},{"k":"m","t":"Capital: Ranchi"},{"k":"m","t":"Dân số khoảng: 26,909,428 (2000)"},{"k":"m","t":"Diện tích: 79,714 sq km/30,780 sq mi."}],"k":"jharkhand"},{"h":"Jhelum","segs":[{"k":"m","t":"river in northwestern India và northeastern Pakistan. It runs through the Indian city of Srinagar."},{"k":"m","t":"Length: 772 km/480 mi."}],"k":"jhelum"},{"h":"JHVH","segs":[{"k":"m","t":"hoặc JHWH"},{"k":"pos","t":"danh từ"},{"k":"m","t":"bible Another spelling of YHWH"}],"k":"jhvh"}]
+[
+  {
+    "h": "Jhansi",
+    "segs": [
+      {
+        "k": "m",
+        "t": "hoặc Jhansi capital city of Jhansi District, central India, in Uttar Pradesh State."
+      },
+      {"k": "m", "t": "Dân số khoảng: 463,281 (2001)"}
+    ],
+    "k": "jhansi"
+  },
+  {
+    "h": "Jharkhand",
+    "segs": [
+      {"k": "m", "t": "state in northeastern India."},
+      {"k": "m", "t": "Capital: Ranchi"},
+      {"k": "m", "t": "Dân số khoảng: 26,909,428 (2000)"},
+      {"k": "m", "t": "Diện tích: 79,714 sq km/30,780 sq mi."}
+    ],
+    "k": "jharkhand"
+  },
+  {
+    "h": "Jhelum",
+    "segs": [
+      {
+        "k": "m",
+        "t": "river in northwestern India và northeastern Pakistan. It runs through the Indian city of Srinagar."
+      },
+      {"k": "m", "t": "Length: 772 km/480 mi."}
+    ],
+    "k": "jhelum"
+  },
+  {
+    "h": "JHVH",
+    "segs": [
+      {"k": "m", "t": "hoặc JHWH"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "bible Another spelling of YHWH"}
+    ],
+    "k": "jhvh"
+  }
+]

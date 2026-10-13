@@ -1,1 +1,180 @@
-[{"h":"Mn","segs":[{"k":"m","t":"ký. manganese mangan."}],"k":"mn"},{"h":"mn (manganese)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mangan"}],"k":"mn (manganese)"},{"h":"MNA","segs":[{"k":"m","t":"Viết tắt của politics Member of the National Assembly (of Quebec)"}],"k":"mna"},{"h":"mna-controlled","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"có người lái/điều khiển."}],"ipa":"'mænkəntrould","k":"mna-controlled"},{"h":"mnay-headed","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"có nhiều đầu"},{"k":"m","t":"(khinh) quần chúng."}],"ipa":"'meni-'hedid","k":"mnay-headed"},{"h":"MNC","segs":[{"k":"m","t":"Viết tắt của commerce multinational corporation"}],"k":"mnc"},{"h":"mneme","segs":[{"k":"m","t":"Psychol. and Physiol."},{"k":"m","t":"The capacity which a living substance or organism possesses for retaining after-effects of experience or stimulation undergone by itself or its progenitors."},{"k":"m","t":"Else:"},{"k":"m","t":"1. The enduring quality in the mind that accounts for the facts of memory; the engram of a specific experience."},{"k":"m","t":"Else:"},{"k":"m","t":"Word written on a book in applebees. Doesn't really mean anything but is completely random."},{"k":"m","t":"If someone comments on facebook, you can always just write mneme and people will think it's funny."}],"ipa":"'ni:mi:","k":"mneme"},{"h":"mnemic","segs":[{"k":"m","t":"1. (thuộc) trí nhớ"},{"k":"m","t":"2. (thuộc) làm dễ nhớ."}],"k":"mnemic"},{"h":"mnemic theory","segs":[{"k":"m","t":"Lý thuyết trí nhớ."}],"k":"mnemic theory"},{"h":"mnemonic","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(thuộc) trí nhớ"},{"k":"m","t":"giúp trí nhớ."}],"ipa":"ni:'mɔnik","k":"mnemonic"},{"h":"mnemonic code","segs":[{"k":"m","t":"mã gợi nhớ."}],"k":"mnemonic code"},{"h":"mnemonic name","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tên dễ nhớ"}],"k":"mnemonic name"},{"h":"mnemonic OR address","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"địa chỉ nhớ OR"}],"k":"mnemonic or address"},{"h":"mnemonic symbol","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ký hiệu dễ nhớ"}],"k":"mnemonic symbol"},{"h":"mnemonically","segs":[{"k":"m","t":"in a way that aids the memory, by use of memory aids"}],"k":"mnemonically"},{"h":"mnemonics","segs":[{"k":"m","t":"Hoặc:"},{"k":"ex","t":"mnemotechny","vi":"danh từ, số nhiều dùng như số ít"},{"k":"m","t":"thuật nhớ."}],"ipa":"ni:'mɔniks","k":"mnemonics"},{"h":"mnemoric","segs":[{"k":"m","t":"để nhớ, giúp dễ nhớ."}],"k":"mnemoric"},{"h":"mnemoric address","segs":[{"k":"m","t":"địa chỉ dễ nhớ."}],"k":"mnemoric address"},{"h":"mnemoric code","segs":[{"k":"m","t":"mã dễ nhớ."}],"k":"mnemoric code"},{"h":"mnemoric field","segs":[{"k":"m","t":"trường dễ nhớ."}],"k":"mnemoric field"},{"h":"mnemoric operation code","segs":[{"k":"m","t":"mã thao tác dễ nhớ."}],"k":"mnemoric operation code"},{"h":"mnemoric selection","segs":[{"k":"m","t":"sự lựa chọn dễ nhớ."}],"k":"mnemoric selection"},{"h":"mnemoric symbol","segs":[{"k":"m","t":"ký hiệu dễ nhớ."}],"k":"mnemoric symbol"},{"h":"Mnemosyne","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Greek goddess of memory: in Greek mythology, the goddess of memory và mother of the Muses"}],"k":"mnemosyne"},{"h":"mnemotechnic","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(thuộc) thuật nhớ."}],"ipa":",ni:mou'teknik","k":"mnemotechnic"},{"h":"mnemotechnics","segs":[{"k":"m","t":"Thuật luyện trí nhớ."}],"k":"mnemotechnics"},{"h":"mnemotechny","segs":[{"k":"ref","t":"mnemonics"}],"redirect":"mnemonics","k":"mnemotechny"},{"h":"MNFET","segs":[{"k":"m","t":"(metal-nitride semiconductor field effect transistor) Transistor hiệu ứng trường bán dẫn nitrit kim loại."}],"k":"mnfet"},{"h":"mngr.","segs":[{"k":"m","t":"Viết tắt của management manager"}],"k":"mngr."},{"h":"MNOS","segs":[{"k":"m","t":"(metal-nitride-oxide semiconductor) chất bán dẫn oxit nitrit kim loại."}],"k":"mnos"},{"h":"MNP-4","segs":[{"k":"m","t":"một giao thức (chuẩn) kiểm lỗi phổ dụng nhất, nó lọc bỏ tạp nhiễu và hạn chế các lỗi có thể xảy ra trong quá trình phát và thu dữ liệu thông qua modem máy tính. Ðể kiểm tra lỗi cho một chức năng, cả hai modem-phát lẫn thu-đều phải có khả năng kiểm lỗi phù hợp với cùng một giao thức kiểm lỗi."}],"k":"mnp-4"},{"h":"MNS","segs":[{"k":"m","t":"(metal-nitride semiconductor) chất bán dẫn nitrit kim loại."}],"k":"mns"},{"h":"mnumeric code","segs":[{"k":"m","t":"(máy tính) mã nhớ."}],"k":"mnumeric code"}]
+[
+  {"h": "Mn", "segs": [{"k": "m", "t": "ký. manganese mangan."}], "k": "mn"},
+  {
+    "h": "mn (manganese)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mangan"}],
+    "k": "mn (manganese)"
+  },
+  {
+    "h": "MNA",
+    "segs": [{"k": "m", "t": "Viết tắt của politics Member of the National Assembly (of Quebec)"}],
+    "k": "mna"
+  },
+  {
+    "h": "mna-controlled",
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "có người lái/điều khiển."}],
+    "ipa": "'mænkəntrould",
+    "k": "mna-controlled"
+  },
+  {
+    "h": "mnay-headed",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "có nhiều đầu"},
+      {"k": "m", "t": "(khinh) quần chúng."}
+    ],
+    "ipa": "'meni-'hedid",
+    "k": "mnay-headed"
+  },
+  {
+    "h": "MNC",
+    "segs": [{"k": "m", "t": "Viết tắt của commerce multinational corporation"}],
+    "k": "mnc"
+  },
+  {
+    "h": "mneme",
+    "segs": [
+      {"k": "m", "t": "Psychol. and Physiol."},
+      {
+        "k": "m",
+        "t": "The capacity which a living substance or organism possesses for retaining after-effects of experience or stimulation undergone by itself or its progenitors."
+      },
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "1. The enduring quality in the mind that accounts for the facts of memory; the engram of a specific experience."
+      },
+      {"k": "m", "t": "Else:"},
+      {
+        "k": "m",
+        "t": "Word written on a book in applebees. Doesn't really mean anything but is completely random."
+      },
+      {
+        "k": "m",
+        "t": "If someone comments on facebook, you can always just write mneme and people will think it's funny."
+      }
+    ],
+    "ipa": "'ni:mi:",
+    "k": "mneme"
+  },
+  {
+    "h": "mnemic",
+    "segs": [{"k": "m", "t": "1. (thuộc) trí nhớ"}, {"k": "m", "t": "2. (thuộc) làm dễ nhớ."}],
+    "k": "mnemic"
+  },
+  {"h": "mnemic theory", "segs": [{"k": "m", "t": "Lý thuyết trí nhớ."}], "k": "mnemic theory"},
+  {
+    "h": "mnemonic",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "(thuộc) trí nhớ"},
+      {"k": "m", "t": "giúp trí nhớ."}
+    ],
+    "ipa": "ni:'mɔnik",
+    "k": "mnemonic"
+  },
+  {"h": "mnemonic code", "segs": [{"k": "m", "t": "mã gợi nhớ."}], "k": "mnemonic code"},
+  {
+    "h": "mnemonic name",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tên dễ nhớ"}],
+    "k": "mnemonic name"
+  },
+  {
+    "h": "mnemonic OR address",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "địa chỉ nhớ OR"}],
+    "k": "mnemonic or address"
+  },
+  {
+    "h": "mnemonic symbol",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ký hiệu dễ nhớ"}],
+    "k": "mnemonic symbol"
+  },
+  {
+    "h": "mnemonically",
+    "segs": [{"k": "m", "t": "in a way that aids the memory, by use of memory aids"}],
+    "k": "mnemonically"
+  },
+  {
+    "h": "mnemonics",
+    "segs": [
+      {"k": "m", "t": "Hoặc:"},
+      {"k": "ex", "t": "mnemotechny", "vi": "danh từ, số nhiều dùng như số ít"},
+      {"k": "m", "t": "thuật nhớ."}
+    ],
+    "ipa": "ni:'mɔniks",
+    "k": "mnemonics"
+  },
+  {"h": "mnemoric", "segs": [{"k": "m", "t": "để nhớ, giúp dễ nhớ."}], "k": "mnemoric"},
+  {"h": "mnemoric address", "segs": [{"k": "m", "t": "địa chỉ dễ nhớ."}], "k": "mnemoric address"},
+  {"h": "mnemoric code", "segs": [{"k": "m", "t": "mã dễ nhớ."}], "k": "mnemoric code"},
+  {"h": "mnemoric field", "segs": [{"k": "m", "t": "trường dễ nhớ."}], "k": "mnemoric field"},
+  {
+    "h": "mnemoric operation code",
+    "segs": [{"k": "m", "t": "mã thao tác dễ nhớ."}],
+    "k": "mnemoric operation code"
+  },
+  {
+    "h": "mnemoric selection",
+    "segs": [{"k": "m", "t": "sự lựa chọn dễ nhớ."}],
+    "k": "mnemoric selection"
+  },
+  {"h": "mnemoric symbol", "segs": [{"k": "m", "t": "ký hiệu dễ nhớ."}], "k": "mnemoric symbol"},
+  {
+    "h": "Mnemosyne",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Greek goddess of memory: in Greek mythology, the goddess of memory và mother of the Muses"
+      }
+    ],
+    "k": "mnemosyne"
+  },
+  {
+    "h": "mnemotechnic",
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thuộc) thuật nhớ."}],
+    "ipa": ",ni:mou'teknik",
+    "k": "mnemotechnic"
+  },
+  {"h": "mnemotechnics", "segs": [{"k": "m", "t": "Thuật luyện trí nhớ."}], "k": "mnemotechnics"},
+  {
+    "h": "mnemotechny",
+    "segs": [{"k": "ref", "t": "mnemonics"}],
+    "redirect": "mnemonics",
+    "k": "mnemotechny"
+  },
+  {
+    "h": "MNFET",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(metal-nitride semiconductor field effect transistor) Transistor hiệu ứng trường bán dẫn nitrit kim loại."
+      }
+    ],
+    "k": "mnfet"
+  },
+  {"h": "mngr.", "segs": [{"k": "m", "t": "Viết tắt của management manager"}], "k": "mngr."},
+  {
+    "h": "MNOS",
+    "segs": [
+      {"k": "m", "t": "(metal-nitride-oxide semiconductor) chất bán dẫn oxit nitrit kim loại."}
+    ],
+    "k": "mnos"
+  },
+  {
+    "h": "MNP-4",
+    "segs": [
+      {
+        "k": "m",
+        "t": "một giao thức (chuẩn) kiểm lỗi phổ dụng nhất, nó lọc bỏ tạp nhiễu và hạn chế các lỗi có thể xảy ra trong quá trình phát và thu dữ liệu thông qua modem máy tính. Ðể kiểm tra lỗi cho một chức năng, cả hai modem-phát lẫn thu-đều phải có khả năng kiểm lỗi phù hợp với cùng một giao thức kiểm lỗi."
+      }
+    ],
+    "k": "mnp-4"
+  },
+  {
+    "h": "MNS",
+    "segs": [{"k": "m", "t": "(metal-nitride semiconductor) chất bán dẫn nitrit kim loại."}],
+    "k": "mns"
+  },
+  {"h": "mnumeric code", "segs": [{"k": "m", "t": "(máy tính) mã nhớ."}], "k": "mnumeric code"}
+]

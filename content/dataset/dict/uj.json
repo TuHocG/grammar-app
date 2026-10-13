@@ -1,1 +1,27 @@
-[{"h":"ujamaa","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"East Africa form of African socialism: a form of socialism based on village cooperatives, practiced in Tanzania"}],"k":"ujamaa"},{"h":"UJT (unijunction trasistor)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tranzito đơn chuyển tiếp"}],"k":"ujt (unijunction trasistor)"},{"h":"Ujung Pandang","segs":[{"k":"m","t":"MACASSAR"}],"k":"ujung pandang"},{"h":"Ujungpandang","segs":[{"k":"m","t":"Another spelling of Udjung Pandang"}],"k":"ujungpandang"}]
+[
+  {
+    "h": "ujamaa",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "East Africa form of African socialism: a form of socialism based on village cooperatives, practiced in Tanzania"
+      }
+    ],
+    "k": "ujamaa"
+  },
+  {
+    "h": "UJT (unijunction trasistor)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "tranzito đơn chuyển tiếp"}
+    ],
+    "k": "ujt (unijunction trasistor)"
+  },
+  {"h": "Ujung Pandang", "segs": [{"k": "m", "t": "MACASSAR"}], "k": "ujung pandang"},
+  {
+    "h": "Ujungpandang",
+    "segs": [{"k": "m", "t": "Another spelling of Udjung Pandang"}],
+    "k": "ujungpandang"
+  }
+]

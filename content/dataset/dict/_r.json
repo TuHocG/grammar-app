@@ -1,1 +1,22 @@
-[{"h":"\"Red Bulletin\"","segs":[{"k":"m","t":"lệnh bắt giữ thông qua Interpol."}],"k":"\"red bulletin\""},{"h":"-rrhea","segs":[{"k":"m","t":"hoặc-rrhoea"},{"k":"m","t":"suffix"},{"k":"m","t":"flow, discharge"},{"k":"m","t":"pyorrhea"}],"k":"-rrhea"},{"h":"-ry","segs":[{"k":"m","t":"tvng. =-ERY (infantry bộ binh, rivalry sự kình địch)."}],"k":"-ry"}]
+[
+  {
+    "h": "\"Red Bulletin\"",
+    "segs": [{"k": "m", "t": "lệnh bắt giữ thông qua Interpol."}],
+    "k": "\"red bulletin\""
+  },
+  {
+    "h": "-rrhea",
+    "segs": [
+      {"k": "m", "t": "hoặc-rrhoea"},
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "flow, discharge"},
+      {"k": "m", "t": "pyorrhea"}
+    ],
+    "k": "-rrhea"
+  },
+  {
+    "h": "-ry",
+    "segs": [{"k": "m", "t": "tvng. =-ERY (infantry bộ binh, rivalry sự kình địch)."}],
+    "k": "-ry"
+  }
+]

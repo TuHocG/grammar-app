@@ -1,1 +1,60 @@
-[{"h":"TL","segs":[{"k":"m","t":"(test loop) vòng lặp kiểm tra."}],"k":"tl"},{"h":"TL (test loop)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"vòng lặp kiểm tra"}],"k":"tl (test loop)"},{"h":"Tl (thallium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tali"}],"k":"tl (thallium)"},{"h":"TLA","segs":[{"k":"m","t":"Viết tắt của three-letter acronym"}],"k":"tla"},{"h":"Tlaxcala","segs":[{"k":"m","t":"1. state in east central Mexico."},{"k":"m","t":"Capital: Tlaxcala"},{"k":"m","t":"Dân số khoảng: 962,646 (2000)"},{"k":"m","t":"Diện tích: 4,037 sq km/1,559 sq mi."},{"k":"m","t":"2. capital city of Tlaxcala State in east central Mexico. It is the site of the Church of San Francisco, the oldest church in North America (1521)."},{"k":"m","t":"Dân số khoảng: 73,230 (2000)"}],"k":"tlaxcala"},{"h":"TLC","segs":[{"k":"m","t":"Viết tắt của tender loving care (thông tục)"}],"k":"tlc"},{"h":"Tlemcen","segs":[{"k":"m","t":"city in northwestern Algeria."},{"k":"m","t":"Dân số khoảng: 126,882 (1987)"}],"k":"tlemcen"},{"h":"Tlingit","segs":[{"k":"m","t":"(số nhiều Tlingits hoặc Tlingit)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. member of Native N American people: a member of a group of Native North American peoples who lived on coastal southeastern Alaska và who now live mainly there và in British Columbia"},{"k":"m","t":"2. Tlingit language: the Na-Dene language of the Tlingit people. 2,000."},{"k":"m","t":"-Tlingit (tính từ)"}],"k":"tlingit"},{"h":"tlnea cruris","segs":[{"k":"m","t":"bệnh nấm da đùi."}],"k":"tlnea cruris"},{"h":"TLOT","segs":[{"k":"m","t":"(terminal input / outpul task) tác vụ nhập / xuất của thiết bị đầu cuối."}],"k":"tlot"}]
+[
+  {"h": "TL", "segs": [{"k": "m", "t": "(test loop) vòng lặp kiểm tra."}], "k": "tl"},
+  {
+    "h": "TL (test loop)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "vòng lặp kiểm tra"}],
+    "k": "tl (test loop)"
+  },
+  {
+    "h": "Tl (thallium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tali"}],
+    "k": "tl (thallium)"
+  },
+  {"h": "TLA", "segs": [{"k": "m", "t": "Viết tắt của three-letter acronym"}], "k": "tla"},
+  {
+    "h": "Tlaxcala",
+    "segs": [
+      {"k": "m", "t": "1. state in east central Mexico."},
+      {"k": "m", "t": "Capital: Tlaxcala"},
+      {"k": "m", "t": "Dân số khoảng: 962,646 (2000)"},
+      {"k": "m", "t": "Diện tích: 4,037 sq km/1,559 sq mi."},
+      {
+        "k": "m",
+        "t": "2. capital city of Tlaxcala State in east central Mexico. It is the site of the Church of San Francisco, the oldest church in North America (1521)."
+      },
+      {"k": "m", "t": "Dân số khoảng: 73,230 (2000)"}
+    ],
+    "k": "tlaxcala"
+  },
+  {"h": "TLC", "segs": [{"k": "m", "t": "Viết tắt của tender loving care (thông tục)"}], "k": "tlc"},
+  {
+    "h": "Tlemcen",
+    "segs": [
+      {"k": "m", "t": "city in northwestern Algeria."},
+      {"k": "m", "t": "Dân số khoảng: 126,882 (1987)"}
+    ],
+    "k": "tlemcen"
+  },
+  {
+    "h": "Tlingit",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Tlingits hoặc Tlingit)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. member of Native N American people: a member of a group of Native North American peoples who lived on coastal southeastern Alaska và who now live mainly there và in British Columbia"
+      },
+      {"k": "m", "t": "2. Tlingit language: the Na-Dene language of the Tlingit people. 2,000."},
+      {"k": "m", "t": "-Tlingit (tính từ)"}
+    ],
+    "k": "tlingit"
+  },
+  {"h": "tlnea cruris", "segs": [{"k": "m", "t": "bệnh nấm da đùi."}], "k": "tlnea cruris"},
+  {
+    "h": "TLOT",
+    "segs": [
+      {"k": "m", "t": "(terminal input / outpul task) tác vụ nhập / xuất của thiết bị đầu cuối."}
+    ],
+    "k": "tlot"
+  }
+]

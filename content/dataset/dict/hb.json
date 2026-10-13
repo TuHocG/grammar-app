@@ -1,1 +1,18 @@
-[{"h":"hb","segs":[{"k":"m","t":"(tắt) màu đen cứng ("},{"k":"ex","t":"hard black","vi":")."}],"ipa":"eitʃ 'bi:","k":"hb"},{"h":"HBA","segs":[{"k":"m","t":"(host bus adapter) bộ điều hợp bus chủ."}],"k":"hba"},{"h":"HBM","segs":[{"k":"m","t":"Viết tắt của 1. Her Britannic Majesty"},{"k":"m","t":"2. His Britannic Majesty"}],"k":"hbm"},{"h":"hbomb","segs":[{"k":"ref","t":"như h-bomb."}],"ipa":"ˈeitʃbɔm","k":"hbomb"}]
+[
+  {
+    "h": "hb",
+    "segs": [{"k": "m", "t": "(tắt) màu đen cứng ("}, {"k": "ex", "t": "hard black", "vi": ")."}],
+    "ipa": "eitʃ 'bi:",
+    "k": "hb"
+  },
+  {"h": "HBA", "segs": [{"k": "m", "t": "(host bus adapter) bộ điều hợp bus chủ."}], "k": "hba"},
+  {
+    "h": "HBM",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. Her Britannic Majesty"},
+      {"k": "m", "t": "2. His Britannic Majesty"}
+    ],
+    "k": "hbm"
+  },
+  {"h": "hbomb", "segs": [{"k": "ref", "t": "như h-bomb."}], "ipa": "ˈeitʃbɔm", "k": "hbomb"}
+]

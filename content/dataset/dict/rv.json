@@ -1,1 +1,22 @@
-[{"h":"rv","segs":[{"k":"m","t":"(tắt) bản kinh thánh đã được hiệu ứng ("},{"k":"ex","t":"Revised Version","vi":") (of the Bible)."}],"ipa":",a:'vi","k":"rv"},{"h":"RVA","segs":[{"k":"m","t":"(recorded voice announcement) sự phát tiếng nói đã thu."}],"k":"rva"},{"h":"rvalue","segs":[{"k":"m","t":"(right value) giá trị bên phải."}],"k":"rvalue"},{"h":"rvalue (right value)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"giá trị bên phải"}],"k":"rvalue (right value)"}]
+[
+  {
+    "h": "rv",
+    "segs": [
+      {"k": "m", "t": "(tắt) bản kinh thánh đã được hiệu ứng ("},
+      {"k": "ex", "t": "Revised Version", "vi": ") (of the Bible)."}
+    ],
+    "ipa": ",a:'vi",
+    "k": "rv"
+  },
+  {
+    "h": "RVA",
+    "segs": [{"k": "m", "t": "(recorded voice announcement) sự phát tiếng nói đã thu."}],
+    "k": "rva"
+  },
+  {"h": "rvalue", "segs": [{"k": "m", "t": "(right value) giá trị bên phải."}], "k": "rvalue"},
+  {
+    "h": "rvalue (right value)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "giá trị bên phải"}],
+    "k": "rvalue (right value)"
+  }
+]

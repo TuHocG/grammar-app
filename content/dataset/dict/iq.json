@@ -1,1 +1,66 @@
-[{"h":"IQ","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"hệ số thông minh (so với một người bình thường) ("},{"k":"ex","t":"Intelligence Quotient","vi":")."}],"k":"iq"},{"h":"Iqaluit","segs":[{"k":"m","t":"capital city of Nunavut, Canada, located on the southeastern coast of Baffin Island."},{"k":"m","t":"Dân số khoảng: 5,236 (2001)"}],"k":"iqaluit"},{"h":"iqhumaal","segs":[{"k":"m","t":"(số nhiều iqhumaals)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"South Africa Khoikhoi mouthbow: a mouthbow played by the Khoikhoi of southern Africa, especially Namibia"}],"k":"iqhumaal"},{"h":"IQL","segs":[{"k":"m","t":"1. incoming quality level mức chất lượng đến. 2. interactive query language ngôn ngữ vấn tin tương tác."}],"k":"iql"},{"h":"Iquique","segs":[{"k":"m","t":"seaport, city, và capital of Tarapacá Region, northern Chile, situated 209 km/130 mi south of the Peruvian border."},{"k":"m","t":"Dân số khoảng: 216,419 (2002)"}],"k":"iquique"},{"h":"Iquitos","segs":[{"k":"m","t":"city và river port in northeastern Peru, situated on the upper Amazon River, 2,040 km/1,268 mi overland northeast of Lima."},{"k":"m","t":"Dân số khoảng: 334,013 (thống kê năm 1998)"}],"k":"iquitos"}]
+[
+  {
+    "h": "IQ",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "hệ số thông minh (so với một người bình thường) ("},
+      {"k": "ex", "t": "Intelligence Quotient", "vi": ")."}
+    ],
+    "k": "iq"
+  },
+  {
+    "h": "Iqaluit",
+    "segs": [
+      {
+        "k": "m",
+        "t": "capital city of Nunavut, Canada, located on the southeastern coast of Baffin Island."
+      },
+      {"k": "m", "t": "Dân số khoảng: 5,236 (2001)"}
+    ],
+    "k": "iqaluit"
+  },
+  {
+    "h": "iqhumaal",
+    "segs": [
+      {"k": "m", "t": "(số nhiều iqhumaals)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "South Africa Khoikhoi mouthbow: a mouthbow played by the Khoikhoi of southern Africa, especially Namibia"
+      }
+    ],
+    "k": "iqhumaal"
+  },
+  {
+    "h": "IQL",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. incoming quality level mức chất lượng đến. 2. interactive query language ngôn ngữ vấn tin tương tác."
+      }
+    ],
+    "k": "iql"
+  },
+  {
+    "h": "Iquique",
+    "segs": [
+      {
+        "k": "m",
+        "t": "seaport, city, và capital of Tarapacá Region, northern Chile, situated 209 km/130 mi south of the Peruvian border."
+      },
+      {"k": "m", "t": "Dân số khoảng: 216,419 (2002)"}
+    ],
+    "k": "iquique"
+  },
+  {
+    "h": "Iquitos",
+    "segs": [
+      {
+        "k": "m",
+        "t": "city và river port in northeastern Peru, situated on the upper Amazon River, 2,040 km/1,268 mi overland northeast of Lima."
+      },
+      {"k": "m", "t": "Dân số khoảng: 334,013 (thống kê năm 1998)"}
+    ],
+    "k": "iquitos"
+  }
+]

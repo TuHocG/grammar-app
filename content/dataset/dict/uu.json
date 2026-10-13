@@ -1,1 +1,45 @@
-[{"h":"UU","segs":[{"k":"m","t":"Viết tắt của 1. U.K. politics Ulster Unionist"},{"k":"m","t":"2. religion Unitarian Universalist"}],"k":"uu"},{"h":"UUCP","segs":[{"k":"m","t":"Từ vt. của UNIX-to-UNIX Copy Protocol, một giao thức truyền thông trước đây dùng cho các máy tính chạy với UNIX, nó đòi hỏi phải có một máy gọi máy kia qua điện thoại."}],"k":"uucp"},{"h":"uudecode","segs":[{"k":"m","t":"Một chương trình dùng để biến đổi một tệp do chương trình uuencode tạo ra thành tệp nhị phân sao cho bạn có thể phục hồi lại tệp này trong chương trình đã được dùng để tạo ra nó."}],"k":"uudecode"},{"h":"uuencode","segs":[{"k":"m","t":"Một trình tiện ích được sử dụng cùng với UNIX và mạng Internet, nhằm chuyển đổi mã của một tệp nhị phân."}],"k":"uuencode"},{"h":"UUID","segs":[{"k":"m","t":"(universal unique identifier) ký hiệu nhận dạng duy nhất đa năng."}],"k":"uuid"}]
+[
+  {
+    "h": "UU",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. U.K. politics Ulster Unionist"},
+      {"k": "m", "t": "2. religion Unitarian Universalist"}
+    ],
+    "k": "uu"
+  },
+  {
+    "h": "UUCP",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Từ vt. của UNIX-to-UNIX Copy Protocol, một giao thức truyền thông trước đây dùng cho các máy tính chạy với UNIX, nó đòi hỏi phải có một máy gọi máy kia qua điện thoại."
+      }
+    ],
+    "k": "uucp"
+  },
+  {
+    "h": "uudecode",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một chương trình dùng để biến đổi một tệp do chương trình uuencode tạo ra thành tệp nhị phân sao cho bạn có thể phục hồi lại tệp này trong chương trình đã được dùng để tạo ra nó."
+      }
+    ],
+    "k": "uudecode"
+  },
+  {
+    "h": "uuencode",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một trình tiện ích được sử dụng cùng với UNIX và mạng Internet, nhằm chuyển đổi mã của một tệp nhị phân."
+      }
+    ],
+    "k": "uuencode"
+  },
+  {
+    "h": "UUID",
+    "segs": [{"k": "m", "t": "(universal unique identifier) ký hiệu nhận dạng duy nhất đa năng."}],
+    "k": "uuid"
+  }
+]

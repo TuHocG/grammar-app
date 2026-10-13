@@ -1,1 +1,554 @@
-[{"id":2151,"title":"Bài 1","pairs":[{"a":"What can we do for you?","b":"What have you today?","avi":"Bà cần mua gì ạ?","bvi":"Hôm nay bạn có gì?"},{"a":"I want a piece of meat for dinner.","b":"Do you want is sliced?","avi":"Tôi muốn mua một miếng thịt để nấu bữa trưa.","bvi":"Bà cần cắt ra không?"},{"a":"With beef or chicken?","b":"What veal have you?","avi":"Thịt bò hay thịt gà?","bvi":"Bạn có thịt bê không?"},{"a":"Do you have her special?","b":"We have some very nice kidneys.","avi":"Cô có thứ gì đặc biệt à?","bvi":"Chúng tôi có một số quả thận rất ngon."}]},{"id":2152,"title":"Bài 2","pairs":[{"a":"How much do you want for it?","b":"Forty thousand dong a kilo.","avi":"Cô tính giá bao nhiêu?","bvi":"Bốn mươi nghìn đồng một ký lô."},{"a":"Can you send it to me?","b":"I will send them to your house directly.","avi":"Cô có thể gửi nó cho tôi không?","bvi":"Tôi sẽ gởi chúng đến nhà bà ngay."},{"a":"Cold. fresh brains!","b":"I also want some lard.","avi":"Óc tươi ngon đây!","bvi":"Tôi cũng muốn mua một ít mỡ heo."},{"a":"We have some very nice kidneys.","b":"Have you a fresh supply?","avi":"Chúng tôi có một số quả thận rất ngon.","bvi":"Cô có loại tươi không?"}]},{"id":2153,"title":"Bài 3","pairs":[{"a":"Have you a fresh supply?","b":"Yes, this lard just arrived this morning.","avi":"Cô có loại tươi không?","bvi":"Dạ có, mỡ heo này mới đưa từ sáng nay."},{"a":"Yes, this lard just arrived this morning.","b":"I'll take one kilo.","avi":"Dạ có, mỡ heo này mới đưa từ sáng nay.","bvi":"Tôi lấy một ký."},{"a":"Do you eat bacon for breakfast?","b":"Oh, I also want some bacon.","avi":"Bà có ăn thịt muối vào bữa sáng không?","bvi":"Cho tôi thêm một ít thịt muối."},{"a":"Oh, I also want some bacon.","b":"How is this?","avi":"Cho tôi thêm một ít thịt muối.","bvi":"Thứ này được không ạ?"}]},{"id":2154,"title":"Bài 4","pairs":[{"a":"How is this?","b":"Is it Vissan bacon?","avi":"Thứ này được không ạ?","bvi":"Thịt muối Vissan phải không?"},{"a":"How much do you want?","b":"Give me about one kilo.","avi":"Bà muốn bao nhiêu?","bvi":"Cho tôi một ký."},{"a":"Give me about one kilo.","b":"Do you want it sliced?","avi":"Cho tôi một ký.","bvi":"Bà muốn xắt ra không?"},{"a":"Can I get you anything else?","b":"I also want some ham.","avi":"Tôi lấy thêm cho bà những gì nữa ạ?","bvi":"Tôi cũng muốn mua một ít thịt đùi."}]},{"id":2155,"title":"Bài 5","pairs":[{"a":"I also want some ham.","b":"Do you want roasted ham or smoked?","avi":"Tôi cũng muốn mua một ít thịt đùi.","bvi":"Dạ thịt đùi quay hay thịt đùi xông khói ạ?"},{"a":"Do you want roasted ham or smoked?","b":"I want roast ham, about two kilos.","avi":"Dạ thịt đùi quay hay thịt đùi xông khói ạ?","bvi":"Thịt đùi quay khoảng hai ký."},{"a":"I want roast ham, about two kilos.","b":"We also have some good chicken today.","avi":"Thịt đùi quay khoảng hai ký.","bvi":"Hôm nay còn có thịt gà giò."},{"a":"We also have some good chicken today.","b":"My children don't care for chicken.","avi":"Hôm nay còn có thịt gà giò.","bvi":"Các con tôi ít thích thịt gà giò."}]},{"id":2156,"title":"Bài 6","pairs":[{"a":"They were delicious.","b":"Not today, thank you.","avi":"Chúng ngon lắm đấy.","bvi":"Cám ơn, để bữa khác."},{"a":"How about some sausages?","b":"Please show me some sausages.","avi":"Còn xúc xích thì sao?","bvi":"Làm ơn cho tôi một ít xúc xích đi."},{"a":"Please show me some sausages.","b":"What kind, Miss?","avi":"Làm ơn cho tôi một ít xúc xích đi.","bvi":"Loại nào, thưa cô?"},{"a":"What veal have you?","b":"We have such a wide variety.","avi":"Bạn có thịt bê không?","bvi":"Chúng tôi có nhiều loại lắm."}]},{"id":2157,"title":"Bài 7","pairs":[{"a":"Will you take both?","b":"Give me a little of each, please.","avi":"Bà sẽ lấy cả hai à?","bvi":"Xin cho mỗi thứ một ít."},{"a":"Do you have pigeon today?","b":"I'm sorry we haven't.","avi":"Hôm nay cô có thịt bồ câu không?","bvi":"Rất tiếc, chúng tôi không có."},{"a":"Just bag it up.","b":"I'll put them in separate paper bags.","avi":"Chỉ gói chúng lại thôi.","bvi":"Tôi sẽ bỏ riêng từng bao giấy cho bà."},{"a":"Did you want to see me, sir?","b":"Good morning, madam!","avi":"Có phải ông cần gặp tôi không?","bvi":"Chào bà!"}]},{"id":2158,"title":"Bài 8","pairs":[{"a":"Does this pub do lunches?","b":"Come in please.","avi":"Quán này có bán bữa ăn trưa hay không?","bvi":"Xin mời vào."},{"a":"What would you like?","b":"I want two loaves of sandwich bread.","avi":"Ông muốn dùng gì?","bvi":"Tôi muốn mua hai ổ bánh mì săn-uých."},{"a":"I want two loaves of sandwich bread.","b":"These are fresh out of the oven.","avi":"Tôi muốn mua hai ổ bánh mì săn-uých.","bvi":"Thứ này vừa mới ra lò."},{"a":"These are fresh out of the oven.","b":"I want the bread sliced thin.","avi":"Thứ này vừa mới ra lò.","bvi":"Làm ơn cắt giùm bánh mì ra từng lát mỏng."}]},{"id":2159,"title":"Bài 9","pairs":[{"a":"Yes, that'll be fine.","b":"Please also cut off the edges.","avi":"Vâng, như vậy rất tốt.","bvi":"Xin cắt luôn cả cái rìa."},{"a":"Please also cut off the edges.","b":"Please try one as a sample.","avi":"Xin cắt luôn cả cái rìa.","bvi":"Bà dùng thử một miếng đi."},{"a":"Had enough?","b":"I'm given you good measure.","avi":"Ðủ chưa?","bvi":"Tôi cân đầy đủ cho bà rồi đó."},{"a":"I'm given you good measure.","b":"I think I'll try a cake.","avi":"Tôi cân đầy đủ cho bà rồi đó.","bvi":"Có lẽ tôi sẽ thử một cái bánh."}]},{"id":2160,"title":"Bài 10","pairs":[{"a":"Give me the address of yours, please.","b":"I live at number four in this street.","avi":"Cho tôi xin địa chỉ của bà.","bvi":"Tôi ở nhà số 4 trên đường này."},{"a":"I live at number four in this street.","b":"What bread shall I send?","avi":"Tôi ở nhà số 4 trên đường này.","bvi":"Tôi gởi bánh mì loại nào?"},{"a":"Would you like any hot rolls for breakfast?","b":"What pastry have you?","avi":"Bà có thích dùng bữa điểm tâm bằng bánh mì nóng không?","bvi":"Ông có những loại bánh ngọt nào?"},{"a":"What pastry have you?","b":"I will send a little pastry this evening.","avi":"Ông có những loại bánh ngọt nào?","bvi":"Chiều nay tôi sẽ gởi một ít bánh ngọt cho bà."}]},{"id":2161,"title":"Bài 11","pairs":[{"a":"Have you made entries in a register?","b":"I have written the order in the book.","avi":"Anh đã ghi các mục vào sổ chưa?","bvi":"Tôi đã ghi yêu cầu của bà vào sổ rồi."},{"a":"Will you dispatch your delivery boy right away?","b":"We will be sure to serve you punctually.","avi":"Ông sẽ cho người đem đến ngay chứ?","bvi":"Chắc chắn chúng tôi sẽ phục vụ đúng hẹn."},{"a":"What kind of fruit would you like?","b":"I want to buy some apples.","avi":"Bà muốn mua loại trái cây nào?","bvi":"Tôi muốn mua táo."},{"a":"And don't forget the tomato.","b":"Is a tomato a fruit or a vegetable?","avi":"Và đừng quên cà chua.","bvi":"Cà chua là loại trái cây hay rau quả?"}]},{"id":2162,"title":"Bài 12","pairs":[{"a":"They are chinese tangerines.","b":"I also want some tangerines.","avi":"Ðó là quít trung quốc.","bvi":"Tôi muốn mua quít."},{"a":"I also want some tangerines.","b":"They are Vietnamese tangerines.","avi":"Tôi muốn mua quít.","bvi":"Ðó là quít Việt nam."},{"a":"What's your deal?","b":"Cai Be tangerines.","avi":"Cô bán gì thế?","bvi":"quít Cái Bè."},{"a":"Cai Be tangerines.","b":"How much are they per kilo?","avi":"quít Cái Bè.","bvi":"Thứ đó bao nhiêu tiền một ký?"}]},{"id":2163,"title":"Bài 13","pairs":[{"a":"How much are they per kilo?","b":"Five thousand dong a kilo.","avi":"Thứ đó bao nhiêu tiền một ký?","bvi":"Năm nghìn đồng một ký."},{"a":"Five thousand dong a kilo.","b":"What about the ones over there?","avi":"Năm nghìn đồng một ký.","bvi":"Còn thứ kia?"},{"a":"What about the ones over there?","b":"Those are ten thousand dong larger?","avi":"Còn thứ kia?","bvi":"Loại đó mười nghìn đồng một ký vì nó lớn hơn."},{"a":"Those are ten thousand dong larger?","b":"I'll take two kilos.","avi":"Loại đó mười nghìn đồng một ký vì nó lớn hơn.","bvi":"Tôi lấy hai ký."}]},{"id":2164,"title":"Bài 14","pairs":[{"a":"Some mangosteens are also black.","b":"I wand some mangosteens.","avi":"Một vài quả măng cụt cũng có màu đen.","bvi":"Tôi muốn mua măng cụt."},{"a":"I wand some mangosteens.","b":"Are these the ones?","avi":"Tôi muốn mua măng cụt.","bvi":"Phải chúng đây không?"},{"a":"Are these the ones?","b":"I think these over here the biggest.","avi":"Phải chúng đây không?","bvi":"Tôi nghĩ đây là loại lớn nhất."},{"a":"I think these over here the biggest.","b":"Have you any dried fruit?","avi":"Tôi nghĩ đây là loại lớn nhất.","bvi":"Bạn có bán trái cây khô không?"}]},{"id":2165,"title":"Bài 15","pairs":[{"a":"Have you any dried fruit?","b":"We don't sell that kind of fruit.","avi":"Bạn có bán trái cây khô không?","bvi":"Chúng tôi không có bán loại trái cây đó."},{"a":"We don't sell that kind of fruit.","b":"Do you have fruit juice?","avi":"Chúng tôi không có bán loại trái cây đó.","bvi":"Bạn có nước trái cây không?"},{"a":"So you brought me nothing?","b":"I'll dispatch our delivery boy right away.","avi":"Vậy cô không đem đến gì cho tôi à?","bvi":"Chúng tôi sẽ cho người đem đến ngay."},{"a":"I want you bring it to me.","b":"Which way shall I go?","avi":"Tôi muốn cô đưa nó đến chỗ tôi.","bvi":"Tôi phải đi đường nào đây?"}]},{"id":2166,"title":"Bài 16","pairs":[{"a":"There must be some fresh vegetable in the garden.","b":"Yes, we always have.","avi":"Chắc là có rau tươi trong vườn.","bvi":"Vâng, chúng tôi luôn có rau tươi."},{"a":"Eating vegetable is good for health.","b":"Are you planning to make a salad?","avi":"Ăn rau tốt cho sức khỏe.","bvi":"Bạn có định làm món rau trộn không?"},{"a":"Just lettuce, tomato, and celery.","b":"The tomatoes are over here.","avi":"Chỉ rau diếp, cà chua và cần tây.","bvi":"Cà chua ở đây này."},{"a":"The tomatoes are over here.","b":"How much are these cucumbers?","avi":"Cà chua ở đây này.","bvi":"Còn dưa leo giá bao nhiêu?"}]},{"id":2167,"title":"Bài 17","pairs":[{"a":"How much are these cucumbers?","b":"Two thousand dong per kilo.","avi":"Còn dưa leo giá bao nhiêu?","bvi":"Hai nghìn đồng một ký."},{"a":"Two thousand dong per kilo.","b":"Very cheap, I'll take three kilos.","avi":"Hai nghìn đồng một ký.","bvi":"Rẻ quá nhỉ, vậy tôi lấy ba ký."},{"a":"Do you always eat vegetables?","b":"It's a good thing you reminded me.","avi":"Bà có luôn ăn rau củ hay không?","bvi":"Bà không nhắc thì tôi quên mất."},{"a":"Will that be all for you?","b":"Now, what else do I need?","avi":"Bà mua thêm gì nữa không?","bvi":"Ðể xem, tôi còn cần gì nữa không?"}]},{"id":2168,"title":"Bài 18","pairs":[{"a":"What vegetables shall I take?","b":"How do you sell the peas?","avi":"Tôi còn phải mua loại rau nào nữa nhỉ?","bvi":"Bà có mua đậu không?"},{"a":"Oh, please make haste.","b":"Shall we shell them for you?","avi":"Ôi làm ơn hãy làm nhanh lên.","bvi":"Chúng tôi sẽ bóc vỏ ra cho bà nhé?"},{"a":"Shall we shell them for you?","b":"How much do I owe you in all?","avi":"Chúng tôi sẽ bóc vỏ ra cho bà nhé?","bvi":"Bao nhiêu tiền hết thảy vậy?"},{"a":"How much do I owe you in all?","b":"Only fifty thousand dong.","avi":"Bao nhiêu tiền hết thảy vậy?","bvi":"Thưa bà, chỉ có năm mươi nghìn đồng thôi ạ."}]},{"id":2169,"title":"Bài 19","pairs":[{"a":"Here's your money.","b":"See you tomorrow, miss.","avi":"Tiền của cô đây.","bvi":"Mong gặp lại bà ngày mai."}]}]
+[
+  {
+    "id": 2151,
+    "title": "Bài 1",
+    "pairs": [
+      {
+        "a": "What can we do for you?",
+        "b": "What have you today?",
+        "avi": "Bà cần mua gì ạ?",
+        "bvi": "Hôm nay bạn có gì?"
+      },
+      {
+        "a": "I want a piece of meat for dinner.",
+        "b": "Do you want is sliced?",
+        "avi": "Tôi muốn mua một miếng thịt để nấu bữa trưa.",
+        "bvi": "Bà cần cắt ra không?"
+      },
+      {
+        "a": "With beef or chicken?",
+        "b": "What veal have you?",
+        "avi": "Thịt bò hay thịt gà?",
+        "bvi": "Bạn có thịt bê không?"
+      },
+      {
+        "a": "Do you have her special?",
+        "b": "We have some very nice kidneys.",
+        "avi": "Cô có thứ gì đặc biệt à?",
+        "bvi": "Chúng tôi có một số quả thận rất ngon."
+      }
+    ]
+  },
+  {
+    "id": 2152,
+    "title": "Bài 2",
+    "pairs": [
+      {
+        "a": "How much do you want for it?",
+        "b": "Forty thousand dong a kilo.",
+        "avi": "Cô tính giá bao nhiêu?",
+        "bvi": "Bốn mươi nghìn đồng một ký lô."
+      },
+      {
+        "a": "Can you send it to me?",
+        "b": "I will send them to your house directly.",
+        "avi": "Cô có thể gửi nó cho tôi không?",
+        "bvi": "Tôi sẽ gởi chúng đến nhà bà ngay."
+      },
+      {
+        "a": "Cold. fresh brains!",
+        "b": "I also want some lard.",
+        "avi": "Óc tươi ngon đây!",
+        "bvi": "Tôi cũng muốn mua một ít mỡ heo."
+      },
+      {
+        "a": "We have some very nice kidneys.",
+        "b": "Have you a fresh supply?",
+        "avi": "Chúng tôi có một số quả thận rất ngon.",
+        "bvi": "Cô có loại tươi không?"
+      }
+    ]
+  },
+  {
+    "id": 2153,
+    "title": "Bài 3",
+    "pairs": [
+      {
+        "a": "Have you a fresh supply?",
+        "b": "Yes, this lard just arrived this morning.",
+        "avi": "Cô có loại tươi không?",
+        "bvi": "Dạ có, mỡ heo này mới đưa từ sáng nay."
+      },
+      {
+        "a": "Yes, this lard just arrived this morning.",
+        "b": "I'll take one kilo.",
+        "avi": "Dạ có, mỡ heo này mới đưa từ sáng nay.",
+        "bvi": "Tôi lấy một ký."
+      },
+      {
+        "a": "Do you eat bacon for breakfast?",
+        "b": "Oh, I also want some bacon.",
+        "avi": "Bà có ăn thịt muối vào bữa sáng không?",
+        "bvi": "Cho tôi thêm một ít thịt muối."
+      },
+      {
+        "a": "Oh, I also want some bacon.",
+        "b": "How is this?",
+        "avi": "Cho tôi thêm một ít thịt muối.",
+        "bvi": "Thứ này được không ạ?"
+      }
+    ]
+  },
+  {
+    "id": 2154,
+    "title": "Bài 4",
+    "pairs": [
+      {
+        "a": "How is this?",
+        "b": "Is it Vissan bacon?",
+        "avi": "Thứ này được không ạ?",
+        "bvi": "Thịt muối Vissan phải không?"
+      },
+      {
+        "a": "How much do you want?",
+        "b": "Give me about one kilo.",
+        "avi": "Bà muốn bao nhiêu?",
+        "bvi": "Cho tôi một ký."
+      },
+      {
+        "a": "Give me about one kilo.",
+        "b": "Do you want it sliced?",
+        "avi": "Cho tôi một ký.",
+        "bvi": "Bà muốn xắt ra không?"
+      },
+      {
+        "a": "Can I get you anything else?",
+        "b": "I also want some ham.",
+        "avi": "Tôi lấy thêm cho bà những gì nữa ạ?",
+        "bvi": "Tôi cũng muốn mua một ít thịt đùi."
+      }
+    ]
+  },
+  {
+    "id": 2155,
+    "title": "Bài 5",
+    "pairs": [
+      {
+        "a": "I also want some ham.",
+        "b": "Do you want roasted ham or smoked?",
+        "avi": "Tôi cũng muốn mua một ít thịt đùi.",
+        "bvi": "Dạ thịt đùi quay hay thịt đùi xông khói ạ?"
+      },
+      {
+        "a": "Do you want roasted ham or smoked?",
+        "b": "I want roast ham, about two kilos.",
+        "avi": "Dạ thịt đùi quay hay thịt đùi xông khói ạ?",
+        "bvi": "Thịt đùi quay khoảng hai ký."
+      },
+      {
+        "a": "I want roast ham, about two kilos.",
+        "b": "We also have some good chicken today.",
+        "avi": "Thịt đùi quay khoảng hai ký.",
+        "bvi": "Hôm nay còn có thịt gà giò."
+      },
+      {
+        "a": "We also have some good chicken today.",
+        "b": "My children don't care for chicken.",
+        "avi": "Hôm nay còn có thịt gà giò.",
+        "bvi": "Các con tôi ít thích thịt gà giò."
+      }
+    ]
+  },
+  {
+    "id": 2156,
+    "title": "Bài 6",
+    "pairs": [
+      {
+        "a": "They were delicious.",
+        "b": "Not today, thank you.",
+        "avi": "Chúng ngon lắm đấy.",
+        "bvi": "Cám ơn, để bữa khác."
+      },
+      {
+        "a": "How about some sausages?",
+        "b": "Please show me some sausages.",
+        "avi": "Còn xúc xích thì sao?",
+        "bvi": "Làm ơn cho tôi một ít xúc xích đi."
+      },
+      {
+        "a": "Please show me some sausages.",
+        "b": "What kind, Miss?",
+        "avi": "Làm ơn cho tôi một ít xúc xích đi.",
+        "bvi": "Loại nào, thưa cô?"
+      },
+      {
+        "a": "What veal have you?",
+        "b": "We have such a wide variety.",
+        "avi": "Bạn có thịt bê không?",
+        "bvi": "Chúng tôi có nhiều loại lắm."
+      }
+    ]
+  },
+  {
+    "id": 2157,
+    "title": "Bài 7",
+    "pairs": [
+      {
+        "a": "Will you take both?",
+        "b": "Give me a little of each, please.",
+        "avi": "Bà sẽ lấy cả hai à?",
+        "bvi": "Xin cho mỗi thứ một ít."
+      },
+      {
+        "a": "Do you have pigeon today?",
+        "b": "I'm sorry we haven't.",
+        "avi": "Hôm nay cô có thịt bồ câu không?",
+        "bvi": "Rất tiếc, chúng tôi không có."
+      },
+      {
+        "a": "Just bag it up.",
+        "b": "I'll put them in separate paper bags.",
+        "avi": "Chỉ gói chúng lại thôi.",
+        "bvi": "Tôi sẽ bỏ riêng từng bao giấy cho bà."
+      },
+      {
+        "a": "Did you want to see me, sir?",
+        "b": "Good morning, madam!",
+        "avi": "Có phải ông cần gặp tôi không?",
+        "bvi": "Chào bà!"
+      }
+    ]
+  },
+  {
+    "id": 2158,
+    "title": "Bài 8",
+    "pairs": [
+      {
+        "a": "Does this pub do lunches?",
+        "b": "Come in please.",
+        "avi": "Quán này có bán bữa ăn trưa hay không?",
+        "bvi": "Xin mời vào."
+      },
+      {
+        "a": "What would you like?",
+        "b": "I want two loaves of sandwich bread.",
+        "avi": "Ông muốn dùng gì?",
+        "bvi": "Tôi muốn mua hai ổ bánh mì săn-uých."
+      },
+      {
+        "a": "I want two loaves of sandwich bread.",
+        "b": "These are fresh out of the oven.",
+        "avi": "Tôi muốn mua hai ổ bánh mì săn-uých.",
+        "bvi": "Thứ này vừa mới ra lò."
+      },
+      {
+        "a": "These are fresh out of the oven.",
+        "b": "I want the bread sliced thin.",
+        "avi": "Thứ này vừa mới ra lò.",
+        "bvi": "Làm ơn cắt giùm bánh mì ra từng lát mỏng."
+      }
+    ]
+  },
+  {
+    "id": 2159,
+    "title": "Bài 9",
+    "pairs": [
+      {
+        "a": "Yes, that'll be fine.",
+        "b": "Please also cut off the edges.",
+        "avi": "Vâng, như vậy rất tốt.",
+        "bvi": "Xin cắt luôn cả cái rìa."
+      },
+      {
+        "a": "Please also cut off the edges.",
+        "b": "Please try one as a sample.",
+        "avi": "Xin cắt luôn cả cái rìa.",
+        "bvi": "Bà dùng thử một miếng đi."
+      },
+      {
+        "a": "Had enough?",
+        "b": "I'm given you good measure.",
+        "avi": "Ðủ chưa?",
+        "bvi": "Tôi cân đầy đủ cho bà rồi đó."
+      },
+      {
+        "a": "I'm given you good measure.",
+        "b": "I think I'll try a cake.",
+        "avi": "Tôi cân đầy đủ cho bà rồi đó.",
+        "bvi": "Có lẽ tôi sẽ thử một cái bánh."
+      }
+    ]
+  },
+  {
+    "id": 2160,
+    "title": "Bài 10",
+    "pairs": [
+      {
+        "a": "Give me the address of yours, please.",
+        "b": "I live at number four in this street.",
+        "avi": "Cho tôi xin địa chỉ của bà.",
+        "bvi": "Tôi ở nhà số 4 trên đường này."
+      },
+      {
+        "a": "I live at number four in this street.",
+        "b": "What bread shall I send?",
+        "avi": "Tôi ở nhà số 4 trên đường này.",
+        "bvi": "Tôi gởi bánh mì loại nào?"
+      },
+      {
+        "a": "Would you like any hot rolls for breakfast?",
+        "b": "What pastry have you?",
+        "avi": "Bà có thích dùng bữa điểm tâm bằng bánh mì nóng không?",
+        "bvi": "Ông có những loại bánh ngọt nào?"
+      },
+      {
+        "a": "What pastry have you?",
+        "b": "I will send a little pastry this evening.",
+        "avi": "Ông có những loại bánh ngọt nào?",
+        "bvi": "Chiều nay tôi sẽ gởi một ít bánh ngọt cho bà."
+      }
+    ]
+  },
+  {
+    "id": 2161,
+    "title": "Bài 11",
+    "pairs": [
+      {
+        "a": "Have you made entries in a register?",
+        "b": "I have written the order in the book.",
+        "avi": "Anh đã ghi các mục vào sổ chưa?",
+        "bvi": "Tôi đã ghi yêu cầu của bà vào sổ rồi."
+      },
+      {
+        "a": "Will you dispatch your delivery boy right away?",
+        "b": "We will be sure to serve you punctually.",
+        "avi": "Ông sẽ cho người đem đến ngay chứ?",
+        "bvi": "Chắc chắn chúng tôi sẽ phục vụ đúng hẹn."
+      },
+      {
+        "a": "What kind of fruit would you like?",
+        "b": "I want to buy some apples.",
+        "avi": "Bà muốn mua loại trái cây nào?",
+        "bvi": "Tôi muốn mua táo."
+      },
+      {
+        "a": "And don't forget the tomato.",
+        "b": "Is a tomato a fruit or a vegetable?",
+        "avi": "Và đừng quên cà chua.",
+        "bvi": "Cà chua là loại trái cây hay rau quả?"
+      }
+    ]
+  },
+  {
+    "id": 2162,
+    "title": "Bài 12",
+    "pairs": [
+      {
+        "a": "They are chinese tangerines.",
+        "b": "I also want some tangerines.",
+        "avi": "Ðó là quít trung quốc.",
+        "bvi": "Tôi muốn mua quít."
+      },
+      {
+        "a": "I also want some tangerines.",
+        "b": "They are Vietnamese tangerines.",
+        "avi": "Tôi muốn mua quít.",
+        "bvi": "Ðó là quít Việt nam."
+      },
+      {
+        "a": "What's your deal?",
+        "b": "Cai Be tangerines.",
+        "avi": "Cô bán gì thế?",
+        "bvi": "quít Cái Bè."
+      },
+      {
+        "a": "Cai Be tangerines.",
+        "b": "How much are they per kilo?",
+        "avi": "quít Cái Bè.",
+        "bvi": "Thứ đó bao nhiêu tiền một ký?"
+      }
+    ]
+  },
+  {
+    "id": 2163,
+    "title": "Bài 13",
+    "pairs": [
+      {
+        "a": "How much are they per kilo?",
+        "b": "Five thousand dong a kilo.",
+        "avi": "Thứ đó bao nhiêu tiền một ký?",
+        "bvi": "Năm nghìn đồng một ký."
+      },
+      {
+        "a": "Five thousand dong a kilo.",
+        "b": "What about the ones over there?",
+        "avi": "Năm nghìn đồng một ký.",
+        "bvi": "Còn thứ kia?"
+      },
+      {
+        "a": "What about the ones over there?",
+        "b": "Those are ten thousand dong larger?",
+        "avi": "Còn thứ kia?",
+        "bvi": "Loại đó mười nghìn đồng một ký vì nó lớn hơn."
+      },
+      {
+        "a": "Those are ten thousand dong larger?",
+        "b": "I'll take two kilos.",
+        "avi": "Loại đó mười nghìn đồng một ký vì nó lớn hơn.",
+        "bvi": "Tôi lấy hai ký."
+      }
+    ]
+  },
+  {
+    "id": 2164,
+    "title": "Bài 14",
+    "pairs": [
+      {
+        "a": "Some mangosteens are also black.",
+        "b": "I wand some mangosteens.",
+        "avi": "Một vài quả măng cụt cũng có màu đen.",
+        "bvi": "Tôi muốn mua măng cụt."
+      },
+      {
+        "a": "I wand some mangosteens.",
+        "b": "Are these the ones?",
+        "avi": "Tôi muốn mua măng cụt.",
+        "bvi": "Phải chúng đây không?"
+      },
+      {
+        "a": "Are these the ones?",
+        "b": "I think these over here the biggest.",
+        "avi": "Phải chúng đây không?",
+        "bvi": "Tôi nghĩ đây là loại lớn nhất."
+      },
+      {
+        "a": "I think these over here the biggest.",
+        "b": "Have you any dried fruit?",
+        "avi": "Tôi nghĩ đây là loại lớn nhất.",
+        "bvi": "Bạn có bán trái cây khô không?"
+      }
+    ]
+  },
+  {
+    "id": 2165,
+    "title": "Bài 15",
+    "pairs": [
+      {
+        "a": "Have you any dried fruit?",
+        "b": "We don't sell that kind of fruit.",
+        "avi": "Bạn có bán trái cây khô không?",
+        "bvi": "Chúng tôi không có bán loại trái cây đó."
+      },
+      {
+        "a": "We don't sell that kind of fruit.",
+        "b": "Do you have fruit juice?",
+        "avi": "Chúng tôi không có bán loại trái cây đó.",
+        "bvi": "Bạn có nước trái cây không?"
+      },
+      {
+        "a": "So you brought me nothing?",
+        "b": "I'll dispatch our delivery boy right away.",
+        "avi": "Vậy cô không đem đến gì cho tôi à?",
+        "bvi": "Chúng tôi sẽ cho người đem đến ngay."
+      },
+      {
+        "a": "I want you bring it to me.",
+        "b": "Which way shall I go?",
+        "avi": "Tôi muốn cô đưa nó đến chỗ tôi.",
+        "bvi": "Tôi phải đi đường nào đây?"
+      }
+    ]
+  },
+  {
+    "id": 2166,
+    "title": "Bài 16",
+    "pairs": [
+      {
+        "a": "There must be some fresh vegetable in the garden.",
+        "b": "Yes, we always have.",
+        "avi": "Chắc là có rau tươi trong vườn.",
+        "bvi": "Vâng, chúng tôi luôn có rau tươi."
+      },
+      {
+        "a": "Eating vegetable is good for health.",
+        "b": "Are you planning to make a salad?",
+        "avi": "Ăn rau tốt cho sức khỏe.",
+        "bvi": "Bạn có định làm món rau trộn không?"
+      },
+      {
+        "a": "Just lettuce, tomato, and celery.",
+        "b": "The tomatoes are over here.",
+        "avi": "Chỉ rau diếp, cà chua và cần tây.",
+        "bvi": "Cà chua ở đây này."
+      },
+      {
+        "a": "The tomatoes are over here.",
+        "b": "How much are these cucumbers?",
+        "avi": "Cà chua ở đây này.",
+        "bvi": "Còn dưa leo giá bao nhiêu?"
+      }
+    ]
+  },
+  {
+    "id": 2167,
+    "title": "Bài 17",
+    "pairs": [
+      {
+        "a": "How much are these cucumbers?",
+        "b": "Two thousand dong per kilo.",
+        "avi": "Còn dưa leo giá bao nhiêu?",
+        "bvi": "Hai nghìn đồng một ký."
+      },
+      {
+        "a": "Two thousand dong per kilo.",
+        "b": "Very cheap, I'll take three kilos.",
+        "avi": "Hai nghìn đồng một ký.",
+        "bvi": "Rẻ quá nhỉ, vậy tôi lấy ba ký."
+      },
+      {
+        "a": "Do you always eat vegetables?",
+        "b": "It's a good thing you reminded me.",
+        "avi": "Bà có luôn ăn rau củ hay không?",
+        "bvi": "Bà không nhắc thì tôi quên mất."
+      },
+      {
+        "a": "Will that be all for you?",
+        "b": "Now, what else do I need?",
+        "avi": "Bà mua thêm gì nữa không?",
+        "bvi": "Ðể xem, tôi còn cần gì nữa không?"
+      }
+    ]
+  },
+  {
+    "id": 2168,
+    "title": "Bài 18",
+    "pairs": [
+      {
+        "a": "What vegetables shall I take?",
+        "b": "How do you sell the peas?",
+        "avi": "Tôi còn phải mua loại rau nào nữa nhỉ?",
+        "bvi": "Bà có mua đậu không?"
+      },
+      {
+        "a": "Oh, please make haste.",
+        "b": "Shall we shell them for you?",
+        "avi": "Ôi làm ơn hãy làm nhanh lên.",
+        "bvi": "Chúng tôi sẽ bóc vỏ ra cho bà nhé?"
+      },
+      {
+        "a": "Shall we shell them for you?",
+        "b": "How much do I owe you in all?",
+        "avi": "Chúng tôi sẽ bóc vỏ ra cho bà nhé?",
+        "bvi": "Bao nhiêu tiền hết thảy vậy?"
+      },
+      {
+        "a": "How much do I owe you in all?",
+        "b": "Only fifty thousand dong.",
+        "avi": "Bao nhiêu tiền hết thảy vậy?",
+        "bvi": "Thưa bà, chỉ có năm mươi nghìn đồng thôi ạ."
+      }
+    ]
+  },
+  {
+    "id": 2169,
+    "title": "Bài 19",
+    "pairs": [
+      {
+        "a": "Here's your money.",
+        "b": "See you tomorrow, miss.",
+        "avi": "Tiền của cô đây.",
+        "bvi": "Mong gặp lại bà ngày mai."
+      }
+    ]
+  }
+]

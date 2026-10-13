@@ -1,1 +1,12 @@
-[{"h":"TFT","segs":[{"k":"m","t":"(thin-film transistor) transistor màng mỏng."}],"k":"tft"},{"h":"TFTP","segs":[{"k":"m","t":"(Trivial File Transfer Protocol) giao thức truyền tập tin thường."}],"k":"tftp"}]
+[
+  {
+    "h": "TFT",
+    "segs": [{"k": "m", "t": "(thin-film transistor) transistor màng mỏng."}],
+    "k": "tft"
+  },
+  {
+    "h": "TFTP",
+    "segs": [{"k": "m", "t": "(Trivial File Transfer Protocol) giao thức truyền tập tin thường."}],
+    "k": "tftp"
+  }
+]

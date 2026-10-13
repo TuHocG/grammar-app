@@ -1,1 +1,51 @@
-[{"h":"VM","segs":[{"k":"m","t":"(virtual machine) máy ảo."}],"k":"vm"},{"h":"VM (Virtual Machine)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hệ điều hành VM"},{"k":"m","t":"máy ảo"}],"k":"vm (virtual machine)"},{"h":"VMC","segs":[{"k":"m","t":"(vertical microcode) vi mã thẳng đứng, vi mã dọc."}],"k":"vmc"},{"h":"VMC (vertical microcode)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"vi mã dọc"},{"k":"m","t":"vi mã thẳng đứng"}],"k":"vmc (vertical microcode)"},{"h":"VME","segs":[{"k":"m","t":"(virtual machine environment) môi trường máy ảo."}],"k":"vme"},{"h":"VMOS","segs":[{"k":"m","t":"(vertical metal-oxide semiconductor) chất bán dẫn oxit kim loại đứng."}],"k":"vmos"},{"h":"VMOS transistor","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tranzito VMOS"}],"k":"vmos transistor"},{"h":"VMS","segs":[{"k":"m","t":"(virtual memory system) hệ thống bộ nhớ ảo."}],"k":"vms"},{"h":"VMTP","segs":[{"k":"m","t":"(Versatile Message Transfer Protocol) giao thức truyền thông báo đa năng."}],"k":"vmtp"}]
+[
+  {"h": "VM", "segs": [{"k": "m", "t": "(virtual machine) máy ảo."}], "k": "vm"},
+  {
+    "h": "VM (Virtual Machine)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hệ điều hành VM"},
+      {"k": "m", "t": "máy ảo"}
+    ],
+    "k": "vm (virtual machine)"
+  },
+  {
+    "h": "VMC",
+    "segs": [{"k": "m", "t": "(vertical microcode) vi mã thẳng đứng, vi mã dọc."}],
+    "k": "vmc"
+  },
+  {
+    "h": "VMC (vertical microcode)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "vi mã dọc"},
+      {"k": "m", "t": "vi mã thẳng đứng"}
+    ],
+    "k": "vmc (vertical microcode)"
+  },
+  {
+    "h": "VME",
+    "segs": [{"k": "m", "t": "(virtual machine environment) môi trường máy ảo."}],
+    "k": "vme"
+  },
+  {
+    "h": "VMOS",
+    "segs": [
+      {"k": "m", "t": "(vertical metal-oxide semiconductor) chất bán dẫn oxit kim loại đứng."}
+    ],
+    "k": "vmos"
+  },
+  {
+    "h": "VMOS transistor",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tranzito VMOS"}],
+    "k": "vmos transistor"
+  },
+  {"h": "VMS", "segs": [{"k": "m", "t": "(virtual memory system) hệ thống bộ nhớ ảo."}], "k": "vms"},
+  {
+    "h": "VMTP",
+    "segs": [
+      {"k": "m", "t": "(Versatile Message Transfer Protocol) giao thức truyền thông báo đa năng."}
+    ],
+    "k": "vmtp"
+  }
+]

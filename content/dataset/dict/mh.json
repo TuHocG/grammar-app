@@ -1,1 +1,80 @@
-[{"h":"MH","segs":[{"k":"m","t":"(message handler) bộ xử lý thông báo."}],"k":"mh"},{"h":"MH (message handler)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ xử lý thông báo"}],"k":"mh (message handler)"},{"h":"MHA","segs":[{"k":"m","t":"Viết tắt của 1. Master of Hospital Administration"},{"k":"m","t":"2. Member of the House of Assembly"}],"k":"mha"},{"h":"MHC","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"group of genes: a group of genes in mammals located next hoặc near to one another that serve to make cells separate và distinguishable from those of other organisms. Full form major histocompatibility complex"}],"k":"mhc"},{"h":"MHD","segs":[{"k":"m","t":"Viết tắt của physics magnetohydrodynamics"}],"k":"mhd"},{"h":"MHD generator","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy phát MHD"},{"k":"m","t":"máy phát từ thủy động"}],"k":"mhd generator"},{"h":"mho","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(snh-os) (điện) nghịch đảo của ôm, đơn vị đo độ dẫn diện."}],"ipa":"məʊ","k":"mho"},{"h":"MHR","segs":[{"k":"m","t":"vt. (Mỹ & Úc) MEMBER OF THE HOUSE OF REPRESENTATIVES Nghị sĩ, thành viên của Nghị viện."}],"k":"mhr"},{"h":"MHS","segs":[{"k":"m","t":"1. message handling services dịch vụ xử lý thông báo. 2. message handling system hệ thống xử lý thông báo."}],"k":"mhs"},{"h":"MHz","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"mêgahec ("},{"k":"ex","t":"megahertz","vi":")."}],"k":"mhz"},{"h":"MHz (megahertz)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"megahec"}],"k":"mhz (megahertz)"}]
+[
+  {"h": "MH", "segs": [{"k": "m", "t": "(message handler) bộ xử lý thông báo."}], "k": "mh"},
+  {
+    "h": "MH (message handler)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ xử lý thông báo"}],
+    "k": "mh (message handler)"
+  },
+  {
+    "h": "MHA",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. Master of Hospital Administration"},
+      {"k": "m", "t": "2. Member of the House of Assembly"}
+    ],
+    "k": "mha"
+  },
+  {
+    "h": "MHC",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "group of genes: a group of genes in mammals located next hoặc near to one another that serve to make cells separate và distinguishable from those of other organisms. Full form major histocompatibility complex"
+      }
+    ],
+    "k": "mhc"
+  },
+  {"h": "MHD", "segs": [{"k": "m", "t": "Viết tắt của physics magnetohydrodynamics"}], "k": "mhd"},
+  {
+    "h": "MHD generator",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "máy phát MHD"},
+      {"k": "m", "t": "máy phát từ thủy động"}
+    ],
+    "k": "mhd generator"
+  },
+  {
+    "h": "mho",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(snh-os) (điện) nghịch đảo của ôm, đơn vị đo độ dẫn diện."}
+    ],
+    "ipa": "məʊ",
+    "k": "mho"
+  },
+  {
+    "h": "MHR",
+    "segs": [
+      {
+        "k": "m",
+        "t": "vt. (Mỹ & Úc) MEMBER OF THE HOUSE OF REPRESENTATIVES Nghị sĩ, thành viên của Nghị viện."
+      }
+    ],
+    "k": "mhr"
+  },
+  {
+    "h": "MHS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. message handling services dịch vụ xử lý thông báo. 2. message handling system hệ thống xử lý thông báo."
+      }
+    ],
+    "k": "mhs"
+  },
+  {
+    "h": "MHz",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "mêgahec ("},
+      {"k": "ex", "t": "megahertz", "vi": ")."}
+    ],
+    "k": "mhz"
+  },
+  {
+    "h": "MHz (megahertz)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "megahec"}],
+    "k": "mhz (megahertz)"
+  }
+]

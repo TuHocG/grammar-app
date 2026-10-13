@@ -1,1 +1,25 @@
-[{"h":"qb","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"("},{"k":"ex","t":"QB) (luật pháp Anh) (tắt) của Queen's Bench","vi":"một cấp của tòa án tối cao Anh quốc."}],"ipa":",kju:'bi:","k":"qb"},{"h":"QBasic","segs":[{"k":"m","t":"Xem MS-DOS QBasic."}],"k":"qbasic"},{"h":"qbbasic","segs":[{"k":"m","t":"Môi trường lập trình BASIC cải tiến."}],"k":"qbbasic"},{"h":"QBE","segs":[{"k":"m","t":"(query by example) hỏi bằng ví dụ."}],"k":"qbe"},{"h":"qboat","segs":[{"k":"ref","t":"như q-boat."}],"ipa":"ˈkju:bəʊt","k":"qboat"},{"h":"QBP","segs":[{"k":"m","t":"Viết tắt của chess queen's bishop's pawn"}],"k":"qbp"}]
+[
+  {
+    "h": "qb",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "("},
+      {
+        "k": "ex",
+        "t": "QB) (luật pháp Anh) (tắt) của Queen's Bench",
+        "vi": "một cấp của tòa án tối cao Anh quốc."
+      }
+    ],
+    "ipa": ",kju:'bi:",
+    "k": "qb"
+  },
+  {"h": "QBasic", "segs": [{"k": "m", "t": "Xem MS-DOS QBasic."}], "k": "qbasic"},
+  {
+    "h": "qbbasic",
+    "segs": [{"k": "m", "t": "Môi trường lập trình BASIC cải tiến."}],
+    "k": "qbbasic"
+  },
+  {"h": "QBE", "segs": [{"k": "m", "t": "(query by example) hỏi bằng ví dụ."}], "k": "qbe"},
+  {"h": "qboat", "segs": [{"k": "ref", "t": "như q-boat."}], "ipa": "ˈkju:bəʊt", "k": "qboat"},
+  {"h": "QBP", "segs": [{"k": "m", "t": "Viết tắt của chess queen's bishop's pawn"}], "k": "qbp"}
+]

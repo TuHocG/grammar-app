@@ -1,1 +1,30 @@
-[{"h":"Qwaqwa","segs":[{"k":"m","t":"former homeland in South Africa, now part of Free State Province"}],"k":"qwaqwa"},{"h":"qwerty","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"cách sắp xếp chữ được qui định theo bàn phím tiêu chuẩn của máy chữ Anh."}],"ipa":"'kwə:ti","k":"qwerty"},{"h":"qwerty (QWERTY)","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"mặt chữ, bàn phím máy chữ tiêu chuẩn"}],"k":"qwerty (qwerty)"},{"h":"QWERTY key board","segs":[{"k":"m","t":"(dt) (vi tính) Bàn phím kiểu QWERTY (như máy chữ QWERTY)."}],"ipa":"ɛkwə:tiki:bɔ:d","k":"qwerty key board"}]
+[
+  {
+    "h": "Qwaqwa",
+    "segs": [{"k": "m", "t": "former homeland in South Africa, now part of Free State Province"}],
+    "k": "qwaqwa"
+  },
+  {
+    "h": "qwerty",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "cách sắp xếp chữ được qui định theo bàn phím tiêu chuẩn của máy chữ Anh."}
+    ],
+    "ipa": "'kwə:ti",
+    "k": "qwerty"
+  },
+  {
+    "h": "qwerty (QWERTY)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kinh tế"},
+      {"k": "m", "t": "mặt chữ, bàn phím máy chữ tiêu chuẩn"}
+    ],
+    "k": "qwerty (qwerty)"
+  },
+  {
+    "h": "QWERTY key board",
+    "segs": [{"k": "m", "t": "(dt) (vi tính) Bàn phím kiểu QWERTY (như máy chữ QWERTY)."}],
+    "ipa": "ɛkwə:tiki:bɔ:d",
+    "k": "qwerty key board"
+  }
+]

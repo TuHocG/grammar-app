@@ -1,1 +1,82 @@
-[{"h":"DF","segs":[{"k":"m","t":"Viết tắt của telecommunications direction finder"}],"k":"df"},{"h":"DF zero alignment","segs":[{"k":"m","t":"việc bù trừ độ lệch vô tuyến."}],"k":"df zero alignment"},{"h":"DFC","segs":[{"k":"m","t":"(data flow control) điều khiển dòng dữ liệu, điều khiển luồng dữ liệu."}],"k":"dfc"},{"h":"DFD","segs":[{"k":"m","t":"(data flow diagram) giản đồ luồng dữ liệu."}],"k":"dfd"},{"h":"DfEE","segs":[{"k":"m","t":"Viết tắt của U.K. Department for Education và Employment"}],"k":"dfee"},{"h":"dfficultly","segs":[{"k":"m","t":"(adv)"},{"k":"m","t":"(Tham khảo)"},{"k":"ex","t":"different","vi":"."}],"k":"dfficultly"},{"h":"DfID","segs":[{"k":"m","t":"Viết tắt của U.K. government Department for International Development"}],"k":"dfid"},{"h":"DFM","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"Distinguished Flying Medal huy chương phi hành xuất sắc"}],"k":"dfm"},{"h":"DFP","segs":[{"k":"m","t":"(data facility product) sản phẩm công cụ dữ liệu."}],"k":"dfp"},{"h":"DFP segment","segs":[{"k":"m","t":"đoạn DFP."}],"k":"dfp segment"},{"h":"DFS","segs":[{"k":"m","t":"(distributed file system) hệ thống tập tin phân tán."}],"k":"dfs"},{"h":"DFSYN response","segs":[{"k":"m","t":"(data flow synchroneous response) sự đáp ứng đồng bộ luồng dữ liệu."}],"k":"dfsyn response"},{"h":"DFT","segs":[{"k":"m","t":"1. diagnostic function test sự kiểm tra chức năng chẩn đoán. 2. discrete Fourier transform biến đổi Fourier rời rạc. 3. distributed function terminal đầu cuối chức năng phân phối."}],"k":"dft"},{"h":"DFU","segs":[{"k":"m","t":"(data file utihty) tiện ích tập tin dữ liệu."}],"k":"dfu"},{"h":"DFU application","segs":[{"k":"m","t":"ứng dụng DFU."}],"k":"dfu application"},{"h":"DFZ","segs":[{"k":"m","t":"Viết tắt của commerce duty-free zone"}],"k":"dfz"}]
+[
+  {
+    "h": "DF",
+    "segs": [{"k": "m", "t": "Viết tắt của telecommunications direction finder"}],
+    "k": "df"
+  },
+  {
+    "h": "DF zero alignment",
+    "segs": [{"k": "m", "t": "việc bù trừ độ lệch vô tuyến."}],
+    "k": "df zero alignment"
+  },
+  {
+    "h": "DFC",
+    "segs": [
+      {"k": "m", "t": "(data flow control) điều khiển dòng dữ liệu, điều khiển luồng dữ liệu."}
+    ],
+    "k": "dfc"
+  },
+  {"h": "DFD", "segs": [{"k": "m", "t": "(data flow diagram) giản đồ luồng dữ liệu."}], "k": "dfd"},
+  {
+    "h": "DfEE",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Department for Education và Employment"}],
+    "k": "dfee"
+  },
+  {
+    "h": "dfficultly",
+    "segs": [
+      {"k": "m", "t": "(adv)"},
+      {"k": "m", "t": "(Tham khảo)"},
+      {"k": "ex", "t": "different", "vi": "."}
+    ],
+    "k": "dfficultly"
+  },
+  {
+    "h": "DfID",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.K. government Department for International Development"}
+    ],
+    "k": "dfid"
+  },
+  {
+    "h": "DFM",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "Distinguished Flying Medal huy chương phi hành xuất sắc"}
+    ],
+    "k": "dfm"
+  },
+  {
+    "h": "DFP",
+    "segs": [{"k": "m", "t": "(data facility product) sản phẩm công cụ dữ liệu."}],
+    "k": "dfp"
+  },
+  {"h": "DFP segment", "segs": [{"k": "m", "t": "đoạn DFP."}], "k": "dfp segment"},
+  {
+    "h": "DFS",
+    "segs": [{"k": "m", "t": "(distributed file system) hệ thống tập tin phân tán."}],
+    "k": "dfs"
+  },
+  {
+    "h": "DFSYN response",
+    "segs": [{"k": "m", "t": "(data flow synchroneous response) sự đáp ứng đồng bộ luồng dữ liệu."}],
+    "k": "dfsyn response"
+  },
+  {
+    "h": "DFT",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. diagnostic function test sự kiểm tra chức năng chẩn đoán. 2. discrete Fourier transform biến đổi Fourier rời rạc. 3. distributed function terminal đầu cuối chức năng phân phối."
+      }
+    ],
+    "k": "dft"
+  },
+  {
+    "h": "DFU",
+    "segs": [{"k": "m", "t": "(data file utihty) tiện ích tập tin dữ liệu."}],
+    "k": "dfu"
+  },
+  {"h": "DFU application", "segs": [{"k": "m", "t": "ứng dụng DFU."}], "k": "dfu application"},
+  {"h": "DFZ", "segs": [{"k": "m", "t": "Viết tắt của commerce duty-free zone"}], "k": "dfz"}
+]

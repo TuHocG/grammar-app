@@ -1,1 +1,61 @@
-[{"h":"eh","segs":[{"k":"pos","t":"thán từ"},{"k":"m","t":"ê!, này!"},{"k":"m","t":"ồ! nhỉ!"}],"ipa":"ei","k":"eh"},{"h":"EH (error handler)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ xử lý lỗi"}],"k":"eh (error handler)"},{"h":"ehaust maniford","segs":[{"k":"m","t":"ống xả, ống thải."}],"k":"ehaust maniford"},{"h":"ehaust-steam main","segs":[{"k":"m","t":"đường ống dẫn hơi xả, đường ống xả hơi nước."}],"k":"ehaust-steam main"},{"h":"EHF","segs":[{"k":"m","t":"(extremely high frequency) tần số cực lớn."}],"k":"ehf"},{"h":"EHO","segs":[{"k":"m","t":"Environmental Health Officer cơ quan y tế môi trường"}],"k":"eho"},{"h":"eho sign","segs":[{"k":"m","t":"dấu hiệu tiếng vang."}],"k":"eho sign"},{"h":"Ehrenfest model","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mô hình Ehrenfest"}],"k":"ehrenfest model"},{"h":"Ehrenfest's equation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phương trình Ehrenfest"}],"k":"ehrenfest's equation"},{"h":"Ehrenfest's equations","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phương trình Ehrenfest"}],"k":"ehrenfest's equations"},{"h":"Ehrenhaft effect","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hiệu ứng Ehrenhaft"}],"k":"ehrenhaft effect"},{"h":"EHT rectifier","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ chỉnh lưu EHT"}],"k":"eht rectifier"},{"h":"ehumbatron","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hốc cộng hưởng"},{"k":"m","t":"buồng công hưởng"}],"k":"ehumbatron"},{"h":"EHV","segs":[{"k":"m","t":"(extremely high voltage) điện áp cực lớn."}],"k":"ehv"}]
+[
+  {
+    "h": "eh",
+    "segs": [{"k": "pos", "t": "thán từ"}, {"k": "m", "t": "ê!, này!"}, {"k": "m", "t": "ồ! nhỉ!"}],
+    "ipa": "ei",
+    "k": "eh"
+  },
+  {
+    "h": "EH (error handler)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ xử lý lỗi"}],
+    "k": "eh (error handler)"
+  },
+  {"h": "ehaust maniford", "segs": [{"k": "m", "t": "ống xả, ống thải."}], "k": "ehaust maniford"},
+  {
+    "h": "ehaust-steam main",
+    "segs": [{"k": "m", "t": "đường ống dẫn hơi xả, đường ống xả hơi nước."}],
+    "k": "ehaust-steam main"
+  },
+  {"h": "EHF", "segs": [{"k": "m", "t": "(extremely high frequency) tần số cực lớn."}], "k": "ehf"},
+  {
+    "h": "EHO",
+    "segs": [{"k": "m", "t": "Environmental Health Officer cơ quan y tế môi trường"}],
+    "k": "eho"
+  },
+  {"h": "eho sign", "segs": [{"k": "m", "t": "dấu hiệu tiếng vang."}], "k": "eho sign"},
+  {
+    "h": "Ehrenfest model",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mô hình Ehrenfest"}],
+    "k": "ehrenfest model"
+  },
+  {
+    "h": "Ehrenfest's equation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương trình Ehrenfest"}],
+    "k": "ehrenfest's equation"
+  },
+  {
+    "h": "Ehrenfest's equations",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phương trình Ehrenfest"}],
+    "k": "ehrenfest's equations"
+  },
+  {
+    "h": "Ehrenhaft effect",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hiệu ứng Ehrenhaft"}],
+    "k": "ehrenhaft effect"
+  },
+  {
+    "h": "EHT rectifier",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ chỉnh lưu EHT"}],
+    "k": "eht rectifier"
+  },
+  {
+    "h": "ehumbatron",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hốc cộng hưởng"},
+      {"k": "m", "t": "buồng công hưởng"}
+    ],
+    "k": "ehumbatron"
+  },
+  {"h": "EHV", "segs": [{"k": "m", "t": "(extremely high voltage) điện áp cực lớn."}], "k": "ehv"}
+]

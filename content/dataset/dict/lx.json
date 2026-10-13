@@ -1,1 +1,8 @@
-[{"h":"lx","segs":[{"k":"m","t":"vt. của lux."}],"k":"lx"},{"h":"LXX (Septuagint)","segs":[{"k":"m","t":"Bản bảy mươi (bản dịch Cựu Ước trong tiếng Hy lạp)"}],"k":"lxx (septuagint)"}]
+[
+  {"h": "lx", "segs": [{"k": "m", "t": "vt. của lux."}], "k": "lx"},
+  {
+    "h": "LXX (Septuagint)",
+    "segs": [{"k": "m", "t": "Bản bảy mươi (bản dịch Cựu Ước trong tiếng Hy lạp)"}],
+    "k": "lxx (septuagint)"
+  }
+]

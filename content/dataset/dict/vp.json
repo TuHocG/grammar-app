@@ -1,1 +1,27 @@
-[{"h":"vp","segs":[{"k":"m","t":"VP (cũng V Pres)"},{"k":"m","t":"viết tắt"},{"k":"m","t":"Vice-President: Phó Chủ tịch; Phó Tổng thống."}],"k":"vp"},{"h":"VPD","segs":[{"k":"m","t":"(vital product data) dữ liệu quan trọng của sản phẩm, số liệu quan trọng của thiết bị."}],"k":"vpd"},{"h":"VPL","segs":[{"k":"m","t":"(visual programming language) ngôn ngữ lập trình trực quan."}],"k":"vpl"},{"h":"VPN","segs":[{"k":"m","t":"(virtual private network) mạng riêng ảo."}],"k":"vpn"}]
+[
+  {
+    "h": "vp",
+    "segs": [
+      {"k": "m", "t": "VP (cũng V Pres)"},
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "Vice-President: Phó Chủ tịch; Phó Tổng thống."}
+    ],
+    "k": "vp"
+  },
+  {
+    "h": "VPD",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(vital product data) dữ liệu quan trọng của sản phẩm, số liệu quan trọng của thiết bị."
+      }
+    ],
+    "k": "vpd"
+  },
+  {
+    "h": "VPL",
+    "segs": [{"k": "m", "t": "(visual programming language) ngôn ngữ lập trình trực quan."}],
+    "k": "vpl"
+  },
+  {"h": "VPN", "segs": [{"k": "m", "t": "(virtual private network) mạng riêng ảo."}], "k": "vpn"}
+]

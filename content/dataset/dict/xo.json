@@ -1,1 +1,59 @@
-[{"h":"xoanon","segs":[{"k":"m","t":"(số nhiều xoana)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"wooden image of god: an image of a god that has been carved out of wood"}],"k":"xoanon"},{"h":"Xochimilco","segs":[{"k":"m","t":"city in south central Mexico. It is a suburb of Mexico City và is famous for its precolonial canals và floating gardens."},{"k":"m","t":"Dân số khoảng: 356,833 (2000)"}],"k":"xochimilco"},{"h":"xon","segs":[{"k":"m","t":"xon/xoff handshaking"},{"k":"m","t":"thiết lập quan hệ, tay bắt tay."}],"k":"xon"},{"h":"XON/XOFF","segs":[{"k":"m","t":"tín hiệu truyền / tín hiệu ngưng truyền."}],"k":"xon/xoff"},{"h":"XON/XOFF handshaking","segs":[{"k":"m","t":"thiết lập quan hệ, tay bắt tay."}],"k":"xon/xoff handshaking"},{"h":"XOR","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phép XOR"}],"k":"xor"},{"h":"XOR gate","segs":[{"k":"m","t":"(EXCLUSIVE-OR gate) cổng XOR, cổng EXCLUSIVE-OR."}],"k":"xor gate"},{"h":"XOR operation","segs":[{"k":"m","t":"phép toán EXCLUSIVE-OR."}],"k":"xor operation"},{"h":"Xosa","segs":[{"k":"m","t":"noun, adjective"},{"k":"m","t":"peoples language Another spelling of Xhosa"}],"k":"xosa"}]
+[
+  {
+    "h": "xoanon",
+    "segs": [
+      {"k": "m", "t": "(số nhiều xoana)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "wooden image of god: an image of a god that has been carved out of wood"}
+    ],
+    "k": "xoanon"
+  },
+  {
+    "h": "Xochimilco",
+    "segs": [
+      {
+        "k": "m",
+        "t": "city in south central Mexico. It is a suburb of Mexico City và is famous for its precolonial canals và floating gardens."
+      },
+      {"k": "m", "t": "Dân số khoảng: 356,833 (2000)"}
+    ],
+    "k": "xochimilco"
+  },
+  {
+    "h": "xon",
+    "segs": [
+      {"k": "m", "t": "xon/xoff handshaking"},
+      {"k": "m", "t": "thiết lập quan hệ, tay bắt tay."}
+    ],
+    "k": "xon"
+  },
+  {
+    "h": "XON/XOFF",
+    "segs": [{"k": "m", "t": "tín hiệu truyền / tín hiệu ngưng truyền."}],
+    "k": "xon/xoff"
+  },
+  {
+    "h": "XON/XOFF handshaking",
+    "segs": [{"k": "m", "t": "thiết lập quan hệ, tay bắt tay."}],
+    "k": "xon/xoff handshaking"
+  },
+  {
+    "h": "XOR",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phép XOR"}],
+    "k": "xor"
+  },
+  {
+    "h": "XOR gate",
+    "segs": [{"k": "m", "t": "(EXCLUSIVE-OR gate) cổng XOR, cổng EXCLUSIVE-OR."}],
+    "k": "xor gate"
+  },
+  {"h": "XOR operation", "segs": [{"k": "m", "t": "phép toán EXCLUSIVE-OR."}], "k": "xor operation"},
+  {
+    "h": "Xosa",
+    "segs": [
+      {"k": "m", "t": "noun, adjective"},
+      {"k": "m", "t": "peoples language Another spelling of Xhosa"}
+    ],
+    "k": "xosa"
+  }
+]

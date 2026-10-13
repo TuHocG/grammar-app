@@ -1,1 +1,75 @@
-[{"h":"RR","segs":[{"k":"m","t":"(receive ready) sẵn sàng nhận."}],"k":"rr"},{"h":"RR (receive ready)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sẵn sàng nhận"}],"k":"rr (receive ready)"},{"h":"RR frame","segs":[{"k":"m","t":"(receive ready frame) khung sẵn sàng nhận."}],"k":"rr frame"},{"h":"rraverse sample","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mẫu thử theo mặt cắt"}],"k":"rraverse sample"},{"h":"RRB","segs":[{"k":"m","t":"Viết tắt của Railroad Retirement Board"}],"k":"rrb"},{"h":"RRDS","segs":[{"k":"m","t":"(relalive record data set) tập dữ liệu bản ghi tương đối."}],"k":"rrds"},{"h":"Rrhagia","segs":[{"k":"m","t":"Suffix. Chỉ chảy ra hay xuất tiết bất thường hay quá mức từ một cơ quan hay bộ phận."}],"k":"rrhagia"},{"h":"rrhaphy","segs":[{"k":"m","t":"suffix. khâu trong phẫu thuật."}],"k":"rrhaphy"},{"h":"rrhexis","segs":[{"k":"m","t":"suffìx. chỉ một bộ phận bì nứt hay vỡ ra."}],"k":"rrhexis"},{"h":"rrhoea","segs":[{"k":"m","t":"suffix. chỉ chảy ra hay xuất tiết từ một cơ quan hay bộ phận."}],"k":"rrhoea"},{"h":"RRL","segs":[{"k":"m","t":"(remote reference layer) lớp tham chiếu từ xa."}],"k":"rrl"},{"h":"RRN","segs":[{"k":"m","t":"(relative record number) số chỉ bản tin tương đối."}],"k":"rrn"},{"h":"rRNA","segs":[{"k":"m","t":"Viết tắt của biochemistry ribosomal RNA"}],"k":"rrna"},{"h":"rrp","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"RRP) giá bán lẻ được đề xuất (recommended retail price","vi":")."}],"ipa":",a:r a: 'pi:","k":"rrp"},{"h":"RRSP","segs":[{"k":"m","t":"Viết tắt của Registered Retirement Savings Plan"}],"k":"rrsp"},{"h":"RRT","segs":[{"k":"m","t":"(resource resolution table) bảng phân giải nguồn."}],"k":"rrt"}]
+[
+  {"h": "RR", "segs": [{"k": "m", "t": "(receive ready) sẵn sàng nhận."}], "k": "rr"},
+  {
+    "h": "RR (receive ready)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sẵn sàng nhận"}],
+    "k": "rr (receive ready)"
+  },
+  {
+    "h": "RR frame",
+    "segs": [{"k": "m", "t": "(receive ready frame) khung sẵn sàng nhận."}],
+    "k": "rr frame"
+  },
+  {
+    "h": "rraverse sample",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mẫu thử theo mặt cắt"}],
+    "k": "rraverse sample"
+  },
+  {"h": "RRB", "segs": [{"k": "m", "t": "Viết tắt của Railroad Retirement Board"}], "k": "rrb"},
+  {
+    "h": "RRDS",
+    "segs": [{"k": "m", "t": "(relalive record data set) tập dữ liệu bản ghi tương đối."}],
+    "k": "rrds"
+  },
+  {
+    "h": "Rrhagia",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Suffix. Chỉ chảy ra hay xuất tiết bất thường hay quá mức từ một cơ quan hay bộ phận."
+      }
+    ],
+    "k": "rrhagia"
+  },
+  {"h": "rrhaphy", "segs": [{"k": "m", "t": "suffix. khâu trong phẫu thuật."}], "k": "rrhaphy"},
+  {
+    "h": "rrhexis",
+    "segs": [{"k": "m", "t": "suffìx. chỉ một bộ phận bì nứt hay vỡ ra."}],
+    "k": "rrhexis"
+  },
+  {
+    "h": "rrhoea",
+    "segs": [{"k": "m", "t": "suffix. chỉ chảy ra hay xuất tiết từ một cơ quan hay bộ phận."}],
+    "k": "rrhoea"
+  },
+  {
+    "h": "RRL",
+    "segs": [{"k": "m", "t": "(remote reference layer) lớp tham chiếu từ xa."}],
+    "k": "rrl"
+  },
+  {
+    "h": "RRN",
+    "segs": [{"k": "m", "t": "(relative record number) số chỉ bản tin tương đối."}],
+    "k": "rrn"
+  },
+  {"h": "rRNA", "segs": [{"k": "m", "t": "Viết tắt của biochemistry ribosomal RNA"}], "k": "rrna"},
+  {
+    "h": "rrp",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {"k": "ex", "t": "RRP) giá bán lẻ được đề xuất (recommended retail price", "vi": ")."}
+    ],
+    "ipa": ",a:r a: 'pi:",
+    "k": "rrp"
+  },
+  {
+    "h": "RRSP",
+    "segs": [{"k": "m", "t": "Viết tắt của Registered Retirement Savings Plan"}],
+    "k": "rrsp"
+  },
+  {
+    "h": "RRT",
+    "segs": [{"k": "m", "t": "(resource resolution table) bảng phân giải nguồn."}],
+    "k": "rrt"
+  }
+]

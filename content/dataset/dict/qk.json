@@ -1,1 +1,4 @@
-[{"h":"QKt","segs":[{"k":"m","t":"Viết tắt của chess queen's knight"}],"k":"qkt"},{"h":"QKtP","segs":[{"k":"m","t":"Viết tắt của chess queen's knight's pawn"}],"k":"qktp"}]
+[
+  {"h": "QKt", "segs": [{"k": "m", "t": "Viết tắt của chess queen's knight"}], "k": "qkt"},
+  {"h": "QKtP", "segs": [{"k": "m", "t": "Viết tắt của chess queen's knight's pawn"}], "k": "qktp"}
+]

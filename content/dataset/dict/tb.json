@@ -1,1 +1,90 @@
-[{"h":"TB","segs":[{"k":"m","t":"(tắt) bệnh lao ("},{"k":"ex","t":"tuberculosis","vi":")."}],"ipa":",ti: 'bi:","k":"tb"},{"h":"TB (terabyte)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bằng 2 mũ 40 byte"}],"k":"tb (terabyte)"},{"h":"Tb (terbium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"TB"},{"k":"m","t":"tecbi"}],"k":"tb (terbium)"},{"h":"TBA","segs":[{"k":"m","t":"hoặc tba"},{"k":"m","t":"abbreviation"},{"k":"m","t":"to be announced"}],"k":"tba"},{"h":"TBC","segs":[{"k":"m","t":"(time base corrector) bộ hiệu chỉnh cơ sở thời gian."}],"k":"tbc"},{"h":"TBD","segs":[{"k":"m","t":"Viết tắt của 1. to be determined"},{"k":"m","t":"2. to be discussed"}],"k":"tbd"},{"h":"Tbilisi","segs":[{"k":"m","t":"capital of the Republic of Georgia, in the east central part of the country, on the Kura River."},{"k":"m","t":"Dân số khoảng: 1,103,500 (thống kê năm 2002)"}],"k":"tbilisi"},{"h":"tboracostomy tube","segs":[{"k":"m","t":"ống mở thông lồng ngực."}],"k":"tboracostomy tube"},{"h":"TBP process","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"quá trình TBP"}],"k":"tbp process"},{"h":"tbrombocytopoiesis","segs":[{"k":"m","t":"(sự) sinh tiểu cầu."}],"k":"tbrombocytopoiesis"},{"h":"tbs","segs":[{"k":"m","t":"(vt) Thìa xúp đầy."}],"k":"tbs"},{"h":"tbs.","segs":[{"k":"m","t":"hoặc tbsp."},{"k":"m","t":"abbreviation"},{"k":"m","t":"measurements tablespoon"}],"k":"tbs."},{"h":"tbsp","segs":[{"k":"m","t":"(tắt) thìa xúp đầy ("},{"k":"ex","t":"tablespoonful) (tbsps","vi":") những thìa xúp đầy"},{"k":"ex","t":"add 3 tbsps salt","vi":"thêm ba thìa xúp đầy muối."}],"ipa":",ti: bi: es 'pi:","k":"tbsp"}]
+[
+  {
+    "h": "TB",
+    "segs": [{"k": "m", "t": "(tắt) bệnh lao ("}, {"k": "ex", "t": "tuberculosis", "vi": ")."}],
+    "ipa": ",ti: 'bi:",
+    "k": "tb"
+  },
+  {
+    "h": "TB (terabyte)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bằng 2 mũ 40 byte"}],
+    "k": "tb (terabyte)"
+  },
+  {
+    "h": "Tb (terbium)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "TB"},
+      {"k": "m", "t": "tecbi"}
+    ],
+    "k": "tb (terbium)"
+  },
+  {
+    "h": "TBA",
+    "segs": [
+      {"k": "m", "t": "hoặc tba"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "to be announced"}
+    ],
+    "k": "tba"
+  },
+  {
+    "h": "TBC",
+    "segs": [{"k": "m", "t": "(time base corrector) bộ hiệu chỉnh cơ sở thời gian."}],
+    "k": "tbc"
+  },
+  {
+    "h": "TBD",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. to be determined"},
+      {"k": "m", "t": "2. to be discussed"}
+    ],
+    "k": "tbd"
+  },
+  {
+    "h": "Tbilisi",
+    "segs": [
+      {
+        "k": "m",
+        "t": "capital of the Republic of Georgia, in the east central part of the country, on the Kura River."
+      },
+      {"k": "m", "t": "Dân số khoảng: 1,103,500 (thống kê năm 2002)"}
+    ],
+    "k": "tbilisi"
+  },
+  {
+    "h": "tboracostomy tube",
+    "segs": [{"k": "m", "t": "ống mở thông lồng ngực."}],
+    "k": "tboracostomy tube"
+  },
+  {
+    "h": "TBP process",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "quá trình TBP"}],
+    "k": "tbp process"
+  },
+  {
+    "h": "tbrombocytopoiesis",
+    "segs": [{"k": "m", "t": "(sự) sinh tiểu cầu."}],
+    "k": "tbrombocytopoiesis"
+  },
+  {"h": "tbs", "segs": [{"k": "m", "t": "(vt) Thìa xúp đầy."}], "k": "tbs"},
+  {
+    "h": "tbs.",
+    "segs": [
+      {"k": "m", "t": "hoặc tbsp."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "measurements tablespoon"}
+    ],
+    "k": "tbs."
+  },
+  {
+    "h": "tbsp",
+    "segs": [
+      {"k": "m", "t": "(tắt) thìa xúp đầy ("},
+      {"k": "ex", "t": "tablespoonful) (tbsps", "vi": ") những thìa xúp đầy"},
+      {"k": "ex", "t": "add 3 tbsps salt", "vi": "thêm ba thìa xúp đầy muối."}
+    ],
+    "ipa": ",ti: bi: es 'pi:",
+    "k": "tbsp"
+  }
+]

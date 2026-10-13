@@ -1,1 +1,15 @@
-[{"h":"lg.","segs":[{"k":"m","t":"Viết tắt của 1. large"},{"k":"m","t":"2. U.S. long"}],"k":"lg."},{"h":"LGBT","segs":[{"k":"m","t":"Viết tắt của lesbian, gay, bisexual, transgender (or transsexual)"}],"k":"lgbt"},{"h":"LGN","segs":[{"k":"m","t":"(logical group number) số hiệu nhóm logic."}],"k":"lgn"},{"h":"LGS ratio","segs":[{"k":"m","t":"tỷ lệ LGS."}],"k":"lgs ratio"},{"h":"lgth","segs":[{"k":"m","t":"Viết tắt của U.K. length"}],"k":"lgth"}]
+[
+  {
+    "h": "lg.",
+    "segs": [{"k": "m", "t": "Viết tắt của 1. large"}, {"k": "m", "t": "2. U.S. long"}],
+    "k": "lg."
+  },
+  {
+    "h": "LGBT",
+    "segs": [{"k": "m", "t": "Viết tắt của lesbian, gay, bisexual, transgender (or transsexual)"}],
+    "k": "lgbt"
+  },
+  {"h": "LGN", "segs": [{"k": "m", "t": "(logical group number) số hiệu nhóm logic."}], "k": "lgn"},
+  {"h": "LGS ratio", "segs": [{"k": "m", "t": "tỷ lệ LGS."}], "k": "lgs ratio"},
+  {"h": "lgth", "segs": [{"k": "m", "t": "Viết tắt của U.K. length"}], "k": "lgth"}
+]

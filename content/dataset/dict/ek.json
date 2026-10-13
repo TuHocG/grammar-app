@@ -1,1 +1,132 @@
-[{"h":"ekacesium","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"franxi"},{"k":"m","t":"ekaxesi"}],"k":"ekacesium"},{"h":"ekaiodine","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ekaiođi"}],"k":"ekaiodine"},{"h":"ekatantalum","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ekatantali"}],"k":"ekatantalum"},{"h":"ekdam","segs":[{"k":"m","t":"trạng từ"},{"k":"m","t":"South Asia totally: in a complete way hoặc to the fullest extent (thông tục)"}],"k":"ekdam"},{"h":"ekdemite","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ecđemit"}],"k":"ekdemite"},{"h":"eke","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"(+"},{"k":"ex","t":"out","vi":") thêm vào"},{"k":"m","t":"bổ khuyết"},{"k":"ex","t":"to eke out ink with water","vi":"thêm nước vào mực"},{"k":"ex","t":"to eke out one's small income with","vi":"thêm... vào thu nhập ít ỏi của mình"},{"k":"ex","t":"to eke out an article","vi":"viết kéo dài một bài báo, viết bôi ra một bài báo"},{"k":"pos","t":"phó từ"},{"k":"m","t":"(cổ) cũng."}],"ipa":"i:k","k":"eke","q":{"vi":"kiếm ăn vất vả, eke out: thêm vào, phụ cấp","ipa":"i:k","rs":"ích k"}},{"h":"eke out","segs":[{"k":"m","t":"kiếm chác thêm, bù vào chỗ thiếu hụt."}],"k":"eke out"},{"h":"EKG","segs":[{"k":"m","t":"abbreviationmedicine"},{"k":"m","t":"1. electrocardiogram"},{"k":"m","t":"2. electrocardiograph"}],"k":"ekg"},{"h":"eking","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự bổ sung, sự thêm vào, sự kéo dài."}],"ipa":"'i:kiŋ","k":"eking"},{"h":"ekistics","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"khoa học về cách định cư và sự diễn biến của con người."}],"ipa":"i'kistiks","k":"ekistics"},{"h":"ekka","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(Anh-Ấn)"},{"k":"m","t":"xe một ngựa"},{"k":"m","t":"xe bò."}],"ipa":"'ekɔ","k":"ekka"},{"h":"ekki","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"gỗ ekki"}],"k":"ekki"},{"h":"ekkymowl","segs":[{"k":"m","t":"(số nhiều ekkymowls)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"U.K. regional zoology bat: a bat"}],"k":"ekkymowl"},{"h":"Ekman layer","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lớp giới hạn Ekman"},{"k":"m","t":"tầng giới hạn Ekman"}],"k":"ekman layer"},{"h":"Ekman spiral","segs":[{"k":"m","t":"đường xoắn Ekman."}],"k":"ekman spiral"},{"h":"ekonal","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ekonan"}],"k":"ekonal"},{"h":"ektogenic","segs":[{"k":"m","t":"ngoại sinh."}],"k":"ektogenic"}]
+[
+  {
+    "h": "ekacesium",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "franxi"},
+      {"k": "m", "t": "ekaxesi"}
+    ],
+    "k": "ekacesium"
+  },
+  {
+    "h": "ekaiodine",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ekaiođi"}],
+    "k": "ekaiodine"
+  },
+  {
+    "h": "ekatantalum",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ekatantali"}],
+    "k": "ekatantalum"
+  },
+  {
+    "h": "ekdam",
+    "segs": [
+      {"k": "m", "t": "trạng từ"},
+      {
+        "k": "m",
+        "t": "South Asia totally: in a complete way hoặc to the fullest extent (thông tục)"
+      }
+    ],
+    "k": "ekdam"
+  },
+  {
+    "h": "ekdemite",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ecđemit"}],
+    "k": "ekdemite"
+  },
+  {
+    "h": "eke",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "(+"},
+      {"k": "ex", "t": "out", "vi": ") thêm vào"},
+      {"k": "m", "t": "bổ khuyết"},
+      {"k": "ex", "t": "to eke out ink with water", "vi": "thêm nước vào mực"},
+      {
+        "k": "ex",
+        "t": "to eke out one's small income with",
+        "vi": "thêm... vào thu nhập ít ỏi của mình"
+      },
+      {
+        "k": "ex",
+        "t": "to eke out an article",
+        "vi": "viết kéo dài một bài báo, viết bôi ra một bài báo"
+      },
+      {"k": "pos", "t": "phó từ"},
+      {"k": "m", "t": "(cổ) cũng."}
+    ],
+    "ipa": "i:k",
+    "k": "eke",
+    "q": {"vi": "kiếm ăn vất vả, eke out: thêm vào, phụ cấp", "ipa": "i:k", "rs": "ích k"}
+  },
+  {
+    "h": "eke out",
+    "segs": [{"k": "m", "t": "kiếm chác thêm, bù vào chỗ thiếu hụt."}],
+    "k": "eke out"
+  },
+  {
+    "h": "EKG",
+    "segs": [
+      {"k": "m", "t": "abbreviationmedicine"},
+      {"k": "m", "t": "1. electrocardiogram"},
+      {"k": "m", "t": "2. electrocardiograph"}
+    ],
+    "k": "ekg"
+  },
+  {
+    "h": "eking",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sự bổ sung, sự thêm vào, sự kéo dài."}],
+    "ipa": "'i:kiŋ",
+    "k": "eking"
+  },
+  {
+    "h": "ekistics",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "khoa học về cách định cư và sự diễn biến của con người."}
+    ],
+    "ipa": "i'kistiks",
+    "k": "ekistics"
+  },
+  {
+    "h": "ekka",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(Anh-Ấn)"},
+      {"k": "m", "t": "xe một ngựa"},
+      {"k": "m", "t": "xe bò."}
+    ],
+    "ipa": "'ekɔ",
+    "k": "ekka"
+  },
+  {
+    "h": "ekki",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "gỗ ekki"}],
+    "k": "ekki"
+  },
+  {
+    "h": "ekkymowl",
+    "segs": [
+      {"k": "m", "t": "(số nhiều ekkymowls)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "U.K. regional zoology bat: a bat"}
+    ],
+    "k": "ekkymowl"
+  },
+  {
+    "h": "Ekman layer",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "lớp giới hạn Ekman"},
+      {"k": "m", "t": "tầng giới hạn Ekman"}
+    ],
+    "k": "ekman layer"
+  },
+  {"h": "Ekman spiral", "segs": [{"k": "m", "t": "đường xoắn Ekman."}], "k": "ekman spiral"},
+  {
+    "h": "ekonal",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ekonan"}],
+    "k": "ekonal"
+  },
+  {"h": "ektogenic", "segs": [{"k": "m", "t": "ngoại sinh."}], "k": "ektogenic"}
+]

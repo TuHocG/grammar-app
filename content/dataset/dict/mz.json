@@ -1,1 +1,26 @@
-[{"h":"mz","segs":[{"k":"m","t":"Viết tắt của online Mozambique (used in Internet addresses)"}],"k":"mz"},{"h":"Mzilikazi","segs":[{"k":"m","t":"(1796-1868) Một lãnh đạo Ndebele. Là một người thống trị hùng mạnh đầu tiên của Ndebele, ông tập hợp mọi người thành một quốc gia do ông chỉ huy. Ông trở thành một nhà lãnh đạo chiến tranh dưới thời Shaka, Vua của Zulu. Ông cùng mọi người chạy khỏi Zululand đến miền tây Transvaal, định cư trong khu vực Bulawayo. Năm 1837, ông chạy về phương bắc, đánh bại Shona, cai trị Ndebele mãi cho đến khi ông qua đời."}],"k":"mzilikazi"},{"h":"mzungu","segs":[{"k":"m","t":"(số nhiều mzungus)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"East Africa Caucasian person: a white person"}],"k":"mzungu"}]
+[
+  {
+    "h": "mz",
+    "segs": [{"k": "m", "t": "Viết tắt của online Mozambique (used in Internet addresses)"}],
+    "k": "mz"
+  },
+  {
+    "h": "Mzilikazi",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(1796-1868) Một lãnh đạo Ndebele. Là một người thống trị hùng mạnh đầu tiên của Ndebele, ông tập hợp mọi người thành một quốc gia do ông chỉ huy. Ông trở thành một nhà lãnh đạo chiến tranh dưới thời Shaka, Vua của Zulu. Ông cùng mọi người chạy khỏi Zululand đến miền tây Transvaal, định cư trong khu vực Bulawayo. Năm 1837, ông chạy về phương bắc, đánh bại Shona, cai trị Ndebele mãi cho đến khi ông qua đời."
+      }
+    ],
+    "k": "mzilikazi"
+  },
+  {
+    "h": "mzungu",
+    "segs": [
+      {"k": "m", "t": "(số nhiều mzungus)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "East Africa Caucasian person: a white person"}
+    ],
+    "k": "mzungu"
+  }
+]

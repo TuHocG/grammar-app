@@ -1,1 +1,29 @@
-[{"h":"\"new-new\" microeconomics","segs":[{"k":"m","t":"tân kinh tế vĩ mô mới."}],"k":"\"new-new\" microeconomics"},{"h":"\"no account\"","segs":[{"k":"m","t":"\"không có tài khoản\"."}],"k":"\"no account\""},{"h":"\"no funds\"","segs":[{"k":"m","t":"\"không còn tiền\"."}],"k":"\"no funds\""},{"h":"-nik","segs":[{"k":"m","t":"(tvng) hình thành một danh từ chỉ về người gắn với một phẩm chất nào đó (beatnik dân hippy)."}],"k":"-nik"},{"h":"-nomy","segs":[{"k":"m","t":"k.h chỉ lĩnh vực hiểu biết (ví dụ: aeronomy, economy)."}],"ipa":"nəmi","k":"-nomy"}]
+[
+  {
+    "h": "\"new-new\" microeconomics",
+    "segs": [{"k": "m", "t": "tân kinh tế vĩ mô mới."}],
+    "k": "\"new-new\" microeconomics"
+  },
+  {
+    "h": "\"no account\"",
+    "segs": [{"k": "m", "t": "\"không có tài khoản\"."}],
+    "k": "\"no account\""
+  },
+  {"h": "\"no funds\"", "segs": [{"k": "m", "t": "\"không còn tiền\"."}], "k": "\"no funds\""},
+  {
+    "h": "-nik",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(tvng) hình thành một danh từ chỉ về người gắn với một phẩm chất nào đó (beatnik dân hippy)."
+      }
+    ],
+    "k": "-nik"
+  },
+  {
+    "h": "-nomy",
+    "segs": [{"k": "m", "t": "k.h chỉ lĩnh vực hiểu biết (ví dụ: aeronomy, economy)."}],
+    "ipa": "nəmi",
+    "k": "-nomy"
+  }
+]

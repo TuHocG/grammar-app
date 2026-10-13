@@ -1,1 +1,80 @@
-[{"h":"FS","segs":[{"k":"m","t":"(file separator hoặc file separator character) ký tự tách tập tin, dấu tách tập tin."}],"k":"fs"},{"h":"fs set","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tập hợp dạng Fs"}],"k":"fs set"},{"h":"FSA","segs":[{"k":"m","t":"(field search argument) đối số tìm kiếm trường."}],"k":"fsa"},{"h":"FSC","segs":[{"k":"m","t":"Viết tắt của foreign sales corporation"}],"k":"fsc"},{"h":"fsck","segs":[{"k":"m","t":"(file system check) kiểm tra hệ thống tập tin."}],"k":"fsck"},{"h":"FSF","segs":[{"k":"m","t":"(Free Software Foundation) tổ chức phần mềm miễn phí."}],"k":"fsf"},{"h":"FSH","segs":[{"k":"m","t":"hoóc-môn kích thích tố"}],"k":"fsh"},{"h":"FSK","segs":[{"k":"m","t":"(frequency shift keying) sự đánh tín hiệu dịch tần số."}],"k":"fsk"},{"h":"FSL","segs":[{"k":"m","t":"(functional subsystem interface) giao diện hệ thống con chức năng."}],"k":"fsl"},{"h":"FSLIC","segs":[{"k":"m","t":"Viết tắt của banking Federal Savings và Loan Insurance Corporation"}],"k":"fslic"},{"h":"FSP","segs":[{"k":"m","t":"1. file Service Protocol giao thức dịch vụ tập tin. 2. full-screen processing sự xử lý toàn màn hình."}],"k":"fsp"},{"h":"FSS","segs":[{"k":"m","t":"(functional subsystem) hệ thống con chức năng, hệ thống phụ chức năng."}],"k":"fss"},{"h":"FSS (functional subsystem)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hệ thống con chức năng"},{"k":"m","t":"hệ thống phụ chức năng"}],"k":"fss (functional subsystem)"},{"h":"FSV","segs":[{"k":"m","t":"(floating-point status vector) vectơ trạng thái dấu chấm động."}],"k":"fsv"}]
+[
+  {
+    "h": "FS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(file separator hoặc file separator character) ký tự tách tập tin, dấu tách tập tin."
+      }
+    ],
+    "k": "fs"
+  },
+  {
+    "h": "fs set",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tập hợp dạng Fs"}],
+    "k": "fs set"
+  },
+  {
+    "h": "FSA",
+    "segs": [{"k": "m", "t": "(field search argument) đối số tìm kiếm trường."}],
+    "k": "fsa"
+  },
+  {"h": "FSC", "segs": [{"k": "m", "t": "Viết tắt của foreign sales corporation"}], "k": "fsc"},
+  {
+    "h": "fsck",
+    "segs": [{"k": "m", "t": "(file system check) kiểm tra hệ thống tập tin."}],
+    "k": "fsck"
+  },
+  {
+    "h": "FSF",
+    "segs": [{"k": "m", "t": "(Free Software Foundation) tổ chức phần mềm miễn phí."}],
+    "k": "fsf"
+  },
+  {"h": "FSH", "segs": [{"k": "m", "t": "hoóc-môn kích thích tố"}], "k": "fsh"},
+  {
+    "h": "FSK",
+    "segs": [{"k": "m", "t": "(frequency shift keying) sự đánh tín hiệu dịch tần số."}],
+    "k": "fsk"
+  },
+  {
+    "h": "FSL",
+    "segs": [{"k": "m", "t": "(functional subsystem interface) giao diện hệ thống con chức năng."}],
+    "k": "fsl"
+  },
+  {
+    "h": "FSLIC",
+    "segs": [{"k": "m", "t": "Viết tắt của banking Federal Savings và Loan Insurance Corporation"}],
+    "k": "fslic"
+  },
+  {
+    "h": "FSP",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. file Service Protocol giao thức dịch vụ tập tin. 2. full-screen processing sự xử lý toàn màn hình."
+      }
+    ],
+    "k": "fsp"
+  },
+  {
+    "h": "FSS",
+    "segs": [
+      {"k": "m", "t": "(functional subsystem) hệ thống con chức năng, hệ thống phụ chức năng."}
+    ],
+    "k": "fss"
+  },
+  {
+    "h": "FSS (functional subsystem)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "hệ thống con chức năng"},
+      {"k": "m", "t": "hệ thống phụ chức năng"}
+    ],
+    "k": "fss (functional subsystem)"
+  },
+  {
+    "h": "FSV",
+    "segs": [{"k": "m", "t": "(floating-point status vector) vectơ trạng thái dấu chấm động."}],
+    "k": "fsv"
+  }
+]

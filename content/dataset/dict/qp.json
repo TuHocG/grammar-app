@@ -1,1 +1,12 @@
-[{"h":"QP","segs":[{"k":"m","t":"Viết tắt của chess queen's pawn"}],"k":"qp"},{"h":"QP device","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy QP"},{"k":"m","t":"thiết bị QP"}],"k":"qp device"}]
+[
+  {"h": "QP", "segs": [{"k": "m", "t": "Viết tắt của chess queen's pawn"}], "k": "qp"},
+  {
+    "h": "QP device",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "máy QP"},
+      {"k": "m", "t": "thiết bị QP"}
+    ],
+    "k": "qp device"
+  }
+]

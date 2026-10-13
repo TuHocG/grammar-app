@@ -1,1 +1,234 @@
-{"id":191,"code":"C 67","group":"C","n":67,"title":"C 67","first_line":"Up to 44 percent of Americans experience frequent bouts of heartburn.","video":"C 67.avi","duration":185.5,"lines":[{"e":5.02,"en":"Up to 44 percent of Americans experience frequent bouts of heartburn.","vi":"Có đến 44 phần trăm người Mỹ thường xuyên bị ợ nóng","s":0.0},{"e":8.15,"en":"If you're among them, look no further for relief.","vi":"nếu bạn nằm trong số họ, thì bài này là sự trợ giúp tốt nhất.","s":5.02},{"e":13.73,"en":"Heartburn is a painful condition caused by stomach acids seeping upward into the esophagus.","vi":"ợ nóng là một bệnh gây khó chịu do vị toan trào lên thực quản.","s":8.15},{"e":18.57,"en":"Anyone who has experienced this burning sensation knows that it's not a pleasant feeling.","vi":"Bất cứ người nào trải qua cảm giác nóng rát này đều biết là nó không dễ chịu.","s":13.73},{"e":25.68,"en":"If you're suffering from heartburn now, you may find instant relief with an over-the-counter antacid, like Tums or Rolaids.","vi":"nếu bây giờ bạn đang bị ợ nóng, bạn có thể làm dịu ngay bằng một loại thuốc kháng axit mua không cần toa bác sĩ như là Tums hoặc Rolaids.","s":18.57},{"e":29.23,"en":"Anatacids work by neutralizing acid in the stomach,","vi":"Các loại thuốc kháng axit hoạt động bằng cách trung hòa axit trong dạ dày,","s":25.68},{"e":34.77,"en":"so that when the acid enters the esophagus, it will be weaker, and therefore, less painful.","vi":"để khi đi vào thực quản tính axit của nó sẽ giảm đi và nhờ đó bớt gây khó chịu.","s":29.23},{"e":37.9,"en":"Antacids work rapidly, but they don't last for long.","vi":"Các loại thuốc kháng axit tác động nhanh nhưng không kéo dài.","s":34.77},{"e":43.37,"en":"If you need to take antacids more than several times a month, or don't experience relief using them,","vi":"nếu bạn cần dùng thuốc kháng axit quá nhiều lần trong một tháng, hoặc không thuyên giảm khi sử dụng.","s":37.9},{"e":49.84,"en":"your doctor may recommend you try a different medication, such as histamine-2, or H2, blockers.","vi":"bác sĩ có thể đề nghị bạn dùng loại thuốc khác, như là các loại thuốc phong bế thụ thể histamine-2 hoặc H2","s":43.37},{"e":54.01,"en":"Histamine is a chemical in the body that stimulates acid secretion.","vi":"Histamine là một hóa chất trong cơ thể, nó kích thích sự tiết vị toan.","s":49.84},{"e":60.55,"en":"H2-blockers stop the histamine from binding to acid-secreting cells, thereby hindering acid production.","vi":"các loại thuốc phong bế thụ thể H2 ngăn chặn việc histamine gắn kết vào các tế bào tiết vị toan, nhằm ngăn chặn việc tạo ra vị toan.","s":54.01},{"e":64.6,"en":"Most H2-blockers are available over-the-counter in low doses,","vi":"Phần lớn các loại thuốc phong bế H2 có thể mua không cần toa bác sĩ ở liều thấp,","s":60.55},{"e":68.25,"en":"although some require a prescription for higher concentrations.","vi":"dù có một số chỉ được bán theo toa bác sĩ đối với nồng độ cao hơn.","s":64.6},{"e":73.42,"en":"H2-blockers, like Zantac and Axid, last longer than antacids,","vi":"Các loại thuốc phong bế thụ thể tế bào H2, như là Zantac và Axid, tác động lâu hơn các loại thuốc kháng axit,","s":68.25},{"e":75.95,"en":"but they also take longer to absorb into the body.","vi":"nhưng chúng cũng cần nhiều thời gian hơn để ngấm vào cơ thể.","s":73.42},{"e":78.86,"en":"Sometimes an hour is needed to feel the effects.","vi":"Ðôi khi cần đến 1 giờ để có thể cảm nhận được hiệu quả.","s":75.95},{"e":85.42,"en":"For this reason, you may want to try an OTC medication that combines an antacid and an H2-blocker,","vi":"Vì lý do này, bạn nên dùng thử loại thuốc mua không cần toa bác sĩ kết hợp thuốc kháng axit với thuốc phong bế H2","s":78.86},{"e":89.68,"en":"so you get the quick onset of action combined with sustained relief.","vi":"để có thể nhận được liều thuốc có tác động vừa nhanh vừa kéo dài.","s":85.42},{"e":93.69,"en":"If neither antacids nor H2-blockers ease your heartburn symptoms,","vi":"Nếu cả thuốc kháng axit lẫn thuốc phong bế H2 đều không làm dịu các triệu chứng ợ nóng,","s":89.68},{"e":101.36,"en":"your doctor may recommend prescription drugs called proton pump inhibitors, or PPIs, like Nexium and Prevacid.","vi":"bác sĩ có thể đề nghị dùng các loại thuốc bán theo toa được gọi là những loại thuốc ức chế bơm proton, hoặc các PPI, như là Nexium và Prevacid.","s":93.69},{"e":106.15,"en":"Acid is released from cells in the stomach by a mechanism known as a proton pump.","vi":"Vị toan được phóng thích từ các tế bào trong dạ dày bởi một cơ chế được gọi là bơm proton.","s":101.36},{"e":111.64,"en":"PPIs block the pump from releasing acid, effectively stopping heartburn before it starts.","vi":"Các PPI ngăn chặn việc cơ chế này phóng thích vị toan, chặn đứng một cách hiệu quả chứng ợ nóng trước khi nó bắt đầu.","s":106.15},{"e":115.48,"en":"Both H2-blockers and PPIs are preventative medications,","vi":"Cả thuốc phong bế H2 lẫn PPI đều là dược phẩm phòng ngừa,","s":111.64},{"e":120.78,"en":"meaning that they work best if taken about an hour before a big, or potentially problematic, meal.","vi":"nghĩa là chúng hoạt động tốt nhất nếu được dùng khoảng 1 giờ trước một bữa ăn thịnh soạn hoặc có tiềm năng gây rối loạn.","s":115.48},{"e":127.86,"en":"Sometimes, combining medications with lifestyle modifications can be so effective that heartburn doesn't return.","vi":"Ðôi khi việc kết hợp dược phẩm với những thay đổi trong cách sống có thể công hiệu đến mức không còn bị ợ nóng.","s":120.78},{"e":139.55,"en":"Avoiding foods that are known to cause heartburn, like chocolate, peppermint, spice, citrus products, tomato products, alcohol and caffeine,","vi":"Việc tránh những loại thức ăn đã được biết là nguyên nhân của ợ nóng, như là sô-cô-la, bạc hà, gia vị, các sản phẩm làm từ các loại cây họ cam quýt, cà chua, rượu và chất cafêin,","s":127.86},{"e":142.45,"en":"is the easiest way to prevent heartburn from occurring.","vi":"là cách dễ nhất để ngăn ngừa chứng ợ nóng.","s":139.55},{"e":147.52,"en":"In addition to avoiding problem foods, eating smaller meals may help to prevent the condition.","vi":"ngoài việc tránh những loại thức ăn có vấn đề. Việc ăn từng bữa nhỏ có thể giúp ngừa bệnh này.","s":142.45},{"e":150.38,"en":"Or, try using gravity to your advantage.","vi":"Hoặc thử lợi dụng trọng lực.","s":147.52},{"e":157.37,"en":"Avoid lying down for 3 hours after meals, as this prevents stomach contents from traveling backwards to your esophagus.","vi":"Hãy tránh nằm trong khoảng 3 giờ sau khi ăn, vì cách làm này ngăn ngừa việc thức ăn trong dạ dày trào lên thực quản.","s":150.38},{"e":162.74,"en":"If nighttime heartburn has you tossing and turning, you may benefit from propping your head up with a pillow.","vi":"Nếu chứng ợ nóng ban đêm khiến bạn mất ngủ, việc dùng một chiếc gối để nâng cao đầu có thể giúp ích cho bạn.","s":157.37},{"e":165.64,"en":"You can also try sleeping on your left side.","vi":"Bạn cũng có thể thử nằm nghiêng bên trái khi ngủ.","s":162.74},{"e":168.62,"en":"Your esophagus starts on the right side of your body,","vi":"Vì khe thực quản bắt đầu từ bên phải của cơ thể,","s":165.64},{"e":173.54,"en":"so this prevents food in your stomach from pressing on the opening and leading to reflux.","vi":"thế nên cách làm này ngăn ngừa việc thức ăn từ dạ dày tiến vào khe thực quản dẫn đến sự hồi lưu.","s":168.62},{"e":179.38,"en":"While heartburn is never welcome, a variety of lifestyle modifications can help you put out the fire.","vi":"Chứng ợ nóng là điều không mong muốn và có nhiều cách thay đổi lối sống khác nhau để giúp bạn ngăn ngừa.","s":173.54},{"e":185.46,"en":"And please: Remember to see your doctor if you have chronic heartburn or pain that resists treatment.","vi":"Và xin hãy gặp bác sĩ nếu bị ợ nóng hoặc đau mãn tính kháng điều trị.","s":179.38}]}
+{
+  "id": 191,
+  "code": "C 67",
+  "group": "C",
+  "n": 67,
+  "title": "C 67",
+  "first_line": "Up to 44 percent of Americans experience frequent bouts of heartburn.",
+  "video": "C 67.avi",
+  "duration": 185.5,
+  "lines": [
+    {
+      "e": 5.02,
+      "en": "Up to 44 percent of Americans experience frequent bouts of heartburn.",
+      "vi": "Có đến 44 phần trăm người Mỹ thường xuyên bị ợ nóng",
+      "s": 0.0
+    },
+    {
+      "e": 8.15,
+      "en": "If you're among them, look no further for relief.",
+      "vi": "nếu bạn nằm trong số họ, thì bài này là sự trợ giúp tốt nhất.",
+      "s": 5.02
+    },
+    {
+      "e": 13.73,
+      "en": "Heartburn is a painful condition caused by stomach acids seeping upward into the esophagus.",
+      "vi": "ợ nóng là một bệnh gây khó chịu do vị toan trào lên thực quản.",
+      "s": 8.15
+    },
+    {
+      "e": 18.57,
+      "en": "Anyone who has experienced this burning sensation knows that it's not a pleasant feeling.",
+      "vi": "Bất cứ người nào trải qua cảm giác nóng rát này đều biết là nó không dễ chịu.",
+      "s": 13.73
+    },
+    {
+      "e": 25.68,
+      "en": "If you're suffering from heartburn now, you may find instant relief with an over-the-counter antacid, like Tums or Rolaids.",
+      "vi": "nếu bây giờ bạn đang bị ợ nóng, bạn có thể làm dịu ngay bằng một loại thuốc kháng axit mua không cần toa bác sĩ như là Tums hoặc Rolaids.",
+      "s": 18.57
+    },
+    {
+      "e": 29.23,
+      "en": "Anatacids work by neutralizing acid in the stomach,",
+      "vi": "Các loại thuốc kháng axit hoạt động bằng cách trung hòa axit trong dạ dày,",
+      "s": 25.68
+    },
+    {
+      "e": 34.77,
+      "en": "so that when the acid enters the esophagus, it will be weaker, and therefore, less painful.",
+      "vi": "để khi đi vào thực quản tính axit của nó sẽ giảm đi và nhờ đó bớt gây khó chịu.",
+      "s": 29.23
+    },
+    {
+      "e": 37.9,
+      "en": "Antacids work rapidly, but they don't last for long.",
+      "vi": "Các loại thuốc kháng axit tác động nhanh nhưng không kéo dài.",
+      "s": 34.77
+    },
+    {
+      "e": 43.37,
+      "en": "If you need to take antacids more than several times a month, or don't experience relief using them,",
+      "vi": "nếu bạn cần dùng thuốc kháng axit quá nhiều lần trong một tháng, hoặc không thuyên giảm khi sử dụng.",
+      "s": 37.9
+    },
+    {
+      "e": 49.84,
+      "en": "your doctor may recommend you try a different medication, such as histamine-2, or H2, blockers.",
+      "vi": "bác sĩ có thể đề nghị bạn dùng loại thuốc khác, như là các loại thuốc phong bế thụ thể histamine-2 hoặc H2",
+      "s": 43.37
+    },
+    {
+      "e": 54.01,
+      "en": "Histamine is a chemical in the body that stimulates acid secretion.",
+      "vi": "Histamine là một hóa chất trong cơ thể, nó kích thích sự tiết vị toan.",
+      "s": 49.84
+    },
+    {
+      "e": 60.55,
+      "en": "H2-blockers stop the histamine from binding to acid-secreting cells, thereby hindering acid production.",
+      "vi": "các loại thuốc phong bế thụ thể H2 ngăn chặn việc histamine gắn kết vào các tế bào tiết vị toan, nhằm ngăn chặn việc tạo ra vị toan.",
+      "s": 54.01
+    },
+    {
+      "e": 64.6,
+      "en": "Most H2-blockers are available over-the-counter in low doses,",
+      "vi": "Phần lớn các loại thuốc phong bế H2 có thể mua không cần toa bác sĩ ở liều thấp,",
+      "s": 60.55
+    },
+    {
+      "e": 68.25,
+      "en": "although some require a prescription for higher concentrations.",
+      "vi": "dù có một số chỉ được bán theo toa bác sĩ đối với nồng độ cao hơn.",
+      "s": 64.6
+    },
+    {
+      "e": 73.42,
+      "en": "H2-blockers, like Zantac and Axid, last longer than antacids,",
+      "vi": "Các loại thuốc phong bế thụ thể tế bào H2, như là Zantac và Axid, tác động lâu hơn các loại thuốc kháng axit,",
+      "s": 68.25
+    },
+    {
+      "e": 75.95,
+      "en": "but they also take longer to absorb into the body.",
+      "vi": "nhưng chúng cũng cần nhiều thời gian hơn để ngấm vào cơ thể.",
+      "s": 73.42
+    },
+    {
+      "e": 78.86,
+      "en": "Sometimes an hour is needed to feel the effects.",
+      "vi": "Ðôi khi cần đến 1 giờ để có thể cảm nhận được hiệu quả.",
+      "s": 75.95
+    },
+    {
+      "e": 85.42,
+      "en": "For this reason, you may want to try an OTC medication that combines an antacid and an H2-blocker,",
+      "vi": "Vì lý do này, bạn nên dùng thử loại thuốc mua không cần toa bác sĩ kết hợp thuốc kháng axit với thuốc phong bế H2",
+      "s": 78.86
+    },
+    {
+      "e": 89.68,
+      "en": "so you get the quick onset of action combined with sustained relief.",
+      "vi": "để có thể nhận được liều thuốc có tác động vừa nhanh vừa kéo dài.",
+      "s": 85.42
+    },
+    {
+      "e": 93.69,
+      "en": "If neither antacids nor H2-blockers ease your heartburn symptoms,",
+      "vi": "Nếu cả thuốc kháng axit lẫn thuốc phong bế H2 đều không làm dịu các triệu chứng ợ nóng,",
+      "s": 89.68
+    },
+    {
+      "e": 101.36,
+      "en": "your doctor may recommend prescription drugs called proton pump inhibitors, or PPIs, like Nexium and Prevacid.",
+      "vi": "bác sĩ có thể đề nghị dùng các loại thuốc bán theo toa được gọi là những loại thuốc ức chế bơm proton, hoặc các PPI, như là Nexium và Prevacid.",
+      "s": 93.69
+    },
+    {
+      "e": 106.15,
+      "en": "Acid is released from cells in the stomach by a mechanism known as a proton pump.",
+      "vi": "Vị toan được phóng thích từ các tế bào trong dạ dày bởi một cơ chế được gọi là bơm proton.",
+      "s": 101.36
+    },
+    {
+      "e": 111.64,
+      "en": "PPIs block the pump from releasing acid, effectively stopping heartburn before it starts.",
+      "vi": "Các PPI ngăn chặn việc cơ chế này phóng thích vị toan, chặn đứng một cách hiệu quả chứng ợ nóng trước khi nó bắt đầu.",
+      "s": 106.15
+    },
+    {
+      "e": 115.48,
+      "en": "Both H2-blockers and PPIs are preventative medications,",
+      "vi": "Cả thuốc phong bế H2 lẫn PPI đều là dược phẩm phòng ngừa,",
+      "s": 111.64
+    },
+    {
+      "e": 120.78,
+      "en": "meaning that they work best if taken about an hour before a big, or potentially problematic, meal.",
+      "vi": "nghĩa là chúng hoạt động tốt nhất nếu được dùng khoảng 1 giờ trước một bữa ăn thịnh soạn hoặc có tiềm năng gây rối loạn.",
+      "s": 115.48
+    },
+    {
+      "e": 127.86,
+      "en": "Sometimes, combining medications with lifestyle modifications can be so effective that heartburn doesn't return.",
+      "vi": "Ðôi khi việc kết hợp dược phẩm với những thay đổi trong cách sống có thể công hiệu đến mức không còn bị ợ nóng.",
+      "s": 120.78
+    },
+    {
+      "e": 139.55,
+      "en": "Avoiding foods that are known to cause heartburn, like chocolate, peppermint, spice, citrus products, tomato products, alcohol and caffeine,",
+      "vi": "Việc tránh những loại thức ăn đã được biết là nguyên nhân của ợ nóng, như là sô-cô-la, bạc hà, gia vị, các sản phẩm làm từ các loại cây họ cam quýt, cà chua, rượu và chất cafêin,",
+      "s": 127.86
+    },
+    {
+      "e": 142.45,
+      "en": "is the easiest way to prevent heartburn from occurring.",
+      "vi": "là cách dễ nhất để ngăn ngừa chứng ợ nóng.",
+      "s": 139.55
+    },
+    {
+      "e": 147.52,
+      "en": "In addition to avoiding problem foods, eating smaller meals may help to prevent the condition.",
+      "vi": "ngoài việc tránh những loại thức ăn có vấn đề. Việc ăn từng bữa nhỏ có thể giúp ngừa bệnh này.",
+      "s": 142.45
+    },
+    {
+      "e": 150.38,
+      "en": "Or, try using gravity to your advantage.",
+      "vi": "Hoặc thử lợi dụng trọng lực.",
+      "s": 147.52
+    },
+    {
+      "e": 157.37,
+      "en": "Avoid lying down for 3 hours after meals, as this prevents stomach contents from traveling backwards to your esophagus.",
+      "vi": "Hãy tránh nằm trong khoảng 3 giờ sau khi ăn, vì cách làm này ngăn ngừa việc thức ăn trong dạ dày trào lên thực quản.",
+      "s": 150.38
+    },
+    {
+      "e": 162.74,
+      "en": "If nighttime heartburn has you tossing and turning, you may benefit from propping your head up with a pillow.",
+      "vi": "Nếu chứng ợ nóng ban đêm khiến bạn mất ngủ, việc dùng một chiếc gối để nâng cao đầu có thể giúp ích cho bạn.",
+      "s": 157.37
+    },
+    {
+      "e": 165.64,
+      "en": "You can also try sleeping on your left side.",
+      "vi": "Bạn cũng có thể thử nằm nghiêng bên trái khi ngủ.",
+      "s": 162.74
+    },
+    {
+      "e": 168.62,
+      "en": "Your esophagus starts on the right side of your body,",
+      "vi": "Vì khe thực quản bắt đầu từ bên phải của cơ thể,",
+      "s": 165.64
+    },
+    {
+      "e": 173.54,
+      "en": "so this prevents food in your stomach from pressing on the opening and leading to reflux.",
+      "vi": "thế nên cách làm này ngăn ngừa việc thức ăn từ dạ dày tiến vào khe thực quản dẫn đến sự hồi lưu.",
+      "s": 168.62
+    },
+    {
+      "e": 179.38,
+      "en": "While heartburn is never welcome, a variety of lifestyle modifications can help you put out the fire.",
+      "vi": "Chứng ợ nóng là điều không mong muốn và có nhiều cách thay đổi lối sống khác nhau để giúp bạn ngăn ngừa.",
+      "s": 173.54
+    },
+    {
+      "e": 185.46,
+      "en": "And please: Remember to see your doctor if you have chronic heartburn or pain that resists treatment.",
+      "vi": "Và xin hãy gặp bác sĩ nếu bị ợ nóng hoặc đau mãn tính kháng điều trị.",
+      "s": 179.38
+    }
+  ]
+}

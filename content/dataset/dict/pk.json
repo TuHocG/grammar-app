@@ -1,1 +1,72 @@
-[{"h":"pk","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(tắt) của"},{"k":"ex","t":"Park","vi":"(công viên"},{"k":"m","t":"nhất là trên bản đồ)."}],"ipa":"pi: kei","k":"pk"},{"h":"pk.","segs":[{"k":"m","t":"Viết tắt của 1. pack"},{"k":"m","t":"2. online Pakistan (used in Internet addresses)"},{"k":"m","t":"3. park"},{"k":"m","t":"4. peak"},{"k":"m","t":"5. measurements peck"}],"k":"pk."},{"h":"pkg","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(tắt) của"},{"k":"ex","t":"package","vi":"(gói đồ, kiện hàng)."}],"ipa":",pi: kei 'dʒi:","k":"pkg"},{"h":"PKI","segs":[{"k":"m","t":"Viết tắt của e-commerce public key infrastructure"}],"k":"pki"},{"h":"pkt","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(tắt) của"},{"k":"ex","t":"packet","vi":"(gói nhỏ)"},{"k":"m","t":"1"},{"k":"ex","t":"pkt cigarettes","vi":"1 gói thuốc lá."}],"ipa":",pi: kei 'ti:","k":"pkt"},{"h":"pkt.","segs":[{"k":"m","t":"Viết tắt của packet"}],"k":"pkt."},{"h":"PKU","segs":[{"k":"m","t":"Viết tắt của med phenylketonuria"}],"k":"pku"},{"h":"PKUNZIP","segs":[{"k":"m","t":"chương trình mở nén tập tin của hãng PKWARE."}],"k":"pkunzip"},{"h":"Pky","segs":[{"k":"m","t":"hoặc pky hoặc Pkwy"},{"k":"m","t":"abbreviation"},{"k":"m","t":"parkway"}],"k":"pky"},{"h":"PKZIP","segs":[{"k":"m","t":"chương trình nén tập tin của hãng PKWARE."}],"k":"pkzip"}]
+[
+  {
+    "h": "pk",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(tắt) của"},
+      {"k": "ex", "t": "Park", "vi": "(công viên"},
+      {"k": "m", "t": "nhất là trên bản đồ)."}
+    ],
+    "ipa": "pi: kei",
+    "k": "pk"
+  },
+  {
+    "h": "pk.",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. pack"},
+      {"k": "m", "t": "2. online Pakistan (used in Internet addresses)"},
+      {"k": "m", "t": "3. park"},
+      {"k": "m", "t": "4. peak"},
+      {"k": "m", "t": "5. measurements peck"}
+    ],
+    "k": "pk."
+  },
+  {
+    "h": "pkg",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(tắt) của"},
+      {"k": "ex", "t": "package", "vi": "(gói đồ, kiện hàng)."}
+    ],
+    "ipa": ",pi: kei 'dʒi:",
+    "k": "pkg"
+  },
+  {
+    "h": "PKI",
+    "segs": [{"k": "m", "t": "Viết tắt của e-commerce public key infrastructure"}],
+    "k": "pki"
+  },
+  {
+    "h": "pkt",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(tắt) của"},
+      {"k": "ex", "t": "packet", "vi": "(gói nhỏ)"},
+      {"k": "m", "t": "1"},
+      {"k": "ex", "t": "pkt cigarettes", "vi": "1 gói thuốc lá."}
+    ],
+    "ipa": ",pi: kei 'ti:",
+    "k": "pkt"
+  },
+  {"h": "pkt.", "segs": [{"k": "m", "t": "Viết tắt của packet"}], "k": "pkt."},
+  {"h": "PKU", "segs": [{"k": "m", "t": "Viết tắt của med phenylketonuria"}], "k": "pku"},
+  {
+    "h": "PKUNZIP",
+    "segs": [{"k": "m", "t": "chương trình mở nén tập tin của hãng PKWARE."}],
+    "k": "pkunzip"
+  },
+  {
+    "h": "Pky",
+    "segs": [
+      {"k": "m", "t": "hoặc pky hoặc Pkwy"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "parkway"}
+    ],
+    "k": "pky"
+  },
+  {
+    "h": "PKZIP",
+    "segs": [{"k": "m", "t": "chương trình nén tập tin của hãng PKWARE."}],
+    "k": "pkzip"
+  }
+]

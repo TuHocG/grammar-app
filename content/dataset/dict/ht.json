@@ -1,1 +1,85 @@
-[{"h":"HT","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"high tension tình hình căng thẳng"}],"k":"ht"},{"h":"HT circuit","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"mạch thứ cấp"}],"k":"ht circuit"},{"h":"HT lead","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"dây phin (dây cao áp)"}],"k":"ht lead"},{"h":"HT power supply","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"nguồn cấp điện điện áp cao"},{"k":"m","t":"sự cấp điện điện áp cao"}],"k":"ht power supply"},{"h":"HTH","segs":[{"k":"m","t":"abbreviationonline (used in e-mails hoặc text messages)"},{"k":"m","t":"1. happy to help"},{"k":"m","t":"2. hope this helps"}],"k":"hth"},{"h":"HTLV","segs":[{"k":"m","t":"Viết tắt của human T-cell lymphotropic virus"}],"k":"htlv"},{"h":"HTLV-I","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"virus of lymphatic system: a virus associated with cancers of the lymphatic system. Full form human T-cell lymphotropic virus I"}],"k":"htlv-i"},{"h":"HTLV-II","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"leukemia virus: a virus associated with leukemia. Full form human T-cell lymphotropic virus II"}],"k":"htlv-ii"},{"h":"HTML","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(kỹ)(vt. của HyperText Markup Language) Ngôn ngữ Ðánh dấu Siêu văn bản."}],"k":"html"},{"h":"Hts.","segs":[{"k":"m","t":"Viết tắt của geography Heights"}],"k":"hts."},{"h":"HTTP","segs":[{"k":"m","t":"(Hypertext Transfer Protocol) giao thức truyền siêu văn bản."}],"k":"http"},{"h":"HTTP address","segs":[{"k":"m","t":"địa chỉ HTTP."}],"k":"http address"},{"h":"httpd (HTTP Daemon)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"httpd"}],"k":"httpd (http daemon)"}]
+[
+  {
+    "h": "HT",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "high tension tình hình căng thẳng"}
+    ],
+    "k": "ht"
+  },
+  {
+    "h": "HT circuit",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạch thứ cấp"}],
+    "k": "ht circuit"
+  },
+  {
+    "h": "HT lead",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "dây phin (dây cao áp)"}],
+    "k": "ht lead"
+  },
+  {
+    "h": "HT power supply",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "nguồn cấp điện điện áp cao"},
+      {"k": "m", "t": "sự cấp điện điện áp cao"}
+    ],
+    "k": "ht power supply"
+  },
+  {
+    "h": "HTH",
+    "segs": [
+      {"k": "m", "t": "abbreviationonline (used in e-mails hoặc text messages)"},
+      {"k": "m", "t": "1. happy to help"},
+      {"k": "m", "t": "2. hope this helps"}
+    ],
+    "k": "hth"
+  },
+  {
+    "h": "HTLV",
+    "segs": [{"k": "m", "t": "Viết tắt của human T-cell lymphotropic virus"}],
+    "k": "htlv"
+  },
+  {
+    "h": "HTLV-I",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "virus of lymphatic system: a virus associated with cancers of the lymphatic system. Full form human T-cell lymphotropic virus I"
+      }
+    ],
+    "k": "htlv-i"
+  },
+  {
+    "h": "HTLV-II",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "leukemia virus: a virus associated with leukemia. Full form human T-cell lymphotropic virus II"
+      }
+    ],
+    "k": "htlv-ii"
+  },
+  {
+    "h": "HTML",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(kỹ)(vt. của HyperText Markup Language) Ngôn ngữ Ðánh dấu Siêu văn bản."}
+    ],
+    "k": "html"
+  },
+  {"h": "Hts.", "segs": [{"k": "m", "t": "Viết tắt của geography Heights"}], "k": "hts."},
+  {
+    "h": "HTTP",
+    "segs": [{"k": "m", "t": "(Hypertext Transfer Protocol) giao thức truyền siêu văn bản."}],
+    "k": "http"
+  },
+  {"h": "HTTP address", "segs": [{"k": "m", "t": "địa chỉ HTTP."}], "k": "http address"},
+  {
+    "h": "httpd (HTTP Daemon)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "httpd"}],
+    "k": "httpd (http daemon)"
+  }
+]

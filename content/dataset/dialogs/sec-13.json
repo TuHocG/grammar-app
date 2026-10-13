@@ -1,1 +1,2151 @@
-[{"id":2361,"title":"Bài 1","pairs":[{"a":"Too many people.","b":"I like living here.","avi":"Ðông người quá.","bvi":"Tôi thích sống ở đây."},{"a":"I like living here.","b":"Pasadena is a nice city.","avi":"Tôi thích sống ở đây.","bvi":"Pasadena là một thành phố đẹp."},{"a":"Pasadena is a nice city.","b":"It's not too big.","avi":"Pasadena là một thành phố đẹp.","bvi":"Nó không quá lớn."},{"a":"It's not too big.","b":"And it's not too small.","avi":"Nó không quá lớn.","bvi":"Và nó cũng không quá nhỏ."}]},{"id":2362,"title":"Bài 2","pairs":[{"a":"The landscape here is very beautiful.","b":"It has great weather all year long.","avi":"Phong cảnh ở đây rất đẹp.","bvi":"Thời tiết tốt quanh năm."},{"a":"It has great weather all year long.","b":"It has beautiful houses.","avi":"Thời tiết tốt quanh năm.","bvi":"Có những ngôi nhà xinh xắn."},{"a":"It has beautiful houses.","b":"It has wonderful restaurants.","avi":"Có những ngôi nhà xinh xắn.","bvi":"Có những nhà hàng tuyệt vời."},{"a":"It has wonderful restaurants.","b":"It has great schools.","avi":"Có những nhà hàng tuyệt vời.","bvi":"Có những trường học danh tiếng."}]},{"id":2363,"title":"Bài 3","pairs":[{"a":"It has great schools.","b":"It's close to the mountains.","avi":"Có những trường học danh tiếng.","bvi":"Nó nằm gần các ngọn núi."},{"a":"I can't see anyone around.","b":"The people are friendly.","avi":"Tôi chẳng thấy ai quanh đây cả.","bvi":"Người ở đây rất thân thiện."},{"a":"Are you here for long?","b":"I'm not ever going to leave.","avi":"Bạn còn ở đây lâu không?","bvi":"Tôi không có ý định đi."},{"a":"When did that happen?","b":"That was a long time ago.","avi":"Chuyện xảy ra lâu chưa?","bvi":"Lâu lắm rồi."}]},{"id":2364,"title":"Bài 4","pairs":[{"a":"He wasn't very pleased about it.","b":"What did he say?","avi":"Anh ấy không hài lòng chuyện này.","bvi":"Anh ấy đã nói gì?"},{"a":"What did they say?","b":"They said they want change.","avi":"Họ nói gì?","bvi":"Họ nói rằng họ muốn thay đổi."},{"a":"What kind of requests do they have?","b":"They want tax cuts.","avi":"Họ có những yêu cầu gì?","bvi":"Họ muốn tiền thuế giảm xuống."},{"a":"Why do they want tax cuts?","b":"Because tax cuts will save them money.","avi":"Vì sao họ muốn tiền thuế giảm xuống?","bvi":"Bởi vì tiền thuế giảm sẽ giúp họ tiết kiệm tiền."}]},{"id":2365,"title":"Bài 5","pairs":[{"a":"They reported sighting the plane.","b":"Did you hear about the pilot?","avi":"Họ thông báo là có nhìn thấy chiếc máy bay.","bvi":"Bạn đã nghe câu chuyện về viên phi công chưa?"},{"a":"Did you hear about the pilot?","b":"Did they catch him?","avi":"Bạn đã nghe câu chuyện về viên phi công chưa?","bvi":"Họ đã bắt được anh ấy chưa?"},{"a":"Did they catch him?","b":"Poor guy.","avi":"Họ đã bắt được anh ấy chưa?","bvi":"Thật là một kẻ tội nghiệp."},{"a":"There comes a police officer.","b":"The police need our help finding a robber.","avi":"Một nhân viên cảnh sát đến rồi.","bvi":"Cảnh sát cần chúng ta giúp đỡ để tìm một kẻ cướp."}]},{"id":2366,"title":"Bài 6","pairs":[{"a":"The police need our help finding a robber.","b":"The TV news is reporting a bank robbery.","avi":"Cảnh sát cần chúng ta giúp đỡ để tìm một kẻ cướp.","bvi":"TV đang thông báo một vụ cướp ngân hàng."},{"a":"What did they say about me?","b":"They didn't say.","avi":"Họ đã nói gì về tôi?","bvi":"Họ không nói."},{"a":"The streets are swarming with pupils.","b":"Do you know what today is?","avi":"Ðường phố lũ lượt những học trò.","bvi":"Bạn có biết hôm nay là ngày gì không?"},{"a":"Do you know what today is?","b":"Yes, it's April 22.","avi":"Bạn có biết hôm nay là ngày gì không?","bvi":"Vâng, hôm nay là 22 tháng 4."}]},{"id":2367,"title":"Bài 7","pairs":[{"a":"Yes, it's April 22.","b":"Is it your birthday or anniversary?","avi":"Vâng, hôm nay là 22 tháng 4.","bvi":"Sinh nhật bạn hay lễ kỷ niệm gì à?"},{"a":"Is it your birthday or anniversary?","b":"No, it's Earth Day.","avi":"Sinh nhật bạn hay lễ kỷ niệm gì à?","bvi":"Không, đó là Ngày Trái Ðất."},{"a":"He brought a case before a civil court.","b":"They're all asking the same question.","avi":"Anh ta đã đưa một vụ việc ra tòa dân sự.","bvi":"Họ đang đặt ra cùng một câu hỏi."},{"a":"The road is in flood again.","b":"When are they going to fix this problem?","avi":"Ðường xá lại ngập nước.","bvi":"Khi nào thì họ sẽ khắc phục vấn đề này?"}]},{"id":2368,"title":"Bài 8","pairs":[{"a":"When are they going to fix this problem?","b":"They said they need more money.","avi":"Khi nào thì họ sẽ khắc phục vấn đề này?","bvi":"Họ bảo rằng họ cần nhiều tiền hơn."},{"a":"They said they need more money.","b":"They always need more money.","avi":"Họ bảo rằng họ cần nhiều tiền hơn.","bvi":"Họ luôn cần nhiều tiền hơn."},{"a":"I've live here for twenty years.","b":"This is a great neighborhood.","avi":"Tôi đã sống ở đây 20 năm.","bvi":"Quanh đây thật tuyệt."},{"a":"This is a great neighborhood.","b":"The people are friendly.","avi":"Quanh đây thật tuyệt.","bvi":"Người ở đây rất thân thiện."}]},{"id":2369,"title":"Bài 9","pairs":[{"a":"The people are friendly.","b":"The streets and sidewalks are clean.","avi":"Người ở đây rất thân thiện.","bvi":"Ðường sá và vỉa hè rất sạch."},{"a":"The streets and sidewalks are clean.","b":"There's a real nice park nearby.","avi":"Ðường sá và vỉa hè rất sạch.","bvi":"Có cả một công viên rất đẹp gần đó."},{"a":"There's a real nice park nearby.","b":"I feel safe here.","avi":"Có cả một công viên rất đẹp gần đó.","bvi":"Tôi cảm thấy an toàn ở đây."},{"a":"I feel safe here.","b":"There is no crime here.","avi":"Tôi cảm thấy an toàn ở đây.","bvi":"Ở đây không có tội phạm."}]},{"id":2370,"title":"Bài 10","pairs":[{"a":"He will arrive in half an hour.","b":"Was he smoking?","avi":"Ông ấy sẽ đến trong nửa tiếng nữa.","bvi":"Ông ấy có hút thuốc không?"},{"a":"Was he smoking?","b":"Yes, he was smoking a cigarette.","avi":"Ông ấy có hút thuốc không?","bvi":"Có, ông ấy đang hút một điếu thuốc."},{"a":"Do you know what's wrong with it?","b":"The battery was dead.","avi":"Bạn có biết nó bị làm sao không?","bvi":"Hết pin."},{"a":"The battery was dead.","b":"It happens all the time.","avi":"Hết pin.","bvi":"Ðiều đó vẫn thường xảy ra mà."}]},{"id":2371,"title":"Bài 11","pairs":[{"a":"Police arrest him.","b":"They say he has started fifteen big fires.","avi":"Anh ấy đã bị cảnh sát bắt.","bvi":"Họ nói rằng anh ta đã gây ra 15 trận hỏa hoạn lớn."},{"a":"He was sentenced to 15 years in prison.","b":"It' the law.","avi":"Anh ta bị kết án 15 năm tù.","bvi":"Ðó là luật."},{"a":"It' the law.","b":"This time they have charged him with murder.","avi":"Ðó là luật.","bvi":"Lần này họ đã buộc tội giết người cho anh ta."},{"a":"You can get what you want.","b":"I sure hope so.","avi":"Bạn sẽ được như ý.","bvi":"Tôi hy vọng là thế."}]},{"id":2372,"title":"Bài 12","pairs":[{"a":"This time they have charged him with murder.","b":"That would teach him a good lesson.","avi":"Lần này họ đã buộc tội giết người cho anh ta.","bvi":"Ðiều đó sẽ dạy cho anh ta một bài học nhớ đời."},{"a":"It was most likely junk mail.","b":"It isn't easy to see.","avi":"Rất có khả năng là thư rác.","bvi":"Nó không dễ nhìn thấy."},{"a":"Oh! It broke!","b":"Someone who slips could hurt their back.","avi":"Oh! Nó gãy rồi!","bvi":"Ai đó bị ngã có thể sẽ rất đau lưng đấy."},{"a":"Someone who slips could hurt their back.","b":"Here he comes now with the mop.","avi":"Ai đó bị ngã có thể sẽ rất đau lưng đấy.","bvi":"Nhân viên lau dọn mang giẻ lau sàn đến rồi."}]},{"id":2373,"title":"Bài 13","pairs":[{"a":"The bank closed at two o'clock.","b":"Why are they doing this?","avi":"Ngân hàng đã đóng cửa lúc hai giờ.","bvi":"Tại sao họ lại làm vậy?"},{"a":"I've got three days off next week.","b":"I was wondering if you'd like to go out.","avi":"Tuần tới tôi được nghỉ ba ngày.","bvi":"Tôi đang phân vân không biết là bạn có thích đi chơi không."},{"a":"They are living well in city.","b":"Meanwhile, people are hungry.","avi":"Họ đang sống sung túc ở thành phố.","bvi":"Trong khi người dân thì đói."},{"a":"Do people who live here like to travel?","b":"People who live in California are crazy.","avi":"Người dân ở đây có thích đi du lịch không?","bvi":"Mọi người sống ở California đều điên rồ."}]},{"id":2374,"title":"Bài 14","pairs":[{"a":"I will help you fight the fire.","b":"There are a lot of fires.","avi":"Tôi sẽ giúp anh dập tắt hỏa hoạn.","bvi":"Có rất nhiều trận hỏa hoạn."},{"a":"In case of fire, ring the alarm bell.","b":"A recent fire destroyed 85 homes.","avi":"Trong trường hợp có hỏa hoạn, hãy rung chuông báo động.","bvi":"Một trận hỏa hoạn gần đây đã thiêu hủy 85 ngôi nhà."},{"a":"How is the situation there?","b":"Florida doesn't have earthquakes or fires.","avi":"Tình hình ở đó như thế nào?","bvi":"Florida không có động đất hay hỏa hoạn."},{"a":"The TV person said it was a big storm.","b":"But most of those hurricanes are harmless.","avi":"Người xướng ngôn viên truyền hình nói nó là cơn bão lớn.","bvi":"Nhưng đa số những cơn bão ấy đều vô hại."}]},{"id":2375,"title":"Bài 15","pairs":[{"a":"All the people are fantastic.","b":"What do you like about it?","avi":"Tất cả mọi người ở đây tuyệt vời.","bvi":"Bạn thích điều gì ở đây?"},{"a":"It was a close election.","b":"Who did you vote for?","avi":"Ðây là cuộc bầu cử ngang tài ngang sức.","bvi":"Bạn bỏ phiếu cho ai?"},{"a":"Who did you vote for?","b":"I voted for Obama.","avi":"Bạn bỏ phiếu cho ai?","bvi":"Tôi bỏ phiếu cho Obama."},{"a":"Do you believe him?","b":"He will be a great president.","avi":"Bạn có tin ông ấy không?","bvi":"Ông ấy sẽ là vị tổng thống tuyệt vời."}]},{"id":2376,"title":"Bài 16","pairs":[{"a":"Do you like him?","b":"Everyone likes him.","avi":"Bạn có thích ông ấy không?","bvi":"Mọi người đều yêu mến ông ấy."},{"a":"What talents does he actually possess?","b":"He's a good speaker.","avi":"Thực sự ông ấy có tài năng gì?","bvi":"Ông ấy là một nhà hùng biện giỏi."},{"a":"He's a good speaker.","b":"And he's really smart.","avi":"Ông ấy là một nhà hùng biện giỏi.","bvi":"Và ông ấy rất thông minh."},{"a":"And he's really smart.","b":"He will solve our problems.","avi":"Và ông ấy rất thông minh.","bvi":"Ông ấy sẽ giải quyết được các vấn đề của chúng ta."}]},{"id":2377,"title":"Bài 17","pairs":[{"a":"He will solve our problems.","b":"He will end the war.","avi":"Ông ấy sẽ giải quyết được các vấn đề của chúng ta.","bvi":"Ông ấy sẽ chấm dứt chiến tranh."},{"a":"I stood for election.","b":"The election is next week.","avi":"Tôi ủng hộ cuộc bầu cử.","bvi":"Cuộc bầu cử sẽ diễn ra vào tuần tới."},{"a":"The election is next week.","b":"Who are you voting for?","avi":"Cuộc bầu cử sẽ diễn ra vào tuần tới.","bvi":"Bạn sẽ bỏ phiếu cho ai?"},{"a":"Who are you voting for?","b":"I'm not voting for the mayor.","avi":"Bạn sẽ bỏ phiếu cho ai?","bvi":"Tôi sẽ không bỏ phiếu cho ông thị trưởng."}]},{"id":2378,"title":"Bài 18","pairs":[{"a":"I'm not voting for the mayor.","b":"He made promises that he didn't keep.","avi":"Tôi sẽ không bỏ phiếu cho ông thị trưởng.","bvi":"ông ta không bao giờ giữ lời hứa."},{"a":"He made promises that he didn't keep.","b":"Maybe he had a good reason.","avi":"ông ta không bao giờ giữ lời hứa.","bvi":"Có lẽ ông ta có lý do hợp lý."},{"a":"Maybe he had a good reason.","b":"Maybe he's just a liar.","avi":"Có lẽ ông ta có lý do hợp lý.","bvi":"Có lẽ ông ta chỉ là kẻ dối trá."},{"a":"Maybe he's just a liar.","b":"Maybe I'll vote for someone else, too.","avi":"Có lẽ ông ta chỉ là kẻ dối trá.","bvi":"Cũng có lẽ tôi sẽ bỏ phiếu cho người khác."}]},{"id":2379,"title":"Bài 19","pairs":[{"a":"Maybe I'll vote for someone else, too.","b":"I can't believe he won the election.","avi":"Cũng có lẽ tôi sẽ bỏ phiếu cho người khác.","bvi":"Tôi không thể tin rằng ông ta đã giành chiến thắng trong cuộc bầu cử."},{"a":"At the last election, he abstained.","b":"Only 15 percent of the voters turned out.","avi":"Tại cuộc bầu cử vừa qua, anh ta đã bỏ phiếu trắng.","bvi":"Chỉ 15 phần trăm cử tri đã tham gia bỏ phiếu."},{"a":"Only 15 percent of the voters turned out.","b":"That is a joke.","avi":"Chỉ 15 phần trăm cử tri đã tham gia bỏ phiếu.","bvi":"Quả là chuyện đùa."},{"a":"He is elected by ballot.","b":"Many people think their vote doesn't matter.","avi":"Ông ấy được bầu bằng cách bỏ phiếu kín.","bvi":"Rất nhiều người nghĩ rằng lá phiếu của họ không quan trọng."}]},{"id":2380,"title":"Bài 20","pairs":[{"a":"Many people think their vote doesn't matter.","b":"Voting is so easy.","avi":"Rất nhiều người nghĩ rằng lá phiếu của họ không quan trọng.","bvi":"Quá trình bỏ phiếu quá dễ."},{"a":"Voting is so easy.","b":"How easy is that?","avi":"Quá trình bỏ phiếu quá dễ.","bvi":"Dễ đến mức đó sao?"},{"a":"How easy is that?","b":"I guess people just don't care.","avi":"Dễ đến mức đó sao?","bvi":"Tôi đoán là mọi người không thèm quan tâm."},{"a":"Everything ended so abruptly.","b":"Well, we have a new president.","avi":"Mọi thứ đã kết thúc quá đột ngột.","bvi":"Này, chúng ta có tổng thống mới rồi đấy."}]},{"id":2381,"title":"Bài 21","pairs":[{"a":"Well, we have a new president.","b":"But we have the same old problems.","avi":"Này, chúng ta có tổng thống mới rồi đấy.","bvi":"Nhưng chúng ta vẫn gặp những vấn đề cũ."},{"a":"So what else he does?","b":"He's made a few changes.","avi":"Vậy ông ấy còn làm được những gì?","bvi":"ông ấy đã thực hiện một số thay đổi."},{"a":"He's made a few changes.","b":"Who's paying for that?","avi":"ông ấy đã thực hiện một số thay đổi.","bvi":"Ai trả tiền cho việc đó?"},{"a":"He's the best man for president.","b":"People say that everybody loves Obama.","avi":"Ông ấy là người phù hợp nhất cho vị trí tổng thống.","bvi":"Người ta nói rằng mọi người đều yêu mến Obama."}]},{"id":2382,"title":"Bài 22","pairs":[{"a":"People say that everybody loves Obama.","b":"Obama's got four years to make everyone happy.","avi":"Người ta nói rằng mọi người đều yêu mến Obama.","bvi":"Obama đã có 4 năm để giúp mọi người hạnh phúc."},{"a":"He has promised relief funds.","b":"He's never going to make everyone happy.","avi":"Ông ấy đã cam kết cứu trợ.","bvi":"Ông ấy chưa bao giờ giúp ai hạnh phúc cả."},{"a":"He will be a great president.","b":"Can you imagine being President?","avi":"Ông ấy sẽ là vị tổng thống tuyệt vời.","bvi":"Bạn có thể tượng tượng việc trở thành Tổng Thống không?"},{"a":"Can you imagine being President?","b":"Everyone wants you to solve their problems.","avi":"Bạn có thể tượng tượng việc trở thành Tổng Thống không?","bvi":"Mọi người muốn bạn giải quyết vấn đề cho họ."}]},{"id":2383,"title":"Bài 23","pairs":[{"a":"Everyone wants you to solve their problems.","b":"I would never want to be President.","avi":"Mọi người muốn bạn giải quyết vấn đề cho họ.","bvi":"Tôi không bao giờ muốn trở thành Tổng Thống."},{"a":"I would never want to be President.","b":"But think about all the power you'd have.","avi":"Tôi không bao giờ muốn trở thành Tổng Thống.","bvi":"Nhưng hãy nghĩ đến tất cả những quyền lực mà bạn sẽ có."},{"a":"Look at this piece of news!","b":"What's happening in there?","avi":"Hãy xem bản tin này!","bvi":"Trong đó có gì vậy?"},{"a":"Did you read this article?","b":"What article?","avi":"Bạn đã đọc bản tin chưa?","bvi":"Bản tin nào?"}]},{"id":2384,"title":"Bài 24","pairs":[{"a":"It's a very small percentage.","b":"Only 11 percent?","avi":"Ðó là 1 tỷ lệ rất nhỏ đấy.","bvi":"Chỉ 11% thôi ư?"},{"a":"He has travelled everywhere.","b":"Where does he travel to?","avi":"Anh ta đi du lịch khắp nơi.","bvi":"Anh ấy đi đâu?"},{"a":"Where does he travel to?","b":"all over the world.","avi":"Ông ấy đi đâu?","bvi":"khắp thế giới."},{"a":"What is the purpose of his visit?","b":"He's visiting other cities to get ideas.","avi":"Mục đích chuyến thăm của ông ấy là gì?","bvi":"Ông ấy đến thăm các thành phố khác để tìm kiếm ý tưởng."}]},{"id":2385,"title":"Bài 25","pairs":[{"a":"The election was fixed.","b":"Who did you vote for for president?","avi":"Cuộc bầu cử đã bị dàn xếp rồi.","bvi":"Bạn đã bầu ai cho vị trí tổng thống?"},{"a":"Who did you vote for for president?","b":"I voted for Ralph Nader.","avi":"Bạn đã bầu ai cho vị trí tổng thống?","bvi":"Tôi đã bỏ phiếu cho Nader."},{"a":"I voted for Ralph Nader.","b":"Who in the world is Nader?","avi":"Tôi đã bỏ phiếu cho Nader.","bvi":"Nader là ai thế?"},{"a":"Who in the world is Nader?","b":"He's the best man for president.","avi":"Nader là ai thế?","bvi":"Ông ấy là người phù hợp nhất cho vị trí tổng thống."}]},{"id":2386,"title":"Bài 26","pairs":[{"a":"He's the best man for president.","b":"He hates corporations.","avi":"Ông ấy là người phù hợp nhất cho vị trí tổng thống.","bvi":"Ông ấy rất ghét các tập đoàn."},{"a":"He hates corporations.","b":"He's the only candidate that I trust.","avi":"Ông ấy rất ghét các tập đoàn.","bvi":"Ông ấy là ứng cử viên duy nhất mà tôi tin tưởng."},{"a":"He's the only candidate that I trust.","b":"But he didn't have a chance.","avi":"Ông ấy là ứng cử viên duy nhất mà tôi tin tưởng.","bvi":"Nhưng ông ấy không có cơ hội."},{"a":"But he didn't have a chance.","b":"Nobody voted for him!","avi":"Nhưng ông ấy không có cơ hội.","bvi":"Chẳng ai bỏ phiếu cho ông ấy cả!"}]},{"id":2387,"title":"Bài 27","pairs":[{"a":"Nobody voted for him!","b":"Sooner or later, voters will wake up.","avi":"Chẳng ai bỏ phiếu cho ông ấy cả!","bvi":"Không sớm thì muộn, các cử tri sẽ thức tỉnh."},{"a":"Sooner or later, voters will wake up.","b":"I don't know why I bother to vote.","avi":"Không sớm thì muộn, các cử tri sẽ thức tỉnh.","bvi":"Tôi không biết tại sao tôi lại đi bỏ phiếu nữa."},{"a":"I don't know why I bother to vote.","b":"What good does it do?","avi":"Tôi không biết tại sao tôi lại đi bỏ phiếu nữa.","bvi":"Nó có ích gì đâu?"},{"a":"What would it take to make you happy?","b":"Only if my candidate wins.","avi":"Thế nào thì anh mới hài lòng chứ?","bvi":"Chỉ khi ứng cử viên của tôi giành chiến thắng."}]},{"id":2388,"title":"Bài 28","pairs":[{"a":"Only if my candidate wins.","b":"That's true.","avi":"Chỉ khi ứng cử viên của tôi dành chiến thắng.","bvi":"Ðúng vậy."},{"a":"Politicians were all corrupt.","b":"They forget who put them in power.","avi":"Tất cả các chính trị gia đều tham nhũng.","bvi":"Họ quên ai đã đưa họ vào vị trí quyền lực."},{"a":"The deal stank of corruption.","b":"They forget where they came from.","avi":"Sự thỏa thuận này sặc mùi tham nhũng.","bvi":"Họ quên họ xuất thân từ đâu."},{"a":"We are determined to root out corruption.","b":"Maybe you should run for office.","avi":"Chúng ta quyết tâm diệt trừ tham nhũng đến tận gốc.","bvi":"Có lẽ bạn nên ứng cử cho một chức vụ nào đó."}]},{"id":2389,"title":"Bài 29","pairs":[{"a":"He cooked an election.","b":"There were more votes than voters!","avi":"Ông ta đã gian lận trong cuộc bầu cử.","bvi":"Có nhiều phiếu bầu hơn cử tri bỏ phiếu!"},{"a":"There were more votes than voters!","b":"But that's impossible.","avi":"Có nhiều phiếu bầu hơn cử tri bỏ phiếu!","bvi":"Nhưng điều đó là không thể."},{"a":"But that's impossible.","b":"Officials said that it's possible.","avi":"Nhưng điều đó là không thể.","bvi":"Các viên chức lại nói rằng điều đó hoàn toàn có thể."},{"a":"Officials said that it's possible.","b":"Did they explain how it's possible?","avi":"Các viên chức lại nói rằng điều đó hoàn toàn có thể.","bvi":"Họ có giải thích tại sao không?"}]},{"id":2390,"title":"Bài 30","pairs":[{"a":"Did they explain how it's possible?","b":"No. That will cost too much money.","avi":"Họ có giải thích tại sao không?","bvi":"Không. Việc đó sẽ tốn rất nhiều tiền."},{"a":"He won an election.","b":"He's got plenty of time now!","avi":"Ông ấy đã đắc cử.","bvi":"Giờ thì ông ấy có rất nhiều thời gian!"},{"a":"The vote is closer than I think.","b":"How are you going to vote?","avi":"Cuộc bầu cử đến nhanh hơn tôi nghĩ.","bvi":"Bạn sẽ bầu cử như thế nào?"},{"a":"How are you going to vote?","b":"Same as ever, by mail.","avi":"Bạn sẽ bầu cử như thế nào?","bvi":"Cũng như mọi khi, thông qua đường bưu điện."}]},{"id":2391,"title":"Bài 31","pairs":[{"a":"Any advertisement cannot be useless.","b":"Do you believe the TV ads?","avi":"Không có hình thức quảng cáo nào vô ích cả.","bvi":"Bạn tin vào chương trình quảng cáo trên TV sao?"},{"a":"The next time I will listen to him.","b":"Don't believe him!","avi":"Lần sau, tôi sẽ nghe theo anh ấy.","bvi":"Ðừng tin anh ta!"},{"a":"Life is hard.","b":"Let's not cry over spilled milk.","avi":"Cuộc sống thật khó khăn.","bvi":"Than thở cũng vô ích."},{"a":"I don't suppose they'll come do you?","b":"What a nuisance!","avi":"Tôi nghĩ là họ sẽ không đến, còn bạn?","bvi":"Thật là bực!"}]},{"id":2392,"title":"Bài 32","pairs":[{"a":"And I have a sore throat.","b":"How long has this been going on?","avi":"Và tôi bị viêm họng nữa.","bvi":"Bị thế này bao lâu rồi?"},{"a":"They play a trick on me!","b":"good grief!","avi":"Họ chơi xỏ tôi!","bvi":"Tức thật!"},{"a":"Get out here. Asshole. I got your friend.","b":"Damn!","avi":"Ra đây, thằng mất dạy. tao tóm được bạn mày rồi.","bvi":"Mẹ kiếp!"},{"a":"He has taken everything from you.","b":"I've had just about enough of.","avi":"Hắn đã lấy hết của bạn.","bvi":"Thế này là cùng."}]},{"id":2393,"title":"Bài 33","pairs":[{"a":"He got a 200 fine for speeding.","b":"What a stupid idiot!","avi":"Anh ấy bị phạt 200 vì lái xe quá tốc độ.","bvi":"Thật ngốc nghếch."},{"a":"People here sure complain a lot.","b":"Maybe there's something wrong with our society.","avi":"Người dân ở đây rõ ràng có nhiều điều bất mãn.","bvi":"Có lẽ xã hội của chúng ta có vấn đề."},{"a":"Maybe, I will bussiness something in future.","b":"It's a good way to make money.","avi":"Có thể sau này tôi sẽ kinh doanh một cái gì đó.","bvi":"Ðó là cách hay để kiếm tiền."},{"a":"She's not my Lan now.","b":"Absolutely.","avi":"Giờ thì cô ấy không còn là Lan của tôi nữa.","bvi":"Hoàn toàn chính xác."}]},{"id":2394,"title":"Bài 34","pairs":[{"a":"He was shocked to hear his child swearing.","b":"Children are too spoiled these days.","avi":"Anh ấy sửng sốt khi nghe con anh ấy chửi thề.","bvi":"Trẻ con ngày nay quá hư hỏng."},{"a":"Children are too spoiled these days.","b":"Yes, I believe so.","avi":"Trẻ con ngày nay quá hư hỏng.","bvi":"Vâng, tôi cũng nghĩ vậy."},{"a":"So what's the message?","b":"There'll be an earthquake tonight.","avi":"Thế thông báo là gì vậy?","bvi":"Tối nay sẽ có một trận động đất."},{"a":"You should apologize to her.","b":"Come off it!","avi":"Bạn nên xin lỗi cô ấy.","bvi":"Thôi đi!"}]},{"id":2395,"title":"Bài 35","pairs":[{"a":"You think that's a problem?","b":"They're always exaggerating things.","avi":"Bạn nghĩ là chuyện lớn lắm sao?","bvi":"Họ luôn cường điệu mọi thứ."},{"a":"It was hard work and a hard life.","b":"I am very optimistic about the economic situation.","avi":"Công việc và cuộc sống thật vất vả.","bvi":"Tôi rất lạc quan về tình hình kinh tế."},{"a":"I know it's coming next.","b":"There won't be another one.","avi":"Tôi biết nó sẽ tiếp tục mà.","bvi":"Sẽ không có chuyện đó nữa đâu."},{"a":"There won't be another one.","b":"How do you get the idea?","avi":"Sẽ không có chuyện đó nữa đâu.","bvi":"Sao bạn nghĩ vậy?"}]},{"id":2396,"title":"Bài 36","pairs":[{"a":"How do you get the idea?","b":"Our products have entered the would market!","avi":"Sao bạn nghĩ vậy?","bvi":"Sản phẩm của chúng ta đã thâm nhập vào thị trường thế giới."},{"a":"Our products have entered the would market!","b":"How wonderful!","avi":"Sản phẩm của chúng ta đã thâm nhập vào thị trường thế giới.","bvi":"Thật tuyệt!"},{"a":"No, not negotiable.","b":"Neither side will benefit from it then.","avi":"Không, không thương lượng.","bvi":"Vậy thì cả hai bên đều chẳng được lợi gì."},{"a":"Neither side will benefit from it then.","b":"We've got no other choice.","avi":"Vậy thì cả hai bên đều chẳng được lợi gì.","bvi":"Chúng tôi không còn sự lựa chọn nào khác."}]},{"id":2397,"title":"Bài 37","pairs":[{"a":"I bought some stock.","b":"You'd better not buy stocks these days.","avi":"Tôi đã mua một số cổ phiếu.","bvi":"Mấy ngày này tốt hơn bạn không nên mua cổ phiếu."},{"a":"You'd better not buy stocks these days.","b":"I think it's a good chance.","avi":"Mấy ngày này tốt hơn bạn không nên mua cổ phiếu.","bvi":"Tôi nghĩ đây là một cơ hội tốt."},{"a":"I think it's a good chance.","b":"No, I never listen to the gossip.","avi":"Tôi nghĩ đây là một cơ hội tốt.","bvi":"Không, tôi không bao giờ nghe những chuyện tầm phào."},{"a":"Air pollution is the first kind.","b":"Yeah, we're breathing poisonous air every day.","avi":"Ô nhiễm không khí là vấn đề trước tiên.","bvi":"Vâng, chúng ta đang hít thở không khí bị nhiễm độc mỗi ngày."}]},{"id":2398,"title":"Bài 38","pairs":[{"a":"Nothing is impossible to a willing heart.","b":"I absolutely agree with you.","avi":"Không có gì là không thể với ý chí mạnh mẽ.","bvi":"Tôi hoàn toàn đồng ý với bạn."},{"a":"That's a good chance!","b":"The new policy offers new opportunities.","avi":"Ðó là một cơ hội tốt!","bvi":"Chính sách mới đã tạo ra những cơ hội mới."},{"a":"My money is all invested here.","b":"Too risky anyway.","avi":"Toàn bộ tiền của tôi đã được đầu tư vào đây.","bvi":"Dù sao cũng quá mạo hiểm."},{"a":"But where would it all lead?","b":"It's necessary to look before you leap.","avi":"Nhưng việc này sẽ đi đến đâu?","bvi":"Cần phải cân nhắc cẩn thận trước khi hành động."}]},{"id":2399,"title":"Bài 39","pairs":[{"a":"I wouldn't be much of a partner if I didn't.","b":"Who do you mainly trade with?","avi":"Tôi sẽ không có nhiều đối tác nếu tôi không làm thế.","bvi":"Bạn kinh doanh chủ yếu với ai?"},{"a":"Who do you mainly trade with?","b":"We mainly trade with Japanese firms.","avi":"Bạn kinh doanh chủ yếu với ai?","bvi":"Chúng tôi kinh doanh chủ yếu với các công ty Nhật."},{"a":"We mainly trade with Japanese firms.","b":"What do you handle?","avi":"Chúng tôi kinh doanh chủ yếu với các công ty Nhật.","bvi":"Bạn kinh doanh hàng hóa gì?"},{"a":"What do you handle?","b":"Our company mainly trades in arts and crafts.","avi":"Bạn kinh doanh hàng hóa gì?","bvi":"Công ty của chúng tôi kinh doanh chính về đồ mỹ nghệ và thủ công."}]},{"id":2400,"title":"Bài 40","pairs":[{"a":"Our company mainly trades in arts and crafts.","b":"Can we do a barter trade?","avi":"Công ty của chúng tôi kinh doanh chính về đồ mỹ nghệ và thủ công.","bvi":"Chúng ta có thể trao đổi hàng hóa không?"},{"a":"Can we do a barter trade?","b":"That's fine.","avi":"Chúng ta có thể trao đổi hàng hóa không?","bvi":"Tốt rồi."},{"a":"I'm watching the market.","b":"How is the market this morning?","avi":"Tôi đang theo dõi thị trường.","bvi":"Sáng nay thị trường thế nào?"},{"a":"We will do our utmost in this market.","b":"Are you speculating on margin?","avi":"Chúng tôi sẽ làm hết sức mình với thị trường này.","bvi":"Bạn đang đầu cơ tích trữ à?"}]},{"id":2401,"title":"Bài 41","pairs":[{"a":"There is a blip on the stock market.","b":"The market was strong yesterday.","avi":"Có một biến động nhỏ trên thị trường chứng khoán.","bvi":"Hôm qua giá cả thị trường tăng cao."},{"a":"The market was strong yesterday.","b":"He advised to buy an margin.","avi":"Hôm qua giá cả thị trường tăng cao.","bvi":"Anh ta khuyên tôi mua tích trữ."},{"a":"He advised to buy an margin.","b":"Then, you'll be a bull.","avi":"Anh ta khuyên tôi mua tích trữ.","bvi":"Vậy, bạn sẽ là người đầu cơ nâng giá."},{"a":"He speculated on the stock market.","b":"The broker demands more margin.","avi":"Ông ta đầu cơ vào thị trường chứng khoán.","bvi":"Người môi giới yêu cầu đầu tư hơn nữa."}]},{"id":2402,"title":"Bài 42","pairs":[{"a":"What do you think of that firm?","b":"That company is doing well.","avi":"Bạn thấy công ty đó thế nào?","bvi":"Công ty đó đang làm tốt."},{"a":"The broker demands more margin.","b":"They are losing money.","avi":"Người môi giới yêu cầu đầu tư hơn nữa.","bvi":"Họ đang mất tiền."},{"a":"I want to buy some more.","b":"It's a good buy.","avi":"Tôi còn muốn mua thêm nữa.","bvi":"Nó là một món hời."},{"a":"House is one of real estates.","b":"Get involved in property exchange.","avi":"Nhà là loại bất động sản.","bvi":"Hãy tham gia vào thị trường bất động sản."}]},{"id":2403,"title":"Bài 43","pairs":[{"a":"I am a minor shareholder.","b":"They have declared a dividend.","avi":"Tôi là một cổ đông nhỏ.","bvi":"Họ đã tuyên bố chia lãi cổ phần."},{"a":"Have you any foreign currency?","b":"What's the par value?","avi":"Ông có ngoại tệ không?","bvi":"Tỷ giá là bao nhiêu."},{"a":"Pay what?","b":"It's fully paid up.","avi":"Trả cái gì?","bvi":"Trả trọn gói."},{"a":"He fell behind with his work.","b":"Business is slowing down.","avi":"Anh ấy không làm hết nổi công việc.","bvi":"Công việc đang chậm lại."}]},{"id":2404,"title":"Bài 44","pairs":[{"a":"Are we in agreement about the price?","b":"Prices are shooting up.","avi":"Chúng ta có thống nhất với nhau về giá cả hay không?","bvi":"Giá cả đang tăng vọt."},{"a":"How is the market this morning?","b":"The market is steady.","avi":"Sáng nay thị trường thế nào?","bvi":"Thị trường ổn định."},{"a":"Don't lose a sale because of price!","b":"Prices are sagging.","avi":"Ðừng để không bán được hàng vì giá cả!","bvi":"Giá cả đang xuống."},{"a":"It's the price that bothers us.","b":"Prices are steady.","avi":"Ðiều chúng ta lo lắng là giá cả.","bvi":"Giá cả đang ổn định."}]},{"id":2405,"title":"Bài 45","pairs":[{"a":"Business has taken a turn for the better.","b":"The market is booming.","avi":"Công việc kinh doanh đã có chiều hướng tốt lên.","bvi":"Thị trường đang tăng vọt."},{"a":"How does the situation appear to you?","b":"Things are quiet.","avi":"Bạn thấy tình hình thế nào?","bvi":"Tình hình yên ắng."},{"a":"Maybe the milk was on sale, too.","b":"The prices were marked down.","avi":"Có lẽ sữa cũng đang giảm giá.","bvi":"Giá cả bị hạ."},{"a":"I used to be a policeman.","b":"The police prevent and detect crime.","avi":"Tôi từng là một cảnh sát.","bvi":"Cảnh sát ngăn chặn và phát hiện tội phạm."}]},{"id":2406,"title":"Bài 46","pairs":[{"a":"I understand why you don't want me to know.","b":"You are convicted of crimes against humanity.","avi":"Tôi hiểu vì sao anh không muốn tôi biết.","bvi":"Bạn bị cáo buộc tội ác vô nhân đạo."},{"a":"He was sentenced to 5 years in prison.","b":"He took to a life of crime.","avi":"Anh ta bị kết án 5 năm tù.","bvi":"Anh ta đã lao vào con đường tội lỗi."},{"a":"The police say they killed a man.","b":"These criminals must be punished for their crimes.","avi":"Cảnh sát nói là họ đã giết một người.","bvi":"Những tên tội phạm này phải bị trừng trị vì những tội ác của chúng."},{"a":"I'm innocent!","b":"You are guilty of wrong doing.","avi":"Tôi vô tội!","bvi":"Bạn có tội vì làm sai trái."}]},{"id":2407,"title":"Bài 47","pairs":[{"a":"He is under sentence of death.","b":"He committed suicide a blunder.","avi":"Anh ta bị kết án tử hình.","bvi":"Anh ta đã phạm tội giết người."},{"a":"He committed suicide a blunder.","b":"Police are searching for the culprits.","avi":"Anh ta đã phạm tội giết người.","bvi":"Cảnh sát đang truy lùng thủ phạm."},{"a":"Police are searching for the culprits.","b":"The prisoner was brought to court for trial.","avi":"Cảnh sát đang truy lùng thủ phạm.","bvi":"Tù nhân được giải ra trước tòa xét xử."},{"a":"It could help you win or lose a case.","b":"This case was settled out of court.","avi":"Việc này có thể giúp cho bạn thắng hay thua một vụ kiện.","bvi":"Vụ kiện này được giải quyết mà không cần đưa ra tòa xử."}]},{"id":2408,"title":"Bài 48","pairs":[{"a":"What am I supposed to say?","b":"Please tell the court all you know.","avi":"Vậy thì tôi phải nói gì đây?","bvi":"Xin hãy nói trước tòa tất cả những gì mà bạn biết."},{"a":"Please tell the court all you know.","b":"He is a gangster.","avi":"Xin hãy nói trước tòa tất cả những gì mà bạn biết.","bvi":"Anh ấy là một thành viên trong băng tội phạm có vũ trang."},{"a":"He behaves everyone in a hooliganism way.","b":"Don't count him among hooligans!","avi":"Anh ta đối xử với mọi người với thái độ côn đồ.","bvi":"Ðừng liệt anh ta vào hạng côn đồ!"},{"a":"The robber swooped up her hand-bag.","b":"Do you remember the gangster's car number?","avi":"Tên cướp giật lấy cái túi xách tay của cô ta.","bvi":"Anh có nhớ số xe của tên cướp đó không?"}]},{"id":2409,"title":"Bài 49","pairs":[{"a":"They are going to the court.","b":"They need the services of a good lawyer.","avi":"Họ sẽ ra tòa.","bvi":"Họ cần sự giúp đỡ của một luật sư giỏi."},{"a":"Your house was broken into last week.","b":"We were burgled while we were on holiday.","avi":"Tuần rồi nhà bạn đã bị trộm đến viếng.","bvi":"Chúng tôi bị trộm viếng nhà vào lúc đi nghỉ mát."},{"a":"What happened last night?","b":"Burglar had broken in our house.","avi":"Ðã xảy ra chuyện gì đêm qua?","bvi":"Những tên trộm đã đột nhập vào nhà chúng tôi."},{"a":"The shoplifting is out of hand.","b":"His house was broken into last week.","avi":"Nạn trộm cắp ngoài tầm kiểm soát rồi.","bvi":"Tuần rồi nhà anh ấy đã bị trộm đến viếng."}]},{"id":2410,"title":"Bài 50","pairs":[{"a":"His house was broken into last week.","b":"He broke out in a cold sweat.","avi":"Tuần rồi nhà anh ấy đã bị trộm đến viếng.","bvi":"Anh ta sợ đến toát mồ hôi lạnh."},{"a":"They're beginning to suspect him.","b":"He's a thief.","avi":"Họ đã bắt đầu nghi ngờ anh ấy.","bvi":"Anh ấy là tên ăn cắp."},{"a":"Bribery is a vile practice.","b":"Some people are calling it a daylight robbery.","avi":"Ăn hối lộ là một thói đồi bại.","bvi":"Có người gọi đó là hành động ăn cướp giữa ban ngày."},{"a":"He is a shoplifter.","b":"Has he ever been convicted of a felony?","avi":"Hắn là kẻ ăn cắp trong siêu thị.","bvi":"Hắn đã từng bị kết án trọng tội chưa?"}]},{"id":2411,"title":"Bài 51","pairs":[{"a":"He seems at little nervous.","b":"He's a pickpocket.","avi":"Hắn có vẻ hơi hồi hộp.","bvi":"Hắn là một tên móc túi."},{"a":"Do you know anyone who has been mugged?","b":"It's professor Tan.","avi":"Bạn có biết ai đã từng bị trấn lột không?","bvi":"Ðó là giáo sư Tân."},{"a":"She dressed a child up as a pirate.","b":"She knew he didn't like it.","avi":"Bà ta cho một đứa bé ăn mặc như hải tặc.","bvi":"Bà ấy biết rằng nó không thích như vậy."},{"a":"The planet stooged about.","b":"The hijackers set the hostages free.","avi":"Chiếc máy bay đã bay quanh chờ hạ cánh.","bvi":"Bọn không tặc trả tự do cho những con tin."}]},{"id":2412,"title":"Bài 52","pairs":[{"a":"You got anything on these gold store robberies?","b":"The gold store was mugged in broad daylight.","avi":"Có bất cứ thông tin gì về vụ cướp tiệm vàng chưa?","bvi":"Tiệm vàng bị cướp giữa ban ngày."},{"a":"Were you held up by bandits?","b":"The hooligans robbed us of all our money.","avi":"Bạn bị cướp tấn công à?","bvi":"Bọn du côn cướp hết tiền của chúng tôi."},{"a":"Do you know about Jack getting arrested?","b":"He was nabbed by the police for robbing.","avi":"Anh có biết việc Jack bị bắt không?","bvi":"Anh ta bị cảnh sát bắt quả tang ăn cướp."},{"a":"Did you hear from them?","b":"Two businessmen have been kidnapped by terrorists.","avi":"Rồi bạn có nhận được tin gì từ họ không?","bvi":"Hai nhà doanh nghiệp đã bị bọn khủng bố bắt cóc."}]},{"id":2413,"title":"Bài 53","pairs":[{"a":"Two businessmen have been kidnapped by terrorists.","b":"They are the professional assassins.","avi":"Hai nhà doanh nghiệp đã bị bọn khủng bố bắt cóc.","bvi":"Bọn chúng là những tay giết mướn chuyên nghiệp."},{"a":"He was caught in the act.","b":"Has he been found guilty?","avi":"Anh ta bị bắt quả tang.","bvi":"Có đúng anh ta là tội phạm không?"},{"a":"Has he been found guilty?","b":"He was charged with receiving stolen goods.","avi":"Có đúng anh ta là tội phạm không?","bvi":"Anh ấy bị buộc tội vì nhận đồ ăn cắp."},{"a":"All of them are as silent as the dead.","b":"The bandits divided their loot.","avi":"Tất cả bọn chúng đều câm như hến.","bvi":"Bọn chúng chia nhau tài sản cướp được."}]},{"id":2414,"title":"Bài 54","pairs":[{"a":"The bandits divided their loot.","b":"The mob looted many shops in the area.","avi":"Bọn chúng chia nhau tài sản cướp được.","bvi":"Bọn côn đồ cướp phá nhiều cửa tiệm trong vùng."},{"a":"The mob looted many shops in the area.","b":"They will be shot on sight.","avi":"Bọn côn đồ cướp phá nhiều cửa tiệm trong vùng.","bvi":"Bọn chúng sẽ bị bắn ngay khi cảnh sát phát hiện."},{"a":"He, who was innocent, was found guilty.","b":"He was sentenced to five years hard labour.","avi":"Anh ấy là người vô tội, lại bị kết án.","bvi":"Anh ấy bị kết án 5 năm tù khổ sai."},{"a":"I don't know where she is now.","b":"I'm worrying that she may be lost.","avi":"Tôi không biết hiện giờ cô ấy ở đâu.","bvi":"Tôi đang lo là cô ấy bị lạc."}]},{"id":2415,"title":"Bài 55","pairs":[{"a":"I'm worrying that she may be lost.","b":"She could be sick.","avi":"Tôi đang lo là cô ấy bị lạc.","bvi":"Có thể là cô ấy bị bệnh rồi."},{"a":"She could be sick.","b":"She was held in custody pending trial.","avi":"Có thể là cô ấy bị bệnh rồi.","bvi":"Cô ấy bị tống giam để chờ xét xử."},{"a":"I forgot to show you the new pricing chart.","b":"Will you please quote for the following items.","avi":"Tôi quên cho anh xem bảng giá mới.","bvi":"Xin bạn vui lòng báo giá về những món hàng sau đây."},{"a":"Will you please quote for the following items.","b":"We don't do business with foreign companies.","avi":"Xin bạn vui lòng báo giá về những món hàng sau đây.","bvi":"Chúng tôi không kinh doanh với công ty nước ngoài."}]},{"id":2416,"title":"Bài 56","pairs":[{"a":"I would like to see what you have.","b":"We are in the oil business.","avi":"Tôi muốn xem các mặt hàng mà bạn có.","bvi":"Chúng tôi kinh doanh xăng dầu."},{"a":"Is he the boss?","b":"He runs a thriving grocery business.","avi":"Ông ấy là chủ à?","bvi":"Ông ấy quản lý một cửa hàng tạp hóa rất phát đạt."},{"a":"Why is the bond market freaking out?","b":"The supply does not answer the demand.","avi":"Tại sao thị trường trái phiếu đang phản ứng tiêu cực?","bvi":"Cung không đủ cầu."},{"a":"I haven't made a sale all week.","b":"There is no demand for these articles.","avi":"Cả tuần tôi không bán được cái gì.","bvi":"Những loại hàng này không có nhu cầu."}]},{"id":2417,"title":"Bài 57","pairs":[{"a":"The population here must be thin.","b":"This city is really comfortable to live in.","avi":"Dân cư ở đây hẳn là thưa thớt.","bvi":"Thành phố này thật dễ sống."},{"a":"This city is really comfortable to live in.","b":"No other city can match it.","avi":"Thành phố này thật dễ sống.","bvi":"Không thành phố nào sánh được với nó."},{"a":"No other city can match it.","b":"It's heaven!","avi":"Không thành phố nào sánh được với nó.","bvi":"Cứ như là thiên đường."},{"a":"Children like drink powdered milk.","b":"Powdered milk is imported to Vietnam.","avi":"Bọn trẻ thích uống sữa bột.","bvi":"Sữa bột được nhập khẩu vào Việt Nam."}]},{"id":2418,"title":"Bài 58","pairs":[{"a":"Powdered milk is imported to Vietnam.","b":"Imports are rising.","avi":"Sữa bột được nhập khẩu vào Việt Nam.","bvi":"Nhập khẩu đang tăng."},{"a":"Imports are rising.","b":"Export are falling.","avi":"Nhập khẩu đang tăng.","bvi":"Xuất khẩu đang giảm."},{"a":"Inflation has reached record levels.","b":"Prices are rising.","avi":"Sự lạm phát đã đạt mức kỷ lục.","bvi":"Giá cả đang tăng."},{"a":"Smuggling is already rife.","b":"Prices are falling.","avi":"Nạn buôn lậu hiện đang tràn lan.","bvi":"Giá cả đang giảm."}]},{"id":2419,"title":"Bài 59","pairs":[{"a":"The government issued some laws.","b":"The price level is steady.","avi":"Chính phủ đã ban hành một số luật.","bvi":"Mức giá được ổn định."},{"a":"The price level is steady.","b":"Business is good.","avi":"Mức giá được ổn định.","bvi":"Làm ăn tốt."},{"a":"People say that he is a lady-killer.","b":"He is a bigamist.","avi":"Người ta nói rằng anh ấy là một người đào hoa.","bvi":"Anh ta phạm tội song hôn."},{"a":"He is a bigamist.","b":"Women prefer monogamy.","avi":"Anh ta phạm tội song hôn.","bvi":"Phụ nữ thích một vợ, một chồng."}]},{"id":2420,"title":"Bài 60","pairs":[{"a":"Women prefer monogamy.","b":"Men prefer polygamy.","avi":"Phụ nữ thích một vợ, một chồng.","bvi":"Ðàn ông thích nhiều vợ."},{"a":"Men prefer polygamy.","b":"Divorce is on the increase.","avi":"Ðàn ông thích nhiều vợ.","bvi":"Tình trạng ly hôn đang gia tăng."},{"a":"It's a trick, understand?","b":"The police arrested him and his two accomplices.","avi":"Ðó là trò lừa đảo, hiểu không?","bvi":"Cảnh sát đã bắt giam anh ta và hai tòng phạm."},{"a":"He was acquitted of his crime.","b":"The jury acquitted him of murder.","avi":"Anh ta được tha bổng.","bvi":"Quan tòa tha bổng anh ta khỏi tội sát nhân."}]},{"id":2421,"title":"Bài 61","pairs":[{"a":"The jury acquitted him of murder.","b":"Lack of evidence resulted in his acquittal.","avi":"Quan tòa tha bổng anh ta khỏi tội sát nhân.","bvi":"Vì thiếu chứng cớ nên anh ta được tha bổng."},{"a":"I'm curious to know what she said.","b":"She admonished us to seek professional help.","avi":"Tôi tò mò muốn biết bà ấy đã nói gì.","bvi":"Bà ấy khuyên chúng tôi nên tìm sự giúp đỡ về chuyên môn."},{"a":"Which side would they choose?","b":"I can't guess which one can be chosen.","avi":"Họ sẽ chọn cái nào?","bvi":"Tôi không đoán được cái nào sẽ được chọn."},{"a":"I don't like this.","b":"But you have to admit, it's working.","avi":"Tôi không thích cái này.","bvi":"Nhưng bạn phải thừa nhận, nó hiệu quả mà."}]},{"id":2422,"title":"Bài 62","pairs":[{"a":"He is always a hot-tempered man.","b":"He's rude and he yells a lot.","avi":"Ông ấy luôn là người nóng tính.","bvi":"Ông ta rất thô lỗ và thường xuyên la hét."},{"a":"There is no crime here.","b":"Police patrol the streets at night.","avi":"Ở đây không có tội phạm.","bvi":"Cảnh sát đi tuần tra thành phố vào ban đêm."},{"a":"I am kicking the tires on a couple deals.","b":"How's your new job working out?","avi":"Tôi đang có nhiều dự án.","bvi":"Công việc mới tiến hành thế nào?"},{"a":"Where did she go?","b":"Maria went to a restaurant.","avi":"Cô ấy đi đâu rồi?","bvi":"Maria đi đến nhà hàng."}]},{"id":2423,"title":"Bài 63","pairs":[{"a":"Her act of bravery merits mention in dispatches.","b":"She is awarded a medal for bravery.","avi":"Hành động can đảm của bà ấy đáng được tuyên dương.","bvi":"Bà ấy được tặng một huân chương vì lòng dũng cảm."},{"a":"She is really talented.","b":"She was a famous actress.","avi":"Cô ấy tài giỏi thật đấy.","bvi":"Cô ấy đã là một diễn viên nổi tiếng."},{"a":"I will travel to Can Tho.","b":"Da Lat is better know than Can Tho.","avi":"Tôi sẽ đi du lịch đến Cần thơ.","bvi":"Ðà Lạt nổi tiếng hơn Cần Thơ."},{"a":"Lazy children usually played truant.","b":"Children would rather play than study.","avi":"Bọn trẻ lười biếng thường hay trốn học.","bvi":"Trẻ em thích chơi hơn học."}]},{"id":2424,"title":"Bài 64","pairs":[{"a":"Are you going to college?","b":"How do you feel about Cambridge?","avi":"Bạn có định vào đại học không?","bvi":"Bạn cảm nghĩ thế nào về Cambridge?"},{"a":"I always drink with friend.","b":"Can I offer you a drink?","avi":"Tôi luôn luôn uống rượu với bạn bè.","bvi":"Tôi có thể đề nghị với bạn một thức uống được không?"},{"a":"I always have coffee in the morning.","b":"You ever get that?","avi":"Tôi luôn uống cà phê vào buổi sáng.","bvi":"Anh đã từng uống thứ này bao giờ chưa?"},{"a":"This place looks like it has been through a war.","b":"They elected a new president.","avi":"Nơi này trông như vừa trải qua một cuộc chiến tranh vậy.","bvi":"Họ đã bầu chọn một tổng thống mới."}]},{"id":2425,"title":"Bài 65","pairs":[{"a":"Why do we need to save money?","b":"The times are bad.","avi":"Tại sao chúng ta cần tiết kiệm tiền?","bvi":"Thời buổi làm ăn khó khăn."},{"a":"I wanted to cry for help.","b":"You just need to point to it.","avi":"Tôi muốn kêu cứu.","bvi":"Bạn chỉ cần chỉ vào nó thôi."},{"a":"Don't panic!","b":"I've been robbed!","avi":"Ðừng hốt hoảng!","bvi":"Tôi bị cướp!"},{"a":"What have you done to your face?","b":"Help me!","avi":"Mặt của bạn làm sao vậy?","bvi":"Cứu tôi!"}]},{"id":2426,"title":"Bài 66","pairs":[{"a":"Who is that guy?","b":"Stop that thief!","avi":"Gã đó là ai vậy?","bvi":"Bắt tên trộm!"},{"a":"Stop that thief!","b":"Don't let that man get away!","avi":"Bắt tên trộm!","bvi":"Ðừng để tên đó chạy thoát!"},{"a":"Did he tell you that he was the thief?","b":"He stole my wallet!","avi":"Hắn có thừa nhận hắn là tên trộm không?","bvi":"Hắn ăn cắp ví tiền của tôi!"},{"a":"Do you know where his family is now?","b":"The slum area.","avi":"Bạn có biết hiện tại gia đình anh ta sống ở đâu không?","bvi":"Khu nhà ổ chuột."}]},{"id":2427,"title":"Bài 67","pairs":[{"a":"How did you get these?","b":"We have both.","avi":"Làm sao anh có những thứ này?","bvi":"Chúng tôi có cả hai thứ."},{"a":"Do you read newspapers everyday?","b":"A liar is not believed when he speaks the truth.","avi":"Bạn đọc báo hằng ngày chứ?","bvi":"Kẻ nói dối cho dù nói ra sự thật thì cũng chẳng ai tin."},{"a":"I often read newspapers to sleep easily.","b":"Which are the best papers?","avi":"Tôi thường đọc báo để có thể dễ ngủ.","bvi":"Những tờ báo nào hay nhất?"},{"a":"He turned a deaf ear to the rumors.","b":"I read about him in the paper this week.","avi":"Ông ấy phớt lờ đi các tin đồn.","bvi":"Tôi đã đọc về ông ấy trong báo tuần này."}]},{"id":2428,"title":"Bài 68","pairs":[{"a":"It is a party paper.","b":"Who writes the political column?","avi":"Nó là tờ báo đảng.","bvi":"Ai viết mục chính trị?"},{"a":"There'll be some sport reviews on TV.","b":"Which game do you play?","avi":"Sẽ có một số tin thể thao chiếu trên Tivi.","bvi":"Bạn chơi môn thể thao nào?"},{"a":"You shouldn't read gutter press.","b":"Can I borrow your papers?","avi":"Bạn không nên đọc báo lá cải.","bvi":"Tôi có thể mượn tờ báo của bạn không?"},{"a":"Don't believe the newspaper account.","b":"Which is the most impartial paper?","avi":"Ðừng tin những gì báo chí đã thuật lại.","bvi":"Báo nào được cho là trung thực nhất?"}]},{"id":2429,"title":"Bài 69","pairs":[{"a":"They try to arrest the criminals.","b":"Which of them gives oftenest news from criminal?","avi":"Họ cố gắng bắt những tên tội phạm.","bvi":"Báo nào thường đăng tin về tội phạm nhất?"},{"a":"She looked in the newspaper every day.","b":"No one else will believe her.","avi":"Cô ấy xem báo mỗi ngày.","bvi":"Sẽ chẳng ai tin cô ấy."},{"a":"How much altogether?","b":"Twenty five thousand dong, madam.","avi":"Bao nhiêu tất cả?","bvi":"Thưa bà, hai mươi lăm nghìn đồng ạ."},{"a":"Twenty five thousand dong, madam.","b":"Please wrap them all up together.","avi":"Thưa bà, hai mươi lăm nghìn đồng ạ.","bvi":"Xin gói tất cả lại giùm."}]},{"id":2430,"title":"Bài 70","pairs":[{"a":"There is a bargain sale going on now.","b":"I am having an economy drive in country.","avi":"Hàng hiện đang giảm giá.","bvi":"Tôi đang tham gia cuộc vận động tiết kiệm trong nước."},{"a":"What do we need to buy?","b":"Is there a news stall near here?","avi":"Chúng ta cần mua gì?","bvi":"Có quầy báo nào gần đây không?"},{"a":"Have you any Nhan Dan newspaper?","b":"My shop hasn't it.","avi":"Bạn có bán báo Nhân Dân không?","bvi":"Tiệm tôi không bán nó."},{"a":"I looked in the newspaper every day.","b":"Which of them gives oftenest news from Vietnam?","avi":"Tôi xem báo mỗi ngày.","bvi":"Báo nào thường đăng tin tức Việt Nam nhất?"}]},{"id":2431,"title":"Bài 71","pairs":[{"a":"Have you read the paper?","b":"I haven't read today's newspaper yet.","avi":"Bạn đọc báo chưa?","bvi":"Tôi vẫn chưa đọc báo của ngày hôm nay."},{"a":"What do you like reading?","b":"Do you have weekly or monthly magazine?","avi":"Anh thích đọc loại gì?","bvi":"Bạn có các tuần san hoặc nguyệt san không?"},{"a":"Are you listening to the radio?","b":"This is CNN Breaking News.","avi":"Bạn đang nghe đài ra-đi-ô phải không?","bvi":"Ðây là bản tin nhanh của đài CNN."},{"a":"Do you live and breathe Facebook?","b":"It gives you all the news.","avi":"Cậu sống và thở với Facebook à?","bvi":"Nó cho bạn mọi tin tức."}]},{"id":2432,"title":"Bài 72","pairs":[{"a":"He is a writer and a journalist.","b":"Don't believe the newspaper account.","avi":"Anh ấy là nhà văn kiêm nhà báo.","bvi":"Ðừng tin những gì báo chí đã thuật lại."},{"a":"Do you have weekly or monthly magazine?","b":"We have both.","avi":"Bạn có các tuần san hoặc nguyệt san không?","bvi":"Chúng tôi có cả hai thứ."},{"a":"Put that on your Facebook page.","b":"My facebook account was deleted by the man.","avi":"Cho nó lên facebook đi.","bvi":"Người ta xóa mất tài khoản facebook của tôi."}]}]
+[
+  {
+    "id": 2361,
+    "title": "Bài 1",
+    "pairs": [
+      {
+        "a": "Too many people.",
+        "b": "I like living here.",
+        "avi": "Ðông người quá.",
+        "bvi": "Tôi thích sống ở đây."
+      },
+      {
+        "a": "I like living here.",
+        "b": "Pasadena is a nice city.",
+        "avi": "Tôi thích sống ở đây.",
+        "bvi": "Pasadena là một thành phố đẹp."
+      },
+      {
+        "a": "Pasadena is a nice city.",
+        "b": "It's not too big.",
+        "avi": "Pasadena là một thành phố đẹp.",
+        "bvi": "Nó không quá lớn."
+      },
+      {
+        "a": "It's not too big.",
+        "b": "And it's not too small.",
+        "avi": "Nó không quá lớn.",
+        "bvi": "Và nó cũng không quá nhỏ."
+      }
+    ]
+  },
+  {
+    "id": 2362,
+    "title": "Bài 2",
+    "pairs": [
+      {
+        "a": "The landscape here is very beautiful.",
+        "b": "It has great weather all year long.",
+        "avi": "Phong cảnh ở đây rất đẹp.",
+        "bvi": "Thời tiết tốt quanh năm."
+      },
+      {
+        "a": "It has great weather all year long.",
+        "b": "It has beautiful houses.",
+        "avi": "Thời tiết tốt quanh năm.",
+        "bvi": "Có những ngôi nhà xinh xắn."
+      },
+      {
+        "a": "It has beautiful houses.",
+        "b": "It has wonderful restaurants.",
+        "avi": "Có những ngôi nhà xinh xắn.",
+        "bvi": "Có những nhà hàng tuyệt vời."
+      },
+      {
+        "a": "It has wonderful restaurants.",
+        "b": "It has great schools.",
+        "avi": "Có những nhà hàng tuyệt vời.",
+        "bvi": "Có những trường học danh tiếng."
+      }
+    ]
+  },
+  {
+    "id": 2363,
+    "title": "Bài 3",
+    "pairs": [
+      {
+        "a": "It has great schools.",
+        "b": "It's close to the mountains.",
+        "avi": "Có những trường học danh tiếng.",
+        "bvi": "Nó nằm gần các ngọn núi."
+      },
+      {
+        "a": "I can't see anyone around.",
+        "b": "The people are friendly.",
+        "avi": "Tôi chẳng thấy ai quanh đây cả.",
+        "bvi": "Người ở đây rất thân thiện."
+      },
+      {
+        "a": "Are you here for long?",
+        "b": "I'm not ever going to leave.",
+        "avi": "Bạn còn ở đây lâu không?",
+        "bvi": "Tôi không có ý định đi."
+      },
+      {
+        "a": "When did that happen?",
+        "b": "That was a long time ago.",
+        "avi": "Chuyện xảy ra lâu chưa?",
+        "bvi": "Lâu lắm rồi."
+      }
+    ]
+  },
+  {
+    "id": 2364,
+    "title": "Bài 4",
+    "pairs": [
+      {
+        "a": "He wasn't very pleased about it.",
+        "b": "What did he say?",
+        "avi": "Anh ấy không hài lòng chuyện này.",
+        "bvi": "Anh ấy đã nói gì?"
+      },
+      {
+        "a": "What did they say?",
+        "b": "They said they want change.",
+        "avi": "Họ nói gì?",
+        "bvi": "Họ nói rằng họ muốn thay đổi."
+      },
+      {
+        "a": "What kind of requests do they have?",
+        "b": "They want tax cuts.",
+        "avi": "Họ có những yêu cầu gì?",
+        "bvi": "Họ muốn tiền thuế giảm xuống."
+      },
+      {
+        "a": "Why do they want tax cuts?",
+        "b": "Because tax cuts will save them money.",
+        "avi": "Vì sao họ muốn tiền thuế giảm xuống?",
+        "bvi": "Bởi vì tiền thuế giảm sẽ giúp họ tiết kiệm tiền."
+      }
+    ]
+  },
+  {
+    "id": 2365,
+    "title": "Bài 5",
+    "pairs": [
+      {
+        "a": "They reported sighting the plane.",
+        "b": "Did you hear about the pilot?",
+        "avi": "Họ thông báo là có nhìn thấy chiếc máy bay.",
+        "bvi": "Bạn đã nghe câu chuyện về viên phi công chưa?"
+      },
+      {
+        "a": "Did you hear about the pilot?",
+        "b": "Did they catch him?",
+        "avi": "Bạn đã nghe câu chuyện về viên phi công chưa?",
+        "bvi": "Họ đã bắt được anh ấy chưa?"
+      },
+      {
+        "a": "Did they catch him?",
+        "b": "Poor guy.",
+        "avi": "Họ đã bắt được anh ấy chưa?",
+        "bvi": "Thật là một kẻ tội nghiệp."
+      },
+      {
+        "a": "There comes a police officer.",
+        "b": "The police need our help finding a robber.",
+        "avi": "Một nhân viên cảnh sát đến rồi.",
+        "bvi": "Cảnh sát cần chúng ta giúp đỡ để tìm một kẻ cướp."
+      }
+    ]
+  },
+  {
+    "id": 2366,
+    "title": "Bài 6",
+    "pairs": [
+      {
+        "a": "The police need our help finding a robber.",
+        "b": "The TV news is reporting a bank robbery.",
+        "avi": "Cảnh sát cần chúng ta giúp đỡ để tìm một kẻ cướp.",
+        "bvi": "TV đang thông báo một vụ cướp ngân hàng."
+      },
+      {
+        "a": "What did they say about me?",
+        "b": "They didn't say.",
+        "avi": "Họ đã nói gì về tôi?",
+        "bvi": "Họ không nói."
+      },
+      {
+        "a": "The streets are swarming with pupils.",
+        "b": "Do you know what today is?",
+        "avi": "Ðường phố lũ lượt những học trò.",
+        "bvi": "Bạn có biết hôm nay là ngày gì không?"
+      },
+      {
+        "a": "Do you know what today is?",
+        "b": "Yes, it's April 22.",
+        "avi": "Bạn có biết hôm nay là ngày gì không?",
+        "bvi": "Vâng, hôm nay là 22 tháng 4."
+      }
+    ]
+  },
+  {
+    "id": 2367,
+    "title": "Bài 7",
+    "pairs": [
+      {
+        "a": "Yes, it's April 22.",
+        "b": "Is it your birthday or anniversary?",
+        "avi": "Vâng, hôm nay là 22 tháng 4.",
+        "bvi": "Sinh nhật bạn hay lễ kỷ niệm gì à?"
+      },
+      {
+        "a": "Is it your birthday or anniversary?",
+        "b": "No, it's Earth Day.",
+        "avi": "Sinh nhật bạn hay lễ kỷ niệm gì à?",
+        "bvi": "Không, đó là Ngày Trái Ðất."
+      },
+      {
+        "a": "He brought a case before a civil court.",
+        "b": "They're all asking the same question.",
+        "avi": "Anh ta đã đưa một vụ việc ra tòa dân sự.",
+        "bvi": "Họ đang đặt ra cùng một câu hỏi."
+      },
+      {
+        "a": "The road is in flood again.",
+        "b": "When are they going to fix this problem?",
+        "avi": "Ðường xá lại ngập nước.",
+        "bvi": "Khi nào thì họ sẽ khắc phục vấn đề này?"
+      }
+    ]
+  },
+  {
+    "id": 2368,
+    "title": "Bài 8",
+    "pairs": [
+      {
+        "a": "When are they going to fix this problem?",
+        "b": "They said they need more money.",
+        "avi": "Khi nào thì họ sẽ khắc phục vấn đề này?",
+        "bvi": "Họ bảo rằng họ cần nhiều tiền hơn."
+      },
+      {
+        "a": "They said they need more money.",
+        "b": "They always need more money.",
+        "avi": "Họ bảo rằng họ cần nhiều tiền hơn.",
+        "bvi": "Họ luôn cần nhiều tiền hơn."
+      },
+      {
+        "a": "I've live here for twenty years.",
+        "b": "This is a great neighborhood.",
+        "avi": "Tôi đã sống ở đây 20 năm.",
+        "bvi": "Quanh đây thật tuyệt."
+      },
+      {
+        "a": "This is a great neighborhood.",
+        "b": "The people are friendly.",
+        "avi": "Quanh đây thật tuyệt.",
+        "bvi": "Người ở đây rất thân thiện."
+      }
+    ]
+  },
+  {
+    "id": 2369,
+    "title": "Bài 9",
+    "pairs": [
+      {
+        "a": "The people are friendly.",
+        "b": "The streets and sidewalks are clean.",
+        "avi": "Người ở đây rất thân thiện.",
+        "bvi": "Ðường sá và vỉa hè rất sạch."
+      },
+      {
+        "a": "The streets and sidewalks are clean.",
+        "b": "There's a real nice park nearby.",
+        "avi": "Ðường sá và vỉa hè rất sạch.",
+        "bvi": "Có cả một công viên rất đẹp gần đó."
+      },
+      {
+        "a": "There's a real nice park nearby.",
+        "b": "I feel safe here.",
+        "avi": "Có cả một công viên rất đẹp gần đó.",
+        "bvi": "Tôi cảm thấy an toàn ở đây."
+      },
+      {
+        "a": "I feel safe here.",
+        "b": "There is no crime here.",
+        "avi": "Tôi cảm thấy an toàn ở đây.",
+        "bvi": "Ở đây không có tội phạm."
+      }
+    ]
+  },
+  {
+    "id": 2370,
+    "title": "Bài 10",
+    "pairs": [
+      {
+        "a": "He will arrive in half an hour.",
+        "b": "Was he smoking?",
+        "avi": "Ông ấy sẽ đến trong nửa tiếng nữa.",
+        "bvi": "Ông ấy có hút thuốc không?"
+      },
+      {
+        "a": "Was he smoking?",
+        "b": "Yes, he was smoking a cigarette.",
+        "avi": "Ông ấy có hút thuốc không?",
+        "bvi": "Có, ông ấy đang hút một điếu thuốc."
+      },
+      {
+        "a": "Do you know what's wrong with it?",
+        "b": "The battery was dead.",
+        "avi": "Bạn có biết nó bị làm sao không?",
+        "bvi": "Hết pin."
+      },
+      {
+        "a": "The battery was dead.",
+        "b": "It happens all the time.",
+        "avi": "Hết pin.",
+        "bvi": "Ðiều đó vẫn thường xảy ra mà."
+      }
+    ]
+  },
+  {
+    "id": 2371,
+    "title": "Bài 11",
+    "pairs": [
+      {
+        "a": "Police arrest him.",
+        "b": "They say he has started fifteen big fires.",
+        "avi": "Anh ấy đã bị cảnh sát bắt.",
+        "bvi": "Họ nói rằng anh ta đã gây ra 15 trận hỏa hoạn lớn."
+      },
+      {
+        "a": "He was sentenced to 15 years in prison.",
+        "b": "It' the law.",
+        "avi": "Anh ta bị kết án 15 năm tù.",
+        "bvi": "Ðó là luật."
+      },
+      {
+        "a": "It' the law.",
+        "b": "This time they have charged him with murder.",
+        "avi": "Ðó là luật.",
+        "bvi": "Lần này họ đã buộc tội giết người cho anh ta."
+      },
+      {
+        "a": "You can get what you want.",
+        "b": "I sure hope so.",
+        "avi": "Bạn sẽ được như ý.",
+        "bvi": "Tôi hy vọng là thế."
+      }
+    ]
+  },
+  {
+    "id": 2372,
+    "title": "Bài 12",
+    "pairs": [
+      {
+        "a": "This time they have charged him with murder.",
+        "b": "That would teach him a good lesson.",
+        "avi": "Lần này họ đã buộc tội giết người cho anh ta.",
+        "bvi": "Ðiều đó sẽ dạy cho anh ta một bài học nhớ đời."
+      },
+      {
+        "a": "It was most likely junk mail.",
+        "b": "It isn't easy to see.",
+        "avi": "Rất có khả năng là thư rác.",
+        "bvi": "Nó không dễ nhìn thấy."
+      },
+      {
+        "a": "Oh! It broke!",
+        "b": "Someone who slips could hurt their back.",
+        "avi": "Oh! Nó gãy rồi!",
+        "bvi": "Ai đó bị ngã có thể sẽ rất đau lưng đấy."
+      },
+      {
+        "a": "Someone who slips could hurt their back.",
+        "b": "Here he comes now with the mop.",
+        "avi": "Ai đó bị ngã có thể sẽ rất đau lưng đấy.",
+        "bvi": "Nhân viên lau dọn mang giẻ lau sàn đến rồi."
+      }
+    ]
+  },
+  {
+    "id": 2373,
+    "title": "Bài 13",
+    "pairs": [
+      {
+        "a": "The bank closed at two o'clock.",
+        "b": "Why are they doing this?",
+        "avi": "Ngân hàng đã đóng cửa lúc hai giờ.",
+        "bvi": "Tại sao họ lại làm vậy?"
+      },
+      {
+        "a": "I've got three days off next week.",
+        "b": "I was wondering if you'd like to go out.",
+        "avi": "Tuần tới tôi được nghỉ ba ngày.",
+        "bvi": "Tôi đang phân vân không biết là bạn có thích đi chơi không."
+      },
+      {
+        "a": "They are living well in city.",
+        "b": "Meanwhile, people are hungry.",
+        "avi": "Họ đang sống sung túc ở thành phố.",
+        "bvi": "Trong khi người dân thì đói."
+      },
+      {
+        "a": "Do people who live here like to travel?",
+        "b": "People who live in California are crazy.",
+        "avi": "Người dân ở đây có thích đi du lịch không?",
+        "bvi": "Mọi người sống ở California đều điên rồ."
+      }
+    ]
+  },
+  {
+    "id": 2374,
+    "title": "Bài 14",
+    "pairs": [
+      {
+        "a": "I will help you fight the fire.",
+        "b": "There are a lot of fires.",
+        "avi": "Tôi sẽ giúp anh dập tắt hỏa hoạn.",
+        "bvi": "Có rất nhiều trận hỏa hoạn."
+      },
+      {
+        "a": "In case of fire, ring the alarm bell.",
+        "b": "A recent fire destroyed 85 homes.",
+        "avi": "Trong trường hợp có hỏa hoạn, hãy rung chuông báo động.",
+        "bvi": "Một trận hỏa hoạn gần đây đã thiêu hủy 85 ngôi nhà."
+      },
+      {
+        "a": "How is the situation there?",
+        "b": "Florida doesn't have earthquakes or fires.",
+        "avi": "Tình hình ở đó như thế nào?",
+        "bvi": "Florida không có động đất hay hỏa hoạn."
+      },
+      {
+        "a": "The TV person said it was a big storm.",
+        "b": "But most of those hurricanes are harmless.",
+        "avi": "Người xướng ngôn viên truyền hình nói nó là cơn bão lớn.",
+        "bvi": "Nhưng đa số những cơn bão ấy đều vô hại."
+      }
+    ]
+  },
+  {
+    "id": 2375,
+    "title": "Bài 15",
+    "pairs": [
+      {
+        "a": "All the people are fantastic.",
+        "b": "What do you like about it?",
+        "avi": "Tất cả mọi người ở đây tuyệt vời.",
+        "bvi": "Bạn thích điều gì ở đây?"
+      },
+      {
+        "a": "It was a close election.",
+        "b": "Who did you vote for?",
+        "avi": "Ðây là cuộc bầu cử ngang tài ngang sức.",
+        "bvi": "Bạn bỏ phiếu cho ai?"
+      },
+      {
+        "a": "Who did you vote for?",
+        "b": "I voted for Obama.",
+        "avi": "Bạn bỏ phiếu cho ai?",
+        "bvi": "Tôi bỏ phiếu cho Obama."
+      },
+      {
+        "a": "Do you believe him?",
+        "b": "He will be a great president.",
+        "avi": "Bạn có tin ông ấy không?",
+        "bvi": "Ông ấy sẽ là vị tổng thống tuyệt vời."
+      }
+    ]
+  },
+  {
+    "id": 2376,
+    "title": "Bài 16",
+    "pairs": [
+      {
+        "a": "Do you like him?",
+        "b": "Everyone likes him.",
+        "avi": "Bạn có thích ông ấy không?",
+        "bvi": "Mọi người đều yêu mến ông ấy."
+      },
+      {
+        "a": "What talents does he actually possess?",
+        "b": "He's a good speaker.",
+        "avi": "Thực sự ông ấy có tài năng gì?",
+        "bvi": "Ông ấy là một nhà hùng biện giỏi."
+      },
+      {
+        "a": "He's a good speaker.",
+        "b": "And he's really smart.",
+        "avi": "Ông ấy là một nhà hùng biện giỏi.",
+        "bvi": "Và ông ấy rất thông minh."
+      },
+      {
+        "a": "And he's really smart.",
+        "b": "He will solve our problems.",
+        "avi": "Và ông ấy rất thông minh.",
+        "bvi": "Ông ấy sẽ giải quyết được các vấn đề của chúng ta."
+      }
+    ]
+  },
+  {
+    "id": 2377,
+    "title": "Bài 17",
+    "pairs": [
+      {
+        "a": "He will solve our problems.",
+        "b": "He will end the war.",
+        "avi": "Ông ấy sẽ giải quyết được các vấn đề của chúng ta.",
+        "bvi": "Ông ấy sẽ chấm dứt chiến tranh."
+      },
+      {
+        "a": "I stood for election.",
+        "b": "The election is next week.",
+        "avi": "Tôi ủng hộ cuộc bầu cử.",
+        "bvi": "Cuộc bầu cử sẽ diễn ra vào tuần tới."
+      },
+      {
+        "a": "The election is next week.",
+        "b": "Who are you voting for?",
+        "avi": "Cuộc bầu cử sẽ diễn ra vào tuần tới.",
+        "bvi": "Bạn sẽ bỏ phiếu cho ai?"
+      },
+      {
+        "a": "Who are you voting for?",
+        "b": "I'm not voting for the mayor.",
+        "avi": "Bạn sẽ bỏ phiếu cho ai?",
+        "bvi": "Tôi sẽ không bỏ phiếu cho ông thị trưởng."
+      }
+    ]
+  },
+  {
+    "id": 2378,
+    "title": "Bài 18",
+    "pairs": [
+      {
+        "a": "I'm not voting for the mayor.",
+        "b": "He made promises that he didn't keep.",
+        "avi": "Tôi sẽ không bỏ phiếu cho ông thị trưởng.",
+        "bvi": "ông ta không bao giờ giữ lời hứa."
+      },
+      {
+        "a": "He made promises that he didn't keep.",
+        "b": "Maybe he had a good reason.",
+        "avi": "ông ta không bao giờ giữ lời hứa.",
+        "bvi": "Có lẽ ông ta có lý do hợp lý."
+      },
+      {
+        "a": "Maybe he had a good reason.",
+        "b": "Maybe he's just a liar.",
+        "avi": "Có lẽ ông ta có lý do hợp lý.",
+        "bvi": "Có lẽ ông ta chỉ là kẻ dối trá."
+      },
+      {
+        "a": "Maybe he's just a liar.",
+        "b": "Maybe I'll vote for someone else, too.",
+        "avi": "Có lẽ ông ta chỉ là kẻ dối trá.",
+        "bvi": "Cũng có lẽ tôi sẽ bỏ phiếu cho người khác."
+      }
+    ]
+  },
+  {
+    "id": 2379,
+    "title": "Bài 19",
+    "pairs": [
+      {
+        "a": "Maybe I'll vote for someone else, too.",
+        "b": "I can't believe he won the election.",
+        "avi": "Cũng có lẽ tôi sẽ bỏ phiếu cho người khác.",
+        "bvi": "Tôi không thể tin rằng ông ta đã giành chiến thắng trong cuộc bầu cử."
+      },
+      {
+        "a": "At the last election, he abstained.",
+        "b": "Only 15 percent of the voters turned out.",
+        "avi": "Tại cuộc bầu cử vừa qua, anh ta đã bỏ phiếu trắng.",
+        "bvi": "Chỉ 15 phần trăm cử tri đã tham gia bỏ phiếu."
+      },
+      {
+        "a": "Only 15 percent of the voters turned out.",
+        "b": "That is a joke.",
+        "avi": "Chỉ 15 phần trăm cử tri đã tham gia bỏ phiếu.",
+        "bvi": "Quả là chuyện đùa."
+      },
+      {
+        "a": "He is elected by ballot.",
+        "b": "Many people think their vote doesn't matter.",
+        "avi": "Ông ấy được bầu bằng cách bỏ phiếu kín.",
+        "bvi": "Rất nhiều người nghĩ rằng lá phiếu của họ không quan trọng."
+      }
+    ]
+  },
+  {
+    "id": 2380,
+    "title": "Bài 20",
+    "pairs": [
+      {
+        "a": "Many people think their vote doesn't matter.",
+        "b": "Voting is so easy.",
+        "avi": "Rất nhiều người nghĩ rằng lá phiếu của họ không quan trọng.",
+        "bvi": "Quá trình bỏ phiếu quá dễ."
+      },
+      {
+        "a": "Voting is so easy.",
+        "b": "How easy is that?",
+        "avi": "Quá trình bỏ phiếu quá dễ.",
+        "bvi": "Dễ đến mức đó sao?"
+      },
+      {
+        "a": "How easy is that?",
+        "b": "I guess people just don't care.",
+        "avi": "Dễ đến mức đó sao?",
+        "bvi": "Tôi đoán là mọi người không thèm quan tâm."
+      },
+      {
+        "a": "Everything ended so abruptly.",
+        "b": "Well, we have a new president.",
+        "avi": "Mọi thứ đã kết thúc quá đột ngột.",
+        "bvi": "Này, chúng ta có tổng thống mới rồi đấy."
+      }
+    ]
+  },
+  {
+    "id": 2381,
+    "title": "Bài 21",
+    "pairs": [
+      {
+        "a": "Well, we have a new president.",
+        "b": "But we have the same old problems.",
+        "avi": "Này, chúng ta có tổng thống mới rồi đấy.",
+        "bvi": "Nhưng chúng ta vẫn gặp những vấn đề cũ."
+      },
+      {
+        "a": "So what else he does?",
+        "b": "He's made a few changes.",
+        "avi": "Vậy ông ấy còn làm được những gì?",
+        "bvi": "ông ấy đã thực hiện một số thay đổi."
+      },
+      {
+        "a": "He's made a few changes.",
+        "b": "Who's paying for that?",
+        "avi": "ông ấy đã thực hiện một số thay đổi.",
+        "bvi": "Ai trả tiền cho việc đó?"
+      },
+      {
+        "a": "He's the best man for president.",
+        "b": "People say that everybody loves Obama.",
+        "avi": "Ông ấy là người phù hợp nhất cho vị trí tổng thống.",
+        "bvi": "Người ta nói rằng mọi người đều yêu mến Obama."
+      }
+    ]
+  },
+  {
+    "id": 2382,
+    "title": "Bài 22",
+    "pairs": [
+      {
+        "a": "People say that everybody loves Obama.",
+        "b": "Obama's got four years to make everyone happy.",
+        "avi": "Người ta nói rằng mọi người đều yêu mến Obama.",
+        "bvi": "Obama đã có 4 năm để giúp mọi người hạnh phúc."
+      },
+      {
+        "a": "He has promised relief funds.",
+        "b": "He's never going to make everyone happy.",
+        "avi": "Ông ấy đã cam kết cứu trợ.",
+        "bvi": "Ông ấy chưa bao giờ giúp ai hạnh phúc cả."
+      },
+      {
+        "a": "He will be a great president.",
+        "b": "Can you imagine being President?",
+        "avi": "Ông ấy sẽ là vị tổng thống tuyệt vời.",
+        "bvi": "Bạn có thể tượng tượng việc trở thành Tổng Thống không?"
+      },
+      {
+        "a": "Can you imagine being President?",
+        "b": "Everyone wants you to solve their problems.",
+        "avi": "Bạn có thể tượng tượng việc trở thành Tổng Thống không?",
+        "bvi": "Mọi người muốn bạn giải quyết vấn đề cho họ."
+      }
+    ]
+  },
+  {
+    "id": 2383,
+    "title": "Bài 23",
+    "pairs": [
+      {
+        "a": "Everyone wants you to solve their problems.",
+        "b": "I would never want to be President.",
+        "avi": "Mọi người muốn bạn giải quyết vấn đề cho họ.",
+        "bvi": "Tôi không bao giờ muốn trở thành Tổng Thống."
+      },
+      {
+        "a": "I would never want to be President.",
+        "b": "But think about all the power you'd have.",
+        "avi": "Tôi không bao giờ muốn trở thành Tổng Thống.",
+        "bvi": "Nhưng hãy nghĩ đến tất cả những quyền lực mà bạn sẽ có."
+      },
+      {
+        "a": "Look at this piece of news!",
+        "b": "What's happening in there?",
+        "avi": "Hãy xem bản tin này!",
+        "bvi": "Trong đó có gì vậy?"
+      },
+      {
+        "a": "Did you read this article?",
+        "b": "What article?",
+        "avi": "Bạn đã đọc bản tin chưa?",
+        "bvi": "Bản tin nào?"
+      }
+    ]
+  },
+  {
+    "id": 2384,
+    "title": "Bài 24",
+    "pairs": [
+      {
+        "a": "It's a very small percentage.",
+        "b": "Only 11 percent?",
+        "avi": "Ðó là 1 tỷ lệ rất nhỏ đấy.",
+        "bvi": "Chỉ 11% thôi ư?"
+      },
+      {
+        "a": "He has travelled everywhere.",
+        "b": "Where does he travel to?",
+        "avi": "Anh ta đi du lịch khắp nơi.",
+        "bvi": "Anh ấy đi đâu?"
+      },
+      {
+        "a": "Where does he travel to?",
+        "b": "all over the world.",
+        "avi": "Ông ấy đi đâu?",
+        "bvi": "khắp thế giới."
+      },
+      {
+        "a": "What is the purpose of his visit?",
+        "b": "He's visiting other cities to get ideas.",
+        "avi": "Mục đích chuyến thăm của ông ấy là gì?",
+        "bvi": "Ông ấy đến thăm các thành phố khác để tìm kiếm ý tưởng."
+      }
+    ]
+  },
+  {
+    "id": 2385,
+    "title": "Bài 25",
+    "pairs": [
+      {
+        "a": "The election was fixed.",
+        "b": "Who did you vote for for president?",
+        "avi": "Cuộc bầu cử đã bị dàn xếp rồi.",
+        "bvi": "Bạn đã bầu ai cho vị trí tổng thống?"
+      },
+      {
+        "a": "Who did you vote for for president?",
+        "b": "I voted for Ralph Nader.",
+        "avi": "Bạn đã bầu ai cho vị trí tổng thống?",
+        "bvi": "Tôi đã bỏ phiếu cho Nader."
+      },
+      {
+        "a": "I voted for Ralph Nader.",
+        "b": "Who in the world is Nader?",
+        "avi": "Tôi đã bỏ phiếu cho Nader.",
+        "bvi": "Nader là ai thế?"
+      },
+      {
+        "a": "Who in the world is Nader?",
+        "b": "He's the best man for president.",
+        "avi": "Nader là ai thế?",
+        "bvi": "Ông ấy là người phù hợp nhất cho vị trí tổng thống."
+      }
+    ]
+  },
+  {
+    "id": 2386,
+    "title": "Bài 26",
+    "pairs": [
+      {
+        "a": "He's the best man for president.",
+        "b": "He hates corporations.",
+        "avi": "Ông ấy là người phù hợp nhất cho vị trí tổng thống.",
+        "bvi": "Ông ấy rất ghét các tập đoàn."
+      },
+      {
+        "a": "He hates corporations.",
+        "b": "He's the only candidate that I trust.",
+        "avi": "Ông ấy rất ghét các tập đoàn.",
+        "bvi": "Ông ấy là ứng cử viên duy nhất mà tôi tin tưởng."
+      },
+      {
+        "a": "He's the only candidate that I trust.",
+        "b": "But he didn't have a chance.",
+        "avi": "Ông ấy là ứng cử viên duy nhất mà tôi tin tưởng.",
+        "bvi": "Nhưng ông ấy không có cơ hội."
+      },
+      {
+        "a": "But he didn't have a chance.",
+        "b": "Nobody voted for him!",
+        "avi": "Nhưng ông ấy không có cơ hội.",
+        "bvi": "Chẳng ai bỏ phiếu cho ông ấy cả!"
+      }
+    ]
+  },
+  {
+    "id": 2387,
+    "title": "Bài 27",
+    "pairs": [
+      {
+        "a": "Nobody voted for him!",
+        "b": "Sooner or later, voters will wake up.",
+        "avi": "Chẳng ai bỏ phiếu cho ông ấy cả!",
+        "bvi": "Không sớm thì muộn, các cử tri sẽ thức tỉnh."
+      },
+      {
+        "a": "Sooner or later, voters will wake up.",
+        "b": "I don't know why I bother to vote.",
+        "avi": "Không sớm thì muộn, các cử tri sẽ thức tỉnh.",
+        "bvi": "Tôi không biết tại sao tôi lại đi bỏ phiếu nữa."
+      },
+      {
+        "a": "I don't know why I bother to vote.",
+        "b": "What good does it do?",
+        "avi": "Tôi không biết tại sao tôi lại đi bỏ phiếu nữa.",
+        "bvi": "Nó có ích gì đâu?"
+      },
+      {
+        "a": "What would it take to make you happy?",
+        "b": "Only if my candidate wins.",
+        "avi": "Thế nào thì anh mới hài lòng chứ?",
+        "bvi": "Chỉ khi ứng cử viên của tôi giành chiến thắng."
+      }
+    ]
+  },
+  {
+    "id": 2388,
+    "title": "Bài 28",
+    "pairs": [
+      {
+        "a": "Only if my candidate wins.",
+        "b": "That's true.",
+        "avi": "Chỉ khi ứng cử viên của tôi dành chiến thắng.",
+        "bvi": "Ðúng vậy."
+      },
+      {
+        "a": "Politicians were all corrupt.",
+        "b": "They forget who put them in power.",
+        "avi": "Tất cả các chính trị gia đều tham nhũng.",
+        "bvi": "Họ quên ai đã đưa họ vào vị trí quyền lực."
+      },
+      {
+        "a": "The deal stank of corruption.",
+        "b": "They forget where they came from.",
+        "avi": "Sự thỏa thuận này sặc mùi tham nhũng.",
+        "bvi": "Họ quên họ xuất thân từ đâu."
+      },
+      {
+        "a": "We are determined to root out corruption.",
+        "b": "Maybe you should run for office.",
+        "avi": "Chúng ta quyết tâm diệt trừ tham nhũng đến tận gốc.",
+        "bvi": "Có lẽ bạn nên ứng cử cho một chức vụ nào đó."
+      }
+    ]
+  },
+  {
+    "id": 2389,
+    "title": "Bài 29",
+    "pairs": [
+      {
+        "a": "He cooked an election.",
+        "b": "There were more votes than voters!",
+        "avi": "Ông ta đã gian lận trong cuộc bầu cử.",
+        "bvi": "Có nhiều phiếu bầu hơn cử tri bỏ phiếu!"
+      },
+      {
+        "a": "There were more votes than voters!",
+        "b": "But that's impossible.",
+        "avi": "Có nhiều phiếu bầu hơn cử tri bỏ phiếu!",
+        "bvi": "Nhưng điều đó là không thể."
+      },
+      {
+        "a": "But that's impossible.",
+        "b": "Officials said that it's possible.",
+        "avi": "Nhưng điều đó là không thể.",
+        "bvi": "Các viên chức lại nói rằng điều đó hoàn toàn có thể."
+      },
+      {
+        "a": "Officials said that it's possible.",
+        "b": "Did they explain how it's possible?",
+        "avi": "Các viên chức lại nói rằng điều đó hoàn toàn có thể.",
+        "bvi": "Họ có giải thích tại sao không?"
+      }
+    ]
+  },
+  {
+    "id": 2390,
+    "title": "Bài 30",
+    "pairs": [
+      {
+        "a": "Did they explain how it's possible?",
+        "b": "No. That will cost too much money.",
+        "avi": "Họ có giải thích tại sao không?",
+        "bvi": "Không. Việc đó sẽ tốn rất nhiều tiền."
+      },
+      {
+        "a": "He won an election.",
+        "b": "He's got plenty of time now!",
+        "avi": "Ông ấy đã đắc cử.",
+        "bvi": "Giờ thì ông ấy có rất nhiều thời gian!"
+      },
+      {
+        "a": "The vote is closer than I think.",
+        "b": "How are you going to vote?",
+        "avi": "Cuộc bầu cử đến nhanh hơn tôi nghĩ.",
+        "bvi": "Bạn sẽ bầu cử như thế nào?"
+      },
+      {
+        "a": "How are you going to vote?",
+        "b": "Same as ever, by mail.",
+        "avi": "Bạn sẽ bầu cử như thế nào?",
+        "bvi": "Cũng như mọi khi, thông qua đường bưu điện."
+      }
+    ]
+  },
+  {
+    "id": 2391,
+    "title": "Bài 31",
+    "pairs": [
+      {
+        "a": "Any advertisement cannot be useless.",
+        "b": "Do you believe the TV ads?",
+        "avi": "Không có hình thức quảng cáo nào vô ích cả.",
+        "bvi": "Bạn tin vào chương trình quảng cáo trên TV sao?"
+      },
+      {
+        "a": "The next time I will listen to him.",
+        "b": "Don't believe him!",
+        "avi": "Lần sau, tôi sẽ nghe theo anh ấy.",
+        "bvi": "Ðừng tin anh ta!"
+      },
+      {
+        "a": "Life is hard.",
+        "b": "Let's not cry over spilled milk.",
+        "avi": "Cuộc sống thật khó khăn.",
+        "bvi": "Than thở cũng vô ích."
+      },
+      {
+        "a": "I don't suppose they'll come do you?",
+        "b": "What a nuisance!",
+        "avi": "Tôi nghĩ là họ sẽ không đến, còn bạn?",
+        "bvi": "Thật là bực!"
+      }
+    ]
+  },
+  {
+    "id": 2392,
+    "title": "Bài 32",
+    "pairs": [
+      {
+        "a": "And I have a sore throat.",
+        "b": "How long has this been going on?",
+        "avi": "Và tôi bị viêm họng nữa.",
+        "bvi": "Bị thế này bao lâu rồi?"
+      },
+      {
+        "a": "They play a trick on me!",
+        "b": "good grief!",
+        "avi": "Họ chơi xỏ tôi!",
+        "bvi": "Tức thật!"
+      },
+      {
+        "a": "Get out here. Asshole. I got your friend.",
+        "b": "Damn!",
+        "avi": "Ra đây, thằng mất dạy. tao tóm được bạn mày rồi.",
+        "bvi": "Mẹ kiếp!"
+      },
+      {
+        "a": "He has taken everything from you.",
+        "b": "I've had just about enough of.",
+        "avi": "Hắn đã lấy hết của bạn.",
+        "bvi": "Thế này là cùng."
+      }
+    ]
+  },
+  {
+    "id": 2393,
+    "title": "Bài 33",
+    "pairs": [
+      {
+        "a": "He got a 200 fine for speeding.",
+        "b": "What a stupid idiot!",
+        "avi": "Anh ấy bị phạt 200 vì lái xe quá tốc độ.",
+        "bvi": "Thật ngốc nghếch."
+      },
+      {
+        "a": "People here sure complain a lot.",
+        "b": "Maybe there's something wrong with our society.",
+        "avi": "Người dân ở đây rõ ràng có nhiều điều bất mãn.",
+        "bvi": "Có lẽ xã hội của chúng ta có vấn đề."
+      },
+      {
+        "a": "Maybe, I will bussiness something in future.",
+        "b": "It's a good way to make money.",
+        "avi": "Có thể sau này tôi sẽ kinh doanh một cái gì đó.",
+        "bvi": "Ðó là cách hay để kiếm tiền."
+      },
+      {
+        "a": "She's not my Lan now.",
+        "b": "Absolutely.",
+        "avi": "Giờ thì cô ấy không còn là Lan của tôi nữa.",
+        "bvi": "Hoàn toàn chính xác."
+      }
+    ]
+  },
+  {
+    "id": 2394,
+    "title": "Bài 34",
+    "pairs": [
+      {
+        "a": "He was shocked to hear his child swearing.",
+        "b": "Children are too spoiled these days.",
+        "avi": "Anh ấy sửng sốt khi nghe con anh ấy chửi thề.",
+        "bvi": "Trẻ con ngày nay quá hư hỏng."
+      },
+      {
+        "a": "Children are too spoiled these days.",
+        "b": "Yes, I believe so.",
+        "avi": "Trẻ con ngày nay quá hư hỏng.",
+        "bvi": "Vâng, tôi cũng nghĩ vậy."
+      },
+      {
+        "a": "So what's the message?",
+        "b": "There'll be an earthquake tonight.",
+        "avi": "Thế thông báo là gì vậy?",
+        "bvi": "Tối nay sẽ có một trận động đất."
+      },
+      {
+        "a": "You should apologize to her.",
+        "b": "Come off it!",
+        "avi": "Bạn nên xin lỗi cô ấy.",
+        "bvi": "Thôi đi!"
+      }
+    ]
+  },
+  {
+    "id": 2395,
+    "title": "Bài 35",
+    "pairs": [
+      {
+        "a": "You think that's a problem?",
+        "b": "They're always exaggerating things.",
+        "avi": "Bạn nghĩ là chuyện lớn lắm sao?",
+        "bvi": "Họ luôn cường điệu mọi thứ."
+      },
+      {
+        "a": "It was hard work and a hard life.",
+        "b": "I am very optimistic about the economic situation.",
+        "avi": "Công việc và cuộc sống thật vất vả.",
+        "bvi": "Tôi rất lạc quan về tình hình kinh tế."
+      },
+      {
+        "a": "I know it's coming next.",
+        "b": "There won't be another one.",
+        "avi": "Tôi biết nó sẽ tiếp tục mà.",
+        "bvi": "Sẽ không có chuyện đó nữa đâu."
+      },
+      {
+        "a": "There won't be another one.",
+        "b": "How do you get the idea?",
+        "avi": "Sẽ không có chuyện đó nữa đâu.",
+        "bvi": "Sao bạn nghĩ vậy?"
+      }
+    ]
+  },
+  {
+    "id": 2396,
+    "title": "Bài 36",
+    "pairs": [
+      {
+        "a": "How do you get the idea?",
+        "b": "Our products have entered the would market!",
+        "avi": "Sao bạn nghĩ vậy?",
+        "bvi": "Sản phẩm của chúng ta đã thâm nhập vào thị trường thế giới."
+      },
+      {
+        "a": "Our products have entered the would market!",
+        "b": "How wonderful!",
+        "avi": "Sản phẩm của chúng ta đã thâm nhập vào thị trường thế giới.",
+        "bvi": "Thật tuyệt!"
+      },
+      {
+        "a": "No, not negotiable.",
+        "b": "Neither side will benefit from it then.",
+        "avi": "Không, không thương lượng.",
+        "bvi": "Vậy thì cả hai bên đều chẳng được lợi gì."
+      },
+      {
+        "a": "Neither side will benefit from it then.",
+        "b": "We've got no other choice.",
+        "avi": "Vậy thì cả hai bên đều chẳng được lợi gì.",
+        "bvi": "Chúng tôi không còn sự lựa chọn nào khác."
+      }
+    ]
+  },
+  {
+    "id": 2397,
+    "title": "Bài 37",
+    "pairs": [
+      {
+        "a": "I bought some stock.",
+        "b": "You'd better not buy stocks these days.",
+        "avi": "Tôi đã mua một số cổ phiếu.",
+        "bvi": "Mấy ngày này tốt hơn bạn không nên mua cổ phiếu."
+      },
+      {
+        "a": "You'd better not buy stocks these days.",
+        "b": "I think it's a good chance.",
+        "avi": "Mấy ngày này tốt hơn bạn không nên mua cổ phiếu.",
+        "bvi": "Tôi nghĩ đây là một cơ hội tốt."
+      },
+      {
+        "a": "I think it's a good chance.",
+        "b": "No, I never listen to the gossip.",
+        "avi": "Tôi nghĩ đây là một cơ hội tốt.",
+        "bvi": "Không, tôi không bao giờ nghe những chuyện tầm phào."
+      },
+      {
+        "a": "Air pollution is the first kind.",
+        "b": "Yeah, we're breathing poisonous air every day.",
+        "avi": "Ô nhiễm không khí là vấn đề trước tiên.",
+        "bvi": "Vâng, chúng ta đang hít thở không khí bị nhiễm độc mỗi ngày."
+      }
+    ]
+  },
+  {
+    "id": 2398,
+    "title": "Bài 38",
+    "pairs": [
+      {
+        "a": "Nothing is impossible to a willing heart.",
+        "b": "I absolutely agree with you.",
+        "avi": "Không có gì là không thể với ý chí mạnh mẽ.",
+        "bvi": "Tôi hoàn toàn đồng ý với bạn."
+      },
+      {
+        "a": "That's a good chance!",
+        "b": "The new policy offers new opportunities.",
+        "avi": "Ðó là một cơ hội tốt!",
+        "bvi": "Chính sách mới đã tạo ra những cơ hội mới."
+      },
+      {
+        "a": "My money is all invested here.",
+        "b": "Too risky anyway.",
+        "avi": "Toàn bộ tiền của tôi đã được đầu tư vào đây.",
+        "bvi": "Dù sao cũng quá mạo hiểm."
+      },
+      {
+        "a": "But where would it all lead?",
+        "b": "It's necessary to look before you leap.",
+        "avi": "Nhưng việc này sẽ đi đến đâu?",
+        "bvi": "Cần phải cân nhắc cẩn thận trước khi hành động."
+      }
+    ]
+  },
+  {
+    "id": 2399,
+    "title": "Bài 39",
+    "pairs": [
+      {
+        "a": "I wouldn't be much of a partner if I didn't.",
+        "b": "Who do you mainly trade with?",
+        "avi": "Tôi sẽ không có nhiều đối tác nếu tôi không làm thế.",
+        "bvi": "Bạn kinh doanh chủ yếu với ai?"
+      },
+      {
+        "a": "Who do you mainly trade with?",
+        "b": "We mainly trade with Japanese firms.",
+        "avi": "Bạn kinh doanh chủ yếu với ai?",
+        "bvi": "Chúng tôi kinh doanh chủ yếu với các công ty Nhật."
+      },
+      {
+        "a": "We mainly trade with Japanese firms.",
+        "b": "What do you handle?",
+        "avi": "Chúng tôi kinh doanh chủ yếu với các công ty Nhật.",
+        "bvi": "Bạn kinh doanh hàng hóa gì?"
+      },
+      {
+        "a": "What do you handle?",
+        "b": "Our company mainly trades in arts and crafts.",
+        "avi": "Bạn kinh doanh hàng hóa gì?",
+        "bvi": "Công ty của chúng tôi kinh doanh chính về đồ mỹ nghệ và thủ công."
+      }
+    ]
+  },
+  {
+    "id": 2400,
+    "title": "Bài 40",
+    "pairs": [
+      {
+        "a": "Our company mainly trades in arts and crafts.",
+        "b": "Can we do a barter trade?",
+        "avi": "Công ty của chúng tôi kinh doanh chính về đồ mỹ nghệ và thủ công.",
+        "bvi": "Chúng ta có thể trao đổi hàng hóa không?"
+      },
+      {
+        "a": "Can we do a barter trade?",
+        "b": "That's fine.",
+        "avi": "Chúng ta có thể trao đổi hàng hóa không?",
+        "bvi": "Tốt rồi."
+      },
+      {
+        "a": "I'm watching the market.",
+        "b": "How is the market this morning?",
+        "avi": "Tôi đang theo dõi thị trường.",
+        "bvi": "Sáng nay thị trường thế nào?"
+      },
+      {
+        "a": "We will do our utmost in this market.",
+        "b": "Are you speculating on margin?",
+        "avi": "Chúng tôi sẽ làm hết sức mình với thị trường này.",
+        "bvi": "Bạn đang đầu cơ tích trữ à?"
+      }
+    ]
+  },
+  {
+    "id": 2401,
+    "title": "Bài 41",
+    "pairs": [
+      {
+        "a": "There is a blip on the stock market.",
+        "b": "The market was strong yesterday.",
+        "avi": "Có một biến động nhỏ trên thị trường chứng khoán.",
+        "bvi": "Hôm qua giá cả thị trường tăng cao."
+      },
+      {
+        "a": "The market was strong yesterday.",
+        "b": "He advised to buy an margin.",
+        "avi": "Hôm qua giá cả thị trường tăng cao.",
+        "bvi": "Anh ta khuyên tôi mua tích trữ."
+      },
+      {
+        "a": "He advised to buy an margin.",
+        "b": "Then, you'll be a bull.",
+        "avi": "Anh ta khuyên tôi mua tích trữ.",
+        "bvi": "Vậy, bạn sẽ là người đầu cơ nâng giá."
+      },
+      {
+        "a": "He speculated on the stock market.",
+        "b": "The broker demands more margin.",
+        "avi": "Ông ta đầu cơ vào thị trường chứng khoán.",
+        "bvi": "Người môi giới yêu cầu đầu tư hơn nữa."
+      }
+    ]
+  },
+  {
+    "id": 2402,
+    "title": "Bài 42",
+    "pairs": [
+      {
+        "a": "What do you think of that firm?",
+        "b": "That company is doing well.",
+        "avi": "Bạn thấy công ty đó thế nào?",
+        "bvi": "Công ty đó đang làm tốt."
+      },
+      {
+        "a": "The broker demands more margin.",
+        "b": "They are losing money.",
+        "avi": "Người môi giới yêu cầu đầu tư hơn nữa.",
+        "bvi": "Họ đang mất tiền."
+      },
+      {
+        "a": "I want to buy some more.",
+        "b": "It's a good buy.",
+        "avi": "Tôi còn muốn mua thêm nữa.",
+        "bvi": "Nó là một món hời."
+      },
+      {
+        "a": "House is one of real estates.",
+        "b": "Get involved in property exchange.",
+        "avi": "Nhà là loại bất động sản.",
+        "bvi": "Hãy tham gia vào thị trường bất động sản."
+      }
+    ]
+  },
+  {
+    "id": 2403,
+    "title": "Bài 43",
+    "pairs": [
+      {
+        "a": "I am a minor shareholder.",
+        "b": "They have declared a dividend.",
+        "avi": "Tôi là một cổ đông nhỏ.",
+        "bvi": "Họ đã tuyên bố chia lãi cổ phần."
+      },
+      {
+        "a": "Have you any foreign currency?",
+        "b": "What's the par value?",
+        "avi": "Ông có ngoại tệ không?",
+        "bvi": "Tỷ giá là bao nhiêu."
+      },
+      {"a": "Pay what?", "b": "It's fully paid up.", "avi": "Trả cái gì?", "bvi": "Trả trọn gói."},
+      {
+        "a": "He fell behind with his work.",
+        "b": "Business is slowing down.",
+        "avi": "Anh ấy không làm hết nổi công việc.",
+        "bvi": "Công việc đang chậm lại."
+      }
+    ]
+  },
+  {
+    "id": 2404,
+    "title": "Bài 44",
+    "pairs": [
+      {
+        "a": "Are we in agreement about the price?",
+        "b": "Prices are shooting up.",
+        "avi": "Chúng ta có thống nhất với nhau về giá cả hay không?",
+        "bvi": "Giá cả đang tăng vọt."
+      },
+      {
+        "a": "How is the market this morning?",
+        "b": "The market is steady.",
+        "avi": "Sáng nay thị trường thế nào?",
+        "bvi": "Thị trường ổn định."
+      },
+      {
+        "a": "Don't lose a sale because of price!",
+        "b": "Prices are sagging.",
+        "avi": "Ðừng để không bán được hàng vì giá cả!",
+        "bvi": "Giá cả đang xuống."
+      },
+      {
+        "a": "It's the price that bothers us.",
+        "b": "Prices are steady.",
+        "avi": "Ðiều chúng ta lo lắng là giá cả.",
+        "bvi": "Giá cả đang ổn định."
+      }
+    ]
+  },
+  {
+    "id": 2405,
+    "title": "Bài 45",
+    "pairs": [
+      {
+        "a": "Business has taken a turn for the better.",
+        "b": "The market is booming.",
+        "avi": "Công việc kinh doanh đã có chiều hướng tốt lên.",
+        "bvi": "Thị trường đang tăng vọt."
+      },
+      {
+        "a": "How does the situation appear to you?",
+        "b": "Things are quiet.",
+        "avi": "Bạn thấy tình hình thế nào?",
+        "bvi": "Tình hình yên ắng."
+      },
+      {
+        "a": "Maybe the milk was on sale, too.",
+        "b": "The prices were marked down.",
+        "avi": "Có lẽ sữa cũng đang giảm giá.",
+        "bvi": "Giá cả bị hạ."
+      },
+      {
+        "a": "I used to be a policeman.",
+        "b": "The police prevent and detect crime.",
+        "avi": "Tôi từng là một cảnh sát.",
+        "bvi": "Cảnh sát ngăn chặn và phát hiện tội phạm."
+      }
+    ]
+  },
+  {
+    "id": 2406,
+    "title": "Bài 46",
+    "pairs": [
+      {
+        "a": "I understand why you don't want me to know.",
+        "b": "You are convicted of crimes against humanity.",
+        "avi": "Tôi hiểu vì sao anh không muốn tôi biết.",
+        "bvi": "Bạn bị cáo buộc tội ác vô nhân đạo."
+      },
+      {
+        "a": "He was sentenced to 5 years in prison.",
+        "b": "He took to a life of crime.",
+        "avi": "Anh ta bị kết án 5 năm tù.",
+        "bvi": "Anh ta đã lao vào con đường tội lỗi."
+      },
+      {
+        "a": "The police say they killed a man.",
+        "b": "These criminals must be punished for their crimes.",
+        "avi": "Cảnh sát nói là họ đã giết một người.",
+        "bvi": "Những tên tội phạm này phải bị trừng trị vì những tội ác của chúng."
+      },
+      {
+        "a": "I'm innocent!",
+        "b": "You are guilty of wrong doing.",
+        "avi": "Tôi vô tội!",
+        "bvi": "Bạn có tội vì làm sai trái."
+      }
+    ]
+  },
+  {
+    "id": 2407,
+    "title": "Bài 47",
+    "pairs": [
+      {
+        "a": "He is under sentence of death.",
+        "b": "He committed suicide a blunder.",
+        "avi": "Anh ta bị kết án tử hình.",
+        "bvi": "Anh ta đã phạm tội giết người."
+      },
+      {
+        "a": "He committed suicide a blunder.",
+        "b": "Police are searching for the culprits.",
+        "avi": "Anh ta đã phạm tội giết người.",
+        "bvi": "Cảnh sát đang truy lùng thủ phạm."
+      },
+      {
+        "a": "Police are searching for the culprits.",
+        "b": "The prisoner was brought to court for trial.",
+        "avi": "Cảnh sát đang truy lùng thủ phạm.",
+        "bvi": "Tù nhân được giải ra trước tòa xét xử."
+      },
+      {
+        "a": "It could help you win or lose a case.",
+        "b": "This case was settled out of court.",
+        "avi": "Việc này có thể giúp cho bạn thắng hay thua một vụ kiện.",
+        "bvi": "Vụ kiện này được giải quyết mà không cần đưa ra tòa xử."
+      }
+    ]
+  },
+  {
+    "id": 2408,
+    "title": "Bài 48",
+    "pairs": [
+      {
+        "a": "What am I supposed to say?",
+        "b": "Please tell the court all you know.",
+        "avi": "Vậy thì tôi phải nói gì đây?",
+        "bvi": "Xin hãy nói trước tòa tất cả những gì mà bạn biết."
+      },
+      {
+        "a": "Please tell the court all you know.",
+        "b": "He is a gangster.",
+        "avi": "Xin hãy nói trước tòa tất cả những gì mà bạn biết.",
+        "bvi": "Anh ấy là một thành viên trong băng tội phạm có vũ trang."
+      },
+      {
+        "a": "He behaves everyone in a hooliganism way.",
+        "b": "Don't count him among hooligans!",
+        "avi": "Anh ta đối xử với mọi người với thái độ côn đồ.",
+        "bvi": "Ðừng liệt anh ta vào hạng côn đồ!"
+      },
+      {
+        "a": "The robber swooped up her hand-bag.",
+        "b": "Do you remember the gangster's car number?",
+        "avi": "Tên cướp giật lấy cái túi xách tay của cô ta.",
+        "bvi": "Anh có nhớ số xe của tên cướp đó không?"
+      }
+    ]
+  },
+  {
+    "id": 2409,
+    "title": "Bài 49",
+    "pairs": [
+      {
+        "a": "They are going to the court.",
+        "b": "They need the services of a good lawyer.",
+        "avi": "Họ sẽ ra tòa.",
+        "bvi": "Họ cần sự giúp đỡ của một luật sư giỏi."
+      },
+      {
+        "a": "Your house was broken into last week.",
+        "b": "We were burgled while we were on holiday.",
+        "avi": "Tuần rồi nhà bạn đã bị trộm đến viếng.",
+        "bvi": "Chúng tôi bị trộm viếng nhà vào lúc đi nghỉ mát."
+      },
+      {
+        "a": "What happened last night?",
+        "b": "Burglar had broken in our house.",
+        "avi": "Ðã xảy ra chuyện gì đêm qua?",
+        "bvi": "Những tên trộm đã đột nhập vào nhà chúng tôi."
+      },
+      {
+        "a": "The shoplifting is out of hand.",
+        "b": "His house was broken into last week.",
+        "avi": "Nạn trộm cắp ngoài tầm kiểm soát rồi.",
+        "bvi": "Tuần rồi nhà anh ấy đã bị trộm đến viếng."
+      }
+    ]
+  },
+  {
+    "id": 2410,
+    "title": "Bài 50",
+    "pairs": [
+      {
+        "a": "His house was broken into last week.",
+        "b": "He broke out in a cold sweat.",
+        "avi": "Tuần rồi nhà anh ấy đã bị trộm đến viếng.",
+        "bvi": "Anh ta sợ đến toát mồ hôi lạnh."
+      },
+      {
+        "a": "They're beginning to suspect him.",
+        "b": "He's a thief.",
+        "avi": "Họ đã bắt đầu nghi ngờ anh ấy.",
+        "bvi": "Anh ấy là tên ăn cắp."
+      },
+      {
+        "a": "Bribery is a vile practice.",
+        "b": "Some people are calling it a daylight robbery.",
+        "avi": "Ăn hối lộ là một thói đồi bại.",
+        "bvi": "Có người gọi đó là hành động ăn cướp giữa ban ngày."
+      },
+      {
+        "a": "He is a shoplifter.",
+        "b": "Has he ever been convicted of a felony?",
+        "avi": "Hắn là kẻ ăn cắp trong siêu thị.",
+        "bvi": "Hắn đã từng bị kết án trọng tội chưa?"
+      }
+    ]
+  },
+  {
+    "id": 2411,
+    "title": "Bài 51",
+    "pairs": [
+      {
+        "a": "He seems at little nervous.",
+        "b": "He's a pickpocket.",
+        "avi": "Hắn có vẻ hơi hồi hộp.",
+        "bvi": "Hắn là một tên móc túi."
+      },
+      {
+        "a": "Do you know anyone who has been mugged?",
+        "b": "It's professor Tan.",
+        "avi": "Bạn có biết ai đã từng bị trấn lột không?",
+        "bvi": "Ðó là giáo sư Tân."
+      },
+      {
+        "a": "She dressed a child up as a pirate.",
+        "b": "She knew he didn't like it.",
+        "avi": "Bà ta cho một đứa bé ăn mặc như hải tặc.",
+        "bvi": "Bà ấy biết rằng nó không thích như vậy."
+      },
+      {
+        "a": "The planet stooged about.",
+        "b": "The hijackers set the hostages free.",
+        "avi": "Chiếc máy bay đã bay quanh chờ hạ cánh.",
+        "bvi": "Bọn không tặc trả tự do cho những con tin."
+      }
+    ]
+  },
+  {
+    "id": 2412,
+    "title": "Bài 52",
+    "pairs": [
+      {
+        "a": "You got anything on these gold store robberies?",
+        "b": "The gold store was mugged in broad daylight.",
+        "avi": "Có bất cứ thông tin gì về vụ cướp tiệm vàng chưa?",
+        "bvi": "Tiệm vàng bị cướp giữa ban ngày."
+      },
+      {
+        "a": "Were you held up by bandits?",
+        "b": "The hooligans robbed us of all our money.",
+        "avi": "Bạn bị cướp tấn công à?",
+        "bvi": "Bọn du côn cướp hết tiền của chúng tôi."
+      },
+      {
+        "a": "Do you know about Jack getting arrested?",
+        "b": "He was nabbed by the police for robbing.",
+        "avi": "Anh có biết việc Jack bị bắt không?",
+        "bvi": "Anh ta bị cảnh sát bắt quả tang ăn cướp."
+      },
+      {
+        "a": "Did you hear from them?",
+        "b": "Two businessmen have been kidnapped by terrorists.",
+        "avi": "Rồi bạn có nhận được tin gì từ họ không?",
+        "bvi": "Hai nhà doanh nghiệp đã bị bọn khủng bố bắt cóc."
+      }
+    ]
+  },
+  {
+    "id": 2413,
+    "title": "Bài 53",
+    "pairs": [
+      {
+        "a": "Two businessmen have been kidnapped by terrorists.",
+        "b": "They are the professional assassins.",
+        "avi": "Hai nhà doanh nghiệp đã bị bọn khủng bố bắt cóc.",
+        "bvi": "Bọn chúng là những tay giết mướn chuyên nghiệp."
+      },
+      {
+        "a": "He was caught in the act.",
+        "b": "Has he been found guilty?",
+        "avi": "Anh ta bị bắt quả tang.",
+        "bvi": "Có đúng anh ta là tội phạm không?"
+      },
+      {
+        "a": "Has he been found guilty?",
+        "b": "He was charged with receiving stolen goods.",
+        "avi": "Có đúng anh ta là tội phạm không?",
+        "bvi": "Anh ấy bị buộc tội vì nhận đồ ăn cắp."
+      },
+      {
+        "a": "All of them are as silent as the dead.",
+        "b": "The bandits divided their loot.",
+        "avi": "Tất cả bọn chúng đều câm như hến.",
+        "bvi": "Bọn chúng chia nhau tài sản cướp được."
+      }
+    ]
+  },
+  {
+    "id": 2414,
+    "title": "Bài 54",
+    "pairs": [
+      {
+        "a": "The bandits divided their loot.",
+        "b": "The mob looted many shops in the area.",
+        "avi": "Bọn chúng chia nhau tài sản cướp được.",
+        "bvi": "Bọn côn đồ cướp phá nhiều cửa tiệm trong vùng."
+      },
+      {
+        "a": "The mob looted many shops in the area.",
+        "b": "They will be shot on sight.",
+        "avi": "Bọn côn đồ cướp phá nhiều cửa tiệm trong vùng.",
+        "bvi": "Bọn chúng sẽ bị bắn ngay khi cảnh sát phát hiện."
+      },
+      {
+        "a": "He, who was innocent, was found guilty.",
+        "b": "He was sentenced to five years hard labour.",
+        "avi": "Anh ấy là người vô tội, lại bị kết án.",
+        "bvi": "Anh ấy bị kết án 5 năm tù khổ sai."
+      },
+      {
+        "a": "I don't know where she is now.",
+        "b": "I'm worrying that she may be lost.",
+        "avi": "Tôi không biết hiện giờ cô ấy ở đâu.",
+        "bvi": "Tôi đang lo là cô ấy bị lạc."
+      }
+    ]
+  },
+  {
+    "id": 2415,
+    "title": "Bài 55",
+    "pairs": [
+      {
+        "a": "I'm worrying that she may be lost.",
+        "b": "She could be sick.",
+        "avi": "Tôi đang lo là cô ấy bị lạc.",
+        "bvi": "Có thể là cô ấy bị bệnh rồi."
+      },
+      {
+        "a": "She could be sick.",
+        "b": "She was held in custody pending trial.",
+        "avi": "Có thể là cô ấy bị bệnh rồi.",
+        "bvi": "Cô ấy bị tống giam để chờ xét xử."
+      },
+      {
+        "a": "I forgot to show you the new pricing chart.",
+        "b": "Will you please quote for the following items.",
+        "avi": "Tôi quên cho anh xem bảng giá mới.",
+        "bvi": "Xin bạn vui lòng báo giá về những món hàng sau đây."
+      },
+      {
+        "a": "Will you please quote for the following items.",
+        "b": "We don't do business with foreign companies.",
+        "avi": "Xin bạn vui lòng báo giá về những món hàng sau đây.",
+        "bvi": "Chúng tôi không kinh doanh với công ty nước ngoài."
+      }
+    ]
+  },
+  {
+    "id": 2416,
+    "title": "Bài 56",
+    "pairs": [
+      {
+        "a": "I would like to see what you have.",
+        "b": "We are in the oil business.",
+        "avi": "Tôi muốn xem các mặt hàng mà bạn có.",
+        "bvi": "Chúng tôi kinh doanh xăng dầu."
+      },
+      {
+        "a": "Is he the boss?",
+        "b": "He runs a thriving grocery business.",
+        "avi": "Ông ấy là chủ à?",
+        "bvi": "Ông ấy quản lý một cửa hàng tạp hóa rất phát đạt."
+      },
+      {
+        "a": "Why is the bond market freaking out?",
+        "b": "The supply does not answer the demand.",
+        "avi": "Tại sao thị trường trái phiếu đang phản ứng tiêu cực?",
+        "bvi": "Cung không đủ cầu."
+      },
+      {
+        "a": "I haven't made a sale all week.",
+        "b": "There is no demand for these articles.",
+        "avi": "Cả tuần tôi không bán được cái gì.",
+        "bvi": "Những loại hàng này không có nhu cầu."
+      }
+    ]
+  },
+  {
+    "id": 2417,
+    "title": "Bài 57",
+    "pairs": [
+      {
+        "a": "The population here must be thin.",
+        "b": "This city is really comfortable to live in.",
+        "avi": "Dân cư ở đây hẳn là thưa thớt.",
+        "bvi": "Thành phố này thật dễ sống."
+      },
+      {
+        "a": "This city is really comfortable to live in.",
+        "b": "No other city can match it.",
+        "avi": "Thành phố này thật dễ sống.",
+        "bvi": "Không thành phố nào sánh được với nó."
+      },
+      {
+        "a": "No other city can match it.",
+        "b": "It's heaven!",
+        "avi": "Không thành phố nào sánh được với nó.",
+        "bvi": "Cứ như là thiên đường."
+      },
+      {
+        "a": "Children like drink powdered milk.",
+        "b": "Powdered milk is imported to Vietnam.",
+        "avi": "Bọn trẻ thích uống sữa bột.",
+        "bvi": "Sữa bột được nhập khẩu vào Việt Nam."
+      }
+    ]
+  },
+  {
+    "id": 2418,
+    "title": "Bài 58",
+    "pairs": [
+      {
+        "a": "Powdered milk is imported to Vietnam.",
+        "b": "Imports are rising.",
+        "avi": "Sữa bột được nhập khẩu vào Việt Nam.",
+        "bvi": "Nhập khẩu đang tăng."
+      },
+      {
+        "a": "Imports are rising.",
+        "b": "Export are falling.",
+        "avi": "Nhập khẩu đang tăng.",
+        "bvi": "Xuất khẩu đang giảm."
+      },
+      {
+        "a": "Inflation has reached record levels.",
+        "b": "Prices are rising.",
+        "avi": "Sự lạm phát đã đạt mức kỷ lục.",
+        "bvi": "Giá cả đang tăng."
+      },
+      {
+        "a": "Smuggling is already rife.",
+        "b": "Prices are falling.",
+        "avi": "Nạn buôn lậu hiện đang tràn lan.",
+        "bvi": "Giá cả đang giảm."
+      }
+    ]
+  },
+  {
+    "id": 2419,
+    "title": "Bài 59",
+    "pairs": [
+      {
+        "a": "The government issued some laws.",
+        "b": "The price level is steady.",
+        "avi": "Chính phủ đã ban hành một số luật.",
+        "bvi": "Mức giá được ổn định."
+      },
+      {
+        "a": "The price level is steady.",
+        "b": "Business is good.",
+        "avi": "Mức giá được ổn định.",
+        "bvi": "Làm ăn tốt."
+      },
+      {
+        "a": "People say that he is a lady-killer.",
+        "b": "He is a bigamist.",
+        "avi": "Người ta nói rằng anh ấy là một người đào hoa.",
+        "bvi": "Anh ta phạm tội song hôn."
+      },
+      {
+        "a": "He is a bigamist.",
+        "b": "Women prefer monogamy.",
+        "avi": "Anh ta phạm tội song hôn.",
+        "bvi": "Phụ nữ thích một vợ, một chồng."
+      }
+    ]
+  },
+  {
+    "id": 2420,
+    "title": "Bài 60",
+    "pairs": [
+      {
+        "a": "Women prefer monogamy.",
+        "b": "Men prefer polygamy.",
+        "avi": "Phụ nữ thích một vợ, một chồng.",
+        "bvi": "Ðàn ông thích nhiều vợ."
+      },
+      {
+        "a": "Men prefer polygamy.",
+        "b": "Divorce is on the increase.",
+        "avi": "Ðàn ông thích nhiều vợ.",
+        "bvi": "Tình trạng ly hôn đang gia tăng."
+      },
+      {
+        "a": "It's a trick, understand?",
+        "b": "The police arrested him and his two accomplices.",
+        "avi": "Ðó là trò lừa đảo, hiểu không?",
+        "bvi": "Cảnh sát đã bắt giam anh ta và hai tòng phạm."
+      },
+      {
+        "a": "He was acquitted of his crime.",
+        "b": "The jury acquitted him of murder.",
+        "avi": "Anh ta được tha bổng.",
+        "bvi": "Quan tòa tha bổng anh ta khỏi tội sát nhân."
+      }
+    ]
+  },
+  {
+    "id": 2421,
+    "title": "Bài 61",
+    "pairs": [
+      {
+        "a": "The jury acquitted him of murder.",
+        "b": "Lack of evidence resulted in his acquittal.",
+        "avi": "Quan tòa tha bổng anh ta khỏi tội sát nhân.",
+        "bvi": "Vì thiếu chứng cớ nên anh ta được tha bổng."
+      },
+      {
+        "a": "I'm curious to know what she said.",
+        "b": "She admonished us to seek professional help.",
+        "avi": "Tôi tò mò muốn biết bà ấy đã nói gì.",
+        "bvi": "Bà ấy khuyên chúng tôi nên tìm sự giúp đỡ về chuyên môn."
+      },
+      {
+        "a": "Which side would they choose?",
+        "b": "I can't guess which one can be chosen.",
+        "avi": "Họ sẽ chọn cái nào?",
+        "bvi": "Tôi không đoán được cái nào sẽ được chọn."
+      },
+      {
+        "a": "I don't like this.",
+        "b": "But you have to admit, it's working.",
+        "avi": "Tôi không thích cái này.",
+        "bvi": "Nhưng bạn phải thừa nhận, nó hiệu quả mà."
+      }
+    ]
+  },
+  {
+    "id": 2422,
+    "title": "Bài 62",
+    "pairs": [
+      {
+        "a": "He is always a hot-tempered man.",
+        "b": "He's rude and he yells a lot.",
+        "avi": "Ông ấy luôn là người nóng tính.",
+        "bvi": "Ông ta rất thô lỗ và thường xuyên la hét."
+      },
+      {
+        "a": "There is no crime here.",
+        "b": "Police patrol the streets at night.",
+        "avi": "Ở đây không có tội phạm.",
+        "bvi": "Cảnh sát đi tuần tra thành phố vào ban đêm."
+      },
+      {
+        "a": "I am kicking the tires on a couple deals.",
+        "b": "How's your new job working out?",
+        "avi": "Tôi đang có nhiều dự án.",
+        "bvi": "Công việc mới tiến hành thế nào?"
+      },
+      {
+        "a": "Where did she go?",
+        "b": "Maria went to a restaurant.",
+        "avi": "Cô ấy đi đâu rồi?",
+        "bvi": "Maria đi đến nhà hàng."
+      }
+    ]
+  },
+  {
+    "id": 2423,
+    "title": "Bài 63",
+    "pairs": [
+      {
+        "a": "Her act of bravery merits mention in dispatches.",
+        "b": "She is awarded a medal for bravery.",
+        "avi": "Hành động can đảm của bà ấy đáng được tuyên dương.",
+        "bvi": "Bà ấy được tặng một huân chương vì lòng dũng cảm."
+      },
+      {
+        "a": "She is really talented.",
+        "b": "She was a famous actress.",
+        "avi": "Cô ấy tài giỏi thật đấy.",
+        "bvi": "Cô ấy đã là một diễn viên nổi tiếng."
+      },
+      {
+        "a": "I will travel to Can Tho.",
+        "b": "Da Lat is better know than Can Tho.",
+        "avi": "Tôi sẽ đi du lịch đến Cần thơ.",
+        "bvi": "Ðà Lạt nổi tiếng hơn Cần Thơ."
+      },
+      {
+        "a": "Lazy children usually played truant.",
+        "b": "Children would rather play than study.",
+        "avi": "Bọn trẻ lười biếng thường hay trốn học.",
+        "bvi": "Trẻ em thích chơi hơn học."
+      }
+    ]
+  },
+  {
+    "id": 2424,
+    "title": "Bài 64",
+    "pairs": [
+      {
+        "a": "Are you going to college?",
+        "b": "How do you feel about Cambridge?",
+        "avi": "Bạn có định vào đại học không?",
+        "bvi": "Bạn cảm nghĩ thế nào về Cambridge?"
+      },
+      {
+        "a": "I always drink with friend.",
+        "b": "Can I offer you a drink?",
+        "avi": "Tôi luôn luôn uống rượu với bạn bè.",
+        "bvi": "Tôi có thể đề nghị với bạn một thức uống được không?"
+      },
+      {
+        "a": "I always have coffee in the morning.",
+        "b": "You ever get that?",
+        "avi": "Tôi luôn uống cà phê vào buổi sáng.",
+        "bvi": "Anh đã từng uống thứ này bao giờ chưa?"
+      },
+      {
+        "a": "This place looks like it has been through a war.",
+        "b": "They elected a new president.",
+        "avi": "Nơi này trông như vừa trải qua một cuộc chiến tranh vậy.",
+        "bvi": "Họ đã bầu chọn một tổng thống mới."
+      }
+    ]
+  },
+  {
+    "id": 2425,
+    "title": "Bài 65",
+    "pairs": [
+      {
+        "a": "Why do we need to save money?",
+        "b": "The times are bad.",
+        "avi": "Tại sao chúng ta cần tiết kiệm tiền?",
+        "bvi": "Thời buổi làm ăn khó khăn."
+      },
+      {
+        "a": "I wanted to cry for help.",
+        "b": "You just need to point to it.",
+        "avi": "Tôi muốn kêu cứu.",
+        "bvi": "Bạn chỉ cần chỉ vào nó thôi."
+      },
+      {
+        "a": "Don't panic!",
+        "b": "I've been robbed!",
+        "avi": "Ðừng hốt hoảng!",
+        "bvi": "Tôi bị cướp!"
+      },
+      {
+        "a": "What have you done to your face?",
+        "b": "Help me!",
+        "avi": "Mặt của bạn làm sao vậy?",
+        "bvi": "Cứu tôi!"
+      }
+    ]
+  },
+  {
+    "id": 2426,
+    "title": "Bài 66",
+    "pairs": [
+      {
+        "a": "Who is that guy?",
+        "b": "Stop that thief!",
+        "avi": "Gã đó là ai vậy?",
+        "bvi": "Bắt tên trộm!"
+      },
+      {
+        "a": "Stop that thief!",
+        "b": "Don't let that man get away!",
+        "avi": "Bắt tên trộm!",
+        "bvi": "Ðừng để tên đó chạy thoát!"
+      },
+      {
+        "a": "Did he tell you that he was the thief?",
+        "b": "He stole my wallet!",
+        "avi": "Hắn có thừa nhận hắn là tên trộm không?",
+        "bvi": "Hắn ăn cắp ví tiền của tôi!"
+      },
+      {
+        "a": "Do you know where his family is now?",
+        "b": "The slum area.",
+        "avi": "Bạn có biết hiện tại gia đình anh ta sống ở đâu không?",
+        "bvi": "Khu nhà ổ chuột."
+      }
+    ]
+  },
+  {
+    "id": 2427,
+    "title": "Bài 67",
+    "pairs": [
+      {
+        "a": "How did you get these?",
+        "b": "We have both.",
+        "avi": "Làm sao anh có những thứ này?",
+        "bvi": "Chúng tôi có cả hai thứ."
+      },
+      {
+        "a": "Do you read newspapers everyday?",
+        "b": "A liar is not believed when he speaks the truth.",
+        "avi": "Bạn đọc báo hằng ngày chứ?",
+        "bvi": "Kẻ nói dối cho dù nói ra sự thật thì cũng chẳng ai tin."
+      },
+      {
+        "a": "I often read newspapers to sleep easily.",
+        "b": "Which are the best papers?",
+        "avi": "Tôi thường đọc báo để có thể dễ ngủ.",
+        "bvi": "Những tờ báo nào hay nhất?"
+      },
+      {
+        "a": "He turned a deaf ear to the rumors.",
+        "b": "I read about him in the paper this week.",
+        "avi": "Ông ấy phớt lờ đi các tin đồn.",
+        "bvi": "Tôi đã đọc về ông ấy trong báo tuần này."
+      }
+    ]
+  },
+  {
+    "id": 2428,
+    "title": "Bài 68",
+    "pairs": [
+      {
+        "a": "It is a party paper.",
+        "b": "Who writes the political column?",
+        "avi": "Nó là tờ báo đảng.",
+        "bvi": "Ai viết mục chính trị?"
+      },
+      {
+        "a": "There'll be some sport reviews on TV.",
+        "b": "Which game do you play?",
+        "avi": "Sẽ có một số tin thể thao chiếu trên Tivi.",
+        "bvi": "Bạn chơi môn thể thao nào?"
+      },
+      {
+        "a": "You shouldn't read gutter press.",
+        "b": "Can I borrow your papers?",
+        "avi": "Bạn không nên đọc báo lá cải.",
+        "bvi": "Tôi có thể mượn tờ báo của bạn không?"
+      },
+      {
+        "a": "Don't believe the newspaper account.",
+        "b": "Which is the most impartial paper?",
+        "avi": "Ðừng tin những gì báo chí đã thuật lại.",
+        "bvi": "Báo nào được cho là trung thực nhất?"
+      }
+    ]
+  },
+  {
+    "id": 2429,
+    "title": "Bài 69",
+    "pairs": [
+      {
+        "a": "They try to arrest the criminals.",
+        "b": "Which of them gives oftenest news from criminal?",
+        "avi": "Họ cố gắng bắt những tên tội phạm.",
+        "bvi": "Báo nào thường đăng tin về tội phạm nhất?"
+      },
+      {
+        "a": "She looked in the newspaper every day.",
+        "b": "No one else will believe her.",
+        "avi": "Cô ấy xem báo mỗi ngày.",
+        "bvi": "Sẽ chẳng ai tin cô ấy."
+      },
+      {
+        "a": "How much altogether?",
+        "b": "Twenty five thousand dong, madam.",
+        "avi": "Bao nhiêu tất cả?",
+        "bvi": "Thưa bà, hai mươi lăm nghìn đồng ạ."
+      },
+      {
+        "a": "Twenty five thousand dong, madam.",
+        "b": "Please wrap them all up together.",
+        "avi": "Thưa bà, hai mươi lăm nghìn đồng ạ.",
+        "bvi": "Xin gói tất cả lại giùm."
+      }
+    ]
+  },
+  {
+    "id": 2430,
+    "title": "Bài 70",
+    "pairs": [
+      {
+        "a": "There is a bargain sale going on now.",
+        "b": "I am having an economy drive in country.",
+        "avi": "Hàng hiện đang giảm giá.",
+        "bvi": "Tôi đang tham gia cuộc vận động tiết kiệm trong nước."
+      },
+      {
+        "a": "What do we need to buy?",
+        "b": "Is there a news stall near here?",
+        "avi": "Chúng ta cần mua gì?",
+        "bvi": "Có quầy báo nào gần đây không?"
+      },
+      {
+        "a": "Have you any Nhan Dan newspaper?",
+        "b": "My shop hasn't it.",
+        "avi": "Bạn có bán báo Nhân Dân không?",
+        "bvi": "Tiệm tôi không bán nó."
+      },
+      {
+        "a": "I looked in the newspaper every day.",
+        "b": "Which of them gives oftenest news from Vietnam?",
+        "avi": "Tôi xem báo mỗi ngày.",
+        "bvi": "Báo nào thường đăng tin tức Việt Nam nhất?"
+      }
+    ]
+  },
+  {
+    "id": 2431,
+    "title": "Bài 71",
+    "pairs": [
+      {
+        "a": "Have you read the paper?",
+        "b": "I haven't read today's newspaper yet.",
+        "avi": "Bạn đọc báo chưa?",
+        "bvi": "Tôi vẫn chưa đọc báo của ngày hôm nay."
+      },
+      {
+        "a": "What do you like reading?",
+        "b": "Do you have weekly or monthly magazine?",
+        "avi": "Anh thích đọc loại gì?",
+        "bvi": "Bạn có các tuần san hoặc nguyệt san không?"
+      },
+      {
+        "a": "Are you listening to the radio?",
+        "b": "This is CNN Breaking News.",
+        "avi": "Bạn đang nghe đài ra-đi-ô phải không?",
+        "bvi": "Ðây là bản tin nhanh của đài CNN."
+      },
+      {
+        "a": "Do you live and breathe Facebook?",
+        "b": "It gives you all the news.",
+        "avi": "Cậu sống và thở với Facebook à?",
+        "bvi": "Nó cho bạn mọi tin tức."
+      }
+    ]
+  },
+  {
+    "id": 2432,
+    "title": "Bài 72",
+    "pairs": [
+      {
+        "a": "He is a writer and a journalist.",
+        "b": "Don't believe the newspaper account.",
+        "avi": "Anh ấy là nhà văn kiêm nhà báo.",
+        "bvi": "Ðừng tin những gì báo chí đã thuật lại."
+      },
+      {
+        "a": "Do you have weekly or monthly magazine?",
+        "b": "We have both.",
+        "avi": "Bạn có các tuần san hoặc nguyệt san không?",
+        "bvi": "Chúng tôi có cả hai thứ."
+      },
+      {
+        "a": "Put that on your Facebook page.",
+        "b": "My facebook account was deleted by the man.",
+        "avi": "Cho nó lên facebook đi.",
+        "bvi": "Người ta xóa mất tài khoản facebook của tôi."
+      }
+    ]
+  }
+]

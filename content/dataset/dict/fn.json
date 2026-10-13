@@ -1,1 +1,17 @@
-[{"h":"FN","segs":[{"k":"m","t":"Viết tắt của politics foreign national"}],"k":"fn"},{"h":"fn.","segs":[{"k":"m","t":"Viết tắt của publishing footnote"}],"k":"fn."},{"h":"FNC","segs":[{"k":"m","t":"(Fedcral Networking Council) hội đồng liên kết mạng liên bang (Hoa Kỳ)."}],"k":"fnc"},{"h":"FNMA","segs":[{"k":"m","t":"Viết tắt của finance Federal National Mortgage Association"}],"k":"fnma"},{"h":"FNQ","segs":[{"k":"m","t":"Viết tắt của Australia Far North Queensland"}],"k":"fnq"}]
+[
+  {"h": "FN", "segs": [{"k": "m", "t": "Viết tắt của politics foreign national"}], "k": "fn"},
+  {"h": "fn.", "segs": [{"k": "m", "t": "Viết tắt của publishing footnote"}], "k": "fn."},
+  {
+    "h": "FNC",
+    "segs": [
+      {"k": "m", "t": "(Fedcral Networking Council) hội đồng liên kết mạng liên bang (Hoa Kỳ)."}
+    ],
+    "k": "fnc"
+  },
+  {
+    "h": "FNMA",
+    "segs": [{"k": "m", "t": "Viết tắt của finance Federal National Mortgage Association"}],
+    "k": "fnma"
+  },
+  {"h": "FNQ", "segs": [{"k": "m", "t": "Viết tắt của Australia Far North Queensland"}], "k": "fnq"}
+]

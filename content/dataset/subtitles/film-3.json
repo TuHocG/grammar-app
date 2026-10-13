@@ -1,1 +1,397 @@
-{"id":3,"code":"A 4","group":"A","n":4,"title":"A 4","first_line":"OK. Your name. What's your name?","video":"A  4.avi","duration":457.8,"lines":[{"e":3.46,"en":"OK. Your name. What's your name?","vi":"Vâng. Tên của ông ạ. Tên ông là gì?","s":0.0},{"e":7.25,"en":"What's your name?","vi":"Tên ông là gì?","s":3.46},{"e":10.49,"en":"Uh... Brown! Jack Brown.","vi":"À... Brown! Jack Brown.","s":7.25},{"e":13.24,"en":"OK. And what is your address?","vi":"Vâng, và xin cho biết địa chỉ của ông.","s":10.49},{"e":17.59,"en":"325","vi":"325","s":13.24},{"e":18.65,"en":"What?","vi":"Sao ạ?","s":17.59},{"e":21.07,"en":"325 Park Street.","vi":"325 đường Park.","s":18.65},{"e":24.65,"en":"Good. And what is your phone number?","vi":"Ðược rồi. Và số điện thoại của ông là bao nhiêu?","s":21.07},{"e":29.1,"en":"543-2100.","vi":"543-2100.","s":24.65},{"e":34.14,"en":"543-1200. No. No!","vi":"543-1200. Không không.","s":29.1},{"e":41.86,"en":"543-2100. OK, OK. Now what's your job?","vi":"543-2100. Vâng bây giờ ông làm nghề gì?","s":34.14},{"e":43.4,"en":"I'm a thief.","vi":"Tôi là một tên trộm.","s":41.86},{"e":49.56,"en":"You are a thief. OK. Next!","vi":"Ông là một tên trộm. Ðược rồi. Người tiếp theo!","s":43.4},{"e":52.61,"en":"...","vi":"...","s":49.56},{"e":55.12,"en":"Oh, excuse me!","vi":"Xin lỗi!","s":52.61},{"e":57.29,"en":"Oh, no. Excuse me!","vi":"Ồ xin lỗi!","s":55.12},{"e":60.68,"en":"Are you a secretary here?","vi":"Cô là thư ký ở đây à?","s":57.29},{"e":62.43,"en":"Yes, I am.","vi":"Vâng.","s":60.68},{"e":67.77,"en":"Oh, I'm a policeman. Uh, what's your name?","vi":"Tôi là cảnh sát. Tên cô là gì?","s":62.43},{"e":71.1,"en":"My name is Judy. What's your name?","vi":"Tên tôi là Judy. Tên ông là gì?","s":67.77},{"e":76.01,"en":"My name is Bob. Judy, could I have your phone number?","vi":"Tên tôi là Bob. Judy tôi có thể xin số điện thoại của cô không?","s":71.1},{"e":83.38,"en":"Sure. It's 432- Umm... oh, excuse me, Bob.","vi":"Ðược ạ. Số 432 ồ xin lỗi Bob.","s":76.01},{"e":86.07,"en":"Bye, Judy.","vi":"Tạm biệt Judy.","s":83.38},{"e":96.64,"en":"...","vi":"...","s":86.07},{"e":100.71,"en":"Hi, Bill. This is Jack.","vi":"Chào Bill, Jack đây.","s":96.64},{"e":103.31,"en":"Jack? Jack Brown?","vi":"Jack nào? Jack Brown phải không?","s":100.71},{"e":106.28,"en":"Yeah, it's me, Jack.","vi":"Ừ Jack nè.","s":103.31},{"e":108.56,"en":"How are you, Jack?","vi":"Cậu khỏe không jack?","s":106.28},{"e":116.49,"en":"I'm fine, thanks. Well, no... no, I'm not fine.","vi":"Mình khỏe. À không... mình gặp chuyện rồi.","s":108.56},{"e":124.09,"en":"Uh Jack, where are you?","vi":"Jack, cậu ở đâu?","s":116.49},{"e":128.98,"en":"Well, Bill, I'm in jail.","vi":"À Bill, mình đang ở tù.","s":124.09},{"e":131.25,"en":"In jail. In jail?","vi":"Trong tù. Ở tù à?","s":128.98},{"e":133.11,"en":"Yes, in jail.","vi":"Ừ ở tù.","s":131.25},{"e":136.92,"en":"Where is the jail?","vi":"Tù chỗ nào?","s":133.11},{"e":141.06,"en":"It's here in New York on River Road.","vi":"Ở New York đường River nè.","s":136.92},{"e":142.98,"en":"What's the address?","vi":"Số mấy?","s":141.06},{"e":145.34,"en":"I don't know. Wait a minute.","vi":"Mình không biết nữa. Ðợi chút.","s":142.98},{"e":147.54,"en":"Hey! What's the address here?","vi":"Này, địa chỉ ở đây là gì?","s":145.34},{"e":150.74,"en":"It's 749 River Road.","vi":"749 đường River.","s":147.54},{"e":156.7,"en":"Bill? Yeah, it's 749 River Road.","vi":"Bill à. Này địa chỉ là 749 đường River.","s":150.74},{"e":158.76,"en":"And what's the phone number?","vi":"Còn số điện thoại?","s":156.7},{"e":160.97,"en":"Phone number? Wait a minute.","vi":"Số điện thoại à, chờ chút.","s":158.76},{"e":163.83,"en":"Hey! And what's the phone number here?","vi":"Này, còn số điện thoại ở đây là bao nhiêu?","s":160.97},{"e":168.63,"en":"It's 6... 3... 2... 5... 4... 0... 1.","vi":"là 6... 3... 2... 5... 4... 0... 1.","s":163.83},{"e":175.99,"en":"Bill, the number is 632-5401. OK?","vi":"Bill nè, số điện thoại là 632-5401. Ðược chưa?","s":168.63},{"e":179.92,"en":"632-5401.","vi":"632-5401.","s":175.99},{"e":180.94,"en":"Yeah, that's right.","vi":"ừ được rồi.","s":179.92},{"e":182.63,"en":"OK, bye, Jack.","vi":"ừ tạm biệt Jack.","s":180.94},{"e":188.37,"en":"Wait! Wait! Wait a minute. Hey! Bill, Bill, you've got to help me! Please. Come here now!","vi":"Khoan! Khoan! Chờ chút! Này! Bill, Bill Cậu giúp tớ nhé! Làm ơn đi. Bây giờ đến đây nhé!","s":182.63},{"e":191.43,"en":"I can't. I'm busy.","vi":"Mình không thể. Mình đang bận.","s":188.37},{"e":193.97,"en":"Busy? What are you doing?","vi":"Bận gì? Cậu đang làm gì vậy?","s":191.43},{"e":196.0,"en":"I'm swimming. Bye, Jack.","vi":"Mình đang bơi. Chào nhé Jack.","s":193.97},{"e":208.57,"en":"...","vi":"...","s":196.0},{"e":212.16,"en":"Sally, I'm so happy!","vi":"Sally, mình rất vui!","s":208.57},{"e":214.02,"en":"Why are you so happy?","vi":"Vui chuyện gì?","s":212.16},{"e":216.51,"en":"I'm going to France tomorrow.","vi":"Ngày mai mình sẽ đi Pháp.","s":214.02},{"e":219.16,"en":"France? How are you going there?","vi":"Pháp à? Bạn đến đó bằng gì?","s":216.51},{"e":221.35,"en":"I'm going by airplane.","vi":"Mình đi máy bay.","s":219.16},{"e":225.22,"en":"Oh, that's so exciting! How long will you stay?","vi":"À hay đấy! Bạn sẽ ở đó bao lâu?","s":221.35},{"e":228.69,"en":"I'll stay in France for 2 weeks.","vi":"Mình sẽ ở Pháp 2 tuần.","s":225.22},{"e":231.68,"en":"Wow, that's a long time.","vi":"À lâu đấy.","s":228.69},{"e":233.7,"en":"I'm so happy!","vi":"Mình vui lắm!","s":231.68},{"e":235.82,"en":"How expensive is France?","vi":"Pháp đắt đỏ ra sao?","s":233.7},{"e":241.41,"en":"How expensive? I... don't know. Why?","vi":"Ðắt đỏ à? Mình không biết nữa. Sao vậy?","s":235.82},{"e":244.67,"en":"I think it's quite expensive in France.","vi":"Mình nghĩ ở Pháp đắt lắm.","s":241.41},{"e":246.23,"en":"Really?","vi":"Vậy à?","s":244.67},{"e":248.27,"en":"How much is your hotel?","vi":"Bạn ở phòng giá bao nhiêu?","s":246.23},{"e":252.98,"en":"Well... I... I'm not sure.","vi":"à mình không biết nữa.","s":248.27},{"e":255.79,"en":"How far is your hotel from Paris?","vi":"Khách sạn bạn ở cách Paris bao xa?","s":252.98},{"e":260.13,"en":"I don't know how far it is from Paris.","vi":"Mình không biết nó cách Paris bao xa nữa.","s":255.79},{"e":261.9,"en":"How much is the train?","vi":"Vé xe lửa bao nhiêu?","s":260.13},{"e":265.74,"en":"Oh, Sally, I don't know.","vi":"Ồ Sally mình không biết.","s":261.9},{"e":268.94,"en":"And the taxis? How expensive are the taxis?","vi":"Còn taxi? Taxi ở đó đắt không?","s":265.74},{"e":273.95,"en":"Taxis? I'm not...","vi":"Taxi à? Mình không...","s":268.94},{"e":277.68,"en":"And the food? How expensive is the food?","vi":"Thế còn đồ ăn? Ðắt không?","s":273.95},{"e":285.05,"en":"Oh... I... just don't know. Oh, Sally, I'm so sad!","vi":"Ồ mình chẳng biết gì cả. Sally, mình buồn quá!","s":277.68},{"e":289.43,"en":"How long am I going to be in here?","vi":"Tôi sẽ ở đây bao lâu?","s":285.05},{"e":291.41,"en":"A long time.","vi":"Lâu đấy.","s":289.43},{"e":293.24,"en":"How long?","vi":"là bao lâu?","s":291.41},{"e":295.69,"en":"Umm... I really don't know.","vi":"ừ tôi thực sự không biết.","s":293.24},{"e":298.64,"en":"Can you check for me, please?","vi":"Anh xem giúp tôi được không?","s":295.69},{"e":300.05,"en":"OK. Yeah.","vi":"ừ được.","s":298.64},{"e":305.03,"en":"How long is it going to take?","vi":"Sẽ mất bao lâu?","s":300.05},{"e":307.14,"en":"Not long, just a minute.","vi":"Không lâu đâu. Chỉ một phút thôi.","s":305.03},{"e":308.39,"en":"How long?","vi":"Bao lâu?","s":307.14},{"e":311.29,"en":"Just a minute... Oh! Hey! I found it!","vi":"Chỉ một phút... À tôi tìm thấy rồi!","s":308.39},{"e":315.77,"en":"Good, good. So, how long am I going to be in here?","vi":"Tốt, tốt. Vậy tôi sẽ ở đây bao lâu?","s":311.29},{"e":316.91,"en":"I don't know.","vi":"Tôi không biết.","s":315.77},{"e":318.78,"en":"What's that?","vi":"Ðó là gì vậy?","s":316.91},{"e":321.5,"en":"It's my comic book. I lost it last week.","vi":"Cuốn truyện tranh của tôi. Tôi mất nó tuần trước.","s":318.78},{"e":346.83,"en":"...","vi":"...","s":321.5},{"e":351.83,"en":"Hello, I'm here to see my friend.","vi":"Xin chào, tôi đến đây thăm bạn tôi.","s":346.83},{"e":354.74,"en":"How long will you stay?","vi":"Anh sẽ ở lại bao lâu?","s":351.83},{"e":357.5,"en":"Oh, I don't know.","vi":"Tôi không biết nữa.","s":354.74},{"e":359.26,"en":"How long?","vi":"Bao lâu?","s":357.5},{"e":360.84,"en":"Oh, a few minutes.","vi":"Ồ chỉ vài phút thôi.","s":359.26},{"e":362.25,"en":"OK. Go in.","vi":"Ðược rồi vào đi.","s":360.84},{"e":377.94,"en":"...","vi":"...","s":362.25},{"e":383.37,"en":"Mrs. Brown, what time are you going to the meeting this afternoon?","vi":"Thưa bà Brown, chiều nay bà sẽ đi họp lúc mấy giờ ạ?","s":377.94},{"e":386.18,"en":"I'm going at two thirty.","vi":"Tôi sẽ đi họp lúc 2 giờ 30.","s":383.37},{"e":391.96,"en":"Two thirty. And what time will you come back?","vi":"2 giờ 30. Và bà sẽ về lúc mấy giờ ạ?","s":386.18},{"e":394.4,"en":"I'll be back at three thirty.","vi":"Tôi về lúc 3 giờ 30.","s":391.96},{"e":399.14,"en":"Three thirty. Good. Thanks.","vi":"3 giờ 30. Vâng, xin cảm ơn bà.","s":394.4},{"e":400.65,"en":"Oh, Mary.","vi":"Ồ Mary.","s":399.14},{"e":401.27,"en":"Yes?","vi":"Gì ạ?","s":400.65},{"e":403.49,"en":"What time are you going to lunch?","vi":"Cô sẽ đi ăn trưa lúc mấy giờ?","s":401.27},{"e":406.86,"en":"I'll go to lunch at eleven forty-five.","vi":"Tôi sẽ ăn trưa lúc 11 giờ 45.","s":403.49},{"e":408.9,"en":"Eleven forty-five?","vi":"11 giờ 45 à?","s":406.86},{"e":410.12,"en":"Yes, why?","vi":"Vâng, có gì không ạ?","s":408.9},{"e":415.1,"en":"Could you go at eleven thirty and take this to the bank?","vi":"Cô có thể đi lúc 11 giờ 30 và đem cái này đến ngân hàng được không?","s":410.12},{"e":416.53,"en":"Yes, of course.","vi":"Vâng được ạ.","s":415.1},{"e":417.14,"en":"Thanks.","vi":"Cảm ơn cô.","s":416.53},{"e":418.35,"en":"You're welcome.","vi":"Dạ không có chi.","s":417.14},{"e":424.26,"en":"...","vi":"...","s":418.35},{"e":426.65,"en":"I really like this place.","vi":"Tôi rất thích nơi này.","s":424.26},{"e":429.81,"en":"Oh! Good. Would you like another drink?","vi":"Ồ tốt. Cô uống thêm một ly nữa nhé?","s":426.65},{"e":432.05,"en":"Do we have time?","vi":"Ðược không cô?","s":429.81},{"e":433.96,"en":"I don't know.","vi":"Tôi không biết nữa.","s":432.05},{"e":436.02,"en":"Excuse me, waiter.","vi":"Xin lỗi, anh phục vụ ơi.","s":433.96},{"e":437.37,"en":"Yes, sir?","vi":"Vâng thưa ông.","s":436.02},{"e":439.72,"en":"What time do you close?","vi":"Ở đây đóng cửa lúc mấy giờ?","s":437.37},{"e":441.88,"en":"Tonight we close at 10 o'clock.","vi":"Tối nay chúng tôi đóng cửa lúc 10 giờ.","s":439.72},{"e":442.8,"en":"10 o'clock?","vi":"10 giờ à?","s":441.88},{"e":443.53,"en":"Yes.","vi":"Vâng.","s":442.8},{"e":446.98,"en":"Good, we have time. Let's have another drink.","vi":"Tốt lắm, chúng ta còn thời gian đấy. Chúng ta uống thêm một ly nữa nhé.","s":443.53},{"e":449.14,"en":"Excuse me, waiter.","vi":"Xin lỗi, anh phục vụ ơi.","s":446.98},{"e":449.97,"en":"Yes, sir?","vi":"Vâng gì ạ?","s":449.14},{"e":451.93,"en":"We would like more drinks, please.","vi":"Chúng tôi muốn uống nữa.","s":449.97},{"e":453.02,"en":"Certainly, sir.","vi":"Có ngay thưa ông.","s":451.93},{"e":457.75,"en":"Thank you.","vi":"Cảm ơn.","s":453.02}]}
+{
+  "id": 3,
+  "code": "A 4",
+  "group": "A",
+  "n": 4,
+  "title": "A 4",
+  "first_line": "OK. Your name. What's your name?",
+  "video": "A  4.avi",
+  "duration": 457.8,
+  "lines": [
+    {
+      "e": 3.46,
+      "en": "OK. Your name. What's your name?",
+      "vi": "Vâng. Tên của ông ạ. Tên ông là gì?",
+      "s": 0.0
+    },
+    {"e": 7.25, "en": "What's your name?", "vi": "Tên ông là gì?", "s": 3.46},
+    {"e": 10.49, "en": "Uh... Brown! Jack Brown.", "vi": "À... Brown! Jack Brown.", "s": 7.25},
+    {
+      "e": 13.24,
+      "en": "OK. And what is your address?",
+      "vi": "Vâng, và xin cho biết địa chỉ của ông.",
+      "s": 10.49
+    },
+    {"e": 17.59, "en": "325", "vi": "325", "s": 13.24},
+    {"e": 18.65, "en": "What?", "vi": "Sao ạ?", "s": 17.59},
+    {"e": 21.07, "en": "325 Park Street.", "vi": "325 đường Park.", "s": 18.65},
+    {
+      "e": 24.65,
+      "en": "Good. And what is your phone number?",
+      "vi": "Ðược rồi. Và số điện thoại của ông là bao nhiêu?",
+      "s": 21.07
+    },
+    {"e": 29.1, "en": "543-2100.", "vi": "543-2100.", "s": 24.65},
+    {"e": 34.14, "en": "543-1200. No. No!", "vi": "543-1200. Không không.", "s": 29.1},
+    {
+      "e": 41.86,
+      "en": "543-2100. OK, OK. Now what's your job?",
+      "vi": "543-2100. Vâng bây giờ ông làm nghề gì?",
+      "s": 34.14
+    },
+    {"e": 43.4, "en": "I'm a thief.", "vi": "Tôi là một tên trộm.", "s": 41.86},
+    {
+      "e": 49.56,
+      "en": "You are a thief. OK. Next!",
+      "vi": "Ông là một tên trộm. Ðược rồi. Người tiếp theo!",
+      "s": 43.4
+    },
+    {"e": 52.61, "en": "...", "vi": "...", "s": 49.56},
+    {"e": 55.12, "en": "Oh, excuse me!", "vi": "Xin lỗi!", "s": 52.61},
+    {"e": 57.29, "en": "Oh, no. Excuse me!", "vi": "Ồ xin lỗi!", "s": 55.12},
+    {"e": 60.68, "en": "Are you a secretary here?", "vi": "Cô là thư ký ở đây à?", "s": 57.29},
+    {"e": 62.43, "en": "Yes, I am.", "vi": "Vâng.", "s": 60.68},
+    {
+      "e": 67.77,
+      "en": "Oh, I'm a policeman. Uh, what's your name?",
+      "vi": "Tôi là cảnh sát. Tên cô là gì?",
+      "s": 62.43
+    },
+    {
+      "e": 71.1,
+      "en": "My name is Judy. What's your name?",
+      "vi": "Tên tôi là Judy. Tên ông là gì?",
+      "s": 67.77
+    },
+    {
+      "e": 76.01,
+      "en": "My name is Bob. Judy, could I have your phone number?",
+      "vi": "Tên tôi là Bob. Judy tôi có thể xin số điện thoại của cô không?",
+      "s": 71.1
+    },
+    {
+      "e": 83.38,
+      "en": "Sure. It's 432- Umm... oh, excuse me, Bob.",
+      "vi": "Ðược ạ. Số 432 ồ xin lỗi Bob.",
+      "s": 76.01
+    },
+    {"e": 86.07, "en": "Bye, Judy.", "vi": "Tạm biệt Judy.", "s": 83.38},
+    {"e": 96.64, "en": "...", "vi": "...", "s": 86.07},
+    {"e": 100.71, "en": "Hi, Bill. This is Jack.", "vi": "Chào Bill, Jack đây.", "s": 96.64},
+    {"e": 103.31, "en": "Jack? Jack Brown?", "vi": "Jack nào? Jack Brown phải không?", "s": 100.71},
+    {"e": 106.28, "en": "Yeah, it's me, Jack.", "vi": "Ừ Jack nè.", "s": 103.31},
+    {"e": 108.56, "en": "How are you, Jack?", "vi": "Cậu khỏe không jack?", "s": 106.28},
+    {
+      "e": 116.49,
+      "en": "I'm fine, thanks. Well, no... no, I'm not fine.",
+      "vi": "Mình khỏe. À không... mình gặp chuyện rồi.",
+      "s": 108.56
+    },
+    {"e": 124.09, "en": "Uh Jack, where are you?", "vi": "Jack, cậu ở đâu?", "s": 116.49},
+    {"e": 128.98, "en": "Well, Bill, I'm in jail.", "vi": "À Bill, mình đang ở tù.", "s": 124.09},
+    {"e": 131.25, "en": "In jail. In jail?", "vi": "Trong tù. Ở tù à?", "s": 128.98},
+    {"e": 133.11, "en": "Yes, in jail.", "vi": "Ừ ở tù.", "s": 131.25},
+    {"e": 136.92, "en": "Where is the jail?", "vi": "Tù chỗ nào?", "s": 133.11},
+    {
+      "e": 141.06,
+      "en": "It's here in New York on River Road.",
+      "vi": "Ở New York đường River nè.",
+      "s": 136.92
+    },
+    {"e": 142.98, "en": "What's the address?", "vi": "Số mấy?", "s": 141.06},
+    {
+      "e": 145.34,
+      "en": "I don't know. Wait a minute.",
+      "vi": "Mình không biết nữa. Ðợi chút.",
+      "s": 142.98
+    },
+    {
+      "e": 147.54,
+      "en": "Hey! What's the address here?",
+      "vi": "Này, địa chỉ ở đây là gì?",
+      "s": 145.34
+    },
+    {"e": 150.74, "en": "It's 749 River Road.", "vi": "749 đường River.", "s": 147.54},
+    {
+      "e": 156.7,
+      "en": "Bill? Yeah, it's 749 River Road.",
+      "vi": "Bill à. Này địa chỉ là 749 đường River.",
+      "s": 150.74
+    },
+    {"e": 158.76, "en": "And what's the phone number?", "vi": "Còn số điện thoại?", "s": 156.7},
+    {
+      "e": 160.97,
+      "en": "Phone number? Wait a minute.",
+      "vi": "Số điện thoại à, chờ chút.",
+      "s": 158.76
+    },
+    {
+      "e": 163.83,
+      "en": "Hey! And what's the phone number here?",
+      "vi": "Này, còn số điện thoại ở đây là bao nhiêu?",
+      "s": 160.97
+    },
+    {
+      "e": 168.63,
+      "en": "It's 6... 3... 2... 5... 4... 0... 1.",
+      "vi": "là 6... 3... 2... 5... 4... 0... 1.",
+      "s": 163.83
+    },
+    {
+      "e": 175.99,
+      "en": "Bill, the number is 632-5401. OK?",
+      "vi": "Bill nè, số điện thoại là 632-5401. Ðược chưa?",
+      "s": 168.63
+    },
+    {"e": 179.92, "en": "632-5401.", "vi": "632-5401.", "s": 175.99},
+    {"e": 180.94, "en": "Yeah, that's right.", "vi": "ừ được rồi.", "s": 179.92},
+    {"e": 182.63, "en": "OK, bye, Jack.", "vi": "ừ tạm biệt Jack.", "s": 180.94},
+    {
+      "e": 188.37,
+      "en": "Wait! Wait! Wait a minute. Hey! Bill, Bill, you've got to help me! Please. Come here now!",
+      "vi": "Khoan! Khoan! Chờ chút! Này! Bill, Bill Cậu giúp tớ nhé! Làm ơn đi. Bây giờ đến đây nhé!",
+      "s": 182.63
+    },
+    {"e": 191.43, "en": "I can't. I'm busy.", "vi": "Mình không thể. Mình đang bận.", "s": 188.37},
+    {
+      "e": 193.97,
+      "en": "Busy? What are you doing?",
+      "vi": "Bận gì? Cậu đang làm gì vậy?",
+      "s": 191.43
+    },
+    {
+      "e": 196.0,
+      "en": "I'm swimming. Bye, Jack.",
+      "vi": "Mình đang bơi. Chào nhé Jack.",
+      "s": 193.97
+    },
+    {"e": 208.57, "en": "...", "vi": "...", "s": 196.0},
+    {"e": 212.16, "en": "Sally, I'm so happy!", "vi": "Sally, mình rất vui!", "s": 208.57},
+    {"e": 214.02, "en": "Why are you so happy?", "vi": "Vui chuyện gì?", "s": 212.16},
+    {
+      "e": 216.51,
+      "en": "I'm going to France tomorrow.",
+      "vi": "Ngày mai mình sẽ đi Pháp.",
+      "s": 214.02
+    },
+    {
+      "e": 219.16,
+      "en": "France? How are you going there?",
+      "vi": "Pháp à? Bạn đến đó bằng gì?",
+      "s": 216.51
+    },
+    {"e": 221.35, "en": "I'm going by airplane.", "vi": "Mình đi máy bay.", "s": 219.16},
+    {
+      "e": 225.22,
+      "en": "Oh, that's so exciting! How long will you stay?",
+      "vi": "À hay đấy! Bạn sẽ ở đó bao lâu?",
+      "s": 221.35
+    },
+    {
+      "e": 228.69,
+      "en": "I'll stay in France for 2 weeks.",
+      "vi": "Mình sẽ ở Pháp 2 tuần.",
+      "s": 225.22
+    },
+    {"e": 231.68, "en": "Wow, that's a long time.", "vi": "À lâu đấy.", "s": 228.69},
+    {"e": 233.7, "en": "I'm so happy!", "vi": "Mình vui lắm!", "s": 231.68},
+    {"e": 235.82, "en": "How expensive is France?", "vi": "Pháp đắt đỏ ra sao?", "s": 233.7},
+    {
+      "e": 241.41,
+      "en": "How expensive? I... don't know. Why?",
+      "vi": "Ðắt đỏ à? Mình không biết nữa. Sao vậy?",
+      "s": 235.82
+    },
+    {
+      "e": 244.67,
+      "en": "I think it's quite expensive in France.",
+      "vi": "Mình nghĩ ở Pháp đắt lắm.",
+      "s": 241.41
+    },
+    {"e": 246.23, "en": "Really?", "vi": "Vậy à?", "s": 244.67},
+    {"e": 248.27, "en": "How much is your hotel?", "vi": "Bạn ở phòng giá bao nhiêu?", "s": 246.23},
+    {"e": 252.98, "en": "Well... I... I'm not sure.", "vi": "à mình không biết nữa.", "s": 248.27},
+    {
+      "e": 255.79,
+      "en": "How far is your hotel from Paris?",
+      "vi": "Khách sạn bạn ở cách Paris bao xa?",
+      "s": 252.98
+    },
+    {
+      "e": 260.13,
+      "en": "I don't know how far it is from Paris.",
+      "vi": "Mình không biết nó cách Paris bao xa nữa.",
+      "s": 255.79
+    },
+    {"e": 261.9, "en": "How much is the train?", "vi": "Vé xe lửa bao nhiêu?", "s": 260.13},
+    {"e": 265.74, "en": "Oh, Sally, I don't know.", "vi": "Ồ Sally mình không biết.", "s": 261.9},
+    {
+      "e": 268.94,
+      "en": "And the taxis? How expensive are the taxis?",
+      "vi": "Còn taxi? Taxi ở đó đắt không?",
+      "s": 265.74
+    },
+    {"e": 273.95, "en": "Taxis? I'm not...", "vi": "Taxi à? Mình không...", "s": 268.94},
+    {
+      "e": 277.68,
+      "en": "And the food? How expensive is the food?",
+      "vi": "Thế còn đồ ăn? Ðắt không?",
+      "s": 273.95
+    },
+    {
+      "e": 285.05,
+      "en": "Oh... I... just don't know. Oh, Sally, I'm so sad!",
+      "vi": "Ồ mình chẳng biết gì cả. Sally, mình buồn quá!",
+      "s": 277.68
+    },
+    {
+      "e": 289.43,
+      "en": "How long am I going to be in here?",
+      "vi": "Tôi sẽ ở đây bao lâu?",
+      "s": 285.05
+    },
+    {"e": 291.41, "en": "A long time.", "vi": "Lâu đấy.", "s": 289.43},
+    {"e": 293.24, "en": "How long?", "vi": "là bao lâu?", "s": 291.41},
+    {
+      "e": 295.69,
+      "en": "Umm... I really don't know.",
+      "vi": "ừ tôi thực sự không biết.",
+      "s": 293.24
+    },
+    {
+      "e": 298.64,
+      "en": "Can you check for me, please?",
+      "vi": "Anh xem giúp tôi được không?",
+      "s": 295.69
+    },
+    {"e": 300.05, "en": "OK. Yeah.", "vi": "ừ được.", "s": 298.64},
+    {"e": 305.03, "en": "How long is it going to take?", "vi": "Sẽ mất bao lâu?", "s": 300.05},
+    {
+      "e": 307.14,
+      "en": "Not long, just a minute.",
+      "vi": "Không lâu đâu. Chỉ một phút thôi.",
+      "s": 305.03
+    },
+    {"e": 308.39, "en": "How long?", "vi": "Bao lâu?", "s": 307.14},
+    {
+      "e": 311.29,
+      "en": "Just a minute... Oh! Hey! I found it!",
+      "vi": "Chỉ một phút... À tôi tìm thấy rồi!",
+      "s": 308.39
+    },
+    {
+      "e": 315.77,
+      "en": "Good, good. So, how long am I going to be in here?",
+      "vi": "Tốt, tốt. Vậy tôi sẽ ở đây bao lâu?",
+      "s": 311.29
+    },
+    {"e": 316.91, "en": "I don't know.", "vi": "Tôi không biết.", "s": 315.77},
+    {"e": 318.78, "en": "What's that?", "vi": "Ðó là gì vậy?", "s": 316.91},
+    {
+      "e": 321.5,
+      "en": "It's my comic book. I lost it last week.",
+      "vi": "Cuốn truyện tranh của tôi. Tôi mất nó tuần trước.",
+      "s": 318.78
+    },
+    {"e": 346.83, "en": "...", "vi": "...", "s": 321.5},
+    {
+      "e": 351.83,
+      "en": "Hello, I'm here to see my friend.",
+      "vi": "Xin chào, tôi đến đây thăm bạn tôi.",
+      "s": 346.83
+    },
+    {"e": 354.74, "en": "How long will you stay?", "vi": "Anh sẽ ở lại bao lâu?", "s": 351.83},
+    {"e": 357.5, "en": "Oh, I don't know.", "vi": "Tôi không biết nữa.", "s": 354.74},
+    {"e": 359.26, "en": "How long?", "vi": "Bao lâu?", "s": 357.5},
+    {"e": 360.84, "en": "Oh, a few minutes.", "vi": "Ồ chỉ vài phút thôi.", "s": 359.26},
+    {"e": 362.25, "en": "OK. Go in.", "vi": "Ðược rồi vào đi.", "s": 360.84},
+    {"e": 377.94, "en": "...", "vi": "...", "s": 362.25},
+    {
+      "e": 383.37,
+      "en": "Mrs. Brown, what time are you going to the meeting this afternoon?",
+      "vi": "Thưa bà Brown, chiều nay bà sẽ đi họp lúc mấy giờ ạ?",
+      "s": 377.94
+    },
+    {
+      "e": 386.18,
+      "en": "I'm going at two thirty.",
+      "vi": "Tôi sẽ đi họp lúc 2 giờ 30.",
+      "s": 383.37
+    },
+    {
+      "e": 391.96,
+      "en": "Two thirty. And what time will you come back?",
+      "vi": "2 giờ 30. Và bà sẽ về lúc mấy giờ ạ?",
+      "s": 386.18
+    },
+    {"e": 394.4, "en": "I'll be back at three thirty.", "vi": "Tôi về lúc 3 giờ 30.", "s": 391.96},
+    {
+      "e": 399.14,
+      "en": "Three thirty. Good. Thanks.",
+      "vi": "3 giờ 30. Vâng, xin cảm ơn bà.",
+      "s": 394.4
+    },
+    {"e": 400.65, "en": "Oh, Mary.", "vi": "Ồ Mary.", "s": 399.14},
+    {"e": 401.27, "en": "Yes?", "vi": "Gì ạ?", "s": 400.65},
+    {
+      "e": 403.49,
+      "en": "What time are you going to lunch?",
+      "vi": "Cô sẽ đi ăn trưa lúc mấy giờ?",
+      "s": 401.27
+    },
+    {
+      "e": 406.86,
+      "en": "I'll go to lunch at eleven forty-five.",
+      "vi": "Tôi sẽ ăn trưa lúc 11 giờ 45.",
+      "s": 403.49
+    },
+    {"e": 408.9, "en": "Eleven forty-five?", "vi": "11 giờ 45 à?", "s": 406.86},
+    {"e": 410.12, "en": "Yes, why?", "vi": "Vâng, có gì không ạ?", "s": 408.9},
+    {
+      "e": 415.1,
+      "en": "Could you go at eleven thirty and take this to the bank?",
+      "vi": "Cô có thể đi lúc 11 giờ 30 và đem cái này đến ngân hàng được không?",
+      "s": 410.12
+    },
+    {"e": 416.53, "en": "Yes, of course.", "vi": "Vâng được ạ.", "s": 415.1},
+    {"e": 417.14, "en": "Thanks.", "vi": "Cảm ơn cô.", "s": 416.53},
+    {"e": 418.35, "en": "You're welcome.", "vi": "Dạ không có chi.", "s": 417.14},
+    {"e": 424.26, "en": "...", "vi": "...", "s": 418.35},
+    {"e": 426.65, "en": "I really like this place.", "vi": "Tôi rất thích nơi này.", "s": 424.26},
+    {
+      "e": 429.81,
+      "en": "Oh! Good. Would you like another drink?",
+      "vi": "Ồ tốt. Cô uống thêm một ly nữa nhé?",
+      "s": 426.65
+    },
+    {"e": 432.05, "en": "Do we have time?", "vi": "Ðược không cô?", "s": 429.81},
+    {"e": 433.96, "en": "I don't know.", "vi": "Tôi không biết nữa.", "s": 432.05},
+    {"e": 436.02, "en": "Excuse me, waiter.", "vi": "Xin lỗi, anh phục vụ ơi.", "s": 433.96},
+    {"e": 437.37, "en": "Yes, sir?", "vi": "Vâng thưa ông.", "s": 436.02},
+    {"e": 439.72, "en": "What time do you close?", "vi": "Ở đây đóng cửa lúc mấy giờ?", "s": 437.37},
+    {
+      "e": 441.88,
+      "en": "Tonight we close at 10 o'clock.",
+      "vi": "Tối nay chúng tôi đóng cửa lúc 10 giờ.",
+      "s": 439.72
+    },
+    {"e": 442.8, "en": "10 o'clock?", "vi": "10 giờ à?", "s": 441.88},
+    {"e": 443.53, "en": "Yes.", "vi": "Vâng.", "s": 442.8},
+    {
+      "e": 446.98,
+      "en": "Good, we have time. Let's have another drink.",
+      "vi": "Tốt lắm, chúng ta còn thời gian đấy. Chúng ta uống thêm một ly nữa nhé.",
+      "s": 443.53
+    },
+    {"e": 449.14, "en": "Excuse me, waiter.", "vi": "Xin lỗi, anh phục vụ ơi.", "s": 446.98},
+    {"e": 449.97, "en": "Yes, sir?", "vi": "Vâng gì ạ?", "s": 449.14},
+    {
+      "e": 451.93,
+      "en": "We would like more drinks, please.",
+      "vi": "Chúng tôi muốn uống nữa.",
+      "s": 449.97
+    },
+    {"e": 453.02, "en": "Certainly, sir.", "vi": "Có ngay thưa ông.", "s": 451.93},
+    {"e": 457.75, "en": "Thank you.", "vi": "Cảm ơn.", "s": 453.02}
+  ]
+}

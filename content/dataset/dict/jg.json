@@ -1,1 +1,11 @@
-[{"h":"jg","segs":[{"k":"m","t":"hoặc j.g."},{"k":"m","t":"abbreviation"},{"k":"m","t":"military junior grade"}],"k":"jg"}]
+[
+  {
+    "h": "jg",
+    "segs": [
+      {"k": "m", "t": "hoặc j.g."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "military junior grade"}
+    ],
+    "k": "jg"
+  }
+]

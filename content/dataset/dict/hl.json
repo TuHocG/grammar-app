@@ -1,1 +1,67 @@
-[{"h":"hl","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"của HECTOLITRE đơn vị đo dung lượng bằng một trăm lít."}],"k":"hl"},{"h":"hl (hectoliter)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hectolit"}],"k":"hl (hectoliter)"},{"h":"HLA","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"major human antigen compatibility complex: the major antigen compatibility complex in humans that is genetically determined và is involved in cell self-identification và histocompatibility. Full form human lymphocyte antigen"}],"k":"hla"},{"h":"HLA system","segs":[{"k":"m","t":"hệ HLA: hệ thống tương hợp mô lym-phô bào A."}],"k":"hla system"},{"h":"HLCO chart","segs":[{"k":"m","t":"(high / low / close / open chart) biểu đồ cao / thấp / đóng / mở."}],"k":"hlco chart"},{"h":"HLD","segs":[{"k":"m","t":"(hardware logic diagram) sơ đồ logic phần cứng."}],"k":"hld"},{"h":"HLL","segs":[{"k":"m","t":"(high-level language) ngôn ngữ bậc cao."}],"k":"hll"},{"h":"HLL pointer","segs":[{"k":"m","t":"con trỏ trong chương trình ngôn ngữ bậc cao."}],"k":"hll pointer"},{"h":"HLLAPI","segs":[{"k":"m","t":"(high-level language application programming interface) giao diện lập trình ứng dụng ngôn ngữ bậc cao."}],"k":"hllapi"},{"h":"HLS","segs":[{"k":"m","t":"(hue-lightness-saturation) sắc độ-độ sáng-độ bão hòa."}],"k":"hls"},{"h":"HLZ","segs":[{"k":"m","t":"Viết tắt của military helicopter landing zone"}],"k":"hlz"}]
+[
+  {
+    "h": "hl",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "của HECTOLITRE đơn vị đo dung lượng bằng một trăm lít."}
+    ],
+    "k": "hl"
+  },
+  {
+    "h": "hl (hectoliter)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hectolit"}],
+    "k": "hl (hectoliter)"
+  },
+  {
+    "h": "HLA",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "major human antigen compatibility complex: the major antigen compatibility complex in humans that is genetically determined và is involved in cell self-identification và histocompatibility. Full form human lymphocyte antigen"
+      }
+    ],
+    "k": "hla"
+  },
+  {
+    "h": "HLA system",
+    "segs": [{"k": "m", "t": "hệ HLA: hệ thống tương hợp mô lym-phô bào A."}],
+    "k": "hla system"
+  },
+  {
+    "h": "HLCO chart",
+    "segs": [{"k": "m", "t": "(high / low / close / open chart) biểu đồ cao / thấp / đóng / mở."}],
+    "k": "hlco chart"
+  },
+  {
+    "h": "HLD",
+    "segs": [{"k": "m", "t": "(hardware logic diagram) sơ đồ logic phần cứng."}],
+    "k": "hld"
+  },
+  {"h": "HLL", "segs": [{"k": "m", "t": "(high-level language) ngôn ngữ bậc cao."}], "k": "hll"},
+  {
+    "h": "HLL pointer",
+    "segs": [{"k": "m", "t": "con trỏ trong chương trình ngôn ngữ bậc cao."}],
+    "k": "hll pointer"
+  },
+  {
+    "h": "HLLAPI",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(high-level language application programming interface) giao diện lập trình ứng dụng ngôn ngữ bậc cao."
+      }
+    ],
+    "k": "hllapi"
+  },
+  {
+    "h": "HLS",
+    "segs": [{"k": "m", "t": "(hue-lightness-saturation) sắc độ-độ sáng-độ bão hòa."}],
+    "k": "hls"
+  },
+  {
+    "h": "HLZ",
+    "segs": [{"k": "m", "t": "Viết tắt của military helicopter landing zone"}],
+    "k": "hlz"
+  }
+]

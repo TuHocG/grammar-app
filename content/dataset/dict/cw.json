@@ -1,1 +1,115 @@
-[{"h":"cw","segs":[{"k":"m","t":"(clockwise) theo chiều kim đồng hồ."}],"k":"cw"},{"h":"cw (carrier wave)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sóng mang"}],"k":"cw (carrier wave)"},{"h":"cw (clockwise)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"theo chiều kim đồng hồ"}],"k":"cw (clockwise)"},{"h":"CW (continuous wave)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sóng liên tục"}],"k":"cw (continuous wave)"},{"h":"CW gas laser","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"laze khí"},{"k":"m","t":"laze sóng liên tục"}],"k":"cw gas laser"},{"h":"CW laser","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"laze CW"},{"k":"m","t":"laze sóng liên tục"}],"k":"cw laser"},{"h":"CW laser beam","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chùm laze CW"},{"k":"m","t":"chùm sóng liên tục"}],"k":"cw laser beam"},{"h":"CW radar","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"rađa sóng liên tục"}],"k":"cw radar"},{"h":"CW radar detector","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ dò rađa CW"},{"k":"m","t":"bộ dò rađa sóng liên tục"}],"k":"cw radar detector"},{"h":"CW signal","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tín hiệu sóng liên tục"}],"k":"cw signal"},{"h":"CW ultrasonic detector","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bộ dò siêu âm CW"}],"k":"cw ultrasonic detector"},{"h":"CWD","segs":[{"k":"m","t":"Viết tắt của veterinary medicine medicine chronic wasting disease"}],"k":"cwd"},{"h":"cwm","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"thung lũng nhỏ trong núi."}],"ipa":"ku:m","k":"cwm"},{"h":"Cwmbran","segs":[{"k":"m","t":"town in Monmouthshire, Wales."},{"k":"m","t":"Dân số khoảng: 46,021 (1991)"}],"k":"cwmbran"},{"h":"CWO","segs":[{"k":"m","t":"Viết tắt của 1. military Chief Warrant Officer"},{"k":"m","t":"2. business chief Web officer"}],"k":"cwo"},{"h":"CWS","segs":[{"k":"m","t":"(Campus Wide Information System) hệ thống thông tin liên trường đại học."}],"k":"cws"},{"h":"cwt","segs":[{"k":"m","t":"(vt. của tiếng La-tinh centum + tiếng Anh weight) tạ (đơn vị đo trọng."}],"k":"cwt"},{"h":"cwt (hundredweight)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tạ"}],"k":"cwt (hundredweight)"}]
+[
+  {"h": "cw", "segs": [{"k": "m", "t": "(clockwise) theo chiều kim đồng hồ."}], "k": "cw"},
+  {
+    "h": "cw (carrier wave)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sóng mang"}],
+    "k": "cw (carrier wave)"
+  },
+  {
+    "h": "cw (clockwise)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "theo chiều kim đồng hồ"}],
+    "k": "cw (clockwise)"
+  },
+  {
+    "h": "CW (continuous wave)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sóng liên tục"}],
+    "k": "cw (continuous wave)"
+  },
+  {
+    "h": "CW gas laser",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "laze khí"},
+      {"k": "m", "t": "laze sóng liên tục"}
+    ],
+    "k": "cw gas laser"
+  },
+  {
+    "h": "CW laser",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "laze CW"},
+      {"k": "m", "t": "laze sóng liên tục"}
+    ],
+    "k": "cw laser"
+  },
+  {
+    "h": "CW laser beam",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chùm laze CW"},
+      {"k": "m", "t": "chùm sóng liên tục"}
+    ],
+    "k": "cw laser beam"
+  },
+  {
+    "h": "CW radar",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "rađa sóng liên tục"}],
+    "k": "cw radar"
+  },
+  {
+    "h": "CW radar detector",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bộ dò rađa CW"},
+      {"k": "m", "t": "bộ dò rađa sóng liên tục"}
+    ],
+    "k": "cw radar detector"
+  },
+  {
+    "h": "CW signal",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tín hiệu sóng liên tục"}],
+    "k": "cw signal"
+  },
+  {
+    "h": "CW ultrasonic detector",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ dò siêu âm CW"}],
+    "k": "cw ultrasonic detector"
+  },
+  {
+    "h": "CWD",
+    "segs": [{"k": "m", "t": "Viết tắt của veterinary medicine medicine chronic wasting disease"}],
+    "k": "cwd"
+  },
+  {
+    "h": "cwm",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "thung lũng nhỏ trong núi."}],
+    "ipa": "ku:m",
+    "k": "cwm"
+  },
+  {
+    "h": "Cwmbran",
+    "segs": [
+      {"k": "m", "t": "town in Monmouthshire, Wales."},
+      {"k": "m", "t": "Dân số khoảng: 46,021 (1991)"}
+    ],
+    "k": "cwmbran"
+  },
+  {
+    "h": "CWO",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. military Chief Warrant Officer"},
+      {"k": "m", "t": "2. business chief Web officer"}
+    ],
+    "k": "cwo"
+  },
+  {
+    "h": "CWS",
+    "segs": [
+      {"k": "m", "t": "(Campus Wide Information System) hệ thống thông tin liên trường đại học."}
+    ],
+    "k": "cws"
+  },
+  {
+    "h": "cwt",
+    "segs": [
+      {"k": "m", "t": "(vt. của tiếng La-tinh centum + tiếng Anh weight) tạ (đơn vị đo trọng."}
+    ],
+    "k": "cwt"
+  },
+  {
+    "h": "cwt (hundredweight)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tạ"}],
+    "k": "cwt (hundredweight)"
+  }
+]

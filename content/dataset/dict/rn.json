@@ -1,1 +1,167 @@
-[{"h":"rn","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"RN) y tá đã đăng ký (registered nurse) (RN) hải quân Hoàng gia (Royal Navy","vi":")."}],"ipa":",a:r 'en","k":"rn"},{"h":"rna","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"RNA) (hóa học) axít ribônuclêíc (axít ribônuclêíc","vi":")."}],"ipa":",a:r en 'ei","k":"rna"},{"h":"RNA (ribomecleic acid)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"một nucleic acid thấy trong nhân và bào tương tế bào"}],"k":"rna (ribomecleic acid)"},{"h":"RNA enveloped","segs":[{"k":"m","t":"vi-rút chứa ARN."}],"k":"rna enveloped"},{"h":"RNA minus strand","segs":[{"k":"m","t":"Sợi ARN trừ."}],"k":"rna minus strand"},{"h":"RNA plus strand","segs":[{"k":"m","t":"Sợi ARN cộng."}],"k":"rna plus strand"},{"h":"RNA polymerase","segs":[{"k":"m","t":"(số nhiều RNA polymerases)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"enzyme that promotes RNA synthesis: a polymerase that catalyzes the synthesis of RNA"}],"k":"rna polymerase"},{"h":"RNA virus","segs":[{"k":"m","t":"(số nhiều RNA viruses)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"virus with RNA in core: a virus in which the core of nucleic acid consists of RNA"}],"k":"rna virus"},{"h":"RNAA","segs":[{"k":"m","t":"(request network address assignment) sự gán địa chỉ mạng yêu cầu RNF (root normal form) dạng chuẩn gốc."}],"k":"rnaa"},{"h":"rnalacia","segs":[{"k":"m","t":"sufix. chỉ một mô bì mềm bất thường."}],"k":"rnalacia"},{"h":"RNAS","segs":[{"k":"m","t":"abbreviationU.K."},{"k":"m","t":"1. Royal Naval Air Service(s)"},{"k":"m","t":"2. Royal Naval Air Station"}],"k":"rnas"},{"h":"RNase","segs":[{"k":"m","t":"(số nhiều RNases)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"RNA-splitting enzyme: an enzyme that splits hoặc degrades RNA. Full form ribonuclease"}],"k":"rnase"},{"h":"rnaturation spindle","segs":[{"k":"m","t":"Thoi phân chia chín."}],"k":"rnaturation spindle"},{"h":"rnd","segs":[{"k":"m","t":"hoặc rnd."},{"k":"m","t":"abbreviation"},{"k":"m","t":"round"}],"k":"rnd"},{"h":"rnegalgia","segs":[{"k":"m","t":"chứng đau dữ dội."}],"k":"rnegalgia"},{"h":"rnelancholia","segs":[{"k":"m","t":"chứng u uất."}],"k":"rnelancholia"},{"h":"rnib","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"RNIB) Viện Hoàng gia toàn quốc cho người mù (Royal National Institute for the Blind","vi":")."}],"ipa":",a:r en ai 'bi:","k":"rnib"},{"h":"rnli","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"RNLI) Cơ quan Hoàng gia toàn quốc tàu cứu đắm (Royal National Lifeboat Instution","vi":")."}],"ipa":",a:r en el 'ai","k":"rnli"},{"h":"rnonostotic","segs":[{"k":"m","t":"thuộc một xương."}],"k":"rnonostotic"},{"h":"RNP","segs":[{"k":"m","t":"Viết tắt của biochemistry ribonucleoprotein"}],"k":"rnp"},{"h":"RNR","segs":[{"k":"m","t":"(receive not ready) chưa sẵn sàng nhận."}],"k":"rnr"},{"h":"RNR packet","segs":[{"k":"m","t":"(receive not ready packet) bó chưa sẵn sàng nhận."}],"k":"rnr packet"},{"h":"rns","segs":[{"k":"m","t":"Viết tắt của U.K. cricket runs"}],"k":"rns"},{"h":"RNVR","segs":[{"k":"m","t":"Viết tắt của U.K. Royal Naval Volunteer Force"}],"k":"rnvr"},{"h":"RNZAF","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"ROYAL NEW ZEALAND AIR FORCE lực lượng không quân Tân Tây Lan (New Zealand)"}],"k":"rnzaf"},{"h":"RNZN","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"ROYAL NEW ZEALAND NAVY Hải quân Tân Tây Lan"}],"k":"rnzn"}]
+[
+  {
+    "h": "rn",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {
+        "k": "ex",
+        "t": "RN) y tá đã đăng ký (registered nurse) (RN) hải quân Hoàng gia (Royal Navy",
+        "vi": ")."
+      }
+    ],
+    "ipa": ",a:r 'en",
+    "k": "rn"
+  },
+  {
+    "h": "rna",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {"k": "ex", "t": "RNA) (hóa học) axít ribônuclêíc (axít ribônuclêíc", "vi": ")."}
+    ],
+    "ipa": ",a:r en 'ei",
+    "k": "rna"
+  },
+  {
+    "h": "RNA (ribomecleic acid)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "một nucleic acid thấy trong nhân và bào tương tế bào"}
+    ],
+    "k": "rna (ribomecleic acid)"
+  },
+  {"h": "RNA enveloped", "segs": [{"k": "m", "t": "vi-rút chứa ARN."}], "k": "rna enveloped"},
+  {"h": "RNA minus strand", "segs": [{"k": "m", "t": "Sợi ARN trừ."}], "k": "rna minus strand"},
+  {"h": "RNA plus strand", "segs": [{"k": "m", "t": "Sợi ARN cộng."}], "k": "rna plus strand"},
+  {
+    "h": "RNA polymerase",
+    "segs": [
+      {"k": "m", "t": "(số nhiều RNA polymerases)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "enzyme that promotes RNA synthesis: a polymerase that catalyzes the synthesis of RNA"
+      }
+    ],
+    "k": "rna polymerase"
+  },
+  {
+    "h": "RNA virus",
+    "segs": [
+      {"k": "m", "t": "(số nhiều RNA viruses)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "virus with RNA in core: a virus in which the core of nucleic acid consists of RNA"
+      }
+    ],
+    "k": "rna virus"
+  },
+  {
+    "h": "RNAA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(request network address assignment) sự gán địa chỉ mạng yêu cầu RNF (root normal form) dạng chuẩn gốc."
+      }
+    ],
+    "k": "rnaa"
+  },
+  {
+    "h": "rnalacia",
+    "segs": [{"k": "m", "t": "sufix. chỉ một mô bì mềm bất thường."}],
+    "k": "rnalacia"
+  },
+  {
+    "h": "RNAS",
+    "segs": [
+      {"k": "m", "t": "abbreviationU.K."},
+      {"k": "m", "t": "1. Royal Naval Air Service(s)"},
+      {"k": "m", "t": "2. Royal Naval Air Station"}
+    ],
+    "k": "rnas"
+  },
+  {
+    "h": "RNase",
+    "segs": [
+      {"k": "m", "t": "(số nhiều RNases)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "RNA-splitting enzyme: an enzyme that splits hoặc degrades RNA. Full form ribonuclease"
+      }
+    ],
+    "k": "rnase"
+  },
+  {
+    "h": "rnaturation spindle",
+    "segs": [{"k": "m", "t": "Thoi phân chia chín."}],
+    "k": "rnaturation spindle"
+  },
+  {
+    "h": "rnd",
+    "segs": [
+      {"k": "m", "t": "hoặc rnd."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "round"}
+    ],
+    "k": "rnd"
+  },
+  {"h": "rnegalgia", "segs": [{"k": "m", "t": "chứng đau dữ dội."}], "k": "rnegalgia"},
+  {"h": "rnelancholia", "segs": [{"k": "m", "t": "chứng u uất."}], "k": "rnelancholia"},
+  {
+    "h": "rnib",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {
+        "k": "ex",
+        "t": "RNIB) Viện Hoàng gia toàn quốc cho người mù (Royal National Institute for the Blind",
+        "vi": ")."
+      }
+    ],
+    "ipa": ",a:r en ai 'bi:",
+    "k": "rnib"
+  },
+  {
+    "h": "rnli",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {
+        "k": "ex",
+        "t": "RNLI) Cơ quan Hoàng gia toàn quốc tàu cứu đắm (Royal National Lifeboat Instution",
+        "vi": ")."
+      }
+    ],
+    "ipa": ",a:r en el 'ai",
+    "k": "rnli"
+  },
+  {"h": "rnonostotic", "segs": [{"k": "m", "t": "thuộc một xương."}], "k": "rnonostotic"},
+  {"h": "RNP", "segs": [{"k": "m", "t": "Viết tắt của biochemistry ribonucleoprotein"}], "k": "rnp"},
+  {"h": "RNR", "segs": [{"k": "m", "t": "(receive not ready) chưa sẵn sàng nhận."}], "k": "rnr"},
+  {
+    "h": "RNR packet",
+    "segs": [{"k": "m", "t": "(receive not ready packet) bó chưa sẵn sàng nhận."}],
+    "k": "rnr packet"
+  },
+  {"h": "rns", "segs": [{"k": "m", "t": "Viết tắt của U.K. cricket runs"}], "k": "rns"},
+  {
+    "h": "RNVR",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Royal Naval Volunteer Force"}],
+    "k": "rnvr"
+  },
+  {
+    "h": "RNZAF",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "ROYAL NEW ZEALAND AIR FORCE lực lượng không quân Tân Tây Lan (New Zealand)"}
+    ],
+    "k": "rnzaf"
+  },
+  {
+    "h": "RNZN",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "ROYAL NEW ZEALAND NAVY Hải quân Tân Tây Lan"}
+    ],
+    "k": "rnzn"
+  }
+]

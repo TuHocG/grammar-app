@@ -1,1 +1,161 @@
-[{"h":"sv","segs":[{"k":"m","t":"Viết tắt của 1. El Salvador (used in Internet addresses)"},{"k":"m","t":"2. under the word hoặc term"}],"k":"sv"},{"h":"Sv (sievert)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sive"}],"k":"sv (sievert)"},{"h":"SVA","segs":[{"k":"m","t":"(shared virtual area) vùng ảo dính chung, vùng ảo chia sẻ."}],"k":"sva"},{"h":"Svalbard","segs":[{"k":"m","t":"Norwegian archipelago in the Arctic Ocean."},{"k":"m","t":"Dân số khoảng: 3,309 (1991)"},{"k":"m","t":"Diện tích: 62,049 sq km/23,957 sq mi"}],"k":"svalbard"},{"h":"svarabhakti","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(ngôn ngữ) sự chêm một nguyên âm giữa (r) hay (l) với một phụ âm: ví dụ"},{"k":"ex","t":"film","vi":"đọc thành \"fil(ơ)m\"."}],"ipa":",sf^r6'b^kti","k":"svarabhakti"},{"h":"SVC","segs":[{"k":"m","t":"(supervisor call) gọi chương trình giám sát."}],"k":"svc"},{"h":"SVC (supervisor call)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"gọi chương trình giám sát"}],"k":"svc (supervisor call)"},{"h":"svc.","segs":[{"k":"m","t":"Viết tắt của service"}],"k":"svc."},{"h":"svedberg","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Xvetbéc (đơn vị bằng 10 mũ 13 giây)."}],"ipa":"'sfedbə:g","k":"svedberg"},{"h":"svelte","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"mảnh dẻ, thon thả, hấp dẫn, mảnh mai (người)"},{"k":"ex","t":"a svelte figure","vi":"một hình dáng mảnh mai."}],"ipa":"'svelt","k":"svelte"},{"h":"sveltely","segs":[{"k":"pos","t":"phó từ"},{"k":"m","t":"xem"},{"k":"ex","t":"svelte","vi":"."}],"ipa":"'sveltli","k":"sveltely"},{"h":"svelteness","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"sự mảnh dẻ"},{"k":"m","t":"thanh mảnh (người)."}],"ipa":"'sveltnis","k":"svelteness"},{"h":"Svengali","segs":[{"k":"m","t":"(số nhiều Svengalis)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"evil manipulator: somebody who controls và manipulates somebody else, usually for evil purposes"}],"k":"svengali"},{"h":"Sverdrup Islands","segs":[{"k":"m","t":"island group in Nunavut, Canada, within the Queen Elizabeth Islands, comprising Axel Heiberg, Ellef Ringnes, và Amund Ringnes"}],"k":"sverdrup islands"},{"h":"Svetambara","segs":[{"k":"m","t":"(số nhiều Svetambaras)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"member of branch of Jainism: a member of one of the two main divisions of Jainism, whose members are ascetics và dress in white."},{"k":"m","t":"The division dates from a schism that took place around ad 80."},{"k":"m","t":"Xem Digambara"}],"k":"svetambara"},{"h":"SVGA","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"video screen specification: a modified specification for video display controllers used in personal computers. Full form super video graphics array"}],"k":"svga"},{"h":"svid","segs":[{"k":"m","t":"Một loại tiêu chuẩn đối với các hệ điều hành UNIX, do AT & T Bell Laboratories xây dựng theo đặt hàng của tập thể các khách mua, dựa trên cơ sở UNIX Version 5."}],"k":"svid"},{"h":"SVS","segs":[{"k":"m","t":"(single virtual storage system) hệ thống bộ nhớ ảo đơn."}],"k":"svs"},{"h":"svstem resources","segs":[{"k":"m","t":"tài nguyên hệ thống."}],"k":"svstem resources"},{"h":"svtatutory rape","segs":[{"k":"m","t":"tội giao cấu với trẻ vị thành niên."}],"k":"svtatutory rape"}]
+[
+  {
+    "h": "sv",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. El Salvador (used in Internet addresses)"},
+      {"k": "m", "t": "2. under the word hoặc term"}
+    ],
+    "k": "sv"
+  },
+  {
+    "h": "Sv (sievert)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sive"}],
+    "k": "sv (sievert)"
+  },
+  {
+    "h": "SVA",
+    "segs": [{"k": "m", "t": "(shared virtual area) vùng ảo dính chung, vùng ảo chia sẻ."}],
+    "k": "sva"
+  },
+  {
+    "h": "Svalbard",
+    "segs": [
+      {"k": "m", "t": "Norwegian archipelago in the Arctic Ocean."},
+      {"k": "m", "t": "Dân số khoảng: 3,309 (1991)"},
+      {"k": "m", "t": "Diện tích: 62,049 sq km/23,957 sq mi"}
+    ],
+    "k": "svalbard"
+  },
+  {
+    "h": "svarabhakti",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(ngôn ngữ) sự chêm một nguyên âm giữa (r) hay (l) với một phụ âm: ví dụ"},
+      {"k": "ex", "t": "film", "vi": "đọc thành \"fil(ơ)m\"."}
+    ],
+    "ipa": ",sf^r6'b^kti",
+    "k": "svarabhakti"
+  },
+  {
+    "h": "SVC",
+    "segs": [{"k": "m", "t": "(supervisor call) gọi chương trình giám sát."}],
+    "k": "svc"
+  },
+  {
+    "h": "SVC (supervisor call)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "gọi chương trình giám sát"}
+    ],
+    "k": "svc (supervisor call)"
+  },
+  {"h": "svc.", "segs": [{"k": "m", "t": "Viết tắt của service"}], "k": "svc."},
+  {
+    "h": "svedberg",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "Xvetbéc (đơn vị bằng 10 mũ 13 giây)."}],
+    "ipa": "'sfedbə:g",
+    "k": "svedberg"
+  },
+  {
+    "h": "svelte",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "mảnh dẻ, thon thả, hấp dẫn, mảnh mai (người)"},
+      {"k": "ex", "t": "a svelte figure", "vi": "một hình dáng mảnh mai."}
+    ],
+    "ipa": "'svelt",
+    "k": "svelte"
+  },
+  {
+    "h": "sveltely",
+    "segs": [
+      {"k": "pos", "t": "phó từ"},
+      {"k": "m", "t": "xem"},
+      {"k": "ex", "t": "svelte", "vi": "."}
+    ],
+    "ipa": "'sveltli",
+    "k": "sveltely"
+  },
+  {
+    "h": "svelteness",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "sự mảnh dẻ"},
+      {"k": "m", "t": "thanh mảnh (người)."}
+    ],
+    "ipa": "'sveltnis",
+    "k": "svelteness"
+  },
+  {
+    "h": "Svengali",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Svengalis)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "evil manipulator: somebody who controls và manipulates somebody else, usually for evil purposes"
+      }
+    ],
+    "k": "svengali"
+  },
+  {
+    "h": "Sverdrup Islands",
+    "segs": [
+      {
+        "k": "m",
+        "t": "island group in Nunavut, Canada, within the Queen Elizabeth Islands, comprising Axel Heiberg, Ellef Ringnes, và Amund Ringnes"
+      }
+    ],
+    "k": "sverdrup islands"
+  },
+  {
+    "h": "Svetambara",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Svetambaras)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "member of branch of Jainism: a member of one of the two main divisions of Jainism, whose members are ascetics và dress in white."
+      },
+      {"k": "m", "t": "The division dates from a schism that took place around ad 80."},
+      {"k": "m", "t": "Xem Digambara"}
+    ],
+    "k": "svetambara"
+  },
+  {
+    "h": "SVGA",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "video screen specification: a modified specification for video display controllers used in personal computers. Full form super video graphics array"
+      }
+    ],
+    "k": "svga"
+  },
+  {
+    "h": "svid",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một loại tiêu chuẩn đối với các hệ điều hành UNIX, do AT & T Bell Laboratories xây dựng theo đặt hàng của tập thể các khách mua, dựa trên cơ sở UNIX Version 5."
+      }
+    ],
+    "k": "svid"
+  },
+  {
+    "h": "SVS",
+    "segs": [{"k": "m", "t": "(single virtual storage system) hệ thống bộ nhớ ảo đơn."}],
+    "k": "svs"
+  },
+  {
+    "h": "svstem resources",
+    "segs": [{"k": "m", "t": "tài nguyên hệ thống."}],
+    "k": "svstem resources"
+  },
+  {
+    "h": "svtatutory rape",
+    "segs": [{"k": "m", "t": "tội giao cấu với trẻ vị thành niên."}],
+    "k": "svtatutory rape"
+  }
+]

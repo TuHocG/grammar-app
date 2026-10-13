@@ -1,1 +1,20 @@
-[{"h":"Y2K","segs":[{"k":"m","t":"(year 2000) năm 2000."}],"k":"y2k"},{"h":"Y2K (year 2000)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"năm 2000"}],"k":"y2k (year 2000)"},{"h":"Y2K-compliant","segs":[{"k":"m","t":"Tính từ"},{"k":"m","t":"dealing successfully with year 2000: able to operate normally in the years following 1999"},{"k":"m","t":"Y2K-compliant software"}],"k":"y2k-compliant"}]
+[
+  {"h": "Y2K", "segs": [{"k": "m", "t": "(year 2000) năm 2000."}], "k": "y2k"},
+  {
+    "h": "Y2K (year 2000)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "năm 2000"}],
+    "k": "y2k (year 2000)"
+  },
+  {
+    "h": "Y2K-compliant",
+    "segs": [
+      {"k": "m", "t": "Tính từ"},
+      {
+        "k": "m",
+        "t": "dealing successfully with year 2000: able to operate normally in the years following 1999"
+      },
+      {"k": "m", "t": "Y2K-compliant software"}
+    ],
+    "k": "y2k-compliant"
+  }
+]

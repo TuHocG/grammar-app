@@ -1,1 +1,22 @@
-[{"h":"lf","segs":[{"k":"m","t":"(tắt) tần số thấp ("},{"k":"ex","t":"low frequency","vi":")."}],"ipa":"el 'ef","k":"lf"},{"h":"LF (low frequency)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tần số thấp"},{"k":"m","t":"thấp tần"},{"k":"m","t":"tần số thấp, hạ tần"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tần số thấp"},{"k":"m","t":"thấp tần"},{"k":"m","t":"tần số thấp, hạ tần"}],"k":"lf (low frequency)"}]
+[
+  {
+    "h": "lf",
+    "segs": [{"k": "m", "t": "(tắt) tần số thấp ("}, {"k": "ex", "t": "low frequency", "vi": ")."}],
+    "ipa": "el 'ef",
+    "k": "lf"
+  },
+  {
+    "h": "LF (low frequency)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "tần số thấp"},
+      {"k": "m", "t": "thấp tần"},
+      {"k": "m", "t": "tần số thấp, hạ tần"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "tần số thấp"},
+      {"k": "m", "t": "thấp tần"},
+      {"k": "m", "t": "tần số thấp, hạ tần"}
+    ],
+    "k": "lf (low frequency)"
+  }
+]

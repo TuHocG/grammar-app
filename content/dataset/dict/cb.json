@@ -1,1 +1,122 @@
-[{"h":"cb","segs":[{"k":"m","t":"(tắt) làn sóng phục vụ quảng đại quần chúng ("},{"k":"ex","t":"Citizens' band","vi":")."}],"ipa":",si: 'bi:","k":"cb"},{"h":"CB radio","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"vô tuyến dải cá nhân"}],"k":"cb radio"},{"h":"CBA","segs":[{"k":"m","t":"Viết tắt của business cost-benefit analysis"}],"k":"cba"},{"h":"cbc","segs":[{"k":"m","t":"(tắt) Công ty phát thanh Canađa ("},{"k":"ex","t":"Canadian Broadcasting Corporation","vi":")."}],"ipa":",si: bi: 'si:","k":"cbc"},{"h":"cbd","segs":[{"k":"m","t":"Viết tắt của freight cash before delivery"}],"k":"cbd"},{"h":"cbe","segs":[{"k":"m","t":"(tắt) sĩ quan thống lĩnh của đế chế Anh ("},{"k":"ex","t":"Commander of the British Empire","vi":")."}],"ipa":",si: bi: 'i:","k":"cbe"},{"h":"CBEMA","segs":[{"k":"m","t":"1. computer and Business Equipment Manufacturers Association hiệp hội các nhà sản xuất máy tính và thiết bị thương mại. 2. canadian Business Equipment Manufactures Association hiệp hội các nhà sản xuất thiết bị thương mại Canada."}],"k":"cbema"},{"h":"CBer","segs":[{"k":"m","t":"(số nhiều CBers)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"user of CB radio: a user of a radio on the Citizens Band"}],"k":"cber"},{"h":"cbi","segs":[{"k":"m","t":"(tắt) Hiệp hội kỹ nghệ Anh quốc ("},{"k":"ex","t":"Confederation of British Industry","vi":")."}],"ipa":",si: bi: 'ai:","k":"cbi"},{"h":"CBIR","segs":[{"k":"m","t":"(content-based information retrieval) sự truy tìm thông tin dựa trên nội dung."}],"k":"cbir"},{"h":"CBL","segs":[{"k":"m","t":"(computer-based learning) học bằng máy tính."}],"k":"cbl"},{"h":"CBMS","segs":[{"k":"m","t":"(computer-based message system) hệ thống truyền thông điệp qua máy tính."}],"k":"cbms"},{"h":"CBOE","segs":[{"k":"m","t":"Viết tắt của finance Chicago Board Options Exchange"}],"k":"cboe"},{"h":"CBQ","segs":[{"k":"m","t":"(class-based queue) hàng đợi theo lớp."}],"k":"cbq"},{"h":"cbs","segs":[{"k":"m","t":"(tắt) Mạng lưới phát thanh Columbia ("},{"k":"ex","t":"Columbia Broadcasting System","vi":")."}],"ipa":",si: bi: 'es","k":"cbs"},{"h":"CBT","segs":[{"k":"m","t":"(computer-based training) đào tạo bằng máy tính, đào tạo dựa trên máy tính."}],"k":"cbt"},{"h":"CBW","segs":[{"k":"m","t":"abbreviationmilitary"},{"k":"m","t":"1. chemical và biological warfare"},{"k":"m","t":"2. chemical và biological weapon"}],"k":"cbw"},{"h":"CBX","segs":[{"k":"m","t":"(computerized branch exchange) tổng đài nhánh tự động hóa."}],"k":"cbx"}]
+[
+  {
+    "h": "cb",
+    "segs": [
+      {"k": "m", "t": "(tắt) làn sóng phục vụ quảng đại quần chúng ("},
+      {"k": "ex", "t": "Citizens' band", "vi": ")."}
+    ],
+    "ipa": ",si: 'bi:",
+    "k": "cb"
+  },
+  {
+    "h": "CB radio",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "vô tuyến dải cá nhân"}],
+    "k": "cb radio"
+  },
+  {"h": "CBA", "segs": [{"k": "m", "t": "Viết tắt của business cost-benefit analysis"}], "k": "cba"},
+  {
+    "h": "cbc",
+    "segs": [
+      {"k": "m", "t": "(tắt) Công ty phát thanh Canađa ("},
+      {"k": "ex", "t": "Canadian Broadcasting Corporation", "vi": ")."}
+    ],
+    "ipa": ",si: bi: 'si:",
+    "k": "cbc"
+  },
+  {"h": "cbd", "segs": [{"k": "m", "t": "Viết tắt của freight cash before delivery"}], "k": "cbd"},
+  {
+    "h": "cbe",
+    "segs": [
+      {"k": "m", "t": "(tắt) sĩ quan thống lĩnh của đế chế Anh ("},
+      {"k": "ex", "t": "Commander of the British Empire", "vi": ")."}
+    ],
+    "ipa": ",si: bi: 'i:",
+    "k": "cbe"
+  },
+  {
+    "h": "CBEMA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. computer and Business Equipment Manufacturers Association hiệp hội các nhà sản xuất máy tính và thiết bị thương mại. 2. canadian Business Equipment Manufactures Association hiệp hội các nhà sản xuất thiết bị thương mại Canada."
+      }
+    ],
+    "k": "cbema"
+  },
+  {
+    "h": "CBer",
+    "segs": [
+      {"k": "m", "t": "(số nhiều CBers)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "user of CB radio: a user of a radio on the Citizens Band"}
+    ],
+    "k": "cber"
+  },
+  {
+    "h": "cbi",
+    "segs": [
+      {"k": "m", "t": "(tắt) Hiệp hội kỹ nghệ Anh quốc ("},
+      {"k": "ex", "t": "Confederation of British Industry", "vi": ")."}
+    ],
+    "ipa": ",si: bi: 'ai:",
+    "k": "cbi"
+  },
+  {
+    "h": "CBIR",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(content-based information retrieval) sự truy tìm thông tin dựa trên nội dung."
+      }
+    ],
+    "k": "cbir"
+  },
+  {
+    "h": "CBL",
+    "segs": [{"k": "m", "t": "(computer-based learning) học bằng máy tính."}],
+    "k": "cbl"
+  },
+  {
+    "h": "CBMS",
+    "segs": [
+      {"k": "m", "t": "(computer-based message system) hệ thống truyền thông điệp qua máy tính."}
+    ],
+    "k": "cbms"
+  },
+  {
+    "h": "CBOE",
+    "segs": [{"k": "m", "t": "Viết tắt của finance Chicago Board Options Exchange"}],
+    "k": "cboe"
+  },
+  {"h": "CBQ", "segs": [{"k": "m", "t": "(class-based queue) hàng đợi theo lớp."}], "k": "cbq"},
+  {
+    "h": "cbs",
+    "segs": [
+      {"k": "m", "t": "(tắt) Mạng lưới phát thanh Columbia ("},
+      {"k": "ex", "t": "Columbia Broadcasting System", "vi": ")."}
+    ],
+    "ipa": ",si: bi: 'es",
+    "k": "cbs"
+  },
+  {
+    "h": "CBT",
+    "segs": [
+      {"k": "m", "t": "(computer-based training) đào tạo bằng máy tính, đào tạo dựa trên máy tính."}
+    ],
+    "k": "cbt"
+  },
+  {
+    "h": "CBW",
+    "segs": [
+      {"k": "m", "t": "abbreviationmilitary"},
+      {"k": "m", "t": "1. chemical và biological warfare"},
+      {"k": "m", "t": "2. chemical và biological weapon"}
+    ],
+    "k": "cbw"
+  },
+  {
+    "h": "CBX",
+    "segs": [{"k": "m", "t": "(computerized branch exchange) tổng đài nhánh tự động hóa."}],
+    "k": "cbx"
+  }
+]

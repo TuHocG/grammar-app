@@ -1,1 +1,35 @@
-[{"h":"lw","segs":[{"k":"m","t":"LW"},{"k":"m","t":"viết tắt"},{"k":"m","t":"(radio) long wave: làn sóng dài (ở máy thu thanh)."}],"k":"lw"},{"h":"LW (long wave)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sóng dài"}],"k":"lw (long wave)"},{"h":"LWA","segs":[{"k":"m","t":"(log write ahead) ghi (dữ liệu) trước vào nhật ký."}],"k":"lwa"},{"h":"LWC","segs":[{"k":"m","t":"(loop wiring concentrator) bộ tập trung nối dây mạch vòng."}],"k":"lwc"},{"h":"lwei","segs":[{"k":"m","t":"(số nhiều lweis hoặc lwei)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"Angolan currency unit: a subunit of Angolan currency"}],"k":"lwei"}]
+[
+  {
+    "h": "lw",
+    "segs": [
+      {"k": "m", "t": "LW"},
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "(radio) long wave: làn sóng dài (ở máy thu thanh)."}
+    ],
+    "k": "lw"
+  },
+  {
+    "h": "LW (long wave)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sóng dài"}],
+    "k": "lw (long wave)"
+  },
+  {
+    "h": "LWA",
+    "segs": [{"k": "m", "t": "(log write ahead) ghi (dữ liệu) trước vào nhật ký."}],
+    "k": "lwa"
+  },
+  {
+    "h": "LWC",
+    "segs": [{"k": "m", "t": "(loop wiring concentrator) bộ tập trung nối dây mạch vòng."}],
+    "k": "lwc"
+  },
+  {
+    "h": "lwei",
+    "segs": [
+      {"k": "m", "t": "(số nhiều lweis hoặc lwei)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "Angolan currency unit: a subunit of Angolan currency"}
+    ],
+    "k": "lwei"
+  }
+]

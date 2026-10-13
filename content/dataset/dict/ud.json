@@ -1,1 +1,186 @@
-[{"h":"uda","segs":[{"k":"m","t":"(tắt) hội phòng thủ Ulster (Bắc Ai-len) ("},{"k":"ex","t":"Ulster Defence Association","vi":")."}],"ipa":",ju:di:'ei","k":"uda"},{"h":"Uda antenna","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"ăng ten Uda"}],"k":"uda antenna"},{"h":"Udaipur","segs":[{"k":"m","t":"city và administrative headquarters of Udaipur District, Rajasthan State, northwestern India."},{"k":"m","t":"Dân số khoảng: 308,571 (1991)"}],"k":"udaipur"},{"h":"udb","segs":[{"k":"m","t":"(universal debugger) phương trình gỡ rối đa năng."}],"k":"udb"},{"h":"udb (universal debugger)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phương trình gỡ rối đa năng"}],"k":"udb (universal debugger)"},{"h":"udder","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"vú động vật (bò, cừu...)."}],"ipa":"'ʌdə","k":"udder"},{"h":"udder fat","segs":[{"k":"m","t":"mỡ bầu vú."}],"k":"udder fat"},{"h":"uddered","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"có bầu vú (bò, cừu...)."}],"ipa":"'ʌdəd","k":"uddered"},{"h":"UDDS","segs":[{"k":"m","t":"(user-defined data stream) luồng dữ liệu do người dùng định nghĩa."}],"k":"udds"},{"h":"udi","segs":[{"k":"m","t":"(tắt) sự đơn phương tuyên bố độc lập (unilateral declaration)."}],"ipa":",ju:di:'ai","k":"udi"},{"h":"Udjung Pandang","segs":[{"k":"m","t":"hoặc Ujungpandang city và port on the Makassar Strait, southwestern Sulawesi, Indonesia."},{"k":"m","t":"Dân số khoảng: 944,372 (1990) Former name Makassar"}],"k":"udjung pandang"},{"h":"UDLC","segs":[{"k":"m","t":"(universal data-link control) sự điều khiển liên kết dữ liệu đa năng."}],"k":"udlc"},{"h":"UDM","segs":[{"k":"m","t":"Viết tắt của U.K. Union of Democratic Mineworkers"}],"k":"udm"},{"h":"Udmurt","segs":[{"k":"m","t":"(số nhiều Udmurt hoặc Udmurts)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"1. member of central Russian people: a member of a people who live mainly in Udmurtia in central Russia"},{"k":"m","t":"2. Udmurt language: the Finno-Ugric language of the Udmurt people. 500,000."},{"k":"m","t":"-Udmurt (tính từ)"}],"k":"udmurt"},{"h":"Udmurtia","segs":[{"k":"m","t":"autonomous republic in eastern European Russia between Tatarstan và Bashkortostan."},{"k":"m","t":"Capital: Izhevsk"},{"k":"m","t":"Dân số khoảng: 1,616,200 (thống kê năm 2002)"},{"k":"m","t":"Diện tích: 42,100 sq km/16,255 sq mi"}],"k":"udmurtia"},{"h":"udo","segs":[{"k":"m","t":"(số nhiều udos)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"Asian vegetable: a perennial plant of the ginseng family whose tender shoots are cooked và eaten as a vegetable. Thường thấy ở: South Asia."},{"k":"m","t":"Tên Latinh: Aralia cordata"}],"k":"udo"},{"h":"udometer","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"cái đo mưa, đồng hồ đo mưa"},{"k":"m","t":"vũ lượng kế."}],"ipa":"ju'dɔmitə","k":"udometer"},{"h":"udometric","segs":[{"k":"pos","t":"tính từ"},{"k":"m","t":"(thuộc) đồng hồ đo mưa"},{"k":"m","t":"(thuộc) vũ lượng kế."}],"ipa":"judə'metrik","k":"udometric"},{"h":"udometry","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"phép đo mưa."}],"ipa":"ju'dɔmətri","k":"udometry"},{"h":"udomograph","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"đồng hồ đo mưa tự ghi."}],"ipa":"ju'dɔməgra:f","k":"udomograph"},{"h":"udon","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Japanese wheat noodles: in Japanese cuisine, pasta in the form of thick wheat strips"}],"k":"udon"},{"h":"UDP","segs":[{"k":"m","t":"(User Datagram Protocol) giao thức gói dữ liệu người dùng."}],"k":"udp"},{"h":"udr","segs":[{"k":"m","t":"(tắt) trung đoàn phòng thủ tỉnh Ulster (Ulster Defence Regiment)."}],"ipa":"'ju:di:'a:r","k":"udr"},{"h":"UDS","segs":[{"k":"m","t":"(utility definition specification) đặc tả định nghĩa tiện ích."}],"k":"uds"}]
+[
+  {
+    "h": "uda",
+    "segs": [
+      {"k": "m", "t": "(tắt) hội phòng thủ Ulster (Bắc Ai-len) ("},
+      {"k": "ex", "t": "Ulster Defence Association", "vi": ")."}
+    ],
+    "ipa": ",ju:di:'ei",
+    "k": "uda"
+  },
+  {
+    "h": "Uda antenna",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ăng ten Uda"}],
+    "k": "uda antenna"
+  },
+  {
+    "h": "Udaipur",
+    "segs": [
+      {
+        "k": "m",
+        "t": "city và administrative headquarters of Udaipur District, Rajasthan State, northwestern India."
+      },
+      {"k": "m", "t": "Dân số khoảng: 308,571 (1991)"}
+    ],
+    "k": "udaipur"
+  },
+  {
+    "h": "udb",
+    "segs": [{"k": "m", "t": "(universal debugger) phương trình gỡ rối đa năng."}],
+    "k": "udb"
+  },
+  {
+    "h": "udb (universal debugger)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "phương trình gỡ rối đa năng"}
+    ],
+    "k": "udb (universal debugger)"
+  },
+  {
+    "h": "udder",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "vú động vật (bò, cừu...)."}],
+    "ipa": "'ʌdə",
+    "k": "udder"
+  },
+  {"h": "udder fat", "segs": [{"k": "m", "t": "mỡ bầu vú."}], "k": "udder fat"},
+  {
+    "h": "uddered",
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "có bầu vú (bò, cừu...)."}],
+    "ipa": "'ʌdəd",
+    "k": "uddered"
+  },
+  {
+    "h": "UDDS",
+    "segs": [{"k": "m", "t": "(user-defined data stream) luồng dữ liệu do người dùng định nghĩa."}],
+    "k": "udds"
+  },
+  {
+    "h": "udi",
+    "segs": [{"k": "m", "t": "(tắt) sự đơn phương tuyên bố độc lập (unilateral declaration)."}],
+    "ipa": ",ju:di:'ai",
+    "k": "udi"
+  },
+  {
+    "h": "Udjung Pandang",
+    "segs": [
+      {
+        "k": "m",
+        "t": "hoặc Ujungpandang city và port on the Makassar Strait, southwestern Sulawesi, Indonesia."
+      },
+      {"k": "m", "t": "Dân số khoảng: 944,372 (1990) Former name Makassar"}
+    ],
+    "k": "udjung pandang"
+  },
+  {
+    "h": "UDLC",
+    "segs": [
+      {"k": "m", "t": "(universal data-link control) sự điều khiển liên kết dữ liệu đa năng."}
+    ],
+    "k": "udlc"
+  },
+  {
+    "h": "UDM",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Union of Democratic Mineworkers"}],
+    "k": "udm"
+  },
+  {
+    "h": "Udmurt",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Udmurt hoặc Udmurts)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "1. member of central Russian people: a member of a people who live mainly in Udmurtia in central Russia"
+      },
+      {"k": "m", "t": "2. Udmurt language: the Finno-Ugric language of the Udmurt people. 500,000."},
+      {"k": "m", "t": "-Udmurt (tính từ)"}
+    ],
+    "k": "udmurt"
+  },
+  {
+    "h": "Udmurtia",
+    "segs": [
+      {
+        "k": "m",
+        "t": "autonomous republic in eastern European Russia between Tatarstan và Bashkortostan."
+      },
+      {"k": "m", "t": "Capital: Izhevsk"},
+      {"k": "m", "t": "Dân số khoảng: 1,616,200 (thống kê năm 2002)"},
+      {"k": "m", "t": "Diện tích: 42,100 sq km/16,255 sq mi"}
+    ],
+    "k": "udmurtia"
+  },
+  {
+    "h": "udo",
+    "segs": [
+      {"k": "m", "t": "(số nhiều udos)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Asian vegetable: a perennial plant of the ginseng family whose tender shoots are cooked và eaten as a vegetable. Thường thấy ở: South Asia."
+      },
+      {"k": "m", "t": "Tên Latinh: Aralia cordata"}
+    ],
+    "k": "udo"
+  },
+  {
+    "h": "udometer",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "cái đo mưa, đồng hồ đo mưa"},
+      {"k": "m", "t": "vũ lượng kế."}
+    ],
+    "ipa": "ju'dɔmitə",
+    "k": "udometer"
+  },
+  {
+    "h": "udometric",
+    "segs": [
+      {"k": "pos", "t": "tính từ"},
+      {"k": "m", "t": "(thuộc) đồng hồ đo mưa"},
+      {"k": "m", "t": "(thuộc) vũ lượng kế."}
+    ],
+    "ipa": "judə'metrik",
+    "k": "udometric"
+  },
+  {
+    "h": "udometry",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "phép đo mưa."}],
+    "ipa": "ju'dɔmətri",
+    "k": "udometry"
+  },
+  {
+    "h": "udomograph",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "đồng hồ đo mưa tự ghi."}],
+    "ipa": "ju'dɔməgra:f",
+    "k": "udomograph"
+  },
+  {
+    "h": "udon",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Japanese wheat noodles: in Japanese cuisine, pasta in the form of thick wheat strips"
+      }
+    ],
+    "k": "udon"
+  },
+  {
+    "h": "UDP",
+    "segs": [{"k": "m", "t": "(User Datagram Protocol) giao thức gói dữ liệu người dùng."}],
+    "k": "udp"
+  },
+  {
+    "h": "udr",
+    "segs": [{"k": "m", "t": "(tắt) trung đoàn phòng thủ tỉnh Ulster (Ulster Defence Regiment)."}],
+    "ipa": "'ju:di:'a:r",
+    "k": "udr"
+  },
+  {
+    "h": "UDS",
+    "segs": [{"k": "m", "t": "(utility definition specification) đặc tả định nghĩa tiện ích."}],
+    "k": "uds"
+  }
+]

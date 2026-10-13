@@ -1,1 +1,12 @@
-[{"h":"vv","segs":[{"k":"m","t":"vt 1. Verse thơ 2. Volumes tập, tuyển."}],"k":"vv"},{"h":"vv.","segs":[{"k":"m","t":"Viết tắt của 1. verses"},{"k":"m","t":"2. music (first và second) violins"},{"k":"m","t":"3. volumes"}],"k":"vv."}]
+[
+  {"h": "vv", "segs": [{"k": "m", "t": "vt 1. Verse thơ 2. Volumes tập, tuyển."}], "k": "vv"},
+  {
+    "h": "vv.",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. verses"},
+      {"k": "m", "t": "2. music (first và second) violins"},
+      {"k": "m", "t": "3. volumes"}
+    ],
+    "k": "vv."
+  }
+]

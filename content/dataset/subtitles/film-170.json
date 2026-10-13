@@ -1,1 +1,252 @@
-{"id":170,"code":"C 46","group":"C","n":46,"title":"C 46","first_line":"One in four Americans has high blood pressure, and almost half of them don't even know it!","video":"C 46.avi","duration":175.8,"lines":[{"e":6.17,"en":"One in four Americans has high blood pressure, and almost half of them don't even know it!","vi":"Cứ 4 người Mỹ thì có 1 người bị huyết áp cao, và hầu như một nửa trong số họ thậm chí còn không biết đến điều này!","s":0.0},{"e":9.09,"en":"Let's take a closer look at this common condition.","vi":"Hãy xem xét kỹ hơn về tình trạng phổ biến này.","s":6.17},{"e":15.31,"en":"To truly understand high blood pressure - or hypertension as it's known in the medical community","vi":"Ðể thật sự hiểu rõ về huyết áp cao - hoặc theo cách gọi của giới y học là chứng tăng huyết áp","s":9.09},{"e":20.13,"en":"it helps to have a basic knowledge of the circular path through which blood flows.","vi":"việc này giúp hình thành kiến thức cơ bản về vòng tuần hoàn của máu.","s":15.31},{"e":23.36,"en":"Normally, blood leaves the heart through arterioles,","vi":"Thông thường, máu từ tim qua các tiểu động mạch,","s":20.13},{"e":28.72,"en":"which then taper into small arterioles and finally taper into small capillaries","vi":"kế đó lượng máu ấy luồn vào các tiểu động mạch nhỏ và cuối cùng luồn vào các mao mạch nhỏ","s":23.36},{"e":30.91,"en":"that supply the body with oxygen.","vi":"cung cấp ôxy cho cơ thể.","s":28.72},{"e":34.4,"en":"The blood finishes its circular journey by returning to the heart.","vi":"Máu kết thúc vòng tuần hoàn của nó bằng cách trở về tim.","s":30.91},{"e":39.47,"en":"On occasion, various factors can cause the arterioles to narrow.","vi":"Ðôi khi có nhiều nhân tố khác nhau có thể làm cho các tiểu động mạch bị hẹp lại.","s":34.4},{"e":44.12,"en":"When this occurs, the heart has to work harder to pump blood through the smaller opening.","vi":"Khi điều này xảy ra, tim phải làm việc vất vả hơn để bơm máu qua những khe hẹp hơn.","s":39.47},{"e":46.04,"en":"This is high blood pressure.","vi":"Tình trạng này là huyết áp cao.","s":44.12},{"e":48.97,"en":"It's easy to ignore the threat of hypertension.","vi":"Người ta dễ dàng phớt lờ sự nguy hiểm của chứng tăng huyết áp.","s":46.04},{"e":54.01,"en":"San Francisco 49ers great, Joe Montana, certainly wasn't worried about this condition","vi":"Chắc chắn là Joe Montana, cầu thủ lừng danh của đội bóng San Francisco 49ers, đã không lo lắng về tình trạng này","s":48.97},{"e":57.38,"en":"he was too busy leading his team to four Super Bowl victories!","vi":"Anh quá bận rộn với việc dẫn dắt đội bóng giành 4 chiến thắng trong giải vô địch Super Bowl","s":54.01},{"e":61.46,"en":"But despite his active lifestyle, Joe did have high blood pressure.","vi":"Nhưng bất chấp lối sống tích cực của anh, Joe thật sự bị huyết áp cao.","s":57.38},{"e":68.42,"en":"Because hypertension is often asymptomatic, Joe wasn't even aware of the problem until after his retirement.","vi":"Vì chứng tăng huyết áp thường không có triệu chứng, Joe thậm chí còn không biết đến vấn đề này cho đến sau khi nghỉ việc.","s":61.46},{"e":74.12,"en":"Due to cases like this, doctors have nicknamed high blood pressure, \"the silent killer.\"","vi":"Vì những trường hợp như thế, các bác sĩ đã đặt biệt danh cho huyết áp cao là \"sát thủ âm thầm\".","s":68.42},{"e":77.38,"en":"Not getting treatment for hypertension is bad news,","vi":"Việc không điều trị chứng tăng huyết áp là điều tồi tệ.","s":74.12},{"e":81.65,"en":"because up to 70 percent of strokes are a direct result of the condition!","vi":"vì có đến 70% trường hợp đột quỵ là hậu quả trực tiếp của bệnh trạng này!","s":77.38},{"e":85.95,"en":"Plus, high blood pressure contributes to heart attacks and kidney failure.","vi":"Ngoài ra, huyết áp cao còn góp phần gây ra những cơn đau tim và suy thận.","s":81.65},{"e":90.74,"en":"To sidestep these consequences, a doctor should test your blood pressure at every check - up.","vi":"Ðể tránh những hậu quả này, bác sĩ phải kiểm tra huyết áp của bạn vào mỗi lần khám tổng quát.","s":85.95},{"e":93.06,"en":"Blood pressure is measured in two ways.","vi":"Huyết áp được đo theo hai cách.","s":90.74},{"e":95.92,"en":"One measurement refers to systolic pressure,","vi":"Cách thứ nhất đo áp suất tâm thu,","s":93.06},{"e":99.08,"en":"which records blood pressure when the heart is contracting.","vi":"cách làm này ghi lại biểu đồ huyết áp khi tim co lại.","s":95.92},{"e":104.0,"en":"The other measures diastolic pressure, or the force when the heart is relaxed.","vi":"Cách thứ hai đo áp suất tâm trương, hoặc sức ép khi tim thư giãn.","s":99.08},{"e":107.98,"en":"Blood pressure measurement is usually written as systolic over diastolic","vi":"Kết quả của việc đo huyết áp thường được viết với áp suất tâm thu bên trên áp suất tâm trương","s":104.0},{"e":112.91,"en":"and provides the basis for determining whether a patient's blood pressure is in the healthy range,","vi":"và cung cấp cơ sở để xác định huyết áp của một bệnh nhân có nằm trong phạm vi khỏe mạnh hay không","s":107.98},{"e":114.78,"en":"or if it's at dangerously high.","vi":"hoặc nó cao ở mức nguy hiểm.","s":112.91},{"e":122.84,"en":"Optimal blood pressure is below 120 over 80, while a measure above 140 over 90 is classified as hypertension.","vi":"Huyết áp tối ưu nằm ở mức dưới 120/80 (tâm thu/tâm trương), trong khi số đo trên 140/90 được phân loại là cao huyết áp.","s":114.78},{"e":126.9,"en":"Blood pressure that lies in the middle is called pre - hypertension,","vi":"Huyết áp nằm khoảng giữa hai số đo này được gọi là tiền-tăng-huyết-áp,","s":122.84},{"e":130.38,"en":"and means that the patient is at risk of developing high blood pressure.","vi":"nghĩa là bệnh nhân có nguy cơ bị huyết áp cao.","s":126.9},{"e":135.32,"en":"In 95 percent of cases the cause of high blood pressure is unknown,","vi":"Có 95% trường hợp huyết áp cao không rõ nguyên nhân,","s":130.38},{"e":140.15,"en":"but there ARE certain risk factors that increase your chances of developing hypertension.","vi":"nhưng có một số yếu tố có nguy cơ làm tăng khả năng bị chứng cao huyết áp.","s":135.32},{"e":146.02,"en":"Among those with a higher hypertension risk are people with a family history of high blood pressure,","vi":"Trong nhóm những người có mức nguy cơ bị tăng huyết áp cao gồm những người thuộc gia đình có người bị huyết áp cao","s":140.15},{"e":149.91,"en":"people over the age of 40, those who are overweight or sedentary,","vi":"những người trên 40 tuổi bị béo phì hoặc ngồi một chỗ ít vận động,","s":146.02},{"e":153.84,"en":"women who take birth control pills and African - Americans.","vi":"những phụ nữ uống thuốc ngừa thai, và những người Mỹ gốc châu Phi.","s":149.91},{"e":159.44,"en":"The only way to know for sure if you have hypertension is to visit your doctor regularly.","vi":"Cách duy nhất để biết chắc chắn bạn có bị cao huyết áp hay không là thường xuyên đến gặp bác sĩ.","s":153.84},{"e":165.6,"en":"Because hypertension is the precursor for many heart diseases, it is important to get checked at every visit.","vi":"Vì cao huyết áp là dấu hiệu báo trước của nhiều dạng bệnh tim, nên cần phải được kiểm tra (huyết áp) mỗi lần gặp bác sĩ.","s":159.44},{"e":169.27,"en":"Becoming aware of the severity of high blood pressure,","vi":"Việc ý thức được tính chất nghiêm trọng của huyết áp cao,","s":165.6},{"e":175.78,"en":"and actively being tested for it will help to ensure that the \"silent killer\" isn't silent in YOUR life.","vi":"và việc chủ động kiểm tra nó sẽ giúp bảo đảm rằng \"sát thủ âm thầm\" không xuất hiện âm thầm trong cuộc sống CỦA BẠN","s":169.27}]}
+{
+  "id": 170,
+  "code": "C 46",
+  "group": "C",
+  "n": 46,
+  "title": "C 46",
+  "first_line": "One in four Americans has high blood pressure, and almost half of them don't even know it!",
+  "video": "C 46.avi",
+  "duration": 175.8,
+  "lines": [
+    {
+      "e": 6.17,
+      "en": "One in four Americans has high blood pressure, and almost half of them don't even know it!",
+      "vi": "Cứ 4 người Mỹ thì có 1 người bị huyết áp cao, và hầu như một nửa trong số họ thậm chí còn không biết đến điều này!",
+      "s": 0.0
+    },
+    {
+      "e": 9.09,
+      "en": "Let's take a closer look at this common condition.",
+      "vi": "Hãy xem xét kỹ hơn về tình trạng phổ biến này.",
+      "s": 6.17
+    },
+    {
+      "e": 15.31,
+      "en": "To truly understand high blood pressure - or hypertension as it's known in the medical community",
+      "vi": "Ðể thật sự hiểu rõ về huyết áp cao - hoặc theo cách gọi của giới y học là chứng tăng huyết áp",
+      "s": 9.09
+    },
+    {
+      "e": 20.13,
+      "en": "it helps to have a basic knowledge of the circular path through which blood flows.",
+      "vi": "việc này giúp hình thành kiến thức cơ bản về vòng tuần hoàn của máu.",
+      "s": 15.31
+    },
+    {
+      "e": 23.36,
+      "en": "Normally, blood leaves the heart through arterioles,",
+      "vi": "Thông thường, máu từ tim qua các tiểu động mạch,",
+      "s": 20.13
+    },
+    {
+      "e": 28.72,
+      "en": "which then taper into small arterioles and finally taper into small capillaries",
+      "vi": "kế đó lượng máu ấy luồn vào các tiểu động mạch nhỏ và cuối cùng luồn vào các mao mạch nhỏ",
+      "s": 23.36
+    },
+    {
+      "e": 30.91,
+      "en": "that supply the body with oxygen.",
+      "vi": "cung cấp ôxy cho cơ thể.",
+      "s": 28.72
+    },
+    {
+      "e": 34.4,
+      "en": "The blood finishes its circular journey by returning to the heart.",
+      "vi": "Máu kết thúc vòng tuần hoàn của nó bằng cách trở về tim.",
+      "s": 30.91
+    },
+    {
+      "e": 39.47,
+      "en": "On occasion, various factors can cause the arterioles to narrow.",
+      "vi": "Ðôi khi có nhiều nhân tố khác nhau có thể làm cho các tiểu động mạch bị hẹp lại.",
+      "s": 34.4
+    },
+    {
+      "e": 44.12,
+      "en": "When this occurs, the heart has to work harder to pump blood through the smaller opening.",
+      "vi": "Khi điều này xảy ra, tim phải làm việc vất vả hơn để bơm máu qua những khe hẹp hơn.",
+      "s": 39.47
+    },
+    {
+      "e": 46.04,
+      "en": "This is high blood pressure.",
+      "vi": "Tình trạng này là huyết áp cao.",
+      "s": 44.12
+    },
+    {
+      "e": 48.97,
+      "en": "It's easy to ignore the threat of hypertension.",
+      "vi": "Người ta dễ dàng phớt lờ sự nguy hiểm của chứng tăng huyết áp.",
+      "s": 46.04
+    },
+    {
+      "e": 54.01,
+      "en": "San Francisco 49ers great, Joe Montana, certainly wasn't worried about this condition",
+      "vi": "Chắc chắn là Joe Montana, cầu thủ lừng danh của đội bóng San Francisco 49ers, đã không lo lắng về tình trạng này",
+      "s": 48.97
+    },
+    {
+      "e": 57.38,
+      "en": "he was too busy leading his team to four Super Bowl victories!",
+      "vi": "Anh quá bận rộn với việc dẫn dắt đội bóng giành 4 chiến thắng trong giải vô địch Super Bowl",
+      "s": 54.01
+    },
+    {
+      "e": 61.46,
+      "en": "But despite his active lifestyle, Joe did have high blood pressure.",
+      "vi": "Nhưng bất chấp lối sống tích cực của anh, Joe thật sự bị huyết áp cao.",
+      "s": 57.38
+    },
+    {
+      "e": 68.42,
+      "en": "Because hypertension is often asymptomatic, Joe wasn't even aware of the problem until after his retirement.",
+      "vi": "Vì chứng tăng huyết áp thường không có triệu chứng, Joe thậm chí còn không biết đến vấn đề này cho đến sau khi nghỉ việc.",
+      "s": 61.46
+    },
+    {
+      "e": 74.12,
+      "en": "Due to cases like this, doctors have nicknamed high blood pressure, \"the silent killer.\"",
+      "vi": "Vì những trường hợp như thế, các bác sĩ đã đặt biệt danh cho huyết áp cao là \"sát thủ âm thầm\".",
+      "s": 68.42
+    },
+    {
+      "e": 77.38,
+      "en": "Not getting treatment for hypertension is bad news,",
+      "vi": "Việc không điều trị chứng tăng huyết áp là điều tồi tệ.",
+      "s": 74.12
+    },
+    {
+      "e": 81.65,
+      "en": "because up to 70 percent of strokes are a direct result of the condition!",
+      "vi": "vì có đến 70% trường hợp đột quỵ là hậu quả trực tiếp của bệnh trạng này!",
+      "s": 77.38
+    },
+    {
+      "e": 85.95,
+      "en": "Plus, high blood pressure contributes to heart attacks and kidney failure.",
+      "vi": "Ngoài ra, huyết áp cao còn góp phần gây ra những cơn đau tim và suy thận.",
+      "s": 81.65
+    },
+    {
+      "e": 90.74,
+      "en": "To sidestep these consequences, a doctor should test your blood pressure at every check - up.",
+      "vi": "Ðể tránh những hậu quả này, bác sĩ phải kiểm tra huyết áp của bạn vào mỗi lần khám tổng quát.",
+      "s": 85.95
+    },
+    {
+      "e": 93.06,
+      "en": "Blood pressure is measured in two ways.",
+      "vi": "Huyết áp được đo theo hai cách.",
+      "s": 90.74
+    },
+    {
+      "e": 95.92,
+      "en": "One measurement refers to systolic pressure,",
+      "vi": "Cách thứ nhất đo áp suất tâm thu,",
+      "s": 93.06
+    },
+    {
+      "e": 99.08,
+      "en": "which records blood pressure when the heart is contracting.",
+      "vi": "cách làm này ghi lại biểu đồ huyết áp khi tim co lại.",
+      "s": 95.92
+    },
+    {
+      "e": 104.0,
+      "en": "The other measures diastolic pressure, or the force when the heart is relaxed.",
+      "vi": "Cách thứ hai đo áp suất tâm trương, hoặc sức ép khi tim thư giãn.",
+      "s": 99.08
+    },
+    {
+      "e": 107.98,
+      "en": "Blood pressure measurement is usually written as systolic over diastolic",
+      "vi": "Kết quả của việc đo huyết áp thường được viết với áp suất tâm thu bên trên áp suất tâm trương",
+      "s": 104.0
+    },
+    {
+      "e": 112.91,
+      "en": "and provides the basis for determining whether a patient's blood pressure is in the healthy range,",
+      "vi": "và cung cấp cơ sở để xác định huyết áp của một bệnh nhân có nằm trong phạm vi khỏe mạnh hay không",
+      "s": 107.98
+    },
+    {
+      "e": 114.78,
+      "en": "or if it's at dangerously high.",
+      "vi": "hoặc nó cao ở mức nguy hiểm.",
+      "s": 112.91
+    },
+    {
+      "e": 122.84,
+      "en": "Optimal blood pressure is below 120 over 80, while a measure above 140 over 90 is classified as hypertension.",
+      "vi": "Huyết áp tối ưu nằm ở mức dưới 120/80 (tâm thu/tâm trương), trong khi số đo trên 140/90 được phân loại là cao huyết áp.",
+      "s": 114.78
+    },
+    {
+      "e": 126.9,
+      "en": "Blood pressure that lies in the middle is called pre - hypertension,",
+      "vi": "Huyết áp nằm khoảng giữa hai số đo này được gọi là tiền-tăng-huyết-áp,",
+      "s": 122.84
+    },
+    {
+      "e": 130.38,
+      "en": "and means that the patient is at risk of developing high blood pressure.",
+      "vi": "nghĩa là bệnh nhân có nguy cơ bị huyết áp cao.",
+      "s": 126.9
+    },
+    {
+      "e": 135.32,
+      "en": "In 95 percent of cases the cause of high blood pressure is unknown,",
+      "vi": "Có 95% trường hợp huyết áp cao không rõ nguyên nhân,",
+      "s": 130.38
+    },
+    {
+      "e": 140.15,
+      "en": "but there ARE certain risk factors that increase your chances of developing hypertension.",
+      "vi": "nhưng có một số yếu tố có nguy cơ làm tăng khả năng bị chứng cao huyết áp.",
+      "s": 135.32
+    },
+    {
+      "e": 146.02,
+      "en": "Among those with a higher hypertension risk are people with a family history of high blood pressure,",
+      "vi": "Trong nhóm những người có mức nguy cơ bị tăng huyết áp cao gồm những người thuộc gia đình có người bị huyết áp cao",
+      "s": 140.15
+    },
+    {
+      "e": 149.91,
+      "en": "people over the age of 40, those who are overweight or sedentary,",
+      "vi": "những người trên 40 tuổi bị béo phì hoặc ngồi một chỗ ít vận động,",
+      "s": 146.02
+    },
+    {
+      "e": 153.84,
+      "en": "women who take birth control pills and African - Americans.",
+      "vi": "những phụ nữ uống thuốc ngừa thai, và những người Mỹ gốc châu Phi.",
+      "s": 149.91
+    },
+    {
+      "e": 159.44,
+      "en": "The only way to know for sure if you have hypertension is to visit your doctor regularly.",
+      "vi": "Cách duy nhất để biết chắc chắn bạn có bị cao huyết áp hay không là thường xuyên đến gặp bác sĩ.",
+      "s": 153.84
+    },
+    {
+      "e": 165.6,
+      "en": "Because hypertension is the precursor for many heart diseases, it is important to get checked at every visit.",
+      "vi": "Vì cao huyết áp là dấu hiệu báo trước của nhiều dạng bệnh tim, nên cần phải được kiểm tra (huyết áp) mỗi lần gặp bác sĩ.",
+      "s": 159.44
+    },
+    {
+      "e": 169.27,
+      "en": "Becoming aware of the severity of high blood pressure,",
+      "vi": "Việc ý thức được tính chất nghiêm trọng của huyết áp cao,",
+      "s": 165.6
+    },
+    {
+      "e": 175.78,
+      "en": "and actively being tested for it will help to ensure that the \"silent killer\" isn't silent in YOUR life.",
+      "vi": "và việc chủ động kiểm tra nó sẽ giúp bảo đảm rằng \"sát thủ âm thầm\" không xuất hiện âm thầm trong cuộc sống CỦA BẠN",
+      "s": 169.27
+    }
+  ]
+}

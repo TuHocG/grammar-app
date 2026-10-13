@@ -1,1 +1,43 @@
-[{"h":"vb.","segs":[{"k":"m","t":"abbreviationlinguistics"},{"k":"m","t":"1. verb"},{"k":"m","t":"2. verbal"}],"k":"vb."},{"h":"VBA","segs":[{"k":"m","t":"Một phiên bản của ngôn ngữ lập trình Visual Basic được gồm cùng với các trình ứng dụng của Microsoft Windows, như Excel chẳng hạn, còn được gọi là Bisual Basic Programming System, Applications Edition. VBA được sử dụng để tạo nên các thủ tục đơn giản như các Macro cơ bản, phức tạp như các trình ứng dụng viết theo ý khách hàng, gồm đủ các hộp hội thoại, các lệnh đơn, các nút bấm, các lệnh đồng nhất."}],"k":"vba"},{"h":"VBAC","segs":[{"k":"m","t":"(số nhiều VBACs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"post-cesarean section vaginal birth: a vaginal delivery of a baby by a woman whose first baby was delivered by cesarean section. Full form vaginal birth after cesarean (delivery)"}],"k":"vbac"},{"h":"VBNS","segs":[{"k":"m","t":"(very-high-speed backbone network service) dịch vụ mạng đường trục tốc độ rất cao."}],"k":"vbns"}]
+[
+  {
+    "h": "vb.",
+    "segs": [
+      {"k": "m", "t": "abbreviationlinguistics"},
+      {"k": "m", "t": "1. verb"},
+      {"k": "m", "t": "2. verbal"}
+    ],
+    "k": "vb."
+  },
+  {
+    "h": "VBA",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một phiên bản của ngôn ngữ lập trình Visual Basic được gồm cùng với các trình ứng dụng của Microsoft Windows, như Excel chẳng hạn, còn được gọi là Bisual Basic Programming System, Applications Edition. VBA được sử dụng để tạo nên các thủ tục đơn giản như các Macro cơ bản, phức tạp như các trình ứng dụng viết theo ý khách hàng, gồm đủ các hộp hội thoại, các lệnh đơn, các nút bấm, các lệnh đồng nhất."
+      }
+    ],
+    "k": "vba"
+  },
+  {
+    "h": "VBAC",
+    "segs": [
+      {"k": "m", "t": "(số nhiều VBACs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "post-cesarean section vaginal birth: a vaginal delivery of a baby by a woman whose first baby was delivered by cesarean section. Full form vaginal birth after cesarean (delivery)"
+      }
+    ],
+    "k": "vbac"
+  },
+  {
+    "h": "VBNS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(very-high-speed backbone network service) dịch vụ mạng đường trục tốc độ rất cao."
+      }
+    ],
+    "k": "vbns"
+  }
+]

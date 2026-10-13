@@ -1,1 +1,126 @@
-[{"h":"tv","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"TV) máy vô tuyến truyền hình (television","vi":")."}],"ipa":",ti: 'vi:","k":"tv","q":{"vi":"chiếc Tivi","ipa":"tivi","rs":"thi vi"}},{"h":"TV (television)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự truyền hình"},{"k":"m","t":"máy truyền hình"}],"k":"tv (television)"},{"h":"TV control","segs":[{"k":"m","t":"sự kiểm tra truyền hình."}],"k":"tv control"},{"h":"TV dinner","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"bữa ăn gói sẵn chỉ cần hâm nóng là ăn được."}],"ipa":",ti:vi'di:nə","k":"tv dinner"},{"h":"TV movie","segs":[{"k":"m","t":"(số nhiều TV movies)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"movie made for TV: a movie that is made to be shown on television và is not usually released in theaters"}],"k":"tv movie"},{"h":"TV programmes","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"tiết mục truyền hình"}],"k":"tv programmes"},{"h":"TV safety","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"central viewing area of television: the central area of a television viewing screen that is seen on most television sets."},{"k":"m","t":"The peripheral area is sometimes not seen on the viewing screen."}],"k":"tv safety"},{"h":"TV spot","segs":[{"k":"dom","t":"Chuyên ngành kinh tế"},{"k":"m","t":"quảng cáo truyền hình"}],"k":"tv spot"},{"h":"TV system","segs":[{"k":"m","t":"hệ thống truyền hình."}],"k":"tv system"},{"h":"TV tower","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tháp truyền hình"}],"k":"tv tower"},{"h":"TV transmitting aerial","segs":[{"k":"m","t":"dây ăng-ten TV phát."}],"k":"tv transmitting aerial"},{"h":"TV-set","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy thu hình"}],"k":"tv-set"},{"h":"TVEI","segs":[{"k":"m","t":"Viết tắt của U.K. technical và vocational initiative"}],"k":"tvei"},{"h":"TVEL","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"thí điểm giáo dục hướng nghiệp và kỹ thuật"}],"k":"tvel"},{"h":"Tver","segs":[{"k":"m","t":"city in western Russia, at the confluence of the Volga và Tvertsa rivers."},{"k":"m","t":"Dân số khoảng: 409,400 (2002) Former name Kalinin1933-1990"}],"k":"tver"},{"h":"TVP","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"soy food product: a high-protein product made from processed soybeans that are formed into chunks hoặc ground và flavored to taste like meat. Full form textured vegetable protein"}],"k":"tvp"},{"h":"TVR","segs":[{"k":"m","t":"Viết tắt của television rating"}],"k":"tvr"},{"h":"TVRO","segs":[{"k":"m","t":"(số nhiều TVROs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"television antenna: an antenna used for receiving television signals from a broadcasting satellite. Full form television receive only"}],"k":"tvro"}]
+[
+  {
+    "h": "tv",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {"k": "ex", "t": "TV) máy vô tuyến truyền hình (television", "vi": ")."}
+    ],
+    "ipa": ",ti: 'vi:",
+    "k": "tv",
+    "q": {"vi": "chiếc Tivi", "ipa": "tivi", "rs": "thi vi"}
+  },
+  {
+    "h": "TV (television)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sự truyền hình"},
+      {"k": "m", "t": "máy truyền hình"}
+    ],
+    "k": "tv (television)"
+  },
+  {"h": "TV control", "segs": [{"k": "m", "t": "sự kiểm tra truyền hình."}], "k": "tv control"},
+  {
+    "h": "TV dinner",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "bữa ăn gói sẵn chỉ cần hâm nóng là ăn được."}
+    ],
+    "ipa": ",ti:vi'di:nə",
+    "k": "tv dinner"
+  },
+  {
+    "h": "TV movie",
+    "segs": [
+      {"k": "m", "t": "(số nhiều TV movies)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "movie made for TV: a movie that is made to be shown on television và is not usually released in theaters"
+      }
+    ],
+    "k": "tv movie"
+  },
+  {
+    "h": "TV programmes",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "tiết mục truyền hình"}],
+    "k": "tv programmes"
+  },
+  {
+    "h": "TV safety",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "central viewing area of television: the central area of a television viewing screen that is seen on most television sets."
+      },
+      {"k": "m", "t": "The peripheral area is sometimes not seen on the viewing screen."}
+    ],
+    "k": "tv safety"
+  },
+  {
+    "h": "TV spot",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "quảng cáo truyền hình"}],
+    "k": "tv spot"
+  },
+  {"h": "TV system", "segs": [{"k": "m", "t": "hệ thống truyền hình."}], "k": "tv system"},
+  {
+    "h": "TV tower",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tháp truyền hình"}],
+    "k": "tv tower"
+  },
+  {
+    "h": "TV transmitting aerial",
+    "segs": [{"k": "m", "t": "dây ăng-ten TV phát."}],
+    "k": "tv transmitting aerial"
+  },
+  {
+    "h": "TV-set",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy thu hình"}],
+    "k": "tv-set"
+  },
+  {
+    "h": "TVEI",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. technical và vocational initiative"}],
+    "k": "tvei"
+  },
+  {
+    "h": "TVEL",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "thí điểm giáo dục hướng nghiệp và kỹ thuật"}
+    ],
+    "k": "tvel"
+  },
+  {
+    "h": "Tver",
+    "segs": [
+      {"k": "m", "t": "city in western Russia, at the confluence of the Volga và Tvertsa rivers."},
+      {"k": "m", "t": "Dân số khoảng: 409,400 (2002) Former name Kalinin1933-1990"}
+    ],
+    "k": "tver"
+  },
+  {
+    "h": "TVP",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "soy food product: a high-protein product made from processed soybeans that are formed into chunks hoặc ground và flavored to taste like meat. Full form textured vegetable protein"
+      }
+    ],
+    "k": "tvp"
+  },
+  {"h": "TVR", "segs": [{"k": "m", "t": "Viết tắt của television rating"}], "k": "tvr"},
+  {
+    "h": "TVRO",
+    "segs": [
+      {"k": "m", "t": "(số nhiều TVROs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "television antenna: an antenna used for receiving television signals from a broadcasting satellite. Full form television receive only"
+      }
+    ],
+    "k": "tvro"
+  }
+]

@@ -1,1 +1,12 @@
-[{"h":"xu","segs":[{"k":"m","t":"(số nhiều xu)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"subunit of Vietnamese currency: a subunit of Vietnamese currency"}],"k":"xu"},{"h":"Xuzhou","segs":[{"k":"m","t":"Another spelling of Suzhou"}],"k":"xuzhou"}]
+[
+  {
+    "h": "xu",
+    "segs": [
+      {"k": "m", "t": "(số nhiều xu)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "subunit of Vietnamese currency: a subunit of Vietnamese currency"}
+    ],
+    "k": "xu"
+  },
+  {"h": "Xuzhou", "segs": [{"k": "m", "t": "Another spelling of Suzhou"}], "k": "xuzhou"}
+]

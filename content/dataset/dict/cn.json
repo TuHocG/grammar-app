@@ -1,1 +1,163 @@
-[{"h":"cn","segs":[{"k":"m","t":"Viết tắt của China (used in Internet addresses)"}],"k":"cn"},{"h":"CN Tower","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"tall tower in Toronto: a tall tower in downtown Toronto, Canada. It is more than 553 m/1800 ft high và was the world's tallest free-standing structure when it was built in 1976."}],"k":"cn tower"},{"h":"CNA","segs":[{"k":"m","t":"(communication network architecture) kiến trúc mạng truyền thông."}],"k":"cna"},{"h":"CNAA","segs":[{"k":"m","t":"Viết tắt của U.K. education Council for National Academic Awards"}],"k":"cnaa"},{"h":"CNAR","segs":[{"k":"m","t":"Viết tắt của finance compound net annual rate"}],"k":"cnar"},{"h":"cnd","segs":[{"k":"m","t":"(tắt) Phong trào đấu tranh cho sự giải trừ vũ khí hạt nhân ("},{"k":"ex","t":"Campaign for Nuclear Disarmament","vi":")."}],"ipa":",si: en 'di:","k":"cnd"},{"h":"cndensed phosphatese","segs":[{"k":"m","t":"poliphotphat."}],"k":"cndensed phosphatese"},{"h":"cnemis","segs":[{"k":"m","t":"Xương chày"},{"k":"m","t":"Cẳng chân."}],"k":"cnemis"},{"h":"cnemitis","segs":[{"k":"m","t":"Viêm xương chày."}],"k":"cnemitis"},{"h":"cnemoscoliosis","segs":[{"k":"m","t":"Cẳng chân cong phía bên."}],"k":"cnemoscoliosis"},{"h":"CNET","segs":[{"k":"m","t":"(Centre National d'eludes des Telecommunications) trung tâm quốc gia nghiên cứu viễn thông."}],"k":"cnet"},{"h":"cnidarian","segs":[{"k":"m","t":"(số nhiều cnidarians)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"ocean animal with tentacles: any invertebrate ocean animal that has tentacles surrounding the mouth, ví dụ: sea anemones, corals, và jellyfish."},{"k":"m","t":"Phylum: Cnidaria"},{"k":"m","t":"-cnidarian (tính từ)"}],"k":"cnidarian"},{"h":"cnidocil","segs":[{"k":"m","t":"(số nhiều cnidocils)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"zoology stinging-cell bristle of jellyfish: a tiny bristle that projects from the stinging cell of a jellyfish, hydra, hoặc other cnidarian. When stimulated, it triggers the discharge of a coiled stinging thread."}],"k":"cnidocil"},{"h":"cnidophore","segs":[{"k":"m","t":"thể châm ngứa."}],"k":"cnidophore"},{"h":"cnidophorous","segs":[{"k":"m","t":"(adj)"},{"k":"m","t":"(Tham khảo)"},{"k":"ex","t":"cnidophore","vi":"."}],"k":"cnidophorous"},{"h":"cnidosis","segs":[{"k":"m","t":"Mày đay."}],"k":"cnidosis"},{"h":"CNM","segs":[{"k":"m","t":"(communication network management) sự quản trị mạng truyền thông."}],"k":"cnm"},{"h":"CNM application program","segs":[{"k":"m","t":"(communication network management application program) chương trình ứng dụng CNM, chương trình ứng dụng sự quản trị mạng truyền thông."}],"k":"cnm application program"},{"h":"CNM interface","segs":[{"k":"m","t":"(communication network management interface) giao diện CNM, giao diện điều hành sự quản trị mạng truyền thông."}],"k":"cnm interface"},{"h":"CNM processor","segs":[{"k":"m","t":"(communication network management processor) bộ xử lý CNM, bộ xử lý sự quản trị mạng truyền thông."}],"k":"cnm processor"},{"h":"CNN","segs":[{"k":"m","t":"(Cellular Neural Network) mạng thần kinh tế bào, mạng CNN."}],"k":"cnn"},{"h":"cnoidal","segs":[{"k":"m","t":"Knoit."}],"k":"cnoidal"},{"h":"cnoidal wave","segs":[{"k":"m","t":"sóng cnoidal."}],"k":"cnoidal wave"},{"h":"cnoidal(way)","segs":[{"k":"m","t":"sóng knôít."}],"k":"cnoidal(way)"},{"h":"CNP","segs":[{"k":"m","t":"(communication statistical network analysis procedure) thủ tục phân tích mạng thống kê truyền thông."}],"k":"cnp"},{"h":"CNS","segs":[{"k":"m","t":"xem central nervous system hệ thần kinh Trung ương"}],"k":"cns"}]
+[
+  {
+    "h": "cn",
+    "segs": [{"k": "m", "t": "Viết tắt của China (used in Internet addresses)"}],
+    "k": "cn"
+  },
+  {
+    "h": "CN Tower",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "tall tower in Toronto: a tall tower in downtown Toronto, Canada. It is more than 553 m/1800 ft high và was the world's tallest free-standing structure when it was built in 1976."
+      }
+    ],
+    "k": "cn tower"
+  },
+  {
+    "h": "CNA",
+    "segs": [{"k": "m", "t": "(communication network architecture) kiến trúc mạng truyền thông."}],
+    "k": "cna"
+  },
+  {
+    "h": "CNAA",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. education Council for National Academic Awards"}],
+    "k": "cnaa"
+  },
+  {
+    "h": "CNAR",
+    "segs": [{"k": "m", "t": "Viết tắt của finance compound net annual rate"}],
+    "k": "cnar"
+  },
+  {
+    "h": "cnd",
+    "segs": [
+      {"k": "m", "t": "(tắt) Phong trào đấu tranh cho sự giải trừ vũ khí hạt nhân ("},
+      {"k": "ex", "t": "Campaign for Nuclear Disarmament", "vi": ")."}
+    ],
+    "ipa": ",si: en 'di:",
+    "k": "cnd"
+  },
+  {
+    "h": "cndensed phosphatese",
+    "segs": [{"k": "m", "t": "poliphotphat."}],
+    "k": "cndensed phosphatese"
+  },
+  {
+    "h": "cnemis",
+    "segs": [{"k": "m", "t": "Xương chày"}, {"k": "m", "t": "Cẳng chân."}],
+    "k": "cnemis"
+  },
+  {"h": "cnemitis", "segs": [{"k": "m", "t": "Viêm xương chày."}], "k": "cnemitis"},
+  {
+    "h": "cnemoscoliosis",
+    "segs": [{"k": "m", "t": "Cẳng chân cong phía bên."}],
+    "k": "cnemoscoliosis"
+  },
+  {
+    "h": "CNET",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Centre National d'eludes des Telecommunications) trung tâm quốc gia nghiên cứu viễn thông."
+      }
+    ],
+    "k": "cnet"
+  },
+  {
+    "h": "cnidarian",
+    "segs": [
+      {"k": "m", "t": "(số nhiều cnidarians)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "ocean animal with tentacles: any invertebrate ocean animal that has tentacles surrounding the mouth, ví dụ: sea anemones, corals, và jellyfish."
+      },
+      {"k": "m", "t": "Phylum: Cnidaria"},
+      {"k": "m", "t": "-cnidarian (tính từ)"}
+    ],
+    "k": "cnidarian"
+  },
+  {
+    "h": "cnidocil",
+    "segs": [
+      {"k": "m", "t": "(số nhiều cnidocils)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "zoology stinging-cell bristle of jellyfish: a tiny bristle that projects from the stinging cell of a jellyfish, hydra, hoặc other cnidarian. When stimulated, it triggers the discharge of a coiled stinging thread."
+      }
+    ],
+    "k": "cnidocil"
+  },
+  {"h": "cnidophore", "segs": [{"k": "m", "t": "thể châm ngứa."}], "k": "cnidophore"},
+  {
+    "h": "cnidophorous",
+    "segs": [
+      {"k": "m", "t": "(adj)"},
+      {"k": "m", "t": "(Tham khảo)"},
+      {"k": "ex", "t": "cnidophore", "vi": "."}
+    ],
+    "k": "cnidophorous"
+  },
+  {"h": "cnidosis", "segs": [{"k": "m", "t": "Mày đay."}], "k": "cnidosis"},
+  {
+    "h": "CNM",
+    "segs": [{"k": "m", "t": "(communication network management) sự quản trị mạng truyền thông."}],
+    "k": "cnm"
+  },
+  {
+    "h": "CNM application program",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(communication network management application program) chương trình ứng dụng CNM, chương trình ứng dụng sự quản trị mạng truyền thông."
+      }
+    ],
+    "k": "cnm application program"
+  },
+  {
+    "h": "CNM interface",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(communication network management interface) giao diện CNM, giao diện điều hành sự quản trị mạng truyền thông."
+      }
+    ],
+    "k": "cnm interface"
+  },
+  {
+    "h": "CNM processor",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(communication network management processor) bộ xử lý CNM, bộ xử lý sự quản trị mạng truyền thông."
+      }
+    ],
+    "k": "cnm processor"
+  },
+  {
+    "h": "CNN",
+    "segs": [{"k": "m", "t": "(Cellular Neural Network) mạng thần kinh tế bào, mạng CNN."}],
+    "k": "cnn"
+  },
+  {"h": "cnoidal", "segs": [{"k": "m", "t": "Knoit."}], "k": "cnoidal"},
+  {"h": "cnoidal wave", "segs": [{"k": "m", "t": "sóng cnoidal."}], "k": "cnoidal wave"},
+  {"h": "cnoidal(way)", "segs": [{"k": "m", "t": "sóng knôít."}], "k": "cnoidal(way)"},
+  {
+    "h": "CNP",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(communication statistical network analysis procedure) thủ tục phân tích mạng thống kê truyền thông."
+      }
+    ],
+    "k": "cnp"
+  },
+  {
+    "h": "CNS",
+    "segs": [{"k": "m", "t": "xem central nervous system hệ thần kinh Trung ương"}],
+    "k": "cns"
+  }
+]

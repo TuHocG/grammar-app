@@ -1,1 +1,8 @@
-[{"h":"yb","segs":[{"k":"m","t":"ký (hóa) nguyên tố ytterbium."}],"k":"yb"},{"h":"YB (ytterbium)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"Yb"}],"k":"yb (ytterbium)"}]
+[
+  {"h": "yb", "segs": [{"k": "m", "t": "ký (hóa) nguyên tố ytterbium."}], "k": "yb"},
+  {
+    "h": "YB (ytterbium)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "Yb"}],
+    "k": "yb (ytterbium)"
+  }
+]

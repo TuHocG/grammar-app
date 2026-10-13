@@ -1,1 +1,7 @@
-[{"h":"M1 and M0","segs":[{"k":"m","t":"(kinh tế) Mức cung tiền M1 và M0."}],"k":"m1 and m0"}]
+[
+  {
+    "h": "M1 and M0",
+    "segs": [{"k": "m", "t": "(kinh tế) Mức cung tiền M1 và M0."}],
+    "k": "m1 and m0"
+  }
+]

@@ -1,1 +1,62 @@
-[{"h":"PB","segs":[{"k":"m","t":"(petabyte) Petabyte, bằng 2 lũy thừa 50 (hoặc 1.125.899.906.842.624) byte."}],"k":"pb"},{"h":"pb (lead)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chì"}],"k":"pb (lead)"},{"h":"PBA","segs":[{"k":"m","t":"Viết tắt của 1. Patrolmen's Benevolent Association"},{"k":"m","t":"2. Policemen's Benevolent Association"}],"k":"pba"},{"h":"PBGC","segs":[{"k":"m","t":"Viết tắt của Pension Benefit Guaranty Corporation"}],"k":"pbgc"},{"h":"PBJ","segs":[{"k":"m","t":"Viết tắt của U.S. peanut butter và jelly (sandwich)"}],"k":"pbj"},{"h":"PBS","segs":[{"k":"m","t":"Viết tắt của Public Broadcasting Service"}],"k":"pbs"},{"h":"PBT (polybutylene ephtalate)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"eptalat"}],"k":"pbt (polybutylene ephtalate)"},{"h":"PBX","segs":[{"k":"m","t":"(private branch exchange) tổng đài nhánh riêng, tổng đài nội bộ."}],"k":"pbx"},{"h":"PBX group","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đường dây nhóm"},{"k":"m","t":"nhóm nối hộ thuê bao"},{"k":"m","t":"nhóm tổng đài nhánh lẻ"}],"k":"pbx group"},{"h":"PBX switchboard","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"bảng chuyển mạch PBX"},{"k":"m","t":"tổng đài PBX"}],"k":"pbx switchboard"}]
+[
+  {
+    "h": "PB",
+    "segs": [
+      {"k": "m", "t": "(petabyte) Petabyte, bằng 2 lũy thừa 50 (hoặc 1.125.899.906.842.624) byte."}
+    ],
+    "k": "pb"
+  },
+  {
+    "h": "pb (lead)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chì"}],
+    "k": "pb (lead)"
+  },
+  {
+    "h": "PBA",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. Patrolmen's Benevolent Association"},
+      {"k": "m", "t": "2. Policemen's Benevolent Association"}
+    ],
+    "k": "pba"
+  },
+  {
+    "h": "PBGC",
+    "segs": [{"k": "m", "t": "Viết tắt của Pension Benefit Guaranty Corporation"}],
+    "k": "pbgc"
+  },
+  {
+    "h": "PBJ",
+    "segs": [{"k": "m", "t": "Viết tắt của U.S. peanut butter và jelly (sandwich)"}],
+    "k": "pbj"
+  },
+  {"h": "PBS", "segs": [{"k": "m", "t": "Viết tắt của Public Broadcasting Service"}], "k": "pbs"},
+  {
+    "h": "PBT (polybutylene ephtalate)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "eptalat"}],
+    "k": "pbt (polybutylene ephtalate)"
+  },
+  {
+    "h": "PBX",
+    "segs": [{"k": "m", "t": "(private branch exchange) tổng đài nhánh riêng, tổng đài nội bộ."}],
+    "k": "pbx"
+  },
+  {
+    "h": "PBX group",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "đường dây nhóm"},
+      {"k": "m", "t": "nhóm nối hộ thuê bao"},
+      {"k": "m", "t": "nhóm tổng đài nhánh lẻ"}
+    ],
+    "k": "pbx group"
+  },
+  {
+    "h": "PBX switchboard",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "bảng chuyển mạch PBX"},
+      {"k": "m", "t": "tổng đài PBX"}
+    ],
+    "k": "pbx switchboard"
+  }
+]

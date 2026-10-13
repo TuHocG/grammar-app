@@ -1,1 +1,127 @@
-[{"h":"pm","segs":[{"k":"m","t":"(tắt) sau trưa"},{"k":"m","t":"chiều ("},{"k":"ex","t":"post meridiem","vi":")"},{"k":"ex","t":"at 3 pm","vi":"vào 3 giờ chiều."}],"ipa":",pi:'em","k":"pm","q":{"vi":"PRIME MINISTER Thủ tướng","ipa":"pm","rs":"pi em"}},{"h":"PM (phase modulation)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự điều biến pha"},{"k":"m","t":"sự điều pha"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"điều biến pha"}],"k":"pm (phase modulation)"},{"h":"PM (presentation manager)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình quản lý trình diễn"}],"k":"pm (presentation manager)"},{"h":"PM (product manager)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình quản lý sản phẩm"}],"k":"pm (product manager)"},{"h":"pm peak","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"giờ cao điểm buổi chiều"}],"k":"pm peak"},{"h":"PM speaker","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"loa nam châm vĩnh cửu"}],"k":"pm speaker"},{"h":"PM trap","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lọc muội than trong diesel"}],"k":"pm trap"},{"h":"PMD","segs":[{"k":"m","t":"Viết tắt của Program for Management Development"}],"k":"pmd"},{"h":"pmji","segs":[{"k":"m","t":"Trong truyền thông trực tuyến, đây là dòng vt. của Pardon Me for Jumping In (xin lỗi vì việc nhảy vào)."}],"k":"pmji"},{"h":"PMMU","segs":[{"k":"m","t":"(paged memory management unit) đơn vị quản lý bộ nhớ phân trang."}],"k":"pmmu"},{"h":"PMO","segs":[{"k":"m","t":"Viết tắt của Canada government Prime Minister's Office"}],"k":"pmo"},{"h":"PMOS","segs":[{"k":"m","t":"(positive-channel metal-oxide semiconductor) chất bán dẫn oxit kim loại kênh loại p."}],"k":"pmos"},{"h":"PMOS transistor","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"tranzito PMOS"}],"k":"pmos transistor"},{"h":"PMPC (multiprocess communication)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"truyền thông đa quá trình"}],"k":"pmpc (multiprocess communication)"},{"h":"PMS","segs":[{"k":"m","t":"Một hệ thống Chọn màu tiêu chuẩn cho việc in màu chuyên nghiệp, được hỗ trợ bởi các chương trình minh họa cao cấp."}],"k":"pms"},{"h":"pmt","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(tắt) của"},{"k":"ex","t":"premenstrual tension","vi":"(tình trạng căng thẳng trước kỳ hành kinh)."}],"ipa":",pi: em'ti:","k":"pmt"}]
+[
+  {
+    "h": "pm",
+    "segs": [
+      {"k": "m", "t": "(tắt) sau trưa"},
+      {"k": "m", "t": "chiều ("},
+      {"k": "ex", "t": "post meridiem", "vi": ")"},
+      {"k": "ex", "t": "at 3 pm", "vi": "vào 3 giờ chiều."}
+    ],
+    "ipa": ",pi:'em",
+    "k": "pm",
+    "q": {"vi": "PRIME MINISTER Thủ tướng", "ipa": "pm", "rs": "pi em"}
+  },
+  {
+    "h": "PM (phase modulation)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "sự điều biến pha"},
+      {"k": "m", "t": "sự điều pha"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "điều biến pha"}
+    ],
+    "k": "pm (phase modulation)"
+  },
+  {
+    "h": "PM (presentation manager)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chương trình quản lý trình diễn"}
+    ],
+    "k": "pm (presentation manager)"
+  },
+  {
+    "h": "PM (product manager)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chương trình quản lý sản phẩm"}
+    ],
+    "k": "pm (product manager)"
+  },
+  {
+    "h": "pm peak",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "giờ cao điểm buổi chiều"}],
+    "k": "pm peak"
+  },
+  {
+    "h": "PM speaker",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "loa nam châm vĩnh cửu"}],
+    "k": "pm speaker"
+  },
+  {
+    "h": "PM trap",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "lọc muội than trong diesel"}
+    ],
+    "k": "pm trap"
+  },
+  {
+    "h": "PMD",
+    "segs": [{"k": "m", "t": "Viết tắt của Program for Management Development"}],
+    "k": "pmd"
+  },
+  {
+    "h": "pmji",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Trong truyền thông trực tuyến, đây là dòng vt. của Pardon Me for Jumping In (xin lỗi vì việc nhảy vào)."
+      }
+    ],
+    "k": "pmji"
+  },
+  {
+    "h": "PMMU",
+    "segs": [{"k": "m", "t": "(paged memory management unit) đơn vị quản lý bộ nhớ phân trang."}],
+    "k": "pmmu"
+  },
+  {
+    "h": "PMO",
+    "segs": [{"k": "m", "t": "Viết tắt của Canada government Prime Minister's Office"}],
+    "k": "pmo"
+  },
+  {
+    "h": "PMOS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(positive-channel metal-oxide semiconductor) chất bán dẫn oxit kim loại kênh loại p."
+      }
+    ],
+    "k": "pmos"
+  },
+  {
+    "h": "PMOS transistor",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tranzito PMOS"}],
+    "k": "pmos transistor"
+  },
+  {
+    "h": "PMPC (multiprocess communication)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "truyền thông đa quá trình"}
+    ],
+    "k": "pmpc (multiprocess communication)"
+  },
+  {
+    "h": "PMS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một hệ thống Chọn màu tiêu chuẩn cho việc in màu chuyên nghiệp, được hỗ trợ bởi các chương trình minh họa cao cấp."
+      }
+    ],
+    "k": "pms"
+  },
+  {
+    "h": "pmt",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "(tắt) của"},
+      {"k": "ex", "t": "premenstrual tension", "vi": "(tình trạng căng thẳng trước kỳ hành kinh)."}
+    ],
+    "ipa": ",pi: em'ti:",
+    "k": "pmt"
+  }
+]

@@ -1,1 +1,20 @@
-[{"h":"ywca","segs":[{"k":"m","t":"(tắt) Hội nữ thanh niên Cơ Ðốc ("},{"k":"ex","t":"Young Women's Christian Association","vi":")."}],"ipa":",wai dʌblju: si: 'ei","k":"ywca"},{"h":"YWHA","segs":[{"k":"m","t":"hoặc Y.W.H.A."},{"k":"m","t":"abbreviation"},{"k":"m","t":"Young Women's Hebrew Association"}],"k":"ywha"}]
+[
+  {
+    "h": "ywca",
+    "segs": [
+      {"k": "m", "t": "(tắt) Hội nữ thanh niên Cơ Ðốc ("},
+      {"k": "ex", "t": "Young Women's Christian Association", "vi": ")."}
+    ],
+    "ipa": ",wai dʌblju: si: 'ei",
+    "k": "ywca"
+  },
+  {
+    "h": "YWHA",
+    "segs": [
+      {"k": "m", "t": "hoặc Y.W.H.A."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "Young Women's Hebrew Association"}
+    ],
+    "k": "ywha"
+  }
+]

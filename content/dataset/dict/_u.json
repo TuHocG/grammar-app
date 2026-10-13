@@ -1,1 +1,50 @@
-[{"h":"(up)on trial","segs":[{"k":"m","t":"trong khi hay sau khi xét xử."}],"k":"(up)on trial"},{"h":"-ule","segs":[{"k":"m","t":"tvng. dùng để thành lập danh từ, có nghĩa nhỏ, bé tí (globule giọt nhỏ, viên nhỏ)."}],"k":"-ule"},{"h":"-ulent","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"having a great deal of something"},{"k":"m","t":"flocculent"}],"k":"-ulent"},{"h":"-ulous","segs":[{"k":"m","t":"tvng. để tạo các tính từ (ví dụ: FABOULOUS, POPULOUS...)"}],"ipa":"'ju:ləs","k":"-ulous"},{"h":"-urgy","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"technique hoặc art of working with something"},{"k":"m","t":"metallurgy"}],"k":"-urgy"},{"h":"-urous","segs":[{"k":"m","t":"suffix"},{"k":"m","t":"having a particular kind of tail"},{"k":"m","t":"anurous"}],"k":"-urous"}]
+[
+  {
+    "h": "(up)on trial",
+    "segs": [{"k": "m", "t": "trong khi hay sau khi xét xử."}],
+    "k": "(up)on trial"
+  },
+  {
+    "h": "-ule",
+    "segs": [
+      {
+        "k": "m",
+        "t": "tvng. dùng để thành lập danh từ, có nghĩa nhỏ, bé tí (globule giọt nhỏ, viên nhỏ)."
+      }
+    ],
+    "k": "-ule"
+  },
+  {
+    "h": "-ulent",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "having a great deal of something"},
+      {"k": "m", "t": "flocculent"}
+    ],
+    "k": "-ulent"
+  },
+  {
+    "h": "-ulous",
+    "segs": [{"k": "m", "t": "tvng. để tạo các tính từ (ví dụ: FABOULOUS, POPULOUS...)"}],
+    "ipa": "'ju:ləs",
+    "k": "-ulous"
+  },
+  {
+    "h": "-urgy",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "technique hoặc art of working with something"},
+      {"k": "m", "t": "metallurgy"}
+    ],
+    "k": "-urgy"
+  },
+  {
+    "h": "-urous",
+    "segs": [
+      {"k": "m", "t": "suffix"},
+      {"k": "m", "t": "having a particular kind of tail"},
+      {"k": "m", "t": "anurous"}
+    ],
+    "k": "-urous"
+  }
+]

@@ -1,1 +1,81 @@
-[{"h":"hp","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"1. (Anh) hire purchase: hình thức mua trả góp."},{"k":"m","t":"2. horsepower: mã lực."}],"ipa":",eitʃ ˈpi:","k":"hp"},{"h":"HP (Hewlett Packard)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"hãng HP"}],"k":"hp (hewlett packard)"},{"h":"HP-GL","segs":[{"k":"m","t":"(Hewlett-packard graphics language) ngôn ngữ đồ họa Hewlett-Packard."}],"k":"hp-gl"},{"h":"HPC","segs":[{"k":"m","t":"hoặc H/PC"},{"k":"m","t":"abbreviation"},{"k":"m","t":"handheld personal computer"}],"k":"hpc"},{"h":"HPCC","segs":[{"k":"m","t":"(high performance computing and communications) truyền thông và tính toán liệu suất cao."}],"k":"hpcc"},{"h":"HPFS","segs":[{"k":"m","t":"(high-performance file system) hệ thống tập tin hiệu suất cao."}],"k":"hpfs"},{"h":"HPM","segs":[{"k":"m","t":"(số nhiều HPMs)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"electrical-infrastructure-destroying bomb: an e-bomb with capacitors that emit powerful electromagnetic impulses able to penetrate hardened targets such as underground bunkers via antennas, air vents, và plumbing pipes và cause massive power surges intended to destroy an enemy's electrical và computer infrastructures"}],"k":"hpm"},{"h":"HPO","segs":[{"k":"m","t":"(high-performance option) tùy chọn hiệu suất cao."}],"k":"hpo"},{"h":"hppcl","segs":[{"k":"m","t":"Ngôn ngữ kiểm soát máy in riêng do Hewlett Packard đưa ra năm 1984."}],"k":"hppcl"},{"h":"HPR","segs":[{"k":"m","t":"(high performance routing) sự định tuyến hiệu suất cao."}],"k":"hpr"},{"h":"HPS lamp","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"đèn natri cao áp"}],"k":"hps lamp"},{"h":"HPV","segs":[{"k":"m","t":"Viết tắt của human papilloma virus"}],"k":"hpv"}]
+[
+  {
+    "h": "hp",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "1. (Anh) hire purchase: hình thức mua trả góp."},
+      {"k": "m", "t": "2. horsepower: mã lực."}
+    ],
+    "ipa": ",eitʃ ˈpi:",
+    "k": "hp"
+  },
+  {
+    "h": "HP (Hewlett Packard)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "hãng HP"}],
+    "k": "hp (hewlett packard)"
+  },
+  {
+    "h": "HP-GL",
+    "segs": [
+      {"k": "m", "t": "(Hewlett-packard graphics language) ngôn ngữ đồ họa Hewlett-Packard."}
+    ],
+    "k": "hp-gl"
+  },
+  {
+    "h": "HPC",
+    "segs": [
+      {"k": "m", "t": "hoặc H/PC"},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "handheld personal computer"}
+    ],
+    "k": "hpc"
+  },
+  {
+    "h": "HPCC",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(high performance computing and communications) truyền thông và tính toán liệu suất cao."
+      }
+    ],
+    "k": "hpcc"
+  },
+  {
+    "h": "HPFS",
+    "segs": [{"k": "m", "t": "(high-performance file system) hệ thống tập tin hiệu suất cao."}],
+    "k": "hpfs"
+  },
+  {
+    "h": "HPM",
+    "segs": [
+      {"k": "m", "t": "(số nhiều HPMs)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "electrical-infrastructure-destroying bomb: an e-bomb with capacitors that emit powerful electromagnetic impulses able to penetrate hardened targets such as underground bunkers via antennas, air vents, và plumbing pipes và cause massive power surges intended to destroy an enemy's electrical và computer infrastructures"
+      }
+    ],
+    "k": "hpm"
+  },
+  {
+    "h": "HPO",
+    "segs": [{"k": "m", "t": "(high-performance option) tùy chọn hiệu suất cao."}],
+    "k": "hpo"
+  },
+  {
+    "h": "hppcl",
+    "segs": [{"k": "m", "t": "Ngôn ngữ kiểm soát máy in riêng do Hewlett Packard đưa ra năm 1984."}],
+    "k": "hppcl"
+  },
+  {
+    "h": "HPR",
+    "segs": [{"k": "m", "t": "(high performance routing) sự định tuyến hiệu suất cao."}],
+    "k": "hpr"
+  },
+  {
+    "h": "HPS lamp",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đèn natri cao áp"}],
+    "k": "hps lamp"
+  },
+  {"h": "HPV", "segs": [{"k": "m", "t": "Viết tắt của human papilloma virus"}], "k": "hpv"}
+]

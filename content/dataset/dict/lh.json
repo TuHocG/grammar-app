@@ -1,1 +1,61 @@
-[{"h":"LH","segs":[{"k":"m","t":"xem luteinizing hormone"}],"k":"lh"},{"h":"LHarc","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình LHARC"},{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chương trình LHARC"}],"k":"lharc"},{"h":"Lhasa","segs":[{"k":"m","t":"city và capital of the autonomous region of Tibet, southwestern China."},{"k":"m","t":"Dân số khoảng: 161,788 (1991)"}],"k":"lhasa"},{"h":"Lhasa apso","segs":[{"k":"m","t":"(số nhiều Lhasa apsos)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"long-haired Tibetan dog: a small dog belonging to a Tibetan breed with a long straight coat, hair that falls heavily over the eyes, và a fluffy tail that curls over the back"}],"k":"lhasa apso"},{"h":"lhd","segs":[{"k":"m","t":"Viết tắt của U.K. left-hand drive"}],"k":"lhd"},{"h":"lherzolite","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"rock containing iron and magnesium: a coarse-grained rock containing minerals high in iron và magnesium that is believed to originate in the Earth's mantle"}],"k":"lherzolite"},{"h":"Lhotse","segs":[{"k":"m","t":"fourth highest mountain in the world. It is situated in the eastern part of the Himalayan system on the border between China và Nepal."},{"k":"m","t":"Height: 8,516 m/27,940 ft."}],"k":"lhotse"},{"h":"LHRH","segs":[{"k":"m","t":"Viết tắt của biochemistry luteinizing hormone-releasing hormone"}],"k":"lhrh"}]
+[
+  {"h": "LH", "segs": [{"k": "m", "t": "xem luteinizing hormone"}], "k": "lh"},
+  {
+    "h": "LHarc",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chương trình LHARC"},
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chương trình LHARC"}
+    ],
+    "k": "lharc"
+  },
+  {
+    "h": "Lhasa",
+    "segs": [
+      {"k": "m", "t": "city và capital of the autonomous region of Tibet, southwestern China."},
+      {"k": "m", "t": "Dân số khoảng: 161,788 (1991)"}
+    ],
+    "k": "lhasa"
+  },
+  {
+    "h": "Lhasa apso",
+    "segs": [
+      {"k": "m", "t": "(số nhiều Lhasa apsos)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "long-haired Tibetan dog: a small dog belonging to a Tibetan breed with a long straight coat, hair that falls heavily over the eyes, và a fluffy tail that curls over the back"
+      }
+    ],
+    "k": "lhasa apso"
+  },
+  {"h": "lhd", "segs": [{"k": "m", "t": "Viết tắt của U.K. left-hand drive"}], "k": "lhd"},
+  {
+    "h": "lherzolite",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "rock containing iron and magnesium: a coarse-grained rock containing minerals high in iron và magnesium that is believed to originate in the Earth's mantle"
+      }
+    ],
+    "k": "lherzolite"
+  },
+  {
+    "h": "Lhotse",
+    "segs": [
+      {
+        "k": "m",
+        "t": "fourth highest mountain in the world. It is situated in the eastern part of the Himalayan system on the border between China và Nepal."
+      },
+      {"k": "m", "t": "Height: 8,516 m/27,940 ft."}
+    ],
+    "k": "lhotse"
+  },
+  {
+    "h": "LHRH",
+    "segs": [{"k": "m", "t": "Viết tắt của biochemistry luteinizing hormone-releasing hormone"}],
+    "k": "lhrh"
+  }
+]

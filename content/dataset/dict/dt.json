@@ -1,1 +1,108 @@
-[{"h":"dt","segs":[{"k":"m","t":"(tắt) sự mê sảng ("},{"k":"ex","t":"delirium tremens","vi":")."}],"ipa":"di: 'ti:","k":"dt"},{"h":"DT (s)","segs":[{"k":"m","t":"(vt) delirium tremens: Mê sảng do rượu"}],"ipa":",di:ɛti:z","k":"dt (s)"},{"h":"DTD","segs":[{"k":"m","t":"(document type definition) định nghĩa kiểu tài liệu."}],"k":"dtd"},{"h":"DTE","segs":[{"k":"m","t":"(data terminal equipment) thiết bị đầu cuối xử lý dữ liệu."}],"k":"dte"},{"h":"DTF","segs":[{"k":"m","t":"(define-the-file) xác định tập tin, định nghĩa tập tin."}],"k":"dtf"},{"h":"DTH","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"persistent allergic reaction: a persistent và often serious form of allergy occurring when immune system phagocyte cells are unable to destroy và remove allergy-causing substances such as those occurring on poison ivy. Full form delayed-type hypersensitivity"}],"k":"dth"},{"h":"dti","segs":[{"k":"m","t":"(tắt) bộ thương mại và công nghiệp ("},{"k":"ex","t":"Department of Trade and Industry","vi":")"}],"ipa":",di: ti: 'ai","k":"dti"},{"h":"DTL","segs":[{"k":"m","t":"(diode-transistor logic) mạch logic diode-transistor."}],"k":"dtl"},{"h":"DTMF","segs":[{"k":"m","t":"(dual tone modulation frequency) tần số điều chế âm kép."}],"k":"dtmf"},{"h":"DTMS","segs":[{"k":"m","t":"(Database and Transaction Management System) hệ thống quản lý cơ sở dữ liệu và giao dịch."}],"k":"dtms"},{"h":"DTP","segs":[{"k":"m","t":"ấn loát văn phòng."}],"k":"dtp"},{"h":"DTP (desktop publishing)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chế bản văn phòng"},{"k":"m","t":"ấn loát văn phòng"},{"k":"m","t":"ấn loát văn phòng (DTP)"}],"k":"dtp (desktop publishing)"},{"h":"DTR","segs":[{"k":"m","t":"1. data terminal ready thiết bị đầu cuối dữ liệu sẵn sàng. 2. distribution tape reel cuộn băng từ phân phối."}],"k":"dtr"},{"h":"DTS","segs":[{"k":"m","t":"1. digital termination system hệ thống kết thúc bằng số. 2. distributed time service dịch vụ thời gian phân phối."}],"k":"dts"},{"h":"DTV","segs":[{"k":"m","t":"Viết tắt của broadcasting digital television"}],"k":"dtv"}]
+[
+  {
+    "h": "dt",
+    "segs": [
+      {"k": "m", "t": "(tắt) sự mê sảng ("},
+      {"k": "ex", "t": "delirium tremens", "vi": ")."}
+    ],
+    "ipa": "di: 'ti:",
+    "k": "dt"
+  },
+  {
+    "h": "DT (s)",
+    "segs": [{"k": "m", "t": "(vt) delirium tremens: Mê sảng do rượu"}],
+    "ipa": ",di:ɛti:z",
+    "k": "dt (s)"
+  },
+  {
+    "h": "DTD",
+    "segs": [{"k": "m", "t": "(document type definition) định nghĩa kiểu tài liệu."}],
+    "k": "dtd"
+  },
+  {
+    "h": "DTE",
+    "segs": [{"k": "m", "t": "(data terminal equipment) thiết bị đầu cuối xử lý dữ liệu."}],
+    "k": "dte"
+  },
+  {
+    "h": "DTF",
+    "segs": [{"k": "m", "t": "(define-the-file) xác định tập tin, định nghĩa tập tin."}],
+    "k": "dtf"
+  },
+  {
+    "h": "DTH",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "persistent allergic reaction: a persistent và often serious form of allergy occurring when immune system phagocyte cells are unable to destroy và remove allergy-causing substances such as those occurring on poison ivy. Full form delayed-type hypersensitivity"
+      }
+    ],
+    "k": "dth"
+  },
+  {
+    "h": "dti",
+    "segs": [
+      {"k": "m", "t": "(tắt) bộ thương mại và công nghiệp ("},
+      {"k": "ex", "t": "Department of Trade and Industry", "vi": ")"}
+    ],
+    "ipa": ",di: ti: 'ai",
+    "k": "dti"
+  },
+  {
+    "h": "DTL",
+    "segs": [{"k": "m", "t": "(diode-transistor logic) mạch logic diode-transistor."}],
+    "k": "dtl"
+  },
+  {
+    "h": "DTMF",
+    "segs": [{"k": "m", "t": "(dual tone modulation frequency) tần số điều chế âm kép."}],
+    "k": "dtmf"
+  },
+  {
+    "h": "DTMS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(Database and Transaction Management System) hệ thống quản lý cơ sở dữ liệu và giao dịch."
+      }
+    ],
+    "k": "dtms"
+  },
+  {"h": "DTP", "segs": [{"k": "m", "t": "ấn loát văn phòng."}], "k": "dtp"},
+  {
+    "h": "DTP (desktop publishing)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chế bản văn phòng"},
+      {"k": "m", "t": "ấn loát văn phòng"},
+      {"k": "m", "t": "ấn loát văn phòng (DTP)"}
+    ],
+    "k": "dtp (desktop publishing)"
+  },
+  {
+    "h": "DTR",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. data terminal ready thiết bị đầu cuối dữ liệu sẵn sàng. 2. distribution tape reel cuộn băng từ phân phối."
+      }
+    ],
+    "k": "dtr"
+  },
+  {
+    "h": "DTS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. digital termination system hệ thống kết thúc bằng số. 2. distributed time service dịch vụ thời gian phân phối."
+      }
+    ],
+    "k": "dts"
+  },
+  {
+    "h": "DTV",
+    "segs": [{"k": "m", "t": "Viết tắt của broadcasting digital television"}],
+    "k": "dtv"
+  }
+]

@@ -1,1 +1,42 @@
-[{"h":"kc","segs":[{"k":"m","t":"(tắt) Luật sư thượng hạng ở Anh ("},{"k":"ex","t":"King's Counsel","vi":")."}],"ipa":",kei 'si:","k":"kc"},{"h":"kc/s","segs":[{"k":"m","t":"vt. kilocycles per second kilô chu kỳ mỗi giây."}],"k":"kc/s"},{"h":"kcal","segs":[{"k":"m","t":"Viết tắt của measurements kilocalorie"}],"k":"kcal"},{"h":"kcal (kilocalorie)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"kcal"}],"k":"kcal (kilocalorie)"},{"h":"KCB","segs":[{"k":"m","t":"Viết tắt của U.K. Knight Commander of the Order of the Bath"}],"k":"kcb"},{"h":"KCMG","segs":[{"k":"m","t":"Viết tắt của U.K. Knight Commander of the Order of St. Michael và St. George."}],"k":"kcmg"},{"h":"KCVO","segs":[{"k":"m","t":"Viết tắt của U.K. Knight Commander of the Royal Victorian Order"}],"k":"kcvo"}]
+[
+  {
+    "h": "kc",
+    "segs": [
+      {"k": "m", "t": "(tắt) Luật sư thượng hạng ở Anh ("},
+      {"k": "ex", "t": "King's Counsel", "vi": ")."}
+    ],
+    "ipa": ",kei 'si:",
+    "k": "kc"
+  },
+  {
+    "h": "kc/s",
+    "segs": [{"k": "m", "t": "vt. kilocycles per second kilô chu kỳ mỗi giây."}],
+    "k": "kc/s"
+  },
+  {"h": "kcal", "segs": [{"k": "m", "t": "Viết tắt của measurements kilocalorie"}], "k": "kcal"},
+  {
+    "h": "kcal (kilocalorie)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kcal"}],
+    "k": "kcal (kilocalorie)"
+  },
+  {
+    "h": "KCB",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Knight Commander of the Order of the Bath"}],
+    "k": "kcb"
+  },
+  {
+    "h": "KCMG",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của U.K. Knight Commander of the Order of St. Michael và St. George."
+      }
+    ],
+    "k": "kcmg"
+  },
+  {
+    "h": "KCVO",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Knight Commander of the Royal Victorian Order"}],
+    "k": "kcvo"
+  }
+]

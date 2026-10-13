@@ -1,1 +1,34 @@
-[{"h":"NN (network node)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"nút mạng"}],"k":"nn (network node)"},{"h":"NN junction","segs":[{"k":"m","t":"lớp chuyển tiếp nn."}],"k":"nn junction"},{"h":"NNCP","segs":[{"k":"m","t":"(network node control poinit) điểm điều khiển nút mạng."}],"k":"nncp"},{"h":"nnctear scattering","segs":[{"k":"m","t":"sự tán xạ hạt nhân."}],"k":"nnctear scattering"},{"h":"NNE","segs":[{"k":"m","t":"vt. Bắc - Tây Bắc"}],"k":"nne"},{"h":"nnp","segs":[{"k":"m","t":"(tắt) sản lượng quốc gia thuần tịnh ("},{"k":"ex","t":"Net National Product","vi":")."}],"ipa":",en en 'pi:","k":"nnp"},{"h":"NNTP","segs":[{"k":"m","t":"(Network News Transfer Protocol) giao thức chuyển tin trên mạng."}],"k":"nntp"},{"h":"NNW","segs":[{"k":"m","t":"Viết tắt của north-northwest"}],"k":"nnw"}]
+[
+  {
+    "h": "NN (network node)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nút mạng"}],
+    "k": "nn (network node)"
+  },
+  {"h": "NN junction", "segs": [{"k": "m", "t": "lớp chuyển tiếp nn."}], "k": "nn junction"},
+  {
+    "h": "NNCP",
+    "segs": [{"k": "m", "t": "(network node control poinit) điểm điều khiển nút mạng."}],
+    "k": "nncp"
+  },
+  {
+    "h": "nnctear scattering",
+    "segs": [{"k": "m", "t": "sự tán xạ hạt nhân."}],
+    "k": "nnctear scattering"
+  },
+  {"h": "NNE", "segs": [{"k": "m", "t": "vt. Bắc - Tây Bắc"}], "k": "nne"},
+  {
+    "h": "nnp",
+    "segs": [
+      {"k": "m", "t": "(tắt) sản lượng quốc gia thuần tịnh ("},
+      {"k": "ex", "t": "Net National Product", "vi": ")."}
+    ],
+    "ipa": ",en en 'pi:",
+    "k": "nnp"
+  },
+  {
+    "h": "NNTP",
+    "segs": [{"k": "m", "t": "(Network News Transfer Protocol) giao thức chuyển tin trên mạng."}],
+    "k": "nntp"
+  },
+  {"h": "NNW", "segs": [{"k": "m", "t": "Viết tắt của north-northwest"}], "k": "nnw"}
+]

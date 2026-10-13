@@ -1,1 +1,8 @@
-[{"h":"LZ","segs":[{"k":"m","t":"Viết tắt của military landing zone"}],"k":"lz"},{"h":"lzh","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"lzh"}],"k":"lzh"}]
+[
+  {"h": "LZ", "segs": [{"k": "m", "t": "Viết tắt của military landing zone"}], "k": "lz"},
+  {
+    "h": "lzh",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "lzh"}],
+    "k": "lzh"
+  }
+]

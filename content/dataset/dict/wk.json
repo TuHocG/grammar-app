@@ -1,1 +1,27 @@
-[{"h":"wk","segs":[{"k":"m","t":"viết tắt, số nhiều"},{"k":"ex","t":"wks tuần lễ (week) công việc (work","vi":")."}],"ipa":",dʌblju: 'ek","k":"wk"},{"h":"wk.","segs":[{"k":"m","t":"Viết tắt của 1. weak"},{"k":"m","t":"2. hoặc (số nhiều wks.) week"},{"k":"m","t":"3. work"}],"k":"wk."},{"h":"WKB-type approximation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"phép gần đúng WKB"}],"k":"wkb-type approximation"},{"h":"wkly","segs":[{"k":"m","t":"Viết tắt của weekly"}],"k":"wkly"},{"h":"wkt.","segs":[{"k":"m","t":"Viết tắt của cricket wicket"}],"k":"wkt."}]
+[
+  {
+    "h": "wk",
+    "segs": [
+      {"k": "m", "t": "viết tắt, số nhiều"},
+      {"k": "ex", "t": "wks tuần lễ (week) công việc (work", "vi": ")."}
+    ],
+    "ipa": ",dʌblju: 'ek",
+    "k": "wk"
+  },
+  {
+    "h": "wk.",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. weak"},
+      {"k": "m", "t": "2. hoặc (số nhiều wks.) week"},
+      {"k": "m", "t": "3. work"}
+    ],
+    "k": "wk."
+  },
+  {
+    "h": "WKB-type approximation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "phép gần đúng WKB"}],
+    "k": "wkb-type approximation"
+  },
+  {"h": "wkly", "segs": [{"k": "m", "t": "Viết tắt của weekly"}], "k": "wkly"},
+  {"h": "wkt.", "segs": [{"k": "m", "t": "Viết tắt của cricket wicket"}], "k": "wkt."}
+]

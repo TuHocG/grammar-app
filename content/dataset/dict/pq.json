@@ -1,1 +1,7 @@
-[{"h":"PQA","segs":[{"k":"m","t":"(protected queue area) vùng hàng đợi có bảo vệ."}],"k":"pqa"}]
+[
+  {
+    "h": "PQA",
+    "segs": [{"k": "m", "t": "(protected queue area) vùng hàng đợi có bảo vệ."}],
+    "k": "pqa"
+  }
+]

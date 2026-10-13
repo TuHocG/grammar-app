@@ -1,1 +1,46 @@
-[{"h":"tn","segs":[{"k":"m","t":"(tắt) (Mỹ) tấn ("},{"k":"ex","t":"ton (s), tonne (s","vi":")]."}],"ipa":",ti: 'en","k":"tn"},{"h":"tng.","segs":[{"k":"m","t":"Viết tắt của training"}],"k":"tng."},{"h":"tnick taste","segs":[{"k":"m","t":"vị nồng."}],"k":"tnick taste"},{"h":"tnpk.","segs":[{"k":"m","t":"hoặc Tnpk."},{"k":"m","t":"abbreviation"},{"k":"m","t":"roads turnpike"}],"k":"tnpk."},{"h":"tnt","segs":[{"k":"m","t":"(tắt) ("},{"k":"ex","t":"TNT) loại thuốc nổ mạnh (trinitrotoluene","vi":")."}],"ipa":",ti: en 'ti:","k":"tnt"},{"h":"TNTERSECTION OF EVENTS","segs":[{"k":"m","t":"phép giao các biến cố. Giao của 2 biến cố A và B, ký hiệu A ( B là tập hợp A ( B = (( ( (: ( ( A và ( ( B(. A ( B xảy ra khi và chỉ khi cả A lẫn B đều xảy ra."}],"k":"tntersection of events"},{"h":"TNX","segs":[{"k":"m","t":"Viết tắt của online thanks (used in e-mails hoặc text messages)"}],"k":"tnx"}]
+[
+  {
+    "h": "tn",
+    "segs": [
+      {"k": "m", "t": "(tắt) (Mỹ) tấn ("},
+      {"k": "ex", "t": "ton (s), tonne (s", "vi": ")]."}
+    ],
+    "ipa": ",ti: 'en",
+    "k": "tn"
+  },
+  {"h": "tng.", "segs": [{"k": "m", "t": "Viết tắt của training"}], "k": "tng."},
+  {"h": "tnick taste", "segs": [{"k": "m", "t": "vị nồng."}], "k": "tnick taste"},
+  {
+    "h": "tnpk.",
+    "segs": [
+      {"k": "m", "t": "hoặc Tnpk."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "roads turnpike"}
+    ],
+    "k": "tnpk."
+  },
+  {
+    "h": "tnt",
+    "segs": [
+      {"k": "m", "t": "(tắt) ("},
+      {"k": "ex", "t": "TNT) loại thuốc nổ mạnh (trinitrotoluene", "vi": ")."}
+    ],
+    "ipa": ",ti: en 'ti:",
+    "k": "tnt"
+  },
+  {
+    "h": "TNTERSECTION OF EVENTS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "phép giao các biến cố. Giao của 2 biến cố A và B, ký hiệu A ( B là tập hợp A ( B = (( ( (: ( ( A và ( ( B(. A ( B xảy ra khi và chỉ khi cả A lẫn B đều xảy ra."
+      }
+    ],
+    "k": "tntersection of events"
+  },
+  {
+    "h": "TNX",
+    "segs": [{"k": "m", "t": "Viết tắt của online thanks (used in e-mails hoặc text messages)"}],
+    "k": "tnx"
+  }
+]

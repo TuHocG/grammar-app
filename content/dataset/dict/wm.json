@@ -1,1 +1,32 @@
-[{"h":"WMD","segs":[{"k":"m","t":"Viết tắt của military weapons of mass destruction"}],"k":"wmd"},{"h":"wmf","segs":[{"k":"m","t":"Một đuôi mở rộng của tên tệp chỉ rõ rằng tệp đó có chứa một hình đồ họa dưới cất giữ theo khuôn thức windows Metafile Format."}],"k":"wmf"},{"h":"wmk.","segs":[{"k":"m","t":"Viết tắt của watermark"}],"k":"wmk."},{"h":"WML","segs":[{"k":"m","t":"Viết tắt của comput wireless markup language"}],"k":"wml"},{"h":"WMO","segs":[{"k":"m","t":"viết tắt"},{"k":"m","t":"Tổ chức khí tượng thế giới ("},{"k":"ex","t":"World Meteorological Organization","vi":")."}],"k":"wmo"}]
+[
+  {
+    "h": "WMD",
+    "segs": [{"k": "m", "t": "Viết tắt của military weapons of mass destruction"}],
+    "k": "wmd"
+  },
+  {
+    "h": "wmf",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Một đuôi mở rộng của tên tệp chỉ rõ rằng tệp đó có chứa một hình đồ họa dưới cất giữ theo khuôn thức windows Metafile Format."
+      }
+    ],
+    "k": "wmf"
+  },
+  {"h": "wmk.", "segs": [{"k": "m", "t": "Viết tắt của watermark"}], "k": "wmk."},
+  {
+    "h": "WML",
+    "segs": [{"k": "m", "t": "Viết tắt của comput wireless markup language"}],
+    "k": "wml"
+  },
+  {
+    "h": "WMO",
+    "segs": [
+      {"k": "m", "t": "viết tắt"},
+      {"k": "m", "t": "Tổ chức khí tượng thế giới ("},
+      {"k": "ex", "t": "World Meteorological Organization", "vi": ")."}
+    ],
+    "k": "wmo"
+  }
+]

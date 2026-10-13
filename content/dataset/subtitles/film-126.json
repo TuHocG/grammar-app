@@ -1,1 +1,126 @@
-{"id":126,"code":"C 2","group":"C","n":2,"title":"C 2","first_line":"You've been enjoying, but maybe on some sleepless nights bemoaning","video":"C  2.avi","duration":82.8,"lines":[{"e":4.46,"en":"You've been enjoying, but maybe on some sleepless nights bemoaning","vi":"Bạn đã vui thích, nhưng có lẽ vào những đêm mất ngủ, bạn than thở","s":0.0},{"e":7.77,"en":"-that beautiful baby you've had for two full months now!","vi":"về đứa bé xinh đẹp hiện đã tròn hai tháng tuổi của bạn.","s":4.46},{"e":12.95,"en":"If you could see inside your infant's head this week, you'd see a very busy little brain at work.","vi":"Nếu tuần này bạn có thể nhìn vào bên trong đầu bé, bạn sẽ thấy một bộ não nhỏ đang hoạt động rất mạnh.","s":7.77},{"e":16.7,"en":"Your baby's grey brain matter is growing at a rapid rate now,","vi":"Lúc này chất xám của bé đang phát triển nhanh chóng","s":12.95},{"e":20.07,"en":"and will expand up to five centimeters by the end of next month.","vi":"và nó sẽ nở rộng đến khoảng 5 cm vào cuối tháng này.","s":16.7},{"e":26.45,"en":"That means that your little one will start tackling life skills, like hand-eye coordination and object recognition.","vi":"Ðiều này nghĩa là bé sẽ bắt đầu học các kỹ năng sống, như cử động phối hợp tay, mắt và nhận biết vật thể.","s":20.07},{"e":31.23,"en":"This rapid brain growth will mean that your little one is much more aware of the surrounding environment","vi":"Sự phát triển nhanh phần não này có nghĩa là bé ý thức về môi trường xung quanh","s":26.45},{"e":33.09,"en":"- and you! - Than ever before.","vi":"và về bạn - nhiều hơn bất cứ thời điểm nào trước kia.","s":31.23},{"e":38.14,"en":"In fact, by your baby's eighth week, when your little one hears your voice or sees your face,","vi":"Thực ra, lúc bé được 8 tuần tuổi, bé sẽ nghe giọng nói hoặc nhìn thấy khuôn mặt của bạn","s":33.09},{"e":42.95,"en":"your baby will definitely know who you are, and may reward your presence with a huge grin.","vi":"chắc chắn bé sẽ biết bạn là ai và có thể thưởng cho sự hiện diện của bạn bằng cách cười toe toét.","s":38.14},{"e":48.06,"en":"And forget the tight little fists of the past, as your baby's hands should be fully opened now.","vi":"và thay vì nắm chặt tay như trước đây thì bây giờ tay bé mở rộng hoàn toàn.","s":42.95},{"e":53.36,"en":"Your newborn will continue to use them to latch onto things within grasp of those exploring fingers,","vi":"Bé sẽ tiếp tục dùng tay để tóm lấy những thứ nằm trong tầm nắm của những ngón tay thăm dò,","s":48.06},{"e":56.02,"en":"and to bat at objects that are just out of the grab-zone.","vi":"và đập vào những vật nằm vừa ngoài tầm với.","s":53.36},{"e":58.55,"en":"While all of these developments are super exciting,","vi":"Dù tất cả những tiến bộ này vô cùng lý thú,","s":56.02},{"e":62.83,"en":"don't get so caught up that you forget to make your baby's appointment for a two-month checkup.","vi":"bạn đừng quá bận tâm đến nỗi quên đưa bé đi khám định kỳ 2 tháng.","s":58.55},{"e":68.95,"en":"At this doctor's visit, your baby will be weighed, measured and evaluated for developmental factors.","vi":"Lần khám này bé sẽ được cân, đo, và đánh giá các hệ số phát triển.","s":62.83},{"e":73.34,"en":"This may also be the first time your little one receives multiple vaccinations,","vi":"Ðây có thể cũng là lần đầu tiên bé được tiêm chủng đa vắc-xin,","s":68.95},{"e":76.5,"en":"an event that can be harder for mom than it is for baby!","vi":"một sự kiện có thể là khó chấp nhận đối với mẹ hơn là đối với bé!","s":73.34},{"e":82.84,"en":"Hang in there though your baby most likely won't need to head back to the pediatrician for another two months!","vi":"Hãy cố lên dù có vẻ như bé không cần tái khám trong 2 tháng nữa!","s":76.5}]}
+{
+  "id": 126,
+  "code": "C 2",
+  "group": "C",
+  "n": 2,
+  "title": "C 2",
+  "first_line": "You've been enjoying, but maybe on some sleepless nights bemoaning",
+  "video": "C  2.avi",
+  "duration": 82.8,
+  "lines": [
+    {
+      "e": 4.46,
+      "en": "You've been enjoying, but maybe on some sleepless nights bemoaning",
+      "vi": "Bạn đã vui thích, nhưng có lẽ vào những đêm mất ngủ, bạn than thở",
+      "s": 0.0
+    },
+    {
+      "e": 7.77,
+      "en": "-that beautiful baby you've had for two full months now!",
+      "vi": "về đứa bé xinh đẹp hiện đã tròn hai tháng tuổi của bạn.",
+      "s": 4.46
+    },
+    {
+      "e": 12.95,
+      "en": "If you could see inside your infant's head this week, you'd see a very busy little brain at work.",
+      "vi": "Nếu tuần này bạn có thể nhìn vào bên trong đầu bé, bạn sẽ thấy một bộ não nhỏ đang hoạt động rất mạnh.",
+      "s": 7.77
+    },
+    {
+      "e": 16.7,
+      "en": "Your baby's grey brain matter is growing at a rapid rate now,",
+      "vi": "Lúc này chất xám của bé đang phát triển nhanh chóng",
+      "s": 12.95
+    },
+    {
+      "e": 20.07,
+      "en": "and will expand up to five centimeters by the end of next month.",
+      "vi": "và nó sẽ nở rộng đến khoảng 5 cm vào cuối tháng này.",
+      "s": 16.7
+    },
+    {
+      "e": 26.45,
+      "en": "That means that your little one will start tackling life skills, like hand-eye coordination and object recognition.",
+      "vi": "Ðiều này nghĩa là bé sẽ bắt đầu học các kỹ năng sống, như cử động phối hợp tay, mắt và nhận biết vật thể.",
+      "s": 20.07
+    },
+    {
+      "e": 31.23,
+      "en": "This rapid brain growth will mean that your little one is much more aware of the surrounding environment",
+      "vi": "Sự phát triển nhanh phần não này có nghĩa là bé ý thức về môi trường xung quanh",
+      "s": 26.45
+    },
+    {
+      "e": 33.09,
+      "en": "- and you! - Than ever before.",
+      "vi": "và về bạn - nhiều hơn bất cứ thời điểm nào trước kia.",
+      "s": 31.23
+    },
+    {
+      "e": 38.14,
+      "en": "In fact, by your baby's eighth week, when your little one hears your voice or sees your face,",
+      "vi": "Thực ra, lúc bé được 8 tuần tuổi, bé sẽ nghe giọng nói hoặc nhìn thấy khuôn mặt của bạn",
+      "s": 33.09
+    },
+    {
+      "e": 42.95,
+      "en": "your baby will definitely know who you are, and may reward your presence with a huge grin.",
+      "vi": "chắc chắn bé sẽ biết bạn là ai và có thể thưởng cho sự hiện diện của bạn bằng cách cười toe toét.",
+      "s": 38.14
+    },
+    {
+      "e": 48.06,
+      "en": "And forget the tight little fists of the past, as your baby's hands should be fully opened now.",
+      "vi": "và thay vì nắm chặt tay như trước đây thì bây giờ tay bé mở rộng hoàn toàn.",
+      "s": 42.95
+    },
+    {
+      "e": 53.36,
+      "en": "Your newborn will continue to use them to latch onto things within grasp of those exploring fingers,",
+      "vi": "Bé sẽ tiếp tục dùng tay để tóm lấy những thứ nằm trong tầm nắm của những ngón tay thăm dò,",
+      "s": 48.06
+    },
+    {
+      "e": 56.02,
+      "en": "and to bat at objects that are just out of the grab-zone.",
+      "vi": "và đập vào những vật nằm vừa ngoài tầm với.",
+      "s": 53.36
+    },
+    {
+      "e": 58.55,
+      "en": "While all of these developments are super exciting,",
+      "vi": "Dù tất cả những tiến bộ này vô cùng lý thú,",
+      "s": 56.02
+    },
+    {
+      "e": 62.83,
+      "en": "don't get so caught up that you forget to make your baby's appointment for a two-month checkup.",
+      "vi": "bạn đừng quá bận tâm đến nỗi quên đưa bé đi khám định kỳ 2 tháng.",
+      "s": 58.55
+    },
+    {
+      "e": 68.95,
+      "en": "At this doctor's visit, your baby will be weighed, measured and evaluated for developmental factors.",
+      "vi": "Lần khám này bé sẽ được cân, đo, và đánh giá các hệ số phát triển.",
+      "s": 62.83
+    },
+    {
+      "e": 73.34,
+      "en": "This may also be the first time your little one receives multiple vaccinations,",
+      "vi": "Ðây có thể cũng là lần đầu tiên bé được tiêm chủng đa vắc-xin,",
+      "s": 68.95
+    },
+    {
+      "e": 76.5,
+      "en": "an event that can be harder for mom than it is for baby!",
+      "vi": "một sự kiện có thể là khó chấp nhận đối với mẹ hơn là đối với bé!",
+      "s": 73.34
+    },
+    {
+      "e": 82.84,
+      "en": "Hang in there though your baby most likely won't need to head back to the pediatrician for another two months!",
+      "vi": "Hãy cố lên dù có vẻ như bé không cần tái khám trong 2 tháng nữa!",
+      "s": 76.5
+    }
+  ]
+}

@@ -1,1 +1,794 @@
-[{"id":2123,"title":"Bài 1","pairs":[{"a":"I go to the hairdressers and they cut my hair.","b":"Is there a barber shop near here?","avi":"Tôi đến tiệm hớt tóc và họ cắt tóc cho tôi.","bvi":"Có tiệm hớt tóc nào gần đây không?"},{"a":"Are you a hairdresser?","b":"I'm quite good as a hairdresser.","avi":"Cô là thợ uốn tóc à?","bvi":"Tôi khá giỏi về uốn tóc."},{"a":"I'm quite good as a hairdresser.","b":"Don't use a hair spray.","avi":"Tôi khá giỏi về uốn tóc.","bvi":"Ðừng sử dụng keo xịt tóc."},{"a":"What a wonderful business you have.","b":"Welcome here again.","avi":"Bạn làm ăn khá quá nhỉ.","bvi":"Hân hạnh được đón bạn trở lại."}]},{"id":2124,"title":"Bài 2","pairs":[{"a":"Adverse wind made my hair so untidy.","b":"How would you like your hair set?","avi":"Cơn gió ngược làm tóc tôi bị rối tung lên.","bvi":"Chị thích làm tóc thế nào?"},{"a":"Would you like to try gel?","b":"All right, but little, please.","avi":"Bạn có muốn dùng thử keo xịt tóc không?","bvi":"Ðược, nhưng ít thôi."},{"a":"All right, but little, please.","b":"I'm ready for you.","avi":"Ðược, nhưng ít thôi.","bvi":"Tôi đã sẵn sàng giúp ông."},{"a":"Next, please!","b":"Is it my turn?","avi":"Xin mời người kế tiếp.","bvi":"Ðến lượt tôi chưa?"}]},{"id":2125,"title":"Bài 3","pairs":[{"a":"Is this seat take?","b":"Yes, please sit on the chair.","avi":"Ghế này đã có ai ngồi chưa?","bvi":"Vâng, vui lòng ngồi vào ghế này."},{"a":"Is this going to take long?","b":"Not too long.","avi":"Việc này có lâu không?","bvi":"Không lâu đâu."},{"a":"What will be next?","b":"I'm going to shave your face.","avi":"Tiếp theo sẽ là gì?","bvi":"Tôi sẽ cạo mặt cho ông."},{"a":"Am I expecting somebody else?","b":"It's your turn, sir.","avi":"Tôi còn phải đợi ai nữa à?","bvi":"Ðến lượt ông rồi, thưa ông."}]},{"id":2126,"title":"Bài 4","pairs":[{"a":"I hate when you make me wait so long.","b":"Sorry to keep you waiting.","avi":"Tôi không thích anh bắt tôi chờ lâu.","bvi":"Xin lỗi vì đã để ông đợi."},{"a":"Don't apply anything on my hair.","b":"How do you want your hair cut?","avi":"Xin đừng bôi thứ gì lên tóc tôi.","bvi":"Ông muốn cắt tóc như thế nào?"},{"a":"Would you like a quick shampoo?","b":"I want my hair dried.","avi":"Bạn có muốn gội nhanh không?","bvi":"Tôi muốn tóc tôi để khô."},{"a":"Can you get me anything else?","b":"Are you being served, madam?","avi":"Cô có thể lấy cho tôi thứ gì khác nữa không?","bvi":"Có ai phục vụ bà chưa, thưa bà?"}]},{"id":2127,"title":"Bài 5","pairs":[{"a":"Is it my turn soon?","b":"Sit here please.","avi":"Sắp đến lượt tôi chứ?","bvi":"Xin ngồi đây."},{"a":"I am going to make a new haircut.","b":"How would you like your hair done?","avi":"Tôi sẽ cắt một kiểu tóc mới.","bvi":"Bà muốn làm tóc như thế nào?"},{"a":"What sort of experiment?","b":"A trim and perm.","avi":"Bạn thích thí nghiệm kiểu nào?","bvi":"Tỉa và uốn gợn sóng."},{"a":"Did you remodel?","b":"A cold-wave, please.","avi":"Bà mới tạo kiểu tóc lại à?","bvi":"Xin làm cho tôi kiểu tóc gợn sóng."}]},{"id":2128,"title":"Bài 6","pairs":[{"a":"Would you like me to thin out the top?","b":"This one will suit me best.","avi":"Ông muốn tôi cắt bớt phía trên không?","bvi":"Kiểu này hợp với tôi nhất."},{"a":"This one will suit me best.","b":"I hope you like it.","avi":"Kiểu này hợp với tôi nhất.","bvi":"Tôi hy vọng bạn thích nó."},{"a":"What brand do you prefer?","b":"An ordinary one will do.","avi":"Bạn thích nhãn hiệu gì?","bvi":"Loại bình thường được rồi."},{"a":"I'll leave the shampoo for you.","b":"All right, miss.","avi":"Tôi để dầu gội đầu lại cho anh đấy.","bvi":"Ðược rồi, thưa cô."}]},{"id":2129,"title":"Bài 7","pairs":[{"a":"An ordinary one will do.","b":"Will that be alright?","avi":"Loại bình thường được rồi.","bvi":"Ðược chưa ạ?"},{"a":"Maybe you should use an electric shaver.","b":"Is there a barber in this neighborhood?","avi":"Có lẽ bạn nên sử dụng dao cạo râu điện tử.","bvi":"Có ông thợ cạo nào ở quanh đây không?"},{"a":"Would you please wait here?","b":"Shall I have to wait long?","avi":"Xin ông vui lòng đợi ở đây nhé?","bvi":"Tôi có phải đợi lâu không?"},{"a":"I don't know what you want.","b":"A haircut, please.","avi":"Em không biết anh muốn gì.","bvi":"Hớt tóc cho tôi."}]},{"id":2130,"title":"Bài 8","pairs":[{"a":"A haircut, please.","b":"How do you want it cut?","avi":"Hớt tóc cho tôi.","bvi":"Ông muốn hớt thế nào?"},{"a":"How do you want it cut?","b":"Rather short.","avi":"Ông muốn hớt thế nào?","bvi":"Hơi ngắn."},{"a":"Will you have to get a haircut?","b":"Not too short.","avi":"Ông có muốn cắt tóc ngắn không?","bvi":"Không ngắn quá."},{"a":"Do you want your hair cut short?","b":"Use clippers.","avi":"Ông muốn tóc cắt ngắn à?","bvi":"Hãy dùng tông đơ."}]},{"id":2131,"title":"Bài 9","pairs":[{"a":"I would cut it a little shorter.","b":"Use scissors.","avi":"Tôi sẽ cắt ngắn đi một tí.","bvi":"Hãy dùng kéo."},{"a":"Would you like your part to move to the left?","b":"In the middle.","avi":"Ông muốn rẽ ngôi bên trái không?","bvi":"Ở giữa."},{"a":"Do I part your hair in the middle?","b":"On the right.","avi":"Tôi rẽ ngôi ở giữa nhé?","bvi":"Ở bên phải."},{"a":"How's that?","b":"More to the side.","avi":"Như vậy được chưa?","bvi":"Thêm nữa sang bên."}]},{"id":2132,"title":"Bài 10","pairs":[{"a":"What is taking so long?","b":"Finished, sir.","avi":"Làm gì lâu quá vậy?","bvi":"Thưa ông, xong rồi."},{"a":"I'd like to see!","b":"Here's a mirror.","avi":"Cho tôi xem nào!","bvi":"Ðây là gương soi."},{"a":"That will do now.","b":"Is that as you like it?","avi":"Vậy được rồi.","bvi":"Có đúng như ông thích không?"},{"a":"Is that as you like it?","b":"That will do now.","avi":"Có đúng như ông thích không?","bvi":"Vậy được rồi."}]},{"id":2133,"title":"Bài 11","pairs":[{"a":"How would you like your hair done?","b":"I want my hair shampooed and set.","avi":"Bà muốn làm tóc như thế nào?","bvi":"Tôi muốn gội và làm đầu."},{"a":"Please. Have a seat.","b":"How long I must wait?","avi":"Xin hãy ngồi xuống.","bvi":"Tôi phải đợi bao lâu?"},{"a":"When do you come here?","b":"I want to make an appointment.","avi":"Khi nào bà tới?","bvi":"Tôi muốn hẹn trước."},{"a":"I want to curl my hair.","b":"What style do you like?","avi":"Tôi muốn uốn tóc.","bvi":"Bà thích kiểu nào?"}]},{"id":2134,"title":"Bài 12","pairs":[{"a":"Pick it, pick it.","b":"How about this?","avi":"Chọn đi, chọn đi.","bvi":"Kiểu này thế nào?"},{"a":"How about this?","b":"I will try it.","avi":"Kiểu này thế nào?","bvi":"Tôi sẽ thử nó."},{"a":"Don't cut my hair too short at the top.","b":"I want my hair cut short.","avi":"Ðừng hớt quá ngắn trên đỉnh đầu.","bvi":"Tôi muốn tóc cắt ngắn."},{"a":"I'm quite good as a hairdresser.","b":"I want a permanent wave.","avi":"Tôi khá giỏi về uốn tóc.","bvi":"Tôi muốn uốn quăn."}]},{"id":2135,"title":"Bài 13","pairs":[{"a":"You'd look good with short hair.","b":"I want a trim.","avi":"Cô để tóc ngắn nhìn hợp hơn.","bvi":"Tôi muốn tỉa."},{"a":"Now wait your turn and I'll make you pretty.","b":"I want a manicure.","avi":"Ðợi đến lượt cô đã rồi tôi sẽ làm đẹp cho.","bvi":"Tôi muốn làm móng tay."},{"a":"Beautiful. I wish mine would do that.","b":"You ought to have your hair dyed.","avi":"Ðẹp quá, ước gì tóc tôi cũng vậy.","bvi":"Bà nên nhuộm tóc."},{"a":"I think you got a fuzzy in your hair.","b":"It's a little short.","avi":"Tôi thấy tóc chị có chỗ xù này.","bvi":"Nó hơi ngắn một chút."}]},{"id":2136,"title":"Bài 14","pairs":[{"a":"Do you like my new hair-style?","b":"It looks very nice.","avi":"Bạn có thích kiểu tóc mới của tôi không?","bvi":"Nó trông rất đẹp."},{"a":"Shall I wash your hair?","b":"The water is too cold.","avi":"Tôi sẽ gội đầu cho bà nhé?","bvi":"Nước lạnh quá."},{"a":"Put her hands under the warm water.","b":"The water is too hot.","avi":"Bà đặt tay vào nước ấm đi.","bvi":"Nước nóng quá."},{"a":"I'll give you a new hairstyle.","b":"Please cut my hair in this style.","avi":"Tôi sẽ làm cho bà một kiểu tóc mới.","bvi":"Xin cắt tóc tôi theo kiểu này."}]},{"id":2137,"title":"Bài 15","pairs":[{"a":"Why don't you dye your hair?","b":"How much is it to tint the hair?","avi":"Sao cô không nhuộm tóc?","bvi":"Nhuộm tóc giá bao nhiêu tiền?"},{"a":"I have the cosmetics.","b":"Have you a lipstick?","avi":"Tôi có đồ trang điểm.","bvi":"Bà có son môi không?"},{"a":"Some women varnish their toe-nails.","b":"What colors do you have?","avi":"Một số phụ nữ sơn móng chân.","bvi":"Cô có những màu nào?"},{"a":"I love your haircut.","b":"I want a hairnet.","avi":"Tôi thích kiểu tóc của bạn.","bvi":"Tôi cần một lưới tóc."}]},{"id":2138,"title":"Bài 16","pairs":[{"a":"It's skin cream.","b":"What skin cream do you recommend?","avi":"Ðó là kem dưỡng da.","bvi":"Cô giới thiệu tôi kem dưỡng da nào?"},{"a":"Would you like those false eyelashes?","b":"Give me some mascara.","avi":"Bà có muốn cặp lông mi giả ấy không?","bvi":"Cho tôi lông mi giả."},{"a":"I think it's eyeliner.","b":"Give me an eyebrow pencil.","avi":"Tôi nghĩ đó là bút kẻ mắt.","bvi":"Cho tôi bút kẻ lông mày."},{"a":"What style do you like?","b":"My hair only wants trimming.","avi":"Ông thích kiểu tóc nào?","bvi":"Tóc tôi chỉ cần xén tỉa."}]},{"id":2139,"title":"Bài 17","pairs":[{"a":"Would you like a shave, or a hair-cut?","b":"Trim my moustache, please.","avi":"Ông muốn cạo râu hay cắt tóc ạ?","bvi":"Xin tỉa ria mép cho tôi."},{"a":"If you need me, I'll be at the salon.","b":"I should like my eyebrows plucked.","avi":"Cần gì thì tôi ở thẩm mỹ viện.","bvi":"Tôi muốn nhổ lông mày."},{"a":"I like the hair style.","b":"I am glad you like the design.","avi":"Tôi thích kiểu tóc đó.","bvi":"Tôi rất vui là bạn thích kiểu này."},{"a":"Here is the barber's shop.","b":"I want to have my hair cut.","avi":"Ðây là tiệm hớt tóc.","bvi":"Xin hớt tóc cho tôi."}]},{"id":2140,"title":"Bài 18","pairs":[{"a":"Get a haircut!","b":"I want to go to an air-conditioned barber's.","avi":"Ði hớt tóc đi!","bvi":"Tôi muốn đến tiệm hớt tóc có gắn máy lạnh."},{"a":"First come, first served.","b":"I haven't time to wait long.","avi":"Phục vụ theo thứ tự.","bvi":"Tôi không có thời giờ để chờ đợi."},{"a":"Have you been waiting long?","b":"Is it my turn soon?","avi":"Bạn đã đợi lâu chưa?","bvi":"Sắp đến lượt tôi chứ?"},{"a":"I haven't time to wait long.","b":"Next, please!","avi":"Tôi không có thời giờ để chờ đợi.","bvi":"Xin mời người kế tiếp."}]},{"id":2141,"title":"Bài 19","pairs":[{"a":"You need service?","b":"Please give me a haircut and a shave.","avi":"Ông cần phục vụ không?","bvi":"Làm ơn hớt tóc và cạo râu."},{"a":"Is that all, sir?","b":"Will you take down my overcoat, please.","avi":"Ông cần gì nữa không?","bvi":"Xin lấy cho tôi áo khoác."},{"a":"Will that be all, sir?","b":"Help me on with it.","avi":"Như vậy phải không, thưa ông?","bvi":"Xin giúp tôi mặc áo khoác vào."},{"a":"You have been here before, haven't you?","b":"I like the way you've done hair.","avi":"Bà đã từng đến đây rồi phải không?","bvi":"Tôi thích cách làm tóc của cô."}]},{"id":2142,"title":"Bài 20","pairs":[{"a":"I'll have to do this another time.","b":"When can I have an appointment?","avi":"Tôi phải hẹn lại thôi.","bvi":"Cô có thể hẹn tôi vào lúc nào?"},{"a":"You changed your hair?","b":"I want my hair waved.","avi":"Bà đã đổi kiểu tóc hả?","bvi":"Tôi muốn tóc uốn dợn sóng."},{"a":"Do you want a manicure?","b":"I prefer an oil-shampoo.","avi":"Cô muốn làm móng tay phải không?","bvi":"Tôi thích gội dầu."},{"a":"You want a neck massage?","b":"Could you give me a facial?","avi":"Cô có muốn mát xa cổ không?","bvi":"Chị làm ơn xoa mặt cho tôi."}]},{"id":2143,"title":"Bài 21","pairs":[{"a":"Don't cut them too short.","b":"Call the manicurist, please.","avi":"Ðừng cắt móng tay quá ngắn nhé.","bvi":"Làm ơn gọi giùm thợ làm móng."},{"a":"Call the manicurist, please.","b":"Don't cut them too short.","avi":"Làm ơn gọi giùm thợ làm móng.","bvi":"Ðừng cắt móng tay quá ngắn nhé."},{"a":"Is my hair okay?","b":"Did you get your hair cut?","avi":"Bạn thấy tóc tôi được chứ?","bvi":"Bạn mới cắt tóc à?"},{"a":"How do you want to your hair cut?","b":"I want my hair cut short.","avi":"Bạn muốn hớt tóc như thế nào?","bvi":"Tôi muốn tóc cắt ngắn."}]},{"id":2144,"title":"Bài 22","pairs":[{"a":"I cut my face shaving.","b":"Maybe you should stop shaving.","avi":"Tôi bị đứt mặt khi cạo râu.","bvi":"Vậy có lẽ bạn đừng cạo râu nữa."},{"a":"Don't use the good towels, they're only for guests.","b":"I have just bought a Turkish towel.","avi":"Ðừng dùng khăn tắm xịn nhé, cái đó chỉ để cho khách thôi.","bvi":"Tôi mới mua một cái khăn lông."},{"a":"I still have the hairbrush.","b":"It is just a metal comb.","avi":"Tôi vẫn giữ cái lược chải tóc.","bvi":"Ðó chỉ là cái lược kim loại."},{"a":"Molars are the toughest of the bunch.","b":"I often brush my teeth twice a day.","avi":"Răng hàm là những cụm răng chắc khỏe nhất.","bvi":"Tôi thường đánh răng hai lần một ngày."}]},{"id":2145,"title":"Bài 23","pairs":[{"a":"Do you have any other razor blades?","b":"I hate shaving.","avi":"Bạn có lưỡi dao cạo râu nào khác không?","bvi":"Tôi ghét cạo râu."},{"a":"Please cut my hair in this style.","b":"Can I use the clippers?","avi":"Xin cắt tóc tôi theo kiểu này.","bvi":"Tôi dùng tông-đơ được không?"},{"a":"Feel my hair.","b":"You ought to have your hair dyed.","avi":"Sờ thử tóc tôi xem.","bvi":"Bà nên nhuộm tóc."},{"a":"Could you hand me those scissors?","b":"These scissors are the best quality.","avi":"Bạn lấy dùm tôi những cái kéo đó nhé?","bvi":"Những cái kéo này là loại tốt nhất."}]},{"id":2146,"title":"Bài 24","pairs":[{"a":"I don't use them for shaving.","b":"Maybe you should use an electric shaver.","avi":"Tôi không bao giờ dùng thứ dao này để cạo râu.","bvi":"Có lẽ bạn nên sử dụng dao cạo râu điện tử."},{"a":"We need some shampoo and conditioner.","b":"What type of shampoo do you recommend?","avi":"Chúng ta cần mua dầu gội đầu và dầu dưỡng tóc.","bvi":"Bạn thấy dầu gội đầu nào tốt nhất?"},{"a":"Is it my turn?","b":"Please wait one minute.","avi":"Ðến lượt tôi chưa?","bvi":"Xin đợi một phút."},{"a":"I've waited for you for a good hour.","b":"Now it's your turn, sir.","avi":"Tôi đợi cô ít nhất là một tiếng rồi.","bvi":"Bây giờ đến lượt ông."}]},{"id":2147,"title":"Bài 25","pairs":[{"a":"Please give me a haircut and a shave.","b":"How would you like your hair, sir?","avi":"Làm ơn hớt tóc và cạo râu.","bvi":"Ông hớt như thế nào?"},{"a":"How would you like your hair, sir?","b":"Cut it short, please.","avi":"Ông hớt như thế nào?","bvi":"Làm ơn hớt ngắn lên."},{"a":"Your hair turned snowy white.","b":"Are there any tips for my dyed hair?","avi":"Tóc bạn chuyển sang trắng phơ.","bvi":"Có lời khuyên nào dành cho mái tóc nhuộm của tôi không?"},{"a":"How do you want your hair cut?","b":"Make it the same style, please.","avi":"Ông muốn cắt tóc như thế nào?","bvi":"Làm theo kiểu cũ."}]},{"id":2148,"title":"Bài 26","pairs":[{"a":"Make it the same style, please.","b":"Will there be anything else?","avi":"Làm theo kiểu cũ.","bvi":"Có làm gì nữa không?"},{"a":"Will there be anything else?","b":"Dye my hair black, please.","avi":"Có làm gì nữa không?","bvi":"Hãy nhuộm đen cho tôi."},{"a":"Is there a barber shop near here?","b":"Do you want a haircut.","avi":"Có tiệm hớt tóc nào gần đây không?","bvi":"Bạn muốn hớt tóc phải không?"},{"a":"I'm going to shave your face.","b":"Your razor blade is blunt.","avi":"Tôi sẽ cạo mặt cho ông.","bvi":"Dao cạo của ông lụt rồi."}]},{"id":2149,"title":"Bài 27","pairs":[{"a":"Would you like a shave or a hair-cut?","b":"I don't need a shave.","avi":"Ông muốn cạo râu hay cắt tóc ạ?","bvi":"Tôi không cần cạo râu."}]}]
+[
+  {
+    "id": 2123,
+    "title": "Bài 1",
+    "pairs": [
+      {
+        "a": "I go to the hairdressers and they cut my hair.",
+        "b": "Is there a barber shop near here?",
+        "avi": "Tôi đến tiệm hớt tóc và họ cắt tóc cho tôi.",
+        "bvi": "Có tiệm hớt tóc nào gần đây không?"
+      },
+      {
+        "a": "Are you a hairdresser?",
+        "b": "I'm quite good as a hairdresser.",
+        "avi": "Cô là thợ uốn tóc à?",
+        "bvi": "Tôi khá giỏi về uốn tóc."
+      },
+      {
+        "a": "I'm quite good as a hairdresser.",
+        "b": "Don't use a hair spray.",
+        "avi": "Tôi khá giỏi về uốn tóc.",
+        "bvi": "Ðừng sử dụng keo xịt tóc."
+      },
+      {
+        "a": "What a wonderful business you have.",
+        "b": "Welcome here again.",
+        "avi": "Bạn làm ăn khá quá nhỉ.",
+        "bvi": "Hân hạnh được đón bạn trở lại."
+      }
+    ]
+  },
+  {
+    "id": 2124,
+    "title": "Bài 2",
+    "pairs": [
+      {
+        "a": "Adverse wind made my hair so untidy.",
+        "b": "How would you like your hair set?",
+        "avi": "Cơn gió ngược làm tóc tôi bị rối tung lên.",
+        "bvi": "Chị thích làm tóc thế nào?"
+      },
+      {
+        "a": "Would you like to try gel?",
+        "b": "All right, but little, please.",
+        "avi": "Bạn có muốn dùng thử keo xịt tóc không?",
+        "bvi": "Ðược, nhưng ít thôi."
+      },
+      {
+        "a": "All right, but little, please.",
+        "b": "I'm ready for you.",
+        "avi": "Ðược, nhưng ít thôi.",
+        "bvi": "Tôi đã sẵn sàng giúp ông."
+      },
+      {
+        "a": "Next, please!",
+        "b": "Is it my turn?",
+        "avi": "Xin mời người kế tiếp.",
+        "bvi": "Ðến lượt tôi chưa?"
+      }
+    ]
+  },
+  {
+    "id": 2125,
+    "title": "Bài 3",
+    "pairs": [
+      {
+        "a": "Is this seat take?",
+        "b": "Yes, please sit on the chair.",
+        "avi": "Ghế này đã có ai ngồi chưa?",
+        "bvi": "Vâng, vui lòng ngồi vào ghế này."
+      },
+      {
+        "a": "Is this going to take long?",
+        "b": "Not too long.",
+        "avi": "Việc này có lâu không?",
+        "bvi": "Không lâu đâu."
+      },
+      {
+        "a": "What will be next?",
+        "b": "I'm going to shave your face.",
+        "avi": "Tiếp theo sẽ là gì?",
+        "bvi": "Tôi sẽ cạo mặt cho ông."
+      },
+      {
+        "a": "Am I expecting somebody else?",
+        "b": "It's your turn, sir.",
+        "avi": "Tôi còn phải đợi ai nữa à?",
+        "bvi": "Ðến lượt ông rồi, thưa ông."
+      }
+    ]
+  },
+  {
+    "id": 2126,
+    "title": "Bài 4",
+    "pairs": [
+      {
+        "a": "I hate when you make me wait so long.",
+        "b": "Sorry to keep you waiting.",
+        "avi": "Tôi không thích anh bắt tôi chờ lâu.",
+        "bvi": "Xin lỗi vì đã để ông đợi."
+      },
+      {
+        "a": "Don't apply anything on my hair.",
+        "b": "How do you want your hair cut?",
+        "avi": "Xin đừng bôi thứ gì lên tóc tôi.",
+        "bvi": "Ông muốn cắt tóc như thế nào?"
+      },
+      {
+        "a": "Would you like a quick shampoo?",
+        "b": "I want my hair dried.",
+        "avi": "Bạn có muốn gội nhanh không?",
+        "bvi": "Tôi muốn tóc tôi để khô."
+      },
+      {
+        "a": "Can you get me anything else?",
+        "b": "Are you being served, madam?",
+        "avi": "Cô có thể lấy cho tôi thứ gì khác nữa không?",
+        "bvi": "Có ai phục vụ bà chưa, thưa bà?"
+      }
+    ]
+  },
+  {
+    "id": 2127,
+    "title": "Bài 5",
+    "pairs": [
+      {
+        "a": "Is it my turn soon?",
+        "b": "Sit here please.",
+        "avi": "Sắp đến lượt tôi chứ?",
+        "bvi": "Xin ngồi đây."
+      },
+      {
+        "a": "I am going to make a new haircut.",
+        "b": "How would you like your hair done?",
+        "avi": "Tôi sẽ cắt một kiểu tóc mới.",
+        "bvi": "Bà muốn làm tóc như thế nào?"
+      },
+      {
+        "a": "What sort of experiment?",
+        "b": "A trim and perm.",
+        "avi": "Bạn thích thí nghiệm kiểu nào?",
+        "bvi": "Tỉa và uốn gợn sóng."
+      },
+      {
+        "a": "Did you remodel?",
+        "b": "A cold-wave, please.",
+        "avi": "Bà mới tạo kiểu tóc lại à?",
+        "bvi": "Xin làm cho tôi kiểu tóc gợn sóng."
+      }
+    ]
+  },
+  {
+    "id": 2128,
+    "title": "Bài 6",
+    "pairs": [
+      {
+        "a": "Would you like me to thin out the top?",
+        "b": "This one will suit me best.",
+        "avi": "Ông muốn tôi cắt bớt phía trên không?",
+        "bvi": "Kiểu này hợp với tôi nhất."
+      },
+      {
+        "a": "This one will suit me best.",
+        "b": "I hope you like it.",
+        "avi": "Kiểu này hợp với tôi nhất.",
+        "bvi": "Tôi hy vọng bạn thích nó."
+      },
+      {
+        "a": "What brand do you prefer?",
+        "b": "An ordinary one will do.",
+        "avi": "Bạn thích nhãn hiệu gì?",
+        "bvi": "Loại bình thường được rồi."
+      },
+      {
+        "a": "I'll leave the shampoo for you.",
+        "b": "All right, miss.",
+        "avi": "Tôi để dầu gội đầu lại cho anh đấy.",
+        "bvi": "Ðược rồi, thưa cô."
+      }
+    ]
+  },
+  {
+    "id": 2129,
+    "title": "Bài 7",
+    "pairs": [
+      {
+        "a": "An ordinary one will do.",
+        "b": "Will that be alright?",
+        "avi": "Loại bình thường được rồi.",
+        "bvi": "Ðược chưa ạ?"
+      },
+      {
+        "a": "Maybe you should use an electric shaver.",
+        "b": "Is there a barber in this neighborhood?",
+        "avi": "Có lẽ bạn nên sử dụng dao cạo râu điện tử.",
+        "bvi": "Có ông thợ cạo nào ở quanh đây không?"
+      },
+      {
+        "a": "Would you please wait here?",
+        "b": "Shall I have to wait long?",
+        "avi": "Xin ông vui lòng đợi ở đây nhé?",
+        "bvi": "Tôi có phải đợi lâu không?"
+      },
+      {
+        "a": "I don't know what you want.",
+        "b": "A haircut, please.",
+        "avi": "Em không biết anh muốn gì.",
+        "bvi": "Hớt tóc cho tôi."
+      }
+    ]
+  },
+  {
+    "id": 2130,
+    "title": "Bài 8",
+    "pairs": [
+      {
+        "a": "A haircut, please.",
+        "b": "How do you want it cut?",
+        "avi": "Hớt tóc cho tôi.",
+        "bvi": "Ông muốn hớt thế nào?"
+      },
+      {
+        "a": "How do you want it cut?",
+        "b": "Rather short.",
+        "avi": "Ông muốn hớt thế nào?",
+        "bvi": "Hơi ngắn."
+      },
+      {
+        "a": "Will you have to get a haircut?",
+        "b": "Not too short.",
+        "avi": "Ông có muốn cắt tóc ngắn không?",
+        "bvi": "Không ngắn quá."
+      },
+      {
+        "a": "Do you want your hair cut short?",
+        "b": "Use clippers.",
+        "avi": "Ông muốn tóc cắt ngắn à?",
+        "bvi": "Hãy dùng tông đơ."
+      }
+    ]
+  },
+  {
+    "id": 2131,
+    "title": "Bài 9",
+    "pairs": [
+      {
+        "a": "I would cut it a little shorter.",
+        "b": "Use scissors.",
+        "avi": "Tôi sẽ cắt ngắn đi một tí.",
+        "bvi": "Hãy dùng kéo."
+      },
+      {
+        "a": "Would you like your part to move to the left?",
+        "b": "In the middle.",
+        "avi": "Ông muốn rẽ ngôi bên trái không?",
+        "bvi": "Ở giữa."
+      },
+      {
+        "a": "Do I part your hair in the middle?",
+        "b": "On the right.",
+        "avi": "Tôi rẽ ngôi ở giữa nhé?",
+        "bvi": "Ở bên phải."
+      },
+      {
+        "a": "How's that?",
+        "b": "More to the side.",
+        "avi": "Như vậy được chưa?",
+        "bvi": "Thêm nữa sang bên."
+      }
+    ]
+  },
+  {
+    "id": 2132,
+    "title": "Bài 10",
+    "pairs": [
+      {
+        "a": "What is taking so long?",
+        "b": "Finished, sir.",
+        "avi": "Làm gì lâu quá vậy?",
+        "bvi": "Thưa ông, xong rồi."
+      },
+      {
+        "a": "I'd like to see!",
+        "b": "Here's a mirror.",
+        "avi": "Cho tôi xem nào!",
+        "bvi": "Ðây là gương soi."
+      },
+      {
+        "a": "That will do now.",
+        "b": "Is that as you like it?",
+        "avi": "Vậy được rồi.",
+        "bvi": "Có đúng như ông thích không?"
+      },
+      {
+        "a": "Is that as you like it?",
+        "b": "That will do now.",
+        "avi": "Có đúng như ông thích không?",
+        "bvi": "Vậy được rồi."
+      }
+    ]
+  },
+  {
+    "id": 2133,
+    "title": "Bài 11",
+    "pairs": [
+      {
+        "a": "How would you like your hair done?",
+        "b": "I want my hair shampooed and set.",
+        "avi": "Bà muốn làm tóc như thế nào?",
+        "bvi": "Tôi muốn gội và làm đầu."
+      },
+      {
+        "a": "Please. Have a seat.",
+        "b": "How long I must wait?",
+        "avi": "Xin hãy ngồi xuống.",
+        "bvi": "Tôi phải đợi bao lâu?"
+      },
+      {
+        "a": "When do you come here?",
+        "b": "I want to make an appointment.",
+        "avi": "Khi nào bà tới?",
+        "bvi": "Tôi muốn hẹn trước."
+      },
+      {
+        "a": "I want to curl my hair.",
+        "b": "What style do you like?",
+        "avi": "Tôi muốn uốn tóc.",
+        "bvi": "Bà thích kiểu nào?"
+      }
+    ]
+  },
+  {
+    "id": 2134,
+    "title": "Bài 12",
+    "pairs": [
+      {
+        "a": "Pick it, pick it.",
+        "b": "How about this?",
+        "avi": "Chọn đi, chọn đi.",
+        "bvi": "Kiểu này thế nào?"
+      },
+      {
+        "a": "How about this?",
+        "b": "I will try it.",
+        "avi": "Kiểu này thế nào?",
+        "bvi": "Tôi sẽ thử nó."
+      },
+      {
+        "a": "Don't cut my hair too short at the top.",
+        "b": "I want my hair cut short.",
+        "avi": "Ðừng hớt quá ngắn trên đỉnh đầu.",
+        "bvi": "Tôi muốn tóc cắt ngắn."
+      },
+      {
+        "a": "I'm quite good as a hairdresser.",
+        "b": "I want a permanent wave.",
+        "avi": "Tôi khá giỏi về uốn tóc.",
+        "bvi": "Tôi muốn uốn quăn."
+      }
+    ]
+  },
+  {
+    "id": 2135,
+    "title": "Bài 13",
+    "pairs": [
+      {
+        "a": "You'd look good with short hair.",
+        "b": "I want a trim.",
+        "avi": "Cô để tóc ngắn nhìn hợp hơn.",
+        "bvi": "Tôi muốn tỉa."
+      },
+      {
+        "a": "Now wait your turn and I'll make you pretty.",
+        "b": "I want a manicure.",
+        "avi": "Ðợi đến lượt cô đã rồi tôi sẽ làm đẹp cho.",
+        "bvi": "Tôi muốn làm móng tay."
+      },
+      {
+        "a": "Beautiful. I wish mine would do that.",
+        "b": "You ought to have your hair dyed.",
+        "avi": "Ðẹp quá, ước gì tóc tôi cũng vậy.",
+        "bvi": "Bà nên nhuộm tóc."
+      },
+      {
+        "a": "I think you got a fuzzy in your hair.",
+        "b": "It's a little short.",
+        "avi": "Tôi thấy tóc chị có chỗ xù này.",
+        "bvi": "Nó hơi ngắn một chút."
+      }
+    ]
+  },
+  {
+    "id": 2136,
+    "title": "Bài 14",
+    "pairs": [
+      {
+        "a": "Do you like my new hair-style?",
+        "b": "It looks very nice.",
+        "avi": "Bạn có thích kiểu tóc mới của tôi không?",
+        "bvi": "Nó trông rất đẹp."
+      },
+      {
+        "a": "Shall I wash your hair?",
+        "b": "The water is too cold.",
+        "avi": "Tôi sẽ gội đầu cho bà nhé?",
+        "bvi": "Nước lạnh quá."
+      },
+      {
+        "a": "Put her hands under the warm water.",
+        "b": "The water is too hot.",
+        "avi": "Bà đặt tay vào nước ấm đi.",
+        "bvi": "Nước nóng quá."
+      },
+      {
+        "a": "I'll give you a new hairstyle.",
+        "b": "Please cut my hair in this style.",
+        "avi": "Tôi sẽ làm cho bà một kiểu tóc mới.",
+        "bvi": "Xin cắt tóc tôi theo kiểu này."
+      }
+    ]
+  },
+  {
+    "id": 2137,
+    "title": "Bài 15",
+    "pairs": [
+      {
+        "a": "Why don't you dye your hair?",
+        "b": "How much is it to tint the hair?",
+        "avi": "Sao cô không nhuộm tóc?",
+        "bvi": "Nhuộm tóc giá bao nhiêu tiền?"
+      },
+      {
+        "a": "I have the cosmetics.",
+        "b": "Have you a lipstick?",
+        "avi": "Tôi có đồ trang điểm.",
+        "bvi": "Bà có son môi không?"
+      },
+      {
+        "a": "Some women varnish their toe-nails.",
+        "b": "What colors do you have?",
+        "avi": "Một số phụ nữ sơn móng chân.",
+        "bvi": "Cô có những màu nào?"
+      },
+      {
+        "a": "I love your haircut.",
+        "b": "I want a hairnet.",
+        "avi": "Tôi thích kiểu tóc của bạn.",
+        "bvi": "Tôi cần một lưới tóc."
+      }
+    ]
+  },
+  {
+    "id": 2138,
+    "title": "Bài 16",
+    "pairs": [
+      {
+        "a": "It's skin cream.",
+        "b": "What skin cream do you recommend?",
+        "avi": "Ðó là kem dưỡng da.",
+        "bvi": "Cô giới thiệu tôi kem dưỡng da nào?"
+      },
+      {
+        "a": "Would you like those false eyelashes?",
+        "b": "Give me some mascara.",
+        "avi": "Bà có muốn cặp lông mi giả ấy không?",
+        "bvi": "Cho tôi lông mi giả."
+      },
+      {
+        "a": "I think it's eyeliner.",
+        "b": "Give me an eyebrow pencil.",
+        "avi": "Tôi nghĩ đó là bút kẻ mắt.",
+        "bvi": "Cho tôi bút kẻ lông mày."
+      },
+      {
+        "a": "What style do you like?",
+        "b": "My hair only wants trimming.",
+        "avi": "Ông thích kiểu tóc nào?",
+        "bvi": "Tóc tôi chỉ cần xén tỉa."
+      }
+    ]
+  },
+  {
+    "id": 2139,
+    "title": "Bài 17",
+    "pairs": [
+      {
+        "a": "Would you like a shave, or a hair-cut?",
+        "b": "Trim my moustache, please.",
+        "avi": "Ông muốn cạo râu hay cắt tóc ạ?",
+        "bvi": "Xin tỉa ria mép cho tôi."
+      },
+      {
+        "a": "If you need me, I'll be at the salon.",
+        "b": "I should like my eyebrows plucked.",
+        "avi": "Cần gì thì tôi ở thẩm mỹ viện.",
+        "bvi": "Tôi muốn nhổ lông mày."
+      },
+      {
+        "a": "I like the hair style.",
+        "b": "I am glad you like the design.",
+        "avi": "Tôi thích kiểu tóc đó.",
+        "bvi": "Tôi rất vui là bạn thích kiểu này."
+      },
+      {
+        "a": "Here is the barber's shop.",
+        "b": "I want to have my hair cut.",
+        "avi": "Ðây là tiệm hớt tóc.",
+        "bvi": "Xin hớt tóc cho tôi."
+      }
+    ]
+  },
+  {
+    "id": 2140,
+    "title": "Bài 18",
+    "pairs": [
+      {
+        "a": "Get a haircut!",
+        "b": "I want to go to an air-conditioned barber's.",
+        "avi": "Ði hớt tóc đi!",
+        "bvi": "Tôi muốn đến tiệm hớt tóc có gắn máy lạnh."
+      },
+      {
+        "a": "First come, first served.",
+        "b": "I haven't time to wait long.",
+        "avi": "Phục vụ theo thứ tự.",
+        "bvi": "Tôi không có thời giờ để chờ đợi."
+      },
+      {
+        "a": "Have you been waiting long?",
+        "b": "Is it my turn soon?",
+        "avi": "Bạn đã đợi lâu chưa?",
+        "bvi": "Sắp đến lượt tôi chứ?"
+      },
+      {
+        "a": "I haven't time to wait long.",
+        "b": "Next, please!",
+        "avi": "Tôi không có thời giờ để chờ đợi.",
+        "bvi": "Xin mời người kế tiếp."
+      }
+    ]
+  },
+  {
+    "id": 2141,
+    "title": "Bài 19",
+    "pairs": [
+      {
+        "a": "You need service?",
+        "b": "Please give me a haircut and a shave.",
+        "avi": "Ông cần phục vụ không?",
+        "bvi": "Làm ơn hớt tóc và cạo râu."
+      },
+      {
+        "a": "Is that all, sir?",
+        "b": "Will you take down my overcoat, please.",
+        "avi": "Ông cần gì nữa không?",
+        "bvi": "Xin lấy cho tôi áo khoác."
+      },
+      {
+        "a": "Will that be all, sir?",
+        "b": "Help me on with it.",
+        "avi": "Như vậy phải không, thưa ông?",
+        "bvi": "Xin giúp tôi mặc áo khoác vào."
+      },
+      {
+        "a": "You have been here before, haven't you?",
+        "b": "I like the way you've done hair.",
+        "avi": "Bà đã từng đến đây rồi phải không?",
+        "bvi": "Tôi thích cách làm tóc của cô."
+      }
+    ]
+  },
+  {
+    "id": 2142,
+    "title": "Bài 20",
+    "pairs": [
+      {
+        "a": "I'll have to do this another time.",
+        "b": "When can I have an appointment?",
+        "avi": "Tôi phải hẹn lại thôi.",
+        "bvi": "Cô có thể hẹn tôi vào lúc nào?"
+      },
+      {
+        "a": "You changed your hair?",
+        "b": "I want my hair waved.",
+        "avi": "Bà đã đổi kiểu tóc hả?",
+        "bvi": "Tôi muốn tóc uốn dợn sóng."
+      },
+      {
+        "a": "Do you want a manicure?",
+        "b": "I prefer an oil-shampoo.",
+        "avi": "Cô muốn làm móng tay phải không?",
+        "bvi": "Tôi thích gội dầu."
+      },
+      {
+        "a": "You want a neck massage?",
+        "b": "Could you give me a facial?",
+        "avi": "Cô có muốn mát xa cổ không?",
+        "bvi": "Chị làm ơn xoa mặt cho tôi."
+      }
+    ]
+  },
+  {
+    "id": 2143,
+    "title": "Bài 21",
+    "pairs": [
+      {
+        "a": "Don't cut them too short.",
+        "b": "Call the manicurist, please.",
+        "avi": "Ðừng cắt móng tay quá ngắn nhé.",
+        "bvi": "Làm ơn gọi giùm thợ làm móng."
+      },
+      {
+        "a": "Call the manicurist, please.",
+        "b": "Don't cut them too short.",
+        "avi": "Làm ơn gọi giùm thợ làm móng.",
+        "bvi": "Ðừng cắt móng tay quá ngắn nhé."
+      },
+      {
+        "a": "Is my hair okay?",
+        "b": "Did you get your hair cut?",
+        "avi": "Bạn thấy tóc tôi được chứ?",
+        "bvi": "Bạn mới cắt tóc à?"
+      },
+      {
+        "a": "How do you want to your hair cut?",
+        "b": "I want my hair cut short.",
+        "avi": "Bạn muốn hớt tóc như thế nào?",
+        "bvi": "Tôi muốn tóc cắt ngắn."
+      }
+    ]
+  },
+  {
+    "id": 2144,
+    "title": "Bài 22",
+    "pairs": [
+      {
+        "a": "I cut my face shaving.",
+        "b": "Maybe you should stop shaving.",
+        "avi": "Tôi bị đứt mặt khi cạo râu.",
+        "bvi": "Vậy có lẽ bạn đừng cạo râu nữa."
+      },
+      {
+        "a": "Don't use the good towels, they're only for guests.",
+        "b": "I have just bought a Turkish towel.",
+        "avi": "Ðừng dùng khăn tắm xịn nhé, cái đó chỉ để cho khách thôi.",
+        "bvi": "Tôi mới mua một cái khăn lông."
+      },
+      {
+        "a": "I still have the hairbrush.",
+        "b": "It is just a metal comb.",
+        "avi": "Tôi vẫn giữ cái lược chải tóc.",
+        "bvi": "Ðó chỉ là cái lược kim loại."
+      },
+      {
+        "a": "Molars are the toughest of the bunch.",
+        "b": "I often brush my teeth twice a day.",
+        "avi": "Răng hàm là những cụm răng chắc khỏe nhất.",
+        "bvi": "Tôi thường đánh răng hai lần một ngày."
+      }
+    ]
+  },
+  {
+    "id": 2145,
+    "title": "Bài 23",
+    "pairs": [
+      {
+        "a": "Do you have any other razor blades?",
+        "b": "I hate shaving.",
+        "avi": "Bạn có lưỡi dao cạo râu nào khác không?",
+        "bvi": "Tôi ghét cạo râu."
+      },
+      {
+        "a": "Please cut my hair in this style.",
+        "b": "Can I use the clippers?",
+        "avi": "Xin cắt tóc tôi theo kiểu này.",
+        "bvi": "Tôi dùng tông-đơ được không?"
+      },
+      {
+        "a": "Feel my hair.",
+        "b": "You ought to have your hair dyed.",
+        "avi": "Sờ thử tóc tôi xem.",
+        "bvi": "Bà nên nhuộm tóc."
+      },
+      {
+        "a": "Could you hand me those scissors?",
+        "b": "These scissors are the best quality.",
+        "avi": "Bạn lấy dùm tôi những cái kéo đó nhé?",
+        "bvi": "Những cái kéo này là loại tốt nhất."
+      }
+    ]
+  },
+  {
+    "id": 2146,
+    "title": "Bài 24",
+    "pairs": [
+      {
+        "a": "I don't use them for shaving.",
+        "b": "Maybe you should use an electric shaver.",
+        "avi": "Tôi không bao giờ dùng thứ dao này để cạo râu.",
+        "bvi": "Có lẽ bạn nên sử dụng dao cạo râu điện tử."
+      },
+      {
+        "a": "We need some shampoo and conditioner.",
+        "b": "What type of shampoo do you recommend?",
+        "avi": "Chúng ta cần mua dầu gội đầu và dầu dưỡng tóc.",
+        "bvi": "Bạn thấy dầu gội đầu nào tốt nhất?"
+      },
+      {
+        "a": "Is it my turn?",
+        "b": "Please wait one minute.",
+        "avi": "Ðến lượt tôi chưa?",
+        "bvi": "Xin đợi một phút."
+      },
+      {
+        "a": "I've waited for you for a good hour.",
+        "b": "Now it's your turn, sir.",
+        "avi": "Tôi đợi cô ít nhất là một tiếng rồi.",
+        "bvi": "Bây giờ đến lượt ông."
+      }
+    ]
+  },
+  {
+    "id": 2147,
+    "title": "Bài 25",
+    "pairs": [
+      {
+        "a": "Please give me a haircut and a shave.",
+        "b": "How would you like your hair, sir?",
+        "avi": "Làm ơn hớt tóc và cạo râu.",
+        "bvi": "Ông hớt như thế nào?"
+      },
+      {
+        "a": "How would you like your hair, sir?",
+        "b": "Cut it short, please.",
+        "avi": "Ông hớt như thế nào?",
+        "bvi": "Làm ơn hớt ngắn lên."
+      },
+      {
+        "a": "Your hair turned snowy white.",
+        "b": "Are there any tips for my dyed hair?",
+        "avi": "Tóc bạn chuyển sang trắng phơ.",
+        "bvi": "Có lời khuyên nào dành cho mái tóc nhuộm của tôi không?"
+      },
+      {
+        "a": "How do you want your hair cut?",
+        "b": "Make it the same style, please.",
+        "avi": "Ông muốn cắt tóc như thế nào?",
+        "bvi": "Làm theo kiểu cũ."
+      }
+    ]
+  },
+  {
+    "id": 2148,
+    "title": "Bài 26",
+    "pairs": [
+      {
+        "a": "Make it the same style, please.",
+        "b": "Will there be anything else?",
+        "avi": "Làm theo kiểu cũ.",
+        "bvi": "Có làm gì nữa không?"
+      },
+      {
+        "a": "Will there be anything else?",
+        "b": "Dye my hair black, please.",
+        "avi": "Có làm gì nữa không?",
+        "bvi": "Hãy nhuộm đen cho tôi."
+      },
+      {
+        "a": "Is there a barber shop near here?",
+        "b": "Do you want a haircut.",
+        "avi": "Có tiệm hớt tóc nào gần đây không?",
+        "bvi": "Bạn muốn hớt tóc phải không?"
+      },
+      {
+        "a": "I'm going to shave your face.",
+        "b": "Your razor blade is blunt.",
+        "avi": "Tôi sẽ cạo mặt cho ông.",
+        "bvi": "Dao cạo của ông lụt rồi."
+      }
+    ]
+  },
+  {
+    "id": 2149,
+    "title": "Bài 27",
+    "pairs": [
+      {
+        "a": "Would you like a shave or a hair-cut?",
+        "b": "I don't need a shave.",
+        "avi": "Ông muốn cạo râu hay cắt tóc ạ?",
+        "bvi": "Tôi không cần cạo râu."
+      }
+    ]
+  }
+]

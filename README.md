@@ -39,8 +39,8 @@ Repo này chứa **mã nguồn app và nội dung bài học** (`content/`). Aud
 
 Nguồn nội dung là các file trong `content/dataset/` (JSON có cấu trúc, bài văn phạm là Markdown nhẹ, ảnh WebP), mô tả từng trường ở `docs/09` và tài liệu dữ liệu của repo `grammar-legacy`. Quy trình:
 
-1. Sửa hoặc thêm bài trong `content/dataset/`.
-2. `python3 tool/content/check.py` — báo lỗi nếu bản sửa làm mất hay đổi nghĩa một ID cũ (tiến độ của người học trỏ vào các ID này). Khi **thêm** mục mới thì chạy `--update` để ghi ID mới vào `content/ids.json`.
+1. Sửa hoặc thêm bài trong `content/dataset/`. Các file JSON theo một bố cục dễ đọc (mỗi câu, cặp hội thoại, nghĩa từ điển một dòng) để diff xem được bằng mắt; script nào ghi file thì dùng `jsonfmt.dumps`, hoặc chạy `python3 tool/content/jsonfmt.py` sau khi sửa.
+2. `python3 tool/content/check.py` — báo lỗi nếu file lệch bố cục, hoặc nếu bản sửa làm mất hay đổi nghĩa một ID cũ (tiến độ của người học trỏ vào các ID này). Khi **thêm** mục mới thì chạy `--update` để ghi ID mới vào `content/ids.json`.
 3. Tăng `version` trong `content/content.json` (PATCH sửa lỗi, MINOR thêm bài, MAJOR phá tương thích) và ghi vào `content/CHANGELOG.md`.
 4. `python3 tool/content/pack.py`, chạy app kiểm tra; commit cả nội dung và `ids.json`.
 
@@ -80,6 +80,7 @@ windows/runner/sapi_tts.cpp   TTS SAPI cho Windows
 content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); content.json phiên bản; ids.json ID ổn định; CHANGELOG.md
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung
+tool/content/jsonfmt.py       bố cục JSON dễ đọc, dễ diff của content/dataset (`--check` chỉ báo)
 tool/content/bundle.py        đóng gói bản phát hành: grammar.db + grammar.images (`--zip-data`: kèm grammar4-data-<phiên bản>.zip), `--zip-audio`: grammar4-audio-<phiên bản>.zip (audio/)
 tool/encrypt_db.dart          mã hoá grammar.db cho bản phát hành
 docs/                         kế hoạch port (07), ma trận truy vết hành vi app gốc (08), lược đồ SQLite (09)

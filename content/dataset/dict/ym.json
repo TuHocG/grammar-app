@@ -1,1 +1,47 @@
-[{"h":"ymca","segs":[{"k":"m","t":"(tắt) Hội thanh niên Cơ Ðốc ("},{"k":"ex","t":"Young Men's Christian Association","vi":")."}],"ipa":",wai em si: 'ei","k":"ymca"},{"h":"ymck","segs":[{"k":"m","t":"Từ vt. của yellow, magenta, cyan, black."}],"k":"ymck"},{"h":"YMHA","segs":[{"k":"m","t":"hoặc Y.M.H.A."},{"k":"m","t":"abbreviation"},{"k":"m","t":"Young Men's Hebrew Association"}],"k":"ymha"},{"h":"Ymir","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"Scandinavian giant god: in Norse mythology, the forefather of all the giants."},{"k":"m","t":"Ymir was killed by Odin và his brothers, và the world was formed from his body, the sky from his skull, và the water from his blood."}],"k":"ymir"},{"h":"Ymodem","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"variation of Xmodem file transfer: a variation of the Xmodem file transfer protocol in which data is sent in 1-kilobyte blocks"}],"k":"ymodem"}]
+[
+  {
+    "h": "ymca",
+    "segs": [
+      {"k": "m", "t": "(tắt) Hội thanh niên Cơ Ðốc ("},
+      {"k": "ex", "t": "Young Men's Christian Association", "vi": ")."}
+    ],
+    "ipa": ",wai em si: 'ei",
+    "k": "ymca"
+  },
+  {"h": "ymck", "segs": [{"k": "m", "t": "Từ vt. của yellow, magenta, cyan, black."}], "k": "ymck"},
+  {
+    "h": "YMHA",
+    "segs": [
+      {"k": "m", "t": "hoặc Y.M.H.A."},
+      {"k": "m", "t": "abbreviation"},
+      {"k": "m", "t": "Young Men's Hebrew Association"}
+    ],
+    "k": "ymha"
+  },
+  {
+    "h": "Ymir",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "Scandinavian giant god: in Norse mythology, the forefather of all the giants."
+      },
+      {
+        "k": "m",
+        "t": "Ymir was killed by Odin và his brothers, và the world was formed from his body, the sky from his skull, và the water from his blood."
+      }
+    ],
+    "k": "ymir"
+  },
+  {
+    "h": "Ymodem",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "variation of Xmodem file transfer: a variation of the Xmodem file transfer protocol in which data is sent in 1-kilobyte blocks"
+      }
+    ],
+    "k": "ymodem"
+  }
+]

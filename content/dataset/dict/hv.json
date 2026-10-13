@@ -1,1 +1,31 @@
-[{"h":"HV","segs":[{"k":"m","t":"Viết tắt của 1. U.K. medicine health visitor"},{"k":"m","t":"2. electricity high voltage"}],"k":"hv"},{"h":"HV circuit-breaker","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"máy ngắt cao áp"}],"k":"hv circuit-breaker"},{"h":"HV substation","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"trạm cao áp"}],"k":"hv substation"},{"h":"HVAC","segs":[{"k":"m","t":"hệ thống sưởi, thông gió và điều hòa không khí."}],"k":"hvac"},{"h":"HVDC","segs":[{"k":"m","t":"(high-voltage direct current) dòng một chiều cao áp."}],"k":"hvdc"},{"h":"HVT","segs":[{"k":"m","t":"Viết tắt của military high-value target"}],"k":"hvt"}]
+[
+  {
+    "h": "HV",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. U.K. medicine health visitor"},
+      {"k": "m", "t": "2. electricity high voltage"}
+    ],
+    "k": "hv"
+  },
+  {
+    "h": "HV circuit-breaker",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy ngắt cao áp"}],
+    "k": "hv circuit-breaker"
+  },
+  {
+    "h": "HV substation",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "trạm cao áp"}],
+    "k": "hv substation"
+  },
+  {
+    "h": "HVAC",
+    "segs": [{"k": "m", "t": "hệ thống sưởi, thông gió và điều hòa không khí."}],
+    "k": "hvac"
+  },
+  {
+    "h": "HVDC",
+    "segs": [{"k": "m", "t": "(high-voltage direct current) dòng một chiều cao áp."}],
+    "k": "hvdc"
+  },
+  {"h": "HVT", "segs": [{"k": "m", "t": "Viết tắt của military high-value target"}], "k": "hvt"}
+]

@@ -1,1 +1,114 @@
-[{"h":"gc","segs":[{"k":"m","t":"(tắt) Chữ thập Goócgiơ, huân chương tặng cho công dân có thành tích dũng cảm ("},{"k":"ex","t":"George Cross","vi":")."}],"ipa":",dʒi: 'si:","k":"gc"},{"h":"GC (graphics context)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khung cảnh đồ họa"}],"k":"gc (graphics context)"},{"h":"GCA","segs":[{"k":"m","t":"(Game Control Adapter) bộ điều hợp điều khiển trò chơi."}],"k":"gca"},{"h":"GCB","segs":[{"k":"m","t":"Viết tắt của U.K. Knight hoặc Dame Grand Cross of the Order of the Bath"}],"k":"gcb"},{"h":"gce","segs":[{"k":"m","t":"(tắt) chứng chỉ giáo dục phổ thông ("},{"k":"ex","t":"General Certificate of Education","vi":")."}],"ipa":",dʒi: si: 'i:","k":"gce"},{"h":"GCH","segs":[{"k":"m","t":"Viết tắt của U.K. gas central heating"}],"k":"gch"},{"h":"GCHQ","segs":[{"k":"pos","t":"ngoại động từ"},{"k":"m","t":"Government Commu-nications Headquarters cơ quan truyền thông chính phủ"}],"k":"gchq"},{"h":"GCL","segs":[{"k":"m","t":"(general control language) ngôn ngữ điều khiển chung."}],"k":"gcl"},{"h":"GCMG","segs":[{"k":"m","t":"Viết tắt của U.K. Grand Cross of the Order of St Michael và St George"}],"k":"gcmg"},{"h":"gcometrical magnitude","segs":[{"k":"m","t":"độ lớn hình học."}],"k":"gcometrical magnitude"},{"h":"Gcontext","segs":[{"k":"m","t":"(graphics context) khung cảnh đồ họa, phạm vi đồ họa."}],"k":"gcontext"},{"h":"gcontext (graphics context)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"khung cảnh họa"},{"k":"m","t":"phạm vi đồ họa"}],"k":"gcontext (graphics context)"},{"h":"GCOS","segs":[{"k":"m","t":"(General Computing Operating System) hệ điều hành tính toán chung."}],"k":"gcos"},{"h":"GCP","segs":[{"k":"m","t":"(graphics control processor) bộ xử lý điều khiểu đồ họa."}],"k":"gcp"},{"h":"GCR","segs":[{"k":"m","t":"(group coded recording) phép ghi mã hóa theo nhóm."}],"k":"gcr"},{"h":"GCS","segs":[{"k":"m","t":"(group control system) hệ thống điều khiển nhóm."}],"k":"gcs"},{"h":"gcse","segs":[{"k":"m","t":"(tắt) Chứng chỉ giáo dục phổ thông trung học ("},{"k":"ex","t":"General Certificate of Secondary Education","vi":")."}],"ipa":",dʒi: si: es 'i:","k":"gcse"},{"h":"GCVO","segs":[{"k":"m","t":"Viết tắt của U.K. Grand Cross of the Victorian Order"}],"k":"gcvo"}]
+[
+  {
+    "h": "gc",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(tắt) Chữ thập Goócgiơ, huân chương tặng cho công dân có thành tích dũng cảm ("
+      },
+      {"k": "ex", "t": "George Cross", "vi": ")."}
+    ],
+    "ipa": ",dʒi: 'si:",
+    "k": "gc"
+  },
+  {
+    "h": "GC (graphics context)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "khung cảnh đồ họa"}],
+    "k": "gc (graphics context)"
+  },
+  {
+    "h": "GCA",
+    "segs": [{"k": "m", "t": "(Game Control Adapter) bộ điều hợp điều khiển trò chơi."}],
+    "k": "gca"
+  },
+  {
+    "h": "GCB",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.K. Knight hoặc Dame Grand Cross of the Order of the Bath"}
+    ],
+    "k": "gcb"
+  },
+  {
+    "h": "gce",
+    "segs": [
+      {"k": "m", "t": "(tắt) chứng chỉ giáo dục phổ thông ("},
+      {"k": "ex", "t": "General Certificate of Education", "vi": ")."}
+    ],
+    "ipa": ",dʒi: si: 'i:",
+    "k": "gce"
+  },
+  {"h": "GCH", "segs": [{"k": "m", "t": "Viết tắt của U.K. gas central heating"}], "k": "gch"},
+  {
+    "h": "GCHQ",
+    "segs": [
+      {"k": "pos", "t": "ngoại động từ"},
+      {"k": "m", "t": "Government Commu-nications Headquarters cơ quan truyền thông chính phủ"}
+    ],
+    "k": "gchq"
+  },
+  {
+    "h": "GCL",
+    "segs": [{"k": "m", "t": "(general control language) ngôn ngữ điều khiển chung."}],
+    "k": "gcl"
+  },
+  {
+    "h": "GCMG",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của U.K. Grand Cross of the Order of St Michael và St George"}
+    ],
+    "k": "gcmg"
+  },
+  {
+    "h": "gcometrical magnitude",
+    "segs": [{"k": "m", "t": "độ lớn hình học."}],
+    "k": "gcometrical magnitude"
+  },
+  {
+    "h": "Gcontext",
+    "segs": [{"k": "m", "t": "(graphics context) khung cảnh đồ họa, phạm vi đồ họa."}],
+    "k": "gcontext"
+  },
+  {
+    "h": "gcontext (graphics context)",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "khung cảnh họa"},
+      {"k": "m", "t": "phạm vi đồ họa"}
+    ],
+    "k": "gcontext (graphics context)"
+  },
+  {
+    "h": "GCOS",
+    "segs": [{"k": "m", "t": "(General Computing Operating System) hệ điều hành tính toán chung."}],
+    "k": "gcos"
+  },
+  {
+    "h": "GCP",
+    "segs": [{"k": "m", "t": "(graphics control processor) bộ xử lý điều khiểu đồ họa."}],
+    "k": "gcp"
+  },
+  {
+    "h": "GCR",
+    "segs": [{"k": "m", "t": "(group coded recording) phép ghi mã hóa theo nhóm."}],
+    "k": "gcr"
+  },
+  {
+    "h": "GCS",
+    "segs": [{"k": "m", "t": "(group control system) hệ thống điều khiển nhóm."}],
+    "k": "gcs"
+  },
+  {
+    "h": "gcse",
+    "segs": [
+      {"k": "m", "t": "(tắt) Chứng chỉ giáo dục phổ thông trung học ("},
+      {"k": "ex", "t": "General Certificate of Secondary Education", "vi": ")."}
+    ],
+    "ipa": ",dʒi: si: es 'i:",
+    "k": "gcse"
+  },
+  {
+    "h": "GCVO",
+    "segs": [{"k": "m", "t": "Viết tắt của U.K. Grand Cross of the Victorian Order"}],
+    "k": "gcvo"
+  }
+]

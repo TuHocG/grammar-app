@@ -1,1 +1,7 @@
-[{"h":"fqacies poplitea femoris","segs":[{"k":"m","t":"Diện khoeo của xương đùi."}],"k":"fqacies poplitea femoris"}]
+[
+  {
+    "h": "fqacies poplitea femoris",
+    "segs": [{"k": "m", "t": "Diện khoeo của xương đùi."}],
+    "k": "fqacies poplitea femoris"
+  }
+]

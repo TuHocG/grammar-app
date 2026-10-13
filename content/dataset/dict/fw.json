@@ -1,1 +1,13 @@
-[{"h":"FWD","segs":[{"k":"m","t":"abbreviationautomotive"},{"k":"m","t":"1. four-wheel drive"},{"k":"m","t":"2. front-wheel drive"}],"k":"fwd"},{"h":"fwd.","segs":[{"k":"m","t":"Viết tắt của forward"}],"k":"fwd."},{"h":"fwy.","segs":[{"k":"m","t":"Viết tắt của roads freeway"}],"k":"fwy."}]
+[
+  {
+    "h": "FWD",
+    "segs": [
+      {"k": "m", "t": "abbreviationautomotive"},
+      {"k": "m", "t": "1. four-wheel drive"},
+      {"k": "m", "t": "2. front-wheel drive"}
+    ],
+    "k": "fwd"
+  },
+  {"h": "fwd.", "segs": [{"k": "m", "t": "Viết tắt của forward"}], "k": "fwd."},
+  {"h": "fwy.", "segs": [{"k": "m", "t": "Viết tắt của roads freeway"}], "k": "fwy."}
+]

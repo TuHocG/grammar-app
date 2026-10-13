@@ -1,1 +1,8 @@
-[{"h":"bq","segs":[{"k":"m","t":"vt. BECQUEREL."}],"k":"bq"},{"h":"bq (becquere)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"becơren"}],"k":"bq (becquere)"}]
+[
+  {"h": "bq", "segs": [{"k": "m", "t": "vt. BECQUEREL."}], "k": "bq"},
+  {
+    "h": "bq (becquere)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "becơren"}],
+    "k": "bq (becquere)"
+  }
+]

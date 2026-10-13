@@ -1,1 +1,78 @@
-[{"h":"FP","segs":[{"k":"m","t":"(functional programming) sự lập trình chức năng."}],"k":"fp"},{"h":"FP (functional programming)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"sự lập trình chức năng"}],"k":"fp (functional programming)"},{"h":"fpa","segs":[{"k":"m","t":"(tắt) hội kế hoạch hóa gia đình"},{"k":"m","t":"("},{"k":"ex","t":"Family Planning Association","vi":")."}],"ipa":",ef pi: 'ei","k":"fpa"},{"h":"FPC","segs":[{"k":"m","t":"Viết tắt của 1. Federal Power Commission"},{"k":"m","t":"2. food industry fish protein concentrate"}],"k":"fpc"},{"h":"fpl","segs":[{"k":"m","t":"Viết tắt của fireplace"}],"k":"fpl"},{"h":"fpm","segs":[{"k":"m","t":"Viết tắt của measurements feet per minute"}],"k":"fpm"},{"h":"FPO","segs":[{"k":"m","t":"Viết tắt của navy fleet post office"}],"k":"fpo"},{"h":"FPP","segs":[{"k":"m","t":"(floating point processor) bộ xử lý dấu chấm động."}],"k":"fpp"},{"h":"fprecaster","segs":[{"k":"m","t":"(n)"},{"k":"m","t":"(Tham khảo)"},{"k":"ex","t":"forecast","vi":"."}],"k":"fprecaster"},{"h":"fps","segs":[{"k":"m","t":"Viết tắt của 1. measurements feet per second"},{"k":"m","t":"2. f.p.s.measurements foot-pound-second"},{"k":"m","t":"3. photog frames per second (a measure of camera shutter speed)"}],"k":"fps"},{"h":"FPS or fps","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"fít-pao-giây"}],"k":"fps or fps"},{"h":"fps units","segs":[{"k":"m","t":"hoặc fps system of units"},{"k":"pos","t":"danh từ"},{"k":"m","t":"system of scientific units: a system of units based on the foot, second, và pound mass that is now almost wholly superseded by SI units"}],"k":"fps units"},{"h":"FPU","segs":[{"k":"m","t":"(floating-poinl unit) bộ (xử lý) dấu chấm động."}],"k":"fpu"}]
+[
+  {
+    "h": "FP",
+    "segs": [{"k": "m", "t": "(functional programming) sự lập trình chức năng."}],
+    "k": "fp"
+  },
+  {
+    "h": "FP (functional programming)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự lập trình chức năng"}],
+    "k": "fp (functional programming)"
+  },
+  {
+    "h": "fpa",
+    "segs": [
+      {"k": "m", "t": "(tắt) hội kế hoạch hóa gia đình"},
+      {"k": "m", "t": "("},
+      {"k": "ex", "t": "Family Planning Association", "vi": ")."}
+    ],
+    "ipa": ",ef pi: 'ei",
+    "k": "fpa"
+  },
+  {
+    "h": "FPC",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. Federal Power Commission"},
+      {"k": "m", "t": "2. food industry fish protein concentrate"}
+    ],
+    "k": "fpc"
+  },
+  {"h": "fpl", "segs": [{"k": "m", "t": "Viết tắt của fireplace"}], "k": "fpl"},
+  {"h": "fpm", "segs": [{"k": "m", "t": "Viết tắt của measurements feet per minute"}], "k": "fpm"},
+  {"h": "FPO", "segs": [{"k": "m", "t": "Viết tắt của navy fleet post office"}], "k": "fpo"},
+  {
+    "h": "FPP",
+    "segs": [{"k": "m", "t": "(floating point processor) bộ xử lý dấu chấm động."}],
+    "k": "fpp"
+  },
+  {
+    "h": "fprecaster",
+    "segs": [
+      {"k": "m", "t": "(n)"},
+      {"k": "m", "t": "(Tham khảo)"},
+      {"k": "ex", "t": "forecast", "vi": "."}
+    ],
+    "k": "fprecaster"
+  },
+  {
+    "h": "fps",
+    "segs": [
+      {"k": "m", "t": "Viết tắt của 1. measurements feet per second"},
+      {"k": "m", "t": "2. f.p.s.measurements foot-pound-second"},
+      {"k": "m", "t": "3. photog frames per second (a measure of camera shutter speed)"}
+    ],
+    "k": "fps"
+  },
+  {
+    "h": "FPS or fps",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "fít-pao-giây"}],
+    "k": "fps or fps"
+  },
+  {
+    "h": "fps units",
+    "segs": [
+      {"k": "m", "t": "hoặc fps system of units"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "system of scientific units: a system of units based on the foot, second, và pound mass that is now almost wholly superseded by SI units"
+      }
+    ],
+    "k": "fps units"
+  },
+  {
+    "h": "FPU",
+    "segs": [{"k": "m", "t": "(floating-poinl unit) bộ (xử lý) dấu chấm động."}],
+    "k": "fpu"
+  }
+]

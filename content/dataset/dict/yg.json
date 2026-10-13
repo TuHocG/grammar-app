@@ -1,1 +1,30 @@
-[{"h":"ygapo","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"rừng lầy ẩm"}],"k":"ygapo"},{"h":"yggarasil","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"(thần thoại vùng Scadinavia) cây có rễ và cành quấn chặt vào nhau và vào đất."}],"ipa":"'igdrəsil","k":"yggarasil"},{"h":"Yggdrasil","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"mythological ash tree: in Norse mythology, the great ash tree that overshadows the world, binding together earth, heaven, và hell"}],"k":"yggdrasil"}]
+[
+  {
+    "h": "ygapo",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "rừng lầy ẩm"}],
+    "k": "ygapo"
+  },
+  {
+    "h": "yggarasil",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "(thần thoại vùng Scadinavia) cây có rễ và cành quấn chặt vào nhau và vào đất."
+      }
+    ],
+    "ipa": "'igdrəsil",
+    "k": "yggarasil"
+  },
+  {
+    "h": "Yggdrasil",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "mythological ash tree: in Norse mythology, the great ash tree that overshadows the world, binding together earth, heaven, và hell"
+      }
+    ],
+    "k": "yggdrasil"
+  }
+]

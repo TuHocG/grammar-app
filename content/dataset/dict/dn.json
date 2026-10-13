@@ -1,1 +1,232 @@
-[{"h":"DNA","segs":[{"k":"m","t":"(tắt) cấu tử cơ bản của tế bào di truyền ("},{"k":"ex","t":"deoxyribonucleic acid","vi":")."}],"ipa":",di: en 'ei","k":"dna"},{"h":"DNA (deoxyribonucleic acid)","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"axit deoxiribonucleic"}],"k":"dna (deoxyribonucleic acid)"},{"h":"DNA chip","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"genetics như gene chip"}],"k":"dna chip"},{"h":"DNA fingerprinting","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"identifying somebody from DNA: the analysis và use of DNA patterns from body tissues such as blood, saliva, hoặc semen in order to establish somebody's identity"},{"k":"m","t":"-DNA fingerprint (danh từ)"}],"k":"dna fingerprinting"},{"h":"dna helix","segs":[{"k":"m","t":"Chuỗi xoắn ADN."}],"k":"dna helix"},{"h":"DNA ligase (1)","segs":[{"k":"m","t":"(số nhiều DNA ligases)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"enzyme that repairs DNA double helix: an enzyme that joins up a break in a single strand of DNA so that it reconstitutes the double strand in a DNA molecule"}],"k":"dna ligase (1)"},{"h":"DNA microchip","segs":[{"k":"dom","t":"Chuyên ngành kỹ thuật"},{"k":"m","t":"chip AND"},{"k":"m","t":"chíp gen"},{"k":"m","t":"vi chip gen"}],"k":"dna microchip"},{"h":"DNA molecule","segs":[{"k":"m","t":"phân tử ADN."}],"k":"dna molecule"},{"h":"DNA polymerase","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"enzyme reproducing and repairing DNA: an enzyme that uses single-stranded DNA to reproduce và repair DNA"}],"k":"dna polymerase"},{"h":"DNA polymerase inhibitor","segs":[{"k":"m","t":"(số nhiều DNA polymerase inhibitors)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"antiviral drug: a drug that inhibits formation of viral DNA"}],"k":"dna polymerase inhibitor"},{"h":"DNA profiling","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"genetics như DNA fingerprinting"},{"k":"m","t":"-DNA profile (danh từ)"}],"k":"dna profiling"},{"h":"DNA replicase","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"enzyme promoting DNA replication: a polymerase enzyme that causes the synthesis of an exact copying of a length of DNA"}],"k":"dna replicase"},{"h":"DNA replication","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"use of DNA as copying template: the process by which existing DNA is used as a template for the synthesis of new DNA strands in the cell nucleus"}],"k":"dna replication"},{"h":"DNA sequence","segs":[{"k":"m","t":"(số nhiều DNA sequences)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"order of DNA base pairs: the relative order of base pairs in a fragment of DNA, a gene, a chromosome, hoặc an entire genome"}],"k":"dna sequence"},{"h":"DNA sequencing","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"discovering of DNA sequence: the process of determining the exact sequence of the bases along a section length of DNA"}],"k":"dna sequencing"},{"h":"DNA transformation","segs":[{"k":"m","t":"Biến nạp ADN."}],"k":"dna transformation"},{"h":"DNA virus","segs":[{"k":"m","t":"(số nhiều DNA viruses)"},{"k":"pos","t":"danh từ"},{"k":"m","t":"virus with genome containing DNA: a virus with a genome containing DNA"}],"k":"dna virus"},{"h":"DNA-unwinding protein","segs":[{"k":"m","t":"prôtêin ADN không cuộn."}],"k":"dna-unwinding protein"},{"h":"DNase","segs":[{"k":"pos","t":"danh từ"},{"k":"m","t":"DNA-splitting enzyme: an enzyme that aids the breakdown of DNA into smaller molecules. Full form deoxyribonuclease"}],"k":"dnase"},{"h":"DNC","segs":[{"k":"m","t":"1. dynamic network collection sự tập hợp mạng động. 2. direct numerical control sự điều khiển bằng số trực tiếp."}],"k":"dnc"},{"h":"DND/CF","segs":[{"k":"m","t":"Viết tắt của government Department of National Defence và the Canadian Forces"}],"k":"dnd/cf"},{"h":"Dnepr","segs":[{"k":"m","t":"Another spelling of Dnieper"}],"k":"dnepr"},{"h":"Dnestr","segs":[{"k":"m","t":"Another spelling of Dniester"}],"k":"dnestr"},{"h":"DNIC","segs":[{"k":"m","t":"(data network indentification code) mã nhận dạng mạng dữ liệu."}],"k":"dnic"},{"h":"Dnieper","segs":[{"k":"m","t":"hoặc Dnepr third longest river in Europe after the Volga và Danube. It rises west of Moscow và flows southward và westward through Russia, Belarus, và Ukraine before emptying into the Black Sea."},{"k":"m","t":"Length: 2,290 km/1,420 mi"}],"k":"dnieper"},{"h":"Dniester","segs":[{"k":"m","t":"hoặc Dnestr river that rises in the Carpathian Mountains và flows through Ukraine và Moldova before emptying into the Black Sea near Odessa."},{"k":"m","t":"Length: 1,400 km/870 mi"}],"k":"dniester"},{"h":"DNIS","segs":[{"k":"m","t":"(dialed number identification service) dịch vụ nhận dạng số gọi, dịch vụ nhận dạng số đã quay."}],"k":"dnis"},{"h":"DNOS","segs":[{"k":"m","t":"(distributed network operating system) hệ điều hành mạng phân tán."}],"k":"dnos"},{"h":"DNR","segs":[{"k":"m","t":"Viết tắt của medicine do not resuscitate"}],"k":"dnr"},{"h":"DNS","segs":[{"k":"m","t":"1. distributed network system hệ thống mạng phân tán. 2. domain name system hệ thống tên miền."}],"k":"dns"}]
+[
+  {
+    "h": "DNA",
+    "segs": [
+      {"k": "m", "t": "(tắt) cấu tử cơ bản của tế bào di truyền ("},
+      {"k": "ex", "t": "deoxyribonucleic acid", "vi": ")."}
+    ],
+    "ipa": ",di: en 'ei",
+    "k": "dna"
+  },
+  {
+    "h": "DNA (deoxyribonucleic acid)",
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "axit deoxiribonucleic"}],
+    "k": "dna (deoxyribonucleic acid)"
+  },
+  {
+    "h": "DNA chip",
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "genetics như gene chip"}],
+    "k": "dna chip"
+  },
+  {
+    "h": "DNA fingerprinting",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "identifying somebody from DNA: the analysis và use of DNA patterns from body tissues such as blood, saliva, hoặc semen in order to establish somebody's identity"
+      },
+      {"k": "m", "t": "-DNA fingerprint (danh từ)"}
+    ],
+    "k": "dna fingerprinting"
+  },
+  {"h": "dna helix", "segs": [{"k": "m", "t": "Chuỗi xoắn ADN."}], "k": "dna helix"},
+  {
+    "h": "DNA ligase (1)",
+    "segs": [
+      {"k": "m", "t": "(số nhiều DNA ligases)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "enzyme that repairs DNA double helix: an enzyme that joins up a break in a single strand of DNA so that it reconstitutes the double strand in a DNA molecule"
+      }
+    ],
+    "k": "dna ligase (1)"
+  },
+  {
+    "h": "DNA microchip",
+    "segs": [
+      {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
+      {"k": "m", "t": "chip AND"},
+      {"k": "m", "t": "chíp gen"},
+      {"k": "m", "t": "vi chip gen"}
+    ],
+    "k": "dna microchip"
+  },
+  {"h": "DNA molecule", "segs": [{"k": "m", "t": "phân tử ADN."}], "k": "dna molecule"},
+  {
+    "h": "DNA polymerase",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "enzyme reproducing and repairing DNA: an enzyme that uses single-stranded DNA to reproduce và repair DNA"
+      }
+    ],
+    "k": "dna polymerase"
+  },
+  {
+    "h": "DNA polymerase inhibitor",
+    "segs": [
+      {"k": "m", "t": "(số nhiều DNA polymerase inhibitors)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "antiviral drug: a drug that inhibits formation of viral DNA"}
+    ],
+    "k": "dna polymerase inhibitor"
+  },
+  {
+    "h": "DNA profiling",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "genetics như DNA fingerprinting"},
+      {"k": "m", "t": "-DNA profile (danh từ)"}
+    ],
+    "k": "dna profiling"
+  },
+  {
+    "h": "DNA replicase",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "enzyme promoting DNA replication: a polymerase enzyme that causes the synthesis of an exact copying of a length of DNA"
+      }
+    ],
+    "k": "dna replicase"
+  },
+  {
+    "h": "DNA replication",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "use of DNA as copying template: the process by which existing DNA is used as a template for the synthesis of new DNA strands in the cell nucleus"
+      }
+    ],
+    "k": "dna replication"
+  },
+  {
+    "h": "DNA sequence",
+    "segs": [
+      {"k": "m", "t": "(số nhiều DNA sequences)"},
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "order of DNA base pairs: the relative order of base pairs in a fragment of DNA, a gene, a chromosome, hoặc an entire genome"
+      }
+    ],
+    "k": "dna sequence"
+  },
+  {
+    "h": "DNA sequencing",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "discovering of DNA sequence: the process of determining the exact sequence of the bases along a section length of DNA"
+      }
+    ],
+    "k": "dna sequencing"
+  },
+  {"h": "DNA transformation", "segs": [{"k": "m", "t": "Biến nạp ADN."}], "k": "dna transformation"},
+  {
+    "h": "DNA virus",
+    "segs": [
+      {"k": "m", "t": "(số nhiều DNA viruses)"},
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "virus with genome containing DNA: a virus with a genome containing DNA"}
+    ],
+    "k": "dna virus"
+  },
+  {
+    "h": "DNA-unwinding protein",
+    "segs": [{"k": "m", "t": "prôtêin ADN không cuộn."}],
+    "k": "dna-unwinding protein"
+  },
+  {
+    "h": "DNase",
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {
+        "k": "m",
+        "t": "DNA-splitting enzyme: an enzyme that aids the breakdown of DNA into smaller molecules. Full form deoxyribonuclease"
+      }
+    ],
+    "k": "dnase"
+  },
+  {
+    "h": "DNC",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. dynamic network collection sự tập hợp mạng động. 2. direct numerical control sự điều khiển bằng số trực tiếp."
+      }
+    ],
+    "k": "dnc"
+  },
+  {
+    "h": "DND/CF",
+    "segs": [
+      {
+        "k": "m",
+        "t": "Viết tắt của government Department of National Defence và the Canadian Forces"
+      }
+    ],
+    "k": "dnd/cf"
+  },
+  {"h": "Dnepr", "segs": [{"k": "m", "t": "Another spelling of Dnieper"}], "k": "dnepr"},
+  {"h": "Dnestr", "segs": [{"k": "m", "t": "Another spelling of Dniester"}], "k": "dnestr"},
+  {
+    "h": "DNIC",
+    "segs": [{"k": "m", "t": "(data network indentification code) mã nhận dạng mạng dữ liệu."}],
+    "k": "dnic"
+  },
+  {
+    "h": "Dnieper",
+    "segs": [
+      {
+        "k": "m",
+        "t": "hoặc Dnepr third longest river in Europe after the Volga và Danube. It rises west of Moscow và flows southward và westward through Russia, Belarus, và Ukraine before emptying into the Black Sea."
+      },
+      {"k": "m", "t": "Length: 2,290 km/1,420 mi"}
+    ],
+    "k": "dnieper"
+  },
+  {
+    "h": "Dniester",
+    "segs": [
+      {
+        "k": "m",
+        "t": "hoặc Dnestr river that rises in the Carpathian Mountains và flows through Ukraine và Moldova before emptying into the Black Sea near Odessa."
+      },
+      {"k": "m", "t": "Length: 1,400 km/870 mi"}
+    ],
+    "k": "dniester"
+  },
+  {
+    "h": "DNIS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "(dialed number identification service) dịch vụ nhận dạng số gọi, dịch vụ nhận dạng số đã quay."
+      }
+    ],
+    "k": "dnis"
+  },
+  {
+    "h": "DNOS",
+    "segs": [{"k": "m", "t": "(distributed network operating system) hệ điều hành mạng phân tán."}],
+    "k": "dnos"
+  },
+  {"h": "DNR", "segs": [{"k": "m", "t": "Viết tắt của medicine do not resuscitate"}], "k": "dnr"},
+  {
+    "h": "DNS",
+    "segs": [
+      {
+        "k": "m",
+        "t": "1. distributed network system hệ thống mạng phân tán. 2. domain name system hệ thống tên miền."
+      }
+    ],
+    "k": "dns"
+  }
+]

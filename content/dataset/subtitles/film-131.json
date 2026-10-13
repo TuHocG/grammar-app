@@ -1,1 +1,138 @@
-{"id":131,"code":"C 7","group":"C","n":7,"title":"C 7","first_line":"Your newborn is only one week old,","video":"C  7.avi","duration":88.3,"lines":[{"e":2.69,"en":"Your newborn is only one week old,","vi":"Bé chỉ mới được 1 tuần tuổi,","s":0.0},{"e":7.43,"en":"but your baby already has certain preferences-the biggest one being looking at you!","vi":"nhưng bé đã có một số sở thích, mà sở thích tuyệt vời nhất là nhìn bạn.","s":2.69},{"e":11.74,"en":"Your baby was born nearsighted, and even though eyesight is still fuzzy,","vi":"Bé bị cận thị khi mới sinh, và thậm chí cho dù thị lực vẫn còn rất kém,","s":7.43},{"e":15.59,"en":"he or she CAN see you in detail, when you're 8 to 10 inches away.","vi":"thế nhưng bé CÓ THỂ nhìn rõ bạn khi bạn chỉ cách bé từ 8 đến 10 in-sơ","s":11.74},{"e":20.66,"en":"And studies show that newborns prefer human faces to ALL other patterns or objects,","vi":"nghiên cứu cho thấy các trẻ sơ sinh thích nhìn khuôn mặt người hơn TẤT CẢ các hoa văn hoặc vật thể khác,","s":15.59},{"e":22.89,"en":"so give your baby PLENTY of face time.","vi":"thế nên bạn hãy dành THẬT NHIỀU thời gian để tiếp xúc với bé","s":20.66},{"e":27.67,"en":"Help your baby develop those eye muscles by slowly moving your head back and forth,","vi":"hãy giúp bé phát triển các cơ mắt bằng cách chậm rãi đưa đầu bạn tới lui,","s":22.89},{"e":31.04,"en":"or bringing objects close to him, then moving them away again.","vi":"hoặc đưa các đồ vật đến gần bé rối kế đó lại đưa ra xa","s":27.67},{"e":35.74,"en":"And at this point, your baby can even recognize your gestures and faces,","vi":"Lúc này, thậm chí bé có thể nhận biết điệu bộ và nét mặt của bạn","s":31.04},{"e":38.35,"en":"so play by raising your eyebrows or smiling.","vi":"thế nên hãy đùa giỡn với bé bằng cách nhướng mày hoặc cười.","s":35.74},{"e":41.57,"en":"Many one-week olds will even respond in kind.","vi":"Nhiều bé một tuần tuổi thậm chí còn đáp lại bằng cách bắt chước bạn.","s":38.35},{"e":47.67,"en":"Don't worry if your little one looks at you with crossed eyes-it's often a part of normal development.","vi":"Ðừng lo lắng nếu bé liếc mắt nhìn bạn, hiện tượng này thường là một phần của sự phát triển tự nhiên","s":41.57},{"e":53.71,"en":"Although your baby is busy learning, this second week of life will STILL center on sleeping and eating.","vi":"Dù tích cực học hỏi, nhưng ở tuần tuổi thứ hai bé VẪN CÒN tập trung vào việc ngủ và ăn.","s":47.67},{"e":59.7,"en":"If your infant is indeed eating enough, he'll pass frequent mustard-yellow or dark stools,","vi":"Nếu thật sự ăn đủ, bé sẽ đại tiện ra phân có màu vàng mù-tạt hoặc đen,","s":53.71},{"e":62.7,"en":"and will wet up to about 7 diapers daily.","vi":"và sẽ đái ướt tã mỗi ngày 7 lần.","s":59.7},{"e":68.8,"en":"All that eating will also insure that your baby gets back up to her birth weight-or beyond-this week.","vi":"Tất cả những thứ được ăn vào cũng sẽ giúp bé có được trọng lượng ngang bằng, hoặc hơn lúc mới sinh trong tuần này.","s":62.7},{"e":72.88,"en":"And while your newborn sleeps, you'll want to keep your baby on his or her back","vi":"Và trong khi bé ngủ, bạn nên giữ cho bé nằm ngửa","s":68.8},{"e":76.54,"en":"to help reduce the likelihood of sudden infant death syndrome, or SIDS.","vi":"để làm giảm nguy cơ xảy ra hội chứng đột tử trẻ em, hoặc SIDS.","s":72.88},{"e":80.96,"en":"When your baby's awake though, encourage your newborn to spend time on his tummy,","vi":"Dù vậy, khi bé thức, nên để bé nằm sấp khi chơi đùa,","s":76.54},{"e":83.21,"en":"which will help him learn to hold his head up.","vi":"điều này sẽ giúp bé tập ngẩng đầu.","s":80.96},{"e":88.29,"en":"What a week, huh? Stay tuned for all that's to come in your infant's third one!","vi":"Bé sẽ làm được gì trong một tuần chứ hả? Hãy chờ đợi những điều xảy ra trong tuần tuổi thứ 3 của bé.","s":83.21}]}
+{
+  "id": 131,
+  "code": "C 7",
+  "group": "C",
+  "n": 7,
+  "title": "C 7",
+  "first_line": "Your newborn is only one week old,",
+  "video": "C  7.avi",
+  "duration": 88.3,
+  "lines": [
+    {
+      "e": 2.69,
+      "en": "Your newborn is only one week old,",
+      "vi": "Bé chỉ mới được 1 tuần tuổi,",
+      "s": 0.0
+    },
+    {
+      "e": 7.43,
+      "en": "but your baby already has certain preferences-the biggest one being looking at you!",
+      "vi": "nhưng bé đã có một số sở thích, mà sở thích tuyệt vời nhất là nhìn bạn.",
+      "s": 2.69
+    },
+    {
+      "e": 11.74,
+      "en": "Your baby was born nearsighted, and even though eyesight is still fuzzy,",
+      "vi": "Bé bị cận thị khi mới sinh, và thậm chí cho dù thị lực vẫn còn rất kém,",
+      "s": 7.43
+    },
+    {
+      "e": 15.59,
+      "en": "he or she CAN see you in detail, when you're 8 to 10 inches away.",
+      "vi": "thế nhưng bé CÓ THỂ nhìn rõ bạn khi bạn chỉ cách bé từ 8 đến 10 in-sơ",
+      "s": 11.74
+    },
+    {
+      "e": 20.66,
+      "en": "And studies show that newborns prefer human faces to ALL other patterns or objects,",
+      "vi": "nghiên cứu cho thấy các trẻ sơ sinh thích nhìn khuôn mặt người hơn TẤT CẢ các hoa văn hoặc vật thể khác,",
+      "s": 15.59
+    },
+    {
+      "e": 22.89,
+      "en": "so give your baby PLENTY of face time.",
+      "vi": "thế nên bạn hãy dành THẬT NHIỀU thời gian để tiếp xúc với bé",
+      "s": 20.66
+    },
+    {
+      "e": 27.67,
+      "en": "Help your baby develop those eye muscles by slowly moving your head back and forth,",
+      "vi": "hãy giúp bé phát triển các cơ mắt bằng cách chậm rãi đưa đầu bạn tới lui,",
+      "s": 22.89
+    },
+    {
+      "e": 31.04,
+      "en": "or bringing objects close to him, then moving them away again.",
+      "vi": "hoặc đưa các đồ vật đến gần bé rối kế đó lại đưa ra xa",
+      "s": 27.67
+    },
+    {
+      "e": 35.74,
+      "en": "And at this point, your baby can even recognize your gestures and faces,",
+      "vi": "Lúc này, thậm chí bé có thể nhận biết điệu bộ và nét mặt của bạn",
+      "s": 31.04
+    },
+    {
+      "e": 38.35,
+      "en": "so play by raising your eyebrows or smiling.",
+      "vi": "thế nên hãy đùa giỡn với bé bằng cách nhướng mày hoặc cười.",
+      "s": 35.74
+    },
+    {
+      "e": 41.57,
+      "en": "Many one-week olds will even respond in kind.",
+      "vi": "Nhiều bé một tuần tuổi thậm chí còn đáp lại bằng cách bắt chước bạn.",
+      "s": 38.35
+    },
+    {
+      "e": 47.67,
+      "en": "Don't worry if your little one looks at you with crossed eyes-it's often a part of normal development.",
+      "vi": "Ðừng lo lắng nếu bé liếc mắt nhìn bạn, hiện tượng này thường là một phần của sự phát triển tự nhiên",
+      "s": 41.57
+    },
+    {
+      "e": 53.71,
+      "en": "Although your baby is busy learning, this second week of life will STILL center on sleeping and eating.",
+      "vi": "Dù tích cực học hỏi, nhưng ở tuần tuổi thứ hai bé VẪN CÒN tập trung vào việc ngủ và ăn.",
+      "s": 47.67
+    },
+    {
+      "e": 59.7,
+      "en": "If your infant is indeed eating enough, he'll pass frequent mustard-yellow or dark stools,",
+      "vi": "Nếu thật sự ăn đủ, bé sẽ đại tiện ra phân có màu vàng mù-tạt hoặc đen,",
+      "s": 53.71
+    },
+    {
+      "e": 62.7,
+      "en": "and will wet up to about 7 diapers daily.",
+      "vi": "và sẽ đái ướt tã mỗi ngày 7 lần.",
+      "s": 59.7
+    },
+    {
+      "e": 68.8,
+      "en": "All that eating will also insure that your baby gets back up to her birth weight-or beyond-this week.",
+      "vi": "Tất cả những thứ được ăn vào cũng sẽ giúp bé có được trọng lượng ngang bằng, hoặc hơn lúc mới sinh trong tuần này.",
+      "s": 62.7
+    },
+    {
+      "e": 72.88,
+      "en": "And while your newborn sleeps, you'll want to keep your baby on his or her back",
+      "vi": "Và trong khi bé ngủ, bạn nên giữ cho bé nằm ngửa",
+      "s": 68.8
+    },
+    {
+      "e": 76.54,
+      "en": "to help reduce the likelihood of sudden infant death syndrome, or SIDS.",
+      "vi": "để làm giảm nguy cơ xảy ra hội chứng đột tử trẻ em, hoặc SIDS.",
+      "s": 72.88
+    },
+    {
+      "e": 80.96,
+      "en": "When your baby's awake though, encourage your newborn to spend time on his tummy,",
+      "vi": "Dù vậy, khi bé thức, nên để bé nằm sấp khi chơi đùa,",
+      "s": 76.54
+    },
+    {
+      "e": 83.21,
+      "en": "which will help him learn to hold his head up.",
+      "vi": "điều này sẽ giúp bé tập ngẩng đầu.",
+      "s": 80.96
+    },
+    {
+      "e": 88.29,
+      "en": "What a week, huh? Stay tuned for all that's to come in your infant's third one!",
+      "vi": "Bé sẽ làm được gì trong một tuần chứ hả? Hãy chờ đợi những điều xảy ra trong tuần tuổi thứ 3 của bé.",
+      "s": 83.21
+    }
+  ]
+}

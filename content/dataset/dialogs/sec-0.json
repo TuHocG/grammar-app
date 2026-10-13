@@ -1,1 +1,1626 @@
-[{"id":1,"title":"Bài 1","pairs":[{"a":"What do you buy?","b":"A bar of Chocolate.","avi":"Bạn mua gì vậy?","bvi":"Một thanh sôcôla."},{"a":"What time have you left the office?","b":"An hour ago.","avi":"Bạn rời khỏi văn phòng lúc mấy giờ?","bvi":"Một giờ trước đây."},{"a":"I am on vacation tomorrow.","b":"Bless you!","avi":"Ngày mai tôi sẽ đi nghỉ mát.","bvi":"Chúc bạn may mắn!"},{"a":"Shall we go upstairs or down?","b":"Come upstairs.","avi":"Chúng ta lên lầu hay dưới nhà?","bvi":"Ði lên lầu."}]},{"id":2,"title":"Bài 2","pairs":[{"a":"Do you want this?","b":"Don't give me that!","avi":"Bạn muốn cái này phải không?","bvi":"Ðừng đưa tôi cái đó."},{"a":"Can I get there?","b":"Don't take any chances.","avi":"Tôi có thể đến đó không?","bvi":"Ðừng liều lĩnh."},{"a":"What would she just say?","b":"Enjoy your meal.","avi":"Cô ấy vừa nói gì thế?","bvi":"Chúc ngon miệng."},{"a":"What would you like to ask?","b":"For here or to go?","avi":"Bạn muốn hỏi gì?","bvi":"ở đây hay đi."}]},{"id":3,"title":"Bài 3","pairs":[{"a":"Is that cool?","b":"Good job!","avi":"Vậy được chưa?","bvi":"Làm tốt lắm."},{"a":"Can I take pictures here?","b":"Help yourself, please.","avi":"Tôi có thể chụp hình ở đây được không?","bvi":"Xin cứ tự nhiên."},{"a":"I haven't seen you all day.","b":"How are you recently?","avi":"Lâu quá không gặp.","bvi":"Dạo này bạn thế nào?"},{"a":"Speak loudly if you agree.","b":"I agree.","avi":"Hãy nói to lên nếu bạn đồng ý.","bvi":"Tôi đồng ý."}]},{"id":4,"title":"Bài 4","pairs":[{"a":"You have some tearing coughs.","b":"I couldn't help it.","avi":"Bạn có những cơn ho dữ dội.","bvi":"Tôi không thể chịu nổi nó."},{"a":"Can you ever forgive me?","b":"It all depends.","avi":"Bạn có thể tha thứ cho tôi không?","bvi":"Tất cả còn tùy."},{"a":"Let's go to the beach, shall we?","b":"It sounds great!","avi":"Chúng ta đi tắm biển nhé, được không?","bvi":"Nghe tuyệt lắm."},{"a":"What do you think about that story?","b":"It's a long story.","avi":"Bạn thấy câu chuyện đó thế nào?","bvi":"Nó là câu chuyện dài."}]},{"id":5,"title":"Bài 5","pairs":[{"a":"What do you think about smuggling?","b":"It's against the law.","avi":"Bạn nghĩ sao về việc buôn lậu?","bvi":"Nó chống lại luật pháp."},{"a":"Where is my money?","b":"It's in front of you!","avi":"Tiền của tôi đâu?","bvi":"Nó ở trước mặt bạn!"},{"a":"When will you graduate?","b":"It's only a matter of time.","avi":"Chừng nào bạn tốt nghiệp?","bvi":"Chỉ còn là vấn đề thời gian."},{"a":"This design is in style.","b":"It's very popular.","avi":"Thiết kế này đang là mốt đấy.","bvi":"Nó rất phổ biến."}]},{"id":6,"title":"Bài 6","pairs":[{"a":"I'm holding it.","b":"Keep it up!","avi":"Tôi đang cầm nó.","bvi":"Giữ chắc nó!"},{"a":"Where do you want me to go?","b":"Let's get to the point.","avi":"Bạn muốn tôi đi đến chỗ nào?","bvi":"Hãy đến vị trí đó."},{"a":"Is there anything important to do first?","b":"Make the bed.","avi":"Có điều gì quan trọng cần làm trước không?","bvi":"Dọn giường."},{"a":"Do you want me to tell her the truth?","b":"Maybe some other time.","avi":"Bạn muốn tôi nói cho cô ấy biết sự thật không?","bvi":"Có lẽ để lúc khác."}]},{"id":7,"title":"Bài 7","pairs":[{"a":"Will you go back there?","b":"No way!","avi":"Bạn sẽ trở lại đó chứ?","bvi":"Không đời nào!"},{"a":"I'll be there next week.","b":"So do I.","avi":"Tuần tới tôi sẽ đi đến đó.","bvi":"Tôi cũng vậy."},{"a":"I'm going to see him tomorrow.","b":"Take care!","avi":"Ngày mai tôi sẽ đi gặp hắn.","bvi":"Bảo trọng."},{"a":"Can I keep it for you?","b":"Thanks a million.","avi":"Tôi giữ hộ bạn cái này nhé?","bvi":"Cảm ơn vô vàn."}]},{"id":8,"title":"Bài 8","pairs":[{"a":"She is a liar.","b":"That's not true.","avi":"Cô ấy là kẻ nói dối.","bvi":"Ðiều đó không đúng."},{"a":"Can I be sure of a profit if I invest?","b":"The answer is zero.","avi":"Nếu tôi đầu tư, liệu tôi có thể chắc chắn có lời không?","bvi":"Câu trả lời là chẳng có gì cả."},{"a":"I almost passed the test.","b":"There's a possibility.","avi":"Tôi gần như đã thi đậu.","bvi":"Có thể lắm chứ."},{"a":"Why are you out of success?","b":"Two heads are better than one.","avi":"Vì sao bạn thất bại?","bvi":"Một cây làm chẳng nên non."}]},{"id":9,"title":"Bài 9","pairs":[{"a":"How about that job?","b":"What a good deal!","avi":"Công việc đó như thế nào?","bvi":"Gặp may rồi!"},{"a":"Is there anything else you would like to buy?","b":"A bar of soap.","avi":"Bạn cần mua gì nữa không?","bvi":"Một bánh xà phòng."},{"a":"For what date?","b":"Any day will do.","avi":"Vào ngày nào?","bvi":"Ngày nào cũng được."},{"a":"I'll use it tomorrow.","b":"Be careful!","avi":"Tôi sẽ sử dụng nó vào ngày mai.","bvi":"Cẩn thận đấy!"}]},{"id":10,"title":"Bài 10","pairs":[{"a":"What's often said at parties?","b":"Bottoms up!","avi":"Người ta thường nói gì trong buổi tiệc?","bvi":"Cạn ly!"},{"a":"What would you usually say when you congratulate someone?","b":"Congratulations!","avi":"Bạn thường nói gì để chúc mừng?","bvi":"Chúc mừng!"},{"a":"What would you usually say when you meet a foolish man?","b":"Don't be so childish.","avi":"Bạn thường nói gì với kẻ ngốc?","bvi":"Ðừng trẻ con như thế."},{"a":"What would you say to yourself if you fail?","b":"Don't give up.","avi":"Bạn thường tự nhủ điều gì khi gặp thất bại?","bvi":"Ðừng bỏ cuộc."}]},{"id":11,"title":"Bài 11","pairs":[{"a":"What's often said to warn someone?","b":"Don't take it for granted.","avi":"Người ta thường nói gì để cảnh báo?","bvi":"Ðừng xem thường nó."},{"a":"Can I get one?","b":"Enjoy yourself.","avi":"Tôi có thể lấy một cái không?","bvi":"Cứ tự nhiên nhé."},{"a":"The kid is knocking on the door.","b":"Forget it!","avi":"Ðứa bé đang đòi ra.","bvi":"Quên nó đi!"},{"a":"I bought a lottery ticket to try my luck.","b":"Good luck!","avi":"Tôi mua vé số để thử vận may.","bvi":"Chúc may mắn!"}]},{"id":12,"title":"Bài 12","pairs":[{"a":"Mind if I eat?","b":"Help yourself.","avi":"Tôi ăn được không?","bvi":"Tự nhiên nhé."},{"a":"Can he have a word with you?","b":"I decline!","avi":"Anh ấy có thể nói chuyện với bạn một chút không?","bvi":"Tôi từ chối!"},{"a":"It's no trouble at all.","b":"I enjoyed it very much.","avi":"Chẳng có gì phiền đâu.","bvi":"Tôi rất thích nó."},{"a":"Would you like to go to the library with me?","b":"It takes time.","avi":"Bạn muốn đến thư viện với tôi không?","bvi":"Mất thời gian lắm."}]},{"id":13,"title":"Bài 13","pairs":[{"a":"Would you like to talk about that book?","b":"It's out of the question.","avi":"Bạn muốn bàn đến quyển sách đó không?","bvi":"Lạc đề rồi."},{"a":"What do you think about computer?","b":"It's very smart.","avi":"Bạn thấy máy tính thế nào?","bvi":"Giỏi lắm."},{"a":"How long should I stay?","b":"Make up your mind.","avi":"Tôi nên ở lại bao lâu?","bvi":"Hãy tự quyết định."},{"a":"I feel hot.","b":"Me too.","avi":"Tôi cảm thấy nóng bức nực nội.","bvi":"Tôi cũng vậy."}]},{"id":14,"title":"Bài 14","pairs":[{"a":"How do you feel about it?","b":"Not bad.","avi":"Bạn thấy nó thế nào?","bvi":"Cũng được."},{"a":"Everyone's picking on me","b":"Perhaps it is.","avi":"Mọi người đang nói xấu tôi đấy à.","bvi":"Có lẽ là như vậy."},{"a":"Can I pass this exam?","b":"Probably.","avi":"Tôi có thể vượt qua kỳ thi này không?","bvi":"Cũng có thể."},{"a":"It will surely fall.","b":"So far, so good.","avi":"Nó chắc chắn sẽ thất bại.","bvi":"Cho đến lúc này, mọi việc vẫn tốt."}]},{"id":15,"title":"Bài 15","pairs":[{"a":"But I feel very nervous about it.","b":"Take it easy.","avi":"Nhưng tôi thấy căng thẳng về nó.","bvi":"Hãy thư giãn."},{"a":"Let's open the window and air the room.","b":"That sounds like a good idea.","avi":"Hãy mở cửa sổ và làm thoáng phòng.","bvi":"Nghe hay đấy."},{"a":"There is no extra charge.","b":"That's fair.","avi":"Không phải trả thêm gì nữa.","bvi":"Ðó là sự công bằng."},{"a":"You think I could just come back later?","b":"That's okay.","avi":"Cô nghĩ tôi quay lại trả sau được chứ?","bvi":"Ðược rồi."}]},{"id":16,"title":"Bài 16","pairs":[{"a":"Can I borrow your pencil?","b":"What a nuisance!","avi":"Tôi có thể mượn cây bút chì của bạn không?","bvi":"Phiền phức quá!"},{"a":"Can I take this one?","b":"You're welcome.","avi":"Tôi có thể lấy cái này được không?","bvi":"Không có chi."},{"a":"What must I take with me?","b":"A bottle of milk.","avi":"Tôi phải mang theo cái gì?","bvi":"Một chai sữa."},{"a":"I want to go with him.","b":"But that's impossible.","avi":"Tôi muốn đi với hắn ta.","bvi":"Nhưng điều đó là không thể."}]},{"id":17,"title":"Bài 17","pairs":[{"a":"What must I do so that you can forgive me?","b":"Control yourself.","avi":"Tôi phải làm gì để được em tha thứ?","bvi":"Hãy tự kìm chế."},{"a":"I'm just an incapable man.","b":"Don't be so modest.","avi":"Tôi chỉ là một kẻ bất tài.","bvi":"Ðừng khiêm tốn quá."},{"a":"He's just an incapable man.","b":"Don't jump to conclusions.","avi":"Anh ấy chỉ là kẻ bất tài.","bvi":"Ðừng vội kết luận."},{"a":"Do you want to speak to her?","b":"Don't talk in the library!","avi":"Anh có muốn nói chuyện với cô ấy không?","bvi":"Ðừng nói chuyện trong thư viện."}]},{"id":18,"title":"Bài 18","pairs":[{"a":"Did you steal my money?","b":"Forgive me.","avi":"Bạn đã ăn cắp tiền của tôi phải không?","bvi":"Tha thứ cho tôi."},{"a":"What's often said to greet in the morning?","b":"Good morning.","avi":"Người ta thường chào hỏi vào buổi sáng như thế nào?","bvi":"Chào buổi sáng."},{"a":"I am on vacation next week.","b":"Have fun!","avi":"Tuần tới, tôi sẽ đi nghỉ mát.","bvi":"Vui vẻ nhé!"},{"a":"I should fire him.","b":"It certainly is.","avi":"Có lẽ tôi nên sa thải anh ta.","bvi":"Chắc chắn là như vậy."}]},{"id":19,"title":"Bài 19","pairs":[{"a":"We were all to attack at once.","b":"It's awesome.","avi":"Cả bọn phải tấn công cùng một lúc.","bvi":"Ghê quá."},{"a":"What's her status?","b":"It's very urgent.","avi":"Tình trạng cô ấy thế nào?","bvi":"Khẩn cấp lắm."},{"a":"Are you in a hurry?","b":"Move out of my way!","avi":"Bạn đang vội à?","bvi":"Tránh ra!"},{"a":"I'll come back tomorrow then.","b":"Not too bad.","avi":"Ngày mai tôi sẽ quay lại nhé.","bvi":"Cũng được."}]},{"id":20,"title":"Bài 20","pairs":[{"a":"Wait for me two hours.","b":"So long.","avi":"Ðợi tôi 2 tiếng đồng hồ nhé.","bvi":"Lâu thế."},{"a":"What are you thinking about?","b":"Take it or leave it.","avi":"Bạn đang suy nghĩ điều gì vậy?","bvi":"Lấy hay bỏ."},{"a":"Do you usually go to church every Sunday?","b":"That's for sure.","avi":"Bạn thường đi lễ mỗi Chúa nhật phải không?","bvi":"Chắc chắn rồi."},{"a":"I dreamed about winning the lottery last night.","b":"That's ridiculous.","avi":"Ðêm qua tôi mơ thấy mình trúng số.","bvi":"Thật nực cười."}]},{"id":21,"title":"Bài 21","pairs":[{"a":"Winning the lottery is a windfall.","b":"Watch out!","avi":"Trúng số là một vận may bất ngờ.","bvi":"Coi chừng!"},{"a":"I slipped and fell downstairs.","b":"What a pity!","avi":"Tôi té cầu thang.","bvi":"Thật đáng tiếc!"},{"a":"What would you like to buy?","b":"A loaf of bread.","avi":"Bạn cần mua gì?","bvi":"Một ổ bánh mì."},{"a":"I want to buy a can of milk.","b":"Any thing else?","avi":"Tôi cần mua một hộp sữa.","bvi":"Còn gì khác không?"}]},{"id":22,"title":"Bài 22","pairs":[{"a":"Let me finish.","b":"Be quiet!","avi":"Ðể tôi nói hết.","bvi":"Yên lặng đi!"},{"a":"How much money do you have?","b":"It isn't much.","avi":"Bạn có bao nhiêu tiền?","bvi":"Không nhiều lắm."},{"a":"The house is going to tumble down","b":"It's awful.","avi":"Căn nhà sắp đổ sụp","bvi":"Thật khủng khiếp."},{"a":"How about the text?","b":"It's terribly dry.","avi":"Bạn thấy đoạn văn đó thế nào?","bvi":"Cộc lốc quá."}]},{"id":23,"title":"Bài 23","pairs":[{"a":"Crowd just looked on as the old lady was mugged","b":"My God!","avi":"Ðám đông chỉ trố mắt nhìn bà lão bị cướp.","bvi":"Trời ơi!"},{"a":"Let me clean up the toilet.","b":"Never mind.","avi":"Ðể tôi làm sạch nhà vệ sinh nhé.","bvi":"Ðừng bận tâm."},{"a":"Have you had breakfast, yet?","b":"Not yet.","avi":"Bạn đã ăn sáng chưa?","bvi":"Chưa."},{"a":"He is 13 years old and smarter than all of us.","b":"That is quick!","avi":"Nó mới 13 tuổi mà đã thông minh hơn chúng tôi rồi.","bvi":"Nhanh lắm đó!"}]},{"id":24,"title":"Bài 24","pairs":[{"a":"Is there any water in the bottle?","b":"The bottle is empty.","avi":"Còn chút nước nào trong chai không?","bvi":"Cái chai trống rỗng."},{"a":"Why are you keeping your voice down?","b":"The wall has ears.","avi":"Vì sao bạn nói nhỏ thế?","bvi":"Tai vách mạch rừng."},{"a":"Where's the toilet?","b":"This way.","avi":"Nhà vệ sinh ở đâu?","bvi":"Lối này."},{"a":"What would you like to eat with bread?","b":"A piece of cheese.","avi":"Bạn dùng gì với bánh mì?","bvi":"Một miếng phô mai."}]},{"id":25,"title":"Bài 25","pairs":[{"a":"She would leave that very night.","b":"Are you sure?","avi":"Khuya nay cô ấy sẽ bỏ đi.","bvi":"Anh có chắc không?"},{"a":"So what's my contract exactly?","b":"Clean the windows.","avi":"Vậy nhiệm vụ của tôi chính xác là gì?","bvi":"Lau cửa sổ đi."},{"a":"Could I turn the music up, please?","b":"Don't bother.","avi":"Tôi có thể vặn lớn nhạc không?","bvi":"Ðừng làm phiền."},{"a":"I would pay you that money back.","b":"Don't let me down.","avi":"Tôi sẽ trả lại cho bạn số tiền đó.","bvi":"Ðừng làm tôi thất vọng."}]},{"id":26,"title":"Bài 26","pairs":[{"a":"I'm not sure whether I have locked the door.","b":"Don't worry about it.","avi":"Tôi không chắc tôi đã khóa cửa chưa.","bvi":"Ðừng lo lắng về nó."},{"a":"What's that noise?","b":"Everything's very quiet.","avi":"Tiếng gì thế nhỉ?","bvi":"Mọi thứ rất yên tĩnh."},{"a":"How many pounds of coffee do you want?","b":"Half a kilo of coffee.","avi":"Bạn cần bao nhiêu cân cà phê?","bvi":"Nửa kí cà phê."},{"a":"You are in my way.","b":"I apologize.","avi":"Bạn đang cản đường tôi.","bvi":"Tôi xin lỗi."}]},{"id":27,"title":"Bài 27","pairs":[{"a":"Every child knows that two and two make four.","b":"Is it true or false?","avi":"Bọn trẻ con đều biết 2 cộng 2 bằng 4.","bvi":"Nó đúng hay sai?"},{"a":"I'd rather die than go back to work at that place!","b":"It doesn't make any difference.","avi":"Tôi thà chết còn hơn trở lại làm việc ở đó!","bvi":"Nó chẳng khác gì cả."},{"a":"You are too late again.","b":"It won't happen again.","avi":"Bạn lại đi trễ nữa rồi.","bvi":"Nó sẽ không xảy ra nữa."},{"a":"How long have you been here?","b":"It's been along time.","avi":"Bạn ở đây bao lâu rồi?","bvi":"Ðã lâu lắm rồi."}]},{"id":28,"title":"Bài 28","pairs":[{"a":"Why do you buy the ticket?","b":"It's my pleasure.","avi":"Vì sao bạn mua vé số?","bvi":"Nó là niềm vui của tôi."},{"a":"Do you want me to put it away?","b":"Just let it be.","avi":"Bạn muốn tôi cất nó đi không?","bvi":"Cứ để nó như thế."},{"a":"Is this beneficial to both parties?","b":"Kill two birds with one stone.","avi":"Việc này có lợi cho cả hai không?","bvi":"Một công đôi việc."},{"a":"I think I'm good there. right?","b":"That couldn't be better.","avi":"Tôi nghĩ tôi làm tốt đấy chứ nhỉ?","bvi":"Không thể tốt hơn nữa."}]},{"id":29,"title":"Bài 29","pairs":[{"a":"I almost achieved success.","b":"That is very nice.","avi":"Tôi gần đạt được thành công rồi.","bvi":"Tốt lắm."},{"a":"Would you like to know it better?","b":"That's good to know.","avi":"Bạn muốn biết rõ nó không?","bvi":"Ðiều này hay quá."},{"a":"But no one knows what time itself is","b":"Time is money.","avi":"Nhưng không ai biết thời gian là gì.","bvi":"Thời giờ là tiền bạc."},{"a":"Do you hear what has been happening?","b":"What's up?","avi":"Bạn nghe chuyện gì chưa?","bvi":"Chuyện gì vậy?"}]},{"id":30,"title":"Bài 30","pairs":[{"a":"Passengers are not allowed to smoke.","b":"Why not?","avi":"Hành khách không được phép hút thuốc.","bvi":"Tại sao không?"},{"a":"How much suger would you like?","b":"A kilo of sugar.","avi":"Bạn mua bao nhiêu đường?","bvi":"Một kí đường."},{"a":"You are indeed a beauty.","b":"Clothes make the man.","avi":"Quả thật bạn là người đẹp.","bvi":"Người đẹp vì lụa."},{"a":"I think I'm going to explode.","b":"Don't lose your head.","avi":"Tôi sắp nổi điên đây.","bvi":"Ðừng mất bình tĩnh."}]},{"id":31,"title":"Bài 31","pairs":[{"a":"Do you know about Tom getting arrested?","b":"Don't worry.","avi":"Bạn có biết việc Tom bị bắt không?","bvi":"Ðừng lo lắng."},{"a":"Why on earth would I do that?","b":"Excuse me!","avi":"Vì cái lý gì mà tôi phải làm vậy?","bvi":"Xin lỗi!"},{"a":"Haven't seen you for ages","b":"How is it going?","avi":"Lâu lắm mới gặp bạn.","bvi":"Dạo này thế nào?"},{"a":"I think they're nuts.","b":"I think so.","avi":"Tôi nghĩ họ là những người dở hơi.","bvi":"Tôi cũng nghĩ vậy."}]},{"id":32,"title":"Bài 32","pairs":[{"a":"Are you kidding me?","b":"It's a piece of cake.","avi":"Bạn đang đùa giỡn tôi đấy à?","bvi":"Chuyện nhỏ mà."},{"a":"Don't carry too many things.","b":"It's better than nothing.","avi":"Ðừng mang quá nhiều đồ.","bvi":"Có còn hơn không."},{"a":"Not for long.","b":"It's nearly ready.","avi":"Không còn lâu đâu.","bvi":"Sắp xong rồi."},{"a":"Why do you study abroad?","b":"Knowledge is power.","avi":"Bạn đi du học để làm gì?","bvi":"Kiến thức là sức mạnh."}]},{"id":33,"title":"Bài 33","pairs":[{"a":"Do you have the money with you?","b":"Let me see.","avi":"Bạn có đem theo tiền không?","bvi":"Ðể tôi xem."},{"a":"What should we do?","b":"Let's make up.","avi":"Chúng ta phải làm gì đây?","bvi":"Hãy chuẩn bị."},{"a":"But hurry up!","b":"Take your time.","avi":"Nhưng phải nhanh lên nhé!","bvi":"Cứ từ từ."},{"a":"Do you get angry easily?","b":"That depends.","avi":"Bạn có hay nổi nóng không?","bvi":"Còn tùy."}]},{"id":34,"title":"Bài 34","pairs":[{"a":"I think I'll buy both of them.","b":"That's a good idea.","avi":"Tôi nghĩ tôi sẽ mua cả hai.","bvi":"ý hay đấy."},{"a":"I guess I'd better be running along","b":"That's the way it is.","avi":"Chắc tôi phải tranh thủ thời gian.","bvi":"Phải như thế thôi."},{"a":"Just wait a bit more.","b":"Time is running out.","avi":"Chờ thêm một chút nữa đi.","bvi":"Sắp hết giờ rồi."},{"a":"I don't believe your story.","b":"Believe it or not!","avi":"Tôi không tin chuyện của bạn.","bvi":"Tin hay không tin thì tùy!"}]},{"id":35,"title":"Bài 35","pairs":[{"a":"Hello, can I see him please?","b":"Hold on!","avi":"Alô, xin cho tôi gặp anh ấy nhé?","bvi":"Chờ một chút!"},{"a":"It's been a rough week.","b":"How's everything?","avi":"Tuần vừa rồi khá vất vả.","bvi":"Công việc thế nào?"},{"a":"You'll have to pay for that.","b":"It doesn't matter.","avi":"Bạn sẽ phải trả giá cho chuyện đó.","bvi":"Không thành vấn đề."},{"a":"Why not tell him to write again?","b":"It really takes time.","avi":"Sao anh không bảo anh ta viết lại bức thư ấy?","bvi":"Mất thời gian lắm."}]},{"id":36,"title":"Bài 36","pairs":[{"a":"Is the booking necessary?","b":"It's essential.","avi":"Có cần phải đặt vé không?","bvi":"Cần thiết lắm."},{"a":"I have finished it.","b":"Let go!","avi":"Tôi đã làm xong rồi!","bvi":"Nào đi thôi!"},{"a":"Don't forget to pay me back.","b":"Of course!","avi":"Ðừng quên trả lại tôi đấy nhé.","bvi":"Dĩ nhiên!"},{"a":"You can be kind to him and he'll take a stick to you.","b":"That's life.","avi":"Làm ơn mắc oán.","bvi":"Ðời là thế."}]},{"id":37,"title":"Bài 37","pairs":[{"a":"What time does it end?","b":"Time is up.","avi":"Mấy giờ thì kết thúc?","bvi":"Hết giờ rồi."},{"a":"The food is terrible.","b":"You get what you pay for.","avi":"Thức ăn tệ quá!","bvi":"Tiền nào của nấy."},{"a":"Do you have one in mind?","b":"We may go abroad.","avi":"Bạn cũng có dự định rồi ư?","bvi":"Có lẽ chúng tôi đi nước ngoài."},{"a":"So you mean he is lying.","b":"Count me on.","avi":"Vậy ý bạn là anh ấy đang nói dối.","bvi":"Tin tôi đi."}]},{"id":38,"title":"Bài 38","pairs":[{"a":"Shall I wash the glass?","b":"Don't drop it!","avi":"Ðể tôi rửa cái ly này nhé?","bvi":"Ðừng làm rơi nó!"},{"a":"Will they give him the job?","b":"Don't mention it.","avi":"Họ sẽ cho anh ấy một công việc chứ?","bvi":"Ðừng bận tâm."},{"a":"I'm going to be President.","b":"Easier said than done.","avi":"Tôi sẽ trở thành tổng thống.","bvi":"Nói dễ hơn làm."},{"a":"I run out of money.","b":"Hold your horses.","avi":"Tôi đã xài hết tiền.","bvi":"Phải tự kìm chế chứ."}]},{"id":39,"title":"Bài 39","pairs":[{"a":"For long, I haven't met her.","b":"How's it going?","avi":"Ðã lâu, tôi không gặp cô ấy.","bvi":"Dạo này thế nào?"},{"a":"You're sure you don't need anything else.","b":"I assure you.","avi":"Anh có chắc là không cần gì khác nữa không.","bvi":"Tôi cam đoan với anh."},{"a":"How could it be so big?","b":"I can't believe it.","avi":"Sao nó lớn quá nhỉ?","bvi":"Tôi không thể tin nổi."},{"a":"I'll give you a pasting.","b":"Just wait and see!","avi":"Tao sẽ nện cho mày một trận.","bvi":"Hãy chờ xem!"}]},{"id":40,"title":"Bài 40","pairs":[{"a":"Do we have any classes together?","b":"Long time no see!","avi":"Chúng ta có học cùng lớp nào không?","bvi":"Lâu quá không gặp!"},{"a":"Anybody recognize this knife?","b":"No one knows.","avi":"Có ai biết con dao này không?","bvi":"Không ai biết."},{"a":"I am looking forward to your visit next week","b":"See you.","avi":"Tôi sẽ đợi bạn ghé thăm vào tuần tới.","bvi":"Gặp sau nhé."},{"a":"Do you know I am on edge?","b":"Shut up!","avi":"Bạn có biết là tôi đang bực lắm không?","bvi":"Câm đi!"}]},{"id":41,"title":"Bài 41","pairs":[{"a":"Which way shall I go?","b":"Suit yourself.","avi":"Tôi phải đi đường nào?","bvi":"Tùy anh."},{"a":"You must control your temper.","b":"That's all right.","avi":"Bạn phải kìm chế cơn nóng giận.","bvi":"Ðược rồi."},{"a":"Does he want to rent a house?","b":"That's more like it.","avi":"Anh ấy muốn thuê một căn nhà phải không?","bvi":"Hình như là vậy."},{"a":"So what time are we arrange to meet?","b":"The sooner, the better.","avi":"Vậy chúng ta hẹn gặp nhau lúc mấy giờ?","bvi":"Càng sớm càng tốt."}]},{"id":42,"title":"Bài 42","pairs":[{"a":"I must come home at one o'clock.","b":"To be careful!","avi":"Tôi phải về nhà lúc 1 giờ.","bvi":"Hãy cẩn thận!"},{"a":"Are you going to start a family?","b":"Well, it depends.","avi":"Bạn có định lập gia đình không?","bvi":"À điều này còn tùy."},{"a":"Have you got a job?","b":"What about you?","avi":"Bạn vừa xin được việc làm phải không?","bvi":"Còn anh thì sao?"},{"a":"Shall I get in touch with you by phone?","b":"As soon as possible!","avi":"Tôi sẽ liên lạc với bạn bằng điện thoại nhé?","bvi":"Càng sớm càng tốt!"}]},{"id":43,"title":"Bài 43","pairs":[{"a":"Computers are so cool!","b":"Don't fall for it.","avi":"Máy tính rất tuyệt mà!","bvi":"Ðừng quá ham mê nó."},{"a":"She seems to be fall in love with me.","b":"Don't miss the boat.","avi":"Hình như cô ấy yêu tôi.","bvi":"Ðừng bỏ lỡ cơ hội."},{"a":"Travel has become very easy.","b":"Easy come easy go.","avi":"Du lịch đã trở nên quá dễ dàng.","bvi":"Dễ đến thì dễ đi."},{"a":"Are you sure you can help her?","b":"I promise.","avi":"Bạn có chắc là bạn giúp cô ấy không?","bvi":"Tôi xin hứa."}]},{"id":44,"title":"Bài 44","pairs":[{"a":"Would you like to borrow my bicycle?","b":"Is that okay?","avi":"Bạn có muốn mượn xe đạp của tôi không?","bvi":"Ðược không?"},{"a":"Is the motorcycle in the good condition?","b":"It doesn't work.","avi":"Chiếc xe máy còn tốt không?","bvi":"Nó không hoạt động."},{"a":"I'm going fishing with Nam.","b":"It's a waste of time.","avi":"Tôi sẽ đi câu cá với Nam.","bvi":"Thật phí thời gian."},{"a":"Do you think a cap will suit me?","b":"It's hard to say.","avi":"Bạn thấy tôi đội mũ lưỡi trai có hợp không?","bvi":"Thật khó nói."}]},{"id":45,"title":"Bài 45","pairs":[{"a":"I'm sorry about that.","b":"It's not your fault.","avi":"Tôi xin lỗi về việc đó.","bvi":"Nó không phải là lỗi của bạn."},{"a":"That car is out of repair.","b":"It's out of date.","avi":"Xe đó không còn dùng được nữa.","bvi":"Hết hạn rồi."},{"a":"You will get a good raise at the weekend.","b":"Just wonderful!","avi":"Cuối tuần này bạn sẽ được tăng lương.","bvi":"Tuyệt quá!"},{"a":"I'll mortgage my house in order to start a business.","b":"Look before you leap.","avi":"Tôi sẽ thế chấp nhà, vay vốn ngân hàng để làm ăn.","bvi":"Phải nghĩ kỹ trước khi làm."}]},{"id":46,"title":"Bài 46","pairs":[{"a":"What do you do if you happen to fail?","b":"No pain, no gain.","avi":"Bạn sẽ làm gì nếu gặp thất bại?","bvi":"Thất bại là mẹ thành công."},{"a":"Fine, anything else?","b":"That's all!","avi":"Ðược, còn gì nữa không?","bvi":"Thế thôi!"},{"a":"Am I dressed okay for a wedding?","b":"That's neat.","avi":"Tôi mặc thế này có đi đám cưới được không?","bvi":"Gọn gàng rồi."},{"a":"Can we go now?","b":"That's very late.","avi":"Chúng ta đi được chưa?","bvi":"Trễ quá rồi."}]},{"id":47,"title":"Bài 47","pairs":[{"a":"He's a thief.","b":"There is no doubt about it.","avi":"Hắn là kẻ trộm.","bvi":"Không nghi ngờ gì nữa."},{"a":"I'll put him in the hospital tomorrow morning.","b":"Tomorrow never comes.","avi":"Tôi sẽ đưa anh ta nhập viện vào sáng mai.","bvi":"Ðừng trông mong vào ngày mai."},{"a":"I cannot take your advice.","b":"You have my word.","avi":"Tôi không thể nghe lời khuyên của bạn.","bvi":"Cứ tin lời tôi."},{"a":"Because you're thinking too much.","b":"Better safe than sorry.","avi":"Bởi vì bạn suy nghĩ quá nhiều.","bvi":"Cẩn tắc vô ưu."}]},{"id":48,"title":"Bài 48","pairs":[{"a":"I can't stand it.","b":"Come on.","avi":"Tôi không thể chịu nổi nó.","bvi":"Thôi nào."},{"a":"Can you get us in there?","b":"Don't move!","avi":"Ông có thể cho bọn tôi vào trong đó không?","bvi":"Ðứng yên!"},{"a":"It's not in there.","b":"I doubt it.","avi":"Nó không có ở đó.","bvi":"Tôi nghi ngờ nó."},{"a":"What time will it land?","b":"It's about time.","avi":"Nó hạ cánh lúc mấy giờ?","bvi":"Sắp đến lúc rồi."}]},{"id":49,"title":"Bài 49","pairs":[{"a":"How many cakes are there in the box?","b":"It's nothing.","avi":"Có bao nhiêu cái bánh ở trong hộp?","bvi":"Chẳng có gì cả."},{"a":"I'm away on business.","b":"Keep in touch.","avi":"Tôi sẽ đi công tác xa.","bvi":"Giữ liên lạc nhé."},{"a":"At the touch of love everyone becomes a poet.","b":"Love me, love my dog.","avi":"Khi yêu thì ai cũng trở thành thi sĩ.","bvi":"Yêu ai yêu cả đường đi lối về."},{"a":"Who's going to look after the garden?","b":"My treat.","avi":"Ai sẽ chăm sóc khu vườn?","bvi":"Ðể tôi lo."}]},{"id":50,"title":"Bài 50","pairs":[{"a":"What's the matter with you?","b":"No problem!","avi":"Có chuyện gì với bạn thế?","bvi":"Không vấn đề gì!"},{"a":"I was already heal.","b":"Pain past is pleasure.","avi":"Tôi đã hoàn toàn khỏi bệnh.","bvi":"Sau cơn mưa trời lại sáng."},{"a":"Do I speak too fast for you?","b":"Slow down!","avi":"Tôi có nói nhanh quá không?","bvi":"Chậm lại!"},{"a":"Is the water too hot?","b":"I can't help it.","avi":"Nước có nóng quá không?","bvi":"Tôi không thể chịu nổi."}]},{"id":51,"title":"Bài 51","pairs":[{"a":"I will pay for the cost of the travel.","b":"Thank you very much.","avi":"Tôi sẽ trả phí tổn của chuyến đi.","bvi":"Cảm ơn bạn rất nhiều."},{"a":"I advise you to break it off with him.","b":"That reminds me.","avi":"Tôi khuyên anh nên cắt đứt quan hệ với hắn ta.","bvi":"Tôi sẽ lưu ý."},{"a":"I think she may be a fraud.","b":"That's disgusting.","avi":"Tôi nghĩ có lẽ cô ấy là kẻ lừa đảo.","bvi":"Thật ghê tởm."},{"a":"I'm too shy to speak English.","b":"That's not a problem.","avi":"Tôi nhát đến nỗi không nói được tiếng Anh.","bvi":"Không thành vấn đề."}]},{"id":52,"title":"Bài 52","pairs":[{"a":"Have you read the book yet?","b":"That's worthwhile.","avi":"Bạn đã đọc quyển sách đó chưa?","bvi":"Rất có giá trị."},{"a":"The engines aren't working.","b":"Try again.","avi":"Máy móc không hoạt động.","bvi":"Thử lại lần nữa."},{"a":"Do you all feel that way?","b":"What a coincidence!","avi":"Tất cả các bạn đều nghĩ như vậy sao?","bvi":"Thật trùng hợp!"},{"a":"Do you wear costume jewellery?","b":"All that glitters is not gold.","avi":"Bạn đeo nữ trang giả à?","bvi":"Chớ thấy sáng mà ngỡ là vàng."}]},{"id":53,"title":"Bài 53","pairs":[{"a":"What a lavish surprise party!","b":"It doesn't make sense.","avi":"Bữa tiệc thật là hoành tráng!","bvi":"Nó chẳng ấn tượng gì."},{"a":"Have I furnished it nicely?","b":"What a mess!","avi":"Tôi bày biện có khéo không?","bvi":"Thật bừa bộn."},{"a":"An ugly storm is brewing.","b":"A storm blew up.","avi":"Một trận bão lớn đang kéo đến.","bvi":"Bão đã nổi lên."},{"a":"I still remember that accident very clearly.","b":"Let bygones be bygones.","avi":"Tôi vẫn còn nhớ rõ tai nạn đó.","bvi":"Cái gì đã qua hãy để nó qua."}]},{"id":54,"title":"Bài 54","pairs":[{"a":"I count myself lucky to have a job.","b":"Opportunity knocks but once.","avi":"Tôi cho mình có việc làm là may mắn rồi.","bvi":"Cơ hội chỉ đến một lần."},{"a":"You heard about Lan today?","b":"The rumor had no basis.","avi":"Hôm nay ông nghe tin về Lan chưa?","bvi":"Tin đồn thất thiệt."},{"a":"I can't do without money.","b":"Money is not everything.","avi":"Tôi không thể làm gì cả nếu không có tiền.","bvi":"Tiền không phải là tất cả."},{"a":"Is it a good buy?","b":"Don't let chances pass by.","avi":"Nó là món hời phải không?","bvi":"Ðừng để cơ hội qua đi."}]},{"id":55,"title":"Bài 55","pairs":[{"a":"How bored I am.","b":"It's no use complaining.","avi":"Thật là chán.","bvi":"Than phiền chẳng ích lợi gì."},{"a":"Can I choose my seat?","b":"Make yourself at home.","avi":"Tôi có thể chọn chỗ ngồi không?","bvi":"Cứ tự nhiên như ở nhà."},{"a":"How do I recover my friends' affection?","b":"All for one, one for all.","avi":"Làm sao để tôi lấy lại được tình thương mến của bạn bè?","bvi":"Mọi người vì một người, một người vì mọi người."}]}]
+[
+  {
+    "id": 1,
+    "title": "Bài 1",
+    "pairs": [
+      {
+        "a": "What do you buy?",
+        "b": "A bar of Chocolate.",
+        "avi": "Bạn mua gì vậy?",
+        "bvi": "Một thanh sôcôla."
+      },
+      {
+        "a": "What time have you left the office?",
+        "b": "An hour ago.",
+        "avi": "Bạn rời khỏi văn phòng lúc mấy giờ?",
+        "bvi": "Một giờ trước đây."
+      },
+      {
+        "a": "I am on vacation tomorrow.",
+        "b": "Bless you!",
+        "avi": "Ngày mai tôi sẽ đi nghỉ mát.",
+        "bvi": "Chúc bạn may mắn!"
+      },
+      {
+        "a": "Shall we go upstairs or down?",
+        "b": "Come upstairs.",
+        "avi": "Chúng ta lên lầu hay dưới nhà?",
+        "bvi": "Ði lên lầu."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bài 2",
+    "pairs": [
+      {
+        "a": "Do you want this?",
+        "b": "Don't give me that!",
+        "avi": "Bạn muốn cái này phải không?",
+        "bvi": "Ðừng đưa tôi cái đó."
+      },
+      {
+        "a": "Can I get there?",
+        "b": "Don't take any chances.",
+        "avi": "Tôi có thể đến đó không?",
+        "bvi": "Ðừng liều lĩnh."
+      },
+      {
+        "a": "What would she just say?",
+        "b": "Enjoy your meal.",
+        "avi": "Cô ấy vừa nói gì thế?",
+        "bvi": "Chúc ngon miệng."
+      },
+      {
+        "a": "What would you like to ask?",
+        "b": "For here or to go?",
+        "avi": "Bạn muốn hỏi gì?",
+        "bvi": "ở đây hay đi."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Bài 3",
+    "pairs": [
+      {"a": "Is that cool?", "b": "Good job!", "avi": "Vậy được chưa?", "bvi": "Làm tốt lắm."},
+      {
+        "a": "Can I take pictures here?",
+        "b": "Help yourself, please.",
+        "avi": "Tôi có thể chụp hình ở đây được không?",
+        "bvi": "Xin cứ tự nhiên."
+      },
+      {
+        "a": "I haven't seen you all day.",
+        "b": "How are you recently?",
+        "avi": "Lâu quá không gặp.",
+        "bvi": "Dạo này bạn thế nào?"
+      },
+      {
+        "a": "Speak loudly if you agree.",
+        "b": "I agree.",
+        "avi": "Hãy nói to lên nếu bạn đồng ý.",
+        "bvi": "Tôi đồng ý."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bài 4",
+    "pairs": [
+      {
+        "a": "You have some tearing coughs.",
+        "b": "I couldn't help it.",
+        "avi": "Bạn có những cơn ho dữ dội.",
+        "bvi": "Tôi không thể chịu nổi nó."
+      },
+      {
+        "a": "Can you ever forgive me?",
+        "b": "It all depends.",
+        "avi": "Bạn có thể tha thứ cho tôi không?",
+        "bvi": "Tất cả còn tùy."
+      },
+      {
+        "a": "Let's go to the beach, shall we?",
+        "b": "It sounds great!",
+        "avi": "Chúng ta đi tắm biển nhé, được không?",
+        "bvi": "Nghe tuyệt lắm."
+      },
+      {
+        "a": "What do you think about that story?",
+        "b": "It's a long story.",
+        "avi": "Bạn thấy câu chuyện đó thế nào?",
+        "bvi": "Nó là câu chuyện dài."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Bài 5",
+    "pairs": [
+      {
+        "a": "What do you think about smuggling?",
+        "b": "It's against the law.",
+        "avi": "Bạn nghĩ sao về việc buôn lậu?",
+        "bvi": "Nó chống lại luật pháp."
+      },
+      {
+        "a": "Where is my money?",
+        "b": "It's in front of you!",
+        "avi": "Tiền của tôi đâu?",
+        "bvi": "Nó ở trước mặt bạn!"
+      },
+      {
+        "a": "When will you graduate?",
+        "b": "It's only a matter of time.",
+        "avi": "Chừng nào bạn tốt nghiệp?",
+        "bvi": "Chỉ còn là vấn đề thời gian."
+      },
+      {
+        "a": "This design is in style.",
+        "b": "It's very popular.",
+        "avi": "Thiết kế này đang là mốt đấy.",
+        "bvi": "Nó rất phổ biến."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bài 6",
+    "pairs": [
+      {"a": "I'm holding it.", "b": "Keep it up!", "avi": "Tôi đang cầm nó.", "bvi": "Giữ chắc nó!"},
+      {
+        "a": "Where do you want me to go?",
+        "b": "Let's get to the point.",
+        "avi": "Bạn muốn tôi đi đến chỗ nào?",
+        "bvi": "Hãy đến vị trí đó."
+      },
+      {
+        "a": "Is there anything important to do first?",
+        "b": "Make the bed.",
+        "avi": "Có điều gì quan trọng cần làm trước không?",
+        "bvi": "Dọn giường."
+      },
+      {
+        "a": "Do you want me to tell her the truth?",
+        "b": "Maybe some other time.",
+        "avi": "Bạn muốn tôi nói cho cô ấy biết sự thật không?",
+        "bvi": "Có lẽ để lúc khác."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bài 7",
+    "pairs": [
+      {
+        "a": "Will you go back there?",
+        "b": "No way!",
+        "avi": "Bạn sẽ trở lại đó chứ?",
+        "bvi": "Không đời nào!"
+      },
+      {
+        "a": "I'll be there next week.",
+        "b": "So do I.",
+        "avi": "Tuần tới tôi sẽ đi đến đó.",
+        "bvi": "Tôi cũng vậy."
+      },
+      {
+        "a": "I'm going to see him tomorrow.",
+        "b": "Take care!",
+        "avi": "Ngày mai tôi sẽ đi gặp hắn.",
+        "bvi": "Bảo trọng."
+      },
+      {
+        "a": "Can I keep it for you?",
+        "b": "Thanks a million.",
+        "avi": "Tôi giữ hộ bạn cái này nhé?",
+        "bvi": "Cảm ơn vô vàn."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Bài 8",
+    "pairs": [
+      {
+        "a": "She is a liar.",
+        "b": "That's not true.",
+        "avi": "Cô ấy là kẻ nói dối.",
+        "bvi": "Ðiều đó không đúng."
+      },
+      {
+        "a": "Can I be sure of a profit if I invest?",
+        "b": "The answer is zero.",
+        "avi": "Nếu tôi đầu tư, liệu tôi có thể chắc chắn có lời không?",
+        "bvi": "Câu trả lời là chẳng có gì cả."
+      },
+      {
+        "a": "I almost passed the test.",
+        "b": "There's a possibility.",
+        "avi": "Tôi gần như đã thi đậu.",
+        "bvi": "Có thể lắm chứ."
+      },
+      {
+        "a": "Why are you out of success?",
+        "b": "Two heads are better than one.",
+        "avi": "Vì sao bạn thất bại?",
+        "bvi": "Một cây làm chẳng nên non."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Bài 9",
+    "pairs": [
+      {
+        "a": "How about that job?",
+        "b": "What a good deal!",
+        "avi": "Công việc đó như thế nào?",
+        "bvi": "Gặp may rồi!"
+      },
+      {
+        "a": "Is there anything else you would like to buy?",
+        "b": "A bar of soap.",
+        "avi": "Bạn cần mua gì nữa không?",
+        "bvi": "Một bánh xà phòng."
+      },
+      {
+        "a": "For what date?",
+        "b": "Any day will do.",
+        "avi": "Vào ngày nào?",
+        "bvi": "Ngày nào cũng được."
+      },
+      {
+        "a": "I'll use it tomorrow.",
+        "b": "Be careful!",
+        "avi": "Tôi sẽ sử dụng nó vào ngày mai.",
+        "bvi": "Cẩn thận đấy!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Bài 10",
+    "pairs": [
+      {
+        "a": "What's often said at parties?",
+        "b": "Bottoms up!",
+        "avi": "Người ta thường nói gì trong buổi tiệc?",
+        "bvi": "Cạn ly!"
+      },
+      {
+        "a": "What would you usually say when you congratulate someone?",
+        "b": "Congratulations!",
+        "avi": "Bạn thường nói gì để chúc mừng?",
+        "bvi": "Chúc mừng!"
+      },
+      {
+        "a": "What would you usually say when you meet a foolish man?",
+        "b": "Don't be so childish.",
+        "avi": "Bạn thường nói gì với kẻ ngốc?",
+        "bvi": "Ðừng trẻ con như thế."
+      },
+      {
+        "a": "What would you say to yourself if you fail?",
+        "b": "Don't give up.",
+        "avi": "Bạn thường tự nhủ điều gì khi gặp thất bại?",
+        "bvi": "Ðừng bỏ cuộc."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Bài 11",
+    "pairs": [
+      {
+        "a": "What's often said to warn someone?",
+        "b": "Don't take it for granted.",
+        "avi": "Người ta thường nói gì để cảnh báo?",
+        "bvi": "Ðừng xem thường nó."
+      },
+      {
+        "a": "Can I get one?",
+        "b": "Enjoy yourself.",
+        "avi": "Tôi có thể lấy một cái không?",
+        "bvi": "Cứ tự nhiên nhé."
+      },
+      {
+        "a": "The kid is knocking on the door.",
+        "b": "Forget it!",
+        "avi": "Ðứa bé đang đòi ra.",
+        "bvi": "Quên nó đi!"
+      },
+      {
+        "a": "I bought a lottery ticket to try my luck.",
+        "b": "Good luck!",
+        "avi": "Tôi mua vé số để thử vận may.",
+        "bvi": "Chúc may mắn!"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Bài 12",
+    "pairs": [
+      {
+        "a": "Mind if I eat?",
+        "b": "Help yourself.",
+        "avi": "Tôi ăn được không?",
+        "bvi": "Tự nhiên nhé."
+      },
+      {
+        "a": "Can he have a word with you?",
+        "b": "I decline!",
+        "avi": "Anh ấy có thể nói chuyện với bạn một chút không?",
+        "bvi": "Tôi từ chối!"
+      },
+      {
+        "a": "It's no trouble at all.",
+        "b": "I enjoyed it very much.",
+        "avi": "Chẳng có gì phiền đâu.",
+        "bvi": "Tôi rất thích nó."
+      },
+      {
+        "a": "Would you like to go to the library with me?",
+        "b": "It takes time.",
+        "avi": "Bạn muốn đến thư viện với tôi không?",
+        "bvi": "Mất thời gian lắm."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Bài 13",
+    "pairs": [
+      {
+        "a": "Would you like to talk about that book?",
+        "b": "It's out of the question.",
+        "avi": "Bạn muốn bàn đến quyển sách đó không?",
+        "bvi": "Lạc đề rồi."
+      },
+      {
+        "a": "What do you think about computer?",
+        "b": "It's very smart.",
+        "avi": "Bạn thấy máy tính thế nào?",
+        "bvi": "Giỏi lắm."
+      },
+      {
+        "a": "How long should I stay?",
+        "b": "Make up your mind.",
+        "avi": "Tôi nên ở lại bao lâu?",
+        "bvi": "Hãy tự quyết định."
+      },
+      {
+        "a": "I feel hot.",
+        "b": "Me too.",
+        "avi": "Tôi cảm thấy nóng bức nực nội.",
+        "bvi": "Tôi cũng vậy."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Bài 14",
+    "pairs": [
+      {
+        "a": "How do you feel about it?",
+        "b": "Not bad.",
+        "avi": "Bạn thấy nó thế nào?",
+        "bvi": "Cũng được."
+      },
+      {
+        "a": "Everyone's picking on me",
+        "b": "Perhaps it is.",
+        "avi": "Mọi người đang nói xấu tôi đấy à.",
+        "bvi": "Có lẽ là như vậy."
+      },
+      {
+        "a": "Can I pass this exam?",
+        "b": "Probably.",
+        "avi": "Tôi có thể vượt qua kỳ thi này không?",
+        "bvi": "Cũng có thể."
+      },
+      {
+        "a": "It will surely fall.",
+        "b": "So far, so good.",
+        "avi": "Nó chắc chắn sẽ thất bại.",
+        "bvi": "Cho đến lúc này, mọi việc vẫn tốt."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Bài 15",
+    "pairs": [
+      {
+        "a": "But I feel very nervous about it.",
+        "b": "Take it easy.",
+        "avi": "Nhưng tôi thấy căng thẳng về nó.",
+        "bvi": "Hãy thư giãn."
+      },
+      {
+        "a": "Let's open the window and air the room.",
+        "b": "That sounds like a good idea.",
+        "avi": "Hãy mở cửa sổ và làm thoáng phòng.",
+        "bvi": "Nghe hay đấy."
+      },
+      {
+        "a": "There is no extra charge.",
+        "b": "That's fair.",
+        "avi": "Không phải trả thêm gì nữa.",
+        "bvi": "Ðó là sự công bằng."
+      },
+      {
+        "a": "You think I could just come back later?",
+        "b": "That's okay.",
+        "avi": "Cô nghĩ tôi quay lại trả sau được chứ?",
+        "bvi": "Ðược rồi."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Bài 16",
+    "pairs": [
+      {
+        "a": "Can I borrow your pencil?",
+        "b": "What a nuisance!",
+        "avi": "Tôi có thể mượn cây bút chì của bạn không?",
+        "bvi": "Phiền phức quá!"
+      },
+      {
+        "a": "Can I take this one?",
+        "b": "You're welcome.",
+        "avi": "Tôi có thể lấy cái này được không?",
+        "bvi": "Không có chi."
+      },
+      {
+        "a": "What must I take with me?",
+        "b": "A bottle of milk.",
+        "avi": "Tôi phải mang theo cái gì?",
+        "bvi": "Một chai sữa."
+      },
+      {
+        "a": "I want to go with him.",
+        "b": "But that's impossible.",
+        "avi": "Tôi muốn đi với hắn ta.",
+        "bvi": "Nhưng điều đó là không thể."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Bài 17",
+    "pairs": [
+      {
+        "a": "What must I do so that you can forgive me?",
+        "b": "Control yourself.",
+        "avi": "Tôi phải làm gì để được em tha thứ?",
+        "bvi": "Hãy tự kìm chế."
+      },
+      {
+        "a": "I'm just an incapable man.",
+        "b": "Don't be so modest.",
+        "avi": "Tôi chỉ là một kẻ bất tài.",
+        "bvi": "Ðừng khiêm tốn quá."
+      },
+      {
+        "a": "He's just an incapable man.",
+        "b": "Don't jump to conclusions.",
+        "avi": "Anh ấy chỉ là kẻ bất tài.",
+        "bvi": "Ðừng vội kết luận."
+      },
+      {
+        "a": "Do you want to speak to her?",
+        "b": "Don't talk in the library!",
+        "avi": "Anh có muốn nói chuyện với cô ấy không?",
+        "bvi": "Ðừng nói chuyện trong thư viện."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Bài 18",
+    "pairs": [
+      {
+        "a": "Did you steal my money?",
+        "b": "Forgive me.",
+        "avi": "Bạn đã ăn cắp tiền của tôi phải không?",
+        "bvi": "Tha thứ cho tôi."
+      },
+      {
+        "a": "What's often said to greet in the morning?",
+        "b": "Good morning.",
+        "avi": "Người ta thường chào hỏi vào buổi sáng như thế nào?",
+        "bvi": "Chào buổi sáng."
+      },
+      {
+        "a": "I am on vacation next week.",
+        "b": "Have fun!",
+        "avi": "Tuần tới, tôi sẽ đi nghỉ mát.",
+        "bvi": "Vui vẻ nhé!"
+      },
+      {
+        "a": "I should fire him.",
+        "b": "It certainly is.",
+        "avi": "Có lẽ tôi nên sa thải anh ta.",
+        "bvi": "Chắc chắn là như vậy."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Bài 19",
+    "pairs": [
+      {
+        "a": "We were all to attack at once.",
+        "b": "It's awesome.",
+        "avi": "Cả bọn phải tấn công cùng một lúc.",
+        "bvi": "Ghê quá."
+      },
+      {
+        "a": "What's her status?",
+        "b": "It's very urgent.",
+        "avi": "Tình trạng cô ấy thế nào?",
+        "bvi": "Khẩn cấp lắm."
+      },
+      {
+        "a": "Are you in a hurry?",
+        "b": "Move out of my way!",
+        "avi": "Bạn đang vội à?",
+        "bvi": "Tránh ra!"
+      },
+      {
+        "a": "I'll come back tomorrow then.",
+        "b": "Not too bad.",
+        "avi": "Ngày mai tôi sẽ quay lại nhé.",
+        "bvi": "Cũng được."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Bài 20",
+    "pairs": [
+      {
+        "a": "Wait for me two hours.",
+        "b": "So long.",
+        "avi": "Ðợi tôi 2 tiếng đồng hồ nhé.",
+        "bvi": "Lâu thế."
+      },
+      {
+        "a": "What are you thinking about?",
+        "b": "Take it or leave it.",
+        "avi": "Bạn đang suy nghĩ điều gì vậy?",
+        "bvi": "Lấy hay bỏ."
+      },
+      {
+        "a": "Do you usually go to church every Sunday?",
+        "b": "That's for sure.",
+        "avi": "Bạn thường đi lễ mỗi Chúa nhật phải không?",
+        "bvi": "Chắc chắn rồi."
+      },
+      {
+        "a": "I dreamed about winning the lottery last night.",
+        "b": "That's ridiculous.",
+        "avi": "Ðêm qua tôi mơ thấy mình trúng số.",
+        "bvi": "Thật nực cười."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Bài 21",
+    "pairs": [
+      {
+        "a": "Winning the lottery is a windfall.",
+        "b": "Watch out!",
+        "avi": "Trúng số là một vận may bất ngờ.",
+        "bvi": "Coi chừng!"
+      },
+      {
+        "a": "I slipped and fell downstairs.",
+        "b": "What a pity!",
+        "avi": "Tôi té cầu thang.",
+        "bvi": "Thật đáng tiếc!"
+      },
+      {
+        "a": "What would you like to buy?",
+        "b": "A loaf of bread.",
+        "avi": "Bạn cần mua gì?",
+        "bvi": "Một ổ bánh mì."
+      },
+      {
+        "a": "I want to buy a can of milk.",
+        "b": "Any thing else?",
+        "avi": "Tôi cần mua một hộp sữa.",
+        "bvi": "Còn gì khác không?"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Bài 22",
+    "pairs": [
+      {"a": "Let me finish.", "b": "Be quiet!", "avi": "Ðể tôi nói hết.", "bvi": "Yên lặng đi!"},
+      {
+        "a": "How much money do you have?",
+        "b": "It isn't much.",
+        "avi": "Bạn có bao nhiêu tiền?",
+        "bvi": "Không nhiều lắm."
+      },
+      {
+        "a": "The house is going to tumble down",
+        "b": "It's awful.",
+        "avi": "Căn nhà sắp đổ sụp",
+        "bvi": "Thật khủng khiếp."
+      },
+      {
+        "a": "How about the text?",
+        "b": "It's terribly dry.",
+        "avi": "Bạn thấy đoạn văn đó thế nào?",
+        "bvi": "Cộc lốc quá."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Bài 23",
+    "pairs": [
+      {
+        "a": "Crowd just looked on as the old lady was mugged",
+        "b": "My God!",
+        "avi": "Ðám đông chỉ trố mắt nhìn bà lão bị cướp.",
+        "bvi": "Trời ơi!"
+      },
+      {
+        "a": "Let me clean up the toilet.",
+        "b": "Never mind.",
+        "avi": "Ðể tôi làm sạch nhà vệ sinh nhé.",
+        "bvi": "Ðừng bận tâm."
+      },
+      {
+        "a": "Have you had breakfast, yet?",
+        "b": "Not yet.",
+        "avi": "Bạn đã ăn sáng chưa?",
+        "bvi": "Chưa."
+      },
+      {
+        "a": "He is 13 years old and smarter than all of us.",
+        "b": "That is quick!",
+        "avi": "Nó mới 13 tuổi mà đã thông minh hơn chúng tôi rồi.",
+        "bvi": "Nhanh lắm đó!"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Bài 24",
+    "pairs": [
+      {
+        "a": "Is there any water in the bottle?",
+        "b": "The bottle is empty.",
+        "avi": "Còn chút nước nào trong chai không?",
+        "bvi": "Cái chai trống rỗng."
+      },
+      {
+        "a": "Why are you keeping your voice down?",
+        "b": "The wall has ears.",
+        "avi": "Vì sao bạn nói nhỏ thế?",
+        "bvi": "Tai vách mạch rừng."
+      },
+      {"a": "Where's the toilet?", "b": "This way.", "avi": "Nhà vệ sinh ở đâu?", "bvi": "Lối này."},
+      {
+        "a": "What would you like to eat with bread?",
+        "b": "A piece of cheese.",
+        "avi": "Bạn dùng gì với bánh mì?",
+        "bvi": "Một miếng phô mai."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Bài 25",
+    "pairs": [
+      {
+        "a": "She would leave that very night.",
+        "b": "Are you sure?",
+        "avi": "Khuya nay cô ấy sẽ bỏ đi.",
+        "bvi": "Anh có chắc không?"
+      },
+      {
+        "a": "So what's my contract exactly?",
+        "b": "Clean the windows.",
+        "avi": "Vậy nhiệm vụ của tôi chính xác là gì?",
+        "bvi": "Lau cửa sổ đi."
+      },
+      {
+        "a": "Could I turn the music up, please?",
+        "b": "Don't bother.",
+        "avi": "Tôi có thể vặn lớn nhạc không?",
+        "bvi": "Ðừng làm phiền."
+      },
+      {
+        "a": "I would pay you that money back.",
+        "b": "Don't let me down.",
+        "avi": "Tôi sẽ trả lại cho bạn số tiền đó.",
+        "bvi": "Ðừng làm tôi thất vọng."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Bài 26",
+    "pairs": [
+      {
+        "a": "I'm not sure whether I have locked the door.",
+        "b": "Don't worry about it.",
+        "avi": "Tôi không chắc tôi đã khóa cửa chưa.",
+        "bvi": "Ðừng lo lắng về nó."
+      },
+      {
+        "a": "What's that noise?",
+        "b": "Everything's very quiet.",
+        "avi": "Tiếng gì thế nhỉ?",
+        "bvi": "Mọi thứ rất yên tĩnh."
+      },
+      {
+        "a": "How many pounds of coffee do you want?",
+        "b": "Half a kilo of coffee.",
+        "avi": "Bạn cần bao nhiêu cân cà phê?",
+        "bvi": "Nửa kí cà phê."
+      },
+      {
+        "a": "You are in my way.",
+        "b": "I apologize.",
+        "avi": "Bạn đang cản đường tôi.",
+        "bvi": "Tôi xin lỗi."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Bài 27",
+    "pairs": [
+      {
+        "a": "Every child knows that two and two make four.",
+        "b": "Is it true or false?",
+        "avi": "Bọn trẻ con đều biết 2 cộng 2 bằng 4.",
+        "bvi": "Nó đúng hay sai?"
+      },
+      {
+        "a": "I'd rather die than go back to work at that place!",
+        "b": "It doesn't make any difference.",
+        "avi": "Tôi thà chết còn hơn trở lại làm việc ở đó!",
+        "bvi": "Nó chẳng khác gì cả."
+      },
+      {
+        "a": "You are too late again.",
+        "b": "It won't happen again.",
+        "avi": "Bạn lại đi trễ nữa rồi.",
+        "bvi": "Nó sẽ không xảy ra nữa."
+      },
+      {
+        "a": "How long have you been here?",
+        "b": "It's been along time.",
+        "avi": "Bạn ở đây bao lâu rồi?",
+        "bvi": "Ðã lâu lắm rồi."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Bài 28",
+    "pairs": [
+      {
+        "a": "Why do you buy the ticket?",
+        "b": "It's my pleasure.",
+        "avi": "Vì sao bạn mua vé số?",
+        "bvi": "Nó là niềm vui của tôi."
+      },
+      {
+        "a": "Do you want me to put it away?",
+        "b": "Just let it be.",
+        "avi": "Bạn muốn tôi cất nó đi không?",
+        "bvi": "Cứ để nó như thế."
+      },
+      {
+        "a": "Is this beneficial to both parties?",
+        "b": "Kill two birds with one stone.",
+        "avi": "Việc này có lợi cho cả hai không?",
+        "bvi": "Một công đôi việc."
+      },
+      {
+        "a": "I think I'm good there. right?",
+        "b": "That couldn't be better.",
+        "avi": "Tôi nghĩ tôi làm tốt đấy chứ nhỉ?",
+        "bvi": "Không thể tốt hơn nữa."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Bài 29",
+    "pairs": [
+      {
+        "a": "I almost achieved success.",
+        "b": "That is very nice.",
+        "avi": "Tôi gần đạt được thành công rồi.",
+        "bvi": "Tốt lắm."
+      },
+      {
+        "a": "Would you like to know it better?",
+        "b": "That's good to know.",
+        "avi": "Bạn muốn biết rõ nó không?",
+        "bvi": "Ðiều này hay quá."
+      },
+      {
+        "a": "But no one knows what time itself is",
+        "b": "Time is money.",
+        "avi": "Nhưng không ai biết thời gian là gì.",
+        "bvi": "Thời giờ là tiền bạc."
+      },
+      {
+        "a": "Do you hear what has been happening?",
+        "b": "What's up?",
+        "avi": "Bạn nghe chuyện gì chưa?",
+        "bvi": "Chuyện gì vậy?"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Bài 30",
+    "pairs": [
+      {
+        "a": "Passengers are not allowed to smoke.",
+        "b": "Why not?",
+        "avi": "Hành khách không được phép hút thuốc.",
+        "bvi": "Tại sao không?"
+      },
+      {
+        "a": "How much suger would you like?",
+        "b": "A kilo of sugar.",
+        "avi": "Bạn mua bao nhiêu đường?",
+        "bvi": "Một kí đường."
+      },
+      {
+        "a": "You are indeed a beauty.",
+        "b": "Clothes make the man.",
+        "avi": "Quả thật bạn là người đẹp.",
+        "bvi": "Người đẹp vì lụa."
+      },
+      {
+        "a": "I think I'm going to explode.",
+        "b": "Don't lose your head.",
+        "avi": "Tôi sắp nổi điên đây.",
+        "bvi": "Ðừng mất bình tĩnh."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Bài 31",
+    "pairs": [
+      {
+        "a": "Do you know about Tom getting arrested?",
+        "b": "Don't worry.",
+        "avi": "Bạn có biết việc Tom bị bắt không?",
+        "bvi": "Ðừng lo lắng."
+      },
+      {
+        "a": "Why on earth would I do that?",
+        "b": "Excuse me!",
+        "avi": "Vì cái lý gì mà tôi phải làm vậy?",
+        "bvi": "Xin lỗi!"
+      },
+      {
+        "a": "Haven't seen you for ages",
+        "b": "How is it going?",
+        "avi": "Lâu lắm mới gặp bạn.",
+        "bvi": "Dạo này thế nào?"
+      },
+      {
+        "a": "I think they're nuts.",
+        "b": "I think so.",
+        "avi": "Tôi nghĩ họ là những người dở hơi.",
+        "bvi": "Tôi cũng nghĩ vậy."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Bài 32",
+    "pairs": [
+      {
+        "a": "Are you kidding me?",
+        "b": "It's a piece of cake.",
+        "avi": "Bạn đang đùa giỡn tôi đấy à?",
+        "bvi": "Chuyện nhỏ mà."
+      },
+      {
+        "a": "Don't carry too many things.",
+        "b": "It's better than nothing.",
+        "avi": "Ðừng mang quá nhiều đồ.",
+        "bvi": "Có còn hơn không."
+      },
+      {
+        "a": "Not for long.",
+        "b": "It's nearly ready.",
+        "avi": "Không còn lâu đâu.",
+        "bvi": "Sắp xong rồi."
+      },
+      {
+        "a": "Why do you study abroad?",
+        "b": "Knowledge is power.",
+        "avi": "Bạn đi du học để làm gì?",
+        "bvi": "Kiến thức là sức mạnh."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Bài 33",
+    "pairs": [
+      {
+        "a": "Do you have the money with you?",
+        "b": "Let me see.",
+        "avi": "Bạn có đem theo tiền không?",
+        "bvi": "Ðể tôi xem."
+      },
+      {
+        "a": "What should we do?",
+        "b": "Let's make up.",
+        "avi": "Chúng ta phải làm gì đây?",
+        "bvi": "Hãy chuẩn bị."
+      },
+      {
+        "a": "But hurry up!",
+        "b": "Take your time.",
+        "avi": "Nhưng phải nhanh lên nhé!",
+        "bvi": "Cứ từ từ."
+      },
+      {
+        "a": "Do you get angry easily?",
+        "b": "That depends.",
+        "avi": "Bạn có hay nổi nóng không?",
+        "bvi": "Còn tùy."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Bài 34",
+    "pairs": [
+      {
+        "a": "I think I'll buy both of them.",
+        "b": "That's a good idea.",
+        "avi": "Tôi nghĩ tôi sẽ mua cả hai.",
+        "bvi": "ý hay đấy."
+      },
+      {
+        "a": "I guess I'd better be running along",
+        "b": "That's the way it is.",
+        "avi": "Chắc tôi phải tranh thủ thời gian.",
+        "bvi": "Phải như thế thôi."
+      },
+      {
+        "a": "Just wait a bit more.",
+        "b": "Time is running out.",
+        "avi": "Chờ thêm một chút nữa đi.",
+        "bvi": "Sắp hết giờ rồi."
+      },
+      {
+        "a": "I don't believe your story.",
+        "b": "Believe it or not!",
+        "avi": "Tôi không tin chuyện của bạn.",
+        "bvi": "Tin hay không tin thì tùy!"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Bài 35",
+    "pairs": [
+      {
+        "a": "Hello, can I see him please?",
+        "b": "Hold on!",
+        "avi": "Alô, xin cho tôi gặp anh ấy nhé?",
+        "bvi": "Chờ một chút!"
+      },
+      {
+        "a": "It's been a rough week.",
+        "b": "How's everything?",
+        "avi": "Tuần vừa rồi khá vất vả.",
+        "bvi": "Công việc thế nào?"
+      },
+      {
+        "a": "You'll have to pay for that.",
+        "b": "It doesn't matter.",
+        "avi": "Bạn sẽ phải trả giá cho chuyện đó.",
+        "bvi": "Không thành vấn đề."
+      },
+      {
+        "a": "Why not tell him to write again?",
+        "b": "It really takes time.",
+        "avi": "Sao anh không bảo anh ta viết lại bức thư ấy?",
+        "bvi": "Mất thời gian lắm."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Bài 36",
+    "pairs": [
+      {
+        "a": "Is the booking necessary?",
+        "b": "It's essential.",
+        "avi": "Có cần phải đặt vé không?",
+        "bvi": "Cần thiết lắm."
+      },
+      {
+        "a": "I have finished it.",
+        "b": "Let go!",
+        "avi": "Tôi đã làm xong rồi!",
+        "bvi": "Nào đi thôi!"
+      },
+      {
+        "a": "Don't forget to pay me back.",
+        "b": "Of course!",
+        "avi": "Ðừng quên trả lại tôi đấy nhé.",
+        "bvi": "Dĩ nhiên!"
+      },
+      {
+        "a": "You can be kind to him and he'll take a stick to you.",
+        "b": "That's life.",
+        "avi": "Làm ơn mắc oán.",
+        "bvi": "Ðời là thế."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Bài 37",
+    "pairs": [
+      {
+        "a": "What time does it end?",
+        "b": "Time is up.",
+        "avi": "Mấy giờ thì kết thúc?",
+        "bvi": "Hết giờ rồi."
+      },
+      {
+        "a": "The food is terrible.",
+        "b": "You get what you pay for.",
+        "avi": "Thức ăn tệ quá!",
+        "bvi": "Tiền nào của nấy."
+      },
+      {
+        "a": "Do you have one in mind?",
+        "b": "We may go abroad.",
+        "avi": "Bạn cũng có dự định rồi ư?",
+        "bvi": "Có lẽ chúng tôi đi nước ngoài."
+      },
+      {
+        "a": "So you mean he is lying.",
+        "b": "Count me on.",
+        "avi": "Vậy ý bạn là anh ấy đang nói dối.",
+        "bvi": "Tin tôi đi."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Bài 38",
+    "pairs": [
+      {
+        "a": "Shall I wash the glass?",
+        "b": "Don't drop it!",
+        "avi": "Ðể tôi rửa cái ly này nhé?",
+        "bvi": "Ðừng làm rơi nó!"
+      },
+      {
+        "a": "Will they give him the job?",
+        "b": "Don't mention it.",
+        "avi": "Họ sẽ cho anh ấy một công việc chứ?",
+        "bvi": "Ðừng bận tâm."
+      },
+      {
+        "a": "I'm going to be President.",
+        "b": "Easier said than done.",
+        "avi": "Tôi sẽ trở thành tổng thống.",
+        "bvi": "Nói dễ hơn làm."
+      },
+      {
+        "a": "I run out of money.",
+        "b": "Hold your horses.",
+        "avi": "Tôi đã xài hết tiền.",
+        "bvi": "Phải tự kìm chế chứ."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Bài 39",
+    "pairs": [
+      {
+        "a": "For long, I haven't met her.",
+        "b": "How's it going?",
+        "avi": "Ðã lâu, tôi không gặp cô ấy.",
+        "bvi": "Dạo này thế nào?"
+      },
+      {
+        "a": "You're sure you don't need anything else.",
+        "b": "I assure you.",
+        "avi": "Anh có chắc là không cần gì khác nữa không.",
+        "bvi": "Tôi cam đoan với anh."
+      },
+      {
+        "a": "How could it be so big?",
+        "b": "I can't believe it.",
+        "avi": "Sao nó lớn quá nhỉ?",
+        "bvi": "Tôi không thể tin nổi."
+      },
+      {
+        "a": "I'll give you a pasting.",
+        "b": "Just wait and see!",
+        "avi": "Tao sẽ nện cho mày một trận.",
+        "bvi": "Hãy chờ xem!"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Bài 40",
+    "pairs": [
+      {
+        "a": "Do we have any classes together?",
+        "b": "Long time no see!",
+        "avi": "Chúng ta có học cùng lớp nào không?",
+        "bvi": "Lâu quá không gặp!"
+      },
+      {
+        "a": "Anybody recognize this knife?",
+        "b": "No one knows.",
+        "avi": "Có ai biết con dao này không?",
+        "bvi": "Không ai biết."
+      },
+      {
+        "a": "I am looking forward to your visit next week",
+        "b": "See you.",
+        "avi": "Tôi sẽ đợi bạn ghé thăm vào tuần tới.",
+        "bvi": "Gặp sau nhé."
+      },
+      {
+        "a": "Do you know I am on edge?",
+        "b": "Shut up!",
+        "avi": "Bạn có biết là tôi đang bực lắm không?",
+        "bvi": "Câm đi!"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Bài 41",
+    "pairs": [
+      {
+        "a": "Which way shall I go?",
+        "b": "Suit yourself.",
+        "avi": "Tôi phải đi đường nào?",
+        "bvi": "Tùy anh."
+      },
+      {
+        "a": "You must control your temper.",
+        "b": "That's all right.",
+        "avi": "Bạn phải kìm chế cơn nóng giận.",
+        "bvi": "Ðược rồi."
+      },
+      {
+        "a": "Does he want to rent a house?",
+        "b": "That's more like it.",
+        "avi": "Anh ấy muốn thuê một căn nhà phải không?",
+        "bvi": "Hình như là vậy."
+      },
+      {
+        "a": "So what time are we arrange to meet?",
+        "b": "The sooner, the better.",
+        "avi": "Vậy chúng ta hẹn gặp nhau lúc mấy giờ?",
+        "bvi": "Càng sớm càng tốt."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Bài 42",
+    "pairs": [
+      {
+        "a": "I must come home at one o'clock.",
+        "b": "To be careful!",
+        "avi": "Tôi phải về nhà lúc 1 giờ.",
+        "bvi": "Hãy cẩn thận!"
+      },
+      {
+        "a": "Are you going to start a family?",
+        "b": "Well, it depends.",
+        "avi": "Bạn có định lập gia đình không?",
+        "bvi": "À điều này còn tùy."
+      },
+      {
+        "a": "Have you got a job?",
+        "b": "What about you?",
+        "avi": "Bạn vừa xin được việc làm phải không?",
+        "bvi": "Còn anh thì sao?"
+      },
+      {
+        "a": "Shall I get in touch with you by phone?",
+        "b": "As soon as possible!",
+        "avi": "Tôi sẽ liên lạc với bạn bằng điện thoại nhé?",
+        "bvi": "Càng sớm càng tốt!"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Bài 43",
+    "pairs": [
+      {
+        "a": "Computers are so cool!",
+        "b": "Don't fall for it.",
+        "avi": "Máy tính rất tuyệt mà!",
+        "bvi": "Ðừng quá ham mê nó."
+      },
+      {
+        "a": "She seems to be fall in love with me.",
+        "b": "Don't miss the boat.",
+        "avi": "Hình như cô ấy yêu tôi.",
+        "bvi": "Ðừng bỏ lỡ cơ hội."
+      },
+      {
+        "a": "Travel has become very easy.",
+        "b": "Easy come easy go.",
+        "avi": "Du lịch đã trở nên quá dễ dàng.",
+        "bvi": "Dễ đến thì dễ đi."
+      },
+      {
+        "a": "Are you sure you can help her?",
+        "b": "I promise.",
+        "avi": "Bạn có chắc là bạn giúp cô ấy không?",
+        "bvi": "Tôi xin hứa."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Bài 44",
+    "pairs": [
+      {
+        "a": "Would you like to borrow my bicycle?",
+        "b": "Is that okay?",
+        "avi": "Bạn có muốn mượn xe đạp của tôi không?",
+        "bvi": "Ðược không?"
+      },
+      {
+        "a": "Is the motorcycle in the good condition?",
+        "b": "It doesn't work.",
+        "avi": "Chiếc xe máy còn tốt không?",
+        "bvi": "Nó không hoạt động."
+      },
+      {
+        "a": "I'm going fishing with Nam.",
+        "b": "It's a waste of time.",
+        "avi": "Tôi sẽ đi câu cá với Nam.",
+        "bvi": "Thật phí thời gian."
+      },
+      {
+        "a": "Do you think a cap will suit me?",
+        "b": "It's hard to say.",
+        "avi": "Bạn thấy tôi đội mũ lưỡi trai có hợp không?",
+        "bvi": "Thật khó nói."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Bài 45",
+    "pairs": [
+      {
+        "a": "I'm sorry about that.",
+        "b": "It's not your fault.",
+        "avi": "Tôi xin lỗi về việc đó.",
+        "bvi": "Nó không phải là lỗi của bạn."
+      },
+      {
+        "a": "That car is out of repair.",
+        "b": "It's out of date.",
+        "avi": "Xe đó không còn dùng được nữa.",
+        "bvi": "Hết hạn rồi."
+      },
+      {
+        "a": "You will get a good raise at the weekend.",
+        "b": "Just wonderful!",
+        "avi": "Cuối tuần này bạn sẽ được tăng lương.",
+        "bvi": "Tuyệt quá!"
+      },
+      {
+        "a": "I'll mortgage my house in order to start a business.",
+        "b": "Look before you leap.",
+        "avi": "Tôi sẽ thế chấp nhà, vay vốn ngân hàng để làm ăn.",
+        "bvi": "Phải nghĩ kỹ trước khi làm."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Bài 46",
+    "pairs": [
+      {
+        "a": "What do you do if you happen to fail?",
+        "b": "No pain, no gain.",
+        "avi": "Bạn sẽ làm gì nếu gặp thất bại?",
+        "bvi": "Thất bại là mẹ thành công."
+      },
+      {
+        "a": "Fine, anything else?",
+        "b": "That's all!",
+        "avi": "Ðược, còn gì nữa không?",
+        "bvi": "Thế thôi!"
+      },
+      {
+        "a": "Am I dressed okay for a wedding?",
+        "b": "That's neat.",
+        "avi": "Tôi mặc thế này có đi đám cưới được không?",
+        "bvi": "Gọn gàng rồi."
+      },
+      {
+        "a": "Can we go now?",
+        "b": "That's very late.",
+        "avi": "Chúng ta đi được chưa?",
+        "bvi": "Trễ quá rồi."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Bài 47",
+    "pairs": [
+      {
+        "a": "He's a thief.",
+        "b": "There is no doubt about it.",
+        "avi": "Hắn là kẻ trộm.",
+        "bvi": "Không nghi ngờ gì nữa."
+      },
+      {
+        "a": "I'll put him in the hospital tomorrow morning.",
+        "b": "Tomorrow never comes.",
+        "avi": "Tôi sẽ đưa anh ta nhập viện vào sáng mai.",
+        "bvi": "Ðừng trông mong vào ngày mai."
+      },
+      {
+        "a": "I cannot take your advice.",
+        "b": "You have my word.",
+        "avi": "Tôi không thể nghe lời khuyên của bạn.",
+        "bvi": "Cứ tin lời tôi."
+      },
+      {
+        "a": "Because you're thinking too much.",
+        "b": "Better safe than sorry.",
+        "avi": "Bởi vì bạn suy nghĩ quá nhiều.",
+        "bvi": "Cẩn tắc vô ưu."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Bài 48",
+    "pairs": [
+      {
+        "a": "I can't stand it.",
+        "b": "Come on.",
+        "avi": "Tôi không thể chịu nổi nó.",
+        "bvi": "Thôi nào."
+      },
+      {
+        "a": "Can you get us in there?",
+        "b": "Don't move!",
+        "avi": "Ông có thể cho bọn tôi vào trong đó không?",
+        "bvi": "Ðứng yên!"
+      },
+      {
+        "a": "It's not in there.",
+        "b": "I doubt it.",
+        "avi": "Nó không có ở đó.",
+        "bvi": "Tôi nghi ngờ nó."
+      },
+      {
+        "a": "What time will it land?",
+        "b": "It's about time.",
+        "avi": "Nó hạ cánh lúc mấy giờ?",
+        "bvi": "Sắp đến lúc rồi."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Bài 49",
+    "pairs": [
+      {
+        "a": "How many cakes are there in the box?",
+        "b": "It's nothing.",
+        "avi": "Có bao nhiêu cái bánh ở trong hộp?",
+        "bvi": "Chẳng có gì cả."
+      },
+      {
+        "a": "I'm away on business.",
+        "b": "Keep in touch.",
+        "avi": "Tôi sẽ đi công tác xa.",
+        "bvi": "Giữ liên lạc nhé."
+      },
+      {
+        "a": "At the touch of love everyone becomes a poet.",
+        "b": "Love me, love my dog.",
+        "avi": "Khi yêu thì ai cũng trở thành thi sĩ.",
+        "bvi": "Yêu ai yêu cả đường đi lối về."
+      },
+      {
+        "a": "Who's going to look after the garden?",
+        "b": "My treat.",
+        "avi": "Ai sẽ chăm sóc khu vườn?",
+        "bvi": "Ðể tôi lo."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Bài 50",
+    "pairs": [
+      {
+        "a": "What's the matter with you?",
+        "b": "No problem!",
+        "avi": "Có chuyện gì với bạn thế?",
+        "bvi": "Không vấn đề gì!"
+      },
+      {
+        "a": "I was already heal.",
+        "b": "Pain past is pleasure.",
+        "avi": "Tôi đã hoàn toàn khỏi bệnh.",
+        "bvi": "Sau cơn mưa trời lại sáng."
+      },
+      {
+        "a": "Do I speak too fast for you?",
+        "b": "Slow down!",
+        "avi": "Tôi có nói nhanh quá không?",
+        "bvi": "Chậm lại!"
+      },
+      {
+        "a": "Is the water too hot?",
+        "b": "I can't help it.",
+        "avi": "Nước có nóng quá không?",
+        "bvi": "Tôi không thể chịu nổi."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Bài 51",
+    "pairs": [
+      {
+        "a": "I will pay for the cost of the travel.",
+        "b": "Thank you very much.",
+        "avi": "Tôi sẽ trả phí tổn của chuyến đi.",
+        "bvi": "Cảm ơn bạn rất nhiều."
+      },
+      {
+        "a": "I advise you to break it off with him.",
+        "b": "That reminds me.",
+        "avi": "Tôi khuyên anh nên cắt đứt quan hệ với hắn ta.",
+        "bvi": "Tôi sẽ lưu ý."
+      },
+      {
+        "a": "I think she may be a fraud.",
+        "b": "That's disgusting.",
+        "avi": "Tôi nghĩ có lẽ cô ấy là kẻ lừa đảo.",
+        "bvi": "Thật ghê tởm."
+      },
+      {
+        "a": "I'm too shy to speak English.",
+        "b": "That's not a problem.",
+        "avi": "Tôi nhát đến nỗi không nói được tiếng Anh.",
+        "bvi": "Không thành vấn đề."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Bài 52",
+    "pairs": [
+      {
+        "a": "Have you read the book yet?",
+        "b": "That's worthwhile.",
+        "avi": "Bạn đã đọc quyển sách đó chưa?",
+        "bvi": "Rất có giá trị."
+      },
+      {
+        "a": "The engines aren't working.",
+        "b": "Try again.",
+        "avi": "Máy móc không hoạt động.",
+        "bvi": "Thử lại lần nữa."
+      },
+      {
+        "a": "Do you all feel that way?",
+        "b": "What a coincidence!",
+        "avi": "Tất cả các bạn đều nghĩ như vậy sao?",
+        "bvi": "Thật trùng hợp!"
+      },
+      {
+        "a": "Do you wear costume jewellery?",
+        "b": "All that glitters is not gold.",
+        "avi": "Bạn đeo nữ trang giả à?",
+        "bvi": "Chớ thấy sáng mà ngỡ là vàng."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Bài 53",
+    "pairs": [
+      {
+        "a": "What a lavish surprise party!",
+        "b": "It doesn't make sense.",
+        "avi": "Bữa tiệc thật là hoành tráng!",
+        "bvi": "Nó chẳng ấn tượng gì."
+      },
+      {
+        "a": "Have I furnished it nicely?",
+        "b": "What a mess!",
+        "avi": "Tôi bày biện có khéo không?",
+        "bvi": "Thật bừa bộn."
+      },
+      {
+        "a": "An ugly storm is brewing.",
+        "b": "A storm blew up.",
+        "avi": "Một trận bão lớn đang kéo đến.",
+        "bvi": "Bão đã nổi lên."
+      },
+      {
+        "a": "I still remember that accident very clearly.",
+        "b": "Let bygones be bygones.",
+        "avi": "Tôi vẫn còn nhớ rõ tai nạn đó.",
+        "bvi": "Cái gì đã qua hãy để nó qua."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Bài 54",
+    "pairs": [
+      {
+        "a": "I count myself lucky to have a job.",
+        "b": "Opportunity knocks but once.",
+        "avi": "Tôi cho mình có việc làm là may mắn rồi.",
+        "bvi": "Cơ hội chỉ đến một lần."
+      },
+      {
+        "a": "You heard about Lan today?",
+        "b": "The rumor had no basis.",
+        "avi": "Hôm nay ông nghe tin về Lan chưa?",
+        "bvi": "Tin đồn thất thiệt."
+      },
+      {
+        "a": "I can't do without money.",
+        "b": "Money is not everything.",
+        "avi": "Tôi không thể làm gì cả nếu không có tiền.",
+        "bvi": "Tiền không phải là tất cả."
+      },
+      {
+        "a": "Is it a good buy?",
+        "b": "Don't let chances pass by.",
+        "avi": "Nó là món hời phải không?",
+        "bvi": "Ðừng để cơ hội qua đi."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Bài 55",
+    "pairs": [
+      {
+        "a": "How bored I am.",
+        "b": "It's no use complaining.",
+        "avi": "Thật là chán.",
+        "bvi": "Than phiền chẳng ích lợi gì."
+      },
+      {
+        "a": "Can I choose my seat?",
+        "b": "Make yourself at home.",
+        "avi": "Tôi có thể chọn chỗ ngồi không?",
+        "bvi": "Cứ tự nhiên như ở nhà."
+      },
+      {
+        "a": "How do I recover my friends' affection?",
+        "b": "All for one, one for all.",
+        "avi": "Làm sao để tôi lấy lại được tình thương mến của bạn bè?",
+        "bvi": "Mọi người vì một người, một người vì mọi người."
+      }
+    ]
+  }
+]
