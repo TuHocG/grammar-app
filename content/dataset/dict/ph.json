@@ -4086,7 +4086,7 @@
   },
   {
     "h": "phenolsulphonphthalein",
-    "segs": [{"k": "m", "t": "loại thuốc nhuộm: dùng để thứ nghiệm chức năng thận."}],
+    "segs": [{"k": "m", "t": "loại thuốc nhuộm: dùng để thử nghiệm chức năng thận."}],
     "k": "phenolsulphonphthalein"
   },
   {
@@ -6701,7 +6701,7 @@
     ],
     "k": "phone switching"
   },
-  {"h": "phone user", "segs": [{"k": "m", "t": "người dùng diện thoại."}], "k": "phone user"},
+  {"h": "phone user", "segs": [{"k": "m", "t": "người dùng điện thoại."}], "k": "phone user"},
   {
     "h": "phone-box",
     "segs": [
@@ -8551,7 +8551,7 @@
   {"h": "photo multiplier", "segs": [{"k": "m", "t": "máy phóng ảnh."}], "k": "photo multiplier"},
   {
     "h": "photo opportunity",
-    "segs": [{"k": "m", "t": "dt. sự chụp ảnh các dịp lễ kỹ niệm, dịp hay cơ hội chụp ảnh."}],
+    "segs": [{"k": "m", "t": "dt. sự chụp ảnh các dịp lễ kỷ niệm, dịp hay cơ hội chụp ảnh."}],
     "k": "photo opportunity"
   },
   {
@@ -10442,7 +10442,7 @@
   },
   {
     "h": "photogrammetric orientation",
-    "segs": [{"k": "m", "t": "sự đỉnh hướng do ảnh."}],
+    "segs": [{"k": "m", "t": "sự định hướng do ảnh."}],
     "k": "photogrammetric orientation"
   },
   {
@@ -11778,7 +11778,7 @@
   },
   {"h": "photoptometer", "segs": [{"k": "m", "t": "Quang thị lực kế."}], "k": "photoptometer"},
   {"h": "photoptometry", "segs": [{"k": "m", "t": "(sự) đo quang thị lực."}], "k": "photoptometry"},
-  {"h": "photoradiometer", "segs": [{"k": "m", "t": "Thấu xa kế."}], "k": "photoradiometer"},
+  {"h": "photoradiometer", "segs": [{"k": "m", "t": "Thấu xạ kế."}], "k": "photoradiometer"},
   {
     "h": "photoreaction",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "phản ứng quang hóa."}],
@@ -11956,7 +11956,7 @@
     "k": "photoscanner"
   },
   {"h": "photoscript", "segs": [{"k": "m", "t": "mô tả bằng ảnh."}], "k": "photoscript"},
-  {"h": "photoscript (TV)", "segs": [{"k": "m", "t": "mô tã bằng ảnh."}], "k": "photoscript (tv)"},
+  {"h": "photoscript (TV)", "segs": [{"k": "m", "t": "mô tả bằng ảnh."}], "k": "photoscript (tv)"},
   {
     "h": "photosensing mark",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhãn cảm quang"}],

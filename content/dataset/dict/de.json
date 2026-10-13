@@ -7808,7 +7808,7 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "bình lắng gạn"},
       {"k": "m", "t": "dụng cụ lắng gạn"},
-      {"k": "m", "t": "thùng lăng gạn"}
+      {"k": "m", "t": "thùng lắng gạn"}
     ],
     "k": "decanting glass"
   },
@@ -14493,7 +14493,7 @@
       },
       {
         "k": "m",
-        "t": "Ngược lại, ISDN (Intergrated Services Digital Network) cung cấp khả năng dùng mạch không chuyên dụng và cho phép người dùng gọi đến bất cứ nới nào. Dịch vụ đang ra đời DSL (Digital Subscriber Line) cung cấp khả năng tương tự nhưng với tốc độ cao hơn."
+        "t": "Ngược lại, ISDN (Intergrated Services Digital Network) cung cấp khả năng dùng mạch không chuyên dụng và cho phép người dùng gọi đến bất cứ nơi nào. Dịch vụ đang ra đời DSL (Digital Subscriber Line) cung cấp khả năng tương tự nhưng với tốc độ cao hơn."
       }
     ],
     "k": "dedicated circuits"
@@ -18667,7 +18667,7 @@
   },
   {
     "h": "defensive computing",
-    "segs": [{"k": "m", "t": "tính toán dự phòng (tính tới các sai sót có thế xảy ra)."}],
+    "segs": [{"k": "m", "t": "tính toán dự phòng (tính tới các sai sót có thể xảy ra)."}],
     "k": "defensive computing"
   },
   {
@@ -20676,7 +20676,7 @@
   },
   {
     "h": "deflection curve",
-    "segs": [{"k": "m", "t": "đường cong uốn, đường đàn hồi, biểu đồ dộ võng."}],
+    "segs": [{"k": "m", "t": "đường cong uốn, đường đàn hồi, biểu đồ độ võng."}],
     "k": "deflection curve"
   },
   {
@@ -24598,7 +24598,7 @@
   },
   {
     "h": "deincrustant",
-    "segs": [{"k": "m", "t": "chất chống dóng cặn; chất làm mềm nước (trong nồi hơi)."}],
+    "segs": [{"k": "m", "t": "chất chống đóng cặn; chất làm mềm nước (trong nồi hơi)."}],
     "k": "deincrustant"
   },
   {
@@ -35965,7 +35965,7 @@
   },
   {
     "h": "deorsumversion",
-    "segs": [{"k": "m", "t": "(sự) đưa về phia dưới"}, {"k": "m", "t": "(sự) đưa mắt xuống."}],
+    "segs": [{"k": "m", "t": "(sự) đưa về phía dưới"}, {"k": "m", "t": "(sự) đưa mắt xuống."}],
     "k": "deorsumversion"
   },
   {
@@ -37008,7 +37008,7 @@
       {"k": "m", "t": "(kinh tế) Gánh nặng ăn theo."},
       {
         "k": "m",
-        "t": "Một tình huốn trong đó tỉ lệ trẻ em rất cao trong toàn bộ dân số sống phụ thuộc vào một tỉ lệ người lớn nhỏ hơn nhiều."
+        "t": "Một tình huống trong đó tỉ lệ trẻ em rất cao trong toàn bộ dân số sống phụ thuộc vào một tỉ lệ người lớn nhỏ hơn nhiều."
       }
     ],
     "k": "dependency burden"
@@ -43018,7 +43018,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Đề-các, 1596-1650) nhà triết học và toán học Pháp. Ông xuất thân từ một dòng học quý tộc lâu đời. Ông được giáo dục trong nhà trường tu sĩ La Flèche tại Angers. Ông phục vụ trong quân ngũ vào đầu cuộc chiến tranh 13 năm, xuất ngũ năm 1621. Sau một số năm đi du lịch ông di cư sang Hà Lan (1629), ở đó ông tiến hành nghiên cứu khoa học 20 năm biệt lập. Năm 1649, theo lời mời của nữ hoàng Thụy Điển, ông chuyển đến Stochkholm và chẳng bao lâu sau mất tại đó. Descartes đặt nền móng cho hình học giải tích, đưa vào nhiều ký hiệu đại số hiện đại. Ông đã phát biểu định luật bảo toàn động lượng. Trong \"Hình học\" (1637) của Descartes khái niệm đại lượng biến thiên được áp dụng rộng rãi. Đại lượng biến thiên theo ông được phát biểu dưới hai dạng: Một là: một đoạn thẳng có độ dài biến đổi và có hướng không đổi là tốc độ chuyển động của một điểm vạch nên đường cong bởi chuyển động của nó. Hai là: một biến số liên tục, chạy qua tập hợp các số biểu thị đoạn thẳng đó. Ảnh kép đó của biến số có được do sự thâm nhập vào nhau của hình học và đại số. Descartes đã cải tiến đáng kể hệ ký hiệu bằng cách đưa vào những dấu hiệu phổ biến cho các đại lượng biến thiên (x, y, z,...) và các hệ số (a, b, c,...) và cả ký hiệu của lũy thừa (x4, a5,...). Cách ghi công thức của Descartes hầu như chẳng khác gì với cách ghi hiện đại. Descartes đặt cơ sở cho hàng loạt những nghiên cứu các tính chất của phương trình. Trong hình học giải tích, đồng thời với Descartescòn có nhà bác học Pháp P.Fermat nghiên cứu thành quả mà Descartes đạt được là đã xây dựng phương pháp tọa độ (tọa độ Descardes). Sau khi đặt cơ sở cho hình học giải tích, bản thân Descardes không đi xa thêm trong lĩnh vực này-các hoành độ âm không được nghiên cứu, các vấn đề hình học giải tích của không gian ba chiều không được đề cập đến. Tuy vậy, tập \"Hình học\" của ông vẩn có ảnh hưởng lớn đến sự phát triển của toán học."
+        "t": "(Đề-các, 1596-1650) nhà triết học và toán học Pháp. Ông xuất thân từ một dòng học quý tộc lâu đời. Ông được giáo dục trong nhà trường tu sĩ La Flèche tại Angers. Ông phục vụ trong quân ngũ vào đầu cuộc chiến tranh 13 năm, xuất ngũ năm 1621. Sau một số năm đi du lịch ông di cư sang Hà Lan (1629), ở đó ông tiến hành nghiên cứu khoa học 20 năm biệt lập. Năm 1649, theo lời mời của nữ hoàng Thụy Điển, ông chuyển đến Stochkholm và chẳng bao lâu sau mất tại đó. Descartes đặt nền móng cho hình học giải tích, đưa vào nhiều ký hiệu đại số hiện đại. Ông đã phát biểu định luật bảo toàn động lượng. Trong \"Hình học\" (1637) của Descartes khái niệm đại lượng biến thiên được áp dụng rộng rãi. Đại lượng biến thiên theo ông được phát biểu dưới hai dạng: Một là: một đoạn thẳng có độ dài biến đổi và có hướng không đổi là tốc độ chuyển động của một điểm vạch nên đường cong bởi chuyển động của nó. Hai là: một biến số liên tục, chạy qua tập hợp các số biểu thị đoạn thẳng đó. Ảnh kép đó của biến số có được do sự thâm nhập vào nhau của hình học và đại số. Descartes đã cải tiến đáng kể hệ ký hiệu bằng cách đưa vào những dấu hiệu phổ biến cho các đại lượng biến thiên (x, y, z,...) và các hệ số (a, b, c,...) và cả ký hiệu của lũy thừa (x4, a5,...). Cách ghi công thức của Descartes hầu như chẳng khác gì với cách ghi hiện đại. Descartes đặt cơ sở cho hàng loạt những nghiên cứu các tính chất của phương trình. Trong hình học giải tích, đồng thời với Descartescòn có nhà bác học Pháp P.Fermat nghiên cứu thành quả mà Descartes đạt được là đã xây dựng phương pháp tọa độ (tọa độ Descardes). Sau khi đặt cơ sở cho hình học giải tích, bản thân Descardes không đi xa thêm trong lĩnh vực này-các hoành độ âm không được nghiên cứu, các vấn đề hình học giải tích của không gian ba chiều không được đề cập đến. Tuy vậy, tập \"Hình học\" của ông vẫn có ảnh hưởng lớn đến sự phát triển của toán học."
       }
     ],
     "k": "descartes rene\""
@@ -45072,7 +45072,7 @@
   },
   {
     "h": "design flood hydrograph",
-    "segs": [{"k": "m", "t": "biểu đổ thủy lượng của lũ theo tính toán."}],
+    "segs": [{"k": "m", "t": "biểu đồ thủy lượng của lũ theo tính toán."}],
     "k": "design flood hydrograph"
   },
   {
@@ -46917,7 +46917,7 @@
   },
   {
     "h": "desktop calculator",
-    "segs": [{"k": "m", "t": "máy tính số học dể bàn."}],
+    "segs": [{"k": "m", "t": "máy tính số học để bàn."}],
     "k": "desktop calculator"
   },
   {
@@ -49352,7 +49352,7 @@
     ],
     "k": "detached retina"
   },
-  {"h": "detached retinae", "segs": [{"k": "m", "t": "bong vong mạc."}], "k": "detached retinae"},
+  {"h": "detached retinae", "segs": [{"k": "m", "t": "bong võng mạc."}], "k": "detached retinae"},
   {"h": "detached rock", "segs": [{"k": "m", "t": "bãi đá biệt lập."}], "k": "detached rock"},
   {
     "h": "detached shock",
@@ -50639,7 +50639,7 @@
       {
         "k": "ex",
         "t": "hard work determine good results",
-        "vi": "làm việc tích cực quyết đinh kết quả tốt đẹp"
+        "vi": "làm việc tích cực quyết định kết quả tốt đẹp"
       },
       {"k": "ex", "t": "to determine a fate", "vi": "định đoạt số phận"},
       {"k": "m", "t": "làm cho quyết định, làm cho có quyết tâm thôi thúc"},

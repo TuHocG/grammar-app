@@ -687,11 +687,11 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "cáp (sợi) quang"},
       {"k": "m", "t": "ống dẫn sóng sợi quang"},
-      {"k": "m", "t": "ống đẫn sóng quang"},
+      {"k": "m", "t": "ống dẫn sóng quang"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "cáp (sợi) quang"},
       {"k": "m", "t": "ống dẫn sóng sợi quang"},
-      {"k": "m", "t": "ống đẫn sóng quang"}
+      {"k": "m", "t": "ống dẫn sóng quang"}
     ],
     "k": "fiber waveguide"
   },
@@ -2295,7 +2295,7 @@
   {"h": "fibroma lipomatodes", "segs": [{"k": "m", "t": "u vàng."}], "k": "fibroma lipomatodes"},
   {
     "h": "fibroma molluscum",
-    "segs": [{"k": "m", "t": "U xơ mềm, u xơ thấn kinh lành tính."}],
+    "segs": [{"k": "m", "t": "U xơ mềm, u xơ thần kinh lành tính."}],
     "k": "fibroma molluscum"
   },
   {"h": "fibroma myxomatodes", "segs": [{"k": "m", "t": "u xơ niêm."}], "k": "fibroma myxomatodes"},
@@ -4153,10 +4153,10 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "điều chỉnh kích thích"},
-      {"k": "m", "t": "điều kiển bằng kích từ"},
+      {"k": "m", "t": "điều khiển bằng kích từ"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "điều chỉnh kích thích"},
-      {"k": "m", "t": "điều kiển bằng kích từ"}
+      {"k": "m", "t": "điều khiển bằng kích từ"}
     ],
     "k": "field control"
   },
@@ -5356,11 +5356,11 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "biến trở điều chỉnh trường"},
       {"k": "m", "t": "bộ điều chỉnh trường"},
-      {"k": "m", "t": "bộ điều kiển từ trường"},
+      {"k": "m", "t": "bộ điều khiển từ trường"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "biến trở điều chỉnh trường"},
       {"k": "m", "t": "bộ điều chỉnh trường"},
-      {"k": "m", "t": "bộ điều kiển từ trường"}
+      {"k": "m", "t": "bộ điều khiển từ trường"}
     ],
     "k": "field regulator"
   },
@@ -7282,7 +7282,7 @@
         "t": "the government has to fight several by-elections in the coming months",
         "vi": "chính phủ phải tiến hành một số cuộc bầu cử phụ trong những tháng tới"
       },
-      {"k": "m", "t": "mở đường hoặc hoàn thành cái gì bắng cách nỗ lực hoặc đấu tranh"},
+      {"k": "m", "t": "mở đường hoặc hoàn thành cái gì bằng cách nỗ lực hoặc đấu tranh"},
       {
         "k": "ex",
         "t": "we had to fight (our way) through the crowded streets",
@@ -18811,7 +18811,7 @@
       {
         "k": "ex",
         "t": "I feel fine and dandy. The new medicine seems to be working:",
-        "vi": "Tôi cảm thấy thực sự dễ chịu loại thuố mới này có vẻ có công hiệu."
+        "vi": "Tôi cảm thấy thực sự dễ chịu loại thuốc mới này có vẻ có công hiệu."
       }
     ],
     "k": "fine and dandy"
@@ -19308,7 +19308,7 @@
   {
     "h": "fine scanning",
     "segs": [
-      {"k": "m", "t": "sự quét mịn, sự quét băng chùm tia rất nhỏ, sự quét với độ chính xác cao."}
+      {"k": "m", "t": "sự quét mịn, sự quét bằng chùm tia rất nhỏ, sự quét với độ chính xác cao."}
     ],
     "k": "fine scanning"
   },
@@ -20254,9 +20254,9 @@
     "h": "finger nut",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đai ôc tai hồng"},
+      {"k": "m", "t": "đai ốc tai hồng"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đai ôc tai hồng"}
+      {"k": "m", "t": "đai ốc tai hồng"}
     ],
     "k": "finger nut"
   },
@@ -31283,7 +31283,7 @@
   },
   {
     "h": "fishbone antenna",
-    "segs": [{"k": "m", "t": "anten hình xướng cá."}],
+    "segs": [{"k": "m", "t": "anten hình xương cá."}],
     "k": "fishbone antenna"
   },
   {"h": "fishbone chart", "segs": [{"k": "m", "t": "biểu đồ xương cá."}], "k": "fishbone chart"},
@@ -32816,7 +32816,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "snh. cuộc đấm đá"},
-      {"k": "m", "t": "cuộc ấu đả."}
+      {"k": "m", "t": "cuộc ẩu đả."}
     ],
     "ipa": "'fistikʌfs",
     "k": "fisticuffs"
@@ -35637,7 +35637,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nguyên lý điểm bất động. Nguyên lý khẳng định sự tồn tại của điểm bất động (điểm không thay đổi qua một ánh xạ). Nổi tiếng nhất là nguyên lý điểm bất động của Banắc (Banach): mọi ánh xạ co trong không gian mêtric đủ đều có một điệm bất động duy nhất, và nguyên lý điểm bất động của Brao-ơ (Brouwer): Mọi ánh xạ liên tục từ một tập lồi, compăc C trong không gian Rn vào chính nó đều có điểm bất động. Các nguyên lý điểm bất động có nhiều ứng dụng khác nhau, đặc biệt trong lý thuyết phương trình vi phân, tích phân, v.v..."
+        "t": "nguyên lý điểm bất động. Nguyên lý khẳng định sự tồn tại của điểm bất động (điểm không thay đổi qua một ánh xạ). Nổi tiếng nhất là nguyên lý điểm bất động của Banắc (Banach): mọi ánh xạ co trong không gian mêtric đủ đều có một điểm bất động duy nhất, và nguyên lý điểm bất động của Brao-ơ (Brouwer): Mọi ánh xạ liên tục từ một tập lồi, compăc C trong không gian Rn vào chính nó đều có điểm bất động. Các nguyên lý điểm bất động có nhiều ứng dụng khác nhau, đặc biệt trong lý thuyết phương trình vi phân, tích phân, v.v..."
       }
     ],
     "k": "fixed point principle"

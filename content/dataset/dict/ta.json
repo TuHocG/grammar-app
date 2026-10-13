@@ -7036,7 +7036,7 @@
       {
         "k": "ex",
         "t": "I don't mind taking sides on important issues:",
-        "vi": "Tôi không ngại đứng theo một bên nào trong những vần đề quan trọng."
+        "vi": "Tôi không ngại đứng theo một bên nào trong những vấn đề quan trọng."
       }
     ],
     "k": "take sides"
@@ -9896,7 +9896,7 @@
       {"k": "m", "t": "sự tính toán (nợ nần...)"},
       {"k": "m", "t": "số điểm, số tính toán (tiền chi tiêu...)"},
       {"k": "m", "t": "nhãn (ghi tên hàng giao, nhận)"},
-      {"k": "m", "t": "biển (khắc tên cây ở vường bách thảo...)"},
+      {"k": "m", "t": "biển (khắc tên cây ở vườn bách thảo...)"},
       {"k": "m", "t": "(pháp lý) bản sao, bản đối chiếu"},
       {"k": "m", "t": "vật đối chiếu"},
       {"k": "m", "t": "(sử) thẻ ghi nợ"},
@@ -14929,7 +14929,7 @@
     "redirect": "tape-line",
     "k": "tape-measure"
   },
-  {"h": "tape-operated", "segs": [{"k": "m", "t": "hoạt dộng bằng băng."}], "k": "tape-operated"},
+  {"h": "tape-operated", "segs": [{"k": "m", "t": "hoạt động bằng băng."}], "k": "tape-operated"},
   {
     "h": "tape-oriented computer",
     "segs": [{"k": "m", "t": "máy tính hướng băng, máy tính định hướng băng từ."}],
@@ -16041,7 +16041,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "bộ phận chuyền động (cần của một bộ phận máy để truyền động bằng cách gõ vào cái gì"
+        "t": "bộ phận truyền động (cần của một bộ phận máy để truyền động bằng cách gõ vào cái gì"
       },
       {"k": "m", "t": "dùng để mở, đóng một cái van...)."}
     ],
@@ -17199,7 +17199,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "chỉ số nhóm đối tượng tiêu dùng là báo cáo thường nếu được thu nhập từ bản câu hỏi thăm dò của 24.000 đối tượng dược chọn ngẫu nhiên để thăm dò ý kiến về việc sử dụng hàng trăm sản phẩm và hàng ngàn nhãn hiệu của họ. Bản câu hỏi được hoàn tất không có sự hiện diện của người phỏng vấn. Chỉ số nhóm đối tượng tiêu dùng là một ví dụ của việc nghiên cứu nghiệp đoàn."
+        "t": "chỉ số nhóm đối tượng tiêu dùng là báo cáo thường nếu được thu nhập từ bản câu hỏi thăm dò của 24.000 đối tượng được chọn ngẫu nhiên để thăm dò ý kiến về việc sử dụng hàng trăm sản phẩm và hàng ngàn nhãn hiệu của họ. Bản câu hỏi được hoàn tất không có sự hiện diện của người phỏng vấn. Chỉ số nhóm đối tượng tiêu dùng là một ví dụ của việc nghiên cứu nghiệp đoàn."
       }
     ],
     "k": "target group index"

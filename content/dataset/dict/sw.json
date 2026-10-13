@@ -7824,7 +7824,7 @@
     "h": "switch-selling",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "mánh khóe quảng cáo một sản phẩm giá cáo hơn."}
+      {"k": "m", "t": "mánh khóe quảng cáo một sản phẩm giá cao hơn."}
     ],
     "ipa": "'swetʃ,seliŋ",
     "k": "switch-selling"
@@ -8029,7 +8029,7 @@
       },
       {
         "k": "m",
-        "t": "Với kỹ thuật chuyển mạch, quá trình phân chia này có thể tiếp tục cho đến khi mỗi thành phần chỉ chứa một máy. Bạn có thể tưởng tượng bộ chuyển mạch như thiết bị cầu nối nhiều cổng trong đó mỗi cổng là một thành phần riêng của mạng. Một máy trạm hay một hub các máy trạm có thể kết nối vào một trong những cổng này. Bộ chuyển mạch có thể tạo cầu nối giữa hai cổng bất kỳ trong khi vận hành và với ốc độ rất nhanh. Một trạm nối vào một cổng có thể dùng hết băng thông của cổng ấy. Ýu điểm chủ yếu của chuyển mạch là tránh được va chạm, tranh chấp và trì hoãn là những vấn đề đau đầu đối với các mạng chia sẻ."
+        "t": "Với kỹ thuật chuyển mạch, quá trình phân chia này có thể tiếp tục cho đến khi mỗi thành phần chỉ chứa một máy. Bạn có thể tưởng tượng bộ chuyển mạch như thiết bị cầu nối nhiều cổng trong đó mỗi cổng là một thành phần riêng của mạng. Một máy trạm hay một hub các máy trạm có thể kết nối vào một trong những cổng này. Bộ chuyển mạch có thể tạo cầu nối giữa hai cổng bất kỳ trong khi vận hành và với tốc độ rất nhanh. Một trạm nối vào một cổng có thể dùng hết băng thông của cổng ấy. Ưu điểm chủ yếu của chuyển mạch là tránh được va chạm, tranh chấp và trì hoãn là những vấn đề đau đầu đối với các mạng chia sẻ."
       },
       {
         "k": "m",
@@ -8106,7 +8106,7 @@
       },
       {
         "k": "m",
-        "t": "Vùng đệm đầu vào có thể tránh sự mất mát các khung dữ liệu từ phía đầu vào, nhưng nếu thiết bị ở cổng đầu ra bị tắt nghẽn thì sao? Bạn có cần vùng đệm đầu ra hay không? Xét trường hợp một máy chủ nối với một cổng cao tốc trên bộ chuyển mạch. Cổng này có thể bị vô hiệu khi lưu lượng giao thông cao. Trong điều kiện này, một trạm có thể tiếp tục gởi các gói dữ liệu đến cổng đầu vào mặc dù cổng máy chủ bị tắt nghẽn không nhận các gói dữ liệu nữa. Điều này đòi hỏi phải truyền lại và lại gây chậm trễ. Một giải pháp là tăng vùng đệm, nhưng đây là vấn đề thỏa hiệp giữa thời lượng trì hoãn gây ra bởi vùng đệm và thời lượng trì hoãn gây ra bởi việc gởi lại các gói dữ liệu bị bỏ qua. Một phương pháp khác là làm cho cổng đầu ra (quá tải) báo tín hiệu cho cổng đầu vào, và điều này làm cho bên gửi tưởng như xảy ra hiện tượng va chạm CSMA/CD (carrier sense multiple access/collision detection). Kỹ thuật này tạo ra cái gọi là va chạm ảo (virtual collision)."
+        "t": "Vùng đệm đầu vào có thể tránh sự mất mát các khung dữ liệu từ phía đầu vào, nhưng nếu thiết bị ở cổng đầu ra bị tắc nghẽn thì sao? Bạn có cần vùng đệm đầu ra hay không? Xét trường hợp một máy chủ nối với một cổng cao tốc trên bộ chuyển mạch. Cổng này có thể bị vô hiệu khi lưu lượng giao thông cao. Trong điều kiện này, một trạm có thể tiếp tục gởi các gói dữ liệu đến cổng đầu vào mặc dù cổng máy chủ bị tắc nghẽn không nhận các gói dữ liệu nữa. Điều này đòi hỏi phải truyền lại và lại gây chậm trễ. Một giải pháp là tăng vùng đệm, nhưng đây là vấn đề thỏa hiệp giữa thời lượng trì hoãn gây ra bởi vùng đệm và thời lượng trì hoãn gây ra bởi việc gởi lại các gói dữ liệu bị bỏ qua. Một phương pháp khác là làm cho cổng đầu ra (quá tải) báo tín hiệu cho cổng đầu vào, và điều này làm cho bên gửi tưởng như xảy ra hiện tượng va chạm CSMA/CD (carrier sense multiple access/collision detection). Kỹ thuật này tạo ra cái gọi là va chạm ảo (virtual collision)."
       },
       {
         "k": "m",
@@ -8222,7 +8222,7 @@
       },
       {
         "k": "m",
-        "t": "Các đường dây Switched-56 dùng kỹ thuật số và phải có thiết bị CSU/DSU (channel service unit/data service unit) để kết nối một mạng với đường dây điện thoại Switched-56. Kết nối Switched-56 điển hình giữa hai mạng LAN được mô tả tên hình S-13. Giao diện giữa bộ định tuyến và CSU/DSU là cáp nối tiếp V.35. Một khi được thiết đặt, các đường dây hoạt động giống như đường dial-out. Với thiết bị thích hợp, các đường dây Switched-56 có thể được gọi tự động để cung cấp băng thông theo yêu cầu."
+        "t": "Các đường dây Switched-56 dùng kỹ thuật số và phải có thiết bị CSU/DSU (channel service unit/data service unit) để kết nối một mạng với đường dây điện thoại Switched-56. Kết nối Switched-56 điển hình giữa hai mạng LAN được mô tả trên hình S-13. Giao diện giữa bộ định tuyến và CSU/DSU là cáp nối tiếp V.35. Một khi được thiết đặt, các đường dây hoạt động giống như đường dial-out. Với thiết bị thích hợp, các đường dây Switched-56 có thể được gọi tự động để cung cấp băng thông theo yêu cầu."
       },
       {"k": "m", "t": "Từ mục liên quan"},
       {

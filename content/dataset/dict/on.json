@@ -4730,7 +4730,7 @@
       {
         "k": "ex",
         "t": "she spent all her waking hours worrying about her job",
-        "vi": "suốt thời gian tỉnh giấc, cô ta cứ lo lăng về công việc của mình."
+        "vi": "suốt thời gian tỉnh giấc, cô ta cứ lo lắng về công việc của mình."
       }
     ],
     "k": "one's waking hours"
@@ -7195,7 +7195,7 @@
   {"h": "online credit", "segs": [{"k": "m", "t": "tín dụng trực tuyến."}], "k": "online credit"},
   {
     "h": "online data base",
-    "segs": [{"k": "m", "t": "cơ sơ dữ liệu trực tuyến."}],
+    "segs": [{"k": "m", "t": "cơ sở dữ liệu trực tuyến."}],
     "k": "online data base"
   },
   {
@@ -7598,7 +7598,7 @@
       {
         "k": "ex",
         "t": "she's the only woman for the job",
-        "vi": "cô ta là người tốt nhất để làm viêc này"
+        "vi": "cô ta là người tốt nhất để làm việc này"
       },
       {"k": "ex", "t": "an only child", "vi": "đứa trẻ không có anh chị em"},
       {"k": "m", "t": "con một"},

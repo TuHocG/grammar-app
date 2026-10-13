@@ -5601,7 +5601,7 @@
   },
   {
     "h": "seating accommodation",
-    "segs": [{"k": "m", "t": "số chố ngồi (toa xe, tàu)."}],
+    "segs": [{"k": "m", "t": "số chỗ ngồi (toa xe, tàu)."}],
     "k": "seating accommodation"
   },
   {
@@ -7275,7 +7275,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "bên B (của hợp đồng)"},
-      {"k": "m", "t": "bên B của hơp đồng"}
+      {"k": "m", "t": "bên B của hợp đồng"}
     ],
     "k": "second party"
   },
@@ -9446,7 +9446,7 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "chất tải lạnh"},
       {"k": "m", "t": "chất làm lạnh thứ cấp"},
-      {"k": "m", "t": "chất tái lạnh"},
+      {"k": "m", "t": "chất tải lạnh"},
       {"k": "m", "t": "môi chất lạnh thứ cấp"}
     ],
     "k": "secondary refrigerant"
@@ -10121,7 +10121,7 @@
   },
   {
     "h": "secondary-electron conduction",
-    "segs": [{"k": "m", "t": "dẫn diện bằng electron thứ cấp."}],
+    "segs": [{"k": "m", "t": "dẫn điện bằng electron thứ cấp."}],
     "k": "secondary-electron conduction"
   },
   {
@@ -11343,7 +11343,7 @@
       {"k": "ex", "t": "sectional jealousies", "vi": "những sự ghen tỵ cục bộ"},
       {"k": "m", "t": "(thuộc) tầng lớp"},
       {"k": "m", "t": "(thuộc) mặt cắt"},
-      {"k": "m", "t": "chia theo mắt cắt"},
+      {"k": "m", "t": "chia theo mặt cắt"},
       {"k": "m", "t": "(thuộc) đoạn."}
     ],
     "ipa": "'sekʃənl",
@@ -15436,7 +15436,7 @@
       {"k": "m", "t": "tính chất đầy hạt, tính chất nhiều hạt"},
       {"k": "m", "t": "tình trạng trông tiều tụy"},
       {"k": "m", "t": "sự làm ô danh"},
-      {"k": "m", "t": "sự xơ xác, sự ũ rũ"},
+      {"k": "m", "t": "sự xơ xác, sự ủ rũ"},
       {"k": "ex", "t": "the seediness of his lodgings", "vi": "vẻ xơ xác của chỗ trọ của anh ta"},
       {"k": "pos", "t": "thành ngữ"},
       {"k": "m", "t": "sự khó ở"},
@@ -17716,7 +17716,7 @@
   },
   {
     "h": "seismic prospecting",
-    "segs": [{"k": "m", "t": "sự thăm đò địa chấn."}],
+    "segs": [{"k": "m", "t": "sự thăm dò địa chấn."}],
     "k": "seismic prospecting"
   },
   {
@@ -21883,7 +21883,7 @@
   },
   {
     "h": "self-centring chuck",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mâm cặp tự đinh tâm"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mâm cặp tự định tâm"}],
     "k": "self-centring chuck"
   },
   {
@@ -25340,7 +25340,7 @@
     "ipa": ",self'hi:l",
     "k": "self-heal"
   },
-  {"h": "self-healing", "segs": [{"k": "m", "t": "tự chứa trị."}], "k": "self-healing"},
+  {"h": "self-healing", "segs": [{"k": "m", "t": "tự chữa trị."}], "k": "self-healing"},
   {
     "h": "self-healing capacitor",
     "segs": [
@@ -32779,7 +32779,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "độc quyền người bán"},
-      {"k": "m", "t": "sự độc quyền cua người bán"},
+      {"k": "m", "t": "sự độc quyền của người bán"},
       {"k": "m", "t": "sự độc quyền của người bán"}
     ],
     "k": "seller's monopoly"
@@ -33733,7 +33733,7 @@
     "h": "Semi log",
     "segs": [
       {"k": "m", "t": "(kinh tế) Phương pháp bán Lôgarit hóa."},
-      {"k": "m", "t": "Phương pháp minh họa những biến số kinh tế có thể thay đôi theo thời gian."}
+      {"k": "m", "t": "Phương pháp minh họa những biến số kinh tế có thể thay đổi theo thời gian."}
     ],
     "k": "semi log"
   },
@@ -42654,7 +42654,7 @@
       {"k": "ex", "t": "to send word to somebody", "vi": "gửi vài chữ cho ai"},
       {"k": "ex", "t": "to send a boy a school", "vi": "cho một em nhỏ đi học"},
       {"k": "m", "t": "cho, ban cho, phù hộ cho, giáng (trời, Thượng Đế...)"},
-      {"k": "ex", "t": "send him victorioussend", "vi": "trời phụ hộ cho nó thắng trận!"},
+      {"k": "ex", "t": "send him victorioussend", "vi": "trời phù hộ cho nó thắng trận!"},
       {"k": "ex", "t": "to send a drought", "vi": "giáng xuống nạn hạn hán"},
       {"k": "m", "t": "bắn ra, làm bốc lên, làm nẩy ra, tỏa ra"},
       {"k": "ex", "t": "to send a ball over the trees", "vi": "đá tung quả bóng qua rặng cây"},
@@ -43213,7 +43213,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Senegal đã từng là thuộc địa của nhiều đế quốc cổ xưa. Trong đó có Gana, Mali và Songhay. Người Tukulor, một trong bảy nhóm dân tộc thiểu số chính của Senegal, đã cải sang đạo Hồi vào thế kỷ 11 nhưng thuyết duy linh còn duy trì rộng rãi cho đến giữa thế kỷ 19. Những nhà hàng hải Bồ Đào Nha đã khám phá ra bờ biển Senegal vào năm 1445. Được người Pháp khai sáng vào thế kỷ 17 nhưng thuộc địa này lại bị tranh chấp bởi người Anh trong những cuộc chiến của Napoleon. Nội địa bị chiếm giữ bởi viên quan toàn quyền L.L.Faidherbe (1854-1861). Năm 1871, chính quyền thuộc địa đã cử đại diện của họ đến quốc hội Pháp. Nó trở thành một nước Tây Phi thuộc Pháp vào năm 1895, Đến năm 1958, nó trở thành Nước cộng hòa tự trị trong cộng đồng Pháp ngữ và là thành viên của Liên đoàn Mali (1959-1960). Dưới sự lãnh đạo của Léopold Sédar Senghor, Senegal giành được độc lập vào năm 1960. Thời gian này, nó tạm thời liên kết với Gambia để trở thành Senegambia (1982-1989). Năm 1980, Abdou Diouf kế vị Senghor với tư cách là Tổng thống. Đến năm 1989, mối quan hệ giữa Senegal và Mauritania trở nên xấu hơn sau vụ thảm sát hàng trăm thường dân Senegal cư ngụ tại Mauritania và trục xuất hàng ngàn người. Cuộc chiến tranh biên giới thực sự kéo dài suốt năm 1990. Đối mặt với sự nổi dậy căng thẳng của các dân tộc thiểu số, Tổng thống Diouf đã kêu gọi liên minh và chia sẻ quyền lực vào năm 1991. Chính sách này đã phần nào vãn hồi được trật tự. Các nghi thức ngoại giao đã được nối lại với Mauritania năm 1992. Cùng lúc đó, tổ chức Casamance được thành lập và đi vào hoạt động tại vùng phía Nam Senegal. Tổng thống Diouf tái đắc cử vào đầu năm 1993. Tổ chức này cũng đã cho tiến hành các vụ bạo loạn nhằm phá hoại cuộc bầu cử. Một năm sau, hiệp định ngừng bắn được ký kết. Cho dù được trợ giúp từ nước Pháp và quỹ tiền tệ quốc tế IMF, nền kinh tế Senegal vẫn tiến dần đền bờ vực phá sản. Tiền tệ trong nước bắt đầu rớt giá vào đầu năm 1994. Hiệp định ngừng bắn cũng bị Casamance đơn phương vi phạm năm 1995 nhưng sau đó đã được phục hồi."
+        "t": "Lịch sử: Senegal đã từng là thuộc địa của nhiều đế quốc cổ xưa. Trong đó có Gana, Mali và Songhay. Người Tukulor, một trong bảy nhóm dân tộc thiểu số chính của Senegal, đã cải sang đạo Hồi vào thế kỷ 11 nhưng thuyết duy linh còn duy trì rộng rãi cho đến giữa thế kỷ 19. Những nhà hàng hải Bồ Đào Nha đã khám phá ra bờ biển Senegal vào năm 1445. Được người Pháp khai sáng vào thế kỷ 17 nhưng thuộc địa này lại bị tranh chấp bởi người Anh trong những cuộc chiến của Napoleon. Nội địa bị chiếm giữ bởi viên quan toàn quyền L.L.Faidherbe (1854-1861). Năm 1871, chính quyền thuộc địa đã cử đại diện của họ đến quốc hội Pháp. Nó trở thành một nước Tây Phi thuộc Pháp vào năm 1895, Đến năm 1958, nó trở thành Nước cộng hòa tự trị trong cộng đồng Pháp ngữ và là thành viên của Liên đoàn Mali (1959-1960). Dưới sự lãnh đạo của Léopold Sédar Senghor, Senegal giành được độc lập vào năm 1960. Thời gian này, nó tạm thời liên kết với Gambia để trở thành Senegambia (1982-1989). Năm 1980, Abdou Diouf kế vị Senghor với tư cách là Tổng thống. Đến năm 1989, mối quan hệ giữa Senegal và Mauritania trở nên xấu hơn sau vụ thảm sát hàng trăm thường dân Senegal cư ngụ tại Mauritania và trục xuất hàng ngàn người. Cuộc chiến tranh biên giới thực sự kéo dài suốt năm 1990. Đối mặt với sự nổi dậy căng thẳng của các dân tộc thiểu số, Tổng thống Diouf đã kêu gọi liên minh và chia sẻ quyền lực vào năm 1991. Chính sách này đã phần nào vãn hồi được trật tự. Các nghi thức ngoại giao đã được nối lại với Mauritania năm 1992. Cùng lúc đó, tổ chức Casamance được thành lập và đi vào hoạt động tại vùng phía Nam Senegal. Tổng thống Diouf tái đắc cử vào đầu năm 1993. Tổ chức này cũng đã cho tiến hành các vụ bạo loạn nhằm phá hoại cuộc bầu cử. Một năm sau, hiệp định ngừng bắn được ký kết. Cho dù được trợ giúp từ nước Pháp và quỹ tiền tệ quốc tế IMF, nền kinh tế Senegal vẫn tiến dần đến bờ vực phá sản. Tiền tệ trong nước bắt đầu rớt giá vào đầu năm 1994. Hiệp định ngừng bắn cũng bị Casamance đơn phương vi phạm năm 1995 nhưng sau đó đã được phục hồi."
       },
       {"k": "m", "t": "Thủ đô: Dakar."},
       {"k": "m", "t": "Diện tích: 196.722 km2"},
@@ -46028,7 +46028,7 @@
     "h": "sententiously",
     "segs": [
       {"k": "pos", "t": "phó từ"},
-      {"k": "m", "t": "lên mặt dạy đời, lên mặt đao đức (người, giọng nói...)"},
+      {"k": "m", "t": "lên mặt dạy đời, lên mặt đạo đức (người, giọng nói...)"},
       {
         "k": "ex",
         "t": "‘He should have thought of the consequences before he acted', she concluded sententiously",

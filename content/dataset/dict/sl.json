@@ -6088,7 +6088,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hiện hình trượt, chiếu slide. Trong đồ họa giới thiệu, đây là một danh sách xác định trước của các đồ thị và biểu đồ sẽ được hiển thị cái này sau cái kia. Một số chương trình có thể tạo ra các hiệu ứng thú vị, như làm mở dần một cảnh màn hình trước khi biểu hiện cái khác. Bạn có thể bổ sung các nút ấn để người dùng có thể thay đổi thứ tự, trong đó các cảnh được biểu hiện lần lượt, nhảy đến một cảnh xác định hoặc ra khỏi sự hiện hình trượt này."
+        "t": "hiện hình trượt, chiếu slide. Trong đồ họa giới thiệu, đây là một danh sách xác định trước của các đồ thị và biểu đồ sẽ được hiển thị cái này sau cái kia. Một số chương trình có thể tạo ra các hiệu ứng thú vị, như làm mờ dần một cảnh màn hình trước khi biểu hiện cái khác. Bạn có thể bổ sung các nút ấn để người dùng có thể thay đổi thứ tự, trong đó các cảnh được biểu hiện lần lượt, nhảy đến một cảnh xác định hoặc ra khỏi sự hiện hình trượt này."
       }
     ],
     "k": "slide show"
@@ -7097,7 +7097,7 @@
       {"k": "m", "t": "mỏng mảnh, thon, gầy, mảnh khảnh, yết ớt"},
       {"k": "ex", "t": "a slight framework", "vi": "một cái khung yếu ớt"},
       {"k": "m", "t": "nhẹ, qua loa, sơ sài"},
-      {"k": "m", "t": "không đang kể, mong manh"},
+      {"k": "m", "t": "không đáng kể, mong manh"},
       {"k": "ex", "t": "to have a slight cold", "vi": "bị cảm nhẹ"},
       {
         "k": "ex",
@@ -8789,7 +8789,7 @@
       {"k": "ex", "t": "to be slippery as an eel", "vi": "lủi như chạch"},
       {"k": "m", "t": "nan giải, khó xử, khó giải quyết (về một tình huống, vấn đề...)"},
       {"k": "pos", "t": "thành ngữ"},
-      {"k": "m", "t": "không tin được, không đáng tinh cậy, quay quắt, láu cá (người)"},
+      {"k": "m", "t": "không tin được, không đáng tin cậy, quay quắt, láu cá (người)"},
       {"k": "ex", "t": "a slippery customer", "vi": "anh chàng láu cá"},
       {
         "k": "ex",

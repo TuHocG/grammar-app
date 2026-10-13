@@ -6176,7 +6176,7 @@
   },
   {
     "h": "electric stimulus",
-    "segs": [{"k": "m", "t": "Kích thich điện."}],
+    "segs": [{"k": "m", "t": "Kích thích điện."}],
     "k": "electric stimulus"
   },
   {
@@ -13742,7 +13742,7 @@
   },
   {
     "h": "electron beam welding",
-    "segs": [{"k": "m", "t": "sự hàn bằng chum tia điện tử."}],
+    "segs": [{"k": "m", "t": "sự hàn bằng chùm tia điện tử."}],
     "k": "electron beam welding"
   },
   {
@@ -14860,7 +14860,7 @@
   },
   {
     "h": "electron-beam amplifier",
-    "segs": [{"k": "m", "t": "bộ khuếch đại dùng chum tia điện tử."}],
+    "segs": [{"k": "m", "t": "bộ khuếch đại dùng chùm tia điện tử."}],
     "k": "electron-beam amplifier"
   },
   {
@@ -17707,9 +17707,9 @@
     "h": "electronic tube rectifier",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "bộ chỉnh lưu đèn diện tử"},
+      {"k": "m", "t": "bộ chỉnh lưu đèn điện tử"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "bộ chỉnh lưu đèn diện tử"}
+      {"k": "m", "t": "bộ chỉnh lưu đèn điện tử"}
     ],
     "k": "electronic tube rectifier"
   },
@@ -17799,7 +17799,7 @@
   },
   {
     "h": "electronic wobblulator",
-    "segs": [{"k": "m", "t": "máy phát tần số dao dộng điện tử."}],
+    "segs": [{"k": "m", "t": "máy phát tần số dao động điện tử."}],
     "k": "electronic wobblulator"
   },
   {
@@ -18414,7 +18414,7 @@
   },
   {
     "h": "electropneumatic machine",
-    "segs": [{"k": "m", "t": "máy truyền dộng bằng điện khí nén."}],
+    "segs": [{"k": "m", "t": "máy truyền động bằng điện khí nén."}],
     "k": "electropneumatic machine"
   },
   {
@@ -19709,10 +19709,10 @@
     "h": "electrothermal energy conversion",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đảo năng lượng nhiêt điện"},
+      {"k": "m", "t": "đảo năng lượng nhiệt điện"},
       {"k": "m", "t": "biến đổi năng lượng điện nhiệt"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "đảo năng lượng nhiêt điện"},
+      {"k": "m", "t": "đảo năng lượng nhiệt điện"},
       {"k": "m", "t": "biến đổi năng lượng điện nhiệt"}
     ],
     "k": "electrothermal energy conversion"
@@ -19827,7 +19827,7 @@
   },
   {
     "h": "electrotonic effect",
-    "segs": [{"k": "m", "t": "Tác dung điện trương lực."}],
+    "segs": [{"k": "m", "t": "Tác dụng điện trương lực."}],
     "k": "electrotonic effect"
   },
   {
@@ -22321,7 +22321,7 @@
   {"h": "elevator scoop", "segs": [{"k": "m", "t": "gầu nâng."}], "k": "elevator scoop"},
   {
     "h": "elevator scraper",
-    "segs": [{"k": "m", "t": "máy nao vét và xúc bốc."}],
+    "segs": [{"k": "m", "t": "máy nạo vét và xúc bốc."}],
     "k": "elevator scraper"
   },
   {

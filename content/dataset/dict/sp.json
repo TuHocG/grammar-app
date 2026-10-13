@@ -1025,7 +1025,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "sự phóng tàu vũ trụ"},
-      {"k": "m", "t": "sự bắng không gian (vào)"}
+      {"k": "m", "t": "sự bắn không gian (vào)"}
     ],
     "k": "space shot"
   },
@@ -4401,7 +4401,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đầu nhọn xung đánh lửa"}],
     "k": "spark head"
   },
-  {"h": "spark ignition", "segs": [{"k": "m", "t": "sự mồi băng tia lửa."}], "k": "spark ignition"},
+  {"h": "spark ignition", "segs": [{"k": "m", "t": "sự mồi bằng tia lửa."}], "k": "spark ignition"},
   {
     "h": "spark ignition angle",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "góc đánh lửa"}],
@@ -8633,7 +8633,7 @@
     "h": "special world interval",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "khoảng thể giới đặc biệt"}
+      {"k": "m", "t": "khoảng thế giới đặc biệt"}
     ],
     "k": "special world interval"
   },
@@ -10203,7 +10203,7 @@
     "h": "specific speed",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "tốc độ dặc trưng (bơm)"},
+      {"k": "m", "t": "tốc độ đặc trưng (bơm)"},
       {"k": "m", "t": "tỷ tốc"},
       {"k": "m", "t": "vận tốc riêng"}
     ],
@@ -13662,7 +13662,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "tốc kế"},
-      {"k": "m", "t": "dụng cụ do tốc độ"}
+      {"k": "m", "t": "dụng cụ đo tốc độ"}
     ],
     "k": "speed meter"
   },
@@ -14760,7 +14760,7 @@
       {
         "k": "ex",
         "t": "This letter that came today spells trouble:",
-        "vi": "Lá thư này đến váo ngày hôm nay là dấu hiệu cho thấy sẽ có rắc rối."
+        "vi": "Lá thư này đến vào ngày hôm nay là dấu hiệu cho thấy sẽ có rắc rối."
       },
       {
         "k": "ex",
@@ -14803,7 +14803,7 @@
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "làm xuất thần, làm mê ly"},
       {"k": "m", "t": "thu hút sự chú ý (do một câu thần chú...)"},
-      {"k": "ex", "t": "a spellbinding performance", "vi": "cuộc biễu diễn mê ly."}
+      {"k": "ex", "t": "a spellbinding performance", "vi": "cuộc biểu diễn mê ly."}
     ],
     "ipa": "'spel,baindiŋ",
     "k": "spellbinding"
@@ -21667,7 +21667,7 @@
   },
   {
     "h": "spiral conveyor",
-    "segs": [{"k": "m", "t": "băng tải kiều guồng xoắn, vít tải."}],
+    "segs": [{"k": "m", "t": "băng tải kiểu guồng xoắn, vít tải."}],
     "k": "spiral conveyor"
   },
   {
@@ -26805,7 +26805,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "(Mỹ) hệ thống mà các chực vị quan trọng được giao cho những người ủng hộ đảng chính trị giành được quyền lực."
+        "t": "(Mỹ) hệ thống mà các chức vị quan trọng được giao cho những người ủng hộ đảng chính trị giành được quyền lực."
       }
     ],
     "ipa": "'spɔils'sistəm",
@@ -27912,7 +27912,7 @@
     "h": "sponson",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "cánh sườn (chỗ nhổ ra ở hai bên sườn tàu)."}
+      {"k": "m", "t": "cánh sườn (chỗ nhô ra ở hai bên sườn tàu)."}
     ],
     "ipa": "'spɔnsɔn",
     "k": "sponson"
@@ -32641,7 +32641,7 @@
       },
       {
         "k": "m",
-        "t": "FCC cấp phát tần số spread spectrum để dùng trong thường mại trong phạm vi từ 902 đến 928 MHz, 2.4000 đến 2.4835 GHz, và 5.725 đến 5.850 GHz."
+        "t": "FCC cấp phát tần số spread spectrum để dùng trong thương mại trong phạm vi từ 902 đến 928 MHz, 2.4000 đến 2.4835 GHz, và 5.725 đến 5.850 GHz."
       },
       {
         "k": "m",
@@ -33700,7 +33700,7 @@
     "h": "spring line",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "đường nối liền hai điềm đối nhau khi cái vòm bắt đầu vươn lên."}
+      {"k": "m", "t": "đường nối liền hai điểm đối nhau khi cái vòm bắt đầu vươn lên."}
     ],
     "k": "spring line"
   },

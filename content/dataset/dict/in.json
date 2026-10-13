@@ -187,7 +187,7 @@
       {
         "k": "ex",
         "t": "When things get busy around here, we get in a bind. We could use another helper:",
-        "vi": "Khi công việc ờ đây bận rộn, chúng tôi bị vướng vào tình huống gay go. Chúng tôi có thể sử dụng một người giúp việc khác."
+        "vi": "Khi công việc ở đây bận rộn, chúng tôi bị vướng vào tình huống gay go. Chúng tôi có thể sử dụng một người giúp việc khác."
       }
     ],
     "k": "in a bind"
@@ -202,7 +202,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "trong một tình huống xấu. (Thông tục. Từ in có thể được thay thế bằng tư into. Xem in a hind và các ví dụ dưới đây.)"
+        "t": "trong một tình huống xấu. (Thông tục. Từ in có thể được thay thế bằng từ into. Xem in a hind và các ví dụ dưới đây.)"
       },
       {
         "k": "ex",
@@ -2920,7 +2920,7 @@
     "segs": [{"k": "m", "t": "khi nhìn lại, khi nhớ lại."}],
     "k": "in retrospect"
   },
-  {"h": "in revolt", "segs": [{"k": "m", "t": "dân chúng đã nội dậy/nổi loạn."}], "k": "in revolt"},
+  {"h": "in revolt", "segs": [{"k": "m", "t": "dân chúng đã nổi dậy/nổi loạn."}], "k": "in revolt"},
   {
     "h": "in rotation",
     "segs": [{"k": "m", "t": "lần lượt, luân phiên, kế tiếp nhau đều đặn."}],
@@ -3240,7 +3240,7 @@
       {"k": "ex", "t": "I'll try to get into her favor:", "vi": "Tôi sẽ cố gắng để được lòng bà."},
       {
         "k": "m",
-        "t": "3. và in favor of someone cho ai, như khí viết chi phiếu (séc). (Cũng xem honor someone's check.)"
+        "t": "3. và in favor of someone cho ai, như khi viết chi phiếu (séc). (Cũng xem honor someone's check.)"
       },
       {
         "k": "ex",
@@ -21935,7 +21935,7 @@
   },
   {
     "h": "indirect database",
-    "segs": [{"k": "m", "t": "cơ sơ dữ liệu gián tiếp."}],
+    "segs": [{"k": "m", "t": "cơ sở dữ liệu gián tiếp."}],
     "k": "indirect database"
   },
   {
@@ -36422,7 +36422,7 @@
       {"k": "m", "t": "Truy cập nhiều nguồn dữ liệu khác nhau để làm giàu kho dữ liệu của bạn."},
       {
         "k": "m",
-        "t": "Biến đổi dữ liệu thành thông tin bằng các công cụ tuyển chọn, tổng kềt và hợp nhất các nguồn dữ liệu lại trước khi đặt nó vào kho dữ liệu."
+        "t": "Biến đổi dữ liệu thành thông tin bằng các công cụ tuyển chọn, tổng kết và hợp nhất các nguồn dữ liệu lại trước khi đặt nó vào kho dữ liệu."
       },
       {"k": "m", "t": "Phân phối thông tin đến các vị trí khác nhau khi cần."},
       {
@@ -36957,7 +36957,7 @@
   },
   {
     "h": "infraorbital nerve",
-    "segs": [{"k": "m", "t": "Dây thần kinh dưởi ổ mắt."}],
+    "segs": [{"k": "m", "t": "Dây thần kinh dưới ổ mắt."}],
     "k": "infraorbital nerve"
   },
   {
@@ -42490,7 +42490,7 @@
         "t": "in saying this, you do her an injustice",
         "vi": "nói ra điều đó tức là anh đã nói oan cho cô ta"
       },
-      {"k": "m", "t": "không làm bộc lộ được tài năng thức sự của ai"},
+      {"k": "m", "t": "không làm bộc lộ được tài năng thực sự của ai"},
       {
         "k": "ex",
         "t": "his latest novel does him an injustice",
@@ -42889,7 +42889,7 @@
     ],
     "k": "inkmouse"
   },
-  {"h": "inkometer", "segs": [{"k": "m", "t": "máy đo dộ nhớt của sơn."}], "k": "inkometer"},
+  {"h": "inkometer", "segs": [{"k": "m", "t": "máy đo độ nhớt của sơn."}], "k": "inkometer"},
   {"h": "inkpad", "segs": [{"k": "ref", "t": "như ink-pad."}], "ipa": "ˈiŋkpæd", "k": "inkpad"},
   {"h": "inkpot", "segs": [{"k": "ref", "t": "như ink-pot."}], "ipa": "ˈiŋkpɔt", "k": "inkpot"},
   {
@@ -56631,7 +56631,7 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "tấm cách âm"},
       {"k": "m", "t": "tấm cách nhiệt"},
-      {"k": "m", "t": "tấm các nhiệt"}
+      {"k": "m", "t": "tấm cách nhiệt"}
     ],
     "k": "insulating slab"
   },
@@ -61579,7 +61579,7 @@
       {
         "k": "ex",
         "t": "to intend something as something",
-        "vi": ") dự kiến cái gì sẽ ra sao hoặc như thề nào"
+        "vi": ") dự kiến cái gì sẽ ra sao hoặc như thế nào"
       },
       {
         "k": "ex",
@@ -69159,7 +69159,7 @@
   },
   {
     "h": "interferometric hologram",
-    "segs": [{"k": "m", "t": "ảnh toàn khí giao thoa."}],
+    "segs": [{"k": "m", "t": "ảnh toàn ký giao thoa."}],
     "k": "interferometric hologram"
   },
   {
@@ -78188,7 +78188,7 @@
       {"k": "m", "t": "(kinh tế) Văn phòng Lao động quốc tế."},
       {
         "k": "m",
-        "t": "Một tổ chức liên chính phủ được thành lập năm 1919 theo hiệp ước Versaille, sau đó trở thanh một cơ quan chuyên môn của Liên Hiệp Quốc vào năm 1946. Tổ chức này mong muốn xúc tiến sự hợp tác quốc tế theo các chính sách được đề ra mhàm mục đích đạt được mục tiêu đủ việc làm, cải thiện điều kiện làm việc, mở rộng bảo hiểm xã hội và nâng cao mức sống nói chung."
+        "t": "Một tổ chức liên chính phủ được thành lập năm 1919 theo hiệp ước Versaille, sau đó trở thành một cơ quan chuyên môn của Liên Hiệp Quốc vào năm 1946. Tổ chức này mong muốn xúc tiến sự hợp tác quốc tế theo các chính sách được đề ra nhằm mục đích đạt được mục tiêu đủ việc làm, cải thiện điều kiện làm việc, mở rộng bảo hiểm xã hội và nâng cao mức sống nói chung."
       }
     ],
     "k": "international labuor office"
@@ -84665,7 +84665,7 @@
   },
   {
     "h": "intertrochanteric ridge",
-    "segs": [{"k": "m", "t": "Mào gian mẩu chuyển."}],
+    "segs": [{"k": "m", "t": "Mào gian mấu chuyển."}],
     "k": "intertrochanteric ridge"
   },
   {
@@ -85498,7 +85498,7 @@
   },
   {
     "h": "intervisible",
-    "segs": [{"k": "m", "t": "có thề nhìn thấy nhau, có thể quan sát lẫn nhau."}],
+    "segs": [{"k": "m", "t": "có thể nhìn thấy nhau, có thể quan sát lẫn nhau."}],
     "k": "intervisible"
   },
   {
@@ -87637,11 +87637,11 @@
       {"k": "m", "t": "Thư viện dành cho tiếp thị, kỹ thuật và các loại thông tin khác."},
       {
         "k": "m",
-        "t": "Microsoft, Netscape, và các nhà cung cấp khác có các sản phẩm rất hấp dẫn được thiết kế trên cơ sở tận dụng lợi ích của intranet. Ví dụ, hai ứng dụng cộng tác là NetMeeting và NetShow: NetMeeting cho phép các người dùng intranet và internet làm việc với nhau trên mạng qua một ứng dụng chung. NetShow cho phép thiết lập một hội thảo điện tử. Xem phần \"Coolaborative Computing\" và \"Groupware\" để có thêm thông tin."
+        "t": "Microsoft, Netscape, và các nhà cung cấp khác có các sản phẩm rất hấp dẫn được thiết kế trên cơ sở tận dụng lợi ích của intranet. Ví dụ, hai ứng dụng cộng tác là NetMeeting và NetShow: NetMeeting cho phép các người dùng intranet và internet làm việc với nhau trên mạng qua một ứng dụng chung. NetShow cho phép thiết lập một hội thảo điện tử. Xem phần \"Collaborative Computing\" và \"Groupware\" để có thêm thông tin."
       },
       {
         "k": "m",
-        "t": "Cũng có các bộ sản phẩm cung cấp các dịch vụ intranet từ server. Ví dụ như Netscape's SuiteSpot, bao gồm một Web server tiêu chuẩn, mail server, news server, catalog server, directory server, certificate server và một proxy server. Netscape cũng có một môi trường phát triển Web hoàn chỉnh được gọi là ONE (Open Network Environment). Xem phần \"Netscape\", \"Netscape ONE Development Environment\" và \"Netscape SuiteSpot\". Các môi trướng tương tự được bàn đến trong các mục \"IBM Network Computing Framework\", \"Microsoft BackOffice\" and \"Novell IntranetWare\"."
+        "t": "Cũng có các bộ sản phẩm cung cấp các dịch vụ intranet từ server. Ví dụ như Netscape's SuiteSpot, bao gồm một Web server tiêu chuẩn, mail server, news server, catalog server, directory server, certificate server và một proxy server. Netscape cũng có một môi trường phát triển Web hoàn chỉnh được gọi là ONE (Open Network Environment). Xem phần \"Netscape\", \"Netscape ONE Development Environment\" và \"Netscape SuiteSpot\". Các môi trường tương tự được bàn đến trong các mục \"IBM Network Computing Framework\", \"Microsoft BackOffice\" and \"Novell IntranetWare\"."
       },
       {
         "k": "m",
@@ -88196,7 +88196,7 @@
   {"h": "intratympanic", "segs": [{"k": "m", "t": "Trong hòm nhĩ."}], "k": "intratympanic"},
   {
     "h": "intraurban recreational resources",
-    "segs": [{"k": "m", "t": "tài nguyên giải trì nội thành."}],
+    "segs": [{"k": "m", "t": "tài nguyên giải trí nội thành."}],
     "k": "intraurban recreational resources"
   },
   {"h": "intraureteral", "segs": [{"k": "m", "t": "trong niệu quản."}], "k": "intraureteral"},
@@ -92086,7 +92086,7 @@
   },
   {
     "h": "inversion of variables",
-    "segs": [{"k": "m", "t": "phép nghịch đảo các biển số."}],
+    "segs": [{"k": "m", "t": "phép nghịch đảo các biến số."}],
     "k": "inversion of variables"
   },
   {
@@ -95553,7 +95553,7 @@
     "ipa": "'inwəd",
     "k": "inward"
   },
-  {"h": "inward B/L", "segs": [{"k": "m", "t": "vận đơn háng nhập."}], "k": "inward b/l"},
+  {"h": "inward B/L", "segs": [{"k": "m", "t": "vận đơn hàng nhập."}], "k": "inward b/l"},
   {"h": "inward cargo", "segs": [{"k": "m", "t": "hàng nhập."}], "k": "inward cargo"},
   {"h": "inward charges", "segs": [{"k": "m", "t": "phí tới cảng."}], "k": "inward charges"},
   {

@@ -3878,7 +3878,7 @@
       {"k": "m", "t": "tổ chức, mở, thết (một buổi dạ hội...)"},
       {"k": "m", "t": "biểu diễn, diễn (kịch), đóng (một vai tuồng)"},
       {"k": "m", "t": "hát dạo (một bản nhạc...), ngâm (một bài thơ...)"},
-      {"k": "ex", "t": "to give a concert", "vi": "tổ chực một buổi hòa nhạc"},
+      {"k": "ex", "t": "to give a concert", "vi": "tổ chức một buổi hòa nhạc"},
       {"k": "ex", "t": "to give a banquet", "vi": "mở tiệc, thết tiệc"},
       {"k": "ex", "t": "to give a song", "vi": "hát một bài"},
       {
@@ -4146,7 +4146,7 @@
       {
         "k": "ex",
         "t": "If you want to have more friends, you have to learn to give of yourself:",
-        "vi": "Nếu anh muốn có thên bạn, anh phải học cách rộng lượng không tiếc thời gian và sự quan tâm của mình."
+        "vi": "Nếu anh muốn có thêm bạn, anh phải học cách rộng lượng không tiếc thời gian và sự quan tâm của mình."
       }
     ],
     "k": "give of oneself"

@@ -2074,7 +2074,7 @@
   },
   {
     "h": "air curtain cabinet",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tủ co màn gió"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tủ có màn gió"}],
     "k": "air curtain cabinet"
   },
   {
@@ -4377,7 +4377,7 @@
     "segs": [{"k": "m", "t": "kính lục phân dùng trên máy bay."}],
     "k": "air sextant"
   },
-  {"h": "air sheave", "segs": [{"k": "m", "t": "nhà đề máy bay."}], "k": "air sheave"},
+  {"h": "air sheave", "segs": [{"k": "m", "t": "nhà để máy bay."}], "k": "air sheave"},
   {
     "h": "air shed",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chất lắng từ không khí"}],

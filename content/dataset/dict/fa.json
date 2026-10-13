@@ -2832,7 +2832,7 @@
   },
   {
     "h": "facies costalis scapulae",
-    "segs": [{"k": "m", "t": "Diện sườn cua xương bả vai."}],
+    "segs": [{"k": "m", "t": "Diện sườn của xương bả vai."}],
     "k": "facies costalis scapulae"
   },
   {
@@ -5397,7 +5397,7 @@
   },
   {
     "h": "facultative aerobe",
-    "segs": [{"k": "m", "t": "Vi khuẩn ứa khí không bắt buộc."}],
+    "segs": [{"k": "m", "t": "Vi khuẩn ưa khí không bắt buộc."}],
     "k": "facultative aerobe"
   },
   {
@@ -13771,7 +13771,7 @@
   },
   {
     "h": "fan-shaped courses",
-    "segs": [{"k": "m", "t": "các hường đi tỏa ra hình nan quạt."}],
+    "segs": [{"k": "m", "t": "các hướng đi tỏa ra hình nan quạt."}],
     "k": "fan-shaped courses"
   },
   {
@@ -14469,7 +14469,7 @@
   },
   {
     "h": "fancy-bezaar",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hiệu bán đồ xa xí phẩm."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "hiệu bán đồ xa xỉ phẩm."}],
     "k": "fancy-bezaar"
   },
   {
@@ -15401,7 +15401,7 @@
       {
         "k": "ex",
         "t": "the rise in interest rates will be disastrous as far as small firms are concerned",
-        "vi": "việc nâng lãi suất sẽ tai hại đồi với các hãng nhỏ"
+        "vi": "việc nâng lãi suất sẽ tai hại đối với các hãng nhỏ"
       },
       {
         "k": "ex",
@@ -18869,7 +18869,7 @@
       {"k": "m", "t": "Ethernet Cao Tốc"},
       {
         "k": "m",
-        "t": "Fast Ethernet là kỹ thuật CSMA/CD truyền thống (carrier sense multiple access/collision detection) với tốc độ 100Mbit/giây trên cáp xoắn đôi. Tốc độc truyền dữ liệu của Ethernet cổ điển là 10Mbit/giây. Trong suốt thời kỳ đầu phát triển Fast Ethernet, hai nhóm nghiên cứu đưa ra đề nghị về các tiêu chuẩn và cuối cùng cả hai đều được tán thành, nhưng với các ủy ban IEEE (Institute of Electrical and Electric Engineers) khác nhau. Một tiêu chuẩn, ban đầu được phát triển bởi Grand Junction Networks, 3Com, Intel và các nhà cung cấp khác, sau trở thành chuẩn IEEE 802.3 Fast Ethernet."
+        "t": "Fast Ethernet là kỹ thuật CSMA/CD truyền thống (carrier sense multiple access/collision detection) với tốc độ 100Mbit/giây trên cáp xoắn đôi. Tốc độ truyền dữ liệu của Ethernet cổ điển là 10Mbit/giây. Trong suốt thời kỳ đầu phát triển Fast Ethernet, hai nhóm nghiên cứu đưa ra đề nghị về các tiêu chuẩn và cuối cùng cả hai đều được tán thành, nhưng với các ủy ban IEEE (Institute of Electrical and Electric Engineers) khác nhau. Một tiêu chuẩn, ban đầu được phát triển bởi Grand Junction Networks, 3Com, Intel và các nhà cung cấp khác, sau trở thành chuẩn IEEE 802.3 Fast Ethernet."
       },
       {
         "k": "m",
@@ -18916,7 +18916,7 @@
       },
       {
         "k": "m",
-        "t": "Khoảng cách cực đại giữa hai hệ thống đầu cuối khoảng 200 đến 250 mét (tùy theo phấn cứng và cấu hình). Khoảng cách cực đại giữa hub và hệ thống cuối là 100 mét. Xem hình F-2. Để khai thác ưu điểm của đường kính cực đại của mạng, có thể nối hai hub với nhau. Trong khi khoảng cách này có vẻ bị hạn chế so với Ethernet 10Mbit/s, ngày nay đa số các mạng được xây dựng với các đường trục và đi dây phân cấp, đặt các thiết bị chuyển mạch trong phòng cáp rất gần với hệ thống đầu cuối."
+        "t": "Khoảng cách cực đại giữa hai hệ thống đầu cuối khoảng 200 đến 250 mét (tùy theo phần cứng và cấu hình). Khoảng cách cực đại giữa hub và hệ thống cuối là 100 mét. Xem hình F-2. Để khai thác ưu điểm của đường kính cực đại của mạng, có thể nối hai hub với nhau. Trong khi khoảng cách này có vẻ bị hạn chế so với Ethernet 10Mbit/s, ngày nay đa số các mạng được xây dựng với các đường trục và đi dây phân cấp, đặt các thiết bị chuyển mạch trong phòng cáp rất gần với hệ thống đầu cuối."
       },
       {"k": "m", "t": "Hình F-2 Giới hạn về khoảng cách của cáp xoắn cặp 100Base-T"},
       {
@@ -19378,7 +19378,7 @@
       },
       {
         "k": "m",
-        "t": "Đa số các thiết bị viễn thông hiện đại được xây dựng cho môi trường tin cậy cao như cáp quang và không cần phải kiểm tra lỗi. Việc kiểm tra lỗi trong X.25 (là dịch vụ chuyển mạch gói chậm) được cài đặt để thích ngi với đường dây điện thoại kém tin cậy, hiện nay vẫn đang chiếm ưu thế ở một số nước."
+        "t": "Đa số các thiết bị viễn thông hiện đại được xây dựng cho môi trường tin cậy cao như cáp quang và không cần phải kiểm tra lỗi. Việc kiểm tra lỗi trong X.25 (là dịch vụ chuyển mạch gói chậm) được cài đặt để thích nghi với đường dây điện thoại kém tin cậy, hiện nay vẫn đang chiếm ưu thế ở một số nước."
       }
     ],
     "k": "fast packet switching"
@@ -20114,7 +20114,7 @@
       {
         "k": "ex",
         "t": "to fasten one's thoughts on something",
-        "vi": "tập tung tư tưởng vào cái gì"
+        "vi": "tập trung tư tưởng vào cái gì"
       },
       {"k": "ex", "t": "to fasten one's attention on something", "vi": "chăm chú vào việc gì"},
       {"k": "m", "t": "(+"},
@@ -21919,7 +21919,7 @@
   },
   {
     "h": "fatigue nystagmus",
-    "segs": [{"k": "m", "t": "Rung giật nhản cầu mệt mỏi."}],
+    "segs": [{"k": "m", "t": "Rung giật nhãn cầu mệt mỏi."}],
     "k": "fatigue nystagmus"
   },
   {

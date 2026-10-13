@@ -4900,7 +4900,7 @@
   },
   {
     "h": "authorian",
-    "segs": [{"k": "m", "t": "(tt) (xấu) Độc đoán (dt) Người đôc đoán."}],
+    "segs": [{"k": "m", "t": "(tt) (xấu) Độc đoán (dt) Người độc đoán."}],
     "ipa": "ɔ:θoriən",
     "k": "authorian"
   },
@@ -8420,7 +8420,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "bộ điều chỉnh tự động"},
-      {"k": "m", "t": "bộ diều chỉnh tự động"}
+      {"k": "m", "t": "bộ điều chỉnh tự động"}
     ],
     "k": "automatic adjuster"
   },
@@ -10322,7 +10322,7 @@
   },
   {
     "h": "Automatic programmed tools",
-    "segs": [{"k": "m", "t": "(APT) những dụng cụ được chương tình tự động."}],
+    "segs": [{"k": "m", "t": "(APT) những dụng cụ được chương trình tự động."}],
     "k": "automatic programmed tools"
   },
   {

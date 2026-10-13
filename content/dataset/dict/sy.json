@@ -1426,7 +1426,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nhóm đối xứng. Xét tập hợp (1, 2,..., n(. Tập hợp tất cả các phép thế bậc n lập thành một nhóm đối với phép nhân các phép thế (là sự thực hiện liên tiếp các phép thế), được ký hiệu là Sn và gọi là nhóm đối xứng bậc n. Nhóm này có cấp n! (gồm n! phân tử). Tổng quát, giả sử E là một tập hợp đã cho. Nhóm đối xứng của tập E, ký hiệu là S (E) gồm tập hợp tất cả các hoán vị thực hiện trên E với luật hợp thành các ánh xạ."
+        "t": "nhóm đối xứng. Xét tập hợp (1, 2,..., n(. Tập hợp tất cả các phép thế bậc n lập thành một nhóm đối với phép nhân các phép thế (là sự thực hiện liên tiếp các phép thế), được ký hiệu là Sn và gọi là nhóm đối xứng bậc n. Nhóm này có cấp n! (gồm n! phần tử). Tổng quát, giả sử E là một tập hợp đã cho. Nhóm đối xứng của tập E, ký hiệu là S (E) gồm tập hợp tất cả các hoán vị thực hiện trên E với luật hợp thành các ánh xạ."
       }
     ],
     "k": "symmetric group"
@@ -2400,7 +2400,7 @@
   },
   {
     "h": "sympathogonioma",
-    "segs": [{"k": "m", "t": "U phôi bào thần kinh gỉao cảm."}],
+    "segs": [{"k": "m", "t": "U phôi bào thần kinh giao cảm."}],
     "k": "sympathogonioma"
   },
   {
@@ -3241,7 +3241,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "bộ tách đồng bộ"}],
     "k": "sync separator"
   },
-  {"h": "sync signal", "segs": [{"k": "m", "t": "tín hiệu đống bộ hóa."}], "k": "sync signal"},
+  {"h": "sync signal", "segs": [{"k": "m", "t": "tín hiệu đồng bộ hóa."}], "k": "sync signal"},
   {
     "h": "sync sound",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "âm đồng bộ"}],
@@ -6031,7 +6031,7 @@
   },
   {
     "h": "synoptic oceanography",
-    "segs": [{"k": "m", "t": "hải đương học thời tiết."}],
+    "segs": [{"k": "m", "t": "hải dương học thời tiết."}],
     "k": "synoptic oceanography"
   },
   {

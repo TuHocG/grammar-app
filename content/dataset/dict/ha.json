@@ -1382,7 +1382,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(A-đa-ma, 1865-1963) ngành toán học Pháp, viện sĩ thông tấn nước ngoài (1922) và viện sĩ danh dự nước ngoài (1929) Viện hàn lâm khoa học Liên Xô, viện sĩ Viện hàn lâm khoa học Paris (1912). Ông nổi tiếng về những công trình nghiên cứu trong những lĩnh vực khác nhau của toán học, Ông hoạt đông nhiều về những vấn đề giảng dạy ở trường học và đã viết một giáo trình hình học."
+        "t": "(A-đa-ma, 1865-1963) nhà toán học Pháp, viện sĩ thông tấn nước ngoài (1922) và viện sĩ danh dự nước ngoài (1929) Viện hàn lâm khoa học Liên Xô, viện sĩ Viện hàn lâm khoa học Paris (1912). Ông nổi tiếng về những công trình nghiên cứu trong những lĩnh vực khác nhau của toán học, Ông hoạt động nhiều về những vấn đề giảng dạy ở trường học và đã viết một giáo trình hình học."
       }
     ],
     "k": "hadamard jacques salomom"
@@ -2037,7 +2037,7 @@
   {"h": "Haemothorax", "segs": [{"k": "m", "t": "tràn máu màng phổi."}], "k": "haemothorax"},
   {
     "h": "Haemozoin",
-    "segs": [{"k": "m", "t": "sắc tố co chứa sắt, ở các sinh vật gây bệnh sốt rét."}],
+    "segs": [{"k": "m", "t": "sắc tố có chứa sắt, ở các sinh vật gây bệnh sốt rét."}],
     "k": "haemozoin"
   },
   {
@@ -3897,7 +3897,7 @@
       {"k": "m", "t": "nước ở vùng Ca-ri-bê, chiếm 1/3 phía Tây hòn đảo Hispaniola."},
       {
         "k": "m",
-        "t": "Địa hình: Haiti có ba dãy núi chính. Đa số là rừng, nhưng các thung lũng rất thích hợp ho việc canh nông."
+        "t": "Địa hình: Haiti có ba dãy núi chính. Đa số là rừng, nhưng các thung lũng rất thích hợp cho việc canh nông."
       },
       {"k": "m", "t": "Kinh tế: mặt hàng xuất khẩu quan trọng nhất là cà phê, bốc xít."},
       {
@@ -4399,7 +4399,7 @@
       {
         "k": "ex",
         "t": "her house is half a mile down the road",
-        "vi": "nhà ba ta ở phía cuối đường cách đây nửa dặm"
+        "vi": "nhà bà ta ở phía cuối đường cách đây nửa dặm"
       },
       {"k": "ex", "t": "half the men", "vi": "nửa số người"},
       {"k": "ex", "t": "half an hour/a half-hour", "vi": "nửa giờ/nửa tiếng đồng hồ"},
@@ -4547,7 +4547,7 @@
     "h": "half beak",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "loại cá biển hoặc cá nước ngọt nhỏ (hàm dưới dài trể xuống)."}
+      {"k": "m", "t": "loại cá biển hoặc cá nước ngọt nhỏ (hàm dưới dài trễ xuống)."}
     ],
     "k": "half beak"
   },
@@ -9713,7 +9713,7 @@
     "h": "halftime",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(thể thao) giờ giải lao lúc hết hiệp một (trong bón đá)."}
+      {"k": "m", "t": "(thể thao) giờ giải lao lúc hết hiệp một (trong bóng đá)."}
     ],
     "ipa": "'ha:ftaim",
     "k": "halftime"
@@ -12051,7 +12051,7 @@
   {
     "h": "hammer drill stoper",
     "segs": [
-      {"k": "m", "t": "máy khoan đập có cột đỡ kiều ống lồng; máy khoan ngược trên kích thủy lực."}
+      {"k": "m", "t": "máy khoan đập có cột đỡ kiểu ống lồng; máy khoan ngược trên kích thủy lực."}
     ],
     "k": "hammer drill stoper"
   },
@@ -13528,7 +13528,7 @@
   {"h": "hand clap", "segs": [{"k": "m", "t": "(dt) Tiếng /sự vỗ tay."}], "k": "hand clap"},
   {
     "h": "hand cleaning",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tuyển chọn băng tay"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tuyển chọn bằng tay"}],
     "k": "hand cleaning"
   },
   {

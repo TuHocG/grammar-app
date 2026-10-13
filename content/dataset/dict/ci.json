@@ -2980,7 +2980,7 @@
   },
   {
     "h": "circuit conditioning",
-    "segs": [{"k": "m", "t": "sự diều phối mạch."}],
+    "segs": [{"k": "m", "t": "sự điều phối mạch."}],
     "k": "circuit conditioning"
   },
   {
@@ -6528,7 +6528,7 @@
       {"k": "m", "t": "Công ty Cisco Systems"},
       {
         "k": "m",
-        "t": "Cisco Systems là một nhà cung cấp các giải pháp phần cứng và phần mềm mạng tương tác cho các Intranet liên hợp và mạng Internet. Thật không quá đáng khi nói rằng các thiết bị của Cisco Systems là một phần cơ sở hạ tầng của phần lớn công ty ở Hoa Kỳ và trên toàn thế giới. Tùy thuộc vào từng công ty, 80 % bộ định tuyến (router) của mạng xương sống là thiềt bị của Cisco Systems."
+        "t": "Cisco Systems là một nhà cung cấp các giải pháp phần cứng và phần mềm mạng tương tác cho các Intranet liên hợp và mạng Internet. Thật không quá đáng khi nói rằng các thiết bị của Cisco Systems là một phần cơ sở hạ tầng của phần lớn công ty ở Hoa Kỳ và trên toàn thế giới. Tùy thuộc vào từng công ty, 80 % bộ định tuyến (router) của mạng xương sống là thiết bị của Cisco Systems."
       },
       {
         "k": "m",

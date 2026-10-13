@@ -748,7 +748,7 @@
       {
         "k": "ex",
         "t": "attempts to save something from the wreckage of his political career",
-        "vi": "những cố gắng nhằm vớt vát chút gì cón lại từ sự nghiệp chính trị đã tan vỡ của ông ta."
+        "vi": "những cố gắng nhằm vớt vát chút gì còn lại từ sự nghiệp chính trị đã tan vỡ của ông ta."
       }
     ],
     "ipa": "'rekidʒ",
@@ -835,7 +835,7 @@
   },
   {
     "h": "wrecking hose",
-    "segs": [{"k": "m", "t": "vòi hút nước khỏi tàu bi nạn."}],
+    "segs": [{"k": "m", "t": "vòi hút nước khỏi tàu bị nạn."}],
     "k": "wrecking hose"
   },
   {
@@ -1410,7 +1410,7 @@
   {"h": "wrinkled-seeded", "segs": [{"k": "m", "t": "đậu sọ."}], "k": "wrinkled-seeded"},
   {
     "h": "wrinkles and lines",
-    "segs": [{"k": "m", "t": "những vềt nhăn."}],
+    "segs": [{"k": "m", "t": "những vết nhăn."}],
     "k": "wrinkles and lines"
   },
   {
@@ -3448,7 +3448,7 @@
       {
         "k": "ex",
         "t": "a wry glance/grin/smile",
-        "vi": "cái liếc nhìn nhăn nhở/nụ cười nhăn nhó/nụ cười gương gạo"
+        "vi": "cái liếc nhìn nhăn nhở/nụ cười nhăn nhó/nụ cười gượng gạo"
       },
       {"k": "m", "t": "hài hước một cách châm biếm"},
       {"k": "m", "t": "có vẻ chế giễu."}

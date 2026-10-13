@@ -1542,7 +1542,7 @@
   {"h": "guarding robot", "segs": [{"k": "m", "t": "người máy canh gác."}], "k": "guarding robot"},
   {
     "h": "guardless",
-    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "không dược bảo vệ."}],
+    "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "không được bảo vệ."}],
     "ipa": "'ga:dlis",
     "k": "guardless"
   },
@@ -7190,7 +7190,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "xét nghiệm máu lấy tứ một vết đâm ở gót chân đề loài trừ sự hiện diện của phenylke ton- niệu."
+        "t": "xét nghiệm máu lấy từ một vết đâm ở gót chân để loại trừ sự hiện diện của phenylke ton- niệu."
       }
     ],
     "k": "guthric test"

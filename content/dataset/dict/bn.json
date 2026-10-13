@@ -20,7 +20,7 @@
       {"k": "m", "t": "Đầu nối BNC"},
       {
         "k": "m",
-        "t": "Các đầu nối BNC dùng để kềt nối, mở rộng hay giới hạn các mạng cáp đồng trục như Ethernet hay ARCNET. BNC có nhiều loại đầu nối khác nhau như đầu nối hình chữ T (BNC T-connector), đầu nối thùng tròn (BNC barrel connector) và đầu cuối (BNC terminator)."
+        "t": "Các đầu nối BNC dùng để kết nối, mở rộng hay giới hạn các mạng cáp đồng trục như Ethernet hay ARCNET. BNC có nhiều loại đầu nối khác nhau như đầu nối hình chữ T (BNC T-connector), đầu nối thùng tròn (BNC barrel connector) và đầu cuối (BNC terminator)."
       },
       {
         "k": "m",

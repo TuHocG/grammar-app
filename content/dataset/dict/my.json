@@ -784,7 +784,7 @@
   {
     "h": "myelogenesis",
     "segs": [
-      {"k": "m", "t": "1. (sự) phát triền hệ thần kinh"},
+      {"k": "m", "t": "1. (sự) phát triển hệ thần kinh"},
       {"k": "m", "t": "2. (sự) tạo miêlin quanh trụ trục."}
     ],
     "k": "myelogenesis"
@@ -1035,7 +1035,7 @@
     "segs": [{"k": "m", "t": "Đám rối thần kinh cơ ruột."}],
     "k": "myenteric plexus"
   },
-  {"h": "myenteric refiex", "segs": [{"k": "m", "t": "phản xa cơ ruột."}], "k": "myenteric refiex"},
+  {"h": "myenteric refiex", "segs": [{"k": "m", "t": "phản xạ cơ ruột."}], "k": "myenteric refiex"},
   {
     "h": "myenteric reflex",
     "segs": [{"k": "m", "t": "phản xạ áo cơ ruột."}],

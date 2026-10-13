@@ -2437,7 +2437,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "dt. = CLAMP1.; dt 2. - whealer từ kh. số lượng bánh xe của một chiềc xe (three-wheeler xe ba bánh)."
+        "t": "dt. = CLAMP1.; dt 2. - whealer từ kh. số lượng bánh xe của một chiếc xe (three-wheeler xe ba bánh)."
       }
     ],
     "k": "wheel-clam"
@@ -3783,7 +3783,7 @@
       {
         "k": "ex",
         "t": "whether they win or lose is all the same to me",
-        "vi": "đối với tôi, họ thắng hay bại thì cũng như nhau thôi (đối với tôi, họ thắng hay bại cũng chắng có nghĩa gì)"
+        "vi": "đối với tôi, họ thắng hay bại thì cũng như nhau thôi (đối với tôi, họ thắng hay bại cũng chẳng có nghĩa gì)"
       },
       {"k": "ex", "t": "whether or not", "vi": "dù... hay không"},
       {
@@ -4984,7 +4984,7 @@
   },
   {
     "h": "whiplash injury",
-    "segs": [{"k": "m", "t": "dt. sự chấn thương ờ cổ."}],
+    "segs": [{"k": "m", "t": "dt. sự chấn thương ở cổ."}],
     "k": "whiplash injury"
   },
   {

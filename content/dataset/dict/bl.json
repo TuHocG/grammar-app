@@ -2852,7 +2852,7 @@
   },
   {
     "h": "bladder fern",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "cây đương xỉ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "cây dương xỉ."}],
     "ipa": "'blæk'fə:n",
     "k": "bladder fern"
   },
@@ -3084,7 +3084,7 @@
   },
   {
     "h": "blade lift control",
-    "segs": [{"k": "m", "t": "bộ điều kiển cần mang lưỡi."}],
+    "segs": [{"k": "m", "t": "bộ điều khiển cần mang lưỡi."}],
     "k": "blade lift control"
   },
   {
@@ -9861,7 +9861,7 @@
   {"h": "block search", "segs": [{"k": "m", "t": "(kỹ thuật) tìm khối."}], "k": "block search"},
   {
     "h": "block section",
-    "segs": [{"k": "m", "t": "hạt, vùng (đơn vị quán lý cầu đường)."}],
+    "segs": [{"k": "m", "t": "hạt, vùng (đơn vị quản lý cầu đường)."}],
     "k": "block section"
   },
   {
@@ -12519,7 +12519,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "sự nổi bọt"},
-      {"k": "m", "t": "sự phông rộp"},
+      {"k": "m", "t": "sự phồng rộp"},
       {"k": "m", "t": "phóng đại vi phim"}
     ],
     "k": "blow back"

@@ -545,7 +545,7 @@
     "k": "lymphadenovarix"
   },
   {"h": "lymphagogue", "segs": [{"k": "m", "t": "Lợi bạch huyết."}], "k": "lymphagogue"},
-  {"h": "lymphangeitis", "segs": [{"k": "m", "t": "Viêm mạch bạc huyết."}], "k": "lymphangeitis"},
+  {"h": "lymphangeitis", "segs": [{"k": "m", "t": "Viêm mạch bạch huyết."}], "k": "lymphangeitis"},
   {
     "h": "lymphangi-",
     "segs": [{"k": "m", "t": "(lymphangio-) prefix. chỉ một mạch bạch huyết."}],

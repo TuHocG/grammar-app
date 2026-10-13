@@ -7225,7 +7225,7 @@
   {"h": "graphic picture", "segs": [{"k": "m", "t": "hình đồ họa."}], "k": "graphic picture"},
   {
     "h": "graphic position finding",
-    "segs": [{"k": "m", "t": "sự xác định vi trí bằng phương pháp đồ thị."}],
+    "segs": [{"k": "m", "t": "sự xác định vị trí bằng phương pháp đồ thị."}],
     "k": "graphic position finding"
   },
   {
@@ -7639,7 +7639,7 @@
   },
   {
     "h": "graphics adapter",
-    "segs": [{"k": "m", "t": "bộ thích ứng đồ họa, bộ tượng hợp đồ họa."}],
+    "segs": [{"k": "m", "t": "bộ thích ứng đồ họa, bộ tương hợp đồ họa."}],
     "k": "graphics adapter"
   },
   {
@@ -8874,7 +8874,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Grát-xman, 1809-1877) nhà toán học Đức, nghiên cứu vật lý học và ngữ văn học, viện sĩ thông tấn Viện hàn lâm khoa học Go**ttingen. Từ năm 1842, ông công tác tại trường trung học cổ điển Stettin. Ông đã nêu lên cách xây dựng đầu tiên có hệ thống của học thuyết về không gian Euclide nhiều chiều, tạo diều kiện phát triển phép tính vectơ và tenxơ. Tuy nhiên, do cách trình bày trừu tượng và thuật ngữ xa lạ nên tác phẩm khó tiếp thu được. Trong lĩnh vực vật lý hoc, Grassmann có những công trình về âm học và tương tác từ các dòng điện. Những tư tưởng chung về Grassmann về các không gian vectơ trừu tượng đã dẫn dắt ông đến một phát hiện quan trọng làm cơ sở cho học thuyết hiện đại về màu sắc: đó là khả năng xem những cảm giác màu sắc như là những vectơ ba chiều. Ông đã thiết lập (1853) những định luật cộng màu sắc. Grassmann đã biên soạn (1875) một bộ từ điển đầy đủ các thánh ca của đạo Bà la môn (để kỷ niệm nền văn hóa cổ Ấn Độ)."
+        "t": "(Grát-xman, 1809-1877) nhà toán học Đức, nghiên cứu vật lý học và ngữ văn học, viện sĩ thông tấn Viện hàn lâm khoa học Go**ttingen. Từ năm 1842, ông công tác tại trường trung học cổ điển Stettin. Ông đã nêu lên cách xây dựng đầu tiên có hệ thống của học thuyết về không gian Euclide nhiều chiều, tạo điều kiện phát triển phép tính vectơ và tenxơ. Tuy nhiên, do cách trình bày trừu tượng và thuật ngữ xa lạ nên tác phẩm khó tiếp thu được. Trong lĩnh vực vật lý học, Grassmann có những công trình về âm học và tương tác từ các dòng điện. Những tư tưởng chung về Grassmann về các không gian vectơ trừu tượng đã dẫn dắt ông đến một phát hiện quan trọng làm cơ sở cho học thuyết hiện đại về màu sắc: đó là khả năng xem những cảm giác màu sắc như là những vectơ ba chiều. Ông đã thiết lập (1853) những định luật cộng màu sắc. Grassmann đã biên soạn (1875) một bộ từ điển đầy đủ các thánh ca của đạo Bà la môn (để kỷ niệm nền văn hóa cổ Ấn Độ)."
       }
     ],
     "k": "grassmann hermann"
@@ -12241,7 +12241,7 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "ống bơm mỡ"},
       {"k": "m", "t": "vòi bơm mỡ"},
-      {"k": "m", "t": "đầu tra mở"},
+      {"k": "m", "t": "đầu tra mỡ"},
       {"k": "m", "t": "khớp để bôi trơn"},
       {"k": "m", "t": "núm bơm mỡ (vào máy)"}
     ],
@@ -12820,7 +12820,7 @@
   },
   {
     "h": "great auricular nerve",
-    "segs": [{"k": "m", "t": "Dây thần tai to, nhánh tai của đám rồi cổ nông."}],
+    "segs": [{"k": "m", "t": "Dây thần kinh tai to, nhánh tai của đám rối cổ nông."}],
     "k": "great auricular nerve"
   },
   {
@@ -19363,7 +19363,7 @@
   },
   {
     "h": "gripper-mounted sensor",
-    "segs": [{"k": "m", "t": "cảm bịến được gắn trên bàn kẹp."}],
+    "segs": [{"k": "m", "t": "cảm biến được gắn trên bàn kẹp."}],
     "k": "gripper-mounted sensor"
   },
   {
@@ -19521,7 +19521,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "kháng sinh dùng uống đề chữa các bệnh nhiễm nấm ở lông, tóc, da và móng tay."
+        "t": "kháng sinh dùng uống để chữa các bệnh nhiễm nấm ở lông, tóc, da và móng tay."
       }
     ],
     "k": "griseofulvin"
@@ -25354,7 +25354,7 @@
       {"k": "m", "t": "(kinh tế) Nhóm G7."},
       {
         "k": "m",
-        "t": "Bẩy nước công nghiệp chủ yếu (Canada, Pháp, Đức, Ý, Nhật, Anh và Mỹ), những người đứng đầu chính phủ các bộ trưởng kinh tế của những nước này thương xuyên gặp nhau nhằm phối hợp chính sách kinh tế vĩ mô, đặc biệt là về tỉ giá hối đoái phù hợp giữa các nước. Hiện nay đã có thêm Nga gia nhập thành các nước G8."
+        "t": "Bẩy nước công nghiệp chủ yếu (Canada, Pháp, Đức, Ý, Nhật, Anh và Mỹ), những người đứng đầu chính phủ các bộ trưởng kinh tế của những nước này thường xuyên gặp nhau nhằm phối hợp chính sách kinh tế vĩ mô, đặc biệt là về tỉ giá hối đoái phù hợp giữa các nước. Hiện nay đã có thêm Nga gia nhập thành các nước G8."
       }
     ],
     "k": "group of seven"

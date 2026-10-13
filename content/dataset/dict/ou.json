@@ -7214,7 +7214,7 @@
   {
     "h": "outpass",
     "segs": [
-      {"k": "m", "t": "ngoại đông từ"},
+      {"k": "m", "t": "ngoại động từ"},
       {"k": "m", "t": "thắng"},
       {"k": "m", "t": "vượt xa."}
     ],
@@ -8230,7 +8230,7 @@
   {"h": "output stream", "segs": [{"k": "m", "t": "dòng dữ liệu xuất."}], "k": "output stream"},
   {
     "h": "output stream control",
-    "segs": [{"k": "m", "t": "sự điều khiến dòng dữ liệu xuất."}],
+    "segs": [{"k": "m", "t": "sự điều khiển dòng dữ liệu xuất."}],
     "k": "output stream control"
   },
   {

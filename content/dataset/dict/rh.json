@@ -737,7 +737,7 @@
     "h": "rheostatic controller",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "bộ điểu khiển (kiểu) biến trở"}
+      {"k": "m", "t": "bộ điều khiển (kiểu) biến trở"}
     ],
     "k": "rheostatic controller"
   },
@@ -1506,7 +1506,7 @@
     "h": "rhiz-",
     "segs": [
       {"k": "ex", "t": "rhizome", "vi": "thân rễ"},
-      {"k": "m", "t": "hình thái hép có nghĩa là rễ."}
+      {"k": "m", "t": "hình thái ghép có nghĩa là rễ."}
     ],
     "ipa": "raiz",
     "k": "rhiz-"

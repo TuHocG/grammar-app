@@ -8668,7 +8668,7 @@
       {
         "k": "ex",
         "t": "in this respect, English differs from French/English and French differ",
-        "vi": "về mặt này, tiếng Anh khác tiếng Pháp/tiếng Anh và tiếng Pháp khac nhau"
+        "vi": "về mặt này, tiếng Anh khác tiếng Pháp/tiếng Anh và tiếng Pháp khác nhau"
       },
       {"k": "m", "t": "("},
       {
@@ -10861,7 +10861,7 @@
   },
   {
     "h": "diffuse choroiditis",
-    "segs": [{"k": "m", "t": "Viêm mang mạch lan tỏa."}],
+    "segs": [{"k": "m", "t": "Viêm màng mạch lan tỏa."}],
     "k": "diffuse choroiditis"
   },
   {
@@ -12824,7 +12824,7 @@
   },
   {
     "h": "digital compressor",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy tinh số"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy tính số"}],
     "k": "digital compressor"
   },
   {
@@ -12910,7 +12910,7 @@
   {"h": "digital data", "segs": [{"k": "m", "t": "dữ liệu số."}], "k": "digital data"},
   {
     "h": "digital data exchange",
-    "segs": [{"k": "m", "t": "(DDX) sự trao đối dữ liệu số."}],
+    "segs": [{"k": "m", "t": "(DDX) sự trao đổi dữ liệu số."}],
     "k": "digital data exchange"
   },
   {
@@ -13136,7 +13136,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "tổng đài"},
-      {"k": "m", "t": "bộ chuyển mách số"}
+      {"k": "m", "t": "bộ chuyển mạch số"}
     ],
     "k": "digital exchange"
   },
@@ -15644,7 +15644,7 @@
       {"k": "m", "t": "(kinh tế) Vòng đàm phán Dillon"},
       {
         "k": "m",
-        "t": "Tên thường dùng cho vòng dàm phán thương mại thứ năm tổ chức dưới sự bảo trợ của Hiệp định chung về Thuế quan và Mậu dịch ở Geneva (1960-1961)."
+        "t": "Tên thường dùng cho vòng đàm phán thương mại thứ năm tổ chức dưới sự bảo trợ của Hiệp định chung về Thuế quan và Mậu dịch ở Geneva (1960-1961)."
       }
     ],
     "k": "dillon round"
@@ -16255,8 +16255,8 @@
     "h": "dimension-stone quarry",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "mỏ đa rời"},
-      {"k": "m", "t": "mỏ đa tảng"}
+      {"k": "m", "t": "mỏ đá rời"},
+      {"k": "m", "t": "mỏ đá tảng"}
     ],
     "k": "dimension-stone quarry"
   },
@@ -25006,7 +25006,7 @@
       },
       {
         "k": "m",
-        "t": "Việc nhân bản và phân hoạch dữ liệu đã làm nảy sinh vấn đề đồng bộ. Các thay đổi trên cơ sở dữ liệu phải được nhanh chóng thực hiên trên các nhân bản. May thay, cơ sở dữ liệu cung cấp một danh sách các dịch vụ cho phép người dùng chỉ bị trì hoãn trong vài giây trước khi được cập nhật, chứ không như các kiểu cơ sở dữ liệu phân tán khác, cụ thể như các hệ xử lý giao dịch trực tuyến."
+        "t": "Việc nhân bản và phân hoạch dữ liệu đã làm nảy sinh vấn đề đồng bộ. Các thay đổi trên cơ sở dữ liệu phải được nhanh chóng thực hiện trên các nhân bản. May thay, cơ sở dữ liệu cung cấp một danh sách các dịch vụ cho phép người dùng chỉ bị trì hoãn trong vài giây trước khi được cập nhật, chứ không như các kiểu cơ sở dữ liệu phân tán khác, cụ thể như các hệ xử lý giao dịch trực tuyến."
       },
       {"k": "m", "t": "Cung cấp An toàn"},
       {
@@ -28996,7 +28996,7 @@
     "segs": [
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "có thể giải ngũ (binh sĩ)"},
-      {"k": "m", "t": "có thể dược miễn dịch, có thể bị loại vì thiếu sức khỏe"},
+      {"k": "m", "t": "có thể được miễn dịch, có thể bị loại vì thiếu sức khỏe"},
       {"k": "m", "t": "có thể phục quyền được (người bị phá sản)"},
       {"k": "m", "t": "có thể trả được nợ."}
     ],
@@ -31900,7 +31900,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "việc ghi vào chứng từ nhừng mâu thuẫn phát hiện thấy, việc ghi nhận xét những mâu thuẫn."
+        "t": "việc ghi vào chứng từ những mâu thuẫn phát hiện thấy, việc ghi nhận xét những mâu thuẫn."
       }
     ],
     "k": "discrepancy entry"
@@ -38585,7 +38585,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(dt) 1. Sự gửi đi (thông địêp,...), sự sai phái đi-Please hurry the dispatch of these telegrams: Làm ơn gửi nhanh những bức điện này đi. 2. Bản thông điệp, bản thông báo, bản báo cáo-London newspapers receive dispatches from all parts of the world: Tạp chí London nhận các bài báo cáo từ khắp nơi trên thế giới. 3. Sự khẩn trương, sự nhanh gọn-to act with dispatch: hành động nhanh gọn."
+        "t": "(dt) 1. Sự gửi đi (thông điệp,...), sự sai phái đi-Please hurry the dispatch of these telegrams: Làm ơn gửi nhanh những bức điện này đi. 2. Bản thông điệp, bản thông báo, bản báo cáo-London newspapers receive dispatches from all parts of the world: Tạp chí London nhận các bài báo cáo từ khắp nơi trên thế giới. 3. Sự khẩn trương, sự nhanh gọn-to act with dispatch: hành động nhanh gọn."
       }
     ],
     "ipa": "dispætʃ",
@@ -46782,7 +46782,7 @@
       },
       {
         "k": "m",
-        "t": "Thành phần cũng giúp dễ dàng đưa ra các giải pháp thương mại hơn bởi vì các thành phần có thể được tái sử dụng. Ngay trong giai đoạn xây dựng, các nhà phát triển đã có ý tưởng sẽ tái sử dụng lại các thành phần trong các ứng dụng khác. Kiểu đối tượng thành phần COM của Mirosoft và các kỹ thuật CORBA được thiết kế để cung cấp các giao diện chuẩn, các kỹ thuật phân tán lẫn tích hợp các thành phần."
+        "t": "Thành phần cũng giúp dễ dàng đưa ra các giải pháp thương mại hơn bởi vì các thành phần có thể được tái sử dụng. Ngay trong giai đoạn xây dựng, các nhà phát triển đã có ý tưởng sẽ tái sử dụng lại các thành phần trong các ứng dụng khác. Kiểu đối tượng thành phần COM của Microsoft và các kỹ thuật CORBA được thiết kế để cung cấp các giao diện chuẩn, các kỹ thuật phân tán lẫn tích hợp các thành phần."
       },
       {
         "k": "m",
@@ -46791,7 +46791,7 @@
       {"k": "m", "t": "Hình D-23 Tiếp cận ba tầng"},
       {
         "k": "m",
-        "t": "Sự phối hợp hoạt động ở mức độ giữa client và các thành phần, giữa các thành phần với các dịch vụ dữ liệu. Dịch vụ dữ liệu thường hình thành từ các hệ thống quản trị cơ sở dữ liệu ở bất kỳ định dạng nào chạy trên nền máy chủ từ PC đến các hệ thống mainframe. Toàn bộ hệ thống có thể được mỡ rộng bất cứ lúc nào bằng cách nâng cấp client, thêm hay cập nhật các thành phần mới hoặc bằng cách bổ sung dữ liệu mới vào cấp dịch vụ dữ liệu. Xét về mặt thương mại các thành phần chương trình được đưa vào các đối tượng. Với giao diện chuẩn, các thành phần này được kết nối với nhau tương tự như trong việc cấu thành các giải pháp thương mại phức hợp. Do đó các thành phần này nhìn chung là được xây dựng theo hướng tái sử dụng-một thành phần có thể xuất hiện ở nhiều ứng dụng khác nhau, ví dụ như bộ bắt lỗi chính tả của Microsoft có thể xuất hiện ở tất cả các ứng dụng văn phòng của họ (xem \"Component Software Technology\" and \"Object Technologies\")"
+        "t": "Sự phối hợp hoạt động ở mức độ giữa client và các thành phần, giữa các thành phần với các dịch vụ dữ liệu. Dịch vụ dữ liệu thường hình thành từ các hệ thống quản trị cơ sở dữ liệu ở bất kỳ định dạng nào chạy trên nền máy chủ từ PC đến các hệ thống mainframe. Toàn bộ hệ thống có thể được mở rộng bất cứ lúc nào bằng cách nâng cấp client, thêm hay cập nhật các thành phần mới hoặc bằng cách bổ sung dữ liệu mới vào cấp dịch vụ dữ liệu. Xét về mặt thương mại các thành phần chương trình được đưa vào các đối tượng. Với giao diện chuẩn, các thành phần này được kết nối với nhau tương tự như trong việc cấu thành các giải pháp thương mại phức hợp. Do đó các thành phần này nhìn chung là được xây dựng theo hướng tái sử dụng-một thành phần có thể xuất hiện ở nhiều ứng dụng khác nhau, ví dụ như bộ bắt lỗi chính tả của Microsoft có thể xuất hiện ở tất cả các ứng dụng văn phòng của họ (xem \"Component Software Technology\" and \"Object Technologies\")"
       },
       {"k": "m", "t": "Các Mô hình Ýìng dụng Phân tán"},
       {
@@ -46912,7 +46912,7 @@
       {"k": "m", "t": "Hình D-25 Các phương pháp truy cập trong môi trường tính toán phân tán"},
       {
         "k": "m",
-        "t": "Như đã đề cập ở trên, môi trường tính toán phân tán tương tự như trong môi trường Client/Server, nếu như không kể có nhiều Server và hỗ trợ nhiều người dùng truy cập cùng một lúc. Môi rường phân tán thường gồm các thành phần sau:"
+        "t": "Như đã đề cập ở trên, môi trường tính toán phân tán tương tự như trong môi trường Client/Server, nếu như không kể có nhiều Server và hỗ trợ nhiều người dùng truy cập cùng một lúc. Môi trường phân tán thường gồm các thành phần sau:"
       },
       {
         "k": "m",
@@ -47081,7 +47081,7 @@
       },
       {
         "k": "m",
-        "t": "Novell Netware đã lo liệu việc chuyễn đổi từ hệ thống cũ sang hệ thống tập tin phân tán. Những phiên bản hệ điều hành mới đây cho phép truy cập đến bất kỳ server nào có kết nối với mạng, quản trị viên cung cấp cho người dùng khung nhìn phân cấp thấy được toàn bộ các server phân tán trên cùng một nhánh của cây thư mục. Điều này giúp cho người dùng tìm kiếm dễ dàng các đối tượng và dữ liệu cần thiết."
+        "t": "Novell Netware đã lo liệu việc chuyển đổi từ hệ thống cũ sang hệ thống tập tin phân tán. Những phiên bản hệ điều hành mới đây cho phép truy cập đến bất kỳ server nào có kết nối với mạng, quản trị viên cung cấp cho người dùng khung nhìn phân cấp thấy được toàn bộ các server phân tán trên cùng một nhánh của cây thư mục. Điều này giúp cho người dùng tìm kiếm dễ dàng các đối tượng và dữ liệu cần thiết."
       },
       {"k": "m", "t": "Sau đây là một vài hệ thống tập tin mạng thông thường:"},
       {
@@ -47332,7 +47332,7 @@
       },
       {
         "k": "m",
-        "t": "Yì tưởng sử dụng các đối tượng giống như các khối bê tông tạo nên toàn bộ một ứng dụng với đầy đũ các tính năng là rất tuyệt vời. Trong môi trường mạng, có một số đối tượng chạy trên các ứng dụng của người dùng, của server...Nếu như các ứng dụng cần nâng cấp thì chỉ có các đối tượng liên quan bị thay đổi mà thôi. Các người dùng có thể tiếp nhận tự động các thay đổi này khi họ đăng nhập vào một server nào đó. Nếu người dùng yêu cầu thêm một số chức năng mới, hệ thống sẽ mang đến các đối tượng cần thiết để bổ sung vào. Tất cả các việc này đều có thể diễn ra trên bất kỳ một mạng nào."
+        "t": "Ý tưởng sử dụng các đối tượng giống như các khối bê tông tạo nên toàn bộ một ứng dụng với đầy đủ các tính năng là rất tuyệt vời. Trong môi trường mạng, có một số đối tượng chạy trên các ứng dụng của người dùng, của server...Nếu như các ứng dụng cần nâng cấp thì chỉ có các đối tượng liên quan bị thay đổi mà thôi. Các người dùng có thể tiếp nhận tự động các thay đổi này khi họ đăng nhập vào một server nào đó. Nếu người dùng yêu cầu thêm một số chức năng mới, hệ thống sẽ mang đến các đối tượng cần thiết để bổ sung vào. Tất cả các việc này đều có thể diễn ra trên bất kỳ một mạng nào."
       },
       {
         "k": "m",
@@ -48769,7 +48769,7 @@
       {"k": "m", "t": "(kinh tế) Sự xem xét khía cạnh phân phối; Biện minh phân phối."},
       {
         "k": "m",
-        "t": "Khi các nhà kinh tế đánh giá các chính sách hay dự án, họ gặp phải những khó khăn như các chính sách ảnh hưởng không chỉ đối với tổng sản lượng của nền kinh tế mà cả cách thức sản lượng đó và lợi ích được phân phối giữa cá cá nhân."
+        "t": "Khi các nhà kinh tế đánh giá các chính sách hay dự án, họ gặp phải những khó khăn như các chính sách ảnh hưởng không chỉ đối với tổng sản lượng của nền kinh tế mà cả cách thức sản lượng đó và lợi ích được phân phối giữa các cá nhân."
       }
     ],
     "k": "distributive judgement"

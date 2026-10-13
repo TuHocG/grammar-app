@@ -1010,7 +1010,7 @@
   {
     "h": "pyr-",
     "segs": [
-      {"k": "m", "t": "hình thái ghép co nghĩa là"},
+      {"k": "m", "t": "hình thái ghép có nghĩa là"},
       {"k": "m", "t": "lửa, nhiệt"},
       {"k": "ex", "t": "pyrochemistry", "vi": "hóa học cao nhiệt"},
       {"k": "ex", "t": "pyrogenous", "vi": "do lửa"},
@@ -1383,7 +1383,7 @@
   {"h": "pyrargyrite", "segs": [{"k": "m", "t": "(khoáng vật) pirắcgirít."}], "k": "pyrargyrite"},
   {
     "h": "pyrazinamide",
-    "segs": [{"k": "m", "t": "loại thuốc kết hợp với các loại thuốc khác đề chữa bệnh lao."}],
+    "segs": [{"k": "m", "t": "loại thuốc kết hợp với các loại thuốc khác để chữa bệnh lao."}],
     "k": "pyrazinamide"
   },
   {

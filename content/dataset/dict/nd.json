@@ -13,7 +13,7 @@
   },
   {
     "h": "NDC",
-    "segs": [{"k": "m", "t": "(normalized devicecoordinates) tọa dộ thiết bị chuẩn hóa."}],
+    "segs": [{"k": "m", "t": "(normalized devicecoordinates) tọa độ thiết bị chuẩn hóa."}],
     "k": "ndc"
   },
   {
@@ -56,7 +56,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "1. national database language ngôn ngữ cơ sở dữ liệu quốc gia. 2. network definition language ngôn ngữ dịnh nghĩa mạng."
+        "t": "1. national database language ngôn ngữ cơ sở dữ liệu quốc gia. 2. network definition language ngôn ngữ định nghĩa mạng."
       }
     ],
     "k": "ndl"

@@ -4304,7 +4304,7 @@
   {"h": "adenodynia", "segs": [{"k": "m", "t": "Đau tuyến."}], "k": "adenodynia"},
   {"h": "adenoepithelioma", "segs": [{"k": "m", "t": "U biểu mô tuyến."}], "k": "adenoepithelioma"},
   {"h": "adenofibroma", "segs": [{"k": "m", "t": "U xơ tuyến."}], "k": "adenofibroma"},
-  {"h": "adenogenous", "segs": [{"k": "m", "t": "Phát sinh tứ tuyến."}], "k": "adenogenous"},
+  {"h": "adenogenous", "segs": [{"k": "m", "t": "Phát sinh từ tuyến."}], "k": "adenogenous"},
   {
     "h": "adenography",
     "segs": [
@@ -6251,7 +6251,7 @@
     ],
     "k": "adjigo"
   },
-  {"h": "adjnstment screw", "segs": [{"k": "m", "t": "vít diều chỉnh."}], "k": "adjnstment screw"},
+  {"h": "adjnstment screw", "segs": [{"k": "m", "t": "vít điều chỉnh."}], "k": "adjnstment screw"},
   {
     "h": "adjoin",
     "segs": [
@@ -11350,7 +11350,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "độ hấp phụ"},
-      {"k": "m", "t": "khả năng hập phụ"}
+      {"k": "m", "t": "khả năng hấp phụ"}
     ],
     "k": "adsorbability"
   },

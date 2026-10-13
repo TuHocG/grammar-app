@@ -849,7 +849,7 @@
   },
   {
     "h": "oscillator doubler",
-    "segs": [{"k": "m", "t": "bộ dao dộng nhân đôi tần số."}],
+    "segs": [{"k": "m", "t": "bộ dao động nhân đôi tần số."}],
     "k": "oscillator doubler"
   },
   {

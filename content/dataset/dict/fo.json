@@ -1689,7 +1689,7 @@
   },
   {
     "h": "foil capacitor",
-    "segs": [{"k": "m", "t": "(kỹ thuật) bộ diện dung lá kim loại."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) bộ điện dung lá kim loại."}],
     "k": "foil capacitor"
   },
   {
@@ -2909,7 +2909,7 @@
     ],
     "k": "folk hero"
   },
-  {"h": "folk landscape", "segs": [{"k": "m", "t": "cảnh quang dân dã."}], "k": "folk landscape"},
+  {"h": "folk landscape", "segs": [{"k": "m", "t": "cảnh quan dân dã."}], "k": "folk landscape"},
   {
     "h": "folk marker",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chợ bình dân"}],
@@ -5137,7 +5137,7 @@
       {"k": "ex", "t": "fool's bolt is soon shot", "vi": "sắp hết lý sự"},
       {"k": "ex", "t": "to make a fool of oneself", "vi": "xử sự như một thằng ngốc"},
       {"k": "ex", "t": "to make a fool of somebody", "vi": "đánh lừa ai"},
-      {"k": "m", "t": "làm cho ai hóa thanh một thằng xuẩn ngốc"},
+      {"k": "m", "t": "làm cho ai hóa thành một thằng xuẩn ngốc"},
       {
         "k": "ex",
         "t": "man is fool or physician at thirty",
@@ -14349,7 +14349,7 @@
       {
         "k": "ex",
         "t": "She is sympathetic and full of forgiveess",
-        "vi": "Cô ây luôn cảm thông và đầy lòng khoan dung."
+        "vi": "Cô ấy luôn cảm thông và đầy lòng khoan dung."
       }
     ],
     "ipa": "fə'givnis",
@@ -21298,7 +21298,7 @@
     "h": "fouling point",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "điểm dễ gây tắc ghẽn đường"},
+      {"k": "m", "t": "điểm dễ gây tắc nghẽn đường"},
       {"k": "m", "t": "mốc xung đột"}
     ],
     "k": "fouling point"
@@ -23734,7 +23734,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1768-1830) nhà toán học Pháp, viện sĩ danh dự nước ngoài Viện hàn lâm khoa học Pétersbourg (1829), viện sĩ Viện hàn lâm khoa học Paris (1817). Sau khi tốt nghiệp trường võ bị ở Auxerre, ông giảng dạy ngay tại đó. Vao những năm 1796-1798 ông dạy tại trường Đại học bách khoa ở Paris. Năm 1796 cùng với những nhà bác học khác ông tham gia vào cuộc viễn chinh sang Ai Cập của Napoléon Bonaparte. Vào những năm 1802-1815 ông làm tỉnh trưởng tỉnh Yzeure. Năm 1817 ông trở về Paris. Những công trình đầu tiên của Fourier thuộc về đại số. Ngay từ 1796 trong các bài giảng ông đã trình bày định lý về các số nghiệm thực của một phương trình đại số, nằm giữa những giới hạn cho trước (công bố năm 1820). Tác phẩm \"Phân tích các phương trình xác định\" (1831) là kết quả nghiên cứu của Fourier về các phương pháp giải bằng số các phương trình. Lĩnh vực công tác chủ yếu của Fourier là vật lý toán. Năm 1822 ông công bố công trình nổi tiếng \"Lý thuyết giải tích về nhiệt\", công trình này đóng một vai trò to lớn trong sự phát triển sau này của toán học. Trong tác phẩm đó Fourier đã đưa ra phương trình vi phân của độ dẫn nhiệt, để giải phương trình độ dẫn nhiệt trong những điều kiện giới hạn này khác, ông soạn thảo phương pháp tách biến số (thường gọi là phương pháp Fourier) mà ông áp dụng hàng loạt những trường hợp riêng (hình lập phương, hình trụ v.v...). Phương pháp đó làm cơ sở cho phép biểu diễn các hàm bằng những chuỗi lượng giác Fourier, những chuỗi này, tuy rằng trước đây đã đôi lần được biết đến, nhưng chỉ ở Fourier chúng mới thực sự trở thành một công cụ có hiệu lực và quan trọng của vật lý toán. \"Lý thuyết giải tích về nhiệt\" là khởi đầu của việc xây dựng lý thuyết chuỗi lượng giác và việc soạn thảo một số vấn đề chung của giải tích toán học. Fourier nêu ra những thí dụ đầu tiên về giải tích khác nhau bằng những giải tích khác nhau, thành những chuỗi lượng giác Fourier. Bằng cách đó ông đã đóng góp phần quan trọng vào việc giải quyết cuộc tranh luận nổi tiếng về khái niệm hàm, trong đó các nhà toán học lớn nhất thế kỷ 18 đều có tham gia. Ông toan tính chứng minh rằng mọi hàm bất kỳ đều có thể khai triển thành chuỗi lượng giác Fourier, nhưng không thành, tuy nhiên, ông cũng đã mở đầu cho một loạt công trình nghiên cứu dành cho các vấn đề khả năng biểu diễn một hàm bằng những chuỗi và tích phân lượng giác (tích phân Fourier). Những công trình đó gắn liện với sự nảy sinh ra lý thuyết tập hợp và lý thuyết hàm biến số thực."
+        "t": "(1768-1830) nhà toán học Pháp, viện sĩ danh dự nước ngoài Viện hàn lâm khoa học Pétersbourg (1829), viện sĩ Viện hàn lâm khoa học Paris (1817). Sau khi tốt nghiệp trường võ bị ở Auxerre, ông giảng dạy ngay tại đó. Vao những năm 1796-1798 ông dạy tại trường Đại học bách khoa ở Paris. Năm 1796 cùng với những nhà bác học khác ông tham gia vào cuộc viễn chinh sang Ai Cập của Napoléon Bonaparte. Vào những năm 1802-1815 ông làm tỉnh trưởng tỉnh Yzeure. Năm 1817 ông trở về Paris. Những công trình đầu tiên của Fourier thuộc về đại số. Ngay từ 1796 trong các bài giảng ông đã trình bày định lý về các số nghiệm thực của một phương trình đại số, nằm giữa những giới hạn cho trước (công bố năm 1820). Tác phẩm \"Phân tích các phương trình xác định\" (1831) là kết quả nghiên cứu của Fourier về các phương pháp giải bằng số các phương trình. Lĩnh vực công tác chủ yếu của Fourier là vật lý toán. Năm 1822 ông công bố công trình nổi tiếng \"Lý thuyết giải tích về nhiệt\", công trình này đóng một vai trò to lớn trong sự phát triển sau này của toán học. Trong tác phẩm đó Fourier đã đưa ra phương trình vi phân của độ dẫn nhiệt, để giải phương trình độ dẫn nhiệt trong những điều kiện giới hạn này khác, ông soạn thảo phương pháp tách biến số (thường gọi là phương pháp Fourier) mà ông áp dụng hàng loạt những trường hợp riêng (hình lập phương, hình trụ v.v...). Phương pháp đó làm cơ sở cho phép biểu diễn các hàm bằng những chuỗi lượng giác Fourier, những chuỗi này, tuy rằng trước đây đã đôi lần được biết đến, nhưng chỉ ở Fourier chúng mới thực sự trở thành một công cụ có hiệu lực và quan trọng của vật lý toán. \"Lý thuyết giải tích về nhiệt\" là khởi đầu của việc xây dựng lý thuyết chuỗi lượng giác và việc soạn thảo một số vấn đề chung của giải tích toán học. Fourier nêu ra những thí dụ đầu tiên về giải tích khác nhau bằng những giải tích khác nhau, thành những chuỗi lượng giác Fourier. Bằng cách đó ông đã đóng góp phần quan trọng vào việc giải quyết cuộc tranh luận nổi tiếng về khái niệm hàm, trong đó các nhà toán học lớn nhất thế kỷ 18 đều có tham gia. Ông toan tính chứng minh rằng mọi hàm bất kỳ đều có thể khai triển thành chuỗi lượng giác Fourier, nhưng không thành, tuy nhiên, ông cũng đã mở đầu cho một loạt công trình nghiên cứu dành cho các vấn đề khả năng biểu diễn một hàm bằng những chuỗi và tích phân lượng giác (tích phân Fourier). Những công trình đó gắn liền với sự nảy sinh ra lý thuyết tập hợp và lý thuyết hàm biến số thực."
       }
     ],
     "k": "fourier joseph"
@@ -23791,7 +23791,7 @@
   },
   {
     "h": "fourier transforms",
-    "segs": [{"k": "m", "t": "các biển đổi Fourier."}],
+    "segs": [{"k": "m", "t": "các biến đổi Fourier."}],
     "k": "fourier transforms"
   },
   {

@@ -3034,7 +3034,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "phương pháp kiểm soát dáng điệu, tư thế để hổ trợ cho việc giữ gìn sức khỏe."
+        "t": "phương pháp kiểm soát dáng điệu, tư thế để hỗ trợ cho việc giữ gìn sức khỏe."
       }
     ],
     "ipa": "ælig'za:ndə(r)",
@@ -3094,7 +3094,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1896-1982) nhà toán học Nga viện sĩ Viện hàn lâm khoa học Liên Xô (1953, viện sĩ thông tấn từ 1929), anh hùng lao động xã hội chủ nghĩa (1969). Ông tốt nghiệp Trường đại học tổng hợp Moskva năm 1917, trở thành giáo sư cũng tại đấy từ năm 1929. Chủ tịch danh dự Hội toán học Moskva (1964, chủ tịch vào những năm 1932-1964), thành viên ban biên tập bộ \"Bách khoa toàn thư toán học\", biên tập viên tập sau \"Những thành tựu khoa học toán học\" (từ 1954). alexandrov là người sáng lập ra trường phái tôpô Xô Viết đuợc thế giới công nhận. Ông bắt đầu công tác nghiên cứu khoa học trong lĩnh vực lý thuyết tập hợp và lý thuyết hàm, sau đó dành trọn đời để hoàn thiện tôpô học. Alexandrov là thành viên của nhiều Viện hàn lâm khoa học và hiệp hội khoa học, được trao tặng nhiều giải thưởng."
+        "t": "(1896-1982) nhà toán học Nga viện sĩ Viện hàn lâm khoa học Liên Xô (1953, viện sĩ thông tấn từ 1929), anh hùng lao động xã hội chủ nghĩa (1969). Ông tốt nghiệp Trường đại học tổng hợp Moskva năm 1917, trở thành giáo sư cũng tại đấy từ năm 1929. Chủ tịch danh dự Hội toán học Moskva (1964, chủ tịch vào những năm 1932-1964), thành viên ban biên tập bộ \"Bách khoa toàn thư toán học\", biên tập viên tập sau \"Những thành tựu khoa học toán học\" (từ 1954). alexandrov là người sáng lập ra trường phái tôpô Xô Viết được thế giới công nhận. Ông bắt đầu công tác nghiên cứu khoa học trong lĩnh vực lý thuyết tập hợp và lý thuyết hàm, sau đó dành trọn đời để hoàn thiện tôpô học. Alexandrov là thành viên của nhiều Viện hàn lâm khoa học và hiệp hội khoa học, được trao tặng nhiều giải thưởng."
       }
     ],
     "k": "alexandrov paven xecgayevitch"
@@ -7471,7 +7471,7 @@
   {
     "h": "all-'round",
     "segs": [
-      {"k": "m", "t": "(tt, đng) Đa năng, đa tài,-an all-round athlete: một vận đông viên đa năng."}
+      {"k": "m", "t": "(tt, đng) Đa năng, đa tài,-an all-round athlete: một vận động viên đa năng."}
     ],
     "k": "all-'round"
   },
@@ -10066,7 +10066,7 @@
   },
   {
     "h": "allocated main memory",
-    "segs": [{"k": "m", "t": "(kỹ thuật) bộ nhớ chính dược phân định."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) bộ nhớ chính được phân định."}],
     "k": "allocated main memory"
   },
   {
@@ -10304,7 +10304,7 @@
     "ipa": "ələ'krouik",
     "k": "allochroic"
   },
-  {"h": "allochroism", "segs": [{"k": "m", "t": "sự biến đồi màu sắc."}], "k": "allochroism"},
+  {"h": "allochroism", "segs": [{"k": "m", "t": "sự biến đổi màu sắc."}], "k": "allochroism"},
   {"h": "allochromatic", "segs": [{"k": "m", "t": "biến sắc, loạn sắc."}], "k": "allochromatic"},
   {
     "h": "allochromaty",
@@ -10501,7 +10501,7 @@
   },
   {
     "h": "Alloisoleucine",
-    "segs": [{"k": "m", "t": "một trong nhưng chất đồng phân của aminô axít isoleucine."}],
+    "segs": [{"k": "m", "t": "một trong những chất đồng phân của aminô axít isoleucine."}],
     "k": "alloisoleucine"
   },
   {
@@ -13664,11 +13664,11 @@
       {"k": "m", "t": "Bộ vi xử lý Alpha"},
       {
         "k": "m",
-        "t": "Đây là tên do công ty DEC (Digital Equipment Corporation) đặt cho sản phẩm bộ vi xử lý 64 bit gốc RISC (Reduced Instruction Set Computer) mà họ giới thiệu vào tháng 2 năm 1992 là DECchip 21064. Thoạt đầu nó có tên là EVAX (Extended VAX - VAX mở rộng) song hãng DEC đã đổi tên mã này thành Alpha bởi vì sản phẩm này đã biến hóa không còn là một khởi đầu của công nghệ VAX như dự định ban đầu. Ngoài ra vì lý do nhãn hiệu, hãng DEC đã nối thêm tên Alpha thành Alpha AXP, và hãng DEC đã dùng nó như một tính từ để mô tả công nghệ DECchip. Đôi lúc thuật ngữ Alpha cũng được sách báo dùng để ám chỉ sản phẩm DECchip, thường xuầt hiện trong các cụm từ như \"Alpha-based computer - máy tính gốc Alpha\"."
+        "t": "Đây là tên do công ty DEC (Digital Equipment Corporation) đặt cho sản phẩm bộ vi xử lý 64 bit gốc RISC (Reduced Instruction Set Computer) mà họ giới thiệu vào tháng 2 năm 1992 là DECchip 21064. Thoạt đầu nó có tên là EVAX (Extended VAX - VAX mở rộng) song hãng DEC đã đổi tên mã này thành Alpha bởi vì sản phẩm này đã biến hóa không còn là một khởi đầu của công nghệ VAX như dự định ban đầu. Ngoài ra vì lý do nhãn hiệu, hãng DEC đã nối thêm tên Alpha thành Alpha AXP, và hãng DEC đã dùng nó như một tính từ để mô tả công nghệ DECchip. Đôi lúc thuật ngữ Alpha cũng được sách báo dùng để ám chỉ sản phẩm DECchip, thường xuất hiện trong các cụm từ như \"Alpha-based computer - máy tính gốc Alpha\"."
       },
       {
         "k": "m",
-        "t": "Bộ vị xử lý này được thiết kế để chạy trên các hệ thống và máy dịch vụ để bàn có công suất cao. Nó chạy được trên một vài hệ điều hành khác nhau trong đó có VAX VMS, Digital UNIX, và Windows NT. Thiết kế 64 bit cho phép định địa chỉ số lượng thông tin nhiều gấp 4 tỷ lần so với các hệ thống 32 bit. Cấu trúc Alpha của Digital không nghiêng về hệ điều hành hay ngôn ngữ lập trình cụ thể nào cả."
+        "t": "Bộ vi xử lý này được thiết kế để chạy trên các hệ thống và máy dịch vụ để bàn có công suất cao. Nó chạy được trên một vài hệ điều hành khác nhau trong đó có VAX VMS, Digital UNIX, và Windows NT. Thiết kế 64 bit cho phép định địa chỉ số lượng thông tin nhiều gấp 4 tỷ lần so với các hệ thống 32 bit. Cấu trúc Alpha của Digital không nghiêng về hệ điều hành hay ngôn ngữ lập trình cụ thể nào cả."
       }
     ],
     "k": "alpha microprocessors"

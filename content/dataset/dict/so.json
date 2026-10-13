@@ -1909,7 +1909,7 @@
     "k": "social (insurance) benefit"
   },
   {"h": "social accounting", "segs": [{"k": "m", "t": "kế toán xã hội."}], "k": "social accounting"},
-  {"h": "social activity", "segs": [{"k": "m", "t": "hoạt đông xã hội."}], "k": "social activity"},
+  {"h": "social activity", "segs": [{"k": "m", "t": "hoạt động xã hội."}], "k": "social activity"},
   {
     "h": "social adjustment",
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "điều tiết xã hội"}],
@@ -10740,7 +10740,7 @@
     "h": "solecist",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người mắc lỗi ngữ pháp, người có sai sót trong việc sự dụng ngôn ngữ"},
+      {"k": "m", "t": "người mắc lỗi ngữ pháp, người có sai sót trong việc sử dụng ngôn ngữ"},
       {"k": "m", "t": "người có lầm lỗi trong xử thế"},
       {"k": "m", "t": "người xúc phạm đến những tập quán tốt đẹp."}
     ],
@@ -15693,7 +15693,7 @@
       {
         "k": "ex",
         "t": "she won a competition in some newspaper or other",
-        "vi": "cô ta đã thằng cuộc thi trên tờ báo nào đó"
+        "vi": "cô ta đã thắng cuộc thi trên tờ báo nào đó"
       },
       {"k": "m", "t": "(dùng với các số) ước chừng"},
       {
@@ -17264,7 +17264,7 @@
     "h": "sonic flaw detection",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "sự tìm khuyết tật bằng âm// cách sử dụng âm đểm dò vết rạn"}
+      {"k": "m", "t": "sự tìm khuyết tật bằng âm// cách sử dụng âm để dò vết rạn"}
     ],
     "k": "sonic flaw detection"
   },

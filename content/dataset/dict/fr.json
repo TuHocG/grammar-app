@@ -6343,7 +6343,7 @@
     "h": "free roof",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "mái không chiu tải"},
+      {"k": "m", "t": "mái không chịu tải"},
       {"k": "m", "t": "mái không chịu tải"}
     ],
     "k": "free roof"
@@ -6608,7 +6608,7 @@
   },
   {
     "h": "free states",
-    "segs": [{"k": "m", "t": "các bang tư do (đối lập với các bang chiếm hữu nô lệ)."}],
+    "segs": [{"k": "m", "t": "các bang tự do (đối lập với các bang chiếm hữu nô lệ)."}],
     "k": "free states"
   },
   {"h": "free stem", "segs": [{"k": "m", "t": "tàu miễn chờ đến lượt."}], "k": "free stem"},
@@ -6786,7 +6786,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "khu vực thương mại tự do. Thỏa thuận giữa hai hay nhiều nước để loại bỏ tất cả các hàng rào thương mại giữa các nước thành viên, nhưng mỗi thành viên được phép duy trì hàng rào thương mại của riêng mình đối với nước nằm ngoại khu vực."
+        "t": "khu vực thương mại tự do. Thỏa thuận giữa hai hay nhiều nước để loại bỏ tất cả các hàng rào thương mại giữa các nước thành viên, nhưng mỗi thành viên được phép duy trì hàng rào thương mại của riêng mình đối với nước nằm ngoài khu vực."
       }
     ],
     "k": "free trade area"
@@ -12840,7 +12840,7 @@
   },
   {
     "h": "frequency inverse",
-    "segs": [{"k": "m", "t": "(kỹ thuật) sự ngịch đảo tần số."}],
+    "segs": [{"k": "m", "t": "(kỹ thuật) sự nghịch đảo tần số."}],
     "k": "frequency inverse"
   },
   {
@@ -15395,7 +15395,7 @@
   },
   {
     "h": "friction heat",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhiệt đo ma sát"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nhiệt do ma sát"}],
     "k": "friction heat"
   },
   {

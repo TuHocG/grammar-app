@@ -992,7 +992,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "(thể dục, thể thao) sự đấm bóng (đấu với đối thủ tưởng tương để luyện tập) (quyền anh)."
+        "t": "(thể dục, thể thao) sự đấm bóng (đấu với đối thủ tưởng tượng để luyện tập) (quyền anh)."
       }
     ],
     "ipa": "'ʃædou'bɔksiŋ",
@@ -2700,7 +2700,7 @@
       {
         "k": "ex",
         "t": "what shall we do this weekend?",
-        "vi": "chúng ta sẽ làm gì vào dịp nghĩ cuối tuần này?"
+        "vi": "chúng ta sẽ làm gì vào dịp nghỉ cuối tuần này?"
       },
       {"k": "m", "t": "(chỉ mệnh lệnh hoặc lời hướng dẫn)"},
       {
@@ -13290,7 +13290,7 @@
       {"k": "m", "t": "(kinh tế) Giả thuyết về hiệu ứng dịch chuyển."},
       {
         "k": "m",
-        "t": "Lập luận cho rằng chính sách thu nhập có thể ảnh hưởng đến việc dịch chuyển đường Phillips sang bên trái, do đó tạo ra một mức tiền lương thâp hơn và (hoặc) làm lạm phát giá đối với những giá trị cho trước của các yếu tố quyết định chúng trước hết là mức thất nghiệp."
+        "t": "Lập luận cho rằng chính sách thu nhập có thể ảnh hưởng đến việc dịch chuyển đường Phillips sang bên trái, do đó tạo ra một mức tiền lương thấp hơn và (hoặc) làm lạm phát giá đối với những giá trị cho trước của các yếu tố quyết định chúng trước hết là mức thất nghiệp."
       }
     ],
     "k": "shift effect hypothesis"
@@ -15135,7 +15135,7 @@
   {"h": "ship holder", "segs": [{"k": "m", "t": "chủ tàu."}], "k": "ship holder"},
   {
     "h": "ship hydrodynamics",
-    "segs": [{"k": "m", "t": "thủy đông lực học tàu."}],
+    "segs": [{"k": "m", "t": "thủy động lực học tàu."}],
     "k": "ship hydrodynamics"
   },
   {
@@ -25060,7 +25060,7 @@
     "h": "shot-put",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "(thể thục thể thao) môn ném tạ"},
+      {"k": "m", "t": "(thể dục thể thao) môn ném tạ"},
       {"k": "m", "t": "môn đẩy tạ."}
     ],
     "ipa": "'ʃɔtput",

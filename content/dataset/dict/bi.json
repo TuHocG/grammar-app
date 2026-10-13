@@ -5728,7 +5728,7 @@
   },
   {
     "h": "bill of exchequer",
-    "segs": [{"k": "m", "t": "trái phiều kho bạc."}],
+    "segs": [{"k": "m", "t": "trái phiếu kho bạc."}],
     "k": "bill of exchequer"
   },
   {"h": "bill of fare", "segs": [{"k": "m", "t": "thực đơn."}], "k": "bill of fare"},
@@ -5984,7 +5984,7 @@
   },
   {
     "h": "bill-board advertising",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "quảng cảo bằng pa-nô"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "quảng cáo bằng pa-nô"}],
     "k": "bill-board advertising"
   },
   {
@@ -6956,7 +6956,7 @@
   },
   {
     "h": "bimetasomatic deposit",
-    "segs": [{"k": "m", "t": "mỏ trao dổi thay thế đôi."}],
+    "segs": [{"k": "m", "t": "mỏ trao đổi thay thế đôi."}],
     "k": "bimetasomatic deposit"
   },
   {
@@ -9035,7 +9035,7 @@
     "h": "bioastronautics",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "khoa nghiên tác đông của những huyến du hành vũ trụ đối với on người."}
+      {"k": "m", "t": "khoa nghiên cứu tác động của những chuyến du hành vũ trụ đối với con người."}
     ],
     "ipa": ",baiou,æstrə'nɔ:tiks",
     "k": "bioastronautics"
@@ -9924,7 +9924,7 @@
       {"k": "m", "t": "(kinh tế) Lãi suất sinh học."},
       {
         "k": "m",
-        "t": "Một giá trị cho lãi suất trong thuyết tăng trưởng, trong đó giữa tất cả đường tăng trưởng cân đối, thì tiêu dùng theo đầu người cáo nhất đạt được và duy trì được bằng một đường trên đó năng suất vốn biên (bằng tỉ lệ lợi nhuận trong cạnh tranh hoàn hảo) bằng tỉ lệ tăng trưởng không đổi của lực lượng lao động được xác định bằng cách ngoại sinh. Xem golden rule of accumulation."
+        "t": "Một giá trị cho lãi suất trong thuyết tăng trưởng, trong đó giữa tất cả đường tăng trưởng cân đối, thì tiêu dùng theo đầu người cao nhất đạt được và duy trì được bằng một đường trên đó năng suất vốn biên (bằng tỉ lệ lợi nhuận trong cạnh tranh hoàn hảo) bằng tỉ lệ tăng trưởng không đổi của lực lượng lao động được xác định bằng cách ngoại sinh. Xem golden rule of accumulation."
       }
     ],
     "k": "biological interest rate"
@@ -11026,7 +11026,7 @@
   {"h": "biotoxication", "segs": [{"k": "m", "t": "Ngộ độc sinh chất."}], "k": "biotoxication"},
   {
     "h": "biotoxicology",
-    "segs": [{"k": "m", "t": "Sinh độc chât học, độc chất sinh vật học."}],
+    "segs": [{"k": "m", "t": "Sinh độc chất học, độc chất sinh vật học."}],
     "k": "biotoxicology"
   },
   {

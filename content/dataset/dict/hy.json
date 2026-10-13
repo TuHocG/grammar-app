@@ -998,7 +998,7 @@
     "segs": [{"k": "m", "t": "(sự) mô tả mạch bạch huyết."}],
     "k": "hydrangiography"
   },
-  {"h": "hydrangiology", "segs": [{"k": "m", "t": "Mạch bach huyết học."}], "k": "hydrangiology"},
+  {"h": "hydrangiology", "segs": [{"k": "m", "t": "Mạch bạch huyết học."}], "k": "hydrangiology"},
   {
     "h": "hydrangiotomy",
     "segs": [{"k": "m", "t": "(thủ thuật) mở mạch bạch huyết."}],
@@ -7319,7 +7319,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "thuốc dùng chữa các bệnh nhiễm nấm và dộng vật nguyên sinh, như bệnh nấm Blastomyces."
+        "t": "thuốc dùng chữa các bệnh nhiễm nấm và động vật nguyên sinh, như bệnh nấm Blastomyces."
       }
     ],
     "k": "hydroxystibamidine"
@@ -7340,7 +7340,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một loài kháng histamine: có tính Chất làm dịu dùng giảm lo âu, căng thẳng và kích động, chữa trị buồn nôn và nôn."
+        "t": "một loại kháng histamine: có tính Chất làm dịu dùng giảm lo âu, căng thẳng và kích động, chữa trị buồn nôn và nôn."
       }
     ],
     "k": "hydroxyzine"
@@ -16381,7 +16381,7 @@
     "h": "hypoergia",
     "segs": [
       {"k": "m", "t": "(chứng) giảm hoạt chức năng"},
-      {"k": "m", "t": "(sự) giảm cảm ửng của cơ thể."}
+      {"k": "m", "t": "(sự) giảm cảm ứng của cơ thể."}
     ],
     "k": "hypoergia"
   },
@@ -18578,7 +18578,7 @@
   },
   {
     "h": "hypsokinesis",
-    "segs": [{"k": "m", "t": "(chứng) xoay vặn người về phia sau."}],
+    "segs": [{"k": "m", "t": "(chứng) xoay vặn người về phía sau."}],
     "k": "hypsokinesis"
   },
   {
@@ -19243,7 +19243,7 @@
   },
   {
     "h": "hysterotracheloplasty",
-    "segs": [{"k": "m", "t": "(thủ thuật) tạo hình cổ tứ cung."}],
+    "segs": [{"k": "m", "t": "(thủ thuật) tạo hình cổ tử cung."}],
     "k": "hysterotracheloplasty"
   },
   {

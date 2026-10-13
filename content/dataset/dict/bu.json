@@ -5077,7 +5077,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "cấu kiện gỗ"},
-      {"k": "m", "t": "xây dựng băng gỗ"}
+      {"k": "m", "t": "xây dựng bằng gỗ"}
     ],
     "k": "building in wood"
   },
@@ -5929,7 +5929,7 @@
   },
   {
     "h": "built-in adapter",
-    "segs": [{"k": "m", "t": "bộ điều hợp gắn liền, bộ diều hợp đã được cài sẵn."}],
+    "segs": [{"k": "m", "t": "bộ điều hợp gắn liền, bộ điều hợp đã được cài sẵn."}],
     "k": "built-in adapter"
   },
   {
@@ -6493,7 +6493,7 @@
   },
   {
     "h": "bulb-like swelling",
-    "segs": [{"k": "m", "t": "sự phình dạng cũ."}],
+    "segs": [{"k": "m", "t": "sự phình dạng củ."}],
     "k": "bulb-like swelling"
   },
   {"h": "bulb-rail steel", "segs": [{"k": "m", "t": "thép ray đầu tròn."}], "k": "bulb-rail steel"},
@@ -12705,7 +12705,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(chiến tranh thế giới thứ hai) (tháng giêng năm 1942 đến tháng 8 năm 1945). Năm 1942, hai sư đoàn Nhật đã tiến công vào Burma (nay là Myanmar), và liên kết với quân đội quốc gia Burma do Aung San lãnh đạo, đã bắt giữ Rangoon và buộc lực lượng Anh phải rút quân ra khỏi vùng phía Tây lãnh thổ. Quân Nhật đã chiếm được vùng Lashio ở miền Nam, đoạn cuối quốc lộ Burma Road. Vì thế họ đã cắt đứt đường tiếp viện từ Ấn đến Trung Hoa. Quân Nhật tiếp tục bắt giữ Mandalay (tháng 5-1942). Trước tình hình đó, lực lượng Anh do tướng Alexander của Tunis đã phải rút quân về vùng biên giới Ấn. Trong suốt năm 1943, quân đồng minh cố gắng chiếm lại vùng Arakan, nhưng đều bị thất bại mặc dù Wingate đã phối hợp với đơn vị Chindit tổ chức chiến tranh du kích hoạt động tích cực sau lưng địch. Đầu xuân năm 1944, một trận đánh lớn đã xảy ra khi quân đồng minh đang nỗ lực phòng thủ Imphal. Quân Nhật đã đột nhập vào Assam, vùng phía Bắc Ấn, và bị đánh bại sau một cuộc giao tranh đẫm máu. Trong đó Kohima giữ vai trò quan trọng nhất. Vào tháng 10 năm đó, ba mũi nhọn của quân đội Anh đồng loạt tấn công bao gồm quân đội liên hiệp Anh, Mỹ và Cộng Hòa nhân dân Trung Quốc. Đến tháng giếng năm 1945, quốc lộ Burma Road đã được khai thông. Cùng lúc đó, một đạo quân do Aung San cầm đầu liên kết với Mountbatten và vào tháng ba vì bất mãn đã liên kết với quân đồng minh. Cuối cùng, ngày 1-5-1954, Rangoon đã bị lực lượng Ấn bắt giữ."
+        "t": "(chiến tranh thế giới thứ hai) (tháng giêng năm 1942 đến tháng 8 năm 1945). Năm 1942, hai sư đoàn Nhật đã tiến công vào Burma (nay là Myanmar), và liên kết với quân đội quốc gia Burma do Aung San lãnh đạo, đã bắt giữ Rangoon và buộc lực lượng Anh phải rút quân ra khỏi vùng phía Tây lãnh thổ. Quân Nhật đã chiếm được vùng Lashio ở miền Nam, đoạn cuối quốc lộ Burma Road. Vì thế họ đã cắt đứt đường tiếp viện từ Ấn đến Trung Hoa. Quân Nhật tiếp tục bắt giữ Mandalay (tháng 5-1942). Trước tình hình đó, lực lượng Anh do tướng Alexander của Tunis đã phải rút quân về vùng biên giới Ấn. Trong suốt năm 1943, quân đồng minh cố gắng chiếm lại vùng Arakan, nhưng đều bị thất bại mặc dù Wingate đã phối hợp với đơn vị Chindit tổ chức chiến tranh du kích hoạt động tích cực sau lưng địch. Đầu xuân năm 1944, một trận đánh lớn đã xảy ra khi quân đồng minh đang nỗ lực phòng thủ Imphal. Quân Nhật đã đột nhập vào Assam, vùng phía Bắc Ấn, và bị đánh bại sau một cuộc giao tranh đẫm máu. Trong đó Kohima giữ vai trò quan trọng nhất. Vào tháng 10 năm đó, ba mũi nhọn của quân đội Anh đồng loạt tấn công bao gồm quân đội liên hiệp Anh, Mỹ và Cộng Hòa nhân dân Trung Quốc. Đến tháng giêng năm 1945, quốc lộ Burma Road đã được khai thông. Cùng lúc đó, một đạo quân do Aung San cầm đầu liên kết với Mountbatten và vào tháng ba vì bất mãn đã liên kết với quân đồng minh. Cuối cùng, ngày 1-5-1954, Rangoon đã bị lực lượng Ấn bắt giữ."
       }
     ],
     "k": "burma campaigns"
@@ -14526,7 +14526,7 @@
       {
         "k": "ex",
         "t": "My parents were bursting with pride when I graduated from college:",
-        "vi": "Cha me tôi tràn ngập hãnh diện khi tôi tốt nghiệp đại học."
+        "vi": "Cha mẹ tôi tràn ngập hãnh diện khi tôi tốt nghiệp đại học."
       },
       {
         "k": "ex",
@@ -20939,7 +20939,7 @@
   },
   {
     "h": "buttress retaining wall",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tường co trụ chống"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tường có trụ chống"}],
     "k": "buttress retaining wall"
   },
   {

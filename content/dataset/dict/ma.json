@@ -4778,7 +4778,7 @@
         "t": "Sắc tộc: Người bản xứ (Malagasy) 98,9% (Merina 26,6%; Betsimisaraka 14,9%; Betsileo 11,7%; Tsimihety 7,4%; Sakalava 6,4%); Antandroy 5,3%; Comorian 0,3%; Ấn Độ và Pakistan 0,2%; Pháp 0,2%; Trung Quốc 0,1%."
       },
       {"k": "m", "t": "Ngôn ngữ: Malagasy và tiếng Pháp (hai ngôn ngữ được dùng chính thức)."},
-      {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc; Tổ Chức Tống Nhất Châu Phi (OAU)."}
+      {"k": "m", "t": "Gia nhập: Liên Hiệp Quốc; Tổ Chức Thống Nhất Châu Phi (OAU)."}
     ],
     "k": "madagascar"
   },
@@ -6752,7 +6752,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tính hào hiệp, tính cao thượng, tính đại lượng, tính khoan dung"},
-      {"k": "ex", "t": "magnanimity towards one's adversary", "vi": "đại lương đối với kẻ thù"},
+      {"k": "ex", "t": "magnanimity towards one's adversary", "vi": "đại lượng đối với kẻ thù"},
       {
         "k": "m",
         "t": "hành động hào hiệp, hành động cao thượng, hành động đại lượng, hành động khoan dung."
@@ -12250,7 +12250,7 @@
   },
   {
     "h": "mail-oder house",
-    "segs": [{"k": "m", "t": "cửa hàng nhận đặt và trả bằng đương bưu điện."}],
+    "segs": [{"k": "m", "t": "cửa hàng nhận đặt và trả bằng đường bưu điện."}],
     "k": "mail-oder house"
   },
   {
@@ -23506,7 +23506,7 @@
   {"h": "man-asignment", "segs": [{"k": "m", "t": "sự phân phối nhân lực."}], "k": "man-asignment"},
   {
     "h": "man-assignment",
-    "segs": [{"k": "m", "t": "sự phân bố nhân công, sự bộ trí nhân lực."}],
+    "segs": [{"k": "m", "t": "sự phân bố nhân công, sự bố trí nhân lực."}],
     "k": "man-assignment"
   },
   {
@@ -23951,7 +23951,7 @@
       {
         "k": "ex",
         "t": "even a schoolboy could manage a better story than that",
-        "vi": "thậm chí nmột đứa học trò cũng viết được một câu chuyện hay hơn thế"
+        "vi": "thậm chí một đứa học trò cũng viết được một câu chuyện hay hơn thế"
       },
       {
         "k": "ex",
@@ -28216,7 +28216,7 @@
   {"h": "manned rocket", "segs": [{"k": "m", "t": "tên lửa có người lái."}], "k": "manned rocket"},
   {
     "h": "manned satellite",
-    "segs": [{"k": "m", "t": "vệ tinh có ngươi điều khiển."}],
+    "segs": [{"k": "m", "t": "vệ tinh có người điều khiển."}],
     "k": "manned satellite"
   },
   {
@@ -29699,7 +29699,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phương tiện dự trữ (điều khiển) bằng tay (để chuyển sang điều khiến bằng tay khi hỏng hệ thống tự động)."
+        "t": "phương tiện dự trữ (điều khiển) bằng tay (để chuyển sang điều khiển bằng tay khi hỏng hệ thống tự động)."
       }
     ],
     "k": "manual back-up"
@@ -29888,7 +29888,7 @@
     ],
     "k": "manual keying speed"
   },
-  {"h": "manual labour", "segs": [{"k": "m", "t": "lao dộng chân tay."}], "k": "manual labour"},
+  {"h": "manual labour", "segs": [{"k": "m", "t": "lao động chân tay."}], "k": "manual labour"},
   {
     "h": "manual leak detector",
     "segs": [
@@ -32312,7 +32312,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Sự bộ sung của Microsoft về một giao diện chương trình ứng dụng để thâm nhập vào các dịch vụ báo tin cho những người lập trình. MAPI phiên bản"
+        "t": "Sự bổ sung của Microsoft về một giao diện chương trình ứng dụng để thâm nhập vào các dịch vụ báo tin cho những người lập trình. MAPI phiên bản"
       },
       {
         "k": "m",
@@ -32489,7 +32489,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Địa dồ và hải đồ, các miêu tả dưới dạng biểu đồ toàn bộ hoặc một phần của bề mặt trái đất trên một mặt phẳng. Thuật ngữ \"địa đồ\" thường dùng để chỉ những vùng đất, trong khi biểu đồ dùng để chỉ một vùng biển thường được gọi là \"hải đồ\". Những địa đồ xuất hiện sớm nhất đã được biết đến là những bản đồ đã được cư dân Babylon vẽ trên các phiến đất sét, chúng có niên đại vào khoảng năm 2300 trước Công Nguyên. Những người Hy Lạp cổ đại đã vẽ những địa đồ miêu tả thế giới mà họ đã biết, và đã nghiên cứu hình dạng của nó. Vào khoảng thế kỷ thứ 3 trước Công Nguyên, các nhà địa lý Hy Lạp đã đồng ý rằng quả đất có hình cầu. Vào thời gian này, Eratosthenes, nhà thiên văn và đồng thời cũng là nhà địa lý Hy Lạp đã ước lượng quả đất có chu vi khoảng 46.000 km, không khác với số đo 40.000 mà ngày nay người ta đã tính được. Từ thế kỷ thứ 3 trước Công Nguyên, người Trung Quốc đã dựa theo những đường kẻ ô chạy song song theo chiều Bắc-Nam và Đông Tây cùng những tham khảo tại chỗ để vẽ bản đồ. Những bản đồ này chính xác đáng kể nhưng không đầy đủ, và chỉ được hoàn thiện sau khi kỹ thuật nghiên cứu bản đồ của phương Tây được đưa vào Trung Quốc vào thế kỷ thứ 17. Có lẽ Ptolemy là người được biết đến nhiều nhất trong thời kỳ đầu của khoa địa lý. Tác phẩm Guide to Geography của ông bao gồm một bản đồ thế giới, là bản đồ đã được phục hồi tại châu Âu vào đầu thế kỷ thứ 15. Vào thời trung cổ, các nhà địa lý châu Âu tin rằng thế giới gồm châu Âu, châu Á, và châu Phi chỉ bao phủ một phần tư bề mặt trái đất. Trong tập bản đồ mappa mundi (bản đồ thế giới), người ta chỉ vẽ một phần của quả đất, nhưng các vị trí cùng những đặc điểm bên trên không tương quan chính xác với vị trí thật của chúng trên địa cầu. Tuy nhiên, trong thế giới Ả Rập, thiên văn học và khoa nghiên cứu bản đồ kinh điển liên tục được nghiên cứu. Các nhà địa lý Hồi Giáo đã dựa trên bảng có các đường kẻ vĩ độ và kinh độ mới để vẽ bản đồ. Trong đó, các vùng đất có thể cư trú được mở rộng hơn về phía nam xích đạo, và Ấn Độ Dương mở rộng về vùng Viễn Đông. Vào thế kỷ thứ 13 và 14, việc đi lại của những người châu Âu ngang qua châu Á, và việc ứng dụng các hải đồ có tham khảo la bàn để xác định phương hướng đã giúp cải thiện chi tiết cho các bản đồ thế giới. Đến thế kỷ 15 và 16, việc chuyển đổi các thành quả nghiên cứu về địa lý giữa người Hy Lạp và Ả Rập đã đem lại cho người châu Âu khái niệm về phép chiếu bản đồ, trong khi các khám phá của những người như Christopher Columbus đã đem lại một cái nhìn chính xác hơn về quả đất. Người vẽ bản đồ nổi tiếng nhất vào giai đoạn này là Gerardus Mercator, người có phương pháp chiếu hình dạng bề mặt quả đất lên trên một mặt phẳng giúp cho các hoa tiêu định hướng theo những đường thẳng. Vào thế kỷ thứ 18, một phương pháp vẽ bản đồ có kỹ thuật cao hơn đã bắt đầu chiếm ưu thế. Nhiều quốc gia châu Âu bắt đầu mở các cuộc khảo sát hệ thống hóa phép đo vẽ địa hình quốc gia. Nhiều nước cũng làm theo, nhưng vẫn còn nhiều vùng trên thế giới với phần lớn diện tích chưa được vẽ lại. Mãi đến thế chiến thứ hai, những vùng rộng lớn mới được vẽ lại thành bản đồ nhờ vào việc tham khảo các không ảnh."
+        "t": "Địa đồ và hải đồ, các miêu tả dưới dạng biểu đồ toàn bộ hoặc một phần của bề mặt trái đất trên một mặt phẳng. Thuật ngữ \"địa đồ\" thường dùng để chỉ những vùng đất, trong khi biểu đồ dùng để chỉ một vùng biển thường được gọi là \"hải đồ\". Những địa đồ xuất hiện sớm nhất đã được biết đến là những bản đồ đã được cư dân Babylon vẽ trên các phiến đất sét, chúng có niên đại vào khoảng năm 2300 trước Công Nguyên. Những người Hy Lạp cổ đại đã vẽ những địa đồ miêu tả thế giới mà họ đã biết, và đã nghiên cứu hình dạng của nó. Vào khoảng thế kỷ thứ 3 trước Công Nguyên, các nhà địa lý Hy Lạp đã đồng ý rằng quả đất có hình cầu. Vào thời gian này, Eratosthenes, nhà thiên văn và đồng thời cũng là nhà địa lý Hy Lạp đã ước lượng quả đất có chu vi khoảng 46.000 km, không khác với số đo 40.000 mà ngày nay người ta đã tính được. Từ thế kỷ thứ 3 trước Công Nguyên, người Trung Quốc đã dựa theo những đường kẻ ô chạy song song theo chiều Bắc-Nam và Đông Tây cùng những tham khảo tại chỗ để vẽ bản đồ. Những bản đồ này chính xác đáng kể nhưng không đầy đủ, và chỉ được hoàn thiện sau khi kỹ thuật nghiên cứu bản đồ của phương Tây được đưa vào Trung Quốc vào thế kỷ thứ 17. Có lẽ Ptolemy là người được biết đến nhiều nhất trong thời kỳ đầu của khoa địa lý. Tác phẩm Guide to Geography của ông bao gồm một bản đồ thế giới, là bản đồ đã được phục hồi tại châu Âu vào đầu thế kỷ thứ 15. Vào thời trung cổ, các nhà địa lý châu Âu tin rằng thế giới gồm châu Âu, châu Á, và châu Phi chỉ bao phủ một phần tư bề mặt trái đất. Trong tập bản đồ mappa mundi (bản đồ thế giới), người ta chỉ vẽ một phần của quả đất, nhưng các vị trí cùng những đặc điểm bên trên không tương quan chính xác với vị trí thật của chúng trên địa cầu. Tuy nhiên, trong thế giới Ả Rập, thiên văn học và khoa nghiên cứu bản đồ kinh điển liên tục được nghiên cứu. Các nhà địa lý Hồi Giáo đã dựa trên bảng có các đường kẻ vĩ độ và kinh độ mới để vẽ bản đồ. Trong đó, các vùng đất có thể cư trú được mở rộng hơn về phía nam xích đạo, và Ấn Độ Dương mở rộng về vùng Viễn Đông. Vào thế kỷ thứ 13 và 14, việc đi lại của những người châu Âu ngang qua châu Á, và việc ứng dụng các hải đồ có tham khảo la bàn để xác định phương hướng đã giúp cải thiện chi tiết cho các bản đồ thế giới. Đến thế kỷ 15 và 16, việc chuyển đổi các thành quả nghiên cứu về địa lý giữa người Hy Lạp và Ả Rập đã đem lại cho người châu Âu khái niệm về phép chiếu bản đồ, trong khi các khám phá của những người như Christopher Columbus đã đem lại một cái nhìn chính xác hơn về quả đất. Người vẽ bản đồ nổi tiếng nhất vào giai đoạn này là Gerardus Mercator, người có phương pháp chiếu hình dạng bề mặt quả đất lên trên một mặt phẳng giúp cho các hoa tiêu định hướng theo những đường thẳng. Vào thế kỷ thứ 18, một phương pháp vẽ bản đồ có kỹ thuật cao hơn đã bắt đầu chiếm ưu thế. Nhiều quốc gia châu Âu bắt đầu mở các cuộc khảo sát hệ thống hóa phép đo vẽ địa hình quốc gia. Nhiều nước cũng làm theo, nhưng vẫn còn nhiều vùng trên thế giới với phần lớn diện tích chưa được vẽ lại. Mãi đến thế chiến thứ hai, những vùng rộng lớn mới được vẽ lại thành bản đồ nhờ vào việc tham khảo các không ảnh."
       }
     ],
     "k": "maps and charts"
@@ -44193,7 +44193,7 @@
   },
   {
     "h": "mass-transfer coefficient",
-    "segs": [{"k": "m", "t": "hệ số chuyền khối lượng."}],
+    "segs": [{"k": "m", "t": "hệ số chuyển khối lượng."}],
     "k": "mass-transfer coefficient"
   },
   {
@@ -52887,7 +52887,7 @@
   },
   {
     "h": "maximum flooded length",
-    "segs": [{"k": "m", "t": "chiều đài tối đa của phần chìm."}],
+    "segs": [{"k": "m", "t": "chiều dài tối đa của phần chìm."}],
     "k": "maximum flooded length"
   },
   {

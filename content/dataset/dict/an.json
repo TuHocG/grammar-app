@@ -1810,7 +1810,7 @@
       },
       {
         "k": "m",
-        "t": "Phương tiện truyền thông trung gian cho việc truyền thông tỷ biến có thể là cáp xoăn đôi, cáp đồng trục, cáp quang, khí quyển hay không gian. Một kỹ thuật được gọi là sự điều biến được dùng để kết hợp tín hiệu vào (dữ liệu) với tín hiệu mang (carrier signal). Tín hiệu mang là một tần số cụ thể. Ví dụ, khi bật radio là bạn đã chon một tần số cụ thể nào đó. Khi đó radio sẽ phát ra những tín hiệu do đài phát thanh gắn vào tần số mang đó. Có hai kỹ thuật điều biến chính: điều biến biên độ (Amplitude Modulation - AM), biến đổi biên độ (độ cao) của tín hiệu mang; và điều biến tần số (Frequency Modulation - FM), điều biến tần số của tín hiệu mang. Xem Modulation Techniques để biết thêm chi tiết."
+        "t": "Phương tiện truyền thông trung gian cho việc truyền thông tỷ biến có thể là cáp xoắn đôi, cáp đồng trục, cáp quang, khí quyển hay không gian. Một kỹ thuật được gọi là sự điều biến được dùng để kết hợp tín hiệu vào (dữ liệu) với tín hiệu mang (carrier signal). Tín hiệu mang là một tần số cụ thể. Ví dụ, khi bật radio là bạn đã chọn một tần số cụ thể nào đó. Khi đó radio sẽ phát ra những tín hiệu do đài phát thanh gắn vào tần số mang đó. Có hai kỹ thuật điều biến chính: điều biến biên độ (Amplitude Modulation - AM), biến đổi biên độ (độ cao) của tín hiệu mang; và điều biến tần số (Frequency Modulation - FM), điều biến tần số của tín hiệu mang. Xem Modulation Techniques để biết thêm chi tiết."
       },
       {
         "k": "m",
@@ -2549,7 +2549,7 @@
   },
   {
     "h": "analytic engine",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy giả tích"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy giải tích"}],
     "k": "analytic engine"
   },
   {
@@ -5859,7 +5859,7 @@
   },
   {
     "h": "andr-",
-    "segs": [{"k": "m", "t": "(andro-) prefix có nghỉa là người đàn ông hoặc giống nam."}],
+    "segs": [{"k": "m", "t": "(andro-) prefix có nghĩa là người đàn ông hoặc giống nam."}],
     "k": "andr-"
   },
   {"h": "andradite", "segs": [{"k": "m", "t": "(khoáng vật) anđrađít."}], "k": "andradite"},
@@ -5960,7 +5960,7 @@
       },
       {
         "k": "m",
-        "t": "AFS được đặc biệt thiết kế để cung cấp các dịch vụ tập tin đáng tin cậy trong các môi trường phân bố rộng. Nó tạo ra các môi trường được phân bố dễ quản lý với cấu trúc dựa trên các ô. Mỗi ô là tập hợp những máy dịch vụ tập tin (file server) và hệ thống các máy khách trong một khu vục tự trị do một người có thẩm quyền phụ trách. Mỗi ô thường là đại diện tài nguyên của một tổ chức. Người dùng có thể chia sẻ thông tin với nhau trong ô đó. Họ cũng có thể chia sẻ thông tin với người dùng ở những ô khác tùy thuộc vào quyền truy cập được cấp bới những người phụ trách của những ô đó."
+        "t": "AFS được đặc biệt thiết kế để cung cấp các dịch vụ tập tin đáng tin cậy trong các môi trường phân bố rộng. Nó tạo ra các môi trường được phân bố dễ quản lý với cấu trúc dựa trên các ô. Mỗi ô là tập hợp những máy dịch vụ tập tin (file server) và hệ thống các máy khách trong một khu vục tự trị do một người có thẩm quyền phụ trách. Mỗi ô thường là đại diện tài nguyên của một tổ chức. Người dùng có thể chia sẻ thông tin với nhau trong ô đó. Họ cũng có thể chia sẻ thông tin với người dùng ở những ô khác tùy thuộc vào quyền truy cập được cấp bởi những người phụ trách của những ô đó."
       },
       {
         "k": "m",
@@ -8597,7 +8597,7 @@
   {"h": "angle lever", "segs": [{"k": "m", "t": "đòn khuỷu, đòn (bẩy) góc."}], "k": "angle lever"},
   {
     "h": "angle measuring instrument",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy do góc"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máy đo góc"}],
     "k": "angle measuring instrument"
   },
   {"h": "angle meter", "segs": [{"k": "m", "t": "máy đo góc."}], "k": "angle meter"},
@@ -8973,7 +8973,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "góc thị sai (trong tam giác thị sai), phương vị của chuẩn, phương vị của đường vị trí, góc gia kinh tuyến và đường orthô (khi hải hành theo cung đường tròn lớn)."
+        "t": "góc thị sai (trong tam giác thị sai), phương vị của chuẩn, phương vị của đường vị trí, góc giữa kinh tuyến và đường orthô (khi hải hành theo cung đường tròn lớn)."
       }
     ],
     "k": "angle of position"
@@ -12038,7 +12038,7 @@
       {"k": "m", "t": "tính hoạt bát, sinh khí"},
       {"k": "m", "t": "sự nhộn nhịp, sự náo nhiệt, sự sôi nổi"},
       {"k": "m", "t": "(văn học) tính sinh động, tính linh hoạt"},
-      {"k": "m", "t": "sự cỗ vũ"},
+      {"k": "m", "t": "sự cổ vũ"},
       {"k": "m", "t": "sự sản xuất phim hoạt họa."}
     ],
     "ipa": ",æni'meiʃn",
@@ -16086,7 +16086,7 @@
   },
   {
     "h": "Anopsia",
-    "segs": [{"k": "m", "t": "1. mất sử đụng một mắt"}, {"k": "m", "t": "2. lác ẩn trên."}],
+    "segs": [{"k": "m", "t": "1. mất sử dụng một mắt"}, {"k": "m", "t": "2. lác ẩn trên."}],
     "k": "anopsia"
   },
   {
@@ -17985,7 +17985,7 @@
   },
   {
     "h": "antemortem clot",
-    "segs": [{"k": "m", "t": "Cục động máu trước khi chết."}],
+    "segs": [{"k": "m", "t": "Cục đông máu trước khi chết."}],
     "k": "antemortem clot"
   },
   {
@@ -19763,7 +19763,7 @@
   },
   {
     "h": "anthraco-silicosis",
-    "segs": [{"k": "m", "t": "(y) bệnh phôi nhiễm bụi than-siloco."}],
+    "segs": [{"k": "m", "t": "(y) bệnh phổi nhiễm bụi than-siloco."}],
     "k": "anthraco-silicosis"
   },
   {"h": "anthracography", "segs": [{"k": "m", "t": "môn thạch học than."}], "k": "anthracography"},
@@ -33991,7 +33991,7 @@
     "ipa": "'æntrəm",
     "k": "antrum"
   },
-  {"h": "antrum amis", "segs": [{"k": "m", "t": "ống taỉ ngoài."}], "k": "antrum amis"},
+  {"h": "antrum amis", "segs": [{"k": "m", "t": "ống tai ngoài."}], "k": "antrum amis"},
   {"h": "antrum gastritis", "segs": [{"k": "m", "t": "Viêm hang vị."}], "k": "antrum gastritis"},
   {"h": "antrum maxillare", "segs": [{"k": "m", "t": "xoang hàm."}], "k": "antrum maxillare"},
   {
@@ -34850,7 +34850,7 @@
       {
         "k": "ex",
         "t": "if you remember anything at all, please let us know",
-        "vi": "anh có nhở ra điều gì thì cho chúng tôi biết"
+        "vi": "anh có nhớ ra điều gì thì cho chúng tôi biết"
       },
       {"k": "ex", "t": "is there anything to do?", "vi": "có việc gì làm không?"},
       {"k": "ex", "t": "he doesn't do anything", "vi": "hắn không làm gì hết"},

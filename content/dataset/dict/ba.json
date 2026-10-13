@@ -3421,7 +3421,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự trượt ngược"}],
     "k": "back shifting"
   },
-  {"h": "back shop", "segs": [{"k": "m", "t": "xưởng sữa chữa."}], "k": "back shop"},
+  {"h": "back shop", "segs": [{"k": "m", "t": "xưởng sửa chữa."}], "k": "back shop"},
   {
     "h": "back shunt",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mạch sun ngược"}],
@@ -3869,7 +3869,7 @@
       },
       {
         "k": "m",
-        "t": "Người dùng có thể tương tác với các ứng dụng qua các hệ thống tiền tiêu (front-end) để đặt ra các yêu cầu cho các hệ thống phụ dịch (back-end) thực hiện. Sau đó các hệ thống phụ dịch xử lý những yêu cầu đó, truy tìm và sắp xếp dữ liệu, chuẩn bị các tập tin, và dự trù những dịch vụ khác. Các hệ thống phụ dịch gần gủi với những dữ liệu mà chúng làm việc nên với việc sắp xếp này mạng được sử dụng một cách hiệu quả."
+        "t": "Người dùng có thể tương tác với các ứng dụng qua các hệ thống tiền tiêu (front-end) để đặt ra các yêu cầu cho các hệ thống phụ dịch (back-end) thực hiện. Sau đó các hệ thống phụ dịch xử lý những yêu cầu đó, truy tìm và sắp xếp dữ liệu, chuẩn bị các tập tin, và dự trù những dịch vụ khác. Các hệ thống phụ dịch gần gũi với những dữ liệu mà chúng làm việc nên với việc sắp xếp này mạng được sử dụng một cách hiệu quả."
       },
       {"k": "m", "t": "Xem thêm Client/Server Computing, Multitiered Architecture, and Servers."}
     ],
@@ -11697,7 +11697,7 @@
     "h": "baker's chocolate",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "khối socola để làm bành ngọt"}
+      {"k": "m", "t": "khối socola để làm bánh ngọt"}
     ],
     "k": "baker's chocolate"
   },
@@ -19131,7 +19131,7 @@
       {"k": "m", "t": "Độ rộng dải tần theo yêu cầu"},
       {
         "k": "m",
-        "t": "Độ rộng dải tần theo yêu cầu là một kỹ thuật truyền thông nhằm cung cấp dung năng bổ sung trên một liên kết nhằm giải quyết tình trạng bùng nổ lưu lượng truyền dữ liệu. Kỹ thuật này nói chung được dùng trên các đường quay số (dial-up) và các WAN (mạng diện rộng) để tạm thời làm tăng dung lượng của một liên kết. Một vài người gọi đó là \"độ rộng dãi tần cao su\" vì nó có thể tăng giảm dung lượng khi cần. Nó còn được gọi là dynamic bandwidth allocation hay load balancing. Một kỹ thuật tương tự với nó là bandwidth on time-of-day dùng để cung cấp dung lượng bổ sung vào một thời điểm nhất định trong ngày."
+        "t": "Độ rộng dải tần theo yêu cầu là một kỹ thuật truyền thông nhằm cung cấp dung năng bổ sung trên một liên kết nhằm giải quyết tình trạng bùng nổ lưu lượng truyền dữ liệu. Kỹ thuật này nói chung được dùng trên các đường quay số (dial-up) và các WAN (mạng diện rộng) để tạm thời làm tăng dung lượng của một liên kết. Một vài người gọi đó là \"độ rộng dải tần cao su\" vì nó có thể tăng giảm dung lượng khi cần. Nó còn được gọi là dynamic bandwidth allocation hay load balancing. Một kỹ thuật tương tự với nó là bandwidth on time-of-day dùng để cung cấp dung lượng bổ sung vào một thời điểm nhất định trong ngày."
       },
       {
         "k": "m",
@@ -22117,7 +22117,7 @@
       {"k": "m", "t": "Hệ điều hành mạng VINES của Banyan"},
       {
         "k": "m",
-        "t": "VINES của Banyan là hệ điều hành mạng với nòng cốt là UNIX cho phép người dùng các hệ điều hành máy tính để bàn phổ biến như DOS, OS/2, Windows, và và các phiên bản hệ điều hành đó dùng cho các hệ thống Macintosh... trao đổi thông tin và tài nguyên với nhau và với các hệ thống máy tính chủ. VINES xuất hiện lần đầu tiên vào thập niên 1980. Nó cung cấp dịch vụ hổ trợ NFS (Network File System) đầy đủ của UNIX trong các dịch vụ của nó và TCP/IP để truyền. Nó cũng bao gồm StreetTalk Directory Services của Banyan, có thể là bộ phận quan trọng nhất của hệ điều hành này. Trên thực tế, Banyan đã có bán StreetTalk trên những nền khác, bao gồm cả Windows NT Server."
+        "t": "VINES của Banyan là hệ điều hành mạng với nòng cốt là UNIX cho phép người dùng các hệ điều hành máy tính để bàn phổ biến như DOS, OS/2, Windows, và các phiên bản hệ điều hành đó dùng cho các hệ thống Macintosh... trao đổi thông tin và tài nguyên với nhau và với các hệ thống máy tính chủ. VINES xuất hiện lần đầu tiên vào thập niên 1980. Nó cung cấp dịch vụ hỗ trợ NFS (Network File System) đầy đủ của UNIX trong các dịch vụ của nó và TCP/IP để truyền. Nó cũng bao gồm StreetTalk Directory Services của Banyan, có thể là bộ phận quan trọng nhất của hệ điều hành này. Trên thực tế, Banyan đã có bán StreetTalk trên những nền khác, bao gồm cả Windows NT Server."
       },
       {
         "k": "m",
@@ -30297,7 +30297,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "cơ sở hình học. Bộ phận của hình học chuyên nghiên cứu về các hệ tiên đề của các hình học khác nhau, các vấn đề về các hệ tiên đề đó (tính phi mâu thuẫn, tính độc lập của các tiên đề, tính đầy đủ của hệ tiêu đề) và mối quan hệ giữa các hệt tiên đề của những hình học khác nhau (xạ ảnh, afin, v.v...)."
+        "t": "cơ sở hình học. Bộ phận của hình học chuyên nghiên cứu về các hệ tiên đề của các hình học khác nhau, các vấn đề về các hệ tiên đề đó (tính phi mâu thuẫn, tính độc lập của các tiên đề, tính đầy đủ của hệ tiên đề) và mối quan hệ giữa các hệ tiên đề của những hình học khác nhau (xạ ảnh, afin, v.v...)."
       }
     ],
     "k": "bases of geometry"
@@ -32307,7 +32307,7 @@
       {
         "k": "ex",
         "t": "this agenda will form the basis of our next meeting",
-        "vi": "chương trình nghị sự này sẽ là cơ cở cho cuộc họp sắp tới của chúng ta."
+        "vi": "chương trình nghị sự này sẽ là cơ sở cho cuộc họp sắp tới của chúng ta."
       }
     ],
     "ipa": "'beisis",

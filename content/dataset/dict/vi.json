@@ -3257,7 +3257,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(đgt) victimize ise sb (for sth) 1. Dùng làm vật hy sinh, đem hy sinh.-Union leaders claimed that some members had been victimized for talking part in the strike: Các vị lanh đạo Công đoàn đã xác nhận là một số đoàn viên đã bị đuổi việc (hy sinh) do tham gia đình công. 2. Làm hại, bắt nạt áp bức.-The fat boy was victimized by his classmates: Các bạn học đã bắt nạt cậu bé mập ù."
+        "t": "(đgt) victimize ise sb (for sth) 1. Dùng làm vật hy sinh, đem hy sinh.-Union leaders claimed that some members had been victimized for talking part in the strike: Các vị lãnh đạo Công đoàn đã xác nhận là một số đoàn viên đã bị đuổi việc (hy sinh) do tham gia đình công. 2. Làm hại, bắt nạt áp bức.-The fat boy was victimized by his classmates: Các bạn học đã bắt nạt cậu bé mập ù."
       }
     ],
     "ipa": "viktimaiz",
@@ -4281,7 +4281,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Các chip nhớ RAM động được thiết kế đặt biệt để nâng hiệu suất của các bộ điều hợp video lên cao nhất. Tương tự bộ nhớ hai cổng, cho chip này cho phép CPU đưa dữ liệu vào một cổng trong khi hệ thống video không bị làm chậm bởi quá trình ghi của CPU. (bộ nhớ hai cổng thực thụ cho phép đọc và ghi đồng thời). Các chip video RAM được dùng trong những board điều hợp video cao cấp."
+        "t": "Các chip nhớ RAM động được thiết kế đặc biệt để nâng hiệu suất của các bộ điều hợp video lên cao nhất. Tương tự bộ nhớ hai cổng, cho chip này cho phép CPU đưa dữ liệu vào một cổng trong khi hệ thống video không bị làm chậm bởi quá trình ghi của CPU. (bộ nhớ hai cổng thực thụ cho phép đọc và ghi đồng thời). Các chip video RAM được dùng trong những board điều hợp video cao cấp."
       },
       {"k": "m", "t": "Xem random-access memory - RAM, and video adapter."}
     ],
@@ -9968,7 +9968,7 @@
   },
   {
     "h": "virtual storage partition",
-    "segs": [{"k": "m", "t": "sự phân chia bộ nhở ảo, phần bộ nhớ ảo."}],
+    "segs": [{"k": "m", "t": "sự phân chia bộ nhớ ảo, phần bộ nhớ ảo."}],
     "k": "virtual storage partition"
   },
   {
@@ -11296,7 +11296,7 @@
   },
   {
     "h": "viscosity measurement",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự đo dộ nhớt"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự đo độ nhớt"}],
     "k": "viscosity measurement"
   },
   {
@@ -11762,7 +11762,7 @@
   },
   {
     "h": "visibility distance",
-    "segs": [{"k": "m", "t": "khoảng cách nhìn thây được; tầm nhìn xa."}],
+    "segs": [{"k": "m", "t": "khoảng cách nhìn thấy được; tầm nhìn xa."}],
     "k": "visibility distance"
   },
   {
@@ -12456,7 +12456,7 @@
     "h": "visitatorial",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "thuộc sự kháo sát/thanh tra/kiểm tra"},
+      {"k": "m", "t": "thuộc sự khảo sát/thanh tra/kiểm tra"},
       {"k": "m", "t": "thuộc sự thăm viếng."}
     ],
     "ipa": ",vizitə'tɔriəl",

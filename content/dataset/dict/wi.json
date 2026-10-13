@@ -1360,7 +1360,7 @@
   },
   {
     "h": "width-pulse modutation",
-    "segs": [{"k": "m", "t": "sự diều biến độ rộng-xung."}],
+    "segs": [{"k": "m", "t": "sự điều biến độ rộng-xung."}],
     "k": "width-pulse modutation"
   },
   {
@@ -6906,7 +6906,7 @@
       },
       {
         "k": "m",
-        "t": "Windows NT Workstation 4.0. Hệ điều hành đầu-cuối-trên (high-end) cung cấp khả năng 32bit, và quan trọng nhất là hệ này được thiết kế để đạt tiêu chuẫn an toàn lẫn độ tin cậy ở mức độ rất cao, đồng thời có khả năng quản lý được, có thể tạo mạng và đạt hiệu suất cao."
+        "t": "Windows NT Workstation 4.0. Hệ điều hành đầu-cuối-trên (high-end) cung cấp khả năng 32bit, và quan trọng nhất là hệ này được thiết kế để đạt tiêu chuẩn an toàn lẫn độ tin cậy ở mức độ rất cao, đồng thời có khả năng quản lý được, có thể tạo mạng và đạt hiệu suất cao."
       },
       {
         "k": "m",
@@ -6947,7 +6947,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "trình ứng dụng Windows. Một loại chương trình ứng dụng có thể chạy trong môi trường cửa sổ của Mircrosoft Windows, tận dụng hết các ưu điểm giao diện chương trình ứng dụng (API) của Windows, tận dụng khả năng hiển thị các phông chữ và hình đồ họa trên màn hình, cũng như khả năng trao đổi dữ liệu động giữa các trình ứng dụng của nó."
+        "t": "trình ứng dụng Windows. Một loại chương trình ứng dụng có thể chạy trong môi trường cửa sổ của Microsoft Windows, tận dụng hết các ưu điểm giao diện chương trình ứng dụng (API) của Windows, tận dụng khả năng hiển thị các phông chữ và hình đồ họa trên màn hình, cũng như khả năng trao đổi dữ liệu động giữa các trình ứng dụng của nó."
       }
     ],
     "k": "windows application"
@@ -6984,7 +6984,7 @@
       {"k": "m", "t": "Take Ownership (O) Tự gán mình là chủ của một tập tin hay thư mục."},
       {
         "k": "m",
-        "t": "Các cấp phép chuẩn là một sự kết hợp các cấp phép riêng lẻ và được thiết kế để cung cấp một số các quyền phù hợp với hầu hết các yêu cầu chung của người sử dụng. Các cấp phép chuẩn đối với thư mục được liệt kê trong Bảng W-1. Cột thứ hai liệt kê các cấp phép riêng lẻ tạo nên các cấp phép chuẩn, và cột thứ ba chỉ ra các cấp phép mà những tập tin mới có được khi chúng được bồ sung vào thư mục."
+        "t": "Các cấp phép chuẩn là một sự kết hợp các cấp phép riêng lẻ và được thiết kế để cung cấp một số các quyền phù hợp với hầu hết các yêu cầu chung của người sử dụng. Các cấp phép chuẩn đối với thư mục được liệt kê trong Bảng W-1. Cột thứ hai liệt kê các cấp phép riêng lẻ tạo nên các cấp phép chuẩn, và cột thứ ba chỉ ra các cấp phép mà những tập tin mới có được khi chúng được bổ sung vào thư mục."
       },
       {
         "k": "m",
@@ -7038,7 +7038,7 @@
       },
       {
         "k": "m",
-        "t": "Hướng phát triễn trong tương lai (Future enhancements) Microsoft đang nâng cấp Window NT phiên bản 5.0 với các đặc tính như Windows NT Directory Services. Bạn có thể tìm thấy những đặc tính mới này ở địa chỉ http://www.microsoft.com/windowsnt."
+        "t": "Hướng phát triển trong tương lai (Future enhancements) Microsoft đang nâng cấp Window NT phiên bản 5.0 với các đặc tính như Windows NT Directory Services. Bạn có thể tìm thấy những đặc tính mới này ở địa chỉ http://www.microsoft.com/windowsnt."
       },
       {"k": "m", "t": "Các đặc tính bảo mật"},
       {
@@ -7064,7 +7064,7 @@
       },
       {
         "k": "m",
-        "t": "Domain domain giúp những người quản trị bảo mật ở cấp cao, nhưng đặc tính này đòi hỏi ít nhất phải có một hệ thống Windows NT Server trong trạng thái sẵn sàng phục vụ. Domain là một nhóm các hệ thống và người dùng logic trong một phòng ban, khu vực hay cấu trúc khác của tồ chức được quản lý tập trung bằng một số quyền nào đó. Thông tin về tài khoản người sử dụng được lưu trữ trong một cơ sở dữ liệu trên một Windows NT Server tập trung cho phép tất cả các Windows NT Server khác trong domain đó dùng chung cơ sở dữ liệu này. Tham khảo \"Domains in Windows NT\" để biết thêm thông tin."
+        "t": "Domain domain giúp những người quản trị bảo mật ở cấp cao, nhưng đặc tính này đòi hỏi ít nhất phải có một hệ thống Windows NT Server trong trạng thái sẵn sàng phục vụ. Domain là một nhóm các hệ thống và người dùng logic trong một phòng ban, khu vực hay cấu trúc khác của tổ chức được quản lý tập trung bằng một số quyền nào đó. Thông tin về tài khoản người sử dụng được lưu trữ trong một cơ sở dữ liệu trên một Windows NT Server tập trung cho phép tất cả các Windows NT Server khác trong domain đó dùng chung cơ sở dữ liệu này. Tham khảo \"Domains in Windows NT\" để biết thêm thông tin."
       },
       {
         "k": "m",
@@ -7664,7 +7664,7 @@
     "h": "wine-house",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "cửa hàng bàn rượu"},
+      {"k": "m", "t": "cửa hàng bán rượu"},
       {"k": "m", "t": "(từ cổ) quán rượu."}
     ],
     "ipa": "'wainhaus",
@@ -11556,7 +11556,7 @@
       {"k": "m", "t": "Wireless Mobile Communications"},
       {
         "k": "m",
-        "t": "Truyền thông di động được sử dụng để giữ mối liên lạc giữa những người kinh doanh thường xuyên di chuyển, các trao đôải phân phối, các kỹ thuật viên dã chiến, và các đối tượng khác. Những người dùng máy tính di động sử dụng truyền thông vô tuyến để kết nối với các mạng liên đoàn, các cơ sở dữ liệu truy vấn liên đoàn, trao đổi thư điện tử, truyền tập tin, và thậm chí tham gia xử lý cộng tác. Tất cả đều được thực hiện bằng các máy tính xách tay, PDA (personal digital assistants), và các thiết bị truyền thông vô tuyến nhỏ khác nhau. Những người dùng cũng sẽ kết nối Internet thông qua các thiết bị này, và một ngôn ngữ đặc biệt được gọi là HDML (Hand-held Device Markup Language) được sáng tạo cho mục đích này. Xem \"HDML (Hand-held Device Markup Language) để biết thêm thông tin."
+        "t": "Truyền thông di động được sử dụng để giữ mối liên lạc giữa những người kinh doanh thường xuyên di chuyển, các trao đổi phân phối, các kỹ thuật viên dã chiến, và các đối tượng khác. Những người dùng máy tính di động sử dụng truyền thông vô tuyến để kết nối với các mạng liên đoàn, các cơ sở dữ liệu truy vấn liên đoàn, trao đổi thư điện tử, truyền tập tin, và thậm chí tham gia xử lý cộng tác. Tất cả đều được thực hiện bằng các máy tính xách tay, PDA (personal digital assistants), và các thiết bị truyền thông vô tuyến nhỏ khác nhau. Những người dùng cũng sẽ kết nối Internet thông qua các thiết bị này, và một ngôn ngữ đặc biệt được gọi là HDML (Hand-held Device Markup Language) được sáng tạo cho mục đích này. Xem \"HDML (Hand-held Device Markup Language) để biết thêm thông tin."
       },
       {
         "k": "m",
@@ -11564,7 +11564,7 @@
       },
       {
         "k": "m",
-        "t": "Về bản chất,việc xử lý di động có liên quan đến những bộ tải điện thoại và các nhà cung cấp dịch vụ khác. Những người dùng chắc chẳn sẽ quan tâm mức độ truy xuất (tầm vực và tính thông suốt của tín hiệu), tốc độ truyền dữ liệu tiềm năng, và các khả năng lưu trữ và chuyển đi cho phép người dùng lấy các thông điệp khi họ quay lại trong phạm vi tầm vực. Ví dụ, tốc độ thấp khi truyền dữ liệu đến và từ các thiết bị di động sử dụng các hệ thống truyền thông được mô tả sau đây, chỉ từ 8 Kbit/ giây đến 19.2 Kbit/ giây. Các yêu cầu về sửa lỗi có thể tác động mạnh mẽ đến việc hạn chế tốc độ truyền."
+        "t": "Về bản chất,việc xử lý di động có liên quan đến những bộ tải điện thoại và các nhà cung cấp dịch vụ khác. Những người dùng chắc chắn sẽ quan tâm mức độ truy xuất (tầm vực và tính thông suốt của tín hiệu), tốc độ truyền dữ liệu tiềm năng, và các khả năng lưu trữ và chuyển đi cho phép người dùng lấy các thông điệp khi họ quay lại trong phạm vi tầm vực. Ví dụ, tốc độ thấp khi truyền dữ liệu đến và từ các thiết bị di động sử dụng các hệ thống truyền thông được mô tả sau đây, chỉ từ 8 Kbit/ giây đến 19.2 Kbit/ giây. Các yêu cầu về sửa lỗi có thể tác động mạnh mẽ đến việc hạn chế tốc độ truyền."
       },
       {
         "k": "m",
@@ -11717,7 +11717,7 @@
   },
   {
     "h": "wireless fix",
-    "segs": [{"k": "m", "t": "sự làm điểm bắng máy (tìm phương) vô tuyến."}],
+    "segs": [{"k": "m", "t": "sự làm điểm bằng máy (tìm phương) vô tuyến."}],
     "k": "wireless fix"
   },
   {"h": "wireless house", "segs": [{"k": "m", "t": "buồng vô tuyến."}], "k": "wireless house"},
@@ -14234,7 +14234,7 @@
     "h": "within limits",
     "segs": [
       {"k": "m", "t": "và"},
-      {"k": "ex", "t": "within bounds", "vi": "tới một điềm nào đó; với một số hạn chế nào đó."},
+      {"k": "ex", "t": "within bounds", "vi": "tới một điểm nào đó; với một số hạn chế nào đó."},
       {
         "k": "ex",
         "t": "You're free to do what you want - within limits, of course:",
@@ -14547,7 +14547,7 @@
       {
         "k": "ex",
         "t": "The time has come to leave, so without further ado, good evening and good-bye:",
-        "vi": "Giờ ra đi đã tới, nên không thể chần chừ nữa, xin chúc một buỗi tối tốt lành và xin chào tạm biệt."
+        "vi": "Giờ ra đi đã tới, nên không thể chần chừ nữa, xin chúc một buổi tối tốt lành và xin chào tạm biệt."
       }
     ],
     "k": "without further ado"

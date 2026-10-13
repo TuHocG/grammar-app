@@ -8647,7 +8647,7 @@
   {"h": "glutaric acid", "segs": [{"k": "m", "t": "axít glutaric."}], "k": "glutaric acid"},
   {
     "h": "glutathione",
-    "segs": [{"k": "m", "t": "loại peptide hoạt dộng như một coenzyme."}],
+    "segs": [{"k": "m", "t": "loại peptide hoạt động như một coenzyme."}],
     "k": "glutathione"
   },
   {"h": "glutathionemia", "segs": [{"k": "m", "t": "glutathion huyết."}], "k": "glutathionemia"},

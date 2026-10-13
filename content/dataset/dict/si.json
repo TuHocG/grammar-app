@@ -5934,7 +5934,7 @@
       },
       {"k": "m", "t": "dấu hiệu biểu hiện, biểu hiện, tượng trưng, điểm"},
       {"k": "ex", "t": "signs of the times", "vi": "dấu hiệu biểu hiện xu hướng của tình hình"},
-      {"k": "ex", "t": "violence is a signof weakness", "vi": "bạo lực là biểu hiến sự yếu"},
+      {"k": "ex", "t": "violence is a signof weakness", "vi": "bạo lực là biểu hiện sự yếu"},
       {
         "k": "ex",
         "t": "to give a book in sign of friendship",
@@ -12050,7 +12050,7 @@
     "h": "silver wheelchair",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "chiếc ghế đẩy băng bạc"},
+      {"k": "m", "t": "chiếc ghế đẩy bằng bạc"},
       {"k": "m", "t": "chiếc ghế đẩy bằng bạc"}
     ],
     "k": "silver wheelchair"
@@ -12695,7 +12695,7 @@
   },
   {
     "h": "simiilitude",
-    "segs": [{"k": "m", "t": "dt. 1. sự giống nhau sự tượng tự. 2. sự ví von so sánh."}],
+    "segs": [{"k": "m", "t": "dt. 1. sự giống nhau sự tương tự. 2. sự ví von so sánh."}],
     "ipa": "si'mili,tju:d",
     "k": "simiilitude"
   },
@@ -13599,7 +13599,7 @@
     "k": "simple gigantism"
   },
   {"h": "simple goiter", "segs": [{"k": "m", "t": "Bướu giáp đơn."}], "k": "simple goiter"},
-  {"h": "simple group", "segs": [{"k": "m", "t": "nhóm dơn giản."}], "k": "simple group"},
+  {"h": "simple group", "segs": [{"k": "m", "t": "nhóm đơn giản."}], "k": "simple group"},
   {
     "h": "simple groyne",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mỏ hàn độc lập"}],
@@ -23661,7 +23661,7 @@
   {"h": "sir stuffer", "segs": [{"k": "m", "t": "sự bơm giò bằng không khí."}], "k": "sir stuffer"},
   {
     "h": "sir-water steep",
-    "segs": [{"k": "m", "t": "sự tấm ướt không khí nước."}],
+    "segs": [{"k": "m", "t": "sự tẩm ướt không khí nước."}],
     "k": "sir-water steep"
   },
   {
@@ -25367,7 +25367,7 @@
     "h": "sitting duck",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "thtục. người có thế dễ bị công kích, người ở thế dễ bị tổn thương"},
+      {"k": "m", "t": "thtục. người có thể dễ bị công kích, người ở thế dễ bị tổn thương"},
       {"k": "m", "t": "mục tiêu dễ trúng."}
     ],
     "ipa": "'sitiŋ'dʌk",

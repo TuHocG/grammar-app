@@ -9906,7 +9906,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Call setup mô tả việc thiết lập một VC (virtual circuit - mạch ảo) trong một môi trường mạng hướng kết nối. Chẳng hạn, các mạng ATM (Asynchronous Tranfer Mode - Chế độ Truyền tải Bất đồng Bộ) là hướng kết nối. Khi một máy khách cần nối với thiết bị khác, thì ít nhất một VC được thiết lập để gởi dữ liệu tới thiết bị đó. Trong một môi trường LANE (giả lập mạng cục bộ), các VC bổ sung có thể được yêu cầu đối với chế độ truyền song công (full duplex) và cho chi phí ngoài dữ liệu (overhead). Để thiết lập một VC, máy khách ATM gởi đi một yêu cầu thiết lập kết nối đến thiết bị khác. Phải có thời gian (khoảng 100 Mili giây) cho việc thiết lập mạch. Đó gọi là thời gian call-setup, và nó thay đổi tùy thuộc vào phần cứng đang sử dụng. Trên một mạng có cường độ lưu thông cao, thời gian call-setup có thể chiếm một phần quan trọng trong toàn bộ quá trình thực hiện liên kết dữ liệu. Ngoài ra có thể trạm chuyển mạch đang tắt, khi đó nhiều call-setup sẽ cùng đến khi trạm chuyển đó trở lại trực tuyến."
+        "t": "Call setup mô tả việc thiết lập một VC (virtual circuit - mạch ảo) trong một môi trường mạng hướng kết nối. Chẳng hạn, các mạng ATM (Asynchronous Transfer Mode - Chế độ Truyền tải Bất đồng Bộ) là hướng kết nối. Khi một máy khách cần nối với thiết bị khác, thì ít nhất một VC được thiết lập để gởi dữ liệu tới thiết bị đó. Trong một môi trường LANE (giả lập mạng cục bộ), các VC bổ sung có thể được yêu cầu đối với chế độ truyền song công (full duplex) và cho chi phí ngoài dữ liệu (overhead). Để thiết lập một VC, máy khách ATM gởi đi một yêu cầu thiết lập kết nối đến thiết bị khác. Phải có thời gian (khoảng 100 Mili giây) cho việc thiết lập mạch. Đó gọi là thời gian call-setup, và nó thay đổi tùy thuộc vào phần cứng đang sử dụng. Trên một mạng có cường độ lưu thông cao, thời gian call-setup có thể chiếm một phần quan trọng trong toàn bộ quá trình thực hiện liên kết dữ liệu. Ngoài ra có thể trạm chuyển mạch đang tắt, khi đó nhiều call-setup sẽ cùng đến khi trạm chuyển đó trở lại trực tuyến."
       }
     ],
     "k": "call setup"
@@ -12307,7 +12307,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(computer aided measurement and control) sự điều khiển và đo bằng máy tính, sự điều khiền và đo có máy tính hỗ trợ."
+        "t": "(computer aided measurement and control) sự điều khiển và đo bằng máy tính, sự điều khiển và đo có máy tính hỗ trợ."
       }
     ],
     "k": "camac"
@@ -15881,7 +15881,7 @@
   {"h": "canalis opticus", "segs": [{"k": "m", "t": "ống thị."}], "k": "canalis opticus"},
   {
     "h": "canalis palatinovaginalis",
-    "segs": [{"k": "m", "t": "ống chân bươm-khẩu cái."}],
+    "segs": [{"k": "m", "t": "ống chân bướm-khẩu cái."}],
     "k": "canalis palatinovaginalis"
   },
   {"h": "canalis pharyngeus", "segs": [{"k": "m", "t": "ống hầu."}], "k": "canalis pharyngeus"},
@@ -16219,7 +16219,7 @@
   {"h": "cancel key", "segs": [{"k": "m", "t": "phím hủy."}], "k": "cancel key"},
   {
     "h": "cancel out",
-    "segs": [{"k": "m", "t": "làm căn bằng, làm mất giá trị."}],
+    "segs": [{"k": "m", "t": "làm cân bằng, làm mất giá trị."}],
     "k": "cancel out"
   },
   {
@@ -25567,7 +25567,7 @@
     "segs": [{"k": "m", "t": "(thuộc) thể tinh bao."}],
     "k": "capsulolenticular"
   },
-  {"h": "capsuloma", "segs": [{"k": "m", "t": "U bao thận, u dưới vo thận."}], "k": "capsuloma"},
+  {"h": "capsuloma", "segs": [{"k": "m", "t": "U bao thận, u dưới vỏ thận."}], "k": "capsuloma"},
   {
     "h": "capsuloplasty",
     "segs": [{"k": "m", "t": "(thủ thuật) tạo hình bao khớp."}],
@@ -26580,7 +26580,7 @@
     "k": "car service station"
   },
   {"h": "car shaker", "segs": [{"k": "m", "t": "máy rung xe dỡ tải."}], "k": "car shaker"},
-  {"h": "car sheave", "segs": [{"k": "m", "t": "nhà dể xe."}], "k": "car sheave"},
+  {"h": "car sheave", "segs": [{"k": "m", "t": "nhà để xe."}], "k": "car sheave"},
   {
     "h": "car shed",
     "segs": [{"k": "m", "t": "gara ôtô, nhà chứa tàu điện, đêpô tàu điện."}],
@@ -26771,7 +26771,7 @@
   },
   {
     "h": "car-repair shop",
-    "segs": [{"k": "m", "t": "xưởng sữa chữa ôtô, xưởng sửa chữa toa xe."}],
+    "segs": [{"k": "m", "t": "xưởng sửa chữa ôtô, xưởng sửa chữa toa xe."}],
     "k": "car-repair shop"
   },
   {
@@ -29692,7 +29692,7 @@
       {"k": "m", "t": "xác (nhà, tàu... bị cháy, bị đổ nát hư hỏng)"},
       {"k": "m", "t": "thân súc vật đã chặt đầu moi ruột (để đem pha)"},
       {"k": "m", "t": "(nghĩa bóng) thân xác"},
-      {"k": "ex", "t": "to save one's carcase", "vi": "giữ được cái thần xác"},
+      {"k": "ex", "t": "to save one's carcase", "vi": "giữ được cái thân xác"},
       {"k": "m", "t": "cứu được cái mạng mình"},
       {"k": "ex", "t": "to feed one's carcase", "vi": "nuôi cái thân xác"},
       {"k": "m", "t": "khung, sườn (nhà tàu...)"},
@@ -39186,7 +39186,7 @@
       {"k": "ex", "t": "to carve out", "vi": "đục ra, khoét ra"},
       {"k": "m", "t": "xẻo ra, cắt ra (một phần đất đai...)"},
       {"k": "ex", "t": "to carve up", "vi": "chia cắt, cắt nhỏ ra (đất đai...)"},
-      {"k": "ex", "t": "to carve one's way to", "vi": "cố lách tới, cổ mở một con đường tới."}
+      {"k": "ex", "t": "to carve one's way to", "vi": "cố lách tới, cố mở một con đường tới."}
     ],
     "ipa": "ka:v",
     "k": "carve",
@@ -40284,7 +40284,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "1. hệ thống các tuyên lệ tư pháp. 2. phương pháp nghiên cứu luật pháp dựa vào việc phân tích các tiền lệ tư pháp."
+        "t": "1. hệ thống các tiền lệ tư pháp. 2. phương pháp nghiên cứu luật pháp dựa vào việc phân tích các tiền lệ tư pháp."
       }
     ],
     "k": "case system"
@@ -41576,7 +41576,7 @@
       {
         "k": "ex",
         "t": "That store does not give you a choice of cash or credit. They want cash only:",
-        "vi": "Cửa hàng đó không cho bạn được chọc cách thanh toán bằng tiền mặt hay bằng tín dụng. Họ chỉ muốn thanh toán bằng tiền mặt mà thôi."
+        "vi": "Cửa hàng đó không cho bạn được chọn cách thanh toán bằng tiền mặt hay bằng tín dụng. Họ chỉ muốn thanh toán bằng tiền mặt mà thôi."
       }
     ],
     "k": "cash or credit"
@@ -46889,7 +46889,7 @@
       {
         "k": "ex",
         "t": "the early bird catches the worm",
-        "vi": "đến trước và dậy sớm là nắm thành công trongtay"
+        "vi": "đến trước và dậy sớm là nắm thành công trong tay"
       },
       {"k": "m", "t": "ngoại động từ ("},
       {"k": "ex", "t": "caught", "vi": ") bắt lấy, nắm lấy, tóm lấy, chộp lấy"},
@@ -47346,7 +47346,7 @@
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "câu nói thông dụng."}],
     "k": "catch-phrase"
   },
-  {"h": "catch-pit", "segs": [{"k": "m", "t": "hố tập tung nước."}], "k": "catch-pit"},
+  {"h": "catch-pit", "segs": [{"k": "m", "t": "hố tập trung nước."}], "k": "catch-pit"},
   {
     "h": "catch-title",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "tên tắt quyển sách."}],
@@ -48150,7 +48150,7 @@
   {
     "h": "catenating",
     "segs": [
-      {"k": "m", "t": "Tạo thanh chuỗi (triệu chứng)"},
+      {"k": "m", "t": "Tạo thành chuỗi (triệu chứng)"},
       {"k": "m", "t": "Bệnh liên quan với nhau."}
     ],
     "k": "catenating"

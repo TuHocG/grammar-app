@@ -7662,7 +7662,7 @@
     "k": "heat sensitive paper"
   },
   {"h": "heat sensitivity", "segs": [{"k": "m", "t": "độ nhạy nhiệt."}], "k": "heat sensitivity"},
-  {"h": "heat sensor", "segs": [{"k": "m", "t": "cảm bịến nhiệt."}], "k": "heat sensor"},
+  {"h": "heat sensor", "segs": [{"k": "m", "t": "cảm biến nhiệt."}], "k": "heat sensor"},
   {
     "h": "heat setting",
     "segs": [{"k": "m", "t": "sự làm đông cứng bằng nhiệt."}],
@@ -11272,7 +11272,7 @@
   },
   {
     "h": "heavy expenditure",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "các khoán chi tiêu lớn"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "các khoản chi tiêu lớn"}],
     "k": "heavy expenditure"
   },
   {
@@ -12435,7 +12435,7 @@
   {"h": "heboid", "segs": [{"k": "m", "t": "Bệnh sa sút trí tuệ sớm."}], "k": "heboid"},
   {
     "h": "heboidophrenia",
-    "segs": [{"k": "m", "t": "Sa sut trí tuệ tuổi trẻ."}],
+    "segs": [{"k": "m", "t": "Sa sút trí tuệ tuổi trẻ."}],
     "k": "heboidophrenia"
   },
   {"h": "hebosteotomy", "segs": [{"k": "m", "t": "Mở đường mu."}], "k": "hebosteotomy"},
@@ -14255,7 +14255,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hiệu số độ cao, hiệu chính độ cao khi nước cường và nước kém (trong dự báo triều)."
+        "t": "hiệu số độ cao, hiệu chỉnh độ cao khi nước cường và nước kém (trong dự báo triều)."
       }
     ],
     "k": "height difference"
@@ -17483,7 +17483,7 @@
       {"k": "ex", "t": "to need someone's help", "vi": "cần sự giúp đỡ của ai"},
       {"k": "ex", "t": "thank you for all your kind help", "vi": "cám ơn anh đã tận tình giúp đỡ"},
       {"k": "ex", "t": "can I be of (any) help to you?", "vi": "tôi có thể giúp gì được cho anh?"},
-      {"k": "ex", "t": "the map wasn't much help", "vi": "bản đồ không giúp ich gì được lắm"},
+      {"k": "ex", "t": "the map wasn't much help", "vi": "bản đồ không giúp ích gì được lắm"},
       {"k": "ex", "t": "she came to our help", "vi": "cô ấy đến giúp chúng tôi"},
       {"k": "ex", "t": "to cry/call for help", "vi": "kêu cứu, cầu cứu"},
       {"k": "ex", "t": "help! help!", "vi": "cứu (tôi) với! cứu (tôi) với"},
@@ -17677,7 +17677,7 @@
   {
     "h": "help oneself",
     "segs": [
-      {"k": "m", "t": "lấy bất cứ thứ gì bạn muốn co hoặc cần đến."},
+      {"k": "m", "t": "lấy bất cứ thứ gì bạn muốn có hoặc cần đến."},
       {
         "k": "ex",
         "t": "Please have some candy. Help yourself:",
@@ -21710,7 +21710,7 @@
   {"h": "hepatic lobule", "segs": [{"k": "m", "t": "Tiều thùy gan."}], "k": "hepatic lobule"},
   {
     "h": "hepatic lymph node",
-    "segs": [{"k": "m", "t": "Hạch bach huyết gan."}],
+    "segs": [{"k": "m", "t": "Hạch bạch huyết gan."}],
     "k": "hepatic lymph node"
   },
   {
@@ -25695,7 +25695,7 @@
       {
         "k": "ex",
         "t": "I saw Jane herself in the supermarket",
-        "vi": "tôi thất chính cô Jane trong siêu thị"
+        "vi": "tôi thấy chính cô Jane trong siêu thị"
       },
       {"k": "ex", "t": "by herself", "vi": "đơn độc"},
       {"k": "m", "t": "một mình"},
@@ -27231,7 +27231,7 @@
       },
       {
         "k": "m",
-        "t": "Khởi đầu cho việc xây dựng những mạng công ty là buộc mọi thứ lại với nhau. Qua vài năm gần đây, kinh nghiệm thực tế và khuynh hướng của nghành công nghiệp máy tính cho thấy rằng bộ giao thức TCP/IP là chọn lựa tốt nhất cho việc xây dựng các liên mạng. TCP/IP phủ lấp lên các LAN hiện có và sơ đồ định địa chỉ MAC của chúng là một sơ đồ liên mạng cho phép người dùng trên một phân đoạn của liên mạng gởi các thông điệp đến các người dùng trên bất kỳ phân đoạn khác. TCP/IP che dấu những khác biệt giữa các giao thức LAN, các kiểu khung, và các sơ đồ định địa chỉ."
+        "t": "Khởi đầu cho việc xây dựng những mạng công ty là buộc mọi thứ lại với nhau. Qua vài năm gần đây, kinh nghiệm thực tế và khuynh hướng của ngành công nghiệp máy tính cho thấy rằng bộ giao thức TCP/IP là chọn lựa tốt nhất cho việc xây dựng các liên mạng. TCP/IP phủ lấp lên các LAN hiện có và sơ đồ định địa chỉ MAC của chúng là một sơ đồ liên mạng cho phép người dùng trên một phân đoạn của liên mạng gởi các thông điệp đến các người dùng trên bất kỳ phân đoạn khác. TCP/IP che dấu những khác biệt giữa các giao thức LAN, các kiểu khung, và các sơ đồ định địa chỉ."
       },
       {
         "k": "m",

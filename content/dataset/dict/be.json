@@ -2312,7 +2312,7 @@
     "k": "beam rider guidance"
   },
   {"h": "beam rod", "segs": [{"k": "m", "t": "thanh đòn (cân), tay (cân)."}], "k": "beam rod"},
-  {"h": "beam scanning", "segs": [{"k": "m", "t": "sự quét bằng chum tia."}], "k": "beam scanning"},
+  {"h": "beam scanning", "segs": [{"k": "m", "t": "sự quét bằng chùm tia."}], "k": "beam scanning"},
   {"h": "beam sea", "segs": [{"k": "m", "t": "sóng thuyền ngang."}], "k": "beam sea"},
   {
     "h": "beam sensor",
@@ -3959,7 +3959,7 @@
   {"h": "bearing deviation", "segs": [{"k": "m", "t": "sự trệch hướng."}], "k": "bearing deviation"},
   {
     "h": "bearing deviation indicator",
-    "segs": [{"k": "m", "t": "cái chỉ báo đô lệch phương vị, cái chỉ độ biến đổi phương vị."}],
+    "segs": [{"k": "m", "t": "cái chỉ báo độ lệch phương vị, cái chỉ độ biến đổi phương vị."}],
     "k": "bearing deviation indicator"
   },
   {
@@ -8282,7 +8282,7 @@
   {
     "h": "been had",
     "segs": [
-      {"k": "m", "t": "bị bạc đãi, bị lừa gạt; bị đối sử tồi tệ. (Thông tục hoặc tiếng lóng.)"},
+      {"k": "m", "t": "bị bạc đãi, bị lừa gạt; bị đối xử tồi tệ. (Thông tục hoặc tiếng lóng.)"},
       {
         "k": "ex",
         "t": "They were cheated out of a thousand dollars. They've really been had:",
@@ -17323,7 +17323,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: người Berber cư ngụ ở vùng núi và sa mạc phía Bắc Châu Phi từ thời tiền sử. Nhà nghiên cứu Herodotus đã ghi hận rằng dân tộc này chia thành những bộ lạc khác nhau. Dường như họ không thành lập vương quốc, mặc dù thỉnh thoảng họ cũng liên kết với nhau để chống lại quân La Mã. Để có được nền độc lập, họ đã phải trải qua nhiều cuộc đấu tranh với các lực lượng như Donatist thế kỷ 4-5, Kharijite thuộc quân Hồi giáo, và một số lực lượng Hồi giáo khác. Họ vừa chống lại lực lượng Hồi giáo vừa chinh phục lực lượng này để trở thành một lãnh địa cho riêng mình. Họ ủng hộ Umayyads ở Tây Ban Nha, Fatimids ở Morocco và thiết lập nhiều triều đại cai trị. Trong đó hai triều đại Almoravids và Almohads là quan trọng nhất."
+        "t": "Lịch sử: người Berber cư ngụ ở vùng núi và sa mạc phía Bắc Châu Phi từ thời tiền sử. Nhà nghiên cứu Herodotus đã ghi nhận rằng dân tộc này chia thành những bộ lạc khác nhau. Dường như họ không thành lập vương quốc, mặc dù thỉnh thoảng họ cũng liên kết với nhau để chống lại quân La Mã. Để có được nền độc lập, họ đã phải trải qua nhiều cuộc đấu tranh với các lực lượng như Donatist thế kỷ 4-5, Kharijite thuộc quân Hồi giáo, và một số lực lượng Hồi giáo khác. Họ vừa chống lại lực lượng Hồi giáo vừa chinh phục lực lượng này để trở thành một lãnh địa cho riêng mình. Họ ủng hộ Umayyads ở Tây Ban Nha, Fatimids ở Morocco và thiết lập nhiều triều đại cai trị. Trong đó hai triều đại Almoravids và Almohads là quan trọng nhất."
       }
     ],
     "k": "berbers"
@@ -21054,7 +21054,7 @@
   {
     "h": "betwixt and between",
     "segs": [
-      {"k": "m", "t": "(Sử dụng theo thứ tự cố định này.) 1. Giữa (người nào đo hoặc vật gì đó)."},
+      {"k": "m", "t": "(Sử dụng theo thứ tự cố định này.) 1. Giữa (người nào đó hoặc vật gì đó)."},
       {
         "k": "ex",
         "t": "I liked the soup and the dessert and all that came betwixt and between:",

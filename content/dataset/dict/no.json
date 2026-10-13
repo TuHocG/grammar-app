@@ -840,7 +840,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "tình trạng tiến thoái lưỡng nan"},
-      {"k": "m", "t": "sự thất bại, sự bết tắc"},
+      {"k": "m", "t": "sự thất bại, sự bế tắc"},
       {"k": "m", "t": "sự mất/tắt kinh."}
     ],
     "ipa": "nou'gou",
@@ -2890,7 +2890,7 @@
   },
   {
     "h": "nodi lymphatici ileocolici",
-    "segs": [{"k": "m", "t": "Hạch bạch huyết hối-kết tràng."}],
+    "segs": [{"k": "m", "t": "Hạch bạch huyết hồi-kết tràng."}],
     "k": "nodi lymphatici ileocolici"
   },
   {
@@ -5793,7 +5793,7 @@
   {
     "h": "nomogenesis",
     "segs": [
-      {"k": "m", "t": "1. (sự) tiến triền theo quy luật tiền định"},
+      {"k": "m", "t": "1. (sự) tiến triển theo quy luật tiền định"},
       {"k": "m", "t": "2. (DTH) học thuyết Bert."}
     ],
     "k": "nomogenesis"
@@ -10483,7 +10483,7 @@
       {"k": "m", "t": "(kinh tế) Các giả thiết không bị lồng nhau."},
       {
         "k": "m",
-        "t": "Trong mô hình hồi quy, hai giả thiết được cói là không lồng trong nhau nếu các biến số giải thích trong một giả thiết không phải là một tập hợp con của các biến số giải thích trong giả thiết kia."
+        "t": "Trong mô hình hồi quy, hai giả thiết được coi là không lồng trong nhau nếu các biến số giải thích trong một giả thiết không phải là một tập hợp con của các biến số giải thích trong giả thiết kia."
       }
     ],
     "k": "non-nested hypotheses"
@@ -10494,7 +10494,7 @@
       {"k": "m", "t": "chất lượng phi Newton"},
       {
         "k": "m",
-        "t": "Chất lỏng trong đó không có quan hệ tuyến tính giữa ứng suất trượt và biến dạng trượt và độ nhớt biến đối theo tốc độ chảy."
+        "t": "Chất lỏng trong đó không có quan hệ tuyến tính giữa ứng suất trượt và biến dạng trượt và độ nhớt biến đổi theo tốc độ chảy."
       },
       {"k": "m", "t": "Else:"},
       {"k": "m", "t": "a."},
@@ -50481,7 +50481,7 @@
   },
   {
     "h": "nonradiable",
-    "segs": [{"k": "m", "t": "1. cản tia X"}, {"k": "m", "t": "2. chất cản tỉa X."}],
+    "segs": [{"k": "m", "t": "1. cản tia X"}, {"k": "m", "t": "2. chất cản tia X."}],
     "k": "nonradiable"
   },
   {
@@ -53520,7 +53520,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "khay dùng một lần"},
-      {"k": "m", "t": "giá kê dùng môt lần"}
+      {"k": "m", "t": "giá kê dùng một lần"}
     ],
     "k": "nonreusable pallet"
   },
@@ -53880,7 +53880,7 @@
   },
   {
     "h": "nonrigid culvert",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đường ồng mềm"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đường ống mềm"}],
     "k": "nonrigid culvert"
   },
   {
@@ -57470,7 +57470,7 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "dòng bất ổn"},
       {"k": "m", "t": "dòng không ổn định"},
-      {"k": "m", "t": "dòng chảy không ổ định"}
+      {"k": "m", "t": "dòng chảy không ổn định"}
     ],
     "k": "nonsteady flow"
   },
@@ -63461,7 +63461,7 @@
   },
   {
     "h": "nonwirewound potentiometer",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chiêt áp không cuốn dây"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chiết áp không cuốn dây"}],
     "k": "nonwirewound potentiometer"
   },
   {
@@ -65529,7 +65529,7 @@
   {"h": "Normal size", "segs": [{"k": "m", "t": "kích thước bình thường."}], "k": "normal size"},
   {
     "h": "normal solution",
-    "segs": [{"k": "m", "t": "Dung dịch nguyên chuẩn, dung địch một đương lượng gam."}],
+    "segs": [{"k": "m", "t": "Dung dịch nguyên chuẩn, dung dịch một đương lượng gam."}],
     "k": "normal solution"
   },
   {
@@ -73637,7 +73637,7 @@
       },
       {
         "k": "m",
-        "t": "RIP là giao thức dò đường kiểu \"vector khoảng cách\". Các bộ định tuyến truyền thông định kỳ các gói tin đến các bộ định tuyến \"hàng xóm\" nào có thông tin mới nhất về bảng dò đường. Khi 01 bộ định tuyến nhận được bảng tin dò đường mới, nó tiến hành quá trình cũng cố thông tin này với những thông tin mà nó đã có. Khi quá trình củng cố hoàn tất thì bộ định tuyến này có được những thông tin mới nhất về quá trình dò đường. Vấn đề trở ngại với RIP là việc nó truyền thông tin dò đường đi dù các cập nhật có cần thiết hay không, điều này làm gia tăng lưu thông trên mạng."
+        "t": "RIP là giao thức dò đường kiểu \"vector khoảng cách\". Các bộ định tuyến truyền thông định kỳ các gói tin đến các bộ định tuyến \"hàng xóm\" nào có thông tin mới nhất về bảng dò đường. Khi 01 bộ định tuyến nhận được bảng tin dò đường mới, nó tiến hành quá trình củng cố thông tin này với những thông tin mà nó đã có. Khi quá trình củng cố hoàn tất thì bộ định tuyến này có được những thông tin mới nhất về quá trình dò đường. Vấn đề trở ngại với RIP là việc nó truyền thông tin dò đường đi dù các cập nhật có cần thiết hay không, điều này làm gia tăng lưu thông trên mạng."
       },
       {
         "k": "m",

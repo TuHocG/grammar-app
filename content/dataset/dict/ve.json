@@ -1780,7 +1780,7 @@
       {"k": "m", "t": "che, ám, phủ"},
       {"k": "ex", "t": "a cloud veiled the sun", "vi": "một đám mây che mặt trời"},
       {"k": "m", "t": "che đậy, che giấu, giấu kín"},
-      {"k": "ex", "t": "to veil one's purpose", "vi": "chay đậy mục dích của mình"},
+      {"k": "ex", "t": "to veil one's purpose", "vi": "che đậy mục đích của mình"},
       {"k": "ex", "t": "to be veiled in mystery", "vi": "bị giấu kín trong màn bí mật."}
     ],
     "ipa": "veil",
@@ -10095,7 +10095,7 @@
   {
     "h": "verrucae",
     "segs": [
-      {"k": "m", "t": "danh tứ số nhiều của"},
+      {"k": "m", "t": "danh từ số nhiều của"},
       {"k": "ex", "t": "verruca như verruca", "vi": "."}
     ],
     "ipa": "və'ru:ki:",
@@ -11123,7 +11123,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "sự điều chỉnh tâm dọc"},
-      {"k": "m", "t": "sự điểu khiển tâm dọc"}
+      {"k": "m", "t": "sự điều khiển tâm dọc"}
     ],
     "k": "vertical centering control"
   },

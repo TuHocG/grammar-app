@@ -3530,7 +3530,7 @@
         "vi": "trông thấy núi đá trước mắt khó tránh được (tàu biển...)"
       },
       {"k": "m", "t": "(nghĩa bóng) trông thấy nguy hiểm trước mắt"},
-      {"k": "ex", "t": "as firm/solid as a rock", "vi": "không lạy chuyển được, vững như bàn thạch"},
+      {"k": "ex", "t": "as firm/solid as a rock", "vi": "không lay chuyển được, vững như bàn thạch"},
       {"k": "m", "t": "có thể tin cậy"},
       {"k": "ex", "t": "on the rock", "vi": "đâm phải đá bị đắm (về tàu)"},
       {"k": "pos", "t": "thành ngữ"},
@@ -9305,7 +9305,7 @@
   },
   {
     "h": "roller-bearing box",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máng lót ô đũa"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "máng lót ổ đũa"}],
     "k": "roller-bearing box"
   },
   {
@@ -12232,7 +12232,7 @@
   },
   {
     "h": "roof space",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tầng hâm mái"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tầng hầm mái"}],
     "k": "roof space"
   },
   {
@@ -14270,7 +14270,7 @@
     "k": "rope bucket"
   },
   {"h": "rope cable", "segs": [{"k": "m", "t": "chão thực vật."}], "k": "rope cable"},
-  {"h": "rope cager", "segs": [{"k": "m", "t": "cơ cấu dẩy goòng kiểu cáp."}], "k": "rope cager"},
+  {"h": "rope cager", "segs": [{"k": "m", "t": "cơ cấu đẩy goòng kiểu cáp."}], "k": "rope cager"},
   {
     "h": "rope cap",
     "segs": [{"k": "m", "t": "lực kéo đứt cáp, chiều dài dây cáp (quấn trên tang trống)."}],

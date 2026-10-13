@@ -177,7 +177,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "mức sút giảm năng suất của một công ty do nguyên nhân nội tài. Thí dụ: vào năm 1981, hai nhà máy tương tự nhau về mọi mặt thuộc công ty Ford được đem đối chiếu, một tại Đức và một tài Anh quốc, nhà máy tại Đức với số công nhân ít hơn 22% nhưng sản xuất số xe hơi nhiều hơn 50%. Như vậy, sự sút giảm năng suất của nhà máy ở Anh có thể do một trong những nguyên do: tính trì trệ, thông tin thiếu sót, tách biệt khỏi môi trường cạnh tranh tự do, quan hệ lao động kém hoặc do thiếu năng lực quản lý."
+        "t": "mức sút giảm năng suất của một công ty do nguyên nhân nội tài. Thí dụ: vào năm 1981, hai nhà máy tương tự nhau về mọi mặt thuộc công ty Ford được đem đối chiếu, một tại Đức và một tại Anh quốc, nhà máy tại Đức với số công nhân ít hơn 22% nhưng sản xuất số xe hơi nhiều hơn 50%. Như vậy, sự sút giảm năng suất của nhà máy ở Anh có thể do một trong những nguyên do: tính trì trệ, thông tin thiếu sót, tách biệt khỏi môi trường cạnh tranh tự do, quan hệ lao động kém hoặc do thiếu năng lực quản lý."
       }
     ],
     "k": "x-inefficiency"
@@ -391,7 +391,7 @@
   {"h": "X-ray image", "segs": [{"k": "m", "t": "ảnh tia X"}], "k": "x-ray image"},
   {
     "h": "X-ray inspection",
-    "segs": [{"k": "m", "t": "sự kiệm tra bằng tia X."}],
+    "segs": [{"k": "m", "t": "sự kiểm tra bằng tia X."}],
     "k": "x-ray inspection"
   },
   {

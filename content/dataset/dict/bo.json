@@ -407,7 +407,7 @@
   },
   {
     "h": "board of justices",
-    "segs": [{"k": "m", "t": "hội đông xét xử."}],
+    "segs": [{"k": "m", "t": "hội đồng xét xử."}],
     "k": "board of justices"
   },
   {
@@ -9791,7 +9791,7 @@
     "segs": [{"k": "m", "t": "thông báo có nhiều nơi nhận."}],
     "k": "book message"
   },
-  {"h": "book mould", "segs": [{"k": "m", "t": "khuôn đúc cỏ khớp bản lề."}], "k": "book mould"},
+  {"h": "book mould", "segs": [{"k": "m", "t": "khuôn đúc có khớp bản lề."}], "k": "book mould"},
   {
     "h": "book of account",
     "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sách kế toán."}],
@@ -18300,7 +18300,7 @@
       {"k": "m", "t": "người nhảy lên"},
       {"k": "m", "t": "kẻ hay nói khoác lác"},
       {"k": "m", "t": "lời nói khoác"},
-      {"k": "m", "t": "kẻ hay nói dối, lời nòi dối trắng trợn"},
+      {"k": "m", "t": "kẻ hay nói dối, lời nói dối trắng trợn"},
       {"k": "m", "t": "người to lớn, vật to gộ (so với cùng loại)"},
       {
         "k": "m",
@@ -21720,7 +21720,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chụp"}],
     "k": "box tap"
   },
-  {"h": "box testa", "segs": [{"k": "m", "t": "thiết bị thử đồ bền của hộp."}], "k": "box testa"},
+  {"h": "box testa", "segs": [{"k": "m", "t": "thiết bị thử độ bền của hộp."}], "k": "box testa"},
   {"h": "box timbering", "segs": [{"k": "m", "t": "vì chống kiểu hộp."}], "k": "box timbering"},
   {
     "h": "box top",

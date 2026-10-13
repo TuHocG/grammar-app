@@ -71,7 +71,7 @@
       {"k": "ex", "t": "to look for something up and down", "vi": "tìm cái gì khắp mọi chỗ"},
       {"k": "ex", "t": "up to", "vi": "bận, đang làm"},
       {"k": "ex", "t": "what's he up to?", "vi": "hắn ta đang làm gì?"},
-      {"k": "ex", "t": "what tricks has he been up to?", "vi": "hắn đang dở những trò gì thế?"},
+      {"k": "ex", "t": "what tricks has he been up to?", "vi": "hắn đang giở những trò gì thế?"},
       {"k": "m", "t": "xứng đáng"},
       {"k": "m", "t": "đủ sức, đủ khả năng"},
       {
@@ -3299,7 +3299,7 @@
   },
   {
     "h": "upright conveyance",
-    "segs": [{"k": "m", "t": "sự di chuyển thắng đứng."}],
+    "segs": [{"k": "m", "t": "sự di chuyển thẳng đứng."}],
     "k": "upright conveyance"
   },
   {

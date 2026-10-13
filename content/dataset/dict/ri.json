@@ -3902,7 +3902,7 @@
         "vi": "(nghĩa bóng) dựng lên một chính quyền bù nhìn"
       },
       {"k": "pos", "t": "nội động từ"},
-      {"k": "m", "t": "(hàng hải) được trãng bị những thứ cần thiết"},
+      {"k": "m", "t": "(hàng hải) được trang bị những thứ cần thiết"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "con thú đực (ngựa, bò...) chỉ có một hòn dái"},
       {"k": "m", "t": "con thú đực bị thiến sót"},
@@ -10780,7 +10780,7 @@
       {"k": "m", "t": "đang lên"},
       {"k": "ex", "t": "the rising sun", "vi": "mặt trời đang lên"},
       {"k": "ex", "t": "a rising man", "vi": "một người đang lên"},
-      {"k": "ex", "t": "the rising generation", "vi": "những ngươi nhỏ đang lớn lên"},
+      {"k": "ex", "t": "the rising generation", "vi": "những người nhỏ đang lớn lên"},
       {"k": "m", "t": "lứa tuổi đang lớn"},
       {"k": "ex", "t": "rising fives", "vi": "..."},
       {"k": "m", "t": "những đứa bé gần năm... tuổi"},
@@ -13053,7 +13053,7 @@
       {"k": "m", "t": "ở ven sông (như)"},
       {"k": "m", "t": "riverine"},
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "người sông ở ven sông."}
+      {"k": "m", "t": "người sống ở ven sông."}
     ],
     "ipa": "'rivərein",
     "k": "riverain"
@@ -13601,7 +13601,7 @@
       {
         "k": "ex",
         "t": "an asbolutely riveting performance",
-        "vi": "một cuộc biễu diễn cực kỳ hấp dẫn."
+        "vi": "một cuộc biểu diễn cực kỳ hấp dẫn."
       }
     ],
     "ipa": "'rivitiŋ",

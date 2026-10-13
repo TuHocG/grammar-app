@@ -2824,7 +2824,7 @@
       {
         "k": "ex",
         "t": "scientists divide animals and plants into classes",
-        "vi": "các nhà khoa học phân chia đông vật và thực vật thành các lớp"
+        "vi": "các nhà khoa học phân chia động vật và thực vật thành các lớp"
       },
       {"k": "m", "t": "nhóm học sinh cùng học với nhau"},
       {"k": "m", "t": "lớp"},
@@ -4669,7 +4669,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Tiberius Claudius Drusus Nero Germanicus) (10 trước công nguyên-54 sau công nguyên) Hoàng đế La Mã (41-54). Ông là cháu trai của Tiberus và chú của Gaius Caligula. Là một người yếu ớt nhưng thông minh, ông cống hiến cuộc đời học hỏi sự uyên bác trước khi về làm tại văn phòng lãnh sự cùng với Caligula. Sau cái chết của đứa cháu trai, các vị pháp quan La Mã đã đề cử ông. Trách nhiệm của ông là sửa chữa các khiếm khuyết của triều đại trước kia và gây áp lực trong quân đội với tư cách là một viện nguyên lão, một ban điều hành. Ông có công trong việc kiểm soát hoàn toàn Anh quốc. Ông đã đóng góp một phần cuộc đời trong cuộc xâm chiếm nước Anh. Ông đã thêm chữ \"Britainnius\" vào tên những đứa con để chứng tỏ Anh quốc chính là sở hữu của La Mã. Những năm sau đó, triều đình của ông bị kiểm soát bởi người nô lệ được giải phóng. Người vợ thứ ba của ông, bà Messalina, là mẹ của Britainnicus và Octavia đã bị tử hình vì thiếu lòng chung thủy. Người vợ thứ tư, bà Agippina, mẹ của Nero đã thuốc ông bằng nấm độc để giành quyền kế vị cho con trai bà. Người Seneca xem ông như vị thánh trong quyển truyện châm biếm Apocolocyntosis. Nó đả kích mạnh mẽ những buỗi lễ tấn phong, sùng bái."
+        "t": "(Tiberius Claudius Drusus Nero Germanicus) (10 trước công nguyên-54 sau công nguyên) Hoàng đế La Mã (41-54). Ông là cháu trai của Tiberus và chú của Gaius Caligula. Là một người yếu ớt nhưng thông minh, ông cống hiến cuộc đời học hỏi sự uyên bác trước khi về làm tại văn phòng lãnh sự cùng với Caligula. Sau cái chết của đứa cháu trai, các vị pháp quan La Mã đã đề cử ông. Trách nhiệm của ông là sửa chữa các khiếm khuyết của triều đại trước kia và gây áp lực trong quân đội với tư cách là một viện nguyên lão, một ban điều hành. Ông có công trong việc kiểm soát hoàn toàn Anh quốc. Ông đã đóng góp một phần cuộc đời trong cuộc xâm chiếm nước Anh. Ông đã thêm chữ \"Britainnius\" vào tên những đứa con để chứng tỏ Anh quốc chính là sở hữu của La Mã. Những năm sau đó, triều đình của ông bị kiểm soát bởi người nô lệ được giải phóng. Người vợ thứ ba của ông, bà Messalina, là mẹ của Britainnicus và Octavia đã bị tử hình vì thiếu lòng chung thủy. Người vợ thứ tư, bà Agippina, mẹ của Nero đã thuốc ông bằng nấm độc để giành quyền kế vị cho con trai bà. Người Seneca xem ông như vị thánh trong quyển truyện châm biếm Apocolocyntosis. Nó đả kích mạnh mẽ những buổi lễ tấn phong, sùng bái."
       }
     ],
     "k": "claudius"
@@ -14328,7 +14328,7 @@
   {
     "h": "Clopamide",
     "segs": [
-      {"k": "m", "t": "một loại thuốc lợi tiểu được dùng để chửa trị ứ đọng nước và huyết áp cao."}
+      {"k": "m", "t": "một loại thuốc lợi tiểu được dùng để chữa trị ứ đọng nước và huyết áp cao."}
     ],
     "k": "clopamide"
   },
@@ -15675,7 +15675,7 @@
   {"h": "closed circuit", "segs": [{"k": "m", "t": "vòng kín, mạch kín."}], "k": "closed circuit"},
   {
     "h": "closed circuit ventilation",
-    "segs": [{"k": "m", "t": "sự thông gió vòng kín; hệ thông thông gió vòng kín."}],
+    "segs": [{"k": "m", "t": "sự thông gió vòng kín; hệ thống thông gió vòng kín."}],
     "k": "closed circuit ventilation"
   },
   {
@@ -18313,7 +18313,7 @@
       {
         "k": "ex",
         "t": "All of a sudden it clouded up and began to rain:",
-        "vi": "Bất tình lình trời kéo mây và bắt đầu mưa."
+        "vi": "Bất thình lình trời kéo mây và bắt đầu mưa."
       },
       {
         "k": "ex",

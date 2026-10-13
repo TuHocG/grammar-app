@@ -635,7 +635,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "niên học (toàn bộ thời gian trong một năm khi việc giảng dạy được tiến hành ở các trường, bắt đầu váo tháng chín hoặc tháng mười hàng năm)."
+        "t": "niên học (toàn bộ thời gian trong một năm khi việc giảng dạy được tiến hành ở các trường, bắt đầu vào tháng chín hoặc tháng mười hàng năm)."
       }
     ],
     "ipa": "ækə'demik 'jə:",
@@ -8371,7 +8371,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tích tụ. Doanh thu va chi tiêu được xác nhận là đã có và được ghi trong báo cáo tài chính trong giai đoạn tương ứng."
+        "t": "tích tụ. Doanh thu và chi tiêu được xác nhận là đã có và được ghi trong báo cáo tài chính trong giai đoạn tương ứng."
       }
     ],
     "k": "accruals"
@@ -16265,7 +16265,7 @@
   },
   {
     "h": "acquisition system",
-    "segs": [{"k": "m", "t": "hệ thống phát hiện mực tiêu."}],
+    "segs": [{"k": "m", "t": "hệ thống phát hiện mục tiêu."}],
     "k": "acquisition system"
   },
   {
@@ -16631,7 +16631,7 @@
     "k": "acrimony"
   },
   {"h": "acrisia", "segs": [{"k": "m", "t": "Bản chất bệnh không rõ ràng."}], "k": "acrisia"},
-  {"h": "acritical", "segs": [{"k": "m", "t": "Không co cơn."}], "k": "acritical"},
+  {"h": "acritical", "segs": [{"k": "m", "t": "Không có cơn."}], "k": "acritical"},
   {
     "h": "acrivastine",
     "segs": [
@@ -19437,7 +19437,7 @@
     "k": "active borrower"
   },
   {"h": "active box", "segs": [{"k": "m", "t": "hộp chứa đồ thế chấp."}], "k": "active box"},
-  {"h": "active builder", "segs": [{"k": "m", "t": "phụ giạ hoạt tính."}], "k": "active builder"},
+  {"h": "active builder", "segs": [{"k": "m", "t": "phụ gia hoạt tính."}], "k": "active builder"},
   {
     "h": "active bus",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "buýt hoạt động"}],
@@ -20673,15 +20673,15 @@
       },
       {
         "k": "m",
-        "t": "Trong lược đồ ActiveX, trình duyệt Web của nguời dùng được coi là chổ có thể chứa các trình điều khiển ActiveX. Các trình điều khiển ActiveX là những đối tượng tương tác mà người phát triển tạo ra và phân phối cho người dùng qua mạng Intranet hay Internet."
+        "t": "Trong lược đồ ActiveX, trình duyệt Web của người dùng được coi là chỗ có thể chứa các trình điều khiển ActiveX. Các trình điều khiển ActiveX là những đối tượng tương tác mà người phát triển tạo ra và phân phối cho người dùng qua mạng Intranet hay Internet."
       },
       {
         "k": "m",
-        "t": "Đối với người phát triển Web site, các trình điều khiển ActiveX cung cấp một cách có thể dể dàng quản lý và cập nhật nội dung trang Web và hệ thống client. Những ứng dụng phức tạp trong nhiều biểu mẫu thành phần ActiveX có thể được đặt trên site đó để người dùng tải xuống. Ban đầu người dùng có thể mất một ít thời gian để tải xuống hết các thành phần đó nhưng cập nhật và nâng cấp thì rất dễ dàng vì chỉ có những thành phần nào cần thì mới được chép xuống máy người dùng."
+        "t": "Đối với người phát triển Web site, các trình điều khiển ActiveX cung cấp một cách có thể dễ dàng quản lý và cập nhật nội dung trang Web và hệ thống client. Những ứng dụng phức tạp trong nhiều biểu mẫu thành phần ActiveX có thể được đặt trên site đó để người dùng tải xuống. Ban đầu người dùng có thể mất một ít thời gian để tải xuống hết các thành phần đó nhưng cập nhật và nâng cấp thì rất dễ dàng vì chỉ có những thành phần nào cần thì mới được chép xuống máy người dùng."
       },
       {
         "k": "m",
-        "t": "Một thuận lợi khác của trình điều khiển ActiveX là chúng có thể làm việc gần với giao diện người dùng của hệ điều hành, đặc biệt là các hệ thống Windows, vì ActiveX dựa trên kỹ thuật COM là một phần của Windows. Kỹ thuật Active Platform của Microsoft đang mở rộng thao tác giữa các phần cao cấp này tới những hệ điều hành khác bao gồm cả Macintosh và UNIX. Với Active Scripting, các trình điều khiển ActiveX và/hay các chương trình con Java có thể được tích hợp và điều khiển từ server hay trình duyệt đó. Với ActiveX Server Framework, Web sever có thể cung cấp việc bảo mật và truy cập tới các cơ sở dữ liệu phụ trợ để cung cấp thông tin từ CSDL đó đến người dùng."
+        "t": "Một thuận lợi khác của trình điều khiển ActiveX là chúng có thể làm việc gần với giao diện người dùng của hệ điều hành, đặc biệt là các hệ thống Windows, vì ActiveX dựa trên kỹ thuật COM là một phần của Windows. Kỹ thuật Active Platform của Microsoft đang mở rộng thao tác giữa các phần cao cấp này tới những hệ điều hành khác bao gồm cả Macintosh và UNIX. Với Active Scripting, các trình điều khiển ActiveX và/hay các chương trình con Java có thể được tích hợp và điều khiển từ server hay trình duyệt đó. Với ActiveX Server Framework, Web server có thể cung cấp việc bảo mật và truy cập tới các cơ sở dữ liệu phụ trợ để cung cấp thông tin từ CSDL đó đến người dùng."
       },
       {"k": "m", "t": "Xem thêm: Distributed Object Computing."}
     ],

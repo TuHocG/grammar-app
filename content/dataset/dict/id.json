@@ -2323,7 +2323,7 @@
   },
   {
     "h": "idiopathic thrombocytopenic purpura",
-    "segs": [{"k": "m", "t": "Ban xuất huyết giảm tiểu cầu tư phát."}],
+    "segs": [{"k": "m", "t": "Ban xuất huyết giảm tiểu cầu tự phát."}],
     "k": "idiopathic thrombocytopenic purpura"
   },
   {
@@ -3509,7 +3509,7 @@
   },
   {
     "h": "Idoxuridine",
-    "segs": [{"k": "m", "t": "loại thuốc chưa các bệnh nhiễm ví rút ở mắt (như viêm giác mạc)."}],
+    "segs": [{"k": "m", "t": "loại thuốc chữa các bệnh nhiễm vi rút ở mắt (như viêm giác mạc)."}],
     "k": "idoxuridine"
   },
   {

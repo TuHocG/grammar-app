@@ -6171,7 +6171,7 @@
       {
         "k": "ex",
         "t": "her weight has increased to 70 kilos",
-        "vi": "trọng lương của bà ta đã tăng lên tới 70 kilôgam"
+        "vi": "trọng lượng của bà ta đã tăng lên tới 70 kilôgam"
       },
       {"k": "ex", "t": "the two boys are (of) the same weight", "vi": "hai đứa trẻ nặng bằng nhau"},
       {
@@ -6910,7 +6910,7 @@
   },
   {
     "h": "weighted valve",
-    "segs": [{"k": "m", "t": "van điều chình bằng trọng lượng."}],
+    "segs": [{"k": "m", "t": "van điều chỉnh bằng trọng lượng."}],
     "k": "weighted valve"
   },
   {"h": "weighted voting", "segs": [{"k": "m", "t": "bầu cử theo tỷ lệ."}], "k": "weighted voting"},
@@ -8235,7 +8235,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "quần áo bảo hộ nghề hàn"},
-      {"k": "m", "t": "quần áo bạo hộ thợ hàn"}
+      {"k": "m", "t": "quần áo bảo hộ thợ hàn"}
     ],
     "k": "welder's protective clothing"
   },
@@ -17731,7 +17731,7 @@
     "k": "wet sprinkler"
   },
   {"h": "wet steam", "segs": [{"k": "m", "t": "hơi ẩm."}], "k": "wet steam"},
-  {"h": "wet steep", "segs": [{"k": "m", "t": "sự tấm ướt muối."}], "k": "wet steep"},
+  {"h": "wet steep", "segs": [{"k": "m", "t": "sự tẩm ướt muối."}], "k": "wet steep"},
   {"h": "wet stock", "segs": [{"k": "m", "t": "bột giấy nhão."}], "k": "wet stock"},
   {"h": "wet strength", "segs": [{"k": "m", "t": "độ bền ẩm."}], "k": "wet strength"},
   {"h": "wet suction fan", "segs": [{"k": "m", "t": "quạt hút ẩm."}], "k": "wet suction fan"},

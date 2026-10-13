@@ -13287,7 +13287,7 @@
   },
   {
     "h": "double cage winding",
-    "segs": [{"k": "m", "t": "trục trải thùng cũi hai tầng."}],
+    "segs": [{"k": "m", "t": "trục tải thùng cũi hai tầng."}],
     "k": "double cage winding"
   },
   {"h": "double cake", "segs": [{"k": "m", "t": "bánh ngọt (kiểu xếp lớp)."}], "k": "double cake"},
@@ -14300,7 +14300,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "bảo hiểm trùng. Khi một tài sản được mua bảo hiểm hai hoặc nhiều lần cho cùng một lợi ích bảo hiểm và rủi ro thì gọi là bảo hiểm trùng. Ví dụ: một người mua nhận được điện của người bán báo hàng đã được gửi đi nhưng, qua bức điện, không thể biết được rằng người bán đã mua bảo hiểm cho mình hay chưa, cho nên đương nhiên đi ký hợp đồng bảo hiểm. Đến khi chứng từ giao hàng đến nơi, người mua mới phát hiện thấy người bán đã mua bảo hiểm cho người mua. Trường hợp này gọi là bảo hiểm trùng. Cần lưu ý: có trường hợp mua nhiều lần bảo hiểm cho một món hàng mà vẫn không phải là bảo hiểm trùng khi các lần bảo hiểm đó được mua cho những quyền lợi khác nhau. Ví dụ: trong trường hợp bán hàng trả tiền sau, theo điều kiện FOB, người mua đương nhiên mua bảo hiểm cho mình, còn người bán có thể vì lo không thu được tiền hàng cho nên mua riêng bảo hiểm vì lợi ích của bản thân mình. Như vậy, hai hợp đồng bảo hiểm đó bảo hiểm cho hai quyền lợi riêng biệt. Nếu bảo hiểm trùng tại cùng một hãng bảo hiểm thì có thể hủy một hợp đồng nhưng nếu bảo hiểm tại hai hãng khác nhau thì sẽ giải quyết bằng cách là mỗi hãng bảo hiểm 1/2. Nếu xảy ra tổn thất thì chủ hàng có thể đòi một hãng bồi thường toàn bộ hoặc đòi mỗi hãng bồi thường 1/2. Nếu đòi toàn bộ ở một hãng thì chủ hãng phải ủy quyền cho hãng này đòi lại hãng kia 1/2."
+        "t": "bảo hiểm trùng. Khi một tài sản được mua bảo hiểm hai hoặc nhiều lần cho cùng một lợi ích bảo hiểm và rủi ro thì gọi là bảo hiểm trùng. Ví dụ: một người mua nhận được điện của người bán báo hàng đã được gửi đi nhưng, qua bức điện, không thể biết được rằng người bán đã mua bảo hiểm cho mình hay chưa, cho nên đương nhiên đi ký hợp đồng bảo hiểm. Đến khi chứng từ giao hàng đến nơi, người mua mới phát hiện thấy người bán đã mua bảo hiểm cho người mua. Trường hợp này gọi là bảo hiểm trùng. Cần lưu ý: có trường hợp mua nhiều lần bảo hiểm cho một món hàng mà vẫn không phải là bảo hiểm trùng khi các lần bảo hiểm đó được mua cho những quyền lợi khác nhau. Ví dụ: trong trường hợp bán hàng trả tiền sau, theo điều kiện FOB, người mua đương nhiên mua bảo hiểm cho mình, còn người bán có thể vì lo không thu được tiền hàng cho nên mua riêng bảo hiểm vì lợi ích của bản thân mình. Như vậy, hai hợp đồng bảo hiểm đó bảo hiểm cho hai quyền lợi riêng biệt. Nếu bảo hiểm trùng tại cùng một hãng bảo hiểm thì có thể hủy một hợp đồng nhưng nếu bảo hiểm tại hai hãng khác nhau thì sẽ giải quyết bằng cách là mỗi hãng bảo hiểm 1/2. Nếu xảy ra tổn thất thì chủ hàng có thể đòi một hãng bồi thường toàn bộ hoặc đòi mỗi hãng bồi thường 1/2. Nếu đòi toàn bộ ở một hãng thì chủ hàng phải ủy quyền cho hãng này đòi lại hãng kia 1/2."
       }
     ],
     "k": "double insurance"
@@ -15758,7 +15758,7 @@
   },
   {
     "h": "double-banked boat",
-    "segs": [{"k": "m", "t": "xuồng hai hàng cọc chèo (có hải người chèo ngồi trên cùng một ghế)."}],
+    "segs": [{"k": "m", "t": "xuồng hai hàng cọc chèo (có hai người chèo ngồi trên cùng một ghế)."}],
     "k": "double-banked boat"
   },
   {
@@ -16536,7 +16536,7 @@
   {"h": "double-end bolt", "segs": [{"k": "m", "t": "vít cấy."}], "k": "double-end bolt"},
   {
     "h": "double-end graft",
-    "segs": [{"k": "m", "t": "Mảnh ghep hình ống."}],
+    "segs": [{"k": "m", "t": "Mảnh ghép hình ống."}],
     "k": "double-end graft"
   },
   {
@@ -18905,7 +18905,7 @@
   },
   {
     "h": "dough shortness",
-    "segs": [{"k": "m", "t": "độ tời của khối bột nhào."}],
+    "segs": [{"k": "m", "t": "độ tơi của khối bột nhào."}],
     "k": "dough shortness"
   },
   {

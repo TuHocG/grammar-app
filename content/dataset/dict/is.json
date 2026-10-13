@@ -709,7 +709,7 @@
   },
   {
     "h": "ischuria spastica",
-    "segs": [{"k": "m", "t": "(chứng) bí tiều tiện co thắt."}],
+    "segs": [{"k": "m", "t": "(chứng) bí tiểu tiện co thắt."}],
     "k": "ischuria spastica"
   },
   {
@@ -1750,7 +1750,7 @@
       },
       {
         "k": "m",
-        "t": "Các kênh ISDN thay cho yêu cầu mỗi trạm làm việc phải có một adapter ISDN hay một modem ISDN. Thay vào đó, người dùng thực hiện kết nối ISDN trên iso-Ethernet LAN vào một hub duy nhất mà chính hub này được kết nối vời thế giới bên ngoài. Dĩ nhiên, các kết nối ISDN cũng có thể được thực hiện giữa các trạm làm việc trên cùng mạng."
+        "t": "Các kênh ISDN thay cho yêu cầu mỗi trạm làm việc phải có một adapter ISDN hay một modem ISDN. Thay vào đó, người dùng thực hiện kết nối ISDN trên iso-Ethernet LAN vào một hub duy nhất mà chính hub này được kết nối với thế giới bên ngoài. Dĩ nhiên, các kết nối ISDN cũng có thể được thực hiện giữa các trạm làm việc trên cùng mạng."
       },
       {
         "k": "m",
@@ -4362,7 +4362,7 @@
   {"h": "isopressor", "segs": [{"k": "m", "t": "Tăng huyết áp cùng chừng mực."}], "k": "isopressor"},
   {
     "h": "Isopropamide",
-    "segs": [{"k": "m", "t": "một loài thuốc kìm hủy phó giao cảm."}],
+    "segs": [{"k": "m", "t": "một loại thuốc kìm hủy phó giao cảm."}],
     "k": "isopropamide"
   },
   {

@@ -263,7 +263,7 @@
     ],
     "k": "chad"
   },
-  {"h": "chad box", "segs": [{"k": "m", "t": "hộp dựng giấy bướm."}], "k": "chad box"},
+  {"h": "chad box", "segs": [{"k": "m", "t": "hộp đựng giấy bướm."}], "k": "chad box"},
   {"h": "chadacryst", "segs": [{"k": "m", "t": "tinh thể lẫn."}], "k": "chadacryst"},
   {
     "h": "chadar",
@@ -2304,7 +2304,7 @@
       {
         "k": "ex",
         "t": "to walk the chalk",
-        "vi": "đi đúng giữa hai vạch phấn (để tỏ là minh không say rượu khi bị đưa đến cảnh sát...)"
+        "vi": "đi đúng giữa hai vạch phấn (để tỏ là mình không say rượu khi bị đưa đến cảnh sát...)"
       },
       {"k": "m", "t": "(nghĩa bóng) xử, sự mực thước đứng đắn"},
       {"k": "ex", "t": "to walk (stump) one's chalk", "vi": "(lóng) chuồn, tẩu, chạy trốn"},
@@ -2667,7 +2667,7 @@
         "k": "m",
         "t": "3. Máy khách kết hợp tên người dùng (user name) với yêu cầu đó và mã hóa sự kết hợp này bằng cách dùng mật khẩu của người dùng như một chìa khóa."
       },
-      {"k": "m", "t": "4. Kết quả của hành động nảy được gởi trả về cho máy phục vụ."},
+      {"k": "m", "t": "4. Kết quả của hành động này được gởi trả về cho máy phục vụ."},
       {"k": "m", "t": "5. Máy phục vụ cũng thực hiện một hành động giống như ở bước 3."},
       {"k": "m", "t": "6. Máy phục vụ so sánh hai kết quả đạt được."},
       {"k": "m", "t": "7. Nếp phù hợp thì máy khách được phép đăng nhập.."}
@@ -8358,7 +8358,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "đường đặc thù (chứng khoán). Đường hồi quy lợi nhuận của một chứng khoán theo lợi nhuận của thì trường. Độ dốc của đường hồi quy là hệ số beta của chứng khoán"
+        "t": "đường đặc thù (chứng khoán). Đường hồi quy lợi nhuận của một chứng khoán theo lợi nhuận của thị trường. Độ dốc của đường hồi quy là hệ số beta của chứng khoán"
       }
     ],
     "k": "characteristic line"
@@ -10714,7 +10714,7 @@
       {"k": "m", "t": "lang băm"},
       {"k": "m", "t": "kẻ bất tài mà hay lòe bịp"},
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "có tinh chất lang băm"},
+      {"k": "m", "t": "có tính chất lang băm"},
       {"k": "m", "t": "lòe bịp, bịp bợm."}
     ],
     "ipa": "'ʃa:lətən",
@@ -13637,7 +13637,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1821-1894) nhà toán học và cơ học Nga, viện sĩ Viện hàn lâm khoa học Pétersbourg (1856, dự khuyết từ 1853). Ông sinh ra trong một gia đình quý tộc. Lúc nhỏ ông được học tập tại nhà. Đến năm 16 tuổi ông vào học trường Đại học tổng hợp Moskva. Năm 1841, ông được tặng thưởng huy chương bạc về luận văn \"Phép tính nghiệm của các phương trình\". Cũng trong năm đó ông tốt nghiệp ra trường. Năm 1846, cũng tại trường Đại học tổng hợp Moskva ôngbảo vệ luận án tiến sĩ \"Kinh nghiệm sơ bộ phân tích lý thuyết xác suất\". Năm 1847 ông chuyển đến Pétersbourg. Ở đây, cũng trong năm đó, tại trường Đại học tổng hợp ông bảo vệ luận án: \"Về phép lấy tích phân nhờ logarit\" nhằm được quyền giảng bài. Ông được chuẩn y danh hiệu phó giáo sư và bắt đầu giảng bài về đại số và lý thuyết số. Năm 1849, tại trường Đại học tổng hợp Pétersbourg ông bảo vệ luận án tiến sĩ \"Lý thuyết đồng dư\", được giải thưởng Demidovitch của Viện hàn lâm khoa học Pétersbourg cũng trong năm đó, và năm 1850 ông trở thành giáo sư trường Đại học tổng hợp Pétersbourg. Trong một thời gian dài ông tích cực tham gia công tác của ủy ban huấn luyện quân sự ngành pháo binh và ban khoa học của Bộ giáo dục quốc dân. Năm 1882 Chebyshev ngừng giảng bài tại trường Đại học tổng hợp Pétersbourg, về hưu và hoàn toàn cống hiến cho công tác khoa học cho đến cuối đời. Chebyshev là người sáng lập ra trường phái toán học Pétersbourg. Tính đa dạng của các lĩnh vực nghiên cứu, khả năng biết dựa vào những phương tiện sơ cấp để tìm ra những kết quả khoa học to lớn, và hứng thú thường xuyên đối với những vấn đề thực hành, đó là những nét đặc trưng tính sáng tạo của Chebyshev. Các công trình nghiên cứu của ông thuộc về lý thuyết sấp xỉ của các hàm với đa thức, về phép tính tích phân, lý thuyết số, lý thuyết xác suất, lý thuyết các cơ chế và về nhiều lĩnh vực khác của toán học và các ngành khoa học liên quan. Trong mỗi lĩnh vực được nhắc đến nó, ông có thể xây dựng hàng loạt những phương pháp tổng quát, cơ bản và đề xuất những ý kiến vạch ra những phương hướng chủ chốt cho sự phát triển của nó trong tương lai. Khát vọng liên kết những vấn đề của toán học với những vấn đề thuộc nguyên tắc của tự nhiên học và kỹ thuật, xác định phần lớn tính độc đáo của ông là nhà bác học. Nhiều phát minh của ông gợi lên nhu cầu ứng dụng. Chebyshev bắt tay vào nghiên cứu xác suất một số lần-lần đầu tiên, một lần ở giữa chừng và lần cuối cùng trong hoạt động khoa học của ông (\"Kinh nghiệm phân tích cơ bản lý thuyết xác suất\", 1845, \"Chứng minh cơ bản một tình huống chung của lý thuyết xác suất\", 1846, \"Về những đại lượng trung bình\", 1867, \"Về hai định lý liên quan đến xác suất\", 1887). Về mặt tư tưởng, ông có công lao đưa một cách có hệ thống những đại lượng ngẫu nhiên vào nghiên cứu và xây dựng một phương pháp chứng minh mới những định lý giới hạn của lý thuyết xác suất-phương pháp mômen. Ông đã chứng minh định luật số lớn trong dạng rất tổng quát, hơn thế nữa, bản chứng minh của ông khiến người ta phải kinh ngạc về tính giản đơn và sơ cấp của nó. Ông nghiên cứu điều kiện hội tụ của hàm phân bố của các tổng đại lượng ngẫu nhiên độc lập chưa đạt đến kết quả cuối cùng là đưa về một định luật chuẩn. Tuy nhiên, nhờ bổ khuyết thêm một phần nào đó vào các phương pháp của Chebyshev, nhà bác học Nga A.A.Moarkov đã thực hiện được điều đó. Các công trình của Chebyshev về lý thuyết xác suất lập thành một giai đoạn quan trọng trong sự phát triển trường phái lý thuyết xác suất của Nga, lúc đầu bao gồm những học trò trực tiếp của Chebyshev. Trong lý thuyết số Chebyshev đã thảo ra những phương pháp nghiên cứu sơ cấp và phương pháp sắc sảo thúc đẩy đáng kể việc nghiên cứu những vấn đế về phân bố các số nguyên tố, đạt được những kết quả quan trọng trong lý thuyết các dạng toàn phương với định thức dương và trong lý thuyết xấp xỉ của các số với các phân số hữu tỉ. Trong lĩnh vực giải tích toán học, ông có những công trình nghiên cứu cơ bản về lý thuyết lấy tích phân, tạo thành lý thuyết tổng quát về đa thức trực giao, lý thuyết mômen, lý thuyết về công thức cầu phương, lý thuyết nội suy, ông xây dựng nền móng cho lý thuyết kiến thiết hàm. Trong lý thuyết các cơ chế và máy móc Chebyshev làm đặc biệt nhiều trong lĩnh vực tổng hợp các cơ chế bản lề. Những công trình nghiên cứu của Chebyshev đã để lại dấu ấn sâu sắc trong toán học, sau khi đạt cơ sở cho sự phát triển của nhiều ngành mới của nó. Ông đã đào tạo hàng loạt những nhà bác học bậc nhất. Những tác phẩm của Chebyshev, ngay lúc sinh thời của ông, cũng đã được quý trọng rộng rãi ở trong cũng như ở ngoài nước Nga. Chebyshev là thành viên của nhiều Viện hàn lâm khoa học và hiệp hội khoa học. Viện hàn lâm khoa học Nga đã lập ra huy chương vàng mang tên P.L.Chebyshev."
+        "t": "(1821-1894) nhà toán học và cơ học Nga, viện sĩ Viện hàn lâm khoa học Pétersbourg (1856, dự khuyết từ 1853). Ông sinh ra trong một gia đình quý tộc. Lúc nhỏ ông được học tập tại nhà. Đến năm 16 tuổi ông vào học trường Đại học tổng hợp Moskva. Năm 1841, ông được tặng thưởng huy chương bạc về luận văn \"Phép tính nghiệm của các phương trình\". Cũng trong năm đó ông tốt nghiệp ra trường. Năm 1846, cũng tại trường Đại học tổng hợp Moskva ôngbảo vệ luận án tiến sĩ \"Kinh nghiệm sơ bộ phân tích lý thuyết xác suất\". Năm 1847 ông chuyển đến Pétersbourg. Ở đây, cũng trong năm đó, tại trường Đại học tổng hợp ông bảo vệ luận án: \"Về phép lấy tích phân nhờ logarit\" nhằm được quyền giảng bài. Ông được chuẩn y danh hiệu phó giáo sư và bắt đầu giảng bài về đại số và lý thuyết số. Năm 1849, tại trường Đại học tổng hợp Pétersbourg ông bảo vệ luận án tiến sĩ \"Lý thuyết đồng dư\", được giải thưởng Demidovitch của Viện hàn lâm khoa học Pétersbourg cũng trong năm đó, và năm 1850 ông trở thành giáo sư trường Đại học tổng hợp Pétersbourg. Trong một thời gian dài ông tích cực tham gia công tác của ủy ban huấn luyện quân sự ngành pháo binh và ban khoa học của Bộ giáo dục quốc dân. Năm 1882 Chebyshev ngừng giảng bài tại trường Đại học tổng hợp Pétersbourg, về hưu và hoàn toàn cống hiến cho công tác khoa học cho đến cuối đời. Chebyshev là người sáng lập ra trường phái toán học Pétersbourg. Tính đa dạng của các lĩnh vực nghiên cứu, khả năng biết dựa vào những phương tiện sơ cấp để tìm ra những kết quả khoa học to lớn, và hứng thú thường xuyên đối với những vấn đề thực hành, đó là những nét đặc trưng tính sáng tạo của Chebyshev. Các công trình nghiên cứu của ông thuộc về lý thuyết sấp xỉ của các hàm với đa thức, về phép tính tích phân, lý thuyết số, lý thuyết xác suất, lý thuyết các cơ chế và về nhiều lĩnh vực khác của toán học và các ngành khoa học liên quan. Trong mỗi lĩnh vực được nhắc đến nó, ông có thể xây dựng hàng loạt những phương pháp tổng quát, cơ bản và đề xuất những ý kiến vạch ra những phương hướng chủ chốt cho sự phát triển của nó trong tương lai. Khát vọng liên kết những vấn đề của toán học với những vấn đề thuộc nguyên tắc của tự nhiên học và kỹ thuật, xác định phần lớn tính độc đáo của ông là nhà bác học. Nhiều phát minh của ông gợi lên nhu cầu ứng dụng. Chebyshev bắt tay vào nghiên cứu xác suất một số lần-lần đầu tiên, một lần ở giữa chừng và lần cuối cùng trong hoạt động khoa học của ông (\"Kinh nghiệm phân tích cơ bản lý thuyết xác suất\", 1845, \"Chứng minh cơ bản một tình huống chung của lý thuyết xác suất\", 1846, \"Về những đại lượng trung bình\", 1867, \"Về hai định lý liên quan đến xác suất\", 1887). Về mặt tư tưởng, ông có công lao đưa một cách có hệ thống những đại lượng ngẫu nhiên vào nghiên cứu và xây dựng một phương pháp chứng minh mới những định lý giới hạn của lý thuyết xác suất-phương pháp mômen. Ông đã chứng minh định luật số lớn trong dạng rất tổng quát, hơn thế nữa, bản chứng minh của ông khiến người ta phải kinh ngạc về tính giản đơn và sơ cấp của nó. Ông nghiên cứu điều kiện hội tụ của hàm phân bố của các tổng đại lượng ngẫu nhiên độc lập chưa đạt đến kết quả cuối cùng là đưa về một định luật chuẩn. Tuy nhiên, nhờ bổ khuyết thêm một phần nào đó vào các phương pháp của Chebyshev, nhà bác học Nga A.A.Moarkov đã thực hiện được điều đó. Các công trình của Chebyshev về lý thuyết xác suất lập thành một giai đoạn quan trọng trong sự phát triển trường phái lý thuyết xác suất của Nga, lúc đầu bao gồm những học trò trực tiếp của Chebyshev. Trong lý thuyết số Chebyshev đã thảo ra những phương pháp nghiên cứu sơ cấp và phương pháp sắc sảo thúc đẩy đáng kể việc nghiên cứu những vấn đề về phân bố các số nguyên tố, đạt được những kết quả quan trọng trong lý thuyết các dạng toàn phương với định thức dương và trong lý thuyết xấp xỉ của các số với các phân số hữu tỉ. Trong lĩnh vực giải tích toán học, ông có những công trình nghiên cứu cơ bản về lý thuyết lấy tích phân, tạo thành lý thuyết tổng quát về đa thức trực giao, lý thuyết mômen, lý thuyết về công thức cầu phương, lý thuyết nội suy, ông xây dựng nền móng cho lý thuyết kiến thiết hàm. Trong lý thuyết các cơ chế và máy móc Chebyshev làm đặc biệt nhiều trong lĩnh vực tổng hợp các cơ chế bản lề. Những công trình nghiên cứu của Chebyshev đã để lại dấu ấn sâu sắc trong toán học, sau khi đạt cơ sở cho sự phát triển của nhiều ngành mới của nó. Ông đã đào tạo hàng loạt những nhà bác học bậc nhất. Những tác phẩm của Chebyshev, ngay lúc sinh thời của ông, cũng đã được quý trọng rộng rãi ở trong cũng như ở ngoài nước Nga. Chebyshev là thành viên của nhiều Viện hàn lâm khoa học và hiệp hội khoa học. Viện hàn lâm khoa học Nga đã lập ra huy chương vàng mang tên P.L.Chebyshev."
       }
     ],
     "k": "chebyshev pafnouti lvovitch"
@@ -14035,7 +14035,7 @@
     "h": "check on accuracy",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "kiểm tra đdộ chính xác"},
+      {"k": "m", "t": "kiểm tra độ chính xác"},
       {"k": "m", "t": "kiểm tra độ chính xác"}
     ],
     "k": "check on accuracy"
@@ -15036,7 +15036,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "có thể đặt điểm kiểm tra, có thể tạo điểm kiểm tra, có thể đanh dấu bằng điểm kiểm tra."
+        "t": "có thể đặt điểm kiểm tra, có thể tạo điểm kiểm tra, có thể đánh dấu bằng điểm kiểm tra."
       }
     ],
     "k": "checkpointable"
@@ -15142,7 +15142,7 @@
       {
         "k": "ex",
         "t": "We depend on checks and balances in government to keep despots from seizing control of the government:",
-        "vi": "Chúng tôi dựa vào hệ thống kiểm soát và quân bình trong chính phủ để giữ cho những kẻ chuyên quyền không nắm quyền điều kiển chính phủ."
+        "vi": "Chúng tôi dựa vào hệ thống kiểm soát và quân bình trong chính phủ để giữ cho những kẻ chuyên quyền không nắm quyền điều khiển chính phủ."
       }
     ],
     "k": "checks and balances"
@@ -27114,7 +27114,7 @@
   {"h": "chlamydes", "segs": [{"k": "m", "t": "dress Plural of chlamys"}], "k": "chlamydes"},
   {
     "h": "Chlamydia",
-    "segs": [{"k": "m", "t": "loại vi rút gây bệnh ở người va chim."}],
+    "segs": [{"k": "m", "t": "loại vi rút gây bệnh ở người và chim."}],
     "k": "chlamydia"
   },
   {
@@ -28741,7 +28741,7 @@
       {
         "k": "ex",
         "t": "If I had the choice, I would take the next Saturday off",
-        "vi": "Nếu tôi được quyền lựa chọn, tôi sẽ nghỉ ngày thừ bảy tới"
+        "vi": "Nếu tôi được quyền lựa chọn, tôi sẽ nghỉ ngày thứ bảy tới"
       },
       {"k": "m", "t": "người/vật được chọn"},
       {
@@ -29082,7 +29082,7 @@
       {
         "k": "ex",
         "t": "the drains are choked (up) with dead leaves",
-        "vi": "các cống thoát nước bị tắc vì là rụng"
+        "vi": "các cống thoát nước bị tắc vì lá rụng"
       },
       {"k": "ex", "t": "the garden is choked with weeds", "vi": "khu vườn đầy cỏ dại"},
       {"k": "m", "t": "("},
@@ -30854,7 +30854,7 @@
       {"k": "m", "t": "(địa) phay"},
       {"k": "ex", "t": "chops and changes", "vi": "những sự đổi thay"},
       {"k": "pos", "t": "đại từ"},
-      {"k": "m", "t": "thay đổi luôn luôn, dao động, không kiến định"},
+      {"k": "m", "t": "thay đổi luôn luôn, dao động, không kiên định"},
       {"k": "ex", "t": "to chop and change", "vi": "thay thay đổi đổi"},
       {"k": "m", "t": "(+"},
       {"k": "ex", "t": "round, about", "vi": ") đổi chiều thình lình, trở thình lình (gió)"},
@@ -33339,7 +33339,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Hiệp hội kitô viên (do Cha J. Keller, M.M. sáng lập n. 1945, để quáng bá tinh thần kitô)."
+        "t": "Hiệp hội kitô viên (do Cha J. Keller, M.M. sáng lập n. 1945, để quảng bá tinh thần kitô)."
       }
     ],
     "k": "christophers"
@@ -33355,7 +33355,7 @@
     "ipa": "'ʃa: lət",
     "k": "chrlotte"
   },
-  {"h": "chrom-", "segs": [{"k": "m", "t": "prefix Chi màu hoặc sắc tố."}], "k": "chrom-"},
+  {"h": "chrom-", "segs": [{"k": "m", "t": "prefix Chỉ màu hoặc sắc tố."}], "k": "chrom-"},
   {
     "h": "chroma",
     "segs": [
@@ -34784,7 +34784,7 @@
       {"k": "m", "t": "thành thói quen"},
       {"k": "ex", "t": "chronic doubts", "vi": "những mối nghi ngờ đã ăn sâu"},
       {"k": "ex", "t": "to be getting chronic", "vi": "trở thành thói quen"},
-      {"k": "m", "t": "thường xuyên, lắp đi lắp lại"},
+      {"k": "m", "t": "thường xuyên, lặp đi lặp lại"},
       {"k": "pos", "t": "thành ngữ"},
       {"k": "m", "t": "rất khó chịu, rất xấu."}
     ],
@@ -35054,7 +35054,7 @@
       {"k": "m", "t": "(y) tính mạn, tính kinh niên"},
       {"k": "m", "t": "tính ăn sâu, tính thâm căn cố đế"},
       {"k": "m", "t": "tính thường xuyên"},
-      {"k": "m", "t": "sự lắp đi lắp lại."}
+      {"k": "m", "t": "sự lặp đi lặp lại."}
     ],
     "ipa": "krə'nisiti",
     "k": "chronicity"

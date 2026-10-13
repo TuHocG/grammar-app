@@ -1173,7 +1173,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1777-1733), nhà bác học Ý, tu sĩ dòng Tên. Ông giảng dạy thần học và toán học trong các trường dòng ở Turin, Pavie và Milan. Ông đã cố thử (1733) chứng minh định đề V của Euclide về dường song song từ điều ngược lại."
+        "t": "(1777-1733), nhà bác học Ý, tu sĩ dòng Tên. Ông giảng dạy thần học và toán học trong các trường dòng ở Turin, Pavie và Milan. Ông đã cố thử (1733) chứng minh định đề V của Euclide về đường song song từ điều ngược lại."
       }
     ],
     "k": "saccheri giovanni girolamo"
@@ -9491,7 +9491,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "số lượng bán tối đa"},
-      {"k": "m", "t": "sự tăng doanh số bàn hàng lên mức cao nhất"}
+      {"k": "m", "t": "sự tăng doanh số bán hàng lên mức cao nhất"}
     ],
     "k": "sales maximization"
   },
@@ -12530,7 +12530,11 @@
     "ipa": ",sæltə'tɔ:riəl",
     "k": "saltatorial"
   },
-  {"h": "saltatoric", "segs": [{"k": "m", "t": "Nhảy nhót, đột biế ngẫu biến."}], "k": "saltatoric"},
+  {
+    "h": "saltatoric",
+    "segs": [{"k": "m", "t": "Nhảy nhót, đột biến ngẫu biến."}],
+    "k": "saltatoric"
+  },
   {
     "h": "saltatory",
     "segs": [
@@ -14189,7 +14193,7 @@
       },
       {"k": "ex", "t": "all just the same", "vi": "dầu sao đi nữa"},
       {"k": "m", "t": "("},
-      {"k": "ex", "t": "the) same again", "vi": "vẫn cư như vậy nhé!"},
+      {"k": "ex", "t": "the) same again", "vi": "vẫn cứ như vậy nhé!"},
       {"k": "ex", "t": "same here", "vi": "^thtục. tôi cũng thế"},
       {"k": "m", "t": "tôi đồng ý"},
       {"k": "m", "t": "("},
@@ -20406,7 +20410,7 @@
   {
     "h": "santalum",
     "segs": [
-      {"k": "m", "t": "1. gỗ cầy đàn hương trắng Santalum album"},
+      {"k": "m", "t": "1. gỗ cây đàn hương trắng Santalum album"},
       {"k": "m", "t": "2. gỗ cây giáng hương Pterocarphus."}
     ],
     "k": "santalum"
@@ -23473,7 +23477,7 @@
     "k": "satellite",
     "q": {"vi": "vệ tinh", "ipa": "'sætəlait", "pos": "n"}
   },
-  {"h": "satellite abscess", "segs": [{"k": "m", "t": "áp-xe đì kèm."}], "k": "satellite abscess"},
+  {"h": "satellite abscess", "segs": [{"k": "m", "t": "áp-xe đi kèm."}], "k": "satellite abscess"},
   {
     "h": "satellite angular position",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "vị trí góc của vệ tinh"}],
@@ -25046,7 +25050,7 @@
   },
   {
     "h": "saturated density",
-    "segs": [{"k": "m", "t": "trọng lương riêng bão hòa."}],
+    "segs": [{"k": "m", "t": "trọng lượng riêng bão hòa."}],
     "k": "saturated density"
   },
   {"h": "saturated diode", "segs": [{"k": "m", "t": "diode bão hòa."}], "k": "saturated diode"},
@@ -27086,7 +27090,7 @@
         "t": "saving clause",
         "vi": "điều khoản bảo lưu, điều khoản trong có nói đến sự miễn giảm"
       },
-      {"k": "ex", "t": "to save one's bacon", "vi": "cứu lấy cái thần xác mình"},
+      {"k": "ex", "t": "to save one's bacon", "vi": "cứu lấy cái thân xác mình"},
       {"k": "ex", "t": "to save one's breath", "vi": "làm thinh"},
       {"k": "ex", "t": "saving your respect", "vi": "xin mạn phép ông"},
       {
@@ -27419,7 +27423,7 @@
       {
         "k": "ex",
         "t": "The saving grace for the whole evening was the good music played by the band:",
-        "vi": "Điều cứu vãn cho cả buối tối là âm nhạc do ban nhạc chơi hay."
+        "vi": "Điều cứu vãn cho cả buổi tối là âm nhạc do ban nhạc chơi hay."
       }
     ],
     "k": "saving grace"

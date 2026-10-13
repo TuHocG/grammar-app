@@ -1178,7 +1178,7 @@
       {"k": "m", "t": "(kinh tế) Phân biệt đối xử tiền công."},
       {
         "k": "m",
-        "t": "Cụm thuật ngữ dùng để mô tả tình trạng trong đó các công nhân có năng suất lao đông như nhau được trả các mức lương khác nhau."
+        "t": "Cụm thuật ngữ dùng để mô tả tình trạng trong đó các công nhân có năng suất lao động như nhau được trả các mức lương khác nhau."
       }
     ],
     "k": "wage discrimination"
@@ -1789,7 +1789,7 @@
     "h": "wages clerk",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "nhân viên kết toán tiền lương"},
+      {"k": "m", "t": "nhân viên kế toán tiền lương"},
       {"k": "m", "t": "nhân viên quản lý tiền lương"}
     ],
     "k": "wages clerk"
@@ -4741,7 +4741,7 @@
   },
   {
     "h": "walking support",
-    "segs": [{"k": "m", "t": "giá đỡ di dộng kiểu bước; m giàn chống di động kiểu bước."}],
+    "segs": [{"k": "m", "t": "giá đỡ di động kiểu bước; m giàn chống di động kiểu bước."}],
     "k": "walking support"
   },
   {

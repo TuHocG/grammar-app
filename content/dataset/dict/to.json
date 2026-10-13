@@ -3887,7 +3887,7 @@
       {"k": "m", "t": "draw"},
       {"k": "ex", "t": "to draw up", "vi": "kéo lên, rút lên"},
       {"k": "m", "t": "múc (nước...) lên"},
-      {"k": "m", "t": "(động từ phãn thân)"},
+      {"k": "m", "t": "(động từ phản thân)"},
       {"k": "ex", "t": "to draw oneself up", "vi": "đứng thẳng đơ, đứng ngay đơ"},
       {"k": "m", "t": "(quân) sắp quân lính thành hàng, dàn hàng"},
       {"k": "m", "t": "thảo (một văn kiện)"},
@@ -19078,7 +19078,7 @@
       {
         "k": "ex",
         "t": "every year at Christmas drunken driving takes its toll",
-        "vi": "Vào dịp lễ Nô-en hàng năm, nạn lái xe trong tinh trạng say rượu gây ra nhiều thiệt hại"
+        "vi": "Vào dịp lễ Nô-en hàng năm, nạn lái xe trong tình trạng say rượu gây ra nhiều thiệt hại"
       },
       {"k": "ex", "t": "road toll", "vi": "số người bị tai nạn xe cộ"},
       {"k": "pos", "t": "đại từ"},
@@ -19728,7 +19728,7 @@
   },
   {"h": "tomato pomace", "segs": [{"k": "m", "t": "bã ép cà chua."}], "k": "tomato pomace"},
   {"h": "tomato pulp", "segs": [{"k": "m", "t": "bột nhão cà chua."}], "k": "tomato pulp"},
-  {"h": "tomato puree", "segs": [{"k": "m", "t": "bột chà chua."}], "k": "tomato puree"},
+  {"h": "tomato puree", "segs": [{"k": "m", "t": "bột cà chua."}], "k": "tomato puree"},
   {
     "h": "Tomato sausages",
     "segs": [{"k": "m", "t": "xúc xích cà chua (ẩm từ thịt lơn, thịt bò và cà chua)."}],
@@ -27956,7 +27956,7 @@
     ],
     "k": "torque converter housing"
   },
-  {"h": "torque curve", "segs": [{"k": "m", "t": "đường biễu diễn ngẫu lực."}], "k": "torque curve"},
+  {"h": "torque curve", "segs": [{"k": "m", "t": "đường biểu diễn ngẫu lực."}], "k": "torque curve"},
   {"h": "torque dynamometer", "segs": [{"k": "m", "t": "lực kế xoắn."}], "k": "torque dynamometer"},
   {"h": "torque force", "segs": [{"k": "m", "t": "lực xoắn."}], "k": "torque force"},
   {
@@ -31408,7 +31408,7 @@
   },
   {
     "h": "total water consumption",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tổng lưu lương nước"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tổng lưu lượng nước"}],
     "k": "total water consumption"
   },
   {

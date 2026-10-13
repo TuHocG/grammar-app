@@ -109,7 +109,7 @@
       },
       {
         "k": "m",
-        "t": "VLAN tầng 3 Loại VLAN này dùng thông tin ở tầng 3 để xây dựng VLAN dựa trên các địa chỉ giao thức liên mạng.Ví dụ, trên hình V-5, tất cả máy tính trong VLAM Marketing có địa chỉ IP 100.200.1.x (trong đó x là một số cụ thể cho mỗi máy trạm), trong khi các máy trong VLAN Research có địa chỉ IP 100.200.2.x. một bộ chuyển mạch tầng 3 có khả năng xem địa chỉ mạng trong khung và chuyển tiếp khung này dựa trên thông tin trong bảng, bảng này so sánh địa chỉ mạng với thành viên trong VLAN cụ te. Tuy nhiên, việc nhìn vào địa chỉ tầng 3 có thể gây ra vấn đề về vận hành. Giống như VLAN dựa trên MAC, việc di chuyển là dễ dàng vì cổng của các máy trạm không xác định thành viên của VLAN. Tiếp cận tầng 3 có thể mở rộng để chứa nhiều chức năng định tuyến ngay trong bộ chuyển mạch, và đây là điều mà nhiều nhà cung cấp đã thực hiện. Xem mục \"Switched Networks\" để biết chi tiết về kiến trúc của những bộ chuyển mạch này."
+        "t": "VLAN tầng 3 Loại VLAN này dùng thông tin ở tầng 3 để xây dựng VLAN dựa trên các địa chỉ giao thức liên mạng.Ví dụ, trên hình V-5, tất cả máy tính trong VLAM Marketing có địa chỉ IP 100.200.1.x (trong đó x là một số cụ thể cho mỗi máy trạm), trong khi các máy trong VLAN Research có địa chỉ IP 100.200.2.x. một bộ chuyển mạch tầng 3 có khả năng xem địa chỉ mạng trong khung và chuyển tiếp khung này dựa trên thông tin trong bảng, bảng này so sánh địa chỉ mạng với thành viên trong VLAN cụ thể. Tuy nhiên, việc nhìn vào địa chỉ tầng 3 có thể gây ra vấn đề về vận hành. Giống như VLAN dựa trên MAC, việc di chuyển là dễ dàng vì cổng của các máy trạm không xác định thành viên của VLAN. Tiếp cận tầng 3 có thể mở rộng để chứa nhiều chức năng định tuyến ngay trong bộ chuyển mạch, và đây là điều mà nhiều nhà cung cấp đã thực hiện. Xem mục \"Switched Networks\" để biết chi tiết về kiến trúc của những bộ chuyển mạch này."
       },
       {
         "k": "m",
@@ -133,7 +133,7 @@
       },
       {
         "k": "m",
-        "t": "Các cấu hình VLAN dùng chỉ tầng 2 (các VLAN thiết đặt theo cổng và các VLAN dựa trên MAC) đòi hỏi ít nhất một cổng trong mỗi VLAN được thiết đặt riêng để cung cấp kết nối VLAN-router. Trong môi trờng mạng chuyển mạch, Thường người ta không chấp nhận dùng các bộ định tuyến đơn lẻ vì có sự chậm trễ cố hữu gây ra bởi thao tác lưu trữ-và-chuyển tiếp của chúng."
+        "t": "Các cấu hình VLAN dùng chỉ tầng 2 (các VLAN thiết đặt theo cổng và các VLAN dựa trên MAC) đòi hỏi ít nhất một cổng trong mỗi VLAN được thiết đặt riêng để cung cấp kết nối VLAN-router. Trong môi trường mạng chuyển mạch, Thường người ta không chấp nhận dùng các bộ định tuyến đơn lẻ vì có sự chậm trễ cố hữu gây ra bởi thao tác lưu trữ-và-chuyển tiếp của chúng."
       },
       {
         "k": "m",

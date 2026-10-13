@@ -9195,7 +9195,7 @@
   },
   {
     "h": "reballasting",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sự rãi balat lại."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "sự rải balat lại."}],
     "ipa": ",ri:'bæləstiŋ",
     "k": "reballasting"
   },
@@ -10574,7 +10574,7 @@
   },
   {
     "h": "recalled witness",
-    "segs": [{"k": "m", "t": "nhân chứng được gọi lên lần thư hai."}],
+    "segs": [{"k": "m", "t": "nhân chứng được gọi lên lần thứ hai."}],
     "k": "recalled witness"
   },
   {
@@ -12286,7 +12286,7 @@
     "h": "receiving element",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "phần thử nhận (thiết bị đo lường)"},
+      {"k": "m", "t": "phần tử nhận (thiết bị đo lường)"},
       {"k": "m", "t": "phần tử thu"}
     ],
     "k": "receiving element"
@@ -12416,7 +12416,7 @@
   },
   {
     "h": "receiving margin",
-    "segs": [{"k": "m", "t": "lề nhận (trong ứng dụng diện báo)."}],
+    "segs": [{"k": "m", "t": "lề nhận (trong ứng dụng điện báo)."}],
     "k": "receiving margin"
   },
   {"h": "receiving modem", "segs": [{"k": "m", "t": "modem nhận."}], "k": "receiving modem"},
@@ -14557,7 +14557,7 @@
   },
   {
     "h": "reciprocal frequeney transformation",
-    "segs": [{"k": "m", "t": "phép biển đổi đảo tần."}],
+    "segs": [{"k": "m", "t": "phép biến đổi đảo tần."}],
     "k": "reciprocal frequeney transformation"
   },
   {
@@ -16645,7 +16645,7 @@
       {
         "k": "ex",
         "t": "The firm recognized Tom's outstanding work by giving him an extra bonus",
-        "vi": "công ty ghi nhậnb công việc nổi bật của Tom bằng cách tặng thêm cho anh ta một khoản tiền thưởng"
+        "vi": "công ty ghi nhận công việc nổi bật của Tom bằng cách tặng thêm cho anh ta một khoản tiền thưởng"
       },
       {
         "k": "ex",
@@ -21399,7 +21399,7 @@
     "h": "recreation gallery",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "hành lang chơi (ở trương học)"}
+      {"k": "m", "t": "hành lang chơi (ở trường học)"}
     ],
     "k": "recreation gallery"
   },
@@ -29361,7 +29361,7 @@
       {"k": "m", "t": "(kinh tế) Dạng rút gọn."},
       {
         "k": "m",
-        "t": "Là các dạng của một tập hợp các phương trình đồng thời trong đó các biến số nội sinh đươc biểu thị như là các hàm của các biến số ngoại sinh, nghĩa là không có biến số nội sinh nào xuất hiện phía bên phải của các phương trình."
+        "t": "Là các dạng của một tập hợp các phương trình đồng thời trong đó các biến số nội sinh được biểu thị như là các hàm của các biến số ngoại sinh, nghĩa là không có biến số nội sinh nào xuất hiện phía bên phải của các phương trình."
       }
     ],
     "k": "reduced form (rf)"
@@ -34610,7 +34610,7 @@
   },
   {
     "h": "reference sensitivity",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "độ nhay cảm chuẩn gốc"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "độ nhạy cảm chuẩn gốc"}],
     "k": "reference sensitivity"
   },
   {
@@ -43434,7 +43434,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "cao su tái chế"},
-      {"k": "m", "t": "cao sư tái sinh"}
+      {"k": "m", "t": "cao su tái sinh"}
     ],
     "k": "regenerated"
   },
@@ -44769,7 +44769,7 @@
       {"k": "m", "t": "(kinh tế) Trợ cấp tuyển dụng lao động khu vực."},
       {
         "k": "m",
-        "t": "Là khoản trợ cấp cho các hãng sản xuất tại các khu vực cần phát triển và các khu vực đặc biệt ở Anh từ năm 1967 đến năm 1977 dựa trên cơ sở số công nhân được tuyển dụng, ban dầu là 1,5 bảng cho một công nhân và sau đó là 3 bảng cho một công nhân, hy vọng sẽ khuyến khích các hãng ở các khu vực có tỉ lệ thất nghiệp cao thuê thêm nhiều lao động."
+        "t": "Là khoản trợ cấp cho các hãng sản xuất tại các khu vực cần phát triển và các khu vực đặc biệt ở Anh từ năm 1967 đến năm 1977 dựa trên cơ sở số công nhân được tuyển dụng, ban đầu là 1,5 bảng cho một công nhân và sau đó là 3 bảng cho một công nhân, hy vọng sẽ khuyến khích các hãng ở các khu vực có tỉ lệ thất nghiệp cao thuê thêm nhiều lao động."
       }
     ],
     "k": "regional emloyment premium"
@@ -45569,7 +45569,7 @@
   },
   {
     "h": "register insertion",
-    "segs": [{"k": "m", "t": "sự dưa vào thanh ghi, sự chèn vào thanh ghi."}],
+    "segs": [{"k": "m", "t": "sự đưa vào thanh ghi, sự chèn vào thanh ghi."}],
     "k": "register insertion"
   },
   {"h": "register length", "segs": [{"k": "m", "t": "độ dài thanh ghi."}], "k": "register length"},
@@ -54949,7 +54949,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quản lý cơ sở dữ liệu quan hệ. Một cách quản lý cơ sở dữ liệu, trong đó dữ liệu được lưu trữ trong các bảng dữ liệu hai chiều gồm các cột và các hàng, có thể quan hệ với nhau nếu các bảng đó có một cột hoặc một trường chung nhau. Thuật ngữ liên quan khi áp dụng vào quản lý cơ sở dữ liệu có nghĩa là lưu trữ và truy tìm dữ liệu trong các bảng. Được Edgar Codd giới thiệu năm 1970, thiết kế này đã được dựa trên một lý thuyết toán. Một cơ sở dữ liệu quan hệ thực phụ phù hợp với lý thuyết này, sẽ bố trí tất cả các dữ liệu dưới dạng các bảng, trong đó mỗi bảng đều xác định sự liên quan giữa các khoảng mục trong các hàng (các bản ghi dữ liệu) và các cột (các trường dữ liệu), và kết quả cuối cùng của bất kỳ một câu hỏi yêu cầu nào cũng là một bảng mới. Giả sử có một cơ sở dữ liệu của một cửa hàng video liệt kê số điện thoại và tên khách hàng trong bảng như sau: PHON NO NAME 555-4321 Smith, Ted 555-4411 Jones, Jane. Một bảng khác chứa tên của các cuộn băng đã cho thuê, số điện thoại của khách thuê băng, và ngày trả: TITLE PHONE NO DUE DATE Blues 555-432107 / 16 / 94 Danger 555-441107 / 19 / 94 Có thể đặt một câu hỏi yêu cầu \"Đưa ra tên và số điện thoại của các khách hàng có hạn trả băng đúng hoặc trước ngày 19 tháng 7 / 1994, và in ra tên của các phím đó\". Một câu hỏi như vậy sẽ dẫn đến bảng kết quả sau: NAME PHONE NO TITLE Smith, Ted 555-4321 Blues Jones, Jane 555-4411 Danger Không phải tất cả các chương trình quản lý cơ sở dữ liệu được quảng cáo là \"quan hệ\" đều là các chương trình định hướng bảng thật sự. Hầu hết đều là loại chương trình định hướng bản ghi, chỉ \"quan hệ\" trong phạm vi mà chúng có thể liên kết các dữ liệu trong hai cơ sở dữ liệu thông qua một trường chung. Chương trình dBASE thuộc loại như vậy: dữ liệu được lưu trữ theo các bản ghi, không phải là các bảng. Tuy nhiên, bạn vẫn có thể dùng dBASE như là một chương trình quan hệ thực thụ."
+        "t": "quản lý cơ sở dữ liệu quan hệ. Một cách quản lý cơ sở dữ liệu, trong đó dữ liệu được lưu trữ trong các bảng dữ liệu hai chiều gồm các cột và các hàng, có thể quan hệ với nhau nếu các bảng đó có một cột hoặc một trường chung nhau. Thuật ngữ liên quan khi áp dụng vào quản lý cơ sở dữ liệu có nghĩa là lưu trữ và truy tìm dữ liệu trong các bảng. Được Edgar Codd giới thiệu năm 1970, thiết kế này đã được dựa trên một lý thuyết toán. Một cơ sở dữ liệu quan hệ thực phụ phù hợp với lý thuyết này, sẽ bố trí tất cả các dữ liệu dưới dạng các bảng, trong đó mỗi bảng đều xác định sự liên quan giữa các khoản mục trong các hàng (các bản ghi dữ liệu) và các cột (các trường dữ liệu), và kết quả cuối cùng của bất kỳ một câu hỏi yêu cầu nào cũng là một bảng mới. Giả sử có một cơ sở dữ liệu của một cửa hàng video liệt kê số điện thoại và tên khách hàng trong bảng như sau: PHON NO NAME 555-4321 Smith, Ted 555-4411 Jones, Jane. Một bảng khác chứa tên của các cuộn băng đã cho thuê, số điện thoại của khách thuê băng, và ngày trả: TITLE PHONE NO DUE DATE Blues 555-432107 / 16 / 94 Danger 555-441107 / 19 / 94 Có thể đặt một câu hỏi yêu cầu \"Đưa ra tên và số điện thoại của các khách hàng có hạn trả băng đúng hoặc trước ngày 19 tháng 7 / 1994, và in ra tên của các phím đó\". Một câu hỏi như vậy sẽ dẫn đến bảng kết quả sau: NAME PHONE NO TITLE Smith, Ted 555-4321 Blues Jones, Jane 555-4411 Danger Không phải tất cả các chương trình quản lý cơ sở dữ liệu được quảng cáo là \"quan hệ\" đều là các chương trình định hướng bảng thật sự. Hầu hết đều là loại chương trình định hướng bản ghi, chỉ \"quan hệ\" trong phạm vi mà chúng có thể liên kết các dữ liệu trong hai cơ sở dữ liệu thông qua một trường chung. Chương trình dBASE thuộc loại như vậy: dữ liệu được lưu trữ theo các bản ghi, không phải là các bảng. Tuy nhiên, bạn vẫn có thể dùng dBASE như là một chương trình quan hệ thực thụ."
       }
     ],
     "k": "relational database management"
@@ -64863,7 +64863,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Thời kỳ phục hưng. Sự nở hoa trí tuệ và mỹ thuật bắt đầu ở Ý thế kỷ 14, lên đến cực điểm tại đây vào thế kỷ 16, và có ảnh hướng lớn đối với nhiều phần khác của Châu Âu. Phục hưng theo tiếng Pháp có nghĩa là hồi sinh và chuyển sang phục hồi lại những giá trị của thế giới kinh điển. Một sự quan tâm thích thú đối với các tác phẩm kinh điển Latin bắt đầu từ những năm đầu thế kỷ 12. Khái niệm này được sử dụng vào đầu thế kỷ 15 và được phát triển trong thế kỷ 16 bởi họa sĩ-nhà văn Giorgio Vasari. Ông hiểu rằng nghệ thuật bị suy tàn từ Thời trung cổ, đã được thiết lập trên con đường chính của nó bởi Giotto, người họa sĩ phá vỡ truyền thống mô tả tranh bằng hình tượng và sử dụng nghệ thuật tô bóng để tạo chiều sâu. Nó đã đạt đến đỉnh cao bởi họa sĩ Michelangelo. Ý tưởng về \"Con người phục hưng\" phát xuất từ khái niệm con người có khả năng vô hạn trong việc phát triển vật chất, xã hội hay nghệ thuật. Ý tưởng này được khắc họa đậm nét bởi Leon Battista Alberti. Bản thân ông là một kiến trúc sư, họa sĩ, nhà thơ, nhà khoa học và là một nhà toán học. Leonardo da Vinci, Brunelleschi được đánh giá là nhà kiến trúc sư phục hưng đầu tiên. Vượt ra khỏi niềm yêu thích của ông đối với tàn tích của chế độ La Mã cổ đại, ông sáng tạo nên những công trình xây dựng có thể so sánh với những hình mẫu cổ đại đặc sắc nhất. Trong lĩnh vực điêu khắc, khởi đầu của Thời kỳ phục hưng được đánh dấu xa hơn như Nicola Pisano cuối thế kỷ 14, người ta cho rằng ông chịu ảnh hưởng của các quan tài bằng đá thời La Mã cổ đại. Tuy nhiên chính Donatello thế kỷ thứ 15 là người hiểu thấu một cách triệt để nhất tinh thần của các tác phẩm điều khắc cổ đại hơn là chỉ đơn giản vay mượn lại chủ đề của nó. Trong lĩnh vực hội họa, khó có thể định nghĩa được Thời kỳ phục hưng dưới ảnh hưởng của tác phẩm mĩ thuật cổ bởi vì có rất ít bức họa cổ điển còn tồn tại. Trong các tác phẩm kinh điển, người ta cho rằng các họa sĩ rất xuất sắc về sự chính xác. Điều này trở thành mối quan tâm chủ yếu của những họa sĩ thời kỳ đầu phục hưng như Giotto và Masaccio. Trong khi nghệ thuật phối cảnh đã giúp tạo ra những bức chân dung miêu tả cảnh thiên nhiên một cách sống động. Michelangelo, Raphael, Titian và những người khác đã khai phá vùng đất mới bằng cách giới thiệu hình dáng con người, mô tả theo chủ nghĩa tự nhiên, trong những bức tranh của họ. Trong thế kỷ 15 và 16, trung tâm của thời kỳ Phục hưng là các thành phố Florence, Venice, Rome, và các công tước Mantua, Urbino, và Ferrara. Florence giai đoạn năm 1425 chính là cái nôi của Thời kỳ phục hưng. Nhưng đầu thế kỷ 16, thành Venice \"Phục hưng cao độ\" và Rome đều quan trọng như nhau. Medici ở Florence và các giáo hoàng ở Rome, đặc biệt là Julius II và Leo X, là những người bảo trợ quan trọng. Những ý tưởng và hình tượng thời Phục hưng ở Ý thường không được mở rộng khắp các vùng còn lại của Châu Âu mãi cho đến năm 1500. Albrecht Durer, người Đức là một họa sĩ nổi bật của Phong trào phục hưng phía Bắc. Nó trở thành sứ mệnh để ông mang những ý tưởng mới của Ý đến các vùng đất của Đức. Trong văn học, Thời kỳ phục hưng được dẫn đầu bởi các nhà thơ và nhà nghiên cứu khoa học nhân văn, đáng chú ý nhất là Petrarch, Dante, và Boccacio ở Ý. Thi ca và văn xuôi bắt đầu được sáng tác bằng tiếng địa phương thay vì tiếng Latin và việc phát minh ra nghề in ấn đã góp phần mở rộng các ý tưởng. Trong số những tác gia đáng chú ý của Thời phục hưng bên ngoài Ý có Erasmus ở Hà Lan, Montaigne và Rabelais, và những nhà thơ của Nhóm thơ ở Pháp, Lope de Vega và Cervantes ở Tây Ban Nha, và Edmund Spenser, Ngài Philip Sidney, Shakespeare, và Ngài Francis Bacon ở Anh. Các nhà soạn kịch giới thiệu hình thức cổ điển và nét tế nhị trong các tác phẩm của họ. Dựa trên những tác phẩm kiến trúc của Vitruvius (năm 15 trước công nguyên), các công trình nhà hát và công trình thiết kế được xây dựng dựa vào những nguyên tắc của nhà hát La Mã. Một sự phục hưng các vở kịch của nhà thơ La Mã Terence vào thế kỷ 15 ở Venice được dàn dựng trước khán giả trong một khán phòng hình móng ngựa đối diện với một thềm sân khấu hình cung và đó trở thành kiểu mẫu của các tòa nhà hát trên toàn thế giới phương Tây trong 500 năm tiếp sau đó."
+        "t": "Thời kỳ phục hưng. Sự nở hoa trí tuệ và mỹ thuật bắt đầu ở Ý thế kỷ 14, lên đến cực điểm tại đây vào thế kỷ 16, và có ảnh hưởng lớn đối với nhiều phần khác của Châu Âu. Phục hưng theo tiếng Pháp có nghĩa là hồi sinh và chuyển sang phục hồi lại những giá trị của thế giới kinh điển. Một sự quan tâm thích thú đối với các tác phẩm kinh điển Latin bắt đầu từ những năm đầu thế kỷ 12. Khái niệm này được sử dụng vào đầu thế kỷ 15 và được phát triển trong thế kỷ 16 bởi họa sĩ-nhà văn Giorgio Vasari. Ông hiểu rằng nghệ thuật bị suy tàn từ Thời trung cổ, đã được thiết lập trên con đường chính của nó bởi Giotto, người họa sĩ phá vỡ truyền thống mô tả tranh bằng hình tượng và sử dụng nghệ thuật tô bóng để tạo chiều sâu. Nó đã đạt đến đỉnh cao bởi họa sĩ Michelangelo. Ý tưởng về \"Con người phục hưng\" phát xuất từ khái niệm con người có khả năng vô hạn trong việc phát triển vật chất, xã hội hay nghệ thuật. Ý tưởng này được khắc họa đậm nét bởi Leon Battista Alberti. Bản thân ông là một kiến trúc sư, họa sĩ, nhà thơ, nhà khoa học và là một nhà toán học. Leonardo da Vinci, Brunelleschi được đánh giá là nhà kiến trúc sư phục hưng đầu tiên. Vượt ra khỏi niềm yêu thích của ông đối với tàn tích của chế độ La Mã cổ đại, ông sáng tạo nên những công trình xây dựng có thể so sánh với những hình mẫu cổ đại đặc sắc nhất. Trong lĩnh vực điêu khắc, khởi đầu của Thời kỳ phục hưng được đánh dấu xa hơn như Nicola Pisano cuối thế kỷ 14, người ta cho rằng ông chịu ảnh hưởng của các quan tài bằng đá thời La Mã cổ đại. Tuy nhiên chính Donatello thế kỷ thứ 15 là người hiểu thấu một cách triệt để nhất tinh thần của các tác phẩm điêu khắc cổ đại hơn là chỉ đơn giản vay mượn lại chủ đề của nó. Trong lĩnh vực hội họa, khó có thể định nghĩa được Thời kỳ phục hưng dưới ảnh hưởng của tác phẩm mĩ thuật cổ bởi vì có rất ít bức họa cổ điển còn tồn tại. Trong các tác phẩm kinh điển, người ta cho rằng các họa sĩ rất xuất sắc về sự chính xác. Điều này trở thành mối quan tâm chủ yếu của những họa sĩ thời kỳ đầu phục hưng như Giotto và Masaccio. Trong khi nghệ thuật phối cảnh đã giúp tạo ra những bức chân dung miêu tả cảnh thiên nhiên một cách sống động. Michelangelo, Raphael, Titian và những người khác đã khai phá vùng đất mới bằng cách giới thiệu hình dáng con người, mô tả theo chủ nghĩa tự nhiên, trong những bức tranh của họ. Trong thế kỷ 15 và 16, trung tâm của thời kỳ Phục hưng là các thành phố Florence, Venice, Rome, và các công tước Mantua, Urbino, và Ferrara. Florence giai đoạn năm 1425 chính là cái nôi của Thời kỳ phục hưng. Nhưng đầu thế kỷ 16, thành Venice \"Phục hưng cao độ\" và Rome đều quan trọng như nhau. Medici ở Florence và các giáo hoàng ở Rome, đặc biệt là Julius II và Leo X, là những người bảo trợ quan trọng. Những ý tưởng và hình tượng thời Phục hưng ở Ý thường không được mở rộng khắp các vùng còn lại của Châu Âu mãi cho đến năm 1500. Albrecht Durer, người Đức là một họa sĩ nổi bật của Phong trào phục hưng phía Bắc. Nó trở thành sứ mệnh để ông mang những ý tưởng mới của Ý đến các vùng đất của Đức. Trong văn học, Thời kỳ phục hưng được dẫn đầu bởi các nhà thơ và nhà nghiên cứu khoa học nhân văn, đáng chú ý nhất là Petrarch, Dante, và Boccacio ở Ý. Thi ca và văn xuôi bắt đầu được sáng tác bằng tiếng địa phương thay vì tiếng Latin và việc phát minh ra nghề in ấn đã góp phần mở rộng các ý tưởng. Trong số những tác gia đáng chú ý của Thời phục hưng bên ngoài Ý có Erasmus ở Hà Lan, Montaigne và Rabelais, và những nhà thơ của Nhóm thơ ở Pháp, Lope de Vega và Cervantes ở Tây Ban Nha, và Edmund Spenser, Ngài Philip Sidney, Shakespeare, và Ngài Francis Bacon ở Anh. Các nhà soạn kịch giới thiệu hình thức cổ điển và nét tế nhị trong các tác phẩm của họ. Dựa trên những tác phẩm kiến trúc của Vitruvius (năm 15 trước công nguyên), các công trình nhà hát và công trình thiết kế được xây dựng dựa vào những nguyên tắc của nhà hát La Mã. Một sự phục hưng các vở kịch của nhà thơ La Mã Terence vào thế kỷ 15 ở Venice được dàn dựng trước khán giả trong một khán phòng hình móng ngựa đối diện với một thềm sân khấu hình cung và đó trở thành kiểu mẫu của các tòa nhà hát trên toàn thế giới phương Tây trong 500 năm tiếp sau đó."
       },
       {
         "k": "m",
@@ -66953,7 +66953,7 @@
   },
   {
     "h": "rental contract",
-    "segs": [{"k": "m", "t": "hợp đồng thuế nhà đất."}],
+    "segs": [{"k": "m", "t": "hợp đồng thuê nhà đất."}],
     "k": "rental contract"
   },
   {
@@ -68010,7 +68010,7 @@
       {
         "k": "ex",
         "t": "can the damage done to the international relations be repaired?",
-        "vi": "liệu thiệt hại đồi với quan hệ quốc tế có bù đắp lại được không?"
+        "vi": "liệu thiệt hại đối với quan hệ quốc tế có bù đắp lại được không?"
       },
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "(cổ) sự năng lui tới, sự vãng lai, sự thăm viếng thường xuyên"},
@@ -79160,7 +79160,7 @@
   },
   {
     "h": "reset mode",
-    "segs": [{"k": "m", "t": "chế độ thiết lập lại, chế độ khởi dộng lại."}],
+    "segs": [{"k": "m", "t": "chế độ thiết lập lại, chế độ khởi động lại."}],
     "k": "reset mode"
   },
   {
@@ -83772,7 +83772,7 @@
   {"h": "resonance cell", "segs": [{"k": "m", "t": "tế bào cộng hưởng."}], "k": "resonance cell"},
   {
     "h": "resonance change",
-    "segs": [{"k": "m", "t": "thiết bị chống cộng hưởng (của đương trục)."}],
+    "segs": [{"k": "m", "t": "thiết bị chống cộng hưởng (của đường trục)."}],
     "k": "resonance change"
   },
   {
@@ -84357,7 +84357,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "lưới cộng hưởng"}],
     "k": "resorcin"
   },
-  {"h": "resorcinol", "segs": [{"k": "m", "t": "loại thuốc làm da bì tróc ra."}], "k": "resorcinol"},
+  {"h": "resorcinol", "segs": [{"k": "m", "t": "loại thuốc làm da bị tróc ra."}], "k": "resorcinol"},
   {
     "h": "resorcinol formadehyde latex",
     "segs": [{"k": "m", "t": "latếc độn (nhựa) resoxin foócmanđêhít."}],
@@ -87672,7 +87672,7 @@
       {"k": "m", "t": "làm hồi phục sức khỏe"},
       {"k": "m", "t": "tẩm bổ"},
       {"k": "ex", "t": "restorative exercises", "vi": "những bài tập hồi phục sức khỏe"},
-      {"k": "m", "t": "làm hổi tỉnh lại"},
+      {"k": "m", "t": "làm hồi tỉnh lại"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "thuốc bổ"},
       {"k": "m", "t": "thức ăn bổ, phương pháp phục hồi sức khỏe"},
@@ -91484,7 +91484,7 @@
   {"h": "rete Halleri", "segs": [{"k": "m", "t": "Lưới Haller."}], "k": "rete halleri"},
   {
     "h": "rete malleolare Iaterale",
-    "segs": [{"k": "m", "t": "Lưới dộng mạch mắt cá ngoài."}],
+    "segs": [{"k": "m", "t": "Lưới động mạch mắt cá ngoài."}],
     "k": "rete malleolare iaterale"
   },
   {
@@ -95669,7 +95669,7 @@
   },
   {
     "h": "retropubic prevesical prostatectomy",
-    "segs": [{"k": "m", "t": "(thủ thuật) cắt bỏ tuyên tiền liệt sau mu trước bàng quang."}],
+    "segs": [{"k": "m", "t": "(thủ thuật) cắt bỏ tuyến tiền liệt sau mu trước bàng quang."}],
     "k": "retropubic prevesical prostatectomy"
   },
   {
@@ -96271,7 +96271,7 @@
   {"h": "return belt", "segs": [{"k": "m", "t": "đai vòng lại, đai chéo."}], "k": "return belt"},
   {
     "h": "return bend",
-    "segs": [{"k": "m", "t": "khuỷu nối ống (quặt 1800), khuỷu nôi ống hình U."}],
+    "segs": [{"k": "m", "t": "khuỷu nối ống (quặt 1800), khuỷu nối ống hình U."}],
     "k": "return bend"
   },
   {
@@ -98559,7 +98559,7 @@
     "h": "revenue",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "thu nhập (nhất là tổng số thu nhập hàng năm của Nha nước từ thuế)"},
+      {"k": "m", "t": "thu nhập (nhất là tổng số thu nhập hàng năm của Nhà nước từ thuế)"},
       {"k": "m", "t": "(thường ở số nhiều) lợi tức, hoa lợi (của cá nhân)"},
       {"k": "m", "t": "(số nhiều) tổng thu nhập"},
       {"k": "m", "t": "ngân khố quốc gia"},
@@ -100609,7 +100609,7 @@
   },
   {
     "h": "reversed stress",
-    "segs": [{"k": "m", "t": "ứng suất biển đổi đối xứng."}],
+    "segs": [{"k": "m", "t": "ứng suất biến đổi đối xứng."}],
     "k": "reversed stress"
   },
   {
@@ -102640,7 +102640,7 @@
       {"k": "m", "t": "nổi lên chống lại..."},
       {"k": "m", "t": "(cổ) sự ghê tởm"},
       {"k": "ex", "t": "in revolt", "vi": "tình trạng đã nổi loạn"},
-      {"k": "ex", "t": "the people broke out/rose in revolt", "vi": "dân chúng đã nội dậy/nổi loạn"},
+      {"k": "ex", "t": "the people broke out/rose in revolt", "vi": "dân chúng đã nổi dậy/nổi loạn"},
       {"k": "pos", "t": "nội động từ"},
       {"k": "m", "t": "nổi dậy, khởi nghĩa, nổi loạn (chống lại nhà cầm quyền)"},
       {

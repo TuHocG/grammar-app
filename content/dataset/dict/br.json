@@ -6564,7 +6564,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "độ bền đứt"},
-      {"k": "m", "t": "giới han bền"},
+      {"k": "m", "t": "giới hạn bền"},
       {"k": "m", "t": "sức chống phá hủy"}
     ],
     "k": "breading strength"
@@ -7088,7 +7088,7 @@
       {
         "k": "ex",
         "t": "I was afraid I'd break down:",
-        "vi": "Tôi e rằng tôi có thể bị suy sup tinh thần."
+        "vi": "Tôi e rằng tôi có thể bị suy sụp tinh thần."
       }
     ],
     "k": "break down"
@@ -7269,7 +7269,7 @@
       {
         "k": "ex",
         "t": "If you break your word, she won't trust you again:",
-        "vi": "Nếu bạn thất hứa cô ấy sẽ lạ không tin bạn nữa."
+        "vi": "Nếu bạn thất hứa cô ấy sẽ lại không tin bạn nữa."
       }
     ],
     "k": "break one's word"
@@ -7674,7 +7674,7 @@
   {"h": "break-in device", "segs": [{"k": "m", "t": "thiết bị ngắt xen."}], "k": "break-in device"},
   {
     "h": "break-in news",
-    "segs": [{"k": "m", "t": "tin quan trọng mới nhân được."}],
+    "segs": [{"k": "m", "t": "tin quan trọng mới nhận được."}],
     "k": "break-in news"
   },
   {
@@ -9945,7 +9945,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "lò phản ứng tái sinh"},
-      {"k": "m", "t": "lò phả ứng nhân"}
+      {"k": "m", "t": "lò phản ứng nhân"}
     ],
     "k": "breeding reactor"
   },
@@ -17121,7 +17121,7 @@
       {"k": "m", "t": "Kỹ thật thông tin đại chúng"},
       {
         "k": "m",
-        "t": "Kỹ thuật thông tin đại chúng, còn được gọi là đẩy (push technology), là xu hướng mơi nhất về trang Web trong việc phân phối thông tin cho người dùng. Thay vì khởi động một trình duyệt Web và tìm đến hệ thống thông tin chung để tìm kiếm những thứ mà bạn thích, kỹ thuật đẩy sẽ phân phối thông tin trực tiếp cho bạn. Nói nôm na: bàn giấy (desktop) của bạn là một máy nhận giống như ti vi hay radio vậy. Bạn thuê bao các máy dịch vụ Web truyền thông tin đại chúng (liên tục hay không liên tục), thông tin phát rộng xuất hiện trong một cửa sổ hay biểu tượng trên bàn giấy và cập nhật động khi cần thiết."
+        "t": "Kỹ thuật thông tin đại chúng, còn được gọi là đẩy (push technology), là xu hướng mới nhất về trang Web trong việc phân phối thông tin cho người dùng. Thay vì khởi động một trình duyệt Web và tìm đến hệ thống thông tin chung để tìm kiếm những thứ mà bạn thích, kỹ thuật đẩy sẽ phân phối thông tin trực tiếp cho bạn. Nói nôm na: bàn giấy (desktop) của bạn là một máy nhận giống như ti vi hay radio vậy. Bạn thuê bao các máy dịch vụ Web truyền thông tin đại chúng (liên tục hay không liên tục), thông tin phát rộng xuất hiện trong một cửa sổ hay biểu tượng trên bàn giấy và cập nhật động khi cần thiết."
       },
       {
         "k": "m",
@@ -19044,7 +19044,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "một loại kháng histamine có công dụng và tác dộng phụ như bromodiphenhydramine."
+        "t": "một loại kháng histamine có công dụng và tác động phụ như bromodiphenhydramine."
       }
     ],
     "k": "bromopheniramine"
@@ -19171,7 +19171,7 @@
     "segs": [{"k": "m", "t": "(chứng) giãn phế quản."}],
     "k": "bronchiectasia"
   },
-  {"h": "bronchiectasis", "segs": [{"k": "m", "t": "Chứng giản phế quản."}], "k": "bronchiectasis"},
+  {"h": "bronchiectasis", "segs": [{"k": "m", "t": "Chứng giãn phế quản."}], "k": "bronchiectasis"},
   {"h": "bronchiloquy", "segs": [{"k": "m", "t": "Tiếng vang phế quản."}], "k": "bronchiloquy"},
   {
     "h": "bronchiocele",

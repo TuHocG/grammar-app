@@ -1244,7 +1244,7 @@
   {"h": "nicotinolytic", "segs": [{"k": "m", "t": "Hủy nicotin."}], "k": "nicotinolytic"},
   {
     "h": "nicotinyl",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "một loại thuốc giản mạch máu."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "một loại thuốc giãn mạch máu."}],
     "k": "nicotinyl"
   },
   {

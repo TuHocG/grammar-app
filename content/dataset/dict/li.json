@@ -10477,7 +10477,7 @@
   },
   {
     "h": "light-intensity meter",
-    "segs": [{"k": "m", "t": "máy đo cưỡng độ chiếu sáng."}],
+    "segs": [{"k": "m", "t": "máy đo cường độ chiếu sáng."}],
     "k": "light-intensity meter"
   },
   {
@@ -19270,7 +19270,7 @@
     ],
     "k": "line lead"
   },
-  {"h": "line length", "segs": [{"k": "m", "t": "độ đài dòng."}], "k": "line length"},
+  {"h": "line length", "segs": [{"k": "m", "t": "độ dài dòng."}], "k": "line length"},
   {
     "h": "line lengthener",
     "segs": [
@@ -22595,7 +22595,7 @@
   },
   {
     "h": "linear magnetic amplifier",
-    "segs": [{"k": "m", "t": "bộ khuếch dại từ tuyến tính."}],
+    "segs": [{"k": "m", "t": "bộ khuếch đại từ tuyến tính."}],
     "k": "linear magnetic amplifier"
   },
   {
@@ -26423,7 +26423,7 @@
       {"k": "pos", "t": "đại từ"},
       {"k": "m", "t": "đưa (ai) đi thăm những cảnh lạ, đi xem những vật lạ"},
       {"k": "m", "t": "đi thăm những cảnh lạ ở (đâu)"},
-      {"k": "m", "t": "đối đãi như danh nhân, tiếp đón như danh nhân, đề cao như mộ danh nhân"},
+      {"k": "m", "t": "đối đãi như danh nhân, tiếp đón như danh nhân, đề cao như một danh nhân"},
       {"k": "pos", "t": "nội động từ"},
       {"k": "m", "t": "đi thăm những cảnh lạ, đi xem những vật lạ, đi tham quan."}
     ],
@@ -32793,7 +32793,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "phép tính bằng chữ. Thường dùng trong đại số sơ cấp để chi các phép tính trên các chữ thay cho các số."
+        "t": "phép tính bằng chữ. Thường dùng trong đại số sơ cấp để chỉ các phép tính trên các chữ thay cho các số."
       }
     ],
     "k": "literal calculus"

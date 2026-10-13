@@ -633,7 +633,7 @@
   {"h": "aperitive drug", "segs": [{"k": "m", "t": "Thuốc khai vị."}], "k": "aperitive drug"},
   {
     "h": "apertometer",
-    "segs": [{"k": "m", "t": "khẩu kế (thiết kế đế đo khấu số của các vật kính)."}],
+    "segs": [{"k": "m", "t": "khẩu kế (thiết kế để đo khẩu số của các vật kính)."}],
     "k": "apertometer"
   },
   {
@@ -6070,7 +6070,7 @@
       },
       {
         "k": "m",
-        "t": "Phần mềm Open Transport mới của Apple được thiết kế dùng để thay thế các ngăn xếp (stack) AppleTalk có sẵn bằng một AppleTalk mở rộng mới cũng như một ngăn xếp giao thức TCP/IP. Với sự hổ trợ này, AFP sẽ có thể vận chuyển qua các mạng AppleTalk và TCP/IP và cũng có thể hoạt động với các giao thức HTTP, FTP và thư trên Internet."
+        "t": "Phần mềm Open Transport mới của Apple được thiết kế dùng để thay thế các ngăn xếp (stack) AppleTalk có sẵn bằng một AppleTalk mở rộng mới cũng như một ngăn xếp giao thức TCP/IP. Với sự hỗ trợ này, AFP sẽ có thể vận chuyển qua các mạng AppleTalk và TCP/IP và cũng có thể hoạt động với các giao thức HTTP, FTP và thư trên Internet."
       },
       {
         "k": "m",

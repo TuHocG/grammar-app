@@ -4520,7 +4520,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "giá bán lẻ"}],
     "k": "end price"
   },
-  {"h": "end printing", "segs": [{"k": "m", "t": "sự in ở dầu cuối (phiếu)."}], "k": "end printing"},
+  {"h": "end printing", "segs": [{"k": "m", "t": "sự in ở đầu cuối (phiếu)."}], "k": "end printing"},
   {
     "h": "end program header",
     "segs": [{"k": "m", "t": "tiêu đề kết thúc chương trình (trong COBOL)."}],
@@ -7717,7 +7717,7 @@
     "h": "endorsement method",
     "segs": [
       {"k": "m", "t": "(bảo hiểm) phương pháp chuyển quyền sở hữu hợp đồng bảo hiểm bằng văn bản."},
-      {"k": "m", "t": "(bảo hiểm) phương phá thay đổi người thụ hưởng bằng văn bản"}
+      {"k": "m", "t": "(bảo hiểm) phương pháp thay đổi người thụ hưởng bằng văn bản"}
     ],
     "k": "endorsement method"
   },
@@ -11942,10 +11942,10 @@
     "h": "engine layout",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "cách phân loại dộng cơ"},
+      {"k": "m", "t": "cách phân loại động cơ"},
       {"k": "m", "t": "vị trí đặt động cơ"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "cách phân loại dộng cơ"},
+      {"k": "m", "t": "cách phân loại động cơ"},
       {"k": "m", "t": "vị trí đặt động cơ"}
     ],
     "k": "engine layout"
@@ -12325,10 +12325,10 @@
     "h": "engine speed",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "tốc độ dộng cơ"},
+      {"k": "m", "t": "tốc độ động cơ"},
       {"k": "m", "t": "tốc độ máy phát"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "tốc độ dộng cơ"},
+      {"k": "m", "t": "tốc độ động cơ"},
       {"k": "m", "t": "tốc độ máy phát"}
     ],
     "k": "engine speed"
@@ -23089,7 +23089,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "suy thoái môi trường. Làm thay đổi chất lượng và số lượng của thành phần môi trương gây ảnh hưởng xấu cho đời sống của con người và thiên nhiên."
+        "t": "suy thoái môi trường. Làm thay đổi chất lượng và số lượng của thành phần môi trường gây ảnh hưởng xấu cho đời sống của con người và thiên nhiên."
       }
     ],
     "k": "environmental degredation"
@@ -23866,7 +23866,10 @@
   {"h": "enyme kinetics", "segs": [{"k": "m", "t": "động học enzym."}], "k": "enyme kinetics"},
   {
     "h": "enyo",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "nữ thần hiến đấu (thần thoại Hy Lạp)."}],
+    "segs": [
+      {"k": "pos", "t": "danh từ"},
+      {"k": "m", "t": "nữ thần chiến đấu (thần thoại Hy Lạp)."}
+    ],
     "ipa": "i'naiou",
     "k": "enyo"
   },

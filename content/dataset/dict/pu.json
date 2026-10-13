@@ -1029,7 +1029,7 @@
       {"k": "m", "t": "Mã hóa khóa công cộng"},
       {
         "k": "m",
-        "t": "Giả sử rằng Bob và Alice muốn trao đổi thông điệp riêng được mã hóa trên một hệ thống không an toàn như Internet. Họ chọn một phương pháp mã hóa làm cho thông điệp đó không được đọc bởi bất cứ người nào muốn truy cập lúc truyền tải. Bob dùng một khóa để mã hóa thông điệp. Alice phải có khóa này để đọc thông điệp. Nhưng vấn đề cơ bản là làm sao để Alice có khóa để giải mã thông điệp. Bob có thể dùng diện thoại nhưng đường dây có thể bị theo dõi. Phương pháp khác là gửi mã khóa trong một thông điệp e-mail hay nhờ người đưa thư, nhưng nếu thông điệp bị ngăn lại trên đường truyền thì sao? Có thể là bạn hơi hoang tưởng, nhưng hãy nghĩ các thông tin quân sự đang bị theo dõi bởi kẻ thù hay các Bộ quốc phòng khác. Sự đe dọa như thế cũng mở rộng sang thế giới kinh tế đầy cạnh tranh và thế giới tài chính."
+        "t": "Giả sử rằng Bob và Alice muốn trao đổi thông điệp riêng được mã hóa trên một hệ thống không an toàn như Internet. Họ chọn một phương pháp mã hóa làm cho thông điệp đó không được đọc bởi bất cứ người nào muốn truy cập lúc truyền tải. Bob dùng một khóa để mã hóa thông điệp. Alice phải có khóa này để đọc thông điệp. Nhưng vấn đề cơ bản là làm sao để Alice có khóa để giải mã thông điệp. Bob có thể dùng điện thoại nhưng đường dây có thể bị theo dõi. Phương pháp khác là gửi mã khóa trong một thông điệp e-mail hay nhờ người đưa thư, nhưng nếu thông điệp bị ngăn lại trên đường truyền thì sao? Có thể là bạn hơi hoang tưởng, nhưng hãy nghĩ các thông tin quân sự đang bị theo dõi bởi kẻ thù hay các Bộ quốc phòng khác. Sự đe dọa như thế cũng mở rộng sang thế giới kinh tế đầy cạnh tranh và thế giới tài chính."
       },
       {
         "k": "m",
@@ -11588,7 +11588,7 @@
     "segs": [{"k": "m", "t": "Trục đồng tử, đường ngang đồng tử."}],
     "k": "pupilary line"
   },
-  {"h": "pupiliary reflex", "segs": [{"k": "m", "t": "phản xạ đống tử."}], "k": "pupiliary reflex"},
+  {"h": "pupiliary reflex", "segs": [{"k": "m", "t": "phản xạ đồng tử."}], "k": "pupiliary reflex"},
   {
     "h": "pupilise",
     "segs": [
@@ -12343,7 +12343,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "thuế đánh vào nhiều loại hàng hóa với thuế suất khác nhau, do người bán lẻ thu (và ờ Anh từ 1973 đã được thay bằng thuế giá trị gia tăng)."
+        "t": "thuế đánh vào nhiều loại hàng hóa với thuế suất khác nhau, do người bán lẻ thu (và ở Anh từ 1973 đã được thay bằng thuế giá trị gia tăng)."
       }
     ],
     "ipa": "'pə:tʃəs'tæks",
@@ -16939,7 +16939,7 @@
       {"k": "m", "t": "(lóng) cấm cố"},
       {"k": "m", "t": "(cổ) bỏ, ly dị (vợ)"},
       {"k": "ex", "t": "to put back", "vi": "để lại (vào chỗ cũ...)"},
-      {"k": "m", "t": "vặn (kim động hồ) lùi lại"},
+      {"k": "m", "t": "vặn (kim đồng hồ) lùi lại"},
       {"k": "m", "t": "làm chậm lại"},
       {"k": "m", "t": "(hàng hải) trở lại bến cảng"},
       {"k": "ex", "t": "to put by", "vi": "để sang bên"},

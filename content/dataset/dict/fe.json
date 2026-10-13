@@ -159,7 +159,7 @@
       {
         "k": "ex",
         "t": "to fear for somebody/something",
-        "vi": "lo lắng hoặc băn khoăn về ai/cài gì"
+        "vi": "lo lắng hoặc băn khoăn về ai/cái gì"
       },
       {
         "k": "ex",
@@ -1971,7 +1971,7 @@
       {"k": "m", "t": "(kinh tế) Thị trường Tiền quỹ liên Bang."},
       {
         "k": "m",
-        "t": "Thị trương ở Mỹ, trong đó những khoản tiền có thể được sử dụng ngay lập tức được đem cho vay hay đi vay, chủ yếu là qua đêm giữa các Ngân hàng thành viên của Hệ thống Dự trữ Liên bang, các thể chế tài chính chủ yếu khác các chi nhánh và cơ quan của các ngân hàng không phải của Mỹ."
+        "t": "Thị trường ở Mỹ, trong đó những khoản tiền có thể được sử dụng ngay lập tức được đem cho vay hay đi vay, chủ yếu là qua đêm giữa các Ngân hàng thành viên của Hệ thống Dự trữ Liên bang, các thể chế tài chính chủ yếu khác các chi nhánh và cơ quan của các ngân hàng không phải của Mỹ."
       }
     ],
     "k": "federal fund market"
@@ -4125,7 +4125,7 @@
       {"k": "m", "t": "(kinh tế) Tác động phản hồi/bẫy."},
       {
         "k": "m",
-        "t": "Giả thiết cho rằng những điều kiện trong thị trường lao động thứ cấp (cấp hai) làm cho công nhân có những thói quen lao đông xấu."
+        "t": "Giả thiết cho rằng những điều kiện trong thị trường lao động thứ cấp (cấp hai) làm cho công nhân có những thói quen lao động xấu."
       }
     ],
     "k": "feedback/entrapment effects"
@@ -9253,7 +9253,7 @@
   {"h": "fermenting rack", "segs": [{"k": "m", "t": "dàn lên men."}], "k": "fermenting rack"},
   {
     "h": "fermenting rate",
-    "segs": [{"k": "m", "t": "tốc độc lên men, mức độ lên men."}],
+    "segs": [{"k": "m", "t": "tốc độ lên men, mức độ lên men."}],
     "k": "fermenting rate"
   },
   {"h": "fermenting room", "segs": [{"k": "m", "t": "công đoạn lên men."}], "k": "fermenting room"},

@@ -5225,7 +5225,7 @@
   },
   {
     "h": "exchange transaction",
-    "segs": [{"k": "m", "t": "1. giao dịch ngoại hối. 2. giao dich chứng khoán."}],
+    "segs": [{"k": "m", "t": "1. giao dịch ngoại hối. 2. giao dịch chứng khoán."}],
     "k": "exchange transaction"
   },
   {
@@ -11226,7 +11226,7 @@
     ],
     "k": "exhaust valve stem"
   },
-  {"h": "exhaust velocity", "segs": [{"k": "m", "t": "tốc dộ chảy ra."}], "k": "exhaust velocity"},
+  {"h": "exhaust velocity", "segs": [{"k": "m", "t": "tốc độ chảy ra."}], "k": "exhaust velocity"},
   {
     "h": "exhaust ventilation",
     "segs": [{"k": "m", "t": "sự quạt ra, sự thông gió thải khí."}],
@@ -13631,7 +13631,7 @@
   },
   {
     "h": "Exogenuos expectations",
-    "segs": [{"k": "m", "t": "(kinh tế) Những dư tính ngoại sinh."}],
+    "segs": [{"k": "m", "t": "(kinh tế) Những dự tính ngoại sinh."}],
     "k": "exogenuos expectations"
   },
   {"h": "exogeosyncline", "segs": [{"k": "m", "t": "địa máng ngoài."}], "k": "exogeosyncline"},
@@ -14247,7 +14247,7 @@
   },
   {
     "h": "exostosis multiplex cartilaginea",
-    "segs": [{"k": "m", "t": "(chứng) loạn san sụn."}],
+    "segs": [{"k": "m", "t": "(chứng) loạn sản sụn."}],
     "k": "exostosis multiplex cartilaginea"
   },
   {
@@ -16917,7 +16917,7 @@
       {
         "k": "ex",
         "t": "she went to meet him with an air of expectancy",
-        "vi": "cô ta đi gắp anh ấy với một vẻ hy vọng như thể trông mong anh ta sẽ đem đến cái gì"
+        "vi": "cô ta đi gặp anh ấy với một vẻ hy vọng như thể trông mong anh ta sẽ đem đến cái gì"
       },
       {"k": "m", "t": "triển vọng (có thể có cái gì...)"},
       {"k": "m", "t": "như"},
@@ -17201,7 +17201,7 @@
       {"k": "m", "t": "(kinh tế) Lý thuyết độ thỏa dụng kỳ vọng; Thuyết thỏa dụng dự tính."},
       {
         "k": "m",
-        "t": "Là thuyết về các hành vi cá nhân trong điều kiện không chắc chắn của Von Neumann và Morgenstern. Thuyết đưa ra sự mô tả lôgíc rằng mọi người duy lý có thể cư xử như thế nào trong một thế giới không chắc chắn. Phần chính của thuyết này cho thấy rằng một cá nhân có những sở thích thỏa mãn một số định đề (thường là về trật tự, tiếp tục và dộc lập) sẽ lựa chọn để tối đa hóa độ thỏa dụng dự tính."
+        "t": "Là thuyết về các hành vi cá nhân trong điều kiện không chắc chắn của Von Neumann và Morgenstern. Thuyết đưa ra sự mô tả lôgíc rằng mọi người duy lý có thể cư xử như thế nào trong một thế giới không chắc chắn. Phần chính của thuyết này cho thấy rằng một cá nhân có những sở thích thỏa mãn một số định đề (thường là về trật tự, tiếp tục và độc lập) sẽ lựa chọn để tối đa hóa độ thỏa dụng dự tính."
       }
     ],
     "k": "expected utility theory"

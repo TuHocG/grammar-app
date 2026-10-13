@@ -14,7 +14,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "quỹ nhi đồng Liên hợp quốc UNICEF. Cơ quan của Liên hợp quốc, có quy chế nửa tự quản, thành lập năm 1946 nhằm thúc đẩy các Chính phủ cải thiện điều kiện sống về vật chất và xã hội của trẻ em, giúp các nước đang phát triển cải thiện mức sống của trẻ em các nước đó, giúp các nước trong lĩnh vực y tế, thực phẩm, bảo hiểm xã hội, giáo dục và đào tạo nghề nghiệp, giúp các chính phủ xác định nhu cầu chủ yếu của trẻ em ở các nước đó về lập chương trình rộng lớn đáp ứng những nhu cầu ấy, thúc đẩy việc thực hiện các đề án hợp lý trong chương trình phát triển của mỗi nước, báo cáo công tác hàng năm cho Đại Hội đồng Liên hợp quốc. Việt Nam là thành viền của UNICEF. Nguồn vốn của Quỹ là sự đóng góp tự nguyện hoặc sự ủng hộ của các chính phủ, các tổ chức xã hội, của công dân các nước. Cơ cấu: Hội đồng chấp hành (cơ quan lãnh đạo), Ban thư ký điều hành công việc của UNICEF. Trụ sở đặt tại Trụ sở Liên hợp quốc tại Niu Oóc (Mỹ)."
+        "t": "quỹ nhi đồng Liên hợp quốc UNICEF. Cơ quan của Liên hợp quốc, có quy chế nửa tự quản, thành lập năm 1946 nhằm thúc đẩy các Chính phủ cải thiện điều kiện sống về vật chất và xã hội của trẻ em, giúp các nước đang phát triển cải thiện mức sống của trẻ em các nước đó, giúp các nước trong lĩnh vực y tế, thực phẩm, bảo hiểm xã hội, giáo dục và đào tạo nghề nghiệp, giúp các chính phủ xác định nhu cầu chủ yếu của trẻ em ở các nước đó về lập chương trình rộng lớn đáp ứng những nhu cầu ấy, thúc đẩy việc thực hiện các đề án hợp lý trong chương trình phát triển của mỗi nước, báo cáo công tác hàng năm cho Đại Hội đồng Liên hợp quốc. Việt Nam là thành viên của UNICEF. Nguồn vốn của Quỹ là sự đóng góp tự nguyện hoặc sự ủng hộ của các chính phủ, các tổ chức xã hội, của công dân các nước. Cơ cấu: Hội đồng chấp hành (cơ quan lãnh đạo), Ban thư ký điều hành công việc của UNICEF. Trụ sở đặt tại Trụ sở Liên hợp quốc tại Niu Oóc (Mỹ)."
       }
     ],
     "k": "un children'sfund"
@@ -5891,7 +5891,7 @@
       {"k": "ex", "t": "unattached young lady", "vi": "cô gái chưa đính hôn với người nào cả"},
       {"k": "m", "t": "không bị kiềm chế, không bị trói buộc, không bị ràng buộc"},
       {"k": "m", "t": "rảnh"},
-      {"k": "m", "t": "(pháp lý) không bi tịch biên để trả nợ"},
+      {"k": "m", "t": "(pháp lý) không bị tịch biên để trả nợ"},
       {"k": "m", "t": "(quân) không ở phiên chế của đại đoàn (trung đoàn)."}
     ],
     "ipa": ",ʌnə'tætʃt",
@@ -6222,7 +6222,7 @@
     "segs": [
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "(đặc biệt thông tin đã được phổ biến) không biết nguồn gốc."},
-      {"k": "m", "t": "không thề quy cho (ai, cái gì)."}
+      {"k": "m", "t": "không thể quy cho (ai, cái gì)."}
     ],
     "ipa": ",ʌnə'tribjutəbl",
     "k": "unattributable"
@@ -7202,7 +7202,7 @@
       {"k": "m", "t": "không được ủng hộ"},
       {"k": "m", "t": "không có chỗ dựa lưng (ghế)"},
       {"k": "m", "t": "(nghĩa bóng) không có nơi nương tựa, không có chỗ dựa"},
-      {"k": "m", "t": "(thể dục, thể thao) không được ai đánh cá (trong cá cuộc)"},
+      {"k": "m", "t": "(thể dục, thể thao) không được ai đánh cá (trong cá cược)"},
       {"k": "m", "t": "chưa thuần (ngựa)."}
     ],
     "ipa": ",ʌn'bækt",
@@ -7255,7 +7255,7 @@
     "h": "unbalance",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "sự mất thắng bằng"},
+      {"k": "m", "t": "sự mất thăng bằng"},
       {"k": "m", "t": "sự không cân xứng"},
       {"k": "m", "t": "sự rối loạn tâm trí"},
       {"k": "pos", "t": "ngoại động từ"},
@@ -9038,7 +9038,7 @@
     "h": "unbodied",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "vô hình, vô thể, không có hình dáng, không hỉnh thể"},
+      {"k": "m", "t": "vô hình, vô thể, không có hình dáng, không hình thể"},
       {"k": "m", "t": "(số nhiều) không sinh sản"},
       {"k": "m", "t": "không đậu (quả)"},
       {"k": "m", "t": "không ra hình dáng gi"},
@@ -9105,7 +9105,7 @@
   },
   {
     "h": "unbolting",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự văn ra"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự vặn ra"}],
     "k": "unbolting"
   },
   {"h": "unbonded", "segs": [{"k": "m", "t": "không liên kết."}], "k": "unbonded"},
@@ -12481,7 +12481,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "kiện hàng không có người nhận"},
-      {"k": "m", "t": "kiện hàng kkhông có người nhận"}
+      {"k": "m", "t": "kiện hàng không có người nhận"}
     ],
     "k": "unclaimed parcel"
   },
@@ -15106,7 +15106,7 @@
     "h": "uncompleted contract",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "hợp đồng không hoàn thành, không thực hiện dầy đủ"}
+      {"k": "m", "t": "hợp đồng không hoàn thành, không thực hiện đầy đủ"}
     ],
     "k": "uncompleted contract"
   },
@@ -22400,7 +22400,7 @@
     "h": "undefensible",
     "segs": [
       {"k": "pos", "t": "tính từ"},
-      {"k": "m", "t": "không thể bảo vệ, không thể phòng thù được."}
+      {"k": "m", "t": "không thể bảo vệ, không thể phòng thủ được."}
     ],
     "ipa": ",ʌndi'fensəbl",
     "k": "undefensible"
@@ -22963,7 +22963,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "trình tiện ích phục hồi xóa. Một tiện ích có khả năng phục hồi lại tệp in đã bị xóa khỏi các ổ đĩa một cách rủi ro, không cố ý. Có sẵn trong các nguồn phần mềm cổ đông và phần mền thương phẩm, các chương trình tiện ích phục hồi xóa hoạt động. Vì thực ra các tệp đó không bị xỏa khỏi ổ đĩa, DOS chỉ thay đổi chữ cái đầu tiên của tên tệp trong danh sách thư mục thành một ký tự không hiển thị. Điều này làm cho các cluster do tệp, đó sử dụng sẽ trở nên có thể dùng được cho các thao tác ghi. Nếu xảy ra các thao tác này tệp đó mới bị xóa thực sự không thể phục hồi lại được. Chú ý: Nếu bạn vừa mới vô ý xóa một tệp tin thì hãy dừng ngay mọi việc! Hãy sử dụng tức khắc tiện ích phục hồi xóa. Lệnh UNDELETE có sẵn trong DOS (từ phiên bản 5.0 trở lên) sẽ thực hiện công việc này cho bạn. Một lệnh chương trình dùng để phục hồi lại chương trình và các dữ liệu của bạn trở lại đúng tình trạng ngay trước lệnh cuối cùng đã đưa ra, hoặc hoạt động cuối cùng đã được bắt đầu. Lệnh undo cho phép cắt những tác dụng tai hại do một lệnh không đúng gây ra."
+        "t": "trình tiện ích phục hồi xóa. Một tiện ích có khả năng phục hồi lại tệp tin đã bị xóa khỏi các ổ đĩa một cách rủi ro, không cố ý. Có sẵn trong các nguồn phần mềm cổ đông và phần mềm thương phẩm, các chương trình tiện ích phục hồi xóa hoạt động. Vì thực ra các tệp đó không bị xóa khỏi ổ đĩa, DOS chỉ thay đổi chữ cái đầu tiên của tên tệp trong danh sách thư mục thành một ký tự không hiển thị. Điều này làm cho các cluster do tệp, đó sử dụng sẽ trở nên có thể dùng được cho các thao tác ghi. Nếu xảy ra các thao tác này tệp đó mới bị xóa thực sự không thể phục hồi lại được. Chú ý: Nếu bạn vừa mới vô ý xóa một tệp tin thì hãy dừng ngay mọi việc! Hãy sử dụng tức khắc tiện ích phục hồi xóa. Lệnh UNDELETE có sẵn trong DOS (từ phiên bản 5.0 trở lên) sẽ thực hiện công việc này cho bạn. Một lệnh chương trình dùng để phục hồi lại chương trình và các dữ liệu của bạn trở lại đúng tình trạng ngay trước lệnh cuối cùng đã đưa ra, hoặc hoạt động cuối cùng đã được bắt đầu. Lệnh undo cho phép cắt những tác dụng tai hại do một lệnh không đúng gây ra."
       }
     ],
     "k": "undelete utility"
@@ -23017,7 +23017,7 @@
     "segs": [
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "không tính trước"},
-      {"k": "m", "t": "không cẫn thận, không thận trọng"},
+      {"k": "m", "t": "không cẩn thận, không thận trọng"},
       {"k": "m", "t": "không cân nhắc, không đắn đo."}
     ],
     "ipa": "'ʌndi'librit",
@@ -26472,7 +26472,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hàng hóa xếp dưới boong. Hàng hóa được vận chuyển ở dưới boong khác hắn với hàng hóa được vận chuyển trên boong. Các chủ hàng có thể qui định cụ thể về việc này vì hàng hóa được bảo về kỹ hơn tránh thời tiết xấu."
+        "t": "hàng hóa xếp dưới boong. Hàng hóa được vận chuyển ở dưới boong khác hẳn với hàng hóa được vận chuyển trên boong. Các chủ hàng có thể qui định cụ thể về việc này vì hàng hóa được bảo vệ kỹ hơn tránh thời tiết xấu."
       }
     ],
     "k": "underdeck shipment"
@@ -30970,7 +30970,7 @@
       {
         "k": "ex",
         "t": "the underprivileged",
-        "vi": ") sự bị tước đoạt, sự thiệt thòi về quyền lợi, sự sống dưới mức bình thường, sự không được hưởng quyền lợi như những ngưởi khác"
+        "vi": ") sự bị tước đoạt, sự thiệt thòi về quyền lợi, sự sống dưới mức bình thường, sự không được hưởng quyền lợi như những người khác"
       },
       {
         "k": "ex",
@@ -36974,7 +36974,7 @@
   },
   {
     "h": "undischarged bankrupt",
-    "segs": [{"k": "m", "t": "người vỡ nợ chưa được phụ quyền."}],
+    "segs": [{"k": "m", "t": "người vỡ nợ chưa được phục quyền."}],
     "k": "undischarged bankrupt"
   },
   {
@@ -40722,7 +40722,7 @@
       {"k": "pos", "t": "tính từ"},
       {
         "k": "m",
-        "t": "không có tinh chất xây dựng trí óc, không có tính chất mở mang trí óc, không có tính chất soi sáng trí óc"
+        "t": "không có tính chất xây dựng trí óc, không có tính chất mở mang trí óc, không có tính chất soi sáng trí óc"
       },
       {"k": "m", "t": "kinh tởm"},
       {"k": "m", "t": "bỉ ổi"},
@@ -52624,7 +52624,7 @@
       {"k": "m", "t": "(+"},
       {"k": "ex", "t": "with", "vi": ") không có, thiếu, không được cấp, không được thông báo"},
       {"k": "ex", "t": "unfurnished with news", "vi": "không có tin tức"},
-      {"k": "m", "t": "không có bàn ghế, không có đồ đặc (nhà"},
+      {"k": "m", "t": "không có bàn ghế, không có đồ đạc (nhà"},
       {"k": "m", "t": "phòng...)"},
       {"k": "ex", "t": "an unfurnished room", "vi": "một căn phòng không có đồ đạc."}
     ],
@@ -58709,7 +58709,7 @@
       {"k": "m", "t": "(kinh tế) Lạm phát không được lường trước."},
       {
         "k": "m",
-        "t": "Là phần lạm phát có thật mà con người không dự kiến; trong thức tế trừ đi lạm phát kỳ vọng."
+        "t": "Là phần lạm phát có thật mà con người không dự kiến; trong thực tế trừ đi lạm phát kỳ vọng."
       }
     ],
     "k": "unianticipated inflation"
@@ -65787,7 +65787,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "hợp pa-lăng. Phương pháp phổ biển nhất để xếp hoặc dỡ hàng ra khỏi một tàu hoặc vào một tàu bằng cần nâng hàng và tời riêng của tàu. Tại các cảng của Mỹ người ta gọi phương pháp này là \"Burtoning\" Hai cần nâng được đưa đến hai vị trí cố định bằng dây quay cần, một cần ở phía trên cửa quầy, một cần ở phía trên mạn tàu. Các dây cáp của hai ròng rọc tại đầu hai cần nâng được móc lại với nhau ở phía dưới tại vị trí móc cẩu. Móc cẩu móc vào dây nâng hàng quàng quanh kiện hàng. Khi một kiện hàng được nâng lên khỏi hầm, dây phía mạn được nới lóng cho đến khi nào kiện hàng đó đã ở vị trí cao phía trên của quầy. Khi dây mạn được kéo căng thì dây nâng-hạ được nới lỏng ra, do vậy mà kiện hàng di chuyển theo chiều ngang của tàu cho đến khi nó tới một điểm mà cần nâng bên mạn ở hưởng thẳng đứng. Kiện hàng được hạ xuống mặt cầu hoặc vào sà-lan là tùy ý. Khi hàng được đưa từ cầu tàu lên xếp trên tàu, người ta sử dụng quá trình ngược lại."
+        "t": "hợp pa-lăng. Phương pháp phổ biến nhất để xếp hoặc dỡ hàng ra khỏi một tàu hoặc vào một tàu bằng cần nâng hàng và tời riêng của tàu. Tại các cảng của Mỹ người ta gọi phương pháp này là \"Burtoning\" Hai cần nâng được đưa đến hai vị trí cố định bằng dây quay cần, một cần ở phía trên cửa quầy, một cần ở phía trên mạn tàu. Các dây cáp của hai ròng rọc tại đầu hai cần nâng được móc lại với nhau ở phía dưới tại vị trí móc cẩu. Móc cẩu móc vào dây nâng hàng quàng quanh kiện hàng. Khi một kiện hàng được nâng lên khỏi hầm, dây phía mạn được nới lỏng cho đến khi nào kiện hàng đó đã ở vị trí cao phía trên của quầy. Khi dây mạn được kéo căng thì dây nâng-hạ được nới lỏng ra, do vậy mà kiện hàng di chuyển theo chiều ngang của tàu cho đến khi nó tới một điểm mà cần nâng bên mạn ở hướng thẳng đứng. Kiện hàng được hạ xuống mặt cầu hoặc vào sà-lan là tùy ý. Khi hàng được đưa từ cầu tàu lên xếp trên tàu, người ta sử dụng quá trình ngược lại."
       }
     ],
     "k": "union purchase"
@@ -65924,7 +65924,7 @@
       },
       {
         "k": "m",
-        "t": "Chênh lệch này đo mức độ mà các công đoàn đã tăng tiền lương của thành viên so với lao đông không tham gia công đoàn tương đương."
+        "t": "Chênh lệch này đo mức độ mà các công đoàn đã tăng tiền lương của thành viên so với lao động không tham gia công đoàn tương đương."
       }
     ],
     "k": "union/non-union differential"
@@ -69147,7 +69147,7 @@
     "h": "universal feeder",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "máy câp nhiệt thông dụng"}
+      {"k": "m", "t": "máy cấp nhiệt thông dụng"}
     ],
     "k": "universal feeder"
   },
@@ -72822,7 +72822,7 @@
       {"k": "ex", "t": "an unlikely explanation", "vi": "một lời giải thích không chắc đúng"},
       {"k": "m", "t": "không chắc thành công"},
       {"k": "ex", "t": "an unlikely couple", "vi": "một đôi vợ chồng không hợp nhau lắm"},
-      {"k": "ex", "t": "the most unlikely candidate", "vi": "ứng cứ viên có rất ít khả năng thắng."}
+      {"k": "ex", "t": "the most unlikely candidate", "vi": "ứng cử viên có rất ít khả năng thắng."}
     ],
     "ipa": "ʌn'laikli",
     "k": "unlikely",
@@ -109984,7 +109984,7 @@
   },
   {
     "h": "unstabilized settlement",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "độ lún không ổ định"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "độ lún không ổn định"}],
     "k": "unstabilized settlement"
   },
   {
@@ -110816,7 +110816,7 @@
   },
   {
     "h": "unsteady oscillation",
-    "segs": [{"k": "m", "t": "dao dộng không ổn định."}],
+    "segs": [{"k": "m", "t": "dao động không ổn định."}],
     "k": "unsteady oscillation"
   },
   {
@@ -117441,7 +117441,7 @@
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "không đủ thẩm quyền"},
       {"k": "m", "t": "không có quyền"},
-      {"k": "m", "t": "không có đế mục."}
+      {"k": "m", "t": "không có đề mục."}
     ],
     "ipa": "ʌn'taitld",
     "k": "untitled"

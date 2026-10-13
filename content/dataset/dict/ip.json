@@ -26,7 +26,7 @@
       },
       {
         "k": "m",
-        "t": "IP cung cấp một cách thống nhất cho việc đóng gói thông tin để phân phối ngang qua các đường biên của các mạng con. Trong khi các khung được dùng đề truyền thông tin trên mạng con, datagram IP như các \"phong bì\" để truyền thông tin qua các điểm giao tiếp liên mạng. Nhưng datagram không thay thế cho khung được. Các khung là cách duy nhất để truyền thông ngang qua mạng con. Khi datagram đi qua mạng con, chúng \"cưỡi lên\" các khung của mạng con này. Khi đến router, datagram sẽ được gỡ ra khỏi các khung và đóng gói lại thành loại khung của mạng kế tiếp."
+        "t": "IP cung cấp một cách thống nhất cho việc đóng gói thông tin để phân phối ngang qua các đường biên của các mạng con. Trong khi các khung được dùng để truyền thông tin trên mạng con, datagram IP như các \"phong bì\" để truyền thông tin qua các điểm giao tiếp liên mạng. Nhưng datagram không thay thế cho khung được. Các khung là cách duy nhất để truyền thông ngang qua mạng con. Khi datagram đi qua mạng con, chúng \"cưỡi lên\" các khung của mạng con này. Khi đến router, datagram sẽ được gỡ ra khỏi các khung và đóng gói lại thành loại khung của mạng kế tiếp."
       },
       {
         "k": "m",
@@ -141,7 +141,7 @@
       {"k": "m", "t": "Class B subnet mask 255.255.0.0 11111111 11111111 00000000 00000000"},
       {
         "k": "m",
-        "t": "Như đã lưu ý trước đây, điạ chỉ lớp C hạn chế số máy tính trên một mạng chỉ tới 254. Để giảỉ quyết vấn đề này, sơ đồ mạng con (subnetting) đã được đưa ra là về cơ bản chia phần điạ chỉ máy tính thành 2 phần và dùng một số bit để xác định mạng con trong chính mạng của bạn. Tuy nhiên cũng phải trả giá cho việc này. Nếu bạn dùng một số bit trong điạ chỉ máy tính để xác định mạng con, thì ta phải giảm đi số bit được dùng cho phần điạ chỉ máy tính. Điều này được phác thảo trong bảng dưới đây. Ví dụ, nếu ta chia mạng của mình thành 2 subnet, ta chỉ có 126 máy tính cho một mạng con mà thôi. Với 16 mạng con, chỉ còn 14 máy tính cho một mạng con mà thôi."
+        "t": "Như đã lưu ý trước đây, điạ chỉ lớp C hạn chế số máy tính trên một mạng chỉ tới 254. Để giải quyết vấn đề này, sơ đồ mạng con (subnetting) đã được đưa ra là về cơ bản chia phần điạ chỉ máy tính thành 2 phần và dùng một số bit để xác định mạng con trong chính mạng của bạn. Tuy nhiên cũng phải trả giá cho việc này. Nếu bạn dùng một số bit trong điạ chỉ máy tính để xác định mạng con, thì ta phải giảm đi số bit được dùng cho phần điạ chỉ máy tính. Điều này được phác thảo trong bảng dưới đây. Ví dụ, nếu ta chia mạng của mình thành 2 subnet, ta chỉ có 126 máy tính cho một mạng con mà thôi. Với 16 mạng con, chỉ còn 14 máy tính cho một mạng con mà thôi."
       },
       {
         "k": "m",
@@ -242,7 +242,7 @@
       },
       {
         "k": "m",
-        "t": "ÕÒ cùng thời điểm, hầu hết các ứng dụng mạng đều chạy theo phiên (session-oriented), nghiã là quá trình truyền thông trong hai hệ thống đồng nghĩa với việc duy trì việc kết nồi giữa chúng. Điều này phù hợp cho mạch ảo ATM."
+        "t": "ÕÒ cùng thời điểm, hầu hết các ứng dụng mạng đều chạy theo phiên (session-oriented), nghiã là quá trình truyền thông trong hai hệ thống đồng nghĩa với việc duy trì việc kết nối giữa chúng. Điều này phù hợp cho mạch ảo ATM."
       },
       {
         "k": "m",
@@ -349,7 +349,7 @@
       },
       {
         "k": "m",
-        "t": "Giải pháp dùng chuyển mạch IP làm giảm đi việc lưu lượng các gói đi qua một router (hay nhiều router) trong trường hợp đường dẫn tầng 2 trực tiếp hơn đang sẵn sàng giữa một nguồn và một một đích. Các router cũ thường chậm và không thể quản lý nổi nhu cầu lưu thông đang ngay càng cao trên các liên mạng. Kỹ thuật chuyển mạch IP thoạt đầu xác định một tuyến qua mạng bằng giao thức truyền tầng 3. Tuyến này có thể được lưu lại để tham khảo sau này hay dùng cho một lần khác. Các gói tin sau đó được nhanh chóng gửi đi thông qua các mạch ảo tầng 2, bỏ qua các router."
+        "t": "Giải pháp dùng chuyển mạch IP làm giảm đi việc lưu lượng các gói đi qua một router (hay nhiều router) trong trường hợp đường dẫn tầng 2 trực tiếp hơn đang sẵn sàng giữa một nguồn và một đích. Các router cũ thường chậm và không thể quản lý nổi nhu cầu lưu thông đang ngày càng cao trên các liên mạng. Kỹ thuật chuyển mạch IP thoạt đầu xác định một tuyến qua mạng bằng giao thức truyền tầng 3. Tuyến này có thể được lưu lại để tham khảo sau này hay dùng cho một lần khác. Các gói tin sau đó được nhanh chóng gửi đi thông qua các mạch ảo tầng 2, bỏ qua các router."
       },
       {
         "k": "m",

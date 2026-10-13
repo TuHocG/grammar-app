@@ -1491,7 +1491,7 @@
   {"h": "dynamical error", "segs": [{"k": "m", "t": "sai số động."}], "k": "dynamical error"},
   {
     "h": "dynamical instability",
-    "segs": [{"k": "m", "t": "tính không ồn định động học."}],
+    "segs": [{"k": "m", "t": "tính không ổn định động học."}],
     "k": "dynamical instability"
   },
   {
@@ -2157,7 +2157,7 @@
   },
   {"h": "dyscrasic", "segs": [{"k": "m", "t": "(thuộc) loạn tạo."}], "k": "dyscrasic"},
   {"h": "dyscrasite", "segs": [{"k": "m", "t": "đítxcrazít."}], "k": "dyscrasite"},
-  {"h": "dyscrinism", "segs": [{"k": "m", "t": "loạn nổi tiết."}], "k": "dyscrinism"},
+  {"h": "dyscrinism", "segs": [{"k": "m", "t": "loạn nội tiết."}], "k": "dyscrinism"},
   {
     "h": "dyscrystalline",
     "segs": [{"k": "m", "t": "kết tinh sai, khó kết tinh."}],

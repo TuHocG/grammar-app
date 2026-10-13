@@ -5634,7 +5634,7 @@
   },
   {
     "h": "center zero scale",
-    "segs": [{"k": "m", "t": "thang đo điểm không ờ giữa."}],
+    "segs": [{"k": "m", "t": "thang đo điểm không ở giữa."}],
     "k": "center zero scale"
   },
   {"h": "center(line) plane", "segs": [{"k": "m", "t": "mặt dọc tâm."}], "k": "center(line) plane"},
@@ -6105,7 +6105,7 @@
   },
   {
     "h": "centimeter wave",
-    "segs": [{"k": "m", "t": "sóng cự ngắn, sóng xăngtimét."}],
+    "segs": [{"k": "m", "t": "sóng cực ngắn, sóng xăngtimét."}],
     "k": "centimeter wave"
   },
   {
@@ -8342,7 +8342,7 @@
     "h": "centre frequency",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "tần sô chính giữa"},
+      {"k": "m", "t": "tần số chính giữa"},
       {"k": "m", "t": "tần số chính giữa các kênh"}
     ],
     "k": "centre frequency"
@@ -10460,7 +10460,7 @@
     "k": "cephalohematocele"
   },
   {"h": "cephalohematoma", "segs": [{"k": "m", "t": "U máu đầu."}], "k": "cephalohematoma"},
-  {"h": "cephalohemometer", "segs": [{"k": "m", "t": "Huyết ap kế đầu."}], "k": "cephalohemometer"},
+  {"h": "cephalohemometer", "segs": [{"k": "m", "t": "Huyết áp kế đầu."}], "k": "cephalohemometer"},
   {"h": "cephalomelus", "segs": [{"k": "m", "t": "Quái thai đầu có chân."}], "k": "cephalomelus"},
   {
     "h": "cephalomenia",

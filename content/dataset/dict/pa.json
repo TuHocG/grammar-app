@@ -838,7 +838,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1873) Một vụ scandal chính trị Canada. Người Columbia gốc Anh đã xâm nhập vào hệ thống quyền lực của Canada năm 1871. Lý do là một tuyến đường sắt xuyên lục địa có thể được xây dựng trong vòng 10 năm. Năm 1872, hợp đồng xây dựng tuyến đường sắt này thuộc về tay tổ chức do Ngài Hugh Alan lãnh đạo. Ông một chủ ngân hàng, chủ tàu, và là người đóng góp tài chính của Đảng Bảo thủ. Sau cuộc tổng tuyển cử năm 1872, thất bại của Đảng Tự do dược quy cho Thủ tướng John Macdonald, bản hợp đồng bị đưa ra chỉ trích. Macdonald từ chức và hợp đồng bị xóa bỏ. Đảng Bảo thủ thất bại nặng nề trong một cuộc bầu cử mới nhưng tuyến đường sắt Thái Bình Dương của nước Canada cuối cùng vẫn được hoàn thành năm 1885."
+        "t": "(1873) Một vụ scandal chính trị Canada. Người Columbia gốc Anh đã xâm nhập vào hệ thống quyền lực của Canada năm 1871. Lý do là một tuyến đường sắt xuyên lục địa có thể được xây dựng trong vòng 10 năm. Năm 1872, hợp đồng xây dựng tuyến đường sắt này thuộc về tay tổ chức do Ngài Hugh Alan lãnh đạo. Ông một chủ ngân hàng, chủ tàu, và là người đóng góp tài chính của Đảng Bảo thủ. Sau cuộc tổng tuyển cử năm 1872, thất bại của Đảng Tự do được quy cho Thủ tướng John Macdonald, bản hợp đồng bị đưa ra chỉ trích. Macdonald từ chức và hợp đồng bị xóa bỏ. Đảng Bảo thủ thất bại nặng nề trong một cuộc bầu cử mới nhưng tuyến đường sắt Thái Bình Dương của nước Canada cuối cùng vẫn được hoàn thành năm 1885."
       }
     ],
     "k": "pacific scandal"
@@ -1543,7 +1543,7 @@
   },
   {
     "h": "package insurance",
-    "segs": [{"k": "m", "t": "(Mỹ) bảo hiểm cả gói, bảo hiểm toàn bộ, bảo hiệm bao trùm."}],
+    "segs": [{"k": "m", "t": "(Mỹ) bảo hiểm cả gói, bảo hiểm toàn bộ, bảo hiểm bao trùm."}],
     "k": "package insurance"
   },
   {
@@ -2132,7 +2132,7 @@
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "nén bãi chôn rác"},
       {"k": "m", "t": "máy ép chặt"},
-      {"k": "m", "t": "máy nèn chặt"}
+      {"k": "m", "t": "máy nén chặt"}
     ],
     "k": "packer unit"
   },
@@ -2417,7 +2417,7 @@
       {"k": "m", "t": "Truyền thông gói tin vô tuyến"},
       {
         "k": "m",
-        "t": "Truyền thông gói tin vô truyến (packet-radio communications) cho phép người sử dụng di động liên lạc với hệ thống mạng cộng tác của họ thông qua các thiết bị điện toán như máy tính xách tay, máy PD (personal digital assistants: máy \"phụ tá\" tín hiệu số cá nhân), pager (máy nhắn tin) và các thiết bị truyền thông không dây khác. ARDIS và RAM Mobile Data là các dịch vụ truyền thông dữ liệu vô truyến cấp quốc gia, cung cấp các kênh truyền thông gói tin vô tuyến này."
+        "t": "Truyền thông gói tin vô tuyến (packet-radio communications) cho phép người sử dụng di động liên lạc với hệ thống mạng cộng tác của họ thông qua các thiết bị điện toán như máy tính xách tay, máy PD (personal digital assistants: máy \"phụ tá\" tín hiệu số cá nhân), pager (máy nhắn tin) và các thiết bị truyền thông không dây khác. ARDIS và RAM Mobile Data là các dịch vụ truyền thông dữ liệu vô tuyến cấp quốc gia, cung cấp các kênh truyền thông gói tin vô tuyến này."
       },
       {
         "k": "m",
@@ -6999,7 +6999,7 @@
   {"h": "pal(a)eomagnetism", "segs": [{"k": "m", "t": "cổ từ học."}], "k": "pal(a)eomagnetism"},
   {
     "h": "pal(a)eontologist",
-    "segs": [{"k": "m", "t": "nhà cổ sinh vậtt học."}],
+    "segs": [{"k": "m", "t": "nhà cổ sinh vật học."}],
     "k": "pal(a)eontologist"
   },
   {"h": "pal(a)eontology", "segs": [{"k": "m", "t": "cổ sinh vật học."}], "k": "pal(a)eontology"},
@@ -12248,7 +12248,7 @@
   },
   {
     "h": "panchromatic plate",
-    "segs": [{"k": "m", "t": "kính ánh toàn sắc."}],
+    "segs": [{"k": "m", "t": "kính ảnh toàn sắc."}],
     "k": "panchromatic plate"
   },
   {
@@ -14503,7 +14503,7 @@
     "segs": [{"k": "m", "t": "a. Obs."}, {"k": "m", "t": "Of the nature of ‘pannicle'."}],
     "k": "pannicular"
   },
-  {"h": "panniculitis", "segs": [{"k": "m", "t": "Viêm mô mở dưới da."}], "k": "panniculitis"},
+  {"h": "panniculitis", "segs": [{"k": "m", "t": "Viêm mô mỡ dưới da."}], "k": "panniculitis"},
   {
     "h": "Panniculus",
     "segs": [
@@ -16690,7 +16690,7 @@
   },
   {
     "h": "paper injection",
-    "segs": [{"k": "m", "t": "sự đưa giấy vao ngăn chứa giấy."}],
+    "segs": [{"k": "m", "t": "sự đưa giấy vào ngăn chứa giấy."}],
     "k": "paper injection"
   },
   {
@@ -21077,7 +21077,7 @@
   },
   {"h": "paralgesia", "segs": [{"k": "m", "t": "Loạn cảm đau."}], "k": "paralgesia"},
   {"h": "paralgesic", "segs": [{"k": "m", "t": "(thuộc) loạn cảm đau."}], "k": "paralgesic"},
-  {"h": "paralgia", "segs": [{"k": "m", "t": "Loạn cam đau."}], "k": "paralgia"},
+  {"h": "paralgia", "segs": [{"k": "m", "t": "Loạn cảm đau."}], "k": "paralgia"},
   {
     "h": "paralic",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "ven biển"}],
@@ -24223,7 +24223,7 @@
   {"h": "parapathia", "segs": [{"k": "m", "t": "Bệnh thần kinh tâm lý."}], "k": "parapathia"},
   {
     "h": "parapedesis",
-    "segs": [{"k": "m", "t": "Bài tiết sắc tồ mật qua đường bất thường."}],
+    "segs": [{"k": "m", "t": "Bài tiết sắc tố mật qua đường bất thường."}],
     "k": "parapedesis"
   },
   {
@@ -24302,7 +24302,7 @@
     "h": "parapet panel",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "tấm phòng hộ (trên đương ôtô)"},
+      {"k": "m", "t": "tấm phòng hộ (trên đường ôtô)"},
       {"k": "m", "t": "tấm tường chắn"}
     ],
     "k": "parapet panel"
@@ -25585,7 +25585,7 @@
     "redirect": "parataxis",
     "k": "paratactically"
   },
-  {"h": "paratarsium", "segs": [{"k": "m", "t": "Bên co chân."}], "k": "paratarsium"},
+  {"h": "paratarsium", "segs": [{"k": "m", "t": "Bên cổ chân."}], "k": "paratarsium"},
   {
     "h": "parataxis",
     "segs": [
@@ -40637,7 +40637,7 @@
     "h": "patch-bolt tap",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "tarô ngắn (để sữa chữa nồi hơi)"}
+      {"k": "m", "t": "tarô ngắn (để sửa chữa nồi hơi)"}
     ],
     "k": "patch-bolt tap"
   },
@@ -40874,7 +40874,7 @@
   },
   {
     "h": "patellectomy",
-    "segs": [{"k": "m", "t": "(thủ thuật) cắt bò xương bánh chè."}],
+    "segs": [{"k": "m", "t": "(thủ thuật) cắt bỏ xương bánh chè."}],
     "k": "patellectomy"
   },
   {
@@ -41868,7 +41868,7 @@
     "h": "patherfy",
     "segs": [
       {"k": "m", "t": "1. dị ứng da kháng nguyên."},
-      {"k": "m", "t": "2. quá mẩn cảm với kích thích tiếp sau kích thích ban đầu."}
+      {"k": "m", "t": "2. quá mẫn cảm với kích thích tiếp sau kích thích ban đầu."}
     ],
     "k": "patherfy"
   },
@@ -47391,7 +47391,7 @@
     "h": "payroll clerk",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "nhân viên kết toán tiền lương"}
+      {"k": "m", "t": "nhân viên kế toán tiền lương"}
     ],
     "k": "payroll clerk"
   },

@@ -24,6 +24,7 @@ Bản dữ liệu 2019 của tác giả (thư mục `Data G/Code`, mới hơn b�
 - Dấu độ "°" tác giả gõ bằng mã cp1252 trùng với mã nén "in" của app gốc nên hiện thành "in" (cả ở app gốc): 81 chỗ như "38inC (100inF)", "kinh độ 135in W", "quay 90in" nay là "°"; các chỗ "in" là inch thật (7.9in, 0,5in) giữ nguyên.
 - Soát tay thêm 10 chỗ mà lần sửa chính tả trước còn để lại vì chưa rõ ý, ví dụ "vệ sinh cá yếu tốt" → "vệ sinh cá nhân tốt", "đã gán thành sẹo" → "đã gần thành sẹo", "Tôi nhân mua" → "Tôi cần mua", "các dĩa ở vùng lưng" → "các đĩa"; sửa một câu dịch ngược nghĩa: nấm da chân "có thể bớt bằng cách đi chân trần" → "có thể bị lây khi đi chân trần".
 - Từ điển: trong phần giải nghĩa tiếng Anh, dữ liệu gốc đã thay "and" bằng "và" và "or" bằng "hoặc" (cả ở app gốc), ví dụ "authentication, authorization, và accounting", "a project hoặc disposing of a business": 21.450 chỗ (12.128 "and", 9.322 "or") nay trả lại tiếng Anh. Chỉ đổi khi hai từ hai bên là tiếng Anh và không có chữ tiếng Việt có dấu trong bốn từ quanh đó.
+- Từ điển: sửa 959 lỗi chính tả tiếng Việt có từ bản gốc, tìm và soát như với bài học, ví dụ "danh tứ số nhiều" → "danh từ", "thánh khoản" → "thanh khoản", "kết toán" → "kế toán", "tra mở" → "tra mỡ", "lắp đi lắp lại" → "lặp đi lặp lại", "phần mền" → "phần mềm", "Mircrosoft" → "Microsoft".
 
 ## 1.0.0 — 2026-10-07
 

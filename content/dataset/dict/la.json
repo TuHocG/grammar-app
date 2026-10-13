@@ -6284,7 +6284,7 @@
   {
     "h": "Laevocardia",
     "segs": [
-      {"k": "m", "t": "tim sang trái, vị trí bình thường của tím, có đỉnh hướng về bên trái."}
+      {"k": "m", "t": "tim sang trái, vị trí bình thường của tim, có đỉnh hướng về bên trái."}
     ],
     "k": "laevocardia"
   },
@@ -10838,7 +10838,7 @@
       {"k": "m", "t": "Trình điều khiển mạng LAN"},
       {
         "k": "m",
-        "t": "Một trình điều khiển thiết bị LAN là một chương trình (phần mềm) chạy trên máy trạm hoặc máy chủ cung cấp sự giao tiếp giữa card mạng (NIC - Network Interface Card) và phần mềm chạy ở những giao thức cao hơn. Mỗi loại card mạng sẽ có trình điều khiển thiết bị tương ứng với nó. Các trình điều kiển thiết bị thường được cài đặt ở những bước đầu tiên của việc cài đặt hệ điều hành máy tính (máy trạm hoặc máy chủ). Chương trình cài đặt sẽ hỏi loại card mạng được cài đặt trong hệ thống và cài đặt trình điều khiển thiết bị thích hợp. Nếu chương trình cài đặt không có trình điều khiển thiết bị, bạn sẽ được yêu cầu đưa đĩa của nhà sản xuất card mạng trong đó có trình điều khiển thiết bị. Sau đó, trình điều khiển thiết bị sẽ được tổ hợp vào trong chồng giao thức (protocal stack) của máy tính."
+        "t": "Một trình điều khiển thiết bị LAN là một chương trình (phần mềm) chạy trên máy trạm hoặc máy chủ cung cấp sự giao tiếp giữa card mạng (NIC - Network Interface Card) và phần mềm chạy ở những giao thức cao hơn. Mỗi loại card mạng sẽ có trình điều khiển thiết bị tương ứng với nó. Các trình điều khiển thiết bị thường được cài đặt ở những bước đầu tiên của việc cài đặt hệ điều hành máy tính (máy trạm hoặc máy chủ). Chương trình cài đặt sẽ hỏi loại card mạng được cài đặt trong hệ thống và cài đặt trình điều khiển thiết bị thích hợp. Nếu chương trình cài đặt không có trình điều khiển thiết bị, bạn sẽ được yêu cầu đưa đĩa của nhà sản xuất card mạng trong đó có trình điều khiển thiết bị. Sau đó, trình điều khiển thiết bị sẽ được tổ hợp vào trong chồng giao thức (protocal stack) của máy tính."
       },
       {
         "k": "m",
@@ -11262,7 +11262,7 @@
       {"k": "m", "t": "đất liền"},
       {"k": "ex", "t": "to go by land", "vi": "đi đường bộ"},
       {"k": "m", "t": "đất trồng trọt, đất canh tác"},
-      {"k": "ex", "t": "barren land", "vi": "đất cẵn cỗi"},
+      {"k": "ex", "t": "barren land", "vi": "đất cằn cỗi"},
       {"k": "ex", "t": "land reforms", "vi": "cải cách ruộng đất, cải cách điền địa"},
       {"k": "m", "t": "vùng, xứ, địa phương"},
       {"k": "ex", "t": "one's native land", "vi": "quê hương xứ sở"},
@@ -13063,7 +13063,7 @@
     "ipa": "'lændfɔ:l",
     "k": "landfall"
   },
-  {"h": "landfall buoy", "segs": [{"k": "m", "t": "phao chi dẫn tới cảng."}], "k": "landfall buoy"},
+  {"h": "landfall buoy", "segs": [{"k": "m", "t": "phao chỉ dẫn tới cảng."}], "k": "landfall buoy"},
   {"h": "landfall light", "segs": [{"k": "m", "t": "đèn hướng dẫn vào bờ."}], "k": "landfall light"},
   {"h": "landfast", "segs": [{"k": "m", "t": "cọc neo, cột neo (ở cảng)."}], "k": "landfast"},
   {
@@ -20780,7 +20780,7 @@
   {"h": "laser ray", "segs": [{"k": "m", "t": "tia la-de."}], "k": "laser ray"},
   {
     "h": "laser recorder",
-    "segs": [{"k": "m", "t": "thiết bi ghi bằng laser, máy ghi laser."}],
+    "segs": [{"k": "m", "t": "thiết bị ghi bằng laser, máy ghi laser."}],
     "k": "laser recorder"
   },
   {
@@ -24710,7 +24710,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Nơi tổ chức Cộng đồng hoặc hội họp của những bậc Giáo sĩ cấp cao là điện Lateran ở Rome. Lần đầu tiên năm 1123-Cộng Đồng đi đến chấm dứt thảo luận về việc thụ phong cho Giáo sĩ và định rõ các lĩnh cực được cai quản bởi Giáo hội và lĩnh vực thuộc thẩm quyền nhà lãnh đạo. Lần thứ hai, hội đồng này được triệu tập vào năm 1139, nhằm gạn lọc học thuyết, hàn gắn lại sự phân ly đã tồn tại dưới triều đại của Ngụy Giáo hoàng Anacletus II (Không được thừa nhận). Đến năm 1179, Cộng Đồng III, kết án việc buôn thần bán thánh, thực hiện đúng quy tắc bầu cử Giáo Hoàng. Sau đó, cộng đồng IV 1215-được biết đến như một \"Đại Cộng đồng\" do Giáo Hoàng Innocent III triệu tập. Cộng đồng đã lên án tà giáo Albigensian và làm sáng tỏ việc Chúa Ba Ngôi xuống thế làm người và khẳng định Thánh thể. Cộng đồng V diễn ra từ 1512-1517, lên án tà giáo, đồng thời hủy bỏ giáo điều của Bourges do vua Charles VI thể hiện quyền hành trên cả Giáo Hội."
+        "t": "Nơi tổ chức Cộng đồng hoặc hội họp của những bậc Giáo sĩ cấp cao là điện Lateran ở Rome. Lần đầu tiên năm 1123-Cộng Đồng đi đến chấm dứt thảo luận về việc thụ phong cho Giáo sĩ và định rõ các lĩnh vực được cai quản bởi Giáo hội và lĩnh vực thuộc thẩm quyền nhà lãnh đạo. Lần thứ hai, hội đồng này được triệu tập vào năm 1139, nhằm gạn lọc học thuyết, hàn gắn lại sự phân ly đã tồn tại dưới triều đại của Ngụy Giáo hoàng Anacletus II (Không được thừa nhận). Đến năm 1179, Cộng Đồng III, kết án việc buôn thần bán thánh, thực hiện đúng quy tắc bầu cử Giáo Hoàng. Sau đó, cộng đồng IV 1215-được biết đến như một \"Đại Cộng đồng\" do Giáo Hoàng Innocent III triệu tập. Cộng đồng đã lên án tà giáo Albigensian và làm sáng tỏ việc Chúa Ba Ngôi xuống thế làm người và khẳng định Thánh thể. Cộng đồng V diễn ra từ 1512-1517, lên án tà giáo, đồng thời hủy bỏ giáo điều của Bourges do vua Charles VI thể hiện quyền hành trên cả Giáo Hội."
       }
     ],
     "k": "lateran council"
@@ -30080,7 +30080,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "việc tuyên án, theo đúng luật định, việc xác đình hình phạt theo đúng pháp luật."
+        "t": "việc tuyên án, theo đúng luật định, việc xác định hình phạt theo đúng pháp luật."
       }
     ],
     "k": "lawful sentencing"
@@ -31589,7 +31589,7 @@
   {"h": "layered", "segs": [{"k": "m", "t": "(thuộc) lớp."}], "k": "layered"},
   {
     "h": "layered architecture",
-    "segs": [{"k": "m", "t": "kiến trúc theo lớp, cấu trúc phẩn tầng."}],
+    "segs": [{"k": "m", "t": "kiến trúc theo lớp, cấu trúc phân tầng."}],
     "k": "layered architecture"
   },
   {
@@ -31701,11 +31701,11 @@
     "h": "laying in duct",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "sự đặt dường ống theo kênh"},
-      {"k": "m", "t": "sự đặt dường ống theo rãnh"},
+      {"k": "m", "t": "sự đặt đường ống theo kênh"},
+      {"k": "m", "t": "sự đặt đường ống theo rãnh"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "sự đặt dường ống theo kênh"},
-      {"k": "m", "t": "sự đặt dường ống theo rãnh"}
+      {"k": "m", "t": "sự đặt đường ống theo kênh"},
+      {"k": "m", "t": "sự đặt đường ống theo rãnh"}
     ],
     "k": "laying in duct"
   },

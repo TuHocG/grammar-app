@@ -1965,7 +1965,7 @@
       {"k": "m", "t": "(kinh tế) Tăng trưởng mô phỏng."},
       {
         "k": "m",
-        "t": "Một hướng tăng trưởng của hãng thông qua đa dạng hoá để chi một quá trình tăng trưởng được kích thích bằng cách đưa vào những sản phẩm có đặc tính sao cho người tiêu dùng không nhận thức được sản phẩm này là mới; nghĩa là chúng không thức tỉnh và thỏa mãn các nhu cầu tiềm ẩn."
+        "t": "Một hướng tăng trưởng của hãng thông qua đa dạng hoá để chỉ một quá trình tăng trưởng được kích thích bằng cách đưa vào những sản phẩm có đặc tính sao cho người tiêu dùng không nhận thức được sản phẩm này là mới; nghĩa là chúng không thức tỉnh và thỏa mãn các nhu cầu tiềm ẩn."
       }
     ],
     "k": "imitative growth"
@@ -3992,7 +3992,7 @@
     "ipa": "i'mu:vəbl",
     "k": "immovable"
   },
-  {"h": "immovable bandage", "segs": [{"k": "m", "t": "Băng co định."}], "k": "immovable bandage"},
+  {"h": "immovable bandage", "segs": [{"k": "m", "t": "Băng cố định."}], "k": "immovable bandage"},
   {
     "h": "immovable cathode",
     "segs": [{"k": "m", "t": "ca-tốt không di động."}],
@@ -9449,7 +9449,7 @@
       {"k": "m", "t": "(kinh tế) Các hợp đồng ẩn."},
       {
         "k": "m",
-        "t": "Khái niệm hợp đồng ẩn được sử dụng nhằm cung cấp một cơ sở cho việc tồn tại tiền công và giá cả ít biến đôi và được dựa trên những đặc tính không thích rủi ro khác nhau của chu doanh nghiệp và người làm thuê."
+        "t": "Khái niệm hợp đồng ẩn được sử dụng nhằm cung cấp một cơ sở cho việc tồn tại tiền công và giá cả ít biến đổi và được dựa trên những đặc tính không thích rủi ro khác nhau của chủ doanh nghiệp và người làm thuê."
       }
     ],
     "k": "implicit contracts"
@@ -13983,7 +13983,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "giả thuyết quy thuộc (tình trạng công chính hóa chỉ cốt tại ở chỗ Thiên Chúa \"quy thuộc\" cho tội nhân sự công chính của Đức Kitô, chứ về phía con người thì vẫn không có gí thay đổi)."
+        "t": "giả thuyết quy thuộc (tình trạng công chính hóa chỉ cốt tại ở chỗ Thiên Chúa \"quy thuộc\" cho tội nhân sự công chính của Đức Kitô, chứ về phía con người thì vẫn không có gì thay đổi)."
       }
     ],
     "k": "imputation theory"
@@ -14075,7 +14075,7 @@
       {"k": "m", "t": "(kinh tế) Tiền thuê không quy đổi."},
       {
         "k": "m",
-        "t": "Khái niệm tiền thuê do doanh nhiệp tự trả cho mình trong việc sử dụng đất đai mà doanh nghiệp sở hữu. Xe, Implicit cost."
+        "t": "Khái niệm tiền thuê do doanh nghiệp tự trả cho mình trong việc sử dụng đất đai mà doanh nghiệp sở hữu. Xe, Implicit cost."
       }
     ],
     "k": "imputed rent"

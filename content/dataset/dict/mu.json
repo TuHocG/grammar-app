@@ -17,7 +17,7 @@
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "kim loại muy"}],
     "k": "mu metal"
   },
-  {"h": "mu-factor", "segs": [{"k": "m", "t": "hệ sô khuếch đại (đèn điện tử)."}], "k": "mu-factor"},
+  {"h": "mu-factor", "segs": [{"k": "m", "t": "hệ số khuếch đại (đèn điện tử)."}], "k": "mu-factor"},
   {
     "h": "muc-",
     "segs": [
@@ -16765,7 +16765,7 @@
   },
   {
     "h": "musculus dilator pupillae",
-    "segs": [{"k": "m", "t": "Cơ giản đồng tử."}],
+    "segs": [{"k": "m", "t": "Cơ giãn đồng tử."}],
     "k": "musculus dilator pupillae"
   },
   {
@@ -16963,7 +16963,7 @@
   },
   {
     "h": "musculus longus capitis",
-    "segs": [{"k": "m", "t": "Cơ thẳng to trước cúa đầu, cơ dài của đầu."}],
+    "segs": [{"k": "m", "t": "Cơ thẳng to trước của đầu, cơ dài của đầu."}],
     "k": "musculus longus capitis"
   },
   {
@@ -18313,7 +18313,7 @@
       {
         "k": "ex",
         "t": "musical chairs",
-        "vi": "trò chơi trong đó những người tham gia sẽ đi vòng quanh một dãy ghế (thiếu một ghế) cho đến khi nhạc dừng lại, rồi người nào không giành được ghế để ngồi vào sẽ phải rới khỏi trò chơi"
+        "vi": "trò chơi trong đó những người tham gia sẽ đi vòng quanh một dãy ghế (thiếu một ghế) cho đến khi nhạc dừng lại, rồi người nào không giành được ghế để ngồi vào sẽ phải rời khỏi trò chơi"
       },
       {"k": "m", "t": "trò chơi giành ghế theo nhạc"},
       {"k": "m", "t": "tình hình trong đó người ta lần lượt có được một cái gì (nhất là việc làm)"},

@@ -1179,7 +1179,7 @@
     ],
     "k": "off-diagonal element"
   },
-  {"h": "off-dianomal", "segs": [{"k": "m", "t": "ngoài dường chéo."}], "k": "off-dianomal"},
+  {"h": "off-dianomal", "segs": [{"k": "m", "t": "ngoài đường chéo."}], "k": "off-dianomal"},
   {
     "h": "off-drive",
     "segs": [
@@ -1747,7 +1747,7 @@
   },
   {
     "h": "off-premise dining",
-    "segs": [{"k": "m", "t": "việc dúng bữa ngoài khuôn viên."}],
+    "segs": [{"k": "m", "t": "việc dùng bữa ngoài khuôn viên."}],
     "k": "off-premise dining"
   },
   {
@@ -2119,7 +2119,7 @@
       {
         "k": "ex",
         "t": "Her remarks were off-the-cuff but very sensible:",
-        "vi": "Những lời nhận xét của cô ta không được chuẩn bị trước nhưng lạ rất hợp lý."
+        "vi": "Những lời nhận xét của cô ta không được chuẩn bị trước nhưng lại rất hợp lý."
       },
       {
         "k": "ex",

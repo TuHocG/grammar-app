@@ -9638,7 +9638,7 @@
   },
   {
     "h": "radiosensitizer",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chất gây cám thụ bức xạ."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "chất gây cảm thụ bức xạ."}],
     "k": "radiosensitizer"
   },
   {"h": "radiosextant", "segs": [{"k": "m", "t": "kính phần sáu tuyến."}], "k": "radiosextant"},
@@ -13373,7 +13373,7 @@
   },
   {
     "h": "railway signalling",
-    "segs": [{"k": "m", "t": "hệ hống tín hiệu đường sắt."}],
+    "segs": [{"k": "m", "t": "hệ thống tín hiệu đường sắt."}],
     "k": "railway signalling"
   },
   {"h": "railway sleeper", "segs": [{"k": "m", "t": "tà vẹt đường sắt."}], "k": "railway sleeper"},
@@ -17160,7 +17160,7 @@
   },
   {
     "h": "rami intercostales anteriores",
-    "segs": [{"k": "m", "t": "Động mạch gián sườn trước."}],
+    "segs": [{"k": "m", "t": "Động mạch gian sườn trước."}],
     "k": "rami intercostales anteriores"
   },
   {
@@ -22714,7 +22714,7 @@
     ],
     "k": "raster chart"
   },
-  {"h": "raster count", "segs": [{"k": "m", "t": "số dường kẻ."}], "k": "raster count"},
+  {"h": "raster count", "segs": [{"k": "m", "t": "số đường kẻ."}], "k": "raster count"},
   {
     "h": "raster display",
     "segs": [
@@ -23018,7 +23018,7 @@
       {
         "k": "ex",
         "t": "The money market is a rat race, and many people who work in it die of the stress:",
-        "vi": "Thị trưởng tiền tệ là một nơi tranh đấu ác liệt và nhiều người tham gia thị trường đó sẽ chết vì căng thẳng."
+        "vi": "Thị trường tiền tệ là một nơi tranh đấu ác liệt và nhiều người tham gia thị trường đó sẽ chết vì căng thẳng."
       }
     ],
     "k": "rat race"
@@ -23508,7 +23508,7 @@
       {
         "k": "ex",
         "t": "he was rated the best poet of his time",
-        "vi": "ông ta được coi la nhà thơ lớn nhất đương thời"
+        "vi": "ông ta được coi là nhà thơ lớn nhất đương thời"
       },
       {"k": "m", "t": "đánh thuế"},
       {"k": "m", "t": "định giá để đánh thuế"},
@@ -25581,7 +25581,7 @@
       {
         "k": "ex",
         "t": "a ration card/book",
-        "vi": "thẻ/sổ phân phối (công nhận người cầm thẻ/sổ có uyền hưởng khẩu phần)"
+        "vi": "thẻ/sổ phân phối (công nhận người cầm thẻ/sổ có quyền hưởng khẩu phần)"
       },
       {"k": "m", "t": "(số nhiều) khẩu phần thức ăn cố định hàng ngày trong lực lượng vũ trang"},
       {"k": "ex", "t": "ration coupon", "vi": "phiếu lương thực, phiếu thực phẩm"},
@@ -27049,7 +27049,7 @@
         "vi": "những con sư tử đói khát cắn xé xác con vật"
       },
       {"k": "ex", "t": "ravenous hunger", "vi": "cơn đói ghê gớm"},
-      {"k": "ex", "t": "ravenous appetite", "vi": "sự thẻm ăn cồn cào cả ruột."}
+      {"k": "ex", "t": "ravenous appetite", "vi": "sự thèm ăn cồn cào cả ruột."}
     ],
     "ipa": "'rævənəs",
     "k": "ravenous"
@@ -27453,7 +27453,7 @@
   },
   {
     "h": "raw mode",
-    "segs": [{"k": "m", "t": "chế độ thô, chế độ tuyền dữ liệu không xử lý."}],
+    "segs": [{"k": "m", "t": "chế độ thô, chế độ truyền dữ liệu không xử lý."}],
     "k": "raw mode"
   },
   {"h": "raw moment", "segs": [{"k": "m", "t": "momen đối với gốc tùy ý."}], "k": "raw moment"},

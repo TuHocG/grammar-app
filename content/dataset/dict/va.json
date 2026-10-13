@@ -5412,7 +5412,7 @@
   },
   {
     "h": "value for money",
-    "segs": [{"k": "m", "t": "xứng dáng với đồng tiền bỏ ra."}],
+    "segs": [{"k": "m", "t": "xứng đáng với đồng tiền bỏ ra."}],
     "k": "value for money"
   },
   {
@@ -5540,7 +5540,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
       {"k": "m", "t": "giá trị tài sản"},
-      {"k": "m", "t": "giá trị tải sản"}
+      {"k": "m", "t": "giá trị tài sản"}
     ],
     "k": "value of assets"
   },
@@ -8516,7 +8516,7 @@
     "h": "vapor deposition",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "sự kết tử từ hơi"},
+      {"k": "m", "t": "sự kết tủa từ hơi"},
       {"k": "m", "t": "sự kết tủa hơi"}
     ],
     "k": "vapor deposition"
@@ -11653,12 +11653,12 @@
   },
   {
     "h": "variation in discharge",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự thay đổ lưu lượng"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự thay đổi lưu lượng"}],
     "k": "variation in discharge"
   },
   {
     "h": "variation in flow",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự thay đổ lưu lượng"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự thay đổi lưu lượng"}],
     "k": "variation in flow"
   },
   {
@@ -13009,7 +13009,7 @@
   },
   {
     "h": "varying-speed motor",
-    "segs": [{"k": "m", "t": "động cơ có tộc độ thay đổi."}],
+    "segs": [{"k": "m", "t": "động cơ có tốc độ thay đổi."}],
     "k": "varying-speed motor"
   },
   {"h": "varyingly", "segs": [{"k": "ref", "t": "vary"}], "redirect": "vary", "k": "varyingly"},
@@ -13673,7 +13673,7 @@
   },
   {
     "h": "vasopuncture",
-    "segs": [{"k": "m", "t": "(thủ thuật) chọc ống dẩn tinh."}],
+    "segs": [{"k": "m", "t": "(thủ thuật) chọc ống dẫn tinh."}],
     "k": "vasopuncture"
   },
   {"h": "vasoreflex", "segs": [{"k": "m", "t": "Phản xạ mạch."}], "k": "vasoreflex"},

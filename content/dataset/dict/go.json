@@ -921,7 +921,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "ngưng (làm cái gì đó) ngay chứ không phải giảm dần dần. (Tiếng lóng. Thoạt đầu là tiếng lóng về ma túy. Giờ đây thành ngữ này co liên quan tới việc bỏ đi bất cứ một thói quen nào.)"
+        "t": "ngưng (làm cái gì đó) ngay chứ không phải giảm dần dần. (Tiếng lóng. Thoạt đầu là tiếng lóng về ma túy. Giờ đây thành ngữ này có liên quan tới việc bỏ đi bất cứ một thói quen nào.)"
       },
       {
         "k": "ex",
@@ -1007,7 +1007,7 @@
       {
         "k": "ex",
         "t": "It's getting expensive to have Sally for a friend. She never wants to go Dutch:",
-        "vi": "Thật là tốn kém khi có một người bạn như Sally. Cô ấy không bao giờ muố đi ăn với cách phần ai nấy trả."
+        "vi": "Thật là tốn kém khi có một người bạn như Sally. Cô ấy không bao giờ muốn đi ăn với cách phần ai nấy trả."
       }
     ],
     "k": "go dutch"
@@ -1990,7 +1990,7 @@
   {
     "h": "go with something",
     "segs": [
-      {"k": "m", "t": "1. phù hợp với ái gì đó."},
+      {"k": "m", "t": "1. phù hợp với cái gì đó."},
       {"k": "ex", "t": "Milk doesn't go with grapefruit:", "vi": "Sữa không đi chung với nho."},
       {"k": "ex", "t": "Pink doesn't go with orange:", "vi": "Màu hồng không hợp với màu cam."},
       {"k": "m", "t": "2. chọn cái gì đó (thay vì chọn cái khác). (Thông tục.)"},
@@ -5377,7 +5377,7 @@
     "segs": [{"k": "m", "t": "cái bắt tay vàng ngọc, trợ cấp thôi việc."}],
     "k": "golden hanshake"
   },
-  {"h": "golden hello", "segs": [{"k": "m", "t": "sự cháo đón vàng ngọc."}], "k": "golden hello"},
+  {"h": "golden hello", "segs": [{"k": "m", "t": "sự chào đón vàng ngọc."}], "k": "golden hello"},
   {
     "h": "Golden Horde",
     "segs": [

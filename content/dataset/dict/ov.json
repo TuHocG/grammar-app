@@ -12204,7 +12204,7 @@
   },
   {
     "h": "overhead support",
-    "segs": [{"k": "m", "t": "giá đỡ quá đầu (trong thiệt bị X-quang)."}],
+    "segs": [{"k": "m", "t": "giá đỡ quá đầu (trong thiết bị X-quang)."}],
     "k": "overhead support"
   },
   {
@@ -25664,7 +25664,7 @@
     ],
     "k": "ovisaclike"
   },
-  {"h": "ovium", "segs": [{"k": "m", "t": "Trứng dã thành thục."}], "k": "ovium"},
+  {"h": "ovium", "segs": [{"k": "m", "t": "Trứng đã thành thục."}], "k": "ovium"},
   {"h": "ovo-", "segs": [{"k": "ref", "t": "ovi-"}], "redirect": "ovi-", "k": "ovo-"},
   {"h": "ovocenter", "segs": [{"k": "m", "t": "Tâm noãn."}], "k": "ovocenter"},
   {

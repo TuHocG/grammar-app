@@ -7955,7 +7955,7 @@
   },
   {
     "h": "data base management",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "sự quản lý cơ sơ dữ liệu"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "sự quản lý cơ sở dữ liệu"}],
     "k": "data base management"
   },
   {
@@ -9012,7 +9012,7 @@
       },
       {
         "k": "m",
-        "t": "Một số nhà thiết kế mạng cảm thấy rằng việc cung cấp các dịch vụ tin cậy trong tầng liên kết dữ liệu là không cần thiết và tầng liên kết dữ liệu chỉ cần truyền các bit với tốc dộ cao mà không cần báo nhận. Dịch vụ phi kết nối này không thể bảo đảm rằng dữ liệu sẽ được chuyển giao. Thay vào đó, các giao thức tầng truyền tải sẽ cung cấp các dịch vụ tin cậy. Trong bộ giao thức TCP/IP, TCP cung cấp dịch vụ hướng kết nối cho dịch vụ mạng đang dùng."
+        "t": "Một số nhà thiết kế mạng cảm thấy rằng việc cung cấp các dịch vụ tin cậy trong tầng liên kết dữ liệu là không cần thiết và tầng liên kết dữ liệu chỉ cần truyền các bit với tốc độ cao mà không cần báo nhận. Dịch vụ phi kết nối này không thể bảo đảm rằng dữ liệu sẽ được chuyển giao. Thay vào đó, các giao thức tầng truyền tải sẽ cung cấp các dịch vụ tin cậy. Trong bộ giao thức TCP/IP, TCP cung cấp dịch vụ hướng kết nối cho dịch vụ mạng đang dùng."
       },
       {
         "k": "m",
@@ -10006,7 +10006,7 @@
   },
   {
     "h": "data transfer mode",
-    "segs": [{"k": "m", "t": "chế dộ chuyển dữ liệu."}],
+    "segs": [{"k": "m", "t": "chế độ chuyển dữ liệu."}],
     "k": "data transfer mode"
   },
   {
@@ -10022,7 +10022,7 @@
   {
     "h": "Data Transfer Rates",
     "segs": [
-      {"k": "m", "t": "Tốc dộ Dữ liệu"},
+      {"k": "m", "t": "Tốc độ Dữ liệu"},
       {
         "k": "m",
         "t": "Tốc độ truyền dữ liệu là độ đo lượng thông tin số có thể truyền qua một kênh trong một giây. Còn được gọi là thông suất (throughput). Có nhiều yếu tố ảnh hưởng đến tốc độ truyền dữ liệu, như băng thông đường truyền, độ suy giảm, khoảng cách, môi trường truyền... Các yếu tố này được trình bày trong mục \"Transmission Media, Methods and Equipment\"."

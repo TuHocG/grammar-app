@@ -10444,7 +10444,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một nơi thư giãn công cộng, thức uống chính là cafe. Cafe đã trở nên nổi tiếng khi được du nhập vào Châu Âu vào thế kỷ 16. Nhưng lần đầu tiên ở Luân Đôn những địa điểm như vậy được phép mở. Hầu hết các thành phố ở Châu Âu đều mở coffe-house vào cuối thể kỷ 17. Sau đó, các chi nhánh được phổ biến ở các thuộc địa Mỹ vào năm 1689. Nó trở thành một ngành kinh doanh, là vấn đề được báo chí nhắc đến nhiều nhất, làm thay đổi một phần quan điểm chính trị. Ở Luân Đôn, coffe-house trở thành trung tâm hàng hải. Ở New York coffe-house được phổ biến năm 1737, có ý nghĩa chính trị trong suốt những năm dẫn đến cuộc chiến tranh giành độc lập của Mỹ. Thời vàng son của những địa điểm này kết thúc vào giữa thế kỷ 18, đặc biệt ở Anh vì có quá nhiều câu lạc bộ dành cho nam giới."
+        "t": "Một nơi thư giãn công cộng, thức uống chính là cafe. Cafe đã trở nên nổi tiếng khi được du nhập vào Châu Âu vào thế kỷ 16. Nhưng lần đầu tiên ở Luân Đôn những địa điểm như vậy được phép mở. Hầu hết các thành phố ở Châu Âu đều mở coffe-house vào cuối thế kỷ 17. Sau đó, các chi nhánh được phổ biến ở các thuộc địa Mỹ vào năm 1689. Nó trở thành một ngành kinh doanh, là vấn đề được báo chí nhắc đến nhiều nhất, làm thay đổi một phần quan điểm chính trị. Ở Luân Đôn, coffe-house trở thành trung tâm hàng hải. Ở New York coffe-house được phổ biến năm 1737, có ý nghĩa chính trị trong suốt những năm dẫn đến cuộc chiến tranh giành độc lập của Mỹ. Thời vàng son của những địa điểm này kết thúc vào giữa thế kỷ 18, đặc biệt ở Anh vì có quá nhiều câu lạc bộ dành cho nam giới."
       }
     ],
     "k": "coffee house"
@@ -16109,7 +16109,7 @@
   },
   {
     "h": "cold-water thawing",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tan giá băng nước lạnh"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "tan giá bằng nước lạnh"}],
     "k": "cold-water thawing"
   },
   {
@@ -16692,11 +16692,11 @@
       {"k": "m", "t": "Điện toán hợp tác"},
       {
         "k": "m",
-        "t": "Điện toán hợp tác cho phép người dùng làm việc với nhau trên cùng tài liệu và dự án, thường là trong thời gian thực, bằng cách sự dụng các tiện ích của những hệ th 6 óng truyền thông mạng cơ bản. Hầu hết các loại phần mềm mới đều được phát triển trên cơ sở hỗ trợ nhiều người dùng cùng làm việc, và nhiều ứng dụng hiện có đã có những tính năng cho phép nhiều người có thể làm việc cùng nhau qua mạng."
+        "t": "Điện toán hợp tác cho phép người dùng làm việc với nhau trên cùng tài liệu và dự án, thường là trong thời gian thực, bằng cách sử dụng các tiện ích của những hệ thống truyền thông mạng cơ bản. Hầu hết các loại phần mềm mới đều được phát triển trên cơ sở hỗ trợ nhiều người dùng cùng làm việc, và nhiều ứng dụng hiện có đã có những tính năng cho phép nhiều người có thể làm việc cùng nhau qua mạng."
       },
       {
         "k": "m",
-        "t": "Một ví dụ tốt cho các ứng dụng hợp tác nhiều người dùng được thiết kế cho Internet là NetMeeting và NetShow của Microsoft. NetMeeting cho phép những người dùng mạng intranet và Internet hợp tác với các ứng dụng qua mạng, trong khi đó NetShow cho phép người dùng thiềt lập các buổi hội thảo bằng âm thanh và hình ảnh (không phải video). Các sản phẩm này là những loại ứng dụng hợp tác có sẵn trong môi trường mạng Intranet / Internet."
+        "t": "Một ví dụ tốt cho các ứng dụng hợp tác nhiều người dùng được thiết kế cho Internet là NetMeeting và NetShow của Microsoft. NetMeeting cho phép những người dùng mạng intranet và Internet hợp tác với các ứng dụng qua mạng, trong khi đó NetShow cho phép người dùng thiết lập các buổi hội thảo bằng âm thanh và hình ảnh (không phải video). Các sản phẩm này là những loại ứng dụng hợp tác có sẵn trong môi trường mạng Intranet / Internet."
       },
       {"k": "m", "t": "Muốn biết thêm chi tiết hãy xem:"},
       {"k": "m", "t": "http://www. microsoft. com"},
@@ -26154,7 +26154,7 @@
   {"h": "columnar shape", "segs": [{"k": "m", "t": "dạng cột."}], "k": "columnar shape"},
   {
     "h": "columnar structure",
-    "segs": [{"k": "m", "t": "cấu trú dạng cột."}],
+    "segs": [{"k": "m", "t": "cấu trúc dạng cột."}],
     "k": "columnar structure"
   },
   {
@@ -28122,7 +28122,7 @@
   },
   {
     "h": "combined ventilation system",
-    "segs": [{"k": "m", "t": "hệ hống thông gió phối hợp."}],
+    "segs": [{"k": "m", "t": "hệ thống thông gió phối hợp."}],
     "k": "combined ventilation system"
   },
   {
@@ -30480,7 +30480,7 @@
   },
   {
     "h": "cometal cell",
-    "segs": [{"k": "m", "t": "Tế bào co đuôi"}, {"k": "m", "t": "Tế bào sao chổi."}],
+    "segs": [{"k": "m", "t": "Tế bào có đuôi"}, {"k": "m", "t": "Tế bào sao chổi."}],
     "k": "cometal cell"
   },
   {
@@ -36555,7 +36555,7 @@
     "h": "commodity futures market",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "thị tường hàng hóa kỳ hạn"}
+      {"k": "m", "t": "thị trường hàng hóa kỳ hạn"}
     ],
     "k": "commodity futures market"
   },
@@ -42169,7 +42169,7 @@
   },
   {
     "h": "compacted earth dam",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đập đất được dầm chặt"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "đập đất được đầm chặt"}],
     "k": "compacted earth dam"
   },
   {"h": "compacted fill", "segs": [{"k": "m", "t": "nền đắp đã đầm nén."}], "k": "compacted fill"},
@@ -42196,7 +42196,7 @@
   },
   {
     "h": "compacted soil base",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nền đất dầm chặt"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "nền đất đầm chặt"}],
     "k": "compacted soil base"
   },
   {
@@ -52752,7 +52752,7 @@
   {"h": "compound command", "segs": [{"k": "m", "t": "lệnh kép."}], "k": "compound command"},
   {
     "h": "compound command processor",
-    "segs": [{"k": "m", "t": "bộ xử lý lệnh kép, bộ xừ lý lệnh phức hợp."}],
+    "segs": [{"k": "m", "t": "bộ xử lý lệnh kép, bộ xử lý lệnh phức hợp."}],
     "k": "compound command processor"
   },
   {"h": "compound compact", "segs": [{"k": "m", "t": "bánh ép hỗn hợp."}], "k": "compound compact"},
@@ -52855,7 +52855,7 @@
       },
       {
         "k": "m",
-        "t": "Mục tiêu lúc đầu của các tài liệu nén là cung cấp một chổ để người dùng có thể tạo một tài liệu có chứa mọi thành tố liên quan đến tài liệu đó. Khi lưu một tài liệu ghép, bạn lưu tất cả văn bản và các đối tượng khác dưới cùng một tên tập tin mặc dù các đối tượng đó vẫn là các tập tin riêng lẻ để hiệu chỉnh hay gắn vào các tài liệu khác."
+        "t": "Mục tiêu lúc đầu của các tài liệu nén là cung cấp một chỗ để người dùng có thể tạo một tài liệu có chứa mọi thành tố liên quan đến tài liệu đó. Khi lưu một tài liệu ghép, bạn lưu tất cả văn bản và các đối tượng khác dưới cùng một tên tập tin mặc dù các đối tượng đó vẫn là các tập tin riêng lẻ để hiệu chỉnh hay gắn vào các tài liệu khác."
       },
       {
         "k": "m",
@@ -57416,7 +57416,7 @@
       {"k": "m", "t": "Hệ giao tiếp đồ hạo máy tính (viềt tắt là CGI)"},
       {
         "k": "m",
-        "t": "Là một tiêu chuẩn phần mềm áp dụng cho các thiết bị đồ họa máy tính như máy in và máy vẽ chẳng hạn. CGI là một chi của chuẩn đồ họa nổi tiếng GKS (Graphical Kernel System - Hệ lõi đồ họa), cung cấp cho các lập trình viên ứng dụng các phương pháp chuẩn để tạo, điều tác, và hiển thị hoặc in đồ họa máy tính. CGI giúp cho các lập trình viên có được một ngôn gữ chung để dùng vào việc định nghĩa các kiểu thiết bị kết xuất khác nhau, và nhờ đó các lập trình viên bớt được gánh nặng về thiết kế hoặc phải đối phó với các khả năng của cá kiểu phần cứng cụ thể."
+        "t": "Là một tiêu chuẩn phần mềm áp dụng cho các thiết bị đồ họa máy tính như máy in và máy vẽ chẳng hạn. CGI là một chi của chuẩn đồ họa nổi tiếng GKS (Graphical Kernel System - Hệ lõi đồ họa), cung cấp cho các lập trình viên ứng dụng các phương pháp chuẩn để tạo, điều tác, và hiển thị hoặc in đồ họa máy tính. CGI giúp cho các lập trình viên có được một ngôn ngữ chung để dùng vào việc định nghĩa các kiểu thiết bị kết xuất khác nhau, và nhờ đó các lập trình viên bớt được gánh nặng về thiết kế hoặc phải đối phó với các khả năng của các kiểu phần cứng cụ thể."
       }
     ],
     "k": "computer graphics interface"
@@ -58268,7 +58268,7 @@
   },
   {
     "h": "computer(ized) numerical control",
-    "segs": [{"k": "m", "t": "sự điều khiền chương trình số bằng máy tính."}],
+    "segs": [{"k": "m", "t": "sự điều khiển chương trình số bằng máy tính."}],
     "k": "computer(ized) numerical control"
   },
   {
@@ -61059,11 +61059,11 @@
       },
       {
         "k": "m",
-        "t": "- Port-sharing and selector unit (Các đơn vị chia sẻ cổng và bộ chọn lọc): Các đơn vị chia sẻ cổng cung cấp một phương pháp để các thiết bị đầu cuối (terminal) từ xa cxó thể chia sẻ một modem kết nối với một hệ thống máy tính hay máy chủ. Thiết bị này nằm giữa terminal và modem."
+        "t": "- Port-sharing and selector unit (Các đơn vị chia sẻ cổng và bộ chọn lọc): Các đơn vị chia sẻ cổng cung cấp một phương pháp để các thiết bị đầu cuối (terminal) từ xa có thể chia sẻ một modem kết nối với một hệ thống máy tính hay máy chủ. Thiết bị này nằm giữa terminal và modem."
       },
       {
         "k": "m",
-        "t": "- Multiplexor (Bộ đa công): Thiết kế đầu tiên của một bộ đa công dựa trên nhu cầu giảm chi phí chuyển giao dữ liệu cho các thiết bị đầu cuối (terminal) cần giao tiếp với một tiết bị máy chủ (host) qua một liên kết viễn thông. Bộ đa công là một thiết bị kết hợp dữ liệu từ nhiều terminal vào một đường dây và gửi những dữ liệu kết hợp này qua liên kết đó, và được phân ra tại đầu bên kia."
+        "t": "- Multiplexor (Bộ đa công): Thiết kế đầu tiên của một bộ đa công dựa trên nhu cầu giảm chi phí chuyển giao dữ liệu cho các thiết bị đầu cuối (terminal) cần giao tiếp với một thiết bị máy chủ (host) qua một liên kết viễn thông. Bộ đa công là một thiết bị kết hợp dữ liệu từ nhiều terminal vào một đường dây và gửi những dữ liệu kết hợp này qua liên kết đó, và được phân ra tại đầu bên kia."
       }
     ],
     "k": "concentrator devices"
@@ -61751,7 +61751,7 @@
       },
       {"k": "m", "t": "sự lo lắng"},
       {"k": "m", "t": "sự lo âu"},
-      {"k": "ex", "t": "there is no cause for concern", "vi": "chẳng có gì má phải lo lắng"},
+      {"k": "ex", "t": "there is no cause for concern", "vi": "chẳng có gì mà phải lo lắng"},
       {
         "k": "ex",
         "t": "there is now considerable concern for their safety",
@@ -68379,7 +68379,7 @@
   },
   {
     "h": "conditioning of grain",
-    "segs": [{"k": "m", "t": "sự diều hòa nhiệt độ hạt."}],
+    "segs": [{"k": "m", "t": "sự điều hòa nhiệt độ hạt."}],
     "k": "conditioning of grain"
   },
   {
@@ -68594,7 +68594,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Một đơn vị không quân Hitler gởi đến để giúp đỡ Franco trong cuộc nội chiến ở Tây Ban Nha (1936) với điều kiện nó vẫn duy trì dưới sự kiểm soát của Đức. Nó giúp Franco di chuyển các toán binh từ Morocco trong những ngày đầu cuộc chiến. Nó cũng đóng vai trò quan trọng trong việc ném bom vào những kẻ phiến loạn và các khu vực thường dân. Trong đó, cuộc ném bom nổi bật nhất là nhằm vào thánh phố Guernica ngày 27/4/1937."
+        "t": "Một đơn vị không quân Hitler gởi đến để giúp đỡ Franco trong cuộc nội chiến ở Tây Ban Nha (1936) với điều kiện nó vẫn duy trì dưới sự kiểm soát của Đức. Nó giúp Franco di chuyển các toán binh từ Morocco trong những ngày đầu cuộc chiến. Nó cũng đóng vai trò quan trọng trong việc ném bom vào những kẻ phiến loạn và các khu vực thường dân. Trong đó, cuộc ném bom nổi bật nhất là nhằm vào thành phố Guernica ngày 27/4/1937."
       }
     ],
     "k": "condor legion"
@@ -69557,7 +69557,7 @@
   {"h": "condyloid joint", "segs": [{"k": "m", "t": "Khớp lồi cầu."}], "k": "condyloid joint"},
   {
     "h": "condyloideus mandibulae",
-    "segs": [{"k": "m", "t": "Mỏm loi cầu cúa xương hàm dưới."}],
+    "segs": [{"k": "m", "t": "Mỏm lồi cầu của xương hàm dưới."}],
     "k": "condyloideus mandibulae"
   },
   {
@@ -70945,7 +70945,7 @@
   },
   {
     "h": "confessional state",
-    "segs": [{"k": "m", "t": "nước có quôc giáo."}],
+    "segs": [{"k": "m", "t": "nước có quốc giáo."}],
     "k": "confessional state"
   },
   {
@@ -73110,7 +73110,7 @@
   },
   {
     "h": "conforming use",
-    "segs": [{"k": "m", "t": "việc sử đụng theo đúng quy định."}],
+    "segs": [{"k": "m", "t": "việc sử dụng theo đúng quy định."}],
     "k": "conforming use"
   },
   {
@@ -74964,7 +74964,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(Quốc hội Mỹ) Bộ phận lập pháp của chính quyền liên bang. Theo mục I hiến pháp Mỹ, quốc hội được chi ra Hạ viện và Thượng viện Mỹ. Quyền thành viên trong Hạ viện dựa trên dân số của tiểu bang. Trong Thượng viện, mỗi tiểu bang cho phép hai thành viên. Nhiệm kỳ đại biểu Hạ viện là hai năm. Nhiệm kỳ thượng sĩ là 5 năm. Quyền lực quốc hội bao gồm việc thu thuế, ban hành luật lệ về quốc phòng toàn dân, phúc lợi chung, luật thương mại, bằng sáng chế, bản quyền, việc tuyên bố chiến tranh, tăng cường quân đội, củng cố hải quân, thành lập bưu điện và các tòa án liên bang. Cơ bản, quốc hội nắm quyền chủ động trong chính quyền liên bang. Tổng thống giữ vai trò như một vị lãnh đạo một đảng quốc gia. Tổng thống có nhiệm vụ cân bằng quyền lực giữa cơ quan lập pháp và hành pháp. Các hoạt động của quốc hội phải thông qua một hội đồng thường trực. Cơ quan này có quyền hành với tất cả các chính sách liên bang."
+        "t": "(Quốc hội Mỹ) Bộ phận lập pháp của chính quyền liên bang. Theo mục I hiến pháp Mỹ, quốc hội được chia ra Hạ viện và Thượng viện Mỹ. Quyền thành viên trong Hạ viện dựa trên dân số của tiểu bang. Trong Thượng viện, mỗi tiểu bang cho phép hai thành viên. Nhiệm kỳ đại biểu Hạ viện là hai năm. Nhiệm kỳ thượng sĩ là 5 năm. Quyền lực quốc hội bao gồm việc thu thuế, ban hành luật lệ về quốc phòng toàn dân, phúc lợi chung, luật thương mại, bằng sáng chế, bản quyền, việc tuyên bố chiến tranh, tăng cường quân đội, củng cố hải quân, thành lập bưu điện và các tòa án liên bang. Cơ bản, quốc hội nắm quyền chủ động trong chính quyền liên bang. Tổng thống giữ vai trò như một vị lãnh đạo một đảng quốc gia. Tổng thống có nhiệm vụ cân bằng quyền lực giữa cơ quan lập pháp và hành pháp. Các hoạt động của quốc hội phải thông qua một hội đồng thường trực. Cơ quan này có quyền hành với tất cả các chính sách liên bang."
       }
     ],
     "k": "congress of usa"
@@ -78344,7 +78344,7 @@
       },
       {
         "k": "m",
-        "t": "Socket API là giao diện cho phép các lập trình viên ứng dụng thiết kế ứng dụng với các giao thức TCP/IP cơ bản. Nó bao gồm các thủ tục được dùng để thiết lập các mối quan hệ truyền thông. Socket được tạo để chuyển giao thông tin và mỗi socket được định danh bởi một địa chỉ mô tả gọi là port number (số cổng). Một máy chủ (server) thiết lập các socket để cung cấp các dịch vụ tới máy khách. Và sauđó mỗi socket đợi một may khách kết nối với nó.."
+        "t": "Socket API là giao diện cho phép các lập trình viên ứng dụng thiết kế ứng dụng với các giao thức TCP/IP cơ bản. Nó bao gồm các thủ tục được dùng để thiết lập các mối quan hệ truyền thông. Socket được tạo để chuyển giao thông tin và mỗi socket được định danh bởi một địa chỉ mô tả gọi là port number (số cổng). Một máy chủ (server) thiết lập các socket để cung cấp các dịch vụ tới máy khách. Và sauđó mỗi socket đợi một máy khách kết nối với nó.."
       }
     ],
     "k": "connection establishment"
@@ -78783,7 +78783,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "nền liên kết, nền ghép nối. Một chương trình hoặc một tiện ích được thiết kế để nâng cao khả năng của một chương trình trong việc trao đổi dữ liệu với các chương trình khác thông qua một mạng cụ bộ. Ví dụ, Oracle đối với máy Macintosh sẽ cung cấp cho HyperCard khả năng liên kết cần thiết để tìm kiếm và khôi phục lại các thông tin từ những cơ sở dữ liệu lớn hợp tác của nó."
+        "t": "nền liên kết, nền ghép nối. Một chương trình hoặc một tiện ích được thiết kế để nâng cao khả năng của một chương trình trong việc trao đổi dữ liệu với các chương trình khác thông qua một mạng cục bộ. Ví dụ, Oracle đối với máy Macintosh sẽ cung cấp cho HyperCard khả năng liên kết cần thiết để tìm kiếm và khôi phục lại các thông tin từ những cơ sở dữ liệu lớn hợp tác của nó."
       }
     ],
     "k": "connectivity platform"
@@ -86907,7 +86907,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "tổn thất toàn bộ tương đối, tổn thất coi như toàn bộ. Tình trạng đối tượng bảo hiểm tuy chưa bị mất hẳn hoặc bị hư hại hoàn toàn như trường hợp mất toàn bộ tuyệt đối, nhưng đã bị tổn thất tới mức nhất định sẽ dẫn tới mất toàn bộ tuyệt đối (ví dụ: đường bị ướt cũng) hoặc nếu muốn giữ khỏi bị mất toàn bộ tuyệt đối thì phải chi phí một khoản tiền vượt quá giá trị của đối tượng bảo hiểm (ví dụ: một lô hàng bi tổn thất mà nếu sửa lại thì phí sửa hàng còn cao hơn giá hàng bán tại cảng đến)."
+        "t": "tổn thất toàn bộ tương đối, tổn thất coi như toàn bộ. Tình trạng đối tượng bảo hiểm tuy chưa bị mất hẳn hoặc bị hư hại hoàn toàn như trường hợp mất toàn bộ tuyệt đối, nhưng đã bị tổn thất tới mức nhất định sẽ dẫn tới mất toàn bộ tuyệt đối (ví dụ: đường bị ướt cũng) hoặc nếu muốn giữ khỏi bị mất toàn bộ tuyệt đối thì phải chi phí một khoản tiền vượt quá giá trị của đối tượng bảo hiểm (ví dụ: một lô hàng bị tổn thất mà nếu sửa lại thì phí sửa hàng còn cao hơn giá hàng bán tại cảng đến)."
       }
     ],
     "k": "constructive loss"
@@ -95281,7 +95281,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "đồ thị liên tục"},
-      {"k": "m", "t": "biểu dồ hành trình"},
+      {"k": "m", "t": "biểu đồ hành trình"},
       {"k": "m", "t": "biểu đồ liên tục"},
       {"k": "m", "t": "giản đồ liên tục"}
     ],
@@ -96051,7 +96051,7 @@
   },
   {
     "h": "continuous probability distribution",
-    "segs": [{"k": "m", "t": "phân phồi xác suất liên tục."}],
+    "segs": [{"k": "m", "t": "phân phối xác suất liên tục."}],
     "k": "continuous probability distribution"
   },
   {
@@ -102104,7 +102104,7 @@
   },
   {
     "h": "control mechanism",
-    "segs": [{"k": "m", "t": "cơ cấu diều khiển; cơ cấu điều chỉnh."}],
+    "segs": [{"k": "m", "t": "cơ cấu điều khiển; cơ cấu điều chỉnh."}],
     "k": "control mechanism"
   },
   {
@@ -105175,7 +105175,7 @@
   },
   {
     "h": "conventional art",
-    "segs": [{"k": "m", "t": "nghệ thuật cỗ truyền."}],
+    "segs": [{"k": "m", "t": "nghệ thuật cổ truyền."}],
     "k": "conventional art"
   },
   {
@@ -107938,14 +107938,14 @@
   },
   {
     "h": "conveyor depilator",
-    "segs": [{"k": "m", "t": "máy vặt lông kiểu bằng chuyền."}],
+    "segs": [{"k": "m", "t": "máy vặt lông kiểu băng chuyền."}],
     "k": "conveyor depilator"
   },
   {
     "h": "conveyor depilatory",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "máy vặt lông kiểu bằng chuyền"}
+      {"k": "m", "t": "máy vặt lông kiểu băng chuyền"}
     ],
     "k": "conveyor depilatory"
   },
@@ -121364,7 +121364,7 @@
   },
   {
     "h": "corporate income fund",
-    "segs": [{"k": "m", "t": "quỹ thu nập công ty."}],
+    "segs": [{"k": "m", "t": "quỹ thu nhập công ty."}],
     "k": "corporate income fund"
   },
   {
@@ -124419,7 +124419,7 @@
   {
     "h": "corrosion fatigue",
     "segs": [
-      {"k": "m", "t": "sự mỏi do bị ăn mòn, độ mỏi đo bị ăn mòn, sự mỏi do gỉ, độ mỏi do gỉ."}
+      {"k": "m", "t": "sự mỏi do bị ăn mòn, độ mỏi do bị ăn mòn, sự mỏi do gỉ, độ mỏi do gỉ."}
     ],
     "k": "corrosion fatigue"
   },
@@ -128282,7 +128282,7 @@
       },
       {
         "k": "m",
-        "t": "Lịch sử: Columbus đã khám phá vùng đất này trong chuyến hành trình lần thứ tư đến vùng tân thế giới năm 1502. Vùng đất vẫn chưa có người định cư mãi đến khi Juan Vasques de Coronado thành lập nên Cartago ở miền trung Meseta. Một số người Ấn trở thành nạn nhân của bệnh tật. Costa Rica chỉ là một phần của Guatemala năm 1821. Sau đó, nó sáp nhập với đế quốc Mexico độc lập (1821-1823), tiếp theo là sáp nhập các tỉnh hợp nhất vùng trung Mỹ (1823-1838). Năm 1838, nó trở thành một nước cộng hòa độc lập. Đất nước có chính sách độc lập nhưng ổn định, có nền nông nghiệp trù phú khiến Anh, Mỹ phải để mắt tới vào thế kỷ 19. Ngoại trừ chế độ độc tài từng tồn tại của Federicao Tinoco Granadoa (1917-1919), Costa Rica rất nổi tiếng vào cuối thể kỷ 19 và đầu thế kỷ 20 bởi truyền thống dân chủ. Sau thế chiến thứ hai, đảng cánh tả xuất hiện, bao gồm cả đảng cộng sản. Chủ tịch nước Otilio Ulate (1948-1953) và Jose Figures (1953-58, 1970-74) cố gắng giải tán quân đội, quốc hữu hóa ngân hàng, hạn chế sự đầu tư từ phía Mỹ. Năm 1949, hiến pháp mới ra đời mở rộng quyền bầu cử, bãi bỏ lực lượng vũ trang. Tình hình chính trị căng thẳng thập niên 1970 khiến nền kinh tế thêm trầm trọng do có nhiều người tị nạn từ các nước láng giềng. Tổng thống Alberto Monge buộc phải áp đặt nhiều chính sách nghiêm ngặt để cứu vãn nền kinh tế. Năm 1987, tổng thống Oscar Arias Sanchez (1986-1990) thúc đẩy kế hoạch hòa bình ở trung Mỹ. Tuy nhiên, khó khăn kinh tế vẫn kéo dài dưới thời tổng thống Rafael Calderon Fournier (1990-1994) và tổng thống Jose maria Figureres (1994-1998). Khó khăn tài chính của quỹ tiền tệ quốc tế đã làm nảy sinh tình trạng bất ổn trong ngành công nghiệp đầu thập niên 1990. Nhà kinh tế học thuộc đảng bảo thủ Miguel Angel Rodriguez được đề cử chức vụ tổng thống năm 1998."
+        "t": "Lịch sử: Columbus đã khám phá vùng đất này trong chuyến hành trình lần thứ tư đến vùng tân thế giới năm 1502. Vùng đất vẫn chưa có người định cư mãi đến khi Juan Vasques de Coronado thành lập nên Cartago ở miền trung Meseta. Một số người Ấn trở thành nạn nhân của bệnh tật. Costa Rica chỉ là một phần của Guatemala năm 1821. Sau đó, nó sáp nhập với đế quốc Mexico độc lập (1821-1823), tiếp theo là sáp nhập các tỉnh hợp nhất vùng trung Mỹ (1823-1838). Năm 1838, nó trở thành một nước cộng hòa độc lập. Đất nước có chính sách độc lập nhưng ổn định, có nền nông nghiệp trù phú khiến Anh, Mỹ phải để mắt tới vào thế kỷ 19. Ngoại trừ chế độ độc tài từng tồn tại của Federicao Tinoco Granadoa (1917-1919), Costa Rica rất nổi tiếng vào cuối thế kỷ 19 và đầu thế kỷ 20 bởi truyền thống dân chủ. Sau thế chiến thứ hai, đảng cánh tả xuất hiện, bao gồm cả đảng cộng sản. Chủ tịch nước Otilio Ulate (1948-1953) và Jose Figures (1953-58, 1970-74) cố gắng giải tán quân đội, quốc hữu hóa ngân hàng, hạn chế sự đầu tư từ phía Mỹ. Năm 1949, hiến pháp mới ra đời mở rộng quyền bầu cử, bãi bỏ lực lượng vũ trang. Tình hình chính trị căng thẳng thập niên 1970 khiến nền kinh tế thêm trầm trọng do có nhiều người tị nạn từ các nước láng giềng. Tổng thống Alberto Monge buộc phải áp đặt nhiều chính sách nghiêm ngặt để cứu vãn nền kinh tế. Năm 1987, tổng thống Oscar Arias Sanchez (1986-1990) thúc đẩy kế hoạch hòa bình ở trung Mỹ. Tuy nhiên, khó khăn kinh tế vẫn kéo dài dưới thời tổng thống Rafael Calderon Fournier (1990-1994) và tổng thống Jose maria Figureres (1994-1998). Khó khăn tài chính của quỹ tiền tệ quốc tế đã làm nảy sinh tình trạng bất ổn trong ngành công nghiệp đầu thập niên 1990. Nhà kinh tế học thuộc đảng bảo thủ Miguel Angel Rodriguez được đề cử chức vụ tổng thống năm 1998."
       },
       {"k": "m", "t": "Thủ đô: San Jose."},
       {"k": "m", "t": "Diện tích: 51.100 km2"},
@@ -138988,7 +138988,7 @@
     "h": "cover-crop",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "cây trồng phủ đất (chống cỏ, chống xoi mòn...)."}
+      {"k": "m", "t": "cây trồng phủ đất (chống cỏ, chống xói mòn...)."}
     ],
     "ipa": "'kʌvəkrɔp",
     "k": "cover-crop"
@@ -139592,7 +139592,7 @@
       {"k": "ex", "t": "covert threat", "vi": "sự đe dọa ngầm"},
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "hang ổ (của muông thú)"},
-      {"k": "m", "t": "bụi rậm, lùm cây (nơi ẩn náo của muông thú)"},
+      {"k": "m", "t": "bụi rậm, lùm cây (nơi ẩn náu của muông thú)"},
       {"k": "ex", "t": "to draw a covert", "vi": "sục bụi rậm"},
       {"k": "ex", "t": "covert cloth", "vi": "(Mỹ) vải may áo choàng"},
       {"k": "ex", "t": "covert coat", "vi": "áo choàng ngắn."}

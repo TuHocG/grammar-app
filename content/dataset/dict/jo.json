@@ -1279,7 +1279,7 @@
   },
   {
     "h": "jobber drill",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mũi khoán xoắn"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "mũi khoan xoắn"}],
     "k": "jobber drill"
   },
   {
@@ -3903,7 +3903,7 @@
     "h": "joint ordering",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "sự gom chung các đơn dặt hàng"},
+      {"k": "m", "t": "sự gom chung các đơn đặt hàng"},
       {"k": "m", "t": "sự gom chung các đơn đặt hàng"}
     ],
     "k": "joint ordering"

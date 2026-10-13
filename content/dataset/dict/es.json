@@ -1274,7 +1274,7 @@
     "h": "escrow fund",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kinh tế"},
-      {"k": "m", "t": "quỹ chuyên dung theo thỏa thuận"},
+      {"k": "m", "t": "quỹ chuyên dụng theo thỏa thuận"},
       {"k": "m", "t": "quỹ gởi giữ"},
       {"k": "m", "t": "quỹ gửi giữ"}
     ],

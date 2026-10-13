@@ -6262,7 +6262,7 @@
   },
   {
     "h": "plantar intercuneiform ligament",
-    "segs": [{"k": "m", "t": "Dây chằng gian chêm gan ban chân."}],
+    "segs": [{"k": "m", "t": "Dây chằng gian chêm gan bàn chân."}],
     "k": "plantar intercuneiform ligament"
   },
   {
@@ -9424,7 +9424,7 @@
   {"h": "plate door", "segs": [{"k": "m", "t": "cửa bắt bu lông trên vách."}], "k": "plate door"},
   {
     "h": "plate dowel",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chốt dẹp (dạng tấ bản)"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "chốt dẹp (dạng tấm bản)"}],
     "k": "plate dowel"
   },
   {"h": "plate efficience", "segs": [{"k": "m", "t": "hiệu suất anode."}], "k": "plate efficience"},
@@ -9564,7 +9564,7 @@
     "h": "plate heat exchanger",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "bộ trao dổi nhiệt dạng tấm"},
+      {"k": "m", "t": "bộ trao đổi nhiệt dạng tấm"},
       {"k": "m", "t": "thiết bị hồi nhiệt dạng tấm"}
     ],
     "k": "plate heat exchanger"
@@ -12366,7 +12366,7 @@
   },
   {
     "h": "playable at sight",
-    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "trả ngày khi trình phiếu"}],
+    "segs": [{"k": "dom", "t": "Chuyên ngành kinh tế"}, {"k": "m", "t": "trả ngay khi trình phiếu"}],
     "k": "playable at sight"
   },
   {"h": "playact", "segs": [{"k": "ref", "t": "như play-act."}], "ipa": "ˈpleiækt", "k": "playact"},
@@ -13950,7 +13950,7 @@
     "segs": [
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "người bình dân (cổ) La Mã"},
-      {"k": "m", "t": "người bình dân, người thuộc tầng lớp xa hội thấp"},
+      {"k": "m", "t": "người bình dân, người thuộc tầng lớp xã hội thấp"},
       {"k": "pos", "t": "tính từ"},
       {"k": "m", "t": "bình dân, hạ lưu"},
       {"k": "ex", "t": "of plebeian origins", "vi": "có dòng dõi bình dân"},
@@ -15467,7 +15467,7 @@
     "ipa": "pluə'reiliə",
     "k": "pleuralia"
   },
-  {"h": "pleuramnion", "segs": [{"k": "m", "t": "Màng ối phát triền do gấp."}], "k": "pleuramnion"},
+  {"h": "pleuramnion", "segs": [{"k": "m", "t": "Màng ối phát triển do gấp."}], "k": "pleuramnion"},
   {
     "h": "pleuranthous",
     "segs": [{"k": "pos", "t": "tính từ"}, {"k": "m", "t": "(thực) có cụm hoa bên."}],
@@ -17762,7 +17762,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "(1801-1868) Nhà toán học và vật lý học Đức, giáo sư tường Đại học tổng hợp Bonn (1828-1834 và từ 1836). Ông có những công trình cơ bản về hình học: ông mở rộng khái niệm tọa độ. Ông đã đạt được nhiều kết quả quan trọng trong lý thuyết các đường cong đại số. Ít lâu sau ông có những công trình nghiên cứu về những hàm số điện trong chất khí và quang phổ."
+        "t": "(1801-1868) Nhà toán học và vật lý học Đức, giáo sư trường Đại học tổng hợp Bonn (1828-1834 và từ 1836). Ông có những công trình cơ bản về hình học: ông mở rộng khái niệm tọa độ. Ông đã đạt được nhiều kết quả quan trọng trong lý thuyết các đường cong đại số. Ít lâu sau ông có những công trình nghiên cứu về những hàm số điện trong chất khí và quang phổ."
       }
     ],
     "k": "plu**cker julius"
@@ -19928,7 +19928,7 @@
     "ipa": "'pluəri'njukliə",
     "k": "plurinuclear"
   },
-  {"h": "pluripara", "segs": [{"k": "m", "t": "Người dẻ nhiều lần."}], "k": "pluripara"},
+  {"h": "pluripara", "segs": [{"k": "m", "t": "Người đẻ nhiều lần."}], "k": "pluripara"},
   {"h": "pluriparity", "segs": [{"k": "m", "t": "(sự) sinh đẻ nhiều lần."}], "k": "pluriparity"},
   {
     "h": "pluriparous",

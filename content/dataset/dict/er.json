@@ -4308,7 +4308,7 @@
         "t": "Bởi vì 10Base-2, 10Base-T, và 100Base-T là các đồ hình phổ biến nhất, nên chúng ta sẽ bàn chi tiết đến nó trong phần này. 100VG-AnyLAN không phải là một tiêu chuẩn thuộc Ethernet 802.3, nên nó sẽ được bàn đến dưới một tiêu đề của riêng nó."
       },
       {"k": "m", "t": "Các đặc tính tổng quát của Ethernet"},
-      {"k": "m", "t": "Hình E-7 Mạng Ethernet sử dụng cáp xoắn đôi và cáp dồng trục"},
+      {"k": "m", "t": "Hình E-7 Mạng Ethernet sử dụng cáp xoắn đôi và cáp đồng trục"},
       {
         "k": "m",
         "t": "Lưu ý rằng hai cách bố trí cáp (đồ hình vật lý) trong hình E-7 là hoàn toàn khác nhau. Tuy nhiên, trong cả hai trường hợp, một tín hiệu Ethernet duy nhất được chuyển đến tất cả các trạm cùng một lúc. Nói cách khác, toàn bộ hệ thống mạng hoạt động như một kênh truyền thông logic duy nhất, trên đó các truyền thông từ một máy tính được phát tán (broadcast) đến tất cả các máy tính khác."

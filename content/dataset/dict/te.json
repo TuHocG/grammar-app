@@ -7595,7 +7595,7 @@
   },
   {
     "h": "telemetor steering gear",
-    "segs": [{"k": "m", "t": "cơ cấn dẫn động lái điều khiển từ xa."}],
+    "segs": [{"k": "m", "t": "cơ cấu dẫn động lái điều khiển từ xa."}],
     "k": "telemetor steering gear"
   },
   {"h": "telemetric", "segs": [{"k": "m", "t": "of measuring distances"}], "k": "telemetric"},
@@ -9356,7 +9356,7 @@
     "h": "telescopic panel",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "tấm lắp bậc thang (theo măt cắt ngang)"}
+      {"k": "m", "t": "tấm lắp bậc thang (theo mặt cắt ngang)"}
     ],
     "k": "telescopic panel"
   },
@@ -10071,8 +10071,8 @@
     "h": "television distribution system",
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
-      {"k": "m", "t": "hệ thông phân bố truyền hình"},
-      {"k": "m", "t": "hệ thông phân phối truyền hình"}
+      {"k": "m", "t": "hệ thống phân bố truyền hình"},
+      {"k": "m", "t": "hệ thống phân phối truyền hình"}
     ],
     "k": "television distribution system"
   },
@@ -13572,7 +13572,7 @@
     "segs": [{"k": "m", "t": "động mạch thái dương."}],
     "k": "temporal artery"
   },
-  {"h": "temporal bone", "segs": [{"k": "m", "t": "Xương thai dương."}], "k": "temporal bone"},
+  {"h": "temporal bone", "segs": [{"k": "m", "t": "Xương thái dương."}], "k": "temporal bone"},
   {
     "h": "temporal database",
     "segs": [{"k": "m", "t": "cơ sở dữ liệu phụ thuộc thời gian."}],
@@ -14490,7 +14490,7 @@
       {"k": "m", "t": "Lời khuyên:"},
       {
         "k": "m",
-        "t": "Bạn có thể cải thiện một cách đáng kể hiệu suất của Windows bằng cáhc thành lập một tệp trao đổi cố định. Tuy nhiên, số lượng không gian đĩa mà Windows có thể gán cho nhiệm vụ này bị hạn chế bởi không gian đĩa lớn nhất chứa trong các sector trống liền kề nhau. Để làm cho lượng nhớ ảo cực đại này trở thành có sẵn, bạn hãy cho chạy một chương trình sắp xếp lại các tệp trong đĩa trước khi thiết lập tệp trao đổi cố định."
+        "t": "Bạn có thể cải thiện một cách đáng kể hiệu suất của Windows bằng cách thành lập một tệp trao đổi cố định. Tuy nhiên, số lượng không gian đĩa mà Windows có thể gán cho nhiệm vụ này bị hạn chế bởi không gian đĩa lớn nhất chứa trong các sector trống liền kề nhau. Để làm cho lượng nhớ ảo cực đại này trở thành có sẵn, bạn hãy cho chạy một chương trình sắp xếp lại các tệp trong đĩa trước khi thiết lập tệp trao đổi cố định."
       }
     ],
     "k": "temporary swap file"
@@ -17198,7 +17198,7 @@
     ],
     "k": "tensile resistance"
   },
-  {"h": "tensile set", "segs": [{"k": "m", "t": "biến dang dư sau khi kéo."}], "k": "tensile set"},
+  {"h": "tensile set", "segs": [{"k": "m", "t": "biến dạng dư sau khi kéo."}], "k": "tensile set"},
   {
     "h": "tensile shock test",
     "segs": [{"k": "dom", "t": "Chuyên ngành kỹ thuật"}, {"k": "m", "t": "sự thử đứt va đập"}],

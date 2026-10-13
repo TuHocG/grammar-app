@@ -7019,7 +7019,7 @@
   },
   {
     "h": "operations per second",
-    "segs": [{"k": "m", "t": "(OPS) số thao tác trong môt giây, số phép toán trong một giây."}],
+    "segs": [{"k": "m", "t": "(OPS) số thao tác trong một giây, số phép toán trong một giây."}],
     "k": "operations per second"
   },
   {
@@ -9844,7 +9844,7 @@
   },
   {
     "h": "opprorium",
-    "segs": [{"k": "m", "t": "dt 1. sự sĩ nhục, sự nhục nhã 2. điều sĩ nhục, điều nhục nhã."}],
+    "segs": [{"k": "m", "t": "dt 1. sự sỉ nhục, sự nhục nhã 2. điều sỉ nhục, điều nhục nhã."}],
     "ipa": "ə'prəʊbriəm",
     "k": "opprorium"
   },
@@ -13309,7 +13309,7 @@
   },
   {
     "h": "opto electronic amplifier",
-    "segs": [{"k": "m", "t": "bộ khuếch đại quang diện tử."}],
+    "segs": [{"k": "m", "t": "bộ khuếch đại quang điện tử."}],
     "k": "opto electronic amplifier"
   },
   {

@@ -4461,7 +4461,7 @@
   },
   {
     "h": "holistic medicine",
-    "segs": [{"k": "m", "t": "Hệ thống y học quan niệm cơ thể lá một khối thống nhất."}],
+    "segs": [{"k": "m", "t": "Hệ thống y học quan niệm cơ thể là một khối thống nhất."}],
     "k": "holistic medicine"
   },
   {
@@ -6905,7 +6905,7 @@
     "segs": [
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "thiết bị lạnh gia dụng"},
-      {"k": "m", "t": "thiết bị lạnh ngia đình"}
+      {"k": "m", "t": "thiết bị lạnh gia đình"}
     ],
     "k": "home cooling equipment"
   },
@@ -9808,7 +9808,7 @@
       {"k": "m", "t": "(kinh tế) Các hàm đồng nhất."},
       {
         "k": "m",
-        "t": "Một hàm được coi là đông nhất bậc n nếu nhân tất cả các biến độc lập với một hằng số Lamđa có kết quả bằng biến phụ thuộc nhân với Lamđa."
+        "t": "Một hàm được coi là đồng nhất bậc n nếu nhân tất cả các biến độc lập với một hằng số Lamđa có kết quả bằng biến phụ thuộc nhân với Lamđa."
       }
     ],
     "k": "homogeneous functions"
@@ -17336,7 +17336,7 @@
   {"h": "horme", "segs": [{"k": "m", "t": "Trung tâm bản năng (từ của Monakow)."}], "k": "horme"},
   {
     "h": "hormesis",
-    "segs": [{"k": "m", "t": "Tác dụng kích dưới nồng độ ức chế, tác dung kích thích liều nhỏ."}],
+    "segs": [{"k": "m", "t": "Tác dụng kích dưới nồng độ ức chế, tác dụng kích thích liều nhỏ."}],
     "k": "hormesis"
   },
   {
@@ -23936,7 +23936,7 @@
       {
         "k": "ex",
         "t": "she spent all her waking hours worrying about her job",
-        "vi": "suốt thời gian tỉnh giấc, cô ta cứ lo lăng về công việc của mình."
+        "vi": "suốt thời gian tỉnh giấc, cô ta cứ lo lắng về công việc của mình."
       }
     ],
     "ipa": "'auə",

@@ -23627,13 +23627,13 @@
       {"k": "m", "t": "van điều chỉnh dòng chảy"},
       {"k": "m", "t": "van điều chỉnh lưu lượng"},
       {"k": "m", "t": "van điều chỉnh dòng"},
-      {"k": "m", "t": "van điểu khiển lưu lượng"},
+      {"k": "m", "t": "van điều khiển lưu lượng"},
       {"k": "dom", "t": "Chuyên ngành kỹ thuật"},
       {"k": "m", "t": "bộ điều chỉnh lưu lượng"},
       {"k": "m", "t": "van điều chỉnh dòng chảy"},
       {"k": "m", "t": "van điều chỉnh lưu lượng"},
       {"k": "m", "t": "van điều chỉnh dòng"},
-      {"k": "m", "t": "van điểu khiển lưu lượng"}
+      {"k": "m", "t": "van điều khiển lưu lượng"}
     ],
     "k": "flow control valve"
   },
@@ -29798,7 +29798,7 @@
       {"k": "pos", "t": "danh từ"},
       {"k": "m", "t": "sự vẫy, sự vỗ (cánh)"},
       {"k": "ex", "t": "the flutter of wings", "vi": "sự vỗ cánh"},
-      {"k": "m", "t": "sự run rẫy vì bị kích động"},
+      {"k": "m", "t": "sự run rẩy vì bị kích động"},
       {"k": "ex", "t": "to be in a flutter", "vi": "bối rối"},
       {"k": "ex", "t": "to make a flutter", "vi": "gây sự xao xuyến"},
       {"k": "m", "t": "sự rung"},

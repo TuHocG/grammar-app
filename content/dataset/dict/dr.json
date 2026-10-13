@@ -2820,7 +2820,7 @@
     "h": "dramatis peseona",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "snh 1. nhân vật trong vỡ kịch 2. danh sách các nhân vật đó."}
+      {"k": "m", "t": "snh 1. nhân vật trong vở kịch 2. danh sách các nhân vật đó."}
     ],
     "ipa": "dræmətis pə:'səʊnai",
     "k": "dramatis peseona"
@@ -3805,7 +3805,7 @@
   {"h": "draw compensation", "segs": [{"k": "m", "t": "trang cụ kéo."}], "k": "draw compensation"},
   {
     "h": "draw cut shaper",
-    "segs": [{"k": "m", "t": "máy bảo ngang cắt (ở hành trình) ngược."}],
+    "segs": [{"k": "m", "t": "máy bào ngang cắt (ở hành trình) ngược."}],
     "k": "draw cut shaper"
   },
   {
@@ -6197,7 +6197,7 @@
   {
     "h": "dress someone down",
     "segs": [
-      {"k": "m", "t": "trách mắng ai đo một cách nghiêm khắc. (chủ yếu dùng trong quân đội.)"},
+      {"k": "m", "t": "trách mắng ai đó một cách nghiêm khắc. (chủ yếu dùng trong quân đội.)"},
       {
         "k": "ex",
         "t": "The sergeant dressed the soldier down severely:",
@@ -7254,7 +7254,7 @@
   },
   {"h": "drift float", "segs": [{"k": "m", "t": "phao xác định dòng chảy."}], "k": "drift float"},
   {"h": "drift hammer", "segs": [{"k": "m", "t": "búa đột."}], "k": "drift hammer"},
-  {"h": "drift marker", "segs": [{"k": "m", "t": "cái chi báo độ giạt."}], "k": "drift marker"},
+  {"h": "drift marker", "segs": [{"k": "m", "t": "cái chỉ báo độ giạt."}], "k": "drift marker"},
   {
     "h": "drift methods",
     "segs": [{"k": "m", "t": "phương pháp nghiên cứu dòng chảy theo vật trôi."}],
@@ -8570,7 +8570,7 @@
   },
   {
     "h": "drilling saimpler",
-    "segs": [{"k": "m", "t": "bộ dung cụ lấy mẫu đất đá bằng khoan."}],
+    "segs": [{"k": "m", "t": "bộ dụng cụ lấy mẫu đất đá bằng khoan."}],
     "k": "drilling saimpler"
   },
   {"h": "drilling shaft", "segs": [{"k": "m", "t": "trục khoan."}], "k": "drilling shaft"},

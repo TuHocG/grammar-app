@@ -1797,7 +1797,7 @@
   },
   {
     "h": "snart up",
-    "segs": [{"k": "m", "t": "th.tục^dt. sự tắc nghẽ giao thông, rối ren."}],
+    "segs": [{"k": "m", "t": "th.tục^dt. sự tắc nghẽn giao thông, rối ren."}],
     "k": "snart up"
   },
   {
@@ -3080,7 +3080,7 @@
   {"h": "snip duster", "segs": [{"k": "m", "t": "máy chải tách cám."}], "k": "snip duster"},
   {
     "h": "snip-snap-snorum",
-    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "lối chời bài nipnap."}],
+    "segs": [{"k": "pos", "t": "danh từ"}, {"k": "m", "t": "lối chơi bài nipnap."}],
     "ipa": "'snip,snæp'snourəm",
     "k": "snip-snap-snorum"
   },
@@ -3617,7 +3617,7 @@
     "h": "snoop",
     "segs": [
       {"k": "pos", "t": "danh từ"},
-      {"k": "m", "t": "sự chỏ mũi vào việcc của ai"},
+      {"k": "m", "t": "sự chỏ mũi vào việc của ai"},
       {"k": "m", "t": "sự rình mò"},
       {"k": "pos", "t": "ngoại động từ"},
       {"k": "m", "t": "(+"},

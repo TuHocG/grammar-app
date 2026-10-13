@@ -1991,7 +1991,7 @@
       {
         "k": "ex",
         "t": "She's due to arrive on Thursday . Meanwhile, what do we do?",
-        "vi": "Theo kế hoạch, bà ta phải đến hôm Thứ năm. Từ đây đến đó, chúng ta làm gi bây giờ?"
+        "vi": "Theo kế hoạch, bà ta phải đến hôm Thứ năm. Từ đây đến đó, chúng ta làm gì bây giờ?"
       },
       {
         "k": "ex",
@@ -7856,7 +7856,7 @@
       {
         "k": "ex",
         "t": "medical certificate",
-        "vi": "giấy chứng chỉ sức khỏe (chứng nhận một người cò khỏe mạnh hay không)"
+        "vi": "giấy chứng chỉ sức khỏe (chứng nhận một người có khỏe mạnh hay không)"
       },
       {"k": "ex", "t": "army medical officer", "vi": "quân y sĩ"},
       {"k": "m", "t": "(thuộc) khoa nội (trị bệnh mà không có sự can thiệp bằng phẫu thuật)"},
@@ -10953,7 +10953,7 @@
   {"h": "megaline", "segs": [{"k": "m", "t": "mêgalin."}], "k": "megaline"},
   {
     "h": "megalioblastic anemia",
-    "segs": [{"k": "m", "t": "thiếu máu hồng cầu khống lồ."}],
+    "segs": [{"k": "m", "t": "thiếu máu hồng cầu khổng lồ."}],
     "k": "megalioblastic anemia"
   },
   {
@@ -18835,7 +18835,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "Lúc đầu thuật ngữ này được dùng để chỉ bất cứ thương gia người Anh nào tham gia vào công việc ngoại thương. Những người đầu cơ đã hợp lại thành một công ty thương mại năm 1407 và họ đã phát đạt trong thế kỷ thứ 15 và 16. Nó bắt nguồn từ các nhóm thương gia không được tổ chức chặt chẽ tại các thành phố cảng chính của Anh, họ là những người bán vải cho lục địa châu Âu, đặc biệt là bán cho Hà Lan. Họ nhân được sự cho phép của nhà vua tại các thành phố như là Bristol (1467) và London (1505), và tại các khu định cư của người châu Âu. Họ trở thành những người chi phối nền ngoại thương của England, loại bỏ các đối thủ là những thương gia người Đức thuộc phường hội Hanse (Hanseatic League: một mạng lưới mậu dịch kết hợp nhiều thành phố). Cho đến năm 1564, thị trường chủ yếu ở lục địa của họ là Antwerp, một thủ phủ thương mại ở tây-bắc châu Âu. Từ năm 1611, họ biến Hamburg thành trung tâm thương mại ở nước ngoài của họ, nhưng căn cứ chính lâu dài của họ vẫn là London. Họ là những bậc tiền bối của các công ty lớn được hoàng gia công nhận, và trở nên kém quan trọng trong thế kỷ 18."
+        "t": "Lúc đầu thuật ngữ này được dùng để chỉ bất cứ thương gia người Anh nào tham gia vào công việc ngoại thương. Những người đầu cơ đã hợp lại thành một công ty thương mại năm 1407 và họ đã phát đạt trong thế kỷ thứ 15 và 16. Nó bắt nguồn từ các nhóm thương gia không được tổ chức chặt chẽ tại các thành phố cảng chính của Anh, họ là những người bán vải cho lục địa châu Âu, đặc biệt là bán cho Hà Lan. Họ nhận được sự cho phép của nhà vua tại các thành phố như là Bristol (1467) và London (1505), và tại các khu định cư của người châu Âu. Họ trở thành những người chi phối nền ngoại thương của England, loại bỏ các đối thủ là những thương gia người Đức thuộc phường hội Hanse (Hanseatic League: một mạng lưới mậu dịch kết hợp nhiều thành phố). Cho đến năm 1564, thị trường chủ yếu ở lục địa của họ là Antwerp, một thủ phủ thương mại ở tây-bắc châu Âu. Từ năm 1611, họ biến Hamburg thành trung tâm thương mại ở nước ngoài của họ, nhưng căn cứ chính lâu dài của họ vẫn là London. Họ là những bậc tiền bối của các công ty lớn được hoàng gia công nhận, và trở nên kém quan trọng trong thế kỷ 18."
       }
     ],
     "k": "merchant adventurer"
@@ -20184,7 +20184,7 @@
     "segs": [
       {
         "k": "m",
-        "t": "sáp nhập tài sản. Việc tài sản của nhiều chủ sở hữu khác nhau được sáp nhập vào nhau tạo thành vật mới không phân chia được. Nếu các tài sản đem sáp nhập không thể xác định được vật nào là vật chính, vật nào là vật phụ, thì vật mới tạo thành là tài sản thuộc sở hữu chung. Nếu các tại sản đem sáp nhập có thể xác định được vật chính, vật phụ, thì vật mới tạo thành thuộc chủ sở hữu vật chính, chủ sở hữu vật phụ đó (Điều 244 Bộ luật dân sự)."
+        "t": "sáp nhập tài sản. Việc tài sản của nhiều chủ sở hữu khác nhau được sáp nhập vào nhau tạo thành vật mới không phân chia được. Nếu các tài sản đem sáp nhập không thể xác định được vật nào là vật chính, vật nào là vật phụ, thì vật mới tạo thành là tài sản thuộc sở hữu chung. Nếu các tài sản đem sáp nhập có thể xác định được vật chính, vật phụ, thì vật mới tạo thành thuộc chủ sở hữu vật chính, chủ sở hữu vật phụ đó (Điều 244 Bộ luật dân sự)."
       }
     ],
     "k": "merge of property"
@@ -22635,7 +22635,7 @@
   },
   {
     "h": "mesosigmoidopexy",
-    "segs": [{"k": "m", "t": "(thủ thuật) cố định mạc treo kết tráng xích-ma."}],
+    "segs": [{"k": "m", "t": "(thủ thuật) cố định mạc treo kết tràng xích-ma."}],
     "k": "mesosigmoidopexy"
   },
   {"h": "mesoskelic", "segs": [{"k": "m", "t": "Có chi dài bình thường."}], "k": "mesoskelic"},
@@ -27046,7 +27046,7 @@
       {
         "k": "ex",
         "t": "metamorphoses",
-        "vi": "sự thay đổi hình dáng hoặc bản chất (do tằng trưởng hoặc phát triển tự nhiên chẳng hạn)"
+        "vi": "sự thay đổi hình dáng hoặc bản chất (do tăng trưởng hoặc phát triển tự nhiên chẳng hạn)"
       },
       {
         "k": "ex",
@@ -27711,7 +27711,7 @@
   },
   {
     "h": "metatarsus latus",
-    "segs": [{"k": "m", "t": "Xương đốt bản chân bè ngang."}],
+    "segs": [{"k": "m", "t": "Xương đốt bàn chân bè ngang."}],
     "k": "metatarsus latus"
   },
   {
