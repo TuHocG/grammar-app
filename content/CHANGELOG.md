@@ -22,6 +22,7 @@ Bản dữ liệu 2019 của tác giả (thư mục `Data G/Code`, mới hơn b�
 - Sửa 928 lỗi chính tả tiếng Việt có từ bản gốc trong bài đọc, bài tập, phụ đề, luyện nói, văn phạm, phân tích câu và hướng dẫn (chưa soát từ điển). Lỗi được tìm bằng cách so mỗi chữ với các biến thể khác một chữ cái hoặc một dấu trong ngữ cảnh hai bên trên toàn bộ nội dung, rồi đối chiếu từng chỗ với câu tiếng Anh: ví dụ "có thề" → "có thể", "danh tử" → "danh từ", "hiệu ưng nhà kính" → "hiệu ứng", "tràn khi màng phổi" → "tràn khí", "chắc chắc" → "chắc chắn", vài chữ lặp ("thư thư ký", "là là"). Các chữ đúng nhưng hiếm (đàn ống, lực lưỡng, ngươi, sanh…) giữ nguyên.
 - Dấu "…" mà tác giả gõ bằng mã cp1252 hiện thành chữ "Ị" (cả ở app gốc): 41 chỗ như "sinh ra ở OmahaỊ", "(Ị nổi tiếng)" nay là "…"; chữ Ị thật trong chữ hoa (LỊCH, ĐỊCH, BỊ…) giữ nguyên.
 - Dấu độ "°" tác giả gõ bằng mã cp1252 trùng với mã nén "in" của app gốc nên hiện thành "in" (cả ở app gốc): 81 chỗ như "38inC (100inF)", "kinh độ 135in W", "quay 90in" nay là "°"; các chỗ "in" là inch thật (7.9in, 0,5in) giữ nguyên.
+- Soát tay thêm 10 chỗ mà lần sửa chính tả trước còn để lại vì chưa rõ ý, ví dụ "vệ sinh cá yếu tốt" → "vệ sinh cá nhân tốt", "đã gán thành sẹo" → "đã gần thành sẹo", "Tôi nhân mua" → "Tôi cần mua", "các dĩa ở vùng lưng" → "các đĩa"; sửa một câu dịch ngược nghĩa: nấm da chân "có thể bớt bằng cách đi chân trần" → "có thể bị lây khi đi chân trần".
 
 ## 1.0.0 — 2026-10-07
 
