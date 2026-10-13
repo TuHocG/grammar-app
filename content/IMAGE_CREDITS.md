@@ -94,7 +94,7 @@ uncredited engravings, *Gulliver's Travels*, ed. T. M. Balliet, D.C. Heath & Co.
 
 ## Ảnh chọn riêng
 
-Tranh và ảnh đã hết bản quyền (tác giả mất trên 70 năm, in trước 1930, hoặc tác phẩm của chính phủ Hoa Kỳ) cho các bài mà các ấn bản trên không có tranh. Nguồn từ Wikimedia Commons và Project Gutenberg.
+Tranh và ảnh đã hết bản quyền (tác giả mất trên 70 năm, in trước 1930, hoặc tác phẩm của chính phủ Hoa Kỳ) cho các bài chưa có ảnh: bài mà các ấn bản trên không có tranh, và một bài của Grammar 3.1 vốn không có ảnh. Nguồn từ Wikimedia Commons và Project Gutenberg.
 
 | Bài | File ảnh | Tác giả, tác phẩm | Nguồn |
 |---|---|---|---|
@@ -125,3 +125,4 @@ Tranh và ảnh đã hết bản quyền (tác giả mất trên 70 năm, in tr�
 | Thảm kịch ở Styles. 11. Chapter 11. | `img/readings/styles-11.webp` | Jean Siméon Chardin (1699–1779), *The House of Cards*, khoảng 1737 | https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin%2C_The_House_of_Cards%2C_probably_1737%2C_NGA_97.jpg |
 | Thảm kịch ở Styles. 12. Chapter 12. | `img/readings/styles-12.webp` | tranh hiệu thuốc thế kỷ 19, khuyết danh (DPLA) | https://commons.wikimedia.org/wiki/File:An_Apothecary_Shop_-_DPLA_-_e389d0179979fab623ae0e28094ba398.jpg |
 | Thảm kịch ở Styles. 13. Chapter 13. | `img/readings/styles-13.webp` | Johannes Vermeer (1632–1675), *Woman in Blue Reading a Letter*, khoảng 1663 | https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Woman_in_Blue_Reading_a_Letter_-_WGA24657.jpg |
+| Những bí ẩn và khám phá. 190. origins of Life. | `img/readings/mysteries-190.webp` | Stanley Miller bên bộ thí nghiệm của ông, ảnh NASA Ames (tác phẩm của chính phủ Hoa Kỳ) | https://commons.wikimedia.org/wiki/File:SLMILLER.JPG |
