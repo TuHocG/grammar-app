@@ -91707,7 +91707,7 @@
       {"k": "m", "t": "Hợp kênh nghịch"},
       {
         "k": "m",
-        "t": "Một bộ hợp kênh nghịch đảo chia dòng dữ liệu thành hai hay nhiều dòng dữ liệu để truyền đi trên nhiều kênh, như được chỉ trong hình I-11. ÕÒ đầu nhận, dữ liệu sẽ được kết hợp lại thành một dòng duy nhất. Các kết nối có thể là đường dây điện thoại hay đường truyền thuê bao thường trực. Phương pháp này dùng để cung cấp bằng thông lớn hơn, tránh phải thuê đường dây cao tốc có thể không dùng thường xuyên, hay để tận dụng các thuận lợi của các nhiều đường truyền tốc độ thấp sẵn có. Ví dụ một trung tâm fax truyền dữ liệu vào ban đêm có thể dùng hai hay nhiều đường dây điện thoại có sẵn để truyền dòng dữ liệu cao tốc đến một trung tâm fax khác. Theo cách này, không cần phải thuê một đường truyền chuyên dụng hay phải hợp đồng một đường chuyển mạch cao tốc khác."
+        "t": "Một bộ hợp kênh nghịch đảo chia dòng dữ liệu thành hai hay nhiều dòng dữ liệu để truyền đi trên nhiều kênh, như được chỉ trong hình I-11. Ở đầu nhận, dữ liệu sẽ được kết hợp lại thành một dòng duy nhất. Các kết nối có thể là đường dây điện thoại hay đường truyền thuê bao thường trực. Phương pháp này dùng để cung cấp bằng thông lớn hơn, tránh phải thuê đường dây cao tốc có thể không dùng thường xuyên, hay để tận dụng các thuận lợi của các nhiều đường truyền tốc độ thấp sẵn có. Ví dụ một trung tâm fax truyền dữ liệu vào ban đêm có thể dùng hai hay nhiều đường dây điện thoại có sẵn để truyền dòng dữ liệu cao tốc đến một trung tâm fax khác. Theo cách này, không cần phải thuê một đường truyền chuyên dụng hay phải hợp đồng một đường chuyển mạch cao tốc khác."
       },
       {
         "k": "m",

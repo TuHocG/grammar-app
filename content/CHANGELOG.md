@@ -26,6 +26,7 @@ Bản dữ liệu 2019 của tác giả (thư mục `Data G/Code`, mới hơn b�
 - Từ điển: trong phần giải nghĩa tiếng Anh, dữ liệu gốc đã thay "and" bằng "và" và "or" bằng "hoặc" (cả ở app gốc), ví dụ "authentication, authorization, và accounting", "a project hoặc disposing of a business": 21.450 chỗ (12.128 "and", 9.322 "or") nay trả lại tiếng Anh. Chỉ đổi khi hai từ hai bên là tiếng Anh và không có chữ tiếng Việt có dấu trong bốn từ quanh đó.
 - Từ điển: sửa 959 lỗi chính tả tiếng Việt có từ bản gốc, tìm và soát như với bài học, ví dụ "danh tứ số nhiều" → "danh từ", "thánh khoản" → "thanh khoản", "kết toán" → "kế toán", "tra mở" → "tra mỡ", "lắp đi lắp lại" → "lặp đi lặp lại", "phần mền" → "phần mềm", "Mircrosoft" → "Microsoft".
 - Chữ "ư" bị gõ thiếu dấu móc trước "ơ" ("đuợc", "nguời", "luợng", "đuờng"…): 117 chỗ trong mọi phần nội dung nay là "được", "người", "lượng", "đường"…; các từ viết đúng như "thuở", "huơ", "quơ" giữ nguyên.
+- Từ điển: chữ "Ở" bị mã hoá hỏng thành "ÕÒ" ở 15 chỗ trong các mục tin học ("ÕÒ mức này", "ÕÒ đây") nay là "Ở".
 
 ## 1.0.0 — 2026-10-07
 

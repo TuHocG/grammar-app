@@ -13532,7 +13532,7 @@
       },
       {
         "k": "m",
-        "t": "Một phương pháp thay thế được trình bày ở bên phải trong hình N-14. ÕÒ phương pháp này, một line nội hạt cho mỗi site sẽ nối với nhà cung cấp dịch vụ mạng kiểu chuyển mạch gói (packet-switched network) của quốc gia. Trong trường hợp này, chỉ yêu cầu 4 line thuê bao nội hạt là đủ. Ta thấy rằng mạng kiểu switch này rất giống với Internet."
+        "t": "Một phương pháp thay thế được trình bày ở bên phải trong hình N-14. Ở phương pháp này, một line nội hạt cho mỗi site sẽ nối với nhà cung cấp dịch vụ mạng kiểu chuyển mạch gói (packet-switched network) của quốc gia. Trong trường hợp này, chỉ yêu cầu 4 line thuê bao nội hạt là đủ. Ta thấy rằng mạng kiểu switch này rất giống với Internet."
       },
       {"k": "m", "t": "Hình N-14. Các mạng diện rộng."},
       {

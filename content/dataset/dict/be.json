@@ -19454,7 +19454,7 @@
       {"k": "m", "t": "Chuyển giao với Nỗ lực-Cao nhất"},
       {
         "k": "m",
-        "t": "Các tầng thấp nhất của chồng giao thức là mạng vật lý và giao thức liên kết dữ liệu. Các giao thức này xác định cách truyền bit giữa hai hệ thống. Điều này được mô tả trên hình B-7. ÕÒ mức này, hệ truyền thông chỉ có thể cung cấp dịch vụ best-effort delivery (chiển giao với nỗ lực-cao nhất) do không thể tiên đoán về mạng hạ tầng. Một bất ổn trên đường truyền có thể làm mất các khung dữ liệu. Tầng liên kết dữ liệu có thể cung cấp dịch vụ chuyển giao bảo đảm, như thông báo nhận, nhưng các mạng hiện đại có ít lỗi đến nỗi việc sử dụng dịch vụ này ở tầng liên kết dữ liệu được xem là lãng phí băng thông."
+        "t": "Các tầng thấp nhất của chồng giao thức là mạng vật lý và giao thức liên kết dữ liệu. Các giao thức này xác định cách truyền bit giữa hai hệ thống. Điều này được mô tả trên hình B-7. Ở mức này, hệ truyền thông chỉ có thể cung cấp dịch vụ best-effort delivery (chiển giao với nỗ lực-cao nhất) do không thể tiên đoán về mạng hạ tầng. Một bất ổn trên đường truyền có thể làm mất các khung dữ liệu. Tầng liên kết dữ liệu có thể cung cấp dịch vụ chuyển giao bảo đảm, như thông báo nhận, nhưng các mạng hiện đại có ít lỗi đến nỗi việc sử dụng dịch vụ này ở tầng liên kết dữ liệu được xem là lãng phí băng thông."
       },
       {
         "k": "m",

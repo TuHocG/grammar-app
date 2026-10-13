@@ -46786,7 +46786,7 @@
       },
       {
         "k": "m",
-        "t": "Mô hình ba cấp thông dụng được mô tả trong hình D-23, bên trái là gồm một client chuẩn và bên phải là máy chủ dịch vụ dữ liệu back-end. ÕÒ giữa là các thành phần cung cấp các dịch vụ, các luật thương mại, các quản lý giao dịch và các logic khác."
+        "t": "Mô hình ba cấp thông dụng được mô tả trong hình D-23, bên trái là gồm một client chuẩn và bên phải là máy chủ dịch vụ dữ liệu back-end. Ở giữa là các thành phần cung cấp các dịch vụ, các luật thương mại, các quản lý giao dịch và các logic khác."
       },
       {"k": "m", "t": "Hình D-23 Tiếp cận ba tầng"},
       {
@@ -47324,7 +47324,7 @@
       },
       {
         "k": "m",
-        "t": "Thế các đối tượng là gì? ÕÒ đây, các đối tượng chính là những đoạn chương trình nhỏ thực hiện một số tác vụ đặc biệt. Toàn bộ một ứng dụng có thể được tạo nên từ các đối tượng này. Nhiều người cho rằng chúng như là các \"hộp đen\". Nội dung bên trong của chúng là không quan trọng. Điều cốt lõi là chúng cho ra những gì. Một đối tượng giống như một cái hộp có các nút là điều kiện vào và tạo ra sản phẩm tùy thuộc vào cách ta đưa điều kiện vào thế nào."
+        "t": "Thế các đối tượng là gì? Ở đây, các đối tượng chính là những đoạn chương trình nhỏ thực hiện một số tác vụ đặc biệt. Toàn bộ một ứng dụng có thể được tạo nên từ các đối tượng này. Nhiều người cho rằng chúng như là các \"hộp đen\". Nội dung bên trong của chúng là không quan trọng. Điều cốt lõi là chúng cho ra những gì. Một đối tượng giống như một cái hộp có các nút là điều kiện vào và tạo ra sản phẩm tùy thuộc vào cách ta đưa điều kiện vào thế nào."
       },
       {
         "k": "m",

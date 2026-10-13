@@ -38,7 +38,7 @@
       },
       {
         "k": "m",
-        "t": "1. ÕÒ nguồn (A1), một datagram được tạo ra với điạ chỉ IP của máy tính đích là C1."
+        "t": "1. Ở nguồn (A1), một datagram được tạo ra với điạ chỉ IP của máy tính đích là C1."
       },
       {
         "k": "m",
@@ -50,7 +50,7 @@
       },
       {
         "k": "m",
-        "t": "4. ÕÒ router B/C, khung đến từ cổng B. Datagram được trích ra và điạ chỉ IP được kiểm tra. Router sẽ xác định máy tính được gắán vào mạng con C, vì vậy nó sẽ dùng một bảng tra cứu để phân giải điạ chỉ IP bên trong điạ chỉ MAC của đích C1, và truyền khung trên mạng."
+        "t": "4. Ở router B/C, khung đến từ cổng B. Datagram được trích ra và điạ chỉ IP được kiểm tra. Router sẽ xác định máy tính được gắán vào mạng con C, vì vậy nó sẽ dùng một bảng tra cứu để phân giải điạ chỉ IP bên trong điạ chỉ MAC của đích C1, và truyền khung trên mạng."
       },
       {
         "k": "m",
@@ -62,7 +62,7 @@
       },
       {
         "k": "m",
-        "t": "Các router xác định hop kế tiếp để chuyển gói tin đến đích của nó, không cần phải có đường dẫn đầy đủ đến đích. Điều này tương tự như việc xác định hướng - một người có thể chỉ bạn đi đúng hướng từ một giao lộ nào đó. ÕÒ giao lộ kế tiếp, một người khác lại chỉ cho bạn đi đúng hướng tiếp theo. Hiển nhiên, bạn phải biết được nơi mà bạn muốn đi. Trong một số trường hợp, bạn có thể đi theo một hướng khác để tránh vật cản hay tắc nghẽn. Trên một mạng lưới rộng lớn sẽ có nhiều đường dẫn đến đích, các router có thể làm tương tự, giúp các packet tránh khỏi các liên kết bị ngắt hay tắc nghẽn."
+        "t": "Các router xác định hop kế tiếp để chuyển gói tin đến đích của nó, không cần phải có đường dẫn đầy đủ đến đích. Điều này tương tự như việc xác định hướng - một người có thể chỉ bạn đi đúng hướng từ một giao lộ nào đó. Ở giao lộ kế tiếp, một người khác lại chỉ cho bạn đi đúng hướng tiếp theo. Hiển nhiên, bạn phải biết được nơi mà bạn muốn đi. Trong một số trường hợp, bạn có thể đi theo một hướng khác để tránh vật cản hay tắc nghẽn. Trên một mạng lưới rộng lớn sẽ có nhiều đường dẫn đến đích, các router có thể làm tương tự, giúp các packet tránh khỏi các liên kết bị ngắt hay tắc nghẽn."
       },
       {"k": "m", "t": "Hình I-13 Các goí IP được chuyển trên mạng hỗn hợp"},
       {"k": "m", "t": "Điạ chỉ IP và tên máy tính"},
@@ -242,7 +242,7 @@
       },
       {
         "k": "m",
-        "t": "ÕÒ cùng thời điểm, hầu hết các ứng dụng mạng đều chạy theo phiên (session-oriented), nghiã là quá trình truyền thông trong hai hệ thống đồng nghĩa với việc duy trì việc kết nối giữa chúng. Điều này phù hợp cho mạch ảo ATM."
+        "t": "Ở cùng thời điểm, hầu hết các ứng dụng mạng đều chạy theo phiên (session-oriented), nghiã là quá trình truyền thông trong hai hệ thống đồng nghĩa với việc duy trì việc kết nối giữa chúng. Điều này phù hợp cho mạch ảo ATM."
       },
       {
         "k": "m",
@@ -254,7 +254,7 @@
       },
       {
         "k": "m",
-        "t": "Kỹ thuật này có nhiều tên gọi như: chuyển mạch tầng 3, chuyển mạch nhiều tầng, short-cut routing (định tuyến tắt), và định tuyến tốc độ cao. Thiếu một tên gọi quy ước, cùng với nhiều kỹ thuật từ các nhà cung cấp khác nhau và các tổ chức xây dựng tiêu chuẩn chỉ làm cho sự việc trở nên khó hiểu hơn. Công nghệ này đầu tiên được Ipsilon giới thiệu, với công nghệ chuyển mạch IP của nó, vì vậy tên IP switching được dùng. Tuy nhiên, IP không phải là giao thức duy nhất được xem xét. Chuyển mạch nhiều tầng có thể là tên tốt nhất vì nó ngụ ý đến nhiều giao thức. ÕÒ thời điểm viết sách này, các nhà cung cấp vẫn còn muốn tìm ra các giải pháp chuyển mạch IP của họ. Hầu hết các hoạt động liên quan đến việc chuyển mạch với sự thông minh của tầng 3 được bàn đến trong \"IP switching\"."
+        "t": "Kỹ thuật này có nhiều tên gọi như: chuyển mạch tầng 3, chuyển mạch nhiều tầng, short-cut routing (định tuyến tắt), và định tuyến tốc độ cao. Thiếu một tên gọi quy ước, cùng với nhiều kỹ thuật từ các nhà cung cấp khác nhau và các tổ chức xây dựng tiêu chuẩn chỉ làm cho sự việc trở nên khó hiểu hơn. Công nghệ này đầu tiên được Ipsilon giới thiệu, với công nghệ chuyển mạch IP của nó, vì vậy tên IP switching được dùng. Tuy nhiên, IP không phải là giao thức duy nhất được xem xét. Chuyển mạch nhiều tầng có thể là tên tốt nhất vì nó ngụ ý đến nhiều giao thức. Ở thời điểm viết sách này, các nhà cung cấp vẫn còn muốn tìm ra các giải pháp chuyển mạch IP của họ. Hầu hết các hoạt động liên quan đến việc chuyển mạch với sự thông minh của tầng 3 được bàn đến trong \"IP switching\"."
       },
       {"k": "m", "t": "Các nhà phát triển IP trên ATM"},
       {
@@ -365,7 +365,7 @@
       },
       {
         "k": "m",
-        "t": "Có trên 20 nhà cung cấp đang hiện thực các kỹ thuật chuyển mạch IP khác nhau. ÕÒ thời điểm sách này được viết, nhiều nhà cung cấp vẫn còn đang hình thành. Một số nhà cung cấp đã hợp lực với nhau. Ngoài ra, IETF và IEEE đang tạo ra sản phẩm khả năng vận hành qua lại (interoperability) và đi đến tạo ra các tiêu chuẩn. Hầu hết các thảo luận về chuyển mạch IP đều xoay quanh chuyển mạch ATM, còn các môi trường chuyển mạch khác cũng được minh họa trong hình, chẳng hạn như Gigabit Ethernet."
+        "t": "Có trên 20 nhà cung cấp đang hiện thực các kỹ thuật chuyển mạch IP khác nhau. Ở thời điểm sách này được viết, nhiều nhà cung cấp vẫn còn đang hình thành. Một số nhà cung cấp đã hợp lực với nhau. Ngoài ra, IETF và IEEE đang tạo ra sản phẩm khả năng vận hành qua lại (interoperability) và đi đến tạo ra các tiêu chuẩn. Hầu hết các thảo luận về chuyển mạch IP đều xoay quanh chuyển mạch ATM, còn các môi trường chuyển mạch khác cũng được minh họa trong hình, chẳng hạn như Gigabit Ethernet."
       },
       {"k": "m", "t": "Kỹ thuật chuyển mạch"},
       {
@@ -669,7 +669,7 @@
       {"k": "m", "t": "Hình I-16 Một chuyển mạch IP dạng Ipsilon"},
       {
         "k": "m",
-        "t": "Trong hình I-17, một đường dẫn được phát hiện đi qua các bộ điều khiển chuyển mạch. Bộ điều khiển chuyển mạch thứ ba phát hiện dòng dữ liệu và yêu cầu các mạch ảo, để giảm đi bộ điều khiển chuyển mạch thứ hai. ÕÒ bước kế tiếp, dòng dữ liệu lại được phát hiện và mạch ảo khác sẽ được thiết lập để loại trừ bộ điều khiển chuyển mạch thứ ba. Việc truyền tải bây giờ sẽ chạy trên mạch ảo giữa các bộ điều khiển chuyển mạch ở các đầu cuối của kết nối."
+        "t": "Trong hình I-17, một đường dẫn được phát hiện đi qua các bộ điều khiển chuyển mạch. Bộ điều khiển chuyển mạch thứ ba phát hiện dòng dữ liệu và yêu cầu các mạch ảo, để giảm đi bộ điều khiển chuyển mạch thứ hai. Ở bước kế tiếp, dòng dữ liệu lại được phát hiện và mạch ảo khác sẽ được thiết lập để loại trừ bộ điều khiển chuyển mạch thứ ba. Việc truyền tải bây giờ sẽ chạy trên mạch ảo giữa các bộ điều khiển chuyển mạch ở các đầu cuối của kết nối."
       },
       {
         "k": "m",
