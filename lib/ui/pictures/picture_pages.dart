@@ -14,6 +14,7 @@ import '../../app/theme.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../data/user_db_more.dart';
+import '../../platform/tts.dart';
 import '../dictionary/quick_def_sheet.dart';
 import '../readings/reading_page.dart' show TocRow;
 import '../widgets/shell.dart';
@@ -90,9 +91,12 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
   final _rnd = Random();
   Size? _imgSize;
 
+  late final TtsService _tts;
+
   @override
   void initState() {
     super.initState();
+    _tts = ref.read(ttsProvider);
     _topic = ref.read(contentDbProvider).pictureTopic(widget.id);
     _picks = ref.read(userDbProvider).picturePicks(widget.id);
     ref.read(userDbProvider).setProgress('pictures', 'last', '${widget.id}');
@@ -108,6 +112,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
   @override
   void dispose() {
     _answer.dispose();
+    _tts.stop();
     super.dispose();
   }
 
@@ -141,14 +146,14 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
       _feedback = null;
       _answer.clear();
     });
-    if (_mode == 2) ref.read(ttsProvider).speak(_topic!.words[t].en);
+    if (_mode == 2) _tts.speak(_topic!.words[t].en);
   }
 
   void _tapSpot(int i) {
     final w = _topic!.words[i];
     if (_mode == 0) {
       setState(() => _current = i);
-      ref.read(ttsProvider).speak(w.en);
+      _tts.speak(w.en);
     } else if (_mode == 2 && _target != null) {
       final ok = i == _target;
       setState(() {
@@ -156,7 +161,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
         _feedback = ok ? 'Đúng: ${w.en} = ${w.vi}' : 'Chưa đúng. Đó là "${w.en}".';
         ok ? _right++ : _wrong++;
       });
-      ref.read(ttsProvider).speak(w.en);
+      _tts.speak(w.en);
       if (ok) Future.delayed(const Duration(milliseconds: 900), () { if (mounted && _mode == 2) _nextTarget(); });
     } else if (_mode == 1) {
       setState(() => _current = i);
@@ -178,7 +183,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
       _feedback = ok ? 'Đúng: ${w.en} = ${w.vi}' : 'Đáp án: ${w.en} = ${w.vi}';
       ok ? _right++ : _wrong++;
     });
-    ref.read(ttsProvider).speak(w.en);
+    _tts.speak(w.en);
   }
 
   @override
@@ -301,7 +306,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
                           TextSpan(text: '  =  ${cur.vi}', style: theme.textTheme.titleMedium),
                         ])),
                 ),
-                if (cur != null) IconButton(tooltip: 'Đọc', icon: const Icon(Icons.volume_up), onPressed: () => ref.read(ttsProvider).speak(cur.en)),
+                if (cur != null) IconButton(tooltip: 'Đọc', icon: const Icon(Icons.volume_up), onPressed: () => _tts.speak(cur.en)),
                 if (cur != null) IconButton(tooltip: 'Tra từ điển', icon: const Icon(Icons.search), onPressed: () => showQuickDef(context, ref, cur.en, source: 'picture:${t.id}')),
                 if (cur != null)
                   IconButton(
@@ -327,7 +332,7 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
             ],
             if (_mode == 2)
               Row(children: [
-                FilledButton.tonalIcon(onPressed: _target == null ? null : () => ref.read(ttsProvider).speak(t.words[_target!].en), icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
+                FilledButton.tonalIcon(onPressed: _target == null ? null : () => _tts.speak(t.words[_target!].en), icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
                 const SizedBox(width: 8),
                 OutlinedButton(onPressed: _target == null ? null : () => setState(() { _current = _target; _feedback = '${t.words[_target!].en} = ${t.words[_target!].vi}'; }), child: const Text('Đáp án')),
                 const SizedBox(width: 8),

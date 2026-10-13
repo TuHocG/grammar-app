@@ -18,6 +18,7 @@ import '../../data/media_locations.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
+import '../../platform/tts.dart';
 import '../widgets/word_tap_text.dart';
 import '../../app/theme.dart';
 import '../widgets/shell.dart';
@@ -85,10 +86,14 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
   Reading? _recording;
   /// The reading whose recording this unit plays (shown and linked in the map).
   ({int id, String title})? _source;
+  late final TtsService _tts;
+  /// Replaced by the next unit, which starts speaking before this page is disposed.
+  bool _replaced = false;
 
   @override
   void initState() {
     super.initState();
+    _tts = ref.read(ttsProvider);
     final db = ref.read(contentDbProvider);
     _items = db.listeningItems(widget.unit);
     _res = List.generate(_items.length, (_) => _Result());
@@ -97,15 +102,24 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     final audio = r != null && r.hasRealAudio ? audioPathFor(ref, r.audio) : null;
     if (r != null && audio != null) {
       _recording = r;
-      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: audio);
+      _player = SentencePlayer(tts: _tts, reading: r, audioPath: audio);
     }
     if (_items.isNotEmpty) _go(0);
   }
 
   @override
   void dispose() {
+    _player?.stopTtsOnDispose = !_replaced;
     _player?.dispose();
+    if (!_replaced) _tts.stop();
     super.dispose();
+  }
+
+  void _openUnit(int unit) {
+    _player?.stop();
+    _tts.stop();
+    _replaced = true;
+    context.pushReplacement('/listening/$unit');
   }
 
   _Result get _r => _res[_pos];
@@ -131,7 +145,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
       await p.stop();
       await p.speakOnce(idx);
     } else {
-      await ref.read(ttsProvider).speak(it.en);
+      await _tts.speak(it.en);
     }
   }
 
@@ -203,7 +217,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
         ]),
         if (nextUnit != null) ...[
           const Divider(height: 24),
-          TextButton(onPressed: () => context.pushReplacement('/listening/$nextUnit'), child: Text('Unit $nextUnit →')),
+          TextButton(onPressed: () => _openUnit(nextUnit), child: Text('Unit $nextUnit →')),
         ],
       ]),
     );
@@ -219,7 +233,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
           const SizedBox(height: 16),
           Wrap(spacing: 8, children: [
             FilledButton(onPressed: _restart, child: const Text('Làm lại')),
-            if (nextUnit != null) OutlinedButton(onPressed: () => context.pushReplacement('/listening/$nextUnit'), child: Text('Unit $nextUnit')),
+            if (nextUnit != null) OutlinedButton(onPressed: () => _openUnit(nextUnit), child: Text('Unit $nextUnit')),
             TextButton(onPressed: () => context.pop(), child: const Text('Đóng')),
           ]),
         ]),

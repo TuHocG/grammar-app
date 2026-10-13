@@ -11,6 +11,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/models.dart';
+import '../../platform/tts.dart';
 import '../dictionary/quick_def_sheet.dart';
 import '../widgets/shell.dart';
 
@@ -26,10 +27,12 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
   bool _showMeaning = false;
   bool _running = true;
   Timer? _timer;
+  late final TtsService _tts;
 
   @override
   void initState() {
     super.initState();
+    _tts = ref.read(ttsProvider);
     _speed = int.tryParse(ref.read(userDbProvider).setting('spin_speed') ?? '') ?? 5;
     _schedule();
   }
@@ -37,6 +40,7 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
   @override
   void dispose() {
     _timer?.cancel();
+    _tts.stop();
     super.dispose();
   }
 
@@ -55,9 +59,9 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
       setState(() => _showMeaning = true);
     } else {
       setState(() { _pos = (_pos + 1) % words.length; _showMeaning = false; });
-      if (_speed <= 7) await ref.read(ttsProvider).speak(words[_pos].headword);   // 8–10: no voice, as in the old app
+      if (_speed <= 7) await _tts.speak(words[_pos].headword);   // 8–10: no voice, as in the old app
     }
-    _schedule();
+    if (mounted) _schedule();
   }
 
   String _meaning(UserWord w) {
@@ -126,7 +130,7 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
                   ]),
                   Wrap(spacing: 8, children: [
                     IconButton(iconSize: 36, icon: Icon(_running ? Icons.pause_circle : Icons.play_circle), onPressed: () { setState(() => _running = !_running); _schedule(); }),
-                    OutlinedButton.icon(onPressed: () => ref.read(ttsProvider).speak(w.headword), icon: const Icon(Icons.volume_up), label: const Text('Đọc')),
+                    OutlinedButton.icon(onPressed: () => _tts.speak(w.headword), icon: const Icon(Icons.volume_up), label: const Text('Đọc')),
                     OutlinedButton.icon(onPressed: () => setState(() => _showMeaning = true), icon: const Icon(Icons.visibility), label: const Text('Nghĩa')),
                     OutlinedButton.icon(
                       onPressed: () { ref.read(userWordsProvider.notifier).setMarked(w.id, false); setState(() => _showMeaning = false); },

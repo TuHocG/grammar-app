@@ -9,6 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
+import '../../platform/tts.dart';
 
 List<String> scrambleTokens(String en) =>
     en.replaceAll(RegExp(r"[^\w\s'’-]"), ' ').split(RegExp(r'\s+')).where((w) => w.isNotEmpty).toList();
@@ -39,12 +40,21 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
   bool _reported = false;
   final _rnd = Random();
 
+  late final TtsService _tts;
+
   @override
   void initState() {
     super.initState();
+    _tts = ref.read(ttsProvider);
     _target = scrambleTokens(widget.sentence);
     _pool = List.of(_target)..shuffle(_rnd);
     if (_pool.join(' ') == _target.join(' ') && _pool.length > 1) _pool = _pool.reversed.toList();
+  }
+
+  @override
+  void dispose() {
+    _tts.stop();
+    super.dispose();
   }
 
   bool get done => _placed.length == _target.length;
@@ -75,7 +85,7 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
   void _finish() {
     if (_reported) return;
     _reported = true;
-    if (widget.speakOnSolved) ref.read(ttsProvider).speak(widget.sentence);
+    if (widget.speakOnSolved) _tts.speak(widget.sentence);
     widget.onSolved?.call(_revealedFrom != null);
   }
 
@@ -115,7 +125,7 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
       Row(children: [
         OutlinedButton(onPressed: done ? null : _reveal, child: const Text('Đáp án')),
         const SizedBox(width: 8),
-        IconButton(tooltip: 'Nghe câu', icon: const Icon(Icons.volume_up), onPressed: () => ref.read(ttsProvider).speak(widget.sentence)),
+        IconButton(tooltip: 'Nghe câu', icon: const Icon(Icons.volume_up), onPressed: () => _tts.speak(widget.sentence)),
         const Spacer(),
         if (done) Flexible(child: Text(widget.sentence, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary), textAlign: TextAlign.right)),
       ]),

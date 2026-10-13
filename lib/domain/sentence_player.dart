@@ -35,6 +35,10 @@ class SentencePlayer extends ChangeNotifier {
   bool _sourceSet = false;
   Completer<void>? _segment;
 
+  /// False when the page is replaced by one that may already be speaking through the
+  /// shared [tts]; that page stops the old one itself before navigating.
+  bool stopTtsOnDispose = true;
+
   SentencePlayer({required this.tts, required this.reading, this.audioPath});
 
   bool get useRecording => audioPath != null && reading.hasRealAudio && !_recordingFailed;
@@ -162,7 +166,7 @@ class SentencePlayer extends ChangeNotifier {
     _posSub?.cancel();
     _doneSub?.cancel();
     _player?.dispose();
-    tts.stop();
+    if (stopTtsOnDispose) tts.stop();
     super.dispose();
   }
 }
