@@ -6596,7 +6596,7 @@
   {"h": "non-add", "segs": [{"k": "m", "t": "không thêm vào."}], "k": "non-add"},
   {
     "h": "non-addictive",
-    "segs": [{"k": "m", "t": "tt.(thuốc, thói quenỊ) không gây nghiện ngập."}],
+    "segs": [{"k": "m", "t": "tt.(thuốc, thói quen…) không gây nghiện ngập."}],
     "ipa": "nɔnə'diktiv",
     "k": "non-addictive"
   },
@@ -27466,7 +27466,7 @@
       },
       {
         "k": "m",
-        "t": "\"I do not believeỊthat an individual may gain spiritually and those who around him suffer. I believe in... nonduality, I believe in the essential unity of man and, for that matter, of all that lives. Therefore I believe that if one man gains spiritually, the whole world gains with him and, if one man falls, the whole world falls to that extent.\" Gandhi"
+        "t": "\"I do not believe…that an individual may gain spiritually and those who around him suffer. I believe in... nonduality, I believe in the essential unity of man and, for that matter, of all that lives. Therefore I believe that if one man gains spiritually, the whole world gains with him and, if one man falls, the whole world falls to that extent.\" Gandhi"
       }
     ],
     "k": "nonduality"
