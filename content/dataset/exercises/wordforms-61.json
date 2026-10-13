@@ -3503,11 +3503,11 @@
     "id": 36878,
     "g": "41",
     "kind": "fill",
-    "text": "100.4in F (38in C) measured {0} (in the bottom)",
+    "text": "100.4°F (38°C) measured {0} (in the bottom)",
     "tt": 1,
     "blanks": [{"a": "rectally", "alt": [], "n": 5}],
     "given": ["postrectal"],
-    "vi": "100.4in F (38in C) đo nhiệt độ trực tràng (đo ở hậu môn của bé)"
+    "vi": "100.4°F (38°C) đo nhiệt độ trực tràng (đo ở hậu môn của bé)"
   },
   {
     "id": 36879,

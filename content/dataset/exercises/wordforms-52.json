@@ -3163,11 +3163,11 @@
     "id": 32344,
     "g": "41",
     "kind": "fill",
-    "text": "99.5in F (37.5in C) measured {0} (in the mouth)",
+    "text": "99.5°F (37.5°C) measured {0} (in the mouth)",
     "tt": 1,
     "blanks": [{"a": "orally", "alt": [], "n": 5}],
     "given": ["orality"],
-    "vi": "99.5in F (37.5in C) đo ở miệng."
+    "vi": "99.5°F (37.5°C) đo ở miệng."
   },
   {
     "id": 32345,

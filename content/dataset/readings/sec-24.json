@@ -6662,7 +6662,7 @@
       ["Rash with fever"],
       ["If you have a rash without fever"],
       [
-        "If you or your child has a temperature of 38inC (100inF) or above, you should check whether a rash is also present.",
+        "If you or your child has a temperature of 38°C (100°F) or above, you should check whether a rash is also present.",
         "A rash with fever is usually caused by a viral infection.",
         "Most viral infections are not serious.",
         "However, a rash may alert you to the possibility of potentially life-threatening meningitis."
@@ -6692,7 +6692,7 @@
       ["Nổi ban cùng với sốt"],
       ["Nếu bạn nổi ban mà không có sốt."],
       [
-        "Nếu bạn hay con bạn có nhiệt độ 38in hay cao hơn, bạn phải kiểm tra xem có nổi ban không.",
+        "Nếu bạn hay con bạn có nhiệt độ 38°C hay cao hơn, bạn phải kiểm tra xem có nổi ban không.",
         "Nổi ban cùng với sốt thường do nhiễm một bệnh virus gây ra.",
         "Phần lớn các bệnh nhiễm virus thì không, nghiêm trọng.",
         "Tuy nhiên, nổi ban có thể báo động cho bạn khả năng tiềm tàng của chứng viêm màng não nguy hiểm chết người."
@@ -7175,7 +7175,7 @@
         "If given treatment without delay, 9 in 10 people make a full recovery."
       ],
       [
-        "To reduce the risk of poisoning, you should pressure-cook home-preserved food for at least 30 minutes at 120inC (250inF)",
+        "To reduce the risk of poisoning, you should pressure-cook home-preserved food for at least 30 minutes at 120°C (250°F)",
         "and ensure that all containers are sterilized.",
         "Babies under the age of 12 months should not be given honey."
       ]
@@ -23822,7 +23822,7 @@
       ["Lifestyle Homelessness and outdoor activities in cold climates are risk factors"],
       ["Gender Genetics Not significant factors"],
       [
-        "Hypothermia is a condition that occurs when the body's temperature, normally about 37inC (98.6inF) falls below 35inC (95inF).",
+        "Hypothermia is a condition that occurs when the body's temperature, normally about 37°C (98.6°F) falls below 35°C (95°F).",
         "The body normally has various warming mechanisms, including shivering, that replace lost heat.",
         "However, if the environment is too cold or if the body's warming mechanisms fail, hypothermia develops.",
         "Hypothermia may be associated with frostbite arid, if it is extreme, can be life-threatening."
@@ -23901,7 +23901,7 @@
       ],
       ["Giới tính Sự di truyền Không phải là các yếu tố đáng kể"],
       [
-        "Giảm nhiệt là một tình trạng xảy ra khi nhiệt độ cơ thể, thường khoảng 37inC, rơi xuống 35inC.",
+        "Giảm nhiệt là một tình trạng xảy ra khi nhiệt độ cơ thể, thường khoảng 37°C, rơi xuống 35°C.",
         "Cơ thể thường có các cơ chế làm ấm đa dạng, kể cả rùng mình để thay thế nhiệt độ bị mất.",
         "Tuy nhiên, nếu môi trường quả lạnh hay nếu các cơ chế làm ấm của cơ thể bị suy yếu, chứng giảm nhiệt phát triển.",
         "Giảm nhiệt có thể liên quan với chứng thương tổn lạnh giá và, nếu lên đến đỉnh điểm, có thể đe dọa đến tính mạng."
@@ -40850,7 +40850,7 @@
         "Heatstroke is a life-threatening medical emergency."
       ],
       [
-        "Heat exhaustion and heatstroke most commonly occur above 40inC (104inF).",
+        "Heat exhaustion and heatstroke most commonly occur above 40°C (104°F).",
         "High humidity levels increase the risk of heatstroke because sweating is ineffective and heat loss is decreased."
       ],
       ["+Who is at risk?"],
@@ -40897,7 +40897,7 @@
         "Treatment for heatstroke is usually carried out in an intensive care unit.",
         "Body temperature is lowered by sponging the body with tepid water or loosely wrapping the person in p wet sheet and placing him or her near a fan.",
         "Intravenous fluids are given.",
-        "Once the body temperature has been reduced to 38inC (100inF), these cooling procedures are stopped to prevent the development of hypothermia.",
+        "Once the body temperature has been reduced to 38°C (100°F), these cooling procedures are stopped to prevent the development of hypothermia.",
         "Monitoring is carried out continuously to make sure that the body temperature is returning to normal levels and that vital organs are functioning normally.",
         "In some severe cases, mechanical ventilation may be required to assist breathing."
       ],
@@ -40927,7 +40927,7 @@
         "Đột quỵ do nhiệt là một tình trạng khẩn cấp đe dọa tính mạng."
       ],
       [
-        "Kiệt sức và đột quỵ do nhiệt thường xảy ra nhất ở nhiệt độ trên 40inC.",
+        "Kiệt sức và đột quỵ do nhiệt thường xảy ra nhất ở nhiệt độ trên 40°C.",
         "Độ ẩm cao lâm tăng nguy cơ đột quỵ do sự tiết mồ hôi không hiệu quả và sự giải nhiệt bị giảm."
       ],
       ["Ai có nguy cơ bị bệnh?"],
@@ -40974,7 +40974,7 @@
         "Sự điều trị đột quỵ do nhiệt thường được thực hiện ở một trung tâm chăm sóc sâu.",
         "Nhiệt độ cơ thể được hạ thấp bằng cách thấm nước ấm hay quấn lỏng nạn nhân bằng một tấm trải giường ẩm và đặt nạn nhân gần quạt máy.",
         "Truyền chất dịch qua tĩnh mạch.",
-        "Một khi nhiệt độ cơ thể đã giảm đến 38inC, các thủ tục làm mát được ngừng để phòng ngừa phát triển chứng giảm nhiệt",
+        "Một khi nhiệt độ cơ thể đã giảm đến 38°C, các thủ tục làm mát được ngừng để phòng ngừa phát triển chứng giảm nhiệt",
         "Việc kiểm tra được tiến hành liên tục để hảo đảm rằng nhiệt độ cơ thể trở lại bình thường và các cơ quan đang hoạt động bình thường.",
         "Trong một số trường hợp nghiêm trọng, sự thông khí cơ học có thể cần để giúp sự hô hấp."
       ],
@@ -54880,14 +54880,14 @@
     "en": [
       ["For children under 12"],
       [
-        "Normal temperature varies from one person to another, but if your temperature is 38inC (100inF) or above, you have a fever.",
+        "Normal temperature varies from one person to another, but if your temperature is 38°C (100°F) or above, you have a fever.",
         "Most fevers are due to infection, but heat exposure or certain drugs can also raise body temperature.",
         "In all cases, follow the self-help advice for bringing down a fever."
       ],
       ["Fever in children"],
       ["For children of 12 and over"],
       [
-        "A fever is a temperature of 38inC (100inF) or above.",
+        "A fever is a temperature of 38°C (100°F) or above.",
         "If your child is unwell, you should take his or her temperature because a high fever may need urgent treatment.",
         "If a feverish child becomes unresponsive, call an ambulance.",
         "In all eases, follow the advice for bringing down a fever."
@@ -54910,7 +54910,7 @@
       ["Sốt ở trẻ em"],
       ["Cho trẻ trên 12 tuổi hay lớn hơn"],
       [
-        "Sốt là có thân nhiệt 38inC hay cao hơn.",
+        "Sốt là có thân nhiệt 38°C hay cao hơn.",
         "Nếu con bạn mệt, bạn phải đo nhiệt độ cho bé, vì sốt cao có thể phải cần được điều trị khẩn cấp.",
         "Nếu đứa trẻ sốt trở nên mê man, hãy gọi ngay xe cấp cứu.",
         "Trong mọi trường hợp bạn hãy áp dụng lời khuyên để làm hạ sốt."
@@ -72085,7 +72085,7 @@
       [
         "“ Intense pain that begins in the back just above the waist and then moves to the side and groin."
       ],
-      ["“ Fever over 38inC, resulting in shivering and headache."],
+      ["“ Fever over 38°C, resulting in shivering and headache."],
       ["“ Painful, frequent passing of urine."],
       ["“ Cloudy, blood-stained urine."],
       ["“ Foul-smelling urine."],
@@ -80449,7 +80449,7 @@
       [
         "A low sperm count or the production of abnormal sperm may have various causes.",
         "One is a rise in the temperature of the testes.",
-        "Normally, the testes are about 2inC (4inF) cooler than the rest of the body.",
+        "Normally, the testes are about 2°C (4°F) cooler than the rest of the body.",
         "Any factors that raise their temperature can reduce the sperm count."
       ],
       [
@@ -80525,7 +80525,7 @@
       [
         "Số lượng tinh trùng đếm được thấp hay sự sản xuất ra các tinh trùng bất thường có thể có nhiều nguyên nhân.",
         "Một nguyên nhân là nhiệt độ trong tinh hoàn lên cao.",
-        "Bình thường tình hoàn lạnh hơn các phần khác của cơ thể khoảng 2inC.",
+        "Bình thường tình hoàn lạnh hơn các phần khác của cơ thể khoảng 2°C.",
         "Bất kỳ yếu tố nào làm gia tăng nhiệt độ của tinh hoàn đều có thể làm giảm lượng tinh trung đếm được."
       ],
       [

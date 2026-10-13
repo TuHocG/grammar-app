@@ -4913,7 +4913,7 @@
     "id": 38519,
     "g": "41",
     "kind": "fill",
-    "text": "The main steering gear shall be capable of putting the {0} over from 35in on one side to 30inon the other side in not more than 28 s.",
+    "text": "The main steering gear shall be capable of putting the {0} over from 35° on one side to 30° on the other side in not more than 28 s.",
     "tt": 1,
     "blanks": [{"a": "rudder", "alt": [], "n": 5}],
     "given": ["ruddered"],

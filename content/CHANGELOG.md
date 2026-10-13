@@ -19,6 +19,7 @@ Bản dữ liệu 2019 của tác giả (thư mục `Data G/Code`, mới hơn b�
 - Ảnh cho bài cũ "origins of Life" của Grammar 3.1, vốn không có ảnh: ảnh NASA chụp Stanley Miller bên bộ thí nghiệm. Các bài Lớp 6-12 và bài Phiên Âm Quốc Tế không có ảnh giữ nguyên như app gốc.
 - Chữ Đ hoa: 32.266 chỗ trong mọi phần nội dung là ký tự `Ð` (U+00D0, chữ Eth Iceland, trông giống hệt) do bảng mã VPS của ETL giải mã sai; nay là `Đ` (U+0110), tìm kiếm "Đ…" khớp được và giọng đọc đọc đúng.
 - Dấu "…" mà tác giả gõ bằng mã cp1252 hiện thành chữ "Ị" (cả ở app gốc): 41 chỗ như "sinh ra ở OmahaỊ", "(Ị nổi tiếng)" nay là "…"; chữ Ị thật trong chữ hoa (LỊCH, ĐỊCH, BỊ…) giữ nguyên.
+- Dấu độ "°" tác giả gõ bằng mã cp1252 trùng với mã nén "in" của app gốc nên hiện thành "in" (cả ở app gốc): 81 chỗ như "38inC (100inF)", "kinh độ 135in W", "quay 90in" nay là "°"; các chỗ "in" là inch thật (7.9in, 0,5in) giữ nguyên.
 
 ## 1.0.0 — 2026-10-07
 

@@ -20246,7 +20246,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "standard time in New Zealand: the standard time in the time zone with an eastern border of 180in longitude that includes New Zealand."
+        "t": "standard time in New Zealand: the standard time in the time zone with an eastern border of 180° longitude that includes New Zealand."
       },
       {"k": "m", "t": "It is 12 hours later than universal time."}
     ],
@@ -20659,7 +20659,7 @@
       {"k": "pos", "t": "danh từ"},
       {
         "k": "m",
-        "t": "time zone in Newfoundland: the standard time in the time zone centered on 52in 30' W longitude, which includes Newfoundland, Canada. It is three-and-a-half hours behind Universal Time."
+        "t": "time zone in Newfoundland: the standard time in the time zone centered on 52° 30' W longitude, which includes Newfoundland, Canada. It is three-and-a-half hours behind Universal Time."
       }
     ],
     "k": "newfoundland standard time"

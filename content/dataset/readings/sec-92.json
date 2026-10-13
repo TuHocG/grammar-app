@@ -36,15 +36,15 @@
       [
         "- Here is tomorrow weather forecast.",
         "Ha Noi and areas to the north will be sunny.",
-        "Ha Noi will have temperatures between 23inC and 27inC.",
+        "Ha Noi will have temperatures between 23°C and 27°C.",
         "It will be raining along the coast of Thanh Hoa.",
         "The south-central coast can expect thunderstorms.",
-        "Hue will experience temperatures between 25inC and 30inC.",
+        "Hue will experience temperatures between 25°C and 30°C.",
         "There will also be thunderstorms over the central highlands."
       ],
       [
         "- Areas around the Cuu Long Delta can expect clouds during the day.",
-        "Ho Chi Minh City temperatures will be between 27inC and 35inC."
+        "Ho Chi Minh City temperatures will be between 27°C and 35°C."
       ],
       ["- That's all, Grandma."],
       ["- Thank you, dear.", "What are you doing?"],
@@ -72,7 +72,7 @@
       [
         "Đây là dự báo thời tiết cho ngày mai.",
         "Hà Nội và các khu vực phía bắc có nắng.",
-        "Nhiệt độ ở Hà Nội từ 23inC đến 27inC.",
+        "Nhiệt độ ở Hà Nội từ 23°C đến 27°C.",
         "Vùng bờ biển Thanh Hóa có mưa.",
         "Vùng bờ biển Nam Trung bộ có thể có bão.",
         "Nhiệt độ ở Huế từ 25inc đến 30inc.",
@@ -80,7 +80,7 @@
       ],
       [
         "Khu vực đồng bằng sông Cửu Long ngày có mây.",
-        "Nhiệt độ tại thành phố Hồ Chí Minh từ 27inC đến 35inC."
+        "Nhiệt độ tại thành phố Hồ Chí Minh từ 27°C đến 35°C."
       ],
       ["Bà ơi, hết rồi đấy."],
       ["Cám ơn cháu.", "Cháu đang làm gì thế?"],
@@ -111,7 +111,7 @@
       ],
       ["2. It will be rainy along the coast of Thanh Hoa."],
       ["3. The central highlands will experience thunderstorms."],
-      ["4. Ho Chi Minh City will have temperatures between 27inC and 35inC."],
+      ["4. Ho Chi Minh City will have temperatures between 27°C and 35°C."],
       ["5. Although Thuy's grandmother doesn't, trust weather forecasts, she likes watching them."]
     ],
     "vi": [
@@ -123,7 +123,7 @@
       ],
       ["Vùng bờ biển Thanh Hóa sẽ có mưa."],
       ["Vùng cao nguyên Trung bộ sẽ có bão."],
-      ["Thành phố Hồ Chí Minh có nhiệt độ từ 27inC đến 35inC."],
+      ["Thành phố Hồ Chí Minh có nhiệt độ từ 27°C đến 35°C."],
       [
         "Mặc dù bà của Thúy không tin vào các chương trình dự báo thời tiết, bà vẫn thích xem chúng."
       ]

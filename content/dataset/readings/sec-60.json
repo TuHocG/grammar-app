@@ -15,7 +15,7 @@
       ["- Yes."],
       ["- Follow me, please.", "First, I need to take your temperature."],
       ["- OK."],
-      ["- Would you open your mouth, please?", "Thank you.", "That is 37inC.", "That's normal."],
+      ["- Would you open your mouth, please?", "Thank you.", "That is 37°C.", "That's normal."],
       ["- Now I need to know your height.", "Would you stand here please, so I can measure you?"],
       ["- Like this?"],
       ["- That's fine.", "You're one meter 45 centimeters tall."],
