@@ -197,7 +197,7 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
                       const SizedBox(height: 12),
                       Text('Chọn một từ bên trái để xem mục từ.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
                       const SizedBox(height: 4),
-                      Text('Thứ tự tra như app gốc: nghĩa nhanh → mục đầy đủ → dạng gốc → họ từ', style: theme.textTheme.bodySmall),
+                      Text('Thứ tự tra: nghĩa nhanh → mục đầy đủ → dạng gốc → họ từ', style: theme.textTheme.bodySmall),
                     ]),
                   )
                 : SingleChildScrollView(child: EntryCard(result: result)),

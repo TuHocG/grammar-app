@@ -266,7 +266,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
               label: const Text('Điền đáp án'),
             ),
           if (e.kind == 'choice' && !_r.graded)
-            Text('Chọn sai lần đầu = không tính điểm, như app gốc', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+            Text('Chọn sai lần đầu = không tính điểm', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
         ]),
       ]),
     );

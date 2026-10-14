@@ -308,7 +308,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
               onPressed: _next,
               child: Row(mainAxisSize: MainAxisSize.min, children: [Text(_pos == n - 1 ? 'Kết thúc' : 'Next'), const SizedBox(width: 4), const Icon(Icons.chevron_right, size: 18)]),
             ),
-            if (!_r.graded) Text('Chọn sai lần đầu = không tính điểm, như app gốc', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+            if (!_r.graded) Text('Chọn sai lần đầu = không tính điểm', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
           ]),
         ]),
       );

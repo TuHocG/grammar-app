@@ -160,7 +160,7 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
           TextField(
             controller: _en,
             maxLines: 10,
-            decoration: const InputDecoration(labelText: 'Tiếng Anh', helperText: 'Mỗi đoạn cách nhau một dòng trống; câu tự tách theo dấu chấm, hoặc dùng _ để tách câu như app gốc.', border: OutlineInputBorder(), alignLabelWithHint: true),
+            decoration: const InputDecoration(labelText: 'Tiếng Anh', helperText: 'Mỗi đoạn cách nhau một dòng trống; câu tự tách theo dấu chấm, hoặc dùng dấu _ để tách câu.', border: OutlineInputBorder(), alignLabelWithHint: true),
             onChanged: (_) => setState(() {}),
           ),
           const SizedBox(height: 12),
