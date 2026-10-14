@@ -35,7 +35,8 @@ class UserReading {
   }
 }
 
-/// Split free text into paragraphs (blank line) and sentences ('_' or . ! ? followed by space).
+/// Split free text into paragraphs (blank line) and sentences ('_' or . ! ? followed by space
+/// and a capital — any script, so Vietnamese "Đ", "Ô" count — a digit or an opening quote).
 List<List<String>> splitText(String text) {
   final paras = text.replaceAll('\r\n', '\n').split(RegExp(r'\n\s*\n'));
   final out = <List<String>>[];
@@ -44,7 +45,7 @@ List<List<String>> splitText(String text) {
     if (flat.isEmpty) continue;
     final parts = flat.contains('_')
         ? flat.split('_')
-        : flat.split(RegExp(r'(?<=[.!?])\s+(?=[A-Z"“(])'));
+        : flat.split(RegExp(r'(?<=[.!?])\s+(?=[\p{Lu}\d"“‘(])', unicode: true));
     final sents = parts.map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
     if (sents.isNotEmpty) out.add(sents);
   }
