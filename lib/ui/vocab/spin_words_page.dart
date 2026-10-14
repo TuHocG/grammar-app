@@ -1,6 +1,7 @@
 /// Quay Từ (docs/08 V5, V6): marked words come up one after another as flashcards
 /// (word → read aloud → meaning), speed 1–10; tap the card to look the word up; "Đã thuộc"
-/// removes the mark. Replaces the old scrolling-text display.
+/// removes the mark. With nothing marked, all saved words come up instead (no "Đã thuộc").
+/// Replaces the old scrolling-text display.
 library;
 
 import 'dart:async';
@@ -52,8 +53,14 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
     _timer = Timer(_interval, _tick);
   }
 
+  /// Marked words, or every saved word when none is marked (`all` = true).
+  static (List<UserWord>, bool all) _deck(List<UserWord> saved) {
+    final marked = saved.where((w) => w.marked).toList();
+    return marked.isEmpty ? (saved, true) : (marked, false);
+  }
+
   Future<void> _tick() async {
-    final words = ref.read(userWordsProvider).words.where((w) => w.marked).toList();
+    final (words, _) = _deck(ref.read(userWordsProvider).words);
     if (words.isEmpty) return;
     if (!_showMeaning) {
       setState(() => _showMeaning = true);
@@ -73,7 +80,7 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final words = ref.watch(userWordsProvider).words.where((w) => w.marked).toList();
+    final (words, all) = _deck(ref.watch(userWordsProvider).words);
     if (_pos >= words.length) _pos = 0;
     final w = words.isEmpty ? null : words[_pos];
     return Scaffold(
@@ -85,10 +92,15 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
           ? Center(
               child: Padding(
                 padding: const EdgeInsets.all(32),
-                child: Text('Chưa có từ nào được đánh dấu sao trong Từ Vựng Của Bạn.', textAlign: TextAlign.center, style: theme.textTheme.bodyLarge),
+                child: Text('Chưa có từ nào trong Từ Vựng Của Bạn. Chạm một từ trong bài rồi bấm Lưu.', textAlign: TextAlign.center, style: theme.textTheme.bodyLarge),
               ),
             )
           : Column(children: [
+              if (all)
+                Padding(
+                  padding: const EdgeInsets.fromLTRB(16, 12, 16, 0),
+                  child: Text('Chưa đánh dấu sao từ nào nên đang ôn tất cả từ đã lưu.', textAlign: TextAlign.center, style: theme.textTheme.bodySmall),
+                ),
               Expanded(
                 child: Center(
                   child: GestureDetector(
@@ -103,7 +115,8 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
                           const SizedBox(height: 16),
                           AnimatedOpacity(
                             opacity: _showMeaning ? 1 : 0,
-                            duration: const Duration(milliseconds: 250),
+                            // Fade in only: hiding happens as the card switches word, so a fade-out would flash the next meaning.
+                            duration: _showMeaning ? const Duration(milliseconds: 250) : Duration.zero,
                             child: Text(_meaning(w), textAlign: TextAlign.center, style: theme.textTheme.titleLarge),
                           ),
                         ]),
@@ -132,7 +145,7 @@ class _SpinWordsPageState extends ConsumerState<SpinWordsPage> {
                     IconButton(iconSize: 36, icon: Icon(_running ? Icons.pause_circle : Icons.play_circle), onPressed: () { setState(() => _running = !_running); _schedule(); }),
                     OutlinedButton.icon(onPressed: () => _tts.speak(w.headword), icon: const Icon(Icons.volume_up), label: const Text('Đọc')),
                     OutlinedButton.icon(onPressed: () => setState(() => _showMeaning = true), icon: const Icon(Icons.visibility), label: const Text('Nghĩa')),
-                    OutlinedButton.icon(
+                    if (!all) OutlinedButton.icon(
                       onPressed: () { ref.read(userWordsProvider.notifier).setMarked(w.id, false); setState(() => _showMeaning = false); },
                       icon: const Icon(Icons.check),
                       label: const Text('Đã thuộc'),

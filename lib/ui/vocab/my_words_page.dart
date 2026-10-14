@@ -98,7 +98,17 @@ class _MyWordsPageState extends ConsumerState<MyWordsPage> {
                 ),
               ),
             )
-          : ListView.builder(
+          : Column(children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
+                child: Row(children: [
+                  Icon(Icons.star_border, size: 16, color: theme.colorScheme.outline),
+                  const SizedBox(width: 6),
+                  Expanded(child: Text('Bấm ngôi sao để đánh dấu từ cần ôn trong Quay Từ.', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline))),
+                ]),
+              ),
+              Expanded(
+                child: ListView.builder(
               padding: const EdgeInsets.only(bottom: 88),
               itemCount: words.length,
               itemBuilder: (context, i) {
@@ -116,7 +126,9 @@ class _MyWordsPageState extends ConsumerState<MyWordsPage> {
                   child: _WordTile(word: w, index: i + 1, onSpeak: () => tts.speak(w.headword)),
                 );
               },
-            ),
+                ),
+              ),
+            ]),
     );
   }
 }

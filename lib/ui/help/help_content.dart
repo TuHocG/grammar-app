@@ -379,10 +379,10 @@ Mọi từ bạn bấm **Lưu từ** khi học, kèm câu chứa từ đó, theo
 - **Từ mới**: tự thêm từ. **Lọc** để tìm trong danh sách; nút ngôi sao ở góc trên chỉ hiện các từ đã đánh dấu.
 
 ## Quay Từ
-Các từ đã đánh dấu sao lần lượt hiện như thẻ ghi nhớ: từ hiện trước (máy đọc), nghĩa hiện sau.
+Các từ đã đánh dấu sao lần lượt hiện như thẻ ghi nhớ: từ hiện trước (máy đọc), nghĩa hiện sau. Chưa đánh dấu từ nào thì ôn tất cả từ đã lưu.
 - **Tốc độ** 1–10; từ 8 trở lên máy không đọc.
 - Nút tạm dừng/chạy, **Đọc**, **Nghĩa**, **Tiếp**. Chạm thẻ để tra từ.
-- **Đã thuộc**: bỏ dấu sao, từ không hiện trong Quay Từ nữa.
+- **Đã thuộc**: bỏ dấu sao, từ không hiện trong Quay Từ nữa (chỉ có khi đang ôn từ đánh dấu sao).
 
 Nên ôn ít nhất 2 lần mỗi ngày.
 ''',
