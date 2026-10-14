@@ -1,6 +1,7 @@
 /// Cài Đặt: voice, speed 1–7, font size, theme (docs/08 G15, G18).
 library;
 
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -9,6 +10,7 @@ import 'dart:typed_data';
 
 import 'package:file_picker/file_picker.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../app/config.dart';
 import '../../app/providers.dart';
@@ -25,6 +27,20 @@ class SettingsPage extends ConsumerStatefulWidget {
 
 class _SettingsPageState extends ConsumerState<SettingsPage> {
   List<TtsVoice>? _voices;
+  late final _siteLink = TapGestureRecognizer()
+    ..onTap = () async {
+      var ok = false;
+      try {
+        ok = await launchUrl(Uri.parse('https://tuhocg.github.io/grammar-4.html'), mode: LaunchMode.externalApplication);
+      } catch (_) {}
+      if (!ok) _snack('Không mở được trình duyệt');
+    };
+
+  @override
+  void dispose() {
+    _siteLink.dispose();
+    super.dispose();
+  }
 
   void _snack(String text) {
     if (mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(text)));
@@ -178,9 +194,18 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           const _Header('Dữ liệu'),
           const ContentSourcesSection(),
           const _Header('Giới thiệu'),
-          const ListTile(
-            title: Text(appTitleWithVersion),
-            subtitle: Text('Kế thừa và tiếp tục phát triển Grammar 3.1 của TuHocTiengAnh.net theo uỷ thác của tác giả. Miễn phí; không được bán hay phân phối lại dữ liệu.'),
+          ListTile(
+            title: const Text(appTitleWithVersion),
+            subtitle: Text.rich(TextSpan(children: [
+              const TextSpan(text: 'Kế thừa và tiếp tục phát triển Grammar 3.1 của tuhocg.weebly.com. Trang chủ mới: '),
+              TextSpan(
+                text: 'tuhocg.github.io',
+                style: const TextStyle(color: Colors.blue),
+                recognizer: _siteLink,
+                mouseCursor: SystemMouseCursors.click,
+              ),
+              const TextSpan(text: '.\nMiễn phí; không được bán hay phân phối lại dữ liệu.'),
+            ])),
           ),
             ]),
           ),
