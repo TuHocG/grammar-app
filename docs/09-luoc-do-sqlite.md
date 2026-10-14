@@ -49,7 +49,7 @@ Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ?
 | `user_dialog_skip` | dialog_id, pair_idx | "Bỏ câu này" |
 | `user_picture_pick` | topic_id, word_idx | tiêu điểm đã chọn (`dataHH.xy` byte cờ) |
 | `user_wordform_mark` | root_position, level (1 đỏ sáng, 2 đỏ sẫm) | trạng thái bảng Word Forms |
-| `user_reading` | id, package, title, en (JSON), vi (JSON), img, grammar_refs (JSON), created_at | `BaiNhap/` |
+| `user_reading` | id, package, title, en (JSON), vi (JSON), img, created_at | `BaiNhap/` |
 | `user_setting` | key, value | tốc độ, giọng, cỡ chữ, chủ đề |
 
 Khoá `user_progress` (kind / item_id → state) app đang dùng:

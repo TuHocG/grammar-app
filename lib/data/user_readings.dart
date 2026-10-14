@@ -18,9 +18,8 @@ class UserReading {
   final List<List<String>> en;
   final List<List<String>> vi;
   final String? img;      // absolute path chosen by the user
-  final List<int> grammarRefs;   // "Ngu Phap" readings: list of lesson refs
   final DateTime createdAt;
-  const UserReading({required this.id, required this.package, required this.title, required this.en, required this.vi, this.img, required this.grammarRefs, required this.createdAt});
+  const UserReading({required this.id, required this.package, required this.title, required this.en, required this.vi, this.img, required this.createdAt});
 
   Reading toReading() {
     final sentences = <Sentence>[];
@@ -68,17 +67,17 @@ extension UserReadings on UserDb {
     return rows.isEmpty ? null : _ur(rows.first);
   }
 
-  int insertUserReading({required String package, required String title, required List<List<String>> en, required List<List<String>> vi, String? img, List<int> grammarRefs = const []}) {
+  int insertUserReading({required String package, required String title, required List<List<String>> en, required List<List<String>> vi, String? img}) {
     raw.execute(
-      'INSERT INTO user_reading(package, title, en, vi, img, grammar_refs, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)',
-      [package, title, jsonEncode(en), jsonEncode(vi), img, jsonEncode(grammarRefs), DateTime.now().millisecondsSinceEpoch],
+      'INSERT INTO user_reading(package, title, en, vi, img, created_at) VALUES (?, ?, ?, ?, ?, ?)',
+      [package, title, jsonEncode(en), jsonEncode(vi), img, DateTime.now().millisecondsSinceEpoch],
     );
     return raw.lastInsertRowId;
   }
 
-  void updateUserReading(int id, {required String package, required String title, required List<List<String>> en, required List<List<String>> vi, String? img, List<int> grammarRefs = const []}) {
-    raw.execute('UPDATE user_reading SET package = ?, title = ?, en = ?, vi = ?, img = ?, grammar_refs = ? WHERE id = ?',
-        [package, title, jsonEncode(en), jsonEncode(vi), img, jsonEncode(grammarRefs), id]);
+  void updateUserReading(int id, {required String package, required String title, required List<List<String>> en, required List<List<String>> vi, String? img}) {
+    raw.execute('UPDATE user_reading SET package = ?, title = ?, en = ?, vi = ?, img = ? WHERE id = ?',
+        [package, title, jsonEncode(en), jsonEncode(vi), img, id]);
   }
 
   void deleteUserReading(int id) => raw.execute('DELETE FROM user_reading WHERE id = ?', [id]);
@@ -90,7 +89,6 @@ extension UserReadings on UserDb {
         en: (jsonDecode(r['en'] as String) as List).map((p) => (p as List).cast<String>()).toList(),
         vi: (jsonDecode(r['vi'] as String) as List).map((p) => (p as List).cast<String>()).toList(),
         img: r['img'] as String?,
-        grammarRefs: r['grammar_refs'] == null ? const [] : (jsonDecode(r['grammar_refs'] as String) as List).cast<int>(),
         createdAt: DateTime.fromMillisecondsSinceEpoch(r['created_at'] as int),
       );
 }

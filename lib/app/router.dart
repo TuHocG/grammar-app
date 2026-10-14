@@ -158,7 +158,6 @@ GoRouter buildRouter() => GoRouter(
         GoRoute(path: '/my-readings', builder: (_, _) => const UserReadingsPage(), routes: [
           GoRoute(path: 'new', builder: (_, _) => const UserReadingEditPage()),
           GoRoute(path: ':id/edit', builder: (_, s) => UserReadingEditPage(id: int.parse(s.pathParameters['id']!))),
-          GoRoute(path: ':id/grammar', builder: (_, s) => UserGrammarListPage(id: int.parse(s.pathParameters['id']!))),
         ]),
         GoRoute(path: '/words', builder: (_, _) => const MyWordsPage()),
         GoRoute(path: '/settings', builder: (_, _) => const SettingsPage()),

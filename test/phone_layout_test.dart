@@ -19,6 +19,7 @@ import 'package:grammar/ui/grammar/grammar_page.dart';
 import 'package:grammar/ui/home/home_page.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
 import 'package:grammar/ui/readings/reading_page.dart';
+import 'package:grammar/ui/user_readings/user_reading_pages.dart';
 import 'package:grammar/ui/video/video_pages.dart';
 
 const phoneWidth = 360.0;
@@ -90,6 +91,7 @@ void main() {
       ('Từ Vựng Tranh', () => const PictureTopicPage(id: 1)),
       ('Văn Phạm', () => const GrammarPage()),
       ('home', () => const HomePage()),
+      ('Tạo bài đọc', () => const UserReadingEditPage()),
     ]) {
       testWidgets('$name page fits a phone at $pct text', (tester) async {
         phone(tester);

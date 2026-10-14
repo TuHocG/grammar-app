@@ -407,9 +407,6 @@ Bài bạn tự nhập mở như một bài đọc thường: tra từ, nghe, d�
 - **Ảnh đầu bài** (tuỳ chọn): bấm **Chọn ảnh…** để chọn một file ảnh trên máy, hoặc dán đường dẫn.
 - Bấm **Lưu**.
 
-## Danh sách bài văn phạm
-Thay vì soạn bài đọc, bạn có thể gom các bài văn phạm hay xem thành một bài: điền số các bài văn phạm vào ô **Danh sách bài văn phạm** (ví dụ 1, 5, 12), không cần nhập tiếng Anh. Bài đó mở ra thành danh sách các bài văn phạm đã chọn.
-
 Menu ⋮ cạnh mỗi bài có **Sửa bài** và **Xoá bài**. Bài nhập được lưu trong file sao lưu (xem **Cài Đặt & sao lưu**).
 ''',
   ),

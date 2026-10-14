@@ -39,7 +39,7 @@ class UserDb {
       CREATE TABLE IF NOT EXISTS user_wordform_mark (root_position INTEGER PRIMARY KEY, level INTEGER NOT NULL);
       CREATE TABLE IF NOT EXISTS user_reading (
         id INTEGER PRIMARY KEY AUTOINCREMENT, package TEXT NOT NULL, title TEXT NOT NULL,
-        en TEXT NOT NULL, vi TEXT NOT NULL, img TEXT, grammar_refs TEXT, created_at INTEGER NOT NULL
+        en TEXT NOT NULL, vi TEXT NOT NULL, img TEXT, created_at INTEGER NOT NULL
       );
     ''');
     return UserDb._(db);

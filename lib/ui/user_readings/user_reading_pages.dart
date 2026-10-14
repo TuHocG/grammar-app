@@ -1,6 +1,5 @@
 /// Bài Nhập Của Bạn (docs/08 N1–N5): the user's own readings, grouped by package, with an
-/// editor (title, English text, Vietnamese text, picture, optional grammar-lesson list for
-/// "Ngu Phap"). A user reading opens in the normal reading page with every feature.
+/// editor (title, English text, Vietnamese text, picture). A user reading opens in the normal reading page with every feature.
 library;
 
 import 'dart:io';
@@ -13,7 +12,6 @@ import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 
 import '../../app/providers.dart';
-import '../../data/content_db.dart';
 import '../../data/reading_loader.dart';
 import '../../data/user_readings.dart';
 import '../widgets/shell.dart';
@@ -71,7 +69,7 @@ class _UserReadingsPageState extends ConsumerState<UserReadingsPage> {
                         },
                         itemBuilder: (_) => const [PopupMenuItem(value: 'edit', child: Text('Sửa bài')), PopupMenuItem(value: 'delete', child: Text('Xoá bài'))],
                       ),
-                      onTap: () => r.grammarRefs.isNotEmpty ? context.push('/my-readings/${r.id}/grammar') : context.push('/readings/${userReadingBase + r.id}'),
+                      onTap: () => context.push('/readings/${userReadingBase + r.id}'),
                     ),
                 ],
               ],
@@ -80,16 +78,16 @@ class _UserReadingsPageState extends ConsumerState<UserReadingsPage> {
   }
 }
 
-/// The reading's header picture, or the mode's icon when it has none (or the file is gone).
+/// The reading's header picture, or an icon when it has none (or the file is gone).
 Widget _thumb(UserReading r) {
-  final icon = IconTile(r.grammarRefs.isNotEmpty ? Icons.account_tree : Icons.article_outlined, size: 56);
+  const icon = IconTile(Icons.article_outlined, size: 56);
   final img = r.img;
   return ClipRRect(
     borderRadius: BorderRadius.circular(8),
     child: SizedBox(
       width: 56,
       height: 56,
-      child: img == null || r.grammarRefs.isNotEmpty
+      child: img == null
           ? icon
           : Image(image: FileImage(File(img)), fit: BoxFit.cover, errorBuilder: (_, _, _) => icon),
     ),
@@ -110,7 +108,6 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
   final _en = TextEditingController();
   final _vi = TextEditingController();
   final _img = TextEditingController();
-  final _refs = TextEditingController();
   UserReading? _existing;
 
   @override
@@ -125,14 +122,13 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
         _en.text = r.en.map((p) => p.join('_')).join('\n\n');
         _vi.text = r.vi.map((p) => p.join('_')).join('\n\n');
         _img.text = r.img ?? '';
-        _refs.text = r.grammarRefs.join(',');
       }
     }
   }
 
   @override
   void dispose() {
-    for (final c in [_pkg, _title, _en, _vi, _img, _refs]) {
+    for (final c in [_pkg, _title, _en, _vi, _img]) {
       c.dispose();
     }
     super.dispose();
@@ -141,18 +137,17 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
   void _save() {
     final en = splitText(_en.text);
     final vi = splitText(_vi.text);
-    final refs = _refs.text.split(RegExp(r'[,\s]+')).map(int.tryParse).whereType<int>().toList();
-    if (_title.text.trim().isEmpty || (en.isEmpty && refs.isEmpty)) {
-      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Cần tựa đề và nội dung tiếng Anh (hoặc danh sách bài văn phạm).')));
+    if (_title.text.trim().isEmpty || en.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Cần tựa đề và nội dung tiếng Anh.')));
       return;
     }
     final db = ref.read(userDbProvider);
     final pkg = _pkg.text.trim().isEmpty ? _defaultPackage : _pkg.text.trim();
     final img = _img.text.trim().isEmpty ? null : _img.text.trim();
     if (_existing == null) {
-      db.insertUserReading(package: pkg, title: _title.text.trim(), en: en, vi: vi, img: img, grammarRefs: refs);
+      db.insertUserReading(package: pkg, title: _title.text.trim(), en: en, vi: vi, img: img);
     } else {
-      db.updateUserReading(_existing!.id, package: pkg, title: _title.text.trim(), en: en, vi: vi, img: img, grammarRefs: refs);
+      db.updateUserReading(_existing!.id, package: pkg, title: _title.text.trim(), en: en, vi: vi, img: img);
     }
     Navigator.of(context).pop();
   }
@@ -253,41 +248,6 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
               child: OutlinedButton.icon(onPressed: _pickImage, icon: const Icon(Icons.folder_open), label: const Text('Chọn ảnh…')),
             ),
           ]),
-          const SizedBox(height: 12),
-          TextField(
-            controller: _refs,
-            decoration: const InputDecoration(
-              labelText: 'Danh sách bài văn phạm (tuỳ chọn)',
-              helperText: 'Nhập số các bài văn phạm, ví dụ 1, 5, 12. Khi có danh sách, bài này mở ra thành danh sách các bài văn phạm đó thay vì bài đọc; không cần nhập tiếng Anh.',
-              helperMaxLines: 3,
-              border: OutlineInputBorder(),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-}
-
-/// A "Ngu Phap" user reading: a list of grammar lessons the user collected.
-class UserGrammarListPage extends ConsumerWidget {
-  final int id;
-  const UserGrammarListPage({super.key, required this.id});
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final r = ref.read(userDbProvider).userReading(id);
-    final db = ref.read(contentDbProvider);
-    if (r == null) return const Scaffold(body: Center(child: Text('Không có bài này.')));
-    return Scaffold(
-      appBar: GrammarAppBar(title: Text(r.title)),
-      body: ListView(
-        children: [
-          for (final ref_ in r.grammarRefs)
-            ListTile(
-              leading: Text('$ref_'),
-              title: Text(db.grammarLesson(ref_)?.title ?? 'Bài $ref_'),
-              onTap: () => context.push('/grammar/$ref_'),
-            ),
         ],
       ),
     );
