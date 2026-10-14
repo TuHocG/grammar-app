@@ -6,6 +6,8 @@ Cột **Mã nguồn** ghi `file:thủ tục` trong `legacy/source-vb6-utf8/`; s�
 
 Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ đã viết mã (M1, 2026-10-05) nhưng chưa so song song với app gốc, ☑ xong và đã so song song.
 
+**Đã so song song xong (2026-10-14):** 94 dòng ☑; 12 dòng ☐ đều là **Bỏ** (không còn hành vi nào chưa làm). Từ nay sửa hoặc thêm hành vi thì cập nhật dòng tương ứng như trước.
+
 ## 0. Quy ước chung của app (áp dụng mọi màn hình)
 
 | Mã | Hành vi | Mã nguồn | Dữ liệu | Quyết định | Mốc | Kiểm thử | TT |
@@ -25,14 +27,14 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | G13 | ESC hoặc click phải ra ngoài khung → thoát màn hình hiện tại; lăn chuột cuộn | A §1.3–1.4 `NhanChuotPhaiIM1` | — | Tương đương: nút Back / cử chỉ vuốt; desktop giữ ESC | M1 | — | ☑ |
 | G14 | Click phải lên nút menu chính → thoát app; nút đóng cửa sổ Windows vô hiệu | A §7.3 | — | Bỏ (dùng nút đóng chuẩn) | — | — | ☐ |
 | G15 | Nút **Giọng** / Cài Đặt: chọn giọng SAPI, tốc độ 1–7 (Rate −10/−6/−3/0/2/4/8), bật/tắt âm thanh | E §1 `Amthanh.bas`, `PopUpWav.bas:TocDoDoc2` | `user_setting` | Tương đương: Windows dùng SAPI qua kênh riêng trong runner (`flutter_tts` sập trên Windows), nền tảng khác dùng `flutter_tts`; chọn giọng, 7 nấc tốc độ đúng bảng Rate | M1 | đọc "abandon" ở tốc độ 1 và 7 | ☑ |
-| G16 | **Tạo File** xuất WAV: từ clipboard; click phải một bài → Creat; click phải chủ đề → Creat tất cả | E §1.7 `PopUpWav.bas:LamTaoWav`, A §2.19 | — | Tương đương: "Xuất âm thanh" bằng TTS nền tảng ra file (nếu nền tảng hỗ trợ synthesizeToFile) hoặc Bỏ trên web | M6 | xuất một bài ra file, phát được | ☐ |
+| G16 | **Tạo File** xuất WAV: từ clipboard; click phải một bài → Creat; click phải chủ đề → Creat tất cả | E §1.7 `PopUpWav.bas:LamTaoWav`, A §2.19 | — | Bỏ (chủ dự án quyết định 2026-10-14): không xuất file âm thanh; nghe ngay trong app (Nghe toàn bài, giọng thật, TTS) | — | — | ☐ |
 | G17 | Đổi ảnh nền, trang trí hoạt hình (`Pic1/3/4/6`, `Sao.bas`, `RollNew*`) | C §7, E §2 `Amthanh.bas:GoiM` | `Pic1/3/4/6/7` | Bỏ (giao diện mới tối giản; giữ chủ đề sáng/tối) | — | — | ☐ |
 | G18 | Cỡ chữ bài đọc | `F1.frm`, `data.Kcu` slot 34 | `user_setting` | Giữ (cài đặt cỡ chữ toàn app) | M1 | — | ☑ |
 | G19 | Nhiều hồ sơ `user2..5` chọn bằng thư mục làm việc | B §6.3 | thư mục `user*` | Bỏ (một hồ sơ; có xuất/nhập JSON để chuyển máy, chọn nơi lưu / file khôi phục bằng hộp thoại file của hệ điều hành – `file_picker`) | M6 | xuất rồi nhập lại giữ nguyên từ đã lưu | ☑ |
 | G20 | Kiểm tra phiên bản 30 ngày, tự thoát; khoá menu 10 s khi khởi động; chống chạy 2 bản; chống sửa ReadMe | C §8.2–8.3 `MoWeb.bas`, `Delete_WEB.bas`, B §1.3 | — | Bỏ | — | — | ☐ |
 | G21 | Hướng dẫn trong app: nút Hướng Dẫn Cách Học (ReadMe) và 28 chủ đề help gắn với màn hình đang mở | C §8.1 `Help_.bas:TimSoHelp` | `help_topic` (không còn hiển thị) | Tương đương: nút "?" ở mỗi màn hình mở đúng chủ đề; nội dung hướng dẫn viết lại cho Grammar 4.0 (chuột/phím và chạm), đóng gói trong app (`lib/ui/help/help_content.dart`), không đọc `help_topic` của dữ liệu | M1 | ở màn hình Bài tập bấm ? → `/help/bai-tap` | ☑ |
 | G22 | Lưu vị trí mục đã mở của từng màn hình, bài đọc đang đọc dở, cài đặt | B §6.1 `data.Kcu` 34 slot, `SaveSelStartReading` | `user_progress`, `user_setting` | Giữ (mở lại đúng chỗ) | M1 | đóng mở app vẫn ở bài đang đọc | ☑ |
-| G23 | Tra từ từ clipboard khi chuột vào danh sách headword | B §7, B §9.13 | — | Tương đương: "Chia sẻ văn bản vào app" (mobile) và dán vào ô tìm (desktop) | M6 | — | ☐ |
+| G23 | Tra từ từ clipboard khi chuột vào danh sách headword | B §7, B §9.13 | — | Bỏ (chủ dự án quyết định 2026-10-14): không đọc clipboard; tra bằng ô Tra từ nhanh / gõ-để-tra trên desktop và chạm từ trong mọi bài | — | — | ☐ |
 
 ## 1. Bài Đọc (`Butcu = 1`) – help [0], [3], [4], [19]
 
@@ -82,7 +84,7 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | V1 | Xem Từ Chọn: danh sách từ đã lưu (số thứ tự, từ, câu ngữ cảnh, nghĩa); từ mới ở cuối | D §10.1–10.2 `TuVungChon.bas` (`dataChon.txt`, `DataTuDienUser.txt`) | `user_word` | Giữ (danh sách + tìm) | M1 | — | ☑ |
 | V2 | Trái → nghĩa; quét từ số thứ tự (kéo > 7 px) → xoá các từ quét; quét không từ số → bật/tắt đánh dấu đỏ; Delete → xoá cả danh sách; phải → sửa mục | D §10.2, A §7.6 | `user_word.marked` | Tương đương: vuốt để xoá, chạm sao để đánh dấu, chọn nhiều, nút sửa | M1 | — | ☑ |
 | V3 | Từ đánh dấu đỏ tô đỏ trong bài đọc; tra một từ tự bật đỏ nó | D §10.3 | — | Giữ | M2 | — | ☑ |
-| V4 | Shift+mũi tên chọn nhiều rồi Enter → tạo WAV | A, E §1.7 | — | Tương đương (G16) | M6 | — | ☐ |
+| V4 | Shift+mũi tên chọn nhiều rồi Enter → tạo WAV | A, E §1.7 | — | Bỏ (theo G16) | — | — | ☐ |
 | V5 | **Quay Từ**: chỉ từ đánh dấu đỏ; từ chạy ngang màn hình (tốc độ ≥ 4 thì đứng giữa); Màu chữ; Tốc độ 1–10 (8–10 không đọc); trái vào nền → tra từ; phải vào nền → xoá từ đã thuộc (không lưu); Viết từ; Đổi kiểu | D §11 `QuayTuChon.bas`, A §2.9, §7.12 | `user_word.marked`, `user_setting` | Tương đương: chế độ flashcard tự chạy (hiện từ → đọc → nghĩa), tốc độ 10 nấc, nút "Đã thuộc" bỏ đánh dấu; chưa đánh dấu từ nào thì ôn tất cả từ đã lưu (ghi nhận khác) | M5 | — | ☑ |
 | V6 | TTS đọc từ < 15 ký tự hai lần (và từ gốc hai lần) | E §7.20 `M1.bas:2774` | — | Tương đương: đọc một lần, có nút lặp (ghi nhận khác) | M5 | — | ☑ |
 
@@ -109,7 +111,7 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | E7 | **Trắc nghiệm a–d**: chọn phương án; sai → mờ, đúng → đậm; chọn sai rồi đúng không được điểm; phương án không xáo; phải vào phương án → lời giảng ("Câu A sai vì…"); phải vào đề → dịch | D §2 `ChonABCD_.bas:HienCauABCD`, `LamNhanChuotPhaiABCD` | `exercise.choices`, `answer`, `expl` | Giữ (ExerciseRunner.choice; "vì sao" của từng phương án qua nút ⓘ) | M3 | PRELIMINARY A bài 1 | ☑ |
 | E8 | B+C VOCABULARY: rê vào phương án hiện nghĩa; click từ → Related forms + mục từ điển | docs/02 mục 17, D §2 | `expl`, `wordform_*`, `dict_entry` | Giữ (chạm giữ phương án) | M3 | — | ☑ |
 | E9 | **Chọn câu sai** (TOEFL): 4 phần gạch chân, chọn phần sai; phải vào phần → lời giảng | D §3 `BT_Chonsai.bas` | `exercise.kind = error`, `blanks` 4 phần, `answer` | Giữ (ExerciseRunner.error) | M3 | TOEFL 355 bài error | ☑ |
-| E10 | Dạng "danh sách câu" (34 bài `kind = sentences`) chỉ hiển thị | D §1.3 loại 3 | `exercise.kind = sentences` | Giữ (hiện câu, có chạm từ) | M3 | — | ◐ |
+| E10 | **Xếp từ** (loại 3, 34 bản ghi, chỉ là bài tập của bài văn phạm): mỗi bản ghi gồm nhiều câu; từ trong câu bị xáo, người học chọn lại theo đúng thứ tự | D §1.3 loại 3, `XepTu.bas` | `exercise.kind = scramble` (`text` các câu cách dòng, `vi` các câu dịch cách `_`) | Giữ: runner tách mỗi câu thành một mục riêng (bản đồ câu, điểm, Next tính theo câu); dùng chung `ScrambleBoard` với Xếp từ của Bài Đọc (X1–X3); giải xong mà không bấm "Đáp án" mới được điểm. Trước đây dòng này hiểu nhầm loại 3 là "danh sách câu chỉ để đọc" (`kind = sentences`); xem P3 | M3 | `exercise_runner_test`: bài 37 "Câu Ðơn" là bài xếp từ | ☑ |
 | E11 | **Word Forms**: bảng từ gốc (3.901); trái chọn 1–2 từ (mức 4 đỏ sáng); học xong trái lần nữa → mức 3 (đỏ sẫm, dự trữ); đổi hết đỏ sáng thành đỏ rồi Enter → ôn dự trữ; không chọn gì → tự chọn từ thông dụng (mức 3 mặc định); Delete xoá hết; mức ghi vào `Datawf.vt` | D §4.1–4.2 `WorForm.bas`, A §7.1 | `wordform_root` (start, count, common), `user_wordform_mark` | Giữ (hai mức đánh dấu lưu riêng; không ghi vào dữ liệu). Màu: mức 4 "học" = xanh, mức 3 "dự trữ" = đỏ (thay đỏ sáng/đỏ sẫm khó phân biệt) | M3 | chọn "abuse" → 11 bài; ô điền rộng theo đáp án dài nhất | ☑ |
 | E12 | Trong bài Word Forms: thanh trên hiện từ gốc, trái vào → tra và xem các dạng; Enter chấm; phải vào đề → dịch; bộ đếm "đúng x/N" cộng dồn một lượt | D §4.3 | `exercise` (wordforms), `expl` | Giữ | M3 | — | ☑ |
 | E13 | Tắt bộ gõ tiếng Việt khi làm bài | D §12 | — | Bỏ (G12) | — | — | ☐ |
@@ -187,7 +189,10 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | Quyết định | Số dòng | Ghi chú |
 |---|---|---|
 | Giữ | 60 | hành vi học tập cốt lõi, chấm điểm, mốc thời gian, bảng mức độ khó |
-| Tương đương | 33 | thao tác chuột phải/rê/phím → chạm, nút, cử chỉ; lưu trữ người dùng chuyển sang SQLite |
-| Bỏ | 12 | trang trí, bộ gõ, kiểm tra phiên bản, hồ sơ theo thư mục, tính năng không có trong mã (karaoke, lưới Pic3, giọng Việt), file âm thanh không có trên đĩa |
+| Tương đương | 30 | thao tác chuột phải/rê/phím → chạm, nút, cử chỉ; lưu trữ người dùng chuyển sang SQLite |
+| Bỏ | 14 | trang trí, bộ gõ, kiểm tra phiên bản, hồ sơ theo thư mục, tính năng không có trong mã (karaoke, lưới Pic3, giọng Việt), file âm thanh không có trên đĩa, xuất WAV (G16, V4), tra từ clipboard (G23) |
+| Đổi có chủ ý | 1 | G10: mọi lần xuất hiện của từ/cụm đã lưu tô đỏ |
+| Thêm | 1 | S7: thẻ Đang học ở trang Luyện Nói |
+| **Tổng** | **106** | |
 
-Những chỗ bản port **cố ý khác** app gốc (phải nêu trong ghi chú phát hành): L1 Luyện Nghe hiện tên bài đọc của unit; W2 cho phép Backspace; E4 chấp nhận mọi phương án thay thế; L5 câu 1 bắt đầu ở mốc nói (dữ liệu mới) thay vì giây 0; L6 "nghe lại" là câu hiện tại; V5 Quay Từ ôn tất cả từ đã lưu khi chưa đánh dấu từ nào; V6 đọc từ một lần; S3 danh sách câu đã chọn tách riêng thay vì sắp lại chủ đề; H3 có đếm đúng/sai. N4 bài "Ngu Phap" thay bằng đánh dấu bài văn phạm và mục Ngữ Pháp Của Bạn, không còn nằm trong Bài Nhập. G21 hướng dẫn trong app viết lại (18 chủ đề theo app mới) thay cho 28 chủ đề help và ReadMe của app gốc; lời khuyên phương pháp học của tác giả giữ trong chủ đề "Cách học hiệu quả".
+Những chỗ bản port **cố ý khác** app gốc (phải nêu trong ghi chú phát hành): G10 tô đỏ mọi lần xuất hiện của từ/cụm đã lưu; L1 Luyện Nghe hiện tên bài đọc của unit; W2 cho phép Backspace; E4 chấp nhận mọi phương án thay thế; L5 câu 1 bắt đầu ở mốc nói (dữ liệu mới) thay vì giây 0; L6 "nghe lại" là câu hiện tại; V5 Quay Từ ôn tất cả từ đã lưu khi chưa đánh dấu từ nào; V6 đọc từ một lần; S3 danh sách câu đã chọn tách riêng thay vì sắp lại chủ đề; H3 có đếm đúng/sai. N4 bài "Ngu Phap" thay bằng đánh dấu bài văn phạm và mục Ngữ Pháp Của Bạn, không còn nằm trong Bài Nhập. G21 hướng dẫn trong app viết lại (18 chủ đề theo app mới) thay cho 28 chủ đề help và ReadMe của app gốc; lời khuyên phương pháp học của tác giả giữ trong chủ đề "Cách học hiệu quả".

@@ -29,7 +29,7 @@ Bản 1, 2026-10-05. Tài liệu điều phối: quyết định, phạm vi, ki�
 
 Phương án thay thế nếu chủ dự án muốn ở lại hệ sinh thái web: **Tauri 2 + TypeScript (React hoặc Svelte)** cho desktop và mobile, cùng SQLite qua plugin; video AVI phải nhờ libmpv hoặc chuyển mã sang MP4. Tầng dữ liệu (SQLite do ETL sinh) giống hệt nhau ở cả hai phương án, nên quyết định này có thể đổi trước Giai đoạn 3 mà không mất công đoạn dữ liệu.
 
-Những thứ không port vì thuộc về Windows/VB6: hook chuột-bàn phím toàn hệ thống, tra từ clipboard khi Alt+Tab (thay bằng chia sẻ văn bản vào app trên mobile và phím tắt trên desktop), bộ gõ tiếng Việt tự viết (hệ điều hành đã có), font VPS và chuyển mã, Tạo File WAV bằng SAPI (thay bằng xuất audio qua TTS của nền tảng nếu cần), đăng ký khởi động cùng Windows, kiểm tra license.
+Những thứ không port vì thuộc về Windows/VB6: hook chuột-bàn phím toàn hệ thống, tra từ clipboard khi Alt+Tab (bỏ, docs/08 G23: tra bằng ô Tra từ nhanh, gõ-để-tra trên desktop và chạm từ trong bài), bộ gõ tiếng Việt tự viết (hệ điều hành đã có), font VPS và chuyển mã, Tạo File WAV bằng SAPI (thay bằng xuất audio qua TTS của nền tảng nếu cần), đăng ký khởi động cùng Windows, kiểm tra license.
 
 ## 4. Kiến trúc
 
@@ -60,7 +60,7 @@ legacy/Grammar (nhị phân VB6)  ──tools/etl──▶  dist/dataset (JSON +
 
 Mỗi mốc kết thúc bằng việc **so sánh song song với app gốc** trên máy này theo checklist trong `docs/08`.
 
-Trạng thái 2026-10-05: M1–M5 đã viết xong và chạy trên Windows (mọi màn hình chụp kiểm tra, test tự động cho tra từ và chấm bài); M6 đang làm: sao lưu/khôi phục JSON, gõ-để-tra trên desktop, DB mã hoá (SQLite3MultipleCiphers qua `hooks` của `package:sqlite3`, công cụ `app/tool/encrypt_db.dart`), build Android. Việc so song song với Grammar.exe từng dòng docs/08 (☑) còn lại cho chủ dự án vì sandbox không điều khiển được chuột/bàn phím của app gốc.
+Trạng thái 2026-10-05: M1–M5 đã viết xong và chạy trên Windows (mọi màn hình chụp kiểm tra, test tự động cho tra từ và chấm bài); M6 đang làm: sao lưu/khôi phục JSON, gõ-để-tra trên desktop, DB mã hoá (SQLite3MultipleCiphers qua `hooks` của `package:sqlite3`, công cụ `app/tool/encrypt_db.dart`), build Android. Việc so song song với Grammar.exe từng dòng docs/08 do chủ dự án làm tay (sandbox không điều khiển được chuột/bàn phím của app gốc), xong 2026-10-14: 94 dòng ☑, 12 dòng Bỏ; xuất WAV (G16, V4) và tra từ clipboard (G23) chuyển sang Bỏ.
 
 ## 6. Cách bảo đảm không sót chức năng
 

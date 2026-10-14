@@ -122,7 +122,7 @@ Mở lần đầu: **Windows** giải nén rồi chạy `grammar.exe`; SmartScre
 ## Tài liệu
 
 - [docs/07-ke-hoach-port.md](docs/07-ke-hoach-port.md) — kế hoạch, kiến trúc, mốc M1–M6, quyết định và cách bảo vệ nội dung.
-- [docs/08-ma-tran-truy-vet.md](docs/08-ma-tran-truy-vet.md) — 105 hành vi của app gốc → thủ tục VB6 → dữ liệu → quyết định port → trạng thái. Cập nhật cột cuối khi làm xong một hành vi.
+- [docs/08-ma-tran-truy-vet.md](docs/08-ma-tran-truy-vet.md) — 106 hành vi của app gốc → thủ tục VB6 → dữ liệu → quyết định port → trạng thái. Cập nhật cột cuối khi làm xong một hành vi.
 - [docs/09-luoc-do-sqlite.md](docs/09-luoc-do-sqlite.md) — lược đồ `grammar.db` và các bảng người dùng.
 - Repo `grammar-legacy`: bộ công cụ ETL đã chuyển dữ liệu Grammar 3.1 thành `content/dataset` (chỉ dùng cho lần nhập đầu; từ nay sửa nội dung ở repo này), mô tả định dạng gốc, 72 ảnh chụp app gốc, 28 bài hướng dẫn nguyên văn và năm báo cáo phân tích mã VB6. Các tham chiếu `docs/02`, `docs/05`, `docs/06`, `docs/source/*` trong docs/08 trỏ sang repo đó.
 
