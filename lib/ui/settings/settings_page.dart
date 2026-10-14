@@ -10,6 +10,7 @@ import 'dart:typed_data';
 import 'package:file_picker/file_picker.dart';
 import 'package:path_provider/path_provider.dart';
 
+import '../../app/config.dart';
 import '../../app/providers.dart';
 import '../../data/backup.dart';
 import '../../platform/tts.dart';
@@ -178,7 +179,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           const ContentSourcesSection(),
           const _Header('Giới thiệu'),
           const ListTile(
-            title: Text('Grammar 4.0'),
+            title: Text(appTitleWithVersion),
             subtitle: Text('Kế thừa và tiếp tục phát triển Grammar 3.1 của TuHocTiengAnh.net theo uỷ thác của tác giả. Miễn phí; không được bán hay phân phối lại dữ liệu.'),
           ),
             ]),

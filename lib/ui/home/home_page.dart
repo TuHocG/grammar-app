@@ -8,6 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../app/config.dart';
 import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
@@ -313,7 +314,7 @@ class HomePage extends ConsumerWidget {
           const SizedBox(height: 24),
           Center(
             child: Text(
-              'Kế thừa Grammar 3.1 của TuHocTiengAnh.net theo uỷ thác của tác giả. Miễn phí.',
+              appTitleWithVersion,
               style: theme.textTheme.bodySmall?.copyWith(color: g.fog),
               textAlign: TextAlign.center,
             ),
