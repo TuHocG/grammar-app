@@ -14,6 +14,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
+import '../../data/content_db.dart';
 import '../../data/media_locations.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
@@ -28,31 +29,70 @@ class ListeningUnitsPage extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final db = ref.read(contentDbProvider);
+    final theme = Theme.of(context);
+    final g = context.g;
     final units = db.listeningUnits();
     final userDb = ref.read(userDbProvider);
+    ref.watch(progressRevisionProvider);
+    final last = int.tryParse(userDb.progress('listening', 'last') ?? '');
+
+    // Same row layout as the Phân Tích Câu list: thumbnail, title, details, badge.
+    Widget row({required Widget thumb, required String title, required String detail, bool current = false, required VoidCallback onTap}) => Padding(
+          padding: const EdgeInsets.only(bottom: 8),
+          child: Surface(
+            onTap: onTap,
+            padding: const EdgeInsets.all(12),
+            child: Row(children: [
+              ClipRRect(borderRadius: BorderRadius.circular(8), child: SizedBox(width: 72, height: 56, child: thumb)),
+              const SizedBox(width: 12),
+              Expanded(
+                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                  Text(title, style: ReadingStyles.line(context).copyWith(fontSize: 16, fontWeight: current ? FontWeight.w600 : FontWeight.w400)),
+                  Padding(
+                    padding: const EdgeInsets.only(top: 4),
+                    child: Text(detail, style: theme.textTheme.bodySmall?.copyWith(color: g.slate)),
+                  ),
+                ]),
+              ),
+              if (current) const SoftBadge('Đang luyện'),
+              const SizedBox(width: 4),
+              Icon(Icons.chevron_right, color: g.fog),
+            ]),
+          ),
+        );
+
     return Scaffold(
       appBar: GrammarAppBar(
-        title: const Text('Luyện Nghe'),
+        crumbs: const [Crumb('Luyện Nghe')],
         helpSlug: 'luyen-nghe',
       ),
-      body: ListView(
-        children: [
-          ListTile(
-            leading: const Icon(Icons.movie_outlined),
-            title: const Text('Video có phụ đề song ngữ'),
-            subtitle: const Text('210 tập: 3 bộ video bài học và 5 phim'),
-            onTap: () => context.push('/video'),
-          ),
-          const Divider(),
-          for (final u in units)
-            ListTile(
-              leading: CircleAvatar(child: Text('$u')),
-              title: Text(_unitTitle(u, db.listeningReadingTitle(u)?.title)),
-              subtitle: Text('${db.listeningCount(u)} câu${userDb.progress('listening', 'unit$u') != null ? ' · ${userDb.progress('listening', 'unit$u')}' : ''}'),
+      body: RailListView(children: [
+        Text('Luyện Nghe', style: theme.textTheme.headlineLarge),
+        Text('${units.length} bài · nghe câu tiếng Anh, chọn câu dịch đúng', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+        const SizedBox(height: 16),
+        row(
+          thumb: const IconTile(Icons.movie_outlined, size: 56),
+          title: 'Video có phụ đề song ngữ',
+          detail: '210 tập: 3 bộ video bài học và 5 phim',
+          onTap: () => context.push('/video'),
+        ),
+        const SizedBox(height: 8),
+        for (final u in units)
+          Builder(builder: (context) {
+            final source = db.listeningReadingTitle(u);
+            final img = source == null ? null : db.reading(source.id)?.img;
+            final score = userDb.progress('listening', 'unit$u');
+            return row(
+              thumb: img != null
+                  ? Image(image: db.imageProvider(img), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.hearing_outlined, size: 56))
+                  : const IconTile(Icons.hearing_outlined, size: 56),
+              title: _unitTitle(u, source?.title),
+              detail: '${db.listeningCount(u)} câu${score != null ? ' · $score' : ''}',
+              current: u == last,
               onTap: () => context.push('/listening/$u'),
-            ),
-        ],
-      ),
+            );
+          }),
+      ]),
     );
   }
 }
