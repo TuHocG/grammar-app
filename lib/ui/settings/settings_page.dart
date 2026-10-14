@@ -91,6 +91,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
       if (ok != true) return;
       final n = importBackup(ref.read(userDbProvider), utf8.decode(await f.readAsBytes()));
       ref.invalidate(userWordsProvider);
+      ref.invalidate(grammarMarksProvider);
       ref.invalidate(settingsProvider);
       _snack('Đã khôi phục $n dòng');
     } catch (e) {

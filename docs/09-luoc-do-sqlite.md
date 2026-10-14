@@ -50,6 +50,7 @@ Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ?
 | `user_picture_pick` | topic_id, word_idx | tiêu điểm đã chọn (`dataHH.xy` byte cờ) |
 | `user_wordform_mark` | root_position, level (1 đỏ sáng, 2 đỏ sẫm) | trạng thái bảng Word Forms |
 | `user_reading` | id, package, title, en (JSON), vi (JSON), img, created_at | `BaiNhap/` |
+| `user_grammar_mark` | ref (bài văn phạm), added_at | bài "Ngu Phap" trong `BaiNhap/` (Ngữ Pháp Của Bạn) |
 | `user_setting` | key, value | tốc độ, giọng, cỡ chữ, chủ đề |
 
 Khoá `user_progress` (kind / item_id → state) app đang dùng:
@@ -58,7 +59,7 @@ Khoá `user_progress` (kind / item_id → state) app đang dùng:
 |---|---|---|
 | `reading` | `last_reading` | id bài đọc mở gần nhất (cả bài nhập của bạn) |
 | `reading` | `last_section`, `last_in_<sid>` | nhóm mở gần nhất; bài mở gần nhất trong nhóm |
-| `grammar` | `last_lesson`; `chapter` | bài văn phạm mở gần nhất; chương đang mở |
+| `grammar` | `last_lesson`; `chapter`, `saved_chapter` | bài văn phạm mở gần nhất; chương đang mở (cây đầy đủ / Ngữ Pháp Của Bạn) |
 | `exercise` | `menu<m>-g<n>`, `lessons-<refs>`, `wordforms` | `{"pos","score","done"}` của nhóm bài tập |
 | `listening` | `last`; `unit<u>` | unit mở gần nhất; điểm lần làm gần nhất ("đúng x/y") |
 | `dialog` | `last`; `last_topic` | bài Luyện Nói mở gần nhất; chủ đề mở gần nhất |

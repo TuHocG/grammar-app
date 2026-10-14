@@ -4,6 +4,7 @@ import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:grammar/data/backup.dart';
 import 'package:grammar/data/user_db.dart';
+import 'package:grammar/data/user_db_more.dart';
 import 'package:grammar/data/user_readings.dart';
 
 void main() {
@@ -22,5 +23,19 @@ void main() {
     expect(importBackup(db, json), 2);
     expect(db.setting('tts_speed'), '5');
     expect(db.userReading(3)?.title, 'Old');
+    expect(db.grammarMarks(), isEmpty);   // table missing from the old backup: restored empty
+  });
+
+  test('grammar marks survive export → import', () {
+    final tmp = Directory.systemTemp.createTempSync('grammar_backup');
+    addTearDown(() => tmp.deleteSync(recursive: true));
+    final db = UserDb.open('${tmp.path}/user.db');
+    addTearDown(db.close);
+    db.setGrammarMark(5, true);
+    db.setGrammarMark(12, true);
+    final json = exportBackup(db);
+    db.setGrammarMark(5, false);
+    importBackup(db, json);
+    expect(db.grammarMarks(), {5, 12});
   });
 }

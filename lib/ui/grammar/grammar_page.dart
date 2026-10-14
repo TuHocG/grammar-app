@@ -1,6 +1,7 @@
 /// Văn Phạm (docs/08 P1–P5): chapters / lessons, lesson body, exercises per lesson and mixed
 /// exercises for several selected lessons. Wide screens: chapter tree on the left, lesson on
-/// the right; narrow: chapter list → lessons sheet → lesson page.
+/// the right; narrow: chapter list → lessons sheet → lesson page. Ngữ Pháp Của Bạn (N4) is the
+/// same page showing only the lessons the user bookmarked.
 library;
 
 import 'package:flutter/material.dart';
@@ -19,6 +20,7 @@ final grammarLessonsProvider = Provider<List<GrammarLesson>>((ref) => ref.watch(
 class _Chapter {
   final GrammarLesson head;
   final List<GrammarLesson> lessons = [];
+  bool intro = true;  // the "Giới thiệu chương" row (head of a real chapter)
   _Chapter(this.head);
 }
 
@@ -35,6 +37,19 @@ List<_Chapter> _chapters(List<GrammarLesson> all) {
   return out;
 }
 
+/// The chapters that hold a bookmarked lesson, with only those lessons; a chapter intro is
+/// kept when the intro itself is bookmarked.
+List<_Chapter> _markedChapters(List<GrammarLesson> all, Set<int> marks) => [
+      for (final c in _chapters(all))
+        if (c.lessons.any((l) => marks.contains(l.ref)) || (c.head.chapter && marks.contains(c.head.ref)))
+          _Chapter(c.head)
+            ..intro = c.head.chapter && marks.contains(c.head.ref)
+            ..lessons.addAll(c.lessons.where((l) => marks.contains(l.ref))),
+    ];
+
+/// Bookmarked lessons in book order, for Bài trước / Bài kế on Ngữ Pháp Của Bạn.
+List<GrammarLesson> _markedSequence(List<GrammarLesson> all, Set<int> marks) => [for (final l in all) if (marks.contains(l.ref)) l];
+
 _Chapter? _chapterOf(List<_Chapter> chapters, int ref) => chapters.where((c) => c.head.ref == ref || c.lessons.any((l) => l.ref == ref)).firstOrNull;
 
 /// Chapter tree: chapter rows expand to their lessons; the current lesson is highlighted.
@@ -48,6 +63,7 @@ class _ChapterTree extends StatelessWidget {
   final bool selectMode;
   final Set<int> picked;
   final ValueChanged<int>? onTogglePick;
+  final Set<int> marks;
   const _ChapterTree({
     required this.chapters,
     required this.openChapter,
@@ -58,6 +74,7 @@ class _ChapterTree extends StatelessWidget {
     this.selectMode = false,
     this.picked = const {},
     this.onTogglePick,
+    this.marks = const {},
   });
 
   @override
@@ -82,8 +99,8 @@ class _ChapterTree extends StatelessWidget {
             ),
           ),
         if (i == openChapter || f.isNotEmpty) ...[
-          if (chapters[i].head.chapter && f.isEmpty)
-            _LessonRow(lesson: chapters[i].head, label: 'Giới thiệu chương', selected: currentRef == chapters[i].head.ref, onTap: () => onLesson(chapters[i].head)),
+          if (chapters[i].head.chapter && chapters[i].intro && f.isEmpty)
+            _LessonRow(lesson: chapters[i].head, label: 'Giới thiệu chương', selected: currentRef == chapters[i].head.ref, marked: marks.contains(chapters[i].head.ref), onTap: () => onLesson(chapters[i].head)),
           for (final l in chapters[i].lessons)
             if (f.isEmpty || l.title.toLowerCase().contains(f))
               _LessonRow(
@@ -91,6 +108,7 @@ class _ChapterTree extends StatelessWidget {
                 selected: currentRef == l.ref,
                 selectMode: selectMode,
                 picked: picked.contains(l.ref),
+                marked: marks.contains(l.ref),
                 onTap: selectMode ? (l.drills ? () => onTogglePick?.call(l.ref) : null) : () => onLesson(l),
               ),
         ],
@@ -105,8 +123,9 @@ class _LessonRow extends StatelessWidget {
   final bool selected;
   final bool selectMode;
   final bool picked;
+  final bool marked;
   final VoidCallback? onTap;
-  const _LessonRow({required this.lesson, this.label, required this.selected, this.selectMode = false, this.picked = false, this.onTap});
+  const _LessonRow({required this.lesson, this.label, required this.selected, this.selectMode = false, this.picked = false, this.marked = false, this.onTap});
   @override
   Widget build(BuildContext context) {
     final g = context.g;
@@ -118,8 +137,10 @@ class _LessonRow extends StatelessWidget {
         onTap: onTap,
         borderRadius: BorderRadius.circular(4),
         child: Padding(
-          padding: const EdgeInsets.fromLTRB(24, 8, 12, 8),
+          // The bookmark sits in the left gutter, so titles stay aligned whether marked or not.
+          padding: const EdgeInsets.fromLTRB(4, 8, 12, 8),
           child: Row(children: [
+            SizedBox(width: 20, child: marked ? Icon(Icons.bookmark, size: 14, color: g.iris) : null),
             if (selectMode) ...[
               Icon(picked ? Icons.check_box : Icons.check_box_outline_blank, size: 18, color: lesson.drills ? (picked ? g.iris : g.fog) : g.border),
               const SizedBox(width: 8),
@@ -141,7 +162,9 @@ class _LessonRow extends StatelessWidget {
 }
 
 class GrammarPage extends ConsumerStatefulWidget {
-  const GrammarPage({super.key});
+  /// Ngữ Pháp Của Bạn: only the bookmarked lessons.
+  final bool savedOnly;
+  const GrammarPage({super.key, this.savedOnly = false});
   @override
   ConsumerState<GrammarPage> createState() => _GrammarPageState();
 }
@@ -157,19 +180,25 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
   void initState() {
     super.initState();
     final userDb = ref.read(userDbProvider);
-    _chapter = int.tryParse(userDb.progress('grammar', 'chapter') ?? '') ?? 0;
+    _chapter = int.tryParse(userDb.progress('grammar', _chapterKey) ?? '') ?? 0;
     _currentRef = int.tryParse(userDb.progress('grammar', 'last_lesson') ?? '');
+    if (widget.savedOnly && !ref.read(grammarMarksProvider).contains(_currentRef)) _currentRef = null;
   }
+
+  // The two pages have different chapter lists, so each remembers its own open chapter.
+  String get _chapterKey => widget.savedOnly ? 'saved_chapter' : 'chapter';
+
+  List<_Chapter> _shown(List<GrammarLesson> all) => widget.savedOnly ? _markedChapters(all, ref.read(grammarMarksProvider)) : _chapters(all);
 
   void _openChapter(int i) {
     setState(() => _chapter = _chapter == i ? -1 : i);
-    ref.read(userDbProvider).setProgress('grammar', 'chapter', '$i');
+    ref.read(userDbProvider).setProgress('grammar', _chapterKey, '$i');
   }
 
   void _openLesson(GrammarLesson l) {
     if (context.isWide) {
       // Open the lesson's chapter too (the tree keeps the chapter the user expands otherwise).
-      final chapters = _chapters(ref.read(grammarLessonsProvider));
+      final chapters = _shown(ref.read(grammarLessonsProvider));
       final c = _chapterOf(chapters, l.ref);
       setState(() {
         _currentRef = l.ref;
@@ -177,7 +206,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
       });
       ref.read(userDbProvider).setProgress('grammar', 'last_lesson', '${l.ref}');
     } else {
-      context.push('/grammar/${l.ref}');
+      context.push('/grammar/${l.ref}${widget.savedOnly ? '?saved=1' : ''}');
     }
   }
 
@@ -189,7 +218,9 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
   @override
   Widget build(BuildContext context) {
     final all = ref.watch(grammarLessonsProvider);
-    final chapters = _chapters(all);
+    final marks = ref.watch(grammarMarksProvider);
+    final saved = widget.savedOnly;
+    final chapters = _shown(all);
     if (_chapter >= chapters.length) _chapter = 0;
     final theme = Theme.of(context);
     final g = context.g;
@@ -201,7 +232,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
       child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
         Padding(
           padding: const EdgeInsets.fromLTRB(4, 4, 4, 8),
-          child: SearchPill(hint: 'Tìm bài văn phạm', onChanged: (v) => setState(() => _filter = v.trim())),
+          child: SearchPill(hint: saved ? 'Tìm trong bài đã lưu' : 'Tìm bài văn phạm', onChanged: (v) => setState(() => _filter = v.trim())),
         ),
         _ChapterTree(
           chapters: chapters,
@@ -213,6 +244,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
           selectMode: _selectMode,
           picked: _picked,
           onTogglePick: (r) => setState(() => _picked.contains(r) ? _picked.remove(r) : _picked.add(r)),
+          marks: saved ? const {} : marks,
         ),
       ]),
     );
@@ -226,7 +258,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
 
     return Scaffold(
       appBar: GrammarAppBar(
-        crumbs: const [Crumb('Văn Phạm')],
+        crumbs: [Crumb(saved ? 'Ngữ Pháp Của Bạn' : 'Văn Phạm')],
         helpSlug: 'van-pham',
         actions: [
           if (wide)
@@ -254,7 +286,9 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
                 ]),
               ),
             ),
-          if (wide)
+          if (saved && chapters.isEmpty)
+            const EmptyNote('Chưa lưu bài nào. Mở một bài văn phạm và bấm "Lưu bài" để thêm vào đây.')
+          else if (wide)
             Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
               SizedBox(width: 320, child: tree),
               const SizedBox(width: 24),
@@ -266,10 +300,10 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
                           Icon(Icons.account_tree_outlined, size: 40, color: g.fog),
                           const SizedBox(height: 12),
                           Text('Chọn một bài bên trái.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-                          Text('${all.length} mục · bài có nhãn BT có bài tập đi kèm', style: theme.textTheme.bodySmall),
+                          Text('${saved ? '${marks.length} bài đã lưu' : '${all.length} mục'} · bài có nhãn BT có bài tập đi kèm', style: theme.textTheme.bodySmall),
                         ]),
                       )
-                    : LessonCard(lesson: lesson, all: all, onNavigate: (r) => setState(() => _currentRef = r)),
+                    : LessonCard(lesson: lesson, all: all, sequence: saved ? _markedSequence(all, marks) : null, onNavigate: (r) => setState(() => _currentRef = r)),
               ),
             ])
           else
@@ -291,7 +325,9 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
 
 class GrammarLessonPage extends ConsumerStatefulWidget {
   final int ref;
-  const GrammarLessonPage({super.key, required this.ref});
+  /// Opened from Ngữ Pháp Của Bạn: Bài trước / Bài kế stay among the bookmarked lessons.
+  final bool saved;
+  const GrammarLessonPage({super.key, required this.ref, this.saved = false});
 
   @override
   ConsumerState<GrammarLessonPage> createState() => _GrammarLessonPageState();
@@ -326,31 +362,45 @@ class _GrammarLessonPageState extends ConsumerState<GrammarLessonPage> {
     if (l == null) return const Scaffold(body: EmptyNote('Không có bài này.'));
     final all = this.ref.read(grammarLessonsProvider);
     final chapter = _chapterOf(_chapters(all), ref);
+    final saved = widget.saved;
     return Scaffold(
       appBar: GrammarAppBar(crumbs: [
-        const Crumb('Văn Phạm', '/grammar'),
-        if (chapter != null && chapter.head.ref != ref) Crumb(chapter.head.title, '/grammar'),
+        if (saved) const Crumb('Ngữ Pháp Của Bạn', '/my-grammar') else const Crumb('Văn Phạm', '/grammar'),
+        if (!saved && chapter != null && chapter.head.ref != ref) Crumb(chapter.head.title, '/grammar'),
         Crumb(l.title),
       ]),
-      body: RailListView(maxWidth: 960, children: [LessonCard(lesson: l, all: all, onNavigate: (r) => context.pushReplacement('/grammar/$r'))]),
+      body: RailListView(maxWidth: 960, children: [
+        LessonCard(
+          lesson: l,
+          all: all,
+          sequence: saved ? _markedSequence(all, this.ref.watch(grammarMarksProvider)) : null,
+          onNavigate: (r) => context.pushReplacement('/grammar/$r${saved ? '?saved=1' : ''}'),
+        ),
+      ]),
     );
   }
 }
 
-/// Lesson card: eyebrow (chapter · position), title, "Làm Bài Tập" pill, body, prev/next.
-class LessonCard extends StatelessWidget {
+/// Lesson card: eyebrow (chapter · position), title, "Lưu bài" and "Làm Bài Tập" buttons,
+/// body, prev/next.
+class LessonCard extends ConsumerWidget {
   final GrammarLesson lesson;
   final List<GrammarLesson> all;
+  /// What Bài trước / Bài kế walk through; every lesson ([all]) when null.
+  final List<GrammarLesson>? sequence;
   final ValueChanged<int> onNavigate;
-  const LessonCard({super.key, required this.lesson, required this.all, required this.onNavigate});
+  const LessonCard({super.key, required this.lesson, required this.all, this.sequence, required this.onNavigate});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final theme = Theme.of(context);
     final g = context.g;
-    final i = all.indexWhere((x) => x.ref == lesson.ref);
-    final prev = i > 0 ? all[i - 1] : null;
-    final next = i >= 0 && i < all.length - 1 ? all[i + 1] : null;
+    final seq = sequence ?? all;
+    // A lesson outside the sequence (just un-bookmarked) still steps to its neighbours in it.
+    final at = all.indexWhere((x) => x.ref == lesson.ref);
+    int indexOf(GrammarLesson x) => all.indexWhere((y) => y.ref == x.ref);
+    final prev = seq.where((x) => indexOf(x) < at).lastOrNull;
+    final next = at < 0 ? null : seq.where((x) => indexOf(x) > at).firstOrNull;
     final chapter = _chapterOf(_chapters(all), lesson.ref);
     final pos = chapter == null ? null : chapter.lessons.indexOf(lesson) + 1;
     final narrow = MediaQuery.sizeOf(context).width < 600;
@@ -365,19 +415,22 @@ class LessonCard extends StatelessWidget {
             const SizedBox(height: 2),
             Text(lesson.title, style: theme.textTheme.headlineLarge),
           ]);
-          final button = lesson.drills
-              ? FilledButton.icon(
-                  onPressed: () => context.push('/exercises/lessons/${lesson.ref}'),
-                  icon: const Icon(Icons.edit_outlined, size: 18),
-                  label: const Text('Làm Bài Tập'),
-                )
-              : null;
+          final button = Wrap(spacing: 8, runSpacing: 8, children: [
+            GrammarMarkButton(lessonRef: lesson.ref),
+            if (lesson.drills)
+              FilledButton.icon(
+                onPressed: () => context.push('/exercises/lessons/${lesson.ref}'),
+                icon: const Icon(Icons.edit_outlined, size: 18),
+                label: const Text('Làm Bài Tập'),
+              ),
+          ]);
           if (narrow) {
-            return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [head, if (button != null) ...[const SizedBox(height: 12), button]]);
+            return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [head, const SizedBox(height: 12), button]);
           }
           return Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
             Expanded(child: head),
-            if (button != null) ...[const SizedBox(width: 16), Padding(padding: const EdgeInsets.only(top: 22), child: button)],
+            const SizedBox(width: 16),
+            Padding(padding: const EdgeInsets.only(top: 22), child: button),
           ]);
         }),
         const SizedBox(height: 20),
@@ -408,6 +461,21 @@ class LessonCard extends StatelessWidget {
           ]),
         ),
       ]),
+    );
+  }
+}
+
+/// Bookmarks the lesson into Ngữ Pháp Của Bạn, or removes it.
+class GrammarMarkButton extends ConsumerWidget {
+  final int lessonRef;
+  const GrammarMarkButton({super.key, required this.lessonRef});
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final marked = ref.watch(grammarMarksProvider).contains(lessonRef);
+    return OutlinedButton.icon(
+      onPressed: () => ref.read(grammarMarksProvider.notifier).toggle(lessonRef),
+      icon: Icon(marked ? Icons.bookmark : Icons.bookmark_add_outlined, size: 18),
+      label: Text(marked ? 'Đã lưu' : 'Lưu bài'),
     );
   }
 }
@@ -444,6 +512,8 @@ Future<void> showLessonSheet(BuildContext context, int ref) {
               children: [
                 Row(children: [
                   Expanded(child: Text(l.title, style: Theme.of(context).textTheme.headlineSmall)),
+                  GrammarMarkButton(lessonRef: ref),
+                  const SizedBox(width: 4),
                   TextButton(
                     onPressed: () {
                       Navigator.pop(context);

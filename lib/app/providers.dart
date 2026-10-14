@@ -8,6 +8,7 @@ import '../data/content_db.dart';
 import '../data/models.dart';
 import '../data/search_key.dart';
 import '../data/user_db.dart';
+import '../data/user_db_more.dart';
 import '../domain/lookup.dart';
 import '../platform/tts.dart';
 
@@ -147,6 +148,20 @@ class UserWordsNotifier extends Notifier<UserWordsState> {
 }
 
 final userWordsProvider = NotifierProvider<UserWordsNotifier, UserWordsState>(UserWordsNotifier.new);
+
+/// Bookmarked grammar lessons (Ngữ Pháp Của Bạn), by lesson ref.
+class GrammarMarksNotifier extends Notifier<Set<int>> {
+  @override
+  Set<int> build() => ref.read(userDbProvider).grammarMarks();
+
+  void toggle(int lessonRef) {
+    final marked = !state.contains(lessonRef);
+    ref.read(userDbProvider).setGrammarMark(lessonRef, marked);
+    state = marked ? {...state, lessonRef} : ({...state}..remove(lessonRef));
+  }
+}
+
+final grammarMarksProvider = NotifierProvider<GrammarMarksNotifier, Set<int>>(GrammarMarksNotifier.new);
 
 /// Keys whose words are *underlined* in texts (docs/08 G10): every saved word and the
 /// members of its Word Forms family. A text word is underlined when it, or its base form

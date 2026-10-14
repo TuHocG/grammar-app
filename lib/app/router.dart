@@ -77,8 +77,9 @@ GoRouter buildRouter() => GoRouter(
         GoRoute(
           path: '/grammar',
           builder: (_, _) => const GrammarPage(),
-          routes: [GoRoute(path: ':ref', builder: (_, s) => GrammarLessonPage(ref: int.parse(s.pathParameters['ref']!)))],
+          routes: [GoRoute(path: ':ref', builder: (_, s) => GrammarLessonPage(ref: int.parse(s.pathParameters['ref']!), saved: s.uri.queryParameters['saved'] == '1'))],
         ),
+        GoRoute(path: '/my-grammar', builder: (_, _) => const GrammarPage(savedOnly: true)),
         GoRoute(
           path: '/exercises',
           redirect: (_, s) => s.uri.path == '/exercises' ? '/' : null,

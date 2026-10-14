@@ -1,10 +1,17 @@
-/// User state for Luyện Nói picks (old DataSpChon) and picture-vocabulary picks
-/// (old dataHH.xy `Chon` byte).
+/// User state for Luyện Nói picks (old DataSpChon), picture-vocabulary picks
+/// (old dataHH.xy `Chon` byte) and bookmarked grammar lessons (Ngữ Pháp Của Bạn).
 library;
 
 import 'user_db.dart';
 
 extension UserDbMore on UserDb {
+  /// Grammar lessons the user bookmarked (lesson refs).
+  Set<int> grammarMarks() => {for (final r in raw.select('SELECT ref FROM user_grammar_mark')) r['ref'] as int};
+
+  void setGrammarMark(int ref, bool marked) => marked
+      ? raw.execute('INSERT OR IGNORE INTO user_grammar_mark(ref, added_at) VALUES (?, ?)', [ref, DateTime.now().millisecondsSinceEpoch])
+      : raw.execute('DELETE FROM user_grammar_mark WHERE ref = ?', [ref]);
+
   /// (dialogId, pairIdx) picked among the given dialogs, in pick order.
   List<(int, int)> dialogPicks(List<int> dialogIds) {
     if (dialogIds.isEmpty) return const [];

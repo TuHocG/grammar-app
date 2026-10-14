@@ -217,6 +217,10 @@ Nên học theo thứ tự. Làm bài tập của từng bài trước, rồi tr
 ## Bài tập
 - Bài có nhãn **BT** có bài tập đi kèm: mở bài rồi bấm **Làm Bài Tập**.
 - **Bài tập trộn**: bấm **Chọn nhiều bài**, đánh dấu các bài có BT, rồi bấm **Làm bài tập trộn**. Câu hỏi của các bài đó được trộn chung. **Thoát chọn** để trở lại.
+
+## Ngữ Pháp Của Bạn
+- Bấm **Lưu bài** ở đầu bài (hoặc trong bảng bài mở nhanh) để lưu bài vào **Ngữ Pháp Của Bạn**; bấm lại (**Đã lưu**) để bỏ. Bài đã lưu có dấu 🔖 trong danh sách.
+- Mục **Ngữ Pháp Của Bạn** ở phần Cá nhân trên trang chính chỉ hiện các bài đã lưu, theo chương, với đủ chức năng như trang Văn Phạm: tìm, bài tập, bài tập trộn. Bài trước / bài kế chỉ đi qua các bài đã lưu.
 ''',
   ),
   AppHelpTopic(

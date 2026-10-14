@@ -39,6 +39,7 @@ const _learn = [
 const _personal = [
   _Item('Từ Vựng Của Bạn', 'Từ bạn lưu khi đọc, tô đỏ trong mọi bài', Icons.bookmark_outline, '/words'),
   _Item('Quay Từ', 'Thẻ ghi nhớ từ các từ đã lưu', Icons.style_outlined, '/spin'),
+  _Item('Ngữ Pháp Của Bạn', 'Bài văn phạm bạn đã lưu', Icons.bookmarks_outlined, '/my-grammar'),
   _Item('Bài Nhập Của Bạn', 'Tự nhập bài, dùng đủ tính năng đọc', Icons.edit_note_outlined, '/my-readings'),
 ];
 

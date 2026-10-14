@@ -41,6 +41,7 @@ class UserDb {
         id INTEGER PRIMARY KEY AUTOINCREMENT, package TEXT NOT NULL, title TEXT NOT NULL,
         en TEXT NOT NULL, vi TEXT NOT NULL, img TEXT, created_at INTEGER NOT NULL
       );
+      CREATE TABLE IF NOT EXISTS user_grammar_mark (ref INTEGER PRIMARY KEY, added_at INTEGER NOT NULL);
     ''');
     return UserDb._(db);
   }

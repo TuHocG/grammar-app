@@ -5,7 +5,7 @@ import 'dart:convert';
 
 import 'user_db.dart';
 
-const _tables = ['user_setting', 'user_word', 'user_progress', 'user_dialog_pick', 'user_picture_pick', 'user_wordform_mark', 'user_reading'];
+const _tables = ['user_setting', 'user_word', 'user_progress', 'user_dialog_pick', 'user_picture_pick', 'user_wordform_mark', 'user_reading', 'user_grammar_mark'];
 
 String exportBackup(UserDb db) {
   final out = <String, Object?>{'format': 1, 'exported': DateTime.now().toIso8601String()};

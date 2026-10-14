@@ -90,6 +90,7 @@ void main() {
       ('Đàm thoại', () => dialogPractice(db, db.dialog(1)!)),
       ('Từ Vựng Tranh', () => const PictureTopicPage(id: 1)),
       ('Văn Phạm', () => const GrammarPage()),
+      ('Ngữ Pháp Của Bạn', () => const GrammarPage(savedOnly: true)),
       ('home', () => const HomePage()),
       ('Tạo bài đọc', () => const UserReadingEditPage()),
     ]) {
