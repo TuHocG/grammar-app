@@ -5742,12 +5742,6 @@
           ]
         }
       ]
-    },
-    {
-      "sid": 150,
-      "title": "Bài Nhập Của Bạn.",
-      "file": "sec-150.json",
-      "items": [{"id": 4715, "title": "Tạo bài đọc.", "audio": false}]
     }
   ]
 }
