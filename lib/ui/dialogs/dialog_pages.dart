@@ -42,8 +42,13 @@ class DialogTopicsPage extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final db = ref.read(contentDbProvider);
     final topics = db.dialogTopics();
-    final picks = ref.read(userDbProvider).dialogPickKeys();
+    final userDb = ref.read(userDbProvider);
+    ref.watch(progressRevisionProvider);
+    final picks = userDb.dialogPickKeys();
+    final lastId = int.tryParse(userDb.progress('dialog', 'last') ?? '');
+    final last = lastId == null ? null : db.dialog(lastId);
     final theme = Theme.of(context);
+    final g = context.g;
     return Scaffold(
       appBar: GrammarAppBar(
         crumbs: const [Crumb('Luyện Nói')],
@@ -52,8 +57,28 @@ class DialogTopicsPage extends ConsumerWidget {
       body: RailListView(
         children: [
           Text('Luyện Nói', style: theme.textTheme.headlineLarge),
-          Text('${topics.length} chủ đề · chạm từ để tra, chạm dòng để dịch · Chọn câu để ôn tập', style: theme.textTheme.bodyLarge?.copyWith(color: context.g.slate)),
+          Text('${topics.length} chủ đề · chạm từ để tra, chạm dòng để dịch · Chọn câu để ôn tập', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
           const SizedBox(height: 20),
+          if (last != null)
+            Padding(
+              padding: const EdgeInsets.only(bottom: 16),
+              child: Surface(
+                onTap: () => context.push('/dialogs/${last.id}'),
+                padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
+                child: Row(children: [
+                  _thumb(db, last.id, width: 72, height: 56),
+                  const SizedBox(width: 14),
+                  Expanded(
+                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                      Text('Đang học · ${db.dialogTopic(last.sid)?.title ?? ''}', style: theme.textTheme.bodySmall, maxLines: 1, overflow: TextOverflow.ellipsis),
+                      Text(last.title, style: ReadingStyles.line(context).copyWith(fontSize: 18, fontWeight: FontWeight.w600), maxLines: 1, overflow: TextOverflow.ellipsis),
+                      if (last.pairs.isNotEmpty) Text(last.pairs.first.a, style: theme.textTheme.bodySmall?.copyWith(color: g.slate), maxLines: 1, overflow: TextOverflow.ellipsis),
+                    ]),
+                  ),
+                  FilledButton(onPressed: () => context.push('/dialogs/${last.id}'), child: const Text('Tiếp tục')),
+                ]),
+              ),
+            ),
           AutoGrid(
             minWidth: 260,
             children: [

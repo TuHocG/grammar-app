@@ -282,6 +282,8 @@ Khi đã đánh dấu tiêu điểm, hai chế độ luyện chỉ hỏi các ti
     body: r'''
 Chọn chủ đề, rồi chọn một bài; mỗi bài gồm vài cặp câu A–B. Xem phương pháp học ở **Cách học hiệu quả**.
 
+Thẻ **Đang học** đầu trang mở lại bài bạn luyện gần nhất.
+
 ## Trong một bài
 - Chạm một dòng để nghe và xem câu dịch; chạm từ để tra.
 - **Bản dịch** / nút dịch: hiện dịch của mọi dòng. **Cỡ chữ** như ở Bài Đọc.

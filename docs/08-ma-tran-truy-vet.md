@@ -157,6 +157,7 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | S4 | **ôn tập**: luyện các câu đã chọn trong chủ đề; dưới 4 câu → luyện toàn bộ | E §7.11 | — | Giữ: nút "Ôn tập n cặp đã chọn" / "Ôn tập cả chủ đề" trên trang bài và trang chủ đề → Đàm thoại (máy đọc A, người học đáp B) | M4 | — | ☑ |
 | S5 | Đàm thoại trong Luyện Nói: máy đọc câu A (giọng Anh), người học nói B; Answer + gợi ý theo mức (T2); Back/Next | E §1.6, §4.6 | — | Giữ (không có giọng Việt) | M4 | — | ☑ |
 | S6 | Nút "Giọng Việt"/tốc độ Việt riêng (mô tả trong help) | E §7.12 | — | Bỏ: không tồn tại trong mã | — | — | ☐ |
+| S7 | Trang chủ đề: tiếp tục bài đang luyện | — (mới) | `user_progress` (`dialog/last`) | Thêm: thẻ **Đang học** mở lại bài gần nhất (không có ô tìm: tên bài chỉ là "Bài n") | M4 | — | ☑ |
 
 ## 9. Bài Nhập Của Bạn – help [25]
 
