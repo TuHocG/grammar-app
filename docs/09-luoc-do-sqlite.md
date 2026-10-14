@@ -52,4 +52,20 @@ Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ?
 | `user_reading` | id, package, title, en (JSON), vi (JSON), img, grammar_refs (JSON), created_at | `BaiNhap/` |
 | `user_setting` | key, value | tốc độ, giọng, cỡ chữ, chủ đề |
 
+Khoá `user_progress` (kind / item_id → state) app đang dùng:
+
+| kind | item_id | state |
+|---|---|---|
+| `reading` | `last_reading` | id bài đọc mở gần nhất (cả bài nhập của bạn) |
+| `reading` | `last_section`, `last_in_<sid>` | nhóm mở gần nhất; bài mở gần nhất trong nhóm |
+| `grammar` | `last_lesson`; `chapter` | bài văn phạm mở gần nhất; chương đang mở |
+| `exercise` | `menu<m>-g<n>`, `lessons-<refs>`, `wordforms` | `{"pos","score","done"}` của nhóm bài tập |
+| `listening` | `last`; `unit<u>` | unit mở gần nhất; điểm lần làm gần nhất ("đúng x/y") |
+| `dialog` | `last`; `last_topic` | bài Luyện Nói mở gần nhất; chủ đề mở gần nhất |
+| `analysis` | `last` | bài Phân Tích Câu mở gần nhất |
+| `pictures` | `last` | chủ đề Từ Vựng (Tranh) mở gần nhất |
+| `video` | `last` | video mở gần nhất |
+
+`updated_at` tăng ngặt theo mỗi lần ghi; thẻ **Đang học** ở trang chính lấy mục có `updated_at` lớn nhất trong các khoá `last…` ở trên.
+
 Xuất/nhập: toàn bộ các bảng `user_*` ra một file JSON để sao lưu và chuyển máy.

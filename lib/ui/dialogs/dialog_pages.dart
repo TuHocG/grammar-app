@@ -158,6 +158,7 @@ class _DialogPageState extends ConsumerState<DialogPage> {
         });
     }
     final sid = ref.read(contentDbProvider).dialogTopicOf(widget.id);
+    ref.read(userDbProvider).setProgress('dialog', 'last', '${widget.id}');
     if (sid != null) ref.read(userDbProvider).setProgress('dialog', 'last_topic', '$sid');
   }
 

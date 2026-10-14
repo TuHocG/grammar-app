@@ -175,7 +175,7 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | Mã | Hành vi | Mã nguồn | Dữ liệu | Quyết định | Mốc | Kiểm thử | TT |
 |---|---|---|---|---|---|---|---|
 | U1 | Lưu từ (từ, câu ngữ cảnh, nghĩa riêng, đánh dấu đỏ) | `dataChon.txt`, `DataTuDienUser.txt` | `user_word` | Giữ | M1 | — | ☑ |
-| U2 | Vị trí mục đã mở của 18 màn hình, nhóm "Bài Tập n" đang làm, bài đọc đang dở | `data.Kcu` | `user_progress` | Giữ | M1–M5 | — | ◐ |
+| U2 | Vị trí mục đã mở của 18 màn hình, nhóm "Bài Tập n" đang làm, bài đọc đang dở | `data.Kcu` | `user_progress` | Giữ; trang chính có thẻ **Đang học** (mục mở gần nhất trong Bài Đọc, Văn Phạm, Luyện Nghe, Luyện Nói, Phân Tích Câu, Từ Vựng (Tranh), Video) và **Bài tập đang luyện** (ẩn khi đã làm hết nhóm), cập nhật ngay khi quay về | M1–M5 | `progress_revision_test` | ◐ |
 | U3 | Cài đặt: giọng, tốc độ, âm thanh, cỡ chữ, kiểu Quay Từ, màu | `data.Kcu` | `user_setting` | Giữ | M1 | — | ☑ |
 | U4 | Câu Luyện Nói đã chọn, tiêu điểm tranh đã chọn, mức Word Forms | `DataSpChon`, `dataHH.xy`, `Datawf.vt` | `user_dialog_pick`, `user_picture_pick`, `user_wordform_mark` | Giữ | M3–M5 | — | ☑ |
 | U5 | Điểm bài tập (chỉ báo % cuối nhóm, không lưu) | `ChamDiemBT` | `user_progress` (mới: lưu lần làm gần nhất) | Tương đương: lưu kết quả để xem lại; điểm trên trang chính và danh sách Bài Tập cập nhật ngay khi thoát bài | M3 | `progress_revision_test` | ☑ |

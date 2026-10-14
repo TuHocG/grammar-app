@@ -91,6 +91,7 @@ Muốn đàm thoại được cần ba điều: thuộc nhiều câu nói theo l
 - Chạm (hoặc nhấp chuột) vào một từ tiếng Anh để xem nghĩa và nghe đọc.
 - Từ bạn đã lưu hiện **màu đỏ** trong mọi bài; các dạng khác của nó (kicked của kick, các từ cùng họ) được **gạch chân**.
 - Nút mũi tên ở góc trên trái để quay lại; chữ **G** để về trang chính.
+- Trang chính có thẻ **Đang học** mở lại mục bạn xem gần nhất (bài đọc, văn phạm, luyện nghe, luyện nói, phân tích câu, từ vựng tranh hoặc video) và thẻ **Bài tập đang luyện** khi còn bài tập làm dở.
 - Nút **?** ở góc trên phải mở hướng dẫn của trang đang xem.
 - Cỡ chữ và giao diện sáng/tối chỉnh trong **Cài Đặt**.
 

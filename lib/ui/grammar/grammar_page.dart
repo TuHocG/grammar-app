@@ -289,17 +289,42 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
   }
 }
 
-class GrammarLessonPage extends ConsumerWidget {
+class GrammarLessonPage extends ConsumerStatefulWidget {
   final int ref;
   const GrammarLessonPage({super.key, required this.ref});
 
   @override
-  Widget build(BuildContext context, WidgetRef wref) {
-    final db = wref.read(contentDbProvider);
+  ConsumerState<GrammarLessonPage> createState() => _GrammarLessonPageState();
+}
+
+class _GrammarLessonPageState extends ConsumerState<GrammarLessonPage> {
+  // Saved once per lesson, not per build: a rebuild under another route (theme, window
+  // size) must not make this lesson the most recent activity again.
+  void _save() {
+    if (ref.read(contentDbProvider).grammarLesson(widget.ref) != null) {
+      ref.read(userDbProvider).setProgress('grammar', 'last_lesson', '${widget.ref}');
+    }
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _save();
+  }
+
+  @override
+  void didUpdateWidget(GrammarLessonPage old) {
+    super.didUpdateWidget(old);
+    if (old.ref != widget.ref) _save();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final ref = widget.ref;
+    final db = this.ref.read(contentDbProvider);
     final l = db.grammarLesson(ref);
     if (l == null) return const Scaffold(body: EmptyNote('Không có bài này.'));
-    wref.read(userDbProvider).setProgress('grammar', 'last_lesson', '$ref');
-    final all = wref.read(grammarLessonsProvider);
+    final all = this.ref.read(grammarLessonsProvider);
     final chapter = _chapterOf(_chapters(all), ref);
     return Scaffold(
       appBar: GrammarAppBar(crumbs: [

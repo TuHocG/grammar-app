@@ -121,6 +121,7 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
     final db = ref.read(contentDbProvider);
     _film = db.film(widget.id);
     if (_film != null) {
+      ref.read(userDbProvider).setProgress('video', 'last', '${widget.id}');
       _lines = db.subtitleLines(_film!.id);
       _file = findVideoFile(videoDir(db, ref.read(userDbProvider)), _film!);
       _loop = int.tryParse(ref.read(userDbProvider).setting('video_loop') ?? '') ?? 0;

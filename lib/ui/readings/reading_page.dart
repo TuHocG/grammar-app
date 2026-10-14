@@ -71,6 +71,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
       }
       if (_reading!.sid >= 0) ref.read(userDbProvider).setProgress('reading', 'last_in_${_reading!.sid}', '${_reading!.id}');
       ref.read(userDbProvider).setProgress('reading', 'last_reading', '${_reading!.id}');
+      if (widget.fromAnalysis && lesson != null) ref.read(userDbProvider).setProgress('analysis', 'last', '$lesson');
       _player = SentencePlayer(
         tts: ref.read(ttsProvider),
         reading: _reading!,

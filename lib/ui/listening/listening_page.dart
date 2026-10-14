@@ -96,6 +96,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     _tts = ref.read(ttsProvider);
     final db = ref.read(contentDbProvider);
     _items = db.listeningItems(widget.unit);
+    ref.read(userDbProvider).setProgress('listening', 'last', '${widget.unit}');
     _res = List.generate(_items.length, (_) => _Result());
     _source = db.listeningReadingTitle(widget.unit);
     final r = db.listeningReading(widget.unit);

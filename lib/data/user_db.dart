@@ -80,6 +80,12 @@ class UserDb {
     return rows.isEmpty ? null : rows.first['state'] as String;
   }
 
+  /// When a progress row was last written (ms since epoch), or null.
+  int? progressTime(String kind, String itemId) {
+    final rows = _db.select('SELECT updated_at FROM user_progress WHERE kind = ? AND item_id = ?', [kind, itemId]);
+    return rows.isEmpty ? null : rows.first['updated_at'] as int;
+  }
+
   /// All progress rows of one kind, keyed by item id (e.g. every exercise group done).
   Map<String, String> progressOf(String kind, {String prefix = ''}) => {
         for (final r in _db.select('SELECT item_id, state FROM user_progress WHERE kind = ? AND item_id LIKE ?', [kind, '$prefix%']))
@@ -111,7 +117,7 @@ class UserDb {
   void setProgress(String kind, String itemId, String state) {
     final newest = _db.select('SELECT kind, item_id FROM user_progress ORDER BY updated_at DESC LIMIT 1');
     final wasNewest = newest.isNotEmpty && newest.first['kind'] == kind && newest.first['item_id'] == itemId;
-    // Reopening an older item keeps its value but makes it the most recent.
+    // Reopening an older item keeps its value but makes it the most recent ("Đang học").
     final changed = !wasNewest || progress(kind, itemId) != state;
     _db.execute(
       'INSERT INTO user_progress(kind, item_id, state, updated_at) VALUES (?, ?, ?, ?) '

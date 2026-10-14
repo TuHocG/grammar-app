@@ -15,6 +15,7 @@ import '../../app/theme.dart';
 import '../../data/content_db.dart';
 import '../../data/content_db_more.dart';
 import '../../data/reading_loader.dart';
+import '../analysis/analysis_page.dart' show analysisReadingIds;
 import '../exercises/exercise_pages.dart' show groupSize;
 import '../widgets/shell.dart';
 
@@ -70,9 +71,7 @@ class HomePage extends ConsumerWidget {
     final exerciseProgress = userDb.progressOf('exercise', prefix: 'menu');
 
     // "Continue" cards.
-    final lastReadingId = int.tryParse(userDb.progress('reading', 'last_reading') ?? '');
-    final lastLoaded = lastReadingId == null ? null : loadReading(ref, lastReadingId);
-    final lastReading = lastLoaded == null || lastLoaded.sid == 0 ? null : lastLoaded;   // the IPA lesson has its own menu item
+    final activity = _latestActivity(ref, context.isWide);
     final lastEx = userDb.latestProgress('exercise', prefix: 'menu');
     _ExerciseResume? resume;
     if (lastEx != null) {
@@ -126,27 +125,27 @@ class HomePage extends ConsumerWidget {
               Flexible(child: Text('Giọng ${s.ttsVoice == null ? 'hệ thống' : 'riêng'} · Tốc độ ${s.ttsSpeed}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate))),
             ]),
           ]),
-          if (lastReading != null || resume != null) ...[
+          if (activity != null || resume != null) ...[
             const SizedBox(height: 16),
             LayoutBuilder(builder: (context, c) {
               final stacked = c.maxWidth < 760;
               final cards = <Widget>[
-                if (lastReading != null)
+                if (activity != null)
                   Surface(
-                    onTap: () => context.push('/readings/${lastReading.id}'),
+                    onTap: () => context.push(activity.route),
                     padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
                     child: Row(children: [
-                      _Thumb(image: lastReading.img == null ? null : (lastReading.id >= userReadingBase ? FileImage(File(lastReading.img!)) : db.imageProvider(lastReading.img!))),
+                      _Thumb(image: activity.image, icon: activity.icon),
                       const SizedBox(width: 16),
                       Expanded(
                         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                          Text('Đang đọc${lastReading.sid >= 0 ? ' · ${db.section(lastReading.sid)?.title ?? ''}' : ''}', style: theme.textTheme.bodySmall, maxLines: 1, overflow: TextOverflow.ellipsis),
-                          Text(lastReading.title, style: ReadingStyles.line(context).copyWith(fontSize: 20, fontWeight: FontWeight.w600), maxLines: 1, overflow: TextOverflow.ellipsis),
-                          Text('${lastReading.sentences.length} câu${lastReading.hasRealAudio ? ' · giọng đọc thật' : ''}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+                          Text('Đang học · ${activity.label}', style: theme.textTheme.bodySmall, maxLines: 1, overflow: TextOverflow.ellipsis),
+                          Text(activity.title, style: ReadingStyles.line(context).copyWith(fontSize: 20, fontWeight: FontWeight.w600), maxLines: 1, overflow: TextOverflow.ellipsis),
+                          if (activity.detail.isNotEmpty) Text(activity.detail, style: theme.textTheme.bodyMedium?.copyWith(color: g.slate), maxLines: 1, overflow: TextOverflow.ellipsis),
                         ]),
                       ),
                       const SizedBox(width: 12),
-                      FilledButton(onPressed: () => context.push('/readings/${lastReading.id}'), child: const Text('Tiếp tục')),
+                      FilledButton(onPressed: () => context.push(activity.route), child: const Text('Tiếp tục')),
                     ]),
                   ),
                 if (resume != null)
@@ -165,8 +164,8 @@ class HomePage extends ConsumerWidget {
               if (stacked) return Column(children: [for (final c in cards) Padding(padding: const EdgeInsets.only(bottom: 12), child: c)]);
               return IntrinsicHeight(
                 child: Row(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-                  if (lastReading != null) Expanded(flex: 2, child: cards.first),
-                  if (lastReading != null && resume != null) const SizedBox(width: 16),
+                  if (activity != null) Expanded(flex: 2, child: cards.first),
+                  if (activity != null && resume != null) const SizedBox(width: 16),
                   if (resume != null) Expanded(child: cards.last),
                 ]),
               );
@@ -336,13 +335,110 @@ class _ExerciseResume {
   const _ExerciseResume(this.menuName, this.group, this.pos, this.score, this.done, this.groups);
 }
 
+/// The most recent study activity for the "Đang học" card (U5).
+class _Activity {
+  final String label;   // group, and its section when there is one
+  final String title;
+  final String detail;
+  final IconData icon;
+  final ImageProvider? image;
+  final String route;
+  const _Activity(this.label, this.title, this.detail, this.icon, this.route, [this.image]);
+}
+
+/// Picks whichever of the seven study groups was opened last: Bài Đọc, Văn Phạm, Luyện
+/// Nghe, Luyện Nói, Phân Tích Câu, Từ Vựng (Tranh), Video.
+_Activity? _latestActivity(WidgetRef ref, bool wide) {
+  final db = ref.read(contentDbProvider);
+  final userDb = ref.read(userDbProvider);
+
+  _Activity? reading() {
+    final id = int.tryParse(userDb.progress('reading', 'last_reading') ?? '');
+    final r = id == null ? null : loadReading(ref, id);
+    if (r == null || r.sid == 0) return null;   // the IPA lesson has its own menu item
+    final section = r.sid >= 0 ? db.section(r.sid)?.title : null;
+    final image = r.img == null ? null : (r.id >= userReadingBase ? FileImage(File(r.img!)) : db.imageProvider(r.img!));
+    return _Activity(section == null ? 'Bài Đọc' : 'Bài Đọc · $section', r.title, '${r.sentences.length} câu${r.hasRealAudio ? ' · giọng đọc thật' : ''}', Icons.menu_book_outlined, '/readings/${r.id}', image);
+  }
+
+  _Activity? analysis() {
+    final lesson = int.tryParse(userDb.progress('analysis', 'last') ?? '');
+    final i = lesson == null ? -1 : db.analysisLessonIds().indexOf(lesson);
+    final ids = analysisReadingIds(db);
+    final r = i < 0 || i >= ids.length ? null : db.reading(ids[i]);
+    if (r == null) return null;
+    return _Activity('Phân Tích Câu', r.title, 'Bài ${i + 1}', Icons.manage_search, '/analysis/$lesson', r.img == null ? null : db.imageProvider(r.img!));
+  }
+
+  _Activity? grammar() {
+    final n = int.tryParse(userDb.progress('grammar', 'last_lesson') ?? '');
+    final l = n == null ? null : db.grammarLesson(n);
+    if (l == null) return null;
+    // Wide screens show lessons inside the tree page, which reopens the last lesson.
+    return _Activity('Văn Phạm', l.title, '', Icons.account_tree_outlined, wide ? '/grammar' : '/grammar/${l.ref}');
+  }
+
+  _Activity? listening() {
+    final u = int.tryParse(userDb.progress('listening', 'last') ?? '');
+    if (u == null || !db.listeningUnits().contains(u)) return null;
+    final source = db.listeningReadingTitle(u);
+    final img = source == null ? null : db.reading(source.id)?.img;   // the unit's reading
+    return _Activity('Luyện Nghe', source == null ? 'Unit $u' : 'Unit $u · ${source.title}', userDb.progress('listening', 'unit$u') ?? '${db.listeningCount(u)} câu', Icons.hearing_outlined, '/listening/$u', img == null ? null : db.imageProvider(img));
+  }
+
+  _Activity? dialog() {
+    final id = int.tryParse(userDb.progress('dialog', 'last') ?? '');
+    final d = id == null ? null : db.dialog(id);
+    if (d == null) return null;
+    final topic = db.dialogTopic(d.sid)?.title;
+    final img = db.dialogPageImage(d.id);   // the picture the dialog page shows
+    return _Activity(topic == null ? 'Luyện Nói' : 'Luyện Nói · $topic', d.title, '${d.pairs.length} cặp câu', Icons.record_voice_over_outlined, '/dialogs/${d.id}', img == null ? null : db.imageProvider(img));
+  }
+
+  _Activity? pictures() {
+    final id = int.tryParse(userDb.progress('pictures', 'last') ?? '');
+    final t = id == null ? null : db.pictureTopic(id);
+    if (t == null) return null;
+    return _Activity('Từ Vựng (Tranh)', t.title, '${t.words.length} từ', Icons.image_outlined, '/pictures/${t.id}', t.page == null ? null : db.imageProvider(t.page!));
+  }
+
+  _Activity? video() {
+    final id = int.tryParse(userDb.progress('video', 'last') ?? '');
+    final f = id == null ? null : db.film(id);
+    if (f == null) return null;
+    return _Activity('Video', f.title, '${f.code} · ${f.lines} câu phụ đề', Icons.movie_outlined, '/video/${f.id}');
+  }
+
+  // Analysis comes before reading: opening an analysis lesson also records its reading in
+  // the same instant, and the earlier entry wins a tie.
+  final candidates = <(String, String, _Activity? Function())>[
+    ('analysis', 'last', analysis),
+    ('reading', 'last_reading', reading),
+    ('grammar', 'last_lesson', grammar),
+    ('listening', 'last', listening),
+    ('dialog', 'last', dialog),
+    ('pictures', 'last', pictures),
+    ('video', 'last', video),
+  ];
+  final byTime = [
+    for (final (kind, item, build) in candidates)
+      if (userDb.progressTime(kind, item) case final t?) (t, build),
+  ]..sort((a, b) => b.$1.compareTo(a.$1));   // stable: ties keep the order above
+  for (final (_, build) in byTime) {
+    final a = build();
+    if (a != null) return a;
+  }
+  return null;
+}
+
 class _Thumb extends StatelessWidget {
   final ImageProvider? image;
-  const _Thumb({this.image});
+  final IconData icon;
+  const _Thumb({this.image, this.icon = Icons.menu_book_outlined});
   @override
   Widget build(BuildContext context) {
     final g = context.g;
-    final box = Container(width: 64, height: 64, decoration: BoxDecoration(color: g.lilac, borderRadius: BorderRadius.circular(8)), child: Icon(Icons.menu_book_outlined, color: g.iris));
+    final box = Container(width: 64, height: 64, decoration: BoxDecoration(color: g.lilac, borderRadius: BorderRadius.circular(8)), child: Icon(icon, color: g.iris));
     if (image == null) return box;
     return ClipRRect(
       borderRadius: BorderRadius.circular(8),
