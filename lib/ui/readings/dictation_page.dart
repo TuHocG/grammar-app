@@ -63,8 +63,11 @@ class _DictationPageState extends ConsumerState<DictationPage> {
     final t = _target;
     final ok = t.toLowerCase().startsWith(typed.toLowerCase());
     final done = typed.trim().toLowerCase() == t.toLowerCase();
+    // Read the sentence again once, when the text turns wrong; more wrong letters,
+    // deleting them or moving the cursor do not restart it.
+    final turnedWrong = !ok && !_wrong;
     if (ok != !_wrong || done != _done) setState(() { _wrong = !ok; _done = done; });
-    if (!ok && typed.isNotEmpty) _speak();
+    if (turnedWrong) _speak();
   }
 
   void _hintChar() {
