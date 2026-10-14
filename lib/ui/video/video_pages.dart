@@ -32,9 +32,22 @@ class VideoListPage extends ConsumerStatefulWidget {
 class _VideoListPageState extends ConsumerState<VideoListPage> {
   String _group = 'A';
 
+  int? get _lastId => int.tryParse(ref.read(userDbProvider).progress('video', 'last') ?? '');
+
+  @override
+  void initState() {
+    super.initState();
+    // Open on the group of the episode watched last, so its "Đang luyện" row is in view.
+    final id = _lastId;
+    final last = id == null ? null : ref.read(contentDbProvider).film(id);
+    if (last != null) _group = last.group;
+  }
+
   @override
   Widget build(BuildContext context) {
     final db = ref.read(contentDbProvider);
+    ref.watch(progressRevisionProvider);
+    final lastId = _lastId;
     final films = db.films().where((f) => f.group == _group).toList();
     final dir = videoDir(db, ref.read(userDbProvider));
     final theme = Theme.of(context);
@@ -79,11 +92,14 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
               final f = films[i];
               final file = dir.isEmpty ? null : findVideoFile(dir, f);
               final mins = (f.duration / 60).round();
+              final current = f.id == lastId;
+              final icon = file == null ? Icon(Icons.videocam_off_outlined, color: theme.colorScheme.outline) : const Icon(Icons.play_circle_outline);
               return ListTile(
                 leading: CircleAvatar(child: Text(f.code.split(' ').last)),
-                title: Text(f.group == 'F' ? f.title : (f.firstLine ?? f.code), maxLines: 1, overflow: TextOverflow.ellipsis),
+                title: Text(f.group == 'F' ? f.title : (f.firstLine ?? f.code), maxLines: 1, overflow: TextOverflow.ellipsis, style: current ? const TextStyle(fontWeight: FontWeight.w600) : null),
                 subtitle: Text('${f.code} · $mins phút · ${f.lines} câu', style: theme.textTheme.bodySmall),
-                trailing: file == null ? Icon(Icons.videocam_off_outlined, color: theme.colorScheme.outline) : const Icon(Icons.play_circle_outline),
+                // Same marker as the Luyện Nghe list for the episode watched last.
+                trailing: current ? Row(mainAxisSize: MainAxisSize.min, children: [const SoftBadge('Đang luyện'), const SizedBox(width: 8), icon]) : icon,
                 onTap: () => context.push('/video/${f.id}'),
               );
             },
