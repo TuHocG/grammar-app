@@ -1,6 +1,7 @@
 /// Cài Đặt: voice, speed 1–7, font size, theme (docs/08 G15, G18).
 library;
 
+import 'package:flutter/foundation.dart' show kProfileMode, kReleaseMode;
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -27,6 +28,7 @@ class SettingsPage extends ConsumerStatefulWidget {
 
 class _SettingsPageState extends ConsumerState<SettingsPage> {
   List<TtsVoice>? _voices;
+  int _versionTaps = 0;
   late final _siteLink = TapGestureRecognizer()
     ..onTap = () async {
       var ok = false;
@@ -195,17 +197,33 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
           const ContentSourcesSection(),
           const _Header('Giới thiệu'),
           ListTile(
-            title: const Text(appTitleWithVersion),
-            subtitle: Text.rich(TextSpan(children: [
-              const TextSpan(text: 'Kế thừa và tiếp tục phát triển Grammar 3.1 của tuhocg.weebly.com. Trang chủ mới: '),
-              TextSpan(
-                text: 'tuhocg.github.io',
-                style: const TextStyle(color: Colors.blue),
-                recognizer: _siteLink,
-                mouseCursor: SystemMouseCursors.click,
-              ),
-              const TextSpan(text: '.\nMiễn phí; không được bán hay phân phối lại dữ liệu.'),
-            ])),
+            // Five taps on the version reveal the build details below the credit.
+            title: GestureDetector(
+              behavior: HitTestBehavior.opaque,
+              onTap: () => setState(() => _versionTaps++),
+              child: const Text(appTitleWithVersion),
+            ),
+            subtitle: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+              Text.rich(TextSpan(children: [
+                const TextSpan(text: 'Kế thừa và tiếp tục phát triển Grammar 3.1 của tuhocg.weebly.com. Trang chủ mới: '),
+                TextSpan(
+                  text: 'tuhocg.github.io',
+                  style: const TextStyle(color: Colors.blue),
+                  recognizer: _siteLink,
+                  mouseCursor: SystemMouseCursors.click,
+                ),
+                const TextSpan(text: '.\nMiễn phí; không được bán hay phân phối lại dữ liệu.'),
+              ])),
+              if (_versionTaps >= 5)
+                Padding(
+                  padding: const EdgeInsets.only(top: 6),
+                  child: SelectableText(
+                    'Bản build ${appBuildNumber == '' ? '?' : appBuildNumber} (${kReleaseMode ? 'release' : kProfileMode ? 'profile' : 'debug'})\n'
+                    '${gitCommit == '' ? 'Commit không rõ' : 'Commit $gitCommit'}${gitCommitMessage == '' ? '' : ': $gitCommitMessage'}',
+                    style: Theme.of(context).textTheme.bodySmall?.copyWith(color: Theme.of(context).colorScheme.onSurfaceVariant),
+                  ),
+                ),
+            ]),
           ),
             ]),
           ),
