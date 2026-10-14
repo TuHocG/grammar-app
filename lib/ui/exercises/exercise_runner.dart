@@ -404,30 +404,33 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
           baseline: TextBaseline.alphabetic,
           child: SizedBox(
             width: width,
-            child: TextField(
-              controller: ctls[b],
-              focusNode: nodes[b],
-              enabled: !_r.graded || !(ok ?? false),
-              style: style.copyWith(
-                fontWeight: FontWeight.w600,
-                color: ok == null ? g.iris : (ok ? g.iris : g.slate),
-                decoration: ok == false ? TextDecoration.lineThrough : null,
-                decorationColor: g.slate,
+            child: Shortcuts(
+              shortcuts: _blankVerticalKeys,
+              child: TextField(
+                controller: ctls[b],
+                focusNode: nodes[b],
+                enabled: !_r.graded || !(ok ?? false),
+                style: style.copyWith(
+                  fontWeight: FontWeight.w600,
+                  color: ok == null ? g.iris : (ok ? g.iris : g.slate),
+                  decoration: ok == false ? TextDecoration.lineThrough : null,
+                  decorationColor: g.slate,
+                ),
+                textAlign: TextAlign.center,
+                decoration: InputDecoration(
+                  isDense: true,
+                  contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                  filled: true,
+                  fillColor: ok == null ? g.canvas : (ok ? g.lilac : g.canvas),
+                  suffixIcon: ok == null ? null : Icon(ok ? Icons.check : Icons.close, size: 16, color: ok ? g.iris : g.slate),
+                  suffixIconConstraints: const BoxConstraints(minWidth: 24, minHeight: 20),
+                  border: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
+                  enabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: ok == false ? g.slate : g.iris, width: 2)),
+                  focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
+                  disabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
+                ),
+                onSubmitted: (_) => _r.graded ? _next() : _gradeFill(),
               ),
-              textAlign: TextAlign.center,
-              decoration: InputDecoration(
-                isDense: true,
-                contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                filled: true,
-                fillColor: ok == null ? g.canvas : (ok ? g.lilac : g.canvas),
-                suffixIcon: ok == null ? null : Icon(ok ? Icons.check : Icons.close, size: 16, color: ok ? g.iris : g.slate),
-                suffixIconConstraints: const BoxConstraints(minWidth: 24, minHeight: 20),
-                border: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
-                enabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: ok == false ? g.slate : g.iris, width: 2)),
-                focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
-                disabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
-              ),
-              onSubmitted: (_) => _r.graded ? _next() : _gradeFill(),
             ),
           ),
         ));
@@ -435,6 +438,17 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     }
     return Text.rich(TextSpan(children: spans), style: style);
   }
+
+  /// ↑ / ↓ in a blank go to its start / end (Shift: select). Flutter's own line-by-line
+  /// caret move asserts in a one-line field with centred text (Flutter 3.47).
+  static const _blankVerticalKeys = <ShortcutActivator, Intent>{
+    SingleActivator(LogicalKeyboardKey.arrowUp): ExtendSelectionToDocumentBoundaryIntent(forward: false, collapseSelection: true),
+    SingleActivator(LogicalKeyboardKey.arrowDown): ExtendSelectionToDocumentBoundaryIntent(forward: true, collapseSelection: true),
+    SingleActivator(LogicalKeyboardKey.arrowUp, shift: true): ExtendSelectionToDocumentBoundaryIntent(forward: false, collapseSelection: false),
+    SingleActivator(LogicalKeyboardKey.arrowDown, shift: true): ExtendSelectionToDocumentBoundaryIntent(forward: true, collapseSelection: false),
+    SingleActivator(LogicalKeyboardKey.pageUp): ExtendSelectionToDocumentBoundaryIntent(forward: false, collapseSelection: true),
+    SingleActivator(LogicalKeyboardKey.pageDown): ExtendSelectionToDocumentBoundaryIntent(forward: true, collapseSelection: true),
+  };
 
   /// Sentence of a choice exercise; each {n} is the blank's word, underlined and tappable.
   Widget _choiceStem(Exercise e) {

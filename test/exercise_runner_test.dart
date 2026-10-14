@@ -203,6 +203,21 @@ void main() {
     await tester.pumpAndSettle();
     expect(counter(tester), startsWith('Câu 2 /'));
   }, skip: !has);
+
+  testWidgets('arrow keys in a blank: ↑ / ↓ jump to its start / end, no caret assertion', (tester) async {
+    await tester.pumpWidget(wrap(ExerciseRunner(title: 't', exercises: db.exercisesInRange(0, 5))));
+    await tester.pumpAndSettle();
+    final field = find.byType(TextField).first;
+    await tester.enterText(field, 'abc');
+    await tester.pump();
+    final ctl = tester.widget<TextField>(field).controller!;
+    for (final (key, offset) in [(LogicalKeyboardKey.arrowUp, 0), (LogicalKeyboardKey.arrowRight, 1), (LogicalKeyboardKey.arrowDown, 3), (LogicalKeyboardKey.arrowLeft, 2), (LogicalKeyboardKey.arrowUp, 0)]) {
+      await tester.sendKeyEvent(key);
+      await tester.pump();
+      expect(ctl.selection.baseOffset, offset, reason: '$key');
+    }
+    expect(tester.takeException(), isNull);
+  }, skip: !has);
 }
 
 /// Presses Tab up to [max] times and returns the labels of [targets] in the order the
