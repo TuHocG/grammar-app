@@ -178,7 +178,7 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | U2 | Vị trí mục đã mở của 18 màn hình, nhóm "Bài Tập n" đang làm, bài đọc đang dở | `data.Kcu` | `user_progress` | Giữ | M1–M5 | — | ◐ |
 | U3 | Cài đặt: giọng, tốc độ, âm thanh, cỡ chữ, kiểu Quay Từ, màu | `data.Kcu` | `user_setting` | Giữ | M1 | — | ☑ |
 | U4 | Câu Luyện Nói đã chọn, tiêu điểm tranh đã chọn, mức Word Forms | `DataSpChon`, `dataHH.xy`, `Datawf.vt` | `user_dialog_pick`, `user_picture_pick`, `user_wordform_mark` | Giữ | M3–M5 | — | ☑ |
-| U5 | Điểm bài tập (chỉ báo % cuối nhóm, không lưu) | `ChamDiemBT` | `user_progress` (mới: lưu lần làm gần nhất) | Tương đương: lưu kết quả để xem lại | M3 | — | ◐ |
+| U5 | Điểm bài tập (chỉ báo % cuối nhóm, không lưu) | `ChamDiemBT` | `user_progress` (mới: lưu lần làm gần nhất) | Tương đương: lưu kết quả để xem lại; điểm trên trang chính và danh sách Bài Tập cập nhật ngay khi thoát bài | M3 | `progress_revision_test` | ☑ |
 | U6 | Chuyển máy: chép thư mục `user*` | — | xuất/nhập JSON | Tương đương | M6 | — | ☑ |
 
 ## 11. Tóm tắt quyết định

@@ -33,6 +33,7 @@ int importBackup(UserDb db, String json) {
       }
     }
     db.raw.execute('COMMIT');
+    db.progressReplaced();
   } catch (e) {
     db.raw.execute('ROLLBACK');
     rethrow;

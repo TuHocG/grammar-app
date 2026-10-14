@@ -2,6 +2,8 @@
 /// app's data.Kcu, dataChon.txt, DataTuDienUser.txt, DataSpChon, user flags in data files.
 library;
 
+import 'dart:async';
+
 import 'package:sqlite3/sqlite3.dart';
 
 import 'models.dart';
@@ -43,7 +45,16 @@ class UserDb {
     return UserDb._(db);
   }
 
-  void close() => _db.close();
+  final _progressChanges = StreamController<void>.broadcast();
+
+  /// Fires after a progress row changes value. Delivered asynchronously, so pages that
+  /// save progress in `initState`/`build` never notify listeners mid-build.
+  Stream<void> get progressChanges => _progressChanges.stream;
+
+  void close() {
+    _progressChanges.close();
+    _db.close();
+  }
 
   /// Raw handle for extensions in other files.
   Database get raw => _db;
@@ -81,11 +92,37 @@ class UserDb {
     return rows.isEmpty ? null : (rows.first['item_id'] as String, rows.first['state'] as String);
   }
 
-  void setProgress(String kind, String itemId, String state) => _db.execute(
-        'INSERT INTO user_progress(kind, item_id, state, updated_at) VALUES (?, ?, ?, ?) '
-        'ON CONFLICT(kind, item_id) DO UPDATE SET state = excluded.state, updated_at = excluded.updated_at',
-        [kind, itemId, state, DateTime.now().millisecondsSinceEpoch],
-      );
+  int? _lastStamp;
+
+  /// Strictly increasing write time, so the newest row is unambiguous even when a page
+  /// saves several rows within one millisecond.
+  int _progressStamp() {
+    final last = _lastStamp ??= _db.select('SELECT MAX(updated_at) AS t FROM user_progress').first['t'] as int? ?? 0;
+    final now = DateTime.now().millisecondsSinceEpoch;
+    return _lastStamp = now > last ? now : last + 1;
+  }
+
+  /// Call after progress rows are rewritten wholesale (restoring a backup).
+  void progressReplaced() {
+    _lastStamp = null;
+    _progressChanges.add(null);
+  }
+
+  void setProgress(String kind, String itemId, String state) {
+    final newest = _db.select('SELECT kind, item_id FROM user_progress ORDER BY updated_at DESC LIMIT 1');
+    final wasNewest = newest.isNotEmpty && newest.first['kind'] == kind && newest.first['item_id'] == itemId;
+    // Reopening an older item keeps its value but makes it the most recent.
+    final changed = !wasNewest || progress(kind, itemId) != state;
+    _db.execute(
+      'INSERT INTO user_progress(kind, item_id, state, updated_at) VALUES (?, ?, ?, ?) '
+      'ON CONFLICT(kind, item_id) DO UPDATE SET state = excluded.state, updated_at = excluded.updated_at',
+      [kind, itemId, state, _progressStamp()],
+    );
+    // Rewriting the newest row with the same value still bumps updated_at but does not
+    // notify, so a page that saves in `build` and also watches progress does not rebuild
+    // itself forever.
+    if (changed) _progressChanges.add(null);
+  }
 
   // ---- user words -----------------------------------------------------------
 

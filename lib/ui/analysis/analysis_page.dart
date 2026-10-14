@@ -39,6 +39,7 @@ class AnalysisListPage extends ConsumerWidget {
     final g = context.g;
     final ids = db.analysisLessonIds();
     final readings = analysisReadingIds(db);
+    ref.watch(progressRevisionProvider);
     final last = int.tryParse(ref.read(userDbProvider).progress('reading', 'last_reading') ?? '');
     return Scaffold(
       appBar: GrammarAppBar(

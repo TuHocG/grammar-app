@@ -16,6 +16,19 @@ final contentDbProvider = Provider<ContentDb>((ref) => throw UnimplementedError(
 final userDbProvider = Provider<UserDb>((ref) => throw UnimplementedError('userDb not bootstrapped'));
 final ttsProvider = Provider<TtsService>((ref) => throw UnimplementedError('tts not bootstrapped'));
 
+/// Bumped whenever a progress row changes; pages that show progress ("continue" cards,
+/// exercise scores, the reading being read) watch it so they refresh on return.
+class ProgressRevision extends Notifier<int> {
+  @override
+  int build() {
+    final sub = ref.watch(userDbProvider).progressChanges.listen((_) => state++);
+    ref.onDispose(sub.cancel);
+    return 0;
+  }
+}
+
+final progressRevisionProvider = NotifierProvider<ProgressRevision, int>(ProgressRevision.new);
+
 final lookupProvider = Provider<LookupService>((ref) => LookupService(ref.watch(contentDbProvider)));
 
 // ---- settings ---------------------------------------------------------------

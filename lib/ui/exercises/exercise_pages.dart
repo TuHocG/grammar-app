@@ -29,6 +29,7 @@ class ExerciseGroupsPage extends ConsumerWidget {
     final menus = db.exerciseMenus();
     final menu = menus.firstWhere((m) => m.idx == menuIdx);
     final n = (menu.count / groupSize).ceil();
+    ref.watch(progressRevisionProvider);
     final userDb = ref.read(userDbProvider);
     final theme = Theme.of(context);
     final g = context.g;

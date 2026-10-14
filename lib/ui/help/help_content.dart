@@ -327,7 +327,7 @@ Bấm nút kính lúp ở góc trên bên phải (có ở mọi trang trừ tran
     summary: 'Trắc nghiệm, điền từ, tìm chỗ sai, xếp từ; điểm được lưu',
     section: 'Bài tập',
     body: r'''
-Mục **Bài tập** trên trang chính có các bộ đề: ARTICLES, CONDITIONAL, TENSE, PREPOSITION / IDIOMS, PRELIMINARY TEST A và B, TOEFL TEST, B+C VOCABULARY, WORD FORMS. Mỗi bộ chia thành các **Bài Tập** 25 câu. Điểm từng bài được lưu; bài làm dở hiện ở thẻ **Bài tập dở dang** trên trang chính. Nên làm các bộ đề này khi đã có khoảng 3.000 từ.
+Mục **Bài tập** trên trang chính có các bộ đề: ARTICLES, CONDITIONAL, TENSE, PREPOSITION / IDIOMS, PRELIMINARY TEST A và B, TOEFL TEST, B+C VOCABULARY, WORD FORMS. Mỗi bộ chia thành các **Bài Tập** 25 câu. Điểm từng bài được lưu; bài làm dở hiện ở thẻ **Bài tập đang luyện** trên trang chính. Nên làm các bộ đề này khi đã có khoảng 3.000 từ.
 
 ## Các dạng câu hỏi
 - **Trắc nghiệm a–d**: chạm vòng chữ cái (hoặc chỗ trống trên dòng) để chọn; chạm vào một từ là tra từ đó. Chọn sai lần đầu thì câu không được điểm; vẫn chọn tiếp được đến khi đúng.

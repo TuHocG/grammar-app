@@ -29,6 +29,7 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
     final db = ref.read(contentDbProvider);
     final theme = Theme.of(context);
     final g = context.g;
+    ref.watch(progressRevisionProvider);
     final userDb = ref.read(userDbProvider);
     final lastSid = int.tryParse(userDb.progress('reading', 'last_section') ?? '');
     final lastId = int.tryParse(userDb.progress('reading', 'last_reading') ?? '');
@@ -171,6 +172,7 @@ class ReadingListPage extends ConsumerWidget {
     final theme = Theme.of(context);
     final g = context.g;
     ref.read(userDbProvider).setProgress('reading', 'last_section', '$sid');
+    ref.watch(progressRevisionProvider);
     final lastId = int.tryParse(ref.read(userDbProvider).progress('reading', 'last_in_$sid') ?? '');
     return Scaffold(
       appBar: GrammarAppBar(crumbs: [const Crumb('Bài Đọc', '/readings'), Crumb(section?.title ?? 'Bài Đọc')]),

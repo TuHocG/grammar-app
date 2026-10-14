@@ -3,6 +3,7 @@
 library;
 
 import 'dart:io';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -61,6 +62,7 @@ class HomePage extends ConsumerWidget {
     final g = context.g;
     final db = ref.read(contentDbProvider);
     final userDb = ref.read(userDbProvider);
+    ref.watch(progressRevisionProvider);
     final s = ref.watch(settingsProvider);
     final nWords = ref.watch(userWordsProvider).words.length;
     final counts = db.counts;
@@ -78,8 +80,11 @@ class HomePage extends ConsumerWidget {
       final st = RegExp(r'"pos":(\d+),"score":(\d+),"done":(\d+)').firstMatch(lastEx.$2);
       if (m != null && st != null) {
         final menu = menus.where((x) => x.idx == int.parse(m.group(1)!)).firstOrNull;
-        if (menu != null) {
-          resume = _ExerciseResume(menu.name, int.parse(m.group(2)!), int.parse(st.group(1)!), int.parse(st.group(2)!), int.parse(st.group(3)!), (menu.count / groupSize).ceil());
+        final group = int.parse(m.group(2)!);
+        final done = int.parse(st.group(3)!);
+        // A group whose every question is answered is finished, not "dở dang".
+        if (menu != null && done < min(groupSize, menu.count - group * groupSize)) {
+          resume = _ExerciseResume(menu.name, group, int.parse(st.group(1)!), int.parse(st.group(2)!), done, (menu.count / groupSize).ceil());
         }
       }
     }
@@ -149,7 +154,7 @@ class HomePage extends ConsumerWidget {
                     onTap: () => context.push('/exercises/menu/${menus.firstWhere((m) => m.name == resume!.menuName).idx}/${resume!.group}'),
                     padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
                     child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                      Text('Bài tập dở dang', style: theme.textTheme.bodySmall),
+                      Text('Bài tập đang luyện', style: theme.textTheme.bodySmall),
                       Text('${resume.menuName} · Bài Tập ${resume.group + 1}', style: theme.textTheme.titleMedium, maxLines: 1, overflow: TextOverflow.ellipsis),
                       Text('Câu ${resume.pos + 1}/$groupSize · đúng ${resume.score}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
                       const SizedBox(height: 8),
