@@ -66,7 +66,16 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
                   onTap: () => context.push('/readings/${last.id}'),
                   padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
                   child: Row(children: [
-                    IconTile(Icons.menu_book_outlined),
+                    ClipRRect(
+                      borderRadius: BorderRadius.circular(8),
+                      child: SizedBox(
+                        width: 72,
+                        height: 56,
+                        child: last.img != null
+                            ? Image(image: db.imageProvider(last.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.menu_book_outlined, size: 56))
+                            : const IconTile(Icons.menu_book_outlined, size: 56),
+                      ),
+                    ),
                     const SizedBox(width: 14),
                     Expanded(
                       child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
