@@ -404,11 +404,11 @@ Bài bạn tự nhập mở như một bài đọc thường: tra từ, nghe, d�
 - Bấm **Tạo bài đọc**, điền **Gói (nhóm)** và **Tựa đề**.
 - **Tiếng Anh**: mỗi đoạn cách nhau một dòng trống; câu tự tách theo dấu chấm, hoặc dùng dấu _ để tách câu.
 - **Tiếng Việt**: câu dịch tương ứng, tách cùng cách. Dòng đếm bên dưới báo khi số câu Anh và Việt chưa khớp.
-- **Ảnh đầu bài**: đường dẫn tới một file ảnh trên máy (tuỳ chọn).
+- **Ảnh đầu bài** (tuỳ chọn): bấm **Chọn ảnh…** để chọn một file ảnh trên máy, hoặc dán đường dẫn.
 - Bấm **Lưu**.
 
 ## Danh sách bài văn phạm
-Thay vì nội dung, có thể nhập danh sách số bài văn phạm (ví dụ 1,5,12) để gom các bài bạn hay xem; bài đó mở ra thành danh sách các bài văn phạm.
+Thay vì soạn bài đọc, bạn có thể gom các bài văn phạm hay xem thành một bài: điền số các bài văn phạm vào ô **Danh sách bài văn phạm** (ví dụ 1, 5, 12), không cần nhập tiếng Anh. Bài đó mở ra thành danh sách các bài văn phạm đã chọn.
 
 Menu ⋮ cạnh mỗi bài có **Sửa bài** và **Xoá bài**. Bài nhập được lưu trong file sao lưu (xem **Cài Đặt & sao lưu**).
 ''',

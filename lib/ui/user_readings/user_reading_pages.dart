@@ -5,9 +5,12 @@ library;
 
 import 'dart:io';
 
+import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:path/path.dart' as p;
+import 'package:path_provider/path_provider.dart';
 
 import '../../app/providers.dart';
 import '../../data/content_db.dart';
@@ -136,6 +139,31 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
     Navigator.of(context).pop();
   }
 
+  Future<void> _pickImage() async {
+    final current = _img.text.trim();
+    final files = await FilePicker.pickFiles(
+      dialogTitle: 'Chọn ảnh đầu bài',
+      type: FileType.image,
+      initialDirectory: current.isEmpty ? null : File(current).parent.path,
+    );
+    final picked = files.isEmpty ? null : files.first.path;
+    if (picked == null) return;
+    final path = await _keepImage(picked);
+    if (!mounted) return;
+    setState(() => _img.text = path);
+  }
+
+  /// On Android and iOS the picker hands back a temporary copy (app cache / tmp) that the OS
+  /// may clear, so keep our own copy under app support; desktop paths are the user's file.
+  static Future<String> _keepImage(String picked) async {
+    if (!Platform.isAndroid && !Platform.isIOS) return picked;
+    final dir = Directory(p.join((await getApplicationSupportDirectory()).path, 'user_images'));
+    await dir.create(recursive: true);
+    final dest = p.join(dir.path, '${DateTime.now().millisecondsSinceEpoch}_${p.basename(picked)}');
+    await File(picked).copy(dest);
+    return dest;
+  }
+
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
@@ -173,17 +201,39 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
           const SizedBox(height: 6),
           Text('$nEn câu Anh · $nVi câu Việt${nEn != nVi && nVi > 0 ? ' (chưa khớp số câu)' : ''}', style: theme.textTheme.bodySmall?.copyWith(color: nEn != nVi && nVi > 0 ? theme.colorScheme.error : theme.colorScheme.outline)),
           const SizedBox(height: 12),
-          TextField(
-            controller: _img,
-            decoration: InputDecoration(
-              labelText: 'Ảnh đầu bài (đường dẫn file)',
-              border: const OutlineInputBorder(),
-              suffixIcon: _img.text.isNotEmpty && File(_img.text).existsSync() ? const Icon(Icons.check, color: Colors.green) : null,
+          Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Expanded(
+              child: TextField(
+                controller: _img,
+                decoration: InputDecoration(
+                  labelText: 'Ảnh đầu bài (tuỳ chọn)',
+                  border: const OutlineInputBorder(),
+                  suffixIcon: _img.text.isEmpty
+                      ? null
+                      : Row(mainAxisSize: MainAxisSize.min, children: [
+                          if (File(_img.text).existsSync()) const Icon(Icons.check, color: Colors.green),
+                          IconButton(tooltip: 'Bỏ ảnh', icon: const Icon(Icons.clear), onPressed: () => setState(_img.clear)),
+                        ]),
+                ),
+                onChanged: (_) => setState(() {}),
+              ),
             ),
-            onChanged: (_) => setState(() {}),
-          ),
+            const SizedBox(width: 8),
+            Padding(
+              padding: const EdgeInsets.only(top: 4),
+              child: OutlinedButton.icon(onPressed: _pickImage, icon: const Icon(Icons.folder_open), label: const Text('Chọn ảnh…')),
+            ),
+          ]),
           const SizedBox(height: 12),
-          TextField(controller: _refs, decoration: const InputDecoration(labelText: 'Bài "Ngu Phap": danh sách số bài văn phạm, ví dụ 1,5,12', border: OutlineInputBorder())),
+          TextField(
+            controller: _refs,
+            decoration: const InputDecoration(
+              labelText: 'Danh sách bài văn phạm (tuỳ chọn)',
+              helperText: 'Nhập số các bài văn phạm, ví dụ 1, 5, 12. Khi có danh sách, bài này mở ra thành danh sách các bài văn phạm đó thay vì bài đọc; không cần nhập tiếng Anh.',
+              helperMaxLines: 3,
+              border: OutlineInputBorder(),
+            ),
+          ),
         ],
       ),
     );

@@ -163,11 +163,11 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 
 | Mã | Hành vi | Mã nguồn | Dữ liệu | Quyết định | Mốc | Kiểm thử | TT |
 |---|---|---|---|---|---|---|---|
-| N1 | Gói = thư mục trong `BaiNhap` (0 mẫu, 1 cá nhân); F4 thư mục cùng cấp, F3 thư mục con, Delete, giữ 2 s đổi tên | A §2.3, `TrinhNhapViet_.bas`, `TreeviewDir.bas` | `BaiNhap/<n>/TV.txt`, `TV.tpf` | Tương đương: "Bài của bạn" lưu trong SQLite (`user_reading`), nhóm = thư mục ảo | M5 | tạo nhóm, bài | ◐ |
-| N2 | Tạo bài: tựa, thân Anh phân câu bằng `_`, thân Việt tương ứng; ảnh đầu bài `[tên]` sau tựa (≤ 758 px) | A §2.3, docs/06 [25] | `user_reading` (en[], vi[], image) | Tương đương: trình soạn hai cột, tự tách câu, chọn ảnh từ máy | M5 | — | ◐ |
-| N3 | Sửa bài, Chèn/Xoá câu Việt; Shift+lên/xuống đánh dấu nhiều, Delete xoá bài đỏ | A §7.13 | — | Tương đương | M5 | — | ◐ |
-| N4 | Bài tên "Ngu Phap": phần Việt lưu `1,5,12` → mở hiện danh sách bài văn phạm | D §5.4, §13.12 | `user_reading` kiểu "grammar list" | Tương đương: "Bộ sưu tập bài văn phạm" do người dùng chọn | M5 | — | ◐ |
-| N5 | Bài nhập kế thừa mọi tính năng Bài Đọc (chạm từ, dịch, nghe, xếp từ, đàm thoại, nghe viết) | A §2.3 | — | Giữ (cùng widget) | M5 | — | ◐ |
+| N1 | Gói = thư mục trong `BaiNhap` (0 mẫu, 1 cá nhân); F4 thư mục cùng cấp, F3 thư mục con, Delete, giữ 2 s đổi tên | A §2.3, `TrinhNhapViet_.bas`, `TreeviewDir.bas` | `BaiNhap/<n>/TV.txt`, `TV.tpf` | Tương đương: "Bài của bạn" lưu trong SQLite (`user_reading`), nhóm = thư mục ảo | M5 | tạo nhóm, bài | ☑ |
+| N2 | Tạo bài: tựa, thân Anh phân câu bằng `_`, thân Việt tương ứng; ảnh đầu bài `[tên]` sau tựa (≤ 758 px) | A §2.3, docs/06 [25] | `user_reading` (en[], vi[], image) | Tương đương: trình soạn hai cột, tự tách câu (dấu câu + chữ hoa Unicode, hoặc `_`), nút "Chọn ảnh…" (Android/iOS chép ảnh vào `user_images/` vì bản picker trả về nằm trong cache) | M5 | — | ☑ |
+| N3 | Sửa bài, Chèn/Xoá câu Việt; Shift+lên/xuống đánh dấu nhiều, Delete xoá bài đỏ | A §7.13 | — | Tương đương | M5 | — | ☑ |
+| N4 | Bài tên "Ngu Phap": phần Việt lưu `1,5,12` → mở hiện danh sách bài văn phạm | D §5.4, §13.12 | `user_reading` kiểu "grammar list" | Tương đương: ô "Danh sách bài văn phạm" trong trình soạn, không cần đặt tựa "Ngu Phap" | M5 | — | ◐ |
+| N5 | Bài nhập kế thừa mọi tính năng Bài Đọc (chạm từ, dịch, nghe, xếp từ, đàm thoại, nghe viết) | A §2.3 | — | Giữ (cùng widget) | M5 | — | ☑ |
 | N6 | Gửi bài lên web chia sẻ; công cụ nội bộ F1–F7 của tác giả | A §7.14 | — | Bỏ | — | — | ☐ |
 | N7 | Nhập hai gói mẫu có sẵn trong `legacy/Grammar/BaiNhap` | — | hai gói không chứa bài | Bỏ (không có nội dung) | — | — | ☐ |
 
