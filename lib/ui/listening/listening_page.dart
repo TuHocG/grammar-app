@@ -20,6 +20,8 @@ import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
 import '../../platform/tts.dart';
+import '../widgets/prev_next_keys.dart';
+import '../widgets/question_layout.dart';
 import '../widgets/word_tap_text.dart';
 import '../../app/theme.dart';
 import '../widgets/shell.dart';
@@ -338,27 +340,14 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
           Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall),
         ],
       ),
-      body: CallbackShortcuts(
+      body: PrevNextKeys(
+        onPrev: _finished ? () => _go(n - 1) : (_pos > 0 ? () => _go(_pos - 1) : null),
+        onNext: _finished ? null : _next,
         bindings: {
           const SingleActivator(LogicalKeyboardKey.enter): () { if (_r.graded) _next(); },
           const SingleActivator(LogicalKeyboardKey.space): _speak,
         },
-        child: Focus(
-          autofocus: true,
-          child: RailListView(children: [
-            if (wide)
-              Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                Expanded(child: main),
-                const SizedBox(width: 24),
-                SizedBox(width: 260, child: map),
-              ])
-            else ...[
-              main,
-              const SizedBox(height: 16),
-              map,
-            ],
-          ]),
-        ),
+        child: RailListView(children: [QuestionWithMap(question: main, map: map, wide: wide)]),
       ),
     );
   }

@@ -98,6 +98,7 @@ Muốn đàm thoại được cần ba điều: thuộc nhiều câu nói theo l
 ## Trên máy tính
 - Gõ một chữ cái ở bất kỳ đâu (khi không ở trong ô nhập) để mở **Từ điển** với chữ đó.
 - **Esc**: đóng bảng đang mở, hoặc quay lại trang trước.
+- Ở các trang làm bài (Bài Tập, Luyện Nghe, Xếp từ, Nghe viết, Đàm thoại): **Alt+←** / **Alt+→** (trên Mac là **Option**) chuyển câu trước / câu kế, kể cả khi đang gõ trong ô trả lời. **Tab** / **Shift+Tab** đi qua các ô trống, nút và đáp án; **Enter** / **Space** bấm mục đang chọn.
 - **F2**: thêm từ vào Từ Vựng Của Bạn với nghĩa riêng. Từ được điền sẵn: cụm từ đang bôi đen, hoặc từ đang tra, hoặc từ dưới con trỏ chuột.
 - Kéo chuột để bôi đen một cụm từ trong bài đọc rồi tra cả cụm.
 - Màn hình rộng hiện danh sách bên trái, nội dung bên phải; dòng đường dẫn trên cùng bấm được để về trang cấp trên.
@@ -149,20 +150,20 @@ Máy đọc lần lượt từng câu và tô sáng câu đang đọc.
 Các từ của câu tiếng Anh bị đảo lộn; câu tiếng Việt ở trên làm gợi ý.
 - Chạm các từ theo đúng thứ tự. Chạm sai thì từ đó nháy đỏ và đứng yên.
 - **Đáp án** xếp nốt phần còn lại; nút loa đọc cả câu.
-- **Câu trước** / **Câu kế**. Câu dưới 4 từ được bỏ qua.
+- **Câu trước** / **Câu kế** (hoặc **Alt+←** / **Alt+→**). Câu dưới 4 từ được bỏ qua.
 
 ## Đàm thoại
 Nhìn câu tiếng Việt, nói câu tiếng Anh trước khi máy gợi ý xong.
 - **Mức độ khó** 1–10 (nút − / +), được nhớ cho lần sau. Mức 1–5: hiện sẵn từ đầu rồi lần lượt từng từ, máy đọc từng từ. Mức 6: chỉ hiện dần từng từ. Mức 7–10: chỉ chấm nhịp, rồi máy đọc nguyên câu.
 - **Xem câu**: hiện cả câu tiếng Anh. Nút loa: nghe câu trả lời.
-- **Bỏ câu này**: không hỏi lại câu đó nữa. **Back** / **Next**: câu trước / câu kế. Trên điện thoại, các nút giữa thu thành biểu tượng.
+- **Bỏ câu này**: không hỏi lại câu đó nữa. **Back** / **Next** (hoặc **Alt+←** / **Alt+→**): câu trước / câu kế. Trên điện thoại, các nút giữa thu thành biểu tượng.
 - Sau 5 vòng, các câu được hỏi theo thứ tự ngẫu nhiên.
 
 ## Nghe viết
 Máy đọc một câu, câu tiếng Việt hiện phía trên; gõ lại câu tiếng Anh.
 - Không cần gõ dấu câu, không phân biệt chữ hoa, chữ thường.
 - Gõ sai thì ô chuyển đỏ và máy đọc lại câu. Đúng hết thì hiện **Đúng rồi!**; nhấn **Enter** để sang câu kế.
-- **Nghe lại**, **Gợi ý 1 ký tự**, **Hiện trọn từ**, **Câu trước** / **Câu kế**.
+- **Nghe lại**, **Gợi ý 1 ký tự**, **Hiện trọn từ**, **Câu trước** / **Câu kế** (hoặc **Alt+←** / **Alt+→**).
 
 ## Ở Luyện Nói
 Bốn nút này cũng có trong mỗi bài Luyện Nói. Riêng **Đàm thoại** ở đó: máy đọc câu A, bạn đáp câu B. Từ mức 7, câu A không hiện chữ; bấm loa để nghe lại câu hỏi.
@@ -228,7 +229,7 @@ Nên học theo thứ tự. Làm bài tập của từng bài trước, rồi tr
 - Chọn một Unit. Máy đọc câu tiếng Anh: giọng thật nếu có âm thanh thực (nhãn **Giọng thật**), không có thì giọng máy.
 - Chọn câu tiếng Việt đúng trong 4 câu. Chọn sai lần đầu thì câu đó không được điểm; vẫn chọn tiếp được đến khi đúng.
 - Câu tiếng Anh hiện ra sau khi bạn chọn đúng; lúc đó chạm từ để tra.
-- **Nghe lại** (hoặc **Space**) để nghe lần nữa. **Back** / **Next** (hoặc **Enter**) để chuyển câu; câu cuối có **Kết thúc** để xem điểm.
+- **Nghe lại** (hoặc **Space**) để nghe lần nữa. **Back** / **Next** (hoặc **Alt+←** / **Alt+→**, **Enter** sau khi đã trả lời) để chuyển câu; câu cuối có **Kết thúc** để xem điểm.
 - Trên máy tính, bản đồ câu nằm bên phải; chạm số để nhảy tới câu đó.
 
 Dòng đầu trang Luyện Nghe mở **Video có phụ đề song ngữ**.
@@ -344,8 +345,8 @@ Mục **Bài tập** trên trang chính có các bộ đề: ARTICLES, CONDITION
 - **Dịch**: hiện câu dịch. Chạm từ tiếng Anh để tra.
 
 ## Di chuyển
-- **Back** / **Next**, hoặc **Enter** sau khi đã trả lời. Câu cuối có **Kết thúc** để xem điểm.
-- Trên máy tính, bản đồ câu bên phải cho biết câu đúng, sai, chưa làm; chạm số để nhảy tới câu đó.
+- **Back** / **Next**, hoặc **Alt+←** / **Alt+→**, hoặc **Enter** sau khi đã trả lời. Câu cuối có **Kết thúc** để xem điểm.
+- Bản đồ câu (bên phải trên màn hình rộng, dưới câu hỏi trên điện thoại) cho biết câu đúng, sai, chưa làm; chạm số để nhảy tới câu đó.
 - Trang kết quả: **Làm lại**, **Xem lại**, **Bài Tập kế**, **Đóng**.
 ''',
   ),

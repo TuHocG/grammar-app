@@ -2,13 +2,17 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:grammar/app/providers.dart';
 import 'package:grammar/data/content_db.dart';
+import 'package:grammar/data/models.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/exercises/exercise_runner.dart';
+import 'package:grammar/ui/listening/listening_page.dart';
+import 'package:grammar/ui/widgets/shell.dart';
 
 void main() {
   group('grammar drills (real DB)', () {
@@ -116,4 +120,127 @@ void main() {
     expect(items.length, abandon.count);
     expect(items.every((e) => e.blanks.any((b) => b.answer.toLowerCase().startsWith('abandon'))), isTrue);
   }, skip: !has);
+
+  /// A full group (25, so the map has several rows of numbers) whose first item is a fill
+  /// exercise with three blanks or more.
+  List<Exercise> manyBlanks() {
+    for (var i = 0; i < 3000; i++) {
+      final e = db.exercisesInRange(i, i + 1);
+      if (e.isNotEmpty && e.single.kind == 'fill' && e.single.blanks.length >= 3) return db.exercisesInRange(i, i + 25);
+    }
+    throw StateError('no fill exercise with three blanks');
+  }
+
+  testWidgets('wide: Tab goes blank to blank, through the buttons, then the question map', (tester) async {
+    // Just wide enough for the side map: its second row of numbers sits beside the blanks,
+    // where the old reading-order Tab went from the first blank.
+    tester.view.physicalSize = const Size(920, 800);
+    tester.view.devicePixelRatio = 1;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(ExerciseRunner(title: 't', exercises: manyBlanks())));
+    await tester.pumpAndSettle();
+    final fields = tester.widgetList<TextField>(find.byType(TextField)).toList();
+    expect(fields[0].focusNode!.hasFocus, isTrue);
+    await tester.sendKeyEvent(LogicalKeyboardKey.tab);
+    await tester.pump();
+    expect(fields[1].focusNode!.hasFocus, isTrue);
+    final order = await tabOrder(tester, {'next': find.text('Next'), 'dot': find.byType(LetterDot)});
+    expect(order.indexOf('next'), greaterThanOrEqualTo(0));
+    expect(order.indexOf('dot'), greaterThan(order.indexOf('next')));
+  }, skip: !has);
+
+  testWidgets('narrow: the question map is shown below the question', (tester) async {
+    tester.view.physicalSize = const Size(400, 800);
+    tester.view.devicePixelRatio = 1;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(ExerciseRunner(title: 'map title', exercises: manyBlanks())));
+    await tester.pumpAndSettle();
+    expect(find.text('chưa làm', skipOffstage: false), findsOneWidget);
+  }, skip: !has);
+
+  testWidgets('Luyện Nghe, wide: Tab goes through the question and its buttons before the map', (tester) async {
+    tester.view.physicalSize = const Size(920, 800);
+    tester.view.devicePixelRatio = 1;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(const ListeningUnitPage(unit: 1)));
+    await tester.pumpAndSettle();
+    final order = await tabOrder(tester, {'listen': find.text('Nghe lại'), 'next': find.text('Next'), 'dot': find.byType(LetterDot).at(4)});
+    expect(order, ['listen', 'next', 'dot']);
+  }, skip: !has);
+
+  String counter(WidgetTester tester) => find
+      .textContaining(RegExp(r'Câu \d+ /'), findRichText: true)
+      .evaluate()
+      .map((e) => (e.widget as RichText).text.toPlainText())
+      .single;
+
+  testWidgets('Tab to Next, Enter: moves on instead of grading', (tester) async {
+    tester.view.physicalSize = const Size(1200, 800);
+    tester.view.devicePixelRatio = 1;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(ExerciseRunner(title: 't', exercises: db.exercisesInRange(0, 5))));
+    await tester.pumpAndSettle();
+    await tabTo(tester, find.text('Next'));
+    await tester.sendKeyEvent(LogicalKeyboardKey.enter);
+    await tester.pumpAndSettle();
+    expect(counter(tester), 'Câu 2 / 5');
+    expect(find.text('Đúng 0 / 0'), findsOneWidget);
+  }, skip: !has);
+
+  testWidgets('Luyện Nghe: Space / Enter press the option or button Tab is on', (tester) async {
+    tester.view.physicalSize = const Size(1200, 800);
+    tester.view.devicePixelRatio = 1;
+    addTearDown(tester.view.reset);
+    await tester.pumpWidget(wrap(const ListeningUnitPage(unit: 1)));
+    await tester.pumpAndSettle();
+    await tabTo(tester, find.byType(LetterDot).first);   // option a
+    await tester.sendKeyEvent(LogicalKeyboardKey.space);
+    await tester.pumpAndSettle();
+    // Picked (options are shuffled, so a may be right ✓ or wrong ✗), not "Nghe lại".
+    expect(find.byIcon(Icons.check).evaluate().length + find.byIcon(Icons.close).evaluate().length, 1);
+    await tabTo(tester, find.text('Next'));
+    await tester.sendKeyEvent(LogicalKeyboardKey.enter);
+    await tester.pumpAndSettle();
+    expect(counter(tester), startsWith('Câu 2 /'));
+  }, skip: !has);
+}
+
+/// Presses Tab up to [max] times and returns the labels of [targets] in the order the
+/// focus first lands inside them.
+Future<List<String>> tabOrder(WidgetTester tester, Map<String, Finder> targets, {int max = 30}) async {
+  final out = <String>[];
+  for (var i = 0; i < max; i++) {
+    await tester.sendKeyEvent(LogicalKeyboardKey.tab);
+    await tester.pump();
+    final ctx = FocusManager.instance.primaryFocus?.context as Element?;
+    if (ctx == null) continue;
+    final under = <Element>{};
+    void walk(Element e) {
+      under.add(e);
+      e.visitChildElements(walk);
+    }
+    walk(ctx);
+    for (final t in targets.entries) {
+      if (!out.contains(t.key) && t.value.evaluate().any(under.contains)) out.add(t.key);
+    }
+  }
+  return out;
+}
+
+/// Presses Tab until the focus is inside [target].
+Future<void> tabTo(WidgetTester tester, Finder target, {int max = 30}) async {
+  for (var i = 0; i < max; i++) {
+    await tester.sendKeyEvent(LogicalKeyboardKey.tab);
+    await tester.pump();
+    final ctx = FocusManager.instance.primaryFocus?.context as Element?;
+    if (ctx == null) continue;
+    final under = <Element>{};
+    void walk(Element e) {
+      under.add(e);
+      e.visitChildElements(walk);
+    }
+    walk(ctx);
+    if (target.evaluate().any(under.contains)) return;
+  }
+  fail('Tab never reached $target');
 }

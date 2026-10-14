@@ -11,6 +11,7 @@ import '../../data/media_locations.dart';
 import '../../data/reading_loader.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
+import '../widgets/prev_next_keys.dart';
 import '../widgets/shell.dart';
 import 'reading_page.dart';
 
@@ -113,49 +114,56 @@ class _DictationPageState extends ConsumerState<DictationPage> {
     if (_reading == null || _items.isEmpty) return Scaffold(appBar: GrammarAppBar(title: const Text('Nghe viết')), body: const Center(child: Text('Bài này không có câu để nghe viết.')));
     final theme = Theme.of(context);
     final s = _items[_pos];
+    final prev = _pos > 0 ? () => _go(_pos - 1) : null;
+    final next = _pos < _items.length - 1 ? () => _go(_pos + 1) : null;
     return Scaffold(
       appBar: GrammarAppBar(title: Text('Nghe viết · ${_pos + 1}/${_items.length}')),
-      body: Padding(
-        padding: const EdgeInsets.all(20),
-        child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-          Text(s.vi, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-          const SizedBox(height: 16),
-          TextField(
-            controller: _ctl,
-            focusNode: _focus,
-            autofocus: true,
-            maxLines: 3,
-            style: theme.textTheme.titleMedium,
-            decoration: InputDecoration(
-              hintText: 'Gõ lại câu tiếng Anh vừa nghe',
-              filled: true,
-              fillColor: _done
-                  ? theme.colorScheme.primaryContainer
-                  : (_wrong ? theme.colorScheme.errorContainer : theme.colorScheme.surfaceContainerHighest),
-              border: const OutlineInputBorder(),
+      body: PrevNextKeys(
+        autofocus: false,
+        onPrev: prev,
+        onNext: next,
+        child: Padding(
+          padding: const EdgeInsets.all(20),
+          child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+            Text(s.vi, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
+            const SizedBox(height: 16),
+            TextField(
+              controller: _ctl,
+              focusNode: _focus,
+              autofocus: true,
+              maxLines: 3,
+              style: theme.textTheme.titleMedium,
+              decoration: InputDecoration(
+                hintText: 'Gõ lại câu tiếng Anh vừa nghe',
+                filled: true,
+                fillColor: _done
+                    ? theme.colorScheme.primaryContainer
+                    : (_wrong ? theme.colorScheme.errorContainer : theme.colorScheme.surfaceContainerHighest),
+                border: const OutlineInputBorder(),
+              ),
+              onSubmitted: (_) {
+                if (_done && _pos < _items.length - 1) _go(_pos + 1);
+              },
             ),
-            onSubmitted: (_) {
-              if (_done && _pos < _items.length - 1) _go(_pos + 1);
-            },
-          ),
-          const SizedBox(height: 12),
-          Wrap(spacing: 8, runSpacing: 8, children: [
-            FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.replay), label: const Text('Nghe lại')),
-            OutlinedButton.icon(onPressed: _hintChar, icon: const Icon(Icons.text_increase), label: const Text('Gợi ý 1 ký tự')),
-            OutlinedButton.icon(onPressed: _hintWord, icon: const Icon(Icons.short_text), label: const Text('Hiện trọn từ')),
-          ]),
-          if (_done)
-            Padding(
-              padding: const EdgeInsets.only(top: 16),
-              child: Text('Đúng rồi!  ${s.en}', style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary)),
-            ),
-          const Spacer(),
-          Row(children: [
-            OutlinedButton(onPressed: _pos > 0 ? () => _go(_pos - 1) : null, child: const Text('Câu trước')),
+            const SizedBox(height: 12),
+            Wrap(spacing: 8, runSpacing: 8, children: [
+              FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.replay), label: const Text('Nghe lại')),
+              OutlinedButton.icon(onPressed: _hintChar, icon: const Icon(Icons.text_increase), label: const Text('Gợi ý 1 ký tự')),
+              OutlinedButton.icon(onPressed: _hintWord, icon: const Icon(Icons.short_text), label: const Text('Hiện trọn từ')),
+            ]),
+            if (_done)
+              Padding(
+                padding: const EdgeInsets.only(top: 16),
+                child: Text('Đúng rồi!  ${s.en}', style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary)),
+              ),
             const Spacer(),
-            FilledButton(onPressed: _pos < _items.length - 1 ? () => _go(_pos + 1) : null, child: const Text('Câu kế')),
+            Row(children: [
+              OutlinedButton(onPressed: prev, child: const Text('Câu trước')),
+              const Spacer(),
+              FilledButton(onPressed: next, child: const Text('Câu kế')),
+            ]),
           ]),
-        ]),
+        ),
       ),
     );
   }

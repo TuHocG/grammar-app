@@ -12,6 +12,7 @@ import 'package:go_router/go_router.dart';
 
 import '../vocab/edit_word_dialog.dart';
 import '../vocab/word_hint.dart';
+import 'prev_next_keys.dart';
 
 class TypeToSearch extends ConsumerWidget {
   final Widget child;
@@ -26,8 +27,7 @@ class TypeToSearch extends ConsumerWidget {
         if (e is! KeyDownEvent) return KeyEventResult.ignored;
         if (e.logicalKey == LogicalKeyboardKey.f2) {
           // Not while typing (e.g. already in the editor).
-          final f = FocusManager.instance.primaryFocus;
-          if (f?.context?.widget is EditableText || _insideTextField(f)) return KeyEventResult.ignored;
+          if (focusIsTyping()) return KeyEventResult.ignored;
           final nav = router.routerDelegate.navigatorKey.currentContext;
           if (nav == null) return KeyEventResult.ignored;
           final h = WordHints.current;
@@ -44,8 +44,7 @@ class TypeToSearch extends ConsumerWidget {
         if (HardwareKeyboard.instance.isControlPressed || HardwareKeyboard.instance.isAltPressed || HardwareKeyboard.instance.isMetaPressed) {
           return KeyEventResult.ignored;
         }
-        final focused = FocusManager.instance.primaryFocus;
-        if (focused?.context?.widget is EditableText || _insideTextField(focused)) return KeyEventResult.ignored;
+        if (focusIsTyping()) return KeyEventResult.ignored;
         final loc = router.routerDelegate.currentConfiguration.uri.path;
         if (loc.startsWith('/dict')) return KeyEventResult.ignored;
         router.push('/dict?q=${Uri.encodeComponent(ch)}');
@@ -55,17 +54,4 @@ class TypeToSearch extends ConsumerWidget {
     );
   }
 
-  bool _insideTextField(FocusNode? node) {
-    var ctx = node?.context;
-    if (ctx == null) return false;
-    var found = false;
-    ctx.visitAncestorElements((el) {
-      if (el.widget is EditableText || el.widget is TextField) {
-        found = true;
-        return false;
-      }
-      return true;
-    });
-    return found;
-  }
 }

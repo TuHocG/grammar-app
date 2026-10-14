@@ -19,6 +19,8 @@ import '../../data/content_db.dart';
 import '../../data/models.dart';
 import '../grammar/grammar_page.dart';
 import '../widgets/mark_text.dart';
+import '../widgets/prev_next_keys.dart';
+import '../widgets/question_layout.dart';
 import '../dictionary/quick_def_sheet.dart';
 import '../widgets/scramble_board.dart';
 import '../widgets/shell.dart';
@@ -317,7 +319,9 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
         helpSlug: 'bai-tap',
         actions: [Text('Đúng $_score / $_done', style: theme.textTheme.titleSmall)],
       ),
-      body: CallbackShortcuts(
+      body: PrevNextKeys(
+        onPrev: _pos > 0 ? () => _go(_pos - 1) : null,
+        onNext: _next,
         bindings: {
           const SingleActivator(LogicalKeyboardKey.enter): () {
             if (e.kind == 'fill' && !_r.graded) {
@@ -327,20 +331,8 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
             }
           },
         },
-        child: Focus(
-          autofocus: true,
-          child: RailListView(
-            children: [
-              if (wide)
-                Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  Expanded(child: main),
-                  const SizedBox(width: 24),
-                  SizedBox(width: 260, child: map),
-                ])
-              else
-                main,
-            ],
-          ),
+        child: RailListView(
+          children: [QuestionWithMap(question: main, map: map, wide: wide)],
         ),
       ),
     );
@@ -748,43 +740,46 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     final pct = _done == 0 ? 0 : (_score * 100 / _done).round();
     return Scaffold(
       appBar: GrammarAppBar(crumbs: _crumbs),
-      body: RailListView(
-        maxWidth: 640,
-        children: [
-          Surface(
-            padding: const EdgeInsets.all(32),
-            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              const Eyebrow('Kết quả'),
-              const SizedBox(height: 8),
-              Text('$pct %', style: theme.textTheme.displayLarge?.copyWith(color: g.iris, fontSize: 56)),
-              Text('Đúng $_score / $_done câu đã làm (${_items.length} câu)', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-              const SizedBox(height: 20),
-              Wrap(spacing: 8, runSpacing: 8, children: [
-                for (var i = 0; i < _items.length; i++) _dot(i, g, theme),
-              ]),
-              const SizedBox(height: 24),
-              Wrap(spacing: 8, runSpacing: 8, children: [
-                FilledButton(
-                  onPressed: () {
-                    for (var i = 0; i < _res.length; i++) {
-                      _res[i] = _Result();
-                    }
-                    for (final l in _ctls.values) {
-                      for (final c in l) {
-                        c.clear();
+      body: PrevNextKeys(
+        onPrev: () => _go(_items.length - 1),
+        child: RailListView(
+          maxWidth: 640,
+          children: [
+            Surface(
+              padding: const EdgeInsets.all(32),
+              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                const Eyebrow('Kết quả'),
+                const SizedBox(height: 8),
+                Text('$pct %', style: theme.textTheme.displayLarge?.copyWith(color: g.iris, fontSize: 56)),
+                Text('Đúng $_score / $_done câu đã làm (${_items.length} câu)', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                const SizedBox(height: 20),
+                Wrap(spacing: 8, runSpacing: 8, children: [
+                  for (var i = 0; i < _items.length; i++) _dot(i, g, theme),
+                ]),
+                const SizedBox(height: 24),
+                Wrap(spacing: 8, runSpacing: 8, children: [
+                  FilledButton(
+                    onPressed: () {
+                      for (var i = 0; i < _res.length; i++) {
+                        _res[i] = _Result();
                       }
-                    }
-                    _go(0);
-                  },
-                  child: const Text('Làm lại'),
-                ),
-                OutlinedButton(onPressed: () => _go(0), child: const Text('Xem lại')),
-                if (widget.onNextGroup != null) OutlinedButton(onPressed: widget.onNextGroup, child: const Text('Bài Tập kế')),
-                TextButton(onPressed: () => Navigator.of(context).pop(), child: const Text('Đóng')),
+                      for (final l in _ctls.values) {
+                        for (final c in l) {
+                          c.clear();
+                        }
+                      }
+                      _go(0);
+                    },
+                    child: const Text('Làm lại'),
+                  ),
+                  OutlinedButton(onPressed: () => _go(0), child: const Text('Xem lại')),
+                  if (widget.onNextGroup != null) OutlinedButton(onPressed: widget.onNextGroup, child: const Text('Bài Tập kế')),
+                  TextButton(onPressed: () => Navigator.of(context).pop(), child: const Text('Đóng')),
+                ]),
               ]),
-            ]),
-          ),
-        ],
+            ),
+          ],
+        ),
       ),
     );
   }
