@@ -401,7 +401,7 @@ Nên ôn ít nhất 2 lần mỗi ngày.
 Bài bạn tự nhập mở như một bài đọc thường: tra từ, nghe, dịch, Xếp từ, Đàm thoại, Nghe viết.
 
 ## Tạo bài
-- Bấm **Tạo bài đọc**, điền **Gói (nhóm)** và **Tựa đề**.
+- Bấm **Tạo bài đọc**, chọn **Gói (nhóm)** có sẵn trong danh sách hoặc gõ tên mới để tạo nhóm, rồi điền **Tựa đề**.
 - **Tiếng Anh**: mỗi đoạn cách nhau một dòng trống; câu tự tách theo dấu chấm, hoặc dùng dấu _ để tách câu.
 - **Tiếng Việt**: câu dịch tương ứng, tách cùng cách. Dòng đếm bên dưới báo khi số câu Anh và Việt chưa khớp.
 - **Ảnh đầu bài** (tuỳ chọn): bấm **Chọn ảnh…** để chọn một file ảnh trên máy, hoặc dán đường dẫn.

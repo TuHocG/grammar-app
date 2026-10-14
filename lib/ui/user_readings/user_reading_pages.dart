@@ -88,7 +88,8 @@ class UserReadingEditPage extends ConsumerStatefulWidget {
 }
 
 class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
-  final _pkg = TextEditingController(text: 'Bài của tôi');
+  static const _defaultPackage = 'Bài của tôi';
+  final _pkg = TextEditingController(text: _defaultPackage);
   final _title = TextEditingController();
   final _en = TextEditingController();
   final _vi = TextEditingController();
@@ -130,11 +131,12 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
       return;
     }
     final db = ref.read(userDbProvider);
+    final pkg = _pkg.text.trim().isEmpty ? _defaultPackage : _pkg.text.trim();
     final img = _img.text.trim().isEmpty ? null : _img.text.trim();
     if (_existing == null) {
-      db.insertUserReading(package: _pkg.text.trim().isEmpty ? 'Bài của tôi' : _pkg.text.trim(), title: _title.text.trim(), en: en, vi: vi, img: img, grammarRefs: refs);
+      db.insertUserReading(package: pkg, title: _title.text.trim(), en: en, vi: vi, img: img, grammarRefs: refs);
     } else {
-      db.updateUserReading(_existing!.id, package: _pkg.text.trim(), title: _title.text.trim(), en: en, vi: vi, img: img, grammarRefs: refs);
+      db.updateUserReading(_existing!.id, package: pkg, title: _title.text.trim(), en: en, vi: vi, img: img, grammarRefs: refs);
     }
     Navigator.of(context).pop();
   }
@@ -180,7 +182,18 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
         padding: const EdgeInsets.all(16),
         children: [
           Row(children: [
-            Expanded(child: TextField(controller: _pkg, decoration: const InputDecoration(labelText: 'Gói (nhóm)', border: OutlineInputBorder()))),
+            // Pick an existing group, or type a new name to create one.
+            Expanded(
+              child: DropdownMenu<String>(
+                controller: _pkg,
+                label: const Text('Gói (nhóm)'),
+                expandedInsets: EdgeInsets.zero,
+                requestFocusOnTap: true,
+                dropdownMenuEntries: [
+                  for (final g in {...ref.read(userDbProvider).userReadingPackages(), _defaultPackage}) DropdownMenuEntry(value: g, label: g),
+                ],
+              ),
+            ),
             const SizedBox(width: 12),
             Expanded(flex: 2, child: TextField(controller: _title, decoration: const InputDecoration(labelText: 'Tựa đề', border: OutlineInputBorder()))),
           ]),
