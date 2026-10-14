@@ -20,12 +20,14 @@ import '../vocab/word_hint.dart';
 final _tokenRe = RegExp(r"\[[^\[\]\n]{1,48}\]|[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9][A-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9'’-]*|\s+|[^\sA-Za-zÀ-ɏḀ-ỿɐ-ʯθ0-9]+");
 final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ]');
 
-/// Saved key of each token of [toks] (null = not part of a saved word/phrase) and where
-/// each saved occurrence starts. Saved phrases ("come through") match whole word runs
-/// separated by spaces only; the longest phrase wins.
-({List<String?> keys, List<bool> starts}) _savedRuns(List<RegExpMatch> toks, Set<String> saved) {
+/// Saved key of each token of [toks] (null = not part of a saved word/phrase), where each
+/// saved occurrence starts, and the text of the saved phrase each token belongs to (null for
+/// single words). Saved phrases ("come through") match whole word runs separated by spaces
+/// only; the longest phrase wins.
+({List<String?> keys, List<bool> starts, List<String?> phrases}) _savedRuns(List<RegExpMatch> toks, Set<String> saved) {
   final keys = List<String?>.filled(toks.length, null);
   final starts = List<bool>.filled(toks.length, false);
+  final phrases = List<String?>.filled(toks.length, null);
   final wordKey = [
     for (final m in toks) _letterRe.hasMatch(m.group(0)!) ? searchKey(cleanToken(m.group(0)!)) : null,
   ];
@@ -62,13 +64,15 @@ final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ]');
       continue;
     }
     final end = run[matched - 1];
+    final phrase = matched > 1 ? toks[i].input.substring(toks[i].start, toks[end].end) : null;
     for (var t = i; t <= end; t++) {
       keys[t] = key;
+      phrases[t] = phrase;
     }
     starts[i] = true;
     i = end + 1;
   }
-  return (keys: keys, starts: starts);
+  return (keys: keys, starts: starts, phrases: phrases);
 }
 
 /// Style of a saved word (red) and of a word of a saved word's family (underlined).
@@ -82,7 +86,7 @@ bool inSavedFamily(String key, Set<String> family) =>
     family.contains(key) || baseFormCandidates(key).any(family.contains);
 
 /// Builds the spans of [text]: one tappable span per word; saved words/phrases red, words
-/// of their families underlined. Recognizers are appended to [recognizers]; the caller
+/// of their families underlined. Tapping a word of a saved phrase looks up the phrase. Recognizers are appended to [recognizers]; the caller
 /// owns them.
 List<InlineSpan> wordSpans(
   BuildContext context,
@@ -112,10 +116,10 @@ List<InlineSpan> wordSpans(
         : inSavedFamily(searchKey(cleanToken(tok)), family)
             ? familyStyle(context, base)
             : base;
-    final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: contextSentence ?? text, source: source, fallbackVi: fallbackVi);
+    final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, runs.phrases[i] ?? tok, contextSentence: contextSentence ?? text, source: source, fallbackVi: fallbackVi);
     recognizers.add(rec);
-    // The word under the mouse is what F2 pre-fills (docs/08 G11).
-    final hint = (word: cleanToken(tok), context: contextSentence ?? text, source: source);
+    // The word (or saved phrase) under the mouse is what F2 pre-fills (docs/08 G11).
+    final hint = (word: cleanToken(runs.phrases[i] ?? tok), context: contextSentence ?? text, source: source);
     spans.add(TextSpan(
       text: tok,
       style: style,

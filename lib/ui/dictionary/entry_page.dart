@@ -7,6 +7,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
 import '../../app/theme.dart';
+import '../../data/search_key.dart';
 import '../../domain/lookup.dart';
 import '../widgets/shell.dart';
 import 'entry_view.dart';
@@ -29,7 +30,7 @@ class EntryPage extends ConsumerWidget {
     }
     return Scaffold(
       appBar: GrammarAppBar(search: false, helpSlug: 'tu-dien', crumbs: [const Crumb('Từ điển', '/dict'), Crumb(r.headword)]),
-      body: RailListView(maxWidth: 900, children: [EntryCard(result: r)]),
+      body: RailListView(maxWidth: 900, children: [EntryCard(result: r, lookedUp: word)]),
     );
   }
 }
@@ -38,7 +39,10 @@ class EntryPage extends ConsumerWidget {
 /// buttons, quick meaning, full entries, Related forms.
 class EntryCard extends ConsumerWidget {
   final LookupResult result;
-  const EntryCard({super.key, required this.result});
+  /// What was looked up, when [result] may have dropped part of it: a phrase the dictionary
+  /// lacks falls back to its first word, but the user may have saved the whole phrase.
+  final String? lookedUp;
+  const EntryCard({super.key, required this.result, this.lookedUp});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -46,12 +50,20 @@ class EntryCard extends ConsumerWidget {
     final theme = Theme.of(context);
     final g = context.g;
     final tts = ref.read(ttsProvider);
-    final saved = ref.watch(userWordsProvider).savedKeys.contains(r.key);
-    final userWord = saved ? ref.read(userDbProvider).wordByKey(r.key) : null;
+    // The user's own entry for exactly what was looked up ("rowing", or a word the dictionary
+    // lacks) wins over the dictionary's base form ("row"), as in QuickDefSheet.
+    final words = ref.watch(userWordsProvider);
+    final tappedKey = searchKey(lookedUp != null ? cleanToken(lookedUp!) : r.query);
+    final uKey = words.savedKeys.contains(tappedKey) ? tappedKey : r.key;
+    final saved = words.savedKeys.contains(uKey);
+    final userWord = saved ? ref.read(userDbProvider).wordByKey(uKey) : null;
+    // A saved word the dictionary only knows part of keeps its own IPA, not the dictionary word's.
+    final ownOnly = userWord != null && uKey != r.key;
+    final ipa = ownOnly ? userWord.ipa : userWord?.ipa ?? r.ipa;
     final quick = r.quick;
     final narrow = MediaQuery.sizeOf(context).width < 600;
 
-    if (!r.found && r.family == null) {
+    if (!r.found && r.family == null && userWord == null) {
       return Surface(
         padding: const EdgeInsets.all(32),
         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
@@ -65,7 +77,7 @@ class EntryCard extends ConsumerWidget {
     final saveButton = saved
         ? FilledButton.icon(
             style: FilledButton.styleFrom(backgroundColor: g.savedWord),
-            onPressed: () => ref.read(userWordsProvider.notifier).removeByKey(r.key),
+            onPressed: () => ref.read(userWordsProvider.notifier).removeByKey(uKey),
             icon: const Icon(Icons.bookmark, size: 16),
             label: const Text('Đã lưu · bỏ lưu'),
           )
@@ -80,12 +92,12 @@ class EntryCard extends ConsumerWidget {
       child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
         Wrap(crossAxisAlignment: WrapCrossAlignment.start, alignment: WrapAlignment.spaceBetween, runSpacing: 12, children: [
           Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text(r.headword, style: ReadingStyles.headword(context).copyWith(color: saved ? g.savedWord : null)),
+            Text(userWord?.headword ?? r.headword, style: ReadingStyles.headword(context).copyWith(color: saved ? g.savedWord : null)),
             const SizedBox(height: 4),
             Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 14, runSpacing: 6, children: [
-              if (r.ipa != null && r.ipa!.isNotEmpty) Text('[${r.ipa}]', style: theme.textTheme.titleMedium?.copyWith(color: g.iris, fontWeight: FontWeight.w400, fontSize: 18)),
-              if (quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!, fontSize: 16),
-              ActionChip(avatar: const Icon(Icons.volume_up_outlined, size: 16), label: const Text('Đọc'), onPressed: () => tts.speak(r.headword)),
+              if (ipa != null && ipa.isNotEmpty) Text('[$ipa]', style: theme.textTheme.titleMedium?.copyWith(color: g.iris, fontWeight: FontWeight.w400, fontSize: 18)),
+              if (!ownOnly && quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!, fontSize: 16),
+              ActionChip(avatar: const Icon(Icons.volume_up_outlined, size: 16), label: const Text('Đọc'), onPressed: () => tts.speak(userWord?.headword ?? r.headword)),
             ]),
           ]),
           saveButton,
@@ -93,6 +105,9 @@ class EntryCard extends ConsumerWidget {
         if (r.redirectedFrom != null) ...[
           const SizedBox(height: 8),
           Text('${r.redirectedFrom} → ${r.headword}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate, fontStyle: FontStyle.italic)),
+        ] else if (userWord != null && r.found && uKey != r.key) ...[
+          const SizedBox(height: 8),
+          Text('${userWord.headword} → ${r.headword}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate, fontStyle: FontStyle.italic)),
         ],
         if (userWord?.meaning != null && userWord!.meaning!.isNotEmpty) ...[
           const SizedBox(height: 16),
@@ -105,6 +120,10 @@ class EntryCard extends ConsumerWidget {
               Text(userWord.meaning!.replaceAll('_', '\n'), style: theme.textTheme.bodyLarge),
             ]),
           ),
+        ],
+        if (!r.found) ...[
+          const SizedBox(height: 16),
+          Text('Không có trong từ điển.', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
         ],
         if (quick != null) ...[
           const SizedBox(height: 20),

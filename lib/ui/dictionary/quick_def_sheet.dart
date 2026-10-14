@@ -19,7 +19,10 @@ import 'entry_view.dart';
 Future<void> showQuickDef(BuildContext context, WidgetRef ref, String word, {String? contextSentence, String? source, String? fallbackVi}) async {
   final result = ref.read(lookupProvider).lookup(word);
   final saved = ref.read(userWordsProvider).savedKeys;
-  final mine = saved.contains(searchKey(result.query)) || saved.contains(result.key);
+  final ownKey = searchKey(cleanToken(word));
+  // A saved word or phrase the dictionary only knows part of ("kick the zorb" → "kick").
+  final ownOnly = saved.contains(ownKey) && ownKey != result.key;
+  final mine = ownOnly || saved.contains(result.key);
   if (!result.found && !mine && fallbackVi != null && fallbackVi.trim().isNotEmpty) {
     // Not a dictionary word (a phonetic symbol, "[ˈbæksifɔ:m]"): show what the reading
     // itself says about it, as the old app does in the IPA lessons.
@@ -33,14 +36,14 @@ Future<void> showQuickDef(BuildContext context, WidgetRef ref, String word, {Str
     return;
   }
   // Read the word aloud as the old app does on left click.
-  ref.read(ttsProvider).speak(result.found ? result.headword : word);
+  ref.read(ttsProvider).speak(result.found && !ownOnly ? result.headword : cleanToken(word));
   await showModalBottomSheet<void>(
     context: context,
     isScrollControlled: true,
     showDragHandle: true,
     useSafeArea: true,
     constraints: const BoxConstraints(maxWidth: 720),
-    builder: (_) => QuickDefSheet(result: result, contextSentence: contextSentence, source: source),
+    builder: (_) => QuickDefSheet(result: result, lookedUp: word, contextSentence: contextSentence, source: source),
   );
 }
 
@@ -66,9 +69,12 @@ class _FallbackSheet extends StatelessWidget {
 
 class QuickDefSheet extends ConsumerStatefulWidget {
   final LookupResult result;
+  /// What was looked up. [result] may hold less: a phrase the dictionary lacks falls back to
+  /// its first word, but the user may have saved the whole phrase.
+  final String? lookedUp;
   final String? contextSentence;
   final String? source;
-  const QuickDefSheet({super.key, required this.result, this.contextSentence, this.source});
+  const QuickDefSheet({super.key, required this.result, this.lookedUp, this.contextSentence, this.source});
 
   @override
   ConsumerState<QuickDefSheet> createState() => _QuickDefSheetState();
@@ -76,10 +82,11 @@ class QuickDefSheet extends ConsumerStatefulWidget {
 
 class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
   bool _full = false;
+  late final String _query = widget.lookedUp != null ? cleanToken(widget.lookedUp!) : widget.result.query;
   /// F2 edits what was tapped when that is saved or unknown to the dictionary, else the
   /// dictionary's headword.
   late final WordHint _hint = (
-    word: !widget.result.found || ref.read(userWordsProvider).savedKeys.contains(searchKey(widget.result.query)) ? widget.result.query : widget.result.headword,
+    word: !widget.result.found || ref.read(userWordsProvider).savedKeys.contains(searchKey(_query)) ? _query : widget.result.headword,
     context: widget.contextSentence,
     source: widget.source,
   );
@@ -104,13 +111,18 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
     final words = ref.watch(userWordsProvider);
     // The user's own entry for exactly what was tapped ("rowing", saved with F2) wins over
     // the dictionary's base form ("row"); otherwise the entry of the looked-up word.
-    final tappedKey = searchKey(r.query);
+    final tappedKey = searchKey(_query);
     final uKey = words.savedKeys.contains(tappedKey) ? tappedKey : r.key;
     final saved = words.savedKeys.contains(uKey);
     final tts = ref.read(ttsProvider);
     final quick = r.quick;
     final userWord = ref.read(userDbProvider).wordByKey(uKey);
     final hasOwnMeaning = userWord?.meaning != null && userWord!.meaning!.isNotEmpty;
+    // The user's entry is another word than the dictionary's ("kick the zorb" vs "kick"):
+    // say and show its own form, not the dictionary word's IPA or respelling.
+    final ownOnly = userWord != null && uKey != r.key;
+    final head = userWord?.headword ?? r.headword;
+    final ipa = ownOnly ? userWord.ipa : userWord?.ipa ?? r.ipa;
 
     void toggleSave() {
       final n = ref.read(userWordsProvider.notifier);
@@ -131,15 +143,15 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
         padding: const EdgeInsets.fromLTRB(24, 0, 24, 24),
         children: [
           Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 12, runSpacing: 4, children: [
-            Text(userWord?.headword ?? r.headword, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink)),
-            if ((userWord?.ipa ?? r.ipa) case final ipa? when ipa.isNotEmpty) Text('[$ipa]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
-            if (quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
-            RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => tts.speak(r.headword)),
+            Text(head, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink)),
+            if (ipa != null && ipa.isNotEmpty) Text('[$ipa]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
+            if (!ownOnly && quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
+            RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => tts.speak(head)),
           ]),
           if (r.redirectedFrom != null)
             Text('${r.redirectedFrom} → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
-          if (r.key != r.query.toLowerCase() && r.redirectedFrom == null && r.found)
-            Text('${r.query} → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
+          if (r.key != _query.toLowerCase() && r.redirectedFrom == null && r.found)
+            Text('$_query → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
           if (r.entryHeadword != null)
             Text('Mục đầy đủ: ${r.entryHeadword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
           const SizedBox(height: 10),

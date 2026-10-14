@@ -12,6 +12,8 @@ import 'package:grammar/app/theme.dart';
 import 'package:grammar/data/content_db.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
+import 'package:grammar/ui/dictionary/entry_page.dart';
+import 'package:grammar/ui/widgets/word_tap_text.dart';
 import 'package:grammar/ui/vocab/edit_word_dialog.dart';
 import 'package:grammar/ui/vocab/word_hint.dart';
 import 'package:grammar/ui/widgets/type_to_search.dart';
@@ -91,5 +93,40 @@ void main() {
     expect(tester.widgetList<TextFormField>(find.byType(TextFormField)).last.controller!.text, 'bỏ rơi_từ bỏ');
     WordHints.hovered.value = null;
     expect(tester.takeException(), isNull);
+  }, skip: !has);
+
+  testWidgets('own word missing from the dictionary: entry page shows it with its meaning', (tester) async {
+    user.saveWord(headword: 'zorbling', meaning: 'từ tự đặt', ipa: 'zɔːblɪŋ');
+    await tester.pumpWidget(ProviderScope(
+      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+      child: MaterialApp(theme: buildTheme(Brightness.light), home: Scaffold(body: Consumer(builder: (c, ref, _) => EntryCard(result: ref.read(lookupProvider).lookup('zorbling'))))),
+    ));
+    expect(find.text('zorbling'), findsOneWidget);
+    expect(find.text('từ tự đặt'), findsOneWidget);
+    expect(find.text('[zɔːblɪŋ]'), findsOneWidget);
+    expect(find.text('Không có trong từ điển.'), findsOneWidget);
+  }, skip: !has);
+
+  testWidgets('own phrase missing from the dictionary: entry page shows the phrase, not its first word', (tester) async {
+    user.saveWord(headword: 'kick the zorb', meaning: 'cụm tự đặt');
+    await tester.pumpWidget(ProviderScope(
+      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+      child: MaterialApp(theme: buildTheme(Brightness.light), home: const EntryPage(word: 'kick the zorb')),
+    ));
+    expect(find.text('kick the zorb'), findsWidgets);
+    expect(find.text('cụm tự đặt'), findsOneWidget);
+    expect(find.text('Đã lưu · bỏ lưu'), findsOneWidget);
+  }, skip: !has);
+
+  testWidgets('reading: tapping a word of a saved phrase looks up the phrase with its own meaning', (tester) async {
+    user.saveWord(headword: 'kick the zorb', meaning: 'cụm tự đặt');
+    await tester.pumpWidget(ProviderScope(
+      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+      child: MaterialApp(theme: buildTheme(Brightness.light), home: const Scaffold(body: WordTapText('They kick the zorb today.'))),
+    ));
+    await tester.tapOnText(find.textRange.ofSubstring('the zorb'));
+    await tester.pumpAndSettle();
+    expect(find.text('cụm tự đặt'), findsOneWidget);
+    expect(find.textContaining(RegExp(r'^\[')), findsNothing);   // not the IPA of "kick"
   }, skip: !has);
 }
