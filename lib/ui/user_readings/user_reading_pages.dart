@@ -50,7 +50,7 @@ class _UserReadingsPageState extends ConsumerState<UserReadingsPage> {
                   Padding(padding: const EdgeInsets.fromLTRB(16, 14, 16, 4), child: Text(pkg, style: theme.textTheme.titleSmall?.copyWith(color: theme.colorScheme.primary))),
                   for (final r in all.where((x) => x.package == pkg))
                     ListTile(
-                      leading: r.grammarRefs.isNotEmpty ? const Icon(Icons.account_tree) : const Icon(Icons.article_outlined),
+                      leading: _thumb(r),
                       title: Text(r.title),
                       subtitle: Text('${r.en.fold<int>(0, (a, p) => a + p.length)} câu', style: theme.textTheme.bodySmall),
                       trailing: PopupMenuButton<String>(
@@ -78,6 +78,22 @@ class _UserReadingsPageState extends ConsumerState<UserReadingsPage> {
             ),
     );
   }
+}
+
+/// The reading's header picture, or the mode's icon when it has none (or the file is gone).
+Widget _thumb(UserReading r) {
+  final icon = IconTile(r.grammarRefs.isNotEmpty ? Icons.account_tree : Icons.article_outlined, size: 56);
+  final img = r.img;
+  return ClipRRect(
+    borderRadius: BorderRadius.circular(8),
+    child: SizedBox(
+      width: 56,
+      height: 56,
+      child: img == null || r.grammarRefs.isNotEmpty
+          ? icon
+          : Image(image: FileImage(File(img)), fit: BoxFit.cover, errorBuilder: (_, _, _) => icon),
+    ),
+  );
 }
 
 class UserReadingEditPage extends ConsumerStatefulWidget {
