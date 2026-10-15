@@ -64,6 +64,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
   int _ticks = 0;
   int _written = 0;      // words (or dots) written so far
   bool _readWhole = false;
+  int _run = 0;          // bumped per sentence start, so a stale tick cannot read the next one
   bool _showAnswer = false;
   String? _image;
   /// Read once: `ref` may not be used in [dispose].
@@ -93,6 +94,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
   int get _initialWait => _level <= 3 ? 3 : (_level <= 5 ? 7 : 6);
 
   Future<void> _start() async {
+    _run++;
     _timer?.cancel();
     _ticks = 0;
     _readWhole = false;
@@ -110,15 +112,23 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
     _ticks++;
     if (_ticks < _initialWait) return;
     if (_written >= _words.length) {
-      _timer?.cancel();
-      if (_dotsOnly && !_readWhole) {
-        _readWhole = true;
-        await ref.read(ttsProvider).speak(widget.items[_pos].answer);
-      }
+      // Word levels: the tick that spoke the last word reads the sentence (below).
+      if (_dotsOnly) await _readWholeOnce();
       return;
     }
     setState(() => _written++);
-    if (!_dotsOnly) await ref.read(ttsProvider).speak(_words[_written - 1]);
+    if (_dotsOnly) return;
+    final run = _run;
+    await ref.read(ttsProvider).speak(_words[_written - 1]);
+    if (mounted && run == _run && _written >= _words.length) await _readWholeOnce();
+  }
+
+  /// After the last word (or dot), read the whole sentence once.
+  Future<void> _readWholeOnce() async {
+    _timer?.cancel();
+    if (_readWhole) return;
+    _readWhole = true;
+    await ref.read(ttsProvider).speakAfter(widget.items[_pos].answer);
   }
 
   // ---- navigation (TangCauSpeak / RandomSpeak / skip) --------------------------------

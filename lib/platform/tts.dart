@@ -29,6 +29,8 @@ abstract class TtsBackend {
   Future<void> setRate(int sapiRate);
   /// Speaks and completes when the utterance has finished (or was stopped).
   Future<void> speak(String text);
+  /// Speaks after whatever is playing now, without cutting it off.
+  Future<void> speakAfter(String text);
   Future<void> stop();
 }
 
@@ -84,6 +86,15 @@ class TtsService {
     } catch (_) {}
   }
 
+  /// Like [speak], but never cuts off the utterance still playing (Android queues it).
+  Future<void> speakAfter(String text) async {
+    if (!_ready) await init(speed: _speed, voiceName: _voiceId);
+    if (text.trim().isEmpty) return;
+    try {
+      await _b.speakAfter(text);
+    } catch (_) {}
+  }
+
   Future<void> stop() async {
     try {
       await _b.stop();
@@ -128,6 +139,10 @@ class _SapiBackend implements TtsBackend {
       await Future<void>.delayed(const Duration(milliseconds: 80));
     }
   }
+
+  /// [speak] polls SAPI until it really is silent, so nothing is still playing here.
+  @override
+  Future<void> speakAfter(String text) => speak(text);
 
   @override
   Future<void> stop() async {
@@ -184,6 +199,20 @@ class _FlutterTtsBackend implements TtsBackend {
   Future<void> speak(String text) async {
     await _tts.stop();
     await _tts.speak(text);
+  }
+
+  /// Android's completion can fire before the utterance has really finished (a late
+  /// callback from the stopped one), so stop + speak would swallow it: queue instead.
+  /// Queued speech does not await completion.
+  @override
+  Future<void> speakAfter(String text) async {
+    if (!Platform.isAndroid) return speak(text);
+    await _tts.setQueueMode(1);
+    try {
+      await _tts.speak(text);
+    } finally {
+      await _tts.setQueueMode(0);
+    }
   }
 
   @override
