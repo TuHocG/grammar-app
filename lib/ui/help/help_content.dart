@@ -148,7 +148,7 @@ Máy đọc lần lượt từng câu và tô sáng câu đang đọc.
 
 ## Xếp từ
 Các từ của câu tiếng Anh bị đảo lộn; câu tiếng Việt ở trên làm gợi ý.
-- Chạm các từ theo đúng thứ tự. Chạm sai thì từ đó nháy đỏ và đứng yên.
+- Chạm các từ theo đúng thứ tự, đúng cả chữ hoa, chữ thường ("The" đầu câu khác "the" giữa câu). Chạm sai thì từ đó nháy đỏ và đứng yên.
 - **Đáp án** xếp nốt phần còn lại; nút loa đọc cả câu.
 - **Câu trước** / **Câu kế** (hoặc **Alt+←** / **Alt+→**). Câu dưới 4 từ được bỏ qua.
 

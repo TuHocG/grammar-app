@@ -61,7 +61,7 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
 
   void _tap(int i) {
     final want = _target[_placed.length];
-    if (_pool[i].toLowerCase() == want.toLowerCase()) {
+    if (_pool[i] == want) {
       setState(() {
         _placed.add(_pool[i]);
         _used.add(i);
@@ -104,12 +104,22 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
           border: Border.all(color: done ? theme.colorScheme.primary : theme.colorScheme.outlineVariant),
           borderRadius: BorderRadius.circular(12),
         ),
-        child: Wrap(spacing: 8, runSpacing: 8, children: [
-          for (var i = 0; i < _placed.length; i++)
-            Chip(
-              label: Text(_placed[i]),
-              backgroundColor: _revealedFrom != null && i >= _revealedFrom! ? theme.colorScheme.errorContainer : theme.colorScheme.primaryContainer,
-            ),
+        // An invisible copy of the finished sentence sizes the box up front, so it does not grow
+        // (and push the word pool down) as words are placed.
+        child: Stack(children: [
+          Visibility.maintain(
+            visible: false,
+            child: Wrap(spacing: 8, runSpacing: 8, children: [for (final w in _target) Chip(label: Text(w))]),
+          ),
+          Positioned.fill(
+            child: Wrap(spacing: 8, runSpacing: 8, children: [
+              for (var i = 0; i < _placed.length; i++)
+                Chip(
+                  label: Text(_placed[i]),
+                  backgroundColor: _revealedFrom != null && i >= _revealedFrom! ? theme.colorScheme.errorContainer : theme.colorScheme.primaryContainer,
+                ),
+            ]),
+          ),
         ]),
       ),
       const SizedBox(height: 16),
@@ -121,14 +131,26 @@ class _ScrambleBoardState extends ConsumerState<ScrambleBoard> {
             onPressed: _used.contains(i) ? null : () => _tap(i),
           ),
       ]),
-      const SizedBox(height: 12),
+      const SizedBox(height: 16),
+      const Divider(height: 1),
+      const SizedBox(height: 16),
       Row(children: [
-        OutlinedButton(onPressed: done ? null : _reveal, child: const Text('Đáp án')),
+        FilledButton.icon(
+          onPressed: done ? null : _reveal,
+          icon: const Icon(Icons.lightbulb_outline),
+          label: const Text('Đáp án'),
+          style: FilledButton.styleFrom(
+            backgroundColor: theme.colorScheme.tertiary,
+            foregroundColor: theme.colorScheme.onTertiary,
+          ),
+        ),
         const SizedBox(width: 8),
         IconButton(tooltip: 'Nghe câu', icon: const Icon(Icons.volume_up), onPressed: () => _tts.speak(widget.sentence)),
-        const Spacer(),
-        if (done) Flexible(child: Text(widget.sentence, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary), textAlign: TextAlign.right)),
       ]),
+      if (done) ...[
+        const SizedBox(height: 12),
+        Text(widget.sentence, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary)),
+      ],
     ]);
   }
 }

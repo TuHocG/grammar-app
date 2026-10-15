@@ -53,7 +53,7 @@ Trạng thái thực hiện ghi ở cột cuối khi implement: ☐ chưa, ◐ �
 | Mã | Hành vi | Mã nguồn | Dữ liệu | Quyết định | Mốc | Kiểm thử | TT |
 |---|---|---|---|---|---|---|---|
 | X1 | Xáo từ của một câu Anh (bỏ dấu câu, bỏ câu < 4 từ), hiện câu Việt làm gợi ý | D §6 `XepTu.bas:LoadCauAnhViet` | `reading_sentence` / `dialog` | Giữ | M2 | câu 4 từ trở lên mới xuất hiện | ☑ |
-| X2 | Click phải vào từ → từ đi vào đúng vị trí (chỉ khi đúng từ kế tiếp); Enter → xem đáp án hoặc câu mới; không tính điểm | D §6 | — | Tương đương: chạm từ (thay click phải), từ đã chọn mờ đi tại chỗ (không biến mất), sai thì rung; nút "Đáp án" / "Câu kế" | M2 | sai không di chuyển | ☑ |
+| X2 | Click phải vào từ → từ đi vào đúng vị trí (chỉ khi đúng từ kế tiếp); Enter → xem đáp án hoặc câu mới; không tính điểm | D §6 | — | Tương đương: chạm từ (thay click phải), từ đã chọn mờ đi tại chỗ (không biến mất), sai thì rung; phân biệt chữ hoa/thường (các chip tách từ câu gốc, nên "The" đầu câu khác "the" giữa câu); khung câu giữ sẵn chiều cao của cả câu để các chip bên dưới không bị đẩy xuống; nút "Đáp án" / "Câu kế" | M2 | sai không di chuyển; `scramble_board_test` | ☑ |
 | X3 | Dùng chung cho Bài Đọc, Luyện Nói, Phân Tích Câu | A §2.4 | — | Giữ (một widget) | M2 | mở từ 3 nơi | ☑ |
 
 ### 1b. Đàm thoại (`DangDamThoai`, Timer5) – help [2], [23]

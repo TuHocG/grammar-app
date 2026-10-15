@@ -50,8 +50,8 @@ class _ScramblePageState extends ConsumerState<ScramblePage> {
         child: Padding(
           padding: const EdgeInsets.all(20),
           child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            ScrambleBoard(key: ValueKey('${r.id}-$_pos'), sentence: s.en, hint: s.vi),
-            const Spacer(),
+            Expanded(child: SingleChildScrollView(child: ScrambleBoard(key: ValueKey('${r.id}-$_pos'), sentence: s.en, hint: s.vi))),
+            const SizedBox(height: 12),
             Row(children: [
               OutlinedButton(onPressed: prev, child: const Text('Câu trước')),
               const Spacer(),
