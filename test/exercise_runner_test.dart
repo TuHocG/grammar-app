@@ -1,6 +1,7 @@
 // Grading rules of ExerciseRunner against real rows of dist/grammar.db (skipped if absent).
 import 'dart:io';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -69,6 +70,48 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Đúng 1 / 1'), findsOneWidget);
     expect(find.byIcon(Icons.check_circle), findsOneWidget);
+  }, skip: !has);
+
+  testWidgets('fill on a phone: the keyboard action moves through the blanks, the last one grades', (tester) async {
+    debugDefaultTargetPlatformOverride = TargetPlatform.android;
+    addTearDown(() => debugDefaultTargetPlatformOverride = null);
+    final ex = [db.exercisesInRange(0, 2000).firstWhere((x) => x.kind == 'fill' && x.blanks.length >= 2)];
+    final n = ex.single.blanks.length;
+    await tester.pumpWidget(wrap(ExerciseRunner(title: 't', exercises: ex)));
+    await tester.pumpAndSettle();
+    final fields = find.byType(TextField);
+    expect(fields, findsNWidgets(n));
+    await tester.showKeyboard(fields.first);
+    for (var k = 0; k < n - 1; k++) {
+      expect(tester.testTextInput.setClientArgs?['inputAction'], 'TextInputAction.next');
+      await tester.testTextInput.receiveAction(TextInputAction.next);
+      await tester.pumpAndSettle();
+      expect(find.text('Đúng 0 / 1'), findsNothing); // not graded yet
+    }
+    expect(tester.testTextInput.setClientArgs?['inputAction'], 'TextInputAction.done');
+    await tester.testTextInput.receiveAction(TextInputAction.done);
+    await tester.pumpAndSettle();
+    expect(find.text('Đúng 0 / 1'), findsOneWidget); // empty blanks: graded, wrong
+    debugDefaultTargetPlatformOverride = null;
+  }, skip: !has);
+
+  testWidgets('fill on a phone: a question with more blanks after a one-blank one offers Next at once', (tester) async {
+    debugDefaultTargetPlatformOverride = TargetPlatform.android;
+    addTearDown(() => debugDefaultTargetPlatformOverride = null);
+    final all = db.exercisesInRange(0, 2000);
+    final ex = [all.firstWhere((x) => x.kind == 'fill' && x.blanks.length == 1), all.firstWhere((x) => x.kind == 'fill' && x.blanks.length >= 2)];
+    await tester.pumpWidget(wrap(ExerciseRunner(title: 't', exercises: ex)));
+    await tester.pumpAndSettle();
+    await tester.showKeyboard(find.byType(TextField));
+    expect(tester.testTextInput.setClientArgs?['inputAction'], 'TextInputAction.done');
+    // Grade and move on with the buttons, the keyboard staying up on the reused field.
+    await tester.tap(find.text('Chấm (Enter)'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Next'));
+    await tester.pumpAndSettle();
+    expect(find.byType(TextField), findsNWidgets(ex[1].blanks.length));
+    expect(tester.testTextInput.setClientArgs?['inputAction'], 'TextInputAction.next');
+    debugDefaultTargetPlatformOverride = null;
   }, skip: !has);
 
   testWidgets('fill: wrong answer is marked and scores 0', (tester) async {

@@ -9,6 +9,7 @@ library;
 
 import 'dart:math';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -461,6 +462,14 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     final idxs = RegExp(r'\{(\d+)\}').allMatches(e.text).map((m) => int.parse(m.group(1)!)).toList();
     final spans = <InlineSpan>[];
     final style = ReadingStyles.prompt(context);
+    bool? okAt(int b) => _r.graded && b < _r.blankOk.length ? _r.blankOk[b] : null;
+    // On a phone keyboard the action key goes to the next open blank, like a form; only
+    // the last one grades. Desktop keeps Enter = Chấm in every blank, as the old app did.
+    final mobile = defaultTargetPlatform == TargetPlatform.android || defaultTargetPlatform == TargetPlatform.iOS;
+    final open = [
+      for (final b in idxs)
+        if (b < e.blanks.length && okAt(b) != true) b,
+    ];
     for (var i = 0; i < parts.length; i++) {
       if (parts[i].isNotEmpty) {
         spans.add(
@@ -473,7 +482,9 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
       }
       if (i < idxs.length && idxs[i] < e.blanks.length) {
         final b = idxs[i];
-        final ok = _r.graded && b < _r.blankOk.length ? _r.blankOk[b] : null;
+        final ok = okAt(b);
+        final at = open.indexOf(b);
+        final next = mobile && at >= 0 && at < open.length - 1 ? nodes[open[at + 1]] : null;
         // Wide enough for the longest accepted answer (plus one letter of slack), never
         // narrower than 7 letters; the underscore count `n` says nothing about length.
         final fs = style.fontSize ?? 20;
@@ -488,6 +499,9 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
               child: Shortcuts(
                 shortcuts: _blankVerticalKeys,
                 child: TextField(
+                  // A fresh field per question: a reused one keeps the keyboard it opened
+                  // with, so Next / Done would not follow the new question's blanks.
+                  key: ValueKey((e.id, b)),
                   controller: ctls[b],
                   focusNode: nodes[b],
                   enabled: !_r.graded || !(ok ?? false),
@@ -510,7 +524,10 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
                     focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
                     disabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
                   ),
-                  onSubmitted: (_) => _r.graded ? _next() : _gradeFill(),
+                  textInputAction: next == null ? null : TextInputAction.next,
+                  // Non-null keeps the keyboard up while focus moves on.
+                  onEditingComplete: next == null ? null : () {},
+                  onSubmitted: (_) => next != null ? next.requestFocus() : (_r.graded ? _next() : _gradeFill()),
                 ),
               ),
             ),
