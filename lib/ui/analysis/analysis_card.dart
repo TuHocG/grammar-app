@@ -18,14 +18,7 @@ import '../dictionary/quick_def_sheet.dart';
 import '../grammar/grammar_page.dart';
 import '../widgets/shell.dart';
 
-Future<void> showAnalysisCard(
-  BuildContext context,
-  WidgetRef ref, {
-  required AnalysisWord? word,
-  required String token,
-  required String sentence,
-  required String source,
-}) {
+Future<void> showAnalysisCard(BuildContext context, WidgetRef ref, {required AnalysisWord? word, required String token, required String sentence, required String source}) {
   final lookup = ref.read(lookupProvider).lookup(token);
   ref.read(ttsProvider).speak(word?.word ?? token);
   return showModalBottomSheet<void>(
@@ -67,12 +60,18 @@ class AnalysisCard extends ConsumerWidget {
     }
 
     Widget row(String label, String value) => Padding(
-          padding: const EdgeInsets.only(top: 6),
-          child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            SizedBox(width: 96, child: Text(label, style: theme.textTheme.bodySmall?.copyWith(color: g.slate))),
-            Expanded(child: Text(value, style: theme.textTheme.bodyLarge)),
-          ]),
-        );
+      padding: const EdgeInsets.only(top: 6),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          SizedBox(
+            width: 96,
+            child: Text(label, style: theme.textTheme.bodySmall?.copyWith(color: g.slate)),
+          ),
+          Expanded(child: Text(value, style: theme.textTheme.bodyLarge)),
+        ],
+      ),
+    );
 
     return DraggableScrollableSheet(
       expand: false,
@@ -84,44 +83,73 @@ class AnalysisCard extends ConsumerWidget {
         padding: const EdgeInsets.fromLTRB(24, 0, 24, 24),
         children: [
           // Word + quick meaning, as the old app's left click shows next to the table.
-          Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 12, runSpacing: 4, children: [
-            Text(head, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink)),
-            if (r.ipa != null && r.ipa!.isNotEmpty) Text('[${r.ipa}]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
-            if (quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
-            RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => ref.read(ttsProvider).speak(head)),
-          ]),
+          Wrap(
+            crossAxisAlignment: WrapCrossAlignment.center,
+            spacing: 12,
+            runSpacing: 4,
+            children: [
+              Text(
+                head,
+                style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink),
+              ),
+              if (r.ipa != null && r.ipa!.isNotEmpty) Text('[${r.ipa}]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
+              if (quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
+              RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => ref.read(ttsProvider).speak(head)),
+            ],
+          ),
           if (quick != null)
             Padding(
               padding: const EdgeInsets.only(top: 6),
-              child: Row(crossAxisAlignment: CrossAxisAlignment.baseline, textBaseline: TextBaseline.alphabetic, children: [
-                if (quick.pos != null && quick.pos!.isNotEmpty) ...[PosBadge(quick.pos!), const SizedBox(width: 8)],
-                Expanded(child: Text(quick.vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))),
-              ]),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.baseline,
+                textBaseline: TextBaseline.alphabetic,
+                children: [
+                  if (quick.pos != null && quick.pos!.isNotEmpty) ...[PosBadge(quick.pos!), const SizedBox(width: 8)],
+                  Expanded(child: Text(quick.vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))),
+                ],
+              ),
             )
           else if (r.entries.isNotEmpty)
-            Padding(padding: const EdgeInsets.only(top: 6), child: Text(r.entries.first.preview, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))),
-          const SizedBox(height: 12),
-          Wrap(spacing: 8, runSpacing: 8, children: [
-            if (saved)
-              FilledButton.icon(style: FilledButton.styleFrom(backgroundColor: g.savedWord), onPressed: toggleSave, icon: const Icon(Icons.bookmark, size: 16), label: const Text('Đã lưu'))
-            else
-              FilledButton.icon(onPressed: toggleSave, icon: const Icon(Icons.bookmark_outline, size: 16), label: const Text('Lưu từ')),
-            OutlinedButton(
-              onPressed: () {
-                Navigator.of(context).pop();
-                showQuickDef(context, ref, token, contextSentence: sentence, source: source);
-              },
-              child: const Text('Tra từ điển'),
+            Padding(
+              padding: const EdgeInsets.only(top: 6),
+              child: Text(r.entries.first.preview, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17)),
             ),
-          ]),
+          const SizedBox(height: 12),
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: [
+              if (saved)
+                FilledButton.icon(
+                  style: FilledButton.styleFrom(backgroundColor: g.savedWord),
+                  onPressed: toggleSave,
+                  icon: const Icon(Icons.bookmark, size: 16),
+                  label: const Text('Đã lưu'),
+                )
+              else
+                FilledButton.icon(onPressed: toggleSave, icon: const Icon(Icons.bookmark_outline, size: 16), label: const Text('Lưu từ')),
+              OutlinedButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  showQuickDef(context, ref, token, contextSentence: sentence, source: source);
+                },
+                child: const Text('Tra từ điển'),
+              ),
+            ],
+          ),
           const SizedBox(height: 16),
           Container(
             padding: const EdgeInsets.only(top: 14),
-            decoration: BoxDecoration(border: Border(top: BorderSide(color: g.border))),
+            decoration: BoxDecoration(
+              border: Border(top: BorderSide(color: g.border)),
+            ),
             child: Text('Phân tích', style: theme.textTheme.titleSmall?.copyWith(color: g.slate)),
           ),
           if (w == null)
-            Padding(padding: const EdgeInsets.only(top: 6), child: Text('Không có phân tích cho từ này.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)))
+            Padding(
+              padding: const EdgeInsets.only(top: 6),
+              child: Text('Không có phân tích cho từ này.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+            )
           else ...[
             row('Từ loại', w.pos),
             row('Vị trí', w.position),
@@ -134,12 +162,7 @@ class AnalysisCard extends ConsumerWidget {
               const SizedBox(height: 6),
               // Titles as the old app lists them (blue italic lines), e.g. "Câu Ðơn (Simple Sentence)".
               for (final ref_ in w.refs)
-                _LessonLink(
-                  number: ref_,
-                  title: db.grammarLesson(ref_)?.title ?? 'Bài $ref_',
-                  onTap: () => showLessonSheet(context, ref_),
-                  onOpen: () => context.push('/grammar/$ref_'),
-                ),
+                _LessonLink(number: ref_, title: db.grammarLesson(ref_)?.title ?? 'Bài $ref_', onTap: () => showLessonSheet(context, ref_), onOpen: () => context.push('/grammar/$ref_')),
             ],
           ],
         ],
@@ -165,14 +188,21 @@ class _LessonLink extends StatelessWidget {
         borderRadius: BorderRadius.circular(6),
         child: Padding(
           padding: const EdgeInsets.symmetric(vertical: 6, horizontal: 4),
-          child: Row(children: [
-            Icon(Icons.menu_book_outlined, size: 16, color: g.iris),
-            const SizedBox(width: 8),
-            Expanded(child: Text(title, style: theme.textTheme.bodyLarge?.copyWith(color: g.iris, fontStyle: FontStyle.italic))),
-            Text('Bài $number', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
-            const SizedBox(width: 12),
-            RoundIconButton(icon: Icons.open_in_new, tooltip: 'Mở trang văn phạm', size: 28, onPressed: onOpen),
-          ]),
+          child: Row(
+            children: [
+              Icon(Icons.menu_book_outlined, size: 16, color: g.iris),
+              const SizedBox(width: 8),
+              Expanded(
+                child: Text(
+                  title,
+                  style: theme.textTheme.bodyLarge?.copyWith(color: g.iris, fontStyle: FontStyle.italic),
+                ),
+              ),
+              Text('Bài $number', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+              const SizedBox(width: 12),
+              RoundIconButton(icon: Icons.open_in_new, tooltip: 'Mở trang văn phạm', size: 28, onPressed: onOpen),
+            ],
+          ),
         ),
       ),
     );

@@ -40,30 +40,23 @@ class AppSettings {
   final double fontScale; // 0.8 .. 1.6
   final ThemeMode themeMode;
   final String? dataDir;
-  const AppSettings({
-    this.ttsSpeed = 4,
-    this.ttsVoice,
-    this.fontScale = 1.0,
-    this.themeMode = ThemeMode.system,
-    this.dataDir,
-  });
+  const AppSettings({this.ttsSpeed = 4, this.ttsVoice, this.fontScale = 1.0, this.themeMode = ThemeMode.system, this.dataDir});
 
-  AppSettings copyWith({int? ttsSpeed, String? ttsVoice, bool clearVoice = false, double? fontScale, ThemeMode? themeMode, String? dataDir}) =>
-      AppSettings(
-        ttsSpeed: ttsSpeed ?? this.ttsSpeed,
-        ttsVoice: clearVoice ? null : (ttsVoice ?? this.ttsVoice),
-        fontScale: fontScale ?? this.fontScale,
-        themeMode: themeMode ?? this.themeMode,
-        dataDir: dataDir ?? this.dataDir,
-      );
+  AppSettings copyWith({int? ttsSpeed, String? ttsVoice, bool clearVoice = false, double? fontScale, ThemeMode? themeMode, String? dataDir}) => AppSettings(
+    ttsSpeed: ttsSpeed ?? this.ttsSpeed,
+    ttsVoice: clearVoice ? null : (ttsVoice ?? this.ttsVoice),
+    fontScale: fontScale ?? this.fontScale,
+    themeMode: themeMode ?? this.themeMode,
+    dataDir: dataDir ?? this.dataDir,
+  );
 
   static AppSettings fromMap(Map<String, String> m) => AppSettings(
-        ttsSpeed: int.tryParse(m['tts_speed'] ?? '') ?? 4,
-        ttsVoice: m['tts_voice'],
-        fontScale: double.tryParse(m['font_scale'] ?? '') ?? 1.0,
-        themeMode: ThemeMode.values.firstWhere((t) => t.name == m['theme_mode'], orElse: () => ThemeMode.system),
-        dataDir: m['data_dir'],
-      );
+    ttsSpeed: int.tryParse(m['tts_speed'] ?? '') ?? 4,
+    ttsVoice: m['tts_voice'],
+    fontScale: double.tryParse(m['font_scale'] ?? '') ?? 1.0,
+    themeMode: ThemeMode.values.firstWhere((t) => t.name == m['theme_mode'], orElse: () => ThemeMode.system),
+    dataDir: m['data_dir'],
+  );
 }
 
 class SettingsNotifier extends Notifier<AppSettings> {

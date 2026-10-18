@@ -25,8 +25,10 @@ import 'reading_page.dart';
 class PracticeItem {
   /// Shown to the learner (Vietnamese sentence, or English sentence A in Luyện Nói).
   final String prompt;
+
   /// What the learner must say.
   final String answer;
+
   /// Read [prompt] aloud instead of showing it (Luyện Nói).
   final bool speakPrompt;
   const PracticeItem({required this.prompt, required this.answer, this.speakPrompt = false});
@@ -38,6 +40,7 @@ const levelInterval = [5.0, 3.0, 2.0, 1.0, 0.7, 0.6, 0.5, 0.4, 0.2, 0.1];
 class DialogPracticePage extends ConsumerStatefulWidget {
   final String title;
   final List<PracticeItem> items;
+
   /// Picture pool shown at random per sentence (Luyện Nói only).
   final List<String>? images;
   final String? source;
@@ -45,10 +48,10 @@ class DialogPracticePage extends ConsumerStatefulWidget {
 
   /// Build from a reading: prompt = Vietnamese, answer = English (sentences ≥ 2 words).
   static DialogPracticePage forReading(Reading r) => DialogPracticePage(
-        title: r.title,
-        items: [for (final s in practiceSentences(r)) PracticeItem(prompt: s.vi, answer: s.en)],
-        source: 'reading:${r.id}',
-      );
+    title: r.title,
+    items: [for (final s in practiceSentences(r)) PracticeItem(prompt: s.vi, answer: s.en)],
+    source: 'reading:${r.id}',
+  );
 
   @override
   ConsumerState<DialogPracticePage> createState() => _DialogPracticePageState();
@@ -62,11 +65,12 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
   final _rnd = Random();
   Timer? _timer;
   int _ticks = 0;
-  int _written = 0;      // words (or dots) written so far
+  int _written = 0; // words (or dots) written so far
   bool _readWhole = false;
-  int _run = 0;          // bumped per sentence start, so a stale tick cannot read the next one
+  int _run = 0; // bumped per sentence start, so a stale tick cannot read the next one
   bool _showAnswer = false;
   String? _image;
+
   /// Read once: `ref` may not be used in [dispose].
   late final TtsService _tts;
 
@@ -183,9 +187,7 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
     final theme = Theme.of(context);
     final item = widget.items[_pos];
     final words = _words;
-    final hint = _dotsOnly
-        ? List.filled(_written, '.').join(' ')
-        : words.take(_written).join(' ');
+    final hint = _dotsOnly ? List.filled(_written, '.').join(' ') : words.take(_written).join(' ');
     final db = ref.read(contentDbProvider);
 
     return PrevNextKeys(
@@ -195,83 +197,99 @@ class _DialogPracticePageState extends ConsumerState<DialogPracticePage> {
         appBar: GrammarAppBar(
           title: Text('Đàm thoại · ${widget.title}', maxLines: 1, overflow: TextOverflow.ellipsis),
           onHelp: () => showDialog<void>(
-                context: context,
-                builder: (c) => AlertDialog(
-                  title: const Text('Mức độ khó'),
-                  content: const Text(
-                    'Mức 1–5: hiện câu đề và từ đầu, rồi lần lượt từng từ (chậm → nhanh), máy đọc từng từ.\n'
-                    'Mức 6: chỉ câu đề, rồi từng từ.\n'
-                    'Mức 7–10: chỉ câu đề; máy chấm nhịp rồi đọc nguyên câu. Mức 10 tạo phản xạ.\n\n'
-                    'Hãy nói câu Anh trước khi máy gợi ý xong.',
-                  ),
-                  actions: [
-                    TextButton(
-                      onPressed: () {
-                        Navigator.pop(c);
-                        context.push('/help/luyen-bai-doc');
-                      },
-                      child: const Text('Hướng dẫn đầy đủ'),
-                    ),
-                    TextButton(onPressed: () => Navigator.pop(c), child: const Text('Đóng')),
-                  ],
-                ),
+            context: context,
+            builder: (c) => AlertDialog(
+              title: const Text('Mức độ khó'),
+              content: const Text(
+                'Mức 1–5: hiện câu đề và từ đầu, rồi lần lượt từng từ (chậm → nhanh), máy đọc từng từ.\n'
+                'Mức 6: chỉ câu đề, rồi từng từ.\n'
+                'Mức 7–10: chỉ câu đề; máy chấm nhịp rồi đọc nguyên câu. Mức 10 tạo phản xạ.\n\n'
+                'Hãy nói câu Anh trước khi máy gợi ý xong.',
               ),
+              actions: [
+                TextButton(
+                  onPressed: () {
+                    Navigator.pop(c);
+                    context.push('/help/luyen-bai-doc');
+                  },
+                  child: const Text('Hướng dẫn đầy đủ'),
+                ),
+                TextButton(onPressed: () => Navigator.pop(c), child: const Text('Đóng')),
+              ],
+            ),
+          ),
         ),
         body: SingleChildScrollView(
           padding: const EdgeInsets.all(20),
-          child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            Row(children: [
-              Text('Mức độ khó', style: theme.textTheme.titleSmall),
-              IconButton(icon: const Icon(Icons.remove), onPressed: _level > 1 ? () => _setLevel(_level - 1) : null),
-              Text('$_level', style: theme.textTheme.titleLarge),
-              IconButton(icon: const Icon(Icons.add), onPressed: _level < 10 ? () => _setLevel(_level + 1) : null),
-              const Spacer(),
-              Text('${_pos + 1}/${widget.items.length}', style: theme.textTheme.bodySmall),
-            ]),
-            const SizedBox(height: 8),
-            if (_image != null)
-              Center(
-                child: ConstrainedBox(
-                  constraints: const BoxConstraints(maxHeight: 200),
-                  child: ClipRRect(borderRadius: BorderRadius.circular(12), child: Image(image: db.imageProvider(_image!), errorBuilder: (_, _, _) => const SizedBox.shrink())),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              Row(
+                children: [
+                  Text('Mức độ khó', style: theme.textTheme.titleSmall),
+                  IconButton(icon: const Icon(Icons.remove), onPressed: _level > 1 ? () => _setLevel(_level - 1) : null),
+                  Text('$_level', style: theme.textTheme.titleLarge),
+                  IconButton(icon: const Icon(Icons.add), onPressed: _level < 10 ? () => _setLevel(_level + 1) : null),
+                  const Spacer(),
+                  Text('${_pos + 1}/${widget.items.length}', style: theme.textTheme.bodySmall),
+                ],
+              ),
+              const SizedBox(height: 8),
+              if (_image != null)
+                Center(
+                  child: ConstrainedBox(
+                    constraints: const BoxConstraints(maxHeight: 200),
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(12),
+                      child: Image(image: db.imageProvider(_image!), errorBuilder: (_, _, _) => const SizedBox.shrink()),
+                    ),
+                  ),
+                ),
+              const SizedBox(height: 16),
+              Card(
+                child: Padding(
+                  padding: const EdgeInsets.all(16),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      if (item.speakPrompt && _dotsOnly)
+                        Text('Listen: ...', style: theme.textTheme.titleMedium?.copyWith(fontStyle: FontStyle.italic))
+                      else
+                        WordTapText(item.prompt, style: theme.textTheme.titleMedium, source: widget.source),
+                      if (item.speakPrompt)
+                        Align(
+                          alignment: Alignment.centerRight,
+                          child: IconButton(tooltip: 'Nghe lại câu hỏi', icon: const Icon(Icons.volume_up), onPressed: () => ref.read(ttsProvider).speak(item.prompt)),
+                        ),
+                    ],
+                  ),
                 ),
               ),
-            const SizedBox(height: 16),
-            Card(
-              child: Padding(
-                padding: const EdgeInsets.all(16),
-                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  if (item.speakPrompt && _dotsOnly)
-                    Text('Listen: ...', style: theme.textTheme.titleMedium?.copyWith(fontStyle: FontStyle.italic))
-                  else
-                    WordTapText(item.prompt, style: theme.textTheme.titleMedium, source: widget.source),
-                  if (item.speakPrompt)
-                    Align(
-                      alignment: Alignment.centerRight,
-                      child: IconButton(tooltip: 'Nghe lại câu hỏi', icon: const Icon(Icons.volume_up), onPressed: () => ref.read(ttsProvider).speak(item.prompt)),
+              const SizedBox(height: 16),
+              Text.rich(
+                TextSpan(
+                  children: [
+                    if (item.speakPrompt || _written > 0)
+                      TextSpan(
+                        text: 'Answer: ',
+                        style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.outline),
+                      ),
+                    TextSpan(
+                      text: hint,
+                      style: theme.textTheme.headlineSmall?.copyWith(color: theme.colorScheme.primary),
                     ),
-                ]),
+                  ],
+                ),
               ),
-            ),
-            const SizedBox(height: 16),
-            Text.rich(TextSpan(children: [
-              if (item.speakPrompt || _written > 0) TextSpan(text: 'Answer: ', style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.outline)),
-              TextSpan(text: hint, style: theme.textTheme.headlineSmall?.copyWith(color: theme.colorScheme.primary)),
-            ])),
-            if (_showAnswer)
-              Padding(
-                padding: const EdgeInsets.only(top: 12),
-                child: WordTapText(item.answer, style: theme.textTheme.titleMedium, source: widget.source),
-              ),
-          ]),
+              if (_showAnswer)
+                Padding(
+                  padding: const EdgeInsets.only(top: 12),
+                  child: WordTapText(item.answer, style: theme.textTheme.titleMedium, source: widget.source),
+                ),
+            ],
+          ),
         ),
-        bottomNavigationBar: _ActionBar(
-          onBack: _back,
-          onSkip: _skip,
-          onShow: () => setState(() => _showAnswer = true),
-          onListen: () => ref.read(ttsProvider).speak(item.answer),
-          onNext: _next,
-        ),
+        bottomNavigationBar: _ActionBar(onBack: _back, onSkip: _skip, onShow: () => setState(() => _showAnswer = true), onListen: () => ref.read(ttsProvider).speak(item.answer), onNext: _next),
       ),
     );
   }
@@ -288,22 +306,33 @@ class _ActionBar extends StatelessWidget {
     final narrow = MediaQuery.sizeOf(context).width < 560;
     Widget action(IconData icon, String label, VoidCallback onPressed) => narrow
         ? IconButton(tooltip: label, icon: Icon(icon), onPressed: onPressed)
-        : Padding(padding: const EdgeInsets.only(right: 8), child: OutlinedButton.icon(onPressed: onPressed, icon: Icon(icon, size: 18), label: Text(label)));
+        : Padding(
+            padding: const EdgeInsets.only(right: 8),
+            child: OutlinedButton.icon(onPressed: onPressed, icon: Icon(icon, size: 18), label: Text(label)),
+          );
     return SafeArea(
       child: Container(
-        decoration: BoxDecoration(color: context.g.card, border: Border(top: BorderSide(color: context.g.border))),
+        decoration: BoxDecoration(
+          color: context.g.card,
+          border: Border(top: BorderSide(color: context.g.border)),
+        ),
         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-        child: Row(children: [
-          OutlinedButton(onPressed: onBack, child: const Text('Back')),
-          Expanded(
-            child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
-              action(Icons.skip_next_outlined, 'Bỏ câu này', onSkip),
-              action(Icons.visibility_outlined, 'Xem câu', onShow),
-              IconButton(tooltip: 'Nghe câu trả lời', icon: const Icon(Icons.volume_up), onPressed: onListen),
-            ]),
-          ),
-          FilledButton(onPressed: onNext, child: const Text('Next')),
-        ]),
+        child: Row(
+          children: [
+            OutlinedButton(onPressed: onBack, child: const Text('Back')),
+            Expanded(
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  action(Icons.skip_next_outlined, 'Bỏ câu này', onSkip),
+                  action(Icons.visibility_outlined, 'Xem câu', onShow),
+                  IconButton(tooltip: 'Nghe câu trả lời', icon: const Icon(Icons.volume_up), onPressed: onListen),
+                ],
+              ),
+            ),
+            FilledButton(onPressed: onNext, child: const Text('Next')),
+          ],
+        ),
       ),
     );
   }

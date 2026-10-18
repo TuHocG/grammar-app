@@ -11,7 +11,9 @@ String exportBackup(UserDb db) {
   final out = <String, Object?>{'format': 1, 'exported': DateTime.now().toIso8601String()};
   for (final t in _tables) {
     final rows = db.raw.select('SELECT * FROM $t');
-    out[t] = [for (final r in rows) {for (final c in r.keys) c: r[c]}];
+    out[t] = [
+      for (final r in rows) {for (final c in r.keys) c: r[c]},
+    ];
   }
   return const JsonEncoder.withIndent(' ').convert(out);
 }

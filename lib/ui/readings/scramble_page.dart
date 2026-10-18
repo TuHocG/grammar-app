@@ -38,7 +38,12 @@ class _ScramblePageState extends ConsumerState<ScramblePage> {
   @override
   Widget build(BuildContext context) {
     final r = _reading;
-    if (r == null || _items.isEmpty) return Scaffold(appBar: GrammarAppBar(title: const Text('Xếp từ')), body: const Center(child: Text('Bài này không có câu đủ dài để xếp.')));
+    if (r == null || _items.isEmpty) {
+      return Scaffold(
+        appBar: GrammarAppBar(title: const Text('Xếp từ')),
+        body: const Center(child: Text('Bài này không có câu đủ dài để xếp.')),
+      );
+    }
     final s = _items[_pos];
     final prev = _pos > 0 ? () => setState(() => _pos--) : null;
     final next = _pos < _items.length - 1 ? () => setState(() => _pos++) : null;
@@ -49,15 +54,24 @@ class _ScramblePageState extends ConsumerState<ScramblePage> {
         onNext: next,
         child: Padding(
           padding: const EdgeInsets.all(20),
-          child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            Expanded(child: SingleChildScrollView(child: ScrambleBoard(key: ValueKey('${r.id}-$_pos'), sentence: s.en, hint: s.vi))),
-            const SizedBox(height: 12),
-            Row(children: [
-              OutlinedButton(onPressed: prev, child: const Text('Câu trước')),
-              const Spacer(),
-              FilledButton(onPressed: next, child: const Text('Câu kế')),
-            ]),
-          ]),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              Expanded(
+                child: SingleChildScrollView(
+                  child: ScrambleBoard(key: ValueKey('${r.id}-$_pos'), sentence: s.en, hint: s.vi),
+                ),
+              ),
+              const SizedBox(height: 12),
+              Row(
+                children: [
+                  OutlinedButton(onPressed: prev, child: const Text('Câu trước')),
+                  const Spacer(),
+                  FilledButton(onPressed: next, child: const Text('Câu kế')),
+                ],
+              ),
+            ],
+          ),
         ),
       ),
     );

@@ -66,7 +66,12 @@ class _DictationPageState extends ConsumerState<DictationPage> {
     // Read the sentence again once, when the text turns wrong; more wrong letters,
     // deleting them or moving the cursor do not restart it.
     final turnedWrong = !ok && !_wrong;
-    if (ok != !_wrong || done != _done) setState(() { _wrong = !ok; _done = done; });
+    if (ok != !_wrong || done != _done) {
+      setState(() {
+        _wrong = !ok;
+        _done = done;
+      });
+    }
     if (turnedWrong) _speak();
   }
 
@@ -114,7 +119,12 @@ class _DictationPageState extends ConsumerState<DictationPage> {
 
   @override
   Widget build(BuildContext context) {
-    if (_reading == null || _items.isEmpty) return Scaffold(appBar: GrammarAppBar(title: const Text('Nghe viết')), body: const Center(child: Text('Bài này không có câu để nghe viết.')));
+    if (_reading == null || _items.isEmpty) {
+      return Scaffold(
+        appBar: GrammarAppBar(title: const Text('Nghe viết')),
+        body: const Center(child: Text('Bài này không có câu để nghe viết.')),
+      );
+    }
     final theme = Theme.of(context);
     final s = _items[_pos];
     final prev = _pos > 0 ? () => _go(_pos - 1) : null;
@@ -127,45 +137,52 @@ class _DictationPageState extends ConsumerState<DictationPage> {
         onNext: next,
         child: Padding(
           padding: const EdgeInsets.all(20),
-          child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            Text(s.vi, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-            const SizedBox(height: 16),
-            TextField(
-              controller: _ctl,
-              focusNode: _focus,
-              autofocus: true,
-              maxLines: 3,
-              style: theme.textTheme.titleMedium,
-              decoration: InputDecoration(
-                hintText: 'Gõ lại câu tiếng Anh vừa nghe',
-                filled: true,
-                fillColor: _done
-                    ? theme.colorScheme.primaryContainer
-                    : (_wrong ? theme.colorScheme.errorContainer : theme.colorScheme.surfaceContainerHighest),
-                border: const OutlineInputBorder(),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              Text(s.vi, style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
+              const SizedBox(height: 16),
+              TextField(
+                controller: _ctl,
+                focusNode: _focus,
+                autofocus: true,
+                maxLines: 3,
+                style: theme.textTheme.titleMedium,
+                decoration: InputDecoration(
+                  hintText: 'Gõ lại câu tiếng Anh vừa nghe',
+                  filled: true,
+                  fillColor: _done ? theme.colorScheme.primaryContainer : (_wrong ? theme.colorScheme.errorContainer : theme.colorScheme.surfaceContainerHighest),
+                  border: const OutlineInputBorder(),
+                ),
+                onSubmitted: (_) {
+                  if (_done && _pos < _items.length - 1) _go(_pos + 1);
+                },
               ),
-              onSubmitted: (_) {
-                if (_done && _pos < _items.length - 1) _go(_pos + 1);
-              },
-            ),
-            const SizedBox(height: 12),
-            Wrap(spacing: 8, runSpacing: 8, children: [
-              FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.replay), label: const Text('Nghe lại')),
-              OutlinedButton.icon(onPressed: _hintChar, icon: const Icon(Icons.text_increase), label: const Text('Gợi ý 1 ký tự')),
-              OutlinedButton.icon(onPressed: _hintWord, icon: const Icon(Icons.short_text), label: const Text('Hiện trọn từ')),
-            ]),
-            if (_done)
-              Padding(
-                padding: const EdgeInsets.only(top: 16),
-                child: Text('Đúng rồi!  ${s.en}', style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary)),
+              const SizedBox(height: 12),
+              Wrap(
+                spacing: 8,
+                runSpacing: 8,
+                children: [
+                  FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.replay), label: const Text('Nghe lại')),
+                  OutlinedButton.icon(onPressed: _hintChar, icon: const Icon(Icons.text_increase), label: const Text('Gợi ý 1 ký tự')),
+                  OutlinedButton.icon(onPressed: _hintWord, icon: const Icon(Icons.short_text), label: const Text('Hiện trọn từ')),
+                ],
               ),
-            const Spacer(),
-            Row(children: [
-              OutlinedButton(onPressed: prev, child: const Text('Câu trước')),
+              if (_done)
+                Padding(
+                  padding: const EdgeInsets.only(top: 16),
+                  child: Text('Đúng rồi!  ${s.en}', style: theme.textTheme.titleMedium?.copyWith(color: theme.colorScheme.primary)),
+                ),
               const Spacer(),
-              FilledButton(onPressed: next, child: const Text('Câu kế')),
-            ]),
-          ]),
+              Row(
+                children: [
+                  OutlinedButton(onPressed: prev, child: const Text('Câu trước')),
+                  const Spacer(),
+                  FilledButton(onPressed: next, child: const Text('Câu kế')),
+                ],
+              ),
+            ],
+          ),
         ),
       ),
     );

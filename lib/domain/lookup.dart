@@ -10,26 +10,23 @@ import '../data/search_key.dart';
 class LookupResult {
   /// What the user tapped, cleaned.
   final String query;
+
   /// Key actually found (may differ from the query after stemming/redirect).
   final String key;
   final QuickDef? quick;
   final List<DictEntry> entries;
   final WordFamily? family;
+
   /// Headword followed through "Xem#x#", if any.
   final String? redirectedFrom;
-  const LookupResult({
-    required this.query,
-    required this.key,
-    this.quick,
-    required this.entries,
-    this.family,
-    this.redirectedFrom,
-  });
+  const LookupResult({required this.query, required this.key, this.quick, required this.entries, this.family, this.redirectedFrom});
 
   bool get found => quick != null || entries.isNotEmpty;
+
   /// The quick definition names the word the user tapped (TimtudienDOS answers for the
   /// exact word); the full entry may belong to a "Xem#x#" target instead.
   String get headword => quick?.word ?? (entries.isNotEmpty ? entries.first.headword : query);
+
   /// Headword of the full entry when it is not the one shown in the header
   /// (e.g. "heard" keeps its own quick meaning but its full entry is "hear").
   String? get entryHeadword {
@@ -37,6 +34,7 @@ class LookupResult {
     final h = entries.first.headword;
     return h.toLowerCase() == headword.toLowerCase() ? null : h;
   }
+
   String? get ipa => quick?.ipa ?? (entries.isNotEmpty ? entries.first.ipa : null);
 }
 
@@ -71,7 +69,7 @@ class LookupService {
       for (var n = words.length; n >= 2; n--) {
         for (final v in variants) {
           final sub = v.take(n).join(' ');
-          if (n == words.length && identical(v, words)) continue;   // already tried above
+          if (n == words.length && identical(v, words)) continue; // already tried above
           final hit = _direct(query, sub);
           if (hit.found) return hit;
         }
@@ -92,24 +90,10 @@ class LookupService {
         // (TimtudienDOS) answers for the exact word. So "heard" keeps its own quick
         // meaning ("đã nghe (quá khứ của Hear)") and borrows the full entry of "hear".
         if (quick == null) return followed;
-        return LookupResult(
-          query: query,
-          key: key,
-          quick: quick,
-          entries: followed.entries,
-          family: db.familyOf(key) ?? followed.family,
-          redirectedFrom: redirectedFrom,
-        );
+        return LookupResult(query: query, key: key, quick: quick, entries: followed.entries, family: db.familyOf(key) ?? followed.family, redirectedFrom: redirectedFrom);
       }
     }
     final family = db.familyOf(key) ?? (entries.isNotEmpty ? db.familyOf(entries.first.headword.toLowerCase()) : null);
-    return LookupResult(
-      query: query,
-      key: key,
-      quick: quick,
-      entries: entries,
-      family: family,
-      redirectedFrom: redirectedFrom,
-    );
+    return LookupResult(query: query, key: key, quick: quick, entries: entries, family: family, redirectedFrom: redirectedFrom);
   }
 }

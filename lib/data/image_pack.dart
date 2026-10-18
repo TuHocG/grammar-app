@@ -108,8 +108,7 @@ class PackImage extends ImageProvider<PackImage> {
   Future<PackImage> obtainKey(ImageConfiguration configuration) => SynchronousFuture<PackImage>(this);
 
   @override
-  ImageStreamCompleter loadImage(PackImage key, ImageDecoderCallback decode) =>
-      MultiFrameImageStreamCompleter(codec: _load(decode), scale: 1.0, debugLabel: name);
+  ImageStreamCompleter loadImage(PackImage key, ImageDecoderCallback decode) => MultiFrameImageStreamCompleter(codec: _load(decode), scale: 1.0, debugLabel: name);
 
   Future<ui.Codec> _load(ImageDecoderCallback decode) async {
     final bytes = pack.read(name);

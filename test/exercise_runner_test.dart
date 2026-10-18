@@ -20,15 +20,15 @@ void main() {
     final has = File('$dir/grammar.db').existsSync();
     test('drills belong to lessons by data.Muc position; type 3 is scramble', () {
       final db = ContentDb.open(dir);
-      expect(db.exercisesForLessons([3]).length, 46);     // Chia Ðộng Từ To Be
-      expect(db.exercisesForLessons([48]).length, 54);    // Passive Voice: 0 before the fix
-      final simple = db.exercisesForLessons([37]);       // Câu Ðơn: its single record is a scramble drill
+      expect(db.exercisesForLessons([3]).length, 46); // Chia Ðộng Từ To Be
+      expect(db.exercisesForLessons([48]).length, 54); // Passive Voice: 0 before the fix
+      final simple = db.exercisesForLessons([37]); // Câu Ðơn: its single record is a scramble drill
       expect(simple.length, 1);
       expect(simple.first.kind, 'scramble');
       expect(simple.first.text, startsWith('Lan is a pupil.'));
       expect(db.grammarLesson(48)!.drills, isTrue);
       expect(db.grammarLesson(37)!.drills, isTrue);
-      expect(db.grammarLesson(2)!.drills, isFalse);        // Chia Ðộng Từ: empty record
+      expect(db.grammarLesson(2)!.drills, isFalse); // Chia Ðộng Từ: empty record
       expect(db.raw.select('SELECT count(*) AS n FROM exercise WHERE menu IS NULL AND lesson_ref IS NULL').first['n'], 0);
       expect(db.raw.select("SELECT count(*) AS n FROM exercise WHERE kind = 'sentences'").first['n'], 0);
       db.close();
@@ -55,16 +55,12 @@ void main() {
   });
 
   Widget wrap(Widget child) => ProviderScope(
-        overrides: [
-          contentDbProvider.overrideWithValue(db),
-          userDbProvider.overrideWithValue(user),
-          ttsProvider.overrideWithValue(TtsService()),
-        ],
-        child: MaterialApp(home: child),
-      );
+    overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+    child: MaterialApp(home: child),
+  );
 
   testWidgets('fill: "an" is right, "a" is wrong, score shows 1/1', (tester) async {
-    final ex = db.exercisesInRange(0, 1);   // "Do you usually eat {0} egg for breakfast?" -> an
+    final ex = db.exercisesInRange(0, 1); // "Do you usually eat {0} egg for breakfast?" -> an
     expect(ex.single.blanks.single.answer, 'an');
     await tester.pumpWidget(wrap(ExerciseRunner(title: 't', exercises: ex)));
     await tester.pumpAndSettle();
@@ -87,13 +83,13 @@ void main() {
   }, skip: !has);
 
   testWidgets('choice: wrong pick first then right = graded but no point', (tester) async {
-    final ex = db.exercisesInRange(2032, 2033);   // answer d = found
+    final ex = db.exercisesInRange(2032, 2033); // answer d = found
     expect(ex.single.answer, 'd');
     await tester.pumpWidget(wrap(ExerciseRunner(title: 't', exercises: ex)));
     await tester.pumpAndSettle();
     await tester.tap(find.text('find'));
     await tester.pumpAndSettle();
-    expect(find.text('Đúng 0 / 0'), findsOneWidget);   // not graded yet
+    expect(find.text('Đúng 0 / 0'), findsOneWidget); // not graded yet
     await tester.tap(find.text('found'));
     await tester.pumpAndSettle();
     expect(find.text('Đúng 0 / 1'), findsOneWidget);
@@ -168,11 +164,7 @@ void main() {
     expect(order, ['listen', 'next', 'dot']);
   }, skip: !has);
 
-  String counter(WidgetTester tester) => find
-      .textContaining(RegExp(r'Câu \d+ /'), findRichText: true)
-      .evaluate()
-      .map((e) => (e.widget as RichText).text.toPlainText())
-      .single;
+  String counter(WidgetTester tester) => find.textContaining(RegExp(r'Câu \d+ /'), findRichText: true).evaluate().map((e) => (e.widget as RichText).text.toPlainText()).single;
 
   testWidgets('Tab to Next, Enter: moves on instead of grading', (tester) async {
     tester.view.physicalSize = const Size(1200, 800);
@@ -193,7 +185,7 @@ void main() {
     addTearDown(tester.view.reset);
     await tester.pumpWidget(wrap(const ListeningUnitPage(unit: 1)));
     await tester.pumpAndSettle();
-    await tabTo(tester, find.byType(LetterDot).first);   // option a
+    await tabTo(tester, find.byType(LetterDot).first); // option a
     await tester.sendKeyEvent(LogicalKeyboardKey.space);
     await tester.pumpAndSettle();
     // Picked (options are shuffled, so a may be right ✓ or wrong ✗), not "Nghe lại".
@@ -211,7 +203,13 @@ void main() {
     await tester.enterText(field, 'abc');
     await tester.pump();
     final ctl = tester.widget<TextField>(field).controller!;
-    for (final (key, offset) in [(LogicalKeyboardKey.arrowUp, 0), (LogicalKeyboardKey.arrowRight, 1), (LogicalKeyboardKey.arrowDown, 3), (LogicalKeyboardKey.arrowLeft, 2), (LogicalKeyboardKey.arrowUp, 0)]) {
+    for (final (key, offset) in [
+      (LogicalKeyboardKey.arrowUp, 0),
+      (LogicalKeyboardKey.arrowRight, 1),
+      (LogicalKeyboardKey.arrowDown, 3),
+      (LogicalKeyboardKey.arrowLeft, 2),
+      (LogicalKeyboardKey.arrowUp, 0),
+    ]) {
       await tester.sendKeyEvent(key);
       await tester.pump();
       expect(ctl.selection.baseOffset, offset, reason: '$key');
@@ -234,6 +232,7 @@ Future<List<String>> tabOrder(WidgetTester tester, Map<String, Finder> targets, 
       under.add(e);
       e.visitChildElements(walk);
     }
+
     walk(ctx);
     for (final t in targets.entries) {
       if (!out.contains(t.key) && t.value.evaluate().any(under.contains)) out.add(t.key);
@@ -254,6 +253,7 @@ Future<void> tabTo(WidgetTester tester, Finder target, {int max = 30}) async {
       under.add(e);
       e.visitChildElements(walk);
     }
+
     walk(ctx);
     if (target.evaluate().any(under.contains)) return;
   }

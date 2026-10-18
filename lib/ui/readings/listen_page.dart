@@ -31,8 +31,7 @@ class _ListenPageState extends ConsumerState<ListenPage> {
     super.initState();
     final r = loadReading(ref, widget.id);
     if (r != null) {
-      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: r.hasRealAudio ? audioPathFor(ref, r.audio) : null)
-        ..addListener(_onChange);
+      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: r.hasRealAudio ? audioPathFor(ref, r.audio) : null)..addListener(_onChange);
       WidgetsBinding.instance.addPostFrameCallback((_) => _player!.play(from: 0));
     }
   }
@@ -85,11 +84,7 @@ class _ListenPageState extends ConsumerState<ListenPage> {
         appBar: GrammarAppBar(
           title: Text('Nghe: ${r.title}', maxLines: 1, overflow: TextOverflow.ellipsis),
           actions: [
-            IconButton(
-              tooltip: _showVi ? 'Ẩn bản dịch' : 'Hiện bản dịch',
-              icon: Icon(_showVi ? Icons.translate : Icons.translate_outlined),
-              onPressed: () => setState(() => _showVi = !_showVi),
-            ),
+            IconButton(tooltip: _showVi ? 'Ẩn bản dịch' : 'Hiện bản dịch', icon: Icon(_showVi ? Icons.translate : Icons.translate_outlined), onPressed: () => setState(() => _showVi = !_showVi)),
           ],
         ),
         body: ListView(
@@ -101,49 +96,57 @@ class _ListenPageState extends ConsumerState<ListenPage> {
             for (final para in r.paragraphs)
               Padding(
                 padding: const EdgeInsets.only(bottom: 12),
-                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  for (final s in para)
-                    InkWell(
-                      key: _keys.putIfAbsent(s.idx, GlobalKey.new),
-                      onTap: () => p.play(from: s.idx),
-                      child: Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 3),
-                        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                          WordTapText(s.en, style: theme.textTheme.bodyLarge, context: s.en, source: 'reading:${r.id}', highlighted: p.index == s.idx),
-                          if (_showVi && p.index == s.idx)
-                            Text(s.vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-                        ]),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    for (final s in para)
+                      InkWell(
+                        key: _keys.putIfAbsent(s.idx, GlobalKey.new),
+                        onTap: () => p.play(from: s.idx),
+                        child: Padding(
+                          padding: const EdgeInsets.symmetric(vertical: 3),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              WordTapText(s.en, style: theme.textTheme.bodyLarge, context: s.en, source: 'reading:${r.id}', highlighted: p.index == s.idx),
+                              if (_showVi && p.index == s.idx) Text(s.vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
+                            ],
+                          ),
+                        ),
                       ),
-                    ),
-                ]),
+                  ],
+                ),
               ),
           ],
         ),
         bottomNavigationBar: SafeArea(
           child: Padding(
             padding: const EdgeInsets.fromLTRB(12, 6, 12, 10),
-            child: Column(mainAxisSize: MainAxisSize.min, children: [
-              Text(
-                'Câu ${p.index + 1} / ${p.count}${r.hasRealAudio ? ' · giọng thật' : ' · giọng máy'}',
-                style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline),
-              ),
-              Row(mainAxisAlignment: MainAxisAlignment.center, children: [
-                IconButton(tooltip: 'Câu trước (↑)', iconSize: 32, icon: const Icon(Icons.skip_previous), onPressed: p.index > 0 ? p.previous : null),
-                IconButton(tooltip: 'Nghe lại câu này (←)', iconSize: 32, icon: const Icon(Icons.replay), onPressed: p.repeat),
-                IconButton(
-                  tooltip: playing ? 'Dừng (space)' : 'Phát (space)',
-                  iconSize: 48,
-                  icon: Icon(playing ? Icons.pause_circle : Icons.play_circle),
-                  onPressed: playing ? p.stop : () => p.play(),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Text('Câu ${p.index + 1} / ${p.count}${r.hasRealAudio ? ' · giọng thật' : ' · giọng máy'}', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    IconButton(tooltip: 'Câu trước (↑)', iconSize: 32, icon: const Icon(Icons.skip_previous), onPressed: p.index > 0 ? p.previous : null),
+                    IconButton(tooltip: 'Nghe lại câu này (←)', iconSize: 32, icon: const Icon(Icons.replay), onPressed: p.repeat),
+                    IconButton(
+                      tooltip: playing ? 'Dừng (space)' : 'Phát (space)',
+                      iconSize: 48,
+                      icon: Icon(playing ? Icons.pause_circle : Icons.play_circle),
+                      onPressed: playing ? p.stop : () => p.play(),
+                    ),
+                    IconButton(tooltip: 'Câu kế (→)', iconSize: 32, icon: const Icon(Icons.skip_next), onPressed: p.index < p.count - 1 ? p.next : null),
+                    IconButton(
+                      tooltip: p.continuous ? 'Đang đọc liên tục' : 'Chỉ đọc một câu',
+                      icon: Icon(p.continuous ? Icons.playlist_play : Icons.looks_one_outlined),
+                      onPressed: () => setState(() => p.continuous = !p.continuous),
+                    ),
+                  ],
                 ),
-                IconButton(tooltip: 'Câu kế (→)', iconSize: 32, icon: const Icon(Icons.skip_next), onPressed: p.index < p.count - 1 ? p.next : null),
-                IconButton(
-                  tooltip: p.continuous ? 'Đang đọc liên tục' : 'Chỉ đọc một câu',
-                  icon: Icon(p.continuous ? Icons.playlist_play : Icons.looks_one_outlined),
-                  onPressed: () => setState(() => p.continuous = !p.continuous),
-                ),
-              ]),
-            ]),
+              ],
+            ),
           ),
         ),
       ),

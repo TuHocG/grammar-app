@@ -34,7 +34,7 @@ void main() {
     expect(imgs.where((i) => !db.images!.contains(i)), isEmpty);
     final img = imgs.first;
     expect(db.imageProvider(img), isA<PackImage>());
-    expect(db.imageProvider(img), db.imageProvider(img));   // one image-cache key per picture
+    expect(db.imageProvider(img), db.imageProvider(img)); // one image-cache key per picture
     expect(db.images!.read(img)!.sublist(8, 12), 'WEBP'.codeUnits);
     expect(db.imagePackError, isNull);
     final dir = defaultAudioDir(db);
@@ -60,10 +60,14 @@ void main() {
     late final ImageInfo info;
     await tester.runAsync(() async {
       final done = Completer<void>();
-      provider.resolve(ImageConfiguration.empty).addListener(ImageStreamListener((i, _) {
-        info = i;
-        done.complete();
-      }, onError: (e, _) => done.completeError(e)));
+      provider
+          .resolve(ImageConfiguration.empty)
+          .addListener(
+            ImageStreamListener((i, _) {
+              info = i;
+              done.complete();
+            }, onError: (e, _) => done.completeError(e)),
+          );
       await done.future;
     });
     expect(info.image.width, greaterThan(0));

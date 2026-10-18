@@ -15,11 +15,11 @@ class _PagerState extends State<_Pager> {
   int pos = 0;
   @override
   Widget build(BuildContext context) => PrevNextKeys(
-        onPrev: pos > 0 ? () => setState(() => pos--) : null,
-        onNext: pos < 2 ? () => setState(() => pos++) : null,
-        // Item 1 has an answer box (gone on the other items).
-        child: Column(children: [Text('item $pos'), if (pos == 1) const TextField(autofocus: true)]),
-      );
+    onPrev: pos > 0 ? () => setState(() => pos--) : null,
+    onNext: pos < 2 ? () => setState(() => pos++) : null,
+    // Item 1 has an answer box (gone on the other items).
+    child: Column(children: [Text('item $pos'), if (pos == 1) const TextField(autofocus: true)]),
+  );
 }
 
 Future<void> altKey(WidgetTester tester, LogicalKeyboardKey key) async {
@@ -35,11 +35,11 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('item 0'), findsOneWidget);
 
-    await tester.sendKeyEvent(LogicalKeyboardKey.arrowRight);   // plain arrow: not ours
+    await tester.sendKeyEvent(LogicalKeyboardKey.arrowRight); // plain arrow: not ours
     await tester.pumpAndSettle();
     expect(find.text('item 0'), findsOneWidget);
 
-    await altKey(tester, LogicalKeyboardKey.arrowLeft);         // nothing before: no-op
+    await altKey(tester, LogicalKeyboardKey.arrowLeft); // nothing before: no-op
     await altKey(tester, LogicalKeyboardKey.arrowRight);
     expect(find.text('item 1'), findsOneWidget);
 
@@ -54,9 +54,17 @@ void main() {
   testWidgets('autofocus: false leaves the page\'s own answer box focused', (tester) async {
     final fn = FocusNode();
     addTearDown(fn.dispose);
-    await tester.pumpWidget(MaterialApp(
-      home: Scaffold(body: PrevNextKeys(autofocus: false, onNext: () {}, child: TextField(focusNode: fn, autofocus: true))),
-    ));
+    await tester.pumpWidget(
+      MaterialApp(
+        home: Scaffold(
+          body: PrevNextKeys(
+            autofocus: false,
+            onNext: () {},
+            child: TextField(focusNode: fn, autofocus: true),
+          ),
+        ),
+      ),
+    );
     await tester.pumpAndSettle();
     expect(fn.hasFocus, isTrue);
   });
@@ -70,14 +78,19 @@ void main() {
     // Like ExerciseRunner: the blank takes the focus in the first frame, before the
     // wrapper's autofocus, so the wrapper is not in the focus history to fall back to.
     WidgetsBinding.instance.addPostFrameCallback((_) => fn.requestFocus());
-    await tester.pumpWidget(MaterialApp(
-      home: Scaffold(
-        body: PrevNextKeys(
-          onNext: () => next++,
-          child: ValueListenableBuilder<bool>(valueListenable: enabled, builder: (_, on, _) => TextField(focusNode: fn, enabled: on)),
+    await tester.pumpWidget(
+      MaterialApp(
+        home: Scaffold(
+          body: PrevNextKeys(
+            onNext: () => next++,
+            child: ValueListenableBuilder<bool>(
+              valueListenable: enabled,
+              builder: (_, on, _) => TextField(focusNode: fn, enabled: on),
+            ),
+          ),
         ),
       ),
-    ));
+    );
     await tester.pumpAndSettle();
     expect(fn.hasFocus, isTrue);
     enabled.value = false;

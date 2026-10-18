@@ -54,8 +54,7 @@ Future<bool> ensureStorageAccess(BuildContext context) async {
 
 /// The data folder the user chose, or null when cancelled. It may hold no grammar.db;
 /// callers check.
-Future<String?> pickDataFolder(BuildContext context, {String? initialDirectory}) =>
-    pickFolder(context, title: 'Chọn thư mục dữ liệu (chứa grammar.db)', initialDirectory: initialDirectory);
+Future<String?> pickDataFolder(BuildContext context, {String? initialDirectory}) => pickFolder(context, title: 'Chọn thư mục dữ liệu (chứa grammar.db)', initialDirectory: initialDirectory);
 
 /// A media folder (audio, video); null when cancelled.
 Future<String?> pickFolder(BuildContext context, {required String title, String? initialDirectory}) async {

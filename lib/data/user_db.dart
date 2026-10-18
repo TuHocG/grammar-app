@@ -67,12 +67,9 @@ class UserDb {
     return rows.isEmpty ? null : rows.first['value'] as String;
   }
 
-  void setSetting(String key, String value) =>
-      _db.execute('INSERT INTO user_setting(key, value) VALUES (?, ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value', [key, value]);
+  void setSetting(String key, String value) => _db.execute('INSERT INTO user_setting(key, value) VALUES (?, ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value', [key, value]);
 
-  Map<String, String> allSettings() => {
-        for (final r in _db.select('SELECT key, value FROM user_setting')) r['key'] as String: r['value'] as String,
-      };
+  Map<String, String> allSettings() => {for (final r in _db.select('SELECT key, value FROM user_setting')) r['key'] as String: r['value'] as String};
 
   // ---- progress -----------------------------------------------------------
 
@@ -89,9 +86,8 @@ class UserDb {
 
   /// All progress rows of one kind, keyed by item id (e.g. every exercise group done).
   Map<String, String> progressOf(String kind, {String prefix = ''}) => {
-        for (final r in _db.select('SELECT item_id, state FROM user_progress WHERE kind = ? AND item_id LIKE ?', [kind, '$prefix%']))
-          r['item_id'] as String: r['state'] as String,
-      };
+    for (final r in _db.select('SELECT item_id, state FROM user_progress WHERE kind = ? AND item_id LIKE ?', [kind, '$prefix%'])) r['item_id'] as String: r['state'] as String,
+  };
 
   /// Most recently updated row of one kind (what the learner was doing last), or null.
   (String itemId, String state)? latestProgress(String kind, {String prefix = ''}) {
@@ -133,20 +129,11 @@ class UserDb {
 
   // ---- user words -----------------------------------------------------------
 
-  List<UserWord> words({bool markedOnly = false}) => [
-        for (final r in _db.select(
-          'SELECT * FROM user_word ${markedOnly ? 'WHERE marked = 1' : ''} ORDER BY added_at, id',
-        ))
-          _word(r),
-      ];
+  List<UserWord> words({bool markedOnly = false}) => [for (final r in _db.select('SELECT * FROM user_word ${markedOnly ? 'WHERE marked = 1' : ''} ORDER BY added_at, id')) _word(r)];
 
-  Set<String> savedKeys() => {
-        for (final r in _db.select('SELECT key FROM user_word')) r['key'] as String,
-      };
+  Set<String> savedKeys() => {for (final r in _db.select('SELECT key FROM user_word')) r['key'] as String};
 
-  Set<String> markedKeys() => {
-        for (final r in _db.select('SELECT key FROM user_word WHERE marked = 1')) r['key'] as String,
-      };
+  Set<String> markedKeys() => {for (final r in _db.select('SELECT key FROM user_word WHERE marked = 1')) r['key'] as String};
 
   UserWord? wordByKey(String key) {
     final rows = _db.select('SELECT * FROM user_word WHERE key = ?', [key]);
@@ -154,21 +141,20 @@ class UserDb {
   }
 
   /// Insert or update; returns the stored row.
-  UserWord saveWord({
-    required String headword,
-    String? meaning,
-    String? ipa,
-    String? context,
-    String? source,
-    bool? marked,
-  }) {
+  UserWord saveWord({required String headword, String? meaning, String? ipa, String? context, String? source, bool? marked}) {
     final key = searchKey(headword);
     final existing = wordByKey(key);
     if (existing == null) {
-      _db.execute(
-        'INSERT INTO user_word(headword, key, meaning, ipa, context, source, added_at, marked) VALUES (?, ?, ?, ?, ?, ?, ?, ?)',
-        [headword, key, meaning, ipa, context, source, DateTime.now().millisecondsSinceEpoch, (marked ?? false) ? 1 : 0],
-      );
+      _db.execute('INSERT INTO user_word(headword, key, meaning, ipa, context, source, added_at, marked) VALUES (?, ?, ?, ?, ?, ?, ?, ?)', [
+        headword,
+        key,
+        meaning,
+        ipa,
+        context,
+        source,
+        DateTime.now().millisecondsSinceEpoch,
+        (marked ?? false) ? 1 : 0,
+      ]);
     } else {
       _db.execute(
         'UPDATE user_word SET headword = ?, meaning = COALESCE(?, meaning), ipa = COALESCE(?, ipa), '
@@ -191,9 +177,7 @@ class UserDb {
 
   // ---- Word Forms marks (old app: Chon byte 4 = bright red, 3 = dark red) -------------
 
-  Map<int, int> wordformMarks() => {
-        for (final r in _db.select('SELECT root_position, level FROM user_wordform_mark')) r['root_position'] as int: r['level'] as int,
-      };
+  Map<int, int> wordformMarks() => {for (final r in _db.select('SELECT root_position, level FROM user_wordform_mark')) r['root_position'] as int: r['level'] as int};
 
   void setWordformMark(int position, int level) {
     if (level == 0) {
@@ -206,14 +190,14 @@ class UserDb {
   void clearWordformMarks() => _db.execute('DELETE FROM user_wordform_mark');
 
   UserWord _word(Row r) => UserWord(
-        id: r['id'] as int,
-        headword: r['headword'] as String,
-        key: r['key'] as String,
-        meaning: r['meaning'] as String?,
-        ipa: r['ipa'] as String?,
-        context: r['context'] as String?,
-        source: r['source'] as String?,
-        addedAt: DateTime.fromMillisecondsSinceEpoch(r['added_at'] as int),
-        marked: (r['marked'] as int) == 1,
-      );
+    id: r['id'] as int,
+    headword: r['headword'] as String,
+    key: r['key'] as String,
+    meaning: r['meaning'] as String?,
+    ipa: r['ipa'] as String?,
+    context: r['context'] as String?,
+    source: r['source'] as String?,
+    addedAt: DateTime.fromMillisecondsSinceEpoch(r['added_at'] as int),
+    marked: (r['marked'] as int) == 1,
+  );
 }

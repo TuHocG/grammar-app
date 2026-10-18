@@ -35,37 +35,40 @@ class ExerciseGroupsPage extends ConsumerWidget {
     final g = context.g;
     final progress = userDb.progressOf('exercise', prefix: 'menu$menuIdx-g');
     return Scaffold(
-      appBar: GrammarAppBar(
-        crumbs: [const Crumb('Bài Tập', '/'), Crumb(menu.name)],
-        helpSlug: 'bai-tap',
-      ),
+      appBar: GrammarAppBar(crumbs: [const Crumb('Bài Tập', '/'), Crumb(menu.name)], helpSlug: 'bai-tap'),
       body: RailListView(
         children: [
           if (context.isWide)
-            Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              // Left nav with the nine sets, like the readings and dialogs pages.
-              SizedBox(
-                width: 280,
-                child: Surface(
-                  padding: const EdgeInsets.all(8),
-                  child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-                    Padding(
-                      padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
-                      child: Text('Bài Tập', style: theme.textTheme.titleSmall),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                // Left nav with the nine sets, like the readings and dialogs pages.
+                SizedBox(
+                  width: 280,
+                  child: Surface(
+                    padding: const EdgeInsets.all(8),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.stretch,
+                      children: [
+                        Padding(
+                          padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
+                          child: Text('Bài Tập', style: theme.textTheme.titleSmall),
+                        ),
+                        for (final m in menus)
+                          _MenuRow(
+                            title: m.name,
+                            count: m.count,
+                            selected: m.idx == menuIdx,
+                            onTap: m.idx == menuIdx ? null : () => context.pushReplacement(m.idx == 8 ? '/exercises/wordforms' : '/exercises/menu/${m.idx}'),
+                          ),
+                      ],
                     ),
-                    for (final m in menus)
-                      _MenuRow(
-                        title: m.name,
-                        count: m.count,
-                        selected: m.idx == menuIdx,
-                        onTap: m.idx == menuIdx ? null : () => context.pushReplacement(m.idx == 8 ? '/exercises/wordforms' : '/exercises/menu/${m.idx}'),
-                      ),
-                  ]),
+                  ),
                 ),
-              ),
-              const SizedBox(width: 24),
-              Expanded(child: _groups(context, menu, n, progress, theme, g)),
-            ])
+                const SizedBox(width: 24),
+                Expanded(child: _groups(context, menu, n, progress, theme, g)),
+              ],
+            )
           else
             _groups(context, menu, n, progress, theme, g),
         ],
@@ -74,15 +77,18 @@ class ExerciseGroupsPage extends ConsumerWidget {
   }
 
   Widget _groups(BuildContext context, ExerciseMenu menu, int n, Map<String, String> progress, ThemeData theme, GrammarColors g) {
-    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-          Text(menu.name, style: theme.textTheme.headlineLarge),
-          Text('$n Bài Tập, mỗi bài tối đa $groupSize câu · ${menu.count} câu · điểm được lưu theo từng bài', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-          const SizedBox(height: 24),
-          AutoGrid(
-            minWidth: 220,
-            children: [
-              for (var i = 0; i < n; i++)
-                Builder(builder: (context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        Text(menu.name, style: theme.textTheme.headlineLarge),
+        Text('$n Bài Tập, mỗi bài tối đa $groupSize câu · ${menu.count} câu · điểm được lưu theo từng bài', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+        const SizedBox(height: 24),
+        AutoGrid(
+          minWidth: 220,
+          children: [
+            for (var i = 0; i < n; i++)
+              Builder(
+                builder: (context) {
                   final start = menu.start + i * groupSize;
                   final end = min(menu.start + (i + 1) * groupSize, menu.end);
                   final st = RegExp(r'"pos":(\d+),"score":(\d+),"done":(\d+)').firstMatch(progress['menu$menuIdx-g$i'] ?? '');
@@ -91,22 +97,29 @@ class ExerciseGroupsPage extends ConsumerWidget {
                   return Surface(
                     onTap: () => context.push('/exercises/menu/$menuIdx/$i'),
                     padding: const EdgeInsets.all(16),
-                    child: Row(children: [
-                      LetterDot('${i + 1}', size: 36, fill: done > 0 ? g.iris : g.lilac, border: done > 0 ? g.iris : g.lilac, color: done > 0 ? theme.colorScheme.onPrimary : g.iris),
-                      const SizedBox(width: 12),
-                      Expanded(
-                        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                          Text('Bài Tập ${i + 1}', style: theme.textTheme.titleMedium),
-                          Text(done > 0 ? 'đúng $score/$done · ${end - start} câu' : '${end - start} câu', style: theme.textTheme.bodySmall),
-                        ]),
-                      ),
-                      Icon(Icons.chevron_right, color: g.fog),
-                    ]),
+                    child: Row(
+                      children: [
+                        LetterDot('${i + 1}', size: 36, fill: done > 0 ? g.iris : g.lilac, border: done > 0 ? g.iris : g.lilac, color: done > 0 ? theme.colorScheme.onPrimary : g.iris),
+                        const SizedBox(width: 12),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text('Bài Tập ${i + 1}', style: theme.textTheme.titleMedium),
+                              Text(done > 0 ? 'đúng $score/$done · ${end - start} câu' : '${end - start} câu', style: theme.textTheme.bodySmall),
+                            ],
+                          ),
+                        ),
+                        Icon(Icons.chevron_right, color: g.fog),
+                      ],
+                    ),
                   );
-                }),
-            ],
-          ),
-        ]);
+                },
+              ),
+          ],
+        ),
+      ],
+    );
   }
 }
 
@@ -128,10 +141,19 @@ class _MenuRow extends StatelessWidget {
         borderRadius: BorderRadius.circular(4),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-          child: Row(children: [
-            Expanded(child: Text(title, maxLines: 2, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodyMedium?.copyWith(color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400))),
-            Text('$count', style: theme.textTheme.bodySmall?.copyWith(color: selected ? g.iris : g.fog)),
-          ]),
+          child: Row(
+            children: [
+              Expanded(
+                child: Text(
+                  title,
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: theme.textTheme.bodyMedium?.copyWith(color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400),
+                ),
+              ),
+              Text('$count', style: theme.textTheme.bodySmall?.copyWith(color: selected ? g.iris : g.fog)),
+            ],
+          ),
         ),
       ),
     );
@@ -150,7 +172,7 @@ class ExerciseGroupRunPage extends ConsumerWidget {
     final start = menu.start + group * groupSize;
     final end = min(start + groupSize, menu.end);
     var items = db.exercisesInRange(start, end).where((e) => !e.isEmpty).toList();
-    if (items.length > 6) items = List.of(items)..shuffle(Random(start));   // stable shuffle per group
+    if (items.length > 6) items = List.of(items)..shuffle(Random(start)); // stable shuffle per group
     final groups = (menu.count / groupSize).ceil();
     return ExerciseRunner(
       key: ValueKey('menu$menuIdx-g$group'),
@@ -237,7 +259,12 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
         helpSlug: 'word-forms',
         actions: [
           OutlinedButton.icon(
-            onPressed: _marks.isEmpty ? null : () { ref.read(userDbProvider).clearWordformMarks(); setState(() => _marks.clear()); },
+            onPressed: _marks.isEmpty
+                ? null
+                : () {
+                    ref.read(userDbProvider).clearWordformMarks();
+                    setState(() => _marks.clear());
+                  },
             icon: const Icon(Icons.delete_sweep_outlined, size: 18),
             label: const Text('Xoá đánh dấu'),
           ),
@@ -249,7 +276,10 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
             padding: const EdgeInsets.fromLTRB(24, 4, 24, 12),
             child: Align(
               alignment: Alignment.centerLeft,
-              child: ConstrainedBox(constraints: const BoxConstraints(maxWidth: 480), child: SearchPill(hint: 'Tìm từ gốc', onChanged: (v) => setState(() => _filter = v.trim()))),
+              child: ConstrainedBox(
+                constraints: const BoxConstraints(maxWidth: 480),
+                child: SearchPill(hint: 'Tìm từ gốc', onChanged: (v) => setState(() => _filter = v.trim())),
+              ),
             ),
           ),
         ),
@@ -259,53 +289,64 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
         label: Text(nBright > 0 ? 'Làm bài ($nBright từ)' : (nDark > 0 ? 'Ôn từ dự trữ ($nDark)' : 'Làm từ thông dụng')),
         onPressed: _run,
       ),
-      body: Column(children: [
-        Padding(
-          padding: const EdgeInsets.fromLTRB(16, 4, 16, 4),
-          child: Text(
-            'Chạm từ gốc: lần 1 = học (xanh), lần 2 = dự trữ (đỏ), lần 3 = bỏ. Không chọn gì thì làm các từ thông dụng.',
-            style: theme.textTheme.bodyMedium?.copyWith(color: context.g.slate),
+      body: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.fromLTRB(16, 4, 16, 4),
+            child: Text(
+              'Chạm từ gốc: lần 1 = học (xanh), lần 2 = dự trữ (đỏ), lần 3 = bỏ. Không chọn gì thì làm các từ thông dụng.',
+              style: theme.textTheme.bodyMedium?.copyWith(color: context.g.slate),
+            ),
           ),
-        ),
-        Expanded(
-          child: GridView.builder(
-            padding: const EdgeInsets.fromLTRB(16, 8, 16, 90),
-            gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(maxCrossAxisExtent: 200, mainAxisExtent: 40, crossAxisSpacing: 6, mainAxisSpacing: 6),
-            itemCount: shown.length,
-            itemBuilder: (context, i) {
-              final r = shown[i];
-              final level = _marks[r.position] ?? 0;
-              final g = context.g;
-              final color = level == 4 ? g.iris : (level == 3 ? g.savedWord : null);
-              return Material(
-                color: level == 4 ? g.lilac : (level == 3 ? g.savedTint : g.card),
-                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8), side: BorderSide(color: color ?? g.border)),
-                child: InkWell(
-                  onTap: () => _cycle(r),
-                  borderRadius: BorderRadius.circular(8),
-                  child: Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 10),
-                    child: Row(children: [
-                      if (r.common) Icon(Icons.star, size: 12, color: g.fog),
-                      if (r.common) const SizedBox(width: 4),
-                      // Long roots (superconductivity) shrink to fit the cell rather than lose letters.
-                      Expanded(
-                        child: FittedBox(
-                          fit: BoxFit.scaleDown,
-                          alignment: Alignment.centerLeft,
-                          child: Text(r.root, maxLines: 1, style: ReadingStyles.line(context).copyWith(fontSize: 15, color: color ?? g.ink, fontWeight: color != null ? FontWeight.w600 : null)),
-                        ),
-                      ),
-                      const SizedBox(width: 4),
-                      Text('${r.count}', style: theme.textTheme.labelSmall),
-                    ]),
+          Expanded(
+            child: GridView.builder(
+              padding: const EdgeInsets.fromLTRB(16, 8, 16, 90),
+              gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(maxCrossAxisExtent: 200, mainAxisExtent: 40, crossAxisSpacing: 6, mainAxisSpacing: 6),
+              itemCount: shown.length,
+              itemBuilder: (context, i) {
+                final r = shown[i];
+                final level = _marks[r.position] ?? 0;
+                final g = context.g;
+                final color = level == 4 ? g.iris : (level == 3 ? g.savedWord : null);
+                return Material(
+                  color: level == 4 ? g.lilac : (level == 3 ? g.savedTint : g.card),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                    side: BorderSide(color: color ?? g.border),
                   ),
-                ),
-              );
-            },
+                  child: InkWell(
+                    onTap: () => _cycle(r),
+                    borderRadius: BorderRadius.circular(8),
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 10),
+                      child: Row(
+                        children: [
+                          if (r.common) Icon(Icons.star, size: 12, color: g.fog),
+                          if (r.common) const SizedBox(width: 4),
+                          // Long roots (superconductivity) shrink to fit the cell rather than lose letters.
+                          Expanded(
+                            child: FittedBox(
+                              fit: BoxFit.scaleDown,
+                              alignment: Alignment.centerLeft,
+                              child: Text(
+                                r.root,
+                                maxLines: 1,
+                                style: ReadingStyles.line(context).copyWith(fontSize: 15, color: color ?? g.ink, fontWeight: color != null ? FontWeight.w600 : null),
+                              ),
+                            ),
+                          ),
+                          const SizedBox(width: 4),
+                          Text('${r.count}', style: theme.textTheme.labelSmall),
+                        ],
+                      ),
+                    ),
+                  ),
+                );
+              },
+            ),
           ),
-        ),
-      ]),
+        ],
+      ),
     );
   }
 }

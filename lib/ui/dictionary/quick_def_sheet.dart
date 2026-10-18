@@ -58,17 +58,25 @@ class _FallbackSheet extends StatelessWidget {
     final g = context.g;
     return Padding(
       padding: const EdgeInsets.fromLTRB(24, 0, 24, 28),
-      child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
-        Text(token, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: g.ink)),
-        const SizedBox(height: 10),
-        Text(vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 18, color: g.indigo)),
-      ]),
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            token,
+            style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: g.ink),
+          ),
+          const SizedBox(height: 10),
+          Text(vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 18, color: g.indigo)),
+        ],
+      ),
     );
   }
 }
 
 class QuickDefSheet extends ConsumerStatefulWidget {
   final LookupResult result;
+
   /// What was looked up. [result] may hold less: a phrase the dictionary lacks falls back to
   /// its first word, but the user may have saved the whole phrase.
   final String? lookedUp;
@@ -83,6 +91,7 @@ class QuickDefSheet extends ConsumerStatefulWidget {
 class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
   bool _full = false;
   late final String _query = widget.lookedUp != null ? cleanToken(widget.lookedUp!) : widget.result.query;
+
   /// F2 edits what was tapped when that is saved or unknown to the dictionary, else the
   /// dictionary's headword.
   late final WordHint _hint = (
@@ -142,18 +151,23 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
         controller: controller,
         padding: const EdgeInsets.fromLTRB(24, 0, 24, 24),
         children: [
-          Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 12, runSpacing: 4, children: [
-            Text(head, style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink)),
-            if (ipa != null && ipa.isNotEmpty) Text('[$ipa]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
-            if (!ownOnly && quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
-            RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => tts.speak(head)),
-          ]),
-          if (r.redirectedFrom != null)
-            Text('${r.redirectedFrom} → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
-          if (r.key != _query.toLowerCase() && r.redirectedFrom == null && r.found)
-            Text('$_query → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
-          if (r.entryHeadword != null)
-            Text('Mục đầy đủ: ${r.entryHeadword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
+          Wrap(
+            crossAxisAlignment: WrapCrossAlignment.center,
+            spacing: 12,
+            runSpacing: 4,
+            children: [
+              Text(
+                head,
+                style: ReadingStyles.line(context).copyWith(fontSize: 26, fontWeight: FontWeight.w600, color: saved ? g.savedWord : g.ink),
+              ),
+              if (ipa != null && ipa.isNotEmpty) Text('[$ipa]', style: theme.textTheme.bodyLarge?.copyWith(color: g.iris)),
+              if (!ownOnly && quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!),
+              RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc', size: 32, onPressed: () => tts.speak(head)),
+            ],
+          ),
+          if (r.redirectedFrom != null) Text('${r.redirectedFrom} → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
+          if (r.key != _query.toLowerCase() && r.redirectedFrom == null && r.found) Text('$_query → ${r.headword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
+          if (r.entryHeadword != null) Text('Mục đầy đủ: ${r.entryHeadword}', style: theme.textTheme.bodySmall?.copyWith(fontStyle: FontStyle.italic)),
           const SizedBox(height: 10),
           if (hasOwnMeaning)
             Padding(
@@ -161,10 +175,14 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
               child: Text(userWord.meaning!.replaceAll('_', '\n'), style: theme.textTheme.bodyLarge?.copyWith(color: g.savedWord)),
             ),
           if (quick != null)
-            Row(crossAxisAlignment: CrossAxisAlignment.baseline, textBaseline: TextBaseline.alphabetic, children: [
-              if (quick.pos != null && quick.pos!.isNotEmpty) ...[PosBadge(quick.pos!), const SizedBox(width: 8)],
-              Expanded(child: Text(quick.vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))),
-            ])
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.baseline,
+              textBaseline: TextBaseline.alphabetic,
+              children: [
+                if (quick.pos != null && quick.pos!.isNotEmpty) ...[PosBadge(quick.pos!), const SizedBox(width: 8)],
+                Expanded(child: Text(quick.vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))),
+              ],
+            )
           else if (r.entries.isNotEmpty && !_full)
             Text(r.entries.first.preview, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))
           else if (!r.found && !hasOwnMeaning)
@@ -174,33 +192,50 @@ class _QuickDefSheetState extends ConsumerState<QuickDefSheet> {
               padding: const EdgeInsets.only(top: 10),
               child: Container(
                 padding: const EdgeInsets.only(top: 8),
-                decoration: BoxDecoration(border: Border(top: BorderSide(color: g.border))),
+                decoration: BoxDecoration(
+                  border: Border(top: BorderSide(color: g.border)),
+                ),
                 child: Text.rich(
-                  TextSpan(children: [
-                    TextSpan(text: 'Related forms · ', style: theme.textTheme.bodySmall),
-                    for (var i = 0; i < r.family!.members.length; i++) ...[
-                      if (i > 0) TextSpan(text: ' · ', style: theme.textTheme.bodySmall),
-                      TextSpan(text: r.family!.members[i].word, style: theme.textTheme.bodyMedium?.copyWith(color: g.ink)),
-                      if (r.family!.members[i].pos.isNotEmpty) TextSpan(text: ' ${r.family!.members[i].pos}', style: theme.textTheme.bodySmall),
+                  TextSpan(
+                    children: [
+                      TextSpan(text: 'Related forms · ', style: theme.textTheme.bodySmall),
+                      for (var i = 0; i < r.family!.members.length; i++) ...[
+                        if (i > 0) TextSpan(text: ' · ', style: theme.textTheme.bodySmall),
+                        TextSpan(
+                          text: r.family!.members[i].word,
+                          style: theme.textTheme.bodyMedium?.copyWith(color: g.ink),
+                        ),
+                        if (r.family!.members[i].pos.isNotEmpty) TextSpan(text: ' ${r.family!.members[i].pos}', style: theme.textTheme.bodySmall),
+                      ],
                     ],
-                  ]),
+                  ),
                 ),
               ),
             ),
           const SizedBox(height: 16),
-          Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
-            if (saved)
-              FilledButton.icon(style: FilledButton.styleFrom(backgroundColor: g.savedWord), onPressed: toggleSave, icon: const Icon(Icons.bookmark, size: 16), label: const Text('Đã lưu'))
-            else
-              FilledButton.icon(onPressed: toggleSave, icon: const Icon(Icons.bookmark_outline, size: 16), label: const Text('Lưu từ')),
-            if (!_full && r.entries.isNotEmpty) OutlinedButton(onPressed: () => setState(() => _full = true), child: const Text('Mục đầy đủ')),
-            OutlinedButton.icon(
-              onPressed: () => openWordEditor(context, ref, userWord?.headword ?? r.headword, contextSentence: widget.contextSentence, source: widget.source),
-              icon: const Icon(Icons.edit_note, size: 18),
-              label: Text(saved ? 'Sửa từ (F2)' : 'Thêm với nghĩa riêng (F2)'),
-            ),
-            if (r.found) OutlinedButton(onPressed: () => context.push('/dict/word/${Uri.encodeComponent(r.headword)}'), child: const Text('Mở trang từ điển')),
-          ]),
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            crossAxisAlignment: WrapCrossAlignment.center,
+            children: [
+              if (saved)
+                FilledButton.icon(
+                  style: FilledButton.styleFrom(backgroundColor: g.savedWord),
+                  onPressed: toggleSave,
+                  icon: const Icon(Icons.bookmark, size: 16),
+                  label: const Text('Đã lưu'),
+                )
+              else
+                FilledButton.icon(onPressed: toggleSave, icon: const Icon(Icons.bookmark_outline, size: 16), label: const Text('Lưu từ')),
+              if (!_full && r.entries.isNotEmpty) OutlinedButton(onPressed: () => setState(() => _full = true), child: const Text('Mục đầy đủ')),
+              OutlinedButton.icon(
+                onPressed: () => openWordEditor(context, ref, userWord?.headword ?? r.headword, contextSentence: widget.contextSentence, source: widget.source),
+                icon: const Icon(Icons.edit_note, size: 18),
+                label: Text(saved ? 'Sửa từ (F2)' : 'Thêm với nghĩa riêng (F2)'),
+              ),
+              if (r.found) OutlinedButton(onPressed: () => context.push('/dict/word/${Uri.encodeComponent(r.headword)}'), child: const Text('Mở trang từ điển')),
+            ],
+          ),
           if (_full) ...[
             const SizedBox(height: 16),
             const Divider(),

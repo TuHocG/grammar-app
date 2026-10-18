@@ -45,19 +45,15 @@ void main() {
   });
 
   Widget wrap(Widget child) => ProviderScope(
-        overrides: [
-          contentDbProvider.overrideWithValue(db),
-          userDbProvider.overrideWithValue(user),
-          ttsProvider.overrideWithValue(TtsService()),
-        ],
-        child: MaterialApp(theme: buildTheme(Brightness.light), home: child),
-      );
+    overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+    child: MaterialApp(theme: buildTheme(Brightness.light), home: child),
+  );
 
   testWidgets('reading page: tapping a word opens the quick definition, a sentence number opens its translation', (tester) async {
     tester.view.physicalSize = const Size(1100, 720);
     tester.view.devicePixelRatio = 1.0;
     addTearDown(tester.view.reset);
-    await tester.pumpWidget(wrap(const ReadingPage(id: 4)));   // "2. Barking Dog."
+    await tester.pumpWidget(wrap(const ReadingPage(id: 4))); // "2. Barking Dog."
     await tester.pump();
     // Sentence numbers are InkWells inside the article; tap the first one.
     final number = find.widgetWithText(InkWell, '1');
@@ -98,7 +94,7 @@ void main() {
     addTearDown(tester.view.reset);
     await tester.pumpWidget(wrap(const IpaLessonPage()));
     await tester.pump();
-    expect(find.text('ʃ'), findsOneWidget);          // a symbol chip, not "î  ."
+    expect(find.text('ʃ'), findsOneWidget); // a symbol chip, not "î  ."
     await tester.scrollUntilVisible(find.text('ʃ'), 200, scrollable: find.byType(Scrollable).first);
     await tester.tap(find.text('ʃ'));
     await tester.pumpAndSettle();
@@ -122,7 +118,7 @@ void main() {
     tester.view.physicalSize = const Size(1100, 720);
     tester.view.devicePixelRatio = 1.0;
     addTearDown(tester.view.reset);
-    await tester.pumpWidget(wrap(const ReadingPage(id: 365, fromAnalysis: true)));   // Unit 5
+    await tester.pumpWidget(wrap(const ReadingPage(id: 365, fromAnalysis: true))); // Unit 5
     await tester.pump();
     expect(find.text('Nghe toàn bài'), findsOneWidget);
     expect(find.text('Xếp từ'), findsOneWidget);
@@ -184,8 +180,9 @@ void main() {
         user.deleteByKey(w);
       }
     });
-    await tester.pumpWidget(wrap(const Scaffold(body: WordTapText(
-        'The dog saw a Dog, dogs and a doglike cat. He kicked it, kicks, outkick. They come through, we come through. A decision, decide.'))));
+    await tester.pumpWidget(
+      wrap(const Scaffold(body: WordTapText('The dog saw a Dog, dogs and a doglike cat. He kicked it, kicks, outkick. They come through, we come through. A decision, decide.'))),
+    );
     final rich = tester.widget<RichText>(find.byWidgetPredicate((w) => w is RichText && w.text.toPlainText().startsWith('The dog')));
     final styles = <String, List<TextStyle?>>{};
     rich.text.visitChildren((sp) {
@@ -195,11 +192,11 @@ void main() {
     final red = context(tester).g.savedWord;
     bool isRed(String w, [int i = 0]) => styles[w]![i]!.color == red;
     bool under(String w, [int i = 0]) => styles[w]![i]!.decoration == TextDecoration.underline;
-    expect(isRed('dog') && isRed('Dog'), isTrue);               // identical words, every occurrence
-    expect(under('dogs') && under('doglike'), isTrue);          // inflection, family member
-    expect(under('kicked') && under('kicks') && under('outkick'), isTrue);   // "outkick (v)" in the data
+    expect(isRed('dog') && isRed('Dog'), isTrue); // identical words, every occurrence
+    expect(under('dogs') && under('doglike'), isTrue); // inflection, family member
+    expect(under('kicked') && under('kicks') && under('outkick'), isTrue); // "outkick (v)" in the data
     expect(isRed('come', 0) && isRed('through', 0) && isRed('come', 1) && isRed('through', 1), isTrue);
-    expect(under('decision') && under('decide'), isTrue);       // saved inflected form -> family of "decide"
+    expect(under('decision') && under('decide'), isTrue); // saved inflected form -> family of "decide"
     expect(under('cat') || isRed('cat'), isFalse);
   }, skip: !has);
 
@@ -269,7 +266,7 @@ void main() {
     await tester.pumpAndSettle();
     expect(tester.takeException(), isNull);
     expect(find.byType(SearchPill), findsOneWidget);
-    expect(find.text('Mở Từ điển'), findsNothing);   // hidden while the keyboard is up
+    expect(find.text('Mở Từ điển'), findsNothing); // hidden while the keyboard is up
     await tester.enterText(find.byType(TextField), 'aban');
     await tester.pump(const Duration(milliseconds: 200));
     expect(tester.takeException(), isNull);

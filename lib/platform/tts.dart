@@ -27,8 +27,10 @@ abstract class TtsBackend {
   Future<List<TtsVoice>> voices();
   Future<void> setVoice(String? id);
   Future<void> setRate(int sapiRate);
+
   /// Speaks and completes when the utterance has finished (or was stopped).
   Future<void> speak(String text);
+
   /// Speaks after whatever is playing now, without cutting it off.
   Future<void> speakAfter(String text);
   Future<void> stop();
@@ -114,9 +116,7 @@ class _SapiBackend implements TtsBackend {
   @override
   Future<List<TtsVoice>> voices() async {
     final raw = await _ch.invokeMethod<List<Object?>>('getVoices') ?? const [];
-    return [
-      for (final v in raw.cast<Map<Object?, Object?>>()) TtsVoice((v['id'] ?? '').toString(), (v['name'] ?? '').toString()),
-    ];
+    return [for (final v in raw.cast<Map<Object?, Object?>>()) TtsVoice((v['id'] ?? '').toString(), (v['name'] ?? '').toString())];
   }
 
   @override

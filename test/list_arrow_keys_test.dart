@@ -39,11 +39,18 @@ void main() {
     child: MaterialApp(theme: buildTheme(Brightness.light), home: home),
   );
 
-  Color? rowColor(WidgetTester tester, String headword) =>
-      tester.widget<Material>(find.ancestor(of: find.text(headword), matching: find.byType(Material)).first).color;
+  Color? rowColor(WidgetTester tester, String headword) => tester.widget<Material>(find.ancestor(of: find.text(headword), matching: find.byType(Material)).first).color;
 
   testWidgets('Tra nhanh: ↓ ↓ ↑ moves the highlight, Enter opens the picked word', (tester) async {
-    await tester.pumpWidget(app(Builder(builder: (c) => Scaffold(body: TextButton(onPressed: () => showLookupSheet(c), child: const Text('open'))))));
+    await tester.pumpWidget(
+      app(
+        Builder(
+          builder: (c) => Scaffold(
+            body: TextButton(onPressed: () => showLookupSheet(c), child: const Text('open')),
+          ),
+        ),
+      ),
+    );
     await tester.tap(find.text('open'));
     await tester.pumpAndSettle();
     await tester.enterText(find.byType(TextField), 'aban');

@@ -93,37 +93,36 @@ class _EditWordDialogState extends ConsumerState<_EditWordDialog> {
         width: 420,
         child: Form(
           key: _formKey,
-          child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            TextFormField(
-              controller: _word,
-              autofocus: widget.existing == null && (widget.initialWord ?? '').isEmpty,
-              decoration: const InputDecoration(labelText: 'Từ Anh', hintText: 'wash'),
-              validator: (v) => (v == null || v.trim().isEmpty) ? 'Nhập từ' : null,
-              onEditingComplete: _autofill,
-            ),
-            const SizedBox(height: 14),
-            TextFormField(
-              controller: _ipa,
-              decoration: InputDecoration(
-                labelText: 'Phiên âm',
-                hintText: 'wɔʃ',
-                suffixIcon: IconButton(tooltip: 'Lấy phiên âm và nghĩa từ từ điển', icon: const Icon(Icons.auto_fix_high), onPressed: _autofill),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              TextFormField(
+                controller: _word,
+                autofocus: widget.existing == null && (widget.initialWord ?? '').isEmpty,
+                decoration: const InputDecoration(labelText: 'Từ Anh', hintText: 'wash'),
+                validator: (v) => (v == null || v.trim().isEmpty) ? 'Nhập từ' : null,
+                onEditingComplete: _autofill,
               ),
-            ),
-            const SizedBox(height: 14),
-            TextFormField(
-              controller: _meaning,
-              decoration: const InputDecoration(
-                labelText: 'Nghĩa Việt',
-                hintText: 'rửa, giặt',
-                helperText: 'Dấu _ = xuống dòng',
-                alignLabelWithHint: true,
+              const SizedBox(height: 14),
+              TextFormField(
+                controller: _ipa,
+                decoration: InputDecoration(
+                  labelText: 'Phiên âm',
+                  hintText: 'wɔʃ',
+                  suffixIcon: IconButton(tooltip: 'Lấy phiên âm và nghĩa từ từ điển', icon: const Icon(Icons.auto_fix_high), onPressed: _autofill),
+                ),
               ),
-              minLines: 3,
-              maxLines: 6,
-              autofocus: widget.existing != null || (widget.initialWord ?? '').isNotEmpty,
-            ),
-          ]),
+              const SizedBox(height: 14),
+              TextFormField(
+                controller: _meaning,
+                decoration: const InputDecoration(labelText: 'Nghĩa Việt', hintText: 'rửa, giặt', helperText: 'Dấu _ = xuống dòng', alignLabelWithHint: true),
+                minLines: 3,
+                maxLines: 6,
+                autofocus: widget.existing != null || (widget.initialWord ?? '').isNotEmpty,
+              ),
+            ],
+          ),
         ),
       ),
       actions: [

@@ -40,6 +40,7 @@ class _LookupSheetState extends ConsumerState<LookupSheet> {
   Timer? _debounce;
   String _key = '';
   List<DictHit> _hits = const [];
+
   /// Row picked with ↑ / ↓; -1 = none, Enter then goes by what is typed.
   int _active = -1;
   final _activeKey = GlobalKey();

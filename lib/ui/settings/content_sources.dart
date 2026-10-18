@@ -158,123 +158,119 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
 
     // Name of a file of the data folder, heading the lines about it.
     Widget fileHeading(String name) => Padding(
-          padding: const EdgeInsets.only(top: 10, bottom: 2),
-          child: Text(name, style: theme.textTheme.labelLarge),
-        );
+      padding: const EdgeInsets.only(top: 10, bottom: 2),
+      child: Text(name, style: theme.textTheme.labelLarge),
+    );
 
     Widget card({required IconData icon, required String title, required List<Widget> lines, required List<Widget> actions}) => Padding(
-          padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
-          child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Padding(padding: const EdgeInsets.only(top: 2, right: 16), child: Icon(icon, color: theme.colorScheme.primary)),
-            Expanded(
-              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+      padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Padding(
+            padding: const EdgeInsets.only(top: 2, right: 16),
+            child: Icon(icon, color: theme.colorScheme.primary),
+          ),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
                 Text(title, style: theme.textTheme.titleMedium),
                 const SizedBox(height: 4),
                 ...lines,
                 const SizedBox(height: 8),
                 Wrap(spacing: 8, runSpacing: 4, children: actions),
-              ]),
+              ],
             ),
-          ]),
-        );
+          ),
+        ],
+      ),
+    );
 
-    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-      card(
-        icon: Icons.storage_outlined,
-        title: d?.version == null ? 'Dữ liệu bài học' : 'Dữ liệu bài học · phiên bản ${d!.version}',
-        lines: d == null
-            ? [Text('Đang đọc…', style: muted)]
-            : [
-                SelectableText(p.dirname(d.dbPath), style: muted),
-                if (isPickerCopy(d.dbPath))
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        card(
+          icon: Icons.storage_outlined,
+          title: d?.version == null ? 'Dữ liệu bài học' : 'Dữ liệu bài học · phiên bản ${d!.version}',
+          lines: d == null
+              ? [Text('Đang đọc…', style: muted)]
+              : [
+                  SelectableText(p.dirname(d.dbPath), style: muted),
+                  if (isPickerCopy(d.dbPath))
+                    Text('Đây là bản sao tạm của file nên app không thấy ảnh, âm thanh cạnh nó. Hãy chọn lại thư mục chứa grammar.db.', style: muted?.copyWith(color: theme.colorScheme.error)),
+                  fileHeading('grammar.db'),
+                  Text([if (d.date != null && d.date!.isNotEmpty) 'Phát hành ${d.date}', formatBytes(d.dbBytes), 'schema ${d.schema}'].join(' · '), style: muted),
                   Text(
-                    'Đây là bản sao tạm của file nên app không thấy ảnh, âm thanh cạnh nó. Hãy chọn lại thư mục chứa grammar.db.',
-                    style: muted?.copyWith(color: theme.colorScheme.error),
+                    [
+                      'Từ điển ${d.counts['dict_entry']} mục',
+                      'Bài đọc ${d.counts['reading']}',
+                      'Luyện nói ${d.counts['dialog']}',
+                      'Văn phạm ${d.counts['grammar_lesson']}',
+                      'Bài tập ${d.counts['exercise']}',
+                      'Phụ đề ${d.counts['subtitle_film']} tập',
+                      'Từ vựng tranh ${d.counts['picture_topic']} bài',
+                    ].join(' · '),
+                    style: muted,
                   ),
-                fileHeading('grammar.db'),
-                Text(
-                  [
-                    if (d.date != null && d.date!.isNotEmpty) 'Phát hành ${d.date}',
-                    formatBytes(d.dbBytes),
-                    'schema ${d.schema}',
-                  ].join(' · '),
-                  style: muted,
-                ),
-                Text(
-                  [
-                    'Từ điển ${d.counts['dict_entry']} mục',
-                    'Bài đọc ${d.counts['reading']}',
-                    'Luyện nói ${d.counts['dialog']}',
-                    'Văn phạm ${d.counts['grammar_lesson']}',
-                    'Bài tập ${d.counts['exercise']}',
-                    'Phụ đề ${d.counts['subtitle_film']} tập',
-                    'Từ vựng tranh ${d.counts['picture_topic']} bài',
-                  ].join(' · '),
-                  style: muted,
-                ),
-                fileHeading(imagePackName),
-                Text(
-                  d.imagePackBroken
-                      ? 'File bị hỏng (có thể tải chưa xong), hãy tải lại: bài đọc đang không có ảnh minh hoạ.'
-                      : d.imagePack
-                      ? '${d.images} ảnh minh hoạ · ${formatBytes(d.imagePackBytes)}'
-                      : d.images > 0
-                      ? 'Không có; đang đọc ${d.images} ảnh minh hoạ từ thư mục img/.'
-                      : 'Không có: bài đọc sẽ không có ảnh minh hoạ.',
-                  style: d.imagePackBroken ? muted?.copyWith(color: theme.colorScheme.error) : muted,
-                ),
-              ],
-        actions: [OutlinedButton.icon(onPressed: _pickDatabase, icon: const Icon(Icons.folder_open_outlined), label: const Text(pickDataLabel))],
-      ),
-      const Divider(indent: 16, endIndent: 16),
-      card(
-        icon: Icons.graphic_eq,
-        title: 'Âm thanh thực (giọng đọc thật)',
-        lines: a == null
-            ? [Text('Đang đọc…', style: muted)]
-            : [
-                SelectableText(a.dir + (customAudio ? '' : '  (mặc định: thư mục audio cạnh grammar.db)'), style: muted),
-                Text(
-                  !a.exists
-                      ? 'Chưa có thư mục này: các bài sẽ đọc bằng giọng máy.'
-                      : '${a.found}/${a.expected} bài có file ghi âm · ${formatBytes(a.bytes)}'
-                          '${a.found < a.expected ? ' · bài thiếu file đọc bằng giọng máy' : ''}',
-                  style: muted,
-                ),
-              ],
-        actions: [
-          OutlinedButton.icon(
-            onPressed: () => _pickFolder(audioDirKey, 'Chọn thư mục âm thanh thực (1.mp3, 2.mp3 …)', a?.dir),
-            icon: const Icon(Icons.folder_open_outlined),
-            label: const Text('Chọn thư mục…'),
-          ),
-          if (customAudio) TextButton(onPressed: () => _clear(audioDirKey), child: const Text('Dùng mặc định')),
-        ],
-      ),
-      const Divider(indent: 16, endIndent: 16),
-      card(
-        icon: Icons.movie_outlined,
-        title: 'Video (Luyện Nghe)',
-        lines: v == null
-            ? [Text('Đang đọc…', style: muted)]
-            : [
-                SelectableText(v.dir + (customVideo ? '' : '  (mặc định: thư mục video cạnh grammar.db)'), style: muted),
-                Text(
-                  !v.exists
-                      ? 'Chưa có thư mục này: trang Video không phát được (cần A 01.mp4 … hoặc A  1.avi …).'
-                      : '${v.found}/${v.expected} tập có file · ${formatBytes(v.bytes)}',
-                  style: muted,
-                ),
-              ],
-        actions: [
-          OutlinedButton.icon(
-            onPressed: () => _pickFolder(videoDirKey, 'Chọn thư mục video', v?.dir),
-            icon: const Icon(Icons.folder_open_outlined),
-            label: const Text('Chọn thư mục…'),
-          ),
-          if (customVideo) TextButton(onPressed: () => _clear(videoDirKey), child: const Text('Dùng mặc định')),
-        ],
-      ),
-    ]);
+                  fileHeading(imagePackName),
+                  Text(
+                    d.imagePackBroken
+                        ? 'File bị hỏng (có thể tải chưa xong), hãy tải lại: bài đọc đang không có ảnh minh hoạ.'
+                        : d.imagePack
+                        ? '${d.images} ảnh minh hoạ · ${formatBytes(d.imagePackBytes)}'
+                        : d.images > 0
+                        ? 'Không có; đang đọc ${d.images} ảnh minh hoạ từ thư mục img/.'
+                        : 'Không có: bài đọc sẽ không có ảnh minh hoạ.',
+                    style: d.imagePackBroken ? muted?.copyWith(color: theme.colorScheme.error) : muted,
+                  ),
+                ],
+          actions: [OutlinedButton.icon(onPressed: _pickDatabase, icon: const Icon(Icons.folder_open_outlined), label: const Text(pickDataLabel))],
+        ),
+        const Divider(indent: 16, endIndent: 16),
+        card(
+          icon: Icons.graphic_eq,
+          title: 'Âm thanh thực (giọng đọc thật)',
+          lines: a == null
+              ? [Text('Đang đọc…', style: muted)]
+              : [
+                  SelectableText(a.dir + (customAudio ? '' : '  (mặc định: thư mục audio cạnh grammar.db)'), style: muted),
+                  Text(
+                    !a.exists
+                        ? 'Chưa có thư mục này: các bài sẽ đọc bằng giọng máy.'
+                        : '${a.found}/${a.expected} bài có file ghi âm · ${formatBytes(a.bytes)}'
+                              '${a.found < a.expected ? ' · bài thiếu file đọc bằng giọng máy' : ''}',
+                    style: muted,
+                  ),
+                ],
+          actions: [
+            OutlinedButton.icon(
+              onPressed: () => _pickFolder(audioDirKey, 'Chọn thư mục âm thanh thực (1.mp3, 2.mp3 …)', a?.dir),
+              icon: const Icon(Icons.folder_open_outlined),
+              label: const Text('Chọn thư mục…'),
+            ),
+            if (customAudio) TextButton(onPressed: () => _clear(audioDirKey), child: const Text('Dùng mặc định')),
+          ],
+        ),
+        const Divider(indent: 16, endIndent: 16),
+        card(
+          icon: Icons.movie_outlined,
+          title: 'Video (Luyện Nghe)',
+          lines: v == null
+              ? [Text('Đang đọc…', style: muted)]
+              : [
+                  SelectableText(v.dir + (customVideo ? '' : '  (mặc định: thư mục video cạnh grammar.db)'), style: muted),
+                  Text(
+                    !v.exists ? 'Chưa có thư mục này: trang Video không phát được (cần A 01.mp4 … hoặc A  1.avi …).' : '${v.found}/${v.expected} tập có file · ${formatBytes(v.bytes)}',
+                    style: muted,
+                  ),
+                ],
+          actions: [
+            OutlinedButton.icon(onPressed: () => _pickFolder(videoDirKey, 'Chọn thư mục video', v?.dir), icon: const Icon(Icons.folder_open_outlined), label: const Text('Chọn thư mục…')),
+            if (customVideo) TextButton(onPressed: () => _clear(videoDirKey), child: const Text('Dùng mặc định')),
+          ],
+        ),
+      ],
+    );
   }
 }

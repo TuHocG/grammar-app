@@ -28,8 +28,10 @@ bool focusIsTyping() {
 class PrevNextKeys extends StatefulWidget {
   /// Null = nothing before / after (the key is left to others).
   final VoidCallback? onPrev, onNext;
+
   /// Page keys, active when the focus is on the page itself or in an answer box.
   final Map<SingleActivator, VoidCallback> bindings;
+
   /// False when the page autofocuses its own answer box (it would lose to this one).
   final bool autofocus;
   final Widget child;

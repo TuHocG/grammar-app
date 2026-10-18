@@ -17,6 +17,7 @@ class MarkText extends ConsumerStatefulWidget {
   final String text;
   final TextStyle? style;
   final String? source;
+
   /// Called for `` `n` `` numeric links (grammar lesson references) if any.
   final void Function(int ref)? onLessonRef;
   const MarkText(this.text, {super.key, this.style, this.source, this.onLessonRef});
@@ -60,16 +61,21 @@ class _MarkTextState extends ConsumerState<MarkText> {
           i++;
         }
         i++;
-        blocks.add(Container(
-          width: double.infinity,
-          margin: const EdgeInsets.symmetric(vertical: 6),
-          padding: const EdgeInsets.all(10),
-          decoration: BoxDecoration(color: theme.colorScheme.surfaceContainerHighest, borderRadius: BorderRadius.circular(8)),
-          child: SingleChildScrollView(
-            scrollDirection: Axis.horizontal,
-            child: Text(buf.join('\n'), style: base.copyWith(fontFamily: 'Consolas', fontFamilyFallback: const ['Courier New', 'monospace'], fontSize: (base.fontSize ?? 16) - 1)),
+        blocks.add(
+          Container(
+            width: double.infinity,
+            margin: const EdgeInsets.symmetric(vertical: 6),
+            padding: const EdgeInsets.all(10),
+            decoration: BoxDecoration(color: theme.colorScheme.surfaceContainerHighest, borderRadius: BorderRadius.circular(8)),
+            child: SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Text(
+                buf.join('\n'),
+                style: base.copyWith(fontFamily: 'Consolas', fontFamilyFallback: const ['Courier New', 'monospace'], fontSize: (base.fontSize ?? 16) - 1),
+              ),
+            ),
           ),
-        ));
+        );
         continue;
       }
       if (line.trim().isEmpty) {
@@ -124,7 +130,13 @@ class _MarkTextState extends ConsumerState<MarkText> {
         if (n != null && widget.onLessonRef != null) {
           final rec = TapGestureRecognizer()..onTap = () => widget.onLessonRef!(n);
           _recs.add(rec);
-          spans.add(TextSpan(text: ' $code ', style: style.copyWith(color: context.g.iris, decoration: TextDecoration.underline, decorationColor: context.g.iris), recognizer: rec));
+          spans.add(
+            TextSpan(
+              text: ' $code ',
+              style: style.copyWith(color: context.g.iris, decoration: TextDecoration.underline, decorationColor: context.g.iris),
+              recognizer: rec,
+            ),
+          );
         } else {
           spans.addAll(_words(code, style.copyWith(fontFamily: Tokens.readingFont, color: context.g.indigo, fontWeight: FontWeight.w600), saved));
         }
@@ -147,7 +159,17 @@ class _MarkTextState extends ConsumerState<MarkText> {
       final key = searchKey(cleanToken(tok));
       final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, tok, contextSentence: text.trim(), source: widget.source);
       _recs.add(rec);
-      out.add(TextSpan(text: tok, style: saved.contains(key) ? savedStyle(context, style) : inSavedFamily(key, _family) ? familyStyle(context, style) : style, recognizer: rec));
+      out.add(
+        TextSpan(
+          text: tok,
+          style: saved.contains(key)
+              ? savedStyle(context, style)
+              : inSavedFamily(key, _family)
+              ? familyStyle(context, style)
+              : style,
+          recognizer: rec,
+        ),
+      );
     }
     return out;
   }

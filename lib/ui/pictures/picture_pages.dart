@@ -22,6 +22,7 @@ import '../widgets/shell.dart';
 /// Pic5 pages are 700 px high with varying width (595–1319); hotspot pixels refer to the
 /// native image size, so the page's real size is read from the decoded image.
 const pageH = 700.0;
+
 /// Half of the old app's circle (255 twips = 17 px): offset from `xy` to the dot centre.
 const spotCentre = 8.5;
 
@@ -35,10 +36,7 @@ class PictureTopicsPage extends ConsumerWidget {
     final last = int.tryParse(ref.read(userDbProvider).progress('pictures', 'last') ?? '');
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: GrammarAppBar(
-        crumbs: const [Crumb('Từ Vựng (Tranh)')],
-        helpSlug: 'tu-vung-tranh',
-      ),
+      appBar: GrammarAppBar(crumbs: const [Crumb('Từ Vựng (Tranh)')], helpSlug: 'tu-vung-tranh'),
       body: RailListView(
         children: [
           Text('Từ Vựng (Tranh)', style: theme.textTheme.headlineLarge),
@@ -83,8 +81,8 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
   PictureTopic? _topic;
   late Set<int> _picks;
   int _mode = 0;
-  int? _current;      // highlighted word index
-  int? _target;       // practice target
+  int? _current; // highlighted word index
+  int? _target; // practice target
   final _answer = TextEditingController();
   String? _feedback;
   int _right = 0, _wrong = 0;
@@ -103,9 +101,13 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
     final page = _topic?.page;
     if (page != null) {
       final provider = ref.read(contentDbProvider).imageProvider(page);
-      provider.resolve(const ImageConfiguration()).addListener(ImageStreamListener((info, _) {
-        if (mounted) setState(() => _imgSize = Size(info.image.width.toDouble(), info.image.height.toDouble()));
-      }));
+      provider
+          .resolve(const ImageConfiguration())
+          .addListener(
+            ImageStreamListener((info, _) {
+              if (mounted) setState(() => _imgSize = Size(info.image.width.toDouble(), info.image.height.toDouble()));
+            }),
+          );
     }
   }
 
@@ -117,7 +119,10 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
   }
 
   List<int> get _pool {
-    final spots = [for (var i = 0; i < _topic!.words.length; i++) if (_topic!.words[i].hasSpot) i];
+    final spots = [
+      for (var i = 0; i < _topic!.words.length; i++)
+        if (_topic!.words[i].hasSpot) i,
+    ];
     final picked = spots.where(_picks.contains).toList();
     return picked.isEmpty ? spots : picked;
   }
@@ -162,7 +167,11 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
         ok ? _right++ : _wrong++;
       });
       _tts.speak(w.en);
-      if (ok) Future.delayed(const Duration(milliseconds: 900), () { if (mounted && _mode == 2) _nextTarget(); });
+      if (ok) {
+        Future.delayed(const Duration(milliseconds: 900), () {
+          if (mounted && _mode == 2) _nextTarget();
+        });
+      }
     } else if (_mode == 1) {
       setState(() => _current = i);
     }
@@ -217,28 +226,31 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
         helpSlug: 'tu-vung-tranh',
         // On a phone the modes get their own row so the title keeps its room.
         actions: [if (context.isWide) modes],
-        bottom: context.isWide ? null : PreferredSize(preferredSize: const Size.fromHeight(52), child: Padding(padding: const EdgeInsets.only(bottom: 8), child: modes)),
+        bottom: context.isWide
+            ? null
+            : PreferredSize(
+                preferredSize: const Size.fromHeight(52),
+                child: Padding(padding: const EdgeInsets.only(bottom: 8), child: modes),
+              ),
       ),
       body: context.isWide
-          ? Row(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-              // Left nav with every picture, like the readings and dialogs pages.
-              Padding(
-                padding: const EdgeInsets.fromLTRB(16, 16, 0, 16),
-                child: SizedBox(
-                  width: 280,
-                  child: Surface(
-                    padding: const EdgeInsets.all(8),
-                    child: _TopicNav(
-                      topics: topics,
-                      current: t.id,
-                      withPicks: withPicks,
-                      onTap: (id) => context.pushReplacement('/pictures/$id'),
+          ? Row(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                // Left nav with every picture, like the readings and dialogs pages.
+                Padding(
+                  padding: const EdgeInsets.fromLTRB(16, 16, 0, 16),
+                  child: SizedBox(
+                    width: 280,
+                    child: Surface(
+                      padding: const EdgeInsets.all(8),
+                      child: _TopicNav(topics: topics, current: t.id, withPicks: withPicks, onTap: (id) => context.pushReplacement('/pictures/$id')),
                     ),
                   ),
                 ),
-              ),
-              Expanded(child: main),
-            ])
+                Expanded(child: main),
+              ],
+            )
           : main,
       bottomNavigationBar: PrevNextBar(
         onPrev: prev == null ? null : () => context.pushReplacement('/pictures/${prev.id}'),
@@ -252,7 +264,8 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
 
   Widget _main(BuildContext context, PictureTopic t, PictureWord? cur, ThemeData theme) {
     final db = ref.read(contentDbProvider);
-    return Column(children: [
+    return Column(
+      children: [
         Expanded(
           child: t.page == null
               ? const Center(child: Text('Chủ đề này không có trang ảnh.'))
@@ -267,25 +280,27 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
                         height: h,
                         child: InteractiveViewer(
                           maxScale: 4,
-                          child: Stack(children: [
-                            Image(image: db.imageProvider(t.page!), width: w, height: h, fit: BoxFit.fill),
-                            for (var k = 0; k < t.words.length; k++)
-                              if (t.words[k].hasSpot)
-                                // `xy` is the top-left of the old app's 17 px circle
-                                // (Shape D, 255 twips; Hinh.bas:ShowAllDiemChon), so the
-                                // white dot printed on the page is centred at xy + 8.5.
-                                Positioned(
-                                  left: (t.words[k].x! + spotCentre) * scale - 11,
-                                  top: (t.words[k].y! + spotCentre) * scale - 11,
-                                  child: _Spot(
-                                    number: k + 1,
-                                    picked: _picks.contains(k),
-                                    highlighted: _current == k || (_mode == 1 && _target == k),
-                                    hidden: _mode == 2 && _feedback == null ? false : false,
-                                    onTap: () => _tapSpot(k),
+                          child: Stack(
+                            children: [
+                              Image(image: db.imageProvider(t.page!), width: w, height: h, fit: BoxFit.fill),
+                              for (var k = 0; k < t.words.length; k++)
+                                if (t.words[k].hasSpot)
+                                  // `xy` is the top-left of the old app's 17 px circle
+                                  // (Shape D, 255 twips; Hinh.bas:ShowAllDiemChon), so the
+                                  // white dot printed on the page is centred at xy + 8.5.
+                                  Positioned(
+                                    left: (t.words[k].x! + spotCentre) * scale - 11,
+                                    top: (t.words[k].y! + spotCentre) * scale - 11,
+                                    child: _Spot(
+                                      number: k + 1,
+                                      picked: _picks.contains(k),
+                                      highlighted: _current == k || (_mode == 1 && _target == k),
+                                      hidden: _mode == 2 && _feedback == null ? false : false,
+                                      onTap: () => _tapSpot(k),
+                                    ),
                                   ),
-                                ),
-                          ]),
+                            ],
+                          ),
                         ),
                       ),
                     );
@@ -295,54 +310,89 @@ class _PictureTopicPageState extends ConsumerState<PictureTopicPage> {
         Container(
           width: double.infinity,
           padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            if (_mode == 0)
-              Row(children: [
-                Expanded(
-                  child: cur == null
-                      ? Text('Chạm vào một số trên tranh.', style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.outline))
-                      : Text.rich(TextSpan(children: [
-                          TextSpan(text: cur.en, style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold, color: _picks.contains(_current) ? Marks.savedWord : null)),
-                          TextSpan(text: '  =  ${cur.vi}', style: theme.textTheme.titleMedium),
-                        ])),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              if (_mode == 0)
+                Row(
+                  children: [
+                    Expanded(
+                      child: cur == null
+                          ? Text('Chạm vào một số trên tranh.', style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.outline))
+                          : Text.rich(
+                              TextSpan(
+                                children: [
+                                  TextSpan(
+                                    text: cur.en,
+                                    style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold, color: _picks.contains(_current) ? Marks.savedWord : null),
+                                  ),
+                                  TextSpan(text: '  =  ${cur.vi}', style: theme.textTheme.titleMedium),
+                                ],
+                              ),
+                            ),
+                    ),
+                    if (cur != null) IconButton(tooltip: 'Đọc', icon: const Icon(Icons.volume_up), onPressed: () => _tts.speak(cur.en)),
+                    if (cur != null)
+                      IconButton(
+                        tooltip: 'Tra từ điển',
+                        icon: const Icon(Icons.search),
+                        onPressed: () => showQuickDef(context, ref, cur.en, source: 'picture:${t.id}'),
+                      ),
+                    if (cur != null)
+                      IconButton(
+                        tooltip: _picks.contains(_current) ? 'Bỏ chọn tiêu điểm' : 'Chọn tiêu điểm để luyện',
+                        icon: Icon(_picks.contains(_current) ? Icons.bookmark : Icons.bookmark_border, color: _picks.contains(_current) ? Marks.savedWord : null),
+                        onPressed: _togglePick,
+                      ),
+                  ],
                 ),
-                if (cur != null) IconButton(tooltip: 'Đọc', icon: const Icon(Icons.volume_up), onPressed: () => _tts.speak(cur.en)),
-                if (cur != null) IconButton(tooltip: 'Tra từ điển', icon: const Icon(Icons.search), onPressed: () => showQuickDef(context, ref, cur.en, source: 'picture:${t.id}')),
-                if (cur != null)
-                  IconButton(
-                    tooltip: _picks.contains(_current) ? 'Bỏ chọn tiêu điểm' : 'Chọn tiêu điểm để luyện',
-                    icon: Icon(_picks.contains(_current) ? Icons.bookmark : Icons.bookmark_border, color: _picks.contains(_current) ? Marks.savedWord : null),
-                    onPressed: _togglePick,
-                  ),
-              ]),
-            if (_mode == 1) ...[
-              Text('Nhìn tiêu điểm sáng, gõ từ tiếng Anh:', style: theme.textTheme.bodyMedium),
-              Row(children: [
-                Expanded(
-                  child: TextField(
-                    controller: _answer,
-                    autofocus: true,
-                    decoration: const InputDecoration(isDense: true, border: OutlineInputBorder()),
-                    onSubmitted: (_) => _feedback == null ? _checkTyped() : _nextTarget(),
-                  ),
+              if (_mode == 1) ...[
+                Text('Nhìn tiêu điểm sáng, gõ từ tiếng Anh:', style: theme.textTheme.bodyMedium),
+                Row(
+                  children: [
+                    Expanded(
+                      child: TextField(
+                        controller: _answer,
+                        autofocus: true,
+                        decoration: const InputDecoration(isDense: true, border: OutlineInputBorder()),
+                        onSubmitted: (_) => _feedback == null ? _checkTyped() : _nextTarget(),
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    FilledButton(onPressed: _feedback == null ? _checkTyped : _nextTarget, child: Text(_feedback == null ? 'Kiểm tra' : 'Tiếp')),
+                  ],
                 ),
-                const SizedBox(width: 8),
-                FilledButton(onPressed: _feedback == null ? _checkTyped : _nextTarget, child: Text(_feedback == null ? 'Kiểm tra' : 'Tiếp')),
-              ]),
+              ],
+              if (_mode == 2)
+                Row(
+                  children: [
+                    FilledButton.tonalIcon(onPressed: _target == null ? null : () => _tts.speak(t.words[_target!].en), icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
+                    const SizedBox(width: 8),
+                    OutlinedButton(
+                      onPressed: _target == null
+                          ? null
+                          : () => setState(() {
+                              _current = _target;
+                              _feedback = '${t.words[_target!].en} = ${t.words[_target!].vi}';
+                            }),
+                      child: const Text('Đáp án'),
+                    ),
+                    const SizedBox(width: 8),
+                    OutlinedButton(onPressed: _nextTarget, child: const Text('Tiếp')),
+                  ],
+                ),
+              if (_feedback != null)
+                Padding(
+                  padding: const EdgeInsets.only(top: 4),
+                  child: Text(_feedback!, style: theme.textTheme.bodyLarge?.copyWith(color: theme.colorScheme.primary)),
+                ),
+              if (_mode > 0)
+                Text('Đúng $_right · sai $_wrong · ${_picks.isEmpty ? 'tất cả' : '${_pool.length} tiêu điểm đã chọn'}', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
             ],
-            if (_mode == 2)
-              Row(children: [
-                FilledButton.tonalIcon(onPressed: _target == null ? null : () => _tts.speak(t.words[_target!].en), icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
-                const SizedBox(width: 8),
-                OutlinedButton(onPressed: _target == null ? null : () => setState(() { _current = _target; _feedback = '${t.words[_target!].en} = ${t.words[_target!].vi}'; }), child: const Text('Đáp án')),
-                const SizedBox(width: 8),
-                OutlinedButton(onPressed: _nextTarget, child: const Text('Tiếp')),
-              ]),
-            if (_feedback != null) Padding(padding: const EdgeInsets.only(top: 4), child: Text(_feedback!, style: theme.textTheme.bodyLarge?.copyWith(color: theme.colorScheme.primary))),
-            if (_mode > 0) Text('Đúng $_right · sai $_wrong · ${_picks.isEmpty ? 'tất cả' : '${_pool.length} tiêu điểm đã chọn'}', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
-          ]),
+          ),
         ),
-      ]);
+      ],
+    );
   }
 }
 
@@ -373,26 +423,32 @@ class _TopicNavState extends State<_TopicNav> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final g = context.g;
-    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-      Padding(
-        padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
-        child: Text('Từ Vựng (Tranh)', style: theme.textTheme.titleSmall),
-      ),
-      Expanded(
-        child: SingleChildScrollView(
-          child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            for (final x in widget.topics)
-              TocRow(
-                key: x.id == widget.current ? _currentKey : null,
-                title: x.title,
-                selected: x.id == widget.current,
-                trailing: widget.withPicks.contains(x.id) ? Icon(Icons.bookmark, size: 14, color: g.savedWord) : null,
-                onTap: x.id == widget.current ? null : () => widget.onTap(x.id),
-              ),
-          ]),
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        Padding(
+          padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
+          child: Text('Từ Vựng (Tranh)', style: theme.textTheme.titleSmall),
         ),
-      ),
-    ]);
+        Expanded(
+          child: SingleChildScrollView(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                for (final x in widget.topics)
+                  TocRow(
+                    key: x.id == widget.current ? _currentKey : null,
+                    title: x.title,
+                    selected: x.id == widget.current,
+                    trailing: widget.withPicks.contains(x.id) ? Icon(Icons.bookmark, size: 14, color: g.savedWord) : null,
+                    onTap: x.id == widget.current ? null : () => widget.onTap(x.id),
+                  ),
+              ],
+            ),
+          ),
+        ),
+      ],
+    );
   }
 }
 
@@ -418,7 +474,10 @@ class _Spot extends StatelessWidget {
           color: highlighted ? color : Colors.white.withValues(alpha: 0.85),
           border: Border.all(color: color, width: 2),
         ),
-        child: Text('$number', style: TextStyle(fontSize: 10, fontWeight: FontWeight.bold, color: highlighted ? Colors.white : color)),
+        child: Text(
+          '$number',
+          style: TextStyle(fontSize: 10, fontWeight: FontWeight.bold, color: highlighted ? Colors.white : color),
+        ),
       ),
     );
   }

@@ -12,20 +12,22 @@ class QuestionWithMap extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Widget part(double order, Widget child) => FocusTraversalOrder(order: NumericFocusOrder(order), child: FocusTraversalGroup(child: child));
+    Widget part(double order, Widget child) => FocusTraversalOrder(
+      order: NumericFocusOrder(order),
+      child: FocusTraversalGroup(child: child),
+    );
     return FocusTraversalGroup(
       policy: OrderedTraversalPolicy(),
       child: wide
-          ? Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              Expanded(child: part(1, question)),
-              const SizedBox(width: 24),
-              SizedBox(width: 260, child: part(2, map)),
-            ])
-          : Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-              part(1, question),
-              const SizedBox(height: 16),
-              part(2, map),
-            ]),
+          ? Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Expanded(child: part(1, question)),
+                const SizedBox(width: 24),
+                SizedBox(width: 260, child: part(2, map)),
+              ],
+            )
+          : Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [part(1, question), const SizedBox(height: 16), part(2, map)]),
     );
   }
 }

@@ -14,18 +14,20 @@ void main() {
     tester.view.physicalSize = const Size(360, 760);
     tester.view.devicePixelRatio = 1.0;
     addTearDown(tester.view.reset);
-    await tester.pumpWidget(ProviderScope(
-      overrides: [ttsProvider.overrideWithValue(TtsService())],
-      child: MaterialApp(
-        theme: buildTheme(Brightness.light),
-        home: Scaffold(
-          body: SingleChildScrollView(
-            padding: const EdgeInsets.all(16),
-            child: ScrambleBoard(sentence: sentence, speakOnSolved: false, onSolved: onSolved),
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [ttsProvider.overrideWithValue(TtsService())],
+        child: MaterialApp(
+          theme: buildTheme(Brightness.light),
+          home: Scaffold(
+            body: SingleChildScrollView(
+              padding: const EdgeInsets.all(16),
+              child: ScrambleBoard(sentence: sentence, speakOnSolved: false, onSolved: onSolved),
+            ),
           ),
         ),
       ),
-    ));
+    );
   }
 
   Future<void> tapWord(WidgetTester tester, String w) async {
@@ -34,10 +36,7 @@ void main() {
   }
 
   // Words in the answer box (the hidden sizing copy sits outside the Positioned layer).
-  List<String> placed(WidgetTester tester) => tester
-      .widgetList<Chip>(find.descendant(of: find.byType(Positioned), matching: find.byType(Chip)))
-      .map((c) => (c.label as Text).data!)
-      .toList();
+  List<String> placed(WidgetTester tester) => tester.widgetList<Chip>(find.descendant(of: find.byType(Positioned), matching: find.byType(Chip))).map((c) => (c.label as Text).data!).toList();
 
   testWidgets('the word pool does not move while the sentence is built', (tester) async {
     const sentence = 'The baby birds sat in the nest on a very cold winter morning.';

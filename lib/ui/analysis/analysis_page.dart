@@ -42,52 +42,58 @@ class AnalysisListPage extends ConsumerWidget {
     ref.watch(progressRevisionProvider);
     final last = int.tryParse(ref.read(userDbProvider).progress('reading', 'last_reading') ?? '');
     return Scaffold(
-      appBar: GrammarAppBar(
-        crumbs: const [Crumb('Phân Tích Câu')],
-        helpSlug: 'phan-tich-cau',
-      ),
-      body: RailListView(children: [
-        Text('Phân Tích Câu', style: theme.textTheme.headlineLarge),
-        Text('${ids.length} bài · chạm từ để xem từ loại, chức năng và vì sao phải có từ đó', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-        const SizedBox(height: 16),
-        for (var i = 0; i < ids.length && i < readings.length; i++)
-          Builder(builder: (context) {
-            final r = db.reading(readings[i]);
-            if (r == null) return const SizedBox.shrink();
-            return Padding(
-              padding: const EdgeInsets.only(bottom: 8),
-              child: Surface(
-                onTap: () => context.push('/analysis/${ids[i]}'),
-                padding: const EdgeInsets.all(12),
-                child: Row(children: [
-                  ClipRRect(
-                    borderRadius: BorderRadius.circular(8),
-                    child: SizedBox(
-                      width: 72,
-                      height: 56,
-                      child: r.img != null
-                          ? Image(image: db.imageProvider(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.manage_search, size: 56))
-                          : const IconTile(Icons.manage_search, size: 56),
+      appBar: GrammarAppBar(crumbs: const [Crumb('Phân Tích Câu')], helpSlug: 'phan-tich-cau'),
+      body: RailListView(
+        children: [
+          Text('Phân Tích Câu', style: theme.textTheme.headlineLarge),
+          Text('${ids.length} bài · chạm từ để xem từ loại, chức năng và vì sao phải có từ đó', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+          const SizedBox(height: 16),
+          for (var i = 0; i < ids.length && i < readings.length; i++)
+            Builder(
+              builder: (context) {
+                final r = db.reading(readings[i]);
+                if (r == null) return const SizedBox.shrink();
+                return Padding(
+                  padding: const EdgeInsets.only(bottom: 8),
+                  child: Surface(
+                    onTap: () => context.push('/analysis/${ids[i]}'),
+                    padding: const EdgeInsets.all(12),
+                    child: Row(
+                      children: [
+                        ClipRRect(
+                          borderRadius: BorderRadius.circular(8),
+                          child: SizedBox(
+                            width: 72,
+                            height: 56,
+                            child: r.img != null
+                                ? Image(image: db.imageProvider(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.manage_search, size: 56))
+                                : const IconTile(Icons.manage_search, size: 56),
+                          ),
+                        ),
+                        const SizedBox(width: 12),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(r.title, style: ReadingStyles.line(context).copyWith(fontSize: 16, fontWeight: r.id == last ? FontWeight.w600 : FontWeight.w400)),
+                              Padding(
+                                padding: const EdgeInsets.only(top: 4),
+                                child: Text('${db.analysisWords(ids[i]).length} từ được phân tích · ${r.sentences.length} câu', style: theme.textTheme.bodySmall?.copyWith(color: g.slate)),
+                              ),
+                            ],
+                          ),
+                        ),
+                        if (r.id == last) const SoftBadge('Đang đọc'),
+                        const SizedBox(width: 4),
+                        Icon(Icons.chevron_right, color: g.fog),
+                      ],
                     ),
                   ),
-                  const SizedBox(width: 12),
-                  Expanded(
-                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                      Text(r.title, style: ReadingStyles.line(context).copyWith(fontSize: 16, fontWeight: r.id == last ? FontWeight.w600 : FontWeight.w400)),
-                      Padding(
-                        padding: const EdgeInsets.only(top: 4),
-                        child: Text('${db.analysisWords(ids[i]).length} từ được phân tích · ${r.sentences.length} câu', style: theme.textTheme.bodySmall?.copyWith(color: g.slate)),
-                      ),
-                    ]),
-                  ),
-                  if (r.id == last) const SoftBadge('Đang đọc'),
-                  const SizedBox(width: 4),
-                  Icon(Icons.chevron_right, color: g.fog),
-                ]),
-              ),
-            );
-          }),
-      ]),
+                );
+              },
+            ),
+        ],
+      ),
     );
   }
 }

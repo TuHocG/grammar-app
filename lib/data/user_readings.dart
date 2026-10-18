@@ -13,11 +13,11 @@ import 'user_db.dart';
 
 class UserReading {
   final int id;
-  final String package;   // group name (old app: folder in BaiNhap)
+  final String package; // group name (old app: folder in BaiNhap)
   final String title;
   final List<List<String>> en;
   final List<List<String>> vi;
-  final String? img;      // absolute path chosen by the user
+  final String? img; // absolute path chosen by the user
   final DateTime createdAt;
   const UserReading({required this.id, required this.package, required this.title, required this.en, required this.vi, this.img, required this.createdAt});
 
@@ -42,9 +42,7 @@ List<List<String>> splitText(String text) {
   for (final p in paras) {
     final flat = p.replaceAll('\n', ' ').trim();
     if (flat.isEmpty) continue;
-    final parts = flat.contains('_')
-        ? flat.split('_')
-        : flat.split(RegExp(r'(?<=[.!?])\s+(?=[\p{Lu}\d"“‘(])', unicode: true));
+    final parts = flat.contains('_') ? flat.split('_') : flat.split(RegExp(r'(?<=[.!?])\s+(?=[\p{Lu}\d"“‘(])', unicode: true));
     final sents = parts.map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
     if (sents.isNotEmpty) out.add(sents);
   }
@@ -53,12 +51,12 @@ List<List<String>> splitText(String text) {
 
 extension UserReadings on UserDb {
   List<UserReading> userReadings({String? package}) => [
-        for (final r in raw.select(
-          package == null ? 'SELECT * FROM user_reading ORDER BY package, id' : 'SELECT * FROM user_reading WHERE package = ? ORDER BY id',
-          package == null ? const [] : [package],
-        ))
-          _ur(r),
-      ];
+    for (final r in raw.select(
+      package == null ? 'SELECT * FROM user_reading ORDER BY package, id' : 'SELECT * FROM user_reading WHERE package = ? ORDER BY id',
+      package == null ? const [] : [package],
+    ))
+      _ur(r),
+  ];
 
   List<String> userReadingPackages() => [for (final r in raw.select('SELECT DISTINCT package FROM user_reading ORDER BY package')) r['package'] as String];
 
@@ -68,27 +66,30 @@ extension UserReadings on UserDb {
   }
 
   int insertUserReading({required String package, required String title, required List<List<String>> en, required List<List<String>> vi, String? img}) {
-    raw.execute(
-      'INSERT INTO user_reading(package, title, en, vi, img, created_at) VALUES (?, ?, ?, ?, ?, ?)',
-      [package, title, jsonEncode(en), jsonEncode(vi), img, DateTime.now().millisecondsSinceEpoch],
-    );
+    raw.execute('INSERT INTO user_reading(package, title, en, vi, img, created_at) VALUES (?, ?, ?, ?, ?, ?)', [
+      package,
+      title,
+      jsonEncode(en),
+      jsonEncode(vi),
+      img,
+      DateTime.now().millisecondsSinceEpoch,
+    ]);
     return raw.lastInsertRowId;
   }
 
   void updateUserReading(int id, {required String package, required String title, required List<List<String>> en, required List<List<String>> vi, String? img}) {
-    raw.execute('UPDATE user_reading SET package = ?, title = ?, en = ?, vi = ?, img = ? WHERE id = ?',
-        [package, title, jsonEncode(en), jsonEncode(vi), img, id]);
+    raw.execute('UPDATE user_reading SET package = ?, title = ?, en = ?, vi = ?, img = ? WHERE id = ?', [package, title, jsonEncode(en), jsonEncode(vi), img, id]);
   }
 
   void deleteUserReading(int id) => raw.execute('DELETE FROM user_reading WHERE id = ?', [id]);
 
   UserReading _ur(Row r) => UserReading(
-        id: r['id'] as int,
-        package: r['package'] as String,
-        title: r['title'] as String,
-        en: (jsonDecode(r['en'] as String) as List).map((p) => (p as List).cast<String>()).toList(),
-        vi: (jsonDecode(r['vi'] as String) as List).map((p) => (p as List).cast<String>()).toList(),
-        img: r['img'] as String?,
-        createdAt: DateTime.fromMillisecondsSinceEpoch(r['created_at'] as int),
-      );
+    id: r['id'] as int,
+    package: r['package'] as String,
+    title: r['title'] as String,
+    en: (jsonDecode(r['en'] as String) as List).map((p) => (p as List).cast<String>()).toList(),
+    vi: (jsonDecode(r['vi'] as String) as List).map((p) => (p as List).cast<String>()).toList(),
+    img: r['img'] as String?,
+    createdAt: DateTime.fromMillisecondsSinceEpoch(r['created_at'] as int),
+  );
 }

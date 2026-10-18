@@ -33,12 +33,14 @@ void main() {
       user.close();
       tmp.deleteSync(recursive: true);
     });
-    await tester.pumpWidget(ProviderScope(
-      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(tts)],
-      child: const MaterialApp(home: DictationPage(id: 4)),   // no recording here: TTS
-    ));
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(tts)],
+        child: const MaterialApp(home: DictationPage(id: 4)), // no recording here: TTS
+      ),
+    );
     await tester.pumpAndSettle();
-    expect(tts.spoken.length, 1);   // the sentence, on opening
+    expect(tts.spoken.length, 1); // the sentence, on opening
 
     final field = find.byType(TextField);
     Future<void> type(String s) async {
@@ -46,18 +48,18 @@ void main() {
       await tester.pumpAndSettle();
     }
 
-    await type('zz');               // wrong: read again
+    await type('zz'); // wrong: read again
     expect(tts.spoken.length, 2);
-    await type('zzzz');             // more wrong letters
-    await type('zzz');              // deleting
+    await type('zzzz'); // more wrong letters
+    await type('zzz'); // deleting
     await type('z');
     final ctl = tester.widget<TextField>(field).controller!;
-    ctl.selection = const TextSelection.collapsed(offset: 0);   // moving the cursor
+    ctl.selection = const TextSelection.collapsed(offset: 0); // moving the cursor
     await tester.pumpAndSettle();
     expect(tts.spoken.length, 2);
 
-    await type('');                 // right again (empty prefix)…
-    await type('q');                // …then wrong: read once more
+    await type(''); // right again (empty prefix)…
+    await type('q'); // …then wrong: read once more
     expect(tts.spoken.length, 3);
   }, skip: !has);
 }

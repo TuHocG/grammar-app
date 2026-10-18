@@ -16,15 +16,10 @@ extension UserDbMore on UserDb {
   List<(int, int)> dialogPicks(List<int> dialogIds) {
     if (dialogIds.isEmpty) return const [];
     final q = List.filled(dialogIds.length, '?').join(',');
-    return [
-      for (final r in raw.select('SELECT dialog_id, pair_idx FROM user_dialog_pick WHERE dialog_id IN ($q) ORDER BY ord', dialogIds))
-        (r['dialog_id'] as int, r['pair_idx'] as int),
-    ];
+    return [for (final r in raw.select('SELECT dialog_id, pair_idx FROM user_dialog_pick WHERE dialog_id IN ($q) ORDER BY ord', dialogIds)) (r['dialog_id'] as int, r['pair_idx'] as int)];
   }
 
-  Set<String> dialogPickKeys() => {
-        for (final r in raw.select('SELECT dialog_id, pair_idx FROM user_dialog_pick')) '${r['dialog_id']}:${r['pair_idx']}',
-      };
+  Set<String> dialogPickKeys() => {for (final r in raw.select('SELECT dialog_id, pair_idx FROM user_dialog_pick')) '${r['dialog_id']}:${r['pair_idx']}'};
 
   void setDialogPick(int dialogId, int pairIdx, bool picked) {
     if (picked) {
@@ -36,12 +31,10 @@ extension UserDbMore on UserDb {
   }
 
   Set<int> picturePicks(int topicId) => {
-        for (final r in raw.select('SELECT word_idx FROM user_picture_pick WHERE topic_id = ?', [topicId])) r['word_idx'] as int,
-      };
+    for (final r in raw.select('SELECT word_idx FROM user_picture_pick WHERE topic_id = ?', [topicId])) r['word_idx'] as int,
+  };
 
-  Set<int> pictureTopicsWithPicks() => {
-        for (final r in raw.select('SELECT DISTINCT topic_id FROM user_picture_pick')) r['topic_id'] as int,
-      };
+  Set<int> pictureTopicsWithPicks() => {for (final r in raw.select('SELECT DISTINCT topic_id FROM user_picture_pick')) r['topic_id'] as int};
 
   void setPicturePick(int topicId, int wordIdx, bool picked) {
     if (picked) {

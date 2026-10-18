@@ -17,11 +17,13 @@ class FakeTts extends TtsService {
     final c = _cur = Completer<void>();
     await c.future;
   }
+
   @override
   Future<void> stop() async {
     _cur?.complete();
     _cur = null;
   }
+
   /// Let the current utterance finish on its own.
   void finish() {
     _cur?.complete();
@@ -29,10 +31,7 @@ class FakeTts extends TtsService {
   }
 }
 
-Reading reading(int n) => Reading(
-      id: 1, sid: 1, position: 1, title: 'T', titleAudio: false,
-      sentences: [for (var i = 0; i < n; i++) Sentence(i, 0, 'S$i', 'V$i')],
-    );
+Reading reading(int n) => Reading(id: 1, sid: 1, position: 1, title: 'T', titleAudio: false, sentences: [for (var i = 0; i < n; i++) Sentence(i, 0, 'S$i', 'V$i')]);
 
 void main() {
   // TtsService builds the real backend (FlutterTts off Windows), which needs a binding.
@@ -55,13 +54,13 @@ void main() {
     final p = SentencePlayer(tts: tts, reading: reading(5));
     final f1 = p.speakOnce(1);
     await Future<void>.delayed(Duration.zero);
-    final f2 = p.speakOnce(1);      // second tap: restarts the same sentence
+    final f2 = p.speakOnce(1); // second tap: restarts the same sentence
     await Future<void>.delayed(Duration.zero);
     tts.finish();
     await f1;
     await f2;
     await Future<void>.delayed(Duration.zero);
-    expect(tts.spoken, ['S1', 'S1']);   // never S2, S3, ...
+    expect(tts.spoken, ['S1', 'S1']); // never S2, S3, ...
     expect(p.state, PlayerState.idle);
   });
 
@@ -92,10 +91,7 @@ void main() {
   test('a recording the platform cannot play falls back to TTS', () async {
     // No audio plugin in tests, so playing the file fails like an unsupported codec does.
     final tts = FakeTts();
-    final r = Reading(
-      id: 1, sid: 1, position: 1, title: 'T', titleAudio: false, audio: 'audio/2.mp3', times: [0, 1, 2],
-      sentences: [Sentence(0, 0, 'S0', 'V0'), Sentence(1, 0, 'S1', 'V1')],
-    );
+    final r = Reading(id: 1, sid: 1, position: 1, title: 'T', titleAudio: false, audio: 'audio/2.mp3', times: [0, 1, 2], sentences: [Sentence(0, 0, 'S0', 'V0'), Sentence(1, 0, 'S1', 'V1')]);
     final p = SentencePlayer(tts: tts, reading: r, audioPath: 'missing.mp3');
     expect(p.useRecording, isTrue);
     final f = p.speakOnce(0);

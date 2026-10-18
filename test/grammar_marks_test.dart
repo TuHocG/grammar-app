@@ -34,13 +34,9 @@ void main() {
   });
 
   Widget wrap(Widget child) => ProviderScope(
-        overrides: [
-          contentDbProvider.overrideWithValue(db),
-          userDbProvider.overrideWithValue(user),
-          ttsProvider.overrideWithValue(TtsService()),
-        ],
-        child: MaterialApp(theme: buildTheme(Brightness.light), home: child),
-      );
+    overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+    child: MaterialApp(theme: buildTheme(Brightness.light), home: child),
+  );
 
   testWidgets('Lưu bài bookmarks the lesson; the saved page lists only it', (tester) async {
     tester.view.physicalSize = const Size(1400, 1000);

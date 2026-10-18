@@ -32,6 +32,7 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
   List<DictHit> _hits = const [];
   String _key = '';
   int? _selectedId;
+
   /// Row picked with ↑ / ↓; -1 = none, Enter then goes by what is typed.
   int _active = -1;
   final _activeKey = GlobalKey();
@@ -154,17 +155,23 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
             borderRadius: BorderRadius.circular(4),
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 9),
-              child: Row(crossAxisAlignment: CrossAxisAlignment.baseline, textBaseline: TextBaseline.alphabetic, children: [
-                Text(h.headword, style: ReadingStyles.line(context).copyWith(fontSize: 17, fontWeight: isPrefix || isSaved ? FontWeight.w600 : FontWeight.w400, color: hwColor)),
-                if (h.ipa != null && h.ipa!.isNotEmpty) ...[
-                  const SizedBox(width: 10),
-                  Text('/${h.ipa}/', style: theme.textTheme.bodySmall?.copyWith(color: g.iris)),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.baseline,
+                textBaseline: TextBaseline.alphabetic,
+                children: [
+                  Text(
+                    h.headword,
+                    style: ReadingStyles.line(context).copyWith(fontSize: 17, fontWeight: isPrefix || isSaved ? FontWeight.w600 : FontWeight.w400, color: hwColor),
+                  ),
+                  if (h.ipa != null && h.ipa!.isNotEmpty) ...[const SizedBox(width: 10), Text('/${h.ipa}/', style: theme.textTheme.bodySmall?.copyWith(color: g.iris))],
+                  if (h.preview.isNotEmpty) ...[
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Text(h.preview, maxLines: 1, overflow: TextOverflow.ellipsis, textAlign: TextAlign.end, style: theme.textTheme.bodySmall),
+                    ),
+                  ],
                 ],
-                if (h.preview.isNotEmpty) ...[
-                  const SizedBox(width: 12),
-                  Expanded(child: Text(h.preview, maxLines: 1, overflow: TextOverflow.ellipsis, textAlign: TextAlign.end, style: theme.textTheme.bodySmall)),
-                ],
-              ]),
+              ),
             ),
           ),
         );
@@ -173,7 +180,11 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
 
     if (!wide) {
       return Scaffold(
-        appBar: GrammarAppBar(search: false, helpSlug: 'tu-dien', title: Padding(padding: const EdgeInsets.only(right: 4), child: field)),
+        appBar: GrammarAppBar(
+          search: false,
+          helpSlug: 'tu-dien',
+          title: Padding(padding: const EdgeInsets.only(right: 4), child: field),
+        ),
         body: list,
       );
     }
@@ -190,43 +201,50 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
         search: false,
         crumbs: const [Crumb('Từ điển')],
         helpSlug: 'tu-dien',
-        actions: [
-          Text('Gõ ở bất kỳ màn hình nào để tra', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
-        ],
+        actions: [Text('Gõ ở bất kỳ màn hình nào để tra', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate))],
       ),
       body: PageRail(
-        child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          SizedBox(
-            width: 400,
-            child: Surface(
-              padding: const EdgeInsets.all(12),
-              child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-                field,
-                const SizedBox(height: 8),
-                SizedBox(height: MediaQuery.sizeOf(context).height - 56 - 48 - 24 - 56 - 60, child: list),
-                Padding(
-                  padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
-                  child: Text('Danh sách cuộn tới đúng chữ bạn gõ. ↑/↓ chọn, Enter mở. Từ đã lưu tô đỏ.', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            SizedBox(
+              width: 400,
+              child: Surface(
+                padding: const EdgeInsets.all(12),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    field,
+                    const SizedBox(height: 8),
+                    SizedBox(height: MediaQuery.sizeOf(context).height - 56 - 48 - 24 - 56 - 60, child: list),
+                    Padding(
+                      padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+                      child: Text('Danh sách cuộn tới đúng chữ bạn gõ. ↑/↓ chọn, Enter mở. Từ đã lưu tô đỏ.', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+                    ),
+                  ],
                 ),
-              ]),
+              ),
             ),
-          ),
-          const SizedBox(width: 24),
-          Expanded(
-            child: result == null
-                ? Surface(
-                    padding: const EdgeInsets.all(40),
-                    child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
-                      Icon(Icons.search, size: 40, color: g.fog),
-                      const SizedBox(height: 12),
-                      Text('Chọn một từ bên trái để xem mục từ.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-                      const SizedBox(height: 4),
-                      Text('Thứ tự tra: nghĩa nhanh → mục đầy đủ → dạng gốc → họ từ', style: theme.textTheme.bodySmall),
-                    ]),
-                  )
-                : SingleChildScrollView(child: EntryCard(result: result)),
-          ),
-        ]),
+            const SizedBox(width: 24),
+            Expanded(
+              child: result == null
+                  ? Surface(
+                      padding: const EdgeInsets.all(40),
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Icon(Icons.search, size: 40, color: g.fog),
+                          const SizedBox(height: 12),
+                          Text('Chọn một từ bên trái để xem mục từ.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                          const SizedBox(height: 4),
+                          Text('Thứ tự tra: nghĩa nhanh → mục đầy đủ → dạng gốc → họ từ', style: theme.textTheme.bodySmall),
+                        ],
+                      ),
+                    )
+                  : SingleChildScrollView(child: EntryCard(result: result)),
+            ),
+          ],
+        ),
       ),
     );
   }

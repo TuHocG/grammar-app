@@ -15,7 +15,9 @@ void main() {
     addTearDown(db.close);
     final json = jsonEncode({
       'format': 1,
-      'user_setting': [{'key': 'tts_speed', 'value': '5'}],
+      'user_setting': [
+        {'key': 'tts_speed', 'value': '5'},
+      ],
       'user_reading': [
         {'id': 3, 'package': 'Bài của tôi', 'title': 'Old', 'en': '[["Hi."]]', 'vi': '[["Chào."]]', 'img': null, 'grammar_refs': '[]', 'created_at': 1},
       ],
@@ -23,7 +25,7 @@ void main() {
     expect(importBackup(db, json), 2);
     expect(db.setting('tts_speed'), '5');
     expect(db.userReading(3)?.title, 'Old');
-    expect(db.grammarMarks(), isEmpty);   // table missing from the old backup: restored empty
+    expect(db.grammarMarks(), isEmpty); // table missing from the old backup: restored empty
   });
 
   test('grammar marks survive export → import', () {

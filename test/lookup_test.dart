@@ -43,13 +43,13 @@ void main() {
     expect(r.key, 'heard');
     expect(r.quick?.vi, 'đã nghe (quá khứ của Hear)');
     expect(r.ipa, 'hə:d');
-    expect(r.entries.first.headword, 'hear');   // full entry borrowed from the target
+    expect(r.entries.first.headword, 'hear'); // full entry borrowed from the target
     expect(r.entryHeadword, 'hear');
     expect(r.redirectedFrom, isNull);
   }, skip: !has);
 
   test('inflected form falls back to the base form', () {
-    final r = lookup.lookup('abandonning');   // not a headword; doubled consonant + -ing
+    final r = lookup.lookup('abandonning'); // not a headword; doubled consonant + -ing
     expect(r.found, isTrue);
     expect(r.key, 'abandon');
   }, skip: !has);

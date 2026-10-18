@@ -28,9 +28,7 @@ final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ]');
   final keys = List<String?>.filled(toks.length, null);
   final starts = List<bool>.filled(toks.length, false);
   final phrases = List<String?>.filled(toks.length, null);
-  final wordKey = [
-    for (final m in toks) _letterRe.hasMatch(m.group(0)!) ? searchKey(cleanToken(m.group(0)!)) : null,
-  ];
+  final wordKey = [for (final m in toks) _letterRe.hasMatch(m.group(0)!) ? searchKey(cleanToken(m.group(0)!)) : null];
   var maxWords = 1;
   for (final k in saved) {
     final n = ' '.allMatches(k).length + 1;
@@ -76,14 +74,11 @@ final _letterRe = RegExp(r'[A-Za-zÀ-ɏḀ-ỿɐ-ʯθ]');
 }
 
 /// Style of a saved word (red) and of a word of a saved word's family (underlined).
-TextStyle savedStyle(BuildContext context, TextStyle base) =>
-    base.copyWith(color: context.g.savedWord, fontWeight: FontWeight.w600);
-TextStyle familyStyle(BuildContext context, TextStyle base) =>
-    base.copyWith(decoration: TextDecoration.underline, decorationColor: context.g.savedWord, decorationThickness: 1.5);
+TextStyle savedStyle(BuildContext context, TextStyle base) => base.copyWith(color: context.g.savedWord, fontWeight: FontWeight.w600);
+TextStyle familyStyle(BuildContext context, TextStyle base) => base.copyWith(decoration: TextDecoration.underline, decorationColor: context.g.savedWord, decorationThickness: 1.5);
 
 /// True when [key] (or its base form: kicked → kick, came → come) is in [family].
-bool inSavedFamily(String key, Set<String> family) =>
-    family.contains(key) || baseFormCandidates(key).any(family.contains);
+bool inSavedFamily(String key, Set<String> family) => family.contains(key) || baseFormCandidates(key).any(family.contains);
 
 /// Builds the spans of [text]: one tappable span per word; saved words/phrases red, words
 /// of their families underlined. Tapping a word of a saved phrase looks up the phrase. Recognizers are appended to [recognizers]; the caller
@@ -96,6 +91,7 @@ List<InlineSpan> wordSpans(
   required List<GestureRecognizer> recognizers,
   String? contextSentence,
   String? source,
+
   /// Shown when the dictionary has nothing for the tapped token: the sentence's own
   /// Vietnamese line (the "Phiên Âm Quốc Tế" readings keep the reading there: "[béc sì phòm]").
   String? fallbackVi,
@@ -114,21 +110,23 @@ List<InlineSpan> wordSpans(
     final style = runs.keys[i] != null
         ? savedStyle(context, base)
         : inSavedFamily(searchKey(cleanToken(tok)), family)
-            ? familyStyle(context, base)
-            : base;
+        ? familyStyle(context, base)
+        : base;
     final rec = TapGestureRecognizer()..onTap = () => showQuickDef(context, ref, runs.phrases[i] ?? tok, contextSentence: contextSentence ?? text, source: source, fallbackVi: fallbackVi);
     recognizers.add(rec);
     // The word (or saved phrase) under the mouse is what F2 pre-fills (docs/08 G11).
     final hint = (word: cleanToken(runs.phrases[i] ?? tok), context: contextSentence ?? text, source: source);
-    spans.add(TextSpan(
-      text: tok,
-      style: style,
-      recognizer: rec,
-      onEnter: (_) => WordHints.hovered.value = hint,
-      onExit: (_) {
-        if (WordHints.hovered.value == hint) WordHints.hovered.value = null;
-      },
-    ));
+    spans.add(
+      TextSpan(
+        text: tok,
+        style: style,
+        recognizer: rec,
+        onEnter: (_) => WordHints.hovered.value = hint,
+        onExit: (_) {
+          if (WordHints.hovered.value == hint) WordHints.hovered.value = null;
+        },
+      ),
+    );
   }
   return spans;
 }
@@ -137,20 +135,13 @@ class WordTapText extends ConsumerStatefulWidget {
   final String text;
   final TextStyle? style;
   final TextAlign textAlign;
+
   /// Sentence shown as context when the user saves a word from this text.
   final String? context;
   final String? source;
   final bool highlighted;
 
-  const WordTapText(
-    this.text, {
-    super.key,
-    this.style,
-    this.textAlign = TextAlign.start,
-    this.context,
-    this.source,
-    this.highlighted = false,
-  });
+  const WordTapText(this.text, {super.key, this.style, this.textAlign = TextAlign.start, this.context, this.source, this.highlighted = false});
 
   @override
   ConsumerState<WordTapText> createState() => _WordTapTextState();

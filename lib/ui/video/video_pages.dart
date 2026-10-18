@@ -52,60 +52,70 @@ class _VideoListPageState extends ConsumerState<VideoListPage> {
     final dir = videoDir(db, ref.read(userDbProvider));
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: GrammarAppBar(
-        title: const Text('Video'),
-        helpSlug: 'video',
-      ),
-      body: Column(children: [
-        if (!Directory(dir).existsSync())
-          Padding(
-            padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
-            child: Material(
-              color: theme.colorScheme.secondaryContainer,
-              borderRadius: BorderRadius.circular(8),
-              child: ListTile(
-                leading: const Icon(Icons.movie_outlined),
-                title: const Text('Không tìm thấy thư mục video'),
-                subtitle: const Text('Đặt các file A 01.mp4 … vào thư mục video cạnh grammar.db, hoặc chọn thư mục khác trong Cài Đặt → Dữ liệu.'),
-                trailing: TextButton(onPressed: () async { await context.push('/settings'); setState(() {}); }, child: const Text('Mở Cài Đặt')),
+      appBar: GrammarAppBar(title: const Text('Video'), helpSlug: 'video'),
+      body: Column(
+        children: [
+          if (!Directory(dir).existsSync())
+            Padding(
+              padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
+              child: Material(
+                color: theme.colorScheme.secondaryContainer,
+                borderRadius: BorderRadius.circular(8),
+                child: ListTile(
+                  leading: const Icon(Icons.movie_outlined),
+                  title: const Text('Không tìm thấy thư mục video'),
+                  subtitle: const Text('Đặt các file A 01.mp4 … vào thư mục video cạnh grammar.db, hoặc chọn thư mục khác trong Cài Đặt → Dữ liệu.'),
+                  trailing: TextButton(
+                    onPressed: () async {
+                      await context.push('/settings');
+                      setState(() {});
+                    },
+                    child: const Text('Mở Cài Đặt'),
+                  ),
+                ),
               ),
             ),
+          Padding(
+            padding: const EdgeInsets.symmetric(vertical: 6),
+            child: SegmentedButton<String>(
+              showSelectedIcon: false,
+              segments: const [
+                ButtonSegment(value: 'A', label: Text('A · 57')),
+                ButtonSegment(value: 'B', label: Text('B · 68')),
+                ButtonSegment(value: 'C', label: Text('C · 80')),
+                ButtonSegment(value: 'F', label: Text('Phim · 5')),
+              ],
+              selected: {_group},
+              onSelectionChanged: (v) => setState(() => _group = v.first),
+            ),
           ),
-        Padding(
-          padding: const EdgeInsets.symmetric(vertical: 6),
-          child: SegmentedButton<String>(
-            showSelectedIcon: false,
-            segments: const [
-              ButtonSegment(value: 'A', label: Text('A · 57')),
-              ButtonSegment(value: 'B', label: Text('B · 68')),
-              ButtonSegment(value: 'C', label: Text('C · 80')),
-              ButtonSegment(value: 'F', label: Text('Phim · 5')),
-            ],
-            selected: {_group},
-            onSelectionChanged: (v) => setState(() => _group = v.first),
+          Expanded(
+            child: ListView.builder(
+              itemCount: films.length,
+              itemBuilder: (context, i) {
+                final f = films[i];
+                final file = dir.isEmpty ? null : findVideoFile(dir, f);
+                final mins = (f.duration / 60).round();
+                final current = f.id == lastId;
+                final icon = file == null ? Icon(Icons.videocam_off_outlined, color: theme.colorScheme.outline) : const Icon(Icons.play_circle_outline);
+                return ListTile(
+                  leading: CircleAvatar(child: Text(f.code.split(' ').last)),
+                  title: Text(
+                    f.group == 'F' ? f.title : (f.firstLine ?? f.code),
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: current ? const TextStyle(fontWeight: FontWeight.w600) : null,
+                  ),
+                  subtitle: Text('${f.code} · $mins phút · ${f.lines} câu', style: theme.textTheme.bodySmall),
+                  // Same marker as the Luyện Nghe list for the episode watched last.
+                  trailing: current ? Row(mainAxisSize: MainAxisSize.min, children: [const SoftBadge('Đang luyện'), const SizedBox(width: 8), icon]) : icon,
+                  onTap: () => context.push('/video/${f.id}'),
+                );
+              },
+            ),
           ),
-        ),
-        Expanded(
-          child: ListView.builder(
-            itemCount: films.length,
-            itemBuilder: (context, i) {
-              final f = films[i];
-              final file = dir.isEmpty ? null : findVideoFile(dir, f);
-              final mins = (f.duration / 60).round();
-              final current = f.id == lastId;
-              final icon = file == null ? Icon(Icons.videocam_off_outlined, color: theme.colorScheme.outline) : const Icon(Icons.play_circle_outline);
-              return ListTile(
-                leading: CircleAvatar(child: Text(f.code.split(' ').last)),
-                title: Text(f.group == 'F' ? f.title : (f.firstLine ?? f.code), maxLines: 1, overflow: TextOverflow.ellipsis, style: current ? const TextStyle(fontWeight: FontWeight.w600) : null),
-                subtitle: Text('${f.code} · $mins phút · ${f.lines} câu', style: theme.textTheme.bodySmall),
-                // Same marker as the Luyện Nghe list for the episode watched last.
-                trailing: current ? Row(mainAxisSize: MainAxisSize.min, children: [const SoftBadge('Đang luyện'), const SizedBox(width: 8), icon]) : icon,
-                onTap: () => context.push('/video/${f.id}'),
-              );
-            },
-          ),
-        ),
-      ]),
+        ],
+      ),
     );
   }
 }
@@ -126,7 +136,7 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
   int _idx = -1;
   bool _showEn = true;
   bool _showVi = true;
-  int _loop = 0;          // number of sentences to loop (0 = off)
+  int _loop = 0; // number of sentences to loop (0 = off)
   int _loopStart = 0;
   StreamSubscription<Duration>? _posSub;
   bool _playing = false;
@@ -144,7 +154,9 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
       if (_file != null) {
         _player.open(Media(_file!.path));
         _posSub = _player.stream.position.listen(_onPosition);
-        _player.stream.playing.listen((v) { if (mounted) setState(() => _playing = v); });
+        _player.stream.playing.listen((v) {
+          if (mounted) setState(() => _playing = v);
+        });
       }
     }
   }
@@ -254,48 +266,57 @@ class _VideoPlayerPageState extends ConsumerState<VideoPlayerPage> {
         appBar: GrammarAppBar(
           title: Text('${f.code} · ${f.group == 'F' ? f.title : (f.firstLine ?? '')}', maxLines: 1, overflow: TextOverflow.ellipsis),
           actions: [
-            IconButton(tooltip: 'Phụ đề Anh', icon: Icon(Icons.subtitles, color: _showEn ? theme.colorScheme.primary : null), onPressed: () => setState(() => _showEn = !_showEn)),
-            IconButton(tooltip: 'Phụ đề Việt', icon: Icon(Icons.translate, color: _showVi ? theme.colorScheme.primary : null), onPressed: () => setState(() => _showVi = !_showVi)),
+            IconButton(
+              tooltip: 'Phụ đề Anh',
+              icon: Icon(Icons.subtitles, color: _showEn ? theme.colorScheme.primary : null),
+              onPressed: () => setState(() => _showEn = !_showEn),
+            ),
+            IconButton(
+              tooltip: 'Phụ đề Việt',
+              icon: Icon(Icons.translate, color: _showVi ? theme.colorScheme.primary : null),
+              onPressed: () => setState(() => _showVi = !_showVi),
+            ),
           ],
         ),
-        body: Column(children: [
-          Expanded(
-            child: Container(
-              color: Colors.black,
-              alignment: Alignment.center,
-              child: Video(controller: _ctl, controls: NoVideoControls),
+        body: Column(
+          children: [
+            Expanded(
+              child: Container(
+                color: Colors.black,
+                alignment: Alignment.center,
+                child: Video(controller: _ctl, controls: NoVideoControls),
+              ),
             ),
-          ),
-          Container(
-            width: double.infinity,
-            padding: const EdgeInsets.fromLTRB(16, 10, 16, 6),
-            constraints: const BoxConstraints(minHeight: 92),
-            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              if (line != null && _showEn) WordTapText(line.en, style: theme.textTheme.titleMedium, context: line.en, source: 'video:${f.code}'),
-              if (line != null && _showVi && line.vi.isNotEmpty) Text(line.vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-              if (line == null) Text('…', style: theme.textTheme.titleMedium),
-            ]),
-          ),
-          StreamBuilder<Duration>(
-            stream: _player.stream.position,
-            builder: (context, snap) => VideoSeekBar(
-              position: snap.data ?? _player.state.position,
-              duration: _player.state.duration,
-              onSeek: _seekToTime,
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.fromLTRB(16, 10, 16, 6),
+              constraints: const BoxConstraints(minHeight: 92),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  if (line != null && _showEn) WordTapText(line.en, style: theme.textTheme.titleMedium, context: line.en, source: 'video:${f.code}'),
+                  if (line != null && _showVi && line.vi.isNotEmpty) Text(line.vi, style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
+                  if (line == null) Text('…', style: theme.textTheme.titleMedium),
+                ],
+              ),
             ),
-          ),
-          VideoControlBar(
-            position: _idx < 0 ? 'Đầu video · ${_lines.length} câu' : 'Câu ${_idx + 1}/${_lines.length}',
-            playing: _playing,
-            loop: _loop,
-            onRestart: _restart,
-            onPrev: () => _seekTo(_idx - 1),
-            onReplay: () => _seekTo(_idx < 0 ? 0 : _idx),
-            onPlayPause: _player.playOrPause,
-            onNext: () => _seekTo(_idx + 1),
-            onLoop: _setLoop,
-          ),
-        ]),
+            StreamBuilder<Duration>(
+              stream: _player.stream.position,
+              builder: (context, snap) => VideoSeekBar(position: snap.data ?? _player.state.position, duration: _player.state.duration, onSeek: _seekToTime),
+            ),
+            VideoControlBar(
+              position: _idx < 0 ? 'Đầu video · ${_lines.length} câu' : 'Câu ${_idx + 1}/${_lines.length}',
+              playing: _playing,
+              loop: _loop,
+              onRestart: _restart,
+              onPrev: () => _seekTo(_idx - 1),
+              onReplay: () => _seekTo(_idx < 0 ? 0 : _idx),
+              onPlayPause: _player.playOrPause,
+              onNext: () => _seekTo(_idx + 1),
+              onLoop: _setLoop,
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -315,7 +336,7 @@ class VideoSeekBar extends StatefulWidget {
 }
 
 class _VideoSeekBarState extends State<VideoSeekBar> {
-  double? _drag;   // seconds under the thumb while dragging
+  double? _drag; // seconds under the thumb while dragging
 
   static String _clock(double secs) {
     final s = secs.round();
@@ -331,25 +352,27 @@ class _VideoSeekBarState extends State<VideoSeekBar> {
     final style = theme.textTheme.bodySmall?.copyWith(fontFeatures: const [FontFeature.tabularFigures()]);
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16),
-      child: Row(children: [
-        Text(_clock(now), style: style),
-        Expanded(
-          child: SliderTheme(
-            data: SliderTheme.of(context).copyWith(showValueIndicator: ShowValueIndicator.onDrag),
-            child: Slider(
-              value: now,
-              max: total > 0 ? total : 1,
-              label: _clock(now),
-              onChanged: total > 0 ? (v) => setState(() => _drag = v) : null,
-              onChangeEnd: (v) {
-                setState(() => _drag = null);
-                widget.onSeek(Duration(milliseconds: (v * 1000).round()));
-              },
+      child: Row(
+        children: [
+          Text(_clock(now), style: style),
+          Expanded(
+            child: SliderTheme(
+              data: SliderTheme.of(context).copyWith(showValueIndicator: ShowValueIndicator.onDrag),
+              child: Slider(
+                value: now,
+                max: total > 0 ? total : 1,
+                label: _clock(now),
+                onChanged: total > 0 ? (v) => setState(() => _drag = v) : null,
+                onChangeEnd: (v) {
+                  setState(() => _drag = null);
+                  widget.onSeek(Duration(milliseconds: (v * 1000).round()));
+                },
+              ),
             ),
           ),
-        ),
-        Text(_clock(total), style: style),
-      ]),
+          Text(_clock(total), style: style),
+        ],
+      ),
     );
   }
 }
@@ -363,39 +386,66 @@ class VideoControlBar extends StatelessWidget {
   final int loop;
   final VoidCallback onRestart, onPrev, onReplay, onPlayPause, onNext;
   final ValueChanged<int> onLoop;
-  const VideoControlBar({super.key, required this.position, required this.playing, required this.loop, required this.onRestart, required this.onPrev, required this.onReplay, required this.onPlayPause, required this.onNext, required this.onLoop});
+  const VideoControlBar({
+    super.key,
+    required this.position,
+    required this.playing,
+    required this.loop,
+    required this.onRestart,
+    required this.onPrev,
+    required this.onReplay,
+    required this.onPlayPause,
+    required this.onNext,
+    required this.onLoop,
+  });
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final narrow = MediaQuery.sizeOf(context).width < 600;
     final pos = Text(position, style: theme.textTheme.bodySmall);
-    final transport = Row(mainAxisSize: MainAxisSize.min, children: [
-      IconButton(tooltip: 'Phát lại từ đầu (Home)', icon: const Icon(Icons.first_page), onPressed: onRestart),
-      IconButton(tooltip: 'Câu trước (↑)', icon: const Icon(Icons.skip_previous), onPressed: onPrev),
-      IconButton(tooltip: 'Nghe lại câu (←)', icon: const Icon(Icons.replay), onPressed: onReplay),
-      IconButton(iconSize: 40, icon: Icon(playing ? Icons.pause_circle : Icons.play_circle), onPressed: onPlayPause),
-      IconButton(tooltip: 'Câu kế (→)', icon: const Icon(Icons.skip_next), onPressed: onNext),
-    ]);
-    final repeat = Row(mainAxisSize: MainAxisSize.min, children: [
-      Text('Số câu lặp', style: theme.textTheme.bodySmall),
-      IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.remove), onPressed: loop > 0 ? () => onLoop(loop - 1) : null),
-      Text('$loop', style: theme.textTheme.titleMedium),
-      IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.add), onPressed: loop < 10 ? () => onLoop(loop + 1) : null),
-    ]);
+    final transport = Row(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        IconButton(tooltip: 'Phát lại từ đầu (Home)', icon: const Icon(Icons.first_page), onPressed: onRestart),
+        IconButton(tooltip: 'Câu trước (↑)', icon: const Icon(Icons.skip_previous), onPressed: onPrev),
+        IconButton(tooltip: 'Nghe lại câu (←)', icon: const Icon(Icons.replay), onPressed: onReplay),
+        IconButton(iconSize: 40, icon: Icon(playing ? Icons.pause_circle : Icons.play_circle), onPressed: onPlayPause),
+        IconButton(tooltip: 'Câu kế (→)', icon: const Icon(Icons.skip_next), onPressed: onNext),
+      ],
+    );
+    final repeat = Row(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        Text('Số câu lặp', style: theme.textTheme.bodySmall),
+        IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.remove), onPressed: loop > 0 ? () => onLoop(loop - 1) : null),
+        Text('$loop', style: theme.textTheme.titleMedium),
+        IconButton(visualDensity: VisualDensity.compact, icon: const Icon(Icons.add), onPressed: loop < 10 ? () => onLoop(loop + 1) : null),
+      ],
+    );
     return SafeArea(
       top: false,
       child: Padding(
         padding: const EdgeInsets.fromLTRB(8, 0, 8, 6),
         child: narrow
-            ? Column(mainAxisSize: MainAxisSize.min, children: [
-                transport,
-                // The sentence number gives way first when the text is large.
-                Padding(
-                  padding: const EdgeInsets.only(left: 8),
-                  child: Row(children: [Expanded(child: Text(position, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodySmall)), repeat]),
-                ),
-              ])
+            ? Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  transport,
+                  // The sentence number gives way first when the text is large.
+                  Padding(
+                    padding: const EdgeInsets.only(left: 8),
+                    child: Row(
+                      children: [
+                        Expanded(
+                          child: Text(position, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodySmall),
+                        ),
+                        repeat,
+                      ],
+                    ),
+                  ),
+                ],
+              )
             : Row(children: [pos, const Spacer(), transport, const Spacer(), repeat]),
       ),
     );

@@ -13,8 +13,10 @@ class AppHelpTopic {
   final String slug;
   final String title;
   final IconData icon;
+
   /// Một dòng tóm tắt, hiện trên thẻ ở trang danh sách.
   final String summary;
+
   /// Nhóm trên trang danh sách.
   final String section;
   final String body;

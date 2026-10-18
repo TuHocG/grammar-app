@@ -38,21 +38,27 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
     final last = lastRead == null || lastRead.sid == 0 ? null : lastRead;
 
     return Scaffold(
-      appBar: GrammarAppBar(
-        crumbs: const [Crumb('Bài Đọc')],
-        helpSlug: 'bai-doc',
-      ),
+      appBar: GrammarAppBar(crumbs: const [Crumb('Bài Đọc')], helpSlug: 'bai-doc'),
       body: RailListView(
         maxWidth: 960,
         children: [
-          Row(crossAxisAlignment: CrossAxisAlignment.end, children: [
-            Expanded(
-              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                Text('Bài Đọc', style: theme.textTheme.headlineLarge),
-                Text('${root.children.where((s) => s.sid != 0).fold(0, (a, s) => a + s.totalReadings)} bài trong ${root.children.where((s) => s.sid != 0).length} nhóm · chạm từ để tra, chạm câu để dịch', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-              ]),
-            ),
-          ]),
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.end,
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text('Bài Đọc', style: theme.textTheme.headlineLarge),
+                    Text(
+                      '${root.children.where((s) => s.sid != 0).fold(0, (a, s) => a + s.totalReadings)} bài trong ${root.children.where((s) => s.sid != 0).length} nhóm · chạm từ để tra, chạm câu để dịch',
+                      style: theme.textTheme.bodyLarge?.copyWith(color: g.slate),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
           const SizedBox(height: 16),
           SearchPill(hint: 'Tìm bài theo tên', onChanged: (v) => setState(() => _filter = v.trim())),
           const SizedBox(height: 16),
@@ -65,34 +71,47 @@ class _ReadingTocPageState extends ConsumerState<ReadingTocPage> {
                 child: Surface(
                   onTap: () => context.push('/readings/${last.id}'),
                   padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
-                  child: Row(children: [
-                    ClipRRect(
-                      borderRadius: BorderRadius.circular(8),
-                      child: SizedBox(
-                        width: 72,
-                        height: 56,
-                        child: last.img != null
-                            ? Image(image: db.imageProvider(last.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.menu_book_outlined, size: 56))
-                            : const IconTile(Icons.menu_book_outlined, size: 56),
+                  child: Row(
+                    children: [
+                      ClipRRect(
+                        borderRadius: BorderRadius.circular(8),
+                        child: SizedBox(
+                          width: 72,
+                          height: 56,
+                          child: last.img != null
+                              ? Image(image: db.imageProvider(last.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.menu_book_outlined, size: 56))
+                              : const IconTile(Icons.menu_book_outlined, size: 56),
+                        ),
                       ),
-                    ),
-                    const SizedBox(width: 14),
-                    Expanded(
-                      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                        Text('Đang đọc · ${db.section(last.sid)?.title ?? ''}', style: theme.textTheme.bodySmall, maxLines: 1, overflow: TextOverflow.ellipsis),
-                        Text(last.title, style: ReadingStyles.line(context).copyWith(fontSize: 18, fontWeight: FontWeight.w600), maxLines: 1, overflow: TextOverflow.ellipsis),
-                      ]),
-                    ),
-                    FilledButton(onPressed: () => context.push('/readings/${last.id}'), child: const Text('Tiếp tục')),
-                  ]),
+                      const SizedBox(width: 14),
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text('Đang đọc · ${db.section(last.sid)?.title ?? ''}', style: theme.textTheme.bodySmall, maxLines: 1, overflow: TextOverflow.ellipsis),
+                            Text(
+                              last.title,
+                              style: ReadingStyles.line(context).copyWith(fontSize: 18, fontWeight: FontWeight.w600),
+                              maxLines: 1,
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                          ],
+                        ),
+                      ),
+                      FilledButton(onPressed: () => context.push('/readings/${last.id}'), child: const Text('Tiếp tục')),
+                    ],
+                  ),
                 ),
               ),
             Surface(
               padding: const EdgeInsets.all(8),
-              child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-                // Section 0 (Phiên Âm Quốc Tế) is its own home-menu item (/ipa).
-                for (final s in root.children.where((s) => s.sid != 0)) _SectionTile(section: s, initiallyExpanded: s.sid == lastSid || _containsSid(s, lastSid)),
-              ]),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  // Section 0 (Phiên Âm Quốc Tế) is its own home-menu item (/ipa).
+                  for (final s in root.children.where((s) => s.sid != 0)) _SectionTile(section: s, initiallyExpanded: s.sid == lastSid || _containsSid(s, lastSid)),
+                ],
+              ),
             ),
           ],
         ],
@@ -156,14 +175,16 @@ class _SearchResults extends StatelessWidget {
     if (hits.isEmpty) return const EmptyNote('Không có bài nào khớp.');
     return Surface(
       padding: const EdgeInsets.all(8),
-      child: Column(children: [
-        for (final h in hits)
-          ListTile(
-            title: Text(h.title, style: ReadingStyles.line(context).copyWith(fontSize: 16)),
-            trailing: h.hasAudio ? Icon(Icons.graphic_eq, size: 18, color: g.fog) : null,
-            onTap: () => context.push('/readings/${h.id}'),
-          ),
-      ]),
+      child: Column(
+        children: [
+          for (final h in hits)
+            ListTile(
+              title: Text(h.title, style: ReadingStyles.line(context).copyWith(fontSize: 16)),
+              trailing: h.hasAudio ? Icon(Icons.graphic_eq, size: 18, color: g.fog) : null,
+              onTap: () => context.push('/readings/${h.id}'),
+            ),
+        ],
+      ),
     );
   }
 }
@@ -198,32 +219,45 @@ class ReadingListPage extends ConsumerWidget {
                 Surface(
                   onTap: () => context.push('/readings/${r.id}'),
                   padding: const EdgeInsets.all(12),
-                  child: Row(children: [
-                    ClipRRect(
-                      borderRadius: BorderRadius.circular(8),
-                      child: SizedBox(
-                        width: 56,
-                        height: 56,
-                        child: r.img != null
-                            ? Image(image: db.imageProvider(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.menu_book_outlined, size: 56))
-                            : const IconTile(Icons.menu_book_outlined, size: 56),
+                  child: Row(
+                    children: [
+                      ClipRRect(
+                        borderRadius: BorderRadius.circular(8),
+                        child: SizedBox(
+                          width: 56,
+                          height: 56,
+                          child: r.img != null
+                              ? Image(image: db.imageProvider(r.img!), fit: BoxFit.cover, errorBuilder: (_, _, _) => const IconTile(Icons.menu_book_outlined, size: 56))
+                              : const IconTile(Icons.menu_book_outlined, size: 56),
+                        ),
                       ),
-                    ),
-                    const SizedBox(width: 12),
-                    Expanded(
-                      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                        Text(r.title, style: ReadingStyles.line(context).copyWith(fontSize: 16, fontWeight: r.id == lastId ? FontWeight.w600 : FontWeight.w400), maxLines: 2, overflow: TextOverflow.ellipsis),
-                        if (r.id == lastId || r.hasAudio)
-                          Padding(
-                            padding: const EdgeInsets.only(top: 4),
-                            child: Wrap(spacing: 6, children: [
-                              if (r.id == lastId) const SoftBadge('Đang đọc'),
-                              if (r.hasAudio) SoftBadge('MP3', color: g.slate, background: g.canvas),
-                            ]),
-                          ),
-                      ]),
-                    ),
-                  ]),
+                      const SizedBox(width: 12),
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              r.title,
+                              style: ReadingStyles.line(context).copyWith(fontSize: 16, fontWeight: r.id == lastId ? FontWeight.w600 : FontWeight.w400),
+                              maxLines: 2,
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                            if (r.id == lastId || r.hasAudio)
+                              Padding(
+                                padding: const EdgeInsets.only(top: 4),
+                                child: Wrap(
+                                  spacing: 6,
+                                  children: [
+                                    if (r.id == lastId) const SoftBadge('Đang đọc'),
+                                    if (r.hasAudio) SoftBadge('MP3', color: g.slate, background: g.canvas),
+                                  ],
+                                ),
+                              ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
             ],
           ),

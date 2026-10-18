@@ -33,6 +33,7 @@ import '../widgets/word_tap_text.dart';
 
 class ReadingPage extends ConsumerStatefulWidget {
   final int id;
+
   /// Opened from the Phân Tích Câu list: breadcrumbs lead back there.
   final bool fromAnalysis;
   const ReadingPage({super.key, required this.id, this.fromAnalysis = false});
@@ -46,11 +47,14 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
   bool _showAllVi = false;
   final Set<int> _openVi = {};
   int? _speaking;
+
   /// Phrase currently selected in the article (cleaned), or null. A notifier so the
   /// floating button updates without rebuilding the selectable text.
   final ValueNotifier<String?> _phrase = ValueNotifier(null);
+
   /// Analysis of every '|' token (Phân Tích Câu units), null for ordinary readings.
   List<AnalysisWord>? _analysis;
+
   /// First global token index of each sentence (by idx) in analysis mode.
   final Map<int, int> _tokenStart = {};
 
@@ -72,11 +76,8 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
       if (_reading!.sid >= 0) ref.read(userDbProvider).setProgress('reading', 'last_in_${_reading!.sid}', '${_reading!.id}');
       ref.read(userDbProvider).setProgress('reading', 'last_reading', '${_reading!.id}');
       if (widget.fromAnalysis && lesson != null) ref.read(userDbProvider).setProgress('analysis', 'last', '$lesson');
-      _player = SentencePlayer(
-        tts: ref.read(ttsProvider),
-        reading: _reading!,
-        audioPath: _reading!.hasRealAudio ? audioPathFor(ref, _reading!.audio) : null,
-      )..addListener(() {
+      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: _reading!, audioPath: _reading!.hasRealAudio ? audioPathFor(ref, _reading!.audio) : null)
+        ..addListener(() {
           if (mounted) setState(() => _speaking = _player!.state == PlayerState.playing ? _player!.index : null);
         });
     }
@@ -107,14 +108,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
 
   void _tapToken(int global, String tok, Sentence s) {
     final a = _analysis;
-    showAnalysisCard(
-      context,
-      ref,
-      word: a != null && global < a.length ? a[global] : null,
-      token: tok,
-      sentence: s.en,
-      source: 'reading:${_reading!.id}',
-    );
+    showAnalysisCard(context, ref, word: a != null && global < a.length ? a[global] : null, token: tok, sentence: s.en, source: 'reading:${_reading!.id}');
   }
 
   /// Tap a sentence number: one rule only. Closed → open the translation and read the
@@ -174,108 +168,136 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
             ...state.contextMenuButtonItems,
           ],
         ),
-        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        if (r.img != null) ...[
-          Center(
-            child: ClipRRect(
-              borderRadius: BorderRadius.circular(Tokens.radiusCard),
-              child: ConstrainedBox(
-                constraints: const BoxConstraints(maxHeight: 300),
-                child: Image(image: isUser ? FileImage(File(r.img!)) : db.imageProvider(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
-              ),
-            ),
-          ),
-          const SizedBox(height: 20),
-        ],
-        Row(crossAxisAlignment: CrossAxisAlignment.center, children: [
-          Expanded(child: WordTapText(r.title, style: ReadingStyles.title(context), source: src)),
-          const SizedBox(width: 8),
-          RoundIconButton(icon: Icons.volume_up_outlined, tooltip: 'Đọc tựa đề', size: 36, onPressed: () => r.hasRealAudio && r.titleAudio ? _player?.playTitle() : ref.read(ttsProvider).speak(r.title)),
-          if (r.page != null) ...[const SizedBox(width: 12), Text('Trang ${r.page}', style: theme.textTheme.bodySmall?.copyWith(color: g.fog))],
-        ]),
-        const SizedBox(height: 16),
-        for (final para in r.paragraphs) ...[
-          _Paragraph(
-            sentences: para,
-            source: src,
-            speaking: _speaking,
-            onTapNumber: _tapSentence,
-            onToken: _analysis == null ? null : _tapToken,
-            tokenStart: _tokenStart,
-          ),
-          if (_showAllVi && para.any((s) => s.vi.isNotEmpty))
-            Padding(
-              padding: const EdgeInsets.only(top: 6),
-              child: Text(para.map((s) => s.vi).where((v) => v.isNotEmpty).join(' '), style: theme.textTheme.bodyLarge?.copyWith(color: g.slate, height: 1.6)),
-            ),
-          for (final s in para.where((s) => _openVi.contains(s.idx)))
-            Padding(
-              padding: const EdgeInsets.only(top: 10),
-              child: LilacPanel(
-                child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  Padding(padding: const EdgeInsets.only(top: 3), child: SoftBadge('Câu ${s.idx + 1}', background: g.card)),
-                  const SizedBox(width: 12),
-                  Expanded(
-                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                      Text(s.en, style: ReadingStyles.line(context).copyWith(fontSize: 16)),
-                      if (s.vi.isNotEmpty) Text(s.vi, style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-                    ]),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            if (r.img != null) ...[
+              Center(
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(Tokens.radiusCard),
+                  child: ConstrainedBox(
+                    constraints: const BoxConstraints(maxHeight: 300),
+                    child: Image(image: isUser ? FileImage(File(r.img!)) : db.imageProvider(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
                   ),
-                  const SizedBox(width: 8),
-                  RoundIconButton(icon: _speaking == s.idx ? Icons.stop_circle_outlined : Icons.volume_up_outlined, tooltip: _speaking == s.idx ? 'Dừng' : 'Đọc lại câu', size: 36, onPressed: () => _speakOrStop(s.idx)),
-                  RoundIconButton(icon: Icons.close, tooltip: 'Đóng', size: 36, onPressed: () => setState(() => _openVi.remove(s.idx))),
-                ]),
+                ),
               ),
+              const SizedBox(height: 20),
+            ],
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                Expanded(
+                  child: WordTapText(r.title, style: ReadingStyles.title(context), source: src),
+                ),
+                const SizedBox(width: 8),
+                RoundIconButton(
+                  icon: Icons.volume_up_outlined,
+                  tooltip: 'Đọc tựa đề',
+                  size: 36,
+                  onPressed: () => r.hasRealAudio && r.titleAudio ? _player?.playTitle() : ref.read(ttsProvider).speak(r.title),
+                ),
+                if (r.page != null) ...[const SizedBox(width: 12), Text('Trang ${r.page}', style: theme.textTheme.bodySmall?.copyWith(color: g.fog))],
+              ],
             ),
-          const SizedBox(height: 18),
-        ],
-      ]),
+            const SizedBox(height: 16),
+            for (final para in r.paragraphs) ...[
+              _Paragraph(sentences: para, source: src, speaking: _speaking, onTapNumber: _tapSentence, onToken: _analysis == null ? null : _tapToken, tokenStart: _tokenStart),
+              if (_showAllVi && para.any((s) => s.vi.isNotEmpty))
+                Padding(
+                  padding: const EdgeInsets.only(top: 6),
+                  child: Text(para.map((s) => s.vi).where((v) => v.isNotEmpty).join(' '), style: theme.textTheme.bodyLarge?.copyWith(color: g.slate, height: 1.6)),
+                ),
+              for (final s in para.where((s) => _openVi.contains(s.idx)))
+                Padding(
+                  padding: const EdgeInsets.only(top: 10),
+                  child: LilacPanel(
+                    child: Row(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Padding(
+                          padding: const EdgeInsets.only(top: 3),
+                          child: SoftBadge('Câu ${s.idx + 1}', background: g.card),
+                        ),
+                        const SizedBox(width: 12),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(s.en, style: ReadingStyles.line(context).copyWith(fontSize: 16)),
+                              if (s.vi.isNotEmpty) Text(s.vi, style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        RoundIconButton(
+                          icon: _speaking == s.idx ? Icons.stop_circle_outlined : Icons.volume_up_outlined,
+                          tooltip: _speaking == s.idx ? 'Dừng' : 'Đọc lại câu',
+                          size: 36,
+                          onPressed: () => _speakOrStop(s.idx),
+                        ),
+                        RoundIconButton(icon: Icons.close, tooltip: 'Đóng', size: 36, onPressed: () => setState(() => _openVi.remove(s.idx))),
+                      ],
+                    ),
+                  ),
+                ),
+              const SizedBox(height: 18),
+            ],
+          ],
+        ),
       ),
     );
 
-    final toolbar = Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
-      FilledButton.icon(onPressed: () => context.push('/readings/${r.id}/listen'), icon: const Icon(Icons.play_arrow_rounded, size: 20), label: const Text('Nghe toàn bài')),
-      OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/scramble'), icon: const Icon(Icons.shuffle, size: 18), label: const Text('Xếp từ')),
-      OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/dialog'), icon: const Icon(Icons.forum_outlined, size: 18), label: const Text('Đàm thoại')),
-      OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/dictation'), icon: const Icon(Icons.keyboard_alt_outlined, size: 18), label: const Text('Nghe viết')),
-      if (r.hasRealAudio)
-        Padding(
-          padding: const EdgeInsets.only(left: 8),
-          child: Row(mainAxisSize: MainAxisSize.min, children: [
-            Icon(Icons.graphic_eq, size: 16, color: g.slate),
-            const SizedBox(width: 6),
-            Text('Bài này có giọng đọc thật', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
-          ]),
-        ),
-    ]);
+    final toolbar = Wrap(
+      spacing: 8,
+      runSpacing: 8,
+      crossAxisAlignment: WrapCrossAlignment.center,
+      children: [
+        FilledButton.icon(onPressed: () => context.push('/readings/${r.id}/listen'), icon: const Icon(Icons.play_arrow_rounded, size: 20), label: const Text('Nghe toàn bài')),
+        OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/scramble'), icon: const Icon(Icons.shuffle, size: 18), label: const Text('Xếp từ')),
+        OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/dialog'), icon: const Icon(Icons.forum_outlined, size: 18), label: const Text('Đàm thoại')),
+        OutlinedButton.icon(onPressed: () => context.push('/readings/${r.id}/dictation'), icon: const Icon(Icons.keyboard_alt_outlined, size: 18), label: const Text('Nghe viết')),
+        if (r.hasRealAudio)
+          Padding(
+            padding: const EdgeInsets.only(left: 8),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Icon(Icons.graphic_eq, size: 16, color: g.slate),
+                const SizedBox(width: 6),
+                Text('Bài này có giọng đọc thật', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+              ],
+            ),
+          ),
+      ],
+    );
 
     final main = Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [toolbar, const SizedBox(height: 16), article]);
 
     Widget body;
     if (wide && siblings.length > 1) {
-      body = Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        SizedBox(
-          width: 280,
-          child: Surface(
-            padding: const EdgeInsets.all(8),
-            child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-              Padding(
-                padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
-                child: Text(section!.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
+      body = Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          SizedBox(
+            width: 280,
+            child: Surface(
+              padding: const EdgeInsets.all(8),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
+                    child: Text(section!.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
+                  ),
+                  for (final s in siblings) TocRow(title: s.title, selected: s.id == r.id, audio: s.hasAudio, onTap: s.id == r.id ? null : () => context.pushReplacement('/readings/${s.id}')),
+                ],
               ),
-              for (final s in siblings)
-                TocRow(
-                  title: s.title,
-                  selected: s.id == r.id,
-                  audio: s.hasAudio,
-                  onTap: s.id == r.id ? null : () => context.pushReplacement('/readings/${s.id}'),
-                ),
-            ]),
+            ),
           ),
-        ),
-        const SizedBox(width: 24),
-        Expanded(child: main),
-      ]);
+          const SizedBox(width: 24),
+          Expanded(child: main),
+        ],
+      );
     } else {
       body = main;
     }
@@ -284,21 +306,20 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
       appBar: GrammarAppBar(
         crumbs: widget.fromAnalysis
             ? [const Crumb('Phân Tích Câu', '/analysis'), Crumb(r.title)]
-            : [
-                Crumb(isUser ? 'Bài Nhập Của Bạn' : 'Bài Đọc', isUser ? '/my-readings' : '/readings'),
-                if (section != null) Crumb(section.title, '/readings/section/${section.sid}'),
-                Crumb(r.title),
-              ],
+            : [Crumb(isUser ? 'Bài Nhập Của Bạn' : 'Bài Đọc', isUser ? '/my-readings' : '/readings'), if (section != null) Crumb(section.title, '/readings/section/${section.sid}'), Crumb(r.title)],
         helpSlug: 'bai-doc',
         actions: [
           if (wide)
             Padding(
               padding: const EdgeInsets.only(right: 8),
-              child: Row(mainAxisSize: MainAxisSize.min, children: [
-                Switch(value: _showAllVi, onChanged: (v) => setState(() => _showAllVi = v)),
-                const SizedBox(width: 4),
-                Text('Bản dịch', style: theme.textTheme.bodyMedium),
-              ]),
+              child: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Switch(value: _showAllVi, onChanged: (v) => setState(() => _showAllVi = v)),
+                  const SizedBox(width: 4),
+                  Text('Bản dịch', style: theme.textTheme.bodyMedium),
+                ],
+              ),
             )
           else
             RoundIconButton(icon: Icons.translate, tooltip: _showAllVi ? 'Ẩn bản dịch' : 'Hiện bản dịch', active: _showAllVi, onPressed: () => setState(() => _showAllVi = !_showAllVi)),
@@ -313,18 +334,19 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
           if (phrase == null) return const SizedBox.shrink();
           final short = phrase.length > 36 ? '${phrase.substring(0, 34)}…' : phrase;
           final multi = phrase.contains(' ');
-          return FloatingActionButton.extended(
-            onPressed: () => _lookupPhrase(phrase, src),
-            icon: const Icon(Icons.search),
-            label: Text(multi ? 'Tra cụm “$short”' : 'Tra “$short”'),
-          );
+          return FloatingActionButton.extended(onPressed: () => _lookupPhrase(phrase, src), icon: const Icon(Icons.search), label: Text(multi ? 'Tra cụm “$short”' : 'Tra “$short”'));
         },
       ),
       bottomNavigationBar: PrevNextBar(
         onPrev: prev == null ? null : () => context.pushReplacement('/readings/$prev'),
         onNext: next == null ? null : () => context.pushReplacement('/readings/$next'),
         nextLabel: nextTitle == null ? 'Bài kế' : 'Bài kế: $nextTitle',
-        middle: wide ? Text(_analysis != null ? 'Chạm từ để xem phân tích và nghĩa · chạm số câu để dịch và nghe' : 'Chạm từ để tra · chạm số câu để dịch và nghe · bôi đen cụm từ để tra cụm', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)) : null,
+        middle: wide
+            ? Text(
+                _analysis != null ? 'Chạm từ để xem phân tích và nghĩa · chạm số câu để dịch và nghe' : 'Chạm từ để tra · chạm số câu để dịch và nghe · bôi đen cụm từ để tra cụm',
+                style: theme.textTheme.bodyMedium?.copyWith(color: g.slate),
+              )
+            : null,
       ),
     );
   }
@@ -344,6 +366,7 @@ class TocRow extends StatelessWidget {
   final String title;
   final bool selected;
   final bool audio;
+
   /// Extra mark at the end of the row (e.g. "has picked spots").
   final Widget? trailing;
   final VoidCallback? onTap;
@@ -360,11 +383,20 @@ class TocRow extends StatelessWidget {
         borderRadius: BorderRadius.circular(4),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-          child: Row(children: [
-            Expanded(child: Text(title, maxLines: 2, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodyMedium?.copyWith(color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400))),
-            if (audio) Icon(Icons.graphic_eq, size: 14, color: selected ? g.iris : g.fog),
-            ?trailing,
-          ]),
+          child: Row(
+            children: [
+              Expanded(
+                child: Text(
+                  title,
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: theme.textTheme.bodyMedium?.copyWith(color: selected ? g.iris : g.ink, fontWeight: selected ? FontWeight.w600 : FontWeight.w400),
+                ),
+              ),
+              if (audio) Icon(Icons.graphic_eq, size: 14, color: selected ? g.iris : g.fog),
+              ?trailing,
+            ],
+          ),
         ),
       ),
     );
@@ -378,6 +410,7 @@ class _Paragraph extends ConsumerStatefulWidget {
   final String source;
   final int? speaking;
   final ValueChanged<Sentence> onTapNumber;
+
   /// Analysis mode: tap on a '|' token (global index, token, sentence).
   final void Function(int global, String tok, Sentence s)? onToken;
   final Map<int, int> tokenStart;
@@ -410,13 +443,15 @@ class _ParagraphState extends ConsumerState<_Paragraph> {
       final s = widget.sentences[i];
       final hl = widget.speaking == s.idx;
       final style = hl ? base.copyWith(backgroundColor: g.lilac) : base;
-      spans.add(WidgetSpan(
-        alignment: PlaceholderAlignment.top,
-        // Not part of a phrase selection (G7), and not read as text.
-        child: SelectionContainer.disabled(
-          child: _SentenceNumber(number: s.idx + 1, highlighted: hl, onTap: () => widget.onTapNumber(s)),
+      spans.add(
+        WidgetSpan(
+          alignment: PlaceholderAlignment.top,
+          // Not part of a phrase selection (G7), and not read as text.
+          child: SelectionContainer.disabled(
+            child: _SentenceNumber(number: s.idx + 1, highlighted: hl, onTap: () => widget.onTapNumber(s)),
+          ),
         ),
-      ));
+      );
       if (widget.onToken != null && s.tokens != null) {
         // Analysed unit: one span per word group ("to see"); saved words red, family underlined.
         final saved = ref.watch(userWordsProvider).savedKeys;
@@ -428,7 +463,11 @@ class _ParagraphState extends ConsumerState<_Paragraph> {
           final rec = TapGestureRecognizer()..onTap = () => widget.onToken!(start + j, tok, s);
           _recs.add(rec);
           final key = searchKey(cleanToken(tok));
-          final st = saved.contains(key) ? savedStyle(context, style) : inSavedFamily(key, family) ? familyStyle(context, style) : style;
+          final st = saved.contains(key)
+              ? savedStyle(context, style)
+              : inSavedFamily(key, family)
+              ? familyStyle(context, style)
+              : style;
           spans.add(TextSpan(text: tok, style: st, recognizer: rec));
           if (j < toks.length - 1) spans.add(TextSpan(text: ' ', style: style));
         }
@@ -469,7 +508,10 @@ class _SentenceNumber extends StatelessWidget {
               heightFactor: 1,
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 3),
-                child: Text('$number', style: TextStyle(fontFamily: Tokens.uiFont, fontSize: 11, height: 1, fontWeight: FontWeight.w600, color: highlighted ? g.iris : g.fog)),
+                child: Text(
+                  '$number',
+                  style: TextStyle(fontFamily: Tokens.uiFont, fontSize: 11, height: 1, fontWeight: FontWeight.w600, color: highlighted ? g.iris : g.fog),
+                ),
               ),
             ),
           ),

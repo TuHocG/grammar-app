@@ -30,7 +30,10 @@ class EntryPage extends ConsumerWidget {
     }
     return Scaffold(
       appBar: GrammarAppBar(search: false, helpSlug: 'tu-dien', crumbs: [const Crumb('Từ điển', '/dict'), Crumb(r.headword)]),
-      body: RailListView(maxWidth: 900, children: [EntryCard(result: r, lookedUp: word)]),
+      body: RailListView(
+        maxWidth: 900,
+        children: [EntryCard(result: r, lookedUp: word)],
+      ),
     );
   }
 }
@@ -39,6 +42,7 @@ class EntryPage extends ConsumerWidget {
 /// buttons, quick meaning, full entries, Related forms.
 class EntryCard extends ConsumerWidget {
   final LookupResult result;
+
   /// What was looked up, when [result] may have dropped part of it: a phrase the dictionary
   /// lacks falls back to its first word, but the user may have saved the whole phrase.
   final String? lookedUp;
@@ -66,11 +70,14 @@ class EntryCard extends ConsumerWidget {
     if (!r.found && r.family == null && userWord == null) {
       return Surface(
         padding: const EdgeInsets.all(32),
-        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          Text(r.query, style: ReadingStyles.headword(context)),
-          const SizedBox(height: 8),
-          Text('Không có "${r.query}" trong từ điển.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-        ]),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(r.query, style: ReadingStyles.headword(context)),
+            const SizedBox(height: 8),
+            Text('Không có "${r.query}" trong từ điển.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+          ],
+        ),
       );
     }
 
@@ -89,60 +96,87 @@ class EntryCard extends ConsumerWidget {
 
     return Surface(
       padding: EdgeInsets.symmetric(horizontal: narrow ? 20 : 40, vertical: narrow ? 24 : 32),
-      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        Wrap(crossAxisAlignment: WrapCrossAlignment.start, alignment: WrapAlignment.spaceBetween, runSpacing: 12, children: [
-          Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text(userWord?.headword ?? r.headword, style: ReadingStyles.headword(context).copyWith(color: saved ? g.savedWord : null)),
-            const SizedBox(height: 4),
-            Wrap(crossAxisAlignment: WrapCrossAlignment.center, spacing: 14, runSpacing: 6, children: [
-              if (ipa != null && ipa.isNotEmpty) Text('[$ipa]', style: theme.textTheme.titleMedium?.copyWith(color: g.iris, fontWeight: FontWeight.w400, fontSize: 18)),
-              if (!ownOnly && quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!, fontSize: 16),
-              ActionChip(avatar: const Icon(Icons.volume_up_outlined, size: 16), label: const Text('Đọc'), onPressed: () => tts.speak(userWord?.headword ?? r.headword)),
-            ]),
-          ]),
-          saveButton,
-        ]),
-        if (r.redirectedFrom != null) ...[
-          const SizedBox(height: 8),
-          Text('${r.redirectedFrom} → ${r.headword}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate, fontStyle: FontStyle.italic)),
-        ] else if (userWord != null && r.found && uKey != r.key) ...[
-          const SizedBox(height: 8),
-          Text('${userWord.headword} → ${r.headword}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate, fontStyle: FontStyle.italic)),
-        ],
-        if (userWord?.meaning != null && userWord!.meaning!.isNotEmpty) ...[
-          const SizedBox(height: 16),
-          Container(
-            width: double.infinity,
-            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-            decoration: BoxDecoration(color: g.savedTint, borderRadius: BorderRadius.circular(Tokens.radiusCard)),
-            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              Text('Ghi chú của bạn', style: theme.textTheme.labelMedium?.copyWith(color: g.savedWord)),
-              Text(userWord.meaning!.replaceAll('_', '\n'), style: theme.textTheme.bodyLarge),
-            ]),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Wrap(
+            crossAxisAlignment: WrapCrossAlignment.start,
+            alignment: WrapAlignment.spaceBetween,
+            runSpacing: 12,
+            children: [
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(userWord?.headword ?? r.headword, style: ReadingStyles.headword(context).copyWith(color: saved ? g.savedWord : null)),
+                  const SizedBox(height: 4),
+                  Wrap(
+                    crossAxisAlignment: WrapCrossAlignment.center,
+                    spacing: 14,
+                    runSpacing: 6,
+                    children: [
+                      if (ipa != null && ipa.isNotEmpty)
+                        Text(
+                          '[$ipa]',
+                          style: theme.textTheme.titleMedium?.copyWith(color: g.iris, fontWeight: FontWeight.w400, fontSize: 18),
+                        ),
+                      if (!ownOnly && quick?.respell != null && quick!.respell!.isNotEmpty) Respell(quick.respell!, fontSize: 16),
+                      ActionChip(avatar: const Icon(Icons.volume_up_outlined, size: 16), label: const Text('Đọc'), onPressed: () => tts.speak(userWord?.headword ?? r.headword)),
+                    ],
+                  ),
+                ],
+              ),
+              saveButton,
+            ],
           ),
+          if (r.redirectedFrom != null) ...[
+            const SizedBox(height: 8),
+            Text(
+              '${r.redirectedFrom} → ${r.headword}',
+              style: theme.textTheme.bodyMedium?.copyWith(color: g.slate, fontStyle: FontStyle.italic),
+            ),
+          ] else if (userWord != null && r.found && uKey != r.key) ...[
+            const SizedBox(height: 8),
+            Text(
+              '${userWord.headword} → ${r.headword}',
+              style: theme.textTheme.bodyMedium?.copyWith(color: g.slate, fontStyle: FontStyle.italic),
+            ),
+          ],
+          if (userWord?.meaning != null && userWord!.meaning!.isNotEmpty) ...[
+            const SizedBox(height: 16),
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+              decoration: BoxDecoration(color: g.savedTint, borderRadius: BorderRadius.circular(Tokens.radiusCard)),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text('Ghi chú của bạn', style: theme.textTheme.labelMedium?.copyWith(color: g.savedWord)),
+                  Text(userWord.meaning!.replaceAll('_', '\n'), style: theme.textTheme.bodyLarge),
+                ],
+              ),
+            ),
+          ],
+          if (!r.found) ...[const SizedBox(height: 16), Text('Không có trong từ điển.', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate))],
+          if (quick != null) ...[
+            const SizedBox(height: 20),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.baseline,
+              textBaseline: TextBaseline.alphabetic,
+              children: [
+                if (quick.pos != null && quick.pos!.isNotEmpty) ...[PosBadge(quick.pos!), const SizedBox(width: 8)],
+                Expanded(child: Text(quick.vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))),
+              ],
+            ),
+          ],
+          for (var i = 0; i < r.entries.length; i++) ...[
+            SizedBox(height: i == 0 ? 20 : 12),
+            if (i > 0) const Divider(),
+            if (i > 0) const SizedBox(height: 12),
+            EntryView(entry: r.entries[i], family: null, showHeadword: r.entries.length > 1 || (quick == null && r.entries[i].ipa != null && r.ipa != r.entries[i].ipa)),
+          ],
+          if (r.family != null && r.family!.members.isNotEmpty) ...[const SizedBox(height: 20), RelatedFormsPanel(family: r.family!)],
         ],
-        if (!r.found) ...[
-          const SizedBox(height: 16),
-          Text('Không có trong từ điển.', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
-        ],
-        if (quick != null) ...[
-          const SizedBox(height: 20),
-          Row(crossAxisAlignment: CrossAxisAlignment.baseline, textBaseline: TextBaseline.alphabetic, children: [
-            if (quick.pos != null && quick.pos!.isNotEmpty) ...[PosBadge(quick.pos!), const SizedBox(width: 8)],
-            Expanded(child: Text(quick.vi, style: theme.textTheme.bodyLarge?.copyWith(fontSize: 17))),
-          ]),
-        ],
-        for (var i = 0; i < r.entries.length; i++) ...[
-          SizedBox(height: i == 0 ? 20 : 12),
-          if (i > 0) const Divider(),
-          if (i > 0) const SizedBox(height: 12),
-          EntryView(entry: r.entries[i], family: null, showHeadword: r.entries.length > 1 || (quick == null && r.entries[i].ipa != null && r.ipa != r.entries[i].ipa)),
-        ],
-        if (r.family != null && r.family!.members.isNotEmpty) ...[
-          const SizedBox(height: 20),
-          RelatedFormsPanel(family: r.family!),
-        ],
-      ]),
+      ),
     );
   }
 }

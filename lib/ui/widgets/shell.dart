@@ -23,11 +23,14 @@ class GrammarAppBar extends StatelessWidget implements PreferredSizeWidget {
   final List<Crumb> crumbs;
   final List<Widget> actions;
   final PreferredSizeWidget? bottom;
+
   /// Optional widget shown in place of the breadcrumb (e.g. the dictionary search field).
   final Widget? title;
+
   /// Help topic of the page (`/help/<slug>`); [onHelp] instead for a page's own help.
   final String? helpSlug;
   final VoidCallback? onHelp;
+
   /// The quick lookup button; off on the dictionary pages themselves.
   final bool search;
   const GrammarAppBar({super.key, this.crumbs = const [], this.actions = const [], this.bottom, this.title, this.helpSlug, this.onHelp, this.search = true});
@@ -52,22 +55,35 @@ class GrammarAppBar extends StatelessWidget implements PreferredSizeWidget {
     } else if (!wide || crumbs.length == 1) {
       crumbWidget = Text(crumbs.last.label, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.titleMedium);
     } else {
-      crumbWidget = Row(children: [
-        for (var i = 0; i < crumbs.length; i++) ...[
-          if (i > 0) Padding(padding: const EdgeInsets.symmetric(horizontal: 6), child: Icon(Icons.chevron_right, size: 16, color: g.fog)),
-          if (i == crumbs.length - 1)
-            Flexible(child: Text(crumbs[i].label, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.titleMedium))
-          else
-            InkWell(
-              onTap: crumbs[i].route == null || router == null ? null : () => context.go(crumbs[i].route!),
-              borderRadius: BorderRadius.circular(4),
-              child: Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 4, vertical: 2),
-                child: Text(crumbs[i].label, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+      crumbWidget = Row(
+        children: [
+          for (var i = 0; i < crumbs.length; i++) ...[
+            if (i > 0)
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 6),
+                child: Icon(Icons.chevron_right, size: 16, color: g.fog),
               ),
-            ),
+            if (i == crumbs.length - 1)
+              Flexible(
+                child: Text(crumbs[i].label, maxLines: 1, overflow: TextOverflow.ellipsis, style: theme.textTheme.titleMedium),
+              )
+            else
+              InkWell(
+                onTap: crumbs[i].route == null || router == null ? null : () => context.go(crumbs[i].route!),
+                borderRadius: BorderRadius.circular(4),
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 4, vertical: 2),
+                  child: Text(
+                    crumbs[i].label,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: theme.textTheme.bodyMedium?.copyWith(color: g.slate),
+                  ),
+                ),
+              ),
+          ],
         ],
-      ]);
+      );
     }
 
     return AppBar(
@@ -77,27 +93,25 @@ class GrammarAppBar extends StatelessWidget implements PreferredSizeWidget {
       leading: const SizedBox.shrink(),
       title: Padding(
         padding: const EdgeInsets.only(left: 8),
-        child: Row(children: [
-          if (canPop)
-            IconButton(tooltip: 'Quay lại', icon: const Icon(Icons.arrow_back), onPressed: () => router != null ? context.pop() : Navigator.of(context).pop())
-          else
-            const SizedBox(width: 8),
-          GMark(onTap: isHome || router == null ? null : () => context.go('/')),
-          const SizedBox(width: 12),
-          Expanded(child: crumbWidget),
-        ]),
+        child: Row(
+          children: [
+            if (canPop)
+              IconButton(tooltip: 'Quay lại', icon: const Icon(Icons.arrow_back), onPressed: () => router != null ? context.pop() : Navigator.of(context).pop())
+            else
+              const SizedBox(width: 8),
+            GMark(onTap: isHome || router == null ? null : () => context.go('/')),
+            const SizedBox(width: 12),
+            Expanded(child: crumbWidget),
+          ],
+        ),
       ),
       actions: [
         ...actions,
         // 8 px between the page's actions and the shared buttons, never after the last one.
         for (final (i, b) in [
           if (search) RoundIconButton(icon: Icons.search, tooltip: 'Tra từ', onPressed: () => showLookupSheet(context)),
-          if (helpSlug != null || onHelp != null)
-            RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: onHelp ?? () => context.push('/help/$helpSlug')),
-        ].indexed) ...[
-          if (i > 0 || actions.isNotEmpty) const SizedBox(width: 8),
-          b,
-        ],
+          if (helpSlug != null || onHelp != null) RoundIconButton(icon: Icons.help_outline, tooltip: 'Hướng dẫn', onPressed: onHelp ?? () => context.push('/help/$helpSlug')),
+        ].indexed) ...[if (i > 0 || actions.isNotEmpty) const SizedBox(width: 8), b],
         const SizedBox(width: 12),
       ],
       bottom: bottom,
@@ -155,9 +169,13 @@ class RailListView extends StatelessWidget {
   const RailListView({super.key, required this.children, this.maxWidth = Tokens.pageMaxWidth, this.padding = const EdgeInsets.fromLTRB(24, 24, 24, 40), this.controller});
   @override
   Widget build(BuildContext context) => SingleChildScrollView(
-        controller: controller,
-        child: PageRail(maxWidth: maxWidth, padding: padding, child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: children)),
-      );
+    controller: controller,
+    child: PageRail(
+      maxWidth: maxWidth,
+      padding: padding,
+      child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: children),
+    ),
+  );
 }
 
 /// White card (8px radius, hairline border) that is the content surface of every page.
@@ -171,7 +189,10 @@ class Surface extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final g = context.g;
-    final shape = RoundedRectangleBorder(borderRadius: BorderRadius.circular(Tokens.radiusCard), side: BorderSide(color: g.border));
+    final shape = RoundedRectangleBorder(
+      borderRadius: BorderRadius.circular(Tokens.radiusCard),
+      side: BorderSide(color: g.border),
+    );
     final inner = Padding(padding: padding, child: child);
     return Material(
       color: color ?? g.card,
@@ -191,11 +212,11 @@ class LilacPanel extends StatelessWidget {
   const LilacPanel({super.key, required this.child, this.padding = const EdgeInsets.symmetric(horizontal: 16, vertical: 12)});
   @override
   Widget build(BuildContext context) => Container(
-        width: double.infinity,
-        decoration: BoxDecoration(color: context.g.lilac, borderRadius: BorderRadius.circular(Tokens.radiusCard)),
-        padding: padding,
-        child: child,
-      );
+    width: double.infinity,
+    decoration: BoxDecoration(color: context.g.lilac, borderRadius: BorderRadius.circular(Tokens.radiusCard)),
+    padding: padding,
+    child: child,
+  );
 }
 
 /// Small pill badge: "24", "MP3", "BT".
@@ -213,7 +234,10 @@ class Respell extends StatelessWidget {
       child: Container(
         padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 3),
         decoration: BoxDecoration(color: g.lilac, borderRadius: BorderRadius.circular(100)),
-        child: Text(text, style: TextStyle(fontFamily: Tokens.uiFont, fontSize: fontSize, fontWeight: FontWeight.w600, color: g.indigo, height: 1.2)),
+        child: Text(
+          text,
+          style: TextStyle(fontFamily: Tokens.uiFont, fontSize: fontSize, fontWeight: FontWeight.w600, color: g.indigo, height: 1.2),
+        ),
       ),
     );
   }
@@ -240,10 +264,7 @@ class Eyebrow extends StatelessWidget {
   final String text;
   const Eyebrow(this.text, {super.key});
   @override
-  Widget build(BuildContext context) => Text(
-        text.toUpperCase(),
-        style: Theme.of(context).textTheme.labelMedium?.copyWith(color: context.g.slate, letterSpacing: 0.6),
-      );
+  Widget build(BuildContext context) => Text(text.toUpperCase(), style: Theme.of(context).textTheme.labelMedium?.copyWith(color: context.g.slate, letterSpacing: 0.6));
 }
 
 /// Section title row with an optional trailing hint.
@@ -255,11 +276,21 @@ class SectionTitle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    return Row(crossAxisAlignment: CrossAxisAlignment.end, children: [
-      Expanded(child: Text(text, style: theme.textTheme.titleLarge)),
-      if (hint != null) Flexible(child: Text(hint!, style: theme.textTheme.bodyMedium?.copyWith(color: context.g.slate), textAlign: TextAlign.end)),
-      ?trailing,
-    ]);
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.end,
+      children: [
+        Expanded(child: Text(text, style: theme.textTheme.titleLarge)),
+        if (hint != null)
+          Flexible(
+            child: Text(
+              hint!,
+              style: theme.textTheme.bodyMedium?.copyWith(color: context.g.slate),
+              textAlign: TextAlign.end,
+            ),
+          ),
+        ?trailing,
+      ],
+    );
   }
 }
 
@@ -318,8 +349,10 @@ class SetCard extends StatelessWidget {
   final String? badge;
   final double? progress;
   final VoidCallback? onTap;
+
   /// Shown in place of the icon tile (e.g. a 56 px thumbnail).
   final Widget? leading;
+
   /// When set, the title is one line and the subtitle always takes exactly this many lines
   /// (shorter text leaves blank space), so every card of a grid has the same height.
   final int? subtitleLines;
@@ -332,31 +365,51 @@ class SetCard extends StatelessWidget {
     return Surface(
       onTap: onTap,
       padding: const EdgeInsets.all(16),
-      child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        if (leading != null) ...[leading!, const SizedBox(width: 12)] else if (icon != null) ...[IconTile(icon!), const SizedBox(width: 12)],
-        Expanded(
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, mainAxisSize: MainAxisSize.min, children: [
-            Text(title, style: theme.textTheme.titleMedium?.copyWith(color: enabled ? g.ink : g.fog), maxLines: subtitleLines == null ? 2 : 1, overflow: TextOverflow.ellipsis),
-            if (subtitleLines != null)
-              Padding(
-                padding: const EdgeInsets.only(top: 2),
-                child: Stack(children: [
-                  // Invisible block of [subtitleLines] lines reserves the height.
-                  Opacity(opacity: 0, child: Text(List.filled(subtitleLines!, ' ').join('\n'), style: theme.textTheme.bodySmall)),
-                  Text(subtitle ?? '', style: theme.textTheme.bodySmall, maxLines: subtitleLines, overflow: TextOverflow.ellipsis),
-                ]),
-              )
-            else if (subtitle != null)
-              Padding(padding: const EdgeInsets.only(top: 2), child: Text(subtitle!, style: theme.textTheme.bodySmall, maxLines: 2, overflow: TextOverflow.ellipsis)),
-            if (progress != null)
-              Padding(
-                padding: const EdgeInsets.only(top: 10),
-                child: ClipRRect(borderRadius: BorderRadius.circular(2), child: LinearProgressIndicator(value: progress, minHeight: 4)),
-              ),
-          ]),
-        ),
-        ?badge == null ? null : Padding(padding: const EdgeInsets.only(left: 8), child: SoftBadge(badge!)),
-      ]),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          if (leading != null) ...[leading!, const SizedBox(width: 12)] else if (icon != null) ...[IconTile(icon!), const SizedBox(width: 12)],
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Text(
+                  title,
+                  style: theme.textTheme.titleMedium?.copyWith(color: enabled ? g.ink : g.fog),
+                  maxLines: subtitleLines == null ? 2 : 1,
+                  overflow: TextOverflow.ellipsis,
+                ),
+                if (subtitleLines != null)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 2),
+                    child: Stack(
+                      children: [
+                        // Invisible block of [subtitleLines] lines reserves the height.
+                        Opacity(opacity: 0, child: Text(List.filled(subtitleLines!, ' ').join('\n'), style: theme.textTheme.bodySmall)),
+                        Text(subtitle ?? '', style: theme.textTheme.bodySmall, maxLines: subtitleLines, overflow: TextOverflow.ellipsis),
+                      ],
+                    ),
+                  )
+                else if (subtitle != null)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 2),
+                    child: Text(subtitle!, style: theme.textTheme.bodySmall, maxLines: 2, overflow: TextOverflow.ellipsis),
+                  ),
+                if (progress != null)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 10),
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(2),
+                      child: LinearProgressIndicator(value: progress, minHeight: 4),
+                    ),
+                  ),
+              ],
+            ),
+          ),
+          ?badge == null ? null : Padding(padding: const EdgeInsets.only(left: 8), child: SoftBadge(badge!)),
+        ],
+      ),
     );
   }
 }
@@ -382,25 +435,51 @@ class FeatureCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(Tokens.radiusFeature),
         child: Padding(
           padding: const EdgeInsets.all(20),
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Row(children: [Icon(icon, color: g.ink), const SizedBox(width: 10), Expanded(child: Text(title, style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w700, color: g.ink)))]),
-            const SizedBox(height: 14),
-            Expanded(
-              child: Container(
-                width: double.infinity,
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
-                decoration: BoxDecoration(color: g.card, borderRadius: BorderRadius.circular(Tokens.radiusCard), boxShadow: [BoxShadow(color: g.shadow.withValues(alpha: 0.08), blurRadius: 4, offset: const Offset(0, 2))]),
-                child: ClipRect(
-                  child: SingleChildScrollView(
-                    physics: const NeverScrollableScrollPhysics(),
-                    child: DefaultTextStyle(style: theme.textTheme.bodyMedium!.copyWith(color: g.slate, height: 1.45), child: preview),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                children: [
+                  Icon(icon, color: g.ink),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: Text(
+                      title,
+                      style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w700, color: g.ink),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 14),
+              Expanded(
+                child: Container(
+                  width: double.infinity,
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+                  decoration: BoxDecoration(
+                    color: g.card,
+                    borderRadius: BorderRadius.circular(Tokens.radiusCard),
+                    boxShadow: [BoxShadow(color: g.shadow.withValues(alpha: 0.08), blurRadius: 4, offset: const Offset(0, 2))],
+                  ),
+                  child: ClipRect(
+                    child: SingleChildScrollView(
+                      physics: const NeverScrollableScrollPhysics(),
+                      child: DefaultTextStyle(
+                        style: theme.textTheme.bodyMedium!.copyWith(color: g.slate, height: 1.45),
+                        child: preview,
+                      ),
+                    ),
                   ),
                 ),
               ),
-            ),
-            const SizedBox(height: 12),
-            Text(caption, style: theme.textTheme.bodyMedium?.copyWith(color: g.slate), maxLines: 2, overflow: TextOverflow.ellipsis),
-          ]),
+              const SizedBox(height: 12),
+              Text(
+                caption,
+                style: theme.textTheme.bodyMedium?.copyWith(color: g.slate),
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -423,7 +502,11 @@ class LetterDot extends StatelessWidget {
       width: size,
       height: size,
       alignment: Alignment.center,
-      decoration: BoxDecoration(shape: BoxShape.circle, color: fill ?? Colors.transparent, border: Border.all(color: border ?? g.border)),
+      decoration: BoxDecoration(
+        shape: BoxShape.circle,
+        color: fill ?? Colors.transparent,
+        border: Border.all(color: border ?? g.border),
+      ),
       child: child ?? Text(letter, style: Theme.of(context).textTheme.labelLarge?.copyWith(color: color ?? g.slate)),
     );
   }
@@ -442,26 +525,40 @@ class PrevNextBar extends StatelessWidget {
     final narrow = MediaQuery.sizeOf(context).width < 600;
     return SafeArea(
       child: Container(
-        decoration: BoxDecoration(color: context.g.card, border: Border(top: BorderSide(color: context.g.border))),
+        decoration: BoxDecoration(
+          color: context.g.card,
+          border: Border(top: BorderSide(color: context.g.border)),
+        ),
         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-        child: Row(children: [
-          ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: 320),
-            child: OutlinedButton.icon(onPressed: onPrev, icon: const Icon(Icons.chevron_left, size: 18), label: Text(narrow ? 'Trước' : prevLabel, maxLines: 1, overflow: TextOverflow.ellipsis)),
-          ),
-          Expanded(child: middle == null ? const SizedBox.shrink() : Align(alignment: Alignment.center, heightFactor: 1, child: middle)),
-          ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: 320),
-            child: OutlinedButton(
-              onPressed: onNext,
-              child: Row(mainAxisSize: MainAxisSize.min, children: [
-                Flexible(child: Text(narrow ? 'Kế' : nextLabel, maxLines: 1, overflow: TextOverflow.ellipsis)),
-                const SizedBox(width: 4),
-                const Icon(Icons.chevron_right, size: 18),
-              ]),
+        child: Row(
+          children: [
+            ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: 320),
+              child: OutlinedButton.icon(
+                onPressed: onPrev,
+                icon: const Icon(Icons.chevron_left, size: 18),
+                label: Text(narrow ? 'Trước' : prevLabel, maxLines: 1, overflow: TextOverflow.ellipsis),
+              ),
             ),
-          ),
-        ]),
+            Expanded(
+              child: middle == null ? const SizedBox.shrink() : Align(alignment: Alignment.center, heightFactor: 1, child: middle),
+            ),
+            ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: 320),
+              child: OutlinedButton(
+                onPressed: onNext,
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Flexible(child: Text(narrow ? 'Kế' : nextLabel, maxLines: 1, overflow: TextOverflow.ellipsis)),
+                    const SizedBox(width: 4),
+                    const Icon(Icons.chevron_right, size: 18),
+                  ],
+                ),
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -504,7 +601,10 @@ class SearchPill extends StatelessWidget {
         contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
         border: OutlineInputBorder(borderRadius: BorderRadius.circular(100), borderSide: BorderSide.none),
         enabledBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(100), borderSide: BorderSide.none),
-        focusedBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(100), borderSide: BorderSide(color: g.iris, width: 1.5)),
+        focusedBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(100),
+          borderSide: BorderSide(color: g.iris, width: 1.5),
+        ),
       ),
     );
   }
@@ -515,7 +615,12 @@ class EmptyNote extends StatelessWidget {
   final String text;
   const EmptyNote(this.text, {super.key});
   @override
-  Widget build(BuildContext context) => Center(child: Padding(padding: const EdgeInsets.all(32), child: Text(text, style: Theme.of(context).textTheme.bodyLarge?.copyWith(color: context.g.slate))));
+  Widget build(BuildContext context) => Center(
+    child: Padding(
+      padding: const EdgeInsets.all(32),
+      child: Text(text, style: Theme.of(context).textTheme.bodyLarge?.copyWith(color: context.g.slate)),
+    ),
+  );
 }
 
 /// Responsive grid: as many columns of at least [minWidth] as fit.
@@ -526,13 +631,15 @@ class AutoGrid extends StatelessWidget {
   final double? rowHeight;
   const AutoGrid({super.key, required this.children, this.minWidth = 260, this.gap = 16, this.rowHeight});
   @override
-  Widget build(BuildContext context) => LayoutBuilder(builder: (context, c) {
-        final cols = (c.maxWidth / (minWidth + gap)).floor().clamp(1, 6);
-        final w = (c.maxWidth - gap * (cols - 1)) / cols;
-        return Wrap(
-          spacing: gap,
-          runSpacing: gap,
-          children: [for (final ch in children) SizedBox(width: w, height: rowHeight, child: ch)],
-        );
-      });
+  Widget build(BuildContext context) => LayoutBuilder(
+    builder: (context, c) {
+      final cols = (c.maxWidth / (minWidth + gap)).floor().clamp(1, 6);
+      final w = (c.maxWidth - gap * (cols - 1)) / cols;
+      return Wrap(
+        spacing: gap,
+        runSpacing: gap,
+        children: [for (final ch in children) SizedBox(width: w, height: rowHeight, child: ch)],
+      );
+    },
+  );
 }

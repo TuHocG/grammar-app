@@ -53,5 +53,4 @@ class TypeToSearch extends ConsumerWidget {
       child: child,
     );
   }
-
 }

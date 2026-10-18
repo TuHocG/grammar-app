@@ -39,22 +39,28 @@ void main() {
 
   testWidgets('new word: autofill from the dictionary, save, no exception after closing', (tester) async {
     late WidgetRef r;
-    await tester.pumpWidget(ProviderScope(
-      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
-      child: MaterialApp(
-        theme: buildTheme(Brightness.light),
-        home: Consumer(builder: (c, ref, _) {
-          r = ref;
-          return Scaffold(body: TextButton(onPressed: () => showEditWordDialog(c, ref), child: const Text('open')));
-        }),
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+        child: MaterialApp(
+          theme: buildTheme(Brightness.light),
+          home: Consumer(
+            builder: (c, ref, _) {
+              r = ref;
+              return Scaffold(
+                body: TextButton(onPressed: () => showEditWordDialog(c, ref), child: const Text('open')),
+              );
+            },
+          ),
+        ),
       ),
-    ));
+    );
     await tester.tap(find.text('open'));
     await tester.pumpAndSettle();
     await tester.enterText(find.byType(TextFormField).first, 'wash');
-    await tester.testTextInput.receiveAction(TextInputAction.done);   // onEditingComplete -> autofill
+    await tester.testTextInput.receiveAction(TextInputAction.done); // onEditingComplete -> autofill
     await tester.pump();
-    expect((tester.widget(find.byType(TextFormField).at(1)) as TextFormField).controller!.text, isNotEmpty);   // IPA filled
+    expect((tester.widget(find.byType(TextFormField).at(1)) as TextFormField).controller!.text, isNotEmpty); // IPA filled
     await tester.tap(find.text('Lưu'));
     await tester.pumpAndSettle();
     expect(tester.takeException(), isNull);
@@ -63,15 +69,24 @@ void main() {
   }, skip: !has);
 
   testWidgets('F2 in a lesson: editor for the word under the mouse, pre-filled; saved word -> Sửa từ', (tester) async {
-    final router = GoRouter(routes: [GoRoute(path: '/', builder: (_, _) => const Scaffold(body: Text('lesson')))]);
-    await tester.pumpWidget(ProviderScope(
-      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
-      child: MaterialApp.router(
-        theme: buildTheme(Brightness.light),
-        routerConfig: router,
-        builder: (context, child) => TypeToSearch(router: router, child: child!),
+    final router = GoRouter(
+      routes: [
+        GoRoute(
+          path: '/',
+          builder: (_, _) => const Scaffold(body: Text('lesson')),
+        ),
+      ],
+    );
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+        child: MaterialApp.router(
+          theme: buildTheme(Brightness.light),
+          routerConfig: router,
+          builder: (context, child) => TypeToSearch(router: router, child: child!),
+        ),
       ),
-    ));
+    );
     await tester.pumpAndSettle();
     WordHints.hovered.value = (word: 'abandon', context: 'They abandon the car.', source: 'reading:1');
     await tester.sendKeyEvent(LogicalKeyboardKey.f2);
@@ -79,8 +94,8 @@ void main() {
     expect(find.text('Từ mới'), findsOneWidget);
     final fields = tester.widgetList<TextFormField>(find.byType(TextFormField)).toList();
     expect(fields[0].controller!.text, 'abandon');
-    expect(fields[1].controller!.text, isNotEmpty);   // IPA from the dictionary
-    expect(fields[2].controller!.text, isNotEmpty);   // meaning from the dictionary
+    expect(fields[1].controller!.text, isNotEmpty); // IPA from the dictionary
+    expect(fields[2].controller!.text, isNotEmpty); // meaning from the dictionary
     await tester.enterText(find.byType(TextFormField).at(2), 'bỏ rơi_từ bỏ');
     await tester.tap(find.text('Lưu'));
     await tester.pumpAndSettle();
@@ -97,10 +112,17 @@ void main() {
 
   testWidgets('own word missing from the dictionary: entry page shows it with its meaning', (tester) async {
     user.saveWord(headword: 'zorbling', meaning: 'từ tự đặt', ipa: 'zɔːblɪŋ');
-    await tester.pumpWidget(ProviderScope(
-      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
-      child: MaterialApp(theme: buildTheme(Brightness.light), home: Scaffold(body: Consumer(builder: (c, ref, _) => EntryCard(result: ref.read(lookupProvider).lookup('zorbling'))))),
-    ));
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+        child: MaterialApp(
+          theme: buildTheme(Brightness.light),
+          home: Scaffold(
+            body: Consumer(builder: (c, ref, _) => EntryCard(result: ref.read(lookupProvider).lookup('zorbling'))),
+          ),
+        ),
+      ),
+    );
     expect(find.text('zorbling'), findsOneWidget);
     expect(find.text('từ tự đặt'), findsOneWidget);
     expect(find.text('[zɔːblɪŋ]'), findsOneWidget);
@@ -109,10 +131,15 @@ void main() {
 
   testWidgets('own phrase missing from the dictionary: entry page shows the phrase, not its first word', (tester) async {
     user.saveWord(headword: 'kick the zorb', meaning: 'cụm tự đặt');
-    await tester.pumpWidget(ProviderScope(
-      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
-      child: MaterialApp(theme: buildTheme(Brightness.light), home: const EntryPage(word: 'kick the zorb')),
-    ));
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+        child: MaterialApp(
+          theme: buildTheme(Brightness.light),
+          home: const EntryPage(word: 'kick the zorb'),
+        ),
+      ),
+    );
     expect(find.text('kick the zorb'), findsWidgets);
     expect(find.text('cụm tự đặt'), findsOneWidget);
     expect(find.text('Đã lưu · bỏ lưu'), findsOneWidget);
@@ -120,13 +147,18 @@ void main() {
 
   testWidgets('reading: tapping a word of a saved phrase looks up the phrase with its own meaning', (tester) async {
     user.saveWord(headword: 'kick the zorb', meaning: 'cụm tự đặt');
-    await tester.pumpWidget(ProviderScope(
-      overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
-      child: MaterialApp(theme: buildTheme(Brightness.light), home: const Scaffold(body: WordTapText('They kick the zorb today.'))),
-    ));
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+        child: MaterialApp(
+          theme: buildTheme(Brightness.light),
+          home: const Scaffold(body: WordTapText('They kick the zorb today.')),
+        ),
+      ),
+    );
     await tester.tapOnText(find.textRange.ofSubstring('the zorb'));
     await tester.pumpAndSettle();
     expect(find.text('cụm tự đặt'), findsOneWidget);
-    expect(find.textContaining(RegExp(r'^\[')), findsNothing);   // not the IPA of "kick"
+    expect(find.textContaining(RegExp(r'^\[')), findsNothing); // not the IPA of "kick"
   }, skip: !has);
 }

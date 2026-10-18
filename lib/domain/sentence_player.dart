@@ -16,11 +16,13 @@ enum PlayerState { idle, playing, paused }
 class SentencePlayer extends ChangeNotifier {
   final TtsService tts;
   final Reading reading;
+
   /// Absolute path of the recording (null → TTS).
   final String? audioPath;
 
   int index = 0;
   PlayerState state = PlayerState.idle;
+
   /// Keep reading the next sentence after the current one ends.
   bool continuous = true;
 
@@ -29,6 +31,7 @@ class SentencePlayer extends ChangeNotifier {
   StreamSubscription<void>? _doneSub;
   int _run = 0;
   double? _stopAt;
+
   /// Set when the platform cannot play the recording (e.g. a codec it lacks); the player
   /// then reads with TTS for the rest of its life instead of stalling on every sentence.
   bool _recordingFailed = false;

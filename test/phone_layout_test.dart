@@ -61,19 +61,16 @@ void main() {
   });
 
   Widget app(Widget child, double scale) => MaterialApp(
-        theme: buildTheme(Brightness.light),
-        builder: (context, c) => MediaQuery(data: MediaQuery.of(context).copyWith(textScaler: TextScaler.linear(scale)), child: c!),
-        home: child,
-      );
+    theme: buildTheme(Brightness.light),
+    builder: (context, c) => MediaQuery(
+      data: MediaQuery.of(context).copyWith(textScaler: TextScaler.linear(scale)),
+      child: c!,
+    ),
+    home: child,
+  );
 
-  Widget wrap(Widget child, double scale) => ProviderScope(
-        overrides: [
-          contentDbProvider.overrideWithValue(db),
-          userDbProvider.overrideWithValue(user),
-          ttsProvider.overrideWithValue(TtsService()),
-        ],
-        child: app(child, scale),
-      );
+  Widget wrap(Widget child, double scale) =>
+      ProviderScope(overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())], child: app(child, scale));
 
   void phone(WidgetTester tester) {
     tester.view.physicalSize = const Size(phoneWidth, 760);
@@ -99,19 +96,21 @@ void main() {
         await tester.pumpWidget(wrap(build(), scale));
         await tester.pump();
         expect(tester.takeException(), isNull);
-        await tester.pumpWidget(const SizedBox());   // dispose (stops the Đàm thoại timer)
+        await tester.pumpWidget(const SizedBox()); // dispose (stops the Đàm thoại timer)
       }, skip: !has);
     }
 
     testWidgets('video control bar fits a phone at $pct text', (tester) async {
       phone(tester);
       void none() {}
-      await tester.pumpWidget(app(
-        Scaffold(
-          bottomNavigationBar: VideoControlBar(position: 'Câu 1/494', playing: false, loop: 0, onRestart: none, onPrev: none, onReplay: none, onPlayPause: none, onNext: none, onLoop: (_) {}),
+      await tester.pumpWidget(
+        app(
+          Scaffold(
+            bottomNavigationBar: VideoControlBar(position: 'Câu 1/494', playing: false, loop: 0, onRestart: none, onPrev: none, onReplay: none, onPlayPause: none, onNext: none, onLoop: (_) {}),
+          ),
+          scale,
         ),
-        scale,
-      ));
+      );
       expect(tester.takeException(), isNull);
       expect(find.text('Số câu lặp'), findsOneWidget);
     });
@@ -119,14 +118,16 @@ void main() {
     testWidgets('video seek bar fits a phone at $pct text and seeks on release', (tester) async {
       phone(tester);
       Duration? sought;
-      await tester.pumpWidget(app(
-        Scaffold(
-          body: Center(
-            child: VideoSeekBar(position: const Duration(minutes: 1, seconds: 5), duration: const Duration(hours: 1, minutes: 27, seconds: 27), onSeek: (d) => sought = d),
+      await tester.pumpWidget(
+        app(
+          Scaffold(
+            body: Center(
+              child: VideoSeekBar(position: const Duration(minutes: 1, seconds: 5), duration: const Duration(hours: 1, minutes: 27, seconds: 27), onSeek: (d) => sought = d),
+            ),
           ),
+          scale,
         ),
-        scale,
-      ));
+      );
       expect(tester.takeException(), isNull);
       expect(find.text('1:05'), findsOneWidget);
       expect(find.text('1:27:27'), findsOneWidget);
@@ -155,8 +156,8 @@ void main() {
       expect(tester.takeException(), isNull);
       final button = tester.getRect(find.textContaining('Làm bài tập trộn ('));
       final hint = tester.getRect(find.textContaining('Chọn các bài có BT'));
-      expect(button.top, greaterThan(700));                 // in the bottom bar
-      expect(hint.width, greaterThan(phoneWidth * 0.6));    // the hint gets the panel's width
+      expect(button.top, greaterThan(700)); // in the bottom bar
+      expect(hint.width, greaterThan(phoneWidth * 0.6)); // the hint gets the panel's width
     }, skip: !has);
   }
 

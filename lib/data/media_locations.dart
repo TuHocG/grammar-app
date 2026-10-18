@@ -94,19 +94,32 @@ class DataSummary {
   final String? date;
   final int schema;
   final Map<String, dynamic> counts;
-  final int images;          // illustrations in grammar.images, else files in img/ (or dataset/img/)
-  final bool imagePack;      // the illustrations come from grammar.images
+  final int images; // illustrations in grammar.images, else files in img/ (or dataset/img/)
+  final bool imagePack; // the illustrations come from grammar.images
   final bool imagePackBroken; // grammar.images is there but cannot be read
   final int imagePackBytes;
-  final int embedded;        // pictures stored inside grammar.db
-  const DataSummary({required this.dbPath, required this.dbBytes, this.version, this.date, required this.schema, required this.counts, required this.images, required this.imagePack, this.imagePackBroken = false, this.imagePackBytes = 0, required this.embedded});
+  final int embedded; // pictures stored inside grammar.db
+  const DataSummary({
+    required this.dbPath,
+    required this.dbBytes,
+    this.version,
+    this.date,
+    required this.schema,
+    required this.counts,
+    required this.images,
+    required this.imagePack,
+    this.imagePackBroken = false,
+    this.imagePackBytes = 0,
+    required this.embedded,
+  });
 }
 
 DataSummary dataSummary(ContentDb db) {
   final file = File(p.join(db.dataDir, 'grammar.db'));
   final img = Directory(illustrationsDir(db.dataDir));
   final embeddedPaths = <String>{
-    if (db.embeddedMediaCount > 0) for (final r in db.raw.select('SELECT path FROM media')) r['path'] as String,
+    if (db.embeddedMediaCount > 0)
+      for (final r in db.raw.select('SELECT path FROM media')) r['path'] as String,
   };
   final pack = db.images;
   final images = pack != null
@@ -132,16 +145,14 @@ DataSummary dataSummary(ContentDb db) {
 class FolderSummary {
   final String dir;
   final bool exists;
-  final int found;      // items of the content found in the folder
-  final int expected;   // items the content refers to
+  final int found; // items of the content found in the folder
+  final int expected; // items the content refers to
   final int bytes;
   const FolderSummary({required this.dir, required this.exists, required this.found, required this.expected, required this.bytes});
 }
 
 FolderSummary audioSummary(ContentDb db, String dir) {
-  final names = <String>{
-    for (final r in db.raw.select('SELECT audio FROM reading WHERE audio IS NOT NULL')) p.basename(r['audio'] as String),
-  };
+  final names = <String>{for (final r in db.raw.select('SELECT audio FROM reading WHERE audio IS NOT NULL')) p.basename(r['audio'] as String)};
   final d = Directory(dir);
   var found = 0, bytes = 0;
   if (d.existsSync()) {

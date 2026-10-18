@@ -4,6 +4,7 @@
 - Nội dung bài học nằm trong `content/dataset/` (nguồn chính thức, được commit). `content/grammar.db` sinh bằng `python3 tool/content/pack.py`, không commit, không vá tay. Sửa nội dung: sửa JSON → `python3 tool/content/check.py` (không được mất ID cũ; thêm mục thì `--update`) → tăng `version` trong `content/content.json` + ghi `content/CHANGELOG.md` → pack. Lược đồ ở `docs/09`; đổi lược đồ thì tăng `schema` và `ContentDb.supportedSchema` cùng lúc.
 - Audio (`content/dataset/audio/`) và video tải riêng từ Google Drive, gitignore.
 - Bản phát hành dữ liệu: `python3 tool/content/bundle.py` → `build/content/grammar.db` (ảnh trang tranh nhúng trong bảng `media`) + `build/content/grammar.images` (ảnh minh hoạ, zip không nén, app đọc thẳng); hai file người dùng tải về cùng một thư mục. `--zip-data` tạo thêm `grammar4-data-<ver>.zip` gộp cả hai để chia sẻ tay. App đọc cả cấu trúc phát hành (`grammar.images`, `audio/` cạnh grammar.db) lẫn cấu trúc repo (`dataset/`).
+- Định dạng bằng `dart format lib test tool` (khổ dòng 200, cấu hình trong `analysis_options.yaml`); không đổi khổ dòng hay định dạng tay kiểu khác.
 - Chạy `flutter analyze` và `flutter test` trước khi kết thúc; test dùng `content/grammar.db` (hoặc `GRAMMAR_DATA_DIR`).
 - Windows: TTS là kênh SAPI riêng (`windows/runner/sapi_tts.cpp`), không dùng `flutter_tts` ở đó. Video dùng `media_kit`. `package:sqlite3` build SQLite3MultipleCiphers qua `hooks` trong `pubspec.yaml`.
 - Chỉ commit khi được yêu cầu. Commit với `-c user.name="Hieu Nguyen" -c user.email="hieu@newlogic.com"`.

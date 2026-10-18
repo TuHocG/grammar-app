@@ -10,18 +10,20 @@ import 'package:permission_handler_platform_interface/permission_handler_platfor
 
 enum StorageAccess {
   granted,
+
   /// Android 11+: the "all files access" settings page has to be switched on.
   needsAllFiles,
+
   /// Android 10 and older: the runtime storage prompt can still be shown.
   needsPrompt,
+
   /// Android 10 and older, denied for good: only the app's settings page can grant it.
   blocked,
 }
 
 PermissionHandlerPlatform get _handler => PermissionHandlerPlatform.instance;
 
-Future<PermissionStatus> _request(Permission p) async =>
-    (await _handler.requestPermissions([p]))[p] ?? PermissionStatus.denied;
+Future<PermissionStatus> _request(Permission p) async => (await _handler.requestPermissions([p]))[p] ?? PermissionStatus.denied;
 
 Future<StorageAccess> storageAccess() async {
   if (!Platform.isAndroid) return StorageAccess.granted;

@@ -29,7 +29,7 @@ class ContentDb {
         db.execute("PRAGMA key = '${key.replaceAll("'", "''")}'");
         db.select('SELECT 1 FROM meta LIMIT 1');
       } catch (_) {
-        db.close();   // not encrypted (or wrong key): retry as a plain database
+        db.close(); // not encrypted (or wrong key): retry as a plain database
         db = sqlite3.open(file, mode: OpenMode.readOnly);
       }
     }
@@ -62,8 +62,7 @@ class ContentDb {
 
   File mediaFile(String rel) => File(mediaPath(rel));
 
-  late final bool _hasMediaTable =
-      _db.select("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'media'").isNotEmpty;
+  late final bool _hasMediaTable = _db.select("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'media'").isNotEmpty;
   final Map<String, Uint8List?> _embedded = {};
 
   /// Picture stored inside grammar.db (the Từ Vựng Tranh pages), or null.
@@ -90,6 +89,7 @@ class ContentDb {
     }
     return _images;
   }
+
   ImagePack? _images;
   bool _imagesOpened = false;
   String? imagePackError;
@@ -119,9 +119,7 @@ class ContentDb {
   String? get contentVersion => _meta('content_version');
   String? get contentDate => _meta('content_date');
 
-  Map<String, dynamic> get counts =>
-      jsonDecode(_db.select('SELECT value FROM meta WHERE key = ?', ['counts']).first['value'] as String)
-          as Map<String, dynamic>;
+  Map<String, dynamic> get counts => jsonDecode(_db.select('SELECT value FROM meta WHERE key = ?', ['counts']).first['value'] as String) as Map<String, dynamic>;
 
   // ---- dictionary -------------------------------------------------------
 
@@ -138,14 +136,8 @@ class ContentDb {
 
   /// Entries whose key lies just before [key] in sort order (for "scroll to typed text").
   List<DictHit> around(String key, {int before = 20, int after = 80}) {
-    final b = _db.select(
-      'SELECT id, headword, key, ipa, segs, redirect FROM dict_entry WHERE key < ? ORDER BY key DESC, id DESC LIMIT ?',
-      [key, before],
-    );
-    final a = _db.select(
-      'SELECT id, headword, key, ipa, segs, redirect FROM dict_entry WHERE key >= ? ORDER BY key, id LIMIT ?',
-      [key, after],
-    );
+    final b = _db.select('SELECT id, headword, key, ipa, segs, redirect FROM dict_entry WHERE key < ? ORDER BY key DESC, id DESC LIMIT ?', [key, before]);
+    final a = _db.select('SELECT id, headword, key, ipa, segs, redirect FROM dict_entry WHERE key >= ? ORDER BY key, id LIMIT ?', [key, after]);
     return [for (final r in b.toList().reversed) _hit(r), for (final r in a) _hit(r)];
   }
 
@@ -170,13 +162,7 @@ class ContentDb {
     final qj = r['quick'];
     if (qj is String && qj.isNotEmpty) {
       final m = jsonDecode(qj) as Map<String, dynamic>;
-      q = QuickDef(
-        word: r['headword'] as String,
-        ipa: m['ipa'] as String?,
-        respell: m['rs'] as String?,
-        pos: m['pos'] as String?,
-        vi: (m['vi'] ?? '') as String,
-      );
+      q = QuickDef(word: r['headword'] as String, ipa: m['ipa'] as String?, respell: m['rs'] as String?, pos: m['pos'] as String?, vi: (m['vi'] ?? '') as String);
     }
     return DictEntry(
       id: r['id'] as int,
@@ -193,17 +179,10 @@ class ContentDb {
     final rows = _db.select('SELECT * FROM quick_def WHERE key = ?', [key]);
     if (rows.isEmpty) return null;
     final r = rows.first;
-    return QuickDef(
-      word: r['word'] as String,
-      ipa: r['ipa'] as String?,
-      respell: r['respell'] as String?,
-      pos: r['pos'] as String?,
-      vi: r['vi'] as String,
-    );
+    return QuickDef(word: r['word'] as String, ipa: r['ipa'] as String?, respell: r['respell'] as String?, pos: r['pos'] as String?, vi: r['vi'] as String);
   }
 
-  bool hasKey(String key) =>
-      _db.select('SELECT 1 FROM dict_entry WHERE key = ? LIMIT 1', [key]).isNotEmpty;
+  bool hasKey(String key) => _db.select('SELECT 1 FROM dict_entry WHERE key = ? LIMIT 1', [key]).isNotEmpty;
 
   // ---- word forms -------------------------------------------------------
 
@@ -215,19 +194,13 @@ class ContentDb {
     );
     if (rows.isEmpty) return null;
     final r = rows.first;
-    final members = (jsonDecode(r['members'] as String) as List)
-        .cast<Map<String, dynamic>>()
-        .map((e) => WordForm(e['w'] as String, (e['pos'] ?? '') as String))
-        .toList();
+    final members = (jsonDecode(r['members'] as String) as List).cast<Map<String, dynamic>>().map((e) => WordForm(e['w'] as String, (e['pos'] ?? '') as String)).toList();
     return WordFamily(r['id'] as int, members);
   }
 
   // ---- help ---------------------------------------------------------------
 
-  List<HelpTopic> helpTopics() => [
-        for (final r in _db.select('SELECT id, title, text FROM help_topic ORDER BY id'))
-          HelpTopic(r['id'] as int, r['title'] as String, r['text'] as String),
-      ];
+  List<HelpTopic> helpTopics() => [for (final r in _db.select('SELECT id, title, text FROM help_topic ORDER BY id')) HelpTopic(r['id'] as int, r['title'] as String, r['text'] as String)];
 
   HelpTopic? helpTopic(int id) {
     final rows = _db.select('SELECT id, title, text FROM help_topic WHERE id = ?', [id]);
@@ -242,13 +215,7 @@ extension ContentDbReadings on ContentDb {
   ReadingSection sectionTree() {
     final by = <int, ReadingSection>{};
     for (final r in _db.select('SELECT sid, parent_sid, title, depth, position FROM reading_section ORDER BY position')) {
-      by[r['sid'] as int] = ReadingSection(
-        sid: r['sid'] as int,
-        parentSid: r['parent_sid'] as int?,
-        title: r['title'] as String,
-        depth: r['depth'] as int,
-        position: r['position'] as int,
-      );
+      by[r['sid'] as int] = ReadingSection(sid: r['sid'] as int, parentSid: r['parent_sid'] as int?, title: r['title'] as String, depth: r['depth'] as int, position: r['position'] as int);
     }
     for (final r in _db.select('SELECT sid, COUNT(*) AS n FROM reading GROUP BY sid')) {
       by[r['sid'] as int]?.readingCount = r['n'] as int;
@@ -275,16 +242,9 @@ extension ContentDbReadings on ContentDb {
   }
 
   List<ReadingSummary> readingsInSection(int sid) => [
-        for (final r in _db.select('SELECT id, sid, position, title, img, audio FROM reading WHERE sid = ? ORDER BY position', [sid]))
-          ReadingSummary(
-            id: r['id'] as int,
-            sid: r['sid'] as int,
-            position: r['position'] as int,
-            title: r['title'] as String,
-            img: r['img'] as String?,
-            hasAudio: r['audio'] != null,
-          ),
-      ];
+    for (final r in _db.select('SELECT id, sid, position, title, img, audio FROM reading WHERE sid = ? ORDER BY position', [sid]))
+      ReadingSummary(id: r['id'] as int, sid: r['sid'] as int, position: r['position'] as int, title: r['title'] as String, img: r['img'] as String?, hasAudio: r['audio'] != null),
+  ];
 
   List<ReadingSummary> searchReadings(String text, {int limit = 50}) {
     final q = '%${text.trim()}%';
@@ -341,9 +301,9 @@ extension ContentDbReadings on ContentDb {
 
 extension ContentDbGrammar on ContentDb {
   List<GrammarLesson> grammarLessons() => [
-        for (final r in _db.select('SELECT ref, title, chapter, drills, body FROM grammar_lesson ORDER BY ref'))
-          GrammarLesson(ref: r['ref'] as int, title: r['title'] as String, chapter: (r['chapter'] as int) == 1, drills: (r['drills'] as int) == 1, body: r['body'] as String),
-      ];
+    for (final r in _db.select('SELECT ref, title, chapter, drills, body FROM grammar_lesson ORDER BY ref'))
+      GrammarLesson(ref: r['ref'] as int, title: r['title'] as String, chapter: (r['chapter'] as int) == 1, drills: (r['drills'] as int) == 1, body: r['body'] as String),
+  ];
 
   GrammarLesson? grammarLesson(int ref) {
     final rows = _db.select('SELECT ref, title, chapter, drills, body FROM grammar_lesson WHERE ref = ?', [ref]);
@@ -353,9 +313,8 @@ extension ContentDbGrammar on ContentDb {
   }
 
   List<ExerciseMenu> exerciseMenus() => [
-        for (final r in _db.select('SELECT idx, name, start, end FROM exercise_menu ORDER BY idx'))
-          ExerciseMenu(r['idx'] as int, r['name'] as String, r['start'] as int, r['end'] as int),
-      ];
+    for (final r in _db.select('SELECT idx, name, start, end FROM exercise_menu ORDER BY idx')) ExerciseMenu(r['idx'] as int, r['name'] as String, r['start'] as int, r['end'] as int),
+  ];
 
   String? exerciseTitle(int tt, {required bool lessonContext}) {
     final rows = _db.select('SELECT title FROM exercise_title WHERE tt = ? AND context = ?', [tt, lessonContext ? 'lesson' : 'menu']);
@@ -364,8 +323,8 @@ extension ContentDbGrammar on ContentDb {
 
   /// Exercises by row id range [start, end) (menus are contiguous id ranges).
   List<Exercise> exercisesInRange(int start, int end) => [
-        for (final r in _db.select('SELECT * FROM exercise WHERE id >= ? AND id < ? ORDER BY id', [start, end])) _exercise(r),
-      ];
+    for (final r in _db.select('SELECT * FROM exercise WHERE id >= ? AND id < ? ORDER BY id', [start, end])) _exercise(r),
+  ];
 
   List<Exercise> exercisesForLessons(List<int> refs) {
     if (refs.isEmpty) return const [];
@@ -407,7 +366,7 @@ extension ContentDbGrammar on ContentDb {
   }
 
   List<WordformRoot> wordformRoots() => [
-        for (final r in _db.select('SELECT position, root, start, count, common FROM wordform_root ORDER BY position'))
-          WordformRoot(r['position'] as int, r['root'] as String, r['start'] as int, r['count'] as int, (r['common'] as int) == 1),
-      ];
+    for (final r in _db.select('SELECT position, root, start, count, common FROM wordform_root ORDER BY position'))
+      WordformRoot(r['position'] as int, r['root'] as String, r['start'] as int, r['count'] as int, (r['common'] as int) == 1),
+  ];
 }

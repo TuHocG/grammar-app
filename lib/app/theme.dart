@@ -136,18 +136,12 @@ extension GrammarContext on BuildContext {
 
 /// Literata styles for English content; sizes follow the design (19 for passages).
 abstract final class ReadingStyles {
-  static TextStyle passage(BuildContext context) =>
-      TextStyle(fontFamily: Tokens.readingFont, fontSize: 19, height: 1.75, color: context.g.ink);
-  static TextStyle title(BuildContext context) =>
-      TextStyle(fontFamily: Tokens.readingFont, fontSize: 28, height: 1.3, fontWeight: FontWeight.w600, color: context.g.ink);
-  static TextStyle headword(BuildContext context) =>
-      TextStyle(fontFamily: Tokens.readingFont, fontSize: 36, height: 1.2, fontWeight: FontWeight.w600, color: context.g.ink);
-  static TextStyle prompt(BuildContext context) =>
-      TextStyle(fontFamily: Tokens.readingFont, fontSize: 22, height: 1.5, color: context.g.ink);
-  static TextStyle line(BuildContext context) =>
-      TextStyle(fontFamily: Tokens.readingFont, fontSize: 17, height: 1.5, color: context.g.ink);
-  static TextStyle example(BuildContext context) =>
-      TextStyle(fontFamily: Tokens.readingFont, fontSize: 16, height: 1.5, color: context.g.indigo);
+  static TextStyle passage(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 19, height: 1.75, color: context.g.ink);
+  static TextStyle title(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 28, height: 1.3, fontWeight: FontWeight.w600, color: context.g.ink);
+  static TextStyle headword(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 36, height: 1.2, fontWeight: FontWeight.w600, color: context.g.ink);
+  static TextStyle prompt(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 22, height: 1.5, color: context.g.ink);
+  static TextStyle line(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 17, height: 1.5, color: context.g.ink);
+  static TextStyle example(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 16, height: 1.5, color: context.g.indigo);
 }
 
 ThemeData buildTheme(Brightness brightness) {
@@ -194,12 +188,18 @@ ThemeData buildTheme(Brightness brightness) {
   );
 
   TextStyle ui(double size, {FontWeight weight = FontWeight.w400, double? height, Color? color}) => TextStyle(
-        fontFamily: Tokens.uiFont,
-        fontSize: size,
-        fontWeight: weight,
-        height: height ?? (size >= 32 ? 1.28 : size >= 20 ? 1.4 : 1.5),
-        color: color ?? c.ink,
-      );
+    fontFamily: Tokens.uiFont,
+    fontSize: size,
+    fontWeight: weight,
+    height:
+        height ??
+        (size >= 32
+            ? 1.28
+            : size >= 20
+            ? 1.4
+            : 1.5),
+    color: color ?? c.ink,
+  );
 
   final text = TextTheme(
     displayLarge: ui(44, weight: FontWeight.w600),
@@ -221,7 +221,10 @@ ThemeData buildTheme(Brightness brightness) {
 
   const pill = StadiumBorder();
   final pillPadding = const EdgeInsets.symmetric(horizontal: 20, vertical: 10);
-  final cardShape = RoundedRectangleBorder(borderRadius: BorderRadius.circular(Tokens.radiusCard), side: BorderSide(color: c.border));
+  final cardShape = RoundedRectangleBorder(
+    borderRadius: BorderRadius.circular(Tokens.radiusCard),
+    side: BorderSide(color: c.border),
+  );
 
   final base = ThemeData(colorScheme: scheme, useMaterial3: true, fontFamily: Tokens.uiFont, textTheme: text);
   return base.copyWith(
@@ -242,7 +245,15 @@ ThemeData buildTheme(Brightness brightness) {
       titleTextStyle: text.titleMedium,
       iconTheme: IconThemeData(color: c.ink, size: 22),
     ),
-    cardTheme: CardThemeData(color: c.card, elevation: 0, shadowColor: Colors.transparent, surfaceTintColor: Colors.transparent, shape: cardShape, margin: EdgeInsets.zero, clipBehavior: Clip.antiAlias),
+    cardTheme: CardThemeData(
+      color: c.card,
+      elevation: 0,
+      shadowColor: Colors.transparent,
+      surfaceTintColor: Colors.transparent,
+      shape: cardShape,
+      margin: EdgeInsets.zero,
+      clipBehavior: Clip.antiAlias,
+    ),
     listTileTheme: ListTileThemeData(
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(Tokens.radiusInput)),
       selectedTileColor: c.lilac,
@@ -270,7 +281,15 @@ ThemeData buildTheme(Brightness brightness) {
       ).copyWith(overlayColor: WidgetStatePropertyAll(Colors.black.withValues(alpha: 0.08))),
     ),
     elevatedButtonTheme: ElevatedButtonThemeData(
-      style: ElevatedButton.styleFrom(backgroundColor: c.iris, foregroundColor: scheme.onPrimary, shape: pill, padding: pillPadding, minimumSize: const Size(40, 40), textStyle: text.labelLarge, elevation: 0),
+      style: ElevatedButton.styleFrom(
+        backgroundColor: c.iris,
+        foregroundColor: scheme.onPrimary,
+        shape: pill,
+        padding: pillPadding,
+        minimumSize: const Size(40, 40),
+        textStyle: text.labelLarge,
+        elevation: 0,
+      ),
     ),
     outlinedButtonTheme: OutlinedButtonThemeData(
       style: OutlinedButton.styleFrom(
@@ -287,7 +306,9 @@ ThemeData buildTheme(Brightness brightness) {
     textButtonTheme: TextButtonThemeData(
       style: TextButton.styleFrom(foregroundColor: c.iris, shape: pill, padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10), minimumSize: const Size(40, 40), textStyle: text.labelLarge),
     ),
-    iconButtonTheme: IconButtonThemeData(style: IconButton.styleFrom(foregroundColor: c.ink, highlightColor: c.lilac)),
+    iconButtonTheme: IconButtonThemeData(
+      style: IconButton.styleFrom(foregroundColor: c.ink, highlightColor: c.lilac),
+    ),
     floatingActionButtonTheme: FloatingActionButtonThemeData(backgroundColor: c.iris, foregroundColor: scheme.onPrimary, elevation: 2, shape: pill, extendedTextStyle: text.labelLarge),
     chipTheme: ChipThemeData(
       backgroundColor: c.card,
@@ -311,10 +332,22 @@ ThemeData buildTheme(Brightness brightness) {
       labelStyle: text.bodyMedium?.copyWith(color: c.slate),
       helperStyle: text.bodySmall,
       contentPadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
-      border: OutlineInputBorder(borderRadius: BorderRadius.circular(Tokens.radiusInput), borderSide: BorderSide(color: c.border)),
-      enabledBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(Tokens.radiusInput), borderSide: BorderSide(color: c.border)),
-      focusedBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(Tokens.radiusInput), borderSide: BorderSide(color: c.iris, width: 1.5)),
-      disabledBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(Tokens.radiusInput), borderSide: BorderSide(color: c.border.withValues(alpha: 0.6))),
+      border: OutlineInputBorder(
+        borderRadius: BorderRadius.circular(Tokens.radiusInput),
+        borderSide: BorderSide(color: c.border),
+      ),
+      enabledBorder: OutlineInputBorder(
+        borderRadius: BorderRadius.circular(Tokens.radiusInput),
+        borderSide: BorderSide(color: c.border),
+      ),
+      focusedBorder: OutlineInputBorder(
+        borderRadius: BorderRadius.circular(Tokens.radiusInput),
+        borderSide: BorderSide(color: c.iris, width: 1.5),
+      ),
+      disabledBorder: OutlineInputBorder(
+        borderRadius: BorderRadius.circular(Tokens.radiusInput),
+        borderSide: BorderSide(color: c.border.withValues(alpha: 0.6)),
+      ),
     ),
     segmentedButtonTheme: SegmentedButtonThemeData(
       style: SegmentedButton.styleFrom(
@@ -348,8 +381,15 @@ ThemeData buildTheme(Brightness brightness) {
     ),
     dialogTheme: DialogThemeData(backgroundColor: c.card, surfaceTintColor: Colors.transparent, shape: cardShape, titleTextStyle: text.titleLarge, contentTextStyle: text.bodyLarge),
     popupMenuTheme: PopupMenuThemeData(color: c.card, surfaceTintColor: Colors.transparent, shape: cardShape, textStyle: text.bodyMedium, elevation: 4, shadowColor: c.shadow),
-    menuTheme: MenuThemeData(style: MenuStyle(backgroundColor: WidgetStatePropertyAll(c.card), shape: WidgetStatePropertyAll(cardShape))),
-    snackBarTheme: SnackBarThemeData(backgroundColor: c.ink, contentTextStyle: text.bodyMedium?.copyWith(color: c.card), behavior: SnackBarBehavior.floating, shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(Tokens.radiusCard))),
+    menuTheme: MenuThemeData(
+      style: MenuStyle(backgroundColor: WidgetStatePropertyAll(c.card), shape: WidgetStatePropertyAll(cardShape)),
+    ),
+    snackBarTheme: SnackBarThemeData(
+      backgroundColor: c.ink,
+      contentTextStyle: text.bodyMedium?.copyWith(color: c.card),
+      behavior: SnackBarBehavior.floating,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(Tokens.radiusCard)),
+    ),
     tooltipTheme: TooltipThemeData(
       decoration: BoxDecoration(color: c.ink, borderRadius: BorderRadius.circular(Tokens.radiusInput)),
       textStyle: text.bodySmall?.copyWith(color: c.card),
@@ -370,5 +410,5 @@ ThemeData buildTheme(Brightness brightness) {
 /// Colours with the same meaning as in the old app (kept for the pages that import them).
 class Marks {
   static const savedWord = Tokens.savedRed; // từ đã lưu: đỏ
-  static const highlight = Tokens.lilac;    // câu đang đọc
+  static const highlight = Tokens.lilac; // câu đang đọc
 }

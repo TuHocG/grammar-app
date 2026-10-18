@@ -63,17 +63,22 @@ class HelpTopicPage extends StatelessWidget {
           Surface(
             padding: EdgeInsets.symmetric(horizontal: narrow ? 20 : 40, vertical: narrow ? 24 : 32),
             child: SelectionArea(
-              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                Row(children: [
-                  IconTile(t.icon),
-                  const SizedBox(width: 14),
-                  Expanded(child: Text(t.title, style: theme.textTheme.headlineMedium)),
-                ]),
-                const SizedBox(height: 8),
-                Text(t.summary, style: theme.textTheme.bodyLarge?.copyWith(color: context.g.slate)),
-                const SizedBox(height: 8),
-                HelpMarkup(t.body),
-              ]),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      IconTile(t.icon),
+                      const SizedBox(width: 14),
+                      Expanded(child: Text(t.title, style: theme.textTheme.headlineMedium)),
+                    ],
+                  ),
+                  const SizedBox(height: 8),
+                  Text(t.summary, style: theme.textTheme.bodyLarge?.copyWith(color: context.g.slate)),
+                  const SizedBox(height: 8),
+                  HelpMarkup(t.body),
+                ],
+              ),
             ),
           ),
         ],
@@ -119,10 +124,12 @@ class HelpMarkup extends StatelessWidget {
 
     void flush() {
       if (para.isEmpty) return;
-      out.add(Padding(
-        padding: const EdgeInsets.only(top: 10),
-        child: Text.rich(TextSpan(style: body, children: _inline(para.join(' '), bold))),
-      ));
+      out.add(
+        Padding(
+          padding: const EdgeInsets.only(top: 10),
+          child: Text.rich(TextSpan(style: body, children: _inline(para.join(' '), bold))),
+        ),
+      );
       para.clear();
     }
 
@@ -132,19 +139,37 @@ class HelpMarkup extends StatelessWidget {
         flush();
       } else if (line.startsWith('## ')) {
         flush();
-        out.add(Padding(
-          padding: const EdgeInsets.only(top: 22, bottom: 2),
-          child: Text(line.substring(3).trim(), style: theme.textTheme.titleMedium?.copyWith(color: g.indigo, fontWeight: FontWeight.w700)),
-        ));
+        out.add(
+          Padding(
+            padding: const EdgeInsets.only(top: 22, bottom: 2),
+            child: Text(
+              line.substring(3).trim(),
+              style: theme.textTheme.titleMedium?.copyWith(color: g.indigo, fontWeight: FontWeight.w700),
+            ),
+          ),
+        );
       } else if (line.startsWith('- ')) {
         flush();
-        out.add(Padding(
-          padding: const EdgeInsets.only(top: 6),
-          child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            SizedBox(width: 22, child: Text('•', style: body.copyWith(color: g.iris, fontWeight: FontWeight.w700))),
-            Expanded(child: Text.rich(TextSpan(style: body, children: _inline(line.substring(2).trim(), bold)))),
-          ]),
-        ));
+        out.add(
+          Padding(
+            padding: const EdgeInsets.only(top: 6),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                SizedBox(
+                  width: 22,
+                  child: Text(
+                    '•',
+                    style: body.copyWith(color: g.iris, fontWeight: FontWeight.w700),
+                  ),
+                ),
+                Expanded(
+                  child: Text.rich(TextSpan(style: body, children: _inline(line.substring(2).trim(), bold))),
+                ),
+              ],
+            ),
+          ),
+        );
       } else {
         para.add(line.trim());
       }

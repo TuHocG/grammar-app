@@ -27,7 +27,6 @@ String? _localDataDir() {
   return File(p.join(d, 'grammar.db')).existsSync() ? d : null;
 }
 
-
 late UserDb _userDb;
 
 /// The open lesson database; closed shortly after the bootstrap reopens another one.
@@ -45,18 +44,20 @@ Future<void> main() async {
 Future<void> _start({String? error}) async {
   final dir = _userDb.setting('data_dir') ?? (_envDataDir.isNotEmpty ? _envDataDir : null) ?? _localDataDir();
   if (error != null || dir == null || !File(p.join(dir, 'grammar.db')).existsSync()) {
-    runApp(MaterialApp(
-      theme: buildTheme(Brightness.light),
-      darkTheme: buildTheme(Brightness.dark),
-      home: DataDirPage(
-        initial: dir ?? _envDataDir,
-        error: error,
-        onChosen: (d) {
-          _userDb.setSetting('data_dir', d);
-          _start();
-        },
+    runApp(
+      MaterialApp(
+        theme: buildTheme(Brightness.light),
+        darkTheme: buildTheme(Brightness.dark),
+        home: DataDirPage(
+          initial: dir ?? _envDataDir,
+          error: error,
+          onChosen: (d) {
+            _userDb.setSetting('data_dir', d);
+            _start();
+          },
+        ),
       ),
-    ));
+    );
     return;
   }
   final previous = _content;
@@ -69,8 +70,11 @@ Future<void> _start({String? error}) async {
   try {
     content = ContentDb.open(dir, key: grammarDbKey);
   } catch (e) {
-    await _start(error: 'Không mở được grammar.db: $e'
-        '${grammarDbKey.isEmpty ? '\nNếu đây là grammar.db của bản phát hành (đã mã hoá), bản app này không có khoá để đọc — chọn thư mục content/ của repo.' : ''}');
+    await _start(
+      error:
+          'Không mở được grammar.db: $e'
+          '${grammarDbKey.isEmpty ? '\nNếu đây là grammar.db của bản phát hành (đã mã hoá), bản app này không có khoá để đọc — chọn thư mục content/ của repo.' : ''}',
+    );
     return;
   }
   if (content.schemaVersion > ContentDb.supportedSchema) {
@@ -82,18 +86,8 @@ Future<void> _start({String? error}) async {
   _content = content;
   final settings = _userDb.allSettings();
   final tts = TtsService();
-  await tts.init(
-    speed: int.tryParse(settings['tts_speed'] ?? '') ?? 4,
-    voiceName: (settings['tts_voice'] ?? '').isEmpty ? null : settings['tts_voice'],
-  );
-  runApp(ProviderScope(
-    overrides: [
-      contentDbProvider.overrideWithValue(content),
-      userDbProvider.overrideWithValue(_userDb),
-      ttsProvider.overrideWithValue(tts),
-    ],
-    child: const GrammarApp(),
-  ));
+  await tts.init(speed: int.tryParse(settings['tts_speed'] ?? '') ?? 4, voiceName: (settings['tts_voice'] ?? '').isEmpty ? null : settings['tts_voice']);
+  runApp(ProviderScope(overrides: [contentDbProvider.overrideWithValue(content), userDbProvider.overrideWithValue(_userDb), ttsProvider.overrideWithValue(tts)], child: const GrammarApp()));
 }
 
 class GrammarApp extends ConsumerWidget {

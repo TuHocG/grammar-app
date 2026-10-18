@@ -29,11 +29,14 @@ import '../widgets/word_tap_text.dart';
 class ExerciseRunner extends ConsumerStatefulWidget {
   final String title;
   final List<Exercise> exercises;
+
   /// Titles come from the "lesson" set when run from a grammar lesson, else the "menu" set.
   final bool lessonContext;
+
   /// Called when the learner finishes the list; return true to close.
   final VoidCallback? onNextGroup;
   final String? progressKey;
+
   /// Breadcrumb shown above the title; the title itself is the last crumb.
   final List<Crumb> crumbs;
   const ExerciseRunner({super.key, required this.title, required this.exercises, this.lessonContext = false, this.onNextGroup, this.progressKey, this.crumbs = const [Crumb('Bài Tập', '/')]});
@@ -46,12 +49,13 @@ class _Result {
   bool graded = false;
   bool correct = false;
   bool lostPoint = false; // choice: wrong pick before the right one
-  int? picked;            // choice/error
+  int? picked; // choice/error
   List<bool> blankOk = const [];
 }
 
 class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   int _pos = 0;
+
   /// Items actually run: a scramble record ("_"-separated sentences) becomes one item per
   /// sentence, so the map, the score and Next work per sentence.
   late final List<Exercise> _items = _expand(widget.exercises);
@@ -67,14 +71,29 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
       // The translation record lists the sentences the same way, separated by '_'.
       final vis = (e.vi ?? '').split('_').map((v) => v.trim()).where((v) => v.isNotEmpty).toList();
       for (var k = 0; k < lines.length; k++) {
-        out.add(Exercise(
-          id: e.id * 1000 + k, menu: e.menu, lessonRef: e.lessonRef, g: e.g, kind: e.kind, tt: e.tt, text: lines[k].trim(),
-          blanks: e.blanks, given: e.given, choices: e.choices, answer: e.answer, vi: k < vis.length ? vis[k] : null, expl: e.expl, refs: e.refs,
-        ));
+        out.add(
+          Exercise(
+            id: e.id * 1000 + k,
+            menu: e.menu,
+            lessonRef: e.lessonRef,
+            g: e.g,
+            kind: e.kind,
+            tt: e.tt,
+            text: lines[k].trim(),
+            blanks: e.blanks,
+            given: e.given,
+            choices: e.choices,
+            answer: e.answer,
+            vi: k < vis.length ? vis[k] : null,
+            expl: e.expl,
+            refs: e.refs,
+          ),
+        );
       }
     }
     return out;
   }
+
   late final List<_Result> _res = List.generate(_items.length, (_) => _Result());
   final Map<int, List<TextEditingController>> _ctls = {};
   final Map<int, List<FocusNode>> _focus = {};
@@ -86,8 +105,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   int get _score => _res.where((r) => r.graded && r.correct).length;
   int get _done => _res.where((r) => r.graded).length;
 
-  List<TextEditingController> _controllers(Exercise e) =>
-      _ctls.putIfAbsent(e.id, () => List.generate(e.blanks.length, (_) => TextEditingController()));
+  List<TextEditingController> _controllers(Exercise e) => _ctls.putIfAbsent(e.id, () => List.generate(e.blanks.length, (_) => TextEditingController()));
 
   List<FocusNode> _focusNodes(Exercise e) => _focus.putIfAbsent(e.id, () => List.generate(e.blanks.length, (_) => FocusNode()));
 
@@ -159,7 +177,7 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
         _r.graded = true;
         _r.correct = !_r.lostPoint;
       } else {
-        _r.lostPoint = true;   // the old app: wrong first, right later = no point
+        _r.lostPoint = true; // the old app: wrong first, right later = no point
       }
     });
     if (_r.graded) _save();
@@ -198,7 +216,10 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     final theme = Theme.of(context);
     final g = context.g;
     if (_items.isEmpty) {
-      return Scaffold(appBar: GrammarAppBar(crumbs: _crumbs), body: const EmptyNote('Không có bài tập.'));
+      return Scaffold(
+        appBar: GrammarAppBar(crumbs: _crumbs),
+        body: const EmptyNote('Không có bài tập.'),
+      );
     }
     if (_finished) return _resultPage(theme);
     final e = _ex;
@@ -209,110 +230,145 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
 
     final question = Surface(
       padding: EdgeInsets.symmetric(horizontal: wide ? 40 : 20, vertical: wide ? 32 : 20),
-      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        Eyebrow(heading?.replaceAll(r'\', ' / ') ?? _defaultHeading(e.kind)),
-        if (e.given.isNotEmpty)
-          Padding(
-            padding: const EdgeInsets.only(top: 10),
-            child: Wrap(spacing: 6, runSpacing: 6, crossAxisAlignment: WrapCrossAlignment.center, children: [
-              Text('Từ cho trước:', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
-              for (final w in e.given) Chip(label: Text(w, style: ReadingStyles.line(context).copyWith(fontSize: 16, fontWeight: FontWeight.w600))),
-            ]),
-          ),
-        const SizedBox(height: 12),
-        switch (e.kind) {
-          'fill' => _fillBody(e, theme),
-          'choice' => _choiceBody(e, theme),
-          'error' => _errorBody(e, theme),
-          'scramble' => _scrambleBody(e, theme),
-          _ => _sentencesBody(e, theme),
-        },
-        if (_showVi && e.vi != null && e.vi!.isNotEmpty)
-          Padding(
-            padding: const EdgeInsets.only(top: 12),
-            child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              Icon(Icons.translate, size: 16, color: g.slate),
-              const SizedBox(width: 8),
-              Expanded(child: Text(e.vi!, style: theme.textTheme.bodyLarge?.copyWith(color: g.slate))),
-            ]),
-          ),
-        if (_r.graded && (e.expl.isNotEmpty || e.kind == 'fill')) ...[
-          const SizedBox(height: 20),
-          _explanation(e, theme),
-        ],
-        const SizedBox(height: 24),
-        Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
-          OutlinedButton.icon(onPressed: _pos > 0 ? () => _go(_pos - 1) : null, icon: const Icon(Icons.chevron_left, size: 18), label: const Text('Back')),
-          // Same row for every kind: fill adds "Chấm" before grading; Next is always there.
-          if (e.kind == 'fill' && !_r.graded)
-            FilledButton.icon(onPressed: _gradeFill, icon: const Icon(Icons.check, size: 18), label: const Text('Chấm (Enter)')),
-          FilledButton(
-            style: e.kind == 'fill' && !_r.graded ? FilledButton.styleFrom(backgroundColor: theme.colorScheme.secondaryContainer, foregroundColor: theme.colorScheme.onSecondaryContainer) : null,
-            onPressed: _next,
-            child: Row(mainAxisSize: MainAxisSize.min, children: [Text(_pos == n - 1 ? 'Kết thúc' : 'Next'), const SizedBox(width: 4), const Icon(Icons.chevron_right, size: 18)]),
-          ),
-          if (e.vi != null && e.vi!.isNotEmpty)
-            OutlinedButton.icon(onPressed: () => setState(() => _showVi = !_showVi), icon: const Icon(Icons.translate, size: 16), label: Text(_showVi ? 'Ẩn dịch' : 'Dịch')),
-          if (_r.graded && e.kind == 'fill')
-            OutlinedButton.icon(
-              onPressed: () {
-                final ctls = _controllers(e);
-                for (var i = 0; i < e.blanks.length; i++) {
-                  ctls[i].text = e.blanks[i].answer;
-                }
-                setState(() {});
-              },
-              icon: const Icon(Icons.visibility_outlined, size: 16),
-              label: const Text('Điền đáp án'),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Eyebrow(heading?.replaceAll(r'\', ' / ') ?? _defaultHeading(e.kind)),
+          if (e.given.isNotEmpty)
+            Padding(
+              padding: const EdgeInsets.only(top: 10),
+              child: Wrap(
+                spacing: 6,
+                runSpacing: 6,
+                crossAxisAlignment: WrapCrossAlignment.center,
+                children: [
+                  Text('Từ cho trước:', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+                  for (final w in e.given)
+                    Chip(
+                      label: Text(w, style: ReadingStyles.line(context).copyWith(fontSize: 16, fontWeight: FontWeight.w600)),
+                    ),
+                ],
+              ),
             ),
-          if (e.kind == 'choice' && !_r.graded)
-            Text('Chọn sai lần đầu = không tính điểm', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
-        ]),
-      ]),
+          const SizedBox(height: 12),
+          switch (e.kind) {
+            'fill' => _fillBody(e, theme),
+            'choice' => _choiceBody(e, theme),
+            'error' => _errorBody(e, theme),
+            'scramble' => _scrambleBody(e, theme),
+            _ => _sentencesBody(e, theme),
+          },
+          if (_showVi && e.vi != null && e.vi!.isNotEmpty)
+            Padding(
+              padding: const EdgeInsets.only(top: 12),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Icon(Icons.translate, size: 16, color: g.slate),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(e.vi!, style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                  ),
+                ],
+              ),
+            ),
+          if (_r.graded && (e.expl.isNotEmpty || e.kind == 'fill')) ...[const SizedBox(height: 20), _explanation(e, theme)],
+          const SizedBox(height: 24),
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            crossAxisAlignment: WrapCrossAlignment.center,
+            children: [
+              OutlinedButton.icon(onPressed: _pos > 0 ? () => _go(_pos - 1) : null, icon: const Icon(Icons.chevron_left, size: 18), label: const Text('Back')),
+              // Same row for every kind: fill adds "Chấm" before grading; Next is always there.
+              if (e.kind == 'fill' && !_r.graded) FilledButton.icon(onPressed: _gradeFill, icon: const Icon(Icons.check, size: 18), label: const Text('Chấm (Enter)')),
+              FilledButton(
+                style: e.kind == 'fill' && !_r.graded ? FilledButton.styleFrom(backgroundColor: theme.colorScheme.secondaryContainer, foregroundColor: theme.colorScheme.onSecondaryContainer) : null,
+                onPressed: _next,
+                child: Row(mainAxisSize: MainAxisSize.min, children: [Text(_pos == n - 1 ? 'Kết thúc' : 'Next'), const SizedBox(width: 4), const Icon(Icons.chevron_right, size: 18)]),
+              ),
+              if (e.vi != null && e.vi!.isNotEmpty)
+                OutlinedButton.icon(onPressed: () => setState(() => _showVi = !_showVi), icon: const Icon(Icons.translate, size: 16), label: Text(_showVi ? 'Ẩn dịch' : 'Dịch')),
+              if (_r.graded && e.kind == 'fill')
+                OutlinedButton.icon(
+                  onPressed: () {
+                    final ctls = _controllers(e);
+                    for (var i = 0; i < e.blanks.length; i++) {
+                      ctls[i].text = e.blanks[i].answer;
+                    }
+                    setState(() {});
+                  },
+                  icon: const Icon(Icons.visibility_outlined, size: 16),
+                  label: const Text('Điền đáp án'),
+                ),
+              if (e.kind == 'choice' && !_r.graded) Text('Chọn sai lần đầu = không tính điểm', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+            ],
+          ),
+        ],
+      ),
     );
 
-    final main = Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-      Row(children: [
-        Expanded(child: ClipRRect(borderRadius: BorderRadius.circular(3), child: LinearProgressIndicator(value: (_pos + 1) / n))),
-        const SizedBox(width: 16),
-        Text.rich(TextSpan(children: [
-          TextSpan(text: 'Câu ', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
-          TextSpan(text: '${_pos + 1}', style: theme.textTheme.titleSmall),
-          TextSpan(text: ' / $n', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
-        ])),
-        // The mark's slot is always there so grading doesn't shrink the bar.
-        const SizedBox(width: 12),
-        SizedBox.square(
-          dimension: 20,
-          child: _r.graded ? Icon(_r.correct ? Icons.check_circle : Icons.cancel, size: 20, color: _r.correct ? g.iris : g.slate) : null,
+    final main = Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        Row(
+          children: [
+            Expanded(
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(3),
+                child: LinearProgressIndicator(value: (_pos + 1) / n),
+              ),
+            ),
+            const SizedBox(width: 16),
+            Text.rich(
+              TextSpan(
+                children: [
+                  TextSpan(
+                    text: 'Câu ',
+                    style: theme.textTheme.bodyMedium?.copyWith(color: g.slate),
+                  ),
+                  TextSpan(text: '${_pos + 1}', style: theme.textTheme.titleSmall),
+                  TextSpan(
+                    text: ' / $n',
+                    style: theme.textTheme.bodyMedium?.copyWith(color: g.slate),
+                  ),
+                ],
+              ),
+            ),
+            // The mark's slot is always there so grading doesn't shrink the bar.
+            const SizedBox(width: 12),
+            SizedBox.square(dimension: 20, child: _r.graded ? Icon(_r.correct ? Icons.check_circle : Icons.cancel, size: 20, color: _r.correct ? g.iris : g.slate) : null),
+          ],
         ),
-      ]),
-      const SizedBox(height: 16),
-      question,
-    ]);
+        const SizedBox(height: 16),
+        question,
+      ],
+    );
 
     final map = Surface(
       padding: const EdgeInsets.all(16),
-      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        Row(children: [
-          Expanded(child: Text(widget.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis)),
-          Text('$n câu', style: theme.textTheme.bodySmall),
-        ]),
-        const SizedBox(height: 12),
-        Wrap(spacing: 8, runSpacing: 8, children: [
-          for (var i = 0; i < n; i++) _dot(i, g, theme),
-        ]),
-        const SizedBox(height: 12),
-        Wrap(spacing: 12, runSpacing: 4, children: [
-          _legend(g.iris, g.iris, 'đúng', theme, g),
-          _legend(Colors.transparent, g.slate, 'sai', theme, g),
-          _legend(Colors.transparent, g.border, 'chưa làm', theme, g),
-        ]),
-        if (widget.onNextGroup != null) ...[
-          const Divider(height: 24),
-          TextButton(onPressed: widget.onNextGroup, child: const Text('Bài Tập kế →')),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Expanded(
+                child: Text(widget.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
+              ),
+              Text('$n câu', style: theme.textTheme.bodySmall),
+            ],
+          ),
+          const SizedBox(height: 12),
+          Wrap(spacing: 8, runSpacing: 8, children: [for (var i = 0; i < n; i++) _dot(i, g, theme)]),
+          const SizedBox(height: 12),
+          Wrap(
+            spacing: 12,
+            runSpacing: 4,
+            children: [_legend(g.iris, g.iris, 'đúng', theme, g), _legend(Colors.transparent, g.slate, 'sai', theme, g), _legend(Colors.transparent, g.border, 'chưa làm', theme, g)],
+          ),
+          if (widget.onNextGroup != null) ...[const Divider(height: 24), TextButton(onPressed: widget.onNextGroup, child: const Text('Bài Tập kế →'))],
         ],
-      ]),
+      ),
     );
 
     return Scaffold(
@@ -341,12 +397,12 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   }
 
   static String _defaultHeading(String kind) => switch (kind) {
-        'choice' => 'Hãy chọn câu đúng',
-        'error' => 'Chọn chỗ sai',
-        'fill' => 'Điền vào chỗ trống',
-        'scramble' => 'Xếp từ thành câu',
-        _ => 'Đọc và tra từ',
-      };
+    'choice' => 'Hãy chọn câu đúng',
+    'error' => 'Chọn chỗ sai',
+    'fill' => 'Điền vào chỗ trống',
+    'scramble' => 'Xếp từ thành câu',
+    _ => 'Đọc và tra từ',
+  };
 
   Widget _dot(int i, GrammarColors g, ThemeData theme) {
     final r = _res[i];
@@ -367,17 +423,33 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
       onTap: () => _go(i),
       customBorder: const CircleBorder(),
       child: Container(
-        decoration: cur ? BoxDecoration(shape: BoxShape.circle, boxShadow: [BoxShadow(color: g.lilac, spreadRadius: 3)]) : null,
+        decoration: cur
+            ? BoxDecoration(
+                shape: BoxShape.circle,
+                boxShadow: [BoxShadow(color: g.lilac, spreadRadius: 3)],
+              )
+            : null,
         child: LetterDot('${i + 1}', size: 28, fill: fill, border: border, color: color),
       ),
     );
   }
 
-  Widget _legend(Color fill, Color border, String label, ThemeData theme, GrammarColors g) => Row(mainAxisSize: MainAxisSize.min, children: [
-        Container(width: 12, height: 12, decoration: BoxDecoration(shape: BoxShape.circle, color: fill, border: Border.all(color: border))),
-        const SizedBox(width: 6),
-        Text(label, style: theme.textTheme.bodySmall),
-      ]);
+  Widget _legend(Color fill, Color border, String label, ThemeData theme, GrammarColors g) => Row(
+    mainAxisSize: MainAxisSize.min,
+    children: [
+      Container(
+        width: 12,
+        height: 12,
+        decoration: BoxDecoration(
+          shape: BoxShape.circle,
+          color: fill,
+          border: Border.all(color: border),
+        ),
+      ),
+      const SizedBox(width: 6),
+      Text(label, style: theme.textTheme.bodySmall),
+    ],
+  );
 
   // ---- bodies ----------------------------------------------------------------------
 
@@ -391,7 +463,13 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     final style = ReadingStyles.prompt(context);
     for (var i = 0; i < parts.length; i++) {
       if (parts[i].isNotEmpty) {
-        spans.add(WidgetSpan(alignment: PlaceholderAlignment.baseline, baseline: TextBaseline.alphabetic, child: WordTapText(parts[i], style: style, source: 'exercise:${e.id}')));
+        spans.add(
+          WidgetSpan(
+            alignment: PlaceholderAlignment.baseline,
+            baseline: TextBaseline.alphabetic,
+            child: WordTapText(parts[i], style: style, source: 'exercise:${e.id}'),
+          ),
+        );
       }
       if (i < idxs.length && idxs[i] < e.blanks.length) {
         final b = idxs[i];
@@ -401,41 +479,43 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
         final fs = style.fontSize ?? 20;
         final longest = e.blanks[b].accepted.fold(0, (m, a) => max(m, a.length));
         final width = ((max(7, longest + 1)) * fs * 0.6 + 16 + 24).clamp(120.0, 360.0);
-        spans.add(WidgetSpan(
-          alignment: PlaceholderAlignment.baseline,
-          baseline: TextBaseline.alphabetic,
-          child: SizedBox(
-            width: width,
-            child: Shortcuts(
-              shortcuts: _blankVerticalKeys,
-              child: TextField(
-                controller: ctls[b],
-                focusNode: nodes[b],
-                enabled: !_r.graded || !(ok ?? false),
-                style: style.copyWith(
-                  fontWeight: FontWeight.w600,
-                  color: ok == null ? g.iris : (ok ? g.iris : g.slate),
-                  decoration: ok == false ? TextDecoration.lineThrough : null,
-                  decorationColor: g.slate,
+        spans.add(
+          WidgetSpan(
+            alignment: PlaceholderAlignment.baseline,
+            baseline: TextBaseline.alphabetic,
+            child: SizedBox(
+              width: width,
+              child: Shortcuts(
+                shortcuts: _blankVerticalKeys,
+                child: TextField(
+                  controller: ctls[b],
+                  focusNode: nodes[b],
+                  enabled: !_r.graded || !(ok ?? false),
+                  style: style.copyWith(
+                    fontWeight: FontWeight.w600,
+                    color: ok == null ? g.iris : (ok ? g.iris : g.slate),
+                    decoration: ok == false ? TextDecoration.lineThrough : null,
+                    decorationColor: g.slate,
+                  ),
+                  textAlign: TextAlign.center,
+                  decoration: InputDecoration(
+                    isDense: true,
+                    contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    filled: true,
+                    fillColor: ok == null ? g.canvas : (ok ? g.lilac : g.canvas),
+                    suffixIcon: ok == null ? null : Icon(ok ? Icons.check : Icons.close, size: 16, color: ok ? g.iris : g.slate),
+                    suffixIconConstraints: const BoxConstraints(minWidth: 24, minHeight: 20),
+                    border: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
+                    enabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: ok == false ? g.slate : g.iris, width: 2)),
+                    focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
+                    disabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
+                  ),
+                  onSubmitted: (_) => _r.graded ? _next() : _gradeFill(),
                 ),
-                textAlign: TextAlign.center,
-                decoration: InputDecoration(
-                  isDense: true,
-                  contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                  filled: true,
-                  fillColor: ok == null ? g.canvas : (ok ? g.lilac : g.canvas),
-                  suffixIcon: ok == null ? null : Icon(ok ? Icons.check : Icons.close, size: 16, color: ok ? g.iris : g.slate),
-                  suffixIconConstraints: const BoxConstraints(minWidth: 24, minHeight: 20),
-                  border: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
-                  enabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: ok == false ? g.slate : g.iris, width: 2)),
-                  focusedBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
-                  disabledBorder: UnderlineInputBorder(borderSide: BorderSide(color: g.iris, width: 2)),
-                ),
-                onSubmitted: (_) => _r.graded ? _next() : _gradeFill(),
               ),
             ),
           ),
-        ));
+        );
       }
     }
     return Text.rich(TextSpan(children: spans), style: style);
@@ -462,18 +542,29 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
     final spans = <InlineSpan>[];
     for (var i = 0; i < parts.length; i++) {
       if (parts[i].isNotEmpty) {
-        spans.add(WidgetSpan(alignment: PlaceholderAlignment.baseline, baseline: TextBaseline.alphabetic, child: WordTapText(parts[i], style: style, source: 'exercise:${e.id}')));
+        spans.add(
+          WidgetSpan(
+            alignment: PlaceholderAlignment.baseline,
+            baseline: TextBaseline.alphabetic,
+            child: WordTapText(parts[i], style: style, source: 'exercise:${e.id}'),
+          ),
+        );
       }
       if (i < idxs.length) {
         final word = idxs[i] < e.blanks.length ? e.blanks[idxs[i]].answer : '';
-        spans.add(WidgetSpan(
-          alignment: PlaceholderAlignment.baseline,
-          baseline: TextBaseline.alphabetic,
-          child: InkWell(
-            onTap: word.isEmpty ? null : () => showQuickDef(context, ref, word, contextSentence: e.text.replaceAll(RegExp(r'\{\d+\}'), word), source: 'exercise:${e.id}'),
-            child: Text(word.isEmpty ? '______' : ' $word ', style: style.copyWith(color: g.iris, decoration: TextDecoration.underline, decorationColor: g.iris, decorationThickness: 1.5)),
+        spans.add(
+          WidgetSpan(
+            alignment: PlaceholderAlignment.baseline,
+            baseline: TextBaseline.alphabetic,
+            child: InkWell(
+              onTap: word.isEmpty ? null : () => showQuickDef(context, ref, word, contextSentence: e.text.replaceAll(RegExp(r'\{\d+\}'), word), source: 'exercise:${e.id}'),
+              child: Text(
+                word.isEmpty ? '______' : ' $word ',
+                style: style.copyWith(color: g.iris, decoration: TextDecoration.underline, decorationColor: g.iris, decorationThickness: 1.5),
+              ),
+            ),
           ),
-        ));
+        );
       }
     }
     return Text.rich(TextSpan(children: spans), style: style);
@@ -482,19 +573,30 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   Widget _choiceBody(Exercise e, ThemeData theme) {
     final wide = MediaQuery.sizeOf(context).width >= 700 && e.choices.every((c) => c.length < 40);
     final tiles = [for (var i = 0; i < e.choices.length; i++) _option(e, i, e.choices[i], theme)];
-    return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-      // Stems with a {n} slot (B+C VOCABULARY, tests): the slot holds the word the options
-      // replace — shown underlined, as the old app does ("A few _specks_ of paint …").
-      _choiceStem(e),
-      const SizedBox(height: 20),
-      if (wide)
-        LayoutBuilder(builder: (context, c) {
-          final w = (c.maxWidth - 12) / 2;
-          return Wrap(spacing: 12, runSpacing: 12, children: [for (final t in tiles) SizedBox(width: w, child: t)]);
-        })
-      else
-        Column(children: [for (final t in tiles) Padding(padding: const EdgeInsets.only(bottom: 10), child: t)]),
-    ]);
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        // Stems with a {n} slot (B+C VOCABULARY, tests): the slot holds the word the options
+        // replace — shown underlined, as the old app does ("A few _specks_ of paint …").
+        _choiceStem(e),
+        const SizedBox(height: 20),
+        if (wide)
+          LayoutBuilder(
+            builder: (context, c) {
+              final w = (c.maxWidth - 12) / 2;
+              return Wrap(
+                spacing: 12,
+                runSpacing: 12,
+                children: [for (final t in tiles) SizedBox(width: w, child: t)],
+              );
+            },
+          )
+        else
+          Column(
+            children: [for (final t in tiles) Padding(padding: const EdgeInsets.only(bottom: 10), child: t)],
+          ),
+      ],
+    );
   }
 
   Widget _errorBody(Exercise e, ThemeData theme) {
@@ -525,31 +627,52 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
           color = g.slate;
           strike = true;
         }
-        spans.add(WidgetSpan(
-          alignment: PlaceholderAlignment.baseline,
-          baseline: TextBaseline.alphabetic,
-          child: InkWell(
-            onTap: _r.graded ? null : () => _pick(b),
-            borderRadius: BorderRadius.circular(4),
-            child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 3),
-              decoration: BoxDecoration(color: bg, borderRadius: BorderRadius.circular(4)),
-              child: Text.rich(TextSpan(children: [
-                TextSpan(text: e.blanks[b].answer, style: style.copyWith(decoration: strike ? TextDecoration.lineThrough : TextDecoration.underline, decorationThickness: 2, decorationColor: underline, color: color, fontWeight: FontWeight.w600)),
-                TextSpan(text: ' $letter', style: theme.textTheme.labelMedium?.copyWith(color: color == g.ink ? g.fog : color)),
-              ])),
+        spans.add(
+          WidgetSpan(
+            alignment: PlaceholderAlignment.baseline,
+            baseline: TextBaseline.alphabetic,
+            child: InkWell(
+              onTap: _r.graded ? null : () => _pick(b),
+              borderRadius: BorderRadius.circular(4),
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 3),
+                decoration: BoxDecoration(color: bg, borderRadius: BorderRadius.circular(4)),
+                child: Text.rich(
+                  TextSpan(
+                    children: [
+                      TextSpan(
+                        text: e.blanks[b].answer,
+                        style: style.copyWith(
+                          decoration: strike ? TextDecoration.lineThrough : TextDecoration.underline,
+                          decorationThickness: 2,
+                          decorationColor: underline,
+                          color: color,
+                          fontWeight: FontWeight.w600,
+                        ),
+                      ),
+                      TextSpan(
+                        text: ' $letter',
+                        style: theme.textTheme.labelMedium?.copyWith(color: color == g.ink ? g.fog : color),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
             ),
           ),
-        ));
+        );
       }
     }
-    return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-      Text.rich(TextSpan(children: spans)),
-      if (_r.graded) ...[
-        const SizedBox(height: 10),
-        Text('Chỗ sai là ${String.fromCharCode(97 + e.answerIndex)}${_r.lostPoint ? ' · bạn đã chọn sai trước đó' : ''}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text.rich(TextSpan(children: spans)),
+        if (_r.graded) ...[
+          const SizedBox(height: 10),
+          Text('Chỗ sai là ${String.fromCharCode(97 + e.answerIndex)}${_r.lostPoint ? ' · bạn đã chọn sai trước đó' : ''}', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+        ],
       ],
-    ]);
+    );
   }
 
   Widget _option(Exercise e, int i, String text, ThemeData theme) {
@@ -595,26 +718,36 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
 
     return Material(
       color: bg,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(Tokens.radiusCard), side: BorderSide(color: border)),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(Tokens.radiusCard),
+        side: BorderSide(color: border),
+      ),
       child: InkWell(
         onTap: graded ? null : () => _pick(i),
         borderRadius: BorderRadius.circular(Tokens.radiusCard),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-          child: Row(children: [
-            LetterDot(letter, fill: dotFill, border: dotBorder, color: dotColor, child: dotChild),
-            const SizedBox(width: 14),
-            Expanded(
-              child: WordTapText(
-                text,
-                style: ReadingStyles.line(context).copyWith(fontSize: 18, color: fg, fontWeight: weight, decoration: strike ? TextDecoration.lineThrough : null, decorationColor: g.fog),
-                source: 'exercise:${e.id}',
+          child: Row(
+            children: [
+              LetterDot(letter, fill: dotFill, border: dotBorder, color: dotColor, child: dotChild),
+              const SizedBox(width: 14),
+              Expanded(
+                child: WordTapText(
+                  text,
+                  style: ReadingStyles.line(context).copyWith(fontSize: 18, color: fg, fontWeight: weight, decoration: strike ? TextDecoration.lineThrough : null, decorationColor: g.fog),
+                  source: 'exercise:${e.id}',
+                ),
               ),
-            ),
-            if (tag != null) ...[const SizedBox(width: 8), Text(tag, style: theme.textTheme.labelMedium?.copyWith(color: isAnswer ? g.iris : g.slate))],
-            if (graded && e.expl.length > 1 && !isAnswer && tag == null)
-              IconButton(tooltip: 'Vì sao?', visualDensity: VisualDensity.compact, icon: Icon(Icons.info_outline, size: 18, color: g.fog), onPressed: () => _showExplSheet(e, option: i)),
-          ]),
+              if (tag != null) ...[const SizedBox(width: 8), Text(tag, style: theme.textTheme.labelMedium?.copyWith(color: isAnswer ? g.iris : g.slate))],
+              if (graded && e.expl.length > 1 && !isAnswer && tag == null)
+                IconButton(
+                  tooltip: 'Vì sao?',
+                  visualDensity: VisualDensity.compact,
+                  icon: Icon(Icons.info_outline, size: 18, color: g.fog),
+                  onPressed: () => _showExplSheet(e, option: i),
+                ),
+            ],
+          ),
         ),
       ),
     );
@@ -627,23 +760,29 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
   /// Type 3 drill (XepTu.bas): put the sentence's words back in order. Correct when solved
   /// without "Đáp án"; Next is the runner's own button.
   Widget _scrambleBody(Exercise e, ThemeData theme) => ScrambleBoard(
-        key: ValueKey('scramble-${e.id}'),
-        sentence: e.text,
-        hint: 'Chạm các từ theo đúng thứ tự.',
-        onSolved: (revealed) {
-          if (_r.graded) return;
-          setState(() {
-            _r.graded = true;
-            _r.correct = !revealed;
-          });
-          _save();
-        },
-      );
+    key: ValueKey('scramble-${e.id}'),
+    sentence: e.text,
+    hint: 'Chạm các từ theo đúng thứ tự.',
+    onSolved: (revealed) {
+      if (_r.graded) return;
+      setState(() {
+        _r.graded = true;
+        _r.correct = !revealed;
+      });
+      _save();
+    },
+  );
 
-  Widget _sentencesBody(Exercise e, ThemeData theme) => Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        for (final line in e.text.split('\n').where((l) => l.trim().isNotEmpty))
-          Padding(padding: const EdgeInsets.symmetric(vertical: 4), child: WordTapText(line, style: ReadingStyles.prompt(context).copyWith(fontSize: 19), source: 'exercise:${e.id}')),
-      ]);
+  Widget _sentencesBody(Exercise e, ThemeData theme) => Column(
+    crossAxisAlignment: CrossAxisAlignment.start,
+    children: [
+      for (final line in e.text.split('\n').where((l) => l.trim().isNotEmpty))
+        Padding(
+          padding: const EdgeInsets.symmetric(vertical: 4),
+          child: WordTapText(line, style: ReadingStyles.prompt(context).copyWith(fontSize: 19), source: 'exercise:${e.id}'),
+        ),
+    ],
+  );
 
   // ---- explanations ------------------------------------------------------------------
 
@@ -675,49 +814,75 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
 
     return LilacPanel(
       padding: const EdgeInsets.fromLTRB(20, 16, 20, 16),
-      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        if (e.kind == 'fill')
-          Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: Wrap(spacing: 16, runSpacing: 6, crossAxisAlignment: WrapCrossAlignment.center, children: [
-              Text('Đáp án:', style: theme.textTheme.titleSmall?.copyWith(color: g.indigo)),
-              for (var b = 0; b < e.blanks.length; b++)
-                Text.rich(TextSpan(children: [
-                  if (e.blanks.length > 1) TextSpan(text: '${b + 1}. ', style: theme.textTheme.bodySmall),
-                  TextSpan(text: e.blanks[b].answer.isEmpty ? '(để trống)' : e.blanks[b].answer, style: ReadingStyles.line(context).copyWith(color: g.iris, fontWeight: FontWeight.w600)),
-                  if (e.blanks[b].alts.isNotEmpty) TextSpan(text: '  hoặc ${e.blanks[b].alts.join(' / ')}', style: theme.textTheme.bodySmall),
-                ])),
-            ]),
-          ),
-        for (final b in ordered) ...[
-          Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              _blockDot(b, e, g, theme),
-              const SizedBox(width: 12),
-              Expanded(
-                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  if (b.head.trim().isNotEmpty) Text(b.head, style: theme.textTheme.titleSmall?.copyWith(color: g.indigo)),
-                  for (final l in b.lines) MarkText(l, style: theme.textTheme.bodyLarge, source: 'exercise:${e.id}', onLessonRef: (n) => showLessonSheet(context, n)),
-                ]),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          if (e.kind == 'fill')
+            Padding(
+              padding: const EdgeInsets.only(bottom: 8),
+              child: Wrap(
+                spacing: 16,
+                runSpacing: 6,
+                crossAxisAlignment: WrapCrossAlignment.center,
+                children: [
+                  Text('Đáp án:', style: theme.textTheme.titleSmall?.copyWith(color: g.indigo)),
+                  for (var b = 0; b < e.blanks.length; b++)
+                    Text.rich(
+                      TextSpan(
+                        children: [
+                          if (e.blanks.length > 1) TextSpan(text: '${b + 1}. ', style: theme.textTheme.bodySmall),
+                          TextSpan(
+                            text: e.blanks[b].answer.isEmpty ? '(để trống)' : e.blanks[b].answer,
+                            style: ReadingStyles.line(context).copyWith(color: g.iris, fontWeight: FontWeight.w600),
+                          ),
+                          if (e.blanks[b].alts.isNotEmpty) TextSpan(text: '  hoặc ${e.blanks[b].alts.join(' / ')}', style: theme.textTheme.bodySmall),
+                        ],
+                      ),
+                    ),
+                ],
               ),
-            ]),
-          ),
+            ),
+          for (final b in ordered) ...[
+            Padding(
+              padding: const EdgeInsets.only(bottom: 8),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  _blockDot(b, e, g, theme),
+                  const SizedBox(width: 12),
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        if (b.head.trim().isNotEmpty) Text(b.head, style: theme.textTheme.titleSmall?.copyWith(color: g.indigo)),
+                        for (final l in b.lines) MarkText(l, style: theme.textTheme.bodyLarge, source: 'exercise:${e.id}', onLessonRef: (n) => showLessonSheet(context, n)),
+                      ],
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+          if (refs.isNotEmpty)
+            Padding(
+              padding: const EdgeInsets.only(top: 4),
+              child: Wrap(
+                spacing: 8,
+                runSpacing: 8,
+                crossAxisAlignment: WrapCrossAlignment.center,
+                children: [
+                  Text('Xem bài:', style: theme.textTheme.bodySmall),
+                  for (final r in refs.take(8))
+                    ActionChip(
+                      avatar: Icon(Icons.account_tree_outlined, size: 14, color: g.iris),
+                      label: Text(db.grammarLesson(r)?.title ?? 'Bài $r', style: theme.textTheme.bodySmall?.copyWith(color: g.iris)),
+                      onPressed: () => showLessonSheet(context, r),
+                    ),
+                ],
+              ),
+            ),
         ],
-        if (refs.isNotEmpty)
-          Padding(
-            padding: const EdgeInsets.only(top: 4),
-            child: Wrap(spacing: 8, runSpacing: 8, crossAxisAlignment: WrapCrossAlignment.center, children: [
-              Text('Xem bài:', style: theme.textTheme.bodySmall),
-              for (final r in refs.take(8))
-                ActionChip(
-                  avatar: Icon(Icons.account_tree_outlined, size: 14, color: g.iris),
-                  label: Text(db.grammarLesson(r)?.title ?? 'Bài $r', style: theme.textTheme.bodySmall?.copyWith(color: g.iris)),
-                  onPressed: () => showLessonSheet(context, r),
-                ),
-            ]),
-          ),
-      ]),
+      ),
     );
   }
 
@@ -738,13 +903,17 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
       constraints: const BoxConstraints(maxWidth: 720),
       builder: (c) => Padding(
         padding: const EdgeInsets.fromLTRB(24, 0, 24, 24),
-        child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
-          for (final b in blocks) ...[
-            Text(b.head, style: Theme.of(c).textTheme.titleSmall?.copyWith(color: c.g.indigo)),
-            for (final l in b.lines) MarkText(l, style: Theme.of(c).textTheme.bodyLarge, source: 'exercise:${e.id}', onLessonRef: (n) => showLessonSheet(c, n)),
-            const SizedBox(height: 10),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            for (final b in blocks) ...[
+              Text(b.head, style: Theme.of(c).textTheme.titleSmall?.copyWith(color: c.g.indigo)),
+              for (final l in b.lines) MarkText(l, style: Theme.of(c).textTheme.bodyLarge, source: 'exercise:${e.id}', onLessonRef: (n) => showLessonSheet(c, n)),
+              const SizedBox(height: 10),
+            ],
           ],
-        ]),
+        ),
       ),
     );
   }
@@ -763,36 +932,41 @@ class _ExerciseRunnerState extends ConsumerState<ExerciseRunner> {
           children: [
             Surface(
               padding: const EdgeInsets.all(32),
-              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                const Eyebrow('Kết quả'),
-                const SizedBox(height: 8),
-                Text('$pct %', style: theme.textTheme.displayLarge?.copyWith(color: g.iris, fontSize: 56)),
-                Text('Đúng $_score / $_done câu đã làm (${_items.length} câu)', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-                const SizedBox(height: 20),
-                Wrap(spacing: 8, runSpacing: 8, children: [
-                  for (var i = 0; i < _items.length; i++) _dot(i, g, theme),
-                ]),
-                const SizedBox(height: 24),
-                Wrap(spacing: 8, runSpacing: 8, children: [
-                  FilledButton(
-                    onPressed: () {
-                      for (var i = 0; i < _res.length; i++) {
-                        _res[i] = _Result();
-                      }
-                      for (final l in _ctls.values) {
-                        for (final c in l) {
-                          c.clear();
-                        }
-                      }
-                      _go(0);
-                    },
-                    child: const Text('Làm lại'),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Eyebrow('Kết quả'),
+                  const SizedBox(height: 8),
+                  Text('$pct %', style: theme.textTheme.displayLarge?.copyWith(color: g.iris, fontSize: 56)),
+                  Text('Đúng $_score / $_done câu đã làm (${_items.length} câu)', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                  const SizedBox(height: 20),
+                  Wrap(spacing: 8, runSpacing: 8, children: [for (var i = 0; i < _items.length; i++) _dot(i, g, theme)]),
+                  const SizedBox(height: 24),
+                  Wrap(
+                    spacing: 8,
+                    runSpacing: 8,
+                    children: [
+                      FilledButton(
+                        onPressed: () {
+                          for (var i = 0; i < _res.length; i++) {
+                            _res[i] = _Result();
+                          }
+                          for (final l in _ctls.values) {
+                            for (final c in l) {
+                              c.clear();
+                            }
+                          }
+                          _go(0);
+                        },
+                        child: const Text('Làm lại'),
+                      ),
+                      OutlinedButton(onPressed: () => _go(0), child: const Text('Xem lại')),
+                      if (widget.onNextGroup != null) OutlinedButton(onPressed: widget.onNextGroup, child: const Text('Bài Tập kế')),
+                      TextButton(onPressed: () => Navigator.of(context).pop(), child: const Text('Đóng')),
+                    ],
                   ),
-                  OutlinedButton(onPressed: () => _go(0), child: const Text('Xem lại')),
-                  if (widget.onNextGroup != null) OutlinedButton(onPressed: widget.onNextGroup, child: const Text('Bài Tập kế')),
-                  TextButton(onPressed: () => Navigator.of(context).pop(), child: const Text('Đóng')),
-                ]),
-              ]),
+                ],
+              ),
             ),
           ],
         ),

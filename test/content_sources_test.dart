@@ -38,15 +38,15 @@ void main() {
     final user = UserDb.open('${tmp.path}/user.db')
       ..setSetting(audioDirKey, audio)
       ..setSetting(videoDirKey, video);
-    await tester.pumpWidget(ProviderScope(
-      overrides: [
-        contentDbProvider.overrideWithValue(db),
-        userDbProvider.overrideWithValue(user),
-        ttsProvider.overrideWithValue(TtsService()),
-      ],
-      child: const MaterialApp(home: Scaffold(body: SingleChildScrollView(child: ContentSourcesSection()))),
-    ));
-    await tester.runAsync(() async => tester.pump());   // summaries run after the first frame
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())],
+        child: const MaterialApp(
+          home: Scaffold(body: SingleChildScrollView(child: ContentSourcesSection())),
+        ),
+      ),
+    );
+    await tester.runAsync(() async => tester.pump()); // summaries run after the first frame
     await tester.pump();
     if (db.contentVersion != null) expect(find.textContaining('phiên bản ${db.contentVersion}'), findsOneWidget);
     expect(find.textContaining('119/119 bài có file ghi âm'), findsOneWidget);

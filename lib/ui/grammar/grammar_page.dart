@@ -20,7 +20,7 @@ final grammarLessonsProvider = Provider<List<GrammarLesson>>((ref) => ref.watch(
 class _Chapter {
   final GrammarLesson head;
   final List<GrammarLesson> lessons = [];
-  bool intro = true;  // the "Giới thiệu chương" row (head of a real chapter)
+  bool intro = true; // the "Giới thiệu chương" row (head of a real chapter)
   _Chapter(this.head);
 }
 
@@ -40,15 +40,18 @@ List<_Chapter> _chapters(List<GrammarLesson> all) {
 /// The chapters that hold a bookmarked lesson, with only those lessons; a chapter intro is
 /// kept when the intro itself is bookmarked.
 List<_Chapter> _markedChapters(List<GrammarLesson> all, Set<int> marks) => [
-      for (final c in _chapters(all))
-        if (c.lessons.any((l) => marks.contains(l.ref)) || (c.head.chapter && marks.contains(c.head.ref)))
-          _Chapter(c.head)
-            ..intro = c.head.chapter && marks.contains(c.head.ref)
-            ..lessons.addAll(c.lessons.where((l) => marks.contains(l.ref))),
-    ];
+  for (final c in _chapters(all))
+    if (c.lessons.any((l) => marks.contains(l.ref)) || (c.head.chapter && marks.contains(c.head.ref)))
+      _Chapter(c.head)
+        ..intro = c.head.chapter && marks.contains(c.head.ref)
+        ..lessons.addAll(c.lessons.where((l) => marks.contains(l.ref))),
+];
 
 /// Bookmarked lessons in book order, for Bài trước / Bài kế on Ngữ Pháp Của Bạn.
-List<GrammarLesson> _markedSequence(List<GrammarLesson> all, Set<int> marks) => [for (final l in all) if (marks.contains(l.ref)) l];
+List<GrammarLesson> _markedSequence(List<GrammarLesson> all, Set<int> marks) => [
+  for (final l in all)
+    if (marks.contains(l.ref)) l,
+];
 
 _Chapter? _chapterOf(List<_Chapter> chapters, int ref) => chapters.where((c) => c.head.ref == ref || c.lessons.any((l) => l.ref == ref)).firstOrNull;
 
@@ -82,38 +85,51 @@ class _ChapterTree extends StatelessWidget {
     final g = context.g;
     final theme = Theme.of(context);
     final f = filter.toLowerCase();
-    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-      for (var i = 0; i < chapters.length; i++) ...[
-        if (f.isEmpty || chapters[i].head.title.toLowerCase().contains(f) || chapters[i].lessons.any((l) => l.title.toLowerCase().contains(f)))
-          InkWell(
-            onTap: () => onOpenChapter(i),
-            borderRadius: BorderRadius.circular(4),
-            child: Padding(
-              padding: const EdgeInsets.fromLTRB(12, 10, 12, 4),
-              child: Row(children: [
-                Icon(i == openChapter || f.isNotEmpty ? Icons.expand_more : Icons.chevron_right, size: 16, color: g.slate),
-                const SizedBox(width: 8),
-                Expanded(child: Text(chapters[i].head.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis)),
-                Text('${chapters[i].lessons.length}', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
-              ]),
-            ),
-          ),
-        if (i == openChapter || f.isNotEmpty) ...[
-          if (chapters[i].head.chapter && chapters[i].intro && f.isEmpty)
-            _LessonRow(lesson: chapters[i].head, label: 'Giới thiệu chương', selected: currentRef == chapters[i].head.ref, marked: marks.contains(chapters[i].head.ref), onTap: () => onLesson(chapters[i].head)),
-          for (final l in chapters[i].lessons)
-            if (f.isEmpty || l.title.toLowerCase().contains(f))
-              _LessonRow(
-                lesson: l,
-                selected: currentRef == l.ref,
-                selectMode: selectMode,
-                picked: picked.contains(l.ref),
-                marked: marks.contains(l.ref),
-                onTap: selectMode ? (l.drills ? () => onTogglePick?.call(l.ref) : null) : () => onLesson(l),
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        for (var i = 0; i < chapters.length; i++) ...[
+          if (f.isEmpty || chapters[i].head.title.toLowerCase().contains(f) || chapters[i].lessons.any((l) => l.title.toLowerCase().contains(f)))
+            InkWell(
+              onTap: () => onOpenChapter(i),
+              borderRadius: BorderRadius.circular(4),
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(12, 10, 12, 4),
+                child: Row(
+                  children: [
+                    Icon(i == openChapter || f.isNotEmpty ? Icons.expand_more : Icons.chevron_right, size: 16, color: g.slate),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Text(chapters[i].head.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
+                    ),
+                    Text('${chapters[i].lessons.length}', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+                  ],
+                ),
               ),
+            ),
+          if (i == openChapter || f.isNotEmpty) ...[
+            if (chapters[i].head.chapter && chapters[i].intro && f.isEmpty)
+              _LessonRow(
+                lesson: chapters[i].head,
+                label: 'Giới thiệu chương',
+                selected: currentRef == chapters[i].head.ref,
+                marked: marks.contains(chapters[i].head.ref),
+                onTap: () => onLesson(chapters[i].head),
+              ),
+            for (final l in chapters[i].lessons)
+              if (f.isEmpty || l.title.toLowerCase().contains(f))
+                _LessonRow(
+                  lesson: l,
+                  selected: currentRef == l.ref,
+                  selectMode: selectMode,
+                  picked: picked.contains(l.ref),
+                  marked: marks.contains(l.ref),
+                  onTap: selectMode ? (l.drills ? () => onTogglePick?.call(l.ref) : null) : () => onLesson(l),
+                ),
+          ],
         ],
       ],
-    ]);
+    );
   }
 }
 
@@ -139,22 +155,25 @@ class _LessonRow extends StatelessWidget {
         child: Padding(
           // The bookmark sits in the left gutter, so titles stay aligned whether marked or not.
           padding: const EdgeInsets.fromLTRB(4, 8, 12, 8),
-          child: Row(children: [
-            SizedBox(width: 20, child: marked ? Icon(Icons.bookmark, size: 14, color: g.iris) : null),
-            if (selectMode) ...[
-              Icon(picked ? Icons.check_box : Icons.check_box_outline_blank, size: 18, color: lesson.drills ? (picked ? g.iris : g.fog) : g.border),
-              const SizedBox(width: 8),
-            ],
-            Expanded(
-              child: Text(
-                label ?? lesson.title,
-                maxLines: 2,
-                overflow: TextOverflow.ellipsis,
-                style: theme.textTheme.bodyMedium?.copyWith(color: onTap == null && selectMode ? g.fog : (selected ? g.iris : g.ink), fontWeight: selected ? FontWeight.w600 : FontWeight.w400, fontStyle: label != null ? FontStyle.italic : null),
+          child: Row(
+            children: [
+              SizedBox(width: 20, child: marked ? Icon(Icons.bookmark, size: 14, color: g.iris) : null),
+              if (selectMode) ...[Icon(picked ? Icons.check_box : Icons.check_box_outline_blank, size: 18, color: lesson.drills ? (picked ? g.iris : g.fog) : g.border), const SizedBox(width: 8)],
+              Expanded(
+                child: Text(
+                  label ?? lesson.title,
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: theme.textTheme.bodyMedium?.copyWith(
+                    color: onTap == null && selectMode ? g.fog : (selected ? g.iris : g.ink),
+                    fontWeight: selected ? FontWeight.w600 : FontWeight.w400,
+                    fontStyle: label != null ? FontStyle.italic : null,
+                  ),
+                ),
               ),
-            ),
-            if (lesson.drills) SoftBadge('BT', background: selected ? g.card : null),
-          ]),
+              if (lesson.drills) SoftBadge('BT', background: selected ? g.card : null),
+            ],
+          ),
         ),
       ),
     );
@@ -211,9 +230,9 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
   }
 
   void _toggleSelect() => setState(() {
-        _selectMode = !_selectMode;
-        _picked.clear();
-      });
+    _selectMode = !_selectMode;
+    _picked.clear();
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -229,24 +248,27 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
 
     final tree = Surface(
       padding: const EdgeInsets.all(8),
-      child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-        Padding(
-          padding: const EdgeInsets.fromLTRB(4, 4, 4, 8),
-          child: SearchPill(hint: saved ? 'Tìm trong bài đã lưu' : 'Tìm bài văn phạm', onChanged: (v) => setState(() => _filter = v.trim())),
-        ),
-        _ChapterTree(
-          chapters: chapters,
-          openChapter: _chapter,
-          currentRef: wide ? _currentRef : null,
-          filter: _filter,
-          onOpenChapter: _openChapter,
-          onLesson: _openLesson,
-          selectMode: _selectMode,
-          picked: _picked,
-          onTogglePick: (r) => setState(() => _picked.contains(r) ? _picked.remove(r) : _picked.add(r)),
-          marks: saved ? const {} : marks,
-        ),
-      ]),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          Padding(
+            padding: const EdgeInsets.fromLTRB(4, 4, 4, 8),
+            child: SearchPill(hint: saved ? 'Tìm trong bài đã lưu' : 'Tìm bài văn phạm', onChanged: (v) => setState(() => _filter = v.trim())),
+          ),
+          _ChapterTree(
+            chapters: chapters,
+            openChapter: _chapter,
+            currentRef: wide ? _currentRef : null,
+            filter: _filter,
+            onOpenChapter: _openChapter,
+            onLesson: _openLesson,
+            selectMode: _selectMode,
+            picked: _picked,
+            onTogglePick: (r) => setState(() => _picked.contains(r) ? _picked.remove(r) : _picked.add(r)),
+            marks: saved ? const {} : marks,
+          ),
+        ],
+      ),
     );
 
     final lesson = wide && _currentRef != null ? db.grammarLesson(_currentRef!) : null;
@@ -262,11 +284,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
         helpSlug: 'van-pham',
         actions: [
           if (wide)
-            OutlinedButton.icon(
-              onPressed: _toggleSelect,
-              icon: Icon(_selectMode ? Icons.close : Icons.checklist, size: 18),
-              label: Text(_selectMode ? 'Thoát chọn' : 'Chọn nhiều bài'),
-            )
+            OutlinedButton.icon(onPressed: _toggleSelect, icon: Icon(_selectMode ? Icons.close : Icons.checklist, size: 18), label: Text(_selectMode ? 'Thoát chọn' : 'Chọn nhiều bài'))
           else
             RoundIconButton(icon: _selectMode ? Icons.close : Icons.checklist, tooltip: _selectMode ? 'Thoát chọn' : 'Chọn nhiều bài', active: _selectMode, onPressed: _toggleSelect),
         ],
@@ -277,35 +295,44 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
             Padding(
               padding: const EdgeInsets.only(bottom: 16),
               child: LilacPanel(
-                child: Row(children: [
-                  Icon(Icons.checklist, color: g.iris),
-                  const SizedBox(width: 12),
-                  Expanded(child: Text('Chọn các bài có BT rồi bấm "Làm bài tập trộn": câu hỏi của những bài đó được trộn chung.', style: theme.textTheme.bodyMedium?.copyWith(color: g.indigo))),
-                  // On a phone the button sits in the bottom bar instead, in reach while scrolling.
-                  if (wide) ...[const SizedBox(width: 12), mix],
-                ]),
+                child: Row(
+                  children: [
+                    Icon(Icons.checklist, color: g.iris),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Text('Chọn các bài có BT rồi bấm "Làm bài tập trộn": câu hỏi của những bài đó được trộn chung.', style: theme.textTheme.bodyMedium?.copyWith(color: g.indigo)),
+                    ),
+                    // On a phone the button sits in the bottom bar instead, in reach while scrolling.
+                    if (wide) ...[const SizedBox(width: 12), mix],
+                  ],
+                ),
               ),
             ),
           if (saved && chapters.isEmpty)
             const EmptyNote('Chưa lưu bài nào. Mở một bài văn phạm và bấm "Lưu bài" để thêm vào đây.')
           else if (wide)
-            Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              SizedBox(width: 320, child: tree),
-              const SizedBox(width: 24),
-              Expanded(
-                child: lesson == null
-                    ? Surface(
-                        padding: const EdgeInsets.all(40),
-                        child: Column(children: [
-                          Icon(Icons.account_tree_outlined, size: 40, color: g.fog),
-                          const SizedBox(height: 12),
-                          Text('Chọn một bài bên trái.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
-                          Text('${saved ? '${marks.length} bài đã lưu' : '${all.length} mục'} · bài có nhãn BT có bài tập đi kèm', style: theme.textTheme.bodySmall),
-                        ]),
-                      )
-                    : LessonCard(lesson: lesson, all: all, sequence: saved ? _markedSequence(all, marks) : null, onNavigate: (r) => setState(() => _currentRef = r)),
-              ),
-            ])
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                SizedBox(width: 320, child: tree),
+                const SizedBox(width: 24),
+                Expanded(
+                  child: lesson == null
+                      ? Surface(
+                          padding: const EdgeInsets.all(40),
+                          child: Column(
+                            children: [
+                              Icon(Icons.account_tree_outlined, size: 40, color: g.fog),
+                              const SizedBox(height: 12),
+                              Text('Chọn một bài bên trái.', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+                              Text('${saved ? '${marks.length} bài đã lưu' : '${all.length} mục'} · bài có nhãn BT có bài tập đi kèm', style: theme.textTheme.bodySmall),
+                            ],
+                          ),
+                        )
+                      : LessonCard(lesson: lesson, all: all, sequence: saved ? _markedSequence(all, marks) : null, onNavigate: (r) => setState(() => _currentRef = r)),
+                ),
+              ],
+            )
           else
             tree,
         ],
@@ -313,7 +340,10 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
       bottomNavigationBar: _selectMode && !wide
           ? SafeArea(
               child: Container(
-                decoration: BoxDecoration(color: g.card, border: Border(top: BorderSide(color: g.border))),
+                decoration: BoxDecoration(
+                  color: g.card,
+                  border: Border(top: BorderSide(color: g.border)),
+                ),
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
                 child: mix,
               ),
@@ -325,6 +355,7 @@ class _GrammarPageState extends ConsumerState<GrammarPage> {
 
 class GrammarLessonPage extends ConsumerStatefulWidget {
   final int ref;
+
   /// Opened from Ngữ Pháp Của Bạn: Bài trước / Bài kế stay among the bookmarked lessons.
   final bool saved;
   const GrammarLessonPage({super.key, required this.ref, this.saved = false});
@@ -364,19 +395,24 @@ class _GrammarLessonPageState extends ConsumerState<GrammarLessonPage> {
     final chapter = _chapterOf(_chapters(all), ref);
     final saved = widget.saved;
     return Scaffold(
-      appBar: GrammarAppBar(crumbs: [
-        if (saved) const Crumb('Ngữ Pháp Của Bạn', '/my-grammar') else const Crumb('Văn Phạm', '/grammar'),
-        if (!saved && chapter != null && chapter.head.ref != ref) Crumb(chapter.head.title, '/grammar'),
-        Crumb(l.title),
-      ]),
-      body: RailListView(maxWidth: 960, children: [
-        LessonCard(
-          lesson: l,
-          all: all,
-          sequence: saved ? _markedSequence(all, this.ref.watch(grammarMarksProvider)) : null,
-          onNavigate: (r) => context.pushReplacement('/grammar/$r${saved ? '?saved=1' : ''}'),
-        ),
-      ]),
+      appBar: GrammarAppBar(
+        crumbs: [
+          if (saved) const Crumb('Ngữ Pháp Của Bạn', '/my-grammar') else const Crumb('Văn Phạm', '/grammar'),
+          if (!saved && chapter != null && chapter.head.ref != ref) Crumb(chapter.head.title, '/grammar'),
+          Crumb(l.title),
+        ],
+      ),
+      body: RailListView(
+        maxWidth: 960,
+        children: [
+          LessonCard(
+            lesson: l,
+            all: all,
+            sequence: saved ? _markedSequence(all, this.ref.watch(grammarMarksProvider)) : null,
+            onNavigate: (r) => context.pushReplacement('/grammar/$r${saved ? '?saved=1' : ''}'),
+          ),
+        ],
+      ),
     );
   }
 }
@@ -386,6 +422,7 @@ class _GrammarLessonPageState extends ConsumerState<GrammarLessonPage> {
 class LessonCard extends ConsumerWidget {
   final GrammarLesson lesson;
   final List<GrammarLesson> all;
+
   /// What Bài trước / Bài kế walk through; every lesson ([all]) when null.
   final List<GrammarLesson>? sequence;
   final ValueChanged<int> onNavigate;
@@ -406,69 +443,90 @@ class LessonCard extends ConsumerWidget {
     final narrow = MediaQuery.sizeOf(context).width < 600;
     return Surface(
       padding: EdgeInsets.symmetric(horizontal: narrow ? 20 : 40, vertical: narrow ? 24 : 32),
-      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        // Title wraps inside its column; the button keeps one place (top right, or under
-        // the title on narrow screens) whatever the title length.
-        Builder(builder: (context) {
-          final head = Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Eyebrow(chapter == null || lesson.chapter ? 'Bài ${lesson.ref}' : '${chapter.head.title} · bài $pos/${chapter.lessons.length}'),
-            const SizedBox(height: 2),
-            Text(lesson.title, style: theme.textTheme.headlineLarge),
-          ]);
-          final button = Wrap(spacing: 8, runSpacing: 8, children: [
-            GrammarMarkButton(lessonRef: lesson.ref),
-            if (lesson.drills)
-              FilledButton.icon(
-                onPressed: () => context.push('/exercises/lessons/${lesson.ref}'),
-                icon: const Icon(Icons.edit_outlined, size: 18),
-                label: const Text('Làm Bài Tập'),
-              ),
-          ]);
-          if (narrow) {
-            return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [head, const SizedBox(height: 12), button]);
-          }
-          return Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Expanded(child: head),
-            const SizedBox(width: 16),
-            Padding(padding: const EdgeInsets.only(top: 22), child: button),
-          ]);
-        }),
-        const SizedBox(height: 20),
-        MarkText(lesson.body, source: 'grammar:${lesson.ref}', onLessonRef: (n) => showLessonSheet(context, n)),
-        const SizedBox(height: 24),
-        Container(
-          padding: const EdgeInsets.only(top: 16),
-          decoration: BoxDecoration(border: Border(top: BorderSide(color: g.border))),
-          // Each button gets half the row (no Spacer eating a third) and may wrap to two
-          // lines, so titles stay readable on phones.
-          child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Expanded(
-              child: Align(
-                alignment: Alignment.centerLeft,
-                child: OutlinedButton.icon(
-                  onPressed: prev == null ? null : () => onNavigate(prev.ref),
-                  icon: const Icon(Icons.chevron_left, size: 18),
-                  label: Text(prev?.title ?? 'Bài trước', maxLines: 2, overflow: TextOverflow.ellipsis),
-                ),
-              ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Title wraps inside its column; the button keeps one place (top right, or under
+          // the title on narrow screens) whatever the title length.
+          Builder(
+            builder: (context) {
+              final head = Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Eyebrow(chapter == null || lesson.chapter ? 'Bài ${lesson.ref}' : '${chapter.head.title} · bài $pos/${chapter.lessons.length}'),
+                  const SizedBox(height: 2),
+                  Text(lesson.title, style: theme.textTheme.headlineLarge),
+                ],
+              );
+              final button = Wrap(
+                spacing: 8,
+                runSpacing: 8,
+                children: [
+                  GrammarMarkButton(lessonRef: lesson.ref),
+                  if (lesson.drills)
+                    FilledButton.icon(onPressed: () => context.push('/exercises/lessons/${lesson.ref}'), icon: const Icon(Icons.edit_outlined, size: 18), label: const Text('Làm Bài Tập')),
+                ],
+              );
+              if (narrow) {
+                return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [head, const SizedBox(height: 12), button]);
+              }
+              return Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Expanded(child: head),
+                  const SizedBox(width: 16),
+                  Padding(padding: const EdgeInsets.only(top: 22), child: button),
+                ],
+              );
+            },
+          ),
+          const SizedBox(height: 20),
+          MarkText(lesson.body, source: 'grammar:${lesson.ref}', onLessonRef: (n) => showLessonSheet(context, n)),
+          const SizedBox(height: 24),
+          Container(
+            padding: const EdgeInsets.only(top: 16),
+            decoration: BoxDecoration(
+              border: Border(top: BorderSide(color: g.border)),
             ),
-            const SizedBox(width: 12),
-            Expanded(
-              child: Align(
-                alignment: Alignment.centerRight,
-                child: OutlinedButton(
-                  onPressed: next == null ? null : () => onNavigate(next.ref),
-                  child: Row(mainAxisSize: MainAxisSize.min, children: [
-                    Flexible(child: Text(next?.title ?? 'Bài kế', maxLines: 2, overflow: TextOverflow.ellipsis, textAlign: TextAlign.end)),
-                    const SizedBox(width: 4),
-                    const Icon(Icons.chevron_right, size: 18),
-                  ]),
+            // Each button gets half the row (no Spacer eating a third) and may wrap to two
+            // lines, so titles stay readable on phones.
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Expanded(
+                  child: Align(
+                    alignment: Alignment.centerLeft,
+                    child: OutlinedButton.icon(
+                      onPressed: prev == null ? null : () => onNavigate(prev.ref),
+                      icon: const Icon(Icons.chevron_left, size: 18),
+                      label: Text(prev?.title ?? 'Bài trước', maxLines: 2, overflow: TextOverflow.ellipsis),
+                    ),
+                  ),
                 ),
-              ),
+                const SizedBox(width: 12),
+                Expanded(
+                  child: Align(
+                    alignment: Alignment.centerRight,
+                    child: OutlinedButton(
+                      onPressed: next == null ? null : () => onNavigate(next.ref),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Flexible(
+                            child: Text(next?.title ?? 'Bài kế', maxLines: 2, overflow: TextOverflow.ellipsis, textAlign: TextAlign.end),
+                          ),
+                          const SizedBox(width: 4),
+                          const Icon(Icons.chevron_right, size: 18),
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+              ],
             ),
-          ]),
-        ),
-      ]),
+          ),
+        ],
+      ),
     );
   }
 }
@@ -494,9 +552,9 @@ class LessonBody extends StatelessWidget {
   const LessonBody({super.key, required this.lesson});
   @override
   Widget build(BuildContext context) => SingleChildScrollView(
-        padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
-        child: MarkText(lesson.body, source: 'grammar:${lesson.ref}', onLessonRef: (n) => showLessonSheet(context, n)),
-      );
+    padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
+    child: MarkText(lesson.body, source: 'grammar:${lesson.ref}', onLessonRef: (n) => showLessonSheet(context, n)),
+  );
 }
 
 /// Opens a grammar lesson in a sheet on top of the current screen (links from exercises).
@@ -518,18 +576,20 @@ Future<void> showLessonSheet(BuildContext context, int ref) {
               controller: ctl,
               padding: const EdgeInsets.fromLTRB(28, 0, 28, 24),
               children: [
-                Row(children: [
-                  Expanded(child: Text(l.title, style: Theme.of(context).textTheme.headlineSmall)),
-                  GrammarMarkButton(lessonRef: ref),
-                  const SizedBox(width: 4),
-                  TextButton(
-                    onPressed: () {
-                      Navigator.pop(context);
-                      context.push('/grammar/$ref');
-                    },
-                    child: const Text('Mở trang bài'),
-                  ),
-                ]),
+                Row(
+                  children: [
+                    Expanded(child: Text(l.title, style: Theme.of(context).textTheme.headlineSmall)),
+                    GrammarMarkButton(lessonRef: ref),
+                    const SizedBox(width: 4),
+                    TextButton(
+                      onPressed: () {
+                        Navigator.pop(context);
+                        context.push('/grammar/$ref');
+                      },
+                      child: const Text('Mở trang bài'),
+                    ),
+                  ],
+                ),
                 const SizedBox(height: 12),
                 MarkText(l.body, source: 'grammar:$ref', onLessonRef: (n) => showLessonSheet(context, n)),
               ],
