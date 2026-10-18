@@ -270,7 +270,7 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
         Expanded(
           child: GridView.builder(
             padding: const EdgeInsets.fromLTRB(16, 8, 16, 90),
-            gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(maxCrossAxisExtent: 180, mainAxisExtent: 40, crossAxisSpacing: 6, mainAxisSpacing: 6),
+            gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(maxCrossAxisExtent: 200, mainAxisExtent: 40, crossAxisSpacing: 6, mainAxisSpacing: 6),
             itemCount: shown.length,
             itemBuilder: (context, i) {
               final r = shown[i];
@@ -288,7 +288,15 @@ class _WordFormsPageState extends ConsumerState<WordFormsPage> {
                     child: Row(children: [
                       if (r.common) Icon(Icons.star, size: 12, color: g.fog),
                       if (r.common) const SizedBox(width: 4),
-                      Expanded(child: Text(r.root, maxLines: 1, overflow: TextOverflow.ellipsis, style: ReadingStyles.line(context).copyWith(fontSize: 15, color: color ?? g.ink, fontWeight: color != null ? FontWeight.w600 : null))),
+                      // Long roots (superconductivity) shrink to fit the cell rather than lose letters.
+                      Expanded(
+                        child: FittedBox(
+                          fit: BoxFit.scaleDown,
+                          alignment: Alignment.centerLeft,
+                          child: Text(r.root, maxLines: 1, style: ReadingStyles.line(context).copyWith(fontSize: 15, color: color ?? g.ink, fontWeight: color != null ? FontWeight.w600 : null)),
+                        ),
+                      ),
+                      const SizedBox(width: 4),
                       Text('${r.count}', style: theme.textTheme.labelSmall),
                     ]),
                   ),
