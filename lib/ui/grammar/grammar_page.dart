@@ -439,23 +439,31 @@ class LessonCard extends ConsumerWidget {
         Container(
           padding: const EdgeInsets.only(top: 16),
           decoration: BoxDecoration(border: Border(top: BorderSide(color: g.border))),
-          child: Row(children: [
-            Flexible(
-              child: OutlinedButton.icon(
-                onPressed: prev == null ? null : () => onNavigate(prev.ref),
-                icon: const Icon(Icons.chevron_left, size: 18),
-                label: Text(prev?.title ?? 'Bài trước', maxLines: 1, overflow: TextOverflow.ellipsis),
+          // Each button gets half the row (no Spacer eating a third) and may wrap to two
+          // lines, so titles stay readable on phones.
+          child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Expanded(
+              child: Align(
+                alignment: Alignment.centerLeft,
+                child: OutlinedButton.icon(
+                  onPressed: prev == null ? null : () => onNavigate(prev.ref),
+                  icon: const Icon(Icons.chevron_left, size: 18),
+                  label: Text(prev?.title ?? 'Bài trước', maxLines: 2, overflow: TextOverflow.ellipsis),
+                ),
               ),
             ),
-            const Spacer(),
-            Flexible(
-              child: OutlinedButton(
-                onPressed: next == null ? null : () => onNavigate(next.ref),
-                child: Row(mainAxisSize: MainAxisSize.min, children: [
-                  Flexible(child: Text(next?.title ?? 'Bài kế', maxLines: 1, overflow: TextOverflow.ellipsis)),
-                  const SizedBox(width: 4),
-                  const Icon(Icons.chevron_right, size: 18),
-                ]),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Align(
+                alignment: Alignment.centerRight,
+                child: OutlinedButton(
+                  onPressed: next == null ? null : () => onNavigate(next.ref),
+                  child: Row(mainAxisSize: MainAxisSize.min, children: [
+                    Flexible(child: Text(next?.title ?? 'Bài kế', maxLines: 2, overflow: TextOverflow.ellipsis, textAlign: TextAlign.end)),
+                    const SizedBox(width: 4),
+                    const Icon(Icons.chevron_right, size: 18),
+                  ]),
+                ),
               ),
             ),
           ]),
