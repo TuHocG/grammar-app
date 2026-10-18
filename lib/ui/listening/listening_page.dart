@@ -323,10 +323,12 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
           TextSpan(text: '${_pos + 1}', style: theme.textTheme.titleSmall),
           TextSpan(text: ' / $n', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
         ])),
-        if (_r.graded) ...[
-          const SizedBox(width: 12),
-          Icon(_r.correct ? Icons.check_circle : Icons.cancel, size: 20, color: _r.correct ? g.iris : g.slate),
-        ],
+        // The mark's slot is always there so grading doesn't shrink the bar.
+        const SizedBox(width: 12),
+        SizedBox.square(
+          dimension: 20,
+          child: _r.graded ? Icon(_r.correct ? Icons.check_circle : Icons.cancel, size: 20, color: _r.correct ? g.iris : g.slate) : null,
+        ),
       ]),
       const SizedBox(height: 16),
       question,
