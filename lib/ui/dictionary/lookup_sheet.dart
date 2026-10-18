@@ -1,7 +1,8 @@
 /// Tra nhanh from any page (the 🔍 of the top bar): a bottom sheet with a search field and
 /// the dictionary list around what is typed, each row with its short meaning. Tapping a row
 /// opens the quick definition on top, so closing it returns to the search for the next word;
-/// "Mở Từ điển" leaves for the full dictionary page.
+/// "Mở Từ điển" leaves for the full dictionary page. On a keyboard, ↑ / ↓ pick a row and
+/// Enter opens it.
 library;
 
 import 'dart:async';
@@ -15,6 +16,7 @@ import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../../data/models.dart';
 import '../../data/search_key.dart';
+import '../widgets/list_arrow_keys.dart';
 import '../widgets/shell.dart';
 import 'quick_def_sheet.dart';
 
@@ -38,6 +40,9 @@ class _LookupSheetState extends ConsumerState<LookupSheet> {
   Timer? _debounce;
   String _key = '';
   List<DictHit> _hits = const [];
+  /// Row picked with ↑ / ↓; -1 = none, Enter then goes by what is typed.
+  int _active = -1;
+  final _activeKey = GlobalKey();
 
   @override
   void dispose() {
@@ -47,6 +52,8 @@ class _LookupSheetState extends ConsumerState<LookupSheet> {
   }
 
   void _onChanged(String text) {
+    // Right away, not after the debounce: Enter must not open a row picked for older text.
+    _active = -1;
     _debounce?.cancel();
     _debounce = Timer(const Duration(milliseconds: 120), () {
       if (!mounted) return;
@@ -54,6 +61,7 @@ class _LookupSheetState extends ConsumerState<LookupSheet> {
       setState(() {
         _key = key;
         _hits = key.isEmpty ? const [] : ref.read(contentDbProvider).around(key, before: 0, after: 40);
+        _active = -1;
       });
     });
   }
@@ -63,6 +71,7 @@ class _LookupSheetState extends ConsumerState<LookupSheet> {
   /// Enter: the exact word if listed, else the first word starting with the text, else
   /// whatever was typed (the lookup also tries base forms).
   void _submit() {
+    if (_active >= 0 && _active < _hits.length) return _show(_hits[_active].headword);
     final text = _ctl.text.trim();
     if (text.isEmpty) return;
     final key = searchKey(text);
@@ -91,26 +100,32 @@ class _LookupSheetState extends ConsumerState<LookupSheet> {
           children: [
             Padding(
               padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
-              child: SearchPill(
-                controller: _ctl,
-                autofocus: true,
-                hint: 'Gõ từ tiếng Anh cần tra…',
-                onChanged: (v) {
-                  _onChanged(v);
-                  setState(() {});
-                },
-                onSubmitted: (_) => _submit(),
-                trailing: _ctl.text.isEmpty
-                    ? null
-                    : IconButton(
-                        icon: const Icon(Icons.close, size: 18),
-                        tooltip: 'Xoá',
-                        onPressed: () {
-                          _ctl.clear();
-                          _onChanged('');
-                          setState(() {});
-                        },
-                      ),
+              child: ListArrowKeys(
+                count: _hits.length,
+                active: _active,
+                onActive: (i) => setState(() => _active = i),
+                activeKey: _activeKey,
+                child: SearchPill(
+                  controller: _ctl,
+                  autofocus: true,
+                  hint: 'Gõ từ tiếng Anh cần tra…',
+                  onChanged: (v) {
+                    _onChanged(v);
+                    setState(() {});
+                  },
+                  onSubmitted: (_) => _submit(),
+                  trailing: _ctl.text.isEmpty
+                      ? null
+                      : IconButton(
+                          icon: const Icon(Icons.close, size: 18),
+                          tooltip: 'Xoá',
+                          onPressed: () {
+                            _ctl.clear();
+                            _onChanged('');
+                            setState(() {});
+                          },
+                        ),
+                ),
               ),
             ),
             Expanded(
@@ -131,25 +146,29 @@ class _LookupSheetState extends ConsumerState<LookupSheet> {
                         final h = _hits[i];
                         final isPrefix = h.key.startsWith(_key);
                         final isSaved = saved.contains(h.key);
-                        return InkWell(
-                          onTap: () => _show(h.headword),
-                          child: Padding(
-                            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 9),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.baseline,
-                              textBaseline: TextBaseline.alphabetic,
-                              children: [
-                                Text(
-                                  h.headword,
-                                  style: ReadingStyles.line(context)
-                                      .copyWith(fontSize: 17, fontWeight: isPrefix || isSaved ? FontWeight.w600 : FontWeight.w400, color: isSaved ? g.savedWord : (isPrefix ? g.ink : g.fog)),
-                                ),
-                                if (h.ipa != null && h.ipa!.isNotEmpty) ...[const SizedBox(width: 10), Text('/${h.ipa}/', style: theme.textTheme.bodySmall?.copyWith(color: g.iris))],
-                                const SizedBox(width: 12),
-                                Expanded(
-                                  child: Text(h.preview, maxLines: 1, overflow: TextOverflow.ellipsis, textAlign: TextAlign.end, style: theme.textTheme.bodySmall),
-                                ),
-                              ],
+                        return Material(
+                          key: i == _active ? _activeKey : null,
+                          color: i == _active ? g.lilac : Colors.transparent,
+                          child: InkWell(
+                            onTap: () => _show(h.headword),
+                            child: Padding(
+                              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 9),
+                              child: Row(
+                                crossAxisAlignment: CrossAxisAlignment.baseline,
+                                textBaseline: TextBaseline.alphabetic,
+                                children: [
+                                  Text(
+                                    h.headword,
+                                    style: ReadingStyles.line(context)
+                                        .copyWith(fontSize: 17, fontWeight: isPrefix || isSaved ? FontWeight.w600 : FontWeight.w400, color: isSaved ? g.savedWord : (isPrefix ? g.ink : g.fog)),
+                                  ),
+                                  if (h.ipa != null && h.ipa!.isNotEmpty) ...[const SizedBox(width: 10), Text('/${h.ipa}/', style: theme.textTheme.bodySmall?.copyWith(color: g.iris))],
+                                  const SizedBox(width: 12),
+                                  Expanded(
+                                    child: Text(h.preview, maxLines: 1, overflow: TextOverflow.ellipsis, textAlign: TextAlign.end, style: theme.textTheme.bodySmall),
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
                         );

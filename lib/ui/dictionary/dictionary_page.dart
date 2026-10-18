@@ -13,6 +13,7 @@ import '../../app/theme.dart';
 import '../../data/models.dart';
 import '../../data/search_key.dart';
 import '../../domain/lookup.dart';
+import '../widgets/list_arrow_keys.dart';
 import '../widgets/shell.dart';
 import 'entry_page.dart';
 
@@ -31,6 +32,9 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
   List<DictHit> _hits = const [];
   String _key = '';
   int? _selectedId;
+  /// Row picked with ↑ / ↓; -1 = none, Enter then goes by what is typed.
+  int _active = -1;
+  final _activeKey = GlobalKey();
 
   @override
   void initState() {
@@ -49,6 +53,8 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
   }
 
   void _onChanged(String text) {
+    // Right away, not after the debounce: Enter must not open a row picked for older text.
+    _active = -1;
     _debounce?.cancel();
     _debounce = Timer(const Duration(milliseconds: 120), () => _search(text));
   }
@@ -60,6 +66,7 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
       _key = key;
       _hits = key.isEmpty ? db.around('a', before: 0, after: 100) : db.around(key, before: 3, after: 120);
       _selectedId = null;
+      _active = -1;
     });
   }
 
@@ -71,7 +78,16 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
     }
   }
 
+  /// The row Enter opens when none is picked: the exact word, else the first starting with
+  /// the text.
+  int get _firstMatch {
+    final exact = _hits.indexWhere((h) => h.key == _key);
+    if (exact >= 0) return exact;
+    return _key.isEmpty ? 0 : _hits.indexWhere((h) => h.key.startsWith(_key));
+  }
+
   void _openFirstExact() {
+    if (_active >= 0 && _active < _hits.length) return _open(_hits[_active]);
     final exact = _hits.where((h) => h.key == _key).firstOrNull;
     if (exact != null) {
       _open(exact);
@@ -91,26 +107,33 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
     final g = context.g;
     final wide = context.isWide;
 
-    final field = SearchPill(
-      controller: _ctl,
-      focusNode: _focus,
-      autofocus: true,
-      hint: 'Gõ từ cần tra…',
-      onChanged: (v) {
-        _onChanged(v);
-        setState(() {});
-      },
-      onSubmitted: (_) => _openFirstExact(),
-      trailing: _ctl.text.isEmpty
-          ? null
-          : IconButton(
-              icon: const Icon(Icons.close, size: 18),
-              tooltip: 'Xoá',
-              onPressed: () {
-                _ctl.clear();
-                _search('');
-              },
-            ),
+    final field = ListArrowKeys(
+      count: _hits.length,
+      active: _active,
+      start: _firstMatch,
+      onActive: (i) => setState(() => _active = i),
+      activeKey: _activeKey,
+      child: SearchPill(
+        controller: _ctl,
+        focusNode: _focus,
+        autofocus: true,
+        hint: 'Gõ từ cần tra…',
+        onChanged: (v) {
+          _onChanged(v);
+          setState(() {});
+        },
+        onSubmitted: (_) => _openFirstExact(),
+        trailing: _ctl.text.isEmpty
+            ? null
+            : IconButton(
+                icon: const Icon(Icons.close, size: 18),
+                tooltip: 'Xoá',
+                onPressed: () {
+                  _ctl.clear();
+                  _search('');
+                },
+              ),
+      ),
     );
 
     final list = ListView.builder(
@@ -120,9 +143,10 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
         final h = _hits[i];
         final isPrefix = _key.isNotEmpty && h.key.startsWith(_key);
         final isSaved = saved.contains(h.key);
-        final selected = h.id == _selectedId;
+        final selected = h.id == _selectedId || i == _active;
         final hwColor = isSaved ? g.savedWord : (isPrefix || _key.isEmpty ? g.ink : g.fog);
         return Material(
+          key: i == _active ? _activeKey : null,
           color: selected ? g.lilac : Colors.transparent,
           borderRadius: BorderRadius.circular(4),
           child: InkWell(
@@ -182,7 +206,7 @@ class _DictionaryPageState extends ConsumerState<DictionaryPage> {
                 SizedBox(height: MediaQuery.sizeOf(context).height - 56 - 48 - 24 - 56 - 60, child: list),
                 Padding(
                   padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
-                  child: Text('Danh sách cuộn tới đúng chữ bạn gõ. Enter mở mục đầu tiên. Từ đã lưu tô đỏ.', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
+                  child: Text('Danh sách cuộn tới đúng chữ bạn gõ. ↑/↓ chọn, Enter mở. Từ đã lưu tô đỏ.', style: theme.textTheme.bodySmall?.copyWith(color: g.fog)),
                 ),
               ]),
             ),
