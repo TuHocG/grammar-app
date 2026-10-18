@@ -292,13 +292,12 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
           Row(children: [
             FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
             if (_player != null) ...[const SizedBox(width: 8), SoftBadge('Giọng thật', color: g.slate, background: g.canvas)],
-            const SizedBox(width: 12),
-            Expanded(
-              child: _r.graded
-                  ? WordTapText(it.en, style: ReadingStyles.prompt(context), context: it.en, source: 'listening:${it.id}')
-                  : Text('Câu tiếng Anh hiện ra sau khi bạn chọn đúng.', style: theme.textTheme.bodyMedium?.copyWith(color: g.fog)),
-            ),
           ]),
+          // The sentence takes the card's full width on its own line.
+          const SizedBox(height: 12),
+          _r.graded
+              ? WordTapText(it.en, style: ReadingStyles.prompt(context), context: it.en, source: 'listening:${it.id}')
+              : Text('Câu tiếng Anh hiện ra sau khi bạn chọn đúng.', style: theme.textTheme.bodyMedium?.copyWith(color: g.fog)),
           const SizedBox(height: 16),
           for (var k = 0; k < order.length; k++) _option(k, order[k], theme),
           const SizedBox(height: 20),
