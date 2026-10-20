@@ -54,7 +54,7 @@ python3 tool/content/bundle.py --zip-data              # kèm grammar4-data-<phi
 python3 tool/content/bundle.py --zip-audio <thư mục 1.mp3…>  # kèm gói giọng đọc thật
 ```
 
-Kết quả trong `build/content/`: `grammar.db` và `grammar.images` cho người tải tay, `grammar.db.gz` (cùng DB nén, bằng một phần ba) và `bundle.json` (phiên bản, kích thước, sha256 từng file) dành cho việc app tự tải dữ liệu sắp làm (docs/07 §12), kèm `SHA256SUMS.txt`. Pipeline phát hành đính từng file riêng; gói zip (`--zip-data`) tiện gửi tay, người nhận giải nén ra thư mục. `--web` dựng thêm `build/content/web/`: `grammar.db` biến thể cho bản web (không nhúng trang tranh, không phụ đề video; xem docs/09) và `img/pages/` là các trang tranh dạng file. Người dùng đặt cả hai file vào một thư mục bất kỳ rồi chọn thư mục đó trong Cài Đặt → Dữ liệu:
+Kết quả trong `build/content/`: `grammar.db` và `grammar.images` cho người tải tay, `grammar.db.gz` (cùng DB nén, bằng một phần ba) và `bundle.json` (phiên bản, kích thước, sha256 từng file) dành cho việc app tự tải dữ liệu sắp làm (docs/07 §12), kèm `SHA256SUMS.txt`. Pipeline phát hành đính từng file riêng; gói zip (`--zip-data`) tiện gửi tay, người nhận giải nén ra thư mục. `--web` dựng thêm `build/content/web/`: `grammar.db` biến thể cho bản web (không nhúng trang tranh, không phụ đề video; xem docs/09) và `img/pages/` là các trang tranh dạng file; `--host` chạy tiếp `tool/content/host.py --verify` ra `build/host/`, bố cục cho máy chủ web (docs/09 §4). Người dùng đặt cả hai file vào một thư mục bất kỳ rồi chọn thư mục đó trong Cài Đặt → Dữ liệu:
 
 ```
 grammar.db       bài học + 155 trang Từ Vựng Tranh (nhúng trong DB, bảng media)
@@ -71,7 +71,7 @@ Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được
 lib/
   main.dart            gọi app/bootstrap: user.db → thư mục dữ liệu → grammar.db → TTS → ProviderScope
   app/                 bootstrap_{io,web} (khởi động theo nền tảng), grammar_app, providers (Riverpod), router (go_router), theme
-  data/                content_db*.dart (grammar.db, chỉ đọc; content_db_io: thư mục dữ liệu), media_store (ảnh/ghi âm ngoài DB), folder_media (thư mục cạnh grammar.db), user_db*.dart, user_readings, models, search_key, backup
+  data/                content_db*.dart (grammar.db, chỉ đọc; content_db_io: thư mục dữ liệu), media_store (ảnh/ghi âm ngoài DB), folder_media (thư mục cạnh grammar.db), manifest + block_vfs (DB web: khối nén, VFS chỉ đọc), user_db*.dart, user_readings, models, search_key, backup
   domain/              lookup (tra từ như app gốc), sentence_player (TTS hoặc ghi âm theo mốc câu)
   platform/            tts.dart (Windows: SAPI qua kênh riêng; nền tảng khác: flutter_tts); các cặp *_io/*_web sau `import … if (dart.library.js_interop)`: native (SQLite, thư mục), env, app_dirs, user_images — cùng kiểu: app/bootstrap, ui/video/video_routes, ui/settings/data_section
   ui/                  home, dictionary, readings, grammar, exercises, dialogs, listening, video, analysis, pictures, vocab, user_readings, settings, help
@@ -82,7 +82,8 @@ content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); 
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung
 tool/content/jsonfmt.py       bố cục JSON dễ đọc, dễ diff của content/dataset (`--check` chỉ báo)
-tool/content/bundle.py        đóng gói bản phát hành: grammar.db, grammar.db.gz, grammar.images, bundle.json (`--web`: thêm bản web; `--zip-data`: kèm grammar4-data-<phiên bản>.zip; `--zip-audio`: grammar4-audio-<phiên bản>.zip)
+tool/content/bundle.py        đóng gói bản phát hành: grammar.db, grammar.db.gz, grammar.images, bundle.json (`--web`: thêm bản web; `--host`: thêm build/host; `--zip-data`: kèm grammar4-data-<phiên bản>.zip; `--zip-audio`: grammar4-audio-<phiên bản>.zip)
+tool/content/host.py          bố cục cho máy chủ web (docs/09 §4): DB web cắt khối nén thành pack, ảnh rời, manifest.json; `--verify` ghép lại kiểm tra
 docs/                         kế hoạch port (07), ma trận truy vết hành vi app gốc (08), lược đồ SQLite (09)
 DESIGN.md                     tham chiếu phong cách giao diện
 ```

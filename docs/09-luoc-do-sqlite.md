@@ -71,3 +71,19 @@ Khoá `user_progress` (kind / item_id → state) app đang dùng:
 `updated_at` tăng ngặt theo mỗi lần ghi; thẻ **Đang học** ở trang chính lấy mục có `updated_at` lớn nhất trong các khoá `last…` ở trên.
 
 Xuất/nhập: toàn bộ các bảng `user_*` ra một file JSON để sao lưu và chuyển máy.
+
+## 4. Bố cục cho máy chủ web (`tool/content/host.py`, `build/host/`)
+
+Bản web (docs/07 §12) không mở file: nó tải DB biến thể `web` về trình duyệt một lần rồi đọc qua VFS chỉ đọc của `package:sqlite3` bản WASM (`lib/data/block_vfs.dart`). Để tải được từng phần và không phải giải nén cả DB vào bộ nhớ, `host.py` cắt DB thành **khối** (mặc định 64 KiB = 16 trang SQLite), nén raw-deflate từng khối, nối các khối thành **pack** khoảng 8 MiB (giới hạn 25 MiB/file của Cloudflare Pages) đặt tên theo sha256 của nội dung nên bất biến trên máy chủ. App giữ pack dạng nén trong bộ nhớ và chỉ giải nén khối SQLite đang đọc, giữ ~16 MB khối gần nhất.
+
+```
+data/latest.json              {"version","schema","manifest"} — bản hiện hành (no-cache)
+data/<version>/manifest.json  format, content_version, schema, date, variant,
+                              db: {size, sha256, page_size, block_size, packs: [{name, size, sha256, blocks: [độ dài nén từng khối]}]},
+                              images: {"img/…": [bytes, sha8]}
+data/db/<sha16>.bin           pack (immutable)
+img/…                         mọi ảnh theo đường dẫn nội dung (ảnh minh hoạ và trang tranh)
+```
+
+Khối `i` chiếm byte `[i·block_size, (i+1)·block_size)` của file (khối cuối ngắn hơn); vị trí của nó trong pack tính dồn từ `blocks`. `host.py --verify` ghép lại và so sha256; `test/host_layout_test.dart` kiểm tra bố cục đã dựng, `test/block_vfs_test.dart` so mọi truy vấn qua VFS với DB mở thẳng. Số liệu 1.2.0: 176 MB → 8 pack, 56,5 MB. Manifest `format` tăng khi đổi bố cục; app đọc tới `HostManifest.supportedFormat`.
+Tên pack phụ thuộc bản zlib dựng ra nó (cùng nội dung, máy khác có thể cho pack khác), nên trên máy chủ chỉ pack là `immutable`; `latest.json` và `manifest.json` phải `no-cache`.

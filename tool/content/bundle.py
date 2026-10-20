@@ -5,6 +5,7 @@
     python3 tool/content/bundle.py --zip-audio DIR      # also grammar4-audio-<version>.zip from DIR (1.mp3 …)
     python3 tool/content/bundle.py --no-pack-db         # reuse content/grammar.db as is
     python3 tool/content/bundle.py --web                # also build/content/web/: the web variant (see below)
+    python3 tool/content/bundle.py --host               # --web, then tool/content/host.py -> build/host/ (the web host layout)
 
 Users put both files in one folder, then pick that folder in Cài Đặt → Dữ liệu:
 
@@ -62,7 +63,10 @@ def main() -> int:
     ap.add_argument('--zip-data', action='store_true', help='also grammar4-data-<version>.zip with grammar.db and grammar.images')
     ap.add_argument('--zip-audio', type=Path, metavar='DIR', help='folder with the real-voice recordings (1.mp3, 2.mp3 …)')
     ap.add_argument('--web', action='store_true', help='also build/content/web/ (grammar.db of the web variant + img/pages/); repacks both variants')
+    ap.add_argument('--host', action='store_true', help='--web, then host.py --verify: build/host/ for the web host (docs/09 §4)')
     a = ap.parse_args()
+    if a.host:
+        a.web = True
 
     pack_py = str(ROOT / 'tool' / 'content' / 'pack.py')
     web_dir = OUT / 'web'
@@ -117,6 +121,10 @@ def main() -> int:
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(CONTENT / 'dataset' / rel, dst)
         print(f'{web_dir.relative_to(ROOT)}/: web variant + {len(pages)} pages as files')
+    if a.host:
+        r = subprocess.run([sys.executable, str(ROOT / 'tool' / 'content' / 'host.py'), '--verify'])
+        if r.returncode:
+            return r.returncode
 
     if a.zip_data:
         data_zip = OUT / f'grammar4-data-{version}.zip'
