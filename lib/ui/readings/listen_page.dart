@@ -7,7 +7,6 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
-import '../../data/media_locations.dart';
 import '../../data/reading_loader.dart';
 import '../../domain/sentence_player.dart';
 import '../widgets/word_tap_text.dart';
@@ -31,7 +30,7 @@ class _ListenPageState extends ConsumerState<ListenPage> {
     super.initState();
     final r = loadReading(ref, widget.id);
     if (r != null) {
-      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audioPath: r.hasRealAudio ? audioPathFor(ref, r.audio) : null)..addListener(_onChange);
+      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: r, audio: r.hasRealAudio ? audioFor(ref, r.audio) : null)..addListener(_onChange);
       WidgetsBinding.instance.addPostFrameCallback((_) => _player!.play(from: 0));
     }
   }

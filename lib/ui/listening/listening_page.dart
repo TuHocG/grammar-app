@@ -15,7 +15,6 @@ import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
 import '../../data/content_db.dart';
-import '../../data/media_locations.dart';
 import '../../data/content_db_more.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
@@ -151,10 +150,10 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     _res = List.generate(_items.length, (_) => _Result());
     _source = db.listeningReadingTitle(widget.unit);
     final r = db.listeningReading(widget.unit);
-    final audio = r != null && r.hasRealAudio ? audioPathFor(ref, r.audio) : null;
+    final audio = r != null && r.hasRealAudio ? audioFor(ref, r.audio) : null;
     if (r != null && audio != null) {
       _recording = r;
-      _player = SentencePlayer(tts: _tts, reading: r, audioPath: audio);
+      _player = SentencePlayer(tts: _tts, reading: r, audio: audio);
     }
     if (_items.isNotEmpty) _go(0);
   }

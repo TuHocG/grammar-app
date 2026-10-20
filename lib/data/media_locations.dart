@@ -1,39 +1,26 @@
-/// Where the app finds its content files, and short summaries of what is there (Cài Đặt).
-///
-/// - Lesson data: `grammar.db`; illustrations in `grammar.images` next to it (release), or
-///   `dataset/img/` (repo). The Từ Vựng Tranh pages are inside grammar.db.
-/// - Real-voice recordings (Âm thanh thực): setting `audio_dir`, default `dataset/audio/` next to
-///   grammar.db. Files are named as in the readings (`1.mp3`, `2.mp3` …).
-/// - Videos: setting `video_dir`, default `video/` next to grammar.db. Files `A 01.mp4` … (or the
-///   old `A  1.avi`).
+/// Where the desktop and mobile apps find their content files, and short summaries of what is
+/// there (Cài Đặt → Dữ liệu). Everything here is about a folder on disk (`folder_media.dart`);
+/// the shared pieces (the setting keys, [audioFor]) are in `media_store.dart`.
 library;
 
 import 'dart:io';
 
-import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path/path.dart' as p;
 
-import '../app/providers.dart';
 import 'content_db.dart';
+import 'content_db_io.dart';
 import 'content_db_more.dart';
+import 'media_store.dart';
 import 'models.dart';
 import 'user_db.dart';
 
-const audioDirKey = 'audio_dir';
-const videoDirKey = 'video_dir';
+export 'media_store.dart' show audioDirKey, videoDirKey;
 
 /// `audio/` next to grammar.db (release bundle), or `dataset/audio/` (repo content/ folder).
-String defaultAudioDir(ContentDb db) => _besideData(db.dataDir, 'audio');
+String defaultAudioDir(ContentDb db) => db.folder.defaultAudioDir;
 
 /// `video/` next to grammar.db, or `dataset/video/` (repo content/ folder).
-String defaultVideoDir(ContentDb db) => _besideData(db.dataDir, 'video');
-
-String _besideData(String dataDir, String name) {
-  final release = p.join(dataDir, name);
-  final repo = p.join(dataDir, 'dataset', name);
-  if (!Directory(release).existsSync() && Directory(repo).existsSync()) return repo;
-  return release;
-}
+String defaultVideoDir(ContentDb db) => db.folder.defaultVideoDir;
 
 /// Illustrations folder: `img/` next to grammar.db, or `dataset/img/` in the repo.
 String illustrationsDir(String dataDir) {
@@ -46,14 +33,6 @@ String illustrationsDir(String dataDir) {
 String audioDir(ContentDb db, UserDb user) {
   final s = user.setting(audioDirKey);
   return (s == null || s.isEmpty) ? defaultAudioDir(db) : s;
-}
-
-/// Absolute path of a reading's recording (`audio/12.mp3` in the DB), or null when the file is
-/// not there — callers then fall back to the synthetic voice.
-String? audioPathFor(WidgetRef ref, String? rel) {
-  if (rel == null || rel.isEmpty) return null;
-  final path = p.join(audioDir(ref.read(contentDbProvider), ref.read(userDbProvider)), p.basename(rel));
-  return File(path).existsSync() ? path : null;
 }
 
 String videoDir(ContentDb db, UserDb user) {

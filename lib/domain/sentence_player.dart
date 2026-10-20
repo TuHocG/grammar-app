@@ -8,6 +8,7 @@ import 'dart:async';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/foundation.dart';
 
+import '../data/media_store.dart';
 import '../data/models.dart';
 import '../platform/tts.dart';
 
@@ -17,8 +18,8 @@ class SentencePlayer extends ChangeNotifier {
   final TtsService tts;
   final Reading reading;
 
-  /// Absolute path of the recording (null → TTS).
-  final String? audioPath;
+  /// The recording (null → TTS).
+  final AudioRef? audio;
 
   int index = 0;
   PlayerState state = PlayerState.idle;
@@ -42,9 +43,9 @@ class SentencePlayer extends ChangeNotifier {
   /// shared [tts]; that page stops the old one itself before navigating.
   bool stopTtsOnDispose = true;
 
-  SentencePlayer({required this.tts, required this.reading, this.audioPath});
+  SentencePlayer({required this.tts, required this.reading, this.audio});
 
-  bool get useRecording => audioPath != null && reading.hasRealAudio && !_recordingFailed;
+  bool get useRecording => audio != null && reading.hasRealAudio && !_recordingFailed;
   int get count => reading.sentences.length;
   Sentence get current => reading.sentences[index];
 
@@ -75,7 +76,7 @@ class SentencePlayer extends ChangeNotifier {
         await _playSegment(reading.times![index], reading.times![index + 1], run);
         return;
       } catch (e) {
-        debugPrint('SentencePlayer: cannot play $audioPath, falling back to TTS: $e');
+        debugPrint('SentencePlayer: cannot play $audio, falling back to TTS: $e');
         _recordingFailed = true;
         notifyListeners();
       }
@@ -94,7 +95,10 @@ class SentencePlayer extends ChangeNotifier {
     // left by the previous sentence before seeking, which ended a replay (or a jump back)
     // as soon as it started.
     if (!_sourceSet) {
-      await p.setSource(DeviceFileSource(audioPath!));
+      await p.setSource(switch (audio!) {
+        AudioFile(:final path) => DeviceFileSource(path),
+        AudioUrl(:final url) => UrlSource(url),
+      });
       _sourceSet = true;
     }
     await p.seek(Duration(milliseconds: (start * 1000).round()));
@@ -128,7 +132,7 @@ class SentencePlayer extends ChangeNotifier {
     try {
       await _playSegment(0, reading.times![0], run);
     } catch (e) {
-      debugPrint('SentencePlayer: cannot play $audioPath: $e');
+      debugPrint('SentencePlayer: cannot play $audio: $e');
       _recordingFailed = true;
     }
     if (run == _run) {

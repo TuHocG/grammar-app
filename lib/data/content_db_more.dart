@@ -3,7 +3,7 @@ library;
 
 import 'dart:convert';
 
-import 'package:sqlite3/sqlite3.dart';
+import 'package:sqlite3/common.dart';
 
 import 'content_db.dart';
 import 'models.dart';

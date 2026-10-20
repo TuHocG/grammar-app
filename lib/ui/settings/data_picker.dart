@@ -9,6 +9,7 @@ library;
 import 'dart:io';
 
 import 'package:file_picker/file_picker.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as p;
 
@@ -17,7 +18,7 @@ import '../../data/media_locations.dart';
 import '../../platform/storage_access.dart';
 
 /// True when [dbPath] is the picker's temporary copy (chosen by an earlier version on Android).
-bool isPickerCopy(String dbPath) => Platform.isAndroid && dbPath.contains('/cache/file_picker/');
+bool isPickerCopy(String dbPath) => defaultTargetPlatform == TargetPlatform.android && dbPath.contains('/cache/file_picker/');
 
 /// Explains, then asks for storage access on Android. False when not granted (a message has
 /// been shown). Always true elsewhere.

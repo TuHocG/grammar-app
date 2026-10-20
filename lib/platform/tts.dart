@@ -7,8 +7,8 @@
 library;
 
 import 'dart:async';
-import 'dart:io';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
@@ -39,7 +39,7 @@ abstract class TtsBackend {
 class TtsService {
   static const sapiRate = [-10, -6, -3, 0, 2, 4, 8];
 
-  final TtsBackend _b = Platform.isWindows ? _SapiBackend() : _FlutterTtsBackend();
+  final TtsBackend _b = !kIsWeb && defaultTargetPlatform == TargetPlatform.windows ? _SapiBackend() : _FlutterTtsBackend();
   bool _ready = false;
   int _speed = 4;
   String? _voiceId;
@@ -206,7 +206,7 @@ class _FlutterTtsBackend implements TtsBackend {
   /// Queued speech does not await completion.
   @override
   Future<void> speakAfter(String text) async {
-    if (!Platform.isAndroid) return speak(text);
+    if (kIsWeb || defaultTargetPlatform != TargetPlatform.android) return speak(text);
     await _tts.setQueueMode(1);
     try {
       await _tts.speak(text);

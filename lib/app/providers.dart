@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../data/content_db.dart';
+import '../data/media_store.dart';
 import '../data/models.dart';
 import '../data/search_key.dart';
 import '../data/user_db.dart';
@@ -12,10 +13,18 @@ import '../data/user_db_more.dart';
 import '../domain/lookup.dart';
 import '../platform/tts.dart';
 
-/// Overridden in `main` after bootstrap.
+/// Overridden by `startApp` (app/grammar_app.dart) once the databases are open.
 final contentDbProvider = Provider<ContentDb>((ref) => throw UnimplementedError('contentDb not bootstrapped'));
 final userDbProvider = Provider<UserDb>((ref) => throw UnimplementedError('userDb not bootstrapped'));
 final ttsProvider = Provider<TtsService>((ref) => throw UnimplementedError('tts not bootstrapped'));
+
+/// The recording of a reading (`audio/12.mp3` in the DB), honouring the folder the user picked
+/// (Cài Đặt → Dữ liệu → Âm thanh thực), or null when the file is not there — callers then fall
+/// back to the synthetic voice.
+AudioRef? audioFor(WidgetRef ref, String? rel) {
+  if (rel == null || rel.isEmpty) return null;
+  return ref.read(contentDbProvider).media.audio(rel, dir: ref.read(userDbProvider).setting(audioDirKey));
+}
 
 /// Bumped whenever a progress row changes; pages that show progress ("continue" cards,
 /// exercise scores, the reading being read) watch it so they refresh on return.

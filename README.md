@@ -69,14 +69,15 @@ Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được
 
 ```
 lib/
-  main.dart            bootstrap: user.db → thư mục dữ liệu → grammar.db → TTS → ProviderScope
-  app/                 providers (Riverpod), router (go_router), theme
-  data/                content_db*.dart (grammar.db, chỉ đọc), user_db*.dart, user_readings, models, search_key, backup
+  main.dart            gọi app/bootstrap: user.db → thư mục dữ liệu → grammar.db → TTS → ProviderScope
+  app/                 bootstrap_{io,web} (khởi động theo nền tảng), grammar_app, providers (Riverpod), router (go_router), theme
+  data/                content_db*.dart (grammar.db, chỉ đọc; content_db_io: thư mục dữ liệu), media_store (ảnh/ghi âm ngoài DB), folder_media (thư mục cạnh grammar.db), user_db*.dart, user_readings, models, search_key, backup
   domain/              lookup (tra từ như app gốc), sentence_player (TTS hoặc ghi âm theo mốc câu)
-  platform/            tts.dart (Windows: SAPI qua kênh riêng; nền tảng khác: flutter_tts)
+  platform/            tts.dart (Windows: SAPI qua kênh riêng; nền tảng khác: flutter_tts); các cặp *_io/*_web sau `import … if (dart.library.js_interop)`: native (SQLite, thư mục), env, app_dirs, user_images — cùng kiểu: app/bootstrap, ui/video/video_routes, ui/settings/data_section
   ui/                  home, dictionary, readings, grammar, exercises, dialogs, listening, video, analysis, pictures, vocab, user_readings, settings, help
   ui/widgets/          WordTapText (chạm từ, từ đã lưu đỏ), MarkText (Markdown nhẹ của bài văn phạm), shell
 windows/runner/sapi_tts.cpp   TTS SAPI cho Windows
+web/                          vỏ web (index.html, manifest, icon); bản web đang làm theo docs/07 §12
 content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); content.json phiên bản; ids.json ID ổn định; CHANGELOG.md
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung

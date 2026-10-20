@@ -1,8 +1,7 @@
-import 'dart:io';
-
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../platform/env.dart';
 import 'providers.dart';
 import '../data/content_db_more.dart';
 
@@ -18,7 +17,7 @@ import '../ui/user_readings/user_reading_pages.dart';
 import '../ui/vocab/spin_words_page.dart';
 import '../ui/exercises/exercise_pages.dart';
 import '../ui/listening/listening_page.dart';
-import '../ui/video/video_pages.dart';
+import '../ui/video/video_routes.dart';
 import '../ui/grammar/grammar_page.dart';
 import '../ui/home/home_page.dart';
 import '../ui/readings/dialog_practice_page.dart';
@@ -30,11 +29,8 @@ import '../ui/readings/scramble_page.dart';
 import '../ui/settings/settings_page.dart';
 import '../ui/vocab/my_words_page.dart';
 
-/// Environment variable `GRAMMAR_INITIAL_ROUTE=/dict/word/ball` opens a screen directly (dev/screenshots).
-String get _initialRoute => Platform.environment['GRAMMAR_INITIAL_ROUTE'] ?? '/';
-
 GoRouter buildRouter() => GoRouter(
-  initialLocation: _initialRoute,
+  initialLocation: initialRoute(),
   routes: [
     GoRoute(path: '/', builder: (_, _) => const HomePage()),
     GoRoute(path: '/ipa', builder: (_, _) => const IpaLessonPage()),
@@ -176,18 +172,7 @@ GoRouter buildRouter() => GoRouter(
         ),
       ],
     ),
-    GoRoute(
-      path: '/video',
-      // A `web` database has no subtitles (docs/09): a typed or restored URL lands on Luyện Nghe.
-      redirect: (c, _) => ProviderScope.containerOf(c).read(contentDbProvider).hasVideo ? null : '/listening',
-      builder: (_, _) => const VideoListPage(),
-      routes: [
-        GoRoute(
-          path: ':id',
-          builder: (_, s) => VideoPlayerPage(id: int.parse(s.pathParameters['id']!)),
-        ),
-      ],
-    ),
+    ...videoRoutes(),
     GoRoute(
       path: '/analysis',
       builder: (_, _) => const AnalysisListPage(),

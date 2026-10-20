@@ -4,8 +4,7 @@
 /// permission. Other platforms need nothing.
 library;
 
-import 'dart:io';
-
+import 'package:flutter/foundation.dart';
 import 'package:permission_handler_platform_interface/permission_handler_platform_interface.dart';
 
 enum StorageAccess {
@@ -26,7 +25,7 @@ PermissionHandlerPlatform get _handler => PermissionHandlerPlatform.instance;
 Future<PermissionStatus> _request(Permission p) async => (await _handler.requestPermissions([p]))[p] ?? PermissionStatus.denied;
 
 Future<StorageAccess> storageAccess() async {
-  if (!Platform.isAndroid) return StorageAccess.granted;
+  if (kIsWeb || defaultTargetPlatform != TargetPlatform.android) return StorageAccess.granted;
   final all = await _handler.checkPermissionStatus(Permission.manageExternalStorage);
   if (all.isGranted) return StorageAccess.granted;
   // Below Android 11 "all files access" does not exist and reports restricted.

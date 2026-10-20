@@ -4,19 +4,23 @@ library;
 
 import 'dart:async';
 
-import 'package:sqlite3/sqlite3.dart';
+import 'package:sqlite3/common.dart';
 
+import '../platform/native.dart';
 import 'models.dart';
 import 'search_key.dart';
 
 class UserDb {
-  final Database _db;
-  UserDb._(this._db);
+  final CommonDatabase _db;
 
-  static UserDb open(String file) {
-    final db = sqlite3.open(file);
-    db.execute('PRAGMA journal_mode = WAL');
-    db.execute('''
+  /// Opens the file with the native SQLite library (desktop, mobile).
+  static UserDb open(String file) => UserDb.fromDatabase(openNativeDatabase(file), wal: true);
+
+  /// Creates the tables that are missing. [wal]: write-ahead logging, for a database file
+  /// (not for the browser's virtual file system).
+  UserDb.fromDatabase(this._db, {bool wal = false}) {
+    if (wal) _db.execute('PRAGMA journal_mode = WAL');
+    _db.execute('''
       CREATE TABLE IF NOT EXISTS user_setting (key TEXT PRIMARY KEY, value TEXT NOT NULL);
       CREATE TABLE IF NOT EXISTS user_word (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -43,7 +47,6 @@ class UserDb {
       );
       CREATE TABLE IF NOT EXISTS user_grammar_mark (ref INTEGER PRIMARY KEY, added_at INTEGER NOT NULL);
     ''');
-    return UserDb._(db);
   }
 
   final _progressChanges = StreamController<void>.broadcast();
@@ -58,7 +61,7 @@ class UserDb {
   }
 
   /// Raw handle for extensions in other files.
-  Database get raw => _db;
+  CommonDatabase get raw => _db;
 
   // ---- settings -----------------------------------------------------------
 

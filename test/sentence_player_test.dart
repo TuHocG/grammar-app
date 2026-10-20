@@ -3,6 +3,7 @@
 import 'dart:async';
 
 import 'package:flutter_test/flutter_test.dart';
+import 'package:grammar/data/media_store.dart';
 import 'package:grammar/data/models.dart';
 import 'package:grammar/domain/sentence_player.dart';
 import 'package:grammar/platform/tts.dart';
@@ -34,7 +35,7 @@ class FakeTts extends TtsService {
 Reading reading(int n) => Reading(id: 1, sid: 1, position: 1, title: 'T', titleAudio: false, sentences: [for (var i = 0; i < n; i++) Sentence(i, 0, 'S$i', 'V$i')]);
 
 void main() {
-  // TtsService builds the real backend (FlutterTts off Windows), which needs a binding.
+  // TtsService builds the real backend (FlutterTts: under flutter test the platform reads as Android), which needs a binding.
   TestWidgetsFlutterBinding.ensureInitialized();
 
   test('speakOnce reads one sentence and stops', () async {
@@ -92,7 +93,7 @@ void main() {
     // No audio plugin in tests, so playing the file fails like an unsupported codec does.
     final tts = FakeTts();
     final r = Reading(id: 1, sid: 1, position: 1, title: 'T', titleAudio: false, audio: 'audio/2.mp3', times: [0, 1, 2], sentences: [Sentence(0, 0, 'S0', 'V0'), Sentence(1, 0, 'S1', 'V1')]);
-    final p = SentencePlayer(tts: tts, reading: r, audioPath: 'missing.mp3');
+    final p = SentencePlayer(tts: tts, reading: r, audio: const AudioFile('missing.mp3'));
     expect(p.useRecording, isTrue);
     final f = p.speakOnce(0);
     await pumpEventQueue();

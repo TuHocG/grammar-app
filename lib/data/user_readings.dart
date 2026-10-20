@@ -5,7 +5,7 @@ library;
 
 import 'dart:convert';
 
-import 'package:sqlite3/sqlite3.dart';
+import 'package:sqlite3/common.dart';
 
 import 'models.dart';
 import 'reading_loader.dart';

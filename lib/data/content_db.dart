@@ -1,27 +1,35 @@
-/// Read-only access to `grammar.db` (schema: docs/09, built by `python -m etl pack-sqlite`).
+/// Read-only access to `grammar.db` (schema: docs/09, built by `tool/content/pack.py`).
+///
+/// Works on the native SQLite library and on the WASM build alike (`package:sqlite3/common.dart`):
+/// [open] reads a file through the native library; the web app opens its database itself and
+/// passes it to [ContentDb.fromDatabase]. Pictures and recordings outside the database come from a
+/// [MediaStore].
 library;
 
 import 'dart:convert';
-import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:flutter/painting.dart';
 import 'package:path/path.dart' as p;
-import 'package:sqlite3/sqlite3.dart';
+import 'package:sqlite3/common.dart';
 
-import 'image_pack.dart';
+import '../platform/native.dart';
+import 'media_store.dart';
 import 'models.dart';
 
 class ContentDb {
-  final Database _db;
-  final String dataDir;
-  ContentDb._(this._db, this.dataDir);
+  final CommonDatabase _db;
 
-  /// [dataDir] holds `grammar.db` and `grammar.images` (release bundle), or `dataset/img`,
-  /// `dataset/audio` (the repo's content/ folder).
+  /// The pictures and recordings that are not inside the database.
+  final MediaStore media;
+
+  ContentDb.fromDatabase(this._db, {this.media = const NoMedia()});
+
+  /// Opens `<dataDir>/grammar.db` with the native SQLite library; the illustrations and
+  /// recordings come from the same folder (`folder_media.dart`): `grammar.images`, `audio/`
+  /// (release bundle), or `dataset/img`, `dataset/audio` (the repo's content/ folder).
   static ContentDb open(String dataDir) {
-    final file = p.join(dataDir, 'grammar.db');
-    final db = sqlite3.open(file, mode: OpenMode.readOnly);
+    final db = openNativeDatabase(p.join(dataDir, 'grammar.db'), readOnly: true);
     // SQLite reads the file lazily: fail here (not a database, or the encrypted grammar.db of
     // the 1.0.x releases) so callers can show the error instead of crashing on the first query.
     try {
@@ -30,26 +38,16 @@ class ContentDb {
       db.close();
       rethrow;
     }
-    return ContentDb._(db, dataDir);
+    return ContentDb.fromDatabase(db, media: folderMedia(dataDir));
   }
 
   void close() {
-    if (_imagesOpened) _images?.close();
+    media.close();
     _db.close();
   }
 
   /// Raw handle for query extensions in other files (read-only database).
-  Database get raw => _db;
-
-  /// File of a relative content path (`img/readings/x.webp`, `audio/1.mp3`): `<dir>/img/…` next to
-  /// grammar.db in a release bundle, `<dir>/dataset/img/…` in the repo's content/ folder.
-  String mediaPath(String rel) {
-    final release = p.join(dataDir, rel);
-    if (File(release).existsSync()) return release;
-    return p.join(dataDir, 'dataset', rel);
-  }
-
-  File mediaFile(String rel) => File(mediaPath(rel));
+  CommonDatabase get raw => _db;
 
   bool _hasTable(String name) => _db.select("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = ?", [name]).isNotEmpty;
 
@@ -74,32 +72,12 @@ class ContentDb {
 
   int get embeddedMediaCount => _hasMediaTable ? _db.select('SELECT COUNT(*) AS n FROM media').first['n'] as int : 0;
 
-  /// The illustrations zip next to grammar.db, or null (repo layout, not downloaded, or
-  /// unreadable: then [imagePackError] says why). Opened on first use.
-  ImagePack? get images {
-    if (!_imagesOpened) {
-      _imagesOpened = true;
-      try {
-        _images = ImagePack.open(p.join(dataDir, imagePackName));
-      } on FormatException catch (e) {
-        imagePackError = e.message;
-      }
-    }
-    return _images;
-  }
-
-  ImagePack? _images;
-  bool _imagesOpened = false;
-  String? imagePackError;
-
-  /// Image of a relative content path: the Từ Vựng Tranh pages from the database, the
-  /// illustrations from grammar.images, else a file (`img/…` or the repo's `dataset/img/…`).
+  /// Image of a relative content path: the Từ Vựng Tranh pages from the database when they are
+  /// embedded (the `full` variant), everything else from the [media] store.
   ImageProvider imageProvider(String rel) {
     final bytes = embeddedMedia(rel);
     if (bytes != null) return MemoryImage(bytes);
-    final pack = images;
-    if (pack != null && pack.contains(rel)) return PackImage(pack, rel);
-    return FileImage(mediaFile(rel));
+    return media.image(rel);
   }
 
   /// Highest `schema_version` of grammar.db this app understands (content/content.json `schema`).

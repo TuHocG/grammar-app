@@ -2,7 +2,6 @@
 /// "continue where you were" cards, four feature cards, the study grid and the nine test sets.
 library;
 
-import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -11,6 +10,7 @@ import 'package:go_router/go_router.dart';
 
 import '../../app/config.dart';
 import '../../app/providers.dart';
+import '../../platform/user_images.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
 import '../../data/content_db_more.dart';
@@ -468,7 +468,7 @@ _Activity? _latestActivity(WidgetRef ref, bool wide) {
     final r = id == null ? null : loadReading(ref, id);
     if (r == null || r.sid == 0) return null; // the IPA lesson has its own menu item
     final section = r.sid >= 0 ? db.section(r.sid)?.title : null;
-    final image = r.img == null ? null : (r.id >= userReadingBase ? FileImage(File(r.img!)) : db.imageProvider(r.img!));
+    final image = r.img == null ? null : (r.id >= userReadingBase ? userImage(r.img!) : db.imageProvider(r.img!));
     return _Activity(
       section == null ? 'Bài Đọc' : 'Bài Đọc · $section',
       r.title,

@@ -7,8 +7,6 @@
 /// uses the same page: its words are the '|' groups and a tap opens the analysis card.
 library;
 
-import 'dart:io';
-
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart' show SelectedContent;
@@ -16,7 +14,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../app/providers.dart';
-import '../../data/media_locations.dart';
+import '../../platform/user_images.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
 import '../../data/reading_loader.dart';
@@ -76,7 +74,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
       if (_reading!.sid >= 0) ref.read(userDbProvider).setProgress('reading', 'last_in_${_reading!.sid}', '${_reading!.id}');
       ref.read(userDbProvider).setProgress('reading', 'last_reading', '${_reading!.id}');
       if (widget.fromAnalysis && lesson != null) ref.read(userDbProvider).setProgress('analysis', 'last', '$lesson');
-      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: _reading!, audioPath: _reading!.hasRealAudio ? audioPathFor(ref, _reading!.audio) : null)
+      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: _reading!, audio: _reading!.hasRealAudio ? audioFor(ref, _reading!.audio) : null)
         ..addListener(() {
           if (mounted) setState(() => _speaking = _player!.state == PlayerState.playing ? _player!.index : null);
         });
@@ -177,7 +175,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
                   borderRadius: BorderRadius.circular(Tokens.radiusCard),
                   child: ConstrainedBox(
                     constraints: const BoxConstraints(maxHeight: 300),
-                    child: Image(image: isUser ? FileImage(File(r.img!)) : db.imageProvider(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
+                    child: Image(image: isUser ? userImage(r.img!) : db.imageProvider(r.img!), fit: BoxFit.contain, errorBuilder: (_, _, _) => const SizedBox.shrink()),
                   ),
                 ),
               ),

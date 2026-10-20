@@ -10,15 +10,15 @@ import 'dart:convert';
 import 'dart:typed_data';
 
 import 'package:file_picker/file_picker.dart';
-import 'package:path_provider/path_provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../app/config.dart';
 import '../../app/providers.dart';
 import '../../data/backup.dart';
+import '../../platform/app_dirs.dart';
 import '../../platform/tts.dart';
 import '../widgets/shell.dart';
-import 'content_sources.dart';
+import 'data_section.dart';
 
 class SettingsPage extends ConsumerStatefulWidget {
   const SettingsPage({super.key});
@@ -51,10 +51,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
   /// Save dialog of the platform, starting in Documents with a dated file name.
   Future<void> _export() async {
     final bytes = Uint8List.fromList(utf8.encode(exportBackup(ref.read(userDbProvider))));
-    String? docs;
-    try {
-      docs = (await getApplicationDocumentsDirectory()).path;
-    } catch (_) {}
+    final docs = await documentsDir();
     try {
       final uri = await FilePicker.saveFile(
         dialogTitle: 'Xuất dữ liệu học tập',

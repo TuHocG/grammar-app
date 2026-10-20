@@ -2,18 +2,14 @@
 /// editor (title, English text, Vietnamese text, picture). A user reading opens in the normal reading page with every feature.
 library;
 
-import 'dart:io';
-
-import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:path/path.dart' as p;
-import 'package:path_provider/path_provider.dart';
 
 import '../../app/providers.dart';
 import '../../data/reading_loader.dart';
 import '../../data/user_readings.dart';
+import '../../platform/user_images.dart';
 import '../widgets/shell.dart';
 
 class UserReadingsPage extends ConsumerStatefulWidget {
@@ -98,7 +94,7 @@ Widget _thumb(UserReading r) {
     child: SizedBox(
       width: 56,
       height: 56,
-      child: img == null ? icon : Image(image: FileImage(File(img)), fit: BoxFit.cover, errorBuilder: (_, _, _) => icon),
+      child: img == null ? icon : Image(image: userImage(img), fit: BoxFit.cover, errorBuilder: (_, _, _) => icon),
     ),
   );
 }
@@ -162,24 +158,9 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
   }
 
   Future<void> _pickImage() async {
-    final current = _img.text.trim();
-    final files = await FilePicker.pickFiles(dialogTitle: 'Chọn ảnh đầu bài', type: FileType.image, initialDirectory: current.isEmpty ? null : File(current).parent.path);
-    final picked = files.isEmpty ? null : files.first.path;
-    if (picked == null) return;
-    final path = await _keepImage(picked);
-    if (!mounted) return;
+    final path = await pickUserImage(current: _img.text.trim());
+    if (path == null || !mounted) return;
     setState(() => _img.text = path);
-  }
-
-  /// On Android and iOS the picker hands back a temporary copy (app cache / tmp) that the OS
-  /// may clear, so keep our own copy under app support; desktop paths are the user's file.
-  static Future<String> _keepImage(String picked) async {
-    if (!Platform.isAndroid && !Platform.isIOS) return picked;
-    final dir = Directory(p.join((await getApplicationSupportDirectory()).path, 'user_images'));
-    await dir.create(recursive: true);
-    final dest = p.join(dir.path, '${DateTime.now().millisecondsSinceEpoch}_${p.basename(picked)}');
-    await File(picked).copy(dest);
-    return dest;
   }
 
   @override
@@ -263,7 +244,7 @@ class _UserReadingEditPageState extends ConsumerState<UserReadingEditPage> {
                         : Row(
                             mainAxisSize: MainAxisSize.min,
                             children: [
-                              if (File(_img.text).existsSync()) const Icon(Icons.check, color: Colors.green),
+                              if (userImageExists(_img.text)) const Icon(Icons.check, color: Colors.green),
                               IconButton(tooltip: 'Bỏ ảnh', icon: const Icon(Icons.clear), onPressed: () => setState(_img.clear)),
                             ],
                           ),

@@ -7,5 +7,6 @@
 - Bản phát hành dữ liệu: `python3 tool/content/bundle.py` → `build/content/grammar.db` + `grammar.images` (ảnh minh hoạ, zip không nén, app đọc thẳng) cho người tải tay, cùng `grammar.db.gz` + `bundle.json` cho việc app tự tải (docs/07 §12); `--web` dựng thêm `build/content/web/` (DB biến thể web + `img/pages/`). `--zip-data` tạo thêm `grammar4-data-<ver>.zip` gộp DB và ảnh để chia sẻ tay. App đọc cả cấu trúc phát hành (`grammar.images`, `audio/` cạnh grammar.db) lẫn cấu trúc repo (`dataset/`).
 - Định dạng bằng `dart format lib test tool` (khổ dòng 200, cấu hình trong `analysis_options.yaml`); không đổi khổ dòng hay định dạng tay kiểu khác.
 - Chạy `flutter analyze` và `flutter test` trước khi kết thúc; test dùng `content/grammar.db` (hoặc `GRAMMAR_DATA_DIR`).
+- Mã dùng chung cho web: `dart:io`, `dart:ffi`, `path_provider`, `package:sqlite3/sqlite3.dart`, `media_kit`, `permission_handler` chỉ trong file `*_io.dart` hoặc danh sách `nativeOnly` của `test/platform_imports_test.dart`; phần riêng nền tảng đi qua cặp `x_io.dart`/`x_web.dart` sau `import 'x_io.dart' if (dart.library.js_interop) 'x_web.dart'` (xem `lib/platform/`).
 - Windows: TTS là kênh SAPI riêng (`windows/runner/sapi_tts.cpp`), không dùng `flutter_tts` ở đó. Video dùng `media_kit`.
 - Chỉ commit khi được yêu cầu. Commit với `-c user.name="Hieu Nguyen" -c user.email="hieu@newlogic.com"`.
