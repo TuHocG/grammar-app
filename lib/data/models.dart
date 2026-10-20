@@ -78,13 +78,6 @@ class WordFamily {
   const WordFamily(this.id, this.members);
 }
 
-class HelpTopic {
-  final int id;
-  final String title;
-  final String text;
-  const HelpTopic(this.id, this.title, this.text);
-}
-
 /// A word the user saved (Từ Vựng Của Bạn).
 class UserWord {
   final int id;

@@ -4,7 +4,7 @@
     python3 tool/content/bundle.py --zip-data           # also grammar4-data-<version>.zip holding both, to share by hand
     python3 tool/content/bundle.py --zip-audio DIR      # also grammar4-audio-<version>.zip from DIR (1.mp3 …)
     python3 tool/content/bundle.py --no-pack-db         # reuse content/grammar.db as is
-    GRAMMAR_DB_KEY=… python3 tool/content/bundle.py     # encrypt grammar.db (same key as the app build)
+    python3 tool/content/bundle.py --web                # also build/content/web/: the web variant (see below)
 
 Users put both files in one folder, then pick that folder in Cài Đặt → Dữ liệu:
 
@@ -14,18 +14,24 @@ Users put both files in one folder, then pick that folder in Cài Đặt → D�
 grammar.images is a zip holding `img/readings/…`, `img/dialogs/…` under their content paths, stored
 uncompressed (WebP is already compressed) so the app reads each picture in place
 (lib/data/image_pack.dart): one file to copy instead of thousands. Its own extension keeps users
-from unzipping it. The release workflow attaches the two files as they are; --zip-data adds one zip with
-both (unzip into a folder, then pick it) for sharing by hand, like the audio zip.
+from unzipping it. The release workflow attaches the two files as they are, plus grammar.db.gz (the
+same database gzipped, a third of the size) and bundle.json (version, size and sha256 of each file), for
+the in-app download planned in docs/07 §12; --zip-data adds one zip with grammar.db and grammar.images
+(unzip into a folder, then pick it) for sharing by hand, like the audio zip.
 
 The audio zip holds `audio/<n>.mp3`: unzip it into the same folder, next to grammar.db (or pick
 the folder in Cài Đặt → Dữ liệu → Âm thanh thực). content/dataset/ is the repo's source layout only.
-With a key (--key or env GRAMMAR_DB_KEY) the shipped grammar.db is encrypted with SQLite3MultipleCiphers
-(tool/encrypt_db.dart, needs the Dart SDK); only an app built with the same --dart-define=GRAMMAR_DB_KEY
-opens it. The content version goes into build/content/bundle.json and SHA256SUMS.txt.
+The content version goes into build/content/bundle.json and SHA256SUMS.txt.
+
+--web writes build/content/web/: grammar.db of the `web` variant (pack.py --variant web: no media
+table, no video subtitles) and img/pages/ with the Từ Vựng Tranh pages as files, since that database
+does not embed them; the web host (docs/07 §12) serves both. Both variants are then packed from the
+dataset in one go, so they describe the same content; without --web a stale build/content/web/ is removed.
 """
 from __future__ import annotations
 
 import argparse
+import gzip
 import hashlib
 import json
 import os
@@ -55,12 +61,15 @@ def main() -> int:
     ap.add_argument('--no-pack-db', action='store_true', help='do not rebuild content/grammar.db first')
     ap.add_argument('--zip-data', action='store_true', help='also grammar4-data-<version>.zip with grammar.db and grammar.images')
     ap.add_argument('--zip-audio', type=Path, metavar='DIR', help='folder with the real-voice recordings (1.mp3, 2.mp3 …)')
-    ap.add_argument('--key', default=os.environ.get('GRAMMAR_DB_KEY', ''), help='encrypt grammar.db (default: env GRAMMAR_DB_KEY)')
+    ap.add_argument('--web', action='store_true', help='also build/content/web/ (grammar.db of the web variant + img/pages/); repacks both variants')
     a = ap.parse_args()
 
-    if not a.no_pack_db:
-        for tool in ('check.py', 'pack.py'):
-            r = subprocess.run([sys.executable, str(ROOT / 'tool' / 'content' / tool)])
+    pack_py = str(ROOT / 'tool' / 'content' / 'pack.py')
+    web_dir = OUT / 'web'
+    shutil.rmtree(web_dir, ignore_errors=True)
+    if not a.no_pack_db or a.web:
+        for tool in (str(ROOT / 'tool' / 'content' / 'check.py'), pack_py):
+            r = subprocess.run([sys.executable, tool])
             if r.returncode:
                 return r.returncode
     db = CONTENT / 'grammar.db'
@@ -74,15 +83,12 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     shipped_db = OUT / 'grammar.db'
     shipped_db.unlink(missing_ok=True)
-    if a.key:
-        dart = 'dart.bat' if os.name == 'nt' else 'dart'
-        r = subprocess.run([dart, 'run', 'tool/encrypt_db.dart', str(db), str(shipped_db), a.key], cwd=ROOT)
-        if r.returncode:
-            print('encryption failed')
-            return r.returncode
-    else:
-        shutil.copyfile(db, shipped_db)
-    outputs: list[Path] = [shipped_db]
+    shutil.copyfile(db, shipped_db)
+    gz = OUT / 'grammar.db.gz'
+    # mtime=0: the same database gzips to the same bytes.
+    with shipped_db.open('rb') as src, gzip.GzipFile(gz, 'wb', compresslevel=9, mtime=0) as dst:
+        shutil.copyfileobj(src, dst, 1 << 20)
+    outputs: list[Path] = [shipped_db, gz]
     img_root = CONTENT / 'dataset' / 'img'
     images_zip = OUT / 'grammar.images'
     n_img = 0
@@ -98,8 +104,19 @@ def main() -> int:
                 z.write(full, rel)
                 n_img += 1
     outputs.append(images_zip)
-    print(f'grammar.db: {"encrypted, " if a.key else ""}content {version}, schema {meta.get("schema_version")}, '
+    print(f'grammar.db: content {version}, schema {meta.get("schema_version")}, '
           f'{len(embedded)} pictures embedded; {images_zip.name}: {n_img} illustrations')
+
+    if a.web:
+        r = subprocess.run([sys.executable, pack_py, '--variant', 'web', '--out', str(web_dir / 'grammar.db')])
+        if r.returncode:
+            return r.returncode
+        pages = sorted(embedded)
+        for rel in pages:
+            dst = web_dir / rel
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(CONTENT / 'dataset' / rel, dst)
+        print(f'{web_dir.relative_to(ROOT)}/: web variant + {len(pages)} pages as files')
 
     if a.zip_data:
         data_zip = OUT / f'grammar4-data-{version}.zip'
@@ -125,7 +142,6 @@ def main() -> int:
         print(f'  {p.stat().st_size / 2**20:7.1f} MB  {line[:16]}…  {p.name}')
     (OUT / 'bundle.json').write_text(json.dumps({
         'content_version': version, 'schema_version': meta.get('schema_version'), 'content_date': meta.get('content_date'),
-        'encrypted': bool(a.key),
         'files': {p.name: {'bytes': p.stat().st_size, 'sha256': l.split()[0]} for p, l in zip(outputs, lines)},
     }, indent=1) + '\n', encoding='utf-8')
     return 0

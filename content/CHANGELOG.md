@@ -8,6 +8,15 @@ Phiên bản nội dung `MAJOR.MINOR.PATCH` nằm trong `content/content.json`, 
 
 Trước khi tăng phiên bản: `python3 tool/content/check.py` phải qua (không mất ID cũ).
 
+## 1.2.0 — 2026-10-20
+
+Không đổi bài học nào; gói dữ liệu gọn lại để tải qua mạng (bản web và tải trực tiếp trong app). Lược đồ vẫn là 1: app 1.0.x vẫn mở được DB này (không đọc các phần đã bỏ).
+
+- `grammar.db` có **hai biến thể** (`meta.variant`): `full` cho bản cài offline (như trước: 155 trang Từ Vựng Tranh nhúng trong bảng `media`, phụ đề video), `web` cho bản web (không có `media` — trang tranh là file ảnh như ảnh minh hoạ — và không có `subtitle_film`/`subtitle_line` vì bản web không có video). `python3 tool/content/pack.py --variant web`.
+- Bỏ những phần app chưa bao giờ đọc: cột `reading.en`/`vi` (bản sao toàn bài, app đọc câu từ `reading_sentence`; −26 MB), hai chỉ mục FTS5 `dict_fts`, `reading_sentence_fts` (−18 MB), bảng `help_topic` (30 bài hướng dẫn nguyên văn của Grammar 3.1; app có hướng dẫn riêng, nguyên văn còn ở repo grammar-legacy), khoá `meta.built` và `media_note`. `full` 267 → 210 MB; `web` 176 MB (nén gzip ≈ 60 MB).
+- Không còn mốc giờ dựng trong DB: cùng nội dung (và cùng phiên bản SQLite) dựng ra cùng byte.
+- Gói phát hành không mã hoá nữa (xem docs/07 §11); thêm `grammar.db.gz` và `bundle.json`, chuẩn bị cho việc app tự tải dữ liệu (docs/07 §12).
+
 ## 1.1.0 — 2026-10-13
 
 Bản dữ liệu 2019 của tác giả (thư mục `Data G/Code`, mới hơn bản cài 2018), nhập bằng `tools/content_import.py` của `grammar-legacy`, giữ nguyên mọi ID cũ:

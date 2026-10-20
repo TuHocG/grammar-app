@@ -1,6 +1,6 @@
 # Kế hoạch port Grammar 3.1 sang ứng dụng cross-platform (Grammar 4.0)
 
-> Từ 2026-10-07 mã app nằm ở gốc repo `grammar4` (trước đó là thư mục `app/` của repo `grammar`, nay là `grammar-legacy`); `tools/etl`, `docs/02 03 05 06`, `docs/source` và `legacy/`, `dist/` nhắc trong tài liệu này thuộc repo `grammar-legacy`. Từ 2026-10-07 nội dung bài học nằm trong `content/dataset` của repo này và là nguồn chính thức (ETL của `grammar-legacy` chỉ dùng cho lần nhập đầu); `content/grammar.db` dựng bằng `tool/content/pack.py`, có phiên bản nội dung trong bảng `meta`. Audio và video tải riêng. Vì nội dung nằm trong repo, lớp "không đóng gói dữ liệu thô" và DB mã hoá ở §11 không còn chống sao chép được nếu repo công khai.
+> Từ 2026-10-07 mã app nằm ở gốc repo `grammar4` (trước đó là thư mục `app/` của repo `grammar`, nay là `grammar-legacy`); `tools/etl`, `docs/02 03 05 06`, `docs/source` và `legacy/`, `dist/` nhắc trong tài liệu này thuộc repo `grammar-legacy`. Từ 2026-10-07 nội dung bài học nằm trong `content/dataset` của repo này và là nguồn chính thức (ETL của `grammar-legacy` chỉ dùng cho lần nhập đầu); `content/grammar.db` dựng bằng `tool/content/pack.py`, có phiên bản nội dung trong bảng `meta`. Audio và video tải riêng. Vì nội dung nằm trong repo, lớp "không đóng gói dữ liệu thô" và DB mã hoá ở §11 không còn chống sao chép được nếu repo công khai (mã hoá đã bỏ 2026-10-20, §11).
 
 Bản 1, 2026-10-05. Tài liệu điều phối: quyết định, phạm vi, kiến trúc, lộ trình và cách bảo đảm không bỏ sót chức năng. Chi tiết từng chức năng nằm ở `docs/02` (bảng tính năng), `docs/06` (hướng dẫn gốc), `docs/source/*` (phân tích mã nguồn VB6), `docs/08` (ma trận truy vết, sinh sau khi phân tích mã nguồn xong).
 
@@ -99,7 +99,7 @@ Trạng thái 2026-10-05: M1–M5 đã viết xong và chạy trên Windows (m�
 ## 10. Quyết định của chủ dự án (2026-10-05)
 
 1. **Flutter.** SDK đặt ở `D:\sdklutter`; build Windows cần Visual Studio 2022 Build Tools (workload C++); Android cài sau khi M1 chạy được trên Windows.
-2. **Không làm bản web** bây giờ: tải 250 MB dữ liệu + media qua trình duyệt làm hệ thống phức tạp, chưa cần.
+2. ~~**Không làm bản web** bây giờ: tải 250 MB dữ liệu + media qua trình duyệt làm hệ thống phức tạp, chưa cần.~~ **Đổi 2026-10-20 (mục 12): web là kênh chính.**
 3. **Chuyển 210 AVI sang MP4/H.264** bằng script ffmpeg trong `tools/video/` để dùng `video_player` chuẩn trên mọi nền tảng; tên file giữ mã tập (`A 01.mp4`…).
 4. **Công bố miễn phí** theo tinh thần của tác giả, nhưng phải **gây khó cho việc trích xuất dữ liệu để trục lợi**. Xem mục 11.
 
@@ -116,7 +116,20 @@ Trạng thái 2026-10-05: M1–M5 đã viết xong và chạy trên Windows (m�
 | Giấy phép và dấu vết | Màn hình giới thiệu ghi rõ tác giả nội dung, giấy phép "miễn phí, không được bán hay phân phối lại dữ liệu"; mỗi gói tải về gắn định danh cài đặt (watermark nhẹ trong metadata) để truy nguồn khi bị phát tán. | M6 |
 | Không công khai dữ liệu | Repo mã nguồn có thể công khai, nhưng `legacy/`, `dist/`, khoá và máy chủ dữ liệu thì không. | luôn |
 
-Hiện trạng: `package:sqlite3` 3.x build biến thể SQLite3MultipleCiphers (`hooks.user_defines.sqlite3.source: sqlite3mc` trong `app/pubspec.yaml`); `dart run tool/encrypt_db.dart dist/grammar.db out.db <key>` mã hoá bằng `PRAGMA rekey`; app mở bằng `--dart-define=GRAMMAR_DB_KEY=<key>` (bản phát triển dùng DB thường, không cần khoá). Tải DB từ máy chủ và mã hoá media làm ở bước đóng gói phát hành.
+Hiện trạng (đến 2026-10-20, đã bỏ — xem đoạn dưới): `package:sqlite3` 3.x build biến thể SQLite3MultipleCiphers (`hooks.user_defines.sqlite3.source: sqlite3mc` trong `app/pubspec.yaml`); `dart run tool/encrypt_db.dart dist/grammar.db out.db <key>` mã hoá bằng `PRAGMA rekey`; app mở bằng `--dart-define=GRAMMAR_DB_KEY=<key>` (bản phát triển dùng DB thường, không cần khoá). Tải DB từ máy chủ và mã hoá media làm ở bước đóng gói phát hành.
 
 Phát hành (2026-10-07): GitHub Actions (`.github/workflows/release.yml`) build Windows, Android, macOS với `--obfuscate --split-debug-info` và khoá DB lấy từ secret, rồi đưa lên GitHub Releases. Bản đầu chưa làm Linux, web, iOS và tải dữ liệu từ máy chủ: người dùng tải gói dữ liệu (`grammar.db` đã mã hoá và `grammar.images` chứa ảnh minh hoạ) vào một thư mục rồi chọn thư mục đó trong app. Windows và macOS chưa ký mã.
+
+**Bỏ mã hoá (2026-10-20).** Nội dung đã nằm trong repo (sắp công khai) và bản web phải tải DB về trình duyệt, nên khoá trong mã không bảo vệ được gì. Gói dữ liệu từ 1.2.0 là SQLite thường; app bỏ sqlite3mc (`hooks` trong pubspec), `tool/encrypt_db.dart`, `GRAMMAR_DB_KEY`. App mới không đọc `grammar.db` mã hoá của 1.0.x (báo lỗi, gợi ý tải dữ liệu mới). Các lớp còn giữ: làm rối mã, giấy phép và dòng bản quyền nội dung trong README/giới thiệu.
+
+## 12. Bản web và tải dữ liệu trực tiếp (quyết định 2026-10-20)
+
+Nhiều người dùng iPhone/iPad; không có kinh phí App Store/VPS; bản Windows chưa ký vướng SmartScreen. Quyết định:
+
+1. **Web là kênh chính**: web tĩnh (PWA, chạy offline) trên Cloudflare Pages miễn phí, không backend. Có mọi bài học, **không có video và không có audio thực** (đọc bằng giọng máy); mời người dùng tải bản offline để đủ tính năng.
+2. **Dữ liệu**: `grammar.db` hai biến thể cùng lược đồ (`full` cho bản cài, `web` không `media`/`subtitle_*`); bỏ phần app không đọc (docs/09). Web tải DB lần đầu (cắt khối nén, VFS chỉ đọc của `package:sqlite3` bản WASM, giữ API đồng bộ), ảnh tải dần khi mở; dữ liệu người dùng trong IndexedDB.
+3. **Bản native** giữ (Windows, Android, macOS), thêm "Tải dữ liệu" từ GitHub Releases của repo (công khai) hoặc chọn thư mục đã tải như cũ.
+4. **Phát hành**: tag → bản nháp + preview web (noindex); chủ dự án publish → workflow riêng đưa đúng bản đã thử lên production.
+
+Lộ trình: (1) dữ liệu hai biến thể, bỏ mã hoá — xong 2026-10-20; (2) tách lớp nền tảng khỏi `dart:io`; (3) định dạng dữ liệu host + VFS khối; (4) app web; (5) tải dữ liệu trong bản native; (6) CI deploy. Số liệu thử nghiệm trên thiết bị ghi ở đây khi có.
 

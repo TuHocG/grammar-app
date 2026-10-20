@@ -54,7 +54,7 @@ python3 tool/content/bundle.py --zip-data              # kèm grammar4-data-<phi
 python3 tool/content/bundle.py --zip-audio <thư mục 1.mp3…>  # kèm gói giọng đọc thật
 ```
 
-Kết quả là hai file trong `build/content/` (kèm `SHA256SUMS.txt`, `bundle.json` ghi phiên bản nội dung). Pipeline phát hành đính hai file riêng; gói zip (`--zip-data`) tiện gửi tay, người nhận giải nén ra thư mục. Người dùng đặt cả hai file vào một thư mục bất kỳ rồi chọn thư mục đó trong Cài Đặt → Dữ liệu:
+Kết quả trong `build/content/`: `grammar.db` và `grammar.images` cho người tải tay, `grammar.db.gz` (cùng DB nén, bằng một phần ba) và `bundle.json` (phiên bản, kích thước, sha256 từng file) dành cho việc app tự tải dữ liệu sắp làm (docs/07 §12), kèm `SHA256SUMS.txt`. Pipeline phát hành đính từng file riêng; gói zip (`--zip-data`) tiện gửi tay, người nhận giải nén ra thư mục. `--web` dựng thêm `build/content/web/`: `grammar.db` biến thể cho bản web (không nhúng trang tranh, không phụ đề video; xem docs/09) và `img/pages/` là các trang tranh dạng file. Người dùng đặt cả hai file vào một thư mục bất kỳ rồi chọn thư mục đó trong Cài Đặt → Dữ liệu:
 
 ```
 grammar.db       bài học + 155 trang Từ Vựng Tranh (nhúng trong DB, bảng media)
@@ -63,7 +63,7 @@ audio/…          giọng đọc thật, từ gói audio giải nén vào cùng
 video/…          video Luyện Nghe A 01.mp4 … (tuỳ chọn)
 ```
 
-Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc (không có `grammar.images` thì tìm ảnh trong `img/` hoặc `dataset/img/`).
+Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc (không có `grammar.images` thì tìm ảnh trong `img/` hoặc `dataset/img/`). DB không mã hoá (từ 1.2.0; `grammar.db` mã hoá của bản 1.0.x không mở được nữa, tải gói mới).
 
 ## Cấu trúc
 
@@ -81,8 +81,7 @@ content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); 
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung
 tool/content/jsonfmt.py       bố cục JSON dễ đọc, dễ diff của content/dataset (`--check` chỉ báo)
-tool/content/bundle.py        đóng gói bản phát hành: grammar.db + grammar.images (`--zip-data`: kèm grammar4-data-<phiên bản>.zip), `--zip-audio`: grammar4-audio-<phiên bản>.zip (audio/)
-tool/encrypt_db.dart          mã hoá grammar.db cho bản phát hành
+tool/content/bundle.py        đóng gói bản phát hành: grammar.db, grammar.db.gz, grammar.images, bundle.json (`--web`: thêm bản web; `--zip-data`: kèm grammar4-data-<phiên bản>.zip; `--zip-audio`: grammar4-audio-<phiên bản>.zip)
 docs/                         kế hoạch port (07), ma trận truy vết hành vi app gốc (08), lược đồ SQLite (09)
 DESIGN.md                     tham chiếu phong cách giao diện
 ```
@@ -92,13 +91,12 @@ DESIGN.md                     tham chiếu phong cách giao diện
 - **Windows**: `flutter_tts` sập trên một số máy nên TTS dùng SAPI qua kênh `grammar/tts` (`windows/runner/sapi_tts.cpp`), đúng engine Grammar 3.1 dùng (tốc độ 1–7 → Rate −10…8). Nếu `flutter build windows` báo `nuget.exe not found`, tải nuget.exe và thêm vào PATH. Nếu CMake đòi ghi vào `C:\Program Files\grammar`, xoá `build/windows` rồi build lại.
 - **macOS**: App Sandbox đã tắt trong `macos/Runner/*.entitlements` để đọc thư mục dữ liệu và video do người dùng chọn. TTS dùng giọng hệ thống (System Settings → Accessibility → Spoken Content).
 - **Android**: `android/gradle.properties` tắt Kotlin incremental và Gradle daemon vì lỗi cache kẹt trên Windows; bật lại nếu máy bạn không gặp.
-- **Video** phát bằng `media_kit` (libmpv); phụ đề đồng bộ theo mốc kết thúc dòng như app gốc.
-- **DB mã hoá** (phát hành): `package:sqlite3` build biến thể SQLite3MultipleCiphers (`hooks` trong `pubspec.yaml`). Tạo DB: `dart run tool/encrypt_db.dart content/grammar.db out/grammar.db <khoá>`; build với `--dart-define=GRAMMAR_DB_KEY=<khoá> --obfuscate --split-debug-info=build/symbols`. Bản phát triển dùng DB thường, không cần khoá.
+- **Video** phát bằng `media_kit` (libmpv); phụ đề đồng bộ theo mốc kết thúc dòng như app gốc. Lối vào Video chỉ hiện khi DB có phụ đề (biến thể `full`).
 - **Chụp màn hình tự động**: biến môi trường `GRAMMAR_INITIAL_ROUTE=/dict/word/ball` mở thẳng một màn hình.
 
 ## Phát hành
 
-Bản phát hành gồm Windows, Android, macOS; chưa làm Linux, web và iOS. GitHub Actions (`.github/workflows/release.yml`) chạy khi đẩy tag `vX.Y.Z`. Workflow kiểm tra tag khớp `version:` trong `pubspec.yaml`, chạy check/analyze/test, build có `--obfuscate`, rồi tạo **bản nháp** GitHub Release kèm `Grammar-X.Y.Z-windows-x64.zip`, `-android.apk`/`.aab`, `-macos-universal.zip`. Symbol để giải mã stack trace nằm trong artifact `symbols-*` của lần chạy (giữ 90 ngày). Muốn build mà không tạo release thì chạy tay: Actions → Release → Run workflow, chọn nhánh, chọn `platform` (`all` hoặc một nền tảng, `data` để chỉ đóng gói dữ liệu), tuỳ chọn `skip_check` để bỏ job `check` (kiểm tra nội dung, analyze/test) khi chỉ cần build thử. Gói dữ liệu do job `data` đóng, chạy sau `check`. Mỗi file build (zip, apk, aab, gói dữ liệu) là một artifact riêng, không bọc thêm zip, ở mục Artifacts của lần chạy.
+Bản phát hành gồm Windows, Android, macOS; chưa làm Linux, web và iOS. GitHub Actions (`.github/workflows/release.yml`) chạy khi đẩy tag `vX.Y.Z`. Workflow kiểm tra tag khớp `version:` trong `pubspec.yaml`, chạy check/analyze/test, build có `--obfuscate`, rồi tạo **bản nháp** GitHub Release kèm `Grammar-windows-x64.zip`, `Grammar-android.apk`/`.aab`, `Grammar-macos-universal.zip` (tên không mang số phiên bản để link `releases/latest/download/<file>` luôn trỏ bản mới nhất; chỉ release đã publish mới là "latest"). Symbol để giải mã stack trace nằm trong artifact `symbols-*` của lần chạy (giữ 90 ngày). Muốn build mà không tạo release thì chạy tay: Actions → Release → Run workflow, chọn nhánh, chọn `platform` (`all` hoặc một nền tảng, `data` để chỉ đóng gói dữ liệu), tuỳ chọn `skip_check` để bỏ job `check` (kiểm tra nội dung, analyze/test) khi chỉ cần build thử. Gói dữ liệu do job `data` đóng, chạy sau `check`. Mỗi file build (zip, apk, aab, gói dữ liệu) là một artifact riêng, không bọc thêm zip, ở mục Artifacts của lần chạy.
 
 Thiết lập một lần, trong GitHub → Settings → Environments → **`Release`** → Environment secrets. Các job của workflow khai báo `environment: Release` nên mới đọc được các secret này. Nếu environment có giới hạn nhánh/tag (Deployment branches and tags), phải cho phép `main` và tag `v*`; nếu bật Required reviewers thì mỗi lần chạy phải duyệt.
 
@@ -106,7 +104,6 @@ Thiết lập một lần, trong GitHub → Settings → Environments → **`Rel
 |---|---|
 | `ANDROID_KEYSTORE_BASE64` | keystore ký Android dạng base64 (`base64 -w0 release.jks`) |
 | `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD` | mật khẩu và alias của keystore |
-| `GRAMMAR_DB_KEY` | khoá mã hoá `grammar.db` (tuỳ chọn; app vẫn mở được DB thường) |
 
 Tạo keystore: `keytool -genkey -v -keystore release.jks -keyalg RSA -keysize 2048 -validity 10000 -alias grammar`. Cất keystore ở chỗ an toàn ngoài repo: mất nó thì không phát hành được bản cập nhật cho người đã cài. Muốn build có ký trên máy, tạo `android/key.properties` (đã gitignore) với `storeFile=`, `storePassword=`, `keyAlias=`, `keyPassword=`. Không có file này thì bản release ký bằng khoá debug.
 
@@ -114,7 +111,7 @@ Các bước phát hành:
 
 1. Tăng `version:` trong `pubspec.yaml` (ví dụ `0.2.0+2`; số sau `+` là versionCode Android và phải tăng mỗi lần).
 2. Commit, rồi `git tag v0.2.0 && git push origin v0.2.0`.
-3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` với cùng `GRAMMAR_DB_KEY` và đính `grammar.db` (đã mã hoá, ảnh trang tranh nằm trong DB) cùng `grammar.images` (ảnh minh hoạ) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng tải hai file vào một thư mục rồi chọn thư mục đó trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `GRAMMAR_DB_KEY=<khoá> python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive; người dùng đặt `audio/`, `video/` cạnh grammar.db (app tự tìm) hoặc chọn thư mục khác trong Cài Đặt.
+3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` và đính `grammar.db` (ảnh trang tranh nằm trong DB), `grammar.images` (ảnh minh hoạ), `grammar.db.gz` và `bundle.json` (cho việc app tự tải dữ liệu, docs/07 §12) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng tải `grammar.db` và `grammar.images` vào một thư mục rồi chọn thư mục đó trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive; người dùng đặt `audio/`, `video/` cạnh grammar.db (app tự tìm) hoặc chọn thư mục khác trong Cài Đặt.
 4. Mở bản nháp release, ghi chú gồm: link Drive tới audio và video; danh sách "cố ý khác" ở cuối docs/08; cách mở lần đầu (dưới đây). Sau đó Publish.
 
 Mở lần đầu: **Windows** giải nén rồi chạy `grammar.exe`; SmartScreen cảnh báo vì exe chưa ký, chọn More info → Run anyway. **macOS**: app chưa notarize, nên nhấp phải → Open, hoặc chạy `xattr -cr "Grammar 4.0.app"`. **Android**: cho phép cài từ nguồn không rõ.

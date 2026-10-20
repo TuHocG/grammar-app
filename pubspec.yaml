@@ -51,10 +51,3 @@ flutter:
           weight: 400
         - asset: assets/fonts/Literata-SemiBold.ttf
           weight: 600
-
-# package:sqlite3 3.x builds SQLite itself; use the SQLite3MultipleCiphers variant so the
-# content database can be shipped encrypted (docs/07 §11). Plain databases still open.
-hooks:
-  user_defines:
-    sqlite3:
-      source: sqlite3mc

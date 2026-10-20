@@ -18,23 +18,12 @@ class ContentDb {
   ContentDb._(this._db, this.dataDir);
 
   /// [dataDir] holds `grammar.db` and `grammar.images` (release bundle), or `dataset/img`,
-  /// `dataset/audio` (the repo's content/ folder). A release build ships
-  /// the database encrypted with SQLite3MultipleCiphers (docs/07 §11); [key] unlocks it.
-  /// A plain database (development) opens with or without a key.
-  static ContentDb open(String dataDir, {String? key}) {
+  /// `dataset/audio` (the repo's content/ folder).
+  static ContentDb open(String dataDir) {
     final file = p.join(dataDir, 'grammar.db');
-    var db = sqlite3.open(file, mode: OpenMode.readOnly);
-    if (key != null && key.isNotEmpty) {
-      try {
-        db.execute("PRAGMA key = '${key.replaceAll("'", "''")}'");
-        db.select('SELECT 1 FROM meta LIMIT 1');
-      } catch (_) {
-        db.close(); // not encrypted (or wrong key): retry as a plain database
-        db = sqlite3.open(file, mode: OpenMode.readOnly);
-      }
-    }
-    // SQLite reads the file lazily: fail here (encrypted without the key, not a database) so
-    // callers can show the error instead of crashing on the first query.
+    final db = sqlite3.open(file, mode: OpenMode.readOnly);
+    // SQLite reads the file lazily: fail here (not a database, or the encrypted grammar.db of
+    // the 1.0.x releases) so callers can show the error instead of crashing on the first query.
     try {
       db.select('SELECT 1 FROM meta LIMIT 1');
     } catch (_) {
@@ -62,7 +51,16 @@ class ContentDb {
 
   File mediaFile(String rel) => File(mediaPath(rel));
 
-  late final bool _hasMediaTable = _db.select("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'media'").isNotEmpty;
+  bool _hasTable(String name) => _db.select("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = ?", [name]).isNotEmpty;
+
+  /// Whether this database carries the video subtitles (`subtitle_film`): the `full` variant does,
+  /// the `web` variant does not (docs/09). Pages that lead to Video check this.
+  late final bool hasVideo = _hasTable('subtitle_film');
+
+  /// `full` or `web` (docs/09); null for databases before 1.2.0 (all of them `full`).
+  String? get variant => _meta('variant');
+
+  late final bool _hasMediaTable = _hasTable('media');
   final Map<String, Uint8List?> _embedded = {};
 
   /// Picture stored inside grammar.db (the Từ Vựng Tranh pages), or null.
@@ -196,15 +194,6 @@ class ContentDb {
     final r = rows.first;
     final members = (jsonDecode(r['members'] as String) as List).cast<Map<String, dynamic>>().map((e) => WordForm(e['w'] as String, (e['pos'] ?? '') as String)).toList();
     return WordFamily(r['id'] as int, members);
-  }
-
-  // ---- help ---------------------------------------------------------------
-
-  List<HelpTopic> helpTopics() => [for (final r in _db.select('SELECT id, title, text FROM help_topic ORDER BY id')) HelpTopic(r['id'] as int, r['title'] as String, r['text'] as String)];
-
-  HelpTopic? helpTopic(int id) {
-    final rows = _db.select('SELECT id, title, text FROM help_topic WHERE id = ?', [id]);
-    return rows.isEmpty ? null : HelpTopic(id, rows.first['title'] as String, rows.first['text'] as String);
   }
 }
 

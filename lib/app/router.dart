@@ -178,6 +178,8 @@ GoRouter buildRouter() => GoRouter(
     ),
     GoRoute(
       path: '/video',
+      // A `web` database has no subtitles (docs/09): a typed or restored URL lands on Luyện Nghe.
+      redirect: (c, _) => ProviderScope.containerOf(c).read(contentDbProvider).hasVideo ? null : '/listening',
       builder: (_, _) => const VideoListPage(),
       routes: [
         GoRoute(

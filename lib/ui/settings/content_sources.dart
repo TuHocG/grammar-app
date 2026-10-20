@@ -8,7 +8,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path/path.dart' as p;
 
-import '../../app/config.dart';
 import '../../app/providers.dart';
 import '../../app/restart.dart';
 import '../../data/content_db.dart';
@@ -45,7 +44,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
       setState(() {
         _data = dataSummary(db);
         _audio = audioSummary(db, audioDir(db, user));
-        _video = videoSummary(db, videoDir(db, user));
+        _video = db.hasVideo ? videoSummary(db, videoDir(db, user)) : null;
       });
     });
   }
@@ -89,7 +88,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     int schema;
     Map<String, dynamic> counts;
     try {
-      final probe = ContentDb.open(dir, key: grammarDbKey);
+      final probe = ContentDb.open(dir);
       version = probe.contentVersion;
       schema = probe.schemaVersion;
       counts = probe.counts;
@@ -208,7 +207,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
                       'Luyện nói ${d.counts['dialog']}',
                       'Văn phạm ${d.counts['grammar_lesson']}',
                       'Bài tập ${d.counts['exercise']}',
-                      'Phụ đề ${d.counts['subtitle_film']} tập',
+                      if (d.counts['subtitle_film'] case final n?) 'Phụ đề $n tập',
                       'Từ vựng tranh ${d.counts['picture_topic']} bài',
                     ].join(' · '),
                     style: muted,
@@ -252,24 +251,26 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
             if (customAudio) TextButton(onPressed: () => _clear(audioDirKey), child: const Text('Dùng mặc định')),
           ],
         ),
-        const Divider(indent: 16, endIndent: 16),
-        card(
-          icon: Icons.movie_outlined,
-          title: 'Video (Luyện Nghe)',
-          lines: v == null
-              ? [Text('Đang đọc…', style: muted)]
-              : [
-                  SelectableText(v.dir + (customVideo ? '' : '  (mặc định: thư mục video cạnh grammar.db)'), style: muted),
-                  Text(
-                    !v.exists ? 'Chưa có thư mục này: trang Video không phát được (cần A 01.mp4 … hoặc A  1.avi …).' : '${v.found}/${v.expected} tập có file · ${formatBytes(v.bytes)}',
-                    style: muted,
-                  ),
-                ],
-          actions: [
-            OutlinedButton.icon(onPressed: () => _pickFolder(videoDirKey, 'Chọn thư mục video', v?.dir), icon: const Icon(Icons.folder_open_outlined), label: const Text('Chọn thư mục…')),
-            if (customVideo) TextButton(onPressed: () => _clear(videoDirKey), child: const Text('Dùng mặc định')),
-          ],
-        ),
+        if (ref.read(contentDbProvider).hasVideo) ...[
+          const Divider(indent: 16, endIndent: 16),
+          card(
+            icon: Icons.movie_outlined,
+            title: 'Video (Luyện Nghe)',
+            lines: v == null
+                ? [Text('Đang đọc…', style: muted)]
+                : [
+                    SelectableText(v.dir + (customVideo ? '' : '  (mặc định: thư mục video cạnh grammar.db)'), style: muted),
+                    Text(
+                      !v.exists ? 'Chưa có thư mục này: trang Video không phát được (cần A 01.mp4 … hoặc A  1.avi …).' : '${v.found}/${v.expected} tập có file · ${formatBytes(v.bytes)}',
+                      style: muted,
+                    ),
+                  ],
+            actions: [
+              OutlinedButton.icon(onPressed: () => _pickFolder(videoDirKey, 'Chọn thư mục video', v?.dir), icon: const Icon(Icons.folder_open_outlined), label: const Text('Chọn thư mục…')),
+              if (customVideo) TextButton(onPressed: () => _clear(videoDirKey), child: const Text('Dùng mặc định')),
+            ],
+          ),
+        ],
       ],
     );
   }

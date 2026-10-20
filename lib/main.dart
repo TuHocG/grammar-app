@@ -6,7 +6,6 @@ import 'package:media_kit/media_kit.dart';
 import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
 
-import 'app/config.dart';
 import 'app/providers.dart';
 import 'app/restart.dart';
 import 'app/router.dart';
@@ -68,12 +67,12 @@ Future<void> _start({String? error}) async {
   }
   final ContentDb content;
   try {
-    content = ContentDb.open(dir, key: grammarDbKey);
+    content = ContentDb.open(dir);
   } catch (e) {
     await _start(
       error:
-          'Không mở được grammar.db: $e'
-          '${grammarDbKey.isEmpty ? '\nNếu đây là grammar.db của bản phát hành (đã mã hoá), bản app này không có khoá để đọc — chọn thư mục content/ của repo.' : ''}',
+          'Không mở được grammar.db: $e\n'
+          'Nếu đây là grammar.db của bản 1.0.x (mã hoá, bản này không đọc nữa), hãy tải gói dữ liệu mới nhất từ trang phát hành.',
     );
     return;
   }

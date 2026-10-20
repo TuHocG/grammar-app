@@ -1,8 +1,8 @@
 # Release build used by every platform job of .github/workflows/release.yml: set up Flutter, run
 # `flutter build` with the release flags (docs/07 §11) and keep the split debug info as a private
-# artifact. The job provides FLUTTER_VERSION and GRAMMAR_DB_KEY in its environment.
+# artifact. The job provides FLUTTER_VERSION in its environment.
 name: Flutter release build
-description: flutter build <targets> --release --obfuscate with the content DB key; uploads build/symbols.
+description: flutter build <targets> --release --obfuscate; uploads build/symbols.
 
 inputs:
   targets:
@@ -21,7 +21,6 @@ runs:
       run: |
         for t in ${{ inputs.targets }}; do
           flutter build "$t" --release --obfuscate --split-debug-info=build/symbols \
-            --dart-define=GRAMMAR_DB_KEY="$GRAMMAR_DB_KEY" \
             --dart-define=GIT_COMMIT="$(git rev-parse --short HEAD)" --dart-define=GIT_COMMIT_MESSAGE="$(git log -1 --format=%s)"
         done
     - uses: actions/upload-artifact@v7

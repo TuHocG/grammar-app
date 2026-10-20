@@ -78,8 +78,10 @@ class ListeningUnitsPage extends ConsumerWidget {
           Text('Luyện Nghe', style: theme.textTheme.headlineLarge),
           Text('${units.length} bài · nghe câu tiếng Anh, chọn câu dịch đúng', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
           const SizedBox(height: 16),
-          row(thumb: const IconTile(Icons.movie_outlined, size: 56), title: 'Video có phụ đề song ngữ', detail: '210 tập: 3 bộ video bài học và 5 phim', onTap: () => context.push('/video')),
-          const SizedBox(height: 8),
+          if (db.hasVideo) ...[
+            row(thumb: const IconTile(Icons.movie_outlined, size: 56), title: 'Video có phụ đề song ngữ', detail: '210 tập: 3 bộ video bài học và 5 phim', onTap: () => context.push('/video')),
+            const SizedBox(height: 8),
+          ],
           for (final u in units)
             Builder(
               builder: (context) {

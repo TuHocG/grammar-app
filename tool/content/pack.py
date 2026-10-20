@@ -2,16 +2,24 @@
 
     python3 tool/content/pack.py                    # -> content/grammar.db (gitignored)
     python3 tool/content/pack.py --out some/where.db
+    python3 tool/content/pack.py --variant web --out build/content/web/grammar.db
 
 Standalone (Python 3.11+, stdlib only). Schema: grammar4/docs/09. The content version and the
 schema version come from content/content.json and are written into the `meta` table, where the app reads
 them (`content_version`, `schema_version`).
 
-Pictures the lessons cannot work without (the Từ Vựng Tranh pages: hotspots are drawn on them) are
-embedded in the `media` table. Illustrations (readings, dialogs) and recordings stay outside;
-the DB keeps their relative paths (`img/readings/x.webp`, `audio/1.mp3`). In a release the illustrations
-are entries of grammar.images and the recordings files in audio/, both next to grammar.db
-(tool/content/bundle.py); in the repo they are under content/dataset/.
+Two variants, same schema version (the app looks for the optional tables, `meta.variant` says which):
+
+- `full` (default, the offline apps): pictures the lessons cannot work without (the Từ Vựng Tranh pages:
+  hotspots are drawn on them) are embedded in the `media` table, and the video subtitles are in.
+- `web`: no `media` table (the pages are served as files, like the other pictures) and no video
+  subtitles (the web app has no video).
+
+Illustrations (readings, dialogs) and recordings stay outside; the DB keeps their relative paths
+(`img/readings/x.webp`, `audio/1.mp3`). In a release the illustrations are entries of grammar.images and
+the recordings files in audio/, both next to grammar.db (tool/content/bundle.py); in the repo they are
+under content/dataset/. There is no build timestamp: the same content packs to the same bytes with the
+same SQLite version (the library version is in the file header).
 """
 from __future__ import annotations
 
@@ -19,9 +27,10 @@ import argparse
 import json
 import re
 import sqlite3
-import time
 import unicodedata
 from pathlib import Path
+
+VARIANTS = ('full', 'web')
 
 CONTENT = Path(__file__).resolve().parents[2] / 'content'
 
@@ -35,8 +44,6 @@ def search_key(headword: str) -> str:
 SCHEMA = """
 PRAGMA page_size = 4096;
 CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
--- Required pictures, stored in the DB; looked up by the same relative path the content uses.
-CREATE TABLE media (path TEXT PRIMARY KEY, mime TEXT NOT NULL, data BLOB NOT NULL);
 
 CREATE TABLE dict_entry (
   id INTEGER PRIMARY KEY,          -- order in datatu.txt
@@ -48,7 +55,6 @@ CREATE TABLE dict_entry (
   redirect TEXT                    -- headword to show instead ("Xem#x#" entries), else NULL
 );
 CREATE INDEX dict_entry_key ON dict_entry(key);
-CREATE VIRTUAL TABLE dict_fts USING fts5(headword, content='dict_entry', content_rowid='id', tokenize='unicode61');
 
 CREATE TABLE quick_def (key TEXT PRIMARY KEY, word TEXT NOT NULL, ipa TEXT, respell TEXT, pos TEXT, vi TEXT NOT NULL);
 
@@ -60,10 +66,10 @@ CREATE TABLE reading (
   sid INTEGER NOT NULL REFERENCES reading_section(sid),
   position INTEGER NOT NULL,
   title TEXT NOT NULL,
-  img TEXT, audio TEXT, times TEXT, title_audio INTEGER NOT NULL DEFAULT 0, page TEXT,   -- times: JSON [start of each sentence..., end]
-  en TEXT NOT NULL, vi TEXT NOT NULL             -- JSON [[sentence,...],...] (paragraphs)
+  img TEXT, audio TEXT, times TEXT, title_audio INTEGER NOT NULL DEFAULT 0, page TEXT   -- times: JSON [start of each sentence..., end]
 );
 CREATE INDEX reading_sid ON reading(sid, position);
+-- The text of a reading: one row per sentence, in order (paragraph breaks from `para`).
 CREATE TABLE reading_sentence (
   reading_id INTEGER NOT NULL REFERENCES reading(id),
   idx INTEGER NOT NULL,            -- 0-based across the whole reading
@@ -71,7 +77,6 @@ CREATE TABLE reading_sentence (
   en TEXT NOT NULL, vi TEXT,
   PRIMARY KEY (reading_id, idx)
 );
-CREATE VIRTUAL TABLE reading_sentence_fts USING fts5(en, content='reading_sentence', tokenize='unicode61');
 
 CREATE TABLE dialog_topic (sid INTEGER PRIMARY KEY, title TEXT NOT NULL, position INTEGER NOT NULL);
 CREATE TABLE dialog (
@@ -105,9 +110,16 @@ CREATE TABLE wordform_root (position INTEGER PRIMARY KEY, root TEXT NOT NULL, st
 CREATE TABLE listening_item (id INTEGER PRIMARY KEY, unit INTEGER NOT NULL, n INTEGER NOT NULL, en TEXT NOT NULL, correct TEXT NOT NULL, options TEXT NOT NULL);
 CREATE TABLE analysis_lesson (id INTEGER PRIMARY KEY, words TEXT NOT NULL);
 CREATE TABLE picture_topic (id INTEGER PRIMARY KEY, title TEXT NOT NULL, first INTEGER NOT NULL, words TEXT NOT NULL, page TEXT);
+"""
+
+# Optional parts (the `full` variant only; the app checks whether the tables exist).
+SCHEMA_MEDIA = """
+-- Required pictures, stored in the DB; looked up by the same relative path the content uses.
+CREATE TABLE media (path TEXT PRIMARY KEY, mime TEXT NOT NULL, data BLOB NOT NULL);
+"""
+SCHEMA_VIDEO = """
 CREATE TABLE subtitle_film (id INTEGER PRIMARY KEY, code TEXT NOT NULL, grp TEXT NOT NULL, title TEXT NOT NULL, first_line TEXT, video TEXT NOT NULL, duration REAL NOT NULL, lines INTEGER NOT NULL);
 CREATE TABLE subtitle_line (film_id INTEGER NOT NULL REFERENCES subtitle_film(id), idx INTEGER NOT NULL, s REAL NOT NULL, e REAL NOT NULL, en TEXT NOT NULL, vi TEXT, PRIMARY KEY (film_id, idx));
-CREATE TABLE help_topic (id INTEGER PRIMARY KEY, title TEXT NOT NULL, text TEXT NOT NULL);
 """
 
 
@@ -140,12 +152,15 @@ def embed_required_media(cur, dataset: Path) -> tuple[int, int]:
     return n, size
 
 
-def pack(dataset: Path, out: Path, content: dict) -> None:
+def pack(dataset: Path, out: Path, content: dict, variant: str = 'full') -> None:
+    if variant not in VARIANTS:
+        raise ValueError(f'variant must be one of {VARIANTS}')
+    full = variant == 'full'
     if out.exists():
         out.unlink()
     out.parent.mkdir(parents=True, exist_ok=True)
     con = sqlite3.connect(out)
-    con.executescript(SCHEMA)
+    con.executescript(SCHEMA + (SCHEMA_MEDIA + SCHEMA_VIDEO if full else ''))
     cur = con.cursor()
     counts: dict[str, int] = {}
 
@@ -176,10 +191,10 @@ def pack(dataset: Path, out: Path, content: dict) -> None:
             walk(c, sid, depth + 1)
         if 'file' in node:
             for pos, r in enumerate(_load(dataset / 'readings' / node['file'])):
-                cur.execute('INSERT INTO reading VALUES (?,?,?,?,?,?,?,?,?,?,?)',
+                cur.execute('INSERT INTO reading VALUES (?,?,?,?,?,?,?,?,?)',
                             (r['id'], sid, pos, r['title'], r.get('img'), r.get('audio'),
                              _j(r['times']) if 'times' in r else None, int(r.get('titleAudio', False)),
-                             r.get('page'), _j(r['en']), _j(r['vi'])))
+                             r.get('page')))
                 idx = 0
                 vi_flat = [s for p in r['vi'] for s in p]
                 for p, para in enumerate(r['en']):
@@ -245,44 +260,42 @@ def pack(dataset: Path, out: Path, content: dict) -> None:
         cur.execute('INSERT INTO wordform_root VALUES (?,?,?,?,?)', (pos, r['root'], r['start'], r['count'], int(r['root'].lower() in common)))
     counts['wordform_family'] = cur.execute('SELECT count(*) FROM wordform_family').fetchone()[0]
 
-    # ---- listening, analysis, pictures, subtitles, help
+    # ---- listening, analysis, pictures, subtitles
     for it in _load(dataset / 'listening' / 'units.json'):
         cur.execute('INSERT INTO listening_item VALUES (?,?,?,?,?,?)', (it['id'], it['unit'], it['n'], it['en'], it['correct'], _j(it['options'])))
     for a in _load(dataset / 'analysis' / 'lessons.json'):
         cur.execute('INSERT INTO analysis_lesson VALUES (?,?)', (a['id'], _j(a['words'])))
     for t in _load(dataset / 'pictures' / 'topics.json'):
         cur.execute('INSERT INTO picture_topic VALUES (?,?,?,?,?)', (t['id'], t['title'], t['first'], _j(t['words']), t.get('page')))
-    for f in _load(dataset / 'subtitles' / 'films.json'):
-        cur.execute('INSERT INTO subtitle_film VALUES (?,?,?,?,?,?,?,?)',
-                    (f['id'], f['code'], f['group'], f['title'], f.get('first_line'), f['video'], f['duration'], f['lines']))
-        film = _load(dataset / 'subtitles' / f['file'])
-        cur.executemany('INSERT INTO subtitle_line VALUES (?,?,?,?,?,?)',
-                        [(f['id'], i, ln['s'], ln['e'], ln['en'], ln['vi']) for i, ln in enumerate(film['lines'])])
-    for h in _load(dataset / 'help' / 'topics.json'):
-        cur.execute('INSERT INTO help_topic VALUES (?,?,?)', (h['id'], h['title'], h['text']))
-    for tbl in ('listening_item', 'analysis_lesson', 'picture_topic', 'subtitle_film', 'subtitle_line', 'help_topic'):
+    tables = ['listening_item', 'analysis_lesson', 'picture_topic']
+    if full:
+        for f in _load(dataset / 'subtitles' / 'films.json'):
+            cur.execute('INSERT INTO subtitle_film VALUES (?,?,?,?,?,?,?,?)',
+                        (f['id'], f['code'], f['group'], f['title'], f.get('first_line'), f['video'], f['duration'], f['lines']))
+            film = _load(dataset / 'subtitles' / f['file'])
+            cur.executemany('INSERT INTO subtitle_line VALUES (?,?,?,?,?,?)',
+                            [(f['id'], i, ln['s'], ln['e'], ln['en'], ln['vi']) for i, ln in enumerate(film['lines'])])
+        tables += ['subtitle_film', 'subtitle_line']
+    for tbl in tables:
         counts[tbl] = cur.execute(f'SELECT count(*) FROM {tbl}').fetchone()[0]
 
-    n_media, media_bytes = embed_required_media(cur, dataset)
-    counts['media'] = n_media
+    if full:
+        counts['media'], _ = embed_required_media(cur, dataset)
 
-    # ---- full-text indexes and metadata
-    cur.execute("INSERT INTO dict_fts(dict_fts) VALUES ('rebuild')")
-    cur.execute("INSERT INTO reading_sentence_fts(reading_sentence_fts) VALUES ('rebuild')")
+    # ---- metadata
     cur.executemany('INSERT INTO meta VALUES (?,?)', [
         ('format', '1'),
         ('schema_version', str(content['schema'])),
         ('content_version', content['version']),
         ('content_date', content.get('date', '')),
-        ('built', time.strftime('%Y-%m-%dT%H:%M:%S')),
+        ('variant', variant),
         ('counts', _j(counts)),
-        ('media_note', 'img/pages/* embedded in table media; other img/ paths are entries of grammar.images and audio/ paths files in audio/, next to this database (repo: content/dataset/)'),
     ])
     con.commit()
     con.execute('VACUUM')
     con.close()
     size = out.stat().st_size / 1e6
-    print(f"{out}: content {content['version']} (schema {content['schema']}), {size:.1f} MB")
+    print(f"{out}: content {content['version']} (schema {content['schema']}, {variant}), {size:.1f} MB")
     print('  ' + ', '.join(f'{k}={v}' for k, v in counts.items()))
 
 
@@ -290,9 +303,10 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument('--dataset', default=str(CONTENT / 'dataset'))
     ap.add_argument('--out', default=str(CONTENT / 'grammar.db'))
+    ap.add_argument('--variant', choices=VARIANTS, default='full', help='full: offline apps (default); web: no media table, no video subtitles')
     a = ap.parse_args()
     content = json.loads((CONTENT / 'content.json').read_text(encoding='utf-8'))
-    pack(Path(a.dataset), Path(a.out), content)
+    pack(Path(a.dataset), Path(a.out), content, a.variant)
     return 0
 
 

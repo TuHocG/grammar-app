@@ -1,6 +1,6 @@
 /// Nội dung "Hướng Dẫn Cách Học" của Grammar 4.0. Hướng dẫn mô tả giao diện nên đi kèm app,
-/// không nằm trong grammar.db (bảng help_topic trong DB là nguyên văn 30 bài của Grammar 3.1,
-/// giữ lại làm tư liệu, không hiển thị nữa).
+/// không nằm trong grammar.db (30 bài hướng dẫn nguyên văn của Grammar 3.1 nằm ở repo
+/// grammar-legacy, docs/06; không còn trong dữ liệu).
 ///
 /// Cú pháp của [AppHelpTopic.body]: dòng trống tách đoạn; dòng bắt đầu bằng `## ` là tiêu đề
 /// nhỏ; dòng bắt đầu bằng `- ` là gạch đầu dòng; `**đậm**` dùng được trong dòng.
@@ -442,10 +442,3 @@ Chọn grammar.db, thư mục âm thanh thực và thư mục video. Xem **Cài 
 ''',
   ),
 ];
-
-AppHelpTopic? helpTopicBySlug(String slug) {
-  for (final t in helpTopics) {
-    if (t.slug == slug) return t;
-  }
-  return null;
-}

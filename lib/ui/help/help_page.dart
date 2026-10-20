@@ -3,17 +3,29 @@
 library;
 
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../app/providers.dart';
 import '../../app/theme.dart';
 import '../widgets/shell.dart';
 import 'help_content.dart';
+
+/// The topics that apply to the open data: no Video topic when the database has no subtitles.
+List<AppHelpTopic> _topics(BuildContext context) {
+  final hasVideo = ProviderScope.containerOf(context).read(contentDbProvider).hasVideo;
+  return [
+    for (final t in helpTopics)
+      if (hasVideo || t.slug != 'video') t,
+  ];
+}
 
 class HelpListPage extends StatelessWidget {
   const HelpListPage({super.key});
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final topics = _topics(context);
     return Scaffold(
       appBar: GrammarAppBar(crumbs: const [Crumb('Hướng Dẫn Cách Học')]),
       body: RailListView(
@@ -27,8 +39,7 @@ class HelpListPage extends StatelessWidget {
             AutoGrid(
               minWidth: 280,
               children: [
-                for (final t in helpTopics.where((t) => t.section == section))
-                  SetCard(icon: t.icon, title: t.title, subtitle: t.summary, subtitleLines: 2, onTap: () => context.push('/help/${t.slug}')),
+                for (final t in topics.where((t) => t.section == section)) SetCard(icon: t.icon, title: t.title, subtitle: t.summary, subtitleLines: 2, onTap: () => context.push('/help/${t.slug}')),
               ],
             ),
           ],
@@ -43,7 +54,8 @@ class HelpTopicPage extends StatelessWidget {
   const HelpTopicPage({super.key, required this.slug});
   @override
   Widget build(BuildContext context) {
-    final t = helpTopicBySlug(slug);
+    final topics = _topics(context);
+    final t = topics.where((t) => t.slug == slug).firstOrNull;
     if (t == null) {
       return Scaffold(
         appBar: GrammarAppBar(crumbs: const [Crumb('Hướng Dẫn Cách Học', '/help')]),
@@ -52,9 +64,9 @@ class HelpTopicPage extends StatelessWidget {
     }
     final theme = Theme.of(context);
     final narrow = MediaQuery.sizeOf(context).width < 600;
-    final i = helpTopics.indexOf(t);
-    final prev = i > 0 ? helpTopics[i - 1] : null;
-    final next = i < helpTopics.length - 1 ? helpTopics[i + 1] : null;
+    final i = topics.indexOf(t);
+    final prev = i > 0 ? topics[i - 1] : null;
+    final next = i < topics.length - 1 ? topics[i + 1] : null;
     return Scaffold(
       appBar: GrammarAppBar(crumbs: [const Crumb('Hướng Dẫn Cách Học', '/help'), Crumb(t.title)]),
       body: RailListView(

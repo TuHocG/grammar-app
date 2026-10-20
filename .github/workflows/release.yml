@@ -68,31 +68,28 @@ jobs:
       - run: flutter analyze
       - run: flutter test
 
-  # Lesson data for users: grammar.db (+ embedded picture pages) and grammar.images, two files; grammar.db is
-  # encrypted with the same key the apps are built with (tool/encrypt_db.dart, hence Flutter).
+  # Lesson data for users: grammar.db (+ embedded picture pages) and grammar.images, two files to download
+  # by hand, plus grammar.db.gz and bundle.json for the in-app download planned in docs/07 §12 (tool/content/bundle.py).
   data:
     needs: check
     # Runs when check passed or was skipped (skip_check), not when it failed.
     if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'data') }}
     runs-on: ubuntu-22.04
-    # Secrets live in the `Release` environment (Settings → Environments); every job reading them names it.
-    environment: Release
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
-      - uses: subosito/flutter-action@v2
-        with: { flutter-version: '${{ env.FLUTTER_VERSION }}', channel: stable, cache: true }
-      - run: flutter pub get
-      - env:
-          GRAMMAR_DB_KEY: ${{ secrets.GRAMMAR_DB_KEY }}
-        run: python3 tool/content/bundle.py
+      - run: python3 tool/content/bundle.py
       # Packages are uploaded unzipped (archive: false), one file per artifact named after the file,
       # so each downloads on its own without a zip around it.
       - uses: actions/upload-artifact@v7
         with: { path: build/content/grammar.db, archive: false }
       - uses: actions/upload-artifact@v7
+        with: { path: build/content/grammar.db.gz, archive: false }
+      - uses: actions/upload-artifact@v7
         with: { path: build/content/grammar.images, archive: false }
+      - uses: actions/upload-artifact@v7
+        with: { path: build/content/bundle.json, archive: false }
 
   desktop:
     needs: [version, check]
@@ -104,9 +101,6 @@ jobs:
       matrix:
         include: ${{ fromJSON(needs.version.outputs.desktop) }}
     runs-on: ${{ matrix.runner }}
-    environment: Release
-    env:
-      GRAMMAR_DB_KEY: ${{ secrets.GRAMMAR_DB_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/flutter-build
@@ -116,8 +110,10 @@ jobs:
       - name: Package
         id: package
         shell: bash
+        # No version in the file name: https://github.com/<repo>/releases/latest/download/<file> then
+        # always points at the newest release (the app and the home page link there).
         run: |
-          out=Grammar-${{ needs.version.outputs.version }}-${{ matrix.os }}-${{ matrix.arch }}
+          out=Grammar-${{ matrix.os }}-${{ matrix.arch }}
           case ${{ matrix.os }} in
             windows)
               # Ship the MSVC runtime next to grammar.exe so it runs without the VC++ Redistributable.
@@ -137,9 +133,9 @@ jobs:
     # Runs when check passed or was skipped (skip_check), not when it failed.
     if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'android') }}
     runs-on: ubuntu-latest
+    # Secrets live in the `Release` environment (Settings → Environments); every job reading them names it.
     environment: Release
     env:
-      GRAMMAR_DB_KEY: ${{ secrets.GRAMMAR_DB_KEY }}
       ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
       ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
       ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
@@ -161,10 +157,10 @@ jobs:
           targets: apk appbundle
           symbols: symbols-android
       - name: Package
+        # No version in the file name, see the desktop job.
         run: |
-          v=${{ needs.version.outputs.version }}
-          cp build/app/outputs/flutter-apk/app-release.apk "Grammar-$v-android.apk"
-          cp build/app/outputs/bundle/release/app-release.aab "Grammar-$v-android.aab"
+          cp build/app/outputs/flutter-apk/app-release.apk Grammar-android.apk
+          cp build/app/outputs/bundle/release/app-release.aab Grammar-android.aab
       - uses: actions/upload-artifact@v7
         with: { path: 'Grammar-*.apk', archive: false }
       - uses: actions/upload-artifact@v7
@@ -184,7 +180,10 @@ jobs:
         with: { path: dist, pattern: 'Grammar-*', merge-multiple: true, skip-decompress: true }
       - uses: actions/download-artifact@v8
         with: { path: dist, pattern: 'grammar.*', merge-multiple: true, skip-decompress: true }
-      # Draft: edit the notes (docs/08 "cố ý khác" list, data/audio links) before publishing.
+      - uses: actions/download-artifact@v8
+        with: { path: dist, pattern: 'bundle.json', merge-multiple: true, skip-decompress: true }
+      # Draft: edit the notes (docs/08 "cố ý khác" list, data/audio links) before publishing. Only a
+      # published release is `releases/latest`, where the home page and (docs/07 §12) the app will look.
       - uses: softprops/action-gh-release@v2
         with:
           draft: true

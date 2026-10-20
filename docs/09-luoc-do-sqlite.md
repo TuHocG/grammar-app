@@ -1,17 +1,19 @@
 # Lược đồ SQLite cho app (`dist/grammar.db`)
 
-Sinh bằng `python3 tool/content/pack.py` (từ `content/dataset` ra `content/grammar.db`; trước 2026-10-07 là `python -m etl pack-sqlite` của repo `grammar-legacy`) (20 giây, 230 MB). Chỉ chứa **nội dung**; app tự tạo các bảng người dùng (mục 3). Ảnh và âm thanh là file trong `img/`, `audio/` cạnh DB; cột đường dẫn là tương đối. Cột JSON giữ nguyên cấu trúc như trong `dist/dataset` (xem `docs/05` phần B).
+Sinh bằng `python3 tool/content/pack.py` (từ `content/dataset` ra `content/grammar.db`; trước 2026-10-07 là `python -m etl pack-sqlite` của repo `grammar-legacy`) (20 giây, 210 MB bản `full`, 176 MB bản `web`). Chỉ chứa **nội dung**; app tự tạo các bảng người dùng (mục 3). Ảnh và âm thanh là file trong `img/`, `audio/` cạnh DB; cột đường dẫn là tương đối. Cột JSON giữ nguyên cấu trúc như trong `dist/dataset` (xem `docs/05` phần B). Không có mốc giờ dựng: cùng nội dung và cùng phiên bản SQLite dựng ra cùng byte.
+
+**Hai biến thể** (từ 1.2.0, `pack.py --variant`, ghi ở `meta.variant`), cùng lược đồ: `full` (bản cài offline) có hai phần tuỳ chọn là bảng `media` và `subtitle_film`/`subtitle_line`; `web` (bản web) không có cả hai — trang Từ Vựng Tranh là file ảnh như ảnh minh hoạ, và bản web không có video. App kiểm tra bảng có tồn tại hay không (`ContentDb.hasVideo`, `embeddedMedia`) chứ không hỏi nền tảng.
 
 ## 1. Bảng nội dung
 
 | Bảng | Khoá | Cột chính | Ghi chú |
 |---|---|---|---|
-| `meta` | key | value | `content_version`, `content_date`, `schema_version` (từ `content/content.json`), `counts`, `built`, `dialog_images`, `dialog_page_images`, `exercise_group_size`, `media_note` |
-| `dict_entry` | id | headword, key, ipa, segs (JSON), quick (JSON) | 544.266 dòng; `key` = chữ thường bỏ dấu, có index; `dict_fts` (FTS5 trên headword) |
+| `meta` | key | value | `content_version`, `content_date`, `schema_version` (từ `content/content.json`), `variant`, `counts`, `dialog_images`, `dialog_page_images`, `exercise_group_size` |
+| `dict_entry` | id | headword, key, ipa, segs (JSON), quick (JSON), redirect | 544.266 dòng; `key` = chữ thường bỏ dấu, có index |
 | `quick_def` | key | word, ipa, respell, pos, vi | 12.787 nghĩa nhanh, tra theo `key` |
 | `reading_section` | sid | parent_sid, title, depth, position | cây mục lục 139 nút lá + nhóm |
-| `reading` | id | sid, position, title, img, audio, times (JSON), title_audio, page, en (JSON), vi (JSON) | 4.565 bài; `en`/`vi` là mảng đoạn → câu |
-| `reading_sentence` | (reading_id, idx) | para, en, vi | 181.366 câu, `reading_sentence_fts` (FTS5 trên `en`) để tìm câu chứa từ |
+| `reading` | id | sid, position, title, img, audio, times (JSON), title_audio, page | 4.660 bài; thân bài nằm ở `reading_sentence` |
+| `reading_sentence` | (reading_id, idx) | para, en, vi | 199.333 câu theo thứ tự, `para` đánh dấu đoạn |
 | `dialog_topic` | sid | title, position | 19 chủ đề |
 | `dialog` | id | sid, position, title, pairs (JSON) | 2.641 bài, 4 cặp `{a,b,avi,bvi}` |
 | `grammar_lesson` | ref (1-based) | title, chapter, drills, body (Markdown nhẹ) | 356; `ref` là số mà mọi tham chiếu `?n` dùng |
@@ -21,17 +23,16 @@ Sinh bằng `python3 tool/content/pack.py` (từ `content/dataset` ra `content/g
 | `wordform_root` | position | root, start, n, common | 3.901 từ gốc; `start` 1-based trong menu WORD FORMS; `common` = có trong danh sách thông dụng |
 | `listening_item` | id | unit, n, en, correct, options (JSON) | 1.142 |
 | `analysis_lesson` | id | words (JSON) | 12 |
-| `picture_topic` | id | title, first, words (JSON có `xy`, `img`), page | 155; `page` (`img/pages/<n>.webp`) có ảnh nằm trong bảng `media` |
-| `media` | path | mime, data (BLOB) | Ảnh bắt buộc nhúng trong DB, tra theo đúng đường dẫn tương đối nội dung dùng. Hiện là 155 trang Từ Vựng Tranh (28 MB): tiêu điểm vẽ trên các trang này nên không thể thiếu. |
-| `subtitle_film` | id | code, grp, title, first_line, video, duration, lines | 210 |
-| `subtitle_line` | (film_id, idx) | s, e, en, vi | 34.671 |
-| `help_topic` | id | title, text | 30 |
+| `picture_topic` | id | title, first, words (JSON có `xy`, `img`), page | 155; `page` (`img/pages/<n>.webp`) nằm trong bảng `media` (`full`) hoặc là file (`web`) |
+| `media` (chỉ `full`) | path | mime, data (BLOB) | Ảnh bắt buộc nhúng trong DB, tra theo đúng đường dẫn tương đối nội dung dùng. Hiện là 155 trang Từ Vựng Tranh (28 MB): tiêu điểm vẽ trên các trang này nên không thể thiếu. |
+| `subtitle_film` (chỉ `full`) | id | code, grp, title, first_line, video, duration, lines | 210 |
+| `subtitle_line` (chỉ `full`) | (film_id, idx) | s, e, en, vi | 34.671 |
 
-Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ? AND key < ?` 1,7 ms; `dict_fts MATCH` 2,5 ms.
+Đã bỏ (1.2.0, app chưa bao giờ đọc): cột `reading.en`/`vi` (bản sao của `reading_sentence`), chỉ mục FTS5 `dict_fts` và `reading_sentence_fts`, bảng `help_topic` (hướng dẫn của app nằm trong mã, `lib/ui/help/help_content.dart`), khoá `meta.built`, `media_note`. Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ? AND key < ?` 1,7 ms.
 
 **File ngoài DB.** Ảnh minh hoạ (`reading.img`, ảnh luyện nói trong `meta`) và ghi âm (`reading.audio`) không nằm trong DB; DB giữ đường dẫn tương đối `img/...`, `audio/...`. Bản phát hành (`tool/content/bundle.py`) gom ảnh minh hoạ vào `grammar.images` cạnh grammar.db: zip không nén, mỗi ảnh mang đúng đường dẫn `img/...` của nội dung, app đọc thẳng từ zip (`lib/data/image_pack.dart`). Không có file này thì app tìm `<thư mục chứa grammar.db>/img/...`, rồi `<thư mục>/dataset/img/...` (cấu trúc `content/` trong repo). Ghi âm vẫn là file trong `audio/`. Thiếu ảnh minh hoạ thì bài học vẫn dùng được; thiếu ghi âm thì đọc bằng giọng máy.
 
-**Lược đồ.** 1: bản đầu. App đọc được lược đồ ≤ `ContentDb.supportedSchema` (= 1); DB không có bảng `media` vẫn mở được, khi đó ảnh trang tranh lấy từ file.
+**Lược đồ.** 1: bản đầu. App đọc được lược đồ ≤ `ContentDb.supportedSchema` (= 1); DB không có bảng `media` vẫn mở được, khi đó ảnh trang tranh lấy từ file; không có `subtitle_film` thì các lối vào Video ẩn đi. Bỏ bảng/cột app không đọc (1.2.0) không tăng lược đồ: app 1.0.x vẫn mở được DB 1.2.0.
 
 ## 2. Quy ước tra từ
 

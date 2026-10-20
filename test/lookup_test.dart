@@ -101,6 +101,7 @@ void main() {
 
   test('counts match the ETL manifest', () {
     expect(db.counts['dict_entry'], 544266);
-    expect(db.helpTopics().length, 30);
+    expect(db.variant, 'full');
+    expect(db.hasVideo, isTrue);
   }, skip: !has);
 }

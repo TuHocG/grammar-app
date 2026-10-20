@@ -363,13 +363,14 @@ class HomePage extends ConsumerWidget {
             minWidth: 250,
             children: [
               for (final it in _learn)
-                SetCard(
-                  icon: it.icon,
-                  title: it.title,
-                  subtitle: it.title == 'Từ điển' ? '${counts['dict_entry']} mục · phiên âm · họ từ' : it.subtitle,
-                  subtitleLines: 2,
-                  onTap: () => context.push(it.route),
-                ),
+                if (it.route != '/video' || db.hasVideo)
+                  SetCard(
+                    icon: it.icon,
+                    title: it.title,
+                    subtitle: it.title == 'Từ điển' ? '${counts['dict_entry']} mục · phiên âm · họ từ' : it.subtitle,
+                    subtitleLines: 2,
+                    onTap: () => context.push(it.route),
+                  ),
             ],
           ),
           const SizedBox(height: 40),
@@ -534,6 +535,7 @@ _Activity? _latestActivity(WidgetRef ref, bool wide) {
   }
 
   _Activity? video() {
+    if (!db.hasVideo) return null;
     final id = int.tryParse(userDb.progress('video', 'last') ?? '');
     final f = id == null ? null : db.film(id);
     if (f == null) return null;
