@@ -8,4 +8,4 @@ import '../data/media_store.dart';
 CommonDatabase openNativeDatabase(String path, {bool readOnly = false}) => sqlite3.open(path, mode: readOnly ? OpenMode.readOnly : OpenMode.readWriteCreate);
 
 /// The pictures and recordings next to `<dataDir>/grammar.db`.
-MediaStore folderMedia(String dataDir) => FolderMediaStore(dataDir);
+MediaStore folderMedia(String dataDir, {String? sharedMediaDir}) => FolderMediaStore(dataDir, sharedMediaDir: sharedMediaDir);

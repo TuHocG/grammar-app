@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<!-- Sandbox off: the app reads grammar.db, dataset/ and the video folder from paths the user types (docs/07 §11 will switch to app-managed downloads). -->
+	<!-- Sandbox off: the app reads grammar.db, dataset/ and the video folder from paths the user types, besides what it downloads itself (docs/07 §12). -->
 	<key>com.apple.security.app-sandbox</key>
 	<false/>
 	<!-- file_selector_macos refuses to open its dialogs without one of these, sandbox or not. -->

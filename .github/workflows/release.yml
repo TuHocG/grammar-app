@@ -73,7 +73,7 @@ jobs:
       - run: python3 tool/web/build_web.py
 
   # Lesson data for users: grammar.db (+ embedded picture pages) and grammar.images, two files to download
-  # by hand, plus grammar.db.gz and bundle.json for the in-app download planned in docs/07 §12 (tool/content/bundle.py).
+  # by hand, plus grammar.db.gz and bundle.json, which the apps download by themselves (lib/platform/downloader_io.dart).
   data:
     needs: check
     # Runs when check passed or was skipped (skip_check), not when it failed.

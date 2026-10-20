@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
@@ -7,7 +8,8 @@ import 'package:path_provider/path_provider.dart';
 
 import '../data/content_db.dart';
 import '../data/user_db.dart';
-import '../ui/setup/data_dir_page.dart';
+import '../platform/downloader_io.dart';
+import '../ui/setup/setup_page.dart';
 import 'grammar_app.dart';
 import 'restart.dart';
 import 'theme.dart';
@@ -23,6 +25,7 @@ String? _localDataDir() {
 }
 
 late UserDb _userDb;
+late Directory _support;
 
 /// The open lesson database; closed shortly after the bootstrap reopens another one.
 ContentDb? _content;
@@ -30,8 +33,8 @@ ContentDb? _content;
 /// user.db in the app's support folder, then the data folder (setting, define, repo) → grammar.db.
 Future<void> bootstrap() async {
   MediaKit.ensureInitialized();
-  final support = await getApplicationSupportDirectory();
-  _userDb = UserDb.open(p.join(support.path, 'user.db'));
+  _support = await getApplicationSupportDirectory();
+  _userDb = UserDb.open(p.join(_support.path, 'user.db'));
   restartApp = () => _start();
   await _start();
 }
@@ -43,7 +46,7 @@ Future<void> _start({String? error}) async {
       MaterialApp(
         theme: buildTheme(Brightness.light),
         darkTheme: buildTheme(Brightness.dark),
-        home: DataDirPage(
+        home: SetupPage(
           initial: dir ?? _envDataDir,
           error: error,
           onChosen: (d) {
@@ -62,8 +65,10 @@ Future<void> _start({String? error}) async {
     _content = null;
   }
   final ContentDb content;
+  final contentRoot = Directory(p.join(_support.path, 'content'));
   try {
-    content = ContentDb.open(dir);
+    // Data the app downloaded itself: recordings and videos live beside it, not inside the version folder.
+    content = ContentDb.open(dir, sharedMediaDir: ContentDownloader.isManaged(contentRoot, dir) ? _support.path : null);
   } catch (e) {
     await _start(
       error:
@@ -80,4 +85,6 @@ Future<void> _start({String? error}) async {
   }
   _content = content;
   await startApp(content: content, user: _userDb);
+  // What the app downloaded for other versions is not needed once this one is in use.
+  unawaited(ContentDownloader.removeOthers(contentRoot, dir).catchError((_) {}));
 }

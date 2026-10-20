@@ -9,11 +9,15 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path/path.dart' as p;
 
 import '../../app/providers.dart';
+import '../../app/config.dart';
 import '../../app/restart.dart';
 import '../../data/content_db.dart';
 import '../../data/content_db_io.dart';
 import '../../data/image_pack.dart';
 import '../../data/media_locations.dart';
+import '../../data/release_bundle.dart';
+import '../../platform/downloader_io.dart';
+import '../setup/download_dialog.dart';
 import 'data_picker.dart';
 
 class ContentSourcesSection extends ConsumerStatefulWidget {
@@ -125,6 +129,54 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     restartApp?.call();
   }
 
+  bool _checking = false;
+
+  /// Asks the release host for the newest data; downloads it into the app's folder when newer.
+  Future<void> _checkUpdate() async {
+    if (_checking) return;
+    setState(() => _checking = true);
+    final d = await ContentDownloader.forApp(Uri.parse(grammarDataUrl));
+    try {
+      final b = await d.fetchBundle();
+      final current = _data?.version ?? '0';
+      if (compareVersions(b.contentVersion, current) <= 0) {
+        _snack(compareVersions(b.contentVersion, current) == 0 ? 'Dữ liệu $current là bản mới nhất.' : 'Dữ liệu đang dùng ($current) mới hơn bản phát hành (${b.contentVersion}).');
+        return;
+      }
+      if (!mounted) return;
+      final ok = await showDialog<bool>(
+        context: context,
+        builder: (c) => AlertDialog(
+          title: Text('Có dữ liệu ${b.contentVersion}'),
+          content: Text(
+            '${b.date.isNotEmpty ? 'Phát hành ${b.date} · ' : ''}tải ${formatBytes(b.downloadBytes)} vào thư mục của app; app mở lại với dữ liệu mới. Tiến độ học và từ đã lưu giữ nguyên.',
+          ),
+          actions: [
+            TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('Để sau')),
+            FilledButton(onPressed: () => Navigator.pop(c, true), child: const Text('Tải')),
+          ],
+        ),
+      );
+      if (ok != true || !mounted) return;
+      final dir = await runDownload(context, d, b);
+      if (dir == null) return;
+      // The defaults for recordings and videos move with the data folder: keep the folders in
+      // use (if they exist) as explicit settings, so an update does not silence the lessons.
+      final db = ref.read(contentDbProvider);
+      final user = ref.read(userDbProvider);
+      for (final (key, folder) in [(audioDirKey, audioDir(db, user)), (videoDirKey, videoDir(db, user))]) {
+        if ((user.setting(key) ?? '').isEmpty && Directory(folder).existsSync()) user.setSetting(key, folder);
+      }
+      user.setSetting('data_dir', dir);
+      restartApp?.call();
+    } catch (e) {
+      _snack(e is SocketException ? 'Không kết nối được máy chủ (không có mạng?).' : '$e');
+    } finally {
+      d.close();
+      if (mounted) setState(() => _checking = false);
+    }
+  }
+
   // ---- folders --------------------------------------------------------------------------
 
   Future<void> _pickFolder(String key, String title, String? initial) async {
@@ -225,7 +277,10 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
                     style: d.imagePackBroken ? muted?.copyWith(color: theme.colorScheme.error) : muted,
                   ),
                 ],
-          actions: [OutlinedButton.icon(onPressed: _pickDatabase, icon: const Icon(Icons.folder_open_outlined), label: const Text(pickDataLabel))],
+          actions: [
+            OutlinedButton.icon(onPressed: _checking ? null : _checkUpdate, icon: const Icon(Icons.update), label: Text(_checking ? 'Đang hỏi máy chủ…' : 'Kiểm tra cập nhật')),
+            OutlinedButton.icon(onPressed: _pickDatabase, icon: const Icon(Icons.folder_open_outlined), label: const Text(pickDataLabel)),
+          ],
         ),
         const Divider(indent: 16, endIndent: 16),
         card(
@@ -234,7 +289,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
           lines: a == null
               ? [Text('Đang đọc…', style: muted)]
               : [
-                  SelectableText(a.dir + (customAudio ? '' : '  (mặc định: thư mục audio cạnh grammar.db)'), style: muted),
+                  SelectableText(a.dir + (customAudio ? '' : '  (mặc định)'), style: muted),
                   Text(
                     !a.exists
                         ? 'Chưa có thư mục này: các bài sẽ đọc bằng giọng máy.'
@@ -260,7 +315,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
             lines: v == null
                 ? [Text('Đang đọc…', style: muted)]
                 : [
-                    SelectableText(v.dir + (customVideo ? '' : '  (mặc định: thư mục video cạnh grammar.db)'), style: muted),
+                    SelectableText(v.dir + (customVideo ? '' : '  (mặc định)'), style: muted),
                     Text(
                       !v.exists ? 'Chưa có thư mục này: trang Video không phát được (cần A 01.mp4 … hoặc A  1.avi …).' : '${v.found}/${v.expected} tập có file · ${formatBytes(v.bytes)}',
                       style: muted,

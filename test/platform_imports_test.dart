@@ -17,7 +17,8 @@ const nativeOnly = {
   'lib/platform/storage_access.dart',
   'lib/ui/settings/content_sources.dart',
   'lib/ui/settings/data_picker.dart',
-  'lib/ui/setup/data_dir_page.dart',
+  'lib/ui/setup/download_dialog.dart',
+  'lib/ui/setup/setup_page.dart',
   'lib/ui/video/video_pages.dart',
 };
 

@@ -7,6 +7,7 @@ library;
 import 'package:flutter/material.dart';
 
 import '../../data/bytes.dart';
+import '../../data/download_progress.dart';
 import '../../data/manifest.dart';
 import '../../platform/web_download.dart';
 import '../../platform/web_store.dart';

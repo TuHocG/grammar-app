@@ -19,10 +19,16 @@ import 'media_store.dart';
 class FolderMediaStore implements MediaStore {
   /// The folder holding grammar.db.
   final String dataDir;
-  FolderMediaStore(this.dataDir);
+
+  /// For data the app downloaded itself (a version folder that comes and goes): the folder whose
+  /// `audio/` and `video/` are the defaults instead, so recordings outlive a content update.
+  final String? sharedMediaDir;
+  FolderMediaStore(this.dataDir, {this.sharedMediaDir});
 
   /// `<name>/` next to grammar.db (release bundle), or `dataset/<name>/` (repo content/ folder).
   String besideData(String name) {
+    final shared = sharedMediaDir;
+    if (shared != null) return p.join(shared, name);
     final release = p.join(dataDir, name);
     final repo = p.join(dataDir, 'dataset', name);
     if (!Directory(release).existsSync() && Directory(repo).existsSync()) return repo;

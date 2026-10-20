@@ -13,6 +13,7 @@ import 'dart:typed_data';
 
 import 'package:crypto/crypto.dart';
 
+import '../data/download_progress.dart';
 import '../data/manifest.dart';
 import 'web_store.dart';
 
@@ -102,14 +103,6 @@ Future<int> missingPackBytes(HostManifest m, HostLocation host) async {
     if (!await isCached(packsCache, host.url(p.name))) n += p.size;
   }
   return n;
-}
-
-class DownloadProgress {
-  final int done;
-  final int total;
-  final String? item;
-  const DownloadProgress(this.done, this.total, [this.item]);
-  double get fraction => total == 0 ? 1 : done / total;
 }
 
 /// Downloads the packs of [m] that are not cached yet, verifying each against the manifest,

@@ -11,6 +11,7 @@ import 'package:url_launcher/url_launcher.dart';
 import '../../app/providers.dart';
 import '../../app/restart.dart';
 import '../../data/bytes.dart';
+import '../../data/download_progress.dart';
 import '../../data/content_db.dart';
 import '../../data/manifest.dart';
 import '../../platform/web_download.dart';

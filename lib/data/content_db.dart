@@ -27,8 +27,9 @@ class ContentDb {
 
   /// Opens `<dataDir>/grammar.db` with the native SQLite library; the illustrations and
   /// recordings come from the same folder (`folder_media.dart`): `grammar.images`, `audio/`
-  /// (release bundle), or `dataset/img`, `dataset/audio` (the repo's content/ folder).
-  static ContentDb open(String dataDir) {
+  /// (release bundle), or `dataset/img`, `dataset/audio` (the repo's content/ folder). For data
+  /// the app downloaded, [sharedMediaDir] holds `audio/` and `video/` instead.
+  static ContentDb open(String dataDir, {String? sharedMediaDir}) {
     final db = openNativeDatabase(p.join(dataDir, 'grammar.db'), readOnly: true);
     // SQLite reads the file lazily: fail here (not a database, or the encrypted grammar.db of
     // the 1.0.x releases) so callers can show the error instead of crashing on the first query.
@@ -38,7 +39,7 @@ class ContentDb {
       db.close();
       rethrow;
     }
-    return ContentDb.fromDatabase(db, media: folderMedia(dataDir));
+    return ContentDb.fromDatabase(db, media: folderMedia(dataDir, sharedMediaDir: sharedMediaDir));
   }
 
   void close() {

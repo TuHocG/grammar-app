@@ -65,6 +65,10 @@ video/…          video Luyện Nghe A 01.mp4 … (tuỳ chọn)
 
 Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc (không có `grammar.images` thì tìm ảnh trong `img/` hoặc `dataset/img/`). DB không mã hoá (từ 1.2.0; `grammar.db` mã hoá của bản 1.0.x không mở được nữa, tải gói mới).
 
+## Tải dữ liệu trong app (Windows, Android, macOS)
+
+Lần đầu mở, app hỏi máy chủ phát hành (`https://github.com/TuHocG/grammar-app/releases/latest/download/bundle.json`, chỉ release đã publish) và tải `grammar.db.gz` + `grammar.images` vào thư mục riêng của app (`<app support>/content/<phiên bản>/`), kiểm sha256, giải nén, rồi mở; mỗi file tải qua `.part` và tải tiếp bằng Range nếu đứt giữa chừng. Vẫn chọn được thư mục đã tải sẵn như trước. Với dữ liệu app tự tải, âm thanh thực và video mặc định ở `<app support>/audio` và `video` (ngoài thư mục phiên bản, nên không mất khi cập nhật). Cài Đặt → Dữ liệu có **Kiểm tra cập nhật**: bản mới tải vào thư mục phiên bản mới rồi app mở lại; các file app đã tải của phiên bản cũ được dọn ở lần mở sau (file người dùng tự chép vào vẫn còn). Thử với gói dựng trên máy: `python3 -m http.server -d build/content 8000` rồi chạy app với `--dart-define=GRAMMAR_DATA_URL=http://localhost:8000/`.
+
 ## Bản web (PWA)
 
 Bản web (docs/07 §12) là web tĩnh: không máy chủ, bài học tải một lần vào trình duyệt (DB biến thể `web` cắt khối nén, docs/09 §4), ảnh tải dần khi mở, chạy không cần mạng sau đó. Không có video và âm thanh thực (đọc bằng giọng máy của trình duyệt). Thử trên máy:
@@ -95,8 +99,8 @@ lib/
   app/                 bootstrap_{io,web} (khởi động theo nền tảng), grammar_app, providers (Riverpod), router (go_router), theme
   data/                content_db*.dart (grammar.db, chỉ đọc; content_db_io: thư mục dữ liệu), media_store (ảnh/ghi âm ngoài DB), folder_media (thư mục cạnh grammar.db), manifest + block_vfs (DB web: khối nén, VFS chỉ đọc), user_db*.dart, user_readings, models, search_key, backup
   domain/              lookup (tra từ như app gốc), sentence_player (TTS hoặc ghi âm theo mốc câu)
-  platform/            tts.dart (Windows: SAPI qua kênh riêng; nền tảng khác: flutter_tts); các cặp *_io/*_web sau `import … if (dart.library.js_interop)`: native (SQLite, thư mục), env, app_dirs, user_images — cùng kiểu: app/bootstrap, ui/video/video_routes, ui/settings/data_section; web_store (Cache Storage, fetch, storage), web_download (manifest, pack, ảnh) chỉ cho web
-  ui/                  home, dictionary, readings, grammar, exercises, dialogs, listening, video, analysis, pictures, vocab, user_readings, settings, help
+  platform/            tts.dart (Windows: SAPI qua kênh riêng; nền tảng khác: flutter_tts); downloader_io (tải gói dữ liệu từ GitHub Releases); các cặp *_io/*_web sau `import … if (dart.library.js_interop)`: native (SQLite, thư mục), env, app_dirs, user_images — cùng kiểu: app/bootstrap, ui/video/video_routes, ui/settings/data_section; web_store (Cache Storage, fetch, storage), web_download (manifest, pack, ảnh) chỉ cho web
+  ui/                  home, dictionary, readings, grammar, exercises, dialogs, listening, video, analysis, pictures, vocab, user_readings, settings, help, setup (màn hình lần đầu: tải dữ liệu hoặc chọn thư mục)
   ui/widgets/          WordTapText (chạm từ, từ đã lưu đỏ), MarkText (Markdown nhẹ của bài văn phạm), shell
 windows/runner/sapi_tts.cpp   TTS SAPI cho Windows
 web/                          vỏ web: index.html, manifest, icon, flutter_bootstrap.js + sw.js, _headers, sqlite3.wasm (mục "Bản web")

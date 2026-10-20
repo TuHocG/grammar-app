@@ -4,4 +4,4 @@ import '../data/media_store.dart';
 
 CommonDatabase openNativeDatabase(String path, {bool readOnly = false}) => throw UnsupportedError('no file system on the web: $path');
 
-MediaStore folderMedia(String dataDir) => throw UnsupportedError('no file system on the web: $dataDir');
+MediaStore folderMedia(String dataDir, {String? sharedMediaDir}) => throw UnsupportedError('no file system on the web: $dataDir');
