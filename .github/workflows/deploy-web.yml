@@ -1,0 +1,47 @@
+# Production deploy of the web app (docs/07 §12): runs when the owner publishes the draft release
+# that release.yml made for a tag, and deploys the very site that release.yml built and put on the
+# preview URL — nothing is rebuilt. Run by hand with a tag to deploy (or roll back to) that release.
+name: Deploy web
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Tag whose release build to deploy (vX.Y.Z)
+        required: true
+
+permissions:
+  contents: read
+  actions: read
+
+# One production deploy at a time; a later one waits.
+concurrency:
+  group: deploy-web-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: Release
+    steps:
+      - name: Find the release build of this tag
+        id: run
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.tag || github.event.release.tag_name }}
+        # The run the tag push started (its head branch is the tag), not a manual run on the same commit.
+        run: |
+          id=$(gh run list -R "$GITHUB_REPOSITORY" --workflow release.yml --event push --branch "$TAG" --status success --json databaseId --jq '.[0].databaseId')
+          if [ -z "$id" ] || [ "$id" = null ]; then echo "::error::No successful Release run for the push of $TAG"; exit 1; fi
+          echo "id=$id" >> "$GITHUB_OUTPUT"
+      - name: Download the site built for it
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh run download -R "$GITHUB_REPOSITORY" ${{ steps.run.outputs.id }} -n site -D build/site
+      - name: Deploy to production
+        run: npx --yes wrangler@3 pages deploy build/site --project-name grammar4 --branch main --commit-dirty=true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

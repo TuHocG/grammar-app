@@ -106,6 +106,7 @@ windows/runner/sapi_tts.cpp   TTS SAPI cho Windows
 web/                          vỏ web: index.html, manifest, icon, flutter_bootstrap.js + sw.js, _headers, sqlite3.wasm (mục "Bản web")
 tool/web/build_web.py         flutter build web + shell.json (danh sách file vỏ cho sw.js)
 tool/web/serve.py             phục vụ build/web + build/host trên một origin để thử bản web
+tool/web/build_site.py        ghép build/web + build/host thành build/site (+ site-preview noindex) cho Cloudflare Pages
 content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); content.json phiên bản; ids.json ID ổn định; CHANGELOG.md
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung
@@ -126,7 +127,7 @@ DESIGN.md                     tham chiếu phong cách giao diện
 
 ## Phát hành
 
-Bản phát hành gồm Windows, Android, macOS; chưa làm Linux, web và iOS. GitHub Actions (`.github/workflows/release.yml`) chạy khi đẩy tag `vX.Y.Z`. Workflow kiểm tra tag khớp `version:` trong `pubspec.yaml`, chạy check/analyze/test, build có `--obfuscate`, rồi tạo **bản nháp** GitHub Release kèm `Grammar-windows-x64.zip`, `Grammar-android.apk`/`.aab`, `Grammar-macos-universal.zip` (tên không mang số phiên bản để link `releases/latest/download/<file>` luôn trỏ bản mới nhất; chỉ release đã publish mới là "latest"). Symbol để giải mã stack trace nằm trong artifact `symbols-*` của lần chạy (giữ 90 ngày). Muốn build mà không tạo release thì chạy tay: Actions → Release → Run workflow, chọn nhánh, chọn `platform` (`all` hoặc một nền tảng, `data` để chỉ đóng gói dữ liệu), tuỳ chọn `skip_check` để bỏ job `check` (kiểm tra nội dung, analyze/test) khi chỉ cần build thử. Gói dữ liệu do job `data` đóng, chạy sau `check`. Mỗi file build (zip, apk, aab, gói dữ liệu) là một artifact riêng, không bọc thêm zip, ở mục Artifacts của lần chạy.
+Bản phát hành gồm Windows, Android, macOS và web; chưa làm Linux và iOS. GitHub Actions (`.github/workflows/release.yml`) chạy khi đẩy tag `vX.Y.Z`. Workflow kiểm tra tag khớp `version:` trong `pubspec.yaml`, chạy check/analyze/test, build có `--obfuscate`, rồi tạo **bản nháp** GitHub Release kèm `Grammar-windows-x64.zip`, `Grammar-android.apk`/`.aab`, `Grammar-macos-universal.zip` (tên không mang số phiên bản để link `releases/latest/download/<file>` luôn trỏ bản mới nhất; chỉ release đã publish mới là "latest"). Job `web` dựng bản web (`tool/web/build_web.py` + `tool/content/bundle.py --host` + `tool/web/build_site.py`), giữ artifact `site` 90 ngày và đưa bản có đánh dấu noindex lên **preview** (`https://preview.grammar4.pages.dev`, link ghi sẵn trong bản nháp release). Khi chủ dự án **publish** release, workflow `deploy-web.yml` lấy đúng artifact `site` của lần chạy đó đưa lên production (`https://grammar4.pages.dev`), không build lại; chạy tay workflow này với một tag để đưa lại bản đó (bản đó chỉ giữ dữ liệu từng chạy *trước nó*, nên quay về quá xa có thể làm client đang dùng manifest mới hơn phải tải lại). Workflow này chạy từ commit của tag, nên phải có trong commit được tag. Symbol để giải mã stack trace nằm trong artifact `symbols-*` của lần chạy (giữ 90 ngày). Muốn build mà không tạo release thì chạy tay: Actions → Release → Run workflow, chọn nhánh, chọn `platform` (`all` hoặc một nền tảng, `data` để chỉ đóng gói dữ liệu), tuỳ chọn `skip_check` để bỏ job `check` (kiểm tra nội dung, analyze/test) khi chỉ cần build thử. Gói dữ liệu do job `data` đóng, chạy sau `check`. Mỗi file build (zip, apk, aab, gói dữ liệu) là một artifact riêng, không bọc thêm zip, ở mục Artifacts của lần chạy.
 
 Thiết lập một lần, trong GitHub → Settings → Environments → **`Release`** → Environment secrets. Các job của workflow khai báo `environment: Release` nên mới đọc được các secret này. Nếu environment có giới hạn nhánh/tag (Deployment branches and tags), phải cho phép `main` và tag `v*`; nếu bật Required reviewers thì mỗi lần chạy phải duyệt.
 
@@ -134,6 +135,9 @@ Thiết lập một lần, trong GitHub → Settings → Environments → **`Rel
 |---|---|
 | `ANDROID_KEYSTORE_BASE64` | keystore ký Android dạng base64 (`base64 -w0 release.jks`) |
 | `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD` | mật khẩu và alias của keystore |
+| `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` | token API (quyền Cloudflare Pages: Edit) và account ID; thiếu thì job web chỉ tạo artifact, không deploy |
+
+Cloudflare Pages: tạo project **grammar4** kiểu Direct Upload (`npx wrangler pages project create grammar4 --production-branch main`); nhánh `main` là production, nhánh `preview` là bản thử; `web/_headers` đặt cache (manifest no-cache, pack immutable). Dữ liệu bản web nằm cùng site (`/data`, `/img`), build_site giữ thêm phiên bản dữ liệu đang chạy trên production để app đã nạp manifest cũ vẫn tải được pack.
 
 Tạo keystore: `keytool -genkey -v -keystore release.jks -keyalg RSA -keysize 2048 -validity 10000 -alias grammar`. Cất keystore ở chỗ an toàn ngoài repo: mất nó thì không phát hành được bản cập nhật cho người đã cài. Muốn build có ký trên máy, tạo `android/key.properties` (đã gitignore) với `storeFile=`, `storePassword=`, `keyAlias=`, `keyPassword=`. Không có file này thì bản release ký bằng khoá debug.
 
@@ -142,7 +146,7 @@ Các bước phát hành:
 1. Tăng `version:` trong `pubspec.yaml` (ví dụ `0.2.0+2`; số sau `+` là versionCode Android và phải tăng mỗi lần).
 2. Commit, rồi `git tag v0.2.0 && git push origin v0.2.0`.
 3. Dữ liệu bài học: workflow tự chạy `tool/content/bundle.py` và đính `grammar.db` (ảnh trang tranh nằm trong DB), `grammar.images` (ảnh minh hoạ), `grammar.db.gz` và `bundle.json` (cho việc app tự tải dữ liệu, docs/07 §12) vào bản nháp. Bộ cài không chứa dữ liệu: người dùng tải `grammar.db` và `grammar.images` vào một thư mục rồi chọn thư mục đó trong Cài Đặt → Dữ liệu. Muốn tự đóng gói trên máy: `python3 tool/content/bundle.py`. Audio và video không đóng gói: đưa thư mục lên Google Drive; người dùng đặt `audio/`, `video/` cạnh grammar.db (app tự tìm) hoặc chọn thư mục khác trong Cài Đặt.
-4. Mở bản nháp release, ghi chú gồm: link Drive tới audio và video; danh sách "cố ý khác" ở cuối docs/08; cách mở lần đầu (dưới đây). Sau đó Publish.
+4. Thử bản web ở link preview trong bản nháp; mở bản nháp release, ghi chú gồm: link Drive tới audio và video; danh sách "cố ý khác" ở cuối docs/08; cách mở lần đầu (dưới đây). Sau đó Publish: bản cài và dữ liệu thành `releases/latest` (app tự tải từ đó), bản web lên production.
 
 Mở lần đầu: **Windows** giải nén rồi chạy `grammar.exe`; SmartScreen cảnh báo vì exe chưa ký, chọn More info → Run anyway. **macOS**: app chưa notarize, nên nhấp phải → Open, hoặc chạy `xattr -cr "Grammar 4.0.app"`. **Android**: cho phép cài từ nguồn không rõ.
 

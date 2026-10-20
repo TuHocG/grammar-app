@@ -1,7 +1,8 @@
-# Release build: push a tag vX.Y.Z (matching `version:` in pubspec.yaml) to build Windows, Android
-# and macOS and attach them to a draft GitHub Release. Run manually (Actions → Release →
-# Run workflow) to build without publishing, optionally one platform only or without the check job.
-# Secrets: see README "Phát hành".
+# Release build: push a tag vX.Y.Z (matching `version:` in pubspec.yaml) to build Windows, Android,
+# macOS and the web, attach the installers and the data to a draft GitHub Release, and put the web
+# site on the preview URL (production follows when the release is published: deploy-web.yml). Run
+# manually (Actions → Release → Run workflow) to build without a release, optionally one platform
+# only or without the check job. Secrets: see README "Phát hành".
 name: Release
 
 on:
@@ -12,7 +13,7 @@ on:
       platform:
         description: Build only this platform (data = the lesson data bundle only)
         type: choice
-        options: [all, windows, android, macos, data]
+        options: [all, windows, android, macos, data, web]
         default: all
       skip_check:
         description: Skip the check job (content check, flutter analyze / test)
@@ -77,15 +78,17 @@ jobs:
   data:
     needs: check
     # Runs when check passed or was skipped (skip_check), not when it failed.
-    if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'data') }}
+    if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'data' || inputs.platform == 'web') }}
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
-      - run: python3 tool/content/bundle.py
+      - run: python3 tool/content/bundle.py --host
       # Packages are uploaded unzipped (archive: false), one file per artifact named after the file,
-      # so each downloads on its own without a zip around it.
+      # so each downloads on its own without a zip around it. build/host (the web data) is one artifact.
+      - uses: actions/upload-artifact@v7
+        with: { name: host, path: build/host }
       - uses: actions/upload-artifact@v7
         with: { path: build/content/grammar.db, archive: false }
       - uses: actions/upload-artifact@v7
@@ -170,9 +173,40 @@ jobs:
       - uses: actions/upload-artifact@v7
         with: { path: 'Grammar-*.aab', archive: false }
 
+  # The web app (docs/07 §12): built once, kept as the `site` artifact, shown on the preview URL
+  # (marked noindex). deploy-web.yml puts the same artifact on production when the release is published.
+  web:
+    needs: [version, check, data]
+    if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'web') }}
+    runs-on: ubuntu-22.04
+    environment: Release
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - uses: subosito/flutter-action@v2
+        with: { flutter-version: '${{ env.FLUTTER_VERSION }}', channel: stable, cache: true }
+      - run: flutter pub get
+      - run: python3 tool/web/build_web.py --dart-define=GIT_COMMIT="$(git rev-parse --short HEAD)" --dart-define=GIT_COMMIT_MESSAGE="$(git log -1 --format=%s)"
+      - uses: actions/download-artifact@v8
+        with: { name: host, path: build/host }
+      - run: python3 tool/web/build_site.py --live https://grammar4.pages.dev
+      - uses: actions/upload-artifact@v7
+        with: { name: site, path: build/site, retention-days: 90 }
+      - name: Deploy the preview
+        # Skipped until the Cloudflare secrets exist (README "Phát hành"); the site artifact is made anyway.
+        # A tag goes to the `preview` alias the draft release links to; a manual run gets an alias
+        # named after its branch (prefixed: `main` is the production branch of the Pages project),
+        # so it never overwrites what the owner is testing for a release, nor production.
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        run: npx --yes wrangler@3 pages deploy build/site-preview --project-name grammar4 --branch "${{ github.ref_type == 'tag' && 'preview' || format('manual-{0}', github.ref_name) }}" --commit-dirty=true
+
   release:
     if: github.ref_type == 'tag'
-    needs: [version, check, data, desktop, android]
+    needs: [version, check, data, desktop, android, web]
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -192,4 +226,6 @@ jobs:
         with:
           draft: true
           generate_release_notes: true
+          body: |
+            Bản web để thử trước khi publish: https://preview.grammar4.pages.dev (nếu đã có secret Cloudflare; publish release này thì bản web lên https://grammar4.pages.dev).
           files: dist/*
