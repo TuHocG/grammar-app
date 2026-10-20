@@ -159,4 +159,6 @@ Mở lần đầu: **Windows** giải nén rồi chạy `grammar.exe`; SmartScre
 
 ## Bản quyền
 
-Mã nguồn: giấy phép sẽ ghi trong `LICENSE`. Nội dung học trong `content/` cùng âm thanh và video thuộc tác giả Grammar 3.1 và các bên liên quan, được phân phối miễn phí cho việc học theo uỷ thác của tác giả; không được bán hay đóng gói lại để thu lợi.
+Mã nguồn: **GNU AGPL v3 hoặc mới hơn** (`LICENSE`). Ai dùng, sửa hay phân phối mã này — kể cả chỉ chạy nó trên máy chủ cho người khác dùng qua mạng — đều phải công bố mã nguồn của bản đó dưới cùng giấy phép và không được thêm hạn chế; đó là cách giữ phần mềm nguồn mở và miễn phí như nguyện vọng của tác giả Grammar 3.1.
+
+Nội dung học trong `content/` cùng âm thanh và video **không** thuộc giấy phép trên: chúng thuộc tác giả Grammar 3.1 và các bên liên quan, được phân phối miễn phí cho việc học theo uỷ thác của tác giả; không được bán hay đóng gói lại để thu lợi. Ảnh minh hoạ thêm sau có nguồn và giấy phép riêng trong `content/IMAGE_CREDITS.md`; font trong `assets/fonts/` theo giấy phép OFL.
