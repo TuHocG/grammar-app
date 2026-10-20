@@ -4,12 +4,15 @@ library;
 
 import 'dart:math';
 
+import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../app/config.dart';
 import '../../app/providers.dart';
+import '../../app/updates.dart';
 import '../../platform/user_images.dart';
 import '../../app/theme.dart';
 import '../../data/content_db.dart';
@@ -426,6 +429,31 @@ class HomePage extends ConsumerWidget {
                 ),
             ],
           ),
+          if (kIsWeb) ...[
+            ValueListenableBuilder<String?>(
+              valueListenable: availableContentUpdate,
+              builder: (context, v, _) => v == null
+                  ? const SizedBox.shrink()
+                  : Padding(
+                      padding: const EdgeInsets.only(top: 16),
+                      child: SetCard(
+                        icon: Icons.update,
+                        title: 'Có bài học mới ($v)',
+                        subtitle: 'Mở Cài Đặt → Dữ liệu để tải; tiến độ học giữ nguyên',
+                        subtitleLines: 2,
+                        onTap: () => context.push('/settings'),
+                      ),
+                    ),
+            ),
+            const SizedBox(height: 16),
+            SetCard(
+              icon: Icons.computer_outlined,
+              title: 'Bản đầy đủ cho máy tính và Android',
+              subtitle: 'Có âm thanh thực và video, chạy không cần trình duyệt · tuhocg.github.io',
+              subtitleLines: 2,
+              onTap: () => launchUrl(Uri.parse('https://tuhocg.github.io/grammar-4.html'), mode: LaunchMode.externalApplication),
+            ),
+          ],
           const SizedBox(height: 24),
           Center(
             child: Text(

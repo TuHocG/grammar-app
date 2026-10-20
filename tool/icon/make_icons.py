@@ -7,8 +7,9 @@ with Real-ESRGAN x4plus. The icon puts it back on a red tile like the original.
     python3 tool/icon/make_icons.py      (needs Pillow)
 
 Writes assets/brand/g_tile.png (in-app mark) and the app icons of
-Android, iOS, macOS, Windows and Linux.
+Android, iOS, macOS, Windows, Linux and the web (`--only web` for those alone).
 """
+import argparse
 from pathlib import Path
 
 from PIL import Image, ImageChops, ImageDraw, ImageFilter
@@ -81,9 +82,27 @@ def save(img: Image.Image, rel: str, size: int | None = None, opaque: bool = Fal
     img.save(path, optimize=True)
 
 
+def web_icons(master: Image.Image, rounded_master: Image.Image) -> None:
+    """PWA icons (web/manifest.json), the iOS home-screen icon and the favicon."""
+    for px in (192, 512):
+        save(rounded_master, f'web/icons/Icon-{px}.png', px)
+        # Maskable: the platform crops its own shape out of the full tile; the G sits in the safe zone.
+        maskable = background(1024)
+        maskable.alpha_composite(place_g(1024, 0.50))
+        save(maskable, f'web/icons/Icon-maskable-{px}.png', px, opaque=True)
+    save(master, 'web/icons/apple-touch-icon.png', 180, opaque=True)  # iOS masks the corners itself
+    save(rounded_master, 'web/favicon.png', 64)
+
+
 def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument('--only', choices=['all', 'web'], default='all')
+    a = ap.parse_args()
     master = tile()
     rounded_master = rounded(master, 1024 * 0.2)
+    web_icons(master, rounded_master)
+    if a.only == 'web':
+        return
 
     # In-app mark (top bar); Flutter clips the corners.
     save(master, 'assets/brand/g_tile.png', 192, opaque=True)

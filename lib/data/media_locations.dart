@@ -14,6 +14,7 @@ import 'media_store.dart';
 import 'models.dart';
 import 'user_db.dart';
 
+export 'bytes.dart';
 export 'media_store.dart' show audioDirKey, videoDirKey;
 
 /// `audio/` next to grammar.db (release bundle), or `dataset/audio/` (repo content/ folder).
@@ -58,13 +59,6 @@ File? findVideoFile(String dir, SubtitleFilm f, [List<FileSystemEntity>? listing
 }
 
 // ---- summaries ------------------------------------------------------------------------
-
-String formatBytes(int b) {
-  if (b >= 1 << 30) return '${(b / (1 << 30)).toStringAsFixed(1)} GB';
-  if (b >= 1 << 20) return '${(b / (1 << 20)).toStringAsFixed(0)} MB';
-  if (b >= 1 << 10) return '${(b / (1 << 10)).toStringAsFixed(0)} KB';
-  return '$b B';
-}
 
 class DataSummary {
   final String dbPath;

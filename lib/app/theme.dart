@@ -30,6 +30,9 @@ abstract final class Tokens {
   static const uiFont = 'Nunito Sans';
   static const readingFont = 'Literata';
 
+  /// Glyphs the two families lack (IPA letters, arrows and marks); see pubspec.yaml.
+  static const fallbackFonts = ['Noto Sans IPA', 'Noto Sans Symbols'];
+
   static const radiusInput = 4.0;
   static const radiusCard = 8.0;
   static const radiusFeature = 24.0;
@@ -136,12 +139,14 @@ extension GrammarContext on BuildContext {
 
 /// Literata styles for English content; sizes follow the design (19 for passages).
 abstract final class ReadingStyles {
-  static TextStyle passage(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 19, height: 1.75, color: context.g.ink);
-  static TextStyle title(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 28, height: 1.3, fontWeight: FontWeight.w600, color: context.g.ink);
-  static TextStyle headword(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 36, height: 1.2, fontWeight: FontWeight.w600, color: context.g.ink);
-  static TextStyle prompt(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 22, height: 1.5, color: context.g.ink);
-  static TextStyle line(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 17, height: 1.5, color: context.g.ink);
-  static TextStyle example(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontSize: 16, height: 1.5, color: context.g.indigo);
+  static TextStyle passage(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: 19, height: 1.75, color: context.g.ink);
+  static TextStyle title(BuildContext context) =>
+      TextStyle(fontFamily: Tokens.readingFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: 28, height: 1.3, fontWeight: FontWeight.w600, color: context.g.ink);
+  static TextStyle headword(BuildContext context) =>
+      TextStyle(fontFamily: Tokens.readingFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: 36, height: 1.2, fontWeight: FontWeight.w600, color: context.g.ink);
+  static TextStyle prompt(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: 22, height: 1.5, color: context.g.ink);
+  static TextStyle line(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: 17, height: 1.5, color: context.g.ink);
+  static TextStyle example(BuildContext context) => TextStyle(fontFamily: Tokens.readingFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: 16, height: 1.5, color: context.g.indigo);
 }
 
 ThemeData buildTheme(Brightness brightness) {
@@ -189,6 +194,7 @@ ThemeData buildTheme(Brightness brightness) {
 
   TextStyle ui(double size, {FontWeight weight = FontWeight.w400, double? height, Color? color}) => TextStyle(
     fontFamily: Tokens.uiFont,
+    fontFamilyFallback: Tokens.fallbackFonts,
     fontSize: size,
     fontWeight: weight,
     height:
@@ -226,7 +232,7 @@ ThemeData buildTheme(Brightness brightness) {
     side: BorderSide(color: c.border),
   );
 
-  final base = ThemeData(colorScheme: scheme, useMaterial3: true, fontFamily: Tokens.uiFont, textTheme: text);
+  final base = ThemeData(colorScheme: scheme, useMaterial3: true, fontFamily: Tokens.uiFont, fontFamilyFallback: Tokens.fallbackFonts, textTheme: text);
   return base.copyWith(
     scaffoldBackgroundColor: c.canvas,
     canvasColor: c.card,

@@ -338,7 +338,7 @@ class _DialogPageState extends ConsumerState<DialogPage> {
     // What the bookmarks are for (docs/08 S3–S4), right under the Ôn tập button.
     final reviewNote = Text(
       nTopicPicks == 0
-          ? 'Bấm 🔖 bên phải một cặp câu để chọn nó. Ôn tập: máy đọc câu A, bạn đáp câu B — từ 4 cặp đã chọn trở lên chỉ ôn các cặp đó, chưa đủ thì ôn cả chủ đề.'
+          ? 'Bấm nút đánh dấu bên phải một cặp câu để chọn nó. Ôn tập: máy đọc câu A, bạn đáp câu B — từ 4 cặp đã chọn trở lên chỉ ôn các cặp đó, chưa đủ thì ôn cả chủ đề.'
           : nTopicPicks < 4
           ? 'Đã chọn $nTopicPicks cặp trong chủ đề này; chọn đủ 4 cặp thì Ôn tập chỉ luyện các cặp đã chọn (máy đọc A, bạn đáp B).'
           : 'Đã chọn $nTopicPicks cặp trong chủ đề này: Ôn tập luyện các cặp đó (máy đọc A, bạn đáp B).',

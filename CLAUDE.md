@@ -8,5 +8,6 @@
 - Định dạng bằng `dart format lib test tool` (khổ dòng 200, cấu hình trong `analysis_options.yaml`); không đổi khổ dòng hay định dạng tay kiểu khác.
 - Chạy `flutter analyze` và `flutter test` trước khi kết thúc; test dùng `content/grammar.db` (hoặc `GRAMMAR_DATA_DIR`).
 - Mã dùng chung cho web: `dart:io`, `dart:ffi`, `path_provider`, `package:sqlite3/sqlite3.dart`, `media_kit`, `permission_handler` chỉ trong file `*_io.dart` hoặc danh sách `nativeOnly` của `test/platform_imports_test.dart`; phần riêng nền tảng đi qua cặp `x_io.dart`/`x_web.dart` sau `import 'x_io.dart' if (dart.library.js_interop) 'x_web.dart'` (xem `lib/platform/`).
+- Bản web (docs/07 §12): `python3 tool/web/build_web.py` (flutter build web + `shell.json` + số build cho `sw.js`), dữ liệu `python3 tool/content/bundle.py --host`, thử bằng `python3 tool/web/serve.py`. Font: chữ không có trong Nunito/Literata lấy từ hai font dự phòng trong `assets/fonts` (tránh Flutter tải Noto từ Google); đừng dùng emoji trong chuỗi giao diện.
 - Windows: TTS là kênh SAPI riêng (`windows/runner/sapi_tts.cpp`), không dùng `flutter_tts` ở đó. Video dùng `media_kit`.
 - Chỉ commit khi được yêu cầu. Commit với `-c user.name="Hieu Nguyen" -c user.email="hieu@newlogic.com"`.

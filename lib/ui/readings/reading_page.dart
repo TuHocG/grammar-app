@@ -508,7 +508,7 @@ class _SentenceNumber extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 3),
                 child: Text(
                   '$number',
-                  style: TextStyle(fontFamily: Tokens.uiFont, fontSize: 11, height: 1, fontWeight: FontWeight.w600, color: highlighted ? g.iris : g.fog),
+                  style: TextStyle(fontFamily: Tokens.uiFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: 11, height: 1, fontWeight: FontWeight.w600, color: highlighted ? g.iris : g.fog),
                 ),
               ),
             ),

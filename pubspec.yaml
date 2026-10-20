@@ -26,8 +26,10 @@ dependencies:
   # permissions elsewhere.
   permission_handler_android: ^14.1.0
   permission_handler_platform_interface: ^4.4.1
-  sqlite3: ^3.7.0
+  # Pinned: web/sqlite3.wasm is the build of this exact version (README "Bản web").
+  sqlite3: 3.7.1
   url_launcher: ^6.3.3
+  web: ^1.1.1
 
 dev_dependencies:
   flutter_test:
@@ -53,3 +55,13 @@ flutter:
           weight: 400
         - asset: assets/fonts/Literata-SemiBold.ttf
           weight: 600
+    # Glyphs the two families lack, as the fallback of every text style so they look the same
+    # everywhere, offline included (Flutter would otherwise fetch Noto from Google at run time):
+    # IPA letters (ʃ ʒ ɪ ɔ ː …) and extended Latin from Noto Sans, arrows and marks (→ ✓ ≈) from
+    # Noto Sans Symbols; both OFL, cut down to those ranges (README "Bản web").
+    - family: Noto Sans IPA
+      fonts:
+        - asset: assets/fonts/NotoSansIPA-Regular.ttf
+    - family: Noto Sans Symbols
+      fonts:
+        - asset: assets/fonts/NotoSansSymbols-Regular.ttf

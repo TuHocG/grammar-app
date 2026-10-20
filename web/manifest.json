@@ -1,12 +1,12 @@
 {
-    "name": "grammar",
-    "short_name": "grammar",
+    "name": "Grammar 4.0",
+    "short_name": "Grammar",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#f6f7fb",
+    "theme_color": "#b2161c",
+    "description": "Học tiếng Anh: từ điển, bài đọc song ngữ, văn phạm, bài tập, luyện nói, luyện nghe.",
+    "lang": "vi",
     "prefer_related_applications": false,
     "icons": [
         {

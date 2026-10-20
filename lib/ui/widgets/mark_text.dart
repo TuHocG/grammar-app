@@ -138,7 +138,7 @@ class _MarkTextState extends ConsumerState<MarkText> {
             ),
           );
         } else {
-          spans.addAll(_words(code, style.copyWith(fontFamily: Tokens.readingFont, color: context.g.indigo, fontWeight: FontWeight.w600), saved));
+          spans.addAll(_words(code, style.copyWith(fontFamily: Tokens.readingFont, fontFamilyFallback: Tokens.fallbackFonts, color: context.g.indigo, fontWeight: FontWeight.w600), saved));
         }
       }
       last = m.end;

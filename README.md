@@ -65,6 +65,28 @@ video/…          video Luyện Nghe A 01.mp4 … (tuỳ chọn)
 
 Cấu trúc `content/dataset/` chỉ là nguồn trong repo; app đọc được cả hai cấu trúc (không có `grammar.images` thì tìm ảnh trong `img/` hoặc `dataset/img/`). DB không mã hoá (từ 1.2.0; `grammar.db` mã hoá của bản 1.0.x không mở được nữa, tải gói mới).
 
+## Bản web (PWA)
+
+Bản web (docs/07 §12) là web tĩnh: không máy chủ, bài học tải một lần vào trình duyệt (DB biến thể `web` cắt khối nén, docs/09 §4), ảnh tải dần khi mở, chạy không cần mạng sau đó. Không có video và âm thanh thực (đọc bằng giọng máy của trình duyệt). Thử trên máy:
+
+```sh
+python3 tool/web/build_web.py                         # flutter build web (CanvasKit cục bộ) + build/web/shell.json cho service worker
+python3 tool/content/bundle.py --host                 # build/host: dữ liệu cho máy chủ web
+python3 tool/web/serve.py                             # http://localhost:8080 phục vụ cả hai thư mục cùng một origin
+```
+
+Khi sửa mã, không cần build lại mỗi lần: giữ `serve.py` chạy (nó phục vụ dữ liệu trong `build/host`), rồi chạy app từ Flutter với hot restart và chỉ cho app biết dữ liệu nằm ở đâu:
+
+```sh
+flutter run -d chrome --dart-define=GRAMMAR_HOST_URL=http://localhost:8080/
+```
+
+(Ở chế độ này service worker không cài được vì thiếu `shell.json` — chỉ có lỗi trong console, app vẫn chạy; muốn thử offline/PWA thì dùng bản build qua `serve.py`.)
+
+`web/` chứa vỏ: `index.html`, `manifest.json`, `404.html` (để máy chủ trả 404 thật cho đường dẫn thiếu), icon (`tool/icon/make_icons.py --only web`), `flutter_bootstrap.js` (đăng ký `sw.js`: giữ các file trong `shell.json` để mở offline, luôn lấy mới trang và bootstrap để nhận bản build mới), `_headers` cho Cloudflare Pages, và `sqlite3.wasm` — bản WASM của SQLite lấy từ release `sqlite3-3.7.1` của `simolus3/sqlite3.dart` (sha256 `87c1869b533ea4b6daa1f4dc6aa7e9cf3dae6e6ea53f8ed57080c08eb5f64303`); `package:sqlite3` ghim đúng phiên bản đó trong `pubspec.yaml`, nâng cấp thì thay cả hai. Phiên âm IPA và các dấu → ✓ ≈ dùng font dự phòng `assets/fonts/NotoSansIPA-Regular.ttf` (Noto Sans) và `NotoSansSymbols-Regular.ttf` (Noto Sans Symbols), cả hai giấy phép OFL và cắt còn các dải cần (Latin mở rộng, IPA, mũi tên, ký hiệu) bằng fontTools, vì Literata và Nunito Sans thiếu các ký tự đó và Flutter web sẽ tải Noto từ Google khi thiếu (với ký tự hiếm ngoài các dải này vẫn vậy khi có mạng; không dùng emoji trong chuỗi giao diện).
+
+Dữ liệu trong trình duyệt: bài học (pack) và ảnh trong Cache Storage, user.db trong IndexedDB; bản "đã cài" chỉ đổi sau khi mọi pack của bản mới tải xong, nên mất mạng giữa chừng không làm mất bản đang dùng. Một thẻ trình duyệt giữ khoá (Web Locks), thẻ thứ hai được báo. Trên iPhone/iPad, thêm app vào Màn hình chính trước khi tải dữ liệu (Safari giữ kho riêng cho mỗi cách mở và có thể xoá dữ liệu của tab sau một tuần); trình duyệt trong Zalo/Facebook được nhắc mở bằng Safari. Chưa thử trên thiết bị iOS thật (docs/07 §12).
+
 ## Cấu trúc
 
 ```
@@ -73,11 +95,13 @@ lib/
   app/                 bootstrap_{io,web} (khởi động theo nền tảng), grammar_app, providers (Riverpod), router (go_router), theme
   data/                content_db*.dart (grammar.db, chỉ đọc; content_db_io: thư mục dữ liệu), media_store (ảnh/ghi âm ngoài DB), folder_media (thư mục cạnh grammar.db), manifest + block_vfs (DB web: khối nén, VFS chỉ đọc), user_db*.dart, user_readings, models, search_key, backup
   domain/              lookup (tra từ như app gốc), sentence_player (TTS hoặc ghi âm theo mốc câu)
-  platform/            tts.dart (Windows: SAPI qua kênh riêng; nền tảng khác: flutter_tts); các cặp *_io/*_web sau `import … if (dart.library.js_interop)`: native (SQLite, thư mục), env, app_dirs, user_images — cùng kiểu: app/bootstrap, ui/video/video_routes, ui/settings/data_section
+  platform/            tts.dart (Windows: SAPI qua kênh riêng; nền tảng khác: flutter_tts); các cặp *_io/*_web sau `import … if (dart.library.js_interop)`: native (SQLite, thư mục), env, app_dirs, user_images — cùng kiểu: app/bootstrap, ui/video/video_routes, ui/settings/data_section; web_store (Cache Storage, fetch, storage), web_download (manifest, pack, ảnh) chỉ cho web
   ui/                  home, dictionary, readings, grammar, exercises, dialogs, listening, video, analysis, pictures, vocab, user_readings, settings, help
   ui/widgets/          WordTapText (chạm từ, từ đã lưu đỏ), MarkText (Markdown nhẹ của bài văn phạm), shell
 windows/runner/sapi_tts.cpp   TTS SAPI cho Windows
-web/                          vỏ web (index.html, manifest, icon); bản web đang làm theo docs/07 §12
+web/                          vỏ web: index.html, manifest, icon, flutter_bootstrap.js + sw.js, _headers, sqlite3.wasm (mục "Bản web")
+tool/web/build_web.py         flutter build web + shell.json (danh sách file vỏ cho sw.js)
+tool/web/serve.py             phục vụ build/web + build/host trên một origin để thử bản web
 content/dataset/              nguồn nội dung (JSON, Markdown nhẹ, ảnh); content.json phiên bản; ids.json ID ổn định; CHANGELOG.md
 tool/content/pack.py          dựng content/grammar.db từ content/dataset
 tool/content/check.py         kiểm tra ID ổn định trước khi phát hành nội dung

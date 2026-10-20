@@ -236,7 +236,7 @@ class Respell extends StatelessWidget {
         decoration: BoxDecoration(color: g.lilac, borderRadius: BorderRadius.circular(100)),
         child: Text(
           text,
-          style: TextStyle(fontFamily: Tokens.uiFont, fontSize: fontSize, fontWeight: FontWeight.w600, color: g.indigo, height: 1.2),
+          style: TextStyle(fontFamily: Tokens.uiFont, fontFamilyFallback: Tokens.fallbackFonts, fontSize: fontSize, fontWeight: FontWeight.w600, color: g.indigo, height: 1.2),
         ),
       ),
     );
