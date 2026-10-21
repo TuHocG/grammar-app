@@ -2,7 +2,7 @@
 
     python3 tool/content/bundle.py                      # pack, then build/content/grammar.db + grammar.images
     python3 tool/content/bundle.py --zip-data           # also grammar4-data-<version>.zip holding both, to share by hand
-    python3 tool/content/bundle.py --zip-audio DIR      # also grammar4-audio-<version>.zip from DIR (1.mp3 …)
+    python3 tool/content/bundle.py --zip-audio DIR      # also grammar4-audio-<version>-<k>-<topic>.zip from DIR (1.mp3 …), one per topic
     python3 tool/content/bundle.py --no-pack-db         # reuse content/grammar.db as is
     python3 tool/content/bundle.py --web                # also build/content/web/: the web variant (see below)
     python3 tool/content/bundle.py --host               # --web, then tool/content/host.py -> build/host/ (the web host layout)
@@ -20,7 +20,9 @@ same database gzipped, a third of the size) and bundle.json (version, size and s
 the in-app download planned in docs/07 §12; --zip-data adds one zip with grammar.db and grammar.images
 (unzip into a folder, then pick it) for sharing by hand, like the audio zip.
 
-The audio zip holds `audio/<n>.mp3`: unzip it into the same folder, next to grammar.db (or pick
+The audio comes as one zip per topic of Các Bài Âm Thanh Thực (the reading sections that have
+recordings, in reading order), small enough to upload and fetch one at a time; each holds
+`audio/<n>.mp3` for its readings: unzip any of them into the same folder, next to grammar.db (or pick
 the folder in Cài Đặt → Dữ liệu → Âm thanh thực). content/dataset/ is the repo's source layout only.
 The content version goes into build/content/bundle.json and SHA256SUMS.txt.
 
@@ -55,6 +57,12 @@ def _sha256(p: Path) -> str:
         for chunk in iter(lambda: f.read(1 << 20), b''):
             h.update(chunk)
     return h.hexdigest()
+
+
+def _slug(title: str) -> str:
+    """'Bài Tham Khảo 1' -> 'bai-tham-khao-1', for file names any FTP server and OS take."""
+    ascii_ = unicodedata.normalize('NFKD', title.replace('đ', 'd').replace('Đ', 'D')).encode('ascii', 'ignore').decode()
+    return '-'.join(''.join(c if c.isalnum() else ' ' for c in ascii_.lower()).split())
 
 
 def main() -> int:
@@ -135,13 +143,33 @@ def main() -> int:
         print(f'{data_zip.name}: grammar.db + {images_zip.name}')
 
     if a.zip_audio:
-        audio_zip = OUT / f'grammar4-audio-{version}.zip'
-        files = sorted(f for f in a.zip_audio.iterdir() if f.suffix.lower() in ('.mp3', '.wav'))
-        with zipfile.ZipFile(audio_zip, 'w', zipfile.ZIP_STORED) as z:
-            for f in files:
-                z.write(f, f'audio/{f.name}')
-        outputs.append(audio_zip)
-        print(f'{audio_zip.name}: {len(files)} recordings in audio/')
+        for old in OUT.glob('grammar4-audio-*.zip'):
+            old.unlink()
+        recordings = {f.stem: f for f in a.zip_audio.iterdir() if f.suffix.lower() in ('.mp3', '.wav')}
+        con = sqlite3.connect(f'file:{db}?mode=ro', uri=True)
+        topics: dict[int, tuple[str, list[str]]] = {}
+        for sid, title, audio in con.execute(
+                'SELECT r.sid, s.title, r.audio FROM reading r JOIN reading_section s USING (sid) WHERE r.audio IS NOT NULL ORDER BY r.id'):
+            topics.setdefault(sid, (title, []))[1].append(Path(audio).stem)
+        con.close()
+        missing: list[str] = []
+        for k, (title, stems) in enumerate(topics.values(), 1):
+            audio_zip = OUT / f'grammar4-audio-{version}-{k}-{_slug(title)}.zip'
+            n = 0
+            with zipfile.ZipFile(audio_zip, 'w', zipfile.ZIP_STORED) as z:
+                for stem in stems:
+                    f = recordings.pop(stem, None)
+                    if f is None:
+                        missing.append(stem)
+                        continue
+                    z.write(f, f'audio/{f.name}')
+                    n += 1
+            outputs.append(audio_zip)
+            print(f'{audio_zip.name}: {title}, {n} recordings in audio/')
+        if missing:
+            print(f'warning: no recording in {a.zip_audio} for {", ".join(missing)}', file=sys.stderr)
+        if recordings:
+            print(f'warning: not used by any reading: {", ".join(sorted(f.name for f in recordings.values()))}', file=sys.stderr)
 
     sums = OUT / 'SHA256SUMS.txt'
     lines = [f'{_sha256(p)}  {p.name}' for p in outputs]
