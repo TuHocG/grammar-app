@@ -1,47 +1,93 @@
-# Production deploy of the web app (docs/07 §12): runs when the owner publishes the draft release
-# that release.yml made for a tag, and deploys the very site that release.yml built and put on the
-# preview URL — nothing is rebuilt. Run by hand with a tag to deploy (or roll back to) that release.
+# Deploys of the web app (docs/07 §12), all of them: release.yml only builds, and this puts the site
+# one of its runs built on Cloudflare Pages — nothing is rebuilt.
+#   Release run finished, web job passed → noindex copy on a preview alias: `preview` for a push of
+#     a tag vX.Y.Z (the draft release links there), `manual-<branch>` for a manual run, so it never
+#     overwrites what the owner is testing for a release, nor production.
+#   Release run of a web tag web-vX.Y.Z-N succeeded (check passed included) → production.
+#   Draft release of a tag vX.Y.Z published → production.
+#   By hand with a tag (either kind) → production: deploy, or roll back to, that build.
+# Without the Cloudflare secrets (README "Phát hành") a preview is skipped and production fails.
 name: Deploy web
 
 on:
+  workflow_run:
+    workflows: [Release]
+    types: [completed]
   release:
     types: [published]
   workflow_dispatch:
     inputs:
       tag:
-        description: Tag whose release build to deploy (vX.Y.Z)
+        description: Tag whose release build to deploy (vX.Y.Z or web-vX.Y.Z-N)
         required: true
 
 permissions:
   contents: read
   actions: read
 
-# One production deploy at a time; a later one waits.
-concurrency:
-  group: deploy-web-production
-  cancel-in-progress: false
-
 jobs:
-  deploy:
+  # Every Release run ends here; most have nothing to deploy and stop at this job, outside the
+  # Release environment.
+  pick:
     runs-on: ubuntu-latest
-    environment: Release
+    outputs:
+      id: ${{ steps.pick.outputs.id }}
+      artifact: ${{ steps.pick.outputs.artifact }}
+      branch: ${{ steps.pick.outputs.branch }}
     steps:
-      - name: Find the release build of this tag
-        id: run
+      - name: Pick the build and where it goes
+        id: pick
         env:
           GH_TOKEN: ${{ github.token }}
           TAG: ${{ inputs.tag || github.event.release.tag_name }}
-        # The run the tag push started (its head branch is the tag), not a manual run on the same commit.
+          RUN_ID: ${{ github.event.workflow_run.id }}
+          RUN_EVENT: ${{ github.event.workflow_run.event }}
+          RUN_HEAD: ${{ github.event.workflow_run.head_branch }}
+          RUN_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+        # A tag given by hand or by a release: the run its push started (its head branch is the tag),
+        # not a manual run on the same commit.
         run: |
-          id=$(gh run list -R "$GITHUB_REPOSITORY" --workflow release.yml --event push --branch "$TAG" --status success --json databaseId --jq '.[0].databaseId')
-          if [ -z "$id" ] || [ "$id" = null ]; then echo "::error::No successful Release run for the push of $TAG"; exit 1; fi
-          echo "id=$id" >> "$GITHUB_OUTPUT"
+          if [ -z "$RUN_ID" ]; then
+            id=$(gh run list -R "$GITHUB_REPOSITORY" --workflow release.yml --event push --branch "$TAG" --status success --json databaseId --jq '.[0].databaseId')
+            if [ -z "$id" ] || [ "$id" = null ]; then echo "::error::No successful Release run for the push of $TAG"; exit 1; fi
+            artifact=site branch=main
+          elif [[ "$RUN_EVENT" == push && "$RUN_HEAD" == web-v* ]]; then
+            if [ "$RUN_CONCLUSION" != success ]; then echo "The Release run of this web tag did not succeed; production unchanged"; exit 0; fi
+            id=$RUN_ID artifact=site branch=main
+          else
+            web=$(gh run view "$RUN_ID" -R "$GITHUB_REPOSITORY" --json jobs --jq '.jobs[] | select(.name == "web") | .conclusion')
+            if [ "$web" != success ]; then echo "No web build in this Release run; nothing to deploy"; exit 0; fi
+            # Prefixed: `main` is the production branch of the Pages project.
+            if [ "$RUN_EVENT" = push ]; then branch=preview; else branch="manual-$RUN_HEAD"; fi
+            id=$RUN_ID artifact=site-preview
+          fi
+          { echo "id=$id"; echo "artifact=$artifact"; echo "branch=$branch"; } >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: pick
+    if: needs.pick.outputs.id
+    runs-on: ubuntu-latest
+    environment: Release
+    # One deploy at a time per Pages branch (main is production), a later one waits.
+    concurrency:
+      group: deploy-web-${{ needs.pick.outputs.branch }}
+      cancel-in-progress: false
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      BRANCH: ${{ needs.pick.outputs.branch }}
+    steps:
+      - name: Cloudflare secrets
+        id: secrets
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"
+          elif [ "$BRANCH" = main ]; then echo "::error::Secret CLOUDFLARE_API_TOKEN is missing; production unchanged"; exit 1
+          else echo "::notice::No Cloudflare secrets; preview $BRANCH skipped"; fi
       - name: Download the site built for it
+        if: steps.secrets.outputs.ok
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh run download -R "$GITHUB_REPOSITORY" ${{ steps.run.outputs.id }} -n site -D build/site
-      - name: Deploy to production
-        run: npx --yes wrangler@3 pages deploy build/site --project-name grammar4 --branch main --commit-dirty=true
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: gh run download -R "$GITHUB_REPOSITORY" "${{ needs.pick.outputs.id }}" -n "${{ needs.pick.outputs.artifact }}" -D build/site
+      - name: Deploy to ${{ needs.pick.outputs.branch }}
+        if: steps.secrets.outputs.ok
+        run: npx --yes wrangler@3 pages deploy build/site --project-name grammar4 --branch "$BRANCH" --commit-dirty=true

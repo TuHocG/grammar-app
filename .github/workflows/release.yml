@@ -1,13 +1,14 @@
 # Release build: push a tag vX.Y.Z (matching `version:` in pubspec.yaml) to build Windows, Android,
-# macOS and the web, attach the installers and the data to a draft GitHub Release, and put the web
-# site on the preview URL (production follows when the release is published: deploy-web.yml). Run
-# manually (Actions → Release → Run workflow) to build without a release, optionally one platform
-# only or without the check job. Secrets: see README "Phát hành".
+# macOS and the web and attach the installers and the data to a draft GitHub Release. A tag
+# web-vX.Y.Z-N is a web-only change: check, data and web only, no release. Run manually (Actions →
+# Release → Run workflow) to build without a release, optionally one platform only or without the
+# check job. This workflow only builds: deploy-web.yml puts the web site on Cloudflare (preview,
+# production) when a run ends. Secrets: see README "Phát hành".
 name: Release
 
 on:
   push:
-    tags: ['v*']
+    tags: ['v*', 'web-v*']
   workflow_dispatch:
     inputs:
       platform:
@@ -38,16 +39,18 @@ jobs:
       - uses: actions/checkout@v4
       - id: version
         name: Read version, check it matches the tag
+        # A web tag names the release whose installers it sits on: web-v1.2.1-1 is web patch 1 on 1.2.1.
         run: |
           v=$(sed -n 's/^version: *\([^+]*\).*/\1/p' pubspec.yaml)
           echo "version=$v" >> "$GITHUB_OUTPUT"
-          if [[ "$GITHUB_REF_TYPE" == tag && "$GITHUB_REF_NAME" != "v$v" ]]; then
-            echo "::error::Tag $GITHUB_REF_NAME does not match pubspec version $v"; exit 1
+          n=${GITHUB_REF_NAME#"web-v$v-"}
+          if [[ "$GITHUB_REF_TYPE" == tag && "$GITHUB_REF_NAME" != "v$v" && ! ( "$GITHUB_REF_NAME" == "web-v$v-$n" && "$n" =~ ^[1-9][0-9]*$ ) ]]; then
+            echo "::error::Tag $GITHUB_REF_NAME does not match pubspec version $v (v$v, or web-v$v-N for a web-only change)"; exit 1
           fi
       - id: targets
         name: Desktop build matrix
         env:
-          PLATFORM: ${{ inputs.platform || 'all' }}
+          PLATFORM: ${{ inputs.platform || (startsWith(github.ref, 'refs/tags/web-v') && 'web') || 'all' }}
         run: |
           all='[
             {"os": "windows", "arch": "x64",   "runner": "windows-latest"},
@@ -146,7 +149,7 @@ jobs:
 
   android:
     needs: version
-    if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'android') }}
+    if: ${{ !cancelled() && !failure() && !startsWith(github.ref, 'refs/tags/web-v') && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'android') }}
     runs-on: ubuntu-latest
     # Secrets live in the `Release` environment (Settings → Environments); every job reading them names it.
     environment: Release
@@ -182,16 +185,12 @@ jobs:
       - uses: actions/upload-artifact@v7
         with: { path: 'Grammar-*.aab', archive: false }
 
-  # The web app (docs/07 §12): built once, kept as the `site` artifact, shown on the preview URL
-  # (marked noindex). deploy-web.yml puts the same artifact on production when the release is published.
+  # The web app (docs/07 §12): built once, kept as the `site` artifact and its noindex copy
+  # `site-preview`; deploy-web.yml puts them on Cloudflare when this run ends.
   web:
     needs: [version, data]
     if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'web') }}
     runs-on: ubuntu-22.04
-    environment: Release
-    env:
-      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -205,16 +204,11 @@ jobs:
       - run: python3 tool/web/build_site.py --live https://grammar4.pages.dev
       - uses: actions/upload-artifact@v7
         with: { name: site, path: build/site, retention-days: 90 }
-      - name: Deploy the preview
-        # Skipped until the Cloudflare secrets exist (README "Phát hành"); the site artifact is made anyway.
-        # A tag goes to the `preview` alias the draft release links to; a manual run gets an alias
-        # named after its branch (prefixed: `main` is the production branch of the Pages project),
-        # so it never overwrites what the owner is testing for a release, nor production.
-        if: env.CLOUDFLARE_API_TOKEN != ''
-        run: npx --yes wrangler@3 pages deploy build/site-preview --project-name grammar4 --branch "${{ github.ref_type == 'tag' && 'preview' || format('manual-{0}', github.ref_name) }}" --commit-dirty=true
+      - uses: actions/upload-artifact@v7
+        with: { name: site-preview, path: build/site-preview, retention-days: 14 }
 
   release:
-    if: github.ref_type == 'tag'
+    if: startsWith(github.ref, 'refs/tags/v')
     needs: [version, check, data, desktop, android, web]
     runs-on: ubuntu-latest
     permissions:
