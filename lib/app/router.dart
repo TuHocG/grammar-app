@@ -2,6 +2,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../platform/analytics.dart';
 import '../platform/env.dart';
 import 'providers.dart';
 import '../data/content_db_more.dart';
@@ -233,6 +234,22 @@ GoRouter buildRouter() => GoRouter(
     ),
   ],
 );
+
+/// Sends each page the user lands on to [trackPageView]: the page on top, which for a page
+/// opened with `push` is not the one in the address bar.
+GoRouter reportPages(GoRouter router) {
+  String? last;
+  router.routerDelegate.addListener(() {
+    final m = router.routerDelegate.currentConfiguration;
+    if (m.isEmpty) return;
+    final top = m.matches.last;
+    final location = (top is ImperativeRouteMatch ? top.matches.uri : m.uri).toString();
+    if (location == last) return;
+    last = location;
+    trackPageView(location);
+  });
+  return router;
+}
 
 /// Stops the reading aloud when a page opens over the one reading: go_router keeps that page
 /// alive below the new one (Bài Đọc → Từ điển, Luyện Nghe → Bài đọc). Sheets and dialogs are not

@@ -100,6 +100,7 @@ def make_preview(site: Path, preview: Path) -> None:
     shutil.rmtree(preview, ignore_errors=True)
     shutil.copytree(site, preview)
     (preview / 'robots.txt').write_text('User-agent: *\nDisallow: /\n', encoding='utf-8')
+    (preview / 'sitemap.xml').unlink(missing_ok=True)
     index = preview / 'index.html'
     text = index.read_text(encoding='utf-8')
     if NOINDEX_META not in text:

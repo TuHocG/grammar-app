@@ -24,7 +24,7 @@ ROOT = Path(__file__).resolve().parents[2]
 WEB = ROOT / 'build' / 'web'
 
 SKIP_DIRS = {'canvaskit/webparagraph'}
-SKIP_FILES = {'flutter_service_worker.js', 'shell.json', 'sw.js', '_headers', 'robots.txt', '404.html'}
+SKIP_FILES = {'flutter_service_worker.js', 'shell.json', 'sw.js', '_headers', 'robots.txt', 'sitemap.xml', '404.html'}
 SKIP_PREFIXES = ('canvaskit/skwasm', 'canvaskit/wimp')
 SKIP_SUFFIXES = ('.symbols',)
 

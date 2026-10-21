@@ -11,6 +11,7 @@ import '../data/web_media.dart';
 import '../platform/web_download.dart';
 import '../platform/web_store.dart';
 import '../ui/setup/web_setup_page.dart';
+import 'config.dart';
 import 'grammar_app.dart';
 import 'restart.dart';
 import 'theme.dart';
@@ -129,4 +130,4 @@ void _note(String text) => runApp(
   ),
 );
 
-Widget _app(Widget home) => MaterialApp(title: 'Grammar 4.0', theme: buildTheme(Brightness.light), darkTheme: buildTheme(Brightness.dark), home: home);
+Widget _app(Widget home) => MaterialApp(title: appWindowTitle, theme: buildTheme(Brightness.light), darkTheme: buildTheme(Brightness.dark), home: home);

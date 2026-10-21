@@ -25,6 +25,10 @@ String recordingUrl(String rel) {
 /// as FLUTTER_BUILD_NAME. Empty under `flutter test`.
 const appVersion = String.fromEnvironment('FLUTTER_BUILD_NAME');
 
+/// The page title of the web app, which search engines read once the app runs: the same as the
+/// `<title>` in web/index.html. The other platforms show the plain name.
+const appWindowTitle = kIsWeb ? 'Grammar 4.0 – Học tiếng Anh: văn phạm, từ điển, bài đọc song ngữ' : 'Grammar 4.0';
+
 /// "Grammar 4.0 - Phiên bản 1.0.1", shown on the home page and in Settings › Giới thiệu.
 const appTitleWithVersion = appVersion == '' ? 'Grammar 4.0' : 'Grammar 4.0 - Phiên bản $appVersion';
 

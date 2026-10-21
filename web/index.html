@@ -6,8 +6,37 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="description" content="Grammar 4.0 – học tiếng Anh: từ điển, bài đọc song ngữ, văn phạm, bài tập, luyện nói, luyện nghe. Kế thừa Grammar 3.1. Trang chủ: tuhocg.github.io.">
+  <title>Grammar 4.0 – Học tiếng Anh: văn phạm, từ điển, bài đọc song ngữ</title>
+  <meta name="description" content="Grammar 4.0 – học tiếng Anh miễn phí: từ điển Anh–Việt, bài đọc song ngữ, văn phạm, bài tập, luyện nói, luyện nghe, chạy cả khi không có mạng. Kế thừa Grammar 3.1. Trang chủ: tuhocg.github.io.">
   <meta name="theme-color" content="#b2161c">
+
+  <!-- Search and link previews (README "Bản web"): the production address, also on the previews. -->
+  <link rel="canonical" href="https://grammar4.pages.dev/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Grammar 4.0">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:url" content="https://grammar4.pages.dev/">
+  <meta property="og:title" content="Grammar 4.0 – Học tiếng Anh: văn phạm, từ điển, bài đọc song ngữ">
+  <meta property="og:description" content="Học tiếng Anh miễn phí: từ điển Anh–Việt, bài đọc song ngữ, văn phạm, bài tập, luyện nói, luyện nghe. Kế thừa Grammar 3.1.">
+  <meta property="og:image" content="https://grammar4.pages.dev/icons/Icon-512.png">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">
+  <meta name="twitter:card" content="summary">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Grammar 4.0",
+    "url": "https://grammar4.pages.dev/",
+    "description": "Học tiếng Anh: từ điển Anh–Việt, bài đọc song ngữ, văn phạm, bài tập, luyện nói, luyện nghe. Kế thừa Grammar 3.1.",
+    "inLanguage": "vi",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "Web, Windows, Android, macOS",
+    "isAccessibleForFree": true,
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "VND" },
+    "sameAs": ["https://tuhocg.github.io/"]
+  }
+  </script>
 
   <!-- Installed on a phone's home screen (docs/07 §12): iOS reads these, other browsers the manifest. -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -16,11 +45,56 @@
   <meta name="apple-mobile-web-app-title" content="Grammar">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>Grammar 4.0</title>
   <link rel="manifest" href="manifest.json">
+
+  <!-- Google Analytics 4 (README "Bản web"): only the production site loads it, so previews and
+       local builds report nothing; an empty ID turns it off. The app sends the page views itself
+       (lib/platform/analytics_web.dart), since its pages live in the URL fragment. -->
+  <script>
+    (() => {
+      const id = 'G-2JTM2B6Q6C';
+      if (!id || location.hostname !== 'grammar4.pages.dev') return;
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { dataLayer.push(arguments); };
+      gtag('js', new Date());
+      gtag('config', id, { send_page_view: false });
+      const s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
+      document.head.append(s);
+    })();
+  </script>
+
+  <style>
+    body { margin: 0; background: #f6f7fb; }
+    #intro { position: fixed; inset: 0; overflow: auto; padding: 3em 1em; font-family: system-ui, sans-serif; color: #282e3e; line-height: 1.5; }
+    #intro > div { max-width: 36em; margin: 0 auto; }
+    #intro h1 { color: #b2161c; margin: 0 0 .25em; }
+    #intro a { color: #4255ff; }
+    /* Once the app runs: out of sight, still in the page for search engines. */
+    #intro.gone { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); }
+  </style>
 </head>
 <body>
+  <!-- What search engines read (the app draws on a canvas) and what shows while it loads;
+       flutter_bootstrap.js hides it once the app runs. -->
+  <main id="intro">
+    <div>
+      <h1>Grammar 4.0</h1>
+      <p>Học tiếng Anh miễn phí, ngay trên trình duyệt, chạy cả khi không có mạng sau lần mở đầu. Kế thừa Grammar 3.1.</p>
+      <ul>
+        <li>Bài đọc song ngữ: chạm từ để tra, chạm câu để dịch; nghe, xếp từ, đàm thoại, nghe viết</li>
+        <li>Văn phạm: bài lý thuyết có liên kết thẳng tới bài tập</li>
+        <li>Bài tập: thì, mạo từ, câu điều kiện, giới từ, dạng từ, trắc nghiệm, TOEFL</li>
+        <li>Luyện nói: đàm thoại A–B theo chủ đề</li>
+        <li>Luyện nghe: nghe câu tiếng Anh, chọn câu Việt đúng</li>
+        <li>Từ điển Anh–Việt có phiên âm và họ từ; phiên âm quốc tế IPA</li>
+        <li>Phân tích câu, từ vựng theo tranh, từ vựng và bài đọc của riêng bạn</li>
+      </ul>
+      <p>Có cả bản cài cho Windows, Android và macOS: xem <a href="https://tuhocg.github.io/">tuhocg.github.io</a>.</p>
+      <noscript><p>Cần bật JavaScript để dùng Grammar 4.0 trên trình duyệt.</p></noscript>
+    </div>
+  </main>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

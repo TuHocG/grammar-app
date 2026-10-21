@@ -17,4 +17,14 @@ if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js?v=' + buildVersion).catch((e) => console.warn('service worker', e));
 }
 
-_flutter.loader.load({});
+_flutter.loader.load({
+  onEntrypointLoaded: async (engineInitializer) => {
+    const appRunner = await engineInitializer.initializeEngine();
+    await appRunner.runApp();
+    // The text of index.html for search engines: out of sight and out of the accessibility tree
+    // once the app draws its own.
+    const intro = document.getElementById('intro');
+    intro?.classList.add('gone');
+    intro?.setAttribute('aria-hidden', 'true');
+  },
+});

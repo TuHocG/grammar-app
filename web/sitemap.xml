@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The app is one page: its sections live in the URL fragment, which search engines do not crawl. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://grammar4.pages.dev/</loc></url>
+</urlset>

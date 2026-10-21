@@ -8,6 +8,7 @@ import '../data/content_db.dart';
 import '../data/user_db.dart';
 import '../platform/tts.dart';
 import '../ui/widgets/type_to_search.dart';
+import 'config.dart';
 import 'providers.dart';
 import 'router.dart';
 import 'theme.dart';
@@ -23,13 +24,13 @@ Future<void> startApp({required ContentDb content, required UserDb user}) async 
 class GrammarApp extends ConsumerWidget {
   const GrammarApp({super.key});
 
-  static final _router = buildRouter();
+  static final _router = reportPages(buildRouter());
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final s = ref.watch(settingsProvider);
     return MaterialApp.router(
-      title: 'Grammar 4.0',
+      title: appWindowTitle,
       theme: buildTheme(Brightness.light),
       darkTheme: buildTheme(Brightness.dark),
       themeMode: s.themeMode,
