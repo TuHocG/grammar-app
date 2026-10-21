@@ -1,9 +1,11 @@
+import 'package:flutter/widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
 import '../platform/env.dart';
 import 'providers.dart';
 import '../data/content_db_more.dart';
+import '../domain/sentence_player.dart';
 
 import '../ui/dictionary/dictionary_page.dart';
 import '../ui/dictionary/entry_page.dart';
@@ -31,6 +33,7 @@ import '../ui/vocab/my_words_page.dart';
 
 GoRouter buildRouter() => GoRouter(
   initialLocation: initialRoute(),
+  observers: [StopReadingObserver()],
   routes: [
     GoRoute(path: '/', builder: (_, _) => const HomePage()),
     GoRoute(path: '/ipa', builder: (_, _) => const IpaLessonPage()),
@@ -230,3 +233,13 @@ GoRouter buildRouter() => GoRouter(
     ),
   ],
 );
+
+/// Stops the reading aloud when a page opens over the one reading: go_router keeps that page
+/// alive below the new one (Bài Đọc → Từ điển, Luyện Nghe → Bài đọc). Sheets and dialogs are not
+/// pages, so looking up a word while listening does not stop it.
+class StopReadingObserver extends NavigatorObserver {
+  @override
+  void didPush(Route<dynamic> route, Route<dynamic>? previousRoute) {
+    if (route is PageRoute) SentencePlayer.stopAll();
+  }
+}

@@ -5,11 +5,11 @@ library;
 
 import 'dart:async';
 
-import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/foundation.dart';
 
 import '../data/media_store.dart';
 import '../data/models.dart';
+import '../platform/clip_player.dart';
 import '../platform/tts.dart';
 
 enum PlayerState { idle, playing, paused }
@@ -27,8 +27,8 @@ class SentencePlayer extends ChangeNotifier {
   /// Keep reading the next sentence after the current one ends.
   bool continuous = true;
 
-  AudioPlayer? _player;
-  StreamSubscription<Duration>? _posSub;
+  ClipPlayer? _player;
+  StreamSubscription<double>? _posSub;
   StreamSubscription<void>? _doneSub;
   int _run = 0;
   double? _stopAt;
@@ -43,7 +43,23 @@ class SentencePlayer extends ChangeNotifier {
   /// shared [tts]; that page stops the old one itself before navigating.
   bool stopTtsOnDispose = true;
 
-  SentencePlayer({required this.tts, required this.reading, this.audio});
+  /// Makes the clip player of the recording; tests pass a fake.
+  final ClipPlayer Function() newClip;
+
+  SentencePlayer({required this.tts, required this.reading, this.audio, @visibleForTesting this.newClip = ClipPlayer.new}) {
+    _live.add(this);
+  }
+
+  /// The players of the pages still on the navigation stack.
+  static final _live = <SentencePlayer>{};
+
+  /// Stops every player, when a page opens over the one reading aloud: go_router keeps the
+  /// page below alive, so it would go on reading (`StopReadingObserver`, app/router.dart).
+  static void stopAll() {
+    for (final p in [..._live]) {
+      if (p.state == PlayerState.playing) p.stop();
+    }
+  }
 
   bool get useRecording => audio != null && reading.hasRealAudio && !_recordingFailed;
 
@@ -79,6 +95,9 @@ class SentencePlayer extends ChangeNotifier {
       try {
         await _playSegment(reading.times![index], reading.times![index + 1], run);
         return;
+      } on _Refused {
+        _halt(run);
+        return;
       } catch (e) {
         // A run superseded while its stream was loading (a tap on another sentence) may fail
         // because of the newer one: that says nothing about the recording.
@@ -92,7 +111,7 @@ class SentencePlayer extends ChangeNotifier {
   }
 
   Future<void> _playSegment(double start, double end, int run) async {
-    final p = _player ??= AudioPlayer();
+    final p = _player ??= newClip();
     _endSegment();
     final done = _segment = Completer<void>();
     _stopAt = end;
@@ -102,29 +121,41 @@ class SentencePlayer extends ChangeNotifier {
     // left by the previous sentence before seeking, which ended a replay (or a jump back)
     // as soon as it started.
     if (!_sourceSet) {
-      final source = switch (audio!) {
-        AudioFile(:final path) => DeviceFileSource(path),
-        AudioUrl(:final url) => UrlSource(url),
-        AudioCached(:final open) => UrlSource(await open()),
-      };
       // A stream that never answers (captive portal, dead host) must not hold the reading up.
-      await p.setSource(source).timeout(const Duration(seconds: 20));
+      await p.open(audio!).timeout(const Duration(seconds: 20));
       _sourceSet = true;
     }
-    await p.seek(Duration(milliseconds: (start * 1000).round()));
+    // Paused first, then played from where the seek landed: never a moment of the old position.
+    await p.seek(start);
     if (run != _run) return;
     // Listen only once the seek is done, so every position seen belongs to this sentence.
-    _posSub = p.onPositionChanged.listen((d) {
-      if (_stopAt != null && d.inMilliseconds / 1000.0 >= _stopAt! - 0.05 && !done.isCompleted) {
+    _posSub = p.positions.listen((t) {
+      if (_stopAt != null && t >= _stopAt! - 0.05 && !done.isCompleted) {
         done.complete();
       }
     });
-    _doneSub = p.onPlayerComplete.listen((_) {
+    _doneSub = p.completions.listen((_) {
       if (!done.isCompleted) done.complete();
     });
-    await p.resume();
+    try {
+      await p.play();
+    } catch (e) {
+      // The file is open and in place, so this is the browser refusing to start (autoplay
+      // without a fresh tap) or a pause racing the start: not a reason to give up the recording.
+      if (run != _run) return;
+      debugPrint('SentencePlayer: play refused: $e');
+      throw const _Refused();
+    }
     await done.future;
     if (run == _run) await p.pause();
+  }
+
+  /// After a refused start: the run ends, silent; the next tap (a real gesture) tries again.
+  void _halt(int run) {
+    if (run != _run) return;
+    _run++;
+    state = PlayerState.idle;
+    notifyListeners();
   }
 
   /// Lets a segment that was superseded or stopped return instead of waiting forever.
@@ -141,6 +172,8 @@ class SentencePlayer extends ChangeNotifier {
     notifyListeners();
     try {
       await _playSegment(0, reading.times![0], run);
+    } on _Refused {
+      _halt(run);
     } catch (e) {
       debugPrint('SentencePlayer: cannot play $audio: $e');
       if (run == _run) _recordingFailed = true;
@@ -152,11 +185,13 @@ class SentencePlayer extends ChangeNotifier {
   }
 
   Future<void> stop() async {
-    _run++;
+    final run = ++_run;
     state = PlayerState.idle;
     _endSegment();
     await tts.stop();
-    await _player?.pause();
+    // A run started meanwhile (a quick tap after the stop) paused and moved the clip itself:
+    // pausing now would cut it off mid-sentence.
+    if (run == _run) await _player?.pause();
     notifyListeners();
   }
 
@@ -178,6 +213,7 @@ class SentencePlayer extends ChangeNotifier {
 
   @override
   void dispose() {
+    _live.remove(this);
     _run++;
     _endSegment();
     _posSub?.cancel();
@@ -186,4 +222,9 @@ class SentencePlayer extends ChangeNotifier {
     if (stopTtsOnDispose) tts.stop();
     super.dispose();
   }
+}
+
+/// The recording could not start playing although it is loaded (see [SentencePlayer._halt]).
+class _Refused implements Exception {
+  const _Refused();
 }
