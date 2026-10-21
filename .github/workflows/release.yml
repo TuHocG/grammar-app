@@ -75,9 +75,9 @@ jobs:
 
   # Lesson data for users: grammar.db (+ embedded picture pages) and grammar.images, two files to download
   # by hand, plus grammar.db.gz and bundle.json, which the apps download by themselves (lib/platform/downloader_io.dart).
+  # The build jobs do not wait for check: they run alongside it, and only the release job needs
+  # check to have passed, so a failing test still keeps the draft release from being made.
   data:
-    needs: check
-    # Runs when check passed or was skipped (skip_check), not when it failed.
     if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'data' || inputs.platform == 'web') }}
     runs-on: ubuntu-22.04
     steps:
@@ -109,8 +109,7 @@ jobs:
         with: { path: build/content/bundle.json, archive: false }
 
   desktop:
-    needs: [version, check]
-    # Runs when check passed or was skipped (skip_check), not when it failed.
+    needs: version
     if: ${{ !cancelled() && !failure() && needs.version.outputs.desktop != '[]' }}
     name: ${{ matrix.os }}-${{ matrix.arch }}
     strategy:
@@ -146,8 +145,7 @@ jobs:
         with: { path: '${{ steps.package.outputs.file }}', archive: false }
 
   android:
-    needs: [version, check]
-    # Runs when check passed or was skipped (skip_check), not when it failed.
+    needs: version
     if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'android') }}
     runs-on: ubuntu-latest
     # Secrets live in the `Release` environment (Settings → Environments); every job reading them names it.
@@ -187,7 +185,7 @@ jobs:
   # The web app (docs/07 §12): built once, kept as the `site` artifact, shown on the preview URL
   # (marked noindex). deploy-web.yml puts the same artifact on production when the release is published.
   web:
-    needs: [version, check, data]
+    needs: [version, data]
     if: ${{ !cancelled() && !failure() && (github.event_name != 'workflow_dispatch' || inputs.platform == 'all' || inputs.platform == 'web') }}
     runs-on: ubuntu-22.04
     environment: Release
