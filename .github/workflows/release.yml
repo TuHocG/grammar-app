@@ -84,7 +84,17 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
-      - run: python3 tool/content/bundle.py --host
+      # The packages depend only on the dataset and the tools that pack it: when neither changed since
+      # a run that built them (a code-only branch, a rebuild of the web app), reuse that run's output.
+      - id: cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            build/content
+            build/host
+          key: data-${{ runner.os }}-${{ hashFiles('content/dataset/**', 'content/content.json', 'tool/content/**') }}
+      - if: steps.cache.outputs.cache-hit != 'true'
+        run: python3 tool/content/bundle.py --host
       # Packages are uploaded unzipped (archive: false), one file per artifact named after the file,
       # so each downloads on its own without a zip around it. build/host (the web data) is one artifact.
       - uses: actions/upload-artifact@v7
