@@ -33,7 +33,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
     ..onTap = () async {
       var ok = false;
       try {
-        ok = await launchUrl(Uri.parse('https://tuhocg.github.io/grammar-4.html'), mode: LaunchMode.externalApplication);
+        ok = await launchUrl(Uri.parse('https://tuhocg.github.io/'), mode: LaunchMode.externalApplication);
       } catch (_) {}
       if (!ok) _snack('Không mở được trình duyệt');
     };
@@ -198,7 +198,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
                       Text.rich(
                         TextSpan(
                           children: [
-                            const TextSpan(text: 'Kế thừa và tiếp tục phát triển Grammar 3.1 của tuhocg.weebly.com. Trang chủ mới: '),
+                            const TextSpan(text: 'Kế thừa và tiếp tục phát triển Grammar 3.1 theo uỷ thác của tác giả. Trang chủ: '),
                             TextSpan(
                               text: 'tuhocg.github.io',
                               style: const TextStyle(color: Colors.blue),

@@ -97,7 +97,7 @@ class _WebSetupPageState extends State<WebSetupPage> {
                 const SizedBox(height: 16),
                 FilledButton.icon(onPressed: _running ? null : _download, icon: const Icon(Icons.download), label: Text(_running ? 'Đang tải…' : (resumable ? 'Tải tiếp' : 'Tải dữ liệu'))),
                 const SizedBox(height: 24),
-                Text('Bản cài đặt cho Windows, Android, macOS có thêm âm thanh thực và video: tuhocg.github.io/grammar-4.html', style: theme.textTheme.bodySmall),
+                Text('Bản cài đặt cho Windows, Android, macOS có thêm âm thanh thực và video: tuhocg.github.io', style: theme.textTheme.bodySmall),
               ],
             ),
           ),

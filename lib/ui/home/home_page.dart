@@ -451,7 +451,7 @@ class HomePage extends ConsumerWidget {
               title: 'Bản đầy đủ cho máy tính và Android',
               subtitle: 'Có âm thanh thực và video, chạy không cần trình duyệt · tuhocg.github.io',
               subtitleLines: 2,
-              onTap: () => launchUrl(Uri.parse('https://tuhocg.github.io/grammar-4.html'), mode: LaunchMode.externalApplication),
+              onTap: () => launchUrl(Uri.parse('https://tuhocg.github.io/'), mode: LaunchMode.externalApplication),
             ),
           ],
           const SizedBox(height: 24),

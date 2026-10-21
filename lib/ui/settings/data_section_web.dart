@@ -233,7 +233,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
           title: const Text('Bản đầy đủ cho Windows, Android, macOS'),
           subtitle: const Text('Có âm thanh thực và video; chạy không cần trình duyệt'),
           trailing: const Icon(Icons.open_in_new),
-          onTap: () => launchUrl(Uri.parse('https://tuhocg.github.io/grammar-4.html'), mode: LaunchMode.externalApplication),
+          onTap: () => launchUrl(Uri.parse('https://tuhocg.github.io/'), mode: LaunchMode.externalApplication),
         ),
       ],
     );
