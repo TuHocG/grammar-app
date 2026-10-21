@@ -116,8 +116,11 @@ class ReadingSummary {
   final int position;
   final String title;
   final String? img;
-  final bool hasAudio;
-  const ReadingSummary({required this.id, required this.sid, required this.position, required this.title, this.img, required this.hasAudio});
+
+  /// `audio/12.mp3` when the content has a recording of it (which this device may lack).
+  final String? audio;
+  const ReadingSummary({required this.id, required this.sid, required this.position, required this.title, this.img, this.audio});
+  bool get hasAudio => audio != null;
 }
 
 class Sentence {

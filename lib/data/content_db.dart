@@ -211,14 +211,14 @@ extension ContentDbReadings on ContentDb {
 
   List<ReadingSummary> readingsInSection(int sid) => [
     for (final r in _db.select('SELECT id, sid, position, title, img, audio FROM reading WHERE sid = ? ORDER BY position', [sid]))
-      ReadingSummary(id: r['id'] as int, sid: r['sid'] as int, position: r['position'] as int, title: r['title'] as String, img: r['img'] as String?, hasAudio: r['audio'] != null),
+      ReadingSummary(id: r['id'] as int, sid: r['sid'] as int, position: r['position'] as int, title: r['title'] as String, img: r['img'] as String?, audio: r['audio'] as String?),
   ];
 
   List<ReadingSummary> searchReadings(String text, {int limit = 50}) {
     final q = '%${text.trim()}%';
     return [
       for (final r in _db.select('SELECT id, sid, position, title, img, audio FROM reading WHERE title LIKE ? ORDER BY id LIMIT ?', [q, limit]))
-        ReadingSummary(id: r['id'] as int, sid: r['sid'] as int, position: r['position'] as int, title: r['title'] as String, img: r['img'] as String?, hasAudio: r['audio'] != null),
+        ReadingSummary(id: r['id'] as int, sid: r['sid'] as int, position: r['position'] as int, title: r['title'] as String, img: r['img'] as String?, audio: r['audio'] as String?),
     ];
   }
 

@@ -124,7 +124,7 @@ class _ListenPageState extends ConsumerState<ListenPage> {
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                Text('Câu ${p.index + 1} / ${p.count}${r.hasRealAudio ? ' · giọng thật' : ' · giọng máy'}', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
+                Text('Câu ${p.index + 1} / ${p.count}${p.useRecording ? ' · giọng thật' : ' · giọng máy'}', style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.outline)),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [

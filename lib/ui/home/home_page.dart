@@ -500,7 +500,7 @@ _Activity? _latestActivity(WidgetRef ref, bool wide) {
     return _Activity(
       section == null ? 'Bài Đọc' : 'Bài Đọc · $section',
       r.title,
-      '${r.sentences.length} câu${r.hasRealAudio ? ' · giọng đọc thật' : ''}',
+      '${r.sentences.length} câu${r.hasRealAudio && audioFor(ref, r.audio) != null ? ' · giọng đọc thật' : ''}',
       Icons.menu_book_outlined,
       '/readings/${r.id}',
       image,

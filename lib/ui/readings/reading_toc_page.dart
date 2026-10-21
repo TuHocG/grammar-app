@@ -210,7 +210,15 @@ class ReadingListPage extends ConsumerWidget {
         maxWidth: 960,
         children: [
           Text(section?.title ?? 'Bài Đọc', style: theme.textTheme.headlineLarge),
-          Text('${items.length} bài${items.any((r) => r.hasAudio) ? ' · có bài với giọng đọc thật' : ''}', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+          Text(
+            '${items.length} bài'
+            '${items.any((r) => r.hasAudio && audioFor(ref, r.audio) != null)
+                ? ' · có bài với giọng đọc thật'
+                : items.any((r) => r.hasAudio)
+                ? ' · có bài với giọng đọc thật ($missingRecordingNote)'
+                : ''}',
+            style: theme.textTheme.bodyLarge?.copyWith(color: g.slate),
+          ),
           const SizedBox(height: 20),
           AutoGrid(
             minWidth: 280,

@@ -1,6 +1,7 @@
 /// Riverpod wiring: databases, services, settings, user words.
 library;
 
+import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -25,6 +26,10 @@ AudioRef? audioFor(WidgetRef ref, String? rel) {
   if (rel == null || rel.isEmpty) return null;
   return ref.read(contentDbProvider).media.audio(rel, dir: ref.read(userDbProvider).setting(audioDirKey));
 }
+
+/// Why a reading that has a recording in the content is read by the synthetic voice here: the
+/// web app has no recordings, the installed app has not got the audio pack yet.
+String get missingRecordingNote => kIsWeb ? 'giọng thật có ở bản cài đặt' : 'chưa tải gói âm thanh (Cài Đặt → Dữ liệu)';
 
 /// Bumped whenever a progress row changes; pages that show progress ("continue" cards,
 /// exercise scores, the reading being read) watch it so they refresh on return.

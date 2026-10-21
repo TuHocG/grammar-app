@@ -262,7 +262,13 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
               children: [
                 Icon(Icons.graphic_eq, size: 16, color: g.slate),
                 const SizedBox(width: 6),
-                Text('Bài này có giọng đọc thật', style: theme.textTheme.bodyMedium?.copyWith(color: g.slate)),
+                // Flexible: the note wraps on a phone instead of running off the toolbar.
+                Flexible(
+                  child: Text(
+                    audioFor(ref, r.audio) != null ? 'Bài này có giọng đọc thật' : 'Bài này có giọng đọc thật: $missingRecordingNote',
+                    style: theme.textTheme.bodyMedium?.copyWith(color: g.slate),
+                  ),
+                ),
               ],
             ),
           ),
