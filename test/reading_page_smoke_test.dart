@@ -10,6 +10,7 @@ import 'package:grammar/app/providers.dart';
 import 'package:grammar/app/theme.dart';
 import 'package:grammar/data/content_db.dart';
 import 'package:grammar/data/content_db_more.dart';
+import 'package:grammar/data/media_store.dart';
 import 'package:grammar/data/reading_loader.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
@@ -232,6 +233,26 @@ void main() {
     expect(r.sentences.length, 8);
     expect(r.sentences[0].en, 'What do you buy?');
     expect(r.sentences[1].en, 'A bar of Chocolate.');
+  }, skip: !has);
+
+  testWidgets('a reading with a recording: streamed with a download button until the file is in the folder', (tester) async {
+    tester.view.physicalSize = const Size(1100, 720);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+    final id = db.raw.select("SELECT id FROM reading WHERE audio = 'audio/1.mp3'").first['id'] as int;
+    final audio = Directory('${tmp.path}/audio')..createSync();
+    user.setSetting(audioDirKey, audio.path);
+    addTearDown(() => user.setSetting(audioDirKey, ''));
+    await tester.pumpWidget(wrap(ReadingPage(id: id)));
+    await tester.pump();
+    expect(find.textContaining('chưa tải về: đang phát qua mạng'), findsOneWidget);
+    expect(find.text('Tải bài này'), findsOneWidget);
+    expect(find.byIcon(Icons.cloud_outlined), findsWidgets); // the section's readings on the left
+    File('${audio.path}/1.mp3').writeAsBytesSync([0]);
+    await tester.pumpWidget(wrap(ReadingPage(key: UniqueKey(), id: id)));
+    await tester.pump();
+    expect(find.text('Bài này có giọng đọc thật'), findsOneWidget);
+    expect(find.text('Tải bài này'), findsNothing);
   }, skip: !has);
 
   for (final (name, widget) in [('reading', const ReadingPage(id: 1)), ('home', const HomePage())]) {

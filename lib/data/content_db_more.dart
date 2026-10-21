@@ -69,10 +69,11 @@ extension ContentDbMore on ContentDb {
     return rows.isEmpty ? null : reading(rows.first['id'] as int);
   }
 
-  /// Id and title of [listeningReading], without loading its sentences (unit list, headers).
-  ({int id, String title})? listeningReadingTitle(int unit) {
-    final rows = raw.select("SELECT id, title FROM reading WHERE audio LIKE ? ORDER BY id LIMIT 1", ['audio/$unit.%']);
-    return rows.isEmpty ? null : (id: rows.first['id'] as int, title: rows.first['title'] as String);
+  /// Id, title and recording (`audio/5.mp3`) of [listeningReading], without loading its
+  /// sentences (unit list, headers).
+  ({int id, String title, String audio})? listeningReadingTitle(int unit) {
+    final rows = raw.select("SELECT id, title, audio FROM reading WHERE audio LIKE ? ORDER BY id LIMIT 1", ['audio/$unit.%']);
+    return rows.isEmpty ? null : (id: rows.first['id'] as int, title: rows.first['title'] as String, audio: rows.first['audio'] as String);
   }
 
   List<int> listeningUnits() => [for (final r in raw.select('SELECT DISTINCT unit FROM listening_item ORDER BY unit')) r['unit'] as int];

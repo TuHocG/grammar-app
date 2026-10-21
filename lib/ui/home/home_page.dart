@@ -449,7 +449,7 @@ class HomePage extends ConsumerWidget {
             SetCard(
               icon: Icons.computer_outlined,
               title: 'Bản đầy đủ cho máy tính và Android',
-              subtitle: 'Có âm thanh thực và video, chạy không cần trình duyệt · tuhocg.github.io',
+              subtitle: 'Có video, chạy không cần trình duyệt · tuhocg.github.io',
               subtitleLines: 2,
               onTap: () => launchUrl(Uri.parse('https://tuhocg.github.io/'), mode: LaunchMode.externalApplication),
             ),
@@ -500,7 +500,7 @@ _Activity? _latestActivity(WidgetRef ref, bool wide) {
     return _Activity(
       section == null ? 'Bài Đọc' : 'Bài Đọc · $section',
       r.title,
-      '${r.sentences.length} câu${r.hasRealAudio && audioFor(ref, r.audio) != null ? ' · giọng đọc thật' : ''}',
+      '${r.sentences.length} câu${r.hasRealAudio ? ' · giọng đọc thật' : ''}',
       Icons.menu_book_outlined,
       '/readings/${r.id}',
       image,

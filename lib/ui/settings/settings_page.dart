@@ -21,7 +21,9 @@ import '../widgets/shell.dart';
 import 'data_section.dart';
 
 class SettingsPage extends ConsumerStatefulWidget {
-  const SettingsPage({super.key});
+  /// Open scrolled to Dữ liệu (`/settings?section=data`: "Tải tất cả" of the recordings).
+  final bool showData;
+  const SettingsPage({super.key, this.showData = false});
   @override
   ConsumerState<SettingsPage> createState() => _SettingsPageState();
 }
@@ -102,7 +104,15 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
     ref.read(ttsProvider).voices().then((v) {
       if (mounted) setState(() => _voices = v);
     });
+    if (widget.showData) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        final c = _dataKey.currentContext;
+        if (c != null) Scrollable.ensureVisible(c, duration: const Duration(milliseconds: 300));
+      });
+    }
   }
+
+  final _dataKey = GlobalKey();
 
   @override
   Widget build(BuildContext context) {
@@ -186,7 +196,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
                   subtitle: const Text('Chọn file JSON đã xuất; dữ liệu hiện tại sẽ bị thay thế'),
                   onTap: _restore,
                 ),
-                const _Header('Dữ liệu'),
+                _Header('Dữ liệu', key: _dataKey),
                 const ContentSourcesSection(),
                 const _Header('Giới thiệu'),
                 ListTile(
@@ -236,7 +246,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
 
 class _Header extends StatelessWidget {
   final String text;
-  const _Header(this.text);
+  const _Header(this.text, {super.key});
   @override
   Widget build(BuildContext context) => Padding(
     padding: const EdgeInsets.fromLTRB(16, 18, 16, 4),

@@ -45,10 +45,10 @@ App không kèm sẵn bài học. Bạn cần hai file dữ liệu: **grammar.db
 ## Đổi hoặc thêm dữ liệu
 Vào **Cài Đặt → Dữ liệu** (nút bánh răng trên trang chính). Mỗi mục cho biết app tìm thấy gì:
 - **Dữ liệu bài học**: bấm **Chọn thư mục dữ liệu…** để đổi sang thư mục dữ liệu khác, ví dụ khi có phiên bản nội dung mới. App mở lại trang chính với dữ liệu đó.
-- **Âm thanh thực (giọng đọc thật)**: mặc định app tìm thư mục **audio/** cạnh grammar.db. Để ở chỗ khác thì bấm **Chọn thư mục…** và chọn thư mục chứa 1.mp3, 2.mp3…
+- **Âm thanh thực (giọng đọc thật)**: bài chưa tải về thì phát qua mạng. Bấm **Tải tất cả** để tải cả 119 bài về thư mục ghi ở mục này và nghe khi không có mạng. Đã có sẵn file ở chỗ khác thì bấm **Chọn thư mục…** và chọn thư mục chứa 1.mp3, 2.mp3…
 - **Video (Luyện Nghe)**: mặc định app tìm thư mục **video/** cạnh grammar.db. Để ở chỗ khác thì bấm **Chọn thư mục…** và chọn thư mục chứa A 01.mp4…
 
-Thiếu âm thanh thực thì bài đó đọc bằng giọng máy. Thiếu video thì trang Video báo không tìm thấy file; các phần khác vẫn dùng bình thường.
+Bài có giọng đọc thật mà chưa tải về thì cần mạng để nghe; không có mạng thì bài đó đọc bằng giọng máy. Thiếu video thì trang Video báo không tìm thấy file; các phần khác vẫn dùng bình thường.
 ''',
   ),
   AppHelpTopic(
@@ -120,7 +120,7 @@ Muốn đàm thoại được cần ba điều: thuộc nhiều câu nói theo l
     summary: 'Tra từ, nghe và dịch từng câu, tra cụm từ',
     section: 'Học',
     body: r'''
-Bài đọc song ngữ chia theo nhóm. Ở trang **Bài Đọc**, gõ vào ô **Tìm bài theo tên** để tìm nhanh, hoặc bấm **Tiếp tục** để mở bài đang đọc dở. Biểu tượng sóng âm cạnh tên bài cho biết bài có giọng đọc thật.
+Bài đọc song ngữ chia theo nhóm. Ở trang **Bài Đọc**, gõ vào ô **Tìm bài theo tên** để tìm nhanh, hoặc bấm **Tiếp tục** để mở bài đang đọc dở. Biểu tượng sóng âm cạnh tên bài cho biết bài có giọng đọc thật đã tải về; biểu tượng đám mây là bài có giọng đọc thật nhưng chưa tải, phát qua mạng. Trong bài, bấm **Tải bài này** để tải riêng bài đó, hoặc **Tải tất cả…** để mở Cài Đặt → Dữ liệu.
 
 ## Trong một bài
 - **Chạm một từ**: hiện nghĩa nhanh và máy đọc từ đó. Bấm **Lưu từ** để đưa vào Từ Vựng Của Bạn.
@@ -232,7 +232,7 @@ Nên học theo thứ tự. Làm bài tập của từng bài trước, rồi tr
     summary: 'Unit 1–20: nghe câu tiếng Anh, chọn câu dịch đúng',
     section: 'Học',
     body: r'''
-- Chọn một Unit. Máy đọc câu tiếng Anh: giọng thật nếu có âm thanh thực (nhãn **Giọng thật**), không có thì giọng máy.
+- Chọn một Unit. Máy đọc câu tiếng Anh bằng giọng thật của bài đọc cùng số. Biểu tượng sóng âm cạnh Unit là đã tải về; đám mây là chưa tải, phát qua mạng (bấm **Tải bài này** ở trang Unit, hoặc tải tất cả trong Cài Đặt → Dữ liệu). Không có mạng mà chưa tải thì đọc bằng giọng máy.
 - Chọn câu tiếng Việt đúng trong 4 câu. Chọn sai lần đầu thì câu đó không được điểm; vẫn chọn tiếp được đến khi đúng.
 - Câu tiếng Anh hiện ra sau khi bạn chọn đúng; lúc đó chạm từ để tra.
 - **Nghe lại** (hoặc **Space**) để nghe lần nữa. **Back** / **Next** (hoặc **Alt+←** / **Alt+→**, **Enter** sau khi đã trả lời) để chuyển câu; câu cuối có **Kết thúc** để xem điểm.

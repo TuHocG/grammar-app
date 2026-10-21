@@ -12,10 +12,12 @@ import 'dart:typed_data';
 import 'package:web/web.dart' as web;
 
 /// Cache Storage names. Packs and pictures are content-addressed (hash in the URL), so an entry
-/// never goes stale; the manifests are small and refreshed on every online start.
+/// never goes stale; the manifests are small and refreshed on every online start. Recordings are
+/// kept under their URL on the audio host, only when the user downloads them.
 const packsCache = 'grammar-packs';
 const imagesCache = 'grammar-images';
 const metaCache = 'grammar-meta';
+const audioCache = 'grammar-audio';
 
 /// A request that did not succeed: a status other than 2xx, or not the kind of content expected.
 class FetchFailure implements Exception {
@@ -33,6 +35,13 @@ Future<Uint8List?> cachedBytes(String cacheName, String url) async {
   final r = await (await _open(cacheName)).match(url.toJS).toDart;
   if (r == null) return null;
   return (await r.arrayBuffer().toDart).toDart.asUint8List();
+}
+
+/// A blob URL for what is stored under [url] in [cacheName] (for an `<audio>` element), or null.
+Future<String?> cachedObjectUrl(String cacheName, String url) async {
+  final r = await (await _open(cacheName)).match(url.toJS).toDart;
+  if (r == null) return null;
+  return web.URL.createObjectURL(await r.blob().toDart);
 }
 
 Future<bool> isCached(String cacheName, String url) async => await (await _open(cacheName)).match(url.toJS).toDart != null;

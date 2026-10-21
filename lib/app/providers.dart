@@ -1,7 +1,6 @@
 /// Riverpod wiring: databases, services, settings, user words.
 library;
 
-import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -13,23 +12,33 @@ import '../data/user_db.dart';
 import '../data/user_db_more.dart';
 import '../domain/lookup.dart';
 import '../platform/tts.dart';
+import 'config.dart';
 
 /// Overridden by `startApp` (app/grammar_app.dart) once the databases are open.
 final contentDbProvider = Provider<ContentDb>((ref) => throw UnimplementedError('contentDb not bootstrapped'));
 final userDbProvider = Provider<UserDb>((ref) => throw UnimplementedError('userDb not bootstrapped'));
 final ttsProvider = Provider<TtsService>((ref) => throw UnimplementedError('tts not bootstrapped'));
 
-/// The recording of a reading (`audio/12.mp3` in the DB), honouring the folder the user picked
-/// (Cài Đặt → Dữ liệu → Âm thanh thực), or null when the file is not there — callers then fall
-/// back to the synthetic voice.
+/// The recording of a reading (`audio/12.mp3` in the DB): the copy on this device (the folder the
+/// user picked in Cài Đặt → Dữ liệu → Âm thanh thực, or the browser's cache), else the stream
+/// from the audio host. Null only when the reading has none; a stream that cannot be played
+/// (offline) falls back to the synthetic voice in [SentencePlayer].
 AudioRef? audioFor(WidgetRef ref, String? rel) {
   if (rel == null || rel.isEmpty) return null;
-  return ref.read(contentDbProvider).media.audio(rel, dir: ref.read(userDbProvider).setting(audioDirKey));
+  return localRecording(ref, rel) ?? AudioUrl(recordingUrl(rel));
 }
 
-/// Why a reading that has a recording in the content is read by the synthetic voice here: the
-/// web app has no recordings, the installed app has not got the audio pack yet.
-String get missingRecordingNote => kIsWeb ? 'giọng thật có ở bản cài đặt' : 'chưa tải gói âm thanh (Cài Đặt → Dữ liệu)';
+/// The recording kept on this device, or null (not downloaded).
+AudioRef? localRecording(WidgetRef ref, String rel) => ref.read(contentDbProvider).media.audio(rel, dir: ref.read(userDbProvider).setting(audioDirKey));
+
+/// Bumped when recordings are downloaded or removed, so pages showing "đã tải / chưa tải" refresh.
+class RecordingsRevision extends Notifier<int> {
+  @override
+  int build() => 0;
+  void bump() => state++;
+}
+
+final recordingsRevisionProvider = NotifierProvider<RecordingsRevision, int>(RecordingsRevision.new);
 
 /// Bumped whenever a progress row changes; pages that show progress ("continue" cards,
 /// exercise scores, the reading being read) watch it so they refresh on return.

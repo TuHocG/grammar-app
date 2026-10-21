@@ -17,6 +17,7 @@ import '../../data/image_pack.dart';
 import '../../data/media_locations.dart';
 import '../../data/release_bundle.dart';
 import '../../platform/downloader_io.dart';
+import '../../platform/recordings.dart';
 import '../setup/download_dialog.dart';
 import 'data_picker.dart';
 
@@ -189,12 +190,54 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     }
     if (dir == null || !mounted) return;
     ref.read(userDbProvider).setSetting(key, dir);
+    if (key == audioDirKey) ref.read(recordingsRevisionProvider.notifier).bump();
     _refresh();
   }
 
   void _clear(String key) {
     ref.read(userDbProvider).setSetting(key, '');
+    if (key == audioDirKey) ref.read(recordingsRevisionProvider.notifier).bump();
     _refresh();
+  }
+
+  // ---- recordings -----------------------------------------------------------------------
+
+  RecordingDownloader? _audioDownload;
+  RecordingsProgress? _audioProgress;
+
+  @override
+  void dispose() {
+    _audioDownload?.stop();
+    _audioDownload?.close();
+    super.dispose();
+  }
+
+  /// Downloads every recording not in the recordings folder yet, from [grammarAudioUrl].
+  Future<void> _downloadRecordings() async {
+    final db = ref.read(contentDbProvider);
+    final d = _audioDownload = RecordingDownloader(db, ref.read(userDbProvider));
+    setState(() => _audioProgress = const RecordingsProgress(0, 0, 0));
+    try {
+      await d.fetchAll(
+        allRecordings(db),
+        onProgress: (p) {
+          if (mounted) setState(() => _audioProgress = p);
+        },
+      );
+      _snack('Đã tải đủ giọng đọc thật: nghe được cả khi không có mạng.');
+    } on RecordingsStopped {
+      _snack('Đã dừng; bấm Tải tất cả để tải tiếp.');
+    } catch (e) {
+      _snack('$e');
+    } finally {
+      d.close();
+      _audioDownload = null;
+      if (mounted) {
+        ref.read(recordingsRevisionProvider.notifier).bump();
+        setState(() => _audioProgress = null);
+        _refresh();
+      }
+    }
   }
 
   @override
@@ -291,14 +334,30 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
               : [
                   SelectableText(a.dir + (customAudio ? '' : '  (mặc định)'), style: muted),
                   Text(
-                    !a.exists
-                        ? 'Chưa có thư mục này: các bài sẽ đọc bằng giọng máy.'
-                        : '${a.found}/${a.expected} bài có file ghi âm · ${formatBytes(a.bytes)}'
-                              '${a.found < a.expected ? ' · bài thiếu file đọc bằng giọng máy' : ''}',
+                    !a.exists || a.found == 0
+                        ? 'Chưa tải bài nào: các bài phát giọng thật qua mạng (không có mạng thì đọc bằng giọng máy).'
+                        : '${a.found}/${a.expected} bài đã tải về · ${formatBytes(a.bytes)}'
+                              '${a.found < a.expected ? ' · bài chưa tải phát qua mạng' : ''}',
                     style: muted,
                   ),
+                  if (_audioProgress case final pr?)
+                    Padding(
+                      padding: const EdgeInsets.only(top: 8),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          LinearProgressIndicator(value: pr.total == 0 ? null : pr.fraction),
+                          const SizedBox(height: 4),
+                          Text(pr.total == 0 ? 'Đang tải…' : 'Đang tải bài ${pr.done < pr.total ? pr.done + 1 : pr.total}/${pr.total}', style: muted),
+                        ],
+                      ),
+                    ),
                 ],
           actions: [
+            if (_audioProgress != null)
+              OutlinedButton.icon(onPressed: () => _audioDownload?.stop(), icon: const Icon(Icons.stop_outlined), label: const Text('Dừng tải'))
+            else if (a != null && a.found < a.expected)
+              FilledButton.tonalIcon(onPressed: _downloadRecordings, icon: const Icon(Icons.download_outlined), label: Text('Tải tất cả (${a.expected - a.found} bài)')),
             OutlinedButton.icon(
               onPressed: () => _pickFolder(audioDirKey, 'Chọn thư mục âm thanh thực (1.mp3, 2.mp3 …)', a?.dir),
               icon: const Icon(Icons.folder_open_outlined),

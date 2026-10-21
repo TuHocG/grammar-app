@@ -14,6 +14,8 @@ import '../../data/bytes.dart';
 import '../../data/download_progress.dart';
 import '../../data/content_db.dart';
 import '../../data/manifest.dart';
+import '../../data/web_media.dart';
+import '../../platform/recordings.dart';
 import '../../platform/web_download.dart';
 import '../../platform/web_store.dart';
 
@@ -150,6 +152,71 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     await _refresh();
   }
 
+  RecordingDownloader? _audioDownload;
+
+  @override
+  void dispose() {
+    _audioDownload?.stop();
+    super.dispose();
+  }
+
+  /// Downloads every recording not in the browser yet, for listening offline.
+  Future<void> _downloadRecordings() async {
+    if (!onLine) {
+      _snack('Không có mạng.');
+      return;
+    }
+    final db = ref.read(contentDbProvider);
+    final d = _audioDownload = RecordingDownloader(db, ref.read(userDbProvider));
+    setState(() => _busy = 'Đang tải giọng đọc thật…');
+    try {
+      await d.fetchAll(
+        allRecordings(db),
+        onProgress: (p) {
+          if (!mounted) return;
+          setState(() {
+            _busy = 'Đang tải giọng đọc thật: bài ${p.done < p.total ? p.done + 1 : p.total}/${p.total}…';
+            _progress = DownloadProgress((p.fraction * 1000).round(), 1000);
+          });
+        },
+      );
+      _snack('Đã tải đủ giọng đọc thật: nghe được cả khi không có mạng.');
+    } on RecordingsStopped {
+      _snack('Đã dừng; bấm Tải giọng đọc thật để tải tiếp.');
+    } catch (e) {
+      _snack('Tải không xong: $e');
+    }
+    _audioDownload = null;
+    if (!mounted) return;
+    ref.read(recordingsRevisionProvider.notifier).bump();
+    setState(() {
+      _busy = null;
+      _progress = null;
+    });
+    await _refresh();
+  }
+
+  Future<void> _removeRecordings() async {
+    final ok = await showDialog<bool>(
+      context: context,
+      builder: (c) => AlertDialog(
+        title: const Text('Xoá giọng đọc thật đã tải?'),
+        content: const Text('Các bài sẽ phát giọng thật qua mạng như trước khi tải.'),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('Huỷ')),
+          FilledButton(onPressed: () => Navigator.pop(c, true), child: const Text('Xoá')),
+        ],
+      ),
+    );
+    if (ok != true) return;
+    await deleteCache(audioCache);
+    final media = ref.read(contentDbProvider).media;
+    if (media is WebMediaStore) media.recordingsRemoved();
+    if (!mounted) return;
+    ref.read(recordingsRevisionProvider.notifier).bump();
+    await _refresh();
+  }
+
   Future<void> _wipe() async {
     if (!onLine) {
       _snack('Cần có mạng để tải lại sau khi xoá.');
@@ -182,6 +249,9 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
     final date = db.contentDate;
     final e = _estimate;
     final p = _progress;
+    ref.watch(recordingsRevisionProvider);
+    final recordings = allRecordings(db);
+    final recordingsHere = recordings.where((r) => localRecording(ref, r) != null).length;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
@@ -211,6 +281,11 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
           ),
           trailing: _persisted == true ? null : TextButton(onPressed: _persist, child: const Text('Giữ lâu dài')),
         ),
+        ListTile(
+          leading: const Icon(Icons.graphic_eq),
+          title: Text('Giọng đọc thật: đã tải $recordingsHere/${recordings.length} bài'),
+          subtitle: Text(recordingsHere < recordings.length ? 'Bài chưa tải phát qua mạng; tải về để nghe khi không có mạng.' : 'Nghe được cả khi không có mạng.', style: muted),
+        ),
         if (_busy != null)
           ListTile(
             title: Text(_busy!),
@@ -224,6 +299,11 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
             children: [
               OutlinedButton.icon(onPressed: _busy == null ? _checkUpdate : null, icon: const Icon(Icons.update), label: const Text('Kiểm tra cập nhật')),
               OutlinedButton.icon(onPressed: _busy == null ? _prefetchAll : null, icon: const Icon(Icons.image_outlined), label: const Text('Tải trước toàn bộ ảnh')),
+              if (_audioDownload != null)
+                OutlinedButton.icon(onPressed: () => _audioDownload?.stop(), icon: const Icon(Icons.stop_outlined), label: const Text('Dừng tải'))
+              else if (recordingsHere < recordings.length)
+                OutlinedButton.icon(onPressed: _busy == null ? _downloadRecordings : null, icon: const Icon(Icons.download_outlined), label: const Text('Tải giọng đọc thật')),
+              if (recordingsHere > 0) TextButton(onPressed: _busy == null ? _removeRecordings : null, child: const Text('Xoá giọng đọc đã tải')),
               TextButton(onPressed: _busy == null ? _wipe : null, child: const Text('Xoá dữ liệu đã tải')),
             ],
           ),
@@ -231,7 +311,7 @@ class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
         ListTile(
           leading: const Icon(Icons.computer_outlined),
           title: const Text('Bản đầy đủ cho Windows, Android, macOS'),
-          subtitle: const Text('Có âm thanh thực và video; chạy không cần trình duyệt'),
+          subtitle: const Text('Có video; chạy không cần trình duyệt'),
           trailing: const Icon(Icons.open_in_new),
           onTap: () => launchUrl(Uri.parse('https://tuhocg.github.io/'), mode: LaunchMode.externalApplication),
         ),

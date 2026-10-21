@@ -24,6 +24,7 @@ class AudioFile extends AudioRef {
   String toString() => path;
 }
 
+/// A recording streamed from the audio host: not on this device.
 class AudioUrl extends AudioRef {
   final String url;
   const AudioUrl(this.url);
@@ -31,13 +32,23 @@ class AudioUrl extends AudioRef {
   String toString() => url;
 }
 
+/// A recording the web app downloaded into Cache Storage; [open] makes a URL the player can
+/// load (a blob URL), done when the recording is first played.
+class AudioCached extends AudioRef {
+  final String key;
+  final Future<String> Function() open;
+  const AudioCached(this.key, this.open);
+  @override
+  String toString() => key;
+}
+
 abstract class MediaStore {
   /// The picture of a relative content path (`img/readings/x.webp`, `img/pages/1.webp`).
   ImageProvider image(String rel);
 
-  /// The recording of a relative content path (`audio/12.mp3`), or null when it is not there:
-  /// the caller then reads with the synthetic voice. [dir] is the folder the user picked
-  /// instead of the default one, when any.
+  /// The recording of a relative content path (`audio/12.mp3`) kept on this device, or null when
+  /// it is not there: the caller then streams it from the audio host. [dir] is the folder the
+  /// user picked instead of the default one, when any.
   AudioRef? audio(String rel, {String? dir});
 
   /// Releases what the store holds open (the illustrations zip).

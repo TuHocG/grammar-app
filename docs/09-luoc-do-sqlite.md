@@ -30,7 +30,7 @@ Sinh bằng `python3 tool/content/pack.py` (từ `content/dataset` ra `content/g
 
 Đã bỏ (1.2.0, app chưa bao giờ đọc): cột `reading.en`/`vi` (bản sao của `reading_sentence`), chỉ mục FTS5 `dict_fts` và `reading_sentence_fts`, bảng `help_topic` (hướng dẫn của app nằm trong mã, `lib/ui/help/help_content.dart`), khoá `meta.built`, `media_note`. Truy vấn mẫu (đo trên máy phát triển): tra tiền tố `WHERE key >= ? AND key < ?` 1,7 ms.
 
-**File ngoài DB.** Ảnh minh hoạ (`reading.img`, ảnh luyện nói trong `meta`) và ghi âm (`reading.audio`) không nằm trong DB; DB giữ đường dẫn tương đối `img/...`, `audio/...`. Bản phát hành (`tool/content/bundle.py`) gom ảnh minh hoạ vào `grammar.images` cạnh grammar.db: zip không nén, mỗi ảnh mang đúng đường dẫn `img/...` của nội dung, app đọc thẳng từ zip (`lib/data/image_pack.dart`). Không có file này thì app tìm `<thư mục chứa grammar.db>/img/...`, rồi `<thư mục>/dataset/img/...` (cấu trúc `content/` trong repo). Ghi âm vẫn là file trong `audio/`. Thiếu ảnh minh hoạ thì bài học vẫn dùng được; thiếu ghi âm thì đọc bằng giọng máy.
+**File ngoài DB.** Ảnh minh hoạ (`reading.img`, ảnh luyện nói trong `meta`) và ghi âm (`reading.audio`) không nằm trong DB; DB giữ đường dẫn tương đối `img/...`, `audio/...`. Bản phát hành (`tool/content/bundle.py`) gom ảnh minh hoạ vào `grammar.images` cạnh grammar.db: zip không nén, mỗi ảnh mang đúng đường dẫn `img/...` của nội dung, app đọc thẳng từ zip (`lib/data/image_pack.dart`). Không có file này thì app tìm `<thư mục chứa grammar.db>/img/...`, rồi `<thư mục>/dataset/img/...` (cấu trúc `content/` trong repo). Ghi âm vẫn là file trong `audio/` (bản web: Cache Storage); chưa có thì app phát thẳng từ máy chủ âm thanh (`grammarAudioUrl`, docs/07 §12 (7)), không phát được thì đọc bằng giọng máy. Thiếu ảnh minh hoạ thì bài học vẫn dùng được.
 
 **Lược đồ.** 1: bản đầu. App đọc được lược đồ ≤ `ContentDb.supportedSchema` (= 1); DB không có bảng `media` vẫn mở được, khi đó ảnh trang tranh lấy từ file; không có `subtitle_film` thì các lối vào Video ẩn đi. Bỏ bảng/cột app không đọc (1.2.0) không tăng lược đồ: app 1.0.x vẫn mở được DB 1.2.0.
 
@@ -86,4 +86,5 @@ img/…                         mọi ảnh theo đường dẫn nội dung (ả
 ```
 
 Khối `i` chiếm byte `[i·block_size, (i+1)·block_size)` của file (khối cuối ngắn hơn); vị trí của nó trong pack tính dồn từ `blocks`. `host.py --verify` ghép lại và so sha256; `test/host_layout_test.dart` kiểm tra bố cục đã dựng, `test/block_vfs_test.dart` so mọi truy vấn qua VFS với DB mở thẳng. Số liệu 1.2.0: 176 MB → 8 pack, 56,5 MB. Manifest `format` tăng khi đổi bố cục; app đọc tới `HostManifest.supportedFormat`.
+Ghi âm không nằm trên máy chủ web này mà trên máy chủ âm thanh riêng (docs/07 §12 (7)).
 Tên pack phụ thuộc bản zlib dựng ra nó (cùng nội dung, máy khác có thể cho pack khác), nên trên máy chủ chỉ pack là `immutable`; `latest.json` và `manifest.json` phải `no-cache`.

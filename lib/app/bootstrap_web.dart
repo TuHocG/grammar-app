@@ -69,7 +69,7 @@ Future<void> _start() async {
     }
     final previous = (_content, _vfs);
     final vfs = BlockVfs(PackedBlockSource(manifest.db, packs));
-    final content = ContentDb.fromDatabase(vfs.open(sqlite), media: WebMediaStore(_host, manifest));
+    final content = ContentDb.fromDatabase(vfs.open(sqlite), media: WebMediaStore(_host, manifest, recordings: await cachedUrls(audioCache).catchError((Object _) => <String>[])));
     _content = content;
     _vfs = vfs;
     if (previous case (final c?, final v?)) {

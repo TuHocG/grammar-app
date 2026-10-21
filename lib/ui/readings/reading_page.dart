@@ -28,6 +28,7 @@ import '../dictionary/quick_def_sheet.dart';
 import '../widgets/shell.dart';
 import '../vocab/word_hint.dart';
 import '../widgets/word_tap_text.dart';
+import 'recording_status.dart';
 
 class ReadingPage extends ConsumerStatefulWidget {
   final int id;
@@ -74,11 +75,22 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
       if (_reading!.sid >= 0) ref.read(userDbProvider).setProgress('reading', 'last_in_${_reading!.sid}', '${_reading!.id}');
       ref.read(userDbProvider).setProgress('reading', 'last_reading', '${_reading!.id}');
       if (widget.fromAnalysis && lesson != null) ref.read(userDbProvider).setProgress('analysis', 'last', '$lesson');
-      _player = SentencePlayer(tts: ref.read(ttsProvider), reading: _reading!, audio: _reading!.hasRealAudio ? audioFor(ref, _reading!.audio) : null)
-        ..addListener(() {
-          if (mounted) setState(() => _speaking = _player!.state == PlayerState.playing ? _player!.index : null);
-        });
+      _player = _newPlayer();
     }
+  }
+
+  SentencePlayer _newPlayer() => SentencePlayer(tts: ref.read(ttsProvider), reading: _reading!, audio: _reading!.hasRealAudio ? audioFor(ref, _reading!.audio) : null)
+    ..addListener(() {
+      if (mounted) setState(() => _speaking = _player!.state == PlayerState.playing ? _player!.index : null);
+    });
+
+  /// The recording was just downloaded: play the copy from now on (unless a sentence is being
+  /// read from the stream; the next visit then uses the copy).
+  void _recordingDownloaded() {
+    final old = _player;
+    if (!mounted || old == null || old.state == PlayerState.playing) return;
+    old.dispose();
+    setState(() => _player = _newPlayer());
   }
 
   @override
@@ -257,20 +269,7 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
         if (r.hasRealAudio)
           Padding(
             padding: const EdgeInsets.only(left: 8),
-            child: Row(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                Icon(Icons.graphic_eq, size: 16, color: g.slate),
-                const SizedBox(width: 6),
-                // Flexible: the note wraps on a phone instead of running off the toolbar.
-                Flexible(
-                  child: Text(
-                    audioFor(ref, r.audio) != null ? 'Bài này có giọng đọc thật' : 'Bài này có giọng đọc thật: $missingRecordingNote',
-                    style: theme.textTheme.bodyMedium?.copyWith(color: g.slate),
-                  ),
-                ),
-              ],
-            ),
+            child: RecordingStatus(rel: r.audio!, failed: _player?.recordingFailed ?? false, onDownloaded: _recordingDownloaded),
           ),
       ],
     );
@@ -293,7 +292,13 @@ class _ReadingPageState extends ConsumerState<ReadingPage> {
                     padding: const EdgeInsets.fromLTRB(12, 8, 12, 6),
                     child: Text(section!.title, style: theme.textTheme.titleSmall, maxLines: 2, overflow: TextOverflow.ellipsis),
                   ),
-                  for (final s in siblings) TocRow(title: s.title, selected: s.id == r.id, audio: s.hasAudio, onTap: s.id == r.id ? null : () => context.pushReplacement('/readings/${s.id}')),
+                  for (final s in siblings)
+                    TocRow(
+                      title: s.title,
+                      selected: s.id == r.id,
+                      trailing: s.audio == null ? null : RecordingMark(s.audio!, color: s.id == r.id ? g.iris : null),
+                      onTap: s.id == r.id ? null : () => context.pushReplacement('/readings/${s.id}'),
+                    ),
                 ],
               ),
             ),

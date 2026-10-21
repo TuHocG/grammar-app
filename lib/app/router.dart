@@ -214,7 +214,10 @@ GoRouter buildRouter() => GoRouter(
       ],
     ),
     GoRoute(path: '/words', builder: (_, _) => const MyWordsPage()),
-    GoRoute(path: '/settings', builder: (_, _) => const SettingsPage()),
+    GoRoute(
+      path: '/settings',
+      builder: (_, s) => SettingsPage(showData: s.uri.queryParameters['section'] == 'data'),
+    ),
     GoRoute(
       path: '/help',
       builder: (_, _) => const HelpListPage(),

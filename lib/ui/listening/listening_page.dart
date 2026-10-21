@@ -16,6 +16,7 @@ import 'package:go_router/go_router.dart';
 import '../../app/providers.dart';
 import '../../data/content_db.dart';
 import '../../data/content_db_more.dart';
+import '../../data/media_store.dart';
 import '../../data/models.dart';
 import '../../domain/sentence_player.dart';
 import '../../platform/tts.dart';
@@ -24,6 +25,7 @@ import '../widgets/question_layout.dart';
 import '../widgets/word_tap_text.dart';
 import '../../app/theme.dart';
 import '../widgets/shell.dart';
+import '../readings/recording_status.dart';
 
 class ListeningUnitsPage extends ConsumerWidget {
   const ListeningUnitsPage({super.key});
@@ -35,10 +37,13 @@ class ListeningUnitsPage extends ConsumerWidget {
     final units = db.listeningUnits();
     final userDb = ref.read(userDbProvider);
     ref.watch(progressRevisionProvider);
+    ref.watch(recordingsRevisionProvider);
     final last = int.tryParse(userDb.progress('listening', 'last') ?? '');
+    final recordings = [for (final u in units) ?db.listeningReadingTitle(u)?.audio];
+    final recordingsHere = recordings.where((a) => localRecording(ref, a) != null).length;
 
     // Same row layout as the Phân Tích Câu list: thumbnail, title, details, badge.
-    Widget row({required Widget thumb, required String title, required String detail, bool current = false, required VoidCallback onTap}) => Padding(
+    Widget row({required Widget thumb, required String title, required String detail, String? audio, bool current = false, required VoidCallback onTap}) => Padding(
       padding: const EdgeInsets.only(bottom: 8),
       child: Surface(
         onTap: onTap,
@@ -63,6 +68,7 @@ class ListeningUnitsPage extends ConsumerWidget {
               ),
             ),
             if (current) const SoftBadge('Đang luyện'),
+            if (audio != null) Padding(padding: const EdgeInsets.only(left: 8), child: RecordingMark(audio, size: 16)),
             const SizedBox(width: 4),
             Icon(Icons.chevron_right, color: g.fog),
           ],
@@ -75,7 +81,20 @@ class ListeningUnitsPage extends ConsumerWidget {
       body: RailListView(
         children: [
           Text('Luyện Nghe', style: theme.textTheme.headlineLarge),
-          Text('${units.length} bài · nghe câu tiếng Anh, chọn câu dịch đúng', style: theme.textTheme.bodyLarge?.copyWith(color: g.slate)),
+          Text(
+            '${units.length} bài · nghe câu tiếng Anh, chọn câu dịch đúng'
+            '${recordings.isEmpty ? '' : ' · giọng đọc thật đã tải về $recordingsHere/${recordings.length} bài'}',
+            style: theme.textTheme.bodyLarge?.copyWith(color: g.slate),
+          ),
+          if (recordingsHere < recordings.length)
+            Align(
+              alignment: Alignment.centerLeft,
+              child: TextButton.icon(
+                onPressed: () => context.push(dataSettingsRoute),
+                icon: const Icon(Icons.download_outlined, size: 18),
+                label: const Text('Tải giọng đọc thật để nghe không cần mạng…'),
+              ),
+            ),
           const SizedBox(height: 16),
           if (db.hasVideo) ...[
             row(thumb: const IconTile(Icons.movie_outlined, size: 56), title: 'Video có phụ đề song ngữ', detail: '210 tập: 3 bộ video bài học và 5 phim', onTap: () => context.push('/video')),
@@ -93,6 +112,7 @@ class ListeningUnitsPage extends ConsumerWidget {
                       : const IconTile(Icons.hearing_outlined, size: 56),
                   title: _unitTitle(u, source?.title),
                   detail: '${db.listeningCount(u)} câu${score != null ? ' · $score' : ''}',
+                  audio: source?.audio,
                   current: u == last,
                   onTap: () => context.push('/listening/$u'),
                 );
@@ -134,7 +154,7 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
   Reading? _recording;
 
   /// The reading whose recording this unit plays (shown and linked in the map).
-  ({int id, String title})? _source;
+  ({int id, String title, String audio})? _source;
   late final TtsService _tts;
 
   /// Replaced by the next unit, which starts speaking before this page is disposed.
@@ -153,9 +173,24 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
     final audio = r != null && r.hasRealAudio ? audioFor(ref, r.audio) : null;
     if (r != null && audio != null) {
       _recording = r;
-      _player = SentencePlayer(tts: _tts, reading: r, audio: audio);
+      _player = _newPlayer(r, audio);
     }
     if (_items.isNotEmpty) _go(0);
+  }
+
+  /// The page shows whether the recording plays (a stream may fail offline: TTS then).
+  SentencePlayer _newPlayer(Reading r, AudioRef audio) => SentencePlayer(tts: _tts, reading: r, audio: audio)
+    ..addListener(() {
+      if (mounted) setState(() {});
+    });
+
+  /// The recording was just downloaded: play the copy from now on, unless it is speaking.
+  void _recordingDownloaded() {
+    final old = _player, r = _recording;
+    if (!mounted || old == null || r == null || old.state == PlayerState.playing) return;
+    old.stopTtsOnDispose = false;
+    old.dispose();
+    setState(() => _player = _newPlayer(r, audioFor(ref, r.audio)!));
   }
 
   @override
@@ -311,10 +346,13 @@ class _ListeningUnitPageState extends ConsumerState<ListeningUnitPage> {
           children: [
             const Eyebrow('Nghe câu tiếng Anh rồi chọn câu dịch đúng'),
             const SizedBox(height: 8),
-            Row(
+            Wrap(
+              spacing: 12,
+              runSpacing: 8,
+              crossAxisAlignment: WrapCrossAlignment.center,
               children: [
                 FilledButton.tonalIcon(onPressed: _speak, icon: const Icon(Icons.volume_up), label: const Text('Nghe lại')),
-                if (_player != null) ...[const SizedBox(width: 8), SoftBadge('Giọng thật', color: g.slate, background: g.canvas)],
+                if (_player case final p?) RecordingStatus(rel: p.reading.audio!, failed: p.recordingFailed, onDownloaded: _recordingDownloaded),
               ],
             ),
             // The sentence takes the card's full width on its own line.

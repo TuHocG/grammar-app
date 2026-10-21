@@ -46,6 +46,10 @@ class SentencePlayer extends ChangeNotifier {
   SentencePlayer({required this.tts, required this.reading, this.audio});
 
   bool get useRecording => audio != null && reading.hasRealAudio && !_recordingFailed;
+
+  /// The recording could not be played (a stream while offline, a codec the platform lacks):
+  /// the sentences are read with TTS instead.
+  bool get recordingFailed => _recordingFailed;
   int get count => reading.sentences.length;
   Sentence get current => reading.sentences[index];
 
@@ -76,6 +80,9 @@ class SentencePlayer extends ChangeNotifier {
         await _playSegment(reading.times![index], reading.times![index + 1], run);
         return;
       } catch (e) {
+        // A run superseded while its stream was loading (a tap on another sentence) may fail
+        // because of the newer one: that says nothing about the recording.
+        if (run != _run) return;
         debugPrint('SentencePlayer: cannot play $audio, falling back to TTS: $e');
         _recordingFailed = true;
         notifyListeners();
@@ -95,10 +102,13 @@ class SentencePlayer extends ChangeNotifier {
     // left by the previous sentence before seeking, which ended a replay (or a jump back)
     // as soon as it started.
     if (!_sourceSet) {
-      await p.setSource(switch (audio!) {
+      final source = switch (audio!) {
         AudioFile(:final path) => DeviceFileSource(path),
         AudioUrl(:final url) => UrlSource(url),
-      });
+        AudioCached(:final open) => UrlSource(await open()),
+      };
+      // A stream that never answers (captive portal, dead host) must not hold the reading up.
+      await p.setSource(source).timeout(const Duration(seconds: 20));
       _sourceSet = true;
     }
     await p.seek(Duration(milliseconds: (start * 1000).round()));
@@ -133,7 +143,7 @@ class SentencePlayer extends ChangeNotifier {
       await _playSegment(0, reading.times![0], run);
     } catch (e) {
       debugPrint('SentencePlayer: cannot play $audio: $e');
-      _recordingFailed = true;
+      if (run == _run) _recordingFailed = true;
     }
     if (run == _run) {
       state = PlayerState.idle;

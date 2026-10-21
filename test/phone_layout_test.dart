@@ -12,13 +12,17 @@ import 'package:grammar/app/providers.dart';
 import 'package:grammar/app/theme.dart';
 import 'package:grammar/data/content_db.dart';
 import 'package:grammar/data/content_db_more.dart';
+import 'package:grammar/data/media_store.dart';
 import 'package:grammar/data/user_db.dart';
 import 'package:grammar/platform/tts.dart';
 import 'package:grammar/ui/dialogs/dialog_pages.dart';
 import 'package:grammar/ui/grammar/grammar_page.dart';
 import 'package:grammar/ui/home/home_page.dart';
+import 'package:grammar/ui/listening/listening_page.dart';
 import 'package:grammar/ui/pictures/picture_pages.dart';
 import 'package:grammar/ui/readings/reading_page.dart';
+import 'package:grammar/ui/readings/reading_toc_page.dart';
+import 'package:grammar/ui/settings/settings_page.dart';
 import 'package:grammar/ui/user_readings/user_reading_pages.dart';
 import 'package:grammar/ui/video/video_pages.dart';
 
@@ -73,6 +77,8 @@ void main() {
       ProviderScope(overrides: [contentDbProvider.overrideWithValue(db), userDbProvider.overrideWithValue(user), ttsProvider.overrideWithValue(TtsService())], child: app(child, scale));
 
   void phone(WidgetTester tester) {
+    // An empty recordings folder: every recording is streamed, so the pages show their download buttons.
+    user.setSetting(audioDirKey, Directory('${tmp.path}/audio').path);
     tester.view.physicalSize = const Size(phoneWidth, 760);
     tester.view.devicePixelRatio = 1.0;
     addTearDown(tester.view.reset);
@@ -90,6 +96,12 @@ void main() {
       ('Ngữ Pháp Của Bạn', () => const GrammarPage(savedOnly: true)),
       ('home', () => const HomePage()),
       ('Tạo bài đọc', () => const UserReadingEditPage()),
+      // Recordings not downloaded: the status line, its buttons and the cloud marks.
+      ('reading with a recording', () => ReadingPage(id: db.listeningReadingTitle(5)!.id)),
+      ('readings of a section with recordings', () => ReadingListPage(sid: db.listeningReading(1)!.sid)),
+      ('Luyện Nghe', () => const ListeningUnitsPage()),
+      ('Luyện Nghe unit', () => const ListeningUnitPage(unit: 5)),
+      ('Cài Đặt', () => const SettingsPage(showData: true)),
     ]) {
       testWidgets('$name page fits a phone at $pct text', (tester) async {
         phone(tester);

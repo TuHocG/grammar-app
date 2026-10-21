@@ -11,6 +11,7 @@ import '../../app/theme.dart';
 import '../../data/content_db.dart';
 import '../../data/models.dart';
 import '../widgets/shell.dart';
+import 'recording_status.dart';
 
 final sectionTreeProvider = Provider<ReadingSection>((ref) => ref.watch(contentDbProvider).sectionTree());
 
@@ -171,7 +172,6 @@ class _SearchResults extends StatelessWidget {
   const _SearchResults({required this.hits});
   @override
   Widget build(BuildContext context) {
-    final g = context.g;
     if (hits.isEmpty) return const EmptyNote('Không có bài nào khớp.');
     return Surface(
       padding: const EdgeInsets.all(8),
@@ -180,7 +180,7 @@ class _SearchResults extends StatelessWidget {
           for (final h in hits)
             ListTile(
               title: Text(h.title, style: ReadingStyles.line(context).copyWith(fontSize: 16)),
-              trailing: h.hasAudio ? Icon(Icons.graphic_eq, size: 18, color: g.fog) : null,
+              trailing: h.audio == null ? null : RecordingMark(h.audio!, size: 18),
               onTap: () => context.push('/readings/${h.id}'),
             ),
         ],
@@ -204,6 +204,8 @@ class ReadingListPage extends ConsumerWidget {
     ref.read(userDbProvider).setProgress('reading', 'last_section', '$sid');
     ref.watch(progressRevisionProvider);
     final lastId = int.tryParse(ref.read(userDbProvider).progress('reading', 'last_in_$sid') ?? '');
+    ref.watch(recordingsRevisionProvider);
+    final recorded = items.where((r) => r.hasAudio).toList();
     return Scaffold(
       appBar: GrammarAppBar(crumbs: [const Crumb('Bài Đọc', '/readings'), Crumb(section?.title ?? 'Bài Đọc')]),
       body: RailListView(
@@ -212,13 +214,22 @@ class ReadingListPage extends ConsumerWidget {
           Text(section?.title ?? 'Bài Đọc', style: theme.textTheme.headlineLarge),
           Text(
             '${items.length} bài'
-            '${items.any((r) => r.hasAudio && audioFor(ref, r.audio) != null)
-                ? ' · có bài với giọng đọc thật'
-                : items.any((r) => r.hasAudio)
-                ? ' · có bài với giọng đọc thật ($missingRecordingNote)'
-                : ''}',
+            '${switch ((recorded.length, recorded.where((r) => localRecording(ref, r.audio!) != null).length)) {
+              (0, _) => '',
+              (final n, final here) when here == n => ' · có giọng đọc thật',
+              (final n, final here) => ' · có giọng đọc thật, đã tải về $here/$n bài',
+            }}',
             style: theme.textTheme.bodyLarge?.copyWith(color: g.slate),
           ),
+          if (recorded.any((r) => localRecording(ref, r.audio!) == null))
+            Align(
+              alignment: Alignment.centerLeft,
+              child: TextButton.icon(
+                onPressed: () => context.push(dataSettingsRoute),
+                icon: const Icon(Icons.download_outlined, size: 18),
+                label: const Text('Tải giọng đọc thật để nghe không cần mạng…'),
+              ),
+            ),
           const SizedBox(height: 20),
           AutoGrid(
             minWidth: 280,
@@ -258,6 +269,7 @@ class ReadingListPage extends ConsumerWidget {
                                   children: [
                                     if (r.id == lastId) const SoftBadge('Đang đọc'),
                                     if (r.hasAudio) SoftBadge('MP3', color: g.slate, background: g.canvas),
+                                    if (r.hasAudio) RecordingMark(r.audio!, size: 16),
                                   ],
                                 ),
                               ),
