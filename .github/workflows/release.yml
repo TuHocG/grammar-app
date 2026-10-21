@@ -159,7 +159,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4
-        with: { distribution: temurin, java-version: '17' }
+        # Gradle's downloads (wrapper, plugins, dependencies), keyed by the build files.
+        with: { distribution: temurin, java-version: '17', cache: gradle }
       - name: Release keystore
         env:
           KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
