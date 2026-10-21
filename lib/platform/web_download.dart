@@ -17,10 +17,15 @@ import '../data/download_progress.dart';
 import '../data/manifest.dart';
 import 'web_store.dart';
 
-/// Where the host's files are: the app's own origin and folder.
+/// Where the host's files are: the app's own origin and folder, or, while developing with
+/// `flutter run -d chrome`, the server of `tool/web/serve.py` named by
+/// `--dart-define=GRAMMAR_HOST_URL=http://localhost:8080/` (README "Bản web").
 class HostLocation {
+  static const _override = String.fromEnvironment('GRAMMAR_HOST_URL');
+
   final Uri base;
   const HostLocation(this.base);
+  factory HostLocation.ofApp() => HostLocation(_override.isEmpty ? Uri.base.removeFragment() : Uri.parse(_override));
 
   String url(String rel) => base.resolve(rel).toString();
   String get latestUrl => url('data/latest.json');

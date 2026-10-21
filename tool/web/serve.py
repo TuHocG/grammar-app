@@ -6,6 +6,8 @@
 
 Looks each path up in build/web first, then build/host, so the app and its data share one origin
 as on the real host; `_headers` of Cloudflare Pages are not applied (only the wasm content type).
+While developing, run the app with hot restart from another port and point it at this server for
+the data: `flutter run -d chrome --dart-define=GRAMMAR_HOST_URL=http://localhost:8080/`.
 Standalone, stdlib only.
 """
 from __future__ import annotations
@@ -31,6 +33,8 @@ class Handler(SimpleHTTPRequestHandler):
 
     def end_headers(self) -> None:
         self.send_header('Cache-Control', 'no-store')
+        # `flutter run -d chrome` serves the app from another port and fetches the data from here.
+        self.send_header('Access-Control-Allow-Origin', '*')
         super().end_headers()
 
     def log_message(self, format: str, *args) -> None:  # noqa: A002 (stdlib signature)

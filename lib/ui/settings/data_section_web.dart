@@ -24,7 +24,7 @@ class ContentSourcesSection extends ConsumerStatefulWidget {
 }
 
 class _ContentSourcesSectionState extends ConsumerState<ContentSourcesSection> {
-  final _host = HostLocation(Uri.base.removeFragment());
+  final _host = HostLocation.ofApp();
   ({int usage, int quota})? _estimate;
   bool? _persisted;
   int? _imagesCached;

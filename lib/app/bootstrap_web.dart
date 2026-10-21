@@ -24,7 +24,7 @@ Future<void> bootstrap() async {
   await _start();
 }
 
-final _host = HostLocation(Uri.base.removeFragment());
+final _host = HostLocation.ofApp();
 WasmSqlite3? _sqlite;
 UserDb? _user;
 ContentDb? _content;
